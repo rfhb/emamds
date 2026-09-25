@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-29 12:40:05
-document_pages: 59
+document_datetime: 2026-09-24 15:08:11
+document_pages: 61
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/padcev-epar-product-information_en.pdf
 document_name: padcev-epar-product-information_en.pdf
 version: success
-processing_time: 18.7182742
-conversion_datetime: 2026-08-01 12:00:38.072509
+processing_time: 61.8571937
+conversion_datetime: 2026-09-25 19:18:55.542653
 docling_version:
-  docling-serve: 1.29.0
-  docling-jobkit: 3.2.0
-  docling: 2.117.0
-  docling-core: 2.89.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,7 @@ docling_version:
 
 <!-- image -->
 
-▼ This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+▼This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -38,9 +38,7 @@ Padcev 20 mg powder for concentrate for solution for infusion
 
 One vial of powder for concentrate for solution for infusion contains 20 mg enfortumab vedotin.
 
-Padcev 30 mg powder for concentrate for solution for infusion
-
-One vial of powder for concentrate for solution for infusion contains 30 mg enfortumab vedotin.
+Padcev 30 mg powder for concentrate for solution for infusion One vial of powder for concentrate for solution for infusion contains 30 mg enfortumab vedotin.
 
 After reconstitution, each mL of solution contains 10 mg of enfortumab vedotin.
 
@@ -93,7 +91,7 @@ Table 2. Recommended dose for enfortumab vedotin as monotherapy
 |--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | Locally advanced or metastatic urothelial cancer | Enfortumab vedotin 1.25 mg/kg (up to a maximum of 125 mg for patients ≥100 kg) on Days 1, 8 and 15 of a 28-day cycle. | Until disease progression or unacceptable toxicity. |
 
-Table 3. Recommended dose reductions of enfortumab vedotin for adverse reactions
+## Table 3. Recommended dose reductions of enfortumab vedotin for adverse reactions
 
 | Dose reduction schedule   | Dose level              |
 |---------------------------|-------------------------|
@@ -106,22 +104,21 @@ Table 3. Recommended dose reductions of enfortumab vedotin for adverse reactions
 
 Table 4. Dose interruption, reduction and discontinuation of enfortumab vedotin
 
-| Adverse reaction                             | Severity*                                                                                       | Dose modification*                                                                                                                                                                                      |
-|----------------------------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Skin reactions                               | Suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) or bullous lesions | Immediately withhold and refer to specialised care.                                                                                                                                                     |
-| Skin reactions                               | Confirmed SJS or TEN; Grade 4 or recurrent Grade 3                                              | Permanently discontinue.                                                                                                                                                                                |
-| Skin reactions                               | Grade 2 worsening Grade 2 with fever Grade 3                                                    | • Withhold until Grade ≤1. • Referral to specialised care should be considered. • Resume at the same dose level or consider dose reduction by one dose level (see Table 3).                             |
-| Hyperglycaemia                               | Blood glucose >13.9 mmol/L (>250 mg/dL)                                                         | • Withhold until elevated blood glucose has improved to ≤13.9 mmol/L (≤250 mg/dL). • Resume treatment at the same dose level.                                                                           |
-| Pneumonitis/ interstitial lung disease (ILD) | Grade 2                                                                                         | • Withhold until Grade ≤1, then resume at the same dose or consider dose reduction by one dose level (see Table 3).                                                                                     |
-| Pneumonitis/ interstitial lung disease (ILD) | Grade ≥3                                                                                        | Permanently discontinue.                                                                                                                                                                                |
-| Peripheral neuropathy                        | Grade 2                                                                                         | • Withhold until Grade ≤1. • For first occurrence, resume treatment at the same dose level. • For a recurrence, withhold until Grade ≤1, then resume treatment reduced by one dose level (see Table 3). |
-| Peripheral neuropathy                        | Grade ≥3                                                                                        | Permanently discontinue.                                                                                                                                                                                |
+| Adverse reaction                             | Severity*                                                                                                             | Dose modification*                                                                                                                                                                                      |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Skin reactions                               | Suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) or bullous lesions Confirmed SJS or TEN; | Immediately withhold and refer to specialised care. Permanently discontinue.                                                                                                                            |
+| Skin reactions                               | Grade 4 or recurrent Grade 3 Grade 2 worsening Grade 2 with fever Grade 3                                             | • Withhold until Grade ≤1. • Referral to specialised care should be considered. • Resume at the same dose level or consider dose reduction by one dose level (see Table 3).                             |
+| Hyperglycaemia                               | Blood glucose >13.9 mmol/L (>250 mg/dL)                                                                               | • Withhold until elevated blood glucose has improved to ≤13.9 mmol/L (≤250 mg/dL). • Resume treatment at the same dose level.                                                                           |
+| Pneumonitis/ interstitial lung disease (ILD) | Grade 2                                                                                                               | • Withhold until Grade ≤1, then resume at the same dose or consider dose reduction by one dose level (see Table 3).                                                                                     |
+| Pneumonitis/ interstitial lung disease (ILD) | Grade ≥3                                                                                                              | Permanently discontinue.                                                                                                                                                                                |
+| Peripheral neuropathy                        | Grade 2                                                                                                               | • Withhold until Grade ≤1. • For first occurrence, resume treatment at the same dose level. • For a recurrence, withhold until Grade ≤1, then resume treatment reduced by one dose level (see Table 3). |
+| Peripheral neuropathy                        | Grade ≥3                                                                                                              | Permanently discontinue.                                                                                                                                                                                |
 
 <div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
-## Elderly
+Elderly
 
 No dose adjustment is necessary in patients ≥65 years of age (see section 5.2).
 
@@ -177,9 +174,9 @@ Hyperglycaemia and diabetic ketoacidosis (DKA), including fatal events, occurred
 
 <div style=\"page-break-after: always\"></div>
 
-## Serious infections
+## Serious infections and opportunistic infections
 
-Serious infections such as sepsis or pneumonia (including fatal outcomes) have been reported in patients treated with Padcev. Patients should be carefully monitored during treatment for the emergence of possible serious infections.
+Serious infections such as sepsis or pneumonia (including fatal outcomes) and opportunistic infections such as fungal infections have been reported in patients treated with Padcev. Patients should be carefully monitored during treatment for the emergence of possible serious and opportunistic infections.
 
 ## Peripheral neuropathy
 
@@ -215,7 +212,7 @@ Based on physiologically-based pharmacokinetic (PBPK) modeling, concomitant use 
 
 Unconjugated MMAE is not predicted to alter the AUC of concomitant medicines that are CYP3A4 substrates (e.g. midazolam).
 
-Strong CYP3A4 inducers (e.g. rifampicin, carbamazepine, phenobarbital, phenytoin, St. John's wort [ Hypericum perforatum ]) may decrease the exposure of unconjugated MMAE with moderate effect (see section 5.2).
+Strong CYP3A4 inducers (e.g. rifampicin, carbamazepine, phenobarbital, phenytoin, St. John's wort [Hypericum perforatum]) may decrease the exposure of unconjugated MMAE with moderate effect (see section 5.2).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -296,10 +293,12 @@ Table 5. Adverse reactions in patients treated with enfortumab vedotin
 | Frequency                                       | Monotherapy                                                                                                                                                                                            | In combination with pembrolizumab                                                                                                                                       |
 |-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Infections and infestations                     | Infections and infestations                                                                                                                                                                            | Infections and infestations                                                                                                                                             |
+| Very common                                     | Urinary tract infection                                                                                                                                                                                | Urinary tract infection                                                                                                                                                 |
 | Common                                          | Sepsis, pneumonia                                                                                                                                                                                      | Sepsis, pneumonia                                                                                                                                                       |
+| Not known 1                                     | Fungal infection                                                                                                                                                                                       | Fungal infection                                                                                                                                                        |
 | Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                                                                                                                                                   | Blood and lymphatic system disorders                                                                                                                                    |
 | Very common                                     | Anaemia                                                                                                                                                                                                | Anaemia                                                                                                                                                                 |
-| Common                                          | Thrombocytopenia                                                                                                                                                                                       | Thrombocytopenia                                                                                                                                                        |
+| Common                                          | Thrombocytopenia, leukopenia                                                                                                                                                                           | Thrombocytopenia, leukopenia                                                                                                                                            |
 | Not known 1                                     | Neutropenia, febrile neutropenia, neutrophil count decreased                                                                                                                                           | Neutropenia, febrile neutropenia, neutrophil count decreased                                                                                                            |
 | Endocrine disorders                             | Endocrine disorders                                                                                                                                                                                    | Endocrine disorders                                                                                                                                                     |
 | Very common                                     |                                                                                                                                                                                                        | Hypothyroidism                                                                                                                                                          |
@@ -492,7 +491,7 @@ Figure 2. Kaplan Meier plot of overall survival, EV-303
 
 The efficacy of Padcev in combination with pembrolizumab was evaluated in study EV-302 (KEYNOTE-A39), an open-label, randomised, phase 3, multicentre study that enrolled 886 patients with unresectable or metastatic urothelial cancer who had not received prior systemic therapy for locally advanced or metastatic disease. Patients that received neoadjuvant chemotherapy or patients that received adjuvant chemotherapy following cystectomy were included in the study if recurrence was &gt;12 months from completion of therapy. Patients were considered cisplatin-ineligible if they had at least one of the following criteria: glomerular filtration rate (GFR) between 30-59 mL/min, ECOG performance status ≥2, Grade ≥2 hearing loss or New York Heart Association (NYHA) Class III heart failure.
 
-Patients were randomised 1:1 to receive either enfortumab vedotin in combination with pembrolizumab (arm A) or gemcitabine and platinum-based chemotherapy (cisplatin or carboplatin) (arm B). Patients in arm A received enfortumab vedotin 1.25 mg/kg as an intravenous infusion over 30 minutes on Days 1 and 8 of a 21-day cycle, followed by pembrolizumab 200 mg on Day 1 of a 21-day cycle approximately 30 minutes after enfortumab vedotin. Patients in arm B received gemcitabine 1000 mg/m 2  administered on Days 1 and 8 of a 21-day cycle with cisplatin 70 mg/m 2 or carboplatin (AUC = 4.5 or 5 mg/mL/min according to local guidelines) administered on Day 1 of a 21-day cycle. Treatment was continued until disease progression, unacceptable toxicity or completion of the maximum number of treatment cycles (chemotherapy, 6 cycles; pembrolizumab, 35 cycles; enfortumab vedotin, no set maximum).
+Patients were randomised 1:1 to receive either enfortumab vedotin in combination with pembrolizumab (arm A) or gemcitabine and platinum-based chemotherapy (cisplatin or carboplatin) (arm B). Patients in arm A received enfortumab vedotin 1.25 mg/kg as an intravenous infusion over 30 minutes on Days 1 and 8 of a 21-day cycle, followed by pembrolizumab 200 mg on Day 1 of a 21-day cycle approximately 30 minutes after enfortumab vedotin. Patients in arm B received gemcitabine 1000 mg/m 2 administered on Days 1 and 8 of a 21-day cycle with cisplatin 70 mg/m 2 or carboplatin (AUC = 4.5 or 5 mg/mL/min according to local guidelines) administered on Day 1 of a 21-day cycle. Treatment was continued until disease progression, unacceptable toxicity or completion of the maximum number of treatment cycles (chemotherapy, 6 cycles; pembrolizumab, 35 cycles; enfortumab vedotin, no set maximum).
 
 Patients randomised to the gemcitabine and platinum-based chemotherapy arm were permitted to receive maintenance immunotherapy (e.g., avelumab). Randomisation was stratified by cisplatin eligibility (eligible versus ineligible), PD-L1 expression (CPS ≥10 versus CPS &lt;10) and presence of liver metastases (present versus absent). PD-L1 expression was based on the PD-L1 IHC 22C3 pharmDx kit.
 
@@ -556,7 +555,7 @@ Figure 4. Kaplan Meier plot of progression-free survival, EV-302
 
 ## EV-301
 
-The efficacy of Padcev as monotherapy was evaluated in study EV-301, an open-label, randomised, phase 3, multicentre study that enrolled 608 patients with locally advanced or metastatic urothelial cancer who have previously received a platinum-containing chemotherapy and a programmed death receptor 1 (PD-1) or programmed death ligand 1 (PD-L1) inhibitor. The primary endpoint of the study was Overall Survival (OS) and secondary endpoints included Progression Free Survival (PFS) and Objective Response Rate (ORR) [PFS and ORR were evaluated by investigator assessment using RECIST v1.1]. Patients were randomised 1:1 to receive either enfortumab vedotin 1.25 mg/kg on Days 1, 8 and 15 of a 28-day cycle, or one of the following chemotherapies as decided by the investigator: docetaxel 75 mg/m 2 (38%), paclitaxel 175 mg/m 2  (36%) or vinflunine 320 mg/m 2 (25%) on Day 1 of a 21-day cycle.
+The efficacy of Padcev as monotherapy was evaluated in study EV-301, an open-label, randomised, phase 3, multicentre study that enrolled 608 patients with locally advanced or metastatic urothelial cancer who have previously received a platinum-containing chemotherapy and a programmed death receptor 1 (PD-1) or programmed death ligand 1 (PD-L1) inhibitor. The primary endpoint of the study was Overall Survival (OS) and secondary endpoints included Progression Free Survival (PFS) and Objective Response Rate (ORR) [PFS and ORR were evaluated by investigator assessment using RECIST v1.1]. Patients were randomised 1:1 to receive either enfortumab vedotin 1.25 mg/kg on Days 1, 8 and 15 of a 28-day cycle, or one of the following chemotherapies as decided by the investigator: docetaxel 75 mg/m 2 (38%), paclitaxel 175 mg/m 2 (36%) or vinflunine 320 mg/m 2 (25%) on Day 1 of a 21-day cycle.
 
 Patients were excluded from the study if they had active CNS metastases, ongoing sensory or motor neuropathy ≥ Grade 2, known history of human immunodeficiency virus (HIV) infection (HIV 1 or 2), active Hepatitis B or C, or uncontrolled diabetes defined as HbA1c ≥8% or HbA1c ≥7% with associated diabetes symptoms.
 
@@ -566,7 +565,7 @@ The median age was 68 years (range: 30 to 88 years), 77% were male, and most pat
 
 Table 8 summarises the efficacy results for the EV-301 study, after a median follow-up time of 11.1 months (95% CI: 10.6 to 11.6).
 
-Table 8. Efficacy results in EV -301
+Table 8. Efficacy results in EV-301
 
 | Endpoint                            | Padcev n=301         | Chemotherapy n=307   |
 |-------------------------------------|----------------------|----------------------|
@@ -588,6 +587,10 @@ Table 8. Efficacy results in EV -301
 | Duration of Response for responders |                      |                      |
 | Median in months (95% CI)           | 7.4 (5.6, 9.5)       | 8.1 (5.7, 9.6)       |
 
+- b. Evaluated by investigator assessment using RECIST v1.1.
+- c. Pre-determined efficacy boundary = 0.02189, 1-sided (adjusted by observed PFS1 events of 432).
+- d. Pre-determined efficacy boundary = 0.025, 1-sided (adjusted by 100% information fraction).
+
 <div style=\"page-break-after: always\"></div>
 
 Figure 5. Kaplan Meier plot of overall survival, EV-301
@@ -602,7 +605,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Distribution
 
-The mean estimate of steady-state volume of distribution of ADC was 12.8 L following 1.25 mg/kg of enfortumab vedotin. In vitro , the binding of unconjugated MMAE to human plasma proteins ranged from 68% to 82%. Unconjugated MMAE is not likely to displace or to be displaced by highly protein-bound medicinal products. In vitro studies indicate that unconjugated MMAE is a substrate of P-glycoprotein.
+The mean estimate of steady-state volume of distribution of ADC was 12.8 L following 1.25 mg/kg of enfortumab vedotin. In vitro, the binding of unconjugated MMAE to human plasma proteins ranged from 68% to 82%. Unconjugated MMAE is not likely to displace or to be displaced by highly protein-bound medicinal products. In vitro studies indicate that unconjugated MMAE is a substrate of P-glycoprotein.
 
 ## Biotransformation
 
@@ -684,19 +687,21 @@ Unopened vial
 
 4 years.
 
-## Reconstituted solution in the vial
+Reconstituted solution in the vial
 
 From a microbiological point of view, after reconstitution, the solution from the vial(s) should be added to the infusion bag immediately. If not used immediately, storage times and conditions prior to use of the reconstituted vials are the responsibility of the user and would normally not be longer than 24 hours in refrigeration at 2°C to 8°C. Do not freeze.
 
-## Diluted dosing solution in the infusion bag
+Diluted dosing solution in the infusion bag
 
 From a microbiological point of view, after dilution into the infusion bag, the diluted solution in the bag should be administered to the patient immediately. If not used immediately, storage times and conditions prior to use of the diluted dosing solution is the responsibility of the user and would normally not be longer than 16 hours in refrigeration at 2°C to 8°C including infusion time. Do not freeze.
 
 ## 6.4 Special precautions for storage
 
-## Unopened vials
+Unopened vials
 
-Store in a refrigerator (2ºC to 8ºC). Do not freeze.
+Store in a refrigerator (2ºC to 8ºC).
+
+Do not freeze.
 
 For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
@@ -744,7 +749,7 @@ Diluted dosing solution of enfortumab vedotin is compatible with intravenous inf
 
 12. Administer the infusion over 30 minutes through an intravenous line. Do not administer as an intravenous push or bolus.
 
-No incompatibilities have been observed with closed system transfer device composed of acrylonitrile butadiene styrene (ABS), acrylic, activated charcoal, ethylene propylene diene monomer, methacrylate ABS, polycarbonate, polyisoprene, polyoxymethylene, PP, silicone, stainless steel, thermoplastic elastomer for reconstituted solution .
+No incompatibilities have been observed with closed system transfer device composed of acrylonitrile butadiene styrene (ABS), acrylic, activated charcoal, ethylene propylene diene monomer, methacrylate ABS, polycarbonate, polyisoprene, polyoxymethylene, PP, silicone, stainless steel, thermoplastic elastomer for reconstituted solution.
 
 13. Do not co-administer other medicinal products through the same infusion line.
 14. In-line filters or syringe filters (the pore size: 0.2-1.2 μm, recommended materials: polyethersulfone, polyvinylidene difluoride, mixed cellulose esters) are recommended to be used during administration.
@@ -802,7 +807,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- -Periodic safety update reports (PSURs)
+## - Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -810,7 +815,7 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-- -Risk management plan (RMP)
+## - Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -821,7 +826,7 @@ An updated RMP should be submitted:
 <div style=\"page-break-after: always\"></div>
 
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-- -Additional risk minimization measures
+- Additional risk minimization measures
 
 Prior to use of Padcev in each Member State, the MAH should agree on the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
@@ -832,11 +837,11 @@ The MAH should ensure that in each Member State where Padcev is marketed, all he
 - Patient information leaflet
 - Patient card
 - o Patient card:
-- -Information for patients that Padcev treatment may cause skin reactions including severe skin reactions such as SJS, TEN or other severe rashes.
-- -Description of the symptoms of skin reactions and to immediately seek medical care as these may be signs of a severe skin reaction.
-- -A warning message for healthcare professionals treating the patient at any time, including in conditions of emergency, that the patient is using Padcev.
-- -Contact details of the treating physician who has prescribed Padcev.
-- -Needs to be carried all the time and presented to any healthcare professional.
+- Information for patients that Padcev treatment may cause skin reactions including severe skin reactions such as SJS, TEN or other severe rashes.
+- Description of the symptoms of skin reactions and to immediately seek medical care as these may be signs of a severe skin reaction.
+- A warning message for healthcare professionals treating the patient at any time, including in conditions of emergency, that the patient is using Padcev.
+- Contact details of the treating physician who has prescribed Padcev.
+- Needs to be carried all the time and presented to any healthcare professional.
 
 The MAH should also provide a patient card in each pack of the medicinal product, the text of which is included in Annex III.
 
@@ -858,11 +863,143 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-PADCEV 20 mg powder for concentrate for solution for infusion enfortumab vedotin
+PADCEV 20 mg powder for concentrate for solution for infusion
+
+enfortumab vedotin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each vial contains 20 mg enfortumab vedotin.
+
+After reconstitution each mL contains 10 mg of enfortumab vedotin.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains histidine, histidine hydrochloride monohydrate, trehalose dihydrate and polysorbate 20
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder for concentrate for solution for infusion
+
+1 vial
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+For intravenous use after reconstitution and dilution.
+
+Do not shake.
+
+For single use only.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP:
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Store in the original packaging.
+
+Do not freeze.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
+
+Astellas Pharma Europe B.V. Sylviusweg 62 2333 BE Leiden The Netherlands
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/21/1615/001
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot:
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Justification for not including Braille accepted.
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+PADCEV 20 mg powder for concentrate for solution for infusion enfortumab vedotin Intravenous use
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+For IV use after reconstitution and dilution.
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+10 mg /mL
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+PADCEV 30 mg powder for concentrate for solution for infusion
+
+enfortumab vedotin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each vial contains 30 mg enfortumab vedotin.
 
 After reconstitution each mL contains 10 mg of enfortumab vedotin.
 
@@ -920,7 +1057,7 @@ The Netherlands
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/21/1615/001
+EU/1/21/1615/002
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -938,8 +1075,8 @@ Lot:
 
 Justification for not including Braille accepted.
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -952,137 +1089,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL   |
-|------------------------------------------|
-| VIAL                                     |
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
-
-PADCEV 20 mg powder for concentrate for solution for infusion enfortumab vedotin Intravenous use
-
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
-
-For IV use after reconstitution and dilution.
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-EXP
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-Lot
-
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
-
-10 mg /mL
-
-| 6.   | OTHER   |
-|------|---------|
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-OUTER CARTON
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-PADCEV 30 mg powder for concentrate for solution for infusion enfortumab vedotin
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each vial contains 30 mg enfortumab vedotin.
-
-After reconstitution each mL contains 10 mg of enfortumab vedotin.
-
-## 3. LIST OF EXCIPIENTS
-
-Contains histidine, histidine hydrochloride monohydrate, trehalose dihydrate and polysorbate 20
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Powder for concentrate for solution for infusion
-
-1 vial
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-For intravenous use after reconstitution and dilution.
-
-Do not shake.
-
-For single use only.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP:
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Store in a refrigerator.
-
-Store in the original packaging.
-
-Do not freeze.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Astellas Pharma Europe B.V.
-
-Sylviusweg 62
-
-2333 BE Leiden
-
-The Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/21/1615/002
-
-## 13. BATCH NUMBER
-
-Lot:
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Justification for not including Braille accepted.
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ON SMALL   |
-|------------------------------------------|
-| VIAL                                     |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
@@ -1120,9 +1129,9 @@ Lot
 
 ## PADCEV (enfortumab vedotin)
 
-- Carry this card with you at all times , especially when you travel or when you see another doctor.
+- Carry this card with you at all times, especially when you travel or when you see another doctor.
 - Please ensure you show this card to any doctor, pharmacist or nurse for any medical treatment or at any visits to the hospital or clinic.
-- Please contact your doctor immediately , if you develop any side effects, in particular those listed on this card.
+- Please contact your doctor immediately, if you develop any side effects, in particular those listed on this card.
 
 ## IMPORTANT SAFETY INFORMATION FOR PATIENTS
 
@@ -1161,17 +1170,19 @@ Please contact the patient's Haematologist/Oncologist for more information and c
 
 ## Package leaflet: Information for the patient
 
-## Padcev 20 mg powder for concentrate for solution for infusion Padcev 30 mg powder for concentrate for solution for infusion
+## Padcev 20 mg powder for concentrate for solution for infusion
+
+## Padcev 30 mg powder for concentrate for solution for infusion
 
 enfortumab vedotin
 
-▼ This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+▼This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1202,24 +1213,24 @@ This medicine may be given in combination with pembrolizumab. It is important th
 
 ## You must not be given Padcev
 
-- -if you are allergic to enfortumab vedotin or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to enfortumab vedotin or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor immediately if you:
 
-- -have any of the following skin reaction symptoms:
+- have any of the following skin reaction symptoms:
 - rash or itching that continues to get worse or comes back after treatment,
 - skin blistering or peeling,
 - painful sores or ulcers in mouth or nose, throat, or genital area,
 - fever or flu-like symptoms,
 - or swollen lymph nodes.
-- -these may be signs of a severe skin reaction that can happen while receiving this medicine, particularly during the first few weeks of your treatment. Skin reactions may occur in more patients when this medicine is given with pembrolizumab. If it occurs, your doctor will monitor you and may give you a medicine to treat your skin condition. She or he may pause treatment until symptoms are reduced. If your skin reaction worsens, your doctor may stop your treatment. You will also find this information in the Patient Card that is included in the packaging. It is important that you keep this Patient Card with you and show it to any healthcare professional you see.
-- -have any symptoms of high blood sugar, including frequent urination, increased thirst, blurred vision, confusion, drowsiness, loss of appetite, fruity smell on your breath, nausea, vomiting or stomach pain. You can develop high blood sugar during treatment.
-- -have lung problems (pneumonitis/interstitial lung disease) or if you get new or worsening symptoms, including trouble breathing, shortness of breath or cough. These lung problems may occur more often when this medicine is given with pembrolizumab. If it occurs, your doctor may pause treatment until symptoms are improved or reduce your dose. If your symptoms worsen, your doctor may stop your treatment.
-- -have, or think you have, an infection. Some infections may be serious and can be life threatening.
-- -have any symptoms of nerve problems (neuropathy) such as numbness, tingling or a tingling sensation in your hands or feet or muscle weakness. If it occurs, your doctor may pause treatment until symptoms are improved or reduce your dose. If your symptoms worsen, your doctor may stop your treatment.
-- -have eye problems such as dry eyes during your treatment. You can develop dry eye problems while receiving Padcev.
+- these may be signs of a severe skin reaction that can happen while receiving this medicine, particularly during the first few weeks of your treatment. Skin reactions may occur in more patients when this medicine is given with pembrolizumab. If it occurs, your doctor will monitor you and may give you a medicine to treat your skin condition. She or he may pause treatment until symptoms are reduced. If your skin reaction worsens, your doctor may stop your treatment. You will also find this information in the Patient Card that is included in the packaging. It is important that you keep this Patient Card with you and show it to any healthcare professional you see.
+- have any symptoms of high blood sugar, including frequent urination, increased thirst, blurred vision, confusion, drowsiness, loss of appetite, fruity smell on your breath, nausea, vomiting or stomach pain. You can develop high blood sugar during treatment.
+- have lung problems (pneumonitis/interstitial lung disease) or if you get new or worsening symptoms, including trouble breathing, shortness of breath or cough. These lung problems may occur more often when this medicine is given with pembrolizumab. If it occurs, your doctor may pause treatment until symptoms are improved or reduce your dose. If your symptoms worsen, your doctor may stop your treatment.
+- have, or think you have, an infection. Some infections may be serious and can be life threatening.
+- have any symptoms of nerve problems (neuropathy) such as numbness, tingling or a tingling sensation in your hands or feet or muscle weakness. If it occurs, your doctor may pause treatment until symptoms are improved or reduce your dose. If your symptoms worsen, your doctor may stop your treatment.
+- have eye problems such as dry eyes during your treatment. You can develop dry eye problems while receiving Padcev.
 
 ## Children and adolescents
 
@@ -1275,35 +1286,43 @@ Do not stop treatment with Padcev unless you have discussed this with your docto
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Some possible side effects may be serious:
+Some possible side effects may be serious:
 
-- -Skin reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis and other severe rashes such as symmetrical drug-related intertriginous and flexural exanthaema). Tell your doctor right away if you have any of these signs of a severe skin reaction: rash or itching that continues to get worse or comes back after treatment, skin blistering or peeling, painful sores or ulcers in mouth or nose, throat, or genital area, fever or flu-like symptoms or swollen lymph nodes (frequency not known).
-- -High blood sugar (hyperglycaemia). Tell your doctor right away if you have any symptoms of high blood sugar, including: frequent urination, increased thirst, blurred vision, confusion, drowsiness, loss of appetite, fruity smell on your breath, nausea, vomiting or stomach pain (may affect more than 1 in 10 people).
-- -A serious complication of diabetes with high levels of ketones in the blood that can make blood more acidic (diabetic ketoacidosis) (frequency not known).
-- -Lung problems (pneumonitis/interstitial lung disease). Tell your doctor right away if you get new or worsening symptoms, including trouble breathing, shortness of breath or cough (may affect up to 1 in 10 people).
-- -Nerve problems (peripheral neuropathy such as motor neuropathy, sensimotor neuropathy, paraesthesia, hypoaesthesia and muscular weakness). Tell your doctor right away if you get numbness, tingling or a tingling sensation in your hands or feet or muscle weakness (may affect more than 1 in 10 people).
-- -Leakage of Padcev out of your vein into the tissues around your infusion site (extravasation). Tell your doctor or get medical help right away if you notice any redness, swelling, itching or discomfort at the infusion site. If Padcev leaks from the injection site or the vein into the nearby skin and tissues, it could cause an infusion site reaction. These reactions can happen right after you receive an infusion, but sometimes may happen days after your infusion (may affect up to 1 in 10 people).
-- -Serious infection (sepsis) when bacteria and their toxins circulate in the blood leading to organ damage (may affect up to 1 in 10 people).
+- Skin reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis and other severe rashes such as symmetrical drug-related intertriginous and flexural exanthaema). Tell your doctor right away if you have any of these signs of a severe skin reaction: rash or itching that continues to get worse or comes back after treatment, skin blistering or peeling, painful sores or ulcers in mouth or nose, throat, or genital area, fever or flu-like symptoms or swollen lymph nodes (frequency not known).
+
+- High blood sugar (hyperglycaemia). Tell your doctor right away if you have any symptoms of high blood sugar, including: frequent urination, increased thirst, blurred vision, confusion, drowsiness, loss of appetite, fruity smell on your breath, nausea, vomiting or stomach pain (may affect more than 1 in 10 people).
+
+- A serious complication of diabetes with high levels of ketones in the blood that can make blood more acidic (diabetic ketoacidosis) (frequency not known).
+
+- Lung problems (pneumonitis/interstitial lung disease). Tell your doctor right away if you get new or worsening symptoms, including trouble breathing, shortness of breath or cough (may affect up to 1 in 10 people).
+
+- Nerve problems (peripheral neuropathy such as motor neuropathy, sensimotor neuropathy, paraesthesia, hypoaesthesia and muscular weakness). Tell your doctor right away if you get numbness, tingling or a tingling sensation in your hands or feet or muscle weakness (may affect more than 1 in 10 people).
+
+- Leakage of Padcev out of your vein into the tissues around your infusion site (extravasation). Tell your doctor or get medical help right away if you notice any redness, swelling, itching or discomfort at the infusion site. If Padcev leaks from the injection site or the vein into the nearby skin and tissues, it could cause an infusion site reaction. These reactions can happen right after you receive an infusion, but sometimes may happen days after your infusion (may affect up to 1 in 10 people).
+
+- Serious infection (sepsis) when bacteria and their toxins circulate in the blood leading to organ damage (may affect up to 1 in 10 people).
+
+- Infections seen in patients with a weakened immune system (fungal infections) (frequency not known).
 
 <div style=\"page-break-after: always\"></div>
 
-- -Infection of the lungs (pneumonia) (may affect up to 1 in 10 people).
+- Infection of the lungs (pneumonia) (may affect up to 1 in 10 people).
 
-## -Infusion related reaction
+## - Infusion related reaction
 
 Medicines of this type (monoclonal antibodies) can cause infusion related reactions such as:
 
-- -low blood pressure
-- -tongue swelling
-- -difficulty breathing (dyspnoea)
-- -fever
-- -chills
-- -redding of the skin (flushing)
-- -itching
-- -rash
-- -being sick (vomiting)
-- -feeling generally unwell (malaise)
-- -In general, these types of reactions occur within minutes to several hours following completion of the infusion. However, they may develop more than several hours after completion of the infusion but this is uncommon. Infusion-related reactions may affect up to 1 in 10 people.
+- low blood pressure
+- tongue swelling
+- difficulty breathing (dyspnoea)
+- fever
+- chills
+- redding of the skin (flushing)
+- itching
+- rash
+- being sick (vomiting)
+- feeling generally unwell (malaise)
+- In general, these types of reactions occur within minutes to several hours following completion of the infusion. However, they may develop more than several hours after completion of the infusion but this is uncommon. Infusion-related reactions may affect up to 1 in 10 people.
 
 ## Other possible side effects
 
@@ -1311,53 +1330,55 @@ The following side effects have been reported with Padcev in combination with pe
 
 ## Very common (may affect more than 1 in 10 people):
 
-- -low red blood cells (anaemia)
-- -nausea, diarrhoea and vomiting
-- -tiredness
-- -decreased appetite
-- -change in sense of taste
-- -dry eye
-- -hair loss
-- -weight loss
-- -dry or itchy skin
-- -flat or red raised bumps on the skin
-- -increased liver enzymes (aspartate aminotransferase [AST] or alanine aminotransferase [ALT])
-- -reduced thyroid gland activity (hypothyroidism)
+- urinary tract infection
+- low red blood cells (anaemia)
+- nausea, diarrhoea and vomiting
+- tiredness
+- decreased appetite
+- change in sense of taste
+- dry eye
+- hair loss
+- weight loss
+- dry or itchy skin
+- flat or red raised bumps on the skin
+- increased liver enzymes (aspartate aminotransferase [AST] or alanine aminotransferase [ALT])
+- reduced thyroid gland activity (hypothyroidism)
 
 <div style=\"page-break-after: always\"></div>
 
 ## Common (may affect up to 1 in 10 people):
 
-- -abnormal walking (gait disturbance)
-- -eye redness
-- -hives on the skin
-- -redness in the skin
-- -rash
-- -inflamed, itchy, cracked and rough patches of skin
-- -redness and tingling on the palms or soles of feet
-- -skin peeling
-- -mouth ulcer
-- -rash with accompanying symptoms: itchiness, redness, red bumps or red patches on the skin, fluid-filled blisters, large blisters, skin lesions
-- -increased lipase (a blood test done to check your pancreas)
-- -inflammation of the muscles (myositis)
-- -low levels of blood platelets which can lead to bleeding and bruising (thrombocytopenia)
+- low levels of white blood cells (leukopenia)
+- abnormal walking (gait disturbance)
+- eye redness
+- hives on the skin
+- redness in the skin
+- rash
+- inflamed, itchy, cracked and rough patches of skin
+- redness and tingling on the palms or soles of feet
+- skin peeling
+- mouth ulcer
+- rash with accompanying symptoms: itchiness, redness, red bumps or red patches on the skin, fluid-filled blisters, large blisters, skin lesions
+- increased lipase (a blood test done to check your pancreas)
+- inflammation of the muscles (myositis)
+- low levels of blood platelets which can lead to bleeding and bruising (thrombocytopenia)
 
 ## Uncommon (may affect up to 1 in 100 people):
 
-- -skin irritation
-- -skin burning sensation
-- -problems affecting nerve function causing odd sensation or problems with movement
-- -allergic reaction to skin
-- -rash with accompanying symptoms: spots that look like bullseyes, skin peeling, flat fluid-filled blister
-- -skin peeling all over the body
-- -inflammation in skin folds including the groin
-- -blister or blister-like lesions on the skin
-- -inflammation or itchiness appearing on the legs and feet only
+- skin irritation
+- skin burning sensation
+- problems affecting nerve function causing odd sensation or problems with movement
+- allergic reaction to skin
+- rash with accompanying symptoms: spots that look like bullseyes, skin peeling, flat fluid-filled blister
+- skin peeling all over the body
+- inflammation in skin folds including the groin
+- blister or blister-like lesions on the skin
+- inflammation or itchiness appearing on the legs and feet only
 
 ## Not known (frequency cannot be estimated from the available data):
 
-- -low white blood cell count with or without fever
-- -discolouration or abnormal darkening of the skin (skin hyperpigmentation, skin discolouration, pigmentation disorder)
+- low white blood cell count with or without fever
+- discolouration or abnormal darkening of the skin (skin hyperpigmentation, skin discolouration, pigmentation disorder)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1365,50 +1386,52 @@ The following side effects have been reported with Padcev alone:
 
 ## Very common (may affect more than 1 in 10 people):
 
-- -low red blood cells (anaemia)
-- -nausea, diarrhoea and vomiting
-- -tiredness
-- -decreased appetite
-- -change in sense of taste
-- -dry eye
-- -hair loss
-- -weight loss
-- -dry or itchy skin
-- -rash
-- -flat or red raised bumps on the skin
-- -increased liver enzymes (aspartate aminotransferase [AST] or alanine aminotransferase [ALT])
+- urinary tract infection
+- low red blood cells (anaemia)
+- nausea, diarrhoea and vomiting
+- tiredness
+- decreased appetite
+- change in sense of taste
+- dry eye
+- hair loss
+- weight loss
+- dry or itchy skin
+- rash
+- flat or red raised bumps on the skin
+- increased liver enzymes (aspartate aminotransferase [AST] or alanine aminotransferase [ALT])
 
 ## Common (may affect up to 1 in 10 people):
 
-- -abnormal walking (gait disturbance)
-- -eye redness
-- -hives on the skin
-- -redness in the skin
-- -inflamed, itchy, cracked and rough patches of skin
-- -redness and tingling on the palms or soles of feet
-- -skin peeling
-- -mouth ulcer
-- -rash with accompanying symptoms: itchiness, redness, red bumps or red patches on the skin, fluid-filled blisters, large blisters, skin lesions
-- -low levels of blood platelets which can lead to bleeding and bruising (thrombocytopenia)
+- low levels of white blood cells (leukopenia)
+- abnormal walking (gait disturbance)
+- eye redness
+- hives on the skin
+- redness in the skin
+- inflamed, itchy, cracked and rough patches of skin
+- redness and tingling on the palms or soles of feet
+- skin peeling
+- mouth ulcer
+- rash with accompanying symptoms: itchiness, redness, red bumps or red patches on the skin, fluid-filled blisters, large blisters, skin lesions
+- low levels of blood platelets which can lead to bleeding and bruising (thrombocytopenia)
 
 ## Uncommon (may affect up to 1 in 100 people):
 
-- -skin irritation
-- -skin burning sensation
-- -problems affecting nerve function causing odd sensation or problems with movement
-- -muscle decreasing in size
-- -blood blister
-- -allergic reaction to skin
-- -rash with accompanying symptoms: spots that look like bullseyes, skin peeling, flat fluid-filled blister
-- -skin peeling all over the body
-- -inflammation in skin folds including the groin
-- -blister or blister-like lesions on the skin
-- -inflammation or itchiness appearing on the legs and feet only
+- skin irritation
+- skin burning sensation
+- problems affecting nerve function causing odd sensation or problems with movement
+- muscle decreasing in size
+- blood blister
+- allergic reaction to skin
+- rash with accompanying symptoms: spots that look like bullseyes, skin peeling, flat fluid-filled blister
+- skin peeling all over the body
+- inflammation in skin folds including the groin
+- blister or blister-like lesions on the skin
+- inflammation or itchiness appearing on the legs and feet only
 
 ## Not known (frequency cannot be estimated from the available data):
 
-- -low white blood cell count with or without fever
-- -discolouration or abnormal darkening of the skin (skin hyperpigmentation, skin discolouration, pigmentation disorder)
+- low white blood cell count with or without fever
+- discolouration or abnormal darkening of the skin (skin hyperpigmentation, skin discolouration, pigmentation disorder)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1430,10 +1453,10 @@ Do not store any unused portion of the infusion solution for reuse. Any unused m
 
 ## What Padcev contains
 
-- -The active substance is enfortumab vedotin
-- -One vial of 20 mg powder for concentrate for solution for infusion contains 20 mg of enfortumab vedotin
-- -One vial of 30 mg powder for concentrate for solution for infusion contains 30 mg of enfortumab vedotin
-- -After reconstitution, each mL of solution contains 10 mg of enfortumab vedotin
+- The active substance is enfortumab vedotin
+- One vial of 20 mg powder for concentrate for solution for infusion contains 20 mg of enfortumab vedotin
+- One vial of 30 mg powder for concentrate for solution for infusion contains 30 mg of enfortumab vedotin
+- After reconstitution, each mL of solution contains 10 mg of enfortumab vedotin
 
 The other ingredients are histidine, histidine hydrochloride monohydrate, trehalose dihydrate and polysorbate 20.
 
@@ -1451,9 +1474,7 @@ Manufacturer: Astellas Ireland Co. Ltd Killorglin Co Kerry V93 FC86 Ireland For 
 
 ## België/Belgique/Belgien
 
-Astellas Pharma B.V. Branch
-
-Tél/Tel: +32 (0) 2 5580710
+Astellas Pharma B.V. Branch Tél/Tel: +32 (0) 2 5580710
 
 ## България
 
@@ -1463,9 +1484,7 @@ Teл.: +359 2 862 53 72
 
 ## Česká republika
 
-Astellas Pharma s.r.o.
-
-Tel: +420 221 401 500
+Astellas Pharma s.r.o. Tel: +420 221 401 500
 
 ## Danmark
 
@@ -1489,11 +1508,15 @@ Astellas Pharma S.A. Tel: +34 91 4952700
 
 ## France
 
-Astellas Pharma S.A.S. Tél: +33 (0)1 55917500
+Astellas Pharma S.A.S.
+
+Tél: +33 (0)1 55917500
 
 ## Hrvatska
 
-Astellas d.o.o Tel: +385 1670 0102
+Astellas d.o.o
+
+Tel: +385 1670 0102
 
 ## Ireland
 
@@ -1501,7 +1524,9 @@ Astellas Pharma Co. Ltd. Tel: +353 (0)1 4671555
 
 ## Ísland
 
-Vistor Sími: +354 535 7000
+Vistor
+
+Sími: +354 535 7000
 
 ## Italia
 
@@ -1509,9 +1534,7 @@ Astellas Pharma S.p.A. Tel: +39 (0)2 921381
 
 ## Lietuva
 
-Astellas Pharma d.o.o.
-
-Tel.: +370 37 408 681
+Astellas Pharma d.o.o. Tel.: +370 37 408 681
 
 ## Luxembourg/Luxemburg
 
@@ -1523,7 +1546,9 @@ Astellas Pharma Kft. Tel.: +36 1 577 8200
 
 ## Malta
 
-Vivian Corporation Ltd. Tel: +356 22588600
+Vivian Corporation Ltd.
+
+Tel: +356 22588600
 
 ## Nederland
 
@@ -1535,7 +1560,9 @@ Astellas Pharma Tlf: +47 66 76 46 00
 
 ## Österreich
 
-Astellas Pharma Ges.m.b.H. Tel.: +43 (0)1 8772668
+Astellas Pharma Ges.m.b.H.
+
+Tel.: +43 (0)1 8772668
 
 ## Polska
 
@@ -1627,7 +1654,7 @@ Diluted dosing solution of enfortumab vedotin is compatible with intravenous inf
 
 12. Administer the infusion over 30 minutes through an intravenous line. Do not administer as an intravenous push or bolus.
 
-No incompatibilities have been observed with closed system transfer device composed of acrylonitrile butadiene styrene (ABS), acrylic, activated charcoal, ethylene propylene diene monomer, methacrylate ABS, polycarbonate, polyisoprene, polyoxymethylene, PP, silicone, stainless steel, thermoplastic elastomer for reconstituted solution .
+No incompatibilities have been observed with closed system transfer device composed of acrylonitrile butadiene styrene (ABS), acrylic, activated charcoal, ethylene propylene diene monomer, methacrylate ABS, polycarbonate, polyisoprene, polyoxymethylene, PP, silicone, stainless steel, thermoplastic elastomer for reconstituted solution.
 
 13. Do not co-administer other medicinal products through the same infusion line.
 14. In-line filters or syringe filters (the pore size: 0.2-1.2 μm, recommended materials: polyethersulfone, polyvinylidene difluoride, mixed cellulose esters) are recommended to be used during administration.
@@ -1637,3 +1664,25 @@ No incompatibilities have been observed with closed system transfer device compo
 Padcev is for single use only.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for enfortumab vedotin, the scientific conclusions of PRAC are as follows:
+
+In view of available data on leukopenia, fungal infections and urinary tract infections from clinical trials and spontaneous reports including in some cases a close temporal relationship, a positive de-challenge and positive re-challenge (for leukopenia), the PRAC considers a causal relationship between enfortumab vedotin and leukopenia, fungal infections and urinary tract infections is at least a reasonable possibility. The product information of products containing enfortumab vedotin should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for enfortumab vedotin the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing enfortumab vedotin is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

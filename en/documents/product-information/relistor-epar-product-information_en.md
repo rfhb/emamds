@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-19 12:28:01
+document_datetime: 2026-09-24 13:37:49
 document_pages: 89
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/relistor-epar-product-information_en.pdf
 document_name: relistor-epar-product-information_en.pdf
 version: success
-processing_time: 17.3246361
-conversion_datetime: 2026-01-20 20:09:39.856193
+processing_time: 95.0708657
+conversion_datetime: 2026-09-25 19:27:05.969779
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -42,11 +42,11 @@ Clear solution, colourless to pale-yellow, essentially free from visible particu
 
 ## 4.1 Therapeutic indications
 
-Relistor is indicated for the treatment of opioid-induced constipation when response to  laxative therapy has not been sufficient in adult patients, aged 18 years and older.
+Relistor is indicated for the treatment of opioid-induced constipation when response to laxative therapy has not been sufficient in adult patients, aged 18 years and older.
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 Opioid-induced constipation in adult patients with chronic pain (except palliative care patients with advanced illness)
 
@@ -130,7 +130,7 @@ Methylnaltrexone bromide treatment has not been studied in adult patients with a
 
 ## Hepatic and renal impairment
 
-Methylnaltrexone bromide  is not recommended in patients with severe hepatic impairment or with end-stage renal impairment requiring dialysis (see section 4.2).
+Methylnaltrexone bromide is not recommended in patients with severe hepatic impairment or with end-stage renal impairment requiring dialysis (see section 4.2).
 
 ## Gastrointestinal (GI) conditions and GI perforation
 
@@ -138,7 +138,7 @@ Methylnaltrexone bromide should be used with caution in patients with known or s
 
 Use of methylnaltrexone bromide in patients with colostomy, peritoneal catheter, active diverticular disease or fecal impaction has not been studied. Therefore, Relistor should only be administered with caution in these patients.
 
-Cases of GI perforation have been reported in the postauthorisation period after use of methylnaltrexone bromide in patients  with conditions that may be associated with localized or diffuse reduction of structural integrity in the wall of the gastrointestinal tract (e.g., peptic ulcer disease, pseudo obstruction (Ogilvie's syndrome), diverticular disease, infiltrative gastrointestinal tract malignancies or peritoneal metastases). The overall risk-benefit profile should be taken into account when using methylnaltrexone bromide in patients with these conditions or other conditions which might result in impaired integrity of the gastrointestinal tract wall (e.g., Crohn's disease). Patients should be monitored for severe, persistent, or worsening abdominal pain; methylnaltrexone bromide should be discontinued if this symptom occurs.
+Cases of GI perforation have been reported in the postauthorisation period after use of methylnaltrexone bromide in patients with conditions that may be associated with localized or diffuse reduction of structural integrity in the wall of the gastrointestinal tract (e.g., peptic ulcer disease, pseudo obstruction (Ogilvie's syndrome), diverticular disease, infiltrative gastrointestinal tract malignancies or peritoneal metastases). The overall risk-benefit profile should be taken into account when using methylnaltrexone bromide in patients with these conditions or other conditions which might result in impaired integrity of the gastrointestinal tract wall (e.g., Crohn's disease). Patients should be monitored for severe, persistent, or worsening abdominal pain; methylnaltrexone bromide should be discontinued if this symptom occurs.
 
 ## Opioid withdrawal
 
@@ -152,11 +152,9 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. e
 
 Methylnaltrexone bromide does not affect the pharmacokinetics of medicinal products metabolised by cytochrome P450 (CYP) isozymes. Methylnaltrexone bromide is minimally metabolised by CYP isozymes. In vitro metabolism studies suggest that methylnaltrexone bromide does not inhibit the activity of CYP1A2, CYP2E1, CYP2B6, CYP2A6, CYP2C9, CYP2C19 or CYP3A4, while it is a weak inhibitor of the metabolism of a model CYP2D6 substrate. In a clinical drug interaction study in healthy adult male subjects, a subcutaneous dose of 0.3 mg/kg of methylnaltrexone bromide did not significantly affect the metabolism of dextromethorphan, a CYP2D6 substrate.
 
-The organic cation transporter (OCT)-related drug-drug interaction potential between methylnaltrexone bromide and an OCT inhibitor was studied in 18 healthy subjects by comparing the single-dose pharmacokinetic profiles of methylnaltrexone bromide before and after multiple 400 mg doses of cimetidine. The renal clearance of methylnaltrexone bromide was reduced following
+The organic cation transporter (OCT)-related drug-drug interaction potential between methylnaltrexone bromide and an OCT inhibitor was studied in 18 healthy subjects by comparing the single-dose pharmacokinetic profiles of methylnaltrexone bromide before and after multiple 400 mg doses of cimetidine. The renal clearance of methylnaltrexone bromide was reduced following multiple-dose administration of cimetidine (from 31 L/h to 18 L/h). However, this resulted in a small reduction in total clearance (from 107 L/h to 95 L/h). Consequently, no meaningful change in AUC of methylnaltrexone bromide, in addition to Cmax, was observed before and after multiple-dose administration of cimetidine.
 
 <div style=\"page-break-after: always\"></div>
-
-multiple-dose administration of cimetidine (from 31 L/h to 18 L/h). However, this resulted in a small reduction in total clearance (from 107 L/h to 95 L/h). Consequently, no meaningful change in AUC of methylnaltrexone bromide, in addition to Cmax, was observed before and after multiple-dose administration of cimetidine.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -184,7 +182,7 @@ The most common adverse reactions in all patients exposed to methylnaltrexone br
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions are classified as: v ery common (≥1/10); c ommon (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); r are (≥1/10,000 to &lt;1/1,000); v ery rare (&lt;1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The adverse reactions are classified as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 ## Nervous system disorders
 
@@ -202,13 +200,13 @@ Not known: Gastrointestinal perforation (see section 4.4),
 
 Very common: Abdominal pain, nausea, diarrhoea, flatulence
 
-Skin and subcutaneous tissue disorders
+## Skin and subcutaneous tissue disorders
 
 Common: Injection site reactions (e.g. stinging, burning, pain , redness, oedema)
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product.  Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -232,23 +230,21 @@ As a quaternary amine, the ability of methylnaltrexone bromide to cross the bloo
 
 ## Opioid-induced constipation in adult patients with chronic non-cancer pain
 
-The efficacy and safety of methylnaltrexone bromide in the treatment of opioid-induced constipation in patients with chronic non-cancer pain were demonstrated in a randomized, double-blind, placebo-controlled study (Study 3356).  In this study, the median patient age was 49 years (range 23-83); 60% were females.  The majority of patients had a primary diagnosis of back pain.
+The efficacy and safety of methylnaltrexone bromide in the treatment of opioid-induced constipation in patients with chronic non-cancer pain were demonstrated in a randomized, double-blind, placebo-controlled study (Study 3356). In this study, the median patient age was 49 years (range 23-83); 60% were females. The majority of patients had a primary diagnosis of back pain.
 
-Study 3356 compared 4-week treatment regimens of methylnaltrexone bromide 12 mg once daily and methylnaltrexone bromide 12 mg every other day with placebo. The 4-week, double-blind period was followed by an 8-week, open-label period during which methylnaltrexone bromide was to be used as needed, but no more frequently than once daily. A total of 460 patients (methylnaltrexone bromide 12 mg once daily, n=150, methylnaltrexone bromide 12 mg every other day, n=148, placebo, n=162) were treated in the double-blind period.  Patients had a history of chronic non-cancer pain  and were
+Study 3356 compared 4-week treatment regimens of methylnaltrexone bromide 12 mg once daily and methylnaltrexone bromide 12 mg every other day with placebo. The 4-week, double-blind period was followed by an 8-week, open-label period during which methylnaltrexone bromide was to be used as needed, but no more frequently than once daily. A total of 460 patients (methylnaltrexone bromide 12 mg once daily, n=150, methylnaltrexone bromide 12 mg every other day, n=148, placebo, n=162) were treated in the double-blind period. Patients had a history of chronic non-cancer pain and were taking opioids with stable doses of at least 50 mg of oral morphine equivalents per day. Patients had opioid-induced constipation (&lt; 3 rescue medication-free bowel movements per week during the screening period). Patients were required to discontinue all previous laxative therapy.
 
 <div style=\"page-break-after: always\"></div>
 
-taking opioids with stable doses of at least 50 mg of oral morphine equivalents per day.  Patients had opioidinduced constipation (&lt; 3 rescue medication-free bowel movements per week during the screening period). Patients were required to discontinue all previous laxative therapy.
+The first co=primary endpoint was the proportion of patients having a rescue free bowel movements (RFBMs) within 4 hours of the first dose administration and the second the percentage of active injections resulting in any RFBM within 4 hours during the double-blind phase. A RFBM was defined as a bowel movement that occurred without laxative use during the previous 24 hours.
 
-The first co=primary endpoint was the proportion of patients having a rescue free bowel movements (RFBMs) within 4 hours of the first dose administration and the second the percentage of active injections resulting in any RFBM within 4 hours during the double-blind phase.  A RFBM was defined as a bowel movement that occurred without laxative use during the previous 24 hours.
+The proportion of patients having an RFBM within 4 hours of the first dose was 34.2% in the combined methylnaltrexone bromide group versus 9.9% in the placebo group (p&lt;0.001). The mean percentage of methylnaltrexone bromide resulting in any RFBM within 4 hours were 28.9% and 30.2% respectively for the once daily and every other day dose groups compared with 9.4% and 9.3% respectively for the corresponding placebo regimen (p &lt; 0.001).
 
-The proportion of patients having an RFBM within 4 hours of the first dose was 34.2% in the combined methylnaltrexone bromide group versus 9.9% in the placebo group (p&lt;0.001) .  The mean percentage of methylnaltrexone bromide resulting in any RFBM within 4 hours were 28.9% and 30.2% respectively for the once daily and  every other day dose groups  compared with 9.4% and 9.3% respectively for the corresponding placebo regimen (p &lt; 0.001).
+The key secondary endpoint of adjusted mean change from baseline in weekly RFBMs was 3.1 in the methylnaltrexone bromide 12 mg once daily treatment group, 2.1 in the methylnaltrexone bromide 12 mg every other day treatment group, and 1.5 in the placebo treatment group during the 4-week double-blind period. The difference between methylnaltrexone bromide 12 mg once daily and placebo of 1.6 RFBMs per week is statistically significant (p &lt; 0.001) and clinically meaningful.
 
-The key secondary endpoint of adjusted mean change from baseline in weekly RFBMs was 3.1 in the methylnaltrexone bromide 12 mg once daily treatment group, 2.1 in the methylnaltrexone bromide 12 mg every other day treatment group, and 1.5 in the placebo treatment group during the 4-week double-blind period.  The difference between methylnaltrexone bromide 12 mg once daily and placebo of 1.6 RFBMs per week is statistically significant (p &lt; 0.001) and clinically meaningful.
+Another secondary endpoint evaluated the proportion of patients with ≥3 RFBMs per week during the 4-week double-blind phase. This was achieved in 59% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 61% of those receiving it every other day (p&lt;0.001 vs. placebo), and in 38% of the placebo treated patients. A supplementary analysis evaluated the percentage of patients achieving ≥3 complete RFBMs per week and an increase of ≥1 complete RFBMs per week in at least 3 of the 4 treatment weeks. This was achieved in 28.7% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 14.9% of those receiving it every other day (p=0.012 vs. placebo), and in 6.2% of the placebo treated patients.
 
-A nother secondary endpoint evaluated the proportion of patients with ≥3 R FBMs per week during the 4-week double-blind phase. This was achieved in 59% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 61% of those receiving it every other day (p&lt;0.001 vs. placebo), and in 38% of the placebo treated patients.  A supplementary analysis evaluated the percentage of patients achieving ≥3 complete RFBMs per week and an increase of ≥1 complete RFBMs per week in at least 3 of the 4 treatment weeks. This was achieved in 28.7% of the patients in the group receiving daily methylnaltrexo ne 12 mg (p&lt;0.001 vs. placebo), in 14.9% of those receiving it every other day (p=0.012 vs. placebo), and in 6.2% of the placebo treated patients.
-
-There was no evidence of a differential effect of gender on safety or efficacy.  The effect on race could not be analysed because the study population was predominantly Caucasian (90 %).  Median daily opioid dose did not vary meaningfully from baseline in either methylnaltrexone bromide-treated patients or in placebo-treated patients.
+There was no evidence of a differential effect of gender on safety or efficacy. The effect on race could not be analysed because the study population was predominantly Caucasian (90 %). Median daily opioid dose did not vary meaningfully from baseline in either methylnaltrexone bromide-treated patients or in placebo-treated patients.
 
 There were no clinically relevant changes from baseline in pain scores in either the methylnaltrexone bromide or placebo-treated patients.
 
@@ -284,11 +280,9 @@ In a double-blind, randomised, parallel-group ECG study of single, subcutaneous 
 
 ## Absorption
 
-Methylnaltrexone bromide is absorbed rapidly, with peak concentrations (Cmax) achieved at approximately 0.5 hours following subcutaneous administration. The Cmax and area under the plasma concentration-time curve (AUC) increase with dose increase from 0.15 mg/kg to 0.5 mg/kg in a dose-
+Methylnaltrexone bromide is absorbed rapidly, with peak concentrations (Cmax) achieved at approximately 0.5 hours following subcutaneous administration. The Cmax and area under the plasma concentration-time curve (AUC) increase with dose increase from 0.15 mg/kg to 0.5 mg/kg in a doseproportional manner. Absolute bioavailability of a 0.30 mg/kg subcutaneous dose versus a 0.30 mg/kg intravenous dose is 82 %.
 
 <div style=\"page-break-after: always\"></div>
-
-proportional manner. Absolute bioavailability of a 0.30 mg/kg subcutaneous dose versus a 0.30 mg/kg intravenous dose is 82 %.
 
 ## Distribution
 
@@ -348,11 +342,9 @@ Following intravenous injection of methylnaltrexone bromide for 13 weeks, simila
 
 ## 6.1 List of excipients
 
-Sodium chloride Sodium calcium edetate Glycine hydrochloride
+Sodium chloride Sodium calcium edetate Glycine hydrochloride Water for injections Hydrochloric acid (to adjust pH) Sodium hydroxide (to adjust pH)
 
 <div style=\"page-break-after: always\"></div>
-
-Sodium hydroxide (to adjust pH)
 
 ## 6.2 Incompatibilities
 
@@ -362,7 +354,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 4 years
 
-After withdrawal in the injection syringe :
+After withdrawal in the injection syringe:
 
 Due to light sensitivity, the solution for injection should be used within 24 hours.
 
@@ -392,7 +384,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -417,6 +411,8 @@ Date of latest renewal: 27 May 2013
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+
+12
 
 <div style=\"page-break-after: always\"></div>
 
@@ -446,7 +442,7 @@ Relistor is indicated for the treatment of opioid-induced constipation when resp
 
 ## Posology
 
-Opioid-induced constipation in adult patients with chronic pain (except palliative care patients with advanced illness)
+## Opioid-induced constipation in adult patients with chronic pain (except palliative care patients with advanced illness)
 
 The recommended dose of methylnaltrexone bromide is 12 mg (0.6 mL of solution) subcutaneously, as needed, given as at least 4 doses weekly, up to once daily (7 doses weekly).
 
@@ -550,11 +546,9 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. e
 
 Methylnaltrexone bromide does not affect the pharmacokinetics of medicinal products metabolised by cytochrome P450 (CYP) isozymes. Methylnaltrexone bromide is minimally metabolised by CYP isozymes. In vitro metabolism studies suggest that methylnaltrexone bromide does not inhibit the activity of CYP1A2, CYP2E1, CYP2B6, CYP2A6, CYP2C9, CYP2C19 or CYP3A4, while it is a weak inhibitor of the metabolism of a model CYP2D6 substrate. In a clinical drug interaction study in healthy adult male subjects, a subcutaneous dose of 0.3 mg/kg of methylnaltrexone bromide did not significantly affect the metabolism of dextromethorphan, a CYP2D6 substrate.
 
-The organic cation transporter (OCT)-related drug-drug interaction potential between methylnaltrexone bromide and an OCT inhibitor was studied in 18 healthy subjects by comparing the
+The organic cation transporter (OCT)-related drug-drug interaction potential between methylnaltrexone bromide and an OCT inhibitor was studied in 18 healthy subjects by comparing the single-dose pharmacokinetic profiles of methylnaltrexone bromide before and after multiple 400 mg doses of cimetidine. The renal clearance of methylnaltrexone bromide was reduced following multiple-dose administration of cimetidine (from 31 L/h to 18 L/h). However, this resulted in a small reduction in total clearance (from 107 L/h to 95 L/h). Consequently, no meaningful change in AUC of methylnaltrexone bromide, in addition to Cmax, was observed before and after multiple-dose administration of cimetidine.
 
 <div style=\"page-break-after: always\"></div>
-
-single-dose pharmacokinetic profiles of methylnaltrexone bromide before and after multiple 400 mg doses of cimetidine. The renal clearance of methylnaltrexone bromide was reduced following multiple-dose administration of cimetidine (from 31 L/h to 18 L/h). However, this resulted in a small reduction in total clearance (from 107 L/h to 95 L/h). Consequently, no meaningful change in AUC of methylnaltrexone bromide, in addition to Cmax, was observed before and after multiple-dose administration of cimetidine.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -582,7 +576,7 @@ The most common adverse reactions in all patients exposed to methylnaltrexone br
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions are classified as: v ery common (≥1/10); c ommon (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); r are (≥1/10,000 to &lt;1/1,000); v ery rare (&lt;1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The adverse reactions are classified as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 ## Nervous system disorders
 
@@ -596,7 +590,7 @@ Common: opioid-withdrawal-like symptoms (like chills, tremor, rhinorrhea, piloer
 
 Not known: Gastrointestinal perforation (see section 4.4)
 
-Common: Vomiting
+## Common: Vomiting
 
 Very common: Abdominal pain, nausea, diarrhoea, flatulence
 
@@ -606,7 +600,7 @@ Common: Injection site reactions (e.g. stinging, burning, pain , redness, oedema
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product.  Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -628,23 +622,23 @@ As a quaternary amine, the ability of methylnaltrexone bromide to cross the bloo
 
 ## Clinical efficacy and safety
 
-Opioid-induced constipation in adult patients with chronic non-cancer pain (12 mg dose) The efficacy and safety of methylnaltrexone bromide in the treatment of opioid-induced constipation in patients with chronic non-cancer pain were demonstrated in a randomized, double-blind, placebo-controlled study (Study 3356).  In this study, the median patient age was 49 years (range 23-83); 60% were females. The majority of patients had a primary diagnosis of back pain.
+Opioid-induced constipation in adult patients with chronic non-cancer pain (12 mg dose) The efficacy and safety of methylnaltrexone bromide in the treatment of opioid-induced constipation in patients with chronic non-cancer pain were demonstrated in a randomized, double-blind, placebo-controlled study (Study 3356). In this study, the median patient age was 49 years (range 23-83); 60% were females. The majority of patients had a primary diagnosis of back pain.
 
 Study 3356 compared 4-week treatment regimens of methylnaltrexone bromide 12 mg once daily and methylnaltrexone bromide 12 mg every other day with placebo. The 4-week, double-blind period was followed by an 8-week, open-label period during which methylnaltrexone bromide was to be used as needed, but no more frequently than once daily. A total of 460 patients (methylnaltrexone bromide
 
 <div style=\"page-break-after: always\"></div>
 
-12 mg once daily, n = 150, methylnaltrexone bromide 12 mg every other day, n = 148, placebo, n = 162) were treated in the double-blind period.  Patients had a history of chronic non-cancer pain and were taking opioids with stable doses of at least 50 mg of oral morphine equivalents per day. Patients had opioidinduced constipation (&lt; 3 rescue medication-free bowel movements per week during the screening period).  Patients were required to discontinue all previous laxative therapy.
+12 mg once daily, n = 150, methylnaltrexone bromide 12 mg every other day, n = 148, placebo, n = 162) were treated in the double-blind period. Patients had a history of chronic non-cancer pain and were taking opioids with stable doses of at least 50 mg of oral morphine equivalents per day. Patients had opioid-induced constipation (&lt; 3 rescue medication-free bowel movements per week during the screening period). Patients were required to discontinue all previous laxative therapy.
 
-The first co-primary endpoint was the proportion of patients having a rescue free bowel movements (RFBMs) within 4 hours of the first dose administration and the second the percentage of active injections resulting in any RFBM within 4 hours during the double-blind phase.  A RFBM was defined as a bowel movement that occurred without laxative use during the previous 24 hours.
+The first co-primary endpoint was the proportion of patients having a rescue free bowel movements (RFBMs) within 4 hours of the first dose administration and the second the percentage of active injections resulting in any RFBM within 4 hours during the double-blind phase. A RFBM was defined as a bowel movement that occurred without laxative use during the previous 24 hours.
 
-The proportion of patients having an RFBM within 4 hours of the first dose was 34.2% in the combined methylnaltrexone bromide group versus 9.9% in the placebo group (p&lt;0.001) . The mean percentage of methylnaltrexone bromide resulting in any RFBM within 4 hours were 28.9% and 30.2% respectively for the once daily and  every other day dose groups  compared with 9.4% and 9.3% respectively for the corresponding placebo regimen for daily and every other day dosing (p &lt;0.001) during the double blind phase.
+The proportion of patients having an RFBM within 4 hours of the first dose was 34.2% in the combined methylnaltrexone bromide group versus 9.9% in the placebo group (p&lt;0.001). The mean percentage of methylnaltrexone bromide resulting in any RFBM within 4 hours were 28.9% and 30.2% respectively for the once daily and every other day dose groups compared with 9.4% and 9.3% respectively for the corresponding placebo regimen for daily and every other day dosing (p &lt;0.001) during the double blind phase.
 
-The key secondary endpoint of adjusted mean change from baseline in weekly RFBMs was 3.1 in the methylnaltrexone bromide 12 mg once daily treatment group, 2.1 in the methylnaltrexone bromide 12 mg every other day treatment group, and 1.5 in the placebo treatment group during the 4-week doubleblind period.  The difference between methylnaltrexone bromide 12 mg once daily and placebo of 1.6 RFBMs per week is statistically significant (p &lt; 0.001) and clinically meaningful.
+The key secondary endpoint of adjusted mean change from baseline in weekly RFBMs was 3.1 in the methylnaltrexone bromide 12 mg once daily treatment group, 2.1 in the methylnaltrexone bromide 12 mg every other day treatment group, and 1.5 in the placebo treatment group during the 4-week doubleblind period. The difference between methylnaltrexone bromide 12 mg once daily and placebo of 1.6 RFBMs per week is statistically significant (p &lt; 0.001) and clinically meaningful.
 
-Another secondary endpoint evaluated the proportion of patients with ≥3 RFBMs per week during the 4-week double-blind phase. This was achieved in 59% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 61% of those receiving it every other day (p&lt;0.001 vs. placebo), and in 38% of the placebo treated patients.  A supplementary analysis evaluated a hard endpoint of the percentage of patients achieving ≥3 complete RFBMs per week and an increase of ≥1 complete RFBMs per week in at least 3 of the 4 treatment weeks. This was achieved in 28.7% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 14.9% of those receiving it every other day (p=0.012 vs. placebo), and in 6.2% of the placebo treated patients.
+Another secondary endpoint evaluated the proportion of patients with ≥3 RFBMs per week during the 4-week double-blind phase. This was achieved in 59% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 61% of those receiving it every other day (p&lt;0.001 vs. placebo), and in 38% of the placebo treated patients. A supplementary analysis evaluated a hard endpoint of the percentage of patients achieving ≥3 complete RFBMs per week and an increase of ≥1 complete RFBMs per week in at least 3 of the 4 treatment weeks. This was achieved in 28.7% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 14.9% of those receiving it every other day (p=0.012 vs. placebo), and in 6.2% of the placebo treated patients.
 
-There was no evidence of a differential effect of gender on safety or efficacy.  The effect on race could not be analysed because the study population was predominantly Caucasian (90 %).  Median daily opioid dose did not vary meaningfully from baseline in either methylnaltrexone bromide-treated patients or in placebo-treated patients.
+There was no evidence of a differential effect of gender on safety or efficacy. The effect on race could not be analysed because the study population was predominantly Caucasian (90 %). Median daily opioid dose did not vary meaningfully from baseline in either methylnaltrexone bromide-treated patients or in placebo-treated patients.
 
 There were no clinically relevant changes from baseline in pain scores in either the methylnaltrexone bromide or placebo-treated patients.
 
@@ -654,11 +648,9 @@ The use of methylnaltrexone bromide for treating opioid-induced constipation bey
 
 The efficacy and safety of methylnaltrexone bromide in the treatment of opioid-induced constipation in patients receiving palliative care was demonstrated in two randomised, double-blind, placebocontrolled studies. In these studies, the median age was 68 years (range 21-100); 51 % were females. In both studies, patients had advanced terminal illness and limited life expectancy, with the majority having a primary diagnosis of incurable cancer; other primary diagnoses included end-stage COPD/emphysema, cardiovascular disease/heart failure, Alzheimer's disease/dementia, HIV/AIDS, or other advanced illnesses. Prior to screening, patients had opioid-induced constipation defined as either &lt;3 bowel movements in the preceding week or no bowel movement for &gt;2 days.
 
-Study 301 compared methylnaltrexone bromide given as a single, double-blind, subcutaneous dose of 0.15 mg/kg, or 0.3 mg/kg versus placebo. The double-blind dose was followed by an open-label, 4-week dosing period, where methylnaltrexone bromide could be used as needed, no more frequently
+Study 301 compared methylnaltrexone bromide given as a single, double-blind, subcutaneous dose of 0.15 mg/kg, or 0.3 mg/kg versus placebo. The double-blind dose was followed by an open-label, 4-week dosing period, where methylnaltrexone bromide could be used as needed, no more frequently than 1 dose in a 24-hour period. Throughout both study periods, patients maintained their usual laxative regimen. A total of 154 patients (methylnaltrexone bromide 0.15 mg/kg, n = 47; methylnaltrexone bromide 0.3 mg/kg, n = 55, placebo, n = 52) were treated in the double-blind period. The primary endpoint was the proportion of patients with a rescue-free laxation within 4 hours of the double-blind dose of study medicinal product. Methylnaltrexone bromide-treated patients had a significantly higher rate of laxation within 4 hours of the double-blind dose (62 % for 0.15 mg/kg and 58 % for 0.3 mg/kg) than placebo-treated patients (14 %); p&lt;0.0001 for each dose versus placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-than 1 dose in a 24-hour period. Throughout both study periods, patients maintained their usual laxative regimen. A total of 154 patients (methylnaltrexone bromide 0.15 mg/kg, n = 47; methylnaltrexone bromide 0.3 mg/kg, n = 55, placebo, n = 52) were treated in the double-blind period. The primary endpoint was the proportion of patients with a rescue-free laxation within 4 hours of the double-blind dose of study medicinal product. Methylnaltrexone bromide-treated patients had a significantly higher rate of laxation within 4 hours of the double-blind dose (62 % for 0.15 mg/kg and 58 % for 0.3 mg/kg) than placebo-treated patients (14 %); p&lt;0.0001 for each dose versus placebo.
 
 Study 302 compared double-blind, subcutaneous doses of methylnaltrexone bromide given every other day for 2 weeks versus placebo. During the first week (days 1, 3, 5, 7), patients received either methylnaltrexone bromide 0.15 mg/kg or placebo. In the second week, a patient's assigned dose could be increased to 0.30 mg/kg if the patient had 2 or fewer rescue-free laxations up to day 8. At any time, the patient's assigned dose could be reduced based on tolerability. Data from 133 (62 methylnaltrexone bromide, 71 placebo) patients were analysed. There were 2 primary endpoints: proportion of patients with a rescue-free laxation within 4 hours of the first dose of study medicinal product and proportion of patients with a rescue-free laxation within 4 hours after at least 2 of the first 4 doses of medicinal product. Methylnaltrexone bromide-treated patients had a higher rate of laxation within 4 hours of the first dose (48 %) than placebo-treated patients (16 %); p&lt;0.0001. Methylnaltrexone bromide-treated patients also had significantly higher rates of laxation within 4 hours after at least 2 of the first 4 doses (52 %) than did placebo-treated patients (9 %); p&lt;0.0001. Stool consistency was not meaningfully improved in patients who had soft stool at baseline.
 
@@ -776,7 +768,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -790,17 +784,13 @@ EU/1/08/463/007
 
 <div style=\"page-break-after: always\"></div>
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 02 July 2008
 
 Date of latest renewal: 27 May 2013
 
-10.
-
-DATE OF REVISION OF THE TEXT
+10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
@@ -834,7 +824,7 @@ Relistor is indicated for the treatment of opioid-induced constipation when resp
 
 ## Posology
 
-Opioid-induced constipation in adult patients with chronic pain (except palliative care patients with advanced illness)
+## Opioid-induced constipation in adult patients with chronic pain (except palliative care patients with advanced illness)
 
 The recommended dose of methylnaltrexone bromide is 12 mg (0.6 mL of solution) subcutaneously, as needed, given as at least 4 doses weekly up to once daily (7 doses weekly).
 
@@ -920,7 +910,7 @@ Methylnaltrexone bromide should be used with caution in patients with known or s
 
 Use of methylnaltrexone bromide in patients with colostomy, peritoneal catheter, active diverticular disease or fecal impaction has not been studied. Therefore, Relistor should only be administered with caution in these patients.
 
-Cases of GI perforation have been reported in the postauthorisation period after use of methylnaltrexone bromide in patients  with conditions that may be associated with localized or diffuse reduction of structural integrity in the wall of the gastrointestinal tract (e.g., peptic ulcer disease, pseudo obstruction (Ogilvie's syndrome), diverticular disease, infiltrative gastrointestinal tract malignancies or peritoneal metastases). The overall risk-benefit profile should be taken into account when using methylnaltrexone bromide in patients with these conditions or other conditions which might result in impaired integrity of the gastrointestinal tract wall (e.g., Crohn's disease). Patients should be monitored for severe, persistent, or worsening abdominal pain; methylnaltrexone bromide should be discontinued if this symptom occurs.
+Cases of GI perforation have been reported in the postauthorisation period after use of methylnaltrexone bromide in patients with conditions that may be associated with localized or diffuse reduction of structural integrity in the wall of the gastrointestinal tract (e.g., peptic ulcer disease, pseudo obstruction (Ogilvie's syndrome), diverticular disease, infiltrative gastrointestinal tract malignancies or peritoneal metastases). The overall risk-benefit profile should be taken into account when using methylnaltrexone bromide in patients with these conditions or other conditions which might result in impaired integrity of the gastrointestinal tract wall (e.g., Crohn's disease). Patients should be monitored for severe, persistent, or worsening abdominal pain; methylnaltrexone bromide should be discontinued if this symptom occurs.
 
 ## Opioid withdrawal
 
@@ -934,11 +924,9 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. e
 
 Methylnaltrexone bromide does not affect the pharmacokinetics of medicinal products metabolised by cytochrome P450 (CYP) isozymes. Methylnaltrexone bromide is minimally metabolised by CYP isozymes. In vitro metabolism studies suggest that methylnaltrexone bromide does not inhibit the activity of CYP1A2, CYP2E1, CYP2B6, CYP2A6, CYP2C9, CYP2C19 or CYP3A4, while it is a weak inhibitor of the metabolism of a model CYP2D6 substrate. In a clinical drug interaction study in healthy adult male subjects, a subcutaneous dose of 0.3 mg/kg of methylnaltrexone bromide did not significantly affect the metabolism of dextromethorphan, a CYP2D6 substrate.
 
-The organic cation transporter (OCT)-related drug-drug interaction potential between methylnaltrexone bromide and an OCT inhibitor was studied in 18 healthy subjects by comparing the single-dose pharmacokinetic profiles of methylnaltrexone bromide before and after multiple 400 mg doses of cimetidine. The renal clearance of methylnaltrexone bromide was reduced following multiple-dose administration of cimetidine (from 31 L/h to 18 L/h). However, this resulted in a small reduction in total clearance (from 107 L/h to 95 L/h). Consequently, no meaningful change in AUC of
+The organic cation transporter (OCT)-related drug-drug interaction potential between methylnaltrexone bromide and an OCT inhibitor was studied in 18 healthy subjects by comparing the single-dose pharmacokinetic profiles of methylnaltrexone bromide before and after multiple 400 mg doses of cimetidine. The renal clearance of methylnaltrexone bromide was reduced following multiple-dose administration of cimetidine (from 31 L/h to 18 L/h). However, this resulted in a small reduction in total clearance (from 107 L/h to 95 L/h). Consequently, no meaningful change in AUC of methylnaltrexone bromide, in addition to Cmax, was observed before and after multiple-dose administration of cimetidine.
 
 <div style=\"page-break-after: always\"></div>
-
-methylnaltrexone bromide, in addition to Cmax, was observed before and after multiple-dose administration of cimetidine.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -990,7 +978,7 @@ Common: Injection site reactions (e.g. stinging, burning, pain , redness, oedema
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product.  Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -1014,23 +1002,21 @@ As a quaternary amine, the ability of methylnaltrexone bromide to cross the bloo
 
 ## Opioid-induced constipation in adult patients with chronic non-cancer pain
 
-The efficacy and safety of methylnaltrexone bromide in the treatment of opioid-induced constipation in patients with chronic non-cancer pain were demonstrated in a randomized, double-blind, placebo-controlled study (Study 3356).  In this study, the median patient age was 49 years (range 23-83); 60% were females. The majority of patients had a primary diagnosis of back pain.
+The efficacy and safety of methylnaltrexone bromide in the treatment of opioid-induced constipation in patients with chronic non-cancer pain were demonstrated in a randomized, double-blind, placebo-controlled study (Study 3356). In this study, the median patient age was 49 years (range 23-83); 60% were females. The majority of patients had a primary diagnosis of back pain.
 
-Study 3356 compared 4-week treatment regimens of methylnaltrexone bromide 12 mg once daily and methylnaltrexone bromide 12 mg every other day with placebo. The 4-week, double-blind period was followed by an 8-week, open-label period during which methylnaltrexone bromide was to be used as needed, but no more frequently than once daily. A total of 460 patients (methylnaltrexone bromide 12 mg once daily, n=150, methylnaltrexone bromide 12 mg every other day, n=148, placebo, n=162) were treated in the double-blind period.  Patients had a history of chronic non-cancer pain and were taking opioids with stable doses of at least 50 mg of oral morphine equivalents per day.  Patients had been receiving opioid therapy for pain (median daily baseline oral morphine equivalent
+Study 3356 compared 4-week treatment regimens of methylnaltrexone bromide 12 mg once daily and methylnaltrexone bromide 12 mg every other day with placebo. The 4-week, double-blind period was followed by an 8-week, open-label period during which methylnaltrexone bromide was to be used as needed, but no more frequently than once daily. A total of 460 patients (methylnaltrexone bromide 12 mg once daily, n=150, methylnaltrexone bromide 12 mg every other day, n=148, placebo, n=162) were treated in the double-blind period. Patients had a history of chronic non-cancer pain and were taking opioids with stable doses of at least 50 mg of oral morphine equivalents per day. Patients had been receiving opioid therapy for pain (median daily baseline oral morphine equivalent dose = 160 mg) and had opioid-induced constipation (&lt;3 rescue medication-free bowel movements per week during the screening period). Patients were required to discontinue all previous laxative therapy.
 
 <div style=\"page-break-after: always\"></div>
 
-dose = 160 mg) and had opioidinduced constipation (&lt;3 rescue medication-free bowel movements per week during the screening period).  Patients were required to discontinue all previous laxative therapy.
+The first co-primary endpoint was the proportion of patients having a rescue free bowel movements (RFBMs) within 4 hours of the first dose administration and the second the percentage of active injections resulting in any RFBM within 4 hours during the double-blind phase. A RFBM was defined as a bowel movement that occurred without laxative use during the previous 24 hours.
 
-The first co-primary endpoint was the proportion of patients having a rescue free bowel movements (RFBMs) within 4 hours of the first dose administration and the second the percentage of active injections resulting in any RFBM within 4 hours during the double-blind phase.  A RFBM was defined as a bowel movement that occurred without laxative use during the previous 24 hours.
+The proportion of patients having an RFBM within 4 hours of the first dose was 34.2% in the combined methylnaltrexone bromide group versus 9.9% in the placebo group (p&lt;0.001). The mean percentage of methylnaltrexone bromide resulting in any RFBM within 4 hours were 28.9% and 30.2% respectively for the once daily and every other day dose groups compared with 9.4% and 9.3% respectively for the corresponding placebo regimen (p &lt;0.001).
 
-The proportion of patients having an RFBM within 4 hours of the first dose was 34.2% in the combined methylnaltrexone bromide group versus 9.9% in the placebo group (p&lt;0.001) .  The mean percentage of methylnaltrexone bromide resulting in any RFBM within 4 hours were 28.9% and 30.2% respectively for the once daily and  every other day dose groups  compared with 9.4% and 9.3% respectively for the corresponding placebo regimen (p &lt;0.001).
+The key secondary endpoint of adjusted mean change from baseline in weekly RFBMs was 3.1 in the methylnaltrexone bromide 12 mg once daily treatment group, 2.1 in the methylnaltrexone bromide 12 mg every other day treatment group, and 1.5 in the placebo treatment group during the 4-week double-blind period. The difference between methylnaltrexone bromide 12 mg once daily and placebo of 1.6 RFBMs per week is statistically significant (p &lt; 0.001) and clinically meaningful.
 
-The key secondary endpoint of adjusted mean change from baseline in weekly RFBMs was 3.1 in the methylnaltrexone bromide 12 mg once daily treatment group, 2.1 in the methylnaltrexone bromide 12 mg every other day treatment group, and 1.5 in the placebo treatment group during the 4-week double-blind period.  The difference between methylnaltrexone bromide 12 mg once daily and placebo of 1.6 RFBMs per week is statistically significant (p &lt; 0.001) and clinically meaningful.
+Another secondary endpoint evaluated the proportion of patients with ≥3 RFBMs per week during the 4-week double-blind phase. This was achieved in 59% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 61% of those receiving it every other day (p&lt;0.001 vs. placebo), and in 38% of the placebo treated patients. A supplementary analysis evaluated a hard endpoint of the percentage of patients achieving ≥3 complete RFBS per week and an increase of ≥1 complete RFBMs per week in at least 3 of the 4 treatment weeks. This was achieved in 28.7% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 14.9% of those receiving it every other day (p=0.012 vs. placebo), and in 6.2% of the placebo treated patients.
 
-Another secondary endpoint evaluated the proportion of patients with ≥3 RFBMs per week during the 4-week double-blind phase. This was achieved in 59% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 61% of those receiving it every other day (p&lt;0.00 1 vs. placebo), and in 38% of the placebo treated patients.  A supplementary analysis evaluated a hard endpoint of the percentage of patients achieving ≥3 complete RFBS per week and an increase of ≥1 complete RFBMs per week in at least 3 of the 4 treatment weeks. This was achieved in 28.7% of the patients in the group receiving daily methylnaltrexone 12 mg (p&lt;0.001 vs. placebo), in 14.9% of those receiving it every other day (p=0.012 vs. placebo), and in 6.2% of the placebo treated patients.
-
-There was no evidence of a differential effect of gender on safety or efficacy.  The effect on race could not be analysed because the study population was predominantly Caucasian (90 %).  Median daily opioid dose did not vary meaningfully from baseline in either methylnaltrexone bromide-treated patients or in placebo-treated patients.
+There was no evidence of a differential effect of gender on safety or efficacy. The effect on race could not be analysed because the study population was predominantly Caucasian (90 %). Median daily opioid dose did not vary meaningfully from baseline in either methylnaltrexone bromide-treated patients or in placebo-treated patients.
 
 There were no clinically relevant changes in pain scores from baseline in either the methylnaltrexone bromide or placebo-treated patients.
 
@@ -1040,11 +1026,9 @@ The use of methylnaltrexone bromide for treating opioid-induced constipation bey
 
 The efficacy and safety of methylnaltrexone bromide in the treatment of opioid-induced constipation in patients receiving palliative care was demonstrated in two randomised, double-blind, placebocontrolled studies. In these studies, the median age was 68 years (range 21-100); 51 % were females. In both studies, patients had advanced terminal illness and limited life expectancy, with the majority having a primary diagnosis of incurable cancer; other primary diagnoses included end-stage COPD/emphysema, cardiovascular disease/heart failure, Alzheimer's disease/dementia, HIV/AIDS, or other advanced illnesses. Prior to screening, patients had opioid-induced constipation defined as either &lt;3 bowel movements in the preceding week or no bowel movement for &gt;2 days.
 
-Study 301 compared methylnaltrexone bromide given as a single, double-blind, subcutaneous dose of 0.15 mg/kg, or 0.3 mg/kg versus placebo. The double-blind dose was followed by an open-label, 4-week dosing period, where methylnaltrexone bromide could be used as needed, no more frequently than 1 dose in a 24-hour period. Throughout both study periods, patients maintained their usual laxative regimen. A total of 154 patients (methylnaltrexone bromide 0.15 mg/kg, n = 47; methylnaltrexone bromide 0.3 mg/kg, n = 55, placebo, n = 52) were treated in the double-blind period. The primary endpoint was the proportion of patients with a rescue-free laxation within 4 hours of the
+Study 301 compared methylnaltrexone bromide given as a single, double-blind, subcutaneous dose of 0.15 mg/kg, or 0.3 mg/kg versus placebo. The double-blind dose was followed by an open-label, 4-week dosing period, where methylnaltrexone bromide could be used as needed, no more frequently than 1 dose in a 24-hour period. Throughout both study periods, patients maintained their usual laxative regimen. A total of 154 patients (methylnaltrexone bromide 0.15 mg/kg, n = 47; methylnaltrexone bromide 0.3 mg/kg, n = 55, placebo, n = 52) were treated in the double-blind period. The primary endpoint was the proportion of patients with a rescue-free laxation within 4 hours of the double-blind dose of study medicinal product. Methylnaltrexone bromide-treated patients had a significantly higher rate of laxation within 4 hours of the double-blind dose (62 % for 0.15 mg/kg and 58 % for 0.3 mg/kg) than placebo-treated patients (14 %); p&lt;0.0001 for each dose versus placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-double-blind dose of study medicinal product. Methylnaltrexone bromide-treated patients had a significantly higher rate of laxation within 4 hours of the double-blind dose (62 % for 0.15 mg/kg and 58 % for 0.3 mg/kg) than placebo-treated patients (14 %); p&lt;0.0001 for each dose versus placebo.
 
 Study 302 compared double-blind, subcutaneous doses of methylnaltrexone bromide given every other day for 2 weeks versus placebo. During the first week (days 1, 3, 5, 7), patients received either methylnaltrexone bromide 0.15 mg/kg or placebo. In the second week, a patient's assigned dose could be increased to 0.30 mg/kg if the patient had 2 or fewer rescue-free laxations up to day 8. At any time, the patient's assigned dose could be reduced based on tolerability. Data from 133 (62 methylnaltrexone bromide, 71 placebo) patients were analysed. There were 2 primary endpoints: proportion of patients with a rescue-free laxation within 4 hours of the first dose of study medicinal product and proportion of patients with a rescue-free laxation within 4 hours after at least 2 of the first 4 doses of medicinal product. Methylnaltrexone bromide-treated patients had a higher rate of laxation within 4 hours of the first dose (48 %) than placebo-treated patients (16 %); p&lt;0.0001. Methylnaltrexone bromide-treated patients also had significantly higher rates of laxation within 4 hours after at least 2 of the first 4 doses (52 %) than did placebo-treated patients (9 %); p&lt;0.0001. Stool consistency was not meaningfully improved in patients who had soft stool at baseline.
 
@@ -1066,11 +1050,9 @@ In a double-blind, randomised, parallel-group ECG study of single, subcutaneous 
 
 ## Absorption
 
-Methylnaltrexone bromide is absorbed rapidly, with peak concentrations (Cmax) achieved at approximately 0.5 hours following subcutaneous administration. The Cmax and area under the plasma concentration-time curve (AUC) increase with dose increase from 0.15 mg/kg to 0.5 mg/kg in a dose-
+Methylnaltrexone bromide is absorbed rapidly, with peak concentrations (Cmax) achieved at approximately 0.5 hours following subcutaneous administration. The Cmax and area under the plasma concentration-time curve (AUC) increase with dose increase from 0.15 mg/kg to 0.5 mg/kg in a doseproportional manner. Absolute bioavailability of a 0.30 mg/kg subcutaneous dose versus a 0.30 mg/kg intravenous dose is 82 %.
 
 <div style=\"page-break-after: always\"></div>
-
-proportional manner. Absolute bioavailability of a 0.30 mg/kg subcutaneous dose versus a 0.30 mg/kg intravenous dose is 82 %.
 
 ## Distribution
 
@@ -1132,9 +1114,13 @@ Following intravenous injection of methylnaltrexone bromide for 13 weeks, simila
 
 Sodium chloride Sodium calcium edetate Glycine hydrochloride
 
-<div style=\"page-break-after: always\"></div>
+Water for injections
+
+Hydrochloric acid (to adjust pH)
 
 Sodium hydroxide (to adjust pH)
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -1166,7 +1152,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1205,7 +1193,11 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Bausch Health Poland Sp. z o. o., ul. Kosztowska 21, 41409 Mysłowice, Poland
+Bausch Health Poland Sp. z o. o., ul. Kosztowska 21, 41-409 Mysłowice,
+
+Poland
+
+Przedsiębiorstwo Farmaceutyczne Jelfa SA ul. Wincentego Pola 21 58-500 Jelenia Góra, Poland
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -1250,11 +1242,15 @@ OUTER CARTON TEXT ( 1 VIAL PRESENTATION)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Relistor 12 mg/0.6 mL solution for injection Methylnaltrexone bromide
+Relistor 12 mg/0.6 mL solution for injection
+
+Methylnaltrexone bromide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-Each vial of 0.6 mL contains 12 mg of methylnaltrexone bromide. One mL of solution contains 20 mg of methylnaltrexone bromide.
+Each vial of 0.6 mL contains 12 mg of methylnaltrexone bromide.
+
+One mL of solution contains 20 mg of methylnaltrexone bromide.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1330,13 +1326,13 @@ OUTER CARTON TEXT ( 2 VIAL PRESENTATIONS)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Relistor 12 mg/0.6 mL solution for injection Methylnaltrexone bromide
+Relistor 12 mg/0.6 mL solution for injection
+
+Methylnaltrexone bromide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-Each vial of 0.6 mL contains 12 mg of methylnaltrexone bromide.
-
-One mL of solution contains 20 mg of methylnaltrexone bromide.
+Each vial of 0.6 mL contains 12 mg of methylnaltrexone bromide. One mL of solution contains 20 mg of methylnaltrexone bromide.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1378,7 +1374,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1410,7 +1408,7 @@ PC
 
 <div style=\"page-break-after: always\"></div>
 
-## SN NN
+SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1420,7 +1418,9 @@ OUTER CARTON TEXT ( 7 VIAL PRESENTATIONS)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Relistor 12 mg/0.6 mL solution for injection Methylnaltrexone bromide
+Relistor 12 mg/0.6 mL solution for injection
+
+Methylnaltrexone bromide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1468,7 +1468,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1500,7 +1502,7 @@ PC
 
 <div style=\"page-break-after: always\"></div>
 
-## SN NN
+SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1548,7 +1550,7 @@ Store below 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-Keep the pre-filled syringe  in the outer carton in order to protect from light.
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1556,7 +1558,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1596,7 +1600,7 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Relistor 8  mg solution for injection in pre-filled syringe Methylnaltrexone bromide
+Relistor 8 mg solution for injection in pre-filled syringe Methylnaltrexone bromide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1634,7 +1638,7 @@ Store below 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-Keep the pre-filled syringe  in the outer carton in order to protect from light.
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1642,7 +1646,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1720,7 +1726,7 @@ Store below 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-Keep the pre-filled syringe  in the outer carton in order to protect from light.
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1728,7 +1734,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1814,7 +1822,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1892,7 +1902,7 @@ Store below 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-Keep the pre-filled syringe  in the outer carton in order to protect from light.
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1900,7 +1910,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1978,7 +1990,7 @@ Store below 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-Keep the pre-filled syringe  in the outer carton in order to protect from light.
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1986,7 +1998,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -2072,7 +2086,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -2158,7 +2174,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -2235,7 +2253,9 @@ Read the package leaflet before use.
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
 
-Relistor 8 mg injection Methylnaltrexone bromide SC
+Relistor 8 mg injection Methylnaltrexone bromide
+
+SC
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -2338,11 +2358,13 @@ Methylnaltrexone bromide
 
 Bausch Health Ireland Limited
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -2354,21 +2376,25 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-TEXT FOR VIAL LABEL
+## TEXT FOR VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Relistor 12 mg/0.6 mL solution for injection Methylnaltrexone bromide Subcutaneous use
+Relistor 12 mg/0.6 mL solution for injection Methylnaltrexone bromide
+
+Subcutaneous use
 
 ## 2. METHOD OF ADMINISTRATION
 
 Read the package leaflet before use
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -2388,14 +2414,16 @@ Keep the vial in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-## Relistor 12 mg/0.6 mL solution for injection Methylnaltrexone bromide
+## Relistor 12 mg/0.6 mL solution for injection
+
+Methylnaltrexone bromide
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet.  See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2410,7 +2438,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 Relistor contains an active substance called methylnaltrexone bromide which acts by blocking the side effects of opioid pain medicines that affect the bowel.
 
-It treats constipation that is caused by medicines for moderate to severe pain called opioids (for example morphine or codeine). It is used for patients when other medicines for constipation, called laxatives, have not worked well enough. Opioids are prescribed by your doctor.  Your doctor will tell you whether you should stop or continue taking your usual laxatives when you start using this medicine.
+It treats constipation that is caused by medicines for moderate to severe pain called opioids (for example morphine or codeine). It is used for patients when other medicines for constipation, called laxatives, have not worked well enough. Opioids are prescribed by your doctor. Your doctor will tell you whether you should stop or continue taking your usual laxatives when you start using this medicine.
 
 This medicine is for use in adults (aged 18 and over).
 
@@ -2427,7 +2455,7 @@ Talk to your doctor or pharmacist before using Relistor.
 
 - If you have severe stomach symptoms which continue or get worse, contact your doctor immediately because these could be symptoms of a hole developing in the bowel wall (intestinal perforation). See section 4.
 - If you have Crohn´s disease or gastrointestinal ulcers
-- If you feel sick, vomit, shiver, sweat, have belly pain and/or feel a fast heart beat shortly after taking Relistor talk  to your doctor
+- If you feel sick, vomit, shiver, sweat, have belly pain and/or feel a fast heart beat shortly after taking Relistor talk to your doctor
 - If you have severe liver or kidney disease.
 
 <div style=\"page-break-after: always\"></div>
@@ -2519,7 +2547,7 @@ Other common side effects that may affect up to 1 in 10 people are:
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet.  You can also report side effects directly via the national reporting system listed in Appendix V.  By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Relistor
 
@@ -2539,8 +2567,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Relistor contains
 
-- -The active substance is methylnaltrexone bromide. Each vial of 0.6 mL contains 12 mg methylnaltrexone bromide. One mL of solution contains 20 mg methylnaltrexone bromide.
-- -The other ingredients are sodium chloride, sodium calcium edetate, glycine hydrochloride, water for injections, hydrochloric acid (to adjust pH) and sodium hydroxide (to adjust pH).
+- The active substance is methylnaltrexone bromide. Each vial of 0.6 mL contains 12 mg methylnaltrexone bromide. One mL of solution contains 20 mg methylnaltrexone bromide.
+- The other ingredients are sodium chloride, sodium calcium edetate, glycine hydrochloride, water for injections, hydrochloric acid (to adjust pH) and sodium hydroxide (to adjust pH).
 
 ## What Relistor looks like and contents of the pack
 
@@ -2568,11 +2596,17 @@ Bausch Health Ireland Limited
 
 ## Manufacturer
 
-Bausch Health Poland Sp. z o. o., ul. Kosztowska 21, 41409 Mysłowice, Poland
+Bausch Health Poland Sp. z o. o., ul. Kosztowska 21, 41-409 Mysłowice,
+
+Poland
+
+Przedsiębiorstwo Farmaceutyczne Jelfa SA ul. Wincentego Pola 21 58-500 Jelenia Góra, Poland
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+[http://www.ema.europa.eu](http://www.ema.europa.eu/)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -2600,23 +2634,21 @@ The following pack types are available:
 
 The syringes with retractable injection needle or safeguard injection needle are equiped with a safety mechanism and are designed to protect you from needle stick injuries following injection.
 
-1. Syringe with retractable injection needle
-
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+## 1. Syringe with retractable injection needle
 
-## A - needle cover, B - barrel, C - plunger
+A - needle cover, B - barrel, C - plunger
+
+<!-- image -->
 
 In case of syringe with retractable injection needle the safety mechanism is activated automatically after pushing the plunger all the way down until the syringe is empty. The needle will automatically retract from the skin and be capped. A click sound confirms that injection was done properly.
 
-2. Syringe with safeguard injection needle
+## 2. Syringe with safeguard injection needle
 
 <!-- image -->
 
-A - needle cover, B - barrel, C - plunger, D - safety arm
-
-In case of syringe with safeguard injection needle after pulling the needle out of the skin the safety mechanism should be activated manually by pushing the safety arm completely forward. The safety arm is locked and fully extended when you hear the click sound.
+A - needle cover, B - barrel, C - plunger, D - safety arm In case of syringe with safeguard injection needle after pulling the needle out of the skin the safety mechanism should be activated manually by pushing the safety arm completely forward. The safety arm is locked and fully extended when you hear the click sound.
 
 ## Instruction
 
@@ -2626,11 +2658,9 @@ Always check the vial to make sure you have the right medication, check the date
 
 If you receive only the vial, your doctor will need to make sure you are equipped with an adequate injection syringe, including needle and alcohol swabs. In this case - while the principles of the following instructions are also to be followed - your doctor will give you separate, detailed instructions.
 
-The following Steps are therefore mainly for the use of the packs containing vials and syringes with
-
 <div style=\"page-break-after: always\"></div>
 
-either retractable injection needle or with safequard injection needle.
+The following Steps are therefore mainly for the use of the packs containing vials and syringes with either retractable injection needle or with safequard injection needle.
 
 ## Step 1: Setting up for an injection
 
@@ -2651,9 +2681,11 @@ either retractable injection needle or with safequard injection needle.
 
 If you use syringe with safeguard injection needle: you may need to rotate the safety arm, to make a scale visible.
 
-4. You will need an air in the syringe in the amount that is equal to the dose. For this purpose carefully pull back the plunger on the syringe to either the 0.4 mL mark for dose 8 mg or the 0.6 mL mark for dose 12 mg or as advised, depending on the dose prescribed by your doctor, nurse or pharmacist.
+4. You will need an air in the syringe in the amount that is equal to the dose. For this purpose carefully pull back the plunger on the syringe to either the 0.4 mL mark for dose 8 mg or the
 
 <div style=\"page-break-after: always\"></div>
+
+0.6 mL mark for dose 12 mg or as advised, depending on the dose prescribed by your doctor, nurse or pharmacist.
 
 5. Insert the needle straight down into the centre of the vial stopper. Do not insert it at an angle as the needle may bend or break. Hold the vial on the work surface with the other hand so that it can not slip off. You will feel a slight resistance as the needle passes through the stopper. Look for the needle tip inside the vial.
 6. In order to get the air out of the syringe, gently push the plunger down to inject the air into the vial.
@@ -2713,9 +2745,9 @@ Step 5: Disposing of supplies
 
 The capped syringe or syringe and needle should NEVER be reused. NEVER recap the needle. Dispose of the capped syringe or needle and syringe in a closable puncture-resistant container as instructed by your doctor, nurse or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Relistor 8 mg solution for injection in pre-filled syringe Relistor 12 mg solution for injection in pre-filled syringe
 
@@ -2723,10 +2755,10 @@ Methylnaltrexone bromide
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet.  See section  4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2741,7 +2773,7 @@ Methylnaltrexone bromide
 
 Relistor contains an active substance called methylnaltrexone bromide which acts by blocking the side effects of opioid pain medicines that affect the bowel.
 
-It treats constipation that is caused by medicines for moderate to severe pain called opioids (for example morphine or codeine). It is used for patients when other medicines for constipation, called laxatives, have not worked well enough. Opioids are prescribed by your doctor.  Your doctor will tell you whether you should stop or continue taking your usual laxatives when you start using this medicine.
+It treats constipation that is caused by medicines for moderate to severe pain called opioids (for example morphine or codeine). It is used for patients when other medicines for constipation, called laxatives, have not worked well enough. Opioids are prescribed by your doctor. Your doctor will tell you whether you should stop or continue taking your usual laxatives when you start using this medicine.
 
 This medicine is for use in adults (aged 18 and over).
 
@@ -2749,26 +2781,26 @@ This medicine is for use in adults (aged 18 and over).
 
 ## Do not use Relistor
 
-- -if you are allergic to methylnaltrexone bromide or any of the other ingredients of this medicine (listed in section 6).
-- -If you or your doctor know that your bowels were or are obstructed or your bowels are in a state where there is an immediate need for surgical intervention (which has to be diagnosed by your doctor).
+- if you are allergic to methylnaltrexone bromide or any of the other ingredients of this medicine (listed in section 6).
+- If you or your doctor know that your bowels were or are obstructed or your bowels are in a state where there is an immediate need for surgical intervention (which has to be diagnosed by your doctor).
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before using Relistor
 
-- -If you have severe stomach symptoms which continue or get worse, contact your doctor immediately because these could be symptoms of a hole developing in the bowel wall (intestinal perforation). See section 4.
-- -If you have Crohn´s disease or gastrointestinal ulcers
-- -If you feel sick, vomit, shiver, sweat, have belly pain and/or feel a fast heart beat shortly after taking Relistor talk  to your doctor
+- If you have severe stomach symptoms which continue or get worse, contact your doctor immediately because these could be symptoms of a hole developing in the bowel wall (intestinal perforation). See section 4.
+- If you have Crohn´s disease or gastrointestinal ulcers
+- If you feel sick, vomit, shiver, sweat, have belly pain and/or feel a fast heart beat shortly after taking Relistor talk to your doctor
 
 <div style=\"page-break-after: always\"></div>
 
-- -If you have severe liver or kidney disease.
-- -If you develop severe or persistent diarrhoea (passing of frequent watery stools), discontinue therapy and contact your doctor immediately.
-- -It is important to be near a toilet with assistance available if necessary, since bowel movement may happen within 30 minutes after injection of the medicine.
-- -Please talk to your doctor if you experience stomach ache which continues, nausea, (feeling sick) or vomiting (being sick) that is new or becomes worse.
-- -Please also talk to your doctor if you have a colostomy, a tube in your abdomen (peritoneal catheter), or suffer from diverticular disease or faecal impaction as this medicine should be used carefully in these circumstances.
-- -If you are receiving supportive care for your advanced illness, this medicine will only be used for a limited period of time which will usually be less than 4 months..
-- -This medicine should not be used for treatment of patients with constipation which is not related to opioid use. If you have suffered from constipation before you had to take opioids (for pain), please talk to your doctor.
+- If you have severe liver or kidney disease.
+- If you develop severe or persistent diarrhoea (passing of frequent watery stools), discontinue therapy and contact your doctor immediately.
+- It is important to be near a toilet with assistance available if necessary, since bowel movement may happen within 30 minutes after injection of the medicine.
+- Please talk to your doctor if you experience stomach ache which continues, nausea, (feeling sick) or vomiting (being sick) that is new or becomes worse.
+- Please also talk to your doctor if you have a colostomy, a tube in your abdomen (peritoneal catheter), or suffer from diverticular disease or faecal impaction as this medicine should be used carefully in these circumstances.
+- If you are receiving supportive care for your advanced illness, this medicine will only be used for a limited period of time which will usually be less than 4 months..
+- This medicine should not be used for treatment of patients with constipation which is not related to opioid use. If you have suffered from constipation before you had to take opioids (for pain), please talk to your doctor.
 
 ## Children and adolescents
 
@@ -2854,7 +2886,7 @@ Other common side effects that may affect up to 1 in 10 people are:
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet.  You can also report side effects directly via the national reporting system listed in Appendix V.  By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Relistor
 
@@ -2874,8 +2906,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Relistor contains
 
-- -The active substance is methylnaltrexone bromide. Each syringe of 0.4 mL contains 8 mg methylnaltrexone bromide. Each syringe of 0.6 mL contains 12 mg methylnaltrexone bromide. One mL of solution contains 20 mg methylnaltrexone bromide.
-- -The other ingredients are sodium chloride, sodium calcium edetate, glycine hydrochloride, water for injections, hydrochloric acid (to adjust pH) and sodium hydroxide (to adjust pH).
+- The active substance is methylnaltrexone bromide. Each syringe of 0.4 mL contains 8 mg methylnaltrexone bromide. Each syringe of 0.6 mL contains 12 mg methylnaltrexone bromide. One mL of solution contains 20 mg methylnaltrexone bromide.
+- The other ingredients are sodium chloride, sodium calcium edetate, glycine hydrochloride, water for injections, hydrochloric acid (to adjust pH) and sodium hydroxide (to adjust pH).
 
 ## What Relistor looks like and contents of the pack
 
@@ -2891,11 +2923,17 @@ Not all pack sizes may be marketed.
 
 <div style=\"page-break-after: always\"></div>
 
-Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3 Ireland
+Bausch Health Ireland Limited 3013 Lake Drive Citywest Business Campus Dublin 24, D24PPT3
+
+Ireland
 
 ## Manufacturer
 
-Bausch Health Poland Sp. z o. o., ul. Kosztowska 21, 41409 Mysłowice, Poland
+Bausch Health Poland Sp. z o. o.,
+
+ul. Kosztowska 21, 41-409 Mysłowice,
+
+Poland
 
 ## This leaflet was last revised in
 
@@ -2919,7 +2957,7 @@ If you answer No to any of the following questions during the course of treatmen
 
 This section is divided into the following subsections:
 
-## Introduction
+Introduction
 
 Step 1: Preparing for an injection
 
@@ -2960,28 +2998,39 @@ Gather the supplies you will need for your injection:
 
 <!-- image -->
 
-Step 2: Choosing and preparing an injection site
-
 <!-- image -->
+
+入
+
+Step 2: Choosing and preparing an injection site
 
 <div style=\"page-break-after: always\"></div>
 
 1. The three areas of the body recommended for injection of Relistor are: (1) your upper legs (thighs), (2) your abdomen (stomach), and (3) your upper arm (only if injecting another person).
 2. It is recommended to move to a different site each time an injection is given. Avoid repeated injections at the exact same spot previously used. Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid areas with scars or stretch marks.
 3. Clean the injection site with an alcohol swab and let it dry. Do not touch this area again before giving the injection.
-1. Hold the syringe in one hand like a pencil. Use the other hand to gently pinch the cleaned area of skin and hold it firmly.
-2. Push the full length of the needle into the skin at a slight angle (45 degrees) with a quick, short motion.
-3. After the needle is inserted, let go of the skin and slowly push the plunger all the way down until the pre-filled syringe is empty.
 
 <!-- image -->
+
+三
 
 Step 3: Injecting Relistor pre-filled syringe
 
 <!-- image -->
 
-<!-- image -->
+1. Hold the syringe in one hand like a pencil. Use the other hand to gently pinch the cleaned area of skin and hold it firmly.
+
+5
 
 <!-- image -->
+
+2. Push the full length of the needle into the skin at a slight angle (45 degrees) with a quick, short motion.
+
+<!-- image -->
+
+2
+
+3. After the needle is inserted, let go of the skin and slowly push the plunger all the way down until the pre-filled syringe is empty.
 
 <div style=\"page-break-after: always\"></div>
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-08 12:46:59
+document_datetime: 2026-09-24 09:44:20
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/givlaari-epar-product-information_en.pdf
 document_name: givlaari-epar-product-information_en.pdf
 version: success
-processing_time: 6.8514885
-conversion_datetime: 2025-12-20 15:23:05.638514
+processing_time: 32.7088856
+conversion_datetime: 2026-09-25 19:04:51.328163
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -192,17 +192,17 @@ The adverse reactions are presented as MedDRA preferred terms under the MedDRA s
 
 Table 1: Adverse reactions
 
-| System organ class                                   | Adverse reaction                             | Frequency   |
-|------------------------------------------------------|----------------------------------------------|-------------|
-| Immune system disorders                              | Hypersensitivity                             | Common      |
-|                                                      | Anaphylactic reaction                        | Uncommon    |
-| Gastrointestinal disorders                           | Pancreatitis                                 | Common      |
-| Hepatobiliary disorders                              | Transaminase elevations                      | Very common |
-| Skin and subcutaneous tissue disorders               | Rash a                                       | Very common |
-| Renal and urinary disorders                          | Glomerular filtration rate (GFR) decreased b | Very common |
-| General disorders and administration site conditions | Injection site reactions                     | Very common |
-|                                                      | Fatigue                                      | Very common |
-| Investigations                                       | Blood homocysteine increased c               | Common      |
+| System organ class                                   | Adverse reaction                             | Frequency       |
+|------------------------------------------------------|----------------------------------------------|-----------------|
+| Immune system disorders                              | Hypersensitivity Anaphylactic reaction       | Common Uncommon |
+|                                                      | Nausea                                       | Very common     |
+| Gastrointestinal disorders                           | Pancreatitis                                 | Common          |
+| Hepatobiliary disorders                              | Transaminase elevations                      | Very common     |
+| Skin and subcutaneous tissue disorders               | Rash a                                       | Very common     |
+| Renal and urinary disorders                          | Glomerular filtration rate (GFR) decreased b | Very common     |
+| General disorders and administration site conditions | Injection site reactions                     | Very common     |
+|                                                      | Fatigue                                      | Very common     |
+| Investigations                                       | Blood homocysteine increased c               | Common          |
 
 - a Includes pruritus, eczema, erythema, rash, rash pruritic, urticaria.
 
@@ -238,7 +238,7 @@ Pharmacotherapeutic group: Various alimentary tract and metabolism products, ATC
 
 ## Mechanism of action
 
-Givosiran is a double-stranded small interfering ribonucleic acid (siRNA) that causes degradation of aminolevulinic acid synthase 1 ( ALAS1 ) messenger ribonucleic acid (mRNA) in hepatocytes through RNA interference, resulting in a reduction of induced liver ALAS1 mRNA towards normal. This leads to reduced circulating levels of neurotoxic intermediates aminolevulinic acid (ALA) and porphobilinogen (PBG), the key causal factors of attacks and other disease manifestations of AHP.
+Givosiran is a double-stranded small interfering ribonucleic acid (siRNA) that causes degradation of aminolevulinic acid synthase 1 (ALAS1) messenger ribonucleic acid (mRNA) in hepatocytes through RNA interference, resulting in a reduction of induced liver ALAS1 mRNA towards normal. This leads to reduced circulating levels of neurotoxic intermediates aminolevulinic acid (ALA) and porphobilinogen (PBG), the key causal factors of attacks and other disease manifestations of AHP.
 
 ## Pharmacodynamic effects
 
@@ -258,11 +258,9 @@ The efficacy of givosiran was evaluated in a randomised, double-blind, placebo-c
 
 A total number of 94 patients with AHP (89 patients with acute intermittent porphyria (AIP), 2 patients with variegate porphyria (VP), 1 patient with hereditary coproporphyria (HCP), and 2 patients with no identified mutation in a porphyria-related gene) were randomised 1:1 to receive once monthly subcutaneous injections of givosiran 2.5 mg/kg or placebo during the 6-month doubleblind period. Patients randomised to givosiran included 46 patients with AIP, 1 patient with VP, and 1 patient with HCP. In this study, inclusion criteria specified a minimum of 2 porphyria attacks requiring hospitalisation, urgent healthcare visit, or intravenous hemin administration at home in the 6 months prior to study entry. Hemin use during the study was permitted for the treatment of acute porphyria attacks. The median age of patients in the ENVISION study was 37.5 years (range 19 to 65 years); 89.4% of patients were female, and 77.7% were white. The treatment arms were balanced with respect to historical annualised porphyria attack rate (overall median baseline rate of 8 per year), prior hemin prophylaxis, use of opioid medicinal products, and patient-reported measures of chronic symptoms between attacks.
 
-The major efficacy measure was the annualised attack rate (AAR) of composite porphyria attacks during the 6-month double-blind period and consisted of three components: attacks requiring hospitalisation, urgent healthcare visit, or intravenous hemin administration at home. This composite efficacy measure was evaluated as the primary endpoint in patients with AIP, and as a secondary
+The major efficacy measure was the annualised attack rate (AAR) of composite porphyria attacks during the 6-month double-blind period and consisted of three components: attacks requiring hospitalisation, urgent healthcare visit, or intravenous hemin administration at home. This composite efficacy measure was evaluated as the primary endpoint in patients with AIP, and as a secondary endpoint in the overall population of patients with AHP. Treatment with this medicinal product resulted in a significant reduction of the AAR of composite porphyria attacks, compared with placebo, of 74% in patients with AIP (Table 2). Comparable results were seen in patients with AHP, with a reduction of 73%. Consistent results were observed for each of the 3 components of the composite porphyria attack endpoint.
 
 <div style=\"page-break-after: always\"></div>
-
-endpoint in the overall population of patients with AHP. Treatment with this medicinal product resulted in a significant reduction of the AAR of composite porphyria attacks, compared with placebo, of 74% in patients with AIP (Table 2). Comparable results were seen in patients with AHP, with a reduction of 73%. Consistent results were observed for each of the 3 components of the composite porphyria attack endpoint.
 
 The results observed over 6 months were maintained through Month 12, with a median AAR (Q1, Q3) of 0.0 (0.0, 3.5) observed for patients with continued dosing with the medicinal product during the open-label extension period.
 
@@ -294,33 +292,27 @@ Table 2: Clinical efficacy results in patients with AIP during the 6-month doubl
 | LS mean difference (95% CI) (givosiran- placebo)         | 3.9 (0.6, 7.3)                                          | 3.9 (0.6, 7.3)                                          |
 | Nominal P-value                                          | < 0.05                                                  | < 0.05                                                  |
 
-AAR, Annualised Attack Rate; AIP, Acute Intermittent Porphyria; CI, Confidence Interval; Q1, Quartile 1; Q3, Quartile 3; LS, Least Square; PCS, Physical Component Summary; SF-12, the 12-item Short-Form Health Survey
-
-a Composite porphyria attacks include three components: attacks requiring hospitalisation, urgent healthcare visits, or intravenous hemin administration at home.
-
-b Based on negative binomial regression model. A rate ratio &lt; 1 represents a favourable outcome for givosiran.
-
 <div style=\"page-break-after: always\"></div>
 
-- c Patients provided a daily self-assessment of their worst pain based on a 0 to 10 numerical rating scale (NRS). A lower score indicates fewer symptoms. Median of treatment difference and CI were estimated using the Hodges-Lehmann method; p -value was based on Wilcoxon rank sum test, which was conducted post-hoc after data showed a significant deviation from normal distribution.
+- c Patients provided a daily self-assessment of their worst pain based on a 0 to 10 numerical rating scale (NRS). A lower score indicates fewer symptoms. Median of treatment difference and CI were estimated using the Hodges-Lehmann method; p-value was based on Wilcoxon rank sum test, which was conducted post-hoc after data showed a significant deviation from normal distribution.
 - d A higher score indicates improved health-related quality of life; analysed using the mixed-effect model repeated measures (MMRM) method. The endpoint was not formally tested for statistical significance; a nominal p-value was reported.
 
 In addition to greater improvement from baseline in the SF-12 PCS score compared to patients treated with placebo at Month 6, there was consistent evidence of effect favouring this medicinal product in bodily pain, role-physical, and social functioning domains, but not in the general health, physical functioning, role-emotional, vitality, and mental health domains (Figure 1).
 
 Figure 1: Change from baseline to month 6 in SF-12 domain scores in patients with AIP
 
-| SF-12 Domain                     | Givosiran - Placebo   |   Pbo (n) |   Givo (n) |   LS Mean Difference | 95% Cl      |
-|----------------------------------|-----------------------|-----------|------------|----------------------|-------------|
-| Physical Component Summary (PCS) |                       |        42 |         45 |                  3.9 | (0.6, 7.3)  |
-| Mental Component Summary (MCS)   |                       |        42 |         45 |                  2.1 | (-1.7, 5.8) |
-| Physical Functioning             |                       |        43 |         46 |                  1.4 | (-2.0, 4.7) |
-| Role Physical                    |                       |        43 |         46 |                  4.4 | (1.3, 7.5)  |
-| Bodily Pain                      |                       |        43 |         46 |                  7.2 | (3.2, 11.2) |
-| General Health                   |                       |        42 |         46 |                  3.3 | (-0.7, 7.2) |
-| Vitality                         |                       |        42 |         45 |                  1.7 | (-2.0, 5.5) |
-| Social Functioning               |                       |        42 |         45 |                  5.1 | (1.6, 8.7)  |
-| Role Emotional                   |                       |        43 |         46 |                  1.4 | (-2.5, 5.2) |
-| Mental Health                    |                       |        42 |         45 |                  2.8 | (-0.9, 6.4) |
+| SF-12 Domain                     | Givosiran - Placebo     |   Pbo (n) |   Givo (n) |   LS Mean Difference | 95% Cl      |
+|----------------------------------|-------------------------|-----------|------------|----------------------|-------------|
+| Physical Component Summary (PCS) |                         |        42 |         45 |                  3.9 | (0.6, 7.3)  |
+| Mental Component Summary (MCS)   |                         |        42 |         45 |                  2.1 | (-1.7, 5.8) |
+| Physical Functioning             |                         |        43 |         46 |                  1.4 | (-2.0, 4.7) |
+| Role Physical                    |                         |        43 |         46 |                  4.4 | (1.3, 7.5)  |
+| Bodily Pain                      |                         |        43 |         46 |                  7.2 | (3.2, 11.2) |
+| General Health                   |                         |        42 |         46 |                  3.3 | (-0.7, 7.2) |
+| Vitality                         |                         |        42 |         45 |                  1.7 | (-2.0, 5.5) |
+| Social Functioning               |                         |        42 |         45 |                  5.1 | (1.6, 8.7)  |
+| Role Emotional                   |                         |        43 |         46 |                  1.4 | (-2.5, 5.2) |
+| Mental Health                    | Favours Placebo Favours |        42 |         45 |                  2.8 | (-0.9, 6.4) |
 
 AIP, Acute Intermittent Porphyria; CI, Confidence Interval; Givo, givosiran; Pbo, placebo; LS, Least Square; MCS, Mental Component Summary; PCS, Physical Component Summary; SF-12, the 12-item Short-Form health survey version 2.
 
@@ -388,7 +380,7 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 ## Genotoxicity/carcinogenicity
 
-Givosiran did not exhibit a genotoxic potential in vitro and in vivo .
+Givosiran did not exhibit a genotoxic potential in vitro and in vivo.
 
 Carcinogenicity studies were conducted in Tg-rasH2 mice and Sprague Dawley rats. Evaluation of givosiran in a 26-week carcinogenicity study in Tg-rasH2 mice showed no evidence of carcinogenicity at dose levels up to 1500 mg/kg/month. The 2-year rat carcinogenicity study resulted in neoplastic effects limited to an increased incidence of hepatocellular adenomas in males at the dose of 100 mg/kg/month (42 times the plasma exposure levels achieved at the maximum recommended human dose (MRHD), based on AUC). In addition, proliferative preneoplastic lesions in the liver were observed in females at doses of 50 mg/kg/month (15 times the plasma exposure levels achieved on MRHD, based on AUC). The relevance of this finding for the intended target population is unknown.
 
@@ -402,33 +394,61 @@ No adverse effects were observed in the fertility of male and female rats when a
 
 <div style=\"page-break-after: always\"></div>
 
-| 6.                                                                                                                                   | PHARMACEUTICAL PARTICULARS                                                                                                           |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| 6.1                                                                                                                                  | List of excipients                                                                                                                   |
-| Sodium hydroxide (pH adjustment) Phosphoric acid (pH adjustment) Water for injections                                                | Sodium hydroxide (pH adjustment) Phosphoric acid (pH adjustment) Water for injections                                                |
-| 6.2                                                                                                                                  | Incompatibilities                                                                                                                    |
-| In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.                     | In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.                     |
-| 6.3                                                                                                                                  | Shelf life                                                                                                                           |
-| 3 years                                                                                                                              | 3 years                                                                                                                              |
-| Once the vial is opened, the medicinal product should be used immediately.                                                           | Once the vial is opened, the medicinal product should be used immediately.                                                           |
-| 6.4                                                                                                                                  | Special precautions for storage                                                                                                      |
-| Do not store above 25 °C. Keep the vial in the outer carton in order to protect from                                                 | Do not store above 25 °C. Keep the vial in the outer carton in order to protect from                                                 |
-| 6.5                                                                                                                                  | Nature and contents of container                                                                                                     |
-| Glass vial with a fluoropolymer-coated rubber stopper and a flip-off aluminium seal. Each vial contains 1 mL solution for injection. | Glass vial with a fluoropolymer-coated rubber stopper and a flip-off aluminium seal. Each vial contains 1 mL solution for injection. |
-| Pack size of one vial.                                                                                                               | Pack size of one vial.                                                                                                               |
-| 6.6                                                                                                                                  | Special precautions for disposal and other handling                                                                                  |
-| This medicinal product is for single use only.                                                                                       | This medicinal product is for single use only.                                                                                       |
-| Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                          | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                          |
-| 7.                                                                                                                                   | MARKETING AUTHORISATIONHOLDER                                                                                                        |
-| Alnylam Netherlands B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands                                                     | Alnylam Netherlands B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands                                                     |
-| 8.                                                                                                                                   | MARKETING AUTHORISATION NUMBER                                                                                                       |
-| EU/1/20/1428/001                                                                                                                     | EU/1/20/1428/001                                                                                                                     |
-| 9.                                                                                                                                   | DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION                                                                             |
-| Date of first authorisation: 02 March 2020                                                                                           | Date of first authorisation: 02 March 2020                                                                                           |
+## 6. PHARMACEUTICAL PARTICULARS
 
-12
+## 6.1 List of excipients
+
+Sodium hydroxide (pH adjustment) Phosphoric acid (pH adjustment) Water for injections
+
+## 6.2 Incompatibilities
+
+In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
+
+## 6.3 Shelf life
+
+3 years
+
+Once the vial is opened, the medicinal product should be used immediately.
+
+## 6.4 Special precautions for storage
+
+Do not store above 25 °C.
+
+Keep the vial in the outer carton in order to protect from light.
+
+## 6.5 Nature and contents of container
+
+Glass vial with a fluoropolymer-coated rubber stopper and a flip-off aluminium seal. Each vial contains 1 mL solution for injection.
+
+Pack size of one vial.
+
+## 6.6 Special precautions for disposal and other handling
+
+This medicinal product is for single use only.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Alnylam Netherlands B.V.
+
+Antonio Vivaldistraat 150
+
+1083 HP Amsterdam
+
+Netherlands
+
+## 8. MARKETING AUTHORISATION NUMBER
+
+EU/1/20/1428/001
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 02 March 2020
 
 Date of latest renewal: 14 November 2024
+
+12
 
 <div style=\"page-break-after: always\"></div>
 
@@ -492,7 +512,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Givlaari 189 mg/mL solution for injection givosiran
+Givlaari 189 mg/mL solution for injection
+
+givosiran
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -536,62 +558,70 @@ Keep out of the sight and reach of children.
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Do not store above 25 °C.
 
 Keep the vial in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Alnylam Netherlands B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands
+Alnylam Netherlands B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Netherlands
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/20/1428/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Givlaari
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
-
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Givlaari 189 mg/mL solution for injection givosiran Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -603,8 +633,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 189 mg/1 mL
 
@@ -615,9 +645,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Givlaari 189 mg/mL solution for injection
 
@@ -765,11 +795,12 @@ Very common: may affect more than 1 in 10 people
 - Blood tests showing an increase in creatinine, a substance removed from your body by your kidneys, or decrease in glomerular filtration rate (signs of possible kidney problems)
 - Redness, pain, itching or swelling at the site of the injection (injection site reaction)
 - Feeling tired
+
+Common: may affect up to 1 in 10 people
+
 - A type of allergic reaction (hypersensitivity) - with symptoms such as hives, rash, swelling of eyes, mouth or face, difficulty breathing, itching
 - Inflammation of the pancreas (pancreatitis)
 - Blood test showing an increase in homocysteine (a type of amino acid)
-
-## Common: may affect up to 1 in 10 people
 
 ## Reporting of side effects
 
@@ -807,7 +838,9 @@ Each pack contains one vial of 1 mL solution for injection.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Alnylam Netherlands B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam Netherlands
+Alnylam Netherlands B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam
+
+Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -825,7 +858,7 @@ Medison Pharma s.r.o. Tel: +420 221 343 336 medinfo.czechia@medisonpharma.com
 
 ## Danmark
 
-Alnylam Sweden AB Tlf.: 433 105 15 (+45 787 453 01) medinfo@alnylam.com
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
 
 ## Deutschland
 
@@ -857,7 +890,7 @@ Alnylam Netherlands B.V. Tel: 0800 282 0025 (+31 20 369 7861) medinfo@alnylam.co
 
 ## Norge
 
-Alnylam Sweden AB Tlf: 800 544 00 (+472 1405 657) medinfo@alnylam.com
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -929,11 +962,11 @@ Medison Pharma s.r.o. Tel: +421 2 201 109 65 medinfo.slovakia@medisonpharma.com
 
 ## Suomi/Finland
 
-Alnylam Sweden AB Puh/Tel: 0800 417 452 (+358 942 727 020) medinfo@alnylam.com
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
 
 ## Sverige
 
-Alnylam Sweden AB Tel: 020109162 (+46 842002641) medinfo@alnylam.com
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
 
 <div style=\"page-break-after: always\"></div>
 

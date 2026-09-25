@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-07-22 14:37:58
+document_datetime: 2026-09-24 08:13:46
 document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cometriq-epar-product-information_en.pdf
 document_name: cometriq-epar-product-information_en.pdf
 version: success
-processing_time: 60.3765381
-conversion_datetime: 2026-07-28 14:02:19.721308
+processing_time: 83.9717096
+conversion_datetime: 2026-09-25 19:01:01.677431
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -28,7 +26,7 @@ COMETRIQ 20 mg hard capsules COMETRIQ 80 mg hard capsules
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-One hard capsule contains cabozantinib ( S )-malate equivalent to 20 mg or 80 mg cabozantinib.
+One hard capsule contains cabozantinib (S)-malate equivalent to 20 mg or 80 mg cabozantinib.
 
 For the full list of excipients, see section 6.1.
 
@@ -204,7 +202,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, tha
 
 Administration of the strong CYP3A4 inhibitor ketoconazole (400 mg daily for 27 days) to healthy volunteers decreased cabozantinib clearance (by 29%) and increased single-dose plasma cabozantinib exposure (AUC) by 38%. Therefore, co-administration of strong CYP3A4 inhibitors (e.g., ritonavir, itraconazole, erythromycin, clarithromycin, grapefruit juice) with cabozantinib should be approached with caution.
 
-Administration of the strong CYP3A4 inducer rifampicin (600 mg daily for 31 days) to healthy volunteers increased cabozantinib clearance (4.3-fold) and decreased single-dose plasma cabozantinib exposure (AUC) by 77%. Chronic co-administration of strong CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampicin, phenobarbital or herbal preparations containing St. John's Wort [Hypericum perforatum] ) with cabozantinib should therefore be avoided.
+Administration of the strong CYP3A4 inducer rifampicin (600 mg daily for 31 days) to healthy volunteers increased cabozantinib clearance (4.3-fold) and decreased single-dose plasma cabozantinib exposure (AUC) by 77%. Chronic co-administration of strong CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampicin, phenobarbital or herbal preparations containing St. John's Wort [Hypericum perforatum]) with cabozantinib should therefore be avoided.
 
 ## Gastric pH modifying agents
 
@@ -228,7 +226,7 @@ Because of high plasma protein binding levels of cabozantinib (section 5.2) a pl
 
 ## P-glycoprotein substrates
 
-Cabozantinib was an inhibitor (IC50 = 7.0 μM), but not a substrate, of P -gp transport activities in a bi-directional assay system using MDCK-MDR1 cells. Therefore, cabozantinib may have the potential to increase plasma concentrations of co-administered substrates of P-gp. Subjects should be cautioned regarding taking a P-gp substrate (e.g., fexofenadine, aliskiren, ambrisentan, dabigatran etexilate, digoxin, colchicine, maraviroc, posaconazole, ranolazine, saxagliptin, sitagliptin, talinolol, tolvaptan) while receiving cabozantinib.
+Cabozantinib was an inhibitor (IC50 = 7.0 μM), but not a substrate, of P-gp transport activities in a bi-directional assay system using MDCK-MDR1 cells. Therefore, cabozantinib may have the potential to increase plasma concentrations of co-administered substrates of P-gp. Subjects should be cautioned regarding taking a P-gp substrate (e.g., fexofenadine, aliskiren, ambrisentan, dabigatran etexilate, digoxin, colchicine, maraviroc, posaconazole, ranolazine, saxagliptin, sitagliptin, talinolol, tolvaptan) while receiving cabozantinib.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -250,7 +248,7 @@ There are no data on human fertility. Based on non-clinical safety findings, mal
 
 ## 4.7 Effects on ability to drive and use machines
 
-Cabozantinib has minor influence on the ability to drive and use machines. Adverse reactions such as fatigue and weakness have been associated with cabozantinib.  Therefore, caution should be recommended when driving or operating machines.
+Cabozantinib has minor influence on the ability to drive and use machines. Adverse reactions such as fatigue and weakness have been associated with cabozantinib. Therefore, caution should be recommended when driving or operating machines.
 
 ## 4.8 Undesirable effects
 
@@ -268,7 +266,7 @@ Adverse reactions are listed in Table 1 according to MedDRA system organ class a
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1: Adverse reactions reported with cabozantinib
+## Table 1: Adverse reactions reported with cabozantinib
 
 | Infections and infestations                      | Infections and infestations                                                                                                                                                                                           |
 |--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -344,7 +342,7 @@ A thyroid stimulating hormone (TSH) value above normal after first dose was obse
 
 An increase from baseline in corrected QT interval by Fridericia (QTcF) of 10 - 15 ms on Day 29 (but not on Day 1) following initiation of cabozantinib treatment (at a dose of 140 mg qd) was observed in a controlled clinical study in cancer patients (see section 4.4). This effect was not associated with a change in cardiac wave form morphology or new rhythms. No cabozantinib-treated subjects had a QTcF &gt;500 ms.
 
-Please refer to section 4.4 for recommendations about the monitoring and management of the following adverse events: perforations, fistulas, and intraabdominal abscesses; thromboembolic events; haemorrhage; aneurysms and artery dissections; gastrointestinal disorders; wound complications; hypertension; osteonecrosis; palmar -plantar erythrodysaesthesia syndrome; proteinuria; and posterior reversible encephalopathy syndrome.
+Please refer to section 4.4 for recommendations about the monitoring and management of the following adverse events: perforations, fistulas, and intra-abdominal abscesses; thromboembolic events; haemorrhage; aneurysms and artery dissections; gastrointestinal disorders; wound complications; hypertension; osteonecrosis; palmar-plantar erythrodysaesthesia syndrome; proteinuria; and posterior reversible encephalopathy syndrome.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -390,13 +388,12 @@ Figure 1: Kaplan Meier curve of progression free survival
 
 Months
 
-| Number of subjects at risk   |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |   Number of subjects at risk |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| Month                        |                            0 |                            3 |                            6 |                            9 |                           12 |                           15 |                           18 |                           21 |
-| Cometriq                     |                          219 |                          121 |                           78 |                           55 |                           31 |                           12 |                            2 |                            1 |
-| Placebo                      |                          111 |                           35 |                           11 |                            6 |                            3 |                            2 |                            0 |                            0 |
+| Number of subjects at risk - Month   |   Number of subjects at risk - 0 |   Number of subjects at risk - 3 |   Number of subjects at risk - 6 |   Number of subjects at risk - 9 |   Number of subjects at risk - 12 |   Number of subjects at risk - 15 |   Number of subjects at risk - 18 |   Number of subjects at risk - 21 |
+|--------------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+| Cometriq                             |                              219 |                              121 |                               78 |                               55 |                                31 |                                12 |                                 2 |                                 1 |
+| Placebo                              |                              111 |                               35 |                               11 |                                6 |                                 3 |                                 2 |                                 0 |                                 0 |
 
-The final analysis of OS was conducted after 218 events (deaths) occurred and shows a trend for an increase in median survival of 5.5 months in the cabozantinib arm: median (months) 26.6 cabozantinib vs. 21.1 placebo (HR = 0.85 [95% CI: 0.64, 1.12], p = 0.2409).
+The final analysis of OS was conducted after 218 events (deaths) occurred and shows a trend for an increase in median survival of 5.5months in the cabozantinib arm: median(months) 26.6cabozantinibvs. 21.1placebo (HR=0.85 [95%CI:0.64, 1.12], p=0.2409).
 
 Figure 2: Kaplan-Meier curve of overall survival
 
@@ -404,87 +401,77 @@ Figure 2: Kaplan-Meier curve of overall survival
 
 Placebo
 
-53
-
 <div style=\"page-break-after: always\"></div>
 
 Table 2: Summary of key efficacy findings
 
-|                                       | Cabozantinib                     | Placebo                          |
-|---------------------------------------|----------------------------------|----------------------------------|
-|                                       | 11.2 months                      | 4.0 months                       |
-| Median progression-free survival      | HR: 0.28 (0.19, 0.40)            | HR: 0.28 (0.19, 0.40)            |
-|                                       | 26.6 months                      | 21.1 months                      |
-| Median overall survival               | HR: 0.85 (0.64, 1.12) p = 0.2409 | HR: 0.85 (0.64, 1.12) p = 0.2409 |
-|                                       | 27.9%                            | 0%                               |
-| Overall response rate a (95% CI)      | (21.9%, 34.5%)                   |                                  |
-|                                       | p <0.0001                        | p <0.0001                        |
-|                                       | 14.6 months                      | N/A                              |
-| Duration of response; median (95% CI) |                                  |                                  |
-|                                       | 55.3%                            |                                  |
-| Disease control rate (95% CI)         | (48.3%,                          |                                  |
-|                                       | 62.2%)                           | (7.6%, 21.6%)                    |
-| Calcitonin response a                 | 47%                              | c                                |
-|                                       | c                                |                                  |
-|                                       | (49/104)                         |                                  |
-|                                       |                                  | 3%                               |
-|                                       |                                  | 2%                               |
-|                                       | 33%                              |                                  |
-| a                                     |                                  |                                  |
-|                                       | c                                |                                  |
-| CEA response                          |                                  |                                  |
-|                                       | (47/143)                         |                                  |
-|                                       |                                  | (1/55)                           |
-|                                       |                                  | c                                |
-|                                       |                                  | (1/40)                           |
-|                                       |                                  | 13.5%                            |
-|                                       |                                  | 17.5)                            |
-| b                                     |                                  |                                  |
-|                                       |                                  | (11.1,                           |
+|                                   | Cabozantinib                     | Placebo                          |
+|-----------------------------------|----------------------------------|----------------------------------|
+|                                   | 11.2 months                      | 4.0 months                       |
+| Median progression-free survival  | HR: 0.28 (0.19, 0.40) p <0.0001  | HR: 0.28 (0.19, 0.40) p <0.0001  |
+|                                   | 26.6 months                      | 21.1 months                      |
+| Median overall survival           | HR: 0.85 (0.64, 1.12) p = 0.2409 | HR: 0.85 (0.64, 1.12) p = 0.2409 |
+|                                   | 27.9%                            | 0%                               |
+| Overall response rate a (95% CI)  | (21.9%, 34.5%)                   |                                  |
+|                                   | p <0.0001                        | p <0.0001                        |
+|                                   | 14.6 months                      | N/A                              |
+| Duration of response; median (95% |                                  | CI) (11.1, 17.5)                 |
+|                                   | 62.2%)                           |                                  |
+|                                   | (48.3%,                          | (7.6%, 21.6%)                    |
+| Calcitonin response a             | 3%                               |                                  |
+|                                   | (1/40) c                         |                                  |
+|                                   | (49/104) c                       |                                  |
+|                                   | 47%                              |                                  |
+|                                   | 2%                               |                                  |
+|                                   | 33%                              |                                  |
+|                                   | c                                | c                                |
+| a                                 |                                  |                                  |
+|                                   | (47/143)                         |                                  |
+| CEA response                      |                                  |                                  |
+|                                   |                                  | (1/55)                           |
+| Disease control rate b (95% CI)   |                                  | 55.3% 13.5%                      |
 
 ## RET mutation status
 
 Of the 215 subjects with sufficient data to determine mutational status, 78.6% (n=169) were classified as RET mutation positive (126 of which were positive for the M918T mutation), and 21.4% (n=46) were classified as RET mutation negative. For an additional 115 subjects the RET mutational status could not be determined or was unclear. All three subgroups showed increased PFS in the cabozantinib arm compared to the placebo arm (HRs of 0.23, 0.53, and 0.30 for RET mutation positive, negative, and unknown subgroups, respectively). The objective response rates measured in these subgroups were generally consistent with the PFS results, with the RET mutation positive, negative, and unknown subgroups showing tumour response rates of 32%, 22%, and 25%, respectively.
 
-Further genetic analysis showed that a small proportion of patients harboured somatic tumour mutations in HRAS , KRAS , or NRAS . These patients (n=16) showed significant prolongation of PFS (HR of 0.15) and an objective response rate of 31%. RET mutation negative patients with no evidence of RAS mutation (n=33) showed a decreased PFS benefit on cabozantinib (HR of 0.87) and a lower response rate of 18% compared to other mutational subgroups.
+Further genetic analysis showed that a small proportion of patients harboured somatic tumour mutations in HRAS, KRAS, or NRAS. These patients (n=16) showed significant prolongation of PFS (HR of 0.15) and an objective response rate of 31%. RET mutation negative patients with no evidence of RAS mutation (n=33) showed a decreased PFS benefit on cabozantinib (HR of 0.87) and a lower response rate of 18% compared to other mutational subgroups.
 
 A significant improvement in OS was observed in the subgroup of RET M918T mutation positive patients (n=81/219 cabozantinib arm): 44.3 months in the cabozantinib arm vs. 18.9 months in the placebo arm (HR = 0.60, p = 0.0255). There was no improvement in OS for the RET M918T negative and unknown subgroups.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 3: Kaplan-Meier analysis of OS among subjects with a RET M918T mutation
+Figure 3: Kaplan-Meier analysisof OS among subjectswith a RET M918T mutation
 
 <!-- image -->
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with cabozantinib in one or more subsets of the paediatric population in the treatment of malignant solid tumours (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with cabozantinibin one or more subsets of the paediatric population in the treatment of malignant solid tumours (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-Following oral administration of cabozantinib, peak cabozantinib plasma concentrations are reached at 2 to 5 hours post-dose. Plasma-concentration time profiles show a second absorption peak approximately
+Following oral administration of cabozantinib, peak cabozantinib plasma concentrations are reached at 2 to 5 hours post-dose.Plasma-concentration time profiles show a second absorption peak approximately 24hours after administration, which suggests that cabozantinib may undergo enterohepatic recirculation.
 
-- 24 hours after administration, which suggests that cabozantinib may undergo enterohepatic recirculation.
+Repeat daily dosing of cabozantinibat 140mg for 19 days resulted in an approximately a 4- to 5-fold mean cabozantinib accumulation (based on AUC) compared to a single dose administration; steady state is achieved by approximately Day15.
 
-Repeat daily dosing of cabozantinib at 140 mg for 19 days resulted in an approximately a 4- to 5-fold mean cabozantinib accumulation (based on AUC) compared to a single dose administration; steady state is achieved by approximately Day 15.
+A high-fat meal moderately increased Cmaxand AUC values (41% and57%, respectively) relative to fasted conditions in healthy volunteers administered a single 140mg oral cabozantinibdose. There is no information on the precise food-effect when taken 1hour after administration of cabozantinib.
 
-A high-fat meal moderately increased Cmax and AUC values (41% and 57%, respectively) relative to fasted conditions in healthy volunteers administered a single 140 mg oral cabozantinib dose. There is no information on the precise food-effect when taken 1 hour after administration of cabozantinib.
-
-Bioequivalence could not be demonstrated between the cabozantinib capsule and tablet formulations following a single 140 mg dose in healthy subjects. A 19% increase in the Cmax of the tablet formulation (CABOMETYX) compared to the capsule formulation (COMETRIQ) was observed. AUC were similar between cabozantinib tablet (CABOMETYX) and capsule (COMETRIQ) formulations (&lt;10% difference).
+Bioequivalence could not be demonstrated between the cabozantinib capsule and tablet formulations following a single 140 mg dose in healthy subjects. A 19% increase in the Cmaxof the tablet formulation (CABOMETYX) compared to the capsule formulation (COMETRIQ) was observed. AUC were similar between cabozantinib tablet (CABOMETYX) and capsule (COMETRIQ) formulations (&lt;10% difference).
 
 ## Distribution
 
-Cabozantinib is highly protein bound in vitro in human plasma (≥ 99.7%). Based on the populationpharmacokinetic (PK) model, the volume of distribution (V/F) is approximately 349 L (SE: ± 2.73%). Protein binding was not altered in subjects with mild or moderately impaired renal or hepatic function.
+Cabozantinib is highly protein bound in vitroin human plasma (≥ 99.7%).Based on the populationpharmacokinetic (PK) model, the volume of distribution (V/F) is approximately 349L (SE: ± 2.73%). Protein binding was not altered in subjects with mild or moderately impaired renal or hepatic function.
 
 ## Biotransformation
 
-Cabozantinib was metabolized in vivo . Four metabolites were present in plasma at exposures (AUC) greater than 10% of parent: XL184-N-oxide, XL184 amide cleavage product, XL184 monohydroxy sulfate, and 6-desmethyl amide cleavage product sulfate. Two non-conjugated metabolites (XL184-N-oxide and XL184 amide cleavage product), which possess &lt;1% of the on-target kinase inhibition potency of parent cabozantinib, each represent &lt;10% of total drug-related plasma exposure.
+Cabozantinib was metabolized in vivo. Four metabolites were present in plasma at exposures (AUC) greater than10%of parent: XL184-N-oxide, XL184 amide cleavage product, XL184 monohydroxy sulfate, and 6-desmethyl amide cleavage product sulfate. Two non-conjugated metabolites (XL184-N-oxide and XL184 amide cleavage product),which possess&lt;1% of the on-target kinase inhibition potency of parent cabozantinib, each represent&lt;10% of total drug-related plasma exposure.
 
 <div style=\"page-break-after: always\"></div>
 
-Cabozantinib is a substrate for CYP3A4 metabolism in vitro , as a neutralizing antibody to CYP3A4 inhibited formation of metabolite XL184 N-oxide by &gt;80% in a NADPH-catalyzed human liver microsomal (HLM) incubation; in contrast, neutralizing antibodies to CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C19, CYP2D6 and CYP2E1 had no effect on cabozantinib metabolite formation. A neutralizing antibody to CYP2C9 showed a minimal effect on cabozantinib metabolite formation (ie, a &lt;20% reduction).
+Cabozantinib is a substrate for CYP3A4 metabolism in vitro, as a neutralizing antibody to CYP3A4 inhibited formation of metabolite XL184 N-oxide by &gt;80% in a NADPH-catalyzed human liver microsomal (HLM) incubation; in contrast, neutralizing antibodies to CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C19, CYP2D6 and CYP2E1 had no effect on cabozantinib metabolite formation. A neutralizing antibody to CYP2C9 showed a minimal effect on cabozantinib metabolite formation (ie, a &lt;20% reduction).
 
 ## Elimination
 
@@ -494,7 +481,7 @@ The plasma terminal half-life of cabozantinib in single dose studies in healthy 
 
 ## Renal impairment
 
-Results from a study in patients with renal impairment indicate that the ratios of geometric LS mean for plasma cabozantinib, Cmax and AUC0-inf were 19% and 30% higher, for subjects with mild renal impairment (90% CI for Cmax 91.60% to 155.51%; AUC 0-inf 98.79% to 171.26%) and 2% and 6-7% higher (90% CI for Cmax 78.64% to 133.52%; AUC 0-inf 79.61% to 140.11%), for subjects with moderate renal impairment, compared to subjects with normal renal function. Patients with severe renal impairment have not been studied.
+Results from a study in patients with renal impairment indicate that the ratios of geometric LS mean for plasma cabozantinib, Cmax and AUC0-inf were 19% and 30% higher, for subjects with mild renal impairment (90% CI for Cmax 91.60% to 155.51%; AUC0-inf 98.79% to 171.26%) and 2% and 6-7% higher (90% CI for Cmax 78.64% to 133.52%; AUC0-inf 79.61% to 140.11%), for subjects with moderate renal impairment, compared to subjects with normal renal function. Patients with severe renal impairment have not been studied.
 
 ## Hepatic impairment
 
@@ -546,9 +533,7 @@ PVC/PE/PCTFE-Al blisters with foil backing, sealed into a secondary heat-sealed 
 
 Blister cards containing either:
 
-21 x 20 mg capsules (60 mg/day dose for a 7-day supply) 7 x 20 mg and 7 x 80 mg capsules (100 mg/day dose for a 7-day supply)
-
-21 x 20 mg and 7 x 80 mg capsules (140 mg/day dose for a 7-day supply)
+21 x 20 mg capsules (60 mg/day dose for a 7-day supply) 7 x 20 mg and 7 x 80 mg capsules (100 mg/day dose for a 7-day supply) 21 x 20 mg and 7 x 80 mg capsules (140 mg/day dose for a 7-day supply)
 
 28 day pack containing:
 
@@ -600,7 +585,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE
+
+## USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -610,15 +597,11 @@ Name and address of the manufacturer responsible for batch release
 
 Catalent Germany Schorndorf GmbH Steinbeisstr. 1 und 2 73614 Schorndorf Germany
 
-Tjoapack Netherlands B.V. Nieuwe Donk 9 4879 AC Etten-Leur The Netherlands
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch
-
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to restricted medical prescription (See Annex I: Summary of Product Characteristics, section 4.2).
 
-## C.   OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## · Periodic safety update reports (PSURs)
 
@@ -653,13 +636,13 @@ BLISTER CARD, 60 mg dose
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-COMETRIQ   20 mg hard capsules
+COMETRIQ 20 mg hard capsules
 
 cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each hard capsule contains cabozantinib ( S )-malate equivalent to 20 mg of cabozantinib.
+Each hard capsule contains cabozantinib (S)-malate equivalent to 20 mg of cabozantinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -763,6 +746,8 @@ COMETRIQ 20 mg 60 mg/day dose
 
 PC SN NN
 
+24
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -777,7 +762,7 @@ cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each hard capsule contains cabozantinib ( S )-malate equivalent to 20 mg of cabozantinib.
+Each hard capsule contains cabozantinib (S)-malate equivalent to 20 mg of cabozantinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -865,17 +850,17 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-BLISTER CARD OF 28 DAY PACK, 60 mg dose (WITHOUT BLUE BOX)
+## BLISTER CARD OF 28 DAY PACK, 60 mg dose (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-COMETRIQ   20 mg hard capsules
+COMETRIQ 20 mg hard capsules
 
 cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each hard capsule contains cabozantinib ( S )-malate equivalent to 20 mg of cabozantinib.
+Each hard capsule contains cabozantinib (S)-malate equivalent to 20 mg of cabozantinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -883,8 +868,7 @@ Each hard capsule contains cabozantinib ( S )-malate equivalent to 20 mg of cabo
 
 Hard capsules
 
-20 mg
-
+- 20 mg
 - 60 mg Dose
 
 21 x 20 mg capsules (60 mg/day dose for a 7-day supply). Component of a 28 day pack, can't be sold separately.
@@ -929,7 +913,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in the original package in order to protect from moisture. Do not store above 25°C.
+Store in the original package in order to protect from moisture.
+
+Do not store above 25°C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -991,7 +977,7 @@ cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each hard capsule contains cabozantinib ( S )-malate equivalent to 20 mg or 80 mg of cabozantinib.
+Each hard capsule contains cabozantinib (S)-malate equivalent to 20 mg or 80 mg of cabozantinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1103,11 +1089,13 @@ OUTER CARTON OF 28 DAY PACK, 100 mg dose (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-COMETRIQ 20 mg hard capsules COMETRIQ 80 mg hard capsules cabozantinib
+COMETRIQ 20 mg hard capsules COMETRIQ 80 mg hard capsules
+
+cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each hard capsule contains cabozantinib ( S )-malate equivalent to 20 mg or 80 mg of cabozantinib.
+Each hard capsule contains cabozantinib (S)-malate equivalent to 20 mg or 80 mg of cabozantinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1194,7 +1182,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-BLISTER CARD OF 28 DAY PACK, 100 mg dose (WITHOUT BLUE BOX)
+## BLISTER CARD OF 28 DAY PACK, 100 mg dose (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1206,7 +1194,7 @@ cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each hard capsule contains cabozantinib ( S )-malate equivalent to 20 mg or 80 mg of cabozantinib.
+Each hard capsule contains cabozantinib (S)-malate equivalent to 20 mg or 80 mg of cabozantinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1320,7 +1308,7 @@ cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each hard capsule contains cabozantinib ( S )-malate equivalent to 20 mg or 80 mg of cabozantinib.
+Each hard capsule contains cabozantinib (S)-malate equivalent to 20 mg or 80 mg of cabozantinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1359,7 +1347,7 @@ Take all capsules in one row each day without food (patients should fast for at 
 <div style=\"page-break-after: always\"></div>
 
 1. Push in tab
-2. Peel paper backing
+2. 2.Peel paper backing
 3. Push capsule through foil
 
 <!-- image -->
@@ -1424,6 +1412,8 @@ COMETRIQ 20 mg COMETRIQ 80 mg 140 mg/day dose
 
 PC SN NN
 
+41
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1432,11 +1422,13 @@ OUTER CARTON OF 28 DAY PACK, 140 mg dose (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-COMETRIQ 20 mg hard capsules COMETRIQ 80 mg hard capsules cabozantinib
+COMETRIQ 20 mg hard capsules COMETRIQ 80 mg hard capsules
+
+cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each hard capsule contains cabozantinib ( S )-malate equivalent to 20 mg or 80 mg of cabozantinib.
+Each hard capsule contains cabozantinib (S)-malate equivalent to 20 mg or 80 mg of cabozantinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1535,7 +1527,7 @@ cabozantinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each hard capsule contains cabozantinib ( S )-malate equivalent to 20 mg or 80 mg of cabozantinib.
+Each hard capsule contains cabozantinib (S)-malate equivalent to 20 mg or 80 mg of cabozantinib.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1607,7 +1599,7 @@ France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/13/890/006 112 capsules (4 blisters cards of 21 x 20 mg and 7 x 80 mg) (140 mg/day dose for 28 day supply)
+EU/1/13/890/006 112 capsules (4 blisters cards of 21 x20 mg and 7 x 80 mg) (140 mg/day dose for 28 day supply)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1633,6 +1625,8 @@ Medicinal product subject to medical prescription.
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
 
+47
+
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
@@ -1647,10 +1641,10 @@ cabozantinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1665,7 +1659,7 @@ cabozantinib
 
 ## What COMETRIQ is
 
-COMETRIQ is a cancer medicine that contains the active substance cabozantinib ( S )-malate.
+COMETRIQ is a cancer medicine that contains the active substance cabozantinib (S)-malate.
 
 It is a medicine used to treat medullary thyroid cancer, a rare type of thyroid cancer, that cannot be removed by surgery or that has spread to other parts of the body.
 
@@ -1679,29 +1673,29 @@ COMETRIQ may slow or stop the growth of medullary thyroid cancer. It may help sh
 
 ## Do not take COMETRIQ
 
-- -if you are allergic to cabozantinib or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to cabozantinib or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before taking COMETRIQ if you:
 
-- -have high blood pressure
-- -have or have had an aneurysm (enlargement and weakening of a blood vessel wall) or a tear in a blood vessel wall.
+- have high blood pressure
+- have or have had an aneurysm (enlargement and weakening of a blood vessel wall) or a tear in a blood vessel wall.
 
 <div style=\"page-break-after: always\"></div>
 
-- -have diarrhoea
-- -have a recent history of coughing up blood or significant bleeding
-- -have had surgery within the last month (or if surgical procedures are planned), including dental procedures
-- -have had radiotherapy in the last 3 months
-- -have inflammatory bowel disease (for example, Crohn's disease or ulcerative colitis or diverticulitis)
-- -have been told that your cancer has spread to your airway or oesophagus
-- -have a recent history of blood clot in the leg, stroke, or heart attack
--     have heart failure (can include symptoms like shortness of breath, feeling tired, fainting, swollen ankles and legs)
-- -are taking medicines to control your heart rhythm, have a slow heart rate, have problems with your heart or have problems with the levels of calcium, potassium or magnesium in your blood
-- -have liver or kidney disease.
+- have diarrhoea
+- have a recent history of coughing up blood or significant bleeding
+- have had surgery within the last month (or if surgical procedures are planned), including dental procedures
+- have had radiotherapy in the last 3 months
+- have inflammatory bowel disease (for example, Crohn's disease or ulcerative colitis or diverticulitis)
+- have been told that your cancer has spread to your airway or oesophagus
+- have a recent history of blood clot in the leg, stroke, or heart attack
+- have heart failure (can include symptoms like shortness of breath, feeling tired, fainting, swollen ankles and legs)
+- are taking medicines to control your heart rhythm, have a slow heart rate, have problems with your heart or have problems with the levels of calcium, potassium or magnesium in your blood
+- have liver or kidney disease.
 
-Tell your doctor if any of these affect you. You may need treatment for them, or your doctor may decide to change your dose of COMETRIQ, or stop treatment altogether. See also section 4 ' Possible side effects' .
+Tell your doctor if any of these affect you. You may need treatment for them, or your doctor may decide to change your dose of COMETRIQ, or stop treatment altogether. See also section 4 'Possible side effects'.
 
 You should also tell your dentist that you are taking COMETRIQ. It is important for you to practice good mouth care during treatment with COMETRIQ.
 
@@ -1713,19 +1707,19 @@ COMETRIQ is not recommended for children or adolescents. The effects of COMETRIQ
 
 Please tell your doctor or pharmacist if you are taking or have recently taken any other medicines, including medicines obtained without a prescription. This is because COMETRIQ can affect the way some other medicines work. Also, some medicines can affect the way COMETRIQ works. This could mean that your doctor needs to change the dose(s) that you take.
 
-- -Medicines used to treat fungal infections, such as itraconazole, ketoconazole, and posaconazole
-- -Medicines used to treat bacterial infections (antibiotics) such as erythromycin, clarithromycin, and rifampicin
-- -Allergy medicines such as fexofenadine
-- -Medicines used to treat angina pectoris (chest pain owing to inadequate supply to the heart) such as ranolazine
-- -Medicines used to treat epilepsy or fits such as phenytoin, carbamazepine, and phenobarbital
-- -Herbal preparations containing St. John's Wort (Hypericum perforatum), sometimes used to treat depression or depression-related conditions such as anxiety
-- -Medicines used to thin the blood, such as warfarin and dabigatran etexilate
-- -Medicines used to treat high blood pressure or other heart conditions, such as aliskiren, ambrisentan, digoxin, talinolol, and tolvaptan
-- -Medicines for diabetes, such as saxagliptin and sitagliptin
-- -Medicines used to treat gout, such as colchicine
-- -Medicines used to treat HIV or AIDS, such as ritonavir, maraviroc and emtricitabine
-- -Medicines used to treat viral infections such as efavirenz
-- -Medicines used to prevent transplant rejection (cyclosporine) and cyclosporine-based regimens in rheumatoid arthritis and psoriasis
+- Medicines used to treat fungal infections, such as itraconazole, ketoconazole, and posaconazole
+- Medicines used to treat bacterial infections (antibiotics) such as erythromycin, clarithromycin, and rifampicin
+- Allergy medicines such as fexofenadine
+- Medicines used to treat angina pectoris (chest pain owing to inadequate supply to the heart) such as ranolazine
+- Medicines used to treat epilepsy or fits such as phenytoin, carbamazepine, and phenobarbital
+- Herbal preparations containing St. John's Wort (Hypericum perforatum), sometimes used to treat depression or depression-related conditions such as anxiety
+- Medicines used to thin the blood, such as warfarin and dabigatran etexilate
+- Medicines used to treat high blood pressure or other heart conditions, such as aliskiren, ambrisentan, digoxin, talinolol, and tolvaptan
+- Medicines for diabetes, such as saxagliptin and sitagliptin
+- Medicines used to treat gout, such as colchicine
+- Medicines used to treat HIV or AIDS, such as ritonavir, maraviroc and emtricitabine
+- Medicines used to treat viral infections such as efavirenz
+- Medicines used to prevent transplant rejection (cyclosporine) and cyclosporine-based regimens in rheumatoid arthritis and psoriasis
 
 ## Oral contraceptives
 
@@ -1743,7 +1737,7 @@ Avoid becoming pregnant while being treated with COMETRIQ. If you or your partne
 
 Tell your doctor if you or your partner become pregnant or plan to become pregnant while you are being treated with COMETRIQ.
 
-Talk to your doctor BEFORE taking COMETRIQ if you or your partner are considering or planning to have a baby after your treatment has finished.  There is a possibility your fertility could be affected by treatment with COMETRIQ.
+Talk to your doctor BEFORE taking COMETRIQ if you or your partner are considering or planning to have a baby after your treatment has finished. There is a possibility your fertility could be affected by treatment with COMETRIQ.
 
 Women taking COMETRIQ should not breast feed during treatment and for at least 4 months after treatment has finished, as cabozantinib and/or its metabolites may be excreted in breast milk and be harmful to your child.
 
@@ -1759,7 +1753,7 @@ This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to s
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-You should continue to take this medicine until your doctor decides to stop your treatment.  If you experience serious side effects, your doctor may decide to change your dose or stop treatment earlier than originally planned. Your doctor will determine if you need your dose adjusted, particularly during the first eight weeks of therapy with COMETRIQ.
+You should continue to take this medicine until your doctor decides to stop your treatment. If you experience serious side effects, your doctor may decide to change your dose or stop treatment earlier than originally planned. Your doctor will determine if you need your dose adjusted, particularly during the first eight weeks of therapy with COMETRIQ.
 
 COMETRIQ should be taken once a day. Depending on the dose you were prescribed, the number of capsules to take are as follows:
 
@@ -1769,9 +1763,9 @@ COMETRIQ should be taken once a day. Depending on the dose you were prescribed, 
 
 Your doctor will decide on the right dose for you.
 
-Your capsules will come in a blister card organised by prescribed dose. Each blister card has enough capsules to last for seven days (one week).  Your capsules are also available as a 28 day pack, which contains enough capsules to last for 28 days, in 4 blister cards with seven days of capsules on each card.
+Your capsules will come in a blister card organised by prescribed dose. Each blister card has enough capsules to last for seven days (one week). Your capsules are also available as a 28 day pack, which contains enough capsules to last for 28 days, in 4 blister cards with seven days of capsules on each card.
 
-Each day, take all the capsules across the row. More information on the blister cards including how many capsules you will take and how many capsules there are in total in each blister card are described below in section 6. To help you remember your doses, write the date when you took your first dose in the space next to the capsules. To remove the capsules for your dose:
+Each day, take all the capsules across the row. More information on the blister cards including how many capsules you will take and how many capsules there are in total in each blister card are described below in section6. To help you remember your doses, writethedate when you took your first dose in the space next to the capsules. To remove the capsules for your dose:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1785,40 +1779,40 @@ Each day, take all the capsules across the row. More information on the blister 
 
 <!-- image -->
 
-COMETRIQ should not be taken with food. You should not eat anything for at least 2 hours before taking COMETRIQ and for 1 hour after taking the medicine. Swallow the capsules one at a time with water. Do not open them.
+COMETRIQshould notbe taken with food. You should not eat anything for at least 2hours before taking COMETRIQ and for 1hour after taking the medicine. Swallow the capsules one at a time with water. Do not open them.
 
-## If you take more COMETRIQ than you should
+## If you take more COMETRIQthan you should
 
-If you have taken more COMETRIQ than you have been instructed to, talk to a doctor or go to the hospital with the capsules and this leaflet straight away.
+If you have taken more COMETRIQthan you have been instructedto, talk to a doctor or go to the hospital with the capsules and this leaflet straight away.
 
 ## If you forget to take COMETRIQ
 
-- -If there are still 12 hours or more before your next dose is due, then take the missed dose as soon as you remember. Take the next dose at the normal time.
-- -If your next dose is due in less than 12 hours, then do not take the dose that you have missed. Take your next dose at the normal time.
+- If there are still 12hours or more before your next dose is due,then take the missed dose as soon as you remember. Take the next dose at the normal time.
+- If your next dose is due in less than 12hours,then do not take the dose that you have missed. Take your next dose at the normal time.
 
 ## If you stop using COMETRIQ
 
-Stopping your treatment may stop the effect of the medicine. Do not stop treatment with COMETRIQ unless you have discussed this with your doctor. If you have any further questions on the use of this medicine, ask your doctor.
+Stopping your treatment may stop the effect of the medicine. Do not stop treatment with COMETRIQunless you have discussed this with your doctor.If you have any further questions on the use of this medicine, ask your doctor.
 
 ## 4. Possible side effects
 
-Like all medicines, this medicine can cause side effects, although not everybody gets them. If you get side effects, your doctor may tell you to take COMETRIQ at a lower dose. Your doctor may also prescribe other medicines to help control your side effects.
+Like all medicines, this medicine can cause side effects, although not everybody gets them. If you get side effects, your doctor may tell you to take COMETRIQat a lower dose. Your doctor may also prescribe other medicines to help control your side effects.
 
-## Tell your doctor straight away if you notice any of the following side effects - you may need urgent medical treatment:
+## Tell your doctor straight away if you notice any of the following side effects -you may need urgent medical treatment:
 
 - Symptoms including pain in the abdomen, nausea, vomiting, constipation, or fever. These may be signs of a gastrointestinal perforation, a hole that develops in your stomach or intestine that could be life-threatening.
 - Swelling, pain in your hands and feet, or shortness of breath.
 - A wound that does not heal.
 - Vomiting or coughing up blood, which may be bright red or look like coffee grounds.
 - Pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbness or a feeling of heaviness in the jaw, or loosening of a tooth. These could be signs of bone damage in the jaw (osteonecrosis).
-- Seizures, headaches, confusion, or finding it difficult to concentrate. These may be signs of a condition called posterior reversible encephalopathy syndrome (PRES). PRES is uncommon (it affects less than 1 in 100 people).
+- Seizures, headaches, confusion, or finding it difficult to concentrate. These may be signs of a condition called posterior reversible encephalopathy syndrome (PRES). PRESis uncommon (it affects less than 1 in 100people).
 - Diarrhoea that is severe and does not seem to be settling.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Other side effects include:
 
-## Very common side effects (may affect more than 1 in 10 people)
+Very common side effects (may affect more than 1 in 10 people)
 
 - Stomach upset, including diarrhoea, nausea, vomiting, constipation, indigestion, and abdominal pain
 - Difficulty in swallowing
@@ -1853,7 +1847,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Haemorrhoids
 - Pneumonia (lung infection)
 - Pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbness or a feeling of heaviness in the jaw, or loosening of a tooth
-- Reduced thyroid activity ; symptoms can include: tiredness, weight gain, constipation, feeling cold and dry skin
+- Reduced thyroid activity; symptoms can include: tiredness, weight gain, constipation, feeling cold and dry skin
 - Low level of white blood cells
 - Decrease in level of phosphate in the blood
 - Tear or hole or bleeding in your stomach or intestine, inflammation or tear of anus, bleeding in lungs or trachea (airway)
@@ -1877,7 +1871,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Uncommon side effects (may affect 1 in 100 people)
 
-- Inflammation of the oesophagus ; symptoms can include heartburn, chest pain, feeling sick, altered taste, bloating, belching and indigestion
+- Inflammation of the oesophagus; symptoms can include heartburn, chest pain, feeling sick, altered taste, bloating, belching and indigestion
 - Infection and inflammation in the lung, collapse of lung
 - Skin ulcers, cysts, red spots on the face or thighs
 - Facial pain
@@ -1894,7 +1888,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Severe increase in blood pressure (hypertensive crisis).
 - Collapsed lung with air trapped in the space between the lung and chest, often causing shortness of breath (pneumothorax)
 
-## Not Known (side effects with unknown frequency)
+Not Known (side effects with unknown frequency)
 
 - Heart attack
 - An enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall (aneurysms and artery dissections)
@@ -1922,17 +1916,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What COMETRIQ contains
 
-The active substance is cabozantinib ( S )-malate.
+The active substance is cabozantinib (S)-malate.
 
-The COMETRIQ 20 mg hard capsules contain cabozantinib ( S )-malate equivalent to 20 mg of cabozantinib. The COMETRIQ 80 mg hard capsules contain cabozantinib ( S )-malate equivalent to 80 mg of cabozantinib.
+The COMETRIQ 20 mg hard capsules contain cabozantinib (S)-malate equivalent to 20 mg of cabozantinib. The COMETRIQ 80 mg hard capsules contain cabozantinib (S)-malate equivalent to 80 mg of cabozantinib.
 
 The other ingredients are:
 
-- -Capsule contents: microcrystalline cellulose, croscarmellose sodium, sodium starch glycolate, silica colloidal anhydrous, and stearic acid (see section 2 'COMETRIQ contains sodium')
-- -Capsule shell: gelatin, and titanium dioxide (E171)
-- -The 20 mg capsules also contain black iron oxide (E172)
-- -The 80 mg capsules also contain red iron oxide (E172)
-- -Printing ink: shellac glaze, black iron oxide (E172), and propylene glycol
+- Capsule contents: microcrystalline cellulose, croscarmellose sodium, sodium starch glycolate, silica colloidal anhydrous, and stearic acid (see section 2 'COMETRIQ contains sodium')
+- Capsule shell: gelatin, and titanium dioxide (E171)
+- The 20 mg capsules also contain black iron oxide (E172)
+- The 80 mg capsules also contain red iron oxide (E172)
+- Printing ink: shellac glaze, black iron oxide (E172), and propylene glycol
 
 ## What COMETRIQ looks like and contents of the pack
 
@@ -1942,11 +1936,13 @@ COMETRIQ 80 mg hard capsules are orange and have 'XL184 80mg' printed on one sid
 
 COMETRIQ hard capsules are packaged in blister cards organised by prescribed dose. Each blister card contains enough medicine for 7 days. Each row of the blister card contains the daily dose.
 
-The 60 mg daily dose blister card contains twenty-one 20 mg capsules as 7 daily doses in total.  Each daily dose is given in one row and contains three 20 mg capsules:
+The 60 mg daily dose blister card contains twenty-one 20 mg capsules as 7 daily doses in total. Each daily dose is given in one row and contains three 20 mg capsules:
+
+three grey 20 mg
 
 <!-- image -->
 
-The 100 mg daily dose blister card contains seven 80 mg capsules and seven 20 mg capsules as 7 daily doses in total.  Each daily dose is provided in one row and contains one 80 mg capsule and one 20 mg capsule:
+The 100 mg daily dose blister card contains seven 80 mg capsules and seven 20 mg capsules as 7 daily doses in total. Each daily dose is provided in one row and contains one 80 mg capsule and one 20 mg capsule:
 
 one orange 80 mg + one grey 20 mg
 
@@ -1958,8 +1954,6 @@ one orange 80 mg + three grey 20 mg
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
 COMETRIQ hard capsules are also available in 28 day packs:
 
 84 capsules (4 blister cards of 21 x 20 mg) (60 mg/day dose)
@@ -1968,105 +1962,113 @@ COMETRIQ hard capsules are also available in 28 day packs:
 
 112 capsules (4 blister cards of 21 x 20 mg and 7 x 80 mg) (140 mg/day dose)
 
+<div style=\"page-break-after: always\"></div>
+
 Each 28 day pack contains enough medicine for 28 days.
 
 ## Marketing Authorisation Holder
 
-Ipsen Pharma 70 rue Balard 75015 Paris France
+Ipsen Pharma
+
+70 rue Balard
+
+75015 Paris
+
+France
 
 ## Manufacturer
 
 Catalent Germany Schorndorf GmbH Steinbeisstr. 1 und 2 73614 Schorndorf Germany
 
-Tjoapack Netherlands B.V. Nieuwe Donk 9 4879 AC Etten-Leur The Netherlands
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-## België/Belgique/Belgien, Luxembourg/Luxemburg
-
-## Italia
+## België/Belgique/Belgien, Luxembourg/Luxemburg Italia
 
 Ipsen NV
 
-Ipsen SpA
-
 België /Belgique/Belgien
-
-Tel: + 39 02 39 22 41
 
 Tél/Tel: + 32 9 243 96 00
 
 ## France
 
+Ipsen SpA
+
+Tel: + 39 02 39 22 41
+
 ## Latvija
 
 Ipsen Pharma
 
-Ipsen Pharma representative office
-
 Tél: + 33 1 58 33 50 00
+
+## България, Slovenija
+
+Ipsen Pharma representative office
 
 Tel: +371 67622233
 
-## България , Slovenija
-
 ## Hrvatska
 
-Biomapas UAB Литва, Litva Tel: +370 37 366307
+Biomapas UAB Литва, Litva
+
+Tel: +370 37 366307
+
+## Česká republika
 
 Biomapas Zagreb d.o.o.
 
 Tel: +385 17 757 094
 
-## Česká republika
-
 ## Lietuva
 
 Ipsen Pharma, s.r.o.
 
-Ipsen Pharma SAS Lietuvos filialas
-
 Tel: + 420 242 481 821
+
+Ipsen Pharma SAS Lietuvos filialas
 
 Tel. + 370 700 33305
 
-## Danmark, Norge, Suomi/Finland, Sverige, Ísland
-
-## Magyarország
+## Danmark, Norge, Suomi/Finland, Sverige, Ísland Magyarország
 
 Institut Produits Synthèse (IPSEN) AB
 
-IPSEN Pharma Hungary Kft.
+Sverige/Ruotsi/Svíþjóð
 
-Sverige/Ruotsi/Svíþjóð Tlf/Puh/Tel/Sími: +46 8 451 60 00
-
-Tel.: +361 555 5930
+Tlf/Puh/Tel/Sími: +46 8 451 60 00
 
 ## Deutschland, Österreich
 
+IPSEN Pharma Hungary Kft.
+
+Tel.: +361 555 5930
+
 ## Nederland
 
-Ipsen Pharma GmbH Deutschland
+Ipsen Pharma GmbH
 
-Ipsen Farmaceutica B.V.
-
-Tel: + 31 (0) 23 554 1600
-
-<div style=\"page-break-after: always\"></div>
+Deutschland
 
 Tel.: +49 89 2620 432 89
 
 ## Eesti
 
+Ipsen Farmaceutica B.V.
+
+Tel: + 31 (0) 23 554 1600
+
 ## Polska
 
 Centralpharma Communications OÜ
 
-Ipsen Poland Sp. z o.o.
-
 Tel: +372 60 15 540
 
+Ipsen Poland Sp. z o.o.
+
 Tel.: + 48 (0) 22 653 68 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ελλάδα, Κύπρος, Malta
 
@@ -2074,31 +2076,23 @@ Tel.: + 48 (0) 22 653 68 00
 
 Ipsen Μονοπρόσωπη EΠΕ
 
-Ipsen Portugal - Produtos Farmacêuticos S.A.
-
-Tel: + 351 21 412 3550
-
 ## Ελλάδα/Greece
+
+Ipsen Portugal - Produtos Farmacêuticos S.A. Tel: + 351 21 412 3550
 
 ## România
 
 Τηλ: + 30 210 984 3324
 
-Ipsen Pharma România SRL
-
-Tel: + 40 21 231 27 20
-
 ## España
+
+Ipsen Pharma România SRL Tel: + 40 21 231 27 20
 
 ## Slovenská republika
 
 Ipsen Pharma, S.A.
 
-Ipsen Pharma
-
 Tel: + 34 936 858 100
-
-Tel: + 420 242 481 821
 
 ## Ireland, United Kingdom (Northern Ireland)
 
@@ -2111,3 +2105,7 @@ Tel: + 44 (0)1753 62 77 77
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+Ipsen Pharma
+
+Tel: + 420 242 481 821

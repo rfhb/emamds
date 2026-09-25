@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-30 15:43:27
+document_datetime: 2026-09-22 16:33:35
 document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mcombriax-epar-product-information_en.pdf
 document_name: mcombriax-epar-product-information_en.pdf
 version: success
-processing_time: 6.5904899
-conversion_datetime: 2026-05-05 19:31:01.973888
+processing_time: 29.3765525
+conversion_datetime: 2026-09-25 19:11:29.422881
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -184,9 +184,9 @@ The most commonly reported adverse reactions were injection site pain (75.8%), f
 
 The safety of mCOMBRIAX was evaluated in a Phase 3 clinical study in which 4 004 participants aged 50 years and older received Quadrivalent Influenza and COVID-19, mRNA Combination Vaccine (see section 5.1). The median duration of follow-up was 171 days.
 
-Adverse reactions reported are listed according to the following frequency convention: very common (≥1/10) , c ommon (≥1/100 to &lt;1/10), u ncommon (≥1/1 000 to &lt;1/100), r are (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing frequency (Table 1).
+Adverse reactions reported are listed according to the following frequency convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing frequency (Table 1).
 
-Table 1.  Adverse reactions
+Table 1. Adverse reactions
 
 | MedDRA system organ class                            | Frequency            | Adverse reaction                                |
 |------------------------------------------------------|----------------------|-------------------------------------------------|
@@ -212,7 +212,7 @@ In case of overdose, it is recommended that the individual be monitored for any 
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: not yet assigned, ATC code: not yet assigned
+Pharmacotherapeutic group: Influenza and Covid-19 Vaccine, ATC code: J07BB55
 
 ## Mechanism of action
 
@@ -226,7 +226,7 @@ Data for Quadrivalent Influenza and COVID-19 mRNA Combination Vaccine are releva
 
 Study 1 is a Phase 3, randomised, stratified, observer-blind, active-control study conducted in two age groups (Cohort A and Cohort B) to evaluate the safety, reactogenicity and immunogenicity of Quadrivalent Influenza and COVID-19, mRNA Combination Vaccine in adults ≥50 years of age.
 
-The per-protocol immunogenicity set (PPIS) for Cohort A included p articipants ≥65 years of age who received Quadrivalent Influenza and COVID-19, mRNA Combination Vaccine and placebo (referred to as the mCOMBRIAX group; N=1 886) or coadministration of licensed high-dose quadrivalent influenza vaccine (HD-IIV4) and COVID-19 mRNA vaccine (referred to as the Comparator A group; N=1 883). The median age of participants was 70.0 years, 20.6% were aged ≥75 years , 54.2% were female, 78.5% identified as White, 18.4% as Black or African American, and 13.9% as Hispanic or Latino. A total of 50.7% of participants had received an influenza vaccine and 42.4% had received a COVID-19 vaccine in the season prior to study enrolment.
+The per-protocol immunogenicity set (PPIS) for Cohort A included participants ≥65 years of age who received Quadrivalent Influenza and COVID-19, mRNA Combination Vaccine and placebo (referred to as the mCOMBRIAX group; N=1 886) or coadministration of licensed high-dose quadrivalent influenza vaccine (HD-IIV4) and COVID-19 mRNA vaccine (referred to as the Comparator A group; N=1 883). The median age of participants was 70.0 years, 20.6% were aged ≥75 years, 54.2% were female, 78.5% identified as White, 18.4% as Black or African American, and 13.9% as Hispanic or Latino. A total of 50.7% of participants had received an influenza vaccine and 42.4% had received a COVID-19 vaccine in the season prior to study enrolment.
 
 The PPIS for Cohort B included participants aged 50 to 64 years who received Quadrivalent Influenza and COVID-19, mRNA Combination Vaccine and placebo (referred to as the mCOMBRIAX group; N=1 890) or coadministration of licensed standard dose quadrivalent influenza vaccine (SD-IIV4) and COVID-19 mRNA vaccine (referred to as the Comparator B group; N=1 884). The median age was 58.0 years, 59.0% of participants were female, 67.9% identified as White, 26.6% as Black or African American, and 19.6% as Hispanic or Latino. A total of 39.4% of participants had received an influenza vaccine and 31.0% had received a COVID-19 vaccine in the season prior to study enrolment.
 
@@ -234,13 +234,13 @@ The PPIS for Cohort B included participants aged 50 to 64 years who received Qua
 
 The primary immunogenicity objective was to demonstrate non-inferiority of immune response induced by mCOMBRIAX versus active comparators against vaccine-matched influenza strains and SARS-CoV-2 at Day 29 after vaccination based on haemagglutination inhibition (HAI) geometric mean titre (GMT) ratios and seroconversion rate (SCR) differences for the 4 influenza strains and pseudovirus neutralisation assay (PsVNA) geometric mean concentration (GMC) ratio and seroresponse rate (SRR) difference for SARS-CoV-2.
 
-Non-inferiority was defined as lower bound of 2-sided 97.5% confidence interval (CI) of the geometric mean ratios (GMRs) being &gt;0.667 and for the SCR/SRR differences being &gt;-10% for all 4 influenza strains and the SARS-CoV-2 variant. mCOMBRIAX met non-inferiority criteria for all influenza strains and for SARS-CoV2 compared to Comparator A among participants ≥ 65 years and compared to Comparator B among participants 50 to 64 years (Table 2).
+Non-inferiority was defined as lower bound of 2-sided 97.5% confidence interval (CI) of the geometric mean ratios (GMRs) being &gt;0.667 and for the SCR/SRR differences being &gt;-10% for all 4 influenza strains and the SARS-CoV-2 variant. mCOMBRIAX met non-inferiority criteria for all influenza strains and for SARS-CoV-2 compared to Comparator A among participants ≥65 years and compared to Comparator B among participants 50 to 64 years (Table 2).
 
-Table 2.  Study 1: Immunogenicity Results in participants ≥ 50 years (PPIS)
+Table 2. Study 1: Immunogenicity Results in participants ≥50 years (PPIS)
 
-| Virus                                              | GMlevel a (95% CI)                                 | GMlevel a (95% CI)                                 | GMR a (97.5% CI)                                   | SCR (for influenza) or SRR (for SARS-CoV-2) b (95% CI)   | SCR (for influenza) or SRR (for SARS-CoV-2) b (95% CI)   | SCR/SRR difference n (%) b (97.5% CI)              |
+| Virus                                              | GM level a (95% CI)                                | GM level a (95% CI)                                | GMR a (97.5% CI)                                   | SCR (for influenza) or SRR (for SARS-CoV-2) b (95% CI)   | SCR (for influenza) or SRR (for SARS-CoV-2) b (95% CI)   | SCR/SRR difference n (%) b (97.5% CI)              |
 |----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------|
-| In participants ≥ 65 years of age (Cohort A) c     | In participants ≥ 65 years of age (Cohort A) c     | In participants ≥ 65 years of age (Cohort A) c     | In participants ≥ 65 years of age (Cohort A) c     | In participants ≥ 65 years of age (Cohort A) c           | In participants ≥ 65 years of age (Cohort A) c           | In participants ≥ 65 years of age (Cohort A) c     |
+| In participants ≥65 years of age (Cohort A) c      | In participants ≥65 years of age (Cohort A) c      | In participants ≥65 years of age (Cohort A) c      | In participants ≥65 years of age (Cohort A) c      | In participants ≥65 years of age (Cohort A) c            | In participants ≥65 years of age (Cohort A) c            | In participants ≥65 years of age (Cohort A) c      |
 |                                                    | mCOMBRIAX N=1 886                                  | Comparator A N=1 883                               | mCOMBRI AX versus Comparator A                     | mCOMBRIAX N=1 886                                        | Comparator A N=1 883                                     | mCOMBRI AX versus Comparator A                     |
 | Influenza A/H1N1 d                                 | 120.5 (116.0, 125.2)                               | 104.3 (100.4, 108.4)                               | 1.155 (1.086, 1.229)                               | 36.4 (34.3, 38.7)                                        | 31.1 (29.0, 33.2)                                        | 5.4 (1.9, 8.8)                                     |
 | Influenza A/H3N2 d                                 | 114.7 (110.4, 119.1)                               | 107.9 (103.9, 112.1)                               | 1.063 (0.999, 1.130)                               | 38.7 (36.5, 40.9)                                        | 34.6 (32.5, 36.8)                                        | 4.0 (0.5, 7.6)                                     |
@@ -257,17 +257,19 @@ Table 2.  Study 1: Immunogenicity Results in participants ≥ 50 years (PPIS)
 
 <div style=\"page-break-after: always\"></div>
 
-CI=confidence interval; GMR=geometric mean ratio; GM=geometric mean; HA=haemagglutinin; HAI=haemagglutination inhibition; LLOQ=lower limit of quantification; nAb=neutralizing antibody; PsVNA=pseudovirus neutralization assay; SARS-CoV-2=severe acute respiratory syndrome coronavirus 2; SCR=seroconversion rate; SRR=seroresponse rate. Comparator A: licensed HD-IIV4 and COVID-19 mRNA vaccines.
+CI=confidence interval; GMR=geometric mean ratio; GM=geometric mean; HA=haemagglutinin; HAI=haemagglutination inhibition; LLOQ=lower limit of quantification; nAb=neutralizing antibody; PsVNA=pseudovirus neutralization assay; SARS-CoV-2=severe acute respiratory syndrome coronavirus 2; SCR=seroconversion rate; SRR=seroresponse rate.
+
+Comparator A: licensed HD-IIV4 and COVID-19 mRNA vaccines.
 
 Comparator B: licensed SD-IIV4 and COVID-19 mRNA vaccines.
 
-a  The model-based GM level and GMR are from analysis of covariance model with vaccination group as the fixed variable, adjusting for the randomisation stratification factors and baseline antibody level.
+a The model-based GM level and GMR are from analysis of covariance model with vaccination group as the fixed variable, adjusting for the randomisation stratification factors and baseline antibody level.
 
-- b  Seroconversion was defined as a Day 29 postinjection level ≥1:40 if baseline was &lt;1:10 or a ≥4 -fold rise if baseline was ≥1:10 in anti HA antibodies measured by the HAI assay. Seroresponse was defined as a Day 29 post -injection level ≥4 -fold rise if baseline was ≥LLOQ or ≥4×LLOQ if baseline value was &lt;LLOQ in the nAb values measured by PsVNA.
+b Seroconversion was defined as a Day 29 post-injection level ≥1:40 if baseline was &lt;1:10 or a ≥4-fold rise if baseline was ≥1:10 in anti HA antibodies measured by the HAI assay. Seroresponse was defined as a Day 29 post-injection level ≥4-fold rise if baseline was ≥LLOQ or ≥4×LLOQ if baseline value was &lt;LLOQ in the nAb values measured by PsVNA.
 
-c  The study enrolled adults at increased risk for severe influenza and/or COVID-19 comprising approximately 65% of Cohort A and 62% of Cohort B.
+c The study enrolled adults at increased risk for severe influenza and/or COVID-19 comprising approximately 65% of Cohort A and 62% of Cohort B.
 
-- d  Secondary immunogenicity superiority (pre-specified) criteria (2-sided 95% CI lower bound: GMR &gt;1; SCR/SRR difference &gt;0%) were met for all vaccine-matched strains, except for B/Yamagata in Cohort A.
+d Secondary immunogenicity superiority (pre-specified) criteria (2-sided 95% CI lower bound: GMR &gt;1; SCR/SRR difference &gt;0%) were met for all vaccine-matched strains, except for B/Yamagata in Cohort A.
 
 ## Paediatric population
 
@@ -287,17 +289,13 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 Heptadecan-9-yl 8-{(2-hydroxyethyl)[6-oxo-6-(undecyloxy)hexyl]amino}octanoate (SM-102)
 
-Cholesterol
-
 1,2-distearoyl-sn-glycero-3-phosphocholine (DSPC)
 
 1,2-dimyristoyl-rac-glycero-3-methoxypolyethylene glycol-2000 (PEG2000-DMG)
 
-Trometamol
-
 Trometamol hydrochloride
 
-Sucrose
+Cholesterol Trometamol Sucrose
 
 Water for injections
 
@@ -309,7 +307,7 @@ In the absence of compatibility studies, this vaccine must not be mixed with oth
 
 1 year at -40 °C to -15 °C.
 
-Within the shelf life of 1 year, the vaccine is stable for 30 days when stored at 2 °C to 8 °C and protected from light. At the end of 30 days, the vaccine should be used immediately or discarded (see section 6.4).
+Within the shelf life of 1 year, the vaccine is stable for 4 months when stored at 2 °C to 8 °C and protected from light. At the end of 4 months, the vaccine should be used immediately or discarded (see section 6.4).
 
 Once thawed, the vaccine should not be refrozen.
 
@@ -317,7 +315,7 @@ Upon moving the vaccine to 2 °C to 8 °C storage, the outer carton should be ma
 
 <div style=\"page-break-after: always\"></div>
 
-The pre-filled syringes may be stored at 8 °C to 25 °C for up to 24 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Do not refrigerate after being stored at 8 °C to 25 °C. Discard the syringe if not used within this time.
+The pre-filled syringes may be stored at 8 °C to 25 °C for up to 12 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Do not refrigerate after being stored at 8 °C to 25 °C. Discard the syringe if not used within this time.
 
 ## 6.4 Special precautions for storage
 
@@ -325,7 +323,7 @@ Store in a freezer at -40 °C to -15 °C.
 
 Once thawed, store in a refrigerator (2 °C to 8 °C) and do not refreeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-After thawing, pre-filled syringes may be stored refrigerated between 2 °C to 8 °C for up to 30 days prior to use.
+After thawing, pre-filled syringes may be stored refrigerated between 2 °C to 8 °C for up to 4 months prior to use.
 
 ## Transportation of thawed pre-filled syringes
 
@@ -359,31 +357,31 @@ Prior to immediate use, single syringe may be removed from a carton of 1 or 10 p
 
 <div style=\"page-break-after: always\"></div>
 
-Table 32. Thawing instructions for pre-filled syringes and cartons before use
+Table 3. Thawing instructions for pre-filled syringes and cartons before use
 
-|                                                            | Thaw Instructions and Durations           | Thaw Instructions and Durations   | Thaw Instructions and Durations             | Thaw Instructions and Durations   |
-|------------------------------------------------------------|-------------------------------------------|-----------------------------------|---------------------------------------------|-----------------------------------|
-| Configuration                                              | Thaw temperature (in a refrigerator) (°C) | Thaw duration (minutes)           | Thaw temperature (at room temperature) (°C) | Thaw duration (minutes)           |
-| One pre-filled syringe or a carton of 1 pre-filled syringe | 2 - 8                                     | 100                               | 15 - 25                                     | 40                                |
-| Carton of 10 pre-filled syringes                           | 2 - 8                                     | 160                               | 15 - 25                                     | 80                                |
+| Configuration                                              | Thaw Instructions and Durations - Thaw temperature (in a refrigerator) (°C)   |   Thaw Instructions and Durations - Thaw duration (minutes) | Thaw Instructions and Durations - Thaw temperature (at room temperature) (°C)   |   Thaw Instructions and Durations - Thaw duration (minutes) |
+|------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------|
+| One pre-filled syringe or a carton of 1 pre-filled syringe | 2 - 8                                                                         |                                                         100 | 15 - 25                                                                         |                                                          40 |
+| Carton of 10 pre-filled syringes                           | 2 - 8                                                                         |                                                         160 | 15 - 25                                                                         |                                                          80 |
 
-- -After thawing, the vaccine cannot be re-frozen.
-- -If the vaccine has been thawed at room temperature (15 °C to 25 °C), the pre-filled syringe is ready to administer. Syringes should not be returned to the refrigerator after being thawed at room temperature.
-- -The pre-filled syringes may be stored at 8 °C to 25 °C for a total of 24 hours after removal from refrigerated conditions. Discard the thawed pre-filled syringe if not used within this time.
+- After thawing, the vaccine cannot be re-frozen.
+- Once thawed, the pre-filled syringe is ready to administer. Syringes should not be returned to the refrigerator after being thawed at room temperature.
+- The pre-filled syringes may be stored at 8 °C to 25 °C for a total of 12 hours after removal from refrigerated conditions. Discard the thawed pre-filled syringe if not used within this time.
 
 ## Administration
 
-- -Remove a pre-filled syringe from the outer carton.
-- -The pre-filled syringe should be inspected visually for particulate matter and discolouration prior to administration.
-- -Do not administer if vaccine is discoloured or contains other particulate matter.
-- -Needles are not provided in the pre-filled syringe cartons.
-- -Use a sterile needle of the appropriate size for intramuscular injection (21-gauge or thinner needles).
-- -With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases. Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
-- -Attach the needle by twisting in a clockwise direction until the needle fits securely on the pre-filled syringe.
-- -Uncap the needle when ready for administration.
-- -The vaccine should be administered immediately after uncapping.
-- -Administer the entire dose intramuscularly.
-- -Discard the pre-filled syringe after single use.
+- Remove a pre-filled syringe from the outer carton.
+- The pre-filled syringe should be inspected visually for particulate matter and discolouration prior to administration.
+- Do not administer if vaccine is discoloured or contains other particulate matter.
+- Needles are not provided in the pre-filled syringe cartons.
+- Use a sterile needle of the appropriate size for intramuscular injection (21-gauge or thinner needles).
+- With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases.
+- Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
+- Attach the needle by twisting in a clockwise direction until the needle fits securely on the pre-filled syringe.
+- Uncap the needle when ready for administration.
+- The vaccine should be administered immediately after uncapping.
+- Administer the entire dose intramuscularly.
+- Discard the pre-filled syringe after single use.
 
 ## Disposal
 
@@ -395,13 +393,15 @@ MODERNA BIOTECH SPAIN, S.L. C/ Julián Camarillo nº 31 28037 Madrid Spain
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/26/2028/001 EU/1/26/2028/002
+EU/1/26/2028/001
+
+EU/1/26/2028/002
 
 <div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 20 April 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -452,8 +452,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- -At the request of the European Medicines Agency;
-- -Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -469,7 +469,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -531,17 +531,15 @@ For additional information on shelf-life and storage, see the package leaflet.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-MODERNA BIOTECH SPAIN, S.L.
-
-C/ Julián Camarillo nº 31
-
-28037 Madrid
+MODERNA BIOTECH SPAIN, S.L. C/ Julián Camarillo nº 31 28037 Madrid
 
 Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/26/2028/001 1 pre-filled syringe in a tray EU/1/26/2028/002 10 pre-filled syringes in a tray
+EU/1/26/2028/001 1 pre-filled syringe in a tray
+
+EU/1/26/2028/002 10 pre-filled syringes in a tray
 
 ## 13. BATCH NUMBER
 
@@ -549,7 +547,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -561,9 +559,7 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -583,7 +579,8 @@ Intramuscular use
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -591,17 +588,20 @@ Lot
 
 0.32 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
 
-## mCOMBRIAX dispersion for injection in pre-filled syringe Influenza and COVID-19, mRNA Vaccine
+<div style=\"page-break-after: always\"></div>
+
+## mCOMBRIAX dispersion for injection in pre-filled syringe
+
+Influenza and COVID-19, mRNA Vaccine
 
 <!-- image -->
 
@@ -609,9 +609,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you receive this vaccine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -652,11 +652,11 @@ The vaccine must not be given if you are allergic to the active substances or an
 
 Talk to your doctor, pharmacist or nurse before you are given mCOMBRIAX if:
 
-- -you have previously had a severe, life-threatening allergic reaction after any other vaccine injection or after you were given mCOMBRIAX in the past.
-- -you have a very weak or compromised immune system.
-- -you have a bleeding disorder.
-- -you have a high fever or severe infection. In this case, the vaccination will be postponed. There is no need to delay vaccination for a minor infection, such as a cold, but talk to your doctor first.
-- -you have anxiety related to injections.
+- you have previously had a severe, life-threatening allergic reaction after any other vaccine injection or after you were given mCOMBRIAX in the past.
+- you have a very weak or compromised immune system.
+- you have a bleeding disorder.
+- you have a high fever or severe infection. In this case, the vaccination will be postponed. There is no need to delay vaccination for a minor infection, such as a cold, but talk to your doctor first.
+- you have anxiety related to injections.
 
 Cases of myocarditis and pericarditis (inflammation of the heart muscle or the membrane around the heart) have been reported for some other COVID-19 vaccines.
 
@@ -708,26 +708,26 @@ Talk to your doctor or nurse if you develop any side effects. These can include:
 
 Very common (may affect more than 1 in 10 people)
 
-- -swelling/tenderness in the underarm (lymphadenopathy)
-- -headache
-- -feeling sick (nausea)
-- -vomiting
-- -muscle ache (myalgia)
-- -joint ache (arthralgia)
-- -pain at the injection site
-- -feeling tired (fatigue)
-- -chills
-- -fever (pyrexia)
+- swelling/tenderness in the underarm (lymphadenopathy)
+- headache
+- feeling sick (nausea)
+- vomiting
+- muscle ache (myalgia)
+- joint ache (arthralgia)
+- pain at the injection site
+- feeling tired (fatigue)
+- chills
+- fever (pyrexia)
 
 Common (may affect up to 1 in 10 people)
 
-- -swelling at the injection site
-- -redness (erythema) at the injection site
+- swelling at the injection site
+- redness (erythema) at the injection site
 
 Uncommon (may affect up to 1 in 100 people)
 
-- -diarrhoea
-- -itchiness at the injection site
+- diarrhoea
+- itchiness at the injection site
 
 If any of the side effects gets serious, or if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist.
 
@@ -753,13 +753,13 @@ Keep the pre-filled syringes in the outer carton in order to protect from light.
 
 ## Thawed vaccine
 
-Within the shelf life of 1 year, the vaccine is stable for 30 days when stored at 2 °C to 8 °C and protected from light. At the end of 30 days, the vaccine should be used immediately or discarded.
+Within the shelf life of 1 year, the vaccine is stable for 4 months when stored at 2 °C to 8 °C and protected from light. At the end of 4 months, the vaccine should be used immediately or discarded.
 
 Once thawed, the vaccine should not be refrozen.
 
 Upon moving the vaccine to 2 °C to 8 °C storage, the outer carton should be marked with the new expiry date at 2 °C to 8 °C.
 
-The pre-filled syringes may be stored at 8 °C to 25 °C for up to 24 hours after removal from the refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Do not refrigerate after being stored at 8 °C to 25 °C. Discard the syringe if not used within this time.
+The pre-filled syringes may be stored at 8 °C to 25 °C for up to 12 hours after removal from the refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Do not refrigerate after being stored at 8 °C to 25 °C. Discard the syringe if not used within this time.
 
 ## Transportation of thawed pre-filled syringes
 
@@ -773,7 +773,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substances are a combination of influenza virus of the following strains and SARS-CoV-2 mRNA.
 
-| Influenza virus strains and SARS-CoV-2   | Per 0.32 mLdose    |
+| Influenza virus strains and SARS-CoV-2   | Per 0.32 mL dose   |
 |------------------------------------------|--------------------|
 | A/H1N1                                   | 8.3 micrograms RNA |
 | A/H3N2                                   | 8.3 micrograms RNA |
@@ -790,9 +790,9 @@ mCOMBRIAX is a white to off-white dispersion for injection (pH: 7.1 - 7.8) provi
 
 mCOMBRIAX is available in packs containing 1 or 10 pre-filled syringes.
 
-<div style=\"page-break-after: always\"></div>
-
 Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 Needles are not provided in the pack.
 
@@ -806,75 +806,37 @@ For any information about this vaccine, please contact the local representative 
 
 Tél/Tel: 0800 81 460
 
-## Lietuva
-
-Tel: 88 003 1114
-
 ## България
 
-Teл.:
-
-0800 115 4477
-
-## Luxembourg/Luxemburg
-
-Tél/Tel: 800 85 499
+Teл.: 0800 115 4477
 
 ## Česká republika
 
 Tel: 800 050 719
 
-## Magyarország
-
-Tel.: 06 80 987 488
-
 ## Danmark
 
 Tlf.: 80 81 06 53
-
-## Malta
-
-Tel: 8006 5066
 
 ## Deutschland
 
 Tel: 0800 100 9632
 
-## Nederland
-
-Tel: 0800 409 0001
-
 ## Eesti
 
 Tel: 800 0044 702
-
-## Norge
-
-Tlf: 800 31 401
 
 ## Ελλάδα
 
 Τηλ: +30 800 000 0030
 
-## Österreich
-
-Tel: 0800 909636
-
 ## España
 
 Tel: 900 031 015
 
-## Polska
-
-Tel.: 800 702 406
-
 ## France
 
 Tél: 0805 54 30 16
-
-## Portugal
-
-Tel: 800 210 256
 
 ## Hrvatska
 
@@ -884,6 +846,58 @@ Tel: 08009614
 
 Tel: 1800 800 354
 
+## Ísland
+
+Sími: 800 4382
+
+## Italia
+
+Tel: 800 928 007
+
+## Κύπρος
+
+Τηλ: 80091080
+
+## Latvija
+
+Tel: 80 005 898
+
+## Lietuva
+
+Tel: +370 800 31 114
+
+## Luxembourg/Luxemburg
+
+Tél/Tel: 800 85 499
+
+## Magyarország
+
+Tel.: 06 80 987 488
+
+## Malta
+
+Tel: 8006 5066
+
+## Nederland
+
+Tel: 0800 409 0001
+
+## Norge
+
+Tlf: 800 31 401
+
+## Österreich
+
+Tel: 0800 909636
+
+## Polska
+
+Tel.: 800 702 406
+
+## Portugal
+
+Tel: 800 210 256
+
 ## România
 
 Tel: 0800 400 625
@@ -892,35 +906,17 @@ Tel: 0800 400 625
 
 Tel: 080 083082
 
-## Ísland
-
-Sími: 800 4382
-
 ## Slovenská republika
 
 Tel: 0800 191 647
-
-## Italia
-
-Tel: 800 928 007
 
 ## Suomi/Finland
 
 Puh/Tel: 0800 774198
 
-## Κύπρος
-
-Τηλ:
-
-80091080
-
 ## Sverige
 
 Tel: 020 10 92 13
-
-## Latvija
-
-Tel: 80 005 898
 
 <div style=\"page-break-after: always\"></div>
 
@@ -952,39 +948,37 @@ mCOMBRIAX is supplied in a single-dose, pre-filled syringe (without needle) cont
 
 mCOMBRIAX is shipped and supplied either as a frozen or thawed pre-filled syringe (see section 5). If the vaccine is frozen, it must be completely thawed before use. Thaw each pre-filled syringe before use, either in the refrigerator or at room temperature, following the instructions in Table 1.
 
-If the vaccine has been thawed at room temperature (15 °C to 25 °C), the pre-filled syringe is ready to administer. Syringes should not be returned to the refrigerator after being thawed at room temperature.
+Once thawed, the pre-filled syringe is ready to administer. Syringes should not be returned to the refrigerator after being thawed at room temperature.
 
-The pre-filled syringes may be stored at 8 °C to 25 °C for a total of 24 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Discard the syringe if not used within this time.
+The pre-filled syringes may be stored at 8 °C to 25 °C for a total of 12 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Discard the syringe if not used within this time.
 
 Thaw each pre-filled syringe before use following the instructions below. Pre-filled syringes may be thawed outside the carton or in the carton itself, either in the refrigerator or at room temperature (Table 1).
 
 Table 1. Thawing instructions for pre-filled syringes and cartons before use
 
-|                                                            | Thaw instructions and durations           | Thaw instructions and durations   | Thaw instructions and durations             | Thaw instructions and durations   |
-|------------------------------------------------------------|-------------------------------------------|-----------------------------------|---------------------------------------------|-----------------------------------|
-| Configuration                                              | Thaw temperature (in a refrigerator) (°C) | Thaw duration (minutes)           | Thaw temperature (at room temperature) (°C) | Thaw duration (minutes)           |
-| One pre-filled syringe or a carton of 1 pre-filled syringe | 2 - 8                                     | 100                               | 15 - 25                                     | 40                                |
+| Configuration                                              | Thaw instructions and durations - Thaw temperature (in a refrigerator) (°C)   |   Thaw instructions and durations - Thaw duration (minutes) | Thaw instructions and durations - Thaw temperature (at room temperature) (°C)   |   Thaw instructions and durations - Thaw duration (minutes) |
+|------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------|
+| One pre-filled syringe or a carton of 1 pre-filled syringe | 2 - 8                                                                         |                                                         100 | 15 - 25                                                                         |                                                          40 |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                  | Thaw instructions and durations           | Thaw instructions and durations   | Thaw instructions and durations             | Thaw instructions and durations   |
-|----------------------------------|-------------------------------------------|-----------------------------------|---------------------------------------------|-----------------------------------|
-| Configuration                    | Thaw temperature (in a refrigerator) (°C) | Thaw duration (minutes)           | Thaw temperature (at room temperature) (°C) | Thaw duration (minutes)           |
-| Carton of 10 pre-filled syringes | 2 - 8                                     | 160                               | 15 - 25                                     | 80                                |
+| Configuration                    | Thaw instructions and durations - Thaw temperature (in a refrigerator) (°C)   |   Thaw instructions and durations - Thaw duration (minutes) | Thaw instructions and durations - Thaw temperature (at room temperature) (°C)   |   Thaw instructions and durations - Thaw duration (minutes) |
+|----------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------|
+| Carton of 10 pre-filled syringes | 2 - 8                                                                         |                                                         160 | 15 - 25                                                                         |                                                          80 |
 
 ## Administration
 
-- -After thawing, the vaccine cannot be re-frozen.
-- -The pre-filled syringe should be inspected visually for particulate matter and discolouration prior to administration.
-- -Do not administer if vaccine is discoloured or contains other particulate matter.
-- -Needles are not included in the pre-filled syringe cartons.
-- -Use a sterile needle of the appropriate size for intramuscular injection (21-gauge or thinner needles).
-- -With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases. Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
-- -Attach the needle by twisting in a clockwise direction until the needle fits securely on the pre-filled syringe.
-- -Uncap the needle when ready for administration.
-- -The vaccine should be administered immediately after uncapping.
-- -Administer the entire dose intramuscularly.
-- -Discard the pre-filled syringe after single use.
+- After thawing, the vaccine cannot be re-frozen.
+- The pre-filled syringe should be inspected visually for particulate matter and discolouration prior to administration.
+- Do not administer if vaccine is discoloured or contains other particulate matter.
+- Needles are not included in the pre-filled syringe cartons.
+- Use a sterile needle of the appropriate size for intramuscular injection (21-gauge or thinner needles).
+- With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases. Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
+- Attach the needle by twisting in a clockwise direction until the needle fits securely on the pre-filled syringe.
+- Uncap the needle when ready for administration.
+- The vaccine should be administered immediately after uncapping.
+- Administer the entire dose intramuscularly.
+- Discard the pre-filled syringe after single use.
 
 ## Disposal
 

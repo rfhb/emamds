@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-15 11:59:02
+document_datetime: 2026-09-24 15:21:20
 document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jorveza-epar-product-information_en.pdf
 document_name: jorveza-epar-product-information_en.pdf
 version: success
-processing_time: 13.0287965
-conversion_datetime: 2026-04-17 15:34:37.65096
+processing_time: 56.0920145
+conversion_datetime: 2026-09-25 19:07:04.94083
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.0
-  docling: 2.89.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,21 +28,17 @@ Jorveza 0.5 mg orodispersible tablets Jorveza 1 mg orodispersible tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Jorveza 0.5 mg orodispersible tablets
+## Jorveza 0.5 mg orodispersible tablets
 
 Each orodispersible tablet contains 0.5 mg of budesonide.
 
-Excipient with known effect
+Excipient with known effect Each 0.5 mg orodispersible tablet contains 26 mg sodium.
 
-Each 0.5 mg orodispersible tablet contains 26 mg sodium.
-
-Jorveza 1 mg orodispersible tablets
+## Jorveza 1 mg orodispersible tablets
 
 Each orodispersible tablet contains 1 mg of budesonide.
 
-Excipient with known effect
-
-Each 1 mg orodispersible tablet contains 26 mg sodium.
+Excipient with known effect Each 1 mg orodispersible tablet contains 26 mg sodium.
 
 For the full list of excipients, see section 6.1.
 
@@ -50,11 +46,11 @@ For the full list of excipients, see section 6.1.
 
 Orodispersible tablet
 
-Jorveza 0.5 mg orodispersible tablets
+## Jorveza 0.5 mg orodispersible tablets
 
 White, round, biplane orodispersible tablets, with a diameter of 7.1 mm and height of 2.2 mm. They are debossed with '0.5' on one side.
 
-Jorveza 1 mg orodispersible tablets
+## Jorveza 1 mg orodispersible tablets
 
 White, round, biplane orodispersible tablets, with a diameter of 7.1 mm and height of 2.2 mm.
 
@@ -292,7 +288,7 @@ For information about the observed adverse reactions, see section 4.8.
 
 ## Absorption
 
-Following administration of Jorveza, budesonide is rapidly absorbed. Pharmacokinetic data following administration of single doses of 1 mg budesonide to fasted healthy subjects in two different studies show a median lag time of 0.17 hours (range 0.00 - 0.52 hours) and a median time to peak plasma concentration of 1.00 - 1.22 hours (range 0.50 - 2.00 hours). The mean peak plasma concentration was 0.44 - 0.49 ng/mL (range 0.18 - 1.05 ng/mL) and the area under the plasma-concentration-time curve (AUC0-∞ ) was 1.50 - 2.23 hr*ng/mL (range 0.81 - 5.14 hr*ng/mL).
+Following administration of Jorveza, budesonide is rapidly absorbed. Pharmacokinetic data following administration of single doses of 1 mg budesonide to fasted healthy subjects in two different studies show a median lag time of 0.17 hours (range 0.00 - 0.52 hours) and a median time to peak plasma concentration of 1.00 - 1.22 hours (range 0.50 - 2.00 hours). The mean peak plasma concentration was 0.44 - 0.49 ng/mL (range 0.18 - 1.05 ng/mL) and the area under the plasma-concentration-time curve (AUC0-∞) was 1.50 - 2.23 hr*ng/mL (range 0.81 - 5.14 hr*ng/mL).
 
 Single dose pharmacokinetic data in fasted patients with EoE are available with 4 mg budesonide: Median lag-time was 0.00 hours (range 0.00 - 0.17), median time to peak plasma concentration was 1.00 hour (range 0.67 - 2.00 hours); peak plasma concentration was 2.56 ± 1.36 ng/mL, and AUC0-12 was 8.96 ± 4.21 hr*ng/mL.
 
@@ -308,7 +304,7 @@ The apparent volume of distribution following oral administration of 1 mg budeso
 
 Metabolism of budesonide is decreased in EoE patients compared to healthy subjects resulting in increased plasma concentrations of budesonide.
 
-Budesonide undergoes extensive biotransformation by CYP3A4 in the mucosa of the small intestine and in the liver to metabolites of low glucocorticosteroid activity. The glucocorticosteroid activity of the major metabolites, 6 β -hydroxybudesonide and 16α -hydroxyprednisolone, is less than 1% of that of budesonide. CYP3A5 does not contribute significantly to the metabolism of budesonide.
+Budesonide undergoes extensive biotransformation by CYP3A4 in the mucosa of the small intestine and in the liver to metabolites of low glucocorticosteroid activity. The glucocorticosteroid activity of the major metabolites, 6β-hydroxybudesonide and 16α-hydroxyprednisolone, is less than 1% of that of budesonide. CYP3A5 does not contribute significantly to the metabolism of budesonide.
 
 ## Elimination
 
@@ -372,7 +368,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Dr. Falk Pharma GmbH Leinenweberstr. 5 79108 Freiburg Germany
+Dr. Falk Pharma GmbH Leinenweberstr. 5 79108 Freiburg
+
+Germany
 
 Tel.: +49 (0)761 1514-0
 
@@ -382,17 +380,21 @@ E-mail: zentrale@drfalkpharma.de
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-## Jorveza 1 mg orodispersible tablets
+Jorveza 1 mg orodispersible tablets
 
 ```
-EU/1/17/1254/001 EU/1/17/1254/002 EU/1/17/1254/003 EU/1/17/1254/004 EU/1/17/1254/005 EU/1/17/1254/006
+EU/1/17/1254/001 EU/1/17/1254/002 EU/1/17/1254/003 EU/1/17/1254/004 EU/1/17/1254/005
 ```
+
+EU/1/17/1254/006
 
 ## Jorveza 0.5 mg orodispersible tablets
 
 ```
-EU/1/17/1254/007 EU/1/17/1254/008 EU/1/17/1254/009 EU/1/17/1254/010 EU/1/17/1254/011
+EU/1/17/1254/007 EU/1/17/1254/008 EU/1/17/1254/009 EU/1/17/1254/010
 ```
+
+EU/1/17/1254/011
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -438,7 +440,7 @@ Jorveza 0.2 mg/mL oral suspension is indicated for the treatment of eosinophilic
 
 The treatment with this medicinal product should be initiated by a gastroenterologist or a physician experienced in the diagnosis and treatment of eosinophilic esophagitis. Adult EoE patients may be treated with budesonide orodispersible tablets.
 
-## Posology
+Posology
 
 Induction of remission
 
@@ -616,7 +618,7 @@ Fungal infections in the mouth, pharynx and the oesophagus were the most frequen
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions observed in clinical studies with budesonide 0.5 mg and 1 mg orodispersible tablets and 0.2 mg/mL oral suspension are listed in the table below, by MedDRA system organ class and frequenc y. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) or not known (cannot be estimated from the available data).
+Adverse reactions observed in clinical studies with budesonide 0.5 mg and 1 mg orodispersible tablets and 0.2 mg/mL oral suspension are listed in the table below, by MedDRA system organ class and frequency. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) or not known (cannot be estimated from the available data).
 
 | MedDRA system organ class                       | Very common                                                   | Common                                                                                                              | Uncommon                                                                                                    |
 |-------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
@@ -703,7 +705,7 @@ For information about the observed adverse reactions, see section 4.8.
 
 ## Absorption
 
-Following administration of Jorveza 0.2 mg/mL oral suspension, budesonide is rapidly absorbed. Pharmacokinetic data after administration of a single dose of 1 mg budesonide to fasted healthy subjects in two different studies show a median lag time of 0.00 - 0.08 hours (range 0.00 - 0.17 hours) and a median time to peak plasma concentration of 0.7 - 1.00 hours (range 0.33 - 1.75 hours). The mean peak plasma concentration (Cmax) was 0.39 - 0.41 ng/mL (range 0.09 - 0.90 ng/mL) and the area under the plasma-concentration-time curve (AUC0-∞ ) was 1.47 - 1.49 hr*ng/mL (range 0.53 - 3.85 hr*ng/mL).
+Following administration of Jorveza 0.2 mg/mL oral suspension, budesonide is rapidly absorbed. Pharmacokinetic data after administration of a single dose of 1 mg budesonide to fasted healthy subjects in two different studies show a median lag time of 0.00 - 0.08 hours (range 0.00 - 0.17 hours) and a median time to peak plasma concentration of 0.7 - 1.00 hours (range 0.33 - 1.75 hours). The mean peak plasma concentration (Cmax) was 0.39 - 0.41 ng/mL (range 0.09 - 0.90 ng/mL) and the area under the plasma-concentration-time curve (AUC0-∞) was 1.47 - 1.49 hr*ng/mL (range 0.53 - 3.85 hr*ng/mL).
 
 After administration of the oral suspension under fed conditions the Cmax of budesonide decreased by 36% - 41% while Tmax increased by 0.90 - 1.25 h when compared to the administration under fasting conditions. No effect of food intake was noted on AUC0-∞.
 
@@ -723,7 +725,7 @@ The apparent volume of distribution following oral administration of 1 mg budeso
 
 Metabolism of budesonide is decreased in adult EoE patients compared to healthy subjects resulting in increased plasma concentrations of budesonide.
 
-Budesonide undergoes extensive biotransformation by CYP3A4 in the mucosa of the small intestine and in the liver to metabolites of low glucocorticosteroid activity. The glucocorticosteroid activity of the major metabolites, 6β -hydroxybudesonide and 16α -hydroxyprednisolone, is less than 1% of that of budesonide. CYP3A5 does not contribute significantly to the metabolism of budesonide.
+Budesonide undergoes extensive biotransformation by CYP3A4 in the mucosa of the small intestine and in the liver to metabolites of low glucocorticosteroid activity. The glucocorticosteroid activity of the major metabolites, 6β-hydroxybudesonide and 16α-hydroxyprednisolone, is less than 1% of that of budesonide. CYP3A5 does not contribute significantly to the metabolism of budesonide.
 
 ## Elimination
 
@@ -751,11 +753,9 @@ Budesonide had no effect on fertility in rats. In pregnant animals, budesonide, 
 
 ## 6.1 List of excipients
 
-Sucrose Water, purified Sodium benzoate (E 211) Disodium edetate
+Sucrose Water, purified Sodium benzoate (E 211) Disodium edetate Citric acid Methylcellulose [1500 mPa s] Blackcurrant flavour
 
 <div style=\"page-break-after: always\"></div>
-
-Citric acid Methylcellulose [1500 mPa s] Blackcurrant flavour
 
 ## 6.2 Incompatibilities
 
@@ -765,7 +765,7 @@ Not applicable.
 
 2 years.
 
-After first opening: use within 6 weeks.
+After first opening: use within 10 weeks.
 
 ## 6.4 Special precautions for storage
 
@@ -793,7 +793,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Dr. Falk Pharma GmbH Leinenweberstr. 5 79108 Freiburg im Breisgau Germany
+Dr. Falk Pharma GmbH Leinenweberstr. 5 79108 Freiburg im Breisgau
+
+Germany
 
 Tel.: +49 (0)761 1514-0
 
@@ -803,19 +805,21 @@ E-mail: zentrale@drfalkpharma.de
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/17/1254/012
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 08 January 2018
 
 Date of latest renewal: 27 September 2022
 
-## 10. DATE OF REVISION OF THE TEXT
+10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+23
 
 <div style=\"page-break-after: always\"></div>
 
@@ -840,13 +844,13 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-- Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -857,11 +861,13 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III LABELLING AND PACKAGE LEAFLET
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
-- A. LABELLING
+## A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -871,7 +877,9 @@ CARTON - 0.5 MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Jorveza 0.5 mg orodispersible tablets budesonide
+Jorveza 0.5 mg orodispersible tablets
+
+budesonide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -888,9 +896,7 @@ Contains sodium. See leaflet for further information.
 - 20 orodispersible tablets
 - 60 orodispersible tablets
 - 90 orodispersible tablets
-
-100 orodispersible tablets
-
+- 100 orodispersible tablets
 - 200 orodispersible tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -911,6 +917,8 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
+EXP
+
 <div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
@@ -921,7 +929,11 @@ Do not store above 25 °C. Store in the original package in order to protect fro
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Dr. Falk Pharma GmbH Leinenweberstr. 5 79108 Freiburg Germany
+Dr. Falk Pharma GmbH Leinenweberstr. 5
+
+79108 Freiburg
+
+Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -941,7 +953,8 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Jorveza 0.5mg
 
@@ -951,7 +964,9 @@ Jorveza 0.5mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -959,7 +974,7 @@ NN
 
 | MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
 |-------------------------------------------------------|
-| BLISTERS - 0.5MG                                      |
+| BLISTERS - 0.5 MG                                     |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -992,7 +1007,9 @@ CARTON - 1 MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Jorveza 1 mg orodispersible tablets budesonide
+Jorveza 1 mg orodispersible tablets
+
+budesonide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1029,17 +1046,25 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
+EXP
+
 <div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 25 °C. Store in the original package in order to protect from light and moisture.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Dr. Falk Pharma GmbH Leinenweberstr. 5 79108 Freiburg Germany
+Dr. Falk Pharma GmbH
+
+Leinenweberstr. 5
+
+79108 Freiburg
+
+Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1061,7 +1086,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1073,7 +1098,7 @@ Jorveza 1mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1083,7 +1108,7 @@ NN
 
 | MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
 |-------------------------------------------------------|
-| BLISTERS-1MG                                          |
+| BLISTERS - 1 MG                                       |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -1108,13 +1133,19 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 ## CARTON - JORVEZA 0.2 MG/ML ORAL SUSPENSION
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Jorveza 0.2 mg/mL oral suspension For children and adolescents aged 2 - 17 years budesonide
+Jorveza 0.2 mg/mL oral suspension
+
+For children and adolescents aged 2 - 17 years
+
+budesonide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1142,7 +1173,7 @@ Read the package leaflet before use.
 
 Shake well before use.
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -1152,59 +1183,51 @@ Keep out of the sight and reach of children.
 
 EXP
 
-After first opening: use within 6 weeks.
+After first opening: use within 10 weeks.
 
 Open date: \\_\\_\\_\\_\\_\\_\\_\\_\\_
 
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 25 °C.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Dr. Falk Pharma GmbH Leinenweberstr. 5 79108 Freiburg im Breisgau Germany
+Dr. Falk Pharma GmbH Leinenweberstr. 5 79108 Freiburg im Breisgau
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/17/1254/012
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Jorveza 0.2 mg/mL suspension
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.&gt;
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1212,7 +1235,11 @@ BOTTLE - JORVEZA 0.2 MG/ML ORAL SUSPENSION
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Jorveza 0.2 mg/mL oral suspension For children and adolescents aged 2-17 years budesonide
+Jorveza 0.2 mg/mL oral suspension
+
+For children and adolescents aged 2-17 years
+
+budesonide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1236,7 +1263,7 @@ Read the package leaflet before use.
 
 Shake well before use.
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -1246,23 +1273,21 @@ Keep out of the sight and reach of children.
 
 EXP
 
-After first opening: use within 6 weeks.
+After first opening: use within 10 weeks.
 
 Open date: \\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Do not store above 25 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Dr. Falk Pharma GmbH Leinenweberstr. 5 79108 Freiburg im Breisgau Germany
 
@@ -1288,8 +1313,8 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1303,10 +1328,10 @@ budesonide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1327,19 +1352,19 @@ It is used in adults (older than 18 years of age) to treat eosinophilic oesophag
 
 ## Do not take Jorveza
 
-- -if you are allergic to budesonide or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to budesonide or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before taking Jorveza if you have:
 
-- -tuberculosis
-- -high blood pressure
-- -diabetes, or if somebody in your family has diabetes
-- -weakening of the bones (osteoporosis)
-- -ulcers in the stomach or first part of the small intestine (peptic ulcer)
-- -increased pressure in your eye (which can cause glaucoma) or eye problems such as clouding of the lens (cataracts) or if somebody in your family has glaucoma
-- -liver disease.
+- tuberculosis
+- high blood pressure
+- diabetes, or if somebody in your family has diabetes
+- weakening of the bones (osteoporosis)
+- ulcers in the stomach or first part of the small intestine (peptic ulcer)
+- increased pressure in your eye (which can cause glaucoma) or eye problems such as clouding of the lens (cataracts) or if somebody in your family has glaucoma
+- liver disease.
 
 If you have any of the conditions mentioned above you may be at increased risk of side effects. Your doctor will decide on the appropriate measures and if it is still all right for you to take this medicine.
 
@@ -1349,17 +1374,17 @@ If you develop swelling of your face, particularly around your mouth (lips, tong
 
 Jorveza may cause typical side effects of corticosteroid medicines and may affect all parts of the body, particularly when you take this medicine at high doses and over a long time (see section 4).
 
-Further precautions during treatment with Jorveza
+## Further precautions during treatment with Jorveza
 
-- -Contact your doctor if you get blurred vision or have other problems with your vision.
+- Contact your doctor if you get blurred vision or have other problems with your vision.
 
 Take the following precautions during treatment with Jorveza because your immune system may be weakened:
 
-- -Tell your doctor if you get fungal infections in the mouth, throat and gullet or if you think you have any infection during treatment with this medicine. Symptoms of fungal infection can be white spots in the mouth and throat and difficulty in swallowing. The symptoms of some infections can be unusual or less noticeable.
-- -Keep away from people who have chickenpox or herpes zoster (shingles) if you have not had these infections. The effects of these illnesses can be much more severe during treatment with this medicine. If you do come into contact with chickenpox or shingles, see your doctor straight away. Please also report your vaccination status to your doctor.
-- -Tell your doctor if you have not yet had measles and/or if and when you have received your last vaccination for this disease.
-- -If you need to be vaccinated please speak to your doctor first.
-- -If you know that you are due to have an operation please tell your doctor that you are taking Jorveza.
+- Tell your doctor if you get fungal infections in the mouth, throat and gullet or if you think you have any infection during treatment with this medicine. Symptoms of fungal infection can be white spots in the mouth and throat and difficulty in swallowing. The symptoms of some infections can be unusual or less noticeable.
+- Keep away from people who have chickenpox or herpes zoster (shingles) if you have not had these infections. The effects of these illnesses can be much more severe during treatment with this medicine. If you do come into contact with chickenpox or shingles, see your doctor straight away. Please also report your vaccination status to your doctor.
+- Tell your doctor if you have not yet had measles and/or if and when you have received your last vaccination for this disease.
+- If you need to be vaccinated please speak to your doctor first.
+- If you know that you are due to have an operation please tell your doctor that you are taking Jorveza.
 
 Jorveza could affect the results of adrenal function tests (ACTH stimulation test) ordered by your doctor or in hospital. Tell your doctors that you are taking Jorveza before you have any tests.
 
@@ -1371,12 +1396,12 @@ Jorveza should not be used in children and adolescents under 18 years of age. Th
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. Some of these medicines may increase the effects of Jorveza and your doctor may wish to monitor you carefully if you are taking these medicines. In particular:
 
-- -ketoconazole or itraconazole (to treat fungal infections)
-- -clarithromycin, an antibiotic medicine used to treat infections
-- -ritonavir and cobicistat (to treat HIV infections)
-- -oestrogens (used for hormone replacement therapy or contraception)
-- -cardiac glycosides such as digoxin (medicines used to treat heart conditions)
-- -diuretics (to remove excess fluid from the body).
+- ketoconazole or itraconazole (to treat fungal infections)
+- clarithromycin, an antibiotic medicine used to treat infections
+- ritonavir and cobicistat (to treat HIV infections)
+- oestrogens (used for hormone replacement therapy or contraception)
+- cardiac glycosides such as digoxin (medicines used to treat heart conditions)
+- diuretics (to remove excess fluid from the body).
 
 ## Jorveza with food and drink
 
@@ -1454,90 +1479,66 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Stop using Jorveza and seek medical attention immediately if you notice any of the following symptoms:
 
-- -swelling of the face, particularly of the eyelids, lips, tongue or throat (angioedema) which may be symptoms of an allergic reaction.
+- swelling of the face, particularly of the eyelids, lips, tongue or throat (angioedema) which may be symptoms of an allergic reaction.
 
 The following side effects have been reported during the use of Jorveza:
 
 ## Very common: may affect more than 1 in 10 people
 
 - fungal infections in the gullet (which can cause pain or discomfort when swallowing)
-
 - fungal infections in the mouth and throat (symptoms can be white spots)
 
 ## Common: may affect up to 1 in 10 people
 
 - headache
-
 - heartburn
-
 - indigestion
-
 - feeling sick (nausea)
-
 - tingling or numbness in your mouth, dry mouth
-
 - taste disorder, burning tongue
-
 - upper abdominal (belly) pain
-
 - tiredness
-
 - decreased amount of the hormone cortisol in your blood
-
 - dry eyes.
-
 - difficulty in sleeping
-
 - problems with tongue
-
 - cold sore (oral herpes)
 
 ## Uncommon: may affect up to 1 in 100 people
 
 - anxiety, agitation
-
 - dizziness
-
 - high blood pressure
-
 - cough, dry throat, sore throat, common cold
-
 - abdominal (belly) pain, abdominal distension (bloating)
-
 - difficulty swallowing
-
 - inflammation of the stomach, ulcers in the stomach
-
 - swelling of the lips
-
 - rash, itching rash
-
 - sensation of foreign body
-
 - pain in the mouth or throat
-
 - painful gums,
 
 <div style=\"page-break-after: always\"></div>
 
-- -decreased level of osteocalcin, weight gain.
+- decreased level of osteocalcin, weight gain.
 
 The following side effects have been reported and are typical with medicines similar to Jorveza (corticosteroids), and can therefore also occur with this medicine. The frequency of these events is currently not known:
 
-- -increased risk of infection
-- -Cushing's syndrome, which is associated with too much corticosteroid and causes roundness of the face, weight gain, high blood sugar, build-up of fluid in the tissues (e.g. swollen legs), reduced potassium level in the blood (hypokalaemia), irregular periods in women, unwanted body hair in women, impotence, stretch marks on the skin, acne.
-- -slowed growth in children
-- -mood changes, such as depression, irritability or euphoria
-- -restlessness with increased physical activity, aggression
-- -increased pressure in the brain, possibly with increased pressure in the eye (swelling of the optic disk) in adolescents
-- -blurred vision
-- -increased risk of blood clots, inflammation of the blood vessels (which can happen when the medicine is stopped after long-term use)
-- -constipation, ulcers in the small intestine
-- -inflammation of the pancreas, which causes severe pain in the belly and back
-- -rash, red spots from bleeding in the skin, delayed wound healing, skin reactions such as contact dermatitis, bruising
-- -muscle and joint pain, muscle weakness, muscle twitching
-- -weakening of the bones (osteoporosis), bone damage due to poor circulation of blood (osteonecrosis)
-- -general feeling of being ill.
+- increased risk of infection
+- Cushing's syndrome, which is associated with too much corticosteroid and causes roundness of the face, weight gain, high blood sugar, build-up of fluid in the tissues (e.g. swollen legs), reduced potassium level in the blood (hypokalaemia), irregular periods in women, unwanted body hair in women, impotence, stretch marks on the skin, acne.
+- slowed growth in children
+- mood changes, such as depression, irritability or euphoria
+- restlessness with increased physical activity, aggression
+- increased pressure in the brain, possibly with increased pressure in the eye (swelling of the optic disk) in adolescents
+- blurred vision
+- increased risk of blood clots, inflammation of the blood vessels (which can happen when the medicine is stopped after long-term use)
+- constipation, ulcers in the small intestine
+- inflammation of the pancreas, which causes severe pain in the belly and back
+- rash, red spots from bleeding in the skin, delayed wound healing, skin reactions such as contact dermatitis, bruising
+- muscle and joint pain, muscle weakness, muscle twitching
+- weakening of the bones (osteoporosis), bone damage due to poor circulation of blood (osteonecrosis)
+- general feeling of being ill.
 
 ## Reporting of side effects
 
@@ -1561,13 +1562,13 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## Jorveza 0.5 mg orodispersible tablet
 
-- -The active substance is budesonide. Each orodispersible tablet contains 0.5 mg of budesonide.
-- -The other ingredients are disodium hydrogen citrate, docusate sodium, macrogol (6000), magnesium stearate, mannitol (E 421), anhydrous monosodium citrate, povidone (K25), sodium hydrogen carbonate and sucralose (see also section 2, 'Jorveza contains sodium').
+- The active substance is budesonide. Each orodispersible tablet contains 0.5 mg of budesonide.
+- The other ingredients are disodium hydrogen citrate, docusate sodium, macrogol (6000), magnesium stearate, mannitol (E 421), anhydrous monosodium citrate, povidone (K25), sodium hydrogen carbonate and sucralose (see also section 2, 'Jorveza contains sodium').
 
 ## Jorveza 1 mg orodispersible tablet
 
-- -The active substance is budesonide. Each orodispersible tablet contains 1 mg of budesonide.
-- -The other ingredients are disodium hydrogen citrate, docusate sodium, macrogol (6000), magnesium stearate, mannitol (E 421), anhydrous monosodium citrate, povidone (K25), sodium hydrogen carbonate and sucralose (see also section 2, 'Jorveza contains sodium').
+- The active substance is budesonide. Each orodispersible tablet contains 1 mg of budesonide.
+- The other ingredients are disodium hydrogen citrate, docusate sodium, macrogol (6000), magnesium stearate, mannitol (E 421), anhydrous monosodium citrate, povidone (K25), sodium hydrogen carbonate and sucralose (see also section 2, 'Jorveza contains sodium').
 
 ## What Jorveza looks like and contents of the pack
 
@@ -1583,19 +1584,23 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Dr. Falk Pharma GmbH Leinenweberstr. 5 79108 Freiburg Germany
+Dr. Falk Pharma GmbH Leinenweberstr. 5 79108 Freiburg
+
+Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Dr. Falk Pharma Benelux B.V. Tél/Tel: +32-(0)16 40 40 85 info@drfalkpharma-benelux.eu
+Dr. Falk Pharma Benelux B.V. Tél/Tel: +32-(0)16 40 40 85
 
-България Dr. Falk Pharma GmbH Te л : +49 761 1514 0
+[info@drfalkpharma-benelux.eu](mailto:info@drfalkpharma-benelux.eu)
 
-[zentrale@drfalkpharma.de](mailto:zentrale@drfalkpharma.de)
+България ЕВОФАРМА ЕООД Teл: +359 2 962 12 00
 
-Lietuva UAB Morfėjus Tel: +370 5 2796328 biuras@morfejus.lt
+info@ewopharma.bg Lietuva UAB Morfėjus Tel: +370 5 2796328
+
+[biuras@morfejus.lt](mailto:biuras@morfejus.lt)
 
 ## Luxembourg/Luxemburg
 
@@ -1611,7 +1616,7 @@ Ewopharma, spol. s r. o. Tel: +420 267 311 613 info@ewopharma.cz
 
 ## Danmark
 
-Vifor Pharma Nordiska AB Tlf: +46 8 5580 6600 info.nordic@viforpharma.com
+Falk Pharma Nordics AB Tlf.: +46 (0)18 516 210 info@falkpharma.se
 
 ## Deutschland
 
@@ -1621,31 +1626,33 @@ Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
 
 Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
 
-Ελλάδα
+## Ελλάδα
 
-GALENICA A.E T ηλ : +30 210 52 81 700 contact@galenica.gr
+GALENICA A.E Tηλ: +30 210 52 81 700 contact@galenica.gr
 
-España
+## España
 
 Dr. Falk Pharma España Tel: +34 91 372 95 08 drfalkpharma@drfalkpharma.es
 
-France
+## France
 
-Dr. Falk Pharma SAS Tél: +33(0)1 78 90 02 71 contact.fr@drfalkpharma.fr
+Dr. Falk Pharma SAS Tél: +33(0)1 78 90 02 71
+
+contact.fr@drfalkpharma.fr
 
 ## Hrvatska
 
 Würth d.o.o. Tel: +385 1 4650358 wurth@zg.t-com.hr
 
-Ireland
+## Ireland
 
 Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
 
-Ísland
+## Ísland
 
 Dr. Falk Pharma GmbH Sími: +49 761 1514 0 zentrale@drfalkpharma.de
 
-Italia
+## Italia
 
 Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
 
@@ -1663,23 +1670,23 @@ Dr. Falk Pharma Benelux B.V. Tel: +31-(0)30 880 48 00 info@drfalkpharma-benelux.
 
 ## Norge
 
-Vifor Pharma Nordiska AB Tlf: +46 8 5580 6600 info.nordic@viforpharma.com
+Falk Pharma Nordics AB Tlf: +46 (0)18 516 210 info@falkpharma.se
 
 ## Österreich
 
 Dr. Falk Pharma Österreich GmbH Tel: +43 (1) 577 3516 0 office@drfalkpharma.at
 
-Polska
+## Polska
 
-Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
+Ewopharma AG Sp. z o. o. Tel: +48 22 620 11 71 info@ewopharma.pl
 
-Portugal
+## Portugal
 
 Dr. Falk Pharma Portugal, Sociedade Unipessoal Lda. Tel: +351 21 412 61 70 farmacovigilancia@drfalkpharma.pt
 
 ## România
 
-Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
+Ewopharma Romania SRL Tel: +40 21 260 13 44 info@ewopharma.ro
 
 ## Slovenija
 
@@ -1687,29 +1694,33 @@ Ewopharma d.o.o. Tel: + 386 (0) 590 848 40 info@ewopharma.si
 
 ## Slovenská republika
 
-Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
+Ewopharma spol.s r.o. Tel: +421 2 5479 3508 info@ewopharma.sk
 
 ## Suomi/Finland
 
-Vifor Pharma Nordiska AB Puh/Tel: +46 8 5580 6600 info.nordic@viforpharma.com
+Falk Pharma Nordics AB Puh/Tel: +46 (0)18 516 210 info@falkpharma.se
 
 <div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 
-THESPIS PHARMACEUTICAL Ltd Τηλ : +357 22677710 pharmacovigilance@thespispharma.com
+THESPIS PHARMACEUTICAL Ltd
 
-Latvija UAB Morfėjus Tel: +370 5 2796328 biuras@morfejus.lt
+Τηλ: +357 22677710
+
+pharmacovigilance@thespispharma.com
+
+Latvija UAB Morfėjus Tel: +370 5 2796328
+
+[biuras@morfejus.lt](mailto:biuras@morfejus.lt)
 
 ## This leaflet was last revised in .
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-Sverige Vifor Pharma Nordiska AB Tel: +46 8 5580 6600 info.nordic@viforpharma.com
+Sverige Falk Pharma Nordics AB Tel: +46 (0)18 516 210
 
-## United Kingdom (Northern Ireland)
-
-Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
+info@falkpharma.se
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1721,10 +1732,10 @@ Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your child's doctor or pharmacist.
-- -This medicine has been prescribed for your child only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If your child get any side effects, talk to your child's doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your child's doctor or pharmacist.
+- This medicine has been prescribed for your child only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If your child get any side effects, talk to your child's doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1745,19 +1756,19 @@ Jorveza 0.2 mg/mL oral suspension is used in children and adolescents aged 2 to 
 
 ## Do not use Jorveza
 
-- -if your child is allergic to budesonide or any of the other ingredients of this medicine (listed in section 6).
+- if your child is allergic to budesonide or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before using Jorveza if your child has:
 
-- -infections
-- -high blood pressure
-- -diabetes, or if somebody in their family has diabetes
-- -weakening of the bones (osteoporosis)
-- -ulcers in the stomach or first part of the small intestine (peptic ulcer)
-- -increased pressure in their eye (which can cause glaucoma) or eye problems such as clouding of the lens (cataracts) or if somebody in their family has glaucoma
-- -liver disease.
+- infections
+- high blood pressure
+- diabetes, or if somebody in their family has diabetes
+- weakening of the bones (osteoporosis)
+- ulcers in the stomach or first part of the small intestine (peptic ulcer)
+- increased pressure in their eye (which can cause glaucoma) or eye problems such as clouding of the lens (cataracts) or if somebody in their family has glaucoma
+- liver disease.
 
 If your child has any of the conditions mentioned above they may be at increased risk of side effects. Your child's doctor will decide on the appropriate measures and if it is still all right for your child to take this medicine.
 
@@ -1767,17 +1778,17 @@ If your child develops swelling of their face, particularly around their mouth (
 
 This medicine may cause typical side effects of corticosteroid medicines and may affect all parts of the body, particularly when your child takes this medicine at high doses and over a long time (see section 4).
 
-Further precautions during treatmentwith this medicine
+## Further precautions during treatmentwith this medicine
 
-- -Contact your doctor if your child gets blurred vision or has other problems with their vision.
+- Contact your doctor if your child gets blurred vision or has other problems with their vision.
 
 Take the following precautions during treatment with this medicine because your child's immune system may be weakened:
 
-- -Tell your doctor if your child gets fungal infections in their mouth, throat and food pipe or if you think your child has any infection during treatment with this medicine. Symptoms of fungal infection can be white spots in the mouth and throat and difficulty in swallowing. The symptoms of some infections can be unusual or less noticeable.
-- -Keep your child away from people who have chickenpox or herpes zoster (shingles) if your child has not had these infections. The effects of these illnesses can be much more severe during treatment with this medicine. If your child does come into contact with chickenpox or shingles, see their doctor straight away. Please also report your child's vaccination status to their doctor.
-- -Tell your child's doctor if your child has not yet had measles and/or if and when they have received their last vaccination for this disease.
-- -If your child needs to be vaccinated please speak to their doctor first.
-- -If you know that your child is due to have an operation please tell their doctor that they are taking Jorveza.
+- Tell your doctor if your child gets fungal infections in their mouth, throat and food pipe or if you think your child has any infection during treatment with this medicine. Symptoms of fungal infection can be white spots in the mouth and throat and difficulty in swallowing. The symptoms of some infections can be unusual or less noticeable.
+- Keep your child away from people who have chickenpox or herpes zoster (shingles) if your child has not had these infections. The effects of these illnesses can be much more severe during treatment with this medicine. If your child does come into contact with chickenpox or shingles, see their doctor straight away. Please also report your child's vaccination status to their doctor.
+- Tell your child's doctor if your child has not yet had measles and/or if and when they have received their last vaccination for this disease.
+- If your child needs to be vaccinated please speak to their doctor first.
+- If you know that your child is due to have an operation please tell their doctor that they are taking Jorveza.
 
 The oral suspension could affect the results of adrenal function tests (ACTH stimulation test) ordered by your child's doctor or in hospital. Tell doctors that your child is taking Jorveza before your child has any tests.
 
@@ -1789,12 +1800,12 @@ The oral suspension is not recommended for children aged under 2. The safety and
 
 Tell your doctor or pharmacist if your child is taking, has recently taken or might take any other medicines. Some of these medicines may increase the effects of the budesonide oral suspension and the doctor may wish to monitor your child carefully if they are taking these medicines. In particular:
 
-- -ketoconazole or itraconazole (to treat fungal infections)
-- -clarithromycin, an antibiotic medicine used to treat infections
-- -ritonavir and cobicistat (to treat HIV infections)
-- -oestrogens (used for hormone replacement therapy or contraception)
-- -cardiac glycosides such as digoxin (medicines used to treat heart conditions)
-- -diuretics (to remove excess fluid from the body).
+- ketoconazole or itraconazole (to treat fungal infections)
+- clarithromycin, an antibiotic medicine used to treat infections
+- ritonavir and cobicistat (to treat HIV infections)
+- oestrogens (used for hormone replacement therapy or contraception)
+- cardiac glycosides such as digoxin (medicines used to treat heart conditions)
+- diuretics (to remove excess fluid from the body).
 
 ## Jorveza with food and drink
 
@@ -1852,7 +1863,7 @@ Depending on the patient's response to the treatment, 2 mg budesonide as one ora
 
 ## Duration of treatment
 
-Initially, your child's treatment should last about 12 to 24 weeks.
+## Initially, your child's treatment should last about 12 to 24 weeks.
 
 After treatment of the acute episode, your child's doctor will decide how long the treatment should continue and at what dose depending on your child's condition and response to the treatment.
 
@@ -1902,7 +1913,7 @@ If your child has any problem with their kidneys or liver, talk to their doctor.
 
 ## If you use more Jorveza than you should
 
-If  your child has taken more oral suspension than they should, your child should take the next dose as prescribed. They should not take a smaller amount. Ask your child's doctor or pharmacist if you are in doubt. Take the carton and this leaflet with you if possible.
+If your child has taken more oral suspension than they should, your child should take the next dose as prescribed. They should not take a smaller amount. Ask your child's doctor or pharmacist if you are in doubt. Take the carton and this leaflet with you if possible.
 
 ## If you forget to use Jorveza
 
@@ -1920,69 +1931,70 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Stop using the oral suspension and seek medical attention immediately if you notice any of the following symptoms:
 
-- -swelling of the face, particularly of the eyelids, lips, tongue or throat (angioedema) which may be symptoms of an allergic reaction.
+- swelling of the face, particularly of the eyelids, lips, tongue or throat (angioedema) which may be symptoms of an allergic reaction.
 
 The following side effects have been reported during the use of this medicine:
 
 ## Very common: may affect more than 1 in 10 people
 
-- -fungal infections in the gullet (food pipe) (which can cause pain or discomfort when swallowing)
-- -fungal infections in the mouth and throat (symptoms can be white spots)
+- fungal infections in the gullet (food pipe) (which can cause pain or discomfort when swallowing)
+- fungal infections in the mouth and throat (symptoms can be white spots)
 
 ## Common: may affect up to 1 in 10 people
 
-- -headache
-- -heartburn
-- -indigestion
-- -feeling sick (nausea)
-- -tingling or numbness in your mouth, dry mouth
-- -taste disorder, burning tongue
-- -upper abdominal (belly) pain
-- -tiredness
-- -decreased amount of the hormone cortisol in your blood
-- -dry eyes
-- -difficulty in sleeping
-- -problems with tongue
-- -cold sore (oral herpes)
+- headache
+- heartburn
+- indigestion
+- feeling sick (nausea)
+- tingling or numbness in your mouth, dry mouth
+- taste disorder, burning tongue
+- upper abdominal (belly) pain
+- tiredness
+- decreased amount of the hormone cortisol in your blood
+- dry eyes
 
 <div style=\"page-break-after: always\"></div>
 
+- difficulty in sleeping
+- problems with tongue
+- cold sore (oral herpes)
+
 ## Uncommon: may affect up to 1 in 100 people
 
-- -anxiety, agitation
-- -dizziness
-- -high blood pressure
-- -cough, dry throat, sore throat, common cold
-- -abdominal (belly) pain, abdominal distension (bloating)
-- -difficulty swallowing
-- -inflammation of the stomach, ulcers in the stomach
-- -swelling of the lips
-- -rash, itching rash
-- -sensation of foreign body
-- -pain in the mouth or throat
-- -painful gums
-- -decreased level of osteocalcin, weight gain.
+- anxiety, agitation
+- dizziness
+- high blood pressure
+- cough, dry throat, sore throat, common cold
+- abdominal (belly) pain, abdominal distension (bloating)
+- difficulty swallowing
+- inflammation of the stomach, ulcers in the stomach
+- swelling of the lips
+- rash, itching rash
+- sensation of foreign body
+- pain in the mouth or throat
+- painful gums
+- decreased level of osteocalcin, weight gain.
 
 The following side effects have been reported and are typical with medicines similar to this oral suspension (corticosteroids) and can therefore also occur with this medicine. The frequency of these events is currently not known:
 
-- -increased risk of infection
-- -Cushing's syndrome, which is associated with too much corticosteroid and causes roundness of the face, weight gain, high blood sugar, build-up of fluid in the tissues (e.g. swollen legs), reduced potassium level in the blood (hypokalaemia), irregular periods in women, unwanted body hair in women, impotence, stretch marks on the skin, acne
-- -slowed growth in children
-- -mood changes, such as depression, irritability or euphoria
-- -restlessness with increased physical activity, aggression
-- -increased pressure in the brain, possibly with increased pressure in the eye (swelling of the optic disk) in adolescents
-- -blurred vision
-- -increased risk of blood clots, inflammation of the blood vessels (which can happen when the medicine is stopped after long-term use)
-- -constipation, ulcers in the small intestine
-- -inflammation of the pancreas, which causes severe pain in the belly and back
-- -rash, red spots from bleeding in the skin, delayed wound healing, skin reactions such as contact dermatitis, bruising
-- -muscle and joint pain, muscle weakness, muscle twitching
-- -weakening of the bones (osteoporosis), bone damage due to poor circulation of blood (osteonecrosis)
-- -general feeling of being ill.
+- increased risk of infection
+- Cushing's syndrome, which is associated with too much corticosteroid and causes roundness of the face, weight gain, high blood sugar, build-up of fluid in the tissues (e.g. swollen legs), reduced potassium level in the blood (hypokalaemia), irregular periods in women, unwanted body hair in women, impotence, stretch marks on the skin, acne
+- slowed growth in children
+- mood changes, such as depression, irritability or euphoria
+- restlessness with increased physical activity, aggression
+- increased pressure in the brain, possibly with increased pressure in the eye (swelling of the optic disk) in adolescents
+- blurred vision
+- increased risk of blood clots, inflammation of the blood vessels (which can happen when the medicine is stopped after long-term use)
+- constipation, ulcers in the small intestine
+- inflammation of the pancreas, which causes severe pain in the belly and back
+- rash, red spots from bleeding in the skin, delayed wound healing, skin reactions such as contact dermatitis, bruising
+- muscle and joint pain, muscle weakness, muscle twitching
+- weakening of the bones (osteoporosis), bone damage due to poor circulation of blood (osteonecrosis)
+- general feeling of being ill.
 
 ## Reporting of side effects
 
-If your child gets any side effects, talk to your child's doctor or pharmacist . This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+If your child gets any side effects, talk to your child's doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Jorveza
 
@@ -1992,7 +2004,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and bottle after 'EXP'. The expiry date refers to the last day of that month.
 
-After first opening: use within 6 weeks.
+After first opening: use within 10 weeks.
 
 Do not store above 25 °C.
 
@@ -2010,47 +2022,77 @@ The other ingredients are sucrose, purified water, sodium benzoate (E 211), diso
 
 ## What Jorveza looks like and contents of the pack
 
-Jorveza 0.2 mg/mL oral suspension is a whitish, viscous suspension. It comes in a bottle containing 165 mL of oral suspension with one graduated oral syringe for oral administration.
+Jorveza 0.2 mg/mL oral suspension is a whitish, viscous suspension.
+
+It comes in a bottle containing 165 mL of oral suspension with one graduated oral syringe for oral
+
+administration.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Dr. Falk Pharma GmbH Leinenweberstr. 5 79108 Freiburg im Breisgau Germany
+Dr. Falk Pharma GmbH Leinenweberstr. 5 79108 Freiburg im Breisgau
+
+Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Dr. Falk Pharma Benelux B.V. Tél/Tel: +32-(0)16 40 40 85 info@drfalkpharma-benelux.eu
+Dr. Falk Pharma Benelux B.V. Tél/Tel: +32-(0)16 40 40 85
+
+[info@drfalkpharma-benelux.eu](mailto:info@drfalkpharma-benelux.eu)
 
 ## България
 
-Dr. Falk Pharma GmbH Te л : +49 761 1514 0
+ЕВОФАРМА ЕООД Teл: +359 2 962 12 00
 
-zentrale@drfalkpharma.de
+info@ewopharma.bg
 
 ## Česká republika
 
 Ewopharma, spol. s r. o.
 
-Tel: +420 267 311 613 info@ewopharma.cz
+Tel: +420 267 311 613
 
-Danmark Vifor Pharma Nordiska AB Tlf.: +46 8 5580 6600
+[info@ewopharma.cz](mailto:info@ewopharma.cz)
 
-[info.nordic@viforpharma.com](mailto:info.nordic@viforpharma.com)
+## Danmark
 
-Lietuva UAB Morfėjus Tel: +370 5 2796328 biuras@morfejus.lt
+Falk Pharma Nordics AB
+
+Tlf.: +46 (0)18 516 210
+
+info@falkpharma.se
+
+## Lietuva
+
+UAB Morfėjus
+
+Tel: +370 5 2796328
+
+[biuras@morfejus.lt](mailto:biuras@morfejus.lt)
 
 ## Luxembourg/Luxemburg
 
-Dr. Falk Pharma Benelux B.V. Tél/Tel: +32-(0)16 40 40 85 info@drfalkpharma-benelux.eu
+Dr. Falk Pharma Benelux B.V.
 
-Magyarország Ewopharma Hungary Kft.
+Tél/Tel: +32-(0)16 40 40 85
 
-Tel.: +36 1 200 4650 info@ewopharma.hu
+[info@drfalkpharma-benelux.eu](mailto:info@drfalkpharma-benelux.eu)
+
+## Magyarország
+
+Ewopharma Hungary Kft.
+
+Tel.: +36 1 200 4650
+
+info@ewopharma.hu
 
 ## Malta
 
-Dr. Falk Pharma GmbH Tel: +49 761 1514 0
+Dr. Falk Pharma GmbH
+
+Tel: +49 761 1514 0
 
 [zentrale@drfalkpharma.de](mailto:zentrale@drfalkpharma.de)
 
@@ -2066,13 +2108,13 @@ Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
 
 ## Ελλάδα
 
-GALENICA A.E T ηλ : +30 210 52 81 700 contact@galenica.gr
+GALENICA A.E Tηλ: +30 210 52 81 700 contact@galenica.gr
 
-España
+## España
 
 Dr. Falk Pharma España Tel: +34 91 372 95 08 drfalkpharma@drfalkpharma.es
 
-France
+## France
 
 Dr. Falk Pharma SAS Tél: +33(0)1 78 90 02 71 contact.fr@drfalkpharma.fr
 
@@ -2080,7 +2122,7 @@ Dr. Falk Pharma SAS Tél: +33(0)1 78 90 02 71 contact.fr@drfalkpharma.fr
 
 Würth d.o.o. Tel: +385 1 4650358 wurth@zg.t-com.hr
 
-Ireland
+## Ireland
 
 Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
 
@@ -2092,13 +2134,11 @@ Dr. Falk Pharma GmbH Sími: +49 761 1514 0 zentrale@drfalkpharma.de
 
 Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
 
-Κύπρος
+## Κύπρος
 
-THESPIS PHARMACEUTICAL Ltd Τηλ : +357 22677710 pharmacovigilance@thespispharma.com
+THESPIS PHARMACEUTICAL Ltd Τηλ: +357 22677710 pharmacovigilance@thespispharma.com
 
-## Latvija
-
-UAB Morfėjus Tel: +370 5 2796328 biuras@morfejus.lt
+Latvija UAB Morfėjus Tel: +370 5 2796328 biuras@morfejus.lt
 
 ## Nederland
 
@@ -2106,7 +2146,7 @@ Dr. Falk Pharma Benelux B.V. Tel: +31-(0)30 880 48 00 info@drfalkpharma-benelux.
 
 ## Norge
 
-Vifor Pharma Nordiska AB Tlf: +46 8 5580 6600 info.nordic@viforpharma.com
+Falk Pharma Nordics AB Tlf: +46 (0)18 516 210 info@falkpharma.se
 
 ## Österreich
 
@@ -2114,7 +2154,7 @@ Dr. Falk Pharma Österreich GmbH Tel: +43 (1) 577 3516 0 office@drfalkpharma.at
 
 ## Polska
 
-Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
+Ewopharma AG Sp. z o. o. Tel: +48 22 620 11 71 info@ewopharma.pl
 
 ## Portugal
 
@@ -2122,7 +2162,7 @@ Dr. Falk Pharma Portugal, Sociedade Unipessoal Lda. Tel: +351 21 412 61 70 farma
 
 ## România
 
-Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
+Ewopharma Romania SRL Tel: +40 21 260 13 44 info@ewopharma.ro
 
 ## Slovenija
 
@@ -2130,15 +2170,15 @@ Ewopharma d.o.o. Tel: + 386 (0) 590 848 40 info@ewopharma.si
 
 ## Slovenská republika
 
-Dr. Falk Pharma GmbH Tel: +49 761 1514 0 zentrale@drfalkpharma.de
+Ewopharma spol.s r.o. Tel: +421 2 5479 3508 info@ewopharma.sk
 
 ## Suomi/Finland
 
-Vifor Pharma Nordiska AB Puh/Tel: +46 8 5580 6600 info.nordic@viforpharma.com
+Falk Pharma Nordics AB Puh/Tel: +46 (0)18 516 210 info@falkpharma.se
 
 ## Sverige
 
-Vifor Pharma Nordiska AB Tel: +46 8 5580 6600 info.nordic@viforpharma.com
+Falk Pharma Nordics AB Tel: +46 (0)18 516 210 info@falkpharma.se
 
 <div style=\"page-break-after: always\"></div>
 

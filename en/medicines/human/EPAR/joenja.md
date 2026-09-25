@@ -1,11 +1,11 @@
 ---
-document_datetime: 2026-09-15 14:42:00
+document_datetime: 2026-09-25 10:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/joenja.html
 document_name: joenja.html
 version: success
-processing_time: 0.1433055
-conversion_datetime: 2026-09-23 07:32:55.003407
+processing_time: 0.1429792
+conversion_datetime: 2026-09-25 19:53:58.448817
 docling_version:
   docling-serve: 1.34.0
   docling-jobkit: 3.7.0
@@ -16,83 +16,6 @@ docling_version:
   python: cpython-313 (3.13.11)
   plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Campaigns](/en/news-events/ema-campaigns)
-    - [Speeches](/en/news-events/speeches)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health professionals](/en/partners-networks/animal-health-professionals)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Joenja
-
 # Joenja
 
 [RSS](/en/individual-human-medicine.xml/276066)
@@ -189,7 +112,7 @@ English (EN) (142.5 KB - PDF)
 
 [View](/en/documents/overview/joenja-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-403)
+[Other languages (22)](#file-language-dropdown-607)
 
 български (BG) (146.71 KB - PDF)
 
@@ -335,157 +258,155 @@ English (EN) (3.08 MB - PDF)
 
 Joenja : EPAR - Product information
 
-English (EN) (596.1 KB - PDF)
+English (EN) (477.92 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/en/documents/product-information/joenja-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-320)
+[Other languages (23)](#file-language-dropdown-297)
 
-български (BG) (536.21 KB - PDF)
+български (BG) (512.85 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/bg/documents/product-information/joenja-epar-product-information_bg.pdf)
 
-español (ES) (556.91 KB - PDF)
+español (ES) (460.53 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/es/documents/product-information/joenja-epar-product-information_es.pdf)
 
-čeština (CS) (601.99 KB - PDF)
+čeština (CS) (501.86 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/cs/documents/product-information/joenja-epar-product-information_cs.pdf)
 
-dansk (DA) (524.03 KB - PDF)
+dansk (DA) (433.53 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/da/documents/product-information/joenja-epar-product-information_da.pdf)
 
-Deutsch (DE) (573.42 KB - PDF)
+Deutsch (DE) (476.29 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/de/documents/product-information/joenja-epar-product-information_de.pdf)
 
-eesti (ET) (578 KB - PDF)
+eesti (ET) (462.09 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/et/documents/product-information/joenja-epar-product-information_et.pdf)
 
-ελληνικά (EL) (618.57 KB - PDF)
+ελληνικά (EL) (510.94 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/el/documents/product-information/joenja-epar-product-information_el.pdf)
 
-français (FR) (546.36 KB - PDF)
+français (FR) (451.53 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/fr/documents/product-information/joenja-epar-product-information_fr.pdf)
 
-hrvatski (HR) (610.78 KB - PDF)
+hrvatski (HR) (494.03 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/hr/documents/product-information/joenja-epar-product-information_hr.pdf)
 
-italiano (IT) (447.3 KB - PDF)
+italiano (IT) (471.48 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/it/documents/product-information/joenja-epar-product-information_it.pdf)
 
-latviešu (LV) (592.07 KB - PDF)
+latviešu (LV) (487.12 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/lv/documents/product-information/joenja-epar-product-information_lv.pdf)
 
-lietuvių (LT) (534.8 KB - PDF)
+lietuvių (LT) (456.86 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/lt/documents/product-information/joenja-epar-product-information_lt.pdf)
 
-magyar (HU) (624.16 KB - PDF)
+magyar (HU) (520.51 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/hu/documents/product-information/joenja-epar-product-information_hu.pdf)
 
-Malti (MT) (645 KB - PDF)
+Malti (MT) (524.57 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/mt/documents/product-information/joenja-epar-product-information_mt.pdf)
 
-Nederlands (NL) (536.89 KB - PDF)
+Nederlands (NL) (458.96 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/nl/documents/product-information/joenja-epar-product-information_nl.pdf)
 
-polski (PL) (617.53 KB - PDF)
+polski (PL) (513.71 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/pl/documents/product-information/joenja-epar-product-information_pl.pdf)
 
-português (PT) (554.47 KB - PDF)
+português (PT) (460.47 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/pt/documents/product-information/joenja-epar-product-information_pt.pdf)
 
-română (RO) (614.88 KB - PDF)
+română (RO) (509.3 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/ro/documents/product-information/joenja-epar-product-information_ro.pdf)
 
-slovenčina (SK) (607.03 KB - PDF)
+slovenčina (SK) (500.15 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/sk/documents/product-information/joenja-epar-product-information_sk.pdf)
 
-slovenščina (SL) (595.18 KB - PDF)
+slovenščina (SL) (492.42 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/sl/documents/product-information/joenja-epar-product-information_sl.pdf)
 
-suomi (FI) (538.59 KB - PDF)
+suomi (FI) (447.35 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/fi/documents/product-information/joenja-epar-product-information_fi.pdf)
 
-svenska (SV) (547.4 KB - PDF)
+svenska (SV) (452.95 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/sv/documents/product-information/joenja-epar-product-information_sv.pdf)
 
-Íslenska (IS) (562.61 KB - PDF)
+Íslenska (IS) (455.38 KB - PDF)
 
-**First published:** 28/05/2026
+**First published:** 28/05/2026 **Last updated:** 25/09/2026
 
 [View](/is/documents/product-information/joenja-epar-product-information_is.pdf)
 
-norsk (NO) (541.59 KB - PDF)
+**Latest procedure affecting product information:** VR/0000371992
 
-**First published:** 28/05/2026
-
-[View](/no/documents/product-information/joenja-epar-product-information_no.pdf)
+23/09/2026
 
 icon globe
 
@@ -510,7 +431,7 @@ English (EN) (70.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/joenja-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-964)
+[Other languages (24)](#file-language-dropdown-804)
 
 български (BG) (90.69 KB - PDF)
 
@@ -694,7 +615,7 @@ Joenja is indicated for the treatment of activated phosphoinositide 3-kinase del
 - **Marketing authorisation issued**
     - 21/05/2026
 - **Revision**
-    - 1
+    - 2
 
 ## Assessment history
 
@@ -706,9 +627,9 @@ Collapse section
 
 Joenja : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.27 KB - PDF)
+English (EN) (136.86 KB - PDF)
 
-**First published:** 15/09/2026
+**First published:** 15/09/2026 **Last updated:** 25/09/2026
 
 [View](/en/documents/procedural-steps-after/joenja-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -756,6 +677,6 @@ English (EN) (158.36 KB - PDF)
 
 **This page was last updated on**
 
-15/09/2026
+25/09/2026
 
 ## Share this page

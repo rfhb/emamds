@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 16:02:00
+document_datetime: 2026-09-24 14:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/atazanavir-viatris.html
 document_name: atazanavir-viatris.html
 version: success
-processing_time: 0.1133468
-conversion_datetime: 2026-05-10 12:50:29.176758
+processing_time: 0.1657176
+conversion_datetime: 2026-09-25 19:51:37.49142
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # Atazanavir Viatris (previously Atazanavir Mylan)
 
@@ -56,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Atazanavir Viatris used?
+### How is Atazanavir Viatris used?
 
 Atazanavir Viatris is available as capsules. It can only be obtained with a prescription and treatment should be started by a doctor who has experience in the treatment of HIV infection.
 
@@ -66,7 +66,7 @@ Atazanavir Viatris is normally given with ritonavir to boost its action but doct
 
 For more information about using Atazanavir Viatris, see the package leaflet or contract your doctor or pharmacist.
 
-## How does Atazanavir Viatris work?
+### How does Atazanavir Viatris work?
 
 The active substance in Atazanavir Viatris, atazanavir, is a protease inhibitor. It blocks an enzyme called protease, which is needed for the virus to multiply. Blocking the enzyme prevents the virus from multiplying, slowing down the spread of infection.
 
@@ -76,27 +76,27 @@ Atazanavir Viatris, taken in combination with other antiviral medicines, reduces
 
 Atazanavir Viatris does not cure HIV infection or AIDS, but it may delay the damage to the immune system and the development of infections and diseases associated with AIDS.
 
-## How has Atazanavir Viatris been studied?
+### How has Atazanavir Viatris been studied?
 
 Studies on the benefits and risks of the active substance in the authorised use have already been carried out in the reference medicine, Reyataz, and do not need to be repeated for Atazanavir Viatris.
 
 As for every medicine, the company provided studies on the quality of Atazanavir Viatris. The company also carried out a study that showed that it is 'bioequivalent' to the reference medicine. Two medicines are bioequivalent when they produce the same levels of the active substance in the body and are therefore expected to have the same effect.
 
-## What are the benefits and risks of Atazanavir Viatris?
+### What are the benefits and risks of Atazanavir Viatris?
 
 Because Atazanavir Viatris is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why is Atazanavir Viatris authorised in the EU?
+### Why is Atazanavir Viatris authorised in the EU?
 
 The European Medicines Agency concluded that, in accordance with EU requirements, Atazanavir Viatris has been shown to have comparable quality and to be bioequivalent to Reyataz. Therefore, the Agency's view was that, as for Reyataz, the benefits of Atazanavir Viatris outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Atazanavir Viatris?
+### What measures are being taken to ensure the safe and effective use of Atazanavir Viatris?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Atazanavir Viatris have been included in the summary of product characteristics and the package leaflet. Any additional measures in place for Reyataz also apply to Atazanavir Viatris where appropriate.
 
 As for all medicines, data on the use of Atazanavir Viatris are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Atazanavir Viatris
+### Other information about Atazanavir Viatris
 
 Atazanavir Mylan received a marketing authorisation valid throughout the EU on 22 August 2016.
 
@@ -112,7 +112,7 @@ English (EN) (145.06 KB - PDF)
 
 [View](/en/documents/overview/atazanavir-mylan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-342)
+[Other languages (22)](#file-language-dropdown-218)
 
 български (BG) (160.88 KB - PDF)
 
@@ -144,7 +144,7 @@ Deutsch (DE) (140.32 KB - PDF)
 
 [View](/de/documents/overview/atazanavir-mylan-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (133.48 KB - PDF)
+eesti (ET) (133.48 KB - PDF)
 
 **First published:** 31/01/2017 **Last updated:** 18/06/2025
 
@@ -174,13 +174,13 @@ italiano (IT) (135.72 KB - PDF)
 
 [View](/it/documents/overview/atazanavir-mylan-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (184.33 KB - PDF)
+latviešu (LV) (184.33 KB - PDF)
 
 **First published:** 31/01/2017 **Last updated:** 18/06/2025
 
 [View](/lv/documents/overview/atazanavir-mylan-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (168.09 KB - PDF)
+lietuvių (LT) (168.09 KB - PDF)
 
 **First published:** 31/01/2017 **Last updated:** 18/06/2025
 
@@ -234,7 +234,7 @@ slovenščina (SL) (165.31 KB - PDF)
 
 [View](/sl/documents/overview/atazanavir-mylan-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (133.47 KB - PDF)
+suomi (FI) (133.47 KB - PDF)
 
 **First published:** 31/01/2017 **Last updated:** 18/06/2025
 
@@ -250,167 +250,168 @@ svenska (SV) (134.76 KB - PDF)
 
 Atazanavir Viatris : EPAR - Product Information
 
-English (EN) (881.14 KB - PDF)
+English (EN) (723.22 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/en/documents/product-information/atazanavir-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-533)
+[Other languages (24)](#file-language-dropdown-88)
 
-български (BG) (728.14 KB - PDF)
+български (BG) (727.68 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/bg/documents/product-information/atazanavir-viatris-epar-product-information_bg.pdf)
 
-español (ES) (542.15 KB - PDF)
+español (ES) (690.71 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/es/documents/product-information/atazanavir-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (583.7 KB - PDF)
+čeština (CS) (865.01 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/cs/documents/product-information/atazanavir-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (532.4 KB - PDF)
+dansk (DA) (755.77 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/da/documents/product-information/atazanavir-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (549.07 KB - PDF)
+Deutsch (DE) (922.81 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/de/documents/product-information/atazanavir-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (489.95 KB - PDF)
+eesti (ET) (640.99 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/et/documents/product-information/atazanavir-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (441 KB - PDF)
+ελληνικά (EL) (931.45 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/el/documents/product-information/atazanavir-viatris-epar-product-information_el.pdf)
 
-français (FR) (543.91 KB - PDF)
+français (FR) (818.55 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/fr/documents/product-information/atazanavir-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (552.41 KB - PDF)
+hrvatski (HR) (646.24 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/hr/documents/product-information/atazanavir-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (508.74 KB - PDF)
+italiano (IT) (796.23 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information/atazanavir-viatris-epar-product-information_is.pdf)
-
-italiano (IT) (527.44 KB - PDF)
-
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/it/documents/product-information/atazanavir-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (642.72 KB - PDF)
+latviešu (LV) (713.25 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/lv/documents/product-information/atazanavir-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (895.15 KB - PDF)
+lietuvių (LT) (708.13 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/lt/documents/product-information/atazanavir-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (556.09 KB - PDF)
+magyar (HU) (830.65 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/hu/documents/product-information/atazanavir-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (570.05 KB - PDF)
+Malti (MT) (844.22 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/mt/documents/product-information/atazanavir-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (590.89 KB - PDF)
+Nederlands (NL) (958.69 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/nl/documents/product-information/atazanavir-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (506.14 KB - PDF)
+polski (PL) (761.29 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information/atazanavir-viatris-epar-product-information_no.pdf)
-
-polski (PL) (669.68 KB - PDF)
-
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/pl/documents/product-information/atazanavir-viatris-epar-product-information_pl.pdf)
 
-português (PT) (521.65 KB - PDF)
+português (PT) (549.23 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/pt/documents/product-information/atazanavir-viatris-epar-product-information_pt.pdf)
 
-română (RO) (603.8 KB - PDF)
+română (RO) (919.76 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/ro/documents/product-information/atazanavir-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (579.87 KB - PDF)
+slovenčina (SK) (878.14 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/sk/documents/product-information/atazanavir-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (569.77 KB - PDF)
+slovenščina (SL) (484.63 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/sl/documents/product-information/atazanavir-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (502.06 KB - PDF)
+suomi (FI) (499.35 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/fi/documents/product-information/atazanavir-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (518.97 KB - PDF)
+svenska (SV) (519.27 KB - PDF)
 
-**First published:** 31/01/2017 **Last updated:** 07/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
 
 [View](/sv/documents/product-information/atazanavir-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000325156
+Íslenska (IS) (733.51 KB - PDF)
 
-05/05/2026
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
+
+[View](/is/documents/product-information/atazanavir-viatris-epar-product-information_is.pdf)
+
+norsk (NO) (726.98 KB - PDF)
+
+**First published:** 31/01/2017 **Last updated:** 24/09/2026
+
+[View](/no/documents/product-information/atazanavir-viatris-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000370730
+
+24/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -428,7 +429,7 @@ English (EN) (47.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/atazanavir-viatris-previously-atazanavir-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-286)
+[Other languages (24)](#file-language-dropdown-195)
 
 български (BG) (53.63 KB - PDF)
 
@@ -460,7 +461,7 @@ Deutsch (DE) (43.11 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/atazanavir-viatris-previously-atazanavir-mylan-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (43.7 KB - PDF)
+eesti (ET) (43.7 KB - PDF)
 
 **First published:** 31/01/2017 **Last updated:** 24/05/2025
 
@@ -484,25 +485,19 @@ hrvatski (HR) (71.34 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/atazanavir-viatris-previously-atazanavir-mylan-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (44.96 KB - PDF)
-
-**First published:** 31/01/2017 **Last updated:** 24/05/2025
-
-[View](/is/documents/all-authorised-presentations/atazanavir-viatris-previously-atazanavir-mylan-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (42.68 KB - PDF)
 
 **First published:** 31/01/2017 **Last updated:** 24/05/2025
 
 [View](/it/documents/all-authorised-presentations/atazanavir-viatris-previously-atazanavir-mylan-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (60.44 KB - PDF)
+latviešu (LV) (60.44 KB - PDF)
 
 **First published:** 31/01/2017 **Last updated:** 24/05/2025
 
 [View](/lv/documents/all-authorised-presentations/atazanavir-viatris-previously-atazanavir-mylan-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (63.63 KB - PDF)
+lietuvių (LT) (63.63 KB - PDF)
 
 **First published:** 31/01/2017 **Last updated:** 24/05/2025
 
@@ -525,12 +520,6 @@ Nederlands (NL) (44.65 KB - PDF)
 **First published:** 31/01/2017 **Last updated:** 24/05/2025
 
 [View](/nl/documents/all-authorised-presentations/atazanavir-viatris-previously-atazanavir-mylan-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (35.61 KB - PDF)
-
-**First published:** 31/01/2017 **Last updated:** 24/05/2025
-
-[View](/no/documents/all-authorised-presentations/atazanavir-viatris-previously-atazanavir-mylan-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (34.5 KB - PDF)
 
@@ -562,7 +551,7 @@ slovenščina (SL) (40.33 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/atazanavir-viatris-previously-atazanavir-mylan-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (54.37 KB - PDF)
+suomi (FI) (54.37 KB - PDF)
 
 **First published:** 31/01/2017 **Last updated:** 24/05/2025
 
@@ -574,27 +563,30 @@ svenska (SV) (35.22 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/atazanavir-viatris-previously-atazanavir-mylan-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (44.96 KB - PDF)
+
+**First published:** 31/01/2017 **Last updated:** 24/05/2025
+
+[View](/is/documents/all-authorised-presentations/atazanavir-viatris-previously-atazanavir-mylan-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (35.61 KB - PDF)
+
+**First published:** 31/01/2017 **Last updated:** 24/05/2025
+
+[View](/no/documents/all-authorised-presentations/atazanavir-viatris-previously-atazanavir-mylan-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Atazanavir Viatris (previously Atazanavir Mylan)
-
-Active substance
-
-atazanavir (as sulfate)
-
-International non-proprietary name (INN) or common name
-
-atazanavir
-
-Therapeutic area (MeSH)
-
-HIV Infections
-
-Anatomical therapeutic chemical (ATC) code
-
-J05AE08
+- **Name of medicine**
+    - Atazanavir Viatris (previously Atazanavir Mylan)
+- **Active substance**
+    - atazanavir (as sulfate)
+- **International non-proprietary name (INN) or common name**
+    - atazanavir
+- **Therapeutic area (MeSH)**
+    - HIV Infections
+- **Anatomical therapeutic chemical (ATC) code**
+    - J05AE08
 
 ### Pharmacotherapeutic group
 
@@ -602,35 +594,26 @@ Antivirals for systemic use
 
 ### Therapeutic indication
 
-Atazanavir Viatris, co-administered with low dose ritonavir, is indicated for the treatment of HIV 1 infected adults and paediatric patients 6 years of age and older in combination with other antiretroviral medicinal products. Based on available virological and clinical data from adult patients, no benefit is expected in patients with strains resistant to multiple protease inhibitors (≥ 4 PI mutations). There are very limited data available from children aged 6 to less than 18 years. The choice of Atazanavir  Viatrisin treatment experienced adult and paediatric patients should be based on individual viral resistance testing and the patient's treatment history.
+Atazanavir Viatris, co-administered with low dose ritonavir, is indicated for the treatment of HIV 1 infected adults and paediatric patients 6 years of age and older in combination with other antiretroviral medicinal products.
+
+Based on available virological and clinical data from adult patients, no benefit is expected in patients with strains resistant to multiple protease inhibitors (≥ 4 PI mutations). There are very limited data available from children aged 6 to less than 18 years.
+
+The choice of Atazanavir Viatrisin treatment experienced adult and paediatric patients should be based on individual viral resistance testing and the patient's treatment history.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004048
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Viatris Limited
-
-Damastown Industrial Park Dublin 15 Ireland
-
-Opinion adopted
-
-23/06/2016
-
-Marketing authorisation issued
-
-22/08/2016
-
-Revision
-
-21
+- **EMA product number**
+    - EMEA/H/C/004048
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+- **Marketing authorisation holder**
+    - Viatris Limited Damastown Industrial Park  Dublin 15  Ireland
+- **Opinion adopted**
+    - 23/06/2016
+- **Marketing authorisation issued**
+    - 22/08/2016
+- **Revision**
+    - 22
 
 ## Assessment history
 
@@ -638,13 +621,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Atazanavir Viatris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (161.41 KB - PDF)
+English (EN) (161.82 KB - PDF)
 
-**First published:** 24/05/2024 **Last updated:** 07/05/2026
+**First published:** 24/05/2024 **Last updated:** 24/09/2026
 
 [View](/en/documents/procedural-steps-after/atazanavir-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -656,7 +639,7 @@ English (EN) (146.21 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/atazanavir-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Atazanavir Mylan : EPAR - Public assessment report
 
@@ -681,6 +664,6 @@ English (EN) (402.71 KB - PDF)
 
 **This page was last updated on**
 
-07/05/2026
+24/09/2026
 
 ## Share this page

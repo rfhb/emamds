@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-05 18:08:27
+document_datetime: 2026-09-24 08:39:24
 document_pages: 66
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pregabalin-viatris-pharma-epar-product-information_en.pdf
 document_name: pregabalin-viatris-pharma-epar-product-information_en.pdf
 version: success
-processing_time: 16.776758
-conversion_datetime: 2025-12-18 12:00:27.389165
+processing_time: 96.6566583
+conversion_datetime: 2026-09-25 19:25:15.892075
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,9 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Pregabalin Viatris Pharma 25 mg hard capsules Pregabalin Viatris Pharma 50 mg hard capsules Pregabalin Viatris Pharma 75 mg hard capsules Pregabalin Viatris Pharma 100 mg hard capsules Pregabalin Viatris Pharma 150 mg hard capsules Pregabalin Viatris Pharma 200 mg hard capsules Pregabalin Viatris Pharma 225 mg hard capsules Pregabalin Viatris Pharma 300 mg hard capsules
+Pregabalin Viatris Pharma 25 mg hard capsules Pregabalin Viatris Pharma 50 mg hard capsules Pregabalin Viatris Pharma 75 mg hard capsules Pregabalin Viatris Pharma 100 mg hard capsules Pregabalin Viatris Pharma 150 mg hard capsules Pregabalin Viatris Pharma 200 mg hard capsules Pregabalin Viatris Pharma 225 mg hard capsules
+
+Pregabalin Viatris Pharma 300 mg hard capsules
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -38,7 +40,9 @@ Pregabalin Viatris Pharma 100 mg hard capsules Each hard capsule contains 100 mg
 
 Pregabalin Viatris Pharma 150 mg hard capsules Each hard capsule contains 150 mg of pregabalin.
 
-Pregabalin Viatris Pharma 200 mg hard capsules Each hard capsule contains 200 mg of pregabalin.
+Pregabalin Viatris Pharma 200 mg hard capsules
+
+Each hard capsule contains 200 mg of pregabalin.
 
 Pregabalin Viatris Pharma 225 mg hard capsules Each hard capsule contains 225 mg of pregabalin.
 
@@ -58,9 +62,7 @@ Pregabalin Viatris Pharma 100 mg hard capsules Each hard capsule also contains 1
 
 Pregabalin Viatris Pharma 150 mg hard capsules Each hard capsule also contains 16.50 mg lactose monohydrate.
 
-Pregabalin Viatris Pharma 200 mg hard capsules
-
-Each hard capsule also contains 22 mg lactose monohydrate.
+Pregabalin Viatris Pharma 200 mg hard capsules Each hard capsule also contains 22 mg lactose monohydrate.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -164,23 +166,14 @@ Pregabalin is removed effectively from plasma by haemodialysis (50% of drug in 4
 
 Table 1. Pregabalin Dose Adjustment Based on Renal Function
 
-| Creatinine clearance (CL cr ) (mL/min)            | Total pregabalin daily dose*                      | Total pregabalin daily dose*                      | Dose regimen                                      |
-|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-|                                                   | Starting dose (mg/day)                            | Maximum dose (mg/day)                             |                                                   |
-| ≥ 60                                              | 150                                               | 600                                               | BID or TID                                        |
-| ≥ 30 - < 60                                       | 75                                                | 300                                               | BID or TID                                        |
-| ≥ 15 - < 30                                       | 25 - 50                                           | 150                                               | Once Daily or BID                                 |
-| < 15                                              | 25                                                | 75                                                | Once Daily                                        |
-| Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) |
-|                                                   | 25                                                | 100                                               | Single dose +                                     |
-
-TID = Three divided doses
-
-BID = Two divided doses
-
-* Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose
-
-+ Supplementary dose is a single additional dose
+| Creatinine clearance (CLcr) (mL/min)              | Total pregabalin daily dose* - Starting dose (mg/day)   | Total pregabalin daily dose* - Maximum dose (mg/day)   | Dose regimen                                      |
+|---------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------|
+| ≥ 60                                              | 150                                                     | 600                                                    | BID or TID                                        |
+| ≥ 30 - < 60                                       | 75                                                      | 300                                                    | BID or TID                                        |
+| ≥ 15 - < 30                                       | 25 - 50                                                 | 150                                                    | Once Daily or BID                                 |
+| < 15                                              | 25                                                      | 75                                                     | Once Daily                                        |
+| Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg)       | Supplementary dosage following haemodialysis (mg)      | Supplementary dosage following haemodialysis (mg) |
+|                                                   | 25                                                      | 100                                                    | Single dose +                                     |
 
 ## Hepatic impairment
 
@@ -220,13 +213,17 @@ SCARs including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (T
 
 <div style=\"page-break-after: always\"></div>
 
-Dizziness, somnolence, loss of consciousness, confusion and mental impairment Pregabalin treatment has been associated with dizziness and somnolence, which could increase the occurrence of accidental injury (fall) in the elderly population. There have also been postmarketing reports of loss of consciousness, confusion and mental impairment. Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of the medicinal product.
+## Dizziness, somnolence, loss of consciousness, confusion and mental impairment
+
+Pregabalin treatment has been associated with dizziness and somnolence, which could increase the occurrence of accidental injury (fall) in the elderly population. There have also been postmarketing reports of loss of consciousness, confusion and mental impairment. Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of the medicinal product.
 
 ## Vision-related effects
 
 In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing. In the clinical studies where ophthalmologic testing was conducted, the incidence of visual acuity reduction and visual field changes was greater in pregabalin-treated patients than in placebo-treated patients; the incidence of fundoscopic changes was greater in placebo-treated patients (see section 5.1).
 
-In the postmarketing experience, visual adverse reactions have also been reported, including loss of vision, visual blurring or other changes of visual acuity, many of which were transient. Discontinuation of pregabalin may result in resolution or improvement of these visual symptoms.
+In the postmarketing experience, visual adverse reactions have also been reported, including loss of vision, visual blurring or other changes of visual acuity, many of which were transient.
+
+Discontinuation of pregabalin may result in resolution or improvement of these visual symptoms.
 
 ## Renal failure
 
@@ -250,11 +247,9 @@ There have been reports of severe respiratory depression in relation to pregabal
 
 ## Suicidal ideation and behaviour
 
-Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in several indications. A meta-analysis of randomised placebo controlled studies of anti-epileptic drugs has also shown a small increased risk of suicidal ideation and behaviour. The mechanism of this risk is not known. Cases of suicidal ideation and behaviour have been observed in patients treated with pregabalin in the postmarketing experience (see section 4.8). An epidemiological study using a self-controlled study design (comparing treatment periods with non-treatment periods within an individual) showed evidence of an increased risk of new onset of suicidal behaviour and death by suicide in patients treated with pregabalin
+Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in several indications. A meta-analysis of randomised placebo controlled studies of anti-epileptic drugs has also shown a small increased risk of suicidal ideation and behaviour. The mechanism of this risk is not known. Cases of suicidal ideation and behaviour have been observed in patients treated with pregabalin in the postmarketing experience (see section 4.8). An epidemiological study using a self-controlled study design (comparing treatment periods with non-treatment periods within an individual) showed evidence of an increased risk of new onset of suicidal behaviour and death by suicide in patients treated with pregabalin Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge. Patients should be monitored for signs of suicidal ideation and behaviour and appropriate treatment should be considered. Discontinuation of pregabalin treatment should be considered in case of suicidal ideation and behaviour.
 
 <div style=\"page-break-after: always\"></div>
-
-Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge. Patients should be monitored for signs of suicidal ideation and behaviour and appropriate treatment should be considered. Discontinuation of pregabalin treatment should be considered in case of suicidal ideation and behaviour.
 
 ## Reduced lower gastrointestinal tract function
 
@@ -298,7 +293,7 @@ Pregabalin Viatris Pharma contains less than 1 mmol sodium (23 mg) per hard caps
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (&lt; 2% of a dose recovered in urine as metabolites), does not inhibit drug metabolism in vitro , and is not bound to plasma proteins, it is unlikely to produce, or be subject to, pharmacokinetic interactions.
+Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (&lt; 2% of a dose recovered in urine as metabolites), does not inhibit drug metabolism in vitro, and is not bound to plasma proteins, it is unlikely to produce, or be subject to, pharmacokinetic interactions.
 
 ## In vivo studies and population pharmacokinetic analysis
 
@@ -374,58 +369,58 @@ Additional reactions reported from postmarketing experience are included in ital
 
 Table 2. Pregabalin Adverse Drug Reactions
 
-| System Organ Class                                                            | Adverse drug reactions                                                                                                                                                                                                                                                 |
-|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                                                   | Infections and infestations                                                                                                                                                                                                                                            |
-| Common                                                                        | Nasopharyngitis                                                                                                                                                                                                                                                        |
-| Blood and lymphatic system disorders                                          | Blood and lymphatic system disorders                                                                                                                                                                                                                                   |
-| Uncommon                                                                      | Neutropaenia                                                                                                                                                                                                                                                           |
-| Immune system disorders                                                       | Immune system disorders                                                                                                                                                                                                                                                |
-| Uncommon                                                                      | Hypersensitivity                                                                                                                                                                                                                                                       |
-| Rare Angioedema, allergic reaction Metabolism and nutrition disorders         | Rare Angioedema, allergic reaction Metabolism and nutrition disorders                                                                                                                                                                                                  |
-| Common                                                                        | Appetite increased                                                                                                                                                                                                                                                     |
-| Uncommon                                                                      | Anorexia, hypoglycaemia                                                                                                                                                                                                                                                |
-| Psychiatric disorders                                                         | Psychiatric disorders                                                                                                                                                                                                                                                  |
-| Common                                                                        | Euphoric mood, confusion, irritability, disorientation, insomnia, libido decreased                                                                                                                                                                                     |
-| Uncommon                                                                      | Hallucination, panic attack, restlessness, agitation, depression, depressed mood, elevated mood, aggression , mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy                                           |
-| Rare                                                                          | Disinhibition, suicidal behaviour, suicidal ideation                                                                                                                                                                                                                   |
-| Not known                                                                     | Drug dependence                                                                                                                                                                                                                                                        |
-| Nervous system disorders                                                      | Nervous system disorders                                                                                                                                                                                                                                               |
-| Very Common                                                                   | Dizziness, somnolence, headache                                                                                                                                                                                                                                        |
-| Common                                                                        | Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy                                                                                             |
-| Uncommon                                                                      | Syncope, stupor, myoclonus, loss of consciousness , psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment , speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise |
-| Rare                                                                          | Convulsions , parosmia, hypokinesia, dysgraphia, parkinsonism                                                                                                                                                                                                          |
-| Eye disorders                                                                 | Eye disorders                                                                                                                                                                                                                                                          |
-| Common                                                                        | Vision blurred, diplopia                                                                                                                                                                                                                                               |
-| Uncommon                                                                      | Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation                                                                                  |
-| Rare                                                                          | Vision loss , keratitis , oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness                                                                                                                                                       |
-| Ear and labyrinth disorders                                                   | Ear and labyrinth disorders                                                                                                                                                                                                                                            |
-| Common                                                                        | Vertigo                                                                                                                                                                                                                                                                |
-| Uncommon                                                                      | Hyperacusis                                                                                                                                                                                                                                                            |
-| Cardiac disorders                                                             | Cardiac disorders                                                                                                                                                                                                                                                      |
-| Uncommon                                                                      | Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure                                                                                                                                                                          |
-| Rare QT prolongation , sinus tachycardia, sinus arrhythmia Vascular disorders | Rare QT prolongation , sinus tachycardia, sinus arrhythmia Vascular disorders                                                                                                                                                                                          |
-| Uncommon                                                                      | Hypotension, hypertension, hot flushes, flushing, peripheral                                                                                                                                                                                                           |
-|                                                                               | coldness                                                                                                                                                                                                                                                               |
-| Respiratory, thoracic and mediastinal disorders                               | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                        |
-| Uncommon Rare                                                                 | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness Pulmonary oedema , throat tightness                                                                                                                                                     |
-| Not known                                                                     | Respiratory depression                                                                                                                                                                                                                                                 |
+| System Organ Class                                                           | Adverse drug reactions                                                                                                                                                                                                                                               |
+|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                                                  | Infections and infestations                                                                                                                                                                                                                                          |
+| Common                                                                       | Nasopharyngitis                                                                                                                                                                                                                                                      |
+| Blood and lymphatic system disorders                                         | Blood and lymphatic system disorders                                                                                                                                                                                                                                 |
+| Uncommon                                                                     | Neutropaenia                                                                                                                                                                                                                                                         |
+| Immune system disorders                                                      | Immune system disorders                                                                                                                                                                                                                                              |
+| Uncommon                                                                     | Hypersensitivity                                                                                                                                                                                                                                                     |
+| Rare Angioedema, allergic reaction Metabolism and nutrition disorders        | Rare Angioedema, allergic reaction Metabolism and nutrition disorders                                                                                                                                                                                                |
+| Common                                                                       | Appetite increased                                                                                                                                                                                                                                                   |
+| Uncommon                                                                     | Anorexia, hypoglycaemia                                                                                                                                                                                                                                              |
+| Psychiatric disorders                                                        | Psychiatric disorders                                                                                                                                                                                                                                                |
+| Common                                                                       | Euphoric mood, confusion, irritability, disorientation, insomnia, libido decreased                                                                                                                                                                                   |
+| Uncommon                                                                     | Hallucination, panic attack, restlessness, agitation, depression, depressed mood, elevated mood, aggression, mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy                                          |
+| Rare                                                                         | Disinhibition, suicidal behaviour, suicidal ideation                                                                                                                                                                                                                 |
+| Not known                                                                    | Drug dependence                                                                                                                                                                                                                                                      |
+| Nervous system disorders                                                     | Nervous system disorders                                                                                                                                                                                                                                             |
+| Very Common                                                                  | Dizziness, somnolence, headache                                                                                                                                                                                                                                      |
+| Common                                                                       | Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy                                                                                           |
+| Uncommon                                                                     | Syncope, stupor, myoclonus, loss of consciousness, psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment, speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise |
+| Rare                                                                         | Convulsions, parosmia, hypokinesia, dysgraphia, parkinsonism                                                                                                                                                                                                         |
+| Eye disorders                                                                | Eye disorders                                                                                                                                                                                                                                                        |
+| Common                                                                       | Vision blurred, diplopia                                                                                                                                                                                                                                             |
+| Uncommon                                                                     | Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation                                                                                |
+| Rare                                                                         | Vision loss, keratitis, oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness                                                                                                                                                       |
+| Ear and labyrinth disorders                                                  | Ear and labyrinth disorders                                                                                                                                                                                                                                          |
+| Common                                                                       | Vertigo                                                                                                                                                                                                                                                              |
+| Uncommon                                                                     | Hyperacusis                                                                                                                                                                                                                                                          |
+| Cardiac disorders                                                            | Cardiac disorders                                                                                                                                                                                                                                                    |
+| Uncommon                                                                     | Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure                                                                                                                                                                        |
+| Rare QT prolongation, sinus tachycardia, sinus arrhythmia Vascular disorders | Rare QT prolongation, sinus tachycardia, sinus arrhythmia Vascular disorders                                                                                                                                                                                         |
+| Uncommon                                                                     | hypertension, hot flushes, flushing,                                                                                                                                                                                                                                 |
+|                                                                              | Hypotension, peripheral coldness                                                                                                                                                                                                                                     |
+| Respiratory, thoracic and mediastinal disorders                              | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                      |
+| Uncommon Rare                                                                | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness Pulmonary oedema, throat tightness                                                                                                                                                    |
+| Not known                                                                    | Respiratory depression                                                                                                                                                                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                                   | Adverse drug reactions                                                                                                                                             |
 |------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                                         |
-| Common                                               | Vomiting, nausea , constipation, diarrhoea , flatulence, abdominal distension, dry mouth                                                                           |
+| Common                                               | Vomiting, nausea, constipation, diarrhoea, flatulence, abdominal distension, dry mouth                                                                             |
 | Uncommon                                             | Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral                                                                                      |
-| Rare                                                 | Ascites, pancreatitis, swollen tongue , dysphagia                                                                                                                  |
+| Rare                                                 | Ascites, pancreatitis, swollen tongue, dysphagia                                                                                                                   |
 | Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                            |
 | Uncommon                                             | Elevated liver enzymes*                                                                                                                                            |
 | Rare                                                 | Jaundice                                                                                                                                                           |
 | Very rare                                            | Hepatic failure, hepatitis                                                                                                                                         |
 | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                             |
 | Uncommon                                             | Rash papular, urticaria, hyperhidrosis, pruritus                                                                                                                   |
-| Rare                                                 | Toxic epidermal necrolysis, Stevens-Johnson syndrome , cold sweat                                                                                                  |
+| Rare                                                 | Toxic epidermal necrolysis, Stevens-Johnson syndrome, cold sweat                                                                                                   |
 | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                    |
 | Common                                               | Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm                                                                                                  |
 | Uncommon                                             | Joint swelling, myalgia, muscle twitching, neck pain, muscle stiffness                                                                                             |
@@ -438,8 +433,8 @@ Table 2. Pregabalin Adverse Drug Reactions
 | Uncommon                                             | Sexual dysfunction, ejaculation delayed, dysmenorrhoea, breast pain                                                                                                |
 | Rare                                                 | Amenorrhoea, breast discharge, breast enlargement, gynaecomastia                                                                                                   |
 | General disorders and administration site conditions | General disorders and administration site conditions                                                                                                               |
-| Common                                               | Oedema peripheral, oedema, gait abnormal, fall, feeling drunk,                                                                                                     |
-| Uncommon                                             | feeling abnormal, fatigue Generalised oedema, face oedema , chest tightness, pain, pyrexia, thirst, chills, asthenia                                               |
+| Common                                               | Oedema peripheral, oedema, gait abnormal, fall, feeling drunk, feeling abnormal, fatigue                                                                           |
+| Uncommon                                             | Generalised oedema, face oedema, chest tightness, pain, pyrexia, thirst, chills, asthenia                                                                          |
 | Investigations                                       | Investigations                                                                                                                                                     |
 | Common                                               | Weight increased                                                                                                                                                   |
 | Uncommon                                             | Blood creatine phosphokinase increased, blood glucose increased, platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased |
@@ -447,15 +442,13 @@ Table 2. Pregabalin Adverse Drug Reactions
 
 * Alanine aminotransferase increased (ALT) and aspartate aminotransferase increased (AST).
 
-After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, suicidal ideation, pain , hyperhidrosis and dizziness. These symptoms may indicate drug dependence. The patient should be informed about this at the start of the treatment. Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, suicidal ideation, pain, hyperhidrosis and dizziness. These symptoms may indicate drug dependence. The patient should be informed about this at the start of the treatment. Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
 
 ## Paediatric population
 
-The pregabalin safety profile observed in five paediatric studies in patients with partial seizures with or without secondary generalisation (12-week efficacy and safety study in patients 4 to 16 years of age, n=295; 14-day efficacy and safety study in patients 1 month to younger than 4 years of age, n=175; pharmacokinetic and tolerability study, n=65; and two 1 year open label follow on safety studies, n=54 and n=431) was similar to that observed in the adult studies of patients with epilepsy. The most common adverse events observed in the 12-week study with pregabalin treatment were somnolence, pyrexia, upper respiratory tract infection, increased appetite, weight increased, and nasopharyngitis. The most common adverse events observed in the 14-day study with pregabalin
+The pregabalin safety profile observed in five paediatric studies in patients with partial seizures with or without secondary generalisation (12-week efficacy and safety study in patients 4 to 16 years of age, n=295; 14-day efficacy and safety study in patients 1 month to younger than 4 years of age, n=175; pharmacokinetic and tolerability study, n=65; and two 1 year open label follow on safety studies, n=54 and n=431) was similar to that observed in the adult studies of patients with epilepsy. The most common adverse events observed in the 12-week study with pregabalin treatment were somnolence, pyrexia, upper respiratory tract infection, increased appetite, weight increased, and nasopharyngitis. The most common adverse events observed in the 14-day study with pregabalin treatment were somnolence, upper respiratory tract infection, and pyrexia (see sections 4.2, 5.1 and 5.2).
 
 <div style=\"page-break-after: always\"></div>
-
-treatment were somnolence, upper respiratory tract infection, and pyrexia (see sections 4.2, 5.1 and 5.2).
 
 ## Reporting of suspected adverse reactions
 
@@ -479,7 +472,7 @@ The active substance, pregabalin, is a gamma-aminobutyric acid analogue [(S)-3-(
 
 ## Mechanism of action
 
-Pregabalin binds to an auxiliary subunit ( α 2δ protein) of voltage-gated calcium channels in the central nervous system.
+Pregabalin binds to an auxiliary subunit (α2-δ protein) of voltage-gated calcium channels in the central nervous system.
 
 ## Clinical efficacy and safety
 
@@ -497,7 +490,9 @@ In the controlled clinical trial in central neuropathic pain 22% of the pregabal
 
 <div style=\"page-break-after: always\"></div>
 
-## Epilepsy Adjunctive Treatment
+## Epilepsy
+
+## Adjunctive Treatment
 
 Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with either BID or TID dosing. Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
 
@@ -561,11 +556,9 @@ Clinical trials indicate that gender does not have a clinically significant infl
 
 ## Renal impairment
 
-Pregabalin clearance is directly proportional to creatinine clearance. In addition, pregabalin is effectively removed from plasma by haemodialysis (following a 4 hour haemodialysis treatment
+Pregabalin clearance is directly proportional to creatinine clearance. In addition, pregabalin is effectively removed from plasma by haemodialysis (following a 4 hour haemodialysis treatment plasma pregabalin concentrations are reduced by approximately 50%). Because renal elimination is the major elimination pathway, dose reduction in patients with renal impairment and dose supplementation following haemodialysis is necessary (see section 4.2 Table 1).
 
 <div style=\"page-break-after: always\"></div>
-
-plasma pregabalin concentrations are reduced by approximately 50%). Because renal elimination is the major elimination pathway, dose reduction in patients with renal impairment and dose supplementation following haemodialysis is necessary (see section 4.2 Table 1).
 
 ## Hepatic impairment
 
@@ -619,15 +612,9 @@ Capsules content: Lactose monohydrate Maize starch Talc
 
 Capsules shell: Gelatin Titanium dioxide (E171) Sodium laurilsulphate Silica, colloidal anhydrous Purified water
 
-Printing ink: Shellac Black iron oxide (E172) Propylene glycol Potassium hydroxide
+Printing ink: Shellac Black iron oxide (E172) Propylene glycol Potassium hydroxide Pregabalin Viatris Pharma 75 mg, 100 mg, 200 mg, 225 mg, 300 mg hard capsules Capsules content: Lactose monohydrate Maize starch Talc Capsules shell: Gelatin Titanium dioxide (E171) Sodium laurilsulphate Silica, colloidal anhydrous Purified water Red iron oxide (E172)
 
 <div style=\"page-break-after: always\"></div>
-
-## Pregabalin Viatris Pharma 75 mg, 100 mg, 200 mg, 225 mg, 300 mg hard capsules
-
-Capsules content: Lactose monohydrate Maize starch Talc
-
-Capsules shell: Gelatin Titanium dioxide (E171) Sodium laurilsulphate Silica, colloidal anhydrous Purified water Red iron oxide (E172)
 
 Printing ink: Shellac Black iron oxide (E172) Propylene glycol Potassium hydroxide
 
@@ -655,7 +642,9 @@ Pregabalin Viatris Pharma 100 mg hard capsules PVC/Aluminium blisters containing
 
 <div style=\"page-break-after: always\"></div>
 
-Pregabalin Viatris Pharma 150 mg hard capsules PVC/Aluminium blisters containing 14, 56, 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
+Pregabalin Viatris Pharma 150 mg hard capsules PVC/Aluminium blisters containing 14, 56, 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules.
+
+Not all pack sizes may be marketed.
 
 Pregabalin Viatris Pharma 200 mg hard capsules PVC/Aluminium blisters containing 21, 84, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
 
@@ -669,7 +658,9 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
+Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -683,27 +674,25 @@ Pregabalin Viatris Pharma 100 mg hard capsules EU/1/14/916/020-023
 
 Pregabalin Viatris Pharma 150 mg hard capsules EU/1/14/916/024-029
 
-Pregabalin Viatris Pharma 200 mg hard capsules
+Pregabalin Viatris Pharma 200 mg hard capsules EU/1/14/916/030-033
 
 <div style=\"page-break-after: always\"></div>
 
-EU/1/14/916/030-033
+Pregabalin Viatris Pharma 225 mg hard capsules
 
-Pregabalin Viatris Pharma 225 mg hard capsules EU/1/14/916/034-037
+EU/1/14/916/034-037
 
-Pregabalin Viatris Pharma 300 mg hard capsules EU/1/14/916/038-043
+Pregabalin Viatris Pharma 300 mg hard capsules
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+EU/1/14/916/038-043
+
+9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 10 April 2014
 
-Date of latest renewal:
+Date of latest renewal: 12 December 2018
 
-12 December 2018
-
-10.
-
-DATE OF REVISION OF THE TEXT
+10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -713,9 +702,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -724,9 +711,15 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany or
+Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany
 
-Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary or
+or
+
+Mylan Hungary Kft.
+
+Mylan utca 1 Komárom, 2900 Hungary
+
+or
 
 MEDIS INTERNATIONAL a.s., výrobní závod Bolatice Průmyslová 961/16 747 23 Bolatice Czech Republic
 
@@ -783,13 +776,19 @@ This product contains lactose monohydrate. See the package leaflet for further i
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 14 hard capsules
-- 21 hard capsules
-- 56 hard capsules
-- 84 hard capsules
-- 100 hard capsules
-- 100 x 1 hard capsules
-- 112 hard capsules
+14 hard capsules
+
+21 hard capsules
+
+56 hard capsules
+
+84 hard capsules
+
+100 hard capsules
+
+100 x 1 hard capsules
+
+112 hard capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -816,7 +815,8 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -836,17 +836,19 @@ EU/1/14/916/007
 
 Lot
 
-| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
-|-----------------------------------------|
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Pregabalin Viatris Pharma 25 mg
 
-## 17. UNIQUE IDENTIFIER-2D BARCODE
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -899,36 +901,44 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
 
 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/14/916/044
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Pregabalin Viatris Pharma 25 mg
 
-## 17. UNIQUE IDENTIFIER-2D BARCODE
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|---------------------------------------------|
 
 PC SN
 
@@ -952,11 +962,13 @@ Viatris Healthcare Limited
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1014,7 +1026,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1022,24 +1034,23 @@ Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
 
 Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/14/916/008-013
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-| 16 .   | INFORMATION IN BRAILLE   |
-|--------|--------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Pregabalin Viatris Pharma 50 mg
 
@@ -1048,12 +1059,14 @@ Pregabalin Viatris Pharma 50 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
-|-------|-----------------------------------------|
+| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|---------------------------------------------|
 
 PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1067,17 +1080,18 @@ Pregabalin Viatris Pharma 50 mg hard capsules pregabalin
 
 Viatris Healthcare Limited
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 5.   | OTHER   |
+|------|---------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1119,14 +1133,18 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
+Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Ireland
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/14/916/018
 
@@ -1134,19 +1152,24 @@ EU/1/14/916/018
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Pregabalin Viatris Pharma 75 mg
 
-## 17. UNIQUE IDENTIFIER-2D BARCODE
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|---------------------------------------------|
 
 PC SN
 
@@ -1206,7 +1229,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1236,7 +1259,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1254,6 +1277,8 @@ SN
 
 NN
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 Blister pack (14, 56, 100 or 112) and perforated unit dose blister pack (100) for 75 mg hard capsules
@@ -1270,13 +1295,12 @@ Viatris Healthcare Limited
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
 ## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1331,37 +1355,44 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
 
 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/14/916/020-023
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Pregabalin Viatris Pharma 100 mg
 
-## 17. UNIQUE IDENTIFIER-2D BARCODE
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN
 
@@ -1369,17 +1400,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS                                                 |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS                                               |
 |---------------------------------------------------------------------------------------------------|
 | Blister pack (21, 84 or 100) and perforated unit dose blister pack (100) for 100 mg hard capsules |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Pregabalin Viatris Pharma 100 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Viatris Healthcare Limited
 
@@ -1395,6 +1426,8 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1436,12 +1469,11 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
 
@@ -1452,21 +1484,24 @@ Ireland
 
 EU/1/14/916/028
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 Pregabalin Viatris Pharma 150 mg
 
-## 17. UNIQUE IDENTIFIER-2D BARCODE
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -1529,21 +1564,15 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Healthcare Limited
-
-Damastown Industrial Park
-
-Mulhuddart
-
-Dublin 15
-
-DUBLIN
+Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
 
 Ireland
 
@@ -1559,11 +1588,14 @@ EU/1/14/916/029
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Pregabalin Viatris Pharma 150 mg
 
@@ -1580,6 +1612,8 @@ SN
 
 NN
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 Blister pack (14, 56, 100 or 112) and perforated unit dose blister pack (100) for 150 mg hard capsules
@@ -1592,17 +1626,18 @@ Pregabalin Viatris Pharma 150 mg hard capsules pregabalin
 
 Viatris Healthcare Limited
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1657,9 +1692,8 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-## 9. SPECIAL STORAGE CONDITIONS
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1667,27 +1701,34 @@ Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
 
 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/14/916/030-033
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Pregabalin Viatris Pharma 200 mg
 
-## 17. UNIQUE IDENTIFIER-2D BARCODE
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN
 
@@ -1695,17 +1736,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS                                                |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS                                               |
 |---------------------------------------------------------------------------------------------------|
 | Blister pack (21, 84 or 100) and perforated unit dose blister pack (100) for 200 mg hard capsules |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Pregabalin Viatris Pharma 200 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Viatris Healthcare Limited
 
@@ -1721,6 +1762,8 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
+
+47
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1770,57 +1813,67 @@ Do not use if box has been opened.
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+<div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
 
 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/14/916/034-037
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Pregabalin Viatris Pharma 225 mg
 
-## 17. UNIQUE IDENTIFIER-2D BARCODE
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|---------------------------------------------|
 
 PC SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS                                                |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS                                               |
 |---------------------------------------------------------------------------------------------------|
 | Blister pack (14, 56 or 100) and perforated unit dose blister pack (100) for 225 mg hard capsules |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Pregabalin Viatris Pharma 225 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Viatris Healthcare Limited
 
@@ -1836,6 +1889,8 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1877,10 +1932,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1888,27 +1941,34 @@ Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
 
 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/14/916/042
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Pregabalin Viatris Pharma 300 mg
 
-## 17. UNIQUE IDENTIFIER-2D BARCODE
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|---------------------------------------------|
 
 PC SN
 
@@ -1966,21 +2026,15 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Healthcare Limited
-
-Damastown Industrial Park
-
-Mulhuddart
-
-Dublin 15
-
-DUBLIN
+Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
 
 Ireland
 
@@ -1998,7 +2052,8 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2023,8 +2078,7 @@ NN
 
 Blister pack (14, 56, 100 or 112) and perforated unit dose blister pack (100) for 300 mg hard capsules
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Pregabalin Viatris Pharma 300 mg hard capsules pregabalin
 
@@ -2059,10 +2113,10 @@ Pregabalin Viatris Pharma 25 mg hard capsules, Pregabalin Viatris Pharma 50 mg h
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2101,7 +2155,7 @@ Talk to your doctor or pharmacist before taking Pregabalin Viatris Pharma.
 - Pregabalin Viatris Pharma may cause blurring or loss of vision, or other changes in eyesight, many of which are temporary. You should immediately tell your doctor if you experience any changes in your vision.
 - Some patients with diabetes who gain weight while taking pregabalin may need an alteration in their diabetic medicines.
 - Certain side effects may be more common, such as sleepiness, because patients with spinal cord injury may be taking other medicines to treat, for example, pain or spasticity, that have similar side effects to Pregabalin and the severity of these effects may be increased when taken together.
-- There have been reports of heart failure in some patients when taking Pregabalin Viatris Pharma; these patients were mostly elderly with cardiovascular conditions. Before taking this medicine you should tell your doctor if you have a history of heart disease .
+- There have been reports of heart failure in some patients when taking Pregabalin Viatris Pharma; these patients were mostly elderly with cardiovascular conditions. Before taking this medicine you should tell your doctor if you have a history of heart disease.
 - There have been reports of kidney failure in some patients when taking Pregabalin Viatris Pharma. If while taking Pregabalin Viatris Pharma you notice decreased urination, you should tell your doctor as stopping the medicine may improve this.
 - Some patients being treated with anti-epileptics such as Pregabalin Viatris Pharma have had thoughts of harming or killing themselves or shown suicidal behaviour. If at any time you have these thoughts or show such behaviour, immediately contact your doctor.
 - When Pregabalin Viatris Pharma is taken with other medicines that may cause constipation (such as some types of pain medicines) it is possible that gastrointestinal problems may occur (e.g. constipation, blocked or paralysed bowel). Tell your doctor if you experience constipation, especially if you are prone to this problem.
@@ -2313,7 +2367,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Pregabalin Viatris Pharma contains
 
-The active substance is pregabalin. Each hard capsule contains either 25 mg , 50 mg, 75 mg, 100 mg, 150 mg, 200 mg, 225 mg or 300 mg pregabalin.
+The active substance is pregabalin. Each hard capsule contains either 25 mg, 50 mg, 75 mg, 100 mg, 150 mg, 200 mg, 225 mg or 300 mg pregabalin.
 
 The other ingredients are: lactose monohydrate, maize starch, talc, gelatine, titanium dioxide (E171), sodium laurilsulphate, anhydrous colloidal silica, black ink, (which contains shellac, black iron oxide (E172), propylene glycol, potassium hydroxide) and water.
 
@@ -2334,13 +2388,13 @@ The 75 mg, 100 mg, 200 mg, 225 mg and 300 mg capsules also contain red iron oxid
 
 Pregabalin Viatris Pharma is available in seven pack sizes made of PVC with an aluminium foil backing: a 14 capsules pack containing 1 blister strip, a 21 capsules pack containing 1 blister strip, a 56 capsules pack containing 4 blister strips, a 84 capsules pack containing 4 blister strips, a 100 capsules pack containing 10 blister strips, a 112 capsules pack containing 8 blister strips and 100 x 1 capsules as perforated unit dose blisters.
 
-In addition, Pregabalin Viatris Pharma is available in an HDPE bottle containing 200 capsules for the 25 mg, 75 mg, 150 mg and 300 mg strengths .
+In addition, Pregabalin Viatris Pharma is available in an HDPE bottle containing 200 capsules for the 25 mg, 75 mg, 150 mg and 300 mg strengths.
 
 Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-## Marketing Authorisation Holder:
+Marketing Authorisation Holder:
 
 Viatris Healthcare Limited, Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN, Ireland.
 
@@ -2370,7 +2424,7 @@ Lietuva Viatris UAB Tel. +370 52051288
 
 ## България
 
-Майлан ЕООД Тел.: +359 2 44 55 400
+Виатрис ЕООД Тел.: +359 2 44 55 400
 
 ## Česká republika
 
@@ -2385,6 +2439,24 @@ Viatris ApS Tlf: +45 28 11 69 32
 Viatris Healthcare GmbH Tel: +49 (0)800 0700 800
 
 ## Eesti
+
+## Luxembourg/Luxemburg
+
+Viatris Tél/Tel: +32 (0)2 658 61 00 (Belgique/Belgien)
+
+## Magyarország
+
+Viatris Healthcare Kft. Tel. + 36 1 465 2100
+
+## Malta
+
+V.J. Salomone Pharma Limited Tel: (+356) 21 220 174
+
+## Nederland
+
+Viatris Healthcare BV Tel: +31 (0)20 426 3300
+
+## Norge
 
 Viatris OÜ Tel: +372 6363 052
 
@@ -2402,7 +2474,9 @@ Viatris Santé Tél: +33 (0)4 37 25 75 00
 
 ## Hrvatska
 
-Viatris Hrvatska d.o.o. Tel: + 385 1 23 50 599
+Viatris Hrvatska d.o.o.
+
+Tel: + 385 1 23 50 599
 
 ## Ireland
 
@@ -2422,29 +2496,7 @@ CPO Pharmaceuticals Limited Τηλ: +357 22863100
 
 ## Latvija
 
-Viatris SIA
-
-Tel: +371 676 055 80
-
-## Luxembourg/Luxemburg
-
-Tél/Tel: +32 (0)2 658 61 00
-
-Viatris (Belgique/Belgien)
-
-## Magyarország
-
-Viatris Healthcare Kft. Tel. + 36 1 465 2100
-
-## Malta
-
-V.J. Salomone Pharma Limited Tel: (+356) 21 220 174
-
-## Nederland
-
-Mylan Healthcare BV Tel: +31 (0)20 426 3300
-
-## Norge
+Viatris SIA Tel: +371 676 055 80
 
 Viatris AS Tlf: +47 66 75 33 00
 
@@ -2462,7 +2514,9 @@ Viatris Healthcare, Lda. Tel: +351 21 412 72 00
 
 ## România
 
-BGP Products SRL Tel: +40 372 579 000
+BGP Products SRL
+
+Tel: +40 372 579 000
 
 ## Slovenija
 
@@ -2478,7 +2532,9 @@ Viatris Oy Puh./Tel: +358 20 720 9555
 
 ## Sverige
 
-Viatris AB Tel: +46 (0)8 630 19 00
+Viatris AB
+
+Tel: +46 (0)8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
 

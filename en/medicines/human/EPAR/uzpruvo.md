@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-09-10 16:06:00
+document_datetime: 2026-09-24 14:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/uzpruvo.html
 document_name: uzpruvo.html
 version: success
-processing_time: 0.1501703
-conversion_datetime: 2026-09-13 12:30:04.84426
+processing_time: 0.1530985
+conversion_datetime: 2026-09-25 19:57:38.298326
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.96.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.19.1
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # Uzpruvo
 
@@ -49,9 +49,10 @@ Uzpruvo is a medicine used to treat:
 
 - moderate to severe plaque psoriasis (a disease causing red, scaly patches on the skin). It is used in adults and children from 6 years of age whose condition has not improved enough with, or who cannot use, other systemic (whole-body) psoriasis treatments, such as ciclosporin, methotrexate or PUVA (psoralen ultraviolet A). PUVA is a type of treatment where the patient receives a medicine called psoralen, before being exposed to ultraviolet light;
 - active psoriatic arthritis (inflammation of the joints associated with psoriasis) in adults, when the condition has not improved enough with other treatments called disease-modifying anti-rheumatic drugs (DMARDs). Uzpruvo may be used alone or combined with methotrexate (a DMARD);
-- moderately to severely active Crohn's disease (a disease-causing inflammation of the gut) in adults whose condition has not improved enough with other treatments for Crohn's disease or who cannot receive such treatments.
+- moderately to severely active Crohn's disease (a disease-causing inflammation of the gut) in adults and children from two years of age whose condition has not improved enough with other treatments or who cannot receive such treatments;
+- moderately to severely active ulcerative colitis (inflammation of the large intestine causing ulceration and bleeding) in adults whose condition has not improved enough with other treatments for ulcerative colitis or who cannot receive such treatments.
 
-Uzpruvo is a 'biosimilar medicine'. This means that Uzpruvo is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Uzpruvo is Stelara.
+Uzpruvo is a 'biosimilar medicine'. This means that Uzpruvo is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Uzpruvo is Stelara. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
 
 Uzpruvo contains the active substance ustekinumab.
 
@@ -63,9 +64,9 @@ Collapse section
 
 Uzpruvo can only be obtained with a prescription and should be given under the supervision of a doctor who has experience in diagnosing and treating the diseases that Uzpruvo is used for.
 
-In plaque psoriasis and psoriatic arthritis, Uzpruvo is injected under the skin using a pre-filled syringe. The first injection is followed by a further injection 4 weeks later, and then an injection every 12 weeks. Because Uzpruvo is only available in pre-filled syringes which inject doses of 45 or 90 mg, children under 60 kg who need lower doses should use another medicine containing the same active substance (ustekinumab) which allows the dose to be adjusted as needed.
+In plaque psoriasis and psoriatic arthritis, Uzpruvo is given as an injection under the skin. The first injection is followed by a second injection 4 weeks later and then by one injection every 12 weeks.
 
-In Crohn's disease, treatment must be started as an infusion (drip) into a vein over at least 1 hour. Because Uzpruvo is only available in pre-filled syringes for injection under the skin, another medicine containing ustekinumab which can be given as an infusion should be used to start treatment. Eight weeks after the infusion with the other medicine, Uzpruvo can then be given as an injection under the skin and patients can continue with Uzpruvo every 8 or 12 weeks depending on how well the treatment is working.
+In Crohn's disease and ulcerative colitis, treatment must be started as an infusion (drip) into a vein lasting at least 1 hour. Eight weeks after the infusion, Uzpruvo is given as an injection under the skin every 8 or 12 weeks, depending on how well the treatment is working. In children with Crohn's disease, injections may also be given every 4 weeks in some cases.
 
 Patients or their caregivers may inject Uzpruvo under the skin once they have been trained, if their doctor thinks that this is appropriate.
 
@@ -73,7 +74,7 @@ For more information about using Uzpruvo, see the package leaflet or contact you
 
 ### How does Uzpruvo work?
 
-The active substance in Uzpruvo, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to 2 messenger molecules in the immune system called interleukin 12 and interleukin 23. Both are involved in inflammation and other processes that are important in psoriasis, psoriatic arthritis and Crohn's disease. By blocking their activity, ustekinumab reduces the activity of the immune system and the symptoms of the disease.
+The active substance in Uzpruvo, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to 2 messenger molecules in the immune system called interleukin 12 and interleukin 23. Both are involved in inflammation and other processes that are important in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis. By attaching to them and blocking their activity, ustekinumab reduces the activity of the immune system and the symptoms of the diseases.
 
 ### What benefits of Uzpruvo have been shown in studies?
 
@@ -83,19 +84,21 @@ In addition, a study involving 581 people with moderate to severe chronic plaque
 
 Because Uzpruvo is a biosimilar medicine, the studies on effectiveness and safety of ustekinumab carried out with Stelara do not all need to be repeated for Uzpruvo.
 
-### What are the risks associated with Uzpruvo?
+Studies carried out with Uzpruvo are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions with Uzpruvo?
 
 The safety of Uzpruvo has been evaluated, and on the basis of all the studies carried out the side effects of the medicine are considered to be comparable to those of the reference medicine Stelara.
 
 For the complete list of side effects and restrictions of Uzpruvo, see the package leaflet.
 
-The most common side effects with Uzpruvo (seen in more than 1 in 20 people) are headache and nasopharyngitis (inflammation of the nose and throat). The most serious side effect reported with Uzpruvo is serious hypersensitivity (allergic reaction).
+The most common side effects with Uzpruvo (which may affect more than 1 in 20 people) include headache and nasopharyngitis (inflammation of the nose and throat). The most serious side effect reported with Uzpruvo is serious hypersensitivity (allergic reaction).
 
 Uzpruvo must not be used in patients who have an active infection that the doctor considers important.
 
 ### Why is Uzpruvo authorised in the EU?
 
-The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Uzpruvo has a highly similar structure, purity and biological activity to Stelara and is distributed in the body in the same way. In addition, a study in patients with moderate to severe plaque psoriasis has shown that the safety and effectiveness of Uzpruvo is equivalent to that of Stelara in this indication.
+The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Uzpruvo has a highly similar structure, purity and biological activity to Stelara and is distributed in the body in the same way. In addition, a study in patients with moderate to severe plaque psoriasis has shown that the safety and effectiveness of Uzpruvo are equivalent to those of Stelara in this indication.
 
 All these data were considered sufficient to conclude that Uzpruvo will behave in the same way as Stelara in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for Stelara, the benefits of Uzpruvo outweigh the identified risks and it can be authorised for use in the EU.
 
@@ -111,145 +114,145 @@ Uzpruvo received a marketing authorisation valid throughout the EU on 5 January 
 
 Uzpruvo : EPAR - Medicine overview
 
-Reference Number: EMA/510375/2023
+Reference Number: EMADOC-1829012207-68845
 
-English (EN) (136.19 KB - PDF)
+English (EN) (154.69 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/en/documents/overview/uzpruvo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-926)
+[Other languages (22)](#file-language-dropdown-874)
 
-български (BG) (162.23 KB - PDF)
+български (BG) (179.2 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/bg/documents/overview/uzpruvo-epar-medicine-overview_bg.pdf)
 
-español (ES) (136.08 KB - PDF)
+español (ES) (152.39 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/es/documents/overview/uzpruvo-epar-medicine-overview_es.pdf)
 
-čeština (CS) (161.07 KB - PDF)
+čeština (CS) (179.13 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/cs/documents/overview/uzpruvo-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (136.83 KB - PDF)
+dansk (DA) (153.75 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/da/documents/overview/uzpruvo-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (140.2 KB - PDF)
+Deutsch (DE) (157.94 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/de/documents/overview/uzpruvo-epar-medicine-overview_de.pdf)
 
-eesti (ET) (133.66 KB - PDF)
+eesti (ET) (150.72 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/et/documents/overview/uzpruvo-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (162.14 KB - PDF)
+ελληνικά (EL) (181.66 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/el/documents/overview/uzpruvo-epar-medicine-overview_el.pdf)
 
-français (FR) (137.25 KB - PDF)
+français (FR) (155.45 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/fr/documents/overview/uzpruvo-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (159.63 KB - PDF)
+hrvatski (HR) (176.79 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/hr/documents/overview/uzpruvo-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (135.23 KB - PDF)
+italiano (IT) (152.38 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/it/documents/overview/uzpruvo-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (154.37 KB - PDF)
+latviešu (LV) (183.88 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/lv/documents/overview/uzpruvo-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (159.2 KB - PDF)
+lietuvių (LT) (176.94 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/lt/documents/overview/uzpruvo-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (160.59 KB - PDF)
+magyar (HU) (178.9 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/hu/documents/overview/uzpruvo-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (161.08 KB - PDF)
+Malti (MT) (179.53 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/mt/documents/overview/uzpruvo-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (137.74 KB - PDF)
+Nederlands (NL) (156.62 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/nl/documents/overview/uzpruvo-epar-medicine-overview_nl.pdf)
 
-polski (PL) (162.33 KB - PDF)
+polski (PL) (180.56 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/pl/documents/overview/uzpruvo-epar-medicine-overview_pl.pdf)
 
-português (PT) (136.99 KB - PDF)
+português (PT) (152.6 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/pt/documents/overview/uzpruvo-epar-medicine-overview_pt.pdf)
 
-română (RO) (155.14 KB - PDF)
+română (RO) (173.78 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/ro/documents/overview/uzpruvo-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (159.89 KB - PDF)
+slovenčina (SK) (178.41 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/sk/documents/overview/uzpruvo-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (156.22 KB - PDF)
+slovenščina (SL) (174.31 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/sl/documents/overview/uzpruvo-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (133.01 KB - PDF)
+suomi (FI) (150.54 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/fi/documents/overview/uzpruvo-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (134.5 KB - PDF)
+svenska (SV) (151.71 KB - PDF)
 
-**First published:** 07/02/2024 **Last updated:** 30/03/2026
+**First published:** 07/02/2024 **Last updated:** 24/09/2026
 
 [View](/sv/documents/overview/uzpruvo-epar-medicine-overview_sv.pdf)
 
@@ -271,7 +274,7 @@ English (EN) (2.3 MB - PDF)
 
 [View](/en/documents/product-information/uzpruvo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-856)
+[Other languages (24)](#file-language-dropdown-401)
 
 български (BG) (2.24 MB - PDF)
 
@@ -444,7 +447,7 @@ English (EN) (64.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/uzpruvo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-85)
+[Other languages (24)](#file-language-dropdown-587)
 
 български (BG) (57.37 KB - PDF)
 
@@ -699,6 +702,6 @@ English (EN) (151.71 KB - PDF)
 
 **This page was last updated on**
 
-10/09/2026
+24/09/2026
 
 ## Share this page

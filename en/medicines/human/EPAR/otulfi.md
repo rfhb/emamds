@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-27 14:00:00
+document_datetime: 2026-09-23 16:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/otulfi.html
 document_name: otulfi.html
 version: success
-processing_time: 0.1385395
-conversion_datetime: 2026-05-29 20:15:40.036607
+processing_time: 0.1777491
+conversion_datetime: 2026-09-25 19:55:33.25534
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.96.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # Otulfi
 
@@ -50,15 +50,15 @@ Otulfi is a medicine used to treat:
 
 - moderate to severe plaque psoriasis (a disease causing red, scaly patches on the skin). It is used in adults and children above the age of 6 years whose condition has not improved with, or who cannot use, other systemic (whole-body) psoriasis treatments, such as ciclosporin, methotrexate or PUVA (psoralen ultraviolet A). PUVA is a type of treatment where the patient receives a medicine called psoralen, before being exposed to ultraviolet light;
 - active psoriatic arthritis (inflammation of the joints associated with psoriasis) in adults, when the condition has not improved enough with other treatments called disease-modifying anti-rheumatic drugs (DMARDs). Otulfi may be used alone or combined with methotrexate (a DMARD);
-- moderately to severely active Crohn's disease (a disease-causing inflammation of the gut) in adults and children weighing at least 40 kg whose condition has not improved enough with other treatments or who cannot receive such treatments;
+- moderately to severely active Crohn's disease (a disease-causing inflammation of the gut) in adults and children weighing at least 40 kg whose condition has not improved enough with other treatments or who cannot receive such treatments.
 
-Otulfi contains the active substance ustekinumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Otulfi is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Otulfi is Stelara. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Otulfi contains the active substance ustekinumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Otulfi is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Otulfi is Stelara.
 
 Expand section
 
 Collapse section
 
-## How is Otulfi used?
+### How is Otulfi used?
 
 Otulfi can only be obtained with a prescription and should be given under the supervision of a doctor who has experience in diagnosing and treating the diseases that Otulfi is used for.
 
@@ -70,11 +70,11 @@ Patients or their caregivers may inject Otulfi once they have been trained, if t
 
 For more information about using Otulfi, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Otulfi work?
+### How does Otulfi work?
 
 The active substance in Otulfi, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to 2 messenger molecules in the immune system called interleukin 12 and interleukin 23. Both are involved in inflammation and other processes that are important in psoriasis, psoriatic arthritis and Crohn's disease. By attaching to them and blocking their activity, ustekinumab reduces the activity of the immune system and the symptoms of the disease.
 
-## What benefits of Otulfi have been shown in studies?
+### What benefits of Otulfi have been shown in studies?
 
 Laboratory studies comparing Otulfi with Stelara have shown that the active substance in Otulfi is highly similar to that in Stelara in terms of structure, purity and biological activity. Studies have also shown that giving Otulfi produces similar levels of the active substance in the body to giving Stelara.
 
@@ -82,7 +82,7 @@ In addition, a study of 392 patients with moderate to severe plaque psoriasis sh
 
 Because Otulfi is a biosimilar medicine, the studies on effectiveness of ustekinumab carried out with Stelara do not all need to be repeated for Otulfi.
 
-## What are the risks associated with Otulfi?
+### What are the risks associated with Otulfi?
 
 The safety of Otulfi has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Stelara.
 
@@ -92,19 +92,19 @@ The most common side effects with ustekinumab (seen in more than 1 in 20) includ
 
 Otulfi must not be used in patients who have an active infection that the doctor considers important.
 
-## Why is Otulfi authorised in the EU?
+### Why is Otulfi authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Otulfi has a highly similar structure, purity and biological activity to Stelara and is distributed in the body in the same way.In addition, a study in patients with plaque psoriasis has shown that Otulfi and Stelara are equivalent in terms of safety and effectiveness in this condition.
 
 All these data were considered sufficient to conclude that Otulfi will have the same effects as Stelara in its authorised uses. Therefore, the Agency's view was that, as for Stelara, the benefits of Otulfi outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Otulfi?
+### What measures are being taken to ensure the safe and effective use of Otulfi?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Otulfi have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Otulfi are continuously monitored. Suspected side effects reported with Otulfi are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Otulfi
+### Other information about Otulfi
 
 Otulfi received a marketing authorisation valid throughout the EU on 25 September 2024.
 
@@ -116,7 +116,7 @@ English (EN) (133.85 KB - PDF)
 
 [View](/en/documents/overview/otulfi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-448)
+[Other languages (22)](#file-language-dropdown-128)
 
 български (BG) (161.31 KB - PDF)
 
@@ -148,7 +148,7 @@ Deutsch (DE) (138.11 KB - PDF)
 
 [View](/de/documents/overview/otulfi-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (131.55 KB - PDF)
+eesti (ET) (131.55 KB - PDF)
 
 **First published:** 02/10/2024 **Last updated:** 17/10/2025
 
@@ -178,13 +178,13 @@ italiano (IT) (133.33 KB - PDF)
 
 [View](/it/documents/overview/otulfi-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (163.49 KB - PDF)
+latviešu (LV) (163.49 KB - PDF)
 
 **First published:** 02/10/2024 **Last updated:** 17/10/2025
 
 [View](/lv/documents/overview/otulfi-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (157.13 KB - PDF)
+lietuvių (LT) (157.13 KB - PDF)
 
 **First published:** 02/10/2024 **Last updated:** 17/10/2025
 
@@ -238,7 +238,7 @@ slovenščina (SL) (154.23 KB - PDF)
 
 [View](/sl/documents/overview/otulfi-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (131.12 KB - PDF)
+suomi (FI) (131.12 KB - PDF)
 
 **First published:** 02/10/2024 **Last updated:** 17/10/2025
 
@@ -252,9 +252,9 @@ svenska (SV) (132.2 KB - PDF)
 
 Otulfi : EPAR - Risk management plan
 
-English (EN) (650.05 KB - PDF)
+English (EN) (534.79 KB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 12/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/en/documents/rmp/otulfi-epar-risk-management-plan_en.pdf)
 
@@ -262,167 +262,168 @@ English (EN) (650.05 KB - PDF)
 
 Otulfi : EPAR - Product information
 
-English (EN) (2.39 MB - PDF)
+English (EN) (1.6 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/en/documents/product-information/otulfi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-154)
+[Other languages (24)](#file-language-dropdown-858)
 
-български (BG) (5.56 MB - PDF)
+български (BG) (3.81 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/bg/documents/product-information/otulfi-epar-product-information_bg.pdf)
 
-español (ES) (3.07 MB - PDF)
+español (ES) (2.69 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/es/documents/product-information/otulfi-epar-product-information_es.pdf)
 
-čeština (CS) (2.54 MB - PDF)
+čeština (CS) (2.82 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/cs/documents/product-information/otulfi-epar-product-information_cs.pdf)
 
-dansk (DA) (4.11 MB - PDF)
+dansk (DA) (3.03 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/da/documents/product-information/otulfi-epar-product-information_da.pdf)
 
-Deutsch (DE) (4.17 MB - PDF)
+Deutsch (DE) (2.83 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/de/documents/product-information/otulfi-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.52 MB - PDF)
+eesti (ET) (2.61 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/et/documents/product-information/otulfi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (5.07 MB - PDF)
+ελληνικά (EL) (3.31 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/el/documents/product-information/otulfi-epar-product-information_el.pdf)
 
-français (FR) (4.84 MB - PDF)
+français (FR) (2.5 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/fr/documents/product-information/otulfi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (5.07 MB - PDF)
+hrvatski (HR) (3.37 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/hr/documents/product-information/otulfi-epar-product-information_hr.pdf)
 
-íslenska (IS) (4.21 MB - PDF)
+italiano (IT) (3.04 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
-
-[View](/is/documents/product-information/otulfi-epar-product-information_is.pdf)
-
-italiano (IT) (4.72 MB - PDF)
-
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/it/documents/product-information/otulfi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (5.04 MB - PDF)
+latviešu (LV) (3.21 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/lv/documents/product-information/otulfi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.6 MB - PDF)
+lietuvių (LT) (2.75 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/lt/documents/product-information/otulfi-epar-product-information_lt.pdf)
 
-magyar (HU) (2.63 MB - PDF)
+magyar (HU) (2.95 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/hu/documents/product-information/otulfi-epar-product-information_hu.pdf)
 
-Malti (MT) (3.36 MB - PDF)
+Malti (MT) (3.54 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/mt/documents/product-information/otulfi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (4.9 MB - PDF)
+Nederlands (NL) (3.03 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/nl/documents/product-information/otulfi-epar-product-information_nl.pdf)
 
-norsk (NO) (3.97 MB - PDF)
+polski (PL) (2.62 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
-
-[View](/no/documents/product-information/otulfi-epar-product-information_no.pdf)
-
-polski (PL) (2.49 MB - PDF)
-
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/pl/documents/product-information/otulfi-epar-product-information_pl.pdf)
 
-português (PT) (2.45 MB - PDF)
+português (PT) (2.69 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/pt/documents/product-information/otulfi-epar-product-information_pt.pdf)
 
-română (RO) (2.76 MB - PDF)
+română (RO) (2.94 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/ro/documents/product-information/otulfi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.07 MB - PDF)
+slovenčina (SK) (2.66 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/sk/documents/product-information/otulfi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.44 MB - PDF)
+slovenščina (SL) (2.62 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/sl/documents/product-information/otulfi-epar-product-information_sl.pdf)
 
-Suomi (FI) (4.46 MB - PDF)
+suomi (FI) (2.6 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/fi/documents/product-information/otulfi-epar-product-information_fi.pdf)
 
-svenska (SV) (4.84 MB - PDF)
+svenska (SV) (3.06 MB - PDF)
 
-**First published:** 02/10/2024 **Last updated:** 27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
 
 [View](/sv/documents/product-information/otulfi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000343407
+Íslenska (IS) (2.85 MB - PDF)
 
-27/05/2026
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
+
+[View](/is/documents/product-information/otulfi-epar-product-information_is.pdf)
+
+norsk (NO) (2.58 MB - PDF)
+
+**First published:** 02/10/2024 **Last updated:** 23/09/2026
+
+[View](/no/documents/product-information/otulfi-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000356308
+
+18/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -440,7 +441,7 @@ English (EN) (64.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-537)
+[Other languages (24)](#file-language-dropdown-594)
 
 български (BG) (87.86 KB - PDF)
 
@@ -472,7 +473,7 @@ Deutsch (DE) (73.41 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (68.05 KB - PDF)
+eesti (ET) (68.05 KB - PDF)
 
 **First published:** 02/10/2024 **Last updated:** 25/03/2026
 
@@ -496,25 +497,19 @@ hrvatski (HR) (87.24 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (77.62 KB - PDF)
-
-**First published:** 02/10/2024 **Last updated:** 25/03/2026
-
-[View](/is/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (69.54 KB - PDF)
 
 **First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/it/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (74.16 KB - PDF)
+latviešu (LV) (74.16 KB - PDF)
 
 **First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/lv/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (94.37 KB - PDF)
+lietuvių (LT) (94.37 KB - PDF)
 
 **First published:** 02/10/2024 **Last updated:** 25/03/2026
 
@@ -537,12 +532,6 @@ Nederlands (NL) (70.01 KB - PDF)
 **First published:** 02/10/2024 **Last updated:** 25/03/2026
 
 [View](/nl/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (61.66 KB - PDF)
-
-**First published:** 02/10/2024 **Last updated:** 25/03/2026
-
-[View](/no/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (76.44 KB - PDF)
 
@@ -574,7 +563,7 @@ slovenščina (SL) (65.99 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (81.7 KB - PDF)
+suomi (FI) (81.7 KB - PDF)
 
 **First published:** 02/10/2024 **Last updated:** 25/03/2026
 
@@ -586,28 +575,31 @@ svenska (SV) (73.76 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (77.62 KB - PDF)
+
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
+
+[View](/is/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (61.66 KB - PDF)
+
+**First published:** 02/10/2024 **Last updated:** 25/03/2026
+
+[View](/no/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Otulfi
-
-Active substance
-
-ustekinumab
-
-International non-proprietary name (INN) or common name
-
-ustekinumab
-
-Therapeutic area (MeSH)
-
-- Crohn Disease
-- Colitis, Ulcerative
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AC05
+- **Name of medicine**
+    - Otulfi
+- **Active substance**
+    - ustekinumab
+- **International non-proprietary name (INN) or common name**
+    - ustekinumab
+- **Therapeutic area (MeSH)**
+        - Crohn Disease
+        - Colitis, Ulcerative
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC05
 
 ### Pharmacotherapeutic group
 
@@ -615,49 +607,43 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-Plaque psoriasis Otulfi is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A).
+Plaque psoriasis  
+Otulfi is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A).
 
-Paediatric plaque psoriasis Otulfi is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, and who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies.
+Paediatric plaque psoriasis  
+Otulfi is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, and who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies.
 
-Psoriatic arthritis (PsA) Otulfi, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease- modifying anti-rheumatic drug (DMARD) therapy has been inadequate.
+Psoriatic arthritis (PsA)  
+Otulfi, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease- modifying anti-rheumatic drug (DMARD) therapy has been inadequate.
 
-Adult Crohn's Disease Otulfi is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
+Adult Crohn's Disease  
+Otulfi is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
-Paediatric Crohn's Disease Otulfi is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
+Paediatric Crohn's Disease  
+Otulfi is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients from the age of 2 years and older, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
-Crohn's Disease Otulfi is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+Crohn's Disease  
+Otulfi is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+
+Ulcerative colitis  
+Otulfi is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006544
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Fresenius Kabi Deutschland GmbH
-
-Else-Kroner-Strasse 1
-
-Opinion adopted
-
-25/07/2024
-
-Marketing authorisation issued
-
-25/09/2024
-
-Revision
-
-6
+- **EMA product number**
+    - EMEA/H/C/006544
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Fresenius Kabi Deutschland GmbH Else-Kroner-Strasse 1  61352 Bad Homburg v.d.H.  Germany
+- **Opinion adopted**
+    - 25/07/2024
+- **Marketing authorisation issued**
+    - 25/09/2024
+- **Revision**
+    - 7
 
 ## Assessment history
 
@@ -665,13 +651,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Otulfi : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (157.85 KB - PDF)
+English (EN) (156.69 KB - PDF)
 
-**First published:** 11/09/2025 **Last updated:** 27/05/2026
+**First published:** 11/09/2025 **Last updated:** 23/09/2026
 
 [View](/en/documents/procedural-steps-after/otulfi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -683,7 +669,7 @@ English (EN) (131.39 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/otulfi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Otulfi : EPAR - Public assessment report
 
@@ -723,7 +709,7 @@ English (EN) (2.23 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-649)
+[Other languages (24)](#file-language-dropdown-37)
 
 български (BG) (4.82 MB - DOCX)
 
@@ -755,7 +741,7 @@ Deutsch (DE) (3.51 MB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (5.26 MB - DOCX)
+eesti (ET) (5.26 MB - DOCX)
 
 **First published:** 25/03/2026
 
@@ -779,25 +765,19 @@ hrvatski (HR) (3.11 MB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (4 MB - DOCX)
-
-**First published:** 25/03/2026
-
-[View](/is/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (5.22 MB - DOCX)
 
 **First published:** 25/03/2026
 
 [View](/it/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (4.23 MB - DOCX)
+latviešu (LV) (4.23 MB - DOCX)
 
 **First published:** 25/03/2026
 
 [View](/lv/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (4.75 MB - DOCX)
+lietuvių (LT) (4.75 MB - DOCX)
 
 **First published:** 25/03/2026
 
@@ -820,12 +800,6 @@ Nederlands (NL) (3.59 MB - DOCX)
 **First published:** 25/03/2026
 
 [View](/nl/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (4.25 MB - DOCX)
-
-**First published:** 25/03/2026
-
-[View](/no/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (2.21 MB - DOCX)
 
@@ -857,7 +831,7 @@ slovenščina (SL) (2.63 MB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (4.95 MB - DOCX)
+suomi (FI) (4.95 MB - DOCX)
 
 **First published:** 25/03/2026
 
@@ -869,8 +843,20 @@ svenska (SV) (3.88 MB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_sv.docx)
 
+Íslenska (IS) (4 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/is/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (4.25 MB - DOCX)
+
+**First published:** 25/03/2026
+
+[View](/no/documents/product-information-tracked-changes/otulfi-epar-product-information-tracked-changes_no.docx)
+
 **This page was last updated on**
 
-27/05/2026
+23/09/2026
 
 ## Share this page

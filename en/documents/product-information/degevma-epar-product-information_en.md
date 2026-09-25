@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-20 12:07:10
+document_datetime: 2026-09-24 11:32:42
 document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/degevma-epar-product-information_en.pdf
 document_name: degevma-epar-product-information_en.pdf
 version: success
-processing_time: 9.907027
-conversion_datetime: 2026-01-20 20:30:54.039513
+processing_time: 37.765416
+conversion_datetime: 2026-09-25 19:01:53.728461
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,7 +36,11 @@ Each vial contains 120 mg of denosumab in 1.7 mL of solution (70 mg/mL).
 
 Denosumab is a human monoclonal IgG2 antibody produced in a mammalian cell line (Chinese hamster ovary cells) by recombinant DNA technology.
 
-Excipients with known effect Each 1.7 mL of solution contains 80 mg sorbitol (E420). Each 1.7 mL of solution contains 0.17 mg polysorbate 20.
+Excipients with known effect
+
+Each 1.7 mL of solution contains 80 mg sorbitol (E420).
+
+Each 1.7 mL of solution contains 0.17 mg polysorbate 20.
 
 For the full list of excipients, see section 6.1.
 
@@ -64,7 +68,9 @@ Supplementation of at least 500 mg calcium and 400 IU vitamin D daily is require
 
 Patients treated with Degevma should be given the package leaflet and the patient reminder card.
 
-Prevention of skeletal related events in adults with advanced malignancies involving bone The recommended dose is 120 mg administered as a single subcutaneous injection once every 4 weeks into the thigh, abdomen or upper arm.
+Prevention of skeletal related events in adults with advanced malignancies involving bone
+
+The recommended dose is 120 mg administered as a single subcutaneous injection once every 4 weeks into the thigh, abdomen or upper arm.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -151,9 +157,9 @@ The following risk factors should be considered when evaluating a patient's risk
 - concomitant therapies: corticosteroids, chemotherapy, angiogenesis inhibitors, radiotherapy to head and neck.
 - poor oral hygiene, periodontal disease, poorly fitting dentures, pre-existing dental disease, invasive dental procedures (e.g. tooth extractions).
 
-<div style=\"page-break-after: always\"></div>
-
 All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling, or non-healing of sores or discharge during treatment with denosumab. While on treatment, invasive dental procedures should be performed only after careful consideration and be avoided in close proximity to Degevma administration.
+
+<div style=\"page-break-after: always\"></div>
 
 The management plan of the patients who develop ONJ should be set up in close collaboration between the treating physician and a dentist or oral surgeon with expertise in ONJ. Temporary interruption of Degevma treatment should be considered until the condition resolves and contributing risk factors are mitigated where possible.
 
@@ -179,9 +185,9 @@ Patients being treated with Degevma should not be treated concomitantly with oth
 
 Patients being treated with Degevma should not be treated concomitantly with bisphosphonates.
 
-<div style=\"page-break-after: always\"></div>
-
 Malignancy in giant cell tumour of bone or progression to metastatic disease is an infrequent event and a known risk in patients with giant cell tumour of bone. Patients should be monitored for radiological signs of malignancy, new radiolucency or osteolysis. Available clinical data does not suggest an increased risk of malignancy in giant cell tumour of bone patients treated with denosumab.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Warnings for excipients
 
@@ -250,10 +256,11 @@ Table 1. Adverse reactions reported in patients with advanced malignancies invol
 | Musculoskeletal and connective tissue disorders                          | Common               | Osteonecrosis of the jaw 1                                                                      |
 | Musculoskeletal and connective tissue disorders                          | Uncommon             | Atypical femoral fracture 1                                                                     |
 | Musculoskeletal and connective tissue disorders                          | Not known            | Osteonecrosis of the external auditory canal 3,4                                                |
-
-## Description of selected adverse reactions
+| General disorders and administration site conditions                     | Uncommon             | Injection site reactions 5                                                                      |
 
 <div style=\"page-break-after: always\"></div>
+
+## Description of selected adverse reactions
 
 ## Hypocalcaemia
 
@@ -277,9 +284,9 @@ A higher incidence of ONJ among patients treated with denosumab compared to zole
 
 In the primary treatment phases of three phase III active-controlled clinical trials in patients with advanced malignancies involving bone, ONJ was confirmed in 1.8% of patients treated with denosumab (median exposure of 12.0 months; range: 0.1 - 40.5) and 1.3% of patients treated with zoledronic acid. Clinical characteristics of these cases were similar between treatment groups. Among patients with confirmed ONJ, most (81% in both treatment groups) had a history of tooth extraction, poor oral hygiene, and/or use of a dental appliance. Most patients were receiving or had received chemotherapy.
 
-The trials in patients with breast or prostate cancer included a denosumab extension treatment phase (median overall exposure of 14.9 months; range: 0.1 - 67.2). ONJ was confirmed in 6.9% of patients with breast cancer and prostate cancer during the extension treatment phase.
-
 <div style=\"page-break-after: always\"></div>
+
+The trials in patients with breast or prostate cancer included a denosumab extension treatment phase (median overall exposure of 14.9 months; range: 0.1 - 67.2). ONJ was confirmed in 6.9% of patients with breast cancer and prostate cancer during the extension treatment phase.
 
 The patient-year adjusted overall incidence of confirmed ONJ was 1.1 per 100 patient-years during the first year of treatment, 3.7 in the second year and 4.6 thereafter. The median time to ONJ was 20.6 months (range: 4 - 53).
 
@@ -305,11 +312,11 @@ In the clinical trial programme for GCTB, atypical femoral fractures have been r
 
 In the post-marketing setting, musculoskeletal pain, including severe cases, has been reported in patients receiving denosumab. In clinical trials, musculoskeletal pain was very common in both the denosumab and zoledronic acid treatment groups. Musculoskeletal pain leading to discontinuation of study treatment was uncommon.
 
+<div style=\"page-break-after: always\"></div>
+
 ## New primary malignancy
 
 In the primary double blind treatment phases of four phase III active-controlled clinical trials in patients with advanced malignancies involving bone, new primary malignancy was reported in 54/3691 (1.5%) of patients treated with denosumab (median exposure of 13.8 months; range: 1.0-51.7) and 33/3688 (0.9%) of patients treated with zoledronic acid (median exposure of 12.9 months; range: 1.0-50.8).
-
-<div style=\"page-break-after: always\"></div>
 
 The cumulative incidence at one year was 1.1 % for denosumab and 0.6 % for zoledronic acid, respectively.
 
@@ -343,13 +350,13 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no experience with overdose in clinical studies. Denosumab has been administered in clinical studies using doses up to 180 mg every 4 weeks and 120 mg weekly for 3 weeks.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs for treatment of bone diseases - other drugs affecting bone structure and mineralisation, ATC code: M05BX04
-
-<div style=\"page-break-after: always\"></div>
 
 Degevma is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -371,39 +378,36 @@ Anti-denosumab antibodies may develop during denosumab treatment. No apparent co
 
 Efficacy and safety of 120 mg denosumab SC every 4 weeks or 4 mg zoledronic acid (dose-adjusted for reduced renal function) IV every 4 weeks were compared in three randomised, double-blind, activecontrolled studies, in IV-bisphosphonate naïve patients with advanced malignancies involving bone: adults with breast cancer (study 1), other solid tumours or multiple myeloma (study 2), and castrate-resistant prostate cancer (study 3). Within these active-controlled clinical trials, safety was evaluated in 5,931 patients. Patients with prior history of ONJ or osteomyelitis of the jaw, an active dental or jaw condition requiring oral surgery, non-healed dental/oral surgery, or any planned invasive dental procedure, were not eligible for inclusion in these studies. The primary and secondary endpoints evaluated the occurrence of one or more skeletal related events (SREs). In studies demonstrating superiority of denosumab to zoledronic acid, patients were offered open-label denosumab in a pre-specified 2-year extension treatment phase. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
+<div style=\"page-break-after: always\"></div>
+
 Denosumab reduced the risk of developing a SRE, and developing multiple SREs (first and subsequent) in patients with bone metastases from solid tumours (see table 2).
 
 Table 2. Efficacy results in patients with advanced malignancies involving bone
 
-| Study 1 breast cancer   | Study 2 other solid tumours** or   | Study 3 prostate cancer   | Combined advanced cancer   |
-|-------------------------|------------------------------------|---------------------------|----------------------------|
+|                                         | Study 1 breast cancer - denosumab   | Study 1 breast cancer - zoledronic acid   | Study 2 other solid tumours** or multiple myeloma - denosumab   | Study 2 other solid tumours** or multiple myeloma - zoledronic acid   | Study 3 prostate cancer - denosumab   | Study 3 prostate cancer - zoledronic acid   | Combined advanced cancer - denosumab   | Combined advanced cancer - zoledronic acid   |
+|-----------------------------------------|-------------------------------------|-------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------|---------------------------------------------|----------------------------------------|----------------------------------------------|
+| N                                       | 1,026                               | 1,020                                     | 886                                                             | 890                                                                   | 950                                   | 951                                         | 2,862                                  | 2,861                                        |
+| First SRE                               |                                     |                                           |                                                                 |                                                                       |                                       |                                             |                                        |                                              |
+| Median time (months)                    | NR                                  | 26.4                                      | 20.6                                                            | 16.3                                                                  | 20.7                                  | 17.1                                        | 27.6                                   | 19.4                                         |
+| Difference in median time (months)      | NA                                  | NA                                        | 4.2                                                             | 4.2                                                                   | 3.5                                   | 3.5                                         | 8.2                                    | 8.2                                          |
+| HR (95% CI) / RRR (%)                   | 0.82 (0.71, 0.95) / 18              | 0.82 (0.71, 0.95) / 18                    | 0.84 (0.71, 0.98) / 16                                          | 0.84 (0.71, 0.98) / 16                                                | 0.82 (0.71, 0.95) / 18                | 0.82 (0.71, 0.95) / 18                      | 0.83 (0.76, 0.90) / 17                 | 0.83 (0.76, 0.90) / 17                       |
+| Non- inferiority / Superiority p-values | < 0.0001 † / 0.0101 †               | < 0.0001 † / 0.0101 †                     | 0.0007 † / 0.0619 †                                             | 0.0007 † / 0.0619 †                                                   | 0.0002 † / 0.0085 †                   | 0.0002 † / 0.0085 †                         | < 0.0001 / < 0.0001                    | < 0.0001 / < 0.0001                          |
+| Proportion of patients (%)              | 30.7                                | 36.5                                      | 31.4                                                            | 36.3                                                                  | 35.9                                  | 40.6                                        | 32.6                                   | 37.8                                         |
+| First and subsequent SRE*               | First and subsequent SRE*           | First and subsequent SRE*                 |                                                                 |                                                                       |                                       |                                             |                                        |                                              |
+| Mean number/patient                     | 0.46                                | 0.60                                      | 0.44                                                            | 0.49                                                                  | 0.52                                  | 0.61                                        | 0.48                                   | 0.57                                         |
+| Rate ratio (95% CI) / RRR (%)           | 0.77 (0.66, 0.89) / 23              | 0.77 (0.66, 0.89) / 23                    | 0.90 (0.77, 1.04) / 10                                          | 0.90 (0.77, 1.04) / 10                                                | 0.82 (0.71, 0.94) / 18                | 0.82 (0.71, 0.94) / 18                      | 0.82 (0.75, 0.89) / 18                 | 0.82 (0.75, 0.89) / 18                       |
+| Superiority p-value                     | 0.0012 †                            | 0.0012 †                                  | 0.1447 †                                                        | 0.1447 †                                                              | 0.0085 †                              | 0.0085 †                                    | < 0.0001                               | < 0.0001                                     |
+| SMR per Year                            | 0.45                                | 0.58                                      | 0.86                                                            | 1.04                                                                  | 0.79                                  | 0.83                                        | 0.69                                   | 0.81                                         |
+| First SRE or HCM                        | First SRE or HCM                    | First SRE or HCM                          |                                                                 |                                                                       |                                       |                                             |                                        |                                              |
+| Median time (months)                    | NR                                  | 25.2                                      | 19.0                                                            | 14.4                                                                  | 20.3                                  | 17.1                                        | 26.6                                   | 19.4                                         |
+| HR (95% CI) / RRR (%)                   | 0.82 (0.70, 0.95) / 18              | 0.82 (0.70, 0.95) / 18                    | 0.83 (0.71, 0.97) / 17                                          | 0.83 (0.71, 0.97) / 17                                                | 0.83 (0.72, 0.96) / 17                | 0.83 (0.72, 0.96) / 17                      | 0.83 (0.76, 0.90) / 17                 | 0.83 (0.76, 0.90) / 17                       |
+| Superiority p-value                     | 0.0074                              | 0.0074                                    | 0.0215                                                          | 0.0215                                                                | 0.0134                                | 0.0134                                      | < 0.0001                               | < 0.0001                                     |
+| First radiation to bone                 | First radiation to bone             | First radiation to bone                   | First radiation to bone                                         | First radiation to bone                                               | First radiation to bone               | First radiation to bone                     | First radiation to bone                | First radiation to bone                      |
+| Median time (months)                    | NR                                  | NR                                        | NR                                                              | NR                                                                    | NR                                    | 28.6                                        | NR                                     | 33.2                                         |
+| HR (95% CI) / RRR (%)                   | 0.74 (0.59, 0.94) / 26              | 0.74 (0.59, 0.94) / 26                    | 0.78 (0.63, 0.97) / 22                                          | 0.78 (0.63, 0.97) / 22                                                | 0.78 (0.66, 0.94) / 22                | 0.78 (0.66, 0.94) / 22                      | 0.77 (0.69, 0.87) / 23                 | 0.77 (0.69, 0.87) / 23                       |
+| Superiority p-value                     | 0.0121                              | 0.0121                                    | 0.0256                                                          | 0.0256                                                                | 0.0071                                | 0.0071                                      | < 0.0001                               | < 0.0001                                     |
 
-<div style=\"page-break-after: always\"></div>
-
-|                                         | denosumab                 | zoledronic acid           | denosumab               | zoledronic acid         | denosumab               | zoledronic acid         | denosumab               | zoledronic acid         |
-|-----------------------------------------|---------------------------|---------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
-| N                                       | 1,026                     | 1,020                     | 886                     | 890                     | 950                     | 951                     | 2,862                   | 2,861                   |
-| First SRE                               |                           |                           |                         |                         |                         |                         |                         |                         |
-| Median time (months)                    | NR                        | 26.4                      | 20.6                    | 16.3                    | 20.7                    | 17.1                    | 27.6                    | 19.4                    |
-| Difference in median time (months)      | NA                        | NA                        | 4.2                     | 4.2                     | 3.5                     | 3.5                     | 8.2                     | 8.2                     |
-| HR (95% CI) / RRR (%)                   | 0.82 (0.71, 0.95) / 18    | 0.82 (0.71, 0.95) / 18    | 0.84 (0.71, 0.98) / 16  | 0.84 (0.71, 0.98) / 16  | 0.82 (0.71, 0.95) / 18  | 0.82 (0.71, 0.95) / 18  | 0.83 (0.76, 0.90) / 17  | 0.83 (0.76, 0.90) / 17  |
-| Non- inferiority / Superiority p-values | < 0.0001 † / 0.0101 †     | < 0.0001 † / 0.0101 †     | 0.0007 † / 0.0619 †     | 0.0007 † / 0.0619 †     | 0.0002 † / 0.0085 †     | 0.0002 † / 0.0085 †     | < 0.0001 / < 0.0001     | < 0.0001 / < 0.0001     |
-| Proportion of patients (%)              | 30.7                      | 36.5                      | 31.4                    | 36.3                    | 35.9                    | 40.6                    | 32.6                    | 37.8                    |
-| First and subsequent SRE*               | First and subsequent SRE* | First and subsequent SRE* |                         |                         |                         |                         |                         |                         |
-| Mean number/patient                     | 0.46                      | 0.60                      | 0.44                    | 0.49                    | 0.52                    | 0.61                    | 0.48                    | 0.57                    |
-| Rate ratio (95% CI) / RRR (%)           | 0.77 (0.66, 0.89) / 23    | 0.77 (0.66, 0.89) / 23    | 0.90 (0.77, 1.04) / 10  | 0.90 (0.77, 1.04) / 10  | 0.82 (0.71, 0.94) / 18  | 0.82 (0.71, 0.94) / 18  | 0.82 (0.75, 0.89) / 18  | 0.82 (0.75, 0.89) / 18  |
-| Superiority p-value                     | 0.0012 †                  | 0.0012 †                  | 0.1447 †                | 0.1447 †                | 0.0085 †                | 0.0085 †                | < 0.0001                | < 0.0001                |
-| SMR per Year                            | 0.45                      | 0.58                      | 0.86                    | 1.04                    | 0.79                    | 0.83                    | 0.69                    | 0.81                    |
-| First SRE orHCM                         | First SRE orHCM           | First SRE orHCM           |                         |                         |                         |                         |                         |                         |
-| Median time (months)                    | NR                        | 25.2                      | 19.0                    | 14.4                    | 20.3                    | 17.1                    | 26.6                    | 19.4                    |
-| HR (95% CI) / RRR (%)                   | 0.82 (0.70, 0.95) / 18    | 0.82 (0.70, 0.95) / 18    | 0.83 (0.71, 0.97) / 17  | 0.83 (0.71, 0.97) / 17  | 0.83 (0.72, 0.96) / 17  | 0.83 (0.72, 0.96) / 17  | 0.83 (0.76, 0.90) / 17  | 0.83 (0.76, 0.90) / 17  |
-| Superiority p-value                     | 0.0074                    | 0.0074                    | 0.0215                  | 0.0215                  | 0.0134                  | 0.0134                  | < 0.0001                | < 0.0001                |
-| First radiation to bone                 | First radiation to bone   | First radiation to bone   | First radiation to bone | First radiation to bone | First radiation to bone | First radiation to bone | First radiation to bone | First radiation to bone |
-| Median time (months)                    | NR                        | NR                        | NR                      | NR                      | NR                      | 28.6                    | NR                      | 33.2                    |
-| HR (95% CI) / RRR (%)                   | 0.74 (0.59, 0.94) / 26    | 0.74 (0.59, 0.94) / 26    | 0.78 (0.63, 0.97) / 22  | 0.78 (0.63, 0.97) / 22  | 0.78 (0.66, 0.94) / 22  | 0.78 (0.66, 0.94) / 22  | 0.77 (0.69, 0.87) / 23  | 0.77 (0.69, 0.87) / 23  |
-| Superiority p-value                     | 0.0121                    | 0.0121                    | 0.0256                  | 0.0256                  | 0.0071                  | 0.0071                  | < 0.0001                | < 0.0001                |
-
-NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction;  † Adjusted p-values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE endpo ints); *Accounts for all skeletal events over time; only events occurring ≥ 21 days after the previous event are counted.
+NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction; † Adjusted p-values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE endpoints); *Accounts for all skeletal events over time; only events occurring ≥ 21 days after the previous event are counted.
 
 ** Including NSCLC, renal cell cancer, colorectal cancer, small cell lung cancer, bladder cancer, head and neck cancer, GI/genitourinary cancer and others, excluding breast and prostate cancer.
 
@@ -429,17 +433,15 @@ In studies 1, 2 and 3, overall survival was balanced between denosumab and zoled
 
 ## Effect on pain
 
-The time to pain improvement (i.e. ≥ 2 -point decrease from baseline in BPI-SF worst pain score) was similar for denosumab and zoledronic acid in each study and the integrated analyses. In a post-hoc analysis of the combined dataset, the median time to worsening pain (&gt; 4-point worst pain score) in patients with mild or no pain at baseline was delayed for denosumab compared to zoledronic acid (198 versus 143 days) (p = 0.0002).
+The time to pain improvement (i.e. ≥ 2-point decrease from baseline in BPI-SF worst pain score) was similar for denosumab and zoledronic acid in each study and the integrated analyses. In a post-hoc analysis of the combined dataset, the median time to worsening pain (&gt; 4-point worst pain score) in patients with mild or no pain at baseline was delayed for denosumab compared to zoledronic acid (198 versus 143 days) (p = 0.0002).
 
 ## Clinical efficacy in patients with multiple myeloma
 
 Denosumab was evaluated in an international, randomised (1:1), double-blind, active-controlled study comparing denosumab with zoledronic acid in patients with newly diagnosed multiple myeloma, study 4.
 
-In this study, 1,718 multiple myeloma patients with at least one bone lesion were randomised to receive 120 mg denosumab subcutaneously every 4 weeks (Q4W) or 4 mg zoledronic acid intravenously (IV) every 4 weeks (dose-adjusted for renal function). The primary outcome measure was demonstration of non-
+In this study, 1,718 multiple myeloma patients with at least one bone lesion were randomised to receive 120 mg denosumab subcutaneously every 4 weeks (Q4W) or 4 mg zoledronic acid intravenously (IV) every 4 weeks (dose-adjusted for renal function). The primary outcome measure was demonstration of noninferiority of time to first on study skeletal related event (SRE) as compared to zoledronic acid. Secondary outcome measures included superiority of time to first SRE, superiority of time to first and subsequent SRE, and overall survival. An SRE was defined as any of the following: pathologic fracture (vertebral or nonvertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
 <div style=\"page-break-after: always\"></div>
-
-inferiority of time to first on study skeletal related event (SRE) as compared to zoledronic acid. Secondary outcome measures included superiority of time to first SRE, superiority of time to first and subsequent SRE, and overall survival. An SRE was defined as any of the following: pathologic fracture (vertebral or nonvertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
 Across both study arms, 54.5% of patients intended to undergo autologous PBSC transplantation, 95.8% patients utilised/planned to utilise a novel anti-myeloma agent (novel therapies include bortezomib, lenalidomide, or thalidomide) in first-line therapy, and 60.7% of patients had a previous SRE. The number of patients across both study arms with ISS stage I, stage II, and stage III at diagnosis were 32.4%, 38.2%, and 29.3%, respectively.
 
@@ -470,7 +472,7 @@ Table 3. Efficacy results for denosumab compared to zoledronic acid in patients 
 |----------------------------------|-----------------------|-----------------------------|
 | Rate ratio (95% CI)              | 1.01 (0.89, 1.15)     | 1.01 (0.89, 1.15)           |
 | Skeletal morbidity rate per year | 0.61                  | 0.62                        |
-| First SRE orHCM                  |                       |                             |
+| First SRE or HCM                 |                       |                             |
 | Median time (months)             | 22.14 (14.26, NE)     | 21.32 (13.86, 29.7)         |
 | Hazard ratio (95% CI)            | 0.98 (0.85, 1.12)     | 0.98 (0.85, 1.12)           |
 | First radiation to bone          |                       |                             |
@@ -492,15 +494,13 @@ Study 6 enrolled 535 adult or skeletally mature adolescents with giant cell tumo
 
 In cohort 1 at the final analysis, 28 of the 260 treated patients (10.8%) had disease progression. In cohort 2, 219 of the 238 (92.0%; 95% CI: 87.8%, 95.1%) evaluable patients treated with denosumab had not undergone surgery by month 6. Of the 239 patients in cohort 2 with baseline target lesion location or onstudy location not in lungs or soft tissue, a total of 82 subjects (34.3%) were able to avoid on-study surgery. Overall, efficacy results in skeletally mature adolescents were similar to those observed in adults.
 
-Study 7 enrolled 85 adult patients who were previously enrolled and completed study 6. Patients were allowed to receive denosumab treatment for GCTB, and all patients were followed for 5 years. The primary
+Study 7 enrolled 85 adult patients who were previously enrolled and completed study 6. Patients were allowed to receive denosumab treatment for GCTB, and all patients were followed for 5 years. The primary objective was to evaluate the long-term safety profile of denosumab in patients with giant cell tumour of the bone.
 
 <div style=\"page-break-after: always\"></div>
 
-objective was to evaluate the long-term safety profile of denosumab in patients with giant cell tumour of the bone.
-
 ## Effect on pain
 
-In the final analysis cohorts 1 and 2 combined, a clinically meaningful reduction in worst pain (i.e . ≥ 2 -point decrease from baseline) was reported for 30.8% of patients at risk (i.e. those who had a worst pain score of ≥ 2 at baseline) within 1 week of treatment, and ≥ 50% at week 5. These pain improvements were maintained at all subsequent evaluations.
+In the final analysis cohorts 1 and 2 combined, a clinically meaningful reduction in worst pain (i.e. ≥ 2-point decrease from baseline) was reported for 30.8% of patients at risk (i.e. those who had a worst pain score of ≥ 2 at baseline) within 1 week of treatment, and ≥ 50% at week 5. These pain improvements were maintained at all subsequent evaluations.
 
 ## Paediatric population
 
@@ -582,15 +582,17 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-3 years
+3 years Once removed from the refrigerator, Degevma may be stored at room temperature (up to 30°C) for up to 32 days in the original container, do not put it back in the refrigerator. It must be used within this 32-day period.
 
 <div style=\"page-break-after: always\"></div>
 
-Once removed from the refrigerator, Degevma may be stored at room temperature (up to 30°C) for up to 32 days in the original container, do not put it back in the refrigerator. It must be used within this 32-day period.
-
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C).
+
+Do not freeze.
+
+Keep the vial in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
@@ -601,7 +603,7 @@ Pack sizes of one or three vials. Not all pack sizes may be marketed.
 ## 6.6 Special precautions for disposal and other handling
 
 - The carton contains a package leaflet with the full instructions for use and handling.
-- Before administration, the Degevma solution should be inspected visually.  Do not inject the solution if it is cloudy, discoloured or if it contains many particles or foreign particulate matter.
+- Before administration, the Degevma solution should be inspected visually. Do not inject the solution if it is cloudy, discoloured or if it contains many particles or foreign particulate matter.
 - Do not shake.
 - To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 30°C) before injecting and inject slowly.
 - The entire contents of the vial should be injected.
@@ -620,11 +622,11 @@ EU/1/25/1985/001 EU/1/25/1985/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: Date of latest renewal:
-
-## 10. DATE OF REVISION OF THE TEXT
+Date of first authorisation: 17 November 2025 Date of latest renewal:
 
 <div style=\"page-break-after: always\"></div>
+
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -633,12 +635,9 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -695,7 +694,9 @@ VIAL CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Degevma 120 mg solution for injection denosumab
+Degevma 120 mg solution for injection
+
+denosumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -707,7 +708,7 @@ Sodium acetate trihydrate, acetic acid, glacial, sorbitol (E420), polysorbate 20
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 1 single use vial
 
@@ -735,9 +736,9 @@ EXP
 
 Store in a refrigerator.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not freeze.
+
+<div style=\"page-break-after: always\"></div>
 
 Keep the vial in the outer carton in order to protect from light.
 
@@ -819,17 +820,17 @@ Lot
 
 ## Degevma 120 mg solution for injection
 
-## denosumab
+denosumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist, or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-- -Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Degevma.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist, or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Degevma.
 
 ## What is in this leaflet
 
@@ -852,7 +853,7 @@ Degevma is also used to treat giant cell tumour of bone, which cannot be treated
 
 ## Do not use Degevma
 
-- -if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
 
 Your healthcare professional will not administer Degevma to you if you have a very low level of calcium in your blood which has not been treated.
 
@@ -897,9 +898,9 @@ Some people have developed unusual fractures in their thigh bone while being tre
 
 Some patients with giant cell tumour of the bone have developed high calcium levels in the blood weeks to months after stopping treatment. Your doctor will monitor you for signs and symptoms of high levels of calcium, after you stop receiving Degevma.
 
-## Children and adolescents
-
 <div style=\"page-break-after: always\"></div>
+
+## Children and adolescents
 
 Degevma is not recommended for children and adolescents under 18 years of age except for adolescents with giant cell tumour of the bone whose bones have stopped growing. The use of denosumab has not been studied in children and adolescents with other cancers that have spread to bone.
 
@@ -940,9 +941,9 @@ This medicine contains less than 1 mmol sodium (23 mg) per 120 mg dose, that is 
 
 This medicine contains 0.17 mg of polysorbate 20 per 120 mg dose which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
-## 3. How to use Degevma
-
 <div style=\"page-break-after: always\"></div>
+
+## 3. How to use Degevma
 
 Degevma should be administered under the responsibility of a healthcare professional.
 
@@ -983,13 +984,14 @@ Uncommon side effects (may affect up to 1 in 100 people):
 
 - high calcium levels in the blood (hypercalcaemia) after stopping treatment in patients with giant cell tumour of the bone,
 - new or unusual pain in your hip, groin or thigh (this may be an early indication of a possible fracture of the thigh bone),
-- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
+- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions),
+- injection site reactions including pain around the site where the injection was given.
+
+<div style=\"page-break-after: always\"></div>
 
 Rare side effects (may affect up to 1 in 1,000 people):
 
 - allergic reactions (e.g. wheezing or difficulty breathing; swelling of the face, lips, tongue, throat or other parts of the body; rash, itching or hives on the skin). In rare cases allergic reactions may be severe.
-
-<div style=\"page-break-after: always\"></div>
 
 Not known (frequency cannot be estimated from the available data):
 
@@ -1019,8 +1021,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Degevma contains
 
-- -The active substance is denosumab. Each vial contains 120 mg of denosumab in 1.7 mL of solution (corresponding to 70 mg/mL).
-- -The other ingredients are sodium acetate trihydrate, acetic acid, glacial, sorbitol (E420), polysorbate 20 and water for injections.
+- The active substance is denosumab. Each vial contains 120 mg of denosumab in 1.7 mL of solution (corresponding to 70 mg/mL).
+- The other ingredients are sodium acetate trihydrate, acetic acid, glacial, sorbitol (E420), polysorbate 20 and water for injections.
 
 ## What Degevma looks like and contents of the pack
 
@@ -1028,15 +1030,19 @@ Degevma is a solution for injection (injection).
 
 Degevma is a clear to opalescent, colourless to pale yellow solution.
 
-Each pack contains one or three single use vials. Not all pack sizes may be marketed.
+Each pack contains one or three single use vials.
+
+Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-TEVA GmbH Graf-Arco-Strasse 3 89079 Ulm Germany
-
-## Manufacturer
+TEVA GmbH
 
 <div style=\"page-break-after: always\"></div>
+
+Graf-Arco-Strasse 3 89079 Ulm Germany
+
+## Manufacturer
 
 Merckle GmbH Graf-Arco-Strasse 3 89079 Ulm Germany
 
@@ -1044,17 +1050,13 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Teva Pharma Belgium N.V./S.A./AG
-
-Tél/Tel: +32 38207373
+Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
 
 ## България
 
 Тева Фарма ЕАД
 
-Teл
-
-.: +359 24899585
+Teл.: +359 24899585
 
 ## Česká republika
 
@@ -1082,11 +1084,9 @@ Tel: +372 6610801
 
 ## Ελλάδα
 
-TEVA HELLAS Α . Ε
+TEVA HELLAS Α.Ε.
 
 Τηλ: +30 2118805000
-
-.
 
 ## España
 
@@ -1100,7 +1100,7 @@ Teva Santé
 
 Tél: +33 155917800
 
-## Hrvatska
+Hrvatska
 
 Pliva Hrvatska d.o.o.
 
@@ -1108,25 +1108,13 @@ Tel: +385 13720000
 
 ## Ireland
 
-Teva Pharmaceuticals Ireland
-
-Tel: +44 2075407117
-
-## Ísland
-
-Teva Pharma Iceland ehf.
-
 ## Lietuva
 
-UAB Teva Baltics
-
-Tel: +370 52660203
+UAB Teva Baltics Tel: +370 52660203
 
 ## Luxembourg/Luxemburg
 
-Teva Pharma Belgium N.V./S.A./AG
-
-Tél/Tel: +32 38207373
+Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
 
 ## Magyarország
 
@@ -1136,11 +1124,7 @@ Tel.: +36 12886400
 
 ## Malta
 
-TEVA HELLAS Α.Ε.
-
-il- Greċja
-
-Tel: +30 2118805000
+TEVA HELLAS Α.Ε. il-Greċja Tel: +30 2118805000
 
 ## Nederland
 
@@ -1156,9 +1140,7 @@ Tlf: +47 66775590
 
 ## Österreich
 
-ratiopharm Arzneimittel Vertriebs-GmbH
-
-Tel: +43 1970070
+ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
 
 ## Polska
 
@@ -1178,17 +1160,17 @@ Tel: +40 212306524
 
 ## Slovenija
 
-Pliva Ljubljana d.o.o.
+<div style=\"page-break-after: always\"></div>
 
-Tel: +386 15890390
+Teva Pharmaceuticals Ireland
 
-## Slovenská republika
+Tel: +44 2075407117
 
-TEVA Pharmaceuticals Slovakia s.r.o.
+## Ísland
+
+Teva Pharma Iceland ehf.
 
 Sími: +354 5503300
-
-Tel: +421 257267911
 
 ## Italia
 
@@ -1196,23 +1178,13 @@ Teva Italia S.r.l.
 
 Tel: +39 028917981
 
-## Suomi/Finland
-
-Teva Finland Oy Puh/Tel: +358 201805900
-
 ## Κύπρος
 
-TEVA HELLAS Α . Ε .
+TEVA HELLAS Α.Ε.
 
 Ελλάδα
 
 Τηλ: +30 2118805000
-
-## Sverige
-
-Teva Sweden AB
-
-Tel: +46 42121100
 
 ## Latvija
 
@@ -1226,8 +1198,6 @@ Tel: +371 67323666
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
-<div style=\"page-break-after: always\"></div>
-
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## The following information is intended for healthcare professionals only:
@@ -1240,3 +1210,25 @@ Detailed information on this medicine is available on the European Medicines Age
 - The vial should not be re-entered.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
+
+Pliva Ljubljana d.o.o.
+
+Tel: +386 15890390
+
+## Slovenská republika
+
+TEVA Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 257267911
+
+## Suomi/Finland
+
+Teva Finland Oy
+
+Puh/Tel: +358 201805900
+
+## Sverige
+
+Teva Sweden AB
+
+Tel: +46 42121100

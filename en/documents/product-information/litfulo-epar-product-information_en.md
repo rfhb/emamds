@@ -1,11 +1,11 @@
 ---
-document_datetime: 2026-09-21 14:40:52
+document_datetime: 2026-09-22 12:52:24
 document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/litfulo-epar-product-information_en.pdf
 document_name: litfulo-epar-product-information_en.pdf
 version: success
-processing_time: 45.0160521
-conversion_datetime: 2026-09-23 06:58:13.952319
+processing_time: 48.6875056
+conversion_datetime: 2026-09-25 19:10:45.743185
 docling_version:
   docling-serve: 1.34.0
   docling-jobkit: 3.7.0

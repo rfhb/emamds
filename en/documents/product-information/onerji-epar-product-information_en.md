@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-05 11:44:12
+document_datetime: 2026-09-23 10:31:57
 document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/onerji-epar-product-information_en.pdf
 document_name: onerji-epar-product-information_en.pdf
 version: success
-processing_time: 12.4576986
-conversion_datetime: 2026-05-07 20:06:38.608639
+processing_time: 47.0117708
+conversion_datetime: 2026-09-25 19:13:30.573802
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,7 +56,7 @@ Onerji is administered with a levodopa oral morning dose. Additional oral levodo
 
 The maximum recommended daily dose of Onerji is 720 mg of the levodopa component and 90 mg of the carbidopa component. Onerji treatment consists of an individualised daytime dose delivered over 18 hours, which starts about 3 hours before the anticipated patient's wake up time, and a fixed nighttime dose delivered over 6 hours.
 
-Initiation and titration instructions
+## Initiation and titration instructions
 
 - Step 1: The daily total oral levodopa equivalent dose should be calculated by utilising the appropriate levodopa conversion factors (Table 1).
 - Step 2: Onerji should be initiated with the full dose (720 mg of levodopa) along with a morning oral dose of levodopa. If patients were on more than 720 mg of daily total oral levodopa equivalent dose before initiating Onerji, adjunct oral levodopa should be added throughout the day to make up the difference between their daily total oral levodopa equivalent dose minus the 720 mg of levodopa provided by Onerji and the morning oral levodopa dose. If a catechol-Omethyltransferase (COMT) inhibitor is co-administered with Onerji, the COMT-inhibitor multiplication factor should be applied to the levodopa Onerji component.
@@ -69,7 +69,7 @@ Initiation and titration instructions
 
 The levodopa equivalent daily dose coming from oral levodopa formulations should be determined as well as COMT inhibitor therapy according to the conversion factors below (Table 1).
 
-Table 1  Calculating the levodopa equivalents
+Table 1 Calculating the levodopa equivalents
 
 | Levodopa formulation                                                             | Dose multiplication factor                                    |
 |----------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -82,19 +82,18 @@ Table 1  Calculating the levodopa equivalents
 
 The Onerji levodopa daily dose is prescribed by the physician according to the patient's needs, choosing from 8 regimens ranging from 370 mg to 720 mg (Table 2).
 
-Table 2  Onerji levodopa daily dose
+Table 2 Onerji levodopa daily dose
 
-| Daytime - 18 hours   | Daytime - 18 hours   | Nighttime - 6 hours   | Nighttime - 6 hours   | Total daily        |
-|----------------------|----------------------|-----------------------|-----------------------|--------------------|
-| Flow rate (mL/h)     | Levodopa dose (mg)   | Flow rate (mL/h)      | Levodopa dose (mg)    | Levodopa dose (mg) |
-| 0.64                 | 690                  | 0.08                  | 30                    | 720                |
-| 0.59                 | 640                  | 0.08                  | 30                    | 670                |
-| 0.55                 | 590                  | 0.08                  | 30                    | 620                |
-| 0.50                 | 540                  | 0.08                  | 30                    | 570                |
-| 0.45                 | 490                  | 0.08                  | 30                    | 520                |
-| 0.41                 | 440                  | 0.08                  | 30                    | 470                |
-| 0.36                 | 390                  | 0.08                  | 30                    | 420                |
-| 0.32                 | 340                  | 0.08                  | 30                    | 370                |
+|   Daytime - 18 hours - Flow rate (mL/h) |   Daytime - 18 hours - Levodopa dose (mg) |   Nighttime - 6 hours - Flow rate (mL/h) |   Nighttime - 6 hours - Levodopa dose (mg) |   Total daily - Levodopa dose (mg) |
+|-----------------------------------------|-------------------------------------------|------------------------------------------|--------------------------------------------|------------------------------------|
+|                                    0.64 |                                       690 |                                     0.08 |                                         30 |                                720 |
+|                                    0.59 |                                       640 |                                     0.08 |                                         30 |                                670 |
+|                                    0.55 |                                       590 |                                     0.08 |                                         30 |                                620 |
+|                                    0.50 |                                       540 |                                     0.08 |                                         30 |                                570 |
+|                                    0.45 |                                       490 |                                     0.08 |                                         30 |                                520 |
+|                                    0.41 |                                       440 |                                     0.08 |                                         30 |                                470 |
+|                                    0.36 |                                       390 |                                     0.08 |                                         30 |                                420 |
+|                                    0.32 |                                       340 |                                     0.08 |                                         30 |                                370 |
 
 ## Interruption of therapy
 
@@ -124,7 +123,7 @@ Dosing with Onerji is individualised by titration to optimal effect (which corre
 
 ## Paediatric population
 
-There is no relevant use of Onerji in the paediatric population in the treatment of Parkinson's disease .
+There is no relevant use of Onerji in the paediatric population in the treatment of Parkinson's disease.
 
 ## Method of administration
 
@@ -132,8 +131,8 @@ Onerji is administered as a continuous subcutaneous infusion, 24 hours per day w
 
 Onerji should only be used with one of the following delivery systems:
 
-- Yurway Delivery System which includes a Yurway Rechargeable Pump, sterile single-use Yurway Medication Cartridge (reservoirs) with attached vial adapters. The Yurway Delivery System is used with sterile, single-use infusion sets. For detailed instructions refer to the Yurway Delivery System user manual .
-- Crono Twin ND pump which uses sterile single-use syringes (reservoirs), vial adapters and infusion sets. For detailed instructions refer to Crono Twin ND Instructions for Use .
+- Yurway Delivery System which includes a Yurway Rechargeable Pump, sterile single-use Yurway Medication Cartridge (reservoirs) with attached vial adapters. The Yurway Delivery System is used with sterile, single-use infusion sets. For detailed instructions refer to the Yurway Delivery System user manual.
+- Crono Twin ND pump which uses sterile single-use syringes (reservoirs), vial adapters and infusion sets. For detailed instructions refer to Crono Twin ND Instructions for Use.
 
 Onerji should not be administered with any other medicinal product delivery pump. Only the Yurway Delivery System and Crono Twin ND were qualified for compatibility with Onerji. Both delivery systems can be programmed to provide daytime and night-time flow rates via two infusion sites per Onerji prescribed regimens in Parkinson's disease patients and were found to perform equivalently.
 
@@ -208,9 +207,15 @@ Patients should be instructed to carefully monitor for any skin changes at the i
 
 Patients should be monitored clinically for neuropathy after starting Onerji treatment, especially patients with pre-existing neuropathy and patients taking other medicinal products or those having medical conditions that are associated with neuropathy. For patients who develop signs and symptoms of neuropathy after starting treatment, vitamins B6, B9 and B12 should be measured (see section 4.8). Supplement in case of deficiencies, particularly if markedly low levels are observed.
 
+## Vitamin B6 deficiency
+
+Treatment with levodopa/carbidopa can lead to vitamin B6 deficiency, which may increase the risk of seizures, particularly in patients receiving higher doses, and/or those with poor nutritional status. Monitoring of pyridoxine (vitamin B6) levels and vitamin B6 supplementation should be considered in patients receiving high-dose levodopa/carbidopa and those presenting with clinical manifestations suggestive of vitamin B6 deficiency.
+
 ## Depression and suicidality
 
 All patients should be observed carefully for the development of depression with suicidal tendencies.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Chronic wide-angle glaucoma
 
@@ -219,8 +224,6 @@ Patients may be treated cautiously with Onerji provided the intraocular pressure
 ## Peptic ulcer disease
 
 Levodopa, treatment may increase the possibility of upper gastrointestinal haemorrhage in patients with a history of peptic ulcer.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Laboratory monitoring
 
@@ -254,13 +257,13 @@ COMT inhibitors increase the bioavailability of levodopa. An adjustment of the d
 
 ## Amantadine
 
-Amantadine has synergic effect with levodopa and may increase levodopa related  renal and hepatic impairment events. An adjustment of the dose of Onerji may be needed.
+Amantadine has synergic effect with levodopa and may increase levodopa related renal and hepatic impairment events. An adjustment of the dose of Onerji may be needed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tricyclic antidepressants
 
 There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant administration of tricyclic antidepressants and levodopa.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Antihypertensives
 
@@ -268,7 +271,7 @@ The concurrent use of levodopa/carbidopa with antihypertensive medicinal product
 
 ## Dopamine D2 receptor antagonists and isoniazid
 
-Dopamine D2 receptor antagonists (e.g. phenothiazines, butyrophenones, risperidone and metoclopramide), and isoniazid, may reduce the therapeutic effect of levodopa. Monitor patients for worsening of Parkinson 's disease symptoms.
+Dopamine D2 receptor antagonists (e.g. phenothiazines, butyrophenones, risperidone and metoclopramide), and isoniazid, may reduce the therapeutic effect of levodopa. Monitor patients for worsening of Parkinson's disease symptoms.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -292,6 +295,8 @@ In reproduction studies, no effects on fertility were observed in rats receiving
 
 Levodopa/carbidopa has major influence on the ability to drive and use machines, as it may be associated with somnolence, sudden sleep episodes, dizziness and orthostatic hypotension. Therefore, caution should be exercised when driving or using machines while on treatment with Onerji. Patients presenting with somnolence and/or sudden sleep episodes must be advised to refrain from driving or engaging in activities (e.g. operating machines) until such recurrent episodes and somnolence have resolved (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of safety profile
@@ -300,13 +305,9 @@ The most frequent adverse reactions reported with Onerji were infusion site reac
 
 ## Tabulated list of adverse reactions
 
-In table 3 below, adverse reactions expected from Onerji are presented by System Organ Class (SOC) and frequency. Frequency categories are defined as follows: very common (≥ 1/10), common (≥ 1/100
+In table 3 below, adverse reactions expected from Onerji are presented by System Organ Class (SOC) and frequency. Frequency categories are defined as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), and not known (cannot be estimated from the available data).
 
-<div style=\"page-break-after: always\"></div>
-
-to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), and not known (cannot be estimated from the available data).
-
-Table 3  Tabulated list of adverse reactions
+Table 3 Tabulated list of adverse reactions
 
 | System Organ Class                                                  | Very common                  | Common                                                                             | Uncommon                                                                                                                                               | Not known 3                                                                                                                                           |
 |---------------------------------------------------------------------|------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -316,34 +317,37 @@ Table 3  Tabulated list of adverse reactions
 | Immune system disorders                                             |                              |                                                                                    | Hypersensitivity 1                                                                                                                                     |                                                                                                                                                       |
 | Metabolism and nutrition disorders                                  | Vitamin B6 deficiency 1      | Hyperhomocystein aemia, Folate deficiency 1 , Vitamin B12 deficiency 1             | Decreased appetite                                                                                                                                     |                                                                                                                                                       |
 | Psychiatric disorders                                               |                              | Anxiety, Hallucinations 1 , Insomnia                                               | Abnormal dreams, Confusional state, Delusion, Depression 1 , Impulse-control disorder 1 , Rapid eye movement, Sleep behaviour disorder, Sleep disorder | Suicidal ideation, Psychotic disorder, Agitation, Disorientation, Dopamine dysregulation syndrome, Euphoric mood, Increased libido, Bruxism, Paranoia |
-| Nervous system disorders                                            | Dyskinesia                   | Dizziness, Headache, Worsening of Off periods, Peripheral neuropathy 1, 2 , Tremor | Akinesia, Dysaesthesia, Dyskinesia hyperpyrexia syndrome, Dystonia, Hypokinesia, Paraesthesia, Presyncope, Somnolence, Taste disorder                  | Cognitive disorder, Sudden sleep onset episodes, Neuroleptic malignant syndrome, Ataxia, Horner's syndrome, Dementia                                  |
-| Eye disorders                                                       |                              |                                                                                    |                                                                                                                                                        | Vision blurred, Diplopia, Mydriasis, Oculogyric crisis, Blepharospasm                                                                                 |
-| Cardiac disorders                                                   |                              |                                                                                    |                                                                                                                                                        | Palpitations, Cardiac rhythm disorders                                                                                                                |
-| Vascular disorders                                                  |                              | Hypotension                                                                        | Orthostatic hypotension                                                                                                                                | Hypertension, Syncope,                                                                                                                                |
+| Nervous system disorders                                            | Dyskinesia                   | Dizziness, Headache, Worsening of Off periods, Peripheral neuropathy 1, 2 , Tremor | Akinesia, Dysaesthesia, Dyskinesia hyperpyrexia syndrome, Dystonia, Hypokinesia, Paraesthesia, Presyncope,                                             | Cognitive disorder, Sudden sleep onset episodes, Neuroleptic malignant syndrome, Ataxia, Horner's syndrome, Dementia                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Very common                                                                                                                                  | Common                                                                                                                                                                                                                                | Uncommon                                                                             | Not known 3                                                                                                                                                                                |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders      |                                                                                                                                              |                                                                                                                                                                                                                                       |                                                                                      | Hot flushes Dyspnoea, Respiration abnormal, Dysphonia,                                                                                                                                     |
-| Gastrointestinal disorders                           |                                                                                                                                              | Nausea                                                                                                                                                                                                                                | Dry mouth, Vomiting                                                                  | Hiccups Abdominal pain, Constipation, Diarrhoea, Gastrointestinal haemorrhage, Peptic ulcer, Dysphagia, Dyspepsia, Glossodynia, Flatulence, Saliva discolouration, Salivary hypersecretion |
-| Skin and subcutaneous tissue disorders               |                                                                                                                                              | Dermatitis contact                                                                                                                                                                                                                    | Panniculitis, Rash                                                                   | Angioedema, Hyperhidrosis, Pruritus, Henoch- Schonlein purpura, Urticaria, Sweat discolouration, Alopecia                                                                                  |
-| Musculoskeletal and connective tissue disorders      |                                                                                                                                              |                                                                                                                                                                                                                                       | Pain in extremity                                                                    | Muscle spasms, Trismus                                                                                                                                                                     |
-| Renal and urinary disorders                          |                                                                                                                                              |                                                                                                                                                                                                                                       |                                                                                      | Urinary retention, Chromaturia, Urinary incontinence                                                                                                                                       |
-| Reproductive system and breast disorders             |                                                                                                                                              |                                                                                                                                                                                                                                       |                                                                                      | Priapism                                                                                                                                                                                   |
-| General disorders and administration site conditions | Infusion site erythema 1, 2 , Infusion site eschar 1, 2 , Infusion site haematoma 1, 2 , Infusion site nodule 1, 2 , Infusion site pain 1, 2 | Infusion site discolouration, Infusion site haemorrhage, Infusion site induration, Infusion site pruritus, Infusion site reaction (unspecified), Infusion site swelling 1, 2 , Infusion site vesicles, Therapeutic response shortened | Asthenia, Discomfort, Other infusion site reactions 1 , Peripheral edema 1 , Pyrexia | Fatigue, Malaise, Gait disturbance, Chest pain                                                                                                                                             |
+| System Organ Class                                   | Very common                                                                                            | Common                                                                             | Uncommon                                                                             | Not known 3                                                                                                                                                                        |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Eye disorders                                        |                                                                                                        |                                                                                    | Somnolence, Taste disorder                                                           | Vision blurred, Diplopia, Mydriasis, Oculogyric crisis, Blepharospasm                                                                                                              |
+| Cardiac disorders                                    |                                                                                                        |                                                                                    |                                                                                      | Palpitations, Cardiac rhythm disorders                                                                                                                                             |
+| Vascular disorders                                   |                                                                                                        | Hypotension                                                                        | Orthostatic hypotension                                                              | Hypertension, Syncope, Thrombophlebitis, Hot flushes                                                                                                                               |
+| Respiratory, thoracic and mediastinal disorders      |                                                                                                        |                                                                                    |                                                                                      | Dyspnoea, Respiration abnormal, Dysphonia, Hiccups                                                                                                                                 |
+| Gastrointestinal disorders                           |                                                                                                        | Nausea                                                                             | Dry mouth, Vomiting                                                                  | Abdominal pain, Constipation, Diarrhoea, Gastrointestinal haemorrhage, Peptic ulcer, Dysphagia, Dyspepsia, Glossodynia, Flatulence, Saliva discolouration, Salivary hypersecretion |
+| Skin and subcutaneous tissue disorders               |                                                                                                        | Dermatitis contact                                                                 | Panniculitis, Rash                                                                   | Angioedema, Hyperhidrosis, Pruritus, Henoch- Schonlein purpura, Urticaria, Sweat discolouration, Alopecia                                                                          |
+| Musculoskeletal and connective tissue disorders      |                                                                                                        |                                                                                    | Pain in extremity                                                                    | Muscle spasms, Trismus                                                                                                                                                             |
+| Renal and urinary disorders                          |                                                                                                        |                                                                                    |                                                                                      | Urinary retention, Chromaturia, Urinary incontinence                                                                                                                               |
+| Reproductive system and breast disorders             |                                                                                                        |                                                                                    |                                                                                      | Priapism                                                                                                                                                                           |
+| General disorders and administration site conditions | Infusion site erythema 1, 2 , Infusion site eschar 1, 2 , Infusion site haematoma 1, 2 , Infusion site | Infusion site discolouration, Infusion site haemorrhage, Infusion site induration, | Asthenia, Discomfort, Other infusion site reactions 1 , Peripheral edema 1 , Pyrexia | Fatigue, Malaise, Gait disturbance, Chest pain                                                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                             | Very common   | Common   | Uncommon                                                          | Not known 3              |
-|------------------------------------------------|---------------|----------|-------------------------------------------------------------------|--------------------------|
-| Investigations                                 |               |          |                                                                   | Weight gain, Weight lost |
-| Injury, poisoning and procedural complications |               | Fall     | Skin abrasion                                                     |                          |
-| Product issues                                 |               |          | Leakage of medication on the skin that could cause local reaction |                          |
+| System Organ Class                             | Very common                           | Common                                                                                                                                             | Uncommon                                                          | Not known 3              |
+|------------------------------------------------|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------|
+|                                                | nodule 1, 2 , Infusion site pain 1, 2 | Infusion site pruritus, Infusion site reaction (unspecified), Infusion site swelling 1, 2 , Infusion site vesicles, Therapeutic response shortened |                                                                   |                          |
+| Investigations                                 |                                       |                                                                                                                                                    |                                                                   | Weight gain, Weight lost |
+| Injury, poisoning and procedural complications |                                       | Fall                                                                                                                                               | Skin abrasion                                                     |                          |
+| Product issues                                 |                                       |                                                                                                                                                    | Leakage of medication on the skin that could cause local reaction |                          |
 
-- 1 Grouped terms that include closely related preferred terms.
-- 2 See description of selected adverse reactions.
-- 3 These adverse reactions have not been reported with Onerji, but are expected for oral levodopa.
+1 Grouped terms that include closely related preferred terms.
+
+2 See description of selected adverse reactions.
+
+3 These adverse reactions have not been reported with Onerji, but are expected for oral levodopa.
 
 ## Description of selected adverse reactions
 
@@ -363,13 +367,13 @@ In clinical studies, 3% of the Parkinson's disease patients treated with Onerji 
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.9 Overdose
 
 In the event of an overdose with Onerji, the infusion should be stopped and the medicinal product delivery pump disconnected.
 
 The management of an overdose is in general the same as that of an overdose of levodopa. Pyridoxine is not effective in reversing the actions of levodopa/carbidopa.
-
-<div style=\"page-break-after: always\"></div>
 
 Monitor patients and provide supportive care. Electrocardiographic monitoring should be used, and the patient observed carefully for the development of cardiac arrhythmias; if necessary, an appropriate antiarrhythmic therapy should be given.
 
@@ -399,21 +403,21 @@ This trial consisted of the following consecutive periods:
 - (b) 4 to 6-week open-label conversion period to Onerji supplemented with oral immediate-release levodopa/carbidopa as needed
 - (c) 12-week, randomised, double-blind, double-dummy, parallel-group, active-controlled trial (the maintenance period).
 
-Patients (with modified Hoehn and Yahr scale ≤ 3 in 'On' stage) were eligible for participation in the trial if they were experiencing an average of at least 2.5 hours of 'Off' time daily on current treatment , with at least 4 doses/day of levodopa/dopa decarboxylase inhibitor (or at least 3 doses/day of extended-release levodopa/dopa decarboxylase inhibitor) and a minimum of 400 mg/day levodopa equivalent. Concomitant treatment with dopamine agonists, selective monoamine oxidase-B inhibitors, amantadine, and anticholinergics was allowed, provided the doses were stable before enrolment.
+Patients (with modified Hoehn and Yahr scale ≤ 3 in 'On' stage) were eligible for participation in the trial if they were experiencing an average of at least 2.5 hours of 'Off' time daily on current treatment, with at least 4 doses/day of levodopa/dopa decarboxylase inhibitor (or at least 3 doses/day of extended-release levodopa/dopa decarboxylase inhibitor) and a minimum of 400 mg/day levodopa equivalent. Concomitant treatment with dopamine agonists, selective monoamine oxidase-B inhibitors, amantadine, and anticholinergics was allowed, provided the doses were stable before enrolment.
+
+<div style=\"page-break-after: always\"></div>
 
 Patients were not allowed to receive rescue levodopa or catechol-O-methyl transferase inhibitors during the trial.
 
 The trial enrolled 381 patients. Of those, 259 patients were randomised (1:1) to receive either oral immediate-release carbidopa/levodopa (n = 131), or Onerji (n = 128), at the doses determined during the adjustment and conversion periods, with at least one dose of oral immediate-release carbidopa/levodopa in the morning. Onerji or the placebo solution were administered subcutaneously continuously over 24 hours by a medicinal product-delivery pump system.
 
-<div style=\"page-break-after: always\"></div>
-
-Among the 259 randomised patients (63.7% men), at enrolment, the mean age (63.5 years, with 44.8% of patients aged 65 years or older) , the mean Parkinson's disease duration (9.6 years), the mean duration of motor fluctuations (4.5 years), the daily mean 'On' time without troublesome dyskinesia (9.4 hours), and the daily mean 'Off' time (6.07 hours) were distributed similarly between treatment groups.
+Among the 259 randomised patients (63.7% men), at enrolment, the mean age (63.5 years, with 44.8% of patients aged 65 years or older), the mean Parkinson's disease duration (9.6 years), the mean duration of motor fluctuations (4.5 years), the daily mean 'On' time without troublesome dyskinesia (9.4 hours), and the daily mean 'Off' time (6.07 hours) were distributed similarly between treatment groups.
 
 At randomisation (baseline), mean (standard deviation) levodopa total daily dose was 1237 (447) mg in patients randomised to Onerji (including the add-on immediate-release carbidopa/levodopa), and 1065 (409) mg in patients randomised to immediate-release carbidopa/levodopa.
 
 The primary efficacy endpoint in the trial was the mean change from baseline to Week 12 in the total daily mean 'On' time without troublesome dyskinesia, based on a Parkinson's disease diary normalised to a 16-hour awake period. Onerji group showed superior efficacy in the primary endpoint, compared to immediate-release levodopa/carbidopa group (1.72 hours, p &lt; 0.0001). There was also a statistically significant difference between the groups in the mean change in \"Off\" time (key secondary endpoint), in favour of Onerji group, compared to immediate-release levodopa/carbidopa (-1.4 hours, p &lt; 0.0001) (Table 4, Figure 1).
 
-Table 4  Change from baseline to week 12 in 'On' time without troublesome dyskinesia and in 'Off' time
+Table 4 Change from baseline to week 12 in 'On' time without troublesome dyskinesia and in 'Off' time
 
 | Treatment group                                  | Baseline mean                                    | Least square (LS) mean change from baseline to week 12   | Treatment effect (difference)   |
 |--------------------------------------------------|--------------------------------------------------|----------------------------------------------------------|---------------------------------|
@@ -426,19 +430,21 @@ Table 4  Change from baseline to week 12 in 'On' time without troublesome dyskin
 
 a p value &lt; 0.0001
 
-Least Square mean change from baseline based on Analysis of Covariance Adj: Adjusted (Least-squares means); DBD1: Double-blind period Day 1; DBDD: Double-blind, double-dummy; DBW1/4/8/12: Double-blind period Week1/4/8/12; IR: Immediate-release; IRD1: Immediate-release levodopa/carbidopa (IR-LD/CD) open label Adjustment Period Day 1; ND: Onerji; NDD1: Onerji open label Conversion Period Day 1; SE: Standard error.
+Least Square mean change from baseline based on Analysis of Covariance
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1 Primary analysis -Least-squares means (standard error) by visit of normalised 'ON' time without dyskinesia (hours) actual values (ITT Set)
+Figure 1 Primary analysis - Least-squares means (standard error) by visit of normalised 'ON' time without dyskinesia (hours) actual values (ITT Set)
 
 <!-- image -->
 
-Analysis for actual values at each post baseline visit was performed separately and similarly as for the primary analysis using the analysis of covariance (ANCOVA) with GLM procedure in SAS ®  following multiple imputation under an assumption of missing at random (MAR).
+Adj: Adjusted (Least-squares means); DBD1: Double-blind period Day 1; DBDD: Double-blind, double-dummy; DBW1/4/8/12: Double-blind period Week1/4/8/12; IR: Immediate-release; IRD1: Immediate-release levodopa/carbidopa (IR-LD/CD) open label Adjustment Period Day 1; ND: Onerji; NDD1: Onerji open label Conversion Period Day 1; SE: Standard error.
+
+Analysis for actual values at each post baseline visit was performed separately and similarly as for the primary analysis using the analysis of covariance (ANCOVA) with GLM procedure in SAS ® following multiple imputation under an assumption of missing at random (MAR).
 
 Statistical significance was also achieved for other Secondary endpoints according to pre-defined hierarchy using fixed sequence approach (Table 5).
 
-Table 5  Other secondary endpoints
+Table 5 Other secondary endpoints
 
 | Treatment group                                    | Baseline mean                                      | Least square (LS) mean change from baseline to week 12 a   | Treatment effect (difference)   |
 |----------------------------------------------------|----------------------------------------------------|------------------------------------------------------------|---------------------------------|
@@ -497,7 +503,7 @@ Carbidopa is approximately 36% bound to plasma proteins. Carbidopa does not cros
 
 Levodopa undergoes metabolism via 4 pathways: The 2 major ones are the decarboxylation by dopa decarboxylase to dopamine, which may be further metabolised to form 3,4-dihydroxyphenyl acetic acid and homovanillic acid and, to a lesser extent, the 3-O-methylation by catechol-Omethyltransferase (COMT) to form 3-O-methyldopa. Other metabolic pathways are transamination by tyrosine aminotransferase, and oxidation by tyrosinase or other oxidants.
 
-Carbidopa is metabolised to 3 main metabolites (2-methyl-3-methoxy-4 hydroxy-phenylpropionic acid, 2-methyl-3,4-dihydroxy-phenylpropionic acid) and 3-hydroxyα -methyl-phenylpropionic acid. These 3 metabolites are primarily eliminated in the urine unchanged or as glucuronide conjugates. Unchanged carbidopa accounts for 30% of the total urinary excretion.
+Carbidopa is metabolised to 3 main metabolites (2-methyl-3-methoxy-4 hydroxy-phenylpropionic acid, 2-methyl-3,4-dihydroxy-phenylpropionic acid) and 3-hydroxy-α-methyl-phenylpropionic acid. These 3 metabolites are primarily eliminated in the urine unchanged or as glucuronide conjugates. Unchanged carbidopa accounts for 30% of the total urinary excretion.
 
 ## Elimination
 
@@ -559,7 +565,9 @@ Use immediately. The medicinal product is to be used within 24 hours (infusion p
 
 ## 6.4 Special precautions for storage
 
-Store in a freezer (-25 °C to -15 °C). Store in the original package in order to protect from light
+Store in a freezer (-25 °C to -15 °C).
+
+Store in the original package in order to protect from light
 
 Onerji should be thawed prior to use. Do not use Onerji for at least 5 hours after removal from the freezer.
 
@@ -602,8 +610,8 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Onerji is subcutaneously administered and may only be used with one of the following delivery systems:
 
-- Yurway Delivery System , which includes a Yurway Rechargeable Pump, a sterile single-use Yurway Medication Cartridge (reservoir) for the Onerji solution with attached vial adapters. It is used with sterile, single-use infusion sets. When using the Yurway Delivery System, refer to the Yurway Delivery System user manual for detailed instructions.
-- Crono Twin ND pump , which uses sterile single-use syringes (reservoirs), vial adapters and infusion sets. When using Crono Twin ND, refer to Crono Twin ND Instructions for Use for detailed instructions.
+- Yurway Delivery System, which includes a Yurway Rechargeable Pump, a sterile single-use Yurway Medication Cartridge (reservoir) for the Onerji solution with attached vial adapters. It is used with sterile, single-use infusion sets. When using the Yurway Delivery System, refer to the Yurway Delivery System user manual for detailed instructions.
+- Crono Twin ND pump, which uses sterile single-use syringes (reservoirs), vial adapters and infusion sets. When using Crono Twin ND, refer to Crono Twin ND Instructions for Use for detailed instructions.
 
 Proper training should be provided to the patient and to the caregiver (if applicable) prior to using the Yurway Delivery System or Crono Twin ND, and thereafter if needed. Only patients and their caregivers who have been trained and deemed competent may use the infusion pumps.
 
@@ -621,7 +629,7 @@ EU/1/26/2026/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 27 April 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -642,7 +650,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-The Qp Services GmbH Am Wasserturm 38 01616 Strehla Germany
+THE QP SERVICES GmbH Graßdorfer Straße 53 04425 Taucha Germany
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -667,9 +675,9 @@ An updated RMP should be submitted:
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-Prior to the launch of Onerji ®  in each Member State, Tanabe Pharma GmbH must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority. The educational programme is aimed at minimising the risk of infusion site reactions associated to Onerji ® treatment, enhancing awareness and educating patients (and/or their caregivers) on measures they should take to mitigate this risk.
+Prior to the launch of Onerji ® in each Member State, Tanabe Pharma GmbH must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority. The educational programme is aimed at minimising the risk of infusion site reactions associated to Onerji ® treatment, enhancing awareness and educating patients (and/or their caregivers) on measures they should take to mitigate this risk.
 
-Tanabe Pharma GmbH will ensure that in each Member State where Onerji ®  is marketed, all healthcare professionals who are expected to prescribe Onerji ®  have access to and provide their patients with the following educational package containing:
+Tanabe Pharma GmbH will ensure that in each Member State where Onerji ® is marketed, all healthcare professionals who are expected to prescribe Onerji ® have access to and provide their patients with the following educational package containing:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -718,7 +726,7 @@ Excipients: arginine, ascorbic acid (E 300), acetylcysteine, polysorbate 80 (E 4
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for infusion
+Solution for infusion
 
 30 vials
 
@@ -748,9 +756,7 @@ Store in a freezer at -25 °C to -15 °C.
 
 After thawing: Do not store above 25 °C. Do not refrigerate or refreeze.
 
-Use- by date: …………….. (
-
-Maximum 45 days. Cross out former expiry date.)
+Use-by date: …………….. (Maximum 45 days. Cross out former expiry date.)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -766,14 +772,12 @@ Tanabe Pharma GmbH Schiessstrasse 47 40549 Duesseldorf Germany
 
 EU/1/26/2026/001
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Onerji
@@ -792,16 +796,18 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Onerji (60 mg + 7.5 mg)/mL infusion levodopa/carbidopa Subcutaneous use
+Onerji (60 mg + 7.5 mg)/mL infusion levodopa/carbidopa
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+Subcutaneous use
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -813,8 +819,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 (432 mg + 54 mg)/7.2 mL
 
@@ -825,11 +831,13 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
 
-## Onerji (60 mg + 7.5 mg)/mL solution for infusion levodopa/carbidopa
+<div style=\"page-break-after: always\"></div>
+
+## Onerji (60 mg + 7.5 mg)/mL solution for infusion
+
+levodopa/carbidopa
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -854,7 +862,7 @@ Onerji contains the active substances levodopa and carbidopa, which belong to a 
 
 Onerji is used to treat alternating changes in the ability to move (motor fluctuations) in adults with advanced Parkinson's disease when these cannot be adequately controlled by other medicines taken by mouth. Parkinson's disease is a progressive disease of the nervous system that causes shaking, stiffness, slow movement and problems maintaining balance.
 
-In people with Parkinson's disease, the cells in the brain that make a chemical messenger known as dopamine begin to die causing the amount of dopamine in the brain to decrease. The active substance in Onerji, levodopa, increases dopamine in your body because the body converts levodopa into dopamine. This helps reduce the symptoms of Parkinson's disease . The other active substance in Onerji, carbidopa, helps levodopa work better by stopping it from being broken down too early in the body, so more of it reaches the brain. This also reduces side effects allowing levodopa to be used more effectively.
+In people with Parkinson's disease, the cells in the brain that make a chemical messenger known as dopamine begin to die causing the amount of dopamine in the brain to decrease. The active substance in Onerji, levodopa, increases dopamine in your body because the body converts levodopa into dopamine. This helps reduce the symptoms of Parkinson's disease. The other active substance in Onerji, carbidopa, helps levodopa work better by stopping it from being broken down too early in the body, so more of it reaches the brain. This also reduces side effects allowing levodopa to be used more effectively.
 
 ## 2. What you need to know before you use Onerji
 
@@ -888,6 +896,8 @@ Talk to your doctor, pharmacist or nurse before or during use of Onerji if one o
 - have weakness, pain, numbness or loss of sensation in your fingers or feet (polyneuropathy). Your doctor will check for these signs and symptoms before you start Onerji and periodically thereafter. Tell your doctor if you already have any nerve disorders;
 - develop skin changes at the site where you are given the infusion (drip) of Onerji. This includes redness, warmth, swelling or pain suggestive of infection, particularly if associated with fever.
 
+Treatment with high doses of levodopa/carbidopa may lead to low levels of vitamin B6, which can increase the risk of seizures. If you are receiving high doses of this medicine, your doctor may perform blood tests to check your vitamin B6 levels. Tell your doctor if you experience signs of low levels of vitamin B6, such as pale skin, weakness or breathlessness (anaemia), nerve pain or tingling in the hands and feet (polyneuropathy), or seizures.
+
 Do not stop using Onerji unless your doctor tells you to. Suddenly stopping or lowering your Onerji dose quickly may cause a serious problem called withdrawal-induced hyperpyrexia and confusion. This is characterised by fever, muscle stiffness, accelerated breathing, excessive sweating and changes in consciousness.
 
 During treatment, regular liver, kidney, heart function, blood and blood circulation checks by the doctor are recommended.
@@ -902,21 +912,20 @@ Onerji should not be used in children and adolescents under 18 years as it has n
 
 Tell your doctor or pharmacist if you are using, have recently used or might use.
 
+<div style=\"page-break-after: always\"></div>
+
 - medicines to treat depression called non-selective monoamine oxidase (MAO) inhibitors such as phenelzine, tranylcypromine. Do not use Onerji when using these medicines. They must be stopped at least two weeks before you start using Onerji.
 
 Also tell your doctor or pharmacist if you are using:
 
 - medicines to treat depression called tricyclic antidepressants such as trimipramine, amitriptyline
 - medicines to treat Parkinson's disease called:
-
-<div style=\"page-break-after: always\"></div>
-
-- -selective MAO-B inhibitors such as rasagiline and selegiline
-- -COMT (catechol-O-methyl transferase) inhibitors such as entacapone, opicapone, tolcapone
-- -amantadine
+- selective MAO-B inhibitors such as rasagiline and selegiline
+- COMT (catechol-O-methyl transferase) inhibitors such as entacapone, opicapone, tolcapone
+- amantadine
 - medicines to treat high blood pressure
 - medicines to treat mental or anxiety disorders such as phenothiazines, butyrophenones, risperidone
-- medicines against nausea or vomiting -particularly metoclopramide
+- medicines against nausea or vomiting - particularly metoclopramide
 - isoniazid, a medicine to treat tuberculosis
 
 ## Pregnancy and breast-feeding
@@ -949,11 +958,11 @@ Before using Onerji, refer to the delivery pump instructions for use provided in
 
 When using Yurway Delivery System also refer to the Yurway Delivery System user manual for detailed instructions.
 
+<div style=\"page-break-after: always\"></div>
+
 When using Crono Twin ND also refer to Crono Twin ND instructions for use for detailed instructions.
 
 Always follow sterile techniques while using Onerji, change the infusion site and use new infusion sets daily. Avoid infusion sites over skin lesions like nodules, bruises, areas of redness or swelling, over bone, blood vessels, tattoos or scar tissue.
-
-<div style=\"page-break-after: always\"></div>
 
 ## How much medicine to use
 
@@ -979,7 +988,7 @@ If you forget to use Onerji, start your pump with your normal dose as soon as po
 
 Do not stop using Onerji permanently unless your doctor tells you to. Suddenly stopping Onerji dose may cause a serious problem called withdrawal-induced hyperpyrexia and confusion (see also warnings and precautions).
 
-Onerji use can be stopped for brief periods of time, such as when taking a shower. If stopping Onerji use for more than 3 hours, take oral levodopa medicine under doctor 's instruction until Onerji treatment resumes.
+Onerji use can be stopped for brief periods of time, such as when taking a shower. If stopping Onerji use for more than 3 hours, take oral levodopa medicine under doctor's instruction until Onerji treatment resumes.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
@@ -987,15 +996,17 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Stop using Onerji and tell your doctor immediately , if you notice any of the following serious side effects:
+Stop using Onerji and tell your doctor immediately, if you notice any of the following serious side effects:
 
 - swelling of the face, tongue or throat which makes it difficult to swallow or breathe, or nettletype skin rash. These may be symptoms of a severe allergic reaction.
 
 Frequency of these events cannot be estimated from available data. Your doctor will decide if you can keep using Onerji.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other side effects of Onerji
 
-Very common: may affect more than 1 in 10 people
+## Very common: may affect more than 1 in 10 people
 
 - infection at the site of infusion
 - redness (erythema) at the site of infusion
@@ -1003,11 +1014,8 @@ Very common: may affect more than 1 in 10 people
 - a collection of blood under the skin (haematoma) at the site of infusion
 - pain at the site of infusion
 - a bump (nodule) at the site of infusion
-
-<div style=\"page-break-after: always\"></div>
-
 - movement disorders (dyskinesia), characterised by involuntary muscle movements
-- low blood levels of vitamin B6
+- having too little vitamin B6
 
 ## Common: may affect up to 1 in 10 people
 
@@ -1047,8 +1055,11 @@ Very common: may affect more than 1 in 10 people
 - difficulty to perform movements (hypokinesia)
 - not being able to move muscles voluntarily (akinesia)
 - decreased appetite
-- muscle spasms you cannot control -affecting your eyes, head, neck and body (dystonia)
+- muscle spasms you cannot control - affecting your eyes, head, neck and body (dystonia)
 - confusion (confusional state)
+
+<div style=\"page-break-after: always\"></div>
+
 - false beliefs (delusion)
 - depression
 - discomfort
@@ -1057,9 +1068,6 @@ Very common: may affect more than 1 in 10 people
 - allergic reaction
 - rash
 - difficulty controlling actions or reactions (impulse control disorders)
-
-<div style=\"page-break-after: always\"></div>
-
 - pain in arms or legs (extremity)
 - inflammation in the fatty tissue below the skin (panniculitis)
 - feeling faint (presyncope)
@@ -1104,6 +1112,9 @@ Not known: these side effects have not been reported with Onerji, but are expect
 - abnormal heart rhythms
 - high blood pressure
 - fainting
+
+<div style=\"page-break-after: always\"></div>
+
 - inflamed veins with blood clots
 - sudden waves of heat
 - shortness of breath
@@ -1112,9 +1123,6 @@ Not known: these side effects have not been reported with Onerji, but are expect
 - hiccups
 - stomach ache
 - hard to pass stool
-
-<div style=\"page-break-after: always\"></div>
-
 - loose stools
 - flatulence
 - bleeding in the gut
@@ -1158,11 +1166,11 @@ This medicine is stored in a freezer before dispensed to patients or caregivers.
 
 After opening: use immediately. The product is to be used within 24 hours (infusion period).
 
-After thawing, do not store Onerji above 25 °C and do not refrigerate or refreeze . Once removed from the freezer, unopened vials may be stored for up to 45 days (use-by-date). Do not use this medicine after the use-by-date.
+<div style=\"page-break-after: always\"></div>
+
+After thawing, do not store Onerji above 25 °C and do not refrigerate or refreeze. Once removed from the freezer, unopened vials may be stored for up to 45 days (use-by-date). Do not use this medicine after the use-by-date.
 
 Only 2 vials should be taken out of the carton at a time for administration of the daily dose. Store the remaining Onerji vials in the original package.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1171,7 +1179,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Onerji contains
 
 - The active substances are levodopa and carbidopa. Each millilitre contains 60 mg levodopa and 7.5 mg carbidopa (as monohydrate). Each 7.2 mL vial contains 432 mg levodopa and 54 mg carbidopa (as monohydrate).
-- The other ingredients are arginine, ascorbic acid (E 300), acetylcysteine, polysorbate 80 (E 433) (see section 2 'Onerji contains polysorbate 80' ), water for injections.
+- The other ingredients are arginine, ascorbic acid (E 300), acetylcysteine, polysorbate 80 (E 433) (see section 2 'Onerji contains polysorbate 80'), water for injections.
 
 ## What Onerji looks like and contents of the pack
 
@@ -1185,7 +1193,7 @@ Tanabe Pharma GmbH Schiessstrasse 47 40549 Duesseldorf Germany
 
 ## Manufacturer
 
-The Qp Services GmbH Am Wasserturm 38 01616 Strehla Germany
+THE QP SERVICES GmbH Graßdorfer Straße 53 04425 Taucha Germany
 
 ## This leaflet was last revised in
 
@@ -1196,16 +1204,17 @@ Detailed information on this medicine is available on the European Medicines Age
 ## General precautions when preparing Onerji for administration
 
 - Onerji vials are for single use only.
-- Prepare the daily infusion dose just before it is given , to ensure that no more than 25 hours pass from the period between initiation of preparation to end of daily administration.
+- Prepare the daily infusion dose just before it is given, to ensure that no more than 25 hours pass from the period between initiation of preparation to end of daily administration.
 - Do not use any component if it or its packaging is damaged; safely dispose and use a new item.
 - Do not use Onerji if the solution's colour is brown.
 - If the solution contains bubbles, wait for them to disappear before removing the blue cap from the vial.
 - Do not use teeth to remove the blue cap from the Onerji vial.
+
+<div style=\"page-break-after: always\"></div>
+
 - Do not touch the grey rubber stopper (grey septum) on top of the Onerji vial to minimise risk of contamination.
 - If any Onerji is spilled, it must be cleaned up immediately to prevent accidental contact with skin and eyes.
 - Any remaining medicine in the reservoir at the end of the daily infusion should be discarded.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Infusion sites selections
 
@@ -1236,37 +1245,31 @@ Onerji may only be used with one of the following delivery systems:
 - Yurway Delivery System
 - Crono Twin ND pump
 
-## Preparation of Onerji infusion when using the Yurway Delivery System
+Preparation of Onerji infusion when using the Yurway Delivery System For detailed instructions on how to deliver Onerji when using the Yurway Delivery System, refer to the Yurway Delivery System user manual.
 
-For detailed instructions on how to deliver Onerji when using the Yurway Delivery System, refer to the Yurway Delivery System user manual.
+<div style=\"page-break-after: always\"></div>
 
 - Wash hands thoroughly with soap and water.
 - Prepare a clean working area on a flat and level surface.
 - Gather the components: 1 Yurway cartridge (preassembled with 2 vial adapters), alcohol pads, 2 infusion sets, 2 Onerji vials, 2 clean gauze pads
-
-<div style=\"page-break-after: always\"></div>
-
 - Set up the Yurway Control Station according to the Yurway Delivery System user manual section 4.3.2.
 - Insert the pump into the pump holder.
-- -Insert the Yurway Rechargeable Pump into the pump holder.
-- -Wait until the Yurway Control Station establishes a connection with the Yurway Rechargeable Pump (approximately 30 seconds).
+- Insert the Yurway Rechargeable Pump into the pump holder.
+- Wait until the Yurway Control Station establishes a connection with the Yurway Rechargeable Pump (approximately 30 seconds).
 
 <!-- image -->
 
 Do not use the Yurway Medication Cartridge if dropped; safely dispose and use a new cartridge.
 
 - Attach Yurway Medication Cartridge to pump.
-- -Open a new Yurway Medication Cartridge and remove from packaging.
-- -Slide the Yurway Medication Cartridge onto the Yurway Rechargeable Pump.
-- -Tap NEXT on the Yurway Control Station screen to proceed.
+- Open a new Yurway Medication Cartridge and remove from packaging.
+- Slide the Yurway Medication Cartridge onto the Yurway Rechargeable Pump.
+- Tap NEXT on the Yurway Control Station screen to proceed.
 - Check Onerji solution in the vials
-- -Gently invert each Onerji vial 5 times. Do not shake to avoid forming bubbles.
-- -The solution should be clear, yellowish and without particles.
+- Gently invert each Onerji vial 5 times. Do not shake to avoid forming bubbles.
+- The solution should be clear, yellowish and without particles.
 - Insert vial into vial adapter connected to the cartridge (reservoirs).
-- -Remove the blue cap from the Onerji vials.
-- -Dispose of the blue cap in the trash.
-- -Insert the two Onerji vials, so they face down, into the vial ada pters until they 'click' into place.
-- -Tap NEXT on the Yurway Control Station screen to proceed.
+- Remove the blue cap from the Onerji vials.
 
 <!-- image -->
 
@@ -1276,21 +1279,27 @@ Do not use the Yurway Medication Cartridge if dropped; safely dispose and use a 
 
 <div style=\"page-break-after: always\"></div>
 
+- Dispose of the blue cap in the trash.
+- Insert the two Onerji vials, so they face down, into the vial adapters until they 'click' into place.
+- Tap NEXT on the Yurway Control Station screen to proceed.
 - Check vials are inserted correctly.
-- -Press down on the Onerji vials to ensure that they are fully inserted.
-- -Press the button on the Yurway Control Station according the Yurway user manual section 4.4.3.
+- Press down on the Onerji vials to ensure that they are fully inserted.
+- Press the button on the Yurway Control Station according the Yurway user manual section 4.4.3.
 - Wait while Yurway Medication Cartridge fills.
-- -Leave the Yurway Infusion Pump (Yurway Rechargeable Pump connected to the Yurway Medication Cartridge) in the pump holder until fill is complete. This takes approximately 7 minutes.
-- -The Yurway Control Station will show the progress of the filling and inform when the process is complete.
+- Leave the Yurway Infusion Pump (Yurway Rechargeable Pump connected to the Yurway Medication Cartridge) in the pump holder until fill is complete. This takes approximately 7 minutes.
+- The Yurway Control Station will show the progress of the filling and inform when the process is complete.
 - Remove vial adapters from Yurway Medication Cartridge.
-- -Unscrew the vial adapters (counter-clockwise); there may be residual solution in the Onerji vials, this is normal.
-- -Dispose of used vials and connected vial adapters according to local regulations.
 
 <!-- image -->
 
 <!-- image -->
 
 <!-- image -->
+
+2
+
+- Unscrew the vial adapters (counter-clockwise); there may be residual solution in the Onerji vials, this is normal.
+- Dispose of used vials and connected vial adapters according to local regulations.
 
 Refer to your Yurway Delivery System user manual for the next steps.
 
@@ -1302,23 +1311,24 @@ For detailed instructions on how to deliver Onerji when using the Crono Twin ND,
 - Prepare a clean working area on a flat and level surface.
 - Gather the components: 2 CRN Crono 10 mL Luer-Lock syringes, 2 vial adapters, alcohol pads, 2 infusion sets, 2 Onerji vials, 2 clean gauze pads.
 - Check Onerji solution in the vials:
-- -Gently invert each Onerji vial 5 times. Do not shake to avoid forming bubbles.
-- -The solution should be clear, yellowish and without particles.
+- Gently invert each Onerji vial 5 times. Do not shake to avoid forming bubbles.
 
 <div style=\"page-break-after: always\"></div>
 
+- The solution should be clear, yellowish and without particles.
+
 <!-- image -->
+
+CC
 
 - Take 2 Onerji vials and remove the blue caps.
 - Attach the vial adapters to the vials (perform for 2 vials).
-- -Fully peel off the vial adapter lid.
-- -Hold the vial firmly on a hard surface; push the adapter tray straight onto the vial until it 'clicks' .
-- -Lift the vial adapter tray by holding the outer rim, straight off the vial.
+- Fully peel off the vial adapter lid.
+- Hold the vial firmly on a hard surface; push the adapter tray straight onto the vial until it 'clicks'.
+- Lift the vial adapter tray by holding the outer rim, straight off the vial.
 - Connect the syringes to the vials.
-- -Remove the syringe from the packaging.
-- -Screw the syringe clockwise down onto the vial adapter connector.
-
-<!-- image -->
+- Remove the syringe from the packaging.
+- Screw the syringe clockwise down onto the vial adapter connector.
 
 <!-- image -->
 
@@ -1332,13 +1342,15 @@ For detailed instructions on how to deliver Onerji when using the Crono Twin ND,
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 - Draw up the solution from the vials.
-- -Invert the vial. Push the plunger up until it stops.
-- -Hold vertically and pull back the plunger to withdraw 6.5 mL.
-- -Confirm you have at least 6.5 mL before you disconnect the vial.
+- Invert the vial. Push the plunger up until it stops.
+- Hold vertically and pull back the plunger to withdraw 6.5 mL.
+- Confirm you have at least 6.5 mL before you disconnect the vial.
 - Remove the vials from the syringes
-- -Invert the vial and unscrew counter-clockwise to remove the syringe.
-- -Dispose of the used Onerji vials and connected vial adapters according to local regulations.
+- Invert the vial and unscrew counter-clockwise to remove the syringe.
+- Dispose of the used Onerji vials and connected vial adapters according to local regulations.
 
 <!-- image -->
 

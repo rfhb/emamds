@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-28 15:50:55
+document_datetime: 2026-09-22 12:30:40
 document_pages: 99
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/leflunomide-zentiva-epar-product-information_en.pdf
 document_name: leflunomide-zentiva-epar-product-information_en.pdf
 version: success
-processing_time: 22.1915392
-conversion_datetime: 2026-01-29 12:05:47.315491
+processing_time: 141.5988345
+conversion_datetime: 2026-09-25 19:09:41.46051
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.34.0
+  docling-jobkit: 3.7.0
+  docling: 2.130.0
+  docling-core: 2.98.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.21.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -63,7 +63,7 @@ Alanine aminotransferase (ALT) or serum glutamopyruvate transferase (SGPT) and a
 - before initiation of leflunomide,
 - every 8 weeks thereafter (see section 4.4).
 
-## Posology
+Posology
 
 - In rheumatoid arthritis: leflunomide therapy is usually started with a loading dose of 100 mg once daily for 3 days. Omission of the loading dose may decrease the risk of adverse events (see section 5.1).
 
@@ -105,11 +105,9 @@ Leflunomide Zentiva tablets are for oral use. The tablets should be swallowed wh
 
 Concomitant administration of hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) is not advisable.
 
-The active metabolite of leflunomide, A771726, has a long half-life, usually 1 to 4 weeks. Serious undesirable effects might occur (e.g. hepatotoxicity, haematotoxicity or allergic reactions, see below), even if the treatment with leflunomide has been stopped. Therefore, when such toxicities occur or if
+The active metabolite of leflunomide, A771726, has a long half-life, usually 1 to 4 weeks. Serious undesirable effects might occur (e.g. hepatotoxicity, haematotoxicity or allergic reactions, see below), even if the treatment with leflunomide has been stopped. Therefore, when such toxicities occur or if for any other reason A771726 needs to be cleared rapidly from the body, the washout procedure has to be followed. The procedure may be repeated as clinically necessary.
 
 <div style=\"page-break-after: always\"></div>
-
-for any other reason A771726 needs to be cleared rapidly from the body, the washout procedure has to be followed. The procedure may be repeated as clinically necessary.
 
 For washout procedures and other recommended actions in case of desired or unintended pregnancy, see section 4.6.
 
@@ -153,9 +151,23 @@ In case of ulcerative stomatitis, leflunomide administration should be discontin
 
 Very rare cases of Stevens Johnson syndrome or toxic epidermal necrolysis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported in patients treated with leflunomide. As soon as skin and/or mucosal reactions are observed which raise the suspicion of such severe reactions, Leflunomide Zentiva and any other possibly associated treatment must be discontinued, and a leflunomide washout procedure initiated immediately. A complete washout is essential in such cases. In such cases re-exposure to leflunomide is contraindicated (see section 4.3).
 
+## Haemophagocytic lymphohistiocytosis (HLH) / Macrophage activation syndrome (MAS):
+
+Haemophagocytic lymphohistiocytosis (HLH), including macrophage activation syndrome (MAS), has been reported in patients treated with leflunomide.
+
+Although rare, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) associated with leflunomide may be complicated by HLH or MAS. Cases of HLH/MAS have also been reported independently of DRESS.
+
+HLH/MAS is a serious and potentially life-threatening hyperinflammatory condition. Clinical features may include persistent fever, rash, neurological symptoms, hepatosplenomegaly, lymphadenopathy, cytopenias, markedly elevated serum ferritin, hypertriglyceridaemia, and abnormalities of liver function and coagulation.
+
+Patients should be informed about the signs and symptoms associated with HLH/MAS and advised to seek medical attention immediately if such symptoms occur during leflunomide treatment.
+
+If patients develop any of these conditions, stop leflunomide treatment and perform an accelerated drug elimination procedure (see section 4.4). Early recognition and prompt management are important to improve outcomes.
+
 Pustular psoriasis and worsening of psoriasis have been reported after the use of leflunomide. Treatment withdrawal may be considered taking into account patient's disease and past history.
 
 Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is suspected or if skin ulcers persist despite appropriate therapy, leflunomide discontinuation and a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
+
+<div style=\"page-break-after: always\"></div>
 
 Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the peri-surgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing.
 
@@ -165,11 +177,7 @@ It is known that medicinal products with immunosuppressive properties - like lef
 
 Rare cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported in patients receiving leflunomide among other immunosuppressants.
 
-Before starting treatment, all patients should be evaluated for active and inactive ('latent') tuberculosis, as per local recommendations. This can include medical history, possible previous contact with tuberculosis, and/or appropriate screening such as lung x-ray, tuberculin test and/or interferon-gamma release assay, as applicable. Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
-
-<div style=\"page-break-after: always\"></div>
-
-Patients with a history of tuberculosis should be carefully monitored because of the possibility of reactivation of the infection.
+Before starting treatment, all patients should be evaluated for active and inactive ('latent') tuberculosis, as per local recommendations. This can include medical history, possible previous contact with tuberculosis, and/or appropriate screening such as lung x-ray, tuberculin test and/or interferon-gamma release assay, as applicable. Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised. Patients with a history of tuberculosis should be carefully monitored because of the possibility of reactivation of the infection.
 
 ## Respiratory reactions
 
@@ -187,6 +195,8 @@ Colitis, including microscopic colitis has been reported in patients treated wit
 
 Blood pressure must be checked before the start of leflunomide treatment and periodically thereafter.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Procreation (recommendations for men)
 
 Male patients should be aware of the possible male-mediated foetal toxicity. Reliable contraception during treatment with leflunomide should also be guaranteed.
@@ -198,8 +208,6 @@ In either case the A771726 plasma concentration is then measured for the first t
 ## Washout procedure
 
 Colestyramine 8 g is administered 3 times daily. Alternatively, 50 g of activated powdered charcoal is administered 4 times daily. Duration of a complete washout is usually 11 days. The duration may be modified depending on clinical or laboratory variables.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Lactose
 
@@ -221,6 +229,8 @@ In a small (n=30) study with co-administration of leflunomide (10 to 20 mg per d
 
 In patients with rheumatoid arthritis, no pharmacokinetic interaction between the leflunomide (10 to 20 mg per day) and methotrexate (10 to 25 mg per week) was demonstrated.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Vaccinations
 
 No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long half-life of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Leflunomide Zentiva.
@@ -232,8 +242,6 @@ There have been case reports of increased prothrombin time, when leflunomide and
 ## NSAIDS/Corticosteroids
 
 If the patient is already receiving nonsteroidal anti-inflammatory drugs (NSAIDs) and/or corticosteroids, these may be continued after starting leflunomide.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect of other medicinal products on leflunomide:
 
@@ -253,21 +261,21 @@ In a study in which leflunomide was given concomitantly with a triphasic oral co
 
 The following pharmacokinetic and pharmacodynamic interaction studies were conducted with A771726 (principal active metabolite of leflunomide). As similar drug-drug interactions cannot be excluded for leflunomide at recommended doses, the following study results and recommendations should be considered in patients treated with leflunomide:
 
-## Effect on repaglinide (CYP2C8 substrate)
-
-There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of CYP2C8 in vivo . Therefore, monitoring patients with concomitant use of medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, is recommended as they may have higher exposure.
-
-## Effect on caffeine (CYP1A2 substrate)
-
-Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substrate) by 18% and 55%, respectively, suggesting that A771726 may be a weak inducer of CYP1A2 in vivo . Therefore, medicinal products metabolised by CYP1A2 (such as duloxetine, alosetron, theophylline and tizanidine) should be used with caution during treatment, as it could lead to the reduction of the efficacy of these products.
-
-## Effect on organic anion transporter 3 (OAT3) substrates
-
-There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of OAT3 in vivo . Therefore, when co-administered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indomethacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
+Effect on repaglinide (CYP2C8 substrate)
 
 <div style=\"page-break-after: always\"></div>
 
-Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates
+There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of CYP2C8 in vivo. Therefore, monitoring patients with concomitant use of medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, is recommended as they may have higher exposure.
+
+## Effect on caffeine (CYP1A2 substrate)
+
+Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substrate) by 18% and 55%, respectively, suggesting that A771726 may be a weak inducer of CYP1A2 in vivo. Therefore, medicinal products metabolised by CYP1A2 (such as duloxetine, alosetron, theophylline and tizanidine) should be used with caution during treatment, as it could lead to the reduction of the efficacy of these products.
+
+## Effect on organic anion transporter 3 (OAT3) substrates
+
+There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of OAT3 in vivo. Therefore, when co-administered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indomethacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
+
+## Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates
 
 There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
 
@@ -285,13 +293,13 @@ The active metabolite of leflunomide, A771726 is suspected to cause serious birt
 
 Women of childbearing potential have to use effective contraception during and up to 2 years after treatment (see 'waiting period' below) or up to 11 days after treatment (see abbreviated 'washout period' below).
 
+<div style=\"page-break-after: always\"></div>
+
 The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of the active metabolite, by instituting the drug elimination procedure described below, at the first delay of menses may decrease the risk to the foetus from leflunomide.
 
 In a small prospective study in women (n=64) who became inadvertently pregnant while taking leflunomide for no more than three weeks after conception and followed by a drug elimination procedure, no significant differences (p=0.13) were observed in the overall rate of major structural defects (5.4%) compared to either of the comparison groups (4.2% in the disease matched group [n=108] and 4.2% in healthy pregnant women [n=78]).
 
 For women receiving leflunomide treatment and who wish to become pregnant, one of the following procedures is recommended in order to ascertain that the foetus is not exposed to toxic concentrations of A771726 (target concentration below 0.02 mg/L):
-
-<div style=\"page-break-after: always\"></div>
 
 ## Waiting period
 
@@ -318,6 +326,8 @@ Both colestyramine and activated powdered charcoal may influence the absorption 
 
 Animal studies indicate that leflunomide or its metabolites pass into breast milk. Breast-feeding women must, therefore, not receive leflunomide.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 Results of animal fertility studies have shown no effect on male and female fertility, but adverse effects on male reproductive organs were observed in repeated dose toxicity studies (see section 5.3).
@@ -326,17 +336,15 @@ Results of animal fertility studies have shown no effect on male and female fert
 
 In the case of side effects such as dizziness the patient's ability to concentrate and to react properly may be impaired. In such cases patients should refrain from driving cars and using machines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
 The most frequently reported adverse effects with leflunomide are: mild increase in blood pressure, leucopenia, paraesthesia, headache, dizziness, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g. aphthous stomatitis, mouth ulceration), abdominal pain, increased hair loss, eczema, rash (including maculo-papular rash), pruritus, dry skin, tenosynovitis, CPK increased, anorexia, weight loss (usually insignificant), asthenia, mild allergic reactions and elevation of liver parameters (transaminases (especially ALT), less often gamma-GT, alkaline phosphatise, bilirubin)).
 
-## Classification of expected frequencies:
+Classification of expected frequencies:
 
-Very common (  1/10); common (  1/100 to &lt;1/10); uncommon (  1/1,000 to &lt;1/100); rare (  1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+Very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -356,19 +364,23 @@ Blood and lymphatic system disorders
 
 Common:
 
-leucopenia (leucocytes &gt;2 G/L) anaemia, mild thrombocytopenia (platelets &lt;100 G/L) agranulocytosis
-
 Uncommon:
+
+leucopenia (leucocytes &gt;2 G/L)
+
+anaemia, mild thrombocytopenia (platelets &lt;100 G/L)
 
 Rare:
 
+Very rare:
+
 pancytopenia (probably by antiproliferative mechanism), leucopenia (leucocytes &lt;2 G/L), eosinophilia
 
-Very rare:
+agranulocytosis
 
 Recent, concomitant or consecutive use of potentially myelotoxic agents may be associated with a higher risk of haematological effects.
 
-Immune system disorders
+## Immune system disorders
 
 Common:
 
@@ -376,7 +388,11 @@ mild allergic reactions
 
 Very rare:
 
-severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous necrotizing vasculitis
+severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous
+
+necrotizing vasculitis
+
+<div style=\"page-break-after: always\"></div>
 
 ## Metabolism and nutrition disorders
 
@@ -408,29 +424,31 @@ Common:
 
 paraesthesia, headache, dizziness, peripheral neuropathy
 
-<div style=\"page-break-after: always\"></div>
-
-## Cardiac disorders
+Cardiac disorders
 
 Common:
 
-mild increase in blood pressure severe increase in blood pressure
+mild increase in blood pressure
 
 Rare:
+
+severe increase in blood pressure
 
 Respiratory, thoracic and mediastinal disorders
 
 Rare:
 
-interstitial lung disease (including interstitial pneumonitis), which may be fatal pulmonary hypertension, pulmonary nodule
-
 Not known:
+
+interstitial lung disease (including interstitial pneumonitis), which may be fatal pulmonary hypertension, pulmonary nodule
 
 ## Gastrointestinal disorders
 
 Common:
 
-colitis including microscopic colitis such as lymphocytic colitis, collagenous colitis, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g., aphthous stomatitis, mouth ulceration), abdominal pain
+colitis including microscopic colitis such as lymphocytic colitis, collagenous colitis, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g., aphthous
+
+stomatitis, mouth ulceration), abdominal pain
 
 Uncommon:
 
@@ -444,9 +462,11 @@ pancreatitis
 
 Common:
 
-elevation of liver parameters (transaminases [especially ALT], less often gamma- GT, alkaline phosphatase, bilirubin)
+elevation of liver parameters (transaminases [especially ALT], less often gamma-
 
 Rare:
+
+GT, alkaline phosphatase, bilirubin)
 
 hepatitis, jaundice/cholestasis
 
@@ -458,15 +478,17 @@ severe liver injury such as hepatic failure and acute hepatic necrosis that may 
 
 Common:
 
-increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
+increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin
 
 Uncommon:
 
+urticaria
+
 Very rare:
 
-toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
-
 Not known:
+
+toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
 
 ## Musculoskeletal and connective tissue disorders
 
@@ -486,15 +508,15 @@ renal failure
 
 Reproductive system and breast disorders
 
-Not known:
-
-marginal (reversible) decreases in sperm concentration, total sperm count and rapid progressive motility
+Not known: marginal (reversible) decreases in sperm concentration, total sperm count and rapid progressive motility
 
 General disorders and administration site conditions
 
 Common:
 
 anorexia, weight loss (usually insignificant), asthenia
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -504,11 +526,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## Symptoms
 
-There have been reports of chronic overdose in patients taking leflunomide at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were
-
-<div style=\"page-break-after: always\"></div>
-
-no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
+There have been reports of chronic overdose in patients taking leflunomide at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
 
 ## Management
 
@@ -532,7 +550,9 @@ Leflunomide is a disease-modifying anti-rheumatic agent with antiproliferative p
 
 Leflunomide is effective in animal models of arthritis and of other autoimmune diseases and transplantation, mainly if administered during the sensitisation phase. It has immunomodulating/ immunosuppressive characteristics, acts as an antiproliferative agent, and displays anti-inflammatory properties. Leflunomide exhibits the best protective effects on animal models of autoimmune diseases when administered in the early phase of the disease progression.
 
-In vivo , it is rapidly and almost completely metabolised to A771726 which is active in vitro , and is presumed to be responsible for the therapeutic effect.
+In vivo, it is rapidly and almost completely metabolised to A771726 which is active in vitro, and is presumed to be responsible for the therapeutic effect.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -544,13 +564,11 @@ A771726, the active metabolite of leflunomide, inhibits the human enzyme dihydro
 
 The efficacy of leflunomide in the treatment of rheumatoid arthritis was demonstrated in 4 controlled trials (1 in phase II and 3 in phase III). The phase II trial, study YU203, randomised 402 subjects with active rheumatoid arthritis to placebo (n=102), leflunomide 5 mg (n=95), 10 mg (n=101) or 25 mg/day (n=104). The treatment duration was 6 months.
 
-All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303
+All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
 
-<div style=\"page-break-after: always\"></div>
+Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months.
 
-was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
-
-Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months. Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
+Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
 
 Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
 
@@ -558,7 +576,9 @@ A randomised, double-blind, parallel-group non-inferiority study compared the re
 
 ## Paediatric population
 
-Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 3 -17 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt;20 kg, 20-40 kg, and &gt;40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA Definition of Improvement (DOI)  30% (p=0.02). In responders, this response was maintained during 48 weeks (see section 4.2). The pattern of adverse events of leflunomide and methotrexate seems to be similar, but the dose used in lighter subjects resulted in a relatively low exposure (see section 5.2). These data do not allow an effective and safe dose recommendation.
+Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 3-17 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt;20 kg, 20-40 kg, and &gt;40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA Definition of Improvement (DOI) ≥30% (p=0.02). In responders, this response was maintained during 48 weeks (see section 4.2). The pattern of adverse events of leflunomide and methotrexate seems to be similar, but the dose used in lighter subjects resulted in a relatively low exposure (see section 5.2). These data do not allow an effective and safe dose recommendation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Psoriatic arthritis
 
@@ -568,11 +588,7 @@ Leflunomide 20 mg/day was significantly superior to placebo in reducing the symp
 
 ## Postmarketing studies
 
-A randomised study assessed the clinical efficacy response rate in DMARD-naïve patients (n=121) with early RA, who received either 20 mg or 100 mg of leflunomide in two parallel groups during the initial three day double blind period. The initial period was followed by an open label maintenance period of three months, during which both groups received leflunomide 20 mg daily. No incremental
-
-<div style=\"page-break-after: always\"></div>
-
-overall benefit was observed in the studied population with the use of a loading dose regimen. The safety data obtained from both treatment groups were consistent with the known safety profile of leflunomide, however, the incidence of gastrointestinal adverse events and of elevated liver enzymes tended to be higher in the patients receiving the loading dose of 100 mg leflunomide.
+A randomised study assessed the clinical efficacy response rate in DMARD-naïve patients (n=121) with early RA, who received either 20 mg or 100 mg of leflunomide in two parallel groups during the initial three day double blind period. The initial period was followed by an open label maintenance period of three months, during which both groups received leflunomide 20 mg daily. No incremental overall benefit was observed in the studied population with the use of a loading dose regimen. The safety data obtained from both treatment groups were consistent with the known safety profile of leflunomide, however, the incidence of gastrointestinal adverse events and of elevated liver enzymes tended to be higher in the patients receiving the loading dose of 100 mg leflunomide.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -586,11 +602,11 @@ Excretion data from the 14 C study indicated that at least about 82 to 95% of th
 
 In human plasma, A771726 is extensively bound to protein (albumin). The unbound fraction of A771726 is about 0.62%. Binding of A771726 is linear in the therapeutic concentration range. Binding of A771726 appeared slightly reduced and more variable in plasma from patients with rheumatoid arthritis or chronic renal insufficiency. The extensive protein binding of A771726 could lead to displacement of other highly-bound drugs. In vitro plasma protein binding interaction studies with warfarin at clinically relevant concentrations, however, showed no interaction. Similar studies showed that ibuprofen and diclofenac did not displace A771726, whereas the unbound fraction of A771726 is increased 2- to 3-fold in the presence of tolbutamide. A771726 displaced ibuprofen, diclofenac and tolbutamide but the unbound fraction of these medicinal products is only increased by 10% to 50%. There is no indication that these effects are of clinical relevance. Consistent with extensive protein binding A771726 has a low apparent volume of distribution (approximately 11 litres). There is no preferential uptake in erythrocytes.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Biotransformation
 
 Leflunomide is metabolised to one primary (A771726) and many minor metabolites including TFMA (4-trifluoromethylaniline). The metabolic biotransformation of leflunomide to A771726 and subsequent metabolism of A771726 is not controlled by a single enzyme and has been shown to occur in microsomal and cytosolic cellular fractions. Interaction studies with cimetidine (non-specific cytochrome P450 inhibitor) and rifampicin (non-specific cytochrome P450 inducer), indicate that in vivo CYP enzymes are involved in the metabolism of leflunomide only to a small extent.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -608,25 +624,23 @@ No data are available regarding treatment of patients with hepatic impairment. T
 
 ## Paediatric population
 
-The pharmacokinetics of A771726 following oral administration of leflunomide have been investigated in 73 paediatric patients with polyarticular course Juvenile Rheumatoid Arthritis (JRA) who ranged in age from 3 to 17 years. The results of a population pharmacokinetic analysis of these trials have demonstrated that paediatric patients with body weights  40 kg have a reduced systemic exposure (measured by Css) of A771726 relative to adult rheumatoid arthritis patients (see section 4.2).
+The pharmacokinetics of A771726 following oral administration of leflunomide have been investigated in 73 paediatric patients with polyarticular course Juvenile Rheumatoid Arthritis (JRA) who ranged in age from 3 to 17 years. The results of a population pharmacokinetic analysis of these trials have demonstrated that paediatric patients with body weights ≤40 kg have a reduced systemic exposure (measured by Css) of A771726 relative to adult rheumatoid arthritis patients (see section 4.2).
 
 ## Elderly
 
 Pharmacokinetic data in elderly (&gt;65 years) are limited but consistent with pharmacokinetics in younger adults.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 Leflunomide, administered orally and intraperitoneally, has been studied in acute toxicity studies in mice and rats. Repeated oral administration of leflunomide to mice for up to 3 months, to rats and dogs for up to 6 months and to monkeys for up to 1 month's duration revealed that the major target organs for toxicity were bone marrow, blood, gastrointestinal tract, skin, spleen, thymus and lymph nodes. The main effects were anaemia, leucopenia, decreased platelet counts and panmyelopathy and reflect the basic mode of action of the compound (inhibition of DNA synthesis). In rats and dogs, Heinz bodies and/or Howell-Jolly bodies were found. Other effects found on heart, liver, cornea and respiratory tract could be explained as infections due to immunosuppression. Toxicity in animals was found at doses equivalent to human therapeutic doses.
 
-Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluoromethylaniline) caused clastogenicity and point mutations in vitro , whilst insufficient information was available on its potential to exert this effect in vivo .
-
-<div style=\"page-break-after: always\"></div>
+Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluoromethylaniline) caused clastogenicity and point mutations in vitro, whilst insufficient information was available on its potential to exert this effect in vivo.
 
 In a carcinogenicity study in rats, leflunomide did not show carcinogenic potential. In a carcinogenicity study in mice an increased incidence of malignant lymphoma occurred in males of the highest dose group, considered to be due to the immunosuppressive activity of leflunomide. In female mice an increased incidence, dose-dependent, of bronchiolo-alveolar adenomas and carcinomas of the lung was noted. The relevance of the findings in mice relative to the clinical use of leflunomide is uncertain.
 
-Leflunomide was not antigenic in animal models.
-
-Leflunomide was embryotoxic and teratogenic in rats and rabbits at doses in the human therapeutic range and exerted adverse effects on male reproductive organs in repeated dose toxicity studies. Fertility was not reduced.
+Leflunomide was not antigenic in animal models. Leflunomide was embryotoxic and teratogenic in rats and rabbits at doses in the human therapeutic range and exerted adverse effects on male reproductive organs in repeated dose toxicity studies. Fertility was not reduced.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -644,21 +658,17 @@ Not applicable.
 
 3 years.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.4 Special precautions for storage
 
-Blister:
+Blister: Store in the original package.
 
-Store in the original package.
+Bottle: Keep the bottle tightly closed.
 
-Bottle:
+## 6.5 Nature and contents of container
 
-Keep the bottle tightly closed.
-
-## 6.5 Nature and content s of container
-
-Blister:
-
-Aluminium / Aluminium blister. Pack sizes: 30 and 100 film-coated tablets.
+Blister: Aluminium / Aluminium blister. Pack sizes: 30 and 100 film-coated tablets.
 
 Bottle:
 
@@ -666,21 +676,17 @@ Bottle:
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.6 Special precautions for disposal
 
 No special requirements for disposal.
 
-7.
+7. MARKETING AUTHORISATION HOLDER
 
-MARKETING AUTHORISATION HOLDER
+Zentiva k.s. U kabelovny 130 102 37 Prague 10
 
-Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
+Czech Republic
 
-8.
-
-MARKETING AUTHORISATION
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/09/604/001-004
 
@@ -695,8 +701,6 @@ Date of latest renewal: 19 November 2014
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/.
 
 18
-
-NUMBER(S)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -783,11 +787,9 @@ Leflunomide Zentiva tablets are for oral use. The tablets should be swallowed wh
 
 Concomitant administration of hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) is not advisable.
 
-The active metabolite of leflunomide, A771726, has a long half-life, usually 1 to 4 weeks. Serious undesirable effects might occur (e.g. hepatotoxicity, haematotoxicity or allergic reactions, see below), even if the treatment with leflunomide has been stopped. Therefore, when such toxicities occur or if
+The active metabolite of leflunomide, A771726, has a long half-life, usually 1 to 4 weeks. Serious undesirable effects might occur (e.g. hepatotoxicity, haematotoxicity or allergic reactions, see below), even if the treatment with leflunomide has been stopped. Therefore, when such toxicities occur or if for any other reason A771726 needs to be cleared rapidly from the body, the washout procedure has to be followed. The procedure may be repeated as clinically necessary.
 
 <div style=\"page-break-after: always\"></div>
-
-for any other reason A771726 needs to be cleared rapidly from the body, the washout procedure has to be followed. The procedure may be repeated as clinically necessary.
 
 For washout procedures and other recommended actions in case of desired or unintended pregnancy, see section 4.6.
 
@@ -831,9 +833,23 @@ In case of ulcerative stomatitis, leflunomide administration should be discontin
 
 Very rare cases of Stevens Johnson syndrome or toxic epidermal necrolysis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported in patients treated with leflunomide. As soon as skin and/or mucosal reactions are observed which raise the suspicion of such severe reactions, Leflunomide Zentiva and any other possibly associated treatment must be discontinued, and a leflunomide washout procedure initiated immediately. A complete washout is essential in such cases. In such cases re-exposure to leflunomide is contraindicated (see section 4.3).
 
+## Haemophagocytic lymphohistiocytosis (HLH) / Macrophage activation syndrome (MAS):
+
+Haemophagocytic lymphohistiocytosis (HLH), including macrophage activation syndrome (MAS), has been reported in patients treated with leflunomide.
+
+Although rare, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) associated with leflunomide may be complicated by HLH or MAS. Cases of HLH/MAS have also been reported independently of DRESS.
+
+HLH/MAS is a serious and potentially life-threatening hyperinflammatory condition. Clinical features may include persistent fever, rash, neurological symptoms, hepatosplenomegaly, lymphadenopathy, cytopenias, markedly elevated serum ferritin, hypertriglyceridaemia, and abnormalities of liver function and coagulation.
+
+Patients should be informed about the signs and symptoms associated with HLH/MAS and advised to seek medical attention immediately if such symptoms occur during leflunomide treatment.
+
+If patients develop any of these conditions, stop leflunomide treatment and perform an accelerated drug elimination procedure (see section 4.4). Early recognition and prompt management are important to improve outcomes.
+
 Pustular psoriasis and worsening of psoriasis have been reported after the use of leflunomide. Treatment withdrawal may be considered taking into account patient's disease and past history.
 
 Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is suspected or if skin ulcers persist despite appropriate therapy, leflunomide discontinuation and a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
+
+<div style=\"page-break-after: always\"></div>
 
 Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the peri-surgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing.
 
@@ -844,8 +860,6 @@ It is known that medicinal products with immunosuppressive properties - like lef
 Rare cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported in patients receiving leflunomide among other immunosuppressants.
 
 Before starting treatment, all patients should be evaluated for active and inactive ('latent') tuberculosis, as per local recommendations. This can include medical history, possible previous contact with tuberculosis, and/or appropriate screening such as lung x-ray, tuberculin test and/or interferon-gamma release assay, as applicable. Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised. Patients with a history of tuberculosis should be carefully monitored because of the possibility of reactivation of the infection.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Respiratory reactions
 
@@ -863,6 +877,8 @@ Colitis, including microscopic colitis has been reported in patients treated wit
 
 Blood pressure must be checked before the start of leflunomide treatment and periodically thereafter.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Procreation (recommendations for men)
 
 Male patients should be aware of the possible male-mediated foetal toxicity. Reliable contraception during treatment with leflunomide should also be guaranteed.
@@ -874,8 +890,6 @@ In either case the A771726 plasma concentration is then measured for the first t
 ## Washout procedure
 
 Colestyramine 8 g is administered 3 times daily. Alternatively, 50 g of activated powdered charcoal is administered 4 times daily. Duration of a complete washout is usually 11 days. The duration may be modified depending on clinical or laboratory variables.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Lactose
 
@@ -897,6 +911,8 @@ In a small (n=30) study with co-administration of leflunomide (10 to 20 mg per d
 
 In patients with rheumatoid arthritis, no pharmacokinetic interaction between the leflunomide (10 to 20 mg per day) and methotrexate (10 to 25 mg per week) was demonstrated.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Vaccinations
 
 No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long half-life of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Leflunomide Zentiva.
@@ -908,8 +924,6 @@ There have been case reports of increased prothrombin time, when leflunomide and
 ## NSAIDS/Corticosteroids
 
 If the patient is already receiving nonsteroidal anti-inflammatory drugs (NSAIDs) and/or corticosteroids, these may be continued after starting leflunomide.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect of other medicinal products on leflunomide:
 
@@ -929,19 +943,19 @@ In a study in which leflunomide was given concomitantly with a triphasic oral co
 
 The following pharmacokinetic and pharmacodynamic interaction studies were conducted with A771726 (principal active metabolite of leflunomide). As similar drug-drug interactions cannot be excluded for leflunomide at recommended doses, the following study results and recommendations should be considered in patients treated with leflunomide:
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effect on repaglinide (CYP2C8 substrate)
 
-There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of CYP2C8 in vivo . Therefore, monitoring patients with concomitant use of medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, is recommended as they may have higher exposure.
+There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of CYP2C8 in vivo. Therefore, monitoring patients with concomitant use of medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, is recommended as they may have higher exposure.
 
 ## Effect on caffeine (CYP1A2 substrate)
 
-Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substrate) by 18% and 55%, respectively, suggesting that A771726 may be a weak inducer of CYP1A2 in vivo . Therefore, medicinal products metabolised by CYP1A2 (such as duloxetine, alosetron, theophylline and tizanidine) should be used with caution during treatment, as it could lead to the reduction of the efficacy of these products.
+Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substrate) by 18% and 55%, respectively, suggesting that A771726 may be a weak inducer of CYP1A2 in vivo. Therefore, medicinal products metabolised by CYP1A2 (such as duloxetine, alosetron, theophylline and tizanidine) should be used with caution during treatment, as it could lead to the reduction of the efficacy of these products.
 
 ## Effect on organic anion transporter 3 (OAT3) substrates
 
-There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of OAT3 in vivo . Therefore, when co-administered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indomethacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
-
-<div style=\"page-break-after: always\"></div>
+There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of OAT3 in vivo. Therefore, when co-administered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indomethacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
 
 Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates
 
@@ -961,13 +975,13 @@ The active metabolite of leflunomide, A771726 is suspected to cause serious birt
 
 Women of childbearing potential have to use effective contraception during and up to 2 years after treatment (see 'waiting period' below) or up to 11 days after treatment (see abbreviated 'washout period' below).
 
+<div style=\"page-break-after: always\"></div>
+
 The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of the active metabolite, by instituting the drug elimination procedure described below, at the first delay of menses may decrease the risk to the foetus from leflunomide.
 
 In a small prospective study in women (n=64) who became inadvertently pregnant while taking leflunomide for no more than three weeks after conception and followed by a drug elimination procedure, no significant differences (p=0.13) were observed in the overall rate of major structural defects (5.4%) compared to either of the comparison groups (4.2% in the disease matched group [n=108] and 4.2% in healthy pregnant women [n=78]).
 
 For women receiving leflunomide treatment and who wish to become pregnant, one of the following procedures is recommended in order to ascertain that the foetus is not exposed to toxic concentrations of A771726 (target concentration below 0.02 mg/L):
-
-<div style=\"page-break-after: always\"></div>
 
 ## Waiting period
 
@@ -994,6 +1008,8 @@ Both colestyramine and activated powdered charcoal may influence the absorption 
 
 Animal studies indicate that leflunomide or its metabolites pass into breast milk. Breast-feeding women must, therefore, not receive leflunomide.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 Results of animal fertility studies have shown no effect on male and female fertility, but adverse effects on male reproductive organs were observed in repeated dose toxicity studies (see section 5.3).
@@ -1002,17 +1018,15 @@ Results of animal fertility studies have shown no effect on male and female fert
 
 In the case of side effects such as dizziness the patient's ability to concentrate and to react properly may be impaired. In such cases patients should refrain from driving cars and using machines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
 The most frequently reported adverse effects with leflunomide are: mild increase in blood pressure, leucopenia, paraesthesia, headache, dizziness, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g. aphthous stomatitis, mouth ulceration), abdominal pain, increased hair loss, eczema, rash (including maculo-papular rash), pruritus, dry skin, tenosynovitis, CPK increased, anorexia, weight loss (usually insignificant), asthenia, mild allergic reactions and elevation of liver parameters (transaminases (especially ALT), less often gamma-GT, alkaline phosphatise, bilirubin)).
 
-## Classification of expected frequencies:
+Classification of expected frequencies:
 
-Very common (  1/10); common (  1/100 to &lt;1/10); uncommon (  1/1,000 to &lt;1/100); rare (  1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+Very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -1032,13 +1046,17 @@ Blood and lymphatic system disorders
 
 Common:
 
-leucopenia (leucocytes &gt;2 G/L) anaemia, mild thrombocytopenia (platelets &lt;100 G/L) pancytopenia (probably by antiproliferative mechanism), leucopenia (leucocytes &lt;2 G/L), eosinophilia agranulocytosis
-
 Uncommon:
+
+leucopenia (leucocytes &gt;2 G/L)
+
+anaemia, mild thrombocytopenia (platelets &lt;100 G/L)
 
 Rare:
 
 Very rare:
+
+pancytopenia (probably by antiproliferative mechanism), leucopenia (leucocytes &lt;2 G/L), eosinophilia agranulocytosis
 
 Recent, concomitant or consecutive use of potentially myelotoxic agents may be associated with a higher risk of haematological effects.
 
@@ -1051,6 +1069,8 @@ mild allergic reactions
 Very rare:
 
 severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous necrotizing vasculitis
+
+<div style=\"page-break-after: always\"></div>
 
 ## Metabolism and nutrition disorders
 
@@ -1082,9 +1102,7 @@ Common:
 
 paraesthesia, headache, dizziness, peripheral neuropathy
 
-<div style=\"page-break-after: always\"></div>
-
-## Cardiac disorders
+Cardiac disorders
 
 Common:
 
@@ -1098,17 +1116,21 @@ Respiratory, thoracic and mediastinal disorders
 
 Rare:
 
-interstitial lung disease (including interstitial pneumonitis), which may be fatal. pulmonary hypertension, pulmonary nodule
-
 Not known:
+
+interstitial lung disease (including interstitial pneumonitis), which may be fatal. pulmonary hypertension, pulmonary nodule
 
 ## Gastrointestinal disorders
 
 Common:
 
-colitis including microscopic colitis such as lymphocytic colitis, collagenous colitis, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g., aphthous stomatitis, mouth ulceration), abdominal pain
+colitis including microscopic colitis such as lymphocytic colitis, collagenous
 
 Uncommon:
+
+colitis, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g., aphthous
+
+stomatitis, mouth ulceration), abdominal pain
 
 taste disturbances
 
@@ -1120,9 +1142,11 @@ pancreatitis
 
 Common:
 
-elevation of liver parameters (transaminases [especially ALT], less often gamma- GT, alkaline phosphatase, bilirubin)
+elevation of liver parameters (transaminases [especially ALT], less often gamma-
 
 Rare:
+
+GT, alkaline phosphatase, bilirubin)
 
 hepatitis, jaundice/cholestasis
 
@@ -1134,17 +1158,21 @@ severe liver injury such as hepatic failure and acute hepatic necrosis that may 
 
 Common:
 
-increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
+increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin
 
 Uncommon:
 
+urticaria
+
 Very rare:
 
-toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
+toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme
 
 Not known:
 
-## Musculoskeletal and connective tissue disorders
+cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
+
+Musculoskeletal and connective tissue disorders
 
 Common:
 
@@ -1162,15 +1190,15 @@ renal failure
 
 Reproductive system and breast disorders
 
-Not known:
-
-marginal (reversible) decreases in sperm concentration, total sperm count and rapid progressive motility
+Not known: marginal (reversible) decreases in sperm concentration, total sperm count and rapid progressive motility
 
 General disorders and administration site conditions
 
 Common:
 
 anorexia, weight loss (usually insignificant), asthenia
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -1180,11 +1208,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## Symptoms
 
-There have been reports of chronic overdose in patients taking leflunomide at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were
-
-<div style=\"page-break-after: always\"></div>
-
-no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
+There have been reports of chronic overdose in patients taking leflunomide at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
 
 ## Management
 
@@ -1208,7 +1232,9 @@ Leflunomide is a disease-modifying anti-rheumatic agent with antiproliferative p
 
 Leflunomide is effective in animal models of arthritis and of other autoimmune diseases and transplantation, mainly if administered during the sensitisation phase. It has immunomodulating/ immunosuppressive characteristics, acts as an antiproliferative agent, and displays anti-inflammatory properties. Leflunomide exhibits the best protective effects on animal models of autoimmune diseases when administered in the early phase of the disease progression.
 
-In vivo , it is rapidly and almost completely metabolised to A771726 which is active in vitro , and is presumed to be responsible for the therapeutic effect.
+In vivo, it is rapidly and almost completely metabolised to A771726 which is active in vitro, and is presumed to be responsible for the therapeutic effect.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -1220,11 +1246,11 @@ A771726, the active metabolite of leflunomide, inhibits the human enzyme dihydro
 
 The efficacy of leflunomide in the treatment of rheumatoid arthritis was demonstrated in 4 controlled trials (1 in phase II and 3 in phase III). The phase II trial, study YU203, randomised 402 subjects with active rheumatoid arthritis to placebo (n=102), leflunomide 5 mg (n=95), 10 mg (n=101) or 25 mg/day (n=104). The treatment duration was 6 months.
 
-All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months.
+All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
 
-<div style=\"page-break-after: always\"></div>
+Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months.
 
-Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine. Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months. Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
+Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
 
 Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
 
@@ -1232,7 +1258,9 @@ A randomised, double-blind, parallel-group non-inferiority study compared the re
 
 ## Paediatric population
 
-Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 3 -17 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt;20 kg, 20-40 kg, and &gt;40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA Definition of Improvement (DOI)  30% (p=0.02). In responders, this response was maintained during 48 weeks (see section 4.2). The pattern of adverse events of leflunomide and methotrexate seems to be similar, but the dose used in lighter subjects resulted in a relatively low exposure (see section 5.2). These data do not allow an effective and safe dose recommendation.
+Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 3-17 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt;20 kg, 20-40 kg, and &gt;40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA Definition of Improvement (DOI) ≥30% (p=0.02). In responders, this response was maintained during 48 weeks (see section 4.2). The pattern of adverse events of leflunomide and methotrexate seems to be similar, but the dose used in lighter subjects resulted in a relatively low exposure (see section 5.2). These data do not allow an effective and safe dose recommendation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Psoriatic arthritis
 
@@ -1242,11 +1270,7 @@ Leflunomide 20 mg/day was significantly superior to placebo in reducing the symp
 
 ## Postmarketing studies
 
-A randomised study assessed the clinical efficacy response rate in DMARD-naïve patients (n=121) with early RA, who received either 20 mg or 100 mg of leflunomide in two parallel groups during the initial three day double blind period. The initial period was followed by an open label maintenance period of three months, during which both groups received leflunomide 20 mg daily. No incremental
-
-<div style=\"page-break-after: always\"></div>
-
-overall benefit was observed in the studied population with the use of a loading dose regimen. The safety data obtained from both treatment groups were consistent with the known safety profile of leflunomide, however, the incidence of gastrointestinal adverse events and of elevated liver enzymes tended to be higher in the patients receiving the loading dose of 100 mg leflunomide.
+A randomised study assessed the clinical efficacy response rate in DMARD-naïve patients (n=121) with early RA, who received either 20 mg or 100 mg of leflunomide in two parallel groups during the initial three day double blind period. The initial period was followed by an open label maintenance period of three months, during which both groups received leflunomide 20 mg daily. No incremental overall benefit was observed in the studied population with the use of a loading dose regimen. The safety data obtained from both treatment groups were consistent with the known safety profile of leflunomide, however, the incidence of gastrointestinal adverse events and of elevated liver enzymes tended to be higher in the patients receiving the loading dose of 100 mg leflunomide.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1260,11 +1284,11 @@ Excretion data from the 14 C study indicated that at least about 82 to 95% of th
 
 In human plasma, A771726 is extensively bound to protein (albumin). The unbound fraction of A771726 is about 0.62%. Binding of A771726 is linear in the therapeutic concentration range. Binding of A771726 appeared slightly reduced and more variable in plasma from patients with rheumatoid arthritis or chronic renal insufficiency. The extensive protein binding of A771726 could lead to displacement of other highly-bound drugs. In vitro plasma protein binding interaction studies with warfarin at clinically relevant concentrations, however, showed no interaction. Similar studies showed that ibuprofen and diclofenac did not displace A771726, whereas the unbound fraction of A771726 is increased 2- to 3-fold in the presence of tolbutamide. A771726 displaced ibuprofen, diclofenac and tolbutamide but the unbound fraction of these medicinal products is only increased by 10% to 50%. There is no indication that these effects are of clinical relevance. Consistent with extensive protein binding A771726 has a low apparent volume of distribution (approximately 11 litres). There is no preferential uptake in erythrocytes.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Biotransformation
 
 Leflunomide is metabolised to one primary (A771726) and many minor metabolites including TFMA (4-trifluoromethylaniline). The metabolic biotransformation of leflunomide to A771726 and subsequent metabolism of A771726 is not controlled by a single enzyme and has been shown to occur in microsomal and cytosolic cellular fractions. Interaction studies with cimetidine (non-specific cytochrome P450 inhibitor) and rifampicin (non-specific cytochrome P450 inducer), indicate that in vivo CYP enzymes are involved in the metabolism of leflunomide only to a small extent.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -1282,19 +1306,19 @@ No data are available regarding treatment of patients with hepatic impairment. T
 
 ## Paediatric population
 
-The pharmacokinetics of A771726 following oral administration of leflunomide have been investigated in 73 paediatric patients with polyarticular course Juvenile Rheumatoid Arthritis (JRA) who ranged in age from 3 to 17 years. The results of a population pharmacokinetic analysis of these trials have demonstrated that paediatric patients with body weights  40 kg have a reduced systemic exposure (measured by Css) of A771726 relative to adult rheumatoid arthritis patients (see section 4.2).
+The pharmacokinetics of A771726 following oral administration of leflunomide have been investigated in 73 paediatric patients with polyarticular course Juvenile Rheumatoid Arthritis (JRA) who ranged in age from 3 to 17 years. The results of a population pharmacokinetic analysis of these trials have demonstrated that paediatric patients with body weights ≤40 kg have a reduced systemic exposure (measured by Css) of A771726 relative to adult rheumatoid arthritis patients (see section 4.2).
 
 ## Elderly
 
 Pharmacokinetic data in elderly (&gt;65 years) are limited but consistent with pharmacokinetics in younger adults.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 Leflunomide, administered orally and intraperitoneally, has been studied in acute toxicity studies in mice and rats. Repeated oral administration of leflunomide to mice for up to 3 months, to rats and dogs for up to 6 months and to monkeys for up to 1 month's duration revealed that the major target organs for toxicity were bone marrow, blood, gastrointestinal tract, skin, spleen, thymus and lymph nodes. The main effects were anaemia, leucopenia, decreased platelet counts and panmyelopathy and reflect the basic mode of action of the compound (inhibition of DNA synthesis). In rats and dogs, Heinz bodies and/or Howell-Jolly bodies were found. Other effects found on heart, liver, cornea and respiratory tract could be explained as infections due to immunosuppression. Toxicity in animals was found at doses equivalent to human therapeutic doses.
 
-Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluoromethylaniline) caused clastogenicity and point mutations in vitro , whilst insufficient information was available on its potential to exert this effect in vivo .
-
-<div style=\"page-break-after: always\"></div>
+Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluoromethylaniline) caused clastogenicity and point mutations in vitro, whilst insufficient information was available on its potential to exert this effect in vivo.
 
 In a carcinogenicity study in rats, leflunomide did not show carcinogenic potential. In a carcinogenicity study in mice an increased incidence of malignant lymphoma occurred in males of the highest dose group, considered to be due to the immunosuppressive activity of leflunomide. In female mice an increased incidence, dose-dependent, of bronchiolo-alveolar adenomas and carcinomas of the lung was noted. The relevance of the findings in mice relative to the clinical use of leflunomide is uncertain.
 
@@ -1318,21 +1342,17 @@ Not applicable.
 
 3 years.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.4 Special precautions for storage
 
-Blister:
+Blister: Store in the original package.
 
-Store in the original package.
+Bottle: Keep the bottle tightly closed.
 
-Bottle:
+## 6.5 Nature and contents of container
 
-Keep the bottle tightly closed.
-
-## 6.5 Nature and content s of container
-
-Blister:
-
-Aluminium / Aluminium blister. Pack sizes: 30 and 100 film-coated tablets.
+Blister: Aluminium / Aluminium blister. Pack sizes: 30 and 100 film-coated tablets.
 
 Bottle:
 
@@ -1340,27 +1360,19 @@ Bottle:
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.6 Special precautions for disposal
 
 No special requirements for disposal.
 
-7.
+7. MARKETING AUTHORISATION HOLDER
 
-MARKETING AUTHORISATION HOLDER
-
-Zentiva k.s.
-
-U kabelovny 130
+Zentiva k.s. U kabelovny 130
 
 102 37 Prague 10
 
 Czech Republic
 
-8.
-
-MARKETING AUTHORISATION
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/09/604/005-009
 
@@ -1375,8 +1387,6 @@ Date of latest renewal: 19 November 2014
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/.
 
 35
-
-NUMBER(S)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1421,7 +1431,7 @@ Alanine Aminotransferase (ALT) or serum glutamopyruvate transferase (SGPT) and a
 - before initiation of leflunomide
 - every 8 weeks thereafter (see section 4.4).
 
-## Posology
+Posology
 
 - In rheumatoid arthritis: leflunomide therapy is usually started with a loading dose of 100 mg once daily for 3 days. Omission of the loading dose may decrease the risk of adverse events (see section 5.1).
 
@@ -1463,11 +1473,9 @@ Leflunomide Zentiva tablets are for oral use. The tablets should be swallowed wh
 
 Concomitant administration of hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) is not advisable.
 
-The active metabolite of leflunomide, A771726, has a long half-life, usually 1 to 4 weeks. Serious undesirable effects might occur (e.g. hepatotoxicity, haematotoxicity or allergic reactions, see below), even if the treatment with leflunomide has been stopped. Therefore, when such toxicities occur or if
+The active metabolite of leflunomide, A771726, has a long half-life, usually 1 to 4 weeks. Serious undesirable effects might occur (e.g. hepatotoxicity, haematotoxicity or allergic reactions, see below), even if the treatment with leflunomide has been stopped. Therefore, when such toxicities occur or if for any other reason A771726 needs to be cleared rapidly from the body, the washout procedure has to be followed. The procedure may be repeated as clinically necessary.
 
 <div style=\"page-break-after: always\"></div>
-
-for any other reason A771726 needs to be cleared rapidly from the body, the washout procedure has to be followed. The procedure may be repeated as clinically necessary.
 
 For washout procedures and other recommended actions in case of desired or unintended pregnancy, see section 4.6.
 
@@ -1511,21 +1519,33 @@ In case of ulcerative stomatitis, leflunomide administration should be discontin
 
 Very rare cases of Stevens Johnson syndrome or toxic epidermal necrolysis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported in patients treated with leflunomide. As soon as skin and/or mucosal reactions are observed which raise the suspicion of such severe reactions, Leflunomide Zentiva and any other possibly associated treatment must be discontinued, and a leflunomide washout procedure initiated immediately. A complete washout is essential in such cases. In such cases re-exposure to leflunomide is contraindicated (see section 4.3).
 
+## Haemophagocytic lymphohistiocytosis (HLH) / Macrophage activation syndrome (MAS):
+
+Haemophagocytic lymphohistiocytosis (HLH), including macrophage activation syndrome (MAS), has been reported in patients treated with leflunomide.
+
+Although rare, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) associated with leflunomide may be complicated by HLH or MAS. Cases of HLH/MAS have also been reported independently of DRESS.
+
+HLH/MAS is a serious and potentially life-threatening hyperinflammatory condition. Clinical features may include persistent fever, rash, neurological symptoms, hepatosplenomegaly, lymphadenopathy, cytopenias, markedly elevated serum ferritin, hypertriglyceridaemia, and abnormalities of liver function and coagulation.
+
+Patients should be informed about the signs and symptoms associated with HLH/MAS and advised to seek medical attention immediately if such symptoms occur during leflunomide treatment.
+
+If patients develop any of these conditions, stop leflunomide treatment and perform an accelerated drug elimination procedure (see section 4.4). Early recognition and prompt management are important to improve outcomes.
+
 Pustular psoriasis and worsening of psoriasis have been reported after the use of leflunomide. Treatment withdrawal may be considered taking into account patient's disease and past history.
 
 Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is suspected or if skin ulcers persist despite appropriate therapy, leflunomide discontinuation and a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
+
+<div style=\"page-break-after: always\"></div>
 
 Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the peri-surgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing.
 
 ## Infections
 
-It is known that medicinal products with immunosuppressive properties - like leflunomide -may cause patients to be more susceptible to infections, including opportunistic infections. Infections may be more severe in nature and may, therefore, require early and vigorous treatment. In the event that severe, uncontrolled infections occur, it may be necessary to interrupt leflunomide treatment and administer a washout procedure as described below.
+It is known that medicinal products with immunosuppressive properties - like leflunomide - may cause patients to be more susceptible to infections, including opportunistic infections. Infections may be more severe in nature and may, therefore, require early and vigorous treatment. In the event that severe, uncontrolled infections occur, it may be necessary to interrupt leflunomide treatment and administer a washout procedure as described below.
 
 Rare cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported in patients receiving leflunomide among other immunosuppressants.
 
 Before starting treatment, all patients should be evaluated for active and inactive ('latent') tuberculosis, as per local recommendations. This can include medical history, possible previous contact with tuberculosis, and/or appropriate screening such as lung x-ray, tuberculin test and/or interferon-gamma release assay, as applicable. Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised. Patients with a history of tuberculosis should be carefully monitored because of the possibility of reactivation of the infection.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Respiratory reactions
 
@@ -1545,6 +1565,8 @@ Blood pressure must be checked before the start of leflunomide treatment and per
 
 ## Procreation (recommendations for men)
 
+<div style=\"page-break-after: always\"></div>
+
 Male patients should be aware of the possible male-mediated foetal toxicity. Reliable contraception during treatment with leflunomide should also be guaranteed.
 
 There are no specific data on the risk of male-mediated foetal toxicity. However, animal studies to evaluate this specific risk have not been conducted. To minimise any possible risk, men wishing to father a child should consider discontinuing use of leflunomide and taking colestyramine 8 g 3 times daily for 11 days or 50 g of activated powdered charcoal 4 times daily for 11 days.
@@ -1554,8 +1576,6 @@ In either case the A771726 plasma concentration is then measured for the first t
 ## Washout procedure
 
 Colestyramine 8 g is administered 3 times daily. Alternatively, 50 g of activated powdered charcoal is administered 4 times daily. Duration of a complete washout is usually 11 days. The duration may be modified depending on clinical or laboratory variables.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Lactose
 
@@ -1577,6 +1597,8 @@ In a small (n=30) study with co-administration of leflunomide (10 to 20 mg per d
 
 In patients with rheumatoid arthritis, no pharmacokinetic interaction between the leflunomide (10 to 20 mg per day) and methotrexate (10 to 25 mg per week) was demonstrated.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Vaccinations
 
 No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long half-life of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Leflunomide Zentiva.
@@ -1588,8 +1610,6 @@ There have been case reports of increased prothrombin time, when leflunomide and
 ## NSAIDS/Corticosteroids
 
 If the patient is already receiving nonsteroidal anti-inflammatory drugs (NSAIDs) and/or corticosteroids, these may be continued after starting leflunomide.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect of other medicinal products on leflunomide:
 
@@ -1611,19 +1631,19 @@ The following pharmacokinetic and pharmacodynamic interaction studies were condu
 
 ## Effect on repaglinide (CYP2C8 substrate)
 
-There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of CYP2C8 in vivo . Therefore, monitoring patients with concomitant use of medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, is recommended as they may have higher exposure.
+There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of CYP2C8 in vivo. Therefore, monitoring patients with concomitant use of medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, is recommended as they may have higher exposure.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Effect on caffeine (CYP1A2 substrate)
 
-Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substrate) by 18% and 55%, respectively, suggesting that A771726 may be a weak inducer of CYP1A2 in vivo . Therefore, medicinal products metabolised by CYP1A2 (such as duloxetine, alosetron, theophylline and tizanidine) should be used with caution during treatment, as it could lead to the reduction of the efficacy of these products.
+Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substrate) by 18% and 55%, respectively, suggesting that A771726 may be a weak inducer of CYP1A2 in vivo. Therefore, medicinal products metabolised by CYP1A2 (such as duloxetine, alosetron, theophylline and tizanidine) should be used with caution during treatment, as it could lead to the reduction of the efficacy of these products.
 
 ## Effect on organic anion transporter 3 (OAT3) substrates
 
-There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of OAT3 in vivo . Therefore, when co-administered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indomethacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
+There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of OAT3 in vivo. Therefore, when co-administered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indomethacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
 
-Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates
-
-<div style=\"page-break-after: always\"></div>
+## Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates
 
 There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
 
@@ -1643,6 +1663,8 @@ Women of childbearing potential have to use effective contraception during and u
 
 The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of the active metabolite, by instituting the drug elimination procedure described below, at the first delay of menses may decrease the risk to the foetus from leflunomide.
 
+<div style=\"page-break-after: always\"></div>
+
 In a small prospective study in women (n=64) who became inadvertently pregnant while taking leflunomide for no more than three weeks after conception and followed by a drug elimination procedure, no significant differences (p=0.13) were observed in the overall rate of major structural defects (5.4%) compared to either of the comparison groups (4.2% in the disease matched group [n=108] and 4.2% in healthy pregnant women [n=78]).
 
 For women receiving leflunomide treatment and who wish to become pregnant, one of the following procedures is recommended in order to ascertain that the foetus is not exposed to toxic concentrations of A771726 (target concentration below 0.02 mg/L):
@@ -1650,8 +1672,6 @@ For women receiving leflunomide treatment and who wish to become pregnant, one o
 ## Waiting period
 
 A771726 plasma levels can be expected to be above 0.02 mg/L for a prolonged period. The concentration may be expected to decrease below 0.02 mg/L about 2 years after stopping the treatment with leflunomide.
-
-<div style=\"page-break-after: always\"></div>
 
 After a 2-year waiting period, the A771726 plasma concentration is measured for the first time. Thereafter, the A771726 plasma concentration must be determined again after an interval of at least 14 days. If both plasma concentrations are below 0.02 mg/L no teratogenic risk is to be expected.
 
@@ -1674,6 +1694,8 @@ Both colestyramine and activated powdered charcoal may influence the absorption 
 
 Animal studies indicate that leflunomide or its metabolites pass into breast milk. Breast-feeding women must, therefore, not receive leflunomide.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 Results of animal fertility studies have shown no effect on male and female fertility, but adverse effects on male reproductive organs were observed in repeated dose toxicity studies (see section 5.3).
@@ -1688,11 +1710,9 @@ In the case of side effects such as dizziness the patient's ability to concentra
 
 The most frequently reported adverse effects with leflunomide are: mild increase in blood pressure, leucopenia, paraesthesia, headache, dizziness, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g. aphthous stomatitis, mouth ulceration), abdominal pain, increased hair loss, eczema, rash (including maculo-papular rash), pruritus, dry skin, tenosynovitis, CPK increased, anorexia, weight loss (usually insignificant), asthenia, mild allergic reactions and elevation of liver parameters (transaminases (especially ALT), less often gamma-GT, alkaline phosphatise, bilirubin)).
 
-<div style=\"page-break-after: always\"></div>
+## Classification of expected frequencies:
 
-Classification of expected frequencies:
-
-Very common (  1/10); common (  1/100 to &lt;1/10); uncommon (  1/1,000 to &lt;1/100); rare (  1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+Very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -1712,17 +1732,17 @@ Blood and lymphatic system disorders
 
 Common:
 
-leucopenia (leucocytes &gt;2 G/L)
-
 Uncommon:
+
+leucopenia (leucocytes &gt;2 G/L)
 
 anaemia, mild thrombocytopenia (platelets &lt;100 G/L)
 
 Rare:
 
-pancytopenia (probably by antiproliferative mechanism), leucopenia (leucocytes &lt;2 G/L), eosinophilia
-
 Very rare:
+
+pancytopenia (probably by antiproliferative mechanism), leucopenia (leucocytes &lt;2 G/L), eosinophilia
 
 agranulocytosis
 
@@ -1732,9 +1752,11 @@ Immune system disorders
 
 Common:
 
-mild allergic reactions severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous necrotizing vasculitis
+mild allergic reactions
 
 Very rare:
+
+severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous necrotizing vasculitis
 
 Metabolism and nutrition disorders
 
@@ -1770,21 +1792,21 @@ Cardiac disorders
 
 Common:
 
+mild increase in blood pressure
+
 Rare:
 
-mild increase in blood pressure severe increase in blood pressure
+severe increase in blood pressure
 
 Respiratory, thoracic and mediastinal disorders
 
 Rare:
 
-interstitial lung disease (including interstitial pneumonitis), which may be fatal. pulmonary hypertension, pulmonary nodule
-
 Not known:
 
-<div style=\"page-break-after: always\"></div>
+interstitial lung disease (including interstitial pneumonitis), which may be fatal. pulmonary hypertension, pulmonary nodule
 
-## Gastrointestinal disorders
+Gastrointestinal disorders
 
 Common:
 
@@ -1802,27 +1824,35 @@ pancreatitis
 
 Common:
 
-elevation of liver parameters (transaminases [especially ALT], less often gammaGT, alkaline phosphatase, bilirubin)
+elevation of liver parameters (transaminases [especially ALT], less often gamma-
 
 Rare:
 
+GT, alkaline phosphatase, bilirubin)
+
+hepatitis, jaundice/cholestasis
+
 Very rare:
 
-hepatitis, jaundice/cholestasis severe liver injury such as hepatic failure and acute hepatic necrosis that may be fatal
+severe liver injury such as hepatic failure and acute hepatic necrosis that may be fatal
 
 ## Skin and subcutaneous tissue disorders
 
 Common:
 
-increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
-
 Uncommon:
+
+increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
 
 Very rare:
 
-toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
+toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme
 
 Not known:
+
+cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug
+
+Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
 
 Musculoskeletal and connective tissue disorders
 
@@ -1842,15 +1872,17 @@ renal failure
 
 Reproductive system and breast disorders
 
-Not known:
-
-marginal (reversible) decreases in sperm concentration, total sperm count and rapid progressive motility
+Not known: marginal (reversible) decreases in sperm concentration, total sperm count and rapid progressive motility
 
 General disorders and administration site conditions
 
 Common:
 
 anorexia, weight loss (usually insignificant), asthenia
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -1864,11 +1896,7 @@ There have been reports of chronic overdose in patients taking leflunomide at da
 
 ## Management
 
-In the event of an overdose or toxicity, colestyramine or charcoal is recommended to accelerate elimination. Colestyramine given orally at a dose of 8 g three times a day for 24 hours to three healthy
-
-<div style=\"page-break-after: always\"></div>
-
-volunteers decreased plasma levels of A771726 by approximately 40% in 24 hours and by 49% to 65% in 48 hours.
+In the event of an overdose or toxicity, colestyramine or charcoal is recommended to accelerate elimination. Colestyramine given orally at a dose of 8 g three times a day for 24 hours to three healthy volunteers decreased plasma levels of A771726 by approximately 40% in 24 hours and by 49% to 65% in 48 hours.
 
 Administration of activated charcoal (powder made into a suspension) orally or via nasogastric tube (50 g every 6 hours for 24 hours) has been shown to reduce plasma concentrations of the active metabolite A771726 by 37% in 24 hours and by 48% in 48 hours. These washout procedures may be repeated if clinically necessary.
 
@@ -1888,7 +1916,9 @@ Leflunomide is a disease-modifying anti-rheumatic agent with antiproliferative p
 
 Leflunomide is effective in animal models of arthritis and of other autoimmune diseases and transplantation, mainly if administered during the sensitisation phase. It has immunomodulating/ immunosuppressive characteristics, acts as an antiproliferative agent, and displays anti-inflammatory properties. Leflunomide exhibits the best protective effects on animal models of autoimmune diseases when administered in the early phase of the disease progression.
 
-In vivo , it is rapidly and almost completely metabolised to A771726 which is active in vitro , and is presumed to be responsible for the therapeutic effect.
+In vivo, it is rapidly and almost completely metabolised to A771726 which is active in vitro, and is presumed to be responsible for the therapeutic effect.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -1900,11 +1930,11 @@ A771726, the active metabolite of leflunomide, inhibits the human enzyme dihydro
 
 The efficacy of leflunomide in the treatment of rheumatoid arthritis was demonstrated in 4 controlled trials (1 in phase II and 3 in phase III). The phase II trial, study YU203, randomised 402 subjects with active rheumatoid arthritis to placebo (n=102), leflunomide 5 mg (n=95), 10 mg (n=101) or 25 mg/day (n=104). The treatment duration was 6 months.
 
-All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine. Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months. Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day
+All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
 
-(n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
+Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months.
 
-<div style=\"page-break-after: always\"></div>
+Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
 
 Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
 
@@ -1912,7 +1942,9 @@ A randomised, double-blind, parallel-group non-inferiority study compared the re
 
 ## Paediatric population
 
-Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 3 -17 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt;20 kg, 20-40 kg, and &gt;40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA Definition of Improvement (DOI)  30% (p=0.02). In responders, this response was maintained during 48 weeks (see section 4.2). The pattern of adverse events of leflunomide and methotrexate seems to be similar, but the dose used in lighter subjects resulted in a relatively low exposure (see section 5.2). These data do not allow an effective and safe dose recommendation.
+Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 3-17 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt;20 kg, 20-40 kg, and &gt;40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA Definition of Improvement (DOI) ≥30% (p=0.02). In responders, this response was maintained during 48 weeks (see section 4.2). The pattern of adverse events of leflunomide and methotrexate seems to be similar, but the dose used in lighter subjects resulted in a relatively low exposure (see section 5.2). These data do not allow an effective and safe dose recommendation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Psoriatic arthritis
 
@@ -1926,11 +1958,7 @@ A randomised study assessed the clinical efficacy response rate in DMARD-naïve 
 
 ## 5.2 Pharmacokinetic properties
 
-Leflunomide is rapidly converted to the active metabolite, A771726, by first-pass metabolism (ring opening) in gut wall and liver. In a study with radiolabelled 14 C-leflunomide in three healthy
-
-<div style=\"page-break-after: always\"></div>
-
-volunteers, no unchanged leflunomide was detected in plasma, urine or faeces. In other studies, unchanged leflunomide levels in plasma have rarely been detected, however, at ng/ml plasma levels. The only plasma-radiolabelled metabolite detected was A771726. This metabolite is responsible for essentially all the in vivo activity of leflunomide.
+Leflunomide is rapidly converted to the active metabolite, A771726, by first-pass metabolism (ring opening) in gut wall and liver. In a study with radiolabelled 14 C-leflunomide in three healthy volunteers, no unchanged leflunomide was detected in plasma, urine or faeces. In other studies, unchanged leflunomide levels in plasma have rarely been detected, however, at ng/ml plasma levels. The only plasma-radiolabelled metabolite detected was A771726. This metabolite is responsible for essentially all the in vivo activity of leflunomide.
 
 ## Absorption
 
@@ -1940,6 +1968,8 @@ Excretion data from the 14 C study indicated that at least about 82 to 95% of th
 
 In human plasma, A771726 is extensively bound to protein (albumin). The unbound fraction of A771726 is about 0.62%. Binding of A771726 is linear in the therapeutic concentration range. Binding of A771726 appeared slightly reduced and more variable in plasma from patients with rheumatoid arthritis or chronic renal insufficiency. The extensive protein binding of A771726 could lead to displacement of other highly-bound drugs. In vitro plasma protein binding interaction studies with warfarin at clinically relevant concentrations, however, showed no interaction. Similar studies showed that ibuprofen and diclofenac did not displace A771726, whereas the unbound fraction of A771726 is increased 2- to 3-fold in the presence of tolbutamide. A771726 displaced ibuprofen, diclofenac and tolbutamide but the unbound fraction of these medicinal products is only increased by 10% to 50%. There is no indication that these effects are of clinical relevance. Consistent with extensive protein binding A771726 has a low apparent volume of distribution (approximately 11 litres). There is no preferential uptake in erythrocytes.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Biotransformation
 
 Leflunomide is metabolised to one primary (A771726) and many minor metabolites including TFMA (4-trifluoromethylaniline). The metabolic biotransformation of leflunomide to A771726 and subsequent metabolism of A771726 is not controlled by a single enzyme and has been shown to occur in microsomal and cytosolic cellular fractions. Interaction studies with cimetidine (non-specific cytochrome P450 inhibitor) and rifampicin (non-specific cytochrome P450 inducer), indicate that in vivo CYP enzymes are involved in the metabolism of leflunomide only to a small extent.
@@ -1948,11 +1978,7 @@ Leflunomide is metabolised to one primary (A771726) and many minor metabolites i
 
 Elimination of A771726 is slow and characterised by an apparent clearance of about 31 ml/hr. The elimination half-life in patients is approximately 2 weeks. After administration of a radiolabelled dose of leflunomide, radioactivity was equally excreted in faeces, probably by biliary elimination, and in urine. A771726 was still detectable in urine and faeces 36 days after a single administration. The principal urinary metabolites were glucuronide products derived from leflunomide (mainly in 0 to 24 hour samples) and an oxanilic acid derivative of A771726. The principal faecal component was A771726.
 
-It has been shown in man that administration of an oral suspension of activated powdered charcoal or colestyramine leads to a rapid and significant increase in A771726 elimination rate and decline in
-
-<div style=\"page-break-after: always\"></div>
-
-plasma concentrations (see section 4.9). This is thought to be achieved by a gastrointestinal dialysis mechanism and/or by interrupting enterohepatic recycling.
+It has been shown in man that administration of an oral suspension of activated powdered charcoal or colestyramine leads to a rapid and significant increase in A771726 elimination rate and decline in plasma concentrations (see section 4.9). This is thought to be achieved by a gastrointestinal dialysis mechanism and/or by interrupting enterohepatic recycling.
 
 ## Renal impairment
 
@@ -1964,25 +1990,23 @@ No data are available regarding treatment of patients with hepatic impairment. T
 
 ## Paediatric population
 
-The pharmacokinetics of A771726 following oral administration of leflunomide have been investigated in 73 paediatric patients with polyarticular course Juvenile Rheumatoid Arthritis (JRA) who ranged in age from 3 to 17 years. The results of a population pharmacokinetic analysis of these trials have demonstrated that paediatric patients with body weights  40 kg have a reduced systemic exposure (measured by Css) of A771726 relative to adult rheumatoid arthritis patients (see section 4.2).
+The pharmacokinetics of A771726 following oral administration of leflunomide have been investigated in 73 paediatric patients with polyarticular course Juvenile Rheumatoid Arthritis (JRA) who ranged in age from 3 to 17 years. The results of a population pharmacokinetic analysis of these trials have demonstrated that paediatric patients with body weights ≤40 kg have a reduced systemic exposure (measured by Css) of A771726 relative to adult rheumatoid arthritis patients (see section 4.2).
 
 ## Elderly
 
 Pharmacokinetic data in elderly (&gt;65 years) are limited but consistent with pharmacokinetics in younger adults.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 Leflunomide, administered orally and intraperitoneally, has been studied in acute toxicity studies in mice and rats. Repeated oral administration of leflunomide to mice for up to 3 months, to rats and dogs for up to 6 months and to monkeys for up to 1 month's duration revealed that the major target organs for toxicity were bone marrow, blood, gastrointestinal tract, skin, spleen, thymus and lymph nodes. The main effects were anaemia, leucopenia, decreased platelet counts and panmyelopathy and reflect the basic mode of action of the compound (inhibition of DNA synthesis). In rats and dogs, Heinz bodies and/or Howell-Jolly bodies were found. Other effects found on heart, liver, cornea and respiratory tract could be explained as infections due to immunosuppression. Toxicity in animals was found at doses equivalent to human therapeutic doses.
 
-Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluoromethylaniline) caused clastogenicity and point mutations in vitro , whilst insufficient information was available on its potential to exert this effect in vivo .
+Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluoromethylaniline) caused clastogenicity and point mutations in vitro, whilst insufficient information was available on its potential to exert this effect in vivo.
 
 In a carcinogenicity study in rats, leflunomide did not show carcinogenic potential. In a carcinogenicity study in mice an increased incidence of malignant lymphoma occurred in males of the highest dose group, considered to be due to the immunosuppressive activity of leflunomide. In female mice an increased incidence, dose-dependent, of bronchiolo-alveolar adenomas and carcinomas of the lung was noted. The relevance of the findings in mice relative to the clinical use of leflunomide is uncertain.
 
-Leflunomide was not antigenic in animal models.
-
-Leflunomide was embryotoxic and teratogenic in rats and rabbits at doses in the human therapeutic range and exerted adverse effects on male reproductive organs in repeated dose toxicity studies. Fertility was not reduced.
-
-<div style=\"page-break-after: always\"></div>
+Leflunomide was not antigenic in animal models. Leflunomide was embryotoxic and teratogenic in rats and rabbits at doses in the human therapeutic range and exerted adverse effects on male reproductive organs in repeated dose toxicity studies. Fertility was not reduced.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -2000,19 +2024,21 @@ Not applicable.
 
 3 years.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.4 Special precautions for storage
 
 Store in the original package.
 
-## 6.5 Nature and content s of container
+## 6.5 Nature and contents of container
 
 Aluminium / Aluminium blister. Pack size: 3 film-coated tablets.
 
-## 6.6 Special precautions for disposal
+- 6.6 Special precautions for disposal
 
 No special requirements for disposal.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7. MARKETING AUTHORISATION HOLDER
 
 Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
 
@@ -2020,13 +2046,9 @@ Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
 
 EU/1/09/604/010
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 08 January 2010
-
-Date of latest renewal: 19 November 2014
+Date of first authorisation: 08 January 2010 Date of latest renewal: 19 November 2014
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -2049,17 +2071,21 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-- -Leflunomide Zentiva 100 mg film-coated tablets
+## - Leflunomide Zentiva 100 mg film-coated tablets
 
-Opella Healthcare International SAS 56, Route de Choisy 60200 Compiègne France
+Opella Healthcare International SAS 56, Route de Choisy 60200 Compiègne
 
-- -Leflunomide Zentiva 10 mg, 20 mg film-coated tablets
+France
 
-LABORMED- PHARMA S.A. B-dul. Theodor Pallady no. 44B, sector 3 code 032266, Bucharest, Romania
+- Leflunomide Zentiva 10 mg, 20 mg film-coated tablets
 
-ZENTIVA S.A.
+LABORMED- PHARMA S.A. B-dul. Theodor Pallady no. 44B, sector 3 code 032266, Bucharest,
 
-B-dul. Theodor Pallady no. 50, sector 3 code 032266, Bucharest, Romania
+Romania
+
+B-dul. Theodor Pallady no. 50, sector 3 code 032266, Bucharest,
+
+ZENTIVA S.A. Romania
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -2089,15 +2115,22 @@ An updated RMP should be submitted:
 The Marketing Authorisation Holder (MAH) shall ensure that all physicians who are expected to prescribe/use Leflunomide Zentiva are provided with a physician educational pack containing the following:
 
 - The Summary of Product Characteristics
+- Patient Information Sheet
 - Physician Leaflet
 
 The Physician Leaflet should contain the following key messages:
 
-- That there is a risk of severe liver injury and so regular measurement of ALT (SGPT) levels to monitor liver function is important. The information provided in the Physician Leaflet should provide information on dose reduction, discontinuation and wash out procedures.
-- The identified risk of synergistic hepato- or haematotoxicity associated with combination therapy with another Disease-Modifying Antirheumatic Drug (e.g. methotrexate).
-- The risk of infections, including opportunistic infections, and the contraindication for use in immuno-compromised patients.
 - That there is a risk of teratogenicity and so pregnancy must be avoided until leflunomide plasma levels are at an appropriate level. Physicians and patients should be made aware that there is an ad hoc advisory service available to provide information on leflunomide plasma level laboratory testing.
-- The need to counsel patients on important risks associated with leflunomide therapy and appropriate precautions when using the medicine.
+
+## Patient Information Sheet should contain the following key messages
+
+- Leflunomide may increase the risk of serious birth defects in pregnant women or women who become pregnant while taking leflunomide.
+- Women should not attempt to become pregnant until they have discontinued leflunomide and confirmed that leflunomide has been sufficiently removed from body through the drug washout procedure, or within two years after stopping leflunomide in case no wash-out procedure has been done.
+- Women of childbearing potential and their partners should take every precaution to avoid pregnancy. This includes both partners using reliable birth control as recommended by the doctor, when currently taking leflunomide, when undergoing the wash-out procedure, or after having discontinued leflunomide less than 2 years ago without wash-out.
+- Women should immediately contact their doctor if their menstruation is delayed or they believe they may be pregnant.
+- Leflunomide wash-out procedure: The duration of a complete wash-out procedure is usually 11 days, during which either cholestyramine or activated powdered charcoal is administered. The duration may be modified depending on clinical or laboratory variables. This course is followed by 2 separate laboratory blood tests at least 14 days apart to assure a very low drug level in body. If leflunomide levels are still too high, a repeated drug wash-out procedure may be necessary. If the procedure is not followed, it could take up to 2 years to reach a very low drug level in the blood. When confirmed that leflunomide levels are sufficiently low, women should at least wait another month before becoming pregnant.
+- It cannot be excluded that leflunomide passes into semen. Men should use reliable contraception during treatment with leflunomide. If men wishing to be a father, the doctor would advise stopping leflunomide and then undergo the drug wash-out procedure. When it is confirmed that leflunomide has been sufficiently removed from body, men should then wait for at least 3 months before fathering a child.
+- For further information, patients should contact their doctor.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2109,190 +2142,75 @@ The Physician Leaflet should contain the following key messages:
 
 - A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 ## OUTER PACKAGING/BLISTER PACK
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Leflunomide Zentiva 10 mg film-coated tablets leflunomide
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each film-coated tablet contains 10 mg leflunomide.
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 This medicinal product contains lactose (see leaflet for further information).
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
-30 film-coated tablets
+30 film-coated tablets 100 film-coated tablets
 
-100 film-coated tablets
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+Read the package leaflet before use. Oral use.
 
-Read the package leaflet before use.
-
-Oral use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store in the original package.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Zentiva k.s.
-
-U kabelovny 130
-
-102 37 Prague 10
+Zentiva k.s. U kabelovny 130 102 37 Prague 10
 
 Czech Republic
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
 
-EU/1/09/604/003 30 tablets EU/1/09/604/004 100 tablets
+EU/1/09/604/003 30 tablets
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+EU/1/09/604/004 100 tablets
 
-Batch
-
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
-Medicinal product subject to medical prescription.
-
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
-
-Leflunomide Zentiva 10 mg
-
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
-
-2D barcode carrying the unique identifier included.
-
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
-
-PC
-
-SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
-
-Leflunomide Zentiva 10 mg film-coated tablets leflunomide
-
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
-
-Zentiva k.s.
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-EXP
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-Batch
-
-| 5.   | OTHER   |
-|------|---------|
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## OUTER PACKAGING/BOTTLE PACK
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Leflunomide Zentiva 10 mg film-coated tablets leflunomide
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each film-coated tablet contains 10 mg leflunomide.
-
-## 3. LIST OF EXCIPIENTS
-
-This medicinal product contains lactose (see leaflet for further information).
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-30 film-coated tablets
-
-100 film-coated tablets
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Oral use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Keep the bottle tightly closed.
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
-
-Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
-
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
-
-EU/1/09/604/001 30 tablets EU/1/09/604/002 100 tablets
-
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Batch
 
@@ -2304,72 +2222,197 @@ Medicinal product subject to medical prescription.
 | 15.   | INSTRUCTIONS ON USE   |
 |-------|-----------------------|
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 Leflunomide Zentiva 10 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
 NN
 
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+<div style=\"page-break-after: always\"></div>
 
-BOTTLE LABEL
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Leflunomide Zentiva 10 mg film-coated tablets leflunomide
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Each tablet contains 10 mg leflunomide.
+Zentiva k.s.
 
-## 3. LIST OF EXCIPIENTS
-
-Also contains lactose.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-30 film-coated tablets
-
-100 film-coated tablets
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use. Oral use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Batch Leflunomide Zentiva 10 mg film-coated tablets leflunomide Each film-coated tablet contains 10 mg leflunomide.
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| PARTICULARS TO APPEAR ON THE OUTER PACKAGING   |
+|------------------------------------------------|
+| OUTER PACKAGING/BOTTLE PACK                    |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
+
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
+
+This medicinal product contains lactose (see leaflet for further information).
+
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
+
+30 film-coated tablets 100 film-coated tablets
+
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
+
+Read the package leaflet before use. Oral use.
+
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
+
+Keep out of the sight and reach of children.
+
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
+
+| 8.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Keep the bottle tightly closed.
 
 <div style=\"page-break-after: always\"></div>
 
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
+
+Zentiva k.s. U kabelovny 130 102 37 Prague 10
+
+Czech Republic
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+EU/1/09/604/001 30 tablets EU/1/09/604/002 100 tablets
+
+| 13. BATCH NUMBER   |
+|--------------------|
+
+Batch
+
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
+
+Medicinal product subject to medical prescription.
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
+
+Leflunomide Zentiva 10 mg
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+PC SN NN
+
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING   |
+|----------------------------------------------------|
+| BOTTLE LABEL                                       |
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Leflunomide Zentiva 10 mg film-coated tablets leflunomide
+
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
+
+Each tablet contains 10 mg leflunomide.
+
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
+
+Also contains lactose.
+
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
+
+30 film-coated tablets 100 film-coated tablets
+
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
+
+Read the package leaflet before use. Oral use.
+
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
+
+Keep out of the sight and reach of children.
+
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
+
+| 8.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+Keep the bottle tightly closed.
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Zentiva k.s.
 
@@ -2378,13 +2421,13 @@ Zentiva k.s.
 
 EU/1/09/604/001 30 tablets EU/1/09/604/002 100 tablets
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Batch
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
 Medicinal product subject to medical prescription.
 
@@ -2394,72 +2437,81 @@ Medicinal product subject to medical prescription.
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
+64
+
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 ## OUTER PACKAGING/BLISTER PACK
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Leflunomide Zentiva 20 mg film-coated tablets leflunomide
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each film-coated tablet contains 20 mg leflunomide.
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 This medicinal product contains lactose (see leaflet for further information).
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
-30 film-coated tablets
+30 film-coated tablets 100 film-coated tablets
 
-100 film-coated tablets
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+Read the package leaflet before use. Oral use.
 
-Read the package leaflet before use.
-
-Oral use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store in the original package.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+APPROPRIATE
 
-Zentiva k.s.
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-U kabelovny 130
-
-102 37 Prague 10
+Zentiva k.s. U kabelovny 130 102 37 Prague 10
 
 Czech Republic
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
 
-EU/1/09/604/008 30 tablets EU/1/09/604/009 100 tablets
+EU/1/09/604/008 30 tablets
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+EU/1/09/604/009 100 tablets
+
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Batch
 
@@ -2471,37 +2523,35 @@ Medicinal product subject to medical prescription.
 | 15.   | INSTRUCTIONS ON USE   |
 |-------|-----------------------|
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 Leflunomide Zentiva 20 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Leflunomide Zentiva 20 mg film-coated tablets leflunomide
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Zentiva k.s.
 
@@ -2518,6 +2568,8 @@ Batch
 | 5.   | OTHER   |
 |------|---------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 ## OUTER PACKAGING/BOTTLE PACK
@@ -2526,7 +2578,8 @@ Batch
 
 Leflunomide Zentiva 20 mg film-coated tablets leflunomide
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each film-coated tablet contains 20 mg leflunomide.
 
@@ -2534,45 +2587,44 @@ Each film-coated tablet contains 20 mg leflunomide.
 
 This medicinal product contains lactose (see leaflet for further information).
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
-30 film-coated tablets
-
-50 film-coated tablets
+30 film-coated tablets 50 film-coated tablets
 
 100 film-coated tablets
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
 Read the package leaflet before use. Oral use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Keep the bottle tightly closed.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Zentiva k.s.
-
-U kabelovny 130
-
-102 37 Prague 10
+Zentiva k.s. U kabelovny 130 102 37 Prague 10
 
 Czech Republic
 
@@ -2588,21 +2640,25 @@ EU/1/09/604/007 100 tablets
 
 Batch
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
 Medicinal product subject to medical prescription.
 
 ## 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Leflunomide Zentiva 20 mg
 
-17. UNIQUE IDENTIFIER -2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC
 
@@ -2610,68 +2666,155 @@ SN
 
 NN
 
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+<div style=\"page-break-after: always\"></div>
 
-BOTTLE LABEL
+| PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING   |
+|----------------------------------------------------|
+| BOTTLE LABEL                                       |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Leflunomide Zentiva 20 mg film-coated tablets leflunomide
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each tablet contains 20 mg leflunomide.
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 Also contains lactose.
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
-30 film-coated tablets
-
-50 film-coated tablets
+30 film-coated tablets 50 film-coated tablets
 
 100 film-coated tablets
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
 Read the package leaflet before use. Oral use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Keep the bottle tightly closed.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Zentiva k.s.
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
 
-EU/1/09/604/005 30 tablets EU/1/09/604/006 50 tablets
-
-EU/1/09/604/007 100 tablets
+EU/1/09/604/005 30 tablets EU/1/09/604/006 50 tablets EU/1/09/604/007 100 tablets
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
+
+Batch
+
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
+
+Medicinal product subject to medical prescription.
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+| PARTICULARS TO APPEAR ON THE OUTER PACKAGING   |
+|------------------------------------------------|
+| OUTER PACKAGING/BLISTER PACK                   |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Leflunomide Zentiva 100 mg film-coated tablets leflunomide
+
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
+
+Each film-coated tablet contains 100 mg leflunomide.
+
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
+
+This medicinal product contains lactose (see leaflet for further information).
+
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
+
+3 film-coated tablets
+
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
+
+Read the package leaflet before use. Oral use.
+
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
+
+Keep out of the sight and reach of children.
+
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
+
+| 8.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+Store in the original package.
+
+<div style=\"page-break-after: always\"></div>
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
+
+Zentiva k.s. U kabelovny 130 102 37 Prague 10
+
+Czech Republic
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+EU/1/09/604/010 3 tablets
+
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Batch
 
@@ -2686,98 +2829,32 @@ Medicinal product subject to medical prescription.
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## OUTER PACKAGING/BLISTER PACK
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Leflunomide Zentiva 100 mg film-coated tablets leflunomide
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each film-coated tablet contains 100 mg leflunomide.
-
-## 3. LIST OF EXCIPIENTS
-
-This medicinal product contains lactose (see leaflet for further information).
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-3 film-coated tablets
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Oral use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Store in the original package.
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/09/604/010 3 tablets
-
-## 13. BATCH NUMBER
-
-Batch
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-Medicinal product subject to medical prescription.
-
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
 Leflunomide Zentiva 100 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Leflunomide Zentiva 100 mg film-coated tablets leflunomide
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Zentiva k.s.
 
@@ -2796,20 +2873,22 @@ Batch
 
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGE LEAFLET
-
-## Package leaflet: Information for the user
+- B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
-## Leflunomide Zentiva 10 mg film-coated tablets leflunomide
+## Package leaflet: Information for the user
+
+## Leflunomide Zentiva 10 mg film-coated tablets
+
+leflunomide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2834,14 +2913,14 @@ Symptoms of active psoriatic arthritis include inflammation of joints, swelling,
 
 ## Do not take Leflunomide Zentiva
 
-- -if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome) or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
-- -if you have any liver problems ,
-- -if you have moderate to severe kidney problems ,
-- -if you have severely low numbers of proteins in your blood (hypoproteinaemia),
-- -if you suffer from any problem which affects your immune system (e.g. AIDS),
-- -if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
-- -if you are suffering from a serious infection ,
-- -if you are pregnant , think you may be pregnant, or are breast-feeding.
+- if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome) or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
+- if you have any liver problems,
+- if you have moderate to severe kidney problems,
+- if you have severely low numbers of proteins in your blood (hypoproteinaemia),
+- if you suffer from any problem which affects your immune system (e.g. AIDS),
+- if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
+- if you are suffering from a serious infection,
+- if you are pregnant, think you may be pregnant, or are breast-feeding.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2849,15 +2928,21 @@ Symptoms of active psoriatic arthritis include inflammation of joints, swelling,
 
 Talk to your doctor, pharmacist or nurse before taking Leflunomide Zentiva
 
-- -if you have ever suffered from inflammation of the lung (interstitial lung disease).
-- -if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis.
-- -if you are male and wish to father a child. As it can not be excluded that Leflunomide Zentiva passes into semen, reliable contraception should be used during treatment with Leflunomide Zentiva. Men wishing to father a child should contact their doctor who may advise them to stop taking Leflunomide Zentiva and take certain medicines to remove Leflunomide Zentiva rapidly and sufficiently from their body. You will then need a blood test to make sure that Leflunomide Zentiva has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
-- -if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
-- -if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. Leflunomide Zentiva may impair wound healing.
+- if you have ever suffered from inflammation of the lung (interstitial lung disease).
+- if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis.
+- if you are male and wish to father a child. As it can not be excluded that Leflunomide Zentiva passes into semen, reliable contraception should be used during treatment with Leflunomide Zentiva. Men wishing to father a child should contact their doctor who may advise them to stop taking Leflunomide Zentiva and take certain medicines to remove Leflunomide Zentiva rapidly and sufficiently from their body. You will then need a blood test to make sure that Leflunomide Zentiva has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
+- if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
+- if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. Leflunomide Zentiva may impair wound healing.
 
 Leflunomide Zentiva can occasionally cause some problems with your blood, liver, lungs, or nerves in your arms or legs. It may also cause some serious allergic reactions (including Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), or increase the chance of a severe infection. For more information on these, please read section 4 (Possible side effects).
 
 DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
+
+## Haemophagocytic lymphohistiocytosis (HLH)
+
+There have been reports of a rare but very serious immune system reaction, in patients taking Leflunomide Zentiva.
+
+- Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking Leflunomide Zentiva: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
 
 Your doctor will carry out blood tests at regular intervals, before and during treatment with Leflunomide Zentiva, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Leflunomide Zentiva can cause an increase in blood pressure.
 
@@ -2875,28 +2960,28 @@ Please tell your doctor or pharmacist if you are taking, have recently taken or 
 
 This is especially important if you are taking:
 
-- -other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
-- -warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
-- -teriflunomide for multiple sclerosis
-- -repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
-- -daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
-- -duloxetine for depression, urinary incontinence or in kidney disease in diabetics
-- -alosetron for the management of severe diarrhoea
-- -theophylline for asthma
+- other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
 
 <div style=\"page-break-after: always\"></div>
 
-- -tizanidine, a muscle relaxant
-- -oral contraceptives (containing ethinylestradiol and levonorgestrel)
-- -cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
-- -indomethacin, ketoprofen for pain or inflammation
-- -furosemide for heart disease (diuretic, water pill)
-- -zidovudine for HIV infection
-- -rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol)
-- -sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
-- -a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Leflunomide Zentiva which is absorbed by the body.
+- warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
+- teriflunomide for multiple sclerosis
+- repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
+- daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
+- duloxetine for depression, urinary incontinence or in kidney disease in diabetics
+- alosetron for the management of severe diarrhoea
+- theophylline for asthma
+- tizanidine, a muscle relaxant
+- oral contraceptives (containing ethinylestradiol and levonorgestrel)
+- cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
+- indomethacin, ketoprofen for pain or inflammation
+- furosemide for heart disease (diuretic, water pill)
+- zidovudine for HIV infection
+- rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol)
+- sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
+- a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Leflunomide Zentiva which is absorbed by the body.
 
-If you are already taking a nonsteroidal anti-inflammatory drug (NSAID) and/or corticosteroids , you may continue to take them after starting Leflunomide Zentiva.
+If you are already taking a nonsteroidal anti-inflammatory drug (NSAID) and/or corticosteroids, you may continue to take them after starting Leflunomide Zentiva.
 
 ## Vaccinations
 
@@ -2910,7 +2995,7 @@ It is not recommended to drink alcohol during treatment with Leflunomide Zentiva
 
 ## Pregnancy and breast-feeding
 
-Do not take Leflunomide Zentiva if you are, or think you may be pregnant . If you are pregnant or become pregnant while taking Leflunomide Zentiva, the risk of having a baby with serious birth defects is increased. Women of childbearing potential must not take Leflunomide Zentiva without using reliable contraceptive measures.
+Do not take Leflunomide Zentiva if you are, or think you may be pregnant. If you are pregnant or become pregnant while taking Leflunomide Zentiva, the risk of having a baby with serious birth defects is increased. Women of childbearing potential must not take Leflunomide Zentiva without using reliable contraceptive measures.
 
 Tell your doctor if you plan to become pregnant after stopping treatment with Leflunomide Zentiva, as you need to ensure that all traces of Leflunomide Zentiva have left your body before trying to become pregnant. This may take up to 2 years. This may be reduced to a few weeks by taking certain medicines which speed up removal of Leflunomide Zentiva from your body.
 
@@ -2920,7 +3005,9 @@ For further information on the laboratory testing please contact your doctor.
 
 If you suspect that you are pregnant while taking Leflunomide Zentiva or in the two years after you have stopped treatment, you must contact your doctor immediately for a pregnancy test. If the test confirms that you are pregnant, your doctor may suggest treatment with certain medicines to remove Leflunomide Zentiva rapidly and sufficiently from your body, as this may decrease the risk to your baby.
 
-Do not take Leflunomide Zentiva when you are breast-feeding , as leflunomide passes into the breast milk.
+Do not take Leflunomide Zentiva when you are breast-feeding, as leflunomide passes into the breast milk.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -2929,8 +3016,6 @@ Leflunomide Zentiva can make you feel dizzy which may impair your ability to con
 ## Leflunomide Zentiva contains lactose
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3. How to take Leflunomide Zentiva
 
@@ -2941,7 +3026,7 @@ The usual starting dose of Leflunomide Zentiva is 100 mg leflunomide once daily 
 - For psoriatic arthritis: 20 mg Leflunomide Zentiva once daily.
 - For rheumatoid arthritis: 10 or 20 mg Leflunomide Zentiva once daily, depending on the severity of the disease.
 
-Swallow the tablet whole and with plenty of water .
+Swallow the tablet whole and with plenty of water.
 
 It may take about 4 weeks or longer until you start to feel an improvement in your condition. Some patients may even still feel further improvements after 4 to 6 months of therapy. You will normally take Leflunomide Zentiva over long periods of time.
 
@@ -2961,73 +3046,73 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor immediately and stop taking Leflunomide Zentiva:
 
-- -if you experience weakness , feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
-- -if you develop a skin rash or ulcers in your mouth , as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
+- if you experience weakness, feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
+- if you develop a skin rash or ulcers in your mouth, as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
 
 Tell your doctor immediately if you experience:
 
-- -pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
-- -tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
-- -any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
-- -cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
-- -unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
+- pale skin, tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
+- tiredness, abdominal pain, or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
+- any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
+
+<div style=\"page-break-after: always\"></div>
+
+- cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
+- unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
 
 ## Common side effects (may affect up to 1 in 10 people)
 
-- -a slight decrease in the number of white blood cells (leucopenia),
-- -mild allergic reactions,
-- -loss of appetite, weight loss (usually insignificant),
-
-<div style=\"page-break-after: always\"></div>
-
-- -tiredness (asthenia),
-- -headache, dizziness,
-- -abnormal skin sensations like tingling (paraesthesia),
-- -mild increase in blood pressure,
-- -colitis,
-- -diarrhoea,
-- -nausea, vomiting,
-- -inflammation of the mouth or mouth ulcers,
-- -abdominal pain,
-- -an increase in some liver test results,
-- -increased hair loss,
-- -eczema, dry skin, rash, itching,
-- -tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
-- -an increase of certain enzymes in the blood (creatine phosphokinase),
-- -problems in the nerves of the arms or legs (peripheral neuropathy).
+- a slight decrease in the number of white blood cells (leucopenia),
+- mild allergic reactions,
+- loss of appetite, weight loss (usually insignificant),
+- tiredness (asthenia),
+- headache, dizziness,
+- abnormal skin sensations like tingling (paraesthesia),
+- mild increase in blood pressure,
+- colitis,
+- diarrhoea,
+- nausea, vomiting,
+- inflammation of the mouth or mouth ulcers,
+- abdominal pain,
+- an increase in some liver test results,
+- increased hair loss,
+- eczema, dry skin, rash, itching,
+- tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
+- an increase of certain enzymes in the blood (creatine phosphokinase),
+- problems in the nerves of the arms or legs (peripheral neuropathy).
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
-- -a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
-- -a decrease in the levels of potassium in the blood,
-- -anxiety,
-- -taste disturbances,
-- -urticaria (nettle rash),
-- -tendon rupture,
-- -an increase in the levels of fat in the blood (cholesterol and triglycerides),
-- -a decrease in the levels of phosphate in the blood.
+- a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
+- a decrease in the levels of potassium in the blood,
+- anxiety,
+- taste disturbances,
+- urticaria (nettle rash),
+- tendon rupture,
+- an increase in the levels of fat in the blood (cholesterol and triglycerides),
+- a decrease in the levels of phosphate in the blood.
 
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
-- -an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
-- -severe increase in blood pressure,
-- -inflammation of the lung (interstitial lung disease),
-- -an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice,
-- -severe infections called sepsis which may be fatal,
-- -an increase of certain enzymes in the blood (lactate dehydrogenase).
+- an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
+- severe increase in blood pressure,
+- inflammation of the lung (interstitial lung disease),
+- an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice,
+- severe infections called sepsis which may be fatal,
+- an increase of certain enzymes in the blood (lactate dehydrogenase).
 
 ## Very rare side effects (may affect up to 1 in 10,000 people)
 
-- -a marked decrease of some white blood cells (agranulocytosis),
-- -severe and potentially severe allergic reactions,
-- -inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
-- -inflammation of the pancreas (pancreatitis),
-- -severe liver injury such as liver failure or necrosis which may be fatal,
-- -severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
-
-Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and skin ulcer (round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
+- a marked decrease of some white blood cells (agranulocytosis),
+- severe and potentially severe allergic reactions,
+- inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
+- inflammation of the pancreas (pancreatitis),
+- severe liver injury such as liver failure or necrosis which may be fatal,
+- severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
 
 <div style=\"page-break-after: always\"></div>
+
+Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and skin ulcer (round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
 
 ## Reporting of side effects
 
@@ -3039,13 +3124,9 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the packaging. The expiry date refers to the last day of that month.
 
-Blister:
+Blister: Store in the original package.
 
-Store in the original package.
-
-Bottle:
-
-Keep the bottle tightly closed.
+Bottle: Keep the bottle tightly closed.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -3053,951 +3134,36 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Leflunomide Zentiva contains
 
-- -The active substance is leflunomide. One film-coated tablet contains 10 mg of leflunomide.
-- -The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), silica colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as well as talc (E553b), hypromellose (E464), titanium dioxide (E171), and macrogol 8000 in the film-coating.
+- The active substance is leflunomide. One film-coated tablet contains 10 mg of leflunomide.
+- The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), silica colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as well as talc (E553b), hypromellose (E464), titanium dioxide (E171), and macrogol 8000 in the film-coating.
 
 ## What Leflunomide Zentiva looks like and contents of the pack
 
 Leflunomide Zentiva 10 mg film-coated tablets are white to almost white and round. Imprint on one side: ZBN.
 
-The tablets are packed in blisters or bottles. Packs of 30 and 100 tablets are available.
+The tablets are packed in blisters or bottles.
+
+Packs of 30 and 100 tablets are available.
 
 Not all pack size may be marketed.
 
 ## Marketing Authorisation Holder
 
-Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
+Zentiva k.s. U kabelovny 130 102 37 Prague 10
+
+Czech Republic
+
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
-LABORMED- PHARMA S.A. B-dul. Theodor Pallady no. 44B, sector 3 code 032266, Bucharest, Romania
+LABORMED- PHARMA S.A. B-dul. Theodor Pallady no. 44B, sector 3 code 032266, Bucharest,
 
-<div style=\"page-break-after: always\"></div>
+Romania
 
-ZENTIVA S.A. B-dul Theodor Pallady no. 50, sector 3 code 032266, Bucharest, Romania
+ZENTIVA S.A. B-dul Theodor Pallady no. 50, sector 3 code 032266, Bucharest,
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
-
-## België/Belgique/Belgien
-
-Zentiva, k.s. Tél/Tel: +32 (78) 700 112 PV-Belgium@zentiva.com
-
-## България
-
-Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
-
-## Česká republika
-
-Zentiva, k.s. Tel: +420 267 241 111 PV-Czech-Republic@zentiva.com
-
-## Danmark
-
-Zentiva Denmark ApS Tlf.: +45 787 68 400
-
-PV-Denmark@zentiva.com
-
-## Deutschland
-
-Zentiva Pharma GmbH Tel: +49 (0) 800 53 53 010
-
-PV-Germany@zentiva.com
-
-## Eesti
-
-Zentiva, k.s. Tel: +372 52 70308
-
-PV-Estonia@zentiva.com
-
-## Ελλάδα
-
-Zentiva, k.s. Τηλ: +30 211 198 7510
-
-PV-Greece@zentiva.com
-
-## España
-
-Zentiva Spain S.L.U. Tel: +34 671 365 828 PV-Spain@zentiva.com
-
-## France
-
-Zentiva France Tél: +33 (0) 800 089 219
-
-PV-France@zentiva.com
-
-## Lietuva
-
-Zentiva, k.s. Tel: +370 52152025
-
-PV-Lithuania@zentiva.com
-
-## Luxembourg/Luxemburg
-
-Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiva.com
-
-## Magyarország
-
-Zentiva Pharma Kft. Tel.: +36 1 299 1058
-
-PV-Hungary@zentiva.com
-
-## Malta
-
-Zentiva, k.s. Tel: +356 2034 1796
-
-PV-Malta@zentiva.com
-
-## Nederland
-
-Zentiva, k.s. Tel: +31 202 253 638 PV-Netherlands@zentiva.com
-
-## Norge
-
-Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Norway@zentiva.com
-
-## Österreich
-
-Zentiva, k.s. Tel: +43 720 778 877
-
-PV-Austria@zentiva.com
-
-## Polska
-
-Zentiva Polska Sp. z o.o. Tel: + 48 22 375 92 00 PV-Poland@zentiva.com
-
-## Portugal
-
-Zentiva Portugal, Lda Tel: +351210601360 PV-Portugal@zentiva.com
-
-## Hrvatska
-
-Zentiva d.o.o.
-
-Tel: +385 1 6641 830
-
-PV-Croatia@zentiva.com
-
-## Ireland
-
-Zentiva, k.s.
-
-Tel: +353 818 882 243
-
-PV-Ireland@zentiva.com
-
-## România
-
-ZENTIVA S.A.
-
-Tel: +4 021.304.7597
-
-PV-Romania@zentiva.com
-
-## Slovenija
-
-Zentiva, k.s.
-
-Tel: +386 360 00 408
-
-PV-Slovenia@zentiva.com
-
-## Ísland
-
-Zentiva Denmark ApS
-
-Sími: +354 539 5025
-
-PV-Iceland@zentiva.com
-
-## Slovenská republika
-
-Zentiva, a.s.
-
-Tel: +421 2 3918 3010
-
-PV-Slovakia@zentiva.com
-
-## Italia
-
-Zentiva Italia S.r.l.
-
-Tel: +39 800081631
-
-PV-Italy@zentiva.com
-
-## Suomi/Finland
-
-Zentiva Denmark ApS
-
-Puh/Tel: +358 942 598 648
-
-PV-Finland@zentiva.com
-
-## Κύπρος
-
-Zentiva, k.s.
-
-Τηλ: +3
-
-0 211 198 7510
-
-PV-Cyprus@zentiva.com
-
-## Sverige
-
-Zentiva Denmark ApS
-
-Tel: +46 840 838 822
-
-PV-Sweden@zentiva.com
-
-## Latvija
-
-Zentiva, k.s.
-
-Tel: +371 67893939
-
-PV-Latvia@zentiva.com
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in {MM/YYYY}
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
-
-<div style=\"page-break-after: always\"></div>
-
-## Package leaflet: Information for the user
-
-## Leflunomide Zentiva 20 mg film-coated tablets leflunomide
-
-## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
-
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What Leflunomide Zentiva is and what it is used for
-2. What you need to know before you take Leflunomide Zentiva
-3. How to take Leflunomide Zentiva
-4. Possible side effects
-5. How to store Leflunomide Zentiva
-6. Contents of the pack and other information
-
-## 1. What Leflunomide Zentiva is and what it is used for
-
-Leflunomide Zentiva belongs to a group of medicines called anti-rheumatic medicines. It contains the active substance leflunomide.
-
-Leflunomide Zentiva is used to treat adult patients with active rheumatoid arthritis or with active psoriatic arthritis.
-
-Symptoms of rheumatoid arthritis include inflammation of joints, swelling, difficulty moving and pain. Other symptoms that affect the entire body include loss of appetite, fever, loss of energy and anaemia (lack of red blood cells).
-
-Symptoms of active psoriatic arthritis include inflammation of joints, swelling, difficulty moving, pain and patches of red, scaly skin (skin lesions).
-
-## 2. What you need to know before you take Leflunomide Zentiva
-
-## Do not take Leflunomide Zentiva
-
-- -if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome) or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
-- -if you have any liver problems ,
-- -if you have moderate to severe kidney problems ,
-- -if you have severely low numbers of proteins in your blood (hypoproteinaemia),
-- -if you suffer from any problem which affects your immune system (e.g. AIDS),
-- -if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
-- -if you are suffering from a serious infection ,
-- -if you are pregnant , think you may be pregnant, or are breast-feeding.
-
-<div style=\"page-break-after: always\"></div>
-
-## Warnings and precautions
-
-Talk to your doctor, pharmacist or nurse before taking Leflunomide Zentiva
-
-- -if you have ever suffered from inflammation of the lung (interstitial lung disease).
-- -if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis.
-- -if you are male and wish to father a child. As it can not be excluded that Leflunomide Zentiva passes into semen, reliable contraception should be used during treatment with Leflunomide Zentiva. Men wishing to father a child should contact their doctor who may advise them to stop taking Leflunomide Zentiva and take certain medicines to remove Leflunomide Zentiva rapidly and sufficiently from their body. You will then need a blood test to make sure that Leflunomide Zentiva has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
-- -if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
-- -if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. Leflunomide Zentiva may impair wound healing.
-
-Leflunomide Zentiva can occasionally cause some problems with your blood, liver, lungs, or nerves in your arms or legs. It may also cause some serious allergic reactions (including Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), or increase the chance of a severe infection. For more information on these, please read section 4 (Possible side effects).
-
-DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
-
-Your doctor will carry out blood tests at regular intervals, before and during treatment with Leflunomide Zentiva, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Leflunomide Zentiva can cause an increase in blood pressure.
-
-Tell your doctor if you have unexplained chronic diarrhoea. Your doctor may perform additional tests for differential diagnosis.
-
-Tell your doctor if you develop skin ulcer during treatment with Leflunomide Zentiva (see also section 4).
-
-## Children and adolescents
-
-Leflunomide Zentiva is not recommended for use in children and adolescents below 18 years of age.
-
-## Other medicines and Leflunomide Zentiva
-
-Please tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription.
-
-This is especially important if you are taking:
-
-- -other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
-- -warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
-- -teriflunomide for multiple sclerosis
-- -repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
-- -daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
-- -duloxetine for depression, urinary incontinence or in kidney disease in diabetics
-- -alosetron for the management of severe diarrhoea
-- -theophylline for asthma
-
-<div style=\"page-break-after: always\"></div>
-
-- -tizanidine, a muscle relaxant
-- -oral contraceptives (containing ethinylestradiol and levonorgestrel)
-- -cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
-- -indomethacin, ketoprofen for pain or inflammation
-- -furosemide for heart disease (diuretic, water pill)
-- -zidovudine for HIV infection
-- -rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol)
-- -sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
-- -a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Leflunomide Zentiva which is absorbed by the body.
-
-If you are already taking a nonsteroidal anti-inflammatory drug (NSAID) and/or corticosteroids , you may continue to take them after starting Leflunomide Zentiva.
-
-## Vaccinations
-
-If you have to be vaccinated, ask your doctor for advice. Certain vaccinations should not be given while taking Leflunomide Zentiva, and for a certain amount of time after stopping treatment.
-
-## Leflunomide Zentiva with food, drink and alcohol
-
-Leflunomide Zentiva may be taken with or without food.
-
-It is not recommended to drink alcohol during treatment with Leflunomide Zentiva. Drinking alcohol while taking Leflunomide Zentiva may increase the chance of liver damage.
-
-## Pregnancy and breast-feeding
-
-Do not take Leflunomide Zentiva if you are, or think you may be pregnant . If you are pregnant or become pregnant while taking Leflunomide Zentiva, the risk of having a baby with serious birth defects is increased. Women of childbearing potential must not take Leflunomide Zentiva without using reliable contraceptive measures.
-
-Tell your doctor if you plan to become pregnant after stopping treatment with Leflunomide Zentiva, as you need to ensure that all traces of Leflunomide Zentiva have left your body before trying to become pregnant. This may take up to 2 years. This may be reduced to a few weeks by taking certain medicines which speed up removal of Leflunomide Zentiva from your body.
-
-In either case it should be confirmed by a blood test that Leflunomide Zentiva has been sufficiently removed from your body and you should then wait for at least another month before you become pregnant.
-
-For further information on the laboratory testing please contact your doctor.
-
-If you suspect that you are pregnant while taking Leflunomide Zentiva or in the two years after you have stopped treatment, you must contact your doctor immediately for a pregnancy test. If the test confirms that you are pregnant, your doctor may suggest treatment with certain medicines to remove Leflunomide Zentiva rapidly and sufficiently from your body, as this may decrease the risk to your baby.
-
-Do not take Leflunomide Zentiva when you are breast-feeding , as leflunomide passes into the breast milk.
-
-## Driving and using machines
-
-Leflunomide Zentiva can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive, or use machines.
-
-## Leflunomide Zentiva contains lactose
-
-If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
-
-<div style=\"page-break-after: always\"></div>
-
-## 3. How to take Leflunomide Zentiva
-
-Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
-
-The usual starting dose of Leflunomide Zentiva is 100 mg leflunomide once daily for the first three days. After this, most patients need a dose of:
-
-- For psoriatic arthritis: 20 mg Leflunomide Zentiva once daily.
-- For rheumatoid arthritis: 10 or 20 mg Leflunomide Zentiva once daily, depending on the severity of the disease.
-
-Swallow the tablet whole and with plenty of water .
-
-It may take about 4 weeks or longer until you start to feel an improvement in your condition. Some patients may even still feel further improvements after 4 to 6 months of therapy. You will normally take Leflunomide Zentiva over long periods of time.
-
-## If you take more Leflunomide Zentiva than you should
-
-If you take more Leflunomide Zentiva than you should, contact your doctor or get other medical advice. If possible, take your tablets or the box with you to show the doctor.
-
-## If you forget to take Leflunomide Zentiva
-
-If you forget to take a dose, take it as soon as you remember, unless it is nearly time for your next dose. Do not take a double dose to make up for a forgotten dose.
-
-If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-Tell your doctor immediately and stop taking Leflunomide Zentiva:
-
-- -if you experience weakness , feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
-- -if you develop a skin rash or ulcers in your mouth , as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
-
-Tell your doctor immediately if you experience:
-
-- -pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
-- -tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
-- -any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
-- -cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
-- -unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
-
-## Common side effects (may affect up to 1 in 10 people)
-
-- -a slight decrease in the number of white blood cells (leucopenia),
-- -mild allergic reactions,
-- -loss of appetite, weight loss (usually insignificant),
-
-<div style=\"page-break-after: always\"></div>
-
-- -tiredness (asthenia),
-- -headache, dizziness,
-- -abnormal skin sensations like tingling (paraesthesia),
-- -mild increase in blood pressure,
-- -colitis,
-- -diarrhoea,
-- -nausea, vomiting,
-- -inflammation of the mouth or mouth ulcers,
-- -abdominal pain,
-- -an increase in some liver test results,
-- -increased hair loss,
-- -eczema, dry skin, rash, itching,
-- -tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
-- -an increase of certain enzymes in the blood (creatine phosphokinase),
-- -problems in the nerves of the arms or legs (peripheral neuropathy).
-
-## Uncommon side effects (may affect up to 1 in 100 people)
-
-- -a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
-- -a decrease in the levels of potassium in the blood,
-- -anxiety,
-- -taste disturbances,
-- -urticaria (nettle rash),
-- -tendon rupture,
-- -an increase in the levels of fat in the blood (cholesterol and triglycerides),
-- -a decrease in the levels of phosphate in the blood.
-
-## Rare side effects (may affect up to 1 in 1,000 people)
-
-- -an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
-- -severe increase in blood pressure,
-- -inflammation of the lung (interstitial lung disease),
-- -an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice
-- -severe infections called sepsis which may be fatal,
-- -an increase of certain enzymes in the blood (lactate dehydrogenase).
-
-## Very rare side effects (may affect up to 1 in 10,000 people)
-
-- -a marked decrease of some white blood cells (agranulocytosis),
-- -severe and potentially severe allergic reactions,
-- -inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
-- -inflammation of the pancreas (pancreatitis),
-- -severe liver injury such as liver failure or necrosis which may be fatal,
-- -severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
-
-Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and skin ulcer (round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
-
-<div style=\"page-break-after: always\"></div>
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-## 5. How to store Leflunomide Zentiva
-
-Keep this medicine out of the sight and reach of children.
-
-Do not use this medicine after the expiry date which is stated on the packaging. The expiry date refers to the last day of that month.
-
-Blister:
-
-Store in the original package.
-
-Bottle:
-
-Keep the bottle tightly closed.
-
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-## 6. Contents of the pack and other information
-
-## What Leflunomide Zentiva contains
-
-- -The active substance is leflunomide. One film-coated tablet contains 20 mg of leflunomide -The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), silica colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as well as talc (E553b), hypromellose (E464), titanium dioxide (E171), macrogol 8000 and yellow ferric oxide (E172) in the film-coating.
-
-## What Leflunomide Zentiva looks like and contents of the pack
-
-Leflunomide Zentiva 20 mg film-coated tablets are yellowish to ochre and triangular. Imprint on one side: ZBO.
-
-The tablets are packed in blisters or bottles. Packs of 30, 50 and 100 tablets are available.
-
-Not all pack size may be marketed.
-
-## Marketing Authorisation Holder
-
-Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
-
-## Manufacturer
-
-LABORMED- PHARMA S.A. B-dul. Theodor Pallady no. 44B, sector 3 code 032266, Bucharest, Romania
-
-<div style=\"page-break-after: always\"></div>
-
-ZENTIVA S.A. B-dul. Theodor Pallady no. 50, sector 3 code 032266, Bucharest, Romania
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
-
-## België/Belgique/Belgien
-
-Zentiva, k.s. Tél/Tel: +32 (78) 700 112 PV-Belgium@zentiva.com
-
-## България
-
-Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
-
-## Česká republika
-
-Zentiva, k.s. Tel: +420 267 241 111 PV-Czech-Republic@zentiva.com
-
-## Danmark
-
-Zentiva Denmark ApS Tlf.: +45 787 68 400
-
-PV-Denmark@zentiva.com
-
-## Deutschland
-
-Zentiva Pharma GmbH Tel: +49 (0) 800 53 53 010
-
-PV-Germany@zentiva.com
-
-## Eesti
-
-Zentiva, k.s. Tel: +372 52 70308
-
-PV-Estonia@zentiva.com
-
-## Ελλάδα
-
-Zentiva, k.s. Τηλ: +30 211 198 7510
-
-PV-Greece@zentiva.com
-
-## España
-
-Zentiva Spain S.L.U. Tel: +34 671 365 828 PV-Spain@zentiva.com
-
-## France
-
-Zentiva France Tél: +33 (0) 800 089 219
-
-PV-France@zentiva.com
-
-## Lietuva
-
-Zentiva, k.s. Tel: +370 52152025
-
-PV-Lithuania@zentiva.com
-
-## Luxembourg/Luxemburg
-
-Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiva.com
-
-## Magyarország
-
-Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
-
-## Malta
-
-Zentiva, k.s. Tel: +356 2034 1796
-
-PV-Malta@zentiva.com
-
-## Nederland
-
-Zentiva, k.s. Tel: +31 202 253 638 PV-Netherlands@zentiva.com
-
-## Norge
-
-Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Norway@zentiva.com
-
-## Österreich
-
-Zentiva, k.s. Tel: +43 720 778 877
-
-PV-Austria@zentiva.com
-
-## Polska
-
-Zentiva Polska Sp. z o.o. Tel: + 48 22 375 92 00 PV-Poland@zentiva.com
-
-## Portugal
-
-Zentiva Portugal, Lda Tel: +351210601360 PV-Portugal@zentiva.com
-
-## Hrvatska
-
-Zentiva d.o.o.
-
-Tel: +385 1 6641 830
-
-PV-Croatia@zentiva.com
-
-## Ireland
-
-Zentiva, k.s.
-
-Tel: +353 818 882 243
-
-PV-Ireland@zentiva.com
-
-## România
-
-ZENTIVA S.A.
-
-Tel: +4 021.304.7597
-
-PV-Romania@zentiva.com
-
-## Slovenija
-
-Zentiva, k.s.
-
-Tel: +386 360 00 408
-
-PV-Slovenia@zentiva.com
-
-## Ísland
-
-Zentiva Denmark ApS
-
-Sími: +354 539 5025
-
-PV-Iceland@zentiva.com
-
-## Slovenská republika
-
-Zentiva, a.s.
-
-Tel: +421 2 3918 3010
-
-PV-Slovakia@zentiva.com
-
-## Italia
-
-Zentiva Italia S.r.l.
-
-Tel: +39 800081631
-
-PV-Italy@zentiva.com
-
-## Suomi/Finland
-
-Zentiva Denmark ApS
-
-Puh/Tel: +358 942 598 648
-
-PV-Finland@zentiva.com
-
-## Κύπρος
-
-Zentiva, k.s.
-
-Τηλ: +3
-
-0 211 198 7510
-
-PV-Cyprus@zentiva.com
-
-## Sverige
-
-Zentiva Denmark ApS
-
-Tel: +46 840 838 822
-
-PV-Sweden@zentiva.com
-
-## Latvija
-
-Zentiva, k.s.
-
-Tel: +371 67893939
-
-PV-Latvia@zentiva.com
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in {MM/YYYY}
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
-
-## Package leaflet: Information for the user
-
-<div style=\"page-break-after: always\"></div>
-
-## Leflunomide Zentiva 100 mg film-coated tablets leflunomide
-
-## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
-
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What Leflunomide Zentiva is and what it is used for
-2. What you need to know before you take Leflunomide Zentiva
-3. How to take Leflunomide Zentiva
-4. Possible side effects
-5. How to store Leflunomide Zentiva
-6. Contents of the pack and other information
-
-## 1. What Leflunomide Zentiva is and what it is used for
-
-Leflunomide Zentiva belongs to a group of medicines called anti-rheumatic medicines. It contains the active substance leflunomide.
-
-Leflunomide Zentiva is used to treat adult patients with active rheumatoid arthritis or with active psoriatic arthritis.
-
-Symptoms of rheumatoid arthritis include inflammation of joints, swelling, difficulty moving and pain. Other symptoms that affect the entire body include loss of appetite, fever, loss of energy and anaemia (lack of red blood cells).
-
-Symptoms of active psoriatic arthritis include inflammation of joints, swelling, difficulty moving, pain and patches of red, scaly skin (skin lesions).
-
-## 2. What you need to know before you take Leflunomide Zentiva
-
-## Do not take Leflunomide Zentiva
-
-- -if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome) or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
-- -if you have any liver problems ,
-- -if you have moderate to severe kidney problems ,
-- -if you have severely low numbers of proteins in your blood (hypoproteinaemia),
-- -if you suffer from any problem which affects your immune system (e.g. AIDS),
-- -if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
-- -if you are suffering from a serious infection ,
-- -if you are pregnant , think you may be pregnant, or are breast-feeding.
-
-<div style=\"page-break-after: always\"></div>
-
-## Warnings and precautions
-
-Talk to your doctor, pharmacist or nurse before taking Leflunomide Zentiva
-
-- -if you have ever suffered from inflammation of the lung (interstitial lung disease).
-- -if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis.
-- -if you are male and wish to father a child. As it can not be excluded that Leflunomide Zentiva passes into semen, reliable contraception should be used during treatment with Leflunomide Zentiva. Men wishing to father a child should contact their doctor who may advise them to stop taking Leflunomide Zentiva and take certain medicines to remove Leflunomide Zentiva rapidly and sufficiently from their body. You will then need a blood test to make sure that Leflunomide Zentiva has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
-- -if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
-- -if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. Leflunomide Zentiva may impair wound healing.
-
-Leflunomide Zentiva can occasionally cause some problems with your blood, liver, lungs or nerves in your arms or legs. It may also cause some serious allergic reactions (including Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), or increase the chance of a severe infection. For more information on these, please read section 4 (Possible side effects).
-
-DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
-
-Your doctor will carry out blood tests at regular intervals, before and during treatment with Leflunomide Zentiva, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Leflunomide Zentiva can cause an increase in blood pressure.
-
-Tell your doctor if you have unexplained chronic diarrhoea. Your doctor may perform additional tests for differential diagnosis.
-
-Tell your doctor if you develop skin ulcer during treatment with Leflunomide Zentiva (see also section 4).
-
-## Children and adolescents
-
-Leflunomide Zentiva is not recommended for use in children and adolescents below 18 years of age.
-
-## Other medicines and Leflunomide Zentiva
-
-Please tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription.
-
-This is especially important if you are taking:
-
-- -other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
-- -warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
-- -teriflunomide for multiple sclerosis
-- -repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
-- -daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
-- -duloxetine for depression, urinary incontinence or in kidney disease in diabetics
-- -alosetron for the management of severe diarrhoea
-- -theophylline for asthma
-
-<div style=\"page-break-after: always\"></div>
-
-- -tizanidine, a muscle relaxant
-- -oral contraceptives (containing ethinylestradiol and levonorgestrel)
-- -cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
-- -indomethacin, ketoprofen for pain or inflammation
-- -furosemide for heart disease (diuretic, water pill)
-- -zidovudine for HIV infection
-- -rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol)
-- -sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
-- -a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Leflunomide Zentiva which is absorbed by the body.
-
-If you are already taking a nonsteroidal anti-inflammatory drug (NSAID) and/or corticosteroids , you may continue to take them after starting Leflunomide Zentiva.
-
-## Vaccinations
-
-If you have to be vaccinated, ask your doctor for advice. Certain vaccinations should not be given while taking Leflunomide Zentiva, and for a certain amount of time after stopping treatment.
-
-## Leflunomide Zentiva with food, drink and alcohol
-
-Leflunomide Zentiva may be taken with or without food.
-
-It is not recommended to drink alcohol during treatment with Leflunomide Zentiva. Drinking alcohol while taking Leflunomide Zentiva may increase the chance of liver damage.
-
-## Pregnancy and breast-feeding
-
-Do not take Leflunomide Zentiva if you are, or think you may be pregnant . If you are pregnant or become pregnant while taking Leflunomide Zentiva, the risk of having a baby with serious birth defects is increased. Women of childbearing potential must not take Leflunomide Zentiva without using reliable contraceptive measures.
-
-Tell your doctor if you plan to become pregnant after stopping treatment with Leflunomide Zentiva, as you need to ensure that all traces of Leflunomide Zentiva have left your body before trying to become pregnant. This may take up to 2 years. This may be reduced to a few weeks by taking certain medicines which speed up removal of Leflunomide Zentiva from your body.
-
-In either case it should be confirmed by a blood test that Leflunomide Zentiva has been sufficiently removed from your body and you should then wait for at least another month before you become pregnant.
-
-For further information on the laboratory testing please contact your doctor.
-
-If you suspect that you are pregnant while taking Leflunomide Zentiva or in the two years after you have stopped treatment, you must contact your doctor immediately for a pregnancy test. If the test confirms that you are pregnant, your doctor may suggest treatment with certain medicines to remove Leflunomide Zentiva rapidly and sufficiently from your body, as this may decrease the risk to your baby.
-
-Do not take Leflunomide Zentiva when you are breast-feeding , as leflunomide passes into the breast milk.
-
-## Driving and using machines
-
-Leflunomide Zentiva can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive, or use machines.
-
-## Leflunomide Zentiva contains lactose
-
-If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
-
-<div style=\"page-break-after: always\"></div>
-
-## 3. How to take Leflunomide Zentiva
-
-Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
-
-The usual starting dose of Leflunomide Zentiva is 100 mg leflunomide once daily for the first three days. After this, most patients need a dose of:
-
-- For psoriatic arthritis: 20 mg Leflunomide Zentiva once daily.
-- For rheumatoid arthritis: 10 or 20 mg Leflunomide Zentiva once daily, depending on the severity of the disease.
-
-Swallow the tablet whole and with plenty of water .
-
-It may take about 4 weeks or longer until you start to feel an improvement in your condition. Some patients may even still feel further improvements after 4 to 6 months of therapy. You will normally take Leflunomide Zentiva over long periods of time.
-
-## If you take more Leflunomide Zentiva than you should
-
-If you take more Leflunomide Zentiva than you should, contact your doctor or get other medical advice. If possible, take your tablets or the box with you to show the doctor.
-
-## If you forget to take Leflunomide Zentiva
-
-If you forget to take a dose, take it as soon as you remember, unless it is nearly time for your next dose. Do not take a double dose to make up for a forgotten dose.
-
-If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-Tell your doctor immediately and stop taking Leflunomide Zentiva:
-
-- -if you experience weakness , feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
-- -if you develop a skin rash or ulcers in your mouth , as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
-
-Tell your doctor immediately if you experience:
-
-- -pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
-- -tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
-- -any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
-- -cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
-- -unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
-
-## Common side effects (may affect up to 1 in 10 people)
-
-- -a slight decrease in the number of white blood cells (leucopenia),
-- -mild allergic reactions,
-- -loss of appetite, weight loss (usually insignificant),
-
-<div style=\"page-break-after: always\"></div>
-
-- -tiredness (asthenia),
-- -headache, dizziness,
-- -abnormal skin sensations like tingling (paraesthesia),
-- -mild increase in blood pressure,
-- -colitis,
-- -diarrhoea,
-- -nausea, vomiting,
-- -inflammation of the mouth or mouth ulcers,
-- -abdominal pain,
-- -an increase in some liver test results,
-- -increased hair loss,
-- -eczema, dry skin, rash, itching,
-- -tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
-- -an increase of certain enzymes in the blood (creatine phosphokinase),
-- -problems in the nerves of the arms or legs (peripheral neuropathy).
-
-## Uncommon side effects (may affect up to 1 in 100 people)
-
-- -a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
-- -a decrease in the levels of potassium in the blood,
-- -anxiety,
-- -taste disturbances,
-- -urticaria (nettle rash),
-- -tendon rupture,
-- -an increase in the levels of fat in the blood (cholesterol and triglycerides),
-- -a decrease in the levels of phosphate in the blood.
-
-## Rare side effects (may affect up to 1 in 1,000 people)
-
-- -an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
-- -severe increase in blood pressure,
-- -inflammation of the lung (interstitial lung disease),
-- -an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice,
-- -severe infections called sepsis which may be fatal,
-- -an increase of certain enzymes in the blood (lactate dehydrogenase).
-
-## Very rare side effects (may affect up to 1 in 10,000 people)
-
-- -a marked decrease of some white blood cells (agranulocytosis),
-- -severe and potentially severe allergic reactions,
-- -inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
-- -inflammation of the pancreas (pancreatitis),
-- -severe liver injury such as liver failure or necrosis which may be fatal,
-- -severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
-
-Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and skin ulcer (round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
-
-<div style=\"page-break-after: always\"></div>
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-## 5. How to store Leflunomide Zentiva
-
-Keep this medicine out of the sight and reach of children.
-
-Do not use this medicine after the expiry date which is stated on the packaging. The expiry date refers to the last day of that month.
-
-Store in the original package.
-
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-## 6. Contents of the pack and other information
-
-## What Leflunomide Zentiva contains
-
-- -The active substance is leflunomide. One film-coated tablet contains 100 mg of leflunomide.
-- -The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), talc (E553b), silica colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as well as talc (E553b), hypromellose (E464), titanium dioxide (E171), and macrogol 8000 in the film-coating.
-
-## What Leflunomide Zentiva looks like and contents of the pack
-
-Leflunomide Zentiva 100 mg film-coated tablets are white to almost white and round. Imprint on one side: ZBP
-
-The tablets are packed in blisters. A pack of 3 tablets is available
-
-## Marketing Authorisation Holder
-
-Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
-
-## Manufacturer
-
-Opella Healthcare International SAS 56, Route de Choisy 60200 Compiègne France
-
-<div style=\"page-break-after: always\"></div>
+Romania
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
@@ -4019,6 +3185,946 @@ Zentiva, k.s. Tel: +420 267 241 111 PV-Czech-Republic@zentiva.com
 
 ## Danmark
 
+Zentiva Denmark ApS Tlf.: +45 787 68 400 PV-Denmark@zentiva.com
+
+## Deutschland
+
+Zentiva Pharma GmbH Tel: +49 (0) 800 53 53 010
+
+PV-Germany@zentiva.com
+
+## Eesti
+
+Zentiva, k.s.
+
+Tel: +372 530 107 59
+
+PV-Estonia@zentiva.com
+
+## Ελλάδα
+
+Zentiva, k.s. Τηλ: +30 211 198 7510
+
+PV-Greece@zentiva.com
+
+## España
+
+Zentiva Spain S.L.U. Tel: +34 671 365 828
+
+PV-Spain@zentiva.com
+
+## Lietuva
+
+Zentiva, k.s. Tel: +370 52152025
+
+PV-Lithuania@zentiva.com
+
+## Luxembourg/Luxemburg
+
+Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiva.com
+
+## Magyarország
+
+Zentiva Pharma Kft.
+
+Tel.: +36 1 299 1058
+
+PV-Hungary@zentiva.com
+
+## Malta
+
+Zentiva, k.s. Tel: +356 2034 1796 PV-Malta@zentiva.com
+
+## Nederland
+
+Zentiva, k.s. Tel: +31 202 253 638
+
+PV-Netherlands@zentiva.com
+
+## Norge
+
+Zentiva Denmark ApS Tlf: +45 787 68 400
+
+PV-Norway@zentiva.com
+
+## Österreich
+
+Zentiva, k.s. Tel: +43 720 778 877
+
+PV-Austria@zentiva.com
+
+## Polska
+
+Zentiva Polska Sp. z o.o.
+
+Tel: + 48 22 375 92 00
+
+PV-Poland@zentiva.com
+
+<div style=\"page-break-after: always\"></div>
+
+## France
+
+Zentiva France Tél: +33 (0) 800 089 219
+
+PV-France@zentiva.com
+
+## Hrvatska
+
+Zentiva d.o.o. Tel: +385 1 6641 830
+
+PV-Croatia@zentiva.com
+
+## Ireland
+
+Zentiva, k.s. Tel: +353 818 882 243 PV-Ireland@zentiva.com
+
+## Ísland
+
+Zentiva Denmark ApS Sími: +354 539 5025
+
+PV-Iceland@zentiva.com
+
+## Italia
+
+Zentiva Italia S.r.l. Tel: +39 800081631
+
+PV-Italy@zentiva.com
+
+## Κύπρος
+
+Zentiva, k.s. Τηλ: +30 211 198 7510
+
+PV-Cyprus@zentiva.com
+
+## Latvija
+
+Zentiva, k.s. Tel: +371 67893939
+
+PV-Latvia@zentiva.com
+
+## This leaflet was last revised in {MM/YYYY}
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
+
+## Portugal
+
+Zentiva Portugal, Lda Tel: +351210601360
+
+PV-Portugal@zentiva.com
+
+## România
+
+ZENTIVA S.A. Tel: +4 021.304.7597
+
+PV-Romania@zentiva.com
+
+## Slovenija
+
+Zentiva, k.s. Tel: +386 360 00 408
+
+PV-Slovenia@zentiva.com
+
+## Slovenská republika
+
+Zentiva, a.s. Tel: +421 2 3918 3010
+
+PV-Slovakia@zentiva.com
+
+## Suomi/Finland
+
+Zentiva Denmark ApS Puh/Tel: +358 942 598 648
+
+PV-Finland@zentiva.com
+
+## Sverige
+
+Zentiva Denmark ApS Tel: +46 840 838 822
+
+PV-Sweden@zentiva.com
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
+
+## Leflunomide Zentiva 20 mg film-coated tablets
+
+leflunomide
+
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Leflunomide Zentiva is and what it is used for
+2. What you need to know before you take Leflunomide Zentiva
+3. How to take Leflunomide Zentiva
+4. Possible side effects
+5. How to store Leflunomide Zentiva
+6. Contents of the pack and other information
+
+## 1. What Leflunomide Zentiva is and what it is used for
+
+Leflunomide Zentiva belongs to a group of medicines called anti-rheumatic medicines. It contains the active substance leflunomide.
+
+Leflunomide Zentiva is used to treat adult patients with active rheumatoid arthritis or with active psoriatic arthritis.
+
+Symptoms of rheumatoid arthritis include inflammation of joints, swelling, difficulty moving and pain. Other symptoms that affect the entire body include loss of appetite, fever, loss of energy and anaemia (lack of red blood cells).
+
+Symptoms of active psoriatic arthritis include inflammation of joints, swelling, difficulty moving, pain and patches of red, scaly skin (skin lesions).
+
+## 2. What you need to know before you take Leflunomide Zentiva
+
+## Do not take Leflunomide Zentiva
+
+- if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome) or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
+- if you have any liver problems,
+- if you have moderate to severe kidney problems,
+- if you have severely low numbers of proteins in your blood (hypoproteinaemia),
+- if you suffer from any problem which affects your immune system (e.g. AIDS),
+- if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
+- if you are suffering from a serious infection,
+- if you are pregnant, think you may be pregnant, or are breast-feeding.
+
+<div style=\"page-break-after: always\"></div>
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before taking Leflunomide Zentiva
+
+- if you have ever suffered from inflammation of the lung (interstitial lung disease).
+- if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis.
+- if you are male and wish to father a child. As it can not be excluded that Leflunomide Zentiva passes into semen, reliable contraception should be used during treatment with Leflunomide Zentiva. Men wishing to father a child should contact their doctor who may advise them to stop taking Leflunomide Zentiva and take certain medicines to remove Leflunomide Zentiva rapidly and sufficiently from their body. You will then need a blood test to make sure that Leflunomide Zentiva has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
+- if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
+- if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. Leflunomide Zentiva may impair wound healing.
+
+Leflunomide Zentiva can occasionally cause some problems with your blood, liver, lungs, or nerves in your arms or legs. It may also cause some serious allergic reactions (including Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), or increase the chance of a severe infection. For more information on these, please read section 4 (Possible side effects).
+
+DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
+
+## Haemophagocytic lymphohistiocytosis (HLH)
+
+There have been reports of a rare but very serious immune system reaction, in patients taking Leflunomide Zentiva.
+
+- Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking Leflunomide Zentiva: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
+
+Your doctor will carry out blood tests at regular intervals, before and during treatment with Leflunomide Zentiva, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Leflunomide Zentiva can cause an increase in blood pressure.
+
+Tell your doctor if you have unexplained chronic diarrhoea. Your doctor may perform additional tests for differential diagnosis.
+
+Tell your doctor if you develop skin ulcer during treatment with Leflunomide Zentiva (see also section 4).
+
+## Children and adolescents
+
+Leflunomide Zentiva is not recommended for use in children and adolescents below 18 years of age.
+
+## Other medicines and Leflunomide Zentiva
+
+Please tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription.
+
+This is especially important if you are taking:
+
+-
+
+other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
+
+<div style=\"page-break-after: always\"></div>
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+- warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine teriflunomide for multiple sclerosis repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer duloxetine for depression, urinary incontinence or in kidney disease in diabetics alosetron for the management of severe diarrhoea theophylline for asthma tizanidine, a muscle relaxant oral contraceptives (containing ethinylestradiol and levonorgestrel) cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections indomethacin, ketoprofen for pain or inflammation furosemide for heart disease (diuretic, water pill) zidovudine for HIV infection rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol) sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
+
+-
+
+a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Leflunomide Zentiva which is absorbed by the body.
+
+If you are already taking a nonsteroidal anti-inflammatory drug (NSAID) and/or corticosteroids, you may continue to take them after starting Leflunomide Zentiva.
+
+## Vaccinations
+
+If you have to be vaccinated, ask your doctor for advice. Certain vaccinations should not be given while taking Leflunomide Zentiva, and for a certain amount of time after stopping treatment.
+
+## Leflunomide Zentiva with food, drink and alcohol
+
+Leflunomide Zentiva may be taken with or without food.
+
+It is not recommended to drink alcohol during treatment with Leflunomide Zentiva. Drinking alcohol while taking Leflunomide Zentiva may increase the chance of liver damage.
+
+## Pregnancy and breast-feeding
+
+Do not take Leflunomide Zentiva if you are, or think you may be pregnant. If you are pregnant or become pregnant while taking Leflunomide Zentiva, the risk of having a baby with serious birth defects is increased. Women of childbearing potential must not take Leflunomide Zentiva without using reliable contraceptive measures.
+
+Tell your doctor if you plan to become pregnant after stopping treatment with Leflunomide Zentiva, as you need to ensure that all traces of Leflunomide Zentiva have left your body before trying to become pregnant. This may take up to 2 years. This may be reduced to a few weeks by taking certain medicines which speed up removal of Leflunomide Zentiva from your body. In either case it should be confirmed by a blood test that Leflunomide Zentiva has been sufficiently removed from your body and you should then wait for at least another month before you become
+
+pregnant.
+
+For further information on the laboratory testing please contact your doctor.
+
+If you suspect that you are pregnant while taking Leflunomide Zentiva or in the two years after you have stopped treatment, you must contact your doctor immediately for a pregnancy test. If the test confirms that you are pregnant, your doctor may suggest treatment with certain medicines to remove Leflunomide Zentiva rapidly and sufficiently from your body, as this may decrease the risk to your baby.
+
+Do not take Leflunomide Zentiva when you are breast-feeding, as leflunomide passes into the breast milk.
+
+<div style=\"page-break-after: always\"></div>
+
+## Driving and using machines
+
+Leflunomide Zentiva can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive, or use machines.
+
+## Leflunomide Zentiva contains lactose
+
+If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
+
+## 3. How to take Leflunomide Zentiva
+
+Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
+
+The usual starting dose of Leflunomide Zentiva is 100 mg leflunomide once daily for the first three days. After this, most patients need a dose of:
+
+- For psoriatic arthritis: 20 mg Leflunomide Zentiva once daily.
+- For rheumatoid arthritis: 10 or 20 mg Leflunomide Zentiva once daily, depending on the severity of the disease.
+
+Swallow the tablet whole and with plenty of water.
+
+It may take about 4 weeks or longer until you start to feel an improvement in your condition. Some patients may even still feel further improvements after 4 to 6 months of therapy. You will normally take Leflunomide Zentiva over long periods of time.
+
+## If you take more Leflunomide Zentiva than you should
+
+If you take more Leflunomide Zentiva than you should, contact your doctor or get other medical advice. If possible, take your tablets or the box with you to show the doctor.
+
+## If you forget to take Leflunomide Zentiva
+
+If you forget to take a dose, take it as soon as you remember, unless it is nearly time for your next dose. Do not take a double dose to make up for a forgotten dose.
+
+If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+Tell your doctor immediately and stop taking Leflunomide Zentiva:
+
+- if you experience weakness, feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
+- if you develop a skin rash or ulcers in your mouth, as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
+
+Tell your doctor immediately if you experience:
+
+- pale skin, tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
+- tiredness, abdominal pain, or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
+- any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
+
+<div style=\"page-break-after: always\"></div>
+
+- cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
+- unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
+
+## Common side effects (may affect up to 1 in 10 people)
+
+- a slight decrease in the number of white blood cells (leucopenia),
+- mild allergic reactions,
+- loss of appetite, weight loss (usually insignificant),
+- tiredness (asthenia),
+- headache, dizziness,
+- abnormal skin sensations like tingling (paraesthesia),
+- mild increase in blood pressure,
+- colitis,
+- diarrhoea,
+- nausea, vomiting,
+- inflammation of the mouth or mouth ulcers,
+- abdominal pain,
+- an increase in some liver test results,
+- increased hair loss,
+- eczema, dry skin, rash, itching,
+- tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
+- an increase of certain enzymes in the blood (creatine phosphokinase),
+- problems in the nerves of the arms or legs (peripheral neuropathy).
+
+## Uncommon side effects (may affect up to 1 in 100 people)
+
+- a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
+- a decrease in the levels of potassium in the blood,
+- anxiety,
+- taste disturbances,
+- urticaria (nettle rash),
+- tendon rupture,
+- an increase in the levels of fat in the blood (cholesterol and triglycerides),
+- a decrease in the levels of phosphate in the blood.
+
+## Rare side effects (may affect up to 1 in 1,000 people)
+
+- an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
+- severe increase in blood pressure,
+- inflammation of the lung (interstitial lung disease),
+- an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice
+- severe infections called sepsis which may be fatal,
+- an increase of certain enzymes in the blood (lactate dehydrogenase).
+
+## Very rare side effects (may affect up to 1 in 10,000 people)
+
+- a marked decrease of some white blood cells (agranulocytosis),
+- severe and potentially severe allergic reactions,
+- inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
+- inflammation of the pancreas (pancreatitis),
+- severe liver injury such as liver failure or necrosis which may be fatal,
+- severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
+
+<div style=\"page-break-after: always\"></div>
+
+Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and skin ulcer (round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Leflunomide Zentiva
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the packaging.
+
+The expiry date refers to the last day of that month.
+
+Blister: Store in the original package.
+
+Bottle: Keep the bottle tightly closed.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Leflunomide Zentiva contains
+
+- The active substance is leflunomide. One film-coated tablet contains 20 mg of leflunomide - The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), silica colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as well as talc (E553b), hypromellose (E464), titanium dioxide (E171), macrogol 8000 and yellow
+
+- ferric oxide (E172) in the film-coating.
+
+## What Leflunomide Zentiva looks like and contents of the pack
+
+Leflunomide Zentiva 20 mg film-coated tablets are yellowish to ochre and triangular. Imprint on one side: ZBO.
+
+The tablets are packed in blisters or bottles. Packs of 30, 50 and 100 tablets are available.
+
+Not all pack size may be marketed.
+
+## Marketing Authorisation Holder
+
+Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
+
+<div style=\"page-break-after: always\"></div>
+
+## Manufacturer
+
+LABORMED- PHARMA S.A. B-dul. Theodor Pallady no. 44B, sector 3 code 032266, Bucharest,
+
+Romania
+
+ZENTIVA S.A. B-dul. Theodor Pallady no. 50, sector 3 code 032266, Bucharest,
+
+Romania
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
+
+## België/Belgique/Belgien
+
+Zentiva, k.s.
+
+Tél/Tel: +32 (78) 700 112
+
+PV-Belgium@zentiva.com
+
+## България
+
+Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
+
+## Česká republika
+
+Zentiva, k.s. Tel: +420 267 241 111 PV-Czech-Republic@zentiva.com
+
+## Danmark
+
+Zentiva Denmark ApS Tlf.: +45 787 68 400 PV-Denmark@zentiva.com
+
+## Deutschland
+
+Zentiva Pharma GmbH Tel: +49 (0) 800 53 53 010
+
+PV-Germany@zentiva.com
+
+## Eesti
+
+Zentiva, k.s.
+
+Tel: +372 530 107 59
+
+PV-Estonia@zentiva.com
+
+## Ελλάδα
+
+Zentiva, k.s. Τηλ: +30 211 198 7510
+
+PV-Greece@zentiva.com
+
+## España
+
+Zentiva Spain S.L.U. Tel: +34 671 365 828
+
+PV-Spain@zentiva.com
+
+## Lietuva
+
+Zentiva, k.s. Tel: +370 52152025
+
+PV-Lithuania@zentiva.com
+
+## Luxembourg/Luxemburg
+
+Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiva.com
+
+## Magyarország
+
+Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
+
+## Malta
+
+Zentiva, k.s. Tel: +356 2034 1796 PV-Malta@zentiva.com
+
+## Nederland
+
+Zentiva, k.s. Tel: +31 202 253 638
+
+PV-Netherlands@zentiva.com
+
+## Norge
+
+Zentiva Denmark ApS Tlf: +45 787 68 400
+
+PV-Norway@zentiva.com
+
+## Österreich
+
+Zentiva, k.s.
+
+Tel: +43 720 778 877
+
+PV-Austria@zentiva.com
+
+## Polska
+
+Zentiva Polska Sp. z o.o.
+
+Tel: + 48 22 375 92 00
+
+PV-Poland@zentiva.com
+
+<div style=\"page-break-after: always\"></div>
+
+## France
+
+Zentiva France Tél: +33 (0) 800 089 219 PV-France@zentiva.com
+
+## Hrvatska
+
+Zentiva d.o.o. Tel: +385 1 6641 830 PV-Croatia@zentiva.com
+
+## Ireland
+
+Zentiva, k.s. Tel: +353 818 882 243 PV-Ireland@zentiva.com
+
+## Ísland
+
+Zentiva Denmark ApS Sími: +354 539 5025 PV-Iceland@zentiva.com
+
+## Italia
+
+Zentiva Italia S.r.l. Tel: +39 800081631 PV-Italy@zentiva.com
+
+## Κύπρος
+
+Zentiva, k.s. Τηλ: +30 211 198 7510 PV-Cyprus@zentiva.com
+
+## Latvija
+
+Zentiva, k.s. Tel: +371 67893939 PV-Latvia@zentiva.com
+
+## This leaflet was last revised in {MM/YYYY}
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
+
+## Portugal
+
+Zentiva Portugal, Lda Tel: +351210601360 PV-Portugal@zentiva.com
+
+## România
+
+ZENTIVA S.A. Tel: +4 021.304.7597 PV-Romania@zentiva.com
+
+## Slovenija
+
+Zentiva, k.s. Tel: +386 360 00 408 PV-Slovenia@zentiva.com
+
+## Slovenská republika
+
+Zentiva, a.s. Tel: +421 2 3918 3010 PV-Slovakia@zentiva.com
+
+## Suomi/Finland
+
+Zentiva Denmark ApS Puh/Tel: +358 942 598 648 PV-Finland@zentiva.com
+
+## Sverige
+
+Zentiva Denmark ApS Tel: +46 840 838 822 PV-Sweden@zentiva.com
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+## Leflunomide Zentiva 100 mg film-coated tablets
+
+leflunomide
+
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Leflunomide Zentiva is and what it is used for
+2. What you need to know before you take Leflunomide Zentiva
+3. How to take Leflunomide Zentiva
+4. Possible side effects
+5. How to store Leflunomide Zentiva
+6. Contents of the pack and other information
+
+## 1. What Leflunomide Zentiva is and what it is used for
+
+Leflunomide Zentiva belongs to a group of medicines called anti-rheumatic medicines. It contains the active substance leflunomide.
+
+Leflunomide Zentiva is used to treat adult patients with active rheumatoid arthritis or with active psoriatic arthritis.
+
+Symptoms of rheumatoid arthritis include inflammation of joints, swelling, difficulty moving and pain. Other symptoms that affect the entire body include loss of appetite, fever, loss of energy and anaemia (lack of red blood cells).
+
+Symptoms of active psoriatic arthritis include inflammation of joints, swelling, difficulty moving, pain and patches of red, scaly skin (skin lesions).
+
+## 2. What you need to know before you take Leflunomide Zentiva
+
+## Do not take Leflunomide Zentiva
+
+- if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome) or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
+- if you have any liver problems,
+- if you have moderate to severe kidney problems,
+- if you have severely low numbers of proteins in your blood (hypoproteinaemia),
+- if you suffer from any problem which affects your immune system (e.g. AIDS),
+- if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
+- if you are suffering from a serious infection,
+- if you are pregnant, think you may be pregnant, or are breast-feeding.
+
+<div style=\"page-break-after: always\"></div>
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before taking Leflunomide Zentiva
+
+- if you have ever suffered from inflammation of the lung (interstitial lung disease).
+- if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis.
+- if you are male and wish to father a child. As it can not be excluded that Leflunomide Zentiva passes into semen, reliable contraception should be used during treatment with Leflunomide Zentiva. Men wishing to father a child should contact their doctor who may advise them to stop taking Leflunomide Zentiva and take certain medicines to remove Leflunomide Zentiva rapidly and sufficiently from their body. You will then need a blood test to make sure that Leflunomide Zentiva has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
+- if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
+- if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. Leflunomide Zentiva may impair wound healing.
+
+Leflunomide Zentiva can occasionally cause some problems with your blood, liver, lungs or nerves in your arms or legs. It may also cause some serious allergic reactions (including Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), or increase the chance of a severe infection. For more information on these, please read section 4 (Possible side effects).
+
+DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
+
+## Haemophagocytic lymphohistiocytosis (HLH)
+
+There have been reports of a rare but very serious immune system reaction, in patients taking Leflunomide Zentiva.
+
+- Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking Leflunomide Zentiva: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
+
+Your doctor will carry out blood tests at regular intervals, before and during treatment with Leflunomide Zentiva, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Leflunomide Zentiva can cause an increase in blood pressure.
+
+Tell your doctor if you have unexplained chronic diarrhoea. Your doctor may perform additional tests for differential diagnosis.
+
+Tell your doctor if you develop skin ulcer during treatment with Leflunomide Zentiva (see also section 4).
+
+## Children and adolescents
+
+Leflunomide Zentiva is not recommended for use in children and adolescents below 18 years of age.
+
+## Other medicines and Leflunomide Zentiva
+
+Please tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription.
+
+This is especially important if you are taking:
+
+-
+
+other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
+
+<div style=\"page-break-after: always\"></div>
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+- warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine teriflunomide for multiple sclerosis repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer duloxetine for depression, urinary incontinence or in kidney disease in diabetics alosetron for the management of severe diarrhoea theophylline for asthma tizanidine, a muscle relaxant oral contraceptives (containing ethinylestradiol and levonorgestrel) cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections indomethacin, ketoprofen for pain or inflammation furosemide for heart disease (diuretic, water pill) zidovudine for HIV infection rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol) sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
+
+-
+
+a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Leflunomide Zentiva which is absorbed by the body.
+
+If you are already taking a nonsteroidal anti-inflammatory drug (NSAID) and/or corticosteroids, you may continue to take them after starting Leflunomide Zentiva.
+
+## Vaccinations
+
+If you have to be vaccinated, ask your doctor for advice. Certain vaccinations should not be given while taking Leflunomide Zentiva, and for a certain amount of time after stopping treatment.
+
+## Leflunomide Zentiva with food, drink and alcohol
+
+Leflunomide Zentiva may be taken with or without food.
+
+It is not recommended to drink alcohol during treatment with Leflunomide Zentiva. Drinking alcohol while taking Leflunomide Zentiva may increase the chance of liver damage.
+
+## Pregnancy and breast-feeding
+
+Do not take Leflunomide Zentiva if you are, or think you may be pregnant. If you are pregnant or become pregnant while taking Leflunomide Zentiva, the risk of having a baby with serious birth defects is increased. Women of childbearing potential must not take Leflunomide Zentiva without using reliable contraceptive measures.
+
+Tell your doctor if you plan to become pregnant after stopping treatment with Leflunomide Zentiva, as you need to ensure that all traces of Leflunomide Zentiva have left your body before trying to become pregnant. This may take up to 2 years. This may be reduced to a few weeks by taking certain
+
+medicines which speed up removal of Leflunomide Zentiva from your body. In either case it should be confirmed by a blood test that Leflunomide Zentiva has been sufficiently removed from your body and you should then wait for at least another month before you become
+
+pregnant.
+
+For further information on the laboratory testing please contact your doctor.
+
+If you suspect that you are pregnant while taking Leflunomide Zentiva or in the two years after you have stopped treatment, you must contact your doctor immediately for a pregnancy test. If the test confirms that you are pregnant, your doctor may suggest treatment with certain medicines to remove Leflunomide Zentiva rapidly and sufficiently from your body, as this may decrease the risk to your baby.
+
+Do not take Leflunomide Zentiva when you are breast-feeding, as leflunomide passes into the breast milk.
+
+<div style=\"page-break-after: always\"></div>
+
+## Driving and using machines
+
+Leflunomide Zentiva can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive, or use machines.
+
+## Leflunomide Zentiva contains lactose
+
+If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
+
+## 3. How to take Leflunomide Zentiva
+
+Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
+
+The usual starting dose of Leflunomide Zentiva is 100 mg leflunomide once daily for the first three days. After this, most patients need a dose of:
+
+- For psoriatic arthritis: 20 mg Leflunomide Zentiva once daily.
+- For rheumatoid arthritis: 10 or 20 mg Leflunomide Zentiva once daily, depending on the severity of the disease.
+
+Swallow the tablet whole and with plenty of water.
+
+It may take about 4 weeks or longer until you start to feel an improvement in your condition. Some patients may even still feel further improvements after 4 to 6 months of therapy. You will normally take Leflunomide Zentiva over long periods of time.
+
+## If you take more Leflunomide Zentiva than you should
+
+If you take more Leflunomide Zentiva than you should, contact your doctor or get other medical advice. If possible, take your tablets or the box with you to show the doctor.
+
+## If you forget to take Leflunomide Zentiva
+
+If you forget to take a dose, take it as soon as you remember, unless it is nearly time for your next dose. Do not take a double dose to make up for a forgotten dose.
+
+If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+Tell your doctor immediately and stop taking Leflunomide Zentiva:
+
+- if you experience weakness, feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
+- if you develop a skin rash or ulcers in your mouth, as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
+
+Tell your doctor immediately if you experience:
+
+- pale skin, tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
+- tiredness, abdominal pain, or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
+- any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
+
+<div style=\"page-break-after: always\"></div>
+
+- cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
+- unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
+
+## Common side effects (may affect up to 1 in 10 people)
+
+- a slight decrease in the number of white blood cells (leucopenia),
+- mild allergic reactions,
+- loss of appetite, weight loss (usually insignificant),
+- tiredness (asthenia),
+- headache, dizziness,
+- abnormal skin sensations like tingling (paraesthesia),
+- mild increase in blood pressure,
+- colitis,
+- diarrhoea,
+- nausea, vomiting,
+- inflammation of the mouth or mouth ulcers,
+- abdominal pain,
+- an increase in some liver test results,
+- increased hair loss,
+- eczema, dry skin, rash, itching,
+- tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
+- an increase of certain enzymes in the blood (creatine phosphokinase),
+- problems in the nerves of the arms or legs (peripheral neuropathy).
+
+## Uncommon side effects (may affect up to 1 in 100 people)
+
+- a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
+- a decrease in the levels of potassium in the blood,
+- anxiety,
+- taste disturbances,
+- urticaria (nettle rash),
+- tendon rupture,
+- an increase in the levels of fat in the blood (cholesterol and triglycerides),
+- a decrease in the levels of phosphate in the blood.
+
+## Rare side effects (may affect up to 1 in 1,000 people)
+
+- an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
+- severe increase in blood pressure,
+- inflammation of the lung (interstitial lung disease),
+- an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice,
+- severe infections called sepsis which may be fatal,
+- an increase of certain enzymes in the blood (lactate dehydrogenase).
+
+## Very rare side effects (may affect up to 1 in 10,000 people)
+
+- a marked decrease of some white blood cells (agranulocytosis),
+- severe and potentially severe allergic reactions,
+- inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
+- inflammation of the pancreas (pancreatitis),
+- severe liver injury such as liver failure or necrosis which may be fatal,
+- severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
+
+<div style=\"page-break-after: always\"></div>
+
+Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and skin ulcer (round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Leflunomide Zentiva
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the packaging. The expiry date refers to the last day of that month.
+
+Store in the original package.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Leflunomide Zentiva contains
+
+- The active substance is leflunomide. One film-coated tablet contains 100 mg of leflunomide.
+
+- The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), talc (E553b), silica colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as well as talc (E553b), hypromellose (E464), titanium dioxide (E171), and macrogol 8000 in the film-coating.
+
+## What Leflunomide Zentiva looks like and contents of the pack
+
+Leflunomide Zentiva 100 mg film-coated tablets are white to almost white and round. Imprint on one side: ZBP
+
+The tablets are packed in blisters. A pack of 3 tablets is available
+
+## Marketing Authorisation Holder
+
+Zentiva k.s. U kabelovny 130 102 37 Prague 10 Czech Republic
+
+## Manufacturer
+
+Opella Healthcare International SAS 56, Route de Choisy 60200 Compiègne France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
+
+<div style=\"page-break-after: always\"></div>
+
+## België/Belgique/Belgien
+
+Zentiva, k.s.
+
+Tél/Tel: +32 (78) 700 112
+
+PV-Belgium@zentiva.com
+
+## България
+
+Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
+
+## Česká republika
+
+Zentiva, k.s. Tel: +420 267 241 111
+
+PV-Czech-Republic@zentiva.com
+
+## Danmark
+
 Zentiva Denmark ApS Tlf.: +45 787 68 400
 
 PV-Denmark@zentiva.com
@@ -4033,7 +4139,7 @@ PV-Germany@zentiva.com
 
 Zentiva, k.s.
 
-Tel: +372 52 70308
+Tel: +372 530 107 59
 
 PV-Estonia@zentiva.com
 
@@ -4047,9 +4153,7 @@ Zentiva Spain S.L.U. Tel: +34 671 365 828 PV-Spain@zentiva.com
 
 ## France
 
-Zentiva France
-
-Tél: +33 (0) 800 089 219
+Zentiva France Tél: +33 (0) 800 089 219
 
 PV-France@zentiva.com
 
@@ -4059,9 +4163,7 @@ Zentiva, k.s. Tel: +370 52152025 PV-Lithuania@zentiva.com
 
 ## Luxembourg/Luxemburg
 
-Zentiva, k.s. Tél/Tel: +352 208 82330
-
-PV-Luxembourg@zentiva.com
+Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiva.com
 
 ## Magyarország
 
@@ -4075,7 +4177,9 @@ PV-Malta@zentiva.com
 
 ## Nederland
 
-Zentiva, k.s. Tel: +31 202 253 638 PV-Netherlands@zentiva.com
+Zentiva, k.s. Tel: +31 202 253 638
+
+PV-Netherlands@zentiva.com
 
 ## Norge
 
@@ -4085,7 +4189,9 @@ PV-Norway@zentiva.com
 
 ## Österreich
 
-Zentiva, k.s. Tel: +43 720 778 877 PV-Austria@zentiva.com
+Zentiva, k.s. Tel: +43 720 778 877
+
+PV-Austria@zentiva.com
 
 ## Polska
 
@@ -4097,37 +4203,19 @@ PV-Poland@zentiva.com
 
 Zentiva Portugal, Lda Tel: +351210601360 PV-Portugal@zentiva.com
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hrvatska
 
-Zentiva d.o.o.
-
-Tel: +385 1 6641 830
+Zentiva d.o.o. Tel: +385 1 6641 830
 
 PV-Croatia@zentiva.com
 
 ## Ireland
 
-Zentiva, k.s.
-
-Tel: +353 818 882 243
+Zentiva, k.s. Tel: +353 818 882 243
 
 PV-Ireland@zentiva.com
-
-## România
-
-ZENTIVA S.A.
-
-Tel: +4 021.304.7597
-
-PV-Romania@zentiva.com
-
-## Slovenija
-
-Zentiva, k.s.
-
-Tel: +386 360 00 408
-
-PV-Slovenia@zentiva.com
 
 ## Ísland
 
@@ -4137,14 +4225,6 @@ Sími: +354 539 5025
 
 PV-Iceland@zentiva.com
 
-## Slovenská republika
-
-Zentiva, a.s.
-
-Tel: +421 2 3918 3010
-
-PV-Slovakia@zentiva.com
-
 ## Italia
 
 Zentiva Italia S.r.l.
@@ -4153,44 +4233,50 @@ Tel: +39 800081631
 
 PV-Italy@zentiva.com
 
-## Suomi/Finland
-
-Zentiva Denmark ApS
-
-Puh/Tel: +358 942 598 648
-
-PV-Finland@zentiva.com
-
 ## Κύπρος
 
-Zentiva, k.s.
-
-Τηλ: +3
-
-0 211 198 7510
+Zentiva, k.s. Τηλ: +30 211 198 7510
 
 PV-Cyprus@zentiva.com
 
-## Sverige
-
-Zentiva Denmark ApS
-
-Tel: +46 840 838 822
-
-PV-Sweden@zentiva.com
-
 ## Latvija
 
-Zentiva, k.s.
-
-Tel: +371 67893939
+Zentiva, k.s. Tel: +371 67893939
 
 PV-Latvia@zentiva.com
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in {MM/YYYY}
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
+
+## România
+
+ZENTIVA S.A. Tel: +4 021.304.7597
+
+PV-Romania@zentiva.com
+
+## Slovenija
+
+Zentiva, k.s. Tel: +386 360 00 408
+
+PV-Slovenia@zentiva.com
+
+## Slovenská republika
+
+Zentiva, a.s. Tel: +421 2 3918 3010
+
+PV-Slovakia@zentiva.com
+
+## Suomi/Finland
+
+Zentiva Denmark ApS Puh/Tel: +358 942 598 648
+
+PV-Finland@zentiva.com
+
+## Sverige
+
+Zentiva Denmark ApS Tel: +46 840 838 822
+
+PV-Sweden@zentiva.com

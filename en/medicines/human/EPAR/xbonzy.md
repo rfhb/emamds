@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-12 16:08:00
+document_datetime: 2026-09-22 16:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xbonzy.html
 document_name: xbonzy.html
 version: success
-processing_time: 0.1191148
-conversion_datetime: 2026-05-13 13:22:17.612065
+processing_time: 0.1427395
+conversion_datetime: 2026-09-28 20:40:46.079564
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.35.0
+  docling-jobkit: 3.8.0
+  docling: 2.130.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # Xbonzy
 
@@ -49,13 +49,13 @@ Xbonzy is a medicine used to prevent bone complications in adults with advanced 
 
 Xbonzy is also used to treat a type of bone cancer called giant cell tumour of bone in adults and adolescents whose bones have fully developed. It is used in patients who cannot be treated by surgery or in whom surgery is likely to cause complications.
 
-Xbonzy contains the active substance denosumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Xbonzy is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Xbonzy is Xgeva. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Xbonzy contains the active substance denosumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Xbonzy is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Xbonzy is Xgeva.
 
 Expand section
 
 Collapse section
 
-## How is Xbonzy used?
+### How is Xbonzy used?
 
 Xbonzy can only be obtained with a prescription. It is available as a solution for injection to be given under the skin in the thigh, abdomen (belly) or upper arm.
 
@@ -65,11 +65,11 @@ Patients should take calcium and vitamin D supplements while being treated with 
 
 For more information about using Xbonzy, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Xbonzy work?
+### How does Xbonzy work?
 
 The active substance in Xbonzy, denosumab, is a monoclonal antibody which has been designed to recognise and attach to a protein called RANKL. This protein activates osteoclasts, the cells in the body that are involved in breaking down bone tissue. By attaching to RANKL and blocking it, denosumab reduces the formation and activity of the osteoclasts. This reduces the loss of bone, making fractures and other serious bone complications less likely. RANKL is also involved in activating the osteoclast-like cells in giant cell tumours of bone. Treatment with denosumab therefore prevents them from growing and breaking down bone, allowing normal bone to replace the tumour.
 
-## What benefits of Xbonzy have been shown in studies?
+### What benefits of Xbonzy have been shown in studies?
 
 Laboratory studies comparing Xbonzy with Xgeva have shown that the active substance in Xbonzy is highly similar to that in Xgeva in terms of structure, purity and biological activity. Studies have also shown that giving Xbonzy produces similar levels of the active substance in the body to those seen with Xgeva.
 
@@ -77,7 +77,7 @@ In addition, a study compared the effectiveness of the denosumab in Xbonzy with 
 
 Because denosumab works in a similar way in osteoporosis and in the conditions Xbonzy is intended to treat, a specific study on the effectiveness of Xbonzy in these conditions is not needed.
 
-## What are the risks associated with Xbonzy?
+### What are the risks associated with Xbonzy?
 
 The safety of Xbonzy has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Xgeva.
 
@@ -89,13 +89,13 @@ Hypocalcaemia mostly occurs within the first 2 weeks of starting treatment and c
 
 Xbonzy must not be used in patients with wounds from dental or mouth surgery that have not yet healed, or in people with severe, untreated hypocalcaemia.
 
-## Why is Xbonzy authorised in the EU?
+### Why is Xbonzy authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Xbonzy has a highly similar structure, purity and biological activity to Xgeva and is distributed in the body in the same way. In addition, a study has shown that Xbonzy is as effective as another denosumab-containing medicine in women with osteoporosis. Denosumab works in a similar way in the treatment of osteoporosis and in Xbonzy's intended uses.
 
 All these data were considered sufficient to conclude that Xbonzy will have the same effects as Xgeva in its authorised uses. Therefore, the Agency's view was that, as for Xgeva, the benefits of Xbonzy outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Xbonzy?
+### What measures are being taken to ensure the safe and effective use of Xbonzy?
 
 The company that markets Xbonzy will provide a card to inform patients about the risk of osteonecrosis of the jaw and to instruct them to contact their doctor if they have symptoms.
 
@@ -103,7 +103,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Xbonzy are continuously monitored. Suspected side effects reported with Xbonzy are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Xbonzy
+### Other information about Xbonzy
 
 Xbonzy received a marketing authorisation valid throughout the EU on 17 November 2025.
 
@@ -117,7 +117,7 @@ English (EN) (124.94 KB - PDF)
 
 [View](/en/documents/overview/xbonzy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-776)
+[Other languages (22)](#file-language-dropdown-31)
 
 български (BG) (141.31 KB - PDF)
 
@@ -149,7 +149,7 @@ Deutsch (DE) (128.9 KB - PDF)
 
 [View](/de/documents/overview/xbonzy-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (122.1 KB - PDF)
+eesti (ET) (122.1 KB - PDF)
 
 **First published:** 02/03/2026
 
@@ -179,13 +179,13 @@ italiano (IT) (123.77 KB - PDF)
 
 [View](/it/documents/overview/xbonzy-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (153.17 KB - PDF)
+latviešu (LV) (153.17 KB - PDF)
 
 **First published:** 02/03/2026
 
 [View](/lv/documents/overview/xbonzy-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (146.11 KB - PDF)
+lietuvių (LT) (146.11 KB - PDF)
 
 **First published:** 02/03/2026
 
@@ -239,7 +239,7 @@ slovenščina (SL) (144.92 KB - PDF)
 
 [View](/sl/documents/overview/xbonzy-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (121.6 KB - PDF)
+suomi (FI) (121.6 KB - PDF)
 
 **First published:** 02/03/2026
 
@@ -253,9 +253,9 @@ svenska (SV) (122.93 KB - PDF)
 
 Xbonzy : EPAR - Risk management plan
 
-English (EN) (1.18 MB - PDF)
+English (EN) (1.34 MB - PDF)
 
-**First published:** 02/03/2026
+**First published:** 02/03/2026 **Last updated:** 22/09/2026
 
 [View](/en/documents/rmp/xbonzy-epar-risk-management-plan_en.pdf)
 
@@ -269,7 +269,7 @@ English (EN) (570.3 KB - PDF)
 
 [View](/en/documents/product-information/xbonzy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-385)
+[Other languages (24)](#file-language-dropdown-861)
 
 български (BG) (620.16 KB - PDF)
 
@@ -301,7 +301,7 @@ Deutsch (DE) (546.63 KB - PDF)
 
 [View](/de/documents/product-information/xbonzy-epar-product-information_de.pdf)
 
-eesti keel (ET) (583.62 KB - PDF)
+eesti (ET) (583.62 KB - PDF)
 
 **First published:** 02/03/2026 **Last updated:** 12/05/2026
 
@@ -325,25 +325,19 @@ hrvatski (HR) (582.97 KB - PDF)
 
 [View](/hr/documents/product-information/xbonzy-epar-product-information_hr.pdf)
 
-íslenska (IS) (585.38 KB - PDF)
-
-**First published:** 02/03/2026 **Last updated:** 12/05/2026
-
-[View](/is/documents/product-information/xbonzy-epar-product-information_is.pdf)
-
 italiano (IT) (591.45 KB - PDF)
 
 **First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/it/documents/product-information/xbonzy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (616.34 KB - PDF)
+latviešu (LV) (616.34 KB - PDF)
 
 **First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/lv/documents/product-information/xbonzy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (626.22 KB - PDF)
+lietuvių (LT) (626.22 KB - PDF)
 
 **First published:** 02/03/2026 **Last updated:** 12/05/2026
 
@@ -366,12 +360,6 @@ Nederlands (NL) (574.91 KB - PDF)
 **First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/nl/documents/product-information/xbonzy-epar-product-information_nl.pdf)
-
-norsk (NO) (587.87 KB - PDF)
-
-**First published:** 02/03/2026 **Last updated:** 12/05/2026
-
-[View](/no/documents/product-information/xbonzy-epar-product-information_no.pdf)
 
 polski (PL) (624.67 KB - PDF)
 
@@ -403,7 +391,7 @@ slovenščina (SL) (598.4 KB - PDF)
 
 [View](/sl/documents/product-information/xbonzy-epar-product-information_sl.pdf)
 
-Suomi (FI) (553.02 KB - PDF)
+suomi (FI) (553.02 KB - PDF)
 
 **First published:** 02/03/2026 **Last updated:** 12/05/2026
 
@@ -415,6 +403,18 @@ svenska (SV) (584.41 KB - PDF)
 
 [View](/sv/documents/product-information/xbonzy-epar-product-information_sv.pdf)
 
+Íslenska (IS) (585.38 KB - PDF)
+
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
+
+[View](/is/documents/product-information/xbonzy-epar-product-information_is.pdf)
+
+norsk (NO) (587.87 KB - PDF)
+
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
+
+[View](/no/documents/product-information/xbonzy-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000341436
 
 11/05/2026
@@ -423,7 +423,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -441,7 +442,7 @@ English (EN) (63.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-626)
+[Other languages (24)](#file-language-dropdown-22)
 
 български (BG) (59.37 KB - PDF)
 
@@ -473,7 +474,7 @@ Deutsch (DE) (54.45 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (49.14 KB - PDF)
+eesti (ET) (49.14 KB - PDF)
 
 **First published:** 02/03/2026 **Last updated:** 12/05/2026
 
@@ -497,25 +498,19 @@ hrvatski (HR) (48.21 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (53.23 KB - PDF)
-
-**First published:** 02/03/2026 **Last updated:** 12/05/2026
-
-[View](/is/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (50.63 KB - PDF)
 
 **First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/it/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (55.88 KB - PDF)
+latviešu (LV) (55.88 KB - PDF)
 
 **First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/lv/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (53.12 KB - PDF)
+lietuvių (LT) (53.12 KB - PDF)
 
 **First published:** 02/03/2026 **Last updated:** 12/05/2026
 
@@ -538,12 +533,6 @@ Nederlands (NL) (50.77 KB - PDF)
 **First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/nl/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (53.38 KB - PDF)
-
-**First published:** 02/03/2026 **Last updated:** 12/05/2026
-
-[View](/no/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (55.99 KB - PDF)
 
@@ -575,7 +564,7 @@ slovenščina (SL) (52.33 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (48.28 KB - PDF)
+suomi (FI) (48.28 KB - PDF)
 
 **First published:** 02/03/2026 **Last updated:** 12/05/2026
 
@@ -587,28 +576,31 @@ svenska (SV) (51.79 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (53.23 KB - PDF)
+
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
+
+[View](/is/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (53.38 KB - PDF)
+
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
+
+[View](/no/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Xbonzy
-
-Active substance
-
-denosumab
-
-International non-proprietary name (INN) or common name
-
-denosumab
-
-Therapeutic area (MeSH)
-
-- Giant Cell Tumor of Bone
-- Neoplasms, Bone Tissue
-
-Anatomical therapeutic chemical (ATC) code
-
-M05BX04
+- **Name of medicine**
+    - Xbonzy
+- **Active substance**
+    - denosumab
+- **International non-proprietary name (INN) or common name**
+    - denosumab
+- **Therapeutic area (MeSH)**
+        - Giant Cell Tumor of Bone
+        - Neoplasms, Bone Tissue
+- **Anatomical therapeutic chemical (ATC) code**
+    - M05BX04
 
 ### Pharmacotherapeutic group
 
@@ -616,35 +608,24 @@ Drugs for treatment of bone diseases
 
 ### Therapeutic indication
 
-Prevention of skeletal related events (pathological fracture, radiation to bone, spinal cord compression or surgery to bone) in adults with advanced malignancies involving bone. Treatment of adults and skeletally mature adolescents with giant cell tumour of bone that is unresectable or where surgical resection is likely to result in severe morbidity.
+Prevention of skeletal related events (pathological fracture, radiation to bone, spinal cord compression or surgery to bone) in adults with advanced malignancies involving bone.
+
+Treatment of adults and skeletally mature adolescents with giant cell tumour of bone that is unresectable or where surgical resection is likely to result in severe morbidity.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006722
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Reddy Holding GmbH
-
-Kobelweg 95 Kriegshaber 86156 Augsburg Germany
-
-Opinion adopted
-
-18/09/2025
-
-Marketing authorisation issued
-
-17/11/2025
-
-Revision
-
-2
+- **EMA product number**
+    - EMEA/H/C/006722
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Reddy Holding GmbH Kobelweg 95  Kriegshaber 86156  Augsburg  Germany
+- **Opinion adopted**
+    - 18/09/2025
+- **Marketing authorisation issued**
+    - 17/11/2025
+- **Revision**
+    - 3
 
 ## Assessment history
 
@@ -652,17 +633,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Xbonzy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (138.3 KB - PDF)
+English (EN) (143.96 KB - PDF)
 
-**First published:** 02/03/2026 **Last updated:** 12/05/2026
+**First published:** 02/03/2026 **Last updated:** 22/09/2026
 
 [View](/en/documents/procedural-steps-after/xbonzy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Xbonzy : EPAR - Public assessment report
 
@@ -692,6 +673,6 @@ English (EN) (143.64 KB - PDF)
 
 **This page was last updated on**
 
-12/05/2026
+22/09/2026
 
 ## Share this page

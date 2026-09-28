@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-09-23 14:29:10
+document_datetime: 2026-09-25 13:42:54
 document_pages: 79
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/blincyto-epar-product-information_en.pdf
 document_name: blincyto-epar-product-information_en.pdf
 version: success
-processing_time: 118.6617807
-conversion_datetime: 2026-09-25 18:59:23.385382
+processing_time: 120.6542753
+conversion_datetime: 2026-09-28 20:09:46.806272
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
+  docling-serve: 1.35.0
+  docling-jobkit: 3.8.0
   docling: 2.130.0
-  docling-core: 2.98.0
+  docling-core: 2.99.0
   docling-ibm-models: 4.0.3
-  docling-parse: 7.21.0
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
@@ -231,7 +231,7 @@ b Management is determined by the most severe event, not attributable to any oth
 
 c If patient is arousable and able to perform ICE assessment, assess:
 
-Orientation (oriented to year, month, city, hospital = 4 points); Naming (name 3 objects, e.g. point to clock, pen, button = 3 points); Following commands (e.g. 'show me 2 fingers' or 'close your eyes and stick out your tongue' = 1 point); Writing (ability to write a standard sentence = 1 point); and Attention (count backwards from 100 by ten = 1 point). If patient is unarousable and unable to perform ICE assessment (Grade 4 ICANS) = 0 points.
+Orientation (oriented to year, month, city, hospital = 4 points); Naming (name 3 objects, e.g. point to clock, pen, button = 3 points); Following commands (e.g. \"show me 2 fingers\" or \"close your eyes and stick out your tongue\" = 1 point); Writing (ability to write a standard sentence = 1 point); and Attention (count backwards from 100 by ten = 1 point). If patient is unarousable and unable to perform ICE assessment (Grade 4 ICANS) = 0 points.
 
 d Not attributable to any other cause.
 
@@ -1757,7 +1757,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 The active ingredient in BLINCYTO is blinatumomab. This belongs to a group of medicines called antineoplastic agents which target cancer cells.
 
-BLINCYTO is used to treat adults, children and young adults with acute lymphoblastic leukaemia. Acute lymphoblastic leukaemia is a cancer of the blood in which a particular kind of white blood cell called 'B-lymphocyte' is growing out of control. This medicine works by enabling your immune system to attack and destroy these abnormal white blood cancer cells. BLINCYTO is used when acute lymphoblastic leukaemia has come back or has not responded to previous treatment (referred to as relapsed/refractory acute lymphoblastic leukaemia).
+BLINCYTO is used to treat adults, children and young adults with acute lymphoblastic leukaemia. Acute lymphoblastic leukaemia is a cancer of the blood in which a particular kind of white blood cell called \"B-lymphocyte\" is growing out of control. This medicine works by enabling your immune system to attack and destroy these abnormal white blood cancer cells. BLINCYTO is used when acute lymphoblastic leukaemia has come back or has not responded to previous treatment (referred to as relapsed/refractory acute lymphoblastic leukaemia).
 
 It is also used in adult patients with acute lymphoblastic leukaemia who still have a small number of cancer cells remaining after previous treatment (referred to as minimal residual disease).
 
@@ -1927,7 +1927,7 @@ Very common side effects (may affect more than 1 in 10 people):
 - rash
 - back pain, pain in extremity
 - fever (pyrexia), swelling of the face, lips, mouth, tongue or throat which may cause difficulty in swallowing or breathing (oedema), chills
-- low levels of antibodies called 'immunoglobulins' which help the immune system fight infection (decreased immunoglobulins)
+- low levels of antibodies called \"immunoglobulins\" which help the immune system fight infection (decreased immunoglobulins)
 - increased levels of liver enzymes (ALT, AST, GGT)
 - reactions related to infusion may include, wheezing, flushing, face swelling, difficulty breathing, low blood pressure, high blood pressure
 

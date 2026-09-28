@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-19 12:37:59
+document_datetime: 2026-09-25 08:17:45
 document_pages: 83
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/skytrofa-epar-product-information_en.pdf
 document_name: skytrofa-epar-product-information_en.pdf
 version: success
-processing_time: 22.286403
-conversion_datetime: 2025-12-28 04:32:44.832018
+processing_time: 167.5938191
+conversion_datetime: 2026-09-28 20:20:52.220516
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.35.0
+  docling-jobkit: 3.8.0
+  docling: 2.130.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,45 +22,39 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Skytrofa 3 mg powder and solvent for solution for injection in cartridge Skytrofa 3.6 mg powder and solvent for solution for injection in cartridge Skytrofa 4.3 mg powder and solvent for solution for injection in cartridge Skytrofa 5.2 mg powder and solvent for solution for injection in cartridge Skytrofa 6.3 mg powder and solvent for solution for injection in cartridge Skytrofa 7.6 mg powder and solvent for solution for injection in cartridge Skytrofa 9.1 mg powder and solvent for solution for injection in cartridge Skytrofa 11 mg powder and solvent for solution for injection in cartridge
-
-Skytrofa 13.3 mg powder and solvent for solution for injection in cartridge
+Skytrofa 3 mg powder and solvent for solution for injection in cartridge Skytrofa 3.6 mg powder and solvent for solution for injection in cartridge Skytrofa 4.3 mg powder and solvent for solution for injection in cartridge Skytrofa 5.2 mg powder and solvent for solution for injection in cartridge Skytrofa 6.3 mg powder and solvent for solution for injection in cartridge Skytrofa 7.6 mg powder and solvent for solution for injection in cartridge Skytrofa 9.1 mg powder and solvent for solution for injection in cartridge Skytrofa 11 mg powder and solvent for solution for injection in cartridge Skytrofa 13.3 mg powder and solvent for solution for injection in cartridge
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Skytrofa consists of somatropin transiently conjugated to a methoxypolyethylene glycol carrier (mPEG) via a proprietary TransCon Linker. The strength of Skytrofa always indicates the quantity of the somatropin moiety.
 
-## Skytrofa 3 mg powder and solvent for solution for injection in cartridge
+Skytrofa 3 mg powder and solvent for solution for injection in cartridge
 
 Each dual-chamber cartridge contains 3 mg of somatropin* equivalent to 8.6 mg of lonapegsomatropin and 0.279 mL of solvent. After reconstitution the concentration based on somatropin** protein is 11 mg/mL.
 
-## Skytrofa 3.6 mg powder and solvent for solution for injection in cartridge
+Skytrofa 3.6 mg powder and solvent for solution for injection in cartridge
 
 Each dual-chamber cartridge contains 3.6 mg of somatropin* equivalent to 10.3 mg of lonapegsomatropin and 0.329 mL of solvent. After reconstitution the concentration based on somatropin** protein is 11 mg/mL.
 
-## Skytrofa 4.3 mg powder and solvent for solution for injection in cartridge
+Skytrofa 4.3 mg powder and solvent for solution for injection in cartridge
 
 Each dual-chamber cartridge contains 4.3 mg of somatropin* equivalent to 12.3 mg of lonapegsomatropin and 0.388 mL of solvent. After reconstitution the concentration based on somatropin** protein is 11 mg/mL.
 
-## Skytrofa 5.2 mg powder and solvent for solution for injection in cartridge
+Skytrofa 5.2 mg powder and solvent for solution for injection in cartridge
 
 Each dual-chamber cartridge contains 5.2 mg of somatropin* equivalent to 14.8 mg of lonapegsomatropin and 0.464 mL of solvent. After reconstitution the concentration based on somatropin** protein is 11 mg/mL.
 
-## Skytrofa 6.3 mg powder and solvent for solution for injection in cartridge
+Skytrofa 6.3 mg powder and solvent for solution for injection in cartridge
 
 Each dual-chamber cartridge contains 6.3 mg of somatropin* equivalent to 18 mg of lonapegsomatropin and 0.285 mL of solvent. After reconstitution the concentration based on somatropin** protein is 22 mg/mL.
 
-<div style=\"page-break-after: always\"></div>
-
-## Skytrofa 7.6 mg powder and solvent for solution for injection in cartridge
+Skytrofa 7.6 mg powder and solvent for solution for injection in cartridge
 
 Each dual-chamber cartridge contains 7.6 mg of somatropin* equivalent to 21.7 mg of lonapegsomatropin and 0.338 mL of solvent. After reconstitution the concentration based on somatropin** protein is 22 mg/mL.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Skytrofa 9.1 mg powder and solvent for solution for injection in cartridge
 
@@ -82,7 +76,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Powder and solvent for solution for injection (injection).
+Powder and solvent for solution for injection (injection)
 
 White to off-white powder.
 
@@ -100,11 +94,11 @@ Treatment should be initiated and monitored by physicians who are qualified and 
 
 The amount and concentration of lonapegsomatropin is always expressed in terms of mg somatropin referring to the content of the somatropin moiety and not including mPEG-linker in order to prevent medication errors when patients switch from daily somatropin therapy.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Posology
 
 The posology and administration should be individualised for each patient.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Starting dose
 
@@ -127,10 +121,10 @@ Table 1 Recommended dose for patients by weight, when prescribed doses of 0.24 m
 | 70 - 84.9     | 18.2 mg (using two dual-chamber cartridges of 9.1 mg each) |
 | 85 - 100      | 22 mg (using two dual-chamber cartridges of 11 mg each)    |
 
-If prescribing a dose other than 0.24 mg somatropin/kg/week, calculate the total weekly dose (in mg somatropin) and select the appropriate dose strength as follows:
+If prescribing a dose other than 0.24 mg somatropin/kg/week, the total weekly dose (in mg somatropin) should be calculated and the appropriate dose strength should be selected as follows:
 
 - Total weekly dose (mg somatropin) = prescribed dose (mg somatropin/kg) x patient's body weight (kg)
-- Round the total weekly dose (mg somatropin) to the closest dose strength while also considering treatment goals and clinical response.
+- The total weekly dose (mg somatropin) should be adjusted to the closest dose strength while also considering treatment goals and clinical response.
 
 ## Starting dose for patients switching from daily somatropin medicinal products
 
@@ -140,15 +134,17 @@ In children switching from daily somatropin, physicians may adjust the starting 
 
 For children switching from daily somatropin medicinal products at a weekly dose equal to or greater than 0.24 mg somatropin/kg body weight, the recommended starting dose of lonapegsomatropin is 0.24 mg somatropin/kg body weight (Table 1).
 
-For children switching from daily somatropin medicinal products at a weekly dose less than 0.24 mg somatropin/kg body weight, use the previously prescribed weekly dose as the recommended starting dose of lonapegsomatropin (see equation above).
+For children switching from daily somatropin medicinal products at a weekly dose less than 0.24 mg somatropin/kg body weight, the previously prescribed weekly dose should be used as the recommended starting dose of lonapegsomatropin (see equation above).
 
 ## Dose titration
 
 The dose of lonapegsomatropin should be individually adjusted for each patient based on clinical response, adverse reactions, and/or serum insulin-like growth factor-1 (IGF-1) concentrations outside the targeted range. Available somatropin dose strengths can be found in section 1.
 
+Average IGF-1 standard deviation score (SDS) levels (drawn 4-5 days after dosing) can be used as guidance for dose titration (Table 2). It is necessary to wait a minimum of 2 weeks after initiation of lonapegsomatropin or after any dose change before assessing the resulting IGF-1 SDS levels.
+
 <div style=\"page-break-after: always\"></div>
 
-Average IGF-1 standard deviation score (SDS) levels (drawn 4-5 days after dosing) can be used as guidance for dose titration (Table 2). It is necessary to wait a minimum of 2 weeks after initiation of lonapegsomatropin or after any dose change before assessing the resulting IGF-1 SDS levels. Dose adjustments should be targeted to achieve average IGF-1 SDS levels in the normal range, i.e. between -2 and +2 (preferably close to 0 SDS).
+Dose adjustments should be targeted to achieve average IGF-1 SDS levels in the normal range, i.e. between -2 and +2 (preferably close to 0 SDS).
 
 IGF-1 SDS levels may vary over time, and therefore routine monitoring of serum IGF-1 SDS levels throughout the course of treatment is recommended, especially during puberty.
 
@@ -182,17 +178,15 @@ If a dose is missed, it should be administered as soon as possible and no more t
 
 The day of weekly injection can be changed to a different day of the week. Lonapegsomatropin can be administered 2 days before or 2 days after the scheduled dosing day. It should be ensured that at least 5 days will pass between the last dose and the newly-established regular once-weekly dosing day.
 
-## Special populations
-
 ## Renal impairment
 
 No information in patients with renal impairment is available and dose recommendations cannot be given.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic impairment
 
 No information in patients with hepatic impairment is available and dose recommendations cannot be given.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -226,17 +220,17 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## Acute critical illness
 
-In critically ill adult patients suffering complications following open heart surgery, abdominal surgery, multiple accidental trauma or acute respiratory failure mortality was higher in patients treated with 5.3 mg or 8 mg somatropin daily (i.e. 37.1-56 mg/week) compared to patients receiving placebo, 42% vs. 19%. As there is no information available on the safety of growth hormone substitution therapy in
+In critically ill adult patients suffering complications following open heart surgery, abdominal surgery, multiple accidental trauma or acute respiratory failure mortality was higher in patients treated with 5.3 mg or 8 mg somatropin daily (i.e. 37.1-56 mg/week) compared to patients receiving placebo, 42% vs. 19%. As there is no information available on the safety of growth hormone substitution therapy in acutely critically ill patients, the benefits of continued lonapegsomatropin treatment in this situation should be weighed against the potential risks involved. In all patients developing other or similar acute critical illness, the possible benefit of treatment with lonapegsomatropin must be weighed against the potential risk involved.
 
 <div style=\"page-break-after: always\"></div>
-
-acutely critically ill patients, the benefits of continued lonapegsomatropin treatment in this situation should be weighed against the potential risks involved. In all patients developing other or similar acute critical illness, the possible benefit of treatment with lonapegsomatropin must be weighed against the potential risk involved.
 
 ## Neoplasm
 
 In patients with previous malignant disease, special attention should be given to signs and symptoms of relapse.
 
-Patients with pre-existing tumours or GHD secondary to an intracranial lesion should be examined routinely for progression or recurrence of the underlying disease process. In childhood cancer survivors, an increased risk of a second neoplasm has been reported in patients treated with growth hormone after their first neoplasm. Intracranial tumours, in particular meningiomas, were the most common form of a second neoplasm reported in patients treated with radiation to the head for their first neoplasm.
+Patients with pre-existing tumours or GHD secondary to an intracranial lesion should be examined routinely for progression or recurrence of the underlying disease process.
+
+In childhood cancer survivors, an increased risk of a second neoplasm has been reported in patients treated with growth hormone after their first neoplasm. Intracranial tumours, in particular meningiomas, were the most common form of a second neoplasm reported in patients treated with radiation to the head for their first neoplasm.
 
 ## Hypersensitivity
 
@@ -252,15 +246,13 @@ Growth hormone may reduce insulin sensitivity. For patients with diabetes mellit
 
 ## Hypoadrenalism
 
-Introduction of growth hormone treatment may result in inhibition of 11β -Hydroxysteroid dehydrogenase type 1 (11βHSD -1) and reduced serum cortisol concentrations. Consequently, previously undiagnosed central (secondary) hypoadrenalism may be unmasked and glucocorticoid replacement may be required. In addition, patients treated with glucocorticoid replacement therapy for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses, following initiation of lonapegsomatropin treatment (see section 4.5).
+Introduction of growth hormone treatment may result in inhibition of 11β-Hydroxysteroid dehydrogenase type 1 (11βHSD-1) and reduced serum cortisol concentrations. Consequently, previously undiagnosed central (secondary) hypoadrenalism may be unmasked and glucocorticoid replacement may be required. In addition, patients treated with glucocorticoid replacement therapy for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses, following initiation of lonapegsomatropin treatment (see section 4.5).
 
 ## Thyroid function
 
-Growth hormone increases the extrathyroidal conversion of T4 to T3 which may result in a reduction in serum T4 and an increase in serum T3 concentrations. Monitoring of thyroid function should therefore be conducted in all patients. In patients with hypopituitarism on standard replacement
+Growth hormone increases the extrathyroidal conversion of T4 to T3 which may result in a reduction in serum T4 and an increase in serum T3 concentrations. Monitoring of thyroid function should therefore be conducted in all patients. In patients with hypopituitarism on standard replacement therapy, the potential effect of lonapegsomatropin treatment on thyroid function must be closely monitored (see section 4.5 and 4.8).
 
 <div style=\"page-break-after: always\"></div>
-
-therapy, the potential effect of lonapegsomatropin treatment on thyroid function must be closely monitored (see section 4.5 and 4.8).
 
 ## Slipped capital femoral epiphysis and osteonecrosis
 
@@ -284,19 +276,19 @@ Leukaemia has been reported in a small number of GHD patients, some of whom have
 
 ## Use with oral oestrogen containing therapy
 
-Oral oestrogen influences the IGF-1 response to growth hormone. If a female patient taking lonapegsomatropin begins oral oestrogen containing therapy, the dose of lonapegsomatropin may need to be increased to maintain the serum IGF-1 levels within the normal age appropriate range (see section 4.2). Conversely, if a female patient on lonapegsomatropin discontinues oral oestrogen containing therapy, the dose of lonapegsomatropin may need to be reduced to avoid excess of growth hormone and/or adverse reactions (see section 4.5).
+Oral oestrogen influences the IGF-1 response to growth hormone. If a female patient taking lonapegsomatropin begins oral oestrogen containing therapy, the dose of lonapegsomatropin may need to be increased to maintain the serum IGF-1 levels within the normal age-appropriate range (see section 4.2). Conversely, if a female patient on lonapegsomatropin discontinues oral oestrogen containing therapy, the dose of lonapegsomatropin may need to be reduced to avoid excess of growth hormone and/or adverse reactions (see section 4.5).
 
 ## Antibodies
 
 Antibodies to lonapegsomatropin were observed in some patients. None of these antibodies were neutralising and there was no apparent clinical impact. However, testing for the presence of antibodies should be considered in patients who fail to respond to therapy.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Glucocorticoid treatment
 
 Concomitant treatment with glucocorticoids inhibits the growth-promoting effects of lonapegsomatropin. Patients with adrenocorticotropic hormone (ACTH) deficiency should have their glucocorticoid replacement therapy carefully adjusted to avoid any inhibitory effect on growth, and patients treated with glucocorticoids should have their growth monitored carefully to assess the potential impact of glucocorticoid treatment on growth.
+
+<div style=\"page-break-after: always\"></div>
 
 Growth hormone decreases the conversion of cortisone to cortisol and may unmask previously undiscovered central hypoadrenalism or render low glucocorticoid replacement doses ineffective (see section 4.4).
 
@@ -306,7 +298,7 @@ Drug-drug interaction studies have not been performed with lonapegsomatropin. Da
 
 ## Insulin and/or other hypoglycaemic agents
 
-In patients with diabetes mellitus requiring therapy with a medicinal product (e.g, anti-hyperglycaemic medicinal products), the dose of insulin and/or oral hypoglycaemic medicinal product may require adjustment when lonapegsomatropin therapy is initiated (see section 4.4).
+In patients with diabetes mellitus requiring therapy with a medicinal product (e.g. anti-hyperglycaemic medicinal products), the dose of insulin and/or oral hypoglycaemic medicinal product may require adjustment when lonapegsomatropin therapy is initiated (see section 4.4).
 
 ## Thyroid hormones
 
@@ -326,15 +318,13 @@ Animal studies are insufficient with respect to reproductive toxicity (see secti
 
 ## Breastfeeding
 
-There are no data on the presence of lonapegsomatropin in human milk or effect on the breastfed newborns/infants. As lonapegsomatropin is not orally absorbed, it is unlikely to adversely affect the breastfed newborns/infants.
-
-<div style=\"page-break-after: always\"></div>
-
-Skytrofa can be used during breastfeeding on strict indication.
+It is unknown whether lonapegsomatropin is excreted in human milk. As lonapegsomatropin is not orally absorbed, it is unlikely to adversely affect the breastfed newborns/infants. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from Skytrofa therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
 ## Fertility
 
 There are no clinical data on the effect of lonapegsomatropin on fertility. Animal studies are insufficient with respect to fertility (see section 5.3).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -342,15 +332,15 @@ Lonapegsomatropin has no or negligible influence on the ability to drive and use
 
 ## 4.8 Undesirable effects
 
-## Summary of safety profile
+## Summary of the safety profile
 
-The most frequently reported adverse reactions in clinical trials with lonapegsomatropin were headache (11.1%), arthralgia (4.6%), secondary hypothyroidism (2.6%), and injection site reactions (1.6%). In general, these reactions tended to be transient, and severity was mild to moderate.
+The most frequently reported adverse reactions were headache (11.1%), arthralgia (4.6%), secondary hypothyroidism (2.6%), and injection site reactions (1.6%).
 
 ## Tabulated list of adverse reactions
 
-Table 3 below shows adverse reactions which occurred during lonapegsomatropin treatment. The adverse reactions are ranked under headings of MedDRA system organ class and frequency using the following terminology: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), and frequency not known (cannot be estimated from the available data).
+Table 3 below shows adverse reactions which occurred during lonapegsomatropin treatment. The adverse reactions are ranked under headings of MedDRA system organ class and frequency using the following terminology: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt;1/1 000), very rare (&lt; 1/10 000), and frequency not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-Table 3 Frequency of adverse reactions in clinical trials
+Table 3 Frequency of adverse reactions for lonapegsomatropin
 
 | System organ class                                   | Very common   | Common                     | Uncommon                               |
 |------------------------------------------------------|---------------|----------------------------|----------------------------------------|
@@ -367,13 +357,14 @@ Table 3 Frequency of adverse reactions in clinical trials
 
 Patients may develop antibodies to lonapegsomatropin. The proportion of patients testing positive for detectable binding antibodies at any time during treatment was low (6.3%) and no patients had neutralising antibodies. No apparent correlation of anti-lonapegsomatropin binding antibodies to adverse events or loss of efficacy was observed. In case of an otherwise unexplained lack of response to lonapegsomatropin treatment, testing for antibodies to lonapegsomatropin should be considered (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Adverse reactions related to growth hormone pharmacological class
 
-In addition to the above-mentioned adverse drug reactions, those presented below have been reported with other growth hormone-containing products. Frequencies of these adverse events cannot be estimated from the available data (unless otherwise indicated).
+In addition to the above-mentioned adverse reactions, those presented below have been reported with other growth hormone-containing products. Frequencies of these adverse events cannot be estimated from the available data (unless otherwise indicated).
 
 - Neoplasms benign, malignant and unspecified (including cysts and polyps): leukaemia (see section 4.4).
+
+<div style=\"page-break-after: always\"></div>
+
 - Metabolism and nutrition disorders: diabetes mellitus type 2 (see section 4.4).
 - Nervous system disorders: benign intracranial hypertension (see section 4.4), paraesthesia.
 - Musculoskeletal and connective tissue disorders: myalgia.
@@ -399,21 +390,19 @@ Treatment is symptomatic and supportive. There is no antidote for somatropin ove
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Pituitary and hypothalamic hormones and analogues, somatropin and somatropin agonists, ATC Code: H01AC09.
+Pharmacotherapeutic group: Pituitary and hypothalamic hormones and analogues, somatropin and somatropin agonists, ATC code: H01AC09.
 
 ## Mechanism of action
 
 Lonapegsomatropin is a long-acting 'prodrug' of somatropin. Lonapegsomatropin consists of the parent drug, somatropin, that is transiently conjugated to a methoxypolyethylene glycol carrier (4 x 10 kDa mPEG) via a proprietary TransCon Linker. The carrier has a shielding effect that minimizes renal excretion and receptor-mediated clearance of lonapegsomatropin. After subcutaneous administration, lonapegsomatropin releases fully active somatropin via autocleavage of the TransCon Linker. Somatropin (191 amino acids) has the same mode of action and distribution as daily somatropin, but with a once-weekly subcutaneous injection.
 
-Somatropin binds to a dimeric hGH receptor in the cell membrane of target cells resulting in intracellular signal transduction and a host of pharmacodynamic effects. Somatropin has direct tissue and metabolic effects, and indirect effects mediated by IGF-1, including stimulation of chondrocyte differentiation and proliferation, stimulation of hepatic glucose output, protein synthesis and lipolysis.
-
-<div style=\"page-break-after: always\"></div>
-
-Somatropin stimulates skeletal growth in paediatric patients with GHD as a result of effects on the growth plates (epiphyses) of bones.
+Somatropin binds to a dimeric hGH receptor in the cell membrane of target cells resulting in intracellular signal transduction and a host of pharmacodynamic effects. Somatropin has direct tissue and metabolic effects, and indirect effects mediated by IGF-1, including stimulation of chondrocyte differentiation and proliferation, stimulation of hepatic glucose output, protein synthesis and lipolysis. Somatropin stimulates skeletal growth in paediatric patients with GHD as a result of effects on the growth plates (epiphyses) of bones.
 
 ## Pharmacodynamic effects
 
 Somatropin released from lonapegsomatropin produces a dose linear IGF-1 response, with a change in dose of 0.02 mg somatropin/kg resulting in an approximate change in average weekly IGF-1 standard deviation score (SDS) of 0.17.
+
+<div style=\"page-break-after: always\"></div>
 
 At steady-state, IGF-1 SDS levels peaked approximately 2 days post-dose, with the average weekly IGF-1 SDS coinciding with approximately 4.5 days post-dose (Figure 1). IGF-1 SDS levels were in the normal range for GHD patients for the majority of the week, similar to daily somatropin.
 
@@ -425,23 +414,23 @@ Figure 1 Mean (±SE) IGF-1 SDS at steady-state in children with GHD after admini
 
 The efficacy and safety of once-weekly lonapegsomatropin were evaluated in phase 3 clinical trials that included 306 paediatric patients with GHD.
 
-## heiGHt trial:
+## heiGHt trial
 
 In a 52-week multi-centre randomised, open-label, active-controlled, parallel-group phase 3 clinical trial, 161 treatment-naïve, prepubertal paediatric patients with GHD were randomised to once-weekly lonapegsomatropin (N=105) or daily somatropin (N=56), both at a total weekly dose of 0.24 mg somatropin/kg. The patients ranged in age from 3.2 to 13.1 years with a mean of 8.5 years. Most (N=132 (82%)) subjects were male. The patients had a mean baseline height SDS of -2.93. The primary efficacy endpoint was annualised height velocity (AHV) at week 52. Treatment with once-weekly lonapegsomatropin for 52 weeks resulted in a non-inferior AHV compared to daily somatropin (Table 4). Also, changes in the height standard deviation score (SDS) (change from baseline) tended to be larger for once-weekly lonapegsomatropin compared to daily somatropin (Table 4). Changes in AHV and height SDS tended to be larger for lonapegsomatropin compared to those of somatropin from week 26 through the end of the trial at week 52.
 
-<div style=\"page-break-after: always\"></div>
-
 The mean (SD) ratio of bone age to chronological age advanced similarly in both arms from baseline to week 52: 0.69 (0.16) to 0.75 (0.15) with once-weekly lonapegsomatropin and 0.70 (0.14) to 0.76 (0.14) with daily somatropin.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4 Growth and IGF-1 response at week 52 in paediatric treatment-naïve patients with GHD (Intention-to-treat analysis)
 
-|                                                      | Once-weekly lonapegsomatropin (N=105) (0.24 mg somatropin/kg/week)   | Daily somatropin (N=56) (0.24 mg somatropin/kg/week)   | Estimate of treatment difference (lonapegsomatropin minus somatropin)   |
-|------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------------------|
-| AHV (cm/year) a ,LS mean (95% CI)                    | 11.2 (10.7-11.6)                                                     | 10.3 (9.7-10.9)                                        | 0.9 b (0.2-1.5)                                                         |
-| Height SDS, change from baseline c ,LS mean (95% CI) | 1.10 (1.02-1.18)                                                     | 0.96 (0.85-1.06)                                       | 0.14 d (0.03-0.26)                                                      |
-| IGF-1 SDS category e ,% < 0 0 to +2 +2 to +3 >+3     | 23.1% 69.2% 7.7% 0                                                   | 40.7% 57.4% 1.9% 0                                     | Not analysed                                                            |
-
-- e Average level at week 52
+|                                                       | Once-weekly lonapegsomatropin (N=105) (0.24 mg somatropin/kg/week)   | Daily somatropin (N=56) (0.24 mg somatropin/kg/week)   | Estimate of treatment difference (lonapegsomatropin minus somatropin)   |
+|-------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------------------|
+| AHV (cm/year) a , LS mean (95% CI)                    | 11.2 (10.7-11.6)                                                     | 10.3 (9.7-10.9)                                        | 0.9 b (0.2-1.5)                                                         |
+| Height SDS, change from baseline c , LS mean (95% CI) | 1.10 (1.02-1.18)                                                     | 0.96 (0.85-1.06)                                       | 0.14 d (0.03-0.26)                                                      |
+| IGF-1 SDS category e , % < 0 0 to +2 +2 to +3         | 23.1% 69.2%                                                          | 40.7% 57.4% 1.9% 0                                     | Not analysed                                                            |
+|                                                       | 7.7%                                                                 |                                                        |                                                                         |
+| >+3                                                   | 0                                                                    |                                                        |                                                                         |
 
 In an open-label extension trial, patients from the heiGHt trial who continued treatment with lonapegsomatropin had an increase in height SDS of 1.61 from baseline to week 104. Patients who switched from daily somatropin to lonapegsomatropin at week 52 had an increase in height SDS of 1.49 from baseline to week 104.
 
@@ -449,15 +438,11 @@ In an open-label extension trial, patients from the heiGHt trial who continued t
 
 Evidence from additional clinical trials with lonapegsomatropin supports the long-term clinical efficacy of lonapegsomatropin treatment.
 
-## fliGHt trial:
+## fliGHt trial
 
 In a 26-week single-arm open-label clinical trial evaluating lonapegsomatropin 0.24 mg somatropin/kg/week in 146 paediatric GHD patients aged 1 to 17 years old, of whom 143 had received prior daily somatropin treatment for mean (SD) 1.1 (0.7) years, the mean (SD) annualised height velocity was 9 (2.7) cm/year and the mean (SD) change from trial baseline in height SDS was 0.28 (0.25). Patient and caregiver preference were evaluated at week 13. 84% of patients and 90% of caregivers preferred once-weekly lonapegsomatropin over their prior daily somatropin.
 
-<div style=\"page-break-after: always\"></div>
-
-Table 5 Average IGF-1 SDS levels at baseline and week 26 in paediatric
-
-treatment-experienced patients with GHD (intention-to-treat analysis)
+Table 5 Average IGF-1 SDS levels at baseline and week 26 in paediatric treatment-experienced patients with GHD (intention-to-treat analysis)
 
 | Average IGF-1 SDS category   | Baseline (N=143) n (%)   | Week 26 (N=139) n (%)   |
 |------------------------------|--------------------------|-------------------------|
@@ -466,7 +451,9 @@ treatment-experienced patients with GHD (intention-to-treat analysis)
 | +2 to +3                     | 27 (18.9)                | 33 (23.7)               |
 | > +3                         | 5 (3.5)                  | 22 (15.8)               |
 
-## enliGHten trial:
+<div style=\"page-break-after: always\"></div>
+
+## enliGHten trial
 
 In a long-term open-label extension trial, which enrolled patients from the heiGHt trial and fliGHt trial, patients (N=298) who continued treatment with lonapegsomatropin had a mean (SD) height SDS at extension trial baseline of -1.56 (0.88) and at week 208 (the last visit for which adequate data are available) -0.39 (0.90), corresponding to a mean (SD) change of +1.24 (0.65).
 
@@ -499,11 +486,11 @@ In paediatric GHD patients, injections were rotated between the abdomen, buttock
 
 The absolute bioavailability of lonapegsomatropin following subcutaneous dose administration has not been investigated.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Distribution
 
 In paediatric GHD patients, the mean (CV%) steady state apparent volume of distribution of lonapegsomatropin after subcutaneous administration of 0.24 mg somatropin/kg/week was 0.13 (109) L/kg. Somatropin released from lonapegsomatropin is expected to have a similar volume of distribution as endogenous growth hormone.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -517,9 +504,9 @@ In paediatric GHD patients, the mean (CV%) steady state apparent clearance of lo
 
 ## Special populations
 
-No sex-specific pharmacokinetic studies have been done with lonapegsomatropin. The available literature indicates that the pharmacokinetics of somatropin is similar in males and females.
+No gender-specific pharmacokinetic studies have been done with lonapegsomatropin. The available literature indicates that the pharmacokinetics of somatropin is similar in males and females.
 
-Based on a population pharmacokinetic analysis, age, sex, race/ethnicity, and body weight do not have a clinically meaningful effect on the pharmacokinetics .
+Based on a population pharmacokinetic analysis, age, gender, race/ethnicity, and body weight do not have a clinically meaningful effect on the pharmacokinetics.
 
 No studies in patients with renal or hepatic impairments have been conducted with lonapegsomatropin (see section 4.2). A reduction in somatropin clearance following administration of daily somatropin has been noted in patients with severe liver and kidney dysfunction. The clinical significance of this decrease is unknown. The pharmacokinetics of the mPEG carrier of lonapegsomatropin is expected to be dependent on renal function but has not been assessed in patients with renal impairment.
 
@@ -535,9 +522,9 @@ No embryonic or foetal development toxicities occurred in rats administered subc
 
 An embryo-foetal development toxicity study in rabbits has shown foetal abnormalities and embryo-foetal mortality at 1.5-fold and 6-fold, the clinical dose of 0.24 mg somatropin/kg/week, respectively, and possibly caused by maternal toxicity. The clinical relevance of these findings is uncertain.
 
-<div style=\"page-break-after: always\"></div>
-
 In a pre- and postnatal developmental study in rats there were no adverse effects on the pregnant/lactating female or on development of the conceptus and the offspring following exposure of the female from implantation through weaning to subcutaneous doses of a structurally related transiently pegylated somatropin prodrug up to 13-fold the clinical dose of 0.24 mg somatropin/kg/week.
+
+<div style=\"page-break-after: always\"></div>
 
 ## mPEG exposure
 
@@ -561,29 +548,29 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## Unopened
+Unopened
 
-5 years when stored in a refrigerator (2°C - 8°C).
+5 years when stored in a refrigerator (2 °C - 8 °C).
 
-Alternatively, Skytrofa may be stored at temperatures ≤30°C for up to 6 months. Within the 6 months, the medicinal product can be returned to refrigeration (2°C - 8°C).
+Alternatively, Skytrofa may be stored at temperatures ≤30 °C for up to 6 months. Within the 6 months, the medicinal product can be returned to refrigeration (2 °C - 8 °C).
 
 Record the date on the carton when the medicinal product was first removed from the refrigerator. Discard the medicinal product when 6 months have passed.
 
 ## After reconstitution
 
-Chemical and physical in-use stability has been demonstrated for reconstituted product stored for 4 hours at temperatures ≤30°C.
+Chemical and physical in-use stability has been demonstrated for reconstituted product stored for 4 hours at temperatures ≤30 °C.
 
-From a microbiological point of view, the product should be used immediately after reconstitution. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not exceed 4 hours at temperatures ≤30°C.
-
-<div style=\"page-break-after: always\"></div>
+From a microbiological point of view, the product should be used immediately after reconstitution. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not exceed 4 hours at temperatures ≤30 °C.
 
 ## 6.4 Special precautions for storage
 
-Store in refrigerator (2°C - 8°C). Do not freeze.
+Store in refrigerator (2 °C - 8 °C). Do not freeze.
 
 Store in the original package in order to protect from light.
 
-For alternative storage conditions at temperatures ≤30°C, see section 6.3.
+For alternative storage conditions at temperatures ≤30 °C, see section 6.3.
+
+<div style=\"page-break-after: always\"></div>
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
@@ -591,7 +578,7 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 Glass cartridge (Type I glass) with two chambers separated by a rubber stopper (bromobutyl). The cartridge is closed by a rubber stopper (bromobutyl) in one end and by a rubber closure disc (bromobutyl) in the other end. The cartridge is mounted in a plastic needle adaptor.
 
-Each pack contains 4 single-use dual-chamber cartridges packed in individual blisters and 6 disposable injection needles 0.25 mm x 4 mm (31G x 5/32'). Each dual-chamber cartridge has a specific label with assigned two-colour coding ribbons that is only used by the Auto-Injector to select the correct reconstitution settings. Strength colours are indicated on the carton and blister foil and should be used to differentiate the individual strengths.
+Each pack contains 4 single-use dual-chamber cartridges packed in individual blisters and 6 disposable injection needles 0.25 mm x 4 mm (31G x 5/32\"). Each dual-chamber cartridge has a specific label with assigned two-colour coding ribbons that is only used by the Skytrofa Auto-Injector to select the correct reconstitution settings. Strength colours are indicated on the carton and blister foil and should be used to differentiate the individual strengths.
 
 ## Skytrofa 3 mg powder and solvent for solution for injection in cartridge
 
@@ -617,17 +604,17 @@ Each dual-chamber cartridge contains 6.3 mg of somatropin as powder in the first
 
 Each dual-chamber cartridge contains 7.6 mg of somatropin as powder in the first chamber and 0.338 mL of solvent in the second chamber. The cartridge two-colour label (bottom/top) is cyan/pink. The strength colour on the carton and blister is dark purple.
 
-<div style=\"page-break-after: always\"></div>
-
-## Skytrofa 9.1 mg powder and solvent for solution for injection in cartridge
+Skytrofa 9.1 mg powder and solvent for solution for injection in cartridge
 
 Each dual-chamber cartridge contains 9.1 mg of somatropin as powder in the first chamber and 0.4 mL of solvent in the second chamber. The cartridge two-colour label (bottom/top) is pink/yellow. The strength colour on the carton and blister is golden brown.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Skytrofa 11 mg powder and solvent for solution for injection in cartridge
 
 Each dual-chamber cartridge contains 11 mg of somatropin as powder in the first chamber and 0.479 mL of solvent in the second chamber. The cartridge two-colour label (bottom/top) is pink/green. The strength colour on the carton and blister is dark blue.
 
-## Skytrofa 13.3 mg powder and solvent for solution for injection in cartridge
+Skytrofa 13.3 mg powder and solvent for solution for injection in cartridge
 
 Each dual-chamber cartridge contains 13.3 mg of somatropin as powder in the first chamber and 0.574 mL of solvent in the second chamber. The cartridge two-colour label (bottom/top) is pink/cyan. The strength colour on the carton and blister is dark red.
 
@@ -655,15 +642,17 @@ The patient should be advised to discard the cartridge and injection needle afte
 
 Ascendis Pharma Endocrinology Division A/S Tuborg Boulevard 12 DK-2900 Hellerup Denmark
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1607/001 EU/1/21/1607/002 EU/1/21/1607/003 EU/1/21/1607/004 EU/1/21/1607/005 EU/1/21/1607/006 EU/1/21/1607/007 EU/1/21/1607/008 EU/1/21/1607/009
+EU/1/21/1607/001 EU/1/21/1607/002 EU/1/21/1607/003 EU/1/21/1607/004 EU/1/21/1607/005
+
+<div style=\"page-break-after: always\"></div>
+
+EU/1/21/1607/006 EU/1/21/1607/007 EU/1/21/1607/008 EU/1/21/1607/009
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 11 January 2022
+Date of first authorisation: 11 January 2022 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -673,24 +662,22 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) of the biological active substance(s)
+Name and address of the manufacturers of the biological active substance
 
-FUJIFILM Diosynth Biotechnologies UK Limited
-
-Belasis Avenue Billingham TS23 1LH United Kingdom
+FUJIFILM Diosynth Biotechnologies UK Limited Belasis Avenue Billingham TS23 1LH United Kingdom
 
 LONZA AG Lonzastrasse 3930 Visp Switzerland
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 Ascendis Pharma A/S Tuborg Boulevard 12 DK-2900 Hellerup Denmark
 
@@ -704,8 +691,6 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
-
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
@@ -715,11 +700,7 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile
-
-<div style=\"page-break-after: always\"></div>
-
-or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -735,7 +716,7 @@ or as the result of an important (pharmacovigilance or risk minimisation) milest
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+OUTER CARTON - 3 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -743,7 +724,7 @@ Skytrofa 3 mg powder and solvent for solution for injection in cartridge lonapeg
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dual-chamber cartridge contains 3 mg of somatropin equivalent to 8.6 mg of lonapegsomatropin and 0.279 mL of solvent. After reconstitution the concentration based on somatropin protein is 11 mg/mL
+Each dual-chamber cartridge contains 3 mg of somatropin equivalent to 8.6 mg of lonapegsomatropin and 0.279 mL of solvent. After reconstitution the concentration based on somatropin protein is 11 mg/mL.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -753,7 +734,7 @@ Powder: succinic acid, trehalose dihydrate, trometamol
 
 Solvent: water for injections
 
-See leaflet for further information
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -763,7 +744,7 @@ Powder and solvent for solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Subcutaneous use
 
@@ -773,7 +754,7 @@ For use only with Skytrofa Auto-Injector
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children
+Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -781,17 +762,19 @@ Keep out of the sight and reach of children
 
 EXP
 
-After reconstitution, use within 4 hours
+After reconstitution, use within 4 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze
+Store in a refrigerator. Do not freeze.
 
-Can be stored at temperatures up to 30°C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2°C to 8°C).
+Can be stored at temperatures up to 30 °C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2 °C to 8 °C).
 
-Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months
+Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months.
 
-Store in the original package in order to protect from light
+Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -807,24 +790,22 @@ EU/1/21/1607/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Skytrofa 3 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -832,7 +813,7 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER FOIL
+## BLISTER FOIL - 3 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -846,25 +827,29 @@ Ascendis Pharma Endocrinology Division A/S
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 ## STOP HERE
 
-Do not remove this part of the peel paper
+Do not remove this part of the peel paper.
 
 Subcutaneous use
 
-Read the package leaflet before use
+Read the package leaflet before use.
+
+PEEL HERE
 
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
 |--------------------------------------------------------------------|
-| LABEL FOR DUAL-CHAMBER CARTRIDGE                                   |
+| LABEL FOR DUAL-CHAMBER CARTRIDGE - 3 mg                            |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
@@ -896,7 +881,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+OUTER CARTON - 3.6 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -904,7 +889,7 @@ Skytrofa 3.6 mg powder and solvent for solution for injection in cartridge lonap
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dual-chamber cartridge contains 3.6 mg of somatropin equivalent to 10.3 mg of lonapegsomatropin and 0.329 mL of solvent. After reconstitution the concentration based on somatropin protein is 11 mg/mL
+Each dual-chamber cartridge contains 3.6 mg of somatropin equivalent to 10.3 mg of lonapegsomatropin and 0.329 mL of solvent. After reconstitution the concentration based on somatropin protein is 11 mg/mL.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -914,7 +899,7 @@ Powder: succinic acid, trehalose dihydrate, trometamol
 
 Solvent: water for injections
 
-See leaflet for further information
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -924,7 +909,7 @@ Powder and solvent for solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Subcutaneous use
 
@@ -934,7 +919,7 @@ For use only with Skytrofa Auto-Injector
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children
+Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -942,17 +927,19 @@ Keep out of the sight and reach of children
 
 EXP
 
-After reconstitution, use within 4 hours
+After reconstitution, use within 4 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze
+Store in a refrigerator. Do not freeze.
 
-Can be stored at temperatures up to 30°C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2°C to 8°C)
+Can be stored at temperatures up to 30 °C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2 °C to 8 °C).
 
-Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months
+Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months.
 
-Store in the original package in order to protect from light
+Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -968,24 +955,22 @@ EU/1/21/1607/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Skytrofa 3.6 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -993,11 +978,13 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER FOIL
+BLISTER FOIL - 3.6 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Skytrofa 3.6 mg powder and solvent for solution for injection in cartridge lonapegsomatropin
+Skytrofa 3.6 mg powder and solvent for solution for injection in cartridge
+
+lonapegsomatropin
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1007,25 +994,29 @@ Ascendis Pharma Endocrinology Division A/S
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
-## STOP HERE
+STOP HERE
 
-Do not remove this part of the peel paper
+Do not remove this part of the peel paper.
 
 Subcutaneous use
 
-Read the package leaflet before use
+Read the package leaflet before use.
+
+PEEL HERE
 
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
 |--------------------------------------------------------------------|
-| LABEL FOR DUAL-CHAMBER CARTRIDGE                                   |
+| LABEL FOR DUAL-CHAMBER CARTRIDGE - 3.6 mg                          |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
@@ -1057,7 +1048,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+OUTER CARTON - 4.3 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1065,7 +1056,7 @@ Skytrofa 4.3 mg powder and solvent for solution for injection in cartridge lonap
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dual-chamber cartridge contains 4.3 mg of somatropin equivalent to 12.3 mg of lonapegsomatropin and 0.388 mL of solvent. After reconstitution the concentration based on somatropin protein is 11 mg/mL
+Each dual-chamber cartridge contains 4.3 mg of somatropin equivalent to 12.3 mg of lonapegsomatropin and 0.388 mL of solvent. After reconstitution the concentration based on somatropin protein is 11 mg/mL.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1075,7 +1066,7 @@ Powder: succinic acid, trehalose dihydrate, trometamol
 
 Solvent: water for injections
 
-See leaflet for further information
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1085,7 +1076,7 @@ Powder and solvent for solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Subcutaneous use
 
@@ -1095,7 +1086,7 @@ For use only with Skytrofa Auto-Injector
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children
+Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -1103,17 +1094,19 @@ Keep out of the sight and reach of children
 
 EXP
 
-After reconstitution, use within 4 hours
+After reconstitution, use within 4 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze
+Store in a refrigerator. Do not freeze.
 
-Can be stored at temperatures up to 30°C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2°C to 8°C)
+Can be stored at temperatures up to 30 °C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2 °C to 8 °C).
 
-Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months
+Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months.
 
-Store in the original package in order to protect from light
+Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1125,28 +1118,26 @@ Ascendis Pharma Endocrinology Division A/S Tuborg Boulevard 12 DK-2900 Hellerup 
 
 EU/1/21/1607/003
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Skytrofa 4.3 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1154,11 +1145,13 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER FOIL
+BLISTER FOIL - 4.3 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Skytrofa 4.3 mg powder and solvent for solution for injection in cartridge lonapegsomatropin
+Skytrofa 4.3 mg powder and solvent for solution for injection in cartridge
+
+lonapegsomatropin
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1172,21 +1165,24 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 ## STOP HERE
 
-Do not remove this part of the peel paper
+Do not remove this part of the peel paper.
 
 Subcutaneous use
 
-Read the package leaflet before use
+Read the package leaflet before use.
+
+PEEL HERE
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-LABEL FOR DUAL-CHAMBER CARTRIDGE
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL FOR DUAL-CHAMBER CARTRIDGE - 4.3 mg                          |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
@@ -1218,7 +1214,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+OUTER CARTON - 5.2 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1226,7 +1222,7 @@ Skytrofa 5.2 mg powder and solvent for solution for injection in cartridge lonap
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dual-chamber cartridge contains 5.2 mg of somatropin equivalent to 14.8 mg of lonapegsomatropin and 0.464 mL of solvent. After reconstitution the concentration based on somatropin protein is 11 mg/mL
+Each dual-chamber cartridge contains 5.2 mg of somatropin equivalent to 14.8 mg of lonapegsomatropin and 0.464 mL of solvent. After reconstitution the concentration based on somatropin protein is 11 mg/mL.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1236,7 +1232,7 @@ Powder: succinic acid, trehalose dihydrate, trometamol
 
 Solvent: water for injections
 
-See leaflet for further information
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1246,7 +1242,7 @@ Powder and solvent for solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Subcutaneous use
 
@@ -1256,7 +1252,7 @@ For use only with Skytrofa Auto-Injector
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children
+Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -1264,23 +1260,29 @@ Keep out of the sight and reach of children
 
 EXP
 
-After reconstitution, use within 4 hours
+After reconstitution, use within 4 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze
+Store in a refrigerator. Do not freeze.
 
-Can be stored at temperatures up to 30°C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2°C to 8°C)
+Can be stored at temperatures up to 30 °C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2 °C to 8 °C).
 
-Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months
+Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months.
 
-Store in the original package in order to protect from light
+Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Ascendis Pharma Endocrinology Division A/S Tuborg Boulevard 12 DK-2900 Hellerup Denmark
+Ascendis Pharma Endocrinology Division A/S Tuborg Boulevard 12
+
+DK-2900 Hellerup
+
+Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1290,24 +1292,22 @@ EU/1/21/1607/004
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Skytrofa 5.2 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1315,11 +1315,13 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER FOIL
+BLISTER FOIL - 5.2 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Skytrofa 5.2 mg powder and solvent for solution for injection in cartridge lonapegsomatropin
+Skytrofa 5.2 mg powder and solvent for solution for injection in cartridge
+
+lonapegsomatropin
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1329,25 +1331,29 @@ Ascendis Pharma Endocrinology Division A/S
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 ## STOP HERE
 
-Do not remove this part of the peel paper
+Do not remove this part of the peel paper.
 
 Subcutaneous use
 
-Read the package leaflet before use
+Read the package leaflet before use.
+
+PEEL HERE
 
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
 |--------------------------------------------------------------------|
-| LABEL FOR DUAL-CHAMBER CARTRIDGE                                   |
+| LABEL FOR DUAL-CHAMBER CARTRIDGE - 5.2 mg                          |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
@@ -1375,11 +1381,13 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
+43
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+OUTER CARTON - 6.3 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1387,7 +1395,7 @@ Skytrofa 6.3 mg powder and solvent for solution for injection in cartridge lonap
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dual-chamber cartridge contains 6.3 mg of somatropin equivalent to 18 mg of lonapegsomatropin and 0.285 mL of solvent. After reconstitution the concentration based on somatropin protein is 22 mg/mL
+Each dual-chamber cartridge contains 6.3 mg of somatropin equivalent to 18 mg of lonapegsomatropin and 0.285 mL of solvent. After reconstitution the concentration based on somatropin protein is 22 mg/mL.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1397,7 +1405,7 @@ Powder: succinic acid, trehalose dihydrate, trometamol
 
 Solvent: water for injections
 
-See leaflet for further information
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1407,7 +1415,7 @@ Powder and solvent for solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Subcutaneous use
 
@@ -1417,7 +1425,7 @@ For use only with Skytrofa Auto-Injector
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children
+Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -1425,17 +1433,19 @@ Keep out of the sight and reach of children
 
 EXP
 
-After reconstitution, use within 4 hours
+After reconstitution, use within 4 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze
+Store in a refrigerator. Do not freeze.
 
-Can be stored at temperatures up to 30°C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2°C to 8°C)
+Can be stored at temperatures up to 30 °C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2 °C to 8 °C).
 
-Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months
+Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months.
 
-Store in the original package in order to protect from light
+Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1447,28 +1457,26 @@ Ascendis Pharma Endocrinology Division A/S Tuborg Boulevard 12 DK-2900 Hellerup 
 
 EU/1/21/1607/005
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Skytrofa 6.3 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1476,11 +1484,13 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER FOIL
+BLISTER FOIL - 6.3 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Skytrofa 6.3 mg powder and solvent for solution for injection in cartridge lonapegsomatropin
+Skytrofa 6.3 mg powder and solvent for solution for injection in cartridge
+
+lonapegsomatropin
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1490,25 +1500,29 @@ Ascendis Pharma Endocrinology Division A/S
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 ## STOP HERE
 
-Do not remove this part of the peel paper
+Do not remove this part of the peel paper.
 
 Subcutaneous use
 
-Read the package leaflet before use
+Read the package leaflet before use.
+
+PEEL HERE
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-LABEL FOR DUAL-CHAMBER CARTRIDGE
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL FOR DUAL-CHAMBER CARTRIDGE - 6.3 mg                          |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
@@ -1540,7 +1554,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+OUTER CARTON - 7.6 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1548,7 +1562,7 @@ Skytrofa 7.6 mg powder and solvent for solution for injection in cartridge lonap
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dual-chamber cartridge contains 7.6 mg of somatropin equivalent to 21.7 mg of lonapegsomatropin and 0.338 mL of solvent. After reconstitution the concentration based on somatropin protein is 22 mg/mL
+Each dual-chamber cartridge contains 7.6 mg of somatropin equivalent to 21.7 mg of lonapegsomatropin and 0.338 mL of solvent. After reconstitution the concentration based on somatropin protein is 22 mg/mL.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1558,7 +1572,7 @@ Powder: succinic acid, trehalose dihydrate, trometamol
 
 Solvent: water for injections
 
-See leaflet for further information
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1568,7 +1582,7 @@ Powder and solvent for solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Subcutaneous use
 
@@ -1578,7 +1592,7 @@ For use only with Skytrofa Auto-Injector
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children
+Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -1586,17 +1600,19 @@ Keep out of the sight and reach of children
 
 EXP
 
-After reconstitution, use within 4 hours
+After reconstitution, use within 4 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze
+Store in a refrigerator. Do not freeze.
 
-Can be stored at temperatures up to 30°C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2°C to 8°C)
+Can be stored at temperatures up to 30 °C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2 °C to 8 °C).
 
-Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months
+Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months.
 
-Store in the original package in order to protect from light
+Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1612,24 +1628,22 @@ EU/1/21/1607/006
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Skytrofa 7.6 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1637,11 +1651,13 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER FOIL
+BLISTER FOIL - 7.6 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Skytrofa 7.6 mg powder and solvent for solution for injection in cartridge lonapegsomatropin
+Skytrofa 7.6 mg powder and solvent for solution for injection in cartridge
+
+lonapegsomatropin
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1655,21 +1671,24 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 ## STOP HERE
 
-Do not remove this part of the peel paper
+Do not remove this part of the peel paper.
 
 Subcutaneous use
 
-Read the package leaflet before use
+Read the package leaflet before use.
+
+PEEL HERE
 
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
 |--------------------------------------------------------------------|
-| LABEL FOR DUAL-CHAMBER CARTRIDGE                                   |
+| LABEL FOR DUAL-CHAMBER CARTRIDGE - 7.6 mg                          |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
@@ -1701,7 +1720,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+OUTER CARTON - 9.1 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1709,7 +1728,9 @@ Skytrofa 9.1 mg powder and solvent for solution for injection in cartridge lonap
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dual-chamber cartridge contains 9.1 mg of somatropin equivalent to 25.9 mg of lonapegsomatropin and 0.4 mL of solvent. After reconstitution the concentration based on somatropin protein is 22 mg/mL
+Each dual-chamber cartridge contains 9.1 mg of somatropin equivalent to 25.9 mg of
+
+lonapegsomatropin and 0.4 mL of solvent. After reconstitution the concentration based on somatropin protein is 22 mg/mL.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1719,17 +1740,17 @@ Powder: succinic acid, trehalose dihydrate, trometamol
 
 Solvent: water for injections
 
-See leaflet for further information
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Powder and solvent for solution for injection
 
-- 4 single-use cartridges and 6 disposable injection needles
+4 single-use cartridges and 6 disposable injection needles
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Subcutaneous use
 
@@ -1739,7 +1760,7 @@ For use only with Skytrofa Auto-Injector
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children
+Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -1747,17 +1768,19 @@ Keep out of the sight and reach of children
 
 EXP
 
-After reconstitution, use within 4 hours
+After reconstitution, use within 4 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze
+Store in a refrigerator. Do not freeze.
 
-Can be stored at temperatures up to 30°C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2°C to 8°C)
+Can be stored at temperatures up to 30 °C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2 °C to 8 °C).
 
-Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months
+Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months.
 
-Store in the original package in order to protect from light
+Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1773,37 +1796,36 @@ EU/1/21/1607/007
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Skytrofa 9.1 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC
-
-SN
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-NN
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER FOIL
+BLISTER FOIL - 9.1 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Skytrofa 9.1 mg powder and solvent for solution for injection in cartridge lonapegsomatropin
+Skytrofa 9.1 mg powder and solvent for solution for injection in cartridge
+
+lonapegsomatropin
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1817,26 +1839,29 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 ## STOP HERE
 
-Do not remove this part of the peel paper
+Do not remove this part of the peel paper.
 
 Subcutaneous use
 
-Read the package leaflet before use
+Read the package leaflet before use.
+
+PEEL HERE
 
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
 |--------------------------------------------------------------------|
-| LABEL FOR DUAL-CHAMBER CARTRIDGE                                   |
+| LABEL FOR DUAL-CHAMBER CARTRIDGE - 9.1 mg                          |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
 
-Skytrofa 9.1 mg powder and solvent for solution for injection Lonapegsomatropin SC
+Skytrofa 9.1 mg powder and solvent for solution for injection lonapegsomatropin SC
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -1863,7 +1888,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+OUTER CARTON - 11 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1871,7 +1896,7 @@ Skytrofa 11 mg powder and solvent for solution for injection in cartridge lonape
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dual-chamber cartridge contains 11 mg of somatropin equivalent to 31.4 mg of lonapegsomatropin and 0.479 mL of solvent. After reconstitution the concentration based on somatropin protein is 22 mg/mL
+Each dual-chamber cartridge contains 11 mg of somatropin equivalent to 31.4 mg of lonapegsomatropin and 0.479 mL of solvent. After reconstitution the concentration based on somatropin protein is 22 mg/mL.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1881,7 +1906,7 @@ Powder: succinic acid, trehalose dihydrate, trometamol
 
 Solvent: water for injections
 
-See leaflet for further information
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1891,7 +1916,7 @@ Powder and solvent for solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Subcutaneous use
 
@@ -1901,7 +1926,7 @@ For use only with Skytrofa Auto-Injector
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children
+Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -1909,23 +1934,29 @@ Keep out of the sight and reach of children
 
 EXP
 
-After reconstitution, use within 4 hours
+After reconstitution, use within 4 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze
+Store in a refrigerator. Do not freeze.
 
-Can be stored at temperatures up to 30°C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2°C to 8°C)
+Can be stored at temperatures up to 30 °C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2 °C to 8 °C).
 
-Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months
+Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months.
 
-Store in the original package in order to protect from light
+Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Ascendis Pharma Endocrinology Division A/S Tuborg Boulevard 12 DK-2900 Hellerup Denmark
+Ascendis Pharma Endocrinology Division A/S Tuborg Boulevard 12
+
+DK-2900 Hellerup
+
+Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1935,24 +1966,22 @@ EU/1/21/1607/008
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Skytrofa 11 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1960,44 +1989,51 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-## BLISTER FOIL
+## BLISTER FOIL - 11 mg
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Skytrofa 11 mg powder and solvent for solution for injection in cartridge lonapegsomatropin
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Ascendis Pharma Endocrinology Division A/S
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 ## STOP HERE
 
-Do not remove this part of the peel paper
+Do not remove this part of the peel paper.
 
 Subcutaneous use
 
-Read the package leaflet before use
+Read the package leaflet before use.
+
+PEEL HERE
 
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
 |--------------------------------------------------------------------|
-| LABEL FOR DUAL-CHAMBER CARTRIDGE                                   |
+| LABEL FOR DUAL-CHAMBER CARTRIDGE - 11 mg                           |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
 
-Skytrofa 11 mg powder and solvent for solution for injection Lonapegsomatropin SC
+Skytrofa 11 mg powder and solvent for solution for injection lonapegsomatropin SC
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -2024,7 +2060,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+OUTER CARTON - 13.3 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2032,7 +2068,7 @@ Skytrofa 13.3 mg powder and solvent for solution for injection in cartridge lona
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dual-chamber cartridge contains 13.3 mg of somatropin equivalent to 37.9 mg of lonapegsomatropin and 0.574 mL of solvent. After reconstitution the concentration based on somatropin protein is 22 mg/mL
+Each dual-chamber cartridge contains 13.3 mg of somatropin equivalent to 37.9 mg of lonapegsomatropin and 0.574 mL of solvent. After reconstitution the concentration based on somatropin protein is 22 mg/mL.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -2042,7 +2078,7 @@ Powder: succinic acid, trehalose dihydrate, trometamol
 
 Solvent: water for injections
 
-See leaflet for further information
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2052,7 +2088,7 @@ Powder and solvent for solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Subcutaneous use
 
@@ -2062,7 +2098,7 @@ For use only with Skytrofa Auto-Injector
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children
+Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -2070,17 +2106,19 @@ Keep out of the sight and reach of children
 
 EXP
 
-After reconstitution, use within 4 hours
+After reconstitution, use within 4 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze
+Store in a refrigerator. Do not freeze.
 
-Can be stored at temperatures up to 30°C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2°C to 8°C)
+Can be stored at temperatures up to 30 °C for up to 6 months. Within the 6 months, this medicine can be returned to refrigeration (2 °C to 8 °C).
 
-Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months
+Date first removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_. Discard after 6 months.
 
-Store in the original package in order to protect from light
+Store in the original package in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2092,28 +2130,26 @@ Ascendis Pharma Endocrinology Division A/S Tuborg Boulevard 12 DK-2900 Hellerup 
 
 EU/1/21/1607/009
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Skytrofa 13.3 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2121,11 +2157,13 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER FOIL
+BLISTER FOIL - 13.3 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Skytrofa 13.3 mg powder and solvent for solution for injection in cartridge lonapegsomatropin
+Skytrofa 13.3 mg powder and solvent for solution for injection in cartridge
+
+lonapegsomatropin
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2139,26 +2177,29 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 ## STOP HERE
 
-Do not remove this part of the peel paper
+Do not remove this part of the peel paper.
 
 Subcutaneous use
 
-Read the package leaflet before use
+Read the package leaflet before use.
+
+PEEL HERE
 
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
 |--------------------------------------------------------------------|
-| LABEL FOR DUAL-CHAMBER CARTRIDGE                                   |
+| LABEL FOR DUAL-CHAMBER CARTRIDGE - 13.3 mg                         |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
 
-Skytrofa 13.3 mg powder and solvent for solution for injection Lonapegsomatropin SC
+Skytrofa 13.3 mg powder and solvent for solution for injection lonapegsomatropin SC
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -2185,22 +2226,22 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the user
 
-Skytrofa 3 mg powder and solvent for solution for injection in cartridge Skytrofa 3.6 mg powder and solvent for solution for injection in cartridge Skytrofa 4.3 mg powder and solvent for solution for injection in cartridge Skytrofa 5.2 mg powder and solvent for solution for injection in cartridge Skytrofa 6.3 mg powder and solvent for solution for injection in cartridge Skytrofa 7.6 mg powder and solvent for solution for injection in cartridge Skytrofa 9.1 mg powder and solvent for solution for injection in cartridge Skytrofa 11 mg powder and solvent for solution for injection in cartridge Skytrofa 13.3 mg powder and solvent for solution for injection in cartridge lonapegsomatropin
+<div style=\"page-break-after: always\"></div>
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+Skytrofa 3 mg powder and solvent for solution for injection in cartridge Skytrofa 3.6 mg powder and solvent for solution for injection in cartridge Skytrofa 4.3 mg powder and solvent for solution for injection in cartridge Skytrofa 5.2 mg powder and solvent for solution for injection in cartridge Skytrofa 6.3 mg powder and solvent for solution for injection in cartridge Skytrofa 7.6 mg powder and solvent for solution for injection in cartridge Skytrofa 9.1 mg powder and solvent for solution for injection in cartridge Skytrofa 11 mg powder and solvent for solution for injection in cartridge
+
+Skytrofa 13.3 mg powder and solvent for solution for injection in cartridge
+
+lonapegsomatropin
 
 ## Read all of this leaflet carefully before you or your child start using this medicine because it contains important information for you or your child.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2221,33 +2262,32 @@ Skytrofa is used to treat children and adolescents, aged 3 up to 18 years, who h
 
 ## Do not use Skytrofa
 
-- If you are allergic to lonapegsomatropin or any of the other ingredients of this medicine (listed in section 6)
-- If you have a tumour (cancer) which is growing. You must have finished your anti-tumour treatment, and tumours must be inactive before you start your treatment with Skytrofa
-- If you have recently had an open heart surgery, abdominal surgery, multiple accidental trauma or acute respiratory failure
-
-<div style=\"page-break-after: always\"></div>
-
-- If you have been told by your doctor that the parts of your bones that grow and increase height (growth plates or epiphyses) have closed and stopped growing
+- if you are allergic to lonapegsomatropin or any of the other ingredients of this medicine (listed in section 6).
+- if you have a tumour (cancer) which is growing. You must have finished your anti-tumour treatment, and tumours must be inactive before you start your treatment with Skytrofa.
+- if you have recently had an open heart surgery, abdominal surgery, multiple accidental trauma or acute respiratory failure.
+- if you have been told by your doctor that the parts of your bones that grow and increase height (growth plates or epiphyses) have closed and stopped growing.
 
 Tell your doctor before starting the treatment if any of these apply to you.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist, or nurse before using Skytrofa. It is especially important to talk about anything mentioned below:
 
-- If you previously had an intracranial tumour , a doctor will examine you regularly during your treatment for recurrence of the tumour or any other cancer.
-- If you develop a strong headache, disturbed vision, vomiting or inability to coordinate voluntary muscle movements (ataxia) , especially in the first few weeks of treatment, tell your doctor straight away . These may be signs of raised pressure in the skull (intracranial pressure). See section 4, possible side effects.
-- If you have diabetes mellitus, high blood sugar (glucose intolerance), or additional risk factors for diabetes, your blood sugar may need to be checked regularly and the dose of your diabetes medicine may need to be adjusted.
+- If you previously had an intracranial tumour, a doctor will examine you regularly during your treatment for recurrence of the tumour or any other cancer.
+- If you develop a strong headache, disturbed vision, vomiting or inability to coordinate voluntary muscle movements (ataxia), especially in the first few weeks of treatment, tell your doctor straight away. These may be signs of raised pressure in the skull (intracranial pressure). See section 4, possible side effects.
+- If you have diabetes mellitus, high blood sugar (glucose intolerance), or additional risk factors for diabetes, your blood sugar may need to be checked regularly, and the dose of your diabetes medicine may need to be adjusted.
 - If you are being treated for adrenal insufficiency with corticosteroids, talk to your doctor, as your steroid dose may need regular adjustment.
 - If you are being treated with thyroid hormones or you need to start thyroid hormone replacement, your doctor will test your thyroid function regularly and the dose may need to be adjusted.
 - If you have persistent hip or knee pain when walking, or if you start to limp during your growth hormone treatment, tell your doctor. These could be symptoms of a condition that affects the thighbone (femur) where it inserts into the hip (slipped capital femoral epiphysis) and that occurs with greater frequency in children on growth hormone therapy. These symptoms may also be caused by loss of bone tissue due to insufficient blood supply (osteonecrosis), which has been reported in patients treated with other growth hormone products. Talk to your doctor about persistent pain in any joint.
 - If you notice a sideways curve in your spine (scoliosis), you will need to be checked often by your doctor.
-- If you get a stomach ache (pain in your tummy) that gets worse, tell your doctor . Your doctor may test for pancreatitis, which is when an organ called the pancreas becomes inflamed. See section 4, possible side effects.
+- If you get a stomach ache (pain in your tummy) that gets worse, tell your doctor. Your doctor may test for pancreatitis, which is when an organ called the pancreas becomes inflamed. See section 4, possible side effects.
 - If you have signs and symptoms of a sudden serious allergic reaction (e.g. breathing difficulty, swelling of your face, mouth, or tongue, fast heartbeat, hives, rash, fever), you should promptly seek medical attention.
-- If you have Prader-Willi syndrome , you should not be treated with Skytrofa unless you also have GHD. Skytrofa has not been studied in individuals with Prader-Willi syndrome and therefore its effectiveness as a treatment for this condition is unknown.
+- If you have Prader-Willi syndrome, you should not be treated with Skytrofa unless you also have GHD. Skytrofa has not been studied in individuals with Prader-Willi syndrome and therefore its effectiveness as a treatment for this condition is unknown.
 - A small number of patients given growth hormone replacement have developed a type of cancer of the blood and bone marrow (leukaemia). However, it has not been proven that growth hormone treatment caused the cancer.
 - If you have immediate complications following open heart surgery, abdominal surgery, a bad accident (trauma), or an acute critical illness like acute respiratory failure.
-- If you are a female taking oral contraception or hormonal replacement therapy with oestrogen , your dose of Skytrofa may need to be higher. If you or your child stop using oral oestrogen, your dose of Skytrofa may need to be reduced.
+- If you are a female taking oral contraception or hormonal replacement therapy with oestrogen, your dose of Skytrofa may need to be higher. If you or your child stop using oral oestrogen, your dose of Skytrofa may need to be reduced.
 
 ## Other medicines and Skytrofa
 
@@ -2255,29 +2295,26 @@ Tell your doctor, pharmacist, or nurse if you are using, have recently used or m
 
 In particular, tell your doctor if you are taking or have recently taken any of the following medicines:
 
-<div style=\"page-break-after: always\"></div>
-
 - Insulin or any other medicines to treat diabetes mellitus
 - Thyroid hormone treatments such as levothyroxine
 - Tablets containing oestrogen, including tablets for oestrogen replacement therapy or for contraception
 - Steroids or synthetic adrenal hormones (corticosteroids or glucocorticoids)
+
+<div style=\"page-break-after: always\"></div>
+
 - Medicines to treat epilepsy or fits (seizures) - antiseizure medicines (anticonvulsants) such as carbamazepine
 - Ciclosporin (immunosuppressive medicine) - a medicine to suppress your immune system
 - Theophylline, a medicine used to treat asthma and other chronic lung diseases.
 
 Your doctor may need to adjust the dose of these medicines or the dose of Skytrofa.
 
-## Pregnancy, breastfeeding and fertility
+## Pregnancy and breastfeeding
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor before taking this medicine.
 
-## Pregnancy
+If you are able to get pregnant, you should not use Skytrofa unless you are also using reliable contraception. There are no data from the use of Skytrofa in pregnant women. Skytrofa is not to be used during pregnancy. This is because it is not known if it could harm your unborn child. If you are pregnant, think you may be pregnant or are planning to have a baby, talk to your doctor. If you become pregnant during treatment, tell your doctor immediately.
 
-If you are able to get pregnant, you should not use Skytrofa unless you are also using reliable contraception. There are no data from the use of Skytrofa in pregnant women. Skytrofa is not to be used during pregnancy. This is because it is not known if it could harm your unborn child. If you are pregnant, think you may be pregnant or are planning to have a baby, talk to your doctor. If you become pregnant during treatment, tell your doctor immediately .
-
-## Breastfeeding
-
-It is not known whether Skytrofa can pass into breast milk. However, as lonapegsomatropin is not absorbed by mouth, it is unlikely to adversely affect the breastfed infant. If you are breast-feeding or intend to breast-feed, ask your doctor for advice before using Skytrofa. Skytrofa can be used during breastfeeding on strict indication.
+It is not known whether Skytrofa can pass into breast milk. However, as lonapegsomatropin is not absorbed by mouth, it is unlikely to adversely affect the breastfed infant. If you are breast-feeding or intend to breast-feed, ask your doctor for advice before using Skytrofa.
 
 ## Driving and using machines
 
@@ -2297,21 +2334,21 @@ Your doctor will work out your dose of Skytrofa from your body weight in kilogra
 
 If changing from daily somatropin therapy to once-weekly Skytrofa, your doctor will tell you to wait at least 8 hours between the final dose of once-daily somatropin and the first dose of Skytrofa. The recommended dose may be reduced according to previous daily dose of somatropin.
 
-<div style=\"page-break-after: always\"></div>
-
 ## When to use Skytrofa
 
 You need to inject Skytrofa once a week, on the same day each week, at any time during the day.
 
 If necessary, you can change the day of your weekly injection. Skytrofa can be administered 2 days before or 2 days after the scheduled dosing day. There should be at least 5 days since your last injection, on the old day and the first dose on the new day. After selecting a new dosing day, continue giving yourself the injection on that day each week. Ask your doctor if you are not sure how to do this.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Preparation and administration
 
-Read 'Instructions for use' at the end of this leaflet before you start using this medicine.
+Read \"Instructions for use\" at the end of this leaflet before you start using this medicine.
 
-Skytrofa comes in a two-chamber cartridge containing both medicine (powder) and a solvent (liquid).
+Skytrofa comes in a two-chamber cartridge containing both medicine (powder) and a solvent (liquid). It is to be used with the needles supplied. To give injections, you also need a Skytrofa Auto-Injector. The Skytrofa Auto-Injector is supplied separately.
 
-It is to be used with the needles supplied. To give injections, you also need a Skytrofa Auto-Injector. The Skytrofa Auto-Injector is supplied separately. The powder and solvent will be mixed together into a solution for injection by the Skytrofa Auto-Injector. After mixing, the solution is ready for use and the medicine can be injected under the skin using the Skytrofa Auto-Injector.
+The powder and solvent will be mixed together into a solution for injection by the Skytrofa Auto-Injector. After mixing, the solution is ready for use, and the medicine can be injected under the skin using the Skytrofa Auto-Injector.
 
 Read the instructions for use provided with the Skytrofa Auto-Injector.
 
@@ -2333,7 +2370,18 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Very common side effects (may affect more than 1 in 10 people)
+## Some side effects could be considered serious
+
+Tell your doctor immediately if you experience any of the following symptoms:
+
+Uncommon side effects (may affect up to 1 in 100 people)
+
+- Allergic reactions (anaphylaxis including angioedema)
+- ­ Symptoms may include, but are not limited to, wheezing and breathing difficulty, swelling of your face, mouth, or tongue, fast heartbeat, hives, rash, itching, flushing, fever, severe vomiting or diarrhoea, lightheadedness or loss of consciousness. These symptoms may occur suddenly, and may be serious, and potentially life-threatening.
+
+## Other side effects include:
+
+Very common side effects (may affect more than 1 in 10 people)
 
 - Headache
 
@@ -2345,15 +2393,14 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
-- Sudden serious allergic reactions, including angioedema (rapid swelling of the mucous membranes or the skin that may occur in the face, mouth, tongue, abdomen, or arms and legs)
 - A decrease in the levels of the hormone cortisol seen in blood tests
-- Stiffness of the joints (arthritis)
 - An increased sideways curve of the spine (scoliosis)
-- Growing pains
 
 <div style=\"page-break-after: always\"></div>
 
-## · Breast enlargement affecting males
+- Stiffness of the joints (arthritis)
+- Growing pains
+- Breast enlargement affecting males
 
 ## Not known (frequency cannot be estimated from the available data)
 
@@ -2370,7 +2417,7 @@ Below side effects have been seen with other growth hormone-containing medicine.
 - Itching
 - Hives
 
-If any of the side effects gets severe, tell your doctor or pharmacist .
+If any of the side effects gets severe, tell your doctor or pharmacist.
 
 ## Reporting of side effects
 
@@ -2382,13 +2429,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton after EXP.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Store in the original package in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Store in the original package in order to protect from light.
 
-Skytrofa may be taken out of the refrigerator for a maximum period of 6 months and stored at temperatures up to 30°C. During these 6 months this medicine can be returned to refrigeration (2°C - 8°C). Record on the carton the date Skytrofa is first removed from the refrigerator. Discard this medicine 6 months after the date this medicine was first stored outside the refrigerator.
+Skytrofa may be taken out of the refrigerator for a maximum period of 6 months and stored at temperatures up to 30 °C. During these 6 months this medicine can be returned to refrigeration (2 °C - 8 °C). Record on the carton the date Skytrofa is first removed from the refrigerator. Discard this medicine 6 months after the date this medicine was first stored outside the refrigerator.
 
 The powder is white to off-white, and the solvent is a clear colourless solution.
 
-The mixed solution is colourless and clear. The solution may occasionally contain air bubbles, these are okay. Do not use this medicine if you notice visible particles in the mixed solution. Inject immediately after the powder and solvent has been mixed together by using the Skytrofa Auto-Injector. If you cannot use the mixed solution immediately, it should be used within 4 hours.
+The mixed solution is colourless and clear. It may contain air bubbles. This is normal. Do not use this medicine if you notice visible particles in the mixed solution. Inject immediately after the powder and solvent have been mixed together by using the Skytrofa Auto-Injector. If you cannot use the mixed solution immediately, it should be used within 4 hours.
 
 When you have finished with a cartridge with needle, you must dispose of it carefully in a suitable container.
 
@@ -2402,7 +2449,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is lonapegsomatropin.
 
-Cartridges come in 9 different strengths:
+Cartridges are available in 9 different strengths:
 
 Skytrofa 3 mg powder and solvent for solution for injection (injection) in cartridge Each two-chamber cartridge contains 3 mg of somatropin (equivalent to 8.6 mg of lonapegsomatropin [powder]) and 0.279 mL of solvent (liquid). After mixing the somatropin concentration is 11 mg/mL.
 
@@ -2422,11 +2469,7 @@ Skytrofa 11 mg powder and solvent for solution for injection (injection) in cart
 
 Skytrofa 13.3 mg powder and solvent for solution for injection (injection) in cartridge Each two-chamber cartridge contains 13.3 mg of somatropin (equivalent to 37.9 mg of lonapegsomatropin [powder]) and 0.574 mL of solvent (liquid). After mixing the somatropin concentration is 22 mg/mL.
 
-The other ingredients in this medicine (for all strengths) are:
-
-Powder: succinic acid, trehalose dihydrate, trometamol
-
-Solvent: water for injections
+The other ingredients in this medicine (for all strengths) are: Powder: succinic acid, trehalose dihydrate, trometamol Solvent: water for injections
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2434,7 +2477,7 @@ Solvent: water for injections
 
 Skytrofa contains medicine as a powder together with a solvent to make a solution for injection, in a two-chamber cartridge, containing powder in one chamber and the solvent in the other.
 
-The powder is white to off-white, and the solvent is a clear colourless solution. When the powder and solvent has been mixed together into a solution for injection, the solution is colourless and clear.
+The powder is white to off-white, and the solvent is a clear colourless solution. When the powder and solvent have been mixed together into a solution for injection, the solution is colourless and clear.
 
 Each pack of Skytrofa contains 4 single-use two-chamber cartridges packed in individual blisters and 6 disposable injection needles (two spare needles). Each cartridge has a specific label with assigned two-colour coding ribbons only for use by the Skytrofa Auto-Injector to select the correct mixing settings. Strength colours are indicated on the carton and blister foil and should be used to differentiate the individual strengths.
 
@@ -2442,7 +2485,7 @@ The strength colours on the carton and blister indicate the strength of your Sky
 
 | Carton/blister strength colours   | Strength   | Cartridge two-colour label (bottom/top)   |
 |-----------------------------------|------------|-------------------------------------------|
-| Light Apricot                     | 3 mg       | Yellow/green                              |
+| Light apricot                     | 3 mg       | Yellow/green                              |
 | Cyan                              | 3.6 mg     | Yellow/cyan                               |
 | Dark grey                         | 4.3 mg     | Yellow/pink                               |
 | Yellow                            | 5.2 mg     | Green/pink                                |
@@ -2452,7 +2495,7 @@ The strength colours on the carton and blister indicate the strength of your Sky
 | Dark blue                         | 11 mg      | Pink/green                                |
 | Dark red                          | 13.3 mg    | Pink/cyan                                 |
 
-Skytrofa is designed for use with the injection needles supplied and the Skytrofa Auto-Injector. The Skytrofa Auto-Injector is not included in this pack and is supplied separately. The instructions for use for the Skytrofa Auto-Injector comes with your Skytrofa Auto-Injector box.
+Skytrofa is designed for use with the injection needles supplied and the Skytrofa Auto-Injector. The Skytrofa Auto-Injector is not included in this pack and is supplied separately. The instructions for use for the Skytrofa Auto-Injector come with your Skytrofa Auto-Injector box.
 
 ## Marketing Authorisation Holder
 
@@ -2463,6 +2506,8 @@ Ascendis Pharma Endocrinology Division A/S Tuborg Boulevard 12 DK-2900 Hellerup 
 Ascendis Pharma A/S Tuborg Boulevard 12 DK-2900 Hellerup Denmark
 
 ## This leaflet was last revised in
+
+## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
@@ -2541,9 +2586,12 @@ If you keep your medicine in a refrigerator, take it out 15 minutes before use.
 
 ## 3. Insert cartridge
 
-- Insert cartridge into flashing green top.
-- Click cartridge into place. The green top will stop flashing, the green mixing icon will light up and the battery icon will switch off.
-- After clicking the cartridge into place, remove finger from cartridge.
+| • Insert cartridge into flashing green top.                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------------------|
+| • Click cartridge into place. The green top will stop flashing, the green mixing icon will light up and the battery icon will switch off. |
+| • After clicking the cartridge into place, remove finger from cartridge.                                                                  |
+
+<!-- image -->
 
 <!-- image -->
 
@@ -2575,7 +2623,7 @@ If you keep your medicine in a refrigerator, take it out 15 minutes before use.
 - Do not twist.
 - Keep needle cover for later.
 
-(Green eye icon         will light up)
+(Green eye icon will light up)
 
 <!-- image -->
 
@@ -2593,15 +2641,15 @@ If you keep your medicine in a refrigerator, take it out 15 minutes before use.
 
 ## 7. Check mixed solution
 
-- Solution is OK if it is colourless and clear (some air bubbles are OK).
-- Do not use solution if it has visible particles. If visible particles press the green button for 3 seconds and remove cartridge.
+- The mixed solution is OK if it is colourless and clear. It may contain air bubbles. This is normal.
+- Do not use the mixed solution if it has visible particles. If visible particles press the green button for 8 seconds and remove cartridge (step 10).
 
 ## 8. Prepare for injection
 
-| • Choose injection site: stomach, thighs, or buttocks. Change injection site every week.   | Back Front Buttock Stomach (abdomen) Thighs   |
-|--------------------------------------------------------------------------------------------|-----------------------------------------------|
-| • Wash and dry your hands.                                                                 |                                               |
-| • Clean injection site with alcohol wipe. • Do not inject through clothes.                 |                                               |
+| • Choose injection site: stomach, thighs, or buttocks. Change injection site with every injection.   | Back Front Buttock Stomach (abdomen) Thighs   |
+|------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| • Wash and dry your hands.                                                                           |                                               |
+| • Clean injection site with alcohol wipe. • Do not inject through clothes.                           |                                               |
 
 <!-- image -->
 
@@ -2615,7 +2663,7 @@ If you keep your medicine in a refrigerator, take it out 15 minutes before use.
 
 ## 9. Inject medicine
 
-| • Press and hold green top against injection site for 10 to 15 seconds until you hear 2 loud beeps. (Green top will flash twice and the green check mark icon will light up).   |
+| • Press and hold green top against injection site for 10 to 20 seconds until you hear 2 loud beeps. (Green top will flash twice and the green check mark icon will light up).   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | • Remove the auto-injector from skin and wait until you hear 2 loud beeps. (Green top will start flashing).                                                                     |
 
@@ -2636,7 +2684,7 @@ If you keep your medicine in a refrigerator, take it out 15 minutes before use.
 
 <div style=\"page-break-after: always\"></div>
 
-- Remove used cartridge.
+<!-- image -->
 
 ## 11. Dispose cartridge and needle
 
@@ -2651,8 +2699,6 @@ If you keep your medicine in a refrigerator, take it out 15 minutes before use.
 ## 12. Store the auto-injector
 
 - Put on the protective cover and store at room temperature ready for use next time.
-
-<!-- image -->
 
 <!-- image -->
 

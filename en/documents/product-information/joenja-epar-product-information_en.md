@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-28 12:45:39
-document_pages: 32
+document_datetime: 2026-09-25 08:28:56
+document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/joenja-epar-product-information_en.pdf
 document_name: joenja-epar-product-information_en.pdf
 version: success
-processing_time: 12.970744
-conversion_datetime: 2026-06-01 17:11:03.462105
+processing_time: 39.3622067
+conversion_datetime: 2026-09-28 20:12:50.080954
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.35.0
+  docling-jobkit: 3.8.0
+  docling: 2.130.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,7 +44,7 @@ For the full list of excipients, see section 6.1.
 
 Film-coated tablet.
 
-Yellow, oval-shaped, biconvex, bevelled edge film-coated tablet debossed with '70' on one side and 'LNB' on the other side, approximately 16 mm in length, 6.3 mm in width, and 6.0 mm in thickness.
+Yellow, oval-shaped, biconvex, bevelled edge film-coated tablet debossed with \"70\" on one side and \"LNB\" on the other side, approximately 16 mm in length, 6.3 mm in width, and 6.0 mm in thickness.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -106,7 +106,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Immune-related adverse events
 
-Serious, sometimes fatal, immune-related adverse events such as severe infections, severe cutaneous adverse reactions (SCARs), pneumonitis, severe diarrhoea/colitis, and hepatotoxicity have occurred in patients receiving other phosphoinositide 3-kinase delta (PI3K δ ) inhibitors for the treatment of haematological or solid cancers. These serious events have not been associated with the use of Joenja in APDS patients. Joenja is not approved for treatment of haematological or solid cancers.
+Serious, sometimes fatal, immune-related adverse events such as severe infections, severe cutaneous adverse reactions (SCARs), pneumonitis, severe diarrhoea/colitis, and hepatotoxicity have occurred in patients receiving other phosphoinositide 3-kinase delta (PI3Kδ) inhibitors for the treatment of haematological or solid cancers. These serious events have not been associated with the use of Joenja in APDS patients. Joenja is not approved for treatment of haematological or solid cancers.
 
 ## Combination with CYP3A4 inhibitors
 
@@ -132,7 +132,7 @@ For OAT3 substrates with a narrow therapeutic index (e.g., methotrexate), monito
 
 ## UDP-glucuronosyltransferase (UGT) 1A1 substrates
 
-In vitro , leniolisib is an inhibitor of UGT1A1, and although a relevant clinical interaction is not expected, concomitant administration of leniolisib with a UGT1A1 substrate should be avoided (see section 4.5).
+In vitro, leniolisib is an inhibitor of UGT1A1, and although a relevant clinical interaction is not expected, concomitant administration of leniolisib with a UGT1A1 substrate should be avoided (see section 4.5).
 
 ## Gastric acid reducing agents
 
@@ -186,7 +186,7 @@ Leniolisib is an OAT3 inhibitor and may increase systemic exposure to OAT3 subst
 
 ## UDP-glucuronosyltransferase (UGT) 1A1 substrates
 
-In vitro , leniolisib is an inhibitor of UGT1A1, and although a relevant clinical interaction is not expected, concomitant administration of leniolisib with a UGT1A1 substrate (e.g., irinotecan) should be avoided.
+In vitro, leniolisib is an inhibitor of UGT1A1, and although a relevant clinical interaction is not expected, concomitant administration of leniolisib with a UGT1A1 substrate (e.g., irinotecan) should be avoided.
 
 ## Hormonal contraceptives
 
@@ -282,13 +282,13 @@ Pharmacotherapeutic group: Immunostimulants, other immunostimulants, ATC code: L
 
 ## Mechanism of action and pharmacodynamic effects
 
-Leniolisib selectively inhibits PI3Kδ by blocking the active binding site of PI3Kδ. Gain -of-function variants in the gene encoding p110δ catalytic subunit (resulting in APDS1) or loss -of-function variants in the p85α regulatory subunit (resulting in APDS2) both lead to hyperactive PI3Kδ signalling leading to increased production of phosphatidylinositol 3,4,5 trisphosphate and downstream phosphorylated protein kinase B (pAkt) . Through inhibiting PI3Kδ thus decreasing production of PIP3, hyperactivity of the downstream Akt/mammalian target of rapamycin (mTOR) pathway is reduced, subsequent deficiencies and dysregulation of B and T cell populations normalise.
+Leniolisib selectively inhibits PI3Kδ by blocking the active binding site of PI3Kδ. Gain-of-function variants in the gene encoding p110δ catalytic subunit (resulting in APDS1) or loss-of-function variants in the p85α regulatory subunit (resulting in APDS2) both lead to hyperactive PI3Kδ signalling leading to increased production of phosphatidylinositol 3,4,5 trisphosphate and downstream phosphorylated protein kinase B (pAkt). Through inhibiting PI3Kδ thus decreasing production of PIP3, hyperactivity of the downstream Akt/mammalian target of rapamycin (mTOR) pathway is reduced, subsequent deficiencies and dysregulation of B and T cell populations normalise.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
-The efficacy of leniolisib was assessed in Study 2201, a 12-week randomised, blinded, placebocontrolled phase 2/3 study in 31 patients with confirmed APDS-associated pathogenic variant in either PIK3CD or PIK3R1 . Patients were randomized 2:1 to receive either leniolisib 70 mg or placebo twice a day. Patient demographics at baseline are presented in Table 2.
+The efficacy of leniolisib was assessed in Study 2201, a 12-week randomised, blinded, placebocontrolled phase 2/3 study in 31 patients with confirmed APDS-associated pathogenic variant in either PIK3CD or PIK3R1. Patients were randomized 2:1 to receive either leniolisib 70 mg or placebo twice a day. Patient demographics at baseline are presented in Table 2.
 
 Table 2 Baseline demographic and disease characteristics (Study 2201)
 
@@ -314,17 +314,13 @@ Table 2 Baseline demographic and disease characteristics (Study 2201)
 | Not Hispanic or Latino                     | 14 (67)                   | 7 (70)           |
 | Not reported                               | 7 (33)                    | 2 (20)           |
 | Disease characteristics                    |                           |                  |
-| APDS 1 ( PIK3CD variant), n (%)            | 16 (76)                   | 9 (90)           |
-| APDS 2 ( PIK3R1 variant), n (%)            | 5 (24)                    | 1 (10)           |
+| APDS 1 (PIK3CD variant), n (%)             | 16 (76)                   | 9 (90)           |
+| APDS 2 (PIK3R1 variant), n (%)             | 5 (24)                    | 1 (10)           |
 | Concomitant glucocorticoids, n (%)         | 12 (57)                   | 6 (60)           |
-| Concomitant immunoglobulinG (IgG), n (%)   | 14 (67)                   | 7 (70)           |
+| Concomitant immunoglobulin G (IgG), n (%)  | 14 (67)                   | 7 (70)           |
 | Previous rapamycin/sirolimus use, n (%)    | 4 (19)                    | 3 (30)           |
 
-SD - standard deviation
-
-1 Patient age from study Day -4 up to initial dosing
-
-Patients had nodal and/or extranodal lymphoproliferation, as measured by index nodal lesion selected by the Cheson methodology on CT or MRI and clinical findings and manifestations compatible with APDS (e.g., history of repeated oto-sino-pulmonary infections, organ dysfunction). mTOR inhibitors and PI3Kδ inhibitors (selective or non -selective) were prohibited within 6 weeks of baseline and throughout the study. In addition, patients treated with previous or concurrent B cell depleting agents (e.g., rituximab) within 6 months of baseline were excluded from the study, unless absolute B lymphocytes in the blood were normal. B cell depleting agents were prohibited throughout the study.
+Patients had nodal and/or extranodal lymphoproliferation, as measured by index nodal lesion selected by the Cheson methodology on CT or MRI and clinical findings and manifestations compatible with APDS (e.g., history of repeated oto-sino-pulmonary infections, organ dysfunction). mTOR inhibitors and PI3Kδ inhibitors (selective or non-selective) were prohibited within 6 weeks of baseline and throughout the study. In addition, patients treated with previous or concurrent B cell depleting agents (e.g., rituximab) within 6 months of baseline were excluded from the study, unless absolute B lymphocytes in the blood were normal. B cell depleting agents were prohibited throughout the study.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -349,7 +345,9 @@ Table 3 Primary analysis of change from baseline at Week 12 (Day 85)
 
 CI=confidence interval; SD=standard deviation; SE=standard error; SPD=sum of product diameters; vs=versus; LS Mean=least-squares mean
 
-Note: The LS mean change from baseline, difference in LS mean change from baseline between leniolisib and placebo, and its p-value were obtained from an Analysis of Covariance model with treatment as a fixed effect and log10transformed baseline SPD as a covariate. The use of both glucocorticoids and IV Ig at baseline was included as categorical (yes/no) covariates.
+Note: The LS mean change from baseline, difference in LS mean change from baseline between leniolisib and placebo, and its p-value were obtained from an Analysis of Covariance model with treatment as a fixed effect and log10-
+
+transformed baseline SPD as a covariate. The use of both glucocorticoids and IV Ig at baseline was included as categorical (yes/no) covariates.
 
 a Change in index lesion size was measured using the log10 transformed SPD of the largest lymph nodes (maximum of 6) identified as per the Cheson criteria on CT/MRI.
 
@@ -397,7 +395,7 @@ Leniolisib was 60% metabolized by the liver, with CYP3A4 as the most predominant
 
 The mass balance of an oral dose of 70 mg 14 C-leniolisib was 92.5% (standard deviation: 2.3%) 168 hours post dose (morning of Day 8).
 
-14 C-leniolisib was excreted predominately via faeces (67.0%), while excretion via urine was approximately 25.5%. Approximately 70% of the  14 C-leniolisib was recovered within 48 hours. During twice daily dosing approximately 12 hours apart, leniolisib accumulates approximately 1.4-fold in achieving steady state (range of 1.0 to 2.2), consistent with an effective half-life (t1/2) of approximately 7 hours.
+14 C-leniolisib was excreted predominately via faeces (67.0%), while excretion via urine was approximately 25.5%. Approximately 70% of the 14 C-leniolisib was recovered within 48 hours. During twice daily dosing approximately 12 hours apart, leniolisib accumulates approximately 1.4-fold in achieving steady state (range of 1.0 to 2.2), consistent with an effective half-life (t1/2) of approximately 7 hours.
 
 ## Linearity/non-linearity
 
@@ -451,7 +449,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-30 months
+48 months
 
 ## 6.4 Special precautions for storage
 
@@ -471,7 +469,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
+Pharming Technologies B.V.
+
+Darwinweg 24 2333 CR Leiden
+
+The Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
@@ -479,13 +481,15 @@ Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
 
 EU/1/26/2034/001
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 21 May 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+13
 
 <div style=\"page-break-after: always\"></div>
 
@@ -503,7 +507,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden
+
+The Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -532,10 +538,10 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 
 <div style=\"page-break-after: always\"></div>
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Due date                                                              |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Non-interventional post authorisation safety study (PASS): In order to further characterise the long-term safety and efficacy of leniolisib in the treatment of activated phosphoinositide 3-kinase delta syndrome (APDS) in adults and adolescents 12 years of age and older and weighing 45 kg or more, the MAHshall conduct and submit the results of a non-interventional study based on a registry in patients collecting both safety and efficacy endpoints. | Annually (with annual reassessment) Final CSR after 10-year follow up |
-| In order to ensure adequate monitoring of safety and efficacy of leniolisib in the treatment of APDS in adults and adolescents 12 years of age and older and weighing 45 kg or more, theMAH shall provide yearly updates on any new information concerning the safety and efficacy of leniolisib.                                                                                                                                                                  | Annually (with annual reassessment)                                   |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Due date                                                              |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Non-interventional post authorisation safety study (PASS): In order to further characterise the long-term safety and efficacy of leniolisib in the treatment of activated phosphoinositide 3-kinase delta syndrome (APDS) in adults and adolescents 12 years of age and older and weighing 45 kg or more, the MAH shall conduct and submit the results of a non-interventional study based on a registry in patients collecting both safety and efficacy endpoints. | Annually (with annual reassessment) Final CSR after 10-year follow up |
+| In order to ensure adequate monitoring of safety and efficacy of leniolisib in the treatment of APDS in adults and adolescents 12 years of age and older and weighing 45 kg or more, the MAH shall provide yearly updates on any new information concerning the safety and efficacy of leniolisib.                                                                                                                                                                  | Annually (with annual reassessment)                                   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -551,7 +557,7 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -595,18 +601,16 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
 
-The Netherlands
-
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/26/2034/001
 
@@ -618,8 +622,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -631,12 +635,10 @@ Joenja 70 mg
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -644,49 +646,64 @@ NN
 
 BOTTLE LABEL
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Joenja 70 mg film-coated tablets leniolisib
+Joenja 70 mg film-coated tablets
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+leniolisib
+
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each film-coated tablet contains leniolisib phosphate equivalent to 70 mg leniolisib.
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 Also contains lactose monohydrate.
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
-Film-coated tablet 60 film-coated tablets
+Film-coated tablet
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+60 film-coated tablets
 
-Oral use Read the package leaflet before use.
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
+
+Oral use
+
+Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/26/2034/001
 
@@ -698,8 +715,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -711,14 +728,16 @@ Not applicable.
 
 Not applicable.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 Not applicable.
 
+22
+
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGE LEAFLET
+- B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -752,19 +771,19 @@ Joenja contains the active substance leniolisib, which belongs to a group of med
 
 Joenja is used in adults and adolescents aged 12 years and older, and who weigh 45 kg or more, to treat activated phosphoinositide 3-kinase delta syndrome (APDS). In people with APDS, the immune system does not work properly, leaving them unable to fight infections.
 
-The active substance in Joenja, leniolisib, blocks the activation of a protein known as phosphoinositide 3kinase delta (PI3Kδ), which is involved in regulating the immune system. In people with APDS there is excessive activity of PI3Kδ. By blocking the excessive activity of PI3Kδ, leniolisib helps to normalise the immune system, thereby potentially slowing down disease progression.
+The active substance in Joenja, leniolisib, blocks the activation of a protein known as phosphoinositide 3-kinase delta (PI3Kδ), which is involved in regulating the immune system. In people with APDS there is excessive activity of PI3Kδ. By blocking the excessive activity of PI3Kδ, leniolisib helps to normalise the immune system, thereby potentially slowing down disease progression.
 
 ## 2. What you need to know before you take Joenja
 
 ## Do not take Joenja
 
-- if you are allergic to leniolisib or any of the other ingredients of this medicine (listed in section 6 'Contents of the pack and other information')
+- if you are allergic to leniolisib or any of the other ingredients of this medicine (listed in section 6 \"Contents of the pack and other information\")
 
 ## Warnings and precautions
 
 Tell your doctor right away if you become ill while taking Joenja.
 
-Serious and sometimes fatal infections, severe skin reactions (rash, itching, peeling of the skin), breathing difficulties, severe diarrhoea or colitis (inflammation of the intestines), and liver problems have occurred in patients receiving other PI3K δ inhibitors for the treatment of conditions other than APDS. These serious events were not reported in the Joenja clinical trials.
+Serious and sometimes fatal infections, severe skin reactions (rash, itching, peeling of the skin), breathing difficulties, severe diarrhoea or colitis (inflammation of the intestines), and liver problems have occurred in patients receiving other PI3Kδ inhibitors for the treatment of conditions other than APDS. These serious events were not reported in the Joenja clinical trials.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -789,7 +808,7 @@ The following medicines may increase the risk of side effects with Joenja by inc
 
 The following medicines may decrease how well Joenja works by decreasing the amount of Joenja in the blood:
 
-- antacid (aluminium-, magnesium-, and calcium-based antacids, sodium bicarbonate) - for heartburn or indigestion due to excess stomach acid (see section 3, 'How to take Joenja')
+- antacid (aluminium-, magnesium-, and calcium-based antacids, sodium bicarbonate) - for heartburn or indigestion due to excess stomach acid (see section 3, \"How to take Joenja\")
 - avasimibe - used to treat build-up of cholesterol plaque in the arteries
 - bosentan - used to treat pulmonary artery hypertension (PAH)
 - carbamazepine, phenobarbital, phenytoin - used to treat epilepsy
@@ -811,10 +830,9 @@ Joenja may increase the risk of side effects of the following medicines by incre
 - methotrexate - cancer therapy
 - oseltamivir carboxylate - used to treat the influenza virus
 - rosuvastatin, pitavastatin - for lowering cholesterol
+- tenofovir - used to treat HBV and HIV
 
 <div style=\"page-break-after: always\"></div>
-
-## · tenofovir - used to treat HBV and HIV
 
 If you are not sure if the above applies to you, ask your doctor.
 
@@ -864,9 +882,9 @@ If vomiting occurs within 1 hour after taking the tablet, take another tablet ri
 
 Joenja is for oral use. This medicine can be taken with or without meals. The tablets should be swallowed whole. Do not split, crush, or chew the tablets.
 
-<div style=\"page-break-after: always\"></div>
+Take antacids 2 hours before or 2 hours after taking Joenja. Joenja may interact with other medicines (see section 2, \"Other medicines and Joenja\").
 
-Take antacids 2 hours before or 2 hours after taking Joenja. Joenja may interact with other medicines (see section 2, 'Other medicines and Joenja').
+<div style=\"page-break-after: always\"></div>
 
 ## If you take more Joenja than you should
 
@@ -921,9 +939,9 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and bottle after EXP. The expiry date refers to the last day of that month.
 
-<div style=\"page-break-after: always\"></div>
-
 This medicinal product does not require any special storage conditions.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -932,17 +950,21 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Joenja contains
 
 - The active substance is leniolisib. Each film-coated tablet contains leniolisib phosphate equivalent to 70 mg leniolisib.
-- The other ingredients are lactose monohydrate, microcrystalline cellulose (E460), hypromellose (E464), sodium starch glycolate (Type A), magnesium stearate (E572), colloidal anhydrous silica (E551), titanium dioxide (E171), iron oxide monohydrate yellow (E172), iron oxide red (E172), talc (E553b), polyethylene glycol (E1521) (see section 2 'Joenja contains lactose and sodium').
+- The other ingredients are lactose monohydrate, microcrystalline cellulose (E460), hypromellose (E464), sodium starch glycolate (Type A), magnesium stearate (E572), colloidal anhydrous silica (E551), titanium dioxide (E171), iron oxide monohydrate yellow (E172), iron oxide red (E172), talc (E553b), polyethylene glycol (E1521) (see section 2 \"Joenja contains lactose and sodium\").
 
 ## What Joenja looks like and contents of the pack
 
-Joenja 70 mg film-coated tablets are yellow, oval-shaped, biconvex, bevelled edge film-coated tablets, debossed with '70' on one side and 'LNB' on the other side.
+Joenja 70 mg film-coated tablets are yellow, oval-shaped, biconvex, bevelled edge film-coated tablets, debossed with \"70\" on one side and \"LNB\" on the other side.
 
 Each pack contains 1 bottle with 60 tablets.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
+Pharming Technologies B.V.
+
+Darwinweg 24 2333 CR Leiden
+
+The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -952,7 +974,9 @@ Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 
 
 ## България
 
-Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
+
+Tel: +31 (0)71 5247 400
 
 ## Česká republika
 
@@ -960,11 +984,15 @@ Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 
 
 ## Danmark
 
-Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
+
+Tel: +31 (0)71 5247 400
 
 ## Lietuva
 
-Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
+Pharming Technologies B.V.
+
+Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
 
 ## Luxembourg/Luxemburg
 
@@ -976,9 +1004,9 @@ Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 
 
 ## Malta
 
-Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
 
-The Netherlands Tel: +31 (0)71 5247 400
+Tel: +31 (0)71 5247 400
 
 <div style=\"page-break-after: always\"></div>
 
@@ -998,15 +1026,21 @@ Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 
 
 Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +34 (0)900 75 13 23
 
-France Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +33 (0)805 98 79 70
+## France
 
-Hrvatska Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +33 (0)805 98 79 70
 
-Ireland Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
+## Hrvatska
 
-Ísland Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
 
-The Netherlands Tel: +31 (0)71 5247 400
+## Ireland
+
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
+
+## Ísland
+
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
 
 ## Nederland
 
@@ -1016,39 +1050,43 @@ Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 
 
 Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
 
-Österreich Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
+## Österreich
+
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
 
 ## Polska
 
 Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
 
-Portugal Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
+## Portugal
 
-România Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
 
-Slovenija Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
+## România
 
-Slovenská republika Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
 
-Tel: +31 (0)71 5247 400
+## Slovenija
+
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
+
+## Slovenská republika
+
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
 
 <div style=\"page-break-after: always\"></div>
 
 ## Italia
 
-Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
-
-Tel: +39 (0)800 14 39 68
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +39 (0)800 14 39 68
 
 ## Κύπρος
 
-Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
 
-Tel: +31 (0)71 5247 400
+## Latvija
 
-Latvija Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
-
-Tel: +31 (0)71 5247 400
+Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands Tel: +31 (0)71 5247 400
 
 ## This leaflet was last revised in
 
@@ -1059,8 +1097,6 @@ The European Medicines Agency will review any new information on this medicine e
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
-
-Tel: +31 (0)71 5247 400
 
 ## Suomi/Finland
 
@@ -1073,17 +1109,3 @@ Tel: +31 (0)71 5247 400
 Pharming Technologies B.V. Darwinweg 24 2333 CR Leiden The Netherlands
 
 Tel: +31 (0)71 5247 400
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## CONCLUSIONS ON THE GRANTING OF THE MARKETING AUTHORISATION UNDER EXCEPTIONAL CIRCUMSTANCES PRESENTED BY THE EUROPEAN MEDICINES AGENCY
-
-<div style=\"page-break-after: always\"></div>
-
-## Conclusions presented by the European Medicines Agency on:
-
-## · Marketing authorisation under exceptional circumstances
-
-The CHMP having considered the application is of the opinion that the risk-benefit balance is favourable to recommend the granting of the marketing authorisation under exceptional circumstances as further explained in the European Public Assessment Report.

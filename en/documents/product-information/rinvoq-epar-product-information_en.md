@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-17 18:00:33
-document_pages: 113
+document_datetime: 2026-09-25 08:38:06
+document_pages: 159
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rinvoq-epar-product-information_en.pdf
 document_name: rinvoq-epar-product-information_en.pdf
 version: success
-processing_time: 45.8196802
-conversion_datetime: 2026-08-23 00:46:55.86583
+processing_time: 285.88952
+conversion_datetime: 2026-09-28 20:17:49.823045
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.35.0
+  docling-jobkit: 3.8.0
+  docling: 2.130.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,11 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-RINVOQ 15 mg prolonged-release tablets RINVOQ 30 mg prolonged-release tablets RINVOQ 45 mg prolonged-release tablets
+RINVOQ 15 mg prolonged-release tablets
+
+RINVOQ 30 mg prolonged-release tablets
+
+RINVOQ 45 mg prolonged-release tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -32,11 +36,11 @@ RINVOQ 15 mg prolonged-release tablets
 
 Each prolonged-release tablet contains upadacitinib hemihydrate, equivalent to 15 mg of upadacitinib.
 
-## RINVOQ 30 mg prolonged-release tablets
+RINVOQ 30 mg prolonged-release tablets
 
 Each prolonged-release tablet contains upadacitinib hemihydrate, equivalent to 30 mg of upadacitinib.
 
-## RINVOQ 45 mg prolonged-release tablets
+RINVOQ 45 mg prolonged-release tablets
 
 Each prolonged-release tablet contains upadacitinib hemihydrate, equivalent to 45 mg of upadacitinib.
 
@@ -54,7 +58,7 @@ RINVOQ 30 mg prolonged-release tablets
 
 Red 14 x 8 mm, oblong biconvex prolonged-release tablets imprinted on one side with 'a30'.
 
-## RINVOQ 45 mg prolonged-release tablets
+RINVOQ 45 mg prolonged-release tablets
 
 Yellow to mottled yellow 14 x 8 mm, oblong biconvex prolonged-release tablets imprinted on one side with 'a45'.
 
@@ -62,7 +66,7 @@ Yellow to mottled yellow 14 x 8 mm, oblong biconvex prolonged-release tablets im
 
 ## 4.1 Therapeutic indications
 
-## Rheumatoid arthritis
+Rheumatoid arthritis
 
 RINVOQ is indicated for the treatment of moderate to severe active rheumatoid arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more disease-modifying anti-rheumatic drugs (DMARDs). RINVOQ may be used as monotherapy or in combination with methotrexate.
 
@@ -71,6 +75,10 @@ RINVOQ is indicated for the treatment of moderate to severe active rheumatoid ar
 ## Psoriatic arthritis
 
 RINVOQ is indicated for the treatment of active psoriatic arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more DMARDs. RINVOQ may be used as monotherapy or in combination with methotrexate.
+
+## Polyarticular juvenile idiopathic arthritis
+
+RINVOQ is indicated for the treatment of active polyarticular juvenile idiopathic arthritis (polyarticular rheumatoid factor positive [RF+] or negative [RF-], extended oligoarticular), in patients 2 years of age and older who have responded inadequately to, or who are intolerant to one or more DMARDs. RINVOQ may be used as monotherapy or in combination with methotrexate.
 
 ## Axial spondyloarthritis
 
@@ -102,6 +110,8 @@ RINVOQ is indicated for the treatment of non-segmental vitiligo in adults and ad
 
 RINVOQ is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response, lost response or were intolerant to either conventional therapy or a biologic agent.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Crohn's disease
 
 RINVOQ is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response, lost response or were intolerant to either conventional therapy or a biologic agent.
@@ -110,21 +120,35 @@ RINVOQ is indicated for the treatment of adult patients with moderately to sever
 
 Treatment with upadacitinib should be initiated and supervised by physicians experienced in the diagnosis and treatment of conditions for which upadacitinib is indicated.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Posology
 
-## Rheumatoid arthritis, psoriatic arthritis and axial spondyloarthritis
+Rheumatoid arthritis, psoriatic arthritis and axial spondyloarthritis
 
 The recommended dose of upadacitinib is 15 mg once daily.
 
 Consideration should be given to discontinuing treatment in patients with axial spondyloarthritis who have shown no clinical response after 16 weeks of treatment. Some patients with initial partial response may subsequently improve with continued treatment beyond 16 weeks.
+
+Polyarticular juvenile idiopathic arthritis
+
+The recommended dose is based on body weight.
+
+Table 1 Upadacitinib dose for patients with polyarticular juvenile idiopathic arthritis two years of age and older
+
+| Patient weight   | Dosing regimen                                                               |
+|------------------|------------------------------------------------------------------------------|
+| 10 to < 20 kg    | 3 mg (3 ml oral solution) twice daily                                        |
+| 20 to < 30 kg    | 4 mg (4 ml oral solution) twice daily                                        |
+| ≥ 30 kg          | 6 mg (6 ml oral solution) twice daily or 15 mg (one 15 mg tablet) once daily |
+
+RINVOQ tablets and RINVOQ oral solution are not bioequivalent. Therefore, the two pharmaceutical forms are not interchangeable on a milligram-per-milligram basis.
 
 ## Giant cell arteritis
 
 The recommended dose of upadacitinib is 15 mg once daily in combination with a tapering course of corticosteroids. Upadacitinib monotherapy should not be used for the treatment of acute relapses (see section 4.4).
 
 Based upon the chronic nature of giant cell arteritis, upadacitinib 15 mg once daily can be continued as monotherapy following discontinuation of corticosteroids.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Atopic dermatitis
 
@@ -154,8 +178,6 @@ For patients 65 years of age and older, the recommended dose is 15 mg once daily
 
 Efficacy data are available for 24 weeks of treatment. The benefit-risk of treatment should be reassessed at regular intervals on an individual basis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Vitiligo
 
 The recommended dose of upadacitinib is 15 mg once daily for adults and adolescents 12 years of age and older weighing at least 30 kg.
@@ -167,6 +189,8 @@ Consideration should be given to discontinuing upadacitinib treatment in any pat
 ## Induction
 
 The recommended induction dose of upadacitinib is 45 mg once daily for 8 weeks. For patients who do not achieve adequate therapeutic benefit by week 8, upadacitinib 45 mg once daily may be continued for an additional 8-week period (see section 5.1). Upadacitinib should be discontinued in any patient who shows no evidence of therapeutic benefit by week 16.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Maintenance
 
@@ -198,23 +222,23 @@ For patients 65 years of age and older, the recommended maintenance dose is 15 m
 
 In patients who have responded to treatment with upadacitinib, corticosteroids may be reduced and/or discontinued in accordance with standard of care.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Interactions
 
-For patients with ulcerative colitis and Crohn's disease receiving strong inhibitors of cytochrome P450 (CYP) 3A4 (e.g., ketoconazole, clarithromycin), the recommended induction dose is 30 mg once daily and the recommended maintenance dose is 15 mg once daily (see section 4.5).
+For patients with atopic dermatitis receiving strong inhibitors of cytochrome P450 (CYP) 3A4 (e.g., ketoconazole, clarithromycin), the recommended dose of upadacitinib is 15 mg once daily. For patients with ulcerative colitis and Crohn's disease receiving strong CYP3A4 inhibitors, the recommended induction dose is 30 mg once daily and the recommended maintenance dose is 15 mg once daily (see section 4.5).
 
 ## Dose initiation
 
 Treatment should not be initiated in patients with an absolute lymphocyte count (ALC) that is &lt; 0.5 x 10 9 cells/L, an absolute neutrophil count (ANC) that is &lt; 1 x 10 9 cells/L or who have haemoglobin (Hb) levels that are &lt; 8 g/dL (see sections 4.4 and 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Dose interruption
 
 Treatment should be interrupted if a patient develops a serious infection until the infection is controlled.
 
-Interruption of dosing may be needed for management of laboratory abnormalities as described in Table 1.
+Interruption of dosing may be needed for management of laboratory abnormalities as described in Table 2.
 
-Table 1 Laboratory measures and monitoring guidance
+Table 2 Laboratory measures and monitoring guidance
 
 | Laboratory measure              | Action                                                                                                               | Monitoring guidance                                                                                                                                 |
 |---------------------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -226,13 +250,11 @@ Table 1 Laboratory measures and monitoring guidance
 
 ## Special populations
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elderly
 
 ## Rheumatoid arthritis, psoriatic arthritis, and axial spondyloarthritis
 
-There are limited data in patients 75 years of age and older (see section 4.4).
+No dose adjustment is required in patients 65 years of age and older. There are limited data in patients 75 years of age and older (see section 4.4).
 
 ## Atopic dermatitis
 
@@ -241,6 +263,8 @@ For atopic dermatitis, doses higher than 15 mg once daily are not recommended in
 ## Alopecia areata
 
 The safety and efficacy of upadacitinib in patients 65 years of age and older have not yet been established (see section 4.4).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Vitiligo
 
@@ -252,15 +276,16 @@ For ulcerative colitis and Crohn's disease, doses higher than 15 mg once daily f
 
 ## Renal impairment
 
-No dose adjustment is required in patients with mild or moderate renal impairment. There are limited data on the use of upadacitinib in subjects with severe renal impairment (see section 5.2). Upadacitinib should be used with caution in patients with severe renal impairment as described in Table 2. The use of upadacitinib has not been studied in subjects with end stage renal disease and is therefore not recommended for use in these patients.
+No dose adjustment is required in patients with mild or moderate renal impairment. There are limited data on the use of upadacitinib in subjects with severe renal impairment (see section 5.2). Upadacitinib should be used with caution in patients with severe renal impairment as described in Table 3. The use of upadacitinib has not been studied in subjects with end stage renal disease and is therefore not recommended for use in these patients.
 
-Table 2 Recommended dose for severe renal impairment a
+Table 3 Recommended dose for severe renal impairment a
 
 | Therapeutic indication                                                                                                                    | Recommended once daily dose                                             |
 |-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | Rheumatoid arthritis, psoriatic arthritis, axial spondyloarthritis, giant cell arteritis, atopic dermatitis, alopecia areata and vitiligo | 15 mg                                                                   |
 | Ulcerative colitis, Crohn's disease                                                                                                       | Induction: 30 mg                                                        |
 | Ulcerative colitis, Crohn's disease                                                                                                       | Maintenance: 15 mg                                                      |
+| Polyarticular juvenile idiopathic arthritis                                                                                               | No dose adjustment required                                             |
 | a estimated glomerular filtration rate (eGFR) 15 to < 30 ml/min/1.73m 2                                                                   | a estimated glomerular filtration rate (eGFR) 15 to < 30 ml/min/1.73m 2 |
 
 ## Hepatic impairment
@@ -269,13 +294,15 @@ No dose adjustment is required in patients with mild (Child-Pugh A) or moderate 
 
 ## Paediatric population
 
+The safety and efficacy of RINVOQ in children with polyarticular juvenile idiopathic arthritis weighing &lt; 10 kg or younger than 2 years of age have not been established. No data are available.
+
 The safety and efficacy of RINVOQ in children with atopic dermatitis, alopecia areata or vitiligo below the age of 12 years have not been established. No data are available.
 
-The safety and efficacy of RINVOQ in children and adolescents with rheumatoid arthritis, psoriatic arthritis, axial spondyloarthritis, ulcerative colitis, or Crohn's disease, aged 0 to less than 18 years have not yet been established. No data are available.
-
-<div style=\"page-break-after: always\"></div>
+The safety and efficacy of RINVOQ in children and adolescents with psoriatic arthritis, axial spondyloarthritis, ulcerative colitis, or Crohn's disease, aged 0 to less than 18 years have not yet been established. No data are available.
 
 There is no relevant use of RINVOQ in the paediatric population in the indication giant cell arteritis.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Method of administration
 
@@ -292,9 +319,9 @@ RINVOQ is to be taken orally once daily with or without food and may be taken at
 
 Upadacitinib should only be used if no suitable treatment alternatives are available in patients:
 
-- -65 years of age and older;
-- -patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors (such as current or past long-time smokers);
-- -patients with malignancy risk factors (e.g. current malignancy or history of malignancy)
+- 65 years of age and older;
+- patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors (such as current or past long-time smokers);
+- patients with malignancy risk factors (e.g. current malignancy or history of malignancy)
 
 ## Use in patients 65 years of age and older
 
@@ -316,12 +343,11 @@ Consider the risks and benefits of treatment prior to initiating upadacitinib in
 
 - with chronic or recurrent infection
 - who have been exposed to tuberculosis
-
-<div style=\"page-break-after: always\"></div>
-
 - with a history of a serious or an opportunistic infection
 - who have resided or travelled in areas of endemic tuberculosis or endemic mycoses; or
 - with underlying conditions that may predispose them to infection.
+
+<div style=\"page-break-after: always\"></div>
 
 Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with upadacitinib. Upadacitinib therapy should be interrupted if a patient develops a serious or opportunistic infection. A patient who develops a new infection during treatment with upadacitinib should undergo prompt and complete diagnostic testing appropriate for an immunocompromised patient; appropriate antimicrobial therapy should be initiated, the patient should be closely monitored, and upadacitinib therapy should be interrupted if the patient is not responding to antimicrobial therapy. Upadacitinib therapy may be resumed once the infection is controlled.
 
@@ -349,9 +375,9 @@ No data are available on the response to vaccination with live vaccines in patie
 
 ## Malignancy
 
-<div style=\"page-break-after: always\"></div>
-
 Lymphoma and other malignancies have been reported in patients receiving JAK inhibitors, including upadacitinib.
+
+<div style=\"page-break-after: always\"></div>
 
 In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of malignancies, particularly lung cancer, lymphoma and non-melanoma skin cancer (NMSC) was observed with tofacitinib compared to tumour necrosis factor (TNF) inhibitors.
 
@@ -365,7 +391,7 @@ NMSCs have been reported in patients treated with upadacitinib (see section 4.8)
 
 ## Haematological abnormalities
 
-Absolute Neutrophil Count (ANC) &lt; 1 x 10 9  cells/L, Absolute Lymphocyte Count (ALC) &lt; 0.5 x 10 9 cells/L and haemoglobin &lt; 8 g/dL were reported in ≤1 % of patients in clinical trials (see section 4.8). Treatment should not be initiated, or should be temporarily interrupted, in patients with an ANC &lt; 1 x 10 9 cells/L, ALC &lt; 0.5 x 10 9 cells/L or haemoglobin &lt; 8 g/dL observed during routine patient management (see section 4.2).
+Absolute Neutrophil Count (ANC) &lt; 1 x 10 9 cells/L, Absolute Lymphocyte Count (ALC) &lt; 0.5 x 10 9 cells/L and haemoglobin &lt; 8 g/dL were reported in ≤1 % of patients in clinical trials (see section 4.8). Treatment should not be initiated, or should be temporarily interrupted, in patients with an ANC &lt; 1 x 10 9 cells/L, ALC &lt; 0.5 x 10 9 cells/L or haemoglobin &lt; 8 g/dL observed during routine patient management (see section 4.2).
 
 ## Gastrointestinal perforations
 
@@ -383,9 +409,9 @@ Therefore, in patients 65 years of age and older, patients who are current or pa
 
 ## Lipids
 
-<div style=\"page-break-after: always\"></div>
-
 Treatment with upadacitinib was associated with dose-dependent increases in lipid parameters, including total cholesterol, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein (HDL) cholesterol (see section 4.8). Elevations in LDL cholesterol decreased to pre-treatment levels in response to statin therapy, although evidence is limited. The effect of these lipid parameter elevations on cardiovascular morbidity and mortality has not been determined (see section 4.2 for monitoring guidance).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hepatic transaminase elevations
 
@@ -401,7 +427,7 @@ Events of deep venous thrombosis (DVT) and pulmonary embolism (PE) were observed
 
 In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a dose-dependent higher rate of VTE including DVT and PE was observed with tofacitinib compared to TNF inhibitors.
 
-In patients with cardiovascular or malignancy risk factors (see also section 4.4 'Major adverse cardiovascular events' and 'Malignancy') upadacitinib should only be used if no suitable treatment alternatives are available.
+In patients with cardiovascular or malignancy risk factors (see also section 4.4 \"Major adverse cardiovascular events\" and \"Malignancy\") upadacitinib should only be used if no suitable treatment alternatives are available.
 
 In patients with known VTE risk factors other than cardiovascular or malignancy risk factors, upadacitinib should be used with caution. VTE risk factors other than cardiovascular or malignancy risk factors include previous VTE, patients undergoing major surgery, immobilisation, use of combined hormonal contraceptives or hormone replacement therapy, and inherited coagulation disorder. Patients should be re-evaluated periodically during upadacitinib treatment to assess for changes in VTE risk. Patients with signs and symptoms of VTE should be promptly evaluated and treatment should be discontinued in patients with suspected VTE, regardless of dose.
 
@@ -415,15 +441,15 @@ Serious hypersensitivity reactions such as anaphylaxis and angioedema have been 
 
 ## Hypoglycaemia in patients treated for diabetes
 
-<div style=\"page-break-after: always\"></div>
-
 There have been reports of hypoglycaemia following initiation of JAK inhibitors, including upadacitinib, in patients receiving treatment for diabetes. Dose adjustment of anti-diabetic medicinal products may be necessary in the event that hypoglycaemia occurs.
 
-## Medication Residue in Stool
+<div style=\"page-break-after: always\"></div>
+
+## Medication residue in stool
 
 Reports of medication residue in stool or ostomy output have occurred in patients taking upadacitinib. Most reports described anatomic (e.g., ileostomy, colostomy, intestinal resection) or functional gastrointestinal conditions with shortened gastrointestinal transit times. Patients should be instructed to contact their healthcare professional if medication residue is observed repeatedly. Patients should be clinically monitored, and alternative treatment should be considered if there is an inadequate therapeutic response.
 
-## Giant Cell Arteritis
+## Giant cell arteritis
 
 Upadacitinib monotherapy should not be used for the treatment of acute relapses as efficacy in this setting has not been established. Corticosteroids should be given according to medical judgement and practice guidelines.
 
@@ -435,7 +461,7 @@ Upadacitinib is metabolised mainly by CYP3A4. Therefore, upadacitinib plasma exp
 
 ## Co-administration with CYP3A4 inhibitors
 
-Upadacitinib exposure is increased when co-administered with strong CYP3A4 inhibitors (such as ketoconazole, itraconazole, posaconazole, voriconazole, clarithromycin, and grapefruit). In a clinical study, co-administration of upadacitinib with ketoconazole resulted in 70% and 75% increases in upadacitinib Cmax and AUC, respectively. Upadacitinib 15 mg once daily should be used with caution in patients receiving chronic treatment with strong CYP3A4 inhibitors. Upadacitinib 30 mg once daily dose is not recommended for patients with atopic dermatitis or alopecia areata receiving chronic treatment with strong CYP3A4 inhibitors. For patients with ulcerative colitis or Crohn's disease using strong CYP3A4 inhibitors, the recommended induction dose is 30 mg once daily and the recommended maintenance dose is 15 mg once daily (see section 4.2). Alternatives to strong CYP3A4 inhibitors should be considered when used in the long-term. Food or drink containing grapefruit should be avoided during treatment with upadacitinib.
+Upadacitinib exposure is increased when co-administered with strong CYP3A4 inhibitors (such as ketoconazole, itraconazole, posaconazole, voriconazole, clarithromycin, and grapefruit). In a clinical study, co-administration of upadacitinib with ketoconazole resulted in 70% and 75% increases in upadacitinib Cmax and AUC, respectively. Upadacitinib 15 mg tablets once daily or 3 mg, 4 mg, or 6 mg of the oral solution twice daily should be used with caution in patients receiving chronic treatment with strong CYP3A4 inhibitors. For patients with atopic dermatitis or alopecia areata using strong CYP3A4 inhibitors, the recommended dose of upadacitinib is 15 mg once daily. For patients with ulcerative colitis or Crohn's disease using strong CYP3A4 inhibitors, the recommended induction dose is 30 mg once daily and the recommended maintenance dose is 15 mg once daily (see section 4.2). Alternatives to strong CYP3A4 inhibitors should be considered when used in the long-term. Food or drink containing grapefruit should be avoided during treatment with upadacitinib.
 
 ## Co-administration with CYP3A4 inducers
 
@@ -449,7 +475,7 @@ Administration of multiple 30 mg or 45 mg once daily doses of upadacitinib to he
 
 <div style=\"page-break-after: always\"></div>
 
-Upadacitinib has no relevant effects on plasma exposures of ethinylestradiol, levonorgestrel, methotrexate, or medicinal products that are substrates for metabolism by CYP1A2, CYP2B6, CYP2C9, or CYP2C19.
+Upadacitinib has no relevant effects on plasma exposures of ethinyl estradiol, levonorgestrel, methotrexate, or medicinal products that are substrates for metabolism by CYP1A2, CYP2B6, CYP2C9, or CYP2C19.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -459,7 +485,7 @@ Women of childbearing potential have to use effective contraception during treat
 
 ## Pregnancy
 
-There are no or limited data on the use of upadacitinib in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Upadacitinib was teratogenic in rats and rabbits with effects in bones in rat foetuses and in the heart in rabbit foetuses when exposed in utero .
+There are no or limited data on the use of upadacitinib in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Upadacitinib was teratogenic in rats and rabbits with effects in bones in rat foetuses and in the heart in rabbit foetuses when exposed in utero.
 
 Upadacitinib is contraindicated during pregnancy (see section 4.3).
 
@@ -477,11 +503,11 @@ Upadacitinib should not be used during breast-feeding. A decision must be made w
 
 The effect of upadacitinib on human fertility has not been evaluated. Animal studies do not indicate effects with respect to fertility (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 Upadacitinib may have a minor influence on the ability to drive and use machines because dizziness and vertigo may occur during treatment with RINVOQ (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -499,49 +525,50 @@ The safety profile of upadacitinib with long-term treatment was generally simila
 
 ## Tabulated list of adverse reactions
 
-The following list of adverse reactions is based on experience from clinical studies and post-marketing experience. The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000). The frequencies in Table 3 are based on the higher of the rates for adverse reactions reported with RINVOQ in clinical trials of rheumatologic disease (15 mg), atopic dermatitis (15 mg and 30 mg), alopecia areata (15 mg and 30 mg), vitiligo (15 mg), ulcerative colitis (15 mg, 30 mg and 45 mg), or Crohn's disease (15 mg, 30 mg, and 45 mg). When notable differences in frequency were observed between indications, these are presented in the footnotes below the table.
-
-## Table 3 Adverse reactions
-
-| System Organ Class              | Very common                                 | Common                                                                                                       | Uncommon                               | Rare   |
-|---------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------|--------|
-| Infections and infestations     | Upper respiratory tract infections (URTI) a | Bronchitis a,b Herpes zoster a Herpes simplex a Folliculitis Influenza Urinary tract infection Pneumonia a,h | Oral candidiasis Diverticulitis Sepsis |        |
-| Neoplasms benign, malignant and |                                             | Non-melanoma skin cancer f                                                                                   |                                        |        |
+The following list of adverse reactions is based on clinical studies and post-marketing experience in adults and adolescents. The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000). The frequencies in Table 4 are based on the higher of the rates for adverse reactions reported with RINVOQ in clinical trials of rheumatologic disease (15 mg tablet), atopic dermatitis (15 mg and 30 mg tablets), alopecia areata (15 mg and 30 mg tablets), vitiligo (15 mg tablet), ulcerative colitis (15 mg, 30 mg and 45 mg tablets), or Crohn's disease (15 mg, 30 mg, and 45 mg tablets). When notable differences in frequency were observed between indications, these are presented in the footnotes below the table.
 
 <div style=\"page-break-after: always\"></div>
 
-| unspecified (including cysts and polyps)             |              |                                                                        |                                        |                        |
-|------------------------------------------------------|--------------|------------------------------------------------------------------------|----------------------------------------|------------------------|
-| Blood and lymphatic system disorders                 |              | Anaemia a Neutropenia a Lymphopenia                                    |                                        |                        |
-| Immune system disorders                              |              | Urticaria c,g                                                          | Serious hypersensitivity reactions a,e |                        |
-| Metabolism and nutrition disorders                   |              | Hypercholesterolae mia a,b Hyperlipidaemia a,b                         | Hypertriglyceridaem ia                 |                        |
-| Nervous system disorders                             |              | Headache a,j Dizziness                                                 |                                        |                        |
-| Ear and labyrinth disorders                          |              | Vertigo a                                                              |                                        |                        |
-| Respiratory, thoracic and mediastinal disorders      |              | Cough                                                                  |                                        |                        |
-| Gastrointestinal disorders                           |              | Abdominal pain a Nausea                                                | Gastrointestinal perforation i         |                        |
-| Skin and subcutaneous tissue disorders               | Acne a,c,d,g | Rash a                                                                 |                                        |                        |
-| Reproductive system and breast disorders             |              |                                                                        |                                        | Semen discolouration l |
-| General disorders and administration site conditions |              | Fatigue Pyrexia Peripheral oedema a,k                                  |                                        |                        |
-| Investigations                                       |              | Blood CPK increased ALT increased b AST increased b Weight increased g |                                        |                        |
+## Table 4 Adverse reactions
 
-- c In rheumatologic disease trials, the frequency was common for acne and uncommon for urticaria.
-- d In ulcerative colitis trials, the frequency was common for acne.
-- e Serious hypersensitivity reactions including anaphylactic reaction and angioedema
-- f Most events reported as basal cell carcinoma and squamous cell carcinoma of skin
-- g In Crohn's disease, the frequency was common for acne, and uncommon for urticaria and weight increased.
-- h  Pneumonia was common in Crohn's disease and uncommon across other indications.
-- i Frequency is based on Crohn's disease clinical trials.
-- j Headache was very common in the giant cell arteritis trial.
-- k Frequency is based on the giant cell arteritis trial.
-- l Reports of semen discolouration, mostly blue and less frequently green, have occurred predominantly in patients taking upadacitinib for ulcerative colitis or Crohn's disease. The clinical significance of semen discolouration is unknown.
+| System organ class                                                       | Very common                                 | Common                                                                                                       | Uncommon                               | Rare                   |
+|--------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------|------------------------|
+| Infections and infestations                                              | Upper respiratory tract infections (URTI) a | Bronchitis a,b Herpes zoster a Herpes simplex a Folliculitis Influenza Urinary tract infection Pneumonia a,h | Oral candidiasis Diverticulitis Sepsis |                        |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |                                             | Non-melanoma skin cancer f                                                                                   |                                        |                        |
+| Blood and lymphatic system disorders                                     |                                             | Anaemia a Neutropenia a Lymphopenia                                                                          |                                        |                        |
+| Immune system disorders                                                  |                                             | Urticaria c,g                                                                                                | Serious hypersensitivity reactions a,e |                        |
+| Metabolism and nutrition disorders                                       |                                             | Hypercholesterolaemia a,b Hyperlipidaemia a,b                                                                | Hypertriglyceridaemia                  |                        |
+| Nervous system disorders                                                 |                                             | Headache a,j Dizziness                                                                                       |                                        |                        |
+| Ear and labyrinth disorders                                              |                                             | Vertigo a                                                                                                    |                                        |                        |
+| Respiratory, thoracic and mediastinal disorders                          |                                             | Cough                                                                                                        |                                        |                        |
+| Gastrointestinal disorders                                               |                                             | Abdominal pain a Nausea                                                                                      | Gastrointestinal perforation i         |                        |
+| Skin and subcutaneous tissue disorders                                   | Acne a,c,d,g                                | Rash a                                                                                                       |                                        |                        |
+| Reproductive system and breast disorders                                 |                                             |                                                                                                              |                                        | Semen discolouration l |
+| General disorders and administration site conditions                     |                                             | Fatigue Pyrexia Peripheral oedema a,k                                                                        |                                        |                        |
+| Investigations                                                           |                                             | Blood CPK increased ALT increased b AST increased b Weight increased g                                       |                                        |                        |
+| a Presented as grouped term                                              | a Presented as grouped term                 |                                                                                                              |                                        |                        |
+
+<div style=\"page-break-after: always\"></div>
+
+| b In atopic dermatitis trials, the frequency of bronchitis, hypercholesterolaemia, hyperlipidaemia, ALT increased, and AST increased was uncommon. c In rheumatologic disease trials, the frequency was common for acne and uncommon for urticaria. d   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| In ulcerative colitis trials, the frequency was common for acne.                                                                                                                                                                                        |
+| e Serious hypersensitivity reactions including anaphylactic reaction and angioedema                                                                                                                                                                     |
+| f Most events reported as basal cell carcinoma and squamous cell carcinoma of skin                                                                                                                                                                      |
+| g In Crohn's disease, the frequency was common for acne, and uncommon for urticaria and weight increased.                                                                                                                                               |
+| h Pneumonia was common in Crohn's disease and uncommon across other indications.                                                                                                                                                                        |
+| i Frequency is based on Crohn's disease clinical trials.                                                                                                                                                                                                |
+| j Headache was very common in the giant cell arteritis trial.                                                                                                                                                                                           |
+| k Frequency is based on the giant cell arteritis trial.                                                                                                                                                                                                 |
+| l Reports of semen discolouration, mostly blue and less frequently green, have occurred predominantly in patients taking upadacitinib for ulcerative colitis or Crohn's disease. The clinical significance of semen discolouration is unknown.          |
 
 ## Description of selected adverse reactions
 
 ## Rheumatoid arthritis
 
-Infections In placebo-controlled clinical studies with background DMARDs, the frequency of infection over 12/14 weeks in the upadacitinib 15 mg group was 27.4% compared to 20.9% in the placebo group. In methotrexate (MTX)-controlled studies, the frequency of infection over 12/14 weeks in the upadacitinib 15 mg monotherapy group was 19.5% compared to 24.0% in the MTX group. The overall long-term rate of infections for the upadacitinib 15 mg group across all five Phase 3 clinical studies (2 630 patients) was 93.7 events per 100 patient-years.
+## Infections
 
-<div style=\"page-break-after: always\"></div>
+In placebo-controlled clinical studies with background DMARDs, the frequency of infection over 12/14 weeks in the upadacitinib 15 mg group was 27.4% compared to 20.9% in the placebo group. In methotrexate (MTX)-controlled studies, the frequency of infection over 12/14 weeks in the upadacitinib 15 mg monotherapy group was 19.5% compared to 24.0% in the MTX group. The overall long-term rate of infections for the upadacitinib 15 mg group across all five Phase 3 clinical studies (2 630 patients) was 93.7 events per 100 patient-years.
 
 In placebo-controlled clinical studies with background DMARDs, the frequency of serious infection over 12/14 weeks in the upadacitinib 15 mg group was 1.2% compared to 0.6% in the placebo group. In MTX-controlled studies, the frequency of serious infection over 12/14 weeks in the upadacitinib 15 mg monotherapy group was 0.6% compared to 0.4% in the MTX group. The overall long-term rate of serious infections for the upadacitinib 15 mg group across all five Phase 3 clinical studies was 3.8 events per 100 patient-years. The most common serious infection was pneumonia. The rate of serious infections remained stable with long-term exposure.
 
@@ -555,6 +582,8 @@ The long-term rate of herpes zoster for the upadacitinib 15 mg group across all 
 
 In placebo-controlled studies with background DMARDs, for up to 12/14 weeks, alanine transaminase (ALT) and aspartate transaminase (AST) elevations ≥ 3 x upper limit of normal (ULN) in at least one measurement were observed in 2.1% and 1.5% of patients treated with upadacitinib 15 mg, compared to 1.5% and 0.7%, respectively, of patients treated with placebo. Of the 22 cases of hepatic transaminase elevations, most were asymptomatic and transient.
 
+<div style=\"page-break-after: always\"></div>
+
 In MTX-controlled studies, for up to 12/14 weeks, ALT and AST elevations ≥ 3 x ULN in at least one measurement were observed in 0.8% and 0.4% of patients treated with upadacitinib 15 mg, compared to 1.9% and 0.9%, respectively, of patients treated with MTX.
 
 The pattern and incidence of elevation in ALT/AST remained stable over time including in long-term extension studies.
@@ -562,8 +591,6 @@ The pattern and incidence of elevation in ALT/AST remained stable over time incl
 ## Lipid elevations
 
 Upadacitinib 15 mg treatment was associated with increases in lipid parameters including total cholesterol, triglycerides, LDL cholesterol and HDL cholesterol. There was no change in the LDL/HDL ratio. Elevations were observed at 2 to 4 weeks of treatment and remained stable with longer-term treatment. Among patients in the controlled studies with baseline values below the specified limits, the following frequencies of patients were observed to shift to above the specified limits on at least one occasion during 12/14 weeks (including patients who had an isolated elevated value):
-
-<div style=\"page-break-after: always\"></div>
 
 - Total cholesterol ≥ 5.17 mmol/L (200 mg/dL): 62% vs. 31%, in the upadacitinib 15 mg and placebo groups, respectively
 - LDL cholesterol ≥ 3.36 mmol/L (130 mg/dL): 42% vs. 19%, in the upadacitinib 15 mg and placebo groups, respectively
@@ -582,19 +609,19 @@ In placebo-controlled studies with background DMARDs, for up to 12/14 weeks, dec
 
 Overall, the safety profile observed in patients with active psoriatic arthritis treated with upadacitinib 15 mg was consistent with the safety profile observed in patients with rheumatoid arthritis. A higher rate of serious infections (2.6 events per 100 patient-years and 1.3 events per 100 patient-years, respectively) and hepatic transaminase elevations (ALT elevations Grade 3 and higher rates 1.4% and 0.4%, respectively) was observed in patients treated with upadacitinib in combination with MTX therapy compared to patients treated with monotherapy.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Axial spondyloarthritis
 
-Overall, the safety profile observed in patients with active axial spondyloarthritis treated with upadacitinib 15 mg was consistent with the safety profile observed in patients with rheumatoid arthritis. No new safety findings were identified.
+Overall, the safety profile observed in patients with active axial spondyloarthritis treated with upadacitinib 15 mg was consistent with the safety profile observed in patients with rheumatoid arthritis.
 
 ## Giant cell arteritis
 
 Overall, the safety profile observed in patients with giant cell arteritis treated with upadacitinib 15 mg was generally consistent with the known safety profile for upadacitinib.
 
-## Serious Infections
+## Serious infections
 
 In the placebo-controlled clinical study, the frequency of serious infections over 52 weeks was 5.7% in the upadacitinib 15 mg group and 10.7% in the placebo group. The long-term rate of serious infections was 5.9 events per 100 patient-years for the upadacitinib 15 mg group and 10.5 events per 100 patientyears for the placebo group.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Opportunistic infections (excluding tuberculosis)
 
@@ -614,19 +641,19 @@ In placebo-controlled clinical studies, the frequency of serious infection over 
 
 In the placebo-controlled period of the clinical studies, all opportunistic infections (excluding TB and herpes zoster) reported were eczema herpeticum. The frequency of eczema herpeticum over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 0.7% and 0.8% compared to 0.4% in the placebo group, respectively. The long-term rate of eczema herpeticum for the upadacitinib 15 mg and 30 mg groups was 1.6 and 1.8 events per 100 patient-years, respectively. One case of esophageal candidiasis was reported with upadacitinib 30 mg.
 
+<div style=\"page-break-after: always\"></div>
+
 The long-term rate of herpes zoster for the upadacitinib 15 mg and 30 mg groups was 3.5 and 5.2 events per 100 patient-years, respectively. Most of the herpes zoster events involved a single dermatome and were non-serious.
 
 ## Laboratory abnormalities
 
-Dose-dependent changes in ALT increased and/or AST increased (≥ 3 x ULN), lipid parameters, CPK values (&gt; 5 x ULN), and neutropenia ( ANC &lt; 1 x 10 9  cells/L) associated with upadacitinib treatment were similar to what was observed in the rheumatologic disease clinical studies.
+Dose-dependent changes in ALT increased and/or AST increased (≥ 3 x ULN), lipid parameters, CPK values (&gt; 5 x ULN), and neutropenia (ANC &lt; 1 x 10 9 cells/L) associated with upadacitinib treatment were similar to what was observed in the rheumatologic disease clinical studies.
 
 Small increases in LDL cholesterol were observed after week 16 in atopic dermatitis studies. At week 52, the mean increase in LDL cholesterol from baseline was 0.41 mmol/L for upadacitinib 15 mg and 0.56 mmol/L for upadacitinib 30 mg.
 
 ## Alopecia areata
 
 The safety profile of upadacitinib 15 mg and 30 mg observed in patients with alopecia areata was generally consistent with the known safety profile in patients with atopic dermatitis. No new safety findings were identified.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Vitiligo
 
@@ -644,6 +671,8 @@ In the placebo-controlled induction studies, the frequency of infection over 8 w
 
 In the placebo-controlled induction studies, the frequency of serious infection over 8 weeks in both the upadacitinib 45 mg group and the placebo group was 1.3%. No additional serious infections were observed over 8-week extended treatment with upadacitinib 45 mg. In the placebo-controlled maintenance study, the frequency of serious infection over 52 weeks in the upadacitinib 15 mg and 30 mg groups was 3.6% and 3.2%, respectively, compared to 3.3% in the placebo group. The longterm rate of serious infections for the upadacitinib 15 mg and 30 mg groups was 3.0 and 4.6 events per 100 patient-years, respectively. The most frequently reported serious infection in the induction and maintenance phases was COVID-19 pneumonia.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Opportunistic infections (excluding tuberculosis)
 
 In the placebo-controlled induction studies over 8 weeks, the frequency of opportunistic infection (excluding tuberculosis and herpes zoster) in the upadacitinib 45 mg group was 0.4% and 0.3% in the placebo group. No additional opportunistic infections (excluding tuberculosis and herpes zoster) were observed over 8-week extended treatment with upadacitinib 45 mg. In the placebo-controlled maintenance study over 52 weeks, the frequency of opportunistic infection (excluding tuberculosis and herpes zoster) in the upadacitinib 15 mg and 30 mg groups was 0.8% and 0.8%, respectively, compared to 0.8% in the placebo group. The long-term rate of opportunistic infections (excluding tuberculosis and herpes zoster) for the upadacitinib 15 mg and 30 mg groups was 0.3 and 0.6 events per 100 patient-years, respectively.
@@ -652,19 +681,17 @@ In the placebo-controlled induction studies over 8 weeks, the frequency of herpe
 
 ## Gastrointestinal perforations
 
-In the placebo-controlled maintenance period, gastrointestinal perforation was reported in 1 patient treated with placebo (1.5 per 100 patient-years) and no patients treated with upadacitinib 15 mg or 30 mg. In the long-term extension study, 1 patient treated with upadacitinib 15 mg (0.1 per 100
-
-<div style=\"page-break-after: always\"></div>
-
-patient-years) and 1 patient treated with upadacitinib 30 mg (&lt;0.1 per 100 patient-years) reported events.
+In the placebo-controlled maintenance period, gastrointestinal perforation was reported in 1 patient treated with placebo (1.5 per 100 patient-years) and no patients treated with upadacitinib 15 mg or 30 mg. In the long-term extension study, 1 patient treated with upadacitinib 15 mg (0.1 per 100 patient-years) and 1 patient treated with upadacitinib 30 mg (&lt;0.1 per 100 patient-years) reported events.
 
 ## Laboratory abnormalities
 
-In the induction and maintenance clinical studies, the laboratory changes in ALT increased and/or AST increased (≥ 3 x ULN), CPK values (&gt; 5 x ULN), and neutropenia (ANC &lt; 1 x 10 9  cells/L) associated with upadacitinib treatment were generally similar to what was observed in the rheumatologic disease and atopic dermatitis clinical studies. Dose-dependent changes for these laboratory parameters associated with 15 mg and 30 mg upadacitinib treatment were observed.
+In the induction and maintenance clinical studies, the laboratory changes in ALT increased and/or AST increased (≥ 3 x ULN), CPK values (&gt; 5 x ULN), and neutropenia (ANC &lt; 1 x 10 9 cells/L) associated with upadacitinib treatment were generally similar to what was observed in the rheumatologic disease and atopic dermatitis clinical studies. Dose-dependent changes for these laboratory parameters associated with 15 mg and 30 mg upadacitinib treatment were observed.
 
 In the placebo-controlled induction studies for up to 8 weeks, decreases in lymphocyte counts below 0.5 x 10 9 cells/L in at least one measurement occurred in 2.0% and 0.8% of patients in the upadacitinib 45 mg and placebo groups, respectively. In the placebo-controlled maintenance study, for up to 52 weeks, decreases in lymphocyte counts below 0.5 x 10 9 cells/L in at least one measurement occurred in 1.6%, 1.2% and 0.8% of patients in the upadacitinib 15 mg, 30 mg and placebo groups, respectively. In clinical studies, treatment was interrupted in response to ALC &lt; 0.5 x 10 9 cells/L (see section 4.2). No notable mean changes of lymphocyte counts were observed during upadacitinib treatment over time.
 
 Elevations in lipid parameters were observed at 8 weeks of treatment with upadacitinib 45 mg and remained generally stable with longer-term treatment with upadacitinib 15 mg and 30 mg. Among patients in the placebo-controlled induction studies with baseline values below the specified limits, the following frequencies of patients were observed to shift to above the specified limits on at least one occasion during 8 weeks (including patients who had an isolated elevated value):
+
+<div style=\"page-break-after: always\"></div>
 
 - Total cholesterol ≥ 5.17 mmol/L (200 mg/dL): 49% vs. 11%, in the upadacitinib 45 mg and placebo groups, respectively
 - LDL cholesterol ≥ 3.36 mmol/L (130 mg/dL): 27% vs. 9%, in the upadacitinib 45 mg and placebo groups, respectively
@@ -683,15 +710,15 @@ In the placebo-controlled induction studies, the frequency of serious infection 
 
 During the placebo-controlled period in the Phase 3 induction clinical studies, gastrointestinal perforation was reported in 1 patient (0.1%) treated with upadacitinib 45 mg and no patients on placebo through 12 weeks. In all patients treated with upadacitinib 45 mg (n=938) during the induction studies, gastrointestinal perforation was reported in 4 patients (0.4%).
 
-<div style=\"page-break-after: always\"></div>
-
 In the long-term placebo-controlled period, gastrointestinal perforation was reported in 1 patient each treated with placebo (0.7 per 100 patient-years), upadacitinib 15 mg (0.4 per 100 patient-years), and upadacitinib 30 mg (0.4 per 100 patient-years). In all patients treated with rescue upadacitinib 30 mg (n=336), gastrointestinal perforation was reported in 3 patients (0.8 per 100 patient-years) through long-term treatment.
 
 ## Laboratory abnormalities
 
-In the induction and maintenance clinical studies, the laboratory changes in ALT increased and/or AST increased (≥ 3 x ULN), CPK values (&gt; 5 x ULN), neutropenia (ANC &lt; 1 x 10 9  cells/L), and lipid parameters associated with upadacitinib treatment were generally similar to what was observed in the rheumatologic disease, atopic dermatitis and ulcerative colitis clinical studies. Dose-dependent changes for these laboratory parameters associated with 15 mg and 30 mg upadacitinib treatment were observed.
+In the induction and maintenance clinical studies, the laboratory changes in ALT increased and/or AST increased (≥ 3 x ULN), CPK values (&gt; 5 x ULN), neutropenia (ANC &lt; 1 x 10 9 cells/L), and lipid parameters associated with upadacitinib treatment were generally similar to what was observed in the rheumatologic disease, atopic dermatitis and ulcerative colitis clinical studies. Dose-dependent changes for these laboratory parameters associated with 15 mg and 30 mg upadacitinib treatment were observed.
 
 In the placebo-controlled induction studies for up to 12 weeks, decreases in lymphocyte counts below 0.5 x 10 9 cells/L in at least one measurement occurred in 2.2% and 2.0% of patients in the upadacitinib 45 mg and placebo groups, respectively. In the placebo-controlled maintenance study, for up to 52 weeks, decreases in lymphocyte counts below 0.5 x 10 9 cells/L in at least one measurement occurred in 4.6%, 5.2% and 1.8% of patients in the upadacitinib 15 mg, 30 mg and placebo groups, respectively. In clinical studies, treatment was interrupted in response to ALC &lt; 0.5 x 10 9 cells/L (see section 4.2). No notable mean changes of lymphocyte counts were observed during upadacitinib treatment over time.
+
+<div style=\"page-break-after: always\"></div>
 
 In the placebo-controlled induction studies for up to 12 weeks, decreases in haemoglobin concentration to below 8 g/dL in at least one measurement occurred in 2.7% and 1.4% of patients in the upadacitinib 45 mg and placebo groups, respectively. In the placebo-controlled maintenance study, for up to 52 weeks, decreases in haemoglobin concentration below 8 g/dL in at least one measurement occurred in 1.4%, 4.4% and 2.8% of patients in the upadacitinib 15 mg, 30 mg and placebo groups, respectively. In clinical studies, treatment was interrupted in response to Hb &lt; 8 g/dL (see section 4.2). No notable mean changes of haemoglobin concentration were observed during upadacitinib treatment over time.
 
@@ -705,11 +732,13 @@ Of the 612 patients treated in the vitiligo Phase 3 clinical studies, 55 were 65
 
 ## Paediatric population
 
+## Polyarticular juvenile idiopathic arthritis
+
+A total of 122 paediatric patients (2 to &lt; 18 years of age) with polyarticular juvenile idiopathic arthritis were treated in an open-label, single-arm study, representing 254.6 patient-years of exposure, of whom 113 were exposed to upadacitinib for at least one year. Overall, the safety profile observed in paediatric patients with polyarticular juvenile idiopathic arthritis treated with upadacitinib was consistent with the known safety profile for upadacitinib.
+
 ## Atopic dermatitis
 
-A total of 541 adolescents aged 12 to 17 years with atopic dermatitis were treated in the global Phase 3 studies (n=343) and the supplemental adolescent substudies (n=198), of whom 264 were exposed to 15 mg and 265 were exposed to 30 mg. The safety profile for upadacitinib 15 mg and 30 mg in adolescents was similar to that in adults. With long-term exposure, the adverse drug reaction of skin papilloma was reported in 3.4% and 6.8% of adolescent patients with atopic dermatitis in the upadacitinib 15 mg and 30 mg groups, respectively.
-
-<div style=\"page-break-after: always\"></div>
+A total of 541 adolescents aged 12 to 17 years with atopic dermatitis were treated in the global Phase 3 studies (n=343) and the supplemental adolescent substudies (n=198), of whom 264 were exposed to 15 mg and 265 were exposed to 30 mg. The safety profile for upadacitinib 15 mg and 30 mg in adolescents was similar to that in adults. With long-term exposure, the adverse reaction of skin papilloma was reported in 3.4% and 6.8% of adolescent patients with atopic dermatitis in the upadacitinib 15 mg and 30 mg groups, respectively.
 
 ## Alopecia areata
 
@@ -718,6 +747,8 @@ A total of 117 adolescents aged 12 to 17 years weighing at least 30 kg with alop
 ## Vitiligo
 
 A total of 52 adolescents with vitiligo aged 12 to 17 years weighing at least 30 kg were treated with upadacitinib 15 mg in the Phase 3 studies, of whom 37 received upadacitinib 15 mg during the placebo-controlled period. The safety profile of upadacitinib 15 mg observed in adolescent patients with vitiligo was generally consistent with the known safety profile in adolescent patients with atopic dermatitis. No new safety findings were identified. There were no serious adverse events reported in the adolescent population treated with upadacitinib in the placebo-controlled period.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -763,102 +794,99 @@ The influence of upadacitinib on the humoral response following the administrati
 
 ## Clinical efficacy and safety
 
-<div style=\"page-break-after: always\"></div>
-
 ## Rheumatoid arthritis
 
-The efficacy and safety of upadacitinib 15 mg once daily was assessed in five Phase 3 randomised, double-blind, multicentre studies in patients with moderately to severely active rheumatoid arthritis and fulfilling the ACR/EULAR 2010 classification criteria (see Table 4). Patients 18 years of age and older were eligible to participate. The presence of at least 6 tender and 6 swollen joints and evidence of systemic inflammation based on elevation of hsCRP was required at baseline. Four studies included long-term extensions for up to 5 years, and one study (SELECT-COMPARE) included a long-term extension for up to 10 years.
+The efficacy and safety of upadacitinib 15 mg once daily was assessed in five Phase 3 randomised, double-blind, multicentre studies in patients with moderately to severely active rheumatoid arthritis and fulfilling the ACR/EULAR 2010 classification criteria (see Table 5). Patients 18 years of age and older were eligible to participate. The presence of at least 6 tender and 6 swollen joints and evidence of systemic inflammation based on elevation of hsCRP was required at baseline. Four studies included long-term extensions for up to 5 years, and one study (SELECT-COMPARE) included a long-term extension for up to 10 years.
 
 The primary analysis for each of these studies included all randomised subjects who received at least 1 dose of upadacitinib or placebo, and non-responder imputation was used for categorical endpoints.
 
+<div style=\"page-break-after: always\"></div>
+
 Across the Phase 3 studies, the efficacy seen with upadacitinib 15 mg QD was generally similar to that observed with upadacitinib 30 mg QD.
 
-Table 4 Clinical trials summary
+Table 5 Clinical trials summary
 
 | Study name          | Population (n)     | Treatment arms                                                             | Key outcome measures                                                                                                                                                                                                                                                                             |
 |---------------------|--------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SELECT-EARLY        | MTX-naïve a (947)  | • Upadacitinib 15 mg • Upadacitinib 30 mg • MTX Monotherapy                | • Primary endpoint: clinical remission (DAS28-CRP) at week 24 • Low disease activity (DAS28-CRP) • ACR50 • Radiographic progression (mTSS) • Physical function (HAQ-DI) • SF-36 PCS                                                                                                              |
-| SELECT- MONOTHERAPY | MTX-IR b (648)     | • Upadacitinib 15 mg • Upadacitinib 30 mg • MTX Monotherapy                | • Primary endpoint: low disease activity (DAS28-CRP) at week 14 • Clinical remission (DAS28-CRP) • ACR20 • Physical function (HAQ-DI) • SF-36 PCS                                                                                                                                                |
-| SELECT-NEXT         | csDMARD-IR c (661) | • Upadacitinib 15 mg • Upadacitinib 30 mg • Placebo On background csDMARDs | • Morning stiffness • Primary endpoint: low disease activity (DAS28-CRP) at week 12 • Clinical remission (DAS28-CRP) • ACR20 • Physical function (HAQ-DI) • SF-36 PCS • Low disease activity (CDAI) • Morning stiffness • FACIT-F                                                                |
+| SELECT- MONOTHERAPY | MTX-IR b (648)     | • Upadacitinib 15 mg • Upadacitinib 30 mg • MTX Monotherapy                | • Primary endpoint: low disease activity (DAS28-CRP) at week 14 • Clinical remission (DAS28-CRP) • ACR20 • Physical function (HAQ-DI) • SF-36 PCS • Morning stiffness                                                                                                                            |
+| SELECT-NEXT         | csDMARD-IR c (661) | • Upadacitinib 15 mg • Upadacitinib 30 mg • Placebo On background csDMARDs | • Primary endpoint: low disease activity (DAS28-CRP) at week 12 • Clinical remission (DAS28-CRP) • ACR20 • Physical function (HAQ-DI) • SF-36 PCS • Low disease activity (CDAI) • Morning stiffness • FACIT-F                                                                                    |
 | SELECT- COMPARE     | MTX-IR d (1,629)   | • Upadacitinib 15 mg • Placebo • Adalimumab 40 mg On background MTX        | • Primary endpoint: clinical remission (DAS28-CRP) at week 12 • Low disease activity (DAS28-CRP) • ACR20 • Low disease activity (DAS28-CRP) vs adalimumab • Radiographic progression (mTSS) • Physical function (HAQ-DI) • SF-36 PCS • Low disease activity (CDAI) • Morning stiffness • FACIT-F |
+| SELECT- BEYOND      | bDMARD-IR e (499)  | • Upadacitinib 15 mg • Upadacitinib 30 mg • Placebo On background csDMARDs | • Primary endpoint: low disease activity (DAS28-CRP) at week 12 • ACR20 • Physical function (HAQ-DI) • SF-36 PCS                                                                                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| SELECT- BEYOND   | bDMARD-IR e (499)   | • Upadacitinib 15 mg • Upadacitinib 30 mg • Placebo On background csDMARDs   | • Primary endpoint: low disease activity (DAS28-CRP) at week 12 • ACR20 • Physical function (HAQ-DI) • SF-36 PCS   |
-|------------------|---------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+Abbreviations: ACR20 (or 50) = American College of Rheumatology ≥20% (or ≥50%) improvement; bDMARD = biologic disease-modifying anti-rheumatic drug, CRP = C-Reactive Protein, DAS28 = Disease Activity Score 28 joints, mTSS = modified Total Sharp Score, csDMARD = conventional synthetic disease-modifying anti-rheumatic drug,
 
-Abbreviations: ACR20 (or 50) = American College of Rheumatology ≥20% (or ≥50%) improvement; bDMARD = biologic disease-modifying anti-rheumatic drug, CRP = C-Reactive Protein, DAS28 = Disease Activity Score 28 joints, mTSS = modified Total Sharp Score, csDMARD = conventional synthetic disease-modifying anti-rheumatic drug, HAQ-DI = Health Assessment Questionnaire-Disability Index, SF-36 PCS = Short Form (36) Health Survey (SF-36) Physical Component Summary, CDAI = Clinical Disease Activity Index, FACIT-F = Functional Assessment of
+HAQ-DI = Health Assessment Questionnaire-Disability Index, SF-36 PCS = Short Form (36) Health Survey (SF-36) Physical Component Summary, CDAI = Clinical Disease Activity Index, FACIT-F = Functional Assessment of Chronic Illness Therapy-Fatigue score, IR = inadequate responder, MTX = methotrexate, n = number randomised
 
-Chronic Illness Therapy-Fatigue score, IR = inadequate responder, MTX = methotrexate, n = number randomised
-
-- a.  Patients were naïve to MTX or received no more than 3 weekly MTX doses
-2. b  Patients had inadequate response to MTX
-3. c  Patients who had an inadequate response to csDMARDs; patients with prior exposure to at most one bDMARD were eligible (up to 20% of total number of patients) if they had either limited exposure (&lt;3 months) or had to discontinue the bDMARD due to intolerability
-4. d  Patients who had an inadequate response to MTX; patients with prior exposure to at most one bDMARD (except adalimumab) were eligible (up to 20% of total study number of patients) if they had either limited exposure (&lt;3 months) or had to discontinue the bDMARD due to intolerability
-5. e  Patients who had an inadequate response or intolerance to at least one bDMARD
+- a. Patients were naïve to MTX or received no more than 3 weekly MTX doses
+2. b Patients had inadequate response to MTX
+3. c Patients who had an inadequate response to csDMARDs; patients with prior exposure to at most one bDMARD were eligible (up to 20% of total number of patients) if they had either limited exposure (&lt;3 months) or had to discontinue the bDMARD due to intolerability
+4. d Patients who had an inadequate response to MTX; patients with prior exposure to at most one bDMARD (except adalimumab) were eligible (up to 20% of total study number of patients) if they had either limited exposure (&lt;3 months) or had to discontinue the bDMARD due to intolerability
+5. e Patients who had an inadequate response or intolerance to at least one bDMARD
 
 ## Clinical response
 
-Remission and low disease activity
+## Remission and low disease activity
 
-In the studies, a significantly higher proportion of patients treated with upadacitinib 15 mg achieved low disease activity (DAS28-CRP ≤3.2) and clinical remission (DAS28-CRP &lt;2.6) compared to placebo, MTX, or adalimumab (Table 5). Compared to adalimumab, significantly higher rates of low disease activity were achieved at week 12 in SELECT-COMPARE. Overall, both low disease activity and clinical remission rates were consistent across patient populations, with or without MTX. At 3 years, 297/651 (45.6%) and 111/327 (33.9%) patients remained on originally randomised treatment of upadacitinib 15 mg or adalimumab, respectively, in SELECT-COMPARE, and 216/317 (68.1%) and 149/315 (47.3%) patients remained on originally randomised treatment of upadacitinib 15 mg or MTX monotherapy, respectively, in SELECT-EARLY. Among the patients who remained on their originally allocated treatment, low disease activity and clinical remission were maintained through 3 years.
+In the studies, a significantly higher proportion of patients treated with upadacitinib 15 mg achieved low disease activity (DAS28-CRP ≤3.2) and clinical remission (DAS28-CRP &lt;2.6) compared to placebo, MTX, or adalimumab (Table 6). Compared to adalimumab, significantly higher rates of low disease activity were achieved at week 12 in SELECT-COMPARE. Overall, both low disease activity and clinical remission rates were consistent across patient populations, with or without MTX. At 3 years, 297/651 (45.6%) and 111/327 (33.9%) patients remained on originally randomised treatment of upadacitinib 15 mg or adalimumab, respectively, in SELECT-COMPARE, and 216/317 (68.1%) and 149/315 (47.3%) patients remained on originally randomised treatment of upadacitinib 15 mg or MTX monotherapy, respectively, in SELECT-EARLY. Among the patients who remained on their originally allocated treatment, low disease activity and clinical remission were maintained through 3 years.
 
 ## ACR response
 
-In all studies, more patients treated with upadacitinib 15 mg achieved ACR20, ACR50, and ACR70 responses at 12 weeks compared to placebo, MTX, or adalimumab (Table 5). Time to onset of efficacy was rapid across measures with greater responses seen as early as week 1 for ACR20. Durable response rates were observed (with or without MTX), with ACR20/50/70 responses maintained through 3 years among the patients who remained on their originally allocated treatment.
+In all studies, more patients treated with upadacitinib 15 mg achieved ACR20, ACR50, and ACR70 responses at 12 weeks compared to placebo, MTX, or adalimumab (Table 6). Time to onset of efficacy was rapid across measures with greater responses seen as early as week 1 for ACR20. Durable response rates were observed (with or without MTX), with ACR20/50/70 responses maintained through 3 years among the patients who remained on their originally allocated treatment.
 
 Treatment with upadacitinib 15 mg, alone or in combination with csDMARDs, resulted in improvements in individual ACR components, including tender and swollen joint counts, patient and physician global assessments, HAQ-DI, pain assessment and hsCRP.
 
-## Table 5 Response and remission
+## Table 6 Response and remission
 
-| Study   | SELECT EARLY MTX-Naїve   | SELECT EARLY MTX-Naїve   | SELECT MONO MTX-IR   | SELECT MONO MTX-IR   | SELECT NEXT csDMARD-IR   | SELECT NEXT csDMARD-IR   | SELECT COMPARE MTX-IR   | SELECT COMPARE MTX-IR   | SELECT COMPARE MTX-IR   | SELECT BEYOND bDMARD-IR   | SELECT BEYOND bDMARD-IR   |
-|---------|--------------------------|--------------------------|----------------------|----------------------|--------------------------|--------------------------|-------------------------|-------------------------|-------------------------|---------------------------|---------------------------|
-|         | MTX                      | UPA 15mg                 | MTX                  | UPA 15mg             | PBO                      | UPA 15mg                 | PBO                     | UPA 15mg                | ADA 40mg                | PBO                       | UPA 15mg                  |
+| Study                              | SELECT EARLY MTX-Naїve - MTX       | SELECT EARLY MTX-Naїve - UPA 15mg   | SELECT MONO MTX-IR - MTX           | SELECT MONO MTX-IR - UPA 15mg      | SELECT NEXT csDMARD-IR - PBO       | SELECT NEXT csDMARD-IR - UPA 15mg   | SELECT COMPARE MTX-IR - PBO        | SELECT COMPARE MTX-IR - UPA 15mg   | SELECT COMPARE MTX-IR - ADA 40mg   | SELECT BEYOND bDMARD-IR - PBO      | SELECT BEYOND bDMARD-IR - UPA 15mg   |
+|------------------------------------|------------------------------------|-------------------------------------|------------------------------------|------------------------------------|------------------------------------|-------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------------------------------------|
+| N                                  | 314                                | 317                                 | 216                                | 217                                | 221                                | 221                                 | 651                                | 651                                | 327                                | 169                                | 164                                  |
+| Week                               |                                    |                                     |                                    |                                    |                                    |                                     |                                    |                                    |                                    |                                    |                                      |
+| LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients)  | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients)  | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients)   |
+| 12 a /14 b                         | 28                                 | 53 g                                | 19                                 | 45 e                               | 17                                 | 48 e                                | 14                                 | 45 e,h                             | 29                                 | 14                                 | 43 e                                 |
+| 24 c /26 d                         | 32                                 | 60 f                                |                                    |                                    |                                    |                                     | 18                                 | 55 g,h                             | 39                                 |                                    |                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| N                                  | 314                                | 317                                | 216                                | 217                                | 221                                | 221                                | 651                                | 651                                | 327                                | 169                                | 164                                |
-|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
-| Week                               |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |
-| LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) |
-| 12 a /14 b                         | 28                                 | 53 g                               | 19                                 | 45 e                               | 17                                 | 48 e                               | 14                                 | 45 e,h                             | 29                                 | 14                                 | 43 e                               |
-| 24 c /26 d                         | 32                                 | 60 f                               |                                    |                                    |                                    |                                    | 18                                 | 55 g,h                             | 39                                 |                                    |                                    |
-| 48                                 | 39                                 | 59 g                               |                                    |                                    |                                    |                                    |                                    | 50 h                               | 35                                 |                                    |                                    |
-| CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  |
-| 12 a /14 b                         | 14                                 | 36 g                               | 8                                  | 28 e                               | 10                                 | 31 e                               | 6                                  | 29 e,h                             | 18                                 | 9                                  | 29 g                               |
-| 24 c /26 d                         | 18                                 | 48 e                               |                                    |                                    |                                    |                                    | 9                                  | 41 g,h                             | 27                                 |                                    |                                    |
-| 48                                 | 29                                 | 49 g                               |                                    |                                    |                                    |                                    |                                    | 38 i                               | 28                                 |                                    |                                    |
-| ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)              |
-| 12 a /14 b                         | 54                                 | 76 g                               | 41                                 | 68 e                               | 36                                 | 64 e                               | 36                                 | 71 e,j                             | 63                                 | 28                                 | 65 e                               |
-| 24 c /26 d                         | 59                                 | 79 g                               |                                    |                                    |                                    |                                    | 36                                 | 67 g,i                             | 57                                 |                                    |                                    |
-| 48                                 | 57                                 | 74 g                               |                                    |                                    |                                    |                                    |                                    | 65 i                               | 54                                 |                                    |                                    |
-| ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)              |
-| 12 a /14 b                         | 28                                 | 52 g                               | 15                                 | 42 g                               | 15                                 | 38 g                               | 15                                 | 45 g,h                             | 29                                 | 12                                 | 34 g                               |
-| 24 c /26 d                         | 33                                 | 60 e                               |                                    |                                    |                                    |                                    | 21                                 | 54 g,h                             | 42                                 |                                    |                                    |
-| 48                                 | 43                                 | 63 g                               |                                    |                                    |                                    |                                    |                                    | 49 i                               | 40                                 |                                    |                                    |
-| ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)              |
-| 12 a /14 b                         | 14                                 | 32 g                               | 3                                  | 23 g                               | 6                                  | 21 g                               | 5                                  | 25 g,h                             | 13                                 | 7                                  | 12                                 |
-| 24 c /26 d                         | 18                                 | 44 g                               |                                    |                                    |                                    |                                    | 10                                 | 35 g,h                             | 23                                 |                                    |                                    |
-| 48                                 | 29                                 | 51 g                               |                                    |                                    |                                    |                                    |                                    | 36 h                               | 23                                 |                                    |                                    |
-| CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           |
-| 12 a /14 b                         | 30                                 | 46 g                               | 25                                 | 35 l                               | 19                                 | 40 e                               | 16                                 | 40 e,h                             | 30                                 | 14                                 | 32 g                               |
-| 24 c /26 d                         | 38                                 | 56 g                               |                                    |                                    |                                    |                                    | 22                                 | 53 g,h                             | 38                                 |                                    |                                    |
-| 48                                 | 43                                 | 60 g                               |                                    |                                    |                                    |                                    |                                    | 47 h                               | 34                                 |                                    |                                    |
+| 48                                | 39                                | 59 g                              |                                   |                                   |                                   |                                   |                                   | 50 h                              | 35                                |                                   |                                   |
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+| CR DAS28-CRP <2.6 (% of patients) | CR DAS28-CRP <2.6 (% of patients) | CR DAS28-CRP <2.6 (% of patients) | CR DAS28-CRP <2.6 (% of patients) | CR DAS28-CRP <2.6 (% of patients) | CR DAS28-CRP <2.6 (% of patients) | CR DAS28-CRP <2.6 (% of patients) | CR DAS28-CRP <2.6 (% of patients) | CR DAS28-CRP <2.6 (% of patients) | CR DAS28-CRP <2.6 (% of patients) | CR DAS28-CRP <2.6 (% of patients) | CR DAS28-CRP <2.6 (% of patients) |
+| 12 a /14 b                        | 14                                | 36 g                              | 8                                 | 28 e                              | 10                                | 31 e                              | 6                                 | 29 e,h                            | 18                                | 9                                 | 29 g                              |
+| 24 c /26 d                        | 18                                | 48 e                              |                                   |                                   |                                   |                                   | 9                                 | 41 g,h                            | 27                                |                                   |                                   |
+| 48                                | 29                                | 49 g                              |                                   |                                   |                                   |                                   |                                   | 38 i                              | 28                                |                                   |                                   |
+| ACR20 (% of patients)             | ACR20 (% of patients)             | ACR20 (% of patients)             | ACR20 (% of patients)             | ACR20 (% of patients)             | ACR20 (% of patients)             | ACR20 (% of patients)             | ACR20 (% of patients)             | ACR20 (% of patients)             | ACR20 (% of patients)             | ACR20 (% of patients)             | ACR20 (% of patients)             |
+| 12 a /14 b                        | 54                                | 76 g                              | 41                                | 68 e                              | 36                                | 64 e                              | 36                                | 71 e,j                            | 63                                | 28                                | 65 e                              |
+| 24 c /26 d                        | 59                                | 79 g                              |                                   |                                   |                                   |                                   | 36                                | 67 g,i                            | 57                                |                                   |                                   |
+| 48                                | 57                                | 74 g                              |                                   |                                   |                                   |                                   |                                   | 65 i                              | 54                                |                                   |                                   |
+| ACR50 (% of patients)             | ACR50 (% of patients)             | ACR50 (% of patients)             | ACR50 (% of patients)             | ACR50 (% of patients)             | ACR50 (% of patients)             | ACR50 (% of patients)             | ACR50 (% of patients)             | ACR50 (% of patients)             | ACR50 (% of patients)             | ACR50 (% of patients)             | ACR50 (% of patients)             |
+| 12 a /14 b                        | 28                                | 52 g                              | 15                                | 42 g                              | 15                                | 38 g                              | 15                                | 45 g,h                            | 29                                | 12                                | 34 g                              |
+| 24 c /26 d                        | 33                                | 60 e                              |                                   |                                   |                                   |                                   | 21                                | 54 g,h                            | 42                                |                                   |                                   |
+| 48                                | 43                                | 63 g                              |                                   |                                   |                                   |                                   |                                   | 49 i                              | 40                                |                                   |                                   |
+| ACR70 (% of patients)             | ACR70 (% of patients)             | ACR70 (% of patients)             | ACR70 (% of patients)             | ACR70 (% of patients)             | ACR70 (% of patients)             | ACR70 (% of patients)             | ACR70 (% of patients)             | ACR70 (% of patients)             | ACR70 (% of patients)             | ACR70 (% of patients)             | ACR70 (% of patients)             |
+| 12 a /14 b                        | 14                                | 32 g                              | 3                                 | 23 g                              | 6                                 | 21 g                              | 5                                 | 25 g,h                            | 13                                | 7                                 | 12                                |
+| 24 c /26 d                        | 18                                | 44 g                              |                                   |                                   |                                   |                                   | 10                                | 35 g,h                            | 23                                |                                   |                                   |
+| 48                                | 29                                | 51 g                              |                                   |                                   |                                   |                                   |                                   | 36 h                              | 23                                |                                   |                                   |
+| CDAI ≤10 (% of patients)          | CDAI ≤10 (% of patients)          | CDAI ≤10 (% of patients)          | CDAI ≤10 (% of patients)          | CDAI ≤10 (% of patients)          | CDAI ≤10 (% of patients)          | CDAI ≤10 (% of patients)          | CDAI ≤10 (% of patients)          | CDAI ≤10 (% of patients)          | CDAI ≤10 (% of patients)          | CDAI ≤10 (% of patients)          | CDAI ≤10 (% of patients)          |
+| 12 a /14 b                        | 30                                | 46 g                              | 25                                | 35 l                              | 19                                | 40 e                              | 16                                | 40 e,h                            | 30                                | 14                                | 32 g                              |
+| 24 c /26 d                        | 38                                | 56 g                              |                                   |                                   |                                   |                                   | 22                                | 53 g,h                            | 38                                |                                   |                                   |
+| 48                                | 43                                | 60 g                              |                                   |                                   |                                   |                                   |                                   | 47 h                              | 34                                |                                   |                                   |
 
 Abbreviations: ACR20 (or 50 or 70) = American College of Rheumatology ≥20% (or ≥50% or ≥70%) improvement; ADA = adalimumab; CDAI = Clinical Disease Activity Index; CR = Clinical Remission; CRP = C-Reactive Protein, DAS28 = Disease Activity Score 28 joints; IR = inadequate responder; LDA = Low Disease Activity; MTX = methotrexate; PBO = placebo; UPA= upadacitinib
 
-- a  SELECT-NEXT, SELECT-EARLY, SELECT-COMPARE, SELECT-BEYOND
-- b  SELECT-MONOTHERAPY
-- c  SELECT-EARLY
-- d  SELECT-COMPARE
+- a SELECT-NEXT, SELECT-EARLY, SELECT-COMPARE, SELECT-BEYOND
+- b SELECT-MONOTHERAPY
+- c SELECT-EARLY
+- d SELECT-COMPARE
 - e multiplicity-controlled p≤0.001upadacitinib vs placebo or MTX comparison
 - f multiplicity-controlled p≤0.01 upadacitinib vs placebo or MTX comparison
-- g  nominal p≤0.001 upadacitinib vs placebo or MTX comparison
-- h  nominal p≤0.001upadacitinib vs adalimumab comparison
-- i  nominal p≤0.01 upadacitinib vs adalimumab comparison
-- j  nominal p&lt;0.05 upadacitinib vs adalimumab comparison
-- k  nominal p≤0.01 upadacitinib vs placebo or MTX comparison
-- l  nominal p&lt;0.05 upadacitinib vs MTX comparison
+- g nominal p≤0.001 upadacitinib vs placebo or MTX comparison
+- h nominal p≤0.001upadacitinib vs adalimumab comparison
+- i nominal p≤0.01 upadacitinib vs adalimumab comparison
+- j nominal p&lt;0.05 upadacitinib vs adalimumab comparison
+- k nominal p≤0.01 upadacitinib vs placebo or MTX comparison
+- l nominal p&lt;0.05 upadacitinib vs MTX comparison
 
 Note: Week 48-data derived from analysis on Full Analysis set (FAS) by randomised group using NonResponder Imputation
 
@@ -866,15 +894,16 @@ Note: Week 48-data derived from analysis on Full Analysis set (FAS) by randomise
 
 Inhibition of progression of structural joint damage was assessed using the modified Total Sharp Score (mTSS) and its components, the erosion score and joint space narrowing score, at weeks 24/26 and week 48 in SELECT-EARLY and SELECT-COMPARE.
 
+Treatment with upadacitinib 15 mg resulted in significantly greater inhibition of the progression of structural joint damage compared to placebo in combination with MTX in SELECT-COMPARE and as monotherapy compared to MTX in SELECT-EARLY (Table 7). Analyses of erosion and joint space narrowing scores were consistent with the overall scores. The proportion of patients with no radiographic progression (mTSS change ≤ 0) was significantly higher with upadacitinib 15 mg in both studies. Inhibition of progression of structural joint damage was maintained through week 96 in both studies for patients who remained on their originally allocated treatment with upadacitinib 15 mg
+
 <div style=\"page-break-after: always\"></div>
 
-Treatment with upadacitinib 15 mg resulted in significantly greater inhibition of the progression of structural joint damage compared to placebo in combination with MTX in SELECT-COMPARE and as monotherapy compared to MTX in SELECT-EARLY (Table 6). Analyses of erosion and joint space narrowing scores were consistent with the overall scores. The proportion of patients with no radiographic progression (mTSS change ≤ 0) was significantly higher with upadacitinib 15 mg in both studies. Inhibition of progression of structural joint damage was maintained through week 96 in both studies for patients who remained on their originally allocated treatment with upadacitinib 15 mg (based on available results from 327 patients in SELECT-COMPARE and 238 patients in SELECTEARLY).
+(based on available results from 327 patients in SELECT-COMPARE and 238 patients in SELECTEARLY).
 
-Table 6 Radiographic changes
+Table 7 Radiographic changes
 
-| Study                                                     | SELECT EARLY MTX-Naїve                                    | SELECT EARLY MTX-Naїve                                    | SELECT COMPARE MTX-IR                                     | SELECT COMPARE MTX-IR                                     | SELECT COMPARE MTX-IR                                     |
+| Study - Treatment Group                                   | SELECT EARLY MTX-Naїve - MTX                              | SELECT EARLY MTX-Naїve - UPA 15 mg                        | SELECT COMPARE MTX-IR - PBO a                             | SELECT COMPARE MTX-IR - UPA 15 mg                         | SELECT COMPARE MTX-IR - ADA 40 mg                         |
 |-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
-| Treatment Group                                           | MTX                                                       | UPA 15 mg                                                 | PBO a                                                     | UPA 15 mg                                                 | ADA 40 mg                                                 |
 | Modified Total Sharp Score, mean change from baseline     | Modified Total Sharp Score, mean change from baseline     | Modified Total Sharp Score, mean change from baseline     | Modified Total Sharp Score, mean change from baseline     | Modified Total Sharp Score, mean change from baseline     | Modified Total Sharp Score, mean change from baseline     |
 | Week 24 b /26 c                                           | 0.7                                                       | 0.1 f                                                     | 0.9                                                       | 0.2 g                                                     | 0.1                                                       |
 | Week 48                                                   | 1.0                                                       | 0.03 e                                                    | 1.7                                                       | 0.3 e                                                     | 0.4                                                       |
@@ -884,48 +913,46 @@ Table 6 Radiographic changes
 
 Abbreviations: ADA = adalimumab; IR = inadequate responder; MTX = methotrexate; PBO = placebo; UPA= upadacitinib
 
-a All placebo data at week 48 derived using linear extrapolation
-
-b  SELECT-EARLY
-
-- c  SELECT-COMPARE
-- d  No progression defined as mTSS change ≤ 0
-- e  nominal p≤0.001 upadacitinib vs placebo or MTX comparison
+- a All placebo data at week 48 derived using linear extrapolation
+- b SELECT-EARLY
+- c SELECT-COMPARE
+- d No progression defined as mTSS change ≤ 0
+- e nominal p≤0.001 upadacitinib vs placebo or MTX comparison
 - f multiplicity-controlled p≤0.01 upadacitinib vs placebo or MTX comparison
 - g multiplicity-controlled p≤0.001 upadacitinib vs placebo or MTX comparison
 
 Physical function response and health-related outcomes
 
-Treatment with upadacitinib 15 mg, alone or in combination with csDMARDs, resulted in a significantly greater improvement in physical function compared to all comparators as measured by HAQ-DI (see Table 7). Improvement in HAQ-DI was maintained through 3 years for patients who remained on their originally allocated treatment with upadacitinib 15 mg based on available results from SELECT-COMPARE and SELECT-EARLY.
+Treatment with upadacitinib 15 mg, alone or in combination with csDMARDs, resulted in a significantly greater improvement in physical function compared to all comparators as measured by HAQ-DI (see Table 8). Improvement in HAQ-DI was maintained through 3 years for patients who remained on their originally allocated treatment with upadacitinib 15 mg based on available results from SELECT-COMPARE and SELECT-EARLY.
 
-Table 7 Mean change from baseline in HAQ-DI a,b
+Table 8 Mean change from baseline in HAQ-DI a,b
 
-| Study                | SELECT EARLY MTX-Naїve   | SELECT EARLY MTX-Naїve   | SELECT MONO MTX-IR   | SELECT MONO MTX-IR   | SELECT NEXT csDMARD-IR   | SELECT NEXT csDMARD-IR   | SELECT COMPARE MTX-IR   | SELECT COMPARE MTX-IR   | SELECT COMPARE MTX-IR   | SELECT BEYOND BIO-IR   | SELECT BEYOND BIO-IR   |
-|----------------------|--------------------------|--------------------------|----------------------|----------------------|--------------------------|--------------------------|-------------------------|-------------------------|-------------------------|------------------------|------------------------|
-| Treatment group      | MTX                      | UPA 15mg                 | MTX                  | UPA 15mg             | PBO                      | UPA 15mg                 | PBO                     | UPA 15mg                | ADA 40mg                | PBO                    | UPA 15mg               |
-| N                    | 313                      | 317                      | 216                  | 216                  | 220                      | 216                      | 648                     | 644                     | 324                     | 165                    | 163                    |
-| Baseline score, mean | 1.6                      | 1.6                      | 1.5                  | 1.5                  | 1.4                      | 1.5                      | 1.6                     | 1.6                     | 1.6                     | 1.6                    | 1.7                    |
-| Week 12 c /14 d      | -0.5                     | -0.8 h                   | -0.3                 | -0.7 g               | -0.3                     | -0.6 g                   | -0.3                    | -0.6 g,i                | -0.5                    | -0.2                   | -0.4 g                 |
-
-<div style=\"page-break-after: always\"></div>
-
-| Week 24 e /26 f   | -0.6   | -0.9 g   | -0.3   | -0.7 h,i   | -0.6   |
-|-------------------|--------|----------|--------|------------|--------|
+| Study - Treatment group   |   SELECT EARLY MTX-Naїve - MTX | SELECT EARLY MTX-Naїve - UPA 15mg   |   SELECT MONO MTX-IR - MTX | SELECT MONO MTX-IR - UPA 15mg   |   SELECT NEXT csDMARD-IR - PBO | SELECT NEXT csDMARD-IR - UPA 15mg   |   SELECT COMPARE MTX-IR - PBO | SELECT COMPARE MTX-IR - UPA 15mg   |   SELECT COMPARE MTX-IR - ADA 40mg |   SELECT BEYOND BIO-IR - PBO | SELECT BEYOND BIO-IR - UPA 15mg   |
+|---------------------------|--------------------------------|-------------------------------------|----------------------------|---------------------------------|--------------------------------|-------------------------------------|-------------------------------|------------------------------------|------------------------------------|------------------------------|-----------------------------------|
+| N                         |                            313 | 317                                 |                        216 | 216                             |                            220 | 216                                 |                           648 | 644                                |                                324 |                          165 | 163                               |
+| Baseline score, mean      |                            1.6 | 1.6                                 |                        1.5 | 1.5                             |                            1.4 | 1.5                                 |                           1.6 | 1.6                                |                                1.6 |                          1.6 | 1.7                               |
+| Week 12 c /14 d           |                           -0.5 | -0.8 h                              |                       -0.3 | -0.7 g                          |                           -0.3 | -0.6 g                              |                          -0.3 | -0.6 g,i                           |                               -0.5 |                         -0.2 | -0.4 g                            |
+| Week 24 e /26 f           |                           -0.6 | -0.9 g                              |                            |                                 |                                |                                     |                          -0.3 | -0.7 h,i                           |                               -0.6 |                              |                                   |
 
 Abbreviations: ADA = adalimumab; HAQ-DI = Health Assessment Questionnaire-Disability Index; IR = inadequate responder; MTX = methotrexate; PBO = placebo; UPA = upadacitinib
 
 - a Data shown are mean
-- b Health Assessment Questionnaire-Disability Index: 0=best, 3=worst; 20 questions; 8 categories:
+
+b Health Assessment Questionnaire-Disability Index: 0=best, 3=worst; 20 questions; 8 categories:
 
 dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities.
 
-- c  SELECT-EARLY, SELECT-NEXT, SELECT-COMPARE, SELECT-BEYOND
-- d  SELECT-MONOTHERAPY
-- e  SELECT-EARLY
-- f  SELECT-COMPARE
-- g multiplicity-controlled p≤0.001 upadacitinib vs placebo or MTX comparison
-- h  nominal p≤0.001 upadacitinib vs placebo or MTX comparison
-- i  nominal p≤0.01 upadacitinib vs adalimumab comparison
+- c SELECT-EARLY, SELECT-NEXT, SELECT-COMPARE, SELECT-BEYOND
+
+<div style=\"page-break-after: always\"></div>
+
+| d SELECT-MONOTHERAPY                                                        |
+|-----------------------------------------------------------------------------|
+| e SELECT-EARLY                                                              |
+| f SELECT-COMPARE                                                            |
+| g multiplicity-controlled p≤0.001 upadacitinib vs placebo or MTX comparison |
+| h nominal p≤0.001 upadacitinib vs placebo or MTX comparison                 |
+| i nominal p≤0.01 upadacitinib vs adalimumab comparison                      |
 
 In the studies SELECT-MONOTHERAPY, SELECT-NEXT, and SELECT-COMPARE, treatment with upadacitinib 15 mg resulted in a significantly greater improvement in the mean duration of morning joint stiffness compared to placebo or MTX.
 
@@ -941,19 +968,19 @@ SELECT-PsA 2 was a 24-week trial in 642 patients who had an inadequate response 
 
 ## Clinical response
 
-In both studies, a statistically significant greater proportion of patients treated with upadacitinib 15 mg achieved ACR20 response compared to placebo at week 12 (Table 8). Time to onset of efficacy was rapid across measures with greater responses seen as early as week 2 for ACR20.
-
-<div style=\"page-break-after: always\"></div>
+In both studies, a statistically significant greater proportion of patients treated with upadacitinib 15 mg achieved ACR20 response compared to placebo at week 12 (Table 9). Time to onset of efficacy was rapid across measures with greater responses seen as early as week 2 for ACR20.
 
 Treatment with upadacitinib 15 mg resulted in improvements in individual ACR components, including tender/painful and swollen joint counts, patient and physician global assessments, HAQ-DI, pain assessment, and hsCRP compared to placebo.
 
 In SELECT-PsA 1, upadacitinib 15 mg achieved non-inferiority compared to adalimumab in the proportion of patients achieving ACR20 response at week 12; however, superiority to adalimumab could not be demonstrated.
 
+<div style=\"page-break-after: always\"></div>
+
 In both studies, consistent responses were observed alone or in combination with methotrexate for primary and key secondary endpoints.
 
 The efficacy of upadacitinib 15 mg was demonstrated regardless of subgroups evaluated including baseline BMI, baseline hsCRP, and number of prior non-biologic DMARDs (≤ 1 or &gt;1).
 
-Table 8 Clinical response in SELECT-PsA 1 and SELECT-PsA 2
+Table 9 Clinical response in SELECT-PsA 1 and SELECT-PsA 2
 
 | Study                                                      | SELECT-PsA 1 non-biologic DMARD-IR                         | SELECT-PsA 1 non-biologic DMARD-IR                         | SELECT-PsA 1 non-biologic DMARD-IR                         | SELECT-PsA 2 bDMARD-IR                                     | SELECT-PsA 2 bDMARD-IR                                     |
 |------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
@@ -990,20 +1017,24 @@ Table 8 Clinical response in SELECT-PsA 1 and SELECT-PsA 2
 | Week 56                                                    |                                                            | 65 (59, 72)                                                | 61 (55, 68)                                                |                                                            | 52 (44, 61)                                                |
 | PASI90, % of patients (95% CI) c                           | PASI90, % of patients (95% CI) c                           | PASI90, % of patients (95% CI) c                           | PASI90, % of patients (95% CI) c                           | PASI90, % of patients (95% CI) c                           | PASI90, % of patients (95% CI) c                           |
 | Week 16                                                    | 12 (8, 17)                                                 | 38 (32, 45)                                                | 39 (32, 45)                                                | 8 (4, 13)                                                  | 35 (26, 43)                                                |
+| Week 24                                                    | 17 (12, 22)                                                | 42 (35, 48)                                                | 45 (38, 52)                                                | 7 (3, 11)                                                  | 36 (28, 44)                                                |
+| Week 56                                                    |                                                            | 49 (42, 56)                                                | 47 (40, 54)                                                |                                                            | 41 (32, 49)                                                |
 
 <div style=\"page-break-after: always\"></div>
 
-| Week 24   | 17 (12, 22)   | 42 (35, 48)   | 45 (38, 52)   | 7 (3, 11)   | 36 (28, 44)   |
-|-----------|---------------|---------------|---------------|-------------|---------------|
-| Week 56   |               | 49 (42, 56)   | 47 (40, 54)   |             | 41 (32, 49)   |
+Abbreviations: ACR20 (or 50 or 70) = American College of Rheumatology ≥20% (or ≥50% or ≥70%) improvement, ADA = adalimumab; bDMARD = biologic disease-modifying anti-
 
-Abbreviations: ACR20 (or 50 or 70) = American College of Rheumatology ≥20% (or ≥50% or ≥70%) improvement, ADA = adalimumab; bDMARD = biologic disease-modifying antirheumatic drug; IR = inadequate responder; MDA = minimal disease activity; PASI75 (or 90) = ≥75% (or ≥90%) improvement in Psoriasis Area and Severity Index; PBO = placebo; UPA= upadacitinib
+rheumatic drug; IR = inadequate responder; MDA = minimal disease activity; PASI75 (or 90) = ≥75% (or ≥90%) improvement in Psoriasis Area and Severity Index; PBO = placebo; UPA= upadacitinib
 
 Patients who discontinued randomised treatment or were missing data at week of evaluation were imputed as non-responders in the analyses. For MDA, resolution of enthesitis, and resolution of dactylitis at week 24/56, the subjects rescued at week 16 were imputed as non-responders in the analyses.
 
 - a In patients with enthesitis at baseline (n=241, 270, and 265, respectively, for SELECT-PsA 1 and n=144 and 133, respectively, for SELECT-PsA 2)
 - b In patients with dactylitis at baseline (n=126, 136, and 127, respectively, for SELECT-PsA 1 and n=64 and 55, respectively, for SELECT-PsA 2)
-- c In patients with ≥ 3% BSA psoriasis at baseline (n=211, 214, and 211, respectively, for SELECT-PsA 1 and n=131 and 130, respectively, for SELECT-PsA 2)
+
+c In patients with ≥ 3% BSA psoriasis at baseline (n=211, 214, and 211, respectively, for
+
+SELECT-PsA 1 and n=131 and 130, respectively, for SELECT-PsA 2)
+
 - d primary endpoint
 - e multiplicity-controlled p≤0.001 upadacitinib vs placebo comparison
 - f multiplicity-controlled p≤0.001 upadacitinib vs adalimumab comparison (non-inferiority test)
@@ -1012,9 +1043,9 @@ Patients who discontinued randomised treatment or were missing data at week of e
 
 In SELECT-PsA 1, inhibition of progression of structural damage was assessed radiographically and expressed as the change from baseline in modified Total Sharp Score (mTSS) and its components, the erosion score and the joint space narrowing score, at week 24.
 
-Treatment with upadacitinib 15 mg resulted in statistically significant greater inhibition of the progression of structural joint damage compared to placebo at week 24 (Table 9). Erosion and joint space narrowing scores were consistent with the overall scores. The proportion of patients with no radiographic progression (mTSS change ≤ 0.5) was higher with upadacitinib 15 mg compared to placebo at week 24.
+Treatment with upadacitinib 15 mg resulted in statistically significant greater inhibition of the progression of structural joint damage compared to placebo at week 24 (Table 10). Erosion and joint space narrowing scores were consistent with the overall scores. The proportion of patients with no radiographic progression (mTSS change ≤ 0.5) was higher with upadacitinib 15 mg compared to placebo at week 24.
 
-Table 9 Radiographic changes in SELECT-PsA 1
+Table 10 Radiographic changes in SELECT-PsA 1
 
 | Treatment Group                                                                                                                                                                                                                                      | PBO                                                                                                                                                                                                                                                  | UPA 15 mg                                                                                                                                                                                                                                            | ADA 40 mg                                                                                                                                                                                                                                            |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1028,9 +1059,11 @@ Table 9 Radiographic changes in SELECT-PsA 1
 
 Physical function response and health-related outcomes
 
-In SELECT-PsA 1, patients treated with upadacitinib 15 mg showed statistically significant improvement from baseline in physical function as assessed by HAQ-DI at week 12 (-0.42 [95% CI: 0.47, -0.37]) compared to placebo (-0.14 [95% CI: -0.18, -0.09]); improvement in patients treated with adalimumab was -0.34 (95% CI: -0.38, -0.29). In SELECT-PsA 2, patients treated with upadacitinib 15 mg showed statistically significant improvement from baseline in HAQ-DI at week 12 (-0.30 [95% CI: -0.37, -0.24]) compared to placebo (-0.10 [95% CI: -0.16, -0.03]). Improvement in physical function was maintained through week 56 in both studies.
+In SELECT-PsA 1, patients treated with upadacitinib 15 mg showed statistically significant improvement from baseline in physical function as assessed by HAQ-DI at week 12 (-0.42 [95% CI: - 0.47, -0.37]) compared to placebo (-0.14 [95% CI: -0.18, -0.09]); improvement in patients treated with adalimumab was -0.34 (95% CI: -0.38, -0.29). In SELECT-PsA 2, patients treated with upadacitinib 15 mg showed statistically significant improvement from baseline in HAQ-DI at week 12 (-0.30 [95%
 
 <div style=\"page-break-after: always\"></div>
+
+CI: -0.37, -0.24]) compared to placebo (-0.10 [95% CI: -0.16, -0.03]). Improvement in physical function was maintained through week 56 in both studies.
 
 Health-related quality of life was assessed by SF-36v2. In both studies, patients receiving upadacitinib 15 mg experienced statistically significant greater improvement from baseline in the Physical Component Summary score compared to placebo at week 12. Improvements from baseline were maintained through week 56 in both studies.
 
@@ -1046,7 +1079,7 @@ The efficacy and safety of upadacitinib 15 mg once daily were assessed in a rand
 
 ## Clinical response
 
-In SELECT-AXIS 2 (nr-axSpA), a significantly greater proportion of patients treated with upadacitinib 15 mg achieved an ASAS40 response compared to placebo at week 14 (Table 10). A numerical difference between treatment groups was observed at all timepoints from week 2 to week 14.
+In SELECT-AXIS 2 (nr-axSpA), a significantly greater proportion of patients treated with upadacitinib 15 mg achieved an ASAS40 response compared to placebo at week 14 (Table 11). A numerical difference between treatment groups was observed at all timepoints from week 2 to week 14.
 
 Treatment with upadacitinib 15 mg resulted in improvements in individual ASAS components (patient global assessment of disease activity, total back pain assessment, inflammation, and function) and other measures of disease activity, including hsCRP, compared to placebo at week 14.
 
@@ -1054,7 +1087,7 @@ The efficacy of upadacitinib 15 mg was demonstrated across subgroups including g
 
 <div style=\"page-break-after: always\"></div>
 
-Table 10 Clinical response in SELECT-AXIS 2 (nr-axSpA)
+Table 11 Clinical response in SELECT-AXIS 2 (nr-axSpA)
 
 | Treatment Group                                    | PBO                                                | UPA 15 mg                                          |
 |----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
@@ -1078,23 +1111,21 @@ Table 10 Clinical response in SELECT-AXIS 2 (nr-axSpA)
 
 Abbreviations: ASAS20 (or ASAS40) = Assessment of SpondyloArthritis international Society ≥20% (or ≥40%) improvement; ASDAS-CRP = Ankylosing Spondylitis Disease Activity Score C-Reactive Protein; BASDAI = Bath Ankylosing Spondylitis Disease Activity Index; PBO = placebo; UPA= upadacitinib
 
-a  An ASAS20 (ASAS40) response is defined as a ≥20% (≥40%) improvement and an absolute improvement from baseline of ≥1 (≥2) unit(s) (range 0 to 10) in ≥3 of 4 domains (Patient Global, Total Back Pain, Function, and Inflammation), and no worsening in the potential remaining domain (defined as worsening ≥20% and ≥1 unit for ASAS20 or defined as worsening of &gt; 0 units for ASAS40).
+a An ASAS20 (ASAS40) response is defined as a ≥20% (≥40%) improvement and an absolute improvement from baseline of ≥1 (≥2) unit(s) (range 0 to 10) in ≥3 of 4 domains (Patient Global, Total Back Pain, Function, and Inflammation), and no worsening in the potential remaining domain (defined as worsening ≥20% and ≥1 unit for ASAS20 or defined as worsening of &gt; 0 units for ASAS40).
 
-b multiplicity-controlled p≤0.001 upadacitinib vs placebo comparison
-
-- c multiplicity-controlled p≤0.01 upadacitinib vs placebo comparison
+b multiplicity-controlled p≤0.001 upadacitinib vs placebo comparison c multiplicity-controlled p≤0.01 upadacitinib vs placebo comparison
 
 d Nominal p≤0.001 for upadacitinib vs placebo comparison, according to prespecified multiplicitycontrolled testing sequence
 
 For binary endpoints, results are based on non-responder imputation in conjunction with multiple imputation. For continuous endpoints, results are based on the least squares mean change from baseline using mixed-effect models repeated measures analysis.
 
-Efficacy was maintained through 2 years as assessed by the endpoints presented in Table 10.
+Efficacy was maintained through 2 years as assessed by the endpoints presented in Table 11.
 
 Physical function response and health-related outcomes
 
 Patients treated with upadacitinib 15 mg showed significant improvement in physical function from baseline compared to placebo as assessed by the BASFI at week 14.
 
-Patients treated with upadacitinib 15 mg showed significant improvements in total back pain and nocturnal back pain compared to placebo at week 14 .
+Patients treated with upadacitinib 15 mg showed significant improvements in total back pain and nocturnal back pain compared to placebo at week 14.
 
 Patients treated with upadacitinib 15 mg showed significant improvements in health-related quality of life and overall health as measured by ASQoL and ASAS Health Index, respectively, compared to placebo at week 14.
 
@@ -1118,7 +1149,7 @@ Of patients who were initially randomised to upadacitinib, 72% (67/93) in SELECT
 
 ## Clinical response
 
-In both studies, a significantly greater proportion of patients treated with upadacitinib 15 mg achieved an ASAS40 response compared to placebo at week 14 (Table 11). A numerical difference between treatment groups was observed from week 2 in SELECT-AXIS 1 and week 4 in SELECT-AXIS 2 (AS) for ASAS40.
+In both studies, a significantly greater proportion of patients treated with upadacitinib 15 mg achieved an ASAS40 response compared to placebo at week 14 (Table 12). A numerical difference between treatment groups was observed from week 2 in SELECT-AXIS 1 and week 4 in SELECT-AXIS 2 (AS) for ASAS40.
 
 Treatment with upadacitinib 15 mg resulted in improvements in individual ASAS components (patient global assessment of disease activity, total back pain assessment, inflammation, and function) and other measures of disease activity, including hsCRP, at week 14 compared to placebo.
 
@@ -1126,7 +1157,7 @@ The efficacy of upadacitinib 15 mg was demonstrated regardless of subgroups eval
 
 <div style=\"page-break-after: always\"></div>
 
-## Table 11 Clinical response
+Table 12 Clinical response
 
 | Study                                              | SELECT-AXIS 1 bDMARD-naïve                         | SELECT-AXIS 1 bDMARD-naïve                         | SELECT-AXIS 2 (AS) bDMARD-IR                       | SELECT-AXIS 2 (AS) bDMARD-IR                       |
 |----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
@@ -1150,18 +1181,21 @@ The efficacy of upadacitinib 15 mg was demonstrated regardless of subgroups eval
 | ASDAS Major Improvement, % of patients (95% CI)    | ASDAS Major Improvement, % of patients (95% CI)    | ASDAS Major Improvement, % of patients (95% CI)    | ASDAS Major Improvement, % of patients (95% CI)    | ASDAS Major Improvement, % of patients (95% CI)    |
 | Week 14                                            | 5.3 (0.8, 9.9)                                     | 32.3 (22.8, 41.8) e                                | 4.8 (1.9, 7.7)                                     | 30.3 (24.1, 36.5) e                                |
 
-a  An ASAS20 (ASAS40) response is defined as a ≥20% (≥40%) improvement and an absolute improvement from baseline of ≥1 (≥2) unit(s) (range 0 to 10) in ≥3 of 4 domains (Patient Global, Total Back Pain, Function, and Inflammation), and no worsening in the potential remaining domain (defined as worsening ≥20% and ≥1 unit for ASAS20 or defined as worsening of &gt; 0 units for ASAS40).
+a An ASAS20 (ASAS40) response is defined as a ≥20% (≥40%) improvement and an absolute improvement from baseline of ≥1 (≥2) unit(s) (range 0 to 10) in ≥3 of 4 domains (Patient Global, Total Back Pain, Function, and Inflammation), and no worsening in the potential remaining domain (defined as worsening ≥20% and ≥1 unit for ASAS20 or defined as worsening of &gt; 0 units for ASAS40).
 
 b primary endpoint
 
 c multiplicity-controlled p≤0.001 upadacitinib vs placebo comparison
 
-- d multiplicity-controlled p≤0.01 upadacitinib vs placebo comparison
-- e comparison not multiplicity-controlled
+d multiplicity-controlled p≤0.01 upadacitinib vs placebo comparison
 
-f post-hoc analysis for SELECT-AXIS 1, not multiplicity-controlled For binary endpoints, week 14 results are based on non-responder imputation (SELECT-AXIS 1) and on non-responder imputation in conjunction with multiple imputation (SELECT-AXIS 2 [AS]). For continuous endpoints, week 14 results are based on the least squares mean change from baseline using mixed models for repeated measures analysis.
+e comparison not multiplicity-controlled
 
-In both studies, efficacy was maintained through 2 years as assessed by the endpoints presented in Table 11.
+f post-hoc analysis for SELECT-AXIS 1, not multiplicity-controlled
+
+For binary endpoints, week 14 results are based on non-responder imputation (SELECT-AXIS 1) and on non-responder imputation in conjunction with multiple imputation (SELECT-AXIS 2 [AS]). For continuous endpoints, week 14 results are based on the least squares mean change from baseline using mixed models for repeated measures analysis.
+
+In both studies, efficacy was maintained through 2 years as assessed by the endpoints presented in Table 12.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1195,13 +1229,13 @@ Upadacitinib 15 mg and a 26-week corticosteroid taper showed superiority in achi
 
 <div style=\"page-break-after: always\"></div>
 
-12). Results for each component of sustained remission and sustained complete remission at week 52 were consistent with those of the composite endpoints. For sustained remission at week 52 (the primary endpoint), a similar percentage of patients in each arm were classified as non-responders due to premature discontinuation of study treatment (placebo: 19.6%; upadacitinib 15 mg: 20.1%) or due to a missing assessment (placebo: 0.9%; upadacitinib 15 mg: 0.5%).
+13). Results for each component of sustained remission and sustained complete remission at week 52 were consistent with those of the composite endpoints. For sustained remission at week 52 (the primary endpoint), a similar percentage of patients in each arm were classified as non-responders due to premature discontinuation of study treatment (placebo: 19.6%; upadacitinib 15 mg: 20.1%) or due to a missing assessment (placebo: 0.9%; upadacitinib 15 mg: 0.5%).
 
 Treatment effects in subgroups (gender, age, race, prior use of interleukin-6 inhibitor, new onset or relapsing giant cell arteritis, baseline corticosteroid dose, and giant cell arteritis with or without polymyalgia rheumatica) were consistent with the results in the overall study population.
 
-A significantly lower proportion of patients treated with upadacitinib 15 mg and a 26-week corticosteroid taper experienced at least one giant cell arteritis flare compared to those treated with placebo and a 52-week corticosteroid taper through week 52. In addition, the risk of flare in the upadacitinib arm was significantly lower compared to the placebo arm as measured by time to first flare through week 52 (Table 12).
+A significantly lower proportion of patients treated with upadacitinib 15 mg and a 26-week corticosteroid taper experienced at least one giant cell arteritis flare compared to those treated with placebo and a 52-week corticosteroid taper through week 52. In addition, the risk of flare in the upadacitinib arm was significantly lower compared to the placebo arm as measured by time to first flare through week 52 (Table 13).
 
-Table 12 Clinical response in SELECT-GCA (Period 1)
+Table 13 Clinical response in SELECT-GCA (Period 1)
 
 | Treatment Group                                        | PBO + 52-week corticosteroid taper N=112   | UPA 15 mg + 26-week corticosteroid taper N=209   | Treatment Difference (95% CI)   |
 |--------------------------------------------------------|--------------------------------------------|--------------------------------------------------|---------------------------------|
@@ -1214,13 +1248,17 @@ Table 12 Clinical response in SELECT-GCA (Period 1)
 
 Abbreviations: ESR = erythrocyte sedimentation rate; GCA = giant cell arteritis; hsCRP = high sensitivity C-reactive protein; PBO = placebo; UPA = upadacitinib
 
-a Sustained remission is defined as having achieved both the absence of GCA signs and symptoms from Week 12 through Week 52 and adherence to the protocol-defined corticosteroid taper regimen b Sustained complete remission is defined as having achieved absence of GCA signs and symptoms from Week 12 through Week 52, normalization of ESR (to ≤ 30 mm/hr; if ESR &gt; 30 mm/hr and elevation is not attributable to GCA, this criterion can still be met) from Week 12 through Week 52, normalization of hsCRP to &lt; 1 mg/dL without elevation to ≥ 1 mg/dL (on 2 consecutive visits) from Week 12 through Week 52, and adherence to the protocol-defined corticosteroid taper regimen c  Complete remission is defined as having achieved absence of GCA signs and symptoms,
+a Sustained remission is defined as having achieved both the absence of GCA signs and symptoms from Week 12 through Week 52 and adherence to the protocol-defined corticosteroid taper regimen b Sustained complete remission is defined as having achieved absence of GCA signs and symptoms from Week 12 through Week 52, normalization of ESR (to ≤ 30 mm/hr; if ESR &gt; 30 mm/hr and elevation is not attributable to GCA, this criterion can still be met) from Week 12 through Week 52, normalization of hsCRP to &lt; 1 mg/dL without elevation to ≥ 1 mg/dL (on 2 consecutive visits) from Week 12 through Week 52, and adherence to the protocol-defined corticosteroid taper regimen c Complete remission is defined as having achieved absence of GCA signs and symptoms,
 
-normalization of ESR (to ≤ 30 mm/hr; if ESR &gt; 30 mm/hr and elevation is not attributable to GCA, this criterion can still be met), normalization of hsCRP to &lt; 1 mg/dL, and adherence to the protocoldefined corticosteroid taper regimen d GCA flare is defined as an event representing recurrence of GCA signs or symptoms or an ESR measurement &gt; 30 mm/hr (attributable to GCA) and requiring an increase in corticosteroid dose, and is only considered after all of the 3 following criteria are met: absence of recurrence of GCA signs and symptoms, normalization of ESR, and no corticosteroid dose increase. Subjects who do not have an assessment that meets all 3 criteria are considered as having a GCA flare at baseline. Time to first GCA flare is calculated from the time when all three criteria above are met. Subjects who meet all 3 criteria above but never experience GCA flare are censored at the last assessment e p≤0.01
+normalization of ESR (to ≤ 30 mm/hr; if ESR &gt; 30 mm/hr and elevation is not attributable to GCA, this criterion can still be met), normalization of hsCRP to &lt; 1 mg/dL, and adherence to the protocoldefined corticosteroid taper regimen d GCA flare is defined as an event representing recurrence of GCA signs or symptoms or an ESR measurement &gt; 30 mm/hr (attributable to GCA) and requiring an increase in corticosteroid dose, and is only considered after all of the 3 following criteria are met: absence of recurrence of GCA signs and symptoms, normalization of ESR, and no corticosteroid dose increase. Subjects who do not have an assessment that meets all 3 criteria are considered as having a GCA flare at baseline.
 
 <div style=\"page-break-after: always\"></div>
 
-- f  p≤0.001
+Time to first GCA flare is calculated from the time when all three criteria above are met. Subjects who meet all 3 criteria above but never experience GCA flare are censored at the last assessment
+
+e p≤0.01
+
+- f p≤0.001
 - g Hazard ratio
 - h Odds ratio
 
@@ -1258,18 +1296,18 @@ In the monotherapy studies (MEASURE UP 1 and 2), 50.0% of patients had a baselin
 
 ## Monotherapy (MEASURE UP 1 AND MEASURE UP 2) and Concomitant TCS (AD UP) studies
 
-A significantly greater proportion of patients treated with upadacitinib 15 mg or 30 mg achieved vIGA-AD 0 or 1, EASI 75, or a ≥ 4-point improvement on the Worst Pruritus NRS compared to placebo at week 16. Rapid improvements in skin clearance and itch were also achieved (see Table 13).
+A significantly greater proportion of patients treated with upadacitinib 15 mg or 30 mg achieved vIGA-AD 0 or 1, EASI 75, or a ≥ 4-point improvement on the Worst Pruritus NRS compared to placebo at week 16. Rapid improvements in skin clearance and itch were also achieved (see Table 14).
 
 Figure 1 shows the proportion of patients achieving an EASI 75 response and mean percent change from baseline in Worst Pruritus NRS, respectively up to week 16 for MEASURE UP 1 and 2.
 
-Table 13 Efficacy results of upadacitinib
+Table 14 Efficacy results of upadacitinib
 
 | Study                                    | MEASURE UP 1                             | MEASURE UP 1                             | MEASURE UP 1                             | MEASURE UP 2                             | MEASURE UP 2                             | MEASURE UP 2                             | AD UP                                    | AD UP                                    | AD UP                                    |
 |------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
 | Treatment Group                          | PBO                                      | UPA 15 mg                                | UPA 30 mg                                | PBO                                      | UPA 15 mg                                | UPA 30 mg                                | PBO + TCS                                | UPA 15 mg + TCS                          | UPA 30 mg + TCS                          |
 | Number of subjects randomised            | 281                                      | 281                                      | 285                                      | 278                                      | 276                                      | 282                                      | 304                                      | 300                                      | 297                                      |
 | Week 16 endpoints, % responders (95% CI) | Week 16 endpoints, % responders (95% CI) | Week 16 endpoints, % responders (95% CI) | Week 16 endpoints, % responders (95% CI) | Week 16 endpoints, % responders (95% CI) | Week 16 endpoints, % responders (95% CI) | Week 16 endpoints, % responders (95% CI) | Week 16 endpoints, % responders (95% CI) | Week 16 endpoints, % responders (95% CI) | Week 16 endpoints, % responders (95% CI) |
-| vIGA-AD 0/1 a , b (co-primary)           | 8 (5,12)                                 | 48 d (42,54)                             | 62 d (56,68)                             | 5 (2,7)                                  | 39 d (33,45)                             | 52 d (46,58)                             | 11 (7,14)                                | 40 d (34,45)                             | 59 d (53,64)                             |
+| vIGA-AD 0/1 a,b (co-primary)             | 8 (5,12)                                 | 48 d (42,54)                             | 62 d (56,68)                             | 5 (2,7)                                  | 39 d (33,45)                             | 52 d (46,58)                             | 11 (7,14)                                | 40 d (34,45)                             | 59 d (53,64)                             |
 | EASI 75 a (co-primary)                   | 16 (12,21)                               | 70 d (64,75)                             | 80 d (75,84)                             | 13 (9,17)                                | 60 d (54,66)                             | 73 d (68,78)                             | 26 (21,31)                               | 65 d (59,70)                             | 77 d (72,82)                             |
 | EASI 90 a                                | 8 (5,11)                                 | 53 d (47,59)                             | 66 d (60,71)                             | 5 (3,8)                                  | 42 d (37,48)                             | 58 d (53,64)                             | 13 (9,17)                                | 43 d (37,48)                             | 63 d (58,69)                             |
 
@@ -1287,11 +1325,9 @@ Abbreviations: UPA= upadacitinib (RINVOQ); PBO = placebo
 Subjects with rescue medication or with missing data were counted as non-responders. The number and percentage of subjects who were imputed as non-responders for EASI 75 and vIGA-AD 0/1 at Week 16 due to the use of rescue therapy in the placebo, upadacitinib 15 mg, and upadacitinib 30 mg groups, respectively, were 132 (47.0%), 31 (11.0%), 16 (5.6%) in MEASURE UP 1, 119 (42.8%), 24 (8.7%), 16 (5.7%) in MEASURE UP 2, and 78 (25.7%), 15 (5.0%), 14 (4.7%) in AD UP.
 
 - a Based on number of subjects randomised
-- b Responder was defined as a patient with vIGA-AD 0 or 1 ('clear' or 'almost clear') with a reduction of
-- ≥ 2 points on a 0-4 ordinal scale
-- c
-- d
-- Results shown in subset of patients eligible for assessment (patients with Worst Pruritus NRS ≥ 4 at baseline) Statistically significant vs. placebo with p &lt; 0.001
+- b Responder was defined as a patient with vIGA-AD 0 or 1 (\"clear\" or \"almost clear\") with a reduction of ≥ 2 points on a 0-4 ordinal scale
+- c Results shown in subset of patients eligible for assessment (patients with Worst Pruritus NRS ≥ 4 at baseline)
+- d Statistically significant vs. placebo with p &lt; 0.001
 - e p &lt; 0.001 vs placebo, without multiplicity control
 - f Statistically significant improvements vs placebo were seen as early as 1 day after initiating upadacitinib 30 mg and 2 days after initiating upadacitinib 15 mg in MEASURE UP 1 and 2
 
@@ -1305,8 +1341,7 @@ Figure 1 Proportion of patients achieving an EASI 75 response and mean percent c
 
 <div style=\"page-break-after: always\"></div>
 
-*: p &lt; 0.001 vs placebo, without multiplicity control
-
+- *: p &lt; 0.001 vs placebo, without multiplicity control
 - **: statistically significant vs. placebo with p &lt; 0.001
 
 Treatment effects in subgroups (weight, age, gender, race, and prior systemic treatment with immunosuppressants) were consistent with the results in the overall study population.
@@ -1315,22 +1350,22 @@ Results at week 16 continued to be maintained through week 52 in patients treate
 
 Quality of life/patient-reported outcomes
 
-Table 14 Patient-reported outcomes results of upadacitinib at week 16
+Table 15 Patient-reported outcomes results of upadacitinib at week 16
 
-| Study                                        | MEASURE UP 1          | MEASURE UP 1          | MEASURE UP 1          | MEASURE UP 2          | MEASURE UP 2          | MEASURE UP 2          |
-|----------------------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| Treatment group                              | PBO                   | UPA 15 mg             | UPA 30 mg             | PBO                   | UPA 15 mg             | UPA 30 mg             |
-| Number of subjects randomised                | 281                   | 281                   | 285                   | 278                   | 276                   | 282                   |
-| % responders (95% CI)                        | % responders (95% CI) | % responders (95% CI) | % responders (95% CI) | % responders (95% CI) | % responders (95% CI) | % responders (95% CI) |
-| ADerm-SS Skin Pain (≥ 4-point improvement) a | 15 (10,20)            | 54 e (47,60)          | 63 e (57,69)          | 13 (9,18)             | 49 e (43,56)          | 65 e (59,71)          |
-| ADerm-IS Sleep (≥ 12-point improvement) a,b  | 13 (9,18)             | 55 e (48,62)          | 66 e (60,72)          | 12 (8,17)             | 50 e (44,57)          | 62 e (56,69)          |
-| DLQI 0/1 c                                   | 4 (2,7)               | 30 e (25,36)          | 41 e (35,47)          | 5 (2,7)               | 24 e (19,29)          | 38 e (32,44)          |
-| HADS Anxiety <8 and HADS Depression < 8 d    | 14 (8,20)             | 46 e (37,54)          | 49 e (41,57)          | 11 (6,17)             | 46 e (38,54)          | 56 e (48,64)          |
+| Study - Treatment group                      | MEASURE UP 1 - PBO    | MEASURE UP 1 - UPA 15 mg   | MEASURE UP 1 - UPA 30 mg   | MEASURE UP 2 - PBO    | MEASURE UP 2 - UPA 15 mg   | MEASURE UP 2 - UPA 30 mg   |
+|----------------------------------------------|-----------------------|----------------------------|----------------------------|-----------------------|----------------------------|----------------------------|
+| Number of subjects randomised                | 281                   | 281                        | 285                        | 278                   | 276                        | 282                        |
+| % responders (95% CI)                        | % responders (95% CI) | % responders (95% CI)      | % responders (95% CI)      | % responders (95% CI) | % responders (95% CI)      | % responders (95% CI)      |
+| ADerm-SS Skin Pain (≥ 4-point improvement) a | 15 (10,20)            | 54 e (47,60)               | 63 e (57,69)               | 13 (9,18)             | 49 e (43,56)               | 65 e (59,71)               |
+| ADerm-IS Sleep (≥ 12-point improvement) a,b  | 13 (9,18)             | 55 e (48,62)               | 66 e (60,72)               | 12 (8,17)             | 50 e (44,57)               | 62 e (56,69)               |
+| DLQI 0/1 c                                   | 4 (2,7)               | 30 e (25,36)               | 41 e (35,47)               | 5 (2,7)               | 24 e (19,29)               | 38 e (32,44)               |
+| HADS Anxiety <8 and HADS Depression < 8 d    | 14 (8,20)             | 46 e (37,54)               | 49 e (41,57)               | 11 (6,17)             | 46 e (38,54)               | 56 e (48,64)               |
 
 Abbreviations: UPA= upadacitinib (RINVOQ); PBO = placebo; DLQI = Dermatology Life Quality Index; HADS = Hospital Anxiety and Depression Scale
 
-Subjects with rescue medication or with missing data were counted as non-responders. The threshold values specified correspond to the minimal clinically important difference (MCID) and was used to determine response.
+Subjects with rescue medication or with missing data were counted as non-responders.
 
+- The threshold values specified correspond to the minimal clinically important difference (MCID) and was used to determine response.
 - a Results shown in subset of patients eligible for assessment (patients with assessment score &gt; MCID at baseline).
 - b ADerm-IS Sleep assesses difficulty falling asleep, sleep impact, and waking up at night due to AD.
 - c Results shown in subset of patients eligible for assessment (patients with DLQI &gt; 1 at baseline).
@@ -1355,19 +1390,18 @@ Across the studies, the mean age was 36 years, 59% of patients were female, 62% 
 
 ## Clinical response
 
-In AA-1 and AA-2, a significantly greater proportion of patients treated with upadacitinib 15 mg or 30 mg achieved SALT score ≤ 20 compared to placebo at week 24. The results of primary and key multiplicity-controlled secondary endpoints are provided in Tables 15 and 16. Statistically significant differences in SALT score ≤ 20 were seen as early as week 8 with upadacitinib 15 mg and 30 mg compared to placebo (Figure 2).
+In AA-1 and AA-2, a significantly greater proportion of patients treated with upadacitinib 15 mg or 30 mg achieved SALT score ≤ 20 compared to placebo at week 24. The results of primary and key multiplicity-controlled secondary endpoints are provided in Tables 16 and 17. Statistically significant differences in SALT score ≤ 20 were seen as early as week 8 with upadacitinib 15 mg and 30 mg compared to placebo (Figure 2).
 
-Improvements in regrowth of eyebrows, eyelashes, and beard (Table 15) were seen at week 24 among patients with substantial facial hair loss at baseline.
+Improvements in regrowth of eyebrows, eyelashes, and beard (Table 16) were seen at week 24 among patients with substantial facial hair loss at baseline.
 
-Table 15. Efficacy results of upadacitinib studies
+Table 16. Efficacy results of upadacitinib studies
 
-| Study             | AA-1              | AA-1              | AA-1              | AA-2              | AA-2              | AA-2              |
-|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
-|                   | PBO N= 135        | UPA 15 mg N= 270  | UPA 30 mg N= 271  | PBO N= 145        | UPA 15 mg N= 289  | UPA 30 mg N=289   |
-| Week 24 Endpoints | Week 24 Endpoints | Week 24 Endpoints | Week 24 Endpoints | Week 24 Endpoints | Week 24 Endpoints | Week 24 Endpoints |
-| SALT score ≤ 20   | 1%                | 45% d             | 55% d             | 3%                | 45% d             | 54% d             |
-| SALT score ≤ 10   | 1%                | 35% d             | 46% d             | 1%                | 36% d             | 47% d             |
-| SALT score of 0   | 0                 | 14% d             | 20% d             | 1%                | 13% d             | 22% d             |
+| Study             | AA-1 - PBO N= 135   | AA-1 - UPA 15 mg N= 270   | AA-1 - UPA 30 mg N= 271   | AA-2 - PBO N= 145   | AA-2 - UPA 15 mg N= 289   | AA-2 - UPA 30 mg N=289   |
+|-------------------|---------------------|---------------------------|---------------------------|---------------------|---------------------------|--------------------------|
+| Week 24 Endpoints | Week 24 Endpoints   | Week 24 Endpoints         | Week 24 Endpoints         | Week 24 Endpoints   | Week 24 Endpoints         | Week 24 Endpoints        |
+| SALT score ≤ 20   | 1%                  | 45% d                     | 55% d                     | 3%                  | 45% d                     | 54% d                    |
+| SALT score ≤ 10   | 1%                  | 35% d                     | 46% d                     | 1%                  | 36% d                     | 47% d                    |
+| SALT score of 0   | 0                   | 14% d                     | 20% d                     | 1%                  | 13% d                     | 22% d                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1378,10 +1412,10 @@ Table 15. Efficacy results of upadacitinib studies
 | Week 8 Endpoint                              | Week 8 Endpoint | Week 8 Endpoint | Week 8 Endpoint | Week 8 Endpoint | Week 8 Endpoint | Week 8 Endpoint |
 | SALT score of ≤ 20                           | 1%              | 7% e            | 11% d           | 2%              | 9% e            | 12% d           |
 
-a ClinRO assessment for eyebrow hair loss uses a 4-point response scale, ranging from 0 to 3 where 0 = The eyebrows have full coverage and no areas of hair loss; 1 = There are minimal gaps in eyebrow hair and distribution is even; 2 = There are significant gaps in eyebrow hair or distribution is not even; 3 = No notable eyebrows. The endpoint measured the proportion of subjects achieving a score of 0 or 1 with a ≥ 2-point improvement from baseline among subjects with baseline score ≥ 2 b ClinRO assessment for eyelash hair loss uses a 4-point response scale, ranging from 0 to 3 where 0 = The eyelashes form a continuous line along the eyelids on both eyes; 1 = There are minimal gaps and the eyelashes are evenly spaced along the eyelids on both eyes; 2 = There are significant gaps along the eyelids or the eyelashes are not evenly spaced along the eyelids; 3 = No notable eyelashes . The endpoint measured the proportion of subjects achieving a score of 0 or 1 with a ≥ 2-point improvement from baseline among subjects with baseline score ≥ 2
+a ClinRO assessment for eyebrow hair loss uses a 4-point response scale, ranging from 0 to 3 where 0 = The eyebrows have full coverage and no areas of hair loss; 1 = There are minimal gaps in eyebrow hair and distribution is even; 2 = There are significant gaps in eyebrow hair or distribution is not even; 3 = No notable eyebrows. The endpoint measured the proportion of subjects achieving a score of 0 or 1 with a ≥ 2-point improvement from baseline among subjects with baseline score ≥ 2 b ClinRO assessment for eyelash hair loss uses a 4-point response scale, ranging from 0 to 3 where 0 = The eyelashes form a continuous line along the eyelids on both eyes; 1 = There are minimal gaps and the eyelashes are evenly spaced along the eyelids on both eyes; 2 = There are significant gaps along the eyelids or the eyelashes are not evenly spaced along the eyelids; 3 = No notable eyelashes. The endpoint measured the proportion of subjects achieving a score of 0 or 1 with a ≥ 2-point improvement from baseline among subjects with baseline score ≥ 2
 
-- c ClinRO for beard hair loss (I-ALFA) uses a 4-point scale ranging from 0 = no hair growth, 1 = mostly areas with hair loss, some areas of hair growth; 2 = mostly normal hair growth, some areas of hair loss to 3 = normal hair growth. This measured the proportion of patients who achieved a grade of 2 or 3 with ≥ 2-point improvement from Baseline among subjects with Baseline grade &lt; 2.
-- d multiplicity-controlled p &lt; 0.001 upadacitinib vs placebo comparison
+c ClinRO for beard hair loss (I-ALFA) uses a 4-point scale ranging from 0 = no hair growth, 1 = mostly areas with hair loss, some areas of hair growth; 2 = mostly normal hair growth, some areas of hair loss to 3 = normal hair growth. This measured the proportion of patients who achieved a grade of 2 or 3 with ≥ 2-point improvement from Baseline among subjects with Baseline grade &lt; 2. d multiplicity-controlled p &lt; 0.001 upadacitinib vs placebo comparison
+
 - e multiplicity-controlled p &lt; 0.01 upadacitinib vs placebo comparison
 - f nominal p &lt; 0.001 upadacitinib vs placebo comparison
 
@@ -1389,25 +1423,22 @@ Figure 2. SALT ≤ 20 Response through week 24
 
 <!-- image -->
 
-Treatment effects in subgroups (gender, weight, race, geographic region, duration of current episode, disease severity, and prior pharmacologic treatment) in both studies were consistent with the results in the overall study population. Treatment effects at Week 24 in adolescents 12 to less than 18 years of age were consistent with the results observed in the overall study population.
-
 <div style=\"page-break-after: always\"></div>
+
+Treatment effects in subgroups (gender, weight, race, geographic region, duration of current episode, disease severity, and prior pharmacologic treatment) in both studies were consistent with the results in the overall study population. Treatment effects at Week 24 in adolescents 12 to less than 18 years of age were consistent with the results observed in the overall study population.
 
 Results at week 24 were maintained or improved in patients who continued upadacitinib 15 mg or 30 mg treatment after week 24.
 
-Table 16. Patient-reported outcomes results of upadacitinib studies at week 24
+Table 17. Patient-reported outcomes results of upadacitinib studies at week 24
 
-| Study                                            | AA-1      | AA-1            | AA-1            | AA-2      | AA-2            | AA-2            |
-|--------------------------------------------------|-----------|-----------------|-----------------|-----------|-----------------|-----------------|
-|                                                  | PBO N=135 | UPA 15 mg N=270 | UPA 30 mg N=271 | PBO N=145 | UPA 15 mg N=289 | UPA 30 mg N=289 |
-| CFB in Skindex-16 AA Emotions Domain scores a    | -15       | -30 b           | -36 b           | -10       | -31 b           | -34 b           |
-| CFB in Skindex-16 AA Functioning Domain scores a | -9        | -22 b           | -25 b           | -7        | -23 b           | -23 b           |
+| Study                                            |   AA-1 - PBO N=135 | AA-1 - UPA 15 mg N=270   | AA-1 - UPA 30 mg N=271   |   AA-2 - PBO N=145 | AA-2 - UPA 15 mg N=289   | AA-2 - UPA 30 mg N=289   |
+|--------------------------------------------------|--------------------|--------------------------|--------------------------|--------------------|--------------------------|--------------------------|
+| CFB in Skindex-16 AA Emotions Domain scores a    |                -15 | -30 b                    | -36 b                    |                -10 | -31 b                    | -34 b                    |
+| CFB in Skindex-16 AA Functioning Domain scores a |                 -9 | -22 b                    | -25 b                    |                 -7 | -23 b                    | -23 b                    |
 
 The threshold values specified correspond to the clinically meaningful changes and was used to determine response. CFB = Change from Baseline
 
-a Skindex-16 for AA measures the effects of AA on a subject's health-related quality of life,
-
-with 3 domains including Emotions, Symptoms, and Functioning. Total scores range from 0 to 100, with higher scores indicating worse health-related quality of life.
+a Skindex-16 for AA measures the effects of AA on a subject's health-related quality of life, with 3 domains including Emotions, Symptoms, and Functioning. Total scores range from 0 to 100, with higher scores indicating worse health-related quality of life.
 
 b multiplicity-controlled p &lt; 0.001 upadacitinib vs placebo comparison
 
@@ -1423,54 +1454,54 @@ In both studies, patients received upadacitinib 15 mg once daily or placebo. Bot
 
 The co-primary endpoints were the achievements of ≥ 75% repigmentation of facial vitiligo (F-VASI 75) and ≥ 50% repigmentation of total body vitiligo (T-VASI 50) from baseline at week 48. Key multiplicity-controlled secondary endpoints assessed different thresholds of repigmentation based on T-VASI and F-VASI, and stabilisation of disease extent defined as no increase from baseline in TVASI at both week 8 and 12 among patients with actively progressing vitiligo at baseline.
 
-In VITI-UP-1 and VITI-UP-2, significantly greater proportions of patients treated with upadacitinib15 mg achieved each F-VASI 75 and T-VASI 50 compared to placebo at week 48 (Table
-
 <div style=\"page-break-after: always\"></div>
 
-17). In VITI-UP-1 and VITI-UP-2, statistically significant differences from placebo were seen as early as week 24 for achievement of F-VASI 75 (Figure 3).
+In VITI-UP-1 and VITI-UP-2, significantly greater proportions of patients treated with upadacitinib 15 mg achieved each F-VASI 75 and T-VASI 50 compared to placebo at week 48 (Table 18). In VITIUP-1 and VITI-UP-2, statistically significant differences from placebo were seen as early as week 24 for achievement of F-VASI 75 (Figure 3).
 
-A significantly greater proportion of patients treated with upadacitinib 15 mg achieved complete or near complete facial repigmentation as assessed by F-VASI 90 compared to placebo at week 48 (Table 17).
+A significantly greater proportion of patients treated with upadacitinib 15 mg achieved complete or near complete facial repigmentation as assessed by F-VASI 90 compared to placebo at week 48 (Table 18).
 
 In VITI-UP-1 and VITI-UP-2, treatment effects in subgroups (age, weight, gender, race, Fitzpatrick skin type, baseline disease extent, baseline disease activity, disease duration, and prior therapy) were generally consistent with the overall results. Treatment effects at week 48 in adolescents 12 to 17 years of age were consistent with the results observed in the overall study population.
 
-In patients with actively progressing disease at baseline, disease stabilisation was assessed based on TVASI. In both VITI-UP-1 and VITI-UP-2, a significantly greater proportion of patients treated with upadacitinib 15 mg compared to placebo had no increase in disease extent based on the achievement of no increase from baseline in T-VASI at both week 8 and 12 (Table 17).
+In patients with actively progressing disease at baseline, disease stabilisation was assessed based on TVASI. In both VITI-UP-1 and VITI-UP-2, a significantly greater proportion of patients treated with upadacitinib 15 mg compared to placebo had no increase in disease extent based on the achievement of no increase from baseline in T-VASI at both week 8 and 12 (Table 18).
 
 ## Patient-reported outcomes
 
-A significantly greater proportion of patients treated with upadacitinib 15 mg achieved a meaningful improvement in the Patient's Global Impression of Change Vitiligo (PaGIC-V, 'Much better') and the Vitiligo Noticeability Scale (VNS, 'A lot less noticeable' or 'No longer noticeable').
+A significantly greater proportion of patients treated with upadacitinib 15 mg achieved a meaningful improvement in the Patient's Global Impression of Change Vitiligo (PaGIC-V, \"Much better\") and the Vitiligo Noticeability Scale (VNS, \"A lot less noticeable\" or \"No longer noticeable\").
 
-Table 17 Efficacy results in patients with non-segmental vitiligo (VITI-UP-1 and VITIUP-2)
+Table 18 Efficacy results in patients with non-segmental vitiligo (VITI-UP-1 and VITI-UP-2)
 
-|                                                                                 | VITI-UP-1                            | VITI-UP-1                            | VITI-UP-1                            | VITI-UP-2                            | VITI-UP-2                            | VITI-UP-2                            |
-|---------------------------------------------------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-| Treatment Group                                                                 | PBO N=102                            | UPA 15 mg N=206                      | Treatment Difference (95% CI)        | PBO N=101                            | UPA 15 mg N=205                      | Treatment Difference (95% CI)        |
-| Co-primary Endpoints (Week 48)                                                  | Co-primary Endpoints (Week 48)       | Co-primary Endpoints (Week 48)       | Co-primary Endpoints (Week 48)       | Co-primary Endpoints (Week 48)       | Co-primary Endpoints (Week 48)       | Co-primary Endpoints (Week 48)       |
-| F-VASI 75                                                                       | 6%                                   | 25% e                                | 19% (12, 26)                         | 7%                                   | 23% e                                | 17% (9, 24)                          |
-| T-VASI 50                                                                       | 6%                                   | 19% e                                | 13% (6, 20)                          | 6%                                   | 21% e                                | 15% (7, 22)                          |
-| Week 48 Endpoints                                                               | Week 48 Endpoints                    | Week 48 Endpoints                    | Week 48 Endpoints                    | Week 48 Endpoints                    | Week 48 Endpoints                    | Week 48 Endpoints                    |
-| F-VASI 50                                                                       | 13%                                  | 48% e                                | 34% (25, 43)                         | 13%                                  | 43% e                                | 30% (21, 39)                         |
-| F-VASI 90                                                                       | 2%                                   | 16% e                                | 13% (8, 18)                          | 3%                                   | 12% f                                | 9% (4, 15)                           |
-| Percent change from Baseline in T-VASI, LSM (SE)                                | -9.1 (4.67)                          | -28.6 (4.03) e                       | -19.4 (-27.6, - 11.2)                | -12.5 (4.23)                         | -33.0 (3.20) e                       | -20.4 (-28.7, - 12.1)                |
-| Physician's Global Impression of Change Vitiligo (PhGIC-V) score of 1 a         | 6%                                   | 20% e                                | 13% (6, 19)                          | 1%                                   | 17% e                                | 15% (10, 21)                         |
-| Early Onset Endpoints                                                           | Early Onset Endpoints                | Early Onset Endpoints                | Early Onset Endpoints                | Early Onset Endpoints                | Early Onset Endpoints                | Early Onset Endpoints                |
-| F-VASI 75 at Week 24                                                            | 2%                                   | 15% e                                | 13% (8, 18)                          | 1%                                   | 11% e                                | 11% (6, 15)                          |
-| Percent change from Baseline in F-VASI at Week 24, LSM (SE)                     | -13.0 (5.09)                         | -42.4 (4.42) e                       | -29.4 (-38.1, - 20.8)                | -1.7 (4.46)                          | -27.9 (3.48) e                       | -26.2 (-34.4, - 18.0)                |
-| Achievement of no increase from baseline in T-VASI at both Week 8 and Week 12 b | N=63 60%                             | N=141 76% g                          | 16% (2, 30)                          | N=59 61%                             | N=119 76% g                          | 15% (1, 29)                          |
-| Patient-Reported Outcomes at Week 48                                            | Patient-Reported Outcomes at Week 48 | Patient-Reported Outcomes at Week 48 | Patient-Reported Outcomes at Week 48 | Patient-Reported Outcomes at Week 48 | Patient-Reported Outcomes at Week 48 | Patient-Reported Outcomes at Week 48 |
+| Treatment Group                                                         | VITI-UP-1 - PBO N=102          | VITI-UP-1 - UPA 15 mg N=206    | VITI-UP-1 - Treatment Difference (95% CI)   | VITI-UP-2 - PBO N=101          | VITI-UP-2 - UPA 15 mg N=205    | VITI-UP-2 - Treatment Difference (95% CI)   |
+|-------------------------------------------------------------------------|--------------------------------|--------------------------------|---------------------------------------------|--------------------------------|--------------------------------|---------------------------------------------|
+| Co-primary Endpoints (Week 48)                                          | Co-primary Endpoints (Week 48) | Co-primary Endpoints (Week 48) | Co-primary Endpoints (Week 48)              | Co-primary Endpoints (Week 48) | Co-primary Endpoints (Week 48) | Co-primary Endpoints (Week 48)              |
+| F-VASI 75                                                               | 6%                             | 25% e                          | 19% (12, 26)                                | 7%                             | 23% e                          | 17% (9, 24)                                 |
+| T-VASI 50                                                               | 6%                             | 19% e                          | 13% (6, 20)                                 | 6%                             | 21% e                          | 15% (7, 22)                                 |
+| Week 48 Endpoints                                                       | Week 48 Endpoints              | Week 48 Endpoints              | Week 48 Endpoints                           | Week 48 Endpoints              | Week 48 Endpoints              | Week 48 Endpoints                           |
+| F-VASI 50                                                               | 13%                            | 48% e                          | 34% (25, 43)                                | 13%                            | 43% e                          | 30% (21, 39)                                |
+| F-VASI 90                                                               | 2%                             | 16% e                          | 13% (8, 18)                                 | 3%                             | 12% f                          | 9% (4, 15)                                  |
+| Percent change from Baseline in T-VASI, LSM (SE)                        | -9.1 (4.67)                    | -28.6 (4.03) e                 | -19.4 (-27.6, - 11.2)                       | -12.5 (4.23)                   | -33.0 (3.20) e                 | -20.4 (-28.7, - 12.1)                       |
+| Physician's Global Impression of Change Vitiligo (PhGIC-V) score of 1 a | 6%                             | 20% e                          | 13% (6, 19)                                 | 1%                             | 17% e                          | 15% (10, 21)                                |
+| Early Onset Endpoints                                                   | Early Onset Endpoints          | Early Onset Endpoints          | Early Onset Endpoints                       | Early Onset Endpoints          | Early Onset Endpoints          | Early Onset Endpoints                       |
+| F-VASI 75 at Week 24                                                    | 2%                             | 15% e                          | 13% (8, 18)                                 | 1%                             | 11% e                          | 11% (6, 15)                                 |
+| Percent change from Baseline in F-VASI at Week 24, LSM (SE)             | -13.0 (5.09)                   | -42.4 (4.42) e                 | -29.4 (-38.1, - 20.8)                       | -1.7 (4.46)                    | -27.9 (3.48) e                 | -26.2 (-34.4, - 18.0)                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| PaGIC-V score of 1 c   | 4%   | 16% e   | 11% (5, 17)   | 1%   | 18% e   | 17% (11, 22)   |
-|------------------------|------|---------|---------------|------|---------|----------------|
-| VNS score of 4 or 5 d  | 2%   | 13% e   | 11% (5, 16)   | 1%   | 15% e   | 14% (9, 19)    |
+| Achievement of no increase from baseline in T-VASI at both Week 8 and Week 12 b   | N=63 60%                             | N=141 76% g                          | 16% (2, 30)                          | N=59 61%                             | N=119 76% g                          | 15% (1, 29)                          |
+|-----------------------------------------------------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+| Patient-Reported Outcomes at Week 48                                              | Patient-Reported Outcomes at Week 48 | Patient-Reported Outcomes at Week 48 | Patient-Reported Outcomes at Week 48 | Patient-Reported Outcomes at Week 48 | Patient-Reported Outcomes at Week 48 | Patient-Reported Outcomes at Week 48 |
+| PaGIC-V score of 1 c                                                              | 4%                                   | 16% e                                | 11% (5, 17)                          | 1%                                   | 18% e                                | 17% (11, 22)                         |
+| VNS score of 4 or 5 d                                                             | 2%                                   | 13% e                                | 11% (5, 16)                          | 1%                                   | 15% e                                | 14% (9, 19)                          |
 
 - F-VASI 50/75/90 is ≥ 50%, ≥ 75%, or ≥ 90% repigmentation of facial vitiligo from baseline.
 - T-VASI 50 is ≥ 50% repigmentation of total body vitiligo from baseline.
-- LSM = Least Squares Mean; SE = Standard Error
+
+LSM = Least Squares Mean; SE = Standard Error
+
 - a PhGIC-V is a single-item questionnaire where the investigator rates the overall change in the patient's vitiligo by comparing the severity of vitiligo right now with the severity of vitiligo since the patient started the study treatment. Responses range from 1 = \"Much better\" to 5 = \"Much worse\".
 - b Among patients with actively progressing vitiligo at baseline
 - c The PaGIC-V is a single-item questionnaire that asks patients to rate the overall change in their vitiligo by comparing the severity of their vitiligo right now with the severity of their vitiligo since they started the study treatment. Responses range from 1 = \"Much better\" to 5 = \"Much worse.\"
-- d The VNS is a single-item questionnaire that assesses the noticeability of vitiligo lesions from the patient's perspective following therapy. The item is scored on a 5-point scale: 1 = more noticeable; 2 = as noticeable;
+- d The VNS is a single-item questionnaire that assesses the noticeability of vitiligo lesions from the patient's
+- perspective following therapy. The item is scored on a 5-point scale: 1 = more noticeable; 2 = as noticeable;
 - 3 = slightly less noticeable; 4 = a lot less noticeable; and 5 = no longer noticeable. A score of 4 or 5 represents treatment success.
 - e Multiplicity-controlled p ≤ 0.001 upadacitinib vs placebo comparison
 - f Multiplicity-controlled p ≤ 0.01 upadacitinib vs placebo comparison
@@ -1484,13 +1515,11 @@ Figure 3 Proportion of patients achieving F-VASI 75 and T-VASI 50 through week 4
 
 <!-- image -->
 
-Weeks Weeks
-
 T-VASI 50
 
 <!-- image -->
 
-## Placebo RINVOQ 15 mg QD
+Weeks Weeks Placebo RINVOQ 15 mg QD
 
 + p-value ≤ 0.05 vs placebo ++ p-value ≤ 0.01 vs placebo +++ p-value ≤ 0.001 vs placebo *** statistically significant vs. placebo with p ≤ 0.001
 
@@ -1516,46 +1545,40 @@ At baseline in UC-1 and UC-2, 39% and 37% of patients received corticosteroids, 
 
 <div style=\"page-break-after: always\"></div>
 
-The primary endpoint was clinical remission per aMS at week 8. Table 18 shows the primary and key secondary endpoints including clinical response, mucosal healing, histologic-endoscopic mucosal healing and deep mucosal healing.
+The primary endpoint was clinical remission per aMS at week 8. Table 19 shows the primary and key secondary endpoints including clinical response, mucosal healing, histologic-endoscopic mucosal healing and deep mucosal healing.
 
-Table 18 Proportion of patients meeting primary and key secondary efficacy endpoints at week 8 in the induction studies UC-1 and UC-2
+Table 19 Proportion of patients meeting primary and key secondary efficacy endpoints at week 8 in the induction studies UC-1 and UC-2
 
-|                                         | UC-1 (U-ACHIEVE)   | UC-1 (U-ACHIEVE)   | UC-1 (U-ACHIEVE)              | UC-2 (U-ACCOMPLISH)   | UC-2 (U-ACCOMPLISH)   | UC-2 (U-ACCOMPLISH)           |
-|-----------------------------------------|--------------------|--------------------|-------------------------------|-----------------------|-----------------------|-------------------------------|
-| Endpoint                                | PBO N=154          | UPA 45 mg N=319    | Treatment Difference (95% CI) | PBO N=174             | UPA 45 mg N=341       | Treatment Difference (95% CI) |
-| Clinical remission a                    | 4.8%               | 26.1%              | 21.6%* (15.8, 27.4)           | 4.1%                  | 33.5%                 | 29.0%* (23.2, 34.7)           |
-| Prior biologic failure +                | 0.4%               | 17.9%              | 17.5%                         | 2.4%                  | 29.6%                 | 27.1%                         |
-| Without prior biologic failure +        | 9.2%               | 35.2%              | 26.0%                         | 5.9%                  | 37.5%                 | 31.6%                         |
-| Clinical response b                     | 27.3%              | 72.6%              | 46.3%* (38.4, 54.2)           | 25.4%                 | 74.5%                 | 49.4%* (41.7, 57.1)           |
-| Prior biologic failure +                | 12.8%              | 64.4%              | 51.6%                         | 19.3%                 | 69.4%                 | 50.1%                         |
-| Without prior biologic failure +        | 42.1%              | 81.8%              | 39.7%                         | 31.8%                 | 79.8%                 | 48.0%                         |
-| Mucosal healing c                       | 7.4%               | 36.3%              | 29.3%* (22.6, 35.9)           | 8.3%                  | 44.0%                 | 35.1%* (28.6, 41.6)           |
-| Prior biologic failure +                | 1.7%               | 27.0%              | 25.3%                         | 4.8%                  | 37.1%                 | 32.3%                         |
-| Without prior biologic failure +        | 13.2%              | 46.8%              | 33.6%                         | 12.0%                 | 51.2%                 | 39.2%                         |
-| Histologic-endoscopic mucosal healing d | 6.6%               | 30.1%              | 23.7%* (17.5, 30.0)           | 5.9%                  | 36.7%                 | 30.1%* (24.1, 36.2)           |
-| Prior biologic failure +                | 1.4%               | 22.7%              | 21.3%                         | 4.6%                  | 30.7%                 | 26.1%                         |
-| Without prior biologic failure +        | 11.8%              | 38.2%              | 26.4%                         | 7.2%                  | 42.9%                 | 35.7%                         |
-| Deep mucosal healing e                  | 1.3%               | 10.7%              | 9.7%* (5.7, 13.7)             | 1.7%                  | 13.5%                 | 11.3%* (7.2, 15.3)            |
-| Prior biologic failure +                | 0                  | 6.5%               | 6.5%                          | 1.1%                  | 9.2%                  | 8.1%                          |
-| Without prior biologic failure +        | 2.6%               | 15.4%              | 12.8%                         | 2.4%                  | 17.9%                 | 15.5%                         |
+| Endpoint                                | UC-1 (U-ACHIEVE) - PBO N=154   | UC-1 (U-ACHIEVE) - UPA 45 mg N=319   | UC-1 (U-ACHIEVE) - Treatment Difference (95% CI)   | UC-2 (U-ACCOMPLISH) - PBO N=174   | UC-2 (U-ACCOMPLISH) - UPA 45 mg N=341   | UC-2 (U-ACCOMPLISH) - Treatment Difference (95% CI)   |
+|-----------------------------------------|--------------------------------|--------------------------------------|----------------------------------------------------|-----------------------------------|-----------------------------------------|-------------------------------------------------------|
+| Clinical remission a                    | 4.8%                           | 26.1%                                | 21.6%* (15.8, 27.4)                                | 4.1%                              | 33.5%                                   | 29.0%* (23.2, 34.7)                                   |
+| Prior biologic failure +                | 0.4%                           | 17.9%                                | 17.5%                                              | 2.4%                              | 29.6%                                   | 27.1%                                                 |
+| Without prior biologic failure +        | 9.2%                           | 35.2%                                | 26.0%                                              | 5.9%                              | 37.5%                                   | 31.6%                                                 |
+| Clinical response b                     | 27.3%                          | 72.6%                                | 46.3%* (38.4, 54.2)                                | 25.4%                             | 74.5%                                   | 49.4%* (41.7, 57.1)                                   |
+| Prior biologic failure +                | 12.8%                          | 64.4%                                | 51.6%                                              | 19.3%                             | 69.4%                                   | 50.1%                                                 |
+| Without prior biologic failure +        | 42.1%                          | 81.8%                                | 39.7%                                              | 31.8%                             | 79.8%                                   | 48.0%                                                 |
+| Mucosal healing c                       | 7.4%                           | 36.3%                                | 29.3%* (22.6, 35.9)                                | 8.3%                              | 44.0%                                   | 35.1%* (28.6, 41.6)                                   |
+| Prior biologic failure +                | 1.7%                           | 27.0%                                | 25.3%                                              | 4.8%                              | 37.1%                                   | 32.3%                                                 |
+| Without prior biologic failure +        | 13.2%                          | 46.8%                                | 33.6%                                              | 12.0%                             | 51.2%                                   | 39.2%                                                 |
+| Histologic-endoscopic mucosal healing d | 6.6%                           | 30.1%                                | 23.7%* (17.5, 30.0)                                | 5.9%                              | 36.7%                                   | 30.1%* (24.1, 36.2)                                   |
+| Prior biologic failure +                | 1.4%                           | 22.7%                                | 21.3%                                              | 4.6%                              | 30.7%                                   | 26.1%                                                 |
+| Without prior biologic failure +        | 11.8%                          | 38.2%                                | 26.4%                                              | 7.2%                              | 42.9%                                   | 35.7%                                                 |
+| Deep mucosal healing e                  | 1.3%                           | 10.7%                                | 9.7%* (5.7, 13.7)                                  | 1.7%                              | 13.5%                                   | 11.3%* (7.2, 15.3)                                    |
+| Prior biologic failure +                | 0                              | 6.5%                                 | 6.5%                                               | 1.1%                              | 9.2%                                    | 8.1%                                                  |
+| Without prior biologic failure +        | 2.6%                           | 15.4%                                | 12.8%                                              | 2.4%                              | 17.9%                                   | 15.5%                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
 Abbreviations: PBO = placebo; UPA= upadacitinib; aMS = adapted Mayo Score, based on the Mayo Scoring system (excluding Physician's Global Assessment), which ranged from 0 to 9 and has three subscores that were each scored 0 (normal) to 3 (most severe): stool frequency subscore (SFS), rectal bleeding subscore (RBS) and a centrally-reviewed endoscopy subscore (ES).
 
-+ The number of 'Prior biologic failure' patients in UC-1 and UC-2 are 78 and 89 in the placebo group, and 168 and 173 in the upadacitinib 45 mg group, respectively; the number of 'Without prior biologic failure' patients in UC-1 and UC-2 are 76 and 85 in the placebo group, and 151 and 168 in the upadacitinib 45 mg group, respectively.
++ The number of \"Prior biologic failure\" patients in UC-1 and UC-2 are 78 and 89 in the placebo group, and 168 and 173 in the upadacitinib 45 mg group, respectively; the number of \"Without prior biologic failure\" patients in UC-1 and UC-2 are 76 and 85 in the placebo group, and 151 and 168 in the upadacitinib 45 mg group, respectively.
 
 * p &lt;0.001, adjusted treatment difference (95% CI)
-
-a Per aMS: SFS≤ 1 and not greater than baseline, RBS = 0, ES ≤ 1 without friability
-
-b Per aMS: decrease ≥ 2 points and ≥ 30% from baseline and a decrease in RBS ≥ 1 from baseline or an absolute RBS ≤ 1.
-
-c ES ≤ 1 without friability
-
-d ES ≤ 1 without friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in &lt; 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue.)
-
-e ES = 0, Geboes score &lt; 2 (indicating no neutrophil in crypts or lamina propria and no increase in eosinophil, no crypt destruction, and no erosions, ulcerations, or granulation tissue)
+- a Per aMS: SFS≤ 1 and not greater than baseline, RBS = 0, ES ≤ 1 without friability
+- b Per aMS: decrease ≥ 2 points and ≥ 30% from baseline and a decrease in RBS ≥ 1 from baseline or an absolute RBS ≤ 1.
+- c ES ≤ 1 without friability
+- d ES ≤ 1 without friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in &lt; 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue.)
+- e ES = 0, Geboes score &lt; 2 (indicating no neutrophil in crypts or lamina propria and no increase in eosinophil, no crypt destruction, and no erosions, ulcerations, or granulation tissue)
 
 ## Disease activity and symptoms
 
@@ -1569,36 +1592,38 @@ A total of 125 patients in UC-1 and UC-2 who did not achieve clinical response a
 
 The efficacy analysis for UC-3 was evaluated in 451 patients who achieved clinical response per aMS with 8-week upadacitinib 45 mg once daily induction treatment. Patients were randomised to receive upadacitinib 15 mg, 30 mg or placebo once daily for up to 52 weeks.
 
-The primary endpoint was clinical remission per aMS at week 52. Table 19 shows the key secondary endpoints including maintenance of clinical remission, corticosteroid-free clinical remission, mucosal healing, histologic-endoscopic mucosal healing and deep mucosal healing.
+The primary endpoint was clinical remission per aMS at week 52. Table 20 shows the key secondary endpoints including maintenance of clinical remission, corticosteroid-free clinical remission, mucosal healing, histologic-endoscopic mucosal healing and deep mucosal healing.
+
+## Table 20 Proportion of patients meeting primary and key secondary efficacy endpoints at week 52 in the maintenance study UC-3
+
+|                                  | PBO N=149   | UPA 15 mg N=148   | UPA 30 mg N=154   | Treatment Difference 15 mg vs PBO (95% CI)   | Treatment Difference 30 mg vs PBO (95% CI)   |
+|----------------------------------|-------------|-------------------|-------------------|----------------------------------------------|----------------------------------------------|
+| Clinical remission a             | 12.1%       | 42.3%             | 51.7%             | 30.7%* (21.7, 39.8)                          | 39.0%* (29.7, 48.2)                          |
+| Prior biologic failure +         | 7.5%        | 40.5%             | 49.1%             | 33.0%                                        | 41.6%                                        |
+| Without prior biologic failure + | 17.6%       | 43.9%             | 54.0%             | 26.3%                                        | 36.3%                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-Table 19 Proportion of patients meeting primary and key secondary efficacy endpoints at week 52 in the maintenance study UC-3
-
-|                                          | PBO N=149    | UPA 15 mg N=148   | UPA 30 mg N=154   | Treatment Difference 15 mg vs PBO (95% CI)   | Treatment Difference 30 mg vs PBO (95% CI)   |
-|------------------------------------------|--------------|-------------------|-------------------|----------------------------------------------|----------------------------------------------|
-| Clinical remission a                     | 12.1%        | 42.3%             | 51.7%             | 30.7%* (21.7, 39.8)                          | 39.0%* (29.7, 48.2)                          |
-| Prior biologic failure +                 | 7.5%         | 40.5%             | 49.1%             | 33.0%                                        | 41.6%                                        |
-| Without prior biologic failure +         | 17.6%        | 43.9%             | 54.0%             | 26.3%                                        | 36.3%                                        |
-| Maintenance of clinical remission b      | N = 54 22.2% | N = 47 59.2%      | N = 58 69.7%      | 37.4%* (20.3, 54.6)                          | 47.0%* (30.7, 63.3)                          |
-| Prior biologic failure                   | N = 22 13.6% | N = 17 76.5%      | N = 20 73.0%      | 62.8%                                        | 59.4%                                        |
-| Without prior biologic failure           | N = 32 28.1% | N = 30 49.4%      | N = 38 68.0%      | 21.3%                                        | 39.9%                                        |
-| Corticosteroid-free clinical remission c | N = 54 22.2% | N = 47 57.1%      | N = 58 68.0%      | 35.4%* (18.2, 52.7)                          | 45.1%* (28.7, 61.6)                          |
-| Prior biologic failure                   | N = 22 13.6% | N = 17 70.6%      | N = 20 73.0%      | 57.0%                                        | 59.4%                                        |
-| Without prior biologic failure           | N = 32 28.1% | N = 30 49.4%      | N = 38 65.4%      | 21.3%                                        | 37.2%                                        |
-| Mucosal healing d                        | 14.5%        | 48.7%             | 61.6%             | 34.4%* (25.1, 43.7)                          | 46.3%* (36.7, 55.8)                          |
-| Prior biologic failure +                 | 7.8%         | 43.3%             | 56.1%             | 35.5%                                        | 48.3%                                        |
-| Without prior biologic failure +         | 22.5%        | 53.6%             | 66.6%             | 31.1%                                        | 44.1%                                        |
-| Histologic-endoscopic mucosal healing e  | 11.9%        | 35.0%             | 49.8%             | 23.8%* (14.8, 32.8)                          | 37.3%* (27.8, 46.8)                          |
-| Prior biologic failure +                 | 5.2%         | 32.9%             | 47.6%             | 27.7%                                        | 42.4%                                        |
-| Without prior biologic failure +         | 20.0%        | 36.9%             | 51.8%             | 16.9%                                        | 31.8%                                        |
-| Deep mucosal healing f                   | 4.7%         | 17.6%             | 19.0%             | 13.0%* (6.0, 20.0)                           | 13.6%* (6.6, 20.6)                           |
-| Prior biologic failure +                 | 2.5%         | 17.2%             | 16.1%             | 14.7%                                        | 13.6%                                        |
-| Without prior biologic failure +         | 7.5%         | 18.0%             | 21.6%             | 10.6%                                        | 14.2%                                        |
+| Maintenance of clinical remission b      | N = 54 22.2%   | N = 47 59.2%   | N = 58 69.7%   | 37.4%* (20.3, 54.6)   | 47.0%* (30.7, 63.3)   |
+|------------------------------------------|----------------|----------------|----------------|-----------------------|-----------------------|
+| Prior biologic failure                   | N = 22 13.6%   | N = 17 76.5%   | N = 20 73.0%   | 62.8%                 | 59.4%                 |
+| Without prior biologic failure           | N = 32 28.1%   | N = 30 49.4%   | N = 38 68.0%   | 21.3%                 | 39.9%                 |
+| Corticosteroid-free clinical remission c | N = 54 22.2%   | N = 47 57.1%   | N = 58 68.0%   | 35.4%* (18.2, 52.7)   | 45.1%* (28.7, 61.6)   |
+| Prior biologic failure                   | N = 22 13.6%   | N = 17 70.6%   | N = 20 73.0%   | 57.0%                 | 59.4%                 |
+| Without prior biologic failure           | N = 32 28.1%   | N = 30 49.4%   | N = 38 65.4%   | 21.3%                 | 37.2%                 |
+| Mucosal healing d                        | 14.5%          | 48.7%          | 61.6%          | 34.4%* (25.1, 43.7)   | 46.3%* (36.7, 55.8)   |
+| Prior biologic failure +                 | 7.8%           | 43.3%          | 56.1%          | 35.5%                 | 48.3%                 |
+| Without prior biologic failure +         | 22.5%          | 53.6%          | 66.6%          | 31.1%                 | 44.1%                 |
+| Histologic-endoscopic mucosal healing e  | 11.9%          | 35.0%          | 49.8%          | 23.8%* (14.8, 32.8)   | 37.3%* (27.8, 46.8)   |
+| Prior biologic failure +                 | 5.2%           | 32.9%          | 47.6%          | 27.7%                 | 42.4%                 |
+| Without prior biologic failure +         | 20.0%          | 36.9%          | 51.8%          | 16.9%                 | 31.8%                 |
+| Deep mucosal healing f                   | 4.7%           | 17.6%          | 19.0%          | 13.0%* (6.0, 20.0)    | 13.6%* (6.6, 20.6)    |
+| Prior biologic failure +                 | 2.5%           | 17.2%          | 16.1%          | 14.7%                 | 13.6%                 |
+| Without prior biologic failure +         | 7.5%           | 18.0%          | 21.6%          | 10.6%                 | 14.2%                 |
 
 Abbreviations: PBO = placebo; UPA= upadacitinib; aMS = adapted Mayo Score, based on the Mayo Scoring system (excluding Physician's Global Assessment), which ranged from 0 to 9 and has three subscores that were each scored 0 (normal) to 3 (most severe): stool frequency subscore (SFS), rectal bleeding subscore (RBS) and a centrally-reviewed endoscopy subscore (ES).
 
-+ The number of 'Prior biologic failure' patients are 81, 71, and 73 in the placebo, upadacitinib 15 mg, and 30 mg group, respectively. The number of 'Without prior biologic failure' patients are 68, 77, and 81 in the placebo, upadacitinib 15 mg, and 30 mg group, respectively.
++ The number of \"Prior biologic failure\" patients are 81, 71, and 73 in the placebo, upadacitinib 15 mg, and 30 mg group, respectively. The number of \"Without prior biologic failure\" patients are 68, 77, and 81 in the placebo, upadacitinib 15 mg, and 30 mg group, respectively.
 * p &lt;0.001, adjusted treatment difference (95% CI)
 - a Per aMS: SFS≤ 1 and not greater than baseline, RBS = 0, ES ≤ 1 without friability
 - b Clinical remission per aMS at Week 52 among patients who achieved clinical remission at the end of induction treatment.
@@ -1607,11 +1632,11 @@ Abbreviations: PBO = placebo; UPA= upadacitinib; aMS = adapted Mayo Score, based
 - e ES ≤1 without friability and Geboes score ≤ 3.1 (indicating neutrophil infiltration in &lt;5% of crypts, no crypt destruction and no erosions, ulcerations or granulation tissue).
 - f ES = 0, Geboes score &lt; 2 (indicating no neutrophil in crypts or lamina propria and no increase in eosinophil, no crypt destruction, and no erosions, ulcerations or granulation tissue).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Disease symptoms
 
 Symptomatic remission per paMS, defined as SFS ≤ 1 and RBS = 0, was achieved over time through week 52 in more patients treated with both upadacitinib 15 mg and 30 mg once daily compared with placebo (Figure 5).
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 5 Proportion of patients with symptomatic remission per partial adapted Mayo score over time in maintenance study UC-3
 
@@ -1655,51 +1680,41 @@ In both studies, patients receiving corticosteroids at baseline initiated a cort
 
 Both studies included a 12-week extended treatment period with upadacitinib 30 mg once daily for patients who received upadacitinib 45 mg once daily and did not achieve clinical response per SF/APS (≥ 30% decrease in average daily very soft or liquid SF and/or ≥ 30% decrease in average daily APS and neither greater than baseline) at week 12.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical disease activity and symptoms
 
-In CD-1 and CD-2, a significantly greater proportion of patients treated with upadacitinib 45 mg achieved the co-primary endpoint of clinical remission at week 12 compared to placebo (Table 20). Onset of efficacy was rapid and achieved as early as week 2 (Table 20).
+In CD-1 and CD-2, a significantly greater proportion of patients treated with upadacitinib 45 mg achieved the co-primary endpoint of clinical remission at week 12 compared to placebo (Table 21). Onset of efficacy was rapid and achieved as early as week 2 (Table 21).
 
 In both studies, patients receiving upadacitinib 45 mg experienced significantly greater improvement from baseline in fatigue, as measured by FACIT-F score at week 12 compared to placebo.
 
 ## Endoscopic assessment
 
-In CD-1 and CD-2, a significantly greater proportion of patients treated with upadacitinib 45 mg achieved the co-primary endpoint of endoscopic response at week 12 compared to placebo (Table 20). In CD-1 and CD-2, a greater proportion of patients treated with upadacitinib 45 mg (14% and 19%, respectively) compared to placebo (0% and 5%, respectively) achieved SES-CD 0-2.
+<div style=\"page-break-after: always\"></div>
 
-Table 20 Proportion of patients meeting primary and additional efficacy endpoints in induction studies CD-1 and CD-2
+In CD-1 and CD-2, a significantly greater proportion of patients treated with upadacitinib 45 mg achieved the co-primary endpoint of endoscopic response at week 12 compared to placebo (Table 21). In CD-1 and CD-2, a greater proportion of patients treated with upadacitinib 45 mg (14% and 19%, respectively) compared to placebo (0% and 5%, respectively) achieved SES-CD 0-2.
 
-| Study                                           | CD-1 (U-EXCEED)                                 | CD-1 (U-EXCEED)                                 | CD-1 (U-EXCEED)                                 | CD-2 (U-EXCEL)                                  | CD-2 (U-EXCEL)                                  | CD-2 (U-EXCEL)                                  |
-|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| Treatment Group                                 | PBO N=171                                       | UPA 45 mg N=324                                 | Treatment Difference (95% CI)                   | PBO N=176                                       | UPA 45 mg N=350                                 | Treatment Difference (95% CI)                   |
-| Co-Primary Endpoints at Week 12                 | Co-Primary Endpoints at Week 12                 | Co-Primary Endpoints at Week 12                 | Co-Primary Endpoints at Week 12                 | Co-Primary Endpoints at Week 12                 | Co-Primary Endpoints at Week 12                 | Co-Primary Endpoints at Week 12                 |
-| Clinical remission a                            | 14%                                             | 40%                                             | 26% (19, 33) *                                  | 22%                                             | 51%                                             | 29% (21, 36) *                                  |
-| Prior biologic failure                          |                                                 |                                                 |                                                 | N=78 14%                                        | N=161 47%                                       | 33% (22, 44)                                    |
-| Without prior biologic failure                  |                                                 |                                                 |                                                 | N=98 29%                                        | N=189 54%                                       | 26% (14, 37)                                    |
-| Endoscopic response b                           | 4%                                              | 35%                                             | 31% (25, 37) *                                  | 13%                                             | 46%                                             | 33% (26, 40) *                                  |
-| Prior biologic failure                          |                                                 |                                                 |                                                 | N=78 9%                                         | N=161 38%                                       | 29% (19, 39)                                    |
-| Without prior biologic failure                  |                                                 |                                                 |                                                 | N=98 16%                                        | N=189 52%                                       | 36% (25, 46)                                    |
-| Additional Endpoints at Week 12                 | Additional Endpoints at Week 12                 | Additional Endpoints at Week 12                 | Additional Endpoints at Week 12                 | Additional Endpoints at Week 12                 | Additional Endpoints at Week 12                 | Additional Endpoints at Week 12                 |
-| Clinical remission per CDAI c                   | 21%                                             | 39%                                             | 18% (10, 26) *                                  | 29%                                             | 49%                                             | 21% (13, 29) *                                  |
-| Clinical response (CR-100) d                    | 27%                                             | 51%                                             | 23% (14, 31) *                                  | 37%                                             | 57%                                             | 20% (11, 28) *                                  |
-| Corticosteroid-free clinical remission a,e      | N=60 7%                                         | N=108 37%                                       | 30% (19, 41) *                                  | N=64 13%                                        | N=126 44%                                       | 33% (22, 44) *                                  |
-| Endoscopic remission f                          | 2%                                              | 19%                                             | 17% (12, 22) *                                  | 7%                                              | 29%                                             | 22% (16, 28) *                                  |
-| Mucosal healing g                               | N=171 0%                                        | N= 322 17%                                      | 17% (13, 21) ***                                | N=174 5%                                        | N=349 25%                                       | 20% (14, 25) ***                                |
-| Early Onset Endpoints                           | Early Onset Endpoints                           | Early Onset Endpoints                           | Early Onset Endpoints                           | Early Onset Endpoints                           | Early Onset Endpoints                           | Early Onset Endpoints                           |
-| Clinical remission at Week 4 a                  | 9%                                              | 32%                                             | 23% (17, 30) *                                  | 15%                                             | 36%                                             | 21% (14, 28) *                                  |
-| CR-100 at Week 2 d                              | 12%                                             | 33%                                             | 21% (14, 28) *                                  | 20%                                             | 32%                                             | 12% (4, 19) **                                  |
-| Abbreviation: PBO = placebo, UPA = upadacitinib | Abbreviation: PBO = placebo, UPA = upadacitinib | Abbreviation: PBO = placebo, UPA = upadacitinib | Abbreviation: PBO = placebo, UPA = upadacitinib | Abbreviation: PBO = placebo, UPA = upadacitinib | Abbreviation: PBO = placebo, UPA = upadacitinib | Abbreviation: PBO = placebo, UPA = upadacitinib |
+Table 21 Proportion of patients meeting primary and additional efficacy endpoints in induction studies CD-1 and CD-2
+
+| Study - Treatment Group                    | CD-1 (U-EXCEED) - PBO N=171     | CD-1 (U-EXCEED) - UPA 45 mg N=324   | CD-1 (U-EXCEED) - Treatment Difference (95% CI)   | CD-2 (U-EXCEL) - PBO N=176      | CD-2 (U-EXCEL) - UPA 45 mg N=350   | CD-2 (U-EXCEL) - Treatment Difference (95% CI)   |
+|--------------------------------------------|---------------------------------|-------------------------------------|---------------------------------------------------|---------------------------------|------------------------------------|--------------------------------------------------|
+| Co-Primary Endpoints at Week 12            | Co-Primary Endpoints at Week 12 | Co-Primary Endpoints at Week 12     | Co-Primary Endpoints at Week 12                   | Co-Primary Endpoints at Week 12 | Co-Primary Endpoints at Week 12    | Co-Primary Endpoints at Week 12                  |
+| Clinical remission a                       | 14%                             | 40%                                 | 26% (19, 33) *                                    | 22%                             | 51%                                | 29% (21, 36) *                                   |
+| Prior biologic failure                     |                                 |                                     |                                                   | N=78 14%                        | N=161 47%                          | 33% (22, 44)                                     |
+| Without prior biologic failure             |                                 |                                     |                                                   | N=98 29%                        | N=189 54%                          | 26% (14, 37)                                     |
+| Endoscopic response b                      | 4%                              | 35%                                 | 31% (25, 37) *                                    | 13%                             | 46%                                | 33% (26, 40) *                                   |
+| Prior biologic failure                     |                                 |                                     |                                                   | N=78 9%                         | N=161 38%                          | 29% (19, 39)                                     |
+| Without prior biologic failure             |                                 |                                     |                                                   | N=98 16%                        | N=189 52%                          | 36% (25, 46)                                     |
+| Additional Endpoints at Week 12            | Additional Endpoints at Week 12 | Additional Endpoints at Week 12     | Additional Endpoints at Week 12                   | Additional Endpoints at Week 12 | Additional Endpoints at Week 12    | Additional Endpoints at Week 12                  |
+| Clinical remission per CDAI c              | 21%                             | 39%                                 | 18% (10, 26) *                                    | 29%                             | 49%                                | 21% (13, 29) *                                   |
+| Clinical response (CR-100) d               | 27%                             | 51%                                 | 23% (14, 31) *                                    | 37%                             | 57%                                | 20% (11, 28) *                                   |
+| Corticosteroid-free clinical remission a,e | N=60 7%                         | N=108 37%                           | 30% (19, 41) *                                    | N=64 13%                        | N=126 44%                          | 33% (22, 44) *                                   |
+| Endoscopic remission f                     | 2%                              | 19%                                 | 17% (12, 22) *                                    | 7%                              | 29%                                | 22% (16, 28) *                                   |
+| Mucosal healing g                          | N=171 0%                        | N= 322 17%                          | 17% (13, 21) ***                                  | N=174 5%                        | N=349 25%                          | 20% (14, 25) ***                                 |
+| Early Onset Endpoints                      | Early Onset Endpoints           | Early Onset Endpoints               | Early Onset Endpoints                             | Early Onset Endpoints           | Early Onset Endpoints              | Early Onset Endpoints                            |
+| Clinical remission at Week 4 a             | 9%                              | 32%                                 | 23% (17, 30) *                                    | 15%                             | 36%                                | 21% (14, 28) *                                   |
+| CR-100 at Week 2 d                         | 12%                             | 33%                                 | 21% (14, 28) *                                    | 20%                             | 32%                                | 12% (4, 19) **                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-* p &lt; 0.001, adjusted treatment difference (95% CI)
-- ** p &lt; 0.01, adjusted treatment difference (95% CI)
-- ***  nominal p &lt; 0.001 UPA vs PBO comparison, adjusted treatment difference (95% CI)
-- a Average daily SF ≤ 2.8 and APS ≤ 1.0 and neither greater than baseline
-- b Decrease in SES-CD &gt; 50% from baseline of the induction study (or for patients with an SES-CD of 4 at baseline of the induction study, at least a 2-point reduction from baseline of the induction study)
-- c  CDAI &lt; 150
-- d Decrease of at least 100 points in CDAI from baseline
-- e Discontinuation of steroid and achievement of clinical remission among patients on steroid at baseline
 - f SES-CD ≤ 4 and at least a 2-point reduction versus baseline and no subscore &gt; 1 in any individual variable
 - g SES-CD ulcerated surface subscore of 0 in patients with SES-CD ulcerated surface subscore ≥ 1 at baseline
 
@@ -1709,7 +1724,7 @@ The efficacy analysis for CD-3 evaluated 502 patients who achieved clinical resp
 
 ## Clinical disease activity and symptoms
 
-A significantly greater proportion of patients treated with upadacitinib 15 mg and 30 mg achieved the co-primary endpoint of clinical remission at week 52 compared to placebo (Figure 6, Table 21).
+A significantly greater proportion of patients treated with upadacitinib 15 mg and 30 mg achieved the co-primary endpoint of clinical remission at week 52 compared to placebo (Figure 6, Table 22).
 
 Figure 6 Proportion of patients achieving clinical remission in maintenance study CD-3
 
@@ -1719,7 +1734,7 @@ Patients receiving upadacitinib 30 mg experienced significantly greater improvem
 
 <div style=\"page-break-after: always\"></div>
 
-Table 21 Proportion of patients meeting primary and additional efficacy endpoints at week 52 in maintenance study CD-3
+Table 22 Proportion of patients meeting primary and additional efficacy endpoints at week 52 in maintenance study CD-3
 
 | Treatment Group                            | PBO + N=165          | UPA 15 mg N=169      | UPA 30 mg N=168      | Treatment Difference 15 mg vs PBO (95% CI)   | Treatment Difference 30 mg vs PBO (95% CI)   |
 |--------------------------------------------|----------------------|----------------------|----------------------|----------------------------------------------|----------------------------------------------|
@@ -1745,32 +1760,27 @@ Abbreviation: PBO = placebo, UPA = upadacitinib
 
 * p &lt; 0.001, adjusted treatment difference (95% CI)
 
-** p &lt; 0.01, adjusted treatment difference (95% CI)
-
-***  nominal p &lt; 0.001 UPA vs PBO comparison, adjusted treatment difference (95% CI)
-
+- ** p &lt; 0.01, adjusted treatment difference (95% CI)
+- *** nominal p &lt; 0.001 UPA vs PBO comparison, adjusted treatment difference (95% CI)
 - a Average daily SF ≤ 2.8 and APS ≤ 1.0 and neither greater than baseline
 - b Decrease in SES-CD &gt; 50% from baseline of the induction study (or for patients with an SES-CD of 4 at baseline of the induction study, at least a 2-point reduction from baseline of the induction study)
 
-c  CDAI &lt; 150
+c CDAI &lt; 150
 
 d Reduction of CDAI ≥ 100 points from baseline
 
-- e Corticosteroid-free for 90 days prior to week 52 and achievement of clinical remission. Among the subset of patients who were on corticosteroids at induction baseline, 38% (N=63) in upadacitinib
+e Corticosteroid-free for 90 days prior to week 52 and achievement of clinical remission. Among the subset of patients who were on corticosteroids at induction baseline, 38% (N=63) in upadacitinib Patients who were not in clinical response per SF/APS to upadacitinib induction at week 12 in CD-1 and CD-2 (122 patients) received upadacitinib 30 mg once daily for an additional 12 weeks. Of these patients, 53% achieved clinical response at week 24. Of the patients who responded to the extended treatment period and continued to receive maintenance treatment with upadacitinib 30 mg, 25% achieved clinical remission and 22% achieved endoscopic response at week 52.
 
 <div style=\"page-break-after: always\"></div>
 
 | 15 mg group, 38% (N=63) in upadacitinib 30 mg group, and 5% (N=61) in placebo were corticosteroid-free for 90 days prior to week 52 and in clinical remission                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | f Defined as achievement of clinical remission at Week 52 in patients who achieved clinical remission at the entry of the maintenance study g SES-CD ≤ 4 and at least a 2-point reduction versus baseline and no subscore >1 in any individual variable |
-| h SES-CD ulcerated surface subscore of 0 in patients with SES-CD ulcerated surface subscore ≥ 1 at baseline                                                                                                                                             |
-| i Clinical remission and endoscopic remission                                                                                                                                                                                                           |
-
-Patients who were not in clinical response per SF/APS to upadacitinib induction at week 12 in CD-1 and CD-2 (122 patients) received upadacitinib 30 mg once daily for an additional 12 weeks. Of these patients, 53% achieved clinical response at week 24. Of the patients who responded to the extended treatment period and continued to receive maintenance treatment with upadacitinib 30 mg, 25% achieved clinical remission and 22% achieved endoscopic response at week 52.
+| h SES-CD ulcerated surface subscore of 0 in patients with SES-CD ulcerated surface subscore ≥ 1 at baseline i Clinical remission and endoscopic remission                                                                                               |
 
 ## Endoscopic assessment
 
-In CD-3, a significantly greater proportion of patients treated with upadacitinib 15 mg and 30 mg achieved the co-primary endpoint of endoscopic response at week 52 compared to placebo (Table 21). In addition to the endoscopic endpoints described in Table 21, a greater proportion of patients treated with upadacitinib 15 mg and 30 mg (11% and 21%, respectively) compared to placebo (3%) achieved SES-CD 0-2 at week 52. Corticosteroid-free endoscopic remission among patients on steroid at baseline was achieved in a greater proportion of patients treated with upadacitinib 15 mg and 30 mg (17% and 25%, respectively) compared to placebo (3%) at week 52.
+In CD-3, a significantly greater proportion of patients treated with upadacitinib 15 mg and 30 mg achieved the co-primary endpoint of endoscopic response at week 52 compared to placebo (Table 22). In addition to the endoscopic endpoints described in Table 22, a greater proportion of patients treated with upadacitinib 15 mg and 30 mg (11% and 21%, respectively) compared to placebo (3%) achieved SES-CD 0-2 at week 52. Corticosteroid-free endoscopic remission among patients on steroid at baseline was achieved in a greater proportion of patients treated with upadacitinib 15 mg and 30 mg (17% and 25%, respectively) compared to placebo (3%) at week 52.
 
 ## Resolution of extra-intestinal manifestations
 
@@ -1784,7 +1794,25 @@ In CD-3, patients who demonstrated inadequate response or lost response during m
 
 Patients treated with upadacitinib achieved greater improvement in health-related quality of life (HRQOL) measured by the Inflammatory Bowel Disease Questionnaire (IBDQ) total score compared to placebo. Improvements were seen in all 4 domain scores: systemic symptoms (including fatigue) and bowel symptoms (including abdominal pain and bowel urgency), as well as social and emotional functioning. Changes from baseline in IBDQ total score at week 12 with upadacitinib 45 mg once daily compared to placebo were 46.0 and 21.6 in CD-1 and 46.3 and 24.4 in CD-2, respectively. Changes in IBDQ total score at week 52 from baseline were 59.3, 64.5 and 46.4 in patients treated with upadacitinib 15 mg, 30 mg once daily and placebo, respectively.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
+
+## Polyarticular juvenile idiopathic arthritis
+
+The efficacy of upadacitinib in paediatric patients with polyarticular juvenile idiopathic arthritis is based on exposure-matched extrapolation of the established efficacy of upadacitinib in adult patients with rheumatoid arthritis. This data is supported by the efficacy and safety of upadacitinib assessed in a multicentre, open-label, single-arm study in 122 paediatric patients (2 to &lt; 18 years of age) with polyarticular juvenile idiopathic arthritis. The polyarticular juvenile idiopathic arthritis patient subtypes at study entry included rheumatoid factor negative polyarticular (67.2%), rheumatoid factor positive polyarticular (16.4%), extended oligoarticular (14.8%), and systemic juvenile idiopathic arthritis without systemic manifestations (1.6%). A total of 22.1% of patients had received prior treatment with biological DMARDs. A total of 36.9% of patients were receiving concomitant methotrexate at baseline. Changes in methotrexate dose or other concomitant medications (e.g. corticosteroids, NSAIDs) were allowed during the study. All patients received upadacitinib 15 mg tablets once daily or upadacitinib oral solution weight-based equivalent twice daily for up to 156 weeks.
+
+## Clinical response
+
+The proportion of patients demonstrating response at week 12 and week 48 are shown in Table 23. The efficacy was generally consistent with responses in adult patients with rheumatoid arthritis.
+
+Table 23 Clinical response
+
+|                                                                                                                                                                                                                                                                                                                | Week 12 N=122                                                                                                                                                                                                                                                                                                  | Week 48 N=122                                                                                                                                                                                                                                                                                                  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ACR paediatric 70 response a                                                                                                                                                                                                                                                                                   | 66.4%                                                                                                                                                                                                                                                                                                          | 79.5%                                                                                                                                                                                                                                                                                                          |
+| JADAS27-CRP remission b                                                                                                                                                                                                                                                                                        | 23.0%                                                                                                                                                                                                                                                                                                          | 43.4%                                                                                                                                                                                                                                                                                                          |
+| Abbreviations: a ACR Paediatric 70 = American College of Rheumatology Paediatric ≥70% improvement b JADAS27-CRP Remission = Juvenile Arthritis Disease Activity Score 27 joints, C-reactive protein Remission; defined as JADAS27-CRP≤1 Results for all endpoints are reported using non-responder imputation. | Abbreviations: a ACR Paediatric 70 = American College of Rheumatology Paediatric ≥70% improvement b JADAS27-CRP Remission = Juvenile Arthritis Disease Activity Score 27 joints, C-reactive protein Remission; defined as JADAS27-CRP≤1 Results for all endpoints are reported using non-responder imputation. | Abbreviations: a ACR Paediatric 70 = American College of Rheumatology Paediatric ≥70% improvement b JADAS27-CRP Remission = Juvenile Arthritis Disease Activity Score 27 joints, C-reactive protein Remission; defined as JADAS27-CRP≤1 Results for all endpoints are reported using non-responder imputation. |
 
 ## Atopic dermatitis
 
@@ -1792,7 +1820,7 @@ A total of 542 adolescents aged 12 to 17 years with moderate to severe atopic de
 
 <div style=\"page-break-after: always\"></div>
 
-Table 22 Efficacy results of upadacitinib for adolescents at week 16
+Table 24 Efficacy results of upadacitinib for adolescents at week 16
 
 | Study                                        | MEASURE UP 1          | MEASURE UP 1          | MEASURE UP 1          | MEASURE UP 2          | MEASURE UP 2          | MEASURE UP 2          | AD UP                 | AD UP                 | AD UP                 |
 |----------------------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
@@ -1807,19 +1835,23 @@ Abbreviations: UPA= upadacitinib (RINVOQ); PBO = placebo
 
 Subjects with rescue medication or with missing data were counted as non-responders.
 
-- a  Based on number of subjects randomised
-- b Responder was defined as a patient with vIGA-AD 0 or 1 ('clear' or 'almost clear') with a reduction of ≥ 2 points on a 0-4 ordinal scale.
+a Based on number of subjects randomised
+
+b Responder was defined as a patient with vIGA-AD 0 or 1 (\"clear\" or \"almost clear\") with a reduction of ≥ 2 points on a 0-4 ordinal scale.
+
 - c Results shown in subset of patients eligible for assessment (patients with Worst Pruritus NRS ≥ 4 at baseline).
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with RINVOQ in one or more subsets of the paediatric population in chronic idiopathic arthritis (including rheumatoid arthritis, psoriatic arthritis, spondyloarthritis and juvenile idiopathic arthritis) atopic dermatitis, alopecia areata, vitiligo, ulcerative colitis, and Crohn's disease (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
-Upadacitinib plasma exposures are proportional to dose over the therapeutic dose range. Steady-state plasma concentrations are achieved within 4 days with minimal accumulation after multiple once daily administrations.
+Upadacitinib plasma exposures are proportional to dose over the therapeutic dose range. Steady-state plasma concentrations are achieved within 4 days with minimal accumulation after multiple once daily administrations of the tablet.
+
+RINVOQ tablets and RINVOQ oral solution are not bioequivalent. Therefore, the two pharmaceutical forms are not interchangeable on a milligram-per-milligram basis (see section 4.2).
 
 ## Absorption
 
-Following oral administration of upadacitinib prolonged-release formulation, upadacitinib is absorbed with a median T max of 2 to 4 hours. Coadministration of upadacitinib with a high-fat meal had no clinically relevant effect on upadacitinib exposures (increased AUC by 29% and Cmax by 39% to 60%). In clinical trials, upadacitinib was administered without regard to meals (see section 4.2). In vitro , upadacitinib is a substrate for the efflux transporters P-gp and BCRP.
+Following oral administration of upadacitinib prolonged-release formulation, upadacitinib is absorbed with a median T max of 2 to 4 hours. Coadministration of upadacitinib with a high-fat meal had no clinically relevant effect on upadacitinib exposures (increased AUC by 29% and Cmax by 39% to 60%). In clinical trials, upadacitinib was administered without regard to meals (see section 4.2). In vitro, upadacitinib is a substrate for the efflux transporters P-gp and BCRP.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1827,7 +1859,7 @@ Following oral administration of upadacitinib prolonged-release formulation, upa
 
 Upadacitinib is 52% bound to plasma proteins. Upadacitinib partitions similarly between plasma and blood cellular components, as indicated by the blood to plasma ratio of 1.0.
 
-## Metabolism
+## Biotransformation
 
 Upadacitinib metabolism is mediated by CYP3A4 with a potential minor contribution from CYP2D6. The pharmacologic activity of upadacitinib is attributed to the parent molecule. In a human radiolabeled study, unchanged upadacitinib accounted for 79% of the total radioactivity in plasma while the main metabolite (product of monooxidation followed by glucuronidation) accounted for 13% of the total plasma radioactivity. No active metabolites have been identified for upadacitinib.
 
@@ -1847,19 +1879,25 @@ Mild (Child-Pugh A) and moderate (Child-Pugh B) hepatic impairment has no clinic
 
 ## Paediatric population
 
-The pharmacokinetics of upadacitinib have not yet been evaluated in paediatric patients with rheumatoid arthritis, psoriatic arthritis, axial spondyloarthritis, ulcerative colitis, and Crohn's disease (see section 4.2).
-
 Upadacitinib pharmacokinetics and steady-state concentrations are similar for adults and adolescents 12 to 17 years of age with atopic dermatitis, alopecia areata and vitiligo.
 
 The posology in adolescent patients 30 kg to &lt; 40 kg with atopic dermatitis was determined using population pharmacokinetic modelling and simulation. No clinical exposure data are available in adolescents &lt; 40 kg with atopic dermatitis.
 
-The pharmacokinetics of upadacitinib in paediatric patients (&lt; 12 years of age) with atopic dermatitis, alopecia areata or vitiligo have not been established.
+Upadacitinib plasma exposures (Cmax,ss and AUC24,ss) in paediatric patients with polyarticular juvenile idiopathic arthritis following the recommended weight-based paediatric dosing scheme are predicted to be similar to the target plasma exposure in adult rheumatoid arthritis patients receiving the recommended dose.
+
+The pharmacokinetics of upadacitinib in paediatric patients &lt; 2 years of age or weighing &lt; 10 kg have not been established.
 
 <div style=\"page-break-after: always\"></div>
 
+The pharmacokinetics of upadacitinib have not yet been evaluated in paediatric patients with psoriatic arthritis, axial spondyloarthritis, ulcerative colitis, and Crohn's disease (see section 4.2).
+
+The pharmacokinetics of upadacitinib in paediatric patients (&lt; 12 years of age) with atopic dermatitis, alopecia areata or vitiligo have not been established.
+
 ## Intrinsic factors
 
-Age, sex, body weight, race, and ethnicity did not have a clinically meaningful effect on upadacitinib exposure. Upadacitinib pharmacokinetics are consistent between rheumatoid arthritis, psoriatic arthritis, axial spondyloarthritis, giant cell arteritis, atopic dermatitis, alopecia areata, vitiligo, ulcerative colitis, and Crohn's disease patients.
+Age, sex, body weight, race, and ethnicity did not have a clinically meaningful effect on upadacitinib exposure in adult patient populations. Upadacitinib pharmacokinetics are consistent across rheumatoid arthritis, psoriatic arthritis, axial spondyloarthritis, giant cell arteritis, atopic dermatitis, alopecia areata, vitiligo, ulcerative colitis, and Crohn's disease patients.
+
+In paediatric patients with polyarticular juvenile idiopathic arthritis with baseline body weights ranging from 11 to 114 kg, upadacitinib clearance increased with increasing body weight, which supports weight-based dosing (see Table 1). Age (over the range of 2 to &lt; 18 years old) had no additional effect on upadacitinib pharmacokinetics after accounting for the effect of body weight.
 
 ## 5.3 Preclinical safety data
 
@@ -1875,6 +1913,8 @@ In animal embryo-foetal development studies, upadacitinib was teratogenic in bot
 
 Following administration of upadacitinib to lactating rats, the concentrations of upadacitinib in milk over time generally paralleled those in plasma, with approximately 30-fold higher exposure in milk relative to maternal plasma. Approximately 97% of upadacitinib-related material in milk was the parent molecule, upadacitinib.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -1883,13 +1923,13 @@ Following administration of upadacitinib to lactating rats, the concentrations o
 
 Microcrystalline cellulose Hypromellose Mannitol Tartaric acid Silica, colloidal anhydrous Magnesium stearate
 
-<div style=\"page-break-after: always\"></div>
-
 ## Film coating
 
-```
-Poly(vinyl alcohol) Macrogol Talc Titanium dioxide (E171) Iron oxide black (E172) (15 mg strength only) Iron oxide red (E172)
-```
+Poly(vinyl alcohol) Macrogol Talc Titanium dioxide (E171)
+
+Iron oxide black (E172) (15 mg strength only)
+
+Iron oxide red (E172)
 
 Iron oxide yellow (E172) (45 mg strength only)
 
@@ -1911,7 +1951,7 @@ Prolonged-release tablets in blisters: 2 years
 
 Prolonged-release tablets in bottles: 3 years
 
-## RINVOQ 45 mg prolonged-release tablets
+RINVOQ 45 mg prolonged-release tablets
 
 Prolonged-release tablets in blisters: 2 years
 
@@ -1923,9 +1963,11 @@ This medicinal product does not require any special temperature storage conditio
 
 Store in the original blister or bottle in order to protect from moisture. Keep the bottle tightly closed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
-## RINVOQ 15 mg prolonged-release tablets
+## RINVOQ 15 mg prolonged -release tablets
 
 Polyvinylchloride/polyethylene/polychlorotrifluoroethylene - aluminium calendar blisters in packs containing 28 or 98 prolonged-release tablets, or multipacks containing 84 (3 packs of 28) prolongedrelease tablets.
 
@@ -1933,19 +1975,15 @@ HDPE bottles with desiccant and polypropylene cap in carton containing 30 prolon
 
 Not all pack sizes may be marketed.
 
-## RINVOQ 30 mg prolonged-release tablets
+## RINVOQ 30 mg prolonged -release tablets
 
 Polyvinylchloride/polyethylene/polychlorotrifluoroethylene - aluminium calendar blisters in packs containing 28 or 98 prolonged-release tablets.
 
-HDPE bottles with desiccant and polypropylene cap in carton containing 30 prolonged-release tablets.
-
-<div style=\"page-break-after: always\"></div>
-
-Pack size: 1 bottle (30 prolonged-release tablets) or 3 bottles (90 prolonged-release tablets).
+HDPE bottles with desiccant and polypropylene cap in carton containing 30 prolonged-release tablets. Pack size: 1 bottle (30 prolonged-release tablets) or 3 bottles (90 prolonged-release tablets).
 
 Not all pack sizes may be marketed.
 
-## RINVOQ 45 mg prolonged-release tablets
+## RINVOQ 45 mg prolonged -release tablets
 
 Polyvinylchloride/polyethylene/polychlorotrifluoroethylene - aluminium calendar blisters in packs containing 28 prolonged-release tablets.
 
@@ -1963,15 +2001,924 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-```
-EU/1/19/1404/001 EU/1/19/1404/002 EU/1/19/1404/003 EU/1/19/1404/004 EU/1/19/1404/005 EU/1/19/1404/006 EU/1/19/1404/007 EU/1/19/1404/008 EU/1/19/1404/009 EU/1/19/1404/010 EU/1/19/1404/011
-```
+EU/1/19/1404/001 EU/1/19/1404/002 EU/1/19/1404/003 EU/1/19/1404/004 EU/1/19/1404/005 EU/1/19/1404/006 EU/1/19/1404/007 EU/1/19/1404/008
+
+<div style=\"page-break-after: always\"></div>
+
+EU/1/19/1404/009
+
+EU/1/19/1404/010
+
+EU/1/19/1404/011
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 16 December 2019
 
 Date of latest renewal: 19 September 2024
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+RINVOQ 1 mg/ml oral solution
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Each ml of oral solution contains upadacitinib hemihydrate, equivalent to 1 mg of upadacitinib.
+
+Excipient(s) with known effect
+
+Each ml of oral solution contains 0.3 mg of sodium benzoate.
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Oral solution
+
+Clear, colourless to light yellow solution, with a pH of 3.0 - 3.8.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indication
+
+RINVOQ is indicated for the treatment of active polyarticular juvenile idiopathic arthritis (polyarticular rheumatoid factor positive [RF+] or negative [RF-], extended oligoarticular), in patients 2 years of age and older who have responded inadequately to, or who are intolerant to one or more disease-modifying anti-rheumatic drugs (DMARDs). RINVOQ may be used as monotherapy or in combination with methotrexate.
+
+## 4.2 Posology and method of administration
+
+Treatment with upadacitinib should be initiated and supervised by physicians experienced in the diagnosis and treatment of conditions for which upadacitinib is indicated.
+
+Posology
+
+The recommended dose is based on body weight.
+
+Table 1 Upadacitinib dose for patients with polyarticular juvenile idiopathic arthritis two years of age and older
+
+| Patient weight   | Dosing regimen                                                               |
+|------------------|------------------------------------------------------------------------------|
+| 10 to < 20 kg    | 3 mg (3 ml oral solution) twice daily                                        |
+| 20 to < 30 kg    | 4 mg (4 ml oral solution) twice daily                                        |
+| ≥ 30 kg          | 6 mg (6 ml oral solution) twice daily or 15 mg (one 15 mg tablet) once daily |
+
+<div style=\"page-break-after: always\"></div>
+
+RINVOQ tablets and RINVOQ oral solution are not bioequivalent. Therefore, the two pharmaceutical forms are not interchangeable on a milligram-per-milligram basis.
+
+## Dose initiation
+
+Treatment should not be initiated in patients with an absolute lymphocyte count (ALC) that is &lt; 0.5 x 10 9 cells/L, an absolute neutrophil count (ANC) that is &lt; 1 x 10 9 cells/L or who have haemoglobin (Hb) levels that are &lt; 8 g/dL (see sections 4.4 and 4.8).
+
+## Dose interruption
+
+Treatment should be interrupted if a patient develops a serious infection until the infection is controlled.
+
+Interruption of dosing may be needed for management of laboratory abnormalities as described in Table 2.
+
+Table 2 Laboratory measures and monitoring guidance
+
+| Laboratory measure              | Action                                                                                                               | Monitoring guidance                                                                                                                                 |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Absolute Neutrophil Count (ANC) | Treatment should be interrupted if ANC is < 1 x 10 9 cells/L and may be restarted once ANC returns above this value  | Evaluate at baseline and then no later than 12 weeks after initiation of treatment. Thereafter evaluate according to individual patient management. |
+| Absolute Lymphocyte Count (ALC) | Treatment should be interrupted if ALC is <0.5 x 10 9 cells/L and may be restarted once ALC returns above this value | Evaluate at baseline and then no later than 12 weeks after initiation of treatment. Thereafter evaluate according to individual patient management. |
+| Haemoglobin (Hb)                | Treatment should be interrupted if Hb is < 8 g/dL and may be restarted once Hb returns above this value              | Evaluate at baseline and then no later than 12 weeks after initiation of treatment. Thereafter evaluate according to individual patient management. |
+| Hepatic transaminases           | Treatment should be temporarily interrupted if drug- induced liver injury is suspected                               | Evaluate at baseline and thereafter according to routine patient management.                                                                        |
+| Lipids                          | Patients should be managed according to international clinical guidelines for hyperlipidaemia                        | Evaluate 12 weeks after initiation of treatment and thereafter according to international clinical guidelines for hyperlipidaemia                   |
+
+<div style=\"page-break-after: always\"></div>
+
+## Special populations
+
+## Renal impairment
+
+No dose adjustment is required in patients with mild or moderate renal impairment. There are limited data on the use of upadacitinib in subjects with severe renal impairment (see section 5.2). Upadacitinib should be used with caution in patients with severe renal impairment. The use of upadacitinib has not been studied in subjects with end stage renal disease and is therefore not recommended for use in these patients.
+
+## Hepatic impairment
+
+No dose adjustment is required in patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment (see section 5.2). Upadacitinib should not be used in patients with severe (ChildPugh C) hepatic impairment (see section 4.3).
+
+## Paediatric population
+
+The safety and efficacy of RINVOQ in children weighing &lt; 10 kg or younger than 2 years of age have not been established. No data are available.
+
+## Method of administration
+
+RINVOQ oral solution is to be taken orally twice daily with or without food. RINVOQ oral solution should be administered using the provided press-in bottle adapter and oral dosing syringe. After the syringe is attached to the adapter, the bottle is inverted and the correct volume withdrawn. The bottle adapter is placed in the neck of the bottle on first use and should not be removed after it is inserted.
+
+For instructions on preparation and administration of RINVOQ oral solution, refer the patient or caregiver to the Instruction for use (section 7) in the package leaflet.
+
+## 4.3 Contraindications
+
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Active tuberculosis (TB) or active serious infections (see section 4.4).
+- Severe hepatic impairment (see section 4.2).
+- Pregnancy (see section 4.6).
+
+## 4.4 Special warnings and precautions for use
+
+Upadacitinib should only be used if no suitable treatment alternatives are available in patients:
+
+- 65 years of age and older;
+- patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors (such as current or past long-time smokers);
+- patients with malignancy risk factors (e.g. current malignancy or history of malignancy)
+
+## Use in patients 65 years of age and older
+
+Considering the increased risk of MACE, malignancies, serious infections, and all-cause mortality in patients 65 years of age and older, as observed in a large randomised study of tofacitinib (another Janus Kinase (JAK) inhibitor), upadacitinib should only be used in these patients if no suitable treatment alternatives are available.
+
+<div style=\"page-break-after: always\"></div>
+
+In patients 65 years of age and older, there is an increased risk of adverse reactions with upadacitinib 30 mg once daily. Consequently, the recommended dose for long-term use in this patient population is 15 mg once daily (see sections 4.2 and 4.8).
+
+## Immunosuppressive medicinal products
+
+Combination with other potent immunosuppressants such as azathioprine, 6-mercaptopurine, ciclosporin, tacrolimus, and biologic DMARDs or other JAK inhibitors has not been evaluated in clinical studies and is not recommended as a risk of additive immunosuppression cannot be excluded.
+
+## Serious infections
+
+Serious and sometimes fatal infections have been reported in patients receiving upadacitinib. The most frequent serious infections reported with upadacitinib included pneumonia (see section 4.8) and cellulitis. Cases of bacterial meningitis and sepsis have been reported in patients receiving upadacitinib. Among opportunistic infections, tuberculosis, multidermatomal herpes zoster, oral/oesophageal candidiasis, and cryptococcosis were reported with upadacitinib.
+
+Upadacitinib should not be initiated in patients with an active, serious infection, including localised infections (see section 4.3).
+
+Consider the risks and benefits of treatment prior to initiating upadacitinib in patients:
+
+- with chronic or recurrent infection
+- who have been exposed to tuberculosis
+- with a history of a serious or an opportunistic infection
+- who have resided or travelled in areas of endemic tuberculosis or endemic mycoses; or
+- with underlying conditions that may predispose them to infection.
+
+Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with upadacitinib. Upadacitinib therapy should be interrupted if a patient develops a serious or opportunistic infection. A patient who develops a new infection during treatment with upadacitinib should undergo prompt and complete diagnostic testing appropriate for an immunocompromised patient; appropriate antimicrobial therapy should be initiated, the patient should be closely monitored, and upadacitinib therapy should be interrupted if the patient is not responding to antimicrobial therapy. Upadacitinib therapy may be resumed once the infection is controlled.
+
+A higher rate of serious infections was observed with upadacitinib 30 mg compared to upadacitinib 15 mg.
+
+As there is a higher incidence of infections in the elderly and in the diabetic populations in general, caution should be used when treating the elderly and patients with diabetes. In patients 65 years of age and older, upadacitinib should only be used if no suitable treatment alternatives are available (see section 4.2).
+
+## Tuberculosis
+
+Patients should be screened for tuberculosis (TB) before starting upadacitinib therapy. Upadacitinib should not be given to patients with active TB (see section 4.3). Anti-TB therapy should be considered prior to initiation of upadacitinib in patients with previously untreated latent TB or in patients with risk factors for TB infection.
+
+Consultation with a physician with expertise in the treatment of TB is recommended to aid in the decision about whether initiating anti-TB therapy is appropriate for an individual patient.
+
+Patients should be monitored for the development of signs and symptoms of TB, including patients who tested negative for latent TB infection prior to initiating therapy.
+
+<div style=\"page-break-after: always\"></div>
+
+## Viral reactivation
+
+Viral reactivation, including cases of herpes virus reactivation (e.g., herpes zoster), was reported in clinical studies (see section 4.8). The risk of herpes zoster appears to be higher in Japanese patients treated with upadacitinib. If a patient develops herpes zoster, interruption of upadacitinib therapy should be considered until the episode resolves.
+
+Screening for viral hepatitis and monitoring for reactivation should be performed before starting and during therapy with upadacitinib. Patients who were positive for hepatitis C antibody and hepatitis C virus RNA were excluded from clinical studies. Patients who were positive for hepatitis B surface antigen or hepatitis B virus DNA were excluded from clinical studies. If hepatitis B virus DNA is detected while receiving upadacitinib, a liver specialist should be consulted.
+
+## Vaccination
+
+No data are available on the response to vaccination with live vaccines in patients receiving upadacitinib. Use of live, attenuated vaccines during or immediately prior to upadacitinib therapy is not recommended. Prior to initiating upadacitinib treatment, it is recommended that patients be brought up to date with all immunisations, including prophylactic zoster vaccinations, in agreement with current immunisation guidelines (see section 5.1).
+
+## Malignancy
+
+Lymphoma and other malignancies have been reported in patients receiving JAK inhibitors, including upadacitinib.
+
+In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of malignancies, particularly lung cancer, lymphoma and non-melanoma skin cancer (NMSC) was observed with tofacitinib compared to tumour necrosis factor (TNF) inhibitors.
+
+A higher rate of malignancies was observed with upadacitinib 30 mg compared to upadacitinib 15 mg.
+
+In patients 65 years of age and older, patients who are current or past long-time smokers, or with other malignancy risk factors (e.g., current malignancy or history of malignancy), upadacitinib should only be used if no suitable treatment alternatives are available.
+
+## Non-melanoma skin cancer (NMSC)
+
+NMSCs have been reported in patients treated with upadacitinib (see section 4.8). A higher rate of NMSC was observed with upadacitinib 30 mg compared to upadacitinib 15 mg. Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
+
+## Haematological abnormalities
+
+Absolute Neutrophil Count (ANC) &lt; 1 x 10 9 cells/L, Absolute Lymphocyte Count (ALC) &lt; 0.5 x 10 9 cells/L and haemoglobin &lt; 8 g/dL were reported in ≤1 % of patients in clinical trials (see section 4.8). Treatment should not be initiated, or should be temporarily interrupted, in patients with an ANC &lt; 1 x 10 9 cells/L, ALC &lt; 0.5 x 10 9 cells/L or haemoglobin &lt; 8 g/dL observed during routine patient management (see section 4.2).
+
+## Gastrointestinal perforations
+
+Events of diverticulitis and gastrointestinal perforations have been reported in clinical trials and from post-marketing sources (see section 4.8).
+
+<div style=\"page-break-after: always\"></div>
+
+Upadacitinib should be used with caution in patients who may be at risk for gastrointestinal perforation (e.g., patients with diverticular disease, a history of diverticulitis, or who are taking nonsteroidal anti-inflammatory drugs (NSAIDs), corticosteroids, or opioids). Patients with active Crohn's disease are at increased risk for developing intestinal perforation. Patients presenting with new onset abdominal signs and symptoms should be evaluated promptly for early identification of diverticulitis or gastrointestinal perforation.
+
+## Major adverse cardiovascular events
+
+Events of MACE were observed in clinical studies of upadacitinib.
+
+In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of MACE, defined as cardiovascular death, non-fatal myocardial infarction (MI) and non-fatal stroke, was observed with tofacitinib compared to TNF inhibitors.
+
+Therefore, in patients 65 years of age and older, patients who are current or past long-time smokers, and patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors, upadacitinib should only be used if no suitable treatment alternatives are available.
+
+## Lipids
+
+Treatment with upadacitinib was associated with dose-dependent increases in lipid parameters, including total cholesterol, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein (HDL) cholesterol (see section 4.8). Elevations in LDL cholesterol decreased to pre-treatment levels in response to statin therapy, although evidence is limited. The effect of these lipid parameter elevations on cardiovascular morbidity and mortality has not been determined (see section 4.2 for monitoring guidance).
+
+## Hepatic transaminase elevations
+
+Treatment with upadacitinib was associated with an increased incidence of liver enzyme elevation compared to placebo (see section 4.8).
+
+Hepatic transaminases must be evaluated at baseline and thereafter according to routine patient management. Prompt investigation of the cause of liver enzyme elevation is recommended to identify potential cases of drug-induced liver injury.
+
+If increases in ALT or AST are observed during routine patient management and drug-induced liver injury is suspected, upadacitinib therapy should be interrupted until this diagnosis is excluded.
+
+## Venous thromboembolism
+
+Events of deep venous thrombosis (DVT) and pulmonary embolism (PE) were observed in clinical trials for upadacitinib.
+
+In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a dose-dependent higher rate of VTE including DVT and PE was observed with tofacitinib compared to TNF inhibitors.
+
+In patients with cardiovascular or malignancy risk factors (see also section 4.4 \"Major adverse cardiovascular events\" and \"Malignancy\") upadacitinib should only be used if no suitable treatment alternatives are available.
+
+<div style=\"page-break-after: always\"></div>
+
+In patients with known VTE risk factors other than cardiovascular or malignancy risk factors, upadacitinib should be used with caution. VTE risk factors other than cardiovascular or malignancy risk factors include previous VTE, patients undergoing major surgery, immobilisation, use of combined hormonal contraceptives or hormone replacement therapy, and inherited coagulation disorder. Patients should be re-evaluated periodically during upadacitinib treatment to assess for changes in VTE risk. Patients with signs and symptoms of VTE should be promptly evaluated and treatment should be discontinued in patients with suspected VTE, regardless of dose.
+
+## Retinal vein occlusion
+
+Retinal vein occlusion has been reported in patients treated with JAK inhibitors, including upadacitinib. Patients should be advised to promptly seek medical care in case they experience symptoms suggestive of retinal vein occlusion.
+
+## Hypersensitivity reactions
+
+Serious hypersensitivity reactions such as anaphylaxis and angioedema have been reported in patients receiving upadacitinib. If a clinically significant hypersensitivity reaction occurs, treatment with upadacitinib must be discontinued and appropriate therapy must be instituted (see sections 4.3 and 4.8).
+
+## Hypoglycaemia in patients treated for diabetes
+
+There have been reports of hypoglycaemia following initiation of JAK inhibitors, including upadacitinib, in patients receiving treatment for diabetes. Dose adjustment of anti-diabetic medicinal products may be necessary in the event that hypoglycaemia occurs.
+
+## Excipients with known effect
+
+## Sodium benzoate
+
+This medicinal product contains 0.3 mg sodium benzoate in each ml.
+
+## Sodium
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per ml, that is to say essentially 'sodium-free'.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+## Potential for other medicinal products to affect the pharmacokinetics of upadacitinib
+
+Upadacitinib is metabolised mainly by CYP3A4. Therefore, upadacitinib plasma exposures can be affected by medicinal products that strongly inhibit or induce CYP3A4.
+
+## Co-administration with CYP3A4 inhibitors
+
+Upadacitinib exposure is increased when co-administered with strong CYP3A4 inhibitors (such as ketoconazole, itraconazole, posaconazole, voriconazole, clarithromycin, and grapefruit). In a clinical study, co-administration of upadacitinib with ketoconazole resulted in 70% and 75% increases in upadacitinib Cmax and AUC, respectively. Upadacitinib 15 mg tablets once daily or 3 mg, 4 mg, or 6 mg of the oral solution twice daily should be used with caution in patients receiving chronic treatment with strong CYP3A4 inhibitors. Alternatives to strong CYP3A4 inhibitors should be considered when used in the long-term. Food or drink containing grapefruit should be avoided during treatment with upadacitinib.
+
+<div style=\"page-break-after: always\"></div>
+
+## Co-administration with CYP3A4 inducers
+
+Upadacitinib exposure is decreased when co-administered with strong CYP3A4 inducers (such as rifampin and phenytoin), which may lead to reduced therapeutic effect of upadacitinib. In a clinical study, co-administration of upadacitinib after multiple doses of rifampicin (strong CYP3A inducer) resulted in approximately 50% and 60% decreases in upadacitinib Cmax and AUC, respectively. Patients should be monitored for changes in disease activity if upadacitinib is co-administered with strong CYP3A4 inducers.
+
+Methotrexate and pH modifying medicinal products (e.g., antacids or proton pump inhibitors) have no effect on upadacitinib plasma exposures.
+
+## Potential for upadacitinib to affect the pharmacokinetics of other medicinal products
+
+Administration of multiple 30 mg or 45 mg once daily doses of upadacitinib tablets to healthy subjects had a limited effect on midazolam (sensitive substrate for CYP3A) plasma exposures (24-26% decrease in midazolam AUC and Cmax), indicating that upadacitinib 30 mg or 45 mg tablet once daily may have a weak induction effect on CYP3A. In a clinical study, rosuvastatin and atorvastatin AUC were decreased by 33% and 23%, respectively, and rosuvastatin Cmax was decreased by 23% following the administration of multiple 30 mg tablet once daily doses of upadacitinib to healthy subjects. Upadacitinib had no relevant effect on atorvastatin Cmax or on plasma exposures of orthohydroxyatorvastatin (major active metabolite for atorvastatin). Administration of multiple 45 mg tablet once daily doses of upadacitinib to healthy subjects led to a limited increase in AUC and Cmax of dextromethorphan (sensitive CYP2D6 substrate) by 30% and 35%, respectively, indicating that upadacitinib 45 mg tablet once daily has a weak inhibitory effect on CYP2D6. No dose adjustment is recommended for CYP3A substrates, CYP2D6 substrates, rosuvastatin or atorvastatin when coadministered with upadacitinib.
+
+Upadacitinib has no relevant effects on plasma exposures of ethinyl estradiol, levonorgestrel, methotrexate, or medicinal products that are substrates for metabolism by CYP1A2, CYP2B6, CYP2C9, or CYP2C19.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Women of childbearing potential
+
+Women of childbearing potential have to use effective contraception during treatment and for 4 weeks following the final dose of upadacitinib. Female paediatric patients and/or their parents/caregivers should be informed about the need to contact the treating physician once the patient experiences menarche while taking upadacitinib.
+
+## Pregnancy
+
+There are no or limited data on the use of upadacitinib in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Upadacitinib was teratogenic in rats and rabbits with effects in bones in rat foetuses and in the heart in rabbit foetuses when exposed in utero.
+
+Upadacitinib is contraindicated during pregnancy (see section 4.3).
+
+If a patient becomes pregnant while taking upadacitinib the parents should be informed of the potential risk to the foetus.
+
+<div style=\"page-break-after: always\"></div>
+
+## Breast-feeding
+
+It is unknown whether upadacitinib/metabolites are excreted in human milk. Available pharmacodynamic/toxicological data in animals have shown excretion of upadacitinib in milk (see section 5.3).
+
+## A risk to newborns/infants cannot be excluded.
+
+Upadacitinib should not be used during breast-feeding. A decision must be made whether to discontinue breast-feeding or to discontinue upadacitinib therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+
+## Fertility
+
+The effect of upadacitinib on human fertility has not been evaluated. Animal studies do not indicate effects with respect to fertility (see section 5.3).
+
+## 4.7 Effects on ability to drive and use machines
+
+Upadacitinib may have a minor influence on the ability to drive and use machines because dizziness and vertigo may occur during treatment with RINVOQ (see section 4.8).
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+In the placebo-controlled clinical trials for rheumatoid arthritis, psoriatic arthritis, and axial spondyloarthritis, the most commonly reported adverse reactions (≥2% of patients in at least one of the indications with the highest rate among indications presented) with upadacitinib 15 mg were upper respiratory tract infections (19.5%), blood creatine phosphokinase (CPK) increased (8.6%), alanine transaminase increased (4.3%), bronchitis (3.9%), nausea (3.5%), neutropenia (2.8%), cough (2.2%), aspartate transaminase increased (2.2%), and hypercholesterolaemia (2.2%).
+
+In the placebo-controlled atopic dermatitis clinical trials, the most commonly reported adverse reactions (≥2% of patients) with upadacitinib 15 mg or 30 mg were upper respiratory tract infection (25.4%), acne (15.1%), herpes simplex (8.4%), headache (6.3%), blood CPK increased (5.5%), cough (3.2%), folliculitis (3.2%), abdominal pain (2.9%), nausea (2.7%), neutropenia (2.3%), pyrexia (2.1%), and influenza (2.1%).
+
+In the placebo-controlled ulcerative colitis and Crohn's disease induction and maintenance clinical trials, the most commonly reported adverse reactions (≥3% of patients) with upadacitinib 45 mg, 30 mg or 15 mg were upper respiratory tract infection (19.9%), pyrexia (8.7%), blood CPK increased (7.6%), anaemia (7.4%), headache (6.6%), acne (6.3%), herpes zoster (6.1%), neutropenia (6.0%), rash (5.2%), pneumonia (4.1%), hypercholesterolemia (4.0%), bronchitis (3.9%), aspartate transaminase increased (3.9%), fatigue (3.9%), folliculitis (3.6%), alanine transaminase increased (3.5%), herpes simplex (3.2%), and influenza (3.2%).
+
+The most common serious adverse reactions were serious infections (see section 4.4).
+
+The safety profile of upadacitinib with long-term treatment was generally similar to the safety profile during the placebo-controlled period across indications.
+
+## Tabulated list of adverse reactions
+
+The following list of adverse reactions is based on clinical studies and post-marketing experience in adults and adolescents with upadacitinib tablets. The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000). The frequencies in Table 3 are based on the higher of the rates for adverse reactions reported with RINVOQ in clinical trials of rheumatologic disease (15 mg tablet), atopic dermatitis (15 mg and 30 mg tablets), alopecia areata (15 mg and 30 mg tablets), vitiligo (15 mg tablet), ulcerative colitis (15 mg, 30 mg and 45 mg tablets), or Crohn's disease (15 mg, 30 mg, and 45 mg tablets). When notable differences in frequency were observed between indications, these are presented in the footnotes below the table.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 3 Adverse reactions
+
+| System organ class                                                       | Very common                                 | Common                                                                                                       | Uncommon                               | Rare                   |
+|--------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------|------------------------|
+| Infections and infestations                                              | Upper respiratory tract infections (URTI) a | Bronchitis a,b Herpes zoster a Herpes simplex a Folliculitis Influenza Urinary tract infection Pneumonia a,h | Oral candidiasis Diverticulitis Sepsis |                        |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |                                             | Non-melanoma skin cancer f                                                                                   |                                        |                        |
+| Blood and lymphatic system disorders                                     |                                             | Anaemia a Neutropenia a Lymphopenia                                                                          |                                        |                        |
+| Immune system disorders                                                  |                                             | Urticaria c,g                                                                                                | Serious hypersensitivity reactions a,e |                        |
+| Metabolism and nutrition disorders                                       |                                             | Hypercholesterolaemia a,b Hyperlipidaemia a,b                                                                | Hypertriglyceridaemia                  |                        |
+| Nervous system disorders                                                 |                                             | Headache a,j Dizziness                                                                                       |                                        |                        |
+| Ear and labyrinth disorders                                              |                                             | Vertigo a                                                                                                    |                                        |                        |
+| Respiratory, thoracic and mediastinal disorders                          |                                             | Cough                                                                                                        |                                        |                        |
+| Gastrointestinal disorders                                               |                                             | Abdominal pain a Nausea                                                                                      | Gastrointestinal perforation i         |                        |
+| Skin and subcutaneous tissue disorders                                   | Acne a,c,d,g                                | Rash a                                                                                                       |                                        |                        |
+| Reproductive system and breast disorders                                 |                                             |                                                                                                              |                                        | Semen discolouration l |
+
+<div style=\"page-break-after: always\"></div>
+
+| General disorders and administration site conditions   | Fatigue Pyrexia Peripheral oedema a,k                                  |
+|--------------------------------------------------------|------------------------------------------------------------------------|
+| Investigations                                         | Blood CPK increased ALT increased b AST increased b Weight increased g |
+
+a Presented as grouped term
+
+b In atopic dermatitis trials, the frequency of bronchitis, hypercholesterolaemia, hyperlipidaemia,
+
+ALT increased, and AST increased was uncommon.
+
+c In rheumatologic disease trials, the frequency was common for acne and uncommon for urticaria.
+
+- d In ulcerative colitis trials, the frequency was common for acne.
+- e Serious hypersensitivity reactions including anaphylactic reaction and angioedema
+- f Most events reported as basal cell carcinoma and squamous cell carcinoma of skin
+- g In Crohn's disease, the frequency was common for acne, and uncommon for urticaria and weight increased.
+- h Pneumonia was common in Crohn's disease and uncommon across other indications.
+- i Frequency is based on Crohn's disease clinical trials.
+- j Headache was very common in the giant cell arteritis trial.
+- k Frequency is based on the giant cell arteritis trial.
+- l Reports of semen discolouration, mostly blue and less frequently green, have occurred predominantly in patients taking upadacitinib for ulcerative colitis or Crohn's disease. The clinical significance of semen discolouration is unknown.
+
+## Description of selected adverse reactions
+
+## Rheumatoid arthritis
+
+## Infections
+
+In placebo-controlled clinical studies with background DMARDs, the frequency of infection over 12/14 weeks in the upadacitinib 15 mg group was 27.4% compared to 20.9% in the placebo group. In methotrexate (MTX)-controlled studies, the frequency of infection over 12/14 weeks in the upadacitinib 15 mg monotherapy group was 19.5% compared to 24.0% in the MTX group. The overall long-term rate of infections for the upadacitinib 15 mg group across all five Phase 3 clinical studies (2 630 patients) was 93.7 events per 100 patient-years.
+
+In placebo-controlled clinical studies with background DMARDs, the frequency of serious infection over 12/14 weeks in the upadacitinib 15 mg group was 1.2% compared to 0.6% in the placebo group. In MTX-controlled studies, the frequency of serious infection over 12/14 weeks in the upadacitinib 15 mg monotherapy group was 0.6% compared to 0.4% in the MTX group. The overall long-term rate of serious infections for the upadacitinib 15 mg group across all five Phase 3 clinical studies was 3.8 events per 100 patient-years. The most common serious infection was pneumonia. The rate of serious infections remained stable with long-term exposure.
+
+## Opportunistic infections (excluding tuberculosis)
+
+In placebo-controlled clinical studies with background DMARDs, the frequency of opportunistic infections over 12/14 weeks in the upadacitinib 15 mg group was 0.5% compared to 0.3% in the placebo group. In MTX-controlled studies, there were no cases of opportunistic infection over 12/14 weeks in the upadacitinib 15 mg monotherapy group and 0.2% in the MTX group. The overall longterm rate of opportunistic infections for the upadacitinib 15 mg group across all five Phase 3 clinical studies was 0.6 events per 100 patient-years.
+
+<div style=\"page-break-after: always\"></div>
+
+The long-term rate of herpes zoster for the upadacitinib 15 mg group across all five Phase 3 clinical studies was 3.7 events per 100 patient-years. Most of the herpes zoster events involved a single dermatome and were non-serious.
+
+## Hepatic transaminase elevations
+
+In placebo-controlled studies with background DMARDs, for up to 12/14 weeks, alanine transaminase (ALT) and aspartate transaminase (AST) elevations ≥ 3 x upper limit of normal (ULN) in at least one measurement were observed in 2.1% and 1.5% of patients treated with upadacitinib 15 mg, compared to 1.5% and 0.7%, respectively, of patients treated with placebo. Of the 22 cases of hepatic transaminase elevations, most were asymptomatic and transient.
+
+In MTX-controlled studies, for up to 12/14 weeks, ALT and AST elevations ≥ 3 x ULN in at least one measurement were observed in 0.8% and 0.4% of patients treated with upadacitinib 15 mg, compared to 1.9% and 0.9%, respectively, of patients treated with MTX.
+
+The pattern and incidence of elevation in ALT/AST remained stable over time including in long-term extension studies.
+
+## Lipid elevations
+
+Upadacitinib 15 mg treatment was associated with increases in lipid parameters including total cholesterol, triglycerides, LDL cholesterol and HDL cholesterol. There was no change in the LDL/HDL ratio. Elevations were observed at 2 to 4 weeks of treatment and remained stable with longer-term treatment. Among patients in the controlled studies with baseline values below the specified limits, the following frequencies of patients were observed to shift to above the specified limits on at least one occasion during 12/14 weeks (including patients who had an isolated elevated value):
+
+- Total cholesterol ≥ 5.17 mmol/L (200 mg/dL): 62% vs. 31%, in the upadacitinib 15 mg and placebo groups, respectively
+- LDL cholesterol ≥ 3.36 mmol/L (130 mg/dL): 42% vs. 19%, in the upadacitinib 15 mg and placebo groups, respectively
+- HDL cholesterol ≥ 1.03 mmol/L (40 mg/dL): 89% vs. 61%, in the upadacitinib 15 mg and placebo groups, respectively
+- Triglycerides ≥ 2.26 mmol/L (200 mg/dL): 25% vs. 15%, in the upadacitinib 15 mg and placebo groups, respectively
+
+## Creatine phosphokinase
+
+In placebo-controlled studies with background DMARDs, for up to 12/14 weeks, increases in CPK values were observed. CPK elevations &gt; 5 x upper limit of normal (ULN) were reported in 1.0% and 0.3% of patients over 12/14 weeks in the upadacitinib 15 mg and placebo groups, respectively. Most elevations &gt; 5 x ULN were transient and did not require treatment discontinuation. Mean CPK values increased by 4 weeks with a mean increase of 60 U/L at 12 weeks and then remained stable at an increased value thereafter including with extended therapy.
+
+## Neutropenia
+
+In placebo-controlled studies with background DMARDs, for up to 12/14 weeks, decreases in neutrophil counts below 1 x 10 9 cells/L in at least one measurement occurred in 1.1% and &lt;0.1% of patients in the upadacitinib 15 mg and placebo groups, respectively. In clinical studies, treatment was interrupted in response to ANC &lt; 1 x 10 9 cells/L (see section 4.2). Mean neutrophil counts decreased over 4 to 8 weeks. The decreases in neutrophil counts remained stable at a lower value than baseline over time including with extended therapy.
+
+<div style=\"page-break-after: always\"></div>
+
+## Psoriatic arthritis
+
+Overall, the safety profile observed in patients with active psoriatic arthritis treated with upadacitinib 15 mg was consistent with the safety profile observed in patients with rheumatoid arthritis. A higher rate of serious infections (2.6 events per 100 patient-years and 1.3 events per 100 patient-years, respectively) and hepatic transaminase elevations (ALT elevations Grade 3 and higher rates 1.4% and 0.4%, respectively) was observed in patients treated with upadacitinib in combination with MTX therapy compared to patients treated with monotherapy.
+
+## Axial spondyloarthritis
+
+Overall, the safety profile observed in patients with active axial spondyloarthritis treated with upadacitinib 15 mg was consistent with the safety profile observed in patients with rheumatoid arthritis.
+
+## Giant cell arteritis
+
+Overall, the safety profile observed in patients with giant cell arteritis treated with upadacitinib 15 mg was generally consistent with the known safety profile for upadacitinib.
+
+## Serious infections
+
+In the placebo-controlled clinical study, the frequency of serious infections over 52 weeks was 5.7% in the upadacitinib 15 mg group and 10.7% in the placebo group. The long-term rate of serious infections was 5.9 events per 100 patient-years for the upadacitinib 15 mg group and 10.5 events per 100 patientyears for the placebo group.
+
+## Opportunistic infections (excluding tuberculosis)
+
+In the placebo-controlled clinical study, the frequency of opportunistic infection (excluding tuberculosis and herpes zoster) over 52 weeks was 1.9% in the upadacitinib 15 mg group and 0.9% in the placebo group. The long-term rate of opportunistic infections (excluding tuberculosis and herpes zoster) was 1.8 events per 100 patient-years for the upadacitinib 15 mg group and 1.5 events per 100 patient-years for the placebo group.
+
+In the placebo-controlled clinical study, the frequency of herpes zoster over 52 weeks was 5.3% in the upadacitinib 15 mg group and 2.7% in the placebo group. The long-term rate of herpes zoster was 5.9 events per 100 patient-years for the upadacitinib 15 mg group and 3.0 events per 100 patient-years for the placebo group.
+
+## Atopic dermatitis
+
+## Infections
+
+In the placebo-controlled period of the clinical studies, the frequency of infection over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 39% and 43% compared to 30% in the placebo group, respectively. The long-term rate of infections for the upadacitinib 15 mg and 30 mg groups was 98.5 and 109.6 events per 100 patient-years, respectively.
+
+In placebo-controlled clinical studies, the frequency of serious infection over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 0.8% and 0.4% compared to 0.6% in the placebo group, respectively. The long-term rate of serious infections for the upadacitinib 15 mg and 30 mg groups was 2.3 and 2.8 events per 100 patient-years, respectively.
+
+<div style=\"page-break-after: always\"></div>
+
+## Opportunistic infections (excluding tuberculosis)
+
+In the placebo-controlled period of the clinical studies, all opportunistic infections (excluding TB and herpes zoster) reported were eczema herpeticum. The frequency of eczema herpeticum over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 0.7% and 0.8% compared to 0.4% in the placebo group, respectively. The long-term rate of eczema herpeticum for the upadacitinib 15 mg and 30 mg groups was 1.6 and 1.8 events per 100 patient-years, respectively. One case of esophageal candidiasis was reported with upadacitinib 30 mg.
+
+The long-term rate of herpes zoster for the upadacitinib 15 mg and 30 mg groups was 3.5 and 5.2 events per 100 patient-years, respectively. Most of the herpes zoster events involved a single dermatome and were non-serious.
+
+## Laboratory abnormalities
+
+Dose-dependent changes in ALT increased and/or AST increased (≥ 3 x ULN), lipid parameters, CPK values (&gt; 5 x ULN), and neutropenia (ANC &lt; 1 x 10 9 cells/L) associated with upadacitinib treatment were similar to what was observed in the rheumatologic disease clinical studies.
+
+Small increases in LDL cholesterol were observed after week 16 in atopic dermatitis studies. At week 52, the mean increase in LDL cholesterol from baseline was 0.41 mmol/L for upadacitinib 15 mg and 0.56 mmol/L for upadacitinib 30 mg.
+
+## Alopecia areata
+
+The safety profile of upadacitinib 15 mg and 30 mg observed in patients with alopecia areata was generally consistent with the known safety profile in patients with atopic dermatitis. No new safety findings were identified.
+
+## Vitiligo
+
+The safety profile of upadacitinib 15 mg observed in patients with vitiligo was generally consistent with the known safety profile in patients with atopic dermatitis. No new safety findings were identified. A higher incidence of hypercholesterolaemia was observed in patients with vitiligo treated with upadacitinib 15 mg (3.4%) compared to placebo (2.0%).
+
+## Ulcerative colitis
+
+The overall safety profile observed in patients with ulcerative colitis was generally consistent with that observed in patients with rheumatoid arthritis.
+
+A higher rate of herpes zoster was observed with an induction treatment period of 16 weeks vs 8 weeks.
+
+## Infections
+
+In the placebo-controlled induction studies, the frequency of infection over 8 weeks in the upadacitinib 45 mg group compared to the placebo group was 20.7% and 17.5%, respectively. In the placebo-controlled maintenance study, the frequency of infection over 52 weeks in the upadacitinib 15 mg and 30 mg groups was 40.4% and 44.2%, respectively, compared to 38.8% in the placebo group. The long-term rate of infections for upadacitinib 15 mg and 30 mg was 64.5 and 77.8 events per 100 patient-years, respectively.
+
+In the placebo-controlled induction studies, the frequency of serious infection over 8 weeks in both the upadacitinib 45 mg group and the placebo group was 1.3%. No additional serious infections were observed over 8-week extended treatment with upadacitinib 45 mg. In the placebo-controlled maintenance study, the frequency of serious infection over 52 weeks in the upadacitinib 15 mg and 30 mg groups was 3.6% and 3.2%, respectively, compared to 3.3% in the placebo group. The longterm rate of serious infections for the upadacitinib 15 mg and 30 mg groups was 3.0 and 4.6 events per 100 patient-years, respectively. The most frequently reported serious infection in the induction and maintenance phases was COVID-19 pneumonia.
+
+<div style=\"page-break-after: always\"></div>
+
+## Opportunistic infections (excluding tuberculosis)
+
+In the placebo-controlled induction studies over 8 weeks, the frequency of opportunistic infection (excluding tuberculosis and herpes zoster) in the upadacitinib 45 mg group was 0.4% and 0.3% in the placebo group. No additional opportunistic infections (excluding tuberculosis and herpes zoster) were observed over 8-week extended treatment with upadacitinib 45 mg. In the placebo-controlled maintenance study over 52 weeks, the frequency of opportunistic infection (excluding tuberculosis and herpes zoster) in the upadacitinib 15 mg and 30 mg groups was 0.8% and 0.8%, respectively, compared to 0.8% in the placebo group. The long-term rate of opportunistic infections (excluding tuberculosis and herpes zoster) for the upadacitinib 15 mg and 30 mg groups was 0.3 and 0.6 events per 100 patient-years, respectively.
+
+In the placebo-controlled induction studies over 8 weeks, the frequency of herpes zoster in the upadacitinib 45 mg group was 0.6% and 0% in the placebo group. The frequency of herpes zoster was 3.9% over 16-week treatment with upadacitinib 45 mg. In the placebo-controlled maintenance study over 52 weeks, the frequency of herpes zoster in the upadacitinib 15 mg and 30 mg groups was 4.8% and 5.6%, respectively, compared to 0% in the placebo group. The long-term rate of herpes zoster for the upadacitinib 15 mg and 30 mg groups was 4.5 and 7.2 events per 100 patient-years, respectively.
+
+## Gastrointestinal perforations
+
+In the placebo-controlled maintenance period, gastrointestinal perforation was reported in 1 patient treated with placebo (1.5 per 100 patient-years) and no patients treated with upadacitinib 15 mg or 30 mg. In the long-term extension study, 1 patient treated with upadacitinib 15 mg (0.1 per 100 patient-years) and 1 patient treated with upadacitinib 30 mg (&lt;0.1 per 100 patient-years) reported events.
+
+## Laboratory abnormalities
+
+In the induction and maintenance clinical studies, the laboratory changes in ALT increased and/or AST increased (≥ 3 x ULN), CPK values (&gt; 5 x ULN), and neutropenia (ANC &lt; 1 x 10 9 cells/L) associated with upadacitinib treatment were generally similar to what was observed in the rheumatologic disease and atopic dermatitis clinical studies. Dose-dependent changes for these laboratory parameters associated with 15 mg and 30 mg upadacitinib treatment were observed.
+
+In the placebo-controlled induction studies for up to 8 weeks, decreases in lymphocyte counts below 0.5 x 10 9 cells/L in at least one measurement occurred in 2.0% and 0.8% of patients in the upadacitinib 45 mg and placebo groups, respectively. In the placebo-controlled maintenance study, for up to 52 weeks, decreases in lymphocyte counts below 0.5 x 10 9 cells/L in at least one measurement occurred in 1.6%, 1.2% and 0.8% of patients in the upadacitinib 15 mg, 30 mg and placebo groups, respectively. In clinical studies, treatment was interrupted in response to ALC &lt; 0.5 x 10 9 cells/L (see section 4.2). No notable mean changes of lymphocyte counts were observed during upadacitinib treatment over time.
+
+Elevations in lipid parameters were observed at 8 weeks of treatment with upadacitinib 45 mg and remained generally stable with longer-term treatment with upadacitinib 15 mg and 30 mg. Among patients in the placebo-controlled induction studies with baseline values below the specified limits, the following frequencies of patients were observed to shift to above the specified limits on at least one occasion during 8 weeks (including patients who had an isolated elevated value):
+
+<div style=\"page-break-after: always\"></div>
+
+- Total cholesterol ≥ 5.17 mmol/L (200 mg/dL): 49% vs. 11%, in the upadacitinib 45 mg and placebo groups, respectively
+- LDL cholesterol ≥ 3.36 mmol/L (130 mg/dL): 27% vs. 9%, in the upadacitinib 45 mg and placebo groups, respectively
+- HDL cholesterol ≥ 1.03 mmol/L (40 mg/dL): 79% vs. 36%, in the upadacitinib 45 mg and placebo groups, respectively
+- Triglycerides ≥ 2.26 mmol/L (200 mg/dL): 6% vs 4% in the upadacitinib 45 mg and placebo groups, respectively
+
+## Crohn's disease
+
+Overall, the safety profile observed in patients with Crohn's disease treated with upadacitinib was consistent with the known safety profile for upadacitinib.
+
+## Serious infections
+
+In the placebo-controlled induction studies, the frequency of serious infection over 12 weeks in the upadacitinib 45 mg group and the placebo group was 1.9% and 1.7%, respectively. In the placebo-controlled maintenance study, the frequency of serious infection over 52 weeks in the upadacitinib 15 mg and 30 mg groups was 3.2% and 5.7%, respectively, compared to 4.5% in the placebo group. The long-term rate of serious infections for the upadacitinib 15 mg and 30 mg groups in patients who responded to upadacitinib 45 mg as induction treatment was 5.1 and 7.3 events per 100 patient-years, respectively. The most frequently reported serious infection in the induction and maintenance studies was gastrointestinal infections.
+
+## Gastrointestinal perforations
+
+During the placebo-controlled period in the Phase 3 induction clinical studies, gastrointestinal perforation was reported in 1 patient (0.1%) treated with upadacitinib 45 mg and no patients on placebo through 12 weeks. In all patients treated with upadacitinib 45 mg (n=938) during the induction studies, gastrointestinal perforation was reported in 4 patients (0.4%).
+
+In the long-term placebo-controlled period, gastrointestinal perforation was reported in 1 patient each treated with placebo (0.7 per 100 patient-years), upadacitinib 15 mg (0.4 per 100 patient-years), and upadacitinib 30 mg (0.4 per 100 patient-years). In all patients treated with rescue upadacitinib 30 mg (n=336), gastrointestinal perforation was reported in 3 patients (0.8 per 100 patient-years) through long-term treatment.
+
+## Laboratory abnormalities
+
+In the induction and maintenance clinical studies, the laboratory changes in ALT increased and/or AST increased (≥ 3 x ULN), CPK values (&gt; 5 x ULN), neutropenia (ANC &lt; 1 x 10 9 cells/L), and lipid parameters associated with upadacitinib treatment were generally similar to what was observed in the rheumatologic disease, atopic dermatitis and ulcerative colitis clinical studies. Dose-dependent changes for these laboratory parameters associated with 15 mg and 30 mg upadacitinib treatment were observed.
+
+In the placebo-controlled induction studies for up to 12 weeks, decreases in lymphocyte counts below 0.5 x 10 9 cells/L in at least one measurement occurred in 2.2% and 2.0% of patients in the upadacitinib 45 mg and placebo groups, respectively. In the placebo-controlled maintenance study, for up to 52 weeks, decreases in lymphocyte counts below 0.5 x 10 9 cells/L in at least one measurement occurred in 4.6%, 5.2% and 1.8% of patients in the upadacitinib 15 mg, 30 mg and placebo groups, respectively. In clinical studies, treatment was interrupted in response to ALC &lt; 0.5 x 10 9 cells/L (see section 4.2). No notable mean changes of lymphocyte counts were observed during upadacitinib treatment over time.
+
+<div style=\"page-break-after: always\"></div>
+
+In the placebo-controlled induction studies for up to 12 weeks, decreases in haemoglobin concentration to below 8 g/dL in at least one measurement occurred in 2.7% and 1.4% of patients in the upadacitinib 45 mg and placebo groups, respectively. In the placebo-controlled maintenance study, for up to 52 weeks, decreases in haemoglobin concentration below 8 g/dL in at least one measurement occurred in 1.4%, 4.4% and 2.8% of patients in the upadacitinib 15 mg, 30 mg and placebo groups, respectively. In clinical studies, treatment was interrupted in response to Hb &lt; 8 g/dL (see section 4.2). No notable mean changes of haemoglobin concentration were observed during upadacitinib treatment over time.
+
+## Elderly
+
+Based on the limited data from patients 65 years and older with atopic dermatitis, ulcerative colitis and Crohn's disease, there was a higher rate of overall adverse reactions with the upadacitinib 30 mg dose compared to the 15 mg dose (see section 4.4).
+
+No data was available in patients 65 years of age and older with severe alopecia areata.
+
+Of the 612 patients treated in the vitiligo Phase 3 clinical studies, 55 were 65 years of age or older, of whom 36 were treated with upadacitinib 15 mg during the placebo-controlled period. Overall, the rates of serious and severe adverse reactions in patients 65 years of age or older were comparable between the upadacitinib 15 mg and placebo groups.
+
+## Paediatric population
+
+## Polyarticular juvenile idiopathic arthritis
+
+A total of 122 paediatric patients (2 to &lt; 18 years of age) with polyarticular juvenile idiopathic arthritis were treated in an open-label, single-arm study, representing 254.6 patient-years of exposure, of whom 113 were exposed to upadacitinib for at least one year. Overall, the safety profile observed in paediatric patients with polyarticular juvenile idiopathic arthritis treated with upadacitinib was consistent with the known safety profile for upadacitinib.
+
+## Atopic dermatitis
+
+A total of 541 adolescents aged 12 to 17 years with atopic dermatitis were treated in the global Phase 3 studies (n=343) and the supplemental adolescent substudies (n=198), of whom 264 were exposed to 15 mg and 265 were exposed to 30 mg. The safety profile for upadacitinib 15 mg and 30 mg in adolescents was similar to that in adults. With long-term exposure, the adverse reaction of skin papilloma was reported in 3.4% and 6.8% of adolescent patients with atopic dermatitis in the upadacitinib 15 mg and 30 mg groups, respectively.
+
+## Alopecia areata
+
+A total of 117 adolescents aged 12 to 17 years weighing at least 30 kg with alopecia areata were treated with upadacitinib in the placebo-controlled Phase 3 studies, of whom 62 were exposed to 15 mg and 57 were exposed to 30 mg. The safety profile for upadacitinib 15 mg and 30 mg in adolescents was similar to that in adults.
+
+## Vitiligo
+
+A total of 52 adolescents with vitiligo aged 12 to 17 years weighing at least 30 kg were treated with upadacitinib 15 mg in the Phase 3 studies, of whom 37 received upadacitinib 15 mg during the placebo-controlled period. The safety profile of upadacitinib 15 mg observed in adolescent patients with vitiligo was generally consistent with the known safety profile in adolescent patients with atopic dermatitis. No new safety findings were identified. There were no serious adverse events reported in the adolescent population treated with upadacitinib in the placebo-controlled period.
+
+<div style=\"page-break-after: always\"></div>
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+Upadacitinib was administered in clinical studies up to doses equivalent in daily AUC to 60 mg prolonged-release once daily. Adverse reactions were comparable to those seen at lower doses and no specific toxicities were identified. Approximately 90% of upadacitinib in the systemic circulation is eliminated within 24 hours of dosing (within the range of doses evaluated in clinical studies). In case of an overdose, it is recommended that the patient be monitored for signs and symptoms of adverse reactions. Patients who develop adverse reactions should receive appropriate treatment.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Immunosuppressants, Janus-associated kinase (JAK) inhibitors, ATC code: L04AF03
+
+## Mechanism of action
+
+Upadacitinib is a selective and reversible Janus kinase (JAK) inhibitor. JAKs are intracellular enzymes that transmit cytokine or growth factor signals involved in a broad range of cellular processes including inflammatory responses, hematopoiesis, and immune surveillance. The JAK family of enzymes contains four members, JAK1, JAK2, JAK3 and TYK2 which work in pairs to phosphorylate and activate signal transducers and activators of transcription (STATs). This phosphorylation, in turn, modulates gene expression and cellular function. JAK1 is important in inflammatory cytokine signals while JAK2 is important for red blood cell maturation and JAK3 signals play a role in immune surveillance and lymphocyte function.
+
+In human cellular assays, upadacitinib preferentially inhibits signalling by JAK1 or JAK1/3 with functional selectivity over cytokine receptors that signal via pairs of JAK2.
+
+## Pharmacodynamic effects
+
+## Inhibition of IL-6 induced STAT3 and IL-7 induced STAT5 phosphorylation
+
+In healthy volunteers, the administration of upadacitinib (immediate-release formulation) resulted in a dose- and concentration-dependent inhibition of IL-6 (JAK1/JAK2) - induced STAT3 and IL-7 (JAK1/JAK3)-induced STAT5 phosphorylation in whole blood. The maximal inhibition was observed 1 hour after dosing which returned to near baseline by the end of dosing interval.
+
+## Lymphocytes
+
+In patients with rheumatoid arthritis, treatment with upadacitinib was associated with a small, transient increase in mean ALC from baseline up to week 36 which gradually returned to at or near baseline levels with continued treatment.
+
+<div style=\"page-break-after: always\"></div>
+
+## hsCRP
+
+In patients with rheumatoid arthritis, treatment with upadacitinib was associated with decreases from baseline in mean hsCRP levels as early as week 1 which were maintained with continued treatment.
+
+## Vaccine studies
+
+The influence of upadacitinib on the humoral response following administration of adjuvanted recombinant glycoprotein E herpes zoster vaccine was evaluated in 93 patients with rheumatoid arthritis under stable treatment with upadacitinib 15 mg. 98% of patients were on concomitant methotrexate. 49% of patients were on oral corticosteroids at baseline. The primary endpoint was the proportion of patients with a satisfactory humoral response defined as ≥ 4-fold increase in prevaccination concentration of anti-glycoprotein E titer levels at week 16 (4 weeks post-dose 2 vaccination). Vaccination of patients treated with upadacitinib 15 mg resulted in a satisfactory humoral response in 79/90 (88% [95% CI: 81.0, 94.5]) of patients at week 16.
+
+The influence of upadacitinib on the humoral response following the administration of inactivated pneumococcal polysaccharide conjugate vaccine (13-valen adsorbed) was evaluated in 111 patients with rheumatoid arthritis under stable treatment with upadacitinib 15 mg (n=87) or 30 mg (n=24). 97% of patients (n=108) were on concomitant methotrexate. The primary endpoint was the proportion of patients with satisfactory humoral response defined as ≥ 2-fold increase in antibody concentration from baseline to week 4 in at least 6 out of the 12 pneumococcal antigens (1, 3, 4, 5, 6B, 7F, 9V, 14, 18C, 19A, 19F, and 23F). Results at week 4 demonstrated a satisfactory humoral response in 67.5% (95% CI: 57.4, 77.5) and 56.5% (95% CI: 36.3, 76.8) of patients treated with upadacitinib 15 mg and 30 mg, respectively.
+
+## Clinical efficacy and safety
+
+## Polyarticular juvenile idiopathic arthritis
+
+The efficacy of upadacitinib in paediatric patients with polyarticular juvenile idiopathic arthritis is based on exposure-matched extrapolation of the established efficacy of upadacitinib in adult patients with rheumatoid arthritis. This data is supported by the efficacy and safety of upadacitinib assessed in a multicentre, open-label, single-arm study in 122 paediatric patients (2 to &lt; 18 years of age) with polyarticular juvenile idiopathic arthritis. The polyarticular juvenile idiopathic arthritis patient subtypes at study entry included rheumatoid factor negative polyarticular (67.2%), rheumatoid factor positive polyarticular (16.4%), extended oligoarticular (14.8%), and systemic juvenile idiopathic arthritis without systemic manifestations (1.6%). A total of 22.1% had received prior treatment with biological DMARDs. A total of 36.9% of patients were receiving concomitant methotrexate at baseline. Changes in methotrexate dose or other concomitant medications (e.g. corticosteroids, NSAIDs) were allowed during the study. All patients received upadacitinib 15 mg tablets once daily or upadacitinib oral solution weight-based equivalent twice daily for up to 156 weeks.
+
+## Clinical response
+
+The proportion of patients demonstrating response at week 12 and week 48 are shown in Table 4. The efficacy was generally consistent with responses in adult patients with rheumatoid arthritis.
+
+<div style=\"page-break-after: always\"></div>
+
+## Table 4 Clinical response
+
+|                              | Week 12 N=122   | Week 48 N=122   |
+|------------------------------|-----------------|-----------------|
+| ACR paediatric 70 response a | 66.4%           | 79.5%           |
+| JADAS27-CRP remission b      | 23.0%           | 43.4%           |
+
+Abbreviations:
+
+a ACR Paediatric 70 = American College of Rheumatology Paediatric ≥70% improvement
+
+b JADAS27-CRP Remission = Juvenile Arthritis Disease Activity Score 27 joints, C-reactive protein Remission; defined as JADAS27-CRP≤1
+
+Results for all endpoints are reported using non-responder imputation.
+
+## Rheumatoid arthritis
+
+The efficacy and safety of upadacitinib 15 mg once daily was assessed in five Phase 3 randomised, double-blind, multicentre studies in patients with moderately to severely active rheumatoid arthritis and fulfilling the ACR/EULAR 2010 classification criteria (see Table 5). Patients 18 years of age and older were eligible to participate. The presence of at least 6 tender and 6 swollen joints and evidence of systemic inflammation based on elevation of hsCRP was required at baseline. Four studies included long-term extensions for up to 5 years, and one study (SELECT-COMPARE) included a long-term extension for up to 10 years.
+
+The primary analysis for each of these studies included all randomised subjects who received at least 1 dose of upadacitinib or placebo, and non-responder imputation was used for categorical endpoints.
+
+Across the Phase 3 studies, the efficacy seen with upadacitinib 15 mg QD was generally similar to that observed with upadacitinib 30 mg QD.
+
+Table 5 Clinical trials summary
+
+| Study name          | Population (n)     | Treatment arms                                                             | Key outcome measures                                                                                                                                                                                |
+|---------------------|--------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SELECT-EARLY        | MTX-naïve a (947)  | • Upadacitinib 15 mg • Upadacitinib 30 mg • MTX Monotherapy                | • Primary endpoint: clinical remission (DAS28-CRP) at week 24 • Low disease activity (DAS28-CRP) • ACR50 • Radiographic progression (mTSS) • Physical function (HAQ-DI) • SF-36 PCS                 |
+| SELECT- MONOTHERAPY | MTX-IR b (648)     | • Upadacitinib 15 mg • Upadacitinib 30 mg • MTX Monotherapy                | • Primary endpoint: low disease activity (DAS28-CRP) at week 14 • Clinical remission (DAS28-CRP) • ACR20 • Physical function (HAQ-DI) • SF-36 PCS • Morning stiffness                               |
+| SELECT-NEXT         | csDMARD-IR c (661) | • Upadacitinib 15 mg • Upadacitinib 30 mg • Placebo On background csDMARDs | • Primary endpoint: low disease activity (DAS28-CRP) at week 12 • Clinical remission (DAS28-CRP) • ACR20 • Physical function (HAQ-DI) • SF-36 PCS • Low disease activity (CDAI) • Morning stiffness |
+
+<div style=\"page-break-after: always\"></div>
+
+|                 |                   |                                                                            | • FACIT-F                                                                                                                                                                                                                                                                                        |
+|-----------------|-------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SELECT- COMPARE | MTX-IR d (1,629)  | • Upadacitinib 15 mg • Placebo • Adalimumab 40 mg On background MTX        | • Primary endpoint: clinical remission (DAS28-CRP) at week 12 • Low disease activity (DAS28-CRP) • ACR20 • Low disease activity (DAS28-CRP) vs adalimumab • Radiographic progression (mTSS) • Physical function (HAQ-DI) • SF-36 PCS • Low disease activity (CDAI) • Morning stiffness • FACIT-F |
+| SELECT- BEYOND  | bDMARD-IR e (499) | • Upadacitinib 15 mg • Upadacitinib 30 mg • Placebo On background csDMARDs | • Primary endpoint: low disease activity (DAS28-CRP) at week 12 • ACR20 • Physical function (HAQ-DI) • SF-36 PCS                                                                                                                                                                                 |
+
+Abbreviations: ACR20 (or 50) = American College of Rheumatology ≥20% (or ≥50%) improvement; bDMARD = biologic disease-modifying anti-rheumatic drug, CRP = C-Reactive Protein, DAS28 = Disease Activity Score 28 joints, mTSS = modified Total Sharp Score, csDMARD = conventional synthetic disease-modifying anti-rheumatic drug, HAQ-DI = Health Assessment Questionnaire-Disability Index, SF-36 PCS = Short Form (36) Health Survey (SF-36) Physical Component Summary, CDAI = Clinical Disease Activity Index, FACIT-F = Functional Assessment of Chronic Illness Therapy-Fatigue score, IR = inadequate responder, MTX = methotrexate, n = number randomised
+
+a. Patients were naïve to MTX or received no more than 3 weekly MTX doses
+
+b Patients had inadequate response to MTX
+
+c Patients who had an inadequate response to csDMARDs; patients with prior exposure to at most one bDMARD were eligible (up to 20% of total number of patients) if they had either limited exposure (&lt;3 months) or had to discontinue the bDMARD due to intolerability
+
+d Patients who had an inadequate response to MTX; patients with prior exposure to at most one bDMARD (except adalimumab) were eligible (up to 20% of total study number of patients) if they had either limited exposure (&lt;3 months) or had to discontinue the bDMARD due to intolerability
+
+e Patients who had an inadequate response or intolerance to at least one bDMARD
+
+## Clinical response
+
+## Remission and low disease activity
+
+In the studies, a significantly higher proportion of patients treated with upadacitinib 15 mg achieved low disease activity (DAS28-CRP ≤3.2) and clinical remission (DAS28-CRP &lt;2.6) compared to placebo, MTX, or adalimumab (Table 6). Compared to adalimumab, significantly higher rates of low disease activity were achieved at week 12 in SELECT-COMPARE. Overall, both low disease activity and clinical remission rates were consistent across patient populations, with or without MTX. At 3 years, 297/651 (45.6%) and 111/327 (33.9%) patients remained on originally randomised treatment of upadacitinib 15 mg or adalimumab, respectively, in SELECT-COMPARE, and 216/317 (68.1%) and 149/315 (47.3%) patients remained on originally randomised treatment of upadacitinib 15 mg or MTX monotherapy, respectively, in SELECT-EARLY. Among the patients who remained on their originally allocated treatment, low disease activity and clinical remission were maintained through 3 years.
+
+<div style=\"page-break-after: always\"></div>
+
+## ACR response
+
+In all studies, more patients treated with upadacitinib 15 mg achieved ACR20, ACR50, and ACR70 responses at 12 weeks compared to placebo, MTX, or adalimumab (Table 6). Time to onset of efficacy was rapid across measures with greater responses seen as early as week 1 for ACR20. Durable response rates were observed (with or without MTX), with ACR20/50/70 responses maintained through 3 years among the patients who remained on their originally allocated treatment.
+
+Treatment with upadacitinib 15 mg, alone or in combination with csDMARDs, resulted in improvements in individual ACR components, including tender and swollen joint counts, patient and physician global assessments, HAQ-DI, pain assessment and hsCRP.
+
+Table 6 Response and remission
+
+| Study                              | SELECT EARLY MTX-Naїve - MTX       | SELECT EARLY MTX-Naїve - UPA 15mg   | SELECT MONO MTX-IR - MTX           | SELECT MONO MTX-IR - UPA 15mg      | SELECT NEXT csDMARD-IR - PBO       | SELECT NEXT csDMARD-IR - UPA 15mg   | SELECT COMPARE MTX-IR - PBO        | SELECT COMPARE MTX-IR - UPA 15mg   | SELECT COMPARE MTX-IR - ADA 40mg   | SELECT BEYOND bDMARD-IR - PBO      | SELECT BEYOND bDMARD-IR - UPA 15mg   |
+|------------------------------------|------------------------------------|-------------------------------------|------------------------------------|------------------------------------|------------------------------------|-------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------------------------------------|
+| N                                  | 314                                | 317                                 | 216                                | 217                                | 221                                | 221                                 | 651                                | 651                                | 327                                | 169                                | 164                                  |
+| Week                               |                                    |                                     |                                    |                                    |                                    |                                     |                                    |                                    |                                    |                                    |                                      |
+| LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients)  | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients)  | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients) | LDA DAS28-CRP ≤3.2 (% of patients)   |
+| 12 a /14 b                         | 28                                 | 53 g                                | 19                                 | 45 e                               | 17                                 | 48 e                                | 14                                 | 45 e,h                             | 29                                 | 14                                 | 43 e                                 |
+| 24 c /26 d                         | 32                                 | 60 f                                |                                    |                                    |                                    |                                     | 18                                 | 55 g,h                             | 39                                 |                                    |                                      |
+| 48                                 | 39                                 | 59 g                                |                                    |                                    |                                    |                                     |                                    | 50 h                               | 35                                 |                                    |                                      |
+| CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)   | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)   | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)  | CR DAS28-CRP <2.6 (% of patients)    |
+| 12 a /14 b                         | 14                                 | 36 g                                | 8                                  | 28 e                               | 10                                 | 31 e                                | 6                                  | 29 e,h                             | 18                                 | 9                                  | 29 g                                 |
+| 24 c /26 d                         | 18                                 | 48 e                                |                                    |                                    |                                    |                                     | 9                                  | 41 g,h                             | 27                                 |                                    |                                      |
+| 48                                 | 29                                 | 49 g                                |                                    |                                    |                                    |                                     |                                    | 38 i                               | 28                                 |                                    |                                      |
+| ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)               | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)               | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)              | ACR20 (% of patients)                |
+| 12 a /14 b                         | 54                                 | 76 g                                | 41                                 | 68 e                               | 36                                 | 64 e                                | 36                                 | 71 e,j                             | 63                                 | 28                                 | 65 e                                 |
+| 24 c /26 d                         | 59                                 | 79 g                                |                                    |                                    |                                    |                                     | 36                                 | 67 g,i                             | 57                                 |                                    |                                      |
+| 48                                 | 57                                 | 74 g                                |                                    |                                    |                                    |                                     |                                    | 65 i                               | 54                                 |                                    |                                      |
+| ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)               | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)               | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)              | ACR50 (% of patients)                |
+| 12 a /14 b                         | 28                                 | 52 g                                | 15                                 | 42 g                               | 15                                 | 38 g                                | 15                                 | 45 g,h                             | 29                                 | 12                                 | 34 g                                 |
+| 24 c /26 d                         | 33                                 | 60 e                                |                                    |                                    |                                    |                                     | 21                                 | 54 g,h                             | 42                                 |                                    |                                      |
+| 48                                 | 43                                 | 63 g                                |                                    |                                    |                                    |                                     |                                    | 49 i                               | 40                                 |                                    |                                      |
+| ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)               | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)               | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)              | ACR70 (% of patients)                |
+| 12 a /14 b                         | 14                                 | 32 g                                | 3                                  | 23 g                               | 6                                  | 21 g                                | 5                                  | 25 g,h                             | 13                                 | 7                                  | 12                                   |
+| 24 c /26 d                         | 18                                 | 44 g                                |                                    |                                    |                                    |                                     | 10                                 | 35 g,h                             | 23                                 |                                    |                                      |
+| 48                                 | 29                                 | 51 g                                |                                    |                                    |                                    |                                     |                                    | 36 h                               | 23                                 |                                    |                                      |
+| CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)            | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)            | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)           | CDAI ≤10 (% of patients)             |
+| 12 a /14 b                         | 30                                 | 46 g                                | 25                                 | 35 l                               | 19                                 | 40 e                                | 16                                 | 40 e,h                             | 30                                 | 14                                 | 32 g                                 |
+| 24 c /26 d                         | 38                                 | 56 g                                |                                    |                                    |                                    |                                     | 22                                 | 53 g,h                             | 38                                 |                                    |                                      |
+| 48                                 | 43                                 | 60 g                                |                                    |                                    |                                    |                                     |                                    | 47 h                               | 34                                 |                                    |                                      |
+
+Abbreviations: ACR20 (or 50 or 70) = American College of Rheumatology ≥20% (or ≥50% or ≥70%) improvement; ADA = adalimumab; CDAI = Clinical Disease Activity Index; CR = Clinical Remission; CRP = C-Reactive Protein, DAS28 = Disease Activity Score 28 joints; IR = inadequate responder; LDA = Low Disease Activity; MTX = methotrexate; PBO = placebo; UPA= upadacitinib
+
+a SELECT-NEXT, SELECT-EARLY, SELECT-COMPARE, SELECT-BEYOND
+
+b SELECT-MONOTHERAPY
+
+c SELECT-EARLY
+
+<div style=\"page-break-after: always\"></div>
+
+## d SELECT-COMPARE
+
+- e multiplicity-controlled p≤0.001upadacitinib vs placebo or MTX comparison
+- f multiplicity-controlled p≤0.01 upadacitinib vs placebo or MTX comparison
+- g nominal p≤0.001 upadacitinib vs placebo or MTX comparison
+- h nominal p≤0.001upadacitinib vs adalimumab comparison
+- i nominal p≤0.01 upadacitinib vs adalimumab comparison
+- j nominal p&lt;0.05 upadacitinib vs adalimumab comparison
+- k nominal p≤0.01 upadacitinib vs placebo or MTX comparison
+- l nominal p&lt;0.05 upadacitinib vs MTX comparison
+
+Note: Week 48-data derived from analysis on Full Analysis set (FAS) by randomised group using NonResponder Imputation
+
+## Radiographic response
+
+Inhibition of progression of structural joint damage was assessed using the modified Total Sharp Score (mTSS) and its components, the erosion score and joint space narrowing score, at weeks 24/26 and week 48 in SELECT-EARLY and SELECT-COMPARE.
+
+Treatment with upadacitinib 15 mg resulted in significantly greater inhibition of the progression of structural joint damage compared to placebo in combination with MTX in SELECT-COMPARE and as monotherapy compared to MTX in SELECT-EARLY (Table 7). Analyses of erosion and joint space narrowing scores were consistent with the overall scores. The proportion of patients with no radiographic progression (mTSS change ≤ 0) was significantly higher with upadacitinib 15 mg in both studies. Inhibition of progression of structural joint damage was maintained through week 96 in both studies for patients who remained on their originally allocated treatment with upadacitinib 15 mg (based on available results from 327 patients in SELECT-COMPARE and 238 patients in SELECTEARLY).
+
+Table 7 Radiographic changes
+
+| Study - Treatment Group                                   | SELECT EARLY MTX-Naїve - MTX                              | SELECT EARLY MTX-Naїve - UPA 15 mg                        | SELECT COMPARE MTX-IR - PBO a                             | SELECT COMPARE MTX-IR - UPA 15 mg                         | SELECT COMPARE MTX-IR - ADA 40 mg                         |
+|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| Modified Total Sharp Score, mean change from baseline     | Modified Total Sharp Score, mean change from baseline     | Modified Total Sharp Score, mean change from baseline     | Modified Total Sharp Score, mean change from baseline     | Modified Total Sharp Score, mean change from baseline     | Modified Total Sharp Score, mean change from baseline     |
+| Week 24 b /26 c                                           | 0.7                                                       | 0.1 f                                                     | 0.9                                                       | 0.2 g                                                     | 0.1                                                       |
+| Week 48                                                   | 1.0                                                       | 0.03 e                                                    | 1.7                                                       | 0.3 e                                                     | 0.4                                                       |
+| Proportion of patients with no radiographic progression d | Proportion of patients with no radiographic progression d | Proportion of patients with no radiographic progression d | Proportion of patients with no radiographic progression d | Proportion of patients with no radiographic progression d | Proportion of patients with no radiographic progression d |
+| Week 24 b /26 c                                           | 77.7                                                      | 87.5 f                                                    | 76.0                                                      | 83.5 f                                                    | 86.8                                                      |
+| Week 48                                                   | 74.3                                                      | 89.9 e                                                    | 74.1                                                      | 86.4 e                                                    | 87.9                                                      |
+
+Abbreviations: ADA = adalimumab; IR = inadequate responder; MTX = methotrexate; PBO = placebo; UPA= upadacitinib
+
+a All placebo data at week 48 derived using linear extrapolation
+
+- b SELECT-EARLY
+- c SELECT-COMPARE
+- d No progression defined as mTSS change ≤ 0
+- e nominal p≤0.001 upadacitinib vs placebo or MTX comparison
+- f multiplicity-controlled p≤0.01 upadacitinib vs placebo or MTX comparison
+- g multiplicity-controlled p≤0.001 upadacitinib vs placebo or MTX comparison
+
+## Physical function response and health-related outcomes
+
+Treatment with upadacitinib 15 mg, alone or in combination with csDMARDs, resulted in a significantly greater improvement in physical function compared to all comparators as measured by HAQ-DI (see Table 8). Improvement in HAQ-DI was maintained through 3 years for patients who remained on their originally allocated treatment with upadacitinib 15 mg based on available results from SELECT-COMPARE and SELECT-EARLY.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 8 Mean change from baseline in HAQ-DI a,b
+
+| Study - Treatment group   |   SELECT EARLY MTX-Naїve - MTX | SELECT EARLY MTX-Naїve - UPA 15mg   |   SELECT MONO MTX-IR - MTX | SELECT MONO MTX-IR - UPA 15mg   |   SELECT NEXT csDMARD-IR - PBO | SELECT NEXT csDMARD-IR - UPA 15mg   |   SELECT COMPARE MTX-IR - PBO | SELECT COMPARE MTX-IR - UPA 15mg   |   SELECT COMPARE MTX-IR - ADA 40mg |   SELECT BEYOND BIO-IR - PBO | SELECT BEYOND BIO-IR - UPA 15mg   |
+|---------------------------|--------------------------------|-------------------------------------|----------------------------|---------------------------------|--------------------------------|-------------------------------------|-------------------------------|------------------------------------|------------------------------------|------------------------------|-----------------------------------|
+| N                         |                            313 | 317                                 |                        216 | 216                             |                            220 | 216                                 |                           648 | 644                                |                                324 |                          165 | 163                               |
+| Baseline score, mean      |                            1.6 | 1.6                                 |                        1.5 | 1.5                             |                            1.4 | 1.5                                 |                           1.6 | 1.6                                |                                1.6 |                          1.6 | 1.7                               |
+| Week 12 c /14 d           |                           -0.5 | -0.8 h                              |                       -0.3 | -0.7 g                          |                           -0.3 | -0.6 g                              |                          -0.3 | -0.6 g,i                           |                               -0.5 |                         -0.2 | -0.4 g                            |
+| Week 24 e /26 f           |                           -0.6 | -0.9 g                              |                            |                                 |                                |                                     |                          -0.3 | -0.7 h,i                           |                               -0.6 |                              |                                   |
+
+Abbreviations: ADA = adalimumab; HAQ-DI = Health Assessment Questionnaire-Disability Index; IR = inadequate responder; MTX = methotrexate; PBO = placebo; UPA = upadacitinib
+
+- a Data shown are mean
+- b Health Assessment Questionnaire-Disability Index: 0=best, 3=worst; 20 questions; 8 categories:
+
+dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities.
+
+- c SELECT-EARLY, SELECT-NEXT, SELECT-COMPARE, SELECT-BEYOND
+- d SELECT-MONOTHERAPY
+- e SELECT-EARLY
+- f SELECT-COMPARE
+- g multiplicity-controlled p≤0.001 upadacitinib vs placebo or MTX comparison
+- h nominal p≤0.001 upadacitinib vs placebo or MTX comparison
+- i nominal p≤0.01 upadacitinib vs adalimumab comparison
+
+In the studies SELECT-MONOTHERAPY, SELECT-NEXT, and SELECT-COMPARE, treatment with upadacitinib 15 mg resulted in a significantly greater improvement in the mean duration of morning joint stiffness compared to placebo or MTX.
+
+In the clinical studies, upadacitinib-treated patients reported significant improvements in patientreported quality of life, as measured by the Short Form (36) Health Survey (SF-36) Physical Component Summary compared to placebo and MTX. Moreover, upadacitinib-treated patients reported significant improvements in fatigue, as measured by the Functional Assessment of Chronic Illness Therapy-Fatigue score (FACIT-F) compared to placebo.
+
+## Paediatric population
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with RINVOQ in one or more subsets of the paediatric population in chronic idiopathic arthritis (including rheumatoid arthritis, psoriatic arthritis, spondyloarthritis and juvenile idiopathic arthritis) atopic dermatitis, alopecia areata, vitiligo ulcerative colitis, and Crohn's disease (see section 4.2 for information on paediatric use).
+
+## 5.2 Pharmacokinetic properties
+
+Upadacitinib plasma exposures are proportional to dose over the therapeutic dose range. Steady-state plasma concentrations are achieved within 4 days with minimal accumulation after multiple once daily administrations of the tablet.
+
+<div style=\"page-break-after: always\"></div>
+
+RINVOQ tablets and RINVOQ oral solution are not bioequivalent. Therefore, the two pharmaceutical forms are not interchangeable on a milligram-per-milligram basis (see section 4.2).
+
+## Absorption
+
+Following oral administration of 6 mg upadacitinib oral solution, upadacitinib is absorbed with a median T max of 1 hour. Coadministration of upadacitinib oral solution with food is not expected to have a clinically relevant effect on upadacitinib exposure. In clinical trials, upadacitinib was administered without regard to meals (see section 4.2). In vitro, upadacitinib is a substrate for the efflux transporters P-gp and BCRP.
+
+## Distribution
+
+Upadacitinib is 52% bound to plasma proteins. Upadacitinib partitions similarly between plasma and blood cellular components, as indicated by the blood to plasma ratio of 1.0.
+
+## Biotransformation
+
+Upadacitinib metabolism is mediated by CYP3A4 with a potential minor contribution from CYP2D6. The pharmacologic activity of upadacitinib is attributed to the parent molecule. In a human radiolabeled study, unchanged upadacitinib accounted for 79% of the total radioactivity in plasma while the main metabolite (product of monooxidation followed by glucuronidation) accounted for 13% of the total plasma radioactivity. No active metabolites have been identified for upadacitinib.
+
+## Elimination
+
+Following single dose administration of [ 14 C]-upadacitinib immediate-release solution, upadacitinib was eliminated predominantly as the unchanged parent substance in urine (24%) and faeces (38%). Approximately 34% of upadacitinib dose was excreted as metabolites. Upadacitinib mean terminal elimination half-life is 6 hours.
+
+## Special populations
+
+## Renal impairment
+
+Upadacitinib AUC was 18%, 33%, and 44% higher in subjects with mild (estimated glomerular filtration rate 60 to 89 ml/min/1.73 m 2 ), moderate (estimated glomerular filtration rate 30 to 59 ml/min/1.73 m 2 ), and severe (estimated glomerular filtration rate 15 to 29 ml/min/1.73 m 2 ) renal impairment, respectively, compared to subjects with normal renal function. Upadacitinib Cmax was similar in subjects with normal and impaired renal function. Mild or moderate renal impairment has no clinically relevant effect on upadacitinib exposure (see section 4.2).
+
+## Hepatic impairment
+
+Mild (Child-Pugh A) and moderate (Child-Pugh B) hepatic impairment has no clinically relevant effect on upadacitinib exposure. Upadacitinib AUC was 28% and 24% higher in subjects with mild and moderate hepatic impairment, respectively, compared to subjects with normal liver function. Upadacitinib Cmax was unchanged in subjects with mild hepatic impairment and 43% higher in subjects with moderate hepatic impairment compared to subjects with normal liver function. Upadacitinib was not studied in patients with severe (Child-Pugh C) hepatic impairment.
+
+## Paediatric population
+
+Upadacitinib pharmacokinetics and steady-state concentrations are similar for adults and adolescents 12 to 17 years of age with atopic dermatitis, alopecia areata or vitiligo. The posology in adolescent patients 30 kg to &lt; 40 kg with atopic dermatitis was determined using population pharmacokinetic modelling and simulation. No clinical exposure data are available in adolescents &lt; 40 kg with atopic dermatitis.
+
+<div style=\"page-break-after: always\"></div>
+
+Upadacitinib plasma exposures (Cmax,ss and AUC24,ss) in paediatric patients with polyarticular juvenile idiopathic arthritis following the recommended weight-based paediatric dosing scheme are predicted to be similar to the target plasma exposure in adult rheumatoid arthritis patients receiving the recommended dose.
+
+The pharmacokinetics of upadacitinib in paediatric patients (&lt; 2 years of age or weighing &lt; 10 kg) have not been established.
+
+The pharmacokinetics of upadacitinib have not yet been evaluated in paediatric patients with psoriatic arthritis, axial spondyloarthritis, ulcerative colitis, and Crohn's disease (see section 4.2).
+
+The pharmacokinetics of upadacitinib in paediatric patients (&lt; 12 years of age) with atopic dermatitis , alopecia areata or vitiligo have not been established.
+
+## Intrinsic factors
+
+Age, sex, body weight, race, and ethnicity did not have a clinically meaningful effect on upadacitinib exposure in adult patient populations.
+
+In paediatric patients with polyarticular juvenile idiopathic arthritis with baseline body weights ranging from 11 to 114 kg, upadacitinib clearance increased with increasing body weight, which supports weight-based dosing (see Table 1). Age (over the range of 2 to &lt; 18 years old) had no additional effect on upadacitinib pharmacokinetics after accounting for the effect of body weight.
+
+## 5.3 Preclinical safety data
+
+Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology.
+
+Upadacitinib, at exposures (based on AUC) approximately 4 and 10 times the clinical dose of the 15 mg tablet, 2 and 5 times the clinical dose of the 30 mg tablet, and 1.7 and 4 times the clinical dose of the 45 mg tablet in male and female Sprague-Dawley rats, respectively, was not carcinogenic in a 2-year carcinogenicity study in Sprague-Dawley rats. Upadacitinib was not carcinogenic in a 26-week carcinogenicity study in CByB6F1-Tg(HRAS)2Jic transgenic mice.
+
+Upadacitinib was not mutagenic or genotoxic based on the results of in vitro and in vivo tests for gene mutations and chromosomal aberrations.
+
+Upadacitinib had no effect on fertility in male or female rats at exposures up to approximately 17 and 34 times the maximum recommended human dose (MRHD) of the 45 mg tablet in males and females, respectively, on an AUC basis in a fertility and early embryonic development study. Dose-related increases in foetal resorptions associated with post-implantation losses in this fertility study in rats were attributed to the developmental/teratogenic effects of upadacitinib. No adverse effects were observed at exposures below clinical exposure (based on AUC). Post-implantation losses were observed at exposures 9 times the clinical exposure at the MRHD of the 45 mg tablet (based on AUC).
+
+In animal embryo-foetal development studies, upadacitinib was teratogenic in both rats and rabbits. Upadacitinib resulted in increases in skeletal malformations in rats at 1.6, 0.8, and 0.6 times the clinical exposure (AUC-based) at the 15, 30, and 45 mg tablet (MRHD) doses, respectively. In rabbits an increased incidence of cardiovascular malformations was observed at 15, 7.6, and 6 times the clinical exposure at the 15, 30, and 45 mg tablet doses (AUC-based), respectively.
+
+Following administration of upadacitinib to lactating rats, the concentrations of upadacitinib in milk over time generally paralleled those in plasma, with approximately 30-fold higher exposure in milk relative to maternal plasma. Approximately 97% of upadacitinib-related material in milk was the parent molecule, upadacitinib.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+citric acid, anhydrous purified water sodium benzoate sodium citrate, dihydrate sucralose
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+3 years
+
+Discard remaining oral solution 60 days after first opening the bottle.
+
+## 6.4 Special precautions for storage
+
+This medicinal product does not require any special temperature storage conditions.
+
+Keep the bottle in the outer carton in order to protect from light.
+
+## 6.5 Nature and contents of container
+
+The oral solution is provided in HDPE bottles with a child-resistant cap.
+
+Each bottle contains 180 ml of solution. The bottle is packaged in a carton with one press-in bottle adapter and one 10 ml oral dosing syringe with markings at each ml.
+
+## 6.6 Special precautions for disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen
+
+Germany
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/19/1404/012
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 16 December 2019
+
+Date of latest renewal: 19 September 2024
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1992,7 +2939,15 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers responsible for batch release
 
-AbbVie S.r.l. 148, Pontina Km 52 snc 04011 Campoverde di Aprilia (LT) ITALY
+AbbVie S.r.l. S.R. 148, Pontina, Km 52 SNC Aprilia (LT) 04011
+
+ITALY
+
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen
+
+GERMANY
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -2019,15 +2974,14 @@ An updated RMP should be submitted:
 
 Prior to launch of RINVOQ in each Member State the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
-The objective of the programme is to increase awareness of HCPs and patients on the risks of serious and opportunistic infections including TB, herpes zoster, foetal malformation (pregnancy risk), MACE, VTE, and malignancy and how to manage these risks.
+<div style=\"page-break-after: always\"></div>
+
+The objective of the programme is to increase awareness of HCPs and patients on the risks of serious and opportunistic infections including TB, herpes zoster, foetal malformation (pregnancy risk), MACE, VTE, malignancy, and GI perforation and how to manage these risks.
 
 The MAH shall ensure that in each Member State where RINVOQ is marketed, all healthcare professionals and patients/carers who are expected to prescribe, dispense or use RINVOQ have access to/are provided with the following educational package:
 
-<div style=\"page-break-after: always\"></div>
-
 ## The physician educational material should contain:
 
-- The Summary of Product Characteristics
 - Guide for healthcare professionals
 - Patient card
 
@@ -2052,7 +3006,7 @@ The MAH shall ensure that in each Member State where RINVOQ is marketed, all hea
 - o Language on teratogenicity of upadacitinib in animals
 - o Details on how to reduce the risk of exposure during pregnancy for female patients of childbearing potential based on the following: upadacitinib is contraindicated during pregnancy, female patients of childbearing potential should be advised to use effective contraception both during treatment and for 4 weeks after the final dose of upadacitinib treatment, and to advise patients to inform their HCP immediately if they think they could be pregnant or if pregnancy is confirmed.
 - Risk of MACE
-- o In patients at high risk for MACE upadacitinib should only be used if no suitable treatment alternatives are available, with examples of who may be at high risk.
+- o Reminder that in patients at high risk for MACE upadacitinib should only be used if no suitable treatment alternatives are available, with examples of who may be at high risk.
 - o Language on the risk of hyperlipidaemia during upadacitinib therapy
 - o Details on monitoring of lipid levels and management of elevated lipid levels per clinical guidelines
 
@@ -2070,40 +3024,38 @@ The MAH shall ensure that in each Member State where RINVOQ is marketed, all hea
 - Risk of gastrointestinal perforation
 - o Upadacitinib should be used with caution in patients at risk for gastrointestinal perforation with examples of those who may be at risk.
 - o Reminder that patients presenting with new onset abdominal signs and symptoms should be evaluated promptly for early identification of diverticulitis or gastrointestinal perforation.
-
-## The 30 mg upadacitinib dose in moderate to severe atopic dermatitis
-
-- Language on dose-dependent increase in serious infections and herpes zoster with upadacitinib.
-- Language on dose-dependent increase in NMSC and malignancy
-- Language on dose-dependent increase in plasma lipids with upadacitinib.
-- Language that the 30 mg dose is not recommended in certain populations (patients with severe renal impairment and patients taking strong CYP3A4 inhibitors).
-- Language to reinforce that the lowest effective dose of upadacitinib should be used for treatment.
+- o Language on dose-dependent increase in serious infections and herpes zoster with upadacitinib.
+- o Language on dose-dependent increase in NMSC and malignancy
+- o Language on dose-dependent increase in plasma lipids with upadacitinib.
+- o Language that the 30 mg dose is not recommended in certain populations (patients with severe renal impairment and patients taking strong CYP3A4 inhibitors).
+- o Language to reinforce that the lowest effective dose of upadacitinib should be used for treatment.
 
 ## The 30 mg upadacitinib dose in severe alopecia areata
 
-- Language on dose-dependent increase in serious infections and herpes zoster with upadacitinib.
-- Language on dose-dependent increase in plasma lipids with upadacitinib.
-- Language that the 30 mg dose is not recommended in certain populations (patients with severe renal impairment and patients taking strong CYP3A4 inhibitors).
-- Language to reinforce that the lowest effective dose of upadacitinib should be used for treatment.
-
-## Upadacitinib use in adolescents 12 years and older
-
-- Reminder that live, attenuated vaccines (ie. varicella, MMR, BCG) which depending on local guidelines may be considered in adolescents. Language not to administer these vaccines immediately prior to or during upadacitinib treatment.
-- Language to remind adolescents of the potential pregnancy risks and on the appropriate use of effective contraception.
-- Language that if their adolescent patient has not experienced menarche, to inform their adolescent patient or caregiver to let them know when they do.
+- o Language on dose-dependent increase in serious infections and herpes zoster with upadacitinib.
+- o Language on dose-dependent increase in plasma lipids with upadacitinib.
+- o Language that the 30 mg dose is not recommended in certain populations (patients with severe renal impairment and patients taking strong CYP3A4 inhibitors).
+- o Language to reinforce that the lowest effective dose of upadacitinib should be used for treatment.
 
 ## Information for upadacitinib use in moderate to severe ulcerative colitis (UC) or Crohn's disease (CD)
 
-- Reminder to review induction and maintenance dosing in product labeling.
-- Language on dose-dependent increase in serious infections and herpes zoster with upadacitinib
-- Language on dose-dependent increase in NMSC and malignancy
+- o Reminder to review induction and maintenance dosing in product labeling.
+- o Language on dose-dependent increase in serious infections and herpes zoster with upadacitinib
+- o Language on dose-dependent increase in NMSC and malignancy
+- o Reminder about induction and maintenance dose in certain populations (patients taking strong CYP3A4 inhibitors and severe renal impairment).
+- o Language to reinforce that the lowest effective dose of upadacitinib should be used for maintenance treatment
+
+## Upadacitinib use in paediatric patients (children from 2 years and adolescents)
+
+- o Reminder that live, attenuated vaccines (ie. varicella, MMR, BCG) which depending on local guidelines may be considered in paediatric patients. Language not to administer these vaccines immediately prior to or during upadacitinib treatment.
+- o Language to remind paediatric patients of the potential pregnancy risks and on the appropriate use of effective contraception.
+- o Language that if their paediatric patient has not experienced menarche, to inform their paediatric patient or caregiver to let them know when they do.
 
 <div style=\"page-break-after: always\"></div>
 
-- Reminder about induction and maintenance dose in certain populations (patients taking strong CYP3A4 inhibitors and severe renal impairment).
-- Language to reinforce that the lowest effective dose of upadacitinib should be used for maintenance treatment
+Instructions on where to report AEs will be included.
 
-Instructions on where to report AEs will be included. Instructions for how to access digital HCP information will be included, if applicable.
+Instructions for how to access digital HCP information will be included, if applicable.
 
 The patient information pack should contain:
 
@@ -2116,9 +3068,9 @@ The patient information pack should contain:
 - Language to advise patients and their HCPs about the risk of live vaccinations when given during upadacitinib therapy. Examples of live vaccines are provided.
 - Language to advise patients to tell their HCP if they have history or have been in contact with TB.
 - o Description of targeted risks for awareness by the patient and for HCPs involved in their care including:
-- Risk of heart disease:
-- o Describe signs/symptoms of heart disease that the patient needs to be aware of, so that they can seek attention from their HCP
-- o A reminder to use contraception, that upadacitinib is contraindicated during pregnancy, and to notify their HCPs if they become pregnant while taking upadacitinib
+- o Risk of heart disease - Description of signs/symptoms of heart disease that the patient needs to be aware of, so that they can seek attention from their HCP
+- o Reminder to use contraception, that upadacitinib is contraindicated during pregnancy, and to notify their HCPs if they become pregnant while taking upadacitinib
+- o Reminder to inform their HCP if a child has her first menstrual period while taking upadacitinib
 - o Description of signs/symptoms of deep venous thrombosis or pulmonary embolism which the patient needs to be aware of, so that they can seek attention from an HCP
 - o Reminder of the risk of cancer. Regarding skin cancer reminder to let their doctor know if they notice any new growth on the skin.
 - o Risk of a hole in the bowel - description of signs/symptoms which the patient needs to be aware of, so that they can seek attention from an HCP
@@ -2133,15 +3085,15 @@ The patient information pack should contain:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 Blister Carton (Individual carton)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-RINVOQ 15 mg prolonged-release tablets
-
-upadacitinib
+RINVOQ 15 mg prolonged-release tablets upadacitinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2161,7 +3113,7 @@ Oral use
 
 Do not chew, crush or break the tablet. Swallow whole.
 
-QR code to be included
+## QR code to be included
 
 For more information and support on taking RINVOQ go to www.rinvoq.eu
 
@@ -2171,15 +3123,13 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original blister in order to protect from moisture.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2193,15 +3143,14 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 EU/1/19/1404/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 rinvoq 15 mg
 
@@ -2209,7 +3158,8 @@ rinvoq 15 mg
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -2223,9 +3173,7 @@ Outer carton for 84 tablet multipack (with Blue Box)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-RINVOQ 15 mg prolonged-release tablets
-
-upadacitinib
+RINVOQ 15 mg prolonged-release tablets upadacitinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2279,11 +3227,11 @@ EU/1/19/1404/003
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 rinvoq 15 mg
 
@@ -2305,9 +3253,7 @@ Intermediate carton of 84 tablet multipack (without Blue Box)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-RINVOQ 15 mg prolonged-release tablets
-
-upadacitinib
+RINVOQ 15 mg prolonged-release tablets upadacitinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2343,6 +3289,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original blister in order to protect from moisture.
@@ -2361,15 +3309,15 @@ EU/1/19/1404/003
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 rinvoq 15 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -2381,9 +3329,7 @@ Outer carton of 98 tablets
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-RINVOQ 15 mg prolonged-release tablets
-
-upadacitinib
+RINVOQ 15 mg prolonged-release tablets upadacitinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2413,15 +3359,13 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original blister in order to protect from moisture.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2435,27 +3379,34 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 EU/1/19/1404/005
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 rinvoq 15 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2463,9 +3414,7 @@ Inner carton of 49 tablets (for the 98 pack)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-RINVOQ 15 mg prolonged-release tablets
-
-upadacitinib
+RINVOQ 15 mg prolonged-release tablets upadacitinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2495,20 +3444,17 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Store in the original blister in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2518,27 +3464,34 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 EU/1/19/1404/005
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 rinvoq 15 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS Blister
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blister                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 RINVOQ 15 mg prolonged-release tablets upadacitinib
 
@@ -2547,7 +3500,8 @@ RINVOQ 15 mg prolonged-release tablets upadacitinib
 
 AbbVie (as logo)
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -2569,9 +3523,7 @@ Bottle Carton (30 and 90 pack)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-RINVOQ 15 mg prolonged-release tablets
-
-upadacitinib
+RINVOQ 15 mg prolonged-release tablets upadacitinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2623,15 +3575,14 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/19/1404/002
-
-EU/1/19/1404/004
+EU/1/19/1404/002 EU/1/19/1404/004
 
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2768,7 +3719,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -2788,23 +3739,28 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 EU/1/19/1404/006
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 rinvoq 30 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -2848,7 +3804,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -2868,27 +3824,34 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 EU/1/19/1404/009
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 rinvoq 30 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2926,13 +3889,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
 
 Store in the original blister in order to protect from moisture.
 
@@ -2940,51 +3901,64 @@ Store in the original blister in order to protect from moisture.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Germany
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/19/1404/009
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
-rinvoq 30 mg
+rinvoq 30 mg RINVOQ 30 mg prolonged-release tablets upadacitinib AbbVie (as logo)
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS Blister
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blister                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-RINVOQ 30 mg prolonged-release tablets upadacitinib
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-AbbVie (as logo)
-
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
@@ -3054,7 +4028,8 @@ EU/1/19/1404/007 EU/1/19/1404/008
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -3153,8 +4128,6 @@ Lot
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
 
-93
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -3199,6 +4172,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original blister in order to protect from moisture.
@@ -3209,11 +4184,7 @@ Store in the original bottle and keep the bottle tightly closed in order to prot
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AbbVie Deutschland GmbH &amp; Co. KG
-
-Knollstrasse
-
-67061 Ludwigshafen
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen
 
 Germany
 
@@ -3229,9 +4200,9 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 rinvoq 45 mg
 
@@ -3241,35 +4212,38 @@ rinvoq 45 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blister                                               |
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS Blister
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 RINVOQ 45 mg prolonged-release tablets upadacitinib
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 AbbVie (as logo)
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
@@ -3321,8 +4295,189 @@ Store in the original bottle and keep the bottle tightly closed in order to prot
 
 <div style=\"page-break-after: always\"></div>
 
-| 10. OR   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF   |
-|----------|--------------------------------------------------------------------------------------------------------------------------|
+| 10.                                                                     | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS           |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
+
+11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+AbbVie (as logo)
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Bottle Carton
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+RINVOQ 1 mg/ml oral solution
+
+upadacitinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each ml of oral solution contains 1 mg of upadacitinib.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains sodium benzoate. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## oral solution
+
+- 1 x 180 ml bottle
+- 1 x press-in bottle adapter
+- 1 x 10 ml oral dosing syringe
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+Insert bottle adapter on first use. Do not remove adapter after it is inserted.
+
+## QR code to be included
+
+For more information and support on taking RINVOQ go to www.rinvoq.eu
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+Discard after 60 days of first opening.
+
+Open date:
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Keep the bottle in the outer carton in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen
+
+Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/19/1404/012
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+rinvoq 1 mg/ml
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+Bottle Label
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+RINVOQ 1 mg/ml oral solution
+
+upadacitinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each ml of oral solution contains 1 mg of upadacitinib.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains sodium benzoate. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## oral solution
+
+180 ml
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+Insert bottle adapter on first use. Do not remove adapter after it is inserted.
+
+Important to open
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+Discard after 60 days of first opening Keep the bottle in the outer carton in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+| 10.                                                                     | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS           |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
@@ -3352,6 +4507,8 @@ Lot
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
 
+PC
+
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
@@ -3360,16 +4517,20 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-RINVOQ 15 mg prolonged-release tablets RINVOQ 30 mg prolonged-release tablets RINVOQ 45 mg prolonged-release tablets
+RINVOQ 15 mg prolonged-release tablets
+
+RINVOQ 30 mg prolonged-release tablets
+
+RINVOQ 45 mg prolonged-release tablets
 
 ## upadacitinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist, or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist, or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3386,6 +4547,7 @@ RINVOQ contains the active substance upadacitinib. It belongs to a group of medi
 
 - Rheumatoid arthritis
 - Psoriatic arthritis
+- Polyarticular juvenile idiopathic arthritis
 - Axial spondyloarthritis
 - Non-radiographic axial spondyloarthritis
 - Ankylosing spondylitis (AS, radiographic axial spondyloarthritis)
@@ -3400,15 +4562,21 @@ RINVOQ contains the active substance upadacitinib. It belongs to a group of medi
 
 RINVOQ is used to treat adults with rheumatoid arthritis. Rheumatoid arthritis is a disease that causes inflamed joints. If you have moderate to severe active rheumatoid arthritis, you may first be given other medicines, one of which will usually be methotrexate. If these medicines do not work well enough, you will be given RINVOQ either alone or in combination with methotrexate to treat your rheumatoid arthritis.
 
-RINVOQ can help to reduce pain, stiffness and swelling in your joints, reduce tiredness and it can slow down damage to the bone and cartilage in your joints. These effects can ease your normal daily activities and so improve your quality of life.
-
 <div style=\"page-break-after: always\"></div>
+
+RINVOQ can help to reduce pain, stiffness and swelling in your joints, reduce tiredness and it can slow down damage to the bone and cartilage in your joints. These effects can ease your normal daily activities and so improve your quality of life.
 
 ## Psoriatic arthritis
 
 RINVOQ is used to treat adults with psoriatic arthritis. Psoriatic arthritis is a disease that causes inflamed joints and psoriasis. If you have active psoriatic arthritis, you may first be given other medicines. If these medicines do not work well enough, you will be given RINVOQ either alone or in combination with methotrexate to treat your psoriatic arthritis.
 
 RINVOQ can help to reduce pain, stiffness, and swelling in and around your joints, pain and stiffness in your spine, psoriatic skin rash, and tiredness, and it can slow down damage to the bone and cartilage in your joints. These effects can ease your normal daily activities and so improve your quality of life.
+
+## Polyarticular juvenile idiopathic arthritis
+
+RINVOQ is used to treat active polyarticular juvenile idiopathic arthritis in patients 2 years and older. Polyarticular juvenile idiopathic arthritis is a disease that causes inflamed joints. If you have active polyarticular juvenile idiopathic arthritis, you may first be given other medicines. If these medicines do not work well enough, you will be given RINVOQ either alone or in combination with methotrexate to treat your polyarticular juvenile idiopathic arthritis.
+
+RINVOQ can help to reduce pain, stiffness and swelling in your joints, and help to slow damage to the bone and cartilage in your joints. These effects can ease your normal daily activities and so improve your quality of life.
 
 Axial spondyloarthritis (non-radiographic axial spondyloarthritis and ankylosing spondylitis) RINVOQ is used to treat adults with axial spondyloarthritis. Axial spondyloarthritis is a disease that primarily causes inflammation in the spine. If you have active axial spondyloarthritis, you may first be given other medicines. If these medicines do not work well enough, you will be given RINVOQ to treat your axial spondyloarthritis.
 
@@ -3426,6 +4594,8 @@ RINVOQ is used to treat adults and adolescents 12 years and older with moderate 
 
 Taking RINVOQ can improve the condition of your skin, and reduce itching and flares. RINVOQ can help improve symptoms of pain, anxiety and depression that people with atopic dermatitis may have. RINVOQ can also help improve your sleep disturbance and overall quality of life.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Alopecia areata
 
 RINVOQ is used to treat adults and adolescents 12 years and older with severe alopecia areata. Alopecia areata is a disease where the body's own immune system attacks the hair root, causing inflammation that leads to nonscarring hair loss (potentially reversible) on the scalp, face and/or other parts of the body.
@@ -3437,8 +4607,6 @@ RINVOQ can help to reduce inflammation at the hair root, leading to hair regrowt
 RINVOQ is used to treat adults and adolescents 12 years and older with vitiligo. Vitiligo is a disease in which the body's own immune system attacks and destroys the cells responsible for producing skin pigment (melanin), resulting in white or lighter patches of skin.
 
 RINVOQ can help to stop your loss of skin colour due to vitiligo and allow the skin to regain colour. This may make vitiligo less noticeable.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ulcerative colitis
 
@@ -3468,19 +4636,17 @@ Talk to your doctor or pharmacist before and during treatment with RINVOQ if:
 
 - you have an infection or if you often get infections. Tell your doctor if you get symptoms such as fever, wounds, feeling more tired than usual or dental problems as these can be signs of infection. RINVOQ can reduce your body's ability to fight infections and may make an existing infection worse or increase the chance of you getting a new infection. If you have diabetes or are 65 years of age or older you may have an increased chance of getting infections
 - you have had tuberculosis or have been in close contact with someone with tuberculosis. Your doctor will test you for tuberculosis before starting RINVOQ and may retest during treatment
+
+<div style=\"page-break-after: always\"></div>
+
 - you have had a herpes zoster infection (shingles), because RINVOQ may allow it to come back. Tell your doctor if you get a painful skin rash with blisters as these can be signs of shingles
 - you have ever had hepatitis B or C
 - you have recently had or plan to have a vaccination (immunisation) - this is because live vaccines are not recommended while using RINVOQ
 - you have or had in the past cancer, smoke or have smoked in the past, because your doctor will discuss with you if RINVOQ is appropriate for you
-- non-melanoma skin cancer has been observed in patients taking RINVOQ. Your doctor may recommend that you have regular skin examinations while taking RINVOQ. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor.
+- new skin changes appear during or after taking RINVOQ. Your doctor may recommend that you have regular skin examinations while taking RINVOQ because non-melanoma skin cancer has been observed in patients taking RINVOQ
 - have, or have had, heart problems, because your doctor will discuss with you if RINVOQ is appropriate for you
 - your liver does not work as well as it should
-- you have previously had blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism) or have an increased risk for developing this (for example: if you had recent major surgery, if you use hormonal contraceptives\\hormonal replacement therapy, if a blood clotting disorder is identified in you or your close relatives). Your doctor will discuss with you if RINVOQ is appropriate for you. Tell your doctor if you get sudden shortness of
-
-<div style=\"page-break-after: always\"></div>
-
-breath or difficulty breathing, chest pain or pain in upper back, swelling of the leg or arm, leg pain or tenderness, or redness or discolouration in the leg or arm as these can be signs of blood clots in the veins
-
+- you have previously had blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism) or have an increased risk for developing this (for example: if you had recent major surgery, if you use hormonal contraceptives\\hormonal replacement therapy, if a blood clotting disorder is identified in you or your close relatives). Your doctor will discuss with you if RINVOQ is appropriate for you. Tell your doctor if you get sudden shortness of breath or difficulty breathing, chest pain or pain in upper back, swelling of the leg or arm, leg pain or tenderness, or redness or discolouration in the leg or arm as these can be signs of blood clots in the veins
 - you experience sudden changes to your eyesight. You should seek medical advice straight away if you have sudden symptoms such as blurry vision, partial or complete loss of vision, as these may be a sign of blocked blood flow in the eyes
 - you have kidney problems
 - you have unexplained stomach (abdominal) pain, have or have had diverticulitis (painful inflammation of small pockets in the lining of your intestine) or ulcers in your stomach or intestines, or are taking non-steroidal anti-inflammatory medicines
@@ -3503,9 +4669,13 @@ Patients 65 years of age and older may be at increased risk of infections, heart
 
 ## Children and adolescents
 
+RINVOQ is not recommended for use in children under 2 years of age or weighing less than 10 kg with polyarticular juvenile idiopathic arthritis. This is because it has not been studied in these patients.
+
+<div style=\"page-break-after: always\"></div>
+
 RINVOQ is not recommended for use in children under 12 years of age or adolescents weighing less than 30 kg with atopic dermatitis, alopecia areata or vitiligo. This is because it has not been studied in these patients.
 
-RINVOQ is not recommended for use in children and adolescents under 18 years of age with rheumatoid arthritis, psoriatic arthritis, axial spondyloarthritis (non-radiographic axial spondyloarthritis and ankylosing spondylitis), ulcerative colitis, or Crohn's disease. This is because it has not been studied in this age group.
+RINVOQ is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, axial spondyloarthritis (non-radiographic axial spondyloarthritis and ankylosing spondylitis), ulcerative colitis, or Crohn's disease. This is because it has not been studied in this age group.
 
 ## Other medicines and RINVOQ
 
@@ -3517,9 +4687,6 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 - medicines to treat tuberculosis (such as rifampicin)
 - medicines to treat seizures or fits (such as phenytoin)
 - medicines that affect your immune system (such as azathioprine, 6-mercaptopurine, ciclosporin and tacrolimus)
-
-<div style=\"page-break-after: always\"></div>
-
 - medicines that may increase your risk of gastrointestinal perforation or diverticulitis such as non-steroidal anti-inflammatory medicines (usually used to treat painful and/or inflammatory conditions of muscle or joints), and/or opioids (used to treat severe pain), and/or corticosteroids (usually used to treat inflammatory conditions)
 - medicines to treat diabetes or if you have diabetes. Your doctor may decide if you need less anti-diabetic medicine while taking upadacitinib.
 
@@ -3545,19 +4712,25 @@ If your child has her first menstrual period while taking RINVOQ, you should inf
 
 Do not drive or use machines if you experience dizziness or a spinning sensation (vertigo) when taking RINVOQ until they resolve.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How to take RINVOQ
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
 ## How much to take
 
-If you have rheumatoid arthritis, psoriatic arthritis, axial spondyloarthritis (non-radiographic axial spondyloarthritis and ankylosing spondylitis), giant cell arteritis, or vitiligo.
+If you have rheumatoid arthritis, psoriatic arthritis, axial spondyloarthritis (non-radiographic axial spondyloarthritis and ankylosing spondylitis), giant cell arteritis, or vitiligo
 
 The recommended dose is one 15 mg tablet once a day.
 
+## If you have polyarticular juvenile idiopathic arthritis
+
+The recommended dose is one 15 mg tablet once a day for patients weighing at least 30 kg.
+
 ## If you have atopic dermatitis
 
-## Adults (from 18 to 64 years of age) :
+## Adults (from 18 to 64 years of age):
 
 The recommended dose is 15 mg or 30 mg as prescribed by your doctor, as one tablet once a day. Your doctor may increase or decrease your dose depending on how you respond to the medicine.
 
@@ -3569,11 +4742,9 @@ The recommended dose is one 15 mg tablet once a day. Your doctor may increase yo
 
 If you are 65 years of age or older, the recommended dose is 15 mg once a day.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you have alopecia areata
 
-## Adults (from 18 to 64 years of age) and Adolescents (from 12 to 17 years of age) weighing at least 30 kg :
+## Adults (from 18 to 64 years of age) and Adolescents (from 12 to 17 years of age) weighing at least 30 kg:
 
 The recommended dose is one 15 mg or 30 mg tablet once a day, as prescribed by your doctor. Your doctor may increase or decrease your dose depending on how you respond to the medicine.
 
@@ -3590,6 +4761,8 @@ The recommended dose is one 45 mg tablet once a day for 8 weeks. Your doctor may
 If you are 65 years of age or older, the recommended dose is 15 mg once a day for your long-term treatment.
 
 Your doctor may reduce your dose if you have kidney problems, or you are prescribed certain other medicines.
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you have Crohn's disease
 
@@ -3613,8 +4786,6 @@ Your doctor may reduce your dose if you have kidney problems, or you are prescri
 
 If you take more RINVOQ than you should, contact your doctor. You may get some of the side effects listed in section 4.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you forget to take RINVOQ
 
 - If you miss a dose, take it as soon as you remember.
@@ -3631,16 +4802,22 @@ Do not stop taking RINVOQ unless your doctor tells you to stop taking it.
 
 <!-- image -->
 
-<!-- image -->
-
-<!-- image -->
-
 Foil Cutting Tool - on the cap of the bottle
 
-1. How to puncture the foil
-- 1a. Remove the cap from the bottle by pushing down and while still pushing, turn the cap anti-clockwise.
-- 1b. Turn the cap over and place the cutting tool near the edge of the foil seal.
-4. 2 . Push down to make a hole in the foil and move the cutting tool round the edge of the foil to continue cutting the foil.
+## 1. How to puncture the foil
+
+1a. Remove the cap from the bottle by pushing down and while still pushing, turn the cap anti-clockwise.
+
+1b. Turn the cap over and place the cutting tool near the edge of the foil seal.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<!-- image -->
+
+2. Push down to make a hole in the foil and move the cutting tool round the edge of the foil to continue cutting the foil.
+
 3. When you have taken your tablet, put the cap back on and close the bottle.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
@@ -3654,12 +4831,534 @@ Like all medicines, this medicine can cause side effects, although not everybody
 Talk to your doctor or get medical help straight away if you get any signs of:
 
 - infection such as shingles or painful skin rash with blisters (herpes zoster) - common (may affect up to 1 in 10 people)
+- infection of the lung (pneumonia), which may cause shortness of breath, fever, and a cough with mucus - common (may affect up to 1 in 10 people)
+- infection in the blood (sepsis) - uncommon (may affect up to 1 in 100 people)
+- allergic reaction (chest tightness, wheezing, swelling of the lips, tongue or throat, hives) - uncommon (may affect up to 1 in 100 people)
+
+## Other side effects
+
+Talk to your doctor if you notice any of the following side effects:
+
+Very common (may affect more than 1 in 10 people)
+
+- throat and nose infections
+- acne
+
+Common (may affect up to 1 in 10 people)
+
+- non-melanoma skin cancer
+- cough
+- fever
+- cold sores (herpes simplex)
+- feeling sick in the stomach (nausea)
+- increase in an enzyme called creatine kinase, shown by blood tests
+- low white blood cell counts shown in blood tests
+- increased levels of cholesterol (a type of fat in the blood) as shown in tests
+- increased levels of liver enzymes, shown by blood tests (sign of liver problems)
+- weight gain
+- inflammation (swelling) of the hair follicles
+- flu (influenza)
 
 <div style=\"page-break-after: always\"></div>
 
+- anaemia
+- pain in your belly (abdomen)
+- fatigue (feeling unusually tired and weak)
+- headache (headache was very common in giant cell arteritis)
+- hives (urticaria)
+- urinary tract infection
+- rash
+- a spinning sensation (vertigo)
+- dizziness
+- infection of the lungs (bronchitis)
+- swelling of the feet and hands (peripheral oedema)
+
+Uncommon (may affect up to 1 in 100 people)
+
+- thrush in the mouth (white patches in the mouth)
+- increased levels of triglycerides (a type of fat) in the blood, as shown in tests
+- diverticulitis (painful inflammation of small pockets in the lining of your intestine)
+- gastrointestinal perforation (a hole in the bowel)
+- changes in the colour of semen (mostly blue and less frequently green)
+
+Rare (may affect up to 1 in 1 000 people)
+
+## Additional side effects in adolescents with atopic dermatitis
+
+## Common
+
+- warts (skin papilloma)
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store RINVOQ
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the blister label and carton after 'EXP'.
+
+This medicine does not require any special temperature storage conditions.
+
+Store in the original blister or bottle with the lid tightly closed in order to protect from moisture.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What RINVOQ contains
+
+The active substance is upadacitinib.
+
+<div style=\"page-break-after: always\"></div>
+
+## RINVOQ 15 mg prolonged-release tablets
+
+- Each prolonged-release tablet contains upadacitinib hemihydrate, equivalent to 15 mg upadacitinib.
+- The other ingredients are:
+- Core tablet: microcrystalline cellulose, mannitol, tartaric acid, hypromellose, silica colloidal anhydrous, magnesium stearate.
+- Film coating: poly(vinyl alcohol), macrogol, talc, titanium dioxide (E171), iron oxide red (E172), iron oxide black (E172).
+
+## RINVOQ 30 mg prolonged-release tablets
+
+- Each prolonged-release tablet contains upadacitinib hemihydrate, equivalent to 30 mg upadacitinib.
+- The other ingredients are:
+- Core tablet: microcrystalline cellulose, mannitol, tartaric acid, hypromellose, silica colloidal anhydrous, magnesium stearate.
+- Film coating: poly(vinyl alcohol), macrogol, talc, titanium dioxide (E171), iron oxide red (E172).
+
+## RINVOQ 45 mg prolonged-release tablets
+
+- Each prolonged-release tablet contains upadacitinib hemihydrate, equivalent to 45 mg upadacitinib.
+- The other ingredients are:
+- Core tablet: microcrystalline cellulose, mannitol, tartaric acid, hypromellose, silica colloidal anhydrous, magnesium stearate.
+- Film coating: poly(vinyl alcohol), macrogol, talc, titanium dioxide (E171), iron oxide yellow (E172) and iron oxide red (E172).
+
+## What RINVOQ looks like and contents of the pack
+
+## RINVOQ 15 mg prolonged-release tablets
+
+RINVOQ 15 mg prolonged-release tablets are purple, oblong, biconvex tablets imprinted on one side with 'a15'.
+
+## The tablets are provided in blisters or bottles.
+
+RINVOQ is available in packs containing 28 or 98 prolonged-release tablets and in multipacks of 84 comprising 3 cartons, each containing 28 prolonged-release tablets.
+
+Each calendar blister contains 7 tablets.
+
+RINVOQ is available in bottles with desiccant containing 30 prolonged-release tablets, each pack contains 1 bottle (30 tablet pack) or 3 bottles (90 tablet pack).
+
+## RINVOQ 30 mg prolonged-release tablets
+
+RINVOQ 30 mg prolonged-release tablets are red, oblong, biconvex tablets imprinted on one side with 'a30'.
+
+The tablets are provided in blisters or bottles.
+
+RINVOQ is available in packs containing 28 or 98 prolonged-release tablets. Each calendar blister contains 7 tablets.
+
+RINVOQ is available in bottles with desiccant containing 30 prolonged-release tablets, each pack contains 1 bottle (30 tablet pack) or 3 bottles (90 tablet pack).
+
+<div style=\"page-break-after: always\"></div>
+
+RINVOQ 45 mg prolonged-release tablets
+
+RINVOQ 45 mg prolonged-release tablets are yellow to mottled yellow, oblong, biconvex tablets imprinted on one side with 'a45'.
+
+The tablets are provided in blisters or bottles.
+
+RINVOQ is available in packs containing 28 prolonged-release tablets. Each calendar blister contains 7 tablets.
+
+RINVOQ is available in bottles with desiccant containing 28 prolonged-release tablets, each pack contains 1 bottle.
+
+Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder
+
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
+
+## Manufacturer
+
+AbbVie S.r.l. S.R. 148 Pontina, km 52 SNC Aprilia (LT) 04011 Italy
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+AbbVie SA
+
+Tél/Tel: +32 10 477811
+
+## България
+
+АбВи ЕООД
+
+Тел.:+359 2 90 30 430
+
+## Česká republika
+
+AbbVie s.r.o.
+
+Tel: +420 233 098 111
+
+## Danmark
+
+AbbVie A/S
+
+Tlf.: +45 72 30-20-28
+
+## Deutschland
+
+AbbVie Deutschland GmbH &amp; Co. KG
+
+Tel: 00800 222843 33 (gebührenfrei)
+
+Tel: +49 (0) 611 / 1720-0
+
+## Lietuva
+
+AbbVie UAB
+
+Tel: +370 5 205 3023
+
+## Luxembourg/Luxemburg
+
+AbbVie SA
+
+Belgique/Belgien
+
+Tél/Tel: +32 10 477811
+
+## Magyarország
+
+AbbVie Kft.
+
+Tel.:+36 1 455 8600
+
+## Malta
+
+V.J.Salomone Pharma Limited
+
+Tel: +356 21220174
+
+## Nederland
+
+AbbVie B.V.
+
+Tel: +31 (0)88 322 2843
+
+<div style=\"page-break-after: always\"></div>
+
+## Eesti
+
+AbbVie OÜ
+
+Tel: +372 623 1011
+
+## Ελλάδα
+
+AbbVie ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε.
+
+Τηλ: +30 214 4165 555
+
+## España
+
+AbbVie Spain, S.L.U.
+
+Tel: +34 91 384 09 10
+
+## France
+
+AbbVie
+
+Tél: +33 (0) 1 45 60 13 00
+
+## Hrvatska
+
+AbbVie d.o.o.
+
+Tel + 385 (0)1 5625 501
+
+## Ireland
+
+AbbVie Limited
+
+Tel: +353 (0)1 4287900
+
+## Ísland
+
+Vistor
+
+Sími: +354 535 7000
+
+## Italia
+
+AbbVie S.r.l.
+
+Tel: +39 06 928921
+
+## Κύπρος
+
+Lifepharma (Z.A.M.) Ltd
+
+Τηλ.: +357 22 34 74 40
+
+## Latvija
+
+AbbVie SIA
+
+Tel: +371 67605000
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+Detailed information on this product is also available by scanning the QR code included below or on the outer carton with a smart phone. The same information is available on the following URL: www.rinvoq.eu.
+
+## QR code to be included
+
+To listen to or request a copy of this leaflet in &lt;Braille&gt;, &lt;large print&gt; or &lt;audio&gt;, please contact the local representative of the Marketing Authorisation Holder.
+
+## Norge
+
+AbbVie AS
+
+Tlf: +47 67 81 80 00
+
+## Österreich
+
+AbbVie GmbH
+
+Tel: +43 1 20589-0
+
+## Polska
+
+AbbVie Sp. z o.o.
+
+Tel.: +48 22 372 78 00
+
+## Portugal
+
+AbbVie, Lda.
+
+Tel: +351 (0)21 1908400
+
+## România
+
+AbbVie S.R.L.
+
+Tel: +40 21 529 30 35
+
+## Slovenija
+
+AbbVie Biofarmacevtska družba d.o.o.
+
+Tel: +386 (1)32 08 060
+
+## Slovenská republika
+
+AbbVie s.r.o.
+
+Tel: +421 2 5050 0777
+
+## Suomi/Finland
+
+AbbVie Oy
+
+Puh/Tel: +358 (0)10 2411 200
+
+## Sverige
+
+AbbVie AB
+
+Tel: +46 (0)8 684 44 600
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
+
+## RINVOQ 1 mg/ml oral solution
+
+upadacitinib
+
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
+
+This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give RINVOQ to a child or adolescent, please read this information carefully.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist, or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What RINVOQ is and what it is used for
+2. What you need to know before you take RINVOQ
+3. How to take RINVOQ
+4. Possible side effects
+5. How to store RINVOQ
+6. Contents of the pack and other information
+7. Instructions for use
+
+## 1. What RINVOQ is and what it is used for
+
+RINVOQ is used to treat active polyarticular juvenile idiopathic arthritis in patients 2 years and older. Polyarticular juvenile idiopathic arthritis is a disease that causes inflamed joints. If you have active polyarticular juvenile idiopathic arthritis, you may first be given other medicines. If these medicines do not work well enough, you will be given RINVOQ either alone or in combination with methotrexate to treat your polyarticular juvenile idiopathic arthritis.
+
+RINVOQ can help to reduce pain, stiffness and swelling in your joints, and help to slow damage to the bone and cartilage in your joints. These effects can ease your normal daily activities and so improve your quality of life.
+
+## How RINVOQ works
+
+RINVOQ contains the active substance upadacitinib. It belongs to a group of medicines called Janus kinase inhibitors. By reducing the activity of an enzyme called 'Janus kinase' in the body, RINVOQ lowers inflammation in polyarticular juvenile idiopathic arthritis.
+
+## 2. What you need to know before you take RINVOQ
+
+## Do not take RINVOQ
+
+- if you are allergic to upadacitinib or any of the other ingredients of this medicine (listed in section 6)
+- if you have a severe infection (such as pneumonia or bacterial skin infection)
+- if you have active tuberculosis (TB)
+- if you have severe liver problems
+
+<div style=\"page-break-after: always\"></div>
+
+- if you are pregnant (see section Pregnancy, breast-feeding and contraception)
+
+## Warnings and precautions
+
+Talk to your doctor or pharmacist before and during treatment with RINVOQ if:
+
+- you have an infection or if you often get infections. Tell your doctor if you get symptoms such as fever, wounds, feeling more tired than usual or dental problems as these can be signs of infection. RINVOQ can reduce your body's ability to fight infections and may make an existing infection worse or increase the chance of you getting a new infection. If you have diabetes or are 65 years of age or older you may have an increased chance of getting infections
+- you have had tuberculosis or have been in close contact with someone with tuberculosis. Your doctor will test you for tuberculosis before starting RINVOQ and may retest during treatment
+- you have had a herpes zoster infection (shingles), because RINVOQ may allow it to come back. Tell your doctor if you get a painful skin rash with blisters as these can be signs of shingles
+- you have ever had hepatitis B or C
+- you have recently had or plan to have a vaccination (immunisation) - this is because live vaccines are not recommended while using RINVOQ
+- you have or had in the past cancer, smoke or have smoked in the past, because your doctor will discuss with you if RINVOQ is appropriate for you
+- new skin changes appear during or after taking RINVOQ. Your doctor may recommend that you have regular skin examinations while taking RINVOQ because non-melanoma skin cancer has been observed in patients taking RINVOQ
+- have, or have had, heart problems, because your doctor will discuss with you if RINVOQ is appropriate for you
+- your liver does not work as well as it should
+- you have previously had blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism) or have an increased risk for developing this (for example: if you had recent major surgery, if you use hormonal contraceptives\\hormonal replacement therapy, if a blood clotting disorder is identified in you or your close relatives). Your doctor will discuss with you if RINVOQ is appropriate for you. Tell your doctor if you get sudden shortness of breath or difficulty breathing, chest pain or pain in upper back, swelling of the leg or arm, leg pain or tenderness, or redness or discolouration in the leg or arm as these can be signs of blood clots in the veins
+- you experience sudden changes to your eyesight. You should seek medical advice straight away if you have sudden symptoms such as blurry vision, partial or complete loss of vision, as these may be a sign of blocked blood flow in the eyes
+- you have kidney problems
+- you have unexplained stomach (abdominal) pain, have or have had diverticulitis (painful inflammation of small pockets in the lining of your intestine) or ulcers in your stomach or intestines, or are taking non-steroidal anti-inflammatory medicines.
+
+If you notice any of the following serious side effects, tell a doctor straight away:
+
+- symptoms such as a rash (hives), trouble breathing, or swelling of your lips, tongue, or throat, you may be having an allergic reaction. Some people taking RINVOQ had serious allergic reactions. If you have any of these symptoms during treatment with RINVOQ, stop taking RINVOQ and get emergency medical help straight away
+- severe stomach pain especially accompanied by fever, nausea, and vomiting.
+
+## Blood tests
+
+You will need blood tests before you start taking RINVOQ, or while you are taking it. This is to check for a low red blood cell count (anaemia), low white blood cell count (neutropenia or lymphopenia), high blood fat (cholesterol) or high levels of liver enzymes. The tests are to check that treatment with RINVOQ is not causing problems.
+
+<div style=\"page-break-after: always\"></div>
+
+## Elderly
+
+There is a higher rate of infection in patients aged 65 years of age and older. Tell your doctor as soon as you notice any signs or symptoms of an infection.
+
+Patients 65 years of age and older may be at increased risk of infections, heart problems including heart attack, and some types of cancer. Your doctor will discuss with you if RINVOQ is appropriate for you.
+
+## Children and adolescents
+
+RINVOQ is not recommended for use in children under 2 years of age or weighing less than 10 kg with polyarticular juvenile idiopathic arthritis. This is because it has not been studied in these patients.
+
+## Other medicines and RINVOQ
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This is because some medicines may reduce how well RINVOQ works or may increase the risk of getting side effects. It is very important to talk to your doctor or pharmacist if you are taking any of the following:
+
+- medicines to treat fungal infections (such as itraconazole, posaconazole or voriconazole)
+- medicines to treat bacterial infections (such as clarithromycin)
+- medicines to treat Cushing's syndrome (such as ketoconazole)
+- medicines to treat tuberculosis (such as rifampicin)
+- medicines to treat seizures or fits (such as phenytoin)
+- medicines that affect your immune system (such as azathioprine, 6-mercaptopurine, ciclosporin and tacrolimus)
+- medicines that may increase your risk of gastrointestinal perforation or diverticulitis such as non-steroidal anti-inflammatory medicines (usually used to treat painful and/or inflammatory conditions of muscle or joints), and/or opioids (used to treat severe pain), and/or corticosteroids (usually used to treat inflammatory conditions)
+- medicines to treat diabetes or if you have diabetes. Your doctor may decide if you need less anti-diabetic medicine while taking upadacitinib.
+
+If any of the above apply to you or you are not sure, talk to your doctor or pharmacist before taking RINVOQ.
+
+## Pregnancy, breast-feeding and contraception
+
+## Pregnancy
+
+RINVOQ must not be used during pregnancy.
+
+## Breast-feeding
+
+If you are breast-feeding or are planning to breast-feed, talk to your doctor before taking this medicine. You should not use RINVOQ while breast-feeding as it is not known if this medicine passes into breast milk. You and your doctor should decide if you will breast-feed or use RINVOQ. You should not do both.
+
+## Contraception
+
+If you are a woman of child-bearing potential, you must use effective contraception to avoid becoming pregnant while taking RINVOQ and for at least 4 weeks after your last dose of RINVOQ. If you become pregnant during this time, you must talk to your doctor straight away.
+
+If your child has her first menstrual period while taking RINVOQ, you should inform the doctor.
+
+<div style=\"page-break-after: always\"></div>
+
+## Driving and using machines
+
+Do not drive or use machines if you experience dizziness or a spinning sensation (vertigo) when taking RINVOQ until they resolve.
+
+## RINVOQ contains sodium benzoate
+
+This medicine contains 0.3 mg sodium benzoate in each ml of oral solution.
+
+## RINVOQ contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per ml, that is to say essentially 'sodiumfree'.
+
+## 3. How to take RINVOQ
+
+Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
+
+## How much RINVOQ to take
+
+The recommended dose is based on body weight.
+
+| Patient weight   | Dose and schedule                     |
+|------------------|---------------------------------------|
+| 10 to < 20 kg    | 3 mg (3 ml oral solution) twice a day |
+| 20 to < 30 kg    | 4 mg (4 ml oral solution) twice a day |
+| ≥ 30 kg          | 6 mg (6 ml oral solution) twice a day |
+
+## How to take
+
+- Take the oral solution twice a day by mouth (see section 7 Instructions for use)
+- To help you remember to take RINVOQ, take it at the same time every day.
+- The oral solution can be taken with or without food.
+- Avoid food or drink containing grapefruit whilst you are taking (or being treated with) RINVOQ as these may make side effects more likely, by increasing the amount of medicine in your body.
+
+## If you take more RINVOQ than you should
+
+If you take more RINVOQ than you should, contact your doctor. You may get some of the side effects listed in section 4.
+
+## If you forget to take RINVOQ
+
+- If you miss a dose, take it as soon as you remember and then continue with the next dose at its regular time.
+- If it is almost time for the next dose, do not take the missed dose. Take the next dose at its regular time.
+- Do not take a double dose to make up for a forgotten dose.
+
+## If you stop taking RINVOQ
+
+Do not stop taking RINVOQ unless your doctor tells you to stop taking it.
+
+<div style=\"page-break-after: always\"></div>
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Serious side effects
+
+Talk to your doctor or get medical help straight away if you get any signs of:
+
+- infection such as shingles or painful skin rash with blisters (herpes zoster) - common (may affect up to 1 in 10 people)
 - infection of the lung (pneumonia), which may cause shortness of breath, fever, and a cough with mucus - common (may affect up to 1 in 10 people)
 - infection in the blood (sepsis) - uncommon (may affect up to 1 in 100 people)
-- allergic reaction (chest tightness, wheezing, swelling of the lips, tongue or throat, hives) uncommon (may affect up to 1 in 100 people)
+- allergic reaction (chest tightness, wheezing, swelling of the lips, tongue or throat, hives) - uncommon (may affect up to 1 in 100 people)
 
 ## Other side effects
 
@@ -3709,12 +5408,6 @@ Rare (may affect up to 1 in 1 000 people)
 
 - changes in the colour of semen (mostly blue and less frequently green)
 
-## Additional side effects in adolescents with atopic dermatitis
-
-## Common
-
-- warts (skin papilloma)
-
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
@@ -3723,11 +5416,13 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the blister label and carton after 'EXP'.
+Do not use this medicine after the expiry date which is stated on the bottle label and carton after 'EXP'.
 
 This medicine does not require any special temperature storage conditions.
 
-Store in the original blister or bottle with the lid tightly closed in order to protect from moisture.
+Keep the bottle in the outer carton in order to protect from light.
+
+Throw away any remaining oral solution 60 days after first opening the bottle.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -3737,74 +5432,37 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is upadacitinib.
 
-## RINVOQ 15 mg prolonged-release tablets
-
-- Each prolonged-release tablet contains upadacitinib hemihydrate, equivalent to 15 mg upadacitinib.
+- Each 1 ml of oral solution contains upadacitinib hemihydrate, equivalent to 1 mg upadacitinib.
 - The other ingredients are:
-- Core tablet: microcrystalline cellulose, mannitol, tartaric acid, hypromellose, silica colloidal anhydrous, magnesium stearate.
-- Film coating: poly(vinyl alcohol), macrogol, talc, titanium dioxide (E171), iron oxide red (E172), iron oxide black (E172).
-
-## RINVOQ 30 mg prolonged-release tablets
-
-- Each prolonged-release tablet contains upadacitinib hemihydrate, equivalent to 30 mg upadacitinib.
-- The other ingredients are:
-- Core tablet: microcrystalline cellulose, mannitol, tartaric acid, hypromellose, silica colloidal anhydrous, magnesium stearate.
-- Film coating: poly(vinyl alcohol), macrogol, talc, titanium dioxide (E171), iron oxide red (E172).
-
-<div style=\"page-break-after: always\"></div>
-
-## RINVOQ 45 mg prolonged-release tablets
-
-- Each prolonged-release tablet contains upadacitinib hemihydrate, equivalent to 45 mg upadacitinib.
-- The other ingredients are:
-- Core tablet: microcrystalline cellulose, mannitol, tartaric acid, hypromellose, silica colloidal anhydrous, magnesium stearate.
-- Film coating: poly(vinyl alcohol), macrogol, talc, titanium dioxide (E171), iron oxide yellow (E172) and iron oxide red (E172).
+- citric acid anhydrous, purified water, sodium benzoate (see section 2), sodium citrate dihydrate, and sucralose.
 
 ## What RINVOQ looks like and contents of the pack
 
-## RINVOQ 15 mg prolonged-release tablets
+RINVOQ 1 mg/ml oral solution is a clear, colourless to light yellow solution.
 
-RINVOQ 15 mg prolonged-release tablets are purple, oblong, biconvex tablets imprinted on one side with 'a15'.
+The oral solution is provided in HDPE bottles with a child-resistant cap.
 
-## The tablets are provided in blisters or bottles.
+Each bottle contains 180 ml of solution. The bottle is packaged in a carton with one press-in bottle adapter and one 10 ml oral dosing syringe with markings at each ml.
 
-RINVOQ is available in packs containing 28 or 98 prolonged-release tablets and in multipacks of 84 comprising 3 cartons, each containing 28 prolonged-release tablets. Each calendar blister contains 7 tablets.
+## Marketing Authorisation Holder
 
-RINVOQ is available in bottles with desiccant containing 30 prolonged-release tablets, each pack contains 1 bottle (30 tablet pack) or 3 bottles (90 tablet pack).
-
-## RINVOQ 30 mg prolonged-release tablets
-
-RINVOQ 30 mg prolonged-release tablets are red, oblong, biconvex tablets imprinted on one side with 'a30'.
-
-The tablets are provided in blisters or bottles.
-
-RINVOQ is available in packs containing 28 or 98 prolonged-release tablets. Each calendar blister contains 7 tablets.
-
-RINVOQ is available in bottles with desiccant containing 30 prolonged-release tablets, each pack contains 1 bottle (30 tablet pack) or 3 bottles (90 tablet pack).
-
-## RINVOQ 45 mg prolonged-release tablets
-
-RINVOQ 45 mg prolonged-release tablets are yellow to mottled yellow, oblong, biconvex tablets imprinted on one side with 'a45'.
-
-The tablets are provided in blisters or bottles.
-
-RINVOQ is available in packs containing 28 prolonged-release tablets. Each calendar blister contains 7 tablets.
-
-RINVOQ is available in bottles with desiccant containing 28 prolonged-release tablets, each pack contains 1 bottle.
-
-Not all pack sizes may be marketed.
-
-Marketing Authorisation Holder AbbVie Deutschland GmbH &amp; Co. KG
-
-Knollstrasse 67061 Ludwigshafen
-
-<div style=\"page-break-after: always\"></div>
-
-## Germany
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 ## Manufacturer
 
-AbbVie S.r.l. S.R. 148 Pontina, km 52 SNC 04011 Campoverde di Aprilia (Latina) Italy
+AbbVie S.r.l. S.R. 148 Pontina, km 52 SNC Aprilia (LT) 04011
+
+<div style=\"page-break-after: always\"></div>
+
+Italy
+
+## AbbVie Deutschland GmbH &amp; Co. KG
+
+Knollstrasse
+
+67061 Ludwigshafen
+
+Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -3856,7 +5514,7 @@ AbbVie ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε.
 
 AbbVie Spain, S.L.U.
 
-Tel:  +34 91 384 09 10
+Tel: +34 91 384 09 10
 
 ## France
 
@@ -3904,13 +5562,11 @@ V.J.Salomone Pharma Limited Tel: +356 21220174
 
 AbbVie B.V.
 
-Tel:  +31 (0)88 322 2843
+Tel: +31 (0)88 322 2843
 
 ## Norge
 
-AbbVie AS
-
-Tlf: +47 67 81 80 00
+AbbVie AS Tlf: +47 67 81 80 00
 
 ## Österreich
 
@@ -3920,9 +5576,7 @@ Tel: +43 1 20589-0
 
 ## Polska
 
-AbbVie Sp. z o.o.
-
-Tel.: +48 22 372 78 00
+AbbVie Sp. z o.o. Tel.: +48 22 372 78 00
 
 ## Portugal
 
@@ -3942,17 +5596,13 @@ AbbVie Biofarmacevtska družba d.o.o.
 
 Tel: +386 (1)32 08 060
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ísland
 
 Vistor
 
 Sími: +354 535 7000
-
-## Slovenská republika
-
-AbbVie s.r.o.
-
-Tel: +421 2 5050 0777
 
 ## Italia
 
@@ -3960,29 +5610,15 @@ AbbVie S.r.l.
 
 Tel: +39 06 928921
 
-## Suomi/Finland
-
-AbbVie Oy
-
-Puh/Tel:  +358 (0)10 2411 200
-
 ## Κύπρος
 
 Lifepharma (Z.A.M.) Ltd
 
 Τηλ.: +357 22 34 74 40
 
-Sverige
-
-AbbVie AB
-
-Tel:  +46 (0)8 684 44 600
-
 ## Latvija
 
 AbbVie SIA
-
-<div style=\"page-break-after: always\"></div>
 
 Tel: +371 67605000
 
@@ -3992,22 +5628,183 @@ Tel: +371 67605000
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-Detailed and updated information on this product is also available by scanning the QR code included below or on the outer carton with a smart phone. The same information is also available on the following URL: www.rinvoq.eu.
+Detailed information on this product is also available by scanning the QR code included below or on the outer carton with a smart phone. The same information is available on the following URL: www.rinvoq.eu.
 
 ## QR code to be included
 
 To listen to or request a copy of this leaflet in &lt;Braille&gt;, &lt;large print&gt; or &lt;audio&gt;, please contact the local representative of the Marketing Authorisation Holder.
 
+## Slovenská republika
+
+AbbVie s.r.o.
+
+Tel: +421 2 5050 0777
+
+## Suomi/Finland
+
+AbbVie Oy
+
+Puh/Tel: +358 (0)10 2411 200
+
+## Sverige
+
+AbbVie AB
+
+Tel: +46 (0)8 684 44 600
+
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX IV
+## 7. Instructions for use
 
-## CONCLUSIONS ON THE REQUEST FOR ONE-YEAR MARKETING PROTECTION PRESENTED BY THE EUROPEAN MEDICINES AGENCY
+Please read all of section 7 before you give RINVOQ oral solution to your child, and each time you get a refill. This is because there may be new information.
+
+Supplies: Each carton of RINVOQ oral solution contains
+
+- 1 bottle of RINVOQ oral solution
+- 1 press-in bottle adapter
+- 1 reusable oral 10 ml dosing syringe with marking at each ml
+
+Bottle (contains oral solution)
+
+<!-- image -->
+
+Reusable syringe (10 ml oral dosing)
+
+<!-- image -->
+
+## Important information you need to know before you take RINVOQ oral solution
+
+- Only use the syringe provided. Do not share the syringe with other people or use it with other medicines.
+- Use RINVOQ oral solution within 60 days of opening the bottle. To help you remember, write the date you opened the bottle on the carton.
+- Keep these instructions and the carton of your RINVOQ oral solution and supplies came in for future use.
+
+Follow the steps below each time you give RINVOQ oral solution.
+
+## Preparing RINVOQ oral solution
+
+## Step 1 Check expiry date
+
+Check the bottle and make sure the expiry date, stated after \"EXP\", has not passed
+
+Do not use RINVOQ oral solution after the expiry date stated on the bottle label and carton after \"EXP.\"
+
+<!-- image -->
+
+Adapter (press-in bottle)
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-## Conclusions presented by the European Medicines Agency on:
+## Step 2 Check supplies
 
-## · one-year marketing protection
+- a. Check the supplies (see beginning of section 7) and make sure they are not damaged.
+- b. Only use the syringe if it is clean and dry.
+- c. Make sure that the plunger is all the way in the syringe.
 
-The CHMP reviewed the data submitted by the Marketing Authorisation Holder, taking into account the provisions of Article 14(11) of Regulation (EC) No 726/2004, and considers that the new therapeutic indication brings significant clinical benefit in comparison with existing therapies as further explained in the European Public Assessment Report.
+Do not use the supplies if they are wet, damaged, or appear to be tampered with.
+
+## Step 3 Open the bottle
+
+- a. Press down and twist the cap to remove it from the bottle. Do not throw away the cap.
+
+## Step 4 Insert the adapter (first time only)
+
+- a. While holding the bottle firmly, use your thumb to push the adapter all the way down to the rim of the bottle.
+
+Note. You may need to push down firmly on the adapter.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Do not remove adapter after it is inserted.
+
+## Measuring the dose
+
+## Step 5 Insert the syringe into the bottle then turn it upside down
+
+- a. Insert the tip of the syringe into the adapter.
+- b. With the syringe attached to the adapter in the bottle, turn the bottle upside down.
+
+<!-- image -->
+
+## Step 6 Draw the oral solution into the syringe
+
+- a. Slowly pull the plunger down. This draws the solution into the syringe.
+- b. Check the syringe for air bubbles.
+
+Note. You may feel pressure when pulling the plunger.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Step 7 Remove air bubbles
+
+- a. While holding the bottle, flick the sides of the syringe with your finger. This sends air bubbles to the tip of the syringe.
+- b. With the syringe attached to the bottle, move the plunger up and down to return air bubbles back into the bottle.
+- c. Repeat Step 7 until any large air bubbles are gone.
+
+Note. Small air bubbles are normal.
+
+## Step 8 Measure the dose
+
+- a. After any large air bubbles are removed, move the plunger until it is even with the marking of the dose.
+
+## Step 9 Turn the bottle upright, and then remove the syringe
+
+- a. With the syringe attached to the bottle, turn the bottle upright
+- b. Hold the middle of the syringe and carefully remove it from the bottle.
+
+Do not touch the plunger to avoid oral solution accidentally coming out of the syringe before you are ready to give the medicine.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Giving RINVOQ oral solution
+
+<!-- image -->
+
+## Step 10 Check the dose
+
+- a. Check that the syringe has the correct dose of oral solution.
+- b. Check the syringe for large air bubbles
+- c. If the dose is not correct or you see large air bubbles, return to step 5.
+
+## Step 11 Give the oral solution
+
+- a. Place the syringe against the inside of the child's cheek.
+- b. Push the plunger to give the entire dose into the child's mouth.
+- c. Give the child a drink of water.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Storing RINVOQ oral solution
+
+## Step 12 Close and store the bottle
+
+- a. With the adapter still inserted in the bottle, screw the cap back on to the bottle to close it.
+- b. Keep the bottle, supplies, and all medicines out of the sight and reach of children.
+
+24
+
+<!-- image -->
+
+## Step 13 Rinse and store the syringe
+
+- a. Remove the plunger from the syringe then rinse both parts with water.
+
+Do not use soap or put the syringe in the dishwasher to clean it.
+
+- b. Allow the plunger and syringe to air dry separately on a clean surface.
+- c. Store the reassembled syringe in a clean, dry place.
+
+<!-- image -->

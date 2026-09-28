@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-05-27 14:24:00
+document_datetime: 2026-09-24 11:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tevimbra.html
 document_name: tevimbra.html
 version: success
-processing_time: 0.1365992
-conversion_datetime: 2026-06-07 11:51:00.566068
+processing_time: 0.1764288
+conversion_datetime: 2026-09-28 20:40:15.394299
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.35.0
+  docling-jobkit: 3.8.0
+  docling: 2.130.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Tevimbra
-
 # Tevimbra
 
 [RSS](/en/individual-human-medicine.xml/67715)
@@ -224,7 +148,7 @@ English (EN) (184.58 KB - PDF)
 
 [View](/en/documents/overview/tevimbra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-344)
+[Other languages (22)](#file-language-dropdown-339)
 
 български (BG) (173.28 KB - PDF)
 
@@ -360,9 +284,9 @@ svenska (SV) (172.36 KB - PDF)
 
 Tevimbra : EPAR - Risk management plan
 
-English (EN) (4.32 MB - PDF)
+English (EN) (1 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 02/12/2025
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/en/documents/rmp/tevimbra-epar-risk-management-plan_en.pdf)
 
@@ -370,167 +294,168 @@ English (EN) (4.32 MB - PDF)
 
 Tevimbra : EPAR - Product information
 
-English (EN) (1.08 MB - PDF)
+English (EN) (1016.91 KB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/en/documents/product-information/tevimbra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-844)
+[Other languages (24)](#file-language-dropdown-460)
 
-български (BG) (1.16 MB - PDF)
+български (BG) (1.1 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/bg/documents/product-information/tevimbra-epar-product-information_bg.pdf)
 
-español (ES) (1.03 MB - PDF)
+español (ES) (966.18 KB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/es/documents/product-information/tevimbra-epar-product-information_es.pdf)
 
-čeština (CS) (1.13 MB - PDF)
+čeština (CS) (1.14 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/cs/documents/product-information/tevimbra-epar-product-information_cs.pdf)
 
-dansk (DA) (1.17 MB - PDF)
+dansk (DA) (988.92 KB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/da/documents/product-information/tevimbra-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.28 MB - PDF)
+Deutsch (DE) (1.19 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/de/documents/product-information/tevimbra-epar-product-information_de.pdf)
 
-eesti (ET) (1.07 MB - PDF)
+eesti (ET) (969.4 KB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/et/documents/product-information/tevimbra-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.21 MB - PDF)
+ελληνικά (EL) (1.23 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/el/documents/product-information/tevimbra-epar-product-information_el.pdf)
 
-français (FR) (1.06 MB - PDF)
+français (FR) (1.12 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/fr/documents/product-information/tevimbra-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.11 MB - PDF)
+hrvatski (HR) (1.02 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/hr/documents/product-information/tevimbra-epar-product-information_hr.pdf)
 
-italiano (IT) (1.18 MB - PDF)
+italiano (IT) (1.05 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/it/documents/product-information/tevimbra-epar-product-information_it.pdf)
 
-latviešu (LV) (1.07 MB - PDF)
+latviešu (LV) (1.03 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/lv/documents/product-information/tevimbra-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.23 MB - PDF)
+lietuvių (LT) (1.26 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/lt/documents/product-information/tevimbra-epar-product-information_lt.pdf)
 
-magyar (HU) (1.2 MB - PDF)
+magyar (HU) (1.09 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/hu/documents/product-information/tevimbra-epar-product-information_hu.pdf)
 
-Malti (MT) (1.16 MB - PDF)
+Malti (MT) (1.12 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/mt/documents/product-information/tevimbra-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1014.97 KB - PDF)
+Nederlands (NL) (939.46 KB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/nl/documents/product-information/tevimbra-epar-product-information_nl.pdf)
 
-polski (PL) (1.17 MB - PDF)
+polski (PL) (1.16 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/pl/documents/product-information/tevimbra-epar-product-information_pl.pdf)
 
-português (PT) (1.07 MB - PDF)
+português (PT) (1 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/pt/documents/product-information/tevimbra-epar-product-information_pt.pdf)
 
-română (RO) (1.1 MB - PDF)
+română (RO) (1008.41 KB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/ro/documents/product-information/tevimbra-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.12 MB - PDF)
+slovenčina (SK) (1.1 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/sk/documents/product-information/tevimbra-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.2 MB - PDF)
+slovenščina (SL) (948.94 KB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/sl/documents/product-information/tevimbra-epar-product-information_sl.pdf)
 
-suomi (FI) (1.06 MB - PDF)
+suomi (FI) (1 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/fi/documents/product-information/tevimbra-epar-product-information_fi.pdf)
 
-svenska (SV) (1.03 MB - PDF)
+svenska (SV) (728.28 KB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/sv/documents/product-information/tevimbra-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.12 MB - PDF)
+Íslenska (IS) (1.07 MB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/is/documents/product-information/tevimbra-epar-product-information_is.pdf)
 
-norsk (NO) (1.03 MB - PDF)
+norsk (NO) (739.49 KB - PDF)
 
-**First published:** 02/10/2023 **Last updated:** 27/05/2026
+**First published:** 02/10/2023 **Last updated:** 24/09/2026
 
 [View](/no/documents/product-information/tevimbra-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** EMA/VR/0000290059
+**Latest procedure affecting product information:** PSUR/0000336087
 
-21/05/2026
+18/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -548,7 +473,7 @@ English (EN) (42.65 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tevimbra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-250)
+[Other languages (24)](#file-language-dropdown-973)
 
 български (BG) (50.78 KB - PDF)
 
@@ -696,29 +621,20 @@ norsk (NO) (45.21 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Tevimbra
-
-Active substance
-
-tislelizumab
-
-International non-proprietary name (INN) or common name
-
-tislelizumab
-
-Therapeutic area (MeSH)
-
-- Esophageal Squamous Cell Carcinoma
-- Carcinoma, Non-Small-Cell Lung
-- Small Cell Lung Carcinoma
-- Nasopharyngeal Carcinoma
-- Stomach Neoplasms
-
-Anatomical therapeutic chemical (ATC) code
-
-L01FF09
+- **Name of medicine**
+    - Tevimbra
+- **Active substance**
+    - tislelizumab
+- **International non-proprietary name (INN) or common name**
+    - tislelizumab
+- **Therapeutic area (MeSH)**
+        - Esophageal Squamous Cell Carcinoma
+        - Carcinoma, Non-Small-Cell Lung
+        - Small Cell Lung Carcinoma
+        - Nasopharyngeal Carcinoma
+        - Stomach Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FF09
 
 ### Pharmacotherapeutic group
 
@@ -728,7 +644,9 @@ Antineoplastic agents
 
 **Non-small cell lung cancer (NSCLC)**
 
-Tevimbra, in combination with platinum-containing chemotherapy as neoadjuvant treatment and then continued as monotherapy as adjuvant treatment, is indicated for the treatment of adult patients with resectable NSCLC at high risk of recurrence (for selection criteria, see section 5.1). Tevimbra in combination with pemetrexed and platinum containing chemotherapy is indicated for the first-line treatment of adult patients with non-squamous NSCLC  whose tumours have PD-L1 expression on ≥50% of tumour cells with no EGFR or ALK positive mutations and who have:
+Tevimbra, in combination with platinum-containing chemotherapy as neoadjuvant treatment and then continued as monotherapy as adjuvant treatment, is indicated for the treatment of adult patients with resectable NSCLC at high risk of recurrence (for selection criteria, see section 5.1).
+
+Tevimbra in combination with pemetrexed and platinum containing chemotherapy is indicated for the first-line treatment of adult patients with non-squamous NSCLC whose tumours have PD-L1 expression on ≥50% of tumour cells with no EGFR or ALK positive mutations and who have:
 
 - locally advanced NSCLC and are not candidates for surgical resection or platinum-based chemoradiation, or
 - metastatic NSCLC.
@@ -742,37 +660,26 @@ Tevimbra as monotherapy is indicated for the treatment of adult patients with lo
 
 **Small Cell Lung Cancer (SCLC)** Tevimbra, in combination with etoposide and platinum chemotherapy, is indicated for the first-line treatment of adult patients with extensive-stage SCLC.
 
-**Gastric or gastroesophageal junction (G/GEJ) adenocarcinoma** Tevimbra, in combination with platinum and fluoropyrimidine-based chemotherapy, is indicated for the first-line treatment of adult patients with HER-2-negative locally advanced unresectable or metastatic gastric or gastroesophageal junction (G/GEJ) adenocarcinoma whose tumours express PD L1 with a tumour area positivity (TAP) score ≥ 5% (see section 5.1). **Oesophageal squamous cell carcinoma (OSCC)** Tevimbra, in combination with platinum-based chemotherapy, is indicated for the first-line treatment of adult patients with unresectable, locally advanced or metastatic OSCC whose tumours express PD L1 with a TAP score ≥ 5% (see section 5.1). Tevimbra as monotherapy is indicated for the treatment of adult patients with unresectable, locally advanced or metastatic OSCC after prior platinum-based chemotherapy.
+**Gastric or gastroesophageal junction (G/GEJ) adenocarcinoma** Tevimbra, in combination with platinum and fluoropyrimidine-based chemotherapy, is indicated for the first-line treatment of adult patients with HER-2-negative locally advanced unresectable or metastatic gastric or gastroesophageal junction (G/GEJ) adenocarcinoma whose tumours express PD L1 with a tumour area positivity (TAP) score ≥ 5% (see section 5.1). **Oesophageal squamous cell carcinoma (OSCC)** Tevimbra, in combination with platinum-based chemotherapy, is indicated for the first-line treatment of adult patients with unresectable, locally advanced or metastatic OSCC whose tumours express PD L1 with a TAP score ≥ 5% (see section 5.1).
+
+Tevimbra as monotherapy is indicated for the treatment of adult patients with unresectable, locally advanced or metastatic OSCC after prior platinum-based chemotherapy.
 
 **Nasopharyngeal carcinoma (NPC)** Tevimbra, in combination with gemcitabine and cisplatin, is indicated for the first-line treatment of adult patients with recurrent, not amenable to curative surgery or radiotherapy, or metastatic NPC.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005919
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Beone Medicines Ireland Limited
-
-10 Earlsfort Terrace Dublin D02 T380 Ireland
-
-Opinion adopted
-
-20/07/2023
-
-Marketing authorisation issued
-
-15/09/2023
-
-Revision
-
-17
+- **EMA product number**
+    - EMEA/H/C/005919
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Beone Medicines Ireland Limited 10 Earlsfort Terrace  Dublin D02 T380  Ireland
+- **Opinion adopted**
+    - 20/07/2023
+- **Marketing authorisation issued**
+    - 15/09/2023
+- **Revision**
+    - 18
 
 ## Assessment history
 
@@ -784,9 +691,9 @@ Collapse section
 
 Tevimbra : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (173.51 KB - PDF)
+English (EN) (203.77 KB - PDF)
 
-**First published:** 15/05/2025 **Last updated:** 27/05/2026
+**First published:** 15/05/2025 **Last updated:** 24/09/2026
 
 [View](/en/documents/procedural-steps-after/tevimbra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -797,6 +704,16 @@ English (EN) (208.9 KB - PDF)
 **First published:** 09/01/2024 **Last updated:** 16/09/2025
 
 [View](/en/documents/procedural-steps-after/tevimbra-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Tevimbra-PSUSA-00000136-202512 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3467463
+
+English (EN) (151.02 KB - PDF)
+
+**First published:** 24/09/2026
+
+[View](/en/documents/scientific-conclusion/tevimbra-psusa-00000136-202512-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Tevimbra-PSUSA-00000136-202412 : Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1002,6 +919,6 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 **This page was last updated on**
 
-27/05/2026
+24/09/2026
 
 ## Share this page

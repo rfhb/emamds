@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-24 13:16:00
+document_datetime: 2026-09-25 12:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yuflyma.html
 document_name: yuflyma.html
 version: success
-processing_time: 0.1773792
-conversion_datetime: 2026-08-26 10:58:19.863961
+processing_time: 0.1797198
+conversion_datetime: 2026-09-28 20:41:01.473211
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.122.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.16.0
+  docling-serve: 1.35.0
+  docling-jobkit: 3.8.0
+  docling: 2.130.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # Yuflyma
 
@@ -128,7 +128,7 @@ English (EN) (146.39 KB - PDF)
 
 [View](/en/documents/overview/yuflyma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-108)
+[Other languages (22)](#file-language-dropdown-184)
 
 български (BG) (171.67 KB - PDF)
 
@@ -274,161 +274,161 @@ English (EN) (854.96 KB - PDF)
 
 Yuflyma : EPAR - Product information
 
-English (EN) (4.81 MB - PDF)
+English (EN) (4.6 MB - PDF)
 
-**First published:** 26/02/2021 **Last updated:** 05/02/2026
+**First published:** 26/02/2021 **Last updated:** 25/09/2026
 
 [View](/en/documents/product-information/yuflyma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-877)
+[Other languages (24)](#file-language-dropdown-627)
 
-български (BG) (5.4 MB - PDF)
+български (BG) (5.06 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/bg/documents/product-information/yuflyma-epar-product-information_bg.pdf)
 
-español (ES) (4.54 MB - PDF)
+español (ES) (4.31 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/es/documents/product-information/yuflyma-epar-product-information_es.pdf)
 
-čeština (CS) (4.54 MB - PDF)
+čeština (CS) (4.05 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/cs/documents/product-information/yuflyma-epar-product-information_cs.pdf)
 
-dansk (DA) (4.16 MB - PDF)
+dansk (DA) (3.8 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/da/documents/product-information/yuflyma-epar-product-information_da.pdf)
 
-Deutsch (DE) (4.87 MB - PDF)
+Deutsch (DE) (5.08 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/de/documents/product-information/yuflyma-epar-product-information_de.pdf)
 
-eesti (ET) (4.68 MB - PDF)
+eesti (ET) (4.37 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/et/documents/product-information/yuflyma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (6.01 MB - PDF)
+ελληνικά (EL) (5.75 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/el/documents/product-information/yuflyma-epar-product-information_el.pdf)
 
-français (FR) (4.88 MB - PDF)
+français (FR) (4.69 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/fr/documents/product-information/yuflyma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (5.14 MB - PDF)
+hrvatski (HR) (4.81 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/hr/documents/product-information/yuflyma-epar-product-information_hr.pdf)
 
-italiano (IT) (4.8 MB - PDF)
+italiano (IT) (4.56 MB - PDF)
 
-**First published:** 26/02/2021 **Last updated:** 05/02/2026
+**First published:** 26/02/2021 **Last updated:** 25/09/2026
 
 [View](/it/documents/product-information/yuflyma-epar-product-information_it.pdf)
 
-latviešu (LV) (5.34 MB - PDF)
+latviešu (LV) (5.04 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/lv/documents/product-information/yuflyma-epar-product-information_lv.pdf)
 
-lietuvių (LT) (4.87 MB - PDF)
+lietuvių (LT) (4.51 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/lt/documents/product-information/yuflyma-epar-product-information_lt.pdf)
 
-magyar (HU) (5.29 MB - PDF)
+magyar (HU) (5.05 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/hu/documents/product-information/yuflyma-epar-product-information_hu.pdf)
 
-Malti (MT) (5.38 MB - PDF)
+Malti (MT) (5.11 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/mt/documents/product-information/yuflyma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (4.06 MB - PDF)
+Nederlands (NL) (3.87 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/nl/documents/product-information/yuflyma-epar-product-information_nl.pdf)
 
-polski (PL) (5.18 MB - PDF)
+polski (PL) (4.88 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/pl/documents/product-information/yuflyma-epar-product-information_pl.pdf)
 
-português (PT) (3.86 MB - PDF)
+português (PT) (3.51 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/pt/documents/product-information/yuflyma-epar-product-information_pt.pdf)
 
-română (RO) (5.01 MB - PDF)
+română (RO) (4.74 MB - PDF)
 
-**First published:** 26/02/2021 **Last updated:** 05/02/2026
+**First published:** 26/02/2021 **Last updated:** 25/09/2026
 
 [View](/ro/documents/product-information/yuflyma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (5.06 MB - PDF)
+slovenčina (SK) (4.69 MB - PDF)
 
-**First published:** 26/02/2021 **Last updated:** 05/02/2026
+**First published:** 26/02/2021 **Last updated:** 25/09/2026
 
 [View](/sk/documents/product-information/yuflyma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (5.13 MB - PDF)
+slovenščina (SL) (4.85 MB - PDF)
 
-**First published:** 26/02/2021 **Last updated:** 05/02/2026
+**First published:** 26/02/2021 **Last updated:** 25/09/2026
 
 [View](/sl/documents/product-information/yuflyma-epar-product-information_sl.pdf)
 
-suomi (FI) (4.58 MB - PDF)
+suomi (FI) (4.28 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/fi/documents/product-information/yuflyma-epar-product-information_fi.pdf)
 
-svenska (SV) (4.56 MB - PDF)
+svenska (SV) (4.26 MB - PDF)
 
-**First published:** 26/02/2021 **Last updated:** 05/02/2026
+**First published:** 26/02/2021 **Last updated:** 25/09/2026
 
 [View](/sv/documents/product-information/yuflyma-epar-product-information_sv.pdf)
 
-Íslenska (IS) (4.06 MB - PDF)
+Íslenska (IS) (3.82 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/is/documents/product-information/yuflyma-epar-product-information_is.pdf)
 
-norsk (NO) (4.11 MB - PDF)
+norsk (NO) (3.72 MB - PDF)
 
 **First published:** 26/02/2021 **Last updated:** 05/02/2026
 
 [View](/no/documents/product-information/yuflyma-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000357273
+**Latest procedure affecting product information:** VR/0000370446
 
-21/08/2026
+25/09/2026
 
 icon globe
 
@@ -453,7 +453,7 @@ English (EN) (55.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yuflyma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-665)
+[Other languages (24)](#file-language-dropdown-436)
 
 български (BG) (70.88 KB - PDF)
 
@@ -681,7 +681,7 @@ Yuflyma is indicated for the treatment of active moderate to severe hidradenitis
 - **Marketing authorisation issued**
     - 11/02/2021
 - **Revision**
-    - 21
+    - 22
 
 ## Assessment history
 
@@ -693,9 +693,9 @@ Collapse section
 
 Yuflyma : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (161.67 KB - PDF)
+English (EN) (175.82 KB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 24/08/2026
+**First published:** 27/03/2025 **Last updated:** 25/09/2026
 
 [View](/en/documents/procedural-steps-after/yuflyma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -747,7 +747,7 @@ English (EN) (7.67 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/yuflyma-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-557)
+[Other languages (24)](#file-language-dropdown-218)
 
 български (BG) (13.41 MB - DOCX)
 
@@ -895,6 +895,6 @@ norsk (NO) (9.92 MB - DOCX)
 
 **This page was last updated on**
 
-24/08/2026
+25/09/2026
 
 ## Share this page

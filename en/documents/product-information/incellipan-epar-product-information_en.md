@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-03 15:14:56
-document_pages: 31
+document_datetime: 2026-09-25 14:42:44
+document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/incellipan-epar-product-information_en.pdf
 document_name: incellipan-epar-product-information_en.pdf
 version: success
-processing_time: 8.9484547
-conversion_datetime: 2025-12-30 07:45:00.618189
+processing_time: 57.2956104
+conversion_datetime: 2026-09-28 20:11:56.392611
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.35.0
+  docling-jobkit: 3.8.0
+  docling: 2.130.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,29 +36,48 @@ Pandemic influenza vaccine (H5N1) (surface antigen, inactivated, adjuvanted, pre
 
 Influenza virus surface antigens (haemagglutinin and neuraminidase), inactivated, of strain*:
 
-A/turkey/Turkey/1/2005 (H5N1)-like strain (NIBRG-23) 7.5 micrograms**
+A/turkey/Turkey/1/2005 (H5N1)-like strain (NIBRG-23) per 0.5 ml dose
 
-per 0.5 ml dose
+7.5 micrograms**
 
 * propagated in Madin Darby Canine Kidney (MDCK) cells
 - ** expressed in micrograms haemagglutinin.
 
-| Adjuvant MF59C.1 containing per 0.5 ml dose: squalene   | 9.75 milligrams   |
-|---------------------------------------------------------|-------------------|
-| polysorbate 80                                          | 1.175 milligrams  |
-| sorbitan trioleate                                      | 1.175 milligrams  |
-| sodium citrate                                          | 0.66 milligrams   |
-| citric acid                                             | 0.04 milligrams   |
+Adjuvant MF59C.1 containing per 0.5 ml dose:
 
-This vaccine complies with the WHO recommendations and EU decision  in an officially declared pandemic situation.
+squalene
 
-Incellipan may contain trace residues of beta-propiolactone, polysorbate 80 and cetyltrimethylammonium bromide which are used during the manufacturing process (see section 4.3).
+9.75 milligrams
+
+polysorbate 80
+
+1.175 milligrams
+
+sorbitan trioleate
+
+1.175 milligrams
+
+sodium citrate
+
+0.66 milligrams
+
+citric acid
+
+0.04 milligrams
+
+This vaccine complies with the WHO recommendations and EU decision in an officially declared pandemic situation.
+
+Incellipan may contain trace residues of beta-propiolactone, polysorbate 80 and
+
+cetyltrimethylammonium bromide which are used during the manufacturing process (see section 4.3).
 
 For the full list of excipients see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Suspension for injection (injection). Milky-white suspension.
+Suspension for injection (injection).
+
+Milky-white suspension.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -204,17 +223,19 @@ Severe reactions in subjects receiving aH5N1c were reported in 1% or fewer subje
 
 <div style=\"page-break-after: always\"></div>
 
-Data on the safety of a heterologous booster dose with aH5N6c were evaluated in Study V89\\_18E1 in which 258 subjects were vaccinated.  Among the study participants, 158 subjects had received aH5N1c in Study V89\\_18 approximately 6 years prior. The safety profile after one or two doses of aH5N6c heterologous booster was comparable to the safety profile observed in clinical studies with aH5N1c.
+Data on the safety of a heterologous booster dose with aH5N6c were evaluated in Study V89\\_18E1 in which 258 subjects were vaccinated. Among the study participants, 158 subjects had received aH5N1c in Study V89\\_18 approximately 6 years prior. The safety profile after one or two doses of aH5N6c heterologous booster was comparable to the safety profile observed in clinical studies with aH5N1c.
+
+Data on the safety of an aH5N8c vaccine were evaluated in Study V205\\_01 in which 479 subjects were randomised to receive either a homologous priming series of 2 doses (21 days apart) of aH5N8c, or a heterologous priming series of one dose of aH5N8c followed by one dose of aH5N6c vaccine or one dose of aH5N6c vaccine followed by one dose of aH5N8c (21 days apart). Six months after their second priming dose all subjects received an aH5N8c booster vaccination (Day 202). The safety profile for aH5N8c was similar to that observed for aH5N1c and aH5N6c.
 
 ## Tabulated list of adverse reactions
 
-The frequencies of adverse reactions are based on three clinical studies in 3 579 subjects (see section 5.1).
+The frequencies of adverse reactions are based on three clinical studies with aH5N1c in 3 579 subjects (see section 5.1).
 
-The adverse reactions are listed according to the following MedDRA frequency convention and system organ class: Very common (≥1/10); Common (≥1/100 to &lt;1/10); Uncommon (≥1/1 000 to &lt;1/100) .
+The adverse reactions are listed according to the following MedDRA frequency convention and system organ class: Very common (≥1/10); Common (≥1/100 to &lt;1/10); Uncommon (≥1/1 000 to &lt;1/100).
 
 Table 1: Adverse reactions reported in adults 18 years of age and older
 
-| MedDRA system organ class                            | Very common (≥ 1/10)                  | Common ( ≥ 1/100 to <1/10)                                        | Uncommon ( ≥ 1/1 000 to <1/100)                     |
+| MedDRA system organ class                            | Very common (≥1/10)                   | Common (≥1/100 to <1/10)                                          | Uncommon (≥1/1 000 to <1/100)                       |
 |------------------------------------------------------|---------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------|
 | Blood and lymphatic system disorders                 |                                       |                                                                   | Lymphadenopathy                                     |
 | Nervous system disorders                             | Headache                              |                                                                   | Dizziness                                           |
@@ -235,9 +256,9 @@ This was a phase 2, randomised, controlled, observer-blind multicentre study con
 
 In total, 658 subjects in the safety population received at least one dose (7.5 mcg dose, N=329; 3.75 mcg dose, N=329).
 
-Solicited local and systemic adverse reactions were collected for 7 days after vaccination following each vaccination in all children, divided into two age cohorts (6 months to &lt;6 years, and 6 to &lt;18 years of age).
-
 <div style=\"page-break-after: always\"></div>
+
+Solicited local and systemic adverse reactions were collected for 7 days after vaccination following each vaccination in all children, divided into two age cohorts (6 months to &lt;6 years, and 6 to &lt;18 years of age).
 
 In both the 7.5 mcg and 3.75 mcg dose groups, the majority of solicited local and systemic adverse reactions were mild or moderate in intensity and resolved within a few days. The frequency of solicited local and systemic adverse reactions was similar between the 7.5 mcg and 3.75 mcg doses.
 
@@ -251,24 +272,23 @@ The adverse reactions reported are listed according to the following MedDRA freq
 
 Table 2: Adverse reactions in children 6 months to less than 18 years of age
 
-| MedDRA system organ class                            | Adverse reactions                | Frequency            | Frequency      |
-|------------------------------------------------------|----------------------------------|----------------------|----------------|
-| MedDRA system organ class                            | Adverse reactions                | 6 months to <6 years | 6 to <18 years |
-| Nervous system disorders                             | Headache                         |                      | Very common    |
-| Gastrointestinal disorders                           | Nausea                           |                      | Very common    |
-| Gastrointestinal disorders                           | Decreased appetite 1             | Very common          | Very common    |
-| Gastrointestinal disorders                           | Vomiting                         | Common               | Common         |
-| Gastrointestinal disorders                           | Diarrhoea                        | Common               | Common         |
-| Musculoskeletal and connective tissue disorders      | Myalgia                          |                      | Very common    |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                       |                      | Very common    |
-| General disorders and administration site conditions | Injection site pain/tenderness 2 | Very common          | Very common    |
-| General disorders and administration site conditions | Injection site erythema          | Common               | Common         |
-| General disorders and administration site conditions | Injections site induration       | Common               | Common         |
-| General disorders and administration site conditions | Fatigue                          |                      | Very common    |
-| General disorders and administration site conditions | Somnolence 3                     | Very common          |                |
-| General disorders and administration site conditions | Malaise                          |                      | Very common    |
-| General disorders and administration site conditions | Irritability                     | Very common          |                |
-| General disorders and administration site conditions | Fever                            | Very common 4        | Common         |
+| MedDRA system organ class                            | Adverse reactions                | Frequency - 6 months to <6 years   | Frequency - 6 to <18 years   |
+|------------------------------------------------------|----------------------------------|------------------------------------|------------------------------|
+| Nervous system disorders                             | Headache                         |                                    | Very common                  |
+| Gastrointestinal disorders                           | Nausea                           |                                    | Very common                  |
+| Gastrointestinal disorders                           | Decreased appetite 1             | Very common                        | Very common                  |
+| Gastrointestinal disorders                           | Vomiting                         | Common                             | Common                       |
+| Gastrointestinal disorders                           | Diarrhoea                        | Common                             | Common                       |
+| Musculoskeletal and connective tissue disorders      | Myalgia                          |                                    | Very common                  |
+| Musculoskeletal and connective tissue disorders      | Arthralgia                       |                                    | Very common                  |
+| General disorders and administration site conditions | Injection site pain/tenderness 2 | Very common                        | Very common                  |
+| General disorders and administration site conditions | Injection site erythema          | Common                             | Common                       |
+| General disorders and administration site conditions | Injections site induration       | Common                             | Common                       |
+| General disorders and administration site conditions | Fatigue                          |                                    | Very common                  |
+| General disorders and administration site conditions | Somnolence 3                     | Very common                        |                              |
+| General disorders and administration site conditions | Malaise                          |                                    | Very common                  |
+| General disorders and administration site conditions | Irritability                     | Very common                        |                              |
+| General disorders and administration site conditions | Fever                            | Very common 4                      | Common                       |
 
 ## Description of selected adverse reactions
 
@@ -317,32 +337,33 @@ This section describes the clinical experience with the pandemic preparedness va
 
 <div style=\"page-break-after: always\"></div>
 
-Pandemic preparedness vaccines contain influenza antigens that are different from those in the currently circulating influenza viruses. These antigens can be considered as 'novel' antigens and simulate a situation where the target population for vaccination is immunologically naïve. Data obtained with the pandemic preparedness vaccine will support a vaccination strategy that is likely to be used for the pandemic vaccine: clinical immunogenicity, safety and reactogenicity data obtained with pandemic preparedness vaccines are relevant for the pandemic vaccines.
+Pandemic preparedness vaccines contain influenza antigens that are different from those in the currently circulating influenza viruses. These antigens can be considered as \"novel\" antigens and simulate a situation where the target population for vaccination is immunologically naïve. Data obtained with the pandemic preparedness vaccine will support a vaccination strategy that is likely to be used for the pandemic vaccine: clinical immunogenicity, safety and reactogenicity data obtained with pandemic preparedness vaccines are relevant for the pandemic vaccines.
 
 ## Adults
 
 Study V89\\_18 was a phase 3, randomised, observer-blind, multicentre, controlled study conducted in the United States in adults 18 years of age and older, who received either aH5N1c or sodium chloride 9 mg/mL (0.9%) solution for injection placebo, 21 days apart. In total, 2 988 subjects (18 to &lt;65 years N=1 488; ≥65 years N=1 500) in the per protocol population received both doses of aH5N1c (N=2 249) or placebo (N=739). Haemagglutination inhibition (HI) antibody titres against the A/turkey/Turkey/1/2005 (H5N1) strain were evaluated in sera obtained 21 days after the second dose.
 
-HI titres were assessed according to prespecified criteria for the proportion of subjects with seroconversion (defined as a prevaccination HI titre &lt;1:10 and post -vaccination HI titre ≥1:40 or a prevaccination HI titre ≥1:10 and ≥4 -fold increase in HI titre) and the proportion of subjects with an HI titre ≥1:40. Assessment of the proportion of subjects with seroconversion or an HI titre ≥1:40 after vaccination was performed by age group (18 to &lt;65 years and ≥65 years). Success criteria required the lower bound of the 2sided 95% CI for the proportion of subjects with seroconversion, to be ≥40% for subjects 18 to less than 65 years, and ≥30% for subjects ≥65 years of age. For the proportion of subjects with an HI titre &gt;1:40, the lower bound of the 2-sided 95% CI was required to be ≥70% for subjects ≥18 to less than 65 years of age, and ≥60% for subjects ≥65 years of age.
+HI titres were assessed according to prespecified criteria for the proportion of subjects with seroconversion (defined as a pre-vaccination HI titre &lt;1:10 and post-vaccination HI titre ≥1:40 or a pre-vaccination HI titre ≥1:10 and ≥4-fold increase in HI titre) and the proportion of subjects with an HI titre ≥1:40. Assessment of the proportion of subjects with seroconversion or an HI titre ≥1:40 after vaccination was performed by age group (18 to &lt;65 years and ≥65 years). Success criteria required the lower bound of the 2-sided 95% CI for the proportion of subjects with seroconversion, to be ≥40% for subjects 18 to less than 65 years, and ≥30% for subjects ≥65 years of age. For the proportion of subjects with an HI titre &gt;1:40, the lower bound of the 2-sided 95% CI was required to be ≥70% for subjects ≥18 to less than 65 years of age, and ≥60% for subjects ≥65 years of age.
 
 In subjects 18 to less than 65 years of age and subjects ≥65 years of age, the prespecified criteria for proportion of subjects with seroconversion and an HI titre ≥1:40 were met 21 days after the second vaccination (Table 5). In Study V89\\_04 for adults 18 to less than 65 years of age, and Study V89\\_13 for adults 65 years of age and older, comparable immunogenicity results were observed.
 
-Table 5. Seroconversion rates, percentage of subjects with HI titres ≥ 1:40 and geometric mean titre ratios (GMR) following aH5N1c or placebo (21 days after 2 vaccinations) (PPS a - study V89\\_18)
+Table 5. Seroconversion rates, percentage of subjects with HI titres ≥1:40 and geometric mean titre ratios (GMR) following aH5N1c or placebo (21 days after 2 vaccinations) (PPS a - study V89\\_18)
 
-|                            | Adults 18 to less than 65 years of age   | Adults 18 to less than 65 years of age   | Adults 65 years of age and older   | Adults 65 years of age and older   |
-|----------------------------|------------------------------------------|------------------------------------------|------------------------------------|------------------------------------|
-|                            | aH5N1c (N=1 076)                         | Placebo (N=349)                          | aH5N1c (N=1 080)                   | Placebo (N=351)                    |
-| Seroconversion b (95% CI)  | 79.9% ( 77.4 ; 82.3)                     | 0.3% (0.0; 1.6)                          | 54.0% ( 51.0 ; 57.0)               | 1.7% (0.6; 3.7)                    |
-| HI t itre ≥1:40 (95% CI)   | 95.0% ( 93.4 , 96.2)                     | 8.5% (5.9, 12.1)                         | 85.7% ( 83.3 , 87.9)               | 20.8% (16.6, 25.8)                 |
-| GMRDay 43/Day 1 c (95% CI) | 12.7 (11.9, 13.5)                        | 0.8 (0.7, 0.9)                           | 4.9 (4.6, 5.2)                     | 0.8 (0.8, 0.9)                     |
+|                             | Adults 18 to less than 65 years of age - aH5N1c (N=1 076)   | Adults 18 to less than 65 years of age - Placebo (N=349)   | Adults 65 years of age and older - aH5N1c (N=1 080)   | Adults 65 years of age and older - Placebo (N=351)   |
+|-----------------------------|-------------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
+| Seroconversion b (95% CI)   | 79.9% (77.4; 82.3)                                          | 0.3% (0.0; 1.6)                                            | 54.0% (51.0; 57.0)                                    | 1.7% (0.6; 3.7)                                      |
+| HI titre ≥1:40 (95% CI)     | 95.0% (93.4, 96.2)                                          | 8.5% (5.9, 12.1)                                           | 85.7% (83.3, 87.9)                                    | 20.8% (16.6, 25.8)                                   |
+| GMR Day 43/Day 1 c (95% CI) | 12.7 (11.9, 13.5)                                           | 0.8 (0.7, 0.9)                                             | 4.9 (4.6, 5.2)                                        | 0.8 (0.8, 0.9)                                       |
 
-a
+a PPS: Per Protocol Set, subjects who correctly received 2 doses of aH5N1c according to the study protocol
 
-PPS: Per Protocol Set, subjects who correctly received 2 doses of aH5N1c according to the study protocol b Seroconversion is defined as a prevaccination HI titre &lt;1:10 and post -vaccination HI titre ≥1:40 or a pre -vaccination HI titre ≥1:10 and ≥4 -fold increase in HI titre.
+b Seroconversion is defined as a pre-vaccination HI titre &lt;1:10 and post-vaccination HI titre ≥1:40 or a pre-
 
-c  Geometric mean HI titres on Day 43 compared to Day 1
+vaccination HI titre ≥1:10 and ≥4-fold increase in HI titre.
 
-Bold shows that the prespecified criterion was met, ie, a lower bound of the 2-sided 95% confidence interval for seroconversion ≥40%, and for the proportion of subjects with HI antibody titres of ≥1:40 a lower bound of the 2 -sided 95% confidence interval ≥70% for subjects 18 to less than 65 years and ≥60% for subjects 65 years and older.
+c Geometric mean HI titres on Day 43 compared to Day 1
+
+Bold shows that the prespecified criterion was met, ie, a lower bound of the 2-sided 95% confidence interval for seroconversion ≥40%, and for the proportion of subjects with HI antibody titres of ≥1:40 a lower bound of the 2sided 95% confidence interval ≥70% for subjects 18 to less than 65 years and ≥60% for subjects 65 years and older.
 
 The MicroNeutralisation (MN) assay was used to measure immunological response against the homologous strain in a subset of 76 adults 18 to &lt;65 years of age in Study V89\\_18. Using the MN
 
@@ -356,26 +377,23 @@ A reduction of antibody titres was observed 6 months after the primary vaccinati
 
 ## Cross-reactive immune response elicited by A/turkey/Turkey/1/2005 (clade 2.2.1)
 
-In the phase 2 studies, V89\\_04 and V89\\_13, immune responses were evaluated against five H5N1 heterologous strains: A/Anhui/1/2005 (clade 2.3.4); A/Egypt/N03072/2010 (clade 2.2.1); A/Hubei/1/2010 (clade 2.3.2); A/Indonesia/5/2005 (clade 2.1.3) and A/Vietnam/1203/2004 (clade 1) three weeks after the second vaccination. HI geometric mean titres (GMTs) on Day 43 compared to Day 1 increased between 2- and 7.3fold in subjects 18 to &lt;65 years of age (Study V89\\_04), and between 1.5- and 4.8fold in subjects ≥65 ye ars of age (Study V89\\_13). The percentage of subjects with seroconversion or an HI titre ≥1:40 at Day 43 ranged from 28% to 64% in subjects 18 to &lt;65 years of age and from 17% to 57% in subjects ≥65 years of age. Table 6 presents data on immune responses against the H5N1 heterologous strains.
+In the phase 2 studies, V89\\_04 and V89\\_13, immune responses were evaluated against five H5N1 heterologous strains: A/Anhui/1/2005 (clade 2.3.4); A/Egypt/N03072/2010 (clade 2.2.1); A/Hubei/1/2010 (clade 2.3.2); A/Indonesia/5/2005 (clade 2.1.3) and A/Vietnam/1203/2004 (clade 1) three weeks after the second vaccination. HI geometric mean titres (GMTs) on Day 43 compared to Day 1 increased between 2- and 7.3-fold in subjects 18 to &lt;65 years of age (Study V89\\_04), and between 1.5- and 4.8-fold in subjects ≥65 years of age (Study V89\\_13). The percentage of subjects with seroconversion or an HI titre ≥1:40 at Day 43 ranged from 28% to 64% in subjects 18 to &lt;65 years of age and from 17% to 57% in subjects ≥65 years of age. Table 6 presents data on immune responses against the H5N1 heterologous strains.
 
-Table 6.  Seroconversion rates, percentage of subjects with HI titres ≥ 1:40 and geometric mean titre ratios (GMR) following aH5N1c (21 days after 2 vaccinations) against heterologous H5N1 strains in subjects 18 to &lt;65 years of age and ≥65 years of age (FAS a  - Study V89\\_04 and V89\\_13)
+Table 6. Seroconversion rates, percentage of subjects with HI titres ≥1:40 and geometric mean titre ratios (GMR) following aH5N1c (21 days after 2 vaccinations) against heterologous H5N1 strains in subjects 18 to &lt;65 years of age and ≥65 years of age (FAS a - Study V89\\_04 and V89\\_13)
 
-|                             | Adults 18 to less than 65 years of age (V89_04) N=69   | Adults 18 to less than 65 years of age (V89_04) N=69   | Adults 18 to less than 65 years of age (V89_04) N=69   | Adults 18 to less than 65 years of age (V89_04) N=69   | Adults 18 to less than 65 years of age (V89_04) N=69   |
-|-----------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-|                             | A/Anhui/ 1/2005                                        | A/Egypt/ N03072/2010                                   | A/Hubei/ 1/2010                                        | A/Indonesia/ 5/2005                                    | A/Vietnam/ 1203/2004                                   |
-| Seroconversion b (97.5% CI) | 28% (16, 41)                                           | 55% (41, 69)                                           | 55% (41, 69)                                           | 35% (22; 49)                                           | 52% (38, 66)                                           |
-| HI t itre ≥1:40 (97.5% CI)  | 28% (16, 41)                                           | 58% (44, 71)                                           | 64% (50, 76)                                           | 35% (22, 49)                                           | 54% (40, 67)                                           |
-| GMRDay 43/Day 1 c (95% CI)  | 2.1 (1.3, 3.4)                                         | 6.5 (3.6, 12)                                          | 7.3 (4.0; 13)                                          | 3.1 (1.8, 5.4)                                         | 7.0 (3.8, 13)                                          |
-|                             | Adults ≥65 years of age (V89_13) N=35                  | Adults ≥65 years of age (V89_13) N=35                  | Adults ≥65 years of age (V89_13) N=35                  | Adults ≥65 years of age (V89_13) N=35                  | Adults ≥65 years of age (V89_13) N=35                  |
-| Seroconversion b (95% CI)   | 17% (6, 36)                                            | 43 % (24, 63)                                          | 46 % (27, 66)                                          | 26 % (11, 46)                                          | 43 % (24, 63)                                          |
-| HI titre ≥1:40 (95% CI)     | 17% (6, 36)                                            | 49 % (29, 68)                                          | 57% (37, 76)                                           | 26 % (11, 46)                                          | 51% (32, 71)                                           |
-| GMRDay 43/Day 1 c (95% CI)  | 1.5 (0.9; 2.6)                                         | 3.6 (1.6; 8.2)                                         | 4.8 (2.3; 10)                                          | 2.1 (1.1; 3.8)                                         | 4.3 (2.0; 9.2)                                         |
+|                             | Adults 18 to less than 65 years of age (V89_04) N=69 - A/Anhui/ 1/2005   | Adults 18 to less than 65 years of age (V89_04) N=69 - A/Egypt/ N03072/2010   | Adults 18 to less than 65 years of age (V89_04) N=69 - A/Hubei/ 1/2010   | Adults 18 to less than 65 years of age (V89_04) N=69 - A/Indonesia/ 5/2005   | Adults 18 to less than 65 years of age (V89_04) N=69 - A/Vietnam/ 1203/2004   |
+|-----------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| Seroconversion b (97.5% CI) | 28% (16, 41)                                                             | 55% (41, 69)                                                                  | 55% (41, 69)                                                             | 35% (22; 49)                                                                 | 52% (38, 66)                                                                  |
+| HI titre ≥1:40 (97.5% CI)   | 28% (16, 41)                                                             | 58% (44, 71)                                                                  | 64% (50, 76)                                                             | 35% (22, 49)                                                                 | 54% (40, 67)                                                                  |
+| GMR Day 43/Day 1 c (95% CI) | 2.1 (1.3, 3.4)                                                           | 6.5 (3.6, 12)                                                                 | 7.3 (4.0; 13)                                                            | 3.1 (1.8, 5.4)                                                               | 7.0 (3.8, 13)                                                                 |
+|                             | Adults ≥65 years of age (V89_13) N=35                                    | Adults ≥65 years of age (V89_13) N=35                                         | Adults ≥65 years of age (V89_13) N=35                                    | Adults ≥65 years of age (V89_13) N=35                                        | Adults ≥65 years of age (V89_13) N=35                                         |
+| Seroconversion b (95% CI)   | 17% (6, 36)                                                              | 43% (24, 63)                                                                  | 46% (27, 66)                                                             | 26% (11, 46)                                                                 | 43% (24, 63)                                                                  |
+| HI titre ≥1:40 (95% CI)     | 17% (6, 36)                                                              | 49% (29, 68)                                                                  | 57% (37, 76)                                                             | 26% (11, 46)                                                                 | 51% (32, 71)                                                                  |
+| GMR Day 43/Day 1 c (95% CI) | 1.5 (0.9; 2.6)                                                           | 3.6 (1.6; 8.2)                                                                | 4.8 (2.3; 10)                                                            | 2.1 (1.1; 3.8)                                                               | 4.3 (2.0; 9.2)                                                                |
 
-Using the MicroNeutralisation (MN) assay against the 5 heterologous strains, an at least 4-fold increase from baseline titres at Day 43 was achieved by 32 % to 88% of subjects 18 to &lt;65 years of
+Using the MicroNeutralisation (MN) assay against the 5 heterologous strains, an at least 4-fold increase from baseline titres at Day 43 was achieved by 32% to 88% of subjects 18 to &lt;65 years of age, and by 26% to 74% of subjects ≥65 years of age. MN GMTs on Day 43 compared to Day 1 increased between 4.8- and 34-fold in subjects 18 to &lt;65 years of age (Study V89\\_04), and between 3.7- and 12-fold in subjects ≥65 years of age (Study V89\\_13).
 
 <div style=\"page-break-after: always\"></div>
-
-age, and by 26% to 74% of subjects ≥65 years of age. MN GMTs on Day 43 compared to Day 1 increased between 4.8- and 34fold in subjects 18 to &lt;65 years of age (Study V89\\_04), and between 3.7- and 12fold in subjects ≥65 years of age (Study V89\\_13).
 
 ## Long term booster immune memory
 
@@ -387,53 +405,50 @@ In Study V89\\_18E1 adult subjects who received 2 doses of aH5N1c approximately 
 
 Immunogenicity data for aH5N1c in children 6 months to &lt;18 years of age was assessed in Study V89\\_11. This was a randomised, controlled, observer-blind multicentre study conducted in children 6 months to less than 18 years of age who received two doses of either 7.5 mcg HA of H5N1 with MF59 per 0.5 mL or 3.75 mcg HA of H5N1 with MF59 per 0.25 mL, 21 days apart.
 
-In total, 577 subjects in the full analysis population received the 7.5 mcg dose (N=329) or 3.75 mcg dose (N=329). The subjects were divided into three age cohorts, 6 to &lt;36 months (N=177), 3 to &lt;9 years (N=193), and 9 to &lt;18 years (N=207) ; 53% of the subjects were male. 73% of the participants were Asian, 22% were White, 3% were Black or African American. HI antibody titres against the A/turkey/Turkey/1/2005 (H5N1) strain were evaluated in sera obtained 21 days after the second dose in three age cohorts (6 to &lt; 36 months, 3 to &lt; 9 years, and 9 to &lt; 18 years).
+In total, 577 subjects in the full analysis population received the 7.5 mcg dose (N=329) or 3.75 mcg dose (N=329). The subjects were divided into three age cohorts, 6 to &lt;36 months (N=177), 3 to &lt;9 years (N=193), and 9 to &lt;18 years (N=207); 53% of the subjects were male. 73% of the participants were Asian, 22% were White, 3% were Black or African American. HI antibody titres against the A/turkey/Turkey/1/2005 (H5N1) strain were evaluated in sera obtained 21 days after the second dose in three age cohorts (6 to &lt;36 months, 3 to &lt;9 years, and 9 to &lt;18 years).
 
-The proportion of subjects with seroconversion and an HI titre of ≥1:40 after vaccination was evaluated according to prespecified criteria. The success criteria for proportion of subjects with seroconversion were that the lower bound of the 2sided 97.5% CI should be ≥40% and for the proportion of subjects with an HI titre &gt;1:40, the lower bound of the 2-sided 97.5% CI should be ≥70% for all three age cohorts.
+The proportion of subjects with seroconversion and an HI titre of ≥1:40 after vaccination was evaluated according to prespecified criteria. The success criteria for proportion of subjects with seroconversion were that the lower bound of the 2-sided 97.5% CI should be ≥40% and for the proportion of subjects with an HI titre &gt;1:40, the lower bound of the 2-sided 97.5% CI should be ≥70% for all three age cohorts.
 
-In all three age cohorts (6 to &lt; 36 months, 3 to &lt; 9 years, and 9 to &lt; 18 years) the prespecified criteria for proportion of subjects with seroconversion and an HI titre ≥1:40 were met 21 days after the second vaccination with either the 7.5 mcg or 3.75 mcg dose. Table 7 presents data for the recommended dose.
+In all three age cohorts (6 to &lt;36 months, 3 to &lt;9 years, and 9 to &lt;18 years) the prespecified criteria for proportion of subjects with seroconversion and an HI titre ≥1:40 were met 21 days after the second vaccination with either the 7.5 mcg or 3.75 mcg dose. Table 7 presents data for the recommended dose.
 
-Table 7.  Seroconversion rates, percentage of subjects with HI titres ≥ 1:40 and geometric mean titre ratios (GMR) following vaccination with aH5N1c in Study V89\\_11 (FAS a )
+Table 7. Seroconversion rates, percentage of subjects with HI titres ≥1:40 and geometric mean titre ratios (GMR) following vaccination with aH5N1c in Study V89\\_11 (FAS a )
 
-| Formulation: 7.5 mcg HA / 100% MF59   | Formulation: 7.5 mcg HA / 100% MF59   | Formulation: 7.5 mcg HA / 100% MF59   | Formulation: 7.5 mcg HA / 100% MF59   | Formulation: 7.5 mcg HA / 100% MF59   |
-|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
-|                                       | Overall population                    | Age subgroups                         | Age subgroups                         | Age subgroups                         |
-|                                       | 6 months to <18 years                 | 6 to <36 months                       | 3 to <9 years                         | 9 to <18 years                        |
-| Seroconversion b (97.5% CI) c         | 96% ( 93 -98)                         | 99% ( 94 ; 100)                       | 98% ( 92 ; 100)                       | 92% ( 85 ; 97)                        |
-| Seroconversion b (97.5% CI) c         | N=279                                 | N=84                                  | N=93                                  | N=102                                 |
+| Formulation: 7.5 mcg HA / 100% MF59   | Formulation: 7.5 mcg HA / 100% MF59 - Overall population - 6 months to <18 years   | Formulation: 7.5 mcg HA / 100% MF59 - Age subgroups - 6 to <36 months   | Formulation: 7.5 mcg HA / 100% MF59 - Age subgroups - 3 to <9 years   | Formulation: 7.5 mcg HA / 100% MF59 - Age subgroups - 9 to <18 years   |
+|---------------------------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|
+| Seroconversion b (97.5% CI) c         | 96% (93-98)                                                                        | 99% (94; 100)                                                           | 98% (92; 100)                                                         | 92% (85; 97)                                                           |
+|                                       | N=279                                                                              | N=84                                                                    | N=93                                                                  | N=102                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| Formulation: 7.5 mcg HA / 100% MF59   | Formulation: 7.5 mcg HA / 100% MF59   | Formulation: 7.5 mcg HA / 100% MF59   | Formulation: 7.5 mcg HA / 100% MF59   | Formulation: 7.5 mcg HA / 100% MF59   |
-|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
-|                                       | Overall population                    | Age subgroups                         | Age subgroups                         | Age subgroups                         |
-|                                       | 6 months to <18 years                 | 6 to <36 months                       | 3 to <9 years                         | 9 to <18 years                        |
-| HI t itre ≥1:40 (97.5% CI) c          | 96% ( 92 -98) N=287                   | 98% ( 92 ; 100) N=91                  | 98% ( 93 ; 100)                       | 92% ( 85 ; 97)                        |
-| GMRDay 43/Day 1 d                     | 262 (190-361)                         | 302                                   | N=94                                  | N=102                                 |
-| (97.5% CI) c                          |                                       | (192-476)                             | 249 (153-404)                         | 186 (105-328)                         |
-|                                       | N=279                                 | N=84                                  | N=93                                  | N=102                                 |
-| Formulation: 3.75 mcg HA / 50% MF59   | Formulation: 3.75 mcg HA / 50% MF59   | Formulation: 3.75 mcg HA / 50% MF59   | Formulation: 3.75 mcg HA / 50% MF59   | Formulation: 3.75 mcg HA / 50% MF59   |
-| Seroconversion b (97.5% CI) c         | 86% (81-90)                           | 94% (87-98) N=85                      | 86% (77-92) N=98                      | 79% (70-86) N=105                     |
-|                                       | N=288                                 |                                       |                                       |                                       |
-|                                       | N=288                                 | N=85                                  | N=98                                  | N=105                                 |
-| GMRDay 43/Day 1 d (97.5% CI) c        | 84 (61-116)                           | 116 (74-181)                          | 73 (44-121)                           | 58 (34-101)                           |
-| GMRDay 43/Day 1 d (97.5% CI) c        | N=288                                 | N=85                                  | N=98                                  | N=105                                 |
+| Formulation: 7.5 mcg HA / 100% MF59   | Formulation: 7.5 mcg HA / 100% MF59 - Overall population - 6 months to <18 years   | Formulation: 7.5 mcg HA / 100% MF59 - Age subgroups - 6 to <36 months   | Formulation: 7.5 mcg HA / 100% MF59 - Age subgroups - 3 to <9 years   | Formulation: 7.5 mcg HA / 100% MF59 - Age subgroups - 9 to <18 years   |
+|---------------------------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|
+| HI titre ≥1:40 (97.5% CI) c           | 96% (92-98)                                                                        | 98% (92; 100)                                                           | 98% (93; 100)                                                         | 92% (85; 97)                                                           |
+|                                       | N=287 262                                                                          | N=91                                                                    | N=94                                                                  | N=102                                                                  |
+| GMR Day 43/Day 1 d (97.5% CI) c       | (190-361)                                                                          | 302 (192-476)                                                           | 249 (153-404)                                                         | 186 (105-328)                                                          |
+|                                       | N=279                                                                              | N=84                                                                    | N=93                                                                  | N=102                                                                  |
+| Formulation: 3.75 mcg HA / 50% MF59   | Formulation: 3.75 mcg HA / 50% MF59                                                | Formulation: 3.75 mcg HA / 50% MF59                                     | Formulation: 3.75 mcg HA / 50% MF59                                   | Formulation: 3.75 mcg HA / 50% MF59                                    |
+| Seroconversion b (97.5% CI) c         | 86% (81-90)                                                                        | 94% (87-98)                                                             | 86% (77-92)                                                           | 79% (70-86)                                                            |
+|                                       | 86%                                                                                | 94%                                                                     | 86%                                                                   | N=105 79%                                                              |
+|                                       | N=288                                                                              | N=85                                                                    | N=98                                                                  |                                                                        |
+| HI titre ≥1:40 (97.5% CI) c           | (81-90) N=288                                                                      | (87-98) N=85                                                            | (77-92) N=98                                                          | (70-86) N=105                                                          |
+| GMR Day 43/Day 1 d (97.5% CI) c       | 84 (61-116)                                                                        | 116 (74-181)                                                            | 73 (44-121)                                                           | 58 (34-101)                                                            |
+| GMR Day 43/Day 1 d (97.5% CI) c       | N=288                                                                              | N=85                                                                    | N=98                                                                  | N=105                                                                  |
 
 a FAS: Full Analysis Set, subjects who received at least one 7.5 or 3.75 mcg dose of aH5N1c and provided immunogenicity data at day 1 and day 43.
 
-b Seroconversion is defined as a prevaccination HI titre &lt;1:10 and post -vaccination HI titre ≥1:40 or a pre -vaccination HI titre ≥1:10 and ≥4 -fold increase in HI titre.
+b Seroconversion is defined as a pre-vaccination HI titre &lt;1:10 and post-vaccination HI titre ≥1:40 or a prevaccination HI titre ≥1:10 and ≥4-fold increase in HI titre.
 
-c  95% CI used for age subgroups
+c 95% CI used for age subgroups
 
-d  Geometric mean HI titres on Day 43 compared to Day 1
+d Geometric mean HI titres on Day 43 compared to Day 1
 
-Bold shows that the prespecified criterion was met, ie, a lower bound of the 2-sided 97.5% confidence interval for seroconversion ≥40% and for the proportion of subjects with an HI titre of ≥1:40 a lower bound of the 2 -sided 97.5% confidence interval ≥70%.
+Bold shows that the prespecified criterion was met, ie, a lower bound of the 2-sided 97.5% confidence interval for seroconversion ≥40% and for the proportion of subjects with an HI titre of ≥1:40 a lower bound of the 2sided 97.5% confidence interval ≥70%.
 
 The MicroNeutralisation (MN) assay was used to evaluate immunological response against the homologous strain (A/turkey/Turkey/1/2005) in subjects 6 months to &lt;18 years of age (N=69) who received the 7.5 mcg dose in study V89\\_11. Using the MN assay an at least 4-fold increase from baseline titres at Day 43 was achieved in 100% of subjects and a 257-fold increase in GMTs was achieved on Day 43 compared to Day 1.
 
 A reduction of antibody titres was observed when assessed 12 months after the primary vaccination series with the A/turkey/Turkey/1/2005 (H5N1) strain (GMRs 7.5 mcg dose: 12 [97.5% CI: 8.76, 17]; 3.75 mcg dose: 5.62 [97.5% CI: 4.05, 7.81]), but the GMRs were still higher compared to the adult population. No data are available beyond 12 months.
 
-Cross reactivity data in the paediatric population 6 months to less than 18 years of age
+## Cross reactivity data in the paediatric population 6 months to less than 18 years of age
 
 Cross-reactive immune response elicited by A/turkey/Turkey/1/2005 (clade 2.2.1) In subjects 6 months to less than 18 years of age (Study V89\\_11), immune responses were evaluated against five H5N1 heterologous strains: A/Anhui/1/2005 (clade 2.3.4); A/Egypt/N03072/2010 (clade 2.2.1); A/Hubei/1/2010 (clade 2.3.2); A/Indonesia/5/2005 (clade 2.1.3) and A/Vietnam/1203/2004
 
@@ -441,16 +456,81 @@ Cross-reactive immune response elicited by A/turkey/Turkey/1/2005 (clade 2.2.1) 
 
 (clade 1) three weeks after the second vaccination. HI GMTs on Day 43 increased between 8- and 40fold compared to Day 1. The percentage of subjects with seroconversion or an HI titre ≥1:40 at Day 43 ranged from 32% to 72% in subjects 6 months to &lt;18 years of age. Table 8 presents data on immune responses against the H5N1 heterologous strains.
 
-Table 8. Seroconversion rates, percentage of subjects with HI titres ≥ 1:40 and geometric mean titre ratios (GMR) following aH5N1c (21 days after 2 vaccinations) against heterologous H5N1 strains in subjects 6 months to &lt;18 years of age (FAS a  - Study V89\\_11)
+Table 8. Seroconversion rates, percentage of subjects with HI titres ≥1:40 and geometric mean titre ratios (GMR) following aH5N1c (21 days after 2 vaccinations) against heterologous H5N1 strains in subjects 6 months to &lt;18 years of age (FAS a - Study V89\\_11)
 
-|                              | Children 6 months to < 18 years of age (V89_11) N=69   | Children 6 months to < 18 years of age (V89_11) N=69   | Children 6 months to < 18 years of age (V89_11) N=69   | Children 6 months to < 18 years of age (V89_11) N=69   | Children 6 months to < 18 years of age (V89_11) N=69   |
-|------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-|                              | A/Anhui/ 1/2005                                        | A/Egypt/ N03072/2010                                   | A/Hubei/ 1/2010                                        | A/Indonesia/ 5/2005                                    | A/Vietnam/ 1203/2004                                   |
-| Seroconversion b (97.5% CI)  | 32% (20, 46)                                           | 72% (59, 84)                                           | 54% (40, 67)                                           | 36% (24; 50)                                           | 54% (40, 68)                                           |
-| HI t itre ≥1:40 (97.5% CI)   | 32% (20, 46)                                           | 72% (59, 84)                                           | 54% (40, 67)                                           | 36% (24, 50)                                           | 54% (40, 68)                                           |
-| GMRDay 43/Day 1 c (97.5% CI) | 8.4 (4.0; 17)                                          | 40 (15; 109)                                           | 34 (11; 105)                                           | 11 (4.9; 25)                                           | 23 (8.5; 60)                                           |
+|                               | Children 6 months to < 18 years of age (V89_11) N=69 - A/Anhui/ 1/2005   | Children 6 months to < 18 years of age (V89_11) N=69 - A/Egypt/ N03072/2010   | Children 6 months to < 18 years of age (V89_11) N=69 - A/Hubei/ 1/2010   | Children 6 months to < 18 years of age (V89_11) N=69 - A/Indonesia/ 5/2005   | Children 6 months to < 18 years of age (V89_11) N=69 - A/Vietnam/ 1203/2004   |
+|-------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| Seroconversion b (97.5% CI)   | 32% (20, 46)                                                             | 72% (59, 84)                                                                  | 54% (40, 67)                                                             | 36% (24; 50)                                                                 | 54% (40, 68)                                                                  |
+| HI titre ≥1:40 (97.5% CI)     | 32% (20, 46)                                                             | 72% (59, 84)                                                                  | 54% (40, 67)                                                             | 36% (24, 50)                                                                 | 54% (40, 68)                                                                  |
+| GMR Day 43/Day 1 c (97.5% CI) | 8.4 (4.0; 17)                                                            | 40 (15; 109)                                                                  | 34 (11; 105)                                                             | 11 (4.9; 25)                                                                 | 23 (8.5; 60)                                                                  |
 
 MN assay results against the 5 heterologous strains showed a substantial percentage of paediatric subjects achieving an at least 4-fold increase in MN titres at Day 43, ranging from 83% to 100%. MN GMTs on Day 43 compared to Day 1 increased between 13- and 160-fold in subjects 6 months to &lt;18 years of age (Study V89\\_11).
+
+## Immune response after aH5N8c vaccination in adults
+
+Study V205\\_01 was a randomised, multicentre, observer-blind study conducted in the United States in 479 adults 18 years of age and older. In this study subjects were randomised to 3 groups and received a homologous priming series of two doses of aH5N8c (Arm A) (21 days apart), or a heterologous priming series of one dose of aH5N8c followed by one dose of aH5N6c vaccine (Arm B), or one dose of aH5N6c vaccine followed by one dose of aH5N8c (Arm C) (21 days apart). All subjects received an aH5N8c booster vaccination 6 months after their second priming vaccination on Day 202.
+
+Antibody titres against the H5N8 strain were evaluated in sera obtained 21 days after the second priming dose using the haemagglutination inhibition (HI) and microneutralisation (MN) assays. The immunogenicity endpoints in the study consisted of geometric mean titre (GMT), geometric mean fold increase (GMFI), percentage of subjects with titres ≥ 1:40 and percentage of subjects with seroconversion (defined as a ≥ 4-fold increase in titre postvaccination in subjects with prevaccination titre ≥1:10, or a postvaccination titre ≥1:40 for subjects with prevaccination titre &lt;1:10).
+
+The immune response against the H5N8 A/Astrakhan/3212/2020 strain after two doses of aH5N8c (Day 43) is presented below (Table 9). Overall, the immune response was similar to that observed after two doses of aH5N1c in the same age groups.
+
+Table 9: Seroconversion rates, percentage of subjects with titres ≥1:40 and geometric mean fold increase (GMFI) following 2 doses of aH5N8c on day 43 (PPS a - study V205\\_01)
+
+| Immune Response   | Adults 18 through 64 years (N=99)   | Adults 65 years of age and older (N=100)   |
+|-------------------|-------------------------------------|--------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+| % Seroconversion (95% CI) b   | 75.8 - (66.1, 83.8)   | 71.0 (61.1, 79.6)   |
+|-------------------------------|-----------------------|---------------------|
+| % HI Titre ≥ 1:40 (95% CI)    | 75.8                  | 73.0                |
+|                               | (66.1,                |                     |
+|                               | 83.8)                 | (63.2, 81.4)        |
+| GMFI Day 43/Day               |                       |                     |
+| 1 c                           | 13.7                  | 10.2                |
+| (95% CI)                      | (10.9, 17.4)          | (7.4, 14.0)         |
+
+Abbreviations: HI=haemagglutination inhibition, CI=confidence interval
+
+a Per Protocol Set: subjects who received 2 doses of aH5N8c according to the study protocol
+
+b Seroconversion is defined as a prevaccination HI titre &lt;1:10 and postvaccination HI titre ≥1:40 or a prevaccination HI titre ≥1:10 and ≥ 4-fold increase in HI titre.
+
+c Geometric mean fold increase (GMFI): Ratio of geometric mean HI titres on Day 43 compared to Day 1
+
+MN assay results (n=122) against the H5N8 (A/Astrakhan/3212/2020) strain in subjects who received two priming doses of aH5N8c (Arm A) showed an at least 4-fold increase from baseline MN titres at Day 43 in 80.6% and 70.0% of subjects 18 to &lt;65 years and ≥65 years of age, respectively. MN GMTs on Day 43 compared to Day 1 increased 19.2- and 11.1-fold in subjects 18 to &lt;65 years and ≥65 years of age, respectively.
+
+The immune response against the H5N8 A/Astrakhan/3212/2020 strain after a booster dose of aH5N8c administered 6 months after the second priming dose (Day 202) is presented below (Table 10).
+
+Table 10: Seroconversion rates, percentage of subjects with titres ≥1:40 against the H5N8 Strain by HI assay and geometric mean fold increase (GMFI) after a booster dose of aH5N8c on Day 209 and Day 223 (PPS a - Study V205\\_01)
+
+| Immune Response                           | Adults 18 through 64 years - Day 209   | Adults 18 through 64 years - Day 223   | Adults 65 years of age and older - Day 209   | Adults 65 years of age and older - Day 223   |
+|-------------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------------|----------------------------------------------|
+| Arm A                                     | N=87                                   | N=89                                   | N=85                                         | N=86                                         |
+| % Seroconversion (95% CI) b               | 79.3 (69.3, 87.3)                      | 87.6 (79.0, 93.7)                      | 77.6 (67.3, 86.0)                            | 81.4 (71.6, 89.0)                            |
+| % HI Titre ≥ 1:40 (95% CI)                | 80.5 (70.6, 88.2)                      | 88.8 (80.3, 94.5)                      | 83.5 (73.9, 90.7)                            | 84.9 (75.5, 91.7)                            |
+| GMFI Day 209 and Day 223/Day 1 c (95% CI) | 17.4 (13.2, 23.0)                      | 22.8 (17.6, 29.6)                      | 14.1 (10.5, 19.0)                            | 17.8 (12.9, 24.6)                            |
+| Arm B                                     | N=40                                   | N=47                                   | N=47                                         | N=51                                         |
+| % Seroconversion (95% CI) b               | 82.5 (67.2, 92.7)                      | 85.1 (71.7, 93.8)                      | 68.1 (52.9, 80.9)                            | 74.5 (60.4, 85.7)                            |
+| % HI Titre ≥ 1:40 (95% CI)                | 87.5 (73.2, 95.8)                      | 87.2 (74.3, 95.2)                      | 76.6 (62.0, 87.7)                            | 84.3 (71.4, 93.0)                            |
+
+<div style=\"page-break-after: always\"></div>
+
+| GMFI Day 209 and Day 223/Day 1 c (95% CI) - Arm C   | 21.6 (14.3, 32.7) - N=42   | 24.9 (17.4, 35.6) - N=48   | 7.8 (5.5, 11.1) - N=45   | 14.2 (9.7, 20.9) - N=46   |
+|-----------------------------------------------------|----------------------------|----------------------------|--------------------------|---------------------------|
+| % Seroconversion (95% CI) b                         | 85.7 (71.5, 94.6)          | 89.6 (77.3, 96.5)          | 64.4 (48.8, 78.1)        | 70.8 (55.9, 83.0)         |
+| % HI Titre ≥ 1:40 (95% CI)                          | 85.7 (71.5, 94.6)          | 89.6 (77.3, 96.5)          | 71.1 (55.7, 83.6)        | 75.0 (60.4, 86.4)         |
+| GMFI Day 209 and Day 223/Day 1 c (95% CI)           | 17.9 (12.0, 26.8)          | 26.3 (18.5, 37.5)          | 8.0 (5.6, 11.6)          | 9.9 (6.7, 14.8)           |
+
+Abbreviations: HI=haemagglutination inhibition, CI=confidence interval
+
+a Per Protocol Set: subjects who received a booster dose of aH5N8c according to the study protocol
+
+b Seroconversion is defined as a pre-vaccination HI titre &lt; 1:10 and postvaccination HI titre ≥ 1:40 or a prevaccination HI titre ≥ 1:10 and ≥ 4-fold increase in HI titre.
+
+c Geometric mean fold increase (GMFI): Ratio of geometric mean HI titres on Day 209 and Day 223 compared to Day 1
+
+MN assay results (n=122) 3 weeks following an aH5N8c booster dose (Day 223) against the H5N8 (A/Astrakhan/3212/2020) strain in subjects (Arm A) showed an at least 4-fold increase from baseline MN titres at Day 223 ranging from 90.9% to 100% of subjects 18 to &lt;65 years and from 80.6% to 93.5% fo subjects ≥65 years of age. Increases in MN GMTs on Day 223 compared to Day 1 ranged between 49.2- and 64.1-fold in subjects 18 to &lt;65 years and between 22.3- and 37.7-fold in subjects ≥65 years of age.
 
 ## Paediatric population
 
@@ -468,13 +548,13 @@ Not applicable.
 
 Non-clinical data reveal no special hazard for humans based on repeat-dose and reproductive and developmental toxicity studies.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
 Sodium chloride Potassium chloride Magnesium chloride hexahydrate Disodium phosphate dihydrate Potassium dihydrogen phosphate Water for injections.
+
+<div style=\"page-break-after: always\"></div>
 
 For the adjuvant, see section 2
 
@@ -488,13 +568,13 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Discard the vaccine if it has been frozen.
-
-Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Discard the vaccine if it has been frozen. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
-0.5 ml in pre-filled syringe (type I glass) with plunger-stopper (bromobutyl rubber) and fitted with a Luer Lock system. Needles are not included. Pack of 10 pre-filled syringes. Each pre-filled syringe contains 1 dose of 0.5 ml.
+0.5 ml in pre-filled syringe (type I glass) with plunger-stopper (bromobutyl rubber) and fitted with a Luer Lock system. Needles are not included.
+
+Pack of 10 pre-filled syringes. Each pre-filled syringe contains 1 dose of 0.5 ml.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -510,17 +590,17 @@ Any unused vaccine and waste material should be disposed of in accordance with l
 
 Seqirus Netherlands B.V. Paasheuvelweg 28 1105BJ Amsterdam Netherlands
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/24/1807/001
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 19 April 2024
 
-Date of latest renewal: 7 March 2025
+Date of latest renewal: 26 February 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -581,9 +661,9 @@ An updated RMP should be submitted:
 
 This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                         | Due date                                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| In order to confirm the efficacy of Incellipan, the MAHshould conduct a non-interventional observational effectiveness study in children and adults against laboratory confirmed influenza during the next declared pandemic. The MAHshould submit the final results of this study. | After declaration of a pandemic in the EU and after implementation of the pandemic vaccine |
+| Description                                                                                                                                                                                                                                                                           | Due date                                                                                   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| In order to confirm the efficacy of Incellipan, the MAH should conduct a non-interventional observational effectiveness study in children and adults against laboratory confirmed influenza during the next declared pandemic. The MAH should submit the final results of this study. | After declaration of a pandemic in the EU and after implementation of the pandemic vaccine |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -623,7 +703,7 @@ Excipients: sodium chloride, potassium chloride, magnesium chloride hexahydrate,
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Suspension for injection.
+## Suspension for injection.
 
 10 pre-filled syringes (0.5 ml) without needle
 
@@ -673,16 +753,14 @@ Lot
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE  IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-PC SN NN
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -696,15 +774,18 @@ Incellipan injection Pandemic influenza vaccine (H5N1)
 
 IM
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Intramuscular use
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -712,15 +793,16 @@ Lot
 
 0.5 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Incellipan suspension for injection in pre-filled syringe
 
@@ -732,11 +814,11 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you receive this vaccine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
-## What is in this leaflet :
+## What is in this leaflet:
 
 1. What Incellipan is and what it is used for
 2. What you need to know before you receive Incellipan
@@ -759,10 +841,10 @@ When a person is given the vaccine, the body's natural defense system (immune sy
 
 ## You should not receive Incellipan:
 
-- -if you are allergic to
+- if you are allergic to
 - the active ingredients or any of the other ingredients of this medicine (listed in section 6),
 - beta-propiolactone, polysorbate 80 or cetyltrimethylammonium bromide (CTAB), which are trace residues from the manufacuring process.
-- -if you have had a severe allergic reaction (e.g., anaphylaxis) to previous influenza vaccination.
+- if you have had a severe allergic reaction (e.g., anaphylaxis) to previous influenza vaccination.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -776,7 +858,7 @@ Talk to your doctor, pharmacist or nurse before receiving this vaccine.
 - You should tell your doctor or nurse if you are feeling nervous about the vaccination process or have ever fainted following an injection.
 - You should tell your doctor or nurse if you have an acute illness which includes fever as a symptom. Your doctor may decide to delay your vaccination until your fever is gone. However, you can have your vaccination if you have a mild fever or upper airway infection like a cold.
 - You should tell your doctor or nurse if you have a bleeding problem, bruise easily or you use a medicine to prevent blood-clots.
-- You should tell your doctor or nurse if your immune system is impaired, or if you are having treatment that affects the immune system, e.g., with medicine against cancer (chemotherapy) or corticosteriod medicines (see section 'Other medicines and Incellipan).
+- You should tell your doctor or nurse if your immune system is impaired, or if you are having treatment that affects the immune system, e.g., with medicine against cancer (chemotherapy) or corticosteriod medicines (see section \"Other medicines and Incellipan).
 - Your doctor should inform you about the posibility to experience convulsion, in particular if you have had previous history of epilepsy.
 
 As with all vaccines, Incellipan may not fully protect all persons who are vaccinated.
@@ -925,7 +1007,7 @@ The following additional side effects have been reported with use with seasonal 
 <div style=\"page-break-after: always\"></div>
 
 - Inflammation of the blood vessels which can cause skin rashes, joint pain and kidney problems (Vasculitis)
-- Generalised skin reactions including  hives (urticaria), non-specific rash, abnormal swelling of the skin, usually around the eyes, lips, tongue, hands or feet, due to an allergic reaction (angioedema)
+- Generalised skin reactions including hives (urticaria), non-specific rash, abnormal swelling of the skin, usually around the eyes, lips, tongue, hands or feet, due to an allergic reaction (angioedema)
 - Extensive swelling of the vaccinated limb
 - Cough
 - Pain in extremities, weakness of the muscles
@@ -950,7 +1032,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Incellipan contains
 
-## -Active substance:
+## - Active substance:
 
 The active ingredients of the vaccine are purified viral proteins (called haemagglutinin and neuraminidase) prepared from the strain of influenza virus that complies with the World Health Organisation recommendations and EU decision in an officially declared Pandemic situation.
 
@@ -958,7 +1040,7 @@ One dose (0.5 ml) of the vaccine contains 7.5 micrograms of haemagglutinin from 
 
 Adjuvant: MF59C.1 is included in this vaccine as an adjuvant. Adjuvants are substances included in certain vaccines to accelerate, improve and/or prolong the protective effects of the vaccine. MF59C.1 is an adjuvant that contains squalene, polysorbate 80, sorbitan trioleate, sodium citrate and citric acid.
 
-## -Other ingredients:
+## - Other ingredients:
 
 The other ingredients are: sodium chloride, potassium chloride, magnesium chloride hexahydrate, disodium phosphate dihydrate, potassium dihydrogen phosphate, and water for injections, see section 2 Incellipan contains sodium and potassium.
 
@@ -968,7 +1050,7 @@ Incellipan is a milky-white suspension.
 
 <div style=\"page-break-after: always\"></div>
 
-It is provided in a ready-to-use syringe, containing a single dose (0.5 ml) for injection, in a pack of 10  pre-filled syringes and fitted with a Luer Lock system. Needles are not included.
+It is provided in a ready-to-use syringe, containing a single dose (0.5 ml) for injection, in a pack of 10 pre-filled syringes and fitted with a Luer Lock system. Needles are not included.
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -976,7 +1058,7 @@ Seqirus Netherlands B.V. Paasheuvelweg 28 1105BJ Amsterdam Netherlands
 
 ## This leaflet was last revised in
 
-Incellipan has been given 'conditional approval'.
+Incellipan has been given \"conditional approval\".
 
 This means that there is more evidence to come for this medicine.
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-21 15:10:00
+document_datetime: 2026-09-25 14:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gobivaz.html
 document_name: gobivaz.html
 version: success
-processing_time: 0.1319605
-conversion_datetime: 2026-07-28 12:59:29.182248
+processing_time: 0.1342227
+conversion_datetime: 2026-09-28 20:38:57.872611
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.35.0
+  docling-jobkit: 3.8.0
+  docling: 2.130.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
 ---
 # Gobivaz
 
@@ -52,10 +52,10 @@ Gobivaz is an anti-inflammatory medicine. It is used to treat the following dise
 - axial spondyloarthritis (a disease causing inflammation and pain in the joints of the spine), including:
     - adults with severe active ankylosing spondylitis who have not responded adequately to other treatments;
     - adults with severe non-radiographic axial spondyloarthritis (when there are objective signs of inflammation but no abnormalities seen on x-ray) who have not responded adequately or are intolerant to anti-inflammatory medicines called non-steroidal anti-inflammatory drugs (NSAIDs);
-- moderately to severely active ulcerative colitis (a disease causing inflammation and ulcers in the lining of the gut). Gobivaz is used in adults who have not responded adequately to, or cannot use, conventional treatment;
+- moderately to severely active ulcerative colitis (a disease causing inflammation and ulcers in the lining of the gut). Gobivaz is used for ulcerative colitis in adults and children from 2 years of age weighing at least 15 kg when conventional treatments do not work well enough or are not suitable;
 - polyarticular juvenile idiopathic arthritis (a rare childhood disease causing inflammation of many joints). Gobivaz is used in combination with methotrexate. It is used in children from 2 years of age who have not responded adequately to treatment with methotrexate.
 
-Gobivaz contains the active substance golimumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Gobivaz is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Gobivaz is Simponi.
+Gobivaz contains the active substance golimumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Gobivaz is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Gobivaz is Simponi. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
 
 Expand section
 
@@ -63,11 +63,9 @@ Collapse section
 
 ### How is Gobivaz used?
 
-Gobivaz can only be obtained with a prescription, and treatment must be started and supervised by a doctor who has experience in the diagnosis and treatment of the diseases that Gobivaz is used to treat.
+Gobivaz is available as pre-filled pens and syringes containing a solution for injection under the skin. It is given once every two weeks or once every month depending on the stage of treatment. The recommended dose depends on the disease Gobivaz is used to treat and the response of the patient. Children under 40 kg with polyarticular juvenile idiopathic arthritis or ulcerative colitis who need lower doses should use another medicine containing the same active substance, golimumab, to allow the dose to be adjusted as needed.
 
-The medicine is available as pre-filled pens and syringes containing a solution for injection under the skin. The recommended dose depends on the disease Gobivaz is used to treat and the response of the patient. Children under 40 kg with polyarticular juvenile idiopathic arthritis who need lower doses should use another medicine containing the same active substance, golimumab, to allow the dose to be adjusted as needed.
-
-After training, patients may inject themselves with Gobivaz if their doctor agrees.
+Gobivaz can only be obtained with a prescription, and treatment must be started and supervised by a doctor who has experience in the diagnosis and treatment of the diseases that Gobivaz is used to treat.After training, patients may inject themselves with Gobivaz if their doctor agrees.
 
 For more information about using Gobivaz, see the package leaflet or contact your doctor or pharmacist.
 
@@ -83,7 +81,9 @@ In addition, a study involving 502 adults with moderate to severely active rheum
 
 Because Gobivaz is a biosimilar medicine, the studies on the effectiveness of golimumab carried out with Simponi do not all need to be repeated for Gobivaz.
 
-### What are the risks associated with Gobivaz?
+Studies carried out with Gobivaz are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions with Gobivaz?
 
 The safety of Gobivaz has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Simponi.
 
@@ -103,7 +103,7 @@ All these data were considered sufficient to conclude that Gobivaz will have the
 
 ### What measures are being taken to ensure the safe and effective use of Gobivaz?
 
-Patients treated with Gobivaz must be given a reminder card that summarises the safety information about the medicine and when to seek medical advice. Patients should show this card when seeing a healthcare professional, so that they are aware that the patient is using Gobivaz.
+The company that markets Gobivaz will provide a card for patients that summarises the safety information about the medicine and when to seek medical advice. Patients should show this card when seeing a healthcare professional, so that they are aware that the patient is using Gobivaz.
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Gobivaz have also been included in the summary of product characteristics and the package leaflet.
 
@@ -117,143 +117,143 @@ Gobivaz : EPAR - Medicine overview
 
 Reference Number: EMA/319596/2025
 
-English (EN) (184.18 KB - PDF)
+English (EN) (146.58 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/en/documents/overview/gobivaz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-729)
+[Other languages (22)](#file-language-dropdown-820)
 
-български (BG) (174.14 KB - PDF)
+български (BG) (175.64 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/bg/documents/overview/gobivaz-epar-medicine-overview_bg.pdf)
 
-español (ES) (147.49 KB - PDF)
+español (ES) (146.31 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/es/documents/overview/gobivaz-epar-medicine-overview_es.pdf)
 
-čeština (CS) (170.28 KB - PDF)
+čeština (CS) (173.47 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/cs/documents/overview/gobivaz-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (145.25 KB - PDF)
+dansk (DA) (147.26 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/da/documents/overview/gobivaz-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (150.55 KB - PDF)
+Deutsch (DE) (151.29 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/de/documents/overview/gobivaz-epar-medicine-overview_de.pdf)
 
-eesti (ET) (155.48 KB - PDF)
+eesti (ET) (154.88 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/et/documents/overview/gobivaz-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (172.55 KB - PDF)
+ελληνικά (EL) (174.39 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/el/documents/overview/gobivaz-epar-medicine-overview_el.pdf)
 
-français (FR) (149.57 KB - PDF)
+français (FR) (148.91 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/fr/documents/overview/gobivaz-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (168.85 KB - PDF)
+hrvatski (HR) (170.17 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/hr/documents/overview/gobivaz-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (145.04 KB - PDF)
+italiano (IT) (145.8 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/it/documents/overview/gobivaz-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (178.47 KB - PDF)
+latviešu (LV) (177.48 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/lv/documents/overview/gobivaz-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (170.79 KB - PDF)
+lietuvių (LT) (170.58 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/lt/documents/overview/gobivaz-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (171.61 KB - PDF)
+magyar (HU) (172.37 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/hu/documents/overview/gobivaz-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (173.04 KB - PDF)
+Malti (MT) (172.34 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/mt/documents/overview/gobivaz-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (147.31 KB - PDF)
+Nederlands (NL) (148.34 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/nl/documents/overview/gobivaz-epar-medicine-overview_nl.pdf)
 
-polski (PL) (173.89 KB - PDF)
+polski (PL) (175.22 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/pl/documents/overview/gobivaz-epar-medicine-overview_pl.pdf)
 
-português (PT) (147.66 KB - PDF)
+português (PT) (147.42 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/pt/documents/overview/gobivaz-epar-medicine-overview_pt.pdf)
 
-română (RO) (167.69 KB - PDF)
+română (RO) (166.77 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/ro/documents/overview/gobivaz-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (171.86 KB - PDF)
+slovenčina (SK) (174.13 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/sk/documents/overview/gobivaz-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (167.95 KB - PDF)
+slovenščina (SL) (168.85 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/sl/documents/overview/gobivaz-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (144.17 KB - PDF)
+suomi (FI) (144.04 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/fi/documents/overview/gobivaz-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (144.64 KB - PDF)
+svenska (SV) (135.53 KB - PDF)
 
-**First published:** 20/11/2025
+**First published:** 20/11/2025 **Last updated:** 25/09/2026
 
 [View](/sv/documents/overview/gobivaz-epar-medicine-overview_sv.pdf)
 
@@ -275,7 +275,7 @@ English (EN) (1.98 MB - PDF)
 
 [View](/en/documents/product-information/gobivaz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-919)
+[Other languages (24)](#file-language-dropdown-78)
 
 български (BG) (3.08 MB - PDF)
 
@@ -429,7 +429,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -448,7 +448,7 @@ English (EN) (77.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/gobivaz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-546)
+[Other languages (24)](#file-language-dropdown-285)
 
 български (BG) (99.77 KB - PDF)
 
@@ -718,6 +718,6 @@ English (EN) (169.29 KB - PDF)
 
 **This page was last updated on**
 
-21/07/2026
+25/09/2026
 
 ## Share this page

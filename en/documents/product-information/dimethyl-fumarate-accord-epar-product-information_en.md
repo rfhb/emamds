@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-09-23 10:38:39
+document_datetime: 2026-09-29 16:26:31
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dimethyl-fumarate-accord-epar-product-information_en.pdf
 document_name: dimethyl-fumarate-accord-epar-product-information_en.pdf
 version: success
-processing_time: 49.1731631
-conversion_datetime: 2026-09-25 19:04:03.69859
+processing_time: 64.313682
+conversion_datetime: 2026-10-01 18:04:00.888043
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.130.0
-  docling-core: 2.98.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.132.0
+  docling-core: 2.99.0
   docling-ibm-models: 4.0.3
-  docling-parse: 7.21.0
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -42,11 +42,11 @@ Gastro-resistant hard capsule (gastro-resistant capsule)
 
 Dimethyl fumarate Accord 120 mg gastro-resistant hard capsules
 
-Size '0' (approximate 21.3 x 7.5 mm) hard gelatin capsules with green cap and white body, printed with 'HR1' in black ink on capsule body containing white to off-white, round, biconvex enteric coated mini tablets plain on both the sides.
+Size \"0\" (approximate 21.3 x 7.5 mm) hard gelatin capsules with green cap and white body, printed with \"HR1\" in black ink on capsule body containing white to off-white, round, biconvex enteric coated mini tablets plain on both the sides.
 
 Dimethyl fumarate Accord 240 mg gastro-resistant hard capsules
 
-Size '0' (approximate 21.3 x 7.5 mm) hard gelatin capsules with green cap and body, printed with 'HR2' in black ink on capsule body containing white to off-white, round, biconvex enteric coated mini tablets plain on both the sides.
+Size \"0\" (approximate 21.3 x 7.5 mm) hard gelatin capsules with green cap and body, printed with \"HR2\" in black ink on capsule body containing white to off-white, round, biconvex enteric coated mini tablets plain on both the sides.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -1074,7 +1074,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 - medicines that contain fumaric acid esters (fumarates) used to treat psoriasis;
 - medicines that affect the body's immune system including chemotherapy,
 - immunosuppressants, or other medicines used to treat MS;
-- medicines that affect the kidneys including some antibiotics (used to treat infections), 'water tablets' (diuretics), certain types of painkillers (such as ibuprofen and other similar anti-inflammatories and medicines purchased without a doctor's prescription) and medicines that contain lithium;
+- medicines that affect the kidneys including some antibiotics (used to treat infections), \"water tablets\" (diuretics), certain types of painkillers (such as ibuprofen and other similar anti-inflammatories and medicines purchased without a doctor's prescription) and medicines that contain lithium;
 - taking Dimethyl fumarate Accord with certain types of vaccines (live vaccines) may cause you to get an infection and should, therefore, be avoided. Your doctor will advise whether other types of vaccines (non-live vaccines) should be given.
 
 ## Dimethyl fumarate Accord with alcohol
@@ -1249,9 +1249,9 @@ Capsule print (black ink): Shellac (E904), Iron oxide black (E172), Potassium hy
 
 ## What Dimethyl fumarate Accord looks like and contents of the pack
 
-Dimethyl fumarate Accord 120 mg gastro-resistant hard capsules are size '0' (approximate 21.3 x 7.5 mm) hard gelatin capsules with green cap and white body, printed with 'HR1' in black ink on capsule body containing white to off-white, round, biconvex enteric coated mini tablets plain on both the sides.
+Dimethyl fumarate Accord 120 mg gastro-resistant hard capsules are size \"0\" (approximate 21.3 x 7.5 mm) hard gelatin capsules with green cap and white body, printed with \"HR1\" in black ink on capsule body containing white to off-white, round, biconvex enteric coated mini tablets plain on both the sides.
 
-Dimethyl fumarate Accord 240 mg gastro-resistant hard capsules are size '0' (approximate 21.3 x 7.5 mm) hard gelatin capsules with green cap and body, printed with 'HR2' in black ink on capsule body containing white to off-white, round, biconvex enteric coated mini tablets plain on both the sides.
+Dimethyl fumarate Accord 240 mg gastro-resistant hard capsules are size \"0\" (approximate 21.3 x 7.5 mm) hard gelatin capsules with green cap and body, printed with \"HR2\" in black ink on capsule body containing white to off-white, round, biconvex enteric coated mini tablets plain on both the sides.
 
 120 mg capsules:
 

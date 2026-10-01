@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-14 09:49:30
-document_pages: 46
+document_datetime: 2026-09-30 10:30:36
+document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ximluci-epar-product-information_en.pdf
 document_name: ximluci-epar-product-information_en.pdf
 version: success
-processing_time: 13.7540196
-conversion_datetime: 2025-12-28 18:17:20.97777
+processing_time: 118.1785292
+conversion_datetime: 2026-10-01 18:15:31.088553
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.132.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -80,7 +80,9 @@ If patients are being treated according to a treat-and-extend regimen, once maxi
 
 The treatment of visual impairment due to CNV should be determined individually per patient based on disease activity. Some patients may only need one injection during the first 12 months; others may need more frequent treatment, including a monthly injection. For CNV secondary to pathologic myopia (PM), many patients may only need one or two injections during the first year (see section 5.1).
 
-Ximluci and laser photocoagulation in DME and in macular oedema secondary to BRVO There is some experience of ranibizumab administered concomitantly with laser photocoagulation (see section 5.1). When given on the same day, Ximluci should be administered at least 30 minutes after laser photocoagulation. Ximluci can be administered in patients who have received previous laser photocoagulation.
+## Ximluci and laser photocoagulation in DME and in macular oedema secondary to BRVO
+
+There is some experience of ranibizumab administered concomitantly with laser photocoagulation (see section 5.1). When given on the same day, Ximluci should be administered at least 30 minutes after laser photocoagulation. Ximluci can be administered in patients who have received previous laser photocoagulation.
 
 ## Ximluci and verteporfin photodynamic therapy in CNV secondary to PM
 
@@ -164,7 +166,7 @@ Ximluci should not be administered concurrently with other anti-VEGF medicinal p
 
 The dose should be withheld and treatment should not be resumed earlier than the next scheduled treatment in the event of:
 
-- a decrease in bestcorrected visual acuity (BCVA) of ≥30 letters compared with the last assessment of visual acuity;
+- a decrease in best-corrected visual acuity (BCVA) of ≥30 letters compared with the last assessment of visual acuity;
 - an intraocular pressure of ≥30 mmHg;
 - a retinal break;
 - a subretinal haemorrhage involving the centre of the fovea, or, if the size of the haemorrhage is ≥50%, of the total lesion area;
@@ -266,45 +268,35 @@ The adverse reactions are listed by system organ class and frequency using the f
 |          | lacrimation increased, blepharitis, dry eye, ocular hyperaemia, eye pruritus                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Common   | Retinal degeneration, retinal disorder, retinal detachment, retinal tear, detachment of the retinal pigment epithelium, retinal pigment epithelium tear, visual acuity reduced, vitreous haemorrhage, vitreous disorder, uveitis, iritis, iridocyclitis, cataract, cataract subcapsular, posterior capsule opacification, punctuate keratitis, corneal abrasion, anterior chamber flare, vision blurred, injection site haemorrhage, eye haemorrhage, conjunctivitis, conjunctivitis allergic, eye discharge, photopsia, photophobia, ocular discomfort, eyelid oedema, |
-| Uncommon | Blindness, endophthalmitis, hypopyon, hyphaema, keratopathy, iris adhesion, corneal deposits, corneal oedema, corneal striae, injection site pain, injection site irritation,                                                                                                                                                                                                                                                                                                                                                                                           |
+| Uncommon | eyelid pain, conjunctival hyperaemia Blindness, endophthalmitis, hypopyon, hyphaema, keratopathy, iris adhesion, corneal deposits, corneal oedema, corneal striae, injection site pain, injection site irritation,                                                                                                                                                                                                                                                                                                                                                      |
 
-abnormal sensation in eye, eyelid irritation
+Not known abnormal sensation in eye, eyelid irritation Retinal vasculitis**, retinal occlusive vasculitis**
 
-Respiratory, thoracic and mediastinal disorders
+## Respiratory, thoracic and mediastinal disorders
 
-Common
-
-Cough
+Common Cough
 
 Gastrointestinal disorders
 
-Common
-
-Nausea
+Common Nausea
 
 Skin and subcutaneous tissue disorders
 
-Common
+Common Allergic reactions (rash, urticaria, pruritus, erythema)
 
-Allergic reactions (rash, urticaria, pruritus, erythema)
+## Musculoskeletal and connective tissue disorders
 
-Musculoskeletal and connective tissue disorders
-
-Very common
-
-Arthralgia
+Very common Arthralgia
 
 Investigations
 
-Very common
-
-Intraocular pressure increased
+Very common Intraocular pressure increased
 
 <div style=\"page-break-after: always\"></div>
 
-# Adverse reactions were defined as adverse events (in at least 0.5 percentage points of patients) which occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with ranibizumab 0.5 mg than in those receiving control treatment (sham or verteporfin PDT).
-
+- # Adverse reactions were defined as adverse events (in at least 0.5 percentage points of patients) which occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with ranibizumab 0.5 mg than in those receiving control treatment (sham or verteporfin PDT).
 * observed only in DME population
+- ** From post-marketing reporting
 
 ## Product-class-related adverse reactions
 
@@ -318,11 +310,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Cases of accidental overdose have been reported from the clinical studies in wet AMD and postmarketing data. Adverse reactions associated with these reported cases were intraocular pressure increased, transient blindness, reduced visual acuity, corneal oedema, corneal pain, and eye pain. If an overdose occurs, intraocular pressure should be monitored and treated, if deemed necessary by the attending physician.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
-
-<div style=\"page-break-after: always\"></div>
 
 Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC code: S01LA04
 
@@ -346,19 +338,20 @@ Key outcome measures are summarised in Table 1 and Figure 1.
 
 Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g (ANCHOR)
 
-|                                                                                      |          | FVF2598g (MARINA)   | FVF2598g (MARINA)          | FVF2587g (ANCHOR)       | FVF2587g (ANCHOR)          |
-|--------------------------------------------------------------------------------------|----------|---------------------|----------------------------|-------------------------|----------------------------|
-| Outcome measure                                                                      | Month    | Sham (n=238)        | Ranibizumab 0.5 mg (n=240) | Verteporfin PDT (n=143) | Ranibizumab 0.5 mg (n=140) |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                 | 95%                        | 64%                     | 96%                        |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                 | 90%                        | 66%                     | 90%                        |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                  | 34%                        | 6%                      | 40%                        |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                  | 33%                        | 6%                      | 41%                        |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5 (16.6)        | +7.2 (14.4)                | -9.5 (16.4)             | +11.3 (14.6)               |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                | -9.8 (17.6)             | +10.7 (16.5)               |
+| Outcome measure                                                                      | Month    | FVF2598g (MARINA) - Sham (n=238)   | FVF2598g (MARINA) - Ranibizumab 0.5 mg (n=240)   | FVF2587g (ANCHOR) - Verteporfin PDT (n=143)   | FVF2587g (ANCHOR) - Ranibizumab 0.5 mg (n=140)   |
+|--------------------------------------------------------------------------------------|----------|------------------------------------|--------------------------------------------------|-----------------------------------------------|--------------------------------------------------|
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                                | 95%                                              | 64%                                           | 96%                                              |
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                                | 90%                                              | 66%                                           | 90%                                              |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                                 | 34%                                              | 6%                                            | 40%                                              |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                                 | 33%                                              | 6%                                            | 41%                                              |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5 (16.6)                       | +7.2 (14.4)                                      | -9.5 (16.4)                                   | +11.3 (14.6)                                     |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)                       | +6.6 (16.5)                                      | -9.8 (17.6)                                   | +10.7 (16.5)                                     |
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598g (MARINA) and study FVF2587g (ANCHOR)
+
+Study FVF2598g (MARINA)
 
 <!-- image -->
 
@@ -368,7 +361,7 @@ Statistically significant patient-reported visual functioning benefits were obse
 
 In study FVF3192g (PIER), 184 patients with all forms of neovascular AMD were randomised in a 1:1:1 ratio to receive ranibizumab 0.3 mg, ranibizumab 0.5 mg or sham injections once a month for 3 consecutive doses, followed by a dose administered once every 3 months. From Month 14 of the study, sham-treated patients were allowed to receive ranibizumab and from Month 19, more frequent treatments were possible. Patients treated with ranibizumab in PIER received a mean of 10 total treatments.
 
-After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumabtreated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better preservation of visual acuity.
+After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better preservation of visual acuity.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -378,15 +371,15 @@ Data from two studies (MONT BLANC, BPD952A2308 and DENALI, BPD952A2309) conducte
 
 The clinical safety and efficacy of ranibizumab in patients with visual impairment due to CNV in PM have been assessed based on the 12-month data of the double-masked, controlled pivotal study F2301 (RADIANCE). In this study 277 patients were randomised in a 2:2:1 ratio to the following arms:
 
-- Group I (ranibizumab 0.5 mg, dosing regimen driven by 'stability' criteria defined as no change in BCVA compared to two preceding monthly evaluations).
-- Group II (ranibizumab 0.5 mg, dosing regimen driven by 'disease activity' criteria defined as vision impairment attributable to intra- or subretinal fluid or active leakage due to the CNV lesion as assessed by optical coherence tomography and/or fluorescence angiography).
-- Group III (vPDT - patients were allowed to receive ranibizumab treatment as of Month 3). In Group II, which is the recommended posology (see section 4.2), 50.9% of patients required 1 or 2 injections, 34.5% required 3 to 5 injections and 14.7% required 6 to 12 injections over the 12 -month study period. 62.9% of Group II patients did not requir e injections in the second 6 months of the study.
+- Group I (ranibizumab 0.5 mg, dosing regimen driven by \"stability\" criteria defined as no change in BCVA compared to two preceding monthly evaluations).
+- Group II (ranibizumab 0.5 mg, dosing regimen driven by \"disease activity\" criteria defined as vision impairment attributable to intra- or subretinal fluid or active leakage due to the CNV lesion as assessed by optical coherence tomography and/or fluorescence angiography).
+- Group III (vPDT - patients were allowed to receive ranibizumab treatment as of Month 3). In Group II, which is the recommended posology (see section 4.2), 50.9% of patients required 1 or 2 injections, 34.5% required 3 to 5 injections and 14.7% required 6 to 12 injections over the 12-month study period. 62.9% of Group II patients did not require injections in the second 6 months of the study.
 
 The key outcomes from RADIANCE are summarised in Table 2 and Figure 2.
 
 Table 2 Outcomes at Month 3 and 12 (RADIANCE)
 
-|                                                                                   | Group I Ranibizumab 0.5 mg 'vision stability' (n=105)   | Group II Ranibizumab 0.5 mg 'disease activity' (n=116)   | Group III vPDT b (n=55)   |
+|                                                                                   | Group I Ranibizumab 0.5 mg \"vision stability\" (n=105)   | Group II Ranibizumab 0.5 mg \"disease activity\" (n=116)   | Group III vPDT b (n=55)   |
 |-----------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|---------------------------|
 | Month 3                                                                           |                                                         |                                                          |                           |
 | Mean average BCVA change from Month 1 to Month 3 compared to baseline a (letters) | +10.5                                                   | +10.6                                                    | +2.2                      |
@@ -404,7 +397,7 @@ Figure 2 Mean change from baseline BCVA over time to Month 12 (RADIANCE)
 
 The improvement of vision was accompanied by a reduction in central retinal thickness.
 
-Patient-reported benefits were observed with ranibizumab treatment arms over vPDT (pvalue &lt;0.05) in terms of improvement in the composite score and several subscales (general vision, near activities, mental health and dependency) of the NEI VFQ-25.
+Patient-reported benefits were observed with ranibizumab treatment arms over vPDT (p-value &lt;0.05) in terms of improvement in the composite score and several subscales (general vision, near activities, mental health and dependency) of the NEI VFQ-25.
 
 ## Treatment of visual impairment due to CNV (other than secondary to PM and wet AMD)
 
@@ -423,20 +416,22 @@ The mean number of injections given over 12 months was 5.8 in the ranibizumab ar
 
 Table 3 Outcomes at Month 2 (MINERVA)
 
-|                                                                               | Ranibizumab 0.5 mg (n=119)   | Sham (n=59)   |
-|-------------------------------------------------------------------------------|------------------------------|---------------|
-| Mean BCVA change from baseline to Month 2 a                                   | 9.5 letters                  | -0.4 letters  |
-| Patients gaining ≥ 15 letters from baseline or reaching 84 letters at Month 2 | 31.4%                        | 12.3%         |
-| Patients not losing >15 letters from baseline at Month 2                      | 99.2%                        | 94.7%         |
-| Reduction in CSFT b from baseline to Month 2 a                                | 77 µm                        | -9.8 µm       |
+|                                                                              | Ranibizumab 0.5 mg (n=119)   | Sham (n=59)   |
+|------------------------------------------------------------------------------|------------------------------|---------------|
+| Mean BCVA change from baseline to Month 2 a                                  | 9.5 letters                  | -0.4 letters  |
+| Patients gaining ≥15 letters from baseline or reaching 84 letters at Month 2 | 31.4%                        | 12.3%         |
+| Patients not losing >15 letters from baseline at Month 2                     | 99.2%                        | 94.7%         |
+| Reduction in CSFT b from baseline to Month 2 a                               | 77 µm                        | -9.8 µm       |
 
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
 <!-- image -->
 
-Treatment:—oRanibizumab 0.5mg(N=119)
+Treatment:—Ranibizumab 0.5 mg (N=119)
 
-Sham(N=59)
+Sham (N=59)
+
+* Observed mean BCVA may differ from the Least Squares Mean BCVA (applicable only at Month 2)
 
 When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
 
@@ -447,7 +442,7 @@ Table 4 Treatment effect overall and across baseline aetiology subgroups
 | Overall                               |                                    9.9 |                                     178 |
 | Angioid streaks                       |                                   14.6 |                                      27 |
 | Post-inflammatory retinochoroidopathy |                                    6.5 |                                      28 |
-| Central serous chorioretinopathy      |                                    5   |                                      23 |
+| Central serous chorioretinopathy      |                                    5.0 |                                      23 |
 | Idiopathic chorioretinopathy          |                                   11.4 |                                      63 |
 | Miscellaneous aetiologies a           |                                   10.6 |                                      37 |
 
@@ -459,7 +454,7 @@ In the pivotal study G2301 (MINERVA), five adolescent patients aged 12 to 17 yea
 
 The efficacy and safety of ranibizumab have been assessed in three randomised, controlled studies of at least 12 months duration. A total of 868 patients (708 active and 160 control) were enrolled in these studies.
 
-In the phase II study D2201 (RESOLVE), 151 patients were treated with ranibizumab (6 mg/mL, n=51, 10 mg/mL, n=51) or sham (n=49) by monthly intravitreal injections. The mean average change in BCVA from Month 1 to Month 12 compared to baseline was +7.8 (±7.72) letters in the pooled ranibizumab-treated patients (n=102), compared to -0.1 (±9.77) letters for sham-treated patients; and the mean change in BCVA at Month 12 from baseline was 10.3 (±9.1) letters compared to -1.4 (±14.2) letters, respectively (p&lt;0.00 01 for the treatment difference).
+In the phase II study D2201 (RESOLVE), 151 patients were treated with ranibizumab (6 mg/mL, n=51, 10 mg/mL, n=51) or sham (n=49) by monthly intravitreal injections. The mean average change in BCVA from Month 1 to Month 12 compared to baseline was +7.8 (±7.72) letters in the pooled ranibizumab-treated patients (n=102), compared to -0.1 (±9.77) letters for sham-treated patients; and the mean change in BCVA at Month 12 from baseline was 10.3 (±9.1) letters compared to -1.4 (±14.2) letters, respectively (p&lt;0.0001 for the treatment difference).
 
 In the phase III study D2301 (RESTORE), 345 patients were randomised in a 1:1:1 ratio to receive ranibizumab 0.5 mg monotherapy and sham laser photocoagulation, combined ranibizumab 0.5 mg and laser photocoagulation or sham injection and laser photocoagulation. 240 patients, who had previously completed the 12-month RESTORE study, were enrolled in the open-label, multicentre 24-month extension (RESTORE Extension) study. Patients were treated with ranibizumab 0.5 mg pro re nata (PRN) in the same eye as the core study (D2301 RESTORE).
 
@@ -473,7 +468,7 @@ BL=baseline; SE=standard error of mean
 
 <div style=\"page-break-after: always\"></div>
 
-* Difference in least square means, p &lt; 0.0001/0.0004 based on two-sided stratified Cochran-Mantel-Haenszel test
+* Difference in least square means, p&lt;0.0001/0.0004 based on two-sided stratified Cochran-Mantel-Haenszel test
 
 The effect at 12 months was consistent in most subgroups. However, subjects with a baseline BCVA &gt;73 letters and macular oedema with central retinal thickness &lt;300 µm did not appear to benefit from treatment with ranibizumab compared to laser photocoagulation.
 
@@ -507,7 +502,7 @@ In all groups, ranibizumab was administered monthly until BCVA was stable for at
 
 2-3 months. In all groups, monthly treatment was re-initiated upon a decrease in BCVA due to DME progression and continued until stable BCVA was reached again.
 
-The number of scheduled treatment visits after the initial 3 injections, was 13 and 20 for the TE and PRN regimens, respectively. With both TE regimens, more than 70% of patients maintained their BCVA with an average visit frequency of ≥ 2 months.
+The number of scheduled treatment visits after the initial 3 injections, was 13 and 20 for the TE and PRN regimens, respectively. With both TE regimens, more than 70% of patients maintained their BCVA with an average visit frequency of ≥2 months.
 
 The key outcome measures are summarised in Table 6.
 
@@ -521,7 +516,7 @@ Table 6 Outcomes in study D2304 (RETAIN)
 | Gain of ≥15 letters or BCVA ≥84 letters at Month 24(%)    | 25.6                                  | 28.0                                | 30.8                           |
 | Mean number of injections (months 0-23)                   | 12.4                                  | 12.8                                | 10.7                           |
 
-a p&lt;0.0001 for assessment of non -inferiority to PRN
+a p&lt;0.0001 for assessment of non-inferiority to PRN
 
 In DME studies, the improvement in BCVA was accompanied by a reduction over time in mean CSFT in all the treatment groups.
 
@@ -531,32 +526,31 @@ The clinical safety and efficacy of ranibizumab in patients with PDR have been a
 
 Protocol S was a multicentre, randomised, active-controlled, parallel-assignment, non-inferiority phase III study in which 305 patients (394 study eyes) with PDR with or without DME at baseline were enrolled. The study compared ranibizumab 0.5 mg intravitreal injections to standard treatment with PRP. A total of 191 eyes (48.5%) were randomised to ranibizumab 0.5 mg and 203 eyes (51.5%) eyes were randomised to PRP. A total of 88 eyes (22.3%) had baseline DME: 42 (22.0%) and 46 (22.7%) eyes in the ranibizumab and PRP groups, respectively.
 
-In this study, the mean visual acuity change at year 2 was +2.7 letters in the ranibizumab group compared to 0.7 letters in the PRP group. The difference in least square means was 3.5 letters (95% CI: [0.2 to 6.7]).
+In this study, the mean visual acuity change at year 2 was +2.7 letters in the ranibizumab group compared to -0.7 letters in the PRP group. The difference in least square means was 3.5 letters (95% CI: [0.2 to 6.7]).
 
-At year 1, 41.8% of eyes experienced a ≥2 -step improvement in the DRSS when treated with ranibizumab (n=189) compared to 14.6% of eyes treated with PRP (n=199). The estimated difference between ranibizumab and laser was 27.4% (95% CI: [18.9, 35.9]).
+At year 1, 41.8% of eyes experienced a ≥2-step improvement in the DRSS when treated with ranibizumab (n=189) compared to 14.6% of eyes treated with PRP (n=199). The estimated difference between ranibizumab and laser was 27.4% (95% CI: [18.9, 35.9]).
 
 <div style=\"page-break-after: always\"></div>
 
 Table 7 DRSS improvement or worsening of ≥2 or ≥3 steps at year 1 in Protocol S (LOCF Method)
 
-| Categorised change from baseline                                                                                                             | Protocol S                                                                                                                                   | Protocol S                                                                                                                                   | Protocol S                                                                                                                                   |
+| Categorised change from baseline                                                                                                             | Protocol S - Ranibizumab 0.5 mg (N=189)                                                                                                      | Protocol S - PRP (N=199)                                                                                                                     | Protocol S - Difference in proportion (%), CI                                                                                                |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Categorised change from baseline                                                                                                             | Ranibizumab 0.5 mg (N=189)                                                                                                                   | PRP (N=199)                                                                                                                                  | Difference in proportion (%), CI                                                                                                             |
-| ≥2 -step improvement                                                                                                                         | ≥2 -step improvement                                                                                                                         | ≥2 -step improvement                                                                                                                         | ≥2 -step improvement                                                                                                                         |
+| ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          |
 | n (%)                                                                                                                                        | 79 (41.8%)                                                                                                                                   | 29 (14.6%)                                                                                                                                   | 27.4 (18.9, 35.9)                                                                                                                            |
-| ≥3 -step improvement                                                                                                                         | ≥3 -step improvement                                                                                                                         | ≥3 -step improvement                                                                                                                         | ≥3 -step improvement                                                                                                                         |
+| ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          |
 | n (%)                                                                                                                                        | 54 (28.6%)                                                                                                                                   | 6 (3.0%)                                                                                                                                     | 25.7 (18.9, 32.6)                                                                                                                            |
-| ≥2 -step worsening                                                                                                                           | ≥2 -step worsening                                                                                                                           | ≥2 -step worsening                                                                                                                           | ≥2 -step worsening                                                                                                                           |
+| ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            |
 | n (%)                                                                                                                                        | 3 (1.6%)                                                                                                                                     | 23 (11.6%)                                                                                                                                   | -9.9 (-14.7, -5.2)                                                                                                                           |
-| ≥3 -step worsening                                                                                                                           | ≥3 -step worsening                                                                                                                           | ≥3 -step worsening                                                                                                                           | ≥3 -step worsening                                                                                                                           |
+| ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            |
 | n (%)                                                                                                                                        | 1 (0.5%)                                                                                                                                     | 8 (4.0%)                                                                                                                                     | -3.4 (-6.3, -0.5)                                                                                                                            |
 | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. |
 
-At year 1 in the ranibizumab-treated group in Protocol S, ≥2 -step improvement in DRSS was consistent in eyes without DME (39.9%) and with baseline DME (48.8%).
+At year 1 in the ranibizumab-treated group in Protocol S, ≥2-step improvement in DRSS was consistent in eyes without DME (39.9%) and with baseline DME (48.8%).
 
-An analysis of year 2 data from Protocol S demonstrated that 42.3% (n=80) of eyes in the ranibizumabtreated group had ≥2 -step improvement in DRSS from baseline compared with 23.1% (n=46) of eyes in the PRP group. In the ranibizumabtreated group, ≥2 -step improvement in DRSS from baseline was observed in 58.5% (n=24) of eyes with baseline DME and 37.8% (n=56) of eyes without DME.
+An analysis of year 2 data from Protocol S demonstrated that 42.3% (n=80) of eyes in the ranibizumab-treated group had ≥2-step improvement in DRSS from baseline compared with 23.1% (n=46) of eyes in the PRP group. In the ranibizumab-treated group, ≥2-step improvement in DRSS from baseline was observed in 58.5% (n=24) of eyes with baseline DME and 37.8% (n=56) of eyes without DME.
 
-DRSS was also assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin. In a metaanalysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥2 -step improvement in the DRSS at Month 12 when treated with ranibizumab (n=192) vs 14.6% of patients trea ted with laser (n=123). The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]). In the 405 DRSS gradable patients with moderate NPDR or better, a ≥2 -step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
+DRSS was also assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin. In a meta-analysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥2-step improvement in the DRSS at Month 12 when treated with ranibizumab (n=192) vs 14.6% of patients treated with laser (n=123). The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]). In the 405 DRSS gradable patients with moderate NPDR or better, a ≥2-step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
 
 ## Treatment of visual impairment due to macular oedema secondary to RVO
 
@@ -568,14 +562,13 @@ Key outcome measures from BRAVO and CRUISE are summarised in Table 8 and Figures
 
 Table 8 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 
-|                                                                             | BRAVO                           | BRAVO                      | CRUISE                          | CRUISE                     |
-|-----------------------------------------------------------------------------|---------------------------------|----------------------------|---------------------------------|----------------------------|
-|                                                                             | Sham/Ranibizumab 0.5 mg (n=132) | Ranibizumab 0.5 mg (n=131) | Sham/Ranibizumab 0.5 mg (n=130) | Ranibizumab 0.5 mg (n=130) |
-| Mean change in visual acuity at Month 6 a (letters) (SD) (primary endpoint) | 7.3 (13.0)                      | 18.3 (13.2)                | 0.8 (16.2)                      | 14.9 (13.2)                |
-| Mean change in BCVA at Month 12 (letters) (SD)                              | 12.1 (14.4)                     | 18.3 (14.6)                | 7.3 (15.9)                      | 13.9 (14.2)                |
-| Gain of ≥15 letters in visual acuity at Month 6 a (%)                       | 28.8                            | 61.1                       | 16.9                            | 47.7                       |
-| Gain of ≥15 letters in visual acuity at Month 12 (%)                        | 43.9                            | 60.3                       | 33.1                            | 50.8                       |
-| Proportion (%) receiving laser rescue over 12 months                        | 61.4                            | 34.4                       | NA                              | NA                         |
+|                                                                             | BRAVO - Sham/Ranibizumab 0.5 mg (n=132)   | BRAVO - Ranibizumab 0.5 mg (n=131)   | CRUISE - Sham/Ranibizumab 0.5 mg (n=130)   | CRUISE - Ranibizumab 0.5 mg (n=130)   |
+|-----------------------------------------------------------------------------|-------------------------------------------|--------------------------------------|--------------------------------------------|---------------------------------------|
+| Mean change in visual acuity at Month 6 a (letters) (SD) (primary endpoint) | 7.3 (13.0)                                | 18.3 (13.2)                          | 0.8 (16.2)                                 | 14.9 (13.2)                           |
+| Mean change in BCVA at Month 12 (letters) (SD)                              | 12.1 (14.4)                               | 18.3 (14.6)                          | 7.3 (15.9)                                 | 13.9 (14.2)                           |
+| Gain of ≥15 letters in visual acuity at Month 6 a (%)                       | 28.8                                      | 61.1                                 | 16.9                                       | 47.7                                  |
+| Gain of ≥15 letters in visual acuity at Month 12 (%)                        | 43.9                                      | 60.3                                 | 33.1                                       | 50.8                                  |
+| Proportion (%) receiving laser rescue over 12 months                        | 61.4                                      | 34.4                                 | NA                                         | NA                                    |
 
 a p&lt;0.0001for both studies
 
@@ -583,7 +576,7 @@ Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO
 
 <!-- image -->
 
-BL=baseline;SE=standard errorofmean
+BL=baseline; SE=standard error of mean
 
 <div style=\"page-break-after: always\"></div>
 
@@ -591,7 +584,7 @@ Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUIS
 
 <!-- image -->
 
-BL-baseline;SE=standarderrorofmean
+BL= =baseline; SE standard error of mean
 
 In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
@@ -607,19 +600,12 @@ Key outcome measures from BRIGHTER and CRYSTAL are shown in Table 9.
 
 Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 
-|                                                  | BRIGHTER                 | BRIGHTER                         | BRIGHTER      | CRYSTAL                  |
-|--------------------------------------------------|--------------------------|----------------------------------|---------------|--------------------------|
-|                                                  | Ranibizumab 0.5 mg N=180 | Ranibizumab 0.5 mg + Laser N=178 | Laser* N=90   | Ranibizumab 0.5 mg N=356 |
-| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)             | +14.8 (11.13)                    | +6.0 (14.27)  | +12.0 (13.95)            |
-| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)            | +17.3 (12.61)                    | +11.6 (16.09) | +12.1 (18.60)            |
-| Gain of ≥15 letters in BCVA at Month 24 (%)      | 52.8                     | 59.6                             | 43.3          | 49.2                     |
-| Mean number of injections (SD)                   | 11.4                     | 11.3                             | NA            |                          |
-|                                                  | (5.81)                   | (6.02)                           |               | 13.1                     |
-| (Months 0-23)                                    |                          |                                  |               | (6.39)                   |
-
-a p&lt;0.0001for both comparisons in BRIGHTER at Month 6: ranibizumab 0.5 mg vs Laser and ranibizumab 0.5 mg + Laser vs Laser.
-
-b p&lt;0.0001for null hypothesis in CRYSTAL that the mean change at Month 24 from baseline is zero.
+|                                                  | BRIGHTER - Ranibizumab 0.5 mg N=180   | BRIGHTER - Ranibizumab 0.5 mg + Laser N=178   | BRIGHTER - Laser* N=90   | CRYSTAL - Ranibizumab 0.5 mg N=356   |
+|--------------------------------------------------|---------------------------------------|-----------------------------------------------|--------------------------|--------------------------------------|
+| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)                          | +14.8 (11.13)                                 | +6.0 (14.27)             | +12.0 (13.95)                        |
+| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)                         | +17.3 (12.61)                                 | +11.6 (16.09)            | +12.1 (18.60)                        |
+| Gain of ≥15 letters in BCVA at Month 24 (%)      | 52.8                                  | 59.6                                          | 43.3                     | 49.2                                 |
+| Mean number of injections (SD) (Months 0-23)     | 11.4 (5.81)                           | 11.3 (6.02)                                   | NA                       | 13.1 (6.39)                          |
 
 * Starting at Month 6 ranibizumab 0.5 mg treatment was allowed (24 patients were treated with laser only).
 
@@ -639,17 +625,15 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## 5.2 Pharmacokinetic properties
 
-Following monthly intravitreal administration of ranibizumab to patients with neovascular AMD, serum concentrations of ranibizumab were generally low, with maximum levels (Cmax) generally
+Following monthly intravitreal administration of ranibizumab to patients with neovascular AMD, serum concentrations of ranibizumab were generally low, with maximum levels (Cmax) generally below the ranibizumab concentration necessary to inhibit the biological activity of VEGF by 50% (11-27 ng/mL, as assessed in an in vitro cellular proliferation assay). Cmax was dose proportional over the dose range of 0.05 to 1.0 mg/eye. Serum concentrations in a limited number of DME patients indicate that a slightly higher systemic exposure cannot be excluded compared to those observed in neovascular AMD patients. Serum ranibizumab concentrations in RVO patients were similar or slightly higher compared to those observed in neovascular AMD patients.
 
 <div style=\"page-break-after: always\"></div>
-
-below the ranibizumab concentration necessary to inhibit the biological activity of VEGF by 50% (11-27 ng/mL, as assessed in an in vitro cellular proliferation assay). Cmax was dose proportional over the dose range of 0.05 to 1.0 mg/eye. Serum concentrations in a limited number of DME patients indicate that a slightly higher systemic exposure cannot be excluded compared to those observed in neovascular AMD patients. Serum ranibizumab concentrations in RVO patients were similar or slightly higher compared to those observed in neovascular AMD patients.
 
 Based on analysis of population pharmacokinetics and disappearance of ranibizumab from serum for patients with neovascular AMD treated with the 0.5 mg dose, the average vitreous elimination half-life of ranibizumab is approximately 9 days. Upon monthly intravitreal administration of ranibizumab 0.5 mg/eye, serum ranibizumab Cmax, attained approximately 1 day after dosing, is predicted to generally range between 0.79 and 2.90 ng/mL, and Cmin is predicted to generally range between 0.07 and 0.49 ng/mL. Serum ranibizumab concentrations are predicted to be approximately 90,000-fold lower than vitreal ranibizumab concentrations.
 
 ## Renal impairment
 
-No formal studies have been conducted to examine the pharmacokinetics of ranibizumab in patients with renal impairment. In a population pharmacokinetic analysis of neovascular AMD patients, 68% (136 of 200) of patients had renal impairment (46.5% mild [50 -80 mL/min], 20% moderate [30-50 mL/min], and 1.5% severe [&lt;30 mL/min]). In RVO patients, 48.2% (253 of 525) had renal impairment (36.4% mild, 9.5% moderate and 2.3% severe). Systemic clearance was slightly lower, but this was not clinically significant.
+No formal studies have been conducted to examine the pharmacokinetics of ranibizumab in patients with renal impairment. In a population pharmacokinetic analysis of neovascular AMD patients, 68% (136 of 200) of patients had renal impairment (46.5% mild [50-80 mL/min], 20% moderate [30-50 mL/min], and 1.5% severe [&lt;30 mL/min]). In RVO patients, 48.2% (253 of 525) had renal impairment (36.4% mild, 9.5% moderate and 2.3% severe). Systemic clearance was slightly lower, but this was not clinically significant.
 
 ## Hepatic impairment
 
@@ -689,17 +673,19 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light. Prior to use, the unopened vial may be kept at room temperature (25 °C) for up to 48 hours.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+
+Prior to use, the unopened vial may be kept at room temperature (25 °C) for up to 48 hours.
 
 ## 6.5 Nature and contents of container
 
-## Vial-only pack
+Vial-only pack
 
 One vial (type I glass) with a stopper (bromobutyl rubber) containing 0.23 mL sterile solution.
 
-## Vial + filter needle pack
+Vial + filter needle pack
 
-One vial (type I glass) with a stopper (bromobutyl rubber) containing 0.23 mL sterile solution and one sterile, blunt 5 µm filter needle (18G x 1½ ″ , 1.2 mm x 40 mm).
+One vial (type I glass) with a stopper (bromobutyl rubber) containing 0.23 mL sterile solution and one sterile, blunt 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm).
 
 Not all pack sizes may be marketed.
 
@@ -713,8 +699,8 @@ The vial is for single use only. After injection any unused product must be disc
 
 For preparation and intravitreal injection the following medical devices for single use are needed:
 
-- a sterile 5 µm filter needle (18G x 1½ ″ , 1.2 mm x 40 mm)
-- a 1 mL sterile syringe (including a 0.05 mL mark) and an injection needle (30G x ½ ″ , 0.3 mm x 13 mm)
+- a sterile 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm)
+- a 1 mL sterile syringe (including a 0.05 mL mark) and an injection needle (30G x ½″, 0.3 mm x 13 mm)
 
 These medical devices are not included within this pack.
 
@@ -724,17 +710,17 @@ The vial and filter needle are for single use only. Re-use may lead to infection
 
 For preparation and intravitreal injection the following medical devices for single use are needed:
 
-- a sterile 5 µm filter needle (18G x 1½ ″ , 1.2 mm x 40 mm, provided)
-- a 1 mL sterile syringe (including a 0.05 mL mark, not included within this pack) and an injection needle (30G x ½ ″ , 0.3 mm x 13 mm, not included within this pack)
+- a sterile 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm, provided)
+- a 1 mL sterile syringe (including a 0.05 mL mark, not included within this pack) and an injection needle (30G x ½″, 0.3 mm x 13 mm, not included within this pack)
 
-To prepare Ximluci for intravitreal administration to adults , please adhere to the following instructions:
+To prepare Ximluci for intravitreal administration to adults, please adhere to the following instructions:
 
-1. Before withdrawal, remove the vial cap and clean the vial septum (e.g. with 70% alcohol swab) .
-2. Assemble a 5 µm filter needle (18G x 1½ ″ , 1.2 mm x 40 mm) onto a 1 mL syringe using aseptic technique. Push the blunt filter needle into the centre of the vial stopper until the needle touches the bottom edge of the vial.
+1. Before withdrawal, remove the vial cap and clean the vial septum (e.g. with 70% alcohol swab).
+2. Assemble a 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm) onto a 1 mL syringe using aseptic technique. Push the blunt filter needle into the centre of the vial stopper until the needle touches the bottom edge of the vial.
 3. Withdraw all the liquid from the vial, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
 4. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
 5. Leave the blunt filter needle in the vial and disconnect the syringe from the blunt filter needle. The filter needle should be discarded after withdrawal of the vial contents and should not be used for the intravitreal injection.
-6. Aseptically and firmly assemble an injection needle (30G x ½ ″ , 0.3 mm x 13 mm) onto the syringe.
+6. Aseptically and firmly assemble an injection needle (30G x ½″, 0.3 mm x 13 mm) onto the syringe.
 7. Carefully remove the cap from the injection needle without disconnecting the injection needle from the syringe.
 
 Note: Grip at the hub of the injection needle while removing the cap.
@@ -831,7 +817,7 @@ The patient information pack should be provided in both the form of patient info
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -851,7 +837,7 @@ Ranibizumab
 
 Each vial of 0.23 mL solution contains 2.3 mg of ranibizumab (10 mg/mL).
 
-- 2.3 mg/0.23 mL
+2.3 mg/0.23 mL
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -899,7 +885,9 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel
+
+Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -912,7 +900,8 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -952,7 +941,7 @@ trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbat
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 1 vial of 0.23 mL
 
@@ -978,6 +967,8 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
@@ -990,25 +981,26 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/22/1691/002
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -1018,24 +1010,27 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS LABEL
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+LABEL
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Ximluci 10 mg/mL injection ranibizumab Intravitreal use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1044,8 +1039,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2.3 mg/0.23 mL
 
@@ -1066,9 +1061,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1124,7 +1119,7 @@ Talk to your doctor before you are given Ximluci.
 - In some patients the eye pressure may increase for a short period directly after the injection. This is something you may not notice, therefore your doctor may monitor this after each injection.
 - Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Ximluci is the appropriate treatment for you.
 
-Please see section 4 ('Possible side effects') for more detailed information on side effects that could occur during Ximluci therapy.
+Please see section 4 (\"Possible side effects\") for more detailed information on side effects that could occur during Ximluci therapy.
 
 ## Children and adolescents (below 18 years of age)
 
@@ -1156,7 +1151,7 @@ Before the injection, your doctor will wash your eye carefully to prevent infect
 
 The treatment is started with one injection of Ximluci per month. Your doctor will monitor the condition of your eye and, depending on how you respond to the treatment, will decide if and when you need to receive further treatment.
 
-Detailed instructions for use are given at the end of the leaflet under 'How to prepare and administer Ximluci to adults'.
+Detailed instructions for use are given at the end of the leaflet under \"How to prepare and administer Ximluci to adults\".
 
 ## Elderly (age 65 years and over)
 
@@ -1195,11 +1190,13 @@ The symptoms you might experience are:
 
 ## Please tell your doctor immediately if you develop any of these side effects.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other side effects:
 
-Very common (may affect more than 1 in 10 people) Visual side effects include
+## Very common (may affect more than 1 in 10 people)
 
-<div style=\"page-break-after: always\"></div>
+## Visual side effects include
 
 - inflammation of the eye
 - bleeding in the back of the eye (retinal bleeding)
@@ -1223,7 +1220,7 @@ Very common (may affect more than 1 in 10 people) Visual side effects include
 
 ## Common (may affect up to 1 in 10 people)
 
-## Visual side effects include
+Visual side effects include
 
 - decreased sharpness of vision
 - swelling of a section of the eye (uvea, cornea)
@@ -1249,7 +1246,7 @@ Very common (may affect more than 1 in 10 people) Visual side effects include
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-## Visual side effects include
+Visual side effects include
 
 - inflammation and bleeding in the front part of the eye
 - sac of pus on the eye
@@ -1258,11 +1255,16 @@ Very common (may affect more than 1 in 10 people) Visual side effects include
 - abnormal sensation in the eye
 - irritation of the eyelid
 
+<div style=\"page-break-after: always\"></div>
+
+Not known (frequency cannot be estimated from the available data)
+
+- retinal vasculitis (inflammation of blood vessels in the back of the eye)
+- retinal occlusive vasculitis (blockage of blood vessels in the back of the eye, typically in presence of inflammation)
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Ximluci
 
@@ -1292,7 +1294,7 @@ Pack containing one glass vial of ranibizumab with bromobutyl rubber stopper. Th
 
 ## Vial + filter needle pack
 
-Pack containing one glass vial of ranibizumab with bromobutyl rubber stopper and one sterile, blunt 5 µm filter needle (18G x 1½ ″ , 1.2 mm x 40 mm) for withdrawal of the vial contents. All components are for single use only.
+Pack containing one glass vial of ranibizumab with bromobutyl rubber stopper and one sterile, blunt 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm) for withdrawal of the vial contents. All components are for single use only.
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -1300,27 +1302,15 @@ STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien EG (Eurogenerics) NV
-
-Tél/Tel: + 32 4797878
-
-Lietuva UAB 'STADA Baltics' Tel: + 370 52603926
-
-България
-
-STADA Bulgaria EOOD
-
-Te л
-
-.: + 359 29624626
-
-Luxembourg/Luxemburg
-
-EG (Eurogenerics) NV
-
-Tél/Tel: + 32 4797878
-
 <div style=\"page-break-after: always\"></div>
+
+## België/Belgique/Belgien
+
+EG (Eurogenerics) NV Tél/Tel: + 32 4797878
+
+## България
+
+STADA Bulgaria EOOD Teл.: + 359 29624626
 
 ## Česká republika
 
@@ -1336,7 +1326,7 @@ STADAPHARM GmbH Tel: + 49 61016030
 
 ## Eesti
 
-UAB 'STADA Baltics' Tel: + 370 52603926
+UAB \"STADA Baltics\" Tel: + 370 52603926
 
 ## Ελλάδα
 
@@ -1368,15 +1358,15 @@ EG SpA Tel: + 39 028310371
 
 ## Κύπρος
 
-STADA Arzneimittel AG Τηλ : +30 2106664667
+STADA Arzneimittel AG Τηλ: +30 2106664667
 
-## Latvija
+## Lietuva
 
-UAB 'STADA Baltics' Tel: + 370 52603926
+UAB \"STADA Baltics\" Tel: + 370 52603926
 
-## This leaflet was last revised in .
+## Luxembourg/Luxemburg
 
-## Other sources of information
+EG (Eurogenerics) NV Tél/Tel: + 32 4797878
 
 ## Magyarország
 
@@ -1400,7 +1390,9 @@ STADA Arzneimittel GmbH Tel: + 43 136785850
 
 ## Polska
 
-STADA Poland Sp. z.o o. Tel: + 48 227377920
+STADA Poland Sp. z.o o.
+
+Tel: + 48 227377920
 
 ## Portugal
 
@@ -1408,7 +1400,9 @@ Stada, Lda. Tel: + 351 211209870
 
 ## România
 
-STADA M&amp;D SRL Tel: + 40 213160640
+STADA M&amp;D SRL
+
+Tel: + 40 213160640
 
 ## Slovenija
 
@@ -1424,23 +1418,23 @@ STADA PHARMA Slovakia, s.r.o. Tel: + 421 252621933
 
 STADA Nordic ApS, Suomen sivuliike Puh/Tel: + 358 207416888
 
-## Sverige
-
-STADA Nordic ApS Tel: + 45 44859999
-
-## United Kingdom (Northern Ireland)
-
-STADA Arzneimittel AG Tel: +49 61016030
-
-Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu.
+Sverige STADA Nordic ApS Tel: + 45 44859999
 
 <div style=\"page-break-after: always\"></div>
+
+Latvija UAB \"STADA Baltics\" Tel: + 370 52603926
+
+This leaflet was last revised in .
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
 ## THE FOLLOWING INFORMATION IS INTENDED FOR HEALTHCARE PROFESSIONALS ONLY:
 
-Please also refer to section 3 'How Ximluci is given'.
+Please also refer to section 3 \"How Ximluci is given\".
 
 ## How to prepare and administer Ximluci to adults
 
@@ -1460,13 +1454,19 @@ Monitoring for disease activity may include clinical examination, functional tes
 
 If patients are being treated according to a treat-and-extend regimen, once maximum visual acuity is achieved and/or there are no signs of disease activity, the treatment intervals can be extended stepwise until signs of disease activity or visual impairment recur. The treatment interval should be extended by no more than two weeks at a time for wet AMD and may be extended by up to one month at a time for DME. For PDR and RVO, treatment intervals may also be gradually extended, however there are insufficient data to conclude on the length of these intervals. If disease activity recurs, the treatment interval should be shortened accordingly.
 
-The treatment of visual impairment due to CNV should be determined individually per patient based on disease activity. Some patients may only need one injection during the first 12 months; others may need more frequent treatment, including a monthly injection. For CNV secondary to pathologic myopia (PM), many patients may only need one or two injections during the first year.
+The treatment of visual impairment due to CNV should be determined individually per patient based on disease activity. Some patients may only need one injection during the first 12 months; others may
 
-Ximluci and laser photocoagulation in DME and macular oedema secondary to BRVO There is some experience of Ximluci administered concomitantly with laser photocoagulation. When given on the same day, Ximluci should be administered at least 30 minutes after laser photocoagulation. Ximluci can be administered in patients who have received previous laser photocoagulation.
-
-Ximluci and verteporfin photodynamic therapy in CNV secondary to PM
+United Kingdom (Northern Ireland) STADA Arzneimittel AG Tel: +49 61016030
 
 <div style=\"page-break-after: always\"></div>
+
+need more frequent treatment, including a monthly injection. For CNV secondary to pathologic myopia (PM), many patients may only need one or two injections during the first year.
+
+## Ximluci and laser photocoagulation in DME and macular oedema secondary to BRVO
+
+There is some experience of Ximluci administered concomitantly with laser photocoagulation. When given on the same day, Ximluci should be administered at least 30 minutes after laser photocoagulation. Ximluci can be administered in patients who have received previous laser photocoagulation.
+
+## Ximluci and verteporfin photodynamic therapy in CNV secondary to PM
 
 There is no experience of concomitant administration of Ximluci and verteporfin.
 
@@ -1480,9 +1480,9 @@ The vial is for single use only. After injection any unused product must be disc
 
 For preparation and intravitreal injection the following medical devices for single use are needed:
 
-- a sterile 5 µm filter needle (18G x 1½ ″ , 1.2 mm x 40 mm)
+- a sterile 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm)
 - a 1 mL sterile syringe (including a 0.05 mL mark)
-- an injection needle (30G x ½ ″ , 0.3 mm x 13 mm).
+- an injection needle (30G x ½″, 0.3 mm x 13 mm).
 
 These medical devices are not included within the Ximluci pack.
 
@@ -1492,25 +1492,23 @@ All components are sterile and for single use only. Any component with packaging
 
 For preparation and intravitreal injection the following medical devices for single use are needed:
 
-- a sterile 5 µm filter needle (18G x 1½ ″ , 1.2 mm x 40 mm, provided)
+- a sterile 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm, provided)
 - a 1 mL sterile syringe (including a 0.05 mL mark, not included within the Ximluci pack)
-- an injection needle (30G x ½ ″ , 0.3 mm x 13 mm; not included within the Ximluci pack)
+- an injection needle (30G x ½″, 0.3 mm x 13 mm; not included within the Ximluci pack)
 
 To prepare Ximluci for intravitreal administration to adult patients, please adhere to the following instructions:
 
-1. Before withdrawal, remove the vial cap and clean the vial septum (e.g. with 70% alcohol swab ).
-2. Assemble a 5 µm filter needle (18G x 1½ ″ , 1.2 mm x 40 mm) onto a 1 mL syringe using aseptic technique. Push the blunt filter needle into the centre of the vial stopper until the needle touches the bottom edge of the vial.
+1. Before withdrawal, remove the vial cap and clean the vial septum (e.g. with 70% alcohol swab).
+2. Assemble a 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm) onto a 1 mL syringe using aseptic technique. Push the blunt filter needle into the centre of the vial stopper until the needle touches the bottom edge of the vial.
 3. Withdraw all the liquid from the vial, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
-4. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
-5. Leave the blunt filter needle in the vial and disconnect the syringe from the blunt filter needle. The filter needle should be discarded after withdrawal of the vial contents and should not be used for the intravitreal injection.
-
-<!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-6. Aseptically and firmly assemble an injection needle (30G x ½ ″ , 0.3 mm x 13 mm) onto the syringe.
+4. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
+5. Leave the blunt filter needle in the vial and disconnect the syringe from the blunt filter needle. The filter needle should be discarded after withdrawal of the vial contents and should not be used for the intravitreal injection.
+6. Aseptically and firmly assemble an injection needle (30G x ½″, 0.3 mm x 13 mm) onto the syringe.
 7. Carefully remove the cap from the injection needle without disconnecting the injection needle from the syringe.
 
 Note: Grip at the hub of the injection needle while removing the cap.
@@ -1525,6 +1523,30 @@ Note: Do not wipe the injection needle. Do not pull back on the plunger.
 
 <!-- image -->
 
+<!-- image -->
+
 The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. The injection volume of 0.05 mL is then delivered; a different scleral site should be used for subsequent injections.
 
 After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for ranibizumab, the scientific conclusions of PRAC are as follows:
+
+In view of available data on retinal vasculitis with or without occlusion from clinical trials, the literature, spontaneous reports and in view of a plausible mechanism of action, the PRAC Rapporteur considers a causal relationship between ranibizumab and retinal vasculitis with or without occlusion, at least a reasonable possibility.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for ranibizumab the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing ranibizumab is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-26 13:44:00
+document_datetime: 2026-09-30 15:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/comirnaty.html
 document_name: comirnaty.html
 version: success
-processing_time: 0.5421577
-conversion_datetime: 2026-09-02 22:26:12.958084
+processing_time: 0.3743202
+conversion_datetime: 2026-10-01 18:27:28.470983
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.132.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Comirnaty
 
 [RSS](/en/individual-human-medicine.xml/67415)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -186,6 +186,7 @@ More information about the COVID-19 vaccines is available on the [COVID-19 vacci
 
 | **Date**   | **Key developments**                                                                                                                                                                                                                                                                 |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 23/07/2026 | Recommendation to authorise Comirnaty vaccine targeting the XFG variant                                                                                                                                                                                                              |
 | 24/07/2025 | Recommendation to authorise Comirnaty vaccine targeting the LP.8.1 variant                                                                                                                                                                                                           |
 | 19/09/2024 | Recommendation to authorise Comirnaty vaccine targeting the KP.2 variant                                                                                                                                                                                                             |
 | 27/06/2024 | Recommendation to authorise Comirnaty vaccine targeting the JN.1 variant                                                                                                                                                                                                             |
@@ -227,7 +228,7 @@ English (EN) (165.99 KB - PDF)
 
 [View](/en/documents/overview/comirnaty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-592)
+[Other languages (22)](#file-language-dropdown-272)
 
 български (BG) (204.05 KB - PDF)
 
@@ -379,7 +380,7 @@ English (EN) (2.34 MB - PDF)
 
 [View](/en/documents/product-information/comirnaty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-533)
+[Other languages (24)](#file-language-dropdown-142)
 
 български (BG) (5.09 MB - PDF)
 
@@ -552,7 +553,7 @@ English (EN) (138.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-676)
+[Other languages (24)](#file-language-dropdown-11)
 
 български (BG) (145.79 KB - PDF)
 
@@ -1692,7 +1693,7 @@ In the context of these exceptional transparency measures, documents published b
 
 CCI and PPD are redacted here following the principles laid out in the [HMA/EMA guidance document on the identification of personal data and commercially confidential information within the structure of the marketing authorisation application (MAA) dossier](/en/documents/other/heads-medicines-agencies-european-medicines-agency-guidance-document-identification-commercially-confidential-information-personal-data-within-structure-marketing-authorisation-application_en.pdf) . This entails consultation with the Marketing Authorisation Holder (MAH) and a thorough assessment of their justified proposal of redaction by EMA.
 
-In this guidance, Heads of Medicines Agencies (HMA) and the European Medicines Agency (EMA) agreed on a common approach on what should be considered personal data (PD) and CCI in the Marketing Authorisation Application (MAA) dossier of medicinal products for human use. The definition of CCI and PPD and the principles for the redaction of this information are set out from pages 5 to 13.The Annex to the above-mentioned guidance provides a non-exhaustive list of information that may be considered PPD or CCI in each of the modules of the MAA dossier based on the agreed Common Technical Document (CTD) laid out in the [ICH guideline on common technical documents (CTD) for the registration of pharmaceuticals for human use](/en/ich-m4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd-scientific-guideline) .
+In this guidance, Heads of Medicines Agencies (HMA) and the European Medicines Agency (EMA) agreed on a common approach on what should be considered personal data (PD) and CCI in the Marketing Authorisation Application (MAA) dossier of medicinal products for human use. The definition of CCI and PPD and the principles for the redaction of this information are set out from pages 5 to 13.The Annex to the above-mentioned guidance provides a non-exhaustive list of information that may be considered PPD or CCI in each of the modules of the MAA dossier based on the agreed Common Technical Document (CTD) laid out in the [ICH guideline on common technical documents (CTD) for the registration of pharmaceuticals for human use](/en/scientific-guidelines/ich-m4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd) .
 
 As regards the documents published under the exceptional transparency measures, the following pages of the Annex are of relevance:
 
@@ -1720,9 +1721,9 @@ Documents published within the scope of the exceptional transparency measures th
 
 Comirnaty : 2.3.P drug product
 
-English (EN) (3.84 MB - ZIP)
+English (EN) (3.83 MB - ZIP)
 
-**First published:** 25/07/2025 **Last updated:** 19/11/2025
+**First published:** 25/07/2025 **Last updated:** 24/07/2026
 
 [View](/en/documents/other/comirnaty-23p-drug-product_en.zip)
 
@@ -1776,17 +1777,17 @@ English (EN) (8.39 MB - ZIP)
 
 Comirnaty : 3.2.P drug product
 
-English (EN) (93.47 MB - ZIP)
+English (EN) (102.81 MB - ZIP)
 
-**First published:** 20/08/2025 **Last updated:** 26/08/2026
+**First published:** 20/08/2025 **Last updated:** 30/09/2026
 
 [View](/en/documents/other/comirnaty-32p-drug-product_en.zip)
 
 Comirnaty : 3.2.S Drug substance
 
-English (EN) (103.13 MB - ZIP)
+English (EN) (109.75 MB - ZIP)
 
-**First published:** 02/09/2025 **Last updated:** 26/08/2026
+**First published:** 02/09/2025 **Last updated:** 30/09/2026
 
 [View](/en/documents/other/comirnaty-32s-drug-substance_en.zip)
 
@@ -1844,6 +1845,7 @@ English (EN) (813.79 KB - PDF)
 
 - [EMA/PE/0000221583 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000221583)
 - [Comirnaty / Spikevax (previously COVID-19 Vaccine Moderna) - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/comirnaty-spikevax-previously-covid-19-vaccine-moderna)
+- [Study of brand-specific COVID-19 vaccine effectiveness against severe COVID-19 disease in Europe (former COVIDRIVE) - post-authorisation study](https://catalogues.ema.europa.eu/study/49374)
 - [DARWIN EU® Effectiveness of COVID-19 vaccines on severe COVID-19 and post acute outcomes of SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/107616)
 - [Interim Analysis of Myocarditis and Pericarditis Associated with COMIRNATY in Persons Less Than 21 Years of Age - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000600)
 - [Non-Interventional Postmarketing Safety Study to Evaluate the COMIRNATY 2024-2025 Formula (monovalent KP.2) in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000476)
@@ -1851,7 +1853,6 @@ English (EN) (813.79 KB - PDF)
 - [Post Conditional Approval Active Surveillance Study Among Individuals in Europe Receiving the Pfizer-BioNTech Coronavirus Disease 2019 (COVID-19) Vaccine - post-authorisation study](https://catalogues.ema.europa.eu/study/46939)
 - [Human genetics of myocarditis: overall, after mRNA COVID-19 vaccination, and after SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000728)
 - [Non-Interventional Postmarketing Safety Study of the COMIRNATY 2025-2026 Formula (LP.8.1) in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000932)
-- [id.DRIVE (former COVIDRIVE) study of brand-specific COVID-19 vaccine effectiveness against severe COVID-19 disease in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/49374)
 - [Assessment of risk factors for Myocarditis in the United States (US) using Electronic Health Records and Claims data - post-authorisation study](https://catalogues.ema.europa.eu/study/104404)
 - [Post-Authorisation Active Surveillance Study of Myocarditis and Pericarditis Among Individuals in Europe Receiving the Pfizer-BioNTech Coronavirus Disease 2019 (COVID-19) Vaccine - post-authorisation study](https://catalogues.ema.europa.eu/study/47709)
 - [Post-Authorisation Safety Study of Comirnaty Original/Omicron BA.1 and Comirnaty Original/Omicron BA.4-5 in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/199012)
@@ -1872,6 +1873,6 @@ English (EN) (813.79 KB - PDF)
 
 **This page was last updated on**
 
-26/08/2026
+30/09/2026
 
 ## Share this page

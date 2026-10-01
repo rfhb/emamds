@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-10 15:29:09
-document_pages: 32
+document_datetime: 2026-09-29 10:53:40
+document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xbryk-epar-product-information_en.pdf
 document_name: xbryk-epar-product-information_en.pdf
 version: success
-processing_time: 10.0311335
-conversion_datetime: 2025-12-22 17:48:59.006757
+processing_time: 93.8958338
+conversion_datetime: 2026-10-01 18:13:17.374104
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.132.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,17 +34,19 @@ Each vial contains 120 mg of denosumab in approximately 1.7 mL of solution (70 m
 
 Denosumab is a human monoclonal IgG2 antibody produced in a mammalian cell line (Chinese hamster ovary cells) by recombinant DNA technology.
 
-## Excipient with known effects
+## Excipients with known effects
 
 Each 1.7 mL of solution contains 74.8 mg sorbitol (E420).
+
+Each 1.7 mL of solution contains 0.17 mg of polysorbate 20.
 
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Solution for injection (injection).
+Solution for injection (injection).
 
-Clear, colourless to slightly yellow solution with a pH between 4.9 and 5.5 and an osmolality of 266 326 mOsmol/kg and may contain trace amounts of translucent to white proteinaceous particles.
+Clear, colourless to slightly yellow solution with a pH between 4.9 and 5.5 and an osmolality of 266 - 326 mOsmol/kg and may contain trace amounts of translucent to white proteinaceous particles.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -58,7 +60,7 @@ Treatment of adults and skeletally mature adolescents with giant cell tumour of 
 
 Xbryk should be administered under the responsibility of a healthcare professional.
 
-## Posology
+Posology
 
 Supplementation of at least 500 mg calcium and 400 IU vitamin D daily is required in all patients, unless hypercalcaemia is present (see section 4.4).
 
@@ -68,11 +70,11 @@ Prevention of skeletal related events in adults with advanced malignancies invol
 
 ## Giant cell tumour of bone
 
-The recommended dose of Xbryk is 120 mg administered as a single subcutaneous injection once every 4 weeks into the thigh, abdomen or upper arm with additional 120 mg doses on days 8 and 15 of treatment of
+The recommended dose of Xbryk is 120 mg administered as a single subcutaneous injection once every 4
 
 <div style=\"page-break-after: always\"></div>
 
-the first month of therapy.
+weeks into the thigh, abdomen or upper arm with additional 120 mg doses on days 8 and 15 of treatment of the first month of therapy.
 
 Patients in the phase II study who underwent complete resection of giant cell tumour of bone did receive an additional 6 months of treatment following the surgery as per study protocol.
 
@@ -128,7 +130,7 @@ Supplementation with calcium and vitamin D is required in all patients unless hy
 
 ## Hypocalcaemia
 
-Pre-existing hypocalcaemia must be corrected prior to initiating therapy with denosumab.  Hypocalcaemia can occur at any time during therapy with denosumab. Monitoring of calcium levels should be conducted (i) prior to the initial dose of denosumab, (ii) within two weeks after the initial dose, (iii) if suspected symptoms of hypocalcaemia occur (see section 4.8 for symptoms). Additional monitoring of calcium level should be considered during therapy in patients with risk factors for hypocalcaemia, or if otherwise indicated based on the clinical condition of the patient.
+Pre-existing hypocalcaemia must be corrected prior to initiating therapy with denosumab. Hypocalcaemia can occur at any time during therapy with denosumab. Monitoring of calcium levels should be conducted (i) prior to the initial dose of denosumab, (ii) within two weeks after the initial dose, (iii) if suspected symptoms of hypocalcaemia occur (see section 4.8 for symptoms). Additional monitoring of calcium level should be considered during therapy in patients with risk factors for hypocalcaemia, or if otherwise indicated based on the clinical condition of the patient.
 
 Patients should be encouraged to report symptoms indicative of hypocalcaemia. If hypocalcaemia occurs while receiving denosumab, additional calcium supplementation and additional monitoring may be necessary.
 
@@ -151,7 +153,7 @@ The following risk factors should be considered when evaluating a patient's risk
 - concomitant therapies: corticosteroids, chemotherapy, angiogenesis inhibitors, radiotherapy to head and neck.
 - poor oral hygiene, periodontal disease, poorly fitting dentures, pre-existing dental disease, invasive dental procedures (e.g. tooth extractions).
 
-All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups,  and immediately report any oral symptoms such as dental mobility, pain or swelling, or non-healing of sores or discharge during treatment with denosumab. While on treatment, invasive dental procedures should be performed only after careful consideration and be avoided in close proximity to denosumab administration.
+All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling, or non-healing of sores or discharge during treatment with denosumab. While on treatment, invasive dental procedures should be performed only after careful consideration and be avoided in close proximity to denosumab administration.
 
 The management plan of the patients who develop ONJ should be set up in close collaboration between the treating physician and a dentist or oral surgeon with expertise in ONJ. Temporary interruption of denosumab treatment should be considered until the condition resolves and contributing risk factors are mitigated where possible.
 
@@ -189,9 +191,11 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per 120 mg dose,
 
 <div style=\"page-break-after: always\"></div>
 
+This medicinal product contains 0.17 mg of polysorbate 20 in each 1.7 mL vial solution. Polysorbates may cause allergic reactions.
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-## No interaction studies have been performed.
+No interaction studies have been performed.
 
 In clinical trials, denosumab has been administered in combination with standard anti-cancer treatment and in patients previously receiving bisphosphonates. There were no clinically-relevant alterations in trough serum concentration and pharmacodynamics of denosumab (creatinine adjusted urinary N-telopeptide, uNTx/Cr) by concomitant chemotherapy and/or hormone therapy or by previous intravenous bisphosphonate exposure.
 
@@ -225,17 +229,15 @@ Hypocalcaemia has very commonly been reported following denosumab administration
 
 ## Tabulated list of adverse reactions
 
-The following convention has been used for the classification of the adverse reactions based on incidence rates in four phase III, two phase II clinical studies and post-marketing experience (see table 1): very
-
 <div style=\"page-break-after: always\"></div>
 
-common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data. Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
+The following convention has been used for the classification of the adverse reactions based on incidence rates in four phase III, two phase II clinical studies and post-marketing experience (see table 1): very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data. Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1. Adverse reactions reported in patients with advanced malignancies involving bone, multiple myeloma, or with giant cell tumour of bone
 
-| MedDRAsystemorgan class                                                  | Frequency category   | Adverse reactions                                                                               |
+| MedDRA system organ class                                                | Frequency category   | Adverse reactions                                                                               |
 |--------------------------------------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------|
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Common               | Newprimary malignancy 1                                                                         |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Common               | New primary malignancy 1                                                                        |
 | Immune system disorders                                                  | Rare                 | Drug hypersensitivity 1                                                                         |
 | Immune system disorders                                                  | Rare                 | Anaphylactic reaction 1                                                                         |
 | Metabolism and nutrition disorders                                       | Very common          | Hypocalcaemia 1, 2                                                                              |
@@ -250,14 +252,7 @@ Table 1. Adverse reactions reported in patients with advanced malignancies invol
 | Musculoskeletal and connective tissue disorders                          | Common               | Osteonecrosis of the jaw 1                                                                      |
 | Musculoskeletal and connective tissue disorders                          | Uncommon             | Atypical femoral fracture 1                                                                     |
 | Musculoskeletal and connective tissue disorders                          | Not known            | Osteonecrosis of the external auditory canal 3,4                                                |
-
-1  See section Description of selected adverse reactions
-
-2  See section Other special populations
-
-3 See section 4.4
-
-4 Class effect
+| General disorders and administration site conditions                     | Uncommon             | Injection site reactions 5                                                                      |
 
 ## Description of selected adverse reactions
 
@@ -269,13 +264,11 @@ The highest incidence of hypocalcaemia was observed in a phase III trial in pati
 
 In three phase III active-controlled clinical trials in patients with advanced malignancies involving bone, hypocalcaemia was reported in 9.6% of patients treated with denosumab and 5.0% of patients treated with zoledronic acid.
 
-A grade 3 decrease in serum calcium levels was experienced in 2.5% of patients treated with denosumab and 1.2% of patients treated with zoledronic acid. A grade 4 decrease in serum calcium levels was experienced in 0.6% of patients treated with denosumab and 0.2% of patients treated with zoledronic acid (see section 4.4).
-
-In two phase II single-arm clinical trials in patients with giant cell tumour of bone, hypocalcaemia was
-
 <div style=\"page-break-after: always\"></div>
 
-reported in 5.7% of patients. None of the adverse events was considered serious.
+A grade 3 decrease in serum calcium levels was experienced in 2.5% of patients treated with denosumab and 1.2% of patients treated with zoledronic acid. A grade 4 decrease in serum calcium levels was experienced in 0.6% of patients treated with denosumab and 0.2% of patients treated with zoledronic acid (see section 4.4).
+
+In two phase II single-arm clinical trials in patients with giant cell tumour of bone, hypocalcaemia was reported in 5.7% of patients. None of the adverse events was considered serious.
 
 In the post-marketing setting, severe symptomatic hypocalcaemia (including fatal cases) has been reported, with most cases occurring in the first weeks of initiating therapy. Examples of clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (including coma) (see section 4.4). Symptoms of hypocalcaemia in clinical studies included paraesthesias or muscle stiffness, twitching, spasms and muscle cramps.
 
@@ -283,7 +276,7 @@ In the post-marketing setting, severe symptomatic hypocalcaemia (including fatal
 
 In clinical trials, the incidence of ONJ was higher with longer duration of exposure; ONJ has also been diagnosed after stopping treatment with denosumab with the majority of cases occurring within 5 months after the last dose. Patients with prior history of ONJ or osteomyelitis of the jaw, an active dental or jaw condition requiring oral surgery, non-healed dental/oral surgery, or any planned invasive dental procedure were excluded from the clinical trials.
 
-A higher incidence of ONJ among patients treated with denosumab compared to zoledronic acid has been observed in SRE prevention clinical trials. The highest incidence of ONJ was observed in a  phase III trial in patients with multiple myeloma. In the double-blind treatment phase of this trial, ONJ was confirmed in 5.9% of patients treated with denosumab (median exposure of 19.4 months; range 1 - 52) and in 3.2% of patients treated with zoledronic acid. At the completion of the double-blind treatment phase of this trial, the patient-year adjusted incidence of confirmed ONJ in the denosumab group (median exposure of 19.4 months; range 1 - 52), was 2.0 per 100 patient-years during the first year of treatment, 5.0 in the second year, and 4.5 thereafter. The median time to ONJ was 18.7 months (range: 1 - 44).
+A higher incidence of ONJ among patients treated with denosumab compared to zoledronic acid has been observed in SRE prevention clinical trials. The highest incidence of ONJ was observed in a phase III trial in patients with multiple myeloma. In the double-blind treatment phase of this trial, ONJ was confirmed in 5.9% of patients treated with denosumab (median exposure of 19.4 months; range 1 - 52) and in 3.2% of patients treated with zoledronic acid. At the completion of the double-blind treatment phase of this trial, the patient-year adjusted incidence of confirmed ONJ in the denosumab group (median exposure of 19.4 months; range 1 - 52), was 2.0 per 100 patient-years during the first year of treatment, 5.0 in the second year, and 4.5 thereafter. The median time to ONJ was 18.7 months (range: 1 - 44).
 
 In the primary treatment phases of three phase III active-controlled clinical trials in patients with advanced malignancies involving bone, ONJ was confirmed in 1.8% of patients treated with denosumab (median exposure of 12.0 months; range: 0.1 - 40.5) and 1.3% of patients treated with zoledronic acid. Clinical characteristics of these cases were similar between treatment groups. Among patients with confirmed ONJ, most (81% in both treatment groups) had a history of tooth extraction, poor oral hygiene, and/or use of a dental appliance. Most patients were receiving or had received chemotherapy.
 
@@ -295,11 +288,9 @@ A non-randomised, retrospective, observational study in 2 877 patients with canc
 
 In a phase III trial in patients with non-metastatic prostate cancer (a patient population for which denosumab is not indicated), with longer treatment exposure of up to 7 years, the patient-year adjusted incidence of confirmed ONJ was 1.1 per 100 patient-years during the first year of treatment, 3.0 in the second year, and 7.1 thereafter.
 
-In a long-term phase II open-label clinical trial in patients with giant cell tumour of bone (study 6, see section 5.1), ONJ was confirmed in 6.8% of patients, including one adolescent (median number of 34 doses; range 4 - 116). At the completion of the trial, median time on trial including safety follow- up phase was 60.9 months (range: 0 - 112.6). The patient-year adjusted incidence of confirmed ONJ was 1.5 per 100 patient-years overall (0.2 per 100 patient-years during the first year of treatment, 1.5 in the second year, 1.8 in the third year, 2.1 in the fourth year, 1.4 in the fifth year, and 2.2 thereafter). The median time to ONJ was
-
 <div style=\"page-break-after: always\"></div>
 
-## 41 months (range: 11 - 96).
+In a long-term phase II open-label clinical trial in patients with giant cell tumour of bone (study 6, see section 5.1), ONJ was confirmed in 6.8% of patients, including one adolescent (median number of 34 doses; range 4 - 116). At the completion of the trial, median time on trial including safety follow- up phase was 60.9 months (range: 0 - 112.6). The patient-year adjusted incidence of confirmed ONJ was 1.5 per 100 patient-years overall (0.2 per 100 patient-years during the first year of treatment, 1.5 in the second year, 1.8 in the third year, 2.1 in the fourth year, 1.4 in the fifth year, and 2.2 thereafter). The median time to ONJ was 41 months (range: 11 - 96).
 
 Study 7 was conducted to continue to follow subjects with GCTB who were treated in study 6 for an additional 5 or more years. ONJ was reported in 6 patients (11.8%) of the 51 exposed patients with median total 42 doses of denosumab. Three of these cases of ONJ were medically confirmed.
 
@@ -337,15 +328,13 @@ Denosumab was studied in an open-label trial that enrolled 28 skeletally mature 
 
 Clinically significant hypercalcaemia after treatment discontinuation has been reported in the post-marketing setting in paediatric patients (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other special populations
 
 ## Renal impairment
 
-In a clinical study of patients without advanced cancer with severe renal impairment (creatinine clearance &lt; 30 mL/min) or receiving dialysis, there was a greater risk of developing hypocalcaemia in the absence of calcium supplementation. The risk of developing hypocalcaemia during denosumab treatment is greater
-
-<div style=\"page-break-after: always\"></div>
-
-with increasing degree of renal impairment. In a clinical study in patients without advanced cancer, 19% of patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) and 63% of patients receiving dialysis developed hypocalcaemia despite calcium supplementation. The overall incidence of clinically significant hypocalcaemia was 9%.
+In a clinical study of patients without advanced cancer with severe renal impairment (creatinine clearance &lt; 30 mL/min) or receiving dialysis, there was a greater risk of developing hypocalcaemia in the absence of calcium supplementation. The risk of developing hypocalcaemia during denosumab treatment is greater with increasing degree of renal impairment. In a clinical study in patients without advanced cancer, 19% of patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) and 63% of patients receiving dialysis developed hypocalcaemia despite calcium supplementation. The overall incidence of clinically significant hypocalcaemia was 9%.
 
 Accompanying increases in parathyroid hormone have also been observed in patients receiving denosumab with severe renal impairment or receiving dialysis. Monitoring of calcium levels and adequate intake of calcium and vitamin D is especially important in patients with renal impairment (see section 4.4).
 
@@ -375,58 +364,48 @@ Giant cell tumours of bone are characterised by neoplastic stromal cells express
 
 In phase II clinical studies of patients with advanced malignancies involving bone, subcutaneous (SC) dosing of denosumab administered either every 4 weeks (Q4W) or every 12 weeks resulted in a rapid reduction in markers of bone resorption (uNTx/Cr, serum CTx), with median reductions of approximately 80% for uNTx/Cr occurring within 1 week regardless of prior bisphosphonate therapy or baseline uNTx/Cr level. In phase III clinical trials of patients with advanced malignancies involving bone, median uNTx/Cr reductions of approximately 80% were maintained through 49 weeks of denosumab treatment (120 mg every Q4W).
 
-## Immunogenicity
-
 <div style=\"page-break-after: always\"></div>
+
+## Immunogenicity
 
 Anti-denosumab antibodies may develop during denosumab treatment. No apparent correlation of antibody development with pharmacokinetics, clinical response or adverse event has been observed.
 
 ## Clinical efficacy and safety in patients with bone metastases from solid tumours
 
-Efficacy and safety of 120 mg denosumab SC every 4 weeks or 4 mg zoledronic acid (dose-adjusted for reduced renal function) IV every 4 weeks were compared in three randomised, double-blind, activecontrolled studies, in IV-bisphosphonate naï ve patients with advanced malignancies involving bone: adults with breast cancer (study 1), other solid tumours or multiple myeloma (study 2), and castrate-resistant prostate cancer (study 3). Within these active-controlled clinical trials, safety was evaluated in 5,931 patients. Patients with prior history of ONJ or osteomyelitis of the jaw, an active dental or jaw condition requiring oral surgery, non-healed dental/oral surgery, or any planned invasive dental procedure, were not eligible for inclusion in these studies. The primary and secondary endpoints evaluated the occurrence of one or more skeletal related events (SREs). In studies demonstrating superiority of denosumab to zoledronic acid, patients were offered open-label denosumab in a pre-specified 2-year extension treatment phase. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
+Efficacy and safety of 120 mg denosumab SC every 4 weeks or 4 mg zoledronic acid (dose-adjusted for reduced renal function) IV every 4 weeks were compared in three randomised, double-blind, activecontrolled studies, in IV-bisphosphonate naïve patients with advanced malignancies involving bone: adults with breast cancer (study 1), other solid tumours or multiple myeloma (study 2), and castrate-resistant prostate cancer (study 3). Within these active-controlled clinical trials, safety was evaluated in 5,931 patients. Patients with prior history of ONJ or osteomyelitis of the jaw, an active dental or jaw condition requiring oral surgery, non-healed dental/oral surgery, or any planned invasive dental procedure, were not eligible for inclusion in these studies. The primary and secondary endpoints evaluated the occurrence of one or more skeletal related events (SREs). In studies demonstrating superiority of denosumab to zoledronic acid, patients were offered open-label denosumab in a pre-specified 2-year extension treatment phase. An SRE was defined as any of the following: pathologic fracture (vertebral or non-vertebral), radiation therapy to bone (including the use of radioisotopes), surgery to bone, or spinal cord compression.
 
 Denosumab reduced the risk of developing a SRE, and developing multiple SREs (first and subsequent) in patients with bone metastases from solid tumours (see table 2).
 
 Table 2. Efficacy results in patients with advanced malignancies involving bone
 
-|                                         | Study 1 Breast cancer     | Study 1 Breast cancer     | Study 2 Other solid tumours** or multiple myeloma   | Study 2 Other solid tumours** or multiple myeloma   | Study 3 Prostate cancer   | Study 3 Prostate cancer   | Combined advanced cancer   | Combined advanced cancer   |
-|-----------------------------------------|---------------------------|---------------------------|-----------------------------------------------------|-----------------------------------------------------|---------------------------|---------------------------|----------------------------|----------------------------|
-|                                         | Denosumab                 | Zoledronic acid           | Denosumab                                           | Zoledronic acid                                     | Denosumab                 | Zoledronic acid           | Denosumab                  | Zoledronic acid            |
-| N                                       | 1 026                     | 1 020                     | 886                                                 | 890                                                 | 950                       | 951                       | 2 862                      | 2 861                      |
-| First SRE                               |                           |                           |                                                     |                                                     |                           |                           |                            |                            |
-| Median time (months)                    | NR                        | 26.4                      | 20.6                                                | 16.3                                                | 20.7                      | 17.1                      | 27.6                       | 19.4                       |
-| Difference in median time (months)      | NA                        | NA                        | 4.2                                                 | 4.2                                                 | 3.5                       | 3.5                       | 8.2                        | 8.2                        |
-| HR(95%CI) / RRR (%)                     | 0.82 (0.71, 0.95) / 18    | 0.82 (0.71, 0.95) / 18    | 0.84 (0.71, 0.98) / 16                              | 0.84 (0.71, 0.98) / 16                              | 0.82 (0.71, 0.95) / 18    | 0.82 (0.71, 0.95) / 18    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
-| Non- inferiority / Superiority p-values | < 0.0001 † / 0.0101 †     | < 0.0001 † / 0.0101 †     | 0.0007 † / 0.0619 †                                 | 0.0007 † / 0.0619 †                                 | 0.0002 † / 0.0085 †       | 0.0002 † / 0.0085 †       | < 0.0001 / < 0.0001        | < 0.0001 / < 0.0001        |
-| Proportion of patients (%)              | 30.7                      | 36.5                      | 31.4                                                | 36.3                                                | 35.9                      | 40.6                      | 32.6                       | 37.8                       |
-| First and subsequent SRE*               | First and subsequent SRE* | First and subsequent SRE* | First and subsequent SRE*                           | First and subsequent SRE*                           | First and subsequent SRE* | First and subsequent SRE* | First and subsequent SRE*  | First and subsequent SRE*  |
-| Mean number/patien t                    | 0.46                      | 0.60                      | 0.44                                                | 0.49                                                | 0.52                      | 0.61                      | 0.48                       | 0.57                       |
-| Rate ratio (95% CI) / RRR (%)           | 0.77 (0.66, 0.89) / 23    | 0.77 (0.66, 0.89) / 23    | 0.90 (0.77, 1.04) / 10                              | 0.90 (0.77, 1.04) / 10                              | 0.82 (0.71, 0.94) / 18    | 0.82 (0.71, 0.94) / 18    | 0.82 (0.75, 0.89) / 18     | 0.82 (0.75, 0.89) / 18     |
-| Superiority p- value                    | 0.0012 †                  | 0.0012 †                  | 0.1447 †                                            | 0.1447 †                                            | 0.0085 †                  | 0.0085 †                  | < 0.0001                   | < 0.0001                   |
-| SMR per Year                            | 0.45                      | 0.58                      | 0.86                                                | 1.04                                                | 0.79                      | 0.83                      | 0.69                       | 0.81                       |
-| N                                       | 1 026                     | 1 020                     | 886                                                 | 890                                                 | 950                       | 951                       | 2 862                      | 2 861                      |
-| First SREorHCM                          | First SREorHCM            | First SREorHCM            | First SREorHCM                                      | First SREorHCM                                      | First SREorHCM            | First SREorHCM            | First SREorHCM             | First SREorHCM             |
-| Median time (months)                    | NR                        | 25.2                      | 19.0                                                | 14.4                                                | 20.3                      | 17.1                      | 26.6                       | 19.4                       |
-| HR(95%CI) / RRR (%)                     | 0.82 (0.70, 0.95) / 18    | 0.82 (0.70, 0.95) / 18    | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.72, 0.96) / 17    | 0.83 (0.72, 0.96) / 17    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
-| Superiority p-                          | 0.0074                    | 0.0074                    | 0.0215                                              | 0.0215                                              | 0.0134                    | 0.0134                    | < 0.0001                   | < 0.0001                   |
+|                                         | Study 1 Breast cancer - Denosumab   | Study 1 Breast cancer - Zoledronic acid   | Study 2 Other solid tumours** or multiple myeloma - Denosumab   | Study 2 Other solid tumours** or multiple myeloma - Zoledronic acid   | Study 3 Prostate cancer - Denosumab   | Study 3 Prostate cancer - Zoledronic acid   | Combined advanced cancer - Denosumab   | Combined advanced cancer - Zoledronic acid   |
+|-----------------------------------------|-------------------------------------|-------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------|---------------------------------------------|----------------------------------------|----------------------------------------------|
+| N                                       | 1 026                               | 1 020                                     | 886                                                             | 890                                                                   | 950                                   | 951                                         | 2 862                                  | 2 861                                        |
+| First SRE                               | First SRE                           | First SRE                                 | First SRE                                                       | First SRE                                                             | First SRE                             | First SRE                                   | First SRE                              | First SRE                                    |
+| Median time (months)                    | NR                                  | 26.4                                      | 20.6                                                            | 16.3                                                                  | 20.7                                  | 17.1                                        | 27.6                                   | 19.4                                         |
+| Difference in median time (months)      | NA                                  | NA                                        | 4.2                                                             | 4.2                                                                   | 3.5                                   | 3.5                                         | 8.2                                    | 8.2                                          |
+| HR (95% CI) / RRR (%)                   | 0.82 (0.71, 0.95) / 18              | 0.82 (0.71, 0.95) / 18                    | 0.84 (0.71, 0.98) / 16                                          | 0.84 (0.71, 0.98) / 16                                                | 0.82 (0.71, 0.95) / 18                | 0.82 (0.71, 0.95) / 18                      | 0.83 (0.76, 0.90) / 17                 | 0.83 (0.76, 0.90) / 17                       |
+| Non- inferiority / Superiority p-values | < 0.0001 † / 0.0101 †               | < 0.0001 † / 0.0101 †                     | 0.0007 † / 0.0619 †                                             | 0.0007 † / 0.0619 †                                                   | 0.0002 † / 0.0085 †                   | 0.0002 † / 0.0085 †                         | < 0.0001 / < 0.0001                    | < 0.0001 / < 0.0001                          |
+| Proportion of patients (%)              | 30.7                                | 36.5                                      | 31.4                                                            | 36.3                                                                  | 35.9                                  | 40.6                                        | 32.6                                   | 37.8                                         |
+| First and subsequent SRE*               | First and subsequent SRE*           | First and subsequent SRE*                 | First and subsequent SRE*                                       | First and subsequent SRE*                                             | First and subsequent SRE*             | First and subsequent SRE*                   | First and subsequent SRE*              | First and subsequent SRE*                    |
+| Mean number/patien t                    | 0.46                                | 0.60                                      | 0.44                                                            | 0.49                                                                  | 0.52                                  | 0.61                                        | 0.48                                   | 0.57                                         |
+| Rate ratio (95% CI) / RRR (%)           | 0.77 (0.66, 0.89) / 23              | 0.77 (0.66, 0.89) / 23                    | 0.90 (0.77, 1.04) / 10                                          | 0.90 (0.77, 1.04) / 10                                                | 0.82 (0.71, 0.94) / 18                | 0.82 (0.71, 0.94) / 18                      | 0.82 (0.75, 0.89) / 18                 | 0.82 (0.75, 0.89) / 18                       |
+| Superiority p- value                    | 0.0012 †                            | 0.0012 †                                  | 0.1447 †                                                        | 0.1447 †                                                              | 0.0085 †                              | 0.0085 †                                    | < 0.0001                               | < 0.0001                                     |
+| SMR per Year                            | 0.45                                | 0.58                                      | 0.86                                                            | 1.04                                                                  | 0.79                                  | 0.83                                        | 0.69                                   | 0.81                                         |
+| N                                       | 1 026                               | 1 020                                     | 886                                                             | 890                                                                   | 950                                   | 951                                         | 2 862                                  | 2 861                                        |
 
 <div style=\"page-break-after: always\"></div>
 
 |                         | Study 1 Breast cancer   | Study 1 Breast cancer   | Study 2 Other solid tumours** or multiple myeloma   | Study 2 Other solid tumours** or multiple myeloma   | Study 3 Prostate cancer   | Study 3 Prostate cancer   | Combined advanced cancer   | Combined advanced cancer   |
 |-------------------------|-------------------------|-------------------------|-----------------------------------------------------|-----------------------------------------------------|---------------------------|---------------------------|----------------------------|----------------------------|
-| value                   |                         |                         |                                                     |                                                     |                           |                           |                            |                            |
+| First SRE or HCM        | First SRE or HCM        | First SRE or HCM        | First SRE or HCM                                    | First SRE or HCM                                    | First SRE or HCM          | First SRE or HCM          | First SRE or HCM           | First SRE or HCM           |
+| Median time (months)    | NR                      | 25.2                    | 19.0                                                | 14.4                                                | 20.3                      | 17.1                      | 26.6                       | 19.4                       |
+| HR (95% CI) / RRR (%)   | 0.82 (0.70, 0.95) / 18  | 0.82 (0.70, 0.95) / 18  | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.71, 0.97) / 17                              | 0.83 (0.72, 0.96) / 17    | 0.83 (0.72, 0.96) / 17    | 0.83 (0.76, 0.90) / 17     | 0.83 (0.76, 0.90) / 17     |
+| Superiority p- value    | 0.0074                  | 0.0074                  | 0.0215                                              | 0.0215                                              | 0.0134                    | 0.0134                    | < 0.0001                   | < 0.0001                   |
 | First radiation to bone | First radiation to bone | First radiation to bone | First radiation to bone                             | First radiation to bone                             | First radiation to bone   | First radiation to bone   | First radiation to bone    | First radiation to bone    |
 | Median time (months)    | NR                      | NR                      | NR                                                  | NR                                                  | NR                        | 28.6                      | NR                         | 33.2                       |
-| HR(95%CI) / RRR (%)     | 0.74 (0.59, 0.94) / 26  | 0.74 (0.59, 0.94) / 26  | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.66, 0.94) / 22    | 0.78 (0.66, 0.94) / 22    | 0.77 (0.69, 0.87) / 23     | 0.77 (0.69, 0.87) / 23     |
+| HR (95% CI) / RRR (%)   | 0.74 (0.59, 0.94) / 26  | 0.74 (0.59, 0.94) / 26  | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.66, 0.94) / 22    | 0.78 (0.66, 0.94) / 22    | 0.77 (0.69, 0.87) / 23     | 0.77 (0.69, 0.87) / 23     |
 | Superiority p- value    | 0.0121                  | 0.0121                  | 0.0256                                              | 0.0256                                              | 0.0071                    | 0.0071                    | < 0.0001                   | < 0.0001                   |
-
-NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction  † Adjusted p-values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE
-
-endpoints); *Accounts for all skeletal events over time; only events occurring ≥ 21 days after the previous event are counted.
-
-** Including NSCLC, renal cell cancer, colorectal cancer, small cell lung cancer, bladder cancer, head and neck cancer,
-
-GI/genitourinary cancer and others, excluding breast and prostate cancer.
 
 Figure 1. Kaplan-Meier plots of time to first on-study SRE
 
@@ -436,11 +415,13 @@ Disease progression and overall survival with bone metastases from solid tumours
 
 Disease progression was similar between denosumab and zoledronic acid in all three studies and in the prespecified analysis of all three studies combined.
 
-In studies 1, 2 and 3, overall survival was balanced between denosumab and zoledronic acid in patients with advanced malignancies involving bone: patients with breast cancer (hazard ratio and 95% CI was 0.95 [0.81, 1.11]), patients with prostate cancer (hazard ratio and 95% CI was 1.03 [0.91, 1.17]), and patients with other solid tumours or multiple myeloma (hazard ratio and 95% CI was 0.95 [0.83, 1.08]). A post-hoc analysis in study 2 (patients with other solid tumours or multiple myeloma) examined overall survival for the 3 tumour types used for stratification (non-small cell lung cancer, multiple myeloma, and other). Overall survival was longer for denosumab in non-small cell lung cancer (hazard ratio [95% CI] of 0.79 [0.65, 0.95]; n = 702) and longer for zoledronic acid in multiple myeloma (hazard ratio [95% CI] of 2.26 [1.13, 4.50]; n = 180) and similar between denosumab and zoledronic acid in other tumour types (hazard ratio [95% CI] of 1.08 [0.90, 1.30]; n = 894). This study did not control for prognostic factors and anti-neoplastic treatments. In a combined pre-specified analysis from studies 1, 2 and 3, overall survival was similar between denosumab and zoledronic acid (hazard ratio and 95% CI 0.99 [0.91, 1.07]).
-
-Effect on pain
+In studies 1, 2 and 3, overall survival was balanced between denosumab and zoledronic acid in patients with advanced malignancies involving bone: patients with breast cancer (hazard ratio and 95% CI was 0.95 [0.81, 1.11]), patients with prostate cancer (hazard ratio and 95% CI was 1.03 [0.91, 1.17]), and patients with other solid tumours or multiple myeloma (hazard ratio and 95% CI was 0.95 [0.83, 1.08]). A post-hoc analysis in study 2 (patients with other solid tumours or multiple myeloma) examined overall survival for the 3 tumour types used for stratification (non-small cell lung cancer, multiple myeloma, and other). Overall survival was longer for denosumab in non-small cell lung cancer (hazard ratio [95% CI] of 0.79 [0.65, 0.95]; n = 702) and longer for zoledronic acid in multiple myeloma (hazard ratio [95% CI] of 2.26 [1.13, 4.50]; n = 180)
 
 <div style=\"page-break-after: always\"></div>
+
+and similar between denosumab and zoledronic acid in other tumour types (hazard ratio [95% CI] of 1.08 [0.90, 1.30]; n = 894). This study did not control for prognostic factors and anti-neoplastic treatments. In a combined pre-specified analysis from studies 1, 2 and 3, overall survival was similar between denosumab and zoledronic acid (hazard ratio and 95% CI 0.99 [0.91, 1.07]).
+
+## Effect on pain
 
 The time to pain improvement (i.e. ≥ 2-point decrease from baseline in BPI-SF worst pain score) was similar for denosumab and zoledronic acid in each study and the integrated analyses. In a post-hoc analysis of the combined dataset, the median time to worsening pain (&gt; 4-point worst pain score) in patients with mild or no pain at baseline was delayed for denosumab compared to zoledronic acid (198 versus 143 days) (p = 0.0002).
 
@@ -460,18 +441,15 @@ Figure 2. Kaplan-Meier plot for time to first on-study SRE in patients with newl
 
 <!-- image -->
 
-N = number of subjects randomised
-
-Table 3. Efficacy results for denosumab compared to zoledronic acid in patients with newly diagnosed multiple myeloma
-
-|           | Denosumab (N = 859)   | Zoledronic Acid (N = 859)   |
-|-----------|-----------------------|-----------------------------|
-| First SRE | First SRE             | First SRE                   |
+N = number of subjects randomised NE = not estimable HCM = hypercalcaemia of malignancy
 
 <div style=\"page-break-after: always\"></div>
 
+Table 3. Efficacy results for denosumab compared to zoledronic acid in patients with newly diagnosed multiple myeloma
+
 |                                     | Denosumab (N = 859)   | Zoledronic Acid (N = 859)   |
 |-------------------------------------|-----------------------|-----------------------------|
+| First SRE                           |                       |                             |
 | Number of patients who had SREs (%) | 376 (43.8)            | 383 (44.6)                  |
 | Median time to SRE (months)         | 22.8 (14.7, NE)       | 23.98 (16.56, 33.31)        |
 | Hazard ratio (95% CI)               | 0.98 (0.85, 1.14)     | 0.98 (0.85, 1.14)           |
@@ -479,17 +457,13 @@ Table 3. Efficacy results for denosumab compared to zoledronic acid in patients 
 | Mean number of events/patient       | 0.66                  | 0.66                        |
 | Rate ratio (95% CI)                 | 1.01 (0.89, 1.15)     | 1.01 (0.89, 1.15)           |
 | Skeletal morbidity rate per year    | 0.61                  | 0.62                        |
-| FirstSREorHCM                       |                       |                             |
+| First SRE or HCM                    |                       |                             |
 | Median time (months)                | 22.14 (14.26, NE)     | 21.32 (13.86, 29.7)         |
 | Hazard ratio (95% CI)               | 0.98 (0.85, 1.12)     | 0.98 (0.85, 1.12)           |
 | First radiation to bone             |                       |                             |
 | Hazard ratio (95% CI)               | 0.78 (0.53, 1.14)     | 0.78 (0.53, 1.14)           |
 | Overall survival                    |                       |                             |
 | Hazard ratio (95% CI)               | 0.90 (0.70, 1.16)     | 0.90 (0.70, 1.16)           |
-
-NE = not estimable
-
-HCM = hypercalcaemia of malignancy
 
 ## Clinical efficacy and safety in adults and skeletally mature adolescents with giant cell tumour of bone
 
@@ -499,11 +473,9 @@ Study 5 enrolled 37 adult patients with histologically confirmed unresectable or
 
 Study 6 enrolled 535 adult or skeletally mature adolescents with giant cell tumour of bone. Of these patients, 28 were aged 12-17 years. Patients were assigned to one of three cohorts: cohort 1 included patients with surgically unsalvageable disease (e.g. sacral, spinal, or multiple lesions, including pulmonary metastases); cohort 2 included patients with surgically salvageable disease whose planned surgery was associated with severe morbidity (e.g. joint resection, limb amputation, or hemipelvectomy); cohort 3 included patients previously participating in study 5 and rolled over into this study. The primary objective was to evaluate the safety profile of denosumab in patients with giant cell tumour of bone. The secondary outcome measures of the study included time to disease progression (based on investigator assessment) for cohort 1 and proportion of patients without any surgery at month 6 for cohort 2.
 
-In cohort 1 at the final analysis, 28 of the 260 treated patients (10.8%) had disease progression. In cohort 2, 219 of the 238 (92.0%; 95% CI: 87.8%, 95.1%) evaluable patients treated with denosumab had not
-
 <div style=\"page-break-after: always\"></div>
 
-undergone surgery by month 6. Of the 239 subjects in cohort 2 with baseline target lesion location or onstudy location not in lungs or soft tissue, a total of 82 subjects (34.3%) were able to avoid on- study surgery. Overall, efficacy results in skeletally mature adolescents were similar to those observed in adults.
+In cohort 1 at the final analysis, 28 of the 260 treated patients (10.8%) had disease progression. In cohort 2, 219 of the 238 (92.0%; 95% CI: 87.8%, 95.1%) evaluable patients treated with denosumab had not undergone surgery by month 6. Of the 239 subjects in cohort 2 with baseline target lesion location or onstudy location not in lungs or soft tissue, a total of 82 subjects (34.3%) were able to avoid on- study surgery. Overall, efficacy results in skeletally mature adolescents were similar to those observed in adults.
 
 Study 7 enrolled 85 adult patients who were previously enrolled and completed study 6. Patients were allowed to receive denosumab treatment for GCTB, and all patients were followed for 5 years. The primary objective was to evaluate the long-term safety profile of denosumab in patients with giant cell tumour of the bone.
 
@@ -513,7 +485,7 @@ In the final analysis cohorts 1 and 2 combined, a clinically meaningful reductio
 
 ## Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with the reference medicinal  product  containing  denosumab  in  all  subsets  of  the  paediatric  population  in  the  prevention  of skeletal related events in patients with bone metastases and subsets of the paediatric population below the age of 12 in the treatment of giant cell tumour of bone (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with the reference medicinal product containing denosumab in all subsets of the paediatric population in the prevention of skeletal related events in patients with bone metastases and subsets of the paediatric population below the age of 12 in the treatment of giant cell tumour of bone (see section 4.2 for information on paediatric use).
 
 In study 6, denosumab has been evaluated in a subset of 28 adolescent patients (aged 13-17 years) with giant cell tumour of bone who had reached skeletal maturity defined by at least 1 mature long bone (e.g. closed epiphyseal growth plate of the humerus) and body weight ≥ 45 kg. One adolescent patients with surgically unsalvageable disease (N=14) had disease recurrence during initial treatment. Thirteen of the 14 patients with surgically salvageable disease whose planned surgery was associated with severe morbidity had not undergone surgery by month 6.
 
@@ -531,11 +503,9 @@ Denosumab is composed solely of amino acids and carbohydrates as native immunogl
 
 In patients with advanced cancer, who received multiple doses of 120 mg every 4 weeks an approximate 2fold accumulation in serum denosumab concentrations was observed and steady-state was achieved by 6 months, consistent with time-independent pharmacokinetics. In patients with multiple myeloma who received 120 mg every 4 weeks, median trough levels varied by less than 8% between months 6 and 12. In patients with giant cell tumour of bone who received 120 mg every 4 weeks with a loading dose on days 8 and 15, steady-state levels were achieved within the first month of treatment. Between weeks 9 and 49, median trough levels varied by less than 9%. In patients who discontinued 120 mg every 4 weeks, the mean half-life was 28 days (range 14 to 55 days).
 
-A population pharmacokinetic analysis did not indicate clinically significant changes in the systemic exposure of denosumab at steady-state with respect to age (18 to 87 years), race/ethnicity (Blacks, Hispanics, Asians and Caucasians explored), gender or solid tumour types or patients with multiple myeloma. Increasing body weight was associated with decreases in systemic exposure, and vice versa. The
-
 <div style=\"page-break-after: always\"></div>
 
-alterations were not considered clinically-relevant, since pharmacodynamic effects based on bone turnover markers were consistent across a wide range of body weight.
+A population pharmacokinetic analysis did not indicate clinically significant changes in the systemic exposure of denosumab at steady-state with respect to age (18 to 87 years), race/ethnicity (Blacks, Hispanics, Asians and Caucasians explored), gender or solid tumour types or patients with multiple myeloma. Increasing body weight was associated with decreases in systemic exposure, and vice versa. The alterations were not considered clinically-relevant, since pharmacodynamic effects based on bone turnover markers were consistent across a wide range of body weight.
 
 ## Linearity/non-linearity
 
@@ -565,13 +535,11 @@ In mouse bone metastasis models of oestrogen receptor positive and negative huma
 
 Standard tests to investigate the genotoxicity potential of denosumab have not been evaluated, since such tests are not relevant for this molecule. However, due to its character it is unlikely that denosumab has any potential for genotoxicity.
 
-The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
-
-In single and repeated dose toxicity studies in cynomolgus monkeys, denosumab doses resulting in 2.7 to 15 times greater systemic exposure than the recommended human dose had no impact on cardiovascular
-
 <div style=\"page-break-after: always\"></div>
 
-physiology, male or female fertility, or produced specific target organ toxicity.
+The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
+
+In single and repeated dose toxicity studies in cynomolgus monkeys, denosumab doses resulting in 2.7 to 15 times greater systemic exposure than the recommended human dose had no impact on cardiovascular physiology, male or female fertility, or produced specific target organ toxicity.
 
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester of pregnancy, denosumab doses resulting in 9 times greater systemic exposure than the recommended human dose did not induce maternal toxicity or foetal harm during a period equivalent to the first trimester, although foetal lymph nodes were not examined.
 
@@ -599,25 +567,31 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 4 years.
 
-Once removed from the refrigerator, Xbryk may be stored at temperature up to a maximum of 25°C for a single period of up to 60 days, but not exceeding the original expiry date. If not used within this period of up to 60 days, Xbryk may be returned to the refrigerator for 28 days for future use.
-
 <div style=\"page-break-after: always\"></div>
+
+Once removed from the refrigerator, Xbryk may be stored at temperature up to a maximum of 25°C for a single period of up to 60 days, but not exceeding the original expiry date. If not used within this period of up to 60 days, Xbryk may be returned to the refrigerator for 28 days for future use.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C).
+
+Do not freeze.
+
+Keep the vial in the carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
 1.7 mL solution in a single use vial (type I glass) with stopper (chlorobutyl rubber) and seal (aluminium) with flip-off cap.
 
-Pack sizes of one or three. Not all pack sizes may be marketed.
+Pack sizes of one or three.
+
+Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
 - Before administration, the Xbryk solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discoloured.
 - Do not shake.
-- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25º C) before injecting and inject slowly.
+- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25ºC) before injecting and inject slowly.
 - The entire contents of the vial should be injected.
 - A 27 gauge needle is recommended for the administration of denosumab.
 - The vial should not be re-entered.
@@ -626,7 +600,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -644,7 +620,11 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -705,7 +685,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Xbryk 120 mg solution for injection denosumab
+Xbryk 120 mg solution for injection
+
+denosumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -751,12 +733,14 @@ Keep the vial in the carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIALPRECAUTIONSFORDISPOSALOFUNUSEDMEDICINALPRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -786,35 +770,37 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| VIALLABEL                                                  |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
-|------|--------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Xbryk 120 mg injection denosumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.7 mL
 
 | 6.   | OTHER   |
 |------|---------|
+
+26
 
 <div style=\"page-break-after: always\"></div>
 
@@ -824,17 +810,19 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Xbryk 120 mg solution for injection denosumab
+## Xbryk 120 mg solution for injection
+
+denosumab
 
 ▼This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist, or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-- -Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Xbryk.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist, or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Your doctor will give you a patient reminder card, which contains important safety information you need to be aware of before and during your treatment with Xbryk.
 
 ## What is in this leaflet
 
@@ -857,7 +845,7 @@ Xbryk is also used to treat giant cell tumour of bone, which cannot be treated b
 
 ## Do not use Xbryk
 
-- -if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
 
 Your healthcare professional will not administer Xbryk to you if you have a very low level of calcium in your blood which has not been treated.
 
@@ -941,6 +929,10 @@ This medicine contains 74.8 mg sorbitol (E420) in each vial.
 
 This medicine contains less than 1 mmol sodium (23 mg) per 120 mg dose, that is to say essentially 'sodiumfree'.
 
+## Xbryk contains polysorbate
+
+This medicine contains 0.17 mg of polysorbate 20 in each 1.7 mL vial solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
 <div style=\"page-break-after: always\"></div>
 
 ## 3. How to use Xbryk
@@ -984,7 +976,8 @@ Uncommon side effects (may affect up to 1 in 100 people):
 
 - high calcium levels in the blood (hypercalcaemia) after stopping treatment in patients with giant cell tumour of the bone,
 - new or unusual pain in your hip, groin or thigh (this may be an early indication of a possible fracture of the thigh bone),
-- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
+- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions),
+- injection site reactions including pain around the site where the injection was given.
 
 Rare side effects (may affect up to 1 in 1 000 people):
 
@@ -1022,8 +1015,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Xbryk contains
 
-- -The active substance is denosumab. Each vial contains 120 mg of denosumab in 1.7 mL of solution (corresponding to 70 mg/mL).
-- -The other ingredients are histidine, histidine hydrochloride monohydrate, sorbitol (E420), polysorbate 20, water for injections
+- The active substance is denosumab. Each vial contains 120 mg of denosumab in 1.7 mL of solution (corresponding to 70 mg/mL).
+- The other ingredients are histidine, histidine hydrochloride monohydrate, sorbitol (E420), polysorbate 20, water for injections
 
 ## What Xbryk looks like and contents of the pack
 
@@ -1035,21 +1028,140 @@ Each pack contains one or three single use vials. Not all pack sizes may be mark
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft Netherlands
+Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft Netherlands For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
+## België/Belgique/Belgien
+
+Samsung Bioepis NL B.V. Nederland/Pays-Bas/Niederlande Tél/Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## България
+
+Samsung Bioepis NL B.V. Нидерландия Тел.: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Česká republika
+
+Samsung Bioepis NL B.V. Nizozemsko Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Danmark
+
+Samsung Bioepis NL B.V. Holland Tlf: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Deutschland
+
+Samsung Bioepis NL B.V. Niederlande Tel.: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Eesti
+
+Samsung Bioepis NL B.V. Holland Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Ελλάδα
+
+Pharmachim S.A. Τηλ: +30 210 330 3985
+
+## España
+
+Samsung Bioepis NL B.V. Países Bajos Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## France
+
+Samsung Bioepis NL B.V. Pays-Bas Tél: +31 152196122 E-mail: css.sbeu@samsung.com Lietuva Samsung Bioepis NL B.V. Nyderlandai Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Luxembourg/Luxemburg
+
+Samsung Bioepis NL B.V. Holland/Niederlande Tél/Tel: +31 152196122
+
+[E-mail: css.sbeu@samsung.com](mailto:css.sbeu@samsung.com)
+
+## Magyarország
+
+Samsung Bioepis NL B.V. Hollandia Tel.: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Malta
+
+Samsung Bioepis NL B.V. Olanda Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Nederland
+
+Samsung Bioepis NL B.V. Nederland Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Norge
+
+Samsung Bioepis NL B.V. Nederland Tlf: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Österreich
+
+Samsung Bioepis NL B.V. Niederlande Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Polska
+
+Samsung Bioepis NL B.V. Holandia Tel.: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Portugal
+
+Samsung Bioepis NL B.V. Países Baixos Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+<div style=\"page-break-after: always\"></div>
+
+## Hrvatska
+
+Samsung Bioepis NL B.V. Nizozemska Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Ireland
+
+Samsung Bioepis NL B.V. Netherlands Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Ísland
+
+Samsung Bioepis NL B.V. Holland Sími: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Italia
+
+Samsung Bioepis NL B.V. Paesi Bassi Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Kύπρος
+
+Samsung Bioepis NL B.V. Ολλανδία Τηλ: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Latvija
+
+Samsung Bioepis NL B.V. Nīderlande Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-https://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
 ## The following information is intended for healthcare professionals only:
 
 - Before administration, the Xbryk solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discoloured.
 - Do not shake.
-- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25º C) before injecting and inject slowly.
+- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25ºC) before injecting and inject slowly.
+
+## România
+
+Samsung Bioepis NL B.V. Olanda Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Slovenija
+
+Samsung Bioepis NL B.V. Nizozemska Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Slovenská republika
+
+Samsung Bioepis NL B.V. Holandsko Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+## Suomi/Finland
+
+Samsung Bioepis NL B.V. Alankomaat/Nederländerna Puh/Tel: +31 152196122
+
+[E-mail: css.sbeu@samsung.com](mailto:css.sbeu@samsung.com)
+
+## Sverige
+
+Samsung Bioepis NL B.V. Nederländerna Tel: +31 152196122 E-mail: css.sbeu@samsung.com
+
+<div style=\"page-break-after: always\"></div>
+
 - The entire contents of the vial should be injected.
 - A 27 gauge needle is recommended for the administration of denosumab.
 - The vial should not be re-entered.

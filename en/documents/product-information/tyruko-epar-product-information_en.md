@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-06 13:34:32
+document_datetime: 2026-09-25 14:58:37
 document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tyruko-epar-product-information_en.pdf
 document_name: tyruko-epar-product-information_en.pdf
 version: success
-processing_time: 9.8568057
-conversion_datetime: 2026-03-09 14:13:05.488359
+processing_time: 81.2988575
+conversion_datetime: 2026-10-01 18:11:29.417492
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.77.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.5.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.132.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -68,7 +68,7 @@ Therapy is to be initiated and continuously supervised by specialised physicians
 
 <div style=\"page-break-after: always\"></div>
 
-Patients treated with this medicinal product must be given the patient alert card and be informed about the risks of the medicinal product (see also package leaflet). After 2 years of treatment, patients should be re-informed about the risks, especially the increased risk of Progressive Multifocal Leukoencephalopathy (PML), and should be instructed together with their caregivers on early signs and symptoms of PML.
+Patients treated with this medicinal product must be given the Patient Card and be informed about the risks of the medicinal product (see also package leaflet). After 2 years of treatment, patients should be re-informed about the risks, especially the increased risk of Progressive Multifocal Leukoencephalopathy (PML), and should be instructed together with their caregivers on early signs and symptoms of PML.
 
 Resources for the management of hypersensitivity reactions and access to MRI should be available.
 
@@ -152,9 +152,9 @@ Patients who are anti-JCV antibody positive are at an increased risk of developi
 
 In anti-JCV antibody positive natalizumab treated patients who have not used prior immunosuppressants the level of anti-JCV antibody response (index) is associated with the level of risk for PML.
 
-In anti-JCV antibody positive patients, extended interval dosing of natalizumab (average dosing interval of approximately 6 weeks) is suggested to be associated with a lower PML risk compared to approved dosing. If utilising extended interval dosing, caution is required because the efficacy of extended interval dosing has not been established and the associated benefit/risk balance is currently unknown (see section 5.1, Intravenous administration Q6W ). For further information, refer to the Physician Information and Management Guidelines.
+In anti-JCV antibody positive patients, extended interval dosing of natalizumab (average dosing interval of approximately 6 weeks) is suggested to be associated with a lower PML risk compared to approved dosing. If utilising extended interval dosing, caution is required because the efficacy of extended interval dosing has not been established and the associated benefit/risk balance is currently unknown (see section 5.1, Intravenous administration Q6W). For further information, refer to the Healthcare Professional Guide.
 
-Patients considered at high risk treatment with this treatment should only be continued if the benefits outweigh the risks. For the estimation of PML risk in the different patient subgroups, please refer to the Physician Information and Management Guidelines.
+Patients considered at high risk with this treatment should only continue the treatment if the benefits outweigh the risks. For the estimation of PML risk in the different patient subgroups, please refer to the Healthcare Professional Guide.
 
 ## Anti-JCV antibody testing
 
@@ -164,7 +164,7 @@ The anti-JCV antibody assay (ELISA) should not be used to diagnose PML. Use of p
 
 Testing for serum anti-JCV antibody should be performed using a CE-marked IVD with the corresponding intended purpose. If the CE-marked IVD is not available, testing for serum anti-JCV antibody should be performed using an alternative validated test.
 
-For further information on anti-JCV antibody testing please see Physician Information and Management Guidelines.
+For further information on anti-JCV antibody testing please see the Healthcare Professional Guide.
 
 ## MRI screening for PML
 
@@ -174,19 +174,19 @@ Before initiation of treatment with this medicinal product, a recent (usually wi
 
 or
 
-<div style=\"page-break-after: always\"></div>
-
 - Patients with a high anti-JCV antibody index who have received more than 2 years of therapy with this medicinal product and without prior history of immunosuppressant therapy.
 
-Current evidence suggests that the risk of PML is low at low index values and increases substantially at high index values for patients who have been on treatment with natalizumab for longer than 2 years. Index threshold values for low/high PML risk depend on the specific anti-JCV antibody test used (see the Physician Information and Management Guidelines for further information).
+<div style=\"page-break-after: always\"></div>
+
+Current evidence suggests that the risk of PML is low at low index values and increases substantially at high index values for patients who have been on treatment with natalizumab for longer than 2 years. Index threshold values for low/high PML risk depend on the specific anti-JCV antibody test used (see the Healthcare Professional Guide for further information).
 
 PML should be considered as a differential diagnosis in any MS patient taking Tyruko presenting with neurological symptoms and/or new brain lesions in MRI. Cases of asymptomatic PML based on MRI and positive JCV DNA in the cerebrospinal fluid have been reported.
 
-Physicians should refer to the Physician Information and Management Guidelines for further information on managing the risk of PML in natalizumab-treated patients.
+Physicians should refer to the Healthcare Professional Guide for further information on managing the risk of PML in natalizumab-treated patients.
 
 ## If PML or JCV GCN is suspected, further dosing must be suspended until PML has been excluded.
 
-The specialised physician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction and, if so, whether these symptoms are typical of MS or possibly suggestive of PML or JCV GCN. If any doubt exists, further evaluation, including MRI scan preferably with contrast (compared with pre-treatment baseline MRI), CSF testing for JC Viral DNA and repeat neurological assessments, should be considered as described in the Physician Information and Management Guidelines (see Educational guidance). Once the clinician has excluded PML and/or JCV GCN (if necessary, by repeating clinical, imaging and/or laboratory investigations if clinical suspicion remains), dosing may resume.
+The specialised physician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction and, if so, whether these symptoms are typical of MS or possibly suggestive of PML or JCV GCN. If any doubt exists, further evaluation, including MRI scan preferably with contrast (compared with pre-treatment baseline MRI), CSF testing for JC Viral DNA and repeat neurological assessments, should be considered as described in the Healthcare Professional Guide (see Educational guidance). Once the clinician has excluded PML and/or JCV GCN (if necessary, by repeating clinical, imaging and/or laboratory investigations if clinical suspicion remains), dosing may resume.
 
 The physician should be particularly alert to symptoms suggestive of PML or JCV GCN that the patient may not notice (e.g. cognitive, psychiatric symptoms or cerebellar syndrome). Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
 
@@ -196,11 +196,11 @@ If a patient develops PML the dosing of natalizumab must be permanently disconti
 
 Following reconstitution of the immune system in immunocompromised patients with PML improved outcome has been seen.
 
-Based on a retrospective analysis of natalizumab-treated patients since its approval, no difference was observed on 2-year survival after PML diagnosis between patients who received PLEX and those who did not. For other considerations on the management of PML, see the Physician Information and Management Guidelines.
+Based on a retrospective analysis of natalizumab-treated patients since its approval, no difference was observed on 2-year survival after PML diagnosis between patients who received PLEX and those who did not. For other considerations on the management of PML, see the Healthcare Professional Guide.
 
 ## PML and IRIS (Immune Reconstitution Inflammatory Syndrome)
 
-IRIS occurs in almost all PML patients treated with natalizumab after withdrawal or removal of the medicinal product. IRIS is thought to result from the restoration of immune function in patients with PML, which can lead to serious neurological complications and may be fatal. Monitoring for development of IRIS and appropriate treatment of the associated inflammation during recovery from PML should be undertaken (see the Physician Information and Management Guidelines for further information).
+IRIS occurs in almost all PML patients treated with natalizumab after withdrawal or removal of the medicinal product. IRIS is thought to result from the restoration of immune function in patients with PML, which can lead to serious neurological complications and may be fatal. Monitoring for development of IRIS and appropriate treatment of the associated inflammation during recovery from PML should be undertaken (see the Healthcare Professional Guide for further information).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -218,9 +218,9 @@ If a patient receiving this medicinal product develops an opportunistic infectio
 
 ## Educational guidance
 
-All physicians who intend to prescribe the medicinal product must ensure they are familiar with the Physician Information and Management Guidelines.
+All physicians who intend to prescribe the medicinal product must ensure they are familiar with the Healthcare Professional Guide.
 
-Physicians must discuss the benefits and risks of natalizumab therapy with the patient and provide them with a patient alert card. Patients should be instructed that if they develop any infection then they should inform their physician that they are being treated with this medicinal product.
+Physicians must discuss the benefits and risks of natalizumab therapy with the patient and provide them with a Patient Card. Patients should be instructed that if they develop any infection then they should inform their physician that they are being treated with this medicinal product.
 
 Physicians should counsel patients on the importance of uninterrupted dosing, particularly in the early months of treatment (see Hypersensitivity).
 
@@ -288,7 +288,7 @@ If a decision is made to stop treatment with natalizumab, the physician needs to
 
 ## Sodium content
 
-Before dilution, this medicinal product contains 52 mg sodium per vial of medicinal product, equivalent to 2.6% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+Before dilution, this medicinal product contains 52 mg sodium per vial of medicinal product, equivalent to 2.6% of the WHO recommended maximum daily intake of 2 g sodium for an adult. When diluted in 100 ml sodium chloride 9 mg/ml (0.9%), this medicinal product contains 406 mg sodium per dose. To be taken into consideration in case patients are on a controlled sodium diet.
 
 ## Polysorbates content
 
@@ -350,11 +350,10 @@ Adverse reactions arising from clinical studies, post-authorisation safety studi
 
 ## Table 1. Adverse reactions
 
-| MedDRA System Organ                  | Frequency of adverse reactions          | Frequency of adverse reactions   | Frequency of adverse reactions                                       | Frequency of adverse reactions         | Frequency of adverse reactions                                                                 |
-|--------------------------------------|-----------------------------------------|----------------------------------|----------------------------------------------------------------------|----------------------------------------|------------------------------------------------------------------------------------------------|
-| Class                                | Very Common                             | Common                           | Uncommon                                                             | Rare                                   | Not known                                                                                      |
-| Infections and infestations          | Nasopharyngitis Urinary tract infection | Herpes infection                 | Progressive multifocal leukoencephalopathy                           | Herpes ophthalmic                      | Meningoencephalitis herpetic JC virus granule cell neuropathy Necrotising herpetic retinopathy |
-| Blood and lymphatic system disorders |                                         | Anaemia                          | Thrombocytopenia, Immune thrombocytopenic purpura (ITP) Eosinophilia | Haemolytic anaemia Nucleated red cells |                                                                                                |
+| MedDRA - System Organ Class          | Frequency of adverse reactions - Very Common   | Frequency of adverse reactions - Common   | Frequency of adverse reactions - Uncommon                            | Frequency of adverse reactions - Rare   | Frequency of adverse reactions - Not known                                                     |
+|--------------------------------------|------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------|
+| Infections and infestations          | Nasopharyngitis Urinary tract infection        | Herpes infection                          | Progressive multifocal leukoencephalopathy                           | Herpes ophthalmic                       | Meningoencephalitis herpetic JC virus granule cell neuropathy Necrotising herpetic retinopathy |
+| Blood and lymphatic system disorders |                                                | Anaemia                                   | Thrombocytopenia, Immune thrombocytopenic purpura (ITP) Eosinophilia | Haemolytic anaemia Nucleated red cells  |                                                                                                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -453,7 +452,7 @@ In MS, lesions are believed to occur when activated T-lymphocytes cross the bloo
 
 ## AFFIRM clinical study
 
-Efficacy as monotherapy has been evaluated in one randomised, double-blind, placebo-controlled study lasting 2 years (AFFIRM study) in RRMS patients who had experienced at least 1 clinical relapse during the year prior to entry and had a Kurtzke Expanded Disability Status Scale (EDSS) score between 0 and 5. Median age was 37 years, with a median disease duration of 5 years. The patients were randomised with a 2:1 ratio to receive natalizumab-300 mg (n = 627) or placebo (n = 315) every 4 weeks for up to 30 infusions. Neurological evaluations were performed every 12 weeks and at times of suspected relapse. MRI evaluations for T1-weighted gadolinium (Gd)enhancing lesions and T2-hyperintense lesions were performed annually.
+Efficacy as monotherapy has been evaluated in one randomised, double-blind, placebo-controlled study lasting 2 years (AFFIRM study) in RRMS patients who had experienced at least 1 clinical relapse during the year prior to entry and had a Kurtzke Expanded Disability Status Scale (EDSS) score between 0 and 5. Median age was 37 years, with a median disease duration of 5 years. The patients were randomised with a 2:1 ratio to receive natalizumab-300 mg (n = 627) or placebo (n = 315) every 4 weeks for up to 30 infusions. Neurological evaluations were performed every 12 weeks and at times of suspected relapse. MRI evaluations for T1-weighted gadolinium (Gd)- enhancing lesions and T2-hyperintense lesions were performed annually.
 
 Study features and results are presented in the Table 2.
 
@@ -464,39 +463,39 @@ Study features and results are presented in the Table 2.
 | Treatment                                          | Placebo / Natalizumab 300 mg i.v. every 4 weeks                                            | Placebo / Natalizumab 300 mg i.v. every 4 weeks                                            |
 | One year endpoint                                  | Relapse rate                                                                               | Relapse rate                                                                               |
 | Two year endpoint                                  | Progression on EDSS                                                                        | Progression on EDSS                                                                        |
-| Secondary endpoints                                | Relapse rate derived variables / MRI-derived variables                                     | Relapse rate derived variables / MRI-derived variables                                     |
+| Secondary endpoints                                | Relapse rate derived variables /                                                           | MRI-derived variables                                                                      |
 | Subjects                                           | Placebo                                                                                    | Natalizumab                                                                                |
 | Randomised                                         | 315                                                                                        | 627                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Completing 1 years                                              | 296                                           | 609                                           |
-|-----------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Completing 2 years                                              | 285                                           | 589                                           |
-| Age yrs, median (range)                                         | 37 (19-50)                                    | 36 (18-50)                                    |
-| MS-history yrs, median (range)                                  | 6.0 (0-33)                                    | 5.0 (0-34)                                    |
-| Time since diagnosis, yrs median (range)                        | 2.0 (0-23)                                    | 2.0 (0-24)                                    |
-| Relapses in previous 12 months, median (range)                  | 1.0 (0-5)                                     | 1.0 (0-12)                                    |
-| EDSS-baseline, median (range)                                   | 2 (0-6.0)                                     | 2 (0-6.0)                                     |
-| RESULTS                                                         | RESULTS                                       | RESULTS                                       |
-| Annual relapse rate                                             | Annual relapse rate                           | Annual relapse rate                           |
-| After one year (primary endpoint)                               | 0.805                                         | 0.261                                         |
-| After two years                                                 | 0.733                                         | 0.235                                         |
-| One year                                                        | Rate ratio 0.33 CI 95% 0.26 ; 0.41            | Rate ratio 0.33 CI 95% 0.26 ; 0.41            |
-| Two years                                                       | Rate ratio 0.32 CI 95% 0.26 ; 0.40            | Rate ratio 0.32 CI 95% 0.26 ; 0.40            |
-| Relapse free                                                    | Relapse free                                  | Relapse free                                  |
-| After one year                                                  | 53%                                           | 76%                                           |
-| After two years                                                 | 41%                                           | 67%                                           |
-| Disability                                                      | Disability                                    | Disability                                    |
-| Proportion progressed 1 (12-week confirmation; primary outcome) | 29%                                           | 17%                                           |
-| Proportion progressed 1 (12-week confirmation; primary outcome) | Hazard ratio 0.58, CI 95% 0.43; 0.73, p<0.001 | Hazard ratio 0.58, CI 95% 0.43; 0.73, p<0.001 |
-| Proportion progressed 1 (24-week confirmation)                  | 23%                                           | 11%                                           |
-| Proportion progressed 1 (24-week confirmation)                  | Hazard ratio 0.46, CI 95% 0.33; 0.64, p<0.001 | Hazard ratio 0.46, CI 95% 0.33; 0.64, p<0.001 |
-| MRI (0-2 years)                                                 | MRI (0-2 years)                               | MRI (0-2 years)                               |
-| Median %change in T2- hyperintense lesion volume                | +8.8%                                         | -9.4% (p<0.001)                               |
-| Mean number of new or newly- enlarging T2-hyperintense lesions  | 11.0                                          | 1.9 (p<0.001)                                 |
-| Mean number of T1-hypointense lesions                           | 4.6                                           | 1.1 (p<0.001)                                 |
-| Mean number of Gd-enhancing lesions                             | 1.2                                           | 0.1 (p<0.001)                                 |
+| Completing 1 years                                                                    | 296                                          | 609                                          |
+|---------------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|
+| Table 2. AFFIRM study: Main features Completing 2 years                               | results 285                                  | 589                                          |
+| Age yrs, median (range)                                                               | 37 (19-50)                                   | 36 (18-50)                                   |
+| MS-history yrs, median (range)                                                        | 6.0 (0-33)                                   | 5.0 (0-34)                                   |
+| Time since diagnosis, yrs median (range)                                              | 2.0 (0-23)                                   | 2.0 (0-24)                                   |
+| Relapses in previous 12 months, median (range)                                        | 1.0 (0-5)                                    | 1.0 (0-12)                                   |
+| EDSS-baseline, median (range)                                                         | 2 (0-6.0)                                    | 2 (0-6.0)                                    |
+| RESULTS                                                                               | RESULTS                                      | RESULTS                                      |
+| Annual relapse rate                                                                   | Annual relapse rate                          | Annual relapse rate                          |
+| After one year (primary endpoint)                                                     | 0.805                                        | 0.261                                        |
+| After two years                                                                       | 0.733                                        | 0.235                                        |
+| One year                                                                              | Rate ratio 0.33 CI95% 0.26 ; 0.41            | Rate ratio 0.33 CI95% 0.26 ; 0.41            |
+| Two years                                                                             | Rate ratio 0.32 CI95% 0.26 ; 0.40            | Rate ratio 0.32 CI95% 0.26 ; 0.40            |
+| Relapse free                                                                          | Relapse free                                 | Relapse free                                 |
+| After one year                                                                        | 53%                                          | 76%                                          |
+| After two years                                                                       | 41%                                          | 67%                                          |
+| Disability                                                                            | Disability                                   | Disability                                   |
+| Proportion progressed 1 (12-week confirmation; primary outcome)                       | 29%                                          | 17%                                          |
+|                                                                                       | Hazard ratio 0.58, CI95% 0.43; 0.73, p<0.001 | Hazard ratio 0.58, CI95% 0.43; 0.73, p<0.001 |
+| Proportion progressed 1 (24-week confirmation)                                        | 23%                                          | 11%                                          |
+|                                                                                       | Hazard ratio 0.46, CI95% 0.33; 0.64, p<0.001 | Hazard ratio 0.46, CI95% 0.33; 0.64, p<0.001 |
+| MRI (0-2 years)                                                                       | MRI (0-2 years)                              | MRI (0-2 years)                              |
+| Median % change in T2- hyperintense lesion volume                                     | +8.8%                                        | -9.4% (p<0.001)                              |
+| Mean number of new or newly- enlarging T2-hyperintense lesions                        | 11.0                                         | 1.9 (p<0.001)                                |
+| Mean number of T1-hypointense lesions                                                 | 4.6                                          | 1.1 (p<0.001)                                |
+| Mean number of Gd-enhancing lesions Progression of disability was defined as at least | 1.2 point increase on the                    | 0.1 (p<0.001) EDSS >=1.0                     |
 
 In the sub-group of patients indicated for treatment of rapidly evolving RRMS (patients with 2 or more relapses and 1 or more Gd+ lesion), the annualised relapse rate was 0.282 in the natalizumab-treated group (n = 148) and 1.455 in the placebo group (n = 61) (p &lt;0.001). Hazard ratio for disability progression was 0.36 (95% CI: 0.17, 0.76) p = 0.008. These results were obtained from a post hoc analysis and should be interpreted cautiously. No information on the severity of the relapses before inclusion of patients in the study is available.
 
@@ -520,7 +519,7 @@ In a pre-specified, retrospective analysis of US anti-JCV antibody positive nata
 
 Efficacy has been modelled for patients who switch to longer dosing after ≥1 year of approved dosing with this medicinal product under intravenous administration and who did not experience a relapse in the year prior to switching. Current pharmacokinetic/pharmacodynamic statistical modelling and simulation indicate that the risk of MS disease activity for patients switching to longer dosing intervals may be higher for patients with dosing intervals ≥7 weeks. No prospective clinical studies have been completed to validate these findings.
 
-The efficacy of natalizumab when administered with EID has not been established, therefore the benefit/risk balance of EID is unknown (see 'Intravenous administration Q6W' ).
+The efficacy of natalizumab when administered with EID has not been established, therefore the benefit/risk balance of EID is unknown (see \"Intravenous administration Q6W\").
 
 ## Intravenous administration Q6W
 
@@ -528,14 +527,13 @@ Efficacy and safety were evaluated in a prospective, randomized, interventional,
 
 The study randomized 499 subjects aged 18-60, with an EDSS score ≤ 5.5 at screening, who received at least 1 year of natalizumab treatment IV Q4W and were clinically stable (no relapse in the last 12 months, no gadolinium (Gd) enhancing T1 lesions at screening). In the study, subjects who switched to Q6W after at least one year of IV Q4W treatment with natalizumab were evaluated in relation to subjects who continued on IV Q4W treatment.
 
-Baseline demographic subgroups of age, sex, duration of natalizumab exposure, country, body weight, anti-JCV status and number of relapses in the year prior to the first dose, number of relapses while on
+Baseline demographic subgroups of age, sex, duration of natalizumab exposure, country, body weight, anti-JCV status and number of relapses in the year prior to the first dose, number of relapses while on natalizumab, number of prior DMTs, and type of prior DMT were similar between the Q6W and Q4W dosing treatment arms.
 
 <div style=\"page-break-after: always\"></div>
 
-natalizumab, number of prior DMTs, and type of prior DMT were similar between the Q6W and Q4W dosing treatment arms.
-
-| Table 3. NOVA study: Main features and results                                                     | Table 3. NOVA study: Main features and results                                                                            | Table 3. NOVA study: Main features and results                                                                            |
+|                                                                                                    |                                                                                                                           |                                                                                                                           |
 |----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Table 3. NOVA study: Main features and results                                                     | Table 3. NOVA study: Main features and results                                                                            | Table 3. NOVA study: Main features and results                                                                            |
 | Design                                                                                             | Monotherapy; phase 3b prospective, randomized, interventional, controlled, open-label, rater-blinded, international study | Monotherapy; phase 3b prospective, randomized, interventional, controlled, open-label, rater-blinded, international study |
 | Subjects                                                                                           | RRMS (McDonald criteria)                                                                                                  | RRMS (McDonald criteria)                                                                                                  |
 | Treatment administration (part 1)                                                                  | Natalizumab Q4W 300 mg I.V.                                                                                               | Natalizumab Q6W 300 mg I.V.                                                                                               |
@@ -558,17 +556,17 @@ natalizumab, number of prior DMTs, and type of prior DMT were similar between th
 | Proportion of subjects free of relapse**                                                           | 97.6%                                                                                                                     | 96.9%                                                                                                                     |
 | Proportion free of 24-week confirmed EDSS worsening                                                | 92%                                                                                                                       | 90%                                                                                                                       |
 
-- a  mITT population, which included all randomized participants who received at least 1 dose of study treatment (natalizumab SID or natalizumab EID) and had at least 1 postbaseline result from the following clinical efficacy assessments: MRI efficacy assessments, relapses, EDSS, 9-HPT, T25FW, SDMT, TSQM, CGI scale.
+- a mITT population, which included all randomized participants who received at least 1 dose of study treatment (natalizumab SID or natalizumab EID) and had at least 1 postbaseline result from the following clinical efficacy assessments: MRI efficacy assessments, relapses, EDSS, 9-HPT, T25FW, SDMT, TSQM, CGI scale.
 - b Estimated using negative binomial regression with treatment as classification and baseline body weight (≤ 80 vs &gt; 80 kg), duration of natalizumab exposure at baseline (≤ 3 vs &gt; 3 years), and region (North America, the UK, Europe and Israel, and Australia) as covariates.
-- c Observed lesions are included for analysis regardless of intercurrent events, and missing values due to efficacy or safety (6 subjects switched to Q4W dosing and 1 subject each on Q6W and Q4W dosing discontinued treatment)  are imputed by the worst case of subjects on treatment at the same visit in the same treatment group or otherwise  via multiple imputation.
-* The numerical difference seen in the N/NE lesions between the two treatment groups was driven by a high number  of lesions occurring in two subjects in the Q6W arm - one subject who developed lesions three months after treatment discontinuation and a second subject who was diagnosed with  asymptomatic PML at week 72.
+- c Observed lesions are included for analysis regardless of intercurrent events, and missing values due to efficacy or safety (6 subjects switched to Q4W dosing and 1 subject each on Q6W and Q4W dosing discontinued treatment) are imputed by the worst case of subjects on treatment at the same visit in the same treatment group or otherwise via multiple imputation.
+* The numerical difference seen in the N/NE lesions between the two treatment groups was driven by a high number of lesions occurring in two subjects in the Q6W arm - one subject who developed lesions three months after treatment discontinuation and a second subject who was diagnosed with asymptomatic PML at week 72.
 - ** Relapses - clinical relapses were assessed as defined by new or recurrent neurologic symptoms not associated with fever or infection having a minimum duration of 24 hours.
 
 <div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
-Following the repeat intravenous administration of a 300 mg dose of natalizumab to MS patients, the mean maximum observed serum concentration was 110 ± 52 μg/mL. Mean average steady-state trough natalizumab concentrations over the dosing period ranged from 23 μg/mL to 29 μg/mL in Q4W dosing. At any time, mean trough concentrations for the Q6W regimen were approximately 60 to 70%   lower than for the Q4W regimen. The predicted time to steady state was approximately 24 weeks. Population pharmacokinetic analysis includes 12 studies and 1 781 subjects receiving doses ranging from 1 to 6 mg/kg and fixed doses of 150/300 mg.
+Following the repeat intravenous administration of a 300 mg dose of natalizumab to MS patients, the mean maximum observed serum concentration was 110 ± 52 μg/mL. Mean average steady-state trough natalizumab concentrations over the dosing period ranged from 23 μg/mL to 29 μg/mL in Q4W dosing. At any time, mean trough concentrations for the Q6W regimen were approximately 60 to 70% lower than for the Q4W regimen. The predicted time to steady state was approximately 24 weeks. Population pharmacokinetic analysis includes 12 studies and 1 781 subjects receiving doses ranging from 1 to 6 mg/kg and fixed doses of 150/300 mg.
 
 ## Distribution
 
@@ -672,7 +670,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl
+
+Austria
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -690,7 +690,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE   FOR BATCH RELEASE
+- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
@@ -701,13 +701,17 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers of the biological active substance
 
-Polpharma Biologics S.A. Ul. Trzy Lipy 3 80-172 Gdańsk Poland
+Polpharma Biologics S.A. Ul. Trzy Lipy 3 80-172 Gdańsk
+
+Poland
 
 Polpharma Biologics S.A. Ul. Spoldzielcza 4 05-850 Duchnice, Ozarow Mazowiecki Poland
 
 Name and address of the manufacturer responsible for batch release
 
-Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl
+
+Austria
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -741,36 +745,34 @@ The educational programme is aimed at educating healthcare professionals and pat
 The MAH shall ensure that in each Member State where Tyruko is marketed, all healthcare professionals and patients/carers who are expected to prescribe/use Tyruko have access to/are provided with the educational materials listed below. Prior to implementation, the MAH must agree on the content and format of the educational materials, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
 - Educational materials for HCPs:
-- ˗ Summary of Product Characteristics
-- ˗ Physician Information and Management Guidelines
+- ˗ Healthcare Professional Guide
 - Patient information pack:
-- ˗ Package leaflet
-- ˗ Patient alert card
+- ˗ Patient Card
 - ˗ Treatment initiation and treatment continuation forms
 - ˗ Treatment discontinuation form
 
 These educational materials shall contain the following key elements:
 
-## Physician Information and Management Guidelines:
+## Healthcare Professional Guide:
 
-- Background information on the increased risk of atypical/opportunistic infections, in particular PML, which may occur with Tyruko therapy, including a detailed discussion of data (including epidemiology, aetiology, and pathology ) pertaining to the development of PML in Tyrukotreated patients.
+- Background information on the increased risk of atypical/opportunistic infections, in particular PML, which may occur with Tyruko therapy, including a brief description of the epidemiology, aetiology, and pathology pertaining to the development of PML in Tyruko- treated patients.
 - Information relating to the identification of risk factors for Tyruko-associated PML, including details of the PML risk estimates algorithm summarising PML risk by risk factor (anti-John Cunningham virus [JCV] antibody status, prior IS use, and duration of treatment [by year of treatment]), and stratification of this risk by index value when applicable.
-- Information on extending the dosing interval for PML risk mitigation , including a reminder of the approved dosing schedule.
-- Inclusion of monitoring guidance for MRI and anti-JCV antibody based on PML risk,  including recommended timing, protocols, and interpretation of results.
+- Information on extending the dosing interval for PML risk mitigation, including a reminder of the approved dosing schedule.
+- Inclusion of monitoring guidance for MRI and anti-JCV antibody based on PML risk, including recommended timing and interpretation of results.
+- Information regarding the diagnosis of PML, including principals, clinical assessment (including MRI and laboratory testing), and differentiation between PML and MS.
 
 <div style=\"page-break-after: always\"></div>
 
-- Detail regarding the diagnosis of PML , including principals, clinical assessment (including MRI and laboratory testing), and differentiation between PML and MS.
 - Management recommendations in the event of cases of suspected PML, including considerations on the effectiveness of PLEX treatment and the management of associated IRIS (immune reconstitution inflammatory syndrome).
 - Detail on the prognosis on PML, including information on improved outcomes observed in asymptomatic PML cases.
-- A reminder that irrespective of the presence or absence of PML risk factors, heightened clinical vigilance for PML should be maintained in all patients treated with Tyruko and for 6 months following discontinuation of therapy .
+- A reminder that irrespective of the presence or absence of PML risk factors, heightened clinical vigilance for PML should be maintained in all patients treated with Tyruko and for 6 months following discontinuation of therapy.
 - A reminder on the need to discuss the benefit/risk profile of Tyruko treatment with the patient, and the requirement to provide the patient information pack.
 
-## Patient alert card:
+## Patient Card:
 
 - Reminder to patients to show the card to any doctor and/or caregiver involved with their treatment, and to keep the card with them for 6 months after the last dose of Tyruko treatment.
 - Reminder to patients to read the package leaflet carefully before starting Tyruko, and not to start Tyruko if there is a serious problem with their immune system.
-- Reminder to patients no to take any other long-term medicines for MS while receiving Tyruko.
+- Reminder to patients not to take any other long-term medicines for MS while receiving Tyruko.
 - A description of PML, potential symptoms and management of PML.
 - A reminder of where to report side effects.
 - Details of the patient, treating doctor and date Tyruko was started.
@@ -778,17 +780,17 @@ These educational materials shall contain the following key elements:
 ## Treatment initiation and treatment continuation forms:
 
 - Information on PML and IRIS, including the risk of developing PML during Tyruko treatment stratified by prior treatment with immunosuppressants and JCV infection.
-- Confirmation that the doctor has discussed the risks of PML and the risk of IRIS if treatment is discontinued following suspicion of PML, and confirmation of patient understanding of the risks of PML and that they have received a copy of the treatment initiation form and a patient alert card.
+- Confirmation that the doctor has discussed the risks of PML and the risk of IRIS if treatment is discontinued following suspicion of PML, and confirmation of patient understanding of the risks of PML and that they have received a copy of the treatment initiation form and a Patient Card.
 - Patient details and prescriber name.
-
-The treatment continuation form should contain the elements of the treatment initiation form and, in addition, a statement that the risks of PML increase with duration of treatment and that treatment beyond 24 months carries additional risk.
-
-<div style=\"page-break-after: always\"></div>
+- The treatment continuation form should contain the elements of the treatment initiation form and, in addition, a statement that the risks of PML increase with duration of treatment and that treatment beyond 24 months carries additional risk.
 
 ## Treatment discontinuation form
 
-- Information for the patient that PML has been reported up to 6 months after stopping Tyruko, and to therefore keep the patient alert card with them after treatment discontinuation.
+- Information for the patient that PML has been reported up to 6 months after stopping Tyruko, and to therefore keep the Patient Card with them after treatment discontinuation.
 - Reminder of PML symptoms, and when MRI imaging may be warranted.
+
+<div style=\"page-break-after: always\"></div>
+
 - Reporting of side effects.
 
 <div style=\"page-break-after: always\"></div>
@@ -809,7 +811,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tyruko 300 mg concentrate for solution for infusion natalizumab
+Tyruko 300 mg concentrate for solution for infusion
+
+natalizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -829,7 +833,9 @@ Sodium chloride, Histidine, Histidine monohydrochloride, Polysorbate 80 (E 433) 
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Intravenous use after dilution. After dilution, do not shake.
+Intravenous use after dilution.
+
+After dilution, do not shake.
 
 Read the package leaflet before use.
 
@@ -845,18 +851,25 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-Store in a refrigerator. Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator. Do not freeze.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+Keep the vial in the outer carton in order to protect from light.
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-| 12.   | MARKETING AUTHORISATION NUMBER   |
-|-------|----------------------------------|
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl
+
+Austria
+
+| 12. MARKETING AUTHORISATION NUMBER   |
+|--------------------------------------|
 
 EU/1/23/1745/001
 
@@ -868,7 +881,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -880,8 +894,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -895,7 +909,9 @@ VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTEOF ADMINISTRATION
 
-Tyruko 300 mg sterile concentrate natalizumab
+Tyruko 300 mg sterile concentrate
+
+natalizumab
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -905,7 +921,8 @@ Intravenous use after dilution. Do not shake.
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -919,7 +936,9 @@ Additional information to appear on the fixed part of the label: PC
 
 Information to appear on peel-off label:
 
-Tyruko 300 mg natalizumab
+Tyruko 300 mg
+
+natalizumab
 
 15mL
 
@@ -945,9 +964,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-In addition to this leaflet you will be given a patient alert card. This contains important safety information that you need to know before and during treatment with Tyruko.
+In addition to this leaflet you will be given a Patient Card. This contains important safety information that you need to know before and during treatment with Tyruko.
 
-- Keep this leaflet and the patient alert card. You may need to read them again. Keep the leaflet and patient alert card with you during treatment and for six months after the last dose of thismedicine , as side effects may occur even after you have stopped treatment.
+- Keep this leaflet and the Patient Card. You may need to read them again. Keep the leaflet and Patient Card with you during treatment and for six months after the last dose of thismedicine , as side effects may occur even after you have stopped treatment.
 - If you have any further questions, ask your doctor.
 - If you get any side effects talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
@@ -962,7 +981,7 @@ In addition to this leaflet you will be given a patient alert card. This contain
 
 ## 1. What Tyruko is and what it is used for
 
-Tyruko is used to treat multiple sclerosis (MS) in adults. It contains the active substance natalizumab. This is called a monoclonal antibody .
+Tyruko is used to treat multiple sclerosis (MS) in adults. It contains the active substance natalizumab. This is called a monoclonal antibody.
 
 MS causes inflammation in the brain that damages the nerve cells. This inflammation happens when white blood cells get into the brain and spinal cord. This medicine stops the white blood cells getting through to the brain. This reduces nerve damage caused by MS.
 
@@ -985,10 +1004,10 @@ Before you start treatment with this medicine, it is important that you and your
 ## You must not be given Tyruko
 
 - If you are allergic to natalizumab or any of the other ingredients of this medicine (listed in section 6).
-- If you have been diagnosed with PML ( progressive multifocal leukoencephalopathy ). PML is an uncommon infection of the brain.
+- If you have been diagnosed with PML (progressive multifocal leukoencephalopathy). PML is an uncommon infection of the brain.
 - If your immune system has a serious problem. This may be due to disease (such as HIV), or to a medicine you are taking, or have taken in the past (see below).
-- If you are taking medicines that affect your immune system , including certain other medicines used to treat MS. These medicines cannot be used with Tyruko.
-- If you have cancer (unless it is a type of skin cancer called basal cell carcinoma ).
+- If you are taking medicines that affect your immune system, including certain other medicines used to treat MS. These medicines cannot be used with Tyruko.
+- If you have cancer (unless it is a type of skin cancer called basal cell carcinoma).
 
 ## Warnings and precautions
 
@@ -996,25 +1015,25 @@ You need to discuss with your doctor whether Tyruko is the most suitable treatme
 
 ## Possible brain infection (PML)
 
-Some people receiving this medicine (fewer than 1 in 100) have had an uncommon brain infection called PML ( progressive multifocal leukoencephalopathy ). PML can lead to severe disability or death.
+Some people receiving this medicine (fewer than 1 in 100) have had an uncommon brain infection called PML (progressive multifocal leukoencephalopathy). PML can lead to severe disability or death.
 
 - Before starting treatment, all patients will have blood tests arranged by the doctor for JC virus infection. JC virus is a common virus that does not normally make you ill. However, PML is linked to an increase of JC virus in the brain. The reason for this increase in some patients treated with Tyruko is not clear. Before and during treatment, your doctor will test your blood to check if you have antibodies to the JC virus, which are a sign that you have been infected by the JC virus.
-- Your doctor will arrange a Magnetic Resonance Imaging (MRI) scan , which will be repeated during treatment to rule out PML.
-- The symptoms of PML may be similar to an MS relapse (see section 4, Possible side effects ). You can also get PML up to 6 months after stopping Tyruko treatment.
+- Your doctor will arrange a Magnetic Resonance Imaging (MRI) scan, which will be repeated during treatment to rule out PML.
+- The symptoms of PML may be similar to an MS relapse (see section 4, Possible side effects). You can also get PML up to 6 months after stopping Tyruko treatment.
 - Tell your doctor as soon as possible if you notice your MS getting worse, if you notice any new symptoms while you are on Tyruko treatment or for up to 6 months afterwards.
-- Tell your partner or caregivers about what to look out for (see also section 4, Possible side effects). Some symptoms might be difficult to spot by yourself, such as changes in mood or behaviour, confusion, speech and communication difficulties. If you get any of these, you may need further tests . Keep looking out for symptoms in the 6 months after stopping Tyruko.
+- Tell your partner or caregivers about what to look out for (see also section 4, Possible side effects). Some symptoms might be difficult to spot by yourself, such as changes in mood or behaviour, confusion, speech and communication difficulties. If you get any of these, you may need further tests. Keep looking out for symptoms in the 6 months after stopping Tyruko.
 
 <div style=\"page-break-after: always\"></div>
 
-- Keep the patient alert card you have been given by your doctor. It includes this information. Show it to your partner or caregivers.
+- Keep the Patient Card you have been given by your doctor. It includes this information. Show it to your partner or caregivers.
 
 Three things can increase your risk of PML with Tyruko. If you have two or more of these risk factors, the risk is increased further:
 
 - If you have antibodies to the JC virus in your blood. These are a sign that the virus is in your body. You will be tested before and during Tyruko treatment.
 - If you are treated for a long time with Tyruko, especially if it is more than two years.
-- If you have taken a medicine called an immunosuppressant , that reduces the activity of your immune system.
+- If you have taken a medicine called an immunosuppressant, that reduces the activity of your immune system.
 
-Another condition, called JCV GCN ( JC virus granule cell neuronopathy ), is also caused by JC virus and has occurred in some patients receiving Tyruko. The symptoms of JCV GCN are similar to PML.
+Another condition, called JCV GCN (JC virus granule cell neuronopathy), is also caused by JC virus and has occurred in some patients receiving Tyruko. The symptoms of JCV GCN are similar to PML.
 
 For those with a lower risk of PML, your doctor may repeat the test regularly to check that:
 
@@ -1029,7 +1048,7 @@ PML can be treated, and Tyruko treatment will be stopped. However, some people g
 
 Some infections other than PML may also be serious and can be due to viruses, bacteria, and other causes.
 
-Tell a doctor or nurse immediately if you think you have an infection (see also section 4, Possible side effects ).
+Tell a doctor or nurse immediately if you think you have an infection (see also section 4, Possible side effects).
 
 ## Changes in blood platelets
 
@@ -1043,7 +1062,7 @@ Do not give this medicine to children or adolescents under the age of 18 years.
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines.
 
-- You must not be given this medicine if you are now being treated with medicines that affect your immune system , including certain other medicines to treat your MS.
+- You must not be given this medicine if you are now being treated with medicines that affect your immune system, including certain other medicines to treat your MS.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1075,7 +1094,7 @@ This medicine contains 3.0 mg of polysorbate 80 (E 433) in each vial which is eq
 Tyruko IV infusion will be given to you by a doctor experienced in the treatment of MS. Your doctor may switch you directly from another medicine for MS to Tyruko if there are no problems caused by your previous treatment.
 
 - Your doctor will order blood tests for antibodies to the JC virus and other possible problems.
-- Your doctor will arrange an MRI scan , which will be repeated during treatment.
+- Your doctor will arrange an MRI scan, which will be repeated during treatment.
 - To switch from some MS medicines, your doctor may advise you to wait for a certain time to ensure that most of the previous medicine has left your body.
 - For adults the recommended dose is 300 mg, given once every 4 weeks.
 - Tyruko must be diluted before it is given to you. It is given as a drip into a vein (by intravenous infusion), usually in your arm. This takes about 1 hour.
@@ -1089,7 +1108,7 @@ Regular dosing with Tyruko is important, especially in the first few months of t
 
 ## Checking for allergic reactions
 
-A few patients have had an allergic reaction to this medicine. Your doctor may check for allergic reactions during the infusion and for 1 hour afterwards. See also section 4, Possible side effects .
+A few patients have had an allergic reaction to this medicine. Your doctor may check for allergic reactions during the infusion and for 1 hour afterwards. See also section 4, Possible side effects.
 
 ## If you miss your dose of Tyruko
 
@@ -1118,7 +1137,7 @@ Speak to your doctor or nurse immediately if you notice any of the following.
 - Fever
 - Rash (anywhere on the body)
 
-These symptoms may be caused by an infection of the brain ( encephalitis or PML ) or its covering layer ( meningitis ).
+These symptoms may be caused by an infection of the brain (encephalitis or PML) or its covering layer (meningitis).
 
 ## Signs of other serious infections
 
@@ -1136,7 +1155,7 @@ These symptoms may be caused by an infection of the brain ( encephalitis or PML 
 
 ## Signs of an allergic reaction
 
-- Itchy rash ( hives )
+- Itchy rash (hives)
 - Swelling of your face, lips or tongue
 - Difficulty breathing
 - Chest pain or discomfort
@@ -1150,7 +1169,7 @@ These are most likely during or shortly after the infusion.
 - Unusual darkening of the urine
 - Abnormal liver function test
 
-Speak to a doctor or nurse immediately if you get any of the side effects listed above, or if you think you have an infection. Show your patient alert card and this package leaflet to any doctor or nurse who treats you, not only to your neurologist.
+Speak to a doctor or nurse immediately if you get any of the side effects listed above, or if you think you have an infection. Show your Patient Card and this package leaflet to any doctor or nurse who treats you, not only to your neurologist.
 
 ## Other side effects
 
@@ -1168,23 +1187,23 @@ Speak to a doctor or nurse immediately if you get any of the side effects listed
 ## Common (may affect up to 1 in 10 people)
 
 - Anaemia (decrease in your red blood cells which can make your skin pale and can make you feel breathless or lacking energy)
-- Allergy ( hypersensitivity )
+- Allergy (hypersensitivity)
 - Shivering
-- Itchy rash ( hives )
-- Being sick ( vomiting )
+- Itchy rash (hives)
+- Being sick (vomiting)
 - Fever
-- Difficulty breathing ( dyspnoea)
-- Reddening of the face or body ( flushing )
+- Difficulty breathing (dyspnoea)
+- Reddening of the face or body (flushing)
 - Herpes infections
 - Discomfort around the place you have had your infusion. You could experience bruising, redness, pain, itching or swelling
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- Severe allergy ( anaphylactic reaction )
+- Severe allergy (anaphylactic reaction)
 - Progressive multifocal leukoencephalopathy (PML)
 - Inflammatory disorder after discontinuation of the medicinal product
 - Facial swelling
-- An increase in the number of white blood cells ( eosinophilia )
+- An increase in the number of white blood cells (eosinophilia)
 - Reduction in blood platelets
 - Easy bruising (purpura)
 
@@ -1195,16 +1214,16 @@ Rare (may affect up to 1 in 1 000 people)
 - Herpes infection in the eye
 - Severe anaemia (decrease in your red blood cells which can make your skin pale and can make you feel breathless or lacking energy).
 - Severe swelling under the skin
-- High levels of bilirubin in the blood ( hyperbilirubinaemia ) which may cause symptoms such as yellowing of your eyes or skin, fever and tiredness
+- High levels of bilirubin in the blood (hyperbilirubinaemia) which may cause symptoms such as yellowing of your eyes or skin, fever and tiredness
 
 Not known (frequency cannot be estimated from the available data)
 
-- Unusual infections (so-called ' opportunistic infections ')
+- Unusual infections (so-called \"opportunistic infections\")
 - Damage to your liver
 
-Speak to your doctor as soon as possible if you think you have an infection .
+Speak to your doctor as soon as possible if you think you have an infection.
 
-You will also find this information in the patient alert card you have been given by your doctor.
+You will also find this information in the Patient Card you have been given by your doctor.
 
 ## Reporting of side effects
 
@@ -1234,7 +1253,9 @@ Do not use this medicine if you notice particles in the liquid and/or the liquid
 
 The active substance is natalizumab. Each 15 mL vial of concentrate contains 300 mg natalizumab (20 mg/mL). When diluted, the solution for infusion contains approximately 2.6 mg per mL of natalizumab.
 
-The other ingredients are: Sodium chloride (see section 2 'Tyruko contains sodium') Histidine Histidine monohydrochloride Polysorbate 80 (E 433) (see section 2 'Tyruko contains polysorbates') water for injections
+The other ingredients are: Sodium chloride (see section 2 'Tyruko contains sodium') Histidine Histidine monohydrochloride Polysorbate 80 (E 433) (see section 2 'Tyruko contains polysorbates')
+
+water for injections
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1374,25 +1395,13 @@ Tel: +40 21 407 51 60
 
 Rowex Ltd.
 
-Tel: + 353 27 50077
-
-## Slovenija
-
-Sandoz farmacevtska družba d.d.
-
-Tel: +386 1 580 21 11
+Tel: 1 800 83 20 83
 
 ## Italia
 
 Sandoz S.p.A.
 
 Tel: +39 02 81280696
-
-## Slovenská republika
-
-Sandoz d.d. - organizačná zložka
-
-Tel: +421 2 48 200 600
 
 ## Κύπρος
 
@@ -1401,6 +1410,18 @@ SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
 (Ελλάδα)
 
 Τηλ: +30 216 600 5000
+
+## Slovenija
+
+Sandoz farmacevtska družba d.d.
+
+Tel: +386 1 580 21 11
+
+## Slovenská republika
+
+Sandoz d.d. - organizačná zložka
+
+Tel: +421 2 48 200 600
 
 ## Suomi/Finland
 

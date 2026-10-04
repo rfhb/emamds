@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-26 17:05:00
+document_datetime: 2026-10-02 11:57:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bysumlog.html
 document_name: bysumlog.html
 version: success
-processing_time: 0.1458464
-conversion_datetime: 2026-09-02 22:25:56.919292
+processing_time: 0.1402612
+conversion_datetime: 2026-10-04 16:20:54.327011
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Bysumlog
 
 [RSS](/en/individual-human-medicine.xml/274654)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -111,7 +111,7 @@ English (EN) (131.12 KB - PDF)
 
 [View](/en/documents/overview/bysumlog-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-340)
+[Other languages (22)](#file-language-dropdown-376)
 
 български (BG) (144.15 KB - PDF)
 
@@ -257,161 +257,161 @@ English (EN) (448.32 KB - PDF)
 
 Bysumlog : EPAR - Product information
 
-English (EN) (506.96 KB - PDF)
+English (EN) (5.98 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/en/documents/product-information/bysumlog-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-947)
+[Other languages (24)](#file-language-dropdown-818)
 
-български (BG) (860.16 KB - PDF)
+български (BG) (6.54 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/bg/documents/product-information/bysumlog-epar-product-information_bg.pdf)
 
-español (ES) (746.31 KB - PDF)
+español (ES) (4.47 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/es/documents/product-information/bysumlog-epar-product-information_es.pdf)
 
-čeština (CS) (819.45 KB - PDF)
+čeština (CS) (6.03 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/cs/documents/product-information/bysumlog-epar-product-information_cs.pdf)
 
-dansk (DA) (541.36 KB - PDF)
+dansk (DA) (4.5 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/da/documents/product-information/bysumlog-epar-product-information_da.pdf)
 
-Deutsch (DE) (750.62 KB - PDF)
+Deutsch (DE) (4.5 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/de/documents/product-information/bysumlog-epar-product-information_de.pdf)
 
-eesti (ET) (702.93 KB - PDF)
+eesti (ET) (4.46 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/et/documents/product-information/bysumlog-epar-product-information_et.pdf)
 
-ελληνικά (EL) (883.52 KB - PDF)
+ελληνικά (EL) (6.1 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/el/documents/product-information/bysumlog-epar-product-information_el.pdf)
 
-français (FR) (670.97 KB - PDF)
+français (FR) (4.47 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/fr/documents/product-information/bysumlog-epar-product-information_fr.pdf)
 
-hrvatski (HR) (719.68 KB - PDF)
+hrvatski (HR) (4.44 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/hr/documents/product-information/bysumlog-epar-product-information_hr.pdf)
 
-italiano (IT) (709.08 KB - PDF)
+italiano (IT) (4.42 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/it/documents/product-information/bysumlog-epar-product-information_it.pdf)
 
-latviešu (LV) (795.14 KB - PDF)
+latviešu (LV) (5.78 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/lv/documents/product-information/bysumlog-epar-product-information_lv.pdf)
 
-lietuvių (LT) (831.48 KB - PDF)
+lietuvių (LT) (6.69 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/lt/documents/product-information/bysumlog-epar-product-information_lt.pdf)
 
-magyar (HU) (765.59 KB - PDF)
+magyar (HU) (5.2 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/hu/documents/product-information/bysumlog-epar-product-information_hu.pdf)
 
-Malti (MT) (847.63 KB - PDF)
+Malti (MT) (5.81 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/mt/documents/product-information/bysumlog-epar-product-information_mt.pdf)
 
-Nederlands (NL) (684.62 KB - PDF)
+Nederlands (NL) (4.42 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/nl/documents/product-information/bysumlog-epar-product-information_nl.pdf)
 
-polski (PL) (779 KB - PDF)
+polski (PL) (5.21 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/pl/documents/product-information/bysumlog-epar-product-information_pl.pdf)
 
-português (PT) (716 KB - PDF)
+português (PT) (4.43 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/pt/documents/product-information/bysumlog-epar-product-information_pt.pdf)
 
-română (RO) (801.5 KB - PDF)
+română (RO) (5.96 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/ro/documents/product-information/bysumlog-epar-product-information_ro.pdf)
 
-slovenčina (SK) (789.99 KB - PDF)
+slovenčina (SK) (5.95 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/sk/documents/product-information/bysumlog-epar-product-information_sk.pdf)
 
-slovenščina (SL) (766.17 KB - PDF)
+slovenščina (SL) (5.2 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/sl/documents/product-information/bysumlog-epar-product-information_sl.pdf)
 
-suomi (FI) (752.88 KB - PDF)
+suomi (FI) (4.95 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/fi/documents/product-information/bysumlog-epar-product-information_fi.pdf)
 
-svenska (SV) (714.78 KB - PDF)
+svenska (SV) (4.86 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/sv/documents/product-information/bysumlog-epar-product-information_sv.pdf)
 
-Íslenska (IS) (706.05 KB - PDF)
+Íslenska (IS) (4.38 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/is/documents/product-information/bysumlog-epar-product-information_is.pdf)
 
-norsk (NO) (705.54 KB - PDF)
+norsk (NO) (4.38 MB - PDF)
 
-**First published:** 10/06/2026 **Last updated:** 26/08/2026
+**First published:** 10/06/2026 **Last updated:** 02/10/2026
 
 [View](/no/documents/product-information/bysumlog-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000361419
+**Latest procedure affecting product information:** T/0000370453
 
-22/08/2026
+18/09/2026
 
 icon globe
 
@@ -436,7 +436,7 @@ English (EN) (42.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bysumlog-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-316)
+[Other languages (24)](#file-language-dropdown-409)
 
 български (BG) (48.84 KB - PDF)
 
@@ -612,13 +612,13 @@ For the treatment of adults and children with diabetes mellitus who require insu
 - **Biosimilar**
     - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
 - **Marketing authorisation holder**
-    - Gan &amp; Lee Pharmaceuticals Europe GmbH Prinzenallee 11a  Heerdt 40549  Duesseldorf  Germany
+    - Sandoz GmbH Biochemiestrasse 10  AT-6250 Kundl  Austria
 - **Opinion adopted**
     - 26/02/2026
 - **Marketing authorisation issued**
     - 06/05/2026
 - **Revision**
-    - 1
+    - 2
 
 ## Assessment history
 
@@ -630,9 +630,9 @@ Collapse section
 
 Bysumlog : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.87 KB - PDF)
+English (EN) (146.72 KB - PDF)
 
-**First published:** 26/08/2026
+**First published:** 26/08/2026 **Last updated:** 02/10/2026
 
 [View](/en/documents/procedural-steps-after/bysumlog-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -666,6 +666,6 @@ English (EN) (148.11 KB - PDF)
 
 **This page was last updated on**
 
-26/08/2026
+02/10/2026
 
 ## Share this page

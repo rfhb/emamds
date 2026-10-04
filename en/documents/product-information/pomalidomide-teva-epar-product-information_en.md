@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-28 15:27:53
+document_datetime: 2026-10-01 10:23:57
 document_pages: 73
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pomalidomide-teva-epar-product-information_en.pdf
 document_name: pomalidomide-teva-epar-product-information_en.pdf
 version: success
-processing_time: 28.0576088
-conversion_datetime: 2026-01-29 12:21:13.157366
+processing_time: 95.1734163
+conversion_datetime: 2026-10-04 15:41:03.059738
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,13 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Pomalidomide Teva 1 mg hard capsules Pomalidomide Teva 2 mg hard capsules Pomalidomide Teva 3 mg hard capsules Pomalidomide Teva 4 mg hard capsules
+Pomalidomide Teva 1 mg hard capsules
+
+Pomalidomide Teva 2 mg hard capsules
+
+Pomalidomide Teva 3 mg hard capsules
+
+Pomalidomide Teva 4 mg hard capsules
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -32,7 +38,7 @@ Pomalidomide Teva 1 mg hard capsules
 
 Each hard capsule contains 1 mg of pomalidomide.
 
-## Excipients with known effect
+Excipients with known effect
 
 Each hard capsule contains 47.5 mg of lactose (as monohydrate). Each hard capsule contains 0.0350 mg of Brilliant blue FCF (E133).
 
@@ -70,19 +76,19 @@ Hard capsule (capsule)
 
 ## Pomalidomide Teva 1 mg hard capsules
 
-Hard gelatin capsule of approximately 14 mm with blue opaque cap and yellow opaque body imprinting 'T' on the cap and '1' on the body.
+Hard gelatin capsule of approximately 14 mm with blue opaque cap and yellow opaque body imprinting \"T\" on the cap and \"1\" on the body.
 
 ## Pomalidomide Teva 2 mg hard capsules
 
-Hard gelatin capsule of approximately 18 mm with blue opaque cap and orange opaque body imprinting 'T' on the cap and '2' on the body.
+Hard gelatin capsule of approximately 18 mm with blue opaque cap and orange opaque body imprinting \"T\" on the cap and \"2\" on the body.
 
 ## Pomalidomide Teva 3 mg hard capsules
 
-Hard gelatin capsule of approximately 18 mm with blue opaque cap and green opaque body imprinting 'T' on the cap and '3' on the body.
+Hard gelatin capsule of approximately 18 mm with blue opaque cap and green opaque body imprinting \"T\" on the cap and \"3\" on the body.
 
 ## Pomalidomide Teva 4 mg hard capsules
 
-Hard gelatin capsule of approximately 18 mm with blue opaque cap and light blue opaque body imprinting 'T' on the cap and '4' on the body.
+Hard gelatin capsule of approximately 18 mm with blue opaque cap and light blue opaque body imprinting \"T\" on the cap and \"4\" on the body.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -100,33 +106,29 @@ Dosing is continued or modified based upon clinical and laboratory findings (see
 
 ## Posology
 
-Pomalidomide in combination with bortezomib and dexamethasone
+## Pomalidomide in combination with bortezomib and dexamethasone
 
 The recommended starting dose of pomalidomide is 4 mg taken orally once daily on Days 1 to 14 of repeated 21-day cycles.
 
 Pomalidomide is administered in combination with bortezomib and dexamethasone, as shown in Table 1. The recommended starting dose of bortezomib is 1.3 mg/m 2 intravenous or subcutaneous once daily, on the days shown in Table 1. The recommended dose of dexamethasone is 20 mg taken orally once daily, on the days shown in Table 1.
 
-Treatment with pomalidomide combined with bortezomib and dexamethasone should be given until
+Treatment with pomalidomide combined with bortezomib and dexamethasone should be given until disease progression or until unacceptable toxicity occurs.
 
 <div style=\"page-break-after: always\"></div>
 
-disease progression or until unacceptable toxicity occurs.
-
 Table 1. Recommended dosing scheme for pomalidomide in combination with bortezomib and dexamethasone
 
-| Cycle 1-8                | Day (of 21-day cycle)   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |       |    |    |    |
-|--------------------------|-------------------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|-------|----|----|----|
-|                          | 1 5                     | 2  | 3  | 4  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 18 | 19 | 20 | 21 |
-| Pomalidomide (4 mg)      | • •                     | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  |    |    |       |    |    |    |
-| Bortezomib (1.3 mg/m 2 ) | •                       |    |    | •  |    |    | •  |    |    | •  |    |    |    |    |    |       |    |    |    |
-| Dexamethasone (20 mg) *  | • •                     | •  |    | •  |    |    | •  | •  |    | •  | •  |    |    |    |    |       |    |    |    |
+| Cycle 1-8                | Day (of 21-day cycle) - 1 5   | 2   | 3   | 4   |    | 6   | 7   | 8   | 9   | 10   | 11   | 12   | 13   | 14   | 15   | 16   | 17 18   | 19   | 20   | 21   |
+|--------------------------|-------------------------------|-----|-----|-----|----|-----|-----|-----|-----|------|------|------|------|------|------|------|---------|------|------|------|
+| Pomalidomide (4 mg)      | •                             | •   | •   | •   | •  | •   | •   | •   | •   | •    | •    | •    | •    | •    |      |      |         |      |      |      |
+| Bortezomib (1.3 mg/m 2 ) | •                             |     |     | •   |    |     |     | •   |     |      | •    |      |      |      |      |      |         |      |      |      |
+| Dexamethasone (20 mg) *  | •                             | •   |     | •   | •  |     |     | •   | •   |      | •    | •    |      |      |      |      |         |      |      |      |
 
-| Cycle 9 onwards          | Day (of 21-day cycle)   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|--------------------------|-------------------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-|                          | 1 5                     | 2  | 3  | 4  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
-| Pomalidomide (4 mg)      | • •                     | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  |    |    |    |    |    |    |    |
-| Bortezomib (1.3 mg/m 2 ) | •                       |    |    |    |    |    | •  |    |    |    |    |    |    |    |    |    |    |    |    |    |
-| Dexamethasone (20 mg) *  | •                       | •  |    |    |    |    | •  | •  |    |    |    |    |    |    |    |    |    |    |    |    |
+| Cycle 9 onwards          | Day (of 21-day cycle) - 1 5   | 2   | 3   | 4   | 6   | 7   | 8   | 9   | 10   | 11   | 12   | 13   | 14   | 15   | 16   | 17   | 18   | 19   | 20   | 21   |
+|--------------------------|-------------------------------|-----|-----|-----|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|------|
+| Pomalidomide (4 mg)      | • •                           | •   | •   | •   | •   | •   | •   | •   | •    | •    | •    | •    | •    |      |      |      |      |      |      |      |
+| Bortezomib (1.3 mg/m 2 ) | •                             |     |     |     |     |     | •   |     |      |      |      |      |      |      |      |      |      |      |      |      |
+| Dexamethasone (20 mg) *  | •                             | •   |     |     |     |     | •   | •   |      |      |      |      |      |      |      |      |      |      |      |      |
 
 ## Pomalidomide dose modification or interruption
 
@@ -134,11 +136,11 @@ To initiate a new cycle of pomalidomide, the neutrophil count must be ≥ 1 x 10
 
 Instructions on dose interruptions or reductions for pomalidomide related adverse reactions are outlined in the Table 2 and dose levels are defined in Table 3 below:
 
-Table 2. Pomalidomide dose modification instructions ∞
+Table 2. Pomalidomide dose modification instructions∞
 
 | Toxicity                                                                                                                                                                                                                      | Dose modification                                                              |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Neutropenia * ANC** < 0.5 x 10 9 /l or febrile neutropenia (fever ≥38.5°C and ANC <1 x 10 9 /l)                                                                                                                               | Interrupt pomalidomide treatment for remainder of cycle. Follow CBC*** weekly. |
+| Neutropenia* ANC** < 0.5 x 10 9 /l or febrile neutropenia (fever ≥38.5°C and ANC <1 x 10 9 /l)                                                                                                                                | Interrupt pomalidomide treatment for remainder of cycle. Follow CBC*** weekly. |
 | ANC return to ≥ 1 x 10 9 /l                                                                                                                                                                                                   | Resume pomalidomide treatment at one dose level lower than previous dose.      |
 | For each subsequent drop < 0.5 x 10 9 /l                                                                                                                                                                                      | Interrupt pomalidomide treatment.                                              |
 | ANC return to ≥ 1 x 10 9 /l                                                                                                                                                                                                   | Resume pomalidomide treatment at one dose level lower than the previous dose.  |
@@ -151,9 +153,9 @@ Table 2. Pomalidomide dose modification instructions ∞
 
 <div style=\"page-break-after: always\"></div>
 
-| Symptoms (DRESS) is suspected)                             |                                                                                                                                                                                                              |
-|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Other Other ≥ Grade 3 pomalidomide -related adverse events | Interrupt pomalidomide treatment for remainder of cycle. Resume at one dose level lower than previous dose at next cycle (adverse event must be resolved or improved to ≤ Grade 2 before restarting dosing). |
+| Symptoms (DRESS) is suspected)                            |                                                                                                                                                                                                              |
+|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Other Other ≥ Grade 3 pomalidomide-related adverse events | Interrupt pomalidomide treatment for remainder of cycle. Resume at one dose level lower than previous dose at next cycle (adverse event must be resolved or improved to ≤ Grade 2 before restarting dosing). |
 
 Table 3. Pomalidomide dose reduction∞
 
@@ -164,7 +166,7 @@ Table 3. Pomalidomide dose reduction∞
 | Dose level -2 | 2 mg                     |
 | Dose level -3 | 1 mg                     |
 
-If adverse reactions occur after dose reductions to 1 mg, then the treatment should be discontinued .
+If adverse reactions occur after dose reductions to 1 mg, then the treatment should be discontinued.
 
 ## Strong CYP1A2 inhibitors
 
@@ -178,7 +180,7 @@ For instructions on dose interruptions or reductions for bortezomib related adve
 
 Instructions on dose interruptions or reductions for low-dose dexamethasone related adverse reactions are outlined in Tables 4 and 5 below. However, dose interruption or resumption decisions are at the physician's discretion per Summary of Product Characteristics (SmPC).
 
-## Table 4. Dexamethasone dose modification instructions
+Table 4. Dexamethasone dose modification instructions
 
 | Toxicity              | Dose Modification                                                                                                                 |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -187,23 +189,23 @@ Instructions on dose interruptions or reductions for low-dose dexamethasone rela
 
 <div style=\"page-break-after: always\"></div>
 
-| Oedema ≥ Grade 3                                      | Use diuretics as needed and decrease dose by one dose level.                                                                |
-|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Confusion or mood alteration ≥ Grade 2                | Interrupt dose until symptoms resolve. Resume at one dose level lower than previous dose.                                   |
-| Muscle weakness ≥ Grade 2                             | Interrupt dose until muscle weakness ≤ Grade 1. Resume at one dose level lower than previous dose.                          |
-| Hyperglycaemia ≥ Grade 3                              | Decrease dose by one dose level. Treat with insulin or oral hypoglycaemic agents as needed.                                 |
-| Acute pancreatitis                                    | Discontinue dexamethasone from treatment regimen.                                                                           |
-| Other ≥ Grade 3 dexamethasone -related adverse events | Stop dexamethasone dosing until the adverse event resolves to ≤ Grade 2. Resume at one dose level lower than previous dose. |
+| Oedema ≥ Grade 3                                     | Use diuretics as needed and decrease dose by one dose level.                                                                |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Confusion or mood alteration ≥ Grade 2               | Interrupt dose until symptoms resolve. Resume at one dose level lower than previous dose.                                   |
+| Muscle weakness ≥ Grade 2                            | Interrupt dose until muscle weakness ≤ Grade 1. Resume at one dose level lower than previous dose.                          |
+| Hyperglycaemia ≥ Grade 3                             | Decrease dose by one dose level. Treat with insulin or oral hypoglycaemic agents as needed.                                 |
+| Acute pancreatitis                                   | Discontinue dexamethasone from treatment regimen.                                                                           |
+| Other ≥ Grade 3 dexamethasone-related adverse events | Stop dexamethasone dosing until the adverse event resolves to ≤ Grade 2. Resume at one dose level lower than previous dose. |
 
 If recovery from toxicities is prolonged beyond 14 days, then the dose of dexamethasone will be resumed at one dose level lower than the previous dose.
 
 Table 5. Dexamethasone dose reduction
 
-| Dose Level    | ≤ 75 years old Dose (Cycle 1-8: Days 1, 2, 4, 5, 8, 9, 11, 12 of a 21-day cycle Cycle ≥ 9: Days 1, 2, 8, 9 of a 21 -day cycle)   | > 75 years old Dose (Cycle 1-8: Days 1, 2, 4, 5, 8, 9, 11, 12 of a 21-day cycle Cycle ≥ 9: Days 1, 2, 8, 9 of a 21-day cycle)   |
-|---------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| Starting Dose | 20 mg                                                                                                                            | 10 mg                                                                                                                           |
-| Dose Level -1 | 12 mg                                                                                                                            | 6 mg                                                                                                                            |
-| Dose Level -2 | 8 mg                                                                                                                             | 4 mg                                                                                                                            |
+| Dose Level    | ≤ 75 years old Dose (Cycle 1-8: Days 1, 2, 4, 5, 8, 9, 11, 12 of a 21-day cycle Cycle ≥ 9: Days 1, 2, 8, 9 of a 21-day cycle)   | > 75 years old Dose (Cycle 1-8: Days 1, 2, 4, 5, 8, 9, 11, 12 of a 21-day cycle Cycle ≥ 9: Days 1, 2, 8, 9 of a 21-day cycle)   |
+|---------------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Starting Dose | 20 mg                                                                                                                           | 10 mg                                                                                                                           |
+| Dose Level -1 | 12 mg                                                                                                                           | 6 mg                                                                                                                            |
+| Dose Level -2 | 8 mg                                                                                                                            | 4 mg                                                                                                                            |
 
 Dexamethasone should be discontinued if the patient is unable to tolerate 8 mg if ≤ 75 years old or 4 mg if &gt; 75 years old.
 
@@ -266,19 +268,19 @@ No dose adjustment of pomalidomide is required for patients with renal impairmen
 
 ## Paediatric population
 
-There is no relevant use of pomalidomide in children aged 0-17 years for the indication of multiple
+There is no relevant use of pomalidomide in children aged 0-17 years for the indication of multiple myeloma.
 
 <div style=\"page-break-after: always\"></div>
-
-## myeloma.
 
 Outside its authorised indications, pomalidomide has been studied in children aged 4 to 18 years with recurrent or progressive brain tumours, however the results of studies did not allow to conclude that the benefits of such use outweigh the risks. Currently available data are described in sections 4.8, 5.1 and 5.2.
 
 ## Method of administration
 
-## Oral use.
+Oral use.
 
-Pomalidomide Teva hard capsules should be taken orally at the same time each day. The capsules should not be opened, broken or chewed (see section 6.6). The capsules should be swallowed whole, preferably with water, with or without food. If the patient forgets to take a dose of pomalidomide on one day, then the patient should take the normal prescribed dose as scheduled on the next day. Patients should not adjust the dose to make up for a missing dose on previous days.
+Pomalidomide Teva hard capsules should be taken orally at the same time each day. The capsules should not be opened, broken or chewed (see section 6.6). The capsules should be swallowed whole, preferably with water, with or without food. If the patient forgets to take a dose of pomalidomide on one day, then the
+
+patient should take the normal prescribed dose as scheduled on the next day. Patients should not adjust the dose to make up for a missing dose on previous days.
 
 It is recommended to press only on one end of the capsule to remove it from the blister thereby reducing the risk of capsule deformation or breakage.
 
@@ -379,11 +381,9 @@ Healthcare professionals and caregivers should wear disposable gloves when handl
 
 ## Educational materials, prescribing and dispensing restrictions
 
-In order to assist patients in avoiding foetal exposure to pomalidomide, the Marketing Authorisation
+In order to assist patients in avoiding foetal exposure to pomalidomide, the Marketing Authorisation Holder will provide educational material to healthcare professionals to reinforce the warnings about the expected teratogenicity of pomalidomide, to provide advice on contraception before treatment is started, and to provide guidance on the need for pregnancy testing. The prescriber must inform the patient about the expected teratogenic risk and the strict pregnancy prevention measures as specified in the Pregnancy Prevention Programme and provide patients with appropriate patient educational brochure, patient card and/or equivalent tool as agreed with each National Competent Authority. In collaboration with each National Competent Authority, a controlled access programme has been implemented which includes the use of a patient card and/or equivalent tool for prescribing and /or dispensing controls, and the collection of information relating to the indication in order to monitor the off-label use within the national territory. Ideally, pregnancy testing, issuing a prescription and dispensing should occur on the same day. Dispensing of pomalidomide to women of childbearing potential should occur within 7 days of the prescription and following a medically supervised negative pregnancy test result. Prescriptions for women of childbearing potential can be for a maximum duration of treatment of 4 weeks according to the approved indications dosing regimens (see section 4.2), and prescriptions for all other patients can be for a maximum duration of 12 weeks.
 
 <div style=\"page-break-after: always\"></div>
-
-Holder will provide educational material to healthcare professionals to reinforce the warnings about the expected teratogenicity of pomalidomide, to provide advice on contraception before treatment is started, and to provide guidance on the need for pregnancy testing. The prescriber must inform the patient about the expected teratogenic risk and the strict pregnancy prevention measures as specified in the Pregnancy Prevention Programme and provide patients with appropriate patient educational brochure, patient card and/or equivalent tool as agreed with each National Competent Authority. In collaboration with each National Competent Authority, a controlled access programme has been implemented which  includes the use of a patient card and/or equivalent tool for prescribing and /or dispensing controls, and the collection of information relating to the indication in order to monitor the off-label use within the national territory. Ideally, pregnancy testing, issuing a prescription and dispensing should occur on the same day. Dispensing of pomalidomide to women of childbearing potential should occur within 7 days of the prescription and following a medically supervised negative pregnancy test result. Prescriptions for women of childbearing potential can be for a maximum duration of treatment of 4 weeks according to the approved indications dosing regimens (see section 4.2), and prescriptions for all other patients can be for a maximum duration of 12 weeks.
 
 ## Haematological events
 
@@ -475,7 +475,7 @@ Co-administration of multiple doses of up to 4 mg pomalidomide with 20 mg to 40 
 
 The effect of dexamethasone on warfarin is unknown. Close monitoring of warfarin concentration is advised during treatment.
 
-## 4.6 Fertility,  pregnancy and lactation
+## 4.6 Fertility, pregnancy and lactation
 
 ## Women of childbearing potential / Contraception in males and females
 
@@ -483,11 +483,9 @@ Women of childbearing potential should use effective method of contraception. If
 
 ## Pregnancy
 
-A teratogenic effect of pomalidomide in humans is expected. Pomalidomide is contraindicated during
+A teratogenic effect of pomalidomide in humans is expected. Pomalidomide is contraindicated during pregnancy and in women of childbearing potential, except when all the conditions for pregnancy prevention have been met (see sections 4.3 and 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-pregnancy and in women of childbearing potential, except when all the conditions for pregnancy prevention have been met (see sections 4.3 and 4.4).
 
 ## Breast-feeding
 
@@ -497,7 +495,7 @@ It is unknown whether pomalidomide is excreted in human milk. Pomalidomide was d
 
 Pomalidomide was found to impact negatively on fertility and be teratogenic in animals. Pomalidomide crossed the placenta and was detected in foetal blood following administration to pregnant rabbits (see section 5.3).
 
-## 4.7 Effects on ability to drive and use  machines
+## 4.7 Effects on ability to drive and use machines
 
 Pomalidomide has minor or moderate influence on the ability to drive and use machines. Fatigue, depressed level of consciousness, confusion, and dizziness have been reported with the use of pomalidomide. If affected, patients should be instructed not to drive cars, use machines or perform hazardous tasks while being treated with pomalidomide.
 
@@ -507,53 +505,49 @@ Pomalidomide has minor or moderate influence on the ability to drive and use mac
 
 ## Pomalidomide in combination with bortezomib and dexamethasone
 
-The most commonly reported blood and lymphatic system disorders were neutropenia (54.0%), thrombocytopenia (39.9%) and anaemia (32.0%). Other most frequently reported adverse reactions included peripheral sensory neuropathy (48.2%), fatigue (38.8%), diarrhoea (38.1%), constipation (38.1%), and oedema peripheral (36.3%). The most commonly reported Grade 3 or 4 adverse reactions were blood and lymphatic system disorders including neutropenia (47.1%), thrombocytopenia (28.1%) and anaemia (15.1%). The most commonly reported serious adverse reaction was pneumonia (12.2%). Other serious adverse reactions reported included pyrexia (4.3%), lower respiratory tract infection (3.6%), influenza (3.6%), pulmonary embolism (3.2%),  atrial fibrillation (3.2%) and acute kidney injury (2.9%).
+The most commonly reported blood and lymphatic system disorders were neutropenia (54.0%), thrombocytopenia (39.9%) and anaemia (32.0%). Other most frequently reported adverse reactions included peripheral sensory neuropathy (48.2%), fatigue (38.8%), diarrhoea (38.1%), constipation (38.1%), and oedema peripheral (36.3%). The most commonly reported Grade 3 or 4 adverse reactions were blood and lymphatic system disorders including neutropenia (47.1%), thrombocytopenia (28.1%) and anaemia (15.1%). The most commonly reported serious adverse reaction was pneumonia (12.2%). Other serious adverse reactions reported included pyrexia (4.3%), lower respiratory tract infection (3.6%), influenza (3.6%), pulmonary embolism (3.2%), atrial fibrillation (3.2%) and acute kidney injury (2.9%).
 
 ## Pomalidomide in combination with dexamethasone
 
 The most commonly reported adverse reactions in clinical studies have been blood and lymphatic system disorders including anaemia (45.7%), neutropenia (45.3%) and thrombocytopenia (27%); in general disorders and administration site conditions including fatigue (28.3%), pyrexia (21%) and oedema peripheral (13%); and in infections and infestations including pneumonia (10.7%). Peripheral neuropathy adverse reactions were reported in 12.3% of patients and venous embolic or thrombotic (VTE) adverse reactions were reported in 3.3% of patients. The most commonly reported Grade 3 or 4 adverse reactions were in the blood and lymphatic system disorders including neutropenia (41.7%), anaemia (27%) and thrombocytopenia (20.7%); in infections and infestations including pneumonia (9%); and in general disorders and administration site conditions including fatigue (4.7%), pyrexia (3%) and oedema peripheral (1.3%). The most commonly reported serious adverse reaction was pneumonia (9.3%). Other serious adverse reactions reported included febrile neutropenia (4.0%), neutropenia (2.0%), thrombocytopenia (1.7%) and VTE adverse reactions (1.7 %).
 
-Adverse reactions tended to occur more frequently within the first 2 cycles of treatment with
+Adverse reactions tended to occur more frequently within the first 2 cycles of treatment with pomalidomide.
 
 <div style=\"page-break-after: always\"></div>
-
-pomalidomide.
 
 ## Tabulated list of adverse reactions
 
 The adverse reactions observed in patients treated with pomalidomide in combination with bortezomib and dexamethasone, pomalidomide in combination with dexamethasone and from post-marketing surveillance are listed in Table 7 by system organ class (SOC) and frequency for all adverse reactions and for Grade 3 or 4 adverse reactions.
 
-Frequencies are defined in accordance with current guidance, as: very common (≥1/10), common (≥1/ 100 to &lt;1/10) and uncommon (≥1/1,000 to &lt;1/100) and not known (frequency cannot be determined).
+Frequencies are defined in accordance with current guidance, as: very common (≥1/10), common (≥1/100 to &lt;1/10) and uncommon (≥1/1,000 to &lt;1/100) and not known (frequency cannot be determined).
 
 Table 7. Adverse reactions(ADRs) reported in clinical trials and post-market settings
 
-| Combination of treatment                                                               | Pomalidomide/ bortezomib/dexamethasone   | Pomalidomide/ bortezomib/dexamethasone   | Pomalidomide/ dexamethasone   | Pomalidomide/ dexamethasone   |
-|----------------------------------------------------------------------------------------|------------------------------------------|------------------------------------------|-------------------------------|-------------------------------|
-| System Organ Class /Preferred term                                                     | All ADRs                                 | Grade 3-4 ADRs                           | All ADRs                      | Grade 3-4 ADRs                |
-| Infections and infestations                                                            | Infections and infestations              | Infections and infestations              | Infections and infestations   | Infections and infestations   |
-| Pneumonia                                                                              | Very common                              | Very common                              | -                             | -                             |
-| Pneumonia (bacterial, viral and fungal infections, including opportunistic infections) | -                                        | -                                        | Very common                   | Common                        |
-| Bronchitis                                                                             | Very common                              | Common                                   | Common                        | Uncommon                      |
-| Upper respiratory tract infection                                                      | Very common                              | Common                                   | Common                        | Common                        |
-| Viral upper respiratory tract infection                                                | Very common                              | -                                        | -                             | -                             |
-| Sepsis                                                                                 | Common                                   | Common                                   | -                             | -                             |
-| Septic shock                                                                           | Common                                   | Common                                   | -                             | -                             |
-| Neutropenic sepsis                                                                     | -                                        | -                                        | Common                        | Common                        |
-| Clostridium difficile colitis                                                          | Common                                   | Common                                   | -                             | -                             |
-| Bronchopneumonia                                                                       | -                                        | -                                        | Common                        | Common                        |
-| Respiratory tract infection                                                            | Common                                   | Common                                   | Common                        | Common                        |
-| Lower respiratory tract infection                                                      | Common                                   | Common                                   | -                             | -                             |
-| Lung infection                                                                         | Common                                   | Uncommon                                 | -                             | -                             |
-| Influenza                                                                              | Very common                              | Common                                   | -                             | -                             |
-| Bronchiolitis                                                                          | Common                                   | Common                                   | -                             | -                             |
-| Urinary tract infection                                                                | Very common                              | Common                                   | -                             | -                             |
-| Nasopharyngitis                                                                        | -                                        | -                                        | Common                        | -                             |
+| Combination of treatment - System Organ Class /Preferred term                          | Pomalidomide/ bortezomib/dexamethasone - All ADRs   | Pomalidomide/ bortezomib/dexamethasone - Grade 3-4 ADRs   | Pomalidomide/ dexamethasone - All ADRs   | Pomalidomide/ dexamethasone - Grade 3-4 ADRs   |
+|----------------------------------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------|------------------------------------------|------------------------------------------------|
+| Infections and infestations                                                            | Infections and infestations                         | Infections and infestations                               | Infections and infestations              | Infections and infestations                    |
+| Pneumonia                                                                              | Very common                                         | Very common                                               | -                                        | -                                              |
+| Pneumonia (bacterial, viral and fungal infections, including opportunistic infections) | -                                                   | -                                                         | Very common                              | Common                                         |
+| Bronchitis                                                                             | Very common                                         | Common                                                    | Common                                   | Uncommon                                       |
+| Upper respiratory tract infection                                                      | Very common                                         | Common                                                    | Common                                   | Common                                         |
+| Viral upper respiratory tract infection                                                | Very common                                         | -                                                         | -                                        | -                                              |
+| Sepsis                                                                                 | Common                                              | Common                                                    | -                                        | -                                              |
+| Septic shock                                                                           | Common                                              | Common                                                    | -                                        | -                                              |
+| Neutropenic sepsis                                                                     | -                                                   | -                                                         | Common                                   | Common                                         |
+| Clostridium difficile colitis                                                          | Common                                              | Common                                                    | -                                        | -                                              |
+| Bronchopneumonia                                                                       | -                                                   | -                                                         | Common                                   | Common                                         |
+| Respiratory tract infection                                                            | Common                                              | Common                                                    | Common                                   | Common                                         |
+| Lower respiratory tract infection                                                      | Common                                              | Common                                                    | -                                        | -                                              |
+| Lung infection                                                                         | Common                                              | Uncommon                                                  | -                                        | -                                              |
+| Influenza                                                                              | Very common                                         | Common                                                    | -                                        | -                                              |
+| Bronchiolitis                                                                          | Common                                              | Common                                                    | -                                        | -                                              |
+| Urinary tract infection                                                                | Very common                                         | Common                                                    | -                                        | -                                              |
+| Nasopharyngitis                                                                        | -                                                   | -                                                         | Common                                   | -                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Combination of treatment                                            | Pomalidomide/ bortezomib/dexamethasone                              | Pomalidomide/ bortezomib/dexamethasone                              | Pomalidomide/ dexamethasone                                         | Pomalidomide/ dexamethasone                                         |
+| Combination of treatment - System Organ Class /Preferred term       | Pomalidomide/ bortezomib/dexamethasone - All ADRs                   | Pomalidomide/ bortezomib/dexamethasone - Grade 3-4 ADRs             | Pomalidomide/ dexamethasone - All ADRs                              | Pomalidomide/ dexamethasone - Grade 3-4 ADRs                        |
 |---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| System Organ Class /Preferred term                                  | All ADRs                                                            | Grade 3-4 ADRs                                                      | All ADRs                                                            | Grade 3-4 ADRs                                                      |
 | Herpes zoster                                                       | -                                                                   | -                                                                   | Common                                                              | Uncommon                                                            |
 | Hepatitis B reactivation                                            | -                                                                   | -                                                                   | Not known*                                                          | Not known*                                                          |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |
@@ -590,102 +584,99 @@ Table 7. Adverse reactions(ADRs) reported in clinical trials and post-market set
 
 <div style=\"page-break-after: always\"></div>
 
-| Combination of treatment                        | Pomalidomide/ bortezomib/dexamethasone          | Pomalidomide/ bortezomib/dexamethasone          | Pomalidomide/ dexamethasone                     | Pomalidomide/ dexamethasone                     |
-|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| System Organ Class /Preferred term              | All ADRs                                        | Grade 3-4 ADRs                                  | All ADRs                                        | Grade 3-4 ADRs                                  |
-| syndrome                                        |                                                 |                                                 |                                                 |                                                 |
-| Psychiatric disorders                           | Psychiatric disorders                           |                                                 |                                                 |                                                 |
-| Insomnia                                        | Very common                                     | Common                                          | -                                               | -                                               |
-| Depression                                      | Common                                          | Common                                          | -                                               | -                                               |
-| Confusional state                               | -                                               | -                                               | Common                                          | Common                                          |
-| Nervous system disorders                        | Nervous system disorders                        | Nervous system disorders                        | Nervous system disorders                        | Nervous system disorders                        |
-| Peripheral sensory neuropathy                   | Very common                                     | Common                                          | Common                                          | Uncommon                                        |
-| Dizziness                                       | Very common                                     | Uncommon                                        | Common                                          | Uncommon                                        |
-| Tremor                                          | Very common                                     | Uncommon                                        | Common                                          | Uncommon                                        |
-| Syncope                                         | Common                                          | Common                                          | -                                               | -                                               |
-| Peripheral sensorimotor neuropathy              | Common                                          | Common                                          | -                                               | -                                               |
-| Paraesthesia                                    | Common                                          | -                                               | -                                               | -                                               |
-| Dysgeusia                                       | Common                                          | -                                               | -                                               | -                                               |
-| Depressed level of consciousn ess               | -                                               | -                                               | Common                                          | Common                                          |
-| Intracranial haemorrhage                        | -                                               | -                                               | Common*                                         | Uncommon*                                       |
-| Cerebrovascular accident                        | -                                               | -                                               | Uncommon*                                       | Uncommon*                                       |
-| Eye disorders                                   | Eye disorders                                   | Eye disorders                                   | Eye disorders                                   | Eye disorders                                   |
-| Cataract                                        | Common                                          | Common                                          | -                                               | -                                               |
-| Ear and labyrinth disorders                     | Ear and labyrinth disorders                     | Ear and labyrinth disorders                     | Ear and labyrinth disorders                     | Ear and labyrinth disorders                     |
-| Vertigo                                         | -                                               | -                                               | Common                                          | Common                                          |
-| Cardiac disorders                               | Cardiac disorders                               | Cardiac disorders                               | Cardiac disorders                               | Cardiac disorders                               |
-| Atrial fibrillation                             | Very common                                     | Common                                          | Common*                                         | Common*                                         |
-| Cardiac failure                                 | -                                               | -                                               | Common*                                         | Common*                                         |
-| Myocardial infarction                           | -                                               | -                                               | Common*                                         | Uncommon*                                       |
-| Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              |
-| Deep vein thrombosis                            | Common                                          | Uncommon                                        | Common                                          | Uncommon                                        |
-| Hypotension                                     | Common                                          | Common                                          | -                                               | -                                               |
-| Hypertension                                    | Common                                          | Common                                          | -                                               | -                                               |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |
-| Dyspnoea                                        | Very common                                     | Common                                          | Very common                                     | Common                                          |
-| Cough                                           | Very common                                     | -                                               | Very common                                     | Uncommon                                        |
-| Pulmonary embolism                              | Common                                          | Common                                          | Common                                          | Uncommon                                        |
-| Epistaxis                                       | -                                               | -                                               | Common*                                         | Uncommon*                                       |
+| Combination of treatment - System Organ Class /Preferred term   | Pomalidomide/ bortezomib/dexamethasone - All ADRs   | Pomalidomide/ bortezomib/dexamethasone - Grade 3-4 ADRs   | Pomalidomide/ dexamethasone - All ADRs          | Pomalidomide/ dexamethasone - Grade 3-4 ADRs    |
+|-----------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| syndrome                                                        |                                                     |                                                           |                                                 |                                                 |
+| Psychiatric disorders                                           | Psychiatric disorders                               |                                                           |                                                 |                                                 |
+| Insomnia                                                        | Very common                                         | Common                                                    | -                                               | -                                               |
+| Depression                                                      | Common                                              | Common                                                    | -                                               | -                                               |
+| Confusional state                                               | -                                                   | -                                                         | Common                                          | Common                                          |
+| Nervous system disorders                                        | Nervous system disorders                            | Nervous system disorders                                  | Nervous system disorders                        | Nervous system disorders                        |
+| Peripheral sensory neuropathy                                   | Very common                                         | Common                                                    | Common                                          | Uncommon                                        |
+| Dizziness                                                       | Very common                                         | Uncommon                                                  | Common                                          | Uncommon                                        |
+| Tremor                                                          | Very common                                         | Uncommon                                                  | Common                                          | Uncommon                                        |
+| Syncope                                                         | Common                                              | Common                                                    | -                                               | -                                               |
+| Peripheral sensorimotor neuropathy                              | Common                                              | Common                                                    | -                                               | -                                               |
+| Paraesthesia                                                    | Common                                              | -                                                         | -                                               | -                                               |
+| Dysgeusia                                                       | Common                                              | -                                                         | -                                               | -                                               |
+| Depressed level of consciousn ess                               | -                                                   | -                                                         | Common                                          | Common                                          |
+| Intracranial haemorrhage                                        | -                                                   | -                                                         | Common*                                         | Uncommon*                                       |
+| Cerebrovascular accident                                        | -                                                   | -                                                         | Uncommon*                                       | Uncommon*                                       |
+| Eye disorders                                                   | Eye disorders                                       | Eye disorders                                             | Eye disorders                                   | Eye disorders                                   |
+| Cataract                                                        | Common                                              | Common                                                    | -                                               | -                                               |
+| Ear and labyrinth disorders                                     | Ear and labyrinth disorders                         | Ear and labyrinth disorders                               | Ear and labyrinth disorders                     | Ear and labyrinth disorders                     |
+| Vertigo                                                         | -                                                   | -                                                         | Common                                          | Common                                          |
+| Cardiac disorders                                               | Cardiac disorders                                   | Cardiac disorders                                         | Cardiac disorders                               | Cardiac disorders                               |
+| Atrial fibrillation                                             | Very common                                         | Common                                                    | Common*                                         | Common*                                         |
+| Cardiac failure                                                 | -                                                   | -                                                         | Common*                                         | Common*                                         |
+| Myocardial infarction                                           | -                                                   | -                                                         | Common*                                         | Uncommon*                                       |
+| Vascular disorders                                              | Vascular disorders                                  | Vascular disorders                                        | Vascular disorders                              | Vascular disorders                              |
+| Deep vein thrombosis                                            | Common                                              | Uncommon                                                  | Common                                          | Uncommon                                        |
+| Hypotension                                                     | Common                                              | Common                                                    | -                                               | -                                               |
+| Hypertension                                                    | Common                                              | Common                                                    | -                                               | -                                               |
+| Respiratory, thoracic and mediastinal disorders                 | Respiratory, thoracic and mediastinal disorders     | Respiratory, thoracic and mediastinal disorders           | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |
+| Dyspnoea                                                        | Very common                                         | Common                                                    | Very common                                     | Common                                          |
+| Cough                                                           | Very common                                         | -                                                         | Very common                                     | Uncommon                                        |
+| Pulmonary embolism                                              | Common                                              | Common                                                    | Common                                          | Uncommon                                        |
+| Epistaxis                                                       | -                                                   | -                                                         | Common*                                         | Uncommon*                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| Combination of treatment                              | Pomalidomide/ bortezomib/dexamethasone               | Pomalidomide/ bortezomib/dexamethasone               | Pomalidomide/ dexamethasone                          | Pomalidomide/ dexamethasone                          |
-|-------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| System Organ Class /Preferred term                    | All ADRs                                             | Grade 3-4 ADRs                                       | All ADRs                                             | Grade 3-4 ADRs                                       |
-| Interstitial lung disease                             | -                                                    | -                                                    | Common*                                              | Uncommon*                                            |
-| Gastrointestinal disorders                            | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
-| Diarrhoea                                             | Very common                                          | Common                                               | Very common                                          | Common                                               |
-| Vomiting                                              | Very common                                          | Common                                               | Common                                               | Common                                               |
-| Nausea                                                | Very common                                          | Uncommon                                             | Very common                                          | Uncommon                                             |
-| Constipation                                          | Very common                                          | Common                                               | Very common                                          | Common                                               |
-| Abdominal pain                                        | Very common                                          | Common                                               | -                                                    | -                                                    |
-| Abdominal pain upper                                  | Common                                               | Uncommon                                             | -                                                    | -                                                    |
-| Stomatitis                                            | Common                                               | Uncommon                                             | -                                                    | -                                                    |
-| Dry mouth                                             | Common                                               | -                                                    | -                                                    | -                                                    |
-| Abdominal distension                                  | Common                                               | Uncommon                                             | -                                                    | -                                                    |
-| Gastrointestinal haemorrhage                          | -                                                    | -                                                    | Common                                               | Uncommon                                             |
-| Hepatobiliary disorders                               | Hepatobiliary disorders                              | Hepatobiliary disorders                              | Hepatobiliary disorders                              | Hepatobiliary disorders                              |
-| Hyperbilirubinaemia                                   | -                                                    | -                                                    | Uncommon                                             | Uncommon                                             |
-| Hepatitis                                             | -                                                    | -                                                    | Uncommon*                                            | -                                                    |
-| Skin and subcutaneous tissue disorders                | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
-| Rash                                                  | Very common                                          | Common                                               | Common                                               | Common                                               |
-| Pruritus                                              | -                                                    | -                                                    | Common                                               | -                                                    |
-| Drug Reaction with Eosinophilia and Systemic Symptoms | -                                                    | -                                                    | Not known*                                           | Not known*                                           |
-| Toxic Epidermal Necrolysis                            | -                                                    | -                                                    | Not known*                                           | Not known*                                           |
-| Stevens-Johnson Syndrome                              | -                                                    | -                                                    | Not known*                                           | Not known*                                           |
-| Musculoskeletal and connective tissue disorders       | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
-| Muscular weakness                                     | Very common                                          | Com mon                                              | -                                                    | -                                                    |
-| Back pain                                             | Very common                                          | Common                                               | -                                                    | -                                                    |
-| Bone pain                                             | Common                                               | Uncommon                                             | Very common                                          | Common                                               |
-| Muscle spasms                                         | Very common                                          | -                                                    | Very common                                          | Uncommon                                             |
-| Renal and urinary disorders                           | Renal and urinary disorders                          | Renal and urinary disorders                          | Renal and urinary disorders                          | Renal and urinary disorders                          |
-| Acute kidney injury                                   | Common                                               | Common                                               | -                                                    | -                                                    |
-| Chronic kidney injury                                 | Common                                               | Common                                               | -                                                    | -                                                    |
-| Urinary retention                                     | Common                                               | Common                                               | Common                                               | Uncommon                                             |
-| Renal failure                                         | -                                                    | -                                                    | Common                                               | Common                                               |
-| Reproductive system and breast disorders              | Reproductive system and breast disorders             | Reproductive system and breast disorders             | Reproductive system and breast disorders             | Reproductive system and breast disorders             |
-| Pelvic pain                                           |                                                      |                                                      | Common                                               | Common                                               |
-| General disorders and administration site conditions  | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
-| Fatigue                                               | Very common                                          | Common                                               | Very common                                          | Common                                               |
+| Combination of treatment - System Organ Class /Preferred term   | Pomalidomide/ bortezomib/dexamethasone - All ADRs    | Pomalidomide/ bortezomib/dexamethasone - Grade 3-4 ADRs   | Pomalidomide/ dexamethasone - All ADRs               | Pomalidomide/ dexamethasone - Grade 3-4 ADRs         |
+|-----------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| Interstitial lung disease                                       | -                                                    | -                                                         | Common*                                              | Uncommon*                                            |
+| Gastrointestinal disorders                                      | Gastrointestinal disorders                           | Gastrointestinal disorders                                | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
+| Diarrhoea                                                       | Very common                                          | Common                                                    | Very common                                          | Common                                               |
+| Vomiting                                                        | Very common                                          | Common                                                    | Common                                               | Common                                               |
+| Nausea                                                          | Very common                                          | Uncommon                                                  | Very common                                          | Uncommon                                             |
+| Constipation                                                    | Very common                                          | Common                                                    | Very common                                          | Common                                               |
+| Abdominal pain                                                  | Very common                                          | Common                                                    | -                                                    | -                                                    |
+| Abdominal pain upper                                            | Common                                               | Uncommon                                                  | -                                                    | -                                                    |
+| Stomatitis                                                      | Common                                               | Uncommon                                                  | -                                                    | -                                                    |
+| Dry mouth                                                       | Common                                               | -                                                         | -                                                    | -                                                    |
+| Abdominal distension                                            | Common                                               | Uncommon                                                  | -                                                    | -                                                    |
+| Gastrointestinal haemorrhage                                    | -                                                    | -                                                         | Common                                               | Uncommon                                             |
+| Hepatobiliary disorders                                         | Hepatobiliary disorders                              | Hepatobiliary disorders                                   | Hepatobiliary disorders                              | Hepatobiliary disorders                              |
+| Hyperbilirubinaemia                                             | -                                                    | -                                                         | Uncommon                                             | Uncommon                                             |
+| Hepatitis                                                       | -                                                    | -                                                         | Uncommon*                                            | -                                                    |
+| Skin and subcutaneous tissue disorders                          | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                    | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
+| Rash                                                            | Very common                                          | Common                                                    | Common                                               | Common                                               |
+| Pruritus                                                        | -                                                    | -                                                         | Common                                               | -                                                    |
+| Drug Reaction with Eosinophilia and Systemic Symptoms           | -                                                    | -                                                         | Not known*                                           | Not known*                                           |
+| Toxic Epidermal Necrolysis                                      | -                                                    | -                                                         | Not known*                                           | Not known*                                           |
+| Stevens-Johnson Syndrome                                        | -                                                    | -                                                         | Not known*                                           | Not known*                                           |
+| Musculoskeletal and connective tissue disorders                 | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders           | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
+| Muscular weakness                                               | Very common                                          | Com mon                                                   | -                                                    | -                                                    |
+| Back pain                                                       | Very common                                          | Common                                                    | -                                                    | -                                                    |
+| Bone pain                                                       | Common                                               | Uncommon                                                  | Very common                                          | Common                                               |
+| Muscle spasms                                                   | Very common                                          | -                                                         | Very common                                          | Uncommon                                             |
+| Renal and urinary disorders                                     | Renal and urinary disorders                          | Renal and urinary disorders                               | Renal and urinary disorders                          | Renal and urinary disorders                          |
+| Acute kidney injury                                             | Common                                               | Common                                                    | -                                                    | -                                                    |
+| Chronic kidney injury                                           | Common                                               | Common                                                    | -                                                    | -                                                    |
+| Urinary retention                                               | Common                                               | Common                                                    | Common                                               | Uncommon                                             |
+| Renal failure                                                   | -                                                    | -                                                         | Common                                               | Common                                               |
+| Reproductive system and breast disorders                        | Reproductive system and breast disorders             | Reproductive system and breast disorders                  | Reproductive system and breast disorders             | Reproductive system and breast disorders             |
+| Pelvic pain                                                     |                                                      |                                                           | Common                                               | Common                                               |
+| General disorders and administration site conditions            | General disorders and administration site conditions | General disorders and administration site conditions      | General disorders and administration site conditions | General disorders and administration site conditions |
+| Fatigue                                                         | Very common                                          | Common                                                    | Very common                                          | Common                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Combination of treatment                       | Pomalidomide/ bortezomib/dexamethasone         | Pomalidomide/ bortezomib/dexamethasone         | Pomalidomide/ dexamethasone                    | Pomalidomide/ dexamethasone                    |
-|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| System Organ Class /Preferred term             | All ADRs                                       | Grade 3-4 ADRs                                 | All ADRs                                       | Grade 3-4 ADRs                                 |
-| Pyrexia                                        | Very common                                    | Common                                         | Very common                                    | Common                                         |
-| Oedema peripheral                              | Very common                                    | Common                                         | Very common                                    | Common                                         |
-| Non-cardiac chest pain                         | Common                                         | Common                                         | -                                              | -                                              |
-| Oedema                                         | Common                                         | Common                                         | -                                              | -                                              |
-| Investigations                                 |                                                |                                                |                                                |                                                |
-| Alanine aminotransferase increased             | Common                                         | Common                                         | Common                                         | Common                                         |
-| Weight decreased                               | Common                                         | Common                                         | -                                              | -                                              |
-| Neutrophil count decreased                     | -                                              | -                                              | Common                                         | Common                                         |
-| White blood cell count decreased               | -                                              | -                                              | Common                                         | Common                                         |
-| Platelet count decreased                       | -                                              | -                                              | Common                                         | Common                                         |
-| Blood uric acid increased                      | -                                              | -                                              | Common*                                        | Uncommon*                                      |
-| Injury, poisoning and procedural complications | Injury, poisoning and procedural complications | Injury, poisoning and procedural complications | Injury, poisoning and procedural complications | Injury, poisoning and procedural complications |
-| Fall                                           | Common                                         | Common                                         | -                                              | -                                              |
+| Combination of treatment - System Organ Class /Preferred term   | Pomalidomide/ bortezomib/dexamethasone - All ADRs   | Pomalidomide/ bortezomib/dexamethasone - Grade 3-4 ADRs   | Pomalidomide/ dexamethasone - All ADRs         | Pomalidomide/ dexamethasone - Grade 3-4 ADRs   |
+|-----------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| Pyrexia                                                         | Very common                                         | Common                                                    | Very common                                    | Common                                         |
+| Oedema peripheral                                               | Very common                                         | Common                                                    | Very common                                    | Common                                         |
+| Non-cardiac chest pain                                          | Common                                              | Common                                                    | -                                              | -                                              |
+| Oedema                                                          | Common                                              | Common                                                    | -                                              | -                                              |
+| Investigations                                                  |                                                     |                                                           |                                                |                                                |
+| Alanine aminotransferase increased                              | Common                                              | Common                                                    | Common                                         | Common                                         |
+| Weight decreased                                                | Common                                              | Common                                                    | -                                              | -                                              |
+| Neutrophil count decreased                                      | -                                                   | -                                                         | Common                                         | Common                                         |
+| White blood cell count decreased                                | -                                                   | -                                                         | Common                                         | Common                                         |
+| Platelet count decreased                                        | -                                                   | -                                                         | Common                                         | Common                                         |
+| Blood uric acid increased                                       | -                                                   | -                                                         | Common*                                        | Uncommon*                                      |
+| Injury, poisoning and procedural complications                  | Injury, poisoning and procedural complications      | Injury, poisoning and procedural complications            | Injury, poisoning and procedural complications | Injury, poisoning and procedural complications |
+| Fall                                                            | Common                                              | Common                                                    | -                                              | -                                              |
 
 * Reported during post-marketing use.
 
@@ -715,7 +706,7 @@ Neutropenia and thrombocytopenia tended to occur more frequently within the firs
 
 Infection was the most common non haematological toxicity.
 
-Infection occurred in 83.1% (Pom+Btz+Dex) patients and 55.0% (Pom+Dex) patients (34.9% (Pom+Btz+Dex) and 24.0% (Pom+Dex)  Grade 3 or 4). Upper respiratory tract infection and pneumonia were the most frequently occurring infections. Fatal infections (Grade 5) occurred in 4.0% (Pom+Btz+Dex) patients and 2.7% (Pom+Dex) patients. Infections led to pomalidomide discontinuation in 3.6% (Pom+Btz+Dex) patients and 2.0% (Pom+Dex) patients.
+Infection occurred in 83.1% (Pom+Btz+Dex) patients and 55.0% (Pom+Dex) patients (34.9% (Pom+Btz+Dex) and 24.0% (Pom+Dex) Grade 3 or 4). Upper respiratory tract infection and pneumonia were the most frequently occurring infections. Fatal infections (Grade 5) occurred in 4.0% (Pom+Btz+Dex) patients and 2.7% (Pom+Dex) patients. Infections led to pomalidomide discontinuation in 3.6% (Pom+Btz+Dex) patients and 2.0% (Pom+Dex) patients.
 
 ## Thromboembolic events
 
@@ -723,7 +714,7 @@ Prophylaxis with acetylsalicylic acid (and other anticoagulants in high risk pat
 
 Venous thromboembolic events (VTE) occurred in 12.2% (Pom+Btz+Dex) and 3.3% (Pom+Dex) patients (5.8 % (Pom+Btz+Dex) and 1.3% (Pom+Dex) Grade 3 or 4). VTE was reported as serious in 4.7% (Pom+Btz+Dex) and 1.7% (Pom+Dex) patients, no fatal reactions were reported, and VTE was associated with pomalidomide discontinuation in up to 2.2% (Pom+Btz+Dex) of patients.
 
-Peripheral neuropathy - Pomalidomide in combination with bortezomib and dexamethasone
+## Peripheral neuropathy - Pomalidomide in combination with bortezomib and dexamethasone
 
 Patients with ongoing peripheral neuropathy ≥ Grade 2 with pain within 14 days prior to randomisation were excluded from clinical trials. Peripheral neuropathy occurred in 55.4 % of patients (10.8% Grade 3; 0.7% Grade 4). Exposure-adjusted rates were comparable across treatment arms.
 
@@ -759,27 +750,27 @@ In the event of overdose, supportive care is advised.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
-## 5.1 Pharmacodynamic  properties
+## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Immunosuppressants, Other immunosuppressants, ATC code: L04AX06
 
 ## Mechanism of action
 
-Pomalidomide has direct anti-myeloma tumoricidal activity, immunomodulatory activities and inhibits stromal cell support for multiple myeloma tumour cell growth. Specifically, pomalidomide inhibits proliferation and induces apoptosis of haematopoietic tumour cells. Additionally, pomalidomide inhibits the proliferation of lenalidomide-resistant multiple myeloma cell lines and synergises with dexamethasone in both lenalidomide-sensitive and lenalidomide-resistant cell lines to induce tumour cell apoptosis. Pomalidomide enhances T cell- and natural killer (NK) cell-mediated immunity and inhibits production of pro-inflammatory cytokines (e.g., TNFα and IL -6) by monocytes.
+Pomalidomide has direct anti-myeloma tumoricidal activity, immunomodulatory activities and inhibits stromal cell support for multiple myeloma tumour cell growth. Specifically, pomalidomide inhibits proliferation and induces apoptosis of haematopoietic tumour cells. Additionally, pomalidomide inhibits the proliferation of lenalidomide-resistant multiple myeloma cell lines and synergises with dexamethasone in both lenalidomide-sensitive and lenalidomide-resistant cell lines to induce tumour cell apoptosis. Pomalidomide enhances T cell- and natural killer (NK) cell-mediated immunity and inhibits production of pro-inflammatory cytokines (e.g., TNF-α and IL-6) by monocytes.
 
 Pomalidomide also inhibits angiogenesis by blocking the migration and adhesion of endothelial cells.
 
-Pomalidomide binds directly to the protein cereblon (CRBN), which is part of an E3 ligase complex that includes deoxyribonucleic acid (DNA) damage-binding protein 1(DDB1), cullin 4 (CUL4), and regulator of cullins-1 (Roc1), and can inhibit the auto-ubiquitination of CRBN within the complex. E3 ubiquitin ligases are responsible for the poly-ubiquitination of a variety of substrate proteins, and may partially explain the pleiotropic cellular effects observed with pomalidomide treatment. In the presence of pomalidomide in vitro , substrate proteins Aiolos and Ikaros are targeted for ubiquitination and subsequent degradation leading to direct cytotoxic and immunomodulatory effects. In vivo , pomalidomide therapy led to reduction in the levels of Ikaros in patients with relapsed lenalidomiderefractory multiple myeloma.
+Pomalidomide binds directly to the protein cereblon (CRBN), which is part of an E3 ligase complex that includes deoxyribonucleic acid (DNA) damage-binding protein 1(DDB1), cullin 4 (CUL4), and regulator of cullins-1 (Roc1), and can inhibit the auto-ubiquitination of CRBN within the complex. E3 ubiquitin ligases are responsible for the poly-ubiquitination of a variety of substrate proteins, and may partially explain the pleiotropic cellular effects observed with pomalidomide treatment.
+
+In the presence of pomalidomide in vitro, substrate proteins Aiolos and Ikaros are targeted for ubiquitination and subsequent degradation leading to direct cytotoxic and immunomodulatory effects. In vivo, pomalidomide therapy led to reduction in the levels of Ikaros in patients with relapsed lenalidomiderefractory multiple myeloma.
 
 ## Clinical efficacy and safety
 
 ## Pomalidomide in combination with bortezomib and dexamethasone
 
-The efficacy and safety of pomalidomide in combination with bortezomib and low-dose dexamethasone (Pom+Btz+LD-Dex) was compared with bortezomib and low-dose dexamethasone (Btz+LD-Dex) in a Phase III multi-centre, randomised, open-label study (CC-4047-MM-007), in previously treated adult patients with multiple myeloma, who had received at least one prior regimen, including lenalidomide and have demonstrated disease progression on or after the last therapy. A total of 559 patients were enrolled
+The efficacy and safety of pomalidomide in combination with bortezomib and low-dose dexamethasone (Pom+Btz+LD-Dex) was compared with bortezomib and low-dose dexamethasone (Btz+LD-Dex) in a Phase III multi-centre, randomised, open-label study (CC-4047-MM-007), in previously treated adult patients with multiple myeloma, who had received at least one prior regimen, including lenalidomide and have demonstrated disease progression on or after the last therapy. A total of 559 patients were enrolled and randomised in the study: 281 in the Pom+Btz+LD-Dex arm and 278 in the Btz+LD-Dex arm. 54% of patients were male with median age for the overall population of 68 years (min, max: 27, 89 years). Approximately 70% of patients were refractory to lenalidomide (71.2% in Pom+Btz+LD-Dex, 68.7 % in Btz+LD-Dex). Approximately 40% of patients were in 1 st relapse and approximately 73% of patients received bortezomib as prior treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-and randomised in the study: 281 in the Pom+Btz+LD-Dex arm and 278 in the Btz+LD-Dex arm. 54% of patients were male with median age for the overall population of 68 years (min, max: 27, 89 years). Approximately 70% of patients were refractory to lenalidomide (71.2% in Pom+Btz+LD-Dex, 68.7 % in Btz+LD-Dex). Approximately 40% of patients were in 1 st relapse and approximately 73% of patients received bortezomib as prior treatment.
 
 Patients in the Pom+Btz+LD-Dex arm were administered 4 mg pomalidomide orally on Days 1 to 14 of each 21-day cycle. Bortezomib (1.3 mg/m 2 /dose) was administered to patients in both study arms on Days 1, 4, 8 and 11 of a 21-day cycle for Cycles 1 to 8; and on Days 1 and 8 of a 21-day cycle for Cycles 9 and onwards. Low-dose dexamethasone (20 mg/day [≤ 75 years old] or 10 mg/day [&gt; 75 years old]) was administered to patients in both study arms on Days 1, 2, 4, 5, 8, 9, 11 and 12 of a 21day cycle for Cycles 1 to 8; and on Days 1, 2, 8 and 9 of each subsequent 21-day cycle from Cycles 9 onwards. Doses were reduced and treatment was temporarily interrupted or stopped as needed to manage toxicity (see section 4.2).
 
@@ -794,7 +785,7 @@ Table 8. Summary of overall efficacy data
 | PFS (months)              |                            |                            |
 | Median a time (95% CI) b  | 11.20 (9.66, 13.73)        | 7.10 (5.88, 8.48)          |
 | HR c (95% CI), p-value d  | 0.61 (0.49, 0.77), <0.0001 | 0.61 (0.49, 0.77), <0.0001 |
-| ORR, n (%)                | 82.2%                      | 50.0%                      |
+| ORR, n (%)                | 82.2 %                     | 50.0%                      |
 | sCR                       | 9 (3.2)                    | 2 (0.7)                    |
 | CR                        | 35 (12.5)                  | 9 (3.2)                    |
 | VGPR                      | 104 (37.0)                 | 40 (14.4)                  |
@@ -818,9 +809,9 @@ c Based on Cox proportional hazards model.
 
 d The p-value is based on a stratified log-rank test.
 
-e  Odds ratio is for Pom+Btz+LD-Dex:Btz+LD-Dex.
+e Odds ratio is for Pom+Btz+LD-Dex:Btz+LD-Dex.
 
-f The p-value is based on a CMH test, stratified by age (&lt;=75 vs &gt;75), Prior number of antimyeloma regimens (1 vs &gt;1), and Beta-2 microglobulin at screening (&lt; 3.5 mg/L versus ≥ 3.5 mg/L -≤ 5.5 mg/L versus &gt; 5. 5 mg/L).
+f The p-value is based on a CMH test, stratified by age (&lt;=75 vs &gt;75), Prior number of antimyeloma regimens (1 vs &gt;1), and Beta-2 microglobulin at screening (&lt; 3.5 mg/L versus ≥ 3.5 mg/L - ≤ 5.5 mg/L versus &gt; 5.5 mg/L).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -832,6 +823,8 @@ Figure 1. Progression Free Survival Based on IRAC Review of Response by IMWG Cri
 
 <!-- image -->
 
+PFS - Time from Randomization (Months)
+
 Data cutoff: 26 Oct 2017
 
 Final analysis for Overall Survival (OS), using a cut-off of 13 May 2022 (median follow-up period of 64.5 months), median OS time from Kaplan-Meier estimates was 35.6 months for the Pom + Btz + LDDex arm and 31.6 months for the Btz + LD-Dex arm; HR =0.94, 95% CI: -0.77, 1.15, with an overall event rate of 70.0%. The OS analysis was not adjusted to account for subsequent therapies received.
@@ -841,8 +834,6 @@ Final analysis for Overall Survival (OS), using a cut-off of 13 May 2022 (median
 The efficacy and safety of pomalidomide in combination with dexamethasone were evaluated in a Phase III multi-centre, randomised, open-label study (CC-4047-MM-003), where pomalidomide plus low-dose dexamethasone therapy (Pom+LD-Dex) was compared to high-dose dexamethasone alone (HD-Dex) in previously treated adult patients with relapsed and refractory multiple myeloma, who have received at least two prior treatment regimens, including both lenalidomide and bortezomib, and have demonstrated disease progression on the last therapy. A total of 455 patients were enrolled in the study: 302 in the Pom+LD-Dex arm and 153 in the HD-Dex arm. The majority of patients were male (59%) and white (79%); the median age for the overall population was 64 years (min, max: 35, 87 years).
 
 Patients in the Pom+LD-Dex arm were administered 4 mg pomalidomide orally on days 1 to 21 of each 28-day cycle. LD-Dex (40 mg) was administered once per day on days 1, 8, 15 and 22 of a 28- day cycle. For the HD-Dex arm, dexamethasone (40 mg) was administered once per day on days 1 through 4, 9 through 12, and 17 through 20 of a 28-day cycle. Patients &gt; 75 years of age started treatment with 20 mg dexamethasone. Treatment continued until patients had disease progression.
-
-PFS - Time from Randomization (Months)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -854,26 +845,16 @@ PFS is summarised in Table 9 for the ITT population. Kaplan-Meier curve for PFS 
 
 Table 9. Progression Free Survival Time by IRAC Review Based on IMWG Criteria (Stratified Log Rank Test) (ITT Population)
 
-|                                                   | Pom+LD - Dex (N=302)   | HD - Dex (N=153)   |
-|---------------------------------------------------|------------------------|--------------------|
-| Progression free survival (PFS), N                | 302 (100.0)            | 153 (100.0)        |
-| Censored, n (%)                                   | 138 (45.7)             | 50 (32.7)          |
-| Progressed/Died, n (%)                            | 164 (54.3)             | 103 (67.3)         |
-| Progression Free Survival Time (weeks)            |                        |                    |
-| Median a                                          | 15.7                   | 8.0                |
-| Two sided 95% CI b                                | [13.0, 20.1]           | [7.0, 9.0]         |
-| Hazard Ratio (Pom+LD-Dex:HD-Dex) 2-Sided 95% CI c | 0.45 [0.35,0.59]       |                    |
-| Log-Rank Test Two sided P-Value d                 | <0.001                 |                    |
-
-Note: CI=Confidence interval; IRAC=Independent Review Adjudication Committee; NE = Not Estimable.
-
-a The median is based on Kaplan-Meier estimate.
-
-b 95% confidence interval about the median progression free survival time.
-
-c Based on Cox proportional hazards model comparing the hazard functions associated with treatment groups, stratified by age (≤75 vs &gt;75),diseases population (refractory to both lenalidomide and bortezomib vs not refractory to both active substances) , and prior number of anti myeloma therapy (=2 vs &gt;2).
-
-d The p-value is based on a stratified log-rank test with the same stratification factors as the above Cox model. Data cutoff: 07 Sep 2012
+|                                                   | Pom+LD-Dex (N=302)   | HD-Dex (N=153)   |
+|---------------------------------------------------|----------------------|------------------|
+| Progression free survival (PFS), N                | 302 (100.0)          | 153 (100.0)      |
+| Censored, n (%)                                   | 138 (45.7)           | 50 (32.7)        |
+| Progressed/Died, n (%)                            | 164 (54.3)           | 103 (67.3)       |
+| Progression Free Survival Time (weeks)            |                      |                  |
+| Median a                                          | 15.7                 | 8.0              |
+| Two sided 95% CI b                                | [13.0, 20.1]         | [7.0, 9.0]       |
+| Hazard Ratio (Pom+LD-Dex:HD-Dex) 2-Sided 95% CI c | 0.45 [0.35,0.59]     |                  |
+| Log-Rank Test Two sided P-Value d                 | <0.001               |                  |
 
 Figure 2. Progression Free Survival Based on IRAC Review of Response by IMWG Criteria (Stratified Log Rank Test) (ITT Population)
 
@@ -891,15 +872,14 @@ Based on the results of both PFS and OS endpoints, the Data Monitoring Committee
 
 Table 10. Overall Survival: ITT Population
 
-|                                                        | Statistics                                             | Pom+LD - Dex (N=302)   | HD - Dex (N=153)   |
-|--------------------------------------------------------|--------------------------------------------------------|------------------------|--------------------|
-|                                                        | N                                                      | 302 (100.0)            | 153 (100.0)        |
-| Censored                                               | n (%)                                                  | 226 (74.8)             | 95 (62.1)          |
-| Died                                                   | n (%)                                                  | 76 (25.2)              | 58 (37.9)          |
-| Survival Time (weeks)                                  | Median a                                               | NE                     | 34.0               |
-|                                                        | Two sided 95% CI b                                     | [48.1, NE]             | [23.4, 39.9]       |
-| Hazard Ratio (Pom+LD-Dex:HD-Dex) [Two sided 95% CI c ] | Hazard Ratio (Pom+LD-Dex:HD-Dex) [Two sided 95% CI c ] | 0.53[0.37, 0.74]       |                    |
-| Log-Rank Test Two sided P-Value d                      | Log-Rank Test Two sided P-Value d                      | <0.001                 |                    |
+|                                                        | Statistics - N                                         | Pom+LD-Dex (N=302) - 302 (100.0)   | HD-Dex (N=153) - 153 (100.0)   |
+|--------------------------------------------------------|--------------------------------------------------------|------------------------------------|--------------------------------|
+| Censored                                               | n (%)                                                  | 226 (74.8)                         | 95 (62.1)                      |
+| Died                                                   | n (%)                                                  | 76 (25.2)                          | 58 (37.9)                      |
+| Survival Time (weeks)                                  | Median a                                               | NE                                 | 34.0                           |
+|                                                        | Two sided 95% CI b                                     | [48.1, NE]                         | [23.4, 39.9]                   |
+| Hazard Ratio (Pom+LD-Dex:HD-Dex) [Two sided 95% CI c ] | Hazard Ratio (Pom+LD-Dex:HD-Dex) [Two sided 95% CI c ] | 0.53[0.37, 0.74]                   |                                |
+| Log-Rank Test Two sided P-Value d                      | Log-Rank Test Two sided P-Value d                      | <0.001                             |                                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -925,7 +905,7 @@ In the Phase 2 study, two patients in the high-grade glioma group (N=19) achieve
 
 The overall safety profile of pomalidomide in paediatric patients was consistent with the known safety profile in adults. Pharmacokinetic (PK) parameters were evaluated in an Integrated PK Analysis of the Phase 1 and Phase 2 studies and were found to have no significant difference to those observed in adult patients (see section 5.2).
 
-## 5.2 Pharmacokinetic  properties
+## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
@@ -943,7 +923,7 @@ Pomalidomide has a mean apparent volume of distribution (Vd/F) between 62 and 13
 
 Pomalidomide is the major circulating component (approximately 70% of plasma radioactivity) in vivo in healthy subjects who received a single oral dose of [ 14 C]-pomalidomide (2 mg). No metabolites were present at &gt;10% relative to parent or total radioactivity in plasma.
 
-The predominant metabolic pathways of excreted radioactivity are hydroxylation with subsequent glucuronidation, or hydrolysis. In vitro , CYP1A2 and CYP3A4 were identified as the primary enzymes involved in the CYP-mediated hydroxylation of pomalidomide, with additional minor contributions from CYP2C19 and CYP2D6. Pomalidomide is also a substrate of P-glycoprotein in vitro . Co-administration of pomalidomide with the strong CYP3A4/5 and P-gp inhibitor ketoconazole, or the strong CYP3A4/5 inducer carbamazepine, had no clinically relevant effect on exposure to pomalidomide. Co-administration of the strong CYP1A2 inhibitor fluvoxamine with pomalidomide in the presence of ketoconazole, increased mean exposure to pomalidomide by 107% with a 90% confidence interval [91% to 124%] compared to pomalidomide plus ketoconazole. In a second study to evaluate the contribution of a CYP1A2 inhibitor alone to metabolism changes, co-administration of fluvoxamine alone with pomalidomide increased mean exposure to pomalidomide by 125% with a 90% confidence interval [98% to 157%] compared to pomalidomide alone. If strong inhibitors of CYP1A2 (e.g. ciprofloxacin, enoxacin and fluvoxamine) are co-administered with pomalidomide, reduce the dose of pomalidomide to 50%. Administration of pomalidomide in smokers, with smoking tobacco known to induce the CYP1A2 isoform, had no clinically relevant effect on exposure to pomalidomide compared to that exposure to pomalidomide observed in non-smokers.
+The predominant metabolic pathways of excreted radioactivity are hydroxylation with subsequent glucuronidation, or hydrolysis. In vitro, CYP1A2 and CYP3A4 were identified as the primary enzymes involved in the CYP-mediated hydroxylation of pomalidomide, with additional minor contributions from CYP2C19 and CYP2D6. Pomalidomide is also a substrate of P-glycoprotein in vitro. Co-administration of pomalidomide with the strong CYP3A4/5 and P-gp inhibitor ketoconazole, or the strong CYP3A4/5 inducer carbamazepine, had no clinically relevant effect on exposure to pomalidomide. Co-administration of the strong CYP1A2 inhibitor fluvoxamine with pomalidomide in the presence of ketoconazole, increased mean exposure to pomalidomide by 107% with a 90% confidence interval [91% to 124%] compared to pomalidomide plus ketoconazole. In a second study to evaluate the contribution of a CYP1A2 inhibitor alone to metabolism changes, co-administration of fluvoxamine alone with pomalidomide increased mean exposure to pomalidomide by 125% with a 90% confidence interval [98% to 157%] compared to pomalidomide alone. If strong inhibitors of CYP1A2 (e.g. ciprofloxacin, enoxacin and fluvoxamine) are co-administered with pomalidomide, reduce the dose of pomalidomide to 50%. Administration of pomalidomide in smokers, with smoking tobacco known to induce the CYP1A2 isoform, had no clinically relevant effect on exposure to pomalidomide compared to that exposure to pomalidomide observed in non-smokers.
 
 Based on in vitro data, pomalidomide is not an inhibitor or inducer of cytochrome P-450 isoenzymes, and does not inhibit any drug transporters that were studied. Clinically relevant interactions are not anticipated when pomalidomide is coadministered with substrates of these pathways.
 
@@ -953,11 +933,9 @@ Pomalidomide is eliminated with a median plasma half-life of approximately 9.5 h
 
 Following a single oral administration of [ 14 C] -pomalidomide (2 mg) to healthy subjects, approximately 73% and 15% of the radioactive dose was eliminated in urine and faeces, respectively, with approximately 2% and 8% of the dosed radiocarbon eliminated as pomalidomide in urine and faeces.
 
-Pomalidomide is extensively metabolised prior to excretion, with the resulting metabolites eliminated primarily in the urine. The 3 predominant metabolites in urine (formed via hydrolysis or hydroxylation with subsequent glucuronidation) account for approximately 23%, 17%, and 12%, respectively, of the
+Pomalidomide is extensively metabolised prior to excretion, with the resulting metabolites eliminated primarily in the urine. The 3 predominant metabolites in urine (formed via hydrolysis or hydroxylation with subsequent glucuronidation) account for approximately 23%, 17%, and 12%, respectively, of the dose in the urine.
 
 <div style=\"page-break-after: always\"></div>
-
-dose in the urine.
 
 CYP dependent metabolites account for approximately 43% of the total excreted radioactivity, while nonCYP dependent hydrolytic metabolites account for 25%, and excretion of unchanged pomalidomide accounted for 10% (2% in urine and 8% in faeces).
 
@@ -979,11 +957,11 @@ Based on population pharmacokinetic analyses in healthy subjects and multiple my
 
 ## Renal impairment
 
-Population pharmacokinetic analyses showed that the pomalidomide pharmacokinetic parameters were not remarkably affected in renally impaired patients (defined by creatinine clearance or estimated glomerular filtration rate [eGFR]) compared to patients with normal renal function (CrCl ≥60 mL/minute). Mean normalised AUC exposure to pomalidomide was 98.2% with a 90% confidence interval [77.4% to 120.6%] in moderate renal impairment patient s (eGFR ≥30 to ≤45 mL/minute/1.73 m 2 ) compared to patients with normal renal function. Mean normalised AUC exposure to pomalidomide was 100.2% with a 90% confidence interval [79.7% to 127.0%] in severe renal
+Population pharmacokinetic analyses showed that the pomalidomide pharmacokinetic parameters were not remarkably affected in renally impaired patients (defined by creatinine clearance or estimated glomerular filtration rate [eGFR]) compared to patients with normal renal function
+
+(CrCl ≥60 mL/minute). Mean normalised AUC exposure to pomalidomide was 98.2% with a 90% confidence interval [77.4% to 120.6%] in moderate renal impairment patients (eGFR ≥30 to ≤45 mL/minute/1.73 m 2 ) compared to patients with normal renal function. Mean normalised AUC exposure to pomalidomide was 100.2% with a 90% confidence interval [79.7% to 127.0%] in severe renal impairment patients not requiring dialysis (CrCl &lt;30 or eGFR &lt;30 mL/minute/1.73 m 2 ) compared to patients with normal renal function. Mean normalised AUC exposure to pomalidomide increased by 35.8% with a 90% CI [7.5% to 70.0%] in severe renal impairment patients requiring dialysis (CrCl &lt;30mL/minute requiring dialysis) compared to patients with normal renal function. The mean changes in exposure to pomalidomide in each of these renal impairment groups are not of a magnitude that requires dose adjustments.
 
 <div style=\"page-break-after: always\"></div>
-
-impairment patients not requiring dialysis (CrCl &lt;30 or eGFR &lt;30 mL/minute/1.73 m 2 ) compared to patients with normal renal function. Mean normalised AUC exposure to pomalidomide increased by 35.8% with a 90% CI [7.5% to 70.0%] in severe renal impairment patients requiring dialysis (CrCl &lt;30mL/minute requiring dialysis) compared to patients with normal renal function. The mean changes in exposure to pomalidomide in each of these renal impairment groups are not of a magnitude that requires dose adjustments.
 
 ## Hepatic impairment
 
@@ -1019,7 +997,7 @@ There was no maternal toxicity observed in this study. Therefore, the maternal N
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
-## 6.1 List of  excipients
+## 6.1 List of excipients
 
 ## Capsule contents
 
@@ -1029,7 +1007,13 @@ Lactose Monohydrate Crospovidone Povidone Sodium Laurilsulfate Sodium Stearyl Fu
 
 <div style=\"page-break-after: always\"></div>
 
-Pomalidomide Teva 1mg Hard Capsules Gelatin Titanium dioxide (E171) Brilliant blue FCF (E133) Iron oxide yellow (E172) Pomalidomide Teva 2mg Hard Capsules Gelatin Titanium dioxide (E171) Brilliant blue FCF (E133) Iron oxide yellow (E172) IronI oxide red (E172) Pomalidomide Teva 3mg Hard Capsules Gelatin Titanium dioxide (E171) Brilliant blue FCF (E133) Iron oxide yellow (E172) Pomalidomide Teva 4mg Hard Capsules Gelatin Titanium dioxide (E171) Brilliant blue FCF (E133) Capsule printing ink Shellac (E904) Iron oxide black (E172) Propylene glycol (E1520) Potassium hydroxide (E525) Ammonia solution, concentrated (E527)
+Pomalidomide Teva 1mg Hard Capsules
+
+Gelatin Titanium dioxide (E171) Brilliant blue FCF (E133) Iron oxide yellow (E172)
+
+Pomalidomide Teva 2mg Hard Capsules
+
+Gelatin Titanium dioxide (E171) Brilliant blue FCF (E133) Iron oxide yellow (E172) IronI oxide red (E172) Pomalidomide Teva 3mg Hard Capsules Gelatin Titanium dioxide (E171) Brilliant blue FCF (E133) Iron oxide yellow (E172) Pomalidomide Teva 4mg Hard Capsules Gelatin Titanium dioxide (E171) Brilliant blue FCF (E133) Capsule printing ink Shellac (E904) Iron oxide black (E172) Propylene glycol (E1520) Potassium hydroxide (E525) Ammonia solution, concentrated (E527)
 
 ## 6.2 Incompatibilities
 
@@ -1047,7 +1031,9 @@ Do not store above 25°C
 
 The capsules are packed in PVC/PE/PVDC-Aluminium blisters and perforated unit dose blisters or PVC/PCTFE/PVC-Aluminium blisters and perforated unit dose blisters.
 
-Pack sizes of 14, 14x1, 21, 21x1, 63 and 63x1 capsules. Not all pack size may be marketed.
+Pack sizes of 14, 14x1, 21, 21x1, 63 and 63x1 capsules.
+
+Not all pack size may be marketed.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1066,7 +1052,15 @@ TEVA GmbH Graf-Arco-Str. 3 89079 Ulm Germany
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 ```
-Pomalidomide Teva 1 mg hard capsules EU/1/24/1868/001 EU/1/24/1868/002 EU/1/24/1868/003 EU/1/24/1868/004 EU/1/24/1868/005 EU/1/24/1868/006 EU/1/24/1868/007 EU/1/24/1868/008 EU/1/24/1868/009 EU/1/24/1868/010 EU/1/24/1868/011 EU/1/24/1868/012 Pomalidomide Teva 2 mg hard capsules EU/1/24/1868/013 EU/1/24/1868/014 EU/1/24/1868/015 EU/1/24/1868/016 EU/1/24/1868/017 EU/1/24/1868/018 EU/1/24/1868/019 EU/1/24/1868/020 EU/1/24/1868/021 EU/1/24/1868/022 EU/1/24/1868/023 EU/1/24/1868/024
+Pomalidomide Teva 1 mg hard capsules EU/1/24/1868/001 EU/1/24/1868/002 EU/1/24/1868/003 EU/1/24/1868/004 EU/1/24/1868/005 EU/1/24/1868/006 EU/1/24/1868/007 EU/1/24/1868/008 EU/1/24/1868/009 EU/1/24/1868/010 EU/1/24/1868/011
+```
+
+```
+Pomalidomide Teva 2 mg hard capsules EU/1/24/1868/013 EU/1/24/1868/014 EU/1/24/1868/015 EU/1/24/1868/016 EU/1/24/1868/017 EU/1/24/1868/018 EU/1/24/1868/019 EU/1/24/1868/020 EU/1/24/1868/021 EU/1/24/1868/022 EU/1/24/1868/023
+```
+
+```
+EU/1/24/1868/012 EU/1/24/1868/024
 ```
 
 <div style=\"page-break-after: always\"></div>
@@ -1085,12 +1079,9 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX II
+## ANNEX II A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1102,9 +1093,7 @@ Balkanpharma-Dupnitsa AD 3 Samokovsko Shosse Str. Dupnitsa 2600, Bulgaria
 
 Merckle GmbH Graf-Arco-Str. 3, 89079 Ulm, Germany
 
-Actavis Group PTC ehf. Dalshraun 1
-
-IS-220 Hafnarfjordur, Iceland
+Actavis Group PTC ehf. Dalshraun 1 IS-220 Hafnarfjordur, Iceland
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch
 
@@ -1116,7 +1105,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## · Periodic safety update reports
 
-The requirements for submission of periodic safety update reports for this medicinal product are set out in  the  list  of  Union  reference  dates  (EURD  list)  provided  for  under  Article  107c(7)  of  Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1186,9 +1175,7 @@ The Educational Healthcare Professional's Kit shall contain the following elemen
 -  After finishing treatment
 - o Need to stop pomalidomide immediately upon suspicion of pregnancy
 - o Need to tell treating doctor immediately upon suspicion of pregnancy
-
-## · Safety advice for men
-
+- Safety advice for men
 - o The need to avoid foetal exposure
 - o The need to use condoms if sexual partner is pregnant or a WCBP not using effective contraception (even if the man has had a vasectomy)
 -  During pomalidomide treatment
@@ -1199,7 +1186,6 @@ The Educational Healthcare Professional's Kit shall contain the following elemen
 - o Instructions to stop pomalidomide immediately upon suspicion of pregnancy, if female patient
 - o Need to refer patient to physician specialised or experienced in dealing with teratology and its diagnosis for evaluation and advice
 - o Local contact details for reporting of any suspected pregnancy immediately
-- o Pregnancy reporting form
 - Local contact details for reporting adverse reactions
 
 ## Educational Brochures for patients
@@ -1277,7 +1263,7 @@ All risk awareness forms should contain the following elements:
 - date of counselling
 - patient details, signature and date
 - prescriber name, signature and date
-- aim of this document i.e. as stated in the PPP: 'The aim of the risk awareness form is to protect patients and any possible foetuses by ensuring that patients are fully informed of and understand the risk of teratogenicity and other adverse reactions associated with the use of pomalidomide. It is not a contract and does not absolve anybody from his/her responsibilities with regard to the safe use of the product and prevention of foetal exposure.'
+- aim of this document i.e. as stated in the PPP: \"The aim of the risk awareness form is to protect patients and any possible foetuses by ensuring that patients are fully informed of and understand the risk of teratogenicity and other adverse reactions associated with the use of pomalidomide. It is not a contract and does not absolve anybody from his/her responsibilities with regard to the safe use of the product and prevention of foetal exposure.\"
 
 Risk awareness forms for women of childbearing potential should also include:
 
@@ -1334,7 +1320,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Pomalidomide Teva 1 mg hard capsules pomalidomide
+Pomalidomide Teva 1 mg hard capsules
+
+pomalidomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1395,17 +1383,27 @@ Germany
 
 EU/1/24/1868/001 14 capsules
 
-- EU/1/24/1868/002 14 x 1 capsules
-- EU/1/24/1868/003 21 capsules
-- EU/1/24/1868/004 21 x 1 capsules
-- EU/1/24/1868/005 63 capsules
-- EU/1/24/1868/006 63 x 1 capsules
-- EU/1/24/1868/007 14 capsules
-- EU/1/24/1868/008 14 x 1 capsules
-- EU/1/24/1868/009 21 capsules
-- EU/1/24/1868/010 21 x 1 capsules
-- EU/1/24/1868/011 63 capsules
-- EU/1/24/1868/012 63 x 1 capsules
+EU/1/24/1868/002 14 x 1 capsules
+
+EU/1/24/1868/003 21 capsules
+
+EU/1/24/1868/004 21 x 1 capsules
+
+EU/1/24/1868/005 63 capsules
+
+EU/1/24/1868/006 63 x 1 capsules
+
+EU/1/24/1868/007 14 capsules
+
+EU/1/24/1868/008 14 x 1 capsules
+
+EU/1/24/1868/009 21 capsules
+
+EU/1/24/1868/010 21 x 1 capsules
+
+EU/1/24/1868/011 63 capsules
+
+EU/1/24/1868/012 63 x 1 capsules
 
 ## 13. BATCH NUMBER
 
@@ -1426,10 +1424,12 @@ pomalidomide teva 1 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
+
+46
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1439,7 +1439,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Pomalidomide Teva 2 mg hard capsules pomalidomide
+Pomalidomide Teva 2 mg hard capsules
+
+pomalidomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1506,15 +1508,19 @@ EU/1/24/1868/015 21 capsules
 
 EU/1/24/1868/016 21 x 1 capsules
 
-- EU/1/24/1868/017 63 capsules
+EU/1/24/1868/017 63 capsules
 
 EU/1/24/1868/018 63 x 1 capsules
 
-- EU/1/24/1868/019 14 capsules
-- EU/1/24/1868/020 14 x 1 capsules
-- EU/1/24/1868/021 21 capsules
-- EU/1/24/1868/022 21 x 1 capsules
-- EU/1/24/1868/023 63 capsules
+EU/1/24/1868/019 14 capsules
+
+EU/1/24/1868/020 14 x 1 capsules
+
+EU/1/24/1868/021 21 capsules
+
+EU/1/24/1868/022 21 x 1 capsules
+
+EU/1/24/1868/023 63 capsules
 
 EU/1/24/1868/024 63 x 1 capsules
 
@@ -1537,10 +1543,12 @@ pomalidomide teva 2 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
+
+49
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1550,7 +1558,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Pomalidomide Teva 3 mg hard capsules pomalidomide
+Pomalidomide Teva 3 mg hard capsules
+
+pomalidomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1613,16 +1623,25 @@ EU/1/24/1868/025 14 capsules
 
 EU/1/24/1868/026 14 x 1 capsules
 
-- EU/1/24/1868/027 21 capsules
-- EU/1/24/1868/028 21 x 1 capsules
-- EU/1/24/1868/029 63 capsules
-- EU/1/24/1868/030 63 x 1 capsules
-- EU/1/24/1868/031 14 capsules
-- EU/1/24/1868/032 14 x 1 capsules
-- EU/1/24/1868/033 21 capsules
-- EU/1/24/1868/034 21 x 1 capsules
-- EU/1/24/1868/035 63 capsules
-- EU/1/24/1868/036 63 x 1 capsules
+EU/1/24/1868/027 21 capsules
+
+EU/1/24/1868/028 21 x 1 capsules
+
+EU/1/24/1868/029 63 capsules
+
+EU/1/24/1868/030 63 x 1 capsules
+
+EU/1/24/1868/031 14 capsules
+
+EU/1/24/1868/032 14 x 1 capsules
+
+EU/1/24/1868/033 21 capsules
+
+EU/1/24/1868/034 21 x 1 capsules
+
+EU/1/24/1868/035 63 capsules
+
+EU/1/24/1868/036 63 x 1 capsules
 
 ## 13. BATCH NUMBER
 
@@ -1643,8 +1662,8 @@ pomalidomide teva 3 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1656,7 +1675,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Pomalidomide Teva 4 mg hard capsules pomalidomide
+Pomalidomide Teva 4 mg hard capsules
+
+pomalidomide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1717,17 +1738,27 @@ Germany
 
 EU/1/24/1868/037 14 capsules
 
-- EU/1/24/1868/038 14 x 1 capsules
-- EU/1/24/1868/039 21 capsules
-- EU/1/24/1868/040 21 x 1 capsules
-- EU/1/24/1868/041 63 capsules
-- EU/1/24/1868/042 63 x 1 capsules
-- EU/1/24/1868/043 14 capsules
-- EU/1/24/1868/044 14 x 1 capsules
-- EU/1/24/1868/045 21 capsules
-- EU/1/24/1868/046 21 x 1 capsules
-- EU/1/24/1868/047 63 capsules
-- EU/1/24/1868/048 63 x 1 capsules
+EU/1/24/1868/038 14 x 1 capsules
+
+EU/1/24/1868/039 21 capsules
+
+EU/1/24/1868/040 21 x 1 capsules
+
+EU/1/24/1868/041 63 capsules
+
+EU/1/24/1868/042 63 x 1 capsules
+
+EU/1/24/1868/043 14 capsules
+
+EU/1/24/1868/044 14 x 1 capsules
+
+EU/1/24/1868/045 21 capsules
+
+EU/1/24/1868/046 21 x 1 capsules
+
+EU/1/24/1868/047 63 capsules
+
+EU/1/24/1868/048 63 x 1 capsules
 
 ## 13. BATCH NUMBER
 
@@ -1748,36 +1779,10 @@ pomalidomide teva 4 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
-
-BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Pomalidomide Teva 1 mg capsules
-
-pomalidomide
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-TEVA GmbH
-
-3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1785,84 +1790,105 @@ Lot
 |---------------------------------------------|
 | BLISTER                                     |
 
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Pomalidomide Teva 1 mg capsules
+
+pomalidomide
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+TEVA GmbH
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot Pomalidomide Teva 2 mg capsules pomalidomide TEVA GmbH
+
 | 5.   | OTHER   |
 |------|---------|
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
+<div style=\"page-break-after: always\"></div>
 
-BLISTER
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
+|---------------------------------------------|
+| BLISTER                                     |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Pomalidomide Teva 2 mg capsules
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-pomalidomide
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-TEVA GmbH
-
-3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
-
-BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Pomalidomide Teva 3 mg capsules
-
-pomalidomide
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-TEVA GmbH
-
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
-Lot
+Lot Pomalidomide Teva 3 mg capsules pomalidomide TEVA GmbH
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
+|---------------------------------------------|
+| BLISTER                                     |
 
-BLISTER
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Pomalidomide Teva 4 mg capsules
-
-pomalidomide
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-TEVA GmbH
-
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot Pomalidomide Teva 4 mg capsules pomalidomide TEVA GmbH
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
+|---------------------------------------------|
+| BLISTER                                     |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1872,7 +1898,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-Pomalidomide Teva 1 mg hard capsules Pomalidomide Teva 2 mg hard capsules Pomalidomide Teva 3 mg hard capsules Pomalidomide Teva 4 mg hard capsules pomalidomide
+Pomalidomide Teva 1 mg hard capsules Pomalidomide Teva 2 mg hard capsules Pomalidomide Teva 3 mg hard capsules Pomalidomide Teva 4 mg hard capsules
+
+pomalidomide
 
 ## Pomalidomide Teva is expected to cause severe birth defects and may lead to the death of an unborn baby.
 
@@ -1946,8 +1974,8 @@ When Pomalidomide Teva is used with dexamethasone, in people who have had at lea
 
 ## Do not take Pomalidomide Teva:
 
-- if you are pregnant or think you may be pregnant or are planning to become pregnant - this is because Pomalidomide Teva is expected to be harmful to an unborn child . (Men and women taking this medicine must read the section 'Pregnancy, contraception and breast-feeding information for women and men' below).
-- if you are able to become pregnant, unless you follow all the necessary measures to prevent you from becoming pregnant (see 'Pregnancy, contraception and breast-feeding - information for women and men'). If you are able to become pregnant, your doctor will record with each prescription that the necessary measures have been taken and will provide you with this confirmation.
+- if you are pregnant or think you may be pregnant or are planning to become pregnant - this is because Pomalidomide Teva is expected to be harmful to an unborn child. (Men and women taking this medicine must read the section \"Pregnancy, contraception and breast-feeding - information for women and men\" below).
+- if you are able to become pregnant, unless you follow all the necessary measures to prevent you from becoming pregnant (see \"Pregnancy, contraception and breast-feeding - information for women and men\"). If you are able to become pregnant, your doctor will record with each prescription that the necessary measures have been taken and will provide you with this confirmation.
 - if you are allergic to pomalidomide or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice.
 
 If you are uncertain whether any of the conditions above apply to you, talk to your doctor, pharmacist or nurse before taking Pomalidomide Teva.
@@ -1967,7 +1995,7 @@ breathing while taking related medicines called 'thalidomide' or 'lenalidomide'.
 - you have a high total amount of tumour throughout the body, including your bone marrow. This could lead to a condition where the tumours break down and cause unusual levels of chemicals in the blood which can lead to kidney failure. You may also experience an uneven heartbeat. This condition is called tumour lysis syndrome.
 - you have or have had neuropathy (nerve damage causing tingling or pain in your hands or feet).
 - you have or have ever had hepatitis B infection. Treatment with Pomalidomide Teva may cause the hepatitis B virus to become active again in patients who carry the virus, resulting in a recurrence of the infection. Your doctor should check whether you have ever had hepatitis B infection.
-- you experience or have experienced in the past a combination of any of the following symptoms: rash on face or extended rash, red skin, high fever, flu-like symptoms, enlarged lymph nodes (signs of severe skin reaction called Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) or drug hypersensitivity syndrome, Toxic Epidermal Necrolysis (TEN) or Stevens-Johnson Syndrome (SJS). See also section 4 'Possible side effects').
+- you experience or have experienced in the past a combination of any of the following symptoms: rash on face or extended rash, red skin, high fever, flu-like symptoms, enlarged lymph nodes (signs of severe skin reaction called Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) or drug hypersensitivity syndrome, Toxic Epidermal Necrolysis (TEN) or Stevens-Johnson Syndrome (SJS). See also section 4 \"Possible side effects\").
 
 It is important to note that patients with multiple myeloma treated with pomalidomide may develop additional types of cancer, therefore your doctor should carefully evaluate the benefit and risk when you are prescribed this medicine.
 
@@ -2044,11 +2072,9 @@ This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to s
 
 ## Pomalidomide Teva contains lactose
 
-If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor
+If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
 
 <div style=\"page-break-after: always\"></div>
-
-before taking this medicinal product.
 
 ## Pomalidomide Teva contains Brilliant blue FCF (E133)
 
@@ -2070,61 +2096,59 @@ Pomalidomide Teva with bortezomib and dexamethasone
 - o Each day, look down the chart and find the correct day to see which medicines to take.
 - o Some days, you take all 3 medicines, some days just 2 or 1 medicines, and some days none at all.
 
-POM: Pomalidomide Teva; BOR : Bortezomib; DEX : Dexamethasone
+POM: Pomalidomide Teva; BOR: Bortezomib; DEX: Dexamethasone
 
-## Cycle 1 to 8
+Cycle 1 to 8
 
-|     | Medicine name   | Medicine name   | Medicine name   |
-|-----|-----------------|-----------------|-----------------|
-| Day | POM             | BOR             | DEX             |
-| 1   | √               | √               | √               |
-| 2   | √               |                 | √               |
-| 3   | √               |                 |                 |
-| 4   | √               | √               | √               |
-| 5   | √               |                 | √               |
-| 6   | √               |                 |                 |
-| 7   | √               |                 |                 |
-| 8   | √               | √               | √               |
-| 9   | √               |                 | √               |
-| 10  | √               |                 |                 |
-| 11  | √               | √               | √               |
-| 12  | √               |                 | √               |
-| 13  | √               |                 |                 |
-| 14  | √               |                 |                 |
-| 15  |                 |                 |                 |
-| 16  |                 |                 |                 |
-| 17  |                 |                 |                 |
-| 18  |                 |                 |                 |
-| 19  |                 |                 |                 |
-| 20  |                 |                 |                 |
-| 21  |                 |                 |                 |
+|   Day | Medicine name - POM   | Medicine name - BOR   | DEX   |
+|-------|-----------------------|-----------------------|-------|
+|     1 | √                     | √                     | √     |
+|     2 | √                     |                       | √     |
+|     3 | √                     |                       |       |
+|     4 | √                     | √                     | √     |
+|     5 | √                     |                       | √     |
+|     6 | √                     |                       |       |
+|     7 | √                     |                       |       |
+|     8 | √                     | √                     | √     |
+|     9 | √                     |                       | √     |
+|    10 | √                     |                       |       |
+|    11 | √                     | √                     | √     |
+|    12 | √                     |                       | √     |
+|    13 | √                     |                       |       |
+|    14 | √                     |                       |       |
+|    15 |                       |                       |       |
+|    16 |                       |                       |       |
+|    17 |                       |                       |       |
+|    18 |                       |                       |       |
+|    19 |                       |                       |       |
+|    20 |                       |                       |       |
+|    21 |                       |                       |       |
 
-## Cycle 9 and onwards
+Cycle 9 and onwards
 
-|     | Medicine name   | Medicine name   | Medicine name   |
-|-----|-----------------|-----------------|-----------------|
-| Day | POM             | BOR             | DEX             |
-| 1   | √               | √               | √               |
-| 2   | √               |                 | √               |
-| 3   | √               |                 |                 |
-| 4   | √               |                 |                 |
-| 5   | √               |                 |                 |
-| 6   | √               |                 |                 |
-| 7   | √               |                 |                 |
-| 8   | √               | √               | √               |
-| 9   | √               |                 | √               |
-| 10  | √               |                 |                 |
-| 11  | √               |                 |                 |
-| 12  | √               |                 |                 |
-| 13  | √               |                 |                 |
-| 14  | √               |                 |                 |
-| 15  |                 |                 |                 |
-| 16  |                 |                 |                 |
-| 17  |                 |                 |                 |
-| 18  |                 |                 |                 |
-| 19  |                 |                 |                 |
-| 20  |                 |                 |                 |
-| 21  |                 |                 |                 |
+|   Day | Medicine name - POM   | Medicine name - BOR   | DEX   |
+|-------|-----------------------|-----------------------|-------|
+|     1 | √                     | √                     | √     |
+|     2 | √                     |                       | √     |
+|     3 | √                     |                       |       |
+|     4 | √                     |                       |       |
+|     5 | √                     |                       |       |
+|     6 | √                     |                       |       |
+|     7 | √                     |                       |       |
+|     8 | √                     | √                     | √     |
+|     9 | √                     |                       | √     |
+|    10 | √                     |                       |       |
+|    11 | √                     |                       |       |
+|    12 | √                     |                       |       |
+|    13 | √                     |                       |       |
+|    14 | √                     |                       |       |
+|    15 |                       |                       |       |
+|    16 |                       |                       |       |
+|    17 |                       |                       |       |
+|    18 |                       |                       |       |
+|    19 |                       |                       |       |
+|    20 |                       |                       |       |
+|    21 |                       |                       |       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2139,38 +2163,37 @@ POM: Pomalidomide Teva; BOR : Bortezomib; DEX : Dexamethasone
 - o Some days, you take both medicines, some days just 1 medicine, and some days none at all.
 - After completing each 4-week cycle, start a new one.
 
-POM: Pomalidomide Teva; DEX : Dexamethasone
+POM: Pomalidomide Teva; DEX: Dexamethasone
 
-|       | Medicine   | name   |
-|-------|------------|--------|
-| Day 1 | POM √      | DEX √  |
-| 2     | √          |        |
-| 3     | √          |        |
-| 4     | √          |        |
-| 5     | √          |        |
-| 6     | √          |        |
-| 7     | √          |        |
-| 8     | √          | √      |
-| 9     | √          |        |
-| 10    | √          |        |
-| 11    | √          |        |
-| 12    | √          |        |
-| 13    | √          |        |
-| 14    | √          |        |
-| 15    | √          | √      |
-| 16    | √          |        |
-| 17    | √          |        |
-| 18    | √          |        |
-| 19    | √          |        |
-| 20    | √          |        |
-| 21    | √          |        |
-| 22    |            | √      |
-| 23    |            |        |
-| 24    |            |        |
-| 25    |            |        |
-| 26    |            |        |
-| 27    |            |        |
-| 28    |            |        |
+| Day   | Medicine name - POM   | Medicine name - DEX   |
+|-------|-----------------------|-----------------------|
+| 1     | √                     | √                     |
+| 2     | √                     |                       |
+| 3     | √                     |                       |
+| 4     | √                     |                       |
+| 5     | √                     |                       |
+| 6     | √                     |                       |
+| 7     | √                     |                       |
+| 8     | √                     | √                     |
+| 9     | √                     |                       |
+| 10    | √                     |                       |
+| 11    | √                     |                       |
+| 12    | √                     |                       |
+| 13    | √                     |                       |
+| 14    | √                     |                       |
+| 15    | √                     | √                     |
+| 16    | √                     |                       |
+| 17    | √                     |                       |
+| 18    | √                     |                       |
+| 19    | √                     |                       |
+| 20    | √                     |                       |
+| 21    | √                     |                       |
+| 22    |                       | √                     |
+| 23    |                       |                       |
+| 24    |                       |                       |
+| 25    |                       |                       |
+| 26    |                       |                       |
+| 27 28 |                       |                       |
 
 ## How much Pomalidomide Teva to take with other medicines
 
@@ -2339,38 +2362,36 @@ Do not use this medicine after the expiry date which is stated on the blister an
 
 Do not use Pomalidomide Teva if you notice any damage or signs of tampering to medicine packaging.
 
-Do not throw away any medicines via wastewater or household waste. Any unused medicine should be returned to the pharmacist at the end of treatment. These measures will help protect the
+Do not throw away any medicines via wastewater or household waste. Any unused medicine should be returned to the pharmacist at the end of treatment. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
 
-environment.
-
-## 6. Contents of the pack and other  information
+## 6. Contents of the pack and other information
 
 ## What Pomalidomide Teva contains
 
 - The active substance is pomalidomide
 - The other ingredients are Lactose Monohydrate, Crospovidone, Povidone, Sodium Laurilsulfate, Sodium Stearyl Fumarate
 
-## Pomalidomide Teva 1 mg hard capsule
+Pomalidomide Teva 1 mg hard capsule
 
 - Each capsule contains 1 mg of pomalidomide
 - The capsule shell contains: brilliant blue FCF (E133), titanium dioxide (E171), gelatin, iron oxide yellow (E172)
 - The printing ink contains: shellac (E904), propylene glycol (E1520), ammonia solution concentrated (E527), iron oxide black (E172), potassium hydroxide (E525)
 
-## Pomalidomide Teva 2 mg hard capsule
+Pomalidomide Teva 2 mg hard capsule
 
 - Each capsule contains 2 mg of pomalidomide
 - The capsule shell contains: brilliant blue FCF (E133), titanium dioxide (E171), gelatin, iron oxide yellow (E172), iron oxide red (E172)
 - The printing ink contains: shellac (E904), propylene glycol (E1520), ammonia solution concentrated (E527), iron oxide black (E172), potassium hydroxide (E525)
 
-## Pomalidomide Teva 3 mg hard capsule
+Pomalidomide Teva 3 mg hard capsule
 
 - Each capsule contains 3 mg of pomalidomide
 - The capsule shell contains: brilliant blue FCF (E133), titanium dioxide (E171), gelatin, iron oxide yellow (E172)
 - The printing ink contains: shellac (E904), propylene glycol (E1520), ammonia solution concentrated (E527), iron oxide black (E172), potassium hydroxide (E525)
 
-## Pomalidomide Teva 4 mg hard capsule
+Pomalidomide Teva 4 mg hard capsule
 
 - Each capsule contains 4 mg of pomalidomide
 - The capsule shell contains: brilliant blue FCF (E133), titanium dioxide (E171), gelatin
@@ -2378,13 +2399,13 @@ environment.
 
 ## What Pomalidomide Teva looks like and contents of the pack
 
-Pomalidomide Teva 1 mg hard capsules: Hard gelatin capsule of approximately 14 mm with blue opaque cap and yellow opaque body imprinting 'T' on the cap and '1' on the body.
+Pomalidomide Teva 1 mg hard capsules: Hard gelatin capsule of approximately 14 mm with blue opaque cap and yellow opaque body imprinting \"T\" on the cap and \"1\" on the body.
 
-Pomalidomide Teva 2 mg hard capsules: Hard gelatin capsule of approximately 18 mm with blue opaque cap and orange opaque body imprinting 'T' on the cap and '2' on the body.
+Pomalidomide Teva 2 mg hard capsules: Hard gelatin capsule of approximately 18 mm with blue opaque cap and orange opaque body imprinting \"T\" on the cap and \"2\" on the body.
 
-Pomalidomide Teva 3 mg hard capsules: Hard gelatin capsule of approximately 18 mm with blue opaque cap and green opaque body imprinting 'T' on the cap and '3' on the body.
+Pomalidomide Teva 3 mg hard capsules: Hard gelatin capsule of approximately 18 mm with blue opaque cap and green opaque body imprinting \"T\" on the cap and \"3\" on the body.
 
-Pomalidomide Teva 4 mg hard capsules: Hard gelatin capsule of approximately 18 mm with blue opaque cap and light blue opaque body imprinting 'T' on the cap and '4' on the body.
+Pomalidomide Teva 4 mg hard capsules: Hard gelatin capsule of approximately 18 mm with blue opaque cap and light blue opaque body imprinting \"T\" on the cap and \"4\" on the body.
 
 Each pack contains 14, 14x1, 21, 21x1, 63 and 63x1 capsules. Not all pack sizes may be marketed.
 
@@ -2408,37 +2429,19 @@ Ulm, Germany
 
 ## Actavis Group PTC ehf.
 
-Dalshraun 1
+Dalshraun 1 IS-220 Hafnarfjordur, Iceland
 
-IS-220 Hafnarfjordur, Iceland
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation  Holder:
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Teva Pharma Belgium N.V./S.A. /AG
-
-Tel/Tél: +32 3 820 73 73
-
-## Lietuva
-
-UAB Teva Baltics
-
-Tel: +370 5 266 02 03
+Teva Pharma Belgium N.V./S.A. /AG Tel/Tél: +32 3 820 73 73
 
 ## България
 
 Тева Фарма ЕАД
 
-Teл
-
-: +359 2 489 95 85
-
-## Luxembourg/Luxemburg
-
-ratiopharm GmbH
-
-Tél: +49 731 402 02
+Teл: +359 2 489 95 85
 
 ## Česká republika
 
@@ -2452,6 +2455,36 @@ Teva Denmark A/S
 
 Tlf: +45 44 98 55 11
 
+## Deutschland
+
+ratiopharm GmbH
+
++49 (0) 731 402 02
+
+## Eesti
+
+UAB Teva Baltics Eesti filiaal
+
+Tel.: +372 6610801
+
+## Ελλάδα
+
+Teva Hellas Α.Ε.
+
+Τηλ: +30 211 880 5000
+
+## Lietuva
+
+UAB Teva Baltics
+
+Tel: +370 5 266 02 03
+
+## Luxembourg/Luxemburg
+
+ratiopharm GmbH
+
+Tél: +49 731 402 02
+
 ## Magyarország
 
 Teva Gyógyszergyár Zrt.
@@ -2462,15 +2495,9 @@ Tel: (+36) 1 288 6400
 
 TEVA HELLAS Α.Ε.
 
-il- Greċja
+il-Greċja
 
 Tel: +30 211 880 5000
-
-## Deutschland
-
-ratiopharm GmbH
-
-+49 (0) 731 402 02
 
 ## Nederland
 
@@ -2478,23 +2505,11 @@ Teva Nederland B.V.
 
 Tel: +31 800 0228 400
 
-## Eesti
-
-UAB Teva Baltics Eesti filiaal
-
-Tel.: +372 6610801
-
 ## Norge
 
 Teva Norway AS
 
 Tlf: +47 66 77 55 90
-
-## Ελλάδα
-
-Teva Hellas Α.Ε.
-
-Τηλ: +30 211 880 5000
 
 ## Österreich
 
@@ -2510,13 +2525,13 @@ Teva Pharma, S.L.U. Tel.: + 34 91 535 91 80
 
 ## France
 
-Teva Santé Tél: +33 1 55 91 78 00
+Teva Santé
+
+Tél: +33 1 55 91 78 00
 
 ## Hrvatska
 
-Pliva Hrvatska d.o.o
-
-Tel: + 385 1 37 20 000
+Pliva Hrvatska d.o.o Tel: + 385 1 37 20 000
 
 ## Ireland
 
@@ -2532,9 +2547,7 @@ Teva Italia S.r.l Tel:. +39 028917981
 
 ## Κύπρος
 
-TEVA HELLAS Α.Ε. Ελλάδα
-
-Τηλ: +30 211 880 5000
+TEVA HELLAS Α.Ε. Ελλάδα Τηλ: +30 211 880 5000
 
 ## Latvija
 
@@ -2544,9 +2557,7 @@ UAB Teva Baltics filiāle Latvijā Tel: +371 67 323 666 LVRA@teva.lt
 
 ## Polska
 
-Teva Pharmaceuticals Polska Sp. z o.o.
-
-Tel: +48 22 345 93 00
+Teva Pharmaceuticals Polska Sp. z o.o. Tel: +48 22 345 93 00
 
 ## Portugal
 

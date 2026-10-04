@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-19 16:30:00
+document_datetime: 2026-10-02 14:28:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/andembry.html
 document_name: andembry.html
 version: success
-processing_time: 0.1419342
-conversion_datetime: 2026-08-22 23:31:34.736059
+processing_time: 0.1369607
+conversion_datetime: 2026-10-04 16:19:36.511935
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Andembry
 
 [RSS](/en/individual-human-medicine.xml/253175)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -107,7 +107,7 @@ English (EN) (123.63 KB - PDF)
 
 [View](/en/documents/overview/andembry-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-574)
+[Other languages (22)](#file-language-dropdown-92)
 
 български (BG) (146.19 KB - PDF)
 
@@ -259,7 +259,7 @@ English (EN) (1.98 MB - PDF)
 
 [View](/en/documents/product-information/andembry-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-260)
+[Other languages (24)](#file-language-dropdown-888)
 
 български (BG) (2.44 MB - PDF)
 
@@ -432,7 +432,7 @@ English (EN) (60.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/andembry-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-467)
+[Other languages (24)](#file-language-dropdown-474)
 
 български (BG) (78.01 KB - PDF)
 
@@ -612,7 +612,7 @@ Andembry is indicated for routine prevention of recurrent attacks of hereditary 
 - **Marketing authorisation issued**
     - 10/02/2025
 - **Revision**
-    - 1
+    - 2
 
 ## Assessment history
 
@@ -629,6 +629,16 @@ English (EN) (153.53 KB - PDF)
 **First published:** 19/08/2026
 
 [View](/en/documents/procedural-steps-after/andembry-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Andembry-PAM-0000349091 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3438777
+
+English (EN) (1.42 MB - PDF)
+
+**First published:** 02/10/2026
+
+[View](/en/documents/variation-report/andembry-pam-0000349091-epar-assessment-report_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -670,6 +680,6 @@ English (EN) (156.54 KB - PDF)
 
 **This page was last updated on**
 
-19/08/2026
+02/10/2026
 
 ## Share this page

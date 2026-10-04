@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-26 13:37:00
+document_datetime: 2026-09-30 14:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spikevax.html
 document_name: spikevax.html
 version: success
-processing_time: 0.2980271
-conversion_datetime: 2026-09-02 22:31:42.28862
+processing_time: 0.2915012
+conversion_datetime: 2026-10-04 16:25:00.986699
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Spikevax (previously COVID-19 Vaccine Moderna)
 
 [RSS](/en/individual-human-medicine.xml/67416)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -189,6 +189,7 @@ More information about the COVID-19 vaccines is available on the [COVID-19 vacci
 
 | Date       | Key developments                                                                                                                                                                                                                                                                          |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 23/07/2026 | Recommendation to authorise Spikevax vaccine targeting the XFG variant                                                                                                                                                                                                                    |
 | 24/07/2025 | Recommendation to authorise Spikevax vaccine targeting the LP.8.1 variant                                                                                                                                                                                                                 |
 | 04/06/2025 | Withdrawal of an application for Spikevax vaccine targeting the KP.2 variant                                                                                                                                                                                                              |
 | 09/09/2024 | Recommendation to authorise Spikevax vaccine targeting the JN.1 variant                                                                                                                                                                                                                   |
@@ -232,7 +233,7 @@ English (EN) (179.32 KB - PDF)
 
 [View](/en/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-640)
+[Other languages (22)](#file-language-dropdown-649)
 
 български (BG) (235.49 KB - PDF)
 
@@ -384,7 +385,7 @@ English (EN) (1.35 MB - PDF)
 
 [View](/en/documents/product-information/spikevax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-684)
+[Other languages (24)](#file-language-dropdown-837)
 
 български (BG) (1.9 MB - PDF)
 
@@ -557,7 +558,7 @@ English (EN) (108.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-890)
+[Other languages (24)](#file-language-dropdown-939)
 
 български (BG) (154.86 KB - PDF)
 
@@ -1581,7 +1582,7 @@ In the context of these exceptional transparency measures, documents published b
 
 CCI and PPD are redacted here following the principles laid out in the [HMA/EMA guidance document on the identification of personal data and commercially confidential information within the structure of the marketing authorisation application (MAA) dossier](/en/documents/other/heads-medicines-agencies-european-medicines-agency-guidance-document-identification-commercially-confidential-information-personal-data-within-structure-marketing-authorisation-application_en.pdf) . This entails consultation with the Marketing Authorisation Holder (MAH) and a thorough assessment of their justified proposal of redaction by EMA.
 
-In this guidance, Heads of Medicines Agencies (HMA) and the European Medicines Agency (EMA) agreed on a common approach on what should be considered personal data (PD) and CCI in the Marketing Authorisation Application (MAA) dossier of medicinal products for human use. The definition of CCI and PPD and the principles for the redaction of this information are set out from pages 5 to 13.The Annex to the above-mentioned guidance provides a non-exhaustive list of information that may be considered PPD or CCI in each of the modules of the MAA dossier based on the agreed Common Technical Document (CTD) laid out in the [ICH guideline on common technical documents (CTD) for the registration of pharmaceuticals for human use](/en/ich-m4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd-scientific-guideline) .
+In this guidance, Heads of Medicines Agencies (HMA) and the European Medicines Agency (EMA) agreed on a common approach on what should be considered personal data (PD) and CCI in the Marketing Authorisation Application (MAA) dossier of medicinal products for human use. The definition of CCI and PPD and the principles for the redaction of this information are set out from pages 5 to 13.The Annex to the above-mentioned guidance provides a non-exhaustive list of information that may be considered PPD or CCI in each of the modules of the MAA dossier based on the agreed Common Technical Document (CTD) laid out in the [ICH guideline on common technical documents (CTD) for the registration of pharmaceuticals for human use](/en/scientific-guidelines/ich-m4-common-technical-document-ctd-registration-pharmaceuticals-human-use-organisation-ctd) .
 
 As regards the documents published under the exceptional transparency measures, the following pages of the Annex are of relevance:
 
@@ -1609,9 +1610,9 @@ Documents published within the scope of the exceptional transparency measures th
 
 Spikevax : Module 2.3.S drug substance
 
-English (EN) (43.68 MB - ZIP)
+English (EN) (45.1 MB - ZIP)
 
-**First published:** 30/01/2026 **Last updated:** 26/08/2026
+**First published:** 30/01/2026 **Last updated:** 30/09/2026
 
 [View](/en/documents/other/spikevax-module-23-quality-overall-summary_en.zip)
 
@@ -1768,11 +1769,11 @@ English (EN) (2.01 MB - DOCX)
 - [EMA/PE/0000228531 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000228531)
 - [Comirnaty / Spikevax (previously COVID-19 Vaccine Moderna) - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/comirnaty-spikevax-previously-covid-19-vaccine-moderna)
 - [Spikevax (previously COVID-19 Vaccine Moderna) - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/spikevax-previously-covid-19-vaccine-moderna)
+- [Post-Authorization Active Surveillance Safety Study Using Secondary Data to Monitor Real-World Safety of Spikevax in Europe (COVID-19) - post-authorisation study](https://catalogues.ema.europa.eu/study/45470)
 - [DARWIN EU® Effectiveness of COVID-19 vaccines on severe COVID-19 and post acute outcomes of SARS-CoV-2 infection - post-authorisation study](https://catalogues.ema.europa.eu/study/107616)
 - [Post-marketing safety of the Moderna COVID-19 vaccine following the 2024/2025 strain change in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000711)
 - [Observational Study to Assess Pregnancy and Infant Outcomes Following Exposure to Updated Moderna Vaccines Targeting SARS CoV-2 During Pregnancy - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000750)
 - [mRNA-1273-P920, Post-marketing safety of elasomeran/davesomeran and andusomeran vaccines in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/106695)
-- [Post-Authorization Active Surveillance Safety Study Using Secondary Data to Monitor Real-World Safety of Spikevax in Europe (COVID-19) - post-authorisation study](https://catalogues.ema.europa.eu/study/45470)
 - [Monitoring safety of Spikevax in pregnancy: an observational study using routinely collected health data in five European countries (COVID-19) - post-authorisation study](https://catalogues.ema.europa.eu/study/45467)
 - [Evaluation of adverse event clusters following immunization with mRNA COVID-19 vaccines: a real-world analysis using EudraVigilance data - post-authorisation study](https://catalogues.ema.europa.eu/study/48901)
 - [Vaccine Effectiveness, Burden and Impact Studies (VEBIS) - Healthcare worker cohort - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000094)
@@ -1786,6 +1787,6 @@ English (EN) (2.01 MB - DOCX)
 
 **This page was last updated on**
 
-26/08/2026
+30/09/2026
 
 ## Share this page

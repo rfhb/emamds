@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-02 12:21:19
+document_datetime: 2026-10-02 15:22:10
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rasilez-epar-product-information_en.pdf
 document_name: rasilez-epar-product-information_en.pdf
 version: success
-processing_time: 9.23654
-conversion_datetime: 2026-03-05 11:58:31.232436
+processing_time: 67.2922563
+conversion_datetime: 2026-10-04 15:42:24.896468
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,7 @@ Rasilez 150 mg film-coated tablets Rasilez 300 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Rasilez 150 mg film-coated tablets
+## Rasilez 150 mg film-coated tablets
 
 Each film-coated tablet contains 150 mg aliskiren (as hemifumarate).
 
@@ -44,11 +44,11 @@ Film-coated tablet.
 
 ## Rasilez 150 mg film-coated tablets
 
-Light-pink, biconvex, round tablet, imprinted 'IL' on one side and 'NVR' on the other side.
+Light-pink, biconvex, round tablet, imprinted \"IL\" on one side and \"NVR\" on the other side.
 
 ## Rasilez 300 mg film-coated tablets
 
-Light-red, biconvex, ovaloid tablet, imprinted 'IU' on one side and 'NVR' on the other side.
+Light-red, biconvex, ovaloid tablet, imprinted \"IU\" on one side and \"NVR\" on the other side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -92,13 +92,13 @@ Oral use. The tablets should be swallowed whole with some water. Rasilez should 
 
 ## 4.3 Contraindications
 
-- -Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-- -History of angioedema with aliskiren.
-- -Hereditary or idiopathic angioedema.
-- -Second and third trimesters of pregnancy (see section 4.6).
-- -The concomitant use of aliskiren with ciclosporin and itraconazole, two highly potent P-glycoprotein (P-gp) inhibitors, and other potent P-gp inhibitors (e.g. quinidine), is contraindicated (see section 4.5).
-- -The concomitant use of Rasilez with an angiotensin converting enzyme inhibitor(ACEI) or an angiotensin II receptor blocker (ARB) is contraindicated in patients with diabetes mellitus or renal impairment (GFR &lt; 60 ml/min/1.73 m 2 ) (see sections 4.5 and 5.1).
-- -Children from birth to less than 2 years (see sections 4.2 and 5.3).
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- History of angioedema with aliskiren.
+- Hereditary or idiopathic angioedema.
+- Second and third trimesters of pregnancy (see section 4.6).
+- The concomitant use of aliskiren with ciclosporin and itraconazole, two highly potent P-glycoprotein (P-gp) inhibitors, and other potent P-gp inhibitors (e.g. quinidine), is contraindicated (see section 4.5).
+- The concomitant use of Rasilez with an angiotensin converting enzyme inhibitor(ACEI) or an angiotensin II receptor blocker (ARB) is contraindicated in patients with diabetes mellitus or renal impairment (GFR &lt; 60 ml/min/1.73 m 2 ) (see sections 4.5 and 5.1).
+- Children from birth to less than 2 years (see sections 4.2 and 5.3).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -120,14 +120,14 @@ Hypotension, syncope, stroke, hyperkalaemia, and decreased renal function (inclu
 
 Symptomatic hypotension could occur after initiation of treatment with aliskiren in the following cases:
 
-- -Patients with marked volume depletion or patients with salt depletion (e.g. those receiving high doses of diuretics) or
-- -Combined use of aliskiren with other agents acting on the RAAS.
+- Patients with marked volume depletion or patients with salt depletion (e.g. those receiving high doses of diuretics) or
+- Combined use of aliskiren with other agents acting on the RAAS.
 
 The volume or salt depletion should be corrected prior to administration of Rasilez, or the treatment should start under close medical supervision.
 
 ## Renal impairment
 
-In clinical studies aliskiren has not been investigated in hypertensive patients with severe renal impairment (serum creatinine ≥ 150 μmol/ l or 1.70 mg/dl in women and ≥ 177 μmol/ l or 2.00 mg/dl in men and/or estimated GFR &lt; 30 ml/min/1.73 m 2 ), history of dialysis, nephrotic syndrome or renovascular hypertension. It is not recommended in patients with severe renal impairment (GFR &lt; 30 ml/min/1.73 m 2 ).
+In clinical studies aliskiren has not been investigated in hypertensive patients with severe renal impairment (serum creatinine ≥ 150 μmol/l or 1.70 mg/dl in women and ≥ 177 μmol/l or 2.00 mg/dl in men and/or estimated GFR &lt; 30 ml/min/1.73 m 2 ), history of dialysis, nephrotic syndrome or renovascular hypertension. It is not recommended in patients with severe renal impairment (GFR &lt; 30 ml/min/1.73 m 2 ).
 
 As for other medicinal products acting on the renin-angiotensin system, caution should be exercised when aliskiren is given in the presence of conditions pre-disposing to kidney dysfunction such as hypovolaemia (e.g. due to blood loss, severe prolonged diarrhoea, prolonged vomiting, etc.), heart disease, liver disease, diabetes mellitus or kidney disease. Acute renal failure, reversible upon discontinuation of treatment, has been reported in at-risk patients receiving aliskiren in post-marketing experience. In the event that any signs of renal failure occur, aliskiren should be promptly discontinued.
 
@@ -141,15 +141,13 @@ No controlled clinical data are available on the use of aliskiren in patients wi
 
 Anaphylactic reactions have been observed during treatment with aliskiren from post-marketing experience (see section 4.8). Angioedema or symptoms suggestive of angioedema (swelling of the face, lips, throat and/or tongue) have been reported in patients treated with aliskiren.
 
-A number of these patients had a history of angioedema or symptoms suggestive of angioedema, which in some cases followed use of other medicinal product that can cause angioedema, including RAAS blockers (angiotensin converting enzyme inhibitors or angiotensin receptor blockers) (see
+A number of these patients had a history of angioedema or symptoms suggestive of angioedema, which in some cases followed use of other medicinal product that can cause angioedema, including RAAS blockers (angiotensin converting enzyme inhibitors or angiotensin receptor blockers) (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
 
-## section 4.8).
-
 In post-marketing experience, angioedema or angioedema-like reactions have been reported when aliskiren was co-administered with ACEIs and/or ARBs (see section 4.8).
 
-In a post-authorisation observational study, the co-administration of aliskiren with ACEIs or ARBs has been associated with an increased risk of angioedema. The mechanism of this effect has not been established. In general, dual blockade of the RAAS by combining aliskiren with an ACEI or an ARB is not recommended (see section 'Dual blockade of the renin-angiotensin-aldosterone system (RAAS)' above and also sections 4.5 and 4.8).
+In a post-authorisation observational study, the co-administration of aliskiren with ACEIs or ARBs has been associated with an increased risk of angioedema. The mechanism of this effect has not been established. In general, dual blockade of the RAAS by combining aliskiren with an ACEI or an ARB is not recommended (see section \"Dual blockade of the renin-angiotensin-aldosterone system (RAAS)\" above and also sections 4.5 and 4.8).
 
 Special caution is necessary in patients with a hypersensitivity predisposition.
 
@@ -159,7 +157,7 @@ If anaphylactic reactions or angioedema occur, treatment should be promptly disc
 
 ## Paediatric population
 
-Aliskiren is  a  P-glycoprotein (P-gp) substrate,  and there  is  a  potential for  aliskiren overexposure in children with an immature P-gp drug transporter system. The age at which the transporter system is mature  cannot  be  determined  (see  sections 5.2  and  5.3).  Therefore,  Rasilez  is  contraindicated  in children from birth to less than 2 years and should not be used in children aged 2 to less than 6 years (see sections 4.2 and 4.3). The safety and efficacy of aliskiren in children aged 6 to 17 years have not yet been established. Currently available data are described in sections 4.8, 5.1, and 5.2.
+Aliskiren is a P-glycoprotein (P-gp) substrate, and there is a potential for aliskiren overexposure in children with an immature P-gp drug transporter system. The age at which the transporter system is mature cannot be determined (see sections 5.2 and 5.3). Therefore, Rasilez is contraindicated in children from birth to less than 2 years and should not be used in children aged 2 to less than 6 years (see sections 4.2 and 4.3). The safety and efficacy of aliskiren in children aged 6 to 17 years have not yet been established. Currently available data are described in sections 4.8, 5.1, and 5.2.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -173,11 +171,9 @@ A single dose interaction study in healthy subjects has shown that ciclosporin (
 
 ## Fruit juice and drinks containing plant extracts
 
-Administration of fruit juice with aliskiren resulted in a decrease in AUC and Cmax of aliskiren. Co-administration of grapefruit juice with aliskiren 150 mg resulted in a 61% decrease in aliskiren AUC and co-administration with aliskiren 300 mg resulted in a 38% decrease in aliskiren AUC. Co-administration of orange or apple juice with aliskiren 150 mg resulted in a 62% decrease in aliskiren AUC or in a 63% decrease in aliskiren AUC, respectively. This decrease is likely due to an inhibition of organic anion transporting polypeptide-mediated uptake of aliskiren by components of fruit juice in the gastrointestinal tract. Therefore, because of the risk of therapeutic failure, fruit juice should not be taken together with aliskiren. The effect of drinks containing plant extracts (including herbal teas) on the absorption of aliskiren has not been investigated. However, compounds potentially
+Administration of fruit juice with aliskiren resulted in a decrease in AUC and Cmax of aliskiren. Co-administration of grapefruit juice with aliskiren 150 mg resulted in a 61% decrease in aliskiren AUC and co-administration with aliskiren 300 mg resulted in a 38% decrease in aliskiren AUC. Co-administration of orange or apple juice with aliskiren 150 mg resulted in a 62% decrease in aliskiren AUC or in a 63% decrease in aliskiren AUC, respectively. This decrease is likely due to an inhibition of organic anion transporting polypeptide-mediated uptake of aliskiren by components of fruit juice in the gastrointestinal tract. Therefore, because of the risk of therapeutic failure, fruit juice should not be taken together with aliskiren. The effect of drinks containing plant extracts (including herbal teas) on the absorption of aliskiren has not been investigated. However, compounds potentially inhibiting organic anion transporting polypeptide-mediated uptake of aliskiren are widely present in fruits, vegetables, and many other plant products. Therefore, drinks containing plant extracts, including herbal teas, should not be taken together with aliskiren (see section 4.2)
 
 <div style=\"page-break-after: always\"></div>
-
-inhibiting organic anion transporting polypeptide-mediated uptake of aliskiren are widely present in fruits, vegetables, and many other plant products. Therefore, drinks containing plant extracts, including herbal teas, should not be taken together with aliskiren (see section 4.2)
 
 ## Dual blockade of the RAAS with aliskiren, ARBs or ACEIs
 
@@ -195,7 +191,7 @@ Co-administration of ketoconazole (200 mg) or verapamil (240 mg) with aliskiren 
 
 ## Medicinal products affecting serum potassium levels
 
-Concomitant use of other agents affecting the  RAAS,  of  NSAIDs  or  of  agents  that increase  serum potassium levels (e.g. potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium,  heparin)  may  lead  to  increases  in  serum  potassium.  If  co-administration  with  an  agent affecting the level of serum potassium is considered necessary, routine monitoring of potassium levels would be advisable.
+Concomitant use of other agents affecting the RAAS, of NSAIDs or of agents that increase serum potassium levels (e.g. potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium, heparin) may lead to increases in serum potassium. If co-administration with an agent affecting the level of serum potassium is considered necessary, routine monitoring of potassium levels would be advisable.
 
 ## Non-steroidal anti-inflammatory drugs (NSAIDs)
 
@@ -207,7 +203,7 @@ Oral co-administration of aliskiren and furosemide had no effect on the pharmaco
 
 <div style=\"page-break-after: always\"></div>
 
-The available clinical data did not indicate that higher doses of torasemide were used after co-administration with aliskiren. Torasemide renal excretion is known to be mediated by organic anion transporters (OATs). Aliskiren is minimally excreted via the renal route, and only 0.6% of the aliskiren dose is recovered in urine following oral administration (see section 5.2). However, since aliskiren has been shown to be a substrate for the organic anion-transporting polypeptide 1A2 (OATP1A2) (see section 'Organic anion transporting polypeptide (OATP' below) inhibitors), there is a potential for aliskiren to reduce plasma torasemide exposure by an interference with the absorption process.
+The available clinical data did not indicate that higher doses of torasemide were used after co-administration with aliskiren. Torasemide renal excretion is known to be mediated by organic anion transporters (OATs). Aliskiren is minimally excreted via the renal route, and only 0.6% of the aliskiren dose is recovered in urine following oral administration (see section 5.2). However, since aliskiren has been shown to be a substrate for the organic anion-transporting polypeptide 1A2 (OATP1A2) (see section \"Organic anion transporting polypeptide (OATP\" below) inhibitors), there is a potential for aliskiren to reduce plasma torasemide exposure by an interference with the absorption process.
 
 In patients treated with both aliskiren and oral furosemide or torasemide, it is therefore recommended that the effects of furosemide or torasemide be monitored when initiating and adjusting furosemide, torasemide or aliskiren therapy to avoid changes in extracellular fluid volume and possible situations of volume overload (see section 4.4).
 
@@ -223,7 +219,7 @@ Although meals (low or high fat content) have been shown to reduce the absorptio
 
 Compounds that have been investigated in clinical pharmacokinetic studies include acenocoumarol, atenolol, celecoxib, pioglitazone, allopurinol, isosorbide-5-mononitrate and hydrochlorothiazide. No interactions have been identified.
 
-Coadministration of aliskiren with either metformin (↓28%), amlodipine (↑29%) or cimetidine (↑19%) resulted in between 20% and 30% change in Cmax or AUC of Rasilez. When administered with atorvastatin, steady-state Rasilez AUC and Cmax increased by 50%. Co-administration of Rasilez had no significant impact on atorvastatin, metformin or amlodipine pharmacokinetics. As a result no dose adjustment for Rasilez or these co-administered medicinal products is necessary.
+Co-administration of aliskiren with either metformin (↓28%), amlodipine (↑29%) or cimetidine (↑19%) resulted in between 20% and 30% change in Cmax or AUC of Rasilez. When administered with atorvastatin, steady-state Rasilez AUC and Cmax increased by 50%. Co-administration of Rasilez had no significant impact on atorvastatin, metformin or amlodipine pharmacokinetics. As a result no dose adjustment for Rasilez or these co-administered medicinal products is necessary.
 
 Digoxin and verapamil bioavailability may be slightly decreased by Rasilez.
 
@@ -237,11 +233,9 @@ No relevant interactions with atenolol, digoxin, amlodipine or cimetidine have b
 
 ## Organic anion transporting polypeptide (OATP) inhibitors
 
-Preclinical studies indicate that aliskiren might be a substrate of organic anion transporting polypeptides. Therefore, the potential exists for interactions between OATP inhibitors and aliskiren
+Preclinical studies indicate that aliskiren might be a substrate of organic anion transporting polypeptides. Therefore, the potential exists for interactions between OATP inhibitors and aliskiren when administered concomitantly (see section \"Fruit juice and drinks containing plant extracts\" above).
 
 <div style=\"page-break-after: always\"></div>
-
-when administered concomitantly (see section 'Fruit juice and drinks containing plant extracts' above).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -269,11 +263,7 @@ Serious adverse reactions include anaphylactic reaction and angioedema which hav
 
 ## Tabulated list of adverse reactions
 
-Aliskiren has been evaluated for safety in more than 7,800 patients, including over 2,300 treated for over 6 months, and more than 1,200 for over 1 year. The adverse reactions are ranked under heading of frequency, the most frequent first, using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 ,000 to &lt;1/100); rare (≥1/10 ,000 to &lt;1/1,000); very rare (&lt;1/10,000) and not known (cannot be estimated from the available data).
-
-<div style=\"page-break-after: always\"></div>
-
-Table 1
+Aliskiren has been evaluated for safety in more than 7,800 patients, including over 2,300 treated for over 6 months, and more than 1,200 for over 1 year. The adverse reactions are ranked under heading of frequency, the most frequent first, using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000) and not known (cannot be estimated from the available data).
 
 | Immune system disorders                         | Immune system disorders                                                                                                                                               |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -306,6 +296,8 @@ Table 1
 | Uncommon:                                       | Liver enzyme increased                                                                                                                                                |
 | Rare:                                           | Haemoglobin decreased, haematocrit decreased, blood creatinine increased                                                                                              |
 | Not known:                                      | Hyponatraemia                                                                                                                                                         |
+
+<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
 
@@ -345,7 +337,7 @@ Increases in serum potassium have been observed with aliskiren and these may be 
 
 Aliskiren has been evaluated for safety in a randomised, double-blind, 8-week study in 267 hypertensive patients aged 6 to 17 years, mostly overweight/obese, followed by an extension study including 208 patients treated for 52 weeks. An additional 52 to 104 week non-interventional observational extension study in 106 patients (no study treatment administered) was conducted with the objective to evaluate the long-term safety in terms of growth and development of children 6-17 years of age with hypertension (primary or secondary) at baseline in the core study, previously treated with aliskiren.
 
-The frequency, type and severity of adverse reactions in children were generally similar to those seen in hypertensive adults. No overall clinically relevant adverse impact on paediatric patients aged 6 to 17 years was observed after treatment with aliskiren for up to one year based on physical development, assessed in patients with primary or secondary hypertension, and  neurocognitive development assessed only in patients with secondary hypertension (19 patients: 9 previously treated with aliskiren and  10 previously treated with enalapril) (see section 4.2, 4.8, 5.1 and 5.2).
+The frequency, type and severity of adverse reactions in children were generally similar to those seen in hypertensive adults. No overall clinically relevant adverse impact on paediatric patients aged 6 to 17 years was observed after treatment with aliskiren for up to one year based on physical development, assessed in patients with primary or secondary hypertension, and neurocognitive development assessed only in patients with secondary hypertension (19 patients: 9 previously treated with aliskiren and 10 previously treated with enalapril) (see section 4.2, 4.8, 5.1 and 5.2).
 
 ## Reporting of suspected adverse reactions
 
@@ -385,15 +377,13 @@ In hypertensive patients, once-daily administration of aliskiren at doses of 150
 
 Aliskiren monotherapy studies have shown blood pressure lowering effects comparable to other classes of antihypertensive agents including ACEI and ARB. Compared to a diuretic (hydrochlorothiazide - HCTZ), Rasilez 300 mg lowered systolic/diastolic blood pressure by 17.0/12.3 mmHg, compared to 14.4/10.5 mmHg for HCTZ 25 mg after 12 weeks of treatment.
 
-Combination therapy studies are available for aliskiren added to the diuretic hydrochlorothiazide, the calcium channel blocker amlodipine and the beta blocker atenolol. These combinations were well tolerated. It induced an additive blood-pressure-lowering effect when added to hydrochlorothiazide. In
+Combination therapy studies are available for aliskiren added to the diuretic hydrochlorothiazide, the calcium channel blocker amlodipine and the beta blocker atenolol. These combinations were well tolerated. It induced an additive blood-pressure-lowering effect when added to hydrochlorothiazide. In patients who did not adequately respond to 5 mg of the calcium channel blocker amlodipine, the addition of aliskiren 150 mg had a blood-pressure-lowering effect similar to that obtained by increasing amlodipine dose to 10 mg, but had a lower incidence of oedema (aliskiren 150 mg/amlodipine 5 mg 2.1% vs. amlodipine 10 mg 11.2%).
 
 <div style=\"page-break-after: always\"></div>
 
-patients who did not adequately respond to 5 mg of the calcium channel blocker amlodipine, the addition of aliskiren 150 mg had a blood-pressure-lowering effect similar to that obtained by increasing amlodipine dose to 10 mg, but had a lower incidence of oedema (aliskiren 150 mg/amlodipine 5 mg 2.1% vs. amlodipine 10 mg 11.2%).
+The efficacy and safety of aliskiren-based therapy were compared to ramipril-based therapy in a 9-month non-inferiority study in 901 elderly patients (≥ 65 years) with essential systolic hypertension. Aliskiren 150 mg or 300 mg per day or ramipril 5 mg or 10 mg per day were administered for 36 weeks with optional add-on therapy of hydrochlorothiazide (12.5 mg or 25 mg) at week 12, and amlodipine (5 mg or 10 mg) at week 22. Over the 12 week period, aliskiren monotherapy lowered systolic/diastolic blood pressure by 14.0/5.1 mmHg, compared to 11.6/3.6 mmHg for ramipril, consistent with aliskiren being non-inferior to ramipril at the doses chosen and the differences in systolic and diastolic blood pressure were statistically significant. Tolerability was comparable in both treatment arms, however cough was more often reported with the ramipril regimen than the aliskiren regimen (14.2% vs. 4.4%), whilst diarrhoea was more common with the aliskiren regimen than for the ramipril regimen (6.6% vs. 5.0%).
 
-The efficacy and safety of aliskiren-based therapy were compared to ramipril-based therapy in a 9-month noninferiority study in 901 elderly patients (≥ 65 years) with essential systolic hypertension. Aliskiren 150 mg or 300 mg per day or ramipril 5 mg or 10 mg per day were administered for 36 weeks with optional add-on therapy of hydrochlorothiazide (12.5 mg or 25 mg) at week 12, and amlodipine (5 mg or 10 mg) at week 22. Over the 12 week period, aliskiren monotherapy lowered systolic/diastolic blood pressure by 14.0/5.1 mmHg, compared to 11.6/3.6 mmHg for ramipril, consistent with aliskiren being non-inferior to ramipril at the doses chosen and the differences in systolic and diastolic blood pressure were statistically significant. Tolerability was comparable in both treatment arms, however cough was more often reported with the ramipril regimen than the aliskiren regimen (14.2% vs. 4.4%), whilst diarrhoea was more common with the aliskiren regimen than for the ramipril regimen (6.6% vs. 5.0%).
-
-In a 8week study in 754 hypertensive elderly (≥ 65 years) and very elderly patients (30% ≥ 75 years) aliskiren at doses of 75 mg, 150 mg and 300 mg provided statistically significant superior reduction in blood pressure (both systolic and diastolic) when compared to placebo. No additional blood pressure lowering effect was detected with 300 mg aliskiren compared to 150 mg aliskiren. All three doses were well tolerated in both elderly and very elderly patients. In a pooled analysis of efficacy and safety data from clinical studies up to 12 months duration, there was no statistically significant difference in blood pressure reduction between aliskiren 300 mg and aliskiren 150 mg in elderly patients (≥ 65 years).
+In a 8-week study in 754 hypertensive elderly (≥ 65 years) and very elderly patients (30% ≥ 75 years) aliskiren at doses of 75 mg, 150 mg and 300 mg provided statistically significant superior reduction in blood pressure (both systolic and diastolic) when compared to placebo. No additional blood pressure lowering effect was detected with 300 mg aliskiren compared to 150 mg aliskiren. All three doses were well tolerated in both elderly and very elderly patients. In a pooled analysis of efficacy and safety data from clinical studies up to 12 months duration, there was no statistically significant difference in blood pressure reduction between aliskiren 300 mg and aliskiren 150 mg in elderly patients (≥ 65 years).
 
 In obese hypertensive patients who did not adequately respond to HCTZ 25 mg, add-on treatment with aliskiren 300 mg provided additional blood pressure reduction that was comparable to add-on treatment with irbesartan 300 mg or amlodipine 10 mg.
 
@@ -437,15 +427,13 @@ No effect on QT interval was reported in a randomised, double-blind, placebo, an
 
 ## Paediatric population
 
-In a multicentre, randomised, double-blind, 8-week study with aliskiren monotherapy (3 dose groups by weight category [ ≥20 kg to &lt;50 kg; ≥50 kg to &lt;80 kg; ≥80 kg to ≤150 kg]: low 6.25/12.5/25 mg [0.13-0.31 mg/kg]; mid 37.5/75/150 mg [0.75-1.88 mg/kg]; and high dose 150/300/600 mg [3.0-7.5 mg/kg], with a wide dose ratio between the low, mid and high dose groups [1:6:24]) in 267 paediatric hypertensive patients aged 6 to 17 years, mostly overweight/obese, aliskiren lowered office and ambulatory blood pressure in a dose-dependent manner during the initial 4 week dose-finding phase of the study (Phase 1). However, in the subsequent 4 week randomised withdrawal phase of the study (Phase 2), the effect of aliskiren overlapped with the effects observed in patients switched to placebo in all dose groups (low, p=0.8894; mid, p=0.9511; high, p=0.0563). The average differences between aliskiren and placebo for the low and mid dose groups were &lt;0.2 mmHg. The treatment with aliskiren was well tolerated in this study.
+In a multicentre, randomised, double-blind, 8-week study with aliskiren monotherapy (3 dose groups by weight category [≥20 kg to &lt;50 kg; ≥50 kg to &lt;80 kg; ≥80 kg to ≤150 kg]: low 6.25/12.5/25 mg [0.13-0.31 mg/kg]; mid 37.5/75/150 mg [0.75-1.88 mg/kg]; and high dose 150/300/600 mg [3.0-7.5 mg/kg], with a wide dose ratio between the low, mid and high dose groups [1:6:24]) in 267 paediatric hypertensive patients aged 6 to 17 years, mostly overweight/obese, aliskiren lowered office and ambulatory blood pressure in a dose-dependent manner during the initial 4 week dose-finding phase of the study (Phase 1). However, in the subsequent 4 week randomised withdrawal phase of the study (Phase 2), the effect of aliskiren overlapped with the effects observed in patients switched to placebo in all dose groups (low, p=0.8894; mid, p=0.9511; high, p=0.0563). The average differences between aliskiren and placebo for the low and mid dose groups were &lt;0.2 mmHg. The treatment with aliskiren was well tolerated in this study.
 
-This study was extended with a 52-week double-blind, randomised study to evaluate the safety, tolerability and efficacy of aliskiren compared to enalapril in 208 paediatric hypertensive patients aged 6 to 17 years (at baseline in the previous study). The starting dose in each group was assigned depending on weight with three groups: ≥ 20 to &lt;50 kg, ≥ 50 to &lt;80 kg, and ≥ 80 to ≤ 150 kg. The starting doses for aliskiren were 37.5/75/150 mg in the low, mid and high weight groups, respectively. The starting doses for enalapril were 2.5/5/10 mg in the low, mid and high weight groups, respectively. Optional titration of the respective study drug doses to the next highest weight-based dose level was available by doubling the dose with each of the two allowed dose titrations, up to 600 mg (highest studied dose in adults) for aliskiren and 40 mg fo r enalapril in the ≥80 to ≤150 kg weight group, if medically necessary to control the mean sitting systolic blood pressure (i.e. msSBP should be less than the 90th percentile for age, gender and height). Overall, the mean age of the patients was 11.8 years with 48.6% of patients being in the 6-11 years age group and 51.4% in the 12-17 years age group. Mean weight was 68.0 kg with 57.7% of patients having BMI greater than or equal to the 95th percentile for age and gender. At the end of this extension study, changes in msSBP from baseline were similar with aliskiren compared to enalapril (-7.63 mmHg vs. -7.94 mmHg) in the full analysis set. However, the significance of the non-inferiority testing was not maintained when the analysis was performed on the per-protocol set in which the least square mean change in msSBP from baseline was -7.84 mmHg with aliskiren and -9.04 mmHg with enalapril. In addition, due to the possibility of up-titration if medically necessary to control the msSBP, no conclusion can be drawn on the appropriate posology of aliskiren in patients aged 6 to 17 years.
+This study was extended with a 52-week double-blind, randomised study to evaluate the safety, tolerability and efficacy of aliskiren compared to enalapril in 208 paediatric hypertensive patients aged 6 to 17 years (at baseline in the previous study). The starting dose in each group was assigned depending on weight with three groups: ≥20 to &lt;50 kg, ≥50 to &lt;80 kg, and ≥80 to ≤150 kg. The starting doses for aliskiren were 37.5/75/150 mg in the low, mid and high weight groups, respectively. The starting doses for enalapril were 2.5/5/10 mg in the low, mid and high weight groups, respectively. Optional titration of the respective study drug doses to the next highest weight-based dose level was available by doubling the dose with each of the two allowed dose titrations, up to 600 mg (highest studied dose in adults) for aliskiren and 40 mg for enalapril in the ≥80 to ≤150 kg weight group, if medically necessary to control the mean sitting systolic blood pressure (i.e. msSBP should be less than the 90th percentile for age, gender and height). Overall, the mean age of the patients was 11.8 years with 48.6% of patients being in the 6-11 years age group and 51.4% in the 12-17 years age group. Mean weight was 68.0 kg with 57.7% of patients having BMI greater than or equal to the 95th percentile for age and gender. At the end of this extension study, changes in msSBP from baseline were similar with aliskiren compared to enalapril (-7.63 mmHg vs. -7.94 mmHg) in the full analysis set. However, the significance of the non-inferiority testing was not maintained when the analysis was performed on the per-protocol set in which the least square mean change in msSBP from baseline was -7.84 mmHg with aliskiren and -9.04 mmHg with enalapril. In addition, due to the possibility of up-titration if medically necessary to control the msSBP, no conclusion can be drawn on the appropriate posology of aliskiren in patients aged 6 to 17 years.
 
-After the first 52 week extension study, eligible male and female paediatric patients aged 6 to 17 years with primary or secondary hypertension, were enrolled in a 52 to 104 week off-therapy noninterventional observational extension study designed to evaluate the LT growth and development, through height and weight measurement, with added neurocognitive and renal function evaluations as
+After the first 52 week extension study, eligible male and female paediatric patients aged 6 to 17 years with primary or secondary hypertension, were enrolled in a 52 to 104 week off-therapy noninterventional observational extension study designed to evaluate the LT growth and development, through height and weight measurement, with added neurocognitive and renal function evaluations as follow-up measures performed only in patients with secondary hypertension (19 patients: 9 previously treated with aliskiren and 10 previously treated with enalapril).
 
 <div style=\"page-break-after: always\"></div>
-
-follow-up measures performed only in patients with secondary hypertension (19 patients: 9 previously treated with aliskiren and  10 previously treated with enalapril).
 
 There were no statistically significant differences in the mean changes in weight, height, or BMI between the treatment groups from Baseline to LT Visit 18 (Week 104) (primary analysis).
 
@@ -513,7 +501,7 @@ Results from an in vitro MDR1 human tissue study suggested an age and tissue dep
 
 <div style=\"page-break-after: always\"></div>
 
-The age at which the transporter system is mature cannot be determined. There is a potential for aliskiren overexposure in children with an immature MDR1 (P-gp) system (see section 'Transporters' above and sections 4.2, 4.4 and 5.3).
+The age at which the transporter system is mature cannot be determined. There is a potential for aliskiren overexposure in children with an immature MDR1 (P-gp) system (see section \"Transporters\" above and sections 4.2, 4.4 and 5.3).
 
 ## 5.3 Preclinical safety data
 
@@ -537,7 +525,13 @@ In a juvenile toxicity study in 8-day-old rats, aliskiren administration at 100 
 
 ## 6.1 List of excipients
 
-Crospovidone, type A Magnesium stearate Microcrystalline cellulose Povidone, K-30 Colloidal anhydrous silica Hypromellose substitution type 2910 (3 mPa·s) Macrogol 4000 Talc Black iron oxide (E 172) Red iron oxide (E 172) Titanium dioxide (E 171)
+Crospovidone, type A
+
+Magnesium stearate
+
+Hypromellose substitution type 2910 (3 mPa·s)
+
+Microcrystalline cellulose Povidone, K-30 Colloidal anhydrous silica Macrogol 4000 Talc Black iron oxide (E 172) Red iron oxide (E 172) Titanium dioxide (E 171)
 
 ## 6.2 Incompatibilities
 
@@ -549,7 +543,7 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 25 ° C. Store in the original package in order to protect from moisture.
+Do not store above 25°C. Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
@@ -589,11 +583,15 @@ LXO Ireland DAC
 
 <div style=\"page-break-after: always\"></div>
 
-D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
+13 Merrion Square North, Dublin 2, D02 HW89
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-Rasilez 150 mg film-coated tablets EU/1/07/405/021-030
+Rasilez 150 mg film-coated tablets
+
+EU/1/07/405/021-030
 
 Rasilez 300 mg film-coated tablets EU/1/07/405/031-040
 
@@ -612,7 +610,10 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY
+
+## AND USE
+
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -653,7 +654,7 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -684,7 +685,9 @@ Each film-coated tablet contains 150 mg aliskiren (as hemifumarate).
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -710,11 +713,11 @@ Store in the original package in order to protect from moisture.
 
 LXO Ireland DAC
 
-D'Olier Chambers
+13 Merrion Square North,
 
-16A D'Olier Street
+Dublin 2,
 
-Dublin 2
+D02 HW89
 
 Ireland
 
@@ -722,9 +725,9 @@ Ireland
 
 EU/1/07/405/021
 
-14 film-coated tablets
-
 EU/1/07/405/022
+
+14 film-coated tablets
 
 28 film-coated tablets
 
@@ -732,13 +735,9 @@ EU/1/07/405/023
 
 30 film-coated tablets
 
-EU/1/07/405/024
+EU/1/07/405/024 50 film-coated tablets
 
-50 film-coated tablets
-
-EU/1/07/405/025
-
-56 film-coated tablets
+EU/1/07/405/025 56 film-coated tablets
 
 EU/1/07/405/026
 
@@ -748,9 +747,7 @@ EU/1/07/405/027
 
 90 film-coated tablets
 
-EU/1/07/405/028
-
-98 film-coated tablets
+EU/1/07/405/028 98 film-coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -770,48 +767,41 @@ Rasilez 150 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER BLISTER (CALENDAR)                            |
 
-BLISTER
-
-BLISTER (CALENDAR)
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Rasilez 150 mg film-coated tablets aliskiren
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 LXO Ireland DAC
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
-Monday
-
-Tuesday
-
-Wednesday
-
-Thursday
-
-Friday
-
-Saturday
+Monday Tuesday Wednesday Thursday Friday Saturday
 
 Sunday
 
@@ -865,15 +855,17 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-LXO Ireland DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
+LXO Ireland DAC 13 Merrion Square North, Dublin 2, D02 HW89
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/07/405/029
 
-98 film-coated tablets (2x49x1)
-
 EU/1/07/405/030
+
+98 film-coated tablets (2x49x1)
 
 280 film-coated tablets (20x14)
 
@@ -883,7 +875,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -897,7 +889,9 @@ Rasilez 150 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rasilez 150 mg film-coated tablets aliskiren
+Rasilez 150 mg film-coated tablets
+
+aliskiren
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -941,7 +935,9 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-LXO Ireland DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
+LXO Ireland DAC 13 Merrion Square North, Dublin 2, D02 HW89
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -953,7 +949,8 @@ EU/1/07/405/030
 
 280 film-coated tablets (20x14)
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
@@ -969,7 +966,8 @@ Rasilez 150 mg
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC:
 
@@ -985,7 +983,9 @@ NN:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rasilez 300 mg film-coated tablets aliskiren
+Rasilez 300 mg film-coated tablets
+
+aliskiren
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1006,7 +1006,9 @@ Each film-coated tablet contains 300 mg aliskiren (as hemifumarate).
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1032,11 +1034,11 @@ Store in the original package in order to protect from moisture.
 
 LXO Ireland DAC
 
-D'Olier Chambers
+13 Merrion Square North,
 
-16A D'Olier Street
+Dublin 2,
 
-Dublin 2
+D02 HW89
 
 Ireland
 
@@ -1044,9 +1046,9 @@ Ireland
 
 EU/1/07/405/031
 
-14 film-coated tablets
-
 EU/1/07/405/032
+
+14 film-coated tablets
 
 28 film-coated tablets
 
@@ -1054,25 +1056,17 @@ EU/1/07/405/033
 
 30 film-coated tablets
 
-EU/1/07/405/034
+EU/1/07/405/034 50 film-coated tablets
 
-50 film-coated tablets
+EU/1/07/405/035 56 film-coated tablets
 
-EU/1/07/405/035
-
-56 film-coated tablets
-
-EU/1/07/405/036
-
-56 x1 film-coated tablets
+EU/1/07/405/036 56 x1 film-coated tablets
 
 EU/1/07/405/037
 
 90 film-coated tablets
 
-EU/1/07/405/038
-
-98 film-coated tablets
+EU/1/07/405/038 98 film-coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -1080,7 +1074,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1098,41 +1092,34 @@ PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER BLISTER (CALENDAR)                            |
 
-BLISTER
-
-BLISTER (CALENDAR)
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Rasilez 300 mg film-coated tablets aliskiren
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 LXO Ireland DAC
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
-Monday
-
-Tuesday
-
-Wednesday
-
-Thursday
-
-Friday
-
-Saturday
+Monday Tuesday Wednesday Thursday Friday Saturday
 
 Sunday
 
@@ -1169,7 +1156,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1185,15 +1172,17 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-LXO Ireland DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
+LXO Ireland DAC 13 Merrion Square North, Dublin 2, D02 HW89
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/07/405/039
 
-98 film-coated tablets (2x49x1)
-
 EU/1/07/405/040
+
+98 film-coated tablets (2x49x1)
 
 280 film-coated tablets (20x14)
 
@@ -1217,7 +1206,9 @@ Rasilez 300 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rasilez 300 mg film-coated tablets aliskiren
+Rasilez 300 mg film-coated tablets
+
+aliskiren
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1261,15 +1252,19 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-LXO Ireland DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
+13 Merrion Square North,
+
+LXO Ireland DAC Dublin 2, D02 HW89
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/07/405/039
 
-98 film-coated tablets (2x49x1)
-
 EU/1/07/405/040
+
+98 film-coated tablets (2x49x1)
 
 280 film-coated tablets (20x14)
 
@@ -1279,7 +1274,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1305,14 +1300,16 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-## Rasilez 150 mg film-coated tablets Rasilez 300 mg film-coated tablets Aliskiren
+## Rasilez 150 mg film-coated tablets Rasilez 300 mg film-coated tablets
+
+Aliskiren
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1333,49 +1330,44 @@ This helps to lower high blood pressure in adult patients. High blood pressure i
 
 ## Do not take Rasilez
 
-- -if you are allergic to aliskiren or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice.
-- -if you have experienced the following forms of angioedema (difficulties in breathing or swallowing, or swelling of the face, hands and feet, eyes, lips and/or tongue):
-- -angioedema when taking aliskiren.
-- -hereditary angioedema.
-- -angioedema without any known cause.
-- -during the last 6 months of pregnancy or if you are breast-feeding, see section 'Pregnancy and breastfeeding'.
-- -if you are taking ciclosporin (a medicine used in transplantation to prevent organ rejection or for other conditions, e.g. rheumatoid arthritis or atopic dermatitis), itraconazole (a medicine used to treat fungal infections) or quinidine (a medicine used to correct heart rhythm).
+- if you are allergic to aliskiren or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice.
+- if you have experienced the following forms of angioedema (difficulties in breathing or swallowing, or swelling of the face, hands and feet, eyes, lips and/or tongue):
+- angioedema when taking aliskiren.
+- hereditary angioedema.
+- angioedema without any known cause.
+- during the last 6 months of pregnancy or if you are breast-feeding, see section \"Pregnancy and breastfeeding\".
+- if you are taking ciclosporin (a medicine used in transplantation to prevent organ rejection or for other conditions, e.g. rheumatoid arthritis or atopic dermatitis), itraconazole (a medicine used to treat fungal infections) or quinidine (a medicine used to correct heart rhythm).
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you have diabetes or impaired kidney function and you are treated with either of the following classes of medicines used to treat high blood pressure:
-- -an angiotensin converting enzyme inhibitor such as enalapril, lisinopril, ramipril
-
-or
-
-- -an angiotensin II receptor blocker such as valsartan, telmisartan, irbesartan.
-- -if the patient is less than 2 years of age.
+- if you have diabetes or impaired kidney function and you are treated with either of the following classes of medicines used to treat high blood pressure:
+- an angiotensin converting enzyme inhibitor such as enalapril, lisinopril, ramipril or
+- an angiotensin II receptor blocker such as valsartan, telmisartan, irbesartan.
+- if the patient is less than 2 years of age.
 
 ## Warnings and precautions
 
 Talk to your doctor before taking Rasilez:
 
-- -if you are taking a diuretic (a type of medicine also known as 'water' tablets which increases the amount of urine you produce).
-- -if you are taking either of the following classes of medicines used to treat high blood pressure:
-- -an angiotensin converting enzyme inhibitor such as enalapril, lisinopril, ramipril
-
-or
-
-- -an angiotensin II receptor blocker such as valsartan, telmisartan, irbesartan.
-- -if you have impaired kidney function, your doctor will carefully consider whether this medicine is suitable for you and may wish to monitor you carefully.
-- -if you have already experienced angioedema (difficulties in breathing or swallowing, or swelling of the face, hands and feet, eyes, lips and/or tongue). If this happens, stop taking this medicine and contact your doctor.
-- -if you have renal artery stenosis (narrowing of the blood vessels to one or both kidneys).
-- -if you have serious congestive heart failure (a type of heart disease where the heart cannot pump enough blood around the body).
+- if you are taking a diuretic (a type of medicine also known as \"water\" tablets which increases the amount of urine you produce).
+- if you are taking either of the following classes of medicines used to treat high blood pressure:
+- an angiotensin converting enzyme inhibitor such as enalapril, lisinopril, ramipril
+- or
+- an angiotensin II receptor blocker such as valsartan, telmisartan, irbesartan.
+- if you have impaired kidney function, your doctor will carefully consider whether this medicine is suitable for you and may wish to monitor you carefully.
+- if you have already experienced angioedema (difficulties in breathing or swallowing, or swelling of the face, hands and feet, eyes, lips and/or tongue). If this happens, stop taking this medicine and contact your doctor.
+- if you have renal artery stenosis (narrowing of the blood vessels to one or both kidneys).
+- if you have serious congestive heart failure (a type of heart disease where the heart cannot pump enough blood around the body).
 
 If you have severe and persistent diarrhoea you should stop taking Rasilez.
 
 Your doctor may check your kidney function, blood pressure and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
 
-See also section 'Do not take Rasilez'.
+See also section \"Do not take Rasilez\".
 
 ## Children and adolescents
 
-This medicine must not be used in babies from birth to less than 2 years of age. It should not be used in  children  from  2  to  less  than  6 years  of  age,  and  is  not  recommended  for  use  in  children  and adolescents from 6 to less than 18 years of age. This is because the safety and benefits of this medicine are not known in this population.
+This medicine must not be used in babies from birth to less than 2 years of age. It should not be used in children from 2 to less than 6 years of age, and is not recommended for use in children and adolescents from 6 to less than 18 years of age. This is because the safety and benefits of this medicine are not known in this population.
 
 ## Elderly
 
@@ -1387,17 +1379,17 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Your doctor may need to change your dose and/or to take other precautions if you are taking one of the following medicines:
 
-- -medicines that increase the amount of potassium in your blood. These include potassium-sparing diuretics, potassium supplements.
-- -furosemide or torasemide, medicines belonging to the type known as diuretics, or 'water' tablets, which are used to increase the amount of urine you produce.
-- -an angiotensin II receptor blocker or an angiotensin converting enzyme inhibitor (see sections 'Do not take Rasilez' and 'Warnings and precautions').
-- -ketoconazole, a medicine used to treat fungal infections.
-- -verapamil, a medicine used to lower high blood pressure, to correct heart rhythm or to treat
+- medicines that increase the amount of potassium in your blood. These include potassium-sparing diuretics, potassium supplements.
+- furosemide or torasemide, medicines belonging to the type known as diuretics, or \"water\" tablets, which are used to increase the amount of urine you produce.
+- an angiotensin II receptor blocker or an angiotensin converting enzyme inhibitor (see sections \"Do not take Rasilez\" and \"Warnings and precautions\").
+- ketoconazole, a medicine used to treat fungal infections.
+- verapamil, a medicine used to lower high blood pressure, to correct heart rhythm or to treat
 
 <div style=\"page-break-after: always\"></div>
 
 angina pectoris.
 
-- -certain types of pain killers called non-steroidal anti-inflammatory medicines (NSAIDs).
+- certain types of pain killers called non-steroidal anti-inflammatory medicines (NSAIDs).
 
 ## Rasilez with food and drink
 
@@ -1407,7 +1399,7 @@ You should take this medicine either with a light meal or without a meal once a 
 
 ## Pregnancy
 
-Do not take this medicine if you are pregnant (see section 'Do not take Rasilez'). If you become pregnant while taking this medicine, stop taking it immediately and talk to your doctor. If you think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine. Your doctor will normally advise you to stop taking this medicine before you become pregnant and will advise you to take another medicine instead of this medicine. It is not recommended in early pregnancy, and must not be taken when more than 3 months pregnant, as it may cause serious harm to your baby if used after the third month of pregnancy.
+Do not take this medicine if you are pregnant (see section \"Do not take Rasilez\"). If you become pregnant while taking this medicine, stop taking it immediately and talk to your doctor. If you think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine. Your doctor will normally advise you to stop taking this medicine before you become pregnant and will advise you to take another medicine instead of this medicine. It is not recommended in early pregnancy, and must not be taken when more than 3 months pregnant, as it may cause serious harm to your baby if used after the third month of pregnancy.
 
 ## Breast-feeding
 
@@ -1433,11 +1425,9 @@ Depending on how you respond to the treatment your doctor may prescribe a higher
 
 ## Method of administration
 
-Swallow the tablet whole with some water. You should take this medicine once a day, always with or always without food, preferably at the same time each day. You should establish a convenient daily schedule to take the medicine the same way each day, in a regular pattern with respect to the timing of
+Swallow the tablet whole with some water. You should take this medicine once a day, always with or always without food, preferably at the same time each day. You should establish a convenient daily schedule to take the medicine the same way each day, in a regular pattern with respect to the timing of your meals. You should avoid taking this medicine together with fruit juice and/or drinks containing plant extracts (including herbal teas). During your treatment, your doctor may adjust your dose depending on your blood pressure response.
 
 <div style=\"page-break-after: always\"></div>
-
-your meals. You should avoid taking this medicine together with fruit juice and/or drinks containing plant extracts (including herbal teas). During your treatment, your doctor may adjust your dose depending on your blood pressure response.
 
 ## If you take more Rasilez than you should
 
@@ -1459,11 +1449,11 @@ A few patients have experienced these serious side effects. If any of the follow
 
 ## Possible side effects:
 
-Common (may affect up to 1 in 10 people) : Diarrhoea, joint pain (arthralgia), high level of potassium in the blood, dizziness.
+Common (may affect up to 1 in 10 people): Diarrhoea, joint pain (arthralgia), high level of potassium in the blood, dizziness.
 
-Uncommon (may affect up to 1 in 100 people) : Skin rash (this may also be a sign of allergic reactions or angioedema - see 'Rare' side effects below), kidney problems including acute renal failure (severely decreased urine output), swelling of hands, ankles or feet (peripheral oedema), severe skin reactions (toxic epidermal necrolysis and/or oral mucosal reactions - red skin, blistering of the lips, eyes or mouth, skin peeling, fever), low blood pressure, palpitations, cough, itching, itchy rash (urticaria), increased liver enzymes.
+Uncommon (may affect up to 1 in 100 people): Skin rash (this may also be a sign of allergic reactions or angioedema - see \"Rare\" side effects below), kidney problems including acute renal failure (severely decreased urine output), swelling of hands, ankles or feet (peripheral oedema), severe skin reactions (toxic epidermal necrolysis and/or oral mucosal reactions - red skin, blistering of the lips, eyes or mouth, skin peeling, fever), low blood pressure, palpitations, cough, itching, itchy rash (urticaria), increased liver enzymes.
 
-Rare (may affect up to 1 in 1,000 people) : increased level of creatinine in the blood, decreased level of haemoglobin in the blood (anaemia), decreased level of red blood cells, red skin (erythema). Not known (frequency cannot be estimated from the available data) : spinning sensation, low level of sodium in the blood, shortness of breath, nausea, vomiting, signs of liver disorder (nausea, loss of appetite, dark coloured urine or yellowing of skin and eyes).
+Rare (may affect up to 1 in 1,000 people): increased level of creatinine in the blood, decreased level of haemoglobin in the blood (anaemia), decreased level of red blood cells, red skin (erythema). Not known (frequency cannot be estimated from the available data): spinning sensation, low level of sodium in the blood, shortness of breath, nausea, vomiting, signs of liver disorder (nausea, loss of appetite, dark coloured urine or yellowing of skin and eyes).
 
 ## If any of these affect you severely, tell your doctor. You may need to stop Rasilez.
 
@@ -1481,51 +1471,49 @@ Do not store above 25°C.
 
 Store in the original package in order to protect from moisture.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
-
-throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Rasilez contains
 
-- -The active substance is aliskiren (as hemifumarate).
+- The active substance is aliskiren (as hemifumarate).
 
 ## Rasilez 150 mg film-coated tablets
 
-- -Each tablet contains 150 mg aliskiren (as hemifumarate). The other ingredients are crospovidone type A, hypromellose substitution type 2910 (3 mPa s), magnesium stearate, macrogol 4000, microcrystalline cellulose, povidone K-30, colloidal anhydrous silica, talc, titanium dioxide (E 171), black iron oxide (E 172), red iron oxide (E 172).
+- Each tablet contains 150 mg aliskiren (as hemifumarate). The other ingredients are crospovidone type A, hypromellose substitution type 2910 (3 mPa s), magnesium stearate, macrogol 4000, microcrystalline cellulose, povidone K-30, colloidal anhydrous silica, talc, titanium dioxide (E 171), black iron oxide (E 172), red iron oxide (E 172).
 
-## Rasilez 300 mg film-coated tablets
+Rasilez 300 mg film-coated tablets
 
-- -Each tablet contains 300 mg aliskiren (as hemifumarate). The other ingredients are crospovidone type A, hypromellose substitution type 2910 (3 mPa s), magnesium stearate, macrogol 4000, microcrystalline cellulose, povidone K-30, colloidal anhydrous silica, talc, titanium dioxide (E 171), black iron oxide (E 172), red iron oxide (E 172).
+- Each tablet contains 300 mg aliskiren (as hemifumarate). The other ingredients are crospovidone type A, hypromellose substitution type 2910 (3 mPa s), magnesium stearate, macrogol 4000, microcrystalline cellulose, povidone K-30, colloidal anhydrous silica, talc, titanium dioxide (E 171), black iron oxide (E 172), red iron oxide (E 172).
 
 ## What Rasilez looks like and contents of the pack
 
-Rasilez 150 mg film-coated tablets are light-pink, biconvex round tablets, imprinted 'IL' on one side and 'NVR' on the other side.
+Rasilez 150 mg film-coated tablets are light-pink, biconvex round tablets, imprinted \"IL\" on one side and \"NVR\" on the other side.
 
-Rasilez 300 mg film-coated tablets are light-red, biconvex, ovaloid tablets, imprinted 'IU' on one side and 'NVR' on the other side.
+Rasilez 300 mg film-coated tablets are light-red, biconvex, ovaloid tablets, imprinted \"IU\" on one side and \"NVR\" on the other side.
 
-## Rasilez 150 mg film-coated tablets are available in the following packs:
+Rasilez 150 mg film-coated tablets are available in the following packs:
 
-- -Unit packs containing 14, 28, 30, 50, 56, 90 or 98 tablets
-- -Unit packs containing 56x1 tablets in perforated unit-dose blisters
-- -Multipacks containing 280 (20x14) tablets
-- -Multipacks containing 98 (2x49x1) tablets in perforated unit-dose blisters
+- Unit packs containing 14, 28, 30, 50, 56, 90 or 98 tablets
+- Unit packs containing 56x1 tablets in perforated unit-dose blisters
+- Multipacks containing 280 (20x14) tablets
+- Multipacks containing 98 (2x49x1) tablets in perforated unit-dose blisters
 
-## Rasilez 300 mg film-coated tablets are available in the following packs:
+Rasilez 300 mg film-coated tablets are available in the following packs:
 
-- -Unit packs containing 14, 28, 30, 50, 56, 90 or 98 tablets
-- -Unit packs containing 56x1 tablets in perforated unit-dose blisters
-- -Multipacks containing 280 (20x14) tablets
-- -Multipacks containing 98 (2x49x1) tablets in perforated unit-dose blisters
+- Unit packs containing 14, 28, 30, 50, 56, 90 or 98 tablets
+- Unit packs containing 56x1 tablets in perforated unit-dose blisters
+- Multipacks containing 280 (20x14) tablets
+- Multipacks containing 98 (2x49x1) tablets in perforated unit-dose blisters
 
 Not all pack sizes may be available in your country.
 
 ## Marketing Authorisation Holder
 
-LXO Ireland DAC D'Olier Chambers 16A D'Olier Street Dublin 2 Ireland
+LXO Ireland DAC 13 Merrion Square North, Dublin 2, D02 HW89 Ireland
 
 ## Manufacturer
 

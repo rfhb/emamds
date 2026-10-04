@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-12-12 16:44:46
-document_pages: 32
+document_datetime: 2026-10-02 14:59:00
+document_pages: 59
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sialanar-epar-product-information_en.pdf
 document_name: sialanar-epar-product-information_en.pdf
 version: success
-processing_time: 10.3034543
-conversion_datetime: 2025-12-28 10:39:06.927393
+processing_time: 83.173224
+conversion_datetime: 2026-10-04 15:45:59.057395
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -70,17 +70,20 @@ The Table 1 shows the dose in ml of solution to be given for each weight range a
 
 Table 1. Dosing table for children and adolescents with normal renal function
 
-| Weight Kg   | Dose level 1 (~12.8µg/kg) 1   | Dose level 2 (~25.6µg/kg) 1   | Dose level 3 (~38.4µg/kg) 1   | Dose level 4 (~51.2µg/kg) 1   | Dose level 5 (~64µg/kg) 1   |
-|-------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-----------------------------|
-|             | ml                            | ml                            | ml                            | ml                            | ml                          |
-| 13-17       | 0.6                           | 1.2                           | 1.8                           | 2.4                           | 3*                          |
-| 18-22       | 0.8                           | 1.6                           | 2.4                           | 3.2                           | 4*                          |
-| 23-27       | 1                             | 2                             | 3                             | 4                             | 5*                          |
-| 28-32       | 1.2                           | 2.4                           | 3.6                           | 4.8                           | 6*                          |
-| 33-37       | 1.4                           | 2.8                           | 4.2                           | 5.6                           | 6*                          |
-| 38-42       | 1.6                           | 3.2                           | 4.8                           | 6*                            | 6                           |
-| 43-47       | 1.8                           | 3.6                           | 5.4                           | 6*                            | 6                           |
-| ≥48         | 2                             | 4                             | 6*                            | 6                             | 6                           |
+| Weight Kg   |   Dose level 1 (~12.8µg/kg) 1 - ml |   Dose level 2 (~25.6µg/kg) 1 - ml | Dose level 3 (~38.4µg/kg) 1 - ml   | Dose level 4 (~51.2µg/kg) 1 - ml   | Dose level 5 (~64µg/kg) 1 - ml   |
+|-------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|----------------------------------|
+| 13-17       |                                0.6 |                                1.2 | 1.8                                | 2.4                                | 3*                               |
+| 18-22       |                                0.8 |                                1.6 | 2.4                                | 3.2                                | 4*                               |
+| 23-27       |                                  1 |                                  2 | 3                                  | 4                                  | 5*                               |
+| 28-32       |                                1.2 |                                2.4 | 3.6                                | 4.8                                | 6*                               |
+| 33-37       |                                1.4 |                                2.8 | 4.2                                | 5.6                                | 6*                               |
+| 38-42       |                                1.6 |                                3.2 | 4.8                                | 6*                                 | 6                                |
+| 43-47       |                                1.8 |                                3.6 | 5.4                                | 6*                                 | 6                                |
+| ≥48         |                                  2 |                                  4 | 6*                                 | 6                                  | 6                                |
+
+1 refers to µg/kg glycopyrronium
+
+*Maximum individual dose in this weight range
 
 ## Special populations
 
@@ -102,23 +105,22 @@ Clinical studies have not been conducted in patients with hepatic impairment. Gl
 
 ## Renal impairment
 
-Doses should be reduced by 30% in patients with mild to moderate renal impairment (eGFR &lt;90 ≥30 ml/min/1.73m 2 ) (see Table 2). This medicinal product is contraindicated in patients with severe renal impairment (eGFR &lt;30 ml/min/1.73m 2 ), including those with end-stage renal disease requiring dialysis (see section 4.3).
+Doses should be reduced by 30% in patients with mild to moderate renal impairment (eGFR &lt;90 - ≥30 ml/min/1.73m 2 ) (see Table 2). This medicinal product is contraindicated in patients with severe renal impairment (eGFR &lt;30 ml/min/1.73m 2 ), including those with end-stage renal disease requiring dialysis (see section 4.3).
 
 <div style=\"page-break-after: always\"></div>
 
 Table 2. Dosing table for children and adolescents with mild to moderate renal impairment
 
-| Weight Kg   | Dose level 1 (~8.8µg/kg) 1   | Dose level 2 (~17.6µg/kg) 1   | Dose level 3 (~27.2µg/kg) 1   | Dose level 4 (~36µg/kg) 1   | Dose level 5 (~44.8µg/kg) 1   |
-|-------------|------------------------------|-------------------------------|-------------------------------|-----------------------------|-------------------------------|
-|             | ml                           | ml                            | ml                            | ml                          | ml                            |
-| 13-17       | 0.4                          | 0.8                           | 1.2                           | 1.7                         | 2.1*                          |
-| 18-22       | 0.6                          | 1.1                           | 1.7                           | 2.2                         | 2.8*                          |
-| 23-27       | 0.7                          | 1.4                           | 2.1                           | 2.8                         | 3.5*                          |
-| 28-32       | 0.8                          | 1.7                           | 2.5                           | 3.4                         | 4.2*                          |
-| 33-37       | 1                            | 2                             | 2.9                           | 3.9                         | 4.2*                          |
-| 38-42       | 1.1                          | 2.2                           | 3.4                           | 4.2*                        | 4.2                           |
-| 43-47       | 1.2                          | 2.5                           | 3.8                           | 4.2*                        | 4.2                           |
-| ≥48         | 1.4                          | 2.8                           | 4.2*                          | 4.2                         | 4.2                           |
+| Weight Kg   |   Dose level 1 (~8.8µg/kg) 1 - ml |   Dose level 2 (~17.6µg/kg) 1 - ml | Dose level 3 (~27.2µg/kg) 1 - ml   | Dose level 4 (~36µg/kg) 1 - ml   | Dose level 5 (~44.8µg/kg) 1 - ml   |
+|-------------|-----------------------------------|------------------------------------|------------------------------------|----------------------------------|------------------------------------|
+| 13-17       |                               0.4 |                                0.8 | 1.2                                | 1.7                              | 2.1*                               |
+| 18-22       |                               0.6 |                                1.1 | 1.7                                | 2.2                              | 2.8*                               |
+| 23-27       |                               0.7 |                                1.4 | 2.1                                | 2.8                              | 3.5*                               |
+| 28-32       |                               0.8 |                                1.7 | 2.5                                | 3.4                              | 4.2*                               |
+| 33-37       |                                 1 |                                  2 | 2.9                                | 3.9                              | 4.2*                               |
+| 38-42       |                               1.1 |                                2.2 | 3.4                                | 4.2*                             | 4.2                                |
+| 43-47       |                               1.2 |                                2.5 | 3.8                                | 4.2*                             | 4.2                                |
+| ≥48         |                               1.4 |                                2.8 | 4.2*                               | 4.2                              | 4.2                                |
 
 ## Method of administration
 
@@ -306,7 +308,7 @@ Adverse reactions are more common with higher doses and prolonged use.
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in the literature for trials using glycopyrronium for sialorrhoea in the paediatric population (including 2 placebo controlled trials, an uncontrolled safety study using glycopyrronium for a 6 month period, and 3 supportive studies with adverse reaction data in the target population) are listed by MedDRA system organ class (Table 3). Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data ).
+Adverse reactions reported in the literature for trials using glycopyrronium for sialorrhoea in the paediatric population (including 2 placebo controlled trials, an uncontrolled safety study using glycopyrronium for a 6 month period, and 3 supportive studies with adverse reaction data in the target population) are listed by MedDRA system organ class (Table 3). Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
 
 ## Table 3. List of adverse reactions
 
@@ -413,7 +415,7 @@ Overdose of glycopyrronium can result in anticholinergic syndrome, produced by t
 
 ## Management
 
-Patients presenting with anticholinergic toxicity should be transported to the nearest emergency facility with advanced life support capabilities. Pre-hospital gastrointestinal decontamination with activated charcoal is not recommended because of the potential for somnolence and seizures and the resulting risk of pulmonary aspiration. At hospital, activated charcoal can be administered if the patient's airways can be adequately protected.  Physostigmine salicylate is recommended when tachydysrhythmia with subsequent hemodynamic compromise, intractable seizure, severe agitation or psychosis is present.
+Patients presenting with anticholinergic toxicity should be transported to the nearest emergency facility with advanced life support capabilities. Pre-hospital gastrointestinal decontamination with activated charcoal is not recommended because of the potential for somnolence and seizures and the resulting risk of pulmonary aspiration. At hospital, activated charcoal can be administered if the patient's airways can be adequately protected. Physostigmine salicylate is recommended when tachydysrhythmia with subsequent hemodynamic compromise, intractable seizure, severe agitation or psychosis is present.
 
 Patients and/or parents/caregivers should be counselled to ensure an acurate dose is given each time, in order to prevent the harmful consequences of anticholinergic reactions of glycopyrronium seen with dosing errors or overdose.
 
@@ -435,27 +437,27 @@ Antimuscarinics are competitive inhibitors of the actions of acetylcholine at th
 
 Salivation is primarily mediated by parasympathetic innervation of the salivary glands. Glycopyrronium competitively inhibits cholinergic muscarinic receptors in salivary glands and other peripheral tissues, thus indirectly reducing the rate of salivation. Glycopyrronium has little effect on cholinergic stimuli at nicotinic acetylcholine receptors, on structures innervated by postganglionic cholinergic neurons, and on smooth muscles that respond to acetylcholine but have no cholinergic innervation.
 
-Peripheral antimuscarinic effects that are produced as the dose increases are: decreased production of secretions from the salivary, bronchial and sweat glands; dilatation of the pupils (mydriasis) and paralysis of accommodation (cyclopegia); increased heart rate; inhibition of micturition and reduction in gastrointestinal tone; inhibition of gastric acid secretion.
+Peripheral antimuscarinic effects that are produced as the dose increases are: decreased production of secretions from the salivary, bronchial and sweat glands; dilatation of the pupils (mydriasis) and paralysis of accommodation (cycloplegia); increased heart rate; inhibition of micturition and reduction in gastrointestinal tone; inhibition of gastric acid secretion.
 
 ## Clinical efficacy and safety
 
 Placebo controlled efficacy data includes patients with a treatment duration of 8 weeks. There is no placebo or comparator controlled data beyond 8 weeks.
 
-Zeller et al 2012a evaluated the efficacy of glycopyrronium bromide oral solution (1 mg/5 mL) in managing problem drooling associated with cerebral palsy and other neurologic conditions. Thirtyeight patients aged 3-23 years weighing at least 27 lb (12.2 kg) with severe drooling (clothing damp 5-7 days/week) were randomised to eight-weeks treatment with glycopyrronium (n = 20), 20-100 μg/kg (not exceeding 3 mg in total) three times a day, or matching placebo (n = 18). The first four weeks were an individual titration period in fixed steps depending on response followed by 4-weeks maintenance treatment. Primary efficacy endpoint was responder rate, defined as percentage showing ≥3 -point improvement on the modified Teacher's Drooling Scale (mTDS). The primary analysis population was revised to only comprise patients with an age of 3 -16 years which rendered 19 patients in the glycopyrrolate oral solution group and 17 in the placebo group. Responder rate was defined as at least a 3-point improvement in modified Teacher's Drooling Scale (mTDS).
+Zeller et al 2012a evaluated the efficacy of glycopyrronium bromide oral solution (1 mg/5 mL) in managing problem drooling associated with cerebral palsy and other neurologic conditions. Thirtyeight patients aged 3-23 years weighing at least 27 lb (12.2 kg) with severe drooling (clothing damp 5-7 days/week) were randomised to eight-weeks treatment with glycopyrronium (n = 20), 20-100 μg/kg (not exceeding 3 mg in total) three times a day, or matching placebo (n = 18). The first four weeks were an individual titration period in fixed steps depending on response followed by 4-weeks maintenance treatment. Primary efficacy endpoint was responder rate, defined as percentage showing ≥3-point improvement on the modified Teacher's Drooling Scale (mTDS). The primary analysis population was revised to only comprise patients with an age of 3 -16 years which rendered 19 patients in the glycopyrrolate oral solution group and 17 in the placebo group. Responder rate was defined as at least a 3-point improvement in modified Teacher's Drooling Scale (mTDS).
 
-| Responder rate at week 8   | At least a 3-point improvement in mTDS   | Mean improvements in mTDS                   |
-|----------------------------|------------------------------------------|---------------------------------------------|
-| Glycopyrronium             | 14 of 19 patients (73.7%)                | 3.94 points (SD: 1.95; 95%; CI: 2.97 -4.91) |
-| Placebo                    | 3 of 17 patients (17.6%)                 | 0.71 points (SD: 2.14; 95% CI: -0.43-1.84)  |
-| p value                    | p = 0.0011                               | p < 0.0001                                  |
+| Responder rate at week 8   | At least a 3-point improvement in mTDS   | Mean improvements in mTDS                  |
+|----------------------------|------------------------------------------|--------------------------------------------|
+| Glycopyrronium             | 14 of 19 patients (73.7%)                | 3.94 points (SD: 1.95; 95%; CI: 2.97-4.91) |
+| Placebo                    | 3 of 17 patients (17.6%)                 | 0.71 points (SD: 2.14; 95% CI: -0.43-1.84) |
+| p value                    | p = 0.0011                               |                                            |
+
+p &lt;0.0001
 
 In addition, 84% of physicians and 100% of parents/caregivers regarded glycopyrrolate as worthwhile compared with 41% and 56%, respectively, for placebo (p≤0.014). Most frequently reported treatment-emergent adverse events (glycopyrrolate vs placebo) were dry mouth, constipation, vomiting and nasal congestion.
 
-The safety and efficacy of glycopyrronium have been studied in an open labelled study with no control group over a 24-week period in children aged 3 to 18 years. At the week 24/exit visit, 52.3% (95%
-
 <div style=\"page-break-after: always\"></div>
 
-confidence interval 43.7-60.9) of patients (n=130) had an at least three-point decrease in mTDS from baseline and were classified as responders to treatment with oral glycopyrrolate solution. The safety profile was consistent with the one seen with anticholinergics (see sections 4.4 and 4.8).
+The safety and efficacy of glycopyrronium have been studied in an open labelled study with no control group over a 24-week period in children aged 3 to 18 years. At the week 24/exit visit, 52.3% (95% confidence interval 43.7-60.9) of patients (n=130) had an at least three-point decrease in mTDS from baseline and were classified as responders to treatment with oral glycopyrrolate solution. The safety profile was consistent with the one seen with anticholinergics (see sections 4.4 and 4.8).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -471,25 +473,23 @@ In adults, distribution of glycopyrronium was rapid following a single 6 µg/kg 
 
 The volume of distribution, 0.64 ± 0.29 L/kg in adults is similar to that of total body water. Volume of distribution is somewhat higher in the paediatric population(s), in the range 1.31 to 1.83 L/kg.
 
-The PK of glycopyrronium has been shown to be essentially independent of age in children in the age range 0.19 - 14 years administered a 5 µg/kg intravenous single-dose. In most paediatric subjects, plasma glycopyrronium vs. time plots are reported to show a triexponential curve; adults generally show a biexponential curve. Modest changes in volume of distribution (Vss) and clearance (Cl) have been observed in children between 1 and 3 years of age, leading to a statistically significant shorter elimination half-life (t½, z ) than that observed in younger (&lt;1 year of age; p = 0.037) or older (&gt;3 years of age; p = 0.042) groups.
+The PK of glycopyrronium has been shown to be essentially independent of age in children in the age range 0.19 - 14 years administered a 5 µg/kg intravenous single-dose. In most paediatric subjects, plasma glycopyrronium vs. time plots are reported to show a triexponential curve; adults generally show a biexponential curve. Modest changes in volume of distribution (Vss) and clearance (Cl) have been observed in children between 1 and 3 years of age, leading to a statistically significant shorter elimination half-life (t½, z) than that observed in younger (&lt;1 year of age; p = 0.037) or older (&gt;3 years of age; p = 0.042) groups.
 
 In a study in healthy adults, a 2000 µg single dose of glycopyrronium bromide resulted in an AUC of 2.39 µg.h/L (fasted). An AUC0-6 h of 8.64 µg.h/L was observed after 6 µg/kg intravenous glycopyrronium.
 
-Based upon theoretical physicochemical considerations, the quaternary ammonium compound glycopyrronium would be expected to have low central bioavailability; no glycopyrronium was detectable in the CSF of anaesthetised surgical patients or patients undergoing caesarean section following a 6 - 8 µg/kg intravenous dose.  In the paediatric population 5 µg/kg intravenous glycopyrronium has low central bioavailability, except in the case where the blood brain barrier has been compromised (e.g. a shunt infection).
+Based upon theoretical physicochemical considerations, the quaternary ammonium compound glycopyrronium would be expected to have low central bioavailability; no glycopyrronium was detectable in the CSF of anaesthetised surgical patients or patients undergoing caesarean section following a 6 - 8 µg/kg intravenous dose. In the paediatric population 5 µg/kg intravenous glycopyrronium has low central bioavailability, except in the case where the blood brain barrier has been compromised (e.g. a shunt infection).
 
 ## Elimination
 
 The primary route of elimination of glycopyrronium is via renal excretion, mainly as unchanged medicinal product. Approximately 65% of an intravenous dose is renally excreted within the first 24 hours. A small proportion (~5%) is eliminated in the bile.
 
-The elimination half-life of glycopyrronium appears to be dependent on route of administration being 0.83 ± 0.27 hours after intravenous administration, 75 minutes after intramuscular administration and in the region of 2.5 - 4 h after oral (solution) administration, though again this was highly variable.
-
 <div style=\"page-break-after: always\"></div>
 
-That the latter two half-lives, and especially that for oral administration, are longer than for intravenous administration probably reflects the complex absorption and distribution of glycopyrronium by each route.  It is possible that prolonged absorption after oral administration translates into elimination being faster than absorption (known as flip-flop kinetics, characterized by Ka &lt; Ke).
+The elimination half-life of glycopyrronium appears to be dependent on route of administration being 0.83 ± 0.27 hours after intravenous administration, 75 minutes after intramuscular administration and in the region of 2.5 - 4 h after oral (solution) administration, though again this was highly variable. That the latter two half-lives, and especially that for oral administration, are longer than for intravenous administration probably reflects the complex absorption and distribution of glycopyrronium by each route. It is possible that prolonged absorption after oral administration translates into elimination being faster than absorption (known as flip-flop kinetics, characterized by Ka &lt; Ke).
 
 The total body clearance of the medicinal product following an intravenous dose is relatively high at between 0.54 ± 0.14 L/h/kg and 1.14 ± 0.31 L/h/kg. As this exceeds the glomerular filtration rate and it appears that more than 50% of the dose is excreted unchanged in the urine, it is probable that the renal elimination of glycopyrronium involves both glomerular filtration and proximal tubular secretion by the base secretory mechanism.
 
-A mean increase in total systemic exposure (AUClast) of up to 1.4 fold was seen in adult subjects with mild and moderate renal impairment (GFR ≥30mL/min/1.73m 2 ) and up to 2.2 fold in subjects with severe renal impairment or end stage renal disease (estimated GFR &lt;30 mL/min/1.73m 2 ). A 30% dose reduction (see Table 2) is required for patients with mild to moderate renal impairment. Glycopyrronium is contraindicated in patients with severe renal impairment.
+A mean increase in total systemic exposure (AUClast) of up to 1.4 fold was seen in adult subjects with mild and moderate renal impairment (GFR ≥30mL/min/1.73m 2 ) and up to 2.2 fold in subjects with severe renal impairment or end stage renal disease (estimated GFR &lt;30 mL/min/1.73m 2 ). Glycopyrronium is contraindicated in patients with severe renal impairment.
 
 ## Other
 
@@ -511,17 +511,15 @@ Non-clinical data, including genotoxicity or carcinogenicity studies have not be
 
 Limited non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology or repeated dose toxicity.
 
-The single dose toxicity of glycopyrronium has been tested in a range of investigations, although only limited experimental details are available. Upon oral administration, high LD50 values of 550 mg/kg in mice and above 1,000 mg/kg in rats were reported.  In rats at higher doses (1500-2000 mg/kg) tremors, clonic and tonic convulsions and laboured breathing were observed prior to death, resulting from respiratory failure.
+The single dose toxicity of glycopyrronium has been tested in a range of investigations, although only limited experimental details are available. Upon oral administration, high LD50 values of 550 mg/kg in mice and above 1,000 mg/kg in rats were reported. In rats at higher doses (1500-2000 mg/kg) tremors, clonic and tonic convulsions and laboured breathing were observed prior to death, resulting from respiratory failure.
 
 Chronic oral administration of glycopyrronium at doses of 4, 16 and 64 mg/kg for up to 27 weeks in dogs produced mydriasis, cycloplegia, xerostomia, emesis, occasional lacrimation, injection of sclera and rhinorrhoea.
 
 Extrapolation of safety margins to the paediatric population is not possible, as no exposure data are available from repeated dose toxicology studies and no studies in juvenile animals have been performed with glycopyrronium.
 
-Data on reproductive endpoints for glycopyrronium are very limited. A reduction in corpora lutea was observed in female rats administered glycopyrronium. No effects on fertility were observed in male rats. Reproductive performance in rats given glycopyrronium shows a decrease in the rate of conception and in survival rate at weaning. The significance of the non-clinical findings for humans is not clear, and the lack of human data on the medicinal product leads to glycopyrronium being contraindicated in pregnant women. There are insufficient data in the public domain to adequately
+Data on reproductive endpoints for glycopyrronium are very limited. A reduction in corpora lutea was observed in female rats administered glycopyrronium. No effects on fertility were observed in male rats. Reproductive performance in rats given glycopyrronium shows a decrease in the rate of conception and in survival rate at weaning. The significance of the non-clinical findings for humans is not clear, and the lack of human data on the medicinal product leads to glycopyrronium being contraindicated in pregnant women. There are insufficient data in the public domain to adequately assess effects on the reproductive system in young adults, and safety in human pregnancy has not been established.
 
 <div style=\"page-break-after: always\"></div>
-
-assess effects on the reproductive system in young adults, and safety in human pregnancy has not been established.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -541,7 +539,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Do not store above 25 ° C.
+Do not store above 25°C.
 
 ## 6.5 Nature and contents of container
 
@@ -577,6 +575,567 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Sialanar 0.68 mg orodispersible tablets Sialanar 1.36 mg orodispersible tablets
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Sialanar 0.68 mg orodispersible tablets
+
+Each orodispersible tablet contains 0.85 mg glycopyrronium bromide equivalent to 0.68 mg of glycopyrronium.
+
+Sialanar 1.36 mg orodispersible tablets
+
+Each orodispersible tablet contains 1.7 mg glycopyrronium bromide equivalent to 1.36 mg of glycopyrronium.
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Orodispersible tablet.
+
+Sialanar 0.68 mg orodispersible tablets
+
+White to off white, circular, orodispersible tablet, debossed with a 'single crescent'.
+
+Sialanar 1.36 mg orodispersible tablets
+
+White to off white, circular, orodispersible tablet, debossed with a 'double crescent'.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+Symptomatic treatment of severe sialorrhoea (chronic pathological drooling) in children and adolescents aged 3 years and older with chronic neurological disorders.
+
+## 4.2 Posology and method of administration
+
+Sialanar should be prescribed by physicians experienced in the treatment of paediatric patients with neurological disorders.
+
+Posology
+
+Due to the lack of long-term safety data, Sialanar is recommended for short-term intermittent use (see section 4.4).
+
+This medicinal product is not interchangeable with other glycopyrronium products on a microgram per microgram basis without dose adjustment and when switching between medicinal products, the specific dose recommendations for each medicinal product must be followed to avoid overdose and anticholinergic side-effects.
+
+<div style=\"page-break-after: always\"></div>
+
+## Paediatric population - children and adolescents aged 3 years and older
+
+The dosing schedule for glycopyrronium is based on the weight of the child. At initiation, the dose must be titrated gradually. Dose titration is recommended using Sialanar oral liquid formulation, as this allows greater flexibility in adjusting the dose. Dose titration should be continued until efficacy is balanced with undesirable effects and amended up or down as appropriate. Once a stable, effective dose has been established, patients may be switched to the orodispersible tablet formulation, administered three times daily. Table 1 provides the corresponding orodispersible tablet dose based on the patient's weight range and the dose level reached during titration. For example, if a 20 kg patient was titrated to dose level 3 with Sialanar liquid, dose level 3 at the 18-22 kg weight band should be used to obtain the orodispersible tablet dose. The administered dose must not exceed the values shown in Table 1.
+
+Once a stable regimen with the orodispersible tablet has been established, clinicians may, based on clinical judgement, deem it appropriate to make subsequent dose adjustments using the orodispersible tablet formulation rather than returning to the liquid formulation.
+
+Undesirable effects may be minimised by using the lowest effective dose necessary to control symptoms. In the event of a known anticholinergic adverse reaction occurring when the dose is increased, the dose should be reduced to the previous lower dose and the event monitored (see section 4.4). If the event does not resolve treatment should be discontinued. In the event of constipation, urinary retention or pneumonia (see section 4.8), treatment should be stopped and the prescribing physician contacted.
+
+Younger children may be more susceptible to adverse reactions, and this should be borne in mind when any dose adjustments are carried out.
+
+Following the dose titration period, the child's sialorrhoea should be monitored, in conjunction with the carer at no longer than 3 monthly intervals, to assess changes in efficacy and/or tolerability over time, and the dose adjusted accordingly.
+
+Table 1 outlines the glycopyrronium dose (mg) to be administered for each weight range at each dosing level. Caution is required when switching between Sialanar formulations, as the recommended doses for the oral solution and the orodispersible tablets are not directly interchangeable. Patients should be monitored for clinical response and tolerability, and dose adjustments considered where clinically indicated. The oral solution should be used when more precise dose titration is required or when an adequate response or tolerability cannot be achieved with the available orodispersible tablet strengths.
+
+Dose levels are based on simulation rather than a clinical trial comparing the Sialanar formulations directly. Therefore, the administered orodispersible tablet dose must not exceed the values shown in Table 1 to minimise potential risks.
+
+Table 1. Dosing table for children and adolescents with normal renal function
+
+| Weight (Kg)   | Dose level 1 (mg)   | Dose level 2 (mg)   |   Dose level 3 (mg) |   Dose level 4 (mg) |   Dose level 5 (mg) |
+|---------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| 13-17         | ^ ^                 | ^                   |                     |                0.68 |                0.68 |
+| 18-22         | ^                   | ^                   |                0.68 |                0.68 |                1.36 |
+| 23-27         | ^                   | 0.68                |                0.68 |                1.36 |                1.36 |
+| 28-32         | ^                   | 0.68                |                0.68 |                1.36 |                2.04 |
+| 33-37         | ^                   | 0.68                |                1.36 |                1.36 |                2.04 |
+| 38-42         | ^                   | 0.68                |                1.36 |                2.04 |                2.04 |
+| 43-47         | ^                   | 0.68                |                1.36 |                2.04 |                2.04 |
+| ≥48           | 0.68                | 1.36                |                2.04 |                2.04 |                2.04 |
+
+^ For doses which cannot be achieved using the orodispersible tablets formulation, other pharmaceutical forms of Sialanar are available.
+
+<div style=\"page-break-after: always\"></div>
+
+## Special populations
+
+## Paediatric population (children aged &lt; 3 years)
+
+The safety and efficacy of glycopyrronium bromide in children aged from birth to &lt; 3 years has not been established. No data are available.
+
+## Adult population
+
+Sialanar is indicated for the paediatric population only. There is limited clinical trial evidence on the use of glycopyrronium in the adult population with pathological drooling.
+
+## Elderly
+
+Sialanar is indicated for the paediatric population only. The elderly have a longer elimination half-life and reduced medicinal product clearance as well as limited data to support efficacy in short-term use. As such Sialanar should not be used in patients over the age of 65 years.
+
+## Hepatic impairment
+
+Clinical studies have not been conducted in patients with hepatic impairment. Glycopyrronium is cleared predominantly from the systemic circulation by renal excretion and hepatic impairment is not thought to result in a clinically relevant increase in systemic exposure of glycopyrronium.
+
+## Renal impairment
+
+This medicinal product is contraindicated in patients with severe renal impairment (eGFR &lt; 30 ml/min/1.73 m 2 ), including those with end-stage renal disease requiring dialysis (see section 4.3). For patients with mild to moderate renal impairment (eGFR &lt; 90 - &gt; 30 ml/min/1.73 m 2 ) Sialanar oral solution should be used as it allows greater flexibility and precision of dosing.
+
+## Method of administration
+
+For oral use only. The tablet should be placed on the tongue or in the buccal cavity and allowed to disperse.
+
+Co-administration with food results in a marked decrease in systemic medicinal product exposure (see section 5.2). Dosing should be at least one hour before or at least two hours after meals or at consistent times with respect to food intake. High fat food should be avoided. Where the child's specific needs determine that co-administration with food is required, dosing of the medicinal product should be consistently performed during food intake.
+
+The orodispersible tablet should be administered without water. Co-administration with water reduced systemic exposure by ~20 % in healthy adults under fasting conditions (see section 5.2).
+
+If administration of Sialanar is required via nasogastric / feeding tubes, the oral solution formulation should be used.
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+Pregnancy and breast-feeding.
+
+Glaucoma.
+
+Urinary retention.
+
+Severe renal impairment (eGFR &lt; 30 ml/min/1.73 m 2 ), including those with end-stage renal disease requiring dialysis.
+
+<div style=\"page-break-after: always\"></div>
+
+History of intestinal obstruction, ulcerative colitis, paralytic ileus, pyloric stenosis and myasthenia gravis.
+
+Concomitant treatment with potassium chloride solid oral dose and anticholinergics (see section 4.5).
+
+## 4.4 Special warnings and precautions for use
+
+## Anticholinergic effects
+
+Anticholinergic effects such as urinary retention, constipation and overheating due to inhibition of sweating may be dose dependent and difficult to assess in a disabled child. Monitoring by physicians and caregivers is required with adherence to the management instructions below:
+
+The carer should stop treatment and seek advice from the prescriber in the event of:
+
+- constipation
+- urinary retention
+- pneumonia
+- allergic reaction
+- pyrexia
+- very hot weather
+- changes in behaviour
+
+After evaluating the event, the prescriber will decide if treatment should remain stopped or if this should continue at a lower dose (see section 4.2).
+
+## Lack of long-term safety data
+
+Published safety data are not available beyond 24 weeks treatment duration. Given the limited longterm safety data available and the uncertainties around the potential risk for carcinogenicity, total treatment duration should be kept as short as possible. If continuous treatment is needed (e.g. in a palliative setting) or the treatment is repeated intermittently (e.g. in the non-palliative setting treating chronic disease) benefits and risks should be carefully considered on a case-by-case basis and treatment should be closely monitored.
+
+## Mild to moderate sialorrhoea
+
+Due to the low likelihood of benefit and the known adverse effect profile, Sialanar should not be given to children with mild to moderate sialorrhoea.
+
+## Cardiac disorders
+
+Glycopyrronium should be used with caution in patients with acute myocardial infarction, hypertension, coronary artery disease, cardiac arrhythmias and conditions characterised by tachycardia (including thyrotoxicosis, cardiac insufficiency, cardiac surgery) due to the potential increase in heart rate, blood pressure and rhythm disorders produced by its administration (see section 4.8). The carer should be advised to measure the pulse rate if the child seems unwell and report very fast or very slow heart rate.
+
+## Gastro-intestinal disorders
+
+Antimuscarinics such as glycopyrronium should be used with caution in patients with gastrooesophageal reflux disease, pre-existing constipation and diarrhoea.
+
+## Dental disorders
+
+Since reduced salivation can increase the risk of oral cavities and periodontal diseases, it is important that patients receive adequate daily dental hygiene and regular dental health checks.
+
+<div style=\"page-break-after: always\"></div>
+
+## Respiratory disorders
+
+Glycopyrronium can cause thickening of secretions, which may increase the risk of respiratory infection and pneumonia (see section 4.8). Glycopyrronium should be discontinued if pneumonia is present.
+
+## Central nervous system (CNS) adverse reactions
+
+Increased CNS effects have been reported in clinical trials including: irritability, drowsiness, restlessness, overactivity, short attention span, frustration, mood changes, temper outbursts or explosive behaviour, excessive sensitivity, seriousness or sadness, frequent crying episodes and fearfulness (see section 4.8). Behavioural changes should be monitored.
+
+As a consequence of its quaternary charge glycopyrronium has limited ability to penetrate the blood brain barrier, although the extent of penetration is unknown. Caution should be exercised in children with compromised blood brain barrier, e.g. intraventricular shunt, brain tumour, encephalitis.
+
+## Children below the age of 3 years
+
+Sialanar is not recommended in children below the age of 3 years since there is very limited data on the efficacy and safety of glycopyrronium in this age group.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+No interaction studies have been performed.
+
+## Paediatric population
+
+There are limited data available relating to interactions with other medicinal products in the paediatric age group.
+
+The following medicinal product interaction information is relevant to glycopyrronium.
+
+## Contraindications of concomitant use (see section 4.3)
+
+## Potassium chloride solid oral dose
+
+Glycopyrronium may potentiate the risk of upper gastrointestinal injury associated with oral solid formulations of potassium chloride due to increased gastrointestinal transit time creating a high localized concentration of potassium ions. An association with upper gastrointestinal bleeding and small bowel ulceration, stenosis, perforation, and obstruction has been observed.
+
+## Anticholinergics
+
+Concomitant use of anticholinergics may increase the risk of anticholinergic side effects. Anticholinergics may delay the gastrointestinal absorption of other anticholinergics administered orally and also increase the risk of anticholinergic side effects.
+
+## Concomitant use to be considered with caution
+
+## Antispasmodics
+
+Glycopyrronium may antagonize the pharmacologic effects of gastrointestinal prokinetic active substances such as domperidone and metoclopramide.
+
+## Topiramate
+
+Glycopyrronium may potentiate the effects of oligohidrosis and hyperthermia associated with the use of topiramate, particularly in paediatric patients.
+
+<div style=\"page-break-after: always\"></div>
+
+## Sedating antihistamines
+
+Sedating antihistamines may have additive anticholinergic effects. A reduction in anticholinergic and/or antihistamine dose may be necessary.
+
+## Neuroleptics/antipsychotics
+
+The effects of active substances such as phenothiazines, clozapine and haloperidol may be potentiated. A reduction in anticholinergic and/or neuroleptic/antipsychotic dose may be necessary.
+
+## Skeletal muscle relaxants
+
+Use of anticholinergics after administration of botulinum toxin may potentiate systemic anticholinergic effects.
+
+## Tricyclic antidepressants and MAOIs
+
+Tricyclic antidepressants and MAOIs may have additive anticholinergic effects. A reduction in anticholinergic and/or tricyclic antidepressants and MAOIs dose may be necessary.
+
+## Opioids
+
+Active substances such as pethidine and codeine may result in additive central nervous system and gastrointestinal adverse effects and increase the risk of severe constipation or paralytic ileus and CNS depression. If concomitant use cannot be avoided, patients should be monitored for potentially excessive or prolonged CNS depression and constipation.
+
+## Corticosteroids
+
+Steroid-induced glaucoma may develop with topical, inhaled, oral or intravenous, steroid administration. Concomitant use may result in increased intraocular pressure via an open- or a closedangle mechanism.
+
+## Other
+
+Medicinal products with anticholinergic properties (e.g. antihistamines, antidepressants) may cause cumulative parasympatholytic effects including dry mouth, urinary retention, constipation and confusion, and an increased risk of anticholinergic intoxication syndrome.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Women of child-bearing potential
+
+Effective contraception should be considered prior to treating women of childbearing age, where appropriate.
+
+## Pregnancy
+
+There are no data on the use of Sialanar in pregnant women. The assessment of reproductive endpoints for glycopyrronium is limited (see section 5.3). Glycopyrronium is contraindicated during pregnancy (see section 4.3).
+
+## Breast-feeding
+
+Safety in breast-feeding has not been established. Use while breast-feeding is contraindicated (see section 4.3).
+
+## Fertility
+
+There are no data on the effects of Sialanar on male or female fertility. Reproductive performance in rats given glycopyrronium shows a decrease in the rate of conception and in survival rate at weaning. There are insufficient data in the public domain to adequately assess effects on the reproductive system in young adults (see section 5.3).
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.7 Effects on ability to drive and use machines
+
+Sialanar has moderate influence on the ability to drive and use machines. The anticholinergic effects of glycopyrronium may cause blurred vision, dizziness and other effects that may impair a patient's ability to perform skilled tasks such as driving, riding a bicycle and using machines. The undesirable effects are increased with increasing dose.
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+Adverse reactions are common with glycopyrronium due to its known pharmacodynamic anticholinergic effects. The most common adverse reactions are dry mouth (11 %), constipation (20 %), diarrhoea (18 %), vomiting (18 %), urinary retention (15 %), flushing (11 %) and nasal congestion (11 %).
+
+Adverse reactions are more common with higher doses and prolonged use.
+
+## Tabulated list of adverse reactions
+
+Adverse reactions reported in the literature for trials using glycopyrronium for sialorrhoea in the paediatric population (including 2 placebo-controlled trials, an uncontrolled safety study using glycopyrronium for a 6 month period, and 3 supportive studies with adverse reaction data in the target population) are listed by MedDRA system organ class (Table 2). Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data).
+
+Table 2. List of adverse reactions
+
+| Adverse reactions                                                                         | Frequency category   |
+|-------------------------------------------------------------------------------------------|----------------------|
+| Infections and infestations                                                               |                      |
+| Upper respiratory tract infection                                                         | Common               |
+| Pneumonia                                                                                 | Common               |
+| Urinary tract infection                                                                   | Common               |
+| Psychiatric disorders                                                                     |                      |
+| Irritability                                                                              | Very common          |
+| Agitation                                                                                 | Common               |
+| Drowsiness                                                                                | Common               |
+| Restlessness                                                                              | Not known            |
+| Overactivity                                                                              | Not known            |
+| Short attention span                                                                      | Not known            |
+| Frustration                                                                               | Not known            |
+| Mood variable                                                                             | Not known            |
+| Temper tantrum                                                                            | Not known            |
+| Intermittent explosive disorder                                                           | Not known            |
+| Sensitivity, shyness, and social withdrawal disorder specific to childhood or adolescence | Not known            |
+| Feeling sad                                                                               | Not known            |
+| Crying                                                                                    | Not known            |
+| Fear                                                                                      | Not known            |
+
+<div style=\"page-break-after: always\"></div>
+
+| Adverse reactions                                    | Frequency category   |
+|------------------------------------------------------|----------------------|
+| Nervous system disorders                             |                      |
+| Headache                                             | Uncommon             |
+| Insomnia                                             | Not known            |
+| Eye disorders                                        |                      |
+| Mydriasis                                            | Uncommon             |
+| Nystagmus                                            | Uncommon             |
+| Angle-closure glaucoma                               | Not known            |
+| Photophobia                                          | Not known            |
+| Dry eyes                                             | Not known            |
+| Cardiac disorders                                    |                      |
+| Flushing                                             | Very common          |
+| Transient bradycardia                                | Not known            |
+| Respiratory, thoracic and mediastinal disorders      |                      |
+| Nasal congestion                                     | Very common          |
+| Epistaxis                                            | Common               |
+| Reduced bronchial secretions                         | Very common          |
+| Sinusitis                                            | Not known            |
+| Gastrointestinal disorders                           |                      |
+| Dry mouth                                            | Very common          |
+| Constipation                                         | Very common          |
+| Diarrhoea                                            | Very common          |
+| Vomiting                                             | Very common          |
+| Halitosis                                            | Uncommon             |
+| Oesophageal candidiasis                              | Uncommon             |
+| Gastrointestinal motility disorder                   | Uncommon             |
+| Pseudo-obstruction                                   | Uncommon             |
+| Nausea                                               | Not known            |
+| Skin and subcutaneous tissue disorders               |                      |
+| Rash                                                 | Common               |
+| Dryness of the skin                                  | Not known            |
+| Inhibition of sweating                               | Not known            |
+| Renal and urinary disorders                          |                      |
+| Urinary retention                                    | Very common          |
+| Urinary urgency                                      | Not known            |
+| General disorders and administration site conditions |                      |
+| Pyrexia                                              | Common               |
+| Dehydration                                          | Uncommon             |
+| Thirst in hot weather                                | Uncommon             |
+| Angioedema                                           | Not known            |
+| Allergic reaction                                    | Not known            |
+
+## Description of selected adverse reactions
+
+## Urinary retention
+
+Urinary retention is a known adverse reaction associated with anticholinergic medicinal products (15 %). Glycopyrronium treatment should be stopped until the urinary retention resolves.
+
+## Pneumonia
+
+Pneumonia is a known adverse reaction associated with anticholinergic medicinal products (7.9 %). Glycopyrronium treatment should be stopped until the pneumonia resolves.
+
+## Constipation
+
+Constipation is a known adverse reaction associated with anticholinergic medicinal products (30 %). Glycopyrronium treatment should be stopped until the constipation resolves.
+
+<div style=\"page-break-after: always\"></div>
+
+## Central nervous system
+
+Although glycopyrronium has limited ability to cross the blood brain barrier, increased central nervous system effects have been reported in clinical trials (23 %). Such effects should be discussed with the carer during treatment reviews and a dose reduction considered (see section 4.4).
+
+## Cardiac disorders
+
+Glycopyrronium is known to have an effect on heart rate and blood pressure at doses used during anaesthesia although clinical trials in children with chronic drooling have not shown this effect. An effect on the cardiovascular system should be considered when assessing tolerability (see section 4.4).
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+## Symptoms
+
+Overdose of glycopyrronium can result in anticholinergic syndrome, produced by the inhibition of cholinergic neurotransmission at muscarinic receptor sites. Clinical manifestations are caused by CNS effects, peripheral nervous system effects, or both. Common manifestations include flushing, dry skin and mucous membranes, mydriasis with loss of accommodation, altered mental status and fever. Additional manifestations include sinus tachycardia, decreased bowel sounds, functional ileus, urinary retention, hypertension, tremulousness and myoclonic jerking.
+
+## Management
+
+Patients presenting with anticholinergic toxicity should be transported to the nearest emergency facility with advanced life support capabilities. Pre-hospital gastrointestinal decontamination with activated charcoal is not recommended because of the potential for somnolence and seizures and the resulting risk of pulmonary aspiration. At hospital, activated charcoal can be administered if the patient's airways can be adequately protected. Physostigmine salicylate is recommended when tachydysrhythmia with subsequent hemodynamic compromise, intractable seizure, severe agitation or psychosis is present.
+
+Patients and/or parents/caregivers should be counselled to ensure an accurate dose is given each time, to prevent the harmful consequences of anticholinergic reactions of glycopyrronium seen with dosing errors or overdose.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Medicinal products for functional gastrointestinal disorders, synthetic anticholinergics, quaternary ammonium compounds, ATC code: A03AB02.
+
+## Mechanism of action
+
+Glycopyrronium is a quaternary ammonium antimuscarinic with peripheral effects similar to those of atropine.
+
+<div style=\"page-break-after: always\"></div>
+
+Antimuscarinics are competitive inhibitors of the actions of acetylcholine at the muscarinic receptors of autonomic effector sites innervated by parasympathetic (cholinergic postganglionic) nerves. They also inhibit the action of acetylcholine where smooth muscle lacks cholinergic innervation.
+
+## Pharmacodynamic effects
+
+Salivation is primarily mediated by parasympathetic innervation of the salivary glands. Glycopyrronium competitively inhibits cholinergic muscarinic receptors in salivary glands and other peripheral tissues, thus indirectly reducing the rate of salivation. Glycopyrronium has little effect on cholinergic stimuli at nicotinic acetylcholine receptors, on structures innervated by postganglionic cholinergic neurons, and on smooth muscles that respond to acetylcholine but have no cholinergic innervation.
+
+Peripheral antimuscarinic effects that are produced as the dose increases are: decreased production of secretions from the salivary, bronchial and sweat glands; dilatation of the pupils (mydriasis) and paralysis of accommodation (cycloplegia); increased heart rate; inhibition of micturition and reduction in gastrointestinal tone; inhibition of gastric acid secretion.
+
+## Clinical efficacy and safety
+
+Placebo controlled efficacy data includes patients with a treatment duration of 8 weeks. There is no placebo or comparator controlled data beyond 8 weeks.
+
+Zeller et al 2012a evaluated the efficacy of glycopyrronium bromide oral solution (1 mg/5 mL) in managing problem drooling associated with cerebral palsy and other neurologic conditions. Thirty-eight patients aged 3-23 years weighing at least 27 lb (12.2 kg) with severe drooling (clothing damp 5-7 days/week) were randomised to eight-weeks treatment with glycopyrronium (n = 20), 20-100 μg/kg (not exceeding 3 mg in total) three times a day, or matching placebo (n = 18). The first four weeks were an individual titration period in fixed steps depending on response followed by 4 weeks maintenance treatment. Primary efficacy endpoint was responder rate, defined as percentage showing ≥3-point improvement on the modified Teacher's Drooling Scale (mTDS). The primary analysis population was revised to only comprise patients with an age of 3 -16 years which rendered 19 patients in the glycopyrrolate oral solution group and 17 in the placebo group. Responder rate was defined as at least a 3-point improvement in modified Teacher's Drooling Scale (mTDS), see Table 3.
+
+Table 3. Responder rates and mean improvements in mTDS at Week 8 in patients treated with glycopyrronium bromide oral solution versus placebo (Zeller et al., 2012a).
+
+| Responder rate at week 8   | At least a 3-point improvement in mTDS   | Mean improvements in mTDS                   |
+|----------------------------|------------------------------------------|---------------------------------------------|
+| Glycopyrronium             | 14 of 19 patients (73.7 %)               | 3.94 points (SD: 1.95; 95 %; CI: 2.97-4.91) |
+| Placebo                    | 3 of 17 patients (17.6 %)                | 0.71 points (SD: 2.14; 95 % CI: -0.43-1.84) |
+| p value                    | p = 0.0011                               | p < 0.0001                                  |
+
+In addition, 84 % of physicians and 100 % of parents/caregivers regarded glycopyrrolate as worthwhile compared with 41 % and 56 %, respectively, for placebo (p ≤ 0.014). Most frequently reported treatment-emergent adverse events (glycopyrrolate vs placebo) were dry mouth, constipation, vomiting and nasal congestion.
+
+The safety and efficacy of glycopyrronium have been studied in an open labelled study with no control group over a 24-week period in children aged 3 to 18 years. At the week 24/exit visit, 52.3 % (95 % confidence interval 43.7-60.9) of patients (n=130) had an at least three-point decrease in mTDS from baseline and were classified as responders to treatment with oral glycopyrrolate solution. The safety profile was consistent with the one seen with anticholinergics (see sections 4.4 and 4.8).
+
+<div style=\"page-break-after: always\"></div>
+
+## 5.2 Pharmacokinetic properties
+
+## Absorption
+
+Mean absolute oral bioavailability of glycopyrronium comparing a single 50 mcg/kg oral dose and a single 5 mcg/kg intravenous dose was low at approximately 3 % (range 1.3-13.3 %) in children aged 7-14 years undergoing intraocular surgery (n = 6) due to the medicinal product's low lipid solubility. Data from sparse PK sampling in children suggests dose proportional PK.
+
+The bioavailability of oral glycopyrronium in children was between that of adults under fed and fasted conditions. Following oral administration, peak plasma concentrations are reached at 3 hours.
+
+## Distribution
+
+In adults, distribution of glycopyrronium was rapid following a single 6 mcg/kg intravenous dose; distribution half-life was 2.2 ± 1.3 minutes. Following administration of 3 H-labelled glycopyrronium more than 90 % of the radiolabel disappeared from the plasma in 5 minutes, and almost 100 % within 30 minutes, reflecting rapid distribution. Analyses of population pharmacokinetic data from healthy adults and children with cerebral palsy-associated chronic moderate to severe drooling who received glycopyrronium (route of administration and doses not specified) did not demonstrate linear pharmacokinetics of the medicinal product.
+
+The volume of distribution, 0.64 ± 0.29 L/kg in adults is similar to that of total body water. Volume of distribution is somewhat higher in the paediatric population(s), in the range 1.31 to 1.83 L/kg.
+
+The PK of glycopyrronium has been shown to be essentially independent of age in children in the age range 0.19 - 14 years administered a 5 mcg/kg intravenous single dose. In most paediatric subjects, plasma glycopyrronium vs. time plots are reported to show a triexponential curve; adults generally show a biexponential curve. Modest changes in volume of distribution (Vss) and clearance (Cl) have been observed in children between 1 and 3 years of age, leading to a statistically significant shorter elimination half-life (t½, z) than that observed in younger (&lt; 1 year of age; p = 0.037) or older (&gt; 3 years of age; p = 0.042) groups.
+
+In a study in healthy adults, a 2000 mcg single dose of glycopyrronium bromide resulted in an AUC of 2.39 mcg.h/L (fasted). An AUC0-6 h of 8.64 mcg.h/L was observed after 6 mcg/kg intravenous glycopyrronium.
+
+Based upon theoretical physicochemical considerations, the quaternary ammonium compound glycopyrronium would be expected to have low central bioavailability; no glycopyrronium was detectable in the CSF of anaesthetised surgical patients or patients undergoing caesarean section following a 6 - 8 mcg/kg intravenous dose. In the paediatric population 5 mcg/kg intravenous glycopyrronium has low central bioavailability, except in the case where the blood brain barrier has been compromised (e.g. a shunt infection).
+
+## Elimination
+
+The primary route of elimination of glycopyrronium is via renal excretion, mainly as unchanged medicinal product. Approximately 65 % of an intravenous dose is renally excreted within the first 24 hours. A small proportion (~5 %) is eliminated in the bile.
+
+The elimination half-life of glycopyrronium appears to be dependent on route of administration being 0.83 ± 0.27 hours after intravenous administration, 75 minutes after intramuscular administration and in the region of 2.5 - 4 h after oral (solution) administration, though again this was highly variable. That the latter two half-lives, and especially that for oral administration, are longer than for intravenous administration probably reflects the complex absorption and distribution of glycopyrronium by each route. It is possible that prolonged absorption after oral administration translates into elimination being faster than absorption (known as flip-flop kinetics, characterized by Ka &lt; Ke).
+
+<div style=\"page-break-after: always\"></div>
+
+The total body clearance of the medicinal product following an intravenous dose is relatively high at between 0.54 ± 0.14 L/h/kg and 1.14 ± 0.31 L/h/kg. As this exceeds the glomerular filtration rate and it appears that more than 50 % of the dose is excreted unchanged in the urine, it is probable that the renal elimination of glycopyrronium involves both glomerular filtration and proximal tubular secretion by the base secretory mechanism.
+
+A mean increase in total systemic exposure (AUClast) of up to 1.4 fold was seen in adult subjects with mild and moderate renal impairment (GFR ≥ 30 mL/min/1.73 m 2 ) and up to 2.2 fold in subjects with severe renal impairment or end stage renal disease (estimated GFR &lt; 30 mL/min/1.73 m 2 ). Glycopyrronium is contraindicated in patients with severe renal impairment.
+
+## Other
+
+## Baseline characteristics
+
+Baseline characteristics (age, weight, gender and race) do not affect the pharmacokinetics of glycopyrronium.
+
+## Hepatic impairment
+
+Impaired hepatic function is not expected to affect the pharmacokinetics of glycopyrronium since the majority of the medicinal product is eliminated through the kidneys.
+
+## Food
+
+Co-administration with food results in a marked decrease in systemic glycopyrronium exposure (see Table 4 below).
+
+Table 4. Comparison of exposure when glycopyrronium 1.36 mg orodispersible tablets were administered under fasting conditions without water (B) and with water (C), and under fed conditions without water (D).
+
+| Parameter (unit)   |   n |   Glycopyrronium 1.36 mg (1 tablet) under fasting conditions without water (B) |   Glycopyrronium 1.36 mg (1 tablet) under fasting conditions with water (C) |   Glycopyrronium 1.36 mg (1 tablet) under fed conditions without water (D) | Mean Ratio (%) of C versus B   | Mean Ratio (%) of D versus B   |
+|--------------------|-----|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------|--------------------------------|
+| Cmax (pg/mL)       |  43 |                                                                          329.3 |                                                                       248.0 |                                                                      56.86 | 75.3                           | 17.3                           |
+| AUC(0-t) (h•pg/mL) |  43 |                                                                           1566 |                                                                        1244 |                                                                      368.2 | 79.5                           | 23.5                           |
+| AUC(0-∞) (h•pg/mL) |  40 |                                                                           1749 |                                                                        1416 |                                                                      451.5 | 81.0                           | 25.8                           |
+| tmax (h) (median)  |  43 |                                                                            3.0 |                                                                         3.0 |                                                                        3.5 | Similar                        | Similar                        |
+
+Note: PK data is reported in Least square mean.
+
+## 5.3 Preclinical safety data
+
+Non-clinical data, including genotoxicity or carcinogenicity studies have not been performed for Sialanar.
+
+Limited non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology or repeated dose toxicity.
+
+The single dose toxicity of glycopyrronium has been tested in a range of investigations, although only limited experimental details are available. Upon oral administration, high LD50 values of 550 mg/kg in mice and above 1 000 mg/kg in rats were reported. In rats at higher doses (1 500-2 000 mg/kg)
+
+<div style=\"page-break-after: always\"></div>
+
+tremors, clonic and tonic convulsions and laboured breathing were observed prior to death, resulting from respiratory failure.
+
+Chronic oral administration of glycopyrronium at doses of 4, 16 and 64 mg/kg for up to 27 weeks in dogs produced mydriasis, cycloplegia, xerostomia, emesis, occasional lacrimation, injection of sclera and rhinorrhoea.
+
+Extrapolation of safety margins to the paediatric population is not possible, as no exposure data are available from repeated dose toxicology studies and no studies in juvenile animals have been performed with glycopyrronium.
+
+Data on reproductive endpoints for glycopyrronium are very limited. A reduction in corpora lutea was observed in female rats administered glycopyrronium. No effects on fertility were observed in male rats. Reproductive performance in rats given glycopyrronium shows a decrease in the rate of conception and in survival rate at weaning. The significance of the non-clinical findings for humans is not clear, and the lack of human data on the medicinal product leads to glycopyrronium being contraindicated in pregnant women. There are insufficient data in the public domain to adequately assess effects on the reproductive system in young adults, and safety in human pregnancy has not been established.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Gelatin Mannitol (E421) Poloxamer 188 Sucralose Black cherry flavour Citric acid Purified water
+
+## 6.2 Incompatibilities
+
+In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
+
+## 6.3 Shelf life
+
+3 years.
+
+## 6.4 Special precautions for storage
+
+Store in the original package in order to protect from moisture.
+
+## 6.5 Nature and contents of container
+
+Aluminium blisters composed of a multi-layered laminated blister film, consisting of polyvinyl chloride, polyamide and aluminium foil and an aluminium lidding foil. The lidding foil over each tablet is designed to be peelable to allow the easy removal of the orodispersible tablet.
+
+The orodispersible tablets are provided in cartons of 30 or 60 tablets.
+
+Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
+
+6.6 Special precautions for disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
+
+7. MARKETING AUTHORISATION HOLDER
+
+Proveca Pharma Limited 2 Dublin Landings North Wall Quay Dublin 1
+
+Ireland
+
+8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/16/1135/003-006
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 15 September 2016
+
+Date of latest renewal: 17 June 2021
+
+10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+29
+
+<div style=\"page-break-after: always\"></div>
+
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
@@ -594,6 +1153,8 @@ Lusomedicamenta - Sociedade Técnica Farmacêutica S.A., Estrada Consiglieri Ped
 
 Unither Liquid Manufacturing, 1-3 Allée de la Neste, Z.I. d'en Sigal, 31770 Colomiers, France
 
+Medinfar Manufacturing S.A. Parque Industrial Armando Martins Tavares Rua Outeiro da Armada No 5 Condeixa-A-Nova 3150-194 Portugal
+
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
@@ -604,7 +1165,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## · Periodic safety update reports
 
-The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal. The marketing authorisation holder shall submit the first periodic safety update report for this product within 6 months following authorisation.
+The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -617,31 +1178,22 @@ An updated RMP should be submitted:
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-## · Additional risk minimisation measures
-
-Prior to launch of Sialanar in each Member State, the Marketing Authorisation Holder (MAH) must
-
 <div style=\"page-break-after: always\"></div>
 
-agree about the content and format of the educational materials, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
+## · Additional risk minimisation measures
 
-The objectives of the programme are:
+Prior to launch of Sialanar in each Member State, the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational materials, including communication media, distribution modalities, and any other aspects of the risk minimisation activity, with the National Competent Authority.
 
-- to provide information on the administration of Sialanar, specifically on the accurate use of the prescribed dosing, the time of administration before the meals, the avoidance of the administration of Sialanar with high fat meals, use of the oral syringe and the need to complete the administration table at the end of the reminder card for patient's carer to remind the carer of the correct dose to be given to the child.
-- to provide information on the management and minimisation of anticholinergic reactions, especially on management of constipation, urinary retention, pneumonia, risk of overheating, CNS effects or overdose; and on allergic reactions. In addition, the materi als should highlight the difficulty of the detection of anticholinergic reactions in the treated population and the need to decrease the dose to the previous one in case of suspicion of adverse reactions and contact the physician. The materials should also cover the need to avoid exposure to hot weather and overheating; risk of caries associated to reduced salivation and need for regular dental hygiene and dental checks and the requirement to check the pulse at regular intervals.
+The objectives of the risk minimisation activity are:
 
-The MAH shall ensure that in each Member State where Sialanar is marketed, all healthcare professionals and patients/carers who are expected to prescribe, dispense or use Sialanar have access to or are provided with the following educational packages:
+- to provide information on the administration of Sialanar, specifically on the accurate use of the prescribed dosing for each formulation, the time of administration before the meals, the avoidance of the administration of Sialanar with high fat meals, use of oral syringe (for the oral solution only) and the need to complete the administration table at the end of the guide for risk minimisation for patient's caregiver to remind the carer of the correct dose to be given to the child.
+- to provide information on the management and minimisation of anticholinergic reactions due to dosing errors, including when switching between glycopyrronium products, especially on management of constipation, urinary retention, pneumonia, risk of overheating, CNS effects or overdose; and on allergic reactions. In addition, the materials should highlight the difficulty of the detection of anticholinergic reactions in the treated population and the need to decrease the dose to the previous one in case of suspicion of adverse reactions and contact the physician. The materials should also cover the need to avoid exposure to hot weather and overheating; risk of caries associated to reduced salivation and need for regular dental hygiene and dental checks and the requirement to check the pulse at regular intervals.
 
-The physician educational material should contain:
+The MAH shall ensure that in each Member State where Sialanar is marketed, all healthcare professionals and patients/carers who are expected to prescribe, dispense or use Sialanar have access to or are provided with the following educational package:
 
-- o The Summary of Product Characteristics
-- o Remarks on the importance of reporting on specific adverse reactions, namely: urinary retention, constipation, pneumonia, allergic reactions, dental caries, cardiovascular effects, CNS effect and overheating
-- o The Prescriber checklist, which shall contain the following key messages:
-- Information on the administration of Sialanar
-- Management and minimisation of anticholinergic reactions
 - The patient information pack should contain:
 - o Patient information leaflet
-- o The reminder card for patient's carer, which shall contain the following key messages:
+- o The guide for risk minimisation for patient's caregiver, which shall contain the following key messages:
 - Information on the administration of Sialanar
 - Management and minimisation of anticholinergic reactions
 
@@ -655,11 +1207,15 @@ The physician educational material should contain:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Sialanar 320 micrograms/ml oral solution glycopyrronium
+Sialanar 320 micrograms/ml oral solution
+
+glycopyrronium
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -707,29 +1263,25 @@ Open date: \\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-Do not store above 25 ° C.
+Do not store above 25°C.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE.   |
-|-------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Proveca Pharma Ltd 2 Dublin Landings North Wall Quay Dublin 1
 
 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-EU/1/16/1135/001 - 250 ml bottle
-
-EU/1/16/1135/002 - 60 ml bottle
+EU/1/16/1135/001 - 250 ml bottle EU/1/16/1135/002 - 60 ml bottle
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -739,33 +1291,35 @@ BN
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Sialanar
+Sialanar Oral Solution
 
-Oral Solution
-
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
 NN
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING GLASS BOTTLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Sialanar 320 micrograms/ml oral solution glycopyrronium
+Sialanar 320 micrograms/ml oral solution
+
+glycopyrronium
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -805,17 +1359,15 @@ Open date: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
-Do not store above 25 ° C.
+Do not store above 25°C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE.   |
-|-------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Proveca Pharma Ltd 2 Dublin Landings North Wall Quay Dublin 1 Ireland
 
@@ -832,8 +1384,8 @@ BN
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -841,8 +1393,227 @@ BN
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Sialanar 0.68 mg orodispersible tablets glycopyrronium
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each orodispersible tablet contains 0.85 mg glycopyrronium bromide equivalent to 0.68 mg of glycopyrronium.
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Orodispersible tablets
+
+30 orodispersible tablets
+
+60 orodispersible tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in the original package in order to protect from moisture.
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Proveca Pharma Ltd 2 Dublin Landings North Wall Quay Dublin 1
+
+Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/16/1135/003 30 orodispersible tablets EU/1/16/1135/004 60 orodispersible tablets
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Sialanar 0.68 mg orodispersible tablets
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Sialanar 0.68 mg orodispersible tablets glycopyrronium
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Proveca
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Sialanar 1.36 mg orodispersible tablets glycopyrronium
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each orodispersible tablet contains 1.7 mg glycopyrronium bromide equivalent to 1.36 mg of glycopyrronium.
+
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Orodispersible tablets
+
+30 orodispersible tablets
+
+60 orodispersible tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in the original package in order to protect from moisture.
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Proveca Pharma Ltd 2 Dublin Landings North Wall Quay Dublin 1
+
+Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/16/1135/005 30 orodispersible tablets EU/1/16/1135/006 60 orodispersible tablets
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Sialanar 1.36 mg orodispersible tablets
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Sialanar 1.36 mg orodispersible tablets glycopyrronium
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Proveca
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -852,14 +1623,16 @@ BN
 
 ## Package Leaflet: Information for the user
 
-## Sialanar 320 micrograms/ml oral solution glycopyrronium
+## Sialanar 320 micrograms/ml oral solution
+
+glycopyrronium
 
 ## Read all of this leaflet carefully before your child starts taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for your child only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as your child's.
-- -If your child gets any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for your child only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as your child's.
+- If your child gets any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -886,20 +1659,22 @@ Sialanar acts on the salivary glands to reduce production of saliva.
 
 ## Do not give Sialanar if your child or adolescent:
 
-- -is allergic to glycopyrronium or any of the other ingredients of this medicine (listed in section 6)
-- -is pregnant or breast feeding
-- -has glaucoma (raised pressure in the eye)
-- -is unable to completely empty the bladder (urinary retention)
-- -has severe kidney disease
-- -has an obstruction of the stomach (pyloric stenosis) or bowel causing vomiting
-- -has diarrhoea (frequent, loose watery stools)
-- -has ulcerative colitis (inflammation of the intestine)
-- -stomach ache and swelling (paralytic ileus)
-- -has myasthenia gravis (muscle weakness and tiredness)
+- is allergic to glycopyrronium or any of the other ingredients of this medicine (listed in section 6)
+- is pregnant or breast feeding
+- has glaucoma (raised pressure in the eye)
+- is unable to completely empty the bladder (urinary retention)
+- has severe kidney disease
+- has an obstruction of the stomach (pyloric stenosis) or bowel causing vomiting
+- has diarrhoea (frequent, loose watery stools)
+- has ulcerative colitis (inflammation of the intestine)
+- stomach ache and swelling (paralytic ileus)
+- has myasthenia gravis (muscle weakness and tiredness)
 
 <div style=\"page-break-after: always\"></div>
 
-- -is taking any of the following medicines (see section Other medicines and Sialanar): potassium chloride solid oral dose;
+- is taking any of the following medicines (see section Other medicines and Sialanar):
+
+potassium chloride solid oral dose;
 
 anticholinergic medicines.
 
@@ -947,11 +1722,11 @@ Tell your doctor or pharmacist if your child is taking, has recently taken or mi
 
 In particular taking Sialanar with the following medicines can affect the way Sialanar or the listed medicine works or can increase the risk of side effects:
 
-- potassium chloride solid oral dose (see section above 'Do not give Sialanar if the child or adolescent:')
-- anticholinergic medicines (see section above 'Do not give Sialanar if the child or adolescent:')
+- potassium chloride solid oral dose (see section above \"Do not give Sialanar if the child or adolescent:\")
+- anticholinergic medicines (see section above \"Do not give Sialanar if the child or adolescent:\")
 - antispasmodics used to treat sickness or vomiting e.g. domperidone and metaclopramide
 - topiramate used to treat epilepsy
-- antihistamines , used to treat some allergies
+- antihistamines, used to treat some allergies
 
 <div style=\"page-break-after: always\"></div>
 
@@ -959,7 +1734,7 @@ In particular taking Sialanar with the following medicines can affect the way Si
 - skeletal muscle relaxants (botulinum toxin)
 - antidepressants (tricyclic antidepressants)
 - opioids used to treat severe pain
-- corticosteroids , used to treat inflammatory diseases
+- corticosteroids, used to treat inflammatory diseases
 
 Talk to your doctor or pharmacist for further information about medicines to avoid whilst taking Sialanar.
 
@@ -981,20 +1756,20 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 ## Children and adolescents 3 years to less than 18 years:
 
-Your doctor will decide the correct dose of Sialanar. The initial dose will be calculated based on the weight of the child.  Dose increases will be decided by the child's doctor, using the table below as a guide, and will depend on both the effect of Sialanar and any side effects the patient is experiencing (this is why several dose levels appear in the table below). Section 4 includes possible side effects related to the use of Sialanar. These should be discussed with the child's doctor at all medical consultations, including those for dose increases and decreases, and at any other time should you be concerned.
+Your doctor will decide the correct dose of Sialanar. The initial dose will be calculated based on the weight of the child. Dose increases will be decided by the child's doctor, using the table below as a guide, and will depend on both the effect of Sialanar and any side effects the patient is experiencing (this is why several dose levels appear in the table below). Section 4 includes possible side effects related to the use of Sialanar. These should be discussed with the child's doctor at all medical consultations, including those for dose increases and decreases, and at any other time should you be concerned.
 
 The child should be monitored at regular intervals (at least every 3 months) to check that Sialanar is still the right treatment for them.
 
 | Weight kg   |   Dose level 1 ml |   Dose level 2 ml |   Dose level 3 ml |   Dose level 4 ml |   Dose level 5 ml |
 |-------------|-------------------|-------------------|-------------------|-------------------|-------------------|
-| 13-17       |               0.6 |               1.2 |               1.8 |               2.4 |                 3 |
-| 18-22       |               0.8 |               1.6 |               2.4 |               3.2 |                 4 |
-| 23-27       |               1   |               2   |               3   |               4   |                 5 |
-| 28-32       |               1.2 |               2.4 |               3.6 |               4.8 |                 6 |
-| 33-37       |               1.4 |               2.8 |               4.2 |               5.6 |                 6 |
-| 38-42       |               1.6 |               3.2 |               4.8 |               6   |                 6 |
-| 43-47       |               1.8 |               3.6 |               5.4 |               6   |                 6 |
-| ≥48         |               2   |               4   |               6   |               6   |                 6 |
+| 13-17       |               0.6 |               1.2 |               1.8 |               2.4 |               3.0 |
+| 18-22       |               0.8 |               1.6 |               2.4 |               3.2 |               4.0 |
+| 23-27       |               1.0 |               2.0 |               3.0 |               4.0 |               5.0 |
+| 28-32       |               1.2 |               2.4 |               3.6 |               4.8 |               6.0 |
+| 33-37       |               1.4 |               2.8 |               4.2 |               5.6 |               6.0 |
+| 38-42       |               1.6 |               3.2 |               4.8 |               6.0 |               6.0 |
+| 43-47       |               1.8 |               3.6 |               5.4 |               6.0 |               6.0 |
+| ≥48         |               2.0 |               4.0 |               6.0 |               6.0 |               6.0 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1023,6 +1798,8 @@ Insert the end of the oral syringe into the syringe adaptor and ensure it is sec
 Hold the oral syringe in place and turn the bottle upside down. Gently pull down the plunger to the correct level (see the tables for the correct dose). Check you have the correct level. The maximum volume of the highest dose is 6 ml.
 
 <!-- image -->
+
+Q
 
 Turn the bottle upright.
 
@@ -1147,7 +1924,7 @@ By reporting side effects you can help provide more information on the safety of
 
 Keep this medicine out of the sight and reach of children.
 
-## Do not store above 25 ° C.
+Do not store above 25°C.
 
 This medicine must be used within 2 months of first opening the bottle.
 
@@ -1155,7 +1932,7 @@ Do not use this medicine after the expiry date, which is stated on the label aft
 
 Sialanar should not be used if the packaging has been opened or damaged.
 
-Do not throw away any medicines via wastewater or household waste.  Ask your pharmacist how to throw away medicines you no longer use.  These measures will help protect the environment.
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -1165,11 +1942,11 @@ The active substance is glycopyrronium.
 
 Each ml of solution contains 400 micrograms glycopyrronium bromide equivalent to 320 micrograms of glycopyrronium.
 
-The other ingredients are sodium benzoate (E211) (see section 2 'Sialanar contains sodium and benzoate salt'), raspberry flavouring (containing propylene glycol E1520), sucralose (E955), citric acid (E330) and purified water.
+The other ingredients are sodium benzoate (E211) (see section 2 \"Sialanar contains sodium and benzoate salt\"), raspberry flavouring (containing propylene glycol E1520), sucralose (E955), citric acid (E330) and purified water.
 
 ## What Sialanar looks like and contents of the pack
 
-Sialanar oral solution is a clear, colourless liquid.  It is supplied in a 60 ml or 250 ml amber glass bottle in a cardboard carton.  Each carton contains one bottle, one 8 ml oral syringe and one syringe adaptor.  Not all pack sizes may be marketed.
+Sialanar oral solution is a clear, colourless liquid. It is supplied in a 60 ml or 250 ml amber glass bottle in a cardboard carton. Each carton contains one bottle, one 8 ml oral syringe and one syringe adaptor. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
@@ -1180,6 +1957,332 @@ Proveca Pharma Ltd 2 Dublin Landings North Wall Quay Dublin 1 Ireland
 Lusomedicamenta - Sociedade Técnica Farmacêutica S.A., Estrada Consiglieri Pedroso 69-B, Queluz de Baixo, 2730-055 Barcarena, Portugal
 
 Unither Liquid Manufacturing, 1-3 Allée de la Neste, Z.I. d'en Sigal, 31770 Colomiers, France
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## Package Leaflet: Information for the user
+
+## Sialanar 0.68 mg orodispersible tablets Sialanar 1.36 mg orodispersible tablets
+
+glycopyrronium
+
+Read all of this leaflet carefully before your child starts taking this medicine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, or pharmacist.
+- This medicine has been prescribed for your child only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as your child's.
+- If your child gets any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Sialanar is and what it is used for
+2. What you need to know before you give Sialanar
+3. How to use Sialanar
+4. Possible side effects
+5. How to store Sialanar
+6. Contents of the pack and other information
+
+## 1. What Sialanar is and what it is used for
+
+Sialanar contains the active substance glycopyrronium.
+
+Glycopyrronium belongs to a group of medicines known as quaternary ammonium anticholinergics, which are agents that block or reduce the transmission between nerve cells. This reduced transmission can de-activate the cells that produce saliva.
+
+Sialanar is used to treat excessive production of saliva (sialorrhoea) in children and adolescents aged 3 years and older.
+
+Sialorrhoea (drooling or excessive salivation) is a common symptom of many diseases of the nerves and muscles. It is mostly caused by poor control of muscles in the face. Acute sialorrhoea may be associated with inflammation, dental infections or infections of the mouth.
+
+Sialanar acts on the salivary glands to reduce production of saliva.
+
+## 2. What you need to know before you give Sialanar
+
+## Do not give Sialanar if your child or adolescent:
+
+- is allergic to glycopyrronium or any of the other ingredients of this medicine (listed in section 6)
+- is pregnant or breast feeding
+- has glaucoma (raised pressure in the eye)
+- is unable to completely empty the bladder (urinary retention)
+- has severe kidney disease
+- has an obstruction of the stomach (pyloric stenosis) or bowel causing vomiting
+- has diarrhoea (frequent, loose watery stools)
+- has ulcerative colitis (inflammation of the intestine)
+- stomach ache and swelling (paralytic ileus)
+- has myasthenia gravis (muscle weakness and tiredness)
+
+<div style=\"page-break-after: always\"></div>
+
+- is taking any of the following medicines (see section Other medicines and Sialanar):
+
+potassium chloride solid oral dose;
+
+anticholinergic medicines.
+
+## Warnings and precautions
+
+## Talk to your doctor or pharmacist before using Sialanar if your child has:
+
+- heart disease, heart failure, irregular heartbeats or high blood pressure
+- digestive disorders (constipation; chronic heartburn and indigestion)
+- a high temperature (fever)
+- inability to sweat normally
+- kidney problems or difficulty passing urine
+- abnormal blood brain barrier (the layer of cells surrounding the brain)
+
+If you are not sure if any of the above applies to your child, talk to a doctor or pharmacist before giving Sialanar.
+
+The carer should stop treatment and seek advice from the prescriber in the event of:
+
+- pneumonia
+- allergic reaction
+- urinary retention
+- changes in behaviour
+- constipation
+- fever
+
+Avoid exposing the child to hot or very warm temperature (hot weather, high room temperature) to avoid over heating and the possibility of heat stroke. Check with the child's doctor during hot weather to see if the dose of Sialanar should be reduced.
+
+Reduced salivation can increase the risk of dental disease therefore the child's teeth should be brushed daily and they should have regular dental health checks.
+
+Children with kidney problems may be given a lower dose using Sialanar oral solution.
+
+Check the child's pulse if they seem unwell. Report a very slow or very fast heart rate to their doctor.
+
+## Long-term use
+
+The long-term efficacy and safety of Sialanar has not been studied beyond 24 weeks of use. Continued use of Sialanar should be discussed with the child's doctor every 3 months to check that Sialanar is still right for the child.
+
+## Children under 3 years
+
+Do not give this medicine to children under 3 years of age because it is formulated as an oral formulation and a dose specifically for use in children and adolescents aged 3 years and older.
+
+## Other medicines and Sialanar
+
+Tell your doctor or pharmacist if your child is taking, has recently taken or might take any other medicines.
+
+In particular taking Sialanar with the following medicines can affect the way Sialanar or the listed medicine works or can increase the risk of side effects:
+
+- potassium chloride solid oral dose (see section above \"Do not give Sialanar if your child or adolescent:\")
+- anticholinergic medicines (see section above \"Do not give Sialanar if your child or adolescent:\")
+- antispasmodics used to treat sickness or vomiting e.g. domperidone and metaclopramide
+
+<div style=\"page-break-after: always\"></div>
+
+- topiramate used to treat epilepsy
+- antihistamines, used to treat some allergies
+- neuroleptics/antipsychotics (clozapine, haloperidol, phenothiazine), used to treat some mental illnesses
+- skeletal muscle relaxants (botulinum toxin)
+- antidepressants (tricyclic antidepressants)
+- opioids used to treat severe pain
+- corticosteroids, used to treat inflammatory diseases
+
+Talk to your doctor or pharmacist for further information about medicines to avoid whilst taking Sialanar.
+
+## Pregnancy and breast-feeding
+
+This medicine is intended for use in children and adolescents. Sialanar must not be given if the patient is pregnant (or could be pregnant), or is breast-feeding (see section 2 'Do not give'). Discuss with the child's doctor whether there is a need for contraception.
+
+## Driving and using machines
+
+Sialanar may affect vision and co-ordination. This may affect performance at skilled tasks such as driving, riding a bicycle, or using machines. After receiving Sialanar, the patient should not drive a vehicle, ride a bicycle or use a machine until the effect in their vision and co-ordination has completely recovered. Ask your doctor if you need further advice.
+
+## 3. How to use Sialanar
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
+
+## Children and adolescents 3 years to less than 18 years:
+
+Sialanar is available as orodispersible tablets (which dissolve in the mouth) and as a liquid. Your child should only switch between these forms if your child's doctor tells them to. The dose of the tablet and the liquid may be different. Your child's doctor will use a dosing table (see below) to choose the right dose of the orodispersible tablet. Patients are usually started on the liquid and given a stable dose before switching to the orodispersible tablet.
+
+After switching between forms, your child's doctor may check that the medicine is working properly and monitor them for side effects.
+
+Tell your child's doctor if:
+
+- your child's symptoms are not as well controlled as before, or
+- your child has new or increased side effects
+
+Your child's doctor may change their dose or advise them to use the liquid form if a more precise dose is needed.
+
+Section 4 includes possible side effects related to the use of Sialanar. These should be discussed with the child's doctor at all medical consultations, including those for dose increases and decreases, and at any other time should you be concerned.
+
+The child should be monitored at regular intervals (at least every 3 months) to check that Sialanar is still the right treatment for them.
+
+<div style=\"page-break-after: always\"></div>
+
+| Weight (Kg)   | Dose level 1 (mg)   | Dose level 2 (mg)   | Dose level 3 (mg)   |   Dose level 4 (mg) |   Dose level 5 (mg) |
+|---------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| 13-17         | ^                   | ^                   | ^                   |                0.68 |                0.68 |
+| 18-22         | ^                   | ^                   | 0.68                |                0.68 |                1.36 |
+| 23-27         | ^                   | 0.68                | 0.68                |                1.36 |                1.36 |
+| 28-32         | ^                   | 0.68                | 0.68                |                1.36 |                2.04 |
+| 33-37         | ^                   | 0.68                | 1.36                |                1.36 |                2.04 |
+| 38-42         | ^                   | 0.68                | 1.36                |                2.04 |                2.04 |
+| 43-47         | ^                   | 0.68                | 1.36                |                2.04 |                2.04 |
+| ≥48           | 0.68                | 1.36                | 2.04                |                2.04 |                2.04 |
+
+## Give the dose prescribed by your doctor to the child three times each day.
+
+## The dose should be given 1 hour before meals or 2 hours after meals.
+
+It is important that the dose is given at consistent times in relation to food intake. Do not give with high fat foods.
+
+The orodispersible tablet should be administered without water.
+
+## Route of administration
+
+Sialanar should be taken by mouth. It is an orodispersible tablet, which means it dissolves in the mouth. The tablet should be placed on the tongue or in the buccal cavity (the space inside the mouth between the cheeks and teeth) and allowed to dissolve.
+
+## Instructions for use
+
+If your child requires the medicine through a feeding tube, the oral liquid formulation should be used.
+
+## If you give more Sialanar than you should
+
+It is important to make sure an accurate dose is given each time in order to prevent harmful effects of Sialanar seen with dosing errors or overdose.
+
+Seek medical advice immediately if the child is given too much Sialanar, even if the child seems well.
+
+## If you forget to give Sialanar
+
+Give the next dose when it is due. Do not give a double dose to make up for the forgotten dose.
+
+## If you stop giving Sialanar to your child
+
+Withdrawal effects are not expected when stopping Sialanar. The child's doctor may decide to stop treatment with Sialanar if side effects cannot be managed by reducing the dose.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+If any of the following serious side effects occur, stop using the medicine and seek urgent medical advice.
+
+- Constipation (difficulty in passing stool) - very common
+- Difficulty in passing urine (urinary retention) - very common
+- Pneumonia (severe chest infection) - common
+- Allergic reaction (rash, itching, red raised itchy rash (hives), difficulty breathing or swallowing, dizziness) - frequency not known
+
+<div style=\"page-break-after: always\"></div>
+
+The following side effects may be a sign of severe allergic reaction. If they occur, take the child to the nearest emergency medical facility and take the medicine with you.
+
+- Swelling mainly of the tongue, lips, face or throat (possible signs of angioedema) - frequency not known
+
+## Other side effects are:
+
+## Very common (may affect more than 1 in 10 people)
+
+- Dry mouth
+- Difficulty in passing stools (constipation)
+- Diarrhoea
+- Being sick (vomiting)
+- Flushing
+- Nasal congestion
+- Unable to completely empty the bladder (urinary retention)
+- Reduced secretions in the chest
+- Irritability
+
+## Common (may affect up to 1 in 10 people)
+
+- Upper respiratory tract infection (chest infection)
+- Pneumonia (severe chest infection)
+- Urinary tract infection
+- Drowsiness (sleepiness)
+- Agitation
+- Fever (pyrexia)
+- Nose bleeds (epistaxis)
+- Rash
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- Bad breath (halitosis)
+- Fungal infection (thrush) of the throat (oesophageal candidiasis)
+- Abnormal contractions of the digestive tract when food is ingested (gastrointestinal motility disorder)
+- A disorder of the muscles and nerves in the intestine which causes an obstruction or blockage (pseudo-obstruction)
+- Widening of the pupil of the eye (mydriasis)
+- Involuntary eye movement (nystagmus)
+- Headache
+- Dehydration
+- Thirst in hot weather
+
+## Other side effects that occur with anticholinergics but their frequency with glycopyrronium is not known
+
+- allergic reaction (rash, itching, red raised itchy rash (hives), difficulty breathing or swallowing, dizziness)
+- severe allergic reaction (angioedema); signs include swelling mainly of the tongue, lips, face or throat
+- restlessness; overactivity; short attention span; frustration; mood changes; temper outbursts or explosive behaviour; excessive sensitivity; seriousness or sadness; frequent crying episodes; fearfulness
+- insomnia (difficulty in sleeping)
+- raised pressure in the eye (which might cause glaucoma); photophobia (sensitivity to light); dry eyes
+- slow heart rate followed by rapid heart rate, palpitations and irregular heartbeat
+- inflammation and swelling of sinuses (sinusitis)
+
+<div style=\"page-break-after: always\"></div>
+
+- feeling sick (nausea)
+- dry skin
+- reduced ability to sweat, which can cause fever and heatstroke
+- urgent need to urinate
+
+Side effects can sometimes be difficult to recognise in patients with neurologic problems who cannot easily tell you how they feel.
+
+If you think a troublesome side effect is occurring after increasing a dose, the dose should be decreased to the previous one used and your doctor contacted.
+
+Tell your doctor if you notice any behavioural changes or any other changes in the child.
+
+## Reporting of side effects
+
+If your child gets any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Sialanar
+
+Keep this medicine out of the sight and reach of children.
+
+Store in the original package in order to protect from moisture.
+
+Do not use this medicine after the expiry date which is stated on the blister foil after EXP. The expiry date refers to the last day of that month.
+
+Sialanar should not be used if the packaging has been opened or damaged.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Sialanar contains
+
+- The active substance is glycopyrronium.
+
+Sialanar 0.68 mg orodispersible tablets: Each orodispersible tablet contains 0.85 mg glycopyrronium bromide equivalent to 0.68 mg of glycopyrronium.
+
+Sialanar 1.36 mg orodispersible tablets: Each orodispersible tablet contains 1.7 mg glycopyrronium bromide equivalent to 1.36 mg of glycopyrronium.
+
+- The other ingredients are: gelatin, mannitol (E421), poloxamer 188, sucralose, black cherry flavour, citric acid and purified water.
+
+## What Sialanar looks like and contents of the pack
+
+Sialanar 0.68 mg orodispersible tablets are white to off white, circular, orodispersible tablet, debossed with a 'single crescent'.
+
+Sialanar 1.36 mg orodispersible tablets are white to off white, circular, orodispersible tablet, debossed with a 'double crescent'.
+
+<div style=\"page-break-after: always\"></div>
+
+The orodispersible tablets are supplied in blisters. The lidding foil over each tablet is peelable to allow easy removal of orodispersible tablet. The blisters are supplied in a cardboard carton.
+
+Available pack sizes will be 30 or 60 orodispersible tablets.
+
+Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder
+
+Proveca Pharma Ltd 2 Dublin Landings North Wall Quay Dublin 1 Ireland
+
+## Manufacturer
+
+Medinfar Manufacturing S.A. Parque Industrial Armando Martins Tavares Rua Outeiro Da Armada No 5 Condeixa-A-Nova 3150-194 Portugal
 
 ## This leaflet was last revised in
 

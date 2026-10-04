@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-30 14:01:00
-document_pages: 42
+document_datetime: 2026-10-02 10:35:00
+document_pages: 78
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/riltrava-aerosphere-epar-product-information_en.pdf
 document_name: riltrava-aerosphere-epar-product-information_en.pdf
 version: success
-processing_time: 9.4811378
-conversion_datetime: 2025-12-23 07:27:38.459701
+processing_time: 100.8138167
+conversion_datetime: 2026-10-04 15:44:20.972449
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -76,7 +76,7 @@ There is no relevant use of this medicinal product in children and adolescents (
 
 ## Method of administration
 
-## For inhalation use.
+For inhalation use.
 
 ## Instructions for use
 
@@ -174,7 +174,7 @@ Clinical drug-drug interaction studies have not been conducted with this medicin
 
 Formoterol does not inhibit the CYP450 enzymes at therapeutically relevant concentrations (see section 5.2). Budesonide and glycopyrronium do not inhibit or induce CYP450 enzymes at therapeutically relevant concentrations.
 
-The metabolism of budesonide is primarily mediated by CYP3A4 (see section 5.2). Co treatment with strong CYP3A inhibitors, e.g. itraconazole, ketoconazole, HIV protease inhibitors and cobicistat-containing products, are expected to increase the risk of systemic side effects, and should be avoided unless the benefit outweighs the increased risk of systemic corticosteroid adverse reactions, in which case patients should be monitored for systemic corticosteroid adverse reactions. This is of limited clinical importance for short-term (1-2 weeks) treatment.
+The metabolism of budesonide is primarily mediated by CYP3A4 (see section 5.2). Co-treatment with strong CYP3A inhibitors, e.g. itraconazole, ketoconazole, HIV protease inhibitors and cobicistat-containing products, are expected to increase the risk of systemic side effects, and should be avoided unless the benefit outweighs the increased risk of systemic corticosteroid adverse reactions, in which case patients should be monitored for systemic corticosteroid adverse reactions. This is of limited clinical importance for short-term (1-2 weeks) treatment.
 
 Limited data about this interaction for high-dose inhaled budesonide indicates that marked increases in plasma levels (on average four-fold) may occur if itraconazole, 200 mg once daily, is administered concomitantly with inhaled budesonide (single dose of 1000 micrograms).
 
@@ -238,11 +238,9 @@ Riltrava Aerosphere has no or negligible influence on the ability to drive and u
 
 ## Summary of the safety profile
 
-The safety profile is characterised by corticosteroid, anticholinergic and β2-adrenergic class effects related to the individual components of the combination. The most commonly reported adverse
+The safety profile is characterised by corticosteroid, anticholinergic and β2-adrenergic class effects related to the individual components of the combination. The most commonly reported adverse reactions in patients receiving this medicinal product were pneumonia (4.6%), oral candidiasis (3.0%), headache (2.7%) and urinary tract infection (2.7%).
 
 <div style=\"page-break-after: always\"></div>
-
-reactions in patients receiving this medicinal product were pneumonia (4.6%), oral candidiasis (3.0%), headache (2.7%) and urinary tract infection (2.7%).
 
 ## Tabulated list of adverse reactions
 
@@ -287,7 +285,7 @@ Table 1: Adverse reactions by frequency and system organ class (SOC)
 
 KRONOS was a 24-week study in a total of 1,896 patients with moderate to very severe COPD (mean post-bronchodilator screening FEV1 50% of predicted, standard deviation [SD] 14%), 26% of whom had experienced a COPD exacerbation in the year prior to study entry. The incidence of confirmed pneumonia events reported up to 24 weeks was 1.9% (12 patients) for Riltrava Aerosphere (n=639), 1.6% (10 patients) for formoterol fumarate dihydrate/glycopyrronium (FOR/GLY) MDI 5/7.2 micrograms (n=625), 1.9% (6 patients) for formoterol fumarate dihydrate/budesonide (FOR/BUD) MDI 5/160 micrograms (n=314) and 1.3% (4 patients) for open-labelled formoterol fumarate dihydrate/budesonide Turbuhaler (FOR/BUD) TBH 6/200 micrograms (n=318).
 
-ETHOS was a 52-week study in a total of 8,529 patients (in the safety population) with moderate to very severe COPD and a history of moderate or severe exacerbations within the prior 12 months (mean post-bronchodilator screening FEV1 43% of predicted, SD 10%). The incidence of confirmed pneumonia was 4.2% (90 patients) for Riltrava Aerosphere (n=2144), 3.5% (75 patients) for formoterol fumarate dihydrate/glycopyrronium/budesonide (FOR/GLY/BUD) MDI 5/7.2/80 micrograms (n=2124), 2.3% (48 subjects) for FOR/GLY MDI 5/7.2 micrograms (n=2125) and 4.5% (96  subjects) FOR/BUD MDI 5/160 micrograms (n=2136).
+ETHOS was a 52-week study in a total of 8,529 patients (in the safety population) with moderate to very severe COPD and a history of moderate or severe exacerbations within the prior 12 months (mean post-bronchodilator screening FEV1 43% of predicted, SD 10%). The incidence of confirmed pneumonia was 4.2% (90 patients) for Riltrava Aerosphere (n=2144), 3.5% (75 patients) for formoterol fumarate dihydrate/glycopyrronium/budesonide (FOR/GLY/BUD) MDI 5/7.2/80 micrograms (n=2124), 2.3% (48 subjects) for FOR/GLY MDI 5/7.2 micrograms (n=2125) and 4.5% (96 subjects) FOR/BUD MDI 5/160 micrograms (n=2136).
 
 ## Reporting of suspected adverse reactions
 
@@ -321,9 +319,9 @@ Formoterol is a selective β2-adrenergic agonist that when inhaled results in ra
 
 The efficacy and safety of Riltrava Aerosphere was evaluated in patients with moderate to very severe COPD in two randomised, parallel-group trials, ETHOS and KRONOS. Both studies were multicentre, double-blind studies. Patients were symptomatic with a COPD Assessment Test (CAT) score ≥10 while receiving two or more daily maintenance therapies for at least 6 weeks prior to screening.
 
-ETHOS was a 52-week trial (N=8,588 randomised; 60% male, mean age of 65) that compared two inhalations twice daily of Riltrava Aerosphere, formoterol fumarate dihydrate/glycopyrronium (FOR/GLY) MDI 5/7.2 micrograms, and formoterol fumarate dihydrate/budesonide (FOR/BUD) MDI 5/160 micrograms. Patients had moderate to very severe COPD (post-bronchodilator FEV1  ≥25% to &lt;65% predicted) and were required to have a history of one or more moderate or severe COPD exacerbations in the year prior to screening. The proportion of patients with moderate, severe and very severe COPD was 29%, 61% and 11% respectively. The mean baseline FEV1 across all groups was 1,021-1,066 mL, and during screening the mean post-bronchodilator percent predicted FEV1 was 43% and mean CAT score was 19.6. The primary endpoint of the ETHOS trial was the rate of on-treatment moderate or severe COPD exacerbations for Riltrava Aerosphere compared with FOR/GLY MDI and FOR/BUD MDI.
+ETHOS was a 52-week trial (N=8,588 randomised; 60% male, mean age of 65) that compared two inhalations twice daily of Riltrava Aerosphere, formoterol fumarate dihydrate/glycopyrronium (FOR/GLY) MDI 5/7.2 micrograms, and formoterol fumarate dihydrate/budesonide (FOR/BUD) MDI 5/160 micrograms. Patients had moderate to very severe COPD (post-bronchodilator FEV1 ≥25% to &lt;65% predicted) and were required to have a history of one or more moderate or severe COPD exacerbations in the year prior to screening. The proportion of patients with moderate, severe and very severe COPD was 29%, 61% and 11% respectively. The mean baseline FEV1 across all groups was 1,021-1,066 mL, and during screening the mean post-bronchodilator percent predicted FEV1 was 43% and mean CAT score was 19.6. The primary endpoint of the ETHOS trial was the rate of on-treatment moderate or severe COPD exacerbations for Riltrava Aerosphere compared with FOR/GLY MDI and FOR/BUD MDI.
 
-KRONOS was a 24-week trial (N=1,902 randomised; 71% male, mean age of 65) that compared two inhalations twice daily of Riltrava Aerosphere, FOR/GLY MDI 5/7.2 micrograms, FOR/BUD MDI 5/160 micrograms and open-label active comparator formoterol fumarate dihydrate/budesonide Turbuhaler (FOR/BUD TBH) 6/200 micrograms. Patients had moderate to very severe COPD (post-bronchodilator FEV1 ≥25% to &lt;80% predicted). The proportion of patients with moderate, severe and very severe COPD was 49%, 43% and 8% respectively. The mean baseline FEV1 across all groups was 1,050-1,193 mL, and during screening the mean post-bronchodilator percent predicted FEV1 was 50%, over 26% of patients reported a history of one or more moderate or severe COPD exacerbation in the past year and the mean CAT score was 18.3. There was a 28-week extension, for up to 52 weeks of treatment, in a subset of subjects. The primary endpoints of the KRONOS trial were the ontreatment FEV1 area under the curve from 0-4 hours (FEV1 AUC0-4) over 24 weeks for Riltrava Aerosphere compared to FOR/BUD MDI and the on-treatment change from baseline in morning predose trough FEV1 over 24 weeks for Riltrava Aerosphere compared to FOR/GLY MDI.
+KRONOS was a 24-week trial (N=1,902 randomised; 71% male, mean age of 65) that compared two inhalations twice daily of Riltrava Aerosphere, FOR/GLY MDI 5/7.2 micrograms, FOR/BUD MDI 5/160 micrograms and open-label active comparator formoterol fumarate dihydrate/budesonide Turbuhaler (FOR/BUD TBH) 6/200 micrograms. Patients had moderate to very severe COPD (post-bronchodilator FEV1 ≥25% to &lt;80% predicted). The proportion of patients with moderate, severe and very severe COPD was 49%, 43% and 8% respectively. The mean baseline FEV1 across all groups was 1,050-1,193 mL, and during screening the mean post-bronchodilator percent predicted FEV1 was 50%, over 26% of patients reported a history of one or more moderate or severe COPD exacerbation in the past year and the mean CAT score was 18.3. There was a 28-week extension, for up to 52 weeks of treatment, in a subset of subjects. The primary endpoints of the KRONOS trial were the on-treatment FEV1 area under the curve from 0-4 hours (FEV1 AUC0-4) over 24 weeks for Riltrava Aerosphere compared to FOR/BUD MDI and the on-treatment change from baseline in morning pre-dose trough FEV1 over 24 weeks for Riltrava Aerosphere compared to FOR/GLY MDI.
 
 At study entry, the most common COPD maintenance treatments reported in the ETHOS and KRONOS studies were ICS+LABA+LAMA (39%, 27% respectively), ICS+LABA (31%, 38% respectively) and LAMA+LABA (14%, 20% respectively).
 
@@ -331,11 +329,9 @@ At study entry, the most common COPD maintenance treatments reported in the ETHO
 
 ## Moderate or severe exacerbations
 
-In the 52-week ETHOS study, Riltrava Aerosphere significantly reduced the annual rate of ontreatment moderate/severe exacerbations by 24% (95% CI: 17, 31; p&lt;0.0001) compared with
+In the 52-week ETHOS study, Riltrava Aerosphere significantly reduced the annual rate of on-treatment moderate/severe exacerbations by 24% (95% CI: 17, 31; p&lt;0.0001) compared with FOR/GLY MDI (rate; 1.08 vs 1.42 events per patient year) and by 13% (95% CI: 5, 21; p=0.0027) compared with FOR/BUD MDI (rate; 1.08 vs 1.24 events per patient year).
 
 <div style=\"page-break-after: always\"></div>
-
-FOR/GLY MDI (rate; 1.08 vs 1.42 events per patient year) and by 13% (95% CI: 5, 21; p=0.0027) compared with FOR/BUD MDI (rate; 1.08 vs 1.24 events per patient year).
 
 The benefits observed on annualised rate of moderate/severe COPD exacerbations over 24 weeks in KRONOS were generally consistent with those observed in ETHOS. Improvements compared with FOR/GLY MDI were statistically significant; however improvements compared with FOR/BUD MDI and FOR/BUD TBH did not reach statistical significance.
 
@@ -351,25 +347,19 @@ In ETHOS and KRONOS, Riltrava Aerosphere improved on-treatment lung function (FE
 
 Table 2: Lung function analyses - ETHOS (spirometric sub-study)
 
-|                                                                    | Riltrava Aerosphere (N=747)   | FOR/GLY MDI (N=779)   | FOR/BUD MDI (N=755)   | Treatment difference 95% CI         | Treatment difference 95% CI         |
-|--------------------------------------------------------------------|-------------------------------|-----------------------|-----------------------|-------------------------------------|-------------------------------------|
-|                                                                    |                               |                       |                       | Riltrava Aerosphere vs. FOR/GLY MDI | Riltrava Aerosphere vs. FOR/BUD MDI |
-| Trough FEV 1 (mL) over 24 weeks, LS mean change from baseline (SE) | 129 (6.5)                     | 86 (6.6)              | 53 (6.5)              | 43 mL (25, 60) p<0.0001             | 76 mL (58, 94) p<0.0001 #           |
-| FEV 1 AUC 0-4 over 24 weeks; LS mean change from baseline (SE)     | 294 (6.3)                     | 245 (6.3)             | 194 (6.3)             | 49 mL (31, 66) p<0.0001 #           | 99 mL (82, 117) p<0.0001            |
-
-# p-value not adjusted for multiplicity in hierarchical testing plan
-
-LS = least squares, SE = standard error, CI = confidence intervals, N = number in Intent-to-Treat population
+|                                                                   | Riltrava Aerosphere (N=747)   | FOR/GLY MDI (N=779)   | FOR/BUD MDI - (N=755)   | Treatment difference 95% CI - Riltrava Aerosphere vs. FOR/GLY MDI   | Treatment difference 95% CI - Riltrava Aerosphere vs. FOR/BUD MDI   |
+|-------------------------------------------------------------------|-------------------------------|-----------------------|-------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| Trough FEV1 (mL) over 24 weeks, LS mean change from baseline (SE) | 129 (6.5)                     | 86 (6.6)              | 53 (6.5)                | 43 mL (25, 60) p<0.0001                                             | 76 mL (58, 94) p<0.0001 #                                           |
+| FEV1 AUC0-4 over 24 weeks; LS mean change from baseline (SE)      | 294 (6.3)                     | 245 (6.3)             | 194 (6.3)               | 49 mL (31, 66) p<0.0001 #                                           | 99 mL (82, 117) p<0.0001                                            |
 
 <div style=\"page-break-after: always\"></div>
 
 Table 3: Lung function analyses - KRONOS
 
-|                                                                    | Riltrava Aero- sphere (N=639)   | FOR/ GLY MDI (N=625)   | FOR/ BUD MDI (N=314)   | FOR/ BUD TBH   | Treatment difference 95% CI         | Treatment difference 95% CI         | Treatment difference 95% CI         |
-|--------------------------------------------------------------------|---------------------------------|------------------------|------------------------|----------------|-------------------------------------|-------------------------------------|-------------------------------------|
-|                                                                    |                                 |                        |                        | (N=318)        | Riltrava Aerosphere vs. FOR/GLY MDI | Riltrava Aerosphere vs. FOR/BUD MDI | Riltrava Aerosphere vs. FOR/BUD TBH |
-| Trough FEV 1 (mL) over 24 weeks, LS mean change from baseline (SE) | 147 (6.5)                       | 125 (6.6)              | 73 (9.2)               | 88 (9.1)       | 22 mL (4, 39) p=0.0139              | 74 mL (52, 95) p<0.0001             | 59 mL (38, 80) p<0.0001 #           |
-| FEV 1 AUC 0-4 over 24 weeks; LS mean change from baseline (SE)     | 305 (8.4)                       | 288 (8.5)              | 201 (11.7)             | 214 (11.5)     | 16 mL (-6, 38) p=0.1448 #           | 104 mL (77, 131) p<0.0001           | 91 mL (64, 117) p<0.0001            |
+|                                                                   | Riltrava Aero- sphere (N=639)   | FOR/ GLY MDI (N=625)   | FOR/ BUD MDI (N=314)   | FOR/ BUD TBH - (N=318)   | Treatment difference 95% CI - Riltrava Aerosphere vs. FOR/GLY MDI   | Treatment difference 95% CI - Riltrava Aerosphere vs. FOR/BUD MDI   | Treatment difference 95% CI - Riltrava Aerosphere vs. FOR/BUD TBH   |
+|-------------------------------------------------------------------|---------------------------------|------------------------|------------------------|--------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| Trough FEV1 (mL) over 24 weeks, LS mean change from baseline (SE) | 147 (6.5)                       | 125 (6.6)              | 73 (9.2)               | 88 (9.1)                 | 22 mL (4, 39) p=0.0139                                              | 74 mL (52, 95) p<0.0001                                             | 59 mL (38, 80) p<0.0001 #                                           |
+| FEV1 AUC0-4 over 24 weeks; LS mean change from baseline (SE)      | 305 (8.4)                       | 288 (8.5)              | 201 (11.7)             | 214 (11.5)               | 16 mL (-6, 38) p=0.1448 #                                           | 104 mL (77, 131) p<0.0001                                           | 91 mL (64, 117) p<0.0001                                            |
 
 # p-value not adjusted for multiplicity in hierarchical testing plan
 
@@ -409,7 +399,7 @@ Following inhaled administration of this medicinal product in subjects with COPD
 
 ## Glycopyrronium
 
-Following inhaled administration of this medicinal product in subjects with COPD, glycopyrronium Cmax  occurred at 6 minutes. Steady state is achieved after approximately 3 days of repeated dosing of this medicinal product and the extent of exposure is approximately 1.8 times higher than after the first dose.
+Following inhaled administration of this medicinal product in subjects with COPD, glycopyrronium Cmax occurred at 6 minutes. Steady state is achieved after approximately 3 days of repeated dosing of this medicinal product and the extent of exposure is approximately 1.8 times higher than after the first dose.
 
 ## Formoterol
 
@@ -433,11 +423,9 @@ The estimated formoterol apparent volume of distribution at steady-state is 2400
 
 ## Budesonide
 
-Budesonide undergoes an extensive degree (approximately 90%) of biotransformation on first passage through the liver to metabolites of low glucocorticosteroid activity. The glucocorticosteroid activity of
+Budesonide undergoes an extensive degree (approximately 90%) of biotransformation on first passage through the liver to metabolites of low glucocorticosteroid activity. The glucocorticosteroid activity of the major metabolites, 6 β-hydroxy-budesonide and 16-hydroxy-prednisolone, is less than 1% of that of budesonide.
 
 <div style=\"page-break-after: always\"></div>
-
-the major metabolites, 6 β-hydroxy-budesonide and 16  -hydroxy-prednisolone, is less than 1% of that of budesonide.
 
 ## Glycopyrronium
 
@@ -475,11 +463,9 @@ No pharmacokinetic studies have been performed with this medicinal product in pa
 
 Studies evaluating the effect of renal impairment on the pharmacokinetics of budesonide, glycopyrronium and formoterol were not conducted.
 
-The effect of renal impairment on the exposure to budesonide, glycopyrronium and formoterol for up to 24 weeks was evaluated in a population pharmacokinetic analysis. Estimated glomerular filtration
+The effect of renal impairment on the exposure to budesonide, glycopyrronium and formoterol for up to 24 weeks was evaluated in a population pharmacokinetic analysis. Estimated glomerular filtration rate (eGFR) varied from 31-192 mL/min representing a range of moderate to no renal impairment. Simulation of the systemic exposure (AUC0-12) in subjects with COPD with moderate renal impairment (eGFR of 45 mL/min) indicates an approximate 68% increase for glycopyrronium compared to subjects with COPD with normal renal function (eGFR of &gt;90 mL/min). Renal function was found not to affect exposure to budesonide or formoterol. Subjects with COPD with both low body weight and moderate-severe impaired renal function may have an approximate doubling of systemic exposure to glycopyrronium.
 
 <div style=\"page-break-after: always\"></div>
-
-rate (eGFR) varied from 31-192 mL/min representing a range of moderate to no renal impairment. Simulation of the systemic exposure (AUC 0-12 ) in subjects with COPD with moderate renal impairment (eGFR of 45 mL/min) indicates an approximate 68% increase for glycopyrronium compared to subjects with COPD with normal renal function (eGFR of &gt;90 mL/min). Renal function was found not to affect exposure to budesonide or formoterol. Subjects with COPD with both low body weight and moderatesevere impaired renal function may have an approximate doubling of systemic exposure to glycopyrronium.
 
 ## 5.3 Preclinical safety data
 
@@ -539,7 +525,546 @@ EU/1/21/1604/001 120 actuations EU/1/21/1604/002 360 actuations (3 packs of 120)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 6 January 2022
+Date of first authorisation: 6 January 2022 Date of latest renewal:
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Riltrava Aerosphere 5 micrograms/14.4 micrograms/160 micrograms pressurised inhalation, suspension
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Each single actuation (delivered dose, ex-actuator) contains 5 micrograms of formoterol fumarate dihydrate, glycopyrronium bromide 18 micrograms, equivalent to 14.4 micrograms of glycopyrronium, and budesonide 160 micrograms.
+
+This corresponds to a metered dose of 5.3 micrograms of formoterol fumarate dihydrate, glycopyrronium bromide 19.1 micrograms, equivalent to 15.3 micrograms of glycopyrronium, and budesonide 170 micrograms.
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Pressurised inhalation, suspension
+
+White suspension.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+Riltrava Aerosphere is indicated as a maintenance treatment of asthma in patients 12 years of age and older who are not adequately controlled by a combination of a medium dose inhaled corticosteroid and a long-acting beta2-agonist.
+
+## 4.2 Posology and method of administration
+
+## Posology
+
+The recommended and maximum dose is two inhalations twice daily (two inhalations in the morning and two inhalations in the evening).
+
+Patients should be advised to take Riltrava Aerosphere every day even when asymptomatic.
+
+If a dose is missed, it should be taken as soon as possible and the next dose should be taken at the usual time. A double dose should not be taken to make up for a forgotten dose.
+
+## Special populations
+
+## Elderly
+
+No dose adjustments are required in elderly patients 65 years of age and older (see section 5.2).
+
+## Renal impairment
+
+This medicinal product can be used at the recommended dose in patients with mild to moderate renal impairment. It can also be used at the recommended dose in patients with severe renal impairment or end-stage renal disease requiring dialysis, only if the expected benefit outweighs the potential risk (see sections 4.4 and 5.2).
+
+<div style=\"page-break-after: always\"></div>
+
+## Hepatic impairment
+
+This medicinal product can be used at the recommended dose in patients with mild to moderate hepatic impairment. It can also be used at the recommended dose in patients with severe hepatic impairment, only if the expected benefit outweighs the potential risk (see sections 4.4 and 5.2).
+
+## Paediatric population
+
+No dose adjustment is necessary for the treatment of asthma in adolescent patients from 12 to 17 years of age.
+
+The safety and efficacy of Riltrava Aerosphere in children under 12 years of age have not yet been established. No data are available.
+
+## Method of administration
+
+## For inhalation use.
+
+## Instructions for use
+
+To ensure proper administration of the medicinal product, the patient should be shown how to use the inhaler correctly by a physician or other healthcare professional, who should also regularly check the adequacy of the patient's inhalation technique. The patient should be advised to read the package leaflet carefully and follow the instructions for use as given in the leaflet. It is important to instruct the patients to:
+
+- Not use the inhaler if the drying agent, which is inside the foil pouch, has leaked out of its packet. For best results the inhaler should be at room temperature before use.
+- Prime the inhaler by shaking it well and actuating into the air four times before first use or two times when the inhaler has not been used for more than seven days, after weekly washing or if it has been dropped.
+- Rinse their mouth out with water after inhaling the dose to minimise the risk of oropharyngeal thrush. Do not swallow.
+
+On actuation of Riltrava Aerosphere, a volume of the suspension is expelled from the pressurised container. When the patient inhales through the mouthpiece at the same time as actuating the inhaler, the substance will follow the inspired air into the airways.
+
+Patients who find it difficult to coordinate actuation with inhalation may use Riltrava Aerosphere with a spacer to ensure proper administration of the medicinal product. Riltrava Aerosphere can be used with spacer devices including the Aerochamber Plus Flow-Vu (see section 5.2).
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substances or any of the excipients listed in section 6.1.
+
+## 4.4 Special warnings and precautions for use
+
+## Not for acute use
+
+This medicinal product is not indicated for the treatment of acute episodes of bronchospasm, i.e. as a rescue therapy.
+
+## Paradoxical bronchospasm
+
+Administration of formoterol/glycopyrronium/budesonide may produce paradoxical bronchospasm with an immediate wheezing and shortness of breath after dosing and may be life-threatening. Treatment with this medicinal product should be discontinued immediately if paradoxical bronchospasm occurs. The patient should be assessed, and alternative therapy instituted if necessary.
+
+<div style=\"page-break-after: always\"></div>
+
+## Deterioration of disease
+
+It is recommended that treatment with this medicinal product should not be stopped abruptly. If patients find the treatment ineffective, they should continue treatment, but medical attention must be sought. Increasing use of reliever bronchodilators indicates a worsening of the underlying condition and warrants a reassessment of the therapy. Sudden and progressive deterioration in the symptoms of asthma is potentially life-threatening and the patient should undergo urgent medical assessment.
+
+## Cardiovascular effects
+
+Cardiovascular effects, such as cardiac arrhythmias, e.g. atrial fibrillation and tachycardia, may be seen after the administration of muscarinic receptor antagonists and sympathomimetics, including glycopyrronium and formoterol. This medicinal product should be used with caution in patients with clinically significant uncontrolled and severe cardiovascular disease such as unstable ischaemic heart disease, acute myocardial infarction, cardiomyopathy, cardiac arrhythmias, and severe heart failure.
+
+Caution should also be exercised when treating patients with known or suspected prolongation of the QTc interval (QTc &gt; 450 milliseconds for males, or &gt; 470 milliseconds for females), either congenital or induced by medicinal products.
+
+## Systemic corticosteroid effects
+
+Systemic effects may occur with any inhaled corticosteroid, particularly at high doses prescribed for long periods. These effects are much less likely to occur with inhalation treatment than with oral corticosteroids. Possible systemic effects include Cushing's syndrome, Cushingoid features, adrenal suppression, decrease in bone mineral density, cataract and glaucoma. Potential effects on bone density should be considered particularly in patients on high doses for prolonged periods that have co-existing risk factors for osteoporosis.
+
+## Visual disturbances
+
+Visual disturbance may be reported with systemic and topical corticosteroid use. If a patient presents with symptoms such as blurred vision or other visual disturbances, the patient should be considered for referral to an ophthalmologist for evaluation of possible causes which may include cataract, glaucoma or rare diseases such as central serous chorioretinopathy (CSCR) which have been reported after use of systemic and topical corticosteroids (see section 4.8).
+
+## Transfer from oral therapy
+
+Particular care is needed in patients transferring from oral steroids, since they may remain at risk of impaired adrenal function for a considerable time. Patients who have required high dose corticosteroid therapy or prolonged treatment at the highest recommended dose of inhaled corticosteroids, may also be at risk. These patients may exhibit signs and symptoms of adrenal insufficiency when exposed to severe stress. Additional systemic corticosteroid cover should be considered during periods of stress or elective surgery.
+
+## Hypokalaemia
+
+Potentially serious hypokalaemia may result from β2-agonist therapy. This has the potential to produce adverse cardiovascular effects. Particular caution is advised in patients with severe asthma as this effect may be potentiated by hypoxia. Hypokalaemia may also be potentiated by concomitant treatment with other medicinal products which can induce hypokalaemia, such as xanthine derivatives, steroids and diuretics (see section 4.5).
+
+<div style=\"page-break-after: always\"></div>
+
+## Hyperglycaemia
+
+Inhalation of high doses of β2-adrenergic agonists may produce increases in plasma glucose. Therefore, blood glucose should be monitored during treatment following established guidelines in patients with diabetes.
+
+## Co-existing conditions
+
+This medicinal product should be used with caution in patients with thyrotoxicosis.
+
+## Anticholinergic activity
+
+Due to its anticholinergic activity, this medicinal product should be used with caution in patients with symptomatic prostatic hyperplasia, urinary retention or with narrow-angle glaucoma. Patients should be informed about the signs and symptoms of acute narrow-angle glaucoma and should be informed to stop using this medicinal product and to contact their doctor immediately should any of these signs or symptoms develop.
+
+Co-administration of this medicinal product with other anticholinergic containing medicinal products is not recommended (see section 4.5).
+
+## Renal impairment
+
+As glycopyrronium is predominantly renally excreted, patients with severe renal impairment (creatinine clearance of &lt;30 mL/min), including those with end-stage renal disease requiring dialysis, should only be treated with this medicinal product if the expected benefit outweighs the potential risk (see sections 4.2 and 5.2).
+
+## Hepatic impairment
+
+In patients with severe hepatic impairment, this medicinal product should be used only if the expected benefit outweighs the potential risk (see sections 4.2 and 5.2). These patients should be monitored for potential adverse reactions.
+
+## Paediatric population
+
+It is recommended that the height of children receiving prolonged treatment with inhaled corticosteroids is regularly monitored. If growth is slowed, therapy should be re-evaluated with the aim of reducing the dose of inhaled corticosteroid to the lowest dose at which effective control of asthma is maintained, if possible. The benefits of the corticosteroid therapy and the possible risks of growth suppression must be carefully weighed. In addition, consideration should be given to referring the patient to a paediatric respiratory specialist.
+
+Limited data from long-term studies suggest that most children and adolescents treated with inhaled budesonide will ultimately achieve their adult target height. However, an initial small but transient reduction in growth (approximately 1 cm) has been observed. This generally occurs within the first year of treatment.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+## Pharmacokinetic interactions
+
+Clinical drug-drug interaction studies have not been conducted with this medicinal product, however, the potential for metabolic interactions is considered to be low based on in-vitro studies (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
+
+Formoterol does not inhibit the CYP450 enzymes at therapeutically relevant concentrations (see section 5.2). Budesonide and glycopyrronium do not inhibit or induce CYP450 enzymes at therapeutically relevant concentrations.
+
+The metabolism of budesonide is primarily mediated by CYP3A4 (see section 5.2). Co-treatment with strong CYP3A inhibitors, e.g. itraconazole, ketoconazole, HIV protease inhibitors and cobicistat-containing products, are expected to increase the risk of systemic side effects, and should be avoided unless the benefit outweighs the increased risk of systemic corticosteroid adverse reactions, in which case patients should be monitored for systemic corticosteroid adverse reactions. This is of limited clinical importance for short-term (1-2 weeks) treatment.
+
+Limited data about this interaction for high-dose inhaled budesonide indicates that marked increases in plasma levels (on average four-fold) may occur if itraconazole, 200 mg once daily, is administered concomitantly with inhaled budesonide (single dose of 1000 micrograms).
+
+Since glycopyrronium is eliminated mainly by the renal route, drug interaction could potentially occur with medicinal products affecting renal excretion mechanisms. In vitro, glycopyrronium is a substrate for the renal transporters OCT2 and MATE1/2K. The effect of cimetidine, a probe inhibitor of OCT2 and MATE1, on inhaled glycopyrronium disposition showed a limited increase in its total systemic exposure (AUC0-t) by 22% and a slight decrease in renal clearance by 23% due to co-administration of cimetidine.
+
+## Pharmacodynamic interactions
+
+## Other antimuscarinics and sympathomimetics
+
+Co-administration of this medicinal product with other anticholinergic and/or long-acting β2-adrenergic agonist containing medicinal products has not been studied and is not recommended as it may potentiate known inhaled muscarinic antagonist or β2-adrenergic agonist adverse reactions (see sections 4.4 and 4.9).
+
+Concomitant use of other beta-adrenergic medicinal products can have potentially additive effects; therefore, caution is required when other beta-adrenergic medicinal products are prescribed concomitantly with formoterol.
+
+## Medicinal product-induced hypokalaemia
+
+Possible initial hypokalaemia may be potentiated by concomitant medicinal products, including xanthine derivatives, steroids and non-potassium sparing diuretics (see section 4.4). Hypokalaemia may increase the disposition towards arrhythmias in patients who are treated with digitalis glycosides.
+
+## β-adrenergic blockers
+
+β-adrenergic blockers (including eye drops) can weaken or inhibit the effect of formoterol. Concurrent use of β-adrenergic blockers should be avoided unless the expected benefit outweighs the potential risk. If β-adrenergic blockers are required, cardio-selective β-adrenergic blockers are preferred.
+
+## Other pharmacodynamic interactions
+
+Concomitant treatment with quinidine, disopyramide, procainamide, antihistamines, monoamine oxidase inhibitors, tricyclic antidepressants and phenothiazines can prolong the QT interval and increase the risk of ventricular arrhythmias. In addition, L-dopa, L-thyroxine, oxytocin and alcohol can impair cardiac tolerance towards β2-sympathomimetics.
+
+Concomitant treatment with monoamine oxidase inhibitors, including medicinal products with similar properties such as furazolidone and procarbazine, may precipitate hypertensive reactions.
+
+There is an elevated risk of arrhythmias in patients receiving concomitant anaesthesia with halogenated hydrocarbons.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Pregnancy
+
+There are no or limited amount of data from the use of budesonide, glycopyrronium and formoterol in pregnant women.
+
+Data on the use of inhaled budesonide in more than 2 500 exposed pregnancies indicate no increased teratogenic risk associated with budesonide. Single-dose studies in humans found that very small amounts of glycopyrronium passed the placental barrier.
+
+There is no experience with or evidence of safety issues on the use of the propellant norflurane (HFA-134a) during human pregnancy or lactation. However, studies on the effect of HFA-134a on the reproductive function and embryofoetal development in animals revealed no clinically relevant adverse effects.
+
+No animal reproductive toxicology studies have been conducted with this medicinal product. Budesonide has been shown to induce embryofoetal toxicity in rats and rabbits, a class effect of glucocorticoids. At very high doses/systemic exposure levels, formoterol caused implantation losses as well as decreases in birth weight and early postnatal survival, whereas glycopyrronium had no significant effects on reproduction (see section 5.3).
+
+Administration of this medicinal product to pregnant women should only be considered if the expected benefit to the mother justifies the potential risk to the foetus.
+
+## Breast-feeding
+
+A clinical pharmacology study has shown that inhaled budesonide is excreted in breast milk. However, budesonide was not detected in nursing infant blood samples. Based on pharmacokinetic parameters, the plasma concentration in the child is estimated to be less than 0.17% of the mother's plasma concentration. Consequently, no effects due to budesonide are anticipated in breast-fed children whose mothers are receiving therapeutic doses of this medicinal product. It is not known whether glycopyrronium or formoterol are excreted in human milk. Evidence of transfer of glycopyrronium and formoterol into maternal milk in rats has been reported.
+
+Administration of this medicinal product to women who are breast-feeding should only be considered if the expected benefit to the mother is greater than any possible risk to the child.
+
+## Fertility
+
+Studies in rats have shown adverse effects on fertility only at dose levels higher than the maximum human exposure to formoterol (see section 5.3). Budesonide and glycopyrronium individually, did not cause any adverse effects on fertility in rats. It is unlikely that this medicinal product administered at the recommended dose will affect fertility in humans.
+
+## 4.7 Effects on ability to drive and use machines
+
+Riltrava Aerosphere has no or negligible influence on the ability to drive and use machines. However, dizziness is an uncommon side effect which should be taken into account when driving or using machines.
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+The safety profile is characterised by corticosteroid, anticholinergic and β2-adrenergic class effects related to the individual components of the combination. The most commonly reported adverse reactions in patients with asthma were headache (2.2%), dysphonia (1.9%) and urinary tract infection (1.0%).
+
+<div style=\"page-break-after: always\"></div>
+
+## Tabulated list of adverse reactions
+
+The tabulated list of adverse reactions is based on the experience with this medicinal product in clinical trials and experience with the individual components.
+
+The frequency of adverse reactions is defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from available data).
+
+Table 1: Adverse reactions by frequency and system organ class (SOC)
+
+| System Organ Class                              | Preferred term                                                                                                        | Frequency   |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-------------|
+| Infections and infestations                     | Urinary tract infection Oral candidiasis                                                                              | Common      |
+| Immune system disorders                         | Hypersensitivity                                                                                                      | Uncommon    |
+| Immune system disorders                         | Angioedema                                                                                                            | Not known   |
+| Endocrine disorders                             | Signs or symptoms of systemic glucocorticosteroid effects, e.g. hypofunction of the adrenal gland                     | Very rare   |
+| Metabolism and nutrition disorders              | Hyperglycaemia                                                                                                        | Common      |
+| Psychiatric disorders                           | Anxiety Insomnia                                                                                                      | Common      |
+| Psychiatric disorders                           | Depression Agitation Restlessness Nervousness                                                                         | Uncommon    |
+| Psychiatric disorders                           | Abnormal behaviour                                                                                                    | Very rare   |
+| Nervous system disorders                        | Headache                                                                                                              | Common      |
+| Nervous system disorders                        | Dizziness Tremor                                                                                                      | Uncommon    |
+| Eye disorders                                   | Glaucoma Cataract Vision blurred (see section 4.4)                                                                    | Not known   |
+| Cardiac disorders                               | Palpitations                                                                                                          | Common      |
+| Cardiac disorders                               | Angina pectoris Cardiac arrhythmias (atrial fibrillation, supraventricular tachycardia and extrasystoles) Tachycardia | Uncommon    |
+| Respiratory, thoracic and mediastinal disorders | Dysphonia Cough                                                                                                       | Common      |
+| Respiratory, thoracic and mediastinal disorders | Bronchospasm Throat irritation                                                                                        | Uncommon    |
+| Gastrointestinal disorders                      | Nausea                                                                                                                | Common      |
+| Gastrointestinal disorders                      | Dry mouth                                                                                                             | Uncommon    |
+| Skin and subcutaneous tissue disorders          | Bruising                                                                                                              | Uncommon    |
+| Musculoskeletal and connective tissue disorders | Muscle spasms                                                                                                         | Common      |
+| Renal and urinary disorders                     | Urinary retention                                                                                                     | Uncommon    |
+
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Class                                   | Preferred term   | Frequency   |
+|------------------------------------------------------|------------------|-------------|
+| General disorders and administration site conditions | Chest pain       | Uncommon    |
+
+## Paediatric population
+
+A total of 128 adolescents aged 12 to &lt;18 years with uncontrolled asthma were enrolled in two 24 to 52-week trials, KALOS and LOGOS, across all treatment arms (see section 5.1). The safety profile in adolescents was similar to the overall study population.
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+An overdose may lead to exaggerated anticholinergic and/or β2-adrenergic signs and symptoms; the most frequent of which include blurred vision, dry mouth, nausea, muscle spasm, tremor, headache, palpitations and systolic hypertension. When used chronically in excessive doses, systemic glucocorticosteroid effects may appear.
+
+There is no specific treatment for an overdose with this medicinal product. If overdose occurs, the patient should be treated supportively with appropriate monitoring as necessary.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Drugs for obstructive airway diseases, adrenergics in combination with anticholinergics including triple combinations with corticosteroids, ATC code: R03AL11
+
+## Mechanism of action
+
+Riltrava Aerosphere contains budesonide, a glucocorticosteroid, and two bronchodilators: glycopyrronium, a long-acting muscarinic antagonist (anticholinergic) and formoterol, a long-acting β2-adrenergic agonist.
+
+Budesonide is a glucocorticosteroid which when inhaled has a rapid (within hours) and dose-dependent anti-inflammatory action in the airways.
+
+Glycopyrronium is a long-acting, muscarinic antagonist, which is often referred to as an anticholinergic. The major targets for anticholinergic drugs are muscarinic receptors located in the respiratory tract. In the airways, it exhibits pharmacological effects through inhibition of M3 receptor at the smooth muscle leading to bronchodilation. Antagonism is competitive and reversible. Prevention of methylcholine and acetylcholine-induced bronchoconstrictive effects was dose-dependent and lasted more than 12 hours.
+
+Formoterol is a selective β2-adrenergic agonist that when inhaled results in rapid and long-acting relaxation of bronchial smooth muscle in patients with reversible airways obstruction. The bronchodilating effect is dose dependent, with an onset of effect within 1-3 minutes after inhalation. The duration of effect is at least 12 hours after a single dose.
+
+<div style=\"page-break-after: always\"></div>
+
+## Pharmacodynamic effects
+
+In two Phase III, 24 to 52-week studies (KALOS and LOGOS), all treatment groups showed a fast onset of action as demonstrated by improvements in FEV1 at 5 minutes on day 1 compared to baseline. For Riltrava Aerosphere 5/14.4/160 micrograms, within-group mean change from baseline was 161 mL (95% CI: 145, 177) and 180 mL (95% CI: 162, 197) in KALOS and LOGOS respectively.
+
+## Clinical efficacy
+
+The efficacy and safety of Riltrava Aerosphere was evaluated in patients 12 years of age and older with inadequately controlled asthma in two randomised, double-blind, parallel-group trials, KALOS and LOGOS.
+
+KALOS and LOGOS were two 24 to 52-week trials (KALOS: 2 144 randomised and treated; 65% female, mean age of 52 [range: 12 to 80 years], 24% 65 years of age and older; and LOGOS: 2 167 randomised and treated; 61% female, mean age of 52 [range: 12 to 80 years], 19% 65 years of age and older) that contained four treatment arms comparing two inhalations twice daily of Riltrava Aerosphere 5/14.4/160 micrograms, Riltrava Aerosphere 5/7.2/160 micrograms, formoterol fumarate dihydrate/budesonide metered dose inhaler (FOR/BUD MDI) 5/160 micrograms, and FOR/BUD MDI 4.5/160 micrograms. Prior to randomisation, patients received FOR/BUD MDI 5/160 micrograms two inhalations twice daily during the 4-week run-in period in both trials. FOR/BUD MDI 5/160 micrograms used the same inhaler and proprietary Aerosphere delivery platform as Riltrava Aerosphere.
+
+Both trials were conducted in patients 12 years of age and older with asthma who continue to experience symptoms and are inadequately controlled, as demonstrated by an Asthma Control Questionnaire (ACQ)-7 total score ≥1.5 despite treatment with a medium or high dose of inhaled corticosteroid (ICS)/ long-acting β2-agonist (LABA) and pre-bronchodilator FEV1 &lt;80% predicted normal value for participants ≥18 years of age or &lt;90% predicted normal value for participants 12 to &lt;18 years of age.
+
+Patients in KALOS had a median asthma duration of 16 years (range: 1-74), baseline mean pre-bronchodilator percent predicted FEV1 of 59% (standard deviation [SD] 12%), and a baseline mean ACQ-5 score of 2.49 (SD 0.66). In the prior year, 33% of patients had 0 severe exacerbations, 46% of patients had 1 severe exacerbation, and 21% of patients had ≥2 severe exacerbations. At study entry, 57% of patients were on a medium dose of ICS in combination with a LABA, and 43% of patients were on a high dose of ICS in combination with a LABA.
+
+Patients in LOGOS had a median asthma duration of 15 years (range: 1-76), baseline mean pre-bronchodilator percent predicted FEV1 of 59% (SD 13%) and a baseline mean ACQ-5 score of 2.49 (SD 0.66). In the prior year, 51% of patients had 0 severe exacerbations, 40% of patients had 1 severe exacerbation, and 9% of patients had ≥2 severe exacerbations. At study entry, 73% of patients were on a medium dose of ICS in combination with a LABA, and 26% of patients were on a high dose of ICS in combination with a LABA.
+
+In the combined KALOS and LOGOS study population, in the prior year, 42% of patients had 0 severe exacerbations, 43% of patients had 1 severe exacerbation, and 15% of patients had ≥2 severe exacerbations. At study entry, 65% of patients were on a medium dose of ICS in combination with a LABA, and 34% of patients were on a high dose of ICS in combination with a LABA.
+
+The primary endpoint in the individual studies, KALOS and LOGOS, was a change from baseline in morning pre-dose trough FEV1 over 24 weeks for Riltrava Aerosphere 5/14.4/160 micrograms compared to pooled FOR/BUD treatment arms.
+
+<div style=\"page-break-after: always\"></div>
+
+The primary pooled endpoint based on the combined analysis of KALOS and LOGOS was rate of severe asthma exacerbations for Riltrava Aerosphere 5/14.4/160 micrograms compared to pooled FOR/BUD treatment arms.
+
+The key secondary endpoint in KALOS and LOGOS was a change from baseline in FEV1 AUC0-3 over 24 weeks for Riltrava Aerosphere 5/14.4/160 micrograms compared to pooled FOR/BUD treatment arms.
+
+## Effects on lung function
+
+In both KALOS and LOGOS, treatment with Riltrava Aerosphere 5/14.4/160 micrograms compared with pooled FOR/BUD treatment arms resulted in statistically significant improvements in change from baseline in morning pre-dose trough FEV1 and change from baseline in FEV1 AUC0-3 over 24 weeks (see Table 2).
+
+Table 2: Lung function analyses - KALOS AND LOGOS
+
+| Treatment 1                                                             | KALOS - Riltrava Aerosphere 5/14.4/160 mcg (N=594)                      | KALOS - Pooled FOR/BUD 2 (N=1 208)                                      | LOGOS - Riltrava Aerosphere 5/14.4/160 mcg (N=585)                      | LOGOS - Pooled FOR/BUD 2 (N=1 192)                                      |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Change from baseline in morning pre-dose trough FEV1 (mL) over 24 weeks | Change from baseline in morning pre-dose trough FEV1 (mL) over 24 weeks | Change from baseline in morning pre-dose trough FEV1 (mL) over 24 weeks | Change from baseline in morning pre-dose trough FEV1 (mL) over 24 weeks | Change from baseline in morning pre-dose trough FEV1 (mL) over 24 weeks |
+| n                                                                       | 593                                                                     | 1 204                                                                   | 582                                                                     | 1 183                                                                   |
+| LS mean change                                                          | 155                                                                     | 99                                                                      | 171                                                                     | 74                                                                      |
+| Difference                                                              | 56                                                                      | 56                                                                      | 97                                                                      | 97                                                                      |
+| 95% CI                                                                  | (31, 82)                                                                | (31, 82)                                                                | (70, 123)                                                               | (70, 123)                                                               |
+| p-value                                                                 | <0.001 3                                                                | <0.001 3                                                                | <0.001 3                                                                | <0.001 3                                                                |
+| Change from baseline in FEV1 AUC0-3 (mL) over 24 weeks                  | Change from baseline in FEV1 AUC0-3 (mL) over 24 weeks                  | Change from baseline in FEV1 AUC0-3 (mL) over 24 weeks                  | Change from baseline in FEV1 AUC0-3 (mL) over 24 weeks                  | Change from baseline in FEV1 AUC0-3 (mL) over 24 weeks                  |
+| n                                                                       | 593                                                                     | 1 205                                                                   | 582                                                                     | 1 186                                                                   |
+| LS mean change                                                          | 308                                                                     | 239                                                                     | 345                                                                     | 232                                                                     |
+| Difference                                                              | 69                                                                      | 69                                                                      | 112                                                                     | 112                                                                     |
+| 95% CI                                                                  | (44, 94)                                                                | (44, 94)                                                                | (87, 138)                                                               | (87, 138)                                                               |
+| p-value                                                                 | <0.001 3                                                                | <0.001 3                                                                | <0.001 3                                                                | <0.001 3                                                                |
+
+N=number of subjects in treatment group; n=number of subjects with non-missing value over 24 weeks
+
+In the combined analysis of KALOS and LOGOS, treatment with Riltrava Aerosphere 5/14.4/160 micrograms (N=1 179) resulted in a 166 mL increase from baseline (LS mean change) in morning pre-dose trough FEV1 over 24 weeks compared with 90 mL for pooled FOR/BUD treatment arms (difference: 76 mL, 95% CI: 57, 94). Similar improvements were seen for change from baseline in FEV1 AUC0-3 over 24 weeks for the combined analysis of KALOS and LOGOS when comparing Riltrava Aerosphere 5/14.4/160 micrograms with pooled FOR/BUD treatment arms (difference: 90 mL, 95% CI: 72, 108). Improvements in lung function were sustained over 52 weeks.
+
+## Effects on severe exacerbations
+
+Asthma exacerbations were assessed over the entire 52-week treatment period. Severe asthma exacerbations were defined as deterioration of asthma symptoms that required at least 3 days of systemic corticosteroids, emergency room or urgent care visit with systemic corticosteroid course, inpatient hospitalisation, and/or resulted in death.
+
+In the combined analysis of KALOS and LOGOS, treatment with Riltrava Aerosphere 5/14.4/160 micrograms resulted in a statistically significant reduction (14%) in the annualised rate of severe asthma exacerbations compared with pooled FOR/BUD treatment arms (see Table 3).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 3: Rates of severe exacerbations - combined analysis of KALOS and LOGOS
+
+|                                                         | Riltrava Aerosphere 5/14.4/160 mcg   | Pooled FOR/BUD 1   |
+|---------------------------------------------------------|--------------------------------------|--------------------|
+| Overall population                                      | N=1 179                              | N=2 400            |
+| Number (%) of patients with at least 1 event            | 398 (34%)                            | 914 (38%)          |
+| Number of events                                        | 612                                  | 1 444              |
+| Adjusted annualised event rate                          | 0.54                                 | 0.63               |
+| Rate Ratio vs comparator (95% CI)                       | 0.86 (0.76, 0.97)                    | 0.86 (0.76, 0.97)  |
+| p-value                                                 | 0.012 2                              | 0.012 2            |
+| Patients with ≥1 severe exacerbations in the prior year | N=665                                | N=1 367            |
+| Number (%) of patients with at least 1 event            | 255 (38%)                            | 590 (43%)          |
+| Number of events                                        | 419                                  | 976                |
+| Adjusted annualised event rate                          | 0.62                                 | 0.72               |
+| Rate Ratio vs comparator (95% CI)                       | 0.86 (0.74, 1.00)                    | 0.86 (0.74, 1.00)  |
+| Patients without severe exacerbations in the prior year | N=514                                | N=1 033            |
+| Number (%) of patients with at least 1 event            | 143 (28%)                            | 324 (31%)          |
+| Number of events                                        | 193                                  | 468                |
+| Adjusted annualised event rate                          | 0.46                                 | 0.55               |
+| Rate Ratio vs comparator (95% CI)                       | 0.83 (0.68, 1.02)                    | 0.83 (0.68, 1.02)  |
+
+## Asthma control and health-related quality of life
+
+Asthma control and asthma-related quality of life were assessed in each study using the Asthma Control Questionnaire (ACQ-5 and ACQ-7) and the Asthma Quality of Life Questionnaire (AQLQ+12).
+
+In the combined analysis of KALOS and LOGOS, all treatment groups showed improvements from baseline in symptom control and health related quality of life outcomes as indicated by changes in ACQ-7 and AQLQ+12 score. The proportion of patients achieving the minimum clinically important difference (MCID; ≥0.5) in ACQ-7 was 70% for Riltrava Aerosphere 5/14.4/160 micrograms compared with 65% for pooled FOR/BUD treatment arms over 24 weeks (odds ratio [OR] 1.26; 95% CI: 1.08, 1.47). The proportion of patients achieving MCID ≥0.5 in AQLQ+12 was 58% for Riltrava Aerosphere 5/14.4/160 micrograms compared with 57% for pooled FOR/BUD treatment arms over 24 weeks (OR 1.10, 95% CI: 0.94, 1.29). Responder rates with ACQ-5 (comprising the 5 questions on symptoms from ACQ-7) were similar to those with ACQ-7 over 24 weeks.
+
+## Paediatric population
+
+A total of 128 adolescents aged 12 to &lt;18 years with uncontrolled asthma were randomised in KALOS and LOGOS and received treatment with two inhalations twice daily of Riltrava Aerosphere 5/14.4/160 micrograms (N=30) or Riltrava Aerosphere 5/7.2/160 micrograms (N=19) compared with two inhalations twice daily of pooled FOR/BUD MDI 5/160 micrograms and FOR/BUD MDI 4.5/160 micrograms (N=79).
+
+In KALOS and LOGOS, 72% of adolescents were taking medium dose of ICS in combination with a LABA and 27% of adolescents were taking high dose of ICS in combination with a LABA at baseline. The change from baseline in morning pre-dose trough FEV1 over 24 weeks for Riltrava Aerosphere 5/14.4/160 micrograms was 344 mL versus 289 mL for pooled FOR/BUD treatment arms (difference 55 mL, 95% CI: -58, 169). The change from baseline in FEV1 AUC0-3 over 24 weeks for Riltrava Aerosphere 5/14.4/160 micrograms was 459 mL versus 404 mL for pooled FOR/BUD treatment arms (difference 56 mL, 95% CI: -51, 162). In adolescents who received treatment with Riltrava Aerosphere 5/14.4/160 micrograms, the rate of severe asthma exacerbations was 0.19 versus 0.38 for pooled FOR/BUD treatment arms (rate ratio 0.51, 95% CI: 0.18, 1.48). In the combined analysis of KALOS and LOGOS, no overall differences in safety or efficacy were observed between adolescents and the overall study population.
+
+<div style=\"page-break-after: always\"></div>
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with formoterol fumarate dihydrate/glycopyrronium/budesonide in one or more subsets of the paediatric population in asthma (see section 4.2 for information on paediatric use).
+
+## 5.2 Pharmacokinetic properties
+
+Following inhalation of the formoterol, glycopyrronium and budesonide combination, the pharmacokinetics of each component was similar to those observed when each active substance was administered separately.
+
+## Effect of a spacer
+
+The use of this medicinal product with the Aerochamber Plus Flow-Vu spacer in healthy volunteers increased the total systemic exposure (as measured by AUC0-t) to budesonide and glycopyrronium by 33% and 55%, respectively, while exposure to formoterol was unchanged. In healthy volunteers with good inhalation technique, systemic exposure was not increased with the use of a spacer.
+
+## Absorption
+
+## Budesonide
+
+Following inhaled administration of this medicinal product in subjects with asthma, the median time to maximum plasma concentration (Tmax) of budesonide was approximately 40 minutes. Steady-state is achieved after approximately 1 day of repeated dosing of this medicinal product and the extent of exposure is approximately 1.3 times higher than after the first dose.
+
+## Glycopyrronium
+
+Following inhaled administration of this medicinal product in subjects with asthma, the Tmax of glycopyrronium was approximately 6 minutes. Steady-state is achieved after approximately 2.4 days of repeated dosing of this medicinal product and the extent of exposure is approximately 2 times higher than after the first dose.
+
+## Formoterol
+
+Following inhaled administration of this medicinal product in subjects with asthma, the Tmax of formoterol was approximately 1.5 hours. Steady-state is achieved after approximately 2 days of repeated dosing with this medicinal product and the extent of exposure is approximately 1.9 times higher than after the first dose.
+
+## Distribution
+
+## Budesonide
+
+The estimated budesonide apparent volume of distribution at steady-state is approximately 930 L, via population pharmacokinetic analysis. Plasma protein binding is approximately 90% for budesonide.
+
+## Glycopyrronium
+
+The estimated glycopyrronium apparent volume of distribution at steady-state is approximately 5000 L, via population pharmacokinetic analysis. Over the concentration range of 2-500 nmol/L, plasma protein binding of glycopyrronium ranged from 43% to 54%.
+
+## Formoterol
+
+The estimated formoterol apparent volume of distribution at steady-state is approximately 2700 L, via population pharmacokinetic analysis. Over the concentration range of 10-500 nmol/L, plasma protein binding of formoterol ranged from 46% to 58%.
+
+<div style=\"page-break-after: always\"></div>
+
+## Biotransformation
+
+## Budesonide
+
+Budesonide undergoes an extensive degree (approximately 90%) of biotransformation on first passage through the liver to metabolites of low glucocorticosteroid activity. The glucocorticosteroid activity of the major metabolites, 6 β-hydroxy-budesonide and 16-hydroxy-prednisolone, is less than 1% of that of budesonide.
+
+## Glycopyrronium
+
+Based on literature, and an in-vitro human hepatocyte study, metabolism plays a minor role in the overall elimination of glycopyrronium. CYP2D6 was found to be the predominant enzyme involved in the metabolism of glycopyrronium.
+
+## Formoterol
+
+The primary metabolism of formoterol is by direct glucuronidation and by O-demethylation followed by conjugation to inactive metabolites. Secondary metabolic pathways include deformylation and sulfate conjugation. CYP2D6 and CYP2C have been identified as being primarily responsible for O-demethylation.
+
+## Elimination
+
+## Budesonide
+
+Budesonide is eliminated via metabolism mainly catalysed by the enzyme CYP3A4. The metabolites of budesonide are excreted in urine as such or in conjugated form. Only negligible amounts of unchanged budesonide have been detected in the urine. The effective half-life of budesonide derived via population pharmacokinetic analysis was approximately 5.2 hours.
+
+## Glycopyrronium
+
+After intravenous administration of a 0.2 mg dose of radiolabelled glycopyrronium, 85% of the dose was recovered in urine 48 hours post dose and some of radioactivity was also recovered in bile. The effective half-life of glycopyrronium derived via population pharmacokinetic analysis was approximately 12 hours.
+
+## Formoterol
+
+The excretion of formoterol was studied in six healthy subjects following simultaneous administration of radiolabelled formoterol via the oral and intravenous routes. In that study, 62% of the drug related radioactivity was excreted in the urine while 24% was eliminated in the faeces. The effective half-life of formoterol derived via population pharmacokinetic analysis was approximately 11 hours.
+
+## Special populations
+
+## Age, gender, race/ethnicity and weight
+
+Dose adjustments are not necessary based on the effect of age, gender or weight on the pharmacokinetic parameters of budesonide, glycopyrronium and formoterol. There were no major differences in total systemic exposure (AUC) for all compounds between healthy Japanese, Chinese and Western subjects. Insufficient pharmacokinetic data is available for other ethnicities or races.
+
+## Hepatic impairment
+
+No pharmacokinetic studies have been performed with this medicinal product in patients with hepatic impairment. However, because both budesonide and formoterol are primarily eliminated via hepatic metabolism, an increased exposure can be expected in patients with severe liver impairment. Glycopyrronium is primarily cleared from the systemic circulation by renal excretion and hepatic impairment would therefore not be expected to affect systemic exposure.
+
+## Renal impairment
+
+Studies evaluating the effect of renal impairment on the pharmacokinetics of budesonide, glycopyrronium and formoterol were not conducted.
+
+<div style=\"page-break-after: always\"></div>
+
+The exposure to budesonide, glycopyrronium and formoterol in patients with no to moderate renal impairment (baseline estimated glomerular filtration rate, eGFR, 40-221 mL/min) was studied in a limited number of asthma patients in a population pharmacokinetic study. Exposure of budesonide, glycopyrronium and formoterol was not impacted by renal function, although results should be interpreted with caution due to the small sample size.
+
+## 5.3 Preclinical safety data
+
+Non-clinical data reveal no specific hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity and carcinogenic potential.
+
+No studies have been conducted with the combination of budesonide, glycopyrronium and formoterol in respect of genotoxicity, carcinogenic potential and toxicity to reproduction and development.
+
+In animal reproduction studies, glucocorticosteroids such as budesonide have been shown to induce malformations (cleft palate, skeletal malformations). However, these animal experimental results are not relevant in humans at the recommended doses (see section 4.6). Budesonide demonstrated no tumourigenic potential in mice. In rats, an increased incidence of hepatocellular tumours was observed, considered to be a class-effect in rats from long-term exposure to corticosteroids.
+
+Animal reproduction studies with formoterol have shown a slightly reduced fertility in male rats at high systemic exposure and implantation losses, as well as decreased early postnatal survival and birth weight at considerably higher systemic exposures than those reached during clinical use. A slight increase in the incidence of uterine leiomyomas has been observed in rats and mice treated with formoterol; an effect which is considered to be a class-effect in rodents after long-term exposure to high doses of β2-adrenoreceptor agonists.
+
+Animal reproduction studies with glycopyrronium have shown reduced rat and rabbit foetal weights, and low body weight gain of rat offspring before weaning at considerably higher systemic exposure than those reached during clinical use. No evidence of carcinogenicity was seen in rats and mice.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Norflurane 1,2-distearoyl-sn-glycero-3-phosphocholine Calcium chloride
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+3 years
+
+To be used within 3 months of opening the pouch.
+
+## 6.4 Special precautions for storage
+
+Do not store above 30 °C.
+
+Do not expose to temperatures higher than 50 °C. Do not pierce the pressurised container. Store in a dry place.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6.5 Nature and contents of container
+
+Riltrava Aerosphere is a pressurised metered dose inhaler, comprising a coated aluminium canister, a yellow plastic actuator and mouthpiece with an attached grey plastic dust cap, and a dose indicator. Each inhaler is individually packaged in a foil laminate pouch containing a desiccant sachet and packed into a carton.
+
+Pack size of 1 container of 120 actuations. Multipacks of 360 (3 containers of 120) actuations.
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements. The pressurised container should not be broken, punctured or burnt, even when apparently empty.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+AstraZeneca AB SE-151 85 Södertälje
+
+Sweden
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1604/003 120 actuations EU/1/21/1604/004 360 actuations (3 packs of 120)
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 6 January 2022 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -599,7 +1124,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON - SINGLE INHALER
+## CARTON - SINGLE INHALER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -643,6 +1168,8 @@ EXP
 
 To be used within 3 months of opening the pouch.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 30 °C.
@@ -657,7 +1184,9 @@ Store in a dry place.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB SE-151 85 Södertälje Sweden
+AstraZeneca AB SE-151 85 Södertälje
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -673,7 +1202,7 @@ Lot
 
 ## 16. INFORMATION IN BRAILLE
 
-riltrava aerosphere
+riltrava aerosphere 5/7.2/160 mcg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -686,8 +1215,6 @@ PC
 SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -735,6 +1262,8 @@ EXP
 
 To be used within 3 months of opening the pouch.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 30 °C.
@@ -749,9 +1278,7 @@ Store in a dry place.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB
-
-SE-151 85 Södertälje
+AstraZeneca AB SE-151 85 Södertälje
 
 Sweden
 
@@ -769,7 +1296,7 @@ Lot
 
 ## 16. INFORMATION IN BRAILLE
 
-riltrava aerosphere
+riltrava aerosphere 5/7.2/160 mcg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -785,15 +1312,15 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 ## INNER CARTON OF MULTIPACK (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Riltrava Aerosphere 5/7.2/160 micrograms pressurised inhalation, suspension formoterol fumarate dihydrate/glycopyrronium/budesonide
+Riltrava Aerosphere 5/7.2/160 micrograms pressurised inhalation, suspension
+
+formoterol fumarate dihydrate/glycopyrronium/budesonide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -849,7 +1376,9 @@ Store in a dry place.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB SE-151 85 Södertälje Sweden
+AstraZeneca AB SE-151 85 Södertälje
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -861,13 +1390,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
-riltrava aerosphere
+riltrava aerosphere 5/7.2/160 mcg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -875,7 +1404,7 @@ riltrava aerosphere
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-FOIL POUCH
+## FOIL POUCH
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -895,7 +1424,8 @@ To be used within 3 months of opening the pouch.
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 Inhalation use
 
@@ -916,11 +1446,8 @@ Do not swallow the desiccant.
 Riltrava Aerosphere 5/7.2/160 mcg pressurised inhalation formoterol fumarate dihydrate/glycopyrronium/budesonide Inhalation use
 
 2. METHOD OF ADMINISTRATION
-
 3. EXPIRY DATE
-
 4. BATCH NUMBER
-
 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 120 actuations
@@ -931,29 +1458,403 @@ AstraZeneca
 
 Opened on:
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRESSURISED CONTAINER LABEL
+<div style=\"page-break-after: always\"></div>
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRESSURISED CONTAINER LABEL                                        |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Riltrava Aerosphere 5/7.2/160 mcg pressurised inhalation formoterol fumarate dihydrate/glycopyrronium/budesonide Inhalation use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+120 actuations
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## CARTON - SINGLE INHALER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Riltrava Aerosphere 5/14.4/160 micrograms pressurised inhalation, suspension formoterol fumarate dihydrate/glycopyrronium/budesonide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each single actuation contains 5 micrograms of formoterol fumarate dihydrate, 18 micrograms glycopyrronium bromide equivalent to 14.4 micrograms of glycopyrronium, and 160 micrograms of budesonide.
+
+## 3. LIST OF EXCIPIENTS
+
+Norflurane, 1,2-distearoyl-sn-glycero-3-phosphocholine and calcium chloride.
+
+Contains fluorinated greenhouse gases.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Pressurised inhalation, suspension
+
+120 actuations (1 inhaler)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Shake well before use.
+
+Read the package leaflet before use.
+
+Inhalation use
+
+Open here
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+To be used within 3 months of opening the pouch.
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 30 °C.
+
+Do not expose to temperatures higher than 50 °C.
+
+Do not pierce the pressurised container.
+
+Store in a dry place.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+AstraZeneca AB SE-151 85 Södertälje
+
+Sweden
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1604/003 120 actuations
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+riltrava aerosphere 5/14.4/160 mcg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER CARTON FOR MULTIPACK (WITH BLUE BOX)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Riltrava Aerosphere 5/14.4/160 micrograms pressurised inhalation, suspension formoterol fumarate dihydrate/glycopyrronium/budesonide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each single actuation contains 5 micrograms of formoterol fumarate dihydrate, 18 micrograms glycopyrronium bromide equivalent to 14.4 micrograms of glycopyrronium, and 160 micrograms of budesonide.
+
+## 3. LIST OF EXCIPIENTS
+
+Norflurane, 1,2-distearoyl-sn-glycero-3-phosphocholine and calcium chloride.
+
+Contains fluorinated greenhouse gases.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Pressurised inhalation, suspension
+
+Multipack: 360 actuations (3 packs of 120)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Shake well before use.
+
+Read the package leaflet before use.
+
+Inhalation use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+To be used within 3 months of opening the pouch.
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 30 °C.
+
+Do not expose to temperatures higher than 50 °C.
+
+Do not pierce the pressurised container.
+
+Store in a dry place.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+AstraZeneca AB SE-151 85 Södertälje
+
+Sweden
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1604/004 360 actuations (3 packs of 120)
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+riltrava aerosphere 5/14.4/160 mcg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## INNER CARTON OF MULTIPACK (WITHOUT BLUE BOX)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Riltrava Aerosphere 5/14.4/160 micrograms pressurised inhalation, suspension formoterol fumarate dihydrate/glycopyrronium/budesonide
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each single actuation contains 5 micrograms of formoterol fumarate dihydrate, 18 micrograms glycopyrronium bromide equivalent to 14.4 micrograms of glycopyrronium, and 160 micrograms of budesonide.
+
+## 3. LIST OF EXCIPIENTS
+
+Norflurane, 1,2-distearoyl-sn-glycero-3-phosphocholine and calcium chloride.
+
+Contains fluorinated greenhouse gases.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Pressurised inhalation, suspension
+
+120 actuations (1 inhaler). Component of a multipack, can't be sold separately.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Shake well before use.
+
+Read the package leaflet before use.
+
+Inhalation use
+
+Open here
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+To be used within 3 months of opening the pouch.
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 30 °C.
+
+Do not expose to temperatures higher than 50 °C.
+
+Do not pierce the pressurised container.
+
+Store in a dry place.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+AstraZeneca AB SE-151 85 Södertälje
+
+Sweden
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1604/004 360 actuations (3 packs of 120)
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+riltrava aerosphere 5/14.4/160 mcg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+## FOIL POUCH
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Riltrava Aerosphere 5/14.4/160 micrograms pressurised inhalation, suspension formoterol fumarate dihydrate/glycopyrronium/budesonide
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+AstraZeneca
+
+## 3. EXPIRY DATE
+
+EXP
+
+To be used within 3 months of opening the pouch.
 
 ## 4. BATCH NUMBER
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | OTHER   |
+|------|---------|
+
+Inhalation use
+
+Read the package leaflet before use.
+
+Shake well before use.
+
+Do not swallow the desiccant.
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS INHALER LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Riltrava Aerosphere 5/14.4/160 mcg pressurised inhalation formoterol fumarate dihydrate/glycopyrronium/budesonide Inhalation use
+
+2. METHOD OF ADMINISTRATION
+3. EXPIRY DATE
+4. BATCH NUMBER
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 120 actuations
 
 ## 6. OTHER
 
+AstraZeneca
+
+Opened on:
+
 <div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRESSURISED CONTAINER LABEL                                        |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+Riltrava Aerosphere 5/14.4/160 mcg pressurised inhalation formoterol fumarate dihydrate/glycopyrronium/budesonide Inhalation use
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+120 actuations
+
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -982,7 +1883,7 @@ formoterol fumarate dihydrate/glycopyrronium/budesonide
 4. Possible side effects
 5. How to store Riltrava Aerosphere
 6. Contents of the pack and other information
-6. Instructions for use
+7. Instructions for use
 
 ## 1. What Riltrava Aerosphere is and what it is used for
 
@@ -1042,15 +1943,15 @@ Tell your doctor or pharmacist if you are taking any of the following:
 - medicines which are used to treat fungal infections - such as ketoconazole or itraconazole
 - medicines which are used to treat HIV infection - such as ritonavir or cobicistat
 - medicines that lower the amount of potassium in your blood, such as:
-- -corticosteroids that you take by mouth (such as prednisolone),
-- -diuretics - medicines that increase urine production (such as furosemide or hydrochlorothiazide), which can be used for treating high blood pressure,
-- -some medicines used to treat breathing problems (such as theophylline) - called 'methylxanthines',
+- corticosteroids that you take by mouth (such as prednisolone),
+- diuretics - medicines that increase urine production (such as furosemide or hydrochlorothiazide), which can be used for treating high blood pressure,
+- some medicines used to treat breathing problems (such as theophylline) - called 'methylxanthines',
 - any medicines that work in the same way as Riltrava Aerosphere - such as tiotropium, ipratropium, aclidinium, umeclidinium or salmeterol, arformoterol, vilanterol, olodaterol or indacaterol. Do not use Riltrava Aerosphere if you already use these medicines.
 - medicines which are used to treat heart rhythm problems - such as amiodarone
-- medicines which can change some electrical activity of the heart (called the 'QT interval') such as medicines for:
-- -depression (such as monoamine oxidase inhibitors or tricyclic antidepressants),
-- -bacterial infections (such as erythromycin, clarithromycin or telithromycin),
-- -allergic reactions (anti-histamines).
+- medicines which can change some electrical activity of the heart (called the 'QT interval') - such as medicines for:
+- depression (such as monoamine oxidase inhibitors or tricyclic antidepressants),
+- bacterial infections (such as erythromycin, clarithromycin or telithromycin),
+- allergic reactions (anti-histamines).
 
 If any of the above applies to you, or if you are not sure, talk to your doctor or pharmacist before using Riltrava Aerosphere.
 
@@ -1078,7 +1979,7 @@ The recommended dose is two puffs twice a day - two puffs in the morning and two
 
 It is important to use Riltrava Aerosphere every day - even if you have no COPD symptoms at the time.
 
-Remember : Always rinse your mouth with water after using Riltrava Aerosphere. This is to remove any medicine which is left in the mouth. Spit this water out - do not swallow.
+Remember: Always rinse your mouth with water after using Riltrava Aerosphere. This is to remove any medicine which is left in the mouth. Spit this water out - do not swallow.
 
 ## How to use
 
@@ -1118,11 +2019,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Uncommon (may affect up to 1 in 100 people)
 
-## Immediate breathing difficulties :
+## Immediate breathing difficulties:
 
-- if you get breathing difficulties straight after using Riltrava Aerosphere, such as tightness of the chest, coughing, wheezing or feeling breathless, stop using this medicine and tell your doctor straight away .
+- if you get breathing difficulties straight after using Riltrava Aerosphere, such as tightness of the chest, coughing, wheezing or feeling breathless, stop using this medicine and tell your doctor straight away.
 
-## Allergic reactions :
+## Allergic reactions:
 
 - swelling of your face, particularly around your mouth (swelling of your tongue or throat may make it difficult to swallow)
 - rash or hives together with difficulty breathing
@@ -1187,7 +2088,9 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use Riltrava Aerosphere after the expiry date which is stated on the carton, pouch and pressurised container after 'EXP'. The expiry date refers to the last day of that month. After opening the pouch, the inhaler must be used within 3 months.
+Do not use Riltrava Aerosphere after the expiry date which is stated on the carton, pouch and pressurised container after 'EXP'. The expiry date refers to the last day of that month.
+
+After opening the pouch, the inhaler must be used within 3 months.
 
 Keep the inhaler inside the sealed pouch - only remove the inhaler from the sealed pouch immediately before first use. On the day the pouch is opened, write the date on the inhaler label in the space provided.
 
@@ -1205,9 +2108,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substances are formoterol fumarate dihydrate, glycopyrronium and budesonide.
 
-<div style=\"page-break-after: always\"></div>
-
 Each single inhalation provides a delivered dose (the dose leaving the mouthpiece) of 5 micrograms of formoterol fumarate dihydrate, 9 micrograms glycopyrronium bromide equivalent to 7.2 micrograms glycopyrronium and 160 micrograms of budesonide.
+
+<div style=\"page-break-after: always\"></div>
 
 This corresponds to a metered dose (i.e. the dose leaving the valve) of 5.3 micrograms of formoterol fumarate dihydrate, glycopyrronium bromide 9.6 micrograms, equivalent to 7.7 micrograms of glycopyrronium, and budesonide 170 micrograms.
 
@@ -1243,29 +2146,15 @@ AstraZeneca S.A./N.V.
 
 Tel: +32 2 370 48 11
 
-## Lietuva
-
-UAB AstraZeneca Lietuva Tel: +370 5 2660550
-
 ## България
 
-АстраЗенека България ЕООД
-
-Тел.: +359 24455000
-
-## Luxembourg/Luxemburg
-
-AstraZeneca S.A./N.V. Tél/Tel: +32 2 370 48 11
+АстраЗенека България ЕООД Тел.: +359 24455000
 
 ## Česká republika
 
 AstraZeneca Czech Republic s.r.o.
 
 Tel: +420 222 807 111
-
-Magyarország AstraZeneca Kft. Tel.: +36 1 883 6500
-
-<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
@@ -1278,6 +2167,36 @@ Tlf.: +45 43 66 64 62
 AstraZeneca GmbH
 
 Tel: +49 40 809034100
+
+## Lietuva
+
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
+
+## Luxembourg/Luxemburg
+
+AstraZeneca S.A./N.V.
+
+Tél/Tel: +32 2 370 48 11
+
+## Magyarország
+
+AstraZeneca Kft.
+
+Tel.: +36 1 883 6500
+
+## Malta
+
+Associated Drug Co. Ltd
+
+Tel: +356 2277 8000
+
+## Nederland
+
+AstraZeneca BV
+
+Tel: +31 85 808 9900
+
+<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
@@ -1293,7 +2212,9 @@ AstraZeneca A.E.
 
 ## España
 
-AstraZeneca Farmacéutica Spain, S.A. Tel: +34 91 301 91 00
+AstraZeneca Farmacéutica Spain, S.A.
+
+Tel: +34 91 301 91 00
 
 ## France
 
@@ -1303,13 +2224,13 @@ Tél: +33 1 41 29 40 00
 
 ## Hrvatska
 
-AstraZeneca d.o.o. Tel: +385 1 4628 000
+AstraZeneca d.o.o.
+
+Tel: +385 1 4628 000
 
 ## Ireland
 
-AstraZeneca Pharmaceuticals (Ireland) DAC
-
-Tel: +353 1609 7100
+AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
@@ -1325,7 +2246,9 @@ Tel: +39 02 00704500
 
 ## Κύπρος
 
-Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305
+Αλέκτωρ Φαρµακευτική Λτδ
+
+Τηλ: +357 22490305
 
 ## Latvija
 
@@ -1338,14 +2261,6 @@ Tel: +371 67377100
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ---------------------------------------------------------------------------------------------------------------------------
-
-## Malta
-
-Associated Drug Co. Ltd Tel: +356 2277 8000
-
-## Nederland
-
-AstraZeneca BV Tel: +31 85 808 9900
 
 ## Norge
 
@@ -1367,11 +2282,15 @@ Tel.: +48 22 245 73 00
 
 ## Portugal
 
-Tecnimede - Sociedade Técnico-Medicinal, S.A. Tel: +351 21 041 41 00
+Tecnimede - Sociedade Técnico-Medicinal, S.A.
+
+Tel: +351 21 041 41 00
 
 ## România
 
-AstraZeneca Pharma SRL Tel: +40 21 317 60 41
+AstraZeneca Pharma SRL
+
+Tel: +40 21 317 60 41
 
 ## Slovenija
 
@@ -1385,11 +2304,15 @@ Tel: +421 2 5737 7777
 
 ## Suomi/Finland
 
-AstraZeneca Oy Puh/Tel: +358 10 23 010
+AstraZeneca Oy
+
+Puh/Tel: +358 10 23 010
 
 ## Sverige
 
-AstraZeneca AB Tel: +46 8 553 26 000
+AstraZeneca AB
+
+Tel: +46 8 553 26 000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1405,7 +2328,7 @@ Pressurised inhalation, suspension Inhalation use
 
 ## Please read these instructions carefully.
 
-Your Riltrava Aerosphere (called 'inhaler' in this leaflet) may be different from inhalers you have used before.
+Your Riltrava Aerosphere (called \"inhaler\" in this leaflet) may be different from inhalers you have used before.
 
 ## Important information
 
@@ -1434,7 +2357,7 @@ Your Riltrava Aerosphere (called 'inhaler' in this leaflet) may be different fro
 
 <!-- image -->
 
-- Do not try to take a puff when the pointer is at 0 because you will not receive a full dose.
+## Do not try to take a puff when the pointer is at 0 because you will not receive a full dose.
 
 ## Ordering a new inhaler
 
@@ -1450,9 +2373,11 @@ or
 
 - 3 months after your inhaler has been removed from the foil pouch
 
-Do not reuse or use the actuator with medicine canisters from other inhalers. Do not puncture or throw the canister into a fire or incinerator.
+Do not reuse or use the actuator with medicine canisters from other inhalers.
 
-## BEFORE FIRST USE -Prime your inhaler 4 times before first use
+Do not puncture or throw the canister into a fire or incinerator.
+
+## BEFORE FIRST USE - Prime your inhaler 4 times before first use
 
 - Before you use your inhaler for the first time, prime it so that you will get the right amount of medicine when you use it.
 
@@ -1462,7 +2387,7 @@ Do not reuse or use the actuator with medicine canisters from other inhalers. Do
 
 ## Prime 2
 
-Shake the inhaler well and spray 1 Test-puff into the air facing away from you. Repeat for a total of 4 Test-puffs , shaking before each Test-puff.
+Shake the inhaler well and spray 1 Test-puff into the air facing away from you. Repeat for a total of 4 Test-puffs, shaking before each Test-puff.
 
 x4 total Shake and Test-puffs
 
@@ -1476,11 +2401,11 @@ x4 total Shake and Test-puffs
 - if dropped
 - if not used for more than 7 days
 
-To re-prime, spray 2 Test-puffs , shaking before each Test-puff.
+To re-prime, spray 2 Test-puffs, shaking before each Test-puff.
 
 x2 total Shake and Test-puffs
 
-## DAILY USE, morning &amp; evening -Inhale your medicine
+## DAILY USE, morning &amp; evening - Inhale your medicine
 
 - Daily Dose: 2 puffs in the morning and 2 puffs in the evening.
 - Rinse mouth with water after the 2 puffs to prevent fungal infection.
@@ -1491,31 +2416,51 @@ Remove mouthpiece cover. Check the mouthpiece for foreign objects and remove obj
 
 <!-- image -->
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
-| Step 2                                   | Step 2             | Step 2                                                                                                                           | Step 2                                                                                                         | Step 2                                                |
-|------------------------------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| Shake the inhaler well before each puff. | Breathe out fully. | Place mouthpiece into mouth and close lips around the mouthpiece. Tilt your head back, keeping your tongue below the mouthpiece. | Start to breathe in deeply and slowly while spraying 1 puff . Continue breathing in until you cannot any more. | Hold breath for as long as you can, up to 10 seconds. |
+<!-- image -->
 
 <!-- image -->
 
-## WEEKLY RINSE -Rinse your actuator once a week
+<!-- image -->
+
+<!-- image -->
+
+| Step 2                                   | Step 2             | Step 2                                                                                                                           | Step 2                                                                                                        | Step 2                                                       |
+|------------------------------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Shake the inhaler well before each puff. | Breathe out fully. | Place mouthpiece into mouth and close lips around the mouthpiece. Tilt your head back, keeping your tongue below the mouthpiece. | Start to breathe in deeply and slowly while spraying 1 puff. Continue breathing in until you cannot any more. | Hold breath for as long as you can, up to 10 seconds. 10 sec |
+
+| Step 3                          | Step 4                        | Step 5                                                  |
+|---------------------------------|-------------------------------|---------------------------------------------------------|
+| Repeat Step 2 for a second puff | Put mouthpiece cover back on. | Rinse mouth with water. Spit out water. Do not swallow. |
+
+## WEEKLY RINSE - Rinse your actuator once a week
 
 - Rinse yellow actuator weekly so that medicine does not build up and block the spray through the mouthpiece.
 - Do not allow the canister to get wet.
 - Re-prime after rinsing.
 
-<!-- image -->
-
 | Rinse 1                                                              | Rinse 2                  |
 |----------------------------------------------------------------------|--------------------------|
 | Remove canister and set aside. Do not allow the canister to get wet. | Remove mouthpiece cover. |
 
+<!-- image -->
+
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
+
+## Rinse 3
+
+## Rinse 4
+
+Run warm water through the mouthpiece for 30 seconds and then through the top of the actuator for 30 seconds. Rinse for 60 seconds in total.
+
+<!-- image -->
+
+Shake off as much water as you can.
 
 <!-- image -->
 
@@ -1529,12 +2474,597 @@ Remove mouthpiece cover. Check the mouthpiece for foreign objects and remove obj
 
 ## Rinse 7
 
+## Rinse 8
+
 When dry, replace the mouthpiece cover first and then gently press the canister down into the actuator.
 
 <!-- image -->
 
-## Rinse 8
-
 Re-prime the inhaler by spraying 2 Test-puffs, shaking before each Test-puff.
 
 x2 total Shake and Test-puffs
+
+Do not dry with a towel or tissue.
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
+
+## Riltrava Aerosphere 5 micrograms/14.4 micrograms/160 micrograms, pressurised inhalation, suspension
+
+formoterol fumarate dihydrate/glycopyrronium/budesonide
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Riltrava Aerosphere is and what it is used for
+2. What you need to know before you use Riltrava Aerosphere
+3. How to use Riltrava Aerosphere
+4. Possible side effects
+5. How to store Riltrava Aerosphere
+6. Contents of the pack and other information
+7. Instructions for use
+
+## 1. What Riltrava Aerosphere is and what it is used for
+
+Riltrava Aerosphere contains three active substances: formoterol fumarate dihydrate, glycopyrronium, and budesonide.
+
+- Formoterol fumarate dihydrate and glycopyrronium belong to a group of medicines called 'bronchodilators'. They work in different ways to prevent tightening of the muscles around the airways, making it easier for air to get in and out of the lungs.
+- Budesonide belongs to a group of medicines called 'corticosteroids'. These work by reducing inflammation in your lungs.
+
+Riltrava Aerosphere is an inhaler that is used for patients 12 years of age and older for the regular treatment of a lung disease called 'asthma.'
+
+Riltrava Aerosphere can reduce and prevent flare-ups (exacerbations) of asthma. Asthma is a serious, long-term lung disease where the muscles around the smaller airways become tight (bronchoconstriction) and inflamed. Symptoms come and go and include shortness of breath, wheezing, chest tightness and cough.
+
+You should use Riltrava Aerosphere every day and not only when you have breathing problems or other symptoms of asthma. This will ensure that it controls your asthma properly. Do not use this medicine to relieve a sudden attack of breathlessness or wheezing.
+
+## 2. What you need to know before you use Riltrava Aerosphere
+
+## Do not use Riltrava Aerosphere
+
+- if you are allergic to formoterol fumarate dihydrate, glycopyrronium, budesonide or any of the other ingredients of this medicine (listed in section 6).
+
+<div style=\"page-break-after: always\"></div>
+
+## Warnings and precautions
+
+Riltrava Aerosphere is used as a long-term maintenance treatment for asthma. Do not use it to treat a sudden attack of breathlessness or wheezing.
+
+## Immediate breathing difficulties
+
+If you get tightness of the chest, coughing, wheezing or breathlessness immediately after using Riltrava Aerosphere, stop using it and tell your doctor straight away (see 'Serious side effects' at the top of Section 4 for more information).
+
+If your breathlessness, tightness of the chest, wheezing or coughing is getting worse while using Riltrava Aerosphere, you should continue to use Riltrava Aerosphere but contact your doctor as soon as possible, as you may need additional treatment.
+
+## Talk to your doctor before using Riltrava Aerosphere if:
+
+- you have high blood pressure or heart problems
+- you have diabetes
+- you have a lung infection
+- you have problems with your thyroid gland
+- you have low levels of potassium in your blood
+- you have prostate problems or any problems passing urine
+- you have an eye problem called 'angle-closure glaucoma'
+- you have kidney or liver problems.
+
+Talk to your doctor if you think any of these may apply to you.
+
+## Children and adolescents
+
+Do not give Riltrava Aerosphere to children below 12 years of age because it has not been studied in this age group.
+
+## Other medicines and Riltrava Aerosphere
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription, and herbal medicines. This is because Riltrava Aerosphere can affect the way some medicines work. Also some medicines can affect how Riltrava Aerosphere works, or make it more likely that you will have side effects.
+
+Tell your doctor or pharmacist if you are taking any of the following:
+
+- medicines called beta-blockers (such as atenolol or propranolol), that may be used for high blood pressure or heart problems, or to treat glaucoma (such as timolol)
+- medicines which are used to treat fungal infections - such as ketoconazole or itraconazole
+- medicines which are used to treat HIV infection - such as ritonavir or cobicistat
+- medicines that lower the amount of potassium in your blood, such as:
+- corticosteroids that you take by mouth (such as prednisolone),
+- diuretics - medicines that increase urine production (such as furosemide or hydrochlorothiazide), which can be used for treating high blood pressure,
+- some medicines used to treat breathing problems (such as theophylline) - called 'methylxanthines',
+- any medicines that work in the same way as Riltrava Aerosphere - such as tiotropium, ipratropium, aclidinium, umeclidinium or salmeterol, arformoterol, vilanterol, olodaterol or indacaterol. Do not use Riltrava Aerosphere if you already use these medicines.
+- medicines which are used to treat heart rhythm problems - such as amiodarone
+- medicines which can change some electrical activity of the heart (called the 'QT interval') - such as medicines for:
+- depression (such as monoamine oxidase inhibitors or tricyclic antidepressants),
+- bacterial infections (such as erythromycin, clarithromycin or telithromycin),
+- allergic reactions (anti-histamines).
+
+<div style=\"page-break-after: always\"></div>
+
+If any of the above applies to you, or if you are not sure, talk to your doctor or pharmacist before using Riltrava Aerosphere.
+
+## Pregnancy and breast-feeding
+
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+
+Do not use Riltrava Aerosphere if you are pregnant unless your doctor tells you that you can.
+
+Do not use this medicine if you are breast-feeding unless your doctor tells you that you can.
+
+## Driving and using machines
+
+It is unlikely that this medicine will affect your ability to drive or use machines. However, dizziness is an uncommon side effect which should be taken into account when driving or using machines.
+
+## 3. How to use Riltrava Aerosphere
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
+
+## How much to use
+
+The recommended dose is two puffs twice a day - two puffs in the morning and two puffs in the evening.
+
+It is important to use Riltrava Aerosphere every day - even when your asthma is not troubling you.
+
+Remember: Always rinse your mouth with water after using Riltrava Aerosphere. This is to remove any medicine which is left in the mouth. Spit this water out - do not swallow.
+
+## How to use
+
+Riltrava Aerosphere is for inhalation use.
+
+Please read the 'Instructions for Use' at the end of this leaflet. If you are not sure how to use Riltrava Aerosphere, talk to your doctor or pharmacist.
+
+## Using Riltrava Aerosphere with a spacer
+
+You may find it difficult breathing in and pressing the inhaler at the same time. If this happens, talk to your doctor or pharmacist. It may help to use a 'spacer' with your inhaler.
+
+## If you use more Riltrava Aerosphere than you should
+
+If you have used more Riltrava Aerosphere than you should, talk to a doctor or pharmacist straight away. You may need medical attention. You may notice that your heart is beating faster than usual, you feel shaky, you have problems with your sight, you have a dry mouth or you have a headache or feel sick (nausea).
+
+## If you forget to use Riltrava Aerosphere
+
+Do not take a double dose to make up for a forgotten dose. Take it as soon as you remember.
+
+However, if it is nearly time for your next dose, skip the missed dose. Do not take more than two puffs twice a day on the same day.
+
+## If you stop using Riltrava Aerosphere
+
+This medicine is for long-term use. Use this medicine for as long as your doctor tells you to. It will only be effective as long as you are using it.
+
+Do not stop unless your doctor tells you to - even if you feel better - as your symptoms may get worse. If you want to stop treatment, talk to your doctor first.
+
+<div style=\"page-break-after: always\"></div>
+
+If you have any further questions on the use of this medicine, talk to your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them. The following side effects may happen with this medicine:
+
+## Serious side effects
+
+Uncommon (may affect up to 1 in 100 people)
+
+## Immediate breathing difficulties:
+
+- if you get breathing difficulties straight after using Riltrava Aerosphere, such as tightness of the chest, coughing, wheezing or feeling breathless, stop using this medicine and tell your doctor straight away.
+
+## Allergic reactions:
+
+- swelling of your face, particularly around your mouth (swelling of your tongue or throat may make it difficult to swallow)
+- rash or hives together with difficulty breathing
+- suddenly feeling faint
+
+These symptoms may be signs of an allergic reaction which may become serious. Stop using this medicine and call for medical help straight away if you notice the serious side effects above.
+
+## Other side effects
+
+Tell your doctor or pharmacist if you notice any of the following side effects:
+
+Common (may affect up to 1 in 10 people)
+
+- thrush in the mouth (a fungal infection). Rinsing your mouth out with water immediately after using Riltrava Aerosphere may help prevent this.
+- feeling anxious
+- difficulty sleeping
+- feeling sick (nausea)
+- headache
+- coughing or a hoarse voice
+- muscle cramps
+- awareness of your heart beating (palpitations)
+- high blood sugar levels (as shown in tests)
+- painful and frequent urination (may be signs of a urinary tract infection)
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- shaking, tremor or feeling dizzy
+- dry mouth, or mild irritation in the throat
+- bruising of the skin
+- feeling restless, nervous or agitated
+- depression
+- fast heartbeat or uneven heartbeat
+- chest pain or tightening in the chest (angina pectoris)
+- difficulties passing urine
+
+## Very rare (may affect up to 1 in 10 000 people)
+
+- changes in behaviour
+- an effect on the adrenal gland
+
+<div style=\"page-break-after: always\"></div>
+
+Not known (frequency cannot be estimated from the available data):
+
+- blurred vision
+- clouding of the lens of your eyes (signs of cataract)
+- increased pressure in the eye (glaucoma)
+- swelling of your face, particularly around your mouth (swelling of your tongue or throat may make it difficult to swallow)
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Riltrava Aerosphere
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use Riltrava Aerosphere after the expiry date which is stated on the carton, pouch and pressurised container after 'EXP'. The expiry date refers to the last day of that month. After opening the pouch, the inhaler must be used within 3 months.
+
+Keep the inhaler inside the sealed pouch - only remove the inhaler from the sealed pouch immediately before first use. On the day the pouch is opened, write the date on the inhaler label in the space provided.
+
+Do not store above 30 °C. Store in a dry place.
+
+For best results, the inhaler should be at room temperature before you use it.
+
+Do not break, puncture or burn the pressurised container, even when apparently empty. Do not use or store near heat or open flames.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Riltrava Aerosphere contains
+
+The active substances are formoterol fumarate dihydrate, glycopyrronium and budesonide.
+
+Each single inhalation provides a delivered dose (the dose leaving the mouthpiece) of 5 micrograms of formoterol fumarate dihydrate, 18 micrograms glycopyrronium bromide equivalent to 14.4 micrograms glycopyrronium and 160 micrograms of budesonide.
+
+This corresponds to a metered dose (i.e. the dose leaving the valve) of 5.3 micrograms of formoterol fumarate dihydrate, glycopyrronium bromide 19.1 micrograms, equivalent to 15.3 micrograms of glycopyrronium, and budesonide 170 micrograms.
+
+The other ingredients are norflurane, 1,2-distearoyl-sn-glycero-3-phosphocholine and calcium chloride.
+
+This medicine contains fluorinated greenhouse gases. Each inhaler contains 10.6 g of norflurane (HFC-134a) corresponding to 0.015 tonne CO2 equivalent (global warming potential GWP=1 430). Norflurane is a propellant that delivers the puffs of this medicine to your lungs.
+
+<div style=\"page-break-after: always\"></div>
+
+## What Riltrava Aerosphere looks like and contents of the pack
+
+Riltrava Aerosphere is a pressurised inhalation, suspension.
+
+Riltrava Aerosphere comes as a canister with a dose indicator, supplied with a yellow plastic actuator body and mouthpiece. The mouthpiece is covered with a removable grey protective cap.
+
+Riltrava Aerosphere is supplied in a foil pouch that contains a drying packing (desiccant) and packed into a carton.
+
+Riltrava Aerosphere is available in packs containing 1 inhaler with 120 puffs, and in multipacks comprising 3 cartons, each containing 1 inhaler with 120 puffs. Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder
+
+AstraZeneca AB SE-151 85 Södertälje Sweden
+
+## Manufacturer
+
+AstraZeneca Dunkerque Production
+
+224 Avenue de la Dordogne 59640 Dunkerque
+
+France
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+AstraZeneca S.A./N.V.
+
+Tel: +32 2 370 48 11
+
+## България
+
+АстраЗенека България ЕООД
+
+Тел.: +359 24455000
+
+## Česká republika
+
+AstraZeneca Czech Republic s.r.o.
+
+Tel: +420 222 807 111
+
+## Danmark
+
+AstraZeneca A/S
+
+Tlf.: +45 43 66 64 62
+
+## Deutschland
+
+AstraZeneca GmbH
+
+Tel: +49 40 809034100
+
+## Eesti
+
+AstraZeneca
+
+Tel: +372 6549 600
+
+## Ελλάδα
+
+## Lietuva
+
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
+
+## Luxembourg/Luxemburg
+
+AstraZeneca S.A./N.V.
+
+Tél/Tel: +32 2 370 48 11
+
+## Magyarország
+
+AstraZeneca Kft.
+
+Tel.: +36 1 883 6500
+
+## Malta
+
+Associated Drug Co. Ltd
+
+Tel: +356 2277 8000
+
+## Nederland
+
+AstraZeneca BV
+
+Tel: +31 85 808 9900
+
+## Norge
+
+AstraZeneca AS
+
+Tlf: +47 21 00 64 00
+
+## Österreich
+
+AstraZeneca A.E.
+
+Τηλ: +30 210 6871500
+
+AstraZeneca Österreich GmbH
+
+Tel: +43 1 711 31 0
+
+<div style=\"page-break-after: always\"></div>
+
+## España
+
+AstraZeneca Farmacéutica Spain, S.A. Tel: +34 91 301 91 00
+
+## France
+
+AstraZeneca Tél: +33 1 41 29 40 00
+
+## Hrvatska
+
+AstraZeneca d.o.o. Tel: +385 1 4628 000
+
+## Ireland
+
+AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
+
+## Ísland
+
+## Polska
+
+AstraZeneca Pharma Poland Sp. z o.o.
+
+Tel.: +48 22 245 73 00
+
+## Portugal
+
+Tecnimede - Sociedade Técnico-Medicinal, S.A. Tel: +351 21 041 41 00
+
+## România
+
+AstraZeneca Pharma SRL Tel: +40 21 317 60 41
+
+## Slovenija
+
+AstraZeneca UK Limited
+
+Tel: +386 1 51 35 600
+
+## Slovenská republika
+
+Vistor
+
+Sími: +354 535 7000
+
+AstraZeneca AB, o.z. Tel: +421 2 5737 7777
+
+## Italia
+
+## Suomi/Finland
+
+AstraZeneca S.p.A.
+
+Tel: +39 02 00704500
+
+AstraZeneca Oy
+
+Puh/Tel: +358 10 23 010
+
+## Κύπρος
+
+## Sverige
+
+Αλέκτωρ Φαρµακευτική Λτδ
+
+Τηλ: +357 22490305
+
+AstraZeneca AB
+
+Tel: +46 8 553 26 000
+
+## Latvija
+
+SIA AstraZeneca Latvija
+
+Tel: +371 67377100
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+<div style=\"page-break-after: always\"></div>
+
+## Read prior to using inhaler
+
+## INSTRUCTIONS FOR USE
+
+## RILTRAVA AEROSPHERE
+
+formoterol fumarate dihydrate/glycopyrronium/budesonide
+
+Pressurised inhalation, suspension Inhalation use
+
+## Please read these instructions carefully.
+
+Your Riltrava Aerosphere (called \"inhaler\" in this leaflet) may be different from inhalers you have used before.
+
+## Important information
+
+- For oral inhalation use only.
+- Prepare your inhaler for its first time use by priming it.
+- Rinse your yellow actuator weekly.
+- Take 2 puffs of medicine in the morning and 2 puffs of medicine in the evening.
+
+## Storing your inhaler
+
+- Do not store above 30 °C. Store in a dry place.
+- Do not store in a humid environment, such as a bathroom.
+- Keep your inhaler and all medicines out of the sight and reach of children.
+
+## Parts of your inhaler
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Reading the puff indicator
+
+- The puff indicator will count down by 1 each time you spray a puff of medicine.
+
+## Pointer
+
+<!-- image -->
+
+## Do not try to take a puff when the pointer is at 0 because you will not receive a full dose.
+
+## Ordering a new inhaler
+
+- Order a new inhaler when the pointer on the puff indicator is in the yellow zone.
+
+## Throwing away your inhaler
+
+Throw away your inhaler following local guidelines when:
+
+- puff indicator shows 0
+
+or
+
+- 3 months after your inhaler has been removed from the foil pouch
+
+Do not reuse or use the actuator with medicine canisters from other inhalers.
+
+Do not puncture or throw the canister into a fire or incinerator.
+
+## BEFORE FIRST USE - Prime your inhaler 4 times before first use
+
+- Before you use your inhaler for the first time, prime it so that you will get the right amount of medicine when you use it.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Prime 2
+
+Shake the inhaler well and spray 1 Test-puff into the air facing away from you. Repeat for a total of 4 Test-puffs, shaking before each Test-puff.
+
+x4 total Shake and Test-puffs
+
+<!-- image -->
+
+- Extra puffs are provided for priming. Do not skip priming.
+
+## Re-prime your inhaler:
+
+- after rinsing the actuator
+- if dropped
+- if not used for more than 7 days
+
+To re-prime, spray 2 Test-puffs, shaking before each Test-puff.
+
+x2 total Shake and Test-puffs
+
+## DAILY USE, morning &amp; evening - Inhale your medicine
+
+- Daily Dose: 2 puffs in the morning and 2 puffs in the evening.
+- Rinse mouth with water after the 2 puffs to prevent fungal infection.
+
+## Step 1
+
+Remove mouthpiece cover. Check the mouthpiece for foreign objects and remove objects before use.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+| Step 2                                   | Step 2             | Step 2                                                            | Step 2                                                                                                        | Step 2                                                       |
+|------------------------------------------|--------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Shake the inhaler well before each puff. | Breathe out fully. | Place mouthpiece into mouth and close lips around the mouthpiece. | Start to breathe in deeply and slowly while spraying 1 puff. Continue breathing in until you cannot any more. | Hold breath for as long as you can, up to 10 seconds. 10 sec |
+
+| Step 3                          | Step 4                        | Step 5                                                  |
+|---------------------------------|-------------------------------|---------------------------------------------------------|
+| Repeat Step 2 for a second puff | Put mouthpiece cover back on. | Rinse mouth with water. Spit out water. Do not swallow. |
+
+## WEEKLY RINSE - Rinse your actuator once a week
+
+- Rinse yellow actuator weekly so that medicine does not build up and block the spray through the mouthpiece.
+- Do not allow the canister to get wet.
+- Re-prime after rinsing.
+
+| Rinse 1                                                              | Rinse 2                  |
+|----------------------------------------------------------------------|--------------------------|
+| Remove canister and set aside. Do not allow the canister to get wet. | Remove mouthpiece cover. |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+| Rinse 5                                                                                                                | Rinse 6                                                                                           |
+|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Look into the actuator and mouthpiece for medicine build-up. If there is any build-up, repeat steps Rinse 3 through 5. | Air-dry, preferably overnight. Do not put the canister back into the actuator if it is still wet. |
+
+<!-- image -->
+
+<!-- image -->
+
+| Rinse 7                                                                                                 | Rinse 8                                                                                                     |
+|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| When dry, replace the mouthpiece cover first and then gently press the canister down into the actuator. | Re-prime the inhaler by spraying 2 Test-puffs, shaking before each Test-puff. x2 total Shake and Test-puffs |

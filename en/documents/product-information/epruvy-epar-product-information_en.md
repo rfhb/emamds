@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-14 11:15:11
-document_pages: 80
+document_datetime: 2026-10-01 15:38:52
+document_pages: 82
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/epruvy-epar-product-information_en.pdf
 document_name: epruvy-epar-product-information_en.pdf
 version: success
-processing_time: 32.6504546
-conversion_datetime: 2025-12-20 18:07:01.516247
+processing_time: 103.3666953
+conversion_datetime: 2026-10-04 15:34:28.489578
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -66,7 +66,7 @@ Epruvy must be administered by a qualified ophthalmologist experienced in intrav
 
 Posology
 
-## Adults
+Adults
 
 The recommended dose for Epruvy in adults is 0.5 mg given as a single intravitreal injection. This corresponds to an injection volume of 0.05 ml. The interval between two doses injected into the same eye should be at least four weeks.
 
@@ -86,7 +86,9 @@ The treatment of visual impairment due to CNV should be determined individually 
 
 Ranibizumab and laser photocoagulation in DME and in macular oedema secondary to BRVO There is some experience of ranibizumab administered concomitantly with laser photocoagulation (see section 5.1). When given on the same day, Epruvy should be administered at least 30 minutes after laser photocoagulation. Epruvy can be administered in patients who have received previous laser photocoagulation.
 
-Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM There is no experience of concomitant administration of ranibizumab and verteporfin.
+## Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM
+
+There is no experience of concomitant administration of ranibizumab and verteporfin.
 
 ## Special populations
 
@@ -146,11 +148,9 @@ Intravitreous injections, including those with ranibizumab, have been associated
 
 In adults transient increases in intraocular pressure (IOP) have been seen within 60 minutes of injection of ranibizumab. Sustained IOP increases have also been identified (see section 4.8). Both intraocular pressure and the perfusion of the optic nerve head must be monitored and managed appropriately.
 
-Patients should be informed of the symptoms of these potential adverse reactions and instructed to inform their physician if they develop signs such as eye pain or increased discomfort, worsening eye
+Patients should be informed of the symptoms of these potential adverse reactions and instructed to inform their physician if they develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in their vision, or increased sensitivity to light (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
-
-redness, blurred or decreased vision, an increased number of small particles in their vision, or increased sensitivity to light (see section 4.8).
 
 ## Bilateral treatment
 
@@ -214,7 +214,7 @@ In clinical studies for the treatment of visual impairment due to DME, the outco
 
 ## 4.6 Fertility, pregnancy and lactation
 
-## Women of childbearing potential/contraception in females
+Women of childbearing potential/contraception in females
 
 Women of childbearing potential should use effective contraception during treatment.
 
@@ -248,11 +248,11 @@ The most frequently reported non-ocular adverse reactions are headache, nasophar
 
 Less frequently reported, but more serious, adverse reactions include endophthalmitis, blindness, retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.4).
 
-The  adverse  reactions  experienced  following  administration  of  ranibizumab  in  clinical  studies  are summarised in the table below.
+The adverse reactions experienced following administration of ranibizumab in clinical studies are summarised in the table below.
 
 ## Tabulated list of adverse reactions #
 
-The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (frequency cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | Infections and infestations   | Infections and infestations   |
 |-------------------------------|-------------------------------|
@@ -263,47 +263,17 @@ The adverse reactions are listed by system organ class and frequency using the f
 |----------------------------------------|----------------------------------------|
 | Common                                 | Anaemia                                |
 
-| Immune system disorders   | Immune system disorders   |
-|---------------------------|---------------------------|
-| Common                    | Hypersensitivity          |
+| Immune system disorders   |                  |
+|---------------------------|------------------|
+| Common                    | Hypersensitivity |
 
-| Nervous system disorders   | Nervous system disorders   |
-|----------------------------|----------------------------|
-| Very common                | Headache                   |
+| Psychiatric disorders   |         |
+|-------------------------|---------|
+| Common                  | Anxiety |
 
-## Infections and infestations
-
-Very common
-
-Nasopharyngitis
-
-Common
-
-Urinary tract infection*
-
-## Blood and lymphatic system disorders
-
-Common
-
-Anaemia
-
-Immune system disorders
-
-Common
-
-Hypersensitivity
-
-Psychiatric disorders
-
-Common
-
-Anxiety
-
-Nervous system disorders
-
-Very common
-
-Headache
+| Nervous system disorders   |          |
+|----------------------------|----------|
+| Very common                | Headache |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -312,52 +282,41 @@ Headache
 | Very common     | Vitritis, vitreous detachment, retinal haemorrhage, visual disturbance, eye pain, vitreous floaters, conjunctival haemorrhage, eye irritation, foreign body sensation in eyes, lacrimation increased, blepharitis, dry eye, ocular hyperaemia, eye pruritus.                                                                                                                                                                                                                                                                                                                                                  |
 | Common          | Retinal degeneration, retinal disorder, retinal detachment, retinal tear, detachment of the retinal pigment epithelium, retinal pigment epithelium tear, visual acuity reduced, vitreous haemorrhage, vitreous disorder, uveitis, iritis, iridocyclitis, cataract, cataract subcapsular, posterior capsule opacification, punctuate keratitis, corneal abrasion, anterior chamber flare, vision blurred, injection site haemorrhage, eye haemorrhage, conjunctivitis, conjunctivitis allergic, eye discharge, photopsia, photophobia, ocular discomfort, eyelid oedema, eyelid pain, conjunctival hyperaemia. |
 | Uncommon        | Blindness, endophthalmitis, hypopyon, hyphaema, keratopathy, iris adhesion, corneal deposits, corneal oedema, corneal striae, injection site pain, injection site irritation, abnormal sensation in eye, eyelid irritation.                                                                                                                                                                                                                                                                                                                                                                                   |
+| Not known       | Retinal vasculitis**, retinal occlusive vasculitis**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ## Respiratory, thoracic and mediastinal disorders
 
-Common
+Common Cough
 
 ## Gastrointestinal disorders
 
-Common
-
-Cough
-
-Nausea
+Common Nausea
 
 ## Skin and subcutaneous tissue disorders
 
-Common
-
-Allergic reactions (rash, urticaria, pruritus, erythema)
+Common Allergic reactions (rash, urticaria, pruritus, erythema)
 
 ## Musculoskeletal and connective tissue disorders
 
-Very common
+Very common Arthralgia
 
 ## Investigations
 
-Very common
+Very common Intraocular pressure increased
 
-Arthralgia
-
-Intraocular pressure increased
-
-#  Adverse reactions were defined as adverse events (in at least 0.5 percentage points of patients) which occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with ranibizumab 0.5 mg than in those receiving control treatment (sham or verteporfin PDT).
+# Adverse reactions were defined as adverse events (in at least 0.5 percentage points of patients) which occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with ranibizumab 0.5 mg than in those receiving control treatment (sham or verteporfin PDT).
 
 * observed only in DME population
+
+** from post-marketing reporting
 
 ## Product-class-related adverse reactions
 
 In the wet AMD phase III studies, the overall frequency of non-ocular haemorrhages, an adverse event potentially related to systemic VEGF (vascular endothelial growth factor) inhibition, was slightly increased in ranibizumab-treated patients. However, there was no consistent pattern among the different haemorrhages. There is a theoretical risk of arterial thromboembolic events, including stroke and myocardial infarction, following intravitreal use of VEGF inhibitors. A low incidence rate of arterial thromboembolic events was observed in the ranibizumab clinical studies in patients with AMD, DME, PDR, RVO and CNV and there were no major differences between the groups treated with ranibizumab compared to control.
 
-## Reporting of suspected adverse reactions
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting of suspected adverse reactions Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -391,23 +350,64 @@ Key outcome measures are summarised in Table 1 and Figure 1.
 
 Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g (ANCHOR)
 
-|                                                                                      |          | FVF2598g (MARINA)   | FVF2598g (MARINA)          | FVF2587g (ANCHOR)       | FVF2587g (ANCHOR)          |
-|--------------------------------------------------------------------------------------|----------|---------------------|----------------------------|-------------------------|----------------------------|
-| Outcome measure                                                                      | Month    | Sham (n=238)        | Ranibizumab 0.5 mg (n=240) | Verteporfin PDT (n=143) | Ranibizumab 0.5 mg (n=140) |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                 | 95%                        | 64%                     | 96%                        |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                 | 90%                        | 66%                     | 90%                        |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                  | 34%                        | 6%                      | 40%                        |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                  | 33%                        | 6%                      | 41%                        |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5 (16.6)        | +7.2 (14.4)                | -9.5 (16.4)             | +11.3 (14.6)               |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                | -9.8 (17.6)             | +10.7 (16.5)               |
+| Outcome measure                                                                      | Month    | FVF2598g (MARINA) - Sham (n=238)   | FVF2598g (MARINA) - Ranibizumab 0.5 mg (n=240)   | FVF2587g (ANCHOR) - Verteporfin PDT (n=143)   | FVF2587g (ANCHOR) - Ranibizumab 0.5 mg (n=140)   |
+|--------------------------------------------------------------------------------------|----------|------------------------------------|--------------------------------------------------|-----------------------------------------------|--------------------------------------------------|
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                                | 95%                                              | 64%                                           | 96%                                              |
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                                | 90%                                              | 66%                                           | 90%                                              |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                                 | 34%                                              | 6%                                            | 40%                                              |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                                 | 33%                                              | 6%                                            | 41%                                              |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5 (16.6)                       | +7.2 (14.4)                                      | -9.5 (16.4)                                   | +11.3 (14.6)                                     |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)                       | +6.6 (16.5)                                      | -9.8 (17.6)                                   | +10.7 (16.5)                                     |
 
-a  p&lt;0.01
+a p&lt;0.01
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598g (MARINA) and study FVF2587g (ANCHOR)
 
-<!-- image -->
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+Study FVF2598g (MARINA)
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+22
+
+24
+
+Month
 
 <!-- image -->
 
@@ -416,6 +416,20 @@ Results from both trials indicated that continued ranibizumab treatment may also
 Statistically significant patient-reported visual functioning benefits were observed in both MARINA and ANCHOR with ranibizumab treatment over the control group as measured by the NEI VFQ-25.
 
 In study FVF3192g (PIER), 184 patients with all forms of neovascular AMD were randomised in a 1:1:1 ratio to receive ranibizumab 0.3 mg, ranibizumab 0.5 mg or sham injections once a month for 3 consecutive doses, followed by a dose administered once every 3 months. From Month 14 of the study, sham-treated patients were allowed to receive ranibizumab and from Month 19, more frequent treatments were possible. Patients treated with ranibizumab in PIER received a mean of 10 total treatments.
+
+3S
+
++1
+
+Mean change in visual acuity
+
+(letters)
+
++6.6
+
+-14.9
+
++21.5
 
 <div style=\"page-break-after: always\"></div>
 
@@ -427,8 +441,8 @@ Data from two studies (MONT BLANC, BPD952A2308 and DENALI, BPD952A2309) conducte
 
 The clinical safety and efficacy of ranibizumab in patients with visual impairment due to CNV in PM have been assessed based on the 12-month data of the double-masked, controlled pivotal study F2301 (RADIANCE). In this study 277 patients were randomised in a 2:2:1 ratio to the following arms:
 
-- Group I (ranibizumab 0.5 mg, dosing regimen driven by 'stability' criteria defined as no change in BCVA compared to two preceding monthly evaluations).
-- Group II (ranibizumab 0.5 mg, dosing regimen driven by 'disease activity' criteria defined as vision impairment attributable to intra- or subretinal fluid or active leakage due to the CNV lesion as assessed by optical coherence tomography and/or fluorescence angiography).
+- Group I (ranibizumab 0.5 mg, dosing regimen driven by \"stability\" criteria defined as no change in BCVA compared to two preceding monthly evaluations).
+- Group II (ranibizumab 0.5 mg, dosing regimen driven by \"disease activity\" criteria defined as vision impairment attributable to intra- or subretinal fluid or active leakage due to the CNV lesion as assessed by optical coherence tomography and/or fluorescence angiography).
 - Group III (vPDT - patients were allowed to receive ranibizumab treatment as of Month 3).
 
 In Group II, which is the recommended posology (see section 4.2), 50.9% of patients required 1 or 2 injections, 34.5% required 3 to 5 injections and 14.7% required 6 to 12 injections over the 12-month study period. 62.9% of Group II patients did not require injections in the second 6 months of the study.
@@ -437,7 +451,7 @@ The key outcomes from RADIANCE are summarised in Table 2 and Figure 2.
 
 Table 2 Outcomes at Month 3 and 12 (RADIANCE)
 
-|                                                                                                                     | Group I Ranibizumab 0.5 mg 'vision stability' (n=105)   | Group II Ranibizumab 0.5 mg 'disease activity' (n=116)   | Group III vPDT b (n=55)   |
+|                                                                                                                     | Group I Ranibizumab 0.5 mg \"vision stability\" (n=105)   | Group II Ranibizumab 0.5 mg \"disease activity\" (n=116)   | Group III vPDT b (n=55)   |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|---------------------------|
 | Month 3                                                                                                             |                                                         |                                                          |                           |
 | Mean average BCVA change from Month 1 to Month 3 compared to baseline a (letters)                                   | +10.5                                                   | +10.6                                                    | +2.2                      |
@@ -448,10 +462,6 @@ Table 2 Outcomes at Month 3 and 12 (RADIANCE)
 | Median                                                                                                              | 4.0                                                     | 2.5                                                      | N/A                       |
 | Mean average BCVA change from Month 1 to Month 12 compared to baseline (letters) Proportion of patients who gained: | +12.8                                                   | +12.5                                                    | N/A                       |
 | ≥15 letters, or reached ≥84 letters in BCVA                                                                         | 53.3%                                                   | 51.7%                                                    | N/A                       |
-
-a  p&lt;0.00001 comparison with vPDT control
-
-b  Comparative control up to Month 3. Patients randomised to vPDT were allowed to receive ranibizumab treatment as of Month 3 (in Group III, 38 patients received ranibizumab as of Month 3)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -474,11 +484,9 @@ At Month 2, all patients received open-label treatment with ranibizumab as neede
 
 Key outcome measures from MINERVA are summarised in Table 3 and Figure 3. An improvement of vision was observed and was accompanied by a reduction in central subfield thickness over the 12month period.
 
-The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In
+The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
 
 <div style=\"page-break-after: always\"></div>
-
-the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
 
 Table 3 Outcomes at Month 2 (MINERVA)
 
@@ -489,13 +497,19 @@ Table 3 Outcomes at Month 2 (MINERVA)
 | Patients not losing >15 letters from baseline at Month 2                     | 99.2%                        | 94.7%         |
 | Reduction in CSFT b from baseline to Month 2 a                               | 77 μm                        | -9.8 μm       |
 
-a  One-sided p&lt;0.001 comparison with sham control
-
-b CSFT - central retinal subfield thickness
-
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
 <!-- image -->
+
+Treatment:
+
+Ranibizumab 0.5 mg (n=119)
+
+…………
+
+Sham (n=59)
+
+*Observed mean BCVA may differ from the Least Squares Mean BCVA (applicable only at Month 2)
 
 When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
 
@@ -508,11 +522,9 @@ Table 4 Treatment effect overall and across baseline aetiology subgroups
 | Overall                               |                                    9.9 |                                     178 |
 | Angioid streaks                       |                                   14.6 |                                      27 |
 | Post-inflammatory retinochoroidopathy |                                    6.5 |                                      28 |
-| Central serous chorioretinopathy      |                                    5   |                                      23 |
+| Central serous chorioretinopathy      |                                    5.0 |                                      23 |
 | Idiopathic chorioretinopathy          |                                   11.4 |                                      63 |
 | Miscellaneous aetiologies a           |                                   10.6 |                                      37 |
-
-a  encompasses different aetiologies of low frequency of occurrence not included in the other subgroups
 
 In the pivotal study G2301 (MINERVA), five adolescent patients aged 12 to 17 years with visual impairment secondary to CNV received open-label treatment with ranibizumab 0.5 mg at baseline followed by an individualised treatment regimen as for the adult population. BCVA improved from baseline to Month 12 in all five patients, ranging from 5 to 38 letters (mean of 16.6 letters). The improvement of vision was accompanied by a stabilisation or reduction in central subfield thickness over the 12-month period. The mean number of ranibizumab injections given in the study eye over 12 months was 3 (ranged from 2 to 5). Overall, ranibizumab treatment was well tolerated.
 
@@ -532,9 +544,9 @@ Figure 4 Mean change in visual acuity from baseline over time in study D2301 (RE
 
 <!-- image -->
 
-BL=baseline;SE=standarderrorofmean
+BL= baseline; SE= standard error of mean
 
-*Difference inleast square means,p&lt;0.0001/0.0004based on two-sided stratified Cochran-Mantel-Haenszel test
+Dit -- s -   b     test
 
 The effect at 12 months was consistent in most subgroups. However, subjects with a baseline BCVA &gt;73 letters and macular oedema with central retinal thickness &lt;300 μm did not appear to benefit from treatment with ranibizumab compared to laser photocoagulation.
 
@@ -554,7 +566,7 @@ Table 5 Outcomes at Month 12 in study D2301 (RESTORE) and at Month 36 in study D
 | Gain of ≥15 letters or BCVA ≥84 letters at Month 36 (%)                                                | 27.7                          | 30.1                                  | 21.6             |
 | Mean number of injections (Months 12-35)*                                                              | 6.8                           | 6.0                                   | 6.5              |
 
-a p&lt;0.0001 for comparisons of ranibizumab arms vs. laser arm. n in D2301-E1 (RESTORE Extension) is the number of patients with a value at both D2301 (RESTORE) baseline (Month 0) and at the Month 36 visit.
+n in D2301-E1 (RESTORE Extension) is the number of patients with a value at both D2301 (RESTORE) baseline (Month 0) and at the Month 36 visit.
 
 * The proportion of patients who did not require any ranibizumab treatment during the extension phase was 19%, 25% and 20% in the prior ranibizumab, prior ranibizumab + laser and prior laser groups, respectively.
 
@@ -604,18 +616,17 @@ At year 1, 41.8% of eyes experienced a ≥2-step improvement in the DRSS when tr
 
 Table 7 DRSS improvement or worsening of ≥2 or ≥3 steps at year 1 in Protocol S (LOCF Method)
 
-| Categorised change from baseline                                                                                                           | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Categorised change from baseline                                                                                                           | Ranibizumab 0.5 mg (N=189)                                                                                                                 | PRP (N=199)                                                                                                                                | Difference in proportion (%), CI                                                                                                           |
-| ≥2-step improvement                                                                                                                        | ≥2-step improvement                                                                                                                        | ≥2-step improvement                                                                                                                        | ≥2-step improvement                                                                                                                        |
-| n (%)                                                                                                                                      | 79 (41.8%)                                                                                                                                 | 29 (14.6%)                                                                                                                                 | 27.4 (18.9, 35.9)                                                                                                                          |
-| ≥3-step improvement                                                                                                                        | ≥3-step improvement                                                                                                                        | ≥3-step improvement                                                                                                                        | ≥3-step improvement                                                                                                                        |
-| n (%)                                                                                                                                      | 54 (28.6%)                                                                                                                                 | 6 (3.0%)                                                                                                                                   | 25.7 (18.9, 32.6)                                                                                                                          |
-| ≥2-step worsening                                                                                                                          | ≥2-step worsening                                                                                                                          | ≥2-step worsening                                                                                                                          | ≥2-step worsening                                                                                                                          |
-| n (%)                                                                                                                                      | 3 (1.6%)                                                                                                                                   | 23 (11.6%)                                                                                                                                 | -9.9 (-14.7, -5.2)                                                                                                                         |
-| ≥3-step worsening                                                                                                                          | ≥3-step worsening                                                                                                                          | ≥3-step worsening                                                                                                                          | ≥3-step worsening                                                                                                                          |
-| n (%)                                                                                                                                      | 1 (0.5%)                                                                                                                                   | 8 (4.0%)                                                                                                                                   | -3.4 (-6.3, -0.5)                                                                                                                          |
-| DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N=total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N=total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N=total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N=total number of study eyes. |
+| Categorised change from baseline                                                                                                             | Protocol S - Ranibizumab 0.5 mg (N=189)                                                                                                      | Protocol S - PRP (N=199)                                                                                                                     | Protocol S - Difference in proportion (%), CI                                                                                                |
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          |
+| n (%)                                                                                                                                        | 79 (41.8%)                                                                                                                                   | 29 (14.6%)                                                                                                                                   | 27.4 (18.9, 35.9)                                                                                                                            |
+| ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          |
+| n (%)                                                                                                                                        | 54 (28.6%)                                                                                                                                   | 6 (3.0%)                                                                                                                                     | 25.7 (18.9, 32.6)                                                                                                                            |
+| ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            |
+| n (%)                                                                                                                                        | 3 (1.6%)                                                                                                                                     | 23 (11.6%)                                                                                                                                   | -9.9 (-14.7, -5.2)                                                                                                                           |
+| ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            |
+| n (%)                                                                                                                                        | 1 (0.5%)                                                                                                                                     | 8 (4.0%)                                                                                                                                     | -3.4 (-6.3, -0.5)                                                                                                                            |
+| DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. |
 
 At year 1 in the ranibizumab-treated group in Protocol S, ≥2-step improvement in DRSS was consistent in eyes without DME (39.9%) and with baseline DME (48.8%).
 
@@ -633,30 +644,25 @@ Key outcome measures from BRAVO and CRUISE are summarised in Table 8 and Figures
 
 Table 8 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 
-|                                                                             | BRAVO                            | BRAVO                      | CRUISE                           | CRUISE                     |
-|-----------------------------------------------------------------------------|----------------------------------|----------------------------|----------------------------------|----------------------------|
-|                                                                             | Sham/ Ranibizumab 0.5 mg (n=132) | Ranibizumab 0.5 mg (n=131) | Sham/ Ranibizumab 0.5 mg (n=130) | Ranibizumab 0.5 mg (n=130) |
-| Mean change in visual acuity at Month 6 a (letters) (SD) (primary endpoint) | 7.3 (13.0)                       | 18.3 (13.2)                | 0.8 (16.2)                       | 14.9 (13.2)                |
-| Mean change in BCVA at Month 12 (letters) (SD)                              | 12.1 (14.4)                      | 18.3 (14.6)                | 7.3 (15.9)                       | 13.9 (14.2)                |
-| Gain of ≥15 letters in visual acuity at Month 6 a (%)                       | 28.8                             | 61.1                       | 16.9                             | 47.7                       |
-| Gain of ≥15 letters in visual acuity at Month 12 (%)                        | 43.9                             | 60.3                       | 33.1                             | 50.8                       |
-| Proportion (%) receiving laser rescue over 12 months                        | 61.4                             | 34.4                       | NA                               | NA                         |
-
-a p&lt;0.0001 for both studies
+|                                                                             | BRAVO - Sham/ Ranibizumab 0.5 mg (n=132)   | BRAVO - Ranibizumab 0.5 mg (n=131)   | CRUISE - Sham/ Ranibizumab 0.5 mg (n=130)   | CRUISE - Ranibizumab 0.5 mg (n=130)   |
+|-----------------------------------------------------------------------------|--------------------------------------------|--------------------------------------|---------------------------------------------|---------------------------------------|
+| Mean change in visual acuity at Month 6 a (letters) (SD) (primary endpoint) | 7.3 (13.0)                                 | 18.3 (13.2)                          | 0.8 (16.2)                                  | 14.9 (13.2)                           |
+| Mean change in BCVA at Month 12 (letters) (SD)                              | 12.1 (14.4)                                | 18.3 (14.6)                          | 7.3 (15.9)                                  | 13.9 (14.2)                           |
+| Gain of ≥15 letters in visual acuity at Month 6 a (%)                       | 28.8                                       | 61.1                                 | 16.9                                        | 47.7                                  |
+| Gain of ≥15 letters in visual acuity at Month 12 (%)                        | 43.9                                       | 60.3                                 | 33.1                                        | 50.8                                  |
+| Proportion (%) receiving laser rescue over 12 months                        | 61.4                                       | 34.4                                 | NA                                          | NA                                    |
 
 Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO)
 
 <!-- image -->
 
-BL=baseline;SE=standard error ofmean
+BL= baseline; SE= standard error of mean In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
 
 <!-- image -->
-
-In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
 In patients with CRVO (CRUISE and extension study HORIZON): Subjects treated with sham in the first 6 months who subsequently received ranibizumab did not achieve comparable gains in VA by Month 24 (~6 letters) compared to subjects treated with ranibizumab from study start (~12 letters).
 
@@ -670,13 +676,12 @@ Key outcome measures from BRIGHTER and CRYSTAL are shown in Table 9.
 
 Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 
-|                                                  | BRIGHTER                 | BRIGHTER                         | BRIGHTER      | CRYSTAL                  |
-|--------------------------------------------------|--------------------------|----------------------------------|---------------|--------------------------|
-|                                                  | Ranibizumab 0.5 mg N=180 | Ranibizumab 0.5 mg + Laser N=178 | Laser* N=90   | Ranibizumab 0.5 mg N=356 |
-| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)             | +14.8 (11.13)                    | +6.0 (14.27)  | +12.0 (13.95)            |
-| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)            | +17.3 (12.61)                    | +11.6 (16.09) | +12.1 (18.60)            |
-| Gain of ≥15 letters in BCVA at Month 24 (%)      | 52.8                     | 59.6                             | 43.3          | 49.2                     |
-| Mean number of injections (SD) (Months 0-23)     | 11.4 (5.81)              | 11.3 (6.02)                      | NA            | 13.1 (6.39)              |
+|                                                  | BRIGHTER - Ranibizumab 0.5 mg N=180   | BRIGHTER - Ranibizumab 0.5 mg + Laser N=178   | BRIGHTER - Laser* N=90   | CRYSTAL - Ranibizumab 0.5 mg N=356   |
+|--------------------------------------------------|---------------------------------------|-----------------------------------------------|--------------------------|--------------------------------------|
+| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)                          | +14.8 (11.13)                                 | +6.0 (14.27)             | +12.0 (13.95)                        |
+| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)                         | +17.3 (12.61)                                 | +11.6 (16.09)            | +12.1 (18.60)                        |
+| Gain of ≥15 letters in BCVA at Month 24 (%)      | 52.8                                  | 59.6                                          | 43.3                     | 49.2                                 |
+| Mean number of injections (SD) (Months 0-23)     | 11.4 (5.81)                           | 11.3 (6.02)                                   | NA                       | 13.1 (6.39)                          |
 
 - a p&lt;0.0001 for both comparisons in BRIGHTER at Month 6: Ranibizumab 0.5 mg vs Laser and Ranibizumab 0.5 mg + Laser vs Laser.
 - b p&lt;0.0001 for null hypothesis in CRYSTAL that the mean change at Month 24 from baseline is zero.
@@ -742,7 +747,13 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light. Prior to use, the unopened vial may be kept at room temperature (25 °C) for up to 24 hours.
+Store in a refrigerator (2 °C - 8 °C).
+
+Do not freeze.
+
+Keep the vial in the outer carton in order to protect from light.
+
+Prior to use, the unopened vial may be kept at room temperature (25 °C) for up to 24 hours.
 
 ## 6.5 Nature and contents of container
 
@@ -756,14 +767,14 @@ The vial is for single use only. After injection any unused product must be disc
 
 For preparation and intravitreal injection the following medical devices for single use are needed:
 
-- -a 5 μm filter needle (18G)
-- -a 1 ml sterile syringe (including a 0.05 ml mark) and an injection needle (30G x ½″), for adult patients
+- a 5 μm filter needle (18G)
+- a 1 ml sterile syringe (including a 0.05 ml mark) and an injection needle (30G x ½″), for adult patients
 
 <div style=\"page-break-after: always\"></div>
 
 These medical devices are not included within this pack. They could be obtained separately or in independent intravitreal injection kits (for example the I2 injection kit from Vortex Surgical).
 
-To prepare Epruvy for intravitreal administration to adults , please adhere to the following instructions:
+To prepare Epruvy for intravitreal administration to adults, please adhere to the following instructions:
 
 1. Before withdrawal, remove the vial cap and clean the vial septum (e.g. with 70% alcohol swab).
 2. Assemble a 5 μm filter needle (18G x 1½″, 1.2 mm x 40 mm) onto a 1 ml syringe using aseptic technique. Push the blunt filter needle into the centre of the vial stopper until the needle touches the bottom edge of the vial.
@@ -847,11 +858,9 @@ Epruvy must be administered by a qualified ophthalmologist experienced in intrav
 
 The recommended dose for Epruvy is 0.5 mg given as a single intravitreal injection. This corresponds to an injection volume of 0.05 ml. The interval between two doses injected into the same eye should be at least four weeks.
 
-Treatment is initiated with one injection per month until maximum visual acuity is achieved and/or there are no signs of disease activity i.e. no change in visual acuity and in other signs and symptoms of
+Treatment is initiated with one injection per month until maximum visual acuity is achieved and/or there are no signs of disease activity i.e. no change in visual acuity and in other signs and symptoms of the disease under continued treatment. In patients with wet AMD, DME, PDR and RVO, initially, three or more consecutive, monthly injections may be needed.
 
 <div style=\"page-break-after: always\"></div>
-
-the disease under continued treatment. In patients with wet AMD, DME, PDR and RVO, initially, three or more consecutive, monthly injections may be needed.
 
 Thereafter, monitoring and treatment intervals should be determined by the physician and should be based on disease activity, as assessed by visual acuity and/or anatomical parameters.
 
@@ -865,7 +874,9 @@ The treatment of visual impairment due to CNV should be determined individually 
 
 Ranibizumab and laser photocoagulation in DME and in macular oedema secondary to BRVO There is some experience of ranibizumab administered concomitantly with laser photocoagulation (see section 5.1). When given on the same day, Epruvy should be administered at least 30 minutes after laser photocoagulation. Epruvy can be administered in patients who have received previous laser photocoagulation.
 
-Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM There is no experience of concomitant administration of ranibizumab and verteporfin.
+## Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM
+
+There is no experience of concomitant administration of ranibizumab and verteporfin.
 
 ## Special populations
 
@@ -923,11 +934,9 @@ Intravitreous injections, including those with ranibizumab, have been associated
 
 Transient increases in intraocular pressure (IOP) have been seen within 60 minutes of injection of ranibizumab. Sustained IOP increases have also been identified (see section 4.8). Both intraocular pressure and the perfusion of the optic nerve head must be monitored and managed appropriately.
 
-Patients should be informed of the symptoms of these potential adverse reactions and instructed to inform their physician if they develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in their vision, or
+Patients should be informed of the symptoms of these potential adverse reactions and instructed to inform their physician if they develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in their vision, or increased sensitivity to light (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
-
-increased sensitivity to light (see section 4.8).
 
 ## Bilateral treatment
 
@@ -991,7 +1000,7 @@ In clinical studies for the treatment of visual impairment due to DME, the outco
 
 ## 4.6 Fertility, pregnancy and lactation
 
-## Women of childbearing potential/contraception in females
+Women of childbearing potential/contraception in females
 
 Women of childbearing potential should use effective contraception during treatment.
 
@@ -1025,11 +1034,11 @@ The most frequently reported non-ocular adverse reactions are headache, nasophar
 
 Less frequently reported, but more serious, adverse reactions include endophthalmitis, blindness, retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.4).
 
-The  adverse  reactions  experienced  following  administration  of  ranibizumab  in  clinical  studies  are summarised in the table below.
+The adverse reactions experienced following administration of ranibizumab in clinical studies are summarised in the table below.
 
 ## Tabulated list of adverse reactions #
 
-The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (frequency cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | Infections and infestations   | Infections and infestations   |
 |-------------------------------|-------------------------------|
@@ -1040,17 +1049,17 @@ The adverse reactions are listed by system organ class and frequency using the f
 |----------------------------------------|----------------------------------------|
 | Common                                 | Anaemia                                |
 
-| Immune system disorders   | Immune system disorders   |
-|---------------------------|---------------------------|
-| Common                    | Hypersensitivity          |
+| Immune system disorders   |                  |
+|---------------------------|------------------|
+| Common                    | Hypersensitivity |
 
 | Psychiatric disorders   | Psychiatric disorders   |
 |-------------------------|-------------------------|
 | Common                  | Anxiety                 |
 
-| Nervous system disorders   | Nervous system disorders   |
-|----------------------------|----------------------------|
-| Very common                | Headache                   |
+| Nervous system disorders   |          |
+|----------------------------|----------|
+| Very common                | Headache |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1059,48 +1068,41 @@ The adverse reactions are listed by system organ class and frequency using the f
 | Very common     | Vitritis, vitreous detachment, retinal haemorrhage, visual disturbance, eye pain, vitreous floaters, conjunctival haemorrhage, eye irritation, foreign body sensation in eyes, lacrimation increased, blepharitis, dry eye, ocular hyperaemia, eye pruritus.                                                                                                                                                                                                                                                                                                                                                  |
 | Common          | Retinal degeneration, retinal disorder, retinal detachment, retinal tear, detachment of the retinal pigment epithelium, retinal pigment epithelium tear, visual acuity reduced, vitreous haemorrhage, vitreous disorder, uveitis, iritis, iridocyclitis, cataract, cataract subcapsular, posterior capsule opacification, punctuate keratitis, corneal abrasion, anterior chamber flare, vision blurred, injection site haemorrhage, eye haemorrhage, conjunctivitis, conjunctivitis allergic, eye discharge, photopsia, photophobia, ocular discomfort, eyelid oedema, eyelid pain, conjunctival hyperaemia. |
 | Uncommon        | Blindness, endophthalmitis, hypopyon, hyphaema, keratopathy, iris adhesion, corneal deposits, corneal oedema, corneal striae, injection site pain, injection site irritation, abnormal sensation in eye, eyelid irritation.                                                                                                                                                                                                                                                                                                                                                                                   |
+| Not known       | Retinal vasculitis**, retinal occlusive vasculitis**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ## Respiratory, thoracic and mediastinal disorders
 
-Common
+Common Cough
 
-Cough
+## Gastrointestinal disorders
 
-| Gastrointestinal disorders   | Gastrointestinal disorders   |
-|------------------------------|------------------------------|
-| Common                       | Nausea                       |
+Common Nausea
 
 ## Skin and subcutaneous tissue disorders
 
-Common
+Common Allergic reactions (rash, urticaria, pruritus, erythema)
 
-Allergic reactions (rash, urticaria, pruritus, erythema)
+## Musculoskeletal and connective tissue disorders
 
-| Musculoskeletal and connective tissue disorders   | Musculoskeletal and connective tissue disorders   |
-|---------------------------------------------------|---------------------------------------------------|
-| Very common                                       | Arthralgia                                        |
+Very common Arthralgia
 
 ## Investigations
 
-Very common
-
-Intraocular pressure increased
+Very common Intraocular pressure increased
 
 # Adverse reactions were defined as adverse events (in at least 0.5 percentage points of patients) which occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with ranibizumab 0.5 mg than in those receiving control treatment (sham or verteporfin PDT).
 
 * observed only in DME population
 
+** from post-marketing reporting
+
 ## Product-class-related adverse reactions
 
 In the wet AMD phase III studies, the overall frequency of non-ocular haemorrhages, an adverse event potentially related to systemic VEGF (vascular endothelial growth factor) inhibition, was slightly increased in ranibizumab-treated patients. However, there was no consistent pattern among the different haemorrhages. There is a theoretical risk of arterial thromboembolic events, including stroke and myocardial infarction, following intravitreal use of VEGF inhibitors. A low incidence rate of arterial thromboembolic events was observed in the ranibizumab clinical studies in patients with AMD, DME, PDR, RVO and CNV and there were no major differences between the groups treated with ranibizumab compared to control.
 
-## Reporting of suspected adverse reactions
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting of suspected adverse reactions Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -1134,23 +1136,64 @@ Key outcome measures are summarised in Table 1 and Figure 1.
 
 Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g (ANCHOR)
 
-|                                                                                      |          | FVF2598g (MARINA)   | FVF2598g (MARINA)          | FVF2587g (ANCHOR)       | FVF2587g (ANCHOR)          |
-|--------------------------------------------------------------------------------------|----------|---------------------|----------------------------|-------------------------|----------------------------|
-| Outcome measure                                                                      | Month    | Sham (n=238)        | Ranibizumab 0.5 mg (n=240) | Verteporfin PDT (n=143) | Ranibizumab 0.5 mg (n=140) |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                 | 95%                        | 64%                     | 96%                        |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                 | 90%                        | 66%                     | 90%                        |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                  | 34%                        | 6%                      | 40%                        |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                  | 33%                        | 6%                      | 41%                        |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5 (16.6)        | +7.2 (14.4)                | -9.5 (16.4)             | +11.3 (14.6)               |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                | -9.8 (17.6)             | +10.7 (16.5)               |
+| Outcome measure                                                                      | Month    | FVF2598g (MARINA) - Sham (n=238)   | FVF2598g (MARINA) - Ranibizumab 0.5 mg (n=240)   | FVF2587g (ANCHOR) - Verteporfin PDT (n=143)   | FVF2587g (ANCHOR) - Ranibizumab 0.5 mg (n=140)   |
+|--------------------------------------------------------------------------------------|----------|------------------------------------|--------------------------------------------------|-----------------------------------------------|--------------------------------------------------|
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                                | 95%                                              | 64%                                           | 96%                                              |
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                                | 90%                                              | 66%                                           | 90%                                              |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                                 | 34%                                              | 6%                                            | 40%                                              |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                                 | 33%                                              | 6%                                            | 41%                                              |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5 (16.6)                       | +7.2 (14.4)                                      | -9.5 (16.4)                                   | +11.3 (14.6)                                     |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)                       | +6.6 (16.5)                                      | -9.8 (17.6)                                   | +10.7 (16.5)                                     |
 
-a  p&lt;0.01
+a p&lt;0.01
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598g (MARINA) and study FVF2587g (ANCHOR)
 
-<!-- image -->
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10
+
+-15
+
+Study FVF2598g (MARINA)
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+22
+
+24
+
+Month
 
 <!-- image -->
 
@@ -1162,6 +1205,22 @@ In study FVF3192g (PIER), 184 patients with all forms of neovascular AMD were ra
 
 After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity
 
+E
+
++1
+
+IS
+
+Mean change in visual acuity
+
+(letters)
+
++6.6
+
+-14.9
+
++21.5
+
 <div style=\"page-break-after: always\"></div>
 
 declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better preservation of visual acuity.
@@ -1172,8 +1231,8 @@ Data from two studies (MONT BLANC, BPD952A2308 and DENALI, BPD952A2309) conducte
 
 The clinical safety and efficacy of ranibizumab in patients with visual impairment due to CNV in PM have been assessed based on the 12-month data of the double-masked, controlled pivotal study F2301 (RADIANCE). In this study 277 patients were randomised in a 2:2:1 ratio to the following arms:
 
-- Group I (ranibizumab 0.5 mg, dosing regimen driven by 'stability' criteria defined as no change in BCVA compared to two preceding monthly evaluations).
-- Group II (ranibizumab 0.5 mg, dosing regimen driven by 'disease activity' criteria defined as vision impairment attributable to intra- or subretinal fluid or active leakage due to the CNV lesion as assessed by optical coherence tomography and/or fluorescence angiography).
+- Group I (ranibizumab 0.5 mg, dosing regimen driven by \"stability\" criteria defined as no change in BCVA compared to two preceding monthly evaluations).
+- Group II (ranibizumab 0.5 mg, dosing regimen driven by \"disease activity\" criteria defined as vision impairment attributable to intra- or subretinal fluid or active leakage due to the CNV lesion as assessed by optical coherence tomography and/or fluorescence angiography).
 - Group III (vPDT - patients were allowed to receive ranibizumab treatment as of Month 3).
 
 In Group II, which is the recommended posology (see section 4.2), 50.9% of patients required 1 or 2 injections, 34.5% required 3 to 5 injections and 14.7% required 6 to 12 injections over the 12-month study period. 62.9% of Group II patients did not require injections in the second 6 months of the study.
@@ -1182,7 +1241,7 @@ The key outcomes from RADIANCE are summarised in Table 2 and Figure 2.
 
 Table 7 Outcomes at Month 3 and 12 (RADIANCE)
 
-|                                                                                                                     | Group I Ranibizumab 0.5 mg 'vision stability' (n=105)   | Group II Ranibizumab 0.5 mg 'disease activity' (n=116)   | Group III vPDT b (n=55)   |
+|                                                                                                                     | Group I Ranibizumab 0.5 mg \"vision stability\" (n=105)   | Group II Ranibizumab 0.5 mg \"disease activity\" (n=116)   | Group III vPDT b (n=55)   |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|---------------------------|
 | Month 3                                                                                                             |                                                         |                                                          |                           |
 | Mean average BCVA change from Month 1 to Month 3 compared to baseline a (letters)                                   | +10.5                                                   | +10.6                                                    | +2.2                      |
@@ -1193,10 +1252,6 @@ Table 7 Outcomes at Month 3 and 12 (RADIANCE)
 | Median                                                                                                              | 4.0                                                     | 2.5                                                      | N/A                       |
 | Mean average BCVA change from Month 1 to Month 12 compared to baseline (letters) Proportion of patients who gained: | +12.8                                                   | +12.5                                                    | N/A                       |
 | ≥15 letters, or reached ≥84 letters in BCVA                                                                         | 53.3%                                                   | 51.7%                                                    | N/A                       |
-
-a  p&lt;0.00001 comparison with vPDT control
-
-b Comparative control up to Month 3. Patients randomised to vPDT were allowed to receive ranibizumab treatment as of Month 3 (in Group III, 38 patients received ranibizumab as of Month 3)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1219,11 +1274,9 @@ At Month 2, all patients received open-label treatment with ranibizumab as neede
 
 Key outcome measures from MINERVA are summarised in Table 3 and Figure 3. An improvement of vision was observed and was accompanied by a reduction in central subfield thickness over the 12month period.
 
-The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye
+The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
 
 <div style=\"page-break-after: always\"></div>
-
-during the 12-month period.
 
 Table 3 Outcomes at Month 2 (MINERVA)
 
@@ -1234,21 +1287,17 @@ Table 3 Outcomes at Month 2 (MINERVA)
 | Patients not losing >15 letters from baseline at Month 2                     | 99.2%                        | 94.7%         |
 | Reduction in CSFT b from baseline to Month 2 a                               | 77 μm                        | -9.8 μm       |
 
-a  One-sided p&lt;0.001 comparison with sham control
-
-b  CSFT - central retinal subfield thickness
-
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
 <!-- image -->
 
 Treatment:
 
-Ranibizumab0.5mg(n=119)
+Ranibizumab 0.5 mg (n= 119)
 
-：Sham (n=59)
+……Sham (n=59)
 
-*Observed meanBCVA maydifferfrom theLeastSquaresMeanBCVA(applicable only at Month 2)
+*Observed mean BCVA may differ from the Least Squares Mean BCVA (applicable only at Month 2)
 
 When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
 
@@ -1261,11 +1310,9 @@ Table 4 Treatment effect overall and across baseline aetiology subgroups
 | Overall                               |                                    9.9 |                                     178 |
 | Angioid streaks                       |                                   14.6 |                                      27 |
 | Post-inflammatory retinochoroidopathy |                                    6.5 |                                      28 |
-| Central serous chorioretinopathy      |                                    5   |                                      23 |
+| Central serous chorioretinopathy      |                                    5.0 |                                      23 |
 | Idiopathic chorioretinopathy          |                                   11.4 |                                      63 |
 | Miscellaneous aetiologies a           |                                   10.6 |                                      37 |
-
-a encompasses different aetiologies of low frequency of occurrence not included in the other subgroups
 
 In the pivotal study G2301 (MINERVA), five adolescent patients aged 12 to 17 years with visual impairment secondary to CNV received open-label treatment with ranibizumab 0.5 mg at baseline followed by an individualised treatment regimen as for the adult population. BCVA improved from baseline to Month 12 in all five patients, ranging from 5 to 38 letters (mean of 16.6 letters). The improvement of vision was accompanied by a stabilisation or reduction in central subfield thickness over the 12-month period. The mean number of ranibizumab injections given in the study eye over 12 months was 3 (ranged from 2 to 5). Overall, ranibizumab treatment was well tolerated.
 
@@ -1285,7 +1332,7 @@ Figure 4 Mean change in visual acuity from baseline over time in study D2301 (RE
 
 <!-- image -->
 
-BL=baseline;SE=standarderrorofmean
+BL= baseline; SE= standard error of mean
 
 *Difference in least square means, p&lt;0.0001/0.0004 based on two-sided stratified Cochran-Mantel-Haenszel test
 
@@ -1306,8 +1353,6 @@ Table 5 Outcomes at Month 12 in study D2301 (RESTORE) and at Month 36 in study D
 | Mean change in BCVA at Month 36 (SD)                                                                   | 8.0 (10.1)                    | 6.7 (9.6)                             | 6.0 (9.4)        |
 | Gain of ≥15 letters or BCVA ≥84 letters at Month 36 (%)                                                | 27.7                          | 30.1                                  | 21.6             |
 | Mean number of injections (Months 12-35)*                                                              | 6.8                           | 6.0                                   | 6.5              |
-
-a p&lt;0.0001 for comparisons of ranibizumab arms vs. laser arm.
 
 n in D2301-E1 (RESTORE Extension) is the number of patients with a value at both D2301 (RESTORE) baseline (Month 0) and at the Month 36 visit.
 
@@ -1359,18 +1404,17 @@ At year 1, 41.8% of eyes experienced a ≥2-step improvement in the DRSS when tr
 
 Table 7 DRSS improvement or worsening of ≥2 or ≥3 steps at year 1 in Protocol S (LOCF Method)
 
-| Categorised change from baseline                                                                                                           | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Categorised change from baseline                                                                                                           | Ranibizumab 0.5 mg (N=189)                                                                                                                 | PRP (N=199)                                                                                                                                | Difference in proportion (%), CI                                                                                                           |
-| ≥2-step improvement                                                                                                                        | ≥2-step improvement                                                                                                                        | ≥2-step improvement                                                                                                                        | ≥2-step improvement                                                                                                                        |
-| n (%)                                                                                                                                      | 79 (41.8%)                                                                                                                                 | 29 (14.6%)                                                                                                                                 | 27.4 (18.9, 35.9)                                                                                                                          |
-| ≥3-step improvement                                                                                                                        | ≥3-step improvement                                                                                                                        | ≥3-step improvement                                                                                                                        | ≥3-step improvement                                                                                                                        |
-| n (%)                                                                                                                                      | 54 (28.6%)                                                                                                                                 | 6 (3.0%)                                                                                                                                   | 25.7 (18.9, 32.6)                                                                                                                          |
-| ≥2-step worsening                                                                                                                          | ≥2-step worsening                                                                                                                          | ≥2-step worsening                                                                                                                          | ≥2-step worsening                                                                                                                          |
-| n (%)                                                                                                                                      | 3 (1.6%)                                                                                                                                   | 23 (11.6%)                                                                                                                                 | -9.9 (-14.7, -5.2)                                                                                                                         |
-| ≥3-step worsening                                                                                                                          | ≥3-step worsening                                                                                                                          | ≥3-step worsening                                                                                                                          | ≥3-step worsening                                                                                                                          |
-| n (%)                                                                                                                                      | 1 (0.5%)                                                                                                                                   | 8 (4.0%)                                                                                                                                   | -3.4 (-6.3, -0.5)                                                                                                                          |
-| DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N=total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N=total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N=total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N=total number of study eyes. |
+| Categorised change from baseline                                                                                                             | Protocol S - Ranibizumab 0.5 mg (N=189)                                                                                                      | Protocol S - PRP (N=199)                                                                                                                     | Protocol S - Difference in proportion (%), CI                                                                                                |
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          |
+| n (%)                                                                                                                                        | 79 (41.8%)                                                                                                                                   | 29 (14.6%)                                                                                                                                   | 27.4 (18.9, 35.9)                                                                                                                            |
+| ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          |
+| n (%)                                                                                                                                        | 54 (28.6%)                                                                                                                                   | 6 (3.0%)                                                                                                                                     | 25.7 (18.9, 32.6)                                                                                                                            |
+| ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            |
+| n (%)                                                                                                                                        | 3 (1.6%)                                                                                                                                     | 23 (11.6%)                                                                                                                                   | -9.9 (-14.7, -5.2)                                                                                                                           |
+| ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            |
+| n (%)                                                                                                                                        | 1 (0.5%)                                                                                                                                     | 8 (4.0%)                                                                                                                                     | -3.4 (-6.3, -0.5)                                                                                                                            |
+| DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. |
 
 At year 1 in the ranibizumab-treated group in Protocol S, ≥2-step improvement in DRSS was consistent in eyes without DME (39.9%) and with baseline DME (48.8%).
 
@@ -1388,14 +1432,13 @@ Key outcome measures from BRAVO and CRUISE are summarised in Table 8 and Figures
 
 Table 8 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 
-|                                                                             | BRAVO                            | BRAVO                      | CRUISE                           | CRUISE                     |
-|-----------------------------------------------------------------------------|----------------------------------|----------------------------|----------------------------------|----------------------------|
-|                                                                             | Sham/ Ranibizumab 0.5 mg (n=132) | Ranibizumab 0.5 mg (n=131) | Sham/ Ranibizumab 0.5 mg (n=130) | Ranibizumab 0.5 mg (n=130) |
-| Mean change in visual acuity at Month 6 a (letters) (SD) (primary endpoint) | 7.3 (13.0)                       | 18.3 (13.2)                | 0.8 (16.2)                       | 14.9 (13.2)                |
-| Mean change in BCVA at Month 12 (letters) (SD)                              | 12.1 (14.4)                      | 18.3 (14.6)                | 7.3 (15.9)                       | 13.9 (14.2)                |
-| Gain of ≥15 letters in visual acuity at Month 6 a (%)                       | 28.8                             | 61.1                       | 16.9                             | 47.7                       |
-| Gain of ≥15 letters in visual acuity at Month 12 (%)                        | 43.9                             | 60.3                       | 33.1                             | 50.8                       |
-| Proportion (%) receiving laser rescue over 12 months                        | 61.4                             | 34.4                       | NA                               | NA                         |
+|                                                                             | BRAVO - Sham/ Ranibizumab 0.5 mg (n=132)   | BRAVO - Ranibizumab 0.5 mg (n=131)   | CRUISE - Sham/ Ranibizumab 0.5 mg (n=130)   | CRUISE - Ranibizumab 0.5 mg (n=130)   |
+|-----------------------------------------------------------------------------|--------------------------------------------|--------------------------------------|---------------------------------------------|---------------------------------------|
+| Mean change in visual acuity at Month 6 a (letters) (SD) (primary endpoint) | 7.3 (13.0)                                 | 18.3 (13.2)                          | 0.8 (16.2)                                  | 14.9 (13.2)                           |
+| Mean change in BCVA at Month 12 (letters) (SD)                              | 12.1 (14.4)                                | 18.3 (14.6)                          | 7.3 (15.9)                                  | 13.9 (14.2)                           |
+| Gain of ≥15 letters in visual acuity at Month 6 a (%)                       | 28.8                                       | 61.1                                 | 16.9                                        | 47.7                                  |
+| Gain of ≥15 letters in visual acuity at Month 12 (%)                        | 43.9                                       | 60.3                                 | 33.1                                        | 50.8                                  |
+| Proportion (%) receiving laser rescue over 12 months                        | 61.4                                       | 34.4                                 | NA                                          | NA                                    |
 
 a p&lt;0.0001 for both studies
 
@@ -1403,17 +1446,13 @@ Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO
 
 <!-- image -->
 
-BL=baseline;SE=standarderrorof mean
+BL= baseline; SE= standard error of mean BL= baseline; SE= standard error of mean In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
 
 <!-- image -->
-
-BL=baseline;SE=standarderrorofmean
-
-In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
 In patients with CRVO (CRUISE and extension study HORIZON): Subjects treated with sham in the first 6 months who subsequently received ranibizumab did not achieve comparable gains in VA by Month 24 (~6 letters) compared to subjects treated with ranibizumab from study start (~12 letters).
 
@@ -1427,13 +1466,12 @@ Key outcome measures from BRIGHTER and CRYSTAL are shown in Table 9.
 
 Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 
-|                                                  | BRIGHTER                 | BRIGHTER                         | BRIGHTER      | CRYSTAL                  |
-|--------------------------------------------------|--------------------------|----------------------------------|---------------|--------------------------|
-|                                                  | Ranibizumab 0.5 mg N=180 | Ranibizumab 0.5 mg + Laser N=178 | Laser* N=90   | Ranibizumab 0.5 mg N=356 |
-| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)             | +14.8 (11.13)                    | +6.0 (14.27)  | +12.0 (13.95)            |
-| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)            | +17.3 (12.61)                    | +11.6 (16.09) | +12.1 (18.60)            |
-| Gain of ≥15 letters in BCVA at Month 24 (%)      | 52.8                     | 59.6                             | 43.3          | 49.2                     |
-| Mean number of injections (SD) (Months 0-23)     | 11.4 (5.81)              | 11.3 (6.02)                      | NA            | 13.1 (6.39)              |
+|                                                  | BRIGHTER - Ranibizumab 0.5 mg N=180   | BRIGHTER - Ranibizumab 0.5 mg + Laser N=178   | BRIGHTER - Laser* N=90   | CRYSTAL - Ranibizumab 0.5 mg N=356   |
+|--------------------------------------------------|---------------------------------------|-----------------------------------------------|--------------------------|--------------------------------------|
+| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)                          | +14.8 (11.13)                                 | +6.0 (14.27)             | +12.0 (13.95)                        |
+| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)                         | +17.3 (12.61)                                 | +11.6 (16.09)            | +12.1 (18.60)                        |
+| Gain of ≥15 letters in BCVA at Month 24 (%)      | 52.8                                  | 59.6                                          | 43.3                     | 49.2                                 |
+| Mean number of injections (SD) (Months 0-23)     | 11.4 (5.81)                           | 11.3 (6.02)                                   | NA                       | 13.1 (6.39)                          |
 
 - a p&lt;0.0001 for both comparisons in BRIGHTER at Month 6: Ranibizumab 0.5 mg vs Laser and Ranibizumab 0.5 mg + Laser vs Laser.
 - b p&lt;0.0001 for null hypothesis in CRYSTAL that the mean change at Month 24 from baseline is zero.
@@ -1453,11 +1491,9 @@ The long-term safety profile of ranibizumab observed in the 24-month studies is 
 
 The safety and efficacy of ranibizumab 0.5 mg in pre-filled syringe have not been studied in paediatric patients.
 
-The European Medicines Agency has waived the obligation to submit the results of studies with the reference medicinal product containing ranibizumab in all subsets of the paediatric population in
+The European Medicines Agency has waived the obligation to submit the results of studies with the reference medicinal product containing ranibizumab in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO, visual impairment due to CNV and diabetic retinopathy (see section 4.2 for information on paediatric use).
 
 <div style=\"page-break-after: always\"></div>
-
-neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO, visual impairment due to CNV and diabetic retinopathy (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1517,11 +1553,9 @@ Pack size of one pre-filled syringe.
 
 ## 6.6 Special precautions for disposal and other handling
 
-The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The sterility of the pre-filled syringe cannot be guaranteed unless the tray remains sealed. Do not use the pre-filled syringe if the solution is discoloured, cloudy or contains
+The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The sterility of the pre-filled syringe cannot be guaranteed unless the tray remains sealed. Do not use the pre-filled syringe if the solution is discoloured, cloudy or contains particles.
 
 <div style=\"page-break-after: always\"></div>
-
-particles.
 
 The pre-filled syringe contains more than the recommended dose of 0.5 mg. The extractable volume of the pre-filled syringe (0.1 ml) is not to be used in total. The excess volume should be expelled prior to injection. Injecting the entire volume of the pre-filled syringe could result in overdose. To expel the air bubble along with the excess medicinal product, slowly push the plunger until the edge below the dome of the rubber stopper is aligned with the black dosing line on the syringe (equivalent to 0.05 ml, i.e., 0.5 mg ranibizumab).
 
@@ -1534,7 +1568,7 @@ To prepare Epruvy for intravitreal administration, please adhere to the instruct
 | Introduction                   | Read all the instructions carefully before using the pre-filled syringe. The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. Note: The dose must be set to 0.05 ml.   |
 |--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pre-filled syringe description | Syringe cap Rubber stopper Finger grip                                                                                                                                                                                                                                                                                                                   |
-| Prepare                        | 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully remove the syringe.                                                                                                                                                                   |
+| Prepare                        | Luer lock 0.05 ml dose mark Plunger rod Figure 1 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully remove the syringe.                                                                                                                  |
 | Check syringe                  | 3. Check that: • the syringe cap is not detached from the Luer lock. • the syringe is not damaged. • the solution looks clear, colourless to pale yellow and does not contain any particles. 4. If any of the above is not true, discard the pre-filled syringe and use a new one.                                                                       |
 
 <div style=\"page-break-after: always\"></div>
@@ -1543,24 +1577,11 @@ To prepare Epruvy for intravitreal administration, please adhere to the instruct
 
 <div style=\"page-break-after: always\"></div>
 
-## Set dose
-
-## Inject
-
-11. Hold the syringe at eye level and carefully push the plunger until the edge below the dome of the rubber stopper is  aligned with the  dose  mark (see  Figure  7).  This will expel the air and the excess solution and set the dose to 0.05 ml.
-
-Note: The plunger rod is not attached to the rubber stopper - this is to prevent air being drawn into the syringe.
-
-Figure 7
-
 <!-- image -->
 
-The injection procedure should be carried out under aseptic conditions.
-
-12. The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe.
-13. Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 ml.
-14. A different scleral site should be used for subsequent injections.
-15. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements.
+| Set dose   | 11. Hold the syringe at eye level and carefully push the plunger until the edge below the dome of the rubber stopper is aligned with the dose mark (see Figure 7). This will expel the air and the excess solution and set the dose to 0.05 ml. Note: The plunger rod is not attached to the rubber stopper - this is to prevent air being drawn into the syringe.                                                                                                                                                                                                                                                                                            |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Inject     | The injection procedure should be carried out under aseptic conditions. 12. The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 13. Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 ml. 14. A different scleral site should be used for subsequent injections. 15. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements. |
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -1593,7 +1614,11 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Polpharma Biologics S.A. ul. Trzy Lipy 3 80-172 Gdansk Poland
+Polpharma Biologics S.A.
+
+ul. Trzy Lipy 3 80-172 Gdansk
+
+Poland
 
 Name and address of the manufacturer responsible for batch release
 
@@ -1624,11 +1649,9 @@ An updated RMP should be submitted:
 
 Prior to launch in each Member State the MAH shall agree the final educational material with the National Competent Authority.
 
-The MAH shall ensure that, following discussions and agreements with the National Competent
+The MAH shall ensure that, following discussions and agreements with the National Competent Authorities in each Member State where Epruvy is marketed, at launch and after launch all ophthalmological clinics where Epruvy is expected to be used are provided with an up-to-date patient information pack.
 
 <div style=\"page-break-after: always\"></div>
-
-Authorities  in  each  Member  State  where  Epruvy  is  marketed,  at  launch  and  after  launch  all ophthalmological clinics where Epruvy is expected to be used are provided with an up-to-date patient information pack.
 
 The patient information pack should be provided in both the form of patient information booklets and in audio format that contain following key elements:
 
@@ -1646,7 +1669,7 @@ The patient information pack should be provided in both the form of patient info
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1658,7 +1681,9 @@ VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Epruvy 10 mg/ml solution for injection ranibizumab 2.3 mg/0.23 ml
+Epruvy 10 mg/ml solution for injection
+
+ranibizumab 2.3 mg/0.23 ml
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1718,7 +1743,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1740,18 +1765,18 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL                                                            |
-| VIAL                                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL                                                              |
+| VIAL                                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Epruvy 10 mg/ml solution for injection ranibizumab Intravitreal use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1763,8 +1788,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2.3 mg/0.23 ml
 
@@ -1781,7 +1806,9 @@ PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Epruvy 10 mg/ml solution for injection in pre-filled syringe ranibizumab
+Epruvy 10 mg/ml solution for injection in pre-filled syringe
+
+ranibizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1803,7 +1830,9 @@ Excess volume should be expelled prior to injection.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For single use only. Upon opening of the sealed tray, proceed under aseptic conditions. Set dose to 0.05 ml dose mark.
+For single use only. Upon opening of the sealed tray, proceed under aseptic conditions.
+
+Set dose to 0.05 ml dose mark.
 
 Read the package leaflet before use.
 
@@ -1819,62 +1848,70 @@ Keep out of the sight and reach of children.
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+<div style=\"page-break-after: always\"></div>
 
-Store in a refrigerator.
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-Do not freeze.
+Store in a refrigerator. Do not freeze.
 
 Keep the pre-filled syringe in its sealed tray in the carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Midas Pharma GmbH Rheinstraße 49 D-55218 Ingelheim Germany
+Midas Pharma GmbH Rheinstraße 49 D-55218 Ingelheim
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Germany
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/24/1860/002
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
-|-------------------------------------------------------------------|
-| BLISTER FOIL                                                      |
-| PRE-FILLED SYRINGE                                                |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| BLISTER FOIL                                                       |
+| PRE-FILLED SYRINGE                                                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Epruvy 10 mg/ml solution for injection in pre-filled syringe ranibizumab Intravitreal use
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Midas Pharma GmbH
 
@@ -1891,35 +1928,31 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-0.165 ml
+0.165 ml Epruvy 10 mg/ml solution for injection ranibizumab Intravitreal use EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL                                                            |
-| PRE-FILLED SYRINGE                                               |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL                                                              |
+| PRE-FILLED SYRINGE                                                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Epruvy 10 mg/ml solution for injection ranibizumab Intravitreal use
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.165 ml
 
@@ -1928,7 +1961,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGE LEAFLET
+- B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1936,9 +1969,9 @@ Lot
 
 ## Package leaflet: Information for the adult patient
 
-## Epruvy 10
+## Epruvy 10 mg/ml solution for injection
 
-## mg/ml solution for injection ranibizumab
+## ranibizumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1946,9 +1979,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1971,36 +2004,34 @@ Epruvy is used in adults to treat several eye diseases causing vision impairment
 
 These diseases result from damage to the retina (light-sensitive layer at the back of the eye) caused by:
 
-- -Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
-- -Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
+- Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
+- Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
 
 ## How Epruvy works
 
-Epruvy specifically recognises and binds to a protein called human vascular endothelial growth factor
-
-A (VEGF-A) present in the eye. In excess, VEGF-A causes abnormal blood vessel growth and swelling in the eye which can lead to impairment of vision in diseases like AMD, DME, PDR, RVO, PM and CNV. By binding to VEGF-A, Epruvy can block its actions and prevent this abnormal growth and swelling.
+Epruvy specifically recognises and binds to a protein called human vascular endothelial growth factor A (VEGF-A) present in the eye. In excess, VEGF-A causes abnormal blood vessel growth and swelling in the eye which can lead to impairment of vision in diseases like AMD, DME, PDR, RVO, PM and CNV. By binding to VEGF-A, Epruvy can block its actions and prevent this abnormal growth and swelling.
 
 In these diseases, Epruvy can help to stabilise and in many cases improve your vision.
 
-## 2. What you need to know before you are given Epruvy
-
 <div style=\"page-break-after: always\"></div>
+
+## 2. What you need to know before you are given Epruvy
 
 ## You must not receive Epruvy
 
-- -If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in section 6).
-- -If you have an infection in or around your eye.
-- -If you have pain or redness (severe intraocular inflammation) in your eye.
+- If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in section 6).
+- If you have an infection in or around your eye.
+- If you have pain or redness (severe intraocular inflammation) in your eye.
 
 ## Warnings and precautions
 
 Talk to your doctor before you are given Epruvy.
 
-- -Epruvy is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Epruvy treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
-- -In some patients the eye pressure may increase for a short period directly after the injection. This is something you may not notice, therefore your doctor may monitor this after each injection.
-- -Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Epruvy is the appropriate treatment for you.
+- Epruvy is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Epruvy treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
+- In some patients the eye pressure may increase for a short period directly after the injection. This is something you may not notice, therefore your doctor may monitor this after each injection.
+- Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Epruvy is the appropriate treatment for you.
 
-Please see section 4 ('Possible side effects') for more detailed information on side effects that could occur during Epruvy therapy.
+Please see section 4 (\"Possible side effects\") for more detailed information on side effects that could occur during Epruvy therapy.
 
 ## Children and adolescents (below 18 years of age)
 
@@ -2012,9 +2043,9 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy and breast-feeding
 
-- -Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Epruvy.
-- -There is no experience of using Epruvy in pregnant women. Epruvy should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Epruvy.
-- -Small amounts of Epruvy may pass into breast milk, therefore Epruvy is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Epruvy treatment.
+- Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Epruvy.
+- There is no experience of using Epruvy in pregnant women. Epruvy should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Epruvy.
+- Small amounts of Epruvy may pass into breast milk, therefore Epruvy is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Epruvy treatment.
 
 ## Driving and using machines
 
@@ -2022,11 +2053,11 @@ After Epruvy treatment you may experience some temporary vision blurring. If thi
 
 ## Epruvy contains polysorbate 20 (E 432)
 
-This medicine contains 0.005 mg of polysorbate 20 in each administered dose of 0.05 ml which is equivalent to 0.10 mg/ml.  Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
-
-## 3. How Epruvy is given
+This medicine contains 0.005 mg of polysorbate 20 in each administered dose of 0.05 ml which is equivalent to 0.10 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 <div style=\"page-break-after: always\"></div>
+
+## 3. How Epruvy is given
 
 Epruvy is administered as a single injection into your eye by your eye doctor under a local anaesthetic. The usual dose of an injection is 0.05 ml (which contains 0.5 mg of active substance). The interval between two doses injected into the same eye should be at least four weeks. All injections will be administered by your eye doctor.
 
@@ -2034,7 +2065,289 @@ Before the injection, your doctor will wash your eye carefully to prevent infect
 
 The treatment is started with one injection of Epruvy per month. Your doctor will monitor the condition of your eye and, depending on how you respond to the treatment, will decide if and when you need to receive further treatment.
 
-Detailed instructions for use are given at the end of the leaflet under 'How to prepare and administer Epruvy'.
+Detailed instructions for use are given at the end of the leaflet under \"How to prepare and administer Epruvy\".
+
+## Elderly (age 65 years and over)
+
+Epruvy can be used for people of 65 years of age and over without dose adjustment.
+
+## Before stopping Epruvy treatment
+
+If you are considering stopping Epruvy treatment, please go to your next appointment and discuss this with your doctor. Your doctor will advise you and decide how long you should be treated with Epruvy.
+
+If you have any further questions on the use of this medicine, ask your doctor.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+The side effects associated with the administration of Epruvy are either due to the medicine itself or the injection procedure and mostly affect the eye.
+
+The most serious side effects are described below:
+
+## Common serious side effects (may affect up to 1 in 10 people)
+
+Detachment or tear of the layer in the back of the eye (retinal detachment or tear), resulting in flashes of light with floaters progressing to a temporary loss of sight, or a clouding of the lens (cataract).
+
+## Uncommon serious side effects (may affect up to 1 in 100 people)
+
+Blindness, infection of the eyeball (endophthalmitis) with inflammation of the inside of the eye.
+
+The symptoms you might experience are pain or increased discomfort in your eye, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light. Please tell your doctor immediately if you develop any of these side effects.
+
+The most frequently reported side effects are described below:
+
+## Very common side effects (may affect more than 1 in 10 people)
+
+Visual side effects include: Inflammation of the eye, bleeding in the back of the eye (retinal bleeding), visual disturbances, eye pain, small particles or spots in your vision (floaters), bloodshot eye, eye irritation, a feeling of having something in the eye, increased tear production, inflammation or infection of the eyelid margins, dry eye, redness or itching of the eye and increased eye pressure. Non-visual side effects include: Sore throat, nasal congestion, runny nose, headache and joint pain.
+
+Other side effects which may occur following Epruvy treatment are described below:
+
+<div style=\"page-break-after: always\"></div>
+
+## Common side effects
+
+Visual side effects include: Decreased sharpness of vision, swelling of a section of the eye (uvea, cornea), inflammation of the cornea (front part of eye), small marks on the surface of the eye, blurred vision, bleeding at the site of injection, bleeding in the eye, discharge from the eye with itching, redness and swelling (conjunctivitis), light sensitivity, eye discomfort, swelling of the eyelid, eyelid pain.
+
+Non-visual side effects include: Urinary tract infection, low red blood cells count (with symptoms such as tiredness, breathlessness, dizziness, pale skin), anxiety, cough, nausea, allergic reactions like rash, hives, itching and skin reddening.
+
+## Uncommon side effects
+
+Visual side effects include: Inflammation and bleeding in the front part of the eye, sac of pus on the eye, changes of the central part of the eye surface, pain or irritation at the site of injection, abnormal sensation in the eye, irritation of the eyelid.
+
+## Not known (frequency cannot be estimated from the available data)
+
+Retinal vasculitis (inflammation of blood vessels in the back of the eye)
+
+Retinal occlusive vasculitis (blockage of blood vessels in the back of the eye, typically in presence of inflammation)
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Epruvy
+
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+- Prior to use, the unopened vial may be kept at room temperature (25 °C) for up to 24 hours.
+- Keep the vial in the outer carton in order to protect from light.
+- Do not use any pack that is damaged.
+
+## 6. Contents of the pack and other information
+
+## What Epruvy contains
+
+- The active substance is ranibizumab. Each ml contains 10 mg ranibizumab. Each vial contains 2.3 mg ranibizumab in 0.23 ml solution. This provides a suitable amount to deliver a single dose of 0.05 ml containing 0.5 mg ranibizumab.
+- The other ingredients are α,α-trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections.
+
+## What Epruvy looks like and contents of the pack
+
+Epruvy is a solution for injection in a vial (0.23 ml). The solution is clear, colourless to pale yellow and aqueous.
+
+## One pack type is available:
+
+Pack containing one glass vial of ranibizumab with chlorobutyl rubber stopper. The vial is for single use only.
+
+## Marketing Authorisation Holder and Manufacturer
+
+Midas Pharma GmbH Rheinstraße 49
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+---------------------------------------------------------------------------------------------------------------------------
+
+## THE FOLLOWING INFORMATION IS INTENDED FOR HEALTHCARE PROFESSIONALS ONLY:
+
+Please also refer to section 3 \"How Epruvy is given\".
+
+## How to prepare and administer Epruvy
+
+Single-use vial for intravitreal use only.
+
+Epruvy must be administered by a qualified ophthalmologist experienced in intravitreal injections.
+
+In wet AMD, in CNV, in PDR and in visual impairment due to DME or to macular oedema secondary to RVO the recommended dose for Epruvy is 0.5 mg given as a single intravitreal injection. This corresponds to an injection volume of 0.05 ml. The interval between two doses injected into the same eye should be at least four weeks.
+
+Treatment is initiated with one injection per month until maximum visual acuity is achieved and/or there are no signs of disease activity i.e. no change in visual acuity and in other signs and symptoms of the disease under continued treatment. In patients with wet AMD, DME, PDR and RVO, initially, three or more consecutive, monthly injections may be needed.
+
+Thereafter, monitoring and treatment intervals should be determined by the physician and should be based on disease activity, as assessed by visual acuity and/or anatomical parameters.
+
+If, in the physician's opinion, visual and anatomical parameters indicate that the patient is not benefiting from continued treatment, Epruvy should be discontinued.
+
+Monitoring for disease activity may include clinical examination, functional testing or imaging techniques (e.g. optical coherence tomography or fluorescein angiography).
+
+If patients are being treated according to a treat-and-extend regimen, once maximum visual acuity is achieved and/or there are no signs of disease activity, the treatment intervals can be extended stepwise until signs of disease activity or visual impairment recur. The treatment interval should be extended by no more than two weeks at a time for wet AMD and may be extended by up to one month at a time for DME. For PDR and RVO, treatment intervals may also be gradually extended, however there are insufficient data to conclude on the length of these intervals. If disease activity recurs, the treatment interval should be shortened accordingly.
+
+The treatment of visual impairment due to CNV should be determined individually per patient based on disease activity. Some patients may only need one injection during the first 12 months; others may need more frequent treatment, including a monthly injection. For CNV secondary to pathologic myopia (PM), many patients may only need one or two injections during the first year.
+
+Epruvy and laser photocoagulation in DME and macular oedema secondary to BRVO
+
+<div style=\"page-break-after: always\"></div>
+
+There is some experience of ranibizumab administered concomitantly with laser photocoagulation. When given on the same day, Epruvy should be administered at least 30 minutes after laser photocoagulation. Epruvy can be administered in patients who have received previous laser photocoagulation.
+
+Epruvy and verteporfin photodynamic therapy in CNV secondary to PM
+
+There is no experience of concomitant administration of ranibizumab and verteporfin.
+
+Epruvy should be inspected visually for particulate matter and discoloration prior to administration.
+
+The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required). The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure. Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
+
+The vial is for single use only. After injection any unused product must be discarded. Any vial showing signs of damage or tampering must not be used. The sterility cannot be guaranteed unless the packaging seal remains intact.
+
+For preparation and intravitreal injection the following medical devices for single use are needed:
+
+- a 5 μm filter needle (18G)
+- a 1 ml sterile syringe (including a 0.05 ml mark)
+- an injection needle (30G x ½″).
+
+These medical devices are not included within the Epruvy pack. They could be obtained separately or in independent intravitreal injection kits (for example the I2 injection kit from Vortex Surgical).
+
+To prepare Epruvy for intravitreal administration to adult patients, please adhere to the following instructions:
+
+<!-- image -->
+
+1. Before withdrawal, remove the vial cap and clean the vial septum (e.g. with 70% alcohol swab).
+
+2. Assemble a 5 μm filter needle (18G x 1½″,
+
+1.2 mm x 40 mm, 5 μm) onto a 1 ml syringe using aseptic technique. Push the blunt filter needle into the centre of the vial stopper until the needle touches the bottom edge of the vial.
+
+3. Withdraw all the liquid from the vial, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+4. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
+
+5. Leave the blunt filter needle in the vial and disconnect the syringe from the blunt filter needle. The filter needle should be discarded after withdrawal of the vial contents and should not be used for the intravitreal injection.
+
+6. Aseptically and firmly assemble an injection needle (30G x ½″, 0.3 mm x 13 mm) onto the syringe.
+
+7. Carefully remove the cap from the injection needle without disconnecting the injection needle from the syringe.
+
+Note: Grip at the hub of the injection needle while removing the cap.
+
+8. Carefully expel the air along with the excess solution from the syringe and adjust the dose to the 0.05 ml mark on the syringe. The syringe is ready for injection.
+
+Note: Do not wipe the injection needle. Do not pull back on the plunger.
+
+The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. The injection volume of 0.05 ml is then delivered; a different scleral site should be used for subsequent injections.
+
+After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Package leaflet: Information for the patient
+
+## Epruvy 10 mg/ml solution for injection in pre-filled syringe
+
+## ranibizumab
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Epruvy is and what it is used for
+2. What you need to know before you are given Epruvy
+3. How Epruvy is given
+4. Possible side effects
+5. How to store Epruvy
+6. Contents of the pack and other information
+
+## 1. What Epruvy is and what it is used for
+
+## What Epruvy is
+
+Epruvy is a solution which is injected into the eye. Epruvy belongs to a group of medicines called antineovascularisation agents. It contains the active substance called ranibizumab.
+
+## What Epruvy is used for
+
+Epruvy is used in adults to treat several eye diseases causing vision impairment.
+
+These diseases result from damage to the retina (light-sensitive layer at the back of the eye) caused by:
+
+- Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
+- Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
+
+## How Epruvy works
+
+Epruvy specifically recognises and binds to a protein called human vascular endothelial growth factor A (VEGF-A) present in the eye. In excess, VEGF-A causes abnormal blood vessel growth and swelling in the eye which can lead to impairment of vision in diseases like AMD, DME, PDR, RVO, PM and CNV. By binding to VEGF-A, Epruvy can block its actions and prevent this abnormal growth and swelling.
+
+In these diseases, Epruvy can help to stabilise and in many cases improve your vision.
+
+## 2. What you need to know before you are given Epruvy
+
+## You must not receive Epruvy
+
+<div style=\"page-break-after: always\"></div>
+
+- If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in section 6).
+- If you have an infection in or around your eye.
+- If you have pain or redness (severe intraocular inflammation) in your eye.
+
+## Warnings and precautions
+
+Talk to your doctor before you are given Epruvy.
+
+- Epruvy is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Epruvy treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
+- In some patients the eye pressure may increase for a short period directly after the injection. This is something you may not notice, therefore your doctor may monitor this after each injection.
+- Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Epruvy is the appropriate treatment for you.
+
+Please see section 4 (\"Possible side effects\") for more detailed information on side effects that could occur during Epruvy therapy.
+
+## Children and adolescents (below 18 years of age)
+
+The use of Epruvy in children and adolescents has not been established and is therefore not recommended.
+
+## Other medicines and Epruvy
+
+Tell your doctor if you are using, have recently used or might use any other medicines.
+
+## Pregnancy and breast-feeding
+
+- Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Epruvy.
+- There is no experience of using Epruvy in pregnant women. Epruvy should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Epruvy.
+- Small amounts of Epruvy may pass into breast milk, therefore Epruvy is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Epruvy treatment.
+
+## Driving and using machines
+
+After Epruvy treatment you may experience some temporary vision blurring. If this happens, do not drive or use machines until this resolves.
+
+## Epruvy contains polysorbate 20 (E 432)
+
+This medicine contains 0.005 mg of polysorbate 20 in each administered dose of 0.05 ml which is equivalent to 0.10 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## 3. How Epruvy is given
+
+Epruvy is administered as a single injection into your eye by your eye doctor under a local anaesthetic. The usual dose of an injection is 0.05 ml (which contains 0.5 mg of active substance). The pre-filled syringe contains more than the recommended dose of 0.5 mg. The extractable volume is not to be used in total. The excess volume should be expelled prior to injection. Injecting the entire volume of the pre-filled syringe could result in overdose.
+
+<div style=\"page-break-after: always\"></div>
+
+The interval between two doses injected into the same eye should be at least four weeks. All injections will be administered by your eye doctor.
+
+Before the injection, your doctor will wash your eye carefully to prevent infection. Your doctor will also give you a local anaesthetic to reduce or prevent any pain you might have with the injection.
+
+The treatment is started with one injection of Epruvy per month. Your doctor will monitor the condition of your eye and, depending on how you respond to the treatment, will decide if and when you need to receive further treatment.
+
+Detailed instructions for use are given at the end of the leaflet under \"How to prepare and administer Epruvy\".
 
 ## Elderly (age 65 years and over)
 
@@ -2062,7 +2375,7 @@ Uncommon serious side effects (may affect up to 1 in 100 people)
 
 Blindness, infection of the eyeball (endophthalmitis) with inflammation of the inside of the eye.
 
-The symptoms you might experience are pain or increased discomfort in your eye, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light. Please tell your doctor immediately if you develop any of these side effects .
+The symptoms you might experience are pain or increased discomfort in your eye, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light. Please tell your doctor immediately if you develop any of these side effects.
 
 The most frequently reported side effects are described below:
 
@@ -2074,11 +2387,9 @@ Other side effects which may occur following Epruvy treatment are described belo
 
 ## Common side effects
 
-Visual side effects include: Decreased sharpness of vision, swelling of a section of the eye (uvea, cornea), inflammation of the cornea (front part of eye), small marks on the surface of the eye, blurred vision, bleeding at the site of injection, bleeding in the eye, discharge from the eye with itching,
+Visual side effects include: Decreased sharpness of vision, swelling of a section of the eye (uvea, cornea), inflammation of the cornea (front part of eye), small marks on the surface of the eye, blurred vision, bleeding at the site of injection, bleeding in the eye, discharge from the eye with itching, redness and swelling (conjunctivitis), light sensitivity, eye discomfort, swelling of the eyelid, eyelid pain.
 
 <div style=\"page-break-after: always\"></div>
-
-redness and swelling (conjunctivitis), light sensitivity, eye discomfort, swelling of the eyelid, eyelid pain.
 
 Non-visual side effects include: Urinary tract infection, low red blood cells count (with symptoms such as tiredness, breathlessness, dizziness, pale skin), anxiety, cough, nausea, allergic reactions like rash, hives, itching and skin reddening.
 
@@ -2086,279 +2397,11 @@ Non-visual side effects include: Urinary tract infection, low red blood cells co
 
 Visual side effects include: Inflammation and bleeding in the front part of the eye, sac of pus on the eye, changes of the central part of the eye surface, pain or irritation at the site of injection, abnormal sensation in the eye, irritation of the eyelid.
 
-## Reporting of side effects
+## Not known (frequency cannot be estimated from the available data)
 
-If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+Retinal vasculitis (inflammation of blood vessels in the back of the eye)
 
-## 5. How to store Epruvy
-
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2 °C - 8 °C). Do not freeze.
-- -Prior to use, the unopened vial may be kept at room temperature (25 °C) for up to 24 hours.
-- -Keep the vial in the outer carton in order to protect from light.
-- -Do not use any pack that is damaged.
-
-## 6. Contents of the pack and other information
-
-## What Epruvy contains
-
-- -The active substance is ranibizumab. Each ml contains 10 mg ranibizumab. Each vial contains 2.3 mg ranibizumab in 0.23 ml solution. This provides a suitable amount to deliver a single dose of 0.05 ml containing 0.5 mg ranibizumab.
-- -The other ingredients are α,α-trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections.
-
-## What Epruvy looks like and contents of the pack
-
-Epruvy is a solution for injection in a vial (0.23 ml). The solution is clear, colourless to pale yellow and aqueous.
-
-## One pack type is available:
-
-Pack containing one glass vial of ranibizumab with chlorobutyl rubber stopper. The vial is for single use only.
-
-## Marketing Authorisation Holder and Manufacturer
-
-Midas Pharma GmbH Rheinstraße 49 D-55218 Ingelheim Germany
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-<div style=\"page-break-after: always\"></div>
-
----------------------------------------------------------------------------------------------------------------------------
-
-## THE FOLLOWING INFORMATION IS INTENDED FOR HEALTHCARE PROFESSIONALS ONLY:
-
-Please also refer to section 3 'How Epruvy is given'.
-
-## How to prepare and administer Epruvy
-
-Single-use vial for intravitreal use only.
-
-Epruvy must be administered by a qualified ophthalmologist experienced in intravitreal injections.
-
-In wet AMD, in CNV, in PDR and in visual impairment due to DME or to macular oedema secondary to RVO the recommended dose for Epruvy is 0.5 mg given as a single intravitreal injection. This corresponds to an injection volume of 0.05 ml. The interval between two doses injected into the same eye should be at least four weeks.
-
-Treatment is initiated with one injection per month until maximum visual acuity is achieved and/or there are no signs of disease activity i.e. no change in visual acuity and in other signs and symptoms of the disease under continued treatment. In patients with wet AMD, DME, PDR and RVO, initially, three or more consecutive, monthly injections may be needed.
-
-Thereafter, monitoring and treatment intervals should be determined by the physician and should be based on disease activity, as assessed by visual acuity and/or anatomical parameters.
-
-If, in the physician's opinion, visual and anatomical parameters indicate that the patient is not benefiting from continued treatment, Epruvy should be discontinued.
-
-Monitoring for disease activity may include clinical examination, functional testing or imaging techniques (e.g. optical coherence tomography or fluorescein angiography).
-
-If patients are being treated according to a treat-and-extend regimen, once maximum visual acuity is achieved and/or there are no signs of disease activity, the treatment intervals can be extended stepwise until signs of disease activity or visual impairment recur. The treatment interval should be extended by no more than two weeks at a time for wet AMD and may be extended by up to one month at a time for DME. For PDR and RVO, treatment intervals may also be gradually extended, however there are insufficient data to conclude on the length of these intervals. If disease activity recurs, the treatment interval should be shortened accordingly.
-
-The treatment of visual impairment due to CNV should be determined individually per patient based on disease activity. Some patients may only need one injection during the first 12 months; others may need more frequent treatment, including a monthly injection. For CNV secondary to pathologic myopia (PM), many patients may only need one or two injections during the first year.
-
-Epruvy and laser photocoagulation in DME and macular oedema secondary to BRVO There is some experience of ranibizumab administered concomitantly with laser photocoagulation. When given on the same day, Epruvy should be administered at least 30 minutes after laser photocoagulation. Epruvy can be administered in patients who have received previous laser photocoagulation.
-
-Epruvy and verteporfin photodynamic therapy in CNV secondary to PM There is no experience of concomitant administration of ranibizumab and verteporfin.
-
-Epruvy should be inspected visually for particulate matter and discoloration prior to administration.
-
-<div style=\"page-break-after: always\"></div>
-
-The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required). The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure. Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
-
-The vial is for single use only. After injection any unused product must be discarded. Any vial showing signs of damage or tampering must not be used. The sterility cannot be guaranteed unless the packaging seal remains intact.
-
-For preparation and intravitreal injection the following medical devices for single use are needed:
-
-- -a 5 μm filter needle (18G)
-- -a 1 ml sterile syringe (including a 0.05 ml mark)
-- -an injection needle (30G x ½″).
-
-These medical devices are not included within the Epruvy pack. They could be obtained separately or in independent intravitreal injection kits (for example the I2 injection kit from Vortex Surgical).
-
-To prepare Epruvy for intravitreal administration to adult patients, please adhere to the following instructions:
-
-<!-- image -->
-
-<!-- image -->
-
-1. Before withdrawal, remove the vial cap and clean the vial septum (e.g. with 70% alcohol swab).
-2. Assemble a 5 μm filter needle (18G x 1½″,
-
-1.2 mm x 40 mm, 5 μm) onto a 1 ml syringe using aseptic technique. Push the blunt filter needle into the centre of the vial stopper until the needle touches the bottom edge of the vial.
-
-3. Withdraw all the liquid from the vial, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
-4. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
-5. Leave the blunt filter needle in the vial and disconnect the syringe from the blunt filter needle. The filter needle should be discarded after withdrawal of the vial contents and should not be used for the intravitreal injection.
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-<!-- image -->
-
-6. Aseptically and firmly assemble an injection needle (30G x ½″, 0.3 mm x 13 mm) onto the syringe.
-7. Carefully remove the cap from the injection needle without disconnecting the injection needle from the syringe.
-
-Note: Grip at the hub of the injection needle while removing the cap.
-
-8. Carefully expel the air along with the excess solution from the syringe and adjust the dose to the 0.05 ml mark on the syringe. The syringe is ready for injection.
-
-Note: Do not wipe the injection needle. Do not pull back on the plunger.
-
-The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. The injection volume of 0.05 ml is then delivered; a different scleral site should be used for subsequent injections.
-
-After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
-
-## Package leaflet: Information for the patient
-
-## Epruvy 10 mg/ml solution for injection in pre-filled syringe ranibizumab
-
-<!-- image -->
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
-## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
-
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What Epruvy is and what it is used for
-2. What you need to know before you are given Epruvy
-3. How Epruvy is given
-4. Possible side effects
-5. How to store Epruvy
-6. Contents of the pack and other information
-
-## 1. What Epruvy is and what it is used for
-
-## What Epruvy is
-
-Epruvy is a solution which is injected into the eye. Epruvy belongs to a group of medicines called antineovascularisation agents. It contains the active substance called ranibizumab.
-
-## What Epruvy is used for
-
-Epruvy is used in adults to treat several eye diseases causing vision impairment.
-
-These diseases result from damage to the retina (light-sensitive layer at the back of the eye) caused by:
-
-- -Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
-- -Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
-
-## How Epruvy works
-
-Epruvy specifically recognises and binds to a protein called human vascular endothelial growth factor A (VEGF-A) present in the eye. In excess, VEGF-A causes abnormal blood vessel growth and swelling in the eye which can lead to impairment of vision in diseases like AMD, DME, PDR, RVO, PM and CNV. By binding to VEGF-A, Epruvy can block its actions and prevent this abnormal growth and swelling.
-
-In these diseases, Epruvy can help to stabilise and in many cases improve your vision.
-
-## 2. What you need to know before you are given Epruvy
-
-## You must not receive Epruvy
-
-<div style=\"page-break-after: always\"></div>
-
-- -If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in section 6).
-- -If you have an infection in or around your eye.
-- -If you have pain or redness (severe intraocular inflammation) in your eye.
-
-## Warnings and precautions
-
-Talk to your doctor before you are given Epruvy.
-
-- -Epruvy is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Epruvy treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
-- -In some patients the eye pressure may increase for a short period directly after the injection. This is something you may not notice, therefore your doctor may monitor this after each injection.
-- -Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Epruvy is the appropriate treatment for you.
-
-Please see section 4 ('Possible side effects') for more detailed information on side effects that could occur during Epruvy therapy.
-
-## Children and adolescents (below 18 years of age)
-
-The use of Epruvy in children and adolescents has not been established and is therefore not recommended.
-
-## Other medicines and Epruvy
-
-Tell your doctor if you are using, have recently used or might use any other medicines.
-
-## Pregnancy and breast-feeding
-
-- -Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Epruvy.
-- -There is no experience of using Epruvy in pregnant women. Epruvy should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Epruvy.
-- -Small amounts of Epruvy may pass into breast milk, therefore Epruvy is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Epruvy treatment.
-
-## Driving and using machines
-
-After Epruvy treatment you may experience some temporary vision blurring. If this happens, do not drive or use machines until this resolves.
-
-## Epruvy contains polysorbate 20 (E 432)
-
-This medicine contains 0.005 mg of polysorbate 20 in each administered dose of 0.05 ml which is equivalent to 0.10 mg/ml.  Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
-
-## 3. How Epruvy is given
-
-Epruvy is administered as a single injection into your eye by your eye doctor under a local anaesthetic. The usual dose of an injection is 0.05 ml (which contains 0.5 mg of active substance). The pre-filled
-
-<div style=\"page-break-after: always\"></div>
-
-syringe contains more than the recommended dose of 0.5 mg. The extractable volume is not to be used in total. The excess volume should be expelled prior to injection. Injecting the entire volume of the pre-filled syringe could result in overdose.
-
-The interval between two doses injected into the same eye should be at least four weeks. All injections will be administered by your eye doctor.
-
-Before the injection, your doctor will wash your eye carefully to prevent infection. Your doctor will also give you a local anaesthetic to reduce or prevent any pain you might have with the injection.
-
-The treatment is started with one injection of Epruvy per month. Your doctor will monitor the condition of your eye and, depending on how you respond to the treatment, will decide if and when you need to receive further treatment.
-
-Detailed instructions for use are given at the end of the leaflet under 'How to prepare and administer Epruvy'.
-
-## Elderly (age 65 years and over)
-
-Epruvy can be used for people of 65 years of age and over without dose adjustment.
-
-## Before stopping Epruvy treatment
-
-If you are considering stopping Epruvy treatment, please go to your next appointment and discuss this with your doctor. Your doctor will advise you and decide how long you should be treated with Epruvy.
-
-If you have any further questions on the use of this medicine, ask your doctor.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-The side effects associated with the administration of Epruvy are either due to the medicine itself or the injection procedure and mostly affect the eye.
-
-The most serious side effects are described below:
-
-Common serious side effects (may affect up to 1 in 10 people)
-
-Detachment or tear of the layer in the back of the eye (retinal detachment or tear), resulting in flashes of light with floaters progressing to a temporary loss of sight, or a clouding of the lens (cataract).
-
-Uncommon serious side effects (may affect up to 1 in 100 people)
-
-Blindness, infection of the eyeball (endophthalmitis) with inflammation of the inside of the eye.
-
-The symptoms you might experience are pain or increased discomfort in your eye, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light. Please tell your doctor immediately if you develop any of these side effects .
-
-The most frequently reported side effects are described below:
-
-Very common side effects (may affect more than 1 in 10 people)
-
-Visual side effects include: Inflammation of the eye, bleeding in the back of the eye (retinal bleeding), visual disturbances, eye pain, small particles or spots in your vision (floaters), bloodshot eye, eye irritation, a feeling of having something in the eye, increased tear production, inflammation or infection of the eyelid margins, dry eye, redness or itching of the eye and increased eye pressure. Non-visual side effects include: Sore throat, nasal congestion, runny nose, headache and joint pain.
-
-Other side effects which may occur following Epruvy treatment are described below:
-
-## Common side effects
-
-Visual side effects include: Decreased sharpness of vision, swelling of a section of the eye (uvea, cornea), inflammation of the cornea (front part of eye), small marks on the surface of the eye, blurred vision, bleeding at the site of injection, bleeding in the eye, discharge from the eye with itching,
-
-<div style=\"page-break-after: always\"></div>
-
-redness and swelling (conjunctivitis), light sensitivity, eye discomfort, swelling of the eyelid, eyelid pain.
-
-Non-visual side effects include: Urinary tract infection, low red blood cells count (with symptoms such as tiredness, breathlessness, dizziness, pale skin), anxiety, cough, nausea, allergic reactions like rash, hives, itching and skin reddening.
-
-## Uncommon side effects
-
-Visual side effects include: Inflammation and bleeding in the front part of the eye, sac of pus on the eye, changes of the central part of the eye surface, pain or irritation at the site of injection, abnormal sensation in the eye, irritation of the eyelid.
+Retinal occlusive vasculitis (blockage of blood vessels in the back of the eye, typically in presence of inflammation)
 
 ## Reporting of side effects
 
@@ -2366,19 +2409,19 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## 5. How to store Epruvy
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and pre-filled syringe label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2 °C - 8 °C). Do not freeze.
-- -Prior to use, the sealed tray may be kept at room temperature (25 °C) for up to 24 hours.
-- -Keep the pre-filled syringe in its unopened tray in the carton in order to protect from light.
-- -Do not use any pack that is damaged.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and pre-filled syringe label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+- Prior to use, the sealed tray may be kept at room temperature (25 °C) for up to 24 hours.
+- Keep the pre-filled syringe in its unopened tray in the carton in order to protect from light.
+- Do not use any pack that is damaged.
 
 ## 6. Contents of the pack and other information
 
 ## What Epruvy contains
 
-- -The active substance is ranibizumab. Each ml contains 10 mg ranibizumab. One pre-filled syringe contains 0.165 ml, equivalent to 1.65 mg ranibizumab. This provides a usable amount to deliver a single dose of 0.05 ml containing 0.5 mg ranibizumab.
-- -The other ingredients are α,α-trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections.
+- The active substance is ranibizumab. Each ml contains 10 mg ranibizumab. One pre-filled syringe contains 0.165 ml, equivalent to 1.65 mg ranibizumab. This provides a usable amount to deliver a single dose of 0.05 ml containing 0.5 mg ranibizumab.
+- The other ingredients are α,α-trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections.
 
 ## What Epruvy looks like and contents of the pack
 
@@ -2388,13 +2431,15 @@ Epruvy is a solution for injection in a pre-filled syringe. The pre-filled syrin
 
 Pack size of one pre-filled syringe, packed in a sealed tray. The pre-filled syringe is for single use only.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder and Manufacturer
 
-Midas Pharma GmbH Rheinstraße 49 D-55218 Ingelheim Germany
+Midas Pharma GmbH Rheinstraße 49 D-55218 Ingelheim
+
+Germany
 
 ## This leaflet was last revised in
-
-<div style=\"page-break-after: always\"></div>
 
 ## Other sources of information
 
@@ -2402,7 +2447,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## THE FOLLOWING INFORMATION IS INTENDED FOR HEALTHCARE PROFESSIONALS ONLY:
 
-Please also refer to section 3 'How Epruvy is given'.
+Please also refer to section 3 \"How Epruvy is given\".
 
 ## How to prepare and administer Epruvy
 
@@ -2424,11 +2469,15 @@ If patients are being treated according to a treat-and-extend regimen, once maxi
 
 The treatment of visual impairment due to CNV should be determined individually per patient based on disease activity. Some patients may only need one injection during the first 12 months; others may need more frequent treatment, including a monthly injection. For CNV secondary to pathologic myopia (PM), many patients may only need one or two injections during the first year.
 
-Epruvy and laser photocoagulation in DME and macular oedema secondary to BRVO There is some experience of ranibizumab administered concomitantly with laser photocoagulation. When given on the same day, Epruvy should be administered at least 30 minutes after laser photocoagulation. Epruvy can be administered in patients who have received previous laser photocoagulation.
-
-Epruvy and verteporfin photodynamic therapy in CNV secondary to PM There is no experience of concomitant administration of ranibizumab and verteporfin.
-
 <div style=\"page-break-after: always\"></div>
+
+Epruvy and laser photocoagulation in DME and macular oedema secondary to BRVO
+
+There is some experience of ranibizumab administered concomitantly with laser photocoagulation. When given on the same day, Epruvy should be administered at least 30 minutes after laser photocoagulation. Epruvy can be administered in patients who have received previous laser photocoagulation.
+
+Epruvy and verteporfin photodynamic therapy in CNV secondary to PM
+
+There is no experience of concomitant administration of ranibizumab and verteporfin.
 
 Epruvy should be inspected visually for particulate matter and discoloration prior to administration.
 
@@ -2444,24 +2493,25 @@ To prepare Epruvy for intravitreal administration for, please adhere to the inst
 
 <!-- image -->
 
-| Introduction                   | Read all the instructions carefully before using the pre-filled syringe. The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. Note: The dose must be set to 0.05 ml.   |
-|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pre-filled syringe description | Syringe cap Rubber stopper Finger grip                                                                                                                                                                                                                                                                                                                   |
-| Prepare                        | 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully remove the syringe.                                                                                                                                                                   |
+<div style=\"page-break-after: always\"></div>
+
+| Prepare            | 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully remove the syringe.                                                                                             | 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully remove the syringe.                                                                                             |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Check syringe      | 3. Check that: • the syringe cap is not detached from the Luer lock. • the syringe is not damaged. • the solution looks clear, colourless to pale yellow and does not contain any particles. 4. If any of the above is not true, discard the pre-filled syringe and use a new one. | 3. Check that: • the syringe cap is not detached from the Luer lock. • the syringe is not damaged. • the solution looks clear, colourless to pale yellow and does not contain any particles. 4. If any of the above is not true, discard the pre-filled syringe and use a new one. |
+| Remove syringe cap | 5. Twist off (do not snap off) the syringe cap (see Figure 2). 6. Dispose of the syringe cap (see Figure 3).                                                                                                                                                                       | Figure 2 Figure 3                                                                                                                                                                                                                                                                  |
+| Attach needle      | 7. Attach a 30G x ½″ sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (see Figure 4). 8. Carefully remove the needle cap by pulling it straight off (see Figure 5). Note: Do not wipe the needle at any time.                            | Figure 4 Figure 5                                                                                                                                                                                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
+## Dislodge air bubbles
 
 ## Set dose
 
 ## Inject
 
-11. Hold the syringe at eye level and carefully push the plunger until the edge below the dome of the rubber stopper is  aligned with the  dose  mark (see  Figure  7).  This will expel the air and the excess solution and set the dose to 0.05 ml.
+Figure 6
 
-Note: The plunger rod is not attached to the rubber stopper - this is to prevent air being drawn into the syringe.
+<!-- image -->
 
 Figure 7
 
@@ -2473,3 +2523,30 @@ The injection procedure should be carried out under aseptic conditions.
 13. Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 ml.
 14. A different scleral site should be used for subsequent injections.
 15. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements.
+9. Hold the syringe upright.
+10. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 6).
+11. Hold the syringe at eye level and carefully push the plunger until the edge below the dome of the rubber stopper is aligned with the dose mark (see Figure 7). This will expel the air and the excess solution and set the dose to 0.05 ml.
+
+Note: The plunger rod is not attached to the rubber stopper - this is to prevent air being drawn into the syringe.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for ranibizumab, the scientific conclusions of PRAC are as follows:
+
+In view of available data on retinal vasculitis with or without occlusion from clinical trials, the literature, spontaneous reports and in view of a plausible mechanism of action, the PRAC Rapporteur considers a causal relationship between ranibizumab and retinal vasculitis with or without occlusion, at least a reasonable possibility.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the Marketing Authorisation(s)
+
+On the basis of the scientific conclusions for ranibizumab the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing ranibizumab is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

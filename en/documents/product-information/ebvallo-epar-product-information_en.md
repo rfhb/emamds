@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-24 09:12:22
-document_pages: 35
+document_datetime: 2026-10-02 11:17:23
+document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ebvallo-epar-product-information_en.pdf
 document_name: ebvallo-epar-product-information_en.pdf
 version: success
-processing_time: 8.9010636
-conversion_datetime: 2025-12-23 05:26:49.124297
+processing_time: 48.7714701
+conversion_datetime: 2026-10-04 15:32:30.823999
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -38,11 +38,13 @@ Ebvallo (tabelecleucel) is an allogeneic Epstein-Barr virus (EBV)-specific T-cel
 
 ## 2.2 Qualitative and quantitative composition
 
-Each vial contains 1 mL deliverable volume of Ebvallo at a concentration of 2.8 × 10 7 - 7.3 × 10 7 viable T cells/mL dispersion for injection. The quantitative information regarding actual concentration, HLA profile and patient dose calculation is provided in the Lot Information Sheet (LIS) included with the shipper used to transport the medicinal product.
+Each vial contains 1 mL deliverable volume of Ebvallo at a concentration of
+
+2.8 × 10 7 - 7.3 × 10 7 viable T cells/mL dispersion for injection. The quantitative information regarding actual concentration, HLA profile and patient dose calculation is provided in the Lot Information Sheet (LIS) included with the shipper used to transport the medicinal product.
 
 The total number of vials in each carton (between 1 vial and 6 vials) corresponds to the dosing requirement for each individual patient, depending on the patient's body weight (see sections 4.2 and 6.5).
 
-## Excipient(s) with known effect
+Excipient(s) with known effect
 
 This medicinal product contains 100 mg dimethyl sulfoxide (DMSO) per mL.
 
@@ -50,7 +52,9 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Dispersion for injection A translucent, colourless to slightly yellow cell dispersion.
+Dispersion for injection
+
+A translucent, colourless to slightly yellow cell dispersion.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -95,8 +99,6 @@ Table 1: Treatment algorithm
 | Stable disease (SD)         | Administer another cycle of Ebvallo with the same HLA restriction. If the subsequent cycle results in a second SD, administer Ebvallo with a different HLA restriction.            |
 | Progressive disease (PD)    | Administer another cycle of Ebvallo with a different HLA restriction.                                                                                                              |
 | Indeterminate response (IR) | Administer another cycle of Ebvallo with the same HLA restriction. If the subsequent cycle results in a second IR, administer Ebvallo with a different HLA restriction.            |
-
-a Complete response at the end of a cycle followed by partial response or other response at any subsequent cycle is considered progressive disease.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -148,11 +150,9 @@ The traceability requirements of cell-based advanced therapy medicinal products 
 
 ## Tumour flare reaction (TFR)
 
-TFR has occurred with Ebvallo use, generally within the first few days after receiving treatment. TFR presents as an acute inflammatory reaction involving tumour sites which may include a sudden and
+TFR has occurred with Ebvallo use, generally within the first few days after receiving treatment. TFR presents as an acute inflammatory reaction involving tumour sites which may include a sudden and painful increase in the tumour size or enlargement of disease-involved lymph nodes. TFR may mimic progression of disease.
 
 <div style=\"page-break-after: always\"></div>
-
-painful increase in the tumour size or enlargement of disease-involved lymph nodes. TFR may mimic progression of disease.
 
 Patients with high tumour burden prior to treatment are at risk of severe TFR. Depending on the location of the tumour or lymphadenopathy, complications (e.g. respiratory distress and cognitive disorders) may arise from mass effect, including compression/obstruction of adjacent anatomic structures. Analgesics, non-steroidal anti-inflammatory drugs (NSAIDs) or localised radiotherapy could be considered prior to Ebvallo administration for those patients in whom the location of the tumour could potentially lead to complications. Patients should be closely monitored for signs and symptoms of TFR, especially during the first cycle.
 
@@ -248,50 +248,48 @@ Ebvallo has minor influence on the ability to drive and use machines, e.g. dizzi
 
 ## Summary of the safety profile
 
-The most common adverse reactions were pyrexia (31.1%), diarrhoea (26.2%), fatigue (23.3%), nausea (18.4%), anaemia (16.5%), decreased appetite (15.5%), hyponatraemia (15.5%), abdominal pain (14.6%), neutrophil count decreased (14.6%), white blood cell count decreased (14.6%), aspartate aminotransferase increased (13.6%), constipation (12.6%), alanine aminotransferase increased (11.7%), blood alkaline phosphatase increased (11.7%), hypoxia (11.7%), dehydration (10.7%), hypotension (10.7%), nasal congestion (10.7%) and rash (10.7%). The most serious adverse reactions were tumour flare reaction (1%) and graft-versus-host disease (4.9%).
+The most common adverse reactions were pyrexia (31.1%), diarrhoea (26.2%), fatigue (23.3%), nausea (18.4%), anaemia (16.5%), decreased appetite (15.5%), hyponatraemia (15.5%), abdominal pain (14.6%), neutrophil count decreased (14.6%), white blood cell count decreased (14.6%), aspartate aminotransferase increased (13.6%), constipation (12.6%), alanine aminotransferase increased (11.7%), blood alkaline phosphatase increased (11.7%), hypoxia (11.7%), dehydration (10.7%), hypotension (10.7%), nasal congestion (10.7%) and rash (10.7%).
+
+The most serious adverse reactions based on post-authorisation data from ongoing clinical trials and postmarketing experience were tumour flare reaction (1%), graft-versus-host disease (4.9%), and cytokine release syndrome (1.3%).
 
 ## Tabulated list of adverse reactions
 
-The safety database is comprised of data from 340 patients (EBV +  PTLD and other EBV-associated diseases) from clinical studies, an expanded access protocol, and compassionate use requests. Frequencies of adverse reactions were calculated in 103 patients from the ALLELE study and Study EBV-CTL-201 for which all events (serious and non-serious) were collected. In the rest of the clinical development program, only serious events were collected. Adverse reactions reported from clinical trials are presented below in Table 2. These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/ 100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000).
+The safety database is comprised of data from 340 patients (EBV + PTLD and other EBV-associated diseases) from clinical studies, an expanded access protocol, and compassionate use requests. Frequencies of adverse reactions were calculated in 103 patients from the ALLELE study and Study EBV-CTL-201 for which all events (serious and non-serious) were collected. In the rest of the clinical development program, only serious events were collected. Adverse reactions reported from clinical trials and post marketing experience are presented below in Table 2. These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000).
 
 <div style=\"page-break-after: always\"></div>
 
 Table 2: Adverse reactions identified with Ebvallo
 
-| System organ class (SOC)                                                             | Adverse reaction                                                                                                     | Frequency                                                            |
-|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Infections and infestations                                                          | Upper respiratory tract infection                                                                                    | Common                                                               |
-| Neoplasms benign, malignant and unspecified (including cysts and                     | Tumour pain Tumour flare reaction                                                                                    | Common Common                                                        |
-| polyps) Blood and lymphatic system                                                   | Anaemia                                                                                                              |                                                                      |
-|                                                                                      |                                                                                                                      | Very common                                                          |
-| disorders                                                                            | Febrile neutropenia                                                                                                  | Common                                                               |
-| Immune system disorders                                                              | Graft-versus-host disease a                                                                                          | Common                                                               |
-| Metabolism and nutrition disorders                                                   | Decreased appetite Hyponatraemia Dehydration Hypomagnesaemia Hypokalaemia Hypocalcaemia                              | Very common Very common Very common Common Common Common             |
-| Nervous system disorders                                                             | Dizziness Headache Depressed level of consciousness Somnolence Peripheral sensory neuropathy Tachycardia Hypotension | Common Common Common Common Common Common Very common                |
-| Cardiac disorders Vascular disorders Respiratory, thoracic and mediastinal disorders | Hot flush Cyanosis Hypoxia Nasal congestion Wheezing Pneumonitis Upper-airway cough syndrome                         | Common Common Very common Very common Common Common Common Common    |
-| Gastrointestinal disorders                                                           | Pulmonary haemorrhage Diarrhoea Nausea Abdominal pain b Constipation Colitis Abdominal distension Flatulence         | Very common Very common Very common Very common Common Common Common |
-| Skin and subcutaneous tissue                                                         | Dyschezia                                                                                                            | Common                                                               |
-| disorders                                                                            | Rash c Pruritus Skin ulcer Skin                                                                                      | Very common Common Common Common Common                              |
-| Musculoskeletal and connective tissue disorders                                      | hypopigmentation Muscular weakness                                                                                   | Common                                                               |
-|                                                                                      | Arthralgia Back pain Myalgia Arthritis Joint Stiffness Soft tissue necrosis Pyrexia Fatigue                          | Common Common Common Common Common Very                              |
-| General disorders and administration site conditions                                 | Chills Chest pain d Pain                                                                                             | Very Common                                                          |
-|                                                                                      |                                                                                                                      | common common Common Common                                          |
-|                                                                                      | Localised oedema                                                                                                     | Common                                                               |
+| System organ class (SOC)                                                 | Adverse reaction                                                                                                    | Frequency                                                                          |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Infections and infestations                                              | Upper respiratory tract infection Skin infection                                                                    | Common Common                                                                      |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Tumour pain Tumour flare reaction                                                                                   | Common Common                                                                      |
+| Blood and lymphatic system disorders                                     | Anaemia Febrile neutropenia                                                                                         | Very common                                                                        |
+| Immune system disorders                                                  | Graft-versus-host disease a                                                                                         | Common                                                                             |
+| Metabolism and nutrition disorders                                       | Cytokine release syndrome Decreased appetite Hyponatraemia                                                          | Common Very                                                                        |
+| Psychiatric disorders                                                    | Dehydration Hypomagnesaemia Hypokalaemia Hypocalcaemia Confusional state Delirium Disorientation Dizziness Headache | Common common Very common Very common Common Common Common Common Common Common    |
+| Nervous system disorders Cardiac disorders Vascular disorders            | Depressed level of consciousness Somnolence Peripheral sensory neuropathy Tachycardia Hypotension Hot flush         | Common Common Common Common Common Common Very common Common                       |
+| Respiratory, thoracic and mediastinal disorders                          | Cyanosis Hypoxia Nasal congestion Wheezing Pneumonitis Upper-airway cough syndrome Pulmonary haemorrhage Diarrhoea  | Common Very common Very common Common Common Common Common Very common             |
+| Gastrointestinal disorders                                               | Nausea Abdominal pain b Constipation Colitis Abdominal distension Flatulence Dyschezia                              | Very common Very common Very common Common Common Common Common Very common Common |
+| Skin and subcutaneous tissue disorders                                   | Rash c Pruritus Skin ulcer Skin hypopigmentation Muscular weakness                                                  | Common Common Common Common Common                                                 |
+| Musculoskeletal and connective tissue disorders                          | Arthralgia Back pain Myalgia Arthritis Joint Stiffness Soft tissue necrosis                                         | Common Common Common Common Very                                                   |
+| General disorders and administration site conditions                     | Pyrexia Fatigue Chills                                                                                              | common Very common Common                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class (SOC)                       | Adverse reaction                                                                                                                                                                                                                                                                                                         | Frequency                                                                                      |
 |------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|                                                | Chest pain d Pain Localised oedema General physical health deterioration                                                                                                                                                                                                                                                 | Common Common Common Common                                                                    |
 | Investigations                                 | Neutrophil count decreased White blood cell count decreased Aspartate aminotransferase increased Alanine aminotransferase increased Blood alkaline phosphatase increased Lymphocyte count decreased Blood creatinine increased Blood lactate dehydrogenase increased Platelet count decreased Blood fibrinogen decreased | Very common Very common Very common Very common Very common Common Common Common Common Common |
 | Injury, poisoning and procedural complications | Post procedural oedema                                                                                                                                                                                                                                                                                                   | Common                                                                                         |
 
-a  Graft-versus-host disease (GvHD) includes GvHD in gastrointestinal tract, GvHD in liver, rash maculo-papular (skin GvHD)
+- a Graft-versus-host disease (GvHD) includes GvHD in gastrointestinal tract, GvHD in liver, rash maculo-papular (skin GvHD)
 
-b  Abdominal pain includes abdominal pain, abdominal discomfort, abdominal pain lower
+b Abdominal pain includes abdominal pain, abdominal discomfort, abdominal pain lower
 
-c  Rash includes rash, rash erythematous, rash maculo-papular, rash pustular
+- c Rash includes rash, rash erythematous, rash maculo-papular, rash pustular
 
-d  Chest pain includes musculoskeletal chest pain, non-cardiac chest pain
+d Chest pain includes musculoskeletal chest pain, non-cardiac chest pain
 
 ## Description of selected adverse reactions
 
@@ -303,7 +301,9 @@ TFR was reported in 1 patient (1%). The event was Grade 3 and the patient recove
 
 GvHD was reported in 5 (4.9%) patients. Two (40%) patients had Grade 1, 1 patient (20%) had Grade 2, 1 patient (20%) had Grade 3, and 1 (20%) patient had Grade 4 events. No fatal events were reported. Four (80%) patients recovered from GvHD. The median time to onset was 42 days (range: 8 to 44 days). The median duration was 35 days (range: 7 to 133 days).
 
-## Immunogenicity
+## Cytokine release syndrome (CRS)
+
+CRS was reported in 2 patients (1.3%) from ALLELE and Study EBV-CTL-201. All patients had Grade 1 CRS presenting with fever with or without chills (including a recurring event after subsequent dosing). All patients recovered. The median time to onset was 9 days (range: 3 to 26 days) including a recurrent event after two successive doses of tabelecleucel. The median duration was 1 day (range: 1 to 3 days). Immunogenicity
 
 There is potential for immunogenicity with Ebvallo. There is currently no information indicating that potential immunogenicity to Ebvallo impacts safety or efficacy.
 
@@ -315,11 +315,11 @@ There are limited data in paediatric patients (see section 5.1). Eight patients 
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.9 Overdose
 
 There are no data regarding overdose with Ebvallo.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -333,103 +333,90 @@ Ebvallo is an allogeneic, EBV-specific T-cell immunotherapy which targets and el
 
 ## Pharmacodynamic effects
 
-Across multiple clinical studies, systemic cytokine levels of IL1β, IL -2, IL6 and TNFα did not meaningfully change from baseline after administration of Ebvallo.
+Across multiple clinical studies, systemic cytokine levels of IL-1β, IL-2, IL-6 and TNFα did not meaningfully change from baseline after administration of Ebvallo.
 
 ## Clinical efficacy and safety
 
-ALLELE is an ongoing, multicentre, open-label, single-arm, Phase 3 study in 43 adult and paediatric patients with EBV + PTLD following solid organ transplant (SOT) or haematopoietic cell transplant (HCT) after failure of previous therapy. Patients were assigned to prespecified cohorts based on transplant type and treatment failure of prior therapy for EBV + PTLD. The SOT cohort (29 patients) consisted of SOT patients who had failed rituximab monotherapy (13 patients) and SOT patients who had failed rituximab plus chemotherapy (SOT-R+C, 16 patients). The HCT cohort (14 patients) consisted of HCT patients who had failed rituximab. Eligible patients had a prior HCT or SOT (kidney, liver, heart, lung, pancreas, small bowel or any combination), a diagnosis of biopsy-proven EBV +  PTLD with radiographic measurable disease, and failure of rituximab monotherapy or rituximab plus any concurrent or sequentially administered chemotherapy regimen for treatment of EBV +  PTLD. The most commonly administered chemotherapy combination was cyclophosphamide, doxorubicin hydrochloride, vincristine sulfate and prednisone. Patients with Grade ≥ 2 graft-versus-host disease (GvHD), active central nervous system (CNS) PTLD, Burkitt lymphoma, classical Hodgkin lymphoma, or any T-cell lymphoma were excluded. Patients received standard prophylactic anti-viral therapy until 30 days after the last dose of Ebvallo. Table 3 summarises the demographics and baseline characteristics from the SOT-R+C and HCT indicated cohorts.
+ALLELE is an ongoing, multicentre, open-label, single-arm, Phase 3 study in 43 adult and paediatric patients with EBV + PTLD following solid organ transplant (SOT) or haematopoietic cell transplant (HCT) after failure of previous therapy. Patients were assigned to prespecified cohorts based on transplant type and treatment failure of prior therapy for EBV + PTLD. The SOT cohort (29 patients) consisted of SOT patients who had failed rituximab monotherapy (13 patients) and SOT patients who had failed rituximab plus chemotherapy (SOT-R+C, 16 patients). The HCT cohort (14 patients) consisted of HCT patients who had failed rituximab. Eligible patients had a prior HCT or SOT (kidney, liver, heart, lung, pancreas, small bowel or any combination), a diagnosis of biopsy-proven EBV + PTLD with radiographic measurable disease, and failure of rituximab monotherapy or rituximab plus any concurrent or sequentially administered chemotherapy regimen for treatment of EBV + PTLD. The most commonly administered chemotherapy combination was cyclophosphamide, doxorubicin hydrochloride, vincristine sulfate and prednisone. Patients with Grade ≥ 2 graft-versus-host disease (GvHD), active central nervous system (CNS) PTLD, Burkitt lymphoma, classical Hodgkin lymphoma, or any T-cell lymphoma were excluded. Patients received standard prophylactic anti-viral therapy until 30 days after the last dose of Ebvallo. Table 3 summarises the demographics and baseline characteristics from the SOT-R+C and HCT indicated cohorts.
 
 Table 3: Summary of demographics and baseline characteristics in ALLELE from cohorts SOTR+C and HCT
 
-|                                | Ebvallo SOT EBV + PTLD a,b After rituximab and chemotherapy (N = 16)   | Ebvallo HCT EBV + PTLD a After rituximab (N = 14)   |
-|--------------------------------|------------------------------------------------------------------------|-----------------------------------------------------|
-| Age                            |                                                                        |                                                     |
-| Median years (min, max)        | 39.2 (16.7, 81.5)                                                      | 51.9 (3.2, 73.2)                                    |
-| Male, n (%)                    | 7 (43.8)                                                               | 8 (57.1)                                            |
-| ECOG score (age ≥ 16) c        |                                                                        |                                                     |
-| patients in the age group      | 16                                                                     | 13                                                  |
-| ECOG < 2                       | 9 (56.3)                                                               | 10 (76.9)                                           |
-| ECOG ≥ 2                       | 6 (37.5)                                                               | 3 (23.1)                                            |
-| Missing                        | 1 (6.3)                                                                | 0                                                   |
-| Lansky score (age < 16) c      |                                                                        |                                                     |
-| patients in the age group      | 0                                                                      | 1                                                   |
-| Lansky < 60                    | 0                                                                      | 0                                                   |
-| Lansky ≥ 60                    | 0                                                                      | 1 (100)                                             |
-| Elevated LDH (age ≥ 16), n (%) | 12 (75.0)                                                              | 11 (84.6)                                           |
+|                           | Ebvallo SOT EBV + PTLD a,b After rituximab and chemotherapy (N = 16)   | Ebvallo HCT EBV + PTLD a After rituximab (N = 14)   |
+|---------------------------|------------------------------------------------------------------------|-----------------------------------------------------|
+| Age                       |                                                                        |                                                     |
+| Median years (min, max)   | 39.2 (16.7, 81.5)                                                      | 51.9 (3.2, 73.2)                                    |
+| Male, n (%)               | 7 (43.8)                                                               | 8 (57.1)                                            |
+| ECOG score (age ≥ 16) c   |                                                                        |                                                     |
+| patients in the age group | 16                                                                     | 13                                                  |
+| ECOG < 2                  | 9 (56.3)                                                               | 10 (76.9)                                           |
+| ECOG ≥ 2                  | 6 (37.5)                                                               | 3 (23.1)                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                      | Ebvallo SOT EBV + PTLD a,b                        | Ebvallo HCT EBV + PTLD a                          |
-|------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-|                                                      | After rituximab and chemotherapy (N = 16)         | After rituximab (N = 14)                          |
-| PTLD-adapted prognostic index d (age ≥ 16), n (%)    | PTLD-adapted prognostic index d (age ≥ 16), n (%) | PTLD-adapted prognostic index d (age ≥ 16), n (%) |
-| Low risk                                             | 1 (6.3)                                           | 1 (7.7)                                           |
-| Intermediate risk                                    | 6 (37.5)                                          | 6 (46.2)                                          |
-| High risk                                            | 8 (50.0)                                          | 6 (46.2)                                          |
-| Unknown                                              | 1 (6.3)                                           | 0                                                 |
-| PTLD morphology/histology, n (%)                     | PTLD morphology/histology, n (%)                  | PTLD morphology/histology, n (%)                  |
-| DLBCL                                                | 10 (62.5)                                         | 10 (71.4)                                         |
-| Other e                                              | 4 (25.0)                                          | 3 (21.4)                                          |
-| Plasmablastic lymphoma                               | 2 (12.5)                                          | 1 (7.1)                                           |
-| Extranodal disease                                   | 13 (81.3)                                         | 9 (64.3)                                          |
-| Prior therapies                                      | Prior therapies                                   | Prior therapies                                   |
-| Median number of prior systemic therapies (min, max) | 2.0 (1, 5)                                        | 1.0 (1, 4)                                        |
-| Rituximab monotherapy, n (%)                         | 10 (62.2)                                         | 14 (100)                                          |
-| Rituximab monotherapy as first line, n (%)           | 9 (56.3)                                          | 14 (100)                                          |
-| Chemotherapy-containing regimen f , n (%)            | 16 (100)                                          | 3 (21.4)                                          |
+|                                                      | Ebvallo SOT EBV + PTLD a,b After rituximab and (N = 16) - chemotherapy   | Ebvallo HCT EBV + PTLD a After rituximab - (N = 14)   |
+|------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------|
+| Missing                                              | 1 (6.3)                                                                  | 0                                                     |
+| Lansky score (age < 16) c                            |                                                                          |                                                       |
+| patients in the age group                            | 0                                                                        | 1                                                     |
+| Lansky < 60                                          | 0                                                                        | 0                                                     |
+| Lansky ≥ 60                                          | 0                                                                        | 1 (100)                                               |
+| Elevated LDH (age ≥ 16), n (%)                       | 12 (75.0)                                                                | 11 (84.6)                                             |
+| PTLD-adapted prognostic index d (age ≥ 16), n        | (%)                                                                      |                                                       |
+| Low risk                                             | 1 (6.3)                                                                  | 1 (7.7)                                               |
+| Intermediate risk                                    | 6 (37.5)                                                                 | 6 (46.2)                                              |
+| High risk                                            | 8 (50.0)                                                                 | 6 (46.2)                                              |
+| Unknown                                              | 1 (6.3)                                                                  | 0                                                     |
+| PTLD morphology/histology, n (%)                     |                                                                          |                                                       |
+| DLBCL                                                | 10 (62.5)                                                                | 10 (71.4)                                             |
+| Other e                                              | 4 (25.0)                                                                 | 3 (21.4)                                              |
+| Plasmablastic lymphoma                               | 2 (12.5)                                                                 | 1 (7.1)                                               |
+| Extranodal disease                                   | 13 (81.3)                                                                | 9 (64.3)                                              |
+| Prior therapies                                      |                                                                          |                                                       |
+| Median number of prior systemic therapies (min, max) | 2.0 (1, 5)                                                               | 1.0 (1, 4)                                            |
+| Rituximab monotherapy, n (%)                         | 10 (62.2)                                                                | 14 (100)                                              |
+| Rituximab monotherapy as first line, n (%)           | 9 (56.3)                                                                 | 14 (100)                                              |
+| Chemotherapy-containing regimen f , n (%)            | 16 (100)                                                                 | 3 (21.4)                                              |
 
-DLBCL = diffuse large B-cell lymphoma; EBV +  PTLD = Epstein-Barr virus positive post-transplant lymphoproliferative disease; ECOG = Eastern Cooperative Oncology Group; HCT = haematopoietic cell transplant; LDH = lactate dehydrogenase; max = maximum; min = minimum; SOT = solid organ transplant; SOT-R+C = SOT patients who had failed rituximab plus chemotherapy
+DLBCL = diffuse large B-cell lymphoma; EBV + PTLD = Epstein-Barr virus positive post-transplant lymphoproliferative disease; ECOG = Eastern Cooperative Oncology Group; HCT = haematopoietic cell transplant; LDH = lactate dehydrogenase; max = maximum; min = minimum; SOT = solid organ transplant; SOT-R+C = SOT patients who had failed rituximab plus chemotherapy
 
 a Patients received at least one dose of Ebvallo.
 
 b SOT types included kidney, heart, liver, lung, pancreas, bowel and multiviscera.
 
-c  Percentages for ECOG and Lansky scores were based on the number of patients in the corresponding age group.
+c Percentages for ECOG and Lansky scores were based on the number of patients in the corresponding age group.
 
-d  Disease risk for PTLD patients was assessed at baseline using the PTLD-adapted prognostic index (based on age, ECOG score and serum LDH level).
+d Disease risk for PTLD patients was assessed at baseline using the PTLD-adapted prognostic index (based on age, ECOG score and serum LDH level).
 
-e  Morphologies not clearly DLBCL or plasmablastic lymphoma were categorized as Other and were consistent with PTLD.
+e Morphologies not clearly DLBCL or plasmablastic lymphoma were categorized as Other and were consistent with PTLD.
 
-f  Chemotherapy regimens could have also been combined with rituximab or other immunotherapy agents.
+f Chemotherapy regimens could have also been combined with rituximab or other immunotherapy agents.
 
 The primary efficacy endpoint was objective response rate (ORR) per evaluation by independent oncologic response adjudication (IORA), using Lugano classification criteria with lymphoma response to immunomodulatory therapy criteria (LYRIC) modification. ORR was obtained following administration of Ebvallo with up to 2 different HLA restrictions (one restriction switch). Ebvallo was selected for each patient from an existing product inventory based on an appropriate HLA restriction. The treatment plan consisted of administration of Ebvallo by intravenous injection at 2 × 10 6 viable T cells/kg on days 1, 8 and 15 followed by observation through day 35, during which a response was assessed at approximately day 28. The number of cycles of Ebvallo administered to patients was determined by the response to treatment as shown in Table 1 (see section 4.2). Seventeen (39.5%) patients required treatment with an Ebvallo lot that had a different HLA restriction (restriction switch). Of these 17 patients, 15 received one restriction switch, 2 received 2 restriction switches and 5 (29.4%) patients achieved a first response following the first restriction switch. Table 4 summarises efficacy results from the SOT-R+C and HCT indicated cohorts.
 
 Table 4: Summary of efficacy results in ALLELE from cohorts SOT-R+C and HCT
 
-|                                                                  | Ebvallo SOT EBV + PTLD a After rituximab and chemotherapy (N = 16)   | Ebvallo HCT EBV + PTLD After rituximab (N = 14)                  |
+|                                      | Ebvallo SOT EBV + PTLD a After rituximab and chemotherapy (N = 16)   | Ebvallo HCT EBV + PTLD a After rituximab (N = 14)   |
+|--------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------|
+| Objective response rate b, c , n (%) | 9 (56.3)                                                             | 7 (50.0)                                            |
+| 95% CI                               | 29.9, 80.2                                                           | 23.0, 77.0                                          |
+| Best overall response c , n (%)      |                                                                      |                                                     |
+| Complete response                    | 5 (31.3)                                                             | 6 (42.9)                                            |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                                                  | Ebvallo SOT EBV + PTLD a After rituximab and chemotherapy (N = 16)   | Ebvallo HCT EBV + PTLD a After rituximab (N = 14)                |
 |------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------|
-| Objective response rate b, c , n (%) 95% CI                      | 9 (56.3) 29.9, 80.2                                                  | 7 (50.0) 23.0, 77.0                                              |
-| Best overall response c , n (%)                                  |                                                                      |                                                                  |
-| Complete response                                                | 5 (31.3)                                                             | 6 (42.9)                                                         |
 | Partial response                                                 | 4 (25.0)                                                             | 1 (7.1)                                                          |
 | Stable disease                                                   | 0                                                                    | 3 (21.4)                                                         |
 | Progressive disease                                              | 4 (25.0)                                                             | 2 (14.3)                                                         |
 | Not evaluable                                                    | 3 (18.8)                                                             | 2 (14.3)                                                         |
 | Time to response c (first complete response or partial response) | Time to response c (first complete response or partial response)     | Time to response c (first complete response or partial response) |
-| Median (min, max) time to                                        | 1.1 (0.7, 4.1)                                                       | 1.0 (1.0, 4.7)                                                   |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                                       | Ebvallo SOT EBV + PTLD a After rituximab and chemotherapy (N = 16)   | Ebvallo HCT EBV + PTLD After rituximab (N = 14)   |
-|-------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------|
-| response, months                                      |                                                                      |                                                   |
-| Duration of response c                                |                                                                      |                                                   |
-| Median (min, max) follow-up in response, months       | 2.3 (0.8, 15.2)                                                      | 15.9 (1.3, 23.3)                                  |
-| Median DOR, months (95% CI)                           | 15.2 (0.8, 15.2)                                                     | 23.0 (15.9, NE)                                   |
-| Patients with durable response (DOR > 6 months), n    | 4                                                                    | 6                                                 |
-| Median duration of complete response, months (95% CI) | 14.1 (6.8, NE)                                                       | 23.0 (15.9, NE)                                   |
-
-CI = confidence interval; DOR = duration of response; EBV +  PTLD = Epstein-Barr virus positive post-transplant
-
-lymphoproliferative disease; HCT = haematopoietic cell transplant; KM = Kaplan-Meier; max = maximum; min = minimum;
-
-NE = not estimable; SOT = solid organ transplant; SOT-R+C = SOT patients who had failed rituximab plus chemotherapy
-
-a Patients received at least one dose of Ebvallo.
-
-b  Objective response rate was the proportion of patients who achieved a response (complete response or partial response).
-
-c  Independent oncologic response adjudication (IORA)-assessed response.
+| Median (min, max) time to response, months                       | 1.1 (0.7, 4.1)                                                       | 1.0 (1.0, 4.7)                                                   |
+| Duration of response c                                           | Duration of response c                                               | Duration of response c                                           |
+| Median (min, max) follow-up in response, months                  | 2.3 (0.8, 15.2)                                                      | 15.9 (1.3, 23.3)                                                 |
+| Median DOR, months (95% CI)                                      | 15.2 (0.8, 15.2)                                                     | 23.0 (15.9, NE)                                                  |
+| Patients with durable response (DOR > 6 months), n               | 4                                                                    | 6                                                                |
+| Median duration of complete response, months (95% CI)            | 14.1 (6.8, NE)                                                       | 23.0 (15.9, NE)                                                  |
 
 ## Special populations
 
@@ -510,7 +497,7 @@ The patient's identity must match the patient identifiers (PFPIN and Institution
 ## Materials required for dose preparation
 
 - Sterile syringes:
-- o Dosing syringe (select a syringe size that can accommodate required diluent [see Prepare the diluent ] and cell dispersion volume)
+- o Dosing syringe (select a syringe size that can accommodate required diluent [see Prepare the diluent] and cell dispersion volume)
 - o Product draw syringe [select a syringe size that can appropriately measure and will accommodate the calculated volume of cell dispersion needed (see section 4.2)]
 - Diluent (sterile, non-pyrogenic multiple electrolytes solution for injection Type 1 pH 7.4)
 - Aseptic devices for transferring product (18-gauge unfiltered syringe needles, Luer Lock adapter, Luer Lock cap)
@@ -539,17 +526,19 @@ The patient's identity must match the patient identifiers (PFPIN and Institution
 - Inspect the diluted Ebvallo in the dosing syringe: cell dispersion should appear as a translucent, hazy solution. If visible clumps appear, continue to gently mix the solution. Small clumps of cellular material should disperse with gentle manual mixing.
 - Maintain Ebvallo between 15 °C to 25 °C during dose preparation and administration. Dose preparation must be completed within 1 hour from the start of thaw. Administration must be completed within 3 hours from the start of thaw. Ebvallo contains 10% DMSO. Ebvallo should be injected to the patient as soon as possible after thawing.
 
-## Measures to take in case of accidental exposure
+Measures to take in case of accidental exposure
 
 In case of accidental exposure, local guidelines on handling of human-derived material should be followed, which may include washing of the contaminated skin and removal of contaminated clothes. Work surfaces and materials which have potentially been in contact with Ebvallo must be decontaminated with appropriate disinfectant.
 
-## Precautions to be taken for the disposal of the medicinal product
+Precautions to be taken for the disposal of the medicinal product
 
 Unused medicinal product and all material that has been in contact with Ebvallo (solid and liquid waste) must be handled and disposed of as potentially infectious waste in accordance with local guidelines on handling of human-derived material.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-PIERRE FABRE MEDICAMENT Les Cauquillous 81500 Lavaur France
+PIERRE FABRE MEDICAMENT Les Cauquillous 81500 Lavaur
+
+France
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -585,7 +574,9 @@ Fujifilm Diosynth Biotechnologies California 2430 Conejo Spectrum Street Thousan
 
 Name and address of the manufacturer(s) responsible for batch release
 
-PIERRE FABRE MEDICAMENT PRODUCTION Parc industriel de la Chartreuse 81100 Castres France
+PIERRE FABRE MEDICAMENT PRODUCTION Parc industriel de la Chartreuse 81100 Castres
+
+France
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -616,11 +607,11 @@ An updated RMP should be submitted:
 
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Due date                                                                                                                      |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| In order to ensure adequate monitoring of safety and efficacy of tabelecleucel in the treatment of patients with EBV + PTLD, the MAHshall provide yearly updates on any new information concerning the safety and efficacy of tabelecleucel.                                                                                                                                                                                                                          | Annually (with re-assessment)                                                                                                 |
-| Non-interventional post-authorisation safety study (PASS): An Observational, Post-authorisation Safety Study to Describe the Safety and Effectiveness of Tabelecleucel in Patients with Epstein-Barr Virus-Positive Posttransplant Lymphoproliferative Disease in Real-world Setting in Europe.                                                                                                                                                                       | Protocol submission: Within 3 months of marketing authorisation Study progress reports: Annually (with annual re- assessment) |
-| In order to further characterise the long-term efficacy and safety of tabelecleucel in patients with EBV + PTLD, the MAHshall provide the final results of the ongoing study ATA129-EBV-302: A Multicentre, Open-Label, Phase 3 Study of Tabelecleucel for Solid Organ or Allogeneic Haematopoietic Cell Transplant Subjects with Epstein-Barr Virus-Associated Post-Transplant Lymphoproliferative Disease after Failure of Rituximab or Rituximab and Chemotherapy. | Interim reports: With annual re-assessment Final CSR: December 2027                                                           |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Due date                                                                                                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| In order to ensure adequate monitoring of safety and efficacy of tabelecleucel in the treatment of patients with EBV + PTLD, the MAH shall provide yearly updates on any new information concerning the safety and efficacy of tabelecleucel.                                                                                                                                                                                                                          | Annually (with re-assessment)                                                                                                 |
+| Non-interventional post-authorisation safety study (PASS): An Observational, Post-authorisation Safety Study to Describe the Safety and Effectiveness of Tabelecleucel in Patients with Epstein-Barr Virus-Positive Posttransplant Lymphoproliferative Disease in Real-world Setting in Europe.                                                                                                                                                                        | Protocol submission: Within 3 months of marketing authorisation Study progress reports: Annually (with annual re- assessment) |
+| In order to further characterise the long-term efficacy and safety of tabelecleucel in patients with EBV + PTLD, the MAH shall provide the final results of the ongoing study ATA129-EBV-302: A Multicentre, Open-Label, Phase 3 Study of Tabelecleucel for Solid Organ or Allogeneic Haematopoietic Cell Transplant Subjects with Epstein-Barr Virus-Associated Post-Transplant Lymphoproliferative Disease after Failure of Rituximab or Rituximab and Chemotherapy. | Interim reports: With annual re-assessment Final CSR: December 2027                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -642,7 +633,7 @@ CARTON
 
 Ebvallo 2.8 × 10 7 - 7.3 × 10 7 cells/mL dispersion for injection tabelecleucel (EBV-specific viable T cells)
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S )
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 An allogeneic Epstein-Barr virus (EBV)-specific T-cell immunotherapy. Each vial contains 1 mL deliverable volume at a concentration of 2.8 × 10 7 - 7.3 × 10 7 viable T cells/mL dispersion for injection.
 
@@ -711,7 +702,7 @@ EU/1/22/1700/001
 
 ## 13. BATCH NUMBER, DONATION AND PRODUCT CODES
 
-PFPIN:
+## PFPIN:
 
 Institution Patient ID:
 
@@ -721,9 +712,7 @@ FDP Number:
 
 Number of Vials:
 
-Actual Concentration: X.X × 10 viable T cells/mL
-
-7
+Actual Concentration: X.X × 10 7 viable T cells/mL
 
 Donor ID:
 
@@ -742,8 +731,8 @@ Justification for not including Braille accepted.
 
 Not applicable.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 Not applicable.
 
@@ -799,21 +788,21 @@ The actual concentration noted below should be used to calculate the patient dos
 
 ## PATIENT DOSE CALCULATION
 
-Volume of diluent to be used (mL)   \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Volume of diluent to be used (mL) \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
-Patient weight (kg)   \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Patient weight (kg) \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 × target dose (2 × 10 6 viable T cells/kg) =
 
-Viable T cells to be administered   \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Viable T cells to be administered \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 ÷
 
-Actual concentration (viable T cells/mL)   \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Actual concentration (viable T cells/mL) \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 =
 
-Volume of thawed cell dispersion required (mL)   \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Volume of thawed cell dispersion required (mL) \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 ## 4. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -848,18 +837,23 @@ Transport security and product quality during shipment are monitored through tra
 
 The following lot was manufactured and included in this shipment:
 
-| Lot Number                                        |                            |
-|---------------------------------------------------|----------------------------|
-| Donor ID                                          |                            |
-| Finished Drug Product (FDP) Number                |                            |
-| Number of Vials                                   |                            |
-| Actual Concentration (viable T cells/mL)          |                            |
-| Expiry Date                                       |                            |
-| Donor/Donated Cells Cytomegalovirus (CMV) Markers | IgM Antibodies             |
-| Donor/Donated Cells Cytomegalovirus (CMV) Markers | IgG Antibodies             |
-| Donor/Donated Cells Cytomegalovirus (CMV) Markers | Nucleic Acid Testing (NAT) |
+Lot Number
 
-## PRODUCT LOT HLA PROFILE (restrictions in bold red )
+Donor ID
+
+Finished Drug Product (FDP) Number
+
+Number of Vials
+
+Actual Concentration (viable T cells/mL)
+
+Expiry Date
+
+Donor/Donated Cells Cytomegalovirus
+
+(CMV) Markers IgM Antibodies IgG Antibodies Nucleic Acid Testing (NAT)
+
+## PRODUCT LOT HLA PROFILE (restrictions in bold red)
 
 | HLA   | ALLELE 1   | ALLELE 2   |
 |-------|------------|------------|
@@ -885,8 +879,8 @@ This medicine contains human blood cells. Unused medicine or waste material must
 | Patient Weight (kg)                                  |
 | SEC                                                  |
 
-| 10. NAMEANDADDRESS OF THE MARKETING AUTHORISATIONHOLDER   |
-|-----------------------------------------------------------|
+| 10. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|--------------------------------------------------------------|
 
 PIERRE FABRE MEDICAMENT Les Cauquillous 81500 Lavaur France
 
@@ -903,17 +897,19 @@ EU/1/22/1700/001
 
 ## Package leaflet: Information for the patient
 
-## Ebvallo 2.8 × 10 7 -7.3 × 10 7 cells/mL dispersion for injection
+## Ebvallo 2.8 × 10 7 - 7.3 × 10 7 cells/mL dispersion for injection
 
 ## tabelecleucel (EBV-specific viable T cells)
+
+<!-- image -->
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or nurse.
-- -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -936,7 +932,7 @@ Ebvallo is used to treat a rare kind of cancer called Epstein-Barr virus positiv
 
 ## You must not be given Ebvallo
 
-- -if you are allergic to tabelecleucel or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice.
+- if you are allergic to tabelecleucel or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice.
 
 ## Warnings and precautions
 
@@ -955,7 +951,7 @@ Talk to your doctor or nurse after you are given Ebvallo if:
 - you have signs and symptoms of a serious immune reaction called immune effector cell-associated neurotoxicity syndrome (ICANS), such as depressed level of consciousness, confusion, seizures and swelling of the brain.
 - you have signs and symptoms of infusion-related reactions, such as fever.
 
-An ingredient of Ebvallo called dimethyl sulfoxide (DMSO) may cause an allergic reaction. Your doctor or nurse will monitor you for signs and symptoms of an allergic reaction. See section 2 'Ebvallo contains sodium and dimethyl sulfoxide (DMSO)'.
+An ingredient of Ebvallo called dimethyl sulfoxide (DMSO) may cause an allergic reaction. Your doctor or nurse will monitor you for signs and symptoms of an allergic reaction. See section 2 \"Ebvallo contains sodium and dimethyl sulfoxide (DMSO)\".
 
 Ebvallo is tested for the presence of infectious microbes, but a small risk of infection remains. Your doctor or nurse will monitor you for signs and symptoms of infections and provide treatment as needed.
 
@@ -985,7 +981,7 @@ Ebvallo has minor influence on the ability to drive or use machines. If you expe
 
 This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodiumfree'.
 
-This medicine contains 100 mg DMSO per mL. See Section 2 'Warnings and precautions'.
+This medicine contains 100 mg DMSO per mL. See Section 2 \"Warnings and precautions\".
 
 ## 3. How Ebvallo is given
 
@@ -1013,6 +1009,7 @@ Tell your doctor immediately if you get any of the following side effects after 
 
 - Tumour flare reaction with symptoms such as shortness of breath, changes in your thinking or level of alertness, pain at the tumour site, tender swollen lymph nodes at the tumour site, low grade fever
 - Graft-versus-host disease (GvHD) with symptoms such as skin rash, abnormal liver enzymes in the blood, yellowing of the skin, nausea, vomiting, diarrhoea and bloody stools
+- Serious immune reaction called Cytokine release syndrome (CRS), that may cause fever, chills, low blood pressure and shortness of breath.
 
 ## Other possible side effects
 
@@ -1024,11 +1021,11 @@ Tell your doctor immediately if you get any of the following side effects after 
 - Feeling sick (nausea)
 - Low levels of red blood cells (anaemia)
 - Decreased appetite
-- Decreased levels of sodium in the blood
-- Abdominal pain or discomfort
 
 <div style=\"page-break-after: always\"></div>
 
+- Decreased levels of sodium in the blood
+- Abdominal pain or discomfort
 - Decreased number of white blood cells (including neutrophils)
 - Increased liver enzymes in the blood
 - Constipation
@@ -1080,10 +1077,11 @@ Tell your doctor immediately if you get any of the following side effects after 
 - Bleeding in the lungs
 - Skin discolouration
 - Skin infection
-- Destruction of soft tissue
-- Persistent cough
 
 <div style=\"page-break-after: always\"></div>
+
+- Destruction of soft tissue
+- Persistent cough
 
 ## Reporting of side effects
 
@@ -1101,9 +1099,8 @@ Store between 15 °C to 25 °C after thawing and dilution are complete. Protect 
 
 ## What Ebvallo contains
 
-- Ebvallo contains tabelecleucel at an approximate concentration of
-- -2.8 × 10 7 - 7.3 × 10 7 cells/mL.
-- -The other ingredients (excipients) are: dimethyl sulfoxide, human serum albumin, phosphate buffered saline. See section 2 'Ebvallo contains sodium and dimethyl sulfoxide (DMSO)'.
+- Ebvallo contains tabelecleucel at an approximate concentration of 2.8 × 10 7 - 7.3 × 10 7 cells/mL.
+- The other ingredients (excipients) are: dimethyl sulfoxide, human serum albumin, phosphate buffered saline. See section 2 \"Ebvallo contains sodium and dimethyl sulfoxide (DMSO)\".
 
 ## What Ebvallo looks like and contents of the pack
 
@@ -1119,21 +1116,15 @@ France
 
 ## Manufacturer
 
-PIERRE FABRE MEDICAMENT PRODUCTION
-
-Parc industriel de la Chartreuse
-
-81100 Castres
+PIERRE FABRE MEDICAMENT PRODUCTION Parc industriel de la Chartreuse 81100 Castres
 
 France
 
 ## This leaflet was last revised in
 
-This medicine has been authorised under 'exceptional circumstances'. This means that because of the rarity of this disease, it has been impossible to get complete information on this medicine. The
-
 <div style=\"page-break-after: always\"></div>
 
-European Medicines Agency will review any new information on this medicine every year and this leaflet will be updated as necessary.
+This medicine has been authorised under 'exceptional circumstances'. This means that because of the rarity of this disease, it has been impossible to get complete information on this medicine. The European Medicines Agency will review any new information on this medicine every year and this leaflet will be updated as necessary.
 
 ## Other sources of information
 
@@ -1145,7 +1136,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 It is important that you read the entire content of this procedure prior to administering Ebvallo.
 
-## Precautions to be taken before handling or administering the medicinal product
+Precautions to be taken before handling or administering the medicinal product
 
 - This medicinal product contains human blood cells. Healthcare professionals handling Ebvallo must take appropriate precautions (wearing gloves and glasses) to avoid potential transmission of infectious diseases.
 
@@ -1190,8 +1181,32 @@ It is important that you read the entire content of this procedure prior to admi
 
 ## Measures to take in case of accidental exposure
 
-In case of accidental exposure, local guidelines on handling of human-derived material should be followed, which may include washing of the contaminated skin and removal of contaminated clothes. Work surfaces and materials which have potentially been in contact with Ebvallo must be decontaminated with appropriate disinfectant .
+In case of accidental exposure, local guidelines on handling of human-derived material should be followed, which may include washing of the contaminated skin and removal of contaminated clothes. Work surfaces and materials which have potentially been in contact with Ebvallo must be decontaminated with appropriate disinfectant.
 
 ## Precautions to be taken for the disposal of the medicinal product
 
 Unused medicinal product and all material that has been in contact with Ebvallo (solid and liquid waste) must be handled and disposed of as potentially infectious waste in accordance with local guidelines on handling of human-derived material.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for tabelecleucel, the scientific conclusions of PRAC are as follows:
+
+In view of available data on Cytokine Release Syndrome (CRS) from clinical trials, post authorisation safety studies, spontaneous reports including in two cases with a close temporal relationship, a case with positive re-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between tabelecleucel and Cytokine Release Syndrome (CRS) is at least a reasonable possibility.
+
+The PRAC concluded that the product information of products containing tabelecleucel should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for tabelecleucel the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing tabelecleucel is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

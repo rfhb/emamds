@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-09-08 16:44:00
+document_datetime: 2026-10-01 10:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lucentis.html
 document_name: lucentis.html
 version: success
-processing_time: 0.2306105
-conversion_datetime: 2026-09-11 17:56:09.26361
+processing_time: 0.2444306
+conversion_datetime: 2026-10-04 16:22:57.678261
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.96.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.19.1
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Lucentis
 
 [RSS](/en/individual-human-medicine.xml/65486)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -153,7 +153,7 @@ English (EN) (90.1 KB - PDF)
 
 [View](/en/documents/overview/lucentis-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-809)
+[Other languages (22)](#file-language-dropdown-44)
 
 български (BG) (121.39 KB - PDF)
 
@@ -289,9 +289,9 @@ svenska (SV) (88.75 KB - PDF)
 
 Lucentis : EPAR - Risk Management Plan
 
-English (EN) (13.81 MB - PDF)
+English (EN) (1.03 MB - PDF)
 
-**First published:** 31/08/2018 **Last updated:** 17/05/2023
+**First published:** 31/08/2018 **Last updated:** 01/10/2026
 
 [View](/en/documents/rmp/lucentis-epar-risk-management-plan_en.pdf)
 
@@ -305,7 +305,7 @@ English (EN) (1.13 MB - PDF)
 
 [View](/en/documents/product-information/lucentis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-45)
+[Other languages (24)](#file-language-dropdown-397)
 
 български (BG) (1.26 MB - PDF)
 
@@ -451,9 +451,9 @@ norsk (NO) (932.49 KB - PDF)
 
 [View](/no/documents/product-information/lucentis-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000327906
+**Latest procedure affecting product information:** VR/0000372986
 
-20/08/2026
+28/09/2026
 
 icon globe
 
@@ -478,7 +478,7 @@ English (EN) (81.14 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-421)
+[Other languages (24)](#file-language-dropdown-538)
 
 български (BG) (90.3 KB - PDF)
 
@@ -632,7 +632,7 @@ English (EN) (119 KB - PDF)
 
 [View](/en/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-207)
+[Other languages (23)](#file-language-dropdown-728)
 
 български (BG) (164.95 KB - PDF)
 
@@ -813,7 +813,7 @@ Lucentis is indicated in adults for:
 - **Marketing authorisation issued**
     - 22/01/2007
 - **Revision**
-    - 49
+    - 50
 
 ## Assessment history
 
@@ -825,9 +825,9 @@ Collapse section
 
 Lucentis : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.64 KB - PDF)
+English (EN) (146.98 KB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 08/09/2026
+**First published:** 17/12/2025 **Last updated:** 01/10/2026
 
 [View](/en/documents/procedural-steps-after/lucentis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -927,7 +927,7 @@ English (EN) (72.96 KB - PDF)
 
 **First published:** 26/07/2019
 
-[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-lucentis-ii0074g_en.pdf)
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-lucentis-ii-0074-g_en.pdf)
 
 Lucentis-H-C-000715-P46-073 : EPAR - Assessment Report
 
@@ -1081,7 +1081,7 @@ English (EN) (1.13 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-987)
+[Other languages (24)](#file-language-dropdown-30)
 
 български (BG) (1.15 MB - DOCX)
 
@@ -1238,10 +1238,10 @@ norsk (NO) (881.41 KB - DOCX)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-08/09/2026
+01/10/2026
 
 ## Share this page

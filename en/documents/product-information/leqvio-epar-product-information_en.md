@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-04 11:15:18
-document_pages: 42
+document_datetime: 2026-10-02 10:36:52
+document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/leqvio-epar-product-information_en.pdf
 document_name: leqvio-epar-product-information_en.pdf
 version: success
-processing_time: 10.817895
-conversion_datetime: 2026-03-05 11:37:34.416995
+processing_time: 46.8204094
+conversion_datetime: 2026-10-04 15:36:22.068274
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,7 +44,7 @@ The solution is clear, colourless to pale yellow, and essentially free of partic
 
 ## 4.1 Therapeutic indications
 
-Leqvio is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet:
+Leqvio is indicated in adults with primary hypercholesterolaemia (heterozygous familial and nonfamilial) or mixed dyslipidaemia, as an adjunct to diet, and in paediatric patients aged 12 years and older with heterozygous familial hypercholesterolaemia (HeFH):
 
 - in combination with a statin or statin with other lipid-lowering therapies in patients unable to reach LDL-C goals with the maximum tolerated dose of a statin, or
 - alone or in combination with other lipid-lowering therapies in patients who are statin-intolerant, or for whom a statin is contraindicated.
@@ -53,27 +53,27 @@ Leqvio is indicated in adults with primary hypercholesterolaemia (heterozygous f
 
 ## Posology
 
-The recommended dose is 284 mg inclisiran administered as a single subcutaneous injection: initially, again at 3 months, followed by every 6 months.
+The recommended dose for adults and paediatric patients aged 12 years and older is 284 mg inclisiran administered as a single subcutaneous injection: initially, again at 3 months, followed by every 6 months.
 
 ## Missed doses
 
 If a planned dose is missed by less than 3 months, inclisiran should be administered and dosing continued according to the patient's original schedule.
 
-If a planned dose is missed by more than 3 months, a new dosing schedule should be started -inclisiran should be administered initially, again at 3 months, followed by every 6 months.
+If a planned dose is missed by more than 3 months, a new dosing schedule should be started - inclisiran should be administered initially, again at 3 months, followed by every 6 months.
 
 ## Treatment transition from monoclonal antibody proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors
 
 Inclisiran can be administered immediately after the last dose of a monoclonal antibody PCSK9 inhibitor. To maintain low-density lipoprotein cholesterol (LDL-C) lowering it is recommended that inclisiran is administered within 2 weeks after the last dose of a monoclonal antibody PCSK9 inhibitor.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Special populations Elderly
 
 No dose adjustments are necessary in elderly patients (see section 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic impairment
 
-No dose adjustments are necessary for patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment. No data are available in patients with severe hepatic impairment (Child-Pugh class C) (see section 5.2). Inclisiran should be used with caution in patients with severe hepatic impairment.
+No dose adjustments are necessary for patients with mild (Child-Pugh class A) or moderate (ChildPugh class B) hepatic impairment. No data are available in patients with severe hepatic impairment (Child-Pugh class C) (see section 5.2). Inclisiran should be used with caution in patients with severe hepatic impairment.
 
 ## Renal impairment
 
@@ -81,11 +81,11 @@ No dose adjustments are necessary for patients with mild, moderate or severe ren
 
 ## Paediatric population
 
-The safety and efficacy of inclisiran in children aged less than 18 years have not yet been established. No data are available.
+The safety and efficacy of inclisiran in children aged less than 12 years have not yet been established. No data are available.
 
 ## Method of administration
 
-## Subcutaneous use.
+Subcutaneous use.
 
 Inclisiran is for subcutaneous injection into the abdomen; alternative injection sites include the upper arm or thigh. Injections should not be given into areas of active skin disease or injury such as sunburns, skin rashes, inflammation or skin infections.
 
@@ -105,13 +105,13 @@ The effect of haemodialysis on inclisiran pharmacokinetics has not been studied.
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ' sodium-free ' .
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially \"sodium-free\".
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Inclisiran is not a substrate for common drug transporters and, although in vitro studies were not conducted, it is not anticipated to be a substrate for cytochrome P450. Inclisiran is not an inhibitor or inducer of cytochrome P450 enzymes or common drug transporters. Therefore, inclisiran is not expected to have clinically significant interactions with other medicinal products. Based on the limited data available, clinically meaningful interactions with atorvastatin, rosuvastatin or other statins are not expected.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -141,14 +141,17 @@ The only adverse reactions associated with inclisiran were adverse reactions at 
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are presented by system organ class (Table 1). Frequency categories are defined as: v ery common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
+Adverse reactions are presented by system organ class (Table 1). Frequency categories are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
 
-## Table 1 Adverse reactions reported in patients treated with inclisiran
+<div style=\"page-break-after: always\"></div>
 
-| System organ class                                        | Adverse reaction                                          | Frequency category                                        |
-|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
-| General disorders and administration site conditions      | Adverse reactions at the injection site 1                 | Common                                                    |
-| 1 See section 'Description of selected adverse reactions' | 1 See section 'Description of selected adverse reactions' | 1 See section 'Description of selected adverse reactions' |
+Table 1 Adverse reactions reported in patients treated with inclisiran
+
+| System organ class                                        | Adverse reaction                                                                        | Frequency category                                        |
+|-----------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Immune system disorders                                   | Hypersensitivity including anaphylactic reaction, angioedema, rash, urticaria, pruritus | Not known                                                 |
+| General disorders and administration site conditions      | Adverse reactions at the injection site 1                                               | Common                                                    |
+| 1 See section \"Description of selected adverse reactions\" | 1 See section \"Description of selected adverse reactions\"                               | 1 See section \"Description of selected adverse reactions\" |
 
 ## Description of selected adverse reactions
 
@@ -156,9 +159,11 @@ Adverse reactions are presented by system organ class (Table 1). Frequency categ
 
 Adverse reactions at the injection site occurred in 8.2% and 1.8% of inclisiran and placebo patients, respectively, in the pivotal studies. The proportion of patients in each group who discontinued treatment due to adverse reactions at the injection site was 0.2% and 0.0%, respectively. All of these adverse reactions were mild or moderate in severity, transient and resolved without sequelae. The most frequently occurring adverse reactions at the injection site in patients treated with inclisiran were injection site reaction (3.1%), injection site pain (2.2%), injection site erythema (1.6%), and injection site rash (0.7%).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
+
+## Paediatric population
+
+The safety and efficacy of inclisiran were assessed in two phase III studies in paediatric patients. The first study was a 24-month, two-part study of 141 patients aged 12 to less than 18 years with HeFH, consisting of a 12-month double-blind, placebo-controlled part followed by a 12-month open-label part. The second study was a 24-month, two-part study of 13 patients aged 12 to less than 18 years with homozygous familial hypercholesterolaemia (HoFH), consisting of a 12-month double-blind, placebo-controlled part followed by a 12-month open-label part. The safety profile of inclisiran reported in these studies was consistent with the safety profile reported in adult patients and no new safety findings were observed during the studies.
 
 ## Elderly
 
@@ -171,6 +176,8 @@ In the pivotal studies 1 830 patients were tested for anti-drug antibodies. Conf
 ## Laboratory values
 
 In the phase III clinical studies, there were more frequent elevations of serum hepatic transaminases between &gt;1x the upper limit of normal (ULN) and ≤3x ULN in patients on inclisiran (ALT: 19.7% and AST: 17.2%) than in patients on placebo (ALT: 13.6% and AST: 11.1%). These elevations did not progress to exceed the clinically relevant threshold of 3x ULN, were asymptomatic and were not associated with adverse reactions or other evidence of liver dysfunction.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -190,19 +197,19 @@ Pharmacotherapeutic group: lipid modifying agents, other lipid modifying agents,
 
 Inclisiran is a cholesterol-lowering, double-stranded, small interfering ribonucleic acid (siRNA), conjugated on the sense strand with triantennary N-acetylgalactosamine (GalNAc) to facilitate uptake by hepatocytes. In hepatocytes, inclisiran utilises the RNA interference mechanism and directs catalytic breakdown of mRNA for proprotein convertase subtilisin kexin type 9. This increases LDL-C receptor recycling and expression on the hepatocyte cell surface, which increases LDL-C uptake and lowers LDL-C levels in the circulation.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pharmacodynamic effects
 
-Following a single subcutaneous administration of 284 mg inclisiran, LDL-C reduction was apparent within 14 days post-dose. Mean reductions of 49-51% for LDL-C were observed 30 to 60 days post-dose. At day 180, LDL-C levels were still reduced by approximately 53%.
+Following a single subcutaneous administration of 284 mg inclisiran, LDL-C reduction was apparent within 14 days post-dose. Mean reductions of 49-51% for LDL-C were observed 30 to 60 days postdose. At day 180, LDL-C levels were still reduced by approximately 53%.
 
 ## Clinical efficacy and safety
 
 In clinical studies and some publications, the 284 mg inclisiran dose is equivalent and referred to as 300 mg inclisiran sodium salt.
 
-The efficacy of inclisiran was evaluated in three phase III studies in patients with atherosclerotic cardiovascular disease (ASCVD) (coronary heart disease, cerebrovascular disease or peripheral artery disease), ASCVD risk equivalents (type 2 diabetes mellitus, familial hypercholesterolaemia, or 10-year risk of 20% or greater of having a cardiovascular event assessed by Framingham Risk Score or equivalent) and/or familial hypercholesterolaemia (FH). Patients were taking a maximally tolerated dose of statin with or without other lipid-modifying therapy and required additional LDL-C reduction (patients unable to reach their treatment goals). Approximately 17% of patients were statin intolerant. Patients were administered subcutaneous injections of 284 mg inclisiran or placebo on day 1, day 90, day 270 and day 450. Patients were followed until day 540.
+The efficacy of inclisiran was evaluated in three phase III studies in adult patients with atherosclerotic cardiovascular disease (ASCVD) (coronary heart disease, cerebrovascular disease or peripheral artery disease), ASCVD risk equivalents (type 2 diabetes mellitus, familial hypercholesterolaemia, or 10year risk of 20% or greater of having a cardiovascular event assessed by Framingham Risk Score or equivalent) and/or familial hypercholesterolaemia (FH). Patients were taking a maximally tolerated dose of statin with or without other lipid-modifying therapy and required additional LDL-C reduction (patients unable to reach their treatment goals). Approximately 17% of patients were statin intolerant. Patients were administered subcutaneous injections of 284 mg inclisiran or placebo on day 1, day 90, day 270 and day 450. Patients were followed until day 540.
 
 The effect of inclisiran on cardiovascular morbidity and mortality has not yet been determined.
+
+<div style=\"page-break-after: always\"></div>
 
 In the phase III pooled analysis, subcutaneously administered inclisiran lowered LDL-C between 50% and 55% as early as day 90 (Figure 1), which was maintained during long-term therapy. Maximal LDL-C reduction was achieved at day 150 following a second administration. Small but statistically significant increased LDL-C reductions up to 65% were associated with lower baseline LDL-C levels (approximately &lt;2 mmol/l [77 mg/dl]), higher baseline PCSK9 levels and higher statin doses and statin intensity.
 
@@ -212,19 +219,17 @@ Figure 1 Mean percentage change from baseline LDL-C in patients with primary hyp
 
 ## ASCVD and ASCVD risk equivalents
 
-Two studies were conducted in patients with ASCVD and ASCVD risk equivalents (ORION-10 and ORION-11). Patients were taking a maximally tolerated dose of statins with or without other lipid-modifying therapy, such as ezetimibe, and required additional LDL-C reduction. As lowering LDL-C is expected to improve cardiovascular outcomes, the co-primary endpoints in each study were the percentage change in LDL-C from baseline to day 510 relative to placebo and the time-adjusted
-
-<div style=\"page-break-after: always\"></div>
-
-percentage change in LDL-C from baseline after day 90 and up to day 540 to estimate the integrated effect on LDL-C over time.
+Two studies were conducted in patients with ASCVD and ASCVD risk equivalents (ORION-10 and ORION-11). Patients were taking a maximally tolerated dose of statins with or without other lipidmodifying therapy, such as ezetimibe, and required additional LDL-C reduction. As lowering LDL-C is expected to improve cardiovascular outcomes, the co-primary endpoints in each study were the percentage change in LDL-C from baseline to day 510 relative to placebo and the time-adjusted percentage change in LDL-C from baseline after day 90 and up to day 540 to estimate the integrated effect on LDL-C over time.
 
 ORION-10 was a multicentre, double-blind, randomised, placebo-controlled 18-month study conducted in 1 561 patients with ASCVD.
 
-The mean age at baseline was 66 years (range: 35 to 90 years), 60 % were ≥65 years old, 31% were women, 86% were White, 13% were Black, 1% were Asian and 14% were Hispanic or Latino ethnicity. The mean baseline LDL C was 2.7 mmol/l (105 mg/dl). Sixty-nine percent (69%) were taking high-intensity statins, 19% were taking medium-intensity statins, 1% were taking low-intensity statins and 11% were not on a statin. The most commonly administered statins were atorvastatin and rosuvastatin.
+The mean age at baseline was 66 years (range: 35 to 90 years), 60% were ≥65 years old, 31% were women, 86% were White, 13% were Black, 1% were Asian and 14% were Hispanic or Latino ethnicity. The mean baseline LDL C was 2.7 mmol/l (105 mg/dl). Sixty-nine percent (69%) were taking high-intensity statins, 19% were taking medium-intensity statins, 1% were taking low-intensity statins and 11% were not on a statin. The most commonly administered statins were atorvastatin and rosuvastatin.
 
 Inclisiran significantly reduced the mean percentage change in LDL-C from baseline to day 510 compared to placebo by 52% (95% CI: -56%, -49%; p &lt;0.0001) (Table 2).
 
 Inclisiran also significantly reduced the time-adjusted percentage change in LDL-C from baseline after day 90 and up to day 540 by 54% compared to placebo (95% CI: -56%, -51%; p &lt;0.0001). For additional results, see Table 2.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 2 Mean percentage change from baseline and difference from placebo in lipid parameters at day 510 in ORION-10
 
@@ -245,25 +250,22 @@ ORION-11 was an international, multicentre, double-blind, randomised, placebo-co
 
 The mean age at baseline was 65 years (range: 20 to 88 years), 55% were ≥65 years old, 28% were women, 98% were White, 1% were Black ,1% were Asian and 1% were Hispanic or Latino ethnicity. The mean baseline LDL-C was 2.7 mmol/l (105 mg/dl). Seventy-eight percent (78%) were taking high-intensity statins, 16% were taking medium-intensity statins, 0.4% were taking low-intensity statins and 5% were not on a statin. The most commonly administered statins were atorvastatin and rosuvastatin.
 
-<div style=\"page-break-after: always\"></div>
-
 Inclisiran significantly reduced the mean percentage change in LDL-C from baseline to day 510 compared to placebo by 50% (95% CI: -53%, -47%; p&lt;0.0001) (Table 3).
 
 Inclisiran also significantly reduced time-adjusted percentage change in LDL-C from baseline after day 90 and up to day 540 by 49% compared to placebo (95% CI: -52%, -47%; p&lt;0.0001). For additional results, see Table 3.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 3 Mean percentage change from baseline and difference from placebo in lipid parameters at day 510 in ORION-11
 
-| Treatment group                                | LDL-C                                          | Total cholesterol                              | Non-HDL-C                                      | Apo-B                                          | Lp(a)*                                         |
-|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| Mean baseline value in mg/dl**                 | 105                                            | 185                                            | 136                                            | 96                                             | 107                                            |
-| Day 510 (mean percentage change from baseline) | Day 510 (mean percentage change from baseline) | Day 510 (mean percentage change from baseline) | Day 510 (mean percentage change from baseline) | Day 510 (mean percentage change from baseline) | Day 510 (mean percentage change from baseline) |
-| Placebo (n=807)                                | 4                                              | 2                                              | 2                                              | 1                                              | 0                                              |
-| Inclisiran (n=810)                             | -46                                            | -28                                            | -41                                            | -38                                            | -19                                            |
-| Difference from placebo (LS mean) (95% CI)     | -50 (-53, -47)                                 | -30 (-32, -28)                                 | -43 (-46, -41)                                 | -39 (-41, -37)                                 | -19 (-21, -16)                                 |
-
-*At day 540; median percentage change in Lp(a) values
-
-**Mean baseline value in nmol/l for Lp(a)
+| Treatment group                                                                                 | LDL-C                                                                                           | Total cholesterol                                                                               | Non-HDL-C                                                                                       | Apo-B                                                                                           | Lp(a)*                                                                                          |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Mean baseline value in mg/dl**                                                                  | 105                                                                                             | 185                                                                                             | 136                                                                                             | 96                                                                                              | 107                                                                                             |
+| Day 510 (mean percentage change from baseline)                                                  | Day 510 (mean percentage change from baseline)                                                  | Day 510 (mean percentage change from baseline)                                                  | Day 510 (mean percentage change from baseline)                                                  | Day 510 (mean percentage change from baseline)                                                  | Day 510 (mean percentage change from baseline)                                                  |
+| Placebo (n=807)                                                                                 | 4                                                                                               | 2                                                                                               | 2                                                                                               | 1                                                                                               | 0                                                                                               |
+| Inclisiran (n=810)                                                                              | -46                                                                                             | -28                                                                                             | -41                                                                                             | -38                                                                                             | -19                                                                                             |
+| Difference from placebo (LS mean) (95% CI)                                                      | -50 (-53, -47)                                                                                  | -30 (-32, -28)                                                                                  | -43 (-46, -41)                                                                                  | -39 (-41, -37)                                                                                  | -19 (-21, -16)                                                                                  |
+| *At day 540; median percentage change in Lp(a) values **Mean baseline value in nmol/l for Lp(a) | *At day 540; median percentage change in Lp(a) values **Mean baseline value in nmol/l for Lp(a) | *At day 540; median percentage change in Lp(a) values **Mean baseline value in nmol/l for Lp(a) | *At day 540; median percentage change in Lp(a) values **Mean baseline value in nmol/l for Lp(a) | *At day 540; median percentage change in Lp(a) values **Mean baseline value in nmol/l for Lp(a) | *At day 540; median percentage change in Lp(a) values **Mean baseline value in nmol/l for Lp(a) |
 
 At day 510, the LDL-C target of &lt;1.8 mmol/l (70 mg/dl) was achieved by 82% of inclisiran patients with ASCVD compared to 16% of placebo patients. In patients with an ASCVD risk equivalent, the LDL-C target of &lt;2.6 mmol/l (100 mg/dl) was achieved by 78% of inclisiran patients compared to 31% of placebo patients.
 
@@ -271,19 +273,17 @@ Consistent and statistically significant (p&lt;0.05) percentage change in LDL-C 
 
 ## Heterozygous familial hypercholesterolaemia
 
-ORION-9 was an international, multicentre, double-blind, randomised, placebo-controlled 18-month trial in 482 patients with heterozygous familial hypercholesterolaemia (HeFH). All patients were taking maximally tolerated doses of statins with or without other lipid-modifying therapy, such as ezetimibe, and required additional LDL-C reduction. The diagnosis of HeFH was made either by ge notyping or clinical criteria ('definite FH' using either the Simon Broome or WHO/Dutch Lipid Network criteria).
+ORION-9 was an international, multicentre, double-blind, randomised, placebo-controlled 18-month trial in 482 patients with heterozygous familial hypercholesterolaemia (HeFH). All patients were taking maximally tolerated doses of statins with or without other lipid-modifying therapy, such as ezetimibe, and required additional LDL-C reduction. The diagnosis of HeFH was made either by genotyping or clinical criteria (\"definite FH\" using either the Simon Broome or WHO/Dutch Lipid Network criteria).
 
 The co-primary endpoints were the percentage change in LDL-C from baseline to day 510 relative to placebo, and the time-adjusted percentage change in LDL-C from baseline after day 90 and up to day 540 to estimate the integrated effect on LDL-C over time. Key secondary endpoints were the absolute change in LDL-C from baseline to day 510, the time-adjusted absolute change in LDL-C from baseline after day 90 and up to day 540 and the percentage change from baseline to day 510 in PCSK9, total cholesterol, Apo-B, and non-HDL-C. Additional secondary endpoints included the, individual responsiveness to inclisiran and the proportion of patients attaining global lipid targets for their level of ASCVD risk.
 
-The mean age at baseline was 55 years (range: 21 to 80 years), 22% were ≥65 years old, 53% were women, 94% were White, 3% were Black, 3% were Asian and 3% were Hispanic or Latino ethnicity. The mean baseline LDL-C was 4.0 mmol/l (153 mg/dl). Seventy-four percent (74%) were taking high-intensity statins, 15% were taking medium-intensity statins and 10% were not on a statin.
-
-<div style=\"page-break-after: always\"></div>
-
-Fifty-two percent (52%) of patients were treated with ezetimibe. The most commonly administered statins were atorvastatin and rosuvastatin.
+The mean age at baseline was 55 years (range: 21 to 80 years), 22% were ≥65 years old, 53% were women, 94% were White, 3% were Black, 3% were Asian and 3% were Hispanic or Latino ethnicity. The mean baseline LDL-C was 4.0 mmol/l (153 mg/dl). Seventy-four percent (74%) were taking highintensity statins, 15% were taking medium-intensity statins and 10% were not on a statin. Fifty-two percent (52%) of patients were treated with ezetimibe. The most commonly administered statins were atorvastatin and rosuvastatin.
 
 Inclisiran significantly reduced the mean percentage change in LDL-C from baseline to day 510 compared to placebo by 48% (95% CI: -54%, -42%; p&lt;0.0001) (Table 4).
 
 Inclisiran also significantly reduced the time-adjusted percentage change in LDL-C from baseline after day 90 and up to day 540 by 44% compared to placebo (95% CI: -48%, -40%; p&lt;0.0001). For additional results, see Table 4.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4 Mean percentage change from baseline and difference from placebo in lipid parameters at day 510 in ORION-9
 
@@ -302,7 +302,33 @@ Consistent and statistically significant (p&lt;0.05) percentage change in LDL-C 
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with inclisiran in one or more subsets of the paediatric population in the treatment of elevated cholesterol (see section 4.2 for information on paediatric use).
+## Heterozygous familial hypercholesterolaemia (HeFH) in paediatric patients
+
+ORION-16 was a 24-month, two-part study consisting of a 12-month randomised, double-blind, placebo-controlled part (Part 1/Year 1), followed by a 12-month open-label part (Part 2/Year 2) during which all patients received inclisiran. ORION-16 enrolled 141 paediatric patients aged 12 to &lt;18 years with HeFH and elevated LDL-C. Most patients were taking statins with or without other LDL-Clowering therapies. In Year 1, patients were randomised in a 2:1 ratio and were administered subcutaneous injections of 284 mg inclisiran (n=93) or placebo (n=48) on day 1, day 90, and day 270.
+
+The primary endpoint was the percentage change in LDL-C from baseline to day 330. The secondary endpoints included time-adjusted percent change in LDL-C from baseline after day 90 and up to day 330, and the percent change in LDL-C, Apo-B, non-HDL-C, total cholesterol, and PCSK9 from baseline to each assessment time up to day 720.
+
+Inclisiran significantly reduced the mean percentage change in LDL-C from baseline to day 330 compared to placebo by 29% (95% CI: -36%, -21%; p&lt;0.0001) (Table 5).
+
+Inclisiran also significantly reduced the time-adjusted mean-percentage change in LDL-C from baseline after day 90 and up to day 330 by 29% compared to placebo (95% CI: -36%, -22%; p&lt;0.0001). For additional results, see Table 5.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 5 Mean percentage change from baseline and difference from placebo in lipid parameters at day 330 in ORION-16
+
+| Treatment group                                | LDL-C                                          | Apo-B                                          | Non-HDL-C                                      | Total cholesterol                              |
+|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| Mean baseline value in mg/dl                   | 183                                            | 129                                            | 201                                            | 250                                            |
+| Day 330 (mean percentage change from baseline) | Day 330 (mean percentage change from baseline) | Day 330 (mean percentage change from baseline) | Day 330 (mean percentage change from baseline) | Day 330 (mean percentage change from baseline) |
+| Placebo (n=48)                                 | 1                                              | 4                                              | 2                                              | 0                                              |
+| Inclisiran (n=93)                              | -27                                            | -21                                            | -25                                            | -19                                            |
+| Difference from placebo (LS mean) (95% CI)     | -29 (-36, -21)                                 | -26 (-32, -20)                                 | -27 (-34, -20)                                 | -19 (-25, -14)                                 |
+
+In the Year 2 open-label single-arm follow-up part, all patients were administered subcutaneous injections of 284 mg of inclisiran. The percent change in LDL-C from baseline (randomisation in double-blind part) on day 720 was -34% (24%) (mean, SD) and -36% (-49, -21) (median, Q1, Q3).
+
+## Homozygous familial hypercholesterolaemia (HoFH) in paediatric patients
+
+ORION-13 was a 24-month, two-part study consisting of a 12-month randomised, double-blind, placebo-controlled part (Part 1/Year 1), followed by a 12-month open-label part (Part 2/Year 2) during which all patients received inclisiran. ORION-13 enrolled 13 paediatric patients aged 12 to &lt;18 years with HoFH and elevated LDL-C. All patients were taking statins with or without other LDL-Clowering therapies. In Year 1, patients were randomised in a 2:1 ratio and were administered subcutaneous injections of 284 mg inclisiran (n=9) or placebo (n=4) on day 1, day 90 and day 270. Inclisiran reduced the mean percentage change in LDL-C from baseline to day 330 compared to placebo by 33% (95% CI: -59%, -7%).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -310,19 +336,19 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 Following single subcutaneous administration, systemic exposure to inclisiran increased approximately dose-proportionally over a range from 24 mg to 756 mg. At the recommended dosing regimen of 284 mg plasma concentrations reached peak in approximately 4 hours post dose, with a mean Cmax of 509 ng/ml. Concentrations reached undetectable levels within 48 hours post dosing. The mean area under the plasma concentration-time curve from dosing extrapolated to infinity was 7 980 ng*h/ml. Pharmacokinetic findings following multiple subcutaneous administrations of inclisiran were similar to single-dose administration.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Distribution
 
-Inclisiran is 87% protein bound in vitro at the relevant clinical plasma concentrations. Following a single subcutaneous 284 mg dose of inclisiran to healthy adults, the apparent volume of distribution is approximately 500 litres. Based on non-clinical data inclisiran has been shown to have high uptake into and selectivity for the liver, the target organ for cholesterol lowering.
+Inclisiran is 87% protein bound in vitro at the relevant clinical plasma concentrations. Following a single subcutaneous 284 mg dose of inclisiran to healthy adults, the apparent volume of distribution is approximately 500 litres. Based on non-clinical data inclisiran has been shown to have high uptake into and selectivity for the liver, the target organ for cholesterol lowering. Body weight was a significant covariate on volume of distribution in the combined adult and adolescent population pharmacokinetic model.
 
 ## Biotransformation
 
 Inclisiran is primarily metabolised by nucleases to shorter inactive nucleotides of varying length. Inclisiran is not a substrate for common drug transporters and, although in vitro studies were not conducted, it is not anticipated to be a substrate for cytochrome P450.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elimination
 
-The terminal elimination half-life of inclisiran is approximately 9 hours and no accumulation occurs with multiple dosing. Sixteen percent (16%) of inclisiran is cleared through the kidney.
+The terminal elimination half-life of inclisiran is approximately 9 hours and no accumulation occurs with multiple dosing. Sixteen percent (16%) of inclisiran is cleared through the kidney. Body weight was a significant covariate on clearance in the combined adult and adolescent population pharmacokinetic model.
 
 ## Linearity/non-linearity
 
@@ -334,17 +360,19 @@ In the phase I clinical study, a dissociation was observed between inclisiran ph
 
 ## Special populations
 
+## Paediatric population
+
+The pharmacokinetics of inclisiran were evaluated in 40 paediatric patients with HeFH (ORION-16) and 9 paediatric patients with HoFH (ORION-13) aged 12 to less than 18 years. The range of inclisiran plasma concentrations was wider in adolescent patients than in adult patients (results derived using popPK modelling). Exposure after a 284 mg single dose in paediatric patients was higher than in adult patients receiving the same dose. The popPK model predicts that Cmax and AUC in adolescents weighing 30 kg (around the 5th weight percentile in 12-year-olds) are approximately 3-fold higher than in adults.
+
 ## Renal impairment
 
 Pharmacokinetic analysis of data from a dedicated renal impairment study reported an increase in inclisiran Cmax of approximately 2.3, 2.0 and 3.3-fold and an increase in inclisiran area under the curve (AUC) of approximately 1.6, 1.8 and 2.3-fold, in patients with mild (creatinine clearance [CrCL] of 60 ml/min to 89 ml/min), moderate (CrCL of 30 ml/min to 59 ml/min) and severe (CrCL of 15 ml/min to 29 ml/min) renal impairment, respectively, relative to patients with normal renal function. Despite the higher transient plasma exposures over 48 hours, the reduction in LDL-C was similar across all groups of renal function. Based on population pharmacodynamic modelling, no dose adjustment is recommended in patients with end-stage renal disease. Based on pharmacokinetic, pharmacodynamic and safety assessments, no dose adjustment is necessary in patients with mild, moderate or severe renal impairment. The effect of haemodialysis on inclisiran pharmacokinetics has not been studied. Considering that inclisiran is eliminated renally, haemodialysis should not be performed for at least 72 hours after Leqvio dosing.
 
-## Hepatic impairment
-
-Pharmacokinetic analysis of data from a dedicated hepatic impairment study reported an increase in inclisiran Cmax of approximately 1.1 and 2.1-fold, and an increase in inclisiran AUC of approximately1.3 and 2.0-fold, respectively, in patients with mild (Child-Pugh class A) and moderate (Child-Pugh class B) hepatic impairment relative to patients with normal hepatic function. Despite the higher transient inclisiran plasma exposures, the reductions in LDL-C were similar between the groups of patients administered inclisiran with normal hepatic function and mild hepatic impairment. In
-
 <div style=\"page-break-after: always\"></div>
 
-patients with moderate hepatic impairment baseline PCSK9 levels were markedly lower and the reduction in LDL-C was less than that observed in patients with normal hepatic function. No dose adjustment is necessary in patients with mild to moderate hepatic impairment (Child-Pugh class A and B). Leqvio has not been studied in patients with severe hepatic impairment (Child-Pugh class C).
+## Hepatic impairment
+
+Pharmacokinetic analysis of data from a dedicated hepatic impairment study reported an increase in inclisiran Cmax of approximately 1.1 and 2.1-fold, and an increase in inclisiran AUC of approximately1.3 and 2.0-fold, respectively, in patients with mild (Child-Pugh class A) and moderate (Child-Pugh class B) hepatic impairment relative to patients with normal hepatic function. Despite the higher transient inclisiran plasma exposures, the reductions in LDL-C were similar between the groups of patients administered inclisiran with normal hepatic function and mild hepatic impairment. In patients with moderate hepatic impairment baseline PCSK9 levels were markedly lower and the reduction in LDL-C was less than that observed in patients with normal hepatic function. No dose adjustment is necessary in patients with mild to moderate hepatic impairment (Child-Pugh class A and B). Leqvio has not been studied in patients with severe hepatic impairment (Child-Pugh class C).
 
 ## Other special populations
 
@@ -356,13 +384,15 @@ In repeated dose toxicology studies conducted in rats and monkeys the no observe
 
 Inclisiran was not carcinogenic in Sprague-Dawley rats or in TgRasH2 mice administered inclisiran at doses sufficiently in excess of clinical doses.
 
-No mutagenic or clastogenic potential of inclisiran was found in a battery of tests, including  a bacterial mutagenicity assay, in vitro chromosomal aberration assay in human peripheral blood lymphocytes and an in vivo rat bone marrow micronucleus assay.
+No mutagenic or clastogenic potential of inclisiran was found in a battery of tests, including a bacterial mutagenicity assay, in vitro chromosomal aberration assay in human peripheral blood lymphocytes and an in vivo rat bone marrow micronucleus assay.
 
 Reproduction studies performed in rats and rabbits have revealed no evidence of harm to the foetus due to inclisiran at the highest doses administered, which produced exposure considerably in excess of the maximum human exposure.
 
 Inclisiran did not affect the fertility or reproductive performance of male rats and female rats exposed to inclisiran prior to gestation and during gestation. The doses were associated with systemic exposures many times greater than the human exposure at clinical doses.
 
 Inclisiran has been observed in the milk of lactating rats; however, there is no evidence of systemic absorption in suckling rat neonates.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -376,9 +406,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## 3 years
-
-<div style=\"page-break-after: always\"></div>
+3 years
 
 ## 6.4 Special precautions for storage
 
@@ -386,13 +414,13 @@ This medicinal product does not require any special storage conditions. Do not f
 
 ## 6.5 Nature and contents of container
 
-## Pre-filled syringe
+Pre-filled syringe
 
 1.5 ml solution in a pre-filled syringe (Type I glass) with plunger stopper (bromobutyl, fluorotec coated rubber), with needle and rigid needle shield.
 
 Pack size of one pre-filled syringe.
 
-## Pre-filled syringe with needle guard
+Pre-filled syringe with needle guard
 
 1.5 ml solution in a pre-filled syringe (Type I glass) with plunger stopper (bromobutyl, fluorotec coated rubber), with needle and rigid needle shield, with needle guard.
 
@@ -408,9 +436,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-Ireland
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -422,11 +450,11 @@ Date of first authorisation: 09 December 2020
 
 Date of latest renewal: 30 July 2025
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+15
 
 <div style=\"page-break-after: always\"></div>
 
@@ -457,13 +485,13 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+## - Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+## - Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -528,61 +556,75 @@ Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/20/1494/001
 
 1 pre-filled syringe
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER FOIL OF PRE-FILLED SYRINGE WITHOUT NEEDLE GUARD
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS     |
+|---------------------------------------------------------|
+| BLISTER FOIL OF PRE-FILLED SYRINGE WITHOUT NEEDLE GUARD |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Leqvio 284 mg solution for injection in pre-filled syringe inclisiran Subcutaneous use
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -630,51 +672,58 @@ Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/20/1494/002
 
 1 pre-filled syringe with needle guard
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER FOIL OF PRE-FILLED SYRINGE WITH NEEDLE GUARD
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+## BLISTER FOIL OF PRE-FILLED SYRINGE WITH NEEDLE GUARD
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Leqvio 284 mg solution for injection in pre-filled syringe inclisiran Subcutaneous use
+Leqvio 284 mg solution for injection in pre-filled syringe inclisiran
+
+Subcutaneous use
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -690,21 +739,19 @@ Lot
 
 ## 5. OTHER
 
-1 pre-filled syringe with needle guard
+1 pre-filled syringe with needle guard Leqvio 284 mg injection inclisiran SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Leqvio 284 mg injection inclisiran SC
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -716,8 +763,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.5 ml
 
@@ -732,13 +779,15 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Leqvio 284 mg solution for injection in pre-filled syringe inclisiran
+## Leqvio 284 mg solution for injection in pre-filled syringe
+
+## inclisiran
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -753,38 +802,38 @@ Lot
 
 ## What Leqvio is and how it works
 
-Leqvio contains the active substance inclisiran. Inclisiran lowers levels of LDLcholesterol ('bad' cholesterol), which can cause heart and blood circulation problems when levels are raised.
+Leqvio contains the active substance inclisiran. Inclisiran lowers levels of LDL-cholesterol (\"bad\" cholesterol), which can cause heart and blood circulation problems when levels are raised.
 
 Inclisiran works by interfering with RNA (genetic material in body cells) to limit the production of a protein called PCSK9. This protein can increase LDL-cholesterol levels and preventing its production helps to lower your LDL-cholesterol levels.
 
 ## What Leqvio is used for
 
-Leqvio is used in addition to your cholesterol-lowering diet if you are an adult with a high cholesterol level in your blood (primary hypercholesterolaemia, including heterozygous familial and non-familial, or mixed dyslipidaemia).
+Leqvio is used if you are an adult with a high cholesterol level in your blood (primary hypercholesterolaemia, including heterozygous familial and non-familial, or mixed dyslipidaemia), in addition to your cholesterol-lowering diet, or a child 12 years of age and older with a high cholesterol level in your blood because of a condition that runs in your family (heterozygous familial hypercholesterolaemia (HeFH)).
 
 ## Leqvio is given:
 
-- -together with a statin (a type of medicine that treats high cholesterol), sometimes combined with another cholesterol-lowering treatment if the maximum dose of the statin does not work well enough, or
-- -alone or together with other cholesterol-lowering medicines when statins do not work well or cannot be used.
+- together with a statin (a type of medicine that treats high cholesterol), sometimes combined with another cholesterol-lowering treatment if the maximum dose of the statin does not work well enough, or
+- alone or together with other cholesterol-lowering medicines when statins do not work well or cannot be used.
 
 ## 2. What you need to know before you are given Leqvio
 
 ## You must not be given Leqvio
 
-- -if you are allergic to inclisiran or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to inclisiran or any of the other ingredients of this medicine (listed in section 6).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before you are given Leqvio:
 
-- -if you are receiving dialysis
-- -if you have severe liver disease
-- -if you have severe kidney disease
-
-<div style=\"page-break-after: always\"></div>
+- if you are receiving dialysis
+- if you have severe liver disease
+- if you have severe kidney disease
 
 ## Children and adolescents
 
-Do not give this medicine to children and adolescents under 18 years of age, because there is no experience of using the medicine in this age group.
+Do not give this medicine to children under 12 years of age, because there is no experience of using the medicine in this age group.
 
 ## Other medicines and Leqvio
 
@@ -804,7 +853,7 @@ Leqvio is not expected to affect your ability to drive or use machines.
 
 ## Leqvio contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ' sodium-free ' .
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially \"sodiumfree\".
 
 ## 3. How Leqvio is given
 
@@ -824,15 +873,19 @@ If you miss your appointment for your Leqvio injection, contact your doctor, pha
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - Injection site reactions, such as pain, redness or rash.
 
-<div style=\"page-break-after: always\"></div>
+Not known (frequency cannot be estimated from the available data)
+
+- Allergic reactions (hypersensitivity) including serious reactions (anaphylactic reaction) may occur. Serious allergic reactions may include difficulty breathing or swallowing, swelling of the face, lips, tongue or throat, dizziness and near fainting, decrease in blood pressure, severe itching of the skin with a red rash or raised bumps. If you think you are having a serious allergic reaction, seek medical help immediately.
 
 ## Reporting of side effects
 
@@ -855,13 +908,15 @@ Medicines should not be disposed of via wastewater or household waste. Your doct
 ## What Leqvio contains
 
 - The active substance is inclisiran. Each pre-filled syringe contains inclisiran sodium equivalent to 284 mg inclisiran in 1.5 ml solution. Each ml contains inclisiran sodium equivalent to 189 mg inclisiran.
-- The other ingredients are water for injections, sodium hydroxide (E524) (see section 2 ' Leqvio contains sodium') and concentrated phosphoric acid (E338).
+- The other ingredients are water for injections, sodium hydroxide (E524) (see section 2 \"Leqvio contains sodium\") and concentrated phosphoric acid (E338).
 
 ## What Leqvio looks like and contents of the pack
 
 Leqvio 284 mg solution for injection in pre-filled syringe is a clear, colourless to pale yellow solution, essentially free of particulates.
 
 Each pack contains one single-use pre-filled syringe.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -873,8 +928,6 @@ Novartis Pharmaceutical Manufacturing GmbH Biochemiestrasse 10 6336 Langkampfen 
 
 Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia
 
-<div style=\"page-break-after: always\"></div>
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
@@ -885,7 +938,9 @@ Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел.: +359 2 489 98 28
 
 ## Česká republika
 
@@ -895,7 +950,9 @@ Tel: +420 225 775 111
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf.: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf.: +45 39 16 84 00
 
 ## Deutschland
 
@@ -911,35 +968,9 @@ Tel: +372 66 30 810
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E.
 
-## España
-
-Novartis Farmacéutica, S.A.
-
-Tel: +34 93 306 42 00
-
-## France
-
-Novartis Pharma S.A.S.
-
-Tél: +33 1 55 47 66 00
-
-## Hrvatska
-
-Novartis Hrvatska d.o.o. Tel: +385 1 6274 220
-
-## Ireland
-
-Novartis Ireland Limited
-
-Tel: +353 1 260 12 55
-
-## Ísland
-
-Vistor ehf.
-
-Sími: +354 535 7000
+Τηλ: +30 210 281 17 12
 
 ## Lietuva
 
@@ -957,7 +988,9 @@ Novartis Hungária Kft. Tel.: +36 1 457 65 00
 
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
 
 ## Nederland
 
@@ -965,33 +998,45 @@ Novartis Pharma B.V. Tel: +31 88 04 52 111
 
 ## Norge
 
-Novartis Norge AS Tlf: +47 23 05 20 00
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
 
 ## Österreich
 
 Novartis Pharma GmbH Tel: +43 1 86 6570
 
-## Polska
+<div style=\"page-break-after: always\"></div>
 
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+## España
 
-## Portugal
+Novartis Farmacéutica, S.A.
 
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+Tel: +34 93 306 42 00
 
-## România
+## France
 
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+Novartis Pharma S.A.S.
 
-## Slovenija
+Tél: +33 1 55 47 66 00
 
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
+## Hrvatska
 
-## Slovenská republika
+Novartis Hrvatska d.o.o.
 
-Novartis Slovakia s.r.o.
+Tel: +385 1 6274 220
 
-Tel: +421 2 5542 5439
+## Ireland
+
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
+
+## Ísland
+
+Vistor ehf.
+
+Sími: +354 535 7000
 
 ## Italia
 
@@ -999,19 +1044,47 @@ Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
+## Κύπρος
+
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
 ## Suomi/Finland
 
 Novartis Finland Oy
 
 Puh/Tel: +358 (0)10 6133 200
 
-## Κύπρος
+## Sverige
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
-
-## Sverige
 
 Novartis Sverige AB
 
@@ -1023,13 +1096,13 @@ SIA Novartis Baltics
 
 Tel: +371 67 887 070
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+[https://www.ema.europa.eu.](https://www.ema.europa.eu/)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1041,20 +1114,20 @@ Healthcare professionals should refer to the Summary of Product Characteristics 
 
 ## Indication (see section 4.1 of the SmPC)
 
-Leqvio is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet:
+Leqvio is indicated in adults with primary hypercholesterolaemia (heterozygous familial and nonfamilial) or mixed dyslipidaemia, as an adjunct to diet, and in paediatric patients aged 12 years and older with heterozygous familial hypercholesterolaemia (HeFH):
 
 - in combination with a statin or statin with other lipid-lowering therapies in patients unable to reach LDL-C goals with the maximum tolerated dose of a statin, or
 - alone or in combination with other lipid-lowering therapies in patients who are statin-intolerant, or for whom a statin is contraindicated.
 
-## Posology ( see section 4.2 of the SmPC )
+## Posology (see section 4.2 of the SmPC)
 
-The recommended dose is 284 mg inclisiran administered as a single subcutaneous injection: initially, again at 3 months, followed by every 6 months.
+The recommended dose for adults and paediatric patients aged 12 years and older is 284 mg inclisiran administered as a single subcutaneous injection: initially, again at 3 months, followed by every 6 months.
 
 ## Missed doses
 
-If a planned dose is missed by less than 3 months, inclisiran should be administered and dosing continued according to the patient's original schedule .
+If a planned dose is missed by less than 3 months, inclisiran should be administered and dosing continued according to the patient's original schedule.
 
-If a planned dose is missed by more than 3 months, a new dosing schedule should be started -inclisiran should be administered initially, again at 3 months, followed by every 6 months.
+If a planned dose is missed by more than 3 months, a new dosing schedule should be started - inclisiran should be administered initially, again at 3 months, followed by every 6 months.
 
 ## Treatment transition from monoclonal antibody proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors
 
@@ -1066,7 +1139,7 @@ No dose adjustments are necessary in elderly patients (see section 5.2 of the Sm
 
 ## Hepatic impairment
 
-No dose adjustments are necessary for patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment. No data are available in patients with severe hepatic impairment (Child-Pugh class C) (see section 5.2 of the SmPC). Inclisiran should be used with caution in patients with severe hepatic impairment.
+No dose adjustments are necessary for patients with mild (Child-Pugh class A) or moderate (ChildPugh class B) hepatic impairment. No data are available in patients with severe hepatic impairment (Child-Pugh class C) (see section 5.2 of the SmPC). Inclisiran should be used with caution in patients with severe hepatic impairment.
 
 ## Renal impairment
 
@@ -1074,13 +1147,13 @@ No dose adjustments are necessary for patients with mild, moderate or severe ren
 
 ## Paediatric population
 
-The safety and efficacy of inclisiran in children aged less than 18 years has not yet been established. No data are available.
+The safety and efficacy of inclisiran in children aged less than 12 years has not yet been established. No data are available.
 
 <div style=\"page-break-after: always\"></div>
 
-## Method of administration ( see section 4.2 of the SmPC )
+## Method of administration (see section 4.2 of the SmPC)
 
-Subcutaneous use.
+## Subcutaneous use.
 
 Inclisiran is for subcutaneous injection into the abdomen; alternative injection sites include the upper arm or thigh. Injections should not be given into areas of active skin disease or injury such as sunburns, skin rashes, inflammation, or skin infections.
 
@@ -1088,11 +1161,11 @@ Each 284 mg dose is administered using a single pre-filled syringe. Each pre-fil
 
 Inclisiran is intended for administration by a healthcare professional.
 
-## Contraindications ( see section 4.3 of the SmPC )
+## Contraindications (see section 4.3 of the SmPC)
 
 Hypersensitivity to the active substance or to any of the excipients.
 
-## Special warnings and precautions ( see section 4.4 of the SmPC )
+## Special warnings and precautions (see section 4.4 of the SmPC)
 
 ## Haemodialysis
 
@@ -1137,11 +1210,13 @@ Gently pinch the skin at the injection site and hold the pinch throughout the in
 
 ## Step 4. Inject
 
-Continue to pinch the skin. Slowly press the plunger as far as it will go . This will make sure that a full dose is injected.
+Continue to pinch the skin. Slowly press the plunger as far as it will go. This will make sure that a full dose is injected.
 
 Note: If you cannot depress the plunger following insertion of the needle, use a new pre-filled syringe.
 
 <!-- image -->
+
+有
 
 <!-- image -->
 
@@ -1149,7 +1224,9 @@ Note: If you cannot depress the plunger following insertion of the needle, use a
 
 ## Step 5. Complete injection and dispose of the pre-filled syringe
 
-Remove the pre-filled syringe from the injection site. Do not put the needle cap back on. Dispose of the pre-filled syringe in accordance with local requirements.
+Remove the pre-filled syringe from the injection site. Do not put the needle cap back on.
+
+Dispose of the pre-filled syringe in accordance with local requirements.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1161,9 +1238,9 @@ Pre-filled syringe with needle guard inclisiran
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1178,38 +1255,38 @@ Pre-filled syringe with needle guard inclisiran
 
 ## What Leqvio is and how it works
 
-Leqvio contains the active substance inclisiran. Inclisiran lowers levels of LDLcholesterol ('bad' cholesterol), which can cause heart and blood circulation problems when levels are raised.
+Leqvio contains the active substance inclisiran. Inclisiran lowers levels of LDL-cholesterol (\"bad\" cholesterol), which can cause heart and blood circulation problems when levels are raised.
 
 Inclisiran works by interfering with RNA (genetic material in body cells) to limit the production of a protein called PCSK9. This protein can increase LDL-cholesterol levels and preventing its production helps to lower your LDL-cholesterol levels.
 
 ## What Leqvio is used for
 
-Leqvio is used in addition to your cholesterol-lowering diet if you are an adult with a high cholesterol level in your blood (primary hypercholesterolaemia, including heterozygous familial and non-familial, or mixed dyslipidaemia).
+Leqvio is used if you are an adult with a high cholesterol level in your blood (primary hypercholesterolaemia, including heterozygous familial and non-familial, or mixed dyslipidaemia), in addition to your cholesterol-lowering diet, or a child 12 years of age and older with a high cholesterol level in your blood because of a condition that runs in your family (heterozygous familial hypercholesterolaemia (HeFH)).
 
 ## Leqvio is given:
 
-- -together with a statin (a type of medicine that treats high cholesterol), sometimes combined with another cholesterol-lowering treatment if the maximum dose of the statin does not work well enough, or
-- -alone or together with other cholesterol-lowering medicines when statins do not work well or cannot be used.
+- together with a statin (a type of medicine that treats high cholesterol), sometimes combined with another cholesterol-lowering treatment if the maximum dose of the statin does not work well enough, or
+- alone or together with other cholesterol-lowering medicines when statins do not work well or cannot be used.
 
 ## 2. What you need to know before you are given Leqvio
 
 ## You must not be given Leqvio
 
-- -if you are allergic to inclisiran or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to inclisiran or any of the other ingredients of this medicine (listed in section 6).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before you are given Leqvio:
 
-- -if you are receiving dialysis
-- -if you have severe liver disease
-- -if you have severe kidney disease
-
-<div style=\"page-break-after: always\"></div>
+- if you are receiving dialysis
+- if you have severe liver disease
+- if you have severe kidney disease
 
 ## Children and adolescents
 
-Do not give this medicine to children and adolescents under 18 years of age, because there is no experience of using the medicine in this age group.
+Do not give this medicine to children under 12 years of age, because there is no experience of using the medicine in this age group.
 
 ## Other medicines and Leqvio
 
@@ -1229,7 +1306,7 @@ Leqvio is not expected to affect your ability to drive or use machines.
 
 ## Leqvio contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially \"sodiumfree\".
 
 ## 3. How Leqvio is given
 
@@ -1259,6 +1336,10 @@ Common (may affect up to 1 in 10 people)
 
 - Injection site reactions, such as pain, redness or rash.
 
+Not known (frequency cannot be estimated from the available data)
+
+- Allergic reactions (hypersensitivity) including serious reactions (anaphylactic reaction) may occur. Serious allergic reactions may include difficulty breathing or swallowing, swelling of the face, lips, tongue or throat, dizziness and near fainting, decrease in blood pressure, severe itching of the skin with a red rash or raised bumps. If you think you are having a serious allergic reaction, seek medical help immediately.
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
@@ -1280,7 +1361,7 @@ Medicines should not be disposed of via wastewater or household waste. Your doct
 ## What Leqvio contains
 
 - The active substance is inclisiran. Each pre-filled syringe contains inclisiran sodium equivalent to 284 mg inclisiran in 1.5 ml solution. Each ml contains inclisiran sodium equivalent to 189 mg inclisiran.
-- The other ingredients are water for injections, sodium hydroxide (E524) (see section 2 'Leqvio contains sodium') and concentrated phosphoric acid (E338).
+- The other ingredients are water for injections, sodium hydroxide (E524) (see section 2 \"Leqvio contains sodium\") and concentrated phosphoric acid (E338).
 
 ## What Leqvio looks like and contents of the pack
 
@@ -1288,11 +1369,11 @@ Leqvio 284 mg solution for injection in pre-filled syringe is a clear, colourles
 
 Each pack contains one single-use pre-filled syringe with needle guard.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
-
-<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -1306,15 +1387,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas
-
-Tel: +370 5 269 16 50
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## България
 
@@ -1322,23 +1395,11 @@ Novartis Bulgaria EOOD
 
 Тел.: +359 2 489 98 28
 
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
 ## Česká republika
 
 Novartis s.r.o.
 
 Tel: +420 225 775 111
-
-## Magyarország
-
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
 
 ## Danmark
 
@@ -1346,23 +1407,11 @@ Novartis Healthcare A/S
 
 Tlf.: +45 39 16 84 00
 
-## Malta
-
-Novartis Pharma Services Inc.
-
-Tel: +356 2122 2872
-
 ## Deutschland
 
 Novartis Pharma GmbH
 
 Tel: +49 911 273 0
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
 
 ## Eesti
 
@@ -1370,23 +1419,49 @@ SIA Novartis Baltics Eesti filiaal
 
 Tel: +372 66 30 810
 
-## Norge
-
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
-
 ## Ελλάδα
 
 Novartis (Hellas) A.E.B.E.
 
 Τηλ: +30 210 281 17 12
 
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
+## Malta
+
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 111
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
 ## Österreich
 
-Novartis Pharma GmbH
+Novartis Pharma GmbH Tel: +43 1 86 6570
 
-Tel: +43 1 86 6570
+<div style=\"page-break-after: always\"></div>
 
 ## España
 
@@ -1394,25 +1469,11 @@ Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
 
-## Polska
-
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
-
 ## France
 
 Novartis Pharma S.A.S.
 
 Tél: +33 1 55 47 66 00
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A.
-
-Tel: +351 21 000 8600
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hrvatska
 
@@ -1440,21 +1501,15 @@ Tel: +39 02 96 54 1
 
 ## Κύπρος
 
-Novartis Pharma Services Inc.
+## Polska
 
-Τηλ: +357 22 690 690
+Novartis Poland Sp. z o.o.
 
-## Latvija
+Tel.: +48 22 375 4888
 
-SIA Novartis Baltics
+## Portugal
 
-Tel: +371 67 887 070
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
 ## România
 
@@ -1482,9 +1537,27 @@ Puh/Tel: +358 (0)10 6133 200
 
 ## Sverige
 
+Novartis Pharma Services Inc.
+
+Τηλ: +357 22 690 690
+
 Novartis Sverige AB
 
 Tel: +46 8 732 32 00
+
+## Latvija
+
+SIA Novartis Baltics
+
+Tel: +371 67 887 070
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+[https://www.ema.europa.eu.](https://www.ema.europa.eu/)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1496,44 +1569,46 @@ Healthcare professionals should refer to the Summary of Product Characteristics 
 
 ## Indication (see section 4.1 of the SmPC)
 
-Leqvio is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet:
+Leqvio is indicated in adults with primary hypercholesterolaemia (heterozygous familial and nonfamilial) or mixed dyslipidaemia, as an adjunct to diet, and in paediatric patients aged 12 years and older with heterozygous familial hypercholesterolaemia (HeFH):
 
 - in combination with a statin or statin with other lipid-lowering therapies in patients unable to reach LDL-C goals with the maximum tolerated dose of a statin, or
 - alone or in combination with other lipid-lowering therapies in patients who are statin-intolerant, or for whom a statin is contraindicated.
 
-## Posology ( see section 4.2 of the SmPC )
+## Posology (see section 4.2 of the SmPC)
 
-The recommended dose is 284 mg inclisiran administered as a single subcutaneous injection: initially, again at 3 months, followed by every 6 months.
+The recommended dose for adults and paediatric patients aged 12 years and older is 284 mg inclisiran administered as a single subcutaneous injection: initially, again at 3 months, followed by every 6 months.
 
 ## Missed doses
 
-If a planned dose is missed by less than 3 months, inclisiran should be administered and dosing continued according to the patient's original schedule .
+If a planned dose is missed by less than 3 months, inclisiran should be administered and dosing continued according to the patient's original schedule.
 
-If a planned dose is missed by more than 3 months, a new dosing schedule should be started -inclisiran should be administered initially, again at 3 months, followed by every 6 months.
+If a planned dose is missed by more than 3 months, a new dosing schedule should be started - inclisiran should be administered initially, again at 3 months, followed by every 6 months.
 
 ## Treatment transition from monoclonal antibody proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors
 
 Inclisiran can be administered immediately after the last dose of a monoclonal antibody PCSK9 inhibitor. To maintain low-density lipoprotein cholesterol (LDL-C) lowering it is recommended that inclisiran is administered within 2 weeks after the last dose of a monoclonal antibody PCSK9 inhibitor.
 
-## Special populations Elderly
+## Special populations
+
+## Elderly
 
 No dose adjustments are necessary in elderly patients (see section 5.2 of the SmPC).
 
 ## Hepatic impairment
 
-No dose adjustments are necessary for patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment. No data are available in patients with severe hepatic impairment (Child-Pugh class C) (see section 5.2 of the SmPC). Inclisiran should be used with caution in patients with severe hepatic impairment.
+No dose adjustments are necessary for patients with mild (Child-Pugh class A) or moderate (ChildPugh class B) hepatic impairment. No data are available in patients with severe hepatic impairment (Child-Pugh class C) (see section 5.2 of the SmPC). Inclisiran should be used with caution in patients with severe hepatic impairment.
 
 ## Renal impairment
 
 No dose adjustments are necessary for patients with mild, moderate or severe renal impairment or patients with end stage renal disease (see section 5.2 of the SmPC). There is limited experience with inclisiran in patients with severe renal impairment. Inclisiran should be used with caution in these patients. See section 4.4 of the SmPC for precautions to take in case of haemodialysis.
 
-## Paediatric population
-
-The safety and efficacy of inclisiran in children aged less than 18 years has not yet been established. No data are available.
-
 <div style=\"page-break-after: always\"></div>
 
-## Method of administration ( see section 4.2 of the SmPC )
+## Paediatric population
+
+The safety and efficacy of inclisiran in children aged less than 12 years has not yet been established. No data are available.
+
+## Method of administration (see section 4.2 of the SmPC)
 
 Subcutaneous use.
 
@@ -1543,11 +1618,11 @@ Each 284 mg dose is administered using a single pre-filled syringe. Each pre-fil
 
 Inclisiran is intended for administration by a healthcare professional.
 
-## Contraindications ( see section 4.3 of the SmPC )
+## Contraindications (see section 4.3 of the SmPC)
 
 Hypersensitivity to the active substance or to any of the excipients.
 
-## Special warnings and precautions ( see section 4.4 of the SmPC )
+## Special warnings and precautions (see section 4.4 of the SmPC)
 
 ## Haemodialysis
 
@@ -1593,7 +1668,7 @@ Gently pinch the skin at the injection site and hold the pinch throughout the in
 
 ## Step 4. Start injection
 
-Continue to pinch the skin. Slowly press the plunger as far as it will go . This will make sure that a full dose is injected.
+Continue to pinch the skin. Slowly press the plunger as far as it will go. This will make sure that a full dose is injected.
 
 Note: If you cannot depress the plunger following insertion of the needle, use a new pre-filled syringe.
 

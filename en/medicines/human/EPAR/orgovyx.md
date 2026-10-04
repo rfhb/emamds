@@ -1,15 +1,15 @@
 ---
-document_datetime: 2026-09-30 08:35:00
+document_datetime: 2026-10-02 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orgovyx.html
 document_name: orgovyx.html
 version: success
-processing_time: 0.1510773
-conversion_datetime: 2026-10-01 18:28:30.564822
+processing_time: 0.1399468
+conversion_datetime: 2026-10-04 16:23:28.337007
 docling_version:
   docling-serve: 1.36.0
   docling-jobkit: 3.8.1
-  docling: 2.132.0
+  docling: 2.133.0
   docling-core: 2.99.0
   docling-ibm-models: 4.0.3
   docling-parse: 7.22.1
@@ -104,7 +104,7 @@ English (EN) (117.53 KB - PDF)
 
 [View](/en/documents/overview/orgovyx-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-949)
+[Other languages (22)](#file-language-dropdown-868)
 
 български (BG) (144.12 KB - PDF)
 
@@ -250,161 +250,161 @@ English (EN) (67.15 KB - PDF)
 
 Orgovyx : EPAR - Product Information
 
-English (EN) (398.62 KB - PDF)
+English (EN) (456.73 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/en/documents/product-information/orgovyx-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-5)
+[Other languages (24)](#file-language-dropdown-403)
 
-български (BG) (540.52 KB - PDF)
+български (BG) (580.5 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/bg/documents/product-information/orgovyx-epar-product-information_bg.pdf)
 
-español (ES) (539.28 KB - PDF)
+español (ES) (573.97 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/es/documents/product-information/orgovyx-epar-product-information_es.pdf)
 
-čeština (CS) (462.94 KB - PDF)
+čeština (CS) (419.67 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/cs/documents/product-information/orgovyx-epar-product-information_cs.pdf)
 
-dansk (DA) (504.41 KB - PDF)
+dansk (DA) (590.71 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/da/documents/product-information/orgovyx-epar-product-information_da.pdf)
 
-Deutsch (DE) (486.29 KB - PDF)
+Deutsch (DE) (396.82 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/de/documents/product-information/orgovyx-epar-product-information_de.pdf)
 
-eesti (ET) (555.91 KB - PDF)
+eesti (ET) (534.75 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/et/documents/product-information/orgovyx-epar-product-information_et.pdf)
 
-ελληνικά (EL) (609.32 KB - PDF)
+ελληνικά (EL) (603.42 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/el/documents/product-information/orgovyx-epar-product-information_el.pdf)
 
-français (FR) (529.2 KB - PDF)
+français (FR) (552.83 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/fr/documents/product-information/orgovyx-epar-product-information_fr.pdf)
 
-hrvatski (HR) (482.91 KB - PDF)
+hrvatski (HR) (510.21 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/hr/documents/product-information/orgovyx-epar-product-information_hr.pdf)
 
-italiano (IT) (523.95 KB - PDF)
+italiano (IT) (528.75 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/it/documents/product-information/orgovyx-epar-product-information_it.pdf)
 
-latviešu (LV) (600.06 KB - PDF)
+latviešu (LV) (604.51 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/lv/documents/product-information/orgovyx-epar-product-information_lv.pdf)
 
-lietuvių (LT) (537.57 KB - PDF)
+lietuvių (LT) (508.12 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/lt/documents/product-information/orgovyx-epar-product-information_lt.pdf)
 
-magyar (HU) (571.02 KB - PDF)
+magyar (HU) (476.36 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/hu/documents/product-information/orgovyx-epar-product-information_hu.pdf)
 
-Malti (MT) (648.99 KB - PDF)
+Malti (MT) (593.48 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/mt/documents/product-information/orgovyx-epar-product-information_mt.pdf)
 
-Nederlands (NL) (578.51 KB - PDF)
+Nederlands (NL) (371.65 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/nl/documents/product-information/orgovyx-epar-product-information_nl.pdf)
 
-polski (PL) (553.09 KB - PDF)
+polski (PL) (472.05 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/pl/documents/product-information/orgovyx-epar-product-information_pl.pdf)
 
-português (PT) (478.44 KB - PDF)
+português (PT) (458.91 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/pt/documents/product-information/orgovyx-epar-product-information_pt.pdf)
 
-română (RO) (562.12 KB - PDF)
+română (RO) (528.82 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/ro/documents/product-information/orgovyx-epar-product-information_ro.pdf)
 
-slovenčina (SK) (533.08 KB - PDF)
+slovenčina (SK) (493.85 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/sk/documents/product-information/orgovyx-epar-product-information_sk.pdf)
 
-slovenščina (SL) (546.32 KB - PDF)
+slovenščina (SL) (452.23 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/sl/documents/product-information/orgovyx-epar-product-information_sl.pdf)
 
-suomi (FI) (500.25 KB - PDF)
+suomi (FI) (477.6 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/fi/documents/product-information/orgovyx-epar-product-information_fi.pdf)
 
-svenska (SV) (501.3 KB - PDF)
+svenska (SV) (527.99 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/sv/documents/product-information/orgovyx-epar-product-information_sv.pdf)
 
-Íslenska (IS) (580.06 KB - PDF)
+Íslenska (IS) (543.3 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/is/documents/product-information/orgovyx-epar-product-information_is.pdf)
 
-norsk (NO) (485.06 KB - PDF)
+norsk (NO) (541.88 KB - PDF)
 
-**First published:** 10/05/2022 **Last updated:** 30/09/2025
+**First published:** 10/05/2022 **Last updated:** 02/10/2026
 
 [View](/no/documents/product-information/orgovyx-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000295448
+**Latest procedure affecting product information:** VR/0000378376
 
-29/09/2025
+01/10/2026
 
 icon globe
 
@@ -429,7 +429,7 @@ English (EN) (25.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/orgovyx-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-244)
+[Other languages (24)](#file-language-dropdown-739)
 
 български (BG) (65.84 KB - PDF)
 
@@ -609,7 +609,7 @@ Orgovyx is indicated for the treatment of adult patients with advanced hormone-s
 - **Marketing authorisation issued**
     - 29/04/2022
 - **Revision**
-    - 13
+    - 14
 
 ## Assessment history
 
@@ -621,9 +621,9 @@ Collapse section
 
 Orgovyx : EPAR - Procedural steps taken and scientific information after information
 
-English (EN) (162.57 KB - PDF)
+English (EN) (187.5 KB - PDF)
 
-**First published:** 24/06/2025 **Last updated:** 30/09/2025
+**First published:** 24/06/2025 **Last updated:** 02/10/2026
 
 [View](/en/documents/procedural-steps-after/orgovyx-epar-procedural-steps-taken-scientific-information-after-information_en.pdf)
 
@@ -679,6 +679,6 @@ English (EN) (133.81 KB - PDF)
 
 **This page was last updated on**
 
-30/09/2026
+02/10/2026
 
 ## Share this page

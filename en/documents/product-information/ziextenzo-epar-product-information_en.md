@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-12-04 11:50:29
-document_pages: 34
+document_datetime: 2026-10-02 16:46:11
+document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ziextenzo-epar-product-information_en.pdf
 document_name: ziextenzo-epar-product-information_en.pdf
 version: success
-processing_time: 7.7726219
-conversion_datetime: 2025-12-21 16:25:30.629457
+processing_time: 33.978315
+conversion_datetime: 2026-10-04 15:51:54.869601
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,21 +30,21 @@ Ziextenzo 6 mg solution for injection in pre-filled syringe
 
 Each pre-filled syringe contains 6 mg of pegfilgrastim* in 0.6 mL solution for injection. The concentration is 10 mg/mL based on protein only**.
 
-*Produced in Escherichia coli cells by recombinant DNA technology followed by conjugation with polyethylene glycol (PEG).
+* Produced in Escherichia coli cells by recombinant DNA technology followed by conjugation with polyethylene glycol (PEG).
 
 ** The concentration is 20 mg/mL if the PEG moiety is included.
 
-The potency of this product should not be compared to the potency of another pegylated or non-pegylated protein of the same therapeutic class. For more information, see section 5.1
+The potency of this product should not be compared to the potency of another pegylated or non-pegylated protein of the same therapeutic class. For more information, see section 5.1.
 
 ## Excipients with known effect
 
-Each pre-filled syringe contains 30 mg sorbitol (E420).
+Each pre-filled syringe contains 30 mg sorbitol (E 420) (see section 4.4). Each pre-filled syringe contains 0.02 mg polysorbate 20 (E 432) (see section 4.4).
 
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection (injection)
+Solution for injection (injection).
 
 Clear, colourless to slightly yellowish solution for injection.
 
@@ -72,7 +72,7 @@ The safety and efficacy of pegfilgrastim in children has not yet been establishe
 
 ## Renal impairment
 
-No dose change is recommended in patients with renal impairment, including those with end stage renal disease.
+No dose change is recommended in patients with renal impairment, including those with end-stage renal disease.
 
 ## Method of administration
 
@@ -94,7 +94,7 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Limited clinical data suggest a comparable effect on time to recovery of severe neutropenia for pegfilgrastim to filgrastim in patients with de novo acute myeloid leukaemia (AML) (see section 5.1). However, the long-term effects of pegfilgrastim have not been established in AML; therefore, it should be used with caution in this patient population.
 
-Granulocyte-colony stimulating factor (G-CSF) can promote growth of myeloid cells in vitro and similar effects may be seen on some non-myeloid cells in vitro .
+Granulocyte colony-stimulating factor (G-CSF) can promote growth of myeloid cells in vitro and similar effects may be seen on some non-myeloid cells in vitro.
 
 The safety and efficacy of pegfilgrastim have not been investigated in patients with myelodysplastic syndrome, chronic myelogenous leukaemia, and in patients with secondary AML; therefore, it should not be used in such patients. Particular care should be taken to distinguish the diagnosis of blast transformation of chronic myeloid leukaemia from AML.
 
@@ -106,7 +106,7 @@ The safety and efficacy of pegfilgrastim have not been investigated in patients 
 
 Pulmonary adverse reactions, in particular interstitial pneumonia, have been reported after G-CSF administration. Patients with a recent history of pulmonary infiltrates or pneumonia may be at higher risk (see section 4.8).
 
-The onset of pulmonary signs such as cough, fever, and dyspnoea in association with radiological signs of pulmonary infiltrates, and deterioration in pulmonary function along with increased neutrophil count may be preliminary signs of Acute Respiratory Distress Syndrome (ARDS). In such circumstances pegfilgrastim should be discontinued at the discretion of the physician and the appropriate treatment given (see section 4.8).
+The onset of pulmonary signs such as cough, fever, and dyspnoea in association with radiological signs of pulmonary infiltrates, and deterioration in pulmonary function along with increased neutrophil count may be preliminary signs of acute respiratory distress syndrome (ARDS). In such circumstances pegfilgrastim should be discontinued at the discretion of the physician and the appropriate treatment given (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -116,7 +116,7 @@ Glomerulonephritis has been reported in patients receiving filgrastim and pegfil
 
 ## Capillary leak syndrome
 
-Capillary leak syndrome has been reported after granulocyte-colony stimulating factor administration and is characterised by hypotension, hypoalbuminaemia, oedema and haemoconcentration. Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care (see section 4.8).
+Capillary leak syndrome has been reported after granulocyte colony-stimulating factor administration and is characterised by hypotension, hypoalbuminaemia, oedema and haemoconcentration. Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care (see section 4.8).
 
 ## Splenomegaly and splenic rupture
 
@@ -132,7 +132,7 @@ In the post-marketing observational study setting, pegfilgrastim in conjunction 
 
 ## Sickle cell anaemia
 
-Sickle cell crises have been associated with the use of pegfilgrastim in patients with sickle cell trait or sickle cell disease (see section 4.8).  Therefore, physicians should use caution when prescribing pegfilgrastim in patients with sickle cell trait or sickle cell disease, should monitor appropriate clinical parameters and laboratory status and be attentive to the possible association of this medicine with splenic enlargement and vaso-occlusive crisis.
+Sickle cell crises have been associated with the use of pegfilgrastim in patients with sickle cell trait or sickle cell disease (see section 4.8). Therefore, physicians should use caution when prescribing pegfilgrastim in patients with sickle cell trait or sickle cell disease, should monitor appropriate clinical parameters and laboratory status and be attentive to the possible association of this medicine with splenic enlargement and vaso-occlusive crisis.
 
 ## Leukocytosis
 
@@ -140,11 +140,9 @@ White blood cell (WBC) counts of 100 × 10 9 /L or greater have been observed in
 
 ## Hypersensitivity
 
-Hypersensitivity, including anaphylactic reactions, occurring on initial or subsequent treatment has been reported in patients treated with pegfilgrastim. Permanently discontinue pegfilgrastim in patients with
+Hypersensitivity, including anaphylactic reactions, occurring on initial or subsequent treatment has been reported in patients treated with pegfilgrastim. Permanently discontinue pegfilgrastim in patients with clinically significant hypersensitivity. Do not administer pegfilgrastim to patients with a history of hypersensitivity to pegfilgrastim or filgrastim. If a serious allergic reaction occurs, appropriate therapy should be administered, with close patient follow-up over several days.
 
 <div style=\"page-break-after: always\"></div>
-
-clinically significant hypersensitivity. Do not administer pegfilgrastim to patients with a history of hypersensitivity to pegfilgrastim or filgrastim. If a serious allergic reaction occurs, appropriate therapy should be administered, with close patient follow-up over several days.
 
 ## Stevens-Johnson syndrome
 
@@ -156,11 +154,11 @@ As with all therapeutic proteins, there is a potential for immunogenicity. Rates
 
 ## Aortitis
 
-Aortitis has been reported after G-CSF administration in healthy subjects and in cancer patients. The symptoms experienced included fever, abdominal pain, malaise, back pain and inflammatory markers (e.g. C-reactive protein and white blood cell count) were raised. In most cases aortitis was diagnosed by CT scan and generally resolved after withdrawal of G-CSF. See also section 4.8.
+Aortitis has been reported after G-CSF administration in healthy subjects and in cancer patients. The symptoms experienced included fever, abdominal pain, malaise, back pain and increased inflammatory markers (e.g. C-reactive protein and white blood cell count). In most cases aortitis was diagnosed by CT scan and generally resolved after withdrawal of G-CSF. See also section 4.8.
 
 ## Other warnings
 
-The safety and efficacy of pegfilgrastim for the mobilisation of blood progenitor cells in patients or healthy donors have not been adequately evaluated.
+The safety and efficacy of pegfilgrastim for the mobilisation of blood progenitor cells in patients or healthy donors has not been adequately evaluated.
 
 Increased haematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone-imaging findings. This should be considered when interpreting bone-imaging results.
 
@@ -170,15 +168,17 @@ This medicinal product contains 30 mg sorbitol in each pre-filled syringe which 
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 6 mg dose, that is to say essentially 'sodium-free'.
 
+This medicinal product contains 0.02 mg of polysorbate 20 (E 432) in each pre-filled syringe, which is equivalent to 0.033 mg/mL. Polysorbates may cause allergic reactions.
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Due to the potential sensitivity of rapidly dividing myeloid cells to cytotoxic chemotherapy, pegfilgrastim should be administered at least 24 hours after administration of cytotoxic chemotherapy. In clinical trials, pegfilgrastim has been safely administered 14 days before chemotherapy. Concomitant use of pegfilgrastim with any chemotherapy agent has not been evaluated in patients. In animal models concomitant administration of pegfilgrastim and 5-fluorouracil (5-FU) or other antimetabolites has been shown to potentiate myelosuppression.
 
 Possible interactions with other haematopoietic growth factors and cytokines have not been specifically investigated in clinical trials.
 
-The potential for interaction with lithium, which also promotes the release of neutrophils, has not been specifically investigated. There is no evidence that such an interaction would be harmful.
-
 <div style=\"page-break-after: always\"></div>
+
+The potential for interaction with lithium, which also promotes the release of neutrophils, has not been specifically investigated. There is no evidence that such an interaction would be harmful.
 
 The safety and efficacy of pegfilgrastim have not been evaluated in patients receiving chemotherapy associated with delayed myelosuppression e.g. nitrosoureas.
 
@@ -206,19 +206,19 @@ Pegfilgrastim has no or negligible influence on the ability to drive and use mac
 
 ## Summary of the safety profile
 
-The most frequently reported adverse reactions were bone pain (very comm on [≥ 1 /10]) and musculoskeletal pain (common [ ≥ 1/100 to &lt; 1/10]). Bone pain was generally of mild to moderate severity, transient and could be controlled in most patients with standard analgesics.
+The most frequently reported adverse reactions were bone pain (very common [≥ 1/10]) and musculoskeletal pain (common [≥ 1/100 to &lt; 1/10]). Bone pain was generally of mild to moderate severity, transient and could be controlled in most patients with standard analgesics.
 
-Hypersensitivity-type reactions, including skin rash, urticaria, angioedema, dyspnoea, erythaema, flushing, and hypotension occurred on initial or subsequent treatment with pegfilgrastim (uncommon [ ≥ 1/1 000 to &lt; 1/100]). Serious allergic reactions, including anaphylaxis can occur in patients receiving pegfilgrastim (uncommon) (see section 4.4).
+Hypersensitivity-type reactions, including skin rash, urticaria, angioedema, dyspnoea, erythaema, flushing, and hypotension occurred on initial or subsequent treatment with pegfilgrastim (uncommon [≥ 1/1 000 to &lt; 1/100]). Serious allergic reactions, including anaphylaxis can occur in patients receiving pegfilgrastim (uncommon) (see section 4.4).
 
-Capillary Leak Syndrome, which can be life-threatening if treatment is delayed, has been reported as uncommon (≥ 1/1 000 to &lt; 1/100) in cancer patients undergoing chemotherapy following administration of granulocyte colony-stimulating factors; see section 4.4 and section 'Description of selected adverse reactions' below.
+Capillary Leak Syndrome, which can be life-threatening if treatment is delayed, has been reported as uncommon (≥ 1/1 000 to &lt; 1/100) in cancer patients undergoing chemotherapy following administration of granulocyte colony-stimulating factors; see section 4.4 and section \"Description of selected adverse reactions\" below.
 
 Splenomegaly, generally asymptomatic, is uncommon.
 
 Splenic rupture including some fatal cases is uncommonly reported following administration of pegfilgrastim (see section 4.4).
 
-Uncommon pulmonary adverse reactions including interstitial pneumonia, pulmonary oedema, pulmonary infiltrates and pulmonary fibrosis have been reported. Uncommonly, cases have resulted in respiratory failure or ARDS, which may be fatal (see section 4.4).
-
 <div style=\"page-break-after: always\"></div>
+
+Uncommon pulmonary adverse reactions including interstitial pneumonia, pulmonary oedema, pulmonary infiltrates and pulmonary fibrosis have been reported. Uncommonly, cases have resulted in respiratory failure or ARDS, which may be fatal (see section 4.4).
 
 Isolated cases of sickle cell crises have been reported in patients with sickle cell trait or sickle cell disease (uncommon in sickle cell patients) (see section 4.4).
 
@@ -226,34 +226,27 @@ Isolated cases of sickle cell crises have been reported in patients with sickle 
 
 The data in the table below describe adverse reactions reported from clinical trials and spontaneous reporting. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 1. Adverse reactions
-
-| MedDRA system organ class                                           | Adverse reactions    | Adverse reactions                 | Adverse reactions                                                                                                                                                      | Adverse reactions              |
-|---------------------------------------------------------------------|----------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| MedDRA system organ class                                           | Very common (≥ 1/10) | Common (≥ 1/100 to < 1/10)        | Uncommon (≥ 1/1 000 to < 1/100)                                                                                                                                        | Rare (≥ 1/10 000 to < 1/1 000) |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) |                      |                                   | Myelodysplastic syndrome 1 Acute myeloid leukaemia 1                                                                                                                   |                                |
-| Blood and lymphatic system disorders                                |                      | Thrombocytopenia 1 Leukocytosis 1 | Sickle cell anaemia with crisis 2 Splenomegaly 2 ;Splenic rupture 2                                                                                                    |                                |
-| Immune system disorders                                             |                      |                                   | Hypersensitivity reactions; Anaphylaxis                                                                                                                                |                                |
-| Metabolism and nutrition disorders                                  |                      |                                   | Elevations in uric acid                                                                                                                                                |                                |
-| Nervous system disorders                                            | Headache 1           |                                   |                                                                                                                                                                        |                                |
-| Vascular disorders                                                  |                      |                                   | Capillary leak syndrome 1                                                                                                                                              | Aortitis                       |
-| Respiratory, thoracic and mediastinal disorders                     |                      |                                   | Acute respiratory distress syndrome 2 Pulmonary adverse reactions (interstitial pneumonia, pulmonary oedema, pulmonary infiltrates and pulmonary fibrosis) Haemoptysis | Pulmonary haemorrhage          |
-| Gastrointestinal disorders                                          | Nausea 1             |                                   |                                                                                                                                                                        |                                |
-| Skin and subcutaneous tissue disorders                              |                      |                                   | Sweet's syndrome (acute febrile neutrophilic dermatosis) 1,2 Cutaneous vasculitis 1,2                                                                                  | Stevens- Johnson syndrome      |
+| MedDRA system organ class                                           | Adverse reactions - Very common (≥ 1/10)   | Adverse reactions - Common (≥ 1/100 to < 1/10)   | Adverse reactions - Uncommon (≥ 1/1 000 to < 1/100)                                                                                                                    | Adverse reactions - Rare (≥ 1/10 000 to < 1/1 000)   |
+|---------------------------------------------------------------------|--------------------------------------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) |                                            |                                                  | Myelodysplastic syndrome 1 Acute myeloid leukaemia 1                                                                                                                   |                                                      |
+| Blood and lymphatic system disorders                                |                                            | Thrombocytopenia 1 Leukocytosis 1                | Sickle cell anaemia with crisis 2 Splenomegaly 2 Splenic rupture 2                                                                                                     |                                                      |
+| Immune system disorders                                             |                                            |                                                  | Hypersensitivity reactions Anaphylaxis                                                                                                                                 |                                                      |
+| Metabolism and nutrition disorders                                  |                                            |                                                  | Elevations in uric acid                                                                                                                                                |                                                      |
+| Nervous system disorders                                            | Headache 1                                 |                                                  |                                                                                                                                                                        |                                                      |
+| Vascular disorders                                                  |                                            |                                                  | Capillary leak syndrome 1                                                                                                                                              | Aortitis                                             |
+| Respiratory, thoracic and mediastinal disorders                     |                                            |                                                  | Acute respiratory distress syndrome 2 Pulmonary adverse reactions (interstitial pneumonia, pulmonary oedema, pulmonary infiltrates and pulmonary fibrosis) Haemoptysis | Pulmonary haemorrhage                                |
+| Gastrointestinal disorders                                          | Nausea 1                                   |                                                  |                                                                                                                                                                        |                                                      |
+| Skin and subcutaneous tissue disorders                              |                                            |                                                  | Sweet's syndrome (acute febrile neutrophilic dermatosis) 1,2                                                                                                           | Stevens- Johnson syndrome                            |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA system organ class                            | Adverse reactions    | Adverse reactions                                                                                           | Adverse reactions                                                                                             | Adverse reactions              |
-|------------------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------|
-| MedDRA system organ class                            | Very common (≥ 1/10) | Common (≥ 1/100 to < 1/10)                                                                                  | Uncommon (≥ 1/1 000 to < 1/100)                                                                               | Rare (≥ 1/10 000 to < 1/1 000) |
-| Musculoskeletal and connective tissue disorders      | Bone pain            | Musculoskeletal pain (myalgia, arthralgia, pain in extremity, back pain, musculo- skeletal pain, neck pain) |                                                                                                               |                                |
-| Renal and urinary disorders                          |                      |                                                                                                             | Glomerulonephritis 2                                                                                          |                                |
-| General disorders and administrative site conditions |                      | Injection site pain 1 Non-cardiac chest pain                                                                | Injection site reactions 2                                                                                    |                                |
-| Investigations                                       |                      |                                                                                                             | Elevations in lactate dehydrogenase and alkaline phosphatase 1 Transient elevations in LFT's for ALT or AST 1 |                                |
-
-1  See section 'Description of selected adverse reactions' below.
-
-2  This adverse reaction was identified through post-marketing surveillance but not observed in randomised, controlled clinical trials in adults. The frequency category was estimated from a statistical calculation based upon 1 576 patients receiving pegfilgrastim in nine randomised clinical trials.
+| MedDRA system organ - class                          | Adverse reactions - Very common (≥ 1/10)   | Adverse reactions - Common (≥ 1/100 to < 1/10)                                                              | Adverse reactions - Uncommon (≥ 1/1 000 to < 1/100)                                                          | Adverse reactions - Rare (≥ 1/10 000 to < 1/1 000)   |
+|------------------------------------------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+|                                                      |                                            |                                                                                                             | Cutaneous vasculitis 1,2                                                                                     |                                                      |
+| Musculoskeletal and connective tissue disorders      | Bone pain                                  | Musculoskeletal pain (myalgia, arthralgia, pain in extremity, back pain, musculo- skeletal pain, neck pain) |                                                                                                              |                                                      |
+| Renal and urinary disorders                          |                                            |                                                                                                             | Glomerulonephritis 2                                                                                         |                                                      |
+| General disorders and administrative site conditions |                                            | Injection site pain 1 Non-cardiac chest pain                                                                | Injection site reactions 2                                                                                   |                                                      |
+| Investigations                                       |                                            |                                                                                                             | Elevations in lactate dehydrogenase and alkaline phosphatase 1 Transient elevations in LFTs for ALT or AST 1 |                                                      |
 
 ## Description of selected adverse reactions
 
@@ -297,31 +290,29 @@ Single doses of 300 mcg/kg have been administered subcutaneously to a limited nu
 
 Pharmacotherapeutic group: immunostimulants, colony stimulating factor; ATC Code: L03AA13
 
-Ziextenzo is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Ziextenzo is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-Human granulocyte colony stimulating factor (G-CSF) is a glycoprotein, which regulates the production and release of neutrophils from the bone marrow. Pegfilgrastim is a covalent conjugate of recombinant human G-CSF (r-metHuG-CSF) with a single 20 kd polyethylene glycol (PEG) molecule. Pegfilgrastim is a sustained duration form of filgrastim due to decreased renal clearance.
+Human granulocyte colony-stimulating factor (G-CSF) is a glycoprotein, which regulates the production and release of neutrophils from the bone marrow. Pegfilgrastim is a covalent conjugate of recombinant methionyl human G-CSF (r-metHuG-CSF) with a single 20 kd polyethylene glycol (PEG) molecule. Pegfilgrastim is a sustained duration form of filgrastim due to decreased renal clearance.
 
-Pegfilgrastim and filgrastim have been shown to have identical modes of action, causing a marked increase in peripheral blood neutrophil counts within 24 hours, with minor increases in monocytes and/or lymphocytes. Similarly to filgrastim, neutrophils produced in response to pegfilgrastim show normal or enhanced function as demonstrated by tests of chemotactic and phagocytic function. As with other haematopoietic growth factors, G-CSF has shown in vitro stimulating properties on human endothelial cells. G-CSF can promote growth of myeloid cells, including malignant cells, in vitro and similar effects may be seen on some non-myeloid cells in vitro .
+Pegfilgrastim and filgrastim have been shown to have identical modes of action, causing a marked increase in peripheral blood neutrophil counts within 24 hours, with minor increases in monocytes and/or lymphocytes. Similarly to filgrastim, neutrophils produced in response to pegfilgrastim show normal or enhanced function as demonstrated by tests of chemotactic and phagocytic function. As with other haematopoietic growth factors, G-CSF has shown in vitro stimulating properties on human endothelial cells. G-CSF can promote growth of myeloid cells, including malignant cells, in vitro and similar effects may be seen on some non-myeloid cells in vitro.
 
-In two randomised, double-blind, pivotal studies in patients with high-risk stage II-IV breast cancer undergoing myelosuppressive chemotherapy consisting of doxorubicin and docetaxel, use of pegfilgrastim, as a single once per cycle dose, reduced the duration of neutropenia and the incidence of
+In two randomised, double-blind, pivotal studies in patients with high-risk stage II-IV breast cancer undergoing myelosuppressive chemotherapy consisting of doxorubicin and docetaxel, use of pegfilgrastim, as a single once per cycle dose, reduced the duration of neutropenia and the incidence of febrile neutropenia similarly to that observed with daily administrations of filgrastim (a median of 11 daily administrations). In the absence of growth factor support, this regimen has been reported to result in a mean duration of grade 4 neutropenia of 5 to 7 days, and a 30-40% incidence of febrile neutropenia. In one study (n = 157), which used a 6 mg fixed dose of pegfilgrastim the mean duration of grade 4 neutropenia for the pegfilgrastim group was 1.8 days compared with 1.6 days in the filgrastim group (difference 0.23 days, 95% CI -0.15, 0.63). Over the entire study, the rate of febrile neutropenia was 13% of pegfilgrastim-treated patients compared with 20% of filgrastim-treated patients (difference 7%, 95% CI of -19%, 5%). In a second study (n = 310), which used a weight-adjusted dose (100 mcg/kg), the mean duration of grade 4 neutropenia for the pegfilgrastim group was 1.7 days, compared with 1.8 days in the filgrastim group (difference 0.03 days, 95% CI -0.36, 0.30). The overall rate of febrile neutropenia was 9% of patients treated with pegfilgrastim and 18% of patients treated with filgrastim (difference 9%, 95% CI of -16.8%, -1.1%).
 
 <div style=\"page-break-after: always\"></div>
 
-febrile neutropenia similarly to that observed with daily administrations of filgrastim (a median of 11 daily administrations). In the absence of growth factor support, this regimen has been reported to result in a mean duration of grade 4 neutropenia of 5 to7 days, and a 30-40% incidence of febrile neutropenia. In one study (n = 157), which used a 6 mg fixed dose of pegfilgrastim the mean duration of grade 4 neutropenia for the pegfilgrastim group was 1.8 days compared with 1.6 days in the filgrastim group (difference 0.23 days, 95% CI -0.15, 0.63). Over the entire study, the rate of febrile neutropenia was 13% of pegfilgrastim-treated patients compared with 20% of filgrastim-treated patients (difference 7%, 95% CI of -19%, 5%). In a second study (n = 310), which used a weight-adjusted dose (100 mcg/kg), the mean duration of grade 4 neutropenia for the pegfilgrastim group was 1.7 days, compared with 1.8 days in the filgrastim group (difference 0.03 days, 95% CI-0.36, 0.30). The overall rate of febrile neutropenia was 9% of patients treated with pegfilgrastim and 18% of patients treated with filgrastim (difference 9%, 95% CI of -16.8%, -1.1%).
+In a placebo-controlled, double-blind study in patients with breast cancer the effect of pegfilgrastim on the incidence of febrile neutropenia was evaluated following administration of a chemotherapy regimen associated with a febrile neutropenia rate of 10-20% (docetaxel 100 mg/m 2 every 3 weeks for 4 cycles). Nine hundred and twenty-eight patients were randomised to receive either a single dose of pegfilgrastim or placebo approximately 24 hours (day 2) after chemotherapy in each cycle. The incidence of febrile neutropenia was lower for patients randomised to receive pegfilgrastim compared with placebo (1% versus 17%, p &lt; 0.001). The incidence of hospitalisations and IV anti-infective use associated with a clinical diagnosis of febrile neutropenia was lower in the pegfilgrastim group compared with placebo (1% versus 14%, p &lt; 0.001; and 2% versus 10%, p &lt; 0.001).
 
-In a placebo-controlled, double blind study in patients with breast cancer the effect of pegfilgrastim on the incidence of febrile neutropenia was evaluated following administration of a chemotherapy regimen associated with a febrile neutropenia rate of 10-20% (docetaxel 100 mg/m 2  every 3 weeks for 4 cycles). Nine hundred and twenty eight patients were randomised to receive either a single dose of pegfilgrastim or placebo approximately 24 hours (day 2) after chemotherapy in each cycle. The incidence of febrile neutropenia was lower for patients randomised to receive pegfilgrastim compared with placebo (1% versus 17%, p &lt; 0.001). The incidence of hospitalisations and IV anti-infective use associated with a clinical diagnosis of febrile neutropenia was lower in the pegfilgrastim group compared with placebo (1% versus 14%, p &lt; 0.001; and 2% versus 10%, p &lt; 0.001).
-
-A small (n = 83), phase II, randomised, double-blind study in patients receiving chemotherapy for de novo acute myeloid leukaemia compared pegfilgrastim (single dose of 6 mg) with filgrastim, administered during induction chemotherapy. Median time to recovery from severe neutropenia was estimated as 22 days in both treatment groups. Long term outcome was not studied (see section 4.4).
+A small (n = 83), phase II, randomised, double-blind study in patients receiving chemotherapy for de novo acute myeloid leukaemia compared pegfilgrastim (single dose of 6 mg) with filgrastim, administered during induction chemotherapy. Median time to recovery from severe neutropenia was estimated as 22 days in both treatment groups. Long-term outcome was not studied (see section 4.4).
 
 In a phase II (n = 37) multicentre, randomised, open-label study of paediatric sarcoma patients receiving 100 mcg/kg pegfilgrastim following cycle 1 of vincristine, doxorubicin and cyclophosphamide (VAdriaC/IE) chemotherapy, a longer duration of severe neutropenia (neutrophils &lt; 0.5 × 10 9 /L) was observed in younger children aged 0-5 years (8.9 days) compared to older children aged 6-11 years and 12-21 years (6 days and 3.7 days, respectively) and adults. Additionally a higher incidence of febrile neutropenia was observed in younger children aged 0-5 years (75%) compared to older children aged 6-11 years and 12-21 years (70% and 33%, respectively) and adults (see sections 4.8 and 5.2).
 
 ## 5.2 Pharmacokinetic properties
 
-After a single subcutaneous dose of pegfilgrastim, the peak serum concentration of pegfilgrastim occurs at 16 to 120 hours after dosing and serum concentrations of pegfilgrastim are maintained during the period of neutropenia after myelosuppressive chemotherapy. The elimination of pegfilgrastim is non-linear with respect to dose; serum clearance of pegfilgrastim decreases with increasing dose. Pegfilgrastim appears to be mainly eliminated by neutrophil mediated clearance, which becomes saturated at higher doses. Consistent with a self-regulating clearance mechanism, the serum concentration of pegfilgrastim declines rapidly at the onset of neutrophil recovery (see Figure 1).
+After a single subcutaneous dose of pegfilgrastim, the peak serum concentration of pegfilgrastim occurs at 16 to 120 hours after dosing and serum concentrations of pegfilgrastim are maintained during the period of neutropenia after myelosuppressive chemotherapy. The elimination of pegfilgrastim is non-linear with respect to dose; serum clearance of pegfilgrastim decreases with increasing dose. Pegfilgrastim appears to be mainly eliminated by neutrophil-mediated clearance, which becomes saturated at higher doses. Consistent with a self-regulating clearance mechanism, the serum concentration of pegfilgrastim declines rapidly at the onset of neutrophil recovery (see Figure 1).
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1.  Profile of median pegfilgrastim serum concentration and absolute neutrophil count (ANC) in chemotherapy treated patients after a single 6 mg injection
+Figure 1. Profile of median pegfilgrastim serum concentration and absolute neutrophil count (ANC) in chemotherapy treated patients after a single 6 mg injection
 
 <!-- image -->
 
@@ -333,7 +324,7 @@ Limited data indicate that the pharmacokinetics of pegfilgrastim in elderly subj
 
 ## Paediatric population
 
-The pharmacokinetics of pegfilgrastim were studied in 37 paediatric patients with sarcoma, who received 100 mcg/kg pegfilgrastim after the completion of VAdriaC/IE chemotherapy. The youngest age group (0-5 years) had a higher mean exposure to pegfilgrastim (AUC) (± Standard Deviation) (47.9 ± 22.5 mcg·hr/ml) than older children aged 6-11 years and 12-21 years (22.0 ± 13.1 mcg hr/ml and 29.3 ± 23.2 mcg·hr/ml, respectively) (see section 5.1). With the exception of the youngest age group (0-5 years), the mean AUC in paediatric subjects appeared similar to that for adult patients with high-risk stage II-IV breast cancer and receiving 100 mcg/kg pegfilgrastim after the completion of doxorubicin/docetaxel (see sections 4.8 and 5.1).
+The pharmacokinetics of pegfilgrastim were studied in 37 paediatric patients with sarcoma, who received 100 mcg/kg pegfilgrastim after the completion of VAdriaC/IE chemotherapy. The youngest age group (0-5 years) had a higher mean exposure to pegfilgrastim (AUC) (± Standard Deviation) (47.9 ± 22.5 mcg·hr/mL) than older children aged 6-11 years and 12-21 years (22.0 ± 13.1 mcg·hr/mL and 29.3 ± 23.2 mcg·hr/mL, respectively) (see section 5.1). With the exception of the youngest age group (0-5 years), the mean AUC in paediatric subjects appeared similar to that for adult patients with high-risk stage II-IV breast cancer and receiving 100 mcg/kg pegfilgrastim after the completion of doxorubicin/docetaxel (see sections 4.8 and 5.1).
 
 ## 5.3 Preclinical safety data
 
@@ -347,7 +338,7 @@ There were no adverse effects observed in offspring from pregnant rats given peg
 
 ## 6.1 List of excipients
 
-Glacial acetic acid Sorbitol (E420) Polysorbate 20 Sodium hydroxide (for pH adjustment) Water for injections
+Glacial acetic acid Sorbitol (E 420) Polysorbate 20 (E 432) Sodium hydroxide (for pH adjustment) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -359,19 +350,21 @@ This medicinal product must not be mixed with other medicinal products, particul
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C-8 °C).
+Store in a refrigerator (2 °C - 8 °C).
 
-Ziextenzo may be exposed to room temperature (not above 35 °C) for a maximum single period of up to 120 hours. Ziextenzo left at room temperature for more than 120 hours should be discarded.
+Ziextenzo may be stored at temperatures up to a maximum of 30 °C for a single period of up to 30 days or may be exposed to temperatures up to a maximum of 35 °C for a single period of up to 120 hours.
+
+Upon removal from refrigerated storage, Ziextenzo must not be returned to refrigerated storage and must be discarded if not used.
 
 Do not freeze. Accidental exposure to freezing temperatures for a single period of less than 24 hours does not adversely affect the stability of Ziextenzo.
 
-Keep the container in the outer carton in order to protect from light.
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
 Pre-filled syringe (Type I glass), with a rubber plunger stopper (bromobutyl rubber, latex-free), a plunger rod, a stainless steel 29 gauge needle and a rubber needle cap (thermoplastic elastomer, latexfree) with an automatic needle guard.
 
-Each pre-filled syringe contains 0.6 ml of solution for injection.
+Each pre-filled syringe contains 0.6 mL of solution for injection.
 
 Pack size of one pre-filled syringe in a blistered packaging.
 
@@ -387,7 +380,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 <div style=\"page-break-after: always\"></div>
 
-## 7. MARKETING AUTHORISATION HOLDER
+7. MARKETING AUTHORISATION HOLDER
 
 Sandoz GmbH
 
@@ -397,7 +390,7 @@ Biochemiestr. 10
 
 Austria
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/18/1327/001
 
@@ -407,9 +400,11 @@ Date of first authorisation: 22 November 2018
 
 Date of latest renewal: 23 June 2023
 
-## 10. DATE OF REVISION OF THE TEXT
+10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+13
 
 <div style=\"page-break-after: always\"></div>
 
@@ -460,7 +455,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## · Risk management plan (RMP)
 
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreeed subsequent updates of the RMP.
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -495,9 +490,7 @@ Each pre-filled syringe contains 6 mg of pegfilgrastim in 0.6 mL (10 mg/mL) solu
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: glacial acetic acid, sorbitol (E420), polysorbate 20, sodium hydroxide, water for injections.
-
-See leaflet for further information.
+Excipients: glacial acetic acid, sorbitol (E 420), polysorbate 20 (E 432), sodium hydroxide, water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -511,9 +504,7 @@ Single use.
 
 Read the package leaflet before use.
 
-Important
-
-: Read the package leaflet before handling the pre-filled syringe.
+Important: Read the package leaflet before handling the pre-filled syringe.
 
 Subcutaneous use.
 
@@ -535,7 +526,7 @@ Store in a refrigerator.
 
 Do not freeze.
 
-Keep the container in the outer carton in order to protect from light.
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -545,19 +536,24 @@ Sandoz GmbH Biochemiestr. 10 6250 Kundl
 
 Austria
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/18/1327/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Ziextenzo
 
@@ -565,7 +561,8 @@ Ziextenzo
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN
 
@@ -579,13 +576,13 @@ NN
 |------------------------------------------------------|
 | BLISTER                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Ziextenzo 6 mg injection pegfilgrastim
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -610,13 +607,13 @@ SC
 |--------------------------------------------------------------------|
 | SYRINGE LABEL                                                      |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Ziextenzo 6 mg injection pegfilgrastim SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -642,14 +639,16 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Ziextenzo 6 mg solution for injection in pre-filled syringe pegfilgrastim
+## Ziextenzo 6 mg solution for injection in pre-filled syringe
+
+## pegfilgrastim
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their symptoms of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -659,10 +658,11 @@ Lot
 4. Possible side effects
 5. How to store Ziextenzo
 6. Contents of the pack and other information
+7. Instructions for use of Ziextenzo pre filled syringe with needle guard
 
 ## 1. What Ziextenzo is and what it is used for
 
-Ziextenzo contains the active substance pegfilgrastim. Pegfilgrastim is a protein produced by biotechnology in bacteria called E. coli . It belongs to a group of proteins called cytokines, and is very similar to a natural protein (granulocyte-colony stimulating factor) produced by your own body.
+Ziextenzo contains the active substance pegfilgrastim. Pegfilgrastim is a protein produced by biotechnology in bacteria called E. coli. It belongs to a group of proteins called cytokines, and is very similar to a natural protein (granulocyte colony-stimulating factor) produced by your own body.
 
 Ziextenzo is used to reduce the duration of neutropenia (low white blood cell count) and the occurrence of febrile neutropenia (low white blood cell count with a fever) which can be caused by the use of cytotoxic chemotherapy (medicines that destroy rapidly growing cells). White blood cells are important as they help your body fight infection. These cells are very sensitive to the effects of chemotherapy which can cause the number of these cells in your body to decrease. If white blood cells fall to a low level there may not be enough left in the body to fight bacteria and you may have an increased risk of infection.
 
@@ -672,7 +672,7 @@ Your doctor has given you Ziextenzo to encourage your bone marrow (part of the b
 
 ## Do not use Ziextenzo
 
-- if you are allergic to pegfilgrastim, filgrastim , or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to pegfilgrastim, filgrastim, or any of the other ingredients of this medicine (listed in section 6).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -683,9 +683,9 @@ Talk to your doctor, pharmacist or nurse before using Ziextenzo:
 - if you experience an allergic reaction including weakness, drop in blood pressure, difficulty breathing, swelling of the face (anaphylaxis), redness and flushing, skin rash and areas of the skin that itch.
 - if you experience a cough, fever and difficulty breathing. This can be a sign of Acute Respiratory Distress Syndrome (ARDS).
 - if you have any of the following or combination of the following side effects:
-- -swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness
+- swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness.
 
-These could be symptoms of condition called 'Capillary Leak Syndrome' which causes blood to leak from the small blood vessels into your body. See section 4.
+These could be symptoms of a condition called \"Capillary Leak Syndrome\" which causes blood to leak from the small blood vessels into your body. See section 4.
 
 - if you get left upper abdominal pain or pain at the tip of your shoulder. This may be a sign of a problem with your spleen (splenomegaly).
 - if you have recently had a serious lung infection (pneumonia), fluid in the lungs (pulmonary oedema), inflammation of the lungs (interstitial lung disease) or an abnormal chest x-ray (lung infiltration).
@@ -727,11 +727,17 @@ Unless your doctor directs you otherwise, you must stop breast-feeding if you us
 
 Ziextenzo has no or negligible effect on the ability to drive or use machines.
 
-## Ziextenzo contains sorbitol (E420) and sodium
+## Ziextenzo contains sorbitol (E 420)
 
 This medicine contains 30 mg sorbitol in each pre-filled syringe which is equivalent to 50 mg/mL.
 
+## Ziextenzo contains sodium
+
 This medicine contains less than 1 mmol sodium (23 mg) per 6 mg dose, that is to say essentially 'sodium-free'.
+
+## Ziextenzo contains polysorbate 20 (E 432)
+
+This medicine contains 0.02 mg of polysorbate 20 (E 432) in each pre-filled syringe, which is equivalent to 0.033 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use Ziextenzo
 
@@ -753,11 +759,11 @@ If you use more Ziextenzo than you should contact your doctor, pharmacist or nur
 
 ## If you forget to inject Ziextenzo
 
-If you are injecting yourself and have forgotten a dose of Ziextenzo, you should contact your doctor to discuss when you should inject the next dose.
+<div style=\"page-break-after: always\"></div>
+
+If you are injecting yourself and have forgotten your dose of Ziextenzo, you should contact your doctor to discuss when you should inject the next dose.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -767,7 +773,7 @@ Please tell your doctor immediately if you have any of the following or combinat
 
 - swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness. These symptoms generally develop in a rapid fashion.
 
-These could be symptoms of an uncommon (may affect up to 1 in 100 people) condition called 'Capillary Leak Syndrome' which causes blood to leak from the small blood vessels into your body and needs urgent medical attention.
+These could be symptoms of an uncommon (may affect up to 1 in 100 people) condition called \"Capillary Leak Syndrome\" which causes blood to leak from the small blood vessels into your body and needs urgent medical attention.
 
 Very common side effects (may affect more than 1 in 10 people):
 
@@ -791,22 +797,22 @@ Uncommon side effects (may affect up to 1 in 100 people):
 - cutaneous vasculitis (inflammation of the blood vessels in the skin).
 - damage to the tiny filters inside your kidneys (glomerulonephritis).
 - redness at the site of injection.
-- coughing up blood (haemoptysis)
+- coughing up blood (haemoptysis).
 - blood disorders (myelodysplastic syndrome [MDS] or acute myeloid leukaemia [AML]).
 
-## Rare side effects (may affect up to 1 in 1 000 people):
+Rare side effects (may affect up to 1 in 1 000 people):
 
 - inflammation of the aorta (the large blood vessel which transports blood from the heart to the body), see section 2.
 - bleeding from the lung (pulmonary haemorrhage).
-- Stevens-Johnson syndrome, which can appear as reddish target-like or circular patches often with central blisters on the trunk, skin peeling, ulcers of mouth, throat, nose, genitals and eyes and can be preceded by fever and flu-like symptoms. Stop using Ziextenzo if you develop these symptoms and contact your doctor or seek medical attention immediately. See also section 2.
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
+- Stevens-Johnson syndrome, which can appear as reddish target-like or circular patches often with central blisters on the trunk, skin peeling, ulcers of mouth, throat, nose, genitals and eyes and can
 
 <div style=\"page-break-after: always\"></div>
 
-listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+be preceded by fever and flu-like symptoms. Stop using Ziextenzo if you develop these symptoms and contact your doctor or seek medical attention immediately. See also section 2.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Ziextenzo
 
@@ -816,11 +822,13 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 Store in a refrigerator (2 °C - 8 °C).
 
-You may take Ziextenzo out of the refrigerator and keep it at room temperature (not above 35 °C) for no longer than 120 hours. Once a syringe has been removed from the refrigerator and has reached room temperature (not above 35 °C) it must either be used within 120 hours or disposed of.
+You may take Ziextenzo out of the refrigerator and keep it at temperatures up to a maximum of 30 °C for a single period of up to 30 days or at temperatures up to a maximum of 35 °C for a single period of up to 120 hours.
+
+Upon removal from refrigerated storage, Ziextenzo must not be returned to refrigerated storage and must be discarded if not used.
 
 Do not freeze. Ziextenzo may be used if it is accidentally frozen for a single period of less than 24 hours.
 
-Keep the container in the outer carton in order to protect from light.
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 Do not use this medicine if you notice it is cloudy or there are particles in it.
 
@@ -830,8 +838,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Ziextenzo contains
 
-- -The active substance is pegfilgrastim. Each pre-filled syringe contains 6 mg of pegfilgrastim in 0.6 mL of solution.
-- -The other ingredients are glacial acetic acid, sorbitol (E420), polysorbate 20, sodium hydroxide and water for injections. See section 2 'Ziextenzo contains sorbitol (E420) and sodium'.
+- The active substance is pegfilgrastim. Each pre-filled syringe contains 6 mg of pegfilgrastim in 0.6 mL of solution.
+- The other ingredients are glacial acetic acid, sorbitol (E 420), polysorbate 20 (E 432), sodium hydroxide and water for injections. See section 2.
 
 ## What Ziextenzo looks like and contents of the pack
 
@@ -841,9 +849,13 @@ Each pack contains 1 glass pre-filled syringe with a rubber plunger stopper (bro
 
 ## Marketing Authorisation Holder
 
-Sandoz GmbH Biochemiestr. 10 6250 Kundl
+Sandoz GmbH
 
-Austria
+Biochemiestr. 10
+
+6250 Kundl Austria
+
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -851,11 +863,11 @@ Sandoz GmbH Biochemiestr. 10 6336 Langkampfen
 
 Austria
 
-## Novartis Pharmaceutical Manufacturing GmbH
+Novartis Pharmaceutical Manufacturing GmbH Biochemiestrasse 10
 
-Biochemiestrasse 10 6336 Langkampfen Austria
+6336 Langkampfen
 
-<div style=\"page-break-after: always\"></div>
+Austria
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -867,21 +879,19 @@ Tél/Tel: +32 2 722 97 97
 
 ## България
 
-Сандоз България КЧТ
-
-Тел.: +359 2 970 47 47
+Сандоз България КЧТ Тел.: +359 2 970 47 47
 
 ## Česká republika
 
 Sandoz s.r.o.
 
-Tel: +420 225 775 111
+Tel: +420 234 142 222
 
 ## Danmark/Norge/Ísland/Sverige
 
 Sandoz A/S
 
-Tlf: +45 63 95 10 00
+Tlf./Tlf/Sími/Tel: +45 63 95 10 00
 
 ## Deutschland
 
@@ -913,27 +923,21 @@ Sandoz SAS
 
 Tél: +33 1 49 64 48 00
 
-## Hrvatska
+## Latvija
 
-Sandoz d.o.o.
+Sandoz d.d. Latvia filiāle
 
-Tel: +385 1 23 53 111
-
-## Ireland
-
-Rowex Ltd.
-
-Tel: + 353 27 50077
+Tel: +371 67 892 006
 
 ## Lietuva
 
-Sandoz Pharmaceuticals d.d filialas Tel: +370 5 2636 037
+Sandoz Pharmaceuticals d.d filialas
+
+Tel: +370 5 2636 037
 
 ## Luxembourg/Luxemburg
 
-Sandoz nv/sa
-
-Tél/Tel.: +32 2 722 97 97
+Sandoz nv/sa (Belgique/Belgien) Tél/Tel: +32 2 722 97 97
 
 ## Magyarország
 
@@ -943,7 +947,9 @@ Tel.: +36 1 430 2890
 
 ## Malta
 
-Sandoz Pharmaceuticals d.d. Tel: +35699644126
+Sandoz Pharmaceuticals d.d.
+
+Tel: +35699644126
 
 ## Nederland
 
@@ -969,7 +975,35 @@ Sandoz Farmacêutica Lda.
 
 Tel: +351 21 000 86 00
 
+<div style=\"page-break-after: always\"></div>
+
 ## România
+
+## Hrvatska
+
+Sandoz d.o.o.
+
+Tel: +385 1 23 53 111
+
+## Ireland
+
+Rowex Ltd.
+
+Tel: 1 800 83 20 83
+
+## Italia
+
+Sandoz S.p.A.
+
+Tel: +39 02 81280696
+
+## Κύπρος
+
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
+
+(Ελλάδα)
+
+Τηλ: +30 216 600 5000
 
 Sandoz Pharmaceuticals SRL
 
@@ -979,17 +1013,13 @@ Tel: +40 21 407 51 60
 
 Sandoz farmacevtska družba d.d.
 
-Tel: +386 1 580 29 02
+Tel: +386 1 580 21 11
 
 ## Slovenská republika
 
-Sandoz d.d. - organizačná zložka Tel: +421 2 48 20 0600
+Sandoz d.d. - organizačná zložka
 
-## Italia
-
-Sandoz S.p.A.
-
-Tel: +39 02 96541
+Tel: +421 2 48 200 600
 
 ## Suomi/Finland
 
@@ -997,37 +1027,17 @@ Sandoz A/S
 
 Puh/Tel: +358 10 6133 400
 
-## Κύπρος
-
-Sandoz Pharmaceuticals d.d.
-
-Τηλ: +357 22 69 0690
-
-United Kingdom (Northern Ireland)
-
-Sandoz GmbH
-
-Tel: +43 5338 2000
-
-## Latvija
-
-Sandoz d.d. Latvia filiāle
-
-Tel: +371 67 892 006
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in.
+## This leaflet was last revised in .
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
 
 <div style=\"page-break-after: always\"></div>
 
-## Instructions for use of Ziextenzo pre-filled syringe with needle guard
+## 7. Instructions for use of Ziextenzo pre-filled syringe with needle guard
 
 To help avoid possible infections and to ensure that you use the medicine correctly, it is important that you follow these instructions.
 
@@ -1042,8 +1052,8 @@ After the medicine has been injected, the needle guard will be activated to cove
 ## What you additionally need for your injection:
 
 - Alcohol swab.
-- Sharps disposal container.
 - Cotton ball or gauze.
+- Sharps disposal container.
 
 ## Important safety information
 
@@ -1066,7 +1076,7 @@ After the medicine has been injected, the needle guard will be activated to cove
 ## Storage of the Ziextenzo pre-filled syringe
 
 1. Store the blistered pre-filled syringe in its carton to protect it from light.
-2. Store in the refrigerator between 2 °C and 8 °C. Do not freeze .
+2. Store in the refrigerator between 2 °C and 8 °C. Do not freeze.
 3. Prior to use, remove the pre-filled syringe from the refrigerator and allow Ziextenzo to reach room temperature (up to a maximum of 35 °C) for approximately 15-30 minutes.
 4. Do not use the pre-filled syringe after the expiry date which is stated on the carton or syringe label. If it has expired, return the entire pack to the pharmacy.
 
@@ -1094,15 +1104,17 @@ If a caregiver is giving you the injection, the outer upper arms may also be use
 
 <!-- image -->
 
-Device ACTIVATED - DO NOT USE
-
-<!-- image -->
-
-In this configuration the needle guard is ACTIVATED - DO NOT USE the pre-filled syringe
-
 <div style=\"page-break-after: always\"></div>
 
+## Device ACTIVATED - DO NOT USE
+
 <!-- image -->
+
+Device READY TO BE USED
+
+<!-- image -->
+
+## In this configuration the needle guard is ACTIVATED - DO NOT USE the pre-filled syringe
 
 In this configuration the needle guard is NOT ACTIVATED and the pre-filled syringe is ready for use
 
@@ -1111,13 +1123,11 @@ In this configuration the needle guard is NOT ACTIVATED and the pre-filled syrin
 
 ## How to use the Ziextenzo pre-filled syringe
 
+1
+
 <!-- image -->
 
 2
-
-<!-- image -->
-
-3
 
 <!-- image -->
 
@@ -1125,9 +1135,11 @@ Carefully pull the needle cap straight off. Discard the needle cap. You may see 
 
 Gently pinch the skin at the injection site and insert the needle as shown. Push the needle all the way in to ensure that the medicine can be fully administered.
 
-Holding the pre-filled syringe as shown, slowly depress the plunger as far as it will go so that the plunger head is completely between the needle guard wings. Keep the plunger pressed fully down while you hold the syringe in place for 5 seconds.
-
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+4
 
 <!-- image -->
 
@@ -1135,7 +1147,13 @@ Holding the pre-filled syringe as shown, slowly depress the plunger as far as it
 
 <!-- image -->
 
+6
+
 <!-- image -->
+
+Holding the pre-filled syringe as shown, slowly depress the plunger as far as it will go so that the plunger head is completely between the needle guard wings.
+
+Keep the plunger pressed fully down while you hold the syringe in place for 5 seconds.
 
 Keep the plunger fully depressed while you carefully pull the needle straight out from the injection site and let it go off your skin.
 
@@ -1145,7 +1163,13 @@ There may be a small amount of blood at the injection site. You can press a cott
 
 ## Healthcare providers only
 
-The trade name of the administered product should be clearly recorded in the patient file. Remove and save the pre-filled syringe label. Turn the plunger to move the label into a position where you can remove the syringe label.
+The trade name of the administered product should be clearly recorded in the patient file. Remove and save the pre-filled syringe label.
+
+Turn the plunger to move the label into a position where you can remove the syringe label.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 ## Disposal instructions
 

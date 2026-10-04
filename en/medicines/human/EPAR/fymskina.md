@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-09-07 17:20:00
+document_datetime: 2026-10-02 14:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fymskina.html
 document_name: fymskina.html
 version: success
-processing_time: 0.3543235
-conversion_datetime: 2026-09-11 17:55:05.986779
+processing_time: 0.1502297
+conversion_datetime: 2026-10-04 16:22:11.409947
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.96.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.19.1
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Fymskina
 
 [RSS](/en/individual-human-medicine.xml/246168)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -120,7 +120,7 @@ English (EN) (149.53 KB - PDF)
 
 [View](/en/documents/overview/fymskina-epar-medicine-overview_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-475)
+[Other languages (20)](#file-language-dropdown-458)
 
 български (BG) (164.37 KB - PDF)
 
@@ -244,9 +244,9 @@ suomi (FI) (141.77 KB - PDF)
 
 Fymskina : EPAR - Risk management plan
 
-English (EN) (495.18 KB - PDF)
+English (EN) (541.34 KB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 17/07/2025
+**First published:** 07/10/2024 **Last updated:** 02/10/2026
 
 [View](/en/documents/rmp/fymskina-epar-risk-management-plan_en.pdf)
 
@@ -260,7 +260,7 @@ English (EN) (1023.66 KB - PDF)
 
 [View](/en/documents/product-information/fymskina-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-291)
+[Other languages (24)](#file-language-dropdown-482)
 
 български (BG) (1.52 MB - PDF)
 
@@ -433,7 +433,7 @@ English (EN) (24.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fymskina-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-132)
+[Other languages (24)](#file-language-dropdown-361)
 
 български (BG) (50.4 KB - PDF)
 
@@ -600,17 +600,25 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-Plaque psoriasis  
+Adult Crohn's Disease
+
+Fymskina is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
+
+Paediatric Crohn's Disease
+
+Fymskina is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
+
+Plaque psoriasis
+
 Fymskina is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A).
 
-Paediatric plaque psoriasis  
+Paediatric plaque psoriasis
+
 Fymskina is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, and who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies.
 
-Psoriatic arthritis (PsA)  
-Fymskina, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate.
+Psoriatic arthritis (PsA)
 
-Crohn's Disease  
-Fymskina is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+Fymskina, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate.
 
 ## Authorisation details
 
@@ -625,7 +633,7 @@ Fymskina is indicated for the treatment of adult patients with moderately to sev
 - **Marketing authorisation issued**
     - 25/09/2024
 - **Revision**
-    - 5
+    - 6
 
 ## Assessment history
 
@@ -645,9 +653,9 @@ English (EN) (141.28 KB - PDF)
 
 Fymskina : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (156.61 KB - PDF)
+English (EN) (166.01 KB - PDF)
 
-**First published:** 03/03/2025 **Last updated:** 24/02/2026
+**First published:** 03/03/2025 **Last updated:** 02/10/2026
 
 [View](/en/documents/procedural-steps-after/fymskina-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -691,7 +699,7 @@ English (EN) (602.91 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/fymskina-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-207)
+[Other languages (24)](#file-language-dropdown-275)
 
 български (BG) (739.06 KB - DOCX)
 
@@ -839,6 +847,6 @@ norsk (NO) (749.1 KB - DOCX)
 
 **This page was last updated on**
 
-07/09/2026
+02/10/2026
 
 ## Share this page

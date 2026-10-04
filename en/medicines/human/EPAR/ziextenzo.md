@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-03-27 15:40:00
+document_datetime: 2026-10-02 16:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ziextenzo.html
 document_name: ziextenzo.html
 version: success
-processing_time: 0.1069887
-conversion_datetime: 2026-03-29 12:30:25.025943
+processing_time: 0.1315085
+conversion_datetime: 2026-10-04 16:25:32.395148
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Ziextenzo
 
 [RSS](/en/individual-human-medicine.xml/67141)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Ziextenzo](#news-on)
 - [Related content](#related-content-881)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -59,19 +58,19 @@ Expand section
 
 Collapse section
 
-## How is Ziextenzo used?
+### How is Ziextenzo used?
 
 Ziextenzo can only be obtained with a prescription and treatment should be started and supervised by a doctor who has experience in the treatment of cancer or blood disorders. It is available as a prefilled syringe containing a solution for injection under the skin. Ziextenzo is given as a single dose of 6 mg injected under the skin at least 24 hours after the end of each cycle of chemotherapy (treatment with cancer medicines). Patients can inject themselves if they have been trained appropriately.
 
 For more information about using Ziextenzo, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Ziextenzo work?
+### How does Ziextenzo work?
 
 The active substance in Ziextenzo, pegfilgrastim, is a form of filgrastim, which is very similar to a human protein called granulocyte-colony-stimulating factor (G-CSF). Filgrastim works by encouraging the bone marrow to produce more white blood cells, increasing white blood cell counts and so treating neutropenia.
 
 Filgrastim has been available in other medicines in the European Union (EU) for a number of years. In Ziextenzo, filgrastim has been 'pegylated' (attached to a chemical called polyethylene glycol). This slows down the removal of filgrastim from the body, allowing the medicine to be given less often.
 
-## What benefits of Ziextenzo have been shown in studies?
+### What benefits of Ziextenzo have been shown in studies?
 
 Laboratory studies comparing Ziextenzo with Neulasta have shown that the active substance in Ziextenzo is highly similar to that in Neulasta in terms of structure, purity and biological activity. Studies have also shown that giving Ziextenzo produces similar levels of the active substance in the body to giving Neulasta.
 
@@ -79,23 +78,23 @@ In addition, two studies involving 624 patients who had chemotherapy before or a
 
 Because Ziextenzo is a biosimilar medicine, the studies on effectiveness and safety of pegfilgrastim carried out with Neulasta do not all need to be repeated for Ziextenzo.
 
-## What are the risks associated with Ziextenzo?
+### What are the risks associated with Ziextenzo?
 
 The safety of Ziextenzo has been evaluated, and on the basis of all the studies carried out the side effects of the medicine are considered to be comparable to those of the reference medicine Neulasta. The most common side effect with Ziextenzo (which may affect more than 1 in 10 people) is pain in the bones. Pain in muscles is also common. For the full list of side effects and restrictions with Ziextenzo, see the package leaflet.
 
-## Why is Ziextenzo authorised in the EU?
+### Why is Ziextenzo authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Ziextenzo has a highly similar structure, purity and biological activity to Neulasta and is distributed in the body in the same way. In addition, studies in breast cancer patients undergoing chemotherapy have shown that the effectiveness of Ziextenzo is equivalent to that of Neulasta in reducing the duration of neutropenia.
 
 All these data were considered sufficient to conclude that Ziextenzo will behave in the same way as Neulasta in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for Neulasta, the benefit of Ziextenzo outweighs the identified risk and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Ziextenzo?
+### What measures are being taken to ensure the safe and effective use of Ziextenzo?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ziextenzo have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Ziextenzo are continuously monitored. Side effects reported with Ziextenzo are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Ziextenzo
+### Other information about Ziextenzo
 
 Ziextenzo received a marketing authorisation valid throughout the EU on 22 November 2018.
 
@@ -109,7 +108,7 @@ English (EN) (76.43 KB - PDF)
 
 [View](/en/documents/overview/ziextenzo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-911)
+[Other languages (22)](#file-language-dropdown-19)
 
 български (BG) (103.04 KB - PDF)
 
@@ -141,7 +140,7 @@ Deutsch (DE) (76.84 KB - PDF)
 
 [View](/de/documents/overview/ziextenzo-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (73.18 KB - PDF)
+eesti (ET) (73.18 KB - PDF)
 
 **First published:** 16/01/2019
 
@@ -171,13 +170,13 @@ italiano (IT) (74.99 KB - PDF)
 
 [View](/it/documents/overview/ziextenzo-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (94.97 KB - PDF)
+latviešu (LV) (94.97 KB - PDF)
 
 **First published:** 16/01/2019
 
 [View](/lv/documents/overview/ziextenzo-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (98.29 KB - PDF)
+lietuvių (LT) (98.29 KB - PDF)
 
 **First published:** 16/01/2019
 
@@ -231,7 +230,7 @@ slovenščina (SL) (94.42 KB - PDF)
 
 [View](/sl/documents/overview/ziextenzo-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (74.81 KB - PDF)
+suomi (FI) (74.81 KB - PDF)
 
 **First published:** 16/01/2019
 
@@ -255,167 +254,168 @@ English (EN) (528.28 KB - PDF)
 
 Ziextenzo : EPAR - Product Information
 
-English (EN) (817.87 KB - PDF)
+English (EN) (3.14 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/en/documents/product-information/ziextenzo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-538)
+[Other languages (24)](#file-language-dropdown-279)
 
-български (BG) (824.56 KB - PDF)
+български (BG) (3.58 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/bg/documents/product-information/ziextenzo-epar-product-information_bg.pdf)
 
-español (ES) (776.47 KB - PDF)
+español (ES) (2.97 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/es/documents/product-information/ziextenzo-epar-product-information_es.pdf)
 
-čeština (CS) (801.5 KB - PDF)
+čeština (CS) (4.66 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/cs/documents/product-information/ziextenzo-epar-product-information_cs.pdf)
 
-dansk (DA) (776.42 KB - PDF)
+dansk (DA) (3.12 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/da/documents/product-information/ziextenzo-epar-product-information_da.pdf)
 
-Deutsch (DE) (763.26 KB - PDF)
+Deutsch (DE) (2.99 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/de/documents/product-information/ziextenzo-epar-product-information_de.pdf)
 
-eesti keel (ET) (775.95 KB - PDF)
+eesti (ET) (2.97 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/et/documents/product-information/ziextenzo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (833.35 KB - PDF)
+ελληνικά (EL) (3.7 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/el/documents/product-information/ziextenzo-epar-product-information_el.pdf)
 
-français (FR) (779.26 KB - PDF)
+français (FR) (3.04 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/fr/documents/product-information/ziextenzo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (774.05 KB - PDF)
+hrvatski (HR) (3.01 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/hr/documents/product-information/ziextenzo-epar-product-information_hr.pdf)
 
-íslenska (IS) (782.55 KB - PDF)
+italiano (IT) (2.98 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
-
-[View](/is/documents/product-information/ziextenzo-epar-product-information_is.pdf)
-
-italiano (IT) (780.95 KB - PDF)
-
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/it/documents/product-information/ziextenzo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (794.31 KB - PDF)
+latviešu (LV) (4.05 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/lv/documents/product-information/ziextenzo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (839.53 KB - PDF)
+lietuvių (LT) (3.06 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/lt/documents/product-information/ziextenzo-epar-product-information_lt.pdf)
 
-magyar (HU) (799.17 KB - PDF)
+magyar (HU) (3.53 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/hu/documents/product-information/ziextenzo-epar-product-information_hu.pdf)
 
-Malti (MT) (815.79 KB - PDF)
+Malti (MT) (4.71 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/mt/documents/product-information/ziextenzo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (770.8 KB - PDF)
+Nederlands (NL) (2.97 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/nl/documents/product-information/ziextenzo-epar-product-information_nl.pdf)
 
-norsk (NO) (626.03 KB - PDF)
+polski (PL) (3.11 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
-
-[View](/no/documents/product-information/ziextenzo-epar-product-information_no.pdf)
-
-polski (PL) (650.38 KB - PDF)
-
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/pl/documents/product-information/ziextenzo-epar-product-information_pl.pdf)
 
-português (PT) (779.25 KB - PDF)
+português (PT) (3.23 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/pt/documents/product-information/ziextenzo-epar-product-information_pt.pdf)
 
-română (RO) (794.58 KB - PDF)
+română (RO) (4.18 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/ro/documents/product-information/ziextenzo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (799.88 KB - PDF)
+slovenčina (SK) (3.2 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/sk/documents/product-information/ziextenzo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (787.85 KB - PDF)
+slovenščina (SL) (4.14 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/sl/documents/product-information/ziextenzo-epar-product-information_sl.pdf)
 
-Suomi (FI) (770.48 KB - PDF)
+suomi (FI) (2.97 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/fi/documents/product-information/ziextenzo-epar-product-information_fi.pdf)
 
-svenska (SV) (770.05 KB - PDF)
+svenska (SV) (3.49 MB - PDF)
 
-**First published:** 16/01/2019 **Last updated:** 04/12/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
 
 [View](/sv/documents/product-information/ziextenzo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0031
+Íslenska (IS) (2.98 MB - PDF)
 
-30/11/2023
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
+
+[View](/is/documents/product-information/ziextenzo-epar-product-information_is.pdf)
+
+norsk (NO) (3.46 MB - PDF)
+
+**First published:** 16/01/2019 **Last updated:** 02/10/2026
+
+[View](/no/documents/product-information/ziextenzo-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000378512
+
+01/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -433,7 +433,7 @@ English (EN) (19.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ziextenzo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-901)
+[Other languages (22)](#file-language-dropdown-490)
 
 български (BG) (28.87 KB - PDF)
 
@@ -465,7 +465,7 @@ Deutsch (DE) (18.35 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/ziextenzo-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (37.49 KB - PDF)
+eesti (ET) (37.49 KB - PDF)
 
 **First published:** 16/01/2019
 
@@ -489,25 +489,19 @@ hrvatski (HR) (18.36 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/ziextenzo-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (18.07 KB - PDF)
-
-**First published:** 16/01/2019
-
-[View](/is/documents/all-authorised-presentations/ziextenzo-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (20.21 KB - PDF)
 
 **First published:** 16/01/2019
 
 [View](/it/documents/all-authorised-presentations/ziextenzo-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (29.71 KB - PDF)
+latviešu (LV) (29.71 KB - PDF)
 
 **First published:** 16/01/2019
 
 [View](/lv/documents/all-authorised-presentations/ziextenzo-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (18.11 KB - PDF)
+lietuvių (LT) (18.11 KB - PDF)
 
 **First published:** 16/01/2019
 
@@ -530,12 +524,6 @@ Nederlands (NL) (19.86 KB - PDF)
 **First published:** 16/01/2019
 
 [View](/nl/documents/all-authorised-presentations/ziextenzo-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (18.39 KB - PDF)
-
-**First published:** 16/01/2019
-
-[View](/no/documents/all-authorised-presentations/ziextenzo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (28.47 KB - PDF)
 
@@ -561,29 +549,34 @@ slovenčina (SK) (28.23 KB - PDF)
 
 [View](/sk/documents/all-authorised-presentations/ziextenzo-epar-all-authorised-presentations_sk.pdf)
 
-Suomi (FI) (18.05 KB - PDF)
+suomi (FI) (18.05 KB - PDF)
 
 **First published:** 16/01/2019
 
 [View](/fi/documents/all-authorised-presentations/ziextenzo-epar-all-authorised-presentations_fi.pdf)
 
+Íslenska (IS) (18.07 KB - PDF)
+
+**First published:** 16/01/2019
+
+[View](/is/documents/all-authorised-presentations/ziextenzo-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (18.39 KB - PDF)
+
+**First published:** 16/01/2019
+
+[View](/no/documents/all-authorised-presentations/ziextenzo-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Ziextenzo
-
-Active substance
-
-pegfilgrastim
-
-International non-proprietary name (INN) or common name
-
-pegfilgrastim
-
-Anatomical therapeutic chemical (ATC) code
-
-L03AA13
+- **Name of medicine**
+    - Ziextenzo
+- **Active substance**
+    - pegfilgrastim
+- **International non-proprietary name (INN) or common name**
+    - pegfilgrastim
+- **Anatomical therapeutic chemical (ATC) code**
+    - L03AA13
 
 ### Pharmacotherapeutic group
 
@@ -595,31 +588,18 @@ Reduction in the duration of neutropenia and the incidence of febrile neutropeni
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004802
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Sandoz GmbH
-
-Biochemiestrasse 10
-
-Opinion adopted
-
-20/09/2018
-
-Marketing authorisation issued
-
-22/11/2018
-
-Revision
-
-10
+- **EMA product number**
+    - EMEA/H/C/004802
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Sandoz GmbH Biochemiestrasse 10  6250 Kundl  Austria
+- **Opinion adopted**
+    - 20/09/2018
+- **Marketing authorisation issued**
+    - 22/11/2018
+- **Revision**
+    - 11
 
 ## Assessment history
 
@@ -627,13 +607,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ziextenzo : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (147.19 KB - PDF)
+English (EN) (155.79 KB - PDF)
 
-**First published:** 27/03/2026
+**First published:** 27/03/2026 **Last updated:** 02/10/2026
 
 [View](/en/documents/procedural-steps-after/ziextenzo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -653,9 +633,9 @@ English (EN) (107.13 KB - PDF)
 
 **First published:** 04/12/2019
 
-[View](/en/documents/scientific-conclusion/ziextenzo-h-c-psusa-00002326-201901-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/ziextenzo-h-c-psusa-00002326-201901-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ziextenzo : EPAR - Public assessment report
 
@@ -687,13 +667,8 @@ English (EN) (69.13 KB - PDF)
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
 
-## Topics
-
-- [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-27/03/2026
+02/10/2026
 
 ## Share this page

@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-03-02 16:55:00
+document_datetime: 2026-10-02 15:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rasilez.html
 document_name: rasilez.html
 version: success
-processing_time: 0.1243728
-conversion_datetime: 2026-03-05 11:51:13.074229
+processing_time: 0.4057797
+conversion_datetime: 2026-10-04 16:23:59.100189
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Rasilez
 
 [RSS](/en/individual-human-medicine.xml/66680)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-aliskiren Medicine Human Authorised
+aliskiren
+
+Medicine Human Authorised
 
 Page contents
 
@@ -38,7 +40,6 @@ Page contents
 - [News on Rasilez](#news-on)
 - [More information on Rasilez](#more-information-on-rasilez-1394)
 - [More information on Rasilez](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -52,29 +53,29 @@ Expand section
 
 Collapse section
 
-## What is Rasilez?
+### What is Rasilez?
 
 Rasilez is a medicine that contains the active substance aliskiren. It is available as tablets (150 and 300 mg).
 
-## What is Rasilez used for?
+### What is Rasilez used for?
 
 Rasilez is used to treat essential hypertension (high blood pressure) in adults. 'Essential' means that the hypertension has no obvious cause.
 
 The medicine can only be obtained with a prescription.
 
-## How is Rasilez used?
+### How is Rasilez used?
 
 The recommended dose of Rasilez is 150 mg once a day. Rasilez may be taken alone or in combination with other medicines for hypertension, with the exception of 'angiotensin converting enzyme (ACE) inhibitors' or 'angiotensin receptor blockers' (ARBs) in patients with diabetes, or moderate or severe kidney impairment. Rasilez should not be taken together with fruit juice or drinks containing plant extracts such as herbal teas. The dose of Rasilez may be increased to 300 mg once a day in patients whose blood pressure is not adequately controlled.
 
-## How does Rasilez work?
+### How does Rasilez work?
 
 The active substance in Rasilez, aliskiren, is a renin inhibitor. It blocks the activity of a human enzyme called renin, which is involved in the production of a substance called angiotensin I in the body. Angiotensin I is converted into the hormone angiotensin II, which is a powerful vasoconstrictor (a substance that narrows blood vessels). By blocking the production of angiotensin I, levels of both angiotensin I and angiotensin II fall. This causes vasodilation (widening of the blood vessels), so that the blood pressure drops. This may reduce the risks associated with high blood pressure, such as having a stroke.
 
-## How has Rasilez been studied?
+### How has Rasilez been studied?
 
 Rasilez has been studied in 14 main studies involving over 10,000 patients with essential hypertension. Thirteen of the studies included patients with mild to moderate hypertension, and one included patients with severe hypertension. In five of the studies, the effects of Rasilez taken alone were compared with those of placebo (a dummy treatment). Rasilez, taken alone or in combination with other medicines, was also compared with other medicines for hypertension. Combination studies looked at Rasilez used with an ACE inhibitor (ramipril), an ARB (valsartan), a beta-blocker (atenolol), a calcium-channel blocker (amlodipine) and a diuretic (hydrochlorothiazide). The studies lasted between six and 52 weeks and the main measure of effectiveness was the change in blood pressure during either the resting phase of the heartbeat ('diastolic') or when the chambers of the heart were contracting ('systolic'). The blood pressure was measured in 'millimetres of mercury' (mmHg).
 
-## What benefit has Rasilez shown during the studies?
+### What benefit has Rasilez shown during the studies?
 
 Rasilez on its own was more effective than placebo and as effective as comparator treatments in reducing blood pressure. When the results of the five studies comparing Rasilez taken alone with placebo were looked at together, patients aged under 65 years had an average fall in diastolic blood pressure of 9.0 mmHg after eight weeks of taking 150 mg Rasilez, from an average of 99.4 mmHg at the start of the study. This was compared with a fall of 5.8 mmHg from 99.3 mmHg in the patients taking placebo.
 
@@ -82,21 +83,21 @@ Larger falls were seen in patients aged 65 years or over and those taking higher
 
 The studies with Rasilez taken in combination with other medicines showed additional decreases in blood pressure compared with the decreases produced by these medicines alone.
 
-## What is the risk associated with Rasilez?
+### What is the risk associated with Rasilez?
 
 The most common side effects with Rasilez (seen in between 1 and 10 patients in 100) are dizziness, diarrhoea, arthralgia (joint pain) and hyperkalaemia (high blood potassium levels). For the full list of all side effects reported with Rasilez, see the package leaflet.
 
 Rasilez must not be used in patients who have had angioedema (swelling under the skin) with aliskiren, hereditary angioedema or angioedema of no obvious cause, or in women who are more than three months pregnant. Its use during the first three months of pregnancy and in women planning to become pregnant is not recommended. Rasilez must also not be taken with ciclosporin, itraconazole or other medicines known as 'potent P-glycoprotein inhibitors' (such as quinidine). Rasilez in combination with an ACE inhibitor or an ARB must not be used in patients with diabetes, or moderate or severe kidney impairment. Rasilez is for use in adults only; it must not be used in children aged less than 2 years and is not recommended for older children. For the full list of restrictions, see the package leaflet.
 
-## Why has Rasilez been approved?
+### Why has Rasilez been approved?
 
 The CHMP noted that Rasilez is effective in reducing blood pressure when used alone or in combination. The CHMP therefore decided that the benefits of Rasilez are greater than its risks and recommended that it be given marketing authorisation. However, in February 2012, following the review of a study called ALTITUDE, the CHMP recommended that Rasilez should not be used together with an ACE inhibitor or ARB in patients with diabetes or with moderate or severe kidney impairment because of an increase in the risk of cardiovascular and kidney problems.
 
-## What measures are being taken to ensure the safe and effective use of Rasilez?
+### What measures are being taken to ensure the safe and effective use of Rasilez?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Rasilez have also been included in the summary of product characteristics and the package leaflet.
 
-## Other information about Rasilez
+### Other information about Rasilez
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Rasilez on 22 August 2007.
 
@@ -106,275 +107,141 @@ Rasilez : EPAR - Summary for the public
 
 English (EN) (78.75 KB - PDF)
 
-**First published:** 07/05/2009
-
-**Last updated:** 18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/en/documents/overview/rasilez-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-348)
+[Other languages (22)](#file-language-dropdown-203)
 
 български (BG) (106.39 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/bg/documents/overview/rasilez-epar-summary-public_bg.pdf)
 
 español (ES) (79.37 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/es/documents/overview/rasilez-epar-summary-public_es.pdf)
 
 čeština (CS) (107.18 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/cs/documents/overview/rasilez-epar-summary-public_cs.pdf)
 
 dansk (DA) (78.54 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/da/documents/overview/rasilez-epar-summary-public_da.pdf)
 
 Deutsch (DE) (80.49 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/de/documents/overview/rasilez-epar-summary-public_de.pdf)
 
-eesti keel (ET) (77.99 KB - PDF)
+eesti (ET) (77.99 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/et/documents/overview/rasilez-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (109.35 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/el/documents/overview/rasilez-epar-summary-public_el.pdf)
 
 français (FR) (80.05 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/fr/documents/overview/rasilez-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (99.19 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/hr/documents/overview/rasilez-epar-summary-public_hr.pdf)
 
 italiano (IT) (79.09 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/it/documents/overview/rasilez-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (102.95 KB - PDF)
+latviešu (LV) (102.95 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/lv/documents/overview/rasilez-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (104.66 KB - PDF)
+lietuvių (LT) (104.66 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/lt/documents/overview/rasilez-epar-summary-public_lt.pdf)
 
 magyar (HU) (100.04 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/hu/documents/overview/rasilez-epar-summary-public_hu.pdf)
 
 Malti (MT) (106.66 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/mt/documents/overview/rasilez-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (78.77 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/nl/documents/overview/rasilez-epar-summary-public_nl.pdf)
 
 polski (PL) (106.26 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/pl/documents/overview/rasilez-epar-summary-public_pl.pdf)
 
 português (PT) (79.74 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/pt/documents/overview/rasilez-epar-summary-public_pt.pdf)
 
 română (RO) (101.76 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/ro/documents/overview/rasilez-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (105.2 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/sk/documents/overview/rasilez-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (99.75 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/sl/documents/overview/rasilez-epar-summary-public_sl.pdf)
 
-Suomi (FI) (78.28 KB - PDF)
+suomi (FI) (78.28 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/fi/documents/overview/rasilez-epar-summary-public_fi.pdf)
 
 svenska (SV) (78.88 KB - PDF)
 
-**First published:**
-
-07/05/2009
-
-**Last updated:**
-
-18/08/2016
+**First published:** 07/05/2009 **Last updated:** 18/08/2016
 
 [View](/sv/documents/overview/rasilez-epar-summary-public_sv.pdf)
 
@@ -382,311 +249,168 @@ svenska (SV) (78.88 KB - PDF)
 
 Rasilez : EPAR - Product Information
 
-English (EN) (445.6 KB - PDF)
+English (EN) (446.13 KB - PDF)
 
-**First published:** 08/06/2009
-
-**Last updated:** 02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/en/documents/product-information/rasilez-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-90)
+[Other languages (24)](#file-language-dropdown-224)
 
-български (BG) (589.99 KB - PDF)
+български (BG) (593.2 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/bg/documents/product-information/rasilez-epar-product-information_bg.pdf)
 
-español (ES) (431.09 KB - PDF)
+español (ES) (432.85 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/es/documents/product-information/rasilez-epar-product-information_es.pdf)
 
-čeština (CS) (491.82 KB - PDF)
+čeština (CS) (491.12 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/cs/documents/product-information/rasilez-epar-product-information_cs.pdf)
 
-dansk (DA) (432.16 KB - PDF)
+dansk (DA) (431.33 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/da/documents/product-information/rasilez-epar-product-information_da.pdf)
 
-Deutsch (DE) (443.1 KB - PDF)
+Deutsch (DE) (447.02 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/de/documents/product-information/rasilez-epar-product-information_de.pdf)
 
-eesti keel (ET) (463.49 KB - PDF)
+eesti (ET) (437.32 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/et/documents/product-information/rasilez-epar-product-information_et.pdf)
 
-ελληνικά (EL) (611.44 KB - PDF)
+ελληνικά (EL) (535.88 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/el/documents/product-information/rasilez-epar-product-information_el.pdf)
 
-français (FR) (512.34 KB - PDF)
+français (FR) (512.58 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/fr/documents/product-information/rasilez-epar-product-information_fr.pdf)
 
-hrvatski (HR) (492.66 KB - PDF)
+hrvatski (HR) (471.07 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/hr/documents/product-information/rasilez-epar-product-information_hr.pdf)
 
-íslenska (IS) (412.2 KB - PDF)
+italiano (IT) (443.84 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
-
-[View](/is/documents/product-information/rasilez-epar-product-information_is.pdf)
-
-italiano (IT) (470.02 KB - PDF)
-
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/it/documents/product-information/rasilez-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (482.14 KB - PDF)
+latviešu (LV) (483.17 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/lv/documents/product-information/rasilez-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (561.14 KB - PDF)
+lietuvių (LT) (497.52 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/lt/documents/product-information/rasilez-epar-product-information_lt.pdf)
 
-magyar (HU) (531.7 KB - PDF)
+magyar (HU) (536.59 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/hu/documents/product-information/rasilez-epar-product-information_hu.pdf)
 
-Malti (MT) (573.78 KB - PDF)
+Malti (MT) (571.04 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/mt/documents/product-information/rasilez-epar-product-information_mt.pdf)
 
-Nederlands (NL) (431.2 KB - PDF)
+Nederlands (NL) (434.09 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/nl/documents/product-information/rasilez-epar-product-information_nl.pdf)
 
-norsk (NO) (424.96 KB - PDF)
+polski (PL) (547.53 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
-
-[View](/no/documents/product-information/rasilez-epar-product-information_no.pdf)
-
-polski (PL) (544.35 KB - PDF)
-
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/pl/documents/product-information/rasilez-epar-product-information_pl.pdf)
 
-português (PT) (495.9 KB - PDF)
+português (PT) (479 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/pt/documents/product-information/rasilez-epar-product-information_pt.pdf)
 
-română (RO) (520.7 KB - PDF)
+română (RO) (507.97 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/ro/documents/product-information/rasilez-epar-product-information_ro.pdf)
 
-slovenčina (SK) (520.56 KB - PDF)
+slovenčina (SK) (517.17 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/sk/documents/product-information/rasilez-epar-product-information_sk.pdf)
 
-slovenščina (SL) (504.68 KB - PDF)
+slovenščina (SL) (507.55 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/sl/documents/product-information/rasilez-epar-product-information_sl.pdf)
 
-Suomi (FI) (471.28 KB - PDF)
+suomi (FI) (471.62 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/fi/documents/product-information/rasilez-epar-product-information_fi.pdf)
 
-svenska (SV) (454.31 KB - PDF)
+svenska (SV) (412.45 KB - PDF)
 
-**First published:**
-
-08/06/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
 
 [View](/sv/documents/product-information/rasilez-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000322560 06/02/2026
+Íslenska (IS) (415.07 KB - PDF)
+
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
+
+[View](/is/documents/product-information/rasilez-epar-product-information_is.pdf)
+
+norsk (NO) (427.04 KB - PDF)
+
+**First published:** 08/06/2009 **Last updated:** 02/10/2026
+
+[View](/no/documents/product-information/rasilez-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000377553
+
+30/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -700,305 +424,168 @@ Rasilez : EPAR - All Authorised presentations
 
 English (EN) (53.63 KB - PDF)
 
-**First published:** 03/09/2007
-
-**Last updated:** 09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/en/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-69)
+[Other languages (24)](#file-language-dropdown-322)
 
 български (BG) (62.3 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/bg/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (52.47 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/es/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (56.96 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/cs/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (53.49 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/da/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (53.6 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/de/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (52.16 KB - PDF)
+eesti (ET) (52.16 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/et/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (59.05 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/el/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (53.32 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/fr/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (54.6 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/hr/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (54.82 KB - PDF)
-
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
-
-[View](/is/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (53.27 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/it/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (55.99 KB - PDF)
+latviešu (LV) (55.99 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/lv/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (56.12 KB - PDF)
+lietuvių (LT) (56.12 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/lt/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (58.5 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/hu/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (56.97 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/mt/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (51.8 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/nl/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (54.59 KB - PDF)
-
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
-
-[View](/no/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (55.12 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/pl/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (53.35 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/pt/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (56.39 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/ro/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (57.82 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/sk/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (54.25 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/sl/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (51.78 KB - PDF)
+suomi (FI) (51.78 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/fi/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (53.86 KB - PDF)
 
-**First published:**
-
-03/09/2007
-
-**Last updated:**
-
-09/02/2022
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
 
 [View](/sv/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (54.82 KB - PDF)
+
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
+
+[View](/is/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (54.59 KB - PDF)
+
+**First published:** 03/09/2007 **Last updated:** 09/02/2022
+
+[View](/no/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Rasilez Active substance aliskiren International non-proprietary name (INN) or common name aliskiren Therapeutic area (MeSH) Hypertension Anatomical therapeutic chemical (ATC) code C09XA02
+- **Name of medicine**
+    - Rasilez
+- **Active substance**
+    - aliskiren
+- **International non-proprietary name (INN) or common name**
+    - aliskiren
+- **Therapeutic area (MeSH)**
+    - Hypertension
+- **Anatomical therapeutic chemical (ATC) code**
+    - C09XA02
 
 ### Pharmacotherapeutic group
 
@@ -1010,13 +597,14 @@ Treatment of essential hypertension.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000780 Marketing authorisation holder
-
-Lxo Ireland Designated Activity Company
-
-D'Olier Chambers 16a D'Olier Street Dublin 2 D02 H589 Ireland
-
-Marketing authorisation issued 22/08/2007 Revision 28
+- **EMA product number**
+    - EMEA/H/C/000780
+- **Marketing authorisation holder**
+    - Lxo Ireland Designated Activity Company D'Olier Chambers  16a D'Olier Street  Dublin 2  D02 H589  Ireland
+- **Marketing authorisation issued**
+    - 22/08/2007
+- **Revision**
+    - 29
 
 ## Assessment history
 
@@ -1024,13 +612,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Rasilez : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (127.36 KB - PDF)
+English (EN) (144.79 KB - PDF)
 
-**First published:** 02/03/2026
+**First published:** 02/03/2026 **Last updated:** 02/10/2026
 
 [View](/en/documents/procedural-steps-after/rasilez-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1038,23 +626,17 @@ Rasilez : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (5.82 MB - PDF)
 
-**First published:** 18/06/2009
-
-**Last updated:** 02/03/2026
+**First published:** 18/06/2009 **Last updated:** 02/03/2026
 
 [View](/en/documents/procedural-steps-after/rasilez-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Rasilez-H-C-780-P46-0039 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/262230/2016
+Adopted Reference Number: EMA/262230/2016
 
 English (EN) (1.6 MB - PDF)
 
-**First published:** 18/04/2016
-
-**Last updated:** 18/04/2016
+**First published:** 18/04/2016 **Last updated:** 18/04/2016
 
 [View](/en/documents/variation-report/rasilez-h-c-780-p46-0039-epar-assessment-report_en.pdf)
 
@@ -1064,23 +646,17 @@ Reference Number: EMA/CHMP/333074/2015
 
 English (EN) (72.74 KB - PDF)
 
-**First published:** 07/07/2015
+**First published:** 07/07/2015 **Last updated:** 07/07/2015
 
-**Last updated:** 07/07/2015
-
-[View](/en/documents/scientific-conclusion/rasilez-h-c-780-psusa-00000089-201409-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/rasilez-h-c-780-psusa-00000089-201409-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Rasilez-H-C-780-A31-85 : EPAR - Assessment Report - Article 31
 
-Adopted
-
-Reference Number: EMA/PRAC/294920/2014
+Adopted Reference Number: EMA/PRAC/294920/2014
 
 English (EN) (301.42 KB - PDF)
 
-**First published:** 02/10/2014
-
-**Last updated:** 02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/en/documents/variation-report/rasilez-h-c-780-a31-85-epar-assessment-report-article-31_en.pdf)
 
@@ -1088,275 +664,141 @@ Rasilez-H-C-780-A31-85 : EPAR - Scientific conclusions, grounds for variation to
 
 English (EN) (48.81 KB - PDF)
 
-**First published:** 02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
-**Last updated:** 02/10/2014
+[View](/en/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-detailed-explanation-scientific-grounds-differences-prac-recommendati_en.pdf)
 
-[View](/en/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-704)
+[Other languages (22)](#file-language-dropdown-325)
 
 български (BG) (87.49 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/bg/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_bg.pdf)
 
 español (ES) (50.51 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/es/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_es.pdf)
 
 čeština (CS) (82.81 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/cs/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_cs.pdf)
 
 dansk (DA) (49.01 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/da/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_da.pdf)
 
 Deutsch (DE) (53.54 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/de/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_de.pdf)
 
-eesti keel (ET) (50.6 KB - PDF)
+eesti (ET) (50.6 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/et/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_et.pdf)
 
 ελληνικά (EL) (89.54 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/el/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_el.pdf)
 
 français (FR) (51.91 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/fr/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_fr.pdf)
 
 hrvatski (HR) (80.12 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/hr/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_hr.pdf)
 
 italiano (IT) (51.13 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/it/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_it.pdf)
 
-latviešu valoda (LV) (81.63 KB - PDF)
+latviešu (LV) (81.63 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/lv/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_lv.pdf)
 
-lietuvių kalba (LT) (82.54 KB - PDF)
+lietuvių (LT) (82.54 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/lt/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_lt.pdf)
 
 magyar (HU) (68.7 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/hu/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_hu.pdf)
 
 Malti (MT) (84.23 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/mt/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_mt.pdf)
 
 Nederlands (NL) (49.82 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/nl/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_nl.pdf)
 
 polski (PL) (83.62 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/pl/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_pl.pdf)
 
 português (PT) (49.74 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/pt/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_pt.pdf)
 
 română (RO) (88.19 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/ro/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_ro.pdf)
 
 slovenčina (SK) (81.5 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/sk/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_sk.pdf)
 
 slovenščina (SL) (79.79 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/sl/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_sl.pdf)
 
-Suomi (FI) (49.15 KB - PDF)
+suomi (FI) (49.15 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/fi/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_fi.pdf)
 
 svenska (SV) (50.18 KB - PDF)
 
-**First published:**
-
-02/10/2014
-
-**Last updated:**
-
-02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/sv/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_sv.pdf)
 
@@ -1366,11 +808,9 @@ Reference Number: EMA/554060/2014
 
 English (EN) (68.46 KB - PDF)
 
-**First published:** 02/10/2014
+**First published:** 02/10/2014 **Last updated:** 02/10/2014
 
-**Last updated:** 02/10/2014
-
-[View](/en/documents/scientific-conclusion/rasilez-h-c-780-psuv-90-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/rasilez-h-c-780-psuv-90-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Rasilez-H-C-780-WS-37 : EPAR - Assessment Report - Variation
 
@@ -1378,9 +818,7 @@ Reference Number: EMA/CHMP/479605/2012
 
 English (EN) (2.82 MB - PDF)
 
-**First published:** 21/09/2012
-
-**Last updated:** 21/09/2012
+**First published:** 21/09/2012 **Last updated:** 21/09/2012
 
 [View](/en/documents/variation-report/rasilez-h-c-780-ws-37-epar-assessment-report-variation_en.pdf)
 
@@ -1390,35 +828,27 @@ Reference Number: EMA/139311/2012
 
 English (EN) (269.03 KB - PDF)
 
-**First published:** 21/09/2012
-
-**Last updated:** 21/09/2012
+**First published:** 21/09/2012 **Last updated:** 21/09/2012
 
 [View](/en/documents/variation-report/rasilez-h-c-780-a20-63-epar-assessment-report-variation_en.pdf)
 
 Rasilez-H-C-780-WS-69 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/74385/2012
+Adopted Reference Number: EMA/74385/2012
 
 English (EN) (88.46 KB - PDF)
 
-**First published:** 01/03/2012
-
-**Last updated:** 01/03/2012
+**First published:** 01/03/2012 **Last updated:** 01/03/2012
 
 [View](/en/documents/variation-report/rasilez-h-c-780-ws-69-epar-assessment-report-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Rasilez : EPAR - Scientific Discussion
 
 English (EN) (414.81 KB - PDF)
 
-**First published:** 15/10/2008
-
-**Last updated:** 15/10/2008
+**First published:** 15/10/2008 **Last updated:** 15/10/2008
 
 [View](/en/documents/scientific-discussion/rasilez-epar-scientific-discussion_en.pdf)
 
@@ -1426,17 +856,19 @@ Rasilez : EPAR - Procedural steps taken before authorisation
 
 English (EN) (26.26 KB - PDF)
 
-**First published:** 03/09/2007
-
-**Last updated:** 03/09/2007
+**First published:** 03/09/2007 **Last updated:** 03/09/2007
 
 [View](/en/documents/procedural-steps/rasilez-epar-procedural-steps-taken-authorisation_en.pdf)
 
 ## News on Rasilez
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 13-16 May 2013](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-13-16-may-2013) 17/05/2013
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 13-16 May 2013](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-13-16-may-2013)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 February 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-february-2012) 17/02/2012
+17/05/2013
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 February 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-february-2012)
+
+17/02/2012
 
 ## More information on Rasilez
 
@@ -1446,9 +878,7 @@ Reference Number: EMA/113677/2012
 
 English (EN) (60.98 KB - PDF)
 
-**First published:** 17/02/2012
-
-**Last updated:** 17/02/2012
+**First published:** 17/02/2012 **Last updated:** 17/02/2012
 
 [View](/en/documents/medicine-qa/questions-and-answers-review-aliskiren-containing-medicines_en.pdf)
 
@@ -1456,9 +886,7 @@ Rasilez - Product information as approved by the CHMP on 16 February 2012, pendi
 
 English (EN) (434.19 KB - PDF)
 
-**First published:** 17/02/2012
-
-**Last updated:** 17/02/2012
+**First published:** 17/02/2012 **Last updated:** 17/02/2012
 
 [View](/en/documents/other/rasilez-product-information-approved-chmp-16-february-2012-pending-endorsement-european-commission_en.pdf)
 
@@ -1468,9 +896,7 @@ Reference Number: EMA/990270/2011
 
 English (EN) (65.3 KB - PDF)
 
-**First published:** 22/12/2011
-
-**Last updated:** 22/12/2011
+**First published:** 22/12/2011 **Last updated:** 22/12/2011
 
 [View](/en/documents/medicine-qa/questions-and-answers-ongoing-review-aliskiren-containing-medicines_en.pdf)
 
@@ -1480,12 +906,8 @@ English (EN) (65.3 KB - PDF)
 - [Renin-angiotensin-system (RAS)-acting agents - referral](/en/medicines/human/referrals/renin-angiotensin-system-ras-acting-agents)
 - [Assessing the Incidence of Ischemic Colitis in Treated Adult Hypertensive Patients in the United States - a Descriptive, Retrospective Cohort Study with Secondary Use of Data from a US Health Claims Database (NA) - post-authorisation study](https://catalogues.ema.europa.eu/study/17559)
 
-## Topics
+**This page was last updated on**
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 02/03/2026
+02/10/2026
 
 ## Share this page
-
-[Back to top](#main-content)

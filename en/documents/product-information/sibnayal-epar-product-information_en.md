@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-19 10:33:31
+document_datetime: 2026-10-01 16:44:07
 document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sibnayal-epar-product-information_en.pdf
 document_name: sibnayal-epar-product-information_en.pdf
 version: success
-processing_time: 7.4426062
-conversion_datetime: 2026-03-01 20:19:57.056844
+processing_time: 37.5109353
+conversion_datetime: 2026-10-04 15:46:50.629712
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,16 +52,16 @@ Sibnayal is indicated for the treatment of distal renal tubular acidosis (dRTA) 
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 Dosing is based on age and weight.
 
 When initiating alkalising therapy, the target starting daily dose indicated below for each age group should be used and incrementally titrated to obtain the optimal dose that provides adequate metabolic acidosis control based on plasma bicarbonate levels.
 
-- -Adults: initiation at 1 mEq/kg/day, with a maximal incremental increase/decrease of 0.5 mEq/kg/day to optimal dose
-- -Adolescents from 12 years: initiation at 1 mEq/kg/day, with a maximal incremental increase/decrease of 1.0 mEq/kg/day to optimal dose
-- -Children from 4 to 11 year inclusive: initiation at 2 mEq/kg/day, with a maximal incremental increase/decrease of 1.5 mEq/kg/day to optimal dose
-- -Children from 1 to 3 years inclusive: initiation at 4 mEq/kg/day, with a maximal incremental increase/decrease of 1.5 mEq/kg/day to optimal dose
+- Adults: initiation at 1 mEq/kg/day, with a maximal incremental increase/decrease of 0.5 mEq/kg/day to optimal dose
+- Adolescents from 12 years: initiation at 1 mEq/kg/day, with a maximal incremental increase/decrease of 1.0 mEq/kg/day to optimal dose
+- Children from 4 to 11 year inclusive: initiation at 2 mEq/kg/day, with a maximal incremental increase/decrease of 1.5 mEq/kg/day to optimal dose
+- Children from 1 to 3 years inclusive: initiation at 4 mEq/kg/day, with a maximal incremental increase/decrease of 1.5 mEq/kg/day to optimal dose
 
 <div style=\"page-break-after: always\"></div>
 
@@ -85,9 +85,7 @@ No dose adjustment is required.
 
 ## Renal impairment
 
-Sibnayal should only be used in individuals with glomerular filtration rate (GFR)
-
-&gt; 44 mL/min/1.73 m². For individuals with GFR between 45 and 59 mL/min/1.73 m², the medicinal product should only be used if the potential benefits are considered to outweigh the potential risks (see Table 1).
+Sibnayal should only be used in individuals with glomerular filtration rate (GFR) &gt; 44 mL/min/1.73 m². For individuals with GFR between 45 and 59 mL/min/1.73 m², the medicinal product should only be used if the potential benefits are considered to outweigh the potential risks (see Table 1).
 
 Table 1: Dosing recommendations in individuals with renal impairment
 
@@ -111,11 +109,13 @@ For oral use.
 
 The total daily dose is administered twice daily, typically twelve hours apart.
 
-The medicinal product must be taken orally, swallowed with a large glass of water. The full dose of granules per intake can be swallowed in several smaller portions, if necessary, but the content of each sachet must be entirely taken.
+The medicinal product must be taken orally, swallowed with a large glass of water.
+
+The full dose of granules per intake can be swallowed in several smaller portions, if necessary, but the content of each sachet must be entirely taken.
 
 <div style=\"page-break-after: always\"></div>
 
-## Doses should be taken preferably during meals.
+Doses should be taken preferably during meals.
 
 For patients who are unable to swallow granules as described above, the granules may be mixed (without crushing) with small amounts of soft food (e.g., fruit puree, yoghurt). The medicinal product soft food mixture must be used immediately and cannot be stored. The mixture should be swallowed without chewing. Care should be taken to ensure that the medicinal product is not retained in the mouth.
 
@@ -125,9 +125,9 @@ Sibnayal granules are not suitable for administration via feeding tubes due to h
 
 ## 4.3 Contraindications
 
-- -Hypersensitivity to the active substances or to any of the excipients listed in section 6.1.
-- -Renal impairment with GFR ≤ 44 mL/min/1.73 m².
-- -Hyperkalaemia.
+- Hypersensitivity to the active substances or to any of the excipients listed in section 6.1.
+- Renal impairment with GFR ≤ 44 mL/min/1.73 m².
+- Hyperkalaemia.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -185,7 +185,7 @@ Although during pregnancy and more so during labour, there is more risk associat
 
 ## Breast-feeding
 
-Potassium/metabolites  are excreted in human milk, but at therapeutic doses of Sibnayal no effects on the breastfed newborns/infants are anticipated. Sibnayal can be used during breast-feeding.
+Potassium/metabolites are excreted in human milk, but at therapeutic doses of Sibnayal no effects on the breastfed newborns/infants are anticipated. Sibnayal can be used during breast-feeding.
 
 ## Fertility
 
@@ -209,7 +209,7 @@ Nausea (2 %, common) can be experienced at initiation of therapy.
 
 The list of adverse reactions is based on the experience in clinical trials.
 
-The frequency of adverse reactions is defined using the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1 000 to &lt;1/100); rare ( ≥ 1/10 000 to &lt;1/1 000) and very rare (&lt;1/10 000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness:
+The frequency of adverse reactions is defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000) and very rare (&lt;1/10 000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness:
 
 | System Organ Class         | Frequency   | Adverse reaction                                                                                                  |
 |----------------------------|-------------|-------------------------------------------------------------------------------------------------------------------|
@@ -236,7 +236,7 @@ Reports of a laxative effect after excessive oral doses of individual alkalising
 
 <div style=\"page-break-after: always\"></div>
 
-In case of severe hyperkalaemia, patients should be monitored (mostly plasma potassium level and ECG) and the appropriate symptomatic and supportive therapy instituted in specialised care units, where emergency treatments leading to rapid elimination of potassium such as ion exchange resin, combination of insulindextrose or β2 mimetics (salbutamol) or haemodialysis will be implemented.
+In case of severe hyperkalaemia, patients should be monitored (mostly plasma potassium level and ECG) and the appropriate symptomatic and supportive therapy instituted in specialised care units, where emergency treatments leading to rapid elimination of potassium such as ion exchange resin, combination of insulin-dextrose or β2 mimetics (salbutamol) or haemodialysis will be implemented.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -310,7 +310,7 @@ Pharmacokinetics of citrate, bicarbonate and/or potassium can be modified in pat
 
 ## Interaction with alcohol
 
-When potassium citrate/ potassium hydrogen carbonate is mixed with alcohol in vitro , the rate of dissolution of the granules increases and can occur rapidly leading to a loss of the prolonged effect (see section 4.2).
+When potassium citrate/ potassium hydrogen carbonate is mixed with alcohol in vitro, the rate of dissolution of the granules increases and can occur rapidly leading to a loss of the prolonged effect (see section 4.2).
 
 ## 5.3 Preclinical safety data
 
@@ -320,7 +320,7 @@ Non-clinical data reveals no special hazard for humans based on conventional stu
 
 ## 6.1 List of excipients
 
-## Core granules
+Core granules
 
 Hypromellose (E464) Microcrystalline cellulose (E460(i)) Glycerol dibehenate Magnesium stearate (E470b) Silica colloidal anhydrous Magnesium oxide, heavy (E530)
 
@@ -364,7 +364,7 @@ Multipacks containing 300 (5 packs of 60) sachets
 
 Multipacks containing 360 (6 packs of 60) sachets
 
-## Sibnayal 24 mEq prolonged-release granules
+Sibnayal 24 mEq prolonged-release granules
 
 Packs of 60 sachets.
 
@@ -388,11 +388,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-ADVICENNE
-
 262 rue du Faubourg Saint Honoré
 
-75008 Paris
+ADVICENNE 75008 Paris
 
 France
 
@@ -410,7 +408,7 @@ EU/1/20/1517/007-012
 
 Date of first authorisation: 30 April 2021
 
-Date of latest renewal:
+Date of latest renewal: 08 January 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -510,7 +508,9 @@ EXP
 
 Do not store above 25 °C.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -531,9 +531,7 @@ EU/1/20/1517/001 60 sachets
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Sibnayal 8 mEq
@@ -544,11 +542,11 @@ Sibnayal 8 mEq
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -608,11 +606,9 @@ Do not store above 25 °C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-ADVICENNE
-
 262 rue du Faubourg Saint Honoré
 
-75008 Paris
+ADVICENNE 75008 Paris
 
 France
 
@@ -634,7 +630,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -646,9 +642,7 @@ Sibnayal 8 mEq
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -670,7 +664,7 @@ Each sachet contains 282 mg of potassium citrate and 527 mg of potassium hydroge
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Prolonged-release granules.
+## Prolonged-release granules.
 
 60 sachets. Component of a multipack, can't be sold separately.
 
@@ -696,29 +690,21 @@ EXP
 
 Do not store above 25 °C.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-## ADVICENNE
-
 262 rue du Faubourg Saint Honoré
 
-75008 Paris
+ADVICENNE 75008 Paris
 
 France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1517/002 120 sachets (2 packs of 60)
-
-EU/1/20/1517/003 180 sachets (3 packs of 60)
-
-EU/1/20/1517/004 240 sachets (4 packs of 60)
-
-EU/1/20/1517/005 300 sachets (5 packs of 60)
+EU/1/20/1517/002 120 sachets (2 packs of 60) EU/1/20/1517/003 180 sachets (3 packs of 60) EU/1/20/1517/004 240 sachets (4 packs of 60) EU/1/20/1517/005 300 sachets (5 packs of 60)
 
 EU/1/20/1517/006 360 sachets (6 packs of 60)
 
@@ -728,15 +714,16 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Sibnayal 8 mEq
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -760,7 +747,8 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -808,41 +796,47 @@ Do not store above 25 °C.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+<div style=\"page-break-after: always\"></div>
 
-ADVICENNE
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-262 rue du Faubourg Saint Honoré 75008 Paris France
+ADVICENNE 262 rue du Faubourg Saint Honoré 75008 Paris
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+France
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/20/1517/007 60 sachets
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Sibnayal 24 mEq
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-- 2D barcode carrying the unique identifier included.
+2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -964,7 +958,7 @@ Each sachet contains 847 mg of potassium citrate and 1 582 mg of potassium hydro
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Prolonged-release granules.
+## Prolonged-release granules.
 
 60 sachets. Component of a multipack, can't be sold separately.
 
@@ -990,29 +984,21 @@ EXP
 
 Do not store above 25 °C.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-## ADVICENNE
-
 262 rue du Faubourg Saint Honoré
 
-75008 Paris
+ADVICENNE 75008 Paris
 
 France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1517/008 120 sachets (2 packs of 60)
-
-EU/1/20/1517/009 180 sachets (3 packs of 60)
-
-EU/1/20/1517/010 240 sachets (4 packs of 60)
-
-EU/1/20/1517/011 300 sachets (5 packs of 60)
+EU/1/20/1517/008 120 sachets (2 packs of 60) EU/1/20/1517/009 180 sachets (3 packs of 60) EU/1/20/1517/010 240 sachets (4 packs of 60) EU/1/20/1517/011 300 sachets (5 packs of 60)
 
 EU/1/20/1517/012 360 sachets (6 packs of 60)
 
@@ -1022,19 +1008,22 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Sibnayal 24 mEq
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SACHET
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## SACHET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1070,10 +1059,10 @@ potassium citrate/potassium hydrogen carbonate
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1096,17 +1085,17 @@ It will help reduce the effect of dRTA on your everyday life. Sibnayal is used i
 
 ## Do not take Sibnayal
 
-- -if you are allergic to potassium citrate or potassium bicarbonate or any of the other ingredients of this medicine (listed in section 6),
-- -if you have a severe kidney disease or kidney failure,
-- -if you have a high level of potassium in your blood (hyperkalaemia).
+- if you are allergic to potassium citrate or potassium bicarbonate or any of the other ingredients of this medicine (listed in section 6),
+- if you have a severe kidney disease or kidney failure,
+- if you have a high level of potassium in your blood (hyperkalaemia).
 
 ## Warnings and precautions
 
 Talk to your doctor before taking Sibnayal :
 
-- -if you have a disease or you take a medicine that can increase your blood potassium (see below 'Other medicines and Sibnayal'),
-- -if you frequently have gastro-intestinal symptoms such as bloating, diarrhoea, nausea, vomiting,
-- -if you have chronic kidney disease.
+- if you have a disease or you take a medicine that can increase your blood potassium (see below \"Other medicines and Sibnayal\"),
+- if you frequently have gastro-intestinal symptoms such as bloating, diarrhoea, nausea, vomiting,
+- if you have chronic kidney disease.
 
 Sibnayal prolonged-release granules are designed to release the active substances slowly after taking the granules. You may see remains of the granules in your stools. This is normal and does not reduce the effectiveness of the medicine.
 
@@ -1122,27 +1111,27 @@ Do not give this medicine to children below 1 year of age because of the risk of
 
 Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines. Some medicines may affect how Sibnayal works or make side effects more likely. These include:
 
-- -any medicine that increases the level of potassium in your blood such as:
-- -angiotensin-converting enzyme (ACE) inhibitors (used to treat high blood pressure, heart disease and kidney disease in patients suffering from type 1 diabetes),
-- -potassium-sparing diuretics (used to treat high blood pressure, fluid build-up in tissue (oedema) and heart conditions),
-- -potassium supplements (used to prevent or treat low potassium levels in the blood),
-- -ciclosporin (used to prevent or treat transplant rejection),
-- -heparin sodium (used to prevent or delay blood clotting),
-- -nonsteroidal anti-inflammatory drugs (NSAIDs) (used to reduce fever, pain and inflammation),
-- -any medicine that may be affected by a disturbance in the level of potassium in your blood such as:
-- -digitalis glycosides (such as digoxin, used to treat heart failure and certain heart rhythm disorders),
-- -corticosteroids (used to treat inflammation),
-- -any other medicine that could cause heart rhythm disorders such as:
-- -amiodarone and quinidine (used to control cardiac rhythm),
-- -chlorpromazine (used to treat certain mental illnesses),
-- -cisapride (used to treat heartburn),
-- -sparfloxacin (used to treat certain bacterial infections).
+- any medicine that increases the level of potassium in your blood such as:
+- angiotensin-converting enzyme (ACE) inhibitors (used to treat high blood pressure, heart disease and kidney disease in patients suffering from type 1 diabetes),
+- potassium-sparing diuretics (used to treat high blood pressure, fluid build-up in tissue (oedema) and heart conditions),
+- potassium supplements (used to prevent or treat low potassium levels in the blood),
+- ciclosporin (used to prevent or treat transplant rejection),
+- heparin sodium (used to prevent or delay blood clotting),
+- nonsteroidal anti-inflammatory drugs (NSAIDs) (used to reduce fever, pain and inflammation),
+- any medicine that may be affected by a disturbance in the level of potassium in your blood such as:
+- digitalis glycosides (such as digoxin, used to treat heart failure and certain heart rhythm disorders),
+- corticosteroids (used to treat inflammation),
+- any other medicine that could cause heart rhythm disorders such as:
+- amiodarone and quinidine (used to control cardiac rhythm),
+- chlorpromazine (used to treat certain mental illnesses),
+- cisapride (used to treat heartburn),
+- sparfloxacin (used to treat certain bacterial infections).
 
 Some medicines may be affected by increased urine pH in relation with Sibnayal treatment such as :
 
-- -salicylates (used to treat pain and inflammation - aspirin-like medicines),
-- -tetracyclines (used to treat certain bacterial infections),
-- -barbiturates (sleep inducing medicines).
+- salicylates (used to treat pain and inflammation - aspirin-like medicines),
+- tetracyclines (used to treat certain bacterial infections),
+- barbiturates (sleep inducing medicines).
 
 ## Sibnayal with food, drink and alcohol
 
@@ -1160,7 +1149,9 @@ This medicine is not likely to affect your ability to drive or use machines.
 
 <div style=\"page-break-after: always\"></div>
 
-Sibnayal 8 mEq contains 308 mg of potassium per sachet. This is to be taken into consideration if you have a reduced kidney function or if you are on a controlled potassium diet. Sibnayal 24 mEq contains 924 mg of potassium per sachet. This is to be taken into consideration if you have a reduced kidney function or if you are on a controlled potassium diet.
+Sibnayal 8 mEq contains 308 mg of potassium per sachet. This is to be taken into consideration if you have a reduced kidney function or if you are on a controlled potassium diet.
+
+Sibnayal 24 mEq contains 924 mg of potassium per sachet. This is to be taken into consideration if you have a reduced kidney function or if you are on a controlled potassium diet.
 
 ## 3. How to take Sibnayal
 
@@ -1254,16 +1245,16 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Very common side effects (may affect more than 1 in 10 people)
 
-- -abdominal pain (belly pain)
+- abdominal pain (belly pain)
 
 Common side effects (may affect up to 1 in 10 people)
 
-- -upper abdominal pain (upper belly pain),
-- -gastrointestinal pain and disorders (stomach and intestinal pain and disorders),
-- -dyspepsia (poor digestion),
-- -vomiting,
-- -diarrhoea
-- -feeling sick (nausea) when starting treatment.
+- upper abdominal pain (upper belly pain),
+- gastrointestinal pain and disorders (stomach and intestinal pain and disorders),
+- dyspepsia (poor digestion),
+- vomiting,
+- diarrhoea
+- feeling sick (nausea) when starting treatment.
 
 ## Reporting of side effects
 
@@ -1287,8 +1278,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Sibnayal contains
 
-- -The active substances are potassium citrate and potassium hydrogen carbonate (also known as potassium bicarbonate).
-- -The other ingredients are hypromellose (E464), microcrystalline cellulose (E460 (i)), glycerol dibehenate, magnesium stearate (E470b), silica colloidal anhydrous, magnesium oxide heavy (E530), ethylcellulose (E462), chlorophyllin (E140 (ii)), talc.
+- The active substances are potassium citrate and potassium hydrogen carbonate (also known as potassium bicarbonate).
+- The other ingredients are hypromellose (E464), microcrystalline cellulose (E460 (i)), glycerol dibehenate, magnesium stearate (E470b), silica colloidal anhydrous, magnesium oxide heavy (E530), ethylcellulose (E462), chlorophyllin (E140 (ii)), talc.
 
 Each sachet of Sibnayal 8 mEq contains 282 mg of potassium citrate and 527 mg of potassium hydrogen carbonate.
 
@@ -1302,15 +1293,17 @@ Sibnayal is available in multipacks comprising 2, 3, 4, 5 and 6 cartons, each co
 
 ## Marketing Authorisation Holder and Manufacturer
 
-ADVICENNE 262 rue du Faubourg Saint Honoré 75008 Paris France
+ADVICENNE 262 rue du Faubourg Saint Honoré 75008 Paris
+
+France
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Luxembourg/Luxemburg - Nederland TwinPharma BV Trasmolenlaan 5 3447 GZ Woerden Nederland Tél/Tel: +31 348 71 24 05 info@twinpharma.com
+België/Belgique/Belgien - Luxembourg/Luxemburg - Nederland Avanzanite Bioscience B.V. Strawinskylaan 3051 1077 ZX Amsterdam Netherlands medinfo@Avanzanite.com
 
-Italia SPA Società Prodotti Antibiotici S.p.A.
+## Italia
 
-Via Biella, 8 20143 Milano Italy Tel: +39 02 891391 info@spafarma.com
+SPA Società Prodotti Antibiotici S.p.A. Via Biella, 8 20143 Milano Italy Tel: +39 02 891391 info@spafarma.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1322,13 +1315,15 @@ pv.global@exceedorphan.com
 
 pv.global@exceedorphan.com
 
-Danmark - Norge - Suomi/Finland - SverigeDeutschland-Malta-Ireland-ÖsterreichΕλλάδα -Κύπρος - Ísland Avanzanite Bioscience B.V. Strawinskylaan 3051 1077 ZX Amsterdam Netherlands Tlf / Puh /Tel/ Τηλ/Simi: +31 20 808 6361
+Danmark - Norge - Suomi/Finland - SverigeDeutschland-Malta-Ireland-ÖsterreichΕλλάδα- Κύπρος- Ísland Avanzanite Bioscience B.V. Strawinskylaan 3051 1077 ZX Amsterdam Netherlands Tlf / Puh /Tel/ Τηλ/Simi: +31 20 808 6361
 
 France ADVICENNE 262 rue du Faubourg Saint Honoré 75008 Paris France Tel : + 33 1 85 73 36 20
 
 info@advicenne.com
 
-España SPA Farma Ibérica Carrer de Roc Boronat, 147 08018 Barcelona Spain Tel: + 34 622 273 108
+España SPA Farma Ibérica Carrer de Roc Boronat, 147 08018 Barcelona Spain Tel: + 34 672 03 80 74
+
+info@spafarma.com
 
 Hrvatska ExCEEd Orphan Distribution d.o.o. Dužice 1, 10000 Zagreb Croatia Tel: +385 99 320 0330
 
@@ -1366,6 +1361,8 @@ pv.global@exceedorphan.com
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in Other sources of information
+## This leaflet was last revised in
+
+## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

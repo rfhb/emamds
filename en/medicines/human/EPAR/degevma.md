@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-09-24 15:13:00
+document_datetime: 2026-10-01 16:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/degevma.html
 document_name: degevma.html
 version: success
-processing_time: 0.1389091
-conversion_datetime: 2026-09-25 19:52:24.339986
+processing_time: 0.1329719
+conversion_datetime: 2026-10-04 16:21:25.148845
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.130.0
-  docling-core: 2.98.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
   docling-ibm-models: 4.0.3
-  docling-parse: 7.21.0
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Degevma
 
 [RSS](/en/individual-human-medicine.xml/266954)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -117,7 +117,7 @@ English (EN) (122.46 KB - PDF)
 
 [View](/en/documents/overview/degevma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-998)
+[Other languages (22)](#file-language-dropdown-58)
 
 български (BG) (147.99 KB - PDF)
 
@@ -253,9 +253,9 @@ svenska (SV) (120.41 KB - PDF)
 
 Degevma : EPAR - Risk management plan
 
-English (EN) (753.54 KB - PDF)
+English (EN) (716.32 KB - PDF)
 
-**First published:** 20/01/2026
+**First published:** 20/01/2026 **Last updated:** 01/10/2026
 
 [View](/en/documents/rmp/degevma-epar-risk-management-plan_en.pdf)
 
@@ -269,7 +269,7 @@ English (EN) (458.98 KB - PDF)
 
 [View](/en/documents/product-information/degevma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-917)
+[Other languages (24)](#file-language-dropdown-496)
 
 български (BG) (769.28 KB - PDF)
 
@@ -415,9 +415,9 @@ norsk (NO) (712.31 KB - PDF)
 
 [View](/no/documents/product-information/degevma-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000370263
+**Latest procedure affecting product information:** VR/0000377457
 
-24/09/2026
+29/09/2026
 
 icon globe
 
@@ -442,7 +442,7 @@ English (EN) (16.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/degevma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-74)
+[Other languages (24)](#file-language-dropdown-364)
 
 български (BG) (39.32 KB - PDF)
 
@@ -627,7 +627,7 @@ Treatment of adults and skeletally mature adolescents with giant cell tumour of 
 - **Marketing authorisation issued**
     - 17/11/2025
 - **Revision**
-    - 1
+    - 2
 
 ## Assessment history
 
@@ -639,9 +639,9 @@ Collapse section
 
 Degevma : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (156.67 KB - PDF)
+English (EN) (157.57 KB - PDF)
 
-**First published:** 24/09/2026
+**First published:** 24/09/2026 **Last updated:** 01/10/2026
 
 [View](/en/documents/procedural-steps-after/degevma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -675,6 +675,6 @@ English (EN) (152.24 KB - PDF)
 
 **This page was last updated on**
 
-24/09/2026
+01/10/2026
 
 ## Share this page

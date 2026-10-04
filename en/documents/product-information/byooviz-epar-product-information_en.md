@@ -1,28 +1,26 @@
 ---
-document_datetime: 2026-02-25 13:07:45
-document_pages: 80
+document_datetime: 2026-10-01 15:12:25
+document_pages: 82
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/byooviz-epar-product-information_en.pdf
 document_name: byooviz-epar-product-information_en.pdf
 version: success
-processing_time: 35.3255538
-conversion_datetime: 2026-03-01 19:26:49.89113
+processing_time: 104.4258343
+conversion_datetime: 2026-10-04 15:30:37.245631
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -52,11 +50,11 @@ Clear, colourless to pale yellow aqueous solution.
 
 Byooviz is indicated in adults for:
 
-- The treatment of neovascular (wet) age-related macular degeneration  (AMD)
-- The treatment of visual impairment due to diabetic macular oedema  (DME)
+- The treatment of neovascular (wet) age-related macular degeneration (AMD)
+- The treatment of visual impairment due to diabetic macular oedema (DME)
 - The treatment of proliferative diabetic retinopathy (PDR)
 - The treatment of visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO)
-- The treatment of visual impairment due to choroidal neovascularisation  (CNV)
+- The treatment of visual impairment due to choroidal neovascularisation (CNV)
 
 ## 4.2 Posology and method of administration
 
@@ -68,13 +66,11 @@ Adults
 
 The recommended dose for Byooviz in adults is 0.5 mg given as a single intravitreal injection. This corresponds to an injection volume of 0.05 ml. The interval between two doses injected into the same eye should be at least four weeks.
 
-Treatment in adults is initiated with one injection per month until maximum visual acuity is achieved and/or there are no signs of disease activity i.e. no change in visual acuity and in other signs and
-
-<div style=\"page-break-after: always\"></div>
-
-symptoms of the disease under continued treatment. In patients with wet AMD, DME, PDR and RVO, initially, three or more consecutive, monthly injections may be needed.
+Treatment in adults is initiated with one injection per month until maximum visual acuity is achieved and/or there are no signs of disease activity i.e. no change in visual acuity and in other signs and symptoms of the disease under continued treatment. In patients with wet AMD, DME, PDR and RVO, initially, three or more consecutive, monthly injections may be needed.
 
 Thereafter, monitoring and treatment intervals should be determined by the physician and should be based on disease activity, as assessed by visual acuity and/or anatomical parameters.
+
+<div style=\"page-break-after: always\"></div>
 
 If, in the physician's opinion, visual and anatomic parameters indicate that the patient is not benefiting from continued treatment, Byooviz should be discontinued.
 
@@ -86,7 +82,9 @@ The treatment of visual impairment due to CNV should be determined individually 
 
 Ranibizumab and laser photocoagulation in DME and in macular oedema secondary to BRVO There is some experience of ranibizumab administered concomitantly with laser photocoagulation (see section 5.1). When given on the same day, ranibizumab should be administered at least 30 minutes after laser photocoagulation. Ranibizumab can be administered in patients who have received previous laser photocoagulation.
 
-Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM There is no experience of concomitant administration of ranibizumab and verteporfin.
+## Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM
+
+There is no experience of concomitant administration of ranibizumab and verteporfin.
 
 ## Special populations
 
@@ -112,9 +110,11 @@ Single-use vial for intravitreal use only.
 
 Since the volume contained in the vial (0.23 ml) is greater than the recommended dose (0.05 ml for adults), a portion of the volume contained in the vial must be discarded prior to administration.
 
-<div style=\"page-break-after: always\"></div>
+Byooviz should be inspected visually for particulate matter and discolouration prior to
 
-Byooviz should be inspected visually for particulate matter and discolouration prior to administration. For information on preparation of Byooviz, see section 6.6.
+administration. For information on preparation of Byooviz, see section 6.6.
+
+<div style=\"page-break-after: always\"></div>
 
 The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required). The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure (see section 4.4). Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
 
@@ -150,11 +150,11 @@ Patients should be informed of the symptoms of these potential adverse reactions
 
 Limited data on bilateral use of ranibizumab (including same-day administration) do not suggest an increased risk of systemic adverse events compared with unilateral treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Immunogenicity
 
 There is a potential for immunogenicity with ranibizumab. Since there is a potential for an increased systemic exposure in subjects with DME, an increased risk for developing hypersensitivity in this patient population cannot be excluded. Patients should also be instructed to report if an intraocular inflammation increases in severity, which may be a clinical sign attributable to intraocular antibody formation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Concomitant use of other anti-VEGF (vascular endothelial growth factor)
 
@@ -164,11 +164,11 @@ Ranibizumab should not be administered concurrently with other anti-VEGF medicin
 
 The dose should be withheld and treatment should not be resumed earlier than the next scheduled treatment in the event of:
 
-- a decrease in bestcorrected visual acuity (BCVA) of ≥30 letters compared with the last assessment of visual acuity;
+- a decrease in best-corrected visual acuity (BCVA) of ≥30 letters compared with the last assessment of visual acuity;
 - an intraocular pressure of ≥30 mmHg;
 - a retinal break;
 - a subretinal haemorrhage involving the centre of the fovea, or, if the size of the haemorrhage is ≥ 50%, of the total lesion area;
-- performed or planned intraocular surgery within the previous or next 28  days.
+- performed or planned intraocular surgery within the previous or next 28 days.
 
 ## Retinal pigment epithelial tear
 
@@ -188,17 +188,17 @@ In patients with PM, there are limited data on the effect of ranibizumab in pati
 
 ## Systemic effects following intravitreal use
 
-<div style=\"page-break-after: always\"></div>
-
 Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors.
 
-There are limited data on safety in the treatment of DME, macular oedema due to RVO and CNV secondary to PM patients with prior history of stroke or transient ischaemic attacks. Caution should be exercised when treating such patients (see section 4.8) .
+There are limited data on safety in the treatment of DME, macular oedema due to RVO and CNV secondary to PM patients with prior history of stroke or transient ischaemic attacks. Caution should be exercised when treating such patients (see section 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Warnings for excipients
 
 This medicine contains 0.023 mg of polysorbate 20 (E 432) in each vial (0.23 ml) which is equivalent to 0.005 mg/0.05 ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
-## 4.5 Interaction with other medicinal products and other forms of  interaction
+## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No formal interaction studies have been performed.
 
@@ -230,11 +230,11 @@ There are no data available on fertility.
 
 The treatment procedure may induce temporary visual disturbances, which may affect the ability to drive or use machines (see section 4.8). Patients who experience these signs must not drive or use machines until these temporary visual disturbances subside.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
+
+<div style=\"page-break-after: always\"></div>
 
 The majority of adverse reactions reported following administration of ranibizumab are related to the intravitreal injection procedure.
 
@@ -248,64 +248,54 @@ The adverse reactions experienced following administration of ranibizumab in cli
 
 ## Tabulated list of adverse reactions #
 
-The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimat ed from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Infections and infestations
+| Infections and infestations          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Very common                          | Nasopharyngitis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Common                               | Urinary tract infection*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Common                               | Anaemia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Immune system disorders              | Immune system disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Common                               | Hypersensitivity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Psychiatric disorders                | Psychiatric disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Common                               | Anxiety                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Nervous system disorders             | Nervous system disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Very common                          | Headache                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Eye disorders                        | Eye disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Very common                          | Vitritis, vitreous detachment, retinal haemorrhage, visual disturbance, eye pain, vitreous floaters, conjunctival haemorrhage, eye irritation, foreign body sensation in eyes, lacrimation increased, blepharitis, dry eye, ocular hyperaemia, eye pruritus.                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Common                               | Retinal degeneration, retinal disorder, retinal detachment, retinal tear, detachment of the retinal pigment epithelium, retinal pigment epithelium tear, visual acuity reduced, vitreous haemorrhage, vitreous disorder, uveitis, iritis, iridocyclitis, cataract, cataract subcapsular, posterior capsule opacification, punctuate keratitis, corneal abrasion, anterior chamber flare, vision blurred, injection site haemorrhage, eye haemorrhage, conjunctivitis, conjunctivitis allergic, eye discharge, photopsia, photophobia, ocular discomfort, eyelid oedema, eyelid pain, conjunctival hyperaemia. Blindness, endophthalmitis, hypopyon, hyphaema, |
+| Uncommon                             | keratopathy, iris adhesion, corneal deposits, corneal oedema,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-| Very common                          | Nasopharyngitis                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Common                               | Urinary tract infection*                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Common                               | Anaemia                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Immune system disorders              |                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Common                               | Hypersensitivity                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Psychiatric disorders                |                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Common                               | Anxiety                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Nervous system disorders             |                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Very common                          | Headache                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Eye disorders                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Very common                          | Vitritis, vitreous detachment, retinal haemorrhage, visual disturbance, eye pain, vitreous floaters, conjunctival haemorrhage, eye irritation, foreign body sensation in eyes, lacrimation increased, blepharitis, dry eye, ocular hyperaemia, eye pruritus.                                                                                                                                                                                          |
-| Common                               | Retinal degeneration, retinal disorder, retinal detachment, retinal tear, detachment of the retinal pigment epithelium, retinal pigment epithelium tear, visual acuity reduced, vitreous haemorrhage, vitreous disorder, uveitis, iritis, iridocyclitis, cataract, cataract subcapsular, posterior capsule opacification, punctuate keratitis, corneal abrasion, anterior chamber flare, vision blurred, injection site haemorrhage, eye haemorrhage, |
-
-<div style=\"page-break-after: always\"></div>
-
-Uncommon conjunctivitis, conjunctivitis allergic, eye discharge, photopsia, photophobia, ocular discomfort, eyelid oedema, eyelid pain, conjunctival hyperaemia.
-
-Blindness, endophthalmitis, hypopyon, hyphaema, keratopathy, iris adhesion, corneal deposits, corneal oedema, corneal striae, injection site pain, injection site irritation, abnormal sensation in eye, eyelid irritation.
+Not known corneal striae, injection site pain, injection site irritation, abnormal sensation in eye, eyelid irritation. Retinal vasculitis**, retinal occlusive vasculitis**
 
 Respiratory, thoracic and mediastinal disorders
 
-Common
-
-Cough
+Common Cough
 
 Gastrointestinal disorders
 
-Common
-
-Nausea
+Common Nausea
 
 Skin and subcutaneous tissue disorders
 
-Common
-
-Allergic reactions (rash, urticaria, pruritus, erythema)
+Common Allergic reactions (rash, urticaria, pruritus, erythema)
 
 Musculoskeletal and connective tissue disorders
 
-Very common
-
-Arthralgia
+Very common Arthralgia
 
 Investigations
 
-Very common
-
-Intraocular pressure increased
+Very common Intraocular pressure increased
 
 # Adverse reactions were defined as adverse events (in at least 0.5 percentage points of patients) which occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with ranibizumab 0.5 mg than in those receiving control treatment (sham or verteporfin PDT).
 
 * observed only in DME population
+
+** from post-marketing reporting
+
+<div style=\"page-break-after: always\"></div>
 
 ## Product-class-related adverse reactions
 
@@ -323,11 +313,11 @@ Cases of accidental overdose have been reported from the clinical studies in wet
 
 ## 5.1 Pharmacodynamic properties
 
-<div style=\"page-break-after: always\"></div>
-
 Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC code: S01LA04
 
 Byooviz is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -347,15 +337,14 @@ Key outcome measures are summarised in Table 1 and Figure 1.
 
 Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g (ANCHOR)
 
-|                                                                                      |          | FVF2598g (MARINA)   | FVF2598g (MARINA)          | FVF2587g (ANCHOR)       | FVF2587g (ANCHOR)          |
-|--------------------------------------------------------------------------------------|----------|---------------------|----------------------------|-------------------------|----------------------------|
-| Outcome measure                                                                      | Month    | Sham (n=238)        | Ranibizumab 0.5 mg (n=240) | Verteporfin PDT (n=143) | Ranibizumab 0.5 mg (n=140) |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                 | 95%                        | 64%                     | 96%                        |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                 | 90%                        | 66%                     | 90%                        |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                  | 34%                        | 6%                      | 40%                        |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                  | 33%                        | 6%                      | 41%                        |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5 (16.6)        | +7.2 (14.4)                | -9.5 (16.4)             | +11.3 (14.6)               |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                | -9.8 (17.6)             | +10.7 (16.5)               |
+| Outcome measure                                                                      | Month    | FVF2598g (MARINA) - Sham (n=238)   | FVF2598g (MARINA) - Ranibizumab 0.5 mg (n=240)   | FVF2587g (ANCHOR) - Verteporfin PDT (n=143)   | FVF2587g (ANCHOR) - Ranibizumab 0.5 mg (n=140)   |
+|--------------------------------------------------------------------------------------|----------|------------------------------------|--------------------------------------------------|-----------------------------------------------|--------------------------------------------------|
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                                | 95%                                              | 64%                                           | 96%                                              |
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                                | 90%                                              | 66%                                           | 90%                                              |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                                 | 34%                                              | 6%                                            | 40%                                              |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                                 | 33%                                              | 6%                                            | 41%                                              |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5 (16.6)                       | +7.2 (14.4)                                      | -9.5 (16.4)                                   | +11.3 (14.6)                                     |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)                       | +6.6 (16.5)                                      | -9.8 (17.6)                                   | +10.7 (16.5)                                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -369,11 +358,9 @@ Statistically significant patient-reported visual functioning benefits were obse
 
 In study FVF3192g (PIER), 184 patients with all forms of neovascular AMD were randomised in a 1:1:1 ratio to receive ranibizumab 0.3 mg, ranibizumab 0.5 mg or sham injections once a month for 3 consecutive doses, followed by a dose administered once every 3 months. From Month 14 of the study, sham-treated patients were allowed to receive ranibizumab and from Month 19, more frequent treatments were possible. Patients treated with ranibizumab in PIER received a mean of 10 total treatments.
 
-After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in
+After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better preservation of visual acuity.
 
 <div style=\"page-break-after: always\"></div>
-
-most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better preservation of visual acuity.
 
 Data from two studies (MONT BLANC, BPD952A2308 and DENALI, BPD952A2309) conducted post approval confirmed the efficacy of ranibizumab but did not demonstrate additional effect of the combined administration of verteporfin (Visudyne PDT) and ranibizumab compared to ranibizumab monotherapy.
 
@@ -381,15 +368,15 @@ Data from two studies (MONT BLANC, BPD952A2308 and DENALI, BPD952A2309) conducte
 
 The clinical safety and efficacy of ranibizumab in patients with visual impairment due to CNV in PM have been assessed based on the 12-month data of the double-masked, controlled pivotal study F2301 (RADIANCE). In this study 277 patients were randomised in a 2:2:1 ratio to the following arms:
 
-- Group I (ranibizumab 0.5 mg, dosing regimen driven by 'stability' criteria defined as no change in BCVA compared to two preceding monthly evaluations).
-- Group II (ranibizumab 0.5 mg, dosing regimen driven by 'disease activity' criteria defined as vision impairment attributable to intra- or subretinal fluid or active leakage due to the CNV lesion as assessed by optical coherence tomography and/or fluorescence angiography).
+- Group I (ranibizumab 0.5 mg, dosing regimen driven by \"stability\" criteria defined as no change in BCVA compared to two preceding monthly evaluations).
+- Group II (ranibizumab 0.5 mg, dosing regimen driven by \"disease activity\" criteria defined as vision impairment attributable to intra- or subretinal fluid or active leakage due to the CNV lesion as assessed by optical coherence tomography and/or fluorescence angiography).
 - Group III (vPDT - patients were allowed to receive ranibizumab treatment as of Month 3). In Group II, which is the recommended posology (see section 4.2), 50.9% of patients required 1 or 2 injections, 34.5% required 3 to 5 injections and 14.7% required 6 to 12 injections over the 12-month study period. 62.9% of Group II patients did not require injections in the second 6 months of the study.
 
 The key outcomes from RADIANCE are summarised in Table 2 and Figure 2.
 
 Table 2 Outcomes at Month 3 and 12 (RADIANCE)
 
-|                                                                                   | Group I Ranibizumab 0.5 mg 'vision stability' (n=105)   | Group II Ranibizumab 0.5 mg 'disease activity' (n=116)   | Group III vPDT b (n=55)   |
+|                                                                                   | Group I Ranibizumab 0.5 mg \"vision stability\" (n=105)   | Group II Ranibizumab 0.5 mg \"disease activity\" (n=116)   | Group III vPDT b (n=55)   |
 |-----------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|---------------------------|
 | Month 3                                                                           |                                                         |                                                          |                           |
 | Mean average BCVA change from Month 1 to Month 3 compared to baseline a (letters) | +10.5                                                   | +10.6                                                    | +2.2                      |
@@ -401,10 +388,6 @@ Table 2 Outcomes at Month 3 and 12 (RADIANCE)
 | Mean average BCVA change from Month 1 to Month 12 compared to baseline (letters)  | +12.8                                                   | +12.5                                                    | N/A                       |
 | Proportion of patients who gained: ≥15 letters, or reached ≥84 letters in BCVA    | 53.3%                                                   | 51.7%                                                    | N/A                       |
 
-a p&lt;0.00001 comparison with vPDT control
-
-b Comparative control up to Month 3. Patients randomised to vPDT were allowed to receive ranibizumab treatment as of Month 3 (in Group III, 38 patients received ranibizumab as of Month 3)
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 2 Mean change from baseline BCVA over time to Month 12 (RADIANCE)
@@ -413,7 +396,7 @@ Figure 2 Mean change from baseline BCVA over time to Month 12 (RADIANCE)
 
 The improvement of vision was accompanied by a reduction in central retinal thickness.
 
-Patient-reported benefits were observed with ranibizumab treatment arms over vPDT (pvalue &lt;0.05) in terms of improvement in the composite score and several subscales (general vision, near activities, mental health and dependency) of the NEI VFQ-25.
+Patient-reported benefits were observed with ranibizumab treatment arms over vPDT (p-value &lt;0.05) in terms of improvement in the composite score and several subscales (general vision, near activities, mental health and dependency) of the NEI VFQ-25.
 
 ## Treatment of visual impairment due to CNV (other than secondary to PM and wet AMD)
 
@@ -426,11 +409,9 @@ At Month 2, all patients received open-label treatment with ranibizumab as neede
 
 Key outcome measures from MINERVA are summarised in Table 3 and Figure 3. An improvement of vision was observed and was accompanied by a reduction in central subfield thickness over the 12-month period.
 
-The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye
+The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
 
 <div style=\"page-break-after: always\"></div>
-
-during the 12-month period.
 
 Table 3 Outcomes at Month 2 (MINERVA)
 
@@ -445,22 +426,22 @@ Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
 <!-- image -->
 
-Sham(N=59)
+Treatment: —0 Ranibizumab 0.5 mg (N=119)
 
-ObservedmeanBCVAmaydifferfrom theLeastSquaresMeanBCVA (applicable only at Month 2)
+Sham (N=59)
 
-Treatment:—oRanibizumab0.5mg(N=119)
+* Observed mean BCVA may differ from the Least Squares Mean BCVA (applicable only at Month 2)
 
 When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
 
-Table 4 Treatment effect overall and across baseline aetiology  subgroups
+Table 4 Treatment effect overall and across baseline aetiology subgroups
 
 | Overall and per baseline aetiology    |   Treatment effect over sham [letters] |   Patient numbers [n] (treatment +sham) |
 |---------------------------------------|----------------------------------------|-----------------------------------------|
 | Overall                               |                                    9.9 |                                     178 |
 | Angioid streaks                       |                                   14.6 |                                      27 |
 | Post-inflammatory retinochoroidopathy |                                    6.5 |                                      28 |
-| Central serous chorioretinopathy      |                                    5   |                                      23 |
+| Central serous chorioretinopathy      |                                    5.0 |                                      23 |
 | Idiopathic chorioretinopathy          |                                   11.4 |                                      63 |
 | Miscellaneous aetiologies a           |                                   10.6 |                                      37 |
 
@@ -478,26 +459,26 @@ In the phase III study D2301 (RESTORE), 345 patients were randomised in a 1:1:1 
 
 Key outcome measures are summarised in Table 5 (RESTORE and Extension) and Figure 4 (RESTORE).
 
-Figure 4 Mean change in visual acuity from baseline over time in study D2301  (RESTORE)
+Figure 4 Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
 
 <!-- image -->
 
 BL=baseline; SE=standard error of mean
 
-* Difference in least square means, p &lt; 0.0001/0.0004 based on two-sided stratified Cochran-MantelHaenszel test
+* Difference in least square means, p&lt;0.0001/0.0004 based on two-sided stratified Cochran-MantelHaenszel test
 
 Laser (N=110)
 
 <div style=\"page-break-after: always\"></div>
 
-The effect at 12 months was consistent in most subgroups. However, subjects with a baseline BCVA &gt;73 letters and macular oedema with centra l retinal thickness &lt;300 µm did not appear to benefit from treatment with ranibizumab compared to laser photocoagulation.
+The effect at 12 months was consistent in most subgroups. However, subjects with a baseline BCVA &gt;73 letters and macular oedema with central retinal thickness &lt;300 µm did not appear to benefit from treatment with ranibizumab compared to laser photocoagulation.
 
 Table 5 Outcomes at Month 12 in study D2301 (RESTORE) and at Month 36 in study D2301-E1 (RESTORE Extension)
 
 | Outcome measures at Month 12 compared to baseline in study D2301 (RESTORE)                             | Ranibizumab 0.5 mg n=115      | Ranibizumab 0.5 mg + Laser n=118      | Laser n=110      |
 |--------------------------------------------------------------------------------------------------------|-------------------------------|---------------------------------------|------------------|
-| Mean average change in BCVA from Month 1 to Month 12 a ( ± SD)                                         | 6.1 (6.4) a                   | 5.9 (7.9) a                           | 0.8 (8.6)        |
-| Mean change in BCVA at Month 12 ( ± SD)                                                                | 6.8 (8.3) a                   | 6.4 (11.8) a                          | 0.9 (11.4)       |
+| Mean average change in BCVA from Month 1 to Month 12 a (±SD)                                           | 6.1 (6.4) a                   | 5.9 (7.9) a                           | 0.8 (8.6)        |
+| Mean change in BCVA at Month 12 (±SD)                                                                  | 6.8 (8.3) a                   | 6.4 (11.8) a                          | 0.9 (11.4)       |
 | Gain of ≥15 letters or BCVA ≥84 letters at Month 12 (%)                                                | 22.6                          | 22.9                                  | 8.2              |
 | Mean number of injections (Months 0-11)                                                                | 7.0                           | 6.8                                   | 7.3 (sham)       |
 | Outcome measure at Month 36 compared to D2301 (RESTORE) baseline in study D2301-E1 (RESTORE Extension) | Prior ranibizumab 0.5 mg n=83 | Prior ranibizumab 0.5 mg + laser n=83 | Prior laser n=74 |
@@ -550,30 +531,29 @@ Protocol S was a multicentre, randomised, active-controlled, parallel-assignment
 
 In this study, the mean visual acuity change at year 2 was +2.7 letters in the ranibizumab group compared to -0.7 letters in the PRP group. The difference in least square means was 3.5 letters (95% CI: [0.2 to 6.7]).
 
-At year 1, 41.8% of eyes experienced a ≥2 -step improvement in the DRSS when treated with ranibizumab (n=189) compared to 14.6% of eyes treated with PRP (n=199). The estimated difference between ranibizumab and laser was 27.4% (95% CI: [18.9, 35.9]).
+At year 1, 41.8% of eyes experienced a ≥2-step improvement in the DRSS when treated with ranibizumab (n=189) compared to 14.6% of eyes treated with PRP (n=199). The estimated difference between ranibizumab and laser was 27.4% (95% CI: [18.9, 35.9]).
 
 <div style=\"page-break-after: always\"></div>
 
 Table 7 DRSS improvement or worsening of ≥2 or ≥3 steps at year 1 in Protocol S (LOCF Method)
 
-| Categorised change from baseline                                                                                                           | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Categorised change from baseline                                                                                                           | Ranibizumab 0.5 mg (N=189)                                                                                                                 | PRP (N=199)                                                                                                                                | Difference in proportion (%), CI                                                                                                           |
-| ≥2 -step improvement                                                                                                                       | ≥2 -step improvement                                                                                                                       | ≥2 -step improvement                                                                                                                       | ≥2 -step improvement                                                                                                                       |
-| n (%)                                                                                                                                      | 79 (41.8%)                                                                                                                                 | 29 (14.6%)                                                                                                                                 | 27.4 (18.9, 35.9)                                                                                                                          |
-| ≥3 -step improvement                                                                                                                       | ≥3 -step improvement                                                                                                                       | ≥3 -step improvement                                                                                                                       | ≥3 -step improvement                                                                                                                       |
-| n (%)                                                                                                                                      | 54 (28.6%)                                                                                                                                 | 6 (3.0%)                                                                                                                                   | 25.7 (18.9, 32.6)                                                                                                                          |
-| ≥2 -step worsening                                                                                                                         | ≥2 -step worsening                                                                                                                         | ≥2 -step worsening                                                                                                                         | ≥2 -step worsening                                                                                                                         |
-| n (%)                                                                                                                                      | 3 (1.6%)                                                                                                                                   | 23 (11.6%)                                                                                                                                 | -9.9 (-14.7, -5.2)                                                                                                                         |
-| ≥3 -step worsening                                                                                                                         | ≥3 -step worsening                                                                                                                         | ≥3 -step worsening                                                                                                                         | ≥3 -step worsening                                                                                                                         |
-| n (%)                                                                                                                                      | 1 (0.5%)                                                                                                                                   | 8 (4.0%)                                                                                                                                   | -3.4 (-6.3, -0.5)                                                                                                                          |
-| DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit,N= total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit,N= total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit,N= total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit,N= total number of study eyes. |
+| Categorised change from baseline                                                                                                             | Protocol S - Ranibizumab 0.5 mg (N=189)                                                                                                      | Protocol S - PRP (N=199)                                                                                                                     | Protocol S - Difference in proportion (%), CI                                                                                                |
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          |
+| n (%)                                                                                                                                        | 79 (41.8%)                                                                                                                                   | 29 (14.6%)                                                                                                                                   | 27.4 (18.9, 35.9)                                                                                                                            |
+| ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          |
+| n (%)                                                                                                                                        | 54 (28.6%)                                                                                                                                   | 6 (3.0%)                                                                                                                                     | 25.7 (18.9, 32.6)                                                                                                                            |
+| ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            |
+| n (%)                                                                                                                                        | 3 (1.6%)                                                                                                                                     | 23 (11.6%)                                                                                                                                   | -9.9 (-14.7, -5.2)                                                                                                                           |
+| ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            |
+| n (%)                                                                                                                                        | 1 (0.5%)                                                                                                                                     | 8 (4.0%)                                                                                                                                     | -3.4 (-6.3, -0.5)                                                                                                                            |
+| DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. |
 
-At year 1 in the ranibizumabtreated group in Protocol S, ≥2 -step improvement in DRSS was consistent in eyes without DME (39.9%) and with baseline DME (48.8%).
+At year 1 in the ranibizumab-treated group in Protocol S, ≥2-step improvement in DRSS was consistent in eyes without DME (39.9%) and with baseline DME (48.8%).
 
-An analysis of year 2 data from Protocol S demonstrated that 42.3% (n=80) of eyes in the ranibizumab-treated gro up had ≥2 -step improvement in DRSS from baseline compared with 23.1% (n=46) of eyes in the PRP group. In the ranibizumabtreated group, ≥2 -step improvement in DRSS from baseline was observed in 58.5% (n=24) of eyes with baseline DME and 37.8% (n=56) of eyes without DME.
+An analysis of year 2 data from Protocol S demonstrated that 42.3% (n=80) of eyes in the ranibizumab-treated group had ≥2-step improvement in DRSS from baseline compared with 23.1% (n=46) of eyes in the PRP group. In the ranibizumab-treated group, ≥2-step improvement in DRSS from baseline was observed in 58.5% (n=24) of eyes with baseline DME and 37.8% (n=56) of eyes without DME.
 
-DRSS was also assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin. In a meta-analysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥2 -step improvement in the DRSS at Month 12 when treated with ranibizumab (n=192) vs 14.6% of patients treated with laser (n=123). The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]). In the 405 DRSS gradable patients with moderate NPDR or better, a ≥2 -step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
+DRSS was also assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin. In a meta-analysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥2-step improvement in the DRSS at Month 12 when treated with ranibizumab (n=192) vs 14.6% of patients treated with laser (n=123). The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]). In the 405 DRSS gradable patients with moderate NPDR or better, a ≥2-step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
 
 ## Treatment of visual impairment due to macular oedema secondary to RVO
 
@@ -585,14 +565,13 @@ Key outcome measures from BRAVO and CRUISE are summarised in Table 8 and Figures
 
 Table 8 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 
-|                                                                             | BRAVO                            | BRAVO                      | CRUISE                           | CRUISE                     |
-|-----------------------------------------------------------------------------|----------------------------------|----------------------------|----------------------------------|----------------------------|
-|                                                                             | Sham/ Ranibizumab 0.5 mg (n=132) | Ranibizumab 0.5 mg (n=131) | Sham/ Ranibizumab 0.5 mg (n=130) | Ranibizumab 0.5 mg (n=130) |
-| Mean change in visual acuity at Month 6 a (letters) (SD) (primary endpoint) | 7.3 (13.0)                       | 18.3 (13.2)                | 0.8 (16.2)                       | 14.9 (13.2)                |
-| Mean change in BCVA at Month 12 (letters) (SD)                              | 12.1 (14.4)                      | 18.3 (14.6)                | 7.3 (15.9)                       | 13.9 (14.2)                |
-| Gain of ≥15 letters in visual acuity at Month 6 a (%)                       | 28.8                             | 61.1                       | 16.9                             | 47.7                       |
-| Gain of ≥15 letters in visual acuity at Month 12 (%)                        | 43.9                             | 60.3                       | 33.1                             | 50.8                       |
-| Proportion (%) receiving laser rescue over 12 months                        | 61.4                             | 34.4                       | NA                               | NA                         |
+|                                                                             | BRAVO - Sham/ Ranibizumab 0.5 mg (n=132)   | BRAVO - Ranibizumab 0.5 mg (n=131)   | CRUISE - Sham/ Ranibizumab 0.5 mg (n=130)   | CRUISE - Ranibizumab 0.5 mg (n=130)   |
+|-----------------------------------------------------------------------------|--------------------------------------------|--------------------------------------|---------------------------------------------|---------------------------------------|
+| Mean change in visual acuity at Month 6 a (letters) (SD) (primary endpoint) | 7.3 (13.0)                                 | 18.3 (13.2)                          | 0.8 (16.2)                                  | 14.9 (13.2)                           |
+| Mean change in BCVA at Month 12 (letters) (SD)                              | 12.1 (14.4)                                | 18.3 (14.6)                          | 7.3 (15.9)                                  | 13.9 (14.2)                           |
+| Gain of ≥15 letters in visual acuity at Month 6 a (%)                       | 28.8                                       | 61.1                                 | 16.9                                        | 47.7                                  |
+| Gain of ≥15 letters in visual acuity at Month 12 (%)                        | 43.9                                       | 60.3                                 | 33.1                                        | 50.8                                  |
+| Proportion (%) receiving laser rescue over 12 months                        | 61.4                                       | 34.4                                 | NA                                          | NA                                    |
 
 a p&lt;0.0001 for both studies
 
@@ -600,7 +579,7 @@ Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO
 
 <!-- image -->
 
-BL=baseline;SE=standard error ofmean
+BL=baseline; SE=standard error of mean
 
 <div style=\"page-break-after: always\"></div>
 
@@ -608,7 +587,7 @@ Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUIS
 
 <!-- image -->
 
-BL=baseline;SE=standard error of mean
+BL=baseline; SE=standard error of mean
 
 In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
@@ -624,17 +603,16 @@ Key outcome measures from BRIGHTER and CRYSTAL are shown in Table 9.
 
 Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 
-|                                                                                  | BRIGHTER                 | BRIGHTER                         | BRIGHTER      | CRYSTAL                  |
-|----------------------------------------------------------------------------------|--------------------------|----------------------------------|---------------|--------------------------|
-|                                                                                  | Ranibizumab 0.5 mg N=180 | Ranibizumab 0.5 mg + Laser N=178 | Laser* N=90   | Ranibizumab 0.5 mg N=356 |
-| Mean change in BCVA at Month 6 a (letters) (SD)                                  | +14.8 (10.7)             | +14.8 (11.13)                    | +6.0 (14.27)  | +12.0                    |
-| Mean change in BCVA at Month 24 b                                                | +15.5 (13.91)            | +17.3 (12.61)                    | +11.6 (16.09) | (13.95)                  |
-| (letters) (SD) Gain of                                                           |                          |                                  |               | +12.1 (18.60)            |
-| ≥15 letters in BCVA at Month 24 (%) Mean number of injections (SD) (Months 0-23) | 52.8                     | 59.6 11.3 (6.02)                 | 43.3          | 49.2 13.1 (6.39)         |
-|                                                                                  | 11.4 (5.81)              |                                  | NA            |                          |
+|                                                  | BRIGHTER - Ranibizumab 0.5 mg N=180   | BRIGHTER - Ranibizumab 0.5 mg + Laser N=178   | BRIGHTER - Laser* N=90   | CRYSTAL - Ranibizumab 0.5 mg N=356   |
+|--------------------------------------------------|---------------------------------------|-----------------------------------------------|--------------------------|--------------------------------------|
+| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)                          | +14.8 (11.13)                                 | +6.0 (14.27)             | +12.0 (13.95)                        |
+| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)                         | +17.3 (12.61)                                 | +11.6 (16.09)            | (18.60)                              |
+| Gain of ≥15 letters in BCVA at Month 24 (%)      | 52.8                                  | 59.6                                          | 43.3                     | +12.1 49.2                           |
+| Mean number of injections (SD) (Months 0-23)     | (5.81)                                | 11.3 (6.02)                                   |                          | 13.1 (6.39)                          |
+|                                                  | 11.4                                  |                                               | NA                       |                                      |
 
 - a p&lt;0.0001 for both comparisons in BRIGHTER at Month 6: Ranibizumab 0.5 mg vs Laser and Ranibizumab 0.5 mg + Laser vs Laser.
-- b p&lt;0.0001 for null hypothesis in CRYSTAL that the mean change at Month 24  from baseline is zero.
+- b p&lt;0.0001 for null hypothesis in CRYSTAL that the mean change at Month 24 from baseline is zero.
 * Starting at Month 6 ranibizumab 0.5 mg treatment was allowed (24 patients were treated with laser only).
 
 In BRIGHTER, ranibizumab 0.5 mg with adjunctive laser therapy demonstrated non-inferiority versus ranibizumab monotherapy from baseline to Month 24 (95% CI -2.8, 1.4).
@@ -685,7 +663,7 @@ The absence of ranibizumab-mediated effects on embryo-foetal development is plau
 
 ## 6.1 List of excipients
 
-α,α -trehalose dihydrate Histidine hydrochloride, monohydrate Histidine Polysorbate 20 (E 432) Water for injections
+α,α-trehalose dihydrate Histidine hydrochloride, monohydrate Histidine Polysorbate 20 (E 432) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -697,15 +675,19 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C). Do not freeze. Keep the vial in the outer carton in order to protect from light. Prior to use, the unopened vial may be stored at temperatures not exceeding 30°C for up to 2 months.
+Store in a refrigerator (2°C - 8°C). Do not freeze.
+
+Keep the vial in the outer carton in order to protect from light.
+
+Prior to use, the unopened vial may be stored at temperatures not exceeding 30°C for up to 2 months.
 
 ## 6.5 Nature and contents of container
 
-## Vial-only pack
+Vial-only pack
 
 One vial (type I glass) with a stopper (chlorobutyl rubber) containing 0.23 ml sterile solution.
 
-## Vial + filter needle + injection needle pack
+Vial + filter needle + injection needle pack
 
 One vial (type I glass) with a stopper (chlorobutyl rubber) containing 0.23 ml sterile solution, 1 blunt filter needle (18G x 1½″, 1.2 mm x 40 mm, 5 µm), and 1 injection needle (30G x ½″, 0.3 mm x 13 mm).
 
@@ -713,18 +695,16 @@ Not all pack types may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-## Vial-only pack
+Vial-only pack
 
-The vial is for single use only. After injection any unused product must be discarded. Any vial showing
+The vial is for single use only. After injection any unused product must be discarded. Any vial showing signs of damage or tampering must not be used. The sterility cannot be guaranteed unless the packaging seal remains intact.
 
 <div style=\"page-break-after: always\"></div>
 
-signs of damage or tampering must not be used. The sterility cannot be guaranteed unless the packaging seal remains intact.
-
 For preparation and intravitreal injection the following medical devices for single use are needed:
 
-- -a 5 µm filter needle (18G)
-- -an injection needle (30G x ½″) and a 1 ml sterile syringe (including a 0.05 ml mark)
+- a 5 µm filter needle (18G)
+- an injection needle (30G x ½″) and a 1 ml sterile syringe (including a 0.05 ml mark)
 
 These medical devices are not included within this pack.
 
@@ -734,11 +714,11 @@ The vial, filter needle, and injection needle are for single use only. Re-use ma
 
 For preparation and intravitreal injection the following medical devices for single use are needed:
 
-- -a 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm, provided)
-- -an injection needle (30G x ½″, 0.3 mm x 13 mm, provided)
-- -a 1 ml sterile syringe (including a 0.05 ml mark, not included within this pack)
+- a 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm, provided)
+- an injection needle (30G x ½″, 0.3 mm x 13 mm, provided)
+- a 1 ml sterile syringe (including a 0.05 ml mark, not included within this pack)
 
-To prepare Byooviz for intravitreal administration to adults , please adhere to the following instructions:
+To prepare Byooviz for intravitreal administration to adults, please adhere to the following instructions:
 
 1. Before withdrawal, the outer part of the rubber stopper of the vial should be disinfected.
 2. Assemble a 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm) onto a 1 ml syringe using aseptic technique. Push the blunt filter needle into the centre of the vial stopper until the needle touches the bottom edge of the vial.
@@ -760,7 +740,9 @@ After injection, do not recap the needle or detach it from the syringe. Dispose 
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -771,6 +753,8 @@ EU/1/21/1572/002
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 18 August 2021
+
+Date of latest renewal: 26 May 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -806,17 +790,17 @@ Clear, colourless to pale yellow aqueous solution.
 
 Byooviz is indicated in adults for:
 
-- The treatment of neovascular (wet) age-related macular degeneration  (AMD)
-- The treatment of visual impairment due to diabetic macular oedema  (DME)
+- The treatment of neovascular (wet) age-related macular degeneration (AMD)
+- The treatment of visual impairment due to diabetic macular oedema (DME)
 - The treatment of proliferative diabetic retinopathy (PDR)
 - The treatment of visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO)
-- The treatment of visual impairment due to choroidal neovascularisation  (CNV)
+- The treatment of visual impairment due to choroidal neovascularisation (CNV)
 
 ## 4.2 Posology and method of administration
 
 Byooviz must be administered by a qualified ophthalmologist experienced in intravitreal injections.
 
-## Posology
+Posology
 
 The recommended dose for Byooviz is 0.5 mg given as a single intravitreal injection. This corresponds to an injection volume of 0.05 ml. The interval between two doses injected into the same eye should be at least four weeks.
 
@@ -836,7 +820,7 @@ The treatment of visual impairment due to CNV should be determined individually 
 
 Ranibizumab and laser photocoagulation in DME and in macular oedema secondary to BRVO There is some experience of ranibizumab administered concomitantly with laser photocoagulation (see section 5.1). When given on the same day, ranibizumab should be administered at least 30 minutes after laser photocoagulation. Ranibizumab can be administered in patients who have received previous laser photocoagulation.
 
-Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM
+## Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM
 
 There is no experience of concomitant administration of ranibizumab and verteporfin.
 
@@ -868,7 +852,7 @@ Byooviz should be inspected visually for particulate matter and discolouration p
 
 The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required). The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure (see section 4.4). Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
 
-For information on preparation of Byooviz, see section 6.6.
+## For information on preparation of Byooviz, see section 6.6.
 
 The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. The injection volume of 0.05 ml is then delivered; a different scleral site should be used for subsequent injections. Each prefilled syringe should only be used for the treatment of a single eye.
 
@@ -914,11 +898,11 @@ Ranibizumab should not be administered concurrently with other anti-VEGF medicin
 
 The dose should be withheld and treatment should not be resumed earlier than the next scheduled treatment in the event of:
 
-- a decrease in bestcorrected visual acuity (BCVA) of ≥30 letters compared with the last assessment of visual acuity;
+- a decrease in best-corrected visual acuity (BCVA) of ≥30 letters compared with the last assessment of visual acuity;
 - an intraocular pressure of ≥30 mmHg;
 - a retinal break;
 - a subretinal haemorrhage involving the centre of the fovea, or, if the size of the haemorrhage is ≥ 50%, of the total lesion area;
-- performed or planned intraocular surgery within the previous or next 28  days.
+- performed or planned intraocular surgery within the previous or next 28 days.
 
 ## Retinal pigment epithelial tear
 
@@ -942,13 +926,13 @@ Systemic adverse events including non-ocular haemorrhages and arterial thromboem
 
 <div style=\"page-break-after: always\"></div>
 
-There are limited data on safety in the treatment of DME, macular oedema due to RVO and CNV secondary to PM patients with prior history of stroke or transient ischaemic attacks. Caution should be exercised when treating such patients (see section 4.8) .
+There are limited data on safety in the treatment of DME, macular oedema due to RVO and CNV secondary to PM patients with prior history of stroke or transient ischaemic attacks. Caution should be exercised when treating such patients (see section 4.8).
 
 ## Warnings for excipients
 
 This medicine contains 0.0165 mg of polysorbate 20 (E 432) in each pre-filled syringe (0.165 ml) which is equivalent to 0.005 mg/0.05 ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
-## 4.5 Interaction with other medicinal products and other forms of  interaction
+## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No formal interaction studies have been performed.
 
@@ -1000,58 +984,55 @@ The adverse reactions experienced following administration of ranibizumab in cli
 
 The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| Infections and infestations Very common Common   | Nasopharyngitis Urinary tract infection*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders             | Blood and lymphatic system disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Common                                           | Anaemia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Immune system disorders                          | Immune system disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Common                                           | Hypersensitivity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Psychiatric disorders                            | Psychiatric disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Common                                           | Anxiety                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Nervous system disorders                         | Nervous system disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Very common                                      | Headache                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Eye disorders Very common                        | Vitritis, vitreous detachment, retinal haemorrhage, visual disturbance, eye pain, vitreous floaters, conjunctival haemorrhage, eye irritation, foreign body sensation in eyes, lacrimation increased, blepharitis, dry eye, ocular hyperaemia, eye pruritus.                                                                                                                                                                                                                                                                                                                                                  |
-| Common                                           | Retinal degeneration, retinal disorder, retinal detachment, retinal tear, detachment of the retinal pigment epithelium, retinal pigment epithelium tear, visual acuity reduced, vitreous haemorrhage, vitreous disorder, uveitis, iritis, iridocyclitis, cataract, cataract subcapsular, posterior capsule opacification, punctuate keratitis, corneal abrasion, anterior chamber flare, vision blurred, injection site haemorrhage, eye haemorrhage, conjunctivitis, conjunctivitis allergic, eye discharge, photopsia, photophobia, ocular discomfort, eyelid oedema, eyelid pain, conjunctival hyperaemia. |
-
-<div style=\"page-break-after: always\"></div>
+| Infections and infestations          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Very common                          | Nasopharyngitis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Common                               | Urinary tract infection*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Common                               | Anaemia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Immune system disorders              | Immune system disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Common                               | Hypersensitivity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Psychiatric disorders                | Psychiatric disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Common                               | Anxiety                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Nervous system disorders             | Nervous system disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Very common                          | Headache                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Eye disorders                        | Eye disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Very common                          | Vitritis, vitreous detachment, retinal haemorrhage, visual disturbance, eye pain, vitreous floaters, conjunctival haemorrhage, eye irritation, foreign body sensation in eyes, lacrimation increased, blepharitis, dry eye, ocular hyperaemia, eye pruritus.                                                                                                                                                                                                                                                                                                                                                  |
+| Common                               | Retinal degeneration, retinal disorder, retinal detachment, retinal tear, detachment of the retinal pigment epithelium, retinal pigment epithelium tear, visual acuity reduced, vitreous haemorrhage, vitreous disorder, uveitis, iritis, iridocyclitis, cataract, cataract subcapsular, posterior capsule opacification, punctuate keratitis, corneal abrasion, anterior chamber flare, vision blurred, injection site haemorrhage, eye haemorrhage, conjunctivitis, conjunctivitis allergic, eye discharge, photopsia, photophobia, ocular discomfort, eyelid oedema, eyelid pain, conjunctival hyperaemia. |
 
 Uncommon
 
-Blindness, endophthalmitis, hypopyon, hyphaema, keratopathy, iris adhesion, corneal deposits, corneal oedema, corneal striae, injection site pain, injection site irritation, abnormal sensation in eye, eyelid irritation.
+Not known Blindness, endophthalmitis, hypopyon, hyphaema, keratopathy, iris adhesion, corneal deposits, corneal oedema, corneal striae, injection site pain, injection site irritation, abnormal sensation in eye, eyelid irritation.
+
+Retinal vasculitis**, retinal occlusive vasculitis**
 
 Respiratory, thoracic and mediastinal disorders
 
-Common
-
-Cough
+Common Cough
 
 Gastrointestinal disorders
 
-Common
-
-Nausea
+Common Nausea
 
 Skin and subcutaneous tissue disorders
 
-Common
-
-Allergic reactions (rash, urticaria, pruritus, erythema)
+Common Allergic reactions (rash, urticaria, pruritus, erythema)
 
 Musculoskeletal and connective tissue disorders
 
-Very common
-
-Arthralgia
+Very common Arthralgia
 
 Investigations
 
-Very common
-
-Intraocular pressure increased
+Very common Intraocular pressure increased
 
 # Adverse reactions were defined as adverse events (in at least 0.5 percentage points of patients) which occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with ranibizumab 0.5 mg than in those receiving control treatment (sham or verteporfin PDT).
 
 * observed only in DME population
+
+<div style=\"page-break-after: always\"></div>
+
+** from post-marketing reporting
 
 ## Product-class-related adverse reactions
 
@@ -1071,11 +1052,9 @@ Cases of accidental overdose have been reported from the clinical studies in wet
 
 Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC code: S01LA04
 
-Byooviz is a biosimilar medicinal product. Detailed information is available on the website of the
-
 <div style=\"page-break-after: always\"></div>
 
-European Medicines Agency http://www.ema.europa.eu.
+Byooviz is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
 ## Mechanism of action
 
@@ -1095,15 +1074,14 @@ Key outcome measures are summarised in Table 1 and Figure 1.
 
 Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g (ANCHOR)
 
-|                                                                                      |          | FVF2598g (MARINA)   | FVF2598g (MARINA)          | FVF2587g (ANCHOR)       | FVF2587g (ANCHOR)          |
-|--------------------------------------------------------------------------------------|----------|---------------------|----------------------------|-------------------------|----------------------------|
-| Outcome measure                                                                      | Month    | Sham (n=238)        | Ranibizumab 0.5 mg (n=240) | Verteporfin PDT (n=143) | Ranibizumab 0.5 mg (n=140) |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                 | 95%                        | 64%                     | 96%                        |
-| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                 | 90%                        | 66%                     | 90%                        |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                  | 34%                        | 6%                      | 40%                        |
-| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                  | 33%                        | 6%                      | 41%                        |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5 (16.6)        | +7.2 (14.4)                | -9.5 (16.4)             | +11.3 (14.6)               |
-| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)        | +6.6 (16.5)                | -9.8 (17.6)             | +10.7 (16.5)               |
+| Outcome measure                                                                      | Month    | FVF2598g (MARINA) - Sham (n=238)   | FVF2598g (MARINA) - Ranibizumab 0.5 mg (n=240)   | FVF2587g (ANCHOR) - Verteporfin PDT (n=143)   | FVF2587g (ANCHOR) - Ranibizumab 0.5 mg (n=140)   |
+|--------------------------------------------------------------------------------------|----------|------------------------------------|--------------------------------------------------|-----------------------------------------------|--------------------------------------------------|
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 12 | 62%                                | 95%                                              | 64%                                           | 96%                                              |
+| Loss of <15 letters in visual acuity (%) a (maintenance of vision, primary endpoint) | Month 24 | 53%                                | 90%                                              | 66%                                           | 90%                                              |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 12 | 5%                                 | 34%                                              | 6%                                            | 40%                                              |
+| Gain of ≥15 letters in visual acuity (%) a                                           | Month 24 | 4%                                 | 33%                                              | 6%                                            | 41%                                              |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5 (16.6)                       | +7.2 (14.4)                                      | -9.5 (16.4)                                   | +11.3 (14.6)                                     |
+| Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)                       | +6.6 (16.5)                                      | -9.8 (17.6)                                   | +10.7 (16.5)                                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1117,11 +1095,9 @@ Statistically significant patient-reported visual functioning benefits were obse
 
 In study FVF3192g (PIER), 184 patients with all forms of neovascular AMD were randomised in a 1:1:1 ratio to receive ranibizumab 0.3 mg, ranibizumab 0.5 mg or sham injections once a month for 3 consecutive doses, followed by a dose administered once every 3 months. From Month 14 of the study, sham-treated patients were allowed to receive ranibizumab and from Month 19, more frequent treatments were possible. Patients treated with ranibizumab in PIER received a mean of 10 total treatments.
 
-After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in
+After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better preservation of visual acuity.
 
 <div style=\"page-break-after: always\"></div>
-
-most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better preservation of visual acuity.
 
 Data from two studies (MONT BLANC, BPD952A2308 and DENALI, BPD952A2309) conducted post approval confirmed the efficacy of ranibizumab but did not demonstrate additional effect of the combined administration of verteporfin (Visudyne PDT) and ranibizumab compared to ranibizumab monotherapy.
 
@@ -1129,15 +1105,15 @@ Data from two studies (MONT BLANC, BPD952A2308 and DENALI, BPD952A2309) conducte
 
 The clinical safety and efficacy of ranibizumab in patients with visual impairment due to CNV in PM have been assessed based on the 12-month data of the double-masked, controlled pivotal study F2301 (RADIANCE). In this study 277 patients were randomised in a 2:2:1 ratio to the following arms:
 
-- Group I (ranibizumab 0.5 mg, dosing regimen driven by 'stability' criteria defined as no change in BCVA compared to two preceding monthly evaluations).
-- Group II (ranibizumab 0.5 mg, dosing regimen driven by 'disease activity' criteria defined as vision impairment attributable to intra- or subretinal fluid or active leakage due to the CNV lesion as assessed by optical coherence tomography and/or fluorescence angiography).
+- Group I (ranibizumab 0.5 mg, dosing regimen driven by \"stability\" criteria defined as no change in BCVA compared to two preceding monthly evaluations).
+- Group II (ranibizumab 0.5 mg, dosing regimen driven by \"disease activity\" criteria defined as vision impairment attributable to intra- or subretinal fluid or active leakage due to the CNV lesion as assessed by optical coherence tomography and/or fluorescence angiography).
 - Group III (vPDT - patients were allowed to receive ranibizumab treatment as of Month 3). In Group II, which is the recommended posology (see section 4.2), 50.9% of patients required 1 or 2 injections, 34.5% required 3 to 5 injections and 14.7% required 6 to 12 injections over the 12-month study period. 62.9% of Group II patients did not require injections in the second 6 months of the study.
 
 The key outcomes from RADIANCE are summarised in Table 2 and Figure 2.
 
 Table 2 Outcomes at Month 3 and 12 (RADIANCE)
 
-|                                                                                   | Group I Ranibizumab 0.5 mg 'vision stability' (n=105)   | Group II Ranibizumab 0.5 mg 'disease activity' (n=116)   | Group III vPDT b (n=55)   |
+|                                                                                   | Group I Ranibizumab 0.5 mg \"vision stability\" (n=105)   | Group II Ranibizumab 0.5 mg \"disease activity\" (n=116)   | Group III vPDT b (n=55)   |
 |-----------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|---------------------------|
 | Month 3                                                                           |                                                         |                                                          |                           |
 | Mean average BCVA change from Month 1 to Month 3 compared to baseline a (letters) | +10.5                                                   | +10.6                                                    | +2.2                      |
@@ -1149,10 +1125,6 @@ Table 2 Outcomes at Month 3 and 12 (RADIANCE)
 | Mean average BCVA change from Month 1 to Month 12 compared to baseline (letters)  | +12.8                                                   | +12.5                                                    | N/A                       |
 | Proportion of patients who gained: ≥15 letters, or reached ≥84 letters in BCVA    | 53.3%                                                   | 51.7%                                                    | N/A                       |
 
-a p&lt;0.00001 comparison with vPDT control
-
-b Comparative control up to Month 3. Patients randomised to vPDT were allowed to receive ranibizumab treatment as of Month 3 (in Group III, 38 patients received ranibizumab as of Month 3)
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 2 Mean change from baseline BCVA over time to Month 12 (RADIANCE)
@@ -1161,7 +1133,7 @@ Figure 2 Mean change from baseline BCVA over time to Month 12 (RADIANCE)
 
 The improvement of vision was accompanied by a reduction in central retinal thickness.
 
-Patient-reported benefits were observed with ranibizumab treatment arms over vPDT (pvalue &lt;0.05) in terms of improvement in the composite score and several subscales (general vision, near activities, mental health and dependency) of the NEI VFQ-25.
+Patient-reported benefits were observed with ranibizumab treatment arms over vPDT (p-value &lt;0.05) in terms of improvement in the composite score and several subscales (general vision, near activities, mental health and dependency) of the NEI VFQ-25.
 
 ## Treatment of visual impairment due to CNV (other than secondary to PM and wet AMD)
 
@@ -1174,11 +1146,9 @@ At Month 2, all patients received open-label treatment with ranibizumab as neede
 
 Key outcome measures from MINERVA are summarised in Table 3 and Figure 3. An improvement of vision was observed and was accompanied by a reduction in central subfield thickness over the 12-month period.
 
-The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye
+The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
 
 <div style=\"page-break-after: always\"></div>
-
-during the 12-month period.
 
 Table 3 Outcomes at Month 2 (MINERVA)
 
@@ -1193,22 +1163,22 @@ Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
 <!-- image -->
 
-Sham(N=59)
+Treatment: —0 Ranibizumab 0.5 mg (N=119)
 
-ObservedmeanBCVAmaydifferfrom theLeastSquaresMeanBCVA (applicable only at Month 2)
+Sham (N=59)
 
-Treatment:—oRanibizumab0.5mg(N=119)
+* Observed mean BCVA may differ from the Least Squares Mean BCVA (applicable only at Month 2)
 
 When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
 
-Table 4 Treatment effect overall and across baseline aetiology  subgroups
+Table 4 Treatment effect overall and across baseline aetiology subgroups
 
 | Overall and per baseline aetiology    |   Treatment effect over sham [letters] |   Patient numbers [n] (treatment +sham) |
 |---------------------------------------|----------------------------------------|-----------------------------------------|
 | Overall                               |                                    9.9 |                                     178 |
 | Angioid streaks                       |                                   14.6 |                                      27 |
 | Post-inflammatory retinochoroidopathy |                                    6.5 |                                      28 |
-| Central serous chorioretinopathy      |                                    5   |                                      23 |
+| Central serous chorioretinopathy      |                                    5.0 |                                      23 |
 | Idiopathic chorioretinopathy          |                                   11.4 |                                      63 |
 | Miscellaneous aetiologies a           |                                   10.6 |                                      37 |
 
@@ -1226,26 +1196,26 @@ In the phase III study D2301 (RESTORE), 345 patients were randomised in a 1:1:1 
 
 Key outcome measures are summarised in Table 5 (RESTORE and Extension) and Figure 4 (RESTORE).
 
-Figure 4 Mean change in visual acuity from baseline over time in study D2301  (RESTORE)
+Figure 4 Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
 
 <!-- image -->
 
 BL=baseline; SE=standard error of mean
 
-* Difference in least square means, p &lt; 0.0001/0.0004 based on two-sided stratified Cochran-MantelHaenszel test
+* Difference in least square means, p&lt;0.0001/0.0004 based on two-sided stratified Cochran-MantelHaenszel test
 
 Laser (N=110)
 
 <div style=\"page-break-after: always\"></div>
 
-The effect at 12 months was consistent in most subgroups. However, subjects with a baseline BCVA &gt;73 letters and macular oedema with centra l retinal thickness &lt;300 µm did not appear to benefit from treatment with ranibizumab compared to laser photocoagulation.
+The effect at 12 months was consistent in most subgroups. However, subjects with a baseline BCVA &gt;73 letters and macular oedema with central retinal thickness &lt;300 µm did not appear to benefit from treatment with ranibizumab compared to laser photocoagulation.
 
 Table 5 Outcomes at Month 12 in study D2301 (RESTORE) and at Month 36 in study D2301-E1 (RESTORE Extension)
 
 | Outcome measures at Month 12 compared to baseline in study D2301 (RESTORE)                             | Ranibizumab 0.5 mg n=115      | Ranibizumab 0.5 mg + Laser n=118      | Laser n=110      |
 |--------------------------------------------------------------------------------------------------------|-------------------------------|---------------------------------------|------------------|
-| Mean average change in BCVA from Month 1 to Month 12 a ( ± SD)                                         | 6.1 (6.4) a                   | 5.9 (7.9) a                           | 0.8 (8.6)        |
-| Mean change in BCVA at Month 12 ( ± SD)                                                                | 6.8 (8.3) a                   | 6.4 (11.8) a                          | 0.9 (11.4)       |
+| Mean average change in BCVA from Month 1 to Month 12 a (±SD)                                           | 6.1 (6.4) a                   | 5.9 (7.9) a                           | 0.8 (8.6)        |
+| Mean change in BCVA at Month 12 (±SD)                                                                  | 6.8 (8.3) a                   | 6.4 (11.8) a                          | 0.9 (11.4)       |
 | Gain of ≥15 letters or BCVA ≥84 letters at Month 12 (%)                                                | 22.6                          | 22.9                                  | 8.2              |
 | Mean number of injections (Months 0-11)                                                                | 7.0                           | 6.8                                   | 7.3 (sham)       |
 | Outcome measure at Month 36 compared to D2301 (RESTORE) baseline in study D2301-E1 (RESTORE Extension) | Prior ranibizumab 0.5 mg n=83 | Prior ranibizumab 0.5 mg + laser n=83 | Prior laser n=74 |
@@ -1298,30 +1268,29 @@ Protocol S was a multicentre, randomised, active-controlled, parallel-assignment
 
 In this study, the mean visual acuity change at year 2 was +2.7 letters in the ranibizumab group compared to -0.7 letters in the PRP group. The difference in least square means was 3.5 letters (95% CI: [0.2 to 6.7]).
 
-At year 1, 41.8% of eyes experienced a ≥2 -step improvement in the DRSS when treated with ranibizumab (n=189) compared to 14.6% of eyes treated with PRP (n=199). The estimated difference between ranibizumab and laser was 27.4% (95% CI: [18.9, 35.9]).
+At year 1, 41.8% of eyes experienced a ≥2-step improvement in the DRSS when treated with ranibizumab (n=189) compared to 14.6% of eyes treated with PRP (n=199). The estimated difference between ranibizumab and laser was 27.4% (95% CI: [18.9, 35.9]).
 
 <div style=\"page-break-after: always\"></div>
 
 Table 7 DRSS improvement or worsening of ≥2 or ≥3 steps at year 1 in Protocol S (LOCF Method)
 
-| Categorised change from baseline                                                                                                           | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Categorised change from baseline                                                                                                           | Ranibizumab 0.5 mg (N=189)                                                                                                                 | PRP (N=199)                                                                                                                                | Difference in proportion (%), CI                                                                                                           |
-| ≥2 -step improvement                                                                                                                       | ≥2 -step improvement                                                                                                                       | ≥2 -step improvement                                                                                                                       | ≥2 -step improvement                                                                                                                       |
-| n (%)                                                                                                                                      | 79 (41.8%)                                                                                                                                 | 29 (14.6%)                                                                                                                                 | 27.4 (18.9, 35.9)                                                                                                                          |
-| ≥3 -step improvement                                                                                                                       | ≥3 -step improvement                                                                                                                       | ≥3 -step improvement                                                                                                                       | ≥3 -step improvement                                                                                                                       |
-| n (%)                                                                                                                                      | 54 (28.6%)                                                                                                                                 | 6 (3.0%)                                                                                                                                   | 25.7 (18.9, 32.6)                                                                                                                          |
-| ≥2 -step worsening                                                                                                                         | ≥2 -step worsening                                                                                                                         | ≥2 -step worsening                                                                                                                         | ≥2 -step worsening                                                                                                                         |
-| n (%)                                                                                                                                      | 3 (1.6%)                                                                                                                                   | 23 (11.6%)                                                                                                                                 | -9.9 (-14.7, -5.2)                                                                                                                         |
-| ≥3 -step worsening                                                                                                                         | ≥3 -step worsening                                                                                                                         | ≥3 -step worsening                                                                                                                         | ≥3 -step worsening                                                                                                                         |
-| n (%)                                                                                                                                      | 1 (0.5%)                                                                                                                                   | 8 (4.0%)                                                                                                                                   | -3.4 (-6.3, -0.5)                                                                                                                          |
-| DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit,N= total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit,N= total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit,N= total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit,N= total number of study eyes. |
+| Categorised change from baseline                                                                                                             | Protocol S - Ranibizumab 0.5 mg (N=189)                                                                                                      | Protocol S - PRP (N=199)                                                                                                                     | Protocol S - Difference in proportion (%), CI                                                                                                |
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          | ≥2-step improvement                                                                                                                          |
+| n (%)                                                                                                                                        | 79 (41.8%)                                                                                                                                   | 29 (14.6%)                                                                                                                                   | 27.4 (18.9, 35.9)                                                                                                                            |
+| ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          | ≥3-step improvement                                                                                                                          |
+| n (%)                                                                                                                                        | 54 (28.6%)                                                                                                                                   | 6 (3.0%)                                                                                                                                     | 25.7 (18.9, 32.6)                                                                                                                            |
+| ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            | ≥2-step worsening                                                                                                                            |
+| n (%)                                                                                                                                        | 3 (1.6%)                                                                                                                                     | 23 (11.6%)                                                                                                                                   | -9.9 (-14.7, -5.2)                                                                                                                           |
+| ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            | ≥3-step worsening                                                                                                                            |
+| n (%)                                                                                                                                        | 1 (0.5%)                                                                                                                                     | 8 (4.0%)                                                                                                                                     | -3.4 (-6.3, -0.5)                                                                                                                            |
+| DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. |
 
-At year 1 in the ranibizumabtreated group in Protocol S, ≥2 -step improvement in DRSS was consistent in eyes without DME (39.9%) and with baseline DME (48.8%).
+At year 1 in the ranibizumab-treated group in Protocol S, ≥2-step improvement in DRSS was consistent in eyes without DME (39.9%) and with baseline DME (48.8%).
 
-An analysis of year 2 data from Protocol S demonstrated that 42.3% (n=80) of eyes in the ranibizumab-treated gro up had ≥2 -step improvement in DRSS from baseline compared with 23.1% (n=46) of eyes in the PRP group. In the ranibizumabtreated group, ≥2 -step improvement in DRSS from baseline was observed in 58.5% (n=24) of eyes with baseline DME and 37.8% (n=56) of eyes without DME.
+An analysis of year 2 data from Protocol S demonstrated that 42.3% (n=80) of eyes in the ranibizumab-treated group had ≥2-step improvement in DRSS from baseline compared with 23.1% (n=46) of eyes in the PRP group. In the ranibizumab-treated group, ≥2-step improvement in DRSS from baseline was observed in 58.5% (n=24) of eyes with baseline DME and 37.8% (n=56) of eyes without DME.
 
-DRSS was also assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin. In a meta-analysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥2 -step improvement in the DRSS at Month 12 when treated with ranibizumab (n=192) vs 14.6% of patients treated with laser (n=123). The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]). In the 405 DRSS gradable patients with moderate NPDR or better, a ≥2 -step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
+DRSS was also assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin. In a meta-analysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥2-step improvement in the DRSS at Month 12 when treated with ranibizumab (n=192) vs 14.6% of patients treated with laser (n=123). The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]). In the 405 DRSS gradable patients with moderate NPDR or better, a ≥2-step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
 
 ## Treatment of visual impairment due to macular oedema secondary to RVO
 
@@ -1333,14 +1302,13 @@ Key outcome measures from BRAVO and CRUISE are summarised in Table 8 and Figures
 
 Table 8 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 
-|                                                                             | BRAVO                            | BRAVO                      | CRUISE                           | CRUISE                     |
-|-----------------------------------------------------------------------------|----------------------------------|----------------------------|----------------------------------|----------------------------|
-|                                                                             | Sham/ Ranibizumab 0.5 mg (n=132) | Ranibizumab 0.5 mg (n=131) | Sham/ Ranibizumab 0.5 mg (n=130) | Ranibizumab 0.5 mg (n=130) |
-| Mean change in visual acuity at Month 6 a (letters) (SD) (primary endpoint) | 7.3 (13.0)                       | 18.3 (13.2)                | 0.8 (16.2)                       | 14.9 (13.2)                |
-| Mean change in BCVA at Month 12 (letters) (SD)                              | 12.1 (14.4)                      | 18.3 (14.6)                | 7.3 (15.9)                       | 13.9 (14.2)                |
-| Gain of ≥15 letters in visual acuity at Month 6 a (%)                       | 28.8                             | 61.1                       | 16.9                             | 47.7                       |
-| Gain of ≥15 letters in visual acuity at Month 12 (%)                        | 43.9                             | 60.3                       | 33.1                             | 50.8                       |
-| Proportion (%) receiving laser rescue over 12 months                        | 61.4                             | 34.4                       | NA                               | NA                         |
+|                                                                             | BRAVO - Sham/ Ranibizumab 0.5 mg (n=132)   | BRAVO - Ranibizumab 0.5 mg (n=131)   | CRUISE - Sham/ Ranibizumab 0.5 mg (n=130)   | CRUISE - Ranibizumab 0.5 mg (n=130)   |
+|-----------------------------------------------------------------------------|--------------------------------------------|--------------------------------------|---------------------------------------------|---------------------------------------|
+| Mean change in visual acuity at Month 6 a (letters) (SD) (primary endpoint) | 7.3 (13.0)                                 | 18.3 (13.2)                          | 0.8 (16.2)                                  | 14.9 (13.2)                           |
+| Mean change in BCVA at Month 12 (letters) (SD)                              | 12.1 (14.4)                                | 18.3 (14.6)                          | 7.3 (15.9)                                  | 13.9 (14.2)                           |
+| Gain of ≥15 letters in visual acuity at Month 6 a (%)                       | 28.8                                       | 61.1                                 | 16.9                                        | 47.7                                  |
+| Gain of ≥15 letters in visual acuity at Month 12 (%)                        | 43.9                                       | 60.3                                 | 33.1                                        | 50.8                                  |
+| Proportion (%) receiving laser rescue over 12 months                        | 61.4                                       | 34.4                                 | NA                                          | NA                                    |
 
 a p&lt;0.0001 for both studies
 
@@ -1348,7 +1316,7 @@ Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO
 
 <!-- image -->
 
-BL=baseline;SE=standard error ofmean
+BL=baseline; SE=standard error of mean
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1356,7 +1324,7 @@ Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUIS
 
 <!-- image -->
 
-BL=baseline;SE=standard error of mean
+BL=baseline; SE=standard error of mean
 
 In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
@@ -1372,17 +1340,16 @@ Key outcome measures from BRIGHTER and CRYSTAL are shown in Table 9.
 
 Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 
-|                                                                                  | BRIGHTER                 | BRIGHTER                         | BRIGHTER      | CRYSTAL                  |
-|----------------------------------------------------------------------------------|--------------------------|----------------------------------|---------------|--------------------------|
-|                                                                                  | Ranibizumab 0.5 mg N=180 | Ranibizumab 0.5 mg + Laser N=178 | Laser* N=90   | Ranibizumab 0.5 mg N=356 |
-| Mean change in BCVA at Month 6 a (letters) (SD)                                  | +14.8 (10.7)             | +14.8 (11.13)                    | +6.0 (14.27)  | +12.0                    |
-| Mean change in BCVA at Month 24 b                                                | +15.5 (13.91)            | +17.3 (12.61)                    | +11.6 (16.09) | (13.95)                  |
-| (letters) (SD) Gain of                                                           |                          |                                  |               | +12.1 (18.60)            |
-| ≥15 letters in BCVA at Month 24 (%) Mean number of injections (SD) (Months 0-23) | 52.8                     | 59.6 11.3 (6.02)                 | 43.3          | 49.2 13.1 (6.39)         |
-|                                                                                  | 11.4 (5.81)              |                                  | NA            |                          |
+|                                                  | BRIGHTER - Ranibizumab 0.5 mg N=180   | BRIGHTER - Ranibizumab 0.5 mg + Laser N=178   | BRIGHTER - Laser* N=90   | CRYSTAL - Ranibizumab 0.5 mg N=356   |
+|--------------------------------------------------|---------------------------------------|-----------------------------------------------|--------------------------|--------------------------------------|
+| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)                          | +14.8 (11.13)                                 | +6.0 (14.27)             | +12.0 (13.95)                        |
+| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)                         | +17.3 (12.61)                                 | +11.6 (16.09)            | (18.60)                              |
+| Gain of ≥15 letters in BCVA at Month 24 (%)      | 52.8                                  | 59.6                                          | 43.3                     | +12.1 49.2                           |
+| Mean number of injections (SD) (Months 0-23)     | (5.81)                                | 11.3 (6.02)                                   |                          | 13.1 (6.39)                          |
+|                                                  | 11.4                                  |                                               | NA                       |                                      |
 
 - a p&lt;0.0001 for both comparisons in BRIGHTER at Month 6: Ranibizumab 0.5 mg vs Laser and Ranibizumab 0.5 mg + Laser vs Laser.
-- b p&lt;0.0001 for null hypothesis in CRYSTAL that the mean change at Month 24  from baseline is zero.
+- b p&lt;0.0001 for null hypothesis in CRYSTAL that the mean change at Month 24 from baseline is zero.
 * Starting at Month 6 ranibizumab 0.5 mg treatment was allowed (24 patients were treated with laser only).
 
 In BRIGHTER, ranibizumab 0.5 mg with adjunctive laser therapy demonstrated non-inferiority versus ranibizumab monotherapy from baseline to Month 24 (95% CI -2.8, 1.4).
@@ -1391,7 +1358,7 @@ In both studies, a rapid and statistically significant decrease from baseline in
 
 The effect of ranibizumab treatment was similar irrespective of the presence of retinal ischaemia. In BRIGHTER, patients with ischaemia present (N=46) or absent (N=133) and treated with ranibizumab monotherapy had a mean change from baseline of +15.3 and +15.6 letters, respectively, at Month 24. In CRYSTAL, patients with ischaemia present (N=53) or absent (N=300) and treated with ranibizumab monotherapy had a mean change from baseline of +15.0 and +11.5 letters, respectively.
 
-The effect in terms of visual improvement was observed in all patients treated with 0.5 mg ranibizumab monotherapy regardless of their disease duration in both BRIGHTER and CRYSTAL. In patients with &lt;3 months disease duration an increase in visual acuity of 13.3 and 10.0 letters was seen at Month 1; and 17.7 and 13.2 letters at Month 24 in BRIGHTER and CRYSTAL, respectively. The corr esponding visual acuity gain in patients with ≥12 months disease duration was 8.6 and 8.4 letters in the respective studies. Treatment initiation at the time of diagnosis should be considered.
+The effect in terms of visual improvement was observed in all patients treated with 0.5 mg ranibizumab monotherapy regardless of their disease duration in both BRIGHTER and CRYSTAL. In patients with &lt;3 months disease duration an increase in visual acuity of 13.3 and 10.0 letters was seen at Month 1; and 17.7 and 13.2 letters at Month 24 in BRIGHTER and CRYSTAL, respectively. The corresponding visual acuity gain in patients with ≥12 months disease duration was 8.6 and 8.4 letters in the respective studies. Treatment initiation at the time of diagnosis should be considered.
 
 The long-term safety profile of ranibizumab observed in the 24-month studies is consistent with the known ranibizumab safety profile.
 
@@ -1433,7 +1400,7 @@ The absence of ranibizumab-mediated effects on embryo-foetal development is plau
 
 ## 6.1 List of excipients
 
-α,α -trehalose dihydrate Histidine hydrochloride, monohydrate Histidine Polysorbate 20 (E 432) Water for injections
+α,α-trehalose dihydrate Histidine hydrochloride, monohydrate Histidine Polysorbate 20 (E 432) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -1445,7 +1412,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C). Do not freeze. Keep the pre-filled syringe in its sealed tray in the carton in order to protect from light. Prior to use, the unopened tray may be stored at temperatures not exceeding 30°C for up to 1 week.
+Store in a refrigerator (2°C - 8°C). Do not freeze.
+
+Keep the pre-filled syringe in its sealed tray in the carton in order to protect from light. Prior to use, the unopened tray may be stored at temperatures not exceeding 30°C for up to 1 week.
 
 ## 6.5 Nature and contents of container
 
@@ -1459,11 +1428,9 @@ The pre-filled syringe is sterile and is for single use only. Do not use the pro
 
 To prepare Byooviz for intravitreal administration, please adhere to the instructions for use. Read all the instructions carefully before using the pre-filled syringe.
 
-The opening of the sealed tray and all subsequent steps should be done under aseptic conditions, which
+The opening of the sealed tray and all subsequent steps should be done under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required).
 
 <div style=\"page-break-after: always\"></div>
-
-includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required).
 
 For the intravitreal injection, a 30-gauge x ½ inch sterile injection needle should be used (not provided).
 
@@ -1476,10 +1443,10 @@ The pre-filled syringe contains more than the recommended dose of 0.5 mg. The ex
 | Step 1: Prepare                        | • Make sure that your pack contains a sterile pre-filled syringe in a sealed tray. • Keep the syringe in the sterile tray until ready for use. • Peel the lid off the syringe tray and, using aseptic technique, remove the syringe.                                                                                                                                                                                                                                                                                                              |
 |----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Step 2: Inspect syringe                | • Byooviz should be colourless to pale yellow. • Do not use the pre-filled syringe if: - particulates, cloudiness, or discolouration are visible. - the syringe is damaged. - the syringe cap is not fully closed. - the gray rubber is visible in the transparent part of the syringe cap when holding the syringe vertically at eye level, indicating that the syringe has been tampered with. Note: The plunger rod is completely or partially attached to the rubber stopper. Do not attempt to attach the plunger rod to the rubber stopper. |
-| Step 3: Remove syringe cap             | • Twist off ( do not pull or snap off) the syringe cap by holding the syringe in one hand and the syringe cap with the thumb and forefinger of the other hand.                                                                                                                                                                                                                                                                                                                                                                                    |
-| Step 4: Attach needle                  | • Attach a 30 G x ½inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock. • Carefully remove the needle cap by pulling it straight off, when you are ready to administer Byooviz. Note: Do not wipe the needle at any time.                                                                                                                                                                                                                                                                             |
+| Step 3: Remove syringe cap             | • Twist off (do not pull or snap off) the syringe cap by holding the syringe in one hand and the syringe cap with the thumb and forefinger of the other hand.                                                                                                                                                                                                                                                                                                                                                                                     |
+| Step 4: Attach needle                  | • Attach a 30 G x ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock. • Carefully remove the needle cap by pulling it straight off, when you are ready to administer Byooviz. Note: Do not wipe the needle at any time.                                                                                                                                                                                                                                                                            |
 | Step 5: Dislodge air bubbles           | • Hold the syringe upright with the needle pointing up. • If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top. Note: Do not pull back on the plunger rod at any time, to avoid compromising the sterility of the product.                                                                                                                                                                                                                                                                     |
-| Step 6: Expel air and adjust drug dose | • Hold the syringe at eye level. • Look closely and locate the translucent dose mark . • Carefully push the plunger rod until the upper edge below the dome of the rubber stopper is aligned with the 0.05 ml translucent dose mark. • You may feel resistance when the rubber stopper contacts the dose mark. The resistance indicates the correct dosing volume of BYOOVIZ has been reached.                                                                                                                                                    |
+| Step 6: Expel air and adjust drug dose | • Hold the syringe at eye level. • Look closely and locate the translucent dose mark. • Carefully push the plunger rod until the upper edge below the dome of the rubber stopper is aligned with the 0.05 ml translucent dose mark. • You may feel resistance when the rubber stopper contacts the dose mark. The resistance indicates the correct dosing volume of BYOOVIZ has been reached.                                                                                                                                                     |
 | Step 7: Inject                         | • The injection procedure should be carried out under aseptic conditions. • Insert the needle into the injection site. • Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 ml. • A different scleral site should be used for subsequent injections.                                                                                                                                                                                                                                              |
 | Step 8: Dispose                        | Note: After injection, do not recap the needle or detach it from the syringe. This could lead to a needle stick injury. • The pre-filled syringe is for single use only. Extraction of multiple doses from a pre- filled syringe may increase the risk of contamination and subsequent infection.                                                                                                                                                                                                                                                 |
 
@@ -1489,7 +1456,9 @@ The pre-filled syringe contains more than the recommended dose of 0.5 mg. The ex
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1498,6 +1467,8 @@ EU/1/21/1572/003
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 18 August 2021
+
+Date of latest renewal: 26 May 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1509,7 +1480,8 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE
 2. SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1521,7 +1493,11 @@ Wacker Biotech GmbH Hans-Knöll-Straße 3 07745 Jena Germany
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL B.V.
+
+Olof Palmestraat 10 2616 LR Delft
+
+The Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1556,11 +1532,11 @@ The MAH shall ensure that in each Member State where Byooviz is marketed, all op
 
 The patient information pack should be provided in both the form of patient information booklets and an audio file that contain following key elements:
 
-- -Patient information leaflet
-- -How to prepare for Byooviz treatment
-- -What are the steps following treatment with Byooviz
-- -Key signs and symptoms of serious adverse events including increased intraocular pressure, intraocular inflammation, retinal detachment and retinal tear, and infectious endophthalmitis
-- -When to seek urgent attention from the health care provider
+- Patient information leaflet
+- How to prepare for Byooviz treatment
+- What are the steps following treatment with Byooviz
+- Key signs and symptoms of serious adverse events including increased intraocular pressure, intraocular inflammation, retinal detachment and retinal tear, and infectious endophthalmitis
+- When to seek urgent attention from the health care provider
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1582,7 +1558,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Byooviz 10 mg/ml solution for injection ranibizumab
+Byooviz 10 mg/ml solution for injection
+
+ranibizumab
 
 2.3 mg/0.23 ml
 
@@ -1592,7 +1570,7 @@ One ml contains 10 mg of ranibizumab. Each vial contains 2.3 mg ranibizumab in 0
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: α,α -trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections. See package leaflet for further information.
+Also contains: α,α-trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1624,62 +1602,72 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-## 9. SPECIAL STORAGE CONDITIONS
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+The Netherlands
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/21/1572/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC
-
-SN
-
-<div style=\"page-break-after: always\"></div>
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL                                                            |
-| VIAL                                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL                                                              |
+| VIAL                                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Byooviz 10 mg/ml Injection ranibizumab Intravitreal use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1691,8 +1679,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2.3 mg/0.23 ml
 
@@ -1709,7 +1697,9 @@ VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Byooviz 10 mg/ml solution for injection ranibizumab
+Byooviz 10 mg/ml solution for injection
+
+ranibizumab
 
 2.3 mg/0.23 ml
 
@@ -1719,7 +1709,7 @@ One ml contains 10 mg of ranibizumab. Each vial contains 2.3 mg ranibizumab in 0
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: α,α -trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections. See package leaflet for further information.
+Also contains: α,α-trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1747,62 +1737,71 @@ Keep out of the sight and reach of children.
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+The Netherlands
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/21/1572/002
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL                                                              |
+| VIAL                                                               |
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL                                                            |
-| VIAL                                                             |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Byooviz 10 mg/ml Injection ranibizumab Intravitreal use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1814,8 +1813,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2.3 mg/0.23 ml
 
@@ -1832,7 +1831,9 @@ PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Byooviz 10 mg/ml solution for injection in pre-filled syringe ranibizumab
+Byooviz 10 mg/ml solution for injection in pre-filled syringe
+
+ranibizumab
 
 1.65 mg/0.165 ml
 
@@ -1844,7 +1845,7 @@ Each pre-filled syringe contains 1.65 mg of ranibizumab in 0.165 ml solution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: α,α -trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections. See package leaflet for further information.
+Also contains: α,α-trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1932,46 +1933,17 @@ BLISTER FOIL
 
 ## PRE-FILLED SYRINGE
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Byooviz 10 mg/ml solution for injection in pre-filled syringe ranibizumab Intravitreal use
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Samsung Bioepis NL B.V.
 
 Olof Palmestraat 10 2616 LR Delft The Netherlands
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
-
-1.65 mg/0.165 ml
-
-OPEN
-
-0.05 ml translucent dose mark
-
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL                                                            |
-| PRE-FILLED SYRINGE                                               |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
-
-Byooviz 10 mg/ml solution for injection ranibizumab Intravitreal use
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1983,8 +1955,36 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | OTHER   |
+|------|---------|
+
+1.65 mg/0.165 ml OPEN
+
+0.05 ml translucent dose mark Byooviz 10 mg/ml solution for injection ranibizumab Intravitreal use EXP
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL                                                              |
+| PRE-FILLED SYRINGE                                                 |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.65 mg/0.165 ml
 
@@ -1997,23 +1997,13 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-## Package leaflet: Information for the adult patient
-
-## Byooviz 10 mg/ml solution for injection
-
-## ranibizumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
 ## ADULTS
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2036,8 +2026,8 @@ Byooviz is used in adults to treat several eye diseases causing vision impairmen
 
 These diseases result from damage to the retina (light-sensitive layer at the back of the eye) caused by:
 
-- -Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
-- -Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
+- Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
+- Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
 
 ## How Byooviz works
 
@@ -2045,25 +2035,31 @@ Byooviz specifically recognises and binds to a protein called human vascular end
 
 In these diseases, Byooviz can help to stabilise and in many cases improve your vision.
 
+## Package leaflet: Information for the adult patient
+
+## Byooviz 10 mg/ml solution for injection
+
+## ranibizumab
+
 <div style=\"page-break-after: always\"></div>
 
 ## 2. What you need to know before you are given Byooviz
 
 ## You must not receive Byooviz
 
-- -If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in section 6).
-- -If you have an infection in or around your eye.
-- -If you have pain or redness (severe intraocular inflammation) in your eye.
+- If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in section 6).
+- If you have an infection in or around your eye.
+- If you have pain or redness (severe intraocular inflammation) in your eye.
 
 ## Warnings and precautions
 
 Talk to your doctor before you are given Byooviz.
 
-- -Byooviz is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Byooviz treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
-- -In some patients the eye pressure may increase for a short period directly after the injection. This is something you may not notice, therefore your doctor may monitor this after each injection.
-- -Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Byooviz is the appropriate treatment for you.
+- Byooviz is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Byooviz treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
+- In some patients the eye pressure may increase for a short period directly after the injection. This is something you may not notice, therefore your doctor may monitor this after each injection.
+- Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Byooviz is the appropriate treatment for you.
 
-Please see section 4 ('Possible side effects') for more detailed information on side effects that could occur during Byooviz therapy.
+Please see section 4 (\"Possible side effects\") for more detailed information on side effects that could occur during Byooviz therapy.
 
 ## Children and adolescents (below 18 years of age)
 
@@ -2075,9 +2071,9 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy and breast-feeding
 
-- -Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Byooviz.
-- -There is no experience of using Byooviz in pregnant women. Byooviz should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child.  If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Byooviz.
-- -Small amounts of ranibizumab  may pass into breast milk, therefore Byooviz is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Byooviz treatment.
+- Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Byooviz.
+- There is no experience of using Byooviz in pregnant women. Byooviz should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Byooviz.
+- Small amounts of ranibizumab may pass into breast milk, therefore Byooviz is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Byooviz treatment.
 
 ## Driving and using machines
 
@@ -2097,7 +2093,7 @@ Before the injection, your doctor will wash your eye carefully to prevent infect
 
 The treatment is started with one injection of Byooviz per month. Your doctor will monitor the condition of your eye and, depending on how you respond to the treatment, will decide if and when you need to receive further treatment.
 
-Detailed instructions for use are given at the end of the leaflet under 'How to prepare and administer Byooviz'.
+Detailed instructions for use are given at the end of the leaflet under \"How to prepare and administer Byooviz\".
 
 ## Elderly (age 65 years and over)
 
@@ -2121,27 +2117,33 @@ Common serious side effects (may affect up to 1 in 10 people): Detachment or tea
 
 Uncommon serious side effects (may affect up to 1 in 100 people): Blindness, infection of the eyeball (endophthalmitis) with inflammation of the inside of the eye.
 
-The symptoms you might experience are pain or increased discomfort in your eye, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light. Please tell your doctor immediately if you develop any of these side effects .
+The symptoms you might experience are pain or increased discomfort in your eye, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light. Please tell your doctor immediately if you develop any of these side effects.
 
 The most frequently reported side effects are described below:
 
-Very common side effects (may affect more than 1 in 10 people)
+## Very common side effects (may affect more than 1 in 10 people)
 
-Visual side effects include: Inflammation of the eye, bleeding in the back of the eye (retinal bleeding), visual disturbances, eye pain, small particles or spots in your vision (floaters), bloodshot eye, eye irritation, a feeling of having something in the eye, increased tear production, inflammation or infection of the eyelid margins, dry eye, redness or itching of the eye and increased eye pressure. Non-visual side effects include: Sore throat, nasal congestion, runny nose, headache and joint pain.
+Visual side effects include: Inflammation of the eye, bleeding in the back of the eye (retinal bleeding), visual disturbances, eye pain, small particles or spots in your vision (floaters), bloodshot eye, eye irritation, a feeling of having something in the eye, increased tear production, inflammation or infection of the eyelid margins, dry eye, redness or itching of the eye and increased eye pressure.
+
+Non-visual side effects include: Sore throat, nasal congestion, runny nose, headache and joint pain.
 
 Other side effects which may occur following Byooviz treatment are described below:
 
 ## Common side effects
 
-Visual side effects include: Decreased sharpness of vision, swelling of a section of the eye (uvea, cornea), inflammation of the cornea (front part of eye), small marks on the surface of the eye, blurred
+Visual side effects include: Decreased sharpness of vision, swelling of a section of the eye (uvea, cornea), inflammation of the cornea (front part of eye), small marks on the surface of the eye, blurred vision, bleeding at the site of injection, bleeding in the eye, discharge from the eye with itching, redness and swelling (conjunctivitis), light sensitivity, eye discomfort, swelling of the eyelid, eyelid pain. Non-visual side effects include: Urinary tract infection, low red blood cells count (with symptoms such as tiredness, breathlessness, dizziness, pale skin), anxiety, cough, nausea, allergic reactions like rash, hives, itching and skin reddening.
 
 <div style=\"page-break-after: always\"></div>
-
-vision, bleeding at the site of injection, bleeding in the eye, discharge from the eye with itching, redness and swelling (conjunctivitis), light sensitivity, eye discomfort, swelling of the eyelid, eyelid pain. Non-visual side effects include: Urinary tract infection, low red blood cells count (with symptoms such as tiredness, breathlessness, dizziness, pale skin), anxiety, cough, nausea, allergic reactions like rash, hives, itching and skin reddening.
 
 ## Uncommon side effects
 
 Visual side effects include: Inflammation and bleeding in the front part of the eye, sac of pus on the eye, changes of the central part of the eye surface, pain or irritation at the site of injection, abnormal sensation in the eye, irritation of the eyelid.
+
+## Not known (frequency cannot be estimated from the available data)
+
+Retinal vasculitis (inflammation of blood vessels in the back of the eye)
+
+Retinal occlusive vasculitis (blockage of blood vessels in the back of the eye, typically in presence of inflammation)
 
 ## Reporting of side effects
 
@@ -2149,19 +2151,19 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## 5. How to store Byooviz
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2°C - 8°C). Do not freeze.
-- -Prior to use, the unopened vial may be stored at temperatures not exceeding 30°C for up to 2 months.
-- -Keep the vial in the outer carton in order to protect from  light.
-- -Do not use any pack that is damaged.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2°C - 8°C). Do not freeze.
+- Prior to use, the unopened vial may be stored at temperatures not exceeding 30°C for up to 2 months.
+- Keep the vial in the outer carton in order to protect from light.
+- Do not use any pack that is damaged.
 
 ## 6. Contents of the pack and other information
 
 ## What Byooviz contains
 
-- -The active substance is ranibizumab. Each ml contains 10 mg ranibizumab. Each vial contains 2.3 mg ranibizumab in 0.23 ml solution. This provides a suitable amount to deliver a single dose of 0.05 ml containing 0.5 mg ranibizumab.
-- -The other ingredients are α,α -trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections.
+- The active substance is ranibizumab. Each ml contains 10 mg ranibizumab. Each vial contains 2.3 mg ranibizumab in 0.23 ml solution. This provides a suitable amount to deliver a single dose of 0.05 ml containing 0.5 mg ranibizumab.
+- The other ingredients are α,α-trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections.
 
 ## What Byooviz looks like and contents of the pack
 
@@ -2177,15 +2179,13 @@ Pack containing one glass vial of ranibizumab with chlorobutyl rubber stopper. T
 
 Pack containing one glass vial of ranibizumab with chlorobutyl rubber stopper, one blunt filter needle (18G x 1½″, 1.2 mm x 40 mm, 5 micrometres) for withdrawal of the vial contents, and one injection needle (30G x ½″, 0.3 mm x 13 mm). All components are for single use only.
 
+<div style=\"page-break-after: always\"></div>
+
 Not all pack types may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Samsung Bioepis NL B.V.
-
-<div style=\"page-break-after: always\"></div>
-
-Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
 
 ## This leaflet was last revised in
 
@@ -2197,7 +2197,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## THE FOLLOWING INFORMATION IS INTENDED FOR HEALTHCARE PROFESSIONALS ONLY:
 
-Please also refer to section 3 'How Byooviz is given'.
+Please also refer to section 3 \"How Byooviz is given\".
 
 ## How to prepare and administer Byooviz to adults
 
@@ -2221,15 +2221,15 @@ The treatment of visual impairment due to CNV should be determined individually 
 
 Ranibizumab and laser photocoagulation in DME and macular oedema secondary to BRVO There is some experience of ranibizumab administered concomitantly with laser photocoagulation. When given on the same day, ranibizumab should be administered at least 30 minutes after laser photocoagulation. Ranibizumab can be administered in patients who have received previous laser photocoagulation.
 
-Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM There is no experience of concomitant administration of ranibizumab and verteporfin.
+## Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM
+
+There is no experience of concomitant administration of ranibizumab and verteporfin.
 
 Byooviz should be inspected visually for particulate matter and discolouration prior to administration.
 
-The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required). The patient's medical history for hypersensitivity reactions
+The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required). The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure. Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
 
 <div style=\"page-break-after: always\"></div>
-
-should be carefully evaluated prior to performing the intravitreal procedure. Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
 
 ## Vial-only pack
 
@@ -2237,9 +2237,9 @@ The vial is for single use only. After injection any unused product must be disc
 
 For preparation and intravitreal injection the following medical devices for single use are needed:
 
-- -a 5 µm filter needle (18G)
-- -an injection needle (30G x ½″)
-- -a 1 ml sterile syringe (including a 0.05 ml mark).
+- a 5 µm filter needle (18G)
+- an injection needle (30G x ½″)
+- a 1 ml sterile syringe (including a 0.05 ml mark).
 
 These medical devices are not included within the Byooviz pack.
 
@@ -2249,9 +2249,9 @@ All components are sterile and for single use only. Any component with packaging
 
 For preparation and intravitreal injection the following medical devices for single use are needed:
 
-- -a 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm, provided)
-- -an injecti on needle (30G x ½″, 0.3 mm x 13 mm, provided)
-- -a 1 ml sterile syringe (including a 0.05 ml mark, not included within the Byooviz pack)
+- a 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm, provided)
+- an injection needle (30G x ½″, 0.3 mm x 13 mm, provided)
+- a 1 ml sterile syringe (including a 0.05 ml mark, not included within the Byooviz pack)
 
 To prepare Byooviz for intravitreal administration to adult patients, please adhere to the following instructions:
 
@@ -2297,13 +2297,11 @@ After injection, do not recap the needle or detach it from the syringe. Dispose 
 
 ## ranibizumab
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2326,8 +2324,8 @@ Byooviz is used in adults to treat several eye diseases causing vision impairmen
 
 These diseases result from damage to the retina (light-sensitive layer at the back of the eye) caused by:
 
-- -Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
-- -Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
+- Growth of leaky, abnormal blood vessels. This is observed in diseases such as age-related macular degeneration (AMD) and proliferative diabetic retinopathy (PDR, a disease caused by diabetes). It may also be associated with choroidal neovascularisation (CNV) due to pathologic myopia (PM), angioid streaks, central serous chorioretinopathy or inflammatory CNV.
+- Macular oedema (swelling of the centre of the retina). This swelling can be caused by diabetes (a disease called diabetic macular oedema (DME)) or by the blockage of retinal veins of the retina (a disease called retinal vein occlusion (RVO)).
 
 ## How Byooviz works
 
@@ -2341,19 +2339,19 @@ In these diseases, Byooviz can help to stabilise and in many cases improve your 
 
 ## You must not receive Byooviz
 
-- -If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in section 6).
-- -If you have an infection in or around your eye.
-- -If you have pain or redness (severe intraocular inflammation) in your eye.
+- If you are allergic to ranibizumab or any of the other ingredients of this medicine (listed in section 6).
+- If you have an infection in or around your eye.
+- If you have pain or redness (severe intraocular inflammation) in your eye.
 
 ## Warnings and precautions
 
 Talk to your doctor before you are given Byooviz.
 
-- -Byooviz is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Byooviz treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
-- -In some patients the eye pressure may increase for a short period directly after the injection. This is something you may not notice, therefore your doctor may monitor this after each injection.
-- -Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Byooviz is the appropriate treatment for you.
+- Byooviz is given as an injection into the eye. Occasionally, an infection in the internal portion of the eye, pain or redness (inflammation), detachment or tear of one of the layers in the back of the eye (retinal detachment or tear and retinal pigment epithelial detachment or tear), or clouding of the lens (cataract) may occur after Byooviz treatment. It is important to identify and treat such an infection or retinal detachment as soon as possible. Please tell your doctor immediately if you develop signs such as eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light.
+- In some patients the eye pressure may increase for a short period directly after the injection. This is something you may not notice, therefore your doctor may monitor this after each injection.
+- Inform your doctor if you have a prior history of eye conditions or eye treatments, or if you have had a stroke or experienced transient signs of stroke (weakness or paralysis of limbs or face, difficulty speaking or understanding). This information will be taken into account to evaluate if Byooviz is the appropriate treatment for you.
 
-Please see section 4 ('Possible side effects') for more detailed information on side effects that could occur during Byooviz therapy.
+Please see section 4 (\"Possible side effects\") for more detailed information on side effects that could occur during Byooviz therapy.
 
 ## Children and adolescents (below 18 years of age)
 
@@ -2365,9 +2363,9 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy and breast-feeding
 
-- -Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Byooviz.
-- -There is no experience of using ranibizumab in pregnant women. Byooviz should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child.  If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Byooviz.
-- -Small amounts of ranibizumab may pass into breast milk, therefore Byooviz is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Byooviz treatment.
+- Women who could become pregnant must use effective contraception during treatment and for at least three further months after the last injection of Byooviz.
+- There is no experience of using ranibizumab in pregnant women. Byooviz should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant, think you may be pregnant or planning to become pregnant, discuss this with your doctor before treatment with Byooviz.
+- Small amounts of ranibizumab may pass into breast milk, therefore Byooviz is not recommended during breast-feeding. Ask your doctor or pharmacist for advice before Byooviz treatment.
 
 ## Driving and using machines
 
@@ -2389,7 +2387,7 @@ Before the injection, your doctor will wash your eye carefully to prevent infect
 
 The treatment is started with one injection of Byooviz per month. Your doctor will monitor the condition of your eye and, depending on how you respond to the treatment, will decide if and when you need to receive further treatment.
 
-Detailed instructions for use are given at the end of the leaflet under 'How to prepare and administer Byooviz'.
+Detailed instructions for use are given at the end of the leaflet under \"How to prepare and administer Byooviz\".
 
 ## Elderly (age 65 years and over)
 
@@ -2407,17 +2405,17 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 The side effects associated with the administration of Byooviz are either due to the medicine itself or the injection procedure and mostly affect the eye.
 
-## The most serious side effects are described below:
+The most serious side effects are described below:
 
 Common serious side effects (may affect up to 1 in 10 people): Detachment or tear of the layer in the back of the eye (retinal detachment or tear), resulting in flashes of light with floaters progressing to a temporary loss of sight, or a clouding of the lens (cataract).
 
 Uncommon serious side effects (may affect up to 1 in 100 people): Blindness, infection of the eyeball (endophthalmitis) with inflammation of the inside of the eye.
 
-The symptoms you might experience are pain or increased discomfort in your eye, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light. Please tell your doctor immediately if you develop any of these side effects .
+The symptoms you might experience are pain or increased discomfort in your eye, worsening eye redness, blurred or decreased vision, an increased number of small particles in your vision or increased sensitivity to light. Please tell your doctor immediately if you develop any of these side effects.
 
 The most frequently reported side effects are described below:
 
-Very common side effects (may affect more than 1 in 10 people)
+## Very common side effects (may affect more than 1 in 10 people)
 
 Visual side effects include: Inflammation of the eye, bleeding in the back of the eye (retinal bleeding), visual disturbances, eye pain, small particles or spots in your vision (floaters), bloodshot eye, eye irritation, a feeling of having something in the eye, increased tear production, inflammation or infection of the eyelid margins, dry eye, redness or itching of the eye and increased eye pressure.
 
@@ -2435,25 +2433,29 @@ Visual side effects include: Decreased sharpness of vision, swelling of a sectio
 
 Visual side effects include: Inflammation and bleeding in the front part of the eye, sac of pus on the eye, changes of the central part of the eye surface, pain or irritation at the site of injection, abnormal sensation in the eye, irritation of the eyelid.
 
+Not known (frequency cannot be estimated from the available data) Retinal vasculitis (inflammation of blood vessels in the back of the eye)
+
+Retinal occlusive vasculitis (blockage of blood vessels in the back of the eye, typically in presence of inflammation)
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Byooviz
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and pre-filled syringe label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2°C - 8°C). Do not freeze.
-- -Prior to use, the sealed tray may be stored at temperatures not exceeding 30°C for up to 1 week.
-- -Keep the pre-filled syringe in its unopened tray in the carton in order to protect from  light.
-- -Do not use any pack that is damaged.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and pre-filled syringe label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2°C - 8°C). Do not freeze.
+- Prior to use, the sealed tray may be stored at temperatures not exceeding 30°C for up to 1 week.
+- Keep the pre-filled syringe in its unopened tray in the carton in order to protect from light.
+- Do not use any pack that is damaged.
 
 ## 6. Contents of the pack and other information
 
 ## What Byooviz contains
 
-- -The active substance is ranibizumab. Each ml contains 10 mg ranibizumab. One pre-filled syringe contains 0.165 ml, equivalent to 1.65 mg ranibizumab. This provides a usable amount to deliver a single dose of 0.05 ml containing 0.5 mg ranibizumab.
-- -The other ingredients are α,α -trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections.
+- The active substance is ranibizumab. Each ml contains 10 mg ranibizumab. One pre-filled syringe contains 0.165 ml, equivalent to 1.65 mg ranibizumab. This provides a usable amount to deliver a single dose of 0.05 ml containing 0.5 mg ranibizumab.
+- The other ingredients are α,α-trehalose dihydrate; histidine hydrochloride, monohydrate; histidine; polysorbate 20 (E 432); water for injections.
 
 ## What Byooviz looks like and contents of the pack
 
@@ -2463,9 +2465,13 @@ Pack size of one pre-filled syringe, packed in a sealed tray. The pre-filled syr
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
+Samsung Bioepis NL B.V. Olof Palmestraat 10
 
 <div style=\"page-break-after: always\"></div>
+
+2616 LR Delft The Netherlands
+
+## This leaflet was last revised in
 
 ## Other sources of information
 
@@ -2475,7 +2481,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## THE FOLLOWING INFORMATION IS INTENDED FOR HEALTHCARE PROFESSIONALS ONLY:
 
-Please also refer to section 3 'How Byooviz is given'.
+Please also refer to section 3 \"How Byooviz is given\".
 
 ## How to prepare and administer Byooviz
 
@@ -2499,15 +2505,15 @@ The treatment of visual impairment due to CNV should be determined individually 
 
 Ranibizumab and laser photocoagulation in DME and macular oedema secondary to BRVO There is some experience of ranibizumab administered concomitantly with laser photocoagulation. When given on the same day, ranibizumab should be administered at least 30 minutes after laser photocoagulation. Ranibizumab can be administered in patients who have received previous laser photocoagulation.
 
-Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM There is no experience of concomitant administration of ranibizumab and verteporfin.
+## Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM
+
+There is no experience of concomitant administration of ranibizumab and verteporfin.
 
 Byooviz should be inspected visually for particulate matter and discolouration prior to administration.
 
-The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure. Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in
+The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure. Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
 
 <div style=\"page-break-after: always\"></div>
-
-accordance with local practice.
 
 The pre-filled syringe is sterile and is for single use only. Do not use the product if the packaging is damaged or has been tampered with.
 
@@ -2529,24 +2535,44 @@ The pre-filled syringe contains more than the recommended dose of 0.5 mg. The ex
 
 <!-- image -->
 
-| Step 1: Prepare         | • Make sure that your pack contains a sterile pre-filled syringe in a sealed tray. • Keep the syringe in the sterile tray until ready for use. • Peel the lid off the syringe tray and, using aseptic technique, remove the syringe.                                                                                                                                                                                                                                                                            | • Make sure that your pack contains a sterile pre-filled syringe in a sealed tray. • Keep the syringe in the sterile tray until ready for use. • Peel the lid off the syringe tray and, using aseptic technique, remove the syringe.   |
-|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 2: Inspect syringe | • Byooviz should be colourless to pale yellow. • Do not use the pre-filled syringe if: - particulates, cloudiness, or discolouration are visible. - the syringe is damaged. - the syringe cap is not fully closed. - the gray rubber is visible in the transparent part of the syringe cap when holding the syringe vertically at eye level (see Figure 2), indicating that the syringe has been tampered with. Note: The plunger rod is completely or partially attached to the rubber stopper. Do not attempt |                                                                                                                                                                                                                                        |
+| Step 1: Prepare         | • Make sure that your pack contains a sterile pre-filled syringe in a sealed tray. • Keep the syringe in the sterile tray until ready for use. • Peel the lid off the syringe tray and, using aseptic technique, remove the syringe.                                                                                                                                                                                                                                                                            |
+|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 2: Inspect syringe | • Byooviz should be colourless to pale yellow. • Do not use the pre-filled syringe if: - particulates, cloudiness, or discolouration are visible. - the syringe is damaged. - the syringe cap is not fully closed. - the gray rubber is visible in the transparent part of the syringe cap when holding the syringe vertically at eye level (see Figure 2), indicating that the syringe has been tampered with. Note: The plunger rod is completely or partially attached to the rubber stopper. Do not attempt |
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-|                                        | to attach the plunger rod to the rubber stopper.                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                              |
-|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 3: Remove syringe cap             | • Twist off ( do not pull or snap off) the syringe cap by holding the syringe in one hand and the syringe cap with the thumb and forefinger of the other hand (see Figure 3).                                                                                                                                                                                                                                 |                                                                                                                                                                                                              |
-| Step 4: Attach needle                  | • Attach a 30 G x ½inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (see Figure 4). • Carefully remove the needle cap by pulling it straight off, when you are ready to administer Byooviz. Note: Do not wipe the needle at any time.                                                                                                                          |                                                                                                                                                                                                              |
-| Step 5: Dislodge air bubbles           | • Hold the syringe upright with the needle pointing up. • If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 5). Note: Do not pull back on the plunger rod at any time, to avoid compromising the sterility of the product.                                                                                                                  |                                                                                                                                                                                                              |
-| Step 6: Expel air and adjust drug dose | • Hold the syringe at eye level. • Look closely and locate the translucent dose mark . • Carefully push the plunger rod until the upper edge below the dome of the rubber stopper is aligned with the 0.05 ml translucent dose mark (see Figure 6). • You may feel resistance when the rubber stopper contacts the dose mark. The resistance indicates the correct dosing volume of BYOOVIZ has been reached. |                                                                                                                                                                                                              |
-| Step 7: Inject                         | • The injection procedure should be carried out under aseptic conditions. • Insert the needle into the injection site. • Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the                                                                                                                                                                                                  | • The injection procedure should be carried out under aseptic conditions. • Insert the needle into the injection site. • Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the |
-| Step 8: Dispose                        | • A different scleral site should be used for subsequent injections. Note: After injection, do not recap the needle or detach it from the syringe. This could lead to a needle stick injury.                                                                                                                                                                                                                  | • A different scleral site should be used for subsequent injections. Note: After injection, do not recap the needle or detach it from the syringe. This could lead to a needle stick injury.                 |
+|                                        | to attach the plunger rod to the rubber stopper.                                                                                                                                                                                                                                                                                                                                                             |
+|----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 3: Remove syringe cap             | • Twist off (do not pull or snap off) the syringe cap by holding the syringe in one hand and the syringe cap with the thumb and forefinger of the other hand (see Figure 3).                                                                                                                                                                                                                                 |
+| Step 4: Attach needle                  | • Attach a 30 G x ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (see Figure 4). • Carefully remove the needle cap by pulling it straight off, when you are ready to administer Byooviz. Note: Do not wipe the needle at any time.                                                                                                                        |
+| Step 5: Dislodge air bubbles           | • Hold the syringe upright with the needle pointing up. • If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 5). Note: Do not pull back on the plunger rod at any time, to avoid compromising the sterility of the product.                                                                                                                 |
+| Step 6: Expel air and adjust drug dose | • Hold the syringe at eye level. • Look closely and locate the translucent dose mark. • Carefully push the plunger rod until the upper edge below the dome of the rubber stopper is aligned with the 0.05 ml translucent dose mark (see Figure 6). • You may feel resistance when the rubber stopper contacts the dose mark. The resistance indicates the correct dosing volume of BYOOVIZ has been reached. |
+| Step 7: Inject                         | • The injection procedure should be carried out under aseptic conditions. • Insert the needle into the injection site. • Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the                                                                                                                                                                                                 |
+| Step 8: Dispose                        | volume of 0.05 ml. • A different scleral site should be used for subsequent injections. Note: After injection, do not recap the needle or detach it from the syringe. This could lead to a needle stick injury.                                                                                                                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
 | • The pre-filled syringe is for single use only. Extraction of multiple doses from a pre- filled syringe may increase the risk of contamination and subsequent infection. • Dispose of any unused medicinal product or the used syringe together with the needle in accordance with local requirements or in a sharps disposal container.   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for ranibizumab, the scientific conclusions of PRAC are as follows:
+
+In view of available data on retinal vasculitis with or without occlusion from clinical trials, the literature, spontaneous reports and in view of a plausible mechanism of action, the PRAC Rapporteur considers a causal relationship between ranibizumab and retinal vasculitis with or without occlusion, at least a reasonable possibility.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the Marketing Authorisation(s)
+
+On the basis of the scientific conclusions for ranibizumab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing ranibizumab is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the Marketing Authorisation(s) should be varied.

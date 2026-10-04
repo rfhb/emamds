@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-30 13:25:44
+document_datetime: 2026-10-02 16:53:37
 document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/orgovyx-epar-product-information_en.pdf
 document_name: orgovyx-epar-product-information_en.pdf
 version: success
-processing_time: 8.9131328
-conversion_datetime: 2025-12-21 12:01:08.098782
+processing_time: 55.735956
+conversion_datetime: 2026-10-04 15:39:13.417659
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -38,7 +38,7 @@ For the full list of excipients, see section 6.1.
 
 Film-coated tablet.
 
-Light red, almond-shaped, film-coated tablet (11 mm [length] × 8 mm [width]) with 'R' on one side and '120' on the other side.
+Light red, almond-shaped, film-coated tablet (11 mm [length] × 8 mm [width]) with \"R\" on one side and \"120\" on the other side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -104,11 +104,11 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Effect on QT/QTc interval prolongation
 
-Androgen deprivation therapy may prolong the QT interval. In patients with a history of or risk factors for QT prolongation and in patients receiving concomitant medicinal products that might prolong the QT interval (see section 4.5),
+## Androgen deprivation therapy may prolong the QT interval.
+
+In patients with a history of or risk factors for QT prolongation and in patients receiving concomitant medicinal products that might prolong the QT interval (see section 4.5), physicians should assess the benefit-risk ratio including the potential for Torsade de pointes prior to initiating Orgovyx.
 
 <div style=\"page-break-after: always\"></div>
-
-physicians should assess the benefit-risk ratio including the potential for Torsade de pointes prior to initiating Orgovyx.
 
 A thorough QT/QTc study showed that there was no intrinsic effect of relugolix on prolongation of the QTc interval (see section 4.8).
 
@@ -140,11 +140,9 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated 
 
 ## Potential for other medicinal products to affect the exposure to relugolix
 
-Clinical interaction studies with P-gp inhibitors (erythromycin and azithromycin) and combined P-gp and strong CYP3A4 inducers (rifampicin) have shown to affect the exposure of relugolix to a clinically relevant extent. Effect of co-administration on the exposure to
+Clinical interaction studies with P-gp inhibitors (erythromycin and azithromycin) and combined P-gp and strong CYP3A4 inducers (rifampicin) have shown to affect the exposure of relugolix to a clinically relevant extent. Effect of co-administration on the exposure to relugolix and associated dosing recommendations are summarised in Table 1. This list also includes expected effect and recommendations with other potentially interacting medicinal products.
 
 <div style=\"page-break-after: always\"></div>
-
-relugolix and associated dosing recommendations are summarised in Table 1. This list also includes expected effect and recommendations with other potentially interacting medicinal products.
 
 ## P-gp inhibitors
 
@@ -168,24 +166,24 @@ Since androgen deprivation treatment may prolong the QT interval, the concomitan
 
 Table 1. Effect of co-administered medicinal products on relugolix exposure (Cmax, AUC0inf) and recommendations
 
-| Interacting drug dose regimen                                                                                                                                                                                                                                               | Relugolix dose regimen                          | Change in relugolix AUC 0-inf                                                           | Change in relugolix C max                                                               | Recommendation                                                                                                                                                                                                                                                                                                                              |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Medicinal products that are oral Pgp inhibitors                                                                                                                                                                                                                             | Medicinal products that are oral Pgp inhibitors | Medicinal products that are oral Pgp inhibitors                                         | Medicinal products that are oral Pgp inhibitors                                         | Medicinal products that are oral Pgp inhibitors                                                                                                                                                                                                                                                                                             |
-| erythromycin 500 mg QID, multiple doses (P-gp and moderate CYP3A4 inhibitor)                                                                                                                                                                                                | 120 mg single dose                              | 3.5 - fold ↑                                                                            | 2.9 - fold ↑                                                                            | Concomitant use of Orgovyx with erythromycin, azithromycin and other oral P-gp inhibitors is not recommended If concomitant use with once or twice daily oral P-gp inhibitors is required (e.g. azithromycin), take Orgovyx first, and separate dosing with the P-gp inhibitor by at least 6 hours and monitor patients more frequently for |
-| azithromycin 500 mg single dose (P-gp inhibitor)                                                                                                                                                                                                                            | 120 mg single dose                              | *1.5 - fold ↑                                                                           | *1.6 - fold ↑                                                                           | Concomitant use of Orgovyx with erythromycin, azithromycin and other oral P-gp inhibitors is not recommended If concomitant use with once or twice daily oral P-gp inhibitors is required (e.g. azithromycin), take Orgovyx first, and separate dosing with the P-gp inhibitor by at least 6 hours and monitor patients more frequently for |
-| azithromycin 500 mg single dose 6 hours after administration of relugolix (P-gp inhibitor)                                                                                                                                                                                  | 120 mg single dose                              | 1.4 - fold ↑                                                                            | 1.3 - fold ↑                                                                            | adverse reactions.                                                                                                                                                                                                                                                                                                                          |
-| Other medicinal products that are P-gp inhibitor include (but not limited to): Anti infectives azithromycin, erythromycin, clarithromycin, gentamicin, tetracycline. Antifungal agents ketoconazole, itraconazole. Antihypertensives carvedilol, verapamil. Antiarrhythmics | Therapeutic dose for Orgovyx                    | Expected: ↑ See also clinical study results with erythromycin and azithromycin (above). | Expected: ↑ See also clinical study results with erythromycin and azithromycin (above). |                                                                                                                                                                                                                                                                                                                                             |
+| Interacting drug dose regimen                                                                                                                                                                                                                                                           | Relugolix dose regimen                           | Change in relugolix AUC0-inf                                                            | Change in relugolix Cmax                                                                | Recommendation                                                                                                                                                                                                                                                                                                                              |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Medicinal products that are oral P gp inhibitors                                                                                                                                                                                                                                        | Medicinal products that are oral P gp inhibitors | Medicinal products that are oral P gp inhibitors                                        | Medicinal products that are oral P gp inhibitors                                        | Medicinal products that are oral P gp inhibitors                                                                                                                                                                                                                                                                                            |
+| erythromycin 500 mg QID, multiple doses (P-gp and moderate CYP3A4 inhibitor)                                                                                                                                                                                                            | 120 mg single dose                               | 3.5 -fold ↑                                                                             | 2.9 -fold ↑                                                                             | Concomitant use of Orgovyx with erythromycin, azithromycin and other oral P-gp inhibitors is not recommended If concomitant use with once or twice daily oral P-gp inhibitors is required (e.g. azithromycin), take Orgovyx first, and separate dosing with the P-gp inhibitor by at least 6 hours and monitor patients more frequently for |
+| azithromycin 500 mg single dose (P-gp inhibitor) azithromycin 500 mg single dose 6 hours                                                                                                                                                                                                | 120 mg single dose                               | *1.5 -fold ↑                                                                            | *1.6 -fold ↑                                                                            | Concomitant use of Orgovyx with erythromycin, azithromycin and other oral P-gp inhibitors is not recommended If concomitant use with once or twice daily oral P-gp inhibitors is required (e.g. azithromycin), take Orgovyx first, and separate dosing with the P-gp inhibitor by at least 6 hours and monitor patients more frequently for |
+| after administration of relugolix (P-gp inhibitor)                                                                                                                                                                                                                                      | 120 mg single dose                               | 1.4 -fold ↑                                                                             | 1.3 -fold ↑                                                                             | adverse reactions.                                                                                                                                                                                                                                                                                                                          |
+| Other medicinal products that are P-gp inhibitor include (but not limited to): Anti infectives azithromycin, erythromycin, clarithromycin, gentamicin, tetracycline. Antifungal agents ketoconazole, itraconazole. Antihypertensives carvedilol, verapamil. Antiarrhythmics amiodarone, | Therapeutic dose for Orgovyx                     | Expected: ↑ See also clinical study results with erythromycin and azithromycin (above). | Expected: ↑ See also clinical study results with erythromycin and azithromycin (above). |                                                                                                                                                                                                                                                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| dronedarone, propafenone, quinidine. Antianginal agents ranolazine Immunosupressive agents cyclosporine. HIV or HCV protease inhibitors ritonavir, telaprevir.   |                                                                     |                                                                     |                                                                     |                                                                                                                                                      |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Medicinal products that are CYP3A4 inhibitors                                                                                                                    | Medicinal products that are CYP3A4 inhibitors                       | Medicinal products that are CYP3A4 inhibitors                       | Medicinal products that are CYP3A4 inhibitors                       | Medicinal products that are CYP3A4 inhibitors                                                                                                        |
-| voriconazole 200 mg BID, multiple doses (strong CYP3A4 inhibitor)                                                                                                | 120 mg single dose                                                  | 12% ↑                                                               | 18% ↓                                                               | No dose modifications recommended for co- administration of relugolix and CYP3A4 inhibitors devoid of P-gp inhibition                                |
-| fluconazole 200 mg QD, multiple doses (moderate CYP3A4 inhibitor)                                                                                                | 40 mg single dose                                                   | 19%↑                                                                | 44% ↑                                                               | No dose modifications recommended for co- administration of relugolix and CYP3A4 inhibitors devoid of P-gp inhibition                                |
-| atorvastatin 80 mg QD, multiple doses (weak CYP3A4 inhibitor)                                                                                                    | 40 mg single dose                                                   | 5%↓                                                                 | 22%↓                                                                | No dose modifications recommended for co- administration of relugolix and CYP3A4 inhibitors devoid of P-gp inhibition                                |
-| Medicinal products that are combined Pgp and strong CYP3A4 inducers                                                                                              | Medicinal products that are combined Pgp and strong CYP3A4 inducers | Medicinal products that are combined Pgp and strong CYP3A4 inducers | Medicinal products that are combined Pgp and strong CYP3A4 inducers | Medicinal products that are combined Pgp and strong CYP3A4 inducers                                                                                  |
-| rifampicin 600 mg QD, multiple doses                                                                                                                             | 40 mg single dose                                                   | 55%↓                                                                | 23%↓                                                                | Co-administration of Orgovyx with rifampicin and other strong CYP3A4 and P-gp inducers is not recommended, as this may decrease the AUC and C max of |
+| dronedarone, propafenone, quinidine. Antianginal agents ranolazine Immunosupressive agents cyclosporine. HIV or HCV protease inhibitors ritonavir, telaprevir.   |                                                                      |                                                                      |                                                                      |                                                                                                                                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Medicinal products that are CYP3A4 inhibitors                                                                                                                    | Medicinal products that are CYP3A4 inhibitors                        | Medicinal products that are CYP3A4 inhibitors                        | Medicinal products that are CYP3A4 inhibitors                        | Medicinal products that are CYP3A4 inhibitors                                                                                                       |
+| voriconazole 200 mg BID, multiple doses (strong CYP3A4 inhibitor)                                                                                                | 120 mg single dose                                                   | 12% ↑                                                                | 18% ↓                                                                | No dose modifications recommended for co- administration of relugolix and CYP3A4 inhibitors devoid of P-gp inhibition                               |
+| fluconazole 200 mg QD, multiple doses (moderate CYP3A4 inhibitor)                                                                                                | 40 mg single dose                                                    | 19%↑                                                                 | 44% ↑                                                                | No dose modifications recommended for co- administration of relugolix and CYP3A4 inhibitors devoid of P-gp inhibition                               |
+| atorvastatin 80 mg QD, multiple doses (weak CYP3A4 inhibitor)                                                                                                    | 40 mg single dose                                                    | 5%↓                                                                  | 22%↓                                                                 | No dose modifications recommended for co- administration of relugolix and CYP3A4 inhibitors devoid of P-gp inhibition                               |
+| Medicinal products that are combined P gp and strong CYP3A4 inducers                                                                                             | Medicinal products that are combined P gp and strong CYP3A4 inducers | Medicinal products that are combined P gp and strong CYP3A4 inducers | Medicinal products that are combined P gp and strong CYP3A4 inducers | Medicinal products that are combined P gp and strong CYP3A4 inducers                                                                                |
+| rifampicin 600 mg QD, multiple doses                                                                                                                             | 40 mg single dose                                                    | 55%↓                                                                 | 23%↓                                                                 | Co-administration of Orgovyx with rifampicin and other strong CYP3A4 and P-gp inducers is not recommended, as this may decrease the AUC and Cmax of |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -199,7 +197,7 @@ Table 1. Effect of co-administered medicinal products on relugolix exposure (Cma
 
 | (not an inhibitor/inducer of CYP3A4 and/or P-gp)           |                              |             |             | inhibitors/inducers of enzymes and transporters contributing to the metabolism and transport of relugolix. No clinically meaningful interaction is expected and no dose adjustment of Orgovyx is required.                                     |
 |------------------------------------------------------------|------------------------------|-------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Docetaxel (not an inhibitor/inducer of CYP3A4 and/or P-gp) | Therapeutic dose for Orgovyx | Expected: ↔ | Expected: ↔ |                                                                                                                                                                                                                                                |
+| Docetaxel (not an inhibitor/inducer of CYP3A4 and/or P-gp) | Therapeutic dose for Orgovyx | Expected: ↔ | Expected: ↔ | inhibitors/inducers of enzymes and transporters contributing to the metabolism and transport of relugolix. No clinically meaningful interaction is expected and no dose adjustment of Orgovyx is required.                                     |
 | Darolutamide (weak inducer of CYP3A4)                      | Therapeutic dose for Orgovyx | Expected: ↔ | Expected: ↔ | Darolutamide is a weak inducer of CYP3A4. However the potential decrease in exposure is not expected to be clinically meaningful. No dose adjustment of Orgovyx is required.                                                                   |
 | Enzalutamide (strong CYP3A4 inducer and P-gp inhibitor)    | Therapeutic dose for Orgovyx | Expected: ↔ | Expected: ↔ | Enzalutamide may decrease (CYP3A4 induction) and/or increase (P-gp inhibition) the relugolix exposure. Based on limited data (n=20) in men who received a 120 mg dose of relugolix and 80 to 160 mg doses of enzalutamide concomitantly for up |
 
@@ -207,9 +205,9 @@ Table 1. Effect of co-administered medicinal products on relugolix exposure (Cma
 
 |                                              |                              |             |             | to 266 days in the phase 3 study, plasma relugolix trough concentrations did not change to a clinically significant extent upon adding enzalutamide to the relugolix monotherapy. Therefore, no dose modifications are recommended for co- administration of relugolix and enzalutamide.   |
 |----------------------------------------------|------------------------------|-------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apalutamide (P-gp and strong CYP3A4 inducer) | Therapeutic dose for Orgovyx | Expected: ↓ | Expected: ↓ | In a clinical study , Orgovyx 120 QD (without apalutamide) and Orgovyx 240 QD (with 240 QD apalutamide) resulted in similar C trough values. An increased dose of Orgovyx is recommended if co- administration with apalutamide is required (see section 4.2).                             |
+| Apalutamide (P-gp and strong CYP3A4 inducer) | Therapeutic dose for Orgovyx | Expected: ↓ | Expected: ↓ | In a clinical study , Orgovyx 120 QD (without apalutamide) and Orgovyx 240 QD (with 240 QD apalutamide) resulted in similar Ctrough values. An increased dose of Orgovyx is recommended if co- administration with apalutamide is required (see section 4.2).                              |
 
-Abbreviations: QD : once a day, BID : twice a day, QID : four times a day, HIV : human immunodeficiency virus, HCV : hepatitis C virus.
+Abbreviations: QD: once a day, BID: twice a day, QID: four times a day, HIV: human immunodeficiency virus, HCV: hepatitis C virus.
 
 *: Upon co-administration of azithromycin and relugolix, relugolix exposure increases up to 5-fold were observed in the first 3 hours after dosing in the median concentration-time curves. After a dose separation window of 6 hours, the increase in relugolix exposure in the median concentration-time curves was maximally 1.6-fold in the first 3 hours after dosing.
 
@@ -217,7 +215,7 @@ Abbreviations: QD : once a day, BID : twice a day, QID : four times a day, HIV :
 
 ## Potential for relugolix to affect the exposure to other medicinal products
 
-Relugolix is a weak inducer of CYP3A mediated metabolism, and an inhibitor of BCRP and P-gp in vitro . Effect of co-administration of relugolix on the exposure of midazolam, rosuvastatin and dabigatran and associated dosing recommendations are summarised in Table 2. This list also includes expected potential interacting effect of relugolix on other medicinal products.
+Relugolix is a weak inducer of CYP3A mediated metabolism, and an inhibitor of BCRP and P-gp in vitro. Effect of co-administration of relugolix on the exposure of midazolam, rosuvastatin and dabigatran and associated dosing recommendations are summarised in Table 2. This list also includes expected potential interacting effect of relugolix on other medicinal products.
 
 ## In vitro studies
 
@@ -229,12 +227,12 @@ Transporter systems: Relugolix is not an inhibitor of OATP1B1, OATP1B3, OATP2B1,
 
 <div style=\"page-break-after: always\"></div>
 
-| Relugolix dose regimen                      | Drug dose regimen                                                    | Change in drugAUC 0- inf                    | Change in drug C max                        | Recommendation                                                                                                                                                                                                                                                                                  |
-|---------------------------------------------|----------------------------------------------------------------------|---------------------------------------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Medicinal products that are CYP3Asubstrates | Medicinal products that are CYP3Asubstrates                          | Medicinal products that are CYP3Asubstrates | Medicinal products that are CYP3Asubstrates | Medicinal products that are CYP3Asubstrates                                                                                                                                                                                                                                                     |
-| 120 mg QD, multiple doses                   | Midazolam 5mg single dose (sensitive CYP3A substrate)                | 22% ↓                                       | 14% ↓                                       | No dose adjustment of midazolam and other CYP3A substrates is required. Clinically meaningful interactions with other CYP3A substrates than midazolam are not expected. If a decrease in the therapeutic effects occur, medicinal products (e.g. statins) may be titrated to achieve desired    |
-| Medicinal products that are BCRPsubstrates  | Medicinal products that are BCRPsubstrates                           | Medicinal products that are BCRPsubstrates  | Medicinal products that are BCRPsubstrates  | Medicinal products that are BCRPsubstrates                                                                                                                                                                                                                                                      |
-| 120 mg QD, multiple doses                   | Rosuvastatin 10mg single dose (sensitive BCRP and OATP1B1 substrate) | 27% ↓                                       | 34% ↓                                       | The decrease in exposure to rosuvastatin is not considered clinically meaningful; however, rosuvastatin may be titrated to achieve desired therapeutic effects. The effect of relugolix on other BCRP substrates has not been evaluated and the relevance for other BCRP substrates is unknown. |
+| Relugolix dose regimen                       | Drug dose regimen                                                    | Change in drug AUC0- inf                     | Change in drug Cmax                          | Recommendation                                                                                                                                                                                                                                                                                                   |
+|----------------------------------------------|----------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Medicinal products that are CYP3A substrates | Medicinal products that are CYP3A substrates                         | Medicinal products that are CYP3A substrates | Medicinal products that are CYP3A substrates | Medicinal products that are CYP3A substrates                                                                                                                                                                                                                                                                     |
+| 120 mg QD, multiple doses                    | Midazolam 5mg single dose (sensitive CYP3A substrate)                | 22% ↓                                        | 14% ↓                                        | No dose adjustment of midazolam and other CYP3A substrates is required. Clinically meaningful interactions with other CYP3A substrates than midazolam are not expected. If a decrease in the therapeutic effects occur, medicinal products (e.g. statins) may be titrated to achieve desired therapeutic effects |
+| Medicinal products that are BCRP substrates  | Medicinal products that are BCRP substrates                          | Medicinal products that are BCRP substrates  | Medicinal products that are BCRP substrates  | Medicinal products that are BCRP substrates                                                                                                                                                                                                                                                                      |
+| 120 mg QD, multiple doses                    | Rosuvastatin 10mg single dose (sensitive BCRP and OATP1B1 substrate) | 27% ↓                                        | 34% ↓                                        | The decrease in exposure to rosuvastatin is not considered clinically meaningful; however, rosuvastatin may be titrated to achieve desired therapeutic effects. The effect of relugolix on other BCRP substrates has not been evaluated and the relevance for other BCRP substrates is unknown.                  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -245,14 +243,14 @@ Transporter systems: Relugolix is not an inhibitor of OATP1B1, OATP1B3, OATP2B1,
 
 <div style=\"page-break-after: always\"></div>
 
+Abbreviations: QD: once a day
+
 | Therapeutic dose for Orgovyx   | Abiraterone (CYP3A4 substrate)                 | Expected: ↔   | Expected: ↔   | No clinically meaningful changes in exposure are expected and no dose adjustments are necessary for abiraterone, enzalutamide, apalutamide, darolutamide or docetaxel when co- administered with relugolix.   |
 |--------------------------------|------------------------------------------------|---------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Therapeutic dose for Orgovyx   | Docetaxel (CYP3A substrate)                    | Expected: ↔   | Expected: ↔   | No clinically meaningful changes in exposure are expected and no dose adjustments are necessary for abiraterone, enzalutamide, apalutamide, darolutamide or docetaxel when co- administered with relugolix.   |
 | Therapeutic dose for Orgovyx   | Darolutamide (CYP3A, P- gp and BCRP substrate) | Expected: ↔   | Expected: ↔   | No clinically meaningful changes in exposure are expected and no dose adjustments are necessary for abiraterone, enzalutamide, apalutamide, darolutamide or docetaxel when co- administered with relugolix.   |
 | Therapeutic dose for Orgovyx   | Enzalutamide (CYP2C8 and CYP3A4 substrate)     | Expected: ↔   | Expected: ↔   | No clinically meaningful changes in exposure are expected and no dose adjustments are necessary for abiraterone, enzalutamide, apalutamide, darolutamide or docetaxel when co- administered with relugolix.   |
 | Therapeutic dose for Orgovyx   | Apalutamide (CYP2C8 and CYP3A4 substrate)      | Expected: ↔   | Expected: ↔   | No clinically meaningful changes in exposure are expected and no dose adjustments are necessary for abiraterone, enzalutamide, apalutamide, darolutamide or docetaxel when co- administered with relugolix.   |
-
-Abbreviations: QD: once a day
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -264,11 +262,9 @@ It is not known whether relugolix or its metabolites are present in semen. Based
 
 ## Pregnancy
 
-There is a limited amount of data from the use of relugolix in pregnant women. Studies in animals have shown that exposure to relugolix in early pregnancy may increase the risk of
+There is a limited amount of data from the use of relugolix in pregnant women. Studies in animals have shown that exposure to relugolix in early pregnancy may increase the risk of early pregnancy loss (see section 5.3). Based on the pharmacological effects, an adverse effect on pregnancy cannot be excluded.
 
 <div style=\"page-break-after: always\"></div>
-
-early pregnancy loss (see section 5.3). Based on the pharmacological effects, an adverse effect on pregnancy cannot be excluded.
 
 ## Breast-feeding
 
@@ -290,7 +286,7 @@ The most commonly observed adverse reactions during relugolix therapy are physio
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions listed in Table 3 are classified according to frequency and system organ class. Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness. Frequencies are defined as very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), and not known (cannot be estimated from available data).
+Adverse reactions listed in Table 3 are classified according to frequency and system organ class. Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), and not known (cannot be estimated from available data).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -337,16 +333,6 @@ Table 3. Adverse reactions reported in clinical trials and during post-marketing
 | Uncommon                                            | Aspartate aminotransferase increased                |
 | Uncommon                                            | Alanine aminotransferase increased d                |
 
-a Includes diarrhoea and colitis
-
-b Includes arthralgia, back pain, pain in extremity, musculoskeletal pain, myalgia, bone pain, neck pain, arthritis, musculoskeletal stiffness, non-cardiac chest pain, spinal pain, and musculoskeletal discomfort
-
-c Includes fatigue and asthenia
-
-d Grade 3/4 increases identified through clinical laboratory test monitoring (see below)
-
-e There were no reported cholesterol increases &gt; grade 2
-
 <div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
@@ -355,7 +341,7 @@ e There were no reported cholesterol increases &gt; grade 2
 
 Changes in laboratory values observed during up to 1 year of treatment in the phase 3 study (N = 622) were in the same range for Orgovyx and a GnRH agonist (leuprorelin) used as active comparator. ALT and/or AST concentrations &gt; 3x upper limit of normal (ULN) were reported for 1.4% of patients with normal values prior to treatment, following treatment with Orgovyx. An increase to grade 3/4 ALT was observed in 0.3% of patients and to grade 3/4 AST in 0% of patients treated with Orgovyx, respectively. No events were associated with increased bilirubin.
 
-Haemoglobin concentration decreased by 10 g/L during up to 1 year of treatment. Marked decrease in ha emoglobin (≤ 105 g/L) was observed in 4.8% following treatment with Orgovyx, with decreases to grade 3/4 in 0.5%. Glucose increased to grade 3/4 in 2.9% and triglycerides increased to grade 3/4 in 2.0% of patients observed.
+Haemoglobin concentration decreased by 10 g/L during up to 1 year of treatment. Marked decrease in haemoglobin (≤ 105 g/L) was observed in 4.8% following treatment with Orgovyx, with decreases to grade 3/4 in 0.5%. Glucose increased to grade 3/4 in 2.9% and triglycerides increased to grade 3/4 in 2.0% of patients observed.
 
 ## Reporting of suspected adverse reactions
 
@@ -373,7 +359,7 @@ Pharmacotherapeutic group: Endocrine therapy, other hormone antagonists and rela
 
 ## Mechanism of action
 
-Relugolix is a nonpeptide GnRH receptor antagonist that competitively binds to GnRH receptors in the anterior pituitary gland preventing native GnRH from binding and signalling the secretion of luteinizing hormone (LH) and follicle-stimulating hormone (FSH). Consequently, the production of testosterone from the testes is reduced. In humans, FSH and LH concentrations rapidly decline upon initiating treatment with Orgovyx and testosterone concentrations are suppressed to below physiologic concentrations. Treatment is not associated with the initial increases in FSH and LH concentrations and subsequently testosterone ('potential symptomatic flare') observed upon initiation of treatment with a GnRH analogue. Following discontinuation of treatment, pituitary and gonadal hormone concentrations return to physiologic concentrations.
+Relugolix is a nonpeptide GnRH receptor antagonist that competitively binds to GnRH receptors in the anterior pituitary gland preventing native GnRH from binding and signalling the secretion of luteinizing hormone (LH) and follicle-stimulating hormone (FSH). Consequently, the production of testosterone from the testes is reduced. In humans, FSH and LH concentrations rapidly decline upon initiating treatment with Orgovyx and testosterone concentrations are suppressed to below physiologic concentrations. Treatment is not associated with the initial increases in FSH and LH concentrations and subsequently testosterone (\"potential symptomatic flare\") observed upon initiation of treatment with a GnRH analogue. Following discontinuation of treatment, pituitary and gonadal hormone concentrations return to physiologic concentrations.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -400,15 +386,9 @@ Table 4. Medical castration rates (testosterone concentrations &lt; 50 ng/dL) fr
 | Responder rate (95% CI) c            | 96.7% (94.9%, 97.9%)                  | 88.8% (84.6%, 91.8%)             |
 | Difference from leuprorelin (95% CI) | 7.9% (4.1%, 11.8%) d p-value < 0.0001 |                                  |
 
-a 22.5 mg dosed in Europe and North America; 11.25 mg dosed in Asia. The castration rate of the subgroup of patients receiving 22.5 mg leuprorelin (n = 264) was 88.0% (95% CI: 83.4%, 91.4%).
-
-b Two patients in each arm did not receive the study treatment and were not included.
-
-c  Kaplan-Meier estimates within group.
-
 <div style=\"page-break-after: always\"></div>
 
-- d Non-inferiority was tested with a margin of -10%.
+d Non-inferiority was tested with a margin of -10%.
 
 Figure 1: Cumulative incidence of testosterone concentrations &lt; 50 ng/dL in HERO
 
@@ -424,9 +404,9 @@ Table 5. Summary of key secondary endpoints
 
 | Secondary endpoint                                                                         |   Orgovyx (N = 622) |   Leuprorelin (N = 308) | p-Value   |
 |--------------------------------------------------------------------------------------------|---------------------|-------------------------|-----------|
-| Cumulative probability of testosterone suppression to < 50 ng/dL prior to dosing on day 4  |                56   |                     0   | <0.0001   |
+| Cumulative probability of testosterone suppression to < 50 ng/dL prior to dosing on day 4  |                56.0 |                     0.0 | <0.0001   |
 | Cumulative probability of testosterone suppression to < 50 ng/dL prior to dosing on day 15 |                98.7 |                    12.1 | <0.0001   |
-| Proportion of patients with PSAresponse at Day 15 followed with confirmation at day 29     |                79.4 |                    19.8 | <0.0001   |
+| Proportion of patients with PSA response at Day 15 followed with confirmation at day 29    |                79.4 |                    19.8 | <0.0001   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -453,7 +433,7 @@ After administration of a single 120-mg dose of relugolix following consumption 
 
 ## Distribution
 
-Relugolix is 68 to 71% bound to plasma proteins, primarily to albumin and to a lesser extent to α 1-acid glycoprotein. The mean blood-to-plasma ratio is 0.78. Based on the apparent volume of distribution (Vz), relugolix distributes widely to tissues. The estimated volume of distribution at steady state (Vss) is 3 900 L.
+Relugolix is 68 to 71% bound to plasma proteins, primarily to albumin and to a lesser extent to α1-acid glycoprotein. The mean blood-to-plasma ratio is 0.78. Based on the apparent volume of distribution (Vz), relugolix distributes widely to tissues. The estimated volume of distribution at steady state (Vss) is 3 900 L.
 
 ## Biotransformation
 
@@ -483,7 +463,7 @@ The effect of end stage renal disease with or without haemodialysis on the pharm
 
 ## Hepatic impairment
 
-After administration of a single 40-mg dose of relugolix to patients with mild or moderate hepatic impairment, the total exposure to relugolix (AUC0-∞ ) was decreased by 31% or was comparable, respectively, compared to subjects with normal hepatic function. The mean elimination half-life of relugolix in patients with mild or moderate hepatic impairment and healthy control subjects was comparable.
+After administration of a single 40-mg dose of relugolix to patients with mild or moderate hepatic impairment, the total exposure to relugolix (AUC0-∞) was decreased by 31% or was comparable, respectively, compared to subjects with normal hepatic function. The mean elimination half-life of relugolix in patients with mild or moderate hepatic impairment and healthy control subjects was comparable.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -493,7 +473,7 @@ No dose adjustment for Orgovyx in patients with mild or moderate hepatic impairm
 
 Non-clinical data based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, or carcinogenic potential reveal no special hazard for humans beyond those discussed below.
 
-In human GnRH-receptor knock-in male mice, oral administration of relugolix decreased prostate and seminal vesicle weights at doses ≥ 3 mg/kg twice daily for 28 days. The effects of relugolix were reversible, except for testis weight, which did not fully recover within 28 days after drug withdrawal. These effects in knock-in male mice are likely associated with the pharmacodynamics of relugolix; however, the relevance of these findings to humans is unknown. In a 39-week repeat dose toxicity study in monkeys, there were no significant effects on male reproductive organs at oral relugolix doses up to 50 mg/kg/day (approximately 36 times the human exposure at the recommended dose of 120 mg daily based on AUC). Relugolix ( doses of ≥ 1 mg/kg) suppressed LH concentrations in castrated male cynomolgus monkeys; however, the suppressive effect of relugolix on LH and sex hormones was not evaluated in the 39-week toxicity study in intact monkeys. Therefore, the relevance of the lack of effect on reproductive organs in intact male monkeys to humans is unknown.
+In human GnRH-receptor knock-in male mice, oral administration of relugolix decreased prostate and seminal vesicle weights at doses ≥ 3 mg/kg twice daily for 28 days. The effects of relugolix were reversible, except for testis weight, which did not fully recover within 28 days after drug withdrawal. These effects in knock-in male mice are likely associated with the pharmacodynamics of relugolix; however, the relevance of these findings to humans is unknown. In a 39-week repeat dose toxicity study in monkeys, there were no significant effects on male reproductive organs at oral relugolix doses up to 50 mg/kg/day (approximately 36 times the human exposure at the recommended dose of 120 mg daily based on AUC). Relugolix (doses of ≥ 1 mg/kg) suppressed LH concentrations in castrated male cynomolgus monkeys; however, the suppressive effect of relugolix on LH and sex hormones was not evaluated in the 39-week toxicity study in intact monkeys. Therefore, the relevance of the lack of effect on reproductive organs in intact male monkeys to humans is unknown.
 
 In pregnant rabbits orally dosed with relugolix during the period of organogenesis, spontaneous abortion and total litter loss were observed at exposure levels (AUC) less than that achieved at the recommended human dose of 120 mg/day. No effects on embryofoetal development were observed in rats; however, relugolix does not interact significantly with GnRH receptors in that species.
 
@@ -542,10 +522,8 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 ```
-EU/1/22/1642/001 EU/1/22/1642/002 EU/1/22/1642/003 EU/1/22/1642/004 EU/1/22/1642/005 EU/1/22/1642/006
+EU/1/22/1642/001 EU/1/22/1642/002 EU/1/22/1642/003 EU/1/22/1642/004 EU/1/22/1642/005 EU/1/22/1642/006 EU/1/22/1642/007
 ```
-
-EU/1/22/1642/007
 
 <div style=\"page-break-after: always\"></div>
 
@@ -574,15 +552,17 @@ Name and address of the manufacturer responsible for batch release
 
 Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50,95-200 Pabianice, Poland
 
-Accord Healthcare B.V., Winthontlaan 200, 3526 KV Utrecht, The Netherlands
+Accord Healthcare B.V., Winthontlaan 200, 3526 KV Utrecht,
+
+The Netherlands
+
+Accord Healthcare Single Member S.A., 64th Km National Road Athens, Lamia, Schimatari, 32009, Greece
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
-Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product
-
-Characteristics, section 4.2).
+Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
@@ -598,14 +578,12 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
+<div style=\"page-break-after: always\"></div>
+
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk
-
-<div style=\"page-break-after: always\"></div>
-
-profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -645,7 +623,9 @@ Each film-coated tablet contains 120 mg of relugolix
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -738,7 +718,9 @@ Each film-coated tablet contains 120 mg of relugolix
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -778,7 +760,7 @@ EU/1/22/1642/002 90 film-coated tablets (3 packs of 30)
 
 EU/1/22/1642/005 90 film-coated tablets
 
-- EU/1/22/1642/006 33 film-coated tablets
+EU/1/22/1642/006 33 film-coated tablets
 
 EU/1/22/1642/007 95 film-coated tablets
 
@@ -786,8 +768,7 @@ EU/1/22/1642/007 95 film-coated tablets
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
@@ -795,7 +776,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## RTICULARS TO APPEAR ON THE OUTER PACKAGING
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON - BLISTER PACK
 
@@ -807,14 +788,15 @@ Orgovyx 120 mg film-coated tablets relugolix
 
 Each film-coated tablet contains 120 mg of relugolix
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+Film-coated tablets
 
 - 30 film-coated tablets
-- 90 film-coated tablets.
+
+90 film-coated tablets.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -838,7 +820,9 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est 6ª planta, 08039 Barcelona, Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est 6ª planta, 08039 Barcelona,
+
+Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -850,7 +834,8 @@ EU/1/22/1642/004
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -881,7 +866,7 @@ Orgovyx 120 mg film-coated tablets relugolix
 
 Accord
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -899,20 +884,24 @@ Oral use
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
 
-## Orgovyx 120 mg film-coated tablets relugolix
+<!-- image -->
+
+## Package leaflet: Information for the user
+
+## Orgovyx 120 mg film-coated tablets
+
+relugolix
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -933,21 +922,21 @@ Relugolix works by blocking a step in the process that signals the testes to pro
 
 ## Do not take Orgovyx
 
-- -if you are allergic to relugolix or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to relugolix or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before taking Orgovyx if you have any of the following:
 
-- -Heart circulation conditions such as heart rhythm problems (arrhythmia). The risk of heart rhythm problems may be increased when using Orgovyx. Your doctor may check your body salts (electrolytes) and the electrical activity of your heart during treatment with Orgovyx.
+- Heart circulation conditions such as heart rhythm problems (arrhythmia). The risk of heart rhythm problems may be increased when using Orgovyx. Your doctor may check your body salts (electrolytes) and the electrical activity of your heart during treatment with Orgovyx.
 
 <div style=\"page-break-after: always\"></div>
 
-- -Tell your doctor right away if you get any signs or symptoms like dizziness, fainting, feeling that your heart is pounding or racing (palpitations) or chest pain. Those can be symptoms of serious heart rhythm problems.
-- -Liver disease. Liver function may need to be monitored. Use of Orgovyx has not been investigated in patients with severe liver disease.
-- -Renal (kidney) disease.
-- -Osteoporosis or any condition that affects the strength of your bones. Reduced levels of testosterone may lead to thinning of bones.
-- -Monitoring of your disease with a blood test for prostatespecific antigen (PSA).
+- Tell your doctor right away if you get any signs or symptoms like dizziness, fainting, feeling that your heart is pounding or racing (palpitations) or chest pain. Those can be symptoms of serious heart rhythm problems.
+- Liver disease. Liver function may need to be monitored. Use of Orgovyx has not been investigated in patients with severe liver disease.
+- Renal (kidney) disease.
+- Osteoporosis or any condition that affects the strength of your bones. Reduced levels of testosterone may lead to thinning of bones.
+- Monitoring of your disease with a blood test for prostatespecific antigen (PSA).
 
 ## Children and adolescents
 
@@ -961,17 +950,17 @@ Orgovyx may interfere with some medicines used to treat heart rhythm problems (e
 
 Other medicines may interfere with the absorption of relugolix, resulting in either an increase in blood levels that may increase side effects or decrease in blood levels that may decrease the effectiveness of Orgovyx. Examples of medicines that may interfere with Orgovyx include:
 
-- -Certain medicines used to treat epilepsy (e.g. carbamazepine, phenytoin, phenobarbital).
-- -Certain medicines used to treat bacterial infections (e.g. rifampicin, azithromycin, erythromycin, clarithromycin, gentamicin, tetracycline).
-- -Certain medicines used to treat fungal infections (e.g. ketoconazole, itraconazole).
-- -Certain medicines used to treat prostate cancer (e.g. apalutamide).
-- -Herbal remedies containing St John's Wort ( Hypericum perforatum ).
-- -Certain medicines used to treat high blood pressure (e.g. carvedilol, verapamil).
-- -Certain medicines used to treat arrhythmias (e.g. amiodarone, dronedarone, propafenone, quinidine).
-- -Certain medicines used to treat angina (e.g. ranolazine).
-- -Certain medicines used as immunosuppressants (e.g. cyclosporine).
-- -Certain medicines used to treat HIV infections (e.g. ritonavir [or ritonavir-containing combinations], efavirenz).
-- -Certain medicines used to treat hepatitis C (e.g. telaprevir).
+- Certain medicines used to treat epilepsy (e.g. carbamazepine, phenytoin, phenobarbital).
+- Certain medicines used to treat bacterial infections (e.g. rifampicin, azithromycin, erythromycin, clarithromycin, gentamicin, tetracycline).
+- Certain medicines used to treat fungal infections (e.g. ketoconazole, itraconazole).
+- Certain medicines used to treat prostate cancer (e.g. apalutamide).
+- Herbal remedies containing St John's Wort (Hypericum perforatum).
+- Certain medicines used to treat high blood pressure (e.g. carvedilol, verapamil).
+- Certain medicines used to treat arrhythmias (e.g. amiodarone, dronedarone, propafenone, quinidine).
+- Certain medicines used to treat angina (e.g. ranolazine).
+- Certain medicines used as immunosuppressants (e.g. cyclosporine).
+- Certain medicines used to treat HIV infections (e.g. ritonavir [or ritonavir-containing combinations], efavirenz).
+- Certain medicines used to treat hepatitis C (e.g. telaprevir).
 
 Your doctor may therefore change your medications, change when you take your certain medications, the dose of the medicines, or increase the dose of Orgovyx.
 
@@ -981,12 +970,12 @@ Orgovyx is intended for use in men with prostate cancer. This medicine could pos
 
 This medicine is not indicated in women who could become pregnant. It is not used in women who are, or may be pregnant or breast-feeding.
 
-- -Information for men:
+- Information for men:
 
 <div style=\"page-break-after: always\"></div>
 
-- -If you are having sex with a woman who can become pregnant, use a condom and another effective birth control method used by your partner, during treatment and for 2 weeks after treatment with this medicine, to prevent pregnancy.
-- -If you are having sex with a pregnant woman, use a condom to protect the unborn child.
+- If you are having sex with a woman who can become pregnant, use a condom and another effective birth control method used by your partner, during treatment and for 2 weeks after treatment with this medicine, to prevent pregnancy.
+- If you are having sex with a pregnant woman, use a condom to protect the unborn child.
 
 ## Driving and using machines
 
@@ -1033,46 +1022,46 @@ Some side effects could be serious.
 
 Seek urgent medical attention if you develop:
 
-- -Rapid swelling of your face, mouth, lips, tongue, throat, abdomen, or arms and legs (angioedema) (uncommon: may affect up to 1 in 100 people).
+- Rapid swelling of your face, mouth, lips, tongue, throat, abdomen, or arms and legs (angioedema) (uncommon: may affect up to 1 in 100 people).
 
 The following side effects have been reported with Orgovyx and are listed below according to the frequency with which they occur.
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
-- -hot flush
-- -diarrhoea
-- -constipation
-- -muscle and joint pain
-- -tiredness
+- hot flush
+- diarrhoea
+- constipation
+- muscle and joint pain
+- tiredness
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
-- -low red cell count (anaemia)
-- -breast enlargement in men (gynaecomastia)
-- -sleeplessness
-- -depression
-- -dizziness
-- -headache
-- -high blood pressure
-- -upset stomach including feeling sick (nausea)
-- -increased sweating
-- -rash
-- -decreased interest in sex
-- -increased weight
-- -increased blood sugar levels
-- -increased blood fat (triglyceride) levels
-- -increased blood cholesterol level
+- low red cell count (anaemia)
+- breast enlargement in men (gynaecomastia)
+- sleeplessness
+- depression
+- dizziness
+- headache
+- high blood pressure
+- upset stomach including feeling sick (nausea)
+- increased sweating
+- rash
+- decreased interest in sex
+- increased weight
+- increased blood sugar levels
+- increased blood fat (triglyceride) levels
+- increased blood cholesterol level
 
 ## Uncommon (may affect up to 1 in 100 people):
 
-- -thinning of the bones (osteoporosis)
-- -increased liver enzymes
-- -hives (urticaria)
-- -heart attack
+- thinning of the bones (osteoporosis)
+- increased liver enzymes
+- hives (urticaria)
+- heart attack
 
-## Not known (frequency cannot be estimated from the available data):
+Not known (frequency cannot be estimated from the available data):
 
-- -changes in the electrocardiogram (QT prolongation)
+- changes in the electrocardiogram (QT prolongation)
 
 ## Reporting of side effects
 
@@ -1094,14 +1083,14 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Orgovyx contains
 
-- -The active substance is relugolix.
-- -The other ingredients are mannitol (E421), sodium starch glycolate (E468), hydroxypropyl cellulose (E463), magnesium stearate (E572), hypromellose (E464), titanium dioxide (E171), iron oxide red (E172), carnauba wax (E903).
+- The active substance is relugolix.
+- The other ingredients are mannitol (E421), sodium starch glycolate (E468), hydroxypropyl cellulose (E463), magnesium stearate (E572), hypromellose (E464), titanium dioxide (E171), iron oxide red (E172), carnauba wax (E903).
 
-See 'Orgovyx contains sodium' in section 2 for more information.
+See \"Orgovyx contains sodium\" in section 2 for more information.
 
 ## What Orgovyx looks like and contents of the pack
 
-Orgovyx film-coated tablets are light red, almond-shaped, film-coated tablets (11 mm [length] × 8 mm [width]) with 'R' on one side and '120' on the other side. Orgovyx is available in a plastic white bottle containing 30, 33, 90 or 95 film-coated tablets, in pack sizes of 30, 33, 95 film-coated tablets and 90 film-coated tablets (3 bottles of 30 film-coated tablets or 1 bottle of 90 film-coated tablets). Each bottle also contains a desiccant to help to keep your medicine dry (protect it from moisture), do not remove the desiccant from the bottle. Each bottle is enclosed with an induction-sealed, child-resistant cap.
+Orgovyx film-coated tablets are light red, almond-shaped, film-coated tablets (11 mm [length] × 8 mm [width]) with \"R\" on one side and \"120\" on the other side. Orgovyx is available in a plastic white bottle containing 30, 33, 90 or 95 film-coated tablets, in pack sizes of 30, 33, 95 film-coated tablets and 90 film-coated tablets (3 bottles of 30 film-coated tablets or 1 bottle of 90 film-coated tablets). Each bottle also contains a desiccant to help to keep your medicine dry (protect it from moisture), do not remove the desiccant from the bottle. Each bottle is enclosed with an induction-sealed, child-resistant cap.
 
 Orgovyx film-coated tablets also supplied in Alu/Alu blisters containing 30 and 90 filmcoated tablets.
 
@@ -1117,11 +1106,11 @@ Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50,95-200 Pabianice, Poland
 
 Accord Healthcare B.V., Winthontlaan 200, 3526 KV Utrecht, The Netherlands
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Accord Healthcare Single Member S.A., 64th Km National Road Athens, Lamia, Schimatari, 32009, Greece For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-## AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES
+AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES
 
 Accord Healthcare S.L.U.
 

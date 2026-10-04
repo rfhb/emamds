@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-06-25 13:57:00
+document_datetime: 2026-10-01 17:13:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/constella.html
 document_name: constella.html
 version: success
-processing_time: 0.1667352
-conversion_datetime: 2026-07-04 13:11:19.824517
+processing_time: 0.4606925
+conversion_datetime: 2026-10-04 16:21:09.649583
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.133.0
+  docling-core: 2.99.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Constella
 
 [RSS](/en/individual-human-medicine.xml/66593)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -111,7 +111,7 @@ English (EN) (57.79 KB - PDF)
 
 [View](/en/documents/overview/constella-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-526)
+[Other languages (21)](#file-language-dropdown-71)
 
 български (BG) (96.47 KB - PDF)
 
@@ -257,7 +257,7 @@ English (EN) (295.05 KB - PDF)
 
 [View](/en/documents/product-information/constella-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-545)
+[Other languages (24)](#file-language-dropdown-541)
 
 български (BG) (416.2 KB - PDF)
 
@@ -411,7 +411,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -430,7 +430,7 @@ English (EN) (24.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/constella-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-668)
+[Other languages (24)](#file-language-dropdown-603)
 
 български (BG) (33.13 KB - PDF)
 
@@ -606,7 +606,7 @@ Constella is indicated for the symptomatic treatment of moderate to severe irrit
 - **Marketing authorisation issued**
     - 26/11/2012
 - **Revision**
-    - 32
+    - 33
 
 ## Assessment history
 
@@ -631,6 +631,26 @@ English (EN) (268.19 KB - PDF)
 **First published:** 30/11/2012 **Last updated:** 27/01/2026
 
 [View](/en/documents/procedural-steps-after/constella-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Constella-H-C-002490-PAM-0000317010 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2926678
+
+English (EN) (3.6 MB - PDF)
+
+**First published:** 01/10/2026
+
+[View](/en/documents/variation-report/constella-h-c-002490-pam-0000317010-epar-assessment-report_en.pdf)
+
+Constella-H-C-002490-PAM-0000326081 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2928512
+
+English (EN) (4.99 MB - PDF)
+
+**First published:** 01/10/2026
+
+[View](/en/documents/variation-report/constella-h-c-002490-pam-0000326081-epar-assessment-report_en.pdf)
 
 Constella-PSUSA-00010025-202508 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -754,10 +774,10 @@ English (EN) (45 KB - PDF)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-25/06/2026
+01/10/2026
 
 ## Share this page

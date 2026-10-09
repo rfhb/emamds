@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-06 11:50:52
+document_datetime: 2026-10-05 16:34:45
 document_pages: 11
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/cibinqo-pam-0000347917-epar-assessment-report_en.pdf
 document_name: cibinqo-pam-0000347917-epar-assessment-report_en.pdf
 version: success
-processing_time: 3.0586356
-conversion_datetime: 2026-08-07 14:03:45.762112
+processing_time: 3.6011136
+conversion_datetime: 2026-10-09 18:46:37.414571
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 <!-- image -->
 
@@ -36,14 +36,13 @@ Assessment report as adopted by the CHMP with all information of a commercially 
 
 <div style=\"page-break-after: always\"></div>
 
-| Status of this report and steps taken for the assessment   | Status of this report and steps taken for the assessment   | Status of this report and steps taken for the assessment   | Status of this report and steps taken for the assessment   |
-|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
-| Current step¹                                              | Description                                                | Planned date                                               | Actual Date                                                |
-|                                                            | Start date                                                 | 25 May 2026                                                | 25 May 2026                                                |
-|                                                            | CHMP Rapporteur AR                                         | 29 June 2026                                               | 24 June 2026                                               |
-|                                                            | CHMP comments                                              | 13 July 2026                                               | n/a                                                        |
-|                                                            | Updated CHMP Rapporteur AR                                 | 16 July 2026                                               | n/a                                                        |
-|                                                            | CHMP outcome                                               | 23 July 2026                                               | 23 July 2026                                               |
+| Status of this report and steps taken for the assessment - Current step¹   | Status of this report and steps taken for the assessment - Description   | Status of this report and steps taken for the assessment - Planned date   | Status of this report and steps taken for the assessment - Actual Date   |
+|----------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------|
+|                                                                            | Start date                                                               | 25 May 2026                                                               | 25 May 2026                                                              |
+|                                                                            | CHMP Rapporteur AR                                                       | 29 June 2026                                                              | 24 June 2026                                                             |
+|                                                                            | CHMP comments                                                            | 13 July 2026                                                              | n/a                                                                      |
+|                                                                            | Updated CHMP Rapporteur AR                                               | 16 July 2026                                                              | n/a                                                                      |
+|                                                                            | CHMP outcome                                                             | 23 July 2026                                                              | 23 July 2026                                                             |
 
 \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
@@ -51,21 +50,21 @@ Assessment report as adopted by the CHMP with all information of a commercially 
 
 ## Table of contents
 
-| 1. Introduction ............................................................................................ 4                                              |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2. Scientific discussion ................................................................................ 4                                                 |
-| 2.2. Information on the pharmaceutical formulation used in the study .................................................. 4                                   |
-| 2.3. Clinical aspects ................................................................................................................................... 4 |
-| Introduction ........................................................................................................................................... 4  |
-| Clinical study .......................................................................................................................................... 4 |
-| Study B7451126 - Abrocitinib for Treatment of Atopic Dermatitis in the Real-World Dermatology                                                               |
-| Setting: Patient Characteristics, Disease Activity, and Clinical Outcomes ............................................ 4                                    |
-| Description ............................................................................................................................................ 4  |
-| Methods ................................................................................................................................................ 5  |
-| The MAH´s conclusions ....................................................................................................................... 10            |
-| Discussion on clinical aspects .............................................................................................................. 11            |
-| 3. Rapporteur's overall conclusion and recommendation .......................... 11                                                                         |
-| Fulfilled: ........................................................................................................................................ 11      |
+| 1. Introduction ............................................................................................ 4 2. Scientific discussion ................................................................................ 4                 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2.1. Information on the development program ........................................................................................ 4                                                                                                     |
+| 2.2. Information on the pharmaceutical formulation used in the study .................................................. 4                                                                                                                  |
+| 2.3. Clinical aspects ................................................................................................................................... 4                                                                                |
+| Introduction ........................................................................................................................................... 4                                                                                 |
+| Clinical study .......................................................................................................................................... 4                                                                                |
+| Study B7451126 - Abrocitinib for Treatment of Atopic Dermatitis in the Real-World Dermatology                                                                                                                                              |
+| Setting: Patient Characteristics, Disease Activity, and Clinical Outcomes ............................................ 4                                                                                                                   |
+| Description ............................................................................................................................................ 4                                                                                 |
+| Methods ................................................................................................................................................ 5                                                                                 |
+| Results ................................................................................................................................................... 7                                                                              |
+| The MAH´s conclusions ....................................................................................................................... 10                                                                                           |
+| Discussion on clinical aspects .............................................................................................................. 11                                                                                           |
+| 3. Rapporteur's overall conclusion and recommendation .......................... 11 Fulfilled: ........................................................................................................................................ 11 |
 
 \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
@@ -73,9 +72,7 @@ Assessment report as adopted by the CHMP with all information of a commercially 
 
 ## 1. Introduction
 
-On 8 May 2026, the MAH submitted a completed paediatric study for Cibinqo, in accordance with Article 46 of Regulation (EC) No1901/2006, as amended.
-
-A short critical expert overview has also been provided.
+On 8 May 2026, the MAH submitted a completed paediatric study for Cibinqo, in accordance with Article 46 of Regulation (EC) No1901/2006, as amended. A short critical expert overview has also been provided.
 
 The MAH does not propose an update of the product information.
 
@@ -85,7 +82,7 @@ The MAH does not propose an update of the product information.
 
 Cibinqo, which contains the JAK-inhibitor abrocitnib as active substance, was approved in EU on 09 Dec 2021 for the treatment of moderate-to-severe AD in adults who are candidates for systemic therapy. A Type II Variation to expand the indication to include adolescents with moderate-to-severe AD who are candidates for systemic therapy was submitted to EMA in May 2023. The MAH received a positive CHMP Opinion on February 22, 2025, and a EC Decision on March 21, 2024.
 
-According to the line listing of all the studies included in the development program submitted by the MAH, Study B7451126 'Abrocitinib for Treatment of Atopic Dermatitis in the Real-World Dermatology Setting: Patient Characteristics, Disease Activity, and Clinical Outcomes' was not part of the development program.
+According to the line listing of all the studies included in the development program submitted by the MAH, Study B7451126 \"Abrocitinib for Treatment of Atopic Dermatitis in the Real-World Dermatology Setting: Patient Characteristics, Disease Activity, and Clinical Outcomes\" was not part of the development program.
 
 ## 2.2. Information on the pharmaceutical formulation used in the study
 
@@ -97,11 +94,11 @@ The abrocitinib formulation currently marketed in the US and used in the study i
 
 The MAH submitted a final report for:
 
-· Study B7451126 titled 'Abrocitinib for Treatment of Atopic Dermatitis in the Real-World Dermatology Setting: Patient Characteristics, Disease Activity, and Clinical Outcomes'
+· Study B7451126 titled \"Abrocitinib for Treatment of Atopic Dermatitis in the Real-World Dermatology Setting: Patient Characteristics, Disease Activity, and Clinical Outcomes\"
 
 ## Clinical study
 
-Study B7451126 - Abrocitinib for Treatment of Atopic Dermatitis in the Real-World Dermatology Setting: Patient Characteristics, Disease Activity, and Clinical Outcomes
+## Study B7451126 - Abrocitinib for Treatment of Atopic Dermatitis in the Real-World Dermatology Setting: Patient Characteristics, Disease Activity, and Clinical Outcomes
 
 ## Description
 
@@ -142,7 +139,7 @@ Patients were excluded if there was evidence of pregnancy or breastfeeding withi
 
 ## Objectives
 
-The primary objective was to characterize patients with linked electronic health records (EHR) and open claims data initiating abrocitinib or biologics for the treatment of AD, reporting abrocitinib and dupilumab individually ('Abrocitinib Treatment Cohort' and 'Dupilumab Treatment Cohort', respectively), and combined for dupilumab, tralokinumab, lebrikizumab, and nemolizumab ('Other Biologics Cohort'). This included reporting on the following:
+The primary objective was to characterize patients with linked electronic health records (EHR) and open claims data initiating abrocitinib or biologics for the treatment of AD, reporting abrocitinib and dupilumab individually (\"Abrocitinib Treatment Cohort\" and \"Dupilumab Treatment Cohort\", respectively), and combined for dupilumab, tralokinumab, lebrikizumab, and nemolizumab (\"Other Biologics Cohort\"). This included reporting on the following:
 
 1. Demographic and encounter characteristics at baseline
 2. Patient medical history and co-morbidities documented in the EHR or paid claims in the pre-index period
@@ -265,9 +262,9 @@ Among adolescents in the Dupilumab Treatment Cohort, at Week 6, 10.2% (n=13) of 
 
 ## Other Biologics Treatment Cohort
 
-Among adolescents in the Other Biologics Treatment Cohort, at Week 6, 11.3% (n=15) of the adolescent patients with Itch reported at baseline had a follow up Itch score. Nearly this same proportion had a follow up Itch at 16 weeks, but at the 12-week timepoint only 8.3% (n=11) of patients had a follow up Itch documented. Similar patterns were observed for IGA
+Among adolescents in the Other Biologics Treatment Cohort, at Week 6, 11.3% (n=15) of the adolescent patients with Itch reported at baseline had a follow up Itch score. Nearly this same proportion had a follow up Itch at 16 weeks, but at the 12-week timepoint only 8.3% (n=11) of
 
-and BSA.
+patients had a follow up Itch documented. Similar patterns were observed for IGA and BSA.
 
 ## Abrocitinib Treatment Cohort
 
@@ -279,9 +276,9 @@ Safety was not examined in this study.
 
 ## The MAH´s conclusions
 
-This was the first study to characterize US-based adolescents treated with abrocitinib in real world EHR data linked to open claims. More adolescents received dupilumab and/or other biologics during the observation period than received abrocitinib (1,572 vs. 34). Across all three cohorts, patients tended to be female and with an average age of 15 years. Most patients taking these medications were White, but the proportion of patients in the Dupilumab and Other Biologics Treatment Cohorts who were Black or African American was double that reported in the Abrocitinib Treatment Cohort (19.3% vs. 19.4% vs 7.4%, respectively). Otherwise, the demographic characteristics, prior co-morbidities, treatment histories, and HCRU prior to index were all relatively similar across all cohorts.
+This was the first study to characterize US-based adolescents treated with abrocitinib in real world EHR data linked to open claims. More adolescents received dupilumab and/or other biologics during the observation period than received abrocitinib (1,572 vs. 34). Across all three cohorts, patients tended to be female and with an average age of 15 years. Most patients taking these medications were White, but the proportion of patients in the Dupilumab and Other Biologics Treatment Cohorts who were Black or African American was double that reported in the Abrocitinib Treatment Cohort (19.3% vs. 19.4% vs 7.4%, respectively). Otherwise, the demographic characteristics, prior co-morbidities, treatment histories, and HCRU prior to index were all relatively similar across all cohorts. Proportionally, the availability of measures at baseline were nearly identical across all three cohorts (Abrocitinib, 11.8% vs. Dupilumab, 10.9% vs. Other Biologics, 11.0%). This trend continued in the post-index period, with at most one-tenth of patients in the cohorts having any follow-up measure reported at 6, 12, or 16 weeks post-index. This indicates that documentation of clinical measures of disease severity among these patients was limited, even considering that nearly half of patients were treated in Dermatology Specialty Practices where their EHR makes such capture reasonably easy and straightforward. This creates a challenge when trying to replicate clinical trial outcomes using real
 
-Proportionally, the availability of measures at baseline were nearly identical across all three cohorts (Abrocitinib, 11.8% vs. Dupilumab, 10.9% vs. Other Biologics, 11.0%). This trend continued in the post-index period, with at most one-tenth of patients in the cohorts having any follow-up measure reported at 6, 12, or 16 weeks post-index. This indicates that documentation of clinical measures of disease severity among these patients was limited, even considering that nearly half of patients were treated in Dermatology Specialty Practices where their EHR makes such capture reasonably easy and straightforward. This creates a challenge when trying to replicate clinical trial outcomes using real world data.
+world data.
 
 \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
@@ -305,9 +302,9 @@ As already stated by the MAH, the findings from this study may not apply to the 
 
 Safety was not examined in this study.
 
-Overall, the benefit-risk of upadacitinib is unchanged. No update to the Summary of Product Characteristics is proposed by the MAH, which is endorsed.
+Overall, the benefit-risk of abrocitinib is unchanged. No update to the Summary of Product Characteristics is proposed by the MAH, which is endorsed.
 
-## 3. Rapporteur's overall conclusion and recommendation
+## 3. CHMP overall conclusion and recommendation
 
 The final results of the non-interventional retrospective cohort Study B7451126, characterizing patients initiating abrocitinib, dupilumab, and other biologics for the treatment of moderate-to-severe atopic dermatitis, have been reported. The assessment of the benefit-risk profile of abrocitinib is not affected by this study. The MAH has not suggested any update to the Summary of Product Characteristics based on the performed study, which is supported by the Rapporteur.
 

@@ -1,24 +1,22 @@
 ---
-document_datetime: 2024-04-03 16:11:36
+document_datetime: 2026-10-05 16:28:49
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ertapenem-sun-epar-product-information_en.pdf
 document_name: ertapenem-sun-epar-product-information_en.pdf
 version: success
-processing_time: 5.894905
-conversion_datetime: 2025-12-24 17:16:18.377903
+processing_time: 6.32254
+conversion_datetime: 2026-10-09 18:36:28.600343
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -67,9 +65,9 @@ Consideration should be given to official guidance on the appropriate use of ant
 
 Intravenous use.
 
-Treatment Adults and adolescents (13 to 17 years of age) : The dose of Ertapenem SUN is 1 gram (g) given once a day, see section 6.6.
+Treatment Adults and adolescents (13 to 17 years of age): The dose of Ertapenem SUN is 1 gram (g) given once a day, see section 6.6.
 
-Infants and children (3 months to 12 years of age) : The dose of Ertapenem SUN is 15 mg/kg given twice daily (not to exceed 1 g/day), see section 6.6.
+Infants and children (3 months to 12 years of age): The dose of Ertapenem SUN is 15 mg/kg given twice daily (not to exceed 1 g/day), see section 6.6.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -95,7 +93,7 @@ No dose adjustment is recommended in patients with impaired hepatic function (se
 
 ## Elderly
 
-The recommended dose of Ertapenem SUN should be administered, except in cases of severe renal impairment (see Renal impairment ).
+The recommended dose of Ertapenem SUN should be administered, except in cases of severe renal impairment (see Renal impairment).
 
 ## Method of administration
 
@@ -145,7 +143,7 @@ Based on the data available it cannot be excluded that in the few cases of surgi
 
 ## Considerations for use in particular populations
 
-Experience in the use of ertapenem in the treatment of severe infections is limited. In clinical studies for the treatment of community-acquired pneumonia, in adults, 25 % of evaluable patients treated with ertapenem had severe disease (defined as pneumonia severity index &gt; III). In a clinical study for the treatment of acute gynaecologic infections, in adults, 26 % of evaluable patients treated with ertapenem had severe disease (defined as temperature ≥ 39  C and/or bacteraemia); ten patients had bacteraemia. Of evaluable patients treated with ertapenem in a clinical study for the treatment of intra-abdominal infections, in adults, 30 % had generalised peritonitis and 39 % had infections involving sites other than the appendix including the stomach, duodenum, small bowel, colon, and gallbladder; there were limited numbers of evaluable patients who were enrolled with APACHE II scores ≥ 15 and efficacy in these patients has not been established.
+Experience in the use of ertapenem in the treatment of severe infections is limited. In clinical studies for the treatment of community-acquired pneumonia, in adults, 25 % of evaluable patients treated with ertapenem had severe disease (defined as pneumonia severity index &gt; III). In a clinical study for the treatment of acute gynaecologic infections, in adults, 26 % of evaluable patients treated with ertapenem had severe disease (defined as temperature ≥ 39C and/or bacteraemia); ten patients had bacteraemia. Of evaluable patients treated with ertapenem in a clinical study for the treatment of intra-abdominal infections, in adults, 30 % had generalised peritonitis and 39 % had infections involving sites other than the appendix including the stomach, duodenum, small bowel, colon, and gallbladder; there were limited numbers of evaluable patients who were enrolled with APACHE II scores ≥ 15 and efficacy in these patients has not been established.
 
 The efficacy of ertapenem in the treatment of community acquired pneumonia due to penicillinresistant Streptococcus pneumoniae has not been established.
 
@@ -187,7 +185,7 @@ Ertapenem SUN may influence patients' ability to drive and use machines. Patient
 
 ## Summary of the safety profile
 
-## Adults
+Adults
 
 The total number of patients treated with ertapenem in clinical studies was over 2,200 of which over 2,150 received a 1 g dose of ertapenem. Adverse reactions (i.e., considered by the investigator to be possibly, probably, or definitely related to the medicinal product) were reported in approximately 20 % of patients treated with ertapenem. Treatment was discontinued due to adverse reactions in 1.3 % of patients. An additional 476 patients received ertapenem as a single 1 g dose prior to surgery in a clinical study for the prophylaxis of surgical site infections following colorectal surgery.
 
@@ -209,43 +207,43 @@ For patients who received only ertapenem, the most frequently reported laborator
 
 For patients who received only ertapenem, the following adverse reactions were reported during therapy plus follow-up for 14 days after treatment was stopped:
 
-Common ( ≥ 1/100 to &lt; 1/10); Uncommon ( ≥ 1/1,000 to &lt; 1/100); Rare ( ≥ 1/10,000 to &lt; 1/1,000); Very rare (&lt; 1/10,000); Not known (cannot be estimated from the available data)
+Common (≥ 1/100 to &lt; 1/10); Uncommon (≥ 1/1,000 to &lt; 1/100); Rare (≥ 1/10,000 to &lt; 1/1,000); Very rare (&lt; 1/10,000); Not known (cannot be estimated from the available data)
 
-|                                      | Adults 18 years of age and older                                                                                                                                                                                                                              | Children and adolescents (3 months to 17 years of age)   |
-|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| Infections and infestations          | Uncommon : Oral candidiasis, candidiasis, fungal infection, pseudomembranous enterocolitis, v aginitis Rare : Pneumonia, dermatomycosis, postoperative wound infection, urinary tract infection                                                               |                                                          |
-| Blood and lymphatic system disorders | Rare : Neutropenia, thrombocytopenia                                                                                                                                                                                                                          |                                                          |
-| Immune system disorders              | Rare : Allergy Not known: Anaphylaxis including anaphylactoid reactions                                                                                                                                                                                       |                                                          |
-| Metabolism and nutrition disorders   | Uncommon : Anorexia Rare : Hypoglycaemia                                                                                                                                                                                                                      |                                                          |
-| Psychiatric disorders                | Uncommon : Insomnia, confusion Rare : Agitation, anxiety, depression Not known: Altered mental status (including aggression, delirium, disorientation, mental status changes)                                                                                 | Not known: Altered mental status (including aggression)  |
-| Nervous system disorders             | Common : Headache Uncommon : Dizziness, somnolence, taste perversion, seizure (see section 4.4) Rare : Tremor, syncope Not known: Hallucinations, depressed level of consciousness, dyskinesia, myoclonus, gait disturbance, encephalopathy (see section 4.4) | Uncommon : Headache Not known: Hallucinations            |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                                      | Adults 18 years of age and older                                                                                                                                                                                                                     | Children and adolescents (3 months to 17 years of age)                                                                                                      |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Eye disorders                                        | Rare : Scleral disorder                                                                                                                                                                                                                              |                                                                                                                                                             |
-| Cardiac disorders                                    | Uncommon : Sinus bradycardia Rare : Arrhythmia, tachycardia                                                                                                                                                                                          |                                                                                                                                                             |
-| Vascular disorders                                   | Common : Infused vein complication, phlebitis/thrombophlebitis Uncommon : Hypotension Rare : Haemorrhage, increased blood pressure                                                                                                                   | Uncommon : Hot flush, hypertension                                                                                                                          |
-| Respiratory, thoracic and mediastinal disorders      | Uncommon : Dyspnoea, pharyngeal discomfort Rare : Nasal congestion, cough, epistaxis, rales/rhonchi, wheezing                                                                                                                                        |                                                                                                                                                             |
-| Gastrointestinal disorders                           | Common : Diarrhoea, nausea, vomiting Uncommon : Constipation, acid regurgitation, dry mouth, dyspepsia, abdominal pain Rare : Dysphagia, faecal incontinence, pelvic peritonitis Not known: teeth staining                                           | Common : Diarrhoea Uncommon : Faeces discoloured, melaena                                                                                                   |
-| Hepatobiliary disorders                              | Rare : Cholecystitis, jaundice, liver disorder                                                                                                                                                                                                       |                                                                                                                                                             |
-| Skin and subcutaneous tissue disorders               | Common : Rash, pruritus Uncommon : Erythema, urticaria Rare : Dermatitis, desquamation, hypersensitivity vasculitis Not known: Acute Generalised Exanthematous Pustulosis (AGEP), Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome) | Common : Diaper dermatitis Uncommon : Erythema, rash, petechiae                                                                                             |
-| Musculoskeletal and connective tissue disorders      | Rare : Muscle cramp, shoulder pain Not known: Muscular weakness                                                                                                                                                                                      |                                                                                                                                                             |
-| Renal and urinary disorders                          | Rare : Renal insufficiency, acute renal insufficiency                                                                                                                                                                                                |                                                                                                                                                             |
-| Pregnancy, puerperium and perinatal conditions       | Rare : Abortion                                                                                                                                                                                                                                      |                                                                                                                                                             |
-| Reproductive system and breast disorders             | Rare : Genital bleeding                                                                                                                                                                                                                              |                                                                                                                                                             |
-| General disorders and administration site conditions | Uncommon : Extravasation, asthenia/fatigue, fever, oedema/swelling, chest pain Rare : Injection-site induration, malaise                                                                                                                             | Common : Infusion site pain Uncommon : Infusion site burning, infusion site pruritus, infusion site erythema, injection site erythema, infusion site warmth |
+|                                      | Adults 18 years of age and older                                                                                                                                                                                                                           | Children and adolescents (3 months to 17 years of age)   |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| Infections and infestations          | Uncommon: Oral candidiasis, candidiasis, fungal infection, pseudomembranous enterocolitis, vaginitis Rare: Pneumonia, dermatomycosis, postoperative wound infection, urinary tract infection                                                               |                                                          |
+| Blood and lymphatic system disorders | Rare: Neutropenia, thrombocytopenia                                                                                                                                                                                                                        |                                                          |
+| Immune system disorders              | Rare: Allergy Not known: Anaphylaxis including anaphylactoid reactions                                                                                                                                                                                     |                                                          |
+| Metabolism and nutrition disorders   | Uncommon: Anorexia Rare: Hypoglycaemia                                                                                                                                                                                                                     |                                                          |
+| Psychiatric disorders                | Uncommon: Insomnia, confusion Rare: Agitation, anxiety, depression Not known: Altered mental status (including aggression, delirium, disorientation, mental status changes)                                                                                | Not known: Altered mental status (including aggression)  |
+| Nervous system disorders             | Common: Headache Uncommon: Dizziness, somnolence, taste perversion, seizure (see section 4.4) Rare: Tremor, syncope Not known: Hallucinations, depressed level of consciousness, dyskinesia, myoclonus, gait disturbance, encephalopathy (see section 4.4) | Uncommon: Headache Not known: Hallucinations             |
 
 <div style=\"page-break-after: always\"></div>
 
-|                | Adults 18 years of age and older                                                                                                                                                                                                                                                                                                                                                                                            | Children and adolescents (3 months to 17 years of age)                                                                                                           |
-|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Investigations |                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                  |
-| Chemistry      | Common : Elevations in ALT, AST, alkaline phosphatase Uncommon : Increases in total serum bilirubin, direct serum bilirubin, indirect serum bilirubin, serum creatinine, serum urea, serum glucose Rare : Decreases in serum bicarbonate, serum creatinine, and serum potassium; increases in serum LDH, serum phosphorus, serum potassium                                                                                  | Common : Elevations in ALT and AST                                                                                                                               |
-| Haematology    | Common : Elevation in platelet count Uncommon : Decreases in white blood cells, platelet count, segmented neutrophils, haemoglobin and haematocrit; increases in eosinophils, activated partial thromboplastin time, prothrombin time, segmented neutrophils, and white blood cells Rare : Decrease in lymphocytes; increases in band neutrophils, lymphocytes, metamyelocytes, monocytes, myelocytes; atypical lymphocytes | Common : Decreases in neutrophil count Uncommon : Increases in platelet count, activated partial thromboplastin time, prothrombin time, decreases in haemoglobin |
-| Urinalysis     | Uncommon : Increases in urine bacteria, urine white blood cells, urine epithelial cells, and urine red blood cells; urine yeast present Rare : Increase in urobilinogen                                                                                                                                                                                                                                                     |                                                                                                                                                                  |
-| Miscellaneous  | Uncommon : Positive Clostridioides difficile toxin                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                  |
+|                                                      | Adults 18 years of age and older                                                                                                                                                                                                                  | Children and adolescents (3 months to 17 years of age)                                                                                                    |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Eye disorders                                        | Rare: Scleral disorder                                                                                                                                                                                                                            |                                                                                                                                                           |
+| Cardiac disorders                                    | Uncommon: Sinus bradycardia Rare: Arrhythmia, tachycardia                                                                                                                                                                                         |                                                                                                                                                           |
+| Vascular disorders                                   | Common: Infused vein complication, phlebitis/thrombophlebitis Uncommon: Hypotension Rare: Haemorrhage, increased blood pressure                                                                                                                   | Uncommon: Hot flush, hypertension                                                                                                                         |
+| Respiratory, thoracic and mediastinal disorders      | Uncommon: Dyspnoea, pharyngeal discomfort Rare: Nasal congestion, cough, epistaxis, rales/rhonchi, wheezing                                                                                                                                       |                                                                                                                                                           |
+| Gastrointestinal disorders                           | Common: Diarrhoea, nausea, vomiting Uncommon: Constipation, acid regurgitation, dry mouth, dyspepsia, abdominal pain Rare: Dysphagia, faecal incontinence, pelvic peritonitis Not known: teeth staining                                           | Common: Diarrhoea Uncommon: Faeces discoloured, melaena                                                                                                   |
+| Hepatobiliary disorders                              | Rare: Cholecystitis, jaundice, liver disorder                                                                                                                                                                                                     |                                                                                                                                                           |
+| Skin and subcutaneous tissue disorders               | Common: Rash, pruritus Uncommon: Erythema, urticaria Rare: Dermatitis, desquamation, hypersensitivity vasculitis Not known: Acute Generalised Exanthematous Pustulosis (AGEP), Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome) | Common: Diaper dermatitis Uncommon: Erythema, rash, petechiae                                                                                             |
+| Musculoskeletal and connective tissue disorders      | Rare: Muscle cramp, shoulder pain Not known: Muscular weakness                                                                                                                                                                                    |                                                                                                                                                           |
+| Renal and urinary disorders                          | Rare: Renal insufficiency, acute renal insufficiency                                                                                                                                                                                              |                                                                                                                                                           |
+| Pregnancy, puerperium and perinatal conditions       | Rare: Abortion                                                                                                                                                                                                                                    |                                                                                                                                                           |
+| Reproductive system and breast disorders             | Rare: Genital bleeding                                                                                                                                                                                                                            |                                                                                                                                                           |
+| General disorders and administration site conditions | Uncommon: Extravasation, asthenia/fatigue, fever, oedema/swelling, chest pain Rare: Injection-site induration, malaise                                                                                                                            | Common: Infusion site pain Uncommon: Infusion site burning, infusion site pruritus, infusion site erythema, injection site erythema, infusion site warmth |
+
+<div style=\"page-break-after: always\"></div>
+
+|                | Adults 18 years of age and older                                                                                                                                                                                                                                                                                                                                                                                         | Children and adolescents (3 months to 17 years of age)                                                                                                         |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Investigations |                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                |
+| Chemistry      | Common: Elevations in ALT, AST, alkaline phosphatase Uncommon: Increases in total serum bilirubin, direct serum bilirubin, indirect serum bilirubin, serum creatinine, serum urea, serum glucose Rare: Decreases in serum bicarbonate, serum creatinine, and serum potassium; increases in serum LDH, serum phosphorus, serum potassium                                                                                  | Common: Elevations in ALT and AST                                                                                                                              |
+| Haematology    | Common: Elevation in platelet count Uncommon: Decreases in white blood cells, platelet count, segmented neutrophils, haemoglobin and haematocrit; increases in eosinophils, activated partial thromboplastin time, prothrombin time, segmented neutrophils, and white blood cells Rare: Decrease in lymphocytes; increases in band neutrophils, lymphocytes, metamyelocytes, monocytes, myelocytes; atypical lymphocytes | Common: Decreases in neutrophil count Uncommon: Increases in platelet count, activated partial thromboplastin time, prothrombin time, decreases in haemoglobin |
+| Urinalysis     | Uncommon: Increases in urine bacteria, urine white blood cells, urine epithelial cells, and urine red blood cells; urine yeast present Rare: Increase in urobilinogen                                                                                                                                                                                                                                                    |                                                                                                                                                                |
+| Miscellaneous  | Uncommon: Positive Clostridioides difficile toxin                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                |
 
 ## Reporting of suspected adverse reactions
 
@@ -269,7 +267,7 @@ Pharmacotherapeutic group: Antibacterials for systemic use, carbapenems, ATC cod
 
 ## Mechanism of action
 
-Ertapenem inhibits bacterial cell wall synthesis following attachment to penicillin binding proteins (PBPs). In Escherichia coli , affinity is strongest to PBPs 2 and 3.
+Ertapenem inhibits bacterial cell wall synthesis following attachment to penicillin binding proteins (PBPs). In Escherichia coli, affinity is strongest to PBPs 2 and 3.
 
 ## Pharmacokinetic/Pharmacodynamic (PK/PD) relationship
 
@@ -285,22 +283,9 @@ Resistance is uncommon in Enterobacteriaceae and ertapenem is generally active a
 
 The mechanism of action of ertapenem differs from that of other classes of antibiotics, such as quinolones, aminoglycosides, macrolides and tetracyclines. There is no target-based cross-resistance between ertapenem and these substances. However, micro-organisms may exhibit resistance to more than one class of antibacterial agents when the mechanism is, or includes, impermeability to some compounds and/or an efflux pump.
 
-## Breakpoints
+## Susceptibility testing breakpoints
 
-The EUCAST MIC breakpoints are as follows:
-
--  Enterobacterales: S ≤ 0.5 mg/L and R &gt; 0.5 mg/L
--  Streptococcus pneumoniae: S ≤ 0.5 mg/L and R &gt; 0.5 mg/L
--  Haemophilus influenzae: S ≤ 0.5 mg/L and R &gt; 0.5 mg/L
--  M. catarrhalis: S ≤ 0.5 mg/L and R &gt; 0.5 mg/L
--  Gram negative anaerobes: S ≤ 0.5 mg/L and R &gt; 0.5 mg/L
--  Gram positive anaerobes: S ≤ 0.5 mg/L and R &gt; 0.5 mg/L
--  Viridans group streptococci: S ≤ 0.5 mg/L and R &gt; 0.5 mg/L
--  Non species related breakpoints: S ≤ 0.5 mg/L and R &gt; 0.5 mg/L
-
-(NB: Susceptibility of staphylococci to ertapenem is inferred from methicillin susceptibility and susceptibility of group A, B, C,&amp; G streptococci is inferred from benzylpenicillin susceptibility)
-
-<div style=\"page-break-after: always\"></div>
+MIC (minimum inhibitory concentration) interpretive criteria for susceptibility testing have been established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for ertapenem and are listed here: https://www.ema.europa.eu/documents/other/minimum-inhibitoryconcentration-mic-breakpoints\\_en.xlsx
 
 The prescribers are informed that local MIC breakpoints, if available, should be consulted.
 
@@ -308,32 +293,21 @@ The prescribers are informed that local MIC breakpoints, if available, should be
 
 The prevalence of acquired resistance may vary geographically and with time for selected species and local information on resistance is desirable, particularly when treating severe infections. Localised clusters of infections due to carbapenem-resistant organisms have been reported in the European Union. The information below gives only approximate guidance on the probability as to whether the micro-organism will be susceptible to ertapenem or not.
 
-| Commonly susceptible species:                                                                                                                                                                                                                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Gram-positive aerobes: Methicillin-susceptible-staphylococci (including Staphylococcus aureus) * Streptococcus agalactiae * Streptococcus pneumoniae * † Streptococcus pyogenes                                                                                                           |
-| Gram-negative aerobes: Citrobacter freundii Enterobacter aerogenes Enterobacter cloacae Escherichia coli * Haemophilus influenzae * Haemophilus parainfluenzae Klebsiella oxytoca Klebsiella pneumoniae * Moraxella catarrhalis * Morganella morganii Proteus mirabilis* Proteus vulgaris |
-| Anaerobes: Clostridium species (excluding C. difficile )* Eubacterium species* Fusobacterium species* Peptostreptococcus species* Porphyromonas asaccharolytica * Prevotella species*                                                                                                     |
-| Species for which acquired resistance may be a problem:                                                                                                                                                                                                                                   |
-| Gram-positive aerobes: Methicillin-resistant staphylococci +#                                                                                                                                                                                                                             |
-| Anaerobes: Bacteroides fragilis and species in the B. fragilis Group*                                                                                                                                                                                                                     |
-| Inherently resistant organisms:                                                                                                                                                                                                                                                           |
-| Gram-positive aerobes: Corynebacterium jeikeium Enterococci including Enterococcus faecalis and Enterococcus faecium                                                                                                                                                                      |
-| Gram-negative aerobes: Aeromonas species Acinetobacter species Burkholderia cepacia Pseudomonas aeruginosa Stenotrophomonas maltophilia                                                                                                                                                   |
-| Anaerobes: Lactobacillus species                                                                                                                                                                                                                                                          |
-
 <div style=\"page-break-after: always\"></div>
 
-| Others:            |
-|--------------------|
-| Chlamydia species  |
-| Mycoplasma species |
-| Rickettsia species |
-| Legionella species |
+| Commonly susceptible species:                                                                                                                                                                                                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Gram-positive aerobes: Methicillin-susceptible-staphylococci (including Staphylococcus aureus)* Streptococcus agalactiae* Streptococcus pneumoniae* † Streptococcus pyogenes                                                                                         |
+| Gram-negative aerobes: Citrobacter freundii Enterobacter aerogenes Enterobacter cloacae Escherichia coli* Haemophilus influenzae* Haemophilus parainfluenzae Klebsiella oxytoca Klebsiella pneumoniae* Moraxella catarrhalis* Morganella morganii Proteus mirabilis* |
+| Proteus vulgaris Serratia marcescens Anaerobes: Clostridium species (excluding C. difficile)* Eubacterium species* Fusobacterium species* Peptostreptococcus species* Porphyromonas asaccharolytica* Prevotella species*                                             |
+| Species for which acquired resistance may be a problem: Gram-positive aerobes: +#                                                                                                                                                                                    |
+| Methicillin-resistant staphylococci Anaerobes: Bacteroides fragilis and species in the B. fragilis Group*                                                                                                                                                            |
+| Inherently resistant organisms: Gram-positive aerobes: Corynebacterium jeikeium                                                                                                                                                                                      |
+| Enterococci including Enterococcus faecalis and Enterococcus faecium Gram-negative aerobes: Aeromonas species Acinetobacter species Burkholderia cepacia                                                                                                             |
+| Pseudomonas aeruginosa Stenotrophomonas maltophilia Anaerobes: Lactobacillus species                                                                                                                                                                                 |
+| Others: Chlamydia species Mycoplasma species Rickettsia species Legionella species                                                                                                                                                                                   |
 
-* Activity has been satisfactorily demonstrated in clinical studies.
-- † The efficacy of ertapenem in the treatment of community acquired pneumonia due to penicillin-resistant Streptococcus pneumoniae has not been established.
-+ frequency of acquired resistance &gt; 50 % in some Member States.
-- # Methicillin-resistant staphylococci (including MRSA) are always resistant to beta-lactams.
+<div style=\"page-break-after: always\"></div>
 
 ## Information from clinical studies
 
@@ -343,17 +317,16 @@ Ertapenem was evaluated primarily for paediatric safety and secondarily for effi
 
 The proportion of patients with a favourable clinical response assessment at post-treatment visit in the clinical MITT population is shown below:
 
-|                                    |                | Ertapenem   | Ertapenem   | Ceftriaxone             | Ceftriaxone             |
-|------------------------------------|----------------|-------------|-------------|-------------------------|-------------------------|
-| Disease Stratum †                  | Age Stratum    | n/m         | %           | n/m                     | %                       |
-| Community Acquired Pneumonia (CAP) | 3 to 23 months | 31/35       | 88.6        | 13/13                   | 100.0                   |
-|                                    | 2 to 12 years  | 55/57       | 96.5        | 16/17                   | 94.1                    |
-|                                    | 13 to 17 years | 3/3         | 100.0       | 3/3                     | 100.0                   |
-|                                    |                | Ertapenem   | Ertapenem   | Ticarcillin/clavulanate | Ticarcillin/clavulanate |
-| Disease Stratum                    | Age Stratum    | n/m         | %           | n/m                     | %                       |
-| Intraabdominal Infections (IAI)    | 2 to 12 years  | 28/34       | 82.4        | 7/9                     | 77.8                    |
-|                                    | 13 to 17 years | 15/16       | 93.8        | 4/6                     | 66.7                    |
-| Acute Pelvic Infections (API)      | 13 to 17 years | 25/25       | 100.0       | 8/8                     | 100.0                   |
+| Disease Stratum †                  | Age Stratum    | Ertapenem - n/m   | Ertapenem - %   | Ceftriaxone - n/m       | Ceftriaxone - %         |
+|------------------------------------|----------------|-------------------|-----------------|-------------------------|-------------------------|
+| Community Acquired Pneumonia (CAP) | 3 to 23 months | 31/35             | 88.6            | 13/13                   | 100.0                   |
+|                                    | 2 to 12 years  | 55/57             | 96.5            | 16/17                   | 94.1                    |
+|                                    | 13 to 17 years | 3/3               | 100.0           | 3/3                     | 100.0                   |
+|                                    |                | Ertapenem         | Ertapenem       | Ticarcillin/clavulanate | Ticarcillin/clavulanate |
+| Disease Stratum                    | Age Stratum    | n/m               | %               | n/m                     | %                       |
+| Intraabdominal Infections (IAI)    | 2 to 12 years  | 28/34             | 82.4            | 7/9                     | 77.8                    |
+|                                    | 13 to 17 years | 15/16             | 93.8            | 4/6                     | 66.7                    |
+| Acute Pelvic Infections (API)      | 13 to 17 years | 25/25             | 100.0           | 8/8                     | 100.0                   |
 
 - † This includes 9 patients in the ertapenem group (7 CAP and 2 IAI), 2 patients in the ceftriaxone group (2 CAP), and 1 patient with IAI in the ticarcillin/clavulanate group with secondary bacteraemia at entry into the study.
 
@@ -369,25 +342,23 @@ There is no accumulation of ertapenem in adults following multiple intravenous d
 
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 15 mg/kg (up to a maximum dose of 1 g) dose in patients 3 to 23 months of age were 103.8 micrograms/mL (Cmax) at 0.5 hour postdose (end of infusion), 13.5 micrograms/mL at 6 hour postdose, and 2.5 micrograms/mL at 12 hour postdose.
 
-Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 15 mg/kg (up to a maximum dose of 1 g) dose in patients 2 to 12 years of age were
-
-<div style=\"page-break-after: always\"></div>
-
-113.2 micrograms/mL (Cmax) at 0.5 hour postdose (end of infusion), 12.8 micrograms/mL at 6 hour postdose, and 3.0 micrograms/mL at 12 hour postdose.
+Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 15 mg/kg (up to a maximum dose of 1 g) dose in patients 2 to 12 years of age were 113.2 micrograms/mL (Cmax) at 0.5 hour postdose (end of infusion), 12.8 micrograms/mL at 6 hour postdose, and 3.0 micrograms/mL at 12 hour postdose.
 
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 20 mg/kg (up to a maximum dose of 1 g) dose in patients 13 to 17 years of age were 170.4 micrograms/mL (Cmax) at 0.5 hour postdose (end of infusion), 7.0 micrograms/mL at 12 hour postdose, and 1.1 microgram/mL at 24 hour postdose.
 
-Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 1 g dose in three patients 13 to 17 years of age were 155.9 micrograms/mL (C max ) at 0.5 hour postdose (end of infusion), and 6.2 micrograms/mL at 12 hour postdose.
+Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 1 g dose in three patients 13 to 17 years of age were 155.9 micrograms/mL (Cmax) at 0.5 hour postdose (end of infusion), and 6.2 micrograms/mL at 12 hour postdose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
 Ertapenem is highly bound to human plasma proteins. In healthy young adults (25 to 45 years of age), the protein binding of ertapenem decreases, as plasma concentrations increase, from approximately 95 % bound at an approximate plasma concentration of &lt; 50 micrograms/mL to approximately 92 % bound at an approximate plasma concentration of 155 micrograms/mL (average concentration achieved at the end of infusion following 1 g intravenously).
 
-The volume of distribution (Vdss ) of ertapenem in adults is approximately 8 litres (0.11 litre/kg) and approximately 0.2 litre/kg in paediatric patients 3 months to 12 years of age and approximately 0.16 litre/kg in paediatric patients 13 to 17 years of age.
+The volume of distribution (Vdss) of ertapenem in adults is approximately 8 litres (0.11 litre/kg) and approximately 0.2 litre/kg in paediatric patients 3 months to 12 years of age and approximately 0.16 litre/kg in paediatric patients 13 to 17 years of age.
 
 Concentrations of ertapenem achieved in adult skin blister fluid at each sampling point on the third day of 1 g once daily intravenous doses showed a ratio of AUC in skin blister fluid: AUC in plasma of 0.61.
 
-In vitro studies indicate that the effect of ertapenem on the plasma protein binding of highly protein bound medicinal products (warfarin, ethinyl estradiol, and norethindrone) was small. The change in binding was &lt; 12 % at peak plasma ertapenem concentration following a 1 g dose. In vivo , probenecid (500 mg every 6 hours) decreased the bound fraction of ertapenem in plasma at the end of infusion in subjects administered a single 1 g intravenous dose from approximately 91 % to approximately 87 %. The effects of this change are anticipated to be transient. A clinically significant interaction due to ertapenem displacing another medicinal product or another medicinal product displacing ertapenem is unlikely.
+In vitro studies indicate that the effect of ertapenem on the plasma protein binding of highly protein bound medicinal products (warfarin, ethinyl estradiol, and norethindrone) was small. The change in binding was &lt; 12 % at peak plasma ertapenem concentration following a 1 g dose. In vivo, probenecid (500 mg every 6 hours) decreased the bound fraction of ertapenem in plasma at the end of infusion in subjects administered a single 1 g intravenous dose from approximately 91 % to approximately 87 %. The effects of this change are anticipated to be transient. A clinically significant interaction due to ertapenem displacing another medicinal product or another medicinal product displacing ertapenem is unlikely.
 
 In vitro studies indicate that ertapenem does not inhibit P-glycoprotein-mediated transport of digoxin or vinblastine and that ertapenem is not a substrate for P-glycoprotein-mediated transport.
 
@@ -401,11 +372,7 @@ In vitro studies in human liver microsomes indicate that ertapenem does not inhi
 
 Following administration of a 1 g radiolabelled intravenous dose of ertapenem to healthy young adults (23 to 49 years of age), approximately 80 % is recovered in urine and 10 % in faeces. Of the 80 % recovered in urine, approximately 38 % is excreted as unchanged ertapenem and approximately 37 % as the ring-opened metabolite.
 
-In healthy young adults (18 to 49 years of age) and patients 13 to 17 years of age given a 1 g intravenous dose, the mean plasma half-life is approximately 4 hours. The mean plasma half-life in children 3 months to 12 years of age is approximately 2.5 hours. Average concentrations of ertapenem
-
-<div style=\"page-break-after: always\"></div>
-
-in urine exceed 984 micrograms/mL during the period 0 to 2 hours postdose and exceed 52 micrograms/mL during the period 12 to 24 hours post-administration.
+In healthy young adults (18 to 49 years of age) and patients 13 to 17 years of age given a 1 g intravenous dose, the mean plasma half-life is approximately 4 hours. The mean plasma half-life in children 3 months to 12 years of age is approximately 2.5 hours. Average concentrations of ertapenem in urine exceed 984 micrograms/mL during the period 0 to 2 hours postdose and exceed 52 micrograms/mL during the period 12 to 24 hours post-administration.
 
 ## Special populations
 
@@ -415,7 +382,9 @@ The plasma concentrations of ertapenem are comparable in men and women.
 
 ## Elderly
 
-Plasma concentrations following a 1 g and 2 g intravenous dose of ertapenem are slightly higher (approximately 39 % and 22 %, respectively) in healthy elderly adults ( ≥ 65 years) relative to young adults (  65 years). In the absence of severe renal impairment, no dose adjustment is necessary in elderly patients.
+Plasma concentrations following a 1 g and 2 g intravenous dose of ertapenem are slightly higher (approximately 39 % and 22 %, respectively) in healthy elderly adults (≥ 65 years) relative to young adults ( 65 years). In the absence of severe renal impairment, no dose adjustment is necessary in elderly patients.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -431,9 +400,7 @@ The pharmacokinetics of ertapenem in patients with hepatic impairment have not b
 
 ## Renal impairment
 
-Following a single 1 g intravenous dose of ertapenem in adults, AUCs of total ertapenem (bound and unbound) and of unbound ertapenem are similar in patients with mild renal impairment (Cl cr 60 to 90 mL/min/1.73 m 2 ) compared with healthy subjects (ages 25 to 82 years). AUCs of total ertapenem and of unbound ertapenem are increased in patients with moderate renal impairment (Clcr 31 to 59 mL/min/1.73 m 2 ) approximately 1.5-fold and 1.8-fold, respectively, compared with healthy subjects. AUCs of total ertapenem and of unbound ertapenem are increased in patients with severe renal impairment (Clcr 5 to 30 mL/min/1.73 m 2 ) approximately 2.6-fold and 3.4-fold, respectively, compared with healthy subjects. AUCs of total ertapenem and of unbound ertapenem are increased in patients who require haemodialysis approximately 2.9-fold and 6.0-fold, respectively, between dialysis sessions, compared with healthy subjects. Following a single 1 g intravenous dose given immediately prior to a haemodialysis session, approximately 30 % of the dose is recovered in the dialysate. There are no data in paediatric patients with renal impairment.
-
-<div style=\"page-break-after: always\"></div>
+Following a single 1 g intravenous dose of ertapenem in adults, AUCs of total ertapenem (bound and unbound) and of unbound ertapenem are similar in patients with mild renal impairment (Clcr 60 to 90 mL/min/1.73 m 2 ) compared with healthy subjects (ages 25 to 82 years). AUCs of total ertapenem and of unbound ertapenem are increased in patients with moderate renal impairment (Clcr 31 to 59 mL/min/1.73 m 2 ) approximately 1.5-fold and 1.8-fold, respectively, compared with healthy subjects. AUCs of total ertapenem and of unbound ertapenem are increased in patients with severe renal impairment (Clcr 5 to 30 mL/min/1.73 m 2 ) approximately 2.6-fold and 3.4-fold, respectively, compared with healthy subjects. AUCs of total ertapenem and of unbound ertapenem are increased in patients who require haemodialysis approximately 2.9-fold and 6.0-fold, respectively, between dialysis sessions, compared with healthy subjects. Following a single 1 g intravenous dose given immediately prior to a haemodialysis session, approximately 30 % of the dose is recovered in the dialysate. There are no data in paediatric patients with renal impairment.
 
 There are inadequate data on the safety and efficacy of ertapenem in patients with advanced renal impairment and patients who require haemodialysis to support a dose recommendation. Therefore, ertapenem should not be used in these patients.
 
@@ -442,6 +409,8 @@ There are inadequate data on the safety and efficacy of ertapenem in patients wi
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety, pharmacology, repeated dose toxicity, genotoxicity and toxicity to reproduction and development. Decreased neutrophil counts, however, occurred in rats that received high doses of ertapenem, which was not considered a significant safety issue.
 
 Long-term studies in animals to evaluate the carcinogenic potential of ertapenem have not been performed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -463,7 +432,7 @@ After reconstitution: Diluted solutions should be used immediately. If not used 
 
 ## 6.4 Special precautions for storage
 
-Do not store above 25  C.
+Do not store above 25C.
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
@@ -475,8 +444,6 @@ Ertapenem SUN is supplied in packs of 1 vial or 10 vials.
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.6 Special precautions for disposal and other handling
 
 Instructions for use:
@@ -485,9 +452,11 @@ For single use only.
 
 Reconstituted solutions should be diluted in sodium chloride 9 mg/mL (0.9 %) solution for injection immediately after preparation.
 
-## Preparation for intravenous administration:
+Preparation for intravenous administration:
 
-## Ertapenem SUN must be reconstituted and then diluted prior to administration.
+Ertapenem SUN must be reconstituted and then diluted prior to administration.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Adults and adolescents (13 to 17 years of age)
 
@@ -527,11 +496,11 @@ The reconstituted solutions should be inspected visually for particulate matter 
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Sun Pharmaceutical Industries Europe B.V. Polarisavenue 87 2132JH Hoofddorp The Netherlands
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -643,7 +612,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 25  C
+Do not store above 25C
 
 <div style=\"page-break-after: always\"></div>
 
@@ -651,41 +620,37 @@ Do not store above 25  C
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sun Pharmaceutical Industries Europe B.V.
-
-Polarisavenue 87
-
-2132 JH Hoofddorp
-
-The Netherlands
+Sun Pharmaceutical Industries Europe B.V. Polarisavenue 87 2132 JH Hoofddorp The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1656/001 1 vial EU/1/22/1656/002 10 vials
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -711,11 +676,11 @@ Lot
 
 1 g
 
-6. OTHER
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGE LEAFLET
+- B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -727,10 +692,10 @@ Lot
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, nurse or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, nurse or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -764,8 +729,8 @@ Your doctor has prescribed Ertapenem SUN because you or your child has one (or m
 
 ## Do not use Ertapenem SUN
 
-- -if you are allergic to the active substance (ertapenem) or any of the other ingredients of this medicine (listed in section 6)
-- -if you are allergic to antibiotics such as penicillins, cephalosporins or carbapenems (which are used to treat various infections).
+- if you are allergic to the active substance (ertapenem) or any of the other ingredients of this medicine (listed in section 6)
+- if you are allergic to antibiotics such as penicillins, cephalosporins or carbapenems (which are used to treat various infections).
 
 ## Warnings and precautions
 
@@ -783,9 +748,9 @@ Tell your doctor if you are taking medicines called valproic acid or sodium valp
 
 Tell your doctor about any medical condition you have or have had including:
 
-- -Kidney disease. It is particularly important that your doctor knows if you have kidney disease and whether you undergo dialysis treatment.
-- -Allergies to any medicines, including antibiotics.
-- -Central nervous system disorders, such as localised tremors, or seizures.
+- Kidney disease. It is particularly important that your doctor knows if you have kidney disease and whether you undergo dialysis treatment.
+- Allergies to any medicines, including antibiotics.
+- Central nervous system disorders, such as localised tremors, or seizures.
 
 ## Children and adolescents (3 months to 17 years of age)
 
@@ -882,15 +847,15 @@ Rare (may affect up to 1 in 1,000 people) side effects are:
 -  The skin may become hard at the site of injection
 -  Swelling of the skin blood vessels
 
-## Side effects reported with frequency not known (frequency cannot be estimated from the available data) are:
+Side effects reported with frequency not known (frequency cannot be estimated from the available data) are:
 
 -  hallucinations
 -  decreased consciousness
 -  altered mental status (including aggression, delirium, disorientation, mental status changes)
 -  abnormal movements
 -  muscle weakness
--  teeth staining
 -  unsteady walking
+-  teeth staining
 
 There have also been reports of changes in some laboratory blood tests.
 
@@ -916,18 +881,16 @@ Uncommon (may affect up to 1 in 100 people) side effects are:
 -  Increase in platelet count
 -  Changes in some laboratory blood tests
 
-## Side effects reported with frequency not known (frequency cannot be estimated from the available data) are:
+Side effects reported with frequency not known (frequency cannot be estimated from the available data) are:
 
 -  Hallucinations
 -  Altered mental status (including aggression)
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting
+If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Ertapenem SUN
 
@@ -935,7 +898,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and vial label after EXP. The expiry date refers to the last day of that month.
 
-Do not store above 25  C.
+Do not store above 25C.
 
 ## 6. Contents of the pack and other information
 
@@ -943,7 +906,7 @@ Do not store above 25  C.
 
 The active substance of Ertapenem SUN is ertapenem 1 g.
 
-The other ingredients are sodium hydrogen carbonate (E500) and sodium hydroxide (E524). See section 2 'Ertapenem SUN contains sodium'.
+The other ingredients are sodium hydrogen carbonate (E500) and sodium hydroxide (E524). See section 2 \"Ertapenem SUN contains sodium\".
 
 ## What Ertapenem SUN looks like and contents of the pack
 
@@ -963,17 +926,23 @@ Sun Pharmaceutical Industries Europe B.V.
 
 Polarisavenue 87, 2132JH Hoofddorp, The Netherlands
 
-Terapia S.A. Str. Fabricii nr. 124, Cluj-Napoca, 400632, Romania
+Terapia S.A.
+
+Str. Fabricii nr. 124, Cluj-Napoca, 400632,
+
+Romania
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien/ България / Č eská republika/ Danmark/Eesti/ Ελλάδα /Hrvatska/Ireland/Ísland/ Κύπρος Malta/Nederland/Norge/Österreich/Portugal/ Slovenija/Slovenská republika/Suomi/Finland/Sverige
+België/Belgique/Belgien/България/Česká republika/ Danmark/Eesti/Ελλάδα/Hrvatska/Ireland/Ísland/ Κύπρος/Latvija/Lietuva/Luxembourg/Luxemburg/Magyarország/ Malta/Nederland/Norge/Österreich/Portugal/ Slovenija/Slovenská republika/Suomi/Finland/Sverige
 
-/Latvija/Lietuva/Luxembourg/Luxemburg/Magyarország/ Sun Pharmaceutical Industries Europe B.V. Polarisavenue 87 2132 JH Hoofddorp Nederland/Pays-Bas/Niederlande/ Нидерландия /Nizozemsko/ Nederlandene/Holland/ Ολλανδία /Nizozemska/The Netherlands/Holland/ Ολλανδία /N ī derlande/Nyderlandai/Pays-Bas/Niederlande/Hollandia/
+Sun Pharmaceutical Industries Europe B.V.
+
+Polarisavenue 87 2132 JH Hoofddorp Nederland/Pays-Bas/Niederlande/Нидерландия/Nizozemsko/ Nederlandene/Holland/Ολλανδία/Nizozemska/The Netherlands/Holland/ Ολλανδία/Nīderlande/Nyderlandai/Pays-Bas/Niederlande/Hollandia/
 
 <div style=\"page-break-after: always\"></div>
 
-L-Olanda/Nederland/Nederland/Niederlande/Países Baixos/ Nizozemska/Holandsko/Alankomaat/Nederländerna/Nederländerna Tel./ тел ./tlf./ τηλ ./Sími/ τηλ ./Tlf./Puh./ +31 (0)23 568 5501
+L-Olanda/Nederland/Nederland/Niederlande/Países Baixos/ Nizozemska/Holandsko/Alankomaat/Nederländerna/Nederländerna Tel./тел./tlf./τηλ./Sími/τηλ./Tlf./Puh./ +31 (0)23 568 5501
 
 ## Deutschland
 
@@ -981,9 +950,9 @@ Sun Pharmaceuticals Germany GmbH Hemmelrather Weg 201 51377 Leverkusen Deutschla
 
 ## España
 
-Sun Pharma Laboratorios, S.L. Rambla de Catalunya 53-55 08007 Barcelona España
+Sun Pharma Laboratorios, S.L. Rambla de Catalunya 53-55 08007 Barcelona
 
-tel. +34 93 342 78 90
+España tel. +34 93 342 78 90
 
 ## France
 
@@ -999,7 +968,9 @@ Ranbaxy (Poland) Sp. Z o. o. ul. Idzikowskiego 16 00-710 Warszawa Polska Tel. +4
 
 ## România
 
-Terapia S.A. Str. Fabricii nr 124 Cluj-Napoca, Jude ţ ul Cluj România Tel. +40 (264) 501 500
+Terapia S.A.
+
+Str. Fabricii nr 124 Cluj-Napoca, Judeţul Cluj România Tel. +40 (264) 501 500
 
 ## This leaflet was last revised in
 

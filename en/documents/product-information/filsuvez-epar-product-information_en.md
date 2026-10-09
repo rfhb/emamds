@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-10 14:02:54
+document_datetime: 2026-10-06 14:46:04
 document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/filsuvez-epar-product-information_en.pdf
 document_name: filsuvez-epar-product-information_en.pdf
 version: success
-processing_time: 6.429723
-conversion_datetime: 2025-12-28 18:18:27.648863
+processing_time: 6.1240617
+conversion_datetime: 2026-10-09 18:36:49.6784
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -62,13 +62,15 @@ No dose adjustment is required.
 
 ## Paediatric population
 
-The posology in paediatric patients (6 months and older) is the same as in adults. The safety and efficacy of Filsuvez in children aged less than 6 months have not been established. No data are available.
+The posology in paediatric patients (6 months and older) is the same as in adults.
+
+The safety and efficacy of Filsuvez in children aged less than 6 months have not been established. No data are available.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Method of administration
 
-## For cutaneous application only.
+For cutaneous application only.
 
 Filsuvez should be applied to cleansed wounds. This medicinal product is not for ophthalmic use and should not be applied to mucous membranes.
 
@@ -146,14 +148,14 @@ Table 1 lists all adverse reactions reported across clinical studies.
 
 Table 1: Adverse reactions
 
-| System organ class                                   | Very common         | Common                                                                                 | Uncommon                     |
-|------------------------------------------------------|---------------------|----------------------------------------------------------------------------------------|------------------------------|
-| Infections and infestations                          |                     | Wound infections                                                                       |                              |
-| Immune system disorders                              |                     | Hypersensitivity reactions*                                                            |                              |
-| Skin and subcutaneous                                | Wound complication* | Pruritis                                                                               |                              |
-| tissue disorders                                     |                     |                                                                                        | Dermatitis a Rash pruritic a |
-| General disorders and administration site conditions |                     | Application site reactions* (e.g. application site pain and application site pruritis) | Pain a                       |
-| Injury, poisoning and procedural complications       |                     | Wound complication* a                                                                  | Wound secretion              |
+| System organ class                                                    | Very common         | Common                                                                                 | Uncommon                         |
+|-----------------------------------------------------------------------|---------------------|----------------------------------------------------------------------------------------|----------------------------------|
+| Infections and infestations                                           |                     | Wound infections                                                                       |                                  |
+| Immune system disorders                                               |                     | Hypersensitivity reactions*                                                            |                                  |
+|                                                                       | Wound complication* | Pruritis                                                                               |                                  |
+| Skin and subcutaneous                                                 |                     |                                                                                        | Dermatitis a                     |
+| tissue disorders General disorders and administration site conditions |                     | Application site reactions* (e.g. application site pain and application site pruritis) | Rash pruritic a Purpura a Pain a |
+| Injury, poisoning and procedural complications                        |                     | Wound complication* a                                                                  | Wound secretion                  |
 
 ## Description of selected adverse reactions
 
@@ -211,14 +213,14 @@ The results, including the primary endpoint, are presented in Table 2.
 
 Table 2: Efficacy results (study BEB-13; 90-day double-blind phase, full analysis set)
 
-| Efficacy parameter                                                                 | Filsuvez n = 109   | Control gel n = 114   | p-value   |
+| Efficacy parameter                                                                 | Filsuvez n = 109   | Control gel n = 114   |   p-value |
 |------------------------------------------------------------------------------------|--------------------|-----------------------|-----------|
-| Proportion of patients with first complete closure of target wound within 45 days  | 41.3%              | 28.9%                 | 0.013     |
+| Proportion of patients with first complete closure of target wound within 45 days  | 41.3%              | 28.9%                 |     0.013 |
 | By EB subtype                                                                      |                    |                       |           |
-| RDEB (n = 175)                                                                     | 44.0%              | 26.2%                 | 0.008     |
-| DDEB (n = 20)                                                                      | 50.0%              | 50.0%                 | 0.844     |
-| JEB (n = 26)                                                                       | 18.2%              | 26.7%                 | 0.522     |
-| Proportion of patients with first complete closure of target wound within 90 days* | 50.5%              | 43.9%                 | 0.296     |
+| RDEB (n = 175)                                                                     | 44.0%              | 26.2%                 |     0.008 |
+| DDEB (n = 20)                                                                      | 50.0%              | 50.0%                 |     0.844 |
+| JEB (n = 26)                                                                       | 18.2%              | 26.7%                 |     0.522 |
+| Proportion of patients with first complete closure of target wound within 90 days* | 50.5%              | 43.9%                 |     0.296 |
 
 The median daily extent of exposure for all patients in DBP and OLP combined are presented in Table 3. The median duration of Filsuvez treatment for all patients in the DBP and OLP is 733 days with a maximum of 931 days.
 
@@ -296,7 +298,9 @@ No special requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
+Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma
+
+Italy
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -362,11 +366,13 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Filsuvez gel birch bark extract
+Filsuvez gel
+
+birch bark extract
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -402,29 +408,26 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store below 30 °C.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Chiesi Farmaceutici S.p.A.
 
 Via Palermo 26/A 43122 Parma Italy
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1652/002 23.4 g tube - 1 tube EU/1/22/1652/004 23.4 g tube - 10 tubes
 
@@ -438,21 +441,18 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+## 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 filsuvez
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -466,11 +466,13 @@ TUBE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Filsuvez gel birch bark extract
+Filsuvez gel
+
+birch bark extract
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-1 g gel contains: 100 mg birch bark extract (as dry extract, refined) from Betula pendula/Betula pubescens .
+1 g gel contains: 100 mg birch bark extract (as dry extract, refined) from Betula pendula/Betula pubescens.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -508,15 +510,19 @@ Store below 30 °C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
+Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+Italy
 
-EU/1/22/1652/002 EU/1/22/1652/004 EU/1/22/1652/005
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/22/1652/002 EU/1/22/1652/004
+
+EU/1/22/1652/005
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -526,8 +532,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -535,8 +541,8 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -546,14 +552,16 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Filsuvez gel birch bark extract
+## Filsuvez gel
+
+birch bark extract
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -568,13 +576,13 @@ Lot
 
 Filsuvez gel is a herbal medicinal product which contains dry extract from birch bark.
 
-It is used to treat wounds in adults and children (age 6 months and older) who have a type of the condition 'epidermolysis bullosa' (EB) called 'dystrophic' (DEB) or 'junctional' (JEB). This is a condition where the outer layer of the skin separates from the inner layer, making the skin very fragile and causing wounds to appear.
+It is used to treat wounds in adults and children (age 6 months and older) who have a type of the condition \"epidermolysis bullosa\" (EB) called \"dystrophic\" (DEB) or \"junctional\" (JEB). This is a condition where the outer layer of the skin separates from the inner layer, making the skin very fragile and causing wounds to appear.
 
 ## 2. What you need to know before you use Filsuvez
 
 ## Do not use Filsuvez
 
-- -if you are allergic to birch bark or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to birch bark or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -593,7 +601,7 @@ If you have a wound infection, you may need to stop using Filsuvez and another t
 
 <div style=\"page-break-after: always\"></div>
 
-People with EB are more likely to develop a type of skin cancer called 'squamous cell carcinoma' (SCC). If you are diagnosed with a skin cancer while using Filsuvez you should talk with your doctor or nurse and stop using Filsuvez on that part of your skin.
+People with EB are more likely to develop a type of skin cancer called \"squamous cell carcinoma\" (SCC). If you are diagnosed with a skin cancer while using Filsuvez you should talk with your doctor or nurse and stop using Filsuvez on that part of your skin.
 
 Filsuvez does not contain birch pollen, so it may be used by people with a birch pollen allergy.
 
@@ -640,6 +648,10 @@ Step 1 - Apply
 
 <!-- image -->
 
+Step 2 - Spread
+
+<!-- image -->
+
 ## OR
 
 2. Apply onto a sterile non-adhesive dressing
@@ -649,13 +661,13 @@ Step 1 - Apply
 
 Step 1 - Apply
 
+<!-- image -->
+
 Step 2 - Spread
 
+<!-- image -->
+
 Step 3 - Cover
-
-<!-- image -->
-
-<!-- image -->
 
 <!-- image -->
 
@@ -681,10 +693,6 @@ Filsuvez should be used as advised by your doctor, pharmacist or nurse. Do not s
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
-Step 2 - Spread
-
-<!-- image -->
-
 Step 3 - Cover
 
 <!-- image -->
@@ -699,7 +707,7 @@ Very common (may affect more than 1 in 10 people)
 
 - wound complication (e.g. increase in wound size, wound re-opening, wound pain)
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - wound infection
 - allergic reaction (hypersensitivity)
@@ -737,7 +745,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is a dry extract from birch bark.
 
-1 g of gel contains: 100 mg extract (as a refined dry extract) from Betula pendula Roth , Betula pubescens Ehrh. as well as hybrids of both species, cortex (equivalent to 0.5-1.0 g birch bark), including 84-95 mg triterpenes calculated as the sum of betulin, betulinic acid, erythrodiol, lupeol and oleanolic acid. Extraction solvent: n-Heptane.
+1 g of gel contains: 100 mg extract (as a refined dry extract) from Betula pendula Roth, Betula pubescens Ehrh. as well as hybrids of both species, cortex (equivalent to 0.5-1.0 g birch bark), including 84-95 mg triterpenes calculated as the sum of betulin, betulinic acid, erythrodiol, lupeol and oleanolic acid. Extraction solvent: n-Heptane.
 
 The other ingredient is refined sunflower oil.
 
@@ -767,15 +775,33 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Chiesi sa/nv Tél/Tel: + 32 (0)2 788 42 00
+Chiesi sa/nv
 
-## Lietuva
-
-ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel.: +370 661 663 99 pv.global@exceedorphan.com
+Tél/Tel: + 32 (0)2 788 42 00
 
 ## България
 
 ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Teл.: +359 888 918 090 pv.global@exceedorphan.com
+
+## Česká republika
+
+ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel: +420 724 321 774 pv.global@exceedorphan.com
+
+## Danmark
+
+Chiesi Pharma AB
+
+Tlf.: + 46 8 753 35 20
+
+## Deutschland
+
+Chiesi GmbH
+
+Tel: + 49 40 89724-0
+
+## Lietuva
+
+ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel.: +370 661 663 99 pv.global@exceedorphan.com
 
 ## Luxembourg/Luxemburg
 
@@ -783,19 +809,9 @@ Chiesi sa/nv
 
 Tél/Tel: + 32 (0)2 788 42 00
 
-## Česká republika
-
-ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel: +420 724 321 774 pv.global@exceedorphan.com
-
 ## Magyarország
 
 ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel.: +36 20 399 4269 pv.global@exceedorphan.com
-
-## Danmark
-
-Chiesi Pharma AB
-
-Tlf.: + 46 8 753 35 20
 
 ## Malta
 
@@ -804,12 +820,6 @@ Amryt Pharmaceuticals DAC
 Tel: +44 1604 549952
 
 medinfo@amrytpharma.com
-
-## Deutschland
-
-Chiesi GmbH
-
-Tel: + 49 40 89724-0
 
 ## Nederland
 
@@ -821,7 +831,9 @@ Tel: + 31 88 501 64 00
 
 ## Eesti
 
-ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel.: +370 661 663 99 pv.global@exceedorphan.com
+ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel.: +370 661 663 99
+
+pv.global@exceedorphan.com
 
 ## Ελλάδα
 
@@ -833,11 +845,15 @@ Chiesi España, S.A.U. Tel: + 34 93 494 8000
 
 ## France
 
-Chiesi S.A.S. Tél: + 33 1 47688899
+Chiesi S.A.S.
+
+Tél: + 33 1 47688899
 
 ## Hrvatska
 
-ExCEEd Orphan Distribution d.o.o. Savska cesta 32, Zagreb, 100 00 Croatia Tel: +385 99 320 0330 pv.global@exceedorphan.com
+ExCEEd Orphan Distribution d.o.o.
+
+Savska cesta 32, Zagreb, 100 00 Croatia Tel: +385 99 320 0330 pv.global@exceedorphan.com
 
 ## Ireland
 
@@ -865,7 +881,7 @@ Chiesi Pharmaceuticals GmbH Tel: + 43 1 4073919
 
 ## Polska
 
-ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel.: +48 502 188 023 pv.global@exceedorphan.com
+ExCEEd Orphan Poland Sp. z o.o. +48 728 22 55 17 medinfo@exceedorphan.com
 
 ## Portugal
 
@@ -893,9 +909,7 @@ Chiesi Pharma AB Tel: +46 8 753 35 20
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic
-
-Tel.: +370 661 663 99
+Latvija ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel.: +370 661 663 99
 
 pv.global@exceedorphan.com
 

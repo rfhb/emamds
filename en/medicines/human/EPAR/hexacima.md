@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-07 14:23:00
+document_datetime: 2026-10-05 10:58:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hexacima.html
 document_name: hexacima.html
 version: success
-processing_time: 0.1953585
-conversion_datetime: 2026-08-10 20:50:04.095033
+processing_time: 0.2484438
+conversion_datetime: 2026-10-09 18:51:22.604127
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.119.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.11.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Hexacima
 
 [RSS](/en/individual-human-medicine.xml/66541)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -38,7 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-79727)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -123,7 +122,7 @@ English (EN) (87.62 KB - PDF)
 
 [View](/en/documents/overview/hexacima-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-991)
+[Other languages (22)](#file-language-dropdown-462)
 
 български (BG) (114.88 KB - PDF)
 
@@ -257,6 +256,14 @@ svenska (SV) (85.04 KB - PDF)
 
 [View](/sv/documents/overview/hexacima-epar-summary-public_sv.pdf)
 
+Hexacima : EPAR - Risk management plan
+
+English (EN) (899.81 KB - PDF)
+
+**First published:** 05/10/2026
+
+[View](/en/documents/rmp/hexacima-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 Hexacima : EPAR - Product Information
@@ -267,7 +274,7 @@ English (EN) (628.3 KB - PDF)
 
 [View](/en/documents/product-information/hexacima-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-957)
+[Other languages (24)](#file-language-dropdown-507)
 
 български (BG) (709.65 KB - PDF)
 
@@ -413,7 +420,7 @@ norsk (NO) (603.46 KB - PDF)
 
 [View](/no/documents/product-information/hexacima-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000295915
+**Latest procedure affecting product information:** VR/0000349600
 
 25/06/2026
 
@@ -421,7 +428,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -440,7 +447,7 @@ English (EN) (77.24 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hexacima-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-377)
+[Other languages (24)](#file-language-dropdown-1)
 
 български (BG) (95.06 KB - PDF)
 
@@ -632,7 +639,7 @@ The use of this vaccine should be in accordance with official recommendations.
 - **Marketing authorisation issued**
     - 17/04/2013
 - **Revision**
-    - 36
+    - 37
 
 ## Assessment history
 
@@ -644,9 +651,9 @@ Collapse section
 
 Hexacima : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (226.03 KB - PDF)
+English (EN) (272.64 KB - PDF)
 
-**First published:** 05/03/2025 **Last updated:** 07/08/2026
+**First published:** 05/03/2025 **Last updated:** 05/10/2026
 
 [View](/en/documents/procedural-steps-after/hexacima-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -822,7 +829,7 @@ English (EN) (378.1 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/hexacima-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-787)
+[Other languages (24)](#file-language-dropdown-269)
 
 български (BG) (438.55 KB - DOCX)
 
@@ -968,13 +975,8 @@ norsk (NO) (377.13 KB - DOCX)
 
 [View](/no/documents/product-information-tracked-changes/hexacima-epar-product-information-tracked-changes_no.docx)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-- [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
-
 **This page was last updated on**
 
-07/08/2026
+05/10/2026
 
 ## Share this page

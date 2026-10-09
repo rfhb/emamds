@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-10-01 15:01:00
+document_datetime: 2026-10-05 17:31:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/byooviz.html
 document_name: byooviz.html
 version: success
-processing_time: 0.171522
-conversion_datetime: 2026-10-04 16:20:38.864144
+processing_time: 0.1820904
+conversion_datetime: 2026-10-09 18:50:06.403398
 docling_version:
   docling-serve: 1.36.0
   docling-jobkit: 3.8.1
-  docling: 2.133.0
-  docling-core: 2.99.0
+  docling: 2.137.0
+  docling-core: 2.101.1
   docling-ibm-models: 4.0.3
-  docling-parse: 7.22.1
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
   plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
@@ -38,7 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Byooviz](#news-on)
-- [Product information - with tracked changes](#product-information-with-tracked-changes-78063)
 - [More information on Byooviz](#related-medicines)
 
 - Application under evaluation
@@ -112,7 +111,7 @@ English (EN) (143.31 KB - PDF)
 
 [View](/en/documents/overview/byooviz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-88)
+[Other languages (22)](#file-language-dropdown-718)
 
 български (BG) (167.05 KB - PDF)
 
@@ -258,161 +257,161 @@ English (EN) (896.4 KB - PDF)
 
 Byooviz : EPAR - Product information
 
-English (EN) (1.47 MB - PDF)
+English (EN) (1.34 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/en/documents/product-information/byooviz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-754)
+[Other languages (24)](#file-language-dropdown-960)
 
-български (BG) (1.49 MB - PDF)
+български (BG) (1.46 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/bg/documents/product-information/byooviz-epar-product-information_bg.pdf)
 
-español (ES) (1.44 MB - PDF)
+español (ES) (1.23 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/es/documents/product-information/byooviz-epar-product-information_es.pdf)
 
-čeština (CS) (1.35 MB - PDF)
+čeština (CS) (1.29 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/cs/documents/product-information/byooviz-epar-product-information_cs.pdf)
 
-dansk (DA) (1.46 MB - PDF)
+dansk (DA) (1.11 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/da/documents/product-information/byooviz-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.28 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/de/documents/product-information/byooviz-epar-product-information_de.pdf)
 
-eesti (ET) (1.23 MB - PDF)
+eesti (ET) (1.12 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/et/documents/product-information/byooviz-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.59 MB - PDF)
+ελληνικά (EL) (1.6 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/el/documents/product-information/byooviz-epar-product-information_el.pdf)
 
-français (FR) (1.54 MB - PDF)
+français (FR) (1.51 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/fr/documents/product-information/byooviz-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.59 MB - PDF)
+hrvatski (HR) (1.82 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/hr/documents/product-information/byooviz-epar-product-information_hr.pdf)
 
-italiano (IT) (1.29 MB - PDF)
+italiano (IT) (1.25 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/it/documents/product-information/byooviz-epar-product-information_it.pdf)
 
-latviešu (LV) (1.51 MB - PDF)
+latviešu (LV) (1.42 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/lv/documents/product-information/byooviz-epar-product-information_lv.pdf)
 
-lietuvių (LT) (2.01 MB - PDF)
+lietuvių (LT) (1.98 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/lt/documents/product-information/byooviz-epar-product-information_lt.pdf)
 
-magyar (HU) (1.48 MB - PDF)
+magyar (HU) (1.39 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/hu/documents/product-information/byooviz-epar-product-information_hu.pdf)
 
-Malti (MT) (1.46 MB - PDF)
+Malti (MT) (1.37 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/mt/documents/product-information/byooviz-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.15 MB - PDF)
+Nederlands (NL) (1.09 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/nl/documents/product-information/byooviz-epar-product-information_nl.pdf)
 
-polski (PL) (1.47 MB - PDF)
+polski (PL) (1.44 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/pl/documents/product-information/byooviz-epar-product-information_pl.pdf)
 
-português (PT) (1.21 MB - PDF)
+português (PT) (1.18 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/pt/documents/product-information/byooviz-epar-product-information_pt.pdf)
 
-română (RO) (1.39 MB - PDF)
+română (RO) (1.33 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/ro/documents/product-information/byooviz-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.33 MB - PDF)
+slovenčina (SK) (1.27 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/sk/documents/product-information/byooviz-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.42 MB - PDF)
+slovenščina (SL) (1.33 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/sl/documents/product-information/byooviz-epar-product-information_sl.pdf)
 
-suomi (FI) (1.22 MB - PDF)
+suomi (FI) (1.08 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/fi/documents/product-information/byooviz-epar-product-information_fi.pdf)
 
-svenska (SV) (1.13 MB - PDF)
+svenska (SV) (1.08 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/sv/documents/product-information/byooviz-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.27 MB - PDF)
+Íslenska (IS) (1.13 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/is/documents/product-information/byooviz-epar-product-information_is.pdf)
 
-norsk (NO) (1.18 MB - PDF)
+norsk (NO) (1.15 MB - PDF)
 
-**First published:** 08/09/2021 **Last updated:** 01/10/2026
+**First published:** 08/09/2021 **Last updated:** 05/10/2026
 
 [View](/no/documents/product-information/byooviz-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000327906
+**Latest procedure affecting product information:** N/0000365647
 
-20/08/2026
+11/09/2026
 
 icon globe
 
@@ -437,7 +436,7 @@ English (EN) (64.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/byooviz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-842)
+[Other languages (24)](#file-language-dropdown-107)
 
 български (BG) (73.91 KB - PDF)
 
@@ -629,7 +628,7 @@ The treatment of visual impairment due to choroidal neovascularisation (CNV)
 - **Marketing authorisation issued**
     - 18/08/2021
 - **Revision**
-    - 13
+    - 14
 
 ## Assessment history
 
@@ -641,9 +640,9 @@ Collapse section
 
 Byooviz : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (161.86 KB - PDF)
+English (EN) (163.26 KB - PDF)
 
-**First published:** 17/07/2025 **Last updated:** 01/10/2026
+**First published:** 17/07/2025 **Last updated:** 05/10/2026
 
 [View](/en/documents/procedural-steps-after/byooviz-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -693,170 +692,12 @@ English (EN) (141.18 KB - PDF)
 
 25/06/2021
 
-## Product information - with tracked changes
-
-The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
-
-Byooviz : EPAR - Product information - tracked changes
-
-English (EN) (795.35 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/en/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_en.docx)
-
-[Other languages (24)](#file-language-dropdown-791)
-
-български (BG) (920.46 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/bg/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_bg.docx)
-
-español (ES) (1.08 MB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/es/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_es.docx)
-
-čeština (CS) (908.18 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/cs/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_cs.docx)
-
-dansk (DA) (887.65 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/da/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_da.docx)
-
-Deutsch (DE) (849.51 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/de/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_de.docx)
-
-eesti (ET) (832.81 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/et/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_et.docx)
-
-ελληνικά (EL) (1.01 MB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/el/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_el.docx)
-
-français (FR) (891.35 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/fr/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_fr.docx)
-
-hrvatski (HR) (1.04 MB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/hr/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_hr.docx)
-
-italiano (IT) (852.92 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/it/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_it.docx)
-
-latviešu (LV) (887.73 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/lv/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_lv.docx)
-
-lietuvių (LT) (1.45 MB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/lt/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_lt.docx)
-
-magyar (HU) (1.01 MB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/hu/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_hu.docx)
-
-Malti (MT) (1020.85 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/mt/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_mt.docx)
-
-Nederlands (NL) (1008.95 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/nl/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_nl.docx)
-
-polski (PL) (910.07 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/pl/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_pl.docx)
-
-português (PT) (952.96 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/pt/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_pt.docx)
-
-română (RO) (774.08 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/ro/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_ro.docx)
-
-slovenčina (SK) (863.44 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/sk/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_sk.docx)
-
-slovenščina (SL) (844.34 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/sl/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_sl.docx)
-
-suomi (FI) (891.33 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/fi/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_fi.docx)
-
-svenska (SV) (811.45 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/sv/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_sv.docx)
-
-Íslenska (IS) (902.57 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/is/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_is.docx)
-
-norsk (NO) (853.67 KB - DOCX)
-
-**First published:** 17/07/2025 **Last updated:** 23/01/2026
-
-[View](/no/documents/product-information-tracked-changes/byooviz-epar-product-information-tracked-changes_no.docx)
-
 ## More information on Byooviz
 
 - [Incidence of Retinal Vasculitis With or Without Retinal Vascular Occlusion Among Eyes Treated With Approved Anti-Vascular Endothelial Growth Factor Agents in Neovascular Age-Related Macular Degeneration or Diabetic Macular Edema - post-authorisation study](https://catalogues.ema.europa.eu/study/107731)
 
 **This page was last updated on**
 
-01/10/2026
+05/10/2026
 
 ## Share this page

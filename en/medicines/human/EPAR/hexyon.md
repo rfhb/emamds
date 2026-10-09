@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-07 14:22:00
+document_datetime: 2026-10-05 10:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hexyon.html
 document_name: hexyon.html
 version: success
-processing_time: 0.167073
-conversion_datetime: 2026-08-10 20:49:47.892765
+processing_time: 0.2141959
+conversion_datetime: 2026-10-09 18:51:37.727497
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.119.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.11.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Hexyon
 
 [RSS](/en/individual-human-medicine.xml/67067)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -119,7 +119,7 @@ English (EN) (85.69 KB - PDF)
 
 [View](/en/documents/overview/hexyon-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-131)
+[Other languages (22)](#file-language-dropdown-462)
 
 български (BG) (113.42 KB - PDF)
 
@@ -253,6 +253,14 @@ svenska (SV) (84.53 KB - PDF)
 
 [View](/sv/documents/overview/hexyon-epar-summary-public_sv.pdf)
 
+Hexyon : EPAR - Risk management plan
+
+English (EN) (899.8 KB - PDF)
+
+**First published:** 05/10/2026
+
+[View](/en/documents/rmp/hexyon-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 Hexyon : EPAR - Product Information
@@ -263,7 +271,7 @@ English (EN) (640.54 KB - PDF)
 
 [View](/en/documents/product-information/hexyon-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-557)
+[Other languages (24)](#file-language-dropdown-919)
 
 български (BG) (836.51 KB - PDF)
 
@@ -409,15 +417,15 @@ norsk (NO) (582.56 KB - PDF)
 
 [View](/no/documents/product-information/hexyon-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000295915
+**Latest procedure affecting product information:** VR/0000349600
 
-25/06/2026
+01/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -436,7 +444,7 @@ English (EN) (72.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hexyon-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-647)
+[Other languages (24)](#file-language-dropdown-364)
 
 български (BG) (131.45 KB - PDF)
 
@@ -631,7 +639,7 @@ The use of this vaccine should be in accordance with official recommendations.
 - **Marketing authorisation issued**
     - 17/04/2013
 - **Revision**
-    - 37
+    - 38
 
 ## Assessment history
 
@@ -643,9 +651,9 @@ Collapse section
 
 Hexyon : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (222.64 KB - PDF)
+English (EN) (272.49 KB - PDF)
 
-**First published:** 06/03/2025 **Last updated:** 07/08/2026
+**First published:** 06/03/2025 **Last updated:** 05/10/2026
 
 [View](/en/documents/procedural-steps-after/hexyon-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -811,6 +819,6 @@ English (EN) (64.24 KB - PDF)
 
 **This page was last updated on**
 
-07/08/2026
+05/10/2026
 
 ## Share this page

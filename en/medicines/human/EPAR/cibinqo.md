@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-09-02 10:22:00
+document_datetime: 2026-10-06 17:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cibinqo.html
 document_name: cibinqo.html
 version: success
-processing_time: 0.1811944
-conversion_datetime: 2026-09-05 10:46:49.029397
+processing_time: 0.2128975
+conversion_datetime: 2026-10-09 18:50:21.669232
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.95.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.17.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Cibinqo
 
 [RSS](/en/individual-human-medicine.xml/67500)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -118,7 +118,7 @@ English (EN) (116.53 KB - PDF)
 
 [View](/en/documents/overview/cibinqo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-484)
+[Other languages (22)](#file-language-dropdown-459)
 
 български (BG) (150.96 KB - PDF)
 
@@ -270,7 +270,7 @@ English (EN) (653.28 KB - PDF)
 
 [View](/en/documents/product-information/cibinqo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-450)
+[Other languages (24)](#file-language-dropdown-168)
 
 български (BG) (733.33 KB - PDF)
 
@@ -443,7 +443,7 @@ English (EN) (38.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cibinqo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-507)
+[Other languages (24)](#file-language-dropdown-196)
 
 български (BG) (36.48 KB - PDF)
 
@@ -621,7 +621,7 @@ Cibinqo is indicated for the treatment of moderate-to-severe atopic dermatitis i
 - **Marketing authorisation issued**
     - 09/12/2021
 - **Revision**
-    - 18
+    - 19
 
 ## Assessment history
 
@@ -647,13 +647,23 @@ English (EN) (177.08 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/cibinqo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Cibinqo-PAM-0000360835 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3488834
+
+English (EN) (747.15 KB - PDF)
+
+**First published:** 06/10/2026
+
+[View](/en/documents/variation-report/cibinqo-pam-0000360835-epar-assessment-report_en.pdf)
+
 Cibinqo-PAM-0000347917 : EPAR - Assessment report
 
 Adopted Reference Number: EMADOC-1700519818-3384985
 
-English (EN) (356.87 KB - PDF)
+English (EN) (356.66 KB - PDF)
 
-**First published:** 06/08/2026
+**First published:** 06/08/2026 **Last updated:** 05/10/2026
 
 [View](/en/documents/variation-report/cibinqo-pam-0000347917-epar-assessment-report_en.pdf)
 
@@ -753,7 +763,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/cibinqo-epar-scientific-conclusions-article-20-referral-annex-iv_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-871)
+[Other languages (24)](#file-language-dropdown-561)
 
 български (BG) (203.66 KB - PDF)
 
@@ -953,6 +963,6 @@ English (EN) (126.14 KB - PDF)
 
 **This page was last updated on**
 
-02/09/2026
+06/10/2026
 
 ## Share this page

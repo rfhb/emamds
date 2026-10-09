@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-21 15:32:00
+document_datetime: 2026-10-05 10:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opdualag.html
 document_name: opdualag.html
 version: success
-processing_time: 0.1629046
-conversion_datetime: 2026-07-28 12:56:23.704237
+processing_time: 0.3920158
+conversion_datetime: 2026-10-09 18:52:54.376883
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Opdualag
 
 [RSS](/en/individual-human-medicine.xml/67604)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -114,7 +114,7 @@ English (EN) (116.34 KB - PDF)
 
 [View](/en/documents/overview/opdualag-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-155)
+[Other languages (22)](#file-language-dropdown-247)
 
 български (BG) (132.27 KB - PDF)
 
@@ -266,7 +266,7 @@ English (EN) (477.13 KB - PDF)
 
 [View](/en/documents/product-information/opdualag-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-36)
+[Other languages (24)](#file-language-dropdown-584)
 
 български (BG) (598.83 KB - PDF)
 
@@ -420,7 +420,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -439,7 +439,7 @@ English (EN) (44.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-580)
+[Other languages (25)](#file-language-dropdown-236)
 
 български (BG) (55.12 KB - PDF)
 
@@ -621,13 +621,13 @@ Opdualag is indicated for the first line treatment of advanced (unresectable or 
 - **Additional monitoring**
     - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
 - **Marketing authorisation holder**
-    - Bristol-Myers Squibb Pharma EEIG Plaza 254  Blanchardstown Corporate Park 2  Dublin 15  D15 T867  Ireland
+    - Bristol-Myers Squibb Pharma EEIG Plaza 254  Blanchardstown Corporate Park 2  Dublin 15, D15 T867  Ireland
 - **Opinion adopted**
     - 21/07/2022
 - **Marketing authorisation issued**
     - 15/09/2022
 - **Revision**
-    - 9
+    - 10
 
 ## Assessment history
 
@@ -654,6 +654,16 @@ English (EN) (137.13 KB - PDF)
 **First published:** 21/02/2024 **Last updated:** 11/07/2025
 
 [View](/en/documents/procedural-steps-after/opdualag-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Opdualag-PAM-0000349901 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3272044
+
+English (EN) (652.21 KB - PDF)
+
+**First published:** 05/10/2026
+
+[View](/en/documents/variation-report/opdualag-pam-0000349901-epar-assessment-report_en.pdf)
 
 Opdualag-VR-0000303785 : EPAR - Assessment report - Variation
 
@@ -727,7 +737,7 @@ English (EN) (302.26 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-530)
+[Other languages (24)](#file-language-dropdown-857)
 
 български (BG) (295.4 KB - DOCX)
 
@@ -893,6 +903,6 @@ English (EN) (141.78 KB - PDF)
 
 **This page was last updated on**
 
-21/07/2026
+05/10/2026
 
 ## Share this page

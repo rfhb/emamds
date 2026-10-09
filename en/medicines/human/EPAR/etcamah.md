@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-21 14:40:00
+document_datetime: 2026-10-06 13:13:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/etcamah.html
 document_name: etcamah.html
 version: success
-processing_time: 0.1186857
-conversion_datetime: 2026-07-28 13:00:16.482181
+processing_time: 0.1505434
+conversion_datetime: 2026-10-09 18:50:52.025275
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Etcamah
 
 [RSS](/en/individual-human-medicine.xml/279234)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -119,7 +119,7 @@ English (EN) (137.21 KB - PDF)
 
 [View](/en/documents/overview/etcamah-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-248)
+[Other languages (22)](#file-language-dropdown-525)
 
 български (BG) (157 KB - PDF)
 
@@ -271,7 +271,7 @@ English (EN) (344.23 KB - PDF)
 
 [View](/en/documents/product-information/etcamah-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-965)
+[Other languages (24)](#file-language-dropdown-49)
 
 български (BG) (489.95 KB - PDF)
 
@@ -421,7 +421,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -440,7 +440,7 @@ English (EN) (34.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/etcamah-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-286)
+[Other languages (24)](#file-language-dropdown-652)
 
 български (BG) (41.98 KB - PDF)
 
@@ -590,8 +590,6 @@ norsk (NO) (37 KB - PDF)
 
 - **Name of medicine**
     - Etcamah
-- **Active substance**
-    - camizestrant
 - **International non-proprietary name (INN) or common name**
     - camizestrant
 - **Therapeutic area (MeSH)**
@@ -626,6 +624,24 @@ Etcamah in combination with a CDK4/6 inhibitor (palbociclib, ribociclib, or abem
 
 ### Initial marketing authorisation documents
 
+Etcamah : EPAR - Divergent position of CHMP
+
+English (EN) (153.24 KB - PDF)
+
+**First published:** 06/10/2026
+
+[View](/en/documents/assessment-report/etcamah-epar-divergent-position-chmp_en.pdf)
+
+Etcamah : EPAR - Public assessment report
+
+Adopted Reference Number: EMADOC-1829012207-55475
+
+English (EN) (8.37 MB - PDF)
+
+**First published:** 06/10/2026
+
+[View](/en/documents/assessment-report/etcamah-epar-public-assessment-report_en.pdf)
+
 CHMP summary of positive opinion for Etcamah
 
 Adopted Reference Number: EMA/114517/2026
@@ -644,6 +660,6 @@ English (EN) (190.23 KB - PDF)
 
 **This page was last updated on**
 
-21/07/2026
+06/10/2026
 
 ## Share this page

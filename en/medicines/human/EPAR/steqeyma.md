@@ -1,103 +1,26 @@
 ---
-document_datetime: 2026-09-18 16:38:08
+document_datetime: 2026-10-06 16:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/steqeyma.html
 document_name: steqeyma.html
 version: success
-processing_time: 0.1579459
-conversion_datetime: 2026-09-23 07:36:30.691262
+processing_time: 0.1771634
+conversion_datetime: 2026-10-09 18:53:55.146229
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.130.0
-  docling-core: 2.98.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
   docling-ibm-models: 4.0.3
-  docling-parse: 7.21.0
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Campaigns](/en/news-events/ema-campaigns)
-    - [Speeches](/en/news-events/speeches)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health professionals](/en/partners-networks/animal-health-professionals)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Steqeyma
-
 # Steqeyma
 
 [RSS](/en/individual-human-medicine.xml/244584)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -124,11 +47,12 @@ Page contents
 
 Steqeyma is a medicine used to treat:
 
-- moderate to severe plaque psoriasis (a disease causing red, scaly patches on the skin). It is used in adults and children above the age of 6 years whose condition has not improved with, or who cannot use, other systemic (whole-body) psoriasis treatments, such as ciclosporin, methotrexate or PUVA (psoralen ultraviolet A). PUVA is a type of treatment where the patient receives a medicine called psoralen, before being exposed to ultraviolet light;
+- moderate to severe plaque psoriasis (a disease causing red, scaly patches on the skin). It is used in adults and children from the age of 6 years whose condition has not improved with, or who cannot use, other systemic (whole-body) psoriasis treatments, such as ciclosporin, methotrexate or PUVA (psoralen ultraviolet A). PUVA is a type of treatment where the patient receives a medicine called psoralen, before being exposed to ultraviolet light;
 - active psoriatic arthritis (inflammation of the joints associated with psoriasis) in adults, when the condition has not improved enough with other treatments called disease-modifying anti-rheumatic drugs (DMARDs). Stelara may be used alone or combined with methotrexate (a DMARD);
-- moderately to severely active Crohn's disease (a disease-causing inflammation of the gut) in adults whose condition has not improved enough with other treatments for Crohn's disease or who cannot receive such treatments;
+- moderately to severely active Crohn's disease (a disease-causing inflammation of the gut) in adults and children weighing at least 40 kg whose condition has not improved enough with other treatments for Crohn's disease or who cannot receive such treatments;
+- moderately to severely active ulcerative colitis (inflammation of the large intestine causing ulceration and bleeding) in adults whose condition has not improved enough with other treatments for ulcerative colitis or who cannot receive such treatments.
 
-Steqeyma contains the active substance ustekinumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Steqeyma is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Steqeyma is Stelara.
+Steqeyma contains the active substance ustekinumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Steqeyma is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Steqeyma is Stelara. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
 
 Expand section
 
@@ -138,33 +62,37 @@ Collapse section
 
 Steqeyma can only be obtained with a prescription and should be given under the supervision of a doctor who has experience in diagnosing and treating the diseases that Steqeyma is used for.
 
-In plaque psoriasis and psoriatic arthritis, Steqeyma is injected under the skin. The dose depends on the patient's bodyweight. Children under 60 kg who need lower doses should use another medicine containing the same active substance (ustekinumab) which allows the dose to be adjusted as needed. The first injection is followed by a further injection 4 weeks later, and then an injection every 12 weeks.
+In plaque psoriasis and psoriatic arthritis, Steqeyma is given as an injection under the skin. The first injection is followed by a further injection 4 weeks later, and then by one injection every 12 weeks.
 
-In Crohn's disease in adults, treatment is started with Steqeyma infusion (drip) into a vein over at least 1 hour. The dose depends on the patient's bodyweight and is given every 8 or 12 weeks depending on how well the treatment is working.
+In Crohn's disease and ulcerative colitis, treatment is started with Steqeyma infusion (drip) into a vein over at least 1 hour. Eight weeks after the infusion, Steqeyma is given as an injection under the skin. Patients then continue with Steqeyma injected under the skin every 8 or 12 weeks, depending on how well the treatment is working.
 
-Patients or their caregivers may inject Steqeyma under the skin once they have been trained, if their doctor thinks that this is appropriate. For more information about using Steqeyma, see the package leaflet or contact your doctor or pharmacist.
+Patients or their caregivers may inject Steqeyma under the skin once they have been trained, if their doctor thinks that this is appropriate.
+
+For more information about using Steqeyma, see the package leaflet or contact your doctor or pharmacist.
 
 ### How does Steqeyma work?
 
-The active substance in Steqeyma, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to two messenger molecules in the immune system called interleukin 12 and interleukin 23. Both are involved in inflammation and other processes that are important in psoriasis, psoriatic arthritis and Crohn's disease. By blocking their activity, ustekinumab reduces the activity of the immune system and the symptoms of the disease.
+The active substance in Steqeyma, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to two messenger molecules of the immune system called interleukin 12 and interleukin 23. Both are involved in inflammation and other processes that play an important role in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis. By blocking their activity, ustekinumab reduces the activity of the immune system and the symptoms of the disease.
 
 ### What benefits of Steqeyma have been shown in studies?
 
 Laboratory studies comparing Steqeyma with Stelara have shown that the active substance in Steqeyma is highly similar to that in Stelara in terms of structure, purity and biological activity. Studies have also shown that giving Steqeyma produces similar levels of the active substance in the body to giving Stelara.
 
-In addition, a study of 509 patients with moderate to severe plaque psoriasis showed that Steqeyma was as effective as Stelara in improving symptoms. The improvement in symptoms scores after 12 weeks was similar with both medicines.
+In addition, a study of 509 patients with moderate to severe plaque psoriasis showed that Steqeyma was as effective as Stelara in improving symptoms. The improvement in symptom scores after 12 weeks was similar with both medicines.
 
 Because Steqeyma is a biosimilar medicine, the studies on effectiveness of ustekinumab carried out with Stelara do not all need to be repeated for Steqeyma.
 
-### What are the risks associated with Steqeyma?
+Studies carried out with Steqeyma are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions with Steqeyma?
+
+For the full list of side effects and restrictions with Steqeyma, see the package leaflet.
 
 The safety of Steqeyma has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Stelara.
 
-For the complete list of side effects and restrictions of Steqeyma, see the package leaflet.
+The most common side effects with ustekinumab (which may affect up to 1 in 10 people) include headache and nasopharyngitis (inflammation of the nose and throat). The most serious side effect with ustekinumab (which may affect up to 1 in 1,000 people) is serious hypersensitivity reaction (allergic reaction) including anaphylaxis (sudden, severe allergic reaction with breathing difficulty, swelling, light-headedness, fast heartbeat, sweating and loss of consciousness).
 
-The most common side effects with ustekinumab (seen in more than 1 in 20 during clinical trials) include headache and nasopharyngitis (inflammation of the nose and throat). The most serious side effect reported with ustekinumab include serious hypersensitivity (allergic reaction).
-
-Steqeyma must not be used in patients who have an active infection that the doctor considers important. For the full list of restrictions, see the package leaflet.
+Steqeyma must not be used in patients who have an active infection that the doctor considers important.
 
 ### Why is Steqeyma authorised in the EU?
 
@@ -186,143 +114,143 @@ Steqeyma : EPAR - Medicine overview
 
 Reference Number: EMA/353479/2024
 
-English (EN) (136.51 KB - PDF)
+English (EN) (137.4 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/en/documents/overview/steqeyma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-142)
+[Other languages (22)](#file-language-dropdown-946)
 
-български (BG) (162.8 KB - PDF)
+български (BG) (166.27 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/bg/documents/overview/steqeyma-epar-medicine-overview_bg.pdf)
 
-español (ES) (136.6 KB - PDF)
+español (ES) (137.31 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/es/documents/overview/steqeyma-epar-medicine-overview_es.pdf)
 
-čeština (CS) (161.19 KB - PDF)
+čeština (CS) (163.02 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/cs/documents/overview/steqeyma-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (135.44 KB - PDF)
+dansk (DA) (138.35 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/da/documents/overview/steqeyma-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (140.17 KB - PDF)
+Deutsch (DE) (142.08 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/de/documents/overview/steqeyma-epar-medicine-overview_de.pdf)
 
-eesti (ET) (134.26 KB - PDF)
+eesti (ET) (134.69 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/et/documents/overview/steqeyma-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (162.98 KB - PDF)
+ελληνικά (EL) (167.01 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/el/documents/overview/steqeyma-epar-medicine-overview_el.pdf)
 
-français (FR) (137.36 KB - PDF)
+français (FR) (140 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/fr/documents/overview/steqeyma-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (159.21 KB - PDF)
+hrvatski (HR) (162.1 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/hr/documents/overview/steqeyma-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (135.65 KB - PDF)
+italiano (IT) (137.24 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/it/documents/overview/steqeyma-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (167.88 KB - PDF)
+latviešu (LV) (168.51 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/lv/documents/overview/steqeyma-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (160.4 KB - PDF)
+lietuvių (LT) (160.42 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/lt/documents/overview/steqeyma-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (160.34 KB - PDF)
+magyar (HU) (162.59 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/hu/documents/overview/steqeyma-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (162.76 KB - PDF)
+Malti (MT) (163.47 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/mt/documents/overview/steqeyma-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (136.61 KB - PDF)
+Nederlands (NL) (140.41 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/nl/documents/overview/steqeyma-epar-medicine-overview_nl.pdf)
 
-polski (PL) (163.52 KB - PDF)
+polski (PL) (168.26 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/pl/documents/overview/steqeyma-epar-medicine-overview_pl.pdf)
 
-português (PT) (137.33 KB - PDF)
+português (PT) (138.37 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/pt/documents/overview/steqeyma-epar-medicine-overview_pt.pdf)
 
-română (RO) (158.09 KB - PDF)
+română (RO) (157.84 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/ro/documents/overview/steqeyma-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (161.03 KB - PDF)
+slovenčina (SK) (162.97 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/sk/documents/overview/steqeyma-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (158.09 KB - PDF)
+slovenščina (SL) (158.72 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/sl/documents/overview/steqeyma-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (133.86 KB - PDF)
+suomi (FI) (134.79 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/fi/documents/overview/steqeyma-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (134.97 KB - PDF)
+svenska (SV) (137 KB - PDF)
 
-**First published:** 11/09/2024
+**First published:** 11/09/2024 **Last updated:** 06/10/2026
 
 [View](/sv/documents/overview/steqeyma-epar-medicine-overview_sv.pdf)
 
@@ -344,7 +272,7 @@ English (EN) (4.34 MB - PDF)
 
 [View](/en/documents/product-information/steqeyma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-314)
+[Other languages (24)](#file-language-dropdown-789)
 
 български (BG) (4.45 MB - PDF)
 
@@ -517,7 +445,7 @@ English (EN) (62.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/steqeyma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-428)
+[Other languages (24)](#file-language-dropdown-884)
 
 български (BG) (56.15 KB - PDF)
 
@@ -773,6 +701,6 @@ English (EN) (154.23 KB - PDF)
 
 **This page was last updated on**
 
-18/09/2026
+06/10/2026
 
 ## Share this page

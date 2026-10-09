@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-31 16:39:45
+document_datetime: 2026-10-06 09:52:26
 document_pages: 67
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/orladeyo-epar-product-information_en.pdf
 document_name: orladeyo-epar-product-information_en.pdf
 version: success
-processing_time: 25.0364021
-conversion_datetime: 2026-09-02 22:03:04.545855
+processing_time: 43.3462066
+conversion_datetime: 2026-10-09 18:40:04.650988
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,7 +36,7 @@ For the full list of excipients, see section 6.1.
 
 Hard capsule (capsule).
 
-Capsule (19.4 mm × 6.9 mm) with white opaque body imprinted with '150' and light blue opaque cap imprinted with 'BCX'.
+Capsule (19.4 mm × 6.9 mm) with white opaque body imprinted with \"150\" and light blue opaque cap imprinted with \"BCX\".
 
 ## 4. CLINICAL PARTICULARS
 
@@ -58,7 +58,7 @@ For adolescent patients aged 12 years and older weighing &lt; 40 kg, reference s
 
 If a dose of Orladeyo is missed, the patient should take the forgotten dose as soon as possible without exceeding one dose per day.
 
-Orladeyo is not intended for treatment of acute HAE attacks (see section 4.4) .
+Orladeyo is not intended for treatment of acute HAE attacks (see section 4.4).
 
 ## Special populations
 
@@ -186,7 +186,7 @@ The most common adverse reactions are abdominal pain (all locations) (reported b
 
 ## Tabulated list of adverse reactions
 
-The safety of berotralstat has been evaluated in long term clinical studies in patients with HAE (both uncontrolled, open-label and placebo-controlled, blinded) in 381 adult and adolescent patients and 29 paediatric patients aged 3 to &lt; 12 years. Adverse reactions obtained from clinical studies and postmarketing surveillance are listed below by MedDRA system organ class and by frequency. Frequencies are define d as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The safety of berotralstat has been evaluated in long term clinical studies in patients with HAE (both uncontrolled, open-label and placebo-controlled, blinded) in 381 adult and adolescent patients and 29 paediatric patients aged 3 to &lt; 12 years. Adverse reactions obtained from clinical studies and postmarketing surveillance are listed below by MedDRA system organ class and by frequency. Frequencies are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -247,7 +247,7 @@ Efficacy of berotralstat was studied in a multicentre, randomised, double-blind,
 
 ## Study NCT03485911
 
-This study included 120 patients (114 adults and 6 children 12 years and over) with type I or II HAE who experienced at least two investigator-confirmed attacks within the first 8 weeks of the run-in period and took at least one dose of study t reatment. Nine patients were aged ≥ 65 years. Patients were randomised into 1 of 3 parallel treatment arms, stratified by baseline attack rate, in a 1:1:1 ratio (berotralstat 110 mg, berotralstat 150 mg or placebo by oral administration once daily, with food) for the 24-week treatment period.
+This study included 120 patients (114 adults and 6 children 12 years and over) with type I or II HAE who experienced at least two investigator-confirmed attacks within the first 8 weeks of the run-in period and took at least one dose of study treatment. Nine patients were aged ≥ 65 years. Patients were randomised into 1 of 3 parallel treatment arms, stratified by baseline attack rate, in a 1:1:1 ratio (berotralstat 110 mg, berotralstat 150 mg or placebo by oral administration once daily, with food) for the 24-week treatment period.
 
 A total of 81 patients received at least one dose of berotralstat in the 24-week treatment period. Overall, 66% of patients were female and 93% of patients were Caucasian with a mean age of 41.6 years. A history of laryngeal angioedema attacks was reported in 74% of patients and 75% reported prior use of long-term prophylaxis. The median attack rate during the prospective run-in period (baseline attack rate) was 2.9 per month. Of patients enrolled, 70% had a baseline attack rate of ≥ 2 attacks per month.
 
@@ -259,10 +259,9 @@ Berotralstat 150 mg produced a statistically significant and clinically meaningf
 
 Table 2: Reduction in HAE attack rate in the berotralstat 150 mg ITT population
 
-| Outcome         | Berotralstat 150 mg (n=40)   | Berotralstat 150 mg (n=40)              | Berotralstat 150 mg (n=40)   | Placebo (n=40 a )   |
-|-----------------|------------------------------|-----------------------------------------|------------------------------|---------------------|
-|                 | Rate per 28 days             | Percent reduction from placebo (95% CI) | p-value                      | Rate per 28 days    |
-| HAE attack rate | 1.31                         | 44.2% (23.0, 59.5)                      | < 0.001                      | 2.35                |
+| Outcome         |   Berotralstat 150 mg (n=40) - Rate per 28 days | Berotralstat 150 mg (n=40) - Percent reduction from placebo (95% CI)   | Berotralstat 150 mg (n=40) - p-value   |   Placebo (n=40 a ) - Rate per 28 days |
+|-----------------|-------------------------------------------------|------------------------------------------------------------------------|----------------------------------------|----------------------------------------|
+| HAE attack rate |                                            1.31 | 44.2% (23.0, 59.5)                                                     | < 0.001                                |                                   2.35 |
 
 Reduction in attack rates was sustained through 24 weeks, as shown in Figure 1.
 
@@ -284,14 +283,13 @@ Patients receiving berotralstat 150 mg experienced an improvement in Angioedema 
 
 Table 3: Change in AE-QoL score*- berotralstat compared to placebo at week 24
 
-|                    | LS mean change (SE) from baseline at week 24   | LS mean change (SE) from baseline at week 24   | LS mean difference from placebo   |
-|--------------------|------------------------------------------------|------------------------------------------------|-----------------------------------|
-|                    | Berotralstat 150 mg                            | Placebo                                        | (95% CI)                          |
-| AE-QoL total score | -14.6 (2.6)                                    | -9.7 (2.6)                                     | -4.90 (-12.23, 2.43)              |
-| Functioning score  | -19.5 (3.4)                                    | -10.4 (3.4)                                    | -9.10 (-18.58, 0.38)              |
-| Fatigue/Mood score | -11.3 (3.2)                                    | -9.2 (3.3)                                     | -2.16 (-11.35, 7.03)              |
-| Fear/Shame score   | -15.4 (3.2)                                    | -10.5 (3.3)                                    | -4.96 (-14.05, 4.13)              |
-| Nutrition score    | -8.8 (3.0)                                     | -6.1 (3.1)                                     | -2.68 (-11.27, 5.92)              |
+|                    | LS mean change (SE) from baseline at week 24 - Berotralstat 150 mg   | LS mean change (SE) from baseline at week 24 - Placebo   | LS mean difference from placebo - (95% CI)   |
+|--------------------|----------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------|
+| AE-QoL total score | -14.6 (2.6)                                                          | -9.7 (2.6)                                               | -4.90 (-12.23, 2.43)                         |
+| Functioning score  | -19.5 (3.4)                                                          | -10.4 (3.4)                                              | -9.10 (-18.58, 0.38)                         |
+| Fatigue/Mood score | -11.3 (3.2)                                                          | -9.2 (3.3)                                               | -2.16 (-11.35, 7.03)                         |
+| Fear/Shame score   | -15.4 (3.2)                                                          | -10.5 (3.3)                                              | -4.96 (-14.05, 4.13)                         |
+| Nutrition score    | -8.8 (3.0)                                                           | -6.1 (3.1)                                               | -2.68 (-11.27, 5.92)                         |
 
 AE-QoL=Angioedema Quality of Life Questionnaire; CI=confidence interval; LS=least squares;
 
@@ -309,7 +307,7 @@ Adolescents aged 12 to less than 18 years (Study NCT03485911, Study NCT03472040)
 
 ## Children aged 2 to less than 12 years
 
-The safety and effectiveness of berotralstat were evaluated in a multicentre, open-label, sequential, single-arm study that evaluated 29 paediatric patients aged 3 to &lt; 12 years with HAE who received Orladeyo granules once daily with food (Study NCT05453968) . The median attack rate reported at baseline (Standard of Care period) was 0.96 attacks/month (range: 0 to 5 attacks/month). To achieve drug exposures similar to those observed in adults treated with 150 mg, patients were assigned to one of 4 dose groups based on baseline body weight: ≥ 40 kg (n=7), 32 to &lt; 40 kg (n=9), 24 to &lt; 32 kg (n=9), and 12 to &lt; 24 kg (n=4) .
+The safety and effectiveness of berotralstat were evaluated in a multicentre, open-label, sequential, single-arm study that evaluated 29 paediatric patients aged 3 to &lt; 12 years with HAE who received Orladeyo granules once daily with food (Study NCT05453968). The median attack rate reported at baseline (Standard of Care period) was 0.96 attacks/month (range: 0 to 5 attacks/month). To achieve drug exposures similar to those observed in adults treated with 150 mg, patients were assigned to one of 4 dose groups based on baseline body weight: ≥ 40 kg (n=7), 32 to &lt; 40 kg (n=9), 24 to &lt; 32 kg (n=9), and 12 to &lt; 24 kg (n=4).
 
 All 29 patients completed 12 weeks of treatment with berotralstat, with 27 patients completing 48 weeks of treatment.
 
@@ -317,11 +315,11 @@ Reduction from baseline in monthly mean attack rate was sustained through 48 wee
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 2: Adjusted mean HAE attack rate per month a  through 48 weeks treatment with berotralstat weight-based dosing
+Figure 2: Adjusted mean HAE attack rate per month a through 48 weeks treatment with berotralstat weight-based dosing
 
 <!-- image -->
 
-- a  Adjusted mean HAE attack rate per month was not a primary endpoint of the study
+- a Adjusted mean HAE attack rate per month was not a primary endpoint of the study
 
 The safety and efficacy of berotralstat in paediatric patients under 2 years have not been established.
 
@@ -343,7 +341,7 @@ Plasma protein binding is approximately 99%. After a single dose of radiolabelle
 
 ## Biotransformation
 
-Berotralstat is metabolised by CYP2D6 and by CYP3A4 with low turnover in vitro . After a single oral radiolabelled berotralstat 300 mg dose, berotralstat represented 34% of the total plasma radioactivity, with 8 metabolites, each accounting for between 1.8 and 7.8% of the total radioactivity. Structures for 5 of the 8 metabolites are known. It is unknown whether any metabolites are pharmacologically active.
+Berotralstat is metabolised by CYP2D6 and by CYP3A4 with low turnover in vitro. After a single oral radiolabelled berotralstat 300 mg dose, berotralstat represented 34% of the total plasma radioactivity, with 8 metabolites, each accounting for between 1.8 and 7.8% of the total radioactivity. Structures for 5 of the 8 metabolites are known. It is unknown whether any metabolites are pharmacologically active.
 
 Berotralstat 150 mg once daily is a moderate inhibitor of CYP2D6 and CYP3A4, and a weak inhibitor of CYP2C9. Berotralstat is not an inhibitor of CYP2C19.
 
@@ -355,7 +353,7 @@ Berotralstat at double the recommended dose is a weak inhibitor of P-gp and is n
 
 After a single dose of 150 mg, the median half-life of berotralstat was approximately 93 hours (range: 39 to 152 hours).
 
-After a single oral radiolabelled  berotralstat 300 mg dose, approximately 9% was excreted in urine (3.4% unchanged; range 1.8 to 4.7%) and 79% was excreted in faeces. Additional analyses indicated approximately 50% of the fraction recovered in the faeces was unchanged berotralstat.
+After a single oral radiolabelled berotralstat 300 mg dose, approximately 9% was excreted in urine (3.4% unchanged; range 1.8 to 4.7%) and 79% was excreted in faeces. Additional analyses indicated approximately 50% of the fraction recovered in the faeces was unchanged berotralstat.
 
 ## Special populations
 
@@ -399,7 +397,7 @@ Berotralstat crossed the placental barrier in rats and rabbits. An embryo-foetal
 
 Berotralstat was detected in the plasma of rat pups on lactation day 14 at approximately 5% of the maternal plasma concentration.
 
-Berotralstat had no effects on mating or fertility in male and female rats at a dose 2.9 times the clinical 150 mg berotralstat dose on a mg/m 2  basis.
+Berotralstat had no effects on mating or fertility in male and female rats at a dose 2.9 times the clinical 150 mg berotralstat dose on a mg/m 2 basis.
 
 There were no new findings observed in the definitive juvenile toxicology study in male and female rats. No adverse effects were observed at doses up to 50 mg/kg/day with AUC0-24 exposures 5.8 to 6.5 times the recommended paediatric therapeutic exposures.
 
@@ -409,15 +407,13 @@ There were no new findings observed in the definitive juvenile toxicology study 
 
 ## Capsule filling
 
-Crospovidone (type A) Magnesium stearate Silica, colloidal anhydrous Starch, pregelatinised
+Crospovidone (type A) Magnesium stearate Silica, colloidal anhydrous Starch, pregelatinised Capsule shell Gelatin Titanium dioxide (E 171) Indigo carmine (E 132) Black iron oxide (E 172)
 
 <div style=\"page-break-after: always\"></div>
 
-## Capsule shell
+Red iron oxide (E 172)
 
-Gelatin Titanium dioxide (E 171) Indigo carmine (E 132) Black iron oxide (E 172) Red iron oxide (E 172)
-
-## Printing ink
+Printing ink
 
 Black iron oxide (E 172) Potassium hydroxide Shellac Propylene glycol (E 1520)
 
@@ -447,13 +443,15 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
+Neopharmed Gentili Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1544/001 EU/1/21/1544/002
+EU/1/21/1544/001
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL  OF THE AUTHORISATION
+EU/1/21/1544/002
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 30 April 2021
 
@@ -467,30 +465,54 @@ Detailed information on this medicinal product is available on the website of th
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-| Orladeyo 72 mg film-coated granules in sachet                                                                                                                                                                       | Orladeyo 72 mg film-coated granules in sachet                                                                                                                                                                       |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Orladeyo 96 mg film-coated granules in sachet                                                                                                                                                                       | Orladeyo 96 mg film-coated granules in sachet                                                                                                                                                                       |
-| Orladeyo 108 mg film-coated granules in sachet                                                                                                                                                                      | Orladeyo 108 mg film-coated granules in sachet                                                                                                                                                                      |
-| Orladeyo 132 mg film-coated granules in sachet                                                                                                                                                                      | Orladeyo 132 mg film-coated granules in sachet                                                                                                                                                                      |
-| 2.                                                                                                                                                                                                                  | QUALITATIVE AND QUANTITATIVE COMPOSITION                                                                                                                                                                            |
-| Orladeyo 72 mg film-coated granules in sachet                                                                                                                                                                       | Orladeyo 72 mg film-coated granules in sachet                                                                                                                                                                       |
-| Each sachet contains 72 mg berotralstat (as dihydrochloride).                                                                                                                                                       | Each sachet contains 72 mg berotralstat (as dihydrochloride).                                                                                                                                                       |
-| Orladeyo 96 mg film-coated granules in sachet                                                                                                                                                                       | Orladeyo 96 mg film-coated granules in sachet                                                                                                                                                                       |
-| Each sachet contains 96 mg berotralstat (as dihydrochloride).                                                                                                                                                       | Each sachet contains 96 mg berotralstat (as dihydrochloride).                                                                                                                                                       |
-| Orladeyo 108 mg film-coated granules in sachet                                                                                                                                                                      | Orladeyo 108 mg film-coated granules in sachet                                                                                                                                                                      |
-| Each sachet contains 108 mg berotralstat (as dihydrochloride).                                                                                                                                                      | Each sachet contains 108 mg berotralstat (as dihydrochloride).                                                                                                                                                      |
-| Orladeyo 132 mg film-coated granules in sachet                                                                                                                                                                      | Orladeyo 132 mg film-coated granules in sachet                                                                                                                                                                      |
-| Each sachet contains 132 mg berotralstat (as dihydrochloride).                                                                                                                                                      | Each sachet contains 132 mg berotralstat (as dihydrochloride).                                                                                                                                                      |
-| For the full list of excipients, see section 6.1.                                                                                                                                                                   | For the full list of excipients, see section 6.1.                                                                                                                                                                   |
-| 3.                                                                                                                                                                                                                  | PHARMACEUTICAL FORM                                                                                                                                                                                                 |
-| Film-coated granules in sachet.                                                                                                                                                                                     | Film-coated granules in sachet.                                                                                                                                                                                     |
-| White to off-white, plain-faced, round film-coated granules, approximately 2 mm in diameter.                                                                                                                        | White to off-white, plain-faced, round film-coated granules, approximately 2 mm in diameter.                                                                                                                        |
-| 4.                                                                                                                                                                                                                  | CLINICAL PARTICULARS                                                                                                                                                                                                |
-| 4.1                                                                                                                                                                                                                 | Therapeutic indications                                                                                                                                                                                             |
-| Orladeyo is indicated for routine prevention of recurrent attacks of hereditary angioedema • children aged 2 to less than 12 years weighing at least 15 kg • adolescents aged 12 and older weighing less than 40 kg | Orladeyo is indicated for routine prevention of recurrent attacks of hereditary angioedema • children aged 2 to less than 12 years weighing at least 15 kg • adolescents aged 12 and older weighing less than 40 kg |
-| 4.2                                                                                                                                                                                                                 | Posology and method of administration                                                                                                                                                                               |
-| Posology                                                                                                                                                                                                            | Posology                                                                                                                                                                                                            |
-| The recommended dose for children aged 2 to less than 12 years is weight based and provided in Table 1.                                                                                                             | The recommended dose for children aged 2 to less than 12 years is weight based and provided in Table 1.                                                                                                             |
+Orladeyo 72 mg film-coated granules in sachet
+
+Orladeyo 96 mg film-coated granules in sachet
+
+Orladeyo 108 mg film-coated granules in sachet
+
+Orladeyo 132 mg film-coated granules in sachet
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Orladeyo 72 mg film-coated granules in sachet
+
+Each sachet contains 72 mg berotralstat (as dihydrochloride).
+
+Orladeyo 96 mg film-coated granules in sachet
+
+Each sachet contains 96 mg berotralstat (as dihydrochloride).
+
+Orladeyo 108 mg film-coated granules in sachet
+
+Each sachet contains 108 mg berotralstat (as dihydrochloride).
+
+Orladeyo 132 mg film-coated granules in sachet
+
+Each sachet contains 132 mg berotralstat (as dihydrochloride).
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Film-coated granules in sachet.
+
+White to off-white, plain-faced, round film-coated granules, approximately 2 mm in diameter.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+Orladeyo is indicated for routine prevention of recurrent attacks of hereditary angioedema (HAE) in:
+
+- children aged 2 to less than 12 years weighing at least 15 kg
+- adolescents aged 12 and older weighing less than 40 kg
+
+## 4.2 Posology and method of administration
+
+## Posology
+
+The recommended dose for children aged 2 to less than 12 years is weight based and provided in Table 1.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -513,7 +535,7 @@ Consideration should be given to discontinuing treatment in patients with normal
 
 If a dose of Orladeyo is missed, the patient should take the forgotten dose as soon as possible without exceeding one dose per day.
 
-Orladeyo is not intended for treatment of acute HAE attacks (see section 4.4) .
+Orladeyo is not intended for treatment of acute HAE attacks (see section 4.4).
 
 ## Special populations
 
@@ -533,7 +555,7 @@ The safety and efficacy of Orladeyo in children under 2 years of age have not be
 
 ## Method of administration
 
-## Oral use.
+Oral use.
 
 Each sachet is for single use only.
 
@@ -548,7 +570,7 @@ Orladeyo film-coated granules can be administered in one of the following ways:
 - The entire contents of one sachet should be poured directly into the mouth and swallowed immediately with non-acidic liquid (water or milk).
 - The entire contents of one sachet should be sprinkled over approximately one tablespoon (15 mL) of soft, non-acidic food and consumed immediately. Food should be at or below room temperature. Examples of soft, non-acidic foods include chocolate pudding, mashed potatoes, creamed corn, and pureed peas or bananas.
 
-Acidic foods such as yoghurt and applesauce should not be used because they can dissolve the taste-masking coating and result in a bitter taste . All of the granules should be taken within 10 minutes of being sprinkled over food to prevent the taste-masking coating from dissolving.
+Acidic foods such as yoghurt and applesauce should not be used because they can dissolve the taste-masking coating and result in a bitter taste. All of the granules should be taken within 10 minutes of being sprinkled over food to prevent the taste-masking coating from dissolving.
 
 ## 4.3 Contraindications
 
@@ -721,7 +743,7 @@ Efficacy of berotralstat was studied in a multicentre, randomised, double-blind,
 
 ## Study NCT03485911
 
-This study included 120 patients (114 adults and 6 children 12 years and over) with type I or II HAE who experienced at least two investigator-confirmed attacks within the first 8 weeks of the run-in period and took at least one dose of study treatmen t. Nine patients were aged ≥ 65 years. Patients were randomised into 1 of 3 parallel treatment arms, stratified by baseline attack rate, in a 1:1:1 ratio (berotralstat 110 mg, berotralstat 150 mg or placebo by oral administration once daily, with food) for the 24-week treatment period.
+This study included 120 patients (114 adults and 6 children 12 years and over) with type I or II HAE who experienced at least two investigator-confirmed attacks within the first 8 weeks of the run-in period and took at least one dose of study treatment. Nine patients were aged ≥ 65 years. Patients were randomised into 1 of 3 parallel treatment arms, stratified by baseline attack rate, in a 1:1:1 ratio (berotralstat 110 mg, berotralstat 150 mg or placebo by oral administration once daily, with food) for the 24-week treatment period.
 
 A total of 81 patients received at least one dose of berotralstat in the 24-week treatment period. Overall, 66% of patients were female and 93% of patients were Caucasian with a mean age of 41.6 years. A history of laryngeal angioedema attacks was reported in 74% of patients and 75% reported prior use of long-term prophylaxis. The median attack rate during the prospective run-in period (baseline attack rate) was 2.9 per month. Of patients enrolled, 70% had a baseline attack rate of ≥ 2 attacks per month.
 
@@ -733,10 +755,9 @@ Berotralstat 150 mg produced a statistically significant and clinically meaningf
 
 Table 3: Reduction in HAE attack rate in the berotralstat 150 mg ITT population
 
-| Outcome         | Berotralstat 150 mg (n=40)   | Berotralstat 150 mg (n=40)              | Berotralstat 150 mg (n=40)   | Placebo (n=40 a )   |
-|-----------------|------------------------------|-----------------------------------------|------------------------------|---------------------|
-|                 | Rate per 28 days             | Percent reduction from placebo (95% CI) | p-value                      | Rate per 28 days    |
-| HAE attack rate | 1.31                         | 44.2% (23.0, 59.5)                      | < 0.001                      | 2.35                |
+| Outcome         |   Berotralstat 150 mg (n=40) - Rate per 28 days | Berotralstat 150 mg (n=40) - Percent reduction from placebo (95% CI)   | Berotralstat 150 mg (n=40) - p-value   |   Placebo (n=40 a ) - Rate per 28 days |
+|-----------------|-------------------------------------------------|------------------------------------------------------------------------|----------------------------------------|----------------------------------------|
+| HAE attack rate |                                            1.31 | 44.2% (23.0, 59.5)                                                     | < 0.001                                |                                   2.35 |
 
 Reduction in attack rates was sustained through 24 weeks, as shown in Figure 1.
 
@@ -758,14 +779,13 @@ Patients receiving berotralstat 150 mg experienced an improvement in Angioedema 
 
 Table 4: Change in AE-QoL score*- berotralstat compared to placebo at week 24
 
-|                    | LS mean change (SE) from baseline at week 24   | LS mean change (SE) from baseline at week 24   | LS mean difference from placebo   |
-|--------------------|------------------------------------------------|------------------------------------------------|-----------------------------------|
-|                    | Berotralstat 150 mg                            | Placebo                                        | (95% CI)                          |
-| AE-QoL total score | -14.6 (2.6)                                    | -9.7 (2.6)                                     | -4.90 (-12.23, 2.43)              |
-| Functioning score  | -19.5 (3.4)                                    | -10.4 (3.4)                                    | -9.10 (-18.58, 0.38)              |
-| Fatigue/Mood score | -11.3 (3.2)                                    | -9.2 (3.3)                                     | -2.16 (-11.35, 7.03)              |
-| Fear/Shame score   | -15.4 (3.2)                                    | -10.5 (3.3)                                    | -4.96 (-14.05, 4.13)              |
-| Nutrition score    | -8.8 (3.0)                                     | -6.1 (3.1)                                     | -2.68 (-11.27, 5.92)              |
+|                    | LS mean change (SE) from baseline at week 24 - Berotralstat 150 mg   | LS mean change (SE) from baseline at week 24 - Placebo   | LS mean difference from placebo - (95% CI)   |
+|--------------------|----------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------|
+| AE-QoL total score | -14.6 (2.6)                                                          | -9.7 (2.6)                                               | -4.90 (-12.23, 2.43)                         |
+| Functioning score  | -19.5 (3.4)                                                          | -10.4 (3.4)                                              | -9.10 (-18.58, 0.38)                         |
+| Fatigue/Mood score | -11.3 (3.2)                                                          | -9.2 (3.3)                                               | -2.16 (-11.35, 7.03)                         |
+| Fear/Shame score   | -15.4 (3.2)                                                          | -10.5 (3.3)                                              | -4.96 (-14.05, 4.13)                         |
+| Nutrition score    | -8.8 (3.0)                                                           | -6.1 (3.1)                                               | -2.68 (-11.27, 5.92)                         |
 
 AE-QoL=Angioedema Quality of Life Questionnaire; CI=confidence interval; LS=least squares;
 
@@ -781,11 +801,11 @@ An analysis of observational clinical data was conducted in 311 adult patients w
 
 ## Adolescents aged 12 to less than 18 years
 
-The safety and effectiveness of berotralstat were evaluated in 28 adolescent patients aged 12 to &lt; 18 years across both studies (Study NCT03485911, Study NCT03472040) . The safety profile and attack rate on study were similar to those observed in adults.
+The safety and effectiveness of berotralstat were evaluated in 28 adolescent patients aged 12 to &lt; 18 years across both studies (Study NCT03485911, Study NCT03472040). The safety profile and attack rate on study were similar to those observed in adults.
 
 ## Children aged 2 to less than 12 years
 
-The safety and effectiveness of berotralstat were evaluated in a multicentre, open-label, sequential, single-arm study that evaluated 29 paediatric patients aged 3 to &lt; 12 years with HAE who received Orladeyo granules once daily with food (Study NCT05453968 ). The median attack rate reported at baseline (Standard of Care period) was 0.96 attacks/month (range: 0 to 5 attacks/month). To achieve drug exposures similar to those observed in adults treated with 150 mg, patients were assigned to one of 4 dose groups base d on baseline body weight: ≥ 40 kg (n=7), 32 to &lt; 40 kg (n=9), 24 to &lt; 32 kg (n=9), and 12 to &lt; 24 kg (n=4) .
+The safety and effectiveness of berotralstat were evaluated in a multicentre, open-label, sequential, single-arm study that evaluated 29 paediatric patients aged 3 to &lt; 12 years with HAE who received Orladeyo granules once daily with food (Study NCT05453968). The median attack rate reported at baseline (Standard of Care period) was 0.96 attacks/month (range: 0 to 5 attacks/month). To achieve drug exposures similar to those observed in adults treated with 150 mg, patients were assigned to one of 4 dose groups based on baseline body weight: ≥ 40 kg (n=7), 32 to &lt; 40 kg (n=9), 24 to &lt; 32 kg (n=9), and 12 to &lt; 24 kg (n=4).
 
 All 29 patients completed 12 weeks of treatment with berotralstat, with 27 patients completing 48 weeks of treatment.
 
@@ -793,11 +813,11 @@ Reduction from baseline in monthly mean attack rate was sustained through 48 wee
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 2: Adjusted mean HAE attack rate per month a  through 48 weeks treatment with berotralstat weight-based dosing
+Figure 2: Adjusted mean HAE attack rate per month a through 48 weeks treatment with berotralstat weight-based dosing
 
 <!-- image -->
 
-- a  Adjusted mean HAE attack rate per month was not a primary endpoint of the study
+- a Adjusted mean HAE attack rate per month was not a primary endpoint of the study
 
 The safety and efficacy of berotralstat in paediatric patients under 2 years of age have not been established.
 
@@ -823,7 +843,7 @@ Plasma protein binding is approximately 99%. After a single dose of radiolabelle
 
 ## Biotransformation
 
-Berotralstat is metabolised by CYP2D6 and by CYP3A4 with low turnover in vitro . After a single oral radiolabelled berotralstat 300 mg dose, berotralstat represented 34% of the total plasma radioactivity, with 8 metabolites, each accounting for between 1.8 and 7.8% of the total radioactivity. Structures for 5 of the 8 metabolites are known. It is unknown whether any metabolites are pharmacologically active.
+Berotralstat is metabolised by CYP2D6 and by CYP3A4 with low turnover in vitro. After a single oral radiolabelled berotralstat 300 mg dose, berotralstat represented 34% of the total plasma radioactivity, with 8 metabolites, each accounting for between 1.8 and 7.8% of the total radioactivity. Structures for 5 of the 8 metabolites are known. It is unknown whether any metabolites are pharmacologically active.
 
 Berotralstat 150 mg once daily is a moderate inhibitor of CYP2D6 and CYP3A4, and a weak inhibitor of CYP2C9. Berotralstat is not an inhibitor of CYP2C19.
 
@@ -833,7 +853,7 @@ Berotralstat at double the recommended dose is a weak inhibitor of P-gp and is n
 
 After a single dose of 150 mg, the median half-life of berotralstat was approximately 93 hours (range: 39 to 152 hours).
 
-After a single oral radiolabelled  berotralstat 300 mg dose, approximately 9% was excreted in urine (3.4% unchanged; range 1.8 to 4.7%) and 79% was excreted in faeces. Additional analyses indicated approximately 50% of the fraction recovered in the faeces was unchanged berotralstat.
+After a single oral radiolabelled berotralstat 300 mg dose, approximately 9% was excreted in urine (3.4% unchanged; range 1.8 to 4.7%) and 79% was excreted in faeces. Additional analyses indicated approximately 50% of the fraction recovered in the faeces was unchanged berotralstat.
 
 ## Special populations
 
@@ -877,9 +897,9 @@ Berotralstat crossed the placental barrier in rats and rabbits. An embryo-foetal
 
 Berotralstat was detected in the plasma of rat pups on lactation day 14 at approximately 5% of the maternal plasma concentration.
 
-Berotralstat had no effects on mating or fertility in male and female rats at a dose 2.9 times the clinical 150 mg berotralstat dose on a mg/m 2  basis.
+Berotralstat had no effects on mating or fertility in male and female rats at a dose 2.9 times the clinical 150 mg berotralstat dose on a mg/m 2 basis.
 
-There were no new findings observed in the definitive juvenile toxicology study in male and female rats. No adverse effects were observed at doses up to 50 mg/kg/day with AUC 0-24 exposures 5.8 to 6.5 times the recommended paediatric therapeutic exposures.
+There were no new findings observed in the definitive juvenile toxicology study in male and female rats. No adverse effects were observed at doses up to 50 mg/kg/day with AUC0-24 exposures 5.8 to 6.5 times the recommended paediatric therapeutic exposures.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -893,7 +913,9 @@ Crospovidone (type A) Magnesium stearate Silica, colloidal anhydrous Starch, pre
 
 ## Granule coating
 
-Butylated methacrylate copolymer, basic (E 1205) Sodium laurilsulphate Silica, colloidal anhydrous Stearic acid Talc (E 553b) Titanium dioxide (E 171)
+Butylated methacrylate copolymer, basic (E 1205) Sodium laurilsulphate Silica, colloidal anhydrous Stearic acid Talc (E 553b)
+
+Titanium dioxide (E 171)
 
 ## 6.2 Incompatibilities
 
@@ -919,31 +941,23 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
+Neopharmed Gentili Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1544/003
-
-EU/1/21/1544/004
-
-EU/1/21/1544/005
+EU/1/21/1544/003 EU/1/21/1544/004 EU/1/21/1544/005
 
 EU/1/21/1544/006
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL  OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 30 April 2021
-
-Date of latest renewal: 12 February 2026
+Date of first authorisation: 30 April 2021 Date of latest renewal: 12 February 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-28
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1002,7 +1016,9 @@ An updated RMP should be submitted:
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Orladeyo 150 mg hard capsules berotralstat
+Orladeyo 150 mg hard capsules
+
+berotralstat
 
 | 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
 |------|------------------------------------|
@@ -1044,20 +1060,17 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
+Neopharmed Gentili Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77
+
+Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1106,7 +1119,7 @@ Orladeyo 150 mg capsules berotralstat
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-BioCryst Ireland Limited
+Neopharmed Gentili Ireland Limited
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1121,7 +1134,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-35
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1157,7 +1170,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1169,23 +1182,20 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
+Neopharmed Gentili Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/21/1544/003
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+## 15. INSTRUCTIONS ON USE
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1204,11 +1214,9 @@ PC SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE INTERMEDIATE PACKAGING
 
-WALLET FOR SACHET
+## WALLET FOR SACHET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1218,7 +1226,7 @@ Orladeyo 72 mg film-coated granules in sachet berotralstat
 
 Each sachet contains 72 mg berotralstat (as dihydrochloride)
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1228,18 +1236,22 @@ film-coated granules in sachet
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
 8. EXPIRY DATE
 
 EXP
 
-9. SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
@@ -1249,7 +1261,7 @@ EXP
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
+Neopharmed Gentili Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1302,9 +1314,11 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON FOR SACHET
+## OUTER CARTON FOR SACHET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1326,7 +1340,88 @@ film-coated granules in sachet
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Neopharmed Gentili Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1544/004
+
+## 13. BATCH NUMBER
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Orladeyo 96 mg granules
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+PC SN
+
+NN
+
+## PARTICULARS TO APPEAR ON THE INTERMEDIATE PACKAGING
+
+## WALLET FOR SACHET
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Orladeyo 96 mg film-coated granules in sachet berotralstat
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each sachet contains 96 mg berotralstat (as dihydrochloride)
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+film-coated granules in sachet
+
+7 sachets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1346,80 +1441,10 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/21/1544/004
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Orladeyo 96 mg granules
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN
-
-NN
-
-## PARTICULARS TO APPEAR ON THE INTERMEDIATE PACKAGING
-
-WALLET FOR SACHET
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Orladeyo 96 mg film-coated granules in sachet berotralstat
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each sachet contains 96 mg berotralstat (as dihydrochloride)
-
-3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-film-coated granules in sachet
-
-7 sachets
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use. Oral use
-
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
-8. EXPIRY DATE
-
-EXP
-
-9. SPECIAL STORAGE CONDITIONS
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
+Neopharmed Gentili Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1476,7 +1501,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON FOR SACHET
+## OUTER CARTON FOR SACHET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1508,7 +1533,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1516,80 +1541,12 @@ EXP
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/21/1544/005
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Orladeyo 108 mg granules
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN
-
-<div style=\"page-break-after: always\"></div>
-
-NN
-
-## PARTICULARS TO APPEAR ON THE INTERMEDIATE PACKAGING
-
-WALLET FOR SACHET
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Orladeyo 108 mg film-coated granules in sachet berotralstat
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each sachet contains 108 mg berotralstat (as dihydrochloride)
-
-3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-film-coated granules in sachet
-
-7 sachets
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use. Oral use
-
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
-8. EXPIRY DATE
-
-EXP
-
-9. SPECIAL STORAGE CONDITIONS
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
 <div style=\"page-break-after: always\"></div>
 
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
+Neopharmed Gentili Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1610,13 +1567,92 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
+Orladeyo 108 mg granules
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+PC SN
+
+NN
+
+## PARTICULARS TO APPEAR ON THE INTERMEDIATE PACKAGING
+
+WALLET FOR SACHET
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Orladeyo 108 mg film-coated granules in sachet berotralstat
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each sachet contains 108 mg berotralstat (as dihydrochloride)
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+film-coated granules in sachet
+
+7 sachets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
+
+Neopharmed Gentili Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/21/1544/005
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1652,7 +1688,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON FOR SACHET
+## OUTER CARTON FOR SACHET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1674,7 +1710,86 @@ film-coated granules in sachet
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Neopharmed Gentili Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1544/006
+
+## 13. BATCH NUMBER
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Orladeyo 132 mg granules
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+PC SN
+
+NN
+
+## PARTICULARS TO APPEAR ON THE INTERMEDIATE PACKAGING
+
+## WALLET FOR SACHET
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Orladeyo 132 mg film-coated granules in sachet berotralstat
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each sachet contains 132 mg berotralstat (as dihydrochloride)
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+film-coated granules in sachet
+
+7 sachets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1690,74 +1805,6 @@ EXP
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/21/1544/006
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Orladeyo 132 mg granules
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN
-
-<div style=\"page-break-after: always\"></div>
-
-NN
-
-## PARTICULARS TO APPEAR ON THE INTERMEDIATE PACKAGING
-
-WALLET FOR SACHET
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Orladeyo 132 mg film-coated granules in sachet berotralstat
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each sachet contains 132 mg berotralstat (as dihydrochloride)
-
-3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-film-coated granules in sachet
-
-7 sachets
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use. Oral use
-
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
-8. EXPIRY DATE
-
-EXP
-
-9. SPECIAL STORAGE CONDITIONS
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
 <div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
@@ -1765,7 +1812,7 @@ EXP
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
+Neopharmed Gentili Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1945,7 +1992,7 @@ Do not take a double dose to make up for a forgotten capsule. Take a missed dose
 
 ## If you stop taking Orladeyo
 
-It is important to take this medicine on a regular basis and for as long as your doctor prescribes it . Do not stop taking it without approval from your doctor.
+It is important to take this medicine on a regular basis and for as long as your doctor prescribes it. Do not stop taking it without approval from your doctor.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -1955,7 +2002,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Side effects can occur with the following frequencies:
 
-Very common , may affect more than 1 in 10 people
+Very common, may affect more than 1 in 10 people
 
 - headache
 - stomach pain, including abdominal (belly) discomfort, abdominal tenderness
@@ -1964,7 +2011,7 @@ Very common , may affect more than 1 in 10 people
 
 ## · diarrhoea and frequent bowel movements
 
-## Common , may affect up to 1 in 10 people
+Common, may affect up to 1 in 10 people
 
 - vomiting
 - heartburn
@@ -1972,7 +2019,7 @@ Very common , may affect more than 1 in 10 people
 - blood tests showing increased levels of liver enzymes called ALT and AST
 - rash
 
-Not known , frequency cannot be estimated from the available data
+Not known, frequency cannot be estimated from the available data
 
 - nausea (feeling sick)
 
@@ -2002,7 +2049,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Orladeyo looks like and contents of the pack
 
-Orladeyo hard capsules (capsule) have a white opaque body imprinted with '150' and light blue opaque cap imprinted with 'BCX' (19.4 mm × 6.9 mm). They are packed in plastic/aluminium blisters in a carton with 7 capsules per blister.
+Orladeyo hard capsules (capsule) have a white opaque body imprinted with \"150\" and light blue opaque cap imprinted with \"BCX\" (19.4 mm × 6.9 mm). They are packed in plastic/aluminium blisters in a carton with 7 capsules per blister.
 
 Pack size: 28 or 98 hard capsules.
 
@@ -2012,7 +2059,7 @@ Not all pack sizes may be marketed.
 
 <div style=\"page-break-after: always\"></div>
 
-BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
+Neopharmed Gentili Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
 
 ## Manufacturer
 
@@ -2186,7 +2233,7 @@ Do not give your child a double dose to make up for a forgotten dose. Give the m
 
 ## If you stop giving your child Orladeyo
 
-It is important to take this medicine on a regular basis and for as long as your child's doctor prescribes it . Do not stop without approval from your child's doctor.
+It is important to take this medicine on a regular basis and for as long as your child's doctor prescribes it. Do not stop without approval from your child's doctor.
 
 If you have any further questions on the use of this medicine, ask your/your child's doctor or pharmacist.
 
@@ -2202,7 +2249,7 @@ Very common (may affect more than 1 in 10 people)
 - stomach pain, including abdominal (belly) discomfort, abdominal tenderness
 - diarrhoea and frequent bowel movements
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - vomiting
 - heartburn
@@ -2238,20 +2285,20 @@ The active substance is berotralstat.
 
 Orladeyo 72 mg film-coated granules in sachet Each sachet contains 72 mg berotralstat (as dihydrochloride).
 
-Orladeyo 96 mg film-coated granules in sachet
+Orladeyo 96 mg film-coated granules in sachet Each sachet contains 96 mg berotralstat (as dihydrochloride).
 
-Each sachet contains 96 mg berotralstat (as dihydrochloride).
+Orladeyo 108 mg film-coated granules in sachet
 
-Orladeyo 108 mg film-coated granules in sachet Each sachet contains 108 mg berotralstat (as dihydrochloride).
+Each sachet contains 108 mg berotralstat (as dihydrochloride).
 
-Orladeyo 132 mg film-coated granules in sachet
+## Orladeyo 132 mg film-coated granules in sachet
 
 Each sachet contains 132 mg berotralstat (as dihydrochloride).
 
-## The other ingredients are:
+The other ingredients are:
 
 - Granule core: starch, pregelatinised, crospovidone (type A), silica, colloidal anhydrous, magnesium stearate.
-- Granule coating: butylated methacrylate copolymer, basic (E 1205), sodium laurilsulphate, silica, colloidal anhydrous, stearic acid, talc (E 553b), titanium dioxide (E 171) (see section 2 'Orladeyo contains sodium').
+- Granule coating: butylated methacrylate copolymer, basic (E 1205), sodium laurilsulphate, silica, colloidal anhydrous, stearic acid, talc (E 553b), titanium dioxide (E 171) (see section 2 \"Orladeyo contains sodium\").
 
 ## What Orladeyo looks like and contents of the pack
 
@@ -2263,7 +2310,7 @@ Pack size of 28 sachets (each carton contains 4 wallets with 7 sachets each).
 
 ## Marketing Authorisation Holder
 
-BioCryst Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
+Neopharmed Gentili Ireland Limited Block 4, Harcourt Centre, Harcourt Road, DUBLIN 2, D02HW77 Ireland
 
 ## Manufacturer
 

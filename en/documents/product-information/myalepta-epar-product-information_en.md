@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-03 10:49:16
+document_datetime: 2026-10-06 13:41:07
 document_pages: 106
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/myalepta-epar-product-information_en.pdf
 document_name: myalepta-epar-product-information_en.pdf
 version: success
-processing_time: 32.0628042
-conversion_datetime: 2025-12-14 16:22:16.12437
+processing_time: 49.9418296
+conversion_datetime: 2026-10-09 18:39:06.367136
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,9 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Myalepta 3 mg powder for solution for injection. Myalepta 5.8 mg powder for solution for injection. Myalepta 11.3 mg powder for solution for injection.
+Myalepta 3 mg powder for solution for injection.
+
+Myalepta 5.8 mg powder for solution for injection. Myalepta 11.3 mg powder for solution for injection.
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -105,11 +107,9 @@ If clinical response is not seen after 6 months of treatment the physician shoul
 
 Metreleptin dose increases in adults and children based on incomplete clinical response can be considered after a minimum of 6 months of treatment, allowing for lowering concomitant insulin, oral anti-diabetic and/or lipid lowering medication.
 
-Reductions in HbA1c and TG may not be seen in children as metabolic abnormalities may not be present at the start of treatment. It is anticipated that most children will require increasing per kg dose, especially as they reach puberty. Increasing abnormalities of TG and HbA1c may be seen which may
+Reductions in HbA1c and TG may not be seen in children as metabolic abnormalities may not be present at the start of treatment. It is anticipated that most children will require increasing per kg dose, especially as they reach puberty. Increasing abnormalities of TG and HbA1c may be seen which may require a dose increase. Dose adjustments in children without metabolic abnormalities should primarily be made according to weight change.
 
 <div style=\"page-break-after: always\"></div>
-
-require a dose increase. Dose adjustments in children without metabolic abnormalities should primarily be made according to weight change.
 
 Dose increases should not be made more frequently than every 4 weeks. Dose decreases based on weight loss may be made weekly.
 
@@ -117,7 +117,7 @@ There is a risk of hypoglycaemia in patients treated with Myalepta who are on an
 
 ## Discontinuation in patients at risk for pancreatitis
 
-When discontinuing Myalepta in patients with risk factors for pancreatitis (e.g. history of pancreatitis, severe hypertriglyceridaemia), tapering of the dose over a two-week period is recommended in conjunction with a low-fat diet. During tapering, monitor triglyceride levels and consider initiating or adjusting the dose of lipid-lowering medicinal products as needed. Signs and/or symptoms consistent with pancreatitis should prompt an appropriate clinical evaluation (see section 4.4).
+When discontinuing Myalepta in patients with risk factors for pancreatitis (e.g. history of pancreatitis, severe hypertriglyceridaemia), tapering of the dose over a twoweek period is recommended in conjunction with a low fat diet. During tapering, monitor triglyceride levels and consider initiating or adjusting the dose of lipid lowering medicinal products as needed. Signs and/or symptoms consistent with pancreatitis should prompt an appropriate clinical evaluation (see section 4.4).
 
 ## Missed dose
 
@@ -147,11 +147,9 @@ Patients and/or carers should prepare and administer the first dose of the medic
 
 The injection should be administered at the same time every day. It can be administered any time of the day without regard to the timing of meals.
 
-The reconstituted solution should be injected into the abdomen, thigh or upper arm tissue. It is recommended that patients should use a different injection site each day when injecting in the same region. Doses exceeding 1 mL can be administered as two injections (the total daily dose divided
+The reconstituted solution should be injected into the abdomen, thigh or upper arm tissue. It is recommended that patients should use a different injection site each day when injecting in the same region. Doses exceeding 1 mL can be administered as two injections (the total daily dose divided equally) to minimise potential injection site discomfort due to injection volume. When dividing doses due to volume, doses can be administered one after the other at different injection sites.
 
 <div style=\"page-break-after: always\"></div>
-
-equally) to minimise potential injection site discomfort due to injection volume. When dividing doses due to volume, doses can be administered one after the other at different injection sites.
 
 When small doses/volumes are prescribed (e.g. in children), the vials will remain almost completely filled with product after withdrawal of the required dose. Remaining reconstituted product should be discarded after use.
 
@@ -159,30 +157,30 @@ For instructions on reconstitution of the medicinal product before administratio
 
 Table 2 Starting dose calculation
 
-| Weight and gender                             | Starting dose calculation                                                                                                                                                                                                                                                                                                                      |
-|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| For males and females ≤ 40 kg once daily dose | Weight (kg) x 0.06 mg/kg = Individual patient daily starting dose inmg Weight (kg) x 0.012 mL/kg = Individual patient daily starting volume to inject inmL Example: 25 kg patient is initiated at 0.06 mg/kg of Myalepta. The individual patient dose = 1.5mg 25 kg patient is initiated at 0.012 mL/kg = 0.3 mLof Myalepta solution to inject |
-| For males > 40 kg once daily dose             | Individual patient once daily dose inmg = 2.5mg Amount to inject once daily dose = 0.5mL                                                                                                                                                                                                                                                       |
-| For females > 40 kg once daily dose           | Individual patient once daily dose inmg = 5mg Amount to inject once daily dose=1mL                                                                                                                                                                                                                                                             |
+| Weight and gender                             | Starting dose calculation                                                                                                                                                                                                                                                                                                                          |
+|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| For males and females ≤ 40 kg once daily dose | Weight (kg) x 0.06 mg/kg = Individual patient daily starting dose in mg Weight (kg) x 0.012 mL/kg = Individual patient daily starting volume to inject in mL Example: 25 kg patient is initiated at 0.06 mg/kg of Myalepta. The individual patient dose = 1.5 mg 25 kg patient is initiated at 0.012 mL/kg = 0.3 mL of Myalepta solution to inject |
+| For males > 40 kg once daily dose             | Individual patient once daily dose in mg = 2.5 mg Amount to inject once daily dose = 0.5 mL                                                                                                                                                                                                                                                        |
+| For females > 40 kg once daily dose           | Individual patient once daily dose in mg = 5 mg Amount to inject once daily dose = 1 mL                                                                                                                                                                                                                                                            |
 
-Table 3 Required syringe for Myalepta reconstitution with water for injection
+## Table 3 Required syringe for Myalepta reconstitution with water for injection
 
 | Syringe                                            | Needle gauge and length                            |
 |----------------------------------------------------|----------------------------------------------------|
 | Myalepta 3 mg powder for solution for injection    | Myalepta 3 mg powder for solution for injection    |
-| 1.0 mL                                             | 21 gauge 40 mmneedle                               |
+| 1.0 mL                                             | 21 gauge 40 mm needle                              |
 | Myalepta 5.8 mg powder for solution for injection  | Myalepta 5.8 mg powder for solution for injection  |
-| 3.0 mL                                             | 21 gauge 40 mmneedle                               |
+| 3.0 mL                                             | 21 gauge 40 mm needle                              |
 | Myalepta 11.3 mg powder for solution for injection | Myalepta 11.3 mg powder for solution for injection |
-| 3.0 mL                                             | 21 gauge 40 mmneedle                               |
+| 3.0 mL                                             | 21 gauge 40 mm needle                              |
 
 ## Table 4 Required administration syringe per Myalepta dose
 
 | Syringe                     | Needle gauge and length   | Myalepta dose range to be administered                  |
 |-----------------------------|---------------------------|---------------------------------------------------------|
-| 0.3 mL U100 Insulin Syringe | 31 gauge 8 mmneedle       | For doses of: ≤ 1.5 mg/≤ 0.3 mL volume daily            |
-| 1.0 mL                      | 30 gauge 13 mmneedle      | For doses of: > 1.5 mg - 5 mg/0.3 - 1.0 mL volume daily |
-| 3.0 mL                      | 30 gauge 13 mmneedle      | For doses of: > 5 mg - 10 mg/> 1.0 mL volume daily      |
+| 0.3 mL U100 Insulin Syringe | 31 gauge 8 mm needle      | For doses of: ≤ 1.5 mg/≤ 0.3 mL volume daily            |
+| 1.0 mL                      | 30 gauge 13 mm needle     | For doses of: > 1.5 mg - 5 mg/0.3 - 1.0 mL volume daily |
+| 3.0 mL                      | 30 gauge 13 mm needle     | For doses of: > 5 mg - 10 mg/> 1.0 mL volume daily      |
 
 For patients weighing less than 40 kg, actual body weight at initiation of therapy should be used to calculate dose; of these, in patients weighing less than or equal to 25 kg, refer to Table 5 for the starting dose.
 
@@ -190,25 +188,25 @@ For patients weighing less than 40 kg, actual body weight at initiation of thera
 
 Table 5 Conversion table for the 0.3 mL U100 insulin syringe
 
-| Weight of child   | Dose of Myalepta   | Actual amount of solution*   | Rounded amount of solution   |   'Unit' measurement volume in 0.3mL syringe to inject |
-|-------------------|--------------------|------------------------------|------------------------------|--------------------------------------------------------|
-| 9 kg              | 0.54 mg            | 0.108 mL                     | 0.10 mL                      |                                                     10 |
-| 10 kg             | 0.60 mg            | 0.120 mL                     | 0.12 mL                      |                                                     12 |
-| 11 kg             | 0.66 mg            | 0.132 mL                     | 0.13 mL                      |                                                     13 |
-| 12 kg             | 0.72 mg            | 0.144 mL                     | 0.14 mL                      |                                                     14 |
-| 13 kg             | 0.78 mg            | 0.156 mL                     | 0.15 mL                      |                                                     15 |
-| 14 kg             | 0.84 mg            | 0.168 mL                     | 0.16 mL                      |                                                     16 |
-| 15 kg             | 0.90 mg            | 0.180 mL                     | 0.18 mL                      |                                                     18 |
-| 16 kg             | 0.96 mg            | 0.192 mL                     | 0.19 mL                      |                                                     19 |
-| 17 kg             | 1.02 mg            | 0.204 mL                     | 0.20 mL                      |                                                     20 |
-| 18 kg             | 1.08 mg            | 0.216 mL                     | 0.21 mL                      |                                                     21 |
-| 19 kg             | 1.14 mg            | 0.228 mL                     | 0.22 mL                      |                                                     22 |
-| 20 kg             | 1.20 mg            | 0.240 mL                     | 0.24 mL                      |                                                     24 |
-| 21 kg             | 1.26 mg            | 0.252 mL                     | 0.25 mL                      |                                                     25 |
-| 22 kg             | 1.32 mg            | 0.264 mL                     | 0.26 mL                      |                                                     26 |
-| 23 kg             | 1.38 mg            | 0.276 mL                     | 0.27 mL                      |                                                     27 |
-| 24 kg             | 1.44 mg            | 0.288 mL                     | 0.28 mL                      |                                                     28 |
-| 25 kg             | 1.50 mg            | 0.300 mL                     | 0.30 mL                      |                                                     30 |
+| Weight of child   | Dose of Myalepta   | Actual amount of solution*   | Rounded amount of solution   |   'Unit' measurement volume in 0.3 mL syringe to inject |
+|-------------------|--------------------|------------------------------|------------------------------|---------------------------------------------------------|
+| 9 kg              | 0.54 mg            | 0.108 mL                     | 0.10 mL                      |                                                      10 |
+| 10 kg             | 0.60 mg            | 0.120 mL                     | 0.12 mL                      |                                                      12 |
+| 11 kg             | 0.66 mg            | 0.132 mL                     | 0.13 mL                      |                                                      13 |
+| 12 kg             | 0.72 mg            | 0.144 mL                     | 0.14 mL                      |                                                      14 |
+| 13 kg             | 0.78 mg            | 0.156 mL                     | 0.15 mL                      |                                                      15 |
+| 14 kg             | 0.84 mg            | 0.168 mL                     | 0.16 mL                      |                                                      16 |
+| 15 kg             | 0.90 mg            | 0.180 mL                     | 0.18 mL                      |                                                      18 |
+| 16 kg             | 0.96 mg            | 0.192 mL                     | 0.19 mL                      |                                                      19 |
+| 17 kg             | 1.02 mg            | 0.204 mL                     | 0.20 mL                      |                                                      20 |
+| 18 kg             | 1.08 mg            | 0.216 mL                     | 0.21 mL                      |                                                      21 |
+| 19 kg             | 1.14 mg            | 0.228 mL                     | 0.22 mL                      |                                                      22 |
+| 20 kg             | 1.20 mg            | 0.240 mL                     | 0.24 mL                      |                                                      24 |
+| 21 kg             | 1.26 mg            | 0.252 mL                     | 0.25 mL                      |                                                      25 |
+| 22 kg             | 1.32 mg            | 0.264 mL                     | 0.26 mL                      |                                                      26 |
+| 23 kg             | 1.38 mg            | 0.276 mL                     | 0.27 mL                      |                                                      27 |
+| 24 kg             | 1.44 mg            | 0.288 mL                     | 0.28 mL                      |                                                      28 |
+| 25 kg             | 1.50 mg            | 0.300 mL                     | 0.30 mL                      |                                                      30 |
 
 *Note: Initial and dose increments should be rounded down to the nearest 0.01 mL
 
@@ -216,7 +214,7 @@ The once daily dose of Myalepta can be increased by increments as shown in Table
 
 <div style=\"page-break-after: always\"></div>
 
-Table 6 Dose adjustment calculation
+## Table 6 Dose adjustment calculation
 
 | Adjust dose as follows (if necessary)   | Action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -279,7 +277,7 @@ Unplanned pregnancies may occur due to restoration of luteinizing hormone (LH) r
 
 ## Excipients
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially \"sodium free\".
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -301,7 +299,7 @@ Myalepta is not recommended during pregnancy and in women of childbearing potent
 
 It is unknown whether metreleptin or its metabolites are excreted in human milk. Endogenous leptin is present in human milk.
 
-A risk to newborns/infants cannot be excluded.
+## A risk to newborns/infants cannot be excluded.
 
 A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from Myalepta therapy, taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
@@ -325,7 +323,7 @@ A total of 148 patients with generalised and partial LD received metreleptin dur
 
 Safety and efficacy data were analysed in a subgroup of partial LD patients with the following characteristics: 12 years of age and above with leptin levels &lt; 12 ng/mL, TG ≥ 5.65 mmol/L and/or HbA1c ≥ 8%.
 
-The adverse reactions reported in generalised LD and this subgroup of partial LD patients are listed in Table 7. Additionally, adverse reactions from post-marketing sources are also presented. The most frequently occurring adverse reactions from the clinical studies were hypoglycaemia ( 14%) and weight decreased (17%).
+The adverse reactions reported in generalised LD and this subgroup of partial LD patients are listed in Table 7. Additionally, adverse reactions from post-marketing sources are also presented. The most frequently occurring adverse reactions from the clinical studies were hypoglycaemia (14%) and weight decreased (17%).
 
 ## Tabulated list of adverse reactions
 
@@ -372,11 +370,9 @@ Three cases of T-cell lymphoma have been reported while using metreleptin in cli
 
 ## Immunogenicity
 
-In clinical trials (Studies NIH 991265/20010769 and FHA101), the rate of ADAs for generalised LD and the partial LD patients studied and with data available were 88% (65 out of 74 patients). A blocking activity of the reaction between metreleptin and a recombinant leptin receptor has been observed in vitro in the blood of the majority of an extended set of patients (98 out of 102 patients or 96%) but the impact on the efficacy of metreleptin could not be clearly established. Serious and/or severe infections that were temporally associated with &gt; 80% blocking activity against metreleptin occurred in 5 generalised LD patients. These events included 1 episode in 1 patient of serious and severe appendicitis, 2 episodes in patients of serious and severe pneumonia, a single episode of serious and severe sepsis and non-serious severe gingivitis in 1 patient and 6 episodes of serious and severe sepsis or bacteraemia and 1 episode of non-serious severe ear infection in 1 patient. One serious and severe infection of appendicitis was temporally associated with blocking activity against metreleptin in a patient with partial LD who was not in the subgroup of partial LD patients. Though temporally associated, it is not possible to unequivocally confirm or deny a direct relation to
+In clinical trials (Studies NIH 991265/20010769 and FHA101), the rate of ADAs for generalised LD and the partial LD patients studied and with data available were 88% (65 out of 74 patients). A blocking activity of the reaction between metreleptin and a recombinant leptin receptor has been observed in vitro in the blood of the majority of an extended set of patients (98 out of 102 patients or 96%) but the impact on the efficacy of metreleptin could not be clearly established. Serious and/or severe infections that were temporally associated with &gt; 80% blocking activity against metreleptin occurred in 5 generalised LD patients. These events included 1 episode in 1 patient of serious and severe appendicitis, 2 episodes in patients of serious and severe pneumonia, a single episode of serious and severe sepsis and non-serious severe gingivitis in 1 patient and 6 episodes of serious and severe sepsis or bacteraemia and 1 episode of non-serious severe ear infection in 1 patient. One serious and severe infection of appendicitis was temporally associated with blocking activity against metreleptin in a patient with partial LD who was not in the subgroup of partial LD patients. Though temporally associated, it is not possible to unequivocally confirm or deny a direct relation to metreleptin treatment based on the currently available body of evidence. LD patients with a blocking activity against metreleptin and concurrent infections responded to standard of care treatment (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-metreleptin treatment based on the currently available body of evidence. LD patients with a blocking activity against metreleptin and concurrent infections responded to standard of care treatment (see section 4.4).
 
 ## Injection site reactions
 
@@ -443,12 +439,12 @@ The median duration of metreleptin treatment was 4.2 years (range: 3.4 months-13
 
 Table 8 Primary outcome results in an open-label, single-arm study (NIH 991265/20010769) in evaluable patients with generalised LD treated with metreleptin at 12 months
 
-| Parameter            | n   | Baseline    | Change from baseline at month 12   |
+| Parameter            |   n | Baseline    | Change from baseline at month 12   |
 |----------------------|-----|-------------|------------------------------------|
-| HbA1c (%)            | 59  |             |                                    |
+| HbA1c (%)            |  59 |             |                                    |
 | Mean (SD)            |     | 8.6 (2.33)  | -2.2 (2.15)                        |
 | P                    |     |             | < 0.001                            |
-| Fasting TGs (mmol/L) | 58  |             |                                    |
+| Fasting TGs (mmol/L) |  58 |             |                                    |
 | Mean (SD)            |     | 14.7 (25.6) | -32.1% (71.28)                     |
 | P                    |     |             | 0.001                              |
 
@@ -470,12 +466,12 @@ The median duration of metreleptin treatment was 2.4 years (range: 6.7 months-14
 
 Table 9 Primary outcome results in study (NIH 991265/20010769) of evaluable patients in the partial LD subgroup treated with metreleptin at 12 months
 
-| Parameter                      | n   | Baseline     | Change from baseline at month 12   |
+| Parameter                      |   n | Baseline     | Change from baseline at month 12   |
 |--------------------------------|-----|--------------|------------------------------------|
-| HbA1c (%)                      | 27  |              |                                    |
+| HbA1c (%)                      |  27 |              |                                    |
 | Mean (SD)                      |     | 8.8 (1.91)   | -0.9 (1.23)                        |
 | P                              |     |              | < 0.001                            |
-| Fasting Triglycerides (mmol/L) | 27  |              |                                    |
+| Fasting Triglycerides (mmol/L) |  27 |              |                                    |
 | Mean (SD)                      |     | 15.7 (26.42) | -37.4% (30.81)                     |
 | P                              |     |              | < 0.001                            |
 
@@ -587,7 +583,7 @@ Type I glass vial (3 mL) with a chlorobutyl rubber stopper and an aluminium seal
 
 Type I glass vial (3 mL) with a chlorobutyl rubber stopper and an aluminium seal/blue plastic flip-off cap.
 
-## Myalepta 11.3 mg powder for solution for injection
+Myalepta 11.3 mg powder for solution for injection
 
 Type I glass vial (5 mL) with a chlorobutyl rubber stopper and an aluminium seal/white plastic flip-off cap.
 
@@ -617,12 +613,12 @@ Using a 3 mL syringe with a 21-gauge or smaller diameter needle, withdraw 1.1 mL
 
 <div style=\"page-break-after: always\"></div>
 
-## Myalepta 11.3 mg powder for solution for injection
+Myalepta 11.3 mg powder for solution for injection
 
 Using a 3 mL syringe with a 21-gauge or smaller diameter needle, withdraw 2.2 mL of water for injection. Do not reconstitute with other diluents.
 
 4. Insert the needle into the vial containing the lyophilized powder, through the centre of the stopper and direct the stream of solvent to the wall of the vial to avoid excessive foaming.
-5. Remove the needle and syringe from the vial and gently swirl the contents to reconstitute, until the liquid is clear. Do not shake or vigorously agitate . The reconstituted solution will take less than 5 minutes to become clear. When properly mixed, the Myalepta reconstituted solution should be clear, colourless, and free of clumps or dry powder, bubbles or foam. Do not use the solution if discoloured or cloudy, or if particulate matter remains.
+5. Remove the needle and syringe from the vial and gently swirl the contents to reconstitute, until the liquid is clear. Do not shake or vigorously agitate. The reconstituted solution will take less than 5 minutes to become clear. When properly mixed, the Myalepta reconstituted solution should be clear, colourless, and free of clumps or dry powder, bubbles or foam. Do not use the solution if discoloured or cloudy, or if particulate matter remains.
 6. After reconstitution, each mL contains 5 mg of metreleptin.
 7. For instructions on administration, see section 4.2.
 
@@ -734,35 +730,35 @@ The Guide/training material for healthcare professionals shall contain the follo
 - o The requirement to perform regular follow-ups with the patient/carer to ensure continued correct and compliant Myalepta reconstitution and treatment.
 - o Hypersensitivity has been reported with Myalepta use including anaphylaxis, urticaria and generalised rash. If an anaphylactic reaction or other serious allergic reaction occurs, administration of Myalepta should be permanently discontinued immediately and appropriate therapy initiated.
 - o Non-compliance with or abrupt withdrawal of Myalepta may result in worsening of hypertriglyceridaemia and associated pancreatitis:
-- -Risk factors include patients with a history of pancreatitis or severe hypertriglyceridaemia.
-- -Tapering the dose over a two-week period is recommended in conjunction with a low fat diet.
-- -Patients should be monitored during tapering. Initiating or adjusting lipid lowering medications may be required.
-- -Signs and/or symptoms consistent with pancreatitis should prompt an appropriate clinical evaluation.
+- Risk factors include patients with a history of pancreatitis or severe hypertriglyceridaemia.
+- Tapering the dose over a two-week period is recommended in conjunction with a low fat diet.
+- Patients should be monitored during tapering. Initiating or adjusting lipid lowering medications may be required.
+- Signs and/or symptoms consistent with pancreatitis should prompt an appropriate clinical evaluation.
 - o Hypoglycaemia with concomitant use of insulin and other antidiabetics may occur:
-- -Large dose reductions of 50% or more of baseline insulin requirements may be needed in the first 2 weeks of Myalepta treatment. Once insulin requirements have stabilised, dose adjustments of other anti-diabetics may also be needed in some patients.
-- -Monitoring of blood glucose in patients on concomitant insulin therapy, especially those on high doses, or insulin secretagogues and combination treatment is warranted. Patients and carers should be advised to be aware of the signs and symptoms of hypoglycaemia.
-- -In case of hypoglycaemic events of a non-severe nature, food intake management may be considered as an alternative to dose adjustment of anti-diabetics.
-- -Rotation of injection sites is recommended in patients co administering insulin (or other subcutaneous medicinal products) and Myalepta.
+- Large dose reductions of 50% or more of baseline insulin requirements may be needed in the first 2 weeks of Myalepta treatment. Once insulin requirements have stabilised, dose adjustments of other anti-diabetics may also be needed in some patients.
+- Monitoring of blood glucose in patients on concomitant insulin therapy, especially those on high doses, or insulin secretagogues and combination treatment is warranted. Patients and carers should be advised to be aware of the signs and symptoms of hypoglycaemia.
+- In case of hypoglycaemic events of a non-severe nature, food intake management may be considered as an alternative to dose adjustment of anti-diabetics.
+- Rotation of injection sites is recommended in patients co administering insulin (or other subcutaneous medicinal products) and Myalepta.
 - o Ways to prevent the occurrence of medication errors
-- -Myalepta is administered by subcutaneous injection and proper technique should be used to avoid intramuscular injection in patients with minimal subcutaneous tissue.
-- -HCPs should provide training to patients on the correct technique.
+- Myalepta is administered by subcutaneous injection and proper technique should be used to avoid intramuscular injection in patients with minimal subcutaneous tissue.
+- HCPs should provide training to patients on the correct technique.
 
 <div style=\"page-break-after: always\"></div>
 
-- -Patients and/or caregivers should prepare and administer the first dose under the supervision of a qualified HCP.
-- -Detailed instructions for use.
-- -Guidance in the educational materials on:
+- Patients and/or caregivers should prepare and administer the first dose under the supervision of a qualified HCP.
+- Detailed instructions for use.
+- Guidance in the educational materials on:
 - The size of syringes and needles to prescribe
 - Prescribing the dose in both mg and mL and, where a 0.3 mL U100 insulin syringe is used, informing patients on the dose in \"units\" on the syringe to inject
 - The prescribing of ampoule/vial sizes volumes of water for injection in appropriate volumes to reduce the risk of re-use
 
 Pharmacists will be guided in the educational materials on the ancillary items that need to be dispensed to patients including appropriate sized reconstitution and administration syringes and needles, appropriate sized vials/ampoules of water for injection, alcohol swabs and a sharps bin plus how to access the reconstitution and administration kits provided with the medicinal product.
 
-- -Access to further materials, including training videos in multiple languages that will demonstrate each step to in preparing and administering Myalepta via a website.
+- Access to further materials, including training videos in multiple languages that will demonstrate each step to in preparing and administering Myalepta via a website.
 - o T-cell lymphoma
-- -Acquired LDs are associated with autoimmune disorders. Autoimmune disorders are associated with an increased risk of malignancies including lymphomas.
-- -Lymphoproliferative disorders, including lymphoma have been reported in patients with acquired generalised LD not treated with Myalepta. Cases of T-cell lymphoma have been reported in clinical studies in patients taking Myalepta. A causal relationship between lymphoma and Myalepta has not been established.
-- -The benefits and risks of Myalepta should be carefully considered in patients with acquired LD and/or those with significant haematologic abnormalities (including leukopenia, neutropenia, bone marrow abnormalities, lymphoma and/or lymphadenopathy). An association between the development of Neutralising Antibodies (NAbs) and serious and severe infections cannot be excluded and the continuation of Myalepta should be at the discretion of the prescriber.
+- Acquired LDs are associated with autoimmune disorders. Autoimmune disorders are associated with an increased risk of malignancies including lymphomas.
+- Lymphoproliferative disorders, including lymphoma have been reported in patients with acquired generalised LD not treated with Myalepta. Cases of T-cell lymphoma have been reported in clinical studies in patients taking Myalepta. A causal relationship between lymphoma and Myalepta has not been established.
+- The benefits and risks of Myalepta should be carefully considered in patients with acquired LD and/or those with significant haematologic abnormalities (including leukopenia, neutropenia, bone marrow abnormalities, lymphoma and/or lymphadenopathy). An association between the development of Neutralising Antibodies (NAbs) and serious and severe infections cannot be excluded and the continuation of Myalepta should be at the discretion of the prescriber.
 - o Risk to patients who have or have had autoimmune disease and may have worsening of their symptoms with Myalepta.
 - o Myalepta may increase fertility, due to effects on LH and thus the chances of unplanned pregnancy. Women of childbearing potential should be advised that Myalepta may increase fertility and should be encouraged to use contraception.
 - o Neutralising antibodies may develop on Myalepta therapy. An association between the development of neutralising antidrug antibodies and serious and severe infections cannot be excluded, and, continuation of Myalepta should be at the discretion of the prescriber. Consideration should also be given by the prescriber to have patients tested for the presence of neutralising antibodies.
@@ -784,10 +780,10 @@ The Guide/training material for patients/carers shall contain the following key 
 - o The need of compliance with treatment due to the risk of pancreatitis when medication is abruptly stopped. The importance of tapering the dose of Myalepta over two weeks if it is to be discontinued.
 - o Hypoglycaemia with concomitant use of insulin and other antidiabetics may occur.
 - o The risk of medication error:
-- -Responsibility of the prescribing physician to provide appropriate training to the patient/carer who will administer the treatment and that the first dose should be administered in the presence of a doctor or nurse
-- -The requirement to perform regular follow-ups with the patient/carer to ensure continued correct and compliant Myalepta reconstitution and treatment
-- -Guidance on the appropriate syringe size ancillary administration set to prescribe according to the dosage of Myalepta and how to read the syringe volumes
-- -How to access a video on line which shows step by step how to reconstitute, measure the correct dose and administer it subcutaneously
+- Responsibility of the prescribing physician to provide appropriate training to the patient/carer who will administer the treatment and that the first dose should be administered in the presence of a doctor or nurse
+- The requirement to perform regular follow-ups with the patient/carer to ensure continued correct and compliant Myalepta reconstitution and treatment
+- Guidance on the appropriate syringe size ancillary administration set to prescribe according to the dosage of Myalepta and how to read the syringe volumes
+- How to access a video on line which shows step by step how to reconstitute, measure the correct dose and administer it subcutaneously
 - o The association between LD and lymphoma and that the patient will be monitored during treatment.
 - o Serious and severe infections secondary to the appearance of NAb may occur.
 - o Risk to patients who have or have had autoimmune disease and may have worsening of their symptoms with Myalepta.
@@ -800,7 +796,7 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Due date                                                            |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | In order to further evaluate the long-term safety and effectiveness of Myalepta under normal conditions of clinical practice, the applicant should establish a registry including all patients with generalised or partial lipodystrophy treated with Myalepta according to an agreed protocol.                                                                                                                                                                                                                                                                                                                                                                          | Annual reports to be submitted as part of the annual re-assessment. |
-| In order to further investigate the effect of Myalepta on poor metabolic control once background therapy is maximized in patients with familial or acquired partial LD, the applicant should conduct an efficacy and safety study according to an agreed protocol.                                                                                                                                                                                                                                                                                                                                                                                                       | The final study report should be submitted by 2028.                 |
+| In order to further investigate the effect of Myalepta on poor metabolic control once background therapy is maximized in patients with familial or acquired partial LD, the applicant should conduct an efficacy and safety study according to an agreed protocol.                                                                                                                                                                                                                                                                                                                                                                                                       | The final study report should be submitted by 2029.                 |
 | In order to address the potential safety concerns and/or lack of efficacy related to immunogenicity of Myalepta, the applicant should submit an integrated analysis of immunogenicity measured according to validated assays. The Applicant should conduct this integrated analysis according to an agreed protocol including samples from all available historical samples from previous studies (NIH991265/20010769, FHA 101, NASH4 and obesity studies) with patients with GL/PL and samples obtained from patients that will be included in the efficacy and safety study in PL patients, the paediatric investigational plan (PIP) study and the patients registry. | The final study report should be submitted by 2028.                 |
 
 <div style=\"page-break-after: always\"></div>
@@ -879,7 +875,9 @@ Any unused product or waste material should be discarded according to the local 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
+Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma
+
+Italy
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -893,7 +891,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -913,17 +911,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL                                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Myalepta 3 mg powder for injection metreleptin Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -935,8 +933,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 5 mg/mL
 
@@ -1009,7 +1007,9 @@ Any unused product or waste material should be discarded according to the local 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
+Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma
+
+Italy
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1023,7 +1023,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1043,17 +1043,16 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL                                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Myalepta 5.8 mg powder for injection metreleptin Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1065,8 +1064,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 5 mg/mL
 
@@ -1139,7 +1138,9 @@ Any unused product or waste material should be discarded according to the local 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
+Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma
+
+Italy
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1153,7 +1154,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1173,14 +1174,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Myalepta 11.3 mg powder for injection metreleptin Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1192,8 +1196,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 5 mg/mL
 
@@ -1210,18 +1214,16 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Myalepta 3 mg powder for solution for injection
-
-## metreleptin
+## Myalepta 3 mg powder for solution for injection metreleptin
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1242,20 +1244,19 @@ Myalepta is used to treat the complications of not having enough leptin in patie
 
 It is used in adults, adolescents and children 2 years or over:
 
-- -who have generalised lipodystrophy (the whole of your body does not have enough fatty tissue)
+- who have generalised lipodystrophy (the whole of your body does not have enough fatty tissue)
 
 It is used, when other treatments have been ineffective, in adults, and adolescents 12 years or over:
 
-- -who have partial lipodystrophy which is inherited (also called congenital or familial lipodystrophy)
-- -or partial lipodystrophy has been caused by your body's response to something such as a viral illness (also called acquired lipodystrophy)
+- who have partial lipodystrophy which is inherited (also called congenital or familial lipodystrophy)
+- or partial lipodystrophy has been caused by your body's response to something such as a viral illness (also called acquired lipodystrophy)
 
 ## How Myalepta works
 
 Natural leptin is produced by fatty tissue and has many functions in the body including:
 
-- -controlling how hungry you feel and your energy levels
-- -helping the insulin in your body manage sugar levels.
-- Metreleptin works by copying the effects of leptin. This improves the ability of the body to control
+- controlling how hungry you feel and your energy levels
+- helping the insulin in your body manage sugar levels. Metreleptin works by copying the effects of leptin. This improves the ability of the body to control
 
 energy levels.
 
@@ -1265,23 +1266,25 @@ energy levels.
 
 ## Do not use Myalepta if
 
-- -you are allergic to metreleptin or any of the other ingredients of this medicine (listed in section 6).
+- you are allergic to metreleptin or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before using Myalepta if:
 
-- -you are pregnant
-- -you have ever had a type of cancer called lymphoma
-- -you have ever had problems with your blood (such as a low blood count)
-- -you have ever had inflammation of an organ called the pancreas ('pancreatitis')
-- -you have or ever have had problems with your immune system (autoimmune disease including autoimmune-related liver problems)
+- you are pregnant
+- you have ever had a type of cancer called lymphoma
+- you have ever had problems with your blood (such as a low blood count)
+- you have ever had inflammation of an organ called the pancreas ('pancreatitis')
+- you have or ever have had problems with your immune system (autoimmune disease including autoimmune-related liver problems)
 
 ## Lymphoma
 
 People with lipodystrophy can get a type of blood cancer called lymphoma, whether or not they are using Myalepta.
 
-However, you may be at higher risk of getting a lymphoma when using the medicinal product. Your doctor will decide if you should use Myalepta and will monitor you during treatment.
+However, you may be at higher risk of getting a lymphoma when using the medicinal product.
+
+Your doctor will decide if you should use Myalepta and will monitor you during treatment.
 
 ## Serious and severe infections
 
@@ -1295,7 +1298,7 @@ This is to prevent your blood sugar from getting too low ('hypo-glycaemia'). For
 
 ## High blood sugar and fat levels
 
-You may have higher amounts of sugar ('hyper-glycaemia') or fat ('hyper-triglyceridaemia') in your blood while on Myalepta, which may be a sign that this medicine is not working as well as it should. Signs of high blood sugar levels and high fat levels are listed in section 4 under 'Signs of high and low blood sugar' and 'Signs of high fat'.
+You may have higher amounts of sugar ('hyper-glycaemia') or fat ('hyper-triglyceridaemia') in your blood while on Myalepta, which may be a sign that this medicine is not working as well as it should. Signs of high blood sugar levels and high fat levels are listed in section 4 under \"Signs of high and low blood sugar\" and \"Signs of high fat\".
 
 If you notice any of the symptoms referred to above and described further in section 4 of this leaflet, or you are not sure, talk to your doctor straight away. Your doctor might need to change your treatment.
 
@@ -1307,15 +1310,15 @@ People who have or have had problems with their immune system (autoimmune diseas
 
 ## Allergic reactions
 
-While being treated with Myalepta, you may get an allergic reaction. Tell your doctor straight-away if you have any symptoms of an allergic reaction. Signs of an allergic reaction can be seen in section 4 under 'Allergic reactions'.
+While being treated with Myalepta, you may get an allergic reaction. Tell your doctor straight-away if you have any symptoms of an allergic reaction. Signs of an allergic reaction can be seen in section 4 under \"Allergic reactions\".
 
 ## Fertility
 
-Myalepta might increase fertility in women with lipodystrophy (see section 'Pregnancy, breast-feeding and fertility').
+Myalepta might increase fertility in women with lipodystrophy (see section \"Pregnancy, breast-feeding and fertility\").
 
 ## Myalepta contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially \"sodium free\".
 
 ## Children and adolescents
 
@@ -1363,26 +1366,26 @@ Your doctor may decide that you inject the medicine yourself. Your doctor, nurse
 
 ## How much to inject
 
-Your dose of Myalepta may change over time depending on how this medicine works for you. The Myalepta powder is dissolved by mixing it with water for injections to make the solution for injecting. Read the 'Instructions for Use'for how to make the solution before injecting.
+Your dose of Myalepta may change over time depending on how this medicine works for you. The Myalepta powder is dissolved by mixing it with water for injections to make the solution for injecting. Read the \"Instructions for Use\"for how to make the solution before injecting.
 
 Your doctor will have prescribed the correct dose for you, based on the following:
 
 - If you weigh 40 kg or less:
-- -A starting dose is 0.06 mg (0.012 mL of solution) for each kilogram of body weight.
+- A starting dose is 0.06 mg (0.012 mL of solution) for each kilogram of body weight.
 - If you are male and weigh more than 40 kg:
-- -A starting dose is 2.5 mg (0.5 mL of solution).
+- A starting dose is 2.5 mg (0.5 mL of solution).
 - If you are female and weigh more than 40 kg:
-- -A starting dose is 5 mg (1 mL of solution).
+- A starting dose is 5 mg (1 mL of solution).
 
 Your doctor or pharmacist will tell you how much of the solution to inject. If you are not sure how much of the solution to inject, talk to your doctor or pharmacist before injecting.
 
 - The syringe you need to use to inject this medicine depends on the dose prescribed for you.
 - o Your pharmacist will give you the correct syringe for injecting.
-- o See the 'Instructions for Use' to find out which syringe to use.
+- o See the \"Instructions for Use\" to find out which syringe to use.
 - To know how much medicine to inject (in mL), you divide your dose (in mg) by 5.
 - o For example, if you have been prescribed a 5 mg dose of Myalepta, 5 mg divided by 5 gives you 1 mL which is the amount you need to inject of the solution, using a 1 mL syringe.
 - If your dose is 1.50 mg (0.30 mL of solution) or less, you will need to use a 0.3 mL syringe.
-- o The 0.3 mL syringe will show the injection amount in 'Unit' instead of 'mL'. See the 'Instructions for Use' (section 7) for more information on reading and using the different syringes.
+- o The 0.3 mL syringe will show the injection amount in 'Unit' instead of 'mL'. See the \"Instructions for Use\" (section 7) for more information on reading and using the different syringes.
 - o To know how much solution to inject (in Units), divide your dose (in mg) by 5, and then times it by 100.
 
 If you need to inject 1 mL or more of Myalepta solution, your doctor might tell you to give the dose as two separate injections. This can help make the injections more comfortable.
@@ -1462,40 +1465,40 @@ Tell your doctor if you notice any of the following side effects.
 
 Very common (may affect more than 1 in 10 people):
 
-- -weight loss
+- weight loss
 
 Common (may affect up to 1 in 10 people):
 
-- -loss of interest in food
-- -headache
-- -hair loss
-- -unusually heavy or long menstrual bleeding
-- -feeling tired
-- -bruising, reddening, itching or hives where the injection is given
-- -your body producing antibodies to metreleptin which may increase the risk of developing serious or severe infections. You may notice you develop a high temperature, accompanied by increasing tiredness
+- loss of interest in food
+- headache
+- hair loss
+- unusually heavy or long menstrual bleeding
+- feeling tired
+- bruising, reddening, itching or hives where the injection is given
+- your body producing antibodies to metreleptin which may increase the risk of developing serious or severe infections. You may notice you develop a high temperature, accompanied by increasing tiredness
 
 Not known (frequency cannot be estimated from the available data):
 
-- -flu
-- -chest infection
-- -diabetes
-- -a higher than normal desire for food or excessive eating
-- -a faster than normal heart rate
-- -cough
-- -breathlessness
-- -muscle pain ('myalgia')
-- -joint pain
-- -swelling in your hands and feet
-- -increase in fatty tissue
-- -swelling or bleeding under the skin, where you injected
-- -pain at the injection site
-- -itchiness at the injection site
-- -a feeling of general discomfort, uneasiness or pain ('malaise')
-- -increased fat in the blood ('triglycerides') (see section 'Signs of high fat' below)
-- -an increase in 'HbA1c' in your blood, shown in tests
-- -weight gain
-- -swelling or bleeding under the skin ('haemorrhage')
-- -high blood sugar levels (see section 'Signs of high and low blood sugar below).
+- flu
+- chest infection
+- diabetes
+- a higher than normal desire for food or excessive eating
+- a faster than normal heart rate
+- cough
+- breathlessness
+- muscle pain ('myalgia')
+- joint pain
+- swelling in your hands and feet
+- increase in fatty tissue
+- swelling or bleeding under the skin, where you injected
+- pain at the injection site
+- itchiness at the injection site
+- a feeling of general discomfort, uneasiness or pain ('malaise')
+- increased fat in the blood ('triglycerides') (see section 'Signs of high fat' below)
+- an increase in 'HbA1c' in your blood, shown in tests
+- weight gain
+- swelling or bleeding under the skin ('haemorrhage')
+- high blood sugar levels (see section 'Signs of high and low blood sugar below).
 
 Tell your doctor if you notice any of the above side effects.
 
@@ -1554,12 +1557,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Myalepta contains
 
-- -
-- The active substance is metreleptin. Each vial contains 3 milligrams of metreleptin. After dissolving the vial contents in 0.6 millilitres
+- The active substance is metreleptin.
 
-of water for injections, each millilitre contains 5 milligrams of metreleptin.
+Each vial contains 3 milligrams of metreleptin. After dissolving the vial contents in 0.6 millilitres of water for injections, each millilitre contains 5 milligrams of metreleptin.
 
-- -The other ingredients are: glycine, sucrose, polysorbate 20, glutamic acid, sodium hydroxide (for pH adjustment).
+- The other ingredients are: glycine, sucrose, polysorbate 20, glutamic acid, sodium hydroxide (for pH adjustment).
 
 ## What Myalepta looks like and contents of the pack
 
@@ -1579,7 +1581,9 @@ Chiesi Farmaceutici S.p.A. Via Palermo 26/A 43122 Parma Italy
 
 ## Manufacturer
 
-Amryt Pharmaceuticals DAC 45 Mespil Road Dublin 4 Ireland
+Amryt Pharmaceuticals DAC 45 Mespil Road Dublin 4
+
+Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1615,9 +1619,7 @@ ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel.: +3
 
 ## Luxembourg/Luxemburg
 
-Chiesi sa/nv
-
-Tél/Tel: + 32 (0)2 788 42 00
+Chiesi sa/nv Tél/Tel: + 32 (0)2 788 42 00
 
 ## Magyarország
 
@@ -1627,7 +1629,9 @@ ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel.: +3
 
 Amryt Pharmaceuticals DAC
 
-Tel: +44 1604 549952 medinfo@amrytpharma.com
+Tel: +44 1604 549952
+
+medinfo@amrytpharma.com
 
 ## Nederland
 
@@ -1647,7 +1651,9 @@ Amryt Pharmaceuticals DAC Tηλ: +800 44 474447 Tηλ: +44 1604 549952 medinfo@a
 
 ## España
 
-Chiesi España, S.A.U. Tel: + 34 93 494 8000
+Chiesi España, S.A.U.
+
+Tel: + 34 93 494 8000
 
 ## France
 
@@ -1659,7 +1665,9 @@ ExCEEd Orphan Distribution d.o.o. Savska cesta 32, Zagreb, 100 00 Croatia Tel: +
 
 ## Ireland
 
-Chiesi Farmaceutici S.p.A. Tel: + 39 0521 2791
+Chiesi Farmaceutici S.p.A.
+
+Tel: + 39 0521 2791
 
 ## Ísland
 
@@ -1711,9 +1719,11 @@ Chiesi Pharma AB Tel: +46 8 753 35 20
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic
+## Latvija
 
-Tel.: +370 661 663 99
+ExCEEd Orphan s.r.o. Czech republic
+
+Bucharova 2657/12, Prague 5, 158 00 Tel.: +370 661 663 99
 
 pv.global@exceedorphan.com
 
@@ -1751,33 +1761,42 @@ Line up the top rim of the plunger with the line for the prescribed dose. An exa
 - Each 5 U is shown as a number with a big line. This is the same as 0.05 mL.
 - Each 1 U is shown as a smaller line between the big lines. This is the same as 0.01 mL.
 - Each 0.5 U is shown as a small line between two 1 U lines. This is the same as 0.005 mL.
-- To help with injecting Myalepta solution using the small 0.3 mL syringe, the last column in the table below shows the 'Unit' measurement on the syringe that relates to the different potential doses of the medicine prescribed by your doctor, nurse, or pharmacist.
+
+0.12·mL
+
+12U
+
+0.25·mL
+
+25U
 
 <!-- image -->
+
+- To help with injecting Myalepta solution using the small 0.3 mL syringe, the last column in the table below shows the 'Unit' measurement on the syringe that relates to the different potential doses of the medicine prescribed by your doctor, nurse, or pharmacist.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Converting dose from 'mL' to 'Units' when using the 0.3 mL syringe
 
-| Weight of child   | Dose of Myalepta   | Amount of mixed Myalepta solution   |   Amount of mixed Myalepta solution to inject in 'Unit' measurements on your 0.3 mLsyringe |
-|-------------------|--------------------|-------------------------------------|--------------------------------------------------------------------------------------------|
-| 9 kg              | 0.54 mg            | 0.10 mL                             |                                                                                         10 |
-| 10 kg             | 0.60 mg            | 0.12 mL                             |                                                                                         12 |
-| 11 kg             | 0.66 mg            | 0.13 mL                             |                                                                                         13 |
-| 12 kg             | 0.72 mg            | 0.14 mL                             |                                                                                         14 |
-| 13 kg             | 0.78 mg            | 0.15 mL                             |                                                                                         15 |
-| 14 kg             | 0.84 mg            | 0.16 mL                             |                                                                                         16 |
-| 15 kg             | 0.90 mg            | 0.18 mL                             |                                                                                         18 |
-| 16 kg             | 0.96 mg            | 0.19 mL                             |                                                                                         19 |
-| 17 kg             | 1.02 mg            | 0.20 mL                             |                                                                                         20 |
-| 18 kg             | 1.08 mg            | 0.21 mL                             |                                                                                         21 |
-| 19 kg             | 1.14 mg            | 0.22 mL                             |                                                                                         22 |
-| 20 kg             | 1.20 mg            | 0.24 mL                             |                                                                                         24 |
-| 21 kg             | 1.26 mg            | 0.25 mL                             |                                                                                         25 |
-| 22 kg             | 1.32 mg            | 0.26 mL                             |                                                                                         26 |
-| 23 kg             | 1.38 mg            | 0.27 mL                             |                                                                                         27 |
-| 24 kg             | 1.44 mg            | 0.28 mL                             |                                                                                         28 |
-| 25 kg             | 1.50 mg            | 0.30 mL                             |                                                                                         30 |
+| Weight of child   | Dose of Myalepta   | Amount of mixed Myalepta solution   |   Amount of mixed Myalepta solution to inject in 'Unit' measurements on your 0.3 mL syringe |
+|-------------------|--------------------|-------------------------------------|---------------------------------------------------------------------------------------------|
+| 9 kg              | 0.54 mg            | 0.10 mL                             |                                                                                          10 |
+| 10 kg             | 0.60 mg            | 0.12 mL                             |                                                                                          12 |
+| 11 kg             | 0.66 mg            | 0.13 mL                             |                                                                                          13 |
+| 12 kg             | 0.72 mg            | 0.14 mL                             |                                                                                          14 |
+| 13 kg             | 0.78 mg            | 0.15 mL                             |                                                                                          15 |
+| 14 kg             | 0.84 mg            | 0.16 mL                             |                                                                                          16 |
+| 15 kg             | 0.90 mg            | 0.18 mL                             |                                                                                          18 |
+| 16 kg             | 0.96 mg            | 0.19 mL                             |                                                                                          19 |
+| 17 kg             | 1.02 mg            | 0.20 mL                             |                                                                                          20 |
+| 18 kg             | 1.08 mg            | 0.21 mL                             |                                                                                          21 |
+| 19 kg             | 1.14 mg            | 0.22 mL                             |                                                                                          22 |
+| 20 kg             | 1.20 mg            | 0.24 mL                             |                                                                                          24 |
+| 21 kg             | 1.26 mg            | 0.25 mL                             |                                                                                          25 |
+| 22 kg             | 1.32 mg            | 0.26 mL                             |                                                                                          26 |
+| 23 kg             | 1.38 mg            | 0.27 mL                             |                                                                                          27 |
+| 24 kg             | 1.44 mg            | 0.28 mL                             |                                                                                          28 |
+| 25 kg             | 1.50 mg            | 0.30 mL                             |                                                                                          30 |
 
 ## Using the 1 mL syringe
 
@@ -1786,6 +1805,8 @@ Line up the top rim of the plunger with the line for the prescribed dose. An exa
 - Each 0.1 mL is shown as a number with a big line.
 - Each 0.05 mL is shown as a medium size line.
 - Each 0.01 mL is shown as a smaller line.
+
+<!-- image -->
 
 <!-- image -->
 
@@ -1819,7 +1840,7 @@ You will also need 2 syringes:
 - o If your dose is 1.5 mg or less, you will use a 0.3 mL syringe.
 - o If your dose is more than 1.5 mg up to 5 mg, you will use a 1 mL syringe.
 - o If your dose is more than 5 mg, you will use a 3.0 mL syringe.
-- o If your dose is more than 5 mg, your doctor, nurse or pharmacist might tell you to give the dose as two separate injections. See section 3 'How much to inject' for more information.
+- o If your dose is more than 5 mg, your doctor, nurse or pharmacist might tell you to give the dose as two separate injections. See section 3 \"How much to inject\" for more information.
 
 <!-- image -->
 
@@ -2012,7 +2033,7 @@ With the needle still in the vial, turn the vial and syringe upside down. The ne
 
 - 15) Mix the powder and water for injection
 - Move the vial gently in a circle (swirling motion)
-- Until the powder dissolves and the liquid is clear. Do not shake or vigorously mix .
+- Until the powder dissolves and the liquid is clear. Do not shake or vigorously mix.
 - The solution will take less than 5 minutes to become clear.
 
 When properly mixed, the Myalepta solution should be clear and free of lumps of dry powder, bubbles or foam. Do not use the solution if it is not clear or has bits or lumps in it. Throw it away and start again from step 1.
@@ -2037,8 +2058,8 @@ When properly mixed, the Myalepta solution should be clear and free of lumps of 
 - The top rim of the plunger should line up with the black line on the syringe that matches the amount of Myalepta solution you are going to inject.
 - 20) Check for air pockets and air bubbles.
 - If you see an air pocket or any air bubbles, follow the same instructions described in step 7 to remove the air from the syringe.
-- 21) If the syringe contains your correct dose amount of Myalepta solution, remove the needle from the vial.
-- Do not move the plunger.
+- 21) If the syringe contains your correct dose amount of Myalepta solution, remove the needle from the
+7. vial. · Do not move the plunger.
 - Do not touch the needle.
 
 <!-- image -->
@@ -2088,10 +2109,9 @@ Important: Myalepta must be injected under the skin ('subcutaneous'). Do not inj
 
 - o Inject all of the medicine.
 - o If there is medicine left in the syringe, you have not had your full dose.
+- 28) Remove the syringe from the skin.
 
 <!-- image -->
-
-28) Remove the syringe from the skin.
 
 ## Step G: Throwing away used materials
 
@@ -2118,16 +2138,18 @@ Important: Myalepta must be injected under the skin ('subcutaneous'). Do not inj
 
 ## Package leaflet: Information for the patient
 
-## Myalepta 5.8 mg powder for solution for injection metreleptin
+## Myalepta 5.8 mg powder for solution for injection
+
+## metreleptin
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2148,21 +2170,21 @@ Myalepta is used to treat the complications of not having enough leptin in patie
 
 It is used in adults, adolescents and children 2 years or over:
 
-- -who have generalised lipodystrophy (the whole of your body does not have enough fatty tissue)
+- who have generalised lipodystrophy (the whole of your body does not have enough fatty tissue)
 
 It is used, when other treatments have been ineffective, in adults, and adolescents 12 years or over:
 
-- -who have partial lipodystrophy which is inherited (also called congenital or familial lipodystrophy)
-- -or partial lipodystrophy has been caused by your body's response to something such as a viral illness (also called acquired lipodystrophy)
+- who have partial lipodystrophy which is inherited (also called congenital or familial lipodystrophy)
+- or partial lipodystrophy has been caused by your body's response to something such as a viral illness (also called acquired lipodystrophy)
 
 ## How Myalepta works
 
 Natural leptin is produced by fatty tissue and has many functions in the body including:
 
-- -controlling how hungry you feel and your energy levels
-- -helping the insulin in your body manage sugar levels.
+- controlling how hungry you feel and your energy levels
+- helping the insulin in your body manage sugar levels. Metreleptin works by copying the effects of leptin. This improves the ability of the body to control
 
-Metreleptin works by copying the effects of leptin. This improves the ability of the body to control energy levels.
+energy levels.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2170,17 +2192,17 @@ Metreleptin works by copying the effects of leptin. This improves the ability of
 
 ## Do not use Myalepta if
 
--you are allergic to metreleptin or any of the other ingredients of this medicine (listed in section 6).
+- you are allergic to metreleptin or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before using Myalepta if:
 
-- -you are pregnant
-- -you have ever had a type of cancer called lymphoma
-- -you have ever had problems with your blood (such as a low blood count)
-- -you have ever had inflammation of an organ called the pancreas ('pancreatitis')
-- -you have or ever have had problems with your immune system (autoimmune disease including autoimmune-related liver problems)
+- you are pregnant
+- you have ever had a type of cancer called lymphoma
+- you have ever had problems with your blood (such as a low blood count)
+- you have ever had inflammation of an organ called the pancreas ('pancreatitis')
+- you have or ever have had problems with your immune system (autoimmune disease including autoimmune-related liver problems)
 
 ## Lymphoma
 
@@ -2202,7 +2224,7 @@ This is to prevent your blood sugar from getting too low ('hypo-glycaemia'). For
 
 ## High blood sugar and fat levels
 
-You may have higher amounts of sugar ('hyper-glycaemia') or fat ('hyper-triglyceridaemia') in your blood while on Myalepta, which may be a sign that this medicine is not working as well as it should. Signs of high blood sugar levels and high fat levels are listed in section 4 under 'Signs of high and low blood sugar' and 'Signs of high fat'.
+You may have higher amounts of sugar ('hyper-glycaemia') or fat ('hyper-triglyceridaemia') in your blood while on Myalepta, which may be a sign that this medicine is not working as well as it should. Signs of high blood sugar levels and high fat levels are listed in section 4 under \"Signs of high and low blood sugar\" and \"Signs of high fat\".
 
 If you notice any of the symptoms referred to above and described further in section 4 of this leaflet, or you are not sure, talk to your doctor straight away. Your doctor might need to change your treatment.
 
@@ -2212,17 +2234,17 @@ People who have or have had problems with their immune system (autoimmune diseas
 
 ## Allergic reactions
 
-While being treated with Myalepta, you may get an allergic reaction. Tell your doctor straight-away if you have any symptoms of an allergic reaction. Signs of an allergic reaction can be seen in section 4 under 'Allergic reactions'.
+While being treated with Myalepta, you may get an allergic reaction. Tell your doctor straight-away if you have any symptoms of an allergic reaction. Signs of an allergic reaction can be seen in section 4 under \"Allergic reactions\".
 
 <div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
-Myalepta might increase fertility in women with lipodystrophy (see section 'Pregnancy, breast-feeding and fertility').
+Myalepta might increase fertility in women with lipodystrophy (see section \"Pregnancy, breast-feeding and fertility\").
 
 ## Myalepta contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially \"sodium free\".
 
 ## Children and adolescents
 
@@ -2270,26 +2292,26 @@ Your doctor may decide that you inject the medicine yourself. Your doctor, nurse
 
 ## How much to inject
 
-Your dose of Myalepta may change over time depending on how this medicine works for you. The Myalepta powder is dissolved by mixing it with water for injections to make the solution for injecting. Read the 'Instructions for Use' for how to make the solution before injecting.
+Your dose of Myalepta may change over time depending on how this medicine works for you. The Myalepta powder is dissolved by mixing it with water for injections to make the solution for injecting. Read the \"Instructions for Use\" for how to make the solution before injecting.
 
 Your doctor will have prescribed the correct dose for you, based on the following:
 
 - If you weigh 40 kg or less:
-- -A starting dose is 0.06 mg (0.012 mL of solution) for each kilogram of body weight.
+- A starting dose is 0.06 mg (0.012 mL of solution) for each kilogram of body weight.
 - If you are male and weigh more than 40 kg:
-- -A starting dose is 2.5 mg (0.5 mL of solution).
+- A starting dose is 2.5 mg (0.5 mL of solution).
 - If you are female and weigh more than 40 kg:
-- -A starting dose is 5 mg (1 mL of solution).
+- A starting dose is 5 mg (1 mL of solution).
 
 Your doctor or pharmacist will tell you how much of the solution to inject. If you are not sure how much of the solution to inject, talk to your doctor or pharmacist before injecting.
 
 - The syringe you need to use to inject this medicine depends on the dose prescribed for you.
 - o Your pharmacist will give you the correct syringe for injecting.
-- o See the 'Instructions for Use' to find out which syringe to use.
+- o See the \"Instructions for Use\" to find out which syringe to use.
 - To know how much medicine to inject (in mL), you divide your dose (in mg) by 5.
 - o For example, if you have been prescribed a 5 mg dose of Myalepta, 5 mg divided by 5 gives you 1 mL which is the amount you need to inject of the solution, using a 1 mL syringe.
 - If your dose is 1.50 mg (0.30 mL of solution) or less, you will need to use a 0.3 mL syringe.
-- o The 0.3 mL syringe will show the injection amount in 'Unit' instead of 'mL'. See the 'Instructions for Use' (section 7) for more information on reading and using the different syringes.
+- o The 0.3 mL syringe will show the injection amount in 'Unit' instead of 'mL'. See the \"Instructions for Use\" (section 7) for more information on reading and using the different syringes.
 - o To know how much solution to inject (in Units), divide your dose (in mg) by 5, and then times it by 100.
 
 If you need to inject 1 mL or more of Myalepta solution, your doctor might tell you to give the dose as two separate injections. This can help make the injections more comfortable.
@@ -2368,42 +2390,42 @@ Tell your doctor if you notice any of the following side effects.
 
 Very common (may affect more than 1 in 10 people):
 
-- -weight loss
+- weight loss
 
 <div style=\"page-break-after: always\"></div>
 
 Common (may affect up to 1 in 10 people):
 
-- -loss of interest in food
-- -headache
-- -hair loss
-- -unusually heavy or long menstrual bleeding
-- -feeling tired
-- -bruising, reddening, itching or hives where the injection is given
-- -your body producing antibodies to metreleptin which may increase the risk of developing serious or severe infections. You may notice you develop a high temperature, accompanied by increasing tiredness
+- loss of interest in food
+- headache
+- hair loss
+- unusually heavy or long menstrual bleeding
+- feeling tired
+- bruising, reddening, itching or hives where the injection is given
+- your body producing antibodies to metreleptin which may increase the risk of developing serious or severe infections. You may notice you develop a high temperature, accompanied by increasing tiredness
 
-## Not known (frequency cannot be estimated from the available data):
+Not known (frequency cannot be estimated from the available data):
 
-- -flu
-- -chest infection
-- -diabetes
-- -a higher than normal desire for food or excessive eating
-- -a faster than normal heart rate
-- -cough
-- -breathlessness
-- -muscle pain ('myalgia')
-- -joint pain
-- -swelling in your hands and feet
-- -increase in fatty tissue
-- -swelling or bleeding under the skin, where you injected
-- -pain at the injection site
-- -itchiness at the injection site
-- -a feeling of general discomfort, uneasiness or pain ('malaise')
-- -increased fat in the blood ('triglycerides') (see section 'Signs of high fat' below)
-- -an increase in 'HbA1c' in your blood, shown in tests
-- -weight gain
-- -swelling or bleeding under the skin ('haemorrhage')
-- -high blood sugar levels (see section 'Signs of high and low blood sugar below).
+- flu
+- chest infection
+- diabetes
+- a higher than normal desire for food or excessive eating
+- a faster than normal heart rate
+- cough
+- breathlessness
+- muscle pain ('myalgia')
+- joint pain
+- swelling in your hands and feet
+- increase in fatty tissue
+- swelling or bleeding under the skin, where you injected
+- pain at the injection site
+- itchiness at the injection site
+- a feeling of general discomfort, uneasiness or pain ('malaise')
+- increased fat in the blood ('triglycerides') (see section 'Signs of high fat' below)
+- an increase in 'HbA1c' in your blood, shown in tests
+- weight gain
+- swelling or bleeding under the skin ('haemorrhage')
+- high blood sugar levels (see section 'Signs of high and low blood sugar below).
 
 Tell your doctor if you notice any of the above side effects.
 
@@ -2462,11 +2484,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Myalepta contains
 
-- -The active substance is metreleptin.
-
-Each vial contains 5.8 milligrams of metreleptin. After dissolving the vial contents in 1.1 millilitres of water for injections, each millilitre contains 5 milligrams of metreleptin.
-
-- -The other ingredients are: glycine, sucrose, polysorbate 20, glutamic acid, sodium hydroxide (for pH adjustment).
+- The active substance is metreleptin.
+- Each vial contains 5.8 milligrams of metreleptin. After dissolving the vial contents in 1.1 millilitres of water for injections, each millilitre contains 5 milligrams of metreleptin.
+- The other ingredients are: glycine, sucrose, polysorbate 20, glutamic acid, sodium hydroxide (for pH adjustment).
 
 ## What Myalepta looks like and contents of the pack
 
@@ -2524,9 +2544,7 @@ ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel.: +3
 
 ## Luxembourg/Luxemburg
 
-Chiesi sa/nv
-
-Tél/Tel: + 32 (0)2 788 42 00
+Chiesi sa/nv Tél/Tel: + 32 (0)2 788 42 00
 
 ## Magyarország
 
@@ -2548,9 +2566,7 @@ Chiesi Pharma AB Tlf: + 46 8 753 35 20
 
 ## Ελλάδα
 
-Amryt Pharmaceuticals DAC
-
-Tηλ: +800 44 474447 Tηλ: +44 1604 549952 medinfo@amrytpharma.com
+Amryt Pharmaceuticals DAC Tηλ: +800 44 474447 Tηλ: +44 1604 549952 medinfo@amrytpharma.com
 
 ## España
 
@@ -2558,7 +2574,9 @@ Chiesi España, S.A.U. Tel: + 34 93 494 8000
 
 ## France
 
-Chiesi S.A.S. Tél: + 33 1 47688899
+Chiesi S.A.S.
+
+Tél: + 33 1 47688899
 
 ## Hrvatska
 
@@ -2652,33 +2670,42 @@ Line up the top rim of the plunger with the line for the prescribed dose. An exa
 - Each 5 U is shown as a number with a big line. This is the same as 0.05 mL.
 - Each 1 U is shown as a smaller line between the big lines. This is the same as 0.01 mL.
 - Each 0.5 U is shown as a small line between two 1 U lines. This is the same as 0.005 mL.
-- To help with injecting Myalepta solution using the small 0.3 mL syringe, the last column in the table below shows the 'Unit' measurement on the syringe that relates to the different potential doses of the medicine prescribed by your doctor, nurse, or pharmacist.
+
+0.12·mL
+
+12U
+
+0.25·mL
+
+25U
 
 <!-- image -->
+
+- To help with injecting Myalepta solution using the small 0.3 mL syringe, the last column in the table below shows the 'Unit' measurement on the syringe that relates to the different potential doses of the medicine prescribed by your doctor, nurse, or pharmacist.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Converting dose from 'mL' to 'Units' when using the 0.3 mL syringe
 
-| Weight of child   | Dose of Myalepta   | Amount of mixed Myalepta solution   |   Amount of mixed Myalepta solution to inject in 'Unit' measurements on your 0.3 mLsyringe |
-|-------------------|--------------------|-------------------------------------|--------------------------------------------------------------------------------------------|
-| 9 kg              | 0.54 mg            | 0.10 mL                             |                                                                                         10 |
-| 10 kg             | 0.60 mg            | 0.12 mL                             |                                                                                         12 |
-| 11 kg             | 0.66 mg            | 0.13 mL                             |                                                                                         13 |
-| 12 kg             | 0.72 mg            | 0.14 mL                             |                                                                                         14 |
-| 13 kg             | 0.78 mg            | 0.15 mL                             |                                                                                         15 |
-| 14 kg             | 0.84 mg            | 0.16 mL                             |                                                                                         16 |
-| 15 kg             | 0.90 mg            | 0.18 mL                             |                                                                                         18 |
-| 16 kg             | 0.96 mg            | 0.19 mL                             |                                                                                         19 |
-| 17 kg             | 1.02 mg            | 0.20 mL                             |                                                                                         20 |
-| 18 kg             | 1.08 mg            | 0.21 mL                             |                                                                                         21 |
-| 19 kg             | 1.14 mg            | 0.22 mL                             |                                                                                         22 |
-| 20 kg             | 1.20 mg            | 0.24 mL                             |                                                                                         24 |
-| 21 kg             | 1.26 mg            | 0.25 mL                             |                                                                                         25 |
-| 22 kg             | 1.32 mg            | 0.26 mL                             |                                                                                         26 |
-| 23 kg             | 1.38 mg            | 0.27 mL                             |                                                                                         27 |
-| 24 kg             | 1.44 mg            | 0.28 mL                             |                                                                                         28 |
-| 25 kg             | 1.50 mg            | 0.30 mL                             |                                                                                         30 |
+| Weight of child   | Dose of Myalepta   | Amount of mixed Myalepta solution   |   Amount of mixed Myalepta solution to inject in 'Unit' measurements on your 0.3 mL syringe |
+|-------------------|--------------------|-------------------------------------|---------------------------------------------------------------------------------------------|
+| 9 kg              | 0.54 mg            | 0.10 mL                             |                                                                                          10 |
+| 10 kg             | 0.60 mg            | 0.12 mL                             |                                                                                          12 |
+| 11 kg             | 0.66 mg            | 0.13 mL                             |                                                                                          13 |
+| 12 kg             | 0.72 mg            | 0.14 mL                             |                                                                                          14 |
+| 13 kg             | 0.78 mg            | 0.15 mL                             |                                                                                          15 |
+| 14 kg             | 0.84 mg            | 0.16 mL                             |                                                                                          16 |
+| 15 kg             | 0.90 mg            | 0.18 mL                             |                                                                                          18 |
+| 16 kg             | 0.96 mg            | 0.19 mL                             |                                                                                          19 |
+| 17 kg             | 1.02 mg            | 0.20 mL                             |                                                                                          20 |
+| 18 kg             | 1.08 mg            | 0.21 mL                             |                                                                                          21 |
+| 19 kg             | 1.14 mg            | 0.22 mL                             |                                                                                          22 |
+| 20 kg             | 1.20 mg            | 0.24 mL                             |                                                                                          24 |
+| 21 kg             | 1.26 mg            | 0.25 mL                             |                                                                                          25 |
+| 22 kg             | 1.32 mg            | 0.26 mL                             |                                                                                          26 |
+| 23 kg             | 1.38 mg            | 0.27 mL                             |                                                                                          27 |
+| 24 kg             | 1.44 mg            | 0.28 mL                             |                                                                                          28 |
+| 25 kg             | 1.50 mg            | 0.30 mL                             |                                                                                          30 |
 
 ## Using the 1 mL syringe
 
@@ -2687,6 +2714,8 @@ Line up the top rim of the plunger with the line for the prescribed dose. An exa
 - Each 0.1 mL is shown as a number with a big line.
 - Each 0.05 mL is shown as a medium size line.
 - Each 0.01 mL is shown as a smaller line.
+
+<!-- image -->
 
 <!-- image -->
 
@@ -2720,10 +2749,11 @@ You will also need 2 syringes:
 - o If your dose is 1.5 mg or less, you will use a 0.3 mL syringe.
 - o If your dose is more than 1.5 mg up to 5 mg, you will use a 1 mL syringe.
 - o If your dose is more than 5 mg, you will use a 3.0 mL syringe.
-- o If your dose is more than 5 mg, your doctor, nurse or pharmacist might tell you to give the dose as two separate injections. See section 3 'How much to inject' for more information.
-- 2) Before preparing Myalepta solution, allow the powder vial to reach room temperature for about 10 minutes.
+- o If your dose is more than 5 mg, your doctor, nurse or pharmacist might tell you to give the dose as two separate injections. See section 3 \"How much to inject\" for more information.
 
 <!-- image -->
+
+2) Before preparing Myalepta solution, allow the powder vial to reach room temperature for about 10 minutes.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2824,6 +2854,8 @@ With the needle still in the ampoule, pull the plunger up carefully.
 
 <!-- image -->
 
+日
+
 The glass vial will have a plastic cap that you should remove, revealing a rubber seal below.
 
 - Do not remove the rubber seal.
@@ -2834,7 +2866,6 @@ Attach the needle to the 3 mL syringe. Do not over-tighten the needle.
 
 - Remove the needle cover.
 - Do not touch the needle.
-- •
 - Pull the plunger down to the 1.1 mL line to draw air into the syringe.
 
 Place the vial on a hard, flat surface.
@@ -2893,7 +2924,8 @@ Pull the plunger down carefully
 - 11) Remove the plastic cap from the vial of Myalepta powder.
 - Place the vial on a flat, hard surface.
 - Clean the top of the vial with the alcohol wipe.
-- 12) Insert the needle of the 3 mL syringe containing the 1.1 mL of water for injection all the way into the Myalepta vial containing the powder.
+
+12) Insert the needle of the 3 mL syringe containing the 1.1 mL of water for injection all the way into the Myalepta vial containing the powder.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2912,7 +2944,7 @@ Pull the plunger down carefully
 
 - 15) Mix the powder and water for injection
 - Move the vial gently in a circle (swirling motion)
-- Until the powder dissolves and the liquid is clear. Do not shake or vigorously mix .
+- Until the powder dissolves and the liquid is clear. Do not shake or vigorously mix.
 - The solution will take less than 5 minutes to become clear.
 
 When properly mixed, the Myalepta solution should be clear and free of lumps of dry powder, bubbles or foam. Do not use the solution if it is not clear or has bits or lumps in it. Throw it away and start again from step 1.
@@ -2937,8 +2969,8 @@ When properly mixed, the Myalepta solution should be clear and free of lumps of 
 - The top rim of the plunger should line up with the black line on the syringe that matches the amount of Myalepta solution you are going to inject.
 - 20) Check for air pockets and air bubbles.
 - If you see an air pocket or any air bubbles, follow the same instructions described in step 7 to remove the air from the syringe.
-- 21) If the syringe contains your correct dose amount of Myalepta solution, remove the needle from the vial.
-- Do not move the plunger.
+- 21) If the syringe contains your correct dose amount of Myalepta solution, remove the needle from the
+7. vial. · Do not move the plunger.
 - Do not touch the needle.
 
 <!-- image -->
@@ -2988,10 +3020,9 @@ Important: Myalepta must be injected under the skin ('subcutaneous'). Do not inj
 
 - o Inject all of the medicine.
 - o If there is medicine left in the syringe, you have not had your full dose.
+- 28) Remove the syringe from the skin.
 
 <!-- image -->
-
-28) Remove the syringe from the skin.
 
 ## Step G: Throwing away used materials
 
@@ -3018,18 +3049,16 @@ Important: Myalepta must be injected under the skin ('subcutaneous'). Do not inj
 
 ## Package leaflet: Information for the patient
 
-## Myalepta 11.3 mg powder for solution for injection
-
-## metreleptin
+## Myalepta 11.3 mg powder for solution for injection metreleptin
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3050,19 +3079,19 @@ Myalepta is used to treat the complications of not having enough leptin in patie
 
 It is used in adults, adolescents and children 2 years or over:
 
-- -who have generalised lipodystrophy (the whole of your body does not have enough fatty tissue)
+- who have generalised lipodystrophy (the whole of your body does not have enough fatty tissue)
 
 It is used, when other treatments have been ineffective, in adults, and adolescents 12 years or over:
 
-- -who have partial lipodystrophy which is inherited (also called congenital or familial lipodystrophy)
-- -or partial lipodystrophy has been caused by your body's response to something such as a viral illness (also called acquired lipodystrophy)
+- who have partial lipodystrophy which is inherited (also called congenital or familial lipodystrophy)
+- or partial lipodystrophy has been caused by your body's response to something such as a viral illness (also called acquired lipodystrophy)
 
 ## How Myalepta works
 
 Natural leptin is produced by fatty tissue and has many functions in the body including:
 
-- -controlling how hungry you feel and your energy levels
-- -helping the insulin in your body manage sugar levels. Metreleptin works by copying the effects of leptin. This improves the ability of the body to control
+- controlling how hungry you feel and your energy levels
+- helping the insulin in your body manage sugar levels. Metreleptin works by copying the effects of leptin. This improves the ability of the body to control
 
 energy levels.
 
@@ -3072,23 +3101,25 @@ energy levels.
 
 ## Do not use Myalepta if
 
-- -you are allergic to metreleptin or any of the other ingredients of this medicine (listed in section 6).
+- you are allergic to metreleptin or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before using Myalepta if:
 
-- -you are pregnant
-- -you have ever had a type of cancer called lymphoma
-- -you have ever had problems with your blood (such as a low blood count)
-- -you have ever had inflammation of an organ called the pancreas ('pancreatitis')
-- -you have or ever have had problems with your immune system (autoimmune disease including autoimmune-related liver problems)
+- you are pregnant
+- you have ever had a type of cancer called lymphoma
+- you have ever had problems with your blood (such as a low blood count)
+- you have ever had inflammation of an organ called the pancreas ('pancreatitis')
+- you have or ever have had problems with your immune system (autoimmune disease including autoimmune-related liver problems)
 
 ## Lymphoma
 
 People with lipodystrophy can get a type of blood cancer called lymphoma, whether or not they are using Myalepta.
 
-However, you may be at higher risk of getting a lymphoma when using the medicinal product. Your doctor will decide if you should use Myalepta and will monitor you during treatment.
+However, you may be at higher risk of getting a lymphoma when using the medicinal product.
+
+Your doctor will decide if you should use Myalepta and will monitor you during treatment.
 
 ## Serious and severe infections
 
@@ -3102,7 +3133,7 @@ This is to prevent your blood sugar from getting too low ('hypo-glycaemia'). For
 
 ## High blood sugar and fat levels
 
-You may have higher amounts of sugar ('hyper-glycaemia') or fat ('hyper-triglyceridaemia') in your blood while on Myalepta, which may be a sign that this medicine is not working as well as it should. Signs of high blood sugar levels and high fat levels are listed in section 4 under 'Signs of high and low blood sugar' and 'Signs of high fat'.
+You may have higher amounts of sugar ('hyper-glycaemia') or fat ('hyper-triglyceridaemia') in your blood while on Myalepta, which may be a sign that this medicine is not working as well as it should. Signs of high blood sugar levels and high fat levels are listed in section 4 under \"Signs of high and low blood sugar\" and \"Signs of high fat\".
 
 If you notice any of the symptoms referred to above and described further in section 4 of this leaflet, or you are not sure, talk to your doctor straight away. Your doctor might need to change your treatment.
 
@@ -3114,15 +3145,15 @@ People who have or have had problems with their immune system (autoimmune diseas
 
 ## Allergic reactions
 
-While being treated with Myalepta, you may get an allergic reaction. Tell your doctor straight-away if you have any symptoms of an allergic reaction. Signs of an allergic reaction can be seen in section 4 under 'Allergic reactions'.
+While being treated with Myalepta, you may get an allergic reaction. Tell your doctor straight-away if you have any symptoms of an allergic reaction. Signs of an allergic reaction can be seen in section 4 under \"Allergic reactions\".
 
 ## Fertility
 
-Myalepta might increase fertility in women with lipodystrophy (see section 'Pregnancy, breast-feeding and fertility').
+Myalepta might increase fertility in women with lipodystrophy (see section \"Pregnancy, breast-feeding and fertility\").
 
 ## Myalepta contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially \"sodium free\".
 
 ## Children and adolescents
 
@@ -3170,26 +3201,26 @@ Your doctor may decide that you inject the medicine yourself. Your doctor, nurse
 
 ## How much to inject
 
-Your dose of Myalepta may change over time depending on how this medicine works for you. The Myalepta powder is dissolved by mixing it with water for injections to make the solution for injecting. Read the 'Instructions for Use' for how to make the solution before injecting.
+Your dose of Myalepta may change over time depending on how this medicine works for you. The Myalepta powder is dissolved by mixing it with water for injections to make the solution for injecting. Read the \"Instructions for Use\" for how to make the solution before injecting.
 
 Your doctor will have prescribed the correct dose for you, based on the following:
 
 - If you weigh 40 kg or less:
-- -A starting dose is 0.06 mg (0.012 mL of solution) for each kilogram of body weight.
+- A starting dose is 0.06 mg (0.012 mL of solution) for each kilogram of body weight.
 - If you are male and weigh more than 40 kg:
-- -A starting dose is 2.5 mg (0.5 mL of solution).
+- A starting dose is 2.5 mg (0.5 mL of solution).
 - If you are female and weigh more than 40 kg:
-- -A starting dose is 5 mg (1 mL of solution).
+- A starting dose is 5 mg (1 mL of solution).
 
 Your doctor or pharmacist will tell you how much of the solution to inject. If you are not sure how much of the solution to inject, talk to your doctor or pharmacist before injecting.
 
 - The syringe you need to use to inject this medicine depends on the dose prescribed for you.
 - o Your pharmacist will give you the correct syringe for injecting.
-- o See the 'Instructions for Use' to find out which syringe to use.
+- o See the \"Instructions for Use\" to find out which syringe to use.
 - To know how much medicine to inject (in mL), you divide your dose (in mg) by 5.
 - o For example, if you have been prescribed a 5 mg dose of Myalepta, 5 mg divided by 5 gives you 1 mL which is the amount you need to inject of the solution, using a 1 mL syringe.
 - If your dose is 1.50 mg (0.30 mL of solution) or less, you will need to use a 0.3 mL syringe.
-- o The 0.3 mL syringe will show the injection amount in 'Unit' instead of 'mL'. See the 'Instructions for Use' (section 7) for more information on reading and using the different syringes.
+- o The 0.3 mL syringe will show the injection amount in 'Unit' instead of 'mL'. See the \"Instructions for Use\" (section 7) for more information on reading and using the different syringes.
 - o To know how much solution to inject (in Units), divide your dose (in mg) by 5, and then times it by 100.
 
 If you need to inject 1 mL or more of Myalepta solution, your doctor might tell you to give the dose as two separate injections. This can help make the injections more comfortable.
@@ -3269,40 +3300,40 @@ Tell your doctor if you notice any of the following side effects.
 
 Very common (may affect more than 1 in 10 people):
 
-- -weight loss
+- weight loss
 
 Common (may affect up to 1 in 10 people):
 
-- -loss of interest in food
-- -headache
-- -hair loss
-- -unusually heavy or long menstrual bleeding
-- -feeling tired
-- -bruising, reddening, itching or hives where the injection is given
-- -your body producing antibodies to metreleptin which may increase the risk of developing serious or severe infections. You may notice you develop a high temperature, accompanied by increasing tiredness
+- loss of interest in food
+- headache
+- hair loss
+- unusually heavy or long menstrual bleeding
+- feeling tired
+- bruising, reddening, itching or hives where the injection is given
+- your body producing antibodies to metreleptin which may increase the risk of developing serious or severe infections. You may notice you develop a high temperature, accompanied by increasing tiredness
 
-## Not known (frequency cannot be estimated from the available data):
+Not known (frequency cannot be estimated from the available data):
 
-- -flu
-- -chest infection
-- -diabetes
-- -a higher than normal desire for food or excessive eating
-- -a faster than normal heart rate
-- -cough
-- -breathlessness
-- -muscle pain ('myalgia')
-- -joint pain
-- -swelling in your hands and feet
-- -increase in fatty tissue
-- -swelling or bleeding under the skin, where you injected
-- -pain at the injection site
-- -itchiness at the injection site
-- -a feeling of general discomfort, uneasiness or pain ('malaise')
-- -increased fat in the blood ('triglycerides') (see section 'Signs of high fat' below)
-- -an increase in 'HbA1c' in your blood, shown in tests
-- -weight gain
-- -swelling or bleeding under the skin ('haemorrhage')
-- -high blood sugar levels (see section 'Signs of high and low blood sugar below).
+- flu
+- chest infection
+- diabetes
+- a higher than normal desire for food or excessive eating
+- a faster than normal heart rate
+- cough
+- breathlessness
+- muscle pain ('myalgia')
+- joint pain
+- swelling in your hands and feet
+- increase in fatty tissue
+- swelling or bleeding under the skin, where you injected
+- pain at the injection site
+- itchiness at the injection site
+- a feeling of general discomfort, uneasiness or pain ('malaise')
+- increased fat in the blood ('triglycerides') (see section 'Signs of high fat' below)
+- an increase in 'HbA1c' in your blood, shown in tests
+- weight gain
+- swelling or bleeding under the skin ('haemorrhage')
+- high blood sugar levels (see section 'Signs of high and low blood sugar below).
 
 Tell your doctor if you notice any of the above side effects.
 
@@ -3361,8 +3392,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Myalepta contains
 
-- -The active substance is metreleptin. Each vial contains 11.3 milligrams of metreleptin. After dissolving the vial contents in 2.2 millilitres of water for injections, each millilitre contains 5 milligrams of metreleptin.
-- -The other ingredients are: glycine, sucrose, polysorbate 20, glutamic acid, sodium hydroxide (for pH adjustment).
+- The active substance is metreleptin. Each vial contains 11.3 milligrams of metreleptin. After dissolving the vial contents in 2.2 millilitres of water for injections, each millilitre contains 5 milligrams of metreleptin.
+- The other ingredients are: glycine, sucrose, polysorbate 20, glutamic acid, sodium hydroxide (for pH adjustment).
 
 ## What Myalepta looks like and contents of the pack
 
@@ -3424,9 +3455,7 @@ ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel.: +3
 
 ## Luxembourg/Luxemburg
 
-Chiesi sa/nv
-
-Tél/Tel: + 32 (0)2 788 42 00
+Chiesi sa/nv Tél/Tel: + 32 (0)2 788 42 00
 
 ## Magyarország
 
@@ -3436,7 +3465,9 @@ ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel.: +3
 
 Amryt Pharmaceuticals DAC
 
-Tel: +44 1604 549952 medinfo@amrytpharma.com
+Tel: +44 1604 549952
+
+medinfo@amrytpharma.com
 
 ## Nederland
 
@@ -3452,9 +3483,7 @@ ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic Tel.: +3
 
 ## Ελλάδα
 
-Amryt Pharmaceuticals DAC
-
-Tηλ: +800 44 474447 Tηλ: +44 1604 549952 medinfo@amrytpharma.com
+Amryt Pharmaceuticals DAC Tηλ: +800 44 474447 Tηλ: +44 1604 549952 medinfo@amrytpharma.com
 
 ## España
 
@@ -3518,15 +3547,15 @@ Chiesi Pharma AB Puh/Tel: +46 8 753 35 20
 
 ## Sverige
 
-Chiesi Pharma AB
-
-Tel: +46 8 753 35 20
+Chiesi Pharma AB Tel: +46 8 753 35 20
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija ExCEEd Orphan s.r.o. Bucharova 2657/12, Prague 5, 158 00 Czech republic
+## Latvija
 
-Tel.: +370 661 663 99
+ExCEEd Orphan s.r.o. Czech republic
+
+Bucharova 2657/12, Prague 5, 158 00 Tel.: +370 661 663 99
 
 pv.global@exceedorphan.com
 
@@ -3564,33 +3593,42 @@ Line up the top rim of the plunger with the line for the prescribed dose. An exa
 - Each 5 U is shown as a number with a big line. This is the same as 0.05 mL.
 - Each 1 U is shown as a smaller line between the big lines. This is the same as 0.01 mL.
 - Each 0.5 U is shown as a small line between two 1 U lines. This is the same as 0.005 mL.
-- To help with injecting Myalepta solution using the small 0.3 mL syringe, the last column in the table below shows the 'Unit' measurement on the syringe that relates to the different potential doses of the medicine prescribed by your doctor, nurse, or pharmacist.
+
+0.12·mL
+
+12U
+
+0.25·mL
+
+25U
 
 <!-- image -->
+
+- To help with injecting Myalepta solution using the small 0.3 mL syringe, the last column in the table below shows the 'Unit' measurement on the syringe that relates to the different potential doses of the medicine prescribed by your doctor, nurse, or pharmacist.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Converting dose from 'mL' to 'Units' when using the 0.3 mL syringe
 
-| Weight of child   | Dose of Myalepta   | Amount of mixed Myalepta solution   |   Amount of mixed Myalepta solution to inject in 'Unit' measurements on your 0.3 mLsyringe |
-|-------------------|--------------------|-------------------------------------|--------------------------------------------------------------------------------------------|
-| 9 kg              | 0.54 mg            | 0.10 mL                             |                                                                                         10 |
-| 10 kg             | 0.60 mg            | 0.12 mL                             |                                                                                         12 |
-| 11 kg             | 0.66 mg            | 0.13 mL                             |                                                                                         13 |
-| 12 kg             | 0.72 mg            | 0.14 mL                             |                                                                                         14 |
-| 13 kg             | 0.78 mg            | 0.15 mL                             |                                                                                         15 |
-| 14 kg             | 0.84 mg            | 0.16 mL                             |                                                                                         16 |
-| 15 kg             | 0.90 mg            | 0.18 mL                             |                                                                                         18 |
-| 16 kg             | 0.96 mg            | 0.19 mL                             |                                                                                         19 |
-| 17 kg             | 1.02 mg            | 0.20 mL                             |                                                                                         20 |
-| 18 kg             | 1.08 mg            | 0.21 mL                             |                                                                                         21 |
-| 19 kg             | 1.14 mg            | 0.22 mL                             |                                                                                         22 |
-| 20 kg             | 1.20 mg            | 0.24 mL                             |                                                                                         24 |
-| 21 kg             | 1.26 mg            | 0.25 mL                             |                                                                                         25 |
-| 22 kg             | 1.32 mg            | 0.26 mL                             |                                                                                         26 |
-| 23 kg             | 1.38 mg            | 0.27 mL                             |                                                                                         27 |
-| 24 kg             | 1.44 mg            | 0.28 mL                             |                                                                                         28 |
-| 25 kg             | 1.50 mg            | 0.30 mL                             |                                                                                         30 |
+| Weight of child   | Dose of Myalepta   | Amount of mixed Myalepta solution   |   Amount of mixed Myalepta solution to inject in 'Unit' measurements on your 0.3 mL syringe |
+|-------------------|--------------------|-------------------------------------|---------------------------------------------------------------------------------------------|
+| 9 kg              | 0.54 mg            | 0.10 mL                             |                                                                                          10 |
+| 10 kg             | 0.60 mg            | 0.12 mL                             |                                                                                          12 |
+| 11 kg             | 0.66 mg            | 0.13 mL                             |                                                                                          13 |
+| 12 kg             | 0.72 mg            | 0.14 mL                             |                                                                                          14 |
+| 13 kg             | 0.78 mg            | 0.15 mL                             |                                                                                          15 |
+| 14 kg             | 0.84 mg            | 0.16 mL                             |                                                                                          16 |
+| 15 kg             | 0.90 mg            | 0.18 mL                             |                                                                                          18 |
+| 16 kg             | 0.96 mg            | 0.19 mL                             |                                                                                          19 |
+| 17 kg             | 1.02 mg            | 0.20 mL                             |                                                                                          20 |
+| 18 kg             | 1.08 mg            | 0.21 mL                             |                                                                                          21 |
+| 19 kg             | 1.14 mg            | 0.22 mL                             |                                                                                          22 |
+| 20 kg             | 1.20 mg            | 0.24 mL                             |                                                                                          24 |
+| 21 kg             | 1.26 mg            | 0.25 mL                             |                                                                                          25 |
+| 22 kg             | 1.32 mg            | 0.26 mL                             |                                                                                          26 |
+| 23 kg             | 1.38 mg            | 0.27 mL                             |                                                                                          27 |
+| 24 kg             | 1.44 mg            | 0.28 mL                             |                                                                                          28 |
+| 25 kg             | 1.50 mg            | 0.30 mL                             |                                                                                          30 |
 
 ## Using the 1 mL syringe
 
@@ -3599,6 +3637,8 @@ Line up the top rim of the plunger with the line for the prescribed dose. An exa
 - Each 0.1 mL is shown as a number with a big line.
 - Each 0.05 mL is shown as a medium size line.
 - Each 0.01 mL is shown as a smaller line.
+
+<!-- image -->
 
 <!-- image -->
 
@@ -3632,7 +3672,7 @@ You will also need 2 syringes:
 - o If your dose is 1.5 mg or less, you will use a 0.3 mL syringe.
 - o If your dose is more than 1.5 mg up to 5 mg, you will use a 1 mL syringe.
 - o If your dose is more than 5 mg, you will use a 3.0 mL syringe.
-- o If your dose is more than 5 mg, your doctor, nurse or pharmacist might tell you to give the dose as two separate injections. See section 3 'How much to inject' for more information.
+- o If your dose is more than 5 mg, your doctor, nurse or pharmacist might tell you to give the dose as two separate injections. See section 3 \"How much to inject\" for more information.
 
 <!-- image -->
 
@@ -3673,6 +3713,8 @@ To remove the water for injection, break open the ampoule.
 - Keeping the bottom of the ampoule still, gently twist the top of the ampoule until it is removed.
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 <!-- image -->
 
@@ -3776,7 +3818,7 @@ Pull the plunger down carefully
 
 <!-- image -->
 
-- 7) Remove any air pocket or air bubbles.
+7) Remove any air pocket or air bubbles.
 
 ## Using the glass vial or plastic ampoule
 
@@ -3823,7 +3865,7 @@ Pull the plunger down carefully
 
 - 15) Mix the powder and water for injection
 - Move the vial gently in a circle (swirling motion)
-- Until the powder dissolves and the liquid is clear. Do not shake or vigorously mix .
+- Until the powder dissolves and the liquid is clear. Do not shake or vigorously mix.
 - The solution will take less than 5 minutes to become clear.
 
 When properly mixed, the Myalepta solution should be clear and free of lumps of dry powder, bubbles or foam. Do not use the solution if it is not clear or has bits or lumps in it. Throw it away and start again from step 1.
@@ -3848,8 +3890,8 @@ When properly mixed, the Myalepta solution should be clear and free of lumps of 
 - The top rim of the plunger should line up with the black line on the syringe that matches the amount of Myalepta solution you are going to inject.
 - 20) Check for air pockets and air bubbles.
 - If you see an air pocket or any air bubbles, follow the same instructions described in step 7 to remove the air from the syringe.
-- 21) If the syringe contains your correct dose amount of Myalepta solution, remove the needle from the vial.
-- Do not move the plunger.
+- 21) If the syringe contains your correct dose amount of Myalepta solution, remove the needle from the
+7. vial. · Do not move the plunger.
 - Do not touch the needle.
 
 <!-- image -->

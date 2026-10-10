@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 07:25:04
+document_datetime: 2026-10-06 14:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ruxience.html
 document_name: ruxience.html
 version: success
-processing_time: 0.1149142
-conversion_datetime: 2025-12-30 07:46:23.838978
+processing_time: 0.1722886
+conversion_datetime: 2026-10-10 14:02:16.789695
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Ruxience
 
 [RSS](/en/individual-human-medicine.xml/67288)
 
-##### Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-rituximab Medicine Human Authorised
+rituximab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -38,9 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Ruxience](#news-on)
-- [Related content](#related-content-904)
 - [More information on Ruxience](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -50,27 +48,23 @@ Page contents
 
 Ruxience is a medicine used to treat the following blood cancers and inflammatory conditions:
 
-• follicular lymphoma and diffuse large B cell non-Hodgkin's lymphoma (two types of non-Hodgkin's lymphoma, a blood cancer);
-
-• chronic lymphocytic leukaemia (CLL, another blood cancer affecting white blood cells);
-
-• severe rheumatoid arthritis (an inflammatory condition of the joints);
-
-• granulomatosis with polyangiitis (GPA or Wegener's granulomatosis) and microscopic polyangiitis (MPA), which are inflammatory conditions of the blood vessels;
-
-• pemphigus vulgaris, a serious condition involving widespread blistering of the skin and lining of the mouth, nose, throat and genitals.
+- follicular lymphoma and diffuse large B cell non-Hodgkin's lymphoma (two types of non-Hodgkin's lymphoma, a blood cancer);
+- chronic lymphocytic leukaemia (CLL, another blood cancer affecting white blood cells);
+- severe rheumatoid arthritis (an inflammatory condition of the joints);
+- granulomatosis with polyangiitis (GPA or Wegener's granulomatosis) and microscopic polyangiitis (MPA), which are inflammatory conditions of the blood vessels;
+- pemphigus vulgaris, a serious condition involving widespread blistering of the skin and lining of the mouth, nose, throat and genitals.
 
 Depending on the condition it is used to treat, Ruxience may be given on its own, or with chemotherapy (cancer medicines) or medicines used for inflammatory disorders (methotrexate or a corticosteroid).
 
 Ruxience contains the active substance rituximab.
 
-Ruxience is a 'biosimilar medicine'. This means that Ruxience is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Ruxience is MabThera. For more information on biosimilar medicines, see [here](/en/biosimilar-medicines-overview) .
+Ruxience is a 'biosimilar medicine'. This means that Ruxience is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Ruxience is MabThera.
 
 Expand section
 
 Collapse section
 
-## How is Ruxience used?
+### How is Ruxience used?
 
 Ruxience can only be obtained with a prescription. It should be given under the close supervision of an experienced healthcare professional and in a place where facilities for resuscitating patients are immediately available. The medicine is given by infusion (drip) into a vein.
 
@@ -78,11 +72,11 @@ Before each infusion, the patient should be given an antihistamine (to prevent a
 
 For more information about using Ruxience, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Ruxience work?
+### How does Ruxience work?
 
 The active substance in Ruxience, rituximab, is a monoclonal antibody designed to attach to a protein called CD20, which is present on B cells. When rituximab attaches to CD20, it causes the B cells to die, which helps in lymphoma and CLL (where B cells have become cancerous) and in rheumatoid arthritis and pemphigus (where B cells are involved in inflammation). In GPA and MPA, destroying B cells lowers the production of antibodies thought to play an important role in attacking the blood vessels and causing inflammation.
 
-## What benefits of Ruxience have been shown in studies?
+### What benefits of Ruxience have been shown in studies?
 
 Laboratory studies comparing Ruxience with MabThera have shown that the active substance in Ruxience is highly similar to that in MabThera in terms of structure, purity and biological activity. Studies have also shown that giving Ruxience produces similar levels of the active substance in the body to giving MabThera.
 
@@ -90,7 +84,7 @@ In addition, Ruxience was as effective as MabThera in a study in 394 patients wi
 
 Because Ruxience is a biosimilar medicine, the studies on effectiveness and safety of rituximab carried out with MabThera do not all need to be repeated for Ruxience.
 
-## What are the risks associated with Ruxience?
+### What are the risks associated with Ruxience?
 
 The safety of Ruxience has been evaluated, and on the basis of all the studies carried out the side effects of the medicine are considered to be comparable to those of the reference medicine MabThera.
 
@@ -100,13 +94,13 @@ Ruxience must not be used in people who are hypersensitive (allergic) to rituxim
 
 For the full list of side effects and restrictions of Ruxience, see the package leaflet.
 
-## Why is Ruxience authorised in the EU?
+### Why is Ruxience authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Ruxience has a highly similar structure, purity and biological activity to MabThera and is distributed in the body in the same way. In addition, a study in follicular lymphoma has shown that the safety and effectiveness of Ruxience are equivalent to those of MabThera.
 
 All these data were considered sufficient to conclude that Ruxience will behave in the same way as MabThera in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for MabThera, the benefits of Ruxience outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Ruxience?
+### What measures are being taken to ensure the safe and effective use of Ruxience?
 
 The company marketing Ruxience will provide doctors with additional information about giving the medicine correctly. It will also provide doctors and patients using the medicine for rheumatoid arthritis, GPA, MPA or pemphigus with educational material on the risk of infection including that of a rare severe infection, progressive multifocal leukoencephalopathy (PML). These patients are also to receive an alert card, which they are to carry at all times, instructing them to contact their doctor immediately if they have symptoms of infection.
 
@@ -114,7 +108,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Ruxience are continuously monitored. Side effects reported with Ruxience are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Ruxience
+### Other information about Ruxience
 
 Ruxience received a marketing authorisation valid throughout the EU on 1 April 2020.
 
@@ -124,275 +118,141 @@ Reference Number: EMA/143842/2020
 
 English (EN) (147.29 KB - PDF)
 
-**First published:** 07/04/2020
-
-**Last updated:** 21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/en/documents/overview/ruxience-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-505)
+[Other languages (22)](#file-language-dropdown-885)
 
 български (BG) (168.5 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/bg/documents/overview/ruxience-epar-medicine-overview_bg.pdf)
 
 español (ES) (142.16 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/es/documents/overview/ruxience-epar-medicine-overview_es.pdf)
 
 čeština (CS) (167.3 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/cs/documents/overview/ruxience-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (141.38 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/da/documents/overview/ruxience-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (145.23 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/de/documents/overview/ruxience-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (129.85 KB - PDF)
+eesti (ET) (129.85 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/et/documents/overview/ruxience-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (169.97 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/el/documents/overview/ruxience-epar-medicine-overview_el.pdf)
 
 français (FR) (143.21 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/fr/documents/overview/ruxience-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (165.99 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/hr/documents/overview/ruxience-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (141.2 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/it/documents/overview/ruxience-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (173.9 KB - PDF)
+latviešu (LV) (173.9 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/lv/documents/overview/ruxience-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (166.13 KB - PDF)
+lietuvių (LT) (166.13 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/lt/documents/overview/ruxience-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (167 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/hu/documents/overview/ruxience-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (167.75 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/mt/documents/overview/ruxience-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (141.94 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/nl/documents/overview/ruxience-epar-medicine-overview_nl.pdf)
 
 polski (PL) (166.67 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/pl/documents/overview/ruxience-epar-medicine-overview_pl.pdf)
 
 português (PT) (171.31 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/pt/documents/overview/ruxience-epar-medicine-overview_pt.pdf)
 
 română (RO) (164.15 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/ro/documents/overview/ruxience-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (166.32 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/sk/documents/overview/ruxience-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (164.19 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/sl/documents/overview/ruxience-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (139.77 KB - PDF)
+suomi (FI) (139.77 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/fi/documents/overview/ruxience-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (139.76 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-21/03/2022
+**First published:** 07/04/2020 **Last updated:** 21/03/2022
 
 [View](/sv/documents/overview/ruxience-epar-medicine-overview_sv.pdf)
 
@@ -400,9 +260,7 @@ Ruxience : EPAR - Risk management plan
 
 English (EN) (912.12 KB - PDF)
 
-**First published:** 07/04/2020
-
-**Last updated:** 14/07/2025
+**First published:** 07/04/2020 **Last updated:** 14/07/2025
 
 [View](/en/documents/rmp/ruxience-epar-risk-management-plan_en.pdf)
 
@@ -410,311 +268,168 @@ English (EN) (912.12 KB - PDF)
 
 Ruxience : EPAR - Product information
 
-English (EN) (886.95 KB - PDF)
+English (EN) (847.91 KB - PDF)
 
-**First published:** 07/04/2020
-
-**Last updated:** 14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/en/documents/product-information/ruxience-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-236)
+[Other languages (24)](#file-language-dropdown-542)
 
-български (BG) (840.34 KB - PDF)
+български (BG) (892.85 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/bg/documents/product-information/ruxience-epar-product-information_bg.pdf)
 
-español (ES) (786.89 KB - PDF)
+español (ES) (783.58 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/es/documents/product-information/ruxience-epar-product-information_es.pdf)
 
-čeština (CS) (1.05 MB - PDF)
+čeština (CS) (1.02 MB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/cs/documents/product-information/ruxience-epar-product-information_cs.pdf)
 
-dansk (DA) (702.79 KB - PDF)
+dansk (DA) (805.7 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/da/documents/product-information/ruxience-epar-product-information_da.pdf)
 
-Deutsch (DE) (894.45 KB - PDF)
+Deutsch (DE) (862.21 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-22/10/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/de/documents/product-information/ruxience-epar-product-information_de.pdf)
 
-eesti keel (ET) (963.53 KB - PDF)
+eesti (ET) (755.91 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/et/documents/product-information/ruxience-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1014.37 KB - PDF)
+ελληνικά (EL) (980.78 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/el/documents/product-information/ruxience-epar-product-information_el.pdf)
 
-français (FR) (1.04 MB - PDF)
+français (FR) (1.01 MB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/fr/documents/product-information/ruxience-epar-product-information_fr.pdf)
 
-hrvatski (HR) (889.27 KB - PDF)
+hrvatski (HR) (795.4 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/hr/documents/product-information/ruxience-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.08 MB - PDF)
+italiano (IT) (844.3 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
-
-[View](/is/documents/product-information/ruxience-epar-product-information_is.pdf)
-
-italiano (IT) (1.02 MB - PDF)
-
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/it/documents/product-information/ruxience-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (891.66 KB - PDF)
+latviešu (LV) (973.35 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/lv/documents/product-information/ruxience-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (942.1 KB - PDF)
+lietuvių (LT) (1009.72 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/lt/documents/product-information/ruxience-epar-product-information_lt.pdf)
 
-magyar (HU) (975.29 KB - PDF)
+magyar (HU) (917.74 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/hu/documents/product-information/ruxience-epar-product-information_hu.pdf)
 
-Malti (MT) (733.83 KB - PDF)
+Malti (MT) (890.48 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/mt/documents/product-information/ruxience-epar-product-information_mt.pdf)
 
-Nederlands (NL) (671.18 KB - PDF)
+Nederlands (NL) (793.39 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-16/09/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/nl/documents/product-information/ruxience-epar-product-information_nl.pdf)
 
-norsk (NO) (795.07 KB - PDF)
+polski (PL) (901.63 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
-
-[View](/no/documents/product-information/ruxience-epar-product-information_no.pdf)
-
-polski (PL) (948.48 KB - PDF)
-
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/pl/documents/product-information/ruxience-epar-product-information_pl.pdf)
 
-português (PT) (869.52 KB - PDF)
+português (PT) (779.38 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/pt/documents/product-information/ruxience-epar-product-information_pt.pdf)
 
-română (RO) (920.08 KB - PDF)
+română (RO) (916.81 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/ro/documents/product-information/ruxience-epar-product-information_ro.pdf)
 
-slovenčina (SK) (924.84 KB - PDF)
+slovenčina (SK) (882.88 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/sk/documents/product-information/ruxience-epar-product-information_sk.pdf)
 
-slovenščina (SL) (820.08 KB - PDF)
+slovenščina (SL) (917.98 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/sl/documents/product-information/ruxience-epar-product-information_sl.pdf)
 
-Suomi (FI) (759.04 KB - PDF)
+suomi (FI) (840.91 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/fi/documents/product-information/ruxience-epar-product-information_fi.pdf)
 
-svenska (SV) (956.76 KB - PDF)
+svenska (SV) (844.19 KB - PDF)
 
-**First published:**
-
-07/04/2020
-
-**Last updated:**
-
-14/07/2025
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
 
 [View](/sv/documents/product-information/ruxience-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000263188 11/07/2025
+Íslenska (IS) (741.03 KB - PDF)
+
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
+
+[View](/is/documents/product-information/ruxience-epar-product-information_is.pdf)
+
+norsk (NO) (897.02 KB - PDF)
+
+**First published:** 07/04/2020 **Last updated:** 06/10/2026
+
+[View](/no/documents/product-information/ruxience-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000372519
+
+05/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -732,210 +447,167 @@ English (EN) (24.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-814)
+[Other languages (24)](#file-language-dropdown-598)
 
 български (BG) (28.31 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/bg/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (24.95 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/es/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (26.76 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/cs/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (27.3 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/da/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (27.38 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/de/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (24.29 KB - PDF)
+eesti (ET) (24.29 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/et/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (26.99 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/el/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (25.42 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/fr/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (25.82 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/hr/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (26.28 KB - PDF)
-
-**First published:**
-
-07/04/2020
-
-[View](/is/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (25.12 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/it/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (26.59 KB - PDF)
+latviešu (LV) (26.59 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/lv/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (25.98 KB - PDF)
+lietuvių (LT) (25.98 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/lt/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (25.79 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/hu/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (27.18 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/mt/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (25.2 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/nl/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (26.8 KB - PDF)
-
-**First published:**
-
-07/04/2020
-
-[View](/no/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (27.64 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/pl/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (26.19 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/pt/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (25.51 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/ro/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (26.44 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/sk/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (25.58 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/sl/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (24.72 KB - PDF)
+suomi (FI) (24.72 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/fi/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (25.08 KB - PDF)
 
-**First published:**
-
-07/04/2020
+**First published:** 07/04/2020
 
 [View](/sv/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (26.28 KB - PDF)
+
+**First published:** 07/04/2020
+
+[View](/is/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (26.8 KB - PDF)
+
+**First published:** 07/04/2020
+
+[View](/no/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Ruxience Active substance rituximab International non-proprietary name (INN) or common name rituximab Therapeutic area (MeSH)
-
-- Leukemia, Lymphocytic, Chronic, B-Cell
-- Arthritis, Rheumatoid
-- Microscopic Polyangiitis
-- Pemphigus
-
-Anatomical therapeutic chemical (ATC) code L01XC02
+- **Name of medicine**
+    - Ruxience
+- **Active substance**
+    - rituximab
+- **International non-proprietary name (INN) or common name**
+    - rituximab
+- **Therapeutic area (MeSH)**
+        - Leukemia, Lymphocytic, Chronic, B-Cell
+        - Arthritis, Rheumatoid
+        - Microscopic Polyangiitis
+        - Pemphigus
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01XC02
 
 ### Pharmacotherapeutic group
 
@@ -975,23 +647,20 @@ Ruxience is indicated for the treatment of patients with moderate to severe pemp
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004696
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-Opinion adopted 30/01/2020 Marketing authorisation issued 01/04/2020 Revision 13
+- **EMA product number**
+    - EMEA/H/C/004696
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Pfizer Europe MA EEIG Boulevard de la Plaine 17  1050 Bruxelles  Belgium
+- **Opinion adopted**
+    - 30/01/2020
+- **Marketing authorisation issued**
+    - 01/04/2020
+- **Revision**
+    - 14
 
 ## Assessment history
 
@@ -999,15 +668,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ruxience : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.34 KB - PDF)
+English (EN) (160.18 KB - PDF)
 
-**First published:** 13/02/2025
-
-**Last updated:** 14/07/2025
+**First published:** 13/02/2025 **Last updated:** 06/10/2026
 
 [View](/en/documents/procedural-steps-after/ruxience-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1015,23 +682,19 @@ Ruxience : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (115.19 KB - PDF)
 
-**First published:** 24/08/2020
-
-**Last updated:** 13/02/2025
+**First published:** 24/08/2020 **Last updated:** 13/02/2025
 
 [View](/en/documents/procedural-steps-after/ruxience-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Ruxience-H-C-PSUSA-00002652-202211 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
-Adopted
-
-Reference Number: EMA/540498/2023
+Adopted Reference Number: EMA/540498/2023
 
 English (EN) (130.64 KB - PDF)
 
 **First published:** 29/11/2023
 
-[View](/en/documents/scientific-conclusion/ruxience-h-c-psusa-00002652-202211-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/ruxience-h-c-psusa-00002652-202211-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Ruxience-H-C-PSUSA-00002652-202111 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
@@ -1041,27 +704,23 @@ English (EN) (117.16 KB - PDF)
 
 **First published:** 31/08/2022
 
-[View](/en/documents/scientific-discussion-variation/ruxience-h-c-psusa-00002652-202111-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-discussion-variation/ruxience-h-c-psusa-00002652-202111-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Ruxience-H-C-PSUSA-2652-202011 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/403185/2021
+Adopted Reference Number: EMA/403185/2021
 
 English (EN) (122.93 KB - PDF)
 
 **First published:** 13/09/2021
 
-[View](/en/documents/scientific-conclusion/ruxience-h-c-psusa-2652-202011-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/ruxience-h-c-psusa-2652-202011-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ruxience : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/155201/2020
+Adopted Reference Number: EMA/CHMP/155201/2020
 
 English (EN) (2.11 MB - PDF)
 
@@ -1071,9 +730,7 @@ English (EN) (2.11 MB - PDF)
 
 CHMP summary of positive opinion for Ruxience
 
-Adopted
-
-Reference Number: EMA/CHMP/28049/2020
+Adopted Reference Number: EMA/CHMP/28049/2020
 
 English (EN) (155.22 KB - PDF)
 
@@ -1081,27 +738,20 @@ English (EN) (155.22 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-ruxience_en.pdf)
 
-#### News on Ruxience
+## News on Ruxience
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2020) 31/01/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2020)
 
-#### Related content
+31/01/2020
 
-- [Biosimilar medicines: Overview](/en/human-regulatory-overview/biosimilar-medicines-overview)
-
-#### More information on Ruxience
+## More information on Ruxience
 
 - [An Active Surveillance, Post Authorization Safety Study (PASS) to Estimate Incidence Rates of Serious Infection, Malignancy, Cardiovascular (CV) and Other Safety Events of Interest among all Patients Treated with Ruxience for Rheumatoid Arthritis (RA) within the German Registry Rheumatoide Arthritis: Beobachtung der Biologika Therapie (RABBIT) - post-authorisation study](https://catalogues.ema.europa.eu/study/41900)
 - [An Active Surveillance, Post Authorization Safety Study (PASS) to Estimate Incidence Rates of Serious Infection, Malignancy, Cardiovascular (CV) and Other Safety Events of Interest among all Patients Treated with Ruxience for Rheumatoid Arthritis (RA) within the Swedish, Population based, Anti Rheumatic Treatment in Sweden (ARTIS) Register - post-authorisation study](https://catalogues.ema.europa.eu/study/41897)
 - [An Active Surveillance, Post Authorization Safety Study (PASS) to Estimate Incidence Rates of Serious Infection, Malignancy, Cardiovascular (CV) and Other Safety Events of Interest among all Patients Treated with Ruxience for Rheumatoid Arthritis (RA) within the British Society for Rheumatology Biologics Register Rheumatoid Arthritis (BSRBR RA) - post-authorisation study](https://catalogues.ema.europa.eu/study/41909)
 
-#### Topics
+**This page was last updated on**
 
-- [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 14/07/2025
+06/10/2026
 
 ## Share this page
-
-[Back to top](#main-content)

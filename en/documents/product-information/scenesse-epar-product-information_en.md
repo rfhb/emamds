@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-21 11:21:52
+document_datetime: 2026-10-07 11:11:34
 document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/scenesse-epar-product-information_en.pdf
 document_name: scenesse-epar-product-information_en.pdf
 version: success
-processing_time: 4.9267052
-conversion_datetime: 2025-12-30 09:20:42.781914
+processing_time: 12.3704731
+conversion_datetime: 2026-10-10 12:19:13.135765
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,7 +56,7 @@ One implant is administered every 2 months prior to expected and during increase
 
 ## Special populations
 
-For patients with renal or hepatic impairment see sections 4.3 and  5.2.
+For patients with renal or hepatic impairment see sections 4.3 and 5.2.
 
 ## Elderly population
 
@@ -64,7 +64,9 @@ Due to limited data in treatment of elderly patients, the use of afamelanotide i
 
 ## Paediatric population
 
-The safety and efficacy of afamelanotide in children and adolescents aged to 17 years have not yet been established. No data are available.
+The safety and efficacy of afamelanotide in children and adolescents aged to 17 years have not yet been established.
+
+No data are available.
 
 ## Method of administration
 
@@ -74,43 +76,41 @@ For subcutaneous use.
 
 ## Instruction for use
 
-- -Take the packed implant out of the refrigerator and allow the medicinal product to warm up to ambient temperature.
-- -Have the patient sit in a comfortable position or lie on his/her back with the upper part of the body slightly raised.
-- -Disinfect the skin above the supra-iliac crest.
-- -Anaesthetise the insertion area if deemed necessary and in consultation with the patient.
-- -Select a 14 gauge (1.6 mm inner diameter) catheter with needle.
-- -Mark 1.5 to 2 cm on the catheter shaft using surgical ink.
-- -Hold the catheter at its base using a sterile technique, pinch and hold the skinfold cranial to, or overlying the patient's supra-iliac crest with two fingers.
-- -With the bevel of the needle facing upwards, insert the catheter laterally 1.5 to 2 cm into the subcutaneous layer at a 30 to 45 degree angle to the skin surface in one continuous flowing movement.
-- -With the catheter in place, aseptically remove the implant from the vial.
-- -Remove the needle from within the catheter using a sterile technique.
-- -Transfer the implant to the outlet of the catheter.
-- -Using a suitable device (such as a stylet) gently push the implant down the full length of the catheter lumen.
-- -Apply some pressure to the insertion area with your finger while removing the stylet and the catheter.
-- -Confirm insertion of the implant by palpating the skin with subcutis cranial to/overlying the suprailiac crest until the implant is located. Always verify the presence of the implant, if in doubt of its presence, check whether the implant has remained in the catheter. If the implant has not been administered during the procedural steps described above, discard the implant and administer a new implant. Do not administer a new implant unless it has been unequivocally confirmed that the first one had not been inserted.
-- -Apply a small pressure dressing to the injection site.
-- -Observe the patient for 30 minutes to ensure that you will notice if the patient develops an allergic or hypersensitivity reaction (immediate type).
+- Take the packed implant out of the refrigerator and allow the medicinal product to warm up to ambient temperature.
+- Have the patient sit in a comfortable position or lie on his/her back with the upper part of the body slightly raised.
+- Disinfect the skin above the supra-iliac crest.
+- Anaesthetise the insertion area if deemed necessary and in consultation with the patient.
+- Select a 14 gauge (1.6 mm inner diameter) catheter with needle.
+- Mark 1.5 to 2 cm on the catheter shaft using surgical ink.
+- Hold the catheter at its base using a sterile technique, pinch and hold the skinfold cranial to, or overlying the patient's supra-iliac crest with two fingers.
+- With the bevel of the needle facing upwards, insert the catheter laterally 1.5 to 2 cm into the subcutaneous layer at a 30 to 45 degree angle to the skin surface in one continuous flowing movement.
+- With the catheter in place, aseptically remove the implant from the vial.
+- Remove the needle from within the catheter using a sterile technique.
+- Transfer the implant to the outlet of the catheter.
+- Using a suitable device (such as a stylet) gently push the implant down the full length of the catheter lumen.
+- Apply some pressure to the insertion area with your finger while removing the stylet and the catheter.
+- Confirm insertion of the implant by palpating the skin with subcutis cranial to/overlying the suprailiac crest until the implant is located. Always verify the presence of the implant, if in doubt of its presence, check whether the implant has remained in the catheter. If the implant has not been administered during the procedural steps described above, discard the implant and administer a new implant. Do not administer a new implant unless it has been unequivocally confirmed that the first one had not been inserted.
+- Apply a small pressure dressing to the injection site.
+- Observe the patient for 30 minutes to ensure that you will notice if the patient develops an allergic or hypersensitivity reaction (immediate type).
 
 The implant can be surgically removed if needed.
 
 ## 4.3 Contraindications
 
-- -Hypersensitivity to the active substance or to any of the excipients listed in section 6.1
-- -Presence of severe hepatic disease
-- -Hepatic impairment (see section 5.2)
-- -Renal impairment (see section 5.2)
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1
+- Presence of severe hepatic disease
+- Hepatic impairment (see section 5.2)
+- Renal impairment (see section 5.2)
 
 ## 4.4 Special warnings and precautions for use
 
 ## Hypersensitivity
 
-Uncommon occurrences of hypersensitivity reactions, including anaphylaxis, have been reported following administration of SCENESSE. Appropriate medical support measures should be readily available when SCENESSE is administered. If a serious hypersensitivity reaction occurs, appropriate medical treatment should be initiated, the implant should be removed if needed and further treatment with SCENESSE should be discontinued (see section 4.8) .
+Uncommon occurrences of hypersensitivity reactions, including anaphylaxis, have been reported following administration of SCENESSE. Appropriate medical support measures should be readily available when SCENESSE is administered. If a serious hypersensitivity reaction occurs, appropriate medical treatment should be initiated, the implant should be removed if needed and further treatment with SCENESSE should be discontinued (see section 4.8).
 
-## Concomitant disorders not studied
+Concomitant disorders not studied Clinically significant disorders of the gastrointestinal, cardiovascular, respiratory, endocrine (including diabetes, Cushing's disease, Addison's disease, Peutz-Jeghers syndrome), neurological (including seizures) and haematological (especially anaemia) systems have not been evaluated. A careful decision must be made whether to treat patients with any of these conditions with this medicinal product. If such patients are treated they must be monitored after each implant administration, including vital signs, routine haematology, and biochemistry.
 
 <div style=\"page-break-after: always\"></div>
-
-Clinically significant disorders of the gastrointestinal, cardiovascular, respiratory, endocrine (including diabetes, Cushing's disease, Addison's disease, Peutz-Jeghers syndrome), neurological (including seizures) and haematological (especially anaemia) systems have not been evaluated. A careful decision must be made whether to treat patients with any of these conditions with this medicinal product. If such patients are treated they must be monitored after each implant administration, including vital signs, routine haematology, and biochemistry.
 
 ## Sun protection
 
@@ -124,16 +124,16 @@ If the skin changes noted are consistent with skin cancer or its precursors, or 
 
 The two total full body skin examinations per year are intended to:
 
-- -detect early any skin cancers and their precursors induced by UV-exposure, as EPP patients can be expected to significantly increase their exposure to sunlight and UV light while on treatment with afamelanotide. EPP patients with fair skin may be more likely to request treatment and are more prone to developing UV light-associated skin changes, including cancer;
-- -detect and monitor changes in pigmentary lesions, thus allowing early detection of melanoma.
+- detect early any skin cancers and their precursors induced by UV-exposure, as EPP patients can be expected to significantly increase their exposure to sunlight and UV light while on treatment with afamelanotide. EPP patients with fair skin may be more likely to request treatment and are more prone to developing UV light-associated skin changes, including cancer;
+- detect and monitor changes in pigmentary lesions, thus allowing early detection of melanoma.
 
 Special caution is warranted in patients with an
 
-- -individual or family history of melanoma (inclusive of in-situ melanoma, e.g. lentigo maligna) or suspected or confirmed susceptibility to cutaneous melanoma (CMM1, MIM #155600, synonyms: familial atypical mole-malignant melanoma syndrome, FAMMM; dysplastic naevus syndrome, DNS; B-K mole syndrome; CMM2 MIM #155601)
+- individual or family history of melanoma (inclusive of in-situ melanoma, e.g. lentigo maligna) or suspected or confirmed susceptibility to cutaneous melanoma (CMM1, MIM #155600, synonyms: familial atypical mole-malignant melanoma syndrome, FAMMM; dysplastic naevus syndrome, DNS; B-K mole syndrome; CMM2 MIM #155601)
 
 and/or an
 
-- -individual history of basal cell carcinoma, squamous cell carcinoma (inclusive of carcinoma in situ , e.g. Bowen's disease), Merkel cell carcinoma, or other malignant or premalignant skin lesions.
+- individual history of basal cell carcinoma, squamous cell carcinoma (inclusive of carcinoma in situ, e.g. Bowen's disease), Merkel cell carcinoma, or other malignant or premalignant skin lesions.
 
 ## Long-term use
 
@@ -185,7 +185,9 @@ Afamelanotide has moderate influence on the ability to drive and use machines, e
 
 ## Summary of the safety profile
 
-The safety profile is based on pooled data from clinical studies in 425 patients. The most commonly reported adverse reactions are nausea, experienced by approximately 19% of subjects who received treatment with this medicinal product, headache (20%), and implant site reactions (21%; mainly discolouration, pain, haematoma, erythema). In most cases these adverse reactions are reported to be mild in severity.
+The safety profile is based on pooled data from clinical studies in 425 patients.
+
+The most commonly reported adverse reactions are nausea, experienced by approximately 19% of subjects who received treatment with this medicinal product, headache (20%), and implant site reactions (21%; mainly discolouration, pain, haematoma, erythema). In most cases these adverse reactions are reported to be mild in severity.
 
 Uncommon occurrences of hypersensitivity reactions, including anaphylaxis, have been reported in association with SCENESSE treatment (see section 4.4).
 
@@ -195,7 +197,7 @@ The adverse reactions reported during clinical studies conducted with afamelanot
 
 <div style=\"page-break-after: always\"></div>
 
-Frequencies are defined as: very common ( ≥1/1 0), common (≥1/100 to &lt;1/10), uncommon (≥1/ 1,000 to &lt;1/100), and rare (≥ 1/10,000 to &lt;1/1,000).
+Frequencies are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), and rare (≥1/10,000 to &lt;1/1,000).
 
 | System Organ Class                                                  | Very common   | Common                                                                     | Uncommon                                                                                                                                                                         | Rare                                                                                                              |
 |---------------------------------------------------------------------|---------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -215,12 +217,12 @@ Frequencies are defined as: very common ( ≥1/1 0), common (≥1/100 to &lt;1/1
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Very common   | Common                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                             | Rare                                           |
-|------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| Skin and subcutaneous tissue disorders               |               | Ephelides Erythema Pigmentation disorder Pruritus Rash including rash vesicular, rash erythematous, rash papular and rash pruritic                                                                                                                                                                                                                                                                                                                | Uncommon Acne Dermatitis contact Dry skin Eczema Hair colour changes Hyperhidrosis Nail pigmentation Papule Photosensitivity reaction Pigmentation lip Post inflammatory pigmentation change Pruritus generalised Skin burning sensation Skin discolouration Skin exfoliation Skin hyperpigmentation Skin hypopigmentation Skin irritation Skin lesion Seborrhoea Urticaria | Lichen planus Vitiligo                         |
-| Musculoskeletal and connective tissue disorders      |               | Musculoskeletal pain including back pain, arthralgia, pain in extremity and groin                                                                                                                                                                                                                                                                                                                                                                 | Joint stiffnes Muscle spasm Musculoskeletal stiffness Muscular weakness                                                                                                                                                                                                                                                                                                     | Limb discomfort                                |
-| Reproductive system and breast disorders             |               | pain                                                                                                                                                                                                                                                                                                                                                                                                                                              | Breast tenderness Dysmenorrhoea Menstruation irregular                                                                                                                                                                                                                                                                                                                      | Libido decreased Menorrhagia Vaginal discharge |
-| General disorders and administration site conditions |               | Asthenia Fatigue Implant site disorders including implant site bruising, implant site discolouration, implant site erythema, implant site haematoma, implant site haemorrhage, implant site hypersensitivity, implant site hypertrophy, implant site induration, implant site irritation, implant site mass, implant site oedema, implant site pain, implant site pruritus, implant site reaction, implant site swelling, implant site urticaria, | Chills Feeling hot Hangover Malaise Oedema peripheral Oedema mucosal                                                                                                                                                                                                                                                                                                        |                                                |
+| System Organ Class                                   | Very common   | Common                                                                                                                                                                                                                                                                                                                                                                                                                                            | Uncommon                                                                                                                                                                                                                                                                                                                                                           | Rare                                           |
+|------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Skin and subcutaneous tissue disorders               |               | Ephelides Erythema Pigmentation disorder Pruritus Rash including rash vesicular, rash erythematous, rash papular and rash pruritic                                                                                                                                                                                                                                                                                                                | Acne Dermatitis contact Dry skin Eczema Hair colour changes Hyperhidrosis Nail pigmentation Papule Photosensitivity reaction Pigmentation lip Post inflammatory pigmentation change Pruritus generalised Skin burning sensation Skin discolouration Skin exfoliation Skin hyperpigmentation Skin hypopigmentation Skin irritation Skin lesion Seborrhoea Urticaria | Lichen planus Vitiligo                         |
+| Musculoskeletal and connective tissue disorders      |               | Musculoskeletal pain including back pain, arthralgia, pain in extremity and groin                                                                                                                                                                                                                                                                                                                                                                 | Joint stiffnes Muscle spasm Musculoskeletal stiffness Muscular weakness                                                                                                                                                                                                                                                                                            | Limb discomfort                                |
+| Reproductive system and breast disorders             |               | pain                                                                                                                                                                                                                                                                                                                                                                                                                                              | Breast tenderness Dysmenorrhoea Menstruation irregular                                                                                                                                                                                                                                                                                                             | Libido decreased Menorrhagia Vaginal discharge |
+| General disorders and administration site conditions |               | Asthenia Fatigue Implant site disorders including implant site bruising, implant site discolouration, implant site erythema, implant site haematoma, implant site haemorrhage, implant site hypersensitivity, implant site hypertrophy, implant site induration, implant site irritation, implant site mass, implant site oedema, implant site pain, implant site pruritus, implant site reaction, implant site swelling, implant site urticaria, | Chills Feeling hot Hangover Malaise Oedema peripheral Oedema mucosal                                                                                                                                                                                                                                                                                               |                                                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -249,15 +251,15 @@ Pharmacotherapeutic group: Emollients and protectives, protectives against UV-ra
 
 <div style=\"page-break-after: always\"></div>
 
-Afamelanotide is a synthetic tridecapeptide and a structural analogue of α -melanocyte stimulating hormone (α -MSH). Afamelanotide is a melanocortin receptor agonist and binds predominantly to the melanocortin-1 receptor (MC1R). Its binding lasts longer than that of α -MSH. This results in part from afamelanotide's resistance to immediate degradation by serum or proteolytic enzymes (see section 5.2). It presumably undergoes hydrolysis within a short time; its metabolites' pharmacokinetics and pharmacodynamics are not understood yet.
+Afamelanotide is a synthetic tridecapeptide and a structural analogue of α-melanocyte stimulating hormone (α-MSH). Afamelanotide is a melanocortin receptor agonist and binds predominantly to the melanocortin-1 receptor (MC1R). Its binding lasts longer than that of α-MSH. This results in part from afamelanotide's resistance to immediate degradation by serum or proteolytic enzymes (see section 5.2). It presumably undergoes hydrolysis within a short time; its metabolites' pharmacokinetics and pharmacodynamics are not understood yet.
 
 Afamelanotide is thought to mimic the endogenous compound's pharmacological activity by activating the synthesis of eumelanin mediated by the MC1R receptor.
 
 Eumelanin contributes to photoprotection through different mechanisms including:
 
-- -strong broadband absorption of UV and visible light, where eumelanin acts as a filter
-- -antioxidant activity through scavenging of free radicals; and
-- -inactivation of the superoxide anion and increased availability of superoxide dismutase to reduce oxidative stress.
+- strong broadband absorption of UV and visible light, where eumelanin acts as a filter
+- antioxidant activity through scavenging of free radicals; and
+- inactivation of the superoxide anion and increased availability of superoxide dismutase to reduce oxidative stress.
 
 ## Pharmacodynamic effects
 
@@ -269,7 +271,7 @@ From the clinical development programme, there are limited data on dosing 4-6 im
 
 In the pivotal clinical trial CUV039 a total of three 16 mg SCENESSE implants were administered at a two-month interval. It has been demonstrated that EPP patients receiving afamelanotide had more exposure to direct sunlight (10:00 to 18:00 hours) during a 180 day trial period compared to placebo recipients (p=0.044; afamelanotide arithmetic mean: 115.6 h, median 69.4h; placebo mean 60.6h, median 40.8h).
 
-In the supportive study CUV029 and a Post-Authorization Safety Study (PASS), five or up to six 16 mg SCENESSE   implants were administered per year (at a two-month interval).  The observed safety profile appears similar  to that of the pivotal study CUV039.
+In the supportive study CUV029 and a Post-Authorization Safety Study (PASS), five or up to six 16 mg SCENESSE implants were administered per year (at a two-month interval). The observed safety profile appears similar to that of the pivotal study CUV039.
 
 ## Paediatric population
 
@@ -287,11 +289,9 @@ The pharmacokinetics of afamelanotide have not been fully characterised yet, i.e
 
 Half-life is approximately 30 minutes.
 
-Following subcutaneous administration of the implant, most of the active substance is released within the first 48 hours with over 90% released by day 5. Plasma levels of afamelanotide are maintained
+Following subcutaneous administration of the implant, most of the active substance is released within the first 48 hours with over 90% released by day 5. Plasma levels of afamelanotide are maintained over a number of days. In most clinical studies afamelanotide plasma levels were below the limit of quantitation by day 10. The implant is absorbed by the body within 50 to 60 days after administration.
 
 <div style=\"page-break-after: always\"></div>
-
-over a number of days. In most clinical studies afamelanotide plasma levels were below the limit of quantitation by day 10. The implant is absorbed by the body within 50 to 60 days after administration.
 
 Data on possible interactions or effects in special populations, e.g. in patients with hepatic or renal impairment are not available.
 
@@ -319,11 +319,11 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-4 years.
+54 months.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ˚C -8˚C )
+Store in a refrigerator (2˚C - 8˚C)
 
 ## 6.5 Nature and contents of container
 
@@ -331,13 +331,17 @@ Type I amber glass vial sealed with a PTFE coated rubber stopper. Pack of one vi
 
 ## 6.6 Special precautions for disposal and other handling
 
-For instructions on correct administration and preparation see section 4.2. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+For instructions on correct administration and preparation see section 4.2.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 <div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-CLINUVEL EUROPE LIMITED 10 Earlsfort Terrace Dublin 2 D02 T380 Ireland
+CLINUVEL EUROPE LIMITED 10 Earlsfort Terrace Dublin 2 D02 T380
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -385,9 +389,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## · Risk management plan (RMP)
 
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
-
-An updated RMP should be submitted:
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP. An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -423,9 +425,9 @@ Registry information sheet shall contain the following key messages:
 
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                  | Due date                                                                                                                                |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Disease registry Prior to launch in Member States, the MAHshall establish a disease registry to gather long term safety data and outcome endpoints in patients with EPP. The registry should collect data from both patients and physicians. | Draft protocol to be submitted 2 months after notification of the European Commission decision Intermediate reports: annual submission. |
+| Description                                                                                                                                                                                                                                   | Due date                                                                                                                                |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Disease registry Prior to launch in Member States, the MAH shall establish a disease registry to gather long term safety data and outcome endpoints in patients with EPP. The registry should collect data from both patients and physicians. | Draft protocol to be submitted 2 months after notification of the European Commission decision Intermediate reports: annual submission. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -437,17 +439,21 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 SCENESSE 16 mg implant
 
 afamelanotide
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each implant contains 16 mg afamelanotide (as acetate).
 
@@ -455,27 +461,32 @@ Each implant contains 16 mg afamelanotide (as acetate).
 
 Poly (DL-lactide-co-glycolide).
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
 1 implant
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
-Read the package leaflet before use Subcutaneous use
+Read the package leaflet before use
+
+Subcutaneous use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store in a refrigerator.
 
@@ -487,9 +498,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-CLINUVEL EUROPE LIMITED 10 Earlsfort Terrace Dublin 2 D02 T380 Ireland
+CLINUVEL EUROPE LIMITED 10 Earlsfort Terrace Dublin 2 D02 T380
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Ireland
+
+12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/14/969/001
 
@@ -497,19 +510,24 @@ EU/1/14/969/001
 
 BN
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -517,17 +535,23 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-SCENESSE 16 mg implant afamelanotide Subcutaneous use
+SCENESSE 16 mg implant afamelanotide
 
-## 2. METHOD OF ADMINISTRATION
+Subcutaneous use
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Read the package leaflet before use.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -536,11 +560,13 @@ EXP
 
 BN
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 implant
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -560,9 +586,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -575,7 +601,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What SCENESSE is and what it is used for
 
-SCENESSE contains the active substance afamelanotide (as acetate). Afamelanotide is a synthetic form of a body hormone called alpha-melanocyte stimulating hormone (α -MSH). Afamelanotide works in a way similar to the natural hormone, by making skin cells produce eumelanin which is a brown-black type of melanin pigment in the body.
+SCENESSE contains the active substance afamelanotide (as acetate). Afamelanotide is a synthetic form of a body hormone called alpha-melanocyte stimulating hormone (α-MSH). Afamelanotide works in a way similar to the natural hormone, by making skin cells produce eumelanin which is a brown-black type of melanin pigment in the body.
 
 Afamelanotide is used to increase the tolerance to sunlight in adults with a confirmed diagnosis of erythropoietic protoporphyria (EPP). EPP is a condition in which patients have an increased sensitivity to sunlight, which can cause toxic effects such as pain and burning. By increasing the amount of eumelanin, SCENESSE can help to delay the onset of pain due to skin photosensitivity (sensitive to sunlight).
 
@@ -583,28 +609,28 @@ Afamelanotide is used to increase the tolerance to sunlight in adults with a con
 
 ## Do not use SCENESSE
 
-- -if you are allergic to afamelanotide or any of the other ingredients of this medicine (listed in section 6).
-- -if you have any severe condition of the liver.
-- -if you have liver problems.
-- -if you have kidney problems.
+- if you are allergic to afamelanotide or any of the other ingredients of this medicine (listed in section 6).
+- if you have any severe condition of the liver.
+- if you have liver problems.
+- if you have kidney problems.
 
 ## Warnings and precautions
 
 Talk to your doctor before receiving SCENESSE if you have or have ever had:
 
-- -heart problems or severe breathing problems;
-- -gastrointestinal problems;
-- -diabetes;
+- heart problems or severe breathing problems;
+- gastrointestinal problems;
+- diabetes;
 
 <div style=\"page-break-after: always\"></div>
 
-- -Cushing's disease (a hormone disorder where the body produces too much of the hormone cortisol);
-- -Addison's disease (a disorder of the adrenal glands causing a lack of some hormones);
-- -Peutz-Jeghers syndrome (a disorder that causes blockage of the bowel and where your hands, soles of your feet and surface of your lips may have brown freckles);
-- -epilepsy (or have been told that you are at risk of having fits);
-- -anaemia (low counts of red blood cells in your blood);
-- -melanoma (an aggressive type of skin cancer), including in-situ melanoma, e.g. lentigo maligna; or if you have certain inherited conditions that increase the risk of developing a melanoma;
-- -skin cancer of the types, basal cell carcinoma or squamous cell carcinoma (inclusive of carcinoma in situ , e.g. Bowen's disease), Merkel cell carcinoma or other malignant or premalignant skin problems.
+- Cushing's disease (a hormone disorder where the body produces too much of the hormone cortisol);
+- Addison's disease (a disorder of the adrenal glands causing a lack of some hormones);
+- Peutz-Jeghers syndrome (a disorder that causes blockage of the bowel and where your hands, soles of your feet and surface of your lips may have brown freckles);
+- epilepsy (or have been told that you are at risk of having fits);
+- anaemia (low counts of red blood cells in your blood);
+- melanoma (an aggressive type of skin cancer), including in-situ melanoma, e.g. lentigo maligna; or if you have certain inherited conditions that increase the risk of developing a melanoma;
+- skin cancer of the types, basal cell carcinoma or squamous cell carcinoma (inclusive of carcinoma in situ, e.g. Bowen's disease), Merkel cell carcinoma or other malignant or premalignant skin problems.
 
 Talk to your doctor before receiving SCENESSE if you are over 70 years of age.
 
@@ -648,7 +674,7 @@ There is a risk of feeling drowsy and tired when using this medicine, especially
 
 The implant will be inserted by a doctor who has been trained in the administration procedure. The doctor will decide with you the most suitable time and the site for inserting the implant.
 
-One implant is injected every 2 months prior to expected and during increased sunlight exposure.  The number of implants per year and the overall duration of treatment is decided by your specialist physician.
+One implant is injected every 2 months prior to expected and during increased sunlight exposure. The number of implants per year and the overall duration of treatment is decided by your specialist physician.
 
 The implant is given as injection under your skin using a catheter tube and needle (subcutaneous use). Before inserting this medicine, your doctor may decide to give you a local anaesthetic to numb the area where the implant is to be inserted. The implant is inserted directly under the skin folds on your waist or abdomen in an area known as the supra-iliac crest.
 
@@ -666,55 +692,55 @@ The following side effects are considered to be:
 
 Very common (may affect more than 1 in 10 people):
 
-- -nausea (feeling sick),
-- -headache.
+- nausea (feeling sick),
+- headache.
 
 Common (may affect up to 1 in 10 people):
 
-- -flu, upper respiratory tract infection (colds),
-- -general changes to the skin including darkening of freckles and moles,
-- -rash with small blisters, itch, rash, red rash, itchy rash,
-- -dizziness, drowsiness and migraine (severe headache),
-- -hot flushes, flushing, feeling hot and redness of the skin,
-- -abdominal (tummy) pain, toothache, diarrhoea and vomiting,
-- -pain in arms and legs, pain or weakness in muscles and bones, back pain,
+- flu, upper respiratory tract infection (colds),
+- general changes to the skin including darkening of freckles and moles,
+- rash with small blisters, itch, rash, red rash, itchy rash,
+- dizziness, drowsiness and migraine (severe headache),
+- hot flushes, flushing, feeling hot and redness of the skin,
+- abdominal (tummy) pain, toothache, diarrhoea and vomiting,
+- pain in arms and legs, pain or weakness in muscles and bones, back pain,
 
 <div style=\"page-break-after: always\"></div>
 
-- -fatigue, pain, fever, reactions at the implant site including pain, bruising, swelling, bleeding, itching and changes to the colour of overlying skin, flu-like illness, cough, blocked nose, inflamed nose and throat.
+- fatigue, pain, fever, reactions at the implant site including pain, bruising, swelling, bleeding, itching and changes to the colour of overlying skin, flu-like illness, cough, blocked nose, inflamed nose and throat.
 
 Uncommon (may affect up to 1 in 100 people):
 
-- -urinary tract infection, infected hair follicle, infection in stomach and intestines,
-- -hypersensitivity and severe allergic reaction including anaphylaxis (signs may include: a rash, swallowing or breathing problems, swelling of your lips, face, throat or tongue)
-- -decreased or increased appetite,
-- -depressed mood including depression, inability to sleep, poor quality sleep,
-- -fainting, fainting sensation, weakness, inability to get legs comfortable, disturbance of balance,
-- -dry eye, eye pain, red eyes, difficulty focusing on objects, sensitivity in eyes to light, ringing in ears,
-- -palpitations, bruising, bleeding, hight blood pressure,
-- -blocked sinuses,
-- -inflamed stomach and intestines, heartburn, irritable bowel syndrome, wind, lip swelling, reduce sense of touch in the mouth, gum pain,
-- -acne, eczema, red swelling on skin, dry skin, hair colour changes, excessive sweating, pigmentation in nails, colouration on lip, skin peeling, skin burning sensation, changes to the colour of the skin including loss of colour, oily skin, hives,
-- -joint stiffness, stiffness of muscle and bones, sudden muscle contraction, sore muscle,
-- -breast tenderness, irregular period, painful period,
-- -chills, feeling hot, hangover, malaise, swelling in legs or hands,
-- -abnormal liver function tests, decreased iron binding, increased sugar level, decreased blood iron level, blood in urine,
-- -fall and wound,
-- -device expulsion.
+- urinary tract infection, infected hair follicle, infection in stomach and intestines,
+- hypersensitivity and severe allergic reaction including anaphylaxis (signs may include: a rash, swallowing or breathing problems, swelling of your lips, face, throat or tongue)
+- decreased or increased appetite,
+- depressed mood including depression, inability to sleep, poor quality sleep,
+- fainting, fainting sensation, weakness, inability to get legs comfortable, disturbance of balance,
+- dry eye, eye pain, red eyes, difficulty focusing on objects, sensitivity in eyes to light, ringing in ears,
+- palpitations, bruising, bleeding, hight blood pressure,
+- blocked sinuses,
+- inflamed stomach and intestines, heartburn, irritable bowel syndrome, wind, lip swelling, reduce sense of touch in the mouth, gum pain,
+- acne, eczema, red swelling on skin, dry skin, hair colour changes, excessive sweating, pigmentation in nails, colouration on lip, skin peeling, skin burning sensation, changes to the colour of the skin including loss of colour, oily skin, hives,
+- joint stiffness, stiffness of muscle and bones, sudden muscle contraction, sore muscle,
+- breast tenderness, irregular period, painful period,
+- chills, feeling hot, hangover, malaise, swelling in legs or hands,
+- abnormal liver function tests, decreased iron binding, increased sugar level, decreased blood iron level, blood in urine,
+- fall and wound,
+- device expulsion.
 
 Rare (may affect up to 1 in 1000 people):
 
-- -fungal infection,
-- -decrease white blood cells,
-- -increased cholesterol,
-- -confusion, headache following injury, abnormal taste sensation,
-- -swollen eye lids,
-- -fast heart rate,
-- -irregular bowel movements, inflamed lips, discoloured gums, lips and tongue,
-- -red or brownish nodules on the skin (called 'Lichen planus'), vitiligo,
-- -heavy prolonged period, discharge from vagina, decreased sex drive,
-- -increase in body weight,
-- -wound complication, nausea following implant insertion.
+- fungal infection,
+- decrease white blood cells,
+- increased cholesterol,
+- confusion, headache following injury, abnormal taste sensation,
+- swollen eye lids,
+- fast heart rate,
+- irregular bowel movements, inflamed lips, discoloured gums, lips and tongue,
+- red or brownish nodules on the skin (called \"Lichen planus\"), vitiligo,
+- heavy prolonged period, discharge from vagina, decreased sex drive,
+- increase in body weight,
+- wound complication, nausea following implant insertion.
 
 ## Reporting of side effects
 
@@ -736,8 +762,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What SCENESSE contains
 
-- -The active substance is afamelanotide. One implant contains 16 mg of afamelanotide (as acetate).
-- -The other ingredient is poly (D,L-lactide-co-glycolide).
+- The active substance is afamelanotide. One implant contains 16 mg of afamelanotide (as acetate).
+- The other ingredient is poly (D,L-lactide-co-glycolide).
 
 ## What SCENESSE looks like and contents of the pack
 
@@ -747,7 +773,9 @@ Pack size of one vial containing one implant.
 
 ## Marketing Authorisation Holder
 
-CLINUVEL EUROPE LIMITED 10 Earlsfort Terrace Dublin 2 D02 T380 Ireland Tel: +353 1513 4932 mail@clinuvel.com
+CLINUVEL EUROPE LIMITED 10 Earlsfort Terrace Dublin 2 D02 T380 Ireland Tel: +353 1513 4932
+
+mail@clinuvel.com
 
 ## Manufacturer
 
@@ -775,21 +803,21 @@ SCENESSE is administered subcutaneously under aseptic conditions as described be
 
 ## Instruction for use
 
-- -Take the packed implant out of the refrigerator and allow the medicinal product to warm up to ambient temperature.
-- -Have the patient sit in a comfortable position or lie on his/her back with the upper part of the body slightly raised.
-- -Disinfect the skin above the supra-iliac crest.
-- -Anaesthetize the insertion area if deemed necessary and in consultation with the patient.
-- -Select a 14 gauge (1.6 mm inner diameter) catheter with needle.
-- -Mark 1.5 to 2 cm on the catheter shaft using surgical ink.
-- -Hold the catheter at its base using a sterile technique, pinch and hold the skinfold cranial to, or overlying the patient's supra-iliac crest with two fingers.
-- -With the bevel of the needle facing upwards, insert the catheter laterally 1.5 to 2 cm into the subcutaneous layer at a 30 to 45 degree angle to the skin surface in one continuous flowing movement.
-- -With the catheter in place, aseptically remove the implant from the vial.
-- -Remove the needle from within the catheter using a sterile technique.
-- -Transfer the implant to the outlet of the catheter.
-- -Using a suitable device (such as a stylet) gently push the implant down the full length of the catheter lumen.
-- -Apply some pressure to the insertion area with your finger while removing the stylet and the catheter.
-- -Confirm insertion of the implant by palpating the skin with subcutis cranial to/overlying the suprailiac crest until the implant is located. Always verify the presence of the implant, if in doubt of its presence, check whether the implant has remained in the catheter. If the implant has not been administered during the procedural steps described above, discard the implant and administer a new implant. Do not administer a new implant unless it has been unequivocally confirmed that the first one had not been inserted.
-- -Apply a small pressure dressing to the injection site.
-- -Observe the patient for 30 minutes to ensure that you will notice if the patient develops an allergic or hypersensitivity reaction (immediate type).
+- Take the packed implant out of the refrigerator and allow the medicinal product to warm up to ambient temperature.
+- Have the patient sit in a comfortable position or lie on his/her back with the upper part of the body slightly raised.
+- Disinfect the skin above the supra-iliac crest.
+- Anaesthetize the insertion area if deemed necessary and in consultation with the patient.
+- Select a 14 gauge (1.6 mm inner diameter) catheter with needle.
+- Mark 1.5 to 2 cm on the catheter shaft using surgical ink.
+- Hold the catheter at its base using a sterile technique, pinch and hold the skinfold cranial to, or overlying the patient's supra-iliac crest with two fingers.
+- With the bevel of the needle facing upwards, insert the catheter laterally 1.5 to 2 cm into the subcutaneous layer at a 30 to 45 degree angle to the skin surface in one continuous flowing movement.
+- With the catheter in place, aseptically remove the implant from the vial.
+- Remove the needle from within the catheter using a sterile technique.
+- Transfer the implant to the outlet of the catheter.
+- Using a suitable device (such as a stylet) gently push the implant down the full length of the catheter lumen.
+- Apply some pressure to the insertion area with your finger while removing the stylet and the catheter.
+- Confirm insertion of the implant by palpating the skin with subcutis cranial to/overlying the suprailiac crest until the implant is located. Always verify the presence of the implant, if in doubt of its presence, check whether the implant has remained in the catheter. If the implant has not been administered during the procedural steps described above, discard the implant and administer a new implant. Do not administer a new implant unless it has been unequivocally confirmed that the first one had not been inserted.
+- Apply a small pressure dressing to the injection site.
+- Observe the patient for 30 minutes to ensure that you will notice if the patient develops an allergic or hypersensitivity reaction (immediate type).
 
 The implant can be surgically removed if needed.

@@ -1,24 +1,22 @@
 ---
-document_datetime: 2025-07-14 16:54:45
+document_datetime: 2026-10-06 11:43:43
 document_pages: 79
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ruxience-epar-product-information_en.pdf
 document_name: ruxience-epar-product-information_en.pdf
 version: success
-processing_time: 23.4356507
-conversion_datetime: 2025-12-24 19:07:41.591972
+processing_time: 36.4726012
+conversion_datetime: 2026-10-10 12:18:45.756399
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -34,9 +32,7 @@ Ruxience 500 mg concentrate for solution for infusion Each mL contains 10 mg of 
 
 Rituximab is a genetically engineered chimeric mouse/human monoclonal antibody representing a glycosylated immunoglobulin with human IgG1 constant regions and murine light-chain and heavy-chain variable region sequences. The antibody is produced by mammalian (Chinese hamster ovary) cell suspension culture and purified by affinity chromatography and ion exchange, including specific viral inactivation and removal procedures.
 
-## Excipient with known effect
-
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose.
+Excipient with known effect This medicinal product contains less than 1 mmol sodium (23 mg) per dose.
 
 For the full list of excipients, see section 6.1.
 
@@ -50,7 +46,7 @@ Clear to slightly opalescent, colourless to pale brownish-yellow liquid.
 
 ## 4.1 Therapeutic indications
 
-## Non-Hodgkin's lymphoma (NHL)
+Non-Hodgkin's lymphoma (NHL)
 
 Ruxience is indicated for the treatment of previously untreated adult patients with stage III-IV follicular lymphoma in combination with chemotherapy.
 
@@ -60,11 +56,9 @@ Ruxience monotherapy is indicated for treatment of adult patients with stage III
 
 Ruxience is indicated for the treatment of adult patients with CD20 positive diffuse large B-cell non-Hodgkin's lymphoma in combination with CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone) chemotherapy.
 
-Ruxience in combination with chemotherapy is indicated for the treatment of paediatric patients (aged 6 months to less than 18 years old) with previously untreated advanced stage CD20 positive diffuse large B-cell lymphoma (DLBCL), Burkitt lymphoma (BL)/Burkitt leukaemia (mature B-cell
+Ruxience in combination with chemotherapy is indicated for the treatment of paediatric patients (aged 6 months to less than 18 years old) with previously untreated advanced stage CD20 positive diffuse large B-cell lymphoma (DLBCL), Burkitt lymphoma (BL)/Burkitt leukaemia (mature B-cell acute leukaemia) (BAL) or Burkitt-like lymphoma (BLL).
 
 <div style=\"page-break-after: always\"></div>
-
-acute leukaemia) (BAL) or Burkitt-like lymphoma (BLL).
 
 ## Chronic lymphocytic leukaemia (CLL)
 
@@ -136,7 +130,7 @@ No dose reductions of Ruxience are recommended. When Ruxience is given in combin
 
 ## Combination therapy
 
-The recommended dose of Ruxience in combination with chemotherapy for induction treatment of previously untreated or relapsed/refractory patients with follicular lymphoma is: 375 mg/m 2  body surface area per cycle, for up to 8 cycles.
+The recommended dose of Ruxience in combination with chemotherapy for induction treatment of previously untreated or relapsed/refractory patients with follicular lymphoma is: 375 mg/m 2 body surface area per cycle, for up to 8 cycles.
 
 Ruxience should be administered on Day 1 of each chemotherapy cycle, after intravenous administration of the glucocorticoid component of the chemotherapy if applicable.
 
@@ -158,11 +152,11 @@ The recommended dose of Ruxience used as a maintenance treatment for patients wi
 
 The recommended dose of Ruxience monotherapy used as induction treatment for adult patients with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy is: 375 mg/m 2 body surface area, administered as an intravenous infusion once weekly for four weeks.
 
-For re-treatment with Ruxience monotherapy for patients who have responded to previous treatment with rituximab monotherapy for relapsed/refractory follicular lymphoma, the recommended dose is: 375 mg/m 2  body surface area, administered as an intravenous infusion once weekly for four weeks (see section 5.1).
+For re-treatment with Ruxience monotherapy for patients who have responded to previous treatment with rituximab monotherapy for relapsed/refractory follicular lymphoma, the recommended dose is: 375 mg/m 2 body surface area, administered as an intravenous infusion once weekly for four weeks (see section 5.1).
 
 ## Adult diffuse large B-cell non-Hodgkin's lymphoma
 
-Ruxience should be used in combination with CHOP chemotherapy. The recommended dosage is 375 mg/m 2  body surface area, administered on Day 1 of each chemotherapy cycle for 8 cycles after intravenous infusion of the glucocorticoid component of CHOP. Safety and efficacy of rituximab have not been established in combination with other chemotherapies in diffuse large B-cell non-Hodgkin's lymphoma.
+Ruxience should be used in combination with CHOP chemotherapy. The recommended dosage is 375 mg/m 2 body surface area, administered on Day 1 of each chemotherapy cycle for 8 cycles after intravenous infusion of the glucocorticoid component of CHOP. Safety and efficacy of rituximab have not been established in combination with other chemotherapies in diffuse large B-cell non-Hodgkin's lymphoma.
 
 ## Chronic lymphocytic leukaemia
 
@@ -186,7 +180,7 @@ Patients treated with Ruxience must be given the patient alert card with each in
 
 <div style=\"page-break-after: always\"></div>
 
-The recommended dosage of Ruxience for induction of remission therapy in adult patients with GPA and MPA is 375 mg/m 2  body surface area, administered as an intravenous infusion once weekly for 4 weeks (four infusions in total).
+The recommended dosage of Ruxience for induction of remission therapy in adult patients with GPA and MPA is 375 mg/m 2 body surface area, administered as an intravenous infusion once weekly for 4 weeks (four infusions in total).
 
 ## Adult maintenance treatment
 
@@ -218,7 +212,7 @@ Subsequent infusions may be administered no sooner than 16 weeks following the p
 
 ## Non-Hodgkin's lymphoma
 
-In paediatric patients from 6 months to less than 18 years of age with previously untreated, advanced stage CD20 positive DLBCL/BL/BAL/BLL, Ruxience should be used in combination with systemic Lymphome Malin B (LMB) chemotherapy (see Tables 1 and 2). The recommended dosage of Ruxience is 375 mg/m 2  BSA, administered as an IV infusion. No Ruxience dose adjustments, other than by BSA, are required.
+In paediatric patients from 6 months to less than 18 years of age with previously untreated, advanced stage CD20 positive DLBCL/BL/BAL/BLL, Ruxience should be used in combination with systemic Lymphome Malin B (LMB) chemotherapy (see Tables 1 and 2). The recommended dosage of Ruxience is 375 mg/m 2 BSA, administered as an IV infusion. No Ruxience dose adjustments, other than by BSA, are required.
 
 The safety and efficacy of rituximab in paediatric patients aged 6 months to less than 18 years of age has not been established in indications other than previously untreated advanced stage CD20 positive DLBCL/BL/BAL/BLL. Only limited data are available for patients under 3 years of age. See section 5.1 for further information.
 
@@ -247,7 +241,7 @@ Table 2 Treatment plan for non-Hodgkin's lymphoma paediatric patients: Concomita
 | Treatment Plan                                                                                                                                                                    | Patient Staging                                                                                                                                                                   | Administration details                                                                                                                                                            |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Group B                                                                                                                                                                           | Stage III with high LDH level (> N x 2), Stage IV CNS negative                                                                                                                    | Prephase followed by 4 courses: 2 induction courses (COPADM) with HDMTX 3 g/m 2 and 2 consolidation courses (CYM)                                                                 |
-| Group C                                                                                                                                                                           | Group C1: BAL CNS negative, Stage IV&BAL CNS positive and CSF negative                                                                                                            | Prephase followed by 6 courses: 2 induction courses (COPADM) with HDMTX 8 g/m 2 , 2 consolidation courses (CYVE) and 2 maintenance courses (M1 and M2)                            |
+| Group C                                                                                                                                                                           | Group C1: BAL CNS negative, Stage IV & BAL CNS positive and CSF negative                                                                                                          | Prephase followed by 6 courses: 2 induction courses (COPADM) with HDMTX 8 g/m 2 , 2 consolidation courses (CYVE) and 2 maintenance courses (M1 and M2)                            |
 | Group C                                                                                                                                                                           | Group C3: BAL CSF positive, Stage IV CSF positive                                                                                                                                 | Prephase followed by 6 courses: 2 induction courses (COPADM) with HDMTX 8 g/m 2 , 2 consolidation courses (CYVE) and 2 maintenance courses (M1 and M2)                            |
 | Consecutive courses should be given as soon as blood count recovery and patient's condition allows except for the maintenance courses which are given at 28 day intervals         | Consecutive courses should be given as soon as blood count recovery and patient's condition allows except for the maintenance courses which are given at 28 day intervals         | Consecutive courses should be given as soon as blood count recovery and patient's condition allows except for the maintenance courses which are given at 28 day intervals         |
 | BAL = Burkitt leukaemia (mature B-cell acute leukaemia); CSF = Cerebrospinal Fluid; CNS = Central Nervous System; HDMTX = High-dose Methotrexate; LDH = Lactic Acid Dehydrogenase | BAL = Burkitt leukaemia (mature B-cell acute leukaemia); CSF = Cerebrospinal Fluid; CNS = Central Nervous System; HDMTX = High-dose Methotrexate; LDH = Lactic Acid Dehydrogenase | BAL = Burkitt leukaemia (mature B-cell acute leukaemia); CSF = Cerebrospinal Fluid; CNS = Central Nervous System; HDMTX = High-dose Methotrexate; LDH = Lactic Acid Dehydrogenase |
@@ -258,7 +252,7 @@ Table 2 Treatment plan for non-Hodgkin's lymphoma paediatric patients: Concomita
 
 ## Induction of remission
 
-The recommended dosage of Ruxience for induction of remission therapy in paediatric patients with severe, active GPA or MPA is 375 mg/m 2  BSA, administered as an IV infusion once weekly for 4 weeks.
+The recommended dosage of Ruxience for induction of remission therapy in paediatric patients with severe, active GPA or MPA is 375 mg/m 2 BSA, administered as an IV infusion once weekly for 4 weeks.
 
 The safety and efficacy of rituximab in paediatric patients aged 2 to less than 18 years has not been established in indications other than severe, active GPA or MPA.
 
@@ -288,15 +282,13 @@ The recommended initial rate for infusion is 50 mg/hour; after the first 30 minu
 
 Subsequent doses of Ruxience can be infused at an initial rate of 100 mg/hour, and increased by 100 mg/hour increments at 30-minute intervals, to a maximum of 400 mg/hour.
 
-## Non-Hodgkin's lymphoma -paediatric patients
+## Non-Hodgkin's lymphoma - paediatric patients
 
 ## First infusion
 
-The recommended initial rate for infusion is 0.5 mg/kg/hour (maximum 50 mg/hour); it can be escalated by 0.5 mg/kg/hour every 30 minutes if there is no hypersensitivity or infusion-related
+The recommended initial rate for infusion is 0.5 mg/kg/hour (maximum 50 mg/hour); it can be escalated by 0.5 mg/kg/hour every 30 minutes if there is no hypersensitivity or infusion-related reactions, to a maximum of 400 mg/hour.
 
 <div style=\"page-break-after: always\"></div>
-
-reactions, to a maximum of 400 mg/hour.
 
 ## Subsequent infusions
 
@@ -388,11 +380,9 @@ Patients with a high tumour burden or with a high number (≥ 25 x 10 9 /L) of c
 
 Infusion-related adverse reactions of all kinds have been observed in 77% of patients treated with rituximab (including cytokine release syndrome accompanied by hypotension and bronchospasm in 10% of patients) (see section 4.8). These symptoms are usually reversible with interruption of rituximab infusion and administration of an anti-pyretic, an antihistaminic and occasionally oxygen, intravenous saline or bronchodilators, and glucocorticoids if required. Please see cytokine release syndrome above for severe reactions.
 
-Anaphylactic and other hypersensitivity reactions have been reported following the intravenous administration of proteins to patients. In contrast to cytokine release syndrome, true hypersensitivity reactions typically occur within minutes after starting infusion. Medicinal products for the treatment of hypersensitivity reactions, e.g. epinephrine (adrenaline), antihistamines and glucocorticoids, should be
+Anaphylactic and other hypersensitivity reactions have been reported following the intravenous administration of proteins to patients. In contrast to cytokine release syndrome, true hypersensitivity reactions typically occur within minutes after starting infusion. Medicinal products for the treatment of hypersensitivity reactions, e.g. epinephrine (adrenaline), antihistamines and glucocorticoids, should be available for immediate use in the event of an allergic reaction during administration of rituximab. Clinical manifestations of anaphylaxis may appear similar to clinical manifestations of the cytokine release syndrome (described above). Reactions attributed to hypersensitivity have been reported less frequently than those attributed to cytokine release.
 
 <div style=\"page-break-after: always\"></div>
-
-available for immediate use in the event of an allergic reaction during administration of rituximab. Clinical manifestations of anaphylaxis may appear similar to clinical manifestations of the cytokine release syndrome (described above). Reactions attributed to hypersensitivity have been reported less frequently than those attributed to cytokine release.
 
 Additional reactions reported in some cases were myocardial infarction, atrial fibrillation, pulmonary oedema and acute reversible thrombocytopenia.
 
@@ -400,7 +390,7 @@ Since hypotension may occur during rituximab administration, consideration shoul
 
 ## Haematological toxicities
 
-Although rituximab is not myelosuppressive in monotherapy, caution should be exercised when considering treatment of patients with neutrophils &lt; 1.5 x 10 9 /L and/or platelet counts &lt; 75 x 10 9 /L as clinical experience in this population is limited . Rituximab has been used in 21 patients who underwent autologous bone marrow transplantation and other risk groups with a presumable reduced bone marrow function without inducing myelotoxicity.
+Although rituximab is not myelosuppressive in monotherapy, caution should be exercised when considering treatment of patients with neutrophils &lt; 1.5 x 10 9 /L and/or platelet counts &lt; 75 x 10 9 /L as clinical experience in this population is limited. Rituximab has been used in 21 patients who underwent autologous bone marrow transplantation and other risk groups with a presumable reduced bone marrow function without inducing myelotoxicity.
 
 Regular full blood counts, including neutrophil and platelet counts, should be performed during Ruxience therapy.
 
@@ -424,23 +414,21 @@ The use of rituximab is not recommended in MTX-naïve patients since a favourabl
 
 Rituximab is associated with infusion-related reactions (IRRs), which may be related to release of cytokines and/or other chemical mediators.
 
-Severe IRRs with fatal outcome have been reported in rheumatoid arthritis patients in the post-marketing setting. In rheumatoid arthritis most infusion-related events reported in clinical trials were mild to moderate in severity. The most common symptoms were allergic reactions like headache, pruritus, throat irritation, flushing, rash, urticaria, hypertension and pyrexia. In general, the proportion of patients experiencing any infusion reaction was higher following the first infusion than following the second infusion of any treatment course. The incidence of IRR decreased with subsequent courses (see section 4.8). The reactions reported were usually reversible with a reduction in rate, or
+Severe IRRs with fatal outcome have been reported in rheumatoid arthritis patients in the post-marketing setting. In rheumatoid arthritis most infusion-related events reported in clinical trials were mild to moderate in severity. The most common symptoms were allergic reactions like headache, pruritus, throat irritation, flushing, rash, urticaria, hypertension and pyrexia. In general, the proportion of patients experiencing any infusion reaction was higher following the first infusion than following the second infusion of any treatment course. The incidence of IRR decreased with subsequent courses (see section 4.8). The reactions reported were usually reversible with a reduction in rate, or interruption, of rituximab infusion and administration of an anti-pyretic, an antihistamine, and, occasionally, oxygen, intravenous saline or bronchodilators, and glucocorticoids if required. Closely monitor patients with pre-existing cardiac conditions and those who experienced prior cardiopulmonary adverse reactions. Depending on the severity of the IRR and the required interventions, temporarily or permanently discontinue Ruxience. In most cases, the infusion can be resumed at a 50% reduction in rate (e.g. from 100 mg/hour to 50 mg/hour) when symptoms have completely resolved.
 
 <div style=\"page-break-after: always\"></div>
-
-interruption, of rituximab infusion and administration of an anti-pyretic, an antihistamine, and, occasionally, oxygen, intravenous saline or bronchodilators, and glucocorticoids if required. Closely monitor patients with pre-existing cardiac conditions and those who experienced prior cardiopulmonary adverse reactions. Depending on the severity of the IRR and the required interventions, temporarily or permanently discontinue Ruxience. In most cases, the infusion can be resumed at a 50% reduction in rate (e.g. from 100 mg/hour to 50 mg/hour) when symptoms have completely resolved.
 
 Medicinal products for the treatment of hypersensitivity reactions, e.g. epinephrine (adrenaline), antihistamines and glucocorticoids, should be available for immediate use in the event of an allergic reaction during administration of Ruxience.
 
 There are no data on the safety of rituximab in patients with moderate heart failure (NYHA class III) or severe, uncontrolled cardiovascular disease. In patients treated with rituximab, the occurrence of pre-existing ischemic cardiac conditions becoming symptomatic, such as angina pectoris, has been observed, as well as atrial fibrillation and flutter. Therefore, in patients with a known cardiac history, and those who experienced prior cardiopulmonary adverse reactions, the risk of cardiovascular complications resulting from infusion reactions should be considered before treatment with Ruxience and patients closely monitored during administration. Since hypotension may occur during rituximab infusion, consideration should be given to withholding anti-hypertensive medicinal products for 12 hours prior to the Ruxience infusion.
 
-IRRs in patients with GPA, MPA and pemphigus  vulgaris were consistent with those seen for rheumatoid arthritis patients in clinical trials and in the post-marketing setting (see section 4.8) .
+IRRs in patients with GPA, MPA and pemphigus vulgaris were consistent with those seen for rheumatoid arthritis patients in clinical trials and in the post-marketing setting (see section 4.8).
 
 ## Late neutropenia
 
 Measure blood neutrophils prior to each course of Ruxience, and regularly up to 6-months after cessation of treatment, and upon signs or symptoms of infection (see section 4.8).
 
-## Immuni s ation
+## Immunisation
 
 Physicians should review the patient's vaccination status and patients should, if possible, be brought up-to-date with all immunisations in agreement with current immunisation guidelines prior to initiating Ruxience therapy. Vaccination should be completed at least 4 weeks prior to first administration of Ruxience.
 
@@ -528,15 +516,15 @@ Other serious adverse reactions reported include hepatitis B reactivation and PM
 
 The frequencies of adverse reactions reported with rituximab alone or in combination with chemotherapy are summarised in Table 3. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in the order of decreasing seriousness.
 
-The adverse reactions identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under 'not known', see footnotes.
+The adverse reactions identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under \"not known\", see footnotes.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 3 Adverse reactions reported in clinical trials or during post-marketing surveillance in patients with NHL and CLL disease treated with rituximab monotherapy/maintenance or in combination with chemotherapy
 
-| MedDRA System Organ                  | Very Common                                                         | Common                                                                                                                                                                                       | Uncommon                                                                                                                              | Rare                                               | Very Rare                                                           | Not Known                                             |
+| MedDRA System Organ Class            | Very Common                                                         | Common                                                                                                                                                                                       | Uncommon                                                                                                                              | Rare                                               | Very Rare                                                           | Not Known                                             |
 |--------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------|
-| Class Infections and infestations    | bacterial infections, viral infections, + bronchitis                | sepsis, + pneumonia, + febrile infection, + herpes zoster, + respiratory tract infection, fungal infections, infections of unknown aetiology, + acute bronchitis, + sinusitis, hepatitis B 1 |                                                                                                                                       | serious viral infection 2 , pneumocystis jirovecii | PML                                                                 | enteroviral meningoenceph alitis 2 and 3              |
+| Infections and infestations          | bacterial infections, viral infections, + bronchitis                | sepsis, + pneumonia, + febrile infection, + herpes zoster, + respiratory tract infection, fungal infections, infections of unknown aetiology, + acute bronchitis, + sinusitis, hepatitis B 1 |                                                                                                                                       | serious viral infection 2 , pneumocystis jirovecii | PML                                                                 | enteroviral meningoenceph alitis 2 and 3              |
 | Blood and lymphatic system disorders | neutropenia, leucopenia, + febrile neutropenia, + thrombocytopen ia | anaemia, + pancytopenia, + granulocytopenia                                                                                                                                                  | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenop athy                                                         |                                                    | transient increase in serum IgM levels 4                            | late neutropenia 4                                    |
 | Immune system disorders              | infusion-related reactions 5 , angioedema                           | hypersensitivity                                                                                                                                                                             |                                                                                                                                       | anaphylaxis                                        | tumour lysis syndrome, cytokine release syndrome 5 , serum sickness | infusion-related acute reversible thrombocytope nia 5 |
 | Metabolism and nutrition disorders   |                                                                     | hyperglycaemia, weight decrease, oedema peripheral, face oedema, increased LDH, hypocalcaemia                                                                                                |                                                                                                                                       |                                                    |                                                                     |                                                       |
@@ -593,11 +581,9 @@ Localised candida infections as well as Herpes zoster were reported at a higher 
 
 ## Haematologic adverse reactions
 
-In clinical trials with rituximab monotherapy given for 4 weeks, haematological abnormalities occurred in a minority of patients and were usually mild and reversible. Severe (grade 3/4) neutropenia was reported in 4.2%, anaemia in 1.1% and thrombocytopenia in 1.7% of the patients. During rituximab maintenance treatment for up to 2 years, leucopenia (5% vs. 2%, grade 3/4) and neutropenia (10% vs. 4%, grade 3/4) were reported at a higher incidence when compared to observation. The incidence of thrombocytopenia was low (&lt; 1%, grade 3/4) and was not different between treatment arms. During the treatment course in studies with rituximab in combination with chemotherapy, grade 3/4 leucopenia (R-CHOP 88% vs. CHOP 79%, R-FC 23% vs. FC 12%), neutropenia (R-CVP 24% vs. CVP 14%; R-CHOP 97% vs. CHOP 88%, R-FC 30% vs. FC 19% in previously untreated CLL), pancytopenia (R-FC 3% vs. FC 1% in previously untreated CLL) were usually reported with higher frequencies when compared to chemotherapy alone. However, the higher incidence of neutropenia in patients treated with rituximab and chemotherapy was not associated with a higher incidence of
+In clinical trials with rituximab monotherapy given for 4 weeks, haematological abnormalities occurred in a minority of patients and were usually mild and reversible. Severe (grade 3/4) neutropenia was reported in 4.2%, anaemia in 1.1% and thrombocytopenia in 1.7% of the patients. During rituximab maintenance treatment for up to 2 years, leucopenia (5% vs. 2%, grade 3/4) and neutropenia (10% vs. 4%, grade 3/4) were reported at a higher incidence when compared to observation. The incidence of thrombocytopenia was low (&lt; 1%, grade 3/4) and was not different between treatment arms. During the treatment course in studies with rituximab in combination with chemotherapy, grade 3/4 leucopenia (R-CHOP 88% vs. CHOP 79%, R-FC 23% vs. FC 12%), neutropenia (R-CVP 24% vs. CVP 14%; R-CHOP 97% vs. CHOP 88%, R-FC 30% vs. FC 19% in previously untreated CLL), pancytopenia (R-FC 3% vs. FC 1% in previously untreated CLL) were usually reported with higher frequencies when compared to chemotherapy alone. However, the higher incidence of neutropenia in patients treated with rituximab and chemotherapy was not associated with a higher incidence of infections and infestations compared to patients treated with chemotherapy alone. Studies in previously untreated and relapsed/refractory CLL have established that in up to 25% of patients treated with R-FC neutropenia was prolonged (defined as neutrophil count remaining below 1 x 10 9 /L between Day 24 and 42 after the last dose) or occurred with a late onset (defined as neutrophil count below 1 x 10 9 /L later than 42 days after last dose in patients with no previous prolonged neutropenia or who recovered prior to Day 42) following treatment with rituximab plus FC. There were no differences reported for the incidence of anaemia. Some cases of late neutropenia occurring more than four weeks after the last infusion of rituximab were reported. In the CLL first-line study, Binet stage C patients experienced more adverse events in the R-FC arm compared to the FC arm (R-FC 83% vs. FC 71%). In the relapsed/refractory CLL study grade 3/4 thrombocytopenia was reported in 11% of patients in the R-FC group compared to 9% of patients in the FC group.
 
 <div style=\"page-break-after: always\"></div>
-
-infections and infestations compared to patients treated with chemotherapy alone. Studies in previously untreated and relapsed/refractory CLL have established that in up to 25% of patients treated with R-FC neutropenia was prolonged (defined as neutrophil count remaining below 1 x 10 9 /L between Day 24 and 42 after the last dose) or occurred with a late onset (defined as neutrophil count below 1 x 10 9 /L later than 42 days after last dose in patients with no previous prolonged neutropenia or who recovered prior to Day 42) following treatment with rituximab plus FC. There were no differences reported for the incidence of anaemia. Some cases of late neutropenia occurring more than four weeks after the last infusion of rituximab were reported. In the CLL first-line study, Binet stage C patients experienced more adverse events in the R-FC arm compared to the FC arm (R-FC 83% vs. FC 71%). In the relapsed/refractory CLL study grade 3/4 thrombocytopenia was reported in 11% of patients in the R-FC group compared to 9% of patients in the FC group.
 
 In studies of rituximab in patients with Waldenstrom's macroglobulinaemia, transient increases in serum IgM levels have been observed following treatment initiation, which may be associated with hyperviscosity and related symptoms. The transient IgM increase usually returned to at least baseline level within 4 months.
 
@@ -619,7 +605,7 @@ Cases of posterior reversible encephalopathy syndrome (PRES) / reversible poster
 
 ## Gastrointestinal disorders
 
-Gastrointestinal  perforation  in  some  cases  leading  to  death  has  been  observed  in  patients  receiving rituximab for treatment of non-Hodgkin's lymphoma. In the majority of these cases,  rituximab was administered with chemotherapy.
+Gastrointestinal perforation in some cases leading to death has been observed in patients receiving rituximab for treatment of non-Hodgkin's lymphoma. In the majority of these cases, rituximab was administered with chemotherapy.
 
 ## IgG levels
 
@@ -657,7 +643,7 @@ The incidence of grade 3/4 blood and lymphatic adverse events was higher in elde
 
 A multicentre, open-label randomised study of Lymphome Malin B chemotherapy (LMB) with or without rituximab was conducted in paediatric patients (aged 6 months to less than 18 years old) with previously untreated advanced stage CD20 positive DLBCL/BL/BAL/BLL.
 
-A total of 309 paediatric patients received rituximab and were included in the safety analysis population. Paediatric patients randomised to the LMB chemotherapy arm with rituximab, or enrolled in the single arm part of the study, were administered rituximab at a dose of 375 mg/m 2  BSA and received a total of six IV infusions of rituximab (two during each of the two induction courses and one during each of the two consolidation courses of the LMB scheme).
+A total of 309 paediatric patients received rituximab and were included in the safety analysis population. Paediatric patients randomised to the LMB chemotherapy arm with rituximab, or enrolled in the single arm part of the study, were administered rituximab at a dose of 375 mg/m 2 BSA and received a total of six IV infusions of rituximab (two during each of the two induction courses and one during each of the two consolidation courses of the LMB scheme).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -677,7 +663,7 @@ Patients received 2 x 1000 mg of rituximab separated by an interval of two weeks
 
 Adverse reactions are listed in Table 4. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-The adverse reactions identified only during post marketing surveillance, and for which a frequency could not be estimated, are listed under 'not known', see footnotes.
+The adverse reactions identified only during post marketing surveillance, and for which a frequency could not be estimated, are listed under \"not known\", see footnotes.
 
 The most frequent adverse reactions considered due to receipt of rituximab were IRRs. The overall incidence of IRRs in clinical trials was 23% with the first infusion and decreased with subsequent infusions. Serious IRRs were uncommon (0.5% of patients) and were predominantly seen during the initial course. In addition to adverse reactions seen in RA clinical trials for rituximab, progressive multifocal leukoencephalopathy (PML) (see section 4.4) and serum sickness-like reaction have been reported during post-marketing experience.
 
@@ -690,26 +676,24 @@ Table 4 Summary of adverse reactions reported in clinical trials or during post-
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA System Organ Class                            | Very Common                                                                                                    | Common                                                                                  | Uncommon                                                                                                                                | Rare                                                                       | Very Rare                                                                 | Not Known   |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------|
-| Immune system disorders                              | 5 infusion-related reactions (hypertension, nausea, rash, pyrexia, pruritus, urticaria, throat irritation, hot |                                                                                         | 5 infusion-related reactions (generalised oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalised pruritus, |                                                                            |                                                                           |             |
-| General disorders and administration site conditions | flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, oedema peripheral, erythema)   |                                                                                         | anaphylaxis, anaphylactoid reaction)                                                                                                    |                                                                            |                                                                           |             |
-| Metabolism and nutrition disorders                   |                                                                                                                | hypercholesterolemia                                                                    |                                                                                                                                         |                                                                            |                                                                           |             |
-| Psychiatric disorders                                |                                                                                                                | depression, anxiety                                                                     |                                                                                                                                         |                                                                            |                                                                           |             |
-| Nervous system disorders                             | headache                                                                                                       | paraesthesia, migraine, dizziness, sciatica                                             |                                                                                                                                         |                                                                            |                                                                           |             |
-| Cardiac disorders                                    |                                                                                                                |                                                                                         |                                                                                                                                         | angina pectoris, atrial fibrillation, heart failure, myocardial infarction | atrial flutter                                                            |             |
-| Gastrointestinal disorders                           |                                                                                                                | dyspepsia, diarrhoea, gastro-oesophageal reflux, mouth ulceration, upper abdominal pain |                                                                                                                                         |                                                                            |                                                                           |             |
-| Skin and subcutaneous tissue disorders               |                                                                                                                | alopecia                                                                                |                                                                                                                                         |                                                                            | toxic epidermal necrolysis (Lyell's syndrome), Stevens-Johnson syndrome 7 |             |
-| Musculoskeletal and connective tissue disorders      |                                                                                                                | arthralgia / musculoskeletal pain, osteoarthritis, bursitis                             |                                                                                                                                         |                                                                            |                                                                           |             |
-| Investigations                                       | decreased IgM levels 6                                                                                         | decreased IgG levels 6                                                                  |                                                                                                                                         |                                                                            |                                                                           |             |
+| MedDRA System Organ Class                            | Very Common                                                                                                                                                                                           | Common                                                                                  | Uncommon                                                                                                                                                           | Rare                                                                       | Very Rare                                                                 | Not Known   |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------|
+| Immune system disorders                              | 5 infusion-related reactions (hypertension, nausea, rash, pyrexia, pruritus, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, oedema |                                                                                         | 5 infusion-related reactions (generalised oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalised pruritus, anaphylaxis, anaphylactoid |                                                                            |                                                                           |             |
+| General disorders and administration site conditions | peripheral, erythema)                                                                                                                                                                                 |                                                                                         | reaction)                                                                                                                                                          |                                                                            |                                                                           |             |
+| Metabolism and nutrition disorders                   |                                                                                                                                                                                                       | hypercholesterolemia                                                                    |                                                                                                                                                                    |                                                                            |                                                                           |             |
+| Psychiatric disorders                                |                                                                                                                                                                                                       | depression, anxiety                                                                     |                                                                                                                                                                    |                                                                            |                                                                           |             |
+| Nervous system disorders                             | headache                                                                                                                                                                                              | paraesthesia, migraine, dizziness, sciatica                                             |                                                                                                                                                                    |                                                                            |                                                                           |             |
+| Cardiac disorders                                    |                                                                                                                                                                                                       |                                                                                         |                                                                                                                                                                    | angina pectoris, atrial fibrillation, heart failure, myocardial infarction | atrial flutter                                                            |             |
+| Gastrointestinal disorders                           |                                                                                                                                                                                                       | dyspepsia, diarrhoea, gastro-oesophageal reflux, mouth ulceration, upper abdominal pain |                                                                                                                                                                    |                                                                            |                                                                           |             |
+| Skin and subcutaneous tissue disorders               |                                                                                                                                                                                                       | alopecia                                                                                |                                                                                                                                                                    |                                                                            | toxic epidermal necrolysis (Lyell's syndrome), Stevens-Johnson syndrome 7 |             |
+| Musculoskeletal and connective tissue disorders      |                                                                                                                                                                                                       | arthralgia / musculoskeletal pain, osteoarthritis, bursitis                             |                                                                                                                                                                    |                                                                            |                                                                           |             |
+| Investigations                                       | decreased IgM levels 6                                                                                                                                                                                | decreased IgG levels 6                                                                  |                                                                                                                                                                    |                                                                            |                                                                           |             |
 
 ## Multiple courses
 
-Multiple courses of treatment are associated with a similar adverse reaction profile to that observed following first exposure. The rate of all adverse reactions following first rituximab exposure was highest during the first 6 months and declined thereafter. This is mostly accounted for by IRRs (most
+Multiple courses of treatment are associated with a similar adverse reaction profile to that observed following first exposure. The rate of all adverse reactions following first rituximab exposure was highest during the first 6 months and declined thereafter. This is mostly accounted for by IRRs (most frequent during the first treatment course), RA exacerbation and infections, all of which were more frequent in the first 6 months of treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-frequent during the first treatment course), RA exacerbation and infections, all of which were more frequent in the first 6 months of treatment.
 
 ## Description of selected adverse reactions
 
@@ -767,13 +751,13 @@ In GPA/MPA Study 1, 99 adult patients were treated for induction of remission of
 
 The adverse reactions from GPA/MPA Study 1 listed in Table 5 with a frequency categorisation of \"common\" or \"very common\" were all adverse reactions which occurred at an incidence of ≥ 5% in the rituximab group and at a higher frequency than the comparator group.
 
-The adverse reactions identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under 'not known', see footnotes.
+The adverse reactions identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under \"not known\", see footnotes.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 5 Adverse reactions occurring at 6-months in ≥ 5% of adult patients receiving rituximab in GPA/MPA Study 1 (Rituximab n=99), at a higher frequency than the comparator group, or during post-marketing surveillance
 
-1  Observed during post-marketing surveillance.
+1 Observed during post-marketing surveillance.
 
 | MedDRA System Organ Class                            | Very Common                          | Common                                                              | Not known                                                       |
 |------------------------------------------------------|--------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -796,6 +780,8 @@ Adult maintenance treatment (GPA/MPA Study 2)
 In GPA/MPA Study 2, a total of 57 adult patients with severe, active GPA and MPA were treated with rituximab for the maintenance of remission (see section 5.1).
 
 Table 6 Adverse reactions occurring in ≥ 5% of adult patients receiving rituximab in GPA/MPA Study 2 (Rituximab n=57), at a higher frequency than the comparator group, or during post-marketing surveillance
+
+1 Observed during post-marketing surveillance.
 
 | MedDRA System Organ Class                            | Very Common                  | Common                                             | Not known                                                       |
 |------------------------------------------------------|------------------------------|----------------------------------------------------|-----------------------------------------------------------------|
@@ -905,13 +891,11 @@ The safety profile of rituximab in PV was consistent with the established safety
 
 ## Tabulated list of adverse reactions for PV Studies 1 and 2, or during post-marketing surveillance
 
-The adverse reactions from PV Studies 1 and 2 with a frequency categorisation of \"common\" or \"very common\" are presented in Table 7. In PV Study 1, adverse reactions were defined as adverse events which occurred at a rate of ≥ 5% among rituximab-treated PV patients, with a ≥ 2% absolute difference in incidence between the rituximab-treated group and the standard-dose prednisone group
+The adverse reactions from PV Studies 1 and 2 with a frequency categorisation of \"common\" or \"very common\" are presented in Table 7. In PV Study 1, adverse reactions were defined as adverse events which occurred at a rate of ≥ 5% among rituximab-treated PV patients, with a ≥ 2% absolute difference in incidence between the rituximab-treated group and the standard-dose prednisone group up to Month 24. No patients were withdrawn due to adverse reactions in PV Study 1. In PV Study 2, adverse reactions were defined as adverse events occurring in ≥ 5% of patients in the rituximab arm and assessed as related.
 
 <div style=\"page-break-after: always\"></div>
 
-up to Month 24. No patients were withdrawn due to adverse reactions in PV Study 1. In PV Study 2, adverse reactions were defined as adverse events occurring in ≥ 5% of patients in the rituximab arm and assessed as related.
-
-The adverse reactions identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under 'not known', see footnotes.
+The adverse reactions identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under \"not known\", see footnotes.
 
 Table 7 Adverse reactions in rituximab-treated pemphigus vulgaris patients in PV Study 1 (up to Month 24) and PV Study 2 (up to Week 52), or during post-marketing surveillance
 
@@ -927,10 +911,6 @@ Table 7 Adverse reactions in rituximab-treated pemphigus vulgaris patients in PV
 | Musculoskeletal and connective tissue disorders                      |                                   | musculoskeletal pain, arthralgia, back pain                                                                                    |                                                                     |
 | General disorders and administration site conditions                 |                                   | fatigue, asthenia, pyrexia                                                                                                     |                                                                     |
 | Injury, poisoning and procedural complications                       | infusion-related reactions 3      |                                                                                                                                |                                                                     |
-
-1 Observed during post-marketing surveillance.
-
-2 See also section Infections below.
 
 3 Infusion-related reactions for PV Study 1 included symptoms collected on the next scheduled visit after each infusion, and adverse reactions occurring on the day of or one day after the infusion. The most common infusion-related reaction symptoms/Preferred Terms for PV Study 1 included headaches, chills, high blood pressure, nausea, asthenia and pain.
 
@@ -948,7 +928,7 @@ In PV Study 2, IRRs occurred primarily at the first infusion and the frequency o
 
 ## Infections
 
-In PV Study 1, 14 patients (37%) in the rituximab group experienced treatment-related infections compared to 15 patients (42%) in the standard-dose prednisone group. The most common infections in the rituximab group were herpes simplex and zoster infections, bronchitis, urinary tract infection, fungal infection and conjunctivitis. Three patients (8%) in the rituximab group experienced a total of 5 serious infections ( Pneumocystis jirovecii pneumonia, infective thrombosis, intervertebral discitis, lung infection, Staphylococcal sepsis) and one patient (3%) in the standard-dose prednisone group experienced a serious infection ( Pneumocystis jirovecii pneumonia).
+In PV Study 1, 14 patients (37%) in the rituximab group experienced treatment-related infections compared to 15 patients (42%) in the standard-dose prednisone group. The most common infections in the rituximab group were herpes simplex and zoster infections, bronchitis, urinary tract infection, fungal infection and conjunctivitis. Three patients (8%) in the rituximab group experienced a total of 5 serious infections (Pneumocystis jirovecii pneumonia, infective thrombosis, intervertebral discitis, lung infection, Staphylococcal sepsis) and one patient (3%) in the standard-dose prednisone group experienced a serious infection (Pneumocystis jirovecii pneumonia).
 
 In PV Study 2, 42 patients (62.7%) in the rituximab arm experienced infections. The most common infections in the rituximab group were upper respiratory tract infection, nasopharyngitis, oral candidiasis and urinary tract infection. Six patients (9%) in the rituximab arm experienced serious infections.
 
@@ -976,7 +956,7 @@ In the post-marketing setting five cases of rituximab overdose have been reporte
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antineoplastic agents, monoclonal antibodies and antibody drug conjugates , ATC code: L01FA01
+Pharmacotherapeutic group: antineoplastic agents, monoclonal antibodies and antibody drug conjugates, ATC code: L01FA01
 
 <div style=\"page-break-after: always\"></div>
 
@@ -988,7 +968,7 @@ Rituximab binds specifically to the transmembrane antigen, CD20, a non-glycosyla
 
 CD20 is found on both normal and malignant B-cells, but not on haematopoietic stem cells, pro-B-cells, normal plasma cells or other normal tissue. This antigen does not internalise upon antibody binding and is not shed from the cell surface. CD20 does not circulate in the plasma as a free antigen and, thus, does not compete for antibody binding.
 
-The Fab domain of rituximab binds to the CD20 antigen on B lymphocytes and the Fc domain can recruit immune effector functions to mediate B-cell lysis. Possible mechanisms of effector-mediated cell lysis include complement-dependent cytotoxicity (CDC) resulting from C1q binding, and antibody-dependent cellular cytotoxicity (ADCC) mediated by one or more of the Fc  receptors on the surface of granulocytes, macrophages and NK cells. Rituximab binding to CD20 antigen on B lymphocytes has also been demonstrated to induce cell death via apoptosis.
+The Fab domain of rituximab binds to the CD20 antigen on B lymphocytes and the Fc domain can recruit immune effector functions to mediate B-cell lysis. Possible mechanisms of effector-mediated cell lysis include complement-dependent cytotoxicity (CDC) resulting from C1q binding, and antibody-dependent cellular cytotoxicity (ADCC) mediated by one or more of the Fcγ receptors on the surface of granulocytes, macrophages and NK cells. Rituximab binding to CD20 antigen on B lymphocytes has also been demonstrated to induce cell death via apoptosis.
 
 ## Pharmacodynamic effects
 
@@ -1004,15 +984,13 @@ Clinical efficacy and safety in non-Hodgkin's lymphoma and in chronic lymphocyti
 
 ## Initial treatment, weekly for 4 doses
 
-In the pivotal trial, 166 patients with relapsed or chemoresistant low-grade or follicular B-cell NHL received 375 mg/m 2 of rituximab as an intravenous infusion once weekly for four weeks. The overall response rate (ORR) in the intent-to-treat (ITT) population was 48% (CI95% 41% - 56%) with a 6% complete response (CR) and a 42% partial response (PR) rate. The projected median time to progression (TTP) for responding patients was 13.0 months. In a subgroup analysis, the ORR was higher in patients with IWF B, C, and D histological subtypes as compared to IWF A subtype (58% vs. 12%), higher in patients whose largest lesion was &lt; 5 cm vs. &gt; 7 cm in greatest diameter (53% vs. 38%), and higher in patients with chemosensitive relapse as compared to chemoresistant (defined as duration of response &lt; 3 months) relapse (50% vs. 22%). ORR in patients previously treated with autologous bone marrow transplant (ABMT) was 78% versus 43% in patients with no ABMT. Neither
+In the pivotal trial, 166 patients with relapsed or chemoresistant low-grade or follicular B-cell NHL received 375 mg/m 2 of rituximab as an intravenous infusion once weekly for four weeks. The overall response rate (ORR) in the intent-to-treat (ITT) population was 48% (CI95% 41% - 56%) with a 6% complete response (CR) and a 42% partial response (PR) rate. The projected median time to progression (TTP) for responding patients was 13.0 months. In a subgroup analysis, the ORR was higher in patients with IWF B, C, and D histological subtypes as compared to IWF A subtype (58% vs. 12%), higher in patients whose largest lesion was &lt; 5 cm vs. &gt; 7 cm in greatest diameter (53% vs. 38%), and higher in patients with chemosensitive relapse as compared to chemoresistant (defined as duration of response &lt; 3 months) relapse (50% vs. 22%). ORR in patients previously treated with autologous bone marrow transplant (ABMT) was 78% versus 43% in patients with no ABMT. Neither age, sex, lymphoma grade, initial diagnosis, presence or absence of bulky disease, normal or high LDH nor presence of extranodal disease had a statistically significant effect (Fisher's exact test) on response to rituximab. A statistically significant correlation was noted between response rates and bone marrow involvement. 40% of patients with bone marrow involvement responded compared to 59% of patients with no bone marrow involvement (p=0.0186). This finding was not supported by a stepwise logistic regression analysis in which the following factors were identified as prognostic factors: histological type, bcl-2 positivity at baseline, resistance to last chemotherapy and bulky disease.
 
 <div style=\"page-break-after: always\"></div>
 
-age, sex, lymphoma grade, initial diagnosis, presence or absence of bulky disease, normal or high LDH nor presence of extranodal disease had a statistically significant effect (Fisher's exact test) on response to rituximab. A statistically significant correlation was noted between response rates and bone marrow involvement. 40% of patients with bone marrow involvement responded compared to 59% of patients with no bone marrow involvement (p=0.0186). This finding was not supported by a stepwise logistic regression analysis in which the following factors were identified as prognostic factors: histological type, bcl-2 positivity at baseline, resistance to last chemotherapy and bulky disease.
-
 ## Initial treatment, weekly for 8 doses
 
-In a multicentre, single-arm trial, 37 patients with relapsed or chemoresistant, low-grade or follicular B-cell NHL received 375 mg/m 2  of rituximab as intravenous infusion weekly for eight doses. The ORR was 57% (95% Confidence interval (CI); 41% - 73%; CR 14%, PR 43%) with a projected median TTP for responding patients of 19.4 months (range 5.3 to 38.9 months).
+In a multicentre, single-arm trial, 37 patients with relapsed or chemoresistant, low-grade or follicular B-cell NHL received 375 mg/m 2 of rituximab as intravenous infusion weekly for eight doses. The ORR was 57% (95% Confidence interval (CI); 41% - 73%; CR 14%, PR 43%) with a projected median TTP for responding patients of 19.4 months (range 5.3 to 38.9 months).
 
 ## Initial treatment, bulky disease, weekly for 4 doses
 
@@ -1024,7 +1002,7 @@ In a multicentre, single-arm trial, 58 patients with relapsed or chemoresistant 
 
 ## Initial treatment, in combination with chemotherapy
 
-In an open-label randomised trial, a total of 322 previously untreated patients with follicular lymphoma were randomised to receive either CVP chemotherapy (cyclophosphamide 750 mg/m 2 , vincristine 1.4 mg/m 2 up to a maximum of 2 mg on Day 1, and prednisolone 40 mg/m 2 /day on days 1 - 5) every 3 weeks for 8 cycles or rituximab 375 mg/m 2  in combination with CVP (R-CVP). Rituximab was administered on the first day of each treatment cycle. A total of 321 patients (162 R-CVP, 159 CVP) received therapy and were analysed for efficacy. The median follow-up of patients was 53 months. R-CVP led to a significant benefit over CVP for the primary endpoint, time to treatment failure (27 months vs. 6.6 months, p &lt; 0.0001, log-rank test). The proportion of patients with a tumour response (CR, CRu, PR) was significantly higher (p &lt; 0.0001 Chi-Square test) in the R-CVP group (80.9%) than the CVP group (57.2%). Treatment with R-CVP significantly prolonged the time to disease progression or death compared to CVP, 33.6 months and 14.7 months, respectively (p &lt; 0.0001, log-rank test). The median duration of response was 37.7 months in the R-CVP group and was 13.5 months in the CVP group (p &lt; 0.0001, log-rank test).
+In an open-label randomised trial, a total of 322 previously untreated patients with follicular lymphoma were randomised to receive either CVP chemotherapy (cyclophosphamide 750 mg/m 2 , vincristine 1.4 mg/m 2 up to a maximum of 2 mg on Day 1, and prednisolone 40 mg/m 2 /day on days 1 - 5) every 3 weeks for 8 cycles or rituximab 375 mg/m 2 in combination with CVP (R-CVP). Rituximab was administered on the first day of each treatment cycle. A total of 321 patients (162 R-CVP, 159 CVP) received therapy and were analysed for efficacy. The median follow-up of patients was 53 months. R-CVP led to a significant benefit over CVP for the primary endpoint, time to treatment failure (27 months vs. 6.6 months, p &lt; 0.0001, log-rank test). The proportion of patients with a tumour response (CR, CRu, PR) was significantly higher (p &lt; 0.0001 Chi-Square test) in the R-CVP group (80.9%) than the CVP group (57.2%). Treatment with R-CVP significantly prolonged the time to disease progression or death compared to CVP, 33.6 months and 14.7 months, respectively (p &lt; 0.0001, log-rank test). The median duration of response was 37.7 months in the R-CVP group and was 13.5 months in the CVP group (p &lt; 0.0001, log-rank test).
 
 The difference between the treatment groups with respect to overall survival showed a significant clinical difference (p=0.029, log-rank test stratified by centre): survival rates at 53 months were 80.9% for patients in the R-CVP group compared to 71.1% for patients in the CVP group.
 
@@ -1040,14 +1018,6 @@ Table 8 Summary of key results from four phase III randomised studies evaluating
 | CHOP, 205 R-CHOP, 223         |             18 | 90 96               | 17 20    | Median TTF: 2.6 years Not reached p < 0.001 | 18-months 90 95 p = 0.016     | GLSG'00       |
 | MCP, 96 R-MCP, 105            |             47 | 75 92               | 25 50    | Median PFS: 28.8 Not reached p < 0.0001     | 48-months 74 87 p = 0.0096    | OSHO-39       |
 | CHVP-IFN, 183 R-CHVP-IFN, 175 |             42 | 85 94               | 49 76    | Median EFS: 36 Not reached p < 0.0001       | 42-months 84 91 p = 0.029     | FL2000        |
-
-EFS - Event Free Survival
-
-TTP - Time to progression or death
-
-PFS - Progression-Free Survival
-
-TTF - Time to Treatment Failure
 
 OS rates - survival rates at the time of the analyses
 
@@ -1067,16 +1037,15 @@ Data from extended follow-up of patients in the study (median follow-up 9 years)
 
 Table 9 Overview of efficacy results for rituximab maintenance vs. observation at the protocol-defined primary analysis and after 9 years median follow-up (final analysis)
 
-|                                                                                                           | Primary analysis (median FU: 25 months)   | Primary analysis (median FU: 25 months)   | Final analysis (median FU: 9.0 years)   | Final analysis (median FU: 9.0 years)   |
-|-----------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                                                                                           | Observation N=513                         | Rituximab N=505                           | Observation N=513                       | Rituximab N=505                         |
-| Primary efficacy Progression-free survival (median) log-rank p value hazard ratio (95% CI) risk reduction | NR <0.0001 0.50 (0.39, 50%                | NR 0.64)                                  | 4.06 years <0.0001 0.61 (0.52, 39%      | 10.49 years 0.73)                       |
-| Secondary efficacy Overall survival (median) log-rank p value hazard ratio (95% CI) risk reduction        | NR 0.7246 0.89 (0.45, 11%                 | NR 1.74)                                  | NR 0.7948 1.04 (0.77, -6%               | NR 1.40)                                |
-| Event-free survival (median) log-rank p value hazard ratio (95% CI) risk reduction                        | 38 months <0.0001 0.54 (0.43, 46%         | NR 0.69)                                  | 4.04 years <0.0001 0.64 (0.54, 36%      | 9.25 years 0.76)                        |
-| TNLT (median) log-rank p value hazard ratio (95% CI) risk reduction                                       | NR 0.0003 0.61 (0.46, 39%                 | NR 0.80)                                  | 6.11 years <0.0001 0.66 (0.55, 34%      | NR 0.78)                                |
-| TNCT (median) log-rank p value hazard ratio (95% CI) risk reduction                                       | NR 0.0011 0.60 (0.44, 40%                 | NR 0.82)                                  | 9.32 years 0.0004 0.71 (0.59, 39%       | NR 0.86)                                |
-| Overall response rate* chi-squared test p value odds ratio (95% CI)                                       | 55% <0.0001 2.33 (1.73,                   | 74% 3.15)                                 | 61% <0.0001 2.43 (1.84,                 | 79% 3.22)                               |
-| Complete response (CR/CRu) rate* chi-squared test p value odds ratio (95% CI)                             | 48% <0.0001 2.21 (1.65,                   | 67% 2.94)                                 | 53% <0.0001 2.34 (1.80,                 | 72% 3.03)                               |
+|                                                                                                           | Primary analysis (median FU: 25 months) - Observation N=513   | Primary analysis (median FU: 25 months) - Rituximab N=505   | Final analysis (median FU: 9.0 years) - Observation N=513   | Final analysis (median FU: 9.0 years) - Rituximab N=505   |
+|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
+| Primary efficacy Progression-free survival (median) log-rank p value hazard ratio (95% CI) risk reduction | NR <0.0001 0.50 (0.39, 0.64) 50%                              | NR                                                          | 4.06 years <0.0001 0.61 (0.52, 39%                          | 10.49 years 0.73)                                         |
+| Secondary efficacy Overall survival (median) log-rank p value hazard ratio (95% CI) risk reduction        | NR 0.7246 0.89 (0.45, 11%                                     | NR 1.74)                                                    | NR 0.7948 1.04 (0.77, -6%                                   | NR 1.40)                                                  |
+| Event-free survival (median) log-rank p value hazard ratio (95% CI) risk reduction                        | 38 months <0.0001 0.54 (0.43, 46%                             | NR 0.69)                                                    | 4.04 years <0.0001 0.64 (0.54, 36%                          | 9.25 years 0.76)                                          |
+| TNLT (median) log-rank p value hazard ratio (95% CI) risk reduction                                       | NR 0.0003 0.61 (0.46, 39%                                     | NR 0.80)                                                    | 6.11 years <0.0001 0.66 (0.55, 34%                          | NR 0.78)                                                  |
+| TNCT (median) log-rank p value hazard ratio (95% CI) risk reduction                                       | NR 0.0011 0.60 (0.44, 40%                                     | NR 0.82)                                                    | 9.32 years 0.0004 0.71 (0.59, 39%                           | NR 0.86)                                                  |
+| Overall response rate* chi-squared test p value odds ratio (95% CI)                                       | 55% <0.0001 2.33 (1.73,                                       | 74% 3.15)                                                   | 61% <0.0001 2.43 (1.84,                                     | 79% 3.22)                                                 |
+| Complete response (CR/CRu) rate* chi-squared test p value odds ratio (95% CI)                             | 48% <0.0001 2.21 (1.65,                                       | 67% 2.94)                                                   | 53% <0.0001 2.34 (1.80,                                     | 72% 3.03)                                                 |
 
 * at end of maintenance/observation; final analysis results based on median follow-up of 73 months.
 
@@ -1086,7 +1055,7 @@ Rituximab maintenance treatment provided consistent benefit in all predefined su
 
 ## Relapsed/Refractory follicular lymphoma
 
-In a prospective, open label, international, multicentre, phase III trial, 465 patients with relapsed/refractory follicular lymphoma were randomised in a first step to induction therapy with either CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone; n=231) or rituximab plus CHOP (R-CHOP, n=234). The two treatment groups were well balanced with regard to baseline characteristics and disease status. A total of 334 patients achieving a complete or partial remission following induction therapy were randomised in a second step to rituximab maintenance therapy (n=167) or observation (n=167). Rituximab maintenance treatment consisted of a single infusion of rituximab at 375 mg/m 2  body surface area given every 3 months until disease progression or for a maximum period of two years.
+In a prospective, open label, international, multicentre, phase III trial, 465 patients with relapsed/refractory follicular lymphoma were randomised in a first step to induction therapy with either CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone; n=231) or rituximab plus CHOP (R-CHOP, n=234). The two treatment groups were well balanced with regard to baseline characteristics and disease status. A total of 334 patients achieving a complete or partial remission following induction therapy were randomised in a second step to rituximab maintenance therapy (n=167) or observation (n=167). Rituximab maintenance treatment consisted of a single infusion of rituximab at 375 mg/m 2 body surface area given every 3 months until disease progression or for a maximum period of two years.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1094,12 +1063,12 @@ The final efficacy analysis included all patients randomised to both parts of th
 
 Table 10 Induction phase: overview of efficacy results for CHOP vs. R-CHOP (31 months median observation time)
 
-|                  | CHOP   | R-CHOP   | p-value   | Risk Reduction 1)   |
+|                  | CHOP   | R-CHOP   |   p-value | Risk Reduction 1)   |
 |------------------|--------|----------|-----------|---------------------|
 | Primary efficacy |        |          |           |                     |
-| ORR 2)           | 74%    | 87%      | 0.0003    | Na                  |
-| CR 2)            | 16%    | 29%      | 0.0005    | Na                  |
-| PR 2)            | 58%    | 58%      | 0.9449    | Na                  |
+| ORR 2)           | 74%    | 87%      |    0.0003 | Na                  |
+| CR 2)            | 16%    | 29%      |    0.0005 | Na                  |
+| PR 2)            | 58%    | 58%      |    0.9449 | Na                  |
 
 Abbreviations: NA, not available; ORR: overall response rate; CR: complete response; PR: partial response
 
@@ -1107,33 +1076,30 @@ For patients randomised to the maintenance phase of the trial, the median observ
 
 Table 11 Maintenance phase: overview of efficacy results rituximab vs. observation (28 months median observation time)
 
-| Efficacy Parameter              | Kaplan-Meier Estimate of Median Time to Event (Months)   | Kaplan-Meier Estimate of Median Time to Event (Months)   | Kaplan-Meier Estimate of Median Time to Event (Months)   | Risk Reduction   |
-|---------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|------------------|
-|                                 | Observation (N=167)                                      | Rituximab (N=167)                                        | Log-Rank p value                                         |                  |
-| Progression-free survival (PFS) | 14.3                                                     | 42.2                                                     | < 0.0001                                                 | 61%              |
-| Overall survival                | NR                                                       | NR                                                       | 0.0039                                                   | 56%              |
-| Time to new lymphoma treatment  | 20.1                                                     | 38.8                                                     | < 0.0001                                                 | 50%              |
-| Disease-free survival a         | 16.5                                                     | 53.7                                                     | 0.0003                                                   | 67%              |
-| Subgroup analysis PFS           |                                                          |                                                          |                                                          |                  |
-| CHOP                            | 11.6                                                     | 37.5                                                     | < 0.0001                                                 | 71%              |
-| R-CHOP                          | 22.1                                                     | 51.9                                                     | 0.0071                                                   | 46%              |
-| CR                              | 14.3                                                     | 52.8                                                     | 0.0008                                                   | 64%              |
-| PR                              | 14.3                                                     | 37.8                                                     | < 0.0001                                                 | 54%              |
-| OS                              |                                                          |                                                          |                                                          |                  |
-| CHOP                            | NR                                                       | NR                                                       | 0.0348                                                   | 55%              |
-| R-CHOP                          | NR                                                       | NR                                                       | 0.0482                                                   | 56%              |
+| Efficacy Parameter              | Kaplan-Meier Estimate of Median Time to Event (Months) - Observation (N=167)   | Kaplan-Meier Estimate of Median Time to Event (Months) - Rituximab (N=167)   | Kaplan-Meier Estimate of Median Time to Event (Months) - Log-Rank p value   | Risk Reduction   |
+|---------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------|
+| Progression-free survival (PFS) | 14.3                                                                           | 42.2                                                                         | < 0.0001                                                                    | 61%              |
+| Overall survival                | NR                                                                             | NR                                                                           | 0.0039                                                                      | 56%              |
+| Time to new lymphoma treatment  | 20.1                                                                           | 38.8                                                                         | < 0.0001                                                                    | 50%              |
+| Disease-free survival a         | 16.5                                                                           | 53.7                                                                         | 0.0003                                                                      | 67%              |
+| Subgroup analysis PFS           |                                                                                |                                                                              |                                                                             |                  |
+| CHOP                            | 11.6                                                                           | 37.5                                                                         | < 0.0001                                                                    | 71%              |
+| R-CHOP                          | 22.1                                                                           | 51.9                                                                         | 0.0071                                                                      | 46%              |
+| CR                              | 14.3                                                                           | 52.8                                                                         | 0.0008                                                                      | 64%              |
+| PR                              | 14.3                                                                           | 37.8                                                                         | < 0.0001                                                                    | 54%              |
+| OS                              |                                                                                |                                                                              |                                                                             |                  |
+| CHOP                            | NR                                                                             | NR                                                                           | 0.0348                                                                      | 55%              |
+| R-CHOP                          | NR                                                                             | NR                                                                           | 0.0482                                                                      | 56%              |
 
-NR: not reached;  a : only applicable to patients achieving a CR
+NR: not reached; a : only applicable to patients achieving a CR
 
-The benefit of rituximab maintenance treatment was confirmed in all subgroups analysed, regardless of induction regimen (CHOP or R-CHOP) or quality of response to induction treatment (CR or PR) (Table 11). Rituximab maintenance treatment significantly prolonged median PFS in patients responding to CHOP induction therapy (median PFS 37.5 months vs. 11.6 months, p &lt; 0.0001) as well
+The benefit of rituximab maintenance treatment was confirmed in all subgroups analysed, regardless of induction regimen (CHOP or R-CHOP) or quality of response to induction treatment (CR or PR) (Table 11). Rituximab maintenance treatment significantly prolonged median PFS in patients responding to CHOP induction therapy (median PFS 37.5 months vs. 11.6 months, p &lt; 0.0001) as well as in those responding to R-CHOP induction (median PFS 51.9 months vs. 22.1 months, p=0.0071). Although subgroups were small, rituximab maintenance treatment provided a significant benefit in terms of overall survival for both patients responding to CHOP and patients responding to R-CHOP, although longer follow-up is required to confirm this observation.
 
 <div style=\"page-break-after: always\"></div>
 
-as in those responding to R-CHOP induction (median PFS 51.9 months vs. 22.1 months, p=0.0071). Although subgroups were small, rituximab maintenance treatment provided a significant benefit in terms of overall survival for both patients responding to CHOP and patients responding to R-CHOP, although longer follow-up is required to confirm this observation.
-
 ## Adult diffuse large B-cell non-Hodgkin's lymphoma
 
-In a randomised, open-label trial, a total of 399 previously untreated elderly patients (age 60 to 80 years) with diffuse large B-cell lymphoma received standard CHOP chemotherapy (cyclophosphamide 750 mg/m 2 , doxorubicin 50 mg/m 2 , vincristine 1.4 mg/m 2  up to a maximum of 2 mg on Day 1, and prednisolone 40 mg/m 2 /day on days 1-5) every 3 weeks for eight cycles, or rituximab 375 mg/m 2  plus CHOP (R-CHOP). Rituximab was administered on the first day of the treatment cycle.
+In a randomised, open-label trial, a total of 399 previously untreated elderly patients (age 60 to 80 years) with diffuse large B-cell lymphoma received standard CHOP chemotherapy (cyclophosphamide 750 mg/m 2 , doxorubicin 50 mg/m 2 , vincristine 1.4 mg/m 2 up to a maximum of 2 mg on Day 1, and prednisolone 40 mg/m 2 /day on days 1-5) every 3 weeks for eight cycles, or rituximab 375 mg/m 2 plus CHOP (R-CHOP). Rituximab was administered on the first day of the treatment cycle.
 
 The final efficacy analysis included all randomised patients (197 CHOP, 202 R-CHOP), and had a median follow-up duration of approximately 31 months. The two treatment groups were well balanced in baseline disease characteristics and disease status. The final analysis confirmed that R-CHOP treatment was associated with a clinically relevant and statistically significant improvement in the duration of event-free survival (the primary efficacy parameter; where events were death, relapse or progression of lymphoma, or institution of a new anti-lymphoma treatment) (p = 0.0001). Kaplan-Meier estimates of the median duration of event-free survival were 35 months in the R-CHOP arm compared to 13 months in the CHOP arm, representing a risk reduction of 41%. At 24 months, estimates for overall survival were 68.2% in the R-CHOP arm compared to 57.4% in the CHOP arm. A subsequent analysis of the duration of overall survival, carried out with a median follow-up duration of 60 months, confirmed the benefit of R-CHOP over CHOP treatment (p=0.0071), representing a risk reduction of 32%.
 
@@ -1147,24 +1113,21 @@ Of 67 patients evaluated for human anti-mouse antibody (HAMA), no responses were
 
 In two open-label randomised trials, a total of 817 previously untreated patients and 552 patients with relapsed/refractory CLL were randomised to receive either FC chemotherapy (fludarabine 25 mg/m 2 , cyclophosphamide 250 mg/m 2 , days 1-3) every 4 weeks for 6 cycles or rituximab in combination with FC (R-FC). Rituximab was administered at a dosage of 375 mg/m 2 during the first cycle one day prior to chemotherapy and at a dosage of 500 mg/m 2 on Day 1 of each subsequent treatment cycle. Patients were excluded from the study in relapsed/refractory CLL if they had previously been treated with monoclonal antibodies or if they were refractory (defined as failure to achieve a partial remission for at least 6 months) to fludarabine or any nucleoside analogue. A total of 810 patients (403 R-FC, 407 FC) for the first-line study (Table 12a and Table 12b) and 552 patients (276 R-FC, 276 FC) for the relapsed/refractory study (Table 13) were analysed for efficacy.
 
-In the first-line study, after a median observation time of 48.1 months, the median PFS was 55 months in the R-FC group and 33 months in the FC group (p &lt; 0.0001, log-rank test). The analysis of overall
+In the first-line study, after a median observation time of 48.1 months, the median PFS was 55 months in the R-FC group and 33 months in the FC group (p &lt; 0.0001, log-rank test). The analysis of overall survival showed a significant benefit of R-FC treatment over FC chemotherapy alone (p = 0.0319, log-rank test) (Table 12a). The benefit in terms of PFS was consistently observed in most patient subgroups analysed according to disease risk at baseline (i.e. Binet stages A-C) (Table 12b).
 
 <div style=\"page-break-after: always\"></div>
 
-survival showed a significant benefit of R-FC treatment over FC chemotherapy alone (p = 0.0319, log-rank test) (Table 12a). The benefit in terms of PFS was consistently observed in most patient subgroups analysed according to disease risk at baseline (i.e. Binet stages A-C) (Table 12b).
-
 Table 12a First-line treatment of chronic lymphocytic leukaemia Overview of efficacy results for rituximab plus FC vs. FC alone - 48.1 months median observation time
 
-| Efficacy Parameter                      | Kaplan-Meier Estimate of Median Time to Event (Months)   | Kaplan-Meier Estimate of Median Time to Event (Months)   | Kaplan-Meier Estimate of Median Time to Event (Months)   | Risk Reduction   |
-|-----------------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|------------------|
-|                                         | FC (N=409)                                               | R-FC (N=408)                                             | Log-Rank p value                                         |                  |
-| Progression-free survival (PFS)         | 32.8                                                     | 55.3                                                     | <0.0001                                                  | 45%              |
-| Overall survival                        | NR                                                       | NR                                                       | 0.0319                                                   | 27%              |
-| Event free survival                     | 31.3                                                     | 51.8                                                     | <0.0001                                                  | 44%              |
-| Response rate (CR, nPR, or PR) CR rates | 72.6% 16.9%                                              | 85.8% 36.0%                                              | <0.0001 <0.0001                                          | n.a. n.a.        |
-| Duration of response*                   | 36.2                                                     | 57.3                                                     | <0.0001                                                  | 44%              |
-| Disease free survival (DFS)**           | 48.9                                                     | 60.3                                                     | 0.0520                                                   | 31%              |
-| Time to new treatment                   | 47.2                                                     | 69.7                                                     | <0.0001                                                  | 42%              |
+| Efficacy Parameter                      | Kaplan-Meier Estimate of Median Time to Event (Months) - FC (N=409)   | Kaplan-Meier Estimate of Median Time to Event (Months) - R-FC (N=408)   | Kaplan-Meier Estimate of Median Time to Event (Months) - Log-Rank p value   | Risk Reduction   |
+|-----------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------|
+| Progression-free survival (PFS)         | 32.8                                                                  | 55.3                                                                    | <0.0001                                                                     | 45%              |
+| Overall survival                        | NR                                                                    | NR                                                                      | 0.0319                                                                      | 27%              |
+| Event free survival                     | 31.3                                                                  | 51.8                                                                    | <0.0001                                                                     | 44%              |
+| Response rate (CR, nPR, or PR) CR rates | 72.6% 16.9%                                                           | 85.8% 36.0%                                                             | <0.0001 <0.0001                                                             | n.a. n.a.        |
+| Duration of response*                   | 36.2                                                                  | 57.3                                                                    | <0.0001                                                                     | 44%              |
+| Disease free survival (DFS)**           | 48.9                                                                  | 60.3                                                                    | 0.0520                                                                      | 31%              |
+| Time to new treatment                   | 47.2                                                                  | 69.7                                                                    | <0.0001                                                                     | 42%              |
 
 Response rate and CR rates analysed using Chi-squared Test. NR: not reached; n.a.: not applicable
 
@@ -1172,16 +1135,13 @@ Response rate and CR rates analysed using Chi-squared Test. NR: not reached; n.a
 
 **: only applicable to patients achieving a CR
 
-Table 12b  First-line treatment of chronic lymphocytic leukaemia Hazard ratios of progression-free survival according to Binet stage (ITT) - 48.1 months median observation time
+Table 12b First-line treatment of chronic lymphocytic leukaemia Hazard ratios of progression-free survival according to Binet stage (ITT) - 48.1 months median observation time
 
-| Progression-free survival (PFS)   | Number of patients   | Number of patients   | Hazard Ratio (95% CI)   | p-value (Wald test, not adjusted)   |
-|-----------------------------------|----------------------|----------------------|-------------------------|-------------------------------------|
-| Progression-free survival (PFS)   | FC                   | R-FC                 | Hazard Ratio (95% CI)   | p-value (Wald test, not adjusted)   |
-| Binet stage A                     | 22                   | 18                   | 0.39 (0.15; 0.98)       | 0.0442                              |
-| Binet stage B                     | 259                  | 263                  | 0.52 (0.41; 0.66)       | <0.0001                             |
-| Binet stage C                     | 126                  | 126                  | 0.68 (0.49; 0.95)       | 0.0224                              |
-
-CI: Confidence Interval
+| Progression-free survival (PFS)   |   Number of patients - FC |   Number of patients - R-FC | Hazard Ratio (95% CI)   | p-value (Wald test, not adjusted)   |
+|-----------------------------------|---------------------------|-----------------------------|-------------------------|-------------------------------------|
+| Binet stage A                     |                        22 |                          18 | 0.39 (0.15; 0.98)       | 0.0442                              |
+| Binet stage B                     |                       259 |                         263 | 0.52 (0.41; 0.66)       | <0.0001                             |
+| Binet stage C                     |                       126 |                         126 | 0.68 (0.49; 0.95)       | 0.0224                              |
 
 In the relapsed/refractory study, the median progression-free survival (primary endpoint) was 30.6 months in the R-FC group and 20.6 months in the FC group (p=0.0002, log-rank test). The benefit in terms of PFS was observed in almost all patient subgroups analysed according to disease risk at baseline. A slight but not significant improvement in overall survival was reported in the R-FC compared to the FC arm.
 
@@ -1189,21 +1149,22 @@ In the relapsed/refractory study, the median progression-free survival (primary 
 
 Table 13 Treatment of relapsed/refractory chronic lymphocytic leukaemia - overview of efficacy results for rituximab plus FC vs. FC alone (25.3 months median observation time)
 
-| Efficacy Parameter              | Kaplan-Meier Estimate of Median Time to Event (Months)   | Kaplan-Meier Estimate of Median Time to Event (Months)   | Kaplan-Meier Estimate of Median Time to Event (Months)   | Risk Reduction   |
-|---------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|------------------|
-|                                 | FC (N=276)                                               | R-FC (N=276)                                             | Log-Rank p value                                         |                  |
-| Progression-free survival (PFS) | 20.6                                                     | 30.6                                                     | 0.0002                                                   | 35%              |
-| Overall survival                | 51.9                                                     | NR                                                       | 0.2874                                                   | 17%              |
-| Event free survival             | 19.3                                                     | 28.7                                                     | 0.0002                                                   | 36%              |
-| Response rate (CR, nPR, or PR)  | 58.0%                                                    | 69.9%                                                    | 0.0034                                                   | n.a.             |
-| CR rates                        | 13.0%                                                    | 24.3%                                                    | 0.0007                                                   | n.a.             |
-| Duration of response *          | 27.6                                                     | 39.6                                                     | 0.0252                                                   | 31%              |
-| Disease free survival (DFS)**   | 42.2                                                     | 39.6                                                     | 0.8842                                                   | -6%              |
-| Time to new CLL treatment       | 34.2                                                     | NR                                                       | 0.0024                                                   | 35%              |
+| Efficacy Parameter              | Kaplan-Meier Estimate of Median Time to Event (Months) - FC (N=276)   | Kaplan-Meier Estimate of Median Time to Event (Months) - R-FC (N=276)   |   Kaplan-Meier Estimate of Median Time to Event (Months) - Log-Rank p value | Risk Reduction   |
+|---------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------|
+| Progression-free survival (PFS) | 20.6                                                                  | 30.6                                                                    |                                                                      0.0002 | 35%              |
+| Overall survival                | 51.9                                                                  | NR                                                                      |                                                                      0.2874 | 17%              |
+| Event free survival             | 19.3                                                                  | 28.7                                                                    |                                                                      0.0002 | 36%              |
+| Response rate (CR, nPR, or PR)  | 58.0%                                                                 | 69.9%                                                                   |                                                                      0.0034 | n.a.             |
+| CR rates                        | 13.0%                                                                 | 24.3%                                                                   |                                                                      0.0007 | n.a.             |
+| Duration of response *          | 27.6                                                                  | 39.6                                                                    |                                                                      0.0252 | 31%              |
+| Disease free survival (DFS)**   | 42.2                                                                  | 39.6                                                                    |                                                                      0.8842 | -6%              |
+| Time to new CLL treatment       | 34.2                                                                  | NR                                                                      |                                                                      0.0024 | 35%              |
 
 Response rate and CR rates analysed using Chi-squared Test.
 
 *: only applicable to patients achieving a CR, nPR, PR; NR: not reached
+
+n.a. not applicable
 
 **: only applicable to patients achieving a CR;
 
@@ -1213,11 +1174,9 @@ Data in approximately 180 patients pre-treated with rituximab have demonstrated 
 
 ## Paediatric population
 
-A multicentre, open-label, randomised study of Lymphome Malin B (LMB) chemotherapy (corticosteroids, vincristine, cyclophosphamide, high-dose methotrexate, cytarabine, doxorubicin, etoposide and triple drug [methotrexate/cytarabine/ corticosteroid] intrathecal therapy) alone or in combination with rituximab was conducted in paediatric patients with previously untreated advanced stage CD20 positive DLBCL/BL/BAL/BLL. Advanced stage is defined as Stage III with elevated LDH level ('B-high'), [LDH &gt; twice the institutional upper limit of the adult normal values (&gt; Nx2)] or any stage IV or BAL. Patients were randomised to receive either LMB chemotherapy or six IV infusions of rituximab at a dose of 375 mg/m 2  BSA in combination with LMB chemotherapy (two during each of the two induction courses and one during each of the two consolidation courses) as per the LMB scheme. A total of 328 randomised patients were included in the efficacy analyses, of which one patient under 3 years of age received rituximab in combination with LMB chemotherapy.
+A multicentre, open-label, randomised study of Lymphome Malin B (LMB) chemotherapy (corticosteroids, vincristine, cyclophosphamide, high-dose methotrexate, cytarabine, doxorubicin, etoposide and triple drug [methotrexate/cytarabine/ corticosteroid] intrathecal therapy) alone or in combination with rituximab was conducted in paediatric patients with previously untreated advanced stage CD20 positive DLBCL/BL/BAL/BLL. Advanced stage is defined as Stage III with elevated LDH level (\"B-high\"), [LDH &gt; twice the institutional upper limit of the adult normal values (&gt; Nx2)] or any stage IV or BAL. Patients were randomised to receive either LMB chemotherapy or six IV infusions of rituximab at a dose of 375 mg/m 2 BSA in combination with LMB chemotherapy (two during each of the two induction courses and one during each of the two consolidation courses) as per the LMB scheme. A total of 328 randomised patients were included in the efficacy analyses, of which one patient under 3 years of age received rituximab in combination with LMB chemotherapy.
 
 The two treatment arms, LMB (LMB chemotherapy) and R-LMB (LMB chemotherapy with rituximab), were well balanced with regards to baseline characteristics. Patients had a median age of 7 and 8 years in the LMB arm and R-LMB arm, respectively. Approximately half of patients were in Group B (50.6% in the LMB arm and 49.4% in the R-LMB arm), 39.6% in Group C1 in both arms, and 9.8% and 11.0% were in Group C3 in the LMB and R-LMB arms, respectively. Based on Murphy staging, most patients were either BL stage III (45.7% in the LMB arm and 43.3% in the R-LMB arm) or BAL, CNS negative (21.3% in the LMB arm and 24.4% in the R-LMB arm). Less than half of the patients (45.1% in both arms) had bone marrow involvement, and most patients (72.6% in the LMB arm and 73.2% in the R-LMB arm) had no CNS involvement. The primary efficacy endpoint was EFS, where an event was defined as occurrence of progressive disease, relapse, second malignancy, death from any cause, or non-response as evidenced by detection of viable cells in residue after the second CYVE course, whichever occurs first. The secondary efficacy endpoints were OS and complete remission.
-
-n.a. not applicable
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1249,11 +1208,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 The efficacy and safety of rituximab in alleviating the symptoms and signs of rheumatoid arthritis in patients with an inadequate response to TNF-inhibitors was demonstrated in a pivotal randomised, controlled, double-blind, multicentre trial (Trial 1).
 
-Trial 1 evaluated 517 patients that had experienced an inadequate response or intolerance to one or more TNF inhibitor therapies. Eligible patients had active rheumatoid arthritis, diagnosed according to the criteria of the American College of Rheumatology (ACR). Rituximab was administered as two IV infusions separated by an interval of 15 days. Patients received 2 x 1000 mg intravenous infusions of
+Trial 1 evaluated 517 patients that had experienced an inadequate response or intolerance to one or more TNF inhibitor therapies. Eligible patients had active rheumatoid arthritis, diagnosed according to the criteria of the American College of Rheumatology (ACR). Rituximab was administered as two IV infusions separated by an interval of 15 days. Patients received 2 x 1000 mg intravenous infusions of rituximab or placebo in combination with MTX. All patients received concomitant 60 mg oral prednisone on days 2-7 and 30 mg on days 8-14 following the first infusion. The primary endpoint was the proportion of patients who achieved an ACR20 response at Week 24. Patients were followed beyond Week 24 for long-term endpoints, including radiographic assessment at 56 weeks and at 104 weeks. During this time, 81% of patients, from the original placebo group received rituximab between weeks 24 and 56, under an open label extension study protocol.
 
 <div style=\"page-break-after: always\"></div>
-
-rituximab or placebo in combination with MTX. All patients received concomitant 60 mg oral prednisone on days 2-7 and 30 mg on days 8-14 following the first infusion. The primary endpoint was the proportion of patients who achieved an ACR20 response at Week 24. Patients were followed beyond Week 24 for long-term endpoints, including radiographic assessment at 56 weeks and at 104 weeks. During this time, 81% of patients, from the original placebo group received rituximab between weeks 24 and 56, under an open label extension study protocol.
 
 Trials of rituximab in patients with early arthritis (patients without prior methotrexate treatment and patients with an inadequate response to methotrexate, but not yet treated with TNF-alpha inhibitors) have met their primary endpoints. Rituximab is not indicated for these patients, since the safety data about long-term rituximab treatment are insufficient, in particular concerning the risk of development of malignancies and PML.
 
@@ -1265,15 +1222,13 @@ Clinically and statistically significant improvement was also noted on all indiv
 
 Table 15 Clinical response outcomes at primary endpoint in Trial 1 (ITT population)
 
-|         | Outcome†           | Placebo+MTX             | Rituximab+MTX (2 x 1000 mg)             |
-|---------|--------------------|-------------------------|-----------------------------------------|
-| Trial 1 |                    | N=201                   | N=298                                   |
-|         | ACR20 ACR50 ACR70  | 36 (18%) 11 (5%) 3 (1%) | 153 (51%) *** 80 (27%) *** 37 (12%) *** |
-|         | EULAR Response     | 44 (22%)                |                                         |
-|         | (Good/Moderate)    |                         | 193 (65%) ***                           |
-|         | Mean change in DAS | -0.34                   | -1.83 ***                               |
-
-† Outcome at 24 weeks
+|         | Outcome†                       | Placebo+MTX      | Rituximab+MTX (2 x 1000 mg)    |
+|---------|--------------------------------|------------------|--------------------------------|
+| Trial 1 |                                | N=201            | N=298                          |
+|         | ACR20 ACR50                    | 36 (18%) 11 (5%) | 153 (51%) *** 80 (27%) *** *** |
+|         | ACR70                          | 3 (1%)           | 37 (12%)                       |
+|         | EULAR Response (Good/Moderate) | 44 (22%)         | 193 (65%) ***                  |
+|         | Mean change in DAS             | -0.34            | -1.83 ***                      |
 
 Significant difference from placebo+MTX at the primary timepoint: ***p ≤ 0.0001
 
@@ -1299,8 +1254,6 @@ Table 16 Radiographic outcomes at 1 year (mITT population)
 | Proportion of patients with no radiographic change | 46%           | 53%, NS                     |
 | Proportion of patients with no erosive change      | 52%           | 60%, NS                     |
 
-150 patients originally randomised to placebo+MTX in Trial 1 received at least one course of RTX+MTX by one year * p &lt; 0.05, ** p &lt; 0.001. Abbreviation: NS, non significant
-
 Inhibition of the rate of progressive joint damage was also observed long-term. Radiographic analysis at 2 years in Trial 1 demonstrated significantly reduced progression of structural joint damage in patients receiving rituximab in combination with methotrexate compared to methotrexate alone as well as a significantly higher proportion of patients with no progression of joint damage over the 2-year period.
 
 ## Physical function and quality of life outcomes
@@ -1311,9 +1264,9 @@ Significant improvement in health-related quality of life was also demonstrated 
 
 Table 17 Physical function and quality of life outcomes at Week 24 in Trial 1
 
-| Outcome†                                                                                                                                    | Placebo+MTX                              | Rituximab+MTX (2 x 1000 mg)                                    |
-|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Mean change in HAQ-DI %HAQ-DI MCID Mean change in FACIT-T Mean change in SF-36 PHS %SF-36 PHS MCID Mean change in SF-36 MHS %SF-36 MHS MCID | n=201 0.1 20% -0.5 n=197 0.9 13% 1.3 20% | n=298 -0.4 *** 51% -9.1 *** n=294 5.8 *** 48% *** 4.7 ** 38% * |
+| Outcome†                                                                                                                                       | Placebo+MTX                              | Rituximab+MTX (2 x 1000 mg)                                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| Mean change in HAQ-DI % HAQ-DI MCID Mean change in FACIT-T Mean change in SF-36 PHS % SF-36 PHS MCID Mean change in SF-36 MHS % SF-36 MHS MCID | n=201 0.1 20% -0.5 n=197 0.9 13% 1.3 20% | n=298 -0.4 *** 51% -9.1 *** n=294 5.8 *** 48% *** 4.7 ** 38% * |
 
 Significant difference from placebo at the primary time point: * p &lt; 0.05, **p &lt; 0.001 ***p ≤ 0.0001 MCID HAQ-DI ≥ 0.22, MCID SF-36 PHS &gt; 5.42, MCID SF-36 MHS &gt; 6.33
 
@@ -1321,22 +1274,19 @@ Significant difference from placebo at the primary time point: * p &lt; 0.05, **
 
 Patients seropositive to Rheumatoid Factor (RF) and/or anti-Cyclic Citrullinated Peptide (anti-CCP) who were treated with rituximab in combination with methotrexate showed an enhanced response compared to patients negative to both.
 
-Efficacy outcomes in rituximab treated patients were analysed based on autoantibody status prior to commencing treatment. At Week 24, patients who were seropositive to RF and/or anti-CCP at baseline had a significantly increased probability of achieving ACR20 and 50 responses compared to seronegative patients (p=0.0312 and p=0.0096) (Table 18). These findings were replicated at Week 48, where autoantibody seropositivity also significantly increased the probability of achieving ACR70. At Week 48 seropositive patients were 2-3 times more likely to achieve ACR responses compared to
+Efficacy outcomes in rituximab treated patients were analysed based on autoantibody status prior to commencing treatment. At Week 24, patients who were seropositive to RF and/or anti-CCP at baseline had a significantly increased probability of achieving ACR20 and 50 responses compared to seronegative patients (p=0.0312 and p=0.0096) (Table 18). These findings were replicated at Week 48, where autoantibody seropositivity also significantly increased the probability of achieving ACR70. At Week 48 seropositive patients were 2-3 times more likely to achieve ACR responses compared to seronegative patients. Seropositive patients also had a significantly greater decrease in DAS28-ESR compared to seronegative patients (Figure 1).
 
 <div style=\"page-break-after: always\"></div>
 
-seronegative patients. Seropositive patients also had a significantly greater decrease in DAS28-ESR compared to seronegative patients (Figure 1).
-
 Table 18 Summary of efficacy by baseline autoantibody status
 
-|                       | Week 24              | Week 24              | Week 48              | Week 48              |
-|-----------------------|----------------------|----------------------|----------------------|----------------------|
-|                       | Seropositive (n=514) | Seronegative (n=106) | Seropositive (n=506) | Seronegative (n=101) |
-| ACR20 (%)             | 62.3*                | 50.9                 | 71.1*                | 51.5                 |
-| ACR50 (%)             | 32.7*                | 19.8                 | 44.9**               | 22.8                 |
-| ACR70 (%)             | 12.1                 | 5.7                  | 20.9*                | 6.9                  |
-| EULAR response (%)    | 74.8*                | 62.9                 | 84.3*                | 72.3                 |
-| Mean change DAS28-ESR | -1.97**              | -1.50                | -2.48***             | -1.72                |
+|                       | Week 24 - Seropositive (n=514)   |   Week 24 - Seronegative (n=106) | Week 48 - Seropositive (n=506)   |   Week 48 - Seronegative (n=101) |
+|-----------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| ACR20 (%)             | 62.3*                            |                             50.9 | 71.1*                            |                             51.5 |
+| ACR50 (%)             | 32.7*                            |                             19.8 | 44.9**                           |                             22.8 |
+| ACR70 (%)             | 12.1                             |                              5.7 | 20.9*                            |                              6.9 |
+| EULAR response (%)    | 74.8*                            |                             62.9 | 84.3*                            |                             72.3 |
+| Mean change DAS28-ESR | -1.97**                          |                            -1.50 | -2.48***                         |                            -1.72 |
 
 Significance levels were defined as * p &lt; 0.05, **p &lt; 0.001, ***p &lt; 0.0001.
 
@@ -1380,19 +1330,15 @@ Table 19 Percentage of adult patients who achieved complete remission at 6 month
 
 |      | Rituximab (n = 99)   | Cyclophosphamide (n = 98)   | Treatment difference (Rituximab- Cyclophosph amide)   |
 |------|----------------------|-----------------------------|-------------------------------------------------------|
-| Rate | 63.6%                | 53.1%                       | 10.6% 95.1% b CI ( - 3.2%, 24.3%) a                   |
+| Rate | 63.6%                | 53.1%                       | 10.6% 95.1% b CI (-3.2%, 24.3%) a                     |
 
 -
-
--
-
-CI = confidence interval.
 
 * Worst case imputation
 
-- a  Non-inferiority was demonstrated since the lower bound ( -3.2%) was higher than the pre-determined non-inferiority margin ( -20%).
+a Non-inferiority was demonstrated since the lower bound ( - 3.2%) was higher than the pre-determined non-inferiority margin ( - 20%).
 
-b  The 95.1% confidence level reflects an additional 0.001 alpha to account for an interim efficacy analysis.
+b The 95.1% confidence level reflects an additional 0.001 alpha to account for an interim efficacy analysis.
 
 Table 20 Complete remission at 6-months by disease status
 
@@ -1412,17 +1358,15 @@ In the rituximab group, 48% of patients achieved complete remission at 12 months
 
 ## Laboratory evaluations
 
-A total of 23/99 (23%) rituximab-treated patients from the induction of remission trial tested positive for  ADA by 18 months. None of the 99 rituximab-treated patients were ADA positive at screening. There was no apparent trend or negative impact of the presence of ADA on safety or efficacy in the induction of remission trial.
+A total of 23/99 (23%) rituximab-treated patients from the induction of remission trial tested positive for ADA by 18 months. None of the 99 rituximab-treated patients were ADA positive at screening. There was no apparent trend or negative impact of the presence of ADA on safety or efficacy in the induction of remission trial.
 
 ## Adult maintenance of remission treatment
 
-A total of 117 patients (88 with GPA, 24 with MPA, and 5 with renal-limited ANCA-associated vasculitis) in disease remission were randomised to receive azathioprine (59 patients) or rituximab (58 patients) in a prospective, multicentre, controlled, open-label study. Included patients were 21 to 75 years of age and had newly diagnosed or relapsing disease in complete remission after combined treatment with glucocorticoids and pulse cyclophosphamide. The majority of patients were ANCA -positive at diagnosis or during the course of their disease; had histologically confirmed necrotizing small-vessel vasculitis with a clinical phenotype of GPA or MPA, or renal limited ANCA-associated vasculitis; or both.
+A total of 117 patients (88 with GPA, 24 with MPA, and 5 with renal-limited ANCA-associated vasculitis) in disease remission were randomised to receive azathioprine (59 patients) or rituximab (58 patients) in a prospective, multicentre, controlled, open-label study. Included patients were 21 to 75 years of age and had newly diagnosed or relapsing disease in complete remission after combined treatment with glucocorticoids and pulse cyclophosphamide. The majority of patients were ANCApositive at diagnosis or during the course of their disease; had histologically confirmed necrotizing small-vessel vasculitis with a clinical phenotype of GPA or MPA, or renal limited ANCA-associated vasculitis; or both.
 
-Remission-induction therapy included IV prednisone, administered as per the investigator's discretion, preceded in some patients by methylprednisolone pulses, and pulse cyclophosphamide until remission was attained after 4 to 6 months. At that time, and within a maximum of 1 month after the last cyclophosphamide pulse, patients were randomly assigned to receive either rituximab (two 500 mg IV infusions separated by two weeks (on Day 1 and Day 15) followed by 500 mg IV every 6 months for 18 months) or azathioprine (administered orally at a dose of 2 mg/kg/day for 12 months, then 1.5 mg/kg/day for 6 months, and finally 1 mg/kg/day for 4 months (treatment discontinuation after these 22 months)). Prednisone treatment was tapered and then kept at a low dose (approximately 5 mg
+Remission-induction therapy included IV prednisone, administered as per the investigator's discretion, preceded in some patients by methylprednisolone pulses, and pulse cyclophosphamide until remission was attained after 4 to 6 months. At that time, and within a maximum of 1 month after the last cyclophosphamide pulse, patients were randomly assigned to receive either rituximab (two 500 mg IV infusions separated by two weeks (on Day 1 and Day 15) followed by 500 mg IV every 6 months for 18 months) or azathioprine (administered orally at a dose of 2 mg/kg/day for 12 months, then 1.5 mg/kg/day for 6 months, and finally 1 mg/kg/day for 4 months (treatment discontinuation after these 22 months)). Prednisone treatment was tapered and then kept at a low dose (approximately 5 mg per day) for at least 18 months after randomisation. Prednisone dose tapering and the decision to stop prednisone treatment after Month 18 were left at the investigator's discretion.
 
 <div style=\"page-break-after: always\"></div>
-
-per day) for at least 18 months after randomisation. Prednisone dose tapering and the decision to stop prednisone treatment after Month 18 were left at the investigator's discretion.
 
 All patients were followed until Month 28 (10 or 6 months, respectively, after the last rituximab infusion or azathioprine dose). Pneumocystis jirovecii pneumonia prophylaxis was required for all patients with CD4+ T-lymphocyte counts less than 250 per cubic millimetre.
 
@@ -1456,11 +1400,9 @@ A total of 6/34 (18%) of rituximab treated patients from the maintenance therapy
 
 ## Paediatric population
 
-Study WA25615 (PePRS) was a multicentre, open-label, single-arm, uncontrolled study in 25 paediatric patients (≥ 2 to &lt; 18 years old) with severe, active GPA or MPA. The median age of patients
+Study WA25615 (PePRS) was a multicentre, open-label, single-arm, uncontrolled study in 25 paediatric patients (≥ 2 to &lt; 18 years old) with severe, active GPA or MPA. The median age of patients in the study was: 14 years (range: 6-17 years) and the majority of patients (20/25 [80%]) were female. A total of 19 patients (76%) had GPA and 6 patients (24%) had MPA at baseline. Eighteen patients (72%) had newly diagnosed disease upon study entry (13 patients with GPA and 5 patients with MPA) and 7 patients had relapsing disease (6 patients with GPA and 1 patient with MPA).
 
 <div style=\"page-break-after: always\"></div>
-
-in the study was: 14 years (range: 6-17 years) and the majority of patients (20/25 [80%]) were female. A total of 19 patients (76%) had GPA and 6 patients (24%) had MPA at baseline. Eighteen patients (72%) had newly diagnosed disease upon study entry (13 patients with GPA and 5 patients with MPA) and 7 patients had relapsing disease (6 patients with GPA and 1 patient with MPA).
 
 The study design consisted of an initial 6-month remission induction phase, with a minimum 18-month follow-up, up to a maximum of 54 months (4.5 years) overall. Patients were to receive a minimum of 3 doses of IV methylprednisolone (30 mg/kg/day, not exceeding 1 g/day) prior to the first rituximab IV infusion. If clinically indicated, additional daily doses (up to three), of IV methylprednisolone could be given. The remission induction regimen consisted of four once weekly IV infusions of rituximab at a dose of 375 mg/m 2 BSA, on study days 1, 8, 15 and 22 in combination with oral prednisolone or prednisone at 1 mg/kg/day (max 60 mg/day) tapered to 0.2 mg/kg/day minimum (max 10 mg/day) by Month 6. After the remission induction phase, patients could, at the discretion of the investigator, receive subsequent rituximab infusions on or after Month 6 to maintain PVAS remission and control disease activity (including progressive disease or flare) or to achieve first remission.
 
@@ -1518,11 +1460,11 @@ The study showed statistically significant results of rituximab and low-dose pre
 
 Table 22 Percentage of PV patients who achieved complete remission off corticosteroid therapy for two months or more at Month 24 (Intent-to-Treat Population-PV)
 
+a p-value is from Fisher's exact test with mid-p correction
+
 |                                          | Rituximab+Prednisone N=38   | Prednisone N=36   | p-value a   | 95% CI b           |
 |------------------------------------------|-----------------------------|-------------------|-------------|--------------------|
 | Number of responders (response rate [%]) | 34 (89.5%)                  | 10 (27.8%)        | < 0.0001    | 61.7% (38.4, 76.5) |
-
-a p-value is from Fisher's exact test with mid-p correction b 95% confidence interval is corrected Newcombe interval
 
 The number of rituximab plus low-dose prednisone patients off prednisone therapy or on minimal therapy (prednisone dose of 10 mg or less per day) compared to standard-dose prednisone patients over the 24-month treatment period shows a steroid-sparing effect of rituximab (Figure 4).
 
@@ -1536,7 +1478,7 @@ A total of 19/34 (56%) patients with PV, who were treated with rituximab, tested
 
 ## PV Study 2 (Study WA29330)
 
-In a randomised, double-blind, double-dummy, active-comparator, multicentre study, the efficacy and safety of rituximab compared with mycophenolate mofetil (MMF) were evaluated in patients with moderate-to-severe PV receiving 60-120 mg/day oral prednisone or equivalent (1.0-1.5 mg/kg/day) at study entry and tapered to reach a dose of 60 or 80 mg/day by Day 1. Patients had a confirmed diagnosis of PV within the previous 24 months and evidence of moderate-to-severe disease (defined as a total Pemphigus Disease Area Index, PDAI, activity score of  15).
+In a randomised, double-blind, double-dummy, active-comparator, multicentre study, the efficacy and safety of rituximab compared with mycophenolate mofetil (MMF) were evaluated in patients with moderate-to-severe PV receiving 60-120 mg/day oral prednisone or equivalent (1.0-1.5 mg/kg/day) at study entry and tapered to reach a dose of 60 or 80 mg/day by Day 1. Patients had a confirmed diagnosis of PV within the previous 24 months and evidence of moderate-to-severe disease (defined as a total Pemphigus Disease Area Index, PDAI, activity score of ≥ 15).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1546,14 +1488,15 @@ The primary efficacy objective for this study was to evaluate at Week 52, the ef
 
 ## PV Study 2 Results
 
-The study demonstrated the superiority of rituximab over MMF in combination with a tapering course of oral corticosteroids in achieving CRoff corticosteroid  16 weeks at Week 52 in PV patients (Table 23).The majority of patients in the mITT population were newly diagnosed (74%) and 26% of patients had established disease (duration of illness  6 months and received prior treatment for PV).
+The study demonstrated the superiority of rituximab over MMF in combination with a tapering course of oral corticosteroids in achieving CRoff corticosteroid ≥ 16 weeks at Week 52 in PV patients (Table 23).The majority of patients in the mITT population were newly diagnosed (74%) and 26% of patients had established disease (duration of illness ≥ 6 months and received prior treatment for PV).
 
 Table 23 Percentage of PV patients who achieved sustained complete remission off corticosteroid therapy for 16 weeks or more at week 52 (Modified Intent-to-Treat Population)
 
-|                                                                                                                                                                                                                                                                                                                | Rituximab (N=62)                | MMF (N=63)          | Difference (95% CI)     | p-value   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|---------------------|-------------------------|-----------|
-| Number of responders (response rate [%]) Newly diagnosed patients Patients with established                                                                                                                                                                                                                    | 25 (40.3%) 19 (39.6%) 6 (42.9%) | 6 (9.5%) 4 (9.1%) 2 | 30.80% (14.70%, 45.15%) | < 0.0001  |
-| disease MMF=Mycophenolate mofetil. CI = Confidence Interval. Newly diagnosed patients = duration of illness < 6 months or no prior treatment for PV. Patients with established disease = duration of illness  6 months and received prior treatment for PV. Cochran-Mantel-Haenszel test is used for p-value. |                                 | (10.5%)             |                         |           |
+|                                                                                                                                             | Rituximab (N=62)                          | MMF (N=63)                                   | Difference (95% CI)                                     | p-value       |
+|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------|---------------------------------------------------------|---------------|
+| Number of responders (response rate [%])                                                                                                    | 25 (40.3%)                                | 6 (9.5%) 4 (9.1%) 2                          | 30.80% (14.70%, 45.15%)                                 | < 0.0001      |
+| Newly diagnosed patients Patients with established disease                                                                                  | 19 (39.6%) 6 (42.9%)                      | (10.5%)                                      |                                                         |               |
+| MMF = Mycophenolate mofetil. CI Newly diagnosed patients = duration Patients with established disease = PV. Cochran-Mantel-Haenszel test is | = Confidence of illness duration used for | Interval. < 6 months of illness ≥ 6 p-value. | or no prior treatment for PV. months and received prior | treatment for |
 
 The analysis of all secondary parameters (including cumulative oral corticosteroid dose, the total number of disease flares, and change in health-related quality of life, as measured by the Dermatology Life Quality Index) verified the statistically significant results of rituximab compared to MMF. Testing of secondary endpoints were controlled for multiplicity.
 
@@ -1577,7 +1520,7 @@ By Week 52, a total of 20/63 (31.7%) (19 treatment-induced and 1 treatment-enhan
 
 Based on a population pharmacokinetic analysis in 298 NHL patients who received single or multiple infusions of rituximab as a single agent or in combination with CHOP therapy (applied rituximab doses ranged from 100 to 500 mg/m 2 ), the typical population estimates of nonspecific clearance (CL1), specific clearance (CL2) likely contributed by B-cells or tumour burden, and central compartment volume of distribution (V1) were 0.14 L/day, 0.59 L/day, and 2.7 L, respectively. The estimated median terminal elimination half-life of rituximab was 22 days (range, 6.1 to 52 days). Baseline CD19-positive cell counts and size of measurable tumour lesions contributed to some of the variability in CL2 of rituximab in data from 161 patients given 375 mg/m 2 as an intravenous infusion for 4 weekly doses. Patients with higher CD19-positive cell counts or tumour lesions had a higher CL2. However, a large component of inter-individual variability remained for CL2 after correction for CD19-positive cell counts and tumour lesion size. V1 varied by body surface area (BSA) and CHOP therapy. This variability in V1 (27.1% and 19.0%) contributed by the range in BSA (1.53 to 2.32 m 2 ) and concurrent CHOP therapy, respectively, were relatively small. Age, gender and WHO performance status had no effect on the pharmacokinetics of rituximab. This analysis suggests that dose adjustment of rituximab with any of the tested covariates is not expected to result in a meaningful reduction in its pharmacokinetic variability.
 
-Rituximab, administered as an intravenous infusion at a dose of 375 mg/m 2 at weekly intervals for 4 doses to 203 patients with NHL naive to rituximab, yielded a mean Cmax following the fourth infusion of 486 µg/mL (range, 77.5 to 996.6 µg/mL). Rituximab was detectable in the serum of patients 3 6 months after completion of last treatment.
+Rituximab, administered as an intravenous infusion at a dose of 375 mg/m 2 at weekly intervals for 4 doses to 203 patients with NHL naive to rituximab, yielded a mean Cmax following the fourth infusion of 486 µg/mL (range, 77.5 to 996.6 µg/mL). Rituximab was detectable in the serum of patients 3 - 6 months after completion of last treatment.
 
 Upon administration of rituximab at a dose of 375 mg/m 2 as an intravenous infusion at weekly intervals for 8 doses to 37 patients with NHL, the mean Cmax increased with each successive infusion, spanning from a mean of 243 µg/mL (range, 16 - 582 µg/mL) after the first infusion to 550 µg/mL (range, 171 - 1177 µg/mL) after the eighth infusion.
 
@@ -1585,7 +1528,7 @@ The pharmacokinetic profile of rituximab when administered as 6 infusions of 375
 
 ## Paediatric DLBCL/BL/BAL/BLL
 
-In the clinical trial studying paediatric DLBCL/BL/BAL/BLL, the PK was studied in a subset of 35 patients aged 3 years and older. The PK was comparable between the two age groups (≥ 3 to  12 years vs. ≥ 12 to &lt; 18 years). After two rituximab IV infusions of 375 mg/m 2 in each of the two induction cycles (cycle 1 and 2) followed by one rituximab IV infusion of 375 mg/m 2 in each of the consolidation cycles (cycle 3 and 4) the maximum concentration was highest after the fourth infusion (cycle 2) with a geometric mean of 347 µg/mL followed by lower geometric mean maximum concentrations thereafter (Cycle 4: 247 µg/mL). With this dose regimen, trough levels were sustained (geometric means: 41.8 µg/mL (pre-dose Cycle 2; after 1 cycle), 67.7 µg/mL (pre-dose Cycle 3, after 2 cycles) and 58.5 µg/mL (pre-dose Cycle 4, after 3 cycles)). The median elimination half-life in paediatric patients aged 3 years and older was 26 days.
+In the clinical trial studying paediatric DLBCL/BL/BAL/BLL, the PK was studied in a subset of 35 patients aged 3 years and older. The PK was comparable between the two age groups (≥ 3 to &lt; 12 years vs. ≥ 12 to &lt; 18 years). After two rituximab IV infusions of 375 mg/m 2 in each of the two induction cycles (cycle 1 and 2) followed by one rituximab IV infusion of 375 mg/m 2 in each of the consolidation cycles (cycle 3 and 4) the maximum concentration was highest after the fourth infusion (cycle 2) with a geometric mean of 347 µg/mL followed by lower geometric mean maximum concentrations thereafter (Cycle 4: 247 µg/mL). With this dose regimen, trough levels were sustained (geometric means: 41.8 µg/mL (pre-dose Cycle 2; after 1 cycle), 67.7 µg/mL (pre-dose Cycle 3, after 2 cycles) and 58.5 µg/mL (pre-dose Cycle 4, after 3 cycles)). The median elimination half-life in paediatric patients aged 3 years and older was 26 days.
 
 The PK characteristics of rituximab in paediatric patients with DLBCL/BL/BAL/BLL were similar to what has been observed in adult NHL patients.
 
@@ -1595,16 +1538,16 @@ No PK data are available in the ≥ 6 months to &lt; 3 years age group, however,
 
 Table 24 Predicted PK parameters following the Rituximab dosing regimen in paediatric DLBCL/BL/BAL/BLL
 
-| Age group                  | ≥ 6 mo to < 3 years   | ≥ 3 to < 12 years   | ≥ 12 to < 18 years   |
-|----------------------------|-----------------------|---------------------|----------------------|
-| C trough (µg/mL)           | 47.5 (0.01-179)       | 51.4 (0.00-182)     | 44.1 (0.00-149)      |
-| AUC 1-4 cycles (µg*day/mL) | 13501 (278-31070)     | 11609 (135-31157)   | 11467 (110-27066)    |
+| Age group                 | ≥ 6 mo to < 3 years   | ≥ 3 to < 12 years   | ≥ 12 to < 18 years   |
+|---------------------------|-----------------------|---------------------|----------------------|
+| Ctrough (µg/mL)           | 47.5 (0.01-179)       | 51.4 (0.00-182)     | 44.1 (0.00-149)      |
+| AUC1-4 cycles (µg*day/mL) | 13501 (278-31070)     | 11609 (135-31157)   | 11467 (110-27066)    |
 
 Results are presented as median (min - max); Ctrough is pre-dose Cycle 4.
 
 ## Chronic lymphocytic leukaemia
 
-Rituximab was administered as an intravenous infusion at a first-cycle dose of 375 mg/m 2 increased to 500 mg/m 2  each cycle for 5 doses in combination with fludarabine and cyclophosphamide in CLL patients. The mean Cmax (N=15) was 408 µg/mL (range, 97 - 764 µg/mL) after the fifth 500 mg/m 2 infusion and the mean terminal half-life was 32 days (range, 14 - 62 days).
+Rituximab was administered as an intravenous infusion at a first-cycle dose of 375 mg/m 2 increased to 500 mg/m 2 each cycle for 5 doses in combination with fludarabine and cyclophosphamide in CLL patients. The mean Cmax (N=15) was 408 µg/mL (range, 97 - 764 µg/mL) after the fifth 500 mg/m 2 infusion and the mean terminal half-life was 32 days (range, 14 - 62 days).
 
 ## Rheumatoid arthritis
 
@@ -1626,7 +1569,7 @@ Based on the population pharmacokinetic analysis of data in 97 patients with gra
 
 ## Paediatric Population
 
-Based on the population pharmacokinetic analysis of 25 children (6-17 years old) with GPA and MPA who received 375 mg/m 2  rituximab once weekly for four doses, the estimated median terminal elimination half-life was 22 days (range, 11 to 42 days). Rituximab mean clearance and volume of distribution were 0.221 L/day (range, 0.0996 to 0.381 L/day) and 2.27 L (range 1.43 to 3.17 L), respectively. Maximum concentration during the first 180 days (Cmax), minimum concentration at Day 180 (C180) and Cumulative area under the curve over 180 days (AUC180) were (median [range]) 382.8 (270.6-513.6) µg/mL, 0.9 (0-17.7) µg/mL and 9787 (4838-20446) µg/mL*day, respectively. The PK parameters of rituximab in paediatric patients with GPA or MPA were similar to those in adults with GPA or MPA, once taking into account the BSA effect on clearance and volume of distribution parameters.
+Based on the population pharmacokinetic analysis of 25 children (6-17 years old) with GPA and MPA who received 375 mg/m 2 rituximab once weekly for four doses, the estimated median terminal elimination half-life was 22 days (range, 11 to 42 days). Rituximab mean clearance and volume of distribution were 0.221 L/day (range, 0.0996 to 0.381 L/day) and 2.27 L (range 1.43 to 3.17 L), respectively. Maximum concentration during the first 180 days (Cmax), minimum concentration at Day 180 (C180) and Cumulative area under the curve over 180 days (AUC180) were (median [range]) 382.8 (270.6-513.6) µg/mL, 0.9 (0-17.7) µg/mL and 9787 (4838-20446) µg/mL*day, respectively. The PK parameters of rituximab in paediatric patients with GPA or MPA were similar to those in adults with GPA or MPA, once taking into account the BSA effect on clearance and volume of distribution parameters.
 
 ## Pemphigus vulgaris
 
@@ -1634,12 +1577,11 @@ The PK parameters in adult PV patients receiving rituximab 1000 mg at Days 1, 15
 
 Table 25 Population PK in adult PV patients from PV Study 2
 
-| Parameter                                       | Infusion cycle                             | Infusion cycle                                |
-|-------------------------------------------------|--------------------------------------------|-----------------------------------------------|
-|                                                 | 1st cycle of 1000 mg Day 1 and Day 15 N=67 | 2nd cycle of 1000 mg Day 168 and Day 182 N=67 |
-| Terminal Half-life (days) Median (Range)        | 21.0 (9.3-36.2)                            | 26.5 (16.4-42.8)                              |
-| Clearance (L/day) Mean (Range)                  | 391 (159-1510)                             | 247 (128-454)                                 |
-| Central Volume of Distribution (L) Mean (Range) | 3.52 (2.48-5.22)                           | 3.52 (2.48-5.22)                              |
+| Parameter                                       | Infusion cycle - 1st cycle of 1000 mg Day 1 and Day 15 N=67   | Infusion cycle - 2nd cycle of 1000 mg Day 168 and Day 182 N=67   |
+|-------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------|
+| Terminal Half-life (days) Median (Range)        | 21.0 (9.3-36.2)                                               | 26.5 (16.4-42.8)                                                 |
+| Clearance (L/day) Mean (Range)                  | 391 (159-1510)                                                | 247 (128-454)                                                    |
+| Central Volume of Distribution (L) Mean (Range) | 3.52 (2.48-5.22)                                              | 3.52 (2.48-5.22)                                                 |
 
 Following the first two rituximab administrations (at Day 1 and 15, corresponding to cycle 1), the PK parameters of rituximab in patients with PV were similar to those in patients with GPA/MPA and patients with RA. Following the last two administrations (at Day 168 and 182, corresponding to cycle 2), rituximab clearance decreased while the central volume of distribution remained unchanged.
 
@@ -1669,17 +1611,19 @@ The medicinal product must not be mixed with other medicinal products except tho
 
 ## 6.3 Shelf life
 
-Unopened vial 24 months
+Unopened vial
 
-## Diluted medicinal product
+48 months
 
-- After aseptic dilution in sodium chloride solution
+Diluted medicinal product
 
-The prepared infusion solution of Ruxience in 0.9% sodium chloride solution is physically and chemically stable for 35 days at 2 °C - 8 °C plus an additional 24 hours at ≤ 30 °C.
+- After aseptic dilution in sodium chloride solution The prepared infusion solution of Ruxience in 0.9% sodium chloride solution is physically and
 
-- After aseptic dilution in D-glucose solution
+chemically stable for 35 days at 2 °C - 8 °C plus an additional 24 hours at ≤ 30 °C.
 
-The prepared infusion solution of Ruxience in 5% D-glucose solution is physically and chemically stable for 24 hours at 2 °C - 8 °C plus an additional 24 hours at ≤ 30 °C.
+- After aseptic dilution in D-glucose solution The prepared infusion solution of Ruxience in 5% D-glucose solution is physically and chemically
+
+stable for 24 hours at 2 °C - 8 °C plus an additional 24 hours at ≤ 30 °C.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1727,17 +1671,13 @@ Ruxience 500 mg concentrate for solution for infusion
 
 EU/1/20/1431/002
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 01 April 2020
 
 Date of latest renewal: 13 November 2024
 
-10.
-
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency (EMA) https://www.ema.europa.eu.
 
@@ -1747,11 +1687,13 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE AND
+- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-## MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
-## D. EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1762,6 +1704,8 @@ Name and address of the manufacturer(s) of the biological active substance
 Boehringer Ingelheim Pharma GmbH &amp; Co KG Birkendorfer Straße 65 88397 Biberach an der Riss Germany
 
 Pfizer Ireland Pharmaceuticals Unlimited Company Grange Castle Business Park Nangor Road Dublin 22 D22 V8F8 Ireland
+
+Samsung Biologics Co. Ltd. 300, Songdo bio-daero Yeonsu-gu, Incheon, 21987 Republic of Korea
 
 Name and address of the manufacturer responsible for batch release
 
@@ -1786,21 +1730,24 @@ The marketing authorisation holder (MAH) shall perform the pharmacovigilance act
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
 ## · Additional risk minimisation measures
 
-Non-oncology indications:
+## Non-oncology indications:
 
 The MAH must ensure that all physicians who are expected to prescribe Ruxience are provided with the following:
 
-## Product information Patient Alert card
+Product information
+
+Patient Alert card
 
 The Patient Alert Card for Ruxience in non-oncology indications should contain the following key elements:
 
-- The need to carry the card at all times and to show the card to all treating health care  professionals
+- The need to carry the card at all times and to show the card to all treating health care professionals
 - Warning on the risk of infections and PML, including the symptoms
 - The need for patients to contact their health care professional if symptoms occur
 
@@ -1808,13 +1755,13 @@ The Patient Alert Card must be agreed with the National Competent Authorities pr
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III
-
-## LABELLING AND PACKAGE LEAFLET
+## ANNEX III LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1854,47 +1801,53 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-<div style=\"page-break-after: always\"></div>
-
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store in a refrigerator. Do not freeze. Keep the vial in the outer carton, in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/20/1431/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -- HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER -- HUMAN READABLE DATA   |
+|-------|--------------------------------------------|
 
-PC SN
-
-<div style=\"page-break-after: always\"></div>
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1910,7 +1863,7 @@ Ruxience 100 mg sterile concentrate rituximab
 
 I.V. after dilution
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -1918,11 +1871,14 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 100 mg / 10 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1944,11 +1900,7 @@ L-histidine, L-histidine hydrochloride monohydrate, disodium edetate, polysorbat
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Concentrate for solution for infusion
-
-500 mg / 50 mL
-
-1 vial
+Concentrate for solution for infusion 500 mg / 50 mL 1 vial
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1962,47 +1914,53 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-<div style=\"page-break-after: always\"></div>
-
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store in a refrigerator. Do not freeze. Keep the vial in the outer carton, in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/20/1431/002
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -- HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER -- HUMAN READABLE DATA   |
+|-------|--------------------------------------------|
 
-PC SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2020,7 +1978,8 @@ For intravenous use after dilution
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -2028,7 +1987,8 @@ Lot
 
 500 mg / 50 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2074,13 +2034,13 @@ You should also tell them about your Ruxience treatment.
 
 ## What else do I need to know?
 
-Rarely Ruxience can cause a serious brain infection, called 'Progressive Multifocal Leukoencephalopathy' or PML. This can be fatal.
+Rarely Ruxience can cause a serious brain infection, called \"Progressive Multifocal Leukoencephalopathy\" or PML. This can be fatal.
 
 - Signs of PML include:
-- -Confusion, memory loss or problems thinking
-- -Loss of balance or a change in the way you walk or talk
-- -Decreased strength or weakness on one side of your body
-- -Blurred vision or loss of vision.
+- Confusion, memory loss or problems thinking
+- Loss of balance or a change in the way you walk or talk
+- Decreased strength or weakness on one side of your body
+- Blurred vision or loss of vision.
 
 If you get any of these, tell a doctor or nurse straight away. You should also tell them about your Ruxience treatment.
 
@@ -2110,7 +2070,11 @@ Please talk to your doctor or nurse if you have any questions about the informat
 
 <div style=\"page-break-after: always\"></div>
 
-## Package leaflet: Information for the patient Ruxience 100 mg concentrate for solution for infusion Ruxience 500 mg concentrate for solution for infusion rituximab
+## Package leaflet: Information for the patient
+
+## Ruxience 100 mg concentrate for solution for infusion Ruxience 500 mg concentrate for solution for infusion
+
+rituximab
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2131,21 +2095,21 @@ Please talk to your doctor or nurse if you have any questions about the informat
 
 ## What Ruxience is
 
-Ruxience contains the active substance 'rituximab'. This is a type of protein called a 'monoclonal antibody'. It sticks to the surface of a type of white blood cell called 'B-Lymphocyte'. When rituximab sticks to the surface of this cell, the cell dies.
+Ruxience contains the active substance \"rituximab\". This is a type of protein called a \"monoclonal antibody\". It sticks to the surface of a type of white blood cell called \"B-Lymphocyte\". When rituximab sticks to the surface of this cell, the cell dies.
 
 ## What Ruxience is used for
 
 Ruxience may be used for the treatment of several different conditions in adults and children. Your doctor may prescribe Ruxience for the treatment of:
 
-## a) Non-Hodgkin ' s Lymphoma
+## a) Non-Hodgkin's Lymphoma
 
 This is a disease of the lymph tissue (part of the immune system) that affects a type of white blood cell called B-Lymphocytes.
 
-In adults Ruxience can be given alone or with other medicines called 'chemotherapy'.
+In adults Ruxience can be given alone or with other medicines called \"chemotherapy\".
 
 In adult patients where the treatment is working, Ruxience may be used as a maintenance treatment for 2 years after completing the initial treatment.
 
-In children and adolescents, Ruxience is given in combination with 'chemotherapy'.
+In children and adolescents, Ruxience is given in combination with \"chemotherapy\".
 
 ## b) Chronic lymphocytic leukaemia
 
@@ -2219,7 +2183,7 @@ Talk to your doctor, pharmacist or nurse before you are given this medicine if y
 
 Tell your doctor, pharmacist or nurse if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription and herbal medicines. This is because Ruxience can affect the way some other medicines work. Also some other medicines can affect the way Ruxience works.
 
-## In particular, tell your doctor:
+In particular, tell your doctor:
 
 - if you are taking medicines for high blood pressure. You may be asked not to take these other medicines 12 hours before you are given Ruxience. This is because some people have a fall in their blood pressure while they are being given Ruxience.
 - if you have ever taken medicines which affect your immune system - such as chemotherapy or immune-suppressive medicines.
@@ -2258,8 +2222,8 @@ Before you are given Ruxience, you will be given other medicines (pre-medication
 
 ## a) If you are being treated for non-Hodgkin's lymphoma
 
-- •
-- If you are having Ruxience alone Ruxience will be given to you once a week for 4 weeks. Repeated treatment courses with Ruxience are possible.
+- If you are having Ruxience alone
+- Ruxience will be given to you once a week for 4 weeks. Repeated treatment courses with Ruxience are possible.
 - If you are having Ruxience with chemotherapy
 - Ruxience will be given to you on the same day as your chemotherapy. This is usually given every 3 weeks up to 8 times.
 - If you respond well to treatment, you may be given Ruxience as a maintenance treatment every 2 or 3 months for two years. Your doctor may change this, depending on how you respond to the medicine.
@@ -2281,11 +2245,9 @@ If you are 18 years of age and older and respond well to treatment, you may be g
 
 ## e) If you are being treated for pemphigus vulgaris
 
-Each course of treatment is made up of two separate infusions which are given 2 weeks apart. If you respond well to treatment, you may be given Ruxience as a maintenance treatment. This will be
+Each course of treatment is made up of two separate infusions which are given 2 weeks apart. If you respond well to treatment, you may be given Ruxience as a maintenance treatment. This will be administered 1 year and 18 months after the initial treatment and then every 6 months as needed or your doctor may change this, depending on how you respond to the medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-administered 1 year and 18 months after the initial treatment and then every 6 months as needed or your doctor may change this, depending on how you respond to the medicine.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
@@ -2309,7 +2271,9 @@ During or within the first 24 hours of the infusion you may develop fever, chill
 
 You might get infections more easily during your treatment with Ruxience.
 
-These are often colds, but there have been cases of pneumonia, or urinary infections and serious viral infections. These are listed below under 'Other side effects'.
+These are often colds, but there have been cases of pneumonia, or urinary infections and serious viral
+
+infections. These are listed below under \"Other side effects\".
 
 If you are being treated for rheumatoid arthritis, granulomatosis with polyangiitis, microscopic polyangiitis or pemphigus vulgaris, you will also find this information in the Patient Alert Card you have been given by your doctor. It is important that you keep this Alert Card and show it to your partner or caregiver.
 
@@ -2324,20 +2288,20 @@ Very rarely, severe blistering skin conditions that can be life-threatening may 
 Very common side effects (may affect more than 1 in 10 people):
 
 - bacterial or viral infections, bronchitis,
-- low number of white blood cells, with or without fever or blood cells called 'platelets',
+- low number of white blood cells, with or without fever or blood cells called \"platelets\",
 
 <div style=\"page-break-after: always\"></div>
 
 - feeling sick (nausea),
 - bald spots on the scalp, chills, headache,
-- lower immunity - because of lower levels of anti-bodies called 'immunoglobulins' (IgG) in the blood which help protect against infection.
+- lower immunity - because of lower levels of anti-bodies called \"immunoglobulins\" (IgG) in the blood which help protect against infection.
 
 Common side effects (may affect up to 1 in 10 people):
 
 - infections of the blood (sepsis), pneumonia, shingles, cold, bronchial tube infections, fungal infections, infections of unknown origin, sinus inflammation, hepatitis B,
 - low number of red blood cells (anaemia), low number of all blood cells,
 - allergic reactions (hypersensitivity),
-- high blood sugar level, weight loss, swelling in the face and body, high levels of the enzyme 'LDH' in the blood, low calcium levels in the blood,
+- high blood sugar level, weight loss, swelling in the face and body, high levels of the enzyme \"LDH\" in the blood, low calcium levels in the blood,
 - unusual feelings of the skin - such as numbness, tingling, pricking, burning, a creeping skin feeling, reduced sense of touch,
 - feeling restless, problems falling asleep,
 - becoming very red in the face and other areas of the skin as a consequence of dilation of the blood vessels,
@@ -2476,11 +2440,9 @@ Not known (frequency cannot be estimated from the available data):
 
 ## Children and adolescents with granulomatosis with polyangiitis or microscopic polyangiitis
 
-In general, side effects in children and adolescents with granulomatosis with polyangiitis or microscopic polyangiitis were of a similar type to those in adults with granulomatosis with polyangiitis or microscopic polyangiitis. Most common side effects seen were infections, allergic reactions and
+In general, side effects in children and adolescents with granulomatosis with polyangiitis or microscopic polyangiitis were of a similar type to those in adults with granulomatosis with polyangiitis or microscopic polyangiitis. Most common side effects seen were infections, allergic reactions and feeling sick (nausea).
 
 <div style=\"page-break-after: always\"></div>
-
-feeling sick (nausea).
 
 ## d) If you are being treated for pemphigus vulgaris
 
@@ -2521,7 +2483,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton after \"EXP\". The expiry date refers to the last day of that month.
 
 Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
@@ -2533,9 +2495,13 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Ruxience contains
 
-· The active substance is rituximab. The 10 mL vial contains 100 mg of rituximab (10 mg/mL). The 50 mL vial contains 500 mg of rituximab (10 mg/mL).
+- The active substance is rituximab.
 
-- The other ingredients are L-histidine, L-histidine hydrochloride monohydrate, disodium edetate, polysorbate 80, sucrose, water for injection. See section 2 'Ruxience sodium content'.
+The 10 mL vial contains 100 mg of rituximab (10 mg/mL).
+
+The 50 mL vial contains 500 mg of rituximab (10 mg/mL).
+
+- The other ingredients are L-histidine, L-histidine hydrochloride monohydrate, disodium edetate, polysorbate 80, sucrose, water for injection. See section 2 \"Ruxience sodium content\".
 
 ## What Ruxience looks like and contents of the pack
 
@@ -2547,23 +2513,21 @@ Ruxience is a clear to slightly opalescent, colourless to pale brownish-yellow s
 
 ## Marketing Authorisation Holder
 
-Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
+Pfizer Europe MA EEIG
+
+Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## Manufacturer
 
-Pfizer Manufacturing Belgium NV
-
-Rijksweg 12 2870 Puurs-Sint-Amands Belgium
+Pfizer Manufacturing Belgium NV Rijksweg 12 2870 Puurs-Sint-Amands Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+## België/Belgique/Belgien Luxembourg/Luxemburg
 
-Luxembourg/Luxemburg Pfizer NV/SA Tél/Tel: +32 (0)2 554 62 11
+Pfizer NV/SA
 
-## Kύπρος
-
-Pfizer Eλλάς A.E. (Cyprus Branch) Tηλ: +357 22817690
+Tél/Tel: +32 (0)2 554 62 11
 
 ## Česká republika
 
@@ -2571,21 +2535,11 @@ Pfizer, spol. s r.o.
 
 Tel: +420 283 004 111
 
-## Magyarország
-
-Pfizer Kft.
-
-Tel.: + 36 1 488 37 00
-
 ## Danmark
 
 Pfizer ApS
 
 Tlf.: +45 44 20 11 00
-
-## Malta
-
-Vivian Corporation Ltd. Tel: +356 21344610
 
 ## Deutschland
 
@@ -2593,17 +2547,33 @@ PFIZER PHARMA GmbH
 
 Tel: +49 (0)30 550055-51000
 
-## Nederland
-
-Pfizer bv
-
-Tel: +31 (0)800 63 34 636
-
 ## България
 
 Пфайзер Люксембург САРЛ, Клон България
 
 Teл.: +359 2 970 4333
+
+## Kύπρος
+
+Pfizer Eλλάς A.E. (Cyprus Branch) Tηλ: +357 22817690
+
+## Magyarország
+
+Pfizer Kft.
+
+Tel.: + 36 1 488 37 00
+
+## Malta
+
+Vivian Corporation Ltd.
+
+Tel: +356 21344610
+
+## Nederland
+
+Pfizer bv
+
+Tel: +31 (0)800 63 34 636
 
 ## Norge
 
@@ -2633,7 +2603,7 @@ Tel: +34 91 490 99 00
 
 ## France
 
-## Pfizer
+Pfizer
 
 Tél: +33 (0)1 58 07 34 40
 
@@ -2709,11 +2679,15 @@ Tel: +40 (0) 21 207 28 00
 
 ## Slovenija
 
-Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: +386 (0)1 52 11 400
+Pfizer Luxembourg SARL
+
+Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: +386 (0)1 52 11 400
 
 ## Slovenská republika
 
-Pfizer Luxembourg SARL, organizačná zložka Tel: + 421 2 3355 5500
+Pfizer Luxembourg SARL, organizačná zložka
+
+Tel: + 421 2 3355 5500
 
 ## Suomi/Finland
 

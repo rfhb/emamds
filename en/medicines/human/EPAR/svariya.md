@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-25 14:22:00
+document_datetime: 2026-10-09 13:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/svariya.html
 document_name: svariya.html
 version: success
-processing_time: 0.149944
-conversion_datetime: 2026-09-05 10:51:32.62732
+processing_time: 0.1695204
+conversion_datetime: 2026-10-10 14:03:03.335266
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.95.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.17.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Svariya (previously Rivaroxaban Koanaa)
 
 [RSS](/en/individual-human-medicine.xml/266964)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -103,7 +103,7 @@ English (EN) (166.32 KB - PDF)
 
 [View](/en/documents/overview/svariya-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-587)
+[Other languages (22)](#file-language-dropdown-133)
 
 български (BG) (190.43 KB - PDF)
 
@@ -249,161 +249,161 @@ English (EN) (505.33 KB - PDF)
 
 Svariya : EPAR - Product information
 
-English (EN) (1.28 MB - PDF)
+English (EN) (1.39 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
 [View](/en/documents/product-information/svariya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-27)
+[Other languages (24)](#file-language-dropdown-677)
 
-български (BG) (1.58 MB - PDF)
+български (BG) (1.6 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/bg/documents/product-information/rivaroxaban-koanaa-epar-product-information_bg.pdf)
+[View](/bg/documents/product-information/svariya-epar-product-information_bg.pdf)
 
-español (ES) (1.25 MB - PDF)
+español (ES) (1.39 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/es/documents/product-information/rivaroxaban-koanaa-epar-product-information_es.pdf)
+[View](/es/documents/product-information/svariya-epar-product-information_es.pdf)
 
-čeština (CS) (1.51 MB - PDF)
+čeština (CS) (1.47 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/cs/documents/product-information/rivaroxaban-koanaa-epar-product-information_cs.pdf)
+[View](/cs/documents/product-information/svariya-epar-product-information_cs.pdf)
 
-dansk (DA) (1.15 MB - PDF)
+dansk (DA) (1.21 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/da/documents/product-information/rivaroxaban-koanaa-epar-product-information_da.pdf)
+[View](/da/documents/product-information/svariya-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.35 MB - PDF)
+Deutsch (DE) (1.39 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/de/documents/product-information/rivaroxaban-koanaa-epar-product-information_de.pdf)
+[View](/de/documents/product-information/svariya-epar-product-information_de.pdf)
 
-eesti (ET) (1.28 MB - PDF)
+eesti (ET) (1.44 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/et/documents/product-information/rivaroxaban-koanaa-epar-product-information_et.pdf)
+[View](/et/documents/product-information/svariya-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.51 MB - PDF)
+ελληνικά (EL) (1.57 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/el/documents/product-information/rivaroxaban-koanaa-epar-product-information_el.pdf)
+[View](/el/documents/product-information/svariya-epar-product-information_el.pdf)
 
-français (FR) (1.35 MB - PDF)
+français (FR) (1.46 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/fr/documents/product-information/rivaroxaban-koanaa-epar-product-information_fr.pdf)
+[View](/fr/documents/product-information/svariya-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.44 MB - PDF)
+hrvatski (HR) (1.54 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/hr/documents/product-information/rivaroxaban-koanaa-epar-product-information_hr.pdf)
+[View](/hr/documents/product-information/svariya-epar-product-information_hr.pdf)
 
-italiano (IT) (1.31 MB - PDF)
+italiano (IT) (1.41 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/it/documents/product-information/rivaroxaban-koanaa-epar-product-information_it.pdf)
+[View](/it/documents/product-information/svariya-epar-product-information_it.pdf)
 
-latviešu (LV) (1.44 MB - PDF)
+latviešu (LV) (1.51 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/lv/documents/product-information/rivaroxaban-koanaa-epar-product-information_lv.pdf)
+[View](/lv/documents/product-information/svariya-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.42 MB - PDF)
+lietuvių (LT) (1.5 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/lt/documents/product-information/rivaroxaban-koanaa-epar-product-information_lt.pdf)
+[View](/lt/documents/product-information/svariya-epar-product-information_lt.pdf)
 
-magyar (HU) (1.51 MB - PDF)
+magyar (HU) (1.56 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/hu/documents/product-information/rivaroxaban-koanaa-epar-product-information_hu.pdf)
+[View](/hu/documents/product-information/svariya-epar-product-information_hu.pdf)
 
-Malti (MT) (1.39 MB - PDF)
+Malti (MT) (1.59 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/mt/documents/product-information/rivaroxaban-koanaa-epar-product-information_mt.pdf)
+[View](/mt/documents/product-information/svariya-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.24 MB - PDF)
+Nederlands (NL) (1.33 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/nl/documents/product-information/rivaroxaban-koanaa-epar-product-information_nl.pdf)
+[View](/nl/documents/product-information/svariya-epar-product-information_nl.pdf)
 
-polski (PL) (1.53 MB - PDF)
+polski (PL) (1.56 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/pl/documents/product-information/rivaroxaban-koanaa-epar-product-information_pl.pdf)
+[View](/pl/documents/product-information/svariya-epar-product-information_pl.pdf)
 
-português (PT) (1.29 MB - PDF)
+português (PT) (1.39 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/pt/documents/product-information/rivaroxaban-koanaa-epar-product-information_pt.pdf)
+[View](/pt/documents/product-information/svariya-epar-product-information_pt.pdf)
 
-română (RO) (1.46 MB - PDF)
+română (RO) (1.55 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/ro/documents/product-information/rivaroxaban-koanaa-epar-product-information_ro.pdf)
+[View](/ro/documents/product-information/svariya-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.5 MB - PDF)
+slovenčina (SK) (1.52 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/sk/documents/product-information/rivaroxaban-koanaa-epar-product-information_sk.pdf)
+[View](/sk/documents/product-information/svariya-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.32 MB - PDF)
+slovenščina (SL) (1.42 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/sl/documents/product-information/rivaroxaban-koanaa-epar-product-information_sl.pdf)
+[View](/sl/documents/product-information/svariya-epar-product-information_sl.pdf)
 
-suomi (FI) (1.34 MB - PDF)
+suomi (FI) (1.52 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/fi/documents/product-information/rivaroxaban-koanaa-epar-product-information_fi.pdf)
+[View](/fi/documents/product-information/svariya-epar-product-information_fi.pdf)
 
-svenska (SV) (1.18 MB - PDF)
+svenska (SV) (1.27 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/sv/documents/product-information/rivaroxaban-koanaa-epar-product-information_sv.pdf)
+[View](/sv/documents/product-information/svariya-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.32 MB - PDF)
+Íslenska (IS) (1.42 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/is/documents/product-information/rivaroxaban-koanaa-epar-product-information_is.pdf)
+[View](/is/documents/product-information/svariya-epar-product-information_is.pdf)
 
-norsk (NO) (1.25 MB - PDF)
+norsk (NO) (1.36 MB - PDF)
 
-**First published:** 17/12/2025 **Last updated:** 03/08/2026
+**First published:** 17/12/2025 **Last updated:** 09/10/2026
 
-[View](/no/documents/product-information/rivaroxaban-koanaa-epar-product-information_no.pdf)
+[View](/no/documents/product-information/svariya-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000359284
+**Latest procedure affecting product information:** VR/0000378310
 
-29/07/2026
+09/10/2026
 
 icon globe
 
@@ -428,7 +428,7 @@ English (EN) (58.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/svariya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-604)
+[Other languages (23)](#file-language-dropdown-193)
 
 български (BG) (68.79 KB - PDF)
 
@@ -606,13 +606,13 @@ Adults prevention of stroke and systemic embolism in adult patients with non-val
 - **Generic**
     - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
 - **Marketing authorisation holder**
-    - Koanaa Healthcare GmbH Fehrgasse 7  2401 Fischamend  Austria
+    - PGF Pharma International d.o.o. Ulica Roberta Frangeša Mihanovića  10110 Zagreb  Croatia
 - **Opinion adopted**
     - 18/09/2025
 - **Marketing authorisation issued**
     - 21/11/2025
 - **Revision**
-    - 1
+    - 3
 
 ## Assessment history
 
@@ -624,9 +624,9 @@ Collapse section
 
 Svariya : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (132.81 KB - PDF)
+English (EN) (145.69 KB - PDF)
 
-**First published:** 03/08/2026
+**First published:** 03/08/2026 **Last updated:** 09/10/2026
 
 [View](/en/documents/procedural-steps-after/svariya-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -660,6 +660,6 @@ English (EN) (166.03 KB - PDF)
 
 **This page was last updated on**
 
-25/08/2026
+09/10/2026
 
 ## Share this page

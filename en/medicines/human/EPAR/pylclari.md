@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-03-02 16:45:00
+document_datetime: 2026-10-09 16:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pylclari.html
 document_name: pylclari.html
 version: success
-processing_time: 0.2471205
-conversion_datetime: 2026-03-09 14:10:19.485528
+processing_time: 0.1190142
+conversion_datetime: 2026-10-10 14:01:46.30172
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.77.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.5.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Pylclari
 
 [RSS](/en/individual-human-medicine.xml/67693)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-piflufolastat (18F) Medicine Human Authorised
+piflufolastat (18F)
+
+Medicine Human Authorised
 
 Page contents
 
@@ -56,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Pylclari used?
+### How is Pylclari used?
 
 The medicine can only be given in a designated nuclear medicine facility by trained healthcare professionals with technical expertise in using and handling nuclear medicine imaging agents.
 
@@ -64,31 +66,32 @@ Pylclari is given as an injection into a vein and a PET scan is done after the i
 
 For more information about using Pylclari, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Pylclari work?
+### How does Pylclari work?
 
 The active substance of Pylclari, piflufolastat ( 18 F), binds to PSMA, which is found in large numbers on the surface of most prostate cancer cells. When this diagnostic medicine is given to a patient, it binds to PSMA and is taken up by the cells. Because it contains radioactive fluorine ( 18 F) it gives off radiation, which can be detected during a PET scan. Doctors can then see where in the body the cancer cells are. Pylclari does not treat prostate cancer.
 
-## What benefits of Pylclari have been shown in studies?
+### What benefits of Pylclari have been shown in studies?
 
 The benefits of Pylclari were shown in three main studies.
 
-In the first study in 385 men with prostate cancer, all patients received Pylclari and underwent a PET scan to check the location of cancer cells. After three different doctors had looked at the scan, patients with high-risk cancer then had surgery to remove their prostate. Among the 252 patients whose prostate was removed, the results of the PET scan correctly showed the absence of cancer cells in parts of their prostate in over 96% of patients.
+In the first study in 385 men with prostate cancer, all patients received Pylclari and underwent a PET scan to check the location of cancer cells. After three different doctors had looked at the scan, patients with high-risk cancer then had surgery to remove their prostate.  
+Among the 252 patients whose prostate was removed, the results of the PET scan correctly showed the absence of cancer cells in parts of their prostate in over 96% of patients.
 
 The second study included 208 men with suspected prostate cancer that had come back after treatment and that could not be confirmed using a standard scan. In this study, all patients received Pylclari and underwent a PET scan. The results of the PET scan showed at least one cancer lesion in 59 to 66% of patients, depending on the doctor analysing the results of the scan, and the scan correctly identified the location of the lesion in 85 to 87% of them.
 
 The third study included 215 men with suspected prostate cancer that had returned after treatment. These patients received either Pylclari or 18 F-fluorocholine (another diagnostic medicine used for imaging) before they had a PET scan, and then received the other diagnostic medicine and had another PET scan up to 12 days later. The PET scans revealed prostate cancer in 58% of these patients after they were given Pylclari, compared with 40% after patients had received the other diagnostic medicine.
 
-## What are the risks associated with Pylclari?
+### What are the risks associated with Pylclari?
 
 For the full list of side effects and restrictions with Pylclari, see the package leaflet.
 
 The most common side effects with Pylclari (which may affect more than 1 in 100 people) include headache and loss of taste (dysgeusia).
 
-## Why is Pylclari authorised in the EU?
+### Why is Pylclari authorised in the EU?
 
 The European Medicines Agency considered that the use of Pylclari offered improvements over existing methods for detecting prostate cancer that has not yet been treated or has returned, and for screening patients who may benefit from PSMA-targeted treatment. Pylclari's side effects were usually mild and its safety profile was considered acceptable. The Agency therefore decided that Pylclari's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Pylclari?
+### What measures are being taken to ensure the safe and effective use of Pylclari?
 
 The company that markets Pylclari will provide medical practitioners who are expected to use this diagnostic medicine with educational materials to support interpretation of PET scans.
 
@@ -96,7 +99,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Pylclari are continuously monitored. Suspected side effects reported with Pylclari are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Pylclari
+### Other information about Pylclari
 
 Pylclari received a marketing authorisation valid throughout the EU on 24 July 2023.
 
@@ -110,181 +113,137 @@ English (EN) (144.96 KB - PDF)
 
 [View](/en/documents/overview/pylclari-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-64)
+[Other languages (22)](#file-language-dropdown-155)
 
 български (BG) (170.97 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/bg/documents/overview/pylclari-epar-medicine-overview_bg.pdf)
 
 español (ES) (145.16 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/es/documents/overview/pylclari-epar-medicine-overview_es.pdf)
 
 čeština (CS) (166.69 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/cs/documents/overview/pylclari-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (143.53 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/da/documents/overview/pylclari-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (148.66 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/de/documents/overview/pylclari-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (140.53 KB - PDF)
+eesti (ET) (140.53 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/et/documents/overview/pylclari-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (171.81 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/el/documents/overview/pylclari-epar-medicine-overview_el.pdf)
 
 français (FR) (144.23 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/fr/documents/overview/pylclari-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (164.66 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/hr/documents/overview/pylclari-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (144.58 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/it/documents/overview/pylclari-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (175.36 KB - PDF)
+latviešu (LV) (175.36 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/lv/documents/overview/pylclari-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (164.84 KB - PDF)
+lietuvių (LT) (164.84 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/lt/documents/overview/pylclari-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (165.02 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/hu/documents/overview/pylclari-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (168.52 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/mt/documents/overview/pylclari-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (145.04 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/nl/documents/overview/pylclari-epar-medicine-overview_nl.pdf)
 
 polski (PL) (172.87 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/pl/documents/overview/pylclari-epar-medicine-overview_pl.pdf)
 
 português (PT) (136.24 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/pt/documents/overview/pylclari-epar-medicine-overview_pt.pdf)
 
 română (RO) (164.54 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/ro/documents/overview/pylclari-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (167.88 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/sk/documents/overview/pylclari-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (164.39 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/sl/documents/overview/pylclari-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (140.88 KB - PDF)
+suomi (FI) (140.88 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/fi/documents/overview/pylclari-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (143.78 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/sv/documents/overview/pylclari-epar-medicine-overview_sv.pdf)
 
@@ -298,313 +257,16 @@ English (EN) (517.2 KB - PDF)
 
 ## Product information
 
-Pylclari : EPAR - Product information
+**Latest procedure affecting product information:** VR/0000319709
 
-English (EN) (471.58 KB - PDF)
-
-**First published:** 28/07/2023
-
-**Last updated:** 02/03/2026
-
-[View](/en/documents/product-information/pylclari-epar-product-information_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-658)
-
-български (BG) (550.45 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/bg/documents/product-information/pylclari-epar-product-information_bg.pdf)
-
-español (ES) (465.36 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/es/documents/product-information/pylclari-epar-product-information_es.pdf)
-
-čeština (CS) (501.9 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/cs/documents/product-information/pylclari-epar-product-information_cs.pdf)
-
-dansk (DA) (516.44 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/da/documents/product-information/pylclari-epar-product-information_da.pdf)
-
-Deutsch (DE) (487.41 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/de/documents/product-information/pylclari-epar-product-information_de.pdf)
-
-eesti keel (ET) (467.52 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/et/documents/product-information/pylclari-epar-product-information_et.pdf)
-
-ελληνικά (EL) (541.06 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/el/documents/product-information/pylclari-epar-product-information_el.pdf)
-
-français (FR) (478.29 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/fr/documents/product-information/pylclari-epar-product-information_fr.pdf)
-
-hrvatski (HR) (579.61 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/hr/documents/product-information/pylclari-epar-product-information_hr.pdf)
-
-íslenska (IS) (489.7 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/is/documents/product-information/pylclari-epar-product-information_is.pdf)
-
-italiano (IT) (473.73 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/it/documents/product-information/pylclari-epar-product-information_it.pdf)
-
-latviešu valoda (LV) (502.97 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/lv/documents/product-information/pylclari-epar-product-information_lv.pdf)
-
-lietuvių kalba (LT) (503.41 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/lt/documents/product-information/pylclari-epar-product-information_lt.pdf)
-
-magyar (HU) (479.52 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/hu/documents/product-information/pylclari-epar-product-information_hu.pdf)
-
-Malti (MT) (534.93 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/mt/documents/product-information/pylclari-epar-product-information_mt.pdf)
-
-Nederlands (NL) (467.97 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/nl/documents/product-information/pylclari-epar-product-information_nl.pdf)
-
-norsk (NO) (466.99 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/no/documents/product-information/pylclari-epar-product-information_no.pdf)
-
-polski (PL) (475.85 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/pl/documents/product-information/pylclari-epar-product-information_pl.pdf)
-
-português (PT) (468.42 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/pt/documents/product-information/pylclari-epar-product-information_pt.pdf)
-
-română (RO) (514.21 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/ro/documents/product-information/pylclari-epar-product-information_ro.pdf)
-
-slovenčina (SK) (473.21 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/sk/documents/product-information/pylclari-epar-product-information_sk.pdf)
-
-slovenščina (SL) (523.67 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/sl/documents/product-information/pylclari-epar-product-information_sl.pdf)
-
-Suomi (FI) (467.88 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/fi/documents/product-information/pylclari-epar-product-information_fi.pdf)
-
-svenska (SV) (460.18 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-**Last updated:**
-
-02/03/2026
-
-[View](/sv/documents/product-information/pylclari-epar-product-information_sv.pdf)
-
-**Latest procedure affecting product information:** VR/0000332222 02/03/2026
+17/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -622,203 +284,164 @@ English (EN) (112.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-327)
+[Other languages (24)](#file-language-dropdown-876)
 
 български (BG) (108.82 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/bg/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (67.72 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/es/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (101.15 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/cs/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (88.16 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/da/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (88.35 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/de/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (65.48 KB - PDF)
+eesti (ET) (65.48 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/et/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (79.98 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/el/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (59.41 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/fr/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (77.81 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/hr/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (62.86 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-[View](/is/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (60.52 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/it/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (58.38 KB - PDF)
+latviešu (LV) (58.38 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/lv/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (58.74 KB - PDF)
+lietuvių (LT) (58.74 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/lt/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (67.45 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/hu/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (59.52 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/mt/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (41.86 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/nl/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (62.79 KB - PDF)
-
-**First published:**
-
-28/07/2023
-
-[View](/no/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (80.39 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/pl/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (42.45 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/pt/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (76.04 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/ro/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (56.68 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/sk/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (49.06 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/sl/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (57.92 KB - PDF)
+suomi (FI) (57.92 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/fi/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (60.93 KB - PDF)
 
-**First published:**
-
-28/07/2023
+**First published:** 28/07/2023
 
 [View](/sv/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (62.86 KB - PDF)
+
+**First published:** 28/07/2023
+
+[View](/is/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (62.79 KB - PDF)
+
+**First published:** 28/07/2023
+
+[View](/no/documents/all-authorised-presentations/pylclari-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Pylclari Active substance Piflufolastat (18F) International non-proprietary name (INN) or common name piflufolastat (18F) Therapeutic area (MeSH) Prostatic Neoplasms Anatomical therapeutic chemical (ATC) code V09
+- **Name of medicine**
+    - Pylclari
+- **Active substance**
+    - Piflufolastat (18F)
+- **International non-proprietary name (INN) or common name**
+    - piflufolastat (18F)
+- **Therapeutic area (MeSH)**
+    - Prostatic Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - V09
 
 ### Pharmacotherapeutic group
 
@@ -837,19 +460,18 @@ Pylclari is indicated for use with positron emission tomography (PET).
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005520
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Curium Pet France
-
-Biopole Clermont Limagne
-
-Opinion adopted 25/05/2023 Marketing authorisation issued 27/11/2023 Revision 8
+- **EMA product number**
+    - EMEA/H/C/005520
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Curium Pet France Biopole Clermont Limagne  3 Rue Marie Curie  63360 St Beauzire  FRANCE
+- **Opinion adopted**
+    - 25/05/2023
+- **Marketing authorisation issued**
+    - 27/11/2023
+- **Revision**
+    - 9
 
 ## Assessment history
 
@@ -857,15 +479,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Pylclari : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (187.25 KB - PDF)
+English (EN) (164.41 KB - PDF)
 
-**First published:** 26/05/2025
-
-**Last updated:** 02/03/2026
+**First published:** 26/05/2025 **Last updated:** 09/10/2026
 
 [View](/en/documents/procedural-steps-after/pylclari-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -873,19 +493,15 @@ Pylclari : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (126.85 KB - PDF)
 
-**First published:** 30/11/2023
-
-**Last updated:** 26/05/2025
+**First published:** 30/11/2023 **Last updated:** 26/05/2025
 
 [View](/en/documents/procedural-steps-after/pylclari-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Pylclari : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/279917/2023
+Adopted Reference Number: EMA/CHMP/279917/2023
 
 English (EN) (3.16 MB - PDF)
 
@@ -895,9 +511,7 @@ English (EN) (3.16 MB - PDF)
 
 CHMP summary of positive opinion for Pylclari
 
-Adopted
-
-Reference Number: EMA/CHMP/235199/2023
+Adopted Reference Number: EMA/CHMP/235199/2023
 
 English (EN) (154.46 KB - PDF)
 
@@ -907,10 +521,12 @@ English (EN) (154.46 KB - PDF)
 
 ## News on Pylclari
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 May 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-may-2023) 26/05/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 May 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-may-2023)
 
-**This page was last updated on** 02/03/2026
+26/05/2023
+
+**This page was last updated on**
+
+09/10/2026
 
 ## Share this page
-
-[Back to top](#main-content)

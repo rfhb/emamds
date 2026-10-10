@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-07-02 11:30:38
-document_pages: 81
+document_datetime: 2026-10-07 12:30:47
+document_pages: 84
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lunsumio-epar-product-information_en.pdf
 document_name: lunsumio-epar-product-information_en.pdf
 version: success
-processing_time: 22.5562337
-conversion_datetime: 2026-07-04 14:54:23.690489
+processing_time: 29.7292756
+conversion_datetime: 2026-10-10 12:15:01.753136
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -80,13 +78,13 @@ The recommended dose of Lunsumio for each 21 day-cycle is detailed in Table 2.
 
 Table 2 Dose of Lunsumio for patients with relapsed or refractory follicular lymphoma
 
-| Day of treatment    | Day of treatment   | Dose of Lunsumio   | Rate of infusion                                                                                                    |
-|---------------------|--------------------|--------------------|---------------------------------------------------------------------------------------------------------------------|
-| Cycle 1             | Day 1              | 1 mg               | Infusions of Lunsumio in Cycle 1 should be administered over a minimum of 4 hours.                                  |
-| Cycle 1             | Day 8              | 2 mg               | Infusions of Lunsumio in Cycle 1 should be administered over a minimum of 4 hours.                                  |
-| Cycle 1             | Day 15             | 60 mg              | Infusions of Lunsumio in Cycle 1 should be administered over a minimum of 4 hours.                                  |
-| Cycle 2             | Day 1              | 60 mg              | If the infusions were well-tolerated in Cycle 1, subsequent infusions of Lunsumio may be administered over 2 hours. |
-| Cycles 3 and beyond | Day 1              | 30 mg              | If the infusions were well-tolerated in Cycle 1, subsequent infusions of Lunsumio may be administered over 2 hours. |
+| Day of treatment    | Day of treatment   | Dose of Lunsumio   | Rate of infusion                                                                   |
+|---------------------|--------------------|--------------------|------------------------------------------------------------------------------------|
+| Cycle 1             | Day 1              | 1 mg               | Infusions of Lunsumio in Cycle 1 should be administered over a minimum of 4 hours. |
+| Cycle 1             | Day 8              | 2 mg               | Infusions of Lunsumio in Cycle 1 should be administered over a minimum of 4 hours. |
+| Cycle 1             | Day 15             | 60 mg              | Infusions of Lunsumio in Cycle 1 should be administered over a minimum of 4 hours. |
+| Cycle 2             | Day 1              | 60 mg              | If the infusions were well-tolerated in Cycle 1, subsequent infusions of Lunsumio  |
+| Cycles 3 and beyond | Day 1              | 30 mg              | may be administered over 2 hours.                                                  |
 
 ## Duration of treatment
 
@@ -98,10 +96,9 @@ For patients who achieve a complete response, no further treatment beyond 8 cycl
 
 Table 3: Recommendations for restarting therapy with Lunsumio intravenous infusion after dose delay
 
-| Last dose administered   | Time since the last dose administered   | Action for next dose(s)                                                                                      |
-|--------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| 1 mg Cycle 1 Day 1       | 1 to 2 weeks                            | Administer 2 mg (Cycle 1 Day 8), then resume the planned treatment schedule.                                 |
-|                          | Greater than 2 weeks                    | Repeat 1 mg (Cycle 1 Day 1), then administer 2 mg (Cycle 1 Day 8) and resume the planned treatment schedule. |
+| Last dose administered   | Time since the last dose administered   | Action for next dose(s)                                                                                                                                                                   |
+|--------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 mg Cycle 1 Day 1       | 1 to 2 weeks Greater than 2 weeks       | Administer 2 mg (Cycle 1 Day 8), then resume the planned treatment schedule. Repeat 1 mg (Cycle 1 Day 1), then administer 2 mg (Cycle 1 Day 8) and resume the planned treatment schedule. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -129,7 +126,7 @@ Patients who experience grade 3 or 4 reactions (e.g. serious infection, tumour f
 
 CRS should be identified based on clinical presentation (see section 4.4). Patients should be evaluated and treated for, other causes of fever, hypoxia, and hypotension, such as infections/sepsis. Infusion related reactions (IRR) may be clinically indistinguishable from manifestations of CRS. If CRS or IRR is suspected, patients should be managed according to the recommendations in Table 4.
 
-## Table 4 CRS grading 1  and management
+Table 4 CRS grading 1 and management
 
 | CRS grade            | CRS management 2                                                                                                                                                        | Next scheduled infusion of Lunsumio                                                                                          |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -148,12 +145,13 @@ CRS should be identified based on clinical presentation (see section 4.4). Patie
 | and/or hypoxia requiring oxygen by positive pressure (e.g., CPAP, BiPAP, intubation and mechanical ventilation)   |  Alternative immunosuppressants 9 and methylprednisolone 1 000 mg/day intravenously should be administered until clinical improvement   |
 |-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 
-- 2 If CRS is refractory to management, consider other causes including haemophagocytic lymphohistiocytosis
+1 ASTCT = American Society for Transplantation and Cellular Therapy. Premedication may mask fever, therefore if clinical presentation is consistent with CRS, please follow these management guidelines.
+
+2 If CRS is refractory to management, consider other causes including haemophagocytic lymphohistiocytosis
+
 - 3 Dexamethasone should be administered at 10 mg intravenously every 6 hours (or equivalent) until clinical improvement
-
-4 In study GO29781, tocilizumab was administered intravenously at a dose of 8 mg/kg (not to exceed 800 mg per infusion), as needed for CRS management
-
-- 5 If no clinical improvement in the signs and symptoms of CRS occurs after the first dose, a second dose of intravenous tocilizumab 8 mg/kg may be administered at least 8 hours apart (maximum 2 doses per CRS event).  Within each time period of 6 weeks of Lunsumio treatment, the total amount of tocilizumab doses should not exceed 3 doses
+- 4 In study GO29781, tocilizumab was administered intravenously at a dose of 8 mg/kg (not to exceed 800 mg per infusion), as needed for CRS management
+- 5 If no clinical improvement in the signs and symptoms of CRS occurs after the first dose, a second dose of intravenous tocilizumab 8 mg/kg may be administered at least 8 hours apart (maximum 2 doses per CRS event). Within each time period of 6 weeks of Lunsumio treatment, the total amount of tocilizumab doses should not exceed 3 doses
 - 6 Low-flow oxygen is defined as oxygen delivered at &lt; 6 L/minute.
 
 7 Refer to Table 1 for additional information
@@ -177,16 +175,16 @@ Table 5 Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS)
 
 |                                                                                                                                                                                                                                                                           | Treat with dexamethasone 10 mg intravenously every 6 hours, if not taking other corticosteroids, until improvement to Grade 1, then taper. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis.                                                                                                                                                                                                                                                                                                                                                                  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 3 ICE b 0-2 or depressed level of consciousness but awakens to tactile stimulus or any clinical seizure that resolves rapidly or focal/local oedema on neuroimaging                                                                                                 | Withhold Lunsumio and monitor neurologic toxicity symptoms until ICANS resolves. d,e Provide supportive therapy, which may include intensive care, and consider neurologic consultation and evaluation. Treat with dexamethasone 10 mg intravenously every 6 hours, if not taking other corticosteroids, until improvement to Grade 1, then taper. Consider non-sedating anti-seizure medication for seizure prophylaxis until resolution of ICANS. Use anti-seizure medication for seizure management as needed. For recurrent grade 3 ICANS, consider permanently                                               |
+| Grade 3 ICE b 0-2 or depressed level of consciousness but awakens to tactile stimulus or any clinical seizure that resolves rapidly or focal/local oedema on neuroimaging                                                                                                 | Withhold Lunsumio and monitor neurologic toxicity symptoms until ICANS resolves. d,e Provide supportive therapy, which may include intensive care, and consider neurologic consultation and evaluation. Treat with dexamethasone 10 mg intravenously every 6 hours, if not taking other corticosteroids, until improvement to Grade 1, then taper. Consider non-sedating anti-seizure medication for seizure prophylaxis until resolution of ICANS. Use anti-seizure medication for seizure management as needed. For recurrent grade 3 ICANS, consider permanently discontinuing Lunsumio.                       |
 | Grade 4 ICE b is 0 or patient is unarousable or requires vigorous or repetitive tactile stimuli, or life-threatening prolonged seizure (>5 min) or repetitive seizures without return to baseline or deep focal motor weakness or diffuse cerebral oedema on neuroimaging | Permanently discontinue Lunsumio. Provide supportive therapy, which may include intensive care, and consider neurologic consultation and evaluation. Treat with dexamethasone 10 mg intravenously every 6 hours, if not taking other corticosteroids, until improvement to Grade 1, then taper. Alternatively, consider administration of methylprednisolone 1 000 mg per day intravenously for 3 days, if symptoms improve, then manage as above. Consider non-sedating anti-seizure medication for seizure prophylaxis until resolution of ICANS. Use anti-seizure medication for seizure management as needed. |
 
 a American Society for Transplantation and Cellular Therapy (ASTCT) consensus grading criteria.
 
-b If patient is arousable and able to perform Immune Effector Cell-Associated Encephalopathy (ICE) Assessment, assess: Orientation (oriented to year, month, city, hospital = 4 points); Naming (name 3 objects, e.g., point to clock, pen, button = 3 points); Following Commands (e.g., 'show me 2 fingers' or 'close your eyes and stick out your tongue' = 1 point); Writing (ability to write a standard sentence = 1 point; and Attention (count backwards from 100 by ten = 1 point). If patient is unarousable and unable to perform ICE Assessment (Grade 4 ICANS) = 0 points.
+b If patient is arousable and able to perform Immune Effector Cell-Associated Encephalopathy (ICE) Assessment, assess: Orientation (oriented to year, month, city, hospital = 4 points); Naming (name 3 objects, e.g., point to clock, pen, button = 3 points); Following Commands (e.g., \"show me 2 fingers\" or \"close your eyes and stick out your tongue\" = 1 point); Writing (ability to write a standard sentence = 1 point; and Attention (count backwards from 100 by ten = 1 point). If patient is unarousable and unable to perform ICE Assessment (Grade 4 ICANS) = 0 points.
 
 c Consider the type of neurologic toxicity before deciding to withhold Lunsumio.
 
-d  See Delayed or missed dose for guidance on restarting Lunsumio after dose delay.
+d See Delayed or missed dose for guidance on restarting Lunsumio after dose delay.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -242,9 +240,9 @@ Patients should be premedicated with corticosteroids, antipyretics and antihista
 
 ## Serious infections
 
-Serious infections such as pneumonia, bacteraemia, and sepsis or septic shock have occurred in patients receiving Lunsumio, some of which were life-threatening or fatal events (see section 4.8). Febrile neutropenia was observed in patients after receiving Lunsumio infusion.
+Serious infections such as pneumonia, bacteraemia, sepsis, septic shock, and opportunistic infections have occurred in patients receiving Lunsumio, some of which were life-threatening or fatal events (see section 4.8). Febrile neutropenia was observed in patients after receiving Lunsumio infusion. Cases of progressive multifocal leukoencephalopathy (PML) have been reported in patients receiving CD20directed monoclonal antibodies, including CD3-CD20 bispecific antibodies.
 
-Lunsumio should not be administered in the presence of active infections. Caution should be exercised when considering the use of Lunsumio in patients with a history of recurring or chronic infections (e.g., chronic, active Epstein-Barr Virus), with underlying conditions that may predispose to infections or who have had significant prior immunosuppressive treatment. Patients should be administered prophylactic antibacterial, antiviral and/or antifungal medicinal products, as appropriate. Patients should be monitored for signs and symptoms of infection, before and after Lunsumio administration, and treated appropriately. In the event of febrile neutropenia, patients should be evaluated for infection and managed with antibiotics, fluids and other supportive care, according to local guidelines.
+Lunsumio should not be administered in the presence of active infections. Caution should be exercised when considering the use of Lunsumio in patients with a history of recurring or chronic infections (e.g., chronic, active Epstein-Barr Virus), with underlying conditions that may predispose to infections or who have had significant prior immunosuppressive treatment. Patients should be administered prophylactic antibacterial, antiviral and/or antifungal medicinal products, as appropriate. Patients should be monitored for signs and symptoms of infection, before and after Lunsumio administration, and treated appropriately. In the event of febrile neutropenia, patients should be evaluated for infection and managed with antibiotics, fluids and other supportive care, according to local guidelines. Patients should be monitored for new or worsening neurological toxicities. If neurological symptoms suggestive of PML occur during Lunsumio therapy, treatment with Lunsumio should be discontinued and appropriate diagnostic and treatment measures, including consultation with a neurologist, be initiated.
 
 ## Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS)
 
@@ -262,11 +260,11 @@ Haemophagocytic lymphohistiocytosis (HLH), including fatal cases, have been repo
 
 ## Tumour flare
 
+<div style=\"page-break-after: always\"></div>
+
 Tumour flare has been reported in patients treated with Lunsumio (see section 4.8). Manifestations included new or worsening pleural effusions, localised pain and swelling at the sites of lymphoma lesions and tumour inflammation. Consistent with the mechanism of action of Lunsumio, tumour flare is likely due to the influx of T-cells into tumour sites following Lunsumio administration.
 
 There are no specific risk factors for tumour flare that have been identified, however, there is a heightened risk of compromise and morbidity due to mass effect secondary to tumour flare in patients with bulky tumours located in close proximity to airways and/or a vital organ. Patients treated with Lunsumio should be monitored and evaluated for tumour flare at critical anatomical sites.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Tumour lysis syndrome (TLS)
 
@@ -296,13 +294,13 @@ A transient clinically relevant effect on CYP450 substrates with a narrow therap
 
 Women of childbearing potential should use effective contraception while receiving Lunsumio and for at least 3 months after the last infusion of Lunsumio.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy
 
 There are no data from the use of Lunsumio in pregnant women. Animal studies are insufficient with respect to reproductive toxicity (see section 5.3). Lunsumio is not recommended during pregnancy and in women of childbearing potential not using contraception.
 
 ## Breast-feeding
-
-<div style=\"page-break-after: always\"></div>
 
 It is unknown whether mosunetuzumab/metabolites are excreted in human milk. A risk to newborns/infants cannot be excluded. Breast-feeding should be discontinued during treatment with Lunsumio therapy.
 
@@ -320,73 +318,77 @@ Lunsumio has a major influence on the ability to drive and use machines. Due to 
 
 The adverse reactions described in this section were identified from the pivotal clinical trial GO29781 in patients treated at the recommended intravenous dose (n=218) and the recommended subcutaneous dose (n=139). Patients had follicular lymphoma (51.8%), diffuse large B-cell lymphoma (26.9%), transformed follicular lymphoma (9.8%) mantle cell lymphoma (7.3%), Richter's transformation (3.9%), and other histologies (0.3%). The median number of cycles of Lunsumio intravenously received was 8 (range 1 -17), 37% of patients received 8 cycles, and 15% received more than 8 cycles up to 17 cycles.
 
-Patients who received the recommended intravenous dose (n=218) and subcutaneous (n=139) dose are pooled (n=357) for this safety population. In this pooled safety population, the most common adverse reactions ( ≥ 20%) observed were cytokine release syndrome, neutropenia, rash and upper respiratory tract infection.  The most common serious adverse reactions ( ≥ 2%) observed included cytokine release syndrome (CRS) (17% by ASTCT grading system), pyrexia (3%), sepsis (3%), upper respiratory tract infection (3%) and pneumonia (5%). Permanent discontinuation of Lunsumio due to an adverse reaction occurred in 5.8% (21/357) of patients. In patients who received the recommended intravenous dose (n=218), CRS was the only adverse reaction that led to discontinuation in more than one patient (2 patients [0.9%]).
+Patients who received the recommended intravenous dose (n=218) and subcutaneous (n=139) dose are pooled (n=357) for this safety population. In this pooled safety population, the most common adverse reactions (≥ 20%) observed were cytokine release syndrome, neutropenia, rash and upper respiratory tract infection. The most common serious adverse reactions (≥ 2%) observed included cytokine release syndrome (CRS) (17% by ASTCT grading system), pyrexia (3%), sepsis (3%), upper respiratory tract infection (3%) and pneumonia (5%). Permanent discontinuation of Lunsumio due to an adverse reaction occurred in 5.8% (21/357) of patients. In patients who received the recommended intravenous dose (n=218), CRS was the only adverse reaction that led to discontinuation in more than one patient (2 patients [0.9%]).
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions are listed below by MedDRA system organ class (SOC) and categories of frequency. Frequency categories are defined as very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The adverse reactions are listed below by MedDRA system organ class (SOC) and categories of frequency. Frequency categories are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 ## Table 6 Adverse reactions occurring in patients treated with Lunsumio
 
-| System organ class / preferred term or adverse reaction   | All grades 19   | Grade 3 - 4   |
-|-----------------------------------------------------------|-----------------|---------------|
-| Infections and infestations                               |                 |               |
-| Upper respiratory tract infection 1                       | Very Common     | Common        |
-| Urinary tract infection 2                                 | Common          | Common        |
-
 <div style=\"page-break-after: always\"></div>
 
-| System organ class / preferred term or adverse reaction                  | All grades 19                                                            | Grade 3 - 4                                                              |
+| System organ class / preferred term or adverse reaction                  | All grades 22                                                            | Grade 3 - 4                                                              |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| Pneumonia 3                                                              | Common                                                                   | Common                                                                   |
-| Lower respiratory tract infection 4                                      | Common                                                                   | Uncommon                                                                 |
-| Sepsis 5                                                                 | Common                                                                   | Common                                                                   |
+| Infections and infestations                                              |                                                                          |                                                                          |
+| Upper respiratory tract infection 1                                      | Very common                                                              | Common                                                                   |
+| Viral Infection 2                                                        | Common                                                                   | Uncommon                                                                 |
+| Urinary tract infection 3                                                | Common                                                                   | Common                                                                   |
+| Pneumonia 4                                                              | Common                                                                   | Common                                                                   |
+| Lower respiratory tract infection 5                                      | Common                                                                   | Uncommon                                                                 |
+| Sepsis 6                                                                 | Common                                                                   | Common                                                                   |
+| Fungal Infection 7                                                       | Common                                                                   | Uncommon                                                                 |
+| Bacterial Infection 8                                                    | Uncommon                                                                 | Uncommon                                                                 |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps) |
-| Tumour flare 6                                                           | Common                                                                   | Uncommon                                                                 |
+| Tumour flare 9                                                           | Common                                                                   | Uncommon                                                                 |
 | Blood and lymphatic system disorders                                     | Blood and lymphatic system disorders                                     | Blood and lymphatic system disorders                                     |
-| Neutropenia 7                                                            | Very common                                                              | Very common                                                              |
+| Neutropenia 10                                                           | Very common                                                              | Very common                                                              |
 | Anaemia                                                                  | Very common                                                              | Common                                                                   |
-| Thrombocytopenia 8                                                       | Very common                                                              | Common                                                                   |
+| Thrombocytopenia 11                                                      | Very common                                                              | Common                                                                   |
 | Febrile neutropenia                                                      | Common                                                                   | Common                                                                   |
 | Immune system disorders                                                  | Immune system disorders                                                  | Immune system disorders                                                  |
-| Cytokine release syndrome 10                                             | Very common                                                              | Common                                                                   |
-| Haemophagocytic lymphohistiocytosis 9,17                                 | Uncommon                                                                 | Uncommon                                                                 |
+| Cytokine release syndrome 12                                             | Very common                                                              | Common                                                                   |
+| Haemophagocytic lymphohistiocytosis 13,20                                | Uncommon                                                                 | Uncommon                                                                 |
 | Metabolism and nutrition disorders                                       | Metabolism and nutrition disorders                                       | Metabolism and nutrition disorders                                       |
-| Hypophosphataemia 11                                                     | Very common                                                              | Very common                                                              |
-| Hypokalaemia 12                                                          | Very common                                                              | Common                                                                   |
-| Hypomagnesaemia 13                                                       | Common                                                                   | Very rare                                                                |
+| Hypophosphataemia 14                                                     | Very common                                                              | Very common                                                              |
+| Hypokalaemia 15                                                          | Very common                                                              | Common                                                                   |
+| Hypomagnesaemia 16                                                       | Common                                                                   | Very rare                                                                |
 | Tumour lysis syndrome                                                    | Uncommon                                                                 | Uncommon                                                                 |
 | Nervous system disorders                                                 | Nervous system disorders                                                 | Nervous system disorders                                                 |
-| Headache 14                                                              | Very common                                                              | Uncommon                                                                 |
-| Dizziness 15                                                             | Common                                                                   | Uncommon                                                                 |
-| Immune effector cell-associated neurotoxicity syndrome 16,17             | Common                                                                   | Very rare                                                                |
-| Gastrointestinal disorders                                               | Gastrointestinal disorders                                               | Gastrointestinal disorders                                               |
-| Diarrhoea                                                                | Very common                                                              | Uncommon                                                                 |
-| Nausea                                                                   | Very common                                                              | Uncommon                                                                 |
-| Skin and subcutaneous tissue disorders                                   | Skin and subcutaneous tissue disorders                                   | Skin and subcutaneous tissue disorders                                   |
-| Rash 18                                                                  | Very common                                                              | Common                                                                   |
-| Pruritus                                                                 | Very common                                                              | Very rare                                                                |
+| Headache 17                                                              | Very common                                                              | Uncommon                                                                 |
+| Dizziness 18                                                             | Common                                                                   | Uncommon                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class / preferred term or adverse reaction   | All grades 19                                        | Grade 3 - 4                                          |
-|-----------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| Dry skin                                                  | Very common                                          | Very rare                                            |
-| Skin exfoliation                                          | Common                                               | Very rare                                            |
-| General disorders and administration site conditions      | General disorders and administration site conditions | General disorders and administration site conditions |
-| Pyrexia                                                   | Very common                                          | Common                                               |
-| Chills                                                    | Very common                                          | Uncommon                                             |
-| Investigations                                            | Investigations                                       | Investigations                                       |
-| Alanine aminotransferase, increased                       | Common                                               | Common                                               |
-| Aspartate aminotransferase, increased                     | Common                                               | Common                                               |
+| System organ class / preferred term or adverse reaction      | All grades 22   | Grade 3 - 4   |
+|--------------------------------------------------------------|-----------------|---------------|
+| Immune effector cell-associated neurotoxicity syndrome 19,20 | Common          | Very rare     |
+| Gastrointestinal disorders                                   |                 |               |
+| Diarrhoea                                                    | Very common     | Uncommon      |
+| Nausea                                                       | Very common     | Uncommon      |
+| Skin and subcutaneous tissue disorders                       |                 |               |
+| Rash 21                                                      | Very common     | Common        |
+| Pruritus                                                     | Very common     | Very rare     |
+| Dry skin                                                     | Very common     | Very rare     |
+| Skin exfoliation                                             | Common          | Very rare     |
+| General disorders and administration site conditions         |                 |               |
+| Pyrexia                                                      | Very common     | Common        |
+| Chills                                                       | Very common     | Uncommon      |
+| Investigations                                               |                 |               |
+| Alanine aminotransferase, increased                          | Common          | Common        |
+| Aspartate aminotransferase, increased                        | Common          | Common        |
+
+<div style=\"page-break-after: always\"></div>
+
+## erythrodysaesthesia and rash morbiliform
+
+22 Fatal outcome occurred for terms HLH, COVID-19, COVID-19 pneumonia, and septic shock in Lunsumio subcutaneous injection and for terms pneumonia and sepsis in Lunsumio intravenous infusion
 
 ## Description of selected adverse reactions
 
-Cytokine release syndrome (CRS)
+## Cytokine release syndrome (CRS)
 
 In patients treated with Lunsumio intravenous infusion, CRS (ASTCT grading system) of any grade occurred in 39% (86/218) of patients, with grade 2 occurring in 14%, grade 3 occurring in 2.3%, and grade 4 occurring in 0.5% of patients treated with Lunsumio. The one patient with the grade 4 event was a patient with FL in the leukemic phase who also experienced concurrent TLS.
-
-<div style=\"page-break-after: always\"></div>
 
 CRS of any grade occurred in 15% of patients after the Cycle 1, Day 1 dose; 5% after the Cycle 1, Day 8 dose; 33% after the Cycle 1, Day 15 dose, 5% occurred in patients after the Cycle 2 and 1% in Cycles 3 and beyond. The median time to CRS onset from the start of administration in Cycle 1 Day 1 was 5 hours (range: 1-73 hours), Cycle 1 Day 8 was 28 hours (range: 5-81 hours), Cycle 1 Day 15 was 25 hours (range: 0.1-391 hours), and Cycle 2 Day 1 was 46 hours (range: 12-82 hours). CRS resolved in all patients, and the median duration of CRS events was 3 days (range 1-29 days).
 
@@ -404,6 +406,12 @@ In patients treated with Lunsumio intravenous infusion or subcutaneous injection
 
 In patients treated with Lunsumio intravenous infusion or subcutaneous injection, serious infections of any grade occurred in 17% (60/357) of patients. Five (1.4%) of patients experienced serious infections concurrently with grade 3-4 neutropenia. The median time to onset of first serious infection was 92 days (range: 1-408 days), with median duration of 15.5 days (range: 2-174 days). Grade 5 events occurred in 2.5% (9/357) of patients, which included COVID-19 pneumonia, COVID-19, pneumonia, septic shock and sepsis.
 
+## Opportunistic Infections
+
+<div style=\"page-break-after: always\"></div>
+
+In patients treated with Lunsumio intravenous infusion or subcutaneous injection, opportunistic infections of any grade occurred in 3.1% (11/357) of patients. Pneumocystis jirovecii pneumonia was reported in 5 patients (1.4%), with 2 patients (0.6%) experiencing Grade 3 events. Cytomegalovirus infection/reactivation were reported in 4 patients (1.1%), with 2 patients (0.6%) experiencing Grade 3 cytomegalovirus infection reactivation.
+
 ## Immune Effector Cell-Associated Neurotoxicity Syndrome
 
 Across a broader clinical trial population, Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS) occurred in 2.1% (20/949) of patients, 19 patients had Grade 1-2 events and 1 patient had Grade 3 event. The majority of events occurred during the first cycle of treatment. The majority of cases resolved. The median time to onset from initial dose was 17 days (range: 1 to 48 days). The median duration was 3 days (range: 1-20 days). Immune Effector Cell-Associated Encephalopathy (ICE) scoring was not systematically performed across the referenced trial population.
@@ -411,8 +419,6 @@ Across a broader clinical trial population, Immune Effector Cell-Associated Neur
 ## Tumour flare
 
 In patients treated with Lunsumio intravenous infusion or subcutaneous injection, tumour flare (including pleural effusion and tumour inflammation) occurred in 3.1% (11/357) of patients, which included 1.4% grade 2 and 1.4% grade 3 events. The median time to onset was 13 days (range 2-84 days), and median duration was 36 days (range 15-105 days).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Tumour Lysis Syndrome (TLS)
 
@@ -436,6 +442,8 @@ Pharmacotherapeutic group: Antineoplastic agents; Other monoclonal antibodies an
 
 Mosunetuzumab is an anti-CD20/CD3 T-cell engaging bispecific antibody targeting CD20-expressing B-cells. It is a conditional agonist; targeted B-cell killing is observed only upon simultaneous binding to CD20 on B-cells and CD3 on T-cells. Engagement of both arms of mosunetuzumab results in the formation of an immunologic synapse between a target B cell and a cytotoxic T cell leading to T-cell activation. Subsequent directed release of perforin and granzymes from T-cell activation through the immunologic synapsis induce B-cell lysis leading to cell death.
 
+<div style=\"page-break-after: always\"></div>
+
 Lunsumio caused B-cell depletion (defined as CD19 B-cell counts &lt; 5 cells/uL) after the initial cycle of administration (by Cycle 2 Day 1) by both intravenous and subcutaneous administration routes in a majority of patients (95.2% and 94.1% respectively) and depletion was maintained throughout the duration of treatment.
 
 ## Clinical efficacy and safety
@@ -443,8 +451,6 @@ Lunsumio caused B-cell depletion (defined as CD19 B-cell counts &lt; 5 cells/uL)
 ## Relapsed or refractory B-cell Non-Hodgkin's lymphoma
 
 An open-label, multicentre, multi-cohort study (GO29781) was conducted to evaluate Lunsumio in patients with relapsed or refractory B-cell non-Hodgkin's lymphoma for whom there was no available therapy expected to improve survival. In the follicular lymphoma (FL) cohort (n=90), patients with relapsed or refractory FL (Grade 1-3A) were required to have received at least two prior systemic therapies, including an anti-CD20 monoclonal antibody and an alkylating agent. Patients with FL Grade 3b and patients with transformed FL at study entry were not eligible; those with a history of transformed FL but FL Grade 1-3A at study entry were included in the FL cohort.
-
-<div style=\"page-break-after: always\"></div>
 
 The study excluded patients with Eastern Cooperative Oncology Group (ECOG) performance status ≥ 2, significant cardiovascular disease (such as New York Heart Association Class III or IV cardiac disease, myocardial infarction within the last 6 months, unstable arrhythmias, or unstable angina), significant active pulmonary disease, impaired renal functions (Creatinine clearance [CrCl] &lt; 60 mL/min with elevated serum creatinine level), active autoimmune disease requiring immunosuppressive therapy, active infections (i.e., chronic active EBV, acute or chronic hepatitis C, hepatitis B, HIV), progressive multifocal leukoencephalopathy, current or a history of CNS lymphoma or CNS disease, a history of macrophage activation syndrome / haemophagocytic lymphohistiocytosis, prior allogeneic stem cell transplant, or prior organ transplantation.
 
@@ -468,34 +474,21 @@ The primary efficacy endpoint was complete response (CR) as assessed by an indep
 
 Table 7 Summary of efficacy in patients with relapsed/refractory FL
 
-| Efficacy parameter                                        | Lunsumio N=90                                             |
-|-----------------------------------------------------------|-----------------------------------------------------------|
-| Median observation time 18.3 months (range 2 - 27 months) | Median observation time 18.3 months (range 2 - 27 months) |
-| Complete Response (CR), n (%), (95% CI)                   | 54 (60.0) (49.1, 70.2)                                    |
-| Objective Response Rate (ORR), n (%) (95% CI)             | 72 (80.0) (70.3, 87.7)                                    |
-| Partial Response (PR) n (%) (95% CI)                      | 18 (20.0) (12.3, 29.8)                                    |
-| Duration of Response (DOR) 1                              | 29 (40.3)                                                 |
-| Patients with event, n (%)                                |                                                           |
-| Median, months (95% CI)                                   | 22.8 (9.7, NR)                                            |
-| K-M event-free proportion                                 |                                                           |
-| 12 months (95% CI)                                        | 61.8 (50.0, 73.7)                                         |
-| 18 months (95% CI)                                        | 56.9 (44.1, 69.6)                                         |
-| Duration of Complete Response (DOCR)                      |                                                           |
-| Patients with event, n (%)                                | 16 (29.6)                                                 |
-| Median, months (95% CI)                                   | NR (14.6, NR)                                             |
-| K-M event-free proportion,                                |                                                           |
-| 12 months (95% CI)                                        | 71.4 (57.9, 84.9)                                         |
-| 18 months (95% CI)                                        | 63.7 (48.0, 79.4)                                         |
-
-CI=confidence interval; K-M=Kaplan-Meier; NR=not reached.
-
-Clinical Cut-off: 27 August 2021
-
-Hypothesis testing was conducted on the primary endpoint of IRF assessed CR rate.
-
-1 DOR is defined as the time from the initial occurrence of a documented PR or CR until the patient experiences an event (documented disease progression or death due to any cause, whichever occurs first).
-
-2 DOCR is defined as the time from the initial occurrence of a documented CR until the patient experiences an event (documented disease progression or death due to any cause, whichever occurs first).
+| Efficacy parameter                                                                                        | Lunsumio N=90                                             |
+|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Median observation time 18.3 months (range 2 - 27 months)                                                 | Median observation time 18.3 months (range 2 - 27 months) |
+| Complete Response (CR), n (%), (95% CI)                                                                   | 54 (60.0) (49.1, 70.2)                                    |
+| Objective Response Rate (ORR), n (%) (95% CI)                                                             | 72 (80.0) (70.3, 87.7)                                    |
+| Partial Response (PR) n (%) (95% CI)                                                                      | 18 (20.0) (12.3, 29.8)                                    |
+| Duration of Response (DOR) 1 Patients with event, n (%) Median, months (95% CI) K-M event-free proportion | 29 (40.3) 22.8 (9.7, NR)                                  |
+| 12 months (95% CI) 18 months (95% CI) Duration of Complete Response (DOCR)                                | 61.8 (50.0, 73.7) 56.9 (44.1, 69.6)                       |
+| 2 Patients with event, n (%) Median, months (95% CI)                                                      | 16 (29.6) NR (14.6,                                       |
+| K-M event-free proportion,                                                                                | NR)                                                       |
+|                                                                                                           | 71.4 (57.9, 84.9)                                         |
+| 12 months (95% CI)                                                                                        |                                                           |
+| 18 months (95% CI)                                                                                        |                                                           |
+|                                                                                                           | 63.7                                                      |
+|                                                                                                           | (48.0, 79.4)                                              |
 
 The median follow-up for DOR was 14.9 months. Additional exploratory efficacy outcomes included the median time to first response (1.4 months, range: 1.1 - 8.9) and the median time to first complete response (3.0 months, range: 1.1- 18.9).
 
@@ -545,7 +538,7 @@ Age did not have an effect on the pharmacokinetics of mosunetuzumab based on a p
 
 ## Bodyweight
 
-Like other therapeutic proteins, bodyweight was positively associated with mosunetuzumab estimated clearance and volume of distribution. However, based on exposure-response analysis and clinical exposure margins, considering the exposures in patients at either 'low' (&lt;50 kg) or 'high' ( ≥ 112 kg) weight, no dose adjustment is required due to patient bodyweight.
+Like other therapeutic proteins, bodyweight was positively associated with mosunetuzumab estimated clearance and volume of distribution. However, based on exposure-response analysis and clinical exposure margins, considering the exposures in patients at either \"low\" (&lt;50 kg) or \"high\" (≥112 kg) weight, no dose adjustment is required due to patient bodyweight.
 
 ## Gender
 
@@ -615,7 +608,7 @@ L-histidine L-methionine Acetic acid (pH adjustment) Sucrose Polysorbate 20 (E 4
 
 Chemical and physical in-use stability has been demonstrated for 24 hours at 2 °C - 8 °C and 24 hours at 9 °C - 30 °C.
 
-From a microbiological point of view, the product should be used immediately.  If not used immediately, in-use storage times and conditions are the responsibility of the user and would normally not be longer than 24 hours at 2 °C to 8 °C, unless dilution has taken place in controlled and validated aseptic conditions.
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and would normally not be longer than 24 hours at 2 °C to 8 °C, unless dilution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
@@ -663,7 +656,7 @@ A dedicated infusion line should be used during intravenous administration.
 
 Drip chamber filters can be used to administer Lunsumio.
 
-Preparation for infusion
+## Preparation for infusion
 
 1. Withdraw and discard a volume of sodium chloride 9 mg/mL (0.9%) solution for injection or sodium chloride 4.5 mg/mL (0.45%) solution for injection equal to the volume of the Lunsumio required for the patient's dose from the infusion bag according to the Table 8. below.
 2. Withdraw the required volume of Lunsumio from the vial using a sterile syringe and dilute into the infusion bag. Discard any unused portion left in the vial.
@@ -678,7 +671,7 @@ Preparation for infusion
 | Cycle 2            | Day 1              | 60 mg              | 60 mL                                                                                              | 100 mL or 250 mL       |
 | Cycle 3 and beyond | Day 1              | 30 mg              | 30 mL                                                                                              | 100 mL or 250 mL       |
 
-3. Gently mix the infusion bag by slowly inverting the bag. Do not shake .
+3. Gently mix the infusion bag by slowly inverting the bag. Do not shake.
 4. Inspect the infusion bag for particulates and discard if present.
 5. Apply the peel-off label from the leaflet to the infusion bag.
 
@@ -697,31 +690,23 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Roche Registration GmbH
-
-Emil-Barell-Strasse 1
+Roche Registration GmbH Emil-Barell-Strasse 1
 
 <div style=\"page-break-after: always\"></div>
 
-79639 Grenzach-Wyhlen
+79639 Grenzach-Wyhlen Germany
 
-Germany
-
-## 8. MARKETING AUTHORISATION NUMBERS
+8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/22/1649/001 EU/1/22/1649/002
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 3 June 2022
+Date of first authorisation: 3 June 2022 Date of latest renewal: 21 May 2026
 
-Date of latest renewal: 14 April 2025
-
-## 10. DATE OF REVISION OF THE TEXT
+10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-23
 
 <div style=\"page-break-after: always\"></div>
 
@@ -745,9 +730,11 @@ Each vial contains 45 mg of mosunetuzumab in 1 mL at a concentration of 45 mg/mL
 
 Mosunetuzumab is a full-length, humanised anti-CD20/CD3 immunoglobulin (Ig)G1 isotype that is produced in Chinese hamster ovary (CHO) cells by recombinant DNA technology.
 
-## Excipient with known effect
+Excipient with known effect
 
-Each 5 mg vial contains 0.3 mg of polysorbate 20. Each 45 mg vial contains 0.6 mg of polysorbate 20. For the full list of excipients, see section 6.1.
+Each 5 mg vial contains 0.3 mg of polysorbate 20. Each 45 mg vial contains 0.6 mg of polysorbate 20.
+
+For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
@@ -781,6 +768,8 @@ Table 1 Premedication to be administered to patients prior to Lunsumio subcutane
 | Cycles 1 all patients Cycles 2+: patients who experienced any grade CRS with the previous dose | Anti-histamine a : 50-100 mg diphenhydramine hydrochloride or equivalent oral or intravenous anti-histamine |
 | Cycles 1 all patients Cycles 2+: patients who experienced any grade CRS with the previous dose | Anti-pyretic a : 500-1000 mg paracetamol                                                                    |
 
+a Anti-histamines and anti-pyretics are optional in cycle 1 and beyond
+
 The recommended dose of Lunsumio subcutaneous injection for each 21 day-cycle is detailed in Table 2.
 
 Table 2 Dose of Lunsumio subcutaneous injection for patients with relapsed or refractory follicular lymphoma
@@ -805,7 +794,7 @@ Table 3 Recommendations for restarting therapy with Lunsumio subcutaneous inject
 | Last dose administered   | Time since the last dose administered   | Action for next dose(s)                                                                                        |
 |--------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | 5 mg Cycle 1 Day 1       | 1 week to 2 weeks                       | Administer 45 mg (Cycle 1 Day 8)*, then resume the planned treatment schedule                                  |
-|                          | > 2 weeks                               | Repeat 5 mg (Cycle 1 Day 1)*, then administer 45 mg (Cycle 1 Day 8)* and resume the planned treatment schedule |
+| 5 mg Cycle 1 Day 1       | > 2 weeks                               | Repeat 5 mg (Cycle 1 Day 1)*, then administer 45 mg (Cycle 1 Day 8)* and resume the planned treatment schedule |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -829,14 +818,14 @@ Patients who experience grade 3 or 4 reactions (e.g. serious infection, tumour f
 
 CRS should be identified based on clinical presentation (see section 4.4). Patients should be evaluated and treated for, other causes of fever, hypoxia, and hypotension, such as infections/sepsis. If CRS is suspected, patients should be managed according to the recommendations in Table 4.
 
-## Table 4 CRS grading 1  and management
+## Table 4 CRS grading 1 and management
 
 <div style=\"page-break-after: always\"></div>
 
 | CRS grade                                                                                                                                                                                                   | CRS management 2                                                                                                                                                                                                                                                                         | Next scheduled injection of Lunsumio                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Grade 1 Fever ≥ 38ºC                                                                                                                                                                                        | The symptoms should be treated If CRS lasts > 48 hours after symptomatic management:  Dexamethasone 3 and/or tocilizumab 4,5 should be considered                                                                                                                                       | Ensure symptoms are resolved for at least 72 hours prior to next dose Consider administration of premedication with antihistamines, anti-pyretic medication, and monitor closely for CRS                                                                                                                                                                                                                              |
-| Grade 2 Fever ≥ 38ºC and/or hypotension not requiring vasopressors and/or hypoxia requiring low-flow oxygen 6 by nasal cannula                                                                              | The symptoms should be treated If no improvement occurs after symptomatic management:  Dexamethasone 3 and/or tocilizumab 4,5 should be considered                                                                                                                                      | The symptoms should be resolved for at least 72 hours prior to next injection Premedication should be maximised as appropriate 7 and patients monitored more frequently                                                                                                                                                                                                                                               |
+| Grade 2 Fever ≥ 38ºC and/or hypotension not requiring vasopressors and/or hypoxia requiring low-flow oxygen 6 by nasal cannula or blow-by                                                                   | The symptoms should be treated If no improvement occurs after symptomatic management:  Dexamethasone 3 and/or tocilizumab 4,5 should be considered                                                                                                                                      | The symptoms should be resolved for at least 72 hours prior to next injection Premedication should be maximised as appropriate 7 and patients monitored more frequently                                                                                                                                                                                                                                               |
 | Grade 3 Fever ≥ 38ºC and/or hypotension requiring a vasopressor (with or without vasopressin) and/or hypoxia requiring high flow oxygen 8 by nasal cannula, face mask, non-rebreather mask, or Venturi mask | The symptoms should be treated Dexamethasone 3 and tocilizumab 4, 5 should be administered If CRS is refractory to dexamethasone and tocilizumab:  Alternative immunosuppressants 9 and methylprednisolone 1 000 mg/day intravenously should be administered until clinical improvement | The symptoms should be resolved for at least 72 hours prior to next injection Patients should be monitored more frequently and hospitalised for the next dose Premedication should be maximised as appropriate 7 If CRS occurred after 5 mg or 45 mg, the next dose should be 5 mg. The treatment schedule should be resumed after recovery. If CRS Grade 3 occurs with next doses permanently discontinue treatment. |
 
 <div style=\"page-break-after: always\"></div>
@@ -848,11 +837,14 @@ CRS should be identified based on clinical presentation (see section 4.4). Patie
 - 2 If CRS is refractory to management, consider other causes including haemophagocytic lymphohistiocytosis
 - 3 Dexamethasone should be administered at 10 mg orally every 6 hours (or equivalent) until clinical improvement
 - 4 In study GO29781, tocilizumab was administered intravenously at a dose of 8 mg/kg (not to exceed 800 mg per infusion), as needed for CRS management
-- 5 If no clinical improvement in the signs and symptoms of CRS occurs after the first dose, a second dose of intravenous tocilizumab 8 mg/kg may be administered at least 8 hours apart (maximum 2 doses per CRS event).  Within each time period of 6 weeks of Lunsumio subcutaneous injection treatment, the total amount of tocilizumab doses should not exceed 3 doses
+- 5 If no clinical improvement in the signs and symptoms of CRS occurs after the first dose, a second dose of intravenous tocilizumab 8 mg/kg may be administered at least 8 hours apart (maximum 2 doses per CRS event). Within each time period of 6 weeks of Lunsumio subcutaneous injection treatment, the total amount of tocilizumab doses should not exceed 3 doses
 - 6 Low-flow oxygen is defined as oxygen delivered at &lt; 6 L/minute
-- 7 Refer to Table 1 for additional information
+
+7 Refer to Table 1 for additional information
+
 - 8 High-flow oxygen is defined as oxygen delivered at ≥ 6 L/minute
-- 9 Riegler L et al. (2019)
+
+9 Riegler L et al. (2019)
 
 Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS) grading and management
 
@@ -879,9 +871,11 @@ Table 5 Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS)
 
 a American Society for Transplantation and Cellular Therapy (ASTCT) consensus grading criteria.
 
-- b If patient is arousable and able to perform Immune Effector Cell-Associated Encephalopathy (ICE) Assessment, assess: Orientation (oriented to year, month, city, hospital = 4 points); Naming (name 3 objects, e.g., point to clock, pen, button = 3 points); Following Commands (e.g., 'show me 2 fingers' or 'close your eyes and stick out your tongue' = 1 point); Writing (ability to write a standard sentence = 1 point; and Attention (count backwards from 100 by ten = 1 point). If patient is unarousable and unable to perform ICE Assessment (Grade 4 ICANS) = 0 points.
-- c Consider the type of neurologic toxicity before deciding to withhold Lunsumio subcutaneous injection.
-- d  See Delayed or missed dose for guidance on restarting Lunsumio subcutaneous injection after dose delay.
+b If patient is arousable and able to perform Immune Effector Cell-Associated Encephalopathy (ICE) Assessment, assess: Orientation (oriented to year, month, city, hospital = 4 points); Naming (name 3 objects, e.g., point to clock, pen, button = 3 points); Following Commands (e.g., \"show me 2 fingers\" or \"close your eyes and stick out your tongue\" = 1 point); Writing (ability to write a standard sentence = 1 point; and Attention (count backwards from 100 by ten = 1 point). If patient is unarousable and unable to perform ICE Assessment (Grade 4 ICANS) = 0 points.
+
+c Consider the type of neurologic toxicity before deciding to withhold Lunsumio subcutaneous injection.
+
+d See Delayed or missed dose for guidance on restarting Lunsumio subcutaneous injection after dose delay.
 
 e Evaluate benefit/risk before restarting Lunsumio subcutaneous injection.
 
@@ -921,15 +915,15 @@ In order to improve traceability of biological medicinal products, the trade nam
 
 ## Cytokine Release Syndrome (CRS)
 
-CRS, including life-threatening reactions, have occurred in patients receiving Lunsumio subcutaneous injection (see section 4.8). Signs and symptoms included pyrexia, hypotension, and hypoxia, CRS events occurred predominantly in cycle 1 and were mainly associated with Day 1 and Day 8 dose administrations. The most frequently reported CRS signs and symptoms in ≥ 10% of patients treated with Lunsumio subcutaneous injection in the who experienced CRS events of any grade by ASTCT 2019 (36 patients) were pyrexia, hypotension, hypoxia, chills, tachycardia and headache.
+CRS, including life-threatening reactions, have occurred in patients receiving Lunsumio subcutaneous injection (see section 4.8). Signs and symptoms included pyrexia, hypotension, and hypoxia, CRS events occurred predominantly in cycle 1 and were mainly associated with Day 1 and Day 8 dose administrations. The most frequently reported CRS signs and symptoms in ≥10% of patients treated with Lunsumio subcutaneous injection who experienced CRS events of any grade by ASTCT 2019 (36 patients) were pyrexia, hypotension, hypoxia, chills, tachycardia and headache.
 
 Patients should be premedicated with corticosteroids, antipyretics and antihistamines at least through cycle 1. Patients must receive adequate hydration prior to the administration of Lunsumio subcutaneous injection. Patients should be monitored for signs or symptoms of CRS. Patients should be counselled to seek immediate medical attention should signs or symptoms of CRS occur at any time. Physicians should institute treatment with supportive care, tocilizumab and/or corticosteroids as indicated. (see section 4.2).
 
 ## Serious infections
 
-Serious infections such as pneumonia, COVID-19, and sepsis have occurred in patients receiving Lunsumio subcutaneous injection, some of which were life-threatening or fatal events (see section 4.8). Febrile neutropenia was observed in patients after receiving Lunsumio subcutaneous injection.
+Serious infections such as pneumonia, bacteraemia, sepsis, septic shock, and opportunistic infections have occurred in patients receiving Lunsumio subcutaneous injection, some of which were life-threatening or fatal events (see section 4.8). Febrile neutropenia was observed in patients after receiving Lunsumio subcutaneous injection. Cases of progressive multifocal leukoencephalopathy (PML) have been reported in patients receiving CD20-directed monoclonal antibodies, including CD3CD20 bispecific antibodies.
 
-Lunsumio subcutaneous injection should not be administered in the presence of active infections. Caution should be exercised when considering the use of Lunsumio subcutaneous injection in patients with a history of recurring or chronic infections (e.g., chronic, active Epstein-Barr Virus), with underlying conditions that may predispose to infections or who have had significant prior immunosuppressive treatment. Patients should be administered prophylactic antibacterial, antiviral and/or antifungal medicinal products, as appropriate. Patients should be monitored for signs and symptoms of infection, before and after Lunsumio subcutaneous injection administration, and treated appropriately. In the event of febrile neutropenia, patients should be evaluated for infection and managed with antibiotics, fluids and other supportive care, according to local guidelines.
+Lunsumio subcutaneous injection should not be administered in the presence of active infections. Caution should be exercised when considering the use of Lunsumio subcutaneous injection in patients with a history of recurring or chronic infections (e.g., chronic, active Epstein-Barr Virus), with underlying conditions that may predispose to infections or who have had significant prior immunosuppressive treatment. Patients should be administered prophylactic antibacterial, antiviral and/or antifungal medicinal products, as appropriate. Patients should be monitored for signs and symptoms of infection, before and after Lunsumio subcutaneous injection administration, and treated appropriately. In the event of febrile neutropenia, patients should be evaluated for infection and managed with antibiotics, fluids and other supportive care, according to local guidelines. Patients should be monitored for new or worsening neurological toxicities. If neurological symptoms suggestive of PML occur during Lunsumio therapy, treatment with Lunsumio should be discontinued and appropriate diagnostic and treatment measures, including consultation with a neurologist, be initiated.
 
 ## Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS)
 
@@ -937,13 +931,15 @@ ICANS have occurred in patients receiving Lunsumio subcutaneous injection, inclu
 
 Patients should be monitored for signs and symptoms of ICANS following Lunsumio subcutaneous injection administration. Patients must be counselled to seek immediate medical attention should signs or symptoms occur at any time (see Patient card below).
 
-Patients should be advised to exercise caution while (or avoid if symptomatic) driving, cycling or using heavy or potentially dangerous machines (see section 4.7).
+<div style=\"page-break-after: always\"></div>
+
+Patients should be advised to exercise caution while (or avoid if symptomatic) driving, cycling or
+
+using heavy or potentially dangerous machines (see section 4.7).
 
 At the first signs or symptoms of ICANS, manage according to the ICANS guidance provided in Table 5. Treatment with Lunsumio subcutaneous injection should be withheld or discontinued permanently as recommended.
 
 ## Haemophagocytic lymphohistiocytosis
-
-<div style=\"page-break-after: always\"></div>
 
 Haemophagocytic lymphohistiocytosis (HLH), including fatal cases, have been reported in patients receiving Lunsumio. HLH is a life-threatening syndrome characterized by fever, hepatomegaly and cytopenias. HLH should be considered when the presentation of CRS is atypical or prolonged. Patients should be monitored for clinical signs and symptoms of HLH (see Section 4.2). For suspected HLH, Lunsumio must be interrupted and treatment for HLH initiated.
 
@@ -965,19 +961,17 @@ Live and/or live-attenuated vaccines should not be given concurrently with Lunsu
 
 The prescriber must discuss the risks of Lunsumio therapy with the patient. The patient should be provided with the patient card and instructed to carry it at all times. The patient card describes the common signs and symptoms of CRS and ICANS, including instructions on when a patient should seek medical attention.
 
-## Excipients with known effect
+## Excipient with known effect
 
-This medicinal product contains polysorbate 20. Each vial of Lunsumio 5 mg solution for injection contains 0.3 mg of polysorbate 20, and each vial of Lunsumio 45 mg solution for injection contains 0.6 mg of polysorbate 20, which is equivalent to 0.6 mg/mL.
+This medicinal product contains polysorbate 20. Each vial of Lunsumio 5 mg solution for injection contains 0.3 mg of polysorbate 20, and each vial of Lunsumio 45 mg solution for injection contains 0.6 mg of polysorbate 20, which is equivalent to 0.6 mg/mL. Polysorbates may cause allergic reactions.
 
-Polysorbates may cause allergic reactions.
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed.
 
 A transient clinically relevant effect on CYP450 substrates with a narrow therapeutic index (e.g. warfarin, voriconazole, cyclosporine, etc) cannot be excluded, since initiation of Lunsumio subcutaneous injection treatment causes a transient increase in cytokine levels which may cause inhibition of CYP450 enzymes. On initiation of Lunsumio subcutaneous injection therapy in patients being treated with CYP450 substrates with a narrow therapeutic index, therapeutic monitoring should be considered. The dose of the concomitant medicinal product should be adjusted as needed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -999,83 +993,120 @@ No human data on fertility are available. No impairments were observed in male o
 
 ## 4.7 Effects on ability to drive and use machines
 
-Lunsumio subcutaneous injection has major influence on the ability to drive and use machines. Due to the potential for ICANS, patients receiving Lunsumio subcutaneous injection are at risk of depressed level of consciousness (see section 4.4). Due to the potential for ICANS, patients should be advised to exercise caution while (or avoid if symptomatic) driving, cycling or using heavy or potentially dangerous machines.
+Lunsumio subcutaneous injection has a major influence on the ability to drive and use machines. Due to the potential for ICANS, patients receiving Lunsumio subcutaneous injection are at risk of depressed level of consciousness (see section 4.4). Due to the potential for ICANS, patients should be advised to exercise caution while (or avoid if symptomatic) driving, cycling or using heavy or potentially dangerous machines.
 
 ## 4.8 Undesirable effects
 
 ## Summary of safety profile
 
-The adverse reactions described in this section were identified from the pivotal clinical trial GO29781 in patients treated at the recommended intravenous dose (n=218) and the recommended subcutaneous dose (n=139). Patients had follicular lymphoma (51.8%), diffuse large B-cell lymphoma (26.9%), transformed follicular lymphoma (9.8%) mantle cell lymphoma (7.3%), Richter's transformation (3.9%), and other histologies (0.3%).  The median number of cycles of Lunsumio subcutaneous received was 8 (range 1 -17), 47.5% of patients received 8 cycles, and 16.6% received more than 8 cycles up to 17 cycles.
-
-Patients who received the recommended intravenous dose (n=218) and subcutaneous (n=139) dose are pooled (n=357) for this safety population. In this pooled safety population, the most common adverse reactions ( ≥ 20%) observed were cytokine release syndrome, neutropenia, rash and upper respiratory tract infection and injection site reactions in those treated with subcutaneous mosunetuzumab.  The most common serious adverse reactions ( ≥ 2%) observed included cytokine release syndrome (CRS) (17% by ASTCT grading system), pyrexia (3%), sepsis (3%), upper respiratory tract infection (3%) and pneumonia (5%). Permanent discontinuation of Lunsumio due to an adverse reaction occurred in
+The adverse reactions described in this section were identified from the pivotal clinical trial GO29781 in patients treated at the recommended intravenous dose (n=218) and the recommended subcutaneous dose (n=139). Patients had follicular lymphoma (51.8%), diffuse large B-cell lymphoma (26.9%), transformed follicular lymphoma (9.8%) mantle cell lymphoma (7.3%), Richter's transformation (3.9%), and other histologies (0.3%). The median number of cycles of Lunsumio subcutaneous received was 8 (range 1 -17), 47.5% of patients received 8 cycles, and 16.6% received more than 8 cycles up to 17 cycles.
 
 <div style=\"page-break-after: always\"></div>
 
-5.8% (21/357) of patients. In patients who received the recommended subcutaneous dose (n=139), the adverse reactions that led to discontinuation in more than one patient were COVID-19 1.4% (2/139) and COVID-19 pneumonia 3.6% (5/139).
+Patients who received the recommended intravenous dose (n=218) and subcutaneous (n=139) dose are pooled (n=357) for this safety population. In this pooled safety population, the most common adverse reactions (≥ 20%) observed were cytokine release syndrome, neutropenia, rash and upper respiratory tract infection and injection site reactions in those treated with subcutaneous mosunetuzumab. The most common serious adverse reactions (≥ 2%) observed included cytokine release syndrome (CRS) (17% by ASTCT grading system), pyrexia (3%), sepsis (3%), upper respiratory tract infection (3%) and pneumonia (5%). Permanent discontinuation of Lunsumio due to an adverse reaction occurred in 5.8% (21/357) of patients. In patients who received the recommended subcutaneous dose (n=139), the adverse reactions that led to discontinuation in more than one patient were COVID-19 1.4% (2/139) and COVID-19 pneumonia 3.6% (5/139).
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions are listed below by MedDRA system organ class (SOC) and categories of frequency. Frequency categories are defined as very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The adverse reactions are listed below by MedDRA system organ class (SOC) and categories of frequency. Frequency categories are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 6 Adverse reactions occurring in patients treated with Lunsumio
 
-| System organ class / preferred term or adverse reaction                  | All grades 19                                                            | Grade 3 - 4                                                              |
+| System organ class / preferred term or adverse reaction                  | All grades 22                                                            | Grade 3 - 4                                                              |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | Infections and infestations                                              |                                                                          |                                                                          |
-| Upper respiratory tract infection 1                                      | Very Common                                                              | Common                                                                   |
-| Urinary tract infection 2                                                | Common                                                                   | Common                                                                   |
-| Pneumonia 3                                                              | Common                                                                   | Common                                                                   |
-| Lower respiratory tract infection 4                                      | Common                                                                   | Uncommon                                                                 |
-| Sepsis 5                                                                 | Common                                                                   | Common                                                                   |
+| Upper respiratory tract infection 1                                      | Very common                                                              | Common                                                                   |
+| Viral infection 2                                                        | Common                                                                   | Uncommon                                                                 |
+| Urinary tract infection 3                                                | Common                                                                   | Common                                                                   |
+| Pneumonia 4                                                              | Common                                                                   | Common                                                                   |
+| Lower respiratory tract infection 5                                      | Common                                                                   | Uncommon                                                                 |
+| Sepsis 6                                                                 | Common                                                                   | Common                                                                   |
+| Fungal infection 7                                                       | Common                                                                   | Uncommon                                                                 |
+| Bacterial infection 8                                                    | Uncommon                                                                 | Uncommon                                                                 |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps) |
-| Tumour flare 6                                                           | Common                                                                   | Uncommon                                                                 |
+| Tumour flare 9                                                           | Common                                                                   | Uncommon                                                                 |
 | Blood and lymphatic system disorders                                     |                                                                          |                                                                          |
-| Neutropenia 7                                                            | Very common                                                              | Very common                                                              |
+| Neutropenia 10                                                           | Very common                                                              | Very common                                                              |
 | Anaemia                                                                  | Very common                                                              | Common                                                                   |
-| Thrombocytopenia 8                                                       | Very common                                                              | Common                                                                   |
+| Thrombocytopenia 11                                                      | Very common                                                              | Common                                                                   |
 | Febrile neutropenia                                                      | Common                                                                   | Common                                                                   |
-| Immune system disorders                                                  |                                                                          |                                                                          |
-| Cytokine release syndrome 9                                              | Very common                                                              | Common                                                                   |
-| Haemophagocytic lymphohistiocytosis 10,17                                | Uncommon                                                                 | Uncommon                                                                 |
-| Metabolism and nutrition disorders                                       |                                                                          |                                                                          |
-| Hypophosphataemia 11                                                     | Very common                                                              | Very common                                                              |
-| Hypokalaemia 12                                                          | Very common                                                              | Common                                                                   |
-| Hypomagnesaemia 13                                                       | Common                                                                   | Very rare                                                                |
-| Tumour lysis syndrome                                                    | Uncommon                                                                 | Uncommon                                                                 |
+| Immune system disorders                                                  | Immune system disorders                                                  | Immune system disorders                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class / preferred term or adverse reaction      | All grades 19                                        | Grade 3 - 4                                          |
-|--------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| Nervous system disorders                                     | Nervous system disorders                             | Nervous system disorders                             |
-| Headache 14                                                  | Very common                                          | Uncommon                                             |
-| Dizziness 15                                                 | Common                                               | Very rare                                            |
-| Immune effector cell-associated neurotoxicity syndrome 16,17 | Common                                               | Very rare                                            |
-| Gastrointestinal disorders                                   | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
-| Diarrhoea                                                    | Very common                                          | Uncommon                                             |
-| Nausea                                                       | Very common                                          | Uncommon                                             |
-| Skin and subcutaneous tissue disorders                       | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
-| Rash 18                                                      | Very common                                          | Common                                               |
-| Pruritus                                                     | Very common                                          | Very rare                                            |
-| Dry skin                                                     | Very common                                          | Very rare                                            |
-| Skin exfoliation                                             | Common                                               | Very rare                                            |
-| General disorders and administration site conditions         | General disorders and administration site conditions | General disorders and administration site conditions |
-| Pyrexia                                                      | Very common                                          | Common                                               |
-| Chills                                                       | Very common                                          | Uncommon                                             |
-| Injection site reactions                                     | Very common                                          | Very rare                                            |
-| Investigations                                               | Investigations                                       | Investigations                                       |
-| Alanine aminotransferase, increased                          | Common                                               | Common                                               |
-| Aspartate aminotransferase, increased                        | Common                                               | Common                                               |
+| System organ class / preferred term or adverse reaction      | All grades 22   | Grade 3 - 4   |
+|--------------------------------------------------------------|-----------------|---------------|
+| Cytokine release syndrome 12                                 | Very common     | Common        |
+| Haemophagocytic lymphohistiocytosis 13,20                    | Uncommon        | Uncommon      |
+| Metabolism and nutrition disorders                           |                 |               |
+| Hypophosphataemia 14                                         | Very common     | Very common   |
+| Hypokalaemia 15                                              | Very common     | Common        |
+| Hypomagnesaemia 16                                           | Common          | Very rare     |
+| Tumour lysis syndrome                                        | Uncommon        | Uncommon      |
+| Nervous system disorders                                     |                 |               |
+| Headache 17                                                  | Very common     | Uncommon      |
+| Dizziness 18                                                 | Common          | Very rare     |
+| Immune effector cell-associated neurotoxicity syndrome 19,20 | Common          | Very rare     |
+| Gastrointestinal disorders                                   |                 |               |
+| Diarrhoea                                                    | Very common     | Uncommon      |
+| Nausea                                                       | Very common     | Uncommon      |
+| Skin and subcutaneous tissue disorders                       |                 |               |
+| Rash 21                                                      | Very common     | Common        |
+| Pruritus                                                     | Very common     | Very rare     |
+| Dry skin                                                     | Very common     | Very rare     |
+| Skin exfoliation                                             | Common          | Very rare     |
+| General disorders and administration site                    | conditions      |               |
+| Pyrexia                                                      | Very common     | Common        |
+| Chills                                                       | Very common     | Uncommon      |
+| Injection site reactions                                     | Very common     | Very rare     |
+| Investigations                                               |                 |               |
+| Alanine aminotransferase, increased                          | Common          | Common        |
+| Aspartate aminotransferase, increased                        | Common          | Common        |
 
 <div style=\"page-break-after: always\"></div>
 
-16 Consistent with the medical concept of ICANS according to American Society for Transplantation and Cellular Therapy and includes confusional state, ICANS, lethargy, encephalopathy, depressed level of consciousness, and memory impairment
+infection reactivation, ophthalmic herpes simplex and herpes zoster reactivation
 
-17 The frequency calculation is based on additional clinical studies
+3 Urinary tract infection (UTI) includes UTI, pyelonephritis acute, and Escherichia UTI
 
-18 Rash includes rash, rash erythematous, exfoliative rash, rash macular, rash maculo-papular, rash pruritic, rash pustular, erythema, palmar erythema, dermatitis, dermatitis acneiform, dermatitis contact, palmar-planta erythrodysaesthesia and rash morbiliform
+4 Pneumonia includes pneumonia and COVID-19 pneumonia
 
-19  Grade 5 AEs only occurred for ADR terms HLH, pneumonia, sepsis and URTI (i.e., COVID-19) in mosuntezumab subcutaneous injection (1 each) and for ADR terms pneumonia and sepsis in mosunetuzumab intravenous infusion (1 each)
+5 Lower respiratory tract infection includes lower respiratory tract infection and bronchitis
+
+6 Sepsis includes sepsis and septic shock,
+
+7 Fungal infection includes Candida sepsis and Pneumocystis jirovecii pneumonia
+
+8 Bacterial infection includes sinusitis bacterial and bacteraemia
+
+9 Tumour flare includes tumour flare, pleural effusion, tumour inflammation and flank pain
+
+10 Neutropenia includes neutropenia and neutrophil count decreased
+
+11 Thrombocytopenia includes thrombocytopenia and platelet count decreased
+
+12 By American Society for Transplantation and Cellular Therapy
+
+13 Haemophagocytic lymphohistocytosis (HLH) includes HLH
+
+14 Hypophosphatemia includes hypophosphatemia and blood phosphorus decreased
+
+15 Hypokalemia includes hypokalemia and blood potassium decreased
+
+16 Hypomagnesemia includes hypomagnesemia and blood magnesium decrease
+
+17 Headache includes headache, migraine and head discomfort
+
+18 Dizziness includes dizziness and vertigo
+
+19 Consistent with the medical concept of ICANS according to American Society for Transplantation and
+
+Cellular Therapy and includes confusional state, ICANS, lethargy, encephalopathy, depressed level of consciousness, and memory impairment
+
+20 The frequency calculation is based on additional clinical studies
+
+21 Rash includes rash, rash erythematous, exfoliative rash, rash macular, rash maculo-papular, rash pruritic, rash pustular, erythema, palmar erythema, dermatitis, dermatitis acneiform, dermatitis contact, palmar-planta erythrodysaesthesia and rash morbiliform
+
+22 Fatal outcome occurred for terms HLH, COVID-19, COVID-19 pneumonia, and septic shock in Lunsumio subcutaneous injection and for terms pneumonia and sepsis in Lunsumio intravenous infusion
 
 ## Description of selected adverse reactions
 
@@ -1095,13 +1126,17 @@ Hospitalisations due to CRS occurred in 11.5% of patients and the median duratio
 
 In patients treated with Lunsumio intravenous infusion or subcutaneous injection, neutropenia of any grade occurred in 26.1% (93/357) of patients, including 22.7% Grade 3-4 events. The median time to onset of first neutropenia/neutrophil count decreased events was 50 days (range: 1-280 days), with median duration of 8 days (range: 1-487 days). Of the 93 patients who had neutropenia/neutrophil count decreased events 68% (63/93) received treatment G-CSF to treat the events.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Serious infections
 
 In patients treated with Lunsumio intravenous infusion or subcutaneous injection, serious infections of any grade occurred in 17% (60/357) of patients. Five (1.4%) of patients experienced serious infections concurrently with grade 3-4 neutropenia. The median time to onset of first serious infection was 92 days (range: 1-408 days), with median duration of 15.5 days (range: 2-174 days). Grade 5 events occurred in 2.5% (9/357) of patients, which included COVID-19 pneumonia, COVID-19, pneumonia, septic shock and sepsis.
 
-## Immune Effector Cell-Associated Neurotoxicity Syndrome
+## Opportunistic Infections
 
-<div style=\"page-break-after: always\"></div>
+In patients treated with Lunsumio intravenous infusion or subcutaneous injection, opportunistic infections of any grade occurred in 3.1% (11/357) of patients. Pneumocystis jirovecii pneumonia was reported in 5 patients (1.4%), with 2 patients (0.6%) experiencing Grade 3 events. Cytomegalovirus infection/reactivation were reported in 4 patients (1.1%), with 2 patients (0.6%) experiencing Grade 3 cytomegalovirus infection reactivation.
+
+## Immune Effector Cell-Associated Neurotoxicity Syndrome
 
 Across a broader clinical trial population, Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS) occurred in 2.1% (20/949) of patients, 19 patients had Grade 1-2 events and 1 patient had Grade 3 event. The majority of events occurred during the first cycle of treatment. The majority of cases resolved. The median time to onset from initial dose was 17 days (range: 1 to 48 days). The median duration was 3 days (range: 1-20 days). Immune Effector Cell-Associated Encephalopathy (ICE) scoring was not systematically performed across the referenced trial population.
 
@@ -1121,6 +1156,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 In case of overdose, patients should be closely monitored for signs or symptoms of adverse reactions, and appropriate symptomatic treatment instituted.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -1135,11 +1172,9 @@ Lunsumio subcutaneous injection caused B-cell depletion (defined as CD19 B-cell 
 
 ## Clinical efficacy and safety
 
-<div style=\"page-break-after: always\"></div>
-
 ## Relapsed or refractory B-cell Non-Hodgkin's lymphoma
 
-An open-label, multicenter, multi-cohort study (GO29781) was conducted to evaluate Lunsumio SC in patients with relapsed or refractory B-cell non-Hodgkin's lymphoma.  In the follicular lymphoma (FL) subcutaneous cohort (n=94), patients with relapsed or refractory FL (grade 1-3A) were required to have received at least two prior systemic therapies, including an anti-CD20 monoclonal antibody and an alkylating agent.
+An open-label, multicenter, multi-cohort study (GO29781) was conducted to evaluate Lunsumio SC in patients with relapsed or refractory B-cell non-Hodgkin's lymphoma. In the follicular lymphoma (FL) subcutaneous cohort (n=94), patients with relapsed or refractory FL (grade 1-3A) were required to have received at least two prior systemic therapies, including an anti-CD20 monoclonal antibody and an alkylating agent.
 
 The study excluded patients with active autoimmune disease, active infections (i.e. chronic active EBV, acute or chronic hepatitis C, hepatitis B, HIV), progressive multifocal leukoencephalopathy, a history of CNS lymphoma, a history of macrophage activation syndrome/haemophagocytic lymphohistiocytosis, prior allogeneic stem cell transplant, or prior organ transplantation.
 
@@ -1156,27 +1191,20 @@ The median age was 65 years (range 35 to 84 years) with 50% being &gt; age 65, a
 
 All patients received prior anti-CD20 and alkylator therapies, 20% received autologous stem cell transplant, 12% received PI3K inhibitors, 16% received prior rituximab plus lenalidomide therapy, and 4% received CAR-T therapies. Sixty-seven percent of patients were refractory to prior anti-CD20 monoclonal antibody therapy and 46% were refractory to both anti-CD20 monoclonal antibody and alkylator therapy. Sixty-three percent of patients were refractory to the last prior therapy and 44% had progression of disease within 24 months of first systemic therapy.
 
+<div style=\"page-break-after: always\"></div>
+
 The primary objective in this cohort was to demonstrate pharmacokinetic non-inferiority (PKNI) of Lunsumio subcutaneous injection compared to Lunsumio intravenous infusion based on the exposure endpoints of AUC0-84 days, and Ctrough(Cycle 3). The efficacy results are summarised in Table 7.
 
 Table 7 Summary of efficacy in patients with relapsed/refractory FL
 
-| Efficacy parameter                                                                 | Lunsumio subcutaneous injection N=94                      |
-|------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| Median observation time 20.7 months (range 1 - 34 months)                          | Median observation time 20.7 months (range 1 - 34 months) |
-| Complete response (CR), n (%), (95% CI)                                            | 55 (58.5) (47.9, 68.6)                                    |
-| Objective response rate (ORR), n (%) (95% CI) Partial response (PR) n (%) (95% CI) | 70 (74.5) (64.4, 82.9) 15 (16.0)                          |
-|                                                                                    | (9.2, 25.0)                                               |
-| Duration of response (DOR) 1                                                       | N=70                                                      |
-| Patients with event, n (%)                                                         | 26 (37.1)                                                 |
-| Median, months (95% CI)                                                            | 22.4 (16.8, 22.8)                                         |
-| K-M event-free proportion,                                                         |                                                           |
-
-<div style=\"page-break-after: always\"></div>
-
-| Efficacy parameter                                                                                                                                         | Lunsumio subcutaneous injection N=94                               |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| 12 months (95% CI) 18 months (95% CI)                                                                                                                      | 69.9 (58.5, 81.4) 59.6 (45.8, 73.3)                                |
-| Duration of complete response (DOCR) 2 Patients with event, n (%) Median, months (95% CI) K-M event-free proportion, 12 months (95% CI) 18 months (95% CI) | N=55 19 (34.5) 20.8 (18.8, NR) 72.4 (59.9, 84.8) 65.6 (51.0, 80.2) |
+| Efficacy parameter                                                                                                                                                                                        | Lunsumio subcutaneous injection N=94                      |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Median observation time 20.7 months (range 1 - 34 months)                                                                                                                                                 | Median observation time 20.7 months (range 1 - 34 months) |
+| Complete response (CR), n (%), (95% CI)                                                                                                                                                                   | 55 (58.5) (47.9, 68.6)                                    |
+| Objective response rate (ORR), n (%) (95% CI) Partial response (PR) n (%) (95% CI)                                                                                                                        | 70 (74.5) (64.4, 82.9) 15 (16.0) (9.2, 25.0)              |
+| Duration of response (DOR) 1 Patients with event, n (%) Median, months (95% CI) K-M event-free proportion, 12 months (95% CI) 18 months (95% CI) Duration of complete response Patients with event, n (%) | N=70 26 (37.1) 22.4 (16.8, 22.8) 69.9                     |
+| (DOCR) 2 Median, months (95% CI) K-M event-free proportion,                                                                                                                                               | (58.5, 81.4) 59.6 (45.8, 73.3) N=55 19 (34.5) (18.8,      |
+| 12 months (95% CI) 18 months (95% CI)                                                                                                                                                                     | 20.8 NR) 72.4 (59.9, 84.8) 65.6 (51.0, 80.2)              |
 
 CI=confidence interval; K-M=Kaplan-Meier; NR=not reached.
 
@@ -1186,11 +1214,13 @@ Clinical Cut-off: 01 February 2024
 
 2 DOCR is defined as the time from the initial occurrence of a documented CR until the patient experiences an event (documented disease progression or death due to any cause, whichever occurs first).
 
-The median follow-up for DOR was 16.0 months. Additional exploratory efficacy outcomes included the median time to first response (2.8 months, range:  1-16) and the median time to first complete response (2.9 months, range: 1-14).
+The median follow-up for DOR was 16.0 months. Additional exploratory efficacy outcomes included the median time to first response (2.8 months, range: 1-16) and the median time to first complete response (2.9 months, range: 1-14).
 
 ## Immunogenicity
 
 The immunogenicity of mosunetuzumab was evaluated using an enzyme-linked immunosorbent assay (ELISA). No patients tested positive for anti-mosunetuzumab antibodies in 216 ADA-evaluable patients who received Lunsumio single-agent subcutaneous treatments in Groups D and F of Study GO27981. Based on the available information, the clinical relevance of anti-mosunetuzumab antibodies could not be assessed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -1202,21 +1232,19 @@ This medicinal product has been authorised under a so-called 'conditional approv
 
 ## 5.2 Pharmacokinetic properties
 
-The Lunsumio subcutaneous monotherapy dosing regimen of 5/45/45 mg was found to be pharmokinetically non-inferior to the Lunsumio intravenous infusion 1/2/60/30 mg monotherapy dosing regimen in relapsed or refractory follicular lymphoma patients with ≥ 2 prior therapies. The subcutaneous intravenous  geometric mean ratio (90% CI) was 1.39 (1.20 - 1.61) for CtroughCYC3\\_OBS and 1.06 (0.92 - 1.21) for AUC0-84.
-
-<div style=\"page-break-after: always\"></div>
+The Lunsumio subcutaneous monotherapy dosing regimen of 5/45/45 mg was found to be pharmokinetically non-inferior to the Lunsumio intravenous infusion 1/2/60/30 mg monotherapy dosing regimen in relapsed or refractory follicular lymphoma patients with ≥ 2 prior therapies. The subcutaneous intravenous geometric mean ratio (90% CI) was 1.39 (1.20 - 1.61) for CtroughCYC3\\_OBS and 1.06 (0.92 - 1.21) for AUC0-84.
 
 Similar to Lunsumio intravenous infusion, Lunsumio subcutaneous injection pharmacokinetic exposure increased in an approximately dose-proportional manner over the dose ranges studied. As compared to the intravenous route, the subcutaneous route maintained a high relative bioavailability, and had a slower absorption resulting in a lower Cmax, and delayed Tmax.
 
-After the first cycle (i.e. 21 days) of the dosing with mosunetuzumab, the serum concentration reaches the Cmax before the start of Cycle 2 Day 1 of the mosunetuzumab subcutaneous dosing regimen with an average maximum concentration of 3.81 µg/mL and %CV of 53.9%.  Pharmacokinetic exposures are summarized in Table 8.
+After the first cycle (i.e. 21 days) of the dosing with mosunetuzumab, the serum concentration reaches the Cmax before the start of Cycle 2 Day 1 of the mosunetuzumab subcutaneous dosing regimen with an average maximum concentration of 3.81 µg/mL and %CV of 53.9%. Pharmacokinetic exposures are summarized in Table 8.
 
 Table 8 Exposure parameters of mosunetuzumab subcutaneous injection
 
-|                        | Model-predicted AUC (day·µg/mL) 1   | Model-predicted C max (µg/mL) 1   | Model-predicted C trough (µg/mL) 1   |
-|------------------------|-------------------------------------|-----------------------------------|--------------------------------------|
-| Cycle 1 (0 - 21 days)  | 36.7 (57.0)                         | 3.81 (53.9)                       | 3.45 (54.1)                          |
-| Cycle 2 (21 - 42 days) | 82.3 (50.9)                         | 5.16 (50.3)                       | 2.52 (55.7)                          |
-| Steady-state 2         | 72.8 (34.5)                         | 4.40 (36.7)                       | 2.41 (34.2)                          |
+|                        | Model-predicted AUC (day·µg/mL) 1   | Model-predicted Cmax (µg/mL) 1   | Model-predicted Ctrough (µg/mL) 1   |
+|------------------------|-------------------------------------|----------------------------------|-------------------------------------|
+| Cycle 1 (0 - 21 days)  | 36.7 (57.0)                         | 3.81 (53.9)                      | 3.45 (54.1)                         |
+| Cycle 2 (21 - 42 days) | 82.3 (50.9)                         | 5.16 (50.3)                      | 2.52 (55.7)                         |
+| Steady-state 2         | 72.8 (34.5)                         | 4.40 (36.7)                      | 2.41 (34.2)                         |
 
 ## Absorption
 
@@ -1225,6 +1253,8 @@ Lunsumio is administered subcutaneously. Tmax was reached around 4 to 7 days. Re
 ## Distribution
 
 The population estimate of central volume of distribution for mosunetuzumab was 5.49 L with intravenous infusion and subcutaneous injection of Lunsumio. Because mosunetuzumab is an antibody, protein binding studies were not conducted.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -1238,11 +1268,9 @@ Based on a population pharmacokinetic analysis, when administered intravenously,
 
 Age did not have an effect on the pharmacokinetics of mosunetuzumab based on a population pharmacokinetic analysis with patients aged 18 - 88 years (n=228). No effect age related effect on subcutaneous absorption of mosunetuzumab was observed for patients in this age groups.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Bodyweight
 
-Like other therapeutic proteins, bodyweight was positively associated with mosunetuzumab estimated clearance and volume of distribution. However, based on exposure-response analysis and clinical exposure margins, considering the exposures in patients at either 'low' (&lt;50 kg) or 'high' ( ≥ 112 kg) weight, no dose adjustment is required due to patient bodyweight.
+Like other therapeutic proteins, bodyweight was positively associated with mosunetuzumab estimated clearance and volume of distribution. However, based on exposure-response analysis and clinical exposure margins, considering the exposures in patients at either \"low\" (&lt;50 kg) or \"high\" (≥112 kg) weight, no dose adjustment is required due to patient bodyweight.
 
 ## Gender
 
@@ -1256,9 +1284,13 @@ Race (Asian vs. non-Asian) was not identified as a covariate influencing mosunet
 
 No dedicated studies have been conducted to determine the effect of renal impairment on the pharmacokinetics of mosunetuzumab. The renal elimination of intact mosunetuzumab, an IgG monoclonal antibody, is expected to be low and of minor importance.
 
-The population pharmacokinetic PK analysis of mosunetuzumab subcutaneous administration showed that creatinine clearance (CrCl) does not affect pharmacokinetics of mosunetuzumab. Pharmacokinetics of mosunetuzumab in patients with mild (CrCl 60 to 89 mL/min, n=92) or moderate (CrCl 30 to 59 mL/min, n=41) renal impairment were similar to those in patients with normal renal function (CrCl ≥ 90 mL/min, n=88). Pharmacokinetic data in patients with severe renal impairment (CrCl 15 to 29 mL/min) is limited (n=1), therefore no dose recommendations can be made. Lunsumio subcutaneous injection was not studied in patients with end-stage renal disease and/or who are on dialysis.
+The population pharmacokinetic PK analysis of mosunetuzumab subcutaneous administration showed that creatinine clearance (CrCl) does not affect pharmacokinetics of mosunetuzumab.
+
+Pharmacokinetics of mosunetuzumab in patients with mild (CrCl 60 to 89 mL/min, n=92) or moderate (CrCl 30 to 59 mL/min, n=41) renal impairment were similar to those in patients with normal renal function (CrCl ≥ 90 mL/min, n=88). Pharmacokinetic data in patients with severe renal impairment (CrCl 15 to 29 mL/min) is limited (n=1), therefore no dose recommendations can be made. Lunsumio subcutaneous injection was not studied in patients with end-stage renal disease and/or who are on dialysis.
 
 ## Hepatic impairment
+
+<div style=\"page-break-after: always\"></div>
 
 No specific studies have been conducted to determine the effect of hepatic impairment on the pharmacokinetics of mosunetuzumab. IgGs are mainly eliminated via intracellular catabolism and hepatic impairment is not expected to influence clearance of mosunetuzumab.
 
@@ -1271,8 +1303,6 @@ No studies have been conducted to investigate the pharmacokinetics of mosunetuzu
 ## 5.3 Preclinical safety data
 
 ## Systemic toxicity
-
-<div style=\"page-break-after: always\"></div>
 
 Key nonclinical findings with mosunetuzumab identified in single- and repeat-dose toxicity studies up to 26-weeks in duration included transient post-dose CRS primarily limited to the first dose, vascular/perivascular inflammatory cell infiltrates that were primarily in the CNS and infrequently in other organs that were likely secondary to cytokine release and immune cell activation, and increased susceptibility to infection following chronic dosing due to sustained B-cell depletion.
 
@@ -1292,6 +1322,8 @@ No developmental toxicity studies in animals have been conducted with mosunetuzu
 
 L-histidine L-methionine Acetic acid (pH adjustment) Sucrose Polysorbate 20 (E 432) Water for injections
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 No incompatibilities between Lunsumio Subcutaneous formulation and polypropylene or polycarbonate syringe material or stainless- steel transfer and injection needles and polyethylene Luer cone stoppers have been observed.
@@ -1306,15 +1338,11 @@ No incompatibilities between Lunsumio Subcutaneous formulation and polypropylene
 
 Once transferred from the vial to the syringe, Lunsumio solution for injection should be injected immediately because the medicine does not contain any antimicrobial-preservative. If not used immediately, in-use storage times and conditions are the responsibility of the user and would normally not be longer than 24 hours at 2-8°C, unless preparation has taken place in controlled and validated aseptic conditions.
 
-<div style=\"page-break-after: always\"></div>
-
 If Lunsumio solution for injection is transferred from the vial to the syringe in a controlled and validated aseptic conditions, the medicine in the capped syringe can be stored in the refrigerator at 2°C to 8°C for up to 28 days protected from light and/or at 9°C to 30°C for up to 24 hours at ambient light.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C).
-
-Do not freeze. Keep the vial in the outer carton in order to protect from light. For storage conditions, see section 6.3.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light. For storage conditions, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
@@ -1336,6 +1364,8 @@ Pack of one vial.
 
 To prevent medication errors, check the vial labels to ensure that the drug being prepared and administered is Lunsumio for subcutaneous injection and not Lunsumio for intravenous infusion.
 
+<div style=\"page-break-after: always\"></div>
+
 Lunsumio contains no preservative and is intended for single-dose only. Proper aseptic technique throughout the handling of this medicinal product should be followed. Do not shake.
 
 Lunsumio subcutaneous injection should be inspected visually to ensure there is no particulate matter or discolouration prior to administration. The vial should be discarded if particulate matter is present.
@@ -1349,48 +1379,25 @@ The peel-off label from the leaflet should be applied to the syringe.
 The release of pharmaceuticals into the environment should be minimised. Medicinal products should not be disposed of via wastewater and disposal through household waste should be avoided. The following points should be strictly adhered to regarding the use and disposal of syringes and other medicinal sharps:
 
 - Needles and syringes should never be reused.
+- Place all used needles and syringes into a sharps container (puncture-proof disposable container).
 
-<div style=\"page-break-after: always\"></div>
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements
 
-●
+## 7. MARKETING AUTHORISATION HOLDER
 
-Place all used needles and syringes into a sharps container (puncture-proof disposable
+Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-container).
-
-Any unused medicinal product or waste material should be disposed of in accordance with local
-
-requirements
-
-7.
-
-MARKETING AUTHORISATION HOLDER
-
-Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen
-
-Germany
-
-8.
-
-MARKETING AUTHORISATION NUMBERS
+## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/22/1649/003 EU/1/22/1649/004
 
-9.
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+Date of first authorisation: 3 June 2022 Date of latest renewal: 21 May 2026
 
-Date of first authorisation: 3 June 2022
-
-Date of latest renewal: 14 April 2025
-
-10.
-
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-44
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1458,9 +1465,9 @@ The patient card shall contain the following key messages:
 
 This being a conditional marketing authorisation and pursuant to Article 14-a(4) of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                              | Due Date   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| In order to provide further evidence of efficacy and safety of mosunetuzumab in follicular lymphoma, the MAHwill provide results from Study GO42909, a randomised, open-label, multicentre trial evaluating mosunetuzumab in combination with lenalidomide in comparison to rituximab in combination with lenalidomide in patients with follicular lymphoma after at least one line of systemic therapy. | Q1 2028    |
+| Description                                                                                                                                                                                                                                                                                                                                                                                               | Due Date   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| In order to provide further evidence of efficacy and safety of mosunetuzumab in follicular lymphoma, the MAH will provide results from Study GO42909, a randomised, open-label, multicentre trial evaluating mosunetuzumab in combination with lenalidomide in comparison to rituximab in combination with lenalidomide in patients with follicular lymphoma after at least one line of systemic therapy. | Q1 2028    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1542,7 +1549,7 @@ Do not freeze
 
 Keep the vial in the outer carton in order to protect from light
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1570,36 +1577,36 @@ Justification for not including Braille accepted
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| 2 mL VIAL                                                        |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| 2 mL VIAL                                                          |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTES OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTES OF ADMINISTRATION   |
+|------|--------------------------------------------------------------|
 
-Lunsumio 1 mg sterile concentrate mosunetuzumab
+Lunsumio 1 mg sterile concentrate mosunetuzumab IV use after dilution
 
-IV use after dilution
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
-
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mg/1 mL
 
@@ -1610,7 +1617,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1654,7 +1661,7 @@ Do not shake the vial
 
 Do not use in-line filter
 
-## On the inside flap of the outer carton
+On the inside flap of the outer carton
 
 <!-- image -->
 
@@ -1674,7 +1681,7 @@ Do not freeze
 
 Keep the vial in the outer carton in order to protect from light
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1688,11 +1695,10 @@ EU/1/22/1649/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
@@ -1712,19 +1718,24 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS 50 mL VIAL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| 50 mL VIAL                                                         |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 Lunsumio 30 mg concentrate for solution for infusion mosunetuzumab For intravenous use after dilution
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1732,7 +1743,8 @@ Lot
 
 30 mg/30 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1742,7 +1754,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lunsumio 5 mg solution for injection mosunetuzumab
+Lunsumio 5 mg solution for injection
+
+mosunetuzumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1778,7 +1792,7 @@ Keep out of the sight and reach of children
 
 Do not shake the vial
 
-## On the inside flap of the outer carton
+On the inside flap of the outer carton
 
 5 mg
 
@@ -1790,6 +1804,8 @@ Apply peel-off label from the enclosed leaflet to the syringe
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator
@@ -1798,11 +1814,13 @@ Do not freeze
 
 Keep the vial in the outer carton in order to protect from light
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
+Roche Registration GmbH
+
+Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1812,9 +1830,9 @@ EU/1/22/1649/003
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1830,8 +1848,6 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
@@ -1840,7 +1856,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Lunsumio 5 mg solution for injection mosunetuzumab For subcutaneous use
+Lunsumio 5 mg solution for injection mosunetuzumab
+
+For subcutaneous use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1856,7 +1874,8 @@ Lot
 
 5 mg/0.5 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1904,7 +1923,7 @@ Keep out of the sight and reach of children
 
 Do not shake the vial
 
-## On the inside flap of the outer carton
+On the inside flap of the outer carton
 
 45 mg
 
@@ -1916,6 +1935,8 @@ Apply peel-off label from the enclosed leaflet to the syringe
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator
@@ -1924,11 +1945,13 @@ Do not freeze
 
 Keep the vial in the outer carton in order to protect from light
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
+Roche Registration GmbH
+
+Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1938,7 +1961,7 @@ EU/1/22/1649/004
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1956,29 +1979,34 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS 2 mL VIAL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| 2 mL VIAL                                                          |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Lunsumio 45 mg solution for injection mosunetuzumab For subcutaneous use
+Lunsumio 45 mg solution for injection mosunetuzumab
+
+For subcutaneous use
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 45 mg/mL
 
@@ -2050,14 +2078,15 @@ If any of the above apply to you (or you are not sure), talk to your doctor or n
 
 Tell your doctor straight away if you get symptoms of any of the side effects listed below during or after treatment with Lunsumio. You may need additional medical treatment. The symptoms of each side effect are listed in section 4.
 
--  Cytokine release syndrome (CRS) a condition associated with medicines that stimulate T cells.
-- -Before each infusion, you may be given medicines, which help reduce possible side effects of cytokine release syndrome
--  Immune effector cell-associated neurotoxicity syndrome (ICANS) a condition associated with effects on the nervous system. Symptoms include feeling confused, problems with memory, language or judgement, disorientation and confusion often accompanied by hallucination (seeing, hearing or feeling things that are not there), and not being able to concentrate.
--  Haemophagocytic lymphohistiocytosis a condition where the immune system makes too many infection-fighting cells called histiocytes and lymphocytes. Signs and symptoms may overlap with CRS, your doctor will check for this condition if your CRS does not respond to treatment or lasts longer than expected.
--  Tumour lysis syndrome some people may get unusual levels of some salts in the blood -caused by the fast breakdown of cancer cells during treatment.
-- -Your doctor or nurse will do blood tests to check for this condition. Before each dose infusion, you should be well-hydrated and may be given medicines that can help reduce high levels of uric acid. These may help reduce possible side effects of tumour lysis syndrome.
--  Tumour flare as your cancer is destroyed, it may react and appear to get worse -this is called 'tumour flare reaction'.
--  Infections you may get signs of infection, which can vary depending on where in the body the infection is.
+-  Cytokine release syndrome (CRS) - a condition associated with medicines that stimulate T cells.
+- Before each infusion, you may be given medicines, which help reduce possible side effects of cytokine release syndrome
+-  Immune effector cell-associated neurotoxicity syndrome (ICANS) - a condition associated with effects on the nervous system. Symptoms include feeling confused, problems with memory, language or judgement, disorientation and confusion often accompanied by hallucination (seeing, hearing or feeling things that are not there), and not being able to concentrate.
+-  Progressive multifocal leukoencephalopathy (PML) - a serious and fatal brain infection. Signs and symptoms of PML include memory loss, trouble speaking, difficulty walking, and problems with eyesight. These symptoms may overlap or be similar to the neurologic toxicity symptoms mentioned above.
+-  Haemophagocytic lymphohistiocytosis - a condition where the immune system makes too many infection-fighting cells called histiocytes and lymphocytes. Signs and symptoms may overlap with CRS, your doctor will check for this condition if your CRS does not respond to treatment or lasts longer than expected.
+-  Tumour lysis syndrome - some people may get unusual levels of some salts in the blood - caused by the fast breakdown of cancer cells during treatment.
+- Your doctor or nurse will do blood tests to check for this condition. Before each dose infusion, you should be well-hydrated and may be given medicines that can help reduce high levels of uric acid. These may help reduce possible side effects of tumour lysis syndrome.
+-  Tumour flare - as your cancer is destroyed, it may react and appear to get worse - this is called 'tumour flare reaction'.
+-  Infections - you may get signs of infection, which can vary depending on where in the body the infection is.
 
 ## Children and adolescents
 
@@ -2067,17 +2096,17 @@ This medicine should not be used in children or adolescents under the age of 18.
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription and herbal medicines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy and breast-feeding
 
 It is important to tell your doctor before and during treatment if you are pregnant, think you may be pregnant, or are planning to get pregnant. This is because Lunsumio may affect your unborn baby.
-
-<div style=\"page-break-after: always\"></div>
 
 -  Do not use Lunsumio during pregnancy, unless after discussion with your doctor, it is agreed that the benefits of treatment outweigh any risk to the unborn baby.
 
 ## Contraception
 
-Women who could become pregnant must use effective contraception during treatment -and for 3 months after the last dose of Lunsumio.
+Women who could become pregnant must use effective contraception during treatment - and for 3 months after the last dose of Lunsumio.
 
 -  Talk to your doctor or nurse about suitable methods of contraception.
 
@@ -2113,7 +2142,7 @@ It is given into a vein, as a drip (infusion).
 
 You may be given other medicines 30 to 60 minutes before you are given Lunsumio. This is to help prevent infusion reactions and fever. These other medicines may include:
 
--  Corticosteroids -such as dexamethasone or methylprednisolone
+-  Corticosteroids - such as dexamethasone or methylprednisolone
 -  Paracetamol
 -  An antihistamine - such as diphenhydramine
 
@@ -2125,17 +2154,17 @@ Lunsumio is normally given in cycles of 21 days. The recommended treatment durat
 
 In cycle 1, you will be given 3 doses of Lunsumio in the 21 days:
 
--  Day 1 : 1 mg
--  Day 8 : 2 mg
--  Day 15 : 60 mg
+-  Day 1: 1 mg
+-  Day 8: 2 mg
+-  Day 15: 60 mg
 
 In cycle 2, you will be given just one dose:
 
--  Day 1 : 60 mg
+-  Day 1: 60 mg
 
 In cycles 3 to 17, you will be given just one dose:
 
--  Day 1 : 30mg
+-  Day 1: 30mg
 
 ## If you miss a dose of Lunsumio
 
@@ -2203,7 +2232,7 @@ Symptoms can include:
 
 ## Shown in blood tests
 
--  increase in potassium, phosphate or uric acid -which can cause kidney problems (part of tumour lysis syndrome)
+-  increase in potassium, phosphate or uric acid - which can cause kidney problems (part of tumour lysis syndrome)
 
 ## Tumour flare
 
@@ -2240,13 +2269,20 @@ The symptoms can occur days or weeks after you receive the infusion and may init
 
 <div style=\"page-break-after: always\"></div>
 
+## Progressive multifocal leukoencephalopathy (PML)
+
+The symptoms may overlap or be similar to the neurologic toxicity symptoms mentioned above. Symptoms can include:
+
+-  memory loss
+-  trouble speaking
+-  difficulty walking
+-  problems with eyesight
+
 If you have any of these symptoms after treatment with Lunsumio, tell your doctor straight away. You may need medical treatment.
 
 ## Other side effects
 
-Very common:
-
-may affect more than 1 in 10 people
+Very common: may affect more than 1 in 10 people
 
 -  Rash
 -  Itchy skin
@@ -2256,6 +2292,7 @@ may affect more than 1 in 10 people
 -  Fever
 -  Chills
 -  Cytokine release syndrome
+-  Infection of upper airways (infection of nose, throat, sinuses)
 
 Shown in blood tests
 
@@ -2265,21 +2302,21 @@ Shown in blood tests
 -  Low level of phosphate, potassium or magnesium
 -  High level of alanine aminotransferase in the blood
 -  Lung infection
--  Infection of upper airways (infection of nose, throat, sinuses)
 -  Urinary tract infection
 -  Fever due to low levels of neutrophils (a type of white blood cell)
 -  Tumour flare
 -  A serious immune reaction affecting the nervous system (immune effector cell-associated neurotoxicity syndrome)
 
-Common: may affect up to 1 in 10 people
+## Common: may affect up to 1 in 10 people
 
 Shown in blood tests
 
 -  Increased levels of liver enzymes, which may be a sign of liver problems
+
+## Uncommon: may affect up to 1 in 100 people
+
 -  A rapid breakdown of tumour cells resulting in chemical changes in the blood and damage to organs, including the kidneys, heart, and liver (tumour lysis syndrome)
 -  A condition where the immune system makes too many infection-fighting cells called histiocytes and lymphocytes (haemophagocytic lymphohistiocytosis).
-
-Uncommon: may affect up to 1 in 100 people
 
 ## Reporting of side effects
 
@@ -2287,16 +2324,15 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 ## 5. How to store Lunsumio
 
+<div style=\"page-break-after: always\"></div>
+
 Lunsumio will be stored by the healthcare professionals at the hospital or clinic. The storage details that they must take account of are as follows
 
 -  Keep this medicine out of the sight and reach of children.
 -  Do not use this medicine after the expiry date which is stated on the carton and the vial after EXP. The expiry date refers to the last day of that month.
 -  Store in a refrigerator (2°C - 8°C).
-
-<div style=\"page-break-after: always\"></div>
-
 -  Do not freeze.
--  The diluted solution should not be kept more than 24 hours at 2°C - 8°C and 24 hours at 9°C 30°C.
+-  The diluted solution should not be kept more than 24 hours at 2°C - 8°C and 24 hours at 9°C - 30°C.
 -  Keep the container in the outer carton in order to protect from light.
 
 Your healthcare professional will dispose of any unneeded medicine appropriately. These measures will help protect the environment.
@@ -2309,7 +2345,7 @@ The active substance is mosunetuzumab.
 
 -  Lunsumio 1 mg: Each vial contains 1 milligram (mg) mosunetuzumab in 1 mL at a concentration of 1 mg/mL.
 -  Lunsumio 30 mg: Each vial contains 30 milligrams (mg) mosunetuzumab in 30 mL at a concentration of 1 mg/mL.
--  The other ingredients are: L-histidine, L-methionine, acetic acid, sucrose, polysorbate 20 (E432), water for injections (see section 2 'Lunsumio contains polysorbate').
+-  The other ingredients are: L-histidine, L-methionine, acetic acid, sucrose, polysorbate 20 (E432), water for injections (see section 2 \"Lunsumio contains polysorbate\").
 
 ## What Lunsumio looks like and contents of the pack
 
@@ -2329,35 +2365,21 @@ For any information about this medicine, please contact the local representative
 
 België/Belgique/Belgien Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
-## Latvija
+Latvija Roche Latvija SIA Tel: +371 - 6 7039831
 
-Roche Latvija SIA Tel: +371 - 6 7039831
+<div style=\"page-break-after: always\"></div>
 
 ## България
 
 Рош България ЕООД
 
-Тел
+Тел: +359 2 474 5444
 
-: +359 2 474 5444
-
-Lietuva
-
-UAB 'Roche Lietuva' Tel: +370 5 2546799
-
-<div style=\"page-break-after: always\"></div>
-
-## Č eská republika
-
-## Magyarország
+## Česká republika
 
 Roche s. r. O.
 
 Tel: +420 - 2 20382111
-
-Roche (Magyarország) Kft.
-
-Tel: +36 1 279 4500
 
 ## Danmark
 
@@ -2365,23 +2387,11 @@ Roche Pharmaceuticals A/S
 
 Tlf.: +45 - 36 39 99 99
 
-## Nederland
-
-Roche Nederland B.V.
-
-Tel: +31 (0) 348 438050
-
 ## Deutschland
 
 Roche Pharma AG
 
 Tel: +49 (0) 7624 140
-
-## Norge
-
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
 
 ## Eesti
 
@@ -2389,25 +2399,13 @@ Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
 
-## Österreich
-
-Roche Austria GmbH
-
-Tel: +43 (0) 1 27739
-
-## Ελλάδα , Κύπρος
+## Ελλάδα, Κύπρος
 
 Roche (Hellas) A.E.
 
 ## Ελλάδα
 
-Τηλ : +30 210 61 66 100
-
-## Polska
-
-Roche Polska Sp.z o.o.
-
-Tel: +48 - 22 345 18 88
+Τηλ: +30 210 61 66 100
 
 ## España
 
@@ -2415,35 +2413,17 @@ Roche Farma S.A.
 
 Tel: +34 - 91 324 81 00
 
-## Portugal
-
-Roche Farmacêutica Química, Lda
-
-Tel: +351 - 21 425 70 00
-
 ## France
 
 Roche
 
 Tél: +33 (0) 1 47 61 40 00
 
-## România
-
-Roche România S.R.L.
-
-Tel: +40 21 206 47 01
-
 ## Hrvatska
 
 Roche d.o.o.
 
 Tel: +385 1 4722 333
-
-## Slovenija
-
-Roche farmacevtska družba d.o.o.
-
-Tel: +386 - 1 360 26 00
 
 ## Ireland, Malta
 
@@ -2453,25 +2433,71 @@ Ireland, L-Irlanda
 
 Tel: +353 (0) 1 469 0700
 
+## Lietuva
+
+UAB \"Roche Lietuva\"
+
+Tel: +370 5 2546799
+
+## Magyarország
+
+Roche (Magyarország) Kft.
+
+Tel: +36 1 279 4500
+
+## Nederland
+
+Roche Nederland B.V.
+
+Tel: +31 (0) 348 438000
+
+## Norge
+
+Roche Norge AS
+
+Tlf: +47 - 22 78 90 00
+
+## Österreich
+
+Roche Austria GmbH
+
+Tel: +43 (0) 1 27739
+
+## Polska
+
+Roche Polska Sp.z o.o.
+
+Tel: +48 - 22 345 18 88
+
+## Portugal
+
+Roche Farmacêutica Química, Lda
+
+Tel: +351 - 21 425 70 00
+
+## România
+
+Roche România S.R.L.
+
+Tel: +40 21 206 47 01
+
+## Slovenija
+
+Roche farmacevtska družba d.o.o.
+
+Tel: +386 - 1 360 26 00
+
 ## Slovenská republika
 
 Roche Slovensko, s.r.o.
 
 Tel: +421 - 2 52638201
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ísland
 
-Roche Pharmaceuticals A/S
-
-c/o Icepharma hf
-
-Sími: +354 540 8000
-
-## Suomi/Finland
-
-Roche Oy
-
-Puh/Tel: +358 (0) 10 554 500
+Roche Pharmaceuticals A/S c/o Icepharma hf Sími: +354 540 8000
 
 ## Italia
 
@@ -2479,15 +2505,7 @@ Roche S.p.A.
 
 Tel: +39 - 039 2471
 
-## Sverige
-
-Roche AB
-
-Tel: +46 (0) 8 726 1200
-
 ## This leaflet was last revised in
-
-<div style=\"page-break-after: always\"></div>
 
 This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine.
 
@@ -2496,6 +2514,16 @@ The European Medicines Agency will review new information on this medicine at le
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/
+
+## Suomi/Finland
+
+Roche Oy
+
+Puh/Tel: +358 (0) 10 554 500
+
+Sverige Roche AB
+
+Tel: +46 (0) 8 726 1200
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2520,13 +2548,13 @@ Procedures for proper handling and disposal of anticancer medicinal products sho
 | Cycle 2            | Day 1  | 60 mg              | 60 mL                                                                                              | 100 mL or 250 mL       |
 | Cycle 3 and beyond | Day 1  | 30 mg              | 30 mL                                                                                              | 100 mL or 250 mL       |
 
-3. Gently mix the infusion bag by slowly inverting the bag. Do not shake .
+3. Gently mix the infusion bag by slowly inverting the bag. Do not shake.
 2. 4, Inspect the infusion bag for particulates and discard if present.
 5. Apply the peel-off label from the leaflet to the infusion bag.
 
 ## Diluted solution
 
-The product should be used immediately.  If not used immediately, in-use storage times and conditions are the responsibility of the user and would normally not be longer than 24 hours at 2°C to 8°C, unless dilution has taken place in controlled and validated aseptic conditions.
+The product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and would normally not be longer than 24 hours at 2°C to 8°C, unless dilution has taken place in controlled and validated aseptic conditions.
 
 <!-- image -->
 
@@ -2595,14 +2623,15 @@ If any of the above apply to you (or you are not sure), talk to your doctor or n
 
 Tell your doctor straight away if you get symptoms of any of the side effects listed below during or after treatment with Lunsumio. You may need additional medical treatment. The symptoms of each side effect are listed in section 4.
 
--  Cytokine release syndrome (CRS) a condition associated with medicines that stimulate T cells.
+-  Cytokine release syndrome (CRS) - a condition associated with medicines that stimulate T cells.
 - o Before each injection, you may be given medicines, which help reduce possible side effects of cytokine release syndrome.
--  Immune effector cell-associated neurotoxicity syndrome (ICANS) a condition associated with effects on the nervous system. Symptoms include feeling confused, problems with memory, language or judgement, disorientation and confusion often accompanied by hallucination (seeing, hearing or feeling things that are not there), and not being able to concentrate.
--  Haemophagocytic lymphohistiocytosis is a condition where the immune system makes too many infection-fighting cells called histiocytes and lymphocytes. Signs and symptoms may overlap with CRS, your doctor will check for this condition if your CRS does not respond to treatment or lasts longer than expected.
--  Tumour lysis syndrome some people may get unusual levels of some salts in the blood caused by the fast breakdown of cancer cells during treatment.
+-  Immune effector cell-associated neurotoxicity syndrome (ICANS) - a condition associated with effects on the nervous system. Symptoms include feeling confused, problems with memory, language or judgement, disorientation and confusion often accompanied by hallucination (seeing, hearing or feeling things that are not there), and not being able to concentrate.
+-  Progressive multifocal leukoencephalopathy (PML) - a serious and fatal brain infection. Signs and symptoms of PML include memory loss, trouble speaking, difficulty walking, and problems with eyesight. These symptoms may overlap or be similar to the neurologic toxicity symptoms mentioned above.
+-  Haemophagocytic lymphohistiocytosis - a condition where the immune system makes too many infection-fighting cells called histiocytes and lymphocytes. Signs and symptoms may overlap with CRS, your doctor will check for this condition if your CRS does not respond to treatment or lasts longer than expected.
+-  Tumour lysis syndrome - some people may get unusual levels of some salts in the blood caused by the fast breakdown of cancer cells during treatment.
 -  Your doctor or nurse will do blood tests to check for this condition. Before each injection, you should be well-hydrated and may be given medicines that can help reduce high levels of uric acid. These may help reduce possible side effects of tumour lysis syndrome.
--  Tumour flare as your cancer is destroyed, it may react and appear to get worse -this is called 'tumour flare reaction'.
--  Infections you may get signs of infection, which can vary depending on where in the body the infection is.
+-  Tumour flare - as your cancer is destroyed, it may react and appear to get worse - this is called 'tumour flare reaction'.
+-  Infections - you may get signs of infection, which can vary depending on where in the body the infection is.
 
 ## Children and adolescents
 
@@ -2612,17 +2641,17 @@ This medicine should not be used in children or adolescents under the age of 18.
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription and herbal medicines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy and breast-feeding
 
 It is important to tell your doctor before and during treatment if you are pregnant, think you may be pregnant, or are planning to get pregnant. This is because Lunsumio may affect your unborn baby.
-
-<div style=\"page-break-after: always\"></div>
 
 -  Do not use Lunsumio during pregnancy, unless after discussion with your doctor, it is agreed that the benefits of treatment outweigh any risk to the unborn baby.
 
 ## Contraception
 
-Women who could become pregnant must use effective contraception during treatment -and for 3 months after the last dose of Lunsumio.
+Women who could become pregnant must use effective contraception during treatment - and for 3 months after the last dose of Lunsumio.
 
 -  Talk to your doctor or nurse about suitable methods of contraception.
 
@@ -2649,13 +2678,15 @@ Lunsumio is given under the supervision of a doctor experienced in giving such t
 
 ## How Lunsumio is given
 
-Lunsumio solution for injection (5 mg and 45 mg) It is given as an injection under the skin
+Lunsumio solution for injection (5 mg and 45 mg)
+
+It is given as an injection under the skin
 
 ## Medicines given before Lunsumio treatment
 
-You may be given other medicines 30 to 60 minutes before you are given Lunsumio. This is to help prevent infusion reactions and fever. These other medicines may include:
+You may be given other medicines 30 to 60 minutes before you are given Lunsumio. This is to help prevent fever. These other medicines may include:
 
--  Corticosteroids -such as dexamethasone or methylprednisolone
+-  Corticosteroids - such as dexamethasone or methylprednisolone
 -  Paracetamol
 -  An antihistamine - such as diphenhydramine
 
@@ -2663,15 +2694,16 @@ You may be given other medicines 30 to 60 minutes before you are given Lunsumio.
 
 In cycle 1, you will be given 3 doses of Lunsumio in the 21 days:
 
--  Day 1 : 5 mg
--  Day 8 : 45 mg
--  Day 15 : 45 mg
+-  Day 1: 5 mg
+-  Day 8: 45 mg
+
+<div style=\"page-break-after: always\"></div>
+
+-  Day 15: 45 mg
 
 In cycle 2 to 17, you will be given just one dose:
 
--  Day 1 : 45 mg
-
-<div style=\"page-break-after: always\"></div>
+-  Day 1: 45 mg
 
 ## If you miss a dose of Lunsumio
 
@@ -2725,22 +2757,22 @@ Symptoms can include:
 Symptoms can include:
 
 -  fever
+
+<div style=\"page-break-after: always\"></div>
+
 -  chills
 -  feeling or being sick (nausea and vomiting)
 -  confusion
 -  being short of breath
-
-<div style=\"page-break-after: always\"></div>
-
 -  fits (seizures)
 -  uneven heartbeat
 -  dark or cloudy urine
 -  unusual tiredness
 -  muscle or joint pain.
 
-## Shown in blood tests
+Shown in blood tests
 
--  increase in potassium, phosphate or uric acid -which can cause kidney problems (part of tumour lysis syndrome)
+-  increase in potassium, phosphate or uric acid - which can cause kidney problems (part of tumour lysis syndrome)
 
 ## Tumour flare
 
@@ -2777,13 +2809,25 @@ Symptoms can include:
 -  lowered mental state
 -  impaired memory
 
+## Progressive multifocal leukoencephalopathy (PML)
+
+The symptoms may overlap or be similar to the neurologic toxicity symptoms mentioned above. Symptoms can include:
+
+-  memory loss
+-  trouble speaking
+-  difficulty walking
+-  problems with eyesight
+
 If you have any of these symptoms after treatment with Lunsumio, tell your doctor straight away. You may need medical treatment.
 
 ## Other side effects
 
-## Very common: may affect more than 1 in 10 people
+Very common: may affect more than 1 in 10 people
 
 -  Rash
+
+<div style=\"page-break-after: always\"></div>
+
 -  Itchy skin
 -  Dry skin
 -  Diarrhoea
@@ -2792,14 +2836,12 @@ If you have any of these symptoms after treatment with Lunsumio, tell your docto
 -  Chills
 -  Cytokine release syndrome
 -  Injection site reaction (only when given under the skin)
+-  Infection of upper airways (infection of nose, throat, sinuses)
 
 Shown in blood tests
 
 -  Low levels of some white blood cells (neutropenia)
 -  Low number of red blood cells, which can cause tiredness and shortness of breath
-
-<div style=\"page-break-after: always\"></div>
-
 -  Low platelet count, which may make you more likely to bruise or bleed (thrombocytopenia)
 -  Low level of phosphate, potassium or magnesium
 -  High level of alanine aminotransferase in the blood
@@ -2807,7 +2849,6 @@ Shown in blood tests
 ## Common: may affect up to 1 in 10 people
 
 -  Lung infection
--  Infection of upper airways (infection of nose, throat, sinuses)
 -  Urinary tract infection
 -  Fever due to low levels of neutrophils (a type of white blood cell)
 -  Tumour flare
@@ -2837,6 +2878,8 @@ Lunsumio will be stored by the healthcare professionals at the hospital or clini
 -  The prepared syringe for subcutaneous injection should be administered immediately. If not used immediately, the capped syringe should not be kept more than 28 days at 2°C - 8°C and 24 hours at 9°C - 30°C.
 -  Keep the container in the outer carton in order to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
 Your healthcare professional will dispose of any unneeded medicine appropriately. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
@@ -2846,10 +2889,7 @@ Your healthcare professional will dispose of any unneeded medicine appropriately
 -  The active substance is mosunetuzumab.
 -  Lunsumio 5 mg: Each vial contains 5 milligrams (mg) mosunetuzumab in 0.5 mL at a concentration of 10 mg/mL.
 -  Lunsumio 45 mg: Each vial contains 45 milligrams (mg) mosunetuzumab in 1 mL at a concentration of 45 mg/mL
-
-<div style=\"page-break-after: always\"></div>
-
--  The other ingredients are: L-histidine, L-methionine, acetic acid, sucrose, polysorbate 20 (E432), water for injections (see section 2 'Lunsumio contains polysorbate')
+-  The other ingredients are: L-histidine, L-methionine, acetic acid, sucrose, polysorbate 20 (E432), water for injections (see section 2 \"Lunsumio contains polysorbate\")
 
 ## What Lunsumio looks like and contents of the pack
 
@@ -2871,29 +2911,29 @@ For any information about this medicine, please contact the local representative
 
 N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
-## Latvija
-
-Roche Latvija SIA Tel: +371 - 6 7039831
-
 ## България
 
 Рош България ЕООД
 
-Тел
+Тел: +359 2 474 5444
 
-: +359 2 474 5444
-
-## Lietuva
-
-UAB 'Roche Lietuva'
-
-Tel: +370 5 2546799
-
-## Č eská republika
+## Česká republika
 
 Roche s. r. O.
 
 Tel: +420 - 2 20382111
+
+## Latvija
+
+Roche Latvija SIA
+
+Tel: +371 - 6 7039831
+
+## Lietuva
+
+UAB \"Roche Lietuva\"
+
+Tel: +370 5 2546799
 
 ## Magyarország
 
@@ -2901,17 +2941,13 @@ Roche (Magyarország) Kft.
 
 Tel: +36 1 279 4500
 
+<div style=\"page-break-after: always\"></div>
+
 ## Danmark
 
 Roche Pharmaceuticals A/S
 
 Tlf.: +45 - 36 39 99 99
-
-## Nederland
-
-Roche Nederland B.V.
-
-Tel: +31 (0) 348 438050
 
 ## Deutschland
 
@@ -2919,39 +2955,19 @@ Roche Pharma AG
 
 Tel: +49 (0) 7624 140
 
-## Norge
-
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
-
-<div style=\"page-break-after: always\"></div>
-
 ## Eesti
-
-## Österreich
 
 Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
 
-Roche Austria GmbH
-
-Tel: +43 (0) 1 27739
-
-## Ελλάδα , Κύπρος
+## Ελλάδα, Κύπρος
 
 Roche (Hellas) A.E.
 
 ## Ελλάδα
 
-Τηλ : +30 210 61 66 100
-
-## Polska
-
-Roche Polska Sp.z o.o.
-
-Tel: +48 - 22 345 18 88
+Τηλ: +30 210 61 66 100
 
 ## España
 
@@ -2959,35 +2975,17 @@ Roche Farma S.A.
 
 Tel: +34 - 91 324 81 00
 
-## Portugal
-
-Roche Farmacêutica Química, Lda
-
-Tel: +351 - 21 425 70 00
-
 ## France
 
 Roche
 
 Tél: +33 (0) 1 47 61 40 00
 
-## România
-
-Roche România S.R.L.
-
-Tel: +40 21 206 47 01
-
 ## Hrvatska
 
 Roche d.o.o.
 
 Tel: +385 1 4722 333
-
-## Slovenija
-
-Roche farmacevtska družba d.o.o.
-
-Tel: +386 - 1 360 26 00
 
 ## Ireland, Malta
 
@@ -2997,12 +2995,6 @@ Ireland, L-Irlanda
 
 Tel: +353 (0) 1 469 0700
 
-## Slovenská republika
-
-Roche Slovensko, s.r.o.
-
-Tel: +421 - 2 52638201
-
 ## Ísland
 
 Roche Pharmaceuticals A/S
@@ -3011,17 +3003,69 @@ c/o Icepharma hf
 
 Sími: +354 540 8000
 
-## Suomi/Finland
-
-Roche Oy
-
-Puh/Tel: +358 (0) 10 554 500
-
 ## Italia
 
 Roche S.p.A.
 
 Tel: +39 - 039 2471
+
+## This leaflet was last revised in
+
+This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine.
+
+## Nederland
+
+Roche Nederland B.V.
+
+Tel: +31 (0) 348 438000
+
+## Norge
+
+Roche Norge AS
+
+Tlf: +47 - 22 78 90 00
+
+## Österreich
+
+Roche Austria GmbH
+
+Tel: +43 (0) 1 27739
+
+## Polska
+
+Roche Polska Sp.z o.o.
+
+Tel: +48 - 22 345 18 88
+
+## Portugal
+
+Roche Farmacêutica Química, Lda
+
+Tel: +351 - 21 425 70 00
+
+## România
+
+Roche România S.R.L.
+
+Tel: +40 21 206 47 01
+
+## Slovenija
+
+Roche farmacevtska družba d.o.o.
+
+Tel: +386 - 1 360 26 00
+
+## Slovenská republika
+
+Roche Slovensko, s.r.o.
+
+Tel: +421 - 2 52638201
+
+## Suomi/Finland
+
+Roche Oy
+
+Puh/Tel: +358 (0) 10 554 500
 
 ## Sverige
 
@@ -3029,9 +3073,7 @@ Roche AB
 
 Tel: +46 (0) 8 726 1200
 
-## This leaflet was last revised in
-
-This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine.
+<div style=\"page-break-after: always\"></div>
 
 The European Medicines Agency will review new information on this medicine at least every year and this leaflet will be updated as necessary.
 
@@ -3069,10 +3111,32 @@ Peel-off label
 
 Peel and apply this label to the syringe
 
-If using the 45 mg/mL configuration
+## If using the 45 mg/mL configuration
 
 Peel-off label
 
 <!-- image -->
 
 Peel and apply this label to the syringe
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for mosunetuzumab, the scientific conclusions of PRAC are as follows:
+
+In view of published PRAC recommendation on the reviewed data on safety and efficacy included in this PSUR, the PRAC concluded that the product information of mosunetuzumab should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for mosunetuzumab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing mosunetuzumab is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

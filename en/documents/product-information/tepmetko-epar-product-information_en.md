@@ -1,30 +1,26 @@
 ---
-document_datetime: 2026-04-17 15:33:26
+document_datetime: 2026-10-08 13:14:45
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tepmetko-epar-product-information_en.pdf
 document_name: tepmetko-epar-product-information_en.pdf
 version: success
-processing_time: 6.6143321
-conversion_datetime: 2026-04-21 14:59:13.801868
+processing_time: 8.8345093
+conversion_datetime: 2026-10-10 12:20:40.096529
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -46,13 +42,13 @@ White-pink, oval, biconvex film-coated tablet of approximately 18 x 9 mm in size
 
 ## 4.1 Therapeutic indications
 
-TEPMETKO as monotherapy is indicated for the treatment of adult patients with advanced non-small cell lung cancer (NSCLC) harbouring alterations leading to mesenchymal-epithelial transition factor gene exon 14 ( MET ex14) skipping, who require systemic therapy following prior treatment with immunotherapy and/or platinum-based chemotherapy.
+TEPMETKO as monotherapy is indicated for the treatment of adult patients with advanced non-small cell lung cancer (NSCLC) harbouring alterations leading to mesenchymal-epithelial transition factor gene exon 14 (METex14) skipping, who require systemic therapy following prior treatment with immunotherapy and/or platinum-based chemotherapy.
 
 ## 4.2 Posology and method of administration
 
 Treatment must be initiated and supervised by a physician experienced in the use of anticancer therapies.
 
-Prior to initiation of treatment with TEPMETKO the presence of MET ex14 skipping alterations should be confirmed by a validated test method (see sections 4.4 and 5.1).
+Prior to initiation of treatment with TEPMETKO the presence of METex14 skipping alterations should be confirmed by a validated test method (see sections 4.4 and 5.1).
 
 ## Posology
 
@@ -90,7 +86,7 @@ Renal function estimates that rely on serum creatinine (creatinine clearance or 
 
 No dose adjustment is recommended in patients with mild (Child Pugh Class A) or moderate (Child Pugh Class B) hepatic impairment (see section 5.2). The pharmacokinetics and safety of tepotinib in patients with severe hepatic impairment (Child Pugh Class C) have not been studied. The use of TEPMETKO in patients with severe hepatic impairment is therefore not recommended.
 
-Elderly
+## Elderly
 
 No dose adjustment is necessary in patients aged 65 years and above (see section 5.2).
 
@@ -114,9 +110,9 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## 4.4 Special warnings and precautions for use
 
-## Assessment of MET ex14 skipping alterations status
+## Assessment of METex14 skipping alterations status
 
-When detecting the presence of alterations leading to MET ex14 skipping using tissue-based or plasmabased specimens, it is important that a well-validated and robust test is chosen to avoid false negative or false positive results. For the characteristics of tests used in clinical studies, see section 5.1.
+When detecting the presence of alterations leading to METex14 skipping using tissue-based or plasma-based specimens, it is important that a well-validated and robust test is chosen to avoid false negative or false positive results. For the characteristics of tests used in clinical studies, see section 5.1.
 
 ## Interstitial lung disease and pneumonitis
 
@@ -164,7 +160,7 @@ Co-administration of omeprazole under fed conditions had no clinically relevant 
 
 ## P-gp substrates
 
-Tepotinib is an inhibitor of P-gp . Administration of tepotinib 450 mg orally once daily for 8 days increased the AUC of the sensitive P-gp substrate dabigatran etexilate by approximately 50% and Cmax by approximately 40%. Dose adjustment of dabigatran etexilate may be needed in case of concomitant use. Caution and monitoring for adverse reactions of other P-gp-dependent substances with a narrow therapeutic index (e.g. digoxin, aliskiren, everolimus, sirolimus) is recommended during coadministration with TEPMETKO.
+Tepotinib is an inhibitor of P-gp. Administration of tepotinib 450 mg orally once daily for 8 days increased the AUC of the sensitive P-gp substrate dabigatran etexilate by approximately 50% and Cmax by approximately 40%. Dose adjustment of dabigatran etexilate may be needed in case of concomitant use. Caution and monitoring for adverse reactions of other P-gp-dependent substances with a narrow therapeutic index (e.g. digoxin, aliskiren, everolimus, sirolimus) is recommended during co-administration with TEPMETKO.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -218,17 +214,17 @@ TEPMETKO has no influence on the ability to drive and use machines.
 
 ## Summary of the safety profile
 
-The most common adverse reactions in ≥ 20% of exposed to tepotinib at the recommended dose in the target indication (N = 313) are oedema (81.5% of patients), mainly peripheral oedema (72.5%), hypoalbuminaemia (32.9%), nausea (31.0%), increase in creatinine (29.1%) and diarrhoea (28.8%).
+The most common adverse reactions in ≥ 20% of patients exposed to tepotinib at the recommended dose in the target indication (N = 313) are oedema (81.5%), mainly peripheral oedema (72.5%), hypoalbuminaemia (32.9%), nausea (31.0%), increase in creatinine (29.1%) and diarrhoea (28.8%).
 
-The most common serious adverse reactions in ≥ 1% of patients are peripheral oedema (3.2%), generalised oedema (1.9%) and ILD (1.0%).
+The most common serious adverse reactions in ≥ 1% of patients are peripheral oedema (3.2%), generalised oedema (1.9%), and ILD (1.0%).
 
-The percentage of patients who had adverse events leading to permanent treatment discontinuation is 24.9%. The most common adverse reactions leading to permanent discontinuation in ≥ 1% of patients are peripheral oedema (5.4%), oedema (1.3%), genital oedema (1.0%) and ILD (1.0%).
+The percentage of patients who had adverse reactions leading to permanent treatment discontinuation is 14.7%. The most common adverse reactions leading to permanent discontinuation in ≥ 1% of patients are peripheral oedema (5.4%), oedema (1.3%), genital oedema (1.0%), pneumonitis (1.0%), and ILD (1.0%).
 
-The percentage of patients who had adverse events leading to temporary treatment discontinuation is 52.7%. The most common adverse reactions leading to temporary discontinuation in ≥ 2% of patients are peripheral oedema (19.8%), increase in creatinine (5.8%), generalised oedema (4.8%), oedema (3.8%), increase in ALT (2.9%), nausea (3.2%) and increase in amylase (1.6%).
+The percentage of patients who had adverse reactions leading to temporary treatment discontinuation is 43.1%. The most common adverse reactions leading to temporary discontinuation in ≥ 2% of patients are peripheral oedema (19.8%), increase in creatinine (5.8%), generalised oedema (4.8%), oedema (3.8%), nausea (3.2%), increase in ALT (2.9%), and localised oedema (2.2%).
 
-The percentage of patients who had adverse events leading to dose reduction is 36.1%. The most common adverse reactions leading to dose reduction in ≥ 2% of patients are peripheral oedema (15.7%), increase in creatinine (2.9%), generalised oedema (3.2%) and oedema (2.6%).
+The percentage of patients who had adverse reactions leading to dose reduction is 33.5%. The most common adverse reactions leading to dose reduction in ≥ 2% of patients are peripheral oedema (15.7%), increase in creatinine (2.9%), generalised oedema (3.2%) and oedema (2.6%).
 
-## List of adverse reactions
+## Tabulated list of adverse reactions
 
 Adverse reactions described in the list below reflect exposure to tepotinib in 506 patients with various solid tumours enrolled in five open-label studies, in which patients received tepotinib as a single agent at a dose of 450 mg once daily.
 
@@ -242,34 +238,34 @@ The severity of adverse reactions was assessed based on the Common Terminology C
 
 The following definitions apply to the frequency terminology used hereafter:
 
-Very common (≥ 1/10) Common (≥ 1/100 to &lt; 1/10) Uncommon (≥ 1/1 000 to &lt; 1/100)
-
-Rare (≥ 1/10 000 to &lt; 1/1 000)
-
-Very rare (&lt; 1/10 000)
+Very common (≥ 1/10) Common (≥ 1/100 to &lt; 1/10) Uncommon (≥ 1/1 000 to &lt; 1/100) Rare (≥ 1/10 000 to &lt; 1/1 000) Very rare (&lt; 1/10 000)
 
 Frequency not known (cannot be estimated from the available data)
 
-Table 2: Adverse reactions in patients with NSCLC harbouring MET ex14 skipping alterations (VISION)
+Table 2: Adverse reactions in patients with NSCLC harbouring METex14 skipping alterations (VISION)
 
-| System organ class/Adverse reaction                                      | TEPMETKO N = 313   | TEPMETKO N = 313   | TEPMETKO N = 313   |
-|--------------------------------------------------------------------------|--------------------|--------------------|--------------------|
-|                                                                          | Frequency category | All grades %       | Grade ≥ 3 %        |
-| Metabolism and nutrition disorders Decrease in albumin* ,a               | Very common        | 78.6               | 8.9                |
-| Cardiac disorders QT prolongation*                                       | Common             | 2.6                | ---                |
-| Respiratory, thoracic and mediastinal disorders ILD-like reactions* ,b,c | Common             | 2.6                | 0.3                |
-| Gastrointestinal disorders                                               |                    |                    |                    |
-| Nausea                                                                   | Very common        | 31.0               | 1.3                |
-| Diarrhoea                                                                | Very common        | 28.8               | 0.6                |
-| Increase in amylase* ,a                                                  | Very common        | 24.0               | 5.1                |
-| Increase in lipase* ,a                                                   | Very common        | 20.4               | 5.1                |
-| Vomiting                                                                 | Very common        | 14.4               | 1.0                |
-| Hepatobiliary disorders                                                  |                    |                    |                    |
-| Increase in alkaline phosphatase (ALP)*                                  | Very common        | 50.8               | 1.6                |
-| Increase in alanine aminotransferase (ALT)* ,a                           | Very common        | 48.9               | 4.8                |
-| Increase in aspartate aminotransferase (AST)* ,a                         | Very common        | 39.3               | 3.5                |
-| Renal and urinary disorders Increase in creatinine* ,a                   | Very common        | 58.8               | 1.0                |
-| General disorders and administration site conditions Oedema* ,d          | Very common        | 81.5               | 15.7               |
+| System organ class/Adverse reaction                  | TEPMETKO N = 313 - Frequency category   |   TEPMETKO N = 313 - All grades % | TEPMETKO N = 313 - Grade ≥ 3 %   |
+|------------------------------------------------------|-----------------------------------------|-----------------------------------|----------------------------------|
+| Metabolism and nutrition disorders                   |                                         |                                   |                                  |
+| Decrease in albumin* ,a                              | Very common                             |                              78.6 | 8.9                              |
+| Cardiac disorders                                    |                                         |                                   |                                  |
+| QT prolongation*                                     | Common                                  |                               2.6 | ---                              |
+| Respiratory, thoracic and mediastinal disorders      |                                         |                                   |                                  |
+| ILD-like reactions* ,b,c                             | Common                                  |                               2.6 | 0.3                              |
+| Gastrointestinal disorders                           |                                         |                                   |                                  |
+| Nausea                                               | Very common                             |                              31.0 | 1.3                              |
+| Diarrhoea                                            | Very common                             |                              28.8 | 0.6                              |
+| Increase in amylase* ,a                              | Very common                             |                              24.0 | 5.1                              |
+| Increase in lipase* ,a                               | Very common                             |                              20.4 | 5.1                              |
+| Vomiting                                             | Very common                             |                              14.4 | 1.0                              |
+| Hepatobiliary disorders                              |                                         |                                   |                                  |
+| Increase in alkaline phosphatase (ALP)*              | Very common                             |                              50.8 | 1.6                              |
+| Increase in alanine aminotransferase (ALT)* ,a       | Very common                             |                              48.9 | 4.8                              |
+| Increase in aspartate aminotransferase (AST)* ,a     | Very common                             |                              39.3 | 3.5                              |
+| Renal and urinary disorders                          |                                         |                                   |                                  |
+| Increase in creatinine* ,a                           | Very common                             |                              58.8 | 1.0                              |
+| General disorders and administration site conditions |                                         |                                   |                                  |
+| Oedema* ,d                                           | Very common                             |                              81.5 | 15.7                             |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -311,7 +307,7 @@ QTcF prolongation to &gt; 500 ms was observed in 8 patients (2.6%) and a QTcF pr
 
 ## Elderly
 
-Of 313 patients with MET ex14 skipping alterations in the VISION study who received 450 mg tepotinib once daily, 79% were 65 years or older, and 8% were 85 years or older. The occurrence of grade ≥ 3 events increased with age. Treatment-related serious events were more frequent in patients aged ≥ 75 years and &lt; 85 years (21%) or those aged ≥ 85 years (20.8%) when compared to those younger than 65 years (10.4%), although this comparison is limited by the small sample size in patients aged ≥ 85 years.
+Of 313 patients with METex14 skipping alterations in the VISION study who received 450 mg tepotinib once daily, 79% were 65 years or older, and 8% were 85 years or older. The occurrence of grade ≥ 3 events increased with age. Treatment-related serious events were more frequent in patients aged ≥ 75 years and &lt; 85 years (21%) or those aged ≥ 85 years (20.8%) when compared to those younger than 65 years (10.4%), although this comparison is limited by the small sample size in patients aged ≥ 85 years.
 
 ## Reporting of suspected adverse reactions
 
@@ -327,13 +323,13 @@ The symptoms of overdose are expected to be in the range of known adverse reacti
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents, other protein kinase inhibitors, ATC code: L01EX21
+Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitors, cellular-mesenchymal-epithelial transition factor (c-MET) kinase inhibitors, ATC code: L01EP02
 
 ## Mechanism of action
 
 Tepotinib is a reversible Type I adenosine triphosphate (ATP)-competitive small molecule inhibitor of MET. Tepotinib blocked MET phosphorylation and MET-dependent downstream signalling such as the phosphatidylinositol 3-kinase/protein kinase B (PI3K/Akt) and mitogen-activated protein kinase/extracellular-signal regulated kinase (MAPK/ERK) pathways in a dose-dependent manner.
 
-Tepotinib demonstrated pronounced anti-tumour activity in tumours with oncogenic activation of MET , such as MET ex14 skipping alterations.
+Tepotinib demonstrated pronounced anti-tumour activity in tumours with oncogenic activation of MET, such as METex14 skipping alterations.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -345,13 +341,13 @@ A concentration-dependent increase in QTc interval was observed in the concentra
 
 ## Detection of METex14 skipping status
 
-In clinical studies, identification of MET ex14 skipping alterations relied on next generation sequencing using RNA or DNA (1 patient) extracted from formalin-fixed paraffin embedded (FFPE) tumour tissue or using circulating cell free DNA from plasma. Additionally, a RNA-based reverse transcriptase polymerase chain reaction-based method specific for detecting MET ex14 skipping alterations from fresh frozen tissue was available to patients in Japan.
+In clinical studies, identification of METex14 skipping alterations relied on next generation sequencing using RNA or DNA (1 patient) extracted from formalin-fixed paraffin embedded (FFPE) tumour tissue or using circulating cell free DNA from plasma. Additionally, a RNA-based reverse transcriptase polymerase chain reaction-based method specific for detecting METex14 skipping alterations from fresh frozen tissue was available to patients in Japan.
 
 ## Clinical efficacy and safety
 
-The efficacy of tepotinib was evaluated in a single-arm, open-label, multicentre study (VISION) in adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) harbouring MET ex14 skipping alterations (n = 313). Patients had an Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 to 1 and were either treatment-naïve or had progressed on up to 2 lines prior systemic therapies. Neurologically stable patients with central nervous system metastases were permitted. Patients with epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) activating alterations were excluded. Patients received tepotinib as first-line (52%), second-line (29%) or later line (18%) therapy.
+The efficacy of tepotinib was evaluated in a single-arm, open-label, multicentre study (VISION) in adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) harbouring METex14 skipping alterations (n = 313). Patients had an Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 to 1 and were either treatment-naïve or had progressed on up to 2 lines prior systemic therapies. Neurologically stable patients with central nervous system metastases were permitted. Patients with epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) activating alterations were excluded. Patients received tepotinib as first-line (52%), second-line (29%) or later line (18%) therapy.
 
-Patients who received tepotinib for second- or later line therapy (n = 149) had a median age of 71 years (range 41 to 89), 52% were female and 48% male. The majority of patients were white (56%), followed by Asian patients (38%) and were never (53%) or former smokers (40%). Most patients were ≥ 65 years of age (75%) and 35% of patients were ≥ 75 years of age. The majority of patients (95%) had stage IV disease, 81% had adenocarcinoma histology. Thirteen percent of the patients had stable brain metastases. Eighty-four percent of patients had received prior platinum-based cancer therapy and 54% of patients had received immune-based cancer therapy, including 40% of patients who had received immunotherapy as monotherapy. MET ex14 skipping was prospectively detected by testing from tumour tissue in 65% of patients and by testing from plasma in 56% of patients; 56% of patients tested positive with both methods.
+Patients who received tepotinib for second- or later line therapy (n = 149) had a median age of 71 years (range 41 to 89), 52% were female and 48% male. The majority of patients were white (56%), followed by Asian patients (38%) and were never (53%) or former smokers (40%). Most patients were ≥ 65 years of age (75%) and 35% of patients were ≥ 75 years of age. The majority of patients (95%) had stage IV disease, 81% had adenocarcinoma histology. Thirteen percent of the patients had stable brain metastases. Eighty-four percent of patients had received prior platinum-based cancer therapy and 54% of patients had received immune-based cancer therapy, including 40% of patients who had received immunotherapy as monotherapy. METex14 skipping was prospectively detected by testing from tumour tissue in 65% of patients and by testing from plasma in 56% of patients; 56% of patients tested positive with both methods.
 
 Patients received 450 mg tepotinib once daily until disease progression or unacceptable toxicity. Median treatment duration was 7.5 months (range 0 to 72). The follow-up time was at least 18 and up to 72 months at the time of the data cut-off (cut-off date 20 November 2022).
 
@@ -363,16 +359,18 @@ Table 3: Clinical outcomes in the VISION study by IRC assessment
 
 | Efficacy parameter                           | Overall population N = 313   | Previously treated patients N = 149   |
 |----------------------------------------------|------------------------------|---------------------------------------|
-| Objective response rate (ORR),% a            | 51.4                         | 45.0                                  |
+| Objective response rate (ORR), % a           | 51.4                         | 45.0                                  |
 | [95% CI]                                     | [45.8, 57.1]                 | [36.8, 53.3]                          |
 | Median duration of response (mDoR), months b | 18.0                         | 12.6                                  |
 | [95% CI]                                     | [12.4, 46.4]                 | [9.5, 18.5]                           |
 
-IRC = Independent Review Committee, CI = confidence interval a  Only includes partial response
+IRC = Independent Review Committee, CI = confidence interval
 
-b  Product-limit (Kaplan-Meier) estimates, 95% CI for the median using the Brookmeyer and Crowley method
+a Only includes partial response
 
-Efficacy outcome was independent of the testing modality (in plasma or tumour specimens) used to establish the MET ex14 skipping status. Consistent efficacy results in subgroups by prior therapy, presence of brain metastasis or age were observed.
+b Product-limit (Kaplan-Meier) estimates, 95% CI for the median using the Brookmeyer and Crowley method
+
+Efficacy outcome was independent of the testing modality (in plasma or tumour specimens) used to establish the METex14 skipping status. Consistent efficacy results in subgroups by prior therapy, presence of brain metastasis or age were observed.
 
 ## Paediatric population
 
@@ -446,7 +444,7 @@ No studies have been performed to evaluate the carcinogenic potential of tepotin
 
 ## Reproduction toxicity
 
-In a first oral embryo-foetal development study, pregnant rabbits received doses of 50, 150, and 450 mg tepotinib hydrochloride hydrate per kg per day during organogenesis. The dose of 450 mg per kg (approximately 61% of the human exposure at the recommended dose of TEPMETKO 450 mg once daily based on AUC) was discontinued due to severe maternal toxic effects. In the 150 mg per kg group (approximately 40% of the human exposure at the 450 mg clinical dose), two animals aborted and one animal died prematurely. Mean foetal body weight was decreased at doses of ≥ 150 mg per kg per day. A dose-dependent increase of skeletal malformations, including malrotations of fore and/or hind paws with concomitant misshapen scapula and/or malpositioned clavicle and/or calcaneous and/or talus, were observed at 50 mg per kg (approximately 14% of the human exposure at the 450 mg clinical dose) and 150 mg per kg per day.
+In a first oral embryo-foetal development study, pregnant rabbits received doses of 50, 150, and 450 mg tepotinib hydrochloride hydrate per kg per day during organogenesis. The dose of 450 mg per kg (approximately 61% of the human exposure at the recommended dose of TEPMETKO 450 mg once daily based on AUC) was discontinued due to severe maternal toxic effects. In the 150 mg per kg group (approximately 40% of the human exposure at the 450 mg clinical dose), two animals aborted and one animal died prematurely. Mean foetal body weight was decreased at doses of ≥ 150 mg per kg per day. A dose-dependent increase of skeletal malformations, including malrotations of fore and/or hind paws with concomitant misshapen scapula and/or malpositioned clavicle and/or calcaneus and/or talus, were observed at 50 mg per kg (approximately 14% of the human exposure at the 450 mg clinical dose) and 150 mg per kg per day.
 
 In the second embryo-foetal development study, pregnant rabbits received oral doses of 0.5, 5, and 25 mg tepotinib hydrochloride hydrate per kg per day during organogenesis. Two malformed foetuses with malrotated hind limbs were observed: one in the 5 mg per kg group (approximately 0.21% of the human exposure at the recommended dose of TEPMETKO 450 mg once daily based on AUC) and one in the 25 mg per kg group (approximately 1.3% of the human exposure at the 450 mg clinical dose), together with a generally increased incidence of foetuses with hind limb hyperextension.
 
@@ -462,13 +460,11 @@ Environmental risk assessment studies have shown that tepotinib has the potentia
 
 ## Tablet core
 
-Mannitol Colloidal anhydrous silica Crospovidone Magnesium stearate Microcrystalline cellulose
+Mannitol Colloidal anhydrous silica Crospovidone Magnesium stearate Microcrystalline cellulose Film-coating Polyvinyl alcohol - partially hydrolyzed (E1203) Titanium dioxide (E171) Macrogol (PEG type 3350 or equivalent) Talc (E553b)
 
 <div style=\"page-break-after: always\"></div>
 
-## Film-coating
-
-Polyvinyl alcohol Titanium dioxide (E171) Polyethylene glycol Talc Red iron oxide (E172)
+Red iron oxide (E172)
 
 ## 6.2 Incompatibilities
 
@@ -480,7 +476,7 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-This medicinal product does not require special storage conditions.
+This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
@@ -492,7 +488,9 @@ This medicinal product may pose a risk to the environment (see section 5.3). Any
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
+Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -500,7 +498,7 @@ EU/1/21/1596/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 16 February 2022
+Date of first authorisation: 16 February 2022 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -513,7 +511,8 @@ Detailed information on this medicinal product is available on the website of th
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -568,8 +567,6 @@ Each film-coated tablet contains 225 mg tepotinib (as hydrochloride hydrate).
 
 ## 3. LIST OF EXCIPIENTS
 
-See package leaflet for further information.
-
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 60 film-coated tablets.
@@ -586,7 +583,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -598,17 +595,18 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
-| 12.   | MARKETING AUTHORISATION NUMBER   |
-|-------|----------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER   |
+|--------------------------------------|
 
 EU/1/21/1596/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
@@ -628,26 +626,24 @@ tepmetko
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 TEPMETKO 225 mg tablets tepotinib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Merck Europe B.V.
 
@@ -664,21 +660,17 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+22
+
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-## TEPMETKO 225 mg film-coated tablets
-
-## tepotinib
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## TEPMETKO 225 mg film-coated tablets tepotinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -714,11 +706,11 @@ An alteration in the MET gene can lead to production of an abnormal protein, whi
 
 Talk to your doctor before taking this medicine if you have any questions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Lung or breathing problems
 
 TEPMETKO can sometimes cause sudden breathing difficulties that may be associated with a fever and cough. Tell your doctor right away if you develop any new or worsening symptoms (see section 4) as these may be signs of a serious lung condition (interstitial lung disease) which needs immediate attention. Your doctor may need to treat you with other medicines and interrupt your TEPMETKO treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Monitoring of liver function
 
@@ -734,7 +726,7 @@ This medicine should not be used in pregnancy as it can harm the unborn baby. Me
 
 ## Children and adolescents
 
-This medicine has not been studied in patients below the age of 18 years.
+Do not give this medicine to children and adolescents as it has not been studied in people below 18 years of age.
 
 ## Other medicines and TEPMETKO
 
@@ -743,7 +735,7 @@ Tell your doctor if you are using, have recently used or might use any other med
 TEPMETKO may affect how well the following medicines work and/or increase side effects of these medicines:
 
 - dabigatran - used to prevent stroke or venous thrombosis/pulmonary embolism
-- digoxin - used to treat irregular heart beat or other heart problems
+- digoxin - used to treat irregular heartbeat or other heart problems
 - aliskiren - used to treat high blood pressure
 - everolimus - used to treat cancer
 - sirolimus - used to prevent organ rejection in transplanted patients
@@ -752,7 +744,7 @@ TEPMETKO may affect how well the following medicines work and/or increase side e
 - topotecan - used to treat cancer
 - metformin - used to treat diabetes
 
-## Pregnancy and breast-feeding
+-
 
 ## Pregnancy
 
@@ -766,8 +758,6 @@ If you are male, you should use a barrier method of contraception to prevent you
 
 Your doctor will give you guidance on appropriate methods of contraception.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Breast-feeding
 
 It is not known whether TEPMETKO may pass to the baby via breast milk. Stop breast-feeding your baby while you are treated with this medicine and for at least 1 week after the last dose.
@@ -775,6 +765,8 @@ It is not known whether TEPMETKO may pass to the baby via breast milk. Stop brea
 ## Driving and using machines
 
 TEPMETKO has no influence on the ability to drive or use machines.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to take TEPMETKO
 
@@ -804,7 +796,7 @@ Experience with overdose of TEPMETKO is limited. Symptoms of overdose will most 
 
 ## If you forget to take TEPMETKO
 
-If you miss a dose of TEPMETKO, take it as soon as you remember. If your next dose is due within 8 hours, skip the missed dose and take your next dose at your regular time. Do not take a double dose to make up for a missed dose.
+If you miss a dose of TEPMETKO, take it as soon as you remember. However, if your next dose is due within 8 hours, skip the missed dose and take your next dose at your regular time. Do not take a double dose to make up for a missed dose.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -812,13 +804,13 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Serious side effects
 
 ## Lung or breathing problems
 
 Tell your doctor right away if you develop any new or worsening symptoms such as sudden breathing difficulties, cough or fever. These may be signs of a serious lung condition (interstitial lung disease) which needs immediate medical attention. This side effect is common (may affect up to 1 in 10 people).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other side effects
 
@@ -829,12 +821,15 @@ Talk to your doctor if you get any other side effects. These can include:
 - Swelling caused by fluid build-up in the body (oedema)
 - Feeling sick (nausea) or being sick (vomiting)
 - Diarrhoea
+
+## Very common abnormal laboratory values that show up in blood tests (may affect more than 1 in 10 people)
+
 - Raised levels of creatinine in blood (a sign of possible kidney problems)
 - Raised levels of alanine aminotransferase, aspartate aminotransferase or alkaline phosphatase in blood (a sign of possible liver problems)
 - Raised levels of amylase or lipase in blood (a sign of possible digestive problems)
 - Reduced levels of the protein albumin in blood
 
-## Common side effects (may affect up to 1 in 10 people)
+Common side effects (may affect up to 1 in 10 people)
 
 - Change in electrical activity of the heart seen on ECG (QT prolongation)
 
@@ -857,7 +852,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What TEPMETKO contains
 
 - The active substance is tepotinib. Each film-coated tablet contains 225 mg tepotinib (as hydrochloride hydrate).
-- The other ingredients are mannitol, colloidal anhydrous silica, crospovidone, magnesium stearate and microcrystalline cellulose in the tablet core and polyvinyl alcohol, titanium dioxide (E171), polyethylene glycol, talc, and red iron oxide (E172) in the film-coating.
+- The other ingredients are mannitol, colloidal anhydrous silica, crospovidone, magnesium stearate and microcrystalline cellulose in the tablet core and polyvinyl alcohol (E1203), titanium dioxide (E171), macrogol (polyethylene glycol), talc (E553b), and red iron oxide (E172) in the film-coating.
 
 ## What TEPMETKO looks like and contents of the pack
 

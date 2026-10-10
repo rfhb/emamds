@@ -1,11 +1,11 @@
 ---
-document_datetime: 2026-10-06 13:13:00
+document_datetime: 2026-10-09 17:56:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/etcamah.html
 document_name: etcamah.html
 version: success
-processing_time: 0.1505434
-conversion_datetime: 2026-10-09 18:50:52.025275
+processing_time: 0.1424318
+conversion_datetime: 2026-10-10 13:58:41.405505
 docling_version:
   docling-serve: 1.36.0
   docling-jobkit: 3.8.1
@@ -119,7 +119,7 @@ English (EN) (137.21 KB - PDF)
 
 [View](/en/documents/overview/etcamah-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-525)
+[Other languages (22)](#file-language-dropdown-248)
 
 български (BG) (157 KB - PDF)
 
@@ -271,7 +271,7 @@ English (EN) (344.23 KB - PDF)
 
 [View](/en/documents/product-information/etcamah-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-49)
+[Other languages (24)](#file-language-dropdown-395)
 
 български (BG) (489.95 KB - PDF)
 
@@ -440,7 +440,7 @@ English (EN) (34.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/etcamah-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-652)
+[Other languages (24)](#file-language-dropdown-612)
 
 български (BG) (41.98 KB - PDF)
 
@@ -624,21 +624,13 @@ Etcamah in combination with a CDK4/6 inhibitor (palbociclib, ribociclib, or abem
 
 ### Initial marketing authorisation documents
 
-Etcamah : EPAR - Divergent position of CHMP
-
-English (EN) (153.24 KB - PDF)
-
-**First published:** 06/10/2026
-
-[View](/en/documents/assessment-report/etcamah-epar-divergent-position-chmp_en.pdf)
-
 Etcamah : EPAR - Public assessment report
 
 Adopted Reference Number: EMADOC-1829012207-55475
 
-English (EN) (8.37 MB - PDF)
+English (EN) (8.38 MB - PDF)
 
-**First published:** 06/10/2026
+**First published:** 06/10/2026 **Last updated:** 09/10/2026
 
 [View](/en/documents/assessment-report/etcamah-epar-public-assessment-report_en.pdf)
 
@@ -660,6 +652,6 @@ English (EN) (190.23 KB - PDF)
 
 **This page was last updated on**
 
-06/10/2026
+09/10/2026
 
 ## Share this page

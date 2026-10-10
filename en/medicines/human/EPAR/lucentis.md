@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-10-01 10:20:00
+document_datetime: 2026-10-08 12:01:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lucentis.html
 document_name: lucentis.html
 version: success
-processing_time: 0.2444306
-conversion_datetime: 2026-10-04 16:22:57.678261
+processing_time: 0.2923622
+conversion_datetime: 2026-10-10 14:00:13.06053
 docling_version:
   docling-serve: 1.36.0
   docling-jobkit: 3.8.1
-  docling: 2.133.0
-  docling-core: 2.99.0
+  docling: 2.137.0
+  docling-core: 2.101.1
   docling-ibm-models: 4.0.3
-  docling-parse: 7.22.1
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
   plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
@@ -153,7 +153,7 @@ English (EN) (90.1 KB - PDF)
 
 [View](/en/documents/overview/lucentis-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-189)
 
 български (BG) (121.39 KB - PDF)
 
@@ -305,7 +305,7 @@ English (EN) (1.13 MB - PDF)
 
 [View](/en/documents/product-information/lucentis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-397)
+[Other languages (24)](#file-language-dropdown-249)
 
 български (BG) (1.26 MB - PDF)
 
@@ -478,7 +478,7 @@ English (EN) (81.14 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-538)
+[Other languages (24)](#file-language-dropdown-831)
 
 български (BG) (90.3 KB - PDF)
 
@@ -632,7 +632,7 @@ English (EN) (119 KB - PDF)
 
 [View](/en/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-728)
+[Other languages (23)](#file-language-dropdown-437)
 
 български (BG) (164.95 KB - PDF)
 
@@ -1075,155 +1075,155 @@ The approved product information for this medicine is available below showing th
 
 Lucentis : EPAR - Product information - tracked changes
 
-English (EN) (1.13 MB - DOCX)
+English (EN) (1.14 MB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/en/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-30)
+[Other languages (24)](#file-language-dropdown-859)
 
 български (BG) (1.15 MB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/bg/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (959 KB - DOCX)
+español (ES) (964.25 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/es/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (935.98 KB - DOCX)
+čeština (CS) (940.28 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/cs/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (988.16 KB - DOCX)
+dansk (DA) (988.55 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/da/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (1.07 MB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/de/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_de.docx)
 
-eesti (ET) (896.85 KB - DOCX)
+eesti (ET) (899.74 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/et/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (1.2 MB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/el/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (1002.99 KB - DOCX)
+français (FR) (983.17 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/fr/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (915.48 KB - DOCX)
+hrvatski (HR) (927.89 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/hr/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_hr.docx)
 
-italiano (IT) (986.08 KB - DOCX)
+italiano (IT) (990.68 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/it/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_it.docx)
 
-latviešu (LV) (881.05 KB - DOCX)
+latviešu (LV) (884.15 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/lv/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių (LT) (835.85 KB - DOCX)
+lietuvių (LT) (840.79 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/lt/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (948.57 KB - DOCX)
+magyar (HU) (941.74 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/hu/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (1.08 MB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/mt/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (808.61 KB - DOCX)
+Nederlands (NL) (806.46 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/nl/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_nl.docx)
 
-polski (PL) (991.03 KB - DOCX)
+polski (PL) (992.02 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/pl/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (875.96 KB - DOCX)
+português (PT) (880.1 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/pt/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (919.68 KB - DOCX)
+română (RO) (917.29 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/ro/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (802.18 KB - DOCX)
+slovenčina (SK) (806.09 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/sk/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (848.55 KB - DOCX)
+slovenščina (SL) (845.94 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/sl/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_sl.docx)
 
-suomi (FI) (820.41 KB - DOCX)
+suomi (FI) (824.74 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/fi/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (1.05 MB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/sv/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_sv.docx)
 
 Íslenska (IS) (1.35 MB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/is/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_is.docx)
 
-norsk (NO) (881.41 KB - DOCX)
+norsk (NO) (886.15 KB - DOCX)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 08/10/2026
 
 [View](/no/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_no.docx)
 
@@ -1242,6 +1242,6 @@ norsk (NO) (881.41 KB - DOCX)
 
 **This page was last updated on**
 
-01/10/2026
+08/10/2026
 
 ## Share this page

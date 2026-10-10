@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-07 12:51:11
+document_datetime: 2026-10-07 14:17:02
 document_pages: 47
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zokinvy-epar-product-information_en.pdf
 document_name: zokinvy-epar-product-information_en.pdf
 version: success
-processing_time: 11.3113046
-conversion_datetime: 2026-04-09 12:45:54.248582
+processing_time: 17.0272525
+conversion_datetime: 2026-10-10 12:21:34.683944
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -48,11 +48,11 @@ Hard capsule (capsule)
 
 Zokinvy 50 mg hard capsules
 
-Size 4 hard capsule (5 mm x 14 mm), opaque yellow with 'LNF' and '50' printed in black.
+Size 4 hard capsule (5 mm x 14 mm), opaque yellow with \"LNF\" and \"50\" printed in black.
 
 Zokinvy 75 mg hard capsules
 
-Size 3 hard capsule (6 mm x 16 mm), opaque light orange with 'LNF and '75' printed in black.
+Size 3 hard capsule (6 mm x 16 mm), opaque light orange with \"LNF and \"75\" printed in black.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -64,47 +64,41 @@ Zokinvy is indicated for the treatment of patients 12 months of age and older wi
 
 Treatment should be initiated by a physician experienced in the treatment of patients with progeroid syndromes or patients with rare genetic metabolic syndromes.
 
-## Posology
+Posology
 
-Starting dose
+Starting dose For all indications, the recommended starting dose is 115 mg/m 2 twice daily. The Du Bois formula was used in clinical trials and should be used to calculate body surface area for dosing. All total daily doses should be rounded to the nearest 25 mg increment and divided into two equal, or near equal, doses (see Table 1). Doses should be taken approximately 12 hours apart from one another (morning and evening).
 
 <div style=\"page-break-after: always\"></div>
 
-For all indications, the recommended starting dose is 115 mg/m 2 twice daily. The Du Bois formula was used in clinical trials and should be used to calculate body surface area for dosing. All total daily doses should be rounded to the nearest 25 mg increment and divided into two equal, or near equal, doses (see Table 1). Doses should be taken approximately 12 hours apart from one another (morning and evening).
+Table 1: Recommended starting dose and administration schedule for 115 mg/m 2 body surface area-based dosing
 
-Table 1: Recommended starting dose and administration schedule for 115 mg/m 2  body surface area-based dosing
-
-| Body surface area (m 2 )   | Total daily dose rounded to nearest   | Morning dose number of capsule(s)   | Morning dose number of capsule(s)   | Evening dose number of capsule(s)   | Evening dose number of capsule(s)   |
-|----------------------------|---------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
-|                            | 25 mg                                 | lonafarnib 50 mg                    | lonafarnib 75 mg                    | lonafarnib 50 mg                    | lonafarnib 75 mg                    |
-| 0.30 - 0.38                | 75                                    |                                     | 1*                                  |                                     | 1*                                  |
-| 0.39 - 0.48                | 100                                   | 1                                   |                                     | 1                                   |                                     |
-| 0.49 - 0.59                | 125                                   |                                     | 1                                   | 1                                   |                                     |
-| 0.6 - 0.7                  | 150                                   |                                     | 1                                   |                                     | 1                                   |
-| 0.71 - 0.81                | 175                                   | 2                                   |                                     |                                     | 1                                   |
-| 0.82 - 0.92                | 200                                   | 2                                   |                                     | 2                                   |                                     |
-| 0.93 - 1                   | 225                                   | 1                                   | 1                                   | 2                                   |                                     |
-
-* For patients with a body surface area of 0.30 m 2 to 0.38 m 2 , the contents of a 75 mg capsule must be mixed with 10 mL soft food (see Method of administration). This dose will be prepared and consumed twice daily (see section 6.6).
+| Body surface area (m 2 )   |   Total daily dose rounded to nearest - 25 mg |   Morning dose number of capsule(s) - lonafarnib 50 mg | Morning dose number of capsule(s) - lonafarnib 75 mg   |   Evening dose number of capsule(s) - lonafarnib 50 mg | Evening dose number of capsule(s) - lonafarnib 75 mg   |
+|----------------------------|-----------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| 0.30 - 0.38                |                                            75 |                                                        | 1*                                                     |                                                        | 1*                                                     |
+| 0.39 - 0.48                |                                           100 |                                                      1 |                                                        |                                                      1 |                                                        |
+| 0.49 - 0.59                |                                           125 |                                                        | 1                                                      |                                                      1 |                                                        |
+| 0.6 - 0.7                  |                                           150 |                                                        | 1                                                      |                                                        | 1                                                      |
+| 0.71 - 0.81                |                                           175 |                                                      2 |                                                        |                                                        | 1                                                      |
+| 0.82 - 0.92                |                                           200 |                                                      2 |                                                        |                                                      2 |                                                        |
+| 0.93 - 1                   |                                           225 |                                                      1 | 1                                                      |                                                      2 |                                                        |
 
 ## Maintenance dose
 
 After 4 months of treatment using the starting dose of 115 mg/m 2 twice daily, the dose should be increased to the maintenance dose of 150 mg/m 2 twice daily (morning and evening). All total daily doses should be rounded to the nearest 25 mg increment and divided into two equal, or near equal, doses (see Table 2).
 
-Table 2: Recommended maintenance dose and administration schedule for 150 mg/m 2  body surface area-based dosing
+Table 2: Recommended maintenance dose and administration schedule for 150 mg/m 2 body surface area-based dosing
 
-| Body surface area (m 2 )   | Total daily dose rounded to nearest   | Morning dose number of capsule(s)   | Morning dose number of capsule(s)   | Evening dose number of capsule(s)   | Evening dose number of capsule(s)   |
-|----------------------------|---------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
-|                            | 25 mg                                 | lonafarnib 50 mg                    | lonafarnib 75 mg                    | lonafarnib 50 mg                    | lonafarnib 75 mg                    |
-| 0.30 - 0.37                | 100                                   | 1                                   |                                     | 1                                   |                                     |
-| 0.38 - 0.45                | 125                                   |                                     | 1                                   | 1                                   |                                     |
-| 0.46 - 0.54                | 150                                   |                                     | 1                                   |                                     | 1                                   |
-| 0.55 - 0.62                | 175                                   | 2                                   |                                     |                                     | 1                                   |
-| 0.63 - 0.7                 | 200                                   | 2                                   |                                     | 2                                   |                                     |
-| 0.71 - 0.79                | 225                                   | 1                                   | 1                                   | 2                                   |                                     |
-| 0.8 - 0.87                 | 250                                   | 1                                   | 1                                   | 1                                   | 1                                   |
-| 0.88 - 0.95                | 275                                   |                                     | 2                                   | 1                                   | 1                                   |
-| 0.96 - 1                   | 300                                   |                                     | 2                                   |                                     | 2                                   |
+| Body surface area (m 2 )   |   Total daily dose rounded to nearest - 25 mg |   Morning dose number of capsule(s) - lonafarnib 50 mg |   Morning dose number of capsule(s) - lonafarnib 75 mg |   Evening dose number of capsule(s) - lonafarnib 50 mg |   Evening dose number of capsule(s) - lonafarnib 75 mg |
+|----------------------------|-----------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| 0.30 - 0.37                |                                           100 |                                                      1 |                                                        |                                                      1 |                                                        |
+| 0.38 - 0.45                |                                           125 |                                                        |                                                      1 |                                                      1 |                                                        |
+| 0.46 - 0.54                |                                           150 |                                                        |                                                      1 |                                                        |                                                      1 |
+| 0.55 - 0.62                |                                           175 |                                                      2 |                                                        |                                                        |                                                      1 |
+| 0.63 - 0.7                 |                                           200 |                                                      2 |                                                        |                                                      2 |                                                        |
+| 0.71 - 0.79                |                                           225 |                                                      1 |                                                      1 |                                                      2 |                                                        |
+| 0.8 - 0.87                 |                                           250 |                                                      1 |                                                      1 |                                                      1 |                                                      1 |
+| 0.88 - 0.95                |                                           275 |                                                        |                                                      2 |                                                      1 |                                                      1 |
+| 0.96 - 1                   |                                           300 |                                                        |                                                      2 |                                                        |                                                      2 |
 
 ## Missed dose
 
@@ -130,7 +124,7 @@ Dose adjustment for patients requiring parenteral midazolam for a surgical proce
 
 ## Specific interactions with foods and drinks
 
-Lonafarnib should not be taken with foods or juices that contain grapefruit, cranberries, pomegranates or Seville oranges ( e.g. , orange marmalade), otherwise known as sour or bitter oranges (see section 4.5). Taking lonafarnib with food or drinks containing these fruits or fruit juices may increase adverse reactions associated with lonafarnib.
+Lonafarnib should not be taken with foods or juices that contain grapefruit, cranberries, pomegranates or Seville oranges (e.g., orange marmalade), otherwise known as sour or bitter oranges (see section 4.5). Taking lonafarnib with food or drinks containing these fruits or fruit juices may increase adverse reactions associated with lonafarnib.
 
 ## Dose adjustment for patients with QTc interval prolongation
 
@@ -176,7 +170,7 @@ Patients with severe hepatic impairment (Child-Pugh Class C) (see section 5.2).
 
 Treatment with lonafarnib should be initiated as soon as a diagnosis has been made. The clinical data indicate that the expected survival benefit of lonafarnib treatment in Hutchinson-Gilford progeria syndrome (HGPS) patients who started treatment at 10 years of age or above is less compared to those who started at a younger age (see section 5.1).
 
-Treatment initiation with lonafarnib in older patients should be balanced against the side effects ( i.e. , vomiting, nausea and diarrhoea) in the first few months of treatment.
+Treatment initiation with lonafarnib in older patients should be balanced against the side effects (i.e., vomiting, nausea and diarrhoea) in the first few months of treatment.
 
 ## QTc interval prolongation
 
@@ -186,7 +180,7 @@ Based on this finding, use of lonafarnib should be avoided in patients with a hi
 
 <div style=\"page-break-after: always\"></div>
 
-ECGs  and serum electrolytes should be assessed before starting lonafarnib and monitored throughout lonafarnib  treatment, with any electrolyte imbalances corrected promptly.
+ECGs and serum electrolytes should be assessed before starting lonafarnib and monitored throughout lonafarnib treatment, with any electrolyte imbalances corrected promptly.
 
 ## Gastrointestinal adverse reactions and dehydration
 
@@ -270,7 +264,7 @@ No interaction studies have been conducted with a weak CYP3A inducer. There is n
 
 ## Foods and select juices that affect the metabolism of lonafarnib
 
-Grapefruit, cranberries, pomegranate and Seville oranges ( e.g. , orange marmalade), otherwise known as sour or bitter oranges, inhibit the CYP3A system. Ingestion of food or juices containing these fruits should be avoided while taking lonafarnib (see section 4.2).
+Grapefruit, cranberries, pomegranate and Seville oranges (e.g., orange marmalade), otherwise known as sour or bitter oranges, inhibit the CYP3A system. Ingestion of food or juices containing these fruits should be avoided while taking lonafarnib (see section 4.2).
 
 ## Lonafarnib as perpetrator
 
@@ -296,7 +290,7 @@ Based on in vitro data, lonafarnib is a MATE1/MATE2-K inhibitor at clinically re
 
 ## P-glycoprotein substrates
 
-When lonafarnib was co-administered with the P-glycoprotein substrate fexofenadine in healthy adult subjects, multiple dose lonafarnib (100 mg twice daily for 5 consecutive days) increased fexofenadine (single 180 mg oral dose) Cmax by 21% and AUC by 24%. When lonafarnib is co-administered with P-glycoprotein substrates ( e.g. , digoxin, dabigatran) where minimal concentration changes may lead to serious or life-threatening toxicities, monitor for adverse reactions and reduce the dose of the P-glycoprotein substrate in accordance with its approved product labelling.
+When lonafarnib was co-administered with the P-glycoprotein substrate fexofenadine in healthy adult subjects, multiple dose lonafarnib (100 mg twice daily for 5 consecutive days) increased fexofenadine (single 180 mg oral dose) Cmax by 21% and AUC by 24%. When lonafarnib is co-administered with P-glycoprotein substrates (e.g., digoxin, dabigatran) where minimal concentration changes may lead to serious or life-threatening toxicities, monitor for adverse reactions and reduce the dose of the P-glycoprotein substrate in accordance with its approved product labelling.
 
 ## OCT1 substrates
 
@@ -352,7 +346,7 @@ The most serious adverse reactions are increased alanine aminotransferase (3.6%)
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions occurring in the clinical trials are presented in Table 3 by System Organ Class and Preferred Term. Frequencies are defined as: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000) or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing frequency within each System Organ Class.
+Adverse reactions occurring in the clinical trials are presented in Table 3 by System Organ Class and Preferred Term. Frequencies are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000) or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing frequency within each System Organ Class.
 
 ## Table 3: Adverse reactions
 
@@ -379,11 +373,9 @@ a Abdominal pain includes abdominal pain and abdominal pain upper
 
 ## Gastrointestinal adverse reactions
 
-Gastrointestinal adverse reactions (vomiting [85.7%], diarrhoea [77.8%], nausea [38.1%]) were the most frequently reported adverse reactions. Of the patients with treatment related vomiting, 29 (53.7%) patients had Grade 1 vomiting (defined as no intervention required) and 25 (46.3%) had
+Gastrointestinal adverse reactions (vomiting [85.7%], diarrhoea [77.8%], nausea [38.1%]) were the most frequently reported adverse reactions. Of the patients with treatment related vomiting, 29 (53.7%) patients had Grade 1 vomiting (defined as no intervention required) and 25 (46.3%) had Grade 2 vomiting (defined as outpatient intravenous hydration; medical intervention required). Of these patients with treatment related nausea, 23 (95.8%) had Grade 1 nausea (defined as loss of appetite without alteration in eating habits) and 1 (4.2%) patient had Grade 2 nausea (defined as oral intake decreased without significant weight loss, dehydration or malnutrition). During the first 4 months of treatment in ProLon1, 19 (67.9%) patients had vomiting and 10 (35.7%) patients had nausea. By the end of therapy, 4 (14.3%) patients required anti-emetics or anti-nauseants (see section 4.4). A total of 4 patients discontinued treatment, mostly due to nausea or vomiting.
 
 <div style=\"page-break-after: always\"></div>
-
-Grade 2 vomiting (defined as outpatient intravenous hydration; medical intervention required). Of these patients with treatment related nausea, 23 (95.8%) had Grade 1 nausea (defined as loss of appetite without alteration in eating habits) and 1 (4.2%) patient had Grade 2 nausea (defined as oral intake decreased without significant weight loss, dehydration or malnutrition). During the first 4 months of treatment in ProLon1, 19 (67.9%) patients had vomiting and 10 (35.7%) patients had nausea. By the end of therapy, 4 (14.3%) patients required anti-emetics or anti-nauseants (see section 4.4). A total of 4 patients discontinued treatment, mostly due to nausea or vomiting.
 
 Most patients with treatment related diarrhoea (approximately 94%) experienced mild or moderate diarrhoea; 38 (77.6%) patients reported Grade 1 (defined as an increase of less than 4 stools per day over baseline) and 8 (16.3%) patients reported Grade 2 treatment related diarrhoea (defined as an increase of 4 to 6 stools per day over baseline; limiting instrumental activities of daily living). Three (6.1%) patients reported Grade 3 diarrhoea (defined as an increase of 7 or more stools per day over baseline; hospitalisation indicated; severe increase in ostomy output compared to baseline; limiting self-care activities of daily living). During the first 4 months of treatment in ProLon1, 23 (82.1%) patients had diarrhoea; by the end of therapy, 3 (10.7%) patients had diarrhoea. Twelve (42.9%) patients were treated with loperamide.
 
@@ -431,17 +423,15 @@ There were 28 patients in ProLon1 (26 patients with classic HGPS, 1 patient with
 
 There were 35 patients in ProLon2 (34 patients with classic HGPS and 1 patient with non-classic HGPS). Patients received lonafarnib over 12 to 36 months. Patients were treated with lonafarnib 150 mg/m 2 twice daily. Among the 35 patients treated, all were included in the survival assessment. The median age at treatment initiation was 6.0 years (range: 2 to 17 years). At the start of the study all patients were less than 18 years of age.
 
-Of the 63 patients in ProLon1 and ProLon2, 15 (24%) required some form of dosing adjustment. One (2%) patient discontinued, 11 (17%) patients had their dose interrupted, and 3 (5%) patients reduced
+Of the 63 patients in ProLon1 and ProLon2, 15 (24%) required some form of dosing adjustment. One (2%) patient discontinued, 11 (17%) patients had their dose interrupted, and 3 (5%) patients reduced dose. For 10 patients (10/63, 16%), the action taken was associated with a gastrointestinal disturbance, a known and common side-effect of lonafarnib.
 
 <div style=\"page-break-after: always\"></div>
-
-dose. For 10 patients (10/63, 16%), the action taken was associated with a gastrointestinal disturbance, a known and common side-effect of lonafarnib.
 
 The retrospective 3-year survival analysis was based on the mortality data from 62 HGPS patients (27 treatment-naïve patients in ProLon1 and 35 treatment-naïve patients in ProLon2) treated with lonafarnib monotherapy and data from matched, untreated patients in a separate natural history cohort.
 
 The mean lifespan of HGPS patients treated with lonafarnib increased by an average of 0.44 to 0.47 years (without and with adjustment for age at start of treatment, respectively) through the first 3 years of follow-up. However, due to the uncertainties of the available data this might be as low as 2.4 months.
 
-At last follow-up time ( i.e. , August 1, 2021) the mean lifespan of HGPS patients treated with lonafarnib increased by an average of 4.3 years. Given the limited information in the datasets this can be as low as 2.6 years. The results for the last follow-up time should be interpreted with some caution as patients underwent additional (potentially beneficial) treatments.
+At last follow-up time (i.e., August 1, 2021) the mean lifespan of HGPS patients treated with lonafarnib increased by an average of 4.3 years. Given the limited information in the datasets this can be as low as 2.6 years. The results for the last follow-up time should be interpreted with some caution as patients underwent additional (potentially beneficial) treatments.
 
 The survival analysis summary is provided in Table 4.
 
@@ -466,20 +456,18 @@ This medicinal product has been authorised under 'exceptional circumstances'. Th
 
 Absolute bioavailability has not been assessed. Lonafarnib is absorbed via the oral route. The median time to maximum peak concentration (tmax) was 2 to 4 hours. Following multiple dose administration of lonafarnib (100 mg twice daily for 5 days) in healthy volunteers, the mean maximum peak concentration was 964 ng/mL observed at a median time of 4 hours (2 to 5 hours range).
 
-In healthy volunteers, the exposure following a single oral dose of 75 mg lonafarnib taken as an intact capsule was compared to the exposure following a single oral dose of 75 mg lonafarnib capsule
+In healthy volunteers, the exposure following a single oral dose of 75 mg lonafarnib taken as an intact capsule was compared to the exposure following a single oral dose of 75 mg lonafarnib capsule contents mixed with orange juice, mashed banana, yogurt, and semolina porridge (for instructions on mixing the capsule contents with orange juice, mashed banana, yogurt, and semolina porridge see section 6.6). Following this mixing, the lonafarnib exposure was found to increase or decrease as noted in Table 5.
 
 <div style=\"page-break-after: always\"></div>
 
-contents mixed with orange juice, mashed banana, yogurt, and semolina porridge (for instructions on mixing the capsule contents with orange juice, mashed banana, yogurt, and semolina porridge see section 6.6). Following this mixing, the lonafarnib exposure was found to increase or decrease as noted in Table 5.
-
 Table 5: Effect on lonafarnib exposures when capsule content is mixed with food
 
-| Soft Food         | C max   | AUC   |
-|-------------------|---------|-------|
-| Orange juice      | ↓ 9%    | ↓ 8%  |
-| Mashed banana     | ↓ 11%   | ↓ 7%  |
-| semolina porridge | ↑ 7%    | ↓ 9%  |
-| Yogurt            | ↑ 4%    | ↓ 12% |
+| Soft Food         | Cmax   | AUC   |
+|-------------------|--------|-------|
+| Orange juice      | ↓9%    | ↓8%   |
+| Mashed banana     | ↓11%   | ↓7%   |
+| semolina porridge | ↑7%    | ↓9%   |
+| Yogurt            | ↑4%    | ↓12%  |
 
 ↑ = increase; ↓ = decrease; AUC = area under the concentration curve; Cmax = maximum observed concentration
 
@@ -501,7 +489,7 @@ Lonafarnib is extensively metabolised via hepatic means. Lonafarnib accounted fo
 
 HM21 is a pharmacologically active metabolite. Following oral administration of 100 mg lonafarnib twice daily for 5 days, HM21 has a peak plasma concentration of 94.8 ng/mL occurring after approximately 4 hours (range: 3 to 6), with an AUCTAU of 864 ng·h/mL. Following oral administration of 75 mg lonafarnib twice daily for 5 days, HM21 has a peak plasma concentration of 82.1 ng/mL after approximately 3 hours (range: 3 to 5), with an AUCTAU of 767 ng·h/mL.
 
-In vitro metabolism studies indicate that CYP3A4 and CYP3A5 are mainly responsible for the oxidative metabolism of lonafarnib and that lonafarnib is an in vivo -sensitive CYP3A4 substrate.
+In vitro metabolism studies indicate that CYP3A4 and CYP3A5 are mainly responsible for the oxidative metabolism of lonafarnib and that lonafarnib is an in vivo-sensitive CYP3A4 substrate.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -513,7 +501,7 @@ Based on the in vitro data, lonafarnib is most likely a substrate of P-glycoprot
 
 ## Elimination
 
-A  14 C- absorption, metabolism and excretion trial conducted in healthy volunteers following singledose administration of lonafarnib revealed that drug-derived radioactivity was primarily excreted via the faeces. Mean cumulative excretion of radioactivity was 61% in faeces and less than 1% in urine up to 24 hours post-dose (total recovery was ~62% in the mass balance study).
+A 14 C- absorption, metabolism and excretion trial conducted in healthy volunteers following singledose administration of lonafarnib revealed that drug-derived radioactivity was primarily excreted via the faeces. Mean cumulative excretion of radioactivity was 61% in faeces and less than 1% in urine up to 24 hours post-dose (total recovery was ~62% in the mass balance study).
 
 Lonafarnib exhibits time-dependent pharmacokinetics. Comparing studies in healthy adult volunteers of single-dose 75 mg lonafarnib to 75 mg lonafarnib twice daily for 5 days shows lonafarnib clearance was reduced by 75% (48.2 L/h and 12.1 L/h, respectively) and the t1/2 increased by 60% (3.5 h versus 5.6 h, respectively) following multiple dose lonafarnib for 5 days.
 
@@ -539,11 +527,9 @@ In healthy volunteers, following a single oral dose of 100 mg lonafarnib, the ph
 
 Lonafarnib had no effects on QT or QTc interval in guinea pigs and no electrocardiogram (ECG) changes were observed in monkeys. Lonafarnib produced modest and isolated effects on the QT interval of ECG in rats at estimated exposures similar to that seen in humans.
 
-A no-observed-adverse-effect level (NOAEL) could not be established in studies of up to 1-year duration in monkeys. Systemic toxicity was observed in 3-month and 1-year toxicity studies in rats
+A no-observed-adverse-effect level (NOAEL) could not be established in studies of up to 1-year duration in monkeys. Systemic toxicity was observed in 3-month and 1-year toxicity studies in rats and monkeys following repeated oral administration of lonafarnib at doses ≥30 and ≥10 mg/kg/day, respectively, corresponding to exposures lower than what is seen in patients. Toxicity findings included bone marrow suppression, testicular toxicity and lymphoid toxicity in rats and monkeys; kidney changes in rats (vacuolisation, mineralisation and necrosis of the inner renal medulla); and diarrhoea and electroretinographic changes in monkeys. In a 3-month toxicity study in monkeys, acute morbidity due to haemorrhage in multiple organs was observed in a small number of monkeys administered 60 mg/kg/day, corresponding to exposures similar to that seen in humans (at 150 mg/m 2 twice daily). In toxicity studies in monkeys, ocular findings of single cell necrosis of retinal photoreceptors were observed at ≥40 mg/kg/day. In a 3-month follow up study, changes in electroretinography were noted at ≥15 mg/kg/day, including substantial changes in scotopic amplitudes at 60 mg/kg/day indicating perturbation of rod cells and impairment of night vision. The NOAEL for ocular toxicity for lonafarnib was considered to be 20 mg/kg/day, corresponding to exposures similar to those seen in humans (at 150 mg/m 2 twice daily).
 
 <div style=\"page-break-after: always\"></div>
-
-and monkeys following repeated oral administration of lonafarnib at doses ≥30 and ≥10 mg/kg/day, respectively, corresponding to exposures lower than what is seen in patients. Toxicity findings included bone marrow suppression, testicular toxicity and lymphoid toxicity in rats and monkeys; kidney changes in rats (vacuolisation, mineralisation and necrosis of the inner renal medulla); and diarrhoea and electroretinographic changes in monkeys. In a 3-month toxicity study in monkeys, acute morbidity due to haemorrhage in multiple organs was observed in a small number of monkeys administered 60 mg/kg/day, corresponding to exposures similar to that seen in humans (at 150 mg/m 2 twice daily). In toxicity studies in monkeys, ocular findings of single cell necrosis of retinal photoreceptors were observed at ≥ 40 mg/kg/day. In a 3-month follow up study, changes in electroretinography were noted at ≥15 mg/kg/day, including substantial changes in scotopic amplitudes at 60 mg/kg/day indicating perturbation of rod cells and impairment of night vision. The NOAEL for ocular toxicity for lonafarnib was considered to be 20 mg/kg/day, corresponding to exposures similar to those seen in humans (at 150 mg/m 2 twice daily).
 
 Lonafarnib increased pre- and post-implantation loss and decreased the number of live foetuses in female rats at doses ≥30 mg/kg/day. Decreased maternal body weight and lower foetal body weights were also observed at this dose level. The NOAEL for maternal toxicity and F1 litters was considered 10 mg/kg/day, with an estimated exposure level lower than what is seen in humans at 150 mg/m 2 twice daily.
 
@@ -593,67 +579,67 @@ HDPE bottle, containing desiccant in a cannister and capsules, with induction se
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## Patients unable to swallow capsules whole
+Patients unable to swallow capsules whole
 
-If capsules cannot be swallowed whole, capsules can be opened and the contents of the capsule can be mixed with orange juice, mashed banana, yogurt, or semolina porridge. Capsule contents should not be mixed with applesauce, peanut butter, or oatmeal .
+If capsules cannot be swallowed whole, capsules can be opened and the contents of the capsule can be mixed with orange juice, mashed banana, yogurt, or semolina porridge. Capsule contents should not be mixed with applesauce, peanut butter, or oatmeal.
 
-Step 1 : If mixing with orange juice, using a clean medicine cup, measure either 5 mL or 10 mL of orange juice. You can choose to use 5 mL or 10 mL of orange juice.
+Step 1: If mixing with orange juice, using a clean medicine cup, measure either 5 mL or 10 mL of orange juice. You can choose to use 5 mL or 10 mL of orange juice.
 
 If mixing with soft food, measure either 1 or 2 teaspoonfuls of mashed banana, yogurt, or semolina porridge. You can choose to use 1 or 2 teaspoonfuls of mashed banana, yogurt, or semolina porridge.
 
-Step 2 : Place the orange juice, mashed banana, yogurt, or semolina porridge measured in Step 1 into a clean cup.
+Step 2: Place the orange juice, mashed banana, yogurt, or semolina porridge measured in Step 1 into a clean cup.
 
 <div style=\"page-break-after: always\"></div>
 
-Step 3 : Hold a capsule above the cup containing the orange juice, mashed banana, yogurt, or semolina porridge. Hold the capsule between your thumb and forefinger on both sides. Gently twist and pull apart the capsule.
+Step 3: Hold a capsule above the cup containing the orange juice, mashed banana, yogurt, or semolina porridge. Hold the capsule between your thumb and forefinger on both sides. Gently twist and pull apart the capsule.
 
-Step 4 : Empty the contents of the capsule directly into the cup containing the orange juice, mashed banana, yogurt, or semolina porridge.
+Step 4: Empty the contents of the capsule directly into the cup containing the orange juice, mashed banana, yogurt, or semolina porridge.
 
-Step 5 : Using a clean spoon, mix the capsule contents and orange juice, mashed banana, yogurt, or semolina porridge well. If only 1 capsule is to be taken, skip to Step 7 . If 2 capsules are to be taken proceed to Step 6 .
+Step 5: Using a clean spoon, mix the capsule contents and orange juice, mashed banana, yogurt, or semolina porridge well. If only 1 capsule is to be taken, skip to Step 7. If 2 capsules are to be taken proceed to Step 6.
 
-Step 6 : If 2 capsules will be taken, repeat Steps 1 through 5 for the second capsule. After finishing, go to Steps 7, 8 and 9 .
+Step 6: If 2 capsules will be taken, repeat Steps 1 through 5 for the second capsule. After finishing, go to Steps 7, 8 and 9.
 
-Step 7 : Take all of the mixture with food within about 10 minutes of preparing. Each dose must be mixed and consumed within 10 minutes. The mixture should only be prepared at the time it is to be consumed.
+Step 7: Take all of the mixture with food within about 10 minutes of preparing. Each dose must be mixed and consumed within 10 minutes. The mixture should only be prepared at the time it is to be consumed.
 
-Step 8 : If using orange juice, rinse the medicine cup used to measure the orange juice and fill it with 5 mL of water for each capsule mixed with orange juice. If using soft food, fill a clean medicine cup with 5 mL of water for each capsule mixed with mashed banana, yogurt, or semolina porridge.
+Step 8: If using orange juice, rinse the medicine cup used to measure the orange juice and fill it with 5 mL of water for each capsule mixed with orange juice. If using soft food, fill a clean medicine cup with 5 mL of water for each capsule mixed with mashed banana, yogurt, or semolina porridge.
 
-Step 9 : Pour the water measured in Step 8 into the cup used to mix the Zokinvy and orange juice or soft food. Gently swirl the water around the cup. Consume the water.
+Step 9: Pour the water measured in Step 8 into the cup used to mix the Zokinvy and orange juice or soft food. Gently swirl the water around the cup. Consume the water.
 
 Patients requiring a reduced daily dose of Zokinvy
 
-Step 1 : If mixing with orange juice, using a clean medicine cup, measure 10 mL of orange juice. If mixing with soft food, measure 2 teaspoonfuls of mashed banana, yogurt, or semolina porridge.
+Step 1: If mixing with orange juice, using a clean medicine cup, measure 10 mL of orange juice. If mixing with soft food, measure 2 teaspoonfuls of mashed banana, yogurt, or semolina porridge.
 
-Step 2 : Place the orange juice, mashed banana, yogurt, or semolina porridge measured in Step 1 into a clean cup for mixing.
+Step 2: Place the orange juice, mashed banana, yogurt, or semolina porridge measured in Step 1 into a clean cup for mixing.
 
-Step 3 : Depending on your doctor's direction, hold either a Zokinvy 75 mg or 50 mg capsule above the cup containing the orange juice, mashed banana, yogurt, or semolina porridge. Hold the capsule between your thumb and forefinger on both sides. Gently twist and pull apart the capsule.
+Step 3: Depending on your doctor's direction, hold either a Zokinvy 75 mg or 50 mg capsule above the cup containing the orange juice, mashed banana, yogurt, or semolina porridge. Hold the capsule between your thumb and forefinger on both sides. Gently twist and pull apart the capsule.
 
-Step 4 : Empty the contents of the capsule directly into the cup containing the orange juice, mashed banana, yogurt, or semolina porridge.
+Step 4: Empty the contents of the capsule directly into the cup containing the orange juice, mashed banana, yogurt, or semolina porridge.
 
-Step 5 : Using a clean spoon, mix the capsule contents and orange juice, mashed banana, yogurt, or semolina porridge well.
+Step 5: Using a clean spoon, mix the capsule contents and orange juice, mashed banana, yogurt, or semolina porridge well.
 
-Step 6 : Put half of the mixture from the mixing cup into a clean medicine cup (5 mL of the orange juice mixture or 1 teaspoon of the soft food mixture).
+Step 6: Put half of the mixture from the mixing cup into a clean medicine cup (5 mL of the orange juice mixture or 1 teaspoon of the soft food mixture).
 
-Step 7 : Take the 5-mL or 1 teaspoon mixture with food and within about 10 minutes of preparing. Each dose must be mixed and consumed within 10 minutes. The mixture should only be prepared at the time it is to be consumed.
+Step 7: Take the 5-mL or 1 teaspoon mixture with food and within about 10 minutes of preparing. Each dose must be mixed and consumed within 10 minutes. The mixture should only be prepared at the time it is to be consumed.
 
-Step 8 : Fill the medicine cup used to consume the mixture with 5 mL of water.
+Step 8: Fill the medicine cup used to consume the mixture with 5 mL of water.
 
-Step 9 : Gently swirl the water around the medicine cup. Consume the water.
+Step 9: Gently swirl the water around the medicine cup. Consume the water.
 
 <div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-TMC Pharma (EU) Limited, G24A ArcLabs Research &amp; Innovation Centre, Carriganore, Waterford, X91 P20H Ireland
+Integral Pharma Solutions EU Limited 1 Windmill Lane Dublin 2 D02 F206
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 Zokinvy 50 mg hard capsules
 
-EU/1/22/1660/001
-
 Zokinvy 75 mg hard capsules
 
-EU/1/22/1660/002
+EU/1/22/1660/001 EU/1/22/1660/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -714,9 +700,9 @@ An updated RMP should be submitted:
 
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                   | Due date                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Non-interventional Post authorisation safety study (PASS): in order to further characterise the safety, effectiveness and health-related quality of life of Zokinvy in patients with Hutchinson- Gilford Progeria Syndrome and Processing Deficient Progeroid Laminopathies, theMAH shall submit the results of a prospective observational cohort study based on a registry. | Annual study reports will be submitted with the annual re-assessment |
+| Description                                                                                                                                                                                                                                                                                                                                                                    | Due date                                                             |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Non-interventional Post authorisation safety study (PASS): in order to further characterise the safety, effectiveness and health-related quality of life of Zokinvy in patients with Hutchinson- Gilford Progeria Syndrome and Processing Deficient Progeroid Laminopathies, the MAH shall submit the results of a prospective observational cohort study based on a registry. | Annual study reports will be submitted with the annual re-assessment |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -728,23 +714,7 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 
 - A. LABELLING
 
-Zokinvy 50 mg hard capsules
-
-lonafarnib
-
-Each capsule contains 50 mg lonafarnib.
-
-30 hard capsules
-
-Read the package leaflet before use.
-
-Oral use
-
-Keep out of the sight and reach of children.
-
-Do not swallow the desiccant.
-
-EXP
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -752,71 +722,85 @@ CARTON (ZOKINVY 50 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
+Zokinvy 50 mg hard capsules lonafarnib
+
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each capsule contains 50 mg lonafarnib.
 
 ## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
+30 hard capsules
+
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNINGS THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SITE AND REACH OF CHILDREN
 
+Keep out of the sight and reach of children.
+
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Do not swallow the desiccant.
 
 ## 8. EXPIRY DATE
 
-## 9. SPECIAL STORAGE CONDITIONS
+EXP
 
-<div style=\"page-break-after: always\"></div>
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original package. Keep the bottle tightly closed in order to protect from moisture. This medicinal product does not require any special temperature storage conditions.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10.  SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL
 
-TMC Pharma (EU) Limited,
+PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL
 
-G24A ArcLabs Research &amp; Innovation Centre,
+PRODUCTS, IF APPROPRIATE
 
-Carriganore,
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Waterford,
-
-X91 P20H
+Integral Pharma Solutions EU Limited 1 Windmill Lane Dublin 2 D02 F206
 
 Ireland
 
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
 EU/1/22/1660/001
+
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
 Zokinvy 50 mg
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included
 
-PC
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
-SN
-
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-## 12.  MARKETING AUTHORISATION NUMBER(S)
-
-## 13.  BATCH NUMBER
-
-## 14.  GENERAL CLASSIFICATION FOR SUPPLY
-
-15.  INSTRUCTIONS ON USE
-
-## 16.  INFORMATION IN BRAILLE
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18.  UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -862,11 +846,11 @@ Store in the original package. Keep the bottle tightly closed in order to protec
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -884,14 +868,14 @@ Lot
 | 15. INSTRUCTIONS ON USE   |
 |---------------------------|
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLEDATA   |
-|---------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -937,47 +921,46 @@ Store in the original package. Keep the bottle tightly closed in order to protec
 
 <div style=\"page-break-after: always\"></div>
 
-10.  SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-TMC Pharma (EU) Limited,
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-G24A ArcLabs Research &amp; Innovation Centre,
-
-Carriganore,
-
-Waterford,
-
-X91 P20H
+Integral Pharma Solutions EU Limited 1 Windmill Lane Dublin 2 D02 F206
 
 Ireland
 
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
 EU/1/22/1660/002
+
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
 Zokinvy 75 mg
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included
 
-PC
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
-SN
-
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-## 12.  MARKETING AUTHORISATION NUMBER(S)
-
-## 13.  BATCH NUMBER
-
-14.  GENERAL CLASSIFICATION FOR SUPPLY
-
-15.  INSTRUCTIONS ON USE
-
-16.  INFORMATION IN BRAILLE
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18.  UNIQUE IDENTIFIER - HUMAN READABLE DATA
+PC SN
 
 NN
 
@@ -989,7 +972,9 @@ BOTTLE LABEL (75 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zokinvy 75 mg hard capsules lonafarnib
+Zokinvy 75 mg hard capsules
+
+lonafarnib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1025,11 +1010,11 @@ Store in the original package. Keep the bottle tightly closed in order to protec
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -1044,8 +1029,8 @@ Lot
 | 14. GENERAL CLASSIFICATION FOR SUPPLY   |
 |-----------------------------------------|
 
-| 15. INSTRUCTIONS ON USE   |
-|---------------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16. INFORMATION IN BRAILLE   |
 |------------------------------|
@@ -1053,8 +1038,8 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLEDATA   |
-|---------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 33
 
@@ -1068,7 +1053,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Zokinvy 50 mg hard capsules Zokinvy 75 mg hard capsules lonafarnib
+## Zokinvy 50 mg hard capsules Zokinvy 75 mg hard capsules
+
+lonafarnib
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side-effects you may get. See the end of section 4 for how to report side-effects.
 
@@ -1141,13 +1128,13 @@ Please tell your doctor immediately if you:
 
 ## During treatment with Zokinvy
 
-- -if you faint (loss of consciousness) or have an irregular heartbeat while taking this medicine, tell your doctor immediately as this may be a sign of a serious heart condition. Prolongation of the QT interval or an irregular heartbeat may lead to sudden death.
+- if you faint (loss of consciousness) or have an irregular heartbeat while taking this medicine, tell your doctor immediately as this may be a sign of a serious heart condition. Prolongation of the QT interval or an irregular heartbeat may lead to sudden death.
 
 ## Monitoring during Zokinvy treatment
 
 Regular lab tests, including blood tests, will be performed during treatment. These tests will monitor the electrolytes in the body (potassium, magnesium). These are important in the functioning of the heart.
 
-The heart rate will also be checked using a machine that measures electrical activity of the heart (a test called an 'ECG').
+The heart rate will also be checked using a machine that measures electrical activity of the heart (a test called an \"ECG\").
 
 ## Children
 
@@ -1218,7 +1205,7 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 ## If you cannot swallow a Zokinvy capsule whole
 
-- If you cannot swallow a Zokinvy capsule whole, use the following directions for mixing the capsule content with orange juice, mashed banana, yogurt, or semolina porridge. Capsule contents should not be mixed with applesauce, peanut butter, or oatmeal .
+- If you cannot swallow a Zokinvy capsule whole, use the following directions for mixing the capsule content with orange juice, mashed banana, yogurt, or semolina porridge. Capsule contents should not be mixed with applesauce, peanut butter, or oatmeal.
 
 What you need to mix Zokinvy with orange juice, mashed banana, yogurt, or semolina porridge
 
@@ -1266,13 +1253,13 @@ Place the orange juice, mashed banana, yogurt, or semolina porridge measured in 
 
 <!-- image -->
 
-| • Gently twist and pull apart the capsule.                                                                                                                                                                                                                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 4: Empty all the contents of the capsule into the cup containing the orange juice, mashed banana, yogurt, or semolina porridge.                                                                                                                         |
-| Step 5: • Using a clean spoon, mix the capsule contents and orange juice, mashed banana, yogurt, or semolina porridge well. • If only 1 capsule is to be taken, skip to Step 7 . • If 2 capsules are to be taken, proceed to Step 6 .                        |
-| Step 6: • If 2 capsules will be taken, repeat Steps 1 through 5 for the second capsule. • Once the second capsule is mixed - the 2 servings can either be combined in a single cup or remain in 2 serving cups. • After you finish, go to Steps 7, 8 and 9 . |
-| Step 7: Take all of the Zokinvy mixture: • with food. • within about 10 minutes of preparing. Each dose must be mixed and consumed within 10 minutes. The mixture should only be prepared at the time it is to be consumed.                                  |
-| Step 8: If using orange juice, rinse the medicine cup used to measure the orange juice and fill it with 5 mL of water for each capsule mixed with orange juice.                                                                                              |
+| • Gently twist and pull apart the capsule.                                                                                                                                                                                                                  |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 4: Empty all the contents of the capsule into the cup containing the orange juice, mashed banana, yogurt, or semolina porridge.                                                                                                                        |
+| Step 5: • Using a clean spoon, mix the capsule contents and orange juice, mashed banana, yogurt, or semolina porridge well. • If only 1 capsule is to be taken, skip to Step 7. • If 2 capsules are to be taken, proceed to Step 6.                         |
+| Step 6: • If 2 capsules will be taken, repeat Steps 1 through 5 for the second capsule. • Once the second capsule is mixed - the 2 servings can either be combined in a single cup or remain in 2 serving cups. • After you finish, go to Steps 7, 8 and 9. |
+| Step 7: Take all of the Zokinvy mixture: • with food. • within about 10 minutes of preparing. Each dose must be mixed and consumed within 10 minutes. The mixture should only be prepared at the time it is to be consumed.                                 |
+| Step 8: If using orange juice, rinse the medicine cup used to measure the orange juice and fill it with 5 mL of water for each capsule mixed with orange juice.                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1304,6 +1291,8 @@ Place the orange juice, mashed banana, yogurt, or semolina porridge measured in 
 - Depending on your doctor's direction, hold either a Zokinvy 75 mg or 50 mg capsule above the cup containing the orange juice, mashed banana, yogurt, or semolina porridge.
 - Hold the capsule between your thumb and forefinger on both sides.
 - Gently twist and pull apart the capsule.
+
+M
 
 <!-- image -->
 
@@ -1338,9 +1327,11 @@ Each dose must be mixed and consumed within 10 minutes. The mixture should only 
 
 <!-- image -->
 
+2
+
 <!-- image -->
 
-## TAKEWITHIN
+## TAKE WITHIN
 
 <!-- image -->
 
@@ -1442,7 +1433,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and on the bottle after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and on the bottle after \"EXP\". The expiry date refers to the last day of that month.
 
 Store in the original package. Keep the bottle tightly closed in order to protect from moisture. This medicinal product does not require any special temperature storage conditions.
 
@@ -1452,13 +1443,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Zokinvy contains
 
-- -The active substance is lonafarnib
+- The active substance is lonafarnib
 
-Zokinvy 50 mg hard capsules: each capsule contains 50 mg lonafarnib. Zokinvy 75 mg hard capsules: each capsule contains 75 mg lonafarnib.
+Zokinvy 50 mg hard capsules: each capsule contains 50 mg lonafarnib.
 
-- -The other ingredients are:
+Zokinvy 75 mg hard capsules: each capsule contains 75 mg lonafarnib.
 
-Capsule contents: croscarmellose sodium (see section 2 'Zokinvy contains sodium'), magnesium stearate, poloxamer, povidone and silica, colloidal anhydrous Capsule shell:
+- The other ingredients are:
+
+Capsule contents: croscarmellose sodium (see section 2 \"Zokinvy contains sodium\"), magnesium stearate, poloxamer, povidone and silica, colloidal anhydrous
+
+Capsule shell:
 
 Zokinvy 50 mg hard capsules: gelatin, titanium dioxide, yellow iron oxide and sunflower lecithin Zokinvy 75 mg hard capsules: gelatin, titanium dioxide, yellow iron oxide, red iron oxide and sunflower lecithin
 
@@ -1466,23 +1461,27 @@ Printing ink: shellac, iron oxide black
 
 ## What Zokinvy looks like and contents of the pack
 
-Zokinvy 50 mg hard capsules are opaque yellow hard capsules, marked with 'LNF' and '50' in black ink.
+Zokinvy 50 mg hard capsules are opaque yellow hard capsules, marked with \"LNF\" and \"50\" in black ink.
 
-Zokinvy 75 mg hard capsules are opaque light orange hard capsules, marked with 'LNF' and '75' in black ink.
+Zokinvy 75 mg hard capsules are opaque light orange hard capsules, marked with \"LNF\" and \"75\" in black ink.
 
 The bottle pack contains 30 hard capsules and a desiccant. The desiccant is in a cannister and that cannister is included in the bottle, containing the capsules.
 
 ## Marketing Authorisation Holder
 
-TMC Pharma (EU) Limited, G24A ArcLabs Research &amp; Innovation Centre, Carriganore, Waterford, X91 P20H Ireland
+Integral Pharma Solutions EU Limited 1 Windmill Lane Dublin 2 D02 F206
 
-Manufacturer ABF Pharmaceutical Services GmbH
+Ireland
 
-Brunner Straße 63/18-19 A-1230 Vienna Austria
+## Manufacturer
 
-Sciensus International B.V. Bijsterhuizen 3142
+ABF Pharmaceutical Services GmbH Brunner Straße 63/18-19 A-1230 Vienna Austria
+
+Sciensus International B.V.
 
 <div style=\"page-break-after: always\"></div>
+
+Bijsterhuizen 3142 6604 LV, Wijchen Netherlands
 
 ## This leaflet was last revised in MONTH YEAR
 

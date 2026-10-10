@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-05-27 15:19:18
-document_pages: 102
+document_datetime: 2026-10-07 11:48:35
+document_pages: 104
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/calquence-epar-product-information_en.pdf
 document_name: calquence-epar-product-information_en.pdf
 version: success
-processing_time: 100.6549363
-conversion_datetime: 2026-05-29 20:32:53.30432
+processing_time: 133.700297
+conversion_datetime: 2026-10-10 12:11:44.854347
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.96.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -36,7 +34,7 @@ For the full list of excipients, see section 6.1.
 
 Hard capsule (capsule).
 
-Yellow body, blue cap, size 1 (20 mm) hard capsule, marked with 'ACA 100 mg' in black ink.
+Yellow body, blue cap, size 1 (20 mm) hard capsule, marked with \"ACA 100 mg\" in black ink.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -102,7 +100,7 @@ Table 1. Recommended dose adjustments for adverse reactions*
 
 *Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 5.0.
 
-Table 2. Recommended dose adjustments for Grade ≥ 3 adverse reactions *  in patients receiving Calquence in combination with bendamustine and rituximab
+Table 2. Recommended dose adjustments for Grade ≥ 3 adverse reactions * in patients receiving Calquence in combination with bendamustine and rituximab
 
 | Adverse reaction   | Bendamustine dose modification †                                                                                                                                                                                                         | Calquence dose modification                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -213,7 +211,7 @@ Consider prophylaxis according to standard of care in patients who are at increa
 
 ## Cytopenias
 
-Treatment-emergent Grade 3 or 4 cytopenias, including neutropenia, anaemia and thrombocytopenia, occurred in patients with haematologic malignancies treated with Calquence monotherapy and in combination with other medicinal products. Monitor complete blood counts as medically indicated (see section 4.8) .
+Treatment-emergent Grade 3 or 4 cytopenias, including neutropenia, anaemia and thrombocytopenia, occurred in patients with haematologic malignancies treated with Calquence monotherapy and in combination with other medicinal products. Monitor complete blood counts as medically indicated (see section 4.8).
 
 ## Second primary malignancies
 
@@ -247,17 +245,17 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that i
 
 Acalabrutinib and its active metabolite are primarily metabolised by cytochrome P450 enzyme 3A4 (CYP3A4), and both substances are substrates for P-gp and breast cancer resistance protein (BCRP).
 
-## Active substances that may increase acalabrutinib plasma concentrations
+Active substances that may increase acalabrutinib plasma concentrations
 
 ## CYP3A/P-gp inhibitors
 
 Co-administration with a strong CYP3A/P-gp inhibitor (200 mg itraconazole once daily for 5 days) increased acalabrutinib Cmax and AUC by 3.9-fold and 5.0-fold in healthy subjects (N=17), respectively.
 
-Concomitant use with strong CYP3A/P-gp inhibitors should be avoided. If the strong CYP3A/ P-gp inhibitors (e.g., ketoconazole, conivaptan, clarithromycin, indinavir, itraconazole, ritonavir, telaprevir, posaconazole, voriconazole) will be used short-term, treatment with Calquence should be interrupted (see section 4.2).
+Concomitant use with strong CYP3A/P-gp inhibitors should be avoided. If the strong CYP3A/P-gp inhibitors (e.g., ketoconazole, conivaptan, clarithromycin, indinavir, itraconazole, ritonavir, telaprevir, posaconazole, voriconazole) will be used short-term, treatment with Calquence should be interrupted (see section 4.2).
 
 Co-administration with moderate CYP3A inhibitors (400 mg fluconazole as single dose or 200 mg isavuconazole as repeated dose for 5 days) in healthy subjects increased acalabrutinib Cmax and AUC by 1.4-fold to 2-fold while the active metabolite ACP-5862 Cmax and AUC was decreased by 0.65-fold to 0.88-fold relative to when acalabrutinib was dosed alone. No dose adjustment is required in combination with moderate CYP3A inhibitors. Monitor patients closely for adverse reactions (see Section 4.2).
 
-## Active substances that may decrease acalabrutinib plasma concentrations
+Active substances that may decrease acalabrutinib plasma concentrations
 
 ## CYP3A inducers
 
@@ -325,7 +323,7 @@ Of the 1 478 patients treated with Calquence monotherapy, the most common (≥ 2
 
 ## Calquence in combination with obinutuzumab
 
-Of the 223 patients treated with Calquence in combination with obinutuzumab, the most common (≥ 20%) ADRs of any grade were infection, musculoskeletal pain, diarrhoea, headache, leukopenia, neutropenia, cough,  fatigue,  arthralgia,  nausea,  dizziness,  and  constipation.  The  most  commonly  reported  (≥ 5%) Grade ≥ 3 adverse drug reactions were leukopenia, neutropenia, infection, thrombocytopenia and anaemia.
+Of the 223 patients treated with Calquence in combination with obinutuzumab, the most common (≥ 20%) ADRs of any grade were infection, musculoskeletal pain, diarrhoea, headache, leukopenia, neutropenia, cough, fatigue, arthralgia, nausea, dizziness, and constipation. The most commonly reported (≥ 5%) Grade ≥ 3 adverse drug reactions were leukopenia, neutropenia, infection, thrombocytopenia and anaemia.
 
 ## Calquence in combination with venetoclax
 
@@ -363,127 +361,122 @@ Table 4. Adverse drug reactions* of patients with haematological malignancies tr
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA SOC                                         | MedDRA Term                                                                                  | All Grades (%)                                                      | Grade ≥ 3 * (%)   |
-|----------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------|
-| Neoplasms benign, malignant and unspecified Second | Primary Malignancy (SPM) † Non-melanoma skin malignancy † SPM excluding non-melanoma skin †  | Very common (17.6) Common (9.9) Common (9.7)                        | 6.7 1.4 5.5       |
-| Blood and                                          | Neutropenia †                                                                                | Very common (19.4)                                                  | 17.5              |
-| lymphatic system disorders                         | Anaemia †                                                                                    | Very common (17.1)                                                  | 9.5               |
-| lymphatic system disorders                         | Thrombocytopenia †                                                                           | Very common (11.5)                                                  | 6.2               |
-| lymphatic system disorders                         | Lymphocytosis                                                                                | Uncommon (0.5)                                                      | 0.3               |
-| Metabolism and nutrition disorders                 | Tumour Lysis Syndrome                                                                        | Uncommon (0.5)                                                      | 0.4               |
-| Nervous system disorders                           | Headache                                                                                     | Very common (36.5)                                                  | 1.2               |
-| Nervous system disorders                           | Dizziness                                                                                    | Very common (13.9)                                                  | 0.1               |
-| Cardiac disorders                                  | Atrial fibrillation/Flutter †                                                                | Common (7.4)                                                        | 2.3               |
-| Vascular                                           | Bruising † Contusion Petechiae Ecchymoses                                                    | Very common (30.9) Very common (20.7) Common (8.9) Common (5.7)     | 0 0 0 0           |
-| disorders                                          | Haemorrhage/haematoma † Gastrointestinal haemorrhage Intracranial haemorrhage Hypertension † | Very common (16.3) Uncommon (0.9) Uncommon (0.1) Very common (11.9) | 3.2 0.7 0.1 4.9   |
-|                                                    | Epistaxis                                                                                    | Common (8.0)                                                        | 0.3               |
-| Gastrointestinal disorders                         | Diarrhoea                                                                                    | Very common (36.7)                                                  | 2.6               |
-|                                                    | Nausea                                                                                       | Very common (21.8)                                                  | 0.8               |
-|                                                    | Constipation                                                                                 | Very common (15.2)                                                  | 0.1               |
-|                                                    | Abdominal pain †                                                                             | Very common (14.5)                                                  | 1.2               |
-|                                                    | Vomiting                                                                                     | Very common (14.0)                                                  | 0.7               |
-| Skin and subcutaneous tissue disorders             | Rash †                                                                                       | Very common (20.3)                                                  | 0.9               |
-| Musculoskeletal and connective                     | Musculoskeletal Pain †                                                                       | Very common (31.9)                                                  | 1.8               |
-| tissue disorders                                   | Arthralgia                                                                                   | Very common (24.0)                                                  | 0.9               |
-| General disorders and administration               | Fatigue                                                                                      | Very common (23.6)                                                  | 2.0               |
-| site conditions                                    | Asthenia                                                                                     | Common (7.0)                                                        | 0.9               |
+| MedDRA SOC                                                                                                                                     | MedDRA Term                                                                                                                                    | All Grades (%)                                                      | Grade ≥ 3 * (%)   |
+|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------|
+| Neoplasms benign, malignant and unspecified Second Primary Malignancy (SPM) † Non-melanoma skin malignancy † SPM excluding non-melanoma skin † | Neoplasms benign, malignant and unspecified Second Primary Malignancy (SPM) † Non-melanoma skin malignancy † SPM excluding non-melanoma skin † | Very common (17.6) Common (9.9) Common (9.7)                        | 6.7 1.4 5.5       |
+| Blood and lymphatic system disorders                                                                                                           | Neutropenia †                                                                                                                                  | Very common (19.4)                                                  | 17.5              |
+| Blood and lymphatic system disorders                                                                                                           | Anaemia †                                                                                                                                      | Very common (17.1)                                                  | 9.5               |
+| Blood and lymphatic system disorders                                                                                                           | Thrombocytopenia †                                                                                                                             | Very common (11.5)                                                  | 6.2               |
+| Blood and lymphatic system disorders                                                                                                           | Lymphocytosis                                                                                                                                  | Uncommon (0.5)                                                      | 0.3               |
+| Metabolism and nutrition disorders                                                                                                             | Tumour Lysis Syndrome                                                                                                                          | Uncommon (0.5)                                                      | 0.4               |
+| Nervous system disorders                                                                                                                       | Headache                                                                                                                                       | Very common (36.5)                                                  | 1.2               |
+| Nervous system disorders                                                                                                                       | Dizziness                                                                                                                                      | Very common (13.9)                                                  | 0.1               |
+| Cardiac disorders                                                                                                                              | Atrial fibrillation/Flutter †                                                                                                                  | Common (7.4)                                                        | 2.3               |
+| Vascular disorders                                                                                                                             | Bruising † Contusion Petechiae Ecchymoses                                                                                                      | Very common (30.9) Very common (20.7) Common (8.9) Common (5.7)     | 0 0 0 0           |
+| Vascular disorders                                                                                                                             | Haemorrhage/haematoma † Gastrointestinal haemorrhage Intracranial haemorrhage Hypertension †                                                   | Very common (16.3) Uncommon (0.9) Uncommon (0.1) Very common (11.9) | 3.2 0.7 0.1 4.9   |
+| Gastrointestinal disorders                                                                                                                     | Epistaxis Diarrhoea                                                                                                                            | Common (8.0) Very common (36.7)                                     | 0.3 2.6           |
+|                                                                                                                                                | Nausea                                                                                                                                         | Very common (21.8)                                                  | 0.8               |
+|                                                                                                                                                | Constipation                                                                                                                                   | Very common (15.2)                                                  | 0.1               |
+|                                                                                                                                                | Abdominal pain †                                                                                                                               | Very common (14.5)                                                  | 1.2               |
+| Skin and                                                                                                                                       |                                                                                                                                                |                                                                     |                   |
+| subcutaneous tissue disorders                                                                                                                  | Vomiting Rash †                                                                                                                                | Very common (14.0) Very common (20.3)                               | 0.7 0.9           |
+| Musculoskeletal and connective                                                                                                                 | Musculoskeletal Pain †                                                                                                                         | Very common (31.9)                                                  | 1.8               |
+| tissue disorders                                                                                                                               | Arthralgia                                                                                                                                     | Very common (24.0)                                                  | 0.9               |
+| General disorders and administration                                                                                                           | Fatigue                                                                                                                                        | Very common (23.6)                                                  | 2.0               |
+| site conditions                                                                                                                                | Oedema peripheral †                                                                                                                            | Very common (18.3)                                                  | 0.5               |
 
 <div style=\"page-break-after: always\"></div>
 
 | MedDRA SOC                                        | MedDRA Term                           | All Grades (%)     |   Grade ≥ 3 * (%) |
 |---------------------------------------------------|---------------------------------------|--------------------|-------------------|
+|                                                   | Asthenia                              | Common (7.0)       |               0.9 |
 | Investigations § (Findings based on test results) | Haemoglobin decreased ±               | Very common (47.4) |              10.8 |
 | Investigations § (Findings based on test results) | Absolute neutrophil count decreased ± | Very common (43.9) |              24.0 |
 | Investigations § (Findings based on test results) | Platelets decreased ±                 | Very common (36.9) |               9.5 |
 
 Table 5. Adverse drug reactions* of patients with haematological malignancies treated with acalabrutinib combination therapy (N=1 095)
 
-|                                            | Calquence + Obinutuzumab N=223   | Calquence + Obinutuzumab N=223   | Calquence + BR N=297        | Calquence + BR N=297        | Calquence + venetoclax N=291   | Calquence + venetoclax N=291   | Calquence + venetoclax + obinutuzumab N=284   | Calquence + venetoclax + obinutuzumab N=284   |
-|--------------------------------------------|----------------------------------|----------------------------------|-----------------------------|-----------------------------|--------------------------------|--------------------------------|-----------------------------------------------|-----------------------------------------------|
-| MedDRA SOC and MedDRA Term                 | All Grades (%)                   | Grade ≥ 3* (%)                   | All Grades (%)              | Grade ≥ 3* (%)              | All Grades (%)                 | Grade ≥ 3* (%)                 | All Grades (%)                                | Grade ≥ 3* (%)                                |
-| Infections and infestations                | Infections and infestations      | Infections and infestations      | Infections and infestations | Infections and infestations | Infections and infestations    | Infections and infestations    | Infections and infestations                   | Infections and infestations                   |
-| Upper respiratory tract infection          | Very common (31.4)               | 1.8                              | Very common (18.2)          | 0.3                         | Common (8.2)                   | 0.3                            | Common (6.3)                                  | 0                                             |
-| Sinusitis                                  | Very common (15.2)               | 0.4                              | Common (6.4)                | 0                           | Common (2.7)                   | 0                              | Common (2.5)                                  | 0                                             |
-| Nasopharyngitis                            | Very common (13.5)               | 0.4                              | Common (5.4)                | 0                           | Common (1.4)                   | 0                              | Common (1.1)                                  | 0                                             |
-| Urinary tract infection                    | Very common (13)                 | 0.9                              | Very common (11.1)          | 1.7                         | Common (3.1)                   | 0                              | Common (6.0)                                  | 0.4                                           |
-| Pneumonia                                  | Very common (10.8)               | 5.4                              | Very common (16.2)          | 8.8                         | Common (3.8)                   | 1.4                            | Common (5.3)                                  | 3.9                                           |
-| Bronchitis                                 | Common (9.9)                     | 0                                | Common (6.4)                | 0.3                         | Common (2.1)                   | 0                              | Common (2.5)                                  | 0                                             |
-| Herpes viral infections †                  | Common (6.7)                     | 1.3                              | Very common (12.8)          | 1.0                         | Common (4.8)                   | 0                              | Common (3.5)                                  | 0.4                                           |
-| Progressive multifocal leukoencephalopathy | Uncommon (0.4)                   | 0.4                              | Not known                   | 0                           | Not known                      | 0                              | Not known                                     | 0                                             |
+| MedDRA SOC and MedDRA Term        | Calquence + Obinutuzumab N=223 - All Grades (%)   | Calquence + Obinutuzumab N=223 - Grade ≥ 3* (%)   | Calquence + BR N=297 - All Grades (%)   | Calquence + BR N=297 - Grade ≥ 3* (%)   | Calquence + venetoclax N=291 - All Grades (%)   | Calquence + venetoclax N=291 - Grade ≥ 3* (%)   | Calquence + venetoclax + obinutuzumab N=284 - All Grades (%)   | Calquence + venetoclax + obinutuzumab N=284 - Grade ≥ 3* (%)   |
+|-----------------------------------|---------------------------------------------------|---------------------------------------------------|-----------------------------------------|-----------------------------------------|-------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| Infections and infestations       | Infections and infestations                       | Infections and infestations                       | Infections and infestations             | Infections and infestations             | Infections and infestations                     | Infections and infestations                     | Infections and infestations                                    | Infections and infestations                                    |
+| Upper respiratory tract infection | Very common (31.4)                                | 1.8                                               | Very common (18.2)                      | 0.3                                     | Common (8.2)                                    | 0.3                                             | Common (6.3)                                                   | 0                                                              |
+| Sinusitis                         | Very common (15.2)                                | 0.4                                               | Common (6.4)                            | 0                                       | Common (2.7)                                    | 0                                               | Common (2.5)                                                   | 0                                                              |
+| Nasopharyngitis                   | Very common (13.5)                                | 0.4                                               | Common (5.4)                            | 0                                       | Common (1.4)                                    | 0                                               | Common (1.1)                                                   | 0                                                              |
+| Urinary tract infection           | Very common (13)                                  | 0.9                                               | Very common (11.1)                      | 1.7                                     | Common (3.1)                                    | 0                                               | Common (6.0)                                                   | 0.4                                                            |
+| Pneumonia                         | Very common (10.8)                                | 5.4                                               | Very common (16.2)                      | 8.8                                     | Common (3.8)                                    | 1.4                                             | Common (5.3)                                                   | 3.9                                                            |
+| Bronchitis                        | Common (9.9)                                      | 0                                                 | Common (6.4)                            | 0.3                                     | Common (2.1)                                    | 0                                               | Common (2.5)                                                   | 0                                                              |
+| Herpes viral infections †         | Common (6.7)                                      | 1.3                                               | Very common (12.8)                      | 1.0                                     | Common (4.8)                                    | 0                                               | Common (3.5)                                                   | 0.4                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                             | Calquence + Obinutuzumab N=223              | Calquence + Obinutuzumab N=223              | Calquence + BR N=297                        | Calquence + BR N=297                        | Calquence + venetoclax N=291                | Calquence + venetoclax N=291                | Calquence + venetoclax + obinutuzumab N=284   | Calquence + venetoclax + obinutuzumab N=284   |
-|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| MedDRA SOC and MedDRA Term                  | All Grades (%)                              | Grade ≥ 3* (%)                              | All Grades (%)                              | Grade ≥ 3* (%)                              | All Grades (%)                              | Grade ≥ 3* (%)                              | All Grades (%)                                | Grade ≥ 3* (%)                                |
-| Hepatitis B reactivation                    | Uncommon (0.9)                              | 0.1                                         | Common (1.3)                                | 0.3                                         | Not known                                   | 0                                           | Not known                                     | 0                                             |
-| Aspergillus infections †                    | Not known                                   | 0                                           | Uncommon (0.3)                              | 0.3                                         | Not known                                   | 0                                           | Uncommon (0.4)                                | 0.4                                           |
-| Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified   | Neoplasms benign, malignant and unspecified   |
-| Second primary malignancy † (SPM)           | Very common (13)                            | 4.0                                         | Very common (17.8)                          | 7.4                                         | Common (5.2)                                | 1.7                                         | Common (4.2)                                  | 1.8                                           |
-| Non-melanoma skin malignancy †              | Common (7.6)                                | 0.4                                         | Very common (11.1)                          | 2.0                                         | Common (3.1)                                | 0                                           | Common (1.8)                                  | 0.4                                           |
-| SPM excluding non-melanoma skin †           | Common (6.3)                                | 3.6                                         | Common (9.8)                                | 5.4                                         | Common (2.7)                                | 1.7                                         | Common (2.5)                                  | 1.4                                           |
-| Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders          | Blood and lymphatic system disorders          |
-| Neutropenia †                               | Very common (31.8)                          | 30                                          | Very common (54.9)                          | 50.2                                        | Very Common (37.1)                          | 32.3                                        | Very Common (50.4)                            | 46.1                                          |
-| Thrombocytopenia †                          | Very common (13.9)                          | 9                                           | Very common (22.9)                          | 9.8                                         | Common (5.8)                                | 2.1                                         | Very Common (12.3)                            | 9.2                                           |
-| Anaemia †                                   | Very common (11.7)                          | 5.8                                         | Very common (24.2)                          | 9.4                                         | Common (6.9)                                | 3.8                                         | Common (4.6)                                  | 2.1                                           |
-| Lymphocytosis                               | Uncommon (0.4)                              | 0.4                                         | Uncommon (0.7)                              | 0                                           | Not known                                   | 0                                           | Uncommon (0.7)                                | 0.4                                           |
-| Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders            | Metabolism and nutrition disorders            |
-| Tumour lysis syndrome                       | Common (1.8)                                | 1.3                                         | Common (1.3)                                | 1.3                                         | Uncommon (0.3)                              | 0.3                                         | Uncommon (0.4)                                | 0.4                                           |
-| Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                      | Nervous system disorders                      |
-| Headache                                    | Very common (43)                            | 0.9                                         | Very common (30.3)                          | 1.3                                         | Very Common (35.1)                          | 1.4                                         | Very Common (28.2)                            | 0.4                                           |
-| Dizziness                                   | Very common (23.8)                          | 0                                           | Very common (14.5)                          | 0.7                                         | Common (5.5)                                | 0                                           | Common (6.7)                                  | 0                                             |
-| Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                             | Cardiac disorders                             |
+| MedDRA SOC and MedDRA Term                  | Calquence + Obinutuzumab N=223 - All Grades (%)   | Calquence + Obinutuzumab N=223 - Grade ≥ 3* (%)   | Calquence + BR N=297 - All Grades (%)       | Calquence + BR N=297 - Grade ≥ 3* (%)       | Calquence + venetoclax N=291 - All Grades (%)   | Calquence + venetoclax N=291 - Grade ≥ 3* (%)   | Calquence + venetoclax + obinutuzumab N=284 - All Grades (%)   | Calquence + venetoclax + obinutuzumab N=284 - Grade ≥ 3* (%)   |
+|---------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------|---------------------------------------------|-------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| Progressive multifocal leukoencephalopathy  | Uncommon (0.4)                                    | 0.4                                               | Not known                                   | 0                                           | Not known                                       | 0                                               | Not known                                                      | 0                                                              |
+| Hepatitis B reactivation                    | Uncommon (0.9)                                    | 0.1                                               | Common (1.3)                                | 0.3                                         | Not known                                       | 0                                               | Not known                                                      | 0                                                              |
+| Aspergillus infections †                    | Not known                                         | 0                                                 | Uncommon (0.3)                              | 0.3                                         | Not known                                       | 0                                               | Uncommon (0.4)                                                 | 0.4                                                            |
+| Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified       | Neoplasms benign, malignant and unspecified       | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified     | Neoplasms benign, malignant and unspecified     | Neoplasms benign, malignant and unspecified                    | Neoplasms benign, malignant and unspecified                    |
+| Second primary malignancy † (SPM)           | Very common (13)                                  | 4.0                                               | Very common (17.8)                          | 7.4                                         | Common (5.2)                                    | 1.7                                             | Common (4.2)                                                   | 1.8                                                            |
+| Non-melanoma skin malignancy †              | Common (7.6)                                      | 0.4                                               | Very common (11.1)                          | 2.0                                         | Common (3.1)                                    | 0                                               | Common (1.8)                                                   | 0.4                                                            |
+| SPM excluding non-melanoma skin †           | Common (6.3)                                      | 3.6                                               | Common (9.8)                                | 5.4                                         | Common (2.7)                                    | 1.7                                             | Common (2.5)                                                   | 1.4                                                            |
+| Blood and lymphatic system disorders        | Blood and lymphatic system disorders              | Blood and lymphatic system disorders              | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders            | Blood and lymphatic system disorders            | Blood and lymphatic system disorders                           | Blood and lymphatic system disorders                           |
+| Neutropenia †                               | Very common (31.8)                                | 30                                                | Very common (54.9)                          | 50.2                                        | Very Common (37.1)                              | 32.3                                            | Very Common (50.4)                                             | 46.1                                                           |
+| Thrombocytopenia †                          | Very common (13.9)                                | 9                                                 | Very common (22.9)                          | 9.8                                         | Common (5.8)                                    | 2.1                                             | Very Common (12.3)                                             | 9.2                                                            |
+| Anaemia †                                   | Very common (11.7)                                | 5.8                                               | Very common (24.2)                          | 9.4                                         | Common (6.9)                                    | 3.8                                             | Common (4.6)                                                   | 2.1                                                            |
+| Lymphocytosis                               | Uncommon (0.4)                                    | 0.4                                               | Uncommon (0.7)                              | 0                                           | Not known                                       | 0                                               | Uncommon (0.7)                                                 | 0.4                                                            |
+| Metabolism and nutrition disorders          | Metabolism and nutrition disorders                | Metabolism and nutrition disorders                | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders              | Metabolism and nutrition disorders              | Metabolism and nutrition disorders                             | Metabolism and nutrition disorders                             |
+| Tumour lysis syndrome                       | Common (1.8)                                      | 1.3                                               | Common (1.3)                                | 1.3                                         | Uncommon (0.3)                                  | 0.3                                             | Uncommon (0.4)                                                 | 0.4                                                            |
+| Nervous system disorders                    | Nervous system disorders                          | Nervous system disorders                          | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                        | Nervous system disorders                        | Nervous system disorders                                       | Nervous system disorders                                       |
+| Headache                                    | Very common (43)                                  | 0.9                                               | Very common (30.3)                          | 1.3                                         | Very Common (35.1)                              | 1.4                                             | Very Common (28.2)                                             | 0.4                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | Calquence + Obinutuzumab N=223                  | Calquence + Obinutuzumab N=223                  | Calquence + BR N=297                            | Calquence + BR N=297                            | Calquence + venetoclax N=291                    | Calquence + venetoclax N=291                    | Calquence + venetoclax + obinutuzumab N=284     | Calquence + venetoclax + obinutuzumab N=284     |
-|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| MedDRA SOC and MedDRA Term                      | All Grades (%)                                  | Grade ≥ 3* (%)                                  | All Grades (%)                                  | Grade ≥ 3* (%)                                  | All Grades (%)                                  | Grade ≥ 3* (%)                                  | All Grades (%)                                  | Grade ≥ 3* (%)                                  |
-| Atrial fibrillation/flutter †                   | Common (3.1)                                    | 0.9                                             | Common (6.7)                                    | 4.0                                             | Uncommon (0.7)                                  | 0.3                                             | Common (2.1)                                    | 0.7                                             |
-| Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              |
-| Bruising †                                      | Very common (38.6)                              | 0                                               | Very common (14.1)                              | 0.3                                             | Very common (20.6)                              | 0                                               | Very common (21.8)                              | 0                                               |
-| Contusion                                       | Very common (27.4)                              | 0                                               | Very common (11.1)                              | 0                                               | Very common (14.1)                              | 0                                               | Very common (16.2)                              | 0                                               |
-| Petechiae                                       | Very common (11.2)                              | 0                                               | Common (2.0)                                    | 0                                               | Common (4.8)                                    | 0                                               | Common (5.3)                                    | 0                                               |
-| Ecchymoses                                      | Common (3.1)                                    | 0                                               | Common (3.0)                                    | 0.3                                             | Common (2.7)                                    | 0                                               | Common (3.9)                                    | 0                                               |
-| Haemorrhage/haemat oma †                        | Very common (17.5)                              | 1.3                                             | Very common (15.5)                              | 1.0                                             | Common (8.9)                                    | 0.7                                             | Common (8.5)                                    | 1.1                                             |
-| Gastrointestinal haemorrhage                    | Common (3.6)                                    | 0.9                                             | Uncommo n (0.3)                                 | 0                                               | Uncommo n (0.7)                                 | 0.3                                             | Not known                                       | 0                                               |
-| Intracranial haemorrhage                        | Uncommo n (0.9)                                 | 0                                               | Not known                                       | 0                                               | Not known                                       | 0                                               | Not known                                       | 0                                               |
-| Hypertension †                                  | Very common (13.5)                              | 3.6                                             | Very common (12.5)                              | 5.7                                             | Common (4.1)                                    | 2.7                                             | Common (3.9)                                    | 2.1                                             |
-| Epistaxis                                       | Common (8.5)                                    | 0                                               | Common (2.7)                                    | 0                                               | Common (1.7)                                    | 0                                               | Common (4.2)                                    | 0                                               |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |
-| Pneumonitis ±                                   | -                                               | -                                               | Common (2.4)                                    | 0.3                                             | -                                               | -                                               | -                                               | -                                               |
+| MedDRA SOC and MedDRA Term                      | Calquence + Obinutuzumab N=223 - All Grades (%)   | Calquence + Obinutuzumab N=223 - Grade ≥ 3* (%)   | Calquence + BR N=297 - All Grades (%)           | Calquence + BR N=297 - Grade ≥ 3* (%)           | Calquence + venetoclax N=291 - All Grades (%)   | Calquence + venetoclax N=291 - Grade ≥ 3* (%)   | Calquence + venetoclax + obinutuzumab N=284 - All Grades (%)   | Calquence + venetoclax + obinutuzumab N=284 - Grade ≥ 3* (%)   |
+|-------------------------------------------------|---------------------------------------------------|---------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| Dizziness                                       | Very common (23.8)                                | 0                                                 | Very common (14.5)                              | 0.7                                             | Common (5.5)                                    | 0                                               | Common (6.7)                                                   | 0                                                              |
+| Cardiac disorders                               | Cardiac disorders                                 | Cardiac disorders                                 | Cardiac disorders                               | Cardiac disorders                               | Cardiac disorders                               | Cardiac disorders                               | Cardiac disorders                                              | Cardiac disorders                                              |
+| Atrial fibrillation/flutter †                   | Common (3.1)                                      | 0.9                                               | Common (6.7)                                    | 4.0                                             | Uncommon (0.7)                                  | 0.3                                             | Common (2.1)                                                   | 0.7                                                            |
+| Vascular disorders                              | Vascular disorders                                | Vascular disorders                                | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                                             | Vascular disorders                                             |
+| Bruising †                                      | Very common (38.6)                                | 0                                                 | Very common (14.1)                              | 0.3                                             | Very common (20.6)                              | 0                                               | Very common (21.8)                                             | 0                                                              |
+| Contusion                                       | Very common (27.4)                                | 0                                                 | Very common (11.1)                              | 0                                               | Very common (14.1)                              | 0                                               | Very common (16.2)                                             | 0                                                              |
+| Petechiae                                       | Very common (11.2)                                | 0                                                 | Common (2.0)                                    | 0                                               | Common (4.8)                                    | 0                                               | Common (5.3)                                                   | 0                                                              |
+| Ecchymoses                                      | Common (3.1)                                      | 0                                                 | Common (3.0)                                    | 0.3                                             | Common (2.7)                                    | 0                                               | Common (3.9)                                                   | 0                                                              |
+| Haemorrhage/haemat oma †                        | Very common (17.5)                                | 1.3                                               | Very common (15.5)                              | 1.0                                             | Common (8.9)                                    | 0.7                                             | Common (8.5)                                                   | 1.1                                                            |
+| Gastrointestinal haemorrhage                    | Common (3.6)                                      | 0.9                                               | Uncommo n (0.3)                                 | 0                                               | Uncommo n (0.7)                                 | 0.3                                             | Not known                                                      | 0                                                              |
+| Intracranial haemorrhage                        | Uncommo n (0.9)                                   | 0                                                 | Not known                                       | 0                                               | Not known                                       | 0                                               | Not known                                                      | 0                                                              |
+| Hypertension †                                  | Very common (13.5)                                | 3.6                                               | Very common (12.5)                              | 5.7                                             | Common (4.1)                                    | 2.7                                             | Common (3.9)                                                   | 2.1                                                            |
+| Epistaxis                                       | Common (8.5)                                      | 0                                                 | Common (2.7)                                    | 0                                               | Common (1.7)                                    | 0                                               | Common (4.2)                                                   | 0                                                              |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders   | Respiratory, thoracic and mediastinal disorders   | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                | Respiratory, thoracic and mediastinal disorders                |
+| Pneumonitis ±                                   | -                                                 | -                                                 | Common (2.4)                                    | 0.3                                             | -                                               | -                                               | -                                                              | -                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                      | Calquence + Obinutuzumab N=223                       | Calquence + Obinutuzumab N=223                       | Calquence + BR N=297                                 | Calquence + BR N=297                                 | Calquence + venetoclax N=291                         | Calquence + venetoclax N=291                         | Calquence + venetoclax + obinutuzumab N=284          | Calquence + venetoclax + obinutuzumab N=284          |
-|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| MedDRA SOC and MedDRA Term                           | All Grades (%)                                       | Grade ≥ 3* (%)                                       | All Grades (%)                                       | Grade ≥ 3* (%)                                       | All Grades (%)                                       | Grade ≥ 3* (%)                                       | All Grades (%)                                       | Grade ≥ 3* (%)                                       |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
-| Diarrhoea                                            | Very common (43.9)                                   | 4.5                                                  | Very common (37.4)                                   | 3.0                                                  | Very common (32.6)                                   | 1.7                                                  | Very common (36.3)                                   | 1.4                                                  |
-| Nausea                                               | Very common (26.9)                                   | 0                                                    | Very common (42.8)                                   | 1.3                                                  | Very common (14.8)                                   | 0                                                    | Very common (21.8)                                   | 0.7                                                  |
-| Constipation                                         | Very common (20.2)                                   | 0                                                    | Very common (24.6)                                   | 1.0                                                  | Common (6.5)                                         | 0.3                                                  | Common (8.1)                                         | 0                                                    |
-| Vomiting                                             | Very common (19.3)                                   | 0.9                                                  | Very common (25.6)                                   | 0.7                                                  | Common (5.5)                                         | 0                                                    | Common (6.7)                                         | 0                                                    |
-| Abdominal pain †                                     | Very common (14.8)                                   | 1.3                                                  | Very common (12.1)                                   | 2.0                                                  | Common (7.9)                                         | 1.0                                                  | Common (8.1)                                         | 0.7                                                  |
-| S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              |
-| Rash †                                               | Very common (30.9)                                   | 1.8                                                  | Very common (39.1)                                   | 9.8                                                  | Very common (12.0)                                   | 0.3                                                  | Very common (16.2)                                   | 1.1                                                  |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
-| Musculoskeletal pain                                 | † Very common (44.8)                                 | 2.2                                                  | Very common (34.3)                                   | 3.7                                                  | Very common (24.1)                                   | 0.7                                                  | Very common (21.8)                                   | 1.1                                                  |
-| Arthralgia                                           | Very common (26.9)                                   | 1.3                                                  | Very common (17.5)                                   | 0.7                                                  | Very common (12.7)                                   | 1.0                                                  | Very common (10.9)                                   | 0.4                                                  |
-| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
-| Fatigue                                              | Very common (30.5)                                   | 1.8                                                  | Very common (29.3)                                   | 2.7                                                  | Very common (14.8)                                   | 0.3                                                  | Very common (14.4)                                   | 0                                                    |
-| Asthenia                                             | Common (7.6)                                         | 0.4                                                  | Very common (10.4)                                   | 1.0                                                  | Common (4.1)                                         | 0                                                    | Common (3.2)                                         | 0                                                    |
-| Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     |
-| Absolute neutrophil count decreased §                | Very common (57.4)                                   | 35                                                   | Very common (76.8)                                   | 56.6                                                 | Very common (78.0)                                   | 38.1                                                 | Very common (81.7)                                   | 53.5                                                 |
+| MedDRA SOC and MedDRA Term                           | Calquence + Obinutuzumab N=223 - All Grades (%)      | Calquence + Obinutuzumab N=223 - Grade ≥ 3* (%)      | Calquence + BR N=297 - All Grades (%)                | Calquence + BR N=297 - Grade ≥ 3* (%)                | Calquence + venetoclax N=291 - All Grades (%)        | Calquence + venetoclax N=291 - Grade ≥ 3* (%)        | Calquence + venetoclax + obinutuzumab N=284 - All Grades (%)   | Calquence + venetoclax + obinutuzumab N=284 - Grade ≥ 3* (%)   |
+|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                                     | Gastrointestinal disorders                                     |
+| Diarrhoea                                            | Very common (43.9)                                   | 4.5                                                  | Very common (37.4)                                   | 3.0                                                  | Very common (32.6)                                   | 1.7                                                  | Very common (36.3)                                             | 1.4                                                            |
+| Nausea                                               | Very common (26.9)                                   | 0                                                    | Very common (42.8)                                   | 1.3                                                  | Very common (14.8)                                   | 0                                                    | Very common (21.8)                                             | 0.7                                                            |
+| Constipation                                         | Very common (20.2)                                   | 0                                                    | Very common (24.6)                                   | 1.0                                                  | Common (6.5)                                         | 0.3                                                  | Common (8.1)                                                   | 0                                                              |
+| Vomiting                                             | Very common (19.3)                                   | 0.9                                                  | Very common (25.6)                                   | 0.7                                                  | Common (5.5)                                         | 0                                                    | Common (6.7)                                                   | 0                                                              |
+| Abdominal pain †                                     | Very common (14.8)                                   | 1.3                                                  | Very common (12.1)                                   | 2.0                                                  | Common (7.9)                                         | 1.0                                                  | Common (8.1)                                                   | 0.7                                                            |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                         | Skin and subcutaneous tissue disorders                         |
+| Rash †                                               | Very common (30.9)                                   | 1.8                                                  | Very common (39.1)                                   | 9.8                                                  | Very common (12.0)                                   | 0.3                                                  | Very common (16.2)                                             | 1.1                                                            |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                | Musculoskeletal and connective tissue disorders                |
+| Musculoskeletal pain                                 | † Very common (44.8)                                 | 2.2                                                  | Very common (34.3)                                   | 3.7                                                  | Very common (24.1)                                   | 0.7                                                  | Very common (21.8)                                             | 1.1                                                            |
+| Arthralgia                                           | Very common (26.9)                                   | 1.3                                                  | Very common (17.5)                                   | 0.7                                                  | Very common (12.7)                                   | 1.0                                                  | Very common (10.9)                                             | 0.4                                                            |
+| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions           | General disorders and administration site conditions           |
+| Fatigue                                              | Very common (30.5)                                   | 1.8                                                  | Very common (29.3)                                   | 2.7                                                  | Very common (14.8)                                   | 0.3                                                  | Very common (14.4)                                             | 0                                                              |
+| Asthenia                                             | Common (7.6)                                         | 0.4                                                  | Very common (10.4)                                   | 1.0                                                  | Common (4.1)                                         | 0                                                    | Common (3.2)                                                   | 0                                                              |
+| Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                               | Investigations ¶                                               |
+| Absolute neutrophil count decreased §                | Very common (57.4)                                   | 35                                                   | Very common (76.8)                                   | 56.6                                                 | Very common (78.0)                                   | 38.1                                                 | Very common (81.7)                                             | 53.5                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                        | Calquence + Obinutuzumab N=223   | Calquence + Obinutuzumab N=223   | Calquence + BR N=297   | Calquence + BR N=297   | Calquence + venetoclax N=291   | Calquence + venetoclax N=291   | Calquence + venetoclax + obinutuzumab N=284   | Calquence + venetoclax + obinutuzumab N=284   |
-|----------------------------------------|----------------------------------|----------------------------------|------------------------|------------------------|--------------------------------|--------------------------------|-----------------------------------------------|-----------------------------------------------|
-| MedDRA SOC and MedDRA Term             | All Grades (%)                   | Grade ≥ 3* (%)                   | All Grades (%)         | Grade ≥ 3* (%)         | All Grades (%)                 | Grade ≥ 3* (%)                 | All Grades (%)                                | Grade ≥ 3* (%)                                |
-| Platelets decreased §                  | Very common (46.2)               | 10.8                             | Very common (69.4)     | 17.8                   | Very common (42.6)             | 5.2                            | Very common (54.9)                            | 13.7                                          |
-| Haemoglobin decreased §                | Very common (43.9)               | 9                                | Very common (79.5)     | 10.8                   | Very common (34.7)             | 6.5                            | Very common (45.8)                            | 3.5                                           |
-| Alanine aminotransferase increased ‡   | -                                | -                                | Common (9.1)           | 4.4                    | -                              | -                              | -                                             | -                                             |
-| Aspartate aminotransferase increased ‡ | -                                | -                                | Common (8.1)           | 3.0                    | -                              | -                              | -                                             | -                                             |
+| MedDRA SOC and MedDRA Term             | Calquence + Obinutuzumab N=223 - All Grades (%)   | Calquence + Obinutuzumab N=223 - Grade ≥ 3* (%)   | Calquence + BR N=297 - All Grades (%)   |   Calquence + BR N=297 - Grade ≥ 3* (%) | Calquence + venetoclax N=291 - All Grades (%)   | Calquence + venetoclax N=291 - Grade ≥ 3* (%)   | Calquence + venetoclax + obinutuzumab N=284 - All Grades (%)   | Calquence + venetoclax + obinutuzumab N=284 - Grade ≥ 3* (%)   |
+|----------------------------------------|---------------------------------------------------|---------------------------------------------------|-----------------------------------------|-----------------------------------------|-------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| Platelets decreased §                  | Very common (46.2)                                | 10.8                                              | Very common (69.4)                      |                                    17.8 | Very common (42.6)                              | 5.2                                             | Very common (54.9)                                             | 13.7                                                           |
+| Haemoglobin decreased §                | Very common (43.9)                                | 9                                                 | Very common (79.5)                      |                                    10.8 | Very common (34.7)                              | 6.5                                             | Very common (45.8)                                             | 3.5                                                            |
+| Alanine aminotransferase increased ‡   | -                                                 | -                                                 | Common (9.1)                            |                                     4.4 | -                                               | -                                               | -                                                              | -                                                              |
+| Aspartate aminotransferase increased ‡ | -                                                 | -                                                 | Common (8.1)                            |                                     3.0 | -                                               | -                                               | -                                                              | -                                                              |
 
 ## Description of selected adverse reactions
 
@@ -568,23 +561,22 @@ Patients were stratified by 17p deletion mutation status (presence versus absenc
 
 Table 6. Baseline patient characteristics in (ELEVATE-TN) patients with previously untreated CLL
 
-| Characteristic                                                                                             | Calquence plus obinutuzumab N=179   | Calquence monotherapy N=179   | Obinutuzumab plus chlorambucil N=177   |
-|------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------------|----------------------------------------|
-| Age, years; median (range)                                                                                 | 70 (41-88)                          | 70 (44-87)                    | 71 (46-91)                             |
-| Male;%                                                                                                     | 62                                  | 62                            | 59.9                                   |
-| Caucasian;%                                                                                                | 91.6                                | 95                            | 93.2                                   |
-| ECOG performance status 0-1;%                                                                              | 94.4                                | 92.2                          | 94.4                                   |
-| Median time from diagnosis (months)                                                                        | 30.5                                | 24.4                          | 30.7                                   |
-| Bulky disease with nodes ≥ 5 cm;%                                                                          | 25.7                                | 38                            | 31.1                                   |
-| Cytogenetics/FISH Category;% 17p deletion 11q deletion TP53 mutation Unmutated IGHV Complex karyotype (≥ 3 | 9.5 17.3 11.7                       | 8.9 17.3 10.6 66.5 17.3 0     | 9 18.6 11.9 65.5 18.1 0.6              |
-| stage;%                                                                                                    |                                     |                               |                                        |
-|                                                                                                            | 57.5                                |                               |                                        |
-| abnormalities)                                                                                             | 16.2                                |                               |                                        |
-| Rai 0                                                                                                      | 1.7                                 |                               |                                        |
-| I II                                                                                                       | 30.2                                | 26.8                          | 28.2                                   |
-| III                                                                                                        | 20.1                                | 24.6                          | 27.1                                   |
-|                                                                                                            | 26.8                                | 27.9                          | 22.6                                   |
-| IV                                                                                                         | 21.2                                | 20.7                          | 21.5                                   |
+| Characteristic                                                                                                | Calquence plus obinutuzumab N=179   | Calquence monotherapy N=179   | Obinutuzumab plus chlorambucil N=177   |
+|---------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------------|----------------------------------------|
+| Age, years; median (range)                                                                                    | 70 (41-88)                          | 70 (44-87)                    | 71 (46-91)                             |
+| Male; %                                                                                                       | 62                                  | 62                            | 59.9                                   |
+| Caucasian; %                                                                                                  | 91.6                                | 95                            | 93.2                                   |
+| ECOG performance status 0-1; %                                                                                | 94.4                                | 92.2                          | 94.4                                   |
+| Median time from diagnosis (months)                                                                           | 30.5                                | 24.4                          | 30.7                                   |
+| Bulky disease with nodes ≥ 5 cm; %                                                                            | 25.7                                | 38                            | 31.1                                   |
+| Cytogenetics/FISH Category; % 17p deletion 11q deletion TP53 mutation Unmutated IGHV Complex karyotype (≥ 3 0 | 9.5 17.3 11.7 1.7                   | 8.9 17.3 10.6 66.5 17.3 0     | 9 18.6 11.9 65.5 18.1 0.6              |
+|                                                                                                               | 57.5                                |                               |                                        |
+| abnormalities)                                                                                                |                                     |                               |                                        |
+| Rai stage; %                                                                                                  | 16.2                                |                               |                                        |
+| I II                                                                                                          | 30.2                                | 26.8                          | 28.2                                   |
+|                                                                                                               | 20.1                                | 24.6                          | 27.1                                   |
+| III                                                                                                           | 26.8                                | 27.9                          | 22.6                                   |
+| IV                                                                                                            | 21.2                                | 20.7                          | 21.5                                   |
 
 The primary endpoint was progression-free survival (PFS) of Calquence+G arm versus GClb arm as assessed by an Independent Review Committee (IRC) per International Workshop on Chronic Lymphocytic Leukaemia (IWCLL) 2008 criteria with incorporation of the clarification for treatment-related lymphocytosis (Cheson 2012). With a median follow-up of 28.3 months, PFS by IRC indicated a 90% statistically significant reduction in the risk of disease progression or death for previously untreated CLL patients in the Calquence+G arm compared to the GClb arm. Efficacy results are presented in Table 7.
 
@@ -601,7 +593,7 @@ Table 7. Efficacy results per IRC Assessments in (ELEVATE-TN) patients with CLL
 | Median (95% CI), months                            | NR                                                 | NR (34.2, NR)                 | 22.6 (20.2, 27.6)                      |
 | HR † (95% CI)                                      | 0.10 (0.06, 0.17)                                  | 0.20 (0.13, 0.30)             | -                                      |
 | P-value                                            | < 0.0001                                           | < 0.0001                      | -                                      |
-| 24 months estimate,% (95% CI)                      | 92.7 (87.4, 95.8)                                  | 87.3 (80.9, 91.7)             | 46.7 (38.5, 54.6)                      |
+| 24 months estimate, % (95% CI)                     | 92.7 (87.4, 95.8)                                  | 87.3 (80.9, 91.7)             | 46.7 (38.5, 54.6)                      |
 | Overall Survival a                                 |                                                    |                               |                                        |
 | Death events (%)                                   | 9 (5)                                              | 11 (6.1)                      | 17 (9.6)                               |
 | Hazard Ratio (95% CI) †                            | 0.47 (0.21, 1.06)                                  | 0.60 (0.28, 1.27)             | -                                      |
@@ -613,9 +605,9 @@ Table 7. Efficacy results per IRC Assessments in (ELEVATE-TN) patients with CLL
 | nPR, n (%)                                         | 1 (0.6)                                            | 2 (1.1)                       | 3 (1.7)                                |
 | PR, n (%)                                          | 143 (79.9)                                         | 150 (83.8)                    | 128 (72.3)                             |
 
-CI=confidence interval; HR=hazard ratio; NR=not reached; CR=complete response; CRi=complete response with incomplete blood count recovery; nPR=nodular partial response; PR=partial response. *
+CI=confidence interval; HR=hazard ratio; NR=not reached; CR=complete response; CRi=complete response with incomplete blood count recovery; nPR=nodular partial response; PR=partial response.
 
-Per IRC assessment.
+* Per IRC assessment.
 
 † Based on stratified Cox-Proportional-Hazards model.
 
@@ -625,22 +617,20 @@ PFS results for Calquence with or without obinutuzumab were consistent across su
 
 Table 8. Subgroup analysis of PFS (Study ELEVATE-TN)
 
-|                | Calquence monotherapy   | Calquence monotherapy   | Calquence monotherapy     | Calquence+G   | Calquence+G   | Calquence+G               |
-|----------------|-------------------------|-------------------------|---------------------------|---------------|---------------|---------------------------|
-|                | N                       | Hazard Ratio            | 95% CI                    | N             | Hazard Ratio  | 95% CI                    |
-| All subjects   | 179                     | 0.20                    | (0.13, 0.30)              | 179           | 0.10          | (0.06, 0.17)              |
-| Del 17P Yes No | 19 160                  | 0.20 0.20               | (0.06, 0.64) (0.12, 0.31) | 21 158        | 0.13 0.09     | (0.04, 0.46) (0.05, 0.17) |
+|                | Calquence monotherapy - N   | Calquence monotherapy - Hazard Ratio   | Calquence monotherapy - 95% CI   | Calquence+G - N   | Calquence+G - Hazard Ratio   | Calquence+G - 95% CI      |
+|----------------|-----------------------------|----------------------------------------|----------------------------------|-------------------|------------------------------|---------------------------|
+| All subjects   | 179                         | 0.20                                   | (0.13, 0.30)                     | 179               | 0.10                         | (0.06, 0.17)              |
+| Del 17P Yes No | 19 160                      | 0.20 0.20                              | (0.06, 0.64) (0.12, 0.31)        | 21 158            | 0.13 0.09                    | (0.04, 0.46) (0.05, 0.17) |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                     | Calquence monotherapy   | Calquence monotherapy   | Calquence monotherapy     | Calquence+G   | Calquence+G   | Calquence+G               |
-|-------------------------------------|-------------------------|-------------------------|---------------------------|---------------|---------------|---------------------------|
-|                                     | N                       | Hazard Ratio            | 95% CI                    | N             | Hazard Ratio  | 95% CI                    |
-| TP53 mutation Yes No                | 19 160                  | 0.15 0.20               | (0.05, 0.46) (0.12, 0.32) | 21 158        | 0.04 0.11     | (0.01, 0.22) (0.06, 0.20) |
-| Del 17P or/and TP53 mutation Yes No | 23 156                  | 0.23 0.19               | (0.09, 0.61) (0.11, 0.31) | 25 154        | 0.10 0.10     | (0.03, 0.34) (0.05, 0.18) |
-| IGHV mutation Mutated Unmutated     | 58 119                  | 0.69 0.11               | (0.31, 1.56) (0.07, 0.19) | 74 103        | 0.15 0.08     | (0.04, 0.52) (0.04, 0.16) |
-| Del 11q Yes No                      | 31 148                  | 0.07 0.26               | (0.02, 0.22) (0.16, 0.41) | 31 148        | 0.09 0.10     | (0.03, 0.26) (0.05, 0.20) |
-| Complex Karyotype Yes No            | 31 117                  | 0.10 0.27               | (0.03, 0.33) (0.16, 0.46) | 29 126        | 0.09 0.11     | (0.03, 0.29) (0.05, 0.21) |
+|                                     | Calquence monotherapy - N   | Calquence monotherapy - Hazard Ratio   | Calquence monotherapy - 95% CI   | Calquence+G - N   | Calquence+G - Hazard Ratio   | Calquence+G - 95% CI      |
+|-------------------------------------|-----------------------------|----------------------------------------|----------------------------------|-------------------|------------------------------|---------------------------|
+| TP53 mutation Yes No                | 19 160                      | 0.15 0.20                              | (0.05, 0.46) (0.12, 0.32)        | 21 158            | 0.04 0.11                    | (0.01, 0.22) (0.06, 0.20) |
+| Del 17P or/and TP53 mutation Yes No | 23 156                      | 0.23 0.19                              | (0.09, 0.61) (0.11, 0.31)        | 25 154            | 0.10 0.10                    | (0.03, 0.34) (0.05, 0.18) |
+| IGHV mutation Mutated Unmutated     | 58 119                      | 0.69 0.11                              | (0.31, 1.56) (0.07, 0.19)        | 74 103            | 0.15 0.08                    | (0.04, 0.52) (0.04, 0.16) |
+| Del 11q Yes No                      | 31 148                      | 0.07 0.26                              | (0.02, 0.22) (0.16, 0.41)        | 31 148            | 0.09 0.10                    | (0.03, 0.26) (0.05, 0.20) |
+| Complex Karyotype Yes No            | 31 117                      | 0.10 0.27                              | (0.03, 0.33) (0.16, 0.46)        | 29 126            | 0.09 0.11                    | (0.03, 0.29) (0.05, 0.21) |
 
 With long term data, the median follow-up was 58.2 months for Calquence+G arm, 58.1 months for Calquence arm and 58.2 months for the GClb arm. The median investigator assessed PFS for Calquence+G and Calquence monotherapy was not reached; and was 27.8 months in GClb arm. At the time of most recent data cut off, a total of 72 patients (40.7%) originally randomised to the GClb arm crossed over to Calquence monotherapy. The median overall survival had not been reached in any arm with a total of 76 deaths: 18 (10.1%) in the Calquence+G arm, 30 (16.8%) in the Calquence monotherapy arm, and 28 (15.8%) in the GClb arm.
 
@@ -683,8 +673,8 @@ Patients were randomised in a 1:1:1 ratio into 3 arms to receive:
 - Calquence plus venetoclax (AV): Calquence 100 mg was administered twice daily starting on Cycle 1 Day 1 for a total of 14 cycles or until disease progression or unacceptable toxicity. On Cycle 3 Day 1 patients started the venetoclax 5-week dose-titration schedule, starting at 20 mg and increasing weekly to 50 mg, 100 mg, 200 mg and finally 400 mg once daily. Venetoclax was administered for a total of 12 cycles. Each cycle was 28 days.
 - Calquence plus venetoclax plus obinutuzumab (AVO): Calquence 100 mg was administered twice daily starting on Cycle 1 Day 1 for a total of 14 cycles or until disease progression or unacceptable toxicity. On Cycle 3 Day 1 patients started the venetoclax 5-week dose-titration schedule, starting at 20 mg and increasing weekly to 50 mg, 100 mg, 200 mg and finally 400 mg once daily. Venetoclax was administered for a total of 12 cycles. Obinutuzumab 1 000 mg was administered on Day 1 or Day 1 and 2 (100 mg on Day 1 and 900 mg on Day 1 or 2), 8 and 15 of Cycle 2 followed by 1 000 mg on Day 1 of Cycles 3-7. Each cycle was 28 days.
 - Investigator's choice of chemoimmunotherapy (FCR/BR):
-- o Fludarabine plus cyclophosphamyde plus rituximab (FCR): Fludarabine (25 mg/m 2 ) and cyclophosphamide (250 mg/m 2 ) were administered on Days 1-3 up to a maximum of 6 cycles. Rituximab was administered at a dose of 375 mg/m 2 on Day 1 Cycle 1 and 500 mg/m 2  on Day 1 of Cycles 2 up to 6. Each cycle was 28 days.
-- o Bendamustine plus rituximab (BR): Bendamustine 90 mg/m 2  was administered on Days 1 and 2 up to maximum of 6 cycles. Rituximab was administered at a dose of 375 mg/m 2 on Day 1 Cycle 1 and 500 mg/m 2  on Day 1 of Cycles 2 up to 6. Each cycle was 28 days.
+- o Fludarabine plus cyclophosphamyde plus rituximab (FCR): Fludarabine (25 mg/m 2 ) and cyclophosphamide (250 mg/m 2 ) were administered on Days 1-3 up to a maximum of 6 cycles. Rituximab was administered at a dose of 375 mg/m 2 on Day 1 Cycle 1 and 500 mg/m 2 on Day 1 of Cycles 2 up to 6. Each cycle was 28 days.
+- o Bendamustine plus rituximab (BR): Bendamustine 90 mg/m 2 was administered on Days 1 and 2 up to maximum of 6 cycles. Rituximab was administered at a dose of 375 mg/m 2 on Day 1 Cycle 1 and 500 mg/m 2 on Day 1 of Cycles 2 up to 6. Each cycle was 28 days.
 
 Patients were stratified by age (&gt; 65 years or ≤ 65 years), IGHV mutational status (mutated versus unmutated), Rai stage (high risk [≥ 3] versus non-high risk) and geographic region (North America and Western Europe versus other). Table 10 summarises the baseline demographics and disease characteristics of the study population.
 
@@ -695,16 +685,16 @@ Table 10. Baseline Patient Characteristics in (AMPLIFY) Patients with Previously
 | Characteristic                                       | AV N=291   | AVO N=286   | FCR/BR N=290   |
 |------------------------------------------------------|------------|-------------|----------------|
 | Age, years; median (range)                           | 61 (31-84) | 61 (29-81)  | 61 (26-86)     |
-| Male;%                                               | 61.2       | 69.2        | 63.1           |
-| Caucasian;%                                          | 91.1       | 86.7        | 86.9           |
-| ECOG performance status 0-1;%                        | 90.0       | 95.1        | 90.3           |
+| Male; %                                              | 61.2       | 69.2        | 63.1           |
+| Caucasian; %                                         | 91.1       | 86.7        | 86.9           |
+| ECOG performance status 0-1; %                       | 90.0       | 95.1        | 90.3           |
 | Median time from diagnosis to randomization (months) | 28.5       | 26.1        | 29.6           |
-| Bulky disease with nodes ≥ 5 cm;%                    | 38.8       | 35.0        | 42.8           |
-| Cytogenetics/FISH Category;%                         |            |             |                |
+| Bulky disease with nodes ≥ 5 cm; %                   | 38.8       | 35.0        | 42.8           |
+| Cytogenetics/FISH Category; %                        |            |             |                |
 | 11q deletion                                         | 17.5       | 19.6        | 15.9           |
 | Complex karyotype (≥ 3 abnormalities)                | 15.5       | 16.1        | 14.5           |
-| Unmutated IGHV;%                                     | 57.4       | 59.1        | 59.3           |
-| Rai stage;%                                          |            |             |                |
+| Unmutated IGHV; %                                    | 57.4       | 59.1        | 59.3           |
+| Rai stage; %                                         |            |             |                |
 | 0                                                    | 1.0        | 0.3         | 1.4            |
 | I                                                    | 16.2       | 21.3        | 21.4           |
 | II                                                   | 35.7       | 37.8        | 33.4           |
@@ -745,7 +735,7 @@ Patients were randomised 1:1 to receive either:
 - Calquence 100 mg twice daily until disease progression or unacceptable toxicity, or
 - Investigator's choice:
 - o Idelalisib 150 mg twice daily in combination with rituximab 375 mg/m2 IV on Day 1 of the first cycle, followed by 500 mg/m2 IV every 2 weeks for 4 doses, then every 4 weeks for 3 doses for a total of 8 infusions
-- o Bendamustine 70 mg/m 2  (Day 1 and 2 of each 28-day cycle) in combination with rituximab (375 mg/m 2 /500 mg/m 2 ) on Day 1 of each 28-day cycle for up to 6 cycles
+- o Bendamustine 70 mg/m 2 (Day 1 and 2 of each 28-day cycle) in combination with rituximab (375 mg/m 2 /500 mg/m 2 ) on Day 1 of each 28-day cycle for up to 6 cycles
 
 Patients were stratified by 17p deletion mutation status (presence versus absence), ECOG performance status (0 or 1 versus 2) and number of prior therapies (1 to 3 versus ≥ 4). After confirmed disease progression, 35 patients randomised on investigator's choice of either idelalisib plus rituximab or bendamustine plus rituximab crossed over to Calquence. Table 12 summarizes the baseline demographics and disease characteristics of the study population.
 
@@ -756,25 +746,27 @@ Table 12. Baseline patient characteristics in (ASCEND) patients with CLL
 | Characteristic                               | Calquence monotherapy N=155   | Investigator's choice of idelalisib + rituximab or bendamustine + rituximab N=155   |
 |----------------------------------------------|-------------------------------|-------------------------------------------------------------------------------------|
 | Age, years; median (range)                   | 68 (32-89)                    | 67 (34-90)                                                                          |
-| Male;%                                       | 69.7                          | 64.5                                                                                |
-| Caucasian;%                                  | 93.5                          | 91.0                                                                                |
-| ECOG performance status;%                    |                               |                                                                                     |
+| Male; %                                      | 69.7                          | 64.5                                                                                |
+| Caucasian; %                                 | 93.5                          | 91.0                                                                                |
+| ECOG performance status; %                   |                               |                                                                                     |
 | 0                                            | 37.4                          | 35.5                                                                                |
 | 1                                            | 50.3                          | 51.0                                                                                |
 | 2                                            | 12.3                          | 13.5                                                                                |
 | Median time from diagnosis (months)          | 85.3                          | 79.0                                                                                |
-| Bulky disease with nodes ≥ 5 cm;%            | 49.0                          | 48.4                                                                                |
+| Bulky disease with nodes ≥ 5 cm; %           | 49.0                          | 48.4                                                                                |
 | Median number of prior CLL therapies (range) | 1 (1-8)                       | 2 (1-10)                                                                            |
-| Number of Prior CLL Therapies;%              |                               |                                                                                     |
-| 1 2 3 ≥ 4                                    | 52.9 25.8 11.0 10.3           | 43.2 29.7 15.5 11.6                                                                 |
-| Cytogenetics/FISH Category;%                 |                               |                                                                                     |
+| Number of Prior CLL Therapies; % 1 2 3 ≥ 4   | 52.9 25.8 11.0 10.3           | 43.2 29.7 15.5 11.6                                                                 |
+| Cytogenetics/FISH Category; %                |                               |                                                                                     |
 | 17p deletion                                 | 18.1                          | 13.5                                                                                |
 | 11q deletion                                 | 25.2                          | 28.4                                                                                |
-| TP53 mutation                                | 25.2                          | 21.9                                                                                |
-| Unmutated IGHV                               | 76.1                          | 80.6                                                                                |
-| Complex karyotype (≥3 abnormalities)         | 32.3                          | 29.7                                                                                |
-| Rai Stage;%                                  |                               |                                                                                     |
+| TP53                                         | 25.2                          |                                                                                     |
+| Unmutated IGHV                               |                               | 80.6                                                                                |
+| Rai Stage;                                   |                               |                                                                                     |
 | 0                                            | 1.3                           | 2.6                                                                                 |
+| mutation                                     |                               | 21.9                                                                                |
+|                                              | 76.1                          |                                                                                     |
+| Complex karyotype (≥3 abnormalities)         | 32.3                          | 29.7                                                                                |
+| %                                            |                               |                                                                                     |
 | I                                            | 25.2                          | 20.6                                                                                |
 | II                                           | 31.6                          | 34.8                                                                                |
 | III                                          | 13.5                          | 11.6                                                                                |
@@ -792,22 +784,32 @@ Table 13. Efficacy results per IRC Assessments in (ASCEND) patients with CLL
 
 <div style=\"page-break-after: always\"></div>
 
-| Death events (%)                               | 8 (5.2)                 | 9 (5.8)                 |
-|------------------------------------------------|-------------------------|-------------------------|
-| Median (95% CI), months                        | NR                      | 16.5 (14.0, 17.1)       |
-| HR † (95% CI)                                  | 0.31 (0.20, 0.49)       | 0.31 (0.20, 0.49)       |
-| P-value                                        | < 0.0001                | < 0.0001                |
-| 15 months estimate, %(95% CI)                  | 82.6 (75.0, 88.1)       | 54.9 (45.4, 63.5)       |
-| Overall survival a                             |                         |                         |
-| Death events (%)                               | 15 (9.7)                | 18(11.6)                |
-| Hazard Ratio (95% CI) †                        | 0.84 (0.42, 1.66)       | -                       |
-| Best overall response rate * (CR + CRi + nPR + | PR)**                   |                         |
-| ORR, n (%) (95% CI)                            | 126 (81.3) (74.4, 86.6) | 117 (75.5) (68.1, 81.6) |
-| P-value                                        | 0.2248                  | -                       |
-| CR, n (%)                                      | 0                       | 2 (1.3)                 |
-| PR, n (%)                                      | 126 (81.3)              | 115 (74.2)              |
-| Duration of Response (DoR)                     |                         |                         |
-| Median (95% CI), months                        | NR                      | 13.6 (11.9,NR)          |
+| Death events (%)                                     | 8 (5.2)                 | 9 (5.8)                 |
+|------------------------------------------------------|-------------------------|-------------------------|
+| Median (95% CI), months                              | NR                      | 16.5 (14.0, 17.1)       |
+| HR † (95% CI)                                        | 0.31 (0.20, 0.49)       | 0.31 (0.20, 0.49)       |
+| P-value                                              | < 0.0001                | < 0.0001                |
+| 15 months estimate, % (95% CI)                       | 82.6 (75.0, 88.1)       | 54.9 (45.4, 63.5)       |
+| Overall survival a                                   |                         |                         |
+| Death events (%)                                     | 15 (9.7)                | 18(11.6)                |
+| Hazard Ratio (95% CI) †                              | 0.84 (0.42, 1.66)       | -                       |
+| Best overall response rate * (CR + CRi + nPR + PR)** |                         |                         |
+| ORR, n (%) (95% CI)                                  | 126 (81.3) (74.4, 86.6) | 117 (75.5) (68.1, 81.6) |
+| P-value                                              | 0.2248                  | -                       |
+| CR, n (%)                                            | 0                       | 2 (1.3)                 |
+| PR, n (%)                                            | 126 (81.3)              | 115 (74.2)              |
+| Duration of Response (DoR)                           |                         |                         |
+| Median (95% CI), months                              | NR                      | 13.6 (11.9,NR)          |
+
+CI=confidence interval; HR=hazard ratio; NR=not reached; CR=complete response; CRi=complete response with incomplete blood count recovery; nPR=nodular partial response; PR=partial response; PD=progressive disease
+
+* Per IRC assessment
+
+a Median OS not reached for both arms. P&lt;0.6089 for OS.
+
+**CRi and nPR have values of 0.
+
+† Based on stratified Cox-Proportional-Hazards model
 
 Figure 3. Kaplan-Meier curve of IRC-assessed PFS in (ASCEND) patients with CLL (ITT Population)
 
@@ -815,8 +817,8 @@ Figure 3. Kaplan-Meier curve of IRC-assessed PFS in (ASCEND) patients with CLL (
 
 Time from randomisation (months)
 
-| Number of patients at risk   |
-|------------------------------|
+| Number of patients at risk 4 5 6 147 146 145 143 144 142 136 130   |
+|--------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -824,28 +826,27 @@ PFS results for Calquence were consistent across subgroups, including high risk 
 
 Table 14. Subgroup analysis of IRC-assessed PFS (Study ASCEND)
 
-|                          | Calquence monotherapy   | Calquence monotherapy   | Calquence monotherapy     |
-|--------------------------|-------------------------|-------------------------|---------------------------|
-|                          | N                       | Hazard Ratio            | 95% CI                    |
-| All subjects             | 155                     | 0.30                    | (0.19, 0.48)              |
-| Del 17P                  |                         |                         |                           |
-| Yes                      | 28                      | 0.21                    | (0.07, 0.68)(0.21, 0.54)  |
-| No                       | 127                     | 0.33                    |                           |
-| TP53 mutation            |                         |                         |                           |
-| Yes                      | 39                      | 0.24                    | (0.11, 0.56) (0.20, 0.57) |
-| No                       | 113                     | 0.33                    |                           |
-| Del 17P or TP53 mutation |                         |                         |                           |
-| Yes                      | 45                      | 0.21                    | (0.09, 0.48) (0.21, 0.61) |
-| No                       | 108                     | 0.36                    |                           |
-| IGHV mutation            |                         |                         |                           |
-| Mutated                  | 33                      | 0.32                    | (0.11, 0.94) (0.19, 0.52) |
-| Unmutated                | 118                     | 0.32                    |                           |
-| Del 11q                  |                         |                         |                           |
-| Yes                      | 39                      | 0.28                    | (0.11, 0.70) (0.19, 0.53) |
-| No                       | 116                     | 0.31                    |                           |
-| Complex Karyotype        |                         |                         |                           |
-| Yes                      | 50                      | 0.32                    | (0.16, 0.63) (0.12, 0.44) |
-| No                       | 97                      | 0.23                    |                           |
+|                          |   Calquence monotherapy - N |   Calquence monotherapy - Hazard Ratio | Calquence monotherapy - 95% CI   |
+|--------------------------|-----------------------------|----------------------------------------|----------------------------------|
+| All subjects             |                         155 |                                   0.30 | (0.19, 0.48)                     |
+| Del 17P                  |                             |                                        |                                  |
+| Yes                      |                          28 |                                   0.21 | (0.07, 0.68)(0.21, 0.54)         |
+| No                       |                         127 |                                   0.33 |                                  |
+| TP53 mutation            |                             |                                        |                                  |
+| Yes                      |                          39 |                                   0.24 | (0.11, 0.56) (0.20, 0.57)        |
+| No                       |                         113 |                                   0.33 |                                  |
+| Del 17P or TP53 mutation |                             |                                        |                                  |
+| Yes                      |                          45 |                                   0.21 | (0.09, 0.48) (0.21, 0.61)        |
+| No                       |                         108 |                                   0.36 |                                  |
+| IGHV mutation            |                             |                                        |                                  |
+| Mutated                  |                          33 |                                   0.32 | (0.11, 0.94) (0.19, 0.52)        |
+| Unmutated                |                         118 |                                   0.32 |                                  |
+| Del 11q                  |                             |                                        |                                  |
+| Yes                      |                          39 |                                   0.28 | (0.11, 0.70) (0.19, 0.53)        |
+| No                       |                         116 |                                   0.31 |                                  |
+| Complex Karyotype        |                             |                                        |                                  |
+| Yes                      |                          50 |                                   0.32 | (0.16, 0.63) (0.12, 0.44)        |
+| No                       |                          97 |                                   0.23 |                                  |
 
 At final analysis, with a median follow-up of 46.5 months for Calquence and 45.3 months for the IR/BR, a 72% reduction in risk of investigator-assessed disease progression or death was observed for patients in the Calquence arm. The median investigator assessed PFS was not reached in Calquence and was 16.8 months in IR/BR. Efficacy results per Investigator Assessments (INV) are presented in Table 15. The Kaplan-Meier curve for INV assessed PFS is shown in Figure 4.
 
@@ -868,6 +869,12 @@ Table 15. Efficacy results at final analysis per INV assessments in (ASCEND) pat
 | Calquence monotherapy N=155   | Investigator's choice of idelalisib + rituximab or bendamustine + rituximab N=155   |
 |-------------------------------|-------------------------------------------------------------------------------------|
 
+CI=confidence interval; HR=hazard ratio; NR=not reached; PD=progressive disease * Per INV assessment.
+
+a Median OS not reached for both arms P=0.0783 for OS.
+
+† Based on stratified Cox-Proportional-Hazards model.
+
 Figure 4. Kaplan-Meier curve of INV-assessed PFS at final analysis in (ASCEND) patients with CLL
 
 <!-- image -->
@@ -885,13 +892,14 @@ The safety and efficacy of Calquence in patients with previously untreated MCL w
 
 - Calquence plus bendamustine and rituximab (Calquence + BR) arm: Calquence 100 mg was administered twice daily from Day 1 of Cycle 1, continuously. Bendamustine, 90 mg/m 2 , was intravenously administered over 30 minutes on Days 1 and 2 of each of six 28-day cycles; and
 
+54
+
 <div style=\"page-break-after: always\"></div>
 
-rituximab, 375 mg/m 2 , was intravenously administered on Day 1 of each cycle of six 28-day cycles. Calquence + BR was administered for a maximum of 6 treatment cycles (induction treatment).
-
+- rituximab, 375 mg/m 2 , was intravenously administered on Day 1 of each cycle of six 28-day cycles. Calquence + BR was administered for a maximum of 6 treatment cycles (induction treatment).
 - Placebo plus bendamustine and rituximab (Placebo + BR) arm: Placebo was administered twice daily from Day 1 of Cycle 1, continuously. Bendamustine, 90 mg/m 2 , was intravenously administered over 30 minutes on Days 1 and 2 of each of six 28-day cycles; and rituximab, 375 mg/m 2 , was intravenously administered on Day 1 of each cycle of six 28-day cycles. Placebo + BR was administered for a maximum of 6 treatment cycles (induction treatment).
 
-Calquence or placebo was administered continuously until disease progression or unacceptable toxicity. After the induction treatment, patients who were achieving a response (PR or CR) received rituximab maintenance at 375 mg/m 2  on Day 1 of every other cycle for maximum of 12 additional doses up to Cycle 30. Patients randomised to placebo + BR arm who had confirmed PD were eligible to cross over to Calquence monotherapy at 100 mg twice daily dose until their second disease progression or unacceptable toxicity.
+Calquence or placebo was administered continuously until disease progression or unacceptable toxicity. After the induction treatment, patients who were achieving a response (PR or CR) received rituximab maintenance at 375 mg/m 2 on Day 1 of every other cycle for maximum of 12 additional doses up to Cycle 30. Patients randomised to placebo + BR arm who had confirmed PD were eligible to cross over to Calquence monotherapy at 100 mg twice daily dose until their second disease progression or unacceptable toxicity.
 
 Patient randomisation was stratified by geographic region (North America versus Western Europe versus Other) and simplified MIPI (Mantle Cell Lymphoma International Prognostic Index) score (0-3 versus 4-5 versus 6-11).
 
@@ -911,7 +919,7 @@ Table 16. Efficacy Results in Patients with previously untreated MCL in ECHO
 | Median (95% CI)            | 66.4 (55.1, NE)        | 49.6 (36.0, 64.1)    |
 | HR (95% CI) (stratified) * | 0.73 (0.57, 0.94)      | 0.73 (0.57, 0.94)    |
 | p-value ‡                  | 0.0160                 | 0.0160               |
-| IRC-assessedORR            |                        |                      |
+| IRC-assessed ORR           |                        |                      |
 | CR + PR n (%)              | 272 (91.0)             | 263 (88.0)           |
 | 95% CI                     | 87.3,93.8              | 83.9, 91.3           |
 | CR n (%)                   | 199 (66.6)             | 160 (53.5)           |
@@ -945,7 +953,7 @@ The simplified MIPI score (which includes age, ECOG score, and baseline lactate 
 
 Table 17. ORR and DOR in (ACE-LY-004) Patients with MCL at 54 months final analysis
 
-|                                                                                                                                             | Investigator Assessment at 54 month s N=124 n (%) (95% CI * )                                                                               |
+|                                                                                                                                             | Investigator Assessment at 54 months N=124 n (%) (95% CI * )                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | Overall Response Rate (ORR)                                                                                                                 |                                                                                                                                             |
 | Overall Response Rate                                                                                                                       | 101 (81.5%) (73.5, 87.9)                                                                                                                    |
@@ -980,7 +988,7 @@ Reversible binding to human plasma protein was 99.4% for acalabrutinib and 98.8%
 
 ## Biotransformation/Metabolism
 
-In vitro , acalabrutinib is predominantly metabolised by CYP3A enzymes, and to a minor extent by glutathione conjugation and amide hydrolysis. ACP-5862 was identified as the major metabolite in plasma, that was further metabolized primarily by CYP3A-mediated oxidation, with a geometric mean exposure (AUC) that was approximately 2 to 3-fold higher than the exposure of acalabrutinib. ACP-5862 is approximately 50% less potent than acalabrutinib with regard to BTK inhibition.
+In vitro, acalabrutinib is predominantly metabolised by CYP3A enzymes, and to a minor extent by glutathione conjugation and amide hydrolysis. ACP-5862 was identified as the major metabolite in plasma, that was further metabolized primarily by CYP3A-mediated oxidation, with a geometric mean exposure (AUC) that was approximately 2 to 3-fold higher than the exposure of acalabrutinib. ACP-5862 is approximately 50% less potent than acalabrutinib with regard to BTK inhibition.
 
 In vitro studies indicate that acalabrutinib does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, UGT1A1 or UGT2B7 at clinically relevant concentrations and is unlikely to affect clearance of substrates of these CYPs.
 
@@ -1014,7 +1022,7 @@ No pharmacokinetic studies were performed with Calquence in patients under 18 ye
 
 Acalabrutinib undergoes minimal renal elimination. A pharmacokinetic study in patients with renal impairment has not been conducted.
 
-Based on population PK analysis, no clinically relevant PK difference was observed in 408 subjects with mild renal impairment (eGFR between 60 and 89 mL/min/1.73m 2  as estimated by MDRD), 109 subjects with moderate renal impairment (eGFR between 30 and 59 mL/min/1.73m 2 ) relative to 192 subjects with normal renal function (eGFR greater than or equal to 90 mL/min/1.73m 2 ). The pharmacokinetics of acalabrutinib has not been characterised in patients with severe renal impairment (eGFR less than 29 mL/min/1.73 m 2 ) or renal impairment requiring dialysis. Patients with creatinine levels greater than 2.5 times the institutional ULN were not included in the clinical studies (see section 4.2).
+Based on population PK analysis, no clinically relevant PK difference was observed in 408 subjects with mild renal impairment (eGFR between 60 and 89 mL/min/1.73m 2 as estimated by MDRD), 109 subjects with moderate renal impairment (eGFR between 30 and 59 mL/min/1.73m 2 ) relative to 192 subjects with normal renal function (eGFR greater than or equal to 90 mL/min/1.73m 2 ). The pharmacokinetics of acalabrutinib has not been characterised in patients with severe renal impairment (eGFR less than 29 mL/min/1.73 m 2 ) or renal impairment requiring dialysis. Patients with creatinine levels greater than 2.5 times the institutional ULN were not included in the clinical studies (see section 4.2).
 
 ## Hepatic impairment
 
@@ -1030,7 +1038,7 @@ Carcinogenicity studies have not been conducted with acalabrutinib.
 
 Acalabrutinib was not mutagenic in a bacterial reverse mutation assay, in an in vitro chromosome aberration assay or in an in vivo mouse bone marrow micronucleus assay.
 
-Based on phototoxicity assays using 3T3 cell line in vitro , acalabrutinib is considered to have a low risk for phototoxicity in humans.
+Based on phototoxicity assays using 3T3 cell line in vitro, acalabrutinib is considered to have a low risk for phototoxicity in humans.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1066,9 +1074,15 @@ Yellow iron oxide (E172)
 
 Indigo carmine (E132)
 
-## Printing ink
+Printing ink
 
-Shellac Black iron oxide (E172) Propylene glycol (E1520) Ammonium hydroxide
+Shellac
+
+Black iron oxide (E172)
+
+Propylene glycol (E1520)
+
+Ammonium hydroxide
 
 ## 6.2 Incompatibilities
 
@@ -1094,9 +1108,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-SE-151 85 Södertälje
+AstraZeneca AB SE-151 85 Södertälje
 
-AstraZeneca AB Sweden
+Sweden
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1108,7 +1122,7 @@ EU/1/20/1479/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 05 November 2020 Date of latest renewal:
+Date of first authorisation: 05 November 2020 Date of latest renewal:28 July 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1150,7 +1164,7 @@ Calquence as monotherapy is indicated for the treatment of adult patients with r
 
 Treatment with this medicinal product should be initiated and supervised by a physician experienced in the use of anticancer medicinal products.
 
-## Posology
+Posology
 
 The recommended dose of Calquence in monotherapy or in combination with other medicinal products is 100 mg acalabrutinib twice daily (equivalent to a total daily dose of 200 mg).
 
@@ -1196,7 +1210,7 @@ Table 1. Recommended dose adjustments for adverse reactions*
 
 *Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 5.0.
 
-Table 2. Recommended dose adjustments for Grade ≥ 3 adverse reactions *  in patients receiving Calquence in combination with bendamustine and rituximab
+Table 2. Recommended dose adjustments for Grade ≥ 3 adverse reactions * in patients receiving Calquence in combination with bendamustine and rituximab
 
 | Adverse reaction   | Bendamustine dose modification †                                                                                                                                                                                                         | Calquence dose modification                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1305,7 +1319,7 @@ Consider prophylaxis according to standard of care in patients who are at increa
 
 ## Cytopenias
 
-Treatment-emergent Grade 3 or 4 cytopenias, including neutropenia, anaemia and thrombocytopenia, occurred in patients with haematologic malignancies treated with Calquence monotherapy and in combination with other medicinal products. Monitor complete blood counts as medically indicated (see section 4.8) .
+Treatment-emergent Grade 3 or 4 cytopenias, including neutropenia, anaemia and thrombocytopenia, occurred in patients with haematologic malignancies treated with Calquence monotherapy and in combination with other medicinal products. Monitor complete blood counts as medically indicated (see section 4.8).
 
 ## Second primary malignancies
 
@@ -1337,17 +1351,17 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that i
 
 Acalabrutinib and its active metabolite are primarily metabolised by cytochrome P450 enzyme 3A4 (CYP3A4), and both substances are substrates for P-gp and breast cancer resistance protein (BCRP).
 
-## Active substances that may increase acalabrutinib plasma concentrations
+Active substances that may increase acalabrutinib plasma concentrations
 
 ## CYP3A/P-gp inhibitors
 
 Co-administration with a strong CYP3A/P-gp inhibitor (200 mg itraconazole once daily for 5 days) increased acalabrutinib Cmax and AUC by 3.9-fold and 5.0-fold in healthy subjects (N=17), respectively.
 
-Concomitant use with strong CYP3A/P-gp inhibitors should be avoided. If the strong CYP3A/ P-gp inhibitors (e.g., ketoconazole, conivaptan, clarithromycin, indinavir, itraconazole, ritonavir, telaprevir, posaconazole, voriconazole) will be used short-term, treatment with Calquence should be interrupted (see section 4.2).
+Concomitant use with strong CYP3A/P-gp inhibitors should be avoided. If the strong CYP3A/P-gp inhibitors (e.g., ketoconazole, conivaptan, clarithromycin, indinavir, itraconazole, ritonavir, telaprevir, posaconazole, voriconazole) will be used short-term, treatment with Calquence should be interrupted (see section 4.2).
 
 Co-administration with moderate CYP3A inhibitors (400 mg fluconazole as single dose or 200 mg isavuconazole as repeated dose for 5 days) in healthy subjects increased acalabrutinib Cmax and AUC by 1.4-fold to 2-fold while the active metabolite ACP-5862 Cmax and AUC was decreased by 0.65-fold to 0.88-fold relative to when acalabrutinib was dosed alone. No dose adjustment is required in combination with moderate CYP3A inhibitors. Monitor patients closely for adverse reactions (see Section 4.2).
 
-## Active substances that may decrease acalabrutinib plasma concentrations
+Active substances that may decrease acalabrutinib plasma concentrations
 
 ## CYP3A inducers
 
@@ -1454,123 +1468,115 @@ Table 4. Adverse drug reactions* of patients with haematological malignancies tr
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA SOC                                        | MedDRA Term                                                                   | All Grades (%)                                                  | Grade ≥ 3 * (%)   |
-|---------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------|
-|                                                   | Thrombocytopenia †                                                            | Very common (11.5)                                              | 6.2               |
-|                                                   | Lymphocytosis                                                                 | Uncommon (0.5)                                                  | 0.3               |
-| Metabolism and nutrition disorders                | Tumour Lysis Syndrome                                                         | Uncommon (0.5)                                                  | 0.4               |
-| Nervous system disorders                          | Headache                                                                      | Very common (36.5)                                              | 1.2               |
-| Nervous system disorders                          | Dizziness                                                                     | Very common (13.9)                                              | 0.1               |
-| Cardiac disorders                                 | Atrial fibrillation/Flutter †                                                 | Common (7.4)                                                    | 2.3               |
-| Vascular disorders                                | Bruising † Contusion Petechiae Ecchymoses                                     | Very common (30.9) Very common (20.7) Common (8.9) Common (5.7) | 0 0 0 0           |
-| Vascular disorders                                | Haemorrhage/haematoma † Gastrointestinal haemorrhage Intracranial haemorrhage | Very common (16.3) Uncommon (0.9) Uncommon (0.1)                | 3.2 0.7 0.1       |
-| Vascular disorders                                | Hypertension †                                                                | Very common (11.9)                                              | 4.9               |
-| Vascular disorders                                | Epistaxis                                                                     | Common (8.0)                                                    | 0.3               |
-| Gastrointestinal disorders                        | Diarrhoea                                                                     | Very common (36.7)                                              | 2.6               |
-| Gastrointestinal disorders                        | Nausea                                                                        | Very common (21.8)                                              | 0.8               |
-| Gastrointestinal disorders                        | Constipation                                                                  | Very common (15.2)                                              | 0.1               |
-| Gastrointestinal disorders                        | Abdominal pain †                                                              | Very common (14.5)                                              | 1.2               |
-| Gastrointestinal disorders                        | Vomiting                                                                      | Very common (14.0)                                              | 0.7               |
-| Skin and subcutaneous tissue disorders            | Rash †                                                                        | Very common (20.3)                                              | 0.9               |
-| Musculoskeletal and connective                    | Musculoskeletal Pain †                                                        | Very common (31.9)                                              | 1.8               |
-| tissue disorders                                  | Arthralgia                                                                    | Very common (24.0)                                              | 0.9               |
-| General disorders and administration              | Fatigue                                                                       | Very common (23.6)                                              | 2.0               |
-| site conditions                                   | Asthenia                                                                      | Common (7.0)                                                    | 0.9               |
-| Investigations § (Findings based on test results) | Haemoglobin decreased ±                                                       | Very common (47.4)                                              | 10.8              |
-| Investigations § (Findings based on test results) | Absolute neutrophil count decreased ±                                         | Very common (43.9)                                              | 24.0              |
-| Investigations § (Findings based on test results) | Platelets decreased ±                                                         | Very common (36.9)                                              | 9.5               |
-
-* Per National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.03.
+| MedDRA SOC                                           | MedDRA Term                                                                   | All Grades (%)                                                  | Grade ≥ 3 * (%)   |
+|------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------|
+|                                                      | Thrombocytopenia †                                                            | Very common (11.5)                                              | 6.2               |
+|                                                      | Lymphocytosis                                                                 | Uncommon (0.5)                                                  | 0.3               |
+| Metabolism and nutrition disorders                   | Tumour Lysis Syndrome                                                         | Uncommon (0.5)                                                  | 0.4               |
+| Nervous system disorders                             | Headache                                                                      | Very common (36.5)                                              | 1.2               |
+| Nervous system disorders                             | Dizziness                                                                     | Very common (13.9)                                              | 0.1               |
+| Cardiac disorders                                    | Atrial fibrillation/Flutter †                                                 | Common (7.4)                                                    | 2.3               |
+| Vascular disorders                                   | Bruising † Contusion Petechiae Ecchymoses                                     | Very common (30.9) Very common (20.7) Common (8.9) Common (5.7) | 0 0 0 0           |
+| Vascular disorders                                   | Haemorrhage/haematoma † Gastrointestinal haemorrhage Intracranial haemorrhage | Very common (16.3) Uncommon (0.9) Uncommon (0.1)                | 3.2 0.7 0.1       |
+| Vascular disorders                                   | Hypertension †                                                                | Very common (11.9)                                              | 4.9               |
+| Vascular disorders                                   | Epistaxis                                                                     | Common (8.0)                                                    | 0.3               |
+| Gastrointestinal disorders                           | Diarrhoea                                                                     | Very common (36.7)                                              | 2.6               |
+| Gastrointestinal disorders                           | Nausea                                                                        | Very common (21.8)                                              | 0.8               |
+| Gastrointestinal disorders                           | Constipation                                                                  | Very common (15.2)                                              | 0.1               |
+| Gastrointestinal disorders                           | Abdominal pain †                                                              | Very common (14.5)                                              | 1.2               |
+| Gastrointestinal disorders                           | Vomiting                                                                      | Very common (14.0)                                              | 0.7               |
+| Skin and subcutaneous tissue disorders               | Rash †                                                                        | Very common (20.3)                                              | 0.9               |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal Pain †                                                        | Very common (31.9)                                              | 1.8               |
+| Musculoskeletal and connective tissue disorders      | Arthralgia                                                                    | Very common (24.0)                                              | 0.9               |
+| General disorders and administration site conditions | Fatigue                                                                       | Very common (23.6)                                              | 2.0               |
+| General disorders and administration site conditions | Oedema peripheral †                                                           | Very common (18.3)                                              | 0.5               |
+| General disorders and administration site conditions | Asthenia                                                                      | Common (7.0)                                                    | 0.9               |
+| Investigations §                                     | Haemoglobin decreased ±                                                       | Very common (47.4)                                              | 10.8              |
+| Investigations §                                     | Absolute neutrophil count decreased ±                                         | Very common (43.9)                                              | 24.0              |
 
 <div style=\"page-break-after: always\"></div>
 
-† Includes multiple ADR term.
-
-± Represents the incidence of laboratory findings, not of reported adverse events.
-
-§ Presented as CTCAE grade values.
+| MedDRA SOC                       | MedDRA Term           | All Grades (%)     |   Grade ≥ 3 * (%) |
+|----------------------------------|-----------------------|--------------------|-------------------|
+| (Findings based on test results) | Platelets decreased ± | Very common (36.9) |               9.5 |
 
 Table 5. Adverse drug reactions* of patients with haematological malignancies treated with acalabrutinib combination therapy (N=1 095)
 
-|                                            | Calquence + Obinutuzumab N=223   | Calquence + Obinutuzumab N=223   | Calquence + BR N=297        | Calquence + BR N=297        | Calquence + venetoclax N=291   | Calquence + venetoclax N=291   | Calquence + venetoclax + obinutuzumab N=284   | Calquence + venetoclax + obinutuzumab N=284   |
-|--------------------------------------------|----------------------------------|----------------------------------|-----------------------------|-----------------------------|--------------------------------|--------------------------------|-----------------------------------------------|-----------------------------------------------|
-| MedDRA SOC and MedDRA Term                 | All Grades (%)                   | Grade ≥ 3* (%)                   | All Grades (%)              | Grade ≥ 3* (%)              | All Grades (%)                 | Grade ≥ 3* (%)                 | All Grades (%)                                | Grade ≥ 3* (%)                                |
-| Infections and infestations                | Infections and infestations      | Infections and infestations      | Infections and infestations | Infections and infestations | Infections and infestations    | Infections and infestations    | Infections and infestations                   | Infections and infestations                   |
-| Upper respiratory tract infection          | Very common (31.4)               | 1.8                              | Very common (18.2)          | 0.3                         | Common (8.2)                   | 0.3                            | Common (6.3)                                  | 0                                             |
-| Sinusitis                                  | Very common (15.2)               | 0.4                              | Common (6.4)                | 0                           | Common (2.7)                   | 0                              | Common (2.5)                                  | 0                                             |
-| Nasopharyngitis                            | Very common (13.5)               | 0.4                              | Common (5.4)                | 0                           | Common (1.4)                   | 0                              | Common (1.1)                                  | 0                                             |
-| Urinary tract infection                    | Very common (13)                 | 0.9                              | Very common (11.1)          | 1.7                         | Common (3.1)                   | 0                              | Common (6.0)                                  | 0.4                                           |
-| Pneumonia                                  | Very common (10.8)               | 5.4                              | Very common (16.2)          | 8.8                         | Common (3.8)                   | 1.4                            | Common (5.3)                                  | 3.9                                           |
-| Bronchitis                                 | Common (9.9)                     | 0                                | Common (6.4)                | 0.3                         | Common (2.1)                   | 0                              | Common (2.5)                                  | 0                                             |
-| Herpes viral infections †                  | Common (6.7)                     | 1.3                              | Very common (12.8)          | 1.0                         | Common (4.8)                   | 0                              | Common (3.5)                                  | 0.4                                           |
-| Progressive multifocal leukoencephalopathy | Uncommon (0.4)                   | 0.4                              | Not known                   | 0                           | Not known                      | 0                              | Not known                                     | 0                                             |
-| Hepatitis B reactivation                   | Uncommon (0.9)                   | 0.1                              | Common (1.3)                | 0.3                         | Not known                      | 0                              | Not known                                     | 0                                             |
-| Aspergillus infections †                   | Not known                        | 0                                | Uncommon (0.3)              | 0.3                         | Not known                      | 0                              | Uncommon (0.4)                                | 0.4                                           |
+| MedDRA SOC and MedDRA Term                 | Calquence + Obinutuzumab N=223 - All Grades (%)   | Calquence + Obinutuzumab N=223 - Grade ≥ 3* (%)   | Calquence + BR N=297 - All Grades (%)   | Calquence + BR N=297 - Grade ≥ 3* (%)   | Calquence + venetoclax N=291 - All Grades (%)   | Calquence + venetoclax N=291 - Grade ≥ 3* (%)   | Calquence + venetoclax + obinutuzumab N=284 - All Grades (%)   | Calquence + venetoclax + obinutuzumab N=284 - Grade ≥ 3* (%)   |
+|--------------------------------------------|---------------------------------------------------|---------------------------------------------------|-----------------------------------------|-----------------------------------------|-------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| Infections and infestations                | Infections and infestations                       | Infections and infestations                       | Infections and infestations             | Infections and infestations             | Infections and infestations                     | Infections and infestations                     | Infections and infestations                                    | Infections and infestations                                    |
+| Upper respiratory tract infection          | Very common (31.4)                                | 1.8                                               | Very common (18.2)                      | 0.3                                     | Common (8.2)                                    | 0.3                                             | Common (6.3)                                                   | 0                                                              |
+| Sinusitis                                  | Very common (15.2)                                | 0.4                                               | Common (6.4)                            | 0                                       | Common (2.7)                                    | 0                                               | Common (2.5)                                                   | 0                                                              |
+| Nasopharyngitis                            | Very common (13.5)                                | 0.4                                               | Common (5.4)                            | 0                                       | Common (1.4)                                    | 0                                               | Common (1.1)                                                   | 0                                                              |
+| Urinary tract infection                    | Very common (13)                                  | 0.9                                               | Very common (11.1)                      | 1.7                                     | Common (3.1)                                    | 0                                               | Common (6.0)                                                   | 0.4                                                            |
+| Pneumonia                                  | Very common (10.8)                                | 5.4                                               | Very common (16.2)                      | 8.8                                     | Common (3.8)                                    | 1.4                                             | Common (5.3)                                                   | 3.9                                                            |
+| Bronchitis                                 | Common (9.9)                                      | 0                                                 | Common (6.4)                            | 0.3                                     | Common (2.1)                                    | 0                                               | Common (2.5)                                                   | 0                                                              |
+| Herpes viral infections †                  | Common (6.7)                                      | 1.3                                               | Very common (12.8)                      | 1.0                                     | Common (4.8)                                    | 0                                               | Common (3.5)                                                   | 0.4                                                            |
+| Progressive multifocal leukoencephalopathy | Uncommon (0.4)                                    | 0.4                                               | Not known                               | 0                                       | Not known                                       | 0                                               | Not known                                                      | 0                                                              |
+| Hepatitis B reactivation                   | Uncommon (0.9)                                    | 0.1                                               | Common (1.3)                            | 0.3                                     | Not known                                       | 0                                               | Not known                                                      | 0                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                             | Calquence + Obinutuzumab N=223              | Calquence + Obinutuzumab N=223              | Calquence + BR N=297                        | Calquence + BR N=297                        | Calquence + venetoclax N=291                | Calquence + venetoclax N=291                | Calquence + venetoclax + obinutuzumab N=284   | Calquence + venetoclax + obinutuzumab N=284   |
-|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| MedDRA SOC and MedDRA Term                  | All Grades (%)                              | Grade ≥ 3* (%)                              | All Grades (%)                              | Grade ≥ 3* (%)                              | All Grades (%)                              | Grade ≥ 3* (%)                              | All Grades (%)                                | Grade ≥ 3* (%)                                |
-| Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified   | Neoplasms benign, malignant and unspecified   |
-| Second primary malignancy † (SPM)           | Very common (13)                            | 4.0                                         | Very common (17.8)                          | 7.4                                         | Common (5.2)                                | 1.7                                         | Common (4.2)                                  | 1.8                                           |
-| Non-melanoma skin malignancy †              | Common (7.6)                                | 0.4                                         | Very common (11.1)                          | 2.0                                         | Common (3.1)                                | 0                                           | Common (1.8)                                  | 0.4                                           |
-| SPM excluding non-melanoma skin †           | Common (6.3)                                | 3.6                                         | Common (9.8)                                | 5.4                                         | Common (2.7)                                | 1.7                                         | Common (2.5)                                  | 1.4                                           |
-| Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders          | Blood and lymphatic system disorders          |
-| Neutropenia †                               | Very common (31.8)                          | 30                                          | Very common (54.9)                          | 50.2                                        | Very Common (37.1)                          | 32.3                                        | Very Common (50.4)                            | 46.1                                          |
-| Thrombocytopenia †                          | Very common (13.9)                          | 9                                           | Very common (22.9)                          | 9.8                                         | Common (5.8)                                | 2.1                                         | Very Common (12.3)                            | 9.2                                           |
-| Anaemia †                                   | Very common (11.7)                          | 5.8                                         | Very common (24.2)                          | 9.4                                         | Common (6.9)                                | 3.8                                         | Common (4.6)                                  | 2.1                                           |
-| Lymphocytosis                               | Uncommon (0.4)                              | 0.4                                         | Uncommon (0.7)                              | 0                                           | Not known                                   | 0                                           | Uncommon (0.7)                                | 0.4                                           |
-| Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders            | Metabolism and nutrition disorders            |
-| Tumour lysis syndrome                       | Common (1.8)                                | 1.3                                         | Common (1.3)                                | 1.3                                         | Uncommon (0.3)                              | 0.3                                         | Uncommon (0.4)                                | 0.4                                           |
-| Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                      | Nervous system disorders                      |
-| Headache                                    | Very common (43)                            | 0.9                                         | Very common (30.3)                          | 1.3                                         | Very Common (35.1)                          | 1.4                                         | Very Common (28.2)                            | 0.4                                           |
-| Dizziness                                   | Very common (23.8)                          | 0                                           | Very common (14.5)                          | 0.7                                         | Common (5.5)                                | 0                                           | Common (6.7)                                  | 0                                             |
-| Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                             | Cardiac disorders                             |
-| Atrial fibrillation/flutter †               | Common (3.1)                                | 0.9                                         | Common (6.7)                                | 4.0                                         | Uncommon (0.7)                              | 0.3                                         | Common (2.1)                                  | 0.7                                           |
+| MedDRA SOC and MedDRA Term                  | Calquence + Obinutuzumab N=223 - All Grades (%)   | Calquence + Obinutuzumab N=223 - Grade ≥ 3* (%)   | Calquence + BR N=297 - All Grades (%)       | Calquence + BR N=297 - Grade ≥ 3* (%)       | Calquence + venetoclax N=291 - All Grades (%)   | Calquence + venetoclax N=291 - Grade ≥ 3* (%)   | Calquence + venetoclax + obinutuzumab N=284 - All Grades (%)   | Calquence + venetoclax + obinutuzumab N=284 - Grade ≥ 3* (%)   |
+|---------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------|---------------------------------------------|-------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| Aspergillus infections †                    | Not known                                         | 0                                                 | Uncommon (0.3)                              | 0.3                                         | Not known                                       | 0                                               | Uncommon (0.4)                                                 | 0.4                                                            |
+| Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified       | Neoplasms benign, malignant and unspecified       | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified     | Neoplasms benign, malignant and unspecified     | Neoplasms benign, malignant and unspecified                    | Neoplasms benign, malignant and unspecified                    |
+| Second primary malignancy † (SPM)           | Very common (13)                                  | 4.0                                               | Very common (17.8)                          | 7.4                                         | Common (5.2)                                    | 1.7                                             | Common (4.2)                                                   | 1.8                                                            |
+| Non-melanoma skin malignancy †              | Common (7.6)                                      | 0.4                                               | Very common (11.1)                          | 2.0                                         | Common (3.1)                                    | 0                                               | Common (1.8)                                                   | 0.4                                                            |
+| SPM excluding non-melanoma skin †           | Common (6.3)                                      | 3.6                                               | Common (9.8)                                | 5.4                                         | Common (2.7)                                    | 1.7                                             | Common (2.5)                                                   | 1.4                                                            |
+| Blood and lymphatic system disorders        | Blood and lymphatic system disorders              | Blood and lymphatic system disorders              | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders            | Blood and lymphatic system disorders            | Blood and lymphatic system disorders                           | Blood and lymphatic system disorders                           |
+| Neutropenia †                               | Very common (31.8)                                | 30                                                | Very common (54.9)                          | 50.2                                        | Very Common (37.1)                              | 32.3                                            | Very Common (50.4)                                             | 46.1                                                           |
+| Thrombocytopenia †                          | Very common (13.9)                                | 9                                                 | Very common (22.9)                          | 9.8                                         | Common (5.8)                                    | 2.1                                             | Very Common (12.3)                                             | 9.2                                                            |
+| Anaemia †                                   | Very common (11.7)                                | 5.8                                               | Very common (24.2)                          | 9.4                                         | Common (6.9)                                    | 3.8                                             | Common (4.6)                                                   | 2.1                                                            |
+| Lymphocytosis                               | Uncommon (0.4)                                    | 0.4                                               | Uncommon (0.7)                              | 0                                           | Not known                                       | 0                                               | Uncommon (0.7)                                                 | 0.4                                                            |
+| Metabolism and nutrition disorders          | Metabolism and nutrition disorders                | Metabolism and nutrition disorders                | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders              | Metabolism and nutrition disorders              | Metabolism and nutrition disorders                             | Metabolism and nutrition disorders                             |
+| Tumour lysis syndrome                       | Common (1.8)                                      | 1.3                                               | Common (1.3)                                | 1.3                                         | Uncommon (0.3)                                  | 0.3                                             | Uncommon (0.4)                                                 | 0.4                                                            |
+| Nervous system disorders                    | Nervous system disorders                          | Nervous system disorders                          | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                        | Nervous system disorders                        | Nervous system disorders                                       | Nervous system disorders                                       |
+| Headache                                    | Very common (43)                                  | 0.9                                               | Very common (30.3)                          | 1.3                                         | Very Common (35.1)                              | 1.4                                             | Very Common (28.2)                                             | 0.4                                                            |
+| Dizziness                                   | Very common (23.8)                                | 0                                                 | Very common (14.5)                          | 0.7                                         | Common (5.5)                                    | 0                                               | Common (6.7)                                                   | 0                                                              |
+| Cardiac disorders                           | Cardiac disorders                                 | Cardiac disorders                                 | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                               | Cardiac disorders                               | Cardiac disorders                                              | Cardiac disorders                                              |
+| Atrial fibrillation/flutter †               | Common (3.1)                                      | 0.9                                               | Common (6.7)                                | 4.0                                         | Uncommon (0.7)                                  | 0.3                                             | Common (2.1)                                                   | 0.7                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | Calquence + Obinutuzumab N=223                  | Calquence + Obinutuzumab N=223                  | Calquence + BR N=297                            | Calquence + BR N=297                            | Calquence + venetoclax N=291                    | Calquence + venetoclax N=291                    | Calquence + venetoclax + obinutuzumab N=284     | Calquence + venetoclax + obinutuzumab N=284     |
-|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| MedDRA SOC and MedDRA Term                      | All Grades (%)                                  | Grade ≥ 3* (%)                                  | All Grades (%)                                  | Grade ≥ 3* (%)                                  | All Grades (%)                                  | Grade ≥ 3* (%)                                  | All Grades (%)                                  | Grade ≥ 3* (%)                                  |
-| Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              |
-| Bruising †                                      | Very common (38.6)                              | 0                                               | Very common (14.1)                              | 0.3                                             | Very common (20.6)                              | 0                                               | Very common (21.8)                              | 0                                               |
-| Contusion                                       | Very common (27.4)                              | 0                                               | Very common (11.1)                              | 0                                               | Very common (14.1)                              | 0                                               | Very common (16.2)                              | 0                                               |
-| Petechiae                                       | Very common (11.2)                              | 0                                               | Common (2.0)                                    | 0                                               | Common (4.8)                                    | 0                                               | Common (5.3)                                    | 0                                               |
-| Ecchymoses                                      | Common (3.1)                                    | 0                                               | Common (3.0)                                    | 0.3                                             | Common (2.7)                                    | 0                                               | Common (3.9)                                    | 0                                               |
-| Haemorrhage/haemat oma †                        | Very common (17.5)                              | 1.3                                             | Very common (15.5)                              | 1.0                                             | Common (8.9)                                    | 0.7                                             | Common (8.5)                                    | 1.1                                             |
-| Gastrointestinal haemorrhage                    | Common (3.6)                                    | 0.9                                             | Uncommo n (0.3)                                 | 0                                               | Uncommo n (0.7)                                 | 0.3                                             | Not known                                       | 0                                               |
-| Intracranial haemorrhage                        | Uncommo n (0.9)                                 | 0                                               | Not known                                       | 0                                               | Not known                                       | 0                                               | Not known                                       | 0                                               |
-| Hypertension †                                  | Very common (13.5)                              | 3.6                                             | Very common (12.5)                              | 5.7                                             | Common (4.1)                                    | 2.7                                             | Common (3.9)                                    | 2.1                                             |
-| Epistaxis                                       | Common (8.5)                                    | 0                                               | Common (2.7)                                    | 0                                               | Common (1.7)                                    | 0                                               | Common (4.2)                                    | 0                                               |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |
-| Pneumonitis ±                                   | -                                               | -                                               | Common (2.4)                                    | 0.3                                             | -                                               | -                                               | -                                               | -                                               |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      |
-| Diarrhoea                                       | Very common (43.9)                              | 4.5                                             | Very common (37.4)                              | 3.0                                             | Very common (32.6)                              | 1.7                                             | Very common (36.3)                              | 1.4                                             |
-| Nausea                                          | Very common (26.9)                              | 0                                               | Very common (42.8)                              | 1.3                                             | Very common (14.8)                              | 0                                               | Very common (21.8)                              | 0.7                                             |
+| MedDRA SOC and MedDRA Term                      | Calquence + Obinutuzumab N=223 - All Grades (%)   | Calquence + Obinutuzumab N=223 - Grade ≥ 3* (%)   | Calquence + BR N=297 - All Grades (%)           | Calquence + BR N=297 - Grade ≥ 3* (%)           | Calquence + venetoclax N=291 - All Grades (%)   | Calquence + venetoclax N=291 - Grade ≥ 3* (%)   | Calquence + venetoclax + obinutuzumab N=284 - All Grades (%)   | Calquence + venetoclax + obinutuzumab N=284 - Grade ≥ 3* (%)   |
+|-------------------------------------------------|---------------------------------------------------|---------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| Vascular disorders                              | Vascular disorders                                | Vascular disorders                                | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                                             | Vascular disorders                                             |
+| Bruising †                                      | Very common (38.6)                                | 0                                                 | Very common (14.1)                              | 0.3                                             | Very common (20.6)                              | 0                                               | Very common (21.8)                                             | 0                                                              |
+| Contusion                                       | Very common (27.4)                                | 0                                                 | Very common (11.1)                              | 0                                               | Very common (14.1)                              | 0                                               | Very common (16.2)                                             | 0                                                              |
+| Petechiae                                       | Very common (11.2)                                | 0                                                 | Common (2.0)                                    | 0                                               | Common (4.8)                                    | 0                                               | Common (5.3)                                                   | 0                                                              |
+| Ecchymoses                                      | Common (3.1)                                      | 0                                                 | Common (3.0)                                    | 0.3                                             | Common (2.7)                                    | 0                                               | Common (3.9)                                                   | 0                                                              |
+| Haemorrhage/haemat oma †                        | Very common (17.5)                                | 1.3                                               | Very common (15.5)                              | 1.0                                             | Common (8.9)                                    | 0.7                                             | Common (8.5)                                                   | 1.1                                                            |
+| Gastrointestinal haemorrhage                    | Common (3.6)                                      | 0.9                                               | Uncommo n (0.3)                                 | 0                                               | Uncommo n (0.7)                                 | 0.3                                             | Not known                                                      | 0                                                              |
+| Intracranial haemorrhage                        | Uncommo n (0.9)                                   | 0                                                 | Not known                                       | 0                                               | Not known                                       | 0                                               | Not known                                                      | 0                                                              |
+| Hypertension †                                  | Very common (13.5)                                | 3.6                                               | Very common (12.5)                              | 5.7                                             | Common (4.1)                                    | 2.7                                             | Common (3.9)                                                   | 2.1                                                            |
+| Epistaxis                                       | Common (8.5)                                      | 0                                                 | Common (2.7)                                    | 0                                               | Common (1.7)                                    | 0                                               | Common (4.2)                                                   | 0                                                              |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders   | Respiratory, thoracic and mediastinal disorders   | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                | Respiratory, thoracic and mediastinal disorders                |
+| Pneumonitis ±                                   | -                                                 | -                                                 | Common (2.4)                                    | 0.3                                             | -                                               | -                                               | -                                                              | -                                                              |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                        | Gastrointestinal disorders                        | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                                     | Gastrointestinal disorders                                     |
+| Diarrhoea                                       | Very common (43.9)                                | 4.5                                               | Very common (37.4)                              | 3.0                                             | Very common (32.6)                              | 1.7                                             | Very common (36.3)                                             | 1.4                                                            |
+| Nausea                                          | Very common (26.9)                                | 0                                                 | Very common (42.8)                              | 1.3                                             | Very common (14.8)                              | 0                                               | Very common (21.8)                                             | 0.7                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                      | Calquence + Obinutuzumab N=223                       | Calquence + Obinutuzumab N=223                       | Calquence + BR N=297                                 | Calquence + BR N=297                                 | Calquence + venetoclax N=291                         | Calquence + venetoclax N=291                         | Calquence + venetoclax + obinutuzumab N=284          | Calquence + venetoclax + obinutuzumab N=284          |
-|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| MedDRA SOC and MedDRA Term                           | All Grades (%)                                       | Grade ≥ 3* (%)                                       | All Grades (%)                                       | Grade ≥ 3* (%)                                       | All Grades (%)                                       | Grade ≥ 3* (%)                                       | All Grades (%)                                       | Grade ≥ 3* (%)                                       |
-| Constipation                                         | Very common (20.2)                                   | 0                                                    | Very common (24.6)                                   | 1.0                                                  | Common (6.5)                                         | 0.3                                                  | Common (8.1)                                         | 0                                                    |
-| Vomiting                                             | Very common (19.3)                                   | 0.9                                                  | Very common (25.6)                                   | 0.7                                                  | Common (5.5)                                         | 0                                                    | Common (6.7)                                         | 0                                                    |
-| Abdominal pain †                                     | Very common (14.8)                                   | 1.3                                                  | Very common (12.1)                                   | 2.0                                                  | Common (7.9)                                         | 1.0                                                  | Common (8.1)                                         | 0.7                                                  |
-| S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              | S kin and subcutaneous tissue disorders              |
-| Rash †                                               | Very common (30.9)                                   | 1.8                                                  | Very common (39.1)                                   | 9.8                                                  | Very common (12.0)                                   | 0.3                                                  | Very common (16.2)                                   | 1.1                                                  |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
-| Musculoskeletal pain                                 | † Very common (44.8)                                 | 2.2                                                  | Very common (34.3)                                   | 3.7                                                  | Very common (24.1)                                   | 0.7                                                  | Very common (21.8)                                   | 1.1                                                  |
-| Arthralgia                                           | Very common (26.9)                                   | 1.3                                                  | Very common (17.5)                                   | 0.7                                                  | Very common (12.7)                                   | 1.0                                                  | Very common (10.9)                                   | 0.4                                                  |
-| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
-| Fatigue                                              | Very common (30.5)                                   | 1.8                                                  | Very common (29.3)                                   | 2.7                                                  | Very common (14.8)                                   | 0.3                                                  | Very common (14.4)                                   | 0                                                    |
-| Asthenia                                             | Common (7.6)                                         | 0.4                                                  | Very common (10.4)                                   | 1.0                                                  | Common (4.1)                                         | 0                                                    | Common (3.2)                                         | 0                                                    |
-| Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     |
-| Absolute neutrophil count decreased §                | Very common (57.4)                                   | 35                                                   | Very common (76.8)                                   | 56.6                                                 | Very common (78.0)                                   | 38.1                                                 | Very common (81.7)                                   | 53.5                                                 |
-| Platelets decreased §                                | Very common (46.2)                                   | 10.8                                                 | Very common (69.4)                                   | 17.8                                                 | Very common (42.6)                                   | 5.2                                                  | Very common (54.9)                                   | 13.7                                                 |
-| Haemoglobin decreased §                              | Very common (43.9)                                   | 9                                                    | Very common (79.5)                                   | 10.8                                                 | Very common (34.7)                                   | 6.5                                                  | Very common (45.8)                                   | 3.5                                                  |
-| Alanine aminotransferase increased ‡                 | -                                                    | -                                                    | Common (9.1)                                         | 4.4                                                  | -                                                    | -                                                    | -                                                    | -                                                    |
+| MedDRA SOC and MedDRA Term                           | Calquence + Obinutuzumab N=223 - All Grades (%)      | Calquence + Obinutuzumab N=223 - Grade ≥ 3* (%)      | Calquence + BR N=297 - All Grades (%)                | Calquence + BR N=297 - Grade ≥ 3* (%)                | Calquence + venetoclax N=291 - All Grades (%)        | Calquence + venetoclax N=291 - Grade ≥ 3* (%)        | Calquence + venetoclax + obinutuzumab N=284 - All Grades (%)   | Calquence + venetoclax + obinutuzumab N=284 - Grade ≥ 3* (%)   |
+|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| Constipation                                         | Very common (20.2)                                   | 0                                                    | Very common (24.6)                                   | 1.0                                                  | Common (6.5)                                         | 0.3                                                  | Common (8.1)                                                   | 0                                                              |
+| Vomiting                                             | Very common (19.3)                                   | 0.9                                                  | Very common (25.6)                                   | 0.7                                                  | Common (5.5)                                         | 0                                                    | Common (6.7)                                                   | 0                                                              |
+| Abdominal pain †                                     | Very common (14.8)                                   | 1.3                                                  | Very common (12.1)                                   | 2.0                                                  | Common (7.9)                                         | 1.0                                                  | Common (8.1)                                                   | 0.7                                                            |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                         | Skin and subcutaneous tissue disorders                         |
+| Rash †                                               | Very common (30.9)                                   | 1.8                                                  | Very common (39.1)                                   | 9.8                                                  | Very common (12.0)                                   | 0.3                                                  | Very common (16.2)                                             | 1.1                                                            |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                | Musculoskeletal and connective tissue disorders                |
+| Musculoskeletal pain                                 | † Very common (44.8)                                 | 2.2                                                  | Very common (34.3)                                   | 3.7                                                  | Very common (24.1)                                   | 0.7                                                  | Very common (21.8)                                             | 1.1                                                            |
+| Arthralgia                                           | Very common (26.9)                                   | 1.3                                                  | Very common (17.5)                                   | 0.7                                                  | Very common (12.7)                                   | 1.0                                                  | Very common (10.9)                                             | 0.4                                                            |
+| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions           | General disorders and administration site conditions           |
+| Fatigue                                              | Very common (30.5)                                   | 1.8                                                  | Very common (29.3)                                   | 2.7                                                  | Very common (14.8)                                   | 0.3                                                  | Very common (14.4)                                             | 0                                                              |
+| Asthenia                                             | Common (7.6)                                         | 0.4                                                  | Very common (10.4)                                   | 1.0                                                  | Common (4.1)                                         | 0                                                    | Common (3.2)                                                   | 0                                                              |
+| Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                               | Investigations ¶                                               |
+| Absolute neutrophil count decreased §                | Very common (57.4)                                   | 35                                                   | Very common (76.8)                                   | 56.6                                                 | Very common (78.0)                                   | 38.1                                                 | Very common (81.7)                                             | 53.5                                                           |
+| Platelets decreased §                                | Very common (46.2)                                   | 10.8                                                 | Very common (69.4)                                   | 17.8                                                 | Very common (42.6)                                   | 5.2                                                  | Very common (54.9)                                             | 13.7                                                           |
+| Haemoglobin decreased §                              | Very common (43.9)                                   | 9                                                    | Very common (79.5)                                   | 10.8                                                 | Very common (34.7)                                   | 6.5                                                  | Very common (45.8)                                             | 3.5                                                            |
+| Alanine aminotransferase increased ‡                 | -                                                    | -                                                    | Common (9.1)                                         | 4.4                                                  | -                                                    | -                                                    | -                                                              | -                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1605,7 +1611,7 @@ Of the 297 patients treated with Calquence in combination with bendamustine and 
 
 Of the 1 478 patients in clinical studies of Calquence monotherapy, 42% were greater than 65 years and less than 75 years of age and 20.6% were 75 years of age or older. No clinically relevant differences in safety or efficacy were observed between patients ≥ 65 years and younger.
 
-Of the 223 patients in clinical studies of Calquence in combination of obinutuzumab, 47% were greater than 65 years  and  less  than  75 years  of  age  and  26%  were  75 years  of  age  or  older.  No  clinically  relevant differences in safety or efficacy were observed between patients ≥ 65 years and younger.
+Of the 223 patients in clinical studies of Calquence in combination of obinutuzumab, 47% were greater than 65 years and less than 75 years of age and 26% were 75 years of age or older. No clinically relevant differences in safety or efficacy were observed between patients ≥ 65 years and younger.
 
 Of the 291 patients treated with Calquence in combination with venetoclax, 28.9% were greater than 65 years and less than 75 years of age and 4.5% were 75 years of age or older. No clinically relevant differences in safety or efficacy were observed between patients ≥ 65 years and younger.
 
@@ -1661,23 +1667,24 @@ Patients were stratified by 17p deletion mutation status (presence versus absenc
 
 Table 6. Baseline patient characteristics in (ELEVATE-TN) patients with previously untreated CLL
 
-| Characteristic                                                                                             | Calquence plus obinutuzumab N=179   | Calquence monotherapy N=179    | Obinutuzumab plus chlorambucil N=177   |
-|------------------------------------------------------------------------------------------------------------|-------------------------------------|--------------------------------|----------------------------------------|
-| Age, years; median (range)                                                                                 | 70 (41-88)                          | 70 (44-87)                     | 71 (46-91)                             |
-| Male;%                                                                                                     | 62                                  | 62                             | 59.9                                   |
-| Caucasian;%                                                                                                | 91.6                                | 95                             | 93.2                                   |
-| ECOG performance status 0-1;%                                                                              | 94.4                                | 92.2                           | 94.4                                   |
-| Median time from diagnosis (months)                                                                        | 30.5                                | 24.4                           | 30.7                                   |
-| Bulky disease with nodes ≥ 5 cm;%                                                                          | 25.7                                | 38                             | 31.1                                   |
-| Cytogenetics/FISH Category;% 17p deletion 11q deletion TP53 mutation Unmutated IGHV Complex karyotype (≥ 3 | 9.5 17.3 11.7                       | 8.9 17.3 10.6 66.5 17.3 0 26.8 | 9 18.6 11.9 65.5 18.1 0.6              |
-| Rai stage;%                                                                                                |                                     |                                |                                        |
-|                                                                                                            | 57.5                                |                                |                                        |
-| abnormalities)                                                                                             | 16.2                                |                                |                                        |
-| 0                                                                                                          | 1.7                                 |                                |                                        |
-| I II                                                                                                       | 30.2                                |                                | 28.2                                   |
-|                                                                                                            | 20.1                                | 24.6                           | 27.1                                   |
-| III                                                                                                        | 26.8                                | 27.9                           | 22.6                                   |
-| IV                                                                                                         | 21.2                                | 20.7                           | 21.5                                   |
+| Characteristic                                                          | Calquence plus obinutuzumab N=179   | Calquence monotherapy N=179    | Obinutuzumab plus chlorambucil N=177   |
+|-------------------------------------------------------------------------|-------------------------------------|--------------------------------|----------------------------------------|
+| Age, years; median (range)                                              | 70 (41-88)                          | 70 (44-87)                     | 71 (46-91)                             |
+| Male; %                                                                 | 62                                  | 62                             | 59.9                                   |
+| Caucasian; %                                                            | 91.6                                | 95                             | 93.2                                   |
+| ECOG performance status 0-1; %                                          | 94.4                                | 92.2                           | 94.4                                   |
+| Median time from diagnosis (months)                                     | 30.5                                | 24.4                           | 30.7                                   |
+| Bulky disease with nodes ≥ 5 cm; %                                      | 25.7                                | 38                             | 31.1                                   |
+| Cytogenetics/FISH Category; % 17p deletion 11q deletion TP53 mutation 0 | 9.5 1.7                             | 8.9 17.3 10.6 66.5 17.3 0 26.8 | 9 18.6 11.9 65.5 18.1 0.6              |
+|                                                                         | 17.3                                |                                |                                        |
+|                                                                         | 11.7                                |                                |                                        |
+| Unmutated IGHV                                                          | 57.5                                |                                |                                        |
+| Complex karyotype (≥ 3 abnormalities)                                   | 16.2                                |                                |                                        |
+| Rai stage; %                                                            |                                     |                                |                                        |
+| I II                                                                    | 30.2                                |                                | 28.2                                   |
+|                                                                         | 20.1                                | 24.6                           | 27.1                                   |
+| III                                                                     | 26.8                                | 27.9                           | 22.6                                   |
+| IV                                                                      | 21.2                                | 20.7                           | 21.5                                   |
 
 The primary endpoint was progression-free survival (PFS) of Calquence+G arm versus GClb arm as assessed by an Independent Review Committee (IRC) per International Workshop on Chronic Lymphocytic Leukaemia (IWCLL) 2008 criteria with incorporation of the clarification for treatment-related lymphocytosis (Cheson 2012). With a median follow-up of 28.3 months, PFS by IRC indicated a 90% statistically significant reduction in the risk of disease progression or death for previously untreated CLL patients in the Calquence+G arm compared to the GClb arm. Efficacy results are presented in Table 7.
 
@@ -1697,7 +1704,7 @@ Table 7. Efficacy results per IRC Assessments in (ELEVATE-TN) patients with CLL
 |----------------------------------------------------|----------------------------------------------------|-------------------------------|----------------------------------------|
 | HR † (95% CI)                                      | 0.10 (0.06, 0.17)                                  | 0.20 (0.13, 0.30)             | -                                      |
 | P-value                                            | < 0.0001                                           | < 0.0001                      | -                                      |
-| 24 months estimate,% (95% CI)                      | 92.7 (87.4, 95.8)                                  | 87.3 (80.9, 91.7)             | 46.7 (38.5, 54.6)                      |
+| 24 months estimate, % (95% CI)                     | 92.7 (87.4, 95.8)                                  | 87.3 (80.9, 91.7)             | 46.7 (38.5, 54.6)                      |
 | Overall Survival a                                 |                                                    |                               |                                        |
 | Death events (%)                                   | 9 (5)                                              | 11 (6.1)                      | 17 (9.6)                               |
 | Hazard Ratio (95% CI) †                            | 0.47 (0.21, 1.06)                                  | 0.60 (0.28, 1.27)             | -                                      |
@@ -1721,22 +1728,20 @@ PFS results for Calquence with or without obinutuzumab were consistent across su
 
 Table 8. Subgroup analysis of PFS (Study ELEVATE-TN)
 
-|                | Calquence monotherapy   | Calquence monotherapy   | Calquence monotherapy     | Calquence+G   | Calquence+G   | Calquence+G               |
-|----------------|-------------------------|-------------------------|---------------------------|---------------|---------------|---------------------------|
-|                | N                       | Hazard Ratio            | 95% CI                    | N             | Hazard Ratio  | 95% CI                    |
-| All subjects   | 179                     | 0.20                    | (0.13, 0.30)              | 179           | 0.10          | (0.06, 0.17)              |
-| Del 17P Yes No | 19 160                  | 0.20 0.20               | (0.06, 0.64) (0.12, 0.31) | 21 158        | 0.13 0.09     | (0.04, 0.46) (0.05, 0.17) |
+|                | Calquence monotherapy - N   | Calquence monotherapy - Hazard Ratio   | Calquence monotherapy - 95% CI   | Calquence+G - N   | Calquence+G - Hazard Ratio   | Calquence+G - 95% CI      |
+|----------------|-----------------------------|----------------------------------------|----------------------------------|-------------------|------------------------------|---------------------------|
+| All subjects   | 179                         | 0.20                                   | (0.13, 0.30)                     | 179               | 0.10                         | (0.06, 0.17)              |
+| Del 17P Yes No | 19 160                      | 0.20 0.20                              | (0.06, 0.64) (0.12, 0.31)        | 21 158            | 0.13 0.09                    | (0.04, 0.46) (0.05, 0.17) |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                     | Calquence monotherapy   | Calquence monotherapy   | Calquence monotherapy     | Calquence+G   | Calquence+G   | Calquence+G               |
-|-------------------------------------|-------------------------|-------------------------|---------------------------|---------------|---------------|---------------------------|
-|                                     | N                       | Hazard Ratio            | 95% CI                    | N             | Hazard Ratio  | 95% CI                    |
-| TP53 mutation Yes No                | 19 160                  | 0.15 0.20               | (0.05, 0.46) (0.12, 0.32) | 21 158        | 0.04 0.11     | (0.01, 0.22) (0.06, 0.20) |
-| Del 17P or/and TP53 mutation Yes No | 23 156                  | 0.23 0.19               | (0.09, 0.61) (0.11, 0.31) | 25 154        | 0.10 0.10     | (0.03, 0.34) (0.05, 0.18) |
-| IGHV mutation Mutated Unmutated     | 58 119                  | 0.69 0.11               | (0.31, 1.56) (0.07, 0.19) | 74 103        | 0.15 0.08     | (0.04, 0.52) (0.04, 0.16) |
-| Del 11q Yes No                      | 31 148                  | 0.07 0.26               | (0.02, 0.22) (0.16, 0.41) | 31 148        | 0.09 0.10     | (0.03, 0.26) (0.05, 0.20) |
-| Complex Karyotype Yes No            | 31 117                  | 0.10 0.27               | (0.03, 0.33) (0.16, 0.46) | 29 126        | 0.09 0.11     | (0.03, 0.29) (0.05, 0.21) |
+|                                     | Calquence monotherapy - N   | Calquence monotherapy - Hazard Ratio   | Calquence monotherapy - 95% CI   | Calquence+G - N   | Calquence+G - Hazard Ratio   | Calquence+G - 95% CI      |
+|-------------------------------------|-----------------------------|----------------------------------------|----------------------------------|-------------------|------------------------------|---------------------------|
+| TP53 mutation Yes No                | 19 160                      | 0.15 0.20                              | (0.05, 0.46) (0.12, 0.32)        | 21 158            | 0.04 0.11                    | (0.01, 0.22) (0.06, 0.20) |
+| Del 17P or/and TP53 mutation Yes No | 23 156                      | 0.23 0.19                              | (0.09, 0.61) (0.11, 0.31)        | 25 154            | 0.10 0.10                    | (0.03, 0.34) (0.05, 0.18) |
+| IGHV mutation Mutated Unmutated     | 58 119                      | 0.69 0.11                              | (0.31, 1.56) (0.07, 0.19)        | 74 103            | 0.15 0.08                    | (0.04, 0.52) (0.04, 0.16) |
+| Del 11q Yes No                      | 31 148                      | 0.07 0.26                              | (0.02, 0.22) (0.16, 0.41)        | 31 148            | 0.09 0.10                    | (0.03, 0.26) (0.05, 0.20) |
+| Complex Karyotype Yes No            | 31 117                      | 0.10 0.27                              | (0.03, 0.33) (0.16, 0.46)        | 29 126            | 0.09 0.11                    | (0.03, 0.29) (0.05, 0.21) |
 
 With long term data, the median follow-up was 58.2 months for Calquence+G arm, 58.1 months for Calquence arm and 58.2 months for the GClb arm. The median investigator assessed PFS for Calquence+G and Calquence monotherapy was not reached; and was 27.8 months in GClb arm. At the time of most recent data cut off, a total of 72 patients (40.7%) originally randomised to the GClb arm crossed over to Calquence monotherapy. The median overall survival had not been reached in any arm with a total of 76 deaths: 18 (10.1%) in the Calquence+G arm, 30 (16.8%) in the Calquence monotherapy arm, and 28 (15.8%) in the GClb arm.
 
@@ -1773,8 +1778,8 @@ Patients were randomised in a 1:1:1 ratio into 3 arms to receive:
 - Calquence plus venetoclax (AV): Calquence 100 mg was administered twice daily starting on Cycle 1 Day 1 for a total of 14 cycles or until disease progression or unacceptable toxicity. On Cycle 3 Day 1 patients started the venetoclax 5-week dose-titration schedule, starting at 20 mg and increasing weekly to 50 mg, 100 mg, 200 mg and finally 400 mg once daily. Venetoclax was administered for a total of 12 cycles. Each cycle was 28 days.
 - Calquence plus venetoclax plus obinutuzumab (AVO): Calquence 100 mg was administered twice daily starting on Cycle 1 Day 1 for a total of 14 cycles or until disease progression or unacceptable toxicity. On Cycle 3 Day 1 patients started the venetoclax 5-week dose-titration schedule, starting at 20 mg and increasing weekly to 50 mg, 100 mg, 200 mg and finally 400 mg once daily. Venetoclax was administered for a total of 12 cycles. Obinutuzumab 1 000 mg was administered on Day 1 or Day 1 and 2 (100 mg on Day 1 and 900 mg on Day 1 or 2), 8 and 15 of Cycle 2 followed by 1 000 mg on Day 1 of Cycles 3-7. Each cycle was 28 days.
 - Investigator's choice of chemoimmunotherapy (FCR/BR):
-- o Fludarabine plus cyclophosphamyde plus rituximab (FCR): Fludarabine (25 mg/m 2 ) and cyclophosphamide (250 mg/m 2 ) were administered on Days 1-3 up to a maximum of 6 cycles. Rituximab was administered at a dose of 375 mg/m 2 on Day 1 Cycle 1 and 500 mg/m 2  on Day 1 of Cycles 2 up to 6. Each cycle was 28 days.
-- o Bendamustine plus rituximab (BR): Bendamustine 90 mg/m 2  was administered on Days 1 and 2 up to maximum of 6 cycles. Rituximab was administered at a dose of 375 mg/m 2 on Day 1 Cycle 1 and 500 mg/m 2  on Day 1 of Cycles 2 up to 6. Each cycle was 28 days.
+- o Fludarabine plus cyclophosphamyde plus rituximab (FCR): Fludarabine (25 mg/m 2 ) and cyclophosphamide (250 mg/m 2 ) were administered on Days 1-3 up to a maximum of 6 cycles. Rituximab was administered at a dose of 375 mg/m 2 on Day 1 Cycle 1 and 500 mg/m 2 on Day 1 of Cycles 2 up to 6. Each cycle was 28 days.
+- o Bendamustine plus rituximab (BR): Bendamustine 90 mg/m 2 was administered on Days 1 and 2 up to maximum of 6 cycles. Rituximab was administered at a dose of 375 mg/m 2 on Day 1 Cycle 1 and 500 mg/m 2 on Day 1 of Cycles 2 up to 6. Each cycle was 28 days.
 
 Patients were stratified by age (&gt; 65 years or ≤ 65 years), IGHV mutational status (mutated versus unmutated), Rai stage (high risk [≥ 3] versus non-high risk) and geographic region (North America and Western Europe versus other). Table 10 summarises the baseline demographics and disease characteristics of the study population.
 
@@ -1785,16 +1790,16 @@ Table 10. Baseline Patient Characteristics in (AMPLIFY) Patients with Previously
 | Characteristic                                       | AV N=291   | AVO N=286   | FCR/BR N=290   |
 |------------------------------------------------------|------------|-------------|----------------|
 | Age, years; median (range)                           | 61 (31-84) | 61 (29-81)  | 61 (26-86)     |
-| Male;%                                               | 61.2       | 69.2        | 63.1           |
-| Caucasian;%                                          | 91.1       | 86.7        | 86.9           |
-| ECOG performance status 0-1;%                        | 90.0       | 95.1        | 90.3           |
+| Male; %                                              | 61.2       | 69.2        | 63.1           |
+| Caucasian; %                                         | 91.1       | 86.7        | 86.9           |
+| ECOG performance status 0-1; %                       | 90.0       | 95.1        | 90.3           |
 | Median time from diagnosis to randomization (months) | 28.5       | 26.1        | 29.6           |
-| Bulky disease with nodes ≥ 5 cm;%                    | 38.8       | 35.0        | 42.8           |
-| Cytogenetics/FISH Category;%                         |            |             |                |
+| Bulky disease with nodes ≥ 5 cm; %                   | 38.8       | 35.0        | 42.8           |
+| Cytogenetics/FISH Category; %                        |            |             |                |
 | 11q deletion                                         | 17.5       | 19.6        | 15.9           |
 | Complex karyotype (≥ 3 abnormalities)                | 15.5       | 16.1        | 14.5           |
-| Unmutated IGHV;%                                     | 57.4       | 59.1        | 59.3           |
-| Rai stage;%                                          |            |             |                |
+| Unmutated IGHV; %                                    | 57.4       | 59.1        | 59.3           |
+| Rai stage; %                                         |            |             |                |
 | 0                                                    | 1.0        | 0.3         | 1.4            |
 | I                                                    | 16.2       | 21.3        | 21.4           |
 | II                                                   | 35.7       | 37.8        | 33.4           |
@@ -1835,7 +1840,7 @@ Patients were randomised 1:1 to receive either:
 - Calquence 100 mg twice daily until disease progression or unacceptable toxicity, or
 - Investigator's choice:
 - o Idelalisib 150 mg twice daily in combination with rituximab 375 mg/m2 IV on Day 1 of the first cycle, followed by 500 mg/m2 IV every 2 weeks for 4 doses, then every 4 weeks for 3 doses for a total of 8 infusions
-- o Bendamustine 70 mg/m 2  (Day 1 and 2 of each 28-day cycle) in combination with rituximab (375 mg/m 2 /500 mg/m 2 ) on Day 1 of each 28-day cycle for up to 6 cycles
+- o Bendamustine 70 mg/m 2 (Day 1 and 2 of each 28-day cycle) in combination with rituximab (375 mg/m 2 /500 mg/m 2 ) on Day 1 of each 28-day cycle for up to 6 cycles
 
 Patients were stratified by 17p deletion mutation status (presence versus absence), ECOG performance status (0 or 1 versus 2) and number of prior therapies (1 to 3 versus ≥ 4). After confirmed disease progression, 35 patients randomised on investigator's choice of either idelalisib plus rituximab or bendamustine plus rituximab crossed over to Calquence. Table 12 summarizes the baseline demographics and disease characteristics of the study population.
 
@@ -1846,25 +1851,27 @@ Table 12. Baseline patient characteristics in (ASCEND) patients with CLL
 | Characteristic                               | Calquence monotherapy N=155   | Investigator's choice of idelalisib + rituximab or bendamustine + rituximab N=155   |
 |----------------------------------------------|-------------------------------|-------------------------------------------------------------------------------------|
 | Age, years; median (range)                   | 68 (32-89)                    | 67 (34-90)                                                                          |
-| Male;%                                       | 69.7                          | 64.5                                                                                |
-| Caucasian;%                                  | 93.5                          | 91.0                                                                                |
-| ECOG performance status;%                    |                               |                                                                                     |
+| Male; %                                      | 69.7                          | 64.5                                                                                |
+| Caucasian; %                                 | 93.5                          | 91.0                                                                                |
+| ECOG performance status; %                   |                               |                                                                                     |
 | 0                                            | 37.4                          | 35.5                                                                                |
 | 1                                            | 50.3                          | 51.0                                                                                |
 | 2                                            | 12.3                          | 13.5                                                                                |
 | Median time from diagnosis (months)          | 85.3                          | 79.0                                                                                |
-| Bulky disease with nodes ≥ 5 cm;%            | 49.0                          | 48.4                                                                                |
+| Bulky disease with nodes ≥ 5 cm; %           | 49.0                          | 48.4                                                                                |
 | Median number of prior CLL therapies (range) | 1 (1-8)                       | 2 (1-10)                                                                            |
-| Number of Prior CLL Therapies;%              |                               |                                                                                     |
-| 1 2 3 ≥ 4                                    | 52.9 25.8 11.0 10.3           | 43.2 29.7 15.5 11.6                                                                 |
-| Cytogenetics/FISH Category;%                 |                               |                                                                                     |
+| Number of Prior CLL Therapies; % 1 2 3 ≥ 4   | 52.9 25.8 11.0 10.3           | 43.2 29.7 15.5 11.6                                                                 |
+| Cytogenetics/FISH Category; %                |                               |                                                                                     |
 | 17p deletion                                 | 18.1                          | 13.5                                                                                |
 | 11q deletion                                 | 25.2                          | 28.4                                                                                |
-| TP53 mutation                                | 25.2                          | 21.9                                                                                |
-| Unmutated IGHV                               | 76.1                          | 80.6                                                                                |
-| Complex karyotype (≥3 abnormalities)         | 32.3                          | 29.7                                                                                |
-| Rai Stage;%                                  |                               |                                                                                     |
+| TP53                                         | 25.2                          |                                                                                     |
+| Unmutated IGHV                               |                               | 80.6                                                                                |
+| Rai Stage;                                   |                               |                                                                                     |
 | 0                                            | 1.3                           | 2.6                                                                                 |
+| mutation                                     |                               | 21.9                                                                                |
+|                                              | 76.1                          |                                                                                     |
+| Complex karyotype (≥3 abnormalities)         | 32.3                          | 29.7                                                                                |
+| %                                            |                               |                                                                                     |
 | I                                            | 25.2                          | 20.6                                                                                |
 | II                                           | 31.6                          | 34.8                                                                                |
 | III                                          | 13.5                          | 11.6                                                                                |
@@ -1888,7 +1895,7 @@ Table 13. Efficacy results per IRC Assessments in (ASCEND) patients with CLL
 | Median (95% CI), months                              | NR                                                   | 16.5 (14.0, 17.1)                                                                   |
 | HR † (95% CI)                                        | 0.31 (0.20, 0.49)                                    | 0.31 (0.20, 0.49)                                                                   |
 | P-value                                              | < 0.0001                                             | < 0.0001                                                                            |
-| 15 months estimate, %(95% CI)                        | 82.6 (75.0, 88.1)                                    | 54.9 (45.4, 63.5)                                                                   |
+| 15 months estimate, % (95% CI)                       | 82.6 (75.0, 88.1)                                    | 54.9 (45.4, 63.5)                                                                   |
 | Overall survival a                                   |                                                      |                                                                                     |
 | Death events (%)                                     | 15 (9.7)                                             | 18(11.6)                                                                            |
 | Hazard Ratio (95% CI) †                              | 0.84 (0.42, 1.66)                                    | -                                                                                   |
@@ -1904,7 +1911,7 @@ CI=confidence interval; HR=hazard ratio; NR=not reached; CR=complete response; C
 
 * Per IRC assessment.
 
-a  Median OS not reached for both arms. P&lt;0.6089 for OS.
+a Median OS not reached for both arms. P&lt;0.6089 for OS.
 
 **CRi and nPR have values of 0.
 
@@ -1913,6 +1920,10 @@ a  Median OS not reached for both arms. P&lt;0.6089 for OS.
 Figure 3. Kaplan-Meier curve of IRC-assessed PFS in (ASCEND) patients with CLL (ITT Population)
 
 <!-- image -->
+
+7
+
+9
 
 10
 
@@ -1927,6 +1938,23 @@ Figure 3. Kaplan-Meier curve of IRC-assessed PFS in (ASCEND) patients with CLL (
 15
 
 Time from randomisation (months)
+
+| Number of patients at risk 4 5 6 147 146 145 143 144 142 136 130   |
+|--------------------------------------------------------------------|
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
 
 16
 
@@ -1944,40 +1972,33 @@ Time from randomisation (months)
 
 23
 
-| Number of patients at risk   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |    |    |    |       |    |       |    |    |    |    |
-|------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----|----|----|-------|----|-------|----|----|----|----|
-| Month                        |   0 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |  11 |  12 |  13 | 14 | 15 |    | 16 17 |    | 18    | 20 | 21 | 22 | 23 |
-| Calquence                    | 155 | 153 | 153 | 149 | 147 | 146 | 145 | 143 | 143 | 139 | 139 | 137 | 118 | 116 | 73 | 61 | 60 | 25    | 21 | 19 21 |  1 |  1 |  1 |  0 |
-| Investigator's Choice        | 155 | 150 | 150 | 146 | 144 | 142 | 136 | 130 | 129 | 112 | 105 | 101 |  82 |  77 |    | 56 | 44 | 39 18 | 10 | 8     |  0 |    |    |    |
-
 <div style=\"page-break-after: always\"></div>
 
 PFS results for Calquence were consistent across subgroups, including high risk features. In the high risk CLL population (17p deletion, 11q deletion, TP53 mutation and unmutated IGHV), the PFS HR was 0.27 [95% CI (0.17, 0.44)].
 
 Table 14. Subgroup analysis of IRC-assessed PFS (Study ASCEND)
 
-|                          | Calquence monotherapy   | Calquence monotherapy   | Calquence monotherapy     |
-|--------------------------|-------------------------|-------------------------|---------------------------|
-|                          | N                       | Hazard Ratio            | 95% CI                    |
-| All subjects             | 155                     | 0.30                    | (0.19, 0.48)              |
-| Del 17P                  |                         |                         |                           |
-| Yes                      | 28                      | 0.21                    | (0.07, 0.68) (0.21, 0.54) |
-| No                       | 127                     | 0.33                    |                           |
-| TP53 mutation            |                         |                         |                           |
-| Yes                      | 39                      | 0.24                    | (0.11, 0.56) (0.20, 0.57) |
-| No                       | 113                     | 0.33                    |                           |
-| Del 17P or TP53 mutation |                         |                         |                           |
-| Yes                      | 45                      | 0.21                    | (0.09, 0.48) (0.21, 0.61) |
-| No                       | 108                     | 0.36                    |                           |
-| IGHV mutation            |                         |                         |                           |
-| Mutated                  | 33                      | 0.32                    | (0.11, 0.94) (0.19, 0.52) |
-| Unmutated                | 118                     | 0.32                    |                           |
-| Del 11q                  |                         |                         |                           |
-| Yes                      | 39                      | 0.28                    | (0.11, 0.70) (0.19, 0.53) |
-| No                       | 116                     | 0.31                    |                           |
-| Complex Karyotype        |                         |                         |                           |
-| Yes                      | 50                      | 0.32                    | (0.16, 0.63) (0.12, 0.44) |
-| No                       | 97                      | 0.23                    |                           |
+|                          |   Calquence monotherapy - N |   Calquence monotherapy - Hazard Ratio | Calquence monotherapy - 95% CI   |
+|--------------------------|-----------------------------|----------------------------------------|----------------------------------|
+| All subjects             |                         155 |                                   0.30 | (0.19, 0.48)                     |
+| Del 17P                  |                             |                                        |                                  |
+| Yes                      |                          28 |                                   0.21 | (0.07, 0.68) (0.21, 0.54)        |
+| No                       |                         127 |                                   0.33 |                                  |
+| TP53 mutation            |                             |                                        |                                  |
+| Yes                      |                          39 |                                   0.24 | (0.11, 0.56) (0.20, 0.57)        |
+| No                       |                         113 |                                   0.33 |                                  |
+| Del 17P or TP53 mutation |                             |                                        |                                  |
+| Yes                      |                          45 |                                   0.21 | (0.09, 0.48) (0.21, 0.61)        |
+| No                       |                         108 |                                   0.36 |                                  |
+| IGHV mutation            |                             |                                        |                                  |
+| Mutated                  |                          33 |                                   0.32 | (0.11, 0.94) (0.19, 0.52)        |
+| Unmutated                |                         118 |                                   0.32 |                                  |
+| Del 11q                  |                             |                                        |                                  |
+| Yes                      |                          39 |                                   0.28 | (0.11, 0.70) (0.19, 0.53)        |
+| No                       |                         116 |                                   0.31 |                                  |
+| Complex Karyotype        |                             |                                        |                                  |
+| Yes                      |                          50 |                                   0.32 | (0.16, 0.63) (0.12, 0.44)        |
+| No                       |                          97 |                                   0.23 |                                  |
 
 At final analysis, with a median follow-up of 46.5 months for Calquence and 45.3 months for the IR/BR, a 72% reduction in risk of investigator-assessed disease progression or death was observed for patients in the Calquence arm. The median investigator assessed PFS was not reached in Calquence and was 16.8 months in IR/BR. Efficacy results per Investigator Assessments (INV) are presented in Table 15. The Kaplan-Meier curve for INV assessed PFS is shown in Figure 4.
 
@@ -2004,7 +2025,7 @@ CI=confidence interval; HR=hazard ratio; NR=not reached; PD=progressive disease
 
 * Per INV assessment.
 
-a  Median OS not reached for both arms P=0.0783 for OS.
+a Median OS not reached for both arms P=0.0783 for OS.
 
 † Based on stratified Cox-Proportional-Hazards model.
 
@@ -2014,10 +2035,10 @@ Figure 4. Kaplan-Meier curve of INV-assessed PFS at final analysis in (ASCEND) p
 
 Time from randomization (months)
 
-| Month                 |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 | 42    |   45 |   48 |   51 54 |
-|-----------------------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|-------|------|------|---------|
-| Calquence             | 155 | 151 | 143 | 139 |  133 |  128 |  121 |  117 |  111 |  110 |  100 |   94 |   85 |   80 | 79 52 |   21 |    4 |       0 |
-| Investigator's Choice | 155 | 147 | 138 | 118 |   95 |   76 |   66 |   62 |   52 |   42 |   35 |   32 |   28 |   26 | 23 12 |    5 |    0 |         |
+| Month                 |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 |   45 |   48 |   51 |   54 |
+|-----------------------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Calquence             | 155 | 151 | 143 | 139 |  133 |  128 |  121 |  117 |  111 |  110 |  100 |   94 |   85 |   80 |   79 |   52 |   21 |    4 |    0 |
+| Investigator's Choice | 155 | 147 | 138 | 118 |   95 |   76 |   66 |   62 |   52 |   42 |   35 |   32 |   28 |   26 |   23 |   12 |    5 |    0 |      |
 
 Investigator assessed PFS results at final analysis for Calquence were consistent across subgroups, including high risk features and were consistent with the primary analysis.
 
@@ -2033,7 +2054,7 @@ cycles. Calquence + BR was administered for a maximum of 6 treatment cycles (ind
 
 - Placebo plus bendamustine and rituximab (Placebo + BR) arm: Placebo was administered twice daily from Day 1 of Cycle 1, continuously. Bendamustine, 90 mg/m 2 , was intravenously administered over 30 minutes on Days 1 and 2 of each of six 28-day cycles; and rituximab, 375 mg/m 2 , was intravenously administered on Day 1 of each cycle of six 28-day cycles. Placebo + BR was administered for a maximum of 6 treatment cycles (induction treatment).
 
-Calquence or placebo was administered continuously until disease progression or unacceptable toxicity. After the induction treatment, patients who were achieving a response (PR or CR) received rituximab maintenance at 375 mg/m 2  on Day 1 of every other cycle for maximum of 12 additional doses up to Cycle 30. Patients randomised to placebo + BR arm who had confirmed PD were eligible to cross over to Calquence monotherapy at 100 mg twice daily dose until their second disease progression or unacceptable toxicity.
+Calquence or placebo was administered continuously until disease progression or unacceptable toxicity. After the induction treatment, patients who were achieving a response (PR or CR) received rituximab maintenance at 375 mg/m 2 on Day 1 of every other cycle for maximum of 12 additional doses up to Cycle 30. Patients randomised to placebo + BR arm who had confirmed PD were eligible to cross over to Calquence monotherapy at 100 mg twice daily dose until their second disease progression or unacceptable toxicity.
 
 Patient randomisation was stratified by geographic region (North America versus Western Europe versus Other) and simplified MIPI (Mantle Cell Lymphoma International Prognostic Index) score (0-3 versus 4-5 versus 6-11).
 
@@ -2053,7 +2074,7 @@ Table 16. Efficacy Results in Patients with previously untreated MCL in ECHO
 | Median (95% CI)            | 66.4 (55.1, NE)        | 49.6 (36.0, 64.1)    |
 | HR (95% CI) (stratified) * | 0.73 (0.57, 0.94)      | 0.73 (0.57, 0.94)    |
 | p-value ‡                  | 0.0160                 | 0.0160               |
-| IRC-assessedORR            |                        |                      |
+| IRC-assessed ORR           |                        |                      |
 | CR + PR n (%)              | 272 (91.0)             | 263 (88.0)           |
 | 95% CI                     | 87.3,93.8              | 83.9, 91.3           |
 | CR n (%)                   | 199 (66.6)             | 160 (53.5)           |
@@ -2082,7 +2103,7 @@ At final analysis, the median age was 68 (range 42 to 90) years, 79.8% were male
 
 Table 17. ORR and DOR in (ACE-LY-004) Patients with MCL at 54 months final analysis
 
-|                                                                                                                                             | Investigator Assessment at 54 month s N=124 n (%) (95% CI * )                                                                               |
+|                                                                                                                                             | Investigator Assessment at 54 months N=124 n (%) (95% CI * )                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | Overall Response Rate (ORR)                                                                                                                 |                                                                                                                                             |
 | Overall Response Rate                                                                                                                       | 101 (81.5%) (73.5, 87.9)                                                                                                                    |
@@ -2119,7 +2140,7 @@ Reversible binding to human plasma protein was 99.4% for acalabrutinib and 98.8%
 
 ## Biotransformation/Metabolism
 
-In vitro , acalabrutinib is predominantly metabolised by CYP3A enzymes, and to a minor extent by glutathione conjugation and amide hydrolysis. ACP-5862 was identified as the major metabolite in plasma, that was further metabolized primarily by CYP3A-mediated oxidation, with a geometric mean exposure (AUC) that was approximately 2 to 3-fold higher than the exposure of acalabrutinib. ACP-5862 is approximately 50% less potent than acalabrutinib with regard to BTK inhibition.
+In vitro, acalabrutinib is predominantly metabolised by CYP3A enzymes, and to a minor extent by glutathione conjugation and amide hydrolysis. ACP-5862 was identified as the major metabolite in plasma, that was further metabolized primarily by CYP3A-mediated oxidation, with a geometric mean exposure (AUC) that was approximately 2 to 3-fold higher than the exposure of acalabrutinib. ACP-5862 is approximately 50% less potent than acalabrutinib with regard to BTK inhibition.
 
 In vitro studies indicate that acalabrutinib does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, UGT1A1 or UGT2B7 at clinically relevant concentrations and is unlikely to affect clearance of substrates of these CYPs.
 
@@ -2153,7 +2174,7 @@ No pharmacokinetic studies were performed with Calquence in patients under 18 ye
 
 Acalabrutinib undergoes minimal renal elimination. A pharmacokinetic study in patients with renal impairment has not been conducted.
 
-Based on population PK analysis, no clinically relevant PK difference was observed in 408 subjects with mild renal impairment (eGFR between 60 and 89 mL/min/1.73m 2  as estimated by MDRD), 109 subjects with moderate renal impairment (eGFR between 30 and 59 mL/min/1.73m 2 ) relative to 192  subjects with normal renal function (eGFR greater than or equal to 90 mL/min/1.73m 2 ). The pharmacokinetics of acalabrutinib has not been characterised in patients with severe renal impairment (eGFR less than 29 mL/min/1.73m 2 ) or renal impairment requiring dialysis. Patients with creatinine levels greater than 2.5 times the institutional ULN were not included in the clinical studies (see section 4.2).
+Based on population PK analysis, no clinically relevant PK difference was observed in 408 subjects with mild renal impairment (eGFR between 60 and 89 mL/min/1.73m 2 as estimated by MDRD), 109 subjects with moderate renal impairment (eGFR between 30 and 59 mL/min/1.73m 2 ) relative to 192 subjects with normal renal function (eGFR greater than or equal to 90 mL/min/1.73m 2 ). The pharmacokinetics of acalabrutinib has not been characterised in patients with severe renal impairment (eGFR less than 29 mL/min/1.73m 2 ) or renal impairment requiring dialysis. Patients with creatinine levels greater than 2.5 times the institutional ULN were not included in the clinical studies (see section 4.2).
 
 ## Hepatic impairment
 
@@ -2169,7 +2190,7 @@ Carcinogenicity studies have not been conducted with acalabrutinib.
 
 Acalabrutinib was not mutagenic in a bacterial reverse mutation assay, in an in vitro chromosome aberration assay or in an in vivo mouse bone marrow micronucleus assay.
 
-Based on phototoxicity assays using 3T3 cell line in vitro , acalabrutinib is considered to have a low risk for phototoxicity in humans.
+Based on phototoxicity assays using 3T3 cell line in vitro, acalabrutinib is considered to have a low risk for phototoxicity in humans.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2198,12 +2219,11 @@ Mannitol (E421) Microcrystalline cellulose (E460) Low-substituted hydroxypropyl 
 | Tablet coating                                                                                                                 | Tablet coating                                                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | Hypromellose (E464)                                                                                                            | Hypromellose (E464)                                                                                                            |
-| Copovidone                                                                                                                     | Copovidone                                                                                                                     |
+| Copovidone                                                                                                                     |                                                                                                                                |
 | Titanium dioxide (E171)                                                                                                        | Titanium dioxide (E171)                                                                                                        |
 | Macrogol                                                                                                                       | Macrogol                                                                                                                       |
 | Medium-chain triglycerides                                                                                                     | Medium-chain triglycerides                                                                                                     |
-| Iron oxide yellow (E172)                                                                                                       | Iron oxide yellow (E172)                                                                                                       |
-| Iron oxide red (E172)                                                                                                          | Iron oxide red (E172)                                                                                                          |
+| Iron oxide yellow (E172) Iron oxide red (E172)                                                                                 | Iron oxide yellow (E172) Iron oxide red (E172)                                                                                 |
 | 6.2                                                                                                                            | Incompatibilities                                                                                                              |
 | Not applicable.                                                                                                                | Not applicable.                                                                                                                |
 | 6.3                                                                                                                            | Shelf life                                                                                                                     |
@@ -2215,7 +2235,7 @@ Mannitol (E421) Microcrystalline cellulose (E460) Low-substituted hydroxypropyl 
 | Not all pack sizes may be marketed.                                                                                            | Not all pack sizes may be marketed.                                                                                            |
 | 6.6                                                                                                                            | Special precautions for disposal                                                                                               |
 | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                    | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                    |
-| 7.                                                                                                                             | MARKETING AUTHORISATIONHOLDER                                                                                                  |
+| 7.                                                                                                                             | MARKETING AUTHORISATION HOLDER                                                                                                 |
 | AstraZeneca AB SE-151 85 Södertälje                                                                                            | AstraZeneca AB SE-151 85 Södertälje                                                                                            |
 | Sweden                                                                                                                         | Sweden                                                                                                                         |
 | 8.                                                                                                                             | MARKETING AUTHORISATION NUMBER(S)                                                                                              |
@@ -2227,7 +2247,9 @@ EU/1/20/1479/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 05 November 2020 Date of latest renewal:
+Date of first authorisation: 05 November 2020
+
+Date of latest renewal: 28 July 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -2238,9 +2260,12 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2280,6 +2305,8 @@ An updated RMP should be submitted:
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2329,9 +2356,11 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB Sweden
+AstraZeneca AB
 
 SE-151 85 Södertälje
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2342,9 +2371,7 @@ EU/1/20/1479/001 56 hard capsules EU/1/20/1479/002 60 hard capsules
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 calquence
@@ -2358,8 +2385,6 @@ calquence
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -2397,7 +2422,9 @@ CARTON 100 MG TABLET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Calquence 100 mg film-coated tablets acalabrutinib
+Calquence 100 mg film-coated tablets
+
+acalabrutinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2407,7 +2434,7 @@ Each film-coated tablet contains 100 mg of acalabrutinib (as acalabrutinib malea
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+Film-coated tablets
 
 56 film-coated tablets
 
@@ -2437,7 +2464,9 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB SE-151 85 Södertälje Sweden
+AstraZeneca AB SE-151 85 Södertälje
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2450,17 +2479,13 @@ EU/1/20/1479/004 60 film-coated tablets
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 calquence
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
+2. 2D barcode carrying the unique identifier included.
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
@@ -2473,7 +2498,7 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER 100 MG TABLET
+## BLISTER 100 MG TABLET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2562,8 +2587,8 @@ If you are not sure, talk to your doctor, pharmacist or nurse before taking Calq
 
 Talk to your doctor, pharmacist or nurse before taking Calquence if you:
 
-- have ever had unusual bruising or bleeding or are on any medicines  that increase your risk of bleeding (see section 4 'Possible side effects').
-- have an infection (see section 4 'Possible side effects')
+- have ever had unusual bruising or bleeding or are on any medicines that increase your risk of bleeding (see section 4 'Possible side effects').
+- have an infection (see section 4 \"Possible side effects')
 - have recently had an operation or are about to have one. Your doctor may stop treatment with Calquence before and after a medical, surgical or dental procedure.
 - have ever had hepatitis B (a liver infection) - this is because Calquence could cause hepatitis B to become active again and so that your doctor will look out for signs of this infection coming back (see section 4 'Possible side effects').
 - have or ever had irregular heart beat (see section 4 'Possible side effects').
@@ -2598,8 +2623,8 @@ Tell your doctor, pharmacist or nurse if you are taking or have recently taken o
 
 <div style=\"page-break-after: always\"></div>
 
-- o antacids  - such as calcium carbonate. Take Calquence2 hours before or 2 hours after you take these medicines.
-- o histamine-2 receptor blockers - such as ranitidine  and famotidine. Take Calquence 2 hours before or 10 hours after you take these medicines.
+- o antacids - such as calcium carbonate. Take Calquence2 hours before or 2 hours after you take these medicines.
+- o histamine-2 receptor blockers - such as ranitidine and famotidine. Take Calquence 2 hours before or 10 hours after you take these medicines.
 - o proton pump inhibitors - such as omeprazole. Avoid taking these medicines while you are taking Calquence.
 - methotrexate - a medicine for diseases such as rheumatoid arthritis, psoriasis and ulcerative colitis, which are caused by the immune system working incorrectly.
 - o This medicine should be taken at least 6 hours before or after Calquence.
@@ -2661,7 +2686,7 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 ## 4. Possible side effects
 
-Like all medicines, this medicine  can cause  side effects, although not everybody gets them.
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 ## Stop taking Calquence and contact a doctor or go to your nearest emergency department immediately if you experience any of the following symptoms:
 
@@ -2677,7 +2702,7 @@ Like all medicines, this medicine  can cause  side effects, although not everybo
 
 ## Other side effects:
 
-## Very common (may affect more than 1 in 10 people) :
+## Very common (may affect more than 1 in 10 people):
 
 - muscle or joint pain
 - headache
@@ -2688,8 +2713,9 @@ Like all medicines, this medicine  can cause  side effects, although not everybo
 
 <div style=\"page-break-after: always\"></div>
 
-- high blood pressure
+- swelling especially of the ankles and feet
 - dizziness
+- high blood pressure
 - headache, pressure in the eyes, nose or cheek area (sinusitis)
 - sore throat and runny nose (nasopharyngitis)
 - upper respiratory tract infection
@@ -2701,10 +2727,10 @@ Like all medicines, this medicine  can cause  side effects, although not everybo
 
 - increased levels of the liver enzymes (aspartate aminotransferase and alanine aminotransferase) in blood tests [when used in combination with certain medicines to treat mantle cell lymphoma (MCL)].
 - bronchitis
-- fever, chills, weakness, confusion, being sick and yellowing of the skin or eyeballs (jaundice) these may be signs of hepatitis B (a liver infection) becoming active again.
+- fever, chills, weakness, confusion, being sick and yellowing of the skin or eyeballs (jaundice) - these may be signs of hepatitis B (a liver infection) becoming active again.
 - inflammation of the lungs (pneumonitis)
 
-## Uncommon side effects (may affect up to 1 in 100 people):
+Uncommon side effects (may affect up to 1 in 100 people):
 
 - memory loss, trouble thinking, difficulty walking or sight loss - these may be signs of a serious brain infection (Progressive Multifocal Leukoencephalopathy or PML).
 - lymphocytosis (a higher than normal amount of lymphocytes, a type of white blood cells, in the blood).
@@ -2717,7 +2743,7 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date  which is stated on the blister foil and carton after EXP. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the blister foil and carton after EXP. The expiry date refers to the last day of that month.
 
 This medicine does not require any special storage conditions.
 
@@ -2733,13 +2759,13 @@ The other ingredients are:
 
 <div style=\"page-break-after: always\"></div>
 
-- Capsule content: microcrystalline cellulose, colloidal anhydrous silica, partially pregelatinised maize starch , magnesium stearate (E470b) and sodium starch glycollate (see section 2 'Calquence contains sodium').
+- Capsule content: microcrystalline cellulose, colloidal anhydrous silica, partially pregelatinised maize starch , magnesium stearate (E470b) and sodium starch glycollate (see section 2 \"Calquence contains sodium\").
 - Capsule shell: gelatine, titanium dioxide (E171), yellow iron oxide (E172) and indigo carmine (E132).
 - Printing ink: shellac, black iron oxide (E172), propylene glycol (E1520) and ammonium hydroxide.
 
 ## What Calquence looks like and contents of the pack
 
-Calquence is a 20 mm hard gelatine capsule with a yellow body and blue cap, marked with 'ACA 100 mg' in black.
+Calquence is a 20 mm hard gelatine capsule with a yellow body and blue cap, marked with \"ACA 100 mg\" in black.
 
 Calquence is supplied in aluminium blisters containing either 6 or 8 hard capsules. Each carton contains either 56 or 60 hard capsules.
 
@@ -2747,11 +2773,15 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-AstraZeneca AB SE-151 85 Södertälje Sweden
+AstraZeneca AB SE-151 85 Södertälje
+
+Sweden
 
 ## Manufacturer
 
-AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
+AstraZeneca AB Gärtunavägen SE-152 57 Södertälje
+
+Sweden
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2759,17 +2789,11 @@ For any information about this medicine, please contact the local representative
 
 AstraZeneca S.A./N.V. Tel: +32 2 370 48 11
 
-## Lietuva
-
-UAB AstraZeneca Lietuva Tel: +370 5 2660550
-
 ## България
 
-АстраЗенека България ЕООД Тел: +359 24455000
+АстраЗенека България ЕООД
 
-## Luxembourg/Luxemburg
-
-AstraZeneca S.A./N.V. Tél/Tel: +32 2 370 48 11
+Тел: +359 24455000
 
 ## Česká republika
 
@@ -2777,27 +2801,39 @@ AstraZeneca Czech Republic s.r.o.
 
 Tel: +420 222 807 111
 
-## Magyarország
-
-AstraZeneca Kft.
-
-Tel: +36 1 883 6500
-
 ## Danmark
 
 AstraZeneca A/S
 
 Tlf.: +45 43 66 64 62
 
+## Deutschland
+
+AstraZeneca GmbH
+
+Tel: +49 40 809034100
+
+## Lietuva
+
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
+
+## Luxembourg/Luxemburg
+
+AstraZeneca S.A./N.V.
+
+Tél/Tel: +32 2 370 48 11
+
+## Magyarország
+
+AstraZeneca Kft.
+
+Tel: +36 1 883 6500
+
 ## Malta
 
 Associated Drug Co. Ltd
 
 Tel: +356 2277 8000
-
-## Deutschland
-
-AstraZeneca GmbH Tel: +49 40 809034100
 
 ## Nederland
 
@@ -2859,9 +2895,7 @@ Tel: +39 02 00704500
 
 ## Κύπρος
 
-Αλέκτωρ Φαρµακευτική Λτδ
-
-Τηλ: +357 22490305
+Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305
 
 ## Latvija
 
@@ -3102,7 +3136,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Other side effects:
 
-## Very common (may affect more than 1 in 10 people) :
+## Very common (may affect more than 1 in 10 people):
 
 - muscle or joint pain
 - headache
@@ -3110,13 +3144,14 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - feeling tired (fatigue), weakness or lack of energy
 - feeling sick to your stomach (nausea),vomiting, stomach pain, constipation (infrequent or hard to pass stool), diarrhoea (frequent or loose stools)
 - decreased number of red blood cells, decreased number of neutrophils (a type of white blood cells) or decreased number of cells that help blood clot (platelets)
-- high blood pressure
+- swelling especially of the ankles and feet
 - dizziness
+- high blood pressure
 - headache, pressure in the eyes, nose or cheek area (sinusitis)
-- sore throat and runny nose (nasopharyngitis)
 
 <div style=\"page-break-after: always\"></div>
 
+- sore throat and runny nose (nasopharyngitis)
 - upper respiratory tract infection
 - urinary tract infection (pain or burning feeling when passing urine)
 - new cancers, including cancers of the skin, may happen during treatment with Calquence (see section 2 'What you need to know before you take Calquence')
@@ -3126,7 +3161,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - increased levels of the liver enzymes (aspartate aminotransferase and alanine aminotransferase) in blood tests [when used in combination with certain medicines to treat mantle cell lymphoma (MCL)].
 - bronchitis
-- fever, chills, weakness, confusion, being sick and yellowing of the skin or eyeballs (jaundice) these may be signs of hepatitis B (a liver infection) becoming active again.
+- fever, chills, weakness, confusion, being sick and yellowing of the skin or eyeballs (jaundice) - these may be signs of hepatitis B (a liver infection) becoming active again.
 - inflammation of the lungs (pneumonitis)
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
@@ -3154,12 +3189,12 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is acalabrutinib. Each film-coated tablet contains 100 mg of acalabrutinib (as acalabrutinib maleate).
 
-The other ingredients are:
+<div style=\"page-break-after: always\"></div>
+
+## The other ingredients are:
 
 - Tablet core: mannitol (E421), microcrystalline cellulose (E460), low-substituted hydroxypropyl cellulose (E463) and sodium stearyl fumarate (see section 2 'Calquence contains sodium').
 - Tablet coating: hypromellose (E464), copovidone, titanium dioxide (E171), macrogol, mediumchain triglycerides, iron oxide yellow (E172) and iron oxide red (E172).
-
-<div style=\"page-break-after: always\"></div>
 
 ## What Calquence looks like and contents of the pack
 
@@ -3185,21 +3220,11 @@ AstraZeneca S.A./N.V.
 
 Tel: +32 2 370 48 11
 
-## Lietuva
-
-UAB AstraZeneca Lietuva
-
-Tel: +370 5 2660550
-
 ## България
 
-АстраЗенека България ЕООД Тел: +359 24455000
+АстраЗенека България ЕООД
 
-## Luxembourg/Luxemburg
-
-AstraZeneca S.A./N.V.
-
-Tél/Tel: +32 2 370 48 11
+Тел: +359 24455000
 
 ## Česká republika
 
@@ -3207,29 +3232,41 @@ AstraZeneca Czech Republic s.r.o.
 
 Tel: +420 222 807 111
 
-## Magyarország
-
-AstraZeneca Kft.
-
-Tel: +36 1 883 6500
-
 ## Danmark
 
 AstraZeneca A/S
 
 Tlf.: +45 43 66 64 62
 
-## Malta
-
-Associated Drug Co. Ltd
-
-Tel: +356 2277 8000
-
 ## Deutschland
 
 AstraZeneca GmbH
 
 Tel: +49 40 809034100
+
+## Lietuva
+
+UAB AstraZeneca Lietuva
+
+Tel: +370 5 2660550
+
+## Luxembourg/Luxemburg
+
+AstraZeneca S.A./N.V.
+
+Tél/Tel: +32 2 370 48 11
+
+## Magyarország
+
+AstraZeneca Kft.
+
+Tel: +36 1 883 6500
+
+## Malta
+
+Associated Drug Co. Ltd
+
+Tel: +356 2277 8000
 
 ## Nederland
 
@@ -3241,15 +3278,9 @@ Tel: +31 85 808 9900
 
 ## Eesti
 
-## Norge
-
 AstraZeneca
 
 Tel: +372 6549 600
-
-AstraZeneca AS
-
-Tlf: +47 21 00 64 00
 
 ## Ελλάδα
 
@@ -3257,21 +3288,11 @@ AstraZeneca A.E.
 
 Τηλ: +30 210 6871500
 
-## Österreich
-
-AstraZeneca Österreich GmbH
-
-Tel: +43 1 711 31 0
-
 ## España
 
-AstraZeneca Farmacéutica Spain, S.A. Tel: +34 91 301 91 00
+AstraZeneca Farmacéutica Spain, S.A.
 
-## Polska
-
-AstraZeneca Pharma Poland Sp. z o.o.
-
-Tel: +48 22 245 73 00
+Tel: +34 91 301 91 00
 
 ## France
 
@@ -3279,23 +3300,11 @@ AstraZeneca
 
 Tél: +33 1 41 29 40 00
 
-## Portugal
-
-AstraZeneca Produtos Farmacêuticos, Lda.
-
-Tel: +351 21 434 61 00
-
 ## Hrvatska
 
 AstraZeneca d.o.o.
 
 Tel: +385 1 4628 000
-
-## România
-
-AstraZeneca Pharma SRL
-
-Tel: +40 21 317 60 41
 
 ## Ireland
 
@@ -3305,23 +3314,11 @@ DAC
 
 Tel: +353 1609 7100
 
-## Slovenija
-
-AstraZeneca UK Limited
-
-Tel: +386 1 51 35 600
-
 ## Ísland
 
 Vistor hf.
 
 Sími: +354 535 7000
-
-## Slovenská republika
-
-AstraZeneca AB, o.z.
-
-Tel: +421 2 5737 7777
 
 ## Italia
 
@@ -3329,23 +3326,11 @@ AstraZeneca S.p.A.
 
 Tel: +39 02 00704500
 
-## Suomi/Finland
-
-AstraZeneca Oy
-
-Puh/Tel: +358 10 23 010
-
 ## Κύπρος
 
 Αλέκτωρ Φαρµακευτική Λτδ
 
 Τηλ: +357 22490305
-
-## Sverige
-
-AstraZeneca AB
-
-Tel: +46 8 553 26 000
 
 ## Latvija
 
@@ -3358,3 +3343,79 @@ Tel: +371 67377100
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Norge
+
+AstraZeneca AS
+
+Tlf: +47 21 00 64 00
+
+## Österreich
+
+AstraZeneca Österreich GmbH
+
+Tel: +43 1 711 31 0
+
+## Polska
+
+AstraZeneca Pharma Poland Sp. z o.o.
+
+Tel: +48 22 245 73 00
+
+## Portugal
+
+AstraZeneca Produtos Farmacêuticos, Lda.
+
+Tel: +351 21 434 61 00
+
+## România
+
+AstraZeneca Pharma SRL
+
+Tel: +40 21 317 60 41
+
+## Slovenija
+
+AstraZeneca UK Limited
+
+Tel: +386 1 51 35 600
+
+## Slovenská republika
+
+AstraZeneca AB, o.z.
+
+Tel: +421 2 5737 7777
+
+## Suomi/Finland
+
+AstraZeneca Oy
+
+Puh/Tel: +358 10 23 010
+
+## Sverige
+
+AstraZeneca AB
+
+Tel: +46 8 553 26 000
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for acalabrutinib, the scientific conclusions of PRAC are as follows:
+
+In view of available data on oedema peripheral from clinical trials and post-marketing reports including 69 cases with positive dechallenge and 3 cases with positive rechallenge as well as a potential class effect, the PRAC Rapporteur considers a causal relationship between acalabrutinib and oedema peripheral is at least a reasonable possibility. The PRAC Rapporteur concluded that the product information of products containing acalabrutinib should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for acalabrutinib the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing acalabrutinib is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-06 16:54:30
+document_datetime: 2026-10-07 11:16:43
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/thiotepa-riemser-epar-product-information_en.pdf
 document_name: thiotepa-riemser-epar-product-information_en.pdf
 version: success
-processing_time: 5.7502045
-conversion_datetime: 2026-08-07 14:17:16.044561
+processing_time: 8.7669306
+conversion_datetime: 2026-10-10 12:21:03.403964
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,7 +30,7 @@ Thiotepa Riemser 100 mg powder for concentrate for solution for infusion
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Thiotepa Riemser 15 mg powder for concentrate for solution for infusion
+Thiotepa Riemser 15 mg powder for concentrate for solution for infusion
 
 One vial of powder contains 15 mg thiotepa.
 
@@ -85,7 +85,7 @@ The recommended dose ranges from 125 mg/m 2 /day (3.38 mg/kg/day) to 300 mg/m 2 
 
 ## CENTRAL NERVOUS SYSTEM (CNS) LYMPHOMA
 
-The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before autologous HPCT, without exceeding the total maximum cumulative dose of 370 mg/m 2  (10 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before autologous HPCT, without exceeding the total maximum cumulative dose of 370 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
 
 ## MULTIPLE MYELOMA
 
@@ -125,7 +125,7 @@ The recommended dose in lymphoma is 370 mg/m 2 /day (10 mg/kg/day) divided in tw
 
 ## MULTIPLE MYELOMA
 
-The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion before allogeneic HPCT, without exceeding the total maximum cumulative dose of 185 mg/m 2  (5 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion before allogeneic HPCT, without exceeding the total maximum cumulative dose of 185 mg/m 2 (5 mg/kg), during the time of the entire conditioning treatment.
 
 ## LEUKAEMIA
 
@@ -161,15 +161,15 @@ The recommended dose is 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infu
 
 ## THALASSEMIA
 
-The recommended dose ranges from 200 mg/m 2 /day (8 mg/kg/day) to 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT without exceeding the total maximum cumulative dose of 250 mg/m 2  (10 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose ranges from 200 mg/m 2 /day (8 mg/kg/day) to 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT without exceeding the total maximum cumulative dose of 250 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
 
 ## REFRACTORY CYTOPENIA
 
-The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before allogeneic HPCT, without exceeding the total maximum cumulative dose of 375 mg/m 2  (15 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before allogeneic HPCT, without exceeding the total maximum cumulative dose of 375 mg/m 2 (15 mg/kg), during the time of the entire conditioning treatment.
 
-GENETIC DISEASES
+## GENETIC DISEASES
 
-The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before allogeneic HPCT, without exceeding the total maximum cumulative dose of 250 mg/m 2  (10 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before allogeneic HPCT, without exceeding the total maximum cumulative dose of 250 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
 
 ## SICKLE CELL ANAEMIA
 
@@ -241,7 +241,7 @@ Thiotepa must not be concurrently administered with cyclophosphamide when both m
 
 During the concomitant use of thiotepa and inhibitors of CYP2B6 or CYP3A4, patients should be carefully monitored clinically (see section 4.5).
 
-As most alkylating agents, thiotepa might impair male or female fertility. Male patients should seek for sperm cryopreservation before therapy is started and should not father a child while treated and during the year after cessation of treatment (see section 4.6).
+As most alkylating agents, thiotepa might impair male or female fertility. Male patients should seek for sperm cryopreservation before therapy is started and should not father a child while treated and during for at least 3 months after cessation of treatment (see section 4.6).
 
 ## 4.5 Interactions with other medicinal products and other forms of interaction
 
@@ -299,7 +299,9 @@ It is unknown whether thiotepa/metabolites are excreted in human milk. Due to it
 
 ## Fertility
 
-As most alkylating agents, thiotepa might impair male and female fertility. Male patients should seek for sperm cryopreservation before therapy is started (see section 5.3).
+As most alkylating agents, thiotepa might impair male and female fertility.
+
+Male patients should seek for sperm cryopreservation before therapy is started (see section 5.3).
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -430,11 +432,11 @@ Engraftment: Conditioning treatments including thiotepa have proved to be myeloa
 
 Disease free survival (DFS): An estimated 43% at five years has been reported, confirming that conditioning treatments containing thiotepa following autologous HPCT are effective therapeutic strategies for treating patients with haematological diseases.
 
-Relapse : In all conditioning treatments containing thiotepa, relapse rates at more than 1 year have been reported as being 60% or lower, which was considered by the physicians as the threshold to prove efficacy. In some of the conditioning treatments evaluated, relapse rates lower than 60% have also been reported at 5 years.
+Relapse: In all conditioning treatments containing thiotepa, relapse rates at more than 1 year have been reported as being 60% or lower, which was considered by the physicians as the threshold to prove efficacy. In some of the conditioning treatments evaluated, relapse rates lower than 60% have also been reported at 5 years.
 
 Overall survival (OS): OS ranged from 29% to 87% with a follow-up ranging from 22 up to 63 months.
 
-Regimen related mortality (RRM) and transplant related mortality (TRM) : RRM values ranging from 2.5% to 29% have been reported. TRM values ranged from 0% to 21% at 1 year, confirming the safety of the conditioning treatment including thiotepa for autologous HPCT in adult patients with haematological diseases.
+Regimen related mortality (RRM) and transplant related mortality (TRM): RRM values ranging from 2.5% to 29% have been reported. TRM values ranged from 0% to 21% at 1 year, confirming the safety of the conditioning treatment including thiotepa for autologous HPCT in adult patients with haematological diseases.
 
 ## Solid tumours
 
@@ -442,11 +444,11 @@ Engraftment: Conditioning treatments including thiotepa have proved to be myeloa
 
 Disease free survival (DFS): Percentages reported with follow-up periods of more than 1 year confirm that conditioning treatments containing thiotepa following autologous HPCT are effective choices for treating patients with solid tumours.
 
-Relapse : In all conditioning treatments containing thiotepa, relapse rates at more than 1 year have been reported as being lower than 60%, which was considered by the physicians as the threshold to prove efficacy. In some cases, relapse rates of 35% and of 45% have been reported at 5 years and 6 years respectively.
+Relapse: In all conditioning treatments containing thiotepa, relapse rates at more than 1 year have been reported as being lower than 60%, which was considered by the physicians as the threshold to prove efficacy. In some cases, relapse rates of 35% and of 45% have been reported at 5 years and 6 years respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-Overall survival: OS ranged from 30% to 87% with a follow-up ranging from 11.7 up to 87 months. Regimen related mortality (RRM) and transplant related mortality (TRM) : RRM values ranging from 0% to 2% have been reported. TRM values ranged from 0% to 7.4% confirming the safety of the conditioning treatment including thiotepa for autologous HPCT in adult patients with solid tumours.
+Overall survival: OS ranged from 30% to 87% with a follow-up ranging from 11.7 up to 87 months. Regimen related mortality (RRM) and transplant related mortality (TRM): RRM values ranging from 0% to 2% have been reported. TRM values ranged from 0% to 7.4% confirming the safety of the conditioning treatment including thiotepa for autologous HPCT in adult patients with solid tumours.
 
 ## ALLOGENEIC HPCT
 
@@ -456,9 +458,13 @@ Engraftment: Engraftment has been achieved (92%-100%) in all reported conditioni
 
 GvHD (graft versus host disease): all conditioning treatments evaluated assured a low incidence of acute GvHD grade III-IV (from 4% to 24%).
 
-D isease free survival (DFS): Percentages reported with follow-up periods of more than 1 year and up to 5 years confirm that conditioning treatments containing thiotepa following allogeneic HPCT are effective choices for treating patients with haematological diseases.
+Disease free survival (DFS): Percentages reported with follow-up periods of more than 1 year and up to 5 years confirm that conditioning treatments containing thiotepa following allogeneic HPCT are effective choices for treating patients with haematological diseases.
 
-Relapse : In all conditioning treatments containing thiotepa, relapse rates at more than 1 year have been reported as being lower than 40% (which was considered by the physicians as the threshold to prove efficacy). In some cases, relapse rates lower than 40% have also been reported at 5 years and 10 years. Overall survival: OS ranged from 31% to 81% with a follow-up ranging from 7.3 up to 120 months. Regimen related mortality (RRM) and transplant related mortality ( TRM) : low values have been reported, confirming the safety of the conditioning treatments including thiotepa for allogeneic HPCT in adult patients with haematological diseases.
+Relapse: In all conditioning treatments containing thiotepa, relapse rates at more than 1 year have been reported as being lower than 40% (which was considered by the physicians as the threshold to prove efficacy). In some cases, relapse rates lower than 40% have also been reported at 5 years and 10 years.
+
+Overall survival: OS ranged from 31% to 81% with a follow-up ranging from 7.3 up to 120 months.
+
+Regimen related mortality (RRM) and transplant related mortality (TRM): low values have been reported, confirming the safety of the conditioning treatments including thiotepa for allogeneic HPCT in adult patients with haematological diseases.
 
 ## Paediatric population
 
@@ -468,23 +474,23 @@ Relapse : In all conditioning treatments containing thiotepa, relapse rates at m
 
 Engraftment: It has been achieved with all reported conditioning regimens including thiotepa. Disease free survival (DFS): With a follow-up of 36 to 57 months, DFS ranged from 46% to 70% in the reported studies. Considering that all patients were treated for high risk solid tumours, DFS results confirm that conditioning treatments containing thiotepa following autologous HPCT are effective therapeutic strategies for treating paediatric patients with solid tumours.
 
-Relapse : In all the reported conditioning regimens containing thiotepa, relapse rates at 12 to 57 months ranged from 33% to 57%. Considering that all patients suffer of recurrence or poor prognosis solid
+Relapse: In all the reported conditioning regimens containing thiotepa, relapse rates at 12 to 57 months ranged from 33% to 57%. Considering that all patients suffer of recurrence or poor prognosis solid tumours, these rates support the efficacy of conditioning regimens based on thiotepa.
 
-tumours, these rates support the efficacy of conditioning regimens based on thiotepa. Overall survival (OS): OS ranged from 17% to 84% with a follow-up ranging from 12.3 up to 99.6 months.
+Overall survival (OS): OS ranged from 17% to 84% with a follow-up ranging from 12.3 up to 99.6 months.
 
-Regimen related mortality (RRM) and transplant related mortality ( TRM) : RRM values ranging from 0% to 26.7% have been reported. TRM values ranged from 0% to 18% confirming the safety of the conditioning treatments including thiotepa for autologous HPCT in paediatric patients with solid tumours.
+Regimen related mortality (RRM) and transplant related mortality (TRM): RRM values ranging from 0% to 26.7% have been reported. TRM values ranged from 0% to 18% confirming the safety of the conditioning treatments including thiotepa for autologous HPCT in paediatric patients with solid tumours.
 
 ## ALLOGENEIC HPCT
 
 ## Haematological diseases
 
-Engraftment: It has been achieved with all evaluated conditioning regimens including thiotepa with a success rate of 96% -100%. The haematological recovery is in the expected time.
+Engraftment: It has been achieved with all evaluated conditioning regimens including thiotepa with a success rate of 96% - 100%. The haematological recovery is in the expected time.
 
 Disease free survival (DFS): Percentages of 40% - 75% with follow-up of more than 1 year have been reported. DFS results confirm that conditioning treatment containing thiotepa following allogeneic HPCT are effective therapeutic strategies for treating paediatric patients with haematological diseases. Relapse: In all the reported conditioning regimens containing thiotepa, the relapse rate was in the range of 15% - 44%. These data support the efficacy of conditioning regimens based on thiotepa in all haematological diseases.
 
 Overall survival (OS): OS ranged from 50% to 100% with a follow-up ranging from 9.4 up to 121 months.
 
-Regimen related mortality (RRM) and transplant related mortality ( TRM) : RRM values ranging from 0% to 2.5% have been reported. TRM values ranged from 0% to 30% confirming the safety of the conditioning treatment including thiotepa for allogeneic HPCT in paediatric patients with haematological diseases.
+Regimen related mortality (RRM) and transplant related mortality (TRM): RRM values ranging from 0% to 2.5% have been reported. TRM values ranged from 0% to 30% confirming the safety of the conditioning treatment including thiotepa for allogeneic HPCT in paediatric patients with haematological diseases.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -532,7 +538,7 @@ The effects of hepatic impairment on thiotepa metabolism and elimination have no
 
 No conventional acute and repeat dose toxicity studies were performed.
 
-Thiotepa was shown to be genotoxic in vitro and in vivo , and carcinogenic in mice and rats.
+Thiotepa was shown to be genotoxic in vitro and in vivo, and carcinogenic in mice and rats.
 
 Thiotepa was shown to impair fertility and interfere with spermatogenesis in male mice, and to impair ovarian function in female mice. It was teratogenic in mice and in rats, and foeto-lethal in rabbits.
 
@@ -552,7 +558,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-## Unopened vial
+Unopened vial
 
 Thiotepa Riemser 15 mg powder for concentrate for solution for infusion: 18 months
 
@@ -576,9 +582,7 @@ For storage conditions of the reconstituted and diluted medicinal product, see s
 
 ## 6.5 Nature and contents of container
 
-Thiotepa Riemser 15 mg powder for concentrate for solution for infusion
-
-Type I clear glass vial with a bromobutyl stopper, containing 15 mg thiotepa.
+Thiotepa Riemser 15 mg powder for concentrate for solution for infusion Type I clear glass vial with a bromobutyl stopper, containing 15 mg thiotepa.
 
 Thiotepa Riemser 100 mg powder for concentrate for solution for infusion Type I clear glass vial with a bromobutyl stopper, containing 100 mg thiotepa.
 
@@ -596,15 +600,23 @@ As with other cytotoxic compounds, caution needs to be exercised in handling and
 
 ## Reconstitution
 
-Thiotepa Riemser 15 mg powder for concentrate for solution for infusion Thiotepa Riemser must be reconstituted with 1.5 mL of sterile water for injections. Using a syringe fitted with a needle, aseptically withdraw 1.5 mL of sterile water for injections.
+## Thiotepa Riemser 15 mg powder for concentrate for solution for infusion
+
+Thiotepa Riemser must be reconstituted with 1.5 mL of sterile water for injections.
+
+Using a syringe fitted with a needle, aseptically withdraw 1.5 mL of sterile water for injections.
 
 ## Thiotepa Riemser 100 mg powder for concentrate for solution for infusion
 
-Thiotepa Riemser must be reconstituted with 10 mL of sterile water for injections. Using a syringe fitted with a needle, aseptically withdraw 10 mL of sterile water for injections.
+Thiotepa Riemser must be reconstituted with 10 mL of sterile water for injections.
 
-Inject the content of the syringe into the vial through the rubber stopper. Remove the syringe and the needle and mix manually by repeated inversions. Only colourless solutions, without any particulate matter, must be used. Reconstituted solutions may
+Using a syringe fitted with a needle, aseptically withdraw 10 mL of sterile water for injections.
 
-occasionally show opalescence; such solutions can still be administered.
+Inject the content of the syringe into the vial through the rubber stopper.
+
+Remove the syringe and the needle and mix manually by repeated inversions.
+
+Only colourless solutions, without any particulate matter, must be used. Reconstituted solutions may occasionally show opalescence; such solutions can still be administered.
 
 ## Further dilution in the infusion bag
 
@@ -612,9 +624,11 @@ The reconstituted solution is hypotonic and must be further diluted prior to adm
 
 ## Administration
 
-Thiotepa Riemser infusion solution should be inspected visually for particulate matter prior to administration. Solutions containing a precipitate should be discarded. Prior to and following each infusion, the indwelling catheter line should be flushed with approximately 5 mL sodium chloride 9 mg/mL (0.9%) solution for injection. The infusion solution must be administered to patients using an infusion set equipped with a 0.2 µm
+Thiotepa Riemser infusion solution should be inspected visually for particulate matter prior to administration. Solutions containing a precipitate should be discarded.
 
-in-line filter. Filtering does not alter solution potency.
+Prior to and following each infusion, the indwelling catheter line should be flushed with approximately 5 mL sodium chloride 9 mg/mL (0.9%) solution for injection.
+
+The infusion solution must be administered to patients using an infusion set equipped with a 0.2 µm in-line filter. Filtering does not alter solution potency.
 
 ## Disposal
 
@@ -628,17 +642,23 @@ Esteve Pharmaceuticals GmbH Hohenzollerndamm 150-151 14199 Berlin Germany
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. MARKETING AUTHORISATION NUMBER
+8. MARKETING AUTHORISATION NUMBER
 
-EU/1/21/1536/001 EU/1/21/1536/002
+EU/1/21/1536/001
+
+EU/1/21/1536/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 26 March 2021
 
-## 10. DATE OF REVISION OF THE TEXT
+Date of last renewal: 26 February 2026
+
+10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+18
 
 <div style=\"page-break-after: always\"></div>
 
@@ -694,7 +714,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -732,7 +752,7 @@ EXP
 
 After reconstitution, use within 8 hours when stored in a refrigerator.
 
-After dilution, use within 24 hours when stored in a refrigerator.
+After dilution, use within 24 hours when stored in a refrigerator and within 4 hours when stored at 25 ºC.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -757,14 +777,12 @@ EU/1/21/1536/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -776,35 +794,43 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Thiotepa Riemser 15 mg powder for concentrate thiotepa Intravenous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Cytotoxic
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 15 mg
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -842,7 +868,7 @@ EXP
 
 After reconstitution, use within 8 hours when stored in a refrigerator.
 
-After dilution, use within 24 hours when stored in a refrigerator.
+After dilution, use within 24 hours when stored in a refrigerator and within 4 hours when stored at 25 ºC.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -867,14 +893,12 @@ EU/1/21/1536/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -886,29 +910,37 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Thiotepa Riemser 100 mg powder for concentrate thiotepa Intravenous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Cytotoxic
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 100 mg
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -924,9 +956,9 @@ thiotepa
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -947,18 +979,18 @@ Thiotepa Riemser is used to prepare patients for bone marrow transplantation. It
 
 ## Do not use Thiotepa Riemser
 
-- -if you are allergic to thiotepa,
-- -if you are pregnant or think you may be pregnant,
-- -if you are breast-feeding,
-- -if you are receiving yellow fever vaccination, live virus and bacterial vaccines.
+- if you are allergic to thiotepa,
+- if you are pregnant or think you may be pregnant,
+- if you are breast-feeding,
+- if you are receiving yellow fever vaccination, live virus and bacterial vaccines.
 
 ## Warning and precautions
 
 You should tell your doctor if you have:
 
-- -liver or kidney problems,
-- -heart or lung problems,
-- -seizures/fits (epilepsy) or have had them in the past (if treated with phenytoin or fosphenytoin).
+- liver or kidney problems,
+- heart or lung problems,
+- seizures/fits (epilepsy) or have had them in the past (if treated with phenytoin or fosphenytoin).
 
 Because Thiotepa Riemser destroys bone marrow cells responsible for producing blood cells, regular blood tests will be taken during treatment to check your blood cell counts.
 
@@ -976,7 +1008,7 @@ Tell your doctor if you are taking, have recently taken or might take any other 
 
 You must tell your doctor if you are pregnant or you think you may be pregnant before you receive Thiotepa Riemser. You must not use Thiotepa Riemser during pregnancy.
 
-Both women and men using Thiotepa Riemser must use effective contraceptive methods during treatment. Men should not father a child while treated and during the year after cessation of treatment.
+Both women and men using Thiotepa Riemser must use effective contraceptive methods during treatment. After cessation of treatment women must use effective contraceptive methods for at least 6 months and men for at least 3 months.
 
 It is not known whether this medicinal product is excreted in breast milk. As a precautionary measure, women must not breast-feed during treatment with Thiotepa Riemser.
 
@@ -1004,124 +1036,124 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 The most serious side effects of Thiotepa Riemser therapy or the transplant procedure may include
 
-- -decrease in circulating blood cell counts (intended effect of the medicine to prepare you for your transplant infusion)
-- -infection
-- -liver disorders including blocking of a liver vein
-- -the graft attacks your body (graft versus host disease)
-- -respiratory complications
+- decrease in circulating blood cell counts (intended effect of the medicine to prepare you for your transplant infusion)
+- infection
+- liver disorders including blocking of a liver vein
+- the graft attacks your body (graft versus host disease)
+- respiratory complications
 
 Your doctor will monitor your blood counts and liver enzymes regularly to detect and manage these events.
+
+<div style=\"page-break-after: always\"></div>
 
 Other side effects of Thiotepa Riemser, which may occur with certain frequencies, are listed as follows:
 
 ## Very common side effects (may affect more than 1 in 10 people)
 
-- -increased susceptibility to infection
-- -whole-body inflammatory state (sepsis)
-- -decreased counts of white blood cells, platelets and red blood cells (anaemia)
-- -the transplanted cells attack your body (graft versus host disease)
+- increased susceptibility to infection
+- whole-body inflammatory state (sepsis)
+- decreased counts of white blood cells, platelets and red blood cells (anaemia)
+- the transplanted cells attack your body (graft versus host disease)
+- dizziness, headache, blurred vision
+- uncontrolled shaking of the body (convulsion)
+- sensation of tingling, pricking or numbness (paraesthesia)
+- partial loss of movement
+- cardiac arrest
+- nausea, vomiting, diarrhoea
+- inflammation of the mucosa of the mouth (mucositis)
+- irritated stomach, gullet, intestine
+- inflammation of the colon
+- anorexia, decreased appetite
+- high glucose in the blood
+- skin rash, itching, shedding
+- skin colour disorder (do not confuse with jaundice - see below)
+- redness of the skin (erythema)
+- hair loss
+- back and abdominal pain, pain
+- muscle and joint pain
+- abnormal electrical activity in the heart (arrhythmia)
+- inflammation of lung tissue
+- enlarged liver
+- altered organ function
+- blocking of a liver vein (veno-occlusive disease, VOD)
+- yellowing of the skin and eyes (jaundice)
+- hearing impaired
+- lymphatic obstruction
+- high blood pressure
+- increased liver, renal and digestive enzymes
+- abnormal blood electrolytes
+- weight gain
+- fever, general weakness, chills
+- bleeding (haemorrhage)
+- nasal bleeding
+- general swelling due to fluid retention (oedema)
+- pain or inflammation at the injection site
+- eye infection (conjunctivitis)
+- decreased sperm cell count
+- vaginal bleeding
+- absence of menstrual periods (amenorrhea)
+- memory loss
+- delaying in weight and height increase
+- bladder disfunction
+- underproduction of testosterone
+- insufficient production of thyroid hormone
+- deficient activity of the pituitary gland
+- confusional state
 
 <div style=\"page-break-after: always\"></div>
-
-- -dizziness, headache, blurred vision
-- -uncontrolled shaking of the body (convulsion)
-- -sensation of tingling, pricking or numbness (paraesthesia)
-- -partial loss of movement
-- -cardiac arrest
-- -nausea, vomiting, diarrhoea
-- -inflammation of the mucosa of the mouth (mucositis)
-- -irritated stomach, gullet, intestine
-- -inflammation of the colon
-- -anorexia, decreased appetite
-- -high glucose in the blood
-- -skin rash, itching, shedding
-- -skin colour disorder (do not confuse with jaundice - see below)
-- -redness of the skin (erythema)
-- -hair loss
-- -back and abdominal pain, pain
-- -muscle and joint pain
-- -abnormal electrical activity in the heart (arrhythmia)
-- -inflammation of lung tissue
-- -enlarged liver
-- -altered organ function
-- -blocking of a liver vein (veno-occlusive disease, VOD)
-- -yellowing of the skin and eyes (jaundice)
-- -hearing impaired
-- -lymphatic obstruction
-- -high blood pressure
-- -increased liver, renal and digestive enzymes
-- -abnormal blood electrolytes
-- -weight gain
-- -fever, general weakness, chills
-- -bleeding (haemorrhage)
-- -nasal bleeding
-- -general swelling due to fluid retention (oedema)
-- -pain or inflammation at the injection site
-- -eye infection (conjunctivitis)
-- -decreased sperm cell count
-- -vaginal bleeding
-- -absence of menstrual periods (amenorrhea)
-- -memory loss
-- -delaying in weight and height increase
-- -bladder disfunction
-- -underproduction of testosterone
-- -insufficient production of thyroid hormone
-- -deficient activity of the pituitary gland
-- -confusional state
 
 ## Common side effects (may affect up to 1 in 10 people)
 
-- -anxiety, confusion
-- -abnormal bulging outward of one of the arteries in the brain (intracranial aneurysm)
-- -creatinine elevated
-- -allergic reactions
-- -occlusion of a blood vessel (embolism)
-- -heart rhythm disorder
-- -heart inability
-- -cardiovascular inability
-- -oxygen deficiency
-- -fluid accumulation in the lungs (pulmonary oedema)
-
-<div style=\"page-break-after: always\"></div>
-
-- -pulmonary bleeding
-- -respiratory arrest
-- -blood in the urine (haematuria) and moderate renal insufficiency
-- -inflammation of the urinary bladder
-- -discomfort in urination and decrease in urine output (disuria and oliguria)
-- -increase in the amount of nitrogen components in the blood stream
-- -cataract
-- -inability of the liver
-- -cerebral haemorrhage
-- -cough
-- -constipation and upset stomach
-- -obstruction of the bowel
-- -perforation of stomach
-- -changes in muscle tone
-- -gross lack of coordination of muscle movements
-- -bruises due to a low platelet count
-- -menopausal symptoms
-- -cancer (second primary malignancies)
-- -abnormal brain function
-- -male and female infertility
+- anxiety, confusion
+- abnormal bulging outward of one of the arteries in the brain (intracranial aneurysm)
+- creatinine elevated
+- allergic reactions
+- occlusion of a blood vessel (embolism)
+- heart rhythm disorder
+- heart inability
+- cardiovascular inability
+- oxygen deficiency
+- fluid accumulation in the lungs (pulmonary oedema)
+- pulmonary bleeding
+- respiratory arrest
+- blood in the urine (haematuria) and moderate renal insufficiency
+- inflammation of the urinary bladder
+- discomfort in urination and decrease in urine output (disuria and oliguria)
+- increase in the amount of nitrogen components in the blood stream
+- cataract
+- inability of the liver
+- cerebral haemorrhage
+- cough
+- constipation and upset stomach
+- obstruction of the bowel
+- perforation of stomach
+- changes in muscle tone
+- gross lack of coordination of muscle movements
+- bruises due to a low platelet count
+- menopausal symptoms
+- cancer (second primary malignancies)
+- abnormal brain function
+- male and female infertility
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
-- -inflammation and exfoliation of the skin (erythrodermic psoriasis)
-- -delirium, nervousness, hallucination, agitation
-- -gastrointestinal ulcer
-- -inflammation of the muscular tissue of the heart (myocarditis)
-- -abnormal heart condition (cardiomyopathy)
+- inflammation and exfoliation of the skin (erythrodermic psoriasis)
+- delirium, nervousness, hallucination, agitation
+- gastrointestinal ulcer
+- inflammation of the muscular tissue of the heart (myocarditis)
+- abnormal heart condition (cardiomyopathy)
 
 ## Not known (frequency cannot be estimated from the available data)
 
-- -increased blood pressure in the arteries (blood vessels) of the lungs (pulmonary arterial hypertension)
-- -severe skin damage (e.g. severe lesions, bullae, etc.) potentially involving the full body surface which can be even life-threatening
-- -damage to a component of the brain (the so-called white matter) which can be even lifethreatening (leukoencephalopathy)
+- increased blood pressure in the arteries (blood vessels) of the lungs (pulmonary arterial hypertension)
+- severe skin damage (e.g. severe lesions, bullae, etc.) potentially involving the full body surface which can be even life-threatening
+- damage to a component of the brain (the so-called white matter) which can be even lifethreatening (leukoencephalopathy)
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Thiotepa Riemser
 
@@ -1135,32 +1167,26 @@ After reconstitution the product is stable for 8 hours when stored at 2 °C - 8 
 
 After dilution the product is stable for 24 hours when stored at 2 °C - 8 °C and for 4 hours when stored at 25 °C. From a microbiological point of view, the product should be used immediately.
 
-<div style=\"page-break-after: always\"></div>
-
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
 ## 6. Contents of the pack and other information
 
 ## What Thiotepa Riemser contains
 
-## Thiotepa Riemser 15 mg powder for concentrate for solution for infusion
+Thiotepa Riemser 15 mg powder for concentrate for solution for infusion
 
-- -The active substance is thiotepa. One vial contains 15 mg thiotepa. After reconstitution, each mL contains 10 mg thiotepa (10 mg/mL).
+- The active substance is thiotepa. One vial contains 15 mg thiotepa. After reconstitution, each mL contains 10 mg thiotepa (10 mg/mL).
 
-## Thiotepa Riemser 100 mg powder for concentrate for solution for infusion
+Thiotepa Riemser 100 mg powder for concentrate for solution for infusion
 
-- -The active substance is thiotepa. One vial contains 100 mg thiotepa. After reconstitution, each mL contains 10 mg thiotepa (10 mg/mL).
-- -Thiotepa Riemser does not contain any other ingredients.
+- The active substance is thiotepa. One vial contains 100 mg thiotepa. After reconstitution, each mL contains 10 mg thiotepa (10 mg/mL).
+- Thiotepa Riemser does not contain any other ingredients.
 
 ## What Thiotepa Riemser looks like and contents of the pack
 
-Thiotepa Riemser 15 mg powder for concentrate for solution for infusion
+Thiotepa Riemser 15 mg powder for concentrate for solution for infusion Thiotepa Riemser is a white crystalline powder supplied in a glass vial containing 15 mg thiotepa.
 
-Thiotepa Riemser is a white crystalline powder supplied in a glass vial containing 15 mg thiotepa.
-
-## Thiotepa Riemser 100 mg powder for concentrate for solution for infusion
-
-Thiotepa Riemser is a white crystalline powder supplied in a glass vial containing 100 mg thiotepa.
+Thiotepa Riemser 100 mg powder for concentrate for solution for infusion Thiotepa Riemser is a white crystalline powder supplied in a glass vial containing 100 mg thiotepa.
 
 Each carton contains 1 vial.
 
@@ -1170,31 +1196,21 @@ Esteve Pharmaceuticals GmbH Hohenzollerndamm 150-151 14199 Berlin Germany
 
 ## Manufacturer
 
-HWI pharma services GmbH Straßburger Str. 77 77767 Appenweier Germany
+HWI pharma services GmbH Straßburger Str. 77 77767 Appenweier Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-For  any  information  about  this  medicine,  please  contact  the  local  representative  of  the  Marketing Authorisation Holder:
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
 Eurocept Pharmaceuticals Pays-Bas/Nederland/Niederlande Tél/Tel: +31 35 528 8377 info@eurocept.nl
 
-Lietuva UAB ARMILA Lietuva Tel: +370 (0) 5 2777596 info@armila.com
-
 ## България
 
-Thrive Pharma Ltd. България Teл.: +359 2 878 05 43
-
-office@thrivepharmabg.com
-
-## Luxembourg/Luxemburg
-
-Eurocept Pharmaceuticals Pays-Bas/Nederland/Niederlande Tél/Tel: +31 35 528 8377 info@eurocept.nl
-
-<div style=\"page-break-after: always\"></div>
+Thrive Pharma Ltd. България Teл.: +359 2 878 05 43 office@thrivepharmabg.com
 
 ## Česká republika
 
-LERAM pharmaceuticals s.r.o. Česká republika Tel:  +420 513 035 442 info@leram-pharma.cz
+LERAM pharmaceuticals s.r.o. Česká republika Tel: +420 513 035 442 info@leram-pharma.cz
 
 ## Danmark
 
@@ -1210,7 +1226,7 @@ AUXILIA Pharma OÜ Eesti Tel: +372 605 00 05 info@auxiliapharma.eu
 
 ## Ελλάδα
 
-Esteve Pharmaceuticals GmbH Γερμανία Τηλ : +49 (0) 30 338427-0 info.germany@esteve.com
+SPECIALTY THERAPEUTICS IKE Ελλάδα Τηλ.: +30 2130233913
 
 ## España
 
@@ -1218,19 +1234,25 @@ Esteve Pharmaceuticals, S.A. España Tel: +34 93 446 60 00
 
 ## France
 
-Esteve Pharmaceuticals S.A.S France Tél: +33 1 42 31 07 10 contact-france@esteve.com
+Esteve Pharmaceuticals S.A.S France Tél: +33 1 42 31 07 10
 
-Hrvatska MEDIS Adria d.o.o. Hrvatska Tel: +385 1 2303 446 info@medisadria.hr
+contact-france@esteve.com
 
-## Ireland
+## Lietuva
 
-Esteve Pharmaceuticals GmbH Germany Tel: +49 (0) 30 338427-0 info.germany@esteve.com
+UAB ARMILA Lietuva Tel: +370 (0) 5 2777596 info@armila.com
 
-Magyarország SANATIS Europe Kft. Magyarország Tel.: +36 (0) 23 367 673 office@sanatis.hu
+## Luxembourg/Luxemburg
+
+Eurocept Pharmaceuticals Pays-Bas/Nederland/Niederlande Tél/Tel: +31 35 528 8377 info@eurocept.nl
+
+## Magyarország
+
+SANATIS Europe Kft. Magyarország Tel.: +36 (0) 23 367 673 office@sanatis.hu
 
 ## Malta
 
-Esteve Pharmaceuticals GmbH IlĠermanja Tel: +49 (0) 30 338427-0 info.germany@esteve.com
+Esteve Pharmaceuticals GmbH Il-Ġermanja Tel: +49 (0) 30 338427-0 info.germany@esteve.com
 
 ## Nederland
 
@@ -1242,7 +1264,7 @@ Abacus Medicine A/S Danmark Tlf: +44 (0) 203 630 1244 amps-medinfo@abacusmedicin
 
 ## Österreich
 
-AGEA Pharma GmbH Österreich Tel: +43 (0) 1 336 01 41 office@ageapharma.com
+Esteve Pharmaceuticals GmbH Österreich Tel: +43 (0) 800 560044
 
 ## Polska
 
@@ -1250,31 +1272,39 @@ COPHARMA JOSEPH RAKOTO Polska Tel.: +48 691 702 426 joseph.rakoto@copharma.pl
 
 ## Portugal
 
-Esteve Pharmaceuticals - Laboratório Farmacêutico, Limitada Portugal Tel: +34 93 446 60 00
+Esteve Pharmaceuticals - Laboratório Farmacêutico, Limitada Portugal
 
-## România
+Tel: +34 93 446 60 00
 
-Esteve Pharmaceuticals GmbH Germania Tel: +49 (0) 30 338427-0 info.germany@esteve.com
+<div style=\"page-break-after: always\"></div>
 
-Slovenija MEDIS d.o.o. Slovenija Tel: +386 (0) 1 589 69 00 info@medis.si
+## Hrvatska
+
+MEDIS Adria d.o.o.
+
+Hrvatska
+
+Tel: +385 1 2303 446
+
+info@medisadria.hr
+
+## Ireland
+
+Esteve Pharmaceuticals GmbH Germany
+
+Tel: +49 (0) 30 338427-0
+
+info.germany@esteve.com
 
 ## Ísland
 
-Abacus Medicine A/S
+Esteve Pharmaceuticals GmbH
 
-Danmörk
+Germany
 
-Sími: +44 (0) 203 630 1244
+Tel: +49 (0) 30 338427-0
 
-amps-medinfo@abacusmedicine.com
-
-## Slovenská republika
-
-LERAM pharmaceuticals s.r.o. Česká republika
-
-Tel:  +420 513 035 442
-
-info@leram-pharma.cz
+info.germany@esteve.com
 
 ## Italia
 
@@ -1282,7 +1312,73 @@ Esteve Pharmaceuticals S.r.l.
 
 Italia
 
++39 02 89626888
+
 info.italy@esteve.com
+
+## Κύπρος
+
+MA Pharmaceuticals Trading Ltd.
+
+Κύπρος
+
+Τηλ: +357 25 587112
+
+regulatory@mapharmagroup.com
+
+## Latvija
+
+Auxilia Pharma OÜ
+
+Estija
+
+Tel: +372 605 00 05
+
+info@auxiliapharma.eu
+
+## This leaflet was last revised in {MM/YYYY}.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+The following information is intended for healthcare professionals only:
+
+## PREPARATION GUIDE
+
+## Thiotepa Riemser 15 mg powder for concentrate for solution for infusion Thiotepa Riemser 100 mg powder for concentrate for solution for infusion
+
+thiotepa
+
+Read this guide prior to the preparation and administration of Thiotepa Riemser.
+
+## România
+
+Esteve Pharmaceuticals GmbH
+
+Germania
+
+Tel: +49 (0) 30 338427-0
+
+info.germany@esteve.com
+
+## Slovenija
+
+MEDIS d.o.o.
+
+Slovenija
+
+Tel: +386 (0) 1 589 69 00
+
+info@medis.si
+
+## Slovenská republika
+
+LERAM pharmaceuticals s.r.o. Česká republika
+
+Tel: +420 513 035 442
+
+info@leram-pharma.cz
 
 ## Suomi/Finland
 
@@ -1294,18 +1390,6 @@ Puh/Tel: +44 (0) 203 630 1244
 
 amps-medinfo@abacusmedicine.com
 
-## Κύπρος
-
-MA Pharmaceuticals Trading Ltd.
-
-Κύπρος
-
-Τηλ
-
-: +357 25 587112
-
-regulatory@mapharmagroup.com
-
 ## Sverige
 
 Abacus Medicine A/S
@@ -1315,16 +1399,6 @@ Danmark
 Tel: +44 (0) 203 630 1244
 
 amps-medinfo@abacusmedicine.com
-
-## Latvija
-
-Auxilia Pharma OÜ
-
-Estija
-
-Tel: +372 605 00 05
-
-info@auxiliapharma.eu
 
 ## United Kingdom (Northern Ireland)
 
@@ -1338,33 +1412,13 @@ info.germany@esteve.com
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in {MM/YYYY}.
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-The following information is intended for healthcare professionals only:
-
-## PREPARATION GUIDE
-
-Thiotepa Riemser 15 mg powder for concentrate for solution for infusion Thiotepa Riemser 100 mg powder for concentrate for solution for infusion thiotepa
-
-Read this guide prior to the preparation and administration of Thiotepa Riemser.
-
 ## 1. PRESENTATION
 
-Thiotepa Riemser 15 mg powder for concentrate for solution for infusion
+Thiotepa Riemser 15 mg powder for concentrate for solution for infusion Thiotepa Riemser is supplied as 15 mg powder for concentrate for solution for infusion.
 
-Thiotepa Riemser is supplied as 15 mg powder for concentrate for solution for infusion.
-
-## Thiotepa Riemser 100 mg powder for concentrate for solution for infusion
-
-Thiotepa Riemser is supplied as 100 mg powder for concentrate for solution for infusion.
+Thiotepa Riemser 100 mg powder for concentrate for solution for infusion Thiotepa Riemser is supplied as 100 mg powder for concentrate for solution for infusion.
 
 Thiotepa Riemser must be reconstituted and diluted prior to administration.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 2. SPECIAL PRECAUTIONS FOR DISPOSAL AND OTHER HANDLING
 
@@ -1394,17 +1448,17 @@ The recommended dose ranges from 125 mg/m 2 /day (3.38 mg/kg/day) to 300 mg/m 2 
 
 ## CENTRAL NERVOUS SYSTEM (CNS) LYMPHOMA
 
-The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before autologous HPCT, without exceeding the total maximum cumulative dose of 370 mg/m 2  (10 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before autologous HPCT, without exceeding the total maximum cumulative dose of 370 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
 
 ## MULTIPLE MYELOMA
 
 The recommended dose ranges from 150 mg/m 2 /day (4.05 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 750 mg/m 2 (20.27 mg/kg), during the time of the entire conditioning treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Solid tumours
 
 The recommended dose in solid tumours ranges from 120 mg/m 2 /day (3.24 mg/kg/day) to 250 mg/m 2 /day (6.76 mg/kg/day) divided in one or two daily infusions, administered from 2 up to 5 consecutive days before autologous HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 800 mg/m 2 (21.62 mg/kg), during the time of the entire conditioning treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## BREAST CANCER
 
@@ -1434,17 +1488,17 @@ The recommended dose in lymphoma is 370 mg/m 2 /day (10 mg/kg/day) divided in tw
 
 ## MULTIPLE MYELOMA
 
-The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion before allogeneic HPCT, without exceeding the total maximum cumulative dose of 185 mg/m 2  (5 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose is 185 mg/m 2 /day (5 mg/kg/day) as a single daily infusion before allogeneic HPCT, without exceeding the total maximum cumulative dose of 185 mg/m 2 (5 mg/kg), during the time of the entire conditioning treatment.
 
 ## LEUKAEMIA
 
 The recommended dose ranges from 185 mg/m 2 /day (5 mg/kg/day) to 481 mg/m 2 /day (13 mg/kg/day) divided in one or two daily infusions, administered from 1 up to 2 consecutive days before allogeneic HPCT depending on the combination with other chemotherapeutic medicinal products, without exceeding the total maximum cumulative dose of 555 mg/m 2 (15 mg/kg), during the time of the entire conditioning treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## THALASSEMIA
 
 The recommended dose is 370 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT, without exceeding the total maximum cumulative dose of 370 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Posology in paediatric patients
 
@@ -1470,33 +1524,39 @@ The recommended dose is 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infu
 
 ## THALASSEMIA
 
-The recommended dose ranges from 200 mg/m 2 /day (8 mg/kg/day) to 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT without exceeding the total maximum cumulative dose of 250 mg/m 2  (10 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose ranges from 200 mg/m 2 /day (8 mg/kg/day) to 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT without exceeding the total maximum cumulative dose of 250 mg/m 2 (10 mg/kg), during the time of the entire conditioning
+
+## treatment.
 
 ## REFRACTORY CYTOPENIA
 
-The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before allogeneic HPCT, without exceeding the total maximum cumulative dose of 375 mg/m 2  (15 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before allogeneic HPCT, without exceeding the total maximum cumulative dose of 375 mg/m 2 (15 mg/kg), during the time of the entire conditioning treatment.
 
 ## GENETIC DISEASES
 
-The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before allogeneic HPCT, without exceeding the total maximum cumulative dose of 250 mg/m 2  (10 mg/kg), during the time of the entire conditioning treatment.
+The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before allogeneic HPCT, without exceeding the total maximum cumulative dose of 250 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
 
 ## SICKLE CELL ANAEMIA
 
 The recommended dose is 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infusions, administered before allogeneic HPCT, without exceeding the total maximum cumulative dose of 250 mg/m 2 (10 mg/kg), during the time of the entire conditioning treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reconstitution
 
 Thiotepa Riemser 15 mg powder for concentrate for solution for infusion Thiotepa Riemser must be reconstituted with 1.5 mL of sterile water for injections. Using a syringe fitted with a needle, aseptically withdraw 1.5 mL of sterile water for injections.
 
-Thiotepa Riemser 100 mg powder for concentrate for solution for infusion Thiotepa Riemser must be reconstituted with 10 mL of sterile water for injections.
+## Thiotepa Riemser 100 mg powder for concentrate for solution for infusion
 
-<div style=\"page-break-after: always\"></div>
+Thiotepa Riemser must be reconstituted with 10 mL of sterile water for injections.
 
 Using a syringe fitted with a needle, aseptically withdraw 10 mL of sterile water for injections.
 
-Inject the content of the syringe into the vial through the rubber stopper. Remove the syringe and the needle and mix manually by repeated inversions. Only colourless solutions, without any particulate matter, must be used. Reconstituted solutions may
+Inject the content of the syringe into the vial through the rubber stopper.
 
-occasionally show opalescence; such solutions can still be administered.
+Remove the syringe and the needle and mix manually by repeated inversions.
+
+Only colourless solutions, without any particulate matter, must be used. Reconstituted solutions may occasionally show opalescence; such solutions can still be administered.
 
 ## Further dilution in the infusion bag
 

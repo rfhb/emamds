@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-07-25 11:57:47
+document_datetime: 2026-10-08 09:33:32
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nulibry-epar-product-information_en.pdf
 document_name: nulibry-epar-product-information_en.pdf
 version: success
-processing_time: 7.349822
-conversion_datetime: 2025-12-31 03:51:44.823434
+processing_time: 10.228422
+conversion_datetime: 2026-10-10 12:17:16.626514
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -62,7 +62,9 @@ Treatment with NULIBRY is to be initiated and supervised in hospital by a health
 
 ## Posology
 
-Paediatric population less than 1 year of age (by gestational age) In patients less than one year of age, the recommended dose of NULIBRY is titrated based on gestational age.
+Paediatric population less than 1 year of age (by gestational age)
+
+In patients less than one year of age, the recommended dose of NULIBRY is titrated based on gestational age.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -94,7 +96,7 @@ NULIBRY is intended for administration at an infusion rate of 1.5 mL/min after r
 
 For instructions on reconstitution of the medicinal product before administration, see section 6.6.
 
-If deemed appropriate by a healthcare professional, NULIBRY may be administered at home by the patient's caregiver. If NULIBRY is administered by a caregiver/patient, the caregiver/patient must read and follow carefully the detailed 'Instructions for the user' on the preparation, administration, storage, and disposal of NULIBRY provided in the carton.
+If deemed appropriate by a healthcare professional, NULIBRY may be administered at home by the patient's caregiver. If NULIBRY is administered by a caregiver/patient, the caregiver/patient must read and follow carefully the detailed \"Instructions for the user\" on the preparation, administration, storage, and disposal of NULIBRY provided in the carton.
 
 The healthcare professional should calculate and provide the volume of NULIBRY in millilitres (mL) and the number of vials needed for each dose to the caregiver/patient, see section 6.6.
 
@@ -150,11 +152,9 @@ NULIBRY has no or negligible influence on the ability to drive and use machines.
 
 ## Summary of the safety profile
 
-The adverse drug reactions described in this section were evaluated in 11 patients with MoCD Type A. The most frequent (&gt; 20%) adverse reaction observed during clinical trials were complications
+The adverse drug reactions described in this section were evaluated in 11 patients with MoCD Type A. The most frequent (&gt; 20%) adverse reaction observed during clinical trials were complications associated with device, which have been attributed to the catheter and not to fosdenopterin. No patients had to have their treatment discontinued due to adverse events.
 
 <div style=\"page-break-after: always\"></div>
-
-associated with device, which have been attributed to the catheter and not to fosdenopterin. No patients had to have their treatment discontinued due to adverse events.
 
 ## Tabulated list of adverse reactions
 
@@ -162,11 +162,10 @@ Adverse drug reactions (ADRs) observed are listed below by MedDRA system organ c
 
 Table 2 presents the most common ADRs that occurred in patients treated with NULIBRY.
 
-Table 2 Adverse reactions reported by SOC/PT and frequency
-
-| System Organ Class                                   | Very common (≥ 10%)                  |
-|------------------------------------------------------|--------------------------------------|
-| General disorders and administration site conditions | Complications associated with device |
+| Adverse reactions reported by SOC/PT and frequency   | Adverse reactions reported by SOC/PT and frequency   |
+|------------------------------------------------------|------------------------------------------------------|
+| Table 2 System Organ Class                           | Very common (≥ 10%)                                  |
+| General disorders and administration site conditions | Complications associated with device                 |
 
 ## Description of selected adverse reactions
 
@@ -240,10 +239,10 @@ The pharmacokinetics of fosdenopterin in healthy adult subjects following a sing
 
 Table 4 Mean (SD) pharmacokinetic parameters following a single intravenous dose of fosdenopterin in healthy subjects
 
-| Parameter           | 0.075 mg/kg 1   | 0.24 mg/kg 1   | 0.68 mg/kg 1   |
-|---------------------|-----------------|----------------|----------------|
-| C max (ng/mL)       | 285 (57)        | 873 (99)       | 2800 (567)     |
-| AUC 0-inf (ng*h/mL) | 523 (75)        | 1790 (213)     | 5960 (1820)    |
+| Parameter          | 0.075 mg/kg 1   | 0.24 mg/kg 1   | 0.68 mg/kg 1   |
+|--------------------|-----------------|----------------|----------------|
+| Cmax (ng/mL)       | 285 (57)        | 873 (99)       | 2800 (567)     |
+| AUC0-inf (ng*h/mL) | 523 (75)        | 1790 (213)     | 5960 (1820)    |
 
 ## Distribution
 
@@ -259,7 +258,7 @@ The potential for drug-drug interactions based on cytochrome P450 (CYP) and/or t
 
 Fosdenopterin does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4/5 isozymes when tested in vitro in human liver microsomes. There was little or no direct time-dependent or metabolism-dependent inhibition of these isozymes, and the half maximal inhibitory concentration (IC50) values were reported as &gt; 500 µM. Fosdenopterin did not demonstrate induction of CYP1A2, CYP2B6, or CYP3A4. Treatment of cultured human hepatocytes with up to 100 µM fosdenopterin produced little or no increase in CYP1A2, CYP2B6, or CYP3A4 mRNA and enzyme activity levels.
 
-Fosdenopterin does not inhibit efflux or uptake transporters. Inhibition of P-gp, BCRP, OATP1B1, OATP1B3, OCT2, OAT1 (20 μM), OAT3, MATE1, and MATE2 -K (20 μM) was reported as &lt; 10% at 200 μM, while cPMP demonstrated slight inhibition of MATE2 -K (25%) and OAT1 (33%) at 200 μM. Fosdenopterin is not a substrate of P -gp, BCRP, OAT1, OAT3, OATP1B1, OATP1B3, OCT2, or MATE2-K, and is possibly a weak substrate for MATE1.
+Fosdenopterin does not inhibit efflux or uptake transporters. Inhibition of P-gp, BCRP, OATP1B1, OATP1B3, OCT2, OAT1 (20 μM), OAT3, MATE1, and MATE2-K (20 μM) was reported as &lt; 10% at 200 μM, while cPMP demonstrated slight inhibition of MATE2-K (25%) and OAT1 (33%) at 200 μM. Fosdenopterin is not a substrate of P-gp, BCRP, OAT1, OAT3, OATP1B1, OATP1B3, OCT2, or MATE2-K, and is possibly a weak substrate for MATE1.
 
 ## Elimination
 
@@ -285,13 +284,13 @@ Nonclinical data reveal no special hazard for humans based on conventional studi
 
 Carcinogenicity studies have not been conducted with fosdenopterin.
 
-## Reproductive and developmental toxicity
+Reproductive and developmental toxicity
 
 Reproductive and developmental toxicity studies have not been conducted with fosdenopterin.
 
 ## Phototoxicity
 
-Fosdenopterin was phototoxic in vitro and in vivo . In rats, cutaneous skin reactions (erythema, oedema, flaking, and eschar) and ophthalmic and histopathologic changes were observed after UV radiation.
+Fosdenopterin was phototoxic in vitro and in vivo. In rats, cutaneous skin reactions (erythema, oedema, flaking, and eschar) and ophthalmic and histopathologic changes were observed after UV radiation.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -305,7 +304,7 @@ This medicinal product must not be mixed with other medicinal products, except t
 
 ## 6.3 Shelf life
 
-## Unopened vial
+Unopened vial
 
 2 years
 
@@ -315,11 +314,9 @@ Reconstituted NULIBRY may be stored at room temperature (15 °C to 25 °C) or re
 
 Chemical and physical in-use stability has been demonstrated for 4 hours at 2 °C to 8 °C or 15 °C to 25 °C.
 
-From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than the above mentioned conditions when reconstitution has taken place in controlled and validated aseptic conditions.
 
 <div style=\"page-break-after: always\"></div>
-
-would normally not be longer than the above mentioned conditions when reconstitution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
@@ -373,7 +370,7 @@ Any unused medicinal product or waste material including materials used for reco
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-TMC Pharma (EU) Ltd G24A Arc Labs Research and Innovation Centre, SETU West Campus, Carriganore, Waterford, X91 P20H,
+Integral Pharma Solutions EU Limited 1 Windmill Lane Dublin 2 D02 F206
 
 Ireland
 
@@ -383,7 +380,7 @@ EU/1/22/1684/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 15-09-2022
+Date of first authorisation: 15 September 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -442,7 +439,7 @@ The MAH shall ensure that in each Member State where NULIBRY is marketed, all pa
 
 <div style=\"page-break-after: always\"></div>
 
-## · Infusion Diary
+- Infusion Diary
 
 ## Instructions for use:
 
@@ -464,10 +461,10 @@ The MAH shall ensure that in each Member State where NULIBRY is marketed, all pa
 
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                       | Due date                              |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| In order to ensure adequate monitoring of safety and efficacy of Nulibry in the treatment of patients with molybdenum cofactor deficiency (MoCD) Type A, the MAHshall provide yearly updates on any new information concerning the safety and efficacy of Nulibry.                                                | Annually (with annual re- assessment) |
-| Non-interventional Post authorisation safety study (PASS): In order to further characterise the long-term safety and efficacy of Nulibry, the MAHshould conduct and submit the results of an observational, prospective study of patients with molybdenum cofactor deficiency (MoCD) Type A treated with Nulibry. | Annually (with annual re- assessment) |
+| Description                                                                                                                                                                                                                                                                                                        | Due date                              |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| In order to ensure adequate monitoring of safety and efficacy of Nulibry in the treatment of patients with molybdenum cofactor deficiency (MoCD) Type A, the MAH shall provide yearly updates on any new information concerning the safety and efficacy of Nulibry.                                                | Annually (with annual re- assessment) |
+| Non-interventional Post authorisation safety study (PASS): In order to further characterise the long-term safety and efficacy of Nulibry, the MAH should conduct and submit the results of an observational, prospective study of patients with molybdenum cofactor deficiency (MoCD) Type A treated with Nulibry. | Annually (with annual re- assessment) |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -527,13 +524,13 @@ Keep the vial in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-TMC Pharma (EU) Ltd
+Integral Pharma Solutions EU Limited
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -548,8 +545,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -561,8 +558,8 @@ Justification for not including Braille requested.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -572,7 +569,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-NULIBRY 9.5 mg powder for injection fosdenopterin IV use after reconstitution
+NULIBRY 9.5 mg powder for injection fosdenopterin
+
+IV use after reconstitution
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -612,9 +611,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you or your child.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or nurse.
-- -If you or your child get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- If you or your child get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -631,7 +630,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 NULIBRY contains the active substance fosdenopterin.
 
-NULIBRY is given to people with the genetic disease molybdenum cofactor deficiency (MoCD) Type A . It is given to people when doctors suspect that they might have MoCD Type A. It needs to be continued for life if MoCD Type A is confirmed by genetic testing.
+NULIBRY is given to people with the genetic disease molybdenum cofactor deficiency (MoCD) Type A. It is given to people when doctors suspect that they might have MoCD Type A. It needs to be continued for life if MoCD Type A is confirmed by genetic testing.
 
 ## What molybdenum cofactor deficiency (MoCD) Type A is
 
@@ -647,7 +646,7 @@ NULIBRY provides the missing substance that you or your child's body needs to br
 
 ## Do not use NULIBRY
 
-- -if you or your child is allergic to fosdenopterin or any of the other ingredients of this medicine (listed in section 6).
+- if you or your child is allergic to fosdenopterin or any of the other ingredients of this medicine (listed in section 6).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -729,9 +728,9 @@ Reconstituted NULIBRY may be stored at room temperature (15 °C-25 °C) or refri
 
 If reconstituted NULIBRY is refrigerated, allow it to come to room temperature (by rolling each vial gently between your hands for 3 to 5 minutes (do not shake) or by leaving it at room temperature for approximately 30 minutes) before giving NULIBRY.
 
-- -Do not heat.
-- -Do not freeze NULIBRY after reconstitution.
-- -Do not shake.
+- Do not heat.
+- Do not freeze NULIBRY after reconstitution.
+- Do not shake.
 
 The reconstituted solution must be a clear and colourless to pale yellow solution. Do not use this medicine if you notice any particles or if the solution is discoloured.
 
@@ -741,8 +740,8 @@ Do not throw away any medicines or waste material, including materials used for 
 
 ## What NULIBRY contains
 
-- -The active substance is fosdenopterin 9.5 mg. Each vial contains fosdenopterin hydrobromide dihydrate equivalent to 9.5 mg fosdenopterin.
-- -The other ingredients are: ascorbic acid (E300), mannitol (E421), sucrose, hydrochloric acid (E507), sodium hydroxide (E524) (see section 2 'NULIBRY contains sodium').
+- The active substance is fosdenopterin 9.5 mg. Each vial contains fosdenopterin hydrobromide dihydrate equivalent to 9.5 mg fosdenopterin.
+- The other ingredients are: ascorbic acid (E300), mannitol (E421), sucrose, hydrochloric acid (E507), sodium hydroxide (E524) (see section 2 \"NULIBRY contains sodium\").
 
 <div style=\"page-break-after: always\"></div>
 
@@ -754,7 +753,9 @@ Each pack contains one vial.
 
 ## Marketing Authorisation Holder
 
-TMC Pharma (EU) Ltd G24A Arc Labs Research and Innovation Centre, SETU West Campus, Carriganore, Waterford, X91 P20H, Ireland
+Integral Pharma Solutions EU Limited 1 Windmill Lane Dublin 2 D02 F206
+
+Ireland
 
 ## Manufacturer
 
@@ -795,15 +796,15 @@ NULIBRY is given into your child's vein (intravenously), through a catheter-type
 - o start and end time of the dose
 - o a place to capture adverse events, medication errors, and complications with the administration
 
-Be sure to keep this information up to date when the dose changes. Bring your infusion diary to each follow-up visit with your doctor . Be sure to have your doctor or pharmacist fill in the following information on your infusion diary:
+Be sure to keep this information up to date when the dose changes. Bring your infusion diary to each follow-up visit with your doctor. Be sure to have your doctor or pharmacist fill in the following information on your infusion diary:
 
 - o your child's dose of NULIBRY in millilitres (mL)
 - o number of vials needed to prepare each dose
 - NULIBRY comes as a powder in a vial. Each vial of NULIBRY must be made up with 5 mL of sterile water for injection to dissolve the powder and make a solution before use.
 
-Do not prepare the solution with anything other than sterile water for injections .
+Do not prepare the solution with anything other than sterile water for injections.
 
-NULIBRY must be given within 4 hours of preparing the solution . You may keep the prepared solution of NULIBRY at room temperature or refrigerated for up to 4 hours, including the time necessary to give the dose. If you do not give the prepared dose of NULIBRY within 4 hours, all the solution you have made must be thrown away. See section 5 of the package leaflet 'How to store NULIBRY'.
+NULIBRY must be given within 4 hours of preparing the solution. You may keep the prepared solution of NULIBRY at room temperature or refrigerated for up to 4 hours, including the time necessary to give the dose. If you do not give the prepared dose of NULIBRY within 4 hours, all the solution you have made must be thrown away. See section 5 of the package leaflet \"How to store NULIBRY\".
 
 ## Preparing to give NULIBRY
 
@@ -840,7 +841,7 @@ NULIBRY must be given within 4 hours of preparing the solution . You may keep th
 - Remove the flip-off cap from each vial of sterile water for injection needed.
 - Clean the rubber stopper of each vial with an alcohol wipe and allow to air dry. Do not blow on the stopper to dry it faster.
 
-Note : If you touch the vial stopper, you will need to clean it again with an alcohol wipe.
+Note: If you touch the vial stopper, you will need to clean it again with an alcohol wipe.
 
 <!-- image -->
 
@@ -902,8 +903,7 @@ Note : If you touch the vial stopper, you will need to clean it again with an al
 
 <div style=\"page-break-after: always\"></div>
 
-nobody can be injured. Do not try to recap the needle. See section 5 ' How to store NULIBRY '
-
+- nobody can be injured. Do not try to recap the needle. See section 5 \"How to store NULIBRY\"
 - Gently swirl the vial continuously until the powder is completely dissolved. Do not shake the vial.
 - Repeat steps 4 through 6 if more than 1 vial of NULIBRY is needed to prepare your child's prescribed NULIBRY dose.
 - Use a new 5 mL syringe and new needle for each vial of NULIBRY.
@@ -950,10 +950,12 @@ Note: Once prepared, the NULIBRY solution should be clear, and colourless to pal
 
 <div style=\"page-break-after: always\"></div>
 
-- Replace the needle cover before removing the needle from the syringe by placing the cover on a flat surface and sliding the needle into the cover as shown. With one hand, hold the syringe and use the needle to 'scoop up' the cover. Once the cover is on the needle, use the other hand to secure the cover on the needle hub.
-- •
-- Remove the covered needle from the syringe tip with a screw action in the direction of the arrow as shown. Do not touch the tip of the syringe after removing the needle.
-- Throw away the needle properly. See section 5 'How to store NULIBRY'
+- Replace the needle cover before removing the needle from the syringe by placing the cover on a flat surface and sliding the needle into the cover as shown. With one hand, hold the syringe and use the needle to \"scoop up\" the cover. Once the cover is on the needle, use the other hand to secure the cover on the needle hub.
+- Remove the covered needle from the syringe tip with a screw action in the direction of the arrow as shown.
+
+Do not touch the tip of the syringe after removing the needle.
+
+- Throw away the needle properly. See section 5 \"How to store NULIBRY\"
 - Throw away the used NULIBRY vial(s) after use, even if there is medicine left in the vial as instructed by your pharmacist. Do not throw it out with the household waste.
 - The dose of NULIBRY is now ready to be given to your child.
 
@@ -974,7 +976,17 @@ Note: Once prepared, the NULIBRY solution should be clear, and colourless to pal
 
 <div style=\"page-break-after: always\"></div>
 
-| • If the amount (volume) in mL for your child's prescribed dose of NULIBRY is less than 2 mL, your doctor may tell you to give NULIBRY by injecting it slowly using a syringe. Follow your doctor's instructions for how to give your child's dose of NULIBRY by slow injection. • Follow your doctor's instructions for proper care of your child's intravenous access catheter - type device before and after giving a dose of NULIBRY.   | • If the amount (volume) in mL for your child's prescribed dose of NULIBRY is less than 2 mL, your doctor may tell you to give NULIBRY by injecting it slowly using a syringe. Follow your doctor's instructions for how to give your child's dose of NULIBRY by slow injection. • Follow your doctor's instructions for proper care of your child's intravenous access catheter - type device before and after giving a dose of NULIBRY.   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 9: Record the injection After giving each dose of NULIBRY, record information about the dose in an infusion diary. See the section of this instructions for use called ' Important information you need to know before preparing and giving NULIBRY. '                                                                                                                                                                                 | Step 9: Record the injection After giving each dose of NULIBRY, record information about the dose in an infusion diary. See the section of this instructions for use called ' Important information you need to know before preparing and giving NULIBRY. '                                                                                                                                                                                 |
-| Step 10: Disposal After injection, safely throw away all unused NULIBRY solution, the syringe with the injection set, the vial and other waste materials as instructed by your pharmacist. Do not throw it out with the household waste. These measures will help protect the environment.                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+- If the amount (volume) in mL for your child's prescribed dose of NULIBRY is less than 2 mL, your doctor may tell you to give NULIBRY by injecting it slowly using a syringe. Follow your doctor's instructions for how to give your child's dose of NULIBRY by slow injection.
+- Follow your doctor's instructions for proper care of your child's intravenous access catheter-type device before and after giving a dose of NULIBRY.
+
+## Step 9: Record the injection
+
+After giving each dose of NULIBRY, record information about the dose in an infusion diary. See the section of this instructions for use called \"Important information you need to know before
+
+## preparing and giving NULIBRY.\"
+
+## Step 10: Disposal
+
+After injection, safely throw away all unused NULIBRY solution, the syringe with the injection set, the vial and other waste materials as instructed by your pharmacist.
+
+Do not throw it out with the household waste. These measures will help protect the environment.

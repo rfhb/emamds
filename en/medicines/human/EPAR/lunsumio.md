@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-02 13:00:00
+document_datetime: 2026-10-07 15:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lunsumio.html
 document_name: lunsumio.html
 version: success
-processing_time: 0.1582926
-conversion_datetime: 2026-07-04 13:06:02.177361
+processing_time: 0.1810588
+conversion_datetime: 2026-10-10 14:00:29.056491
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Lunsumio
 
 [RSS](/en/individual-human-medicine.xml/67569)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -122,7 +122,7 @@ English (EN) (126.18 KB - PDF)
 
 [View](/en/documents/overview/lunsumio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-647)
+[Other languages (22)](#file-language-dropdown-728)
 
 български (BG) (149.6 KB - PDF)
 
@@ -268,167 +268,167 @@ English (EN) (2.55 MB - PDF)
 
 Lunsumio : EPAR - Product Information
 
-English (EN) (255.18 KB - PDF)
+English (EN) (260.93 KB - PDF)
 
-**First published:** 23/06/2022 **Last updated:** 02/07/2026
+**First published:** 23/06/2022 **Last updated:** 07/10/2026
 
 [View](/en/documents/product-information/lunsumio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-886)
+[Other languages (24)](#file-language-dropdown-562)
 
-български (BG) (873.56 KB - PDF)
+български (BG) (891.79 KB - PDF)
 
 **First published:** 23/06/2022 **Last updated:** 02/07/2026
 
 [View](/bg/documents/product-information/lunsumio-epar-product-information_bg.pdf)
 
-español (ES) (588.22 KB - PDF)
+español (ES) (585.98 KB - PDF)
 
 **First published:** 23/06/2022 **Last updated:** 02/07/2026
 
 [View](/es/documents/product-information/lunsumio-epar-product-information_es.pdf)
 
-čeština (CS) (699.33 KB - PDF)
+čeština (CS) (715.71 KB - PDF)
 
 **First published:** 23/06/2022 **Last updated:** 02/07/2026
 
 [View](/cs/documents/product-information/lunsumio-epar-product-information_cs.pdf)
 
-dansk (DA) (592.06 KB - PDF)
+dansk (DA) (604.24 KB - PDF)
 
 **First published:** 23/06/2022 **Last updated:** 02/07/2026
 
 [View](/da/documents/product-information/lunsumio-epar-product-information_da.pdf)
 
-Deutsch (DE) (654.17 KB - PDF)
+Deutsch (DE) (668.71 KB - PDF)
 
 **First published:** 23/06/2022 **Last updated:** 02/07/2026
 
 [View](/de/documents/product-information/lunsumio-epar-product-information_de.pdf)
 
-eesti (ET) (663.23 KB - PDF)
+eesti (ET) (690.47 KB - PDF)
 
 **First published:** 23/06/2022 **Last updated:** 02/07/2026
 
 [View](/et/documents/product-information/lunsumio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (797.37 KB - PDF)
+ελληνικά (EL) (931.41 KB - PDF)
 
 **First published:** 23/06/2022 **Last updated:** 02/07/2026
 
 [View](/el/documents/product-information/lunsumio-epar-product-information_el.pdf)
 
-français (FR) (641.63 KB - PDF)
+français (FR) (672.44 KB - PDF)
 
 **First published:** 23/06/2022 **Last updated:** 02/07/2026
 
 [View](/fr/documents/product-information/lunsumio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (709.31 KB - PDF)
+hrvatski (HR) (753.28 KB - PDF)
 
 **First published:** 23/06/2022 **Last updated:** 02/07/2026
 
 [View](/hr/documents/product-information/lunsumio-epar-product-information_hr.pdf)
 
-italiano (IT) (617.44 KB - PDF)
+italiano (IT) (647.48 KB - PDF)
 
 **First published:** 23/06/2022 **Last updated:** 02/07/2026
 
 [View](/it/documents/product-information/lunsumio-epar-product-information_it.pdf)
 
-latviešu (LV) (901.49 KB - PDF)
+latviešu (LV) (771.17 KB - PDF)
 
-**First published:** 23/06/2022 **Last updated:** 02/07/2026
+**First published:** 23/06/2022 **Last updated:** 07/10/2026
 
 [View](/lv/documents/product-information/lunsumio-epar-product-information_lv.pdf)
 
-lietuvių (LT) (736.79 KB - PDF)
+lietuvių (LT) (749.85 KB - PDF)
 
-**First published:** 23/06/2022 **Last updated:** 02/07/2026
+**First published:** 23/06/2022 **Last updated:** 07/10/2026
 
 [View](/lt/documents/product-information/lunsumio-epar-product-information_lt.pdf)
 
-magyar (HU) (764.78 KB - PDF)
+magyar (HU) (781.46 KB - PDF)
 
 **First published:** 23/06/2022 **Last updated:** 02/07/2026
 
 [View](/hu/documents/product-information/lunsumio-epar-product-information_hu.pdf)
 
-Malti (MT) (791.29 KB - PDF)
+Malti (MT) (813.62 KB - PDF)
 
-**First published:** 23/06/2022 **Last updated:** 02/07/2026
+**First published:** 23/06/2022 **Last updated:** 07/10/2026
 
 [View](/mt/documents/product-information/lunsumio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (616.68 KB - PDF)
+Nederlands (NL) (641.29 KB - PDF)
 
-**First published:** 23/06/2022 **Last updated:** 02/07/2026
+**First published:** 23/06/2022 **Last updated:** 07/10/2026
 
 [View](/nl/documents/product-information/lunsumio-epar-product-information_nl.pdf)
 
-polski (PL) (764.13 KB - PDF)
+polski (PL) (746.9 KB - PDF)
 
-**First published:** 23/06/2022 **Last updated:** 02/07/2026
+**First published:** 23/06/2022 **Last updated:** 07/10/2026
 
 [View](/pl/documents/product-information/lunsumio-epar-product-information_pl.pdf)
 
-português (PT) (627.35 KB - PDF)
+português (PT) (664.64 KB - PDF)
 
-**First published:** 23/06/2022 **Last updated:** 02/07/2026
+**First published:** 23/06/2022 **Last updated:** 07/10/2026
 
 [View](/pt/documents/product-information/lunsumio-epar-product-information_pt.pdf)
 
-română (RO) (743.46 KB - PDF)
+română (RO) (757.84 KB - PDF)
 
-**First published:** 23/06/2022 **Last updated:** 02/07/2026
+**First published:** 23/06/2022 **Last updated:** 07/10/2026
 
 [View](/ro/documents/product-information/lunsumio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (749.55 KB - PDF)
+slovenčina (SK) (778.53 KB - PDF)
 
-**First published:** 23/06/2022 **Last updated:** 02/07/2026
+**First published:** 23/06/2022 **Last updated:** 07/10/2026
 
 [View](/sk/documents/product-information/lunsumio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (711.07 KB - PDF)
+slovenščina (SL) (720.82 KB - PDF)
 
-**First published:** 23/06/2022 **Last updated:** 02/07/2026
+**First published:** 23/06/2022 **Last updated:** 07/10/2026
 
 [View](/sl/documents/product-information/lunsumio-epar-product-information_sl.pdf)
 
-suomi (FI) (623.01 KB - PDF)
+suomi (FI) (625.67 KB - PDF)
 
 **First published:** 23/06/2022 **Last updated:** 02/07/2026
 
 [View](/fi/documents/product-information/lunsumio-epar-product-information_fi.pdf)
 
-svenska (SV) (579.22 KB - PDF)
+svenska (SV) (597.98 KB - PDF)
 
-**First published:** 23/06/2022 **Last updated:** 02/07/2026
+**First published:** 23/06/2022 **Last updated:** 07/10/2026
 
 [View](/sv/documents/product-information/lunsumio-epar-product-information_sv.pdf)
 
-Íslenska (IS) (596.56 KB - PDF)
+Íslenska (IS) (602.3 KB - PDF)
 
-**First published:** 23/06/2022 **Last updated:** 02/07/2026
+**First published:** 23/06/2022 **Last updated:** 07/10/2026
 
 [View](/is/documents/product-information/lunsumio-epar-product-information_is.pdf)
 
-norsk (NO) (664.13 KB - PDF)
+norsk (NO) (698.31 KB - PDF)
 
-**First published:** 23/06/2022 **Last updated:** 02/07/2026
+**First published:** 23/06/2022 **Last updated:** 07/10/2026
 
 [View](/no/documents/product-information/lunsumio-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000350590
+**Latest procedure affecting product information:** PSUR/0000336142
 
-30/06/2026
+18/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -447,7 +447,7 @@ English (EN) (61.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lunsumio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-778)
+[Other languages (24)](#file-language-dropdown-576)
 
 български (BG) (41.44 KB - PDF)
 
@@ -632,7 +632,7 @@ Lunsumio as monotherapy is indicated for the treatment of adult patients with re
 - **Marketing authorisation issued**
     - 03/06/2022
 - **Revision**
-    - 8
+    - 9
 
 ## Assessment history
 
@@ -644,9 +644,9 @@ Collapse section
 
 Lunsumio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (137.91 KB - PDF)
+English (EN) (165.81 KB - PDF)
 
-**First published:** 02/07/2026
+**First published:** 02/07/2026 **Last updated:** 07/10/2026
 
 [View](/en/documents/procedural-steps-after/lunsumio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -657,6 +657,16 @@ English (EN) (165.43 KB - PDF)
 **First published:** 20/04/2023 **Last updated:** 02/07/2026
 
 [View](/en/documents/procedural-steps-after/lunsumio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Lunsumio-PSUSA-00010999-202512 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3490840
+
+English (EN) (177.12 KB - PDF)
+
+**First published:** 07/10/2026
+
+[View](/en/documents/scientific-conclusion/lunsumio-psusa-00010999-202512-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Lunsumio-H-C-005680-X-0015 : EPAR - Assessment report - Variation
 
@@ -747,6 +757,6 @@ English (EN) (125.71 KB - PDF)
 
 **This page was last updated on**
 
-02/07/2026
+07/10/2026
 
 ## Share this page

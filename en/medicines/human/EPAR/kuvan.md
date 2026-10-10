@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-06-22 17:02:00
+document_datetime: 2026-10-07 16:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kuvan.html
 document_name: kuvan.html
 version: success
-processing_time: 0.1785953
-conversion_datetime: 2026-06-25 16:46:52.867521
+processing_time: 0.2286238
+conversion_datetime: 2026-10-10 13:59:57.555377
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Kuvan
 
 [RSS](/en/individual-human-medicine.xml/66733)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -41,7 +41,6 @@ Page contents
 - [More information on Kuvan](#more-information-on-kuvan-775)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-82398)
 - [More information on Kuvan](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -113,7 +112,7 @@ English (EN) (78.78 KB - PDF)
 
 [View](/en/documents/overview/kuvan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-404)
+[Other languages (22)](#file-language-dropdown-889)
 
 български (BG) (105.67 KB - PDF)
 
@@ -265,7 +264,7 @@ English (EN) (306.81 KB - PDF)
 
 [View](/en/documents/product-information/kuvan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-303)
+[Other languages (24)](#file-language-dropdown-827)
 
 български (BG) (455.7 KB - PDF)
 
@@ -419,7 +418,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -438,7 +437,7 @@ English (EN) (19.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kuvan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-836)
+[Other languages (24)](#file-language-dropdown-640)
 
 български (BG) (46.76 KB - PDF)
 
@@ -728,155 +727,155 @@ The approved product information for this medicine is available below showing th
 
 Kuvan : EPAR - Product information - tracked changes
 
-English (EN) (158.86 KB - DOCX)
+English (EN) (159.1 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/en/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-897)
+[Other languages (24)](#file-language-dropdown-351)
 
-български (BG) (162.05 KB - DOCX)
+български (BG) (154.07 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/bg/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (148.58 KB - DOCX)
+español (ES) (148.47 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/es/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (150.9 KB - DOCX)
+čeština (CS) (144.07 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/cs/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (122.18 KB - DOCX)
+dansk (DA) (130.85 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/da/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (146.9 KB - DOCX)
+Deutsch (DE) (146.05 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/de/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_de.docx)
 
-eesti (ET) (134.65 KB - DOCX)
+eesti (ET) (133.93 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/et/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (152.68 KB - DOCX)
+ελληνικά (EL) (161.91 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/el/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (147.99 KB - DOCX)
+français (FR) (144.99 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/fr/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (144.22 KB - DOCX)
+hrvatski (HR) (142.88 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/hr/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_hr.docx)
 
-italiano (IT) (144.95 KB - DOCX)
+italiano (IT) (126.21 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/it/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_it.docx)
 
-latviešu (LV) (131.76 KB - DOCX)
+latviešu (LV) (135.98 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/lv/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių (LT) (131.38 KB - DOCX)
+lietuvių (LT) (137.47 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/lt/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (148.23 KB - DOCX)
+magyar (HU) (148.26 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/hu/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (141.56 KB - DOCX)
+Malti (MT) (138.57 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/mt/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (138.82 KB - DOCX)
+Nederlands (NL) (137.04 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/nl/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_nl.docx)
 
-polski (PL) (153.99 KB - DOCX)
+polski (PL) (150.96 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/pl/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (131.52 KB - DOCX)
+português (PT) (133.08 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/pt/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (144.02 KB - DOCX)
+română (RO) (145.3 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/ro/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (137.22 KB - DOCX)
+slovenčina (SK) (137.32 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/sk/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (140.19 KB - DOCX)
+slovenščina (SL) (138.56 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/sl/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_sl.docx)
 
-suomi (FI) (119.18 KB - DOCX)
+suomi (FI) (130.09 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/fi/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (137.25 KB - DOCX)
+svenska (SV) (134.28 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/sv/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_sv.docx)
 
-Íslenska (IS) (122.79 KB - DOCX)
+Íslenska (IS) (122.73 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/is/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_is.docx)
 
-norsk (NO) (125.46 KB - DOCX)
+norsk (NO) (126.81 KB - DOCX)
 
-**First published:** 07/01/2026
+**First published:** 07/01/2026 **Last updated:** 07/10/2026
 
 [View](/no/documents/product-information-tracked-changes/kuvan-epar-product-information-tracked-changes_no.docx)
 
@@ -884,12 +883,8 @@ norsk (NO) (125.46 KB - DOCX)
 
 - [EMEA-001476-PIP01-13-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001476-pip01-13-m01)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-22/06/2026
+07/10/2026
 
 ## Share this page

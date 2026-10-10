@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-17 10:35:00
+document_datetime: 2026-10-07 16:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imbruvica.html
 document_name: imbruvica.html
 version: success
-processing_time: 0.143599
-conversion_datetime: 2026-02-21 12:36:38.452569
+processing_time: 0.2707895
+conversion_datetime: 2026-10-10 13:59:26.939963
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Imbruvica
 
 [RSS](/en/individual-human-medicine.xml/67011)
 
-##### Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-ibrutinib Medicine Human Authorised
+ibrutinib
+
+Medicine Human Authorised
 
 Page contents
 
@@ -39,7 +41,6 @@ Page contents
 - [Product information - with tracked changes](#product-information-with-tracked-changes-80491)
 - [More information on Imbruvica](#more-information-on-imbruvica-850)
 - [More information on Imbruvica](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -69,7 +70,7 @@ Expand section
 
 Collapse section
 
-## How is Imbruvica used?
+### How is Imbruvica used?
 
 Imbruvica can only be obtained with a prescription, and treatment should be started and supervised by a doctor experienced in using cancer medicines.
 
@@ -81,11 +82,11 @@ If the patient is taking other medicines that may interact with Imbruvica or get
 
 For more information about using Imbruvica, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Imbruvica work?
+### How does Imbruvica work?
 
 The active substance in Imbruvica, ibrutinib, works against cancerous B lymphocytes, a type of white blood cells. It does this by blocking an enzyme called Bruton's tyrosine kinase (Btk), which helps B lymphocytes survive and migrate to organs where they normally multiply. By blocking Btk, ibrutinib reduces the survival and migration of B lymphocytes, thereby delaying progression of the cancer.
 
-## What benefits of Imbruvica have been shown in studies?
+### What benefits of Imbruvica have been shown in studies?
 
 **Mantle cell lymphoma not treated before**
 
@@ -126,7 +127,7 @@ In one main study involving 63 patients who had previously received another trea
 
 In a study involving 150 patients with Waldenström's macroglobulinaemia, after 26 months, death or signs that the cancer was progressing occurred in 19% of patients who took Imbruvica together with rituximab compared with 56% of patients who took only rituximab.
 
-## What are the risks associated with Imbruvica?
+### What are the risks associated with Imbruvica?
 
 For the full list of side effects and restrictions with Imbruvica, see the package leaflet.
 
@@ -136,19 +137,19 @@ The most serious side effects (which may affect more than 1 in 20 people) includ
 
 St. John's wort (a herbal remedy used for depression and anxiety) must not be used in patients treated with Imbruvica.
 
-## Why is Imbruvica authorised in the EU?
+### Why is Imbruvica authorised in the EU?
 
 Imbruvica was effective in patients with mantle cell lymphoma that did not respond to or had come back after previous treatment, a group of patients with poor prognosis and few other treatment options. In patients with previously untreated mantle cell lymphoma, Imbruvica was shown to benefit patients when used with combination therapies containing rituximab, chemotherapy and corticosteroids, and may therefore replace ASCT. Imbruvica was also shown to be effective at delaying progression of chronic lymphocytic leukaemia, both in untreated patients and in those who had received treatment previously. In addition, Imbruvica was shown to be effective in patients with Waldenström's macroglobulinaemia. The side effects of the medicine were considered acceptable.
 
 The European Medicines Agency therefore decided that Imbruvica's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Imbruvica?
+### What measures are being taken to ensure the safe and effective use of Imbruvica?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Imbruvica have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Imbruvica are continuously monitored. Side effects reported with Imbruvica are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Imbruvica
+### Other information about Imbruvica
 
 Imbruvica received a marketing authorisation valid throughout the EU on 21 October 2014.
 
@@ -158,263 +159,135 @@ Reference Number: EMA/635597/2022
 
 English (EN) (155.39 KB - PDF)
 
-**First published:** 25/11/2014
-
-**Last updated:** 10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/en/documents/overview/imbruvica-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-952)
+[Other languages (21)](#file-language-dropdown-33)
 
 български (BG) (184.21 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/bg/documents/overview/imbruvica-epar-medicine-overview_bg.pdf)
 
 español (ES) (156.75 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/es/documents/overview/imbruvica-epar-medicine-overview_es.pdf)
 
 čeština (CS) (183.81 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/cs/documents/overview/imbruvica-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (154.14 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/da/documents/overview/imbruvica-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (157.97 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/de/documents/overview/imbruvica-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (152.5 KB - PDF)
+eesti (ET) (152.5 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/et/documents/overview/imbruvica-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (186.24 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/el/documents/overview/imbruvica-epar-medicine-overview_el.pdf)
 
 français (FR) (158.29 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/fr/documents/overview/imbruvica-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (182.84 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/hr/documents/overview/imbruvica-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (152.95 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/it/documents/overview/imbruvica-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (192.05 KB - PDF)
+latviešu (LV) (192.05 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/lv/documents/overview/imbruvica-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (181.82 KB - PDF)
+lietuvių (LT) (181.82 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/lt/documents/overview/imbruvica-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (183.74 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/hu/documents/overview/imbruvica-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (184.75 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/mt/documents/overview/imbruvica-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (155.54 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/nl/documents/overview/imbruvica-epar-medicine-overview_nl.pdf)
 
 polski (PL) (196.79 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/pl/documents/overview/imbruvica-epar-medicine-overview_pl.pdf)
 
 português (PT) (155.46 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/pt/documents/overview/imbruvica-epar-medicine-overview_pt.pdf)
 
 română (RO) (179.91 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/ro/documents/overview/imbruvica-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (183.5 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/sk/documents/overview/imbruvica-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (180.71 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/sl/documents/overview/imbruvica-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (153.64 KB - PDF)
+suomi (FI) (153.64 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-10/09/2025
+**First published:** 25/11/2014 **Last updated:** 10/09/2025
 
 [View](/fi/documents/overview/imbruvica-epar-medicine-overview_fi.pdf)
 
@@ -422,9 +295,7 @@ Imbruvica : EPAR - Risk-management-plan summary
 
 English (EN) (1.76 MB - PDF)
 
-**First published:** 25/11/2014
-
-**Last updated:** 18/01/2024
+**First published:** 25/11/2014 **Last updated:** 18/01/2024
 
 [View](/en/documents/rmp-summary/imbruvica-epar-risk-management-plan-summary_en.pdf)
 
@@ -434,309 +305,166 @@ Imbruvica : EPAR - Product Information
 
 English (EN) (2.83 MB - PDF)
 
-**First published:** 25/11/2014
-
-**Last updated:** 17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/en/documents/product-information/imbruvica-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-730)
+[Other languages (24)](#file-language-dropdown-616)
 
-български (BG) (1.36 MB - PDF)
+български (BG) (1.38 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/bg/documents/product-information/imbruvica-epar-product-information_bg.pdf)
 
-español (ES) (2.21 MB - PDF)
+español (ES) (2.22 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/es/documents/product-information/imbruvica-epar-product-information_es.pdf)
 
 čeština (CS) (1.47 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/cs/documents/product-information/imbruvica-epar-product-information_cs.pdf)
 
-dansk (DA) (2.88 MB - PDF)
+dansk (DA) (2.89 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/da/documents/product-information/imbruvica-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.6 MB - PDF)
+Deutsch (DE) (2.73 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/de/documents/product-information/imbruvica-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.22 MB - PDF)
+eesti (ET) (2.22 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/et/documents/product-information/imbruvica-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.71 MB - PDF)
+ελληνικά (EL) (2.72 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/el/documents/product-information/imbruvica-epar-product-information_el.pdf)
 
-français (FR) (3.29 MB - PDF)
+français (FR) (2.82 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/fr/documents/product-information/imbruvica-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.07 MB - PDF)
+hrvatski (HR) (1.85 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/hr/documents/product-information/imbruvica-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.76 MB - PDF)
-
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
-
-[View](/is/documents/product-information/imbruvica-epar-product-information_is.pdf)
-
 italiano (IT) (2.54 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/it/documents/product-information/imbruvica-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.55 MB - PDF)
+latviešu (LV) (3.56 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/lv/documents/product-information/imbruvica-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.57 MB - PDF)
+lietuvių (LT) (2.58 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/lt/documents/product-information/imbruvica-epar-product-information_lt.pdf)
 
-magyar (HU) (1.4 MB - PDF)
+magyar (HU) (1.41 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/hu/documents/product-information/imbruvica-epar-product-information_hu.pdf)
 
 Malti (MT) (3.18 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/mt/documents/product-information/imbruvica-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.61 MB - PDF)
+Nederlands (NL) (1.62 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/nl/documents/product-information/imbruvica-epar-product-information_nl.pdf)
 
-norsk (NO) (2.98 MB - PDF)
-
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
-
-[View](/no/documents/product-information/imbruvica-epar-product-information_no.pdf)
-
 polski (PL) (2.3 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/pl/documents/product-information/imbruvica-epar-product-information_pl.pdf)
 
-português (PT) (2.54 MB - PDF)
+português (PT) (2.17 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/pt/documents/product-information/imbruvica-epar-product-information_pt.pdf)
 
 română (RO) (3.51 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/ro/documents/product-information/imbruvica-epar-product-information_ro.pdf)
 
 slovenčina (SK) (2.11 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/sk/documents/product-information/imbruvica-epar-product-information_sk.pdf)
 
 slovenščina (SL) (3.37 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/sl/documents/product-information/imbruvica-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.72 MB - PDF)
+suomi (FI) (1.72 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/fi/documents/product-information/imbruvica-epar-product-information_fi.pdf)
 
 svenska (SV) (2.07 MB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-17/02/2026
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
 
 [View](/sv/documents/product-information/imbruvica-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000327541 13/02/2026
+Íslenska (IS) (2.77 MB - PDF)
+
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
+
+[View](/is/documents/product-information/imbruvica-epar-product-information_is.pdf)
+
+norsk (NO) (3 MB - PDF)
+
+**First published:** 25/11/2014 **Last updated:** 07/10/2026
+
+[View](/no/documents/product-information/imbruvica-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** PSUR/0000336107
+
+14/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -750,310 +478,167 @@ Imbruvica : EPAR - All Authorised presentations
 
 English (EN) (35.41 KB - PDF)
 
-**First published:** 25/11/2014
-
-**Last updated:** 07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/en/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-671)
+[Other languages (24)](#file-language-dropdown-201)
 
 български (BG) (31.69 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/bg/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (35.64 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/es/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (45.88 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/cs/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (29.63 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/da/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (29.53 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/de/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (30.23 KB - PDF)
+eesti (ET) (30.23 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/et/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (31.31 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/el/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (28.3 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/fr/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (34.75 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/hr/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (28.55 KB - PDF)
-
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
-
-[View](/is/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (28.15 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/it/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (36.53 KB - PDF)
+latviešu (LV) (36.53 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/lv/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (36.66 KB - PDF)
+lietuvių (LT) (36.66 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/lt/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (30.14 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/hu/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (30.97 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/mt/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (28.45 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/nl/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (29.8 KB - PDF)
-
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
-
-[View](/no/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (29.62 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/pl/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (29.28 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/pt/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (28.68 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/ro/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (30.39 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/sk/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (28.27 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/sl/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (28.1 KB - PDF)
+suomi (FI) (28.1 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/fi/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (28.68 KB - PDF)
 
-**First published:**
-
-25/11/2014
-
-**Last updated:**
-
-07/05/2019
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
 
 [View](/sv/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (28.55 KB - PDF)
+
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
+
+[View](/is/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (29.8 KB - PDF)
+
+**First published:** 25/11/2014 **Last updated:** 07/05/2019
+
+[View](/no/documents/all-authorised-presentations/imbruvica-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Imbruvica Active substance Ibrutinib International non-proprietary name (INN) or common name ibrutinib Therapeutic area (MeSH)
-
-- Lymphoma, Mantle-Cell
-- Leukemia, Lymphocytic, Chronic, B-Cell
-
-Anatomical therapeutic chemical (ATC) code L01EL01
+- **Name of medicine**
+    - Imbruvica
+- **International non-proprietary name (INN) or common name**
+    - ibrutinib
+- **Therapeutic area (MeSH)**
+        - Lymphoma, Mantle-Cell
+        - Leukemia, Lymphocytic, Chronic, B-Cell
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01EL01
 
 ### Pharmacotherapeutic group
 
@@ -1062,17 +647,28 @@ Anatomical therapeutic chemical (ATC) code L01EL01
 
 ### Therapeutic indication
 
-Imbruvica in combination with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone (IMBRUVICA + R-CHOP) alternating with R-DHAP (or R-DHAOx) without Imbruvica, followed by Imbruvica monotherapy, is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma (MCL) who would be eligible for autologous stem cell transplantation (ASCT). Imbruvica as a single agent is indicated for the treatment of adult patients with relapsed or refractory MCL. Imbruvica as a single agent or in combination with rituximab or obinutuzumab or venetoclax is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) (see section 5.1). Imbruvica as a single agent or in combination with bendamustine and rituximab (BR) is indicated for the treatment of adult patients with CLL who have received at least one prior therapy. Imbruvica as a single agent is indicated for the treatment of adult patients with Waldenström's macroglobulinaemia (WM) who have received at least one prior therapy, or in first line treatment for patients unsuitable for chemo immunotherapy. IMBRUVICA in combination with rituximab is indicated for the treatment of adult patients with WM.
+Imbruvica in combination with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone (IMBRUVICA + R-CHOP) alternating with R-DHAP (or R-DHAOx) without Imbruvica, followed by Imbruvica monotherapy, is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma (MCL) who would be eligible for autologous stem cell transplantation (ASCT).
+
+Imbruvica as a single agent is indicated for the treatment of adult patients with relapsed or refractory MCL.
+
+Imbruvica as a single agent or in combination with rituximab or obinutuzumab or venetoclax is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) (see section 5.1).
+
+Imbruvica as a single agent or in combination with bendamustine and rituximab (BR) is indicated for the treatment of adult patients with CLL who have received at least one prior therapy.
+
+Imbruvica as a single agent is indicated for the treatment of adult patients with Waldenström's macroglobulinaemia (WM) who have received at least one prior therapy, or in first line treatment for patients unsuitable for chemo immunotherapy. IMBRUVICA in combination with rituximab is indicated for the treatment of adult patients with WM.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003791 Marketing authorisation holder
-
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-Opinion adopted 25/07/2014 Marketing authorisation issued 21/10/2014 Revision 37
+- **EMA product number**
+    - EMEA/H/C/003791
+- **Marketing authorisation holder**
+    - Janssen-Cilag International NV Turnhoutseweg 30  2340 Beerse  Belgium
+- **Opinion adopted**
+    - 25/07/2014
+- **Marketing authorisation issued**
+    - 21/10/2014
+- **Revision**
+    - 38
 
 ## Assessment history
 
@@ -1080,15 +676,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Imbruvica : EPAR - Procedural steps taken and scientific information after authorisation
 
 English (EN) (396.7 KB - PDF)
 
-**First published:** 27/10/2025
-
-**Last updated:** 17/02/2026
+**First published:** 27/10/2025 **Last updated:** 07/10/2026
 
 [View](/en/documents/procedural-steps-after/imbruvica-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1096,17 +690,13 @@ Imbruvica : EPAR - Procedural steps taken and scientific information after autho
 
 English (EN) (387.38 KB - PDF)
 
-**First published:** 23/04/2015
-
-**Last updated:** 27/10/2025
+**First published:** 23/04/2015 **Last updated:** 27/10/2025
 
 [View](/en/documents/procedural-steps-after/imbruvica-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Imbruvica-H-C-003791-II-0092 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/200822/2025
+Adopted Reference Number: EMA/CHMP/200822/2025
 
 English (EN) (3.27 MB - PDF)
 
@@ -1116,9 +706,7 @@ English (EN) (3.27 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Imbruvica (II-92)
 
-Adopted
-
-Reference Number: EMA/CHMP/200830/2025
+Adopted Reference Number: EMA/CHMP/200830/2025
 
 English (EN) (165.55 KB - PDF)
 
@@ -1144,7 +732,7 @@ English (EN) (123.16 KB - PDF)
 
 **First published:** 22/09/2023
 
-[View](/en/documents/scientific-conclusion/imbruvica-h-c-psusa-10301-202211-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/imbruvica-h-c-psusa-10301-202211-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Imbruvica : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
 
@@ -1158,9 +746,7 @@ English (EN) (115.11 KB - PDF)
 
 Imbruvica-H-C-003791-P46-037 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/241590/2022
+Adopted Reference Number: EMA/CHMP/241590/2022
 
 English (EN) (214.78 KB - PDF)
 
@@ -1170,9 +756,7 @@ English (EN) (214.78 KB - PDF)
 
 Imbruvica-H-C-003791-P46-036 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/190956/2022
+Adopted Reference Number: EMA/190956/2022
 
 English (EN) (342.35 KB - PDF)
 
@@ -1182,9 +766,7 @@ English (EN) (342.35 KB - PDF)
 
 Imbruvica-H-C-003791-P46-03 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/190958/2022
+Adopted Reference Number: EMA/190958/2022
 
 English (EN) (931.06 KB - PDF)
 
@@ -1194,9 +776,7 @@ English (EN) (931.06 KB - PDF)
 
 Imbruvica-H-C-003791-II-0070 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/667445/2022
+Adopted Reference Number: EMA/667445/2022
 
 English (EN) (8.86 MB - PDF)
 
@@ -1206,9 +786,7 @@ English (EN) (8.86 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Imbruvica (II-70)
 
-Adopted
-
-Reference Number: EMA/CHMP/595994/2022
+Adopted Reference Number: EMA/CHMP/595994/2022
 
 English (EN) (114.02 KB - PDF)
 
@@ -1224,13 +802,11 @@ English (EN) (125.2 KB - PDF)
 
 **First published:** 27/08/2021
 
-[View](/en/documents/scientific-conclusion/imbruvica-h-c-psusa-00010301-202011-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/imbruvica-h-c-psusa-00010301-202011-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Imbruvica-H-C-3791-II-0059 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/452512/2020
+Adopted Reference Number: EMA/CHMP/452512/2020
 
 English (EN) (3.54 MB - PDF)
 
@@ -1240,9 +816,7 @@ English (EN) (3.54 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Imbruvica (II-59)
 
-Adopted
-
-Reference Number: EMA/CHMP/377740/2020
+Adopted Reference Number: EMA/CHMP/377740/2020
 
 English (EN) (149.47 KB - PDF)
 
@@ -1252,9 +826,7 @@ English (EN) (149.47 KB - PDF)
 
 Imbruvica-H-C-3791-II-0047: EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/644912/2019
+Adopted Reference Number: EMA/CHMP/644912/2019
 
 English (EN) (2.87 MB - PDF)
 
@@ -1264,9 +836,7 @@ English (EN) (2.87 MB - PDF)
 
 Imbruvica-H-C-3791-II-0046: EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/644926/2019
+Adopted Reference Number: EMA/CHMP/644926/2019
 
 English (EN) (4.82 MB - PDF)
 
@@ -1282,7 +852,7 @@ English (EN) (68.96 KB - PDF)
 
 **First published:** 12/11/2019
 
-[View](/en/documents/scientific-conclusion/imbruvica-h-c-psusa-00010301-201811-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf-0)
+[View](/en/documents/scientific-conclusion/imbruvica-h-c-psusa-00010301-201811-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf-0)
 
 Imbruvica-H-C-PSUSA-00010301-201705 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1292,13 +862,11 @@ English (EN) (70.89 KB - PDF)
 
 **First published:** 12/11/2019
 
-[View](/en/documents/scientific-conclusion/imbruvica-h-c-psusa-00010301-201705-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf-0)
+[View](/en/documents/scientific-conclusion/imbruvica-h-c-psusa-00010301-201705-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf-0)
 
 Imbruvica : Orphan designation assessment report (post-authorisation)
 
-Adopted
-
-Reference Number: EMADOC-2005359794-147797
+Adopted Reference Number: EMADOC-2005359794-147797
 
 English (EN) (581.8 KB - PDF)
 
@@ -1308,9 +876,7 @@ English (EN) (581.8 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Imbruvica (II-46, II-47)
 
-Adopted
-
-Reference Number: EMA/CHMP/366056/2019
+Adopted Reference Number: EMA/CHMP/366056/2019
 
 English (EN) (68.52 KB - PDF)
 
@@ -1324,11 +890,9 @@ Reference Number: EMA/CHMP/644858/2017
 
 English (EN) (70.7 KB - PDF)
 
-**First published:** 29/09/2017
+**First published:** 29/09/2017 **Last updated:** 29/09/2017
 
-**Last updated:** 29/09/2017
-
-[View](/en/documents/scientific-conclusion/imbruvica-h-c-psusa-00010301-201611-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/imbruvica-h-c-psusa-00010301-201611-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Imbruvica- H-C-PSUSA-00010301-201605 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1336,11 +900,9 @@ Reference Number: EMA/215182/2017
 
 English (EN) (66.33 KB - PDF)
 
-**First published:** 31/03/2017
+**First published:** 31/03/2017 **Last updated:** 31/03/2017
 
-**Last updated:** 31/03/2017
-
-[View](/en/documents/scientific-conclusion/imbruvica-h-c-psusa-00010301-201605-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/imbruvica-h-c-psusa-00010301-201605-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Imbruvica-H-C-3791-II-0017 : EPAR - Assessment Report - Variation
 
@@ -1348,141 +910,137 @@ Adopted
 
 English (EN) (4.4 MB - PDF)
 
-**First published:** 06/10/2016
-
-**Last updated:** 06/10/2016
+**First published:** 06/10/2016 **Last updated:** 06/10/2016
 
 [View](/en/documents/variation-report/imbruvica-h-c-3791-ii-0017-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Imbruvica
 
-Adopted
-
-Reference Number: EMA/CHMP/493040/2016
+Adopted Reference Number: EMA/CHMP/493040/2016
 
 English (EN) (67.39 KB - PDF)
 
-**First published:** 22/07/2016
-
-**Last updated:** 22/07/2016
+**First published:** 22/07/2016 **Last updated:** 22/07/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-imbruvica_en.pdf)
 
 Imbruvica-H-C-3791-II-00016: EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/373867/2016
+Adopted Reference Number: EMA/373867/2016
 
 English (EN) (4.87 MB - PDF)
 
-**First published:** 09/06/2016
-
-**Last updated:** 09/06/2016
+**First published:** 09/06/2016 **Last updated:** 09/06/2016
 
 [View](/en/documents/variation-report/imbruvica-h-c-3791-ii-00016-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Imbruvica
 
-Adopted
-
-Reference Number: EMA/CHMP/284604/2016
+Adopted Reference Number: EMA/CHMP/284604/2016
 
 English (EN) (63.18 KB - PDF)
 
-**First published:** 29/04/2016
-
-**Last updated:** 29/04/2016
+**First published:** 29/04/2016 **Last updated:** 29/04/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-imbruvica_en.pdf-0)
 
 Imbruvica-H-C-3791-II-0001 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/473724/2015
+Adopted Reference Number: EMA/CHMP/473724/2015
 
 English (EN) (2.64 MB - PDF)
 
-**First published:** 13/08/2015
-
-**Last updated:** 13/08/2015
+**First published:** 13/08/2015 **Last updated:** 13/08/2015
 
 [View](/en/documents/variation-report/imbruvica-h-c-3791-ii-0001-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Imbruvica
 
-Adopted
-
-Reference Number: EMA/CHMP/281931/2015
+Adopted Reference Number: EMA/CHMP/281931/2015
 
 English (EN) (67.68 KB - PDF)
 
-**First published:** 22/05/2015
-
-**Last updated:** 22/05/2015
+**First published:** 22/05/2015 **Last updated:** 22/05/2015
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-imbruvica_en.pdf-1)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Imbruvica : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/645137/2014
+Adopted Reference Number: EMA/CHMP/645137/2014
 
 English (EN) (4.89 MB - PDF)
 
-**First published:** 25/11/2014
-
-**Last updated:** 25/11/2014
+**First published:** 25/11/2014 **Last updated:** 25/11/2014
 
 [View](/en/documents/assessment-report/imbruvica-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Imbruvica
 
-Adopted
-
-Reference Number: EMA/CHMP/414325/2014
+Adopted Reference Number: EMA/CHMP/414325/2014
 
 English (EN) (69.96 KB - PDF)
 
-**First published:** 25/07/2014
-
-**Last updated:** 25/07/2014
+**First published:** 25/07/2014 **Last updated:** 25/07/2014
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-imbruvica_en.pdf)
 
-#### News on Imbruvica
+## News on Imbruvica
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025) 20/06/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023) 27/01/2023
+20/06/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 June 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-june-2022) 24/06/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 25-28 October 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-25-28-october-2021) 29/10/2021
+27/01/2023
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 30 August - 2 September 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-30-august-2-september-2021) 03/09/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 June 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-june-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2020) 24/07/2020
+24/06/2022
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2019) 28/06/2019
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 25-28 October 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-25-28-october-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2016) 22/07/2016
+29/10/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 April 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-april-2016) 29/04/2016
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 30 August - 2 September 2021](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-30-august-2-september-2021)
 
-[First medicine for rare blood cancer](/en/news/first-medicine-rare-blood-cancer) 22/05/2015
+03/09/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2015) 22/05/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2020)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2014) 25/07/2014
+24/07/2020
 
-[European Medicines Agency recommends approval of two new treatment options for rare cancers](/en/news/european-medicines-agency-recommends-approval-two-new-treatment-options-rare-cancers) 25/07/2014
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2019)
 
-#### Product information - with tracked changes
+28/06/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2016)
+
+22/07/2016
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 April 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-april-2016)
+
+29/04/2016
+
+[First medicine for rare blood cancer](/en/news/first-medicine-rare-blood-cancer)
+
+22/05/2015
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2015)
+
+22/05/2015
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2014)
+
+25/07/2014
+
+[European Medicines Agency recommends approval of two new treatment options for rare cancers](/en/news/european-medicines-agency-recommends-approval-two-new-treatment-options-rare-cancers)
+
+25/07/2014
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1494,204 +1052,156 @@ English (EN) (1.99 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-259)
+[Other languages (24)](#file-language-dropdown-587)
 
 български (BG) (2.53 MB - DOC)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/bg/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_bg.doc)
 
 español (ES) (4.38 MB - DOC)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/es/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_es.doc)
 
 čeština (CS) (2.88 MB - DOC)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/cs/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_cs.doc)
 
 dansk (DA) (1.43 MB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/da/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (1.23 MB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/de/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (1.18 MB - DOCX)
+eesti (ET) (1.18 MB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/et/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (1.2 MB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/el/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (1014.67 KB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/fr/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (1.45 MB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/hr/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (1.38 MB - DOCX)
-
-**First published:**
-
-27/10/2025
-
-[View](/is/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (4 MB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/it/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (2.23 MB - DOCX)
+latviešu (LV) (2.23 MB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/lv/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (2.13 MB - DOCX)
+lietuvių (LT) (2.13 MB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/lt/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (2.98 MB - DOC)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/hu/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_hu.doc)
 
 Malti (MT) (1.54 MB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/mt/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (948.71 KB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/nl/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (1.68 MB - DOCX)
-
-**First published:**
-
-27/10/2025
-
-[View](/no/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_no.docx)
-
 polski (PL) (1.25 MB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/pl/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (1.49 MB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/pt/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (1.17 MB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/ro/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (4.32 MB - DOC)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/sk/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_sk.doc)
 
 slovenščina (SL) (1008.95 KB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/sl/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (3.43 MB - DOC)
+suomi (FI) (3.43 MB - DOC)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/fi/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_fi.doc)
 
 svenska (SV) (1.39 MB - DOCX)
 
-**First published:**
-
-27/10/2025
+**First published:** 27/10/2025
 
 [View](/sv/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (1.38 MB - DOCX)
+
+**First published:** 27/10/2025
+
+[View](/is/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (1.68 MB - DOCX)
+
+**First published:** 27/10/2025
+
+[View](/no/documents/product-information-tracked-changes/imbruvica-epar-product-information-tracked-changes_no.docx)
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC003791II0016) (variation II/0016)
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC003791II0017G) (variation II/0017)
 
-#### More information on Imbruvica
+## More information on Imbruvica
 
 This product is no longer an orphan medicine. It was originally designated an orphan medicine for the following indications:
 
@@ -1701,7 +1211,7 @@ This product is no longer an orphan medicine. It was originally designated an or
 
 Imbruvica was withdrawn from the Community register of orphan medicinal products in October 2021 upon request of the marketing-authorisation holder.
 
-#### More information on Imbruvica
+## More information on Imbruvica
 
 - [EMEA-001397-PIP03-14-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001397-pip03-14-m06)
 - [EMEA-001397-PIP05-17 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001397-pip05-17)
@@ -1711,12 +1221,8 @@ Imbruvica was withdrawn from the Community register of orphan medicinal products
 - [Imbruvica - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/imbruvica)
 - [Real-world Prescription Pattern, Discontinuation and Costs of Ibrutinib-Naïve Patients with Chronic Lymphocytic Leukemia: An Italian Healthcare Administrative Database Analysis - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000153)
 
-#### Topics
+**This page was last updated on**
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 17/02/2026
+07/10/2026
 
 ## Share this page
-
-[Back to top](#main-content)

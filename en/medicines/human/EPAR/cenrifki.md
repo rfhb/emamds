@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-21 16:18:00
+document_datetime: 2026-10-07 09:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cenrifki.html
 document_name: cenrifki.html
 version: success
-processing_time: 0.1356714
-conversion_datetime: 2026-08-22 23:30:11.954439
+processing_time: 0.161676
+conversion_datetime: 2026-10-10 13:58:10.761634
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Cenrifki
 
 [RSS](/en/individual-human-medicine.xml/271553)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -75,7 +75,7 @@ In addition, BTK is involved in the activity of microglia and macrophages, which
 
 Cenrifki was shown to be more effective than placebo (a dummy treatment) at delaying the progression of the disease in a main study involving 1,131 patients with secondary progressive MS who did not have relapses in the last two years.
 
-Disease progression was defined as worsening of the disease which is not related to a relapse and lasted for at least 6 months; it was measured using a standard scale called the expanded disability status scale (EDSS). During the study, 26.9% of patients receiving treatment with Cenrifki experienced disease progression compared with 37.2% of patients taking placebo.
+Disease progression was defined as worsening of the disease which is not related to a relapse and lasted for at least 6 months; it was measured using a standard scale called the expanded disability status scale (EDSS). During the study, 22.6% of patients receiving treatment with Cenrifki experienced disease progression compared with 30.7% of patients taking placebo.
 
 Studies carried out with Cenrifki are described in more detail in the medicine's assessment report.
 
@@ -111,145 +111,145 @@ Cenrifki received a marketing authorisation valid throughout the EU on 19-06-202
 
 Cenrifki : EPAR - Medicine overview
 
-Reference Number: EMA/124321/2026
+Reference Number: EMA/124321/2026 Corr.
 
-English (EN) (155.69 KB - PDF)
+English (EN) (156.73 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/en/documents/overview/cenrifki-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-329)
+[Other languages (22)](#file-language-dropdown-281)
 
-български (BG) (167.36 KB - PDF)
+български (BG) (167.67 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/bg/documents/overview/cenrifki-epar-medicine-overview_bg.pdf)
 
-español (ES) (155.19 KB - PDF)
+español (ES) (155.34 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/es/documents/overview/cenrifki-epar-medicine-overview_es.pdf)
 
-čeština (CS) (163.97 KB - PDF)
+čeština (CS) (163.83 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/cs/documents/overview/cenrifki-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (154.64 KB - PDF)
+dansk (DA) (154.85 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/da/documents/overview/cenrifki-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (157.39 KB - PDF)
+Deutsch (DE) (157.54 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/de/documents/overview/cenrifki-epar-medicine-overview_de.pdf)
 
-eesti (ET) (152.72 KB - PDF)
+eesti (ET) (152.89 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/et/documents/overview/cenrifki-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (165.27 KB - PDF)
+ελληνικά (EL) (165.2 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/el/documents/overview/cenrifki-epar-medicine-overview_el.pdf)
 
-français (FR) (155.02 KB - PDF)
+français (FR) (155.04 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/fr/documents/overview/cenrifki-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (165.93 KB - PDF)
+hrvatski (HR) (165.92 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/hr/documents/overview/cenrifki-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (154.29 KB - PDF)
+italiano (IT) (154.22 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/it/documents/overview/cenrifki-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (174.36 KB - PDF)
+latviešu (LV) (173.98 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/lv/documents/overview/cenrifki-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (168.07 KB - PDF)
+lietuvių (LT) (167.72 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/lt/documents/overview/cenrifki-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (165.45 KB - PDF)
+magyar (HU) (164.65 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/hu/documents/overview/cenrifki-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (168.29 KB - PDF)
+Malti (MT) (168.5 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/mt/documents/overview/cenrifki-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (153.31 KB - PDF)
+Nederlands (NL) (153.5 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/nl/documents/overview/cenrifki-epar-medicine-overview_nl.pdf)
 
-polski (PL) (168.33 KB - PDF)
+polski (PL) (168.25 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/pl/documents/overview/cenrifki-epar-medicine-overview_pl.pdf)
 
-português (PT) (155.53 KB - PDF)
+português (PT) (155.68 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/pt/documents/overview/cenrifki-epar-medicine-overview_pt.pdf)
 
-română (RO) (164.84 KB - PDF)
+română (RO) (164.23 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/ro/documents/overview/cenrifki-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (165.32 KB - PDF)
+slovenčina (SK) (165.26 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/sk/documents/overview/cenrifki-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (162.83 KB - PDF)
+slovenščina (SL) (162.72 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/sl/documents/overview/cenrifki-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (150.45 KB - PDF)
+suomi (FI) (150.48 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/fi/documents/overview/cenrifki-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (153.08 KB - PDF)
+svenska (SV) (153.3 KB - PDF)
 
-**First published:** 25/06/2026
+**First published:** 25/06/2026 **Last updated:** 07/10/2026
 
 [View](/sv/documents/overview/cenrifki-epar-medicine-overview_sv.pdf)
 
@@ -271,7 +271,7 @@ English (EN) (604.8 KB - PDF)
 
 [View](/en/documents/product-information/cenrifki-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-332)
+[Other languages (24)](#file-language-dropdown-296)
 
 български (BG) (626.66 KB - PDF)
 
@@ -444,7 +444,7 @@ English (EN) (53.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cenrifki-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-275)
+[Other languages (24)](#file-language-dropdown-336)
 
 български (BG) (92.4 KB - PDF)
 
@@ -672,6 +672,6 @@ English (EN) (130.95 KB - PDF)
 
 **This page was last updated on**
 
-21/08/2026
+07/10/2026
 
 ## Share this page

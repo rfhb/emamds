@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-03-30 11:19:30
+document_datetime: 2026-10-08 10:11:53
 document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/increlex-epar-product-information_en.pdf
 document_name: increlex-epar-product-information_en.pdf
 version: success
-processing_time: 7.8267358
-conversion_datetime: 2026-04-01 12:31:26.119676
+processing_time: 11.6171629
+conversion_datetime: 2026-10-10 12:14:17.514051
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -34,11 +32,13 @@ Each ml contains 10 mg of mecasermin*.
 
 Each vial of 4 ml contains 40 mg of mecasermin*.
 
-*Mecasermin is a recombinant DNA-derived human insulin-like growth factor-1(IGF-1) produced in Escherichia coli .
+*Mecasermin is a recombinant DNA-derived human insulin-like growth factor-1(IGF-1) produced in Escherichia coli.
 
 ## Excipient with known effect:
 
-One ml contains 9 mg of benzyl alcohol. For the full list of excipients, see section 6.1.
+One ml contains 9 mg of benzyl alcohol.
+
+For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
@@ -67,11 +67,9 @@ Treatment with mecasermin should be directed by physicians who are experienced i
 
 ## Posology
 
-The dose should be individualised for each patient. The recommended starting dose of mecasermin is 0.04 mg/kg of body weight twice daily by subcutaneous injection. If no significant adverse reactions
+The dose should be individualised for each patient. The recommended starting dose of mecasermin is 0.04 mg/kg of body weight twice daily by subcutaneous injection. If no significant adverse reactions occur for at least one week, the dose may be raised in increments of 0.04 mg/kg to the maximum dose of 0.12 mg/kg given twice daily. Doses greater than 0.12 mg/kg twice daily should not be exceeded as this may increase the risk of neoplasia (see section 4.3, 4.4 and 4.8).
 
 <div style=\"page-break-after: always\"></div>
-
-occur for at least one week, the dose may be raised in increments of 0.04 mg/kg to the maximum dose of 0.12 mg/kg given twice daily. Doses greater than 0.12 mg/kg twice daily should not be exceeded as this may increase the risk of neoplasia (see section 4.3, 4.4 and 4.8).
 
 If the recommended dose is not tolerated by the patient, treatment with a lower dose can be considered. Treatment success should be evaluated based on height velocities. The lowest dose that was associated with substantial growth increases on an individual basis was 0.04 mg/kg twice daily (BID).
 
@@ -103,7 +101,9 @@ Injection sites should be rotated to a different site with each injection to hel
 
 INCRELEX should not be administered intravenously.
 
-Precaution to be taken before manipulating or administering the medicinal product The solution should be clear immediately after removal from the refrigerator. If the solution is cloudy, or contains particulate matter, it must not be injected.
+## Precaution to be taken before manipulating or administering the medicinal product
+
+The solution should be clear immediately after removal from the refrigerator. If the solution is cloudy, or contains particulate matter, it must not be injected.
 
 INCRELEX should be administered using sterile disposable syringes and injection needles. The syringes should be of small enough volume that the prescribed dose can be withdrawn from the vial with reasonable accuracy.
 
@@ -123,7 +123,7 @@ As INCRELEX contains benzyl alcohol, it must not be given to premature babies or
 
 There is an increased risk of benign and malignant neoplasia in children and adolescents treated with INCRELEX, since IGF-1 plays a role in the initiation and progression of benign and malignant tumours.
 
-There have been post-marketing reports of both benign and malignant neoplasms in children and adolescents who have received treatment with INCRELEX.  These cases represented a variety of different malignancies and included rare malignancies usually not seen in children (see section 4.8). The increased risk of neoplasia may be higher in patients who receive INCRELEX for unapproved uses or at higher than recommended doses.  Current knowledge of IGF-1 biology suggests that IGF-1 plays a role in malignancies in all organs and tissues. Physicians should therefore be vigilant of any symptoms of potential malignancy.
+There have been post-marketing reports of both benign and malignant neoplasms in children and adolescents who have received treatment with INCRELEX. These cases represented a variety of different malignancies and included rare malignancies usually not seen in children (see section 4.8). The increased risk of neoplasia may be higher in patients who receive INCRELEX for unapproved uses or at higher than recommended doses. Current knowledge of IGF-1 biology suggests that IGF-1 plays a role in malignancies in all organs and tissues. Physicians should therefore be vigilant of any symptoms of potential malignancy.
 
 If benign or malignant neoplasia develops, INCRELEX treatment should be discontinued definitely and appropriate expert medical care sought.
 
@@ -165,7 +165,7 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-No interaction studies have been performed.
+## No interaction studies have been performed.
 
 Doses of insulin and/or other hypoglycaemic medicinal products may need to be reduced (see section 4.4).
 
@@ -215,9 +215,9 @@ Some patients may develop antibodies to mecasermin. No attenuation of growth was
 
 ## Tabulated list of adverse reactions
 
-Table 1 contains very common (≥ 1/10) , common (≥ 1/100 to &lt; 1/10) and uncommon (≥ 1/1000, &lt; 1/100) adverse reactions which occurred in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. Other adverse reactions have been identified during post approval use of INCRELEX. As these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency (not known).
+Table 1 contains very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10) and uncommon (≥ 1/1000, &lt; 1/100) adverse reactions which occurred in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. Other adverse reactions have been identified during post approval use of INCRELEX. As these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency (not known).
 
-Table 1:  Adverse reactions
+Table 1: Adverse reactions
 
 | System Organ Class                   | Reactions observed in the clinical trials   | Reactions observed from the post-marketing environment   |
 |--------------------------------------|---------------------------------------------|----------------------------------------------------------|
@@ -282,7 +282,7 @@ This occurred generally in the first year of treatment and was reported in 30 su
 
 ## Intracranial hypertension/increased intracranial pressure
 
-This occurred in 4 subjects (0.96%); in two subjects INCRELEX was discontinued and not restarted; in two  subjects  the  event  did  not  recur  after  restarting  INCRELEX  at  a  reduced  dose.  All  4  subjects recovered from the event without sequelae.
+This occurred in 4 subjects (0.96%); in two subjects INCRELEX was discontinued and not restarted; in two subjects the event did not recur after restarting INCRELEX at a reduced dose. All 4 subjects recovered from the event without sequelae.
 
 ## Reporting of suspected adverse reactions
 
@@ -294,7 +294,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Acute overdose could lead to hypoglycaemia. Treatment of acute overdose of mecasermin should be directed at alleviating any hypoglycaemic effects. Oral glucose or food should be consumed. If the overdose results in loss of consciousness, intravenous glucose or parenteral glucagon may be required to reverse the hypoglycaemic effects.
 
-Long-term overdose may result in signs and symptoms of acromegaly or gigantism.  Overdosing may lead to supraphysiological IGF-1 levels and may increase the risk of benign and malignant neoplasm.
+Long-term overdose may result in signs and symptoms of acromegaly or gigantism. Overdosing may lead to supraphysiological IGF-1 levels and may increase the risk of benign and malignant neoplasm.
 
 In case of an acute or a chronic overdose, Increlex must be discontinued immediately. If Increlex is restarted, the dose should not exceed the recommended daily dosage (see section 4.2)
 
@@ -304,7 +304,7 @@ In case of an acute or a chronic overdose, Increlex must be discontinued immedia
 
 Pharmacotherapeutic group: Pituitary and hypothalamic hormones and analogues, somatropin and somatropin agonists, ATC code: H01AC03
 
-Mecasermin is a human insulin-like growth factor-1 (rhIGF-1) produced by recombinant DNA technology. IGF-1 consists of 70 amino acids in a single chain with three intramolecular disulfide bridges and a molecular weight of 7649 daltons. The amino acid sequence of the product is identical to that of endogenous human IGF-1. The rhIGF-1 protein is synthesised in bacteria ( E. coli ) that have been modified by the addition of the gene for human IGF-1.
+Mecasermin is a human insulin-like growth factor-1 (rhIGF-1) produced by recombinant DNA technology. IGF-1 consists of 70 amino acids in a single chain with three intramolecular disulfide bridges and a molecular weight of 7649 daltons. The amino acid sequence of the product is identical to that of endogenous human IGF-1. The rhIGF-1 protein is synthesised in bacteria (E. coli) that have been modified by the addition of the gene for human IGF-1.
 
 ## Mechanism of action
 
@@ -316,7 +316,9 @@ The following actions have been demonstrated for endogenous human IGF-1:
 
 ## Tissue Growth
 
-Skeletal growth is accomplished at the epiphyseal plates at the ends of a growing bone. Growth and metabolism of epiphyseal plate cells are directly stimulated by GH and IGF-1. Organ growth: treatment of IGF-1 deficient rats with rhIGF-1 results in whole body and organ growth.
+Skeletal growth is accomplished at the epiphyseal plates at the ends of a growing bone. Growth and metabolism of epiphyseal plate cells are directly stimulated by GH and IGF-1.
+
+Organ growth: treatment of IGF-1 deficient rats with rhIGF-1 results in whole body and organ growth.
 
 Cell growth: IGF-1 receptors are present on most types of cells and tissues. IGF-1 has mitogenic activity that leads to an increased number of cells in the body.
 
@@ -334,21 +336,27 @@ Circulating IGF-1 plays an important role in the acquisition and maintenance of 
 
 ## Clinical efficacy and safety
 
-Five clinical studies (4 open-label and 1 double-blind, placebo-controlled) were conducted with INCRELEX. Subcutaneous doses of mecasermin, generally ranging from 60 to 120 µ g/kg given twice daily (BID), were administered to 92 paediatric subjects with severe Primary IGFD. Patients were enrolled in the studies on the basis of extreme short stature, slow growth rates, low IGF-1 serum concentrations and normal GH secretion. Eighty-three (83) out of 92 patients were naïve to INCRELEX at baseline and 81 completed at least one year of INCRELEX treatment. Baseline characteristics for the 81 patients evaluated in the primary and secondary efficacy analyses from the combined studies were (mean ± SD): chronological age (years): 6.8 ± 3.8; age range (years): 1.7 to 17.5; height (cm): 84.1 ± 15.8; height standard deviation score (SDS): -6.9 ± 1.8; height velocity (cm/yr): 2.6 ± 1.7; height velocity SDS: -3.4 ± 1.6; IGF-1 (ng/ml): 24.5 ± 27.9; IGF-1 SDS: -4.2 ± 2.0; and bone age (years): 3.8 ± 2.8. Of these, 72 (89%) had Laron syndrome-like phenotype; 7 (9%) had GH gene deletion, 1 (1%) had neutralizing antibodies to GH and 1 (1%) had isolated genetic GH deficiency. Forty-six (57%) of the subjects were male; 66 (81%) were Caucasian. Seventy-four (91%) of the subjects were prepubertal at baseline.
+Five clinical studies (4 open-label and 1 double-blind, placebo-controlled) were conducted with INCRELEX. Subcutaneous doses of mecasermin, generally ranging from 60 to 120 µg/kg given twice daily (BID), were administered to 92 paediatric subjects with severe Primary IGFD. Patients were enrolled in the studies on the basis of extreme short stature, slow growth rates, low IGF-1 serum concentrations and normal GH secretion. Eighty-three (83) out of 92 patients were naïve to INCRELEX at baseline and 81 completed at least one year of INCRELEX treatment. Baseline characteristics for the 81 patients evaluated in the primary and secondary efficacy analyses from the combined studies were (mean ± SD): chronological age (years): 6.8 ± 3.8; age range (years): 1.7 to 17.5; height (cm): 84.1 ± 15.8; height standard deviation score (SDS): -6.9 ± 1.8; height velocity (cm/yr): 2.6 ± 1.7; height velocity SDS: -3.4 ± 1.6; IGF-1 (ng/ml): 24.5 ± 27.9; IGF-1 SDS: -4.2 ± 2.0; and bone age (years): 3.8 ± 2.8. Of these, 72 (89%) had Laron syndrome-like phenotype; 7 (9%) had GH gene deletion, 1 (1%) had neutralizing antibodies to GH and 1 (1%) had isolated genetic GH deficiency. Forty-six (57%) of the subjects were male; 66 (81%) were Caucasian. Seventy-four (91%) of the subjects were prepubertal at baseline.
 
 Annual results for height velocity, height velocity SDS, and height SDS until year 8 are shown in Table 2. Pre-treatment height velocity data were available for 75 subjects. The height velocities at a given year of treatment were compared by paired t-tests to the pre-treatment height velocities of the same subjects completing that treatment year. The height velocities for years 2 through 8 remained statistically greater than baseline. For the 21 treatment naïve subjects with near-adult height, the mean (± SD) of the difference between observed increase in height versus that expected from Laron was approximately 13 cm (± 8 cm) after an average of 11 years of treatment.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 2:  Annual Height Results by Number of Years Treated with INCRELEX
+Table 2: Annual Height Results by Number of Years Treated with INCRELEX
 
-|                                                                                              | Pre-Tx        | Year 1                           | Year 2                           | Year 3                            | Year 4                           | Year 5                            | Year 6                             | Year 7                             | Year 8                             |
-|----------------------------------------------------------------------------------------------|---------------|----------------------------------|----------------------------------|-----------------------------------|----------------------------------|-----------------------------------|------------------------------------|------------------------------------|------------------------------------|
-| Height Velocity (cm/yr)                                                                      |               |                                  |                                  |                                   |                                  |                                   |                                    |                                    |                                    |
-| N Mean (SD) Mean (SD) for change from pre-Tx P-value for change                              | 75 2.6 (1.7)  | 75 8.0 (2.3) +5.4 (2.6) <0.0001  | 63 5.9 (1.7) +3.2 (2.6) <0.0001  | 62 5.5 (1.8) +2.8 (2.4) <0.0001   | 60 5.2 (1.5) +2.5 (2.5) <0.0001  | 53 4.9 (1.5) +2.1 (2.1) < 0.0001  | 39 4.8 (1.4) +1.9 (2.1) < 0.0001   | 25 4.3 (1.5) +1.4 (2.2) 0.0042     | 19 4.4 (1.5) +1.3 (2. 8) 0.0486    |
-| Height Velocity SDS                                                                          |               |                                  |                                  |                                   |                                  |                                   |                                    |                                    |                                    |
-| N Mean (SD) Mean (SD) for change from pre-Tx P-value for change from pre-Tx [1] Height SDS N | 75 -3.4 (1.6) | 75 1.7 (2.8) +5.2 (2.9) <0.0001  | 62 -0.0 (1.7) +3.4 (2.4) <0.0001 | 62 -0.1 (1.9) +3.3 (2. 3) <0.0001 | 58 -0.2 (1.9) +3.2 (2.1) <0.0001 | 50 -0.3 (1.7) +3.2 (2.1) 0.0001   | 37 -0. 2 (1. 6) +3.3 (2.0) <0.0001 | 22 -0. 5 (1.7) +3.0 (2.1) < 0.0001 | 15 -0.2 (1.6) +3.3 (2.7) 0.0003 19 |
-| Mean (SD) Mean (SD) for change from pre-Tx P-value for change from pre-Tx [1]                | 81 -6.9 (1.8) | 81 -6.1 (1.8) +0.8 (0.6) <0.0001 | 67 -5.6 (1.7) +1.2 (0.9) <0.0001 | 66 -5.3 (1.7) +1.4 (1.1) <0.0001  | 64 -5.1 (1.7) +1.6 (1.2) <0.0001 | 57 -5.0 (1.7) +1. 7 (1.3) <0.0001 | 41 -4.9 (1.6) +1. 8 (1.1) <0.0001  | 26 -4.9 (1.7) +1. 7 (1.0) 0.0001   | -5.1 (1.7) +1.7 (1.0) <0.0001      |
+|                                                        | Pre-Tx        | Year 1                  | Year 2                   | Year 3                  | Year 4                  | Year 5                  | Year 6                  | Year 7                  | Year 8                   |
+|--------------------------------------------------------|---------------|-------------------------|--------------------------|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|--------------------------|
+| Height Velocity (cm/yr)                                |               |                         |                          |                         |                         |                         |                         |                         |                          |
+| N Mean (SD) Mean (SD) for change from pre-Tx           | 75 2.6 (1.7)  | 75 8.0 (2.3) +5.4 (2.6) | 63 5.9 (1.7) +3.2 (2.6)  | 62 5.5 (1.8) +2.8 (2.4) | 60 5.2 (1.5) +2.5 (2.5) | 53 4.9 (1.5) +2.1 (2.1) | 39 4.8 (1.4) +1.9 (2.1) | 25 4.3 (1.5) +1.4 (2.2) | 19 4.4 (1.5) +1.3 (2. 8) |
+| P-value for change from pre-Tx [1] Height Velocity SDS |               | <0.0001                 | <0.0001                  | <0.0001                 | <0.0001                 | <0.0001                 | <0.0001                 | 0.0042                  | 0.0486                   |
+| N Mean (SD)                                            | 75 -3.4 (1.6) | 75 1.7 (2.8) +5.2       | 62 -0.0 (1.7) +3.4 (2.4) | 62 -0.1 (1.9) +3.3      | 58 -0.2 (1.9)           | 50 -0.3 (1.7)           | 37 -0. 2 (1. 6)         | 22 -0. 5 (1.7)          | 15 -0.2 (1.6)            |
+| Mean (SD) for                                          |               |                         |                          | (2. 3)                  | +3.2 (2.1)              | +3.2 (2.1)              | +3.3 (2.0)              | +3.0 (2.1)              | +3.3                     |
+| change from pre-Tx P-value for change from pre-Tx [1]  |               | (2.9) <0.0001           |                          |                         | <0.0001                 | 0.0001                  | <0.0001                 |                         | (2.7)                    |
+| Height SDS                                             |               |                         | <0.0001                  | <0.0001                 |                         |                         |                         | <0.0001                 | 0.0003                   |
+| N (SD)                                                 | 81 -6.9 (1.8) | 81 -6.1                 | 67 -5.6                  | 66 -5.3                 | 64 -5.1                 | 57 -5.0 (1.7)           | 41 -4.9 (1.6)           | 26 -4.9                 | 19 -5.1 (1.7)            |
+| Mean                                                   |               | (1.8)                   | (1.7)                    | (1.7)                   | (1.7)                   |                         |                         | (1.7)                   |                          |
+| Mean (SD) for change from pre-Tx                       |               | +0.8 (0.6)              | +1.2 (0.9)               | +1.4 (1.1)              | +1.6 (1.2)              | +1. 7 (1.3)             | +1. 8 (1.1)             | +1. 7 (1.0)             | +1.7 (1.0)               |
+| P-value for change from pre-Tx [1]                     |               | <0.0001                 | <0.0001                  | <0.0001                 | <0.0001                 | <0.0001                 | <0.0001                 | 0.0001                  | <0.0001                  |
 
 Pre-Tx = Pre-treatment; SD = Standard Deviation; SDS = Standard Deviation Score
 
@@ -362,7 +370,7 @@ Among all subjects included for safety evaluation (n=92), 83% of the subjects re
 
 Hypoglycaemia was the most frequently reported adverse event and a proper attention has to be given to meals in relation to dosing.
 
-This medicinal product has been authorised under 'exceptional circumstances'.
+This medicinal product has been authorised under \"exceptional circumstances\".
 
 This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product.
 
@@ -386,7 +394,7 @@ Both the liver and the kidney have been shown to metabolise IGF-1.
 
 ## Elimination
 
-The mean terminal t1/2 of total IGF-1 after single subcutaneous administration of 0.12 mg/kg in three paediatric subjects with severe Primary IGFD is estimated to be 5.8 hours.  Clearance of total IGF-1 is inversely proportional to serum IGFBP-3 levels and total IGF-1 systemic clearance (CL/F) is estimated to be 0.04 l/hr/kg at 3 mg/l IGFBP-3 in 12 subjects.
+The mean terminal t1/2 of total IGF-1 after single subcutaneous administration of 0.12 mg/kg in three paediatric subjects with severe Primary IGFD is estimated to be 5.8 hours. Clearance of total IGF-1 is inversely proportional to serum IGFBP-3 levels and total IGF-1 systemic clearance (CL/F) is estimated to be 0.04 l/hr/kg at 3 mg/l IGFBP-3 in 12 subjects.
 
 ## Special populations
 
@@ -428,9 +436,9 @@ In rats and rabbits reproductive toxicity was studied after intravenous but not 
 
 ## Carcinogenic potential
 
-Mecasermin was administered subcutaneously to Sprague Dawley rats at doses of 0, 0.25, 1, 4, and 10 mg/kg/day for up to 2 years. An increased incidence of adrenal medullary hyperplasia and pheochromocytoma was observed in male rats at doses of 1 mg/kg/day and above ( ≥ 1 times the clinical exposure with the maximum recommended human dose [MRHD] based on AUC) and female rats at all dose levels ( ≥ 0.3 times the clinical exposure with the MRHD based on AUC).
+Mecasermin was administered subcutaneously to Sprague Dawley rats at doses of 0, 0.25, 1, 4, and 10 mg/kg/day for up to 2 years. An increased incidence of adrenal medullary hyperplasia and pheochromocytoma was observed in male rats at doses of 1 mg/kg/day and above (≥ 1 times the clinical exposure with the maximum recommended human dose [MRHD] based on AUC) and female rats at all dose levels (≥ 0.3 times the clinical exposure with the MRHD based on AUC).
 
-An increased incidence of keratoacanthoma in the skin was observed in male rats at doses of 4 and 10 mg/kg/day ( ≥ 4 times the exposure with the MRHD based on AUC). An increased incidence of mammary gland carcinoma in both male and female rats was observed in animals treated with 10 mg/kg/day (7 times the exposure with the MRHD based on AUC). Excess mortality secondary to IGF-1 induced hypoglycaemia was observed in the carcinogenesis studies.
+An increased incidence of keratoacanthoma in the skin was observed in male rats at doses of 4 and 10 mg/kg/day (≥ 4 times the exposure with the MRHD based on AUC). An increased incidence of mammary gland carcinoma in both male and female rats was observed in animals treated with 10 mg/kg/day (7 times the exposure with the MRHD based on AUC). Excess mortality secondary to IGF-1 induced hypoglycaemia was observed in the carcinogenesis studies.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -444,17 +452,17 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## 5 years
+5 years
 
 ## After opening
 
-Chemical and physical in-use stability has been demonstrated for 30 days at 2 ° C to 8 ° C. From a microbiological point of view, once opened, the medicinal product may be stored for a maximum of 30 days at 2 ° C to 8 ° C.
+Chemical and physical in-use stability has been demonstrated for 30 days at 2°C to 8°C. From a microbiological point of view, once opened, the medicinal product may be stored for a maximum of 30 days at 2°C to 8°C.
 
 <div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8°C).
+Store in a refrigerator (2°C - 8°C).
 
 Do not freeze.
 
@@ -478,7 +486,9 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Esteve Pharmaceuticals S.A. Passeig de la Zona Franca 109 Planta 4 08038 Barcelona Spain
+Esteve Pharmaceuticals S.A. Passeig de la Zona Franca 109 Planta 4 08038 Barcelona
+
+Spain
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -493,6 +503,8 @@ Date of latest renewal: 16 June 2017
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+14
 
 <div style=\"page-break-after: always\"></div>
 
@@ -541,7 +553,7 @@ If the dates for submission of a PSUR and the update of a RMP coincide, they can
 
 ## · Additional risk minimisation measures
 
-The MAH must ensure that, at launch, all physicians who are expected to prescribe INCRELEX are provided with a 'physician information pack' containing the following:
+The MAH must ensure that, at launch, all physicians who are expected to prescribe INCRELEX are provided with a \"physician information pack\" containing the following:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -596,17 +608,19 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-INCRELEX 10 mg/ml solution for injection mecasermin
+INCRELEX 10 mg/ml solution for injection
+
+mecasermin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -622,7 +636,7 @@ See the package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection.
+Solution for injection.
 
 One multi-use vial of 4 ml.
 
@@ -668,19 +682,20 @@ EU/1/07/402/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 INCRELEX
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC:
 
@@ -738,10 +753,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -754,34 +769,34 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What INCRELEX is and what it is used for
 
-- -INCRELEX is a liquid that contains mecasermin which is a man-made insulin-like growth factor-1 (IGF-1), which is similar to the IGF-1 made by your body.
-- -It is used to treat children and adolescents from 2 to 18 years old who are very short for their age because their bodies do not make enough IGF-1. This condition is called primary IGF-1 deficiency.
+- INCRELEX is a liquid that contains mecasermin which is a man-made insulin-like growth factor-1 (IGF-1), which is similar to the IGF-1 made by your body.
+- It is used to treat children and adolescents from 2 to 18 years old who are very short for their age because their bodies do not make enough IGF-1. This condition is called primary IGF-1 deficiency.
 
 ## 2. What you need to know before you use INCRELEX
 
 ## Do not use INCRELEX
 
-- -If you currently have any tumour or growth, either cancerous or non-cancerous
-- -if you have had cancer in the past
-- -if you have any conditions which may increase the risk of cancer
-- -if you are allergic to mecasermin or any of the other ingredients of this medicine (listed in section 6).
-- -in premature babies or neonates because it contains benzyl alcohol.
+- If you currently have any tumour or growth, either cancerous or non-cancerous
+- if you have had cancer in the past
+- if you have any conditions which may increase the risk of cancer
+- if you are allergic to mecasermin or any of the other ingredients of this medicine (listed in section 6).
+- in premature babies or neonates because it contains benzyl alcohol.
 
 ## Warnings and precautions
 
-There is an increased risk of tumours and growths (both cancerous and non-cancerous) in children and adolescents treated with INCRELEX.  If any new growth, skin lesion or any unexpected symptom occurs during treatment or after treatment, see your doctor immediately since mecasermin may play a role in cancer development.
+There is an increased risk of tumours and growths (both cancerous and non-cancerous) in children and adolescents treated with INCRELEX. If any new growth, skin lesion or any unexpected symptom occurs during treatment or after treatment, see your doctor immediately since mecasermin may play a role in cancer development.
 
 ## Talk to your doctor or pharmacist before using INCRELEX
 
-- -if you have a curved spine (scoliosis). You should be monitored for progression of scoliosis.
-- -if you develop a limp or hip or knee pain
-- -if you have enlarged tonsils (tonsillar hypertrophy). You should have examinations periodically.
+- if you have a curved spine (scoliosis). You should be monitored for progression of scoliosis.
+- if you develop a limp or hip or knee pain
+- if you have enlarged tonsils (tonsillar hypertrophy). You should have examinations periodically.
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you have symptoms of increased pressure in the brain (intracranial hypertension), such as visual changes, headache, nausea and/or vomiting, contact the doctor for advice.
-- -if you have a localised reaction at the injection site or generalised allergic reaction with INCRELEX. Call the doctor as soon as possible if you get a localised rash. Get medical help immediately if you have a generalised allergic reaction (hives, trouble breathing, faintness or collapse and feeling generally unwell).
-- -if you have finished growing (the bone growth plates are closed). In this case INCRELEX cannot help you grow and should not be used.
+- if you have symptoms of increased pressure in the brain (intracranial hypertension), such as visual changes, headache, nausea and/or vomiting, contact the doctor for advice.
+- if you have a localised reaction at the injection site or generalised allergic reaction with INCRELEX. Call the doctor as soon as possible if you get a localised rash. Get medical help immediately if you have a generalised allergic reaction (hives, trouble breathing, faintness or collapse and feeling generally unwell).
+- if you have finished growing (the bone growth plates are closed). In this case INCRELEX cannot help you grow and should not be used.
 
 ## Children under 2 years old
 
@@ -845,7 +860,9 @@ Long-term overdose may result in enlargement of certain body parts (e.g., hands,
 
 ## If you forget to use INCRELEX
 
-Do not use a double dose to make up for a forgotten dose. If a dose is skipped, the next dose should not be made larger to compensate. The next dose should be taken as usual, with a meal or snack.
+Do not use a double dose to make up for a forgotten dose.
+
+If a dose is skipped, the next dose should not be made larger to compensate. The next dose should be taken as usual, with a meal or snack.
 
 ## If you stop using INCRELEX
 
@@ -857,17 +874,15 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet.
 
-The most frequently occurring side effects with mecasermin are: low blood sugar (hypoglycemia), vomiting, injection site reactions, headache and middle ear infections. Serious allergic reactions have
+The most frequently occurring side effects with mecasermin are: low blood sugar (hypoglycemia), vomiting, injection site reactions, headache and middle ear infections. Serious allergic reactions have also been reported with INCRELEX. If you develop any of these events, please follow the advice given for each event in the sections below.
 
 <div style=\"page-break-after: always\"></div>
-
-also been reported with INCRELEX. If you develop any of these events, please follow the advice given for each event in the sections below.
 
 ## Frequency not known (frequency cannot be estimated from the available data)
 
 ## Cancerous and non-cancerous tumours
 
-An increase in both cancerous and non-cancerous tumours has been reported in patients treated with INCRELEX.  The risk of such tumours may be higher if INCRELEX is used for condition other than what is stated in Section 1 or used at higher than recommended dose as per Section 3.
+An increase in both cancerous and non-cancerous tumours has been reported in patients treated with INCRELEX. The risk of such tumours may be higher if INCRELEX is used for condition other than what is stated in Section 1 or used at higher than recommended dose as per Section 3.
 
 ## Serious allergic reactions (anaphylaxis)
 
@@ -949,7 +964,9 @@ Hypoacusis (hearing loss), ear pain and fluid in the middle ear have been observ
 
 ## Worsened scoliosis (caused by rapid growth)
 
-If you have scoliosis, you will need to be checked often for an increase in the curve of the spine. Pain in muscles has also been seen with mecasermin treatment.
+If you have scoliosis, you will need to be checked often for an increase in the curve of the spine.
+
+Pain in muscles has also been seen with mecasermin treatment.
 
 ## Reproductive system
 
@@ -971,11 +988,9 @@ Reactions including pain, irritation, bleeding, bruising, redness and hardening 
 
 ## Increased pressure in the brain (intracranial hypertension)
 
-INCRELEX can sometimes cause a temporary increase in pressure within the brain. The symptoms of intracranial hypertension can include visual changes, headache, nausea and/or vomiting. Tell the doctor immediately if you have any of these symptoms. Your doctor can check to see if intracranial
+INCRELEX can sometimes cause a temporary increase in pressure within the brain. The symptoms of intracranial hypertension can include visual changes, headache, nausea and/or vomiting. Tell the doctor immediately if you have any of these symptoms. Your doctor can check to see if intracranial hypertension is present. If it is present, your doctor may decide to temporarily reduce or discontinue mecasermin therapy. Mecasermin may be started again after the episode is over.
 
 <div style=\"page-break-after: always\"></div>
-
-hypertension is present. If it is present, your doctor may decide to temporarily reduce or discontinue mecasermin therapy. Mecasermin may be started again after the episode is over.
 
 ## Heart abnormalities
 
@@ -1001,7 +1016,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of the month.
 
-Store in a refrigerator (2 ° C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light. After first use, the vial may be stored for up to 30 days at 2 ° C to 8ºC.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light. After first use, the vial may be stored for up to 30 days at 2°C to 8ºC.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1009,8 +1024,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What INCRELEX contains
 
-- -The active substance is mecasermin. One ml contains 10 mg of mecasermin. Each vial contains 40 mg of mecasermin.
-- -The other ingredients are: benzyl alcohol, sodium chloride, polysorbate 20, glacial acetic acid, sodium acetate and water for injections (see section 2 \"INCRELEX contains benzyl alcohol and sodium\").
+- The active substance is mecasermin. One ml contains 10 mg of mecasermin. Each vial contains 40 mg of mecasermin.
+- The other ingredients are: benzyl alcohol, sodium chloride, polysorbate 20, glacial acetic acid, sodium acetate and water for injections (see section 2 \"INCRELEX contains benzyl alcohol and sodium\").
 
 ## What INCRELEX looks like and contents of the pack
 
@@ -1032,15 +1047,13 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien, Luxembourg/Luxemburg
 
-Esteve Pharmaceuticals BV/SRL
-
-Email: adgadegroote@external.esteve.com
+Esteve Pharmaceuticals BV/SRL Email: contact-benelux@esteve.com
 
 ## България
 
-Esteve Pharmaceuticals S.A.
+Медис Фарма България ЕООД
 
-Tel: +34 93 446 60 00
+Teл.: +359 2 427 49 58
 
 ## Česká republika
 
@@ -1050,9 +1063,7 @@ Tel: +220 610 491
 
 ## Hrvatska
 
-Esteve Pharmaceuticals S.A.
-
-Tel: +34 93 446 60 00
+Medis Adria d.o.o. Tel: + 385 (0) 1 230 34 46
 
 ## Danmark, Norge, Suomi/Finland, Sverige,
 
@@ -1072,31 +1083,31 @@ Tel.: +49 30 338427-100
 
 ## Eesti
 
-Esteve Pharmaceuticals S.A.
+Medis Pharma Lithuania UAB
 
-Tel: +34 93 446 60 00
+Tel: + 370 687 35006
 
 ## Italia
 
 Esteve Pharmaceuticals SRL
 
-Tel: +39 345 9214959
+Tel: +39 02 89626888
 
 ## Latvija
 
-Esteve Pharmaceuticals S.A.
+Medis Pharma Lithuania UAB
 
-Tel: +34 93 446 60 00
+Tel: + 370 687 35006
 
 ## Lietuva
 
-Esteve Pharmaceuticals S.A. Tel. +34 93 446 60 00
+Medis Pharma Lithuania UAB Tel. + 370 687 35006
 
 ## Magyarország
 
-Esteve Pharmaceuticals S.A.
+Medis Hungary Kft
 
-Tel.: +34 93 446 60 00
+Tel.: +36(0) 238 01028
 
 ## Nederland
 
@@ -1112,7 +1123,11 @@ Tel.: + 48 691 702 426
 
 ## Ελλάδα, Κύπρος
 
-SPECIALTY THERAPEUTICS IKE Ελλάδα Τηλ: +30 2130 233 913
+SPECIALTY THERAPEUTICS IKE
+
+Ελλάδα
+
+Τηλ: +30 2130 233 913
 
 ## Malta
 
@@ -1120,17 +1135,7 @@ Esteve Pharmaceuticals S.A.
 
 Tel: +34 93 446 60 00
 
-## Portugal
-
-Esteve Pharmaceuticals - Laboratório Farmacêutico Lda. Tel: +351 914224766
-
 ## España
-
-Esteve Pharmaceuticals S.A.
-
-Tel: +34 93 446 60 00
-
-## Slovenija
 
 Esteve Pharmaceuticals S.A.
 
@@ -1142,31 +1147,47 @@ Esteve Pharmaceuticals S.A.S
 
 Tél: +33 1 42 31 07 10
 
-## Slovenská republika
+## Ireland, United Kingdom (Northern Ireland)
 
 Esteve Pharmaceuticals S.A.
 
+Ireland
+
 Tel: +34 93 446 60 00
 
-## Ireland, United Kingdom (Northern Ireland)
+## Portugal
 
-Esteve Pharmaceuticals S.A. Ireland
+Esteve Pharmaceuticals - Laboratório
+
+Farmacêutico Lda.
+
+Tel: +351 914224766
+
+## Slovenija
+
+Medis d.o.o.
+
+Tel: +386(0) 158 96900
+
+## Slovenská republika
+
+Medis Pharma Slovakia s.r.o.
+
+Tel: +421 2 32 39 3403
 
 ## România
 
-Esteve Pharmaceuticals S.A.
+Medis RO S.R.L.
 
-Tel/ Тел.
-
-: +34 93 446 60 00
+Email: medis.ro@medis.com
 
 <div style=\"page-break-after: always\"></div>
 
-Tel: +34 93 446 60 00
-
 ## This leaflet was last revised in
 
-This medicine has been authorised under 'exceptional circumstances'. This means that because of the rarity of this disease it has been impossible to get complete information on this medicine. The European Medicines Agency will review any new information on this medicine every year and
+This medicine has been authorised under 'exceptional circumstances'. This means that because of the
+
+rarity of this disease it has been impossible to get complete information on this medicine. The European Medicines Agency will review any new information on this medicine every year and
 
 this leaflet will be updated as necessary.
 
@@ -1176,9 +1197,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
 
-&lt;
-
-------------------------------------------------------------------------------------------------------------------------&gt;
+&lt;------------------------------------------------------------------------------------------------------------------------&gt;
 
 <div style=\"page-break-after: always\"></div>
 

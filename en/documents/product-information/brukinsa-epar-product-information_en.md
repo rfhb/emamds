@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-24 16:37:32
-document_pages: 84
+document_datetime: 2026-10-07 14:17:40
+document_pages: 85
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/brukinsa-epar-product-information_en.pdf
 document_name: brukinsa-epar-product-information_en.pdf
 version: success
-processing_time: 32.3163107
-conversion_datetime: 2025-12-22 16:28:07.774864
+processing_time: 59.4153653
+conversion_datetime: 2026-10-10 12:09:16.631176
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -38,7 +38,7 @@ For the full list of excipients, see section 6.1
 
 Hard capsule (capsule).
 
-White to off-white opaque hard capsule of 22 mm in length, marked with 'ZANU 80' in black ink.
+White to off-white opaque hard capsule of 22 mm in length, marked with \"ZANU 80\" in black ink.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -60,11 +60,9 @@ Treatment with this medicinal product should be initiated and supervised by a ph
 
 The recommended total daily dose of zanubrutinib is 320 mg. The daily dose may be taken either once daily (four 80 mg capsules) or divided into two doses of 160 mg twice daily (two 80 mg capsules). Treatment should be continued until disease progression or unacceptable toxicity.
 
-BRUKINSA in combination with obinutuzumab
+BRUKINSA in combination with obinutuzumab Zanubrutinib must be administered before obinutuzumab infusion. The recommended dose is obinutuzumab 1 000 mg intravenously on Days 1, 8, and 15 of Cycle 1, and on Day 1 of every 28-day cycle from Cycles 2 to 6. At the discretion of the physician, obinutuzumab may be administered 100 mg on Day 1 and 900 mg on Day 2 of Cycle 1 instead of 1 000 mg on Day 1 of Cycle 1. Obinutuzumab maintenance (one infusion every two months for up to two years) may be prescribed. Refer to the obinutuzumab SmPC for additional dosing information, including premedication before each infusion.
 
 <div style=\"page-break-after: always\"></div>
-
-Zanubrutinib must be administered before obinutuzumab infusion.  The recommended dose is obinutuzumab 1 000 mg intravenously on Days 1, 8, and 15 of Cycle 1, and on Day 1 of every 28-day cycle from Cycles 2 to 6. At the discretion of the physician, obinutuzumab may be administered 100 mg on Day 1 and 900 mg on Day 2 of Cycle 1 instead of 1 000 mg on Day 1 of Cycle 1. Obinutuzumab maintenance (one infusion every two months for up to two years) may be prescribed. Refer to the obinutuzumab SmPC for additional dosing information, including premedication before each infusion.
 
 ## Dose modifications for adverse reactions
 
@@ -72,12 +70,12 @@ Recommended dose modifications of zanubrutinib for Grade 3 or greater adverse re
 
 Table 1: Recommended dose modifications for adverse reactions
 
-| Adverse reaction                                                                                                         | Adverse reaction occurrence   | Dose modification (starting dose: 320 mg once daily or 160 mg twice daily)                                               |
-|--------------------------------------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| ≥ Grade 3 non-haematological toxicities ≥ Grade 3 febrile neutropenia Grade 3 thrombocytopenia with significant bleeding | First                         | Interrupt BRUKINSA Once toxicity has resolved to ≤Grade 1 or baseline: Resume at 320 mg once daily or 160 mg twice daily |
-| ≥ Grade 3 non-haematological toxicities ≥ Grade 3 febrile neutropenia Grade 3 thrombocytopenia with significant bleeding | Second                        | Interrupt BRUKINSA Once toxicity has resolved to ≤Grade 1 or baseline: Resume at 160 mg once daily or 80 mg twice daily  |
-| Grade 4 neutropenia (lasting > 10 consecutive days)                                                                      | Third                         | Interrupt BRUKINSA Once toxicity has resolved to ≤Grade 1 or baseline: Resume at 80 mg once daily                        |
-| Grade 4 thrombocytopenia (lasting > 10 consecutive days)                                                                 | Fourth                        | Discontinue BRUKINSA                                                                                                     |
+| Adverse reaction                                                      | Adverse reaction occurrence   | Dose modification (starting dose: 320 mg once daily or 160 mg twice daily)                                               |
+|-----------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| ≥ Grade 3 non-haematological toxicities ≥ Grade 3 febrile neutropenia | First                         | Interrupt BRUKINSA Once toxicity has resolved to ≤Grade 1 or baseline: Resume at 320 mg once daily or 160 mg twice daily |
+| Grade 3 thrombocytopenia with significant bleeding                    | Second                        | Interrupt BRUKINSA Once toxicity has resolved to ≤Grade 1 or baseline: Resume at 160 mg once daily or 80 mg twice daily  |
+| Grade 4 neutropenia (lasting > 10 consecutive days)                   | Third                         | Interrupt BRUKINSA Once toxicity has resolved to ≤Grade 1 or baseline: Resume at 80 mg once daily                        |
+| Grade 4 thrombocytopenia (lasting > 10 consecutive days)              | Fourth                        | Discontinue BRUKINSA                                                                                                     |
 
 Asymptomatic lymphocytosis should not be regarded as an adverse reaction, and these patients should continue taking BRUKINSA.
 
@@ -94,7 +92,7 @@ Table 2: Recommended dose modifications when co-administered with other medicina
 | CYP3A      | Co-administered medicinal product                                                                                                                                       | Recommended dose                                                              |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | Inhibition | Strong CYP3A inhibitor (e.g., posaconazole, voriconazole, ketoconazole, itraconazole, clarithromycin, indinavir, lopinavir, ritonavir, telaprevir)                      | 80 mg once daily                                                              |
-| Inhibition | Moderate CYP3A inhibitor (e.g., erythromycin, ciprofloxacin, diltiazem, dronedarone, fluconazole, verapamil, aprepitant, imatinib, grapefruit juice, Seville oranges)   | 160 mg once daily or 80 mg twice daily                                        |
+|            | Moderate CYP3A inhibitor (e.g., erythromycin, ciprofloxacin, diltiazem, dronedarone, fluconazole, verapamil, aprepitant, imatinib, grapefruit juice, Seville oranges)   | 160 mg once daily or 80 mg twice daily                                        |
 | Induction  | Strong CYP3A inducer (e.g., carbamazepine, phenytoin, rifampicin, St. John's wort) Moderate CYP3A inducer (e.g., bosentan, efavirenz, etravirine, modafinil, nafcillin) | Avoid concomitant use; Consider alternative agents with less CYP3A induction. |
 
 ## Missed dose
@@ -135,7 +133,9 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 Serious and fatal haemorrhagic events have occurred in patients treated with BRUKINSA. Grade 3 or higher bleeding events including intracranial and gastrointestinal haemorrhage, haematuria and haemothorax have been reported in patients (see section 4.8). Bleeding events of any grade including purpura and petechiae occurred in patients with haematological malignancies. The mechanism for the bleeding events is not well understood.
 
-BRUKINSA may increase the risk of haemorrhage in patients receiving antiplatelet or anticoagulant therapies and patients should be monitored for signs of bleeding. Dose modification may be necessary for Grade 3 or greater adverse reactions as recommended (see section 4.2). Warfarin or other vitamin K antagonists should not be administered concomitantly with BRUKINSA. Patients should be monitored for signs and symptoms of bleeding and complete blood counts should be monitored.  The risks and benefits of anticoagulant or antiplatelet therapy when co-administered with BRUKINSA should be considered. The benefit-risk of withholding zanubrutinib for 3 to 7 days pre- and postsurgery depending upon the type of surgery and the risk of bleeding should be considered.
+BRUKINSA may increase the risk of haemorrhage in patients receiving antiplatelet or anticoagulant therapies and patients should be monitored for signs of bleeding. Dose modification may be necessary for Grade 3 or greater adverse reactions as recommended (see section 4.2). Warfarin or other vitamin K antagonists should not be administered concomitantly with BRUKINSA. Patients should be monitored for signs and symptoms of bleeding and complete blood counts should be monitored. The risks and benefits of anticoagulant or antiplatelet therapy when co-administered with BRUKINSA should be considered.
+
+The benefit-risk of withholding zanubrutinib for 3 to 7 days pre- and post-surgery depending upon the type of surgery and the risk of bleeding should be considered.
 
 ## Infections
 
@@ -151,9 +151,9 @@ Second primary malignancies, including non-skin carcinoma have occurred in patie
 
 ## Atrial fibrillation and flutter
 
-Atrial fibrillation and atrial flutter have occurred in patients treated with BRUKINSA, particularly in patients with cardiac risk factors, hypert ension, acute infections and elderly (≥ 65 years). Signs and symptoms for atrial fibrillation and atrial flutter should be monitored and managed as appropriate.
-
 <div style=\"page-break-after: always\"></div>
+
+Atrial fibrillation and atrial flutter have occurred in patients treated with BRUKINSA, particularly in patients with cardiac risk factors, hypertension, acute infections and elderly (≥ 65 years). Signs and symptoms for atrial fibrillation and atrial flutter should be monitored and managed as appropriate.
 
 ## Tumour lysis syndrome
 
@@ -187,13 +187,11 @@ The coadministration of multiple doses of moderate CYP3A inhibitors fluconazole 
 
 If a moderate CYP3A inhibitor must be used (e.g., erythromycin, ciprofloxacin, diltiazem, dronedarone, fluconazole, verapamil, aprepitant, imatinib, grapefruit juice, Seville oranges), the BRUKINSA dose should be reduced to 160 mg (two capsules) for the duration of the inhibitor use. Patients should be closely monitored for toxicity and dose modification guidance should be followed as needed (see section 4.2).
 
-## Mild CYP3A inhibitors
-
-Simulations using fasted conditions suggested that the mild CYP3A inhibitors (e.g., cyclosporine and fluvoxamine) may increase the AUC of zanubrutinib by &lt;1.5-fold. No dose adjustment is required in
-
 <div style=\"page-break-after: always\"></div>
 
-combination with mild inhibitors. Patients should be closely monitored for toxicity and dose modification guidance should be followed as needed.
+## Mild CYP3A inhibitors
+
+Simulations using fasted conditions suggested that the mild CYP3A inhibitors (e.g., cyclosporine and fluvoxamine) may increase the AUC of zanubrutinib by &lt;1.5-fold. No dose adjustment is required in combination with mild inhibitors. Patients should be closely monitored for toxicity and dose modification guidance should be followed as needed.
 
 ## Agents that may decrease zanubrutinib plasma concentrations
 
@@ -201,7 +199,7 @@ Concomitant use of zanubrutinib and strong or moderate inducers of CYP3A can dec
 
 ## CYP3A inducers
 
-Co-administration of multiple doses of rifampicin (strong CYP3A inducer) decreased zanubrutinib Cmax by 92% and AUC by 93% in healthy subjects.  Co-administration of multiple doses of rifabutin (moderate CYP3A inducer) decreased zanubrutinib Cmax by 48% and AUC by 44% in healthy subjects. Concomitant use of zanubrutinib and strong or moderate CYP3A inducers should be avoided (see section 4.2). Mild CYP3A inducers may be used with caution during BRUKINSA treatment.
+Co-administration of multiple doses of rifampicin (strong CYP3A inducer) decreased zanubrutinib Cmax by 92% and AUC by 93% in healthy subjects. Co-administration of multiple doses of rifabutin (moderate CYP3A inducer) decreased zanubrutinib Cmax by 48% and AUC by 44% in healthy subjects. Concomitant use of zanubrutinib and strong or moderate CYP3A inducers should be avoided (see section 4.2). Mild CYP3A inducers may be used with caution during BRUKINSA treatment.
 
 ## Gastric acid reducing agents
 
@@ -227,9 +225,9 @@ The coadministration of oral P-gp substrates with a narrow therapeutic index (e.
 
 ## 4.6 Fertility, pregnancy and lactation
 
-Women of childbearing potential/Contraception in females
-
 <div style=\"page-break-after: always\"></div>
+
+## Women of childbearing potential/Contraception in females
 
 Based on findings in animals, BRUKINSA may cause foetal harm when administered to pregnant women (see section 5.3). Women should avoid becoming pregnant while taking BRUKINSA and for up to 1 month after ending treatment. Therefore, women of childbearing potential must use highly effective contraceptive measures while taking BRUKINSA and for up to 1 month after stopping treatment. It is currently unknown whether zanubrutinib may reduce the effectiveness of hormonal contraceptives, and therefore women using hormonal contraceptives should add a barrier method. Pregnancy testing is recommended for women of reproductive potential prior to initiating therapy.
 
@@ -255,19 +253,19 @@ BRUKINSA has no or negligible influence on the ability to drive and use machines
 
 ## Zanubrutinib monotherapy
 
-The most commonly occurring adverse reactions (≥20%) of zanubrutinib monotherapy were upper respiratory tract infection § (36%), bruising § (32%), haemorrhage/haematoma §  (30%), neutropenia § (30%), musculoskeletal pain § (27%), rash § (25%), pneumonia § (24%),  diarrhoea (21%) and cough § (21%) (Table 3).
+The most commonly occurring adverse reactions (≥20%) of zanubrutinib monotherapy were upper respiratory tract infection § (36%), bruising § (32%), haemorrhage/haematoma § (30%), neutropenia § (30%), musculoskeletal pain § (27%), rash § (25%), pneumonia § (24%), diarrhoea (21%) and cough § (21%) (Table 3).
 
-The most common Grade 3 or higher adverse reactions (&gt;3%) of zanubrutinib monotherapy were neutropenia § (21%), pneumonia § (14%), hypertension § (8%), thrombocytopenia § (6%), anaemia (6%) and haemorrhage /haematoma §  (4%).
+The most common Grade 3 or higher adverse reactions (&gt;3%) of zanubrutinib monotherapy were neutropenia § (21%), pneumonia § (14%), hypertension § (8%), thrombocytopenia § (6%), anaemia (6%) and haemorrhage /haematoma § (4%).
 
 Of the 1550 patients treated with zanubrutinib, 4.8% of patients discontinued treatment due to adverse reactions. The most frequent adverse reaction leading to treatment discontinuation was pneumonia § (2.6%). Adverse reactions leading to dose reduction occurred in 5.0% of patients.
 
 ## Zanubrutinib in combination with obinutuzumab
 
-The most commonly occurring adverse reactions (≥20%) of zanubrutinib in combination with obinutuzumab were thrombocytopenia §  (37%), neutropenia § (31%) and fatigue § (27%) (Table 4).
+The most commonly occurring adverse reactions (≥20%) of zanubrutinib in combination with obinutuzumab were thrombocytopenia § (37%), neutropenia § (31%) and fatigue § (27%) (Table 4).
 
 <div style=\"page-break-after: always\"></div>
 
-The most common Grade 3 or higher adverse reactions (&gt;3%) of zanubrutinib in combination with obinutuzumab were neutropenia § (25%), thrombocytopenia § (16%), pneumonia §  (15%) and anaemia (5%).
+The most common Grade 3 or higher adverse reactions (&gt;3%) of zanubrutinib in combination with obinutuzumab were neutropenia § (25%), thrombocytopenia § (16%), pneumonia § (15%) and anaemia (5%).
 
 Of the 143 patients treated with zanubrutinib in combination with obinutuzumab, 4.9% of patients discontinued treatment due to adverse reactions. The most frequent adverse reaction leading to treatment discontinuation was pneumonia§ (4.2%). Adverse reactions leading to dose reduction occurred in 7.0% of patients.
 
@@ -277,7 +275,7 @@ Platelet count decreased† (based on laboratory values) was observed in 65% (al
 
 The safety profile of zanubrutinib monotherapy is based on pooled data from 1 550 patients with Bcell malignancies, including patients with chronic lymphocytic leukaemia (N = 938), Waldenström macroglobulinemia (N = 249), mantle cell lymphoma (N = 140), marginal zone lymphoma (N = 93), follicular lymphoma (N = 59) and other types of B-cell malignancies (N = 71), treated with BRUKINSA in clinical studies with a median duration of exposure of 34.41 months.
 
-The safety profile of zanubrutinib in combination with obinutuzumab is based on ROSEWOOD study data from 143 patients with FL treated with BRUKINSA in combination with obinutuzumab in two clinical studies with a median duration of exposure of 12.35 months.
+The safety profile of zanubrutinib in combination with obinutuzumab is based on ROSEWOOD study data from 143 patients with FL treated with BRUKINSA in combination with obinutuzumab with a median duration of exposure of 12.35 months.
 
 Adverse reactions in patients treated with BRUKINSA as monotherapy or in combination with obinutuzumab for B-cell malignancies are listed in Table 3 and Table 4, respectively, by system organ class and frequency grouping. Frequencies are defined as follows: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
@@ -285,120 +283,98 @@ Adverse reactions in patients treated with BRUKINSA as monotherapy or in combina
 
 Table 3: Adverse reactions of zanubrutinib monotherapy reported in clinical studies in patients with B-cell malignancies(n=1 550)
 
-| MedDRA SOC                                      | MedDRA Terms                        | All Grades* (%)   | Grade 3 or higher (%)   |
-|-------------------------------------------------|-------------------------------------|-------------------|-------------------------|
-| Infections and infestations                     | Upper respiratory tract infection § | Very Common (36)  | 2                       |
-| Infections and infestations                     | Pneumonia §#                        | Very Common (24)  | 14                      |
-| Infections and infestations                     | Pneumonia                           | Very Common (15)  | 8                       |
-| Infections and infestations                     | Lower respiratory tract infection   | Common (5)        | <1                      |
-| Infections and infestations                     | Urinary tract infection §           | Very Common (14)  | 2                       |
-| Infections and infestations                     | Bronchitis                          | Common (4)        | <1                      |
-| Infections and infestations                     | Hepatitis B reactivation            | Uncommon (<1)     | <1                      |
-| Blood and lymphatic system disorders            | Neutropenia §                       | Very Common (30)  | 21                      |
-| Blood and lymphatic system disorders            | Febrile neutropenia                 | Common ( 2)       | 2                       |
-| Blood and lymphatic system disorders            | Thrombocytopenia §                  | Very Common (18)  | 6                       |
-| Blood and lymphatic system disorders            | Anaemia §                           | Very Common (16)  | 6                       |
-| Metabolism and nutrition disorders              | Tumour lysis syndrome §#            | Uncommon (<1)     | <1                      |
-| Nervous system disorder                         | Dizziness §                         | Very Common (12)  | <1                      |
-| Cardiac disorders                               | Atrial fibrillation and flutter     | Common (5)        | 2                       |
-| Vascular disorders                              | Bruising §                          | Very Common (32)  | <1                      |
-| Vascular disorders                              | Contusion                           | Very Common (20)  | 0                       |
-| Vascular disorders                              | Petechiae                           | Common (7)        | <1                      |
-| Vascular disorders                              | Purpura                             | Common (5)        | <1                      |
-| Vascular disorders                              | Ecchymosis                          | Common (3)        | <1                      |
-| Vascular disorders                              | Haemorrhage/Haematoma § #           | Very Common (30)  | 4                       |
-| Vascular disorders                              | Haematuria                          | Very common (11)  | <1                      |
-| Vascular disorders                              | Epistaxis                           | Common (8)        | <1                      |
-| Vascular disorders                              | Gastrointestinal haemorrhage        | Uncommon (<1)     | <1                      |
-| Vascular disorders                              | Hypertension §                      | Very Common (17)  | 8                       |
-| Respiratory, thoracic and mediastinal disorders | Cough §                             | Very Common (21)  | <1                      |
-| Gastrointestinal disorders                      | Diarrhoea                           | Very Common (21)  | 2                       |
-| Gastrointestinal disorders                      | Constipation                        | Very Common (14)  | <1                      |
-| Skin and subcutaneous tissue disorders          | Rash §                              | Very Common (25)  | <1                      |
-| Skin and subcutaneous tissue disorders          | Pruritus                            | Common (8)        | <1                      |
-|                                                 | Dermatitis exfoliative generalized  | Unknown           | Unknown                 |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal pain §              | Very Common (27)  | 2                       |
-| Musculoskeletal and connective tissue disorders | Arthralgia                          | Very Common (15)  | <1                      |
-|                                                 | §                                   | Very common (18)  | 1                       |
-|                                                 | Fatigue                             |                   |                         |
+| MedDRA SOC                                      | MedDRA Terms                        | All Grades* (%)                   | Grade 3 or higher (%)   |
+|-------------------------------------------------|-------------------------------------|-----------------------------------|-------------------------|
+| Infections and infestations                     | Upper respiratory tract infection § | Very Common (36)                  | 2                       |
+| Infections and infestations                     | Pneumonia §#                        | Very Common (24)                  | 14                      |
+| Infections and infestations                     | Pneumonia                           | Very Common (15)                  | 8                       |
+| Infections and infestations                     | Lower respiratory tract infection   | Common (5)                        | <1                      |
+| Infections and infestations                     | Urinary tract infection §           | Very Common (14)                  | 2                       |
+| Infections and infestations                     | Bronchitis                          | Common (4)                        | <1                      |
+| Infections and infestations                     | Hepatitis B reactivation            | Uncommon (<1)                     | <1                      |
+| Blood and lymphatic system disorders            | Neutropenia §                       | Very Common (30)                  | 21                      |
+| Blood and lymphatic system disorders            | Febrile neutropenia                 | Common ( 2)                       | 2                       |
+| Blood and lymphatic system disorders            | Thrombocytopenia §                  | Very Common (18)                  | 6                       |
+| Blood and lymphatic system disorders            | Anaemia §                           | Very Common (16)                  | 6                       |
+| Metabolism and nutrition disorders              | Tumour lysis syndrome §#            | Uncommon (<1)                     | <1                      |
+| Nervous system disorder                         | Dizziness §                         | Very Common (12)                  | <1                      |
+| Cardiac disorders                               | Atrial fibrillation and flutter     | Common (5)                        | 2                       |
+| Vascular disorders                              | Bruising §                          | Very Common (32)                  | <1                      |
+| Vascular disorders                              | Contusion                           | Very Common (20)                  | 0                       |
+| Vascular disorders                              | Petechiae                           | Common (7)                        | <1                      |
+| Vascular disorders                              | Purpura                             | Common (5)                        | <1                      |
+| Vascular disorders                              | Ecchymosis                          | Common (3)                        | <1                      |
+| Vascular disorders                              | Haemorrhage/Haematoma § #           | Very Common (30)                  | 4                       |
+| Vascular disorders                              | Haematuria                          | Very common (11)                  | <1                      |
+| Vascular disorders                              | Epistaxis                           | Common (8)                        | <1                      |
+| Vascular disorders                              | Gastrointestinal haemorrhage        | Uncommon (<1)                     | <1                      |
+| Vascular disorders                              | Hypertension §                      | Very Common (17)                  | 8                       |
+| Respiratory, thoracic and mediastinal disorders | Cough §                             | Very Common (21)                  | <1                      |
+|                                                 | Diarrhoea                           | Very Common (21)                  | 2                       |
+| Gastrointestinal disorders                      | Constipation                        | Very Common (14)                  | <1                      |
+| Gastrointestinal disorders                      | Nausea                              | Very Common (12)                  | <1                      |
+| Skin and subcutaneous tissue disorders          | Rash §                              | Very Common (25)                  | <1                      |
+| Skin and subcutaneous tissue disorders          | Pruritus                            | Common (8)                        | <1                      |
+|                                                 | Dermatitis exfoliative generalized  | Unknown                           | Unknown                 |
+| Musculoskeletal and                             | Musculoskeletal pain §              | Very Common (27)                  | 2                       |
+| connective tissue disorders                     | Arthralgia Back pain                | Very Common (15) Very common (12) | <1 <1                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| General disorders and administration site conditions   | Fatigue                        | Very common (14)   | 1   |
-|--------------------------------------------------------|--------------------------------|--------------------|-----|
-| General disorders and administration site conditions   | Asthenia                       | Common (4)         | <1  |
-| General disorders and administration site conditions   | Oedema peripheral              | Common (9)         | <1  |
-| Investigations †                                       | Neutrophil count decreased † ± | Very common (52)   | 22  |
-| Investigations †                                       | Platelets decreased † ±        | Very common (39)   | 8   |
-| Investigations †                                       | Haemoglobin decreased † ±      | Very common (26)   | 4   |
-
-*  Grades were evaluated based on the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-
-
-CTCAE) version 4.03.
-
-†  Based on laboratory measurements.
-
-± Percentages are based on number of patients with both baseline and at least one postbaseline assessment available.
-
-§ Includes multiple adverse reaction terms
-
-# Includes events with fatal outcome.
+| General disorders and administration site conditions   | Fatigue §                     | Very common (18)   | 1   |
+|--------------------------------------------------------|-------------------------------|--------------------|-----|
+| General disorders and administration site conditions   | Fatigue                       | Very common (14)   | 1   |
+| General disorders and administration site conditions   | Asthenia                      | Common (4)         | <1  |
+| General disorders and administration site conditions   | Oedema peripheral             | Common (9)         | <1  |
+| Investigations                                         | Neutrophil count decreased †± | Very common (52)   | 22  |
+| Investigations                                         | † Platelets decreased †±      | Very common (39)   | 8   |
+| Investigations                                         | Haemoglobin decreased †±      | Very common (26)   | 4   |
 
 Table 4: Adverse reactions of zanubrutinib in combination with obinutuzumab reported in clinical study BGB-3111-212 in patients with follicular lymphoma (n=143)
 
-| MedDRA SOC                                      | MedDRA Terms                        |                  |              |
-|-------------------------------------------------|-------------------------------------|------------------|--------------|
-| MedDRA SOC                                      | MedDRA Terms                        | All grades* (%)  | Grade ≥3 (%) |
-| Infections and infestations                     | Upper respiratory tract infection § | Very common (14) | <1           |
-| Infections and infestations                     | Pneumonia §#                        | Very common (20) | 15           |
-| Infections and infestations                     | Pneumonia                           | Very common (13) | 11           |
-| Infections and infestations                     | Lower respiratory tract infection   | Common (4)       | <1           |
-| Infections and infestations                     | Urinary tract infection§            | Common (10)      | 2            |
-| Infections and infestations                     | Bronchitis                          | Common (2)       | 0            |
-| Blood and lymphatic system disorders            | Thrombocytopenia §                  | Very common (37) | 16           |
-| Blood and lymphatic system disorders            | Neutropenia§                        | Very common (31) | 25           |
-| Blood and lymphatic system disorders            | Anaemia§                            | Very common (12) | 5            |
-| Nervous system disorder                         | Dizziness §                         | Common (4)       | 0            |
-| Cardiac disorders                               | Atrial fibrillation and flutter §   | Common (3)       | 1            |
-| Vascular disorders                              | Haemorrhage/hematoma §              | Very common (16) | <1           |
-| Vascular disorders                              | Epistaxis                           | Common (5)       | 0            |
-| Vascular disorders                              | Hematuria                           | Common (<1)      | 0            |
-| Vascular disorders                              | Bruising §                          | Very common (15) | 0            |
-| Vascular disorders                              | Contusion                           | Very common (8)  | 0            |
-| Vascular disorders                              | Petechiae                           | Common (6)       | 0            |
-| Vascular disorders                              | Purpura                             | Common (2)       | 0            |
-| Vascular disorders                              | Ecchymosis                          | Common (1)       | 0            |
-| Vascular disorders                              | Hypertension §                      | Common (4)       | <1           |
-| Respiratory, thoracic and mediastinal disorders | Cough §                             | Very common (13) | 0            |
-| Gastrointestinal disorders                      | Diarrhoea                           | Very common (19) | 3            |
-|                                                 | Constipation                        | Very common (13) | 0            |
-| Skin and subcutaneous                           | Rash §                              | Very common (10) | 0            |
-| tissue disorders                                | Pruritus                            | Common (7)       | 0            |
-|                                                 | Dermatitis exfoliative generalized  | Unknown          | Unknown      |
+| MedDRA SOC                                      | MedDRA Terms                        | All grades* (%)   | Grade ≥3 (%)   |
+|-------------------------------------------------|-------------------------------------|-------------------|----------------|
+| Infections and infestations                     | Upper respiratory tract infection § | Very common (14)  | <1             |
+| Infections and infestations                     | Pneumonia §#                        | Very common (20)  | 15             |
+| Infections and infestations                     | Pneumonia                           | Very common (13)  | 11             |
+| Infections and infestations                     | Lower respiratory tract infection   | Common (4)        | <1             |
+| Infections and infestations                     | Urinary tract infection§            | Common (10)       | 2              |
+| Infections and infestations                     | Bronchitis                          | Common (2)        | 0              |
+| Blood and lymphatic system disorders            | Thrombocytopenia §                  | Very common (37)  | 16             |
+| Blood and lymphatic system disorders            | Neutropenia§                        | Very common (31)  | 25             |
+| Blood and lymphatic system disorders            | Anaemia§                            | Very common (12)  | 5              |
+| Nervous system disorder                         | Dizziness §                         | Common (4)        | 0              |
+| Cardiac disorders                               | Atrial fibrillation and flutter §   | Common (3)        | 1              |
+| Vascular disorders                              | Haemorrhage/hematoma §              | Very common (16)  | <1             |
+|                                                 | Epistaxis                           | Common (5)        | 0              |
+|                                                 | Hematuria                           | Common (<1)       | 0              |
+|                                                 | Bruising §                          | Very common (15)  | 0              |
+|                                                 | Contusion                           | Very common (8)   | 0              |
+|                                                 | Petechiae                           | Common (6)        | 0              |
+|                                                 | Purpura                             | Common (2)        | 0              |
+|                                                 | Ecchymosis                          | Common (1)        | 0              |
+|                                                 | Hypertension §                      | Common (4)        | <1             |
+| Respiratory, thoracic and mediastinal disorders | Cough §                             | Very common (13)  | 0              |
+| Gastrointestinal disorders                      | Diarrhoea                           | Very common (19)  | 3              |
+|                                                 | Constipation                        | Very common (13)  | 0              |
+|                                                 | Nausea                              | Common (9)        | 0              |
+|                                                 | Rash §                              | Very common (10)  | 0              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal Pain §         | Very common (18)   | 2   |
-|------------------------------------------------------|--------------------------------|--------------------|-----|
-| Musculoskeletal and connective tissue disorders      | Back pain                      | Very common (11)   | <1  |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                     | Common (4)         | 0   |
-| General disorders and administration site conditions | Fatigue §                      | Very common (27)   | 1   |
-| General disorders and administration site conditions | Fatigue                        | Very common (15)   | 0   |
-| General disorders and administration site conditions | Asthenia                       | Common (12)        | <1  |
-| General disorders and administration site conditions | Oedema peripheral              | Common (2)         | 0   |
-| Investigations † ±                                   | Platelets decreased † ±        | Very common (65)   | 12  |
-| Investigations † ±                                   | Neutrophil count decreased † ± | Very common (48)   | 18  |
-| Investigations † ±                                   | Haemoglobin decreased † ±      | Very common (31)   | <1  |
-
-*  Adverse events were graded by National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE version 5.0.)
-
-†   Based on laboratory measurements.
-
-§ Includes multiple adverse reaction terms.
-
-# Includes events with fatal outcome.
-
-±  Percentages are based on number of patients with both baseline and at least one postbaseline assessment available.
+| Skin and subcutaneous tissue disorders               | Pruritus                           | Common (7)       | 0       |
+|------------------------------------------------------|------------------------------------|------------------|---------|
+| Skin and subcutaneous tissue disorders               | Dermatitis exfoliative generalized | Unknown          | Unknown |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal Pain §             | Very common (18) | 2       |
+| Musculoskeletal and connective tissue disorders      | Back pain                          | Very common (11) | <1      |
+| Musculoskeletal and connective tissue disorders      | Arthralgia                         | Common (4)       | 0       |
+| General disorders and administration site conditions | Fatigue §                          | Very common (27) | 1       |
+| General disorders and administration site conditions | Fatigue                            | Very common (15) | 0       |
+| General disorders and administration site conditions | Asthenia                           | Common (12)      | <1      |
+| General disorders and administration site conditions | Oedema peripheral                  | Common (2)       | 0       |
+| Investigations †±                                    | Platelets decreased †±             | Very common (65) | 12      |
+| Investigations †±                                    | Neutrophil count decreased †±      | Very common (48) | 18      |
+| Investigations †±                                    | Haemoglobin decreased †±           | Very common (31) | <1      |
 
 ## Other special population
 
@@ -408,7 +384,7 @@ Of the 1 550 patients treated with BRUKINSA monotherapy, 61.3% were 65 years of 
 
 Of the 143 patients treated with BRUKINSA in combination with obinutuzumab, 42.0% were 65 years of age or older. The incidence of Grade 3 or higher adverse events was slightly higher among elderly patients treated with zanubrutinib in combination with obinutuzumab (70.0% of patients age ≥65 versus 62.7% of patients &lt;65 years of age). No clinically relevant differences in safety were observed between patients ≥65 years and younger.
 
-Reporting of suspected adverse reactions
+## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
@@ -420,15 +396,13 @@ There is no specific antidote for BRUKINSA. Patients who experience overdose sho
 
 ## 5.1 Pharmacodynamic properties
 
+<div style=\"page-break-after: always\"></div>
+
 Pharmacotherapeutic group: Antineoplastic agents, Bruton's tyrosine kinase inhibitors, ATC code: L01EL03.
 
 ## Mechanism of action
 
-Zanubrutinib is an inhibitor of Bruton's tyrosine kinase (BTK). Zanubrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK activity. BTK is a
-
-<div style=\"page-break-after: always\"></div>
-
-signalling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways. In B-cells, BTK signalling results in activation of pathways necessary for B-cell proliferation, trafficking, chemotaxis, and adhesion.
+Zanubrutinib is an inhibitor of Bruton's tyrosine kinase (BTK). Zanubrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK activity. BTK is a signalling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways. In B-cells, BTK signalling results in activation of pathways necessary for B-cell proliferation, trafficking, chemotaxis, and adhesion.
 
 ## Pharmacodynamic effects
 
@@ -444,77 +418,68 @@ At the recommended doses (320 mg once daily or 160 mg twice daily), there were n
 
 ## Patients with Waldenström Macroglobulinemia (WM)
 
-The safety and efficacy of BRUKINSA in WM were evaluated in a randomized, open-label, multicentre study comparing zanubrutinib and ibrutinib (ASPEN study, BGB-3111-302) in patients who were BTK inhibitor naive.  Eligible patients were at least 18 years of age with a clinical and definite histological diagnosis of relapsed/refractory WM or treatment-naïve when considered unsuitable for standard chemo-immunotherapy regimens by their treating physician. Patients had to meet at least one criterion for treatment according to consensus panel criteria from the Seventh International Workshop on Waldenström's Macroglobulinemia (IWWM) and have measurable disease, as defined by a serum IgM level &gt;0.5 g/dl. Patients with MYD88 mutation (MYD88MUT) were assigned to Cohort 1 (N=201) and were randomized 1:1 to receive either zanubrutinib 160 mg twice daily (Arm A) or ibrutinib 420 mg once daily (Arm B) until disease progression or unacceptable toxicity. Subjects found to have MYD88 wildtype (MYD88WT) by gene sequencing (estimated to be present in approximately 10% of enrolled subjects), were enrolled to Cohort 2 (N = 28) and received zanubrutinib 160 mg twice daily on a third, non-randomized, study arm (Arm C).
+The safety and efficacy of BRUKINSA in WM were evaluated in a randomized, open-label, multicentre study comparing zanubrutinib and ibrutinib (ASPEN study, BGB-3111-302) in patients who were BTK inhibitor naive. Eligible patients were at least 18 years of age with a clinical and definite histological diagnosis of relapsed/refractory WM or treatment-naïve when considered unsuitable for standard chemo-immunotherapy regimens by their treating physician. Patients had to meet at least one criterion for treatment according to consensus panel criteria from the Seventh International Workshop on Waldenström's Macroglobulinemia (IWWM) and have measurable disease, as defined by a serum IgM level &gt;0.5 g/dl. Patients with MYD88 mutation (MYD88MUT) were assigned to Cohort 1 (N=201) and were randomized 1:1 to receive either zanubrutinib 160 mg twice daily (Arm A) or ibrutinib 420 mg once daily (Arm B) until disease progression or unacceptable toxicity. Subjects found to have MYD88 wildtype (MYD88WT) by gene sequencing (estimated to be present in approximately 10% of enrolled subjects), were enrolled to Cohort 2 (N = 28) and received zanubrutinib 160 mg twice daily on a third, non-randomized, study arm (Arm C).
 
 In Cohort 1 (MYD88 MUT ), the median age was 70 years (range, 38 to 90 years), with 71% and 60% of patients treated with ibrutinib and zanubrutinib respectively being &gt;65 years old. 33% of patients in the zanubrutinib arm and 22% in the ibrutinib were &gt;75 years. 67% were male, and 91% were Caucasian. At study entry, 44% of patients in the ibrutinib arm and 46% of patients in the zanubrutinib arm had an International Prognostic Scoring System (IPSS) high. One hundred and sixty-four patients had relapsed or refractory disease; the median number of prior therapies was 1 (range, 1 to 8).
 
 The primary outcome measure was rate of Complete Response (CR) or Very Good Partial Response (VGPR), as assessed by an independent review committee (IRC) with adaptation of the response criteria updated at the Sixth IWWM. The secondary endpoints for Cohort 1 include major response rate (MRR), duration of response, rate of CR or VGPR determined by investigator, and progressionfree survival (PFS).
 
-The testing for the superiority of the primary endpoint of VGPR or CR rate required testing in the Relapsed/Refractory Analysis Set prior to testing in the ITT Analysis Set. Median follow-up was 19.4 months. In the relapsed/refractory patients, 19.8% and 28.9% achieved VGPR or CR on the ibrutinib and zanubrutinib arms, respectively. The primary efficacy endpoint was not significant in the
-
 <div style=\"page-break-after: always\"></div>
 
-Relapsed/Refractory Analysis Set (2-sided p=0.1160). Table 5 summarizes the responses as assessed by IRC for the Relapsed/Refractory and intent-to-treat (ITT) Analysis Set. Responses were observed with zanubrutinib across subgroups, including MYD88 WT  patients (Cohort 2) who had a VGPR or CR rate of 26.9% and an MRR of 50%.
+The testing for the superiority of the primary endpoint of VGPR or CR rate required testing in the Relapsed/Refractory Analysis Set prior to testing in the ITT Analysis Set. Median follow-up was 19.4 months. In the relapsed/refractory patients, 19.8% and 28.9% achieved VGPR or CR on the ibrutinib and zanubrutinib arms, respectively. The primary efficacy endpoint was not significant in the Relapsed/Refractory Analysis Set (2-sided p=0.1160). Table 5 summarizes the responses as assessed by IRC for the Relapsed/Refractory and intent-to-treat (ITT) Analysis Set. Responses were observed with zanubrutinib across subgroups, including MYD88 WT patients (Cohort 2) who had a VGPR or CR rate of 26.9% and an MRR of 50%.
 
 Table 5: Primary analysis of disease response by independent review committee (ASPEN Study)
 
-|                                           | Relapsed/Refractory   | Relapsed/Refractory   | ITT               | ITT                  |
-|-------------------------------------------|-----------------------|-----------------------|-------------------|----------------------|
-| Response Category                         | Ibrutinib N = 81      | Zanubrutinib N = 83   | Ibrutinib N = 99  | Zanubrutinib N = 102 |
-| Median follow-up time, months (range)     | 18.79 (0.5, 30.0)     | 18.73 (0.4, 28.7)     | 19.38 (0.5, 31.1) | 19.47 (0.4, 31.2)    |
-| CR                                        | 0 (0.0)               | 0 (0.0)               | 0 (0.0)           | 0 (0.0)              |
-| VGPR                                      | 16 (19.8)             | 24 (28.9)             | 19 (19.2)         | 29 (28.4)            |
-| PR                                        | 49 (60.5)             | 41 (49.4)             | 58 (58.6)         | 50 (49.0)            |
-| VGPR or CR rate, n (%)                    | 16 (19.8)             | 24 (28.9)             | 19 (19.2)         | 29 (28.4)            |
-| 95% CI a                                  | (11.7, 30.1)          | (19.5, 39.9)          | (12.0, 28.3)      | (19.9, 38.2)         |
-| Risk difference (%) b                     | 10.7                  | 10.7                  | 10.2              | 10.2                 |
-| 95% CI a                                  | (-2.5, 23.9)          | (-2.5, 23.9)          | (-1.5, 22.0)      | (-1.5, 22.0)         |
-| p-value c                                 | 0.1160                | 0.1160                |                   |                      |
-| MRR(PR or better), n (%)                  | 65 (80.2)             | 65 (78.3)             | 77 (77.8)         | 79 (77.5)            |
-| 95% CI a                                  | (69.9, 88.3)          | (67.9, 86.6)          | (68.3, 85.5)      | (68.1, 85.1)         |
-| Risk difference (%) b                     | -3.5                  | -3.5                  | -0.5              | -0.5                 |
-| 95% CI                                    | (-16.0, 9.0)          | (-16.0, 9.0)          | (-12.2, 11.1)     | (-12.2, 11.1)        |
-| Duration of major response                |                       |                       |                   |                      |
-| Event-free rate at, %(95% CI) d 18 months | 85.6 (73.1, 92.6)     | 87.0 (72.5, 94.1)     | 87.9 (77.0, 93.8) | 85.2 (71.7, 92.6)    |
+| Response Category                          | Relapsed/Refractory - Ibrutinib N = 81   | Relapsed/Refractory - Zanubrutinib N = 83   | ITT - Ibrutinib N = 99   | ITT - Zanubrutinib N = 102   |
+|--------------------------------------------|------------------------------------------|---------------------------------------------|--------------------------|------------------------------|
+| Median follow-up time, months (range)      | 18.79 (0.5, 30.0)                        | 18.73 (0.4, 28.7)                           | 19.38 (0.5, 31.1)        | 19.47 (0.4, 31.2)            |
+| CR                                         | 0 (0.0)                                  | 0 (0.0)                                     | 0 (0.0)                  | 0 (0.0)                      |
+| VGPR                                       | 16 (19.8)                                | 24 (28.9)                                   | 19 (19.2)                | 29 (28.4)                    |
+| PR                                         | 49 (60.5)                                | 41 (49.4)                                   | 58 (58.6)                | 50 (49.0)                    |
+| VGPR or CR rate, n (%)                     | 16 (19.8)                                | 24 (28.9)                                   | 19 (19.2)                | 29 (28.4)                    |
+| 95% CI a                                   | (11.7, 30.1)                             | (19.5, 39.9)                                | (12.0, 28.3)             | (19.9, 38.2)                 |
+| Risk difference (%) b                      | 10.7                                     | 10.7                                        | 10.2                     | 10.2                         |
+| 95% CI a                                   | (-2.5, 23.9)                             | (-2.5, 23.9)                                | (-1.5, 22.0)             | (-1.5, 22.0)                 |
+| p-value c                                  | 0.1160                                   | 0.1160                                      |                          |                              |
+| MRR (PR or better), n (%)                  | 65 (80.2)                                | 65 (78.3)                                   | 77 (77.8)                | 79 (77.5)                    |
+| 95% CI a                                   | (69.9, 88.3)                             | (67.9, 86.6)                                | (68.3, 85.5)             | (68.1, 85.1)                 |
+| Risk difference (%) b                      | -3.5                                     | -3.5                                        | -0.5                     | -0.5                         |
+| 95% CI                                     | (-16.0, 9.0)                             | (-16.0, 9.0)                                | (-12.2, 11.1)            | (-12.2, 11.1)                |
+| Duration of major response                 |                                          |                                             |                          |                              |
+| Event-free rate at, % (95% CI) d 18 months | 85.6 (73.1, 92.6)                        | 87.0 (72.5, 94.1)                           | 87.9 (77.0, 93.8)        | 85.2 (71.7, 92.6)            |
 
 Percentages are based on N.
 
-a  2-sided Clopper-Pearson 95% confidence interval.
+a 2-sided Clopper-Pearson 95% confidence interval.
 
-b  Mantel-Haenszel common risk difference with the 95% confidence interval calculated using a normal approximation and Sato's standard error stratified by the stratification factors per IRT (strata CXCR4 WT and UNK are combined) and age group (≤65 and &gt;65). Ibrutinib is the reference group.
+b Mantel-Haenszel common risk difference with the 95% confidence interval calculated using a normal approximation and Sato's standard error stratified by the stratification factors per IRT (strata CXCR4 WT and UNK are combined) and age group (≤65 and &gt;65). Ibrutinib is the reference group.
 
-c  Based on CMH test stratified by the stratification factors per IRT (strata CXCR4 WT and UNK are combined) and age group (≤65 and &gt;65)
+c Based on CMH test stratified by the stratification factors per IRT (strata CXCR4 WT and UNK are combined) and age group (≤65 and &gt;65)
 
-d  Event-free rates are estimated by Kaplan-Meier method with 95% CIs estimated using the Greenwood's formula.
+d Event-free rates are estimated by Kaplan-Meier method with 95% CIs estimated using the Greenwood's formula.
 
 Based on an updated data cut-off the progression free-survival event-free rate by investigator assessment was 77.6% vs 84.9% at 30 months (ibrutinib vs zanubrutinib), with an estimated overall hazard ratio of 0.734 (95% CI: 0.380, 1.415).
 
-## Patients with Marginal Zone Lymphoma (MZL)
+Patients with Marginal Zone Lymphoma (MZL)
 
-The efficacy of zanubrutinib was assessed in a Phase 2 open-label, multicentre, single-arm trial of 68 patients with MZL who had received at least one prior anti-CD20-based therapy (MAGNOLIA study, BGB-3111-214). Twenty-six (38.2%) patients had extranodal MZL, 26 (38.2%) had nodal MZL, 12 (17.6%) had splenic MZL, and in 4 (6%) patients, the subtype was unknown. Zanubrutinib was given orally at a dose of 160 mg twice daily until disease progression or unacceptable toxicity. The median age of patients was 70 years (range: 37 to 95), and 53% were male. The median time since initial diagnosis was 61.5 months (range: 2.0 to 353.6). The median number of prior treatments was 2 (range: 1 to 6), with 27.9 % patients having 3 or more lines of systemic therapy; 98.5% (n=67) patients had received prior rituximab-based chemotherapy and 85.3% (n=58) patients had received prior treatment with alkylating agents; 5.9% patients (n=4) had prior stem cell transplantation. Sixtythree (92.6%) patients had a baseline ECOG performance status of 0 or 1.  Twenty-two (32.4%) patients had refractory disease at study entry.
-
-Tumor response was according to the 2014 Lugano Classification, and the primary efficacy endpoint was overall response rate as assessed by an Independent Review Committee (IRC) (Table 6).
+The efficacy of zanubrutinib was assessed in a Phase 2 open-label, multicentre, single-arm trial of 68 patients with MZL who had received at least one prior anti-CD20-based therapy (MAGNOLIA study, BGB-3111-214). Twenty-six (38.2%) patients had extranodal MZL, 26 (38.2%) had nodal MZL, 12 (17.6%) had splenic MZL, and in 4 (6%) patients, the subtype was unknown. Zanubrutinib was given orally at a dose of 160 mg twice daily until disease progression or unacceptable toxicity. The median age of patients was 70 years (range: 37 to 95), and 53% were male. The median time since initial diagnosis was 61.5 months (range: 2.0 to 353.6). The median number of prior treatments was 2 (range: 1 to 6), with 27.9 % patients having 3 or more lines of systemic therapy; 98.5% (n=67) patients had received prior rituximab-based chemotherapy and 85.3% (n=58) patients had received prior treatment with alkylating agents; 5.9% patients (n=4) had prior stem cell transplantation. Sixtythree (92.6%) patients had a baseline ECOG performance status of 0 or 1. Twenty-two (32.4%) patients had refractory disease at study entry.
 
 <div style=\"page-break-after: always\"></div>
 
+Tumor response was according to the 2014 Lugano Classification, and the primary efficacy endpoint was overall response rate as assessed by an Independent Review Committee (IRC) (Table 6).
+
 Table 6: Efficacy results in Patients with MZL by Independent Review Committee (MAGNOLIA study)
 
-|                                               | Study BGB-3111-214 (N=66) a   |
-|-----------------------------------------------|-------------------------------|
-| ORR (95% CI)                                  | 68% (55.6,79.1)               |
-| CR                                            | 26%                           |
-| PR                                            | 42%                           |
-| Median DoR in months (95% CI)                 | NE (25.0, NE)                 |
-| DOR Event Free Rate b at 24 months, %(95% CI) | 72.9 (54.4, 84.9)             |
-| Median study follow-up in months (Min, Max)   | 28.04 (1.64, 32.89)           |
+|                                                | Study BGB-3111-214 (N=66) a   |
+|------------------------------------------------|-------------------------------|
+| ORR (95% CI)                                   | 68% (55.6,79.1)               |
+| CR                                             | 26%                           |
+| PR                                             | 42%                           |
+| Median DoR in months (95% CI)                  | NE (25.0, NE)                 |
+| DOR Event Free Rate b at 24 months, % (95% CI) | 72.9 (54.4, 84.9)             |
+| Median study follow-up in months (Min, Max)    | 28.04 (1.64, 32.89)           |
 
-a  Two patients in BGB-3111-214 were not evaluable for efficacy due to central confirmation of MZL transformation to diffuse large B-cell lymphoma.
-
-b  Event free rates were estimated by Kaplan-Meier method with 95% CIs estimated using the Greenwood's formula.
-
-ORR: overall response rate, CR: complete response, PR: partial response, DoR: duration of response, CI: confidence interval, NE: not estimable
-
-In BGB-3111-214, the median time to response was 2.79 months (range: 1.7 to 11.1 months).  After a median study follow-up time of 28.04 months (range: 1.64 to 32.89 months), the median duration of response (DOR) as assessed by the IRC has not been reached (95% CI 25.0 months to NE), and a total of 72.9 % (95% CI 54.4 to 84.9) of responders were estimated to be event-free at 24 months after initial response.
+In BGB-3111-214, the median time to response was 2.79 months (range: 1.7 to 11.1 months). After a median study follow-up time of 28.04 months (range: 1.64 to 32.89 months), the median duration of response (DOR) as assessed by the IRC has not been reached (95% CI 25.0 months to NE), and a total of 72.9 % (95% CI 54.4 to 84.9) of responders were estimated to be event-free at 24 months after initial response.
 
 The overall response rates observed were similar across three different MZL subtypes (extranodal, nodal and splenic).
 
@@ -522,94 +487,94 @@ Patients with Chronic Lymphocytic Leukaemia (CLL)
 
 The efficacy of BRUKINSA in patients with CLL was evaluated in two randomized controlled trials.
 
-SEQUOIA  study  (BGB-3111-304):  An  International,  Phase  3,  Open-label,  Randomized  Study  of Zanubrutinib Compared with Bendamustine plus Rituximab (BR) in Patients with Previously Untreated CLL.
+SEQUOIA study (BGB-3111-304): An International, Phase 3, Open-label, Randomized Study of Zanubrutinib Compared with Bendamustine plus Rituximab (BR) in Patients with Previously Untreated CLL.
 
-The SEQUOIA study (BGB-3111-304) is a randomized multicenter, open-label, active controlled Phase 3 trial of zanubrutinib monotherapy and bendamustine in combination with rituximab in 479 patients with previously untreated CLL without 17p deletion (del(17p)) (arms A and B; Cohort 1).  Arm C (Cohort 2) is a multicenter single-arm trial of zanubrutinib monotherapy in 110 patients with previously untreated CLL with centrally confirmed del(17p).
+The SEQUOIA study (BGB-3111-304) is a randomized multicenter, open-label, active controlled Phase 3 trial of zanubrutinib monotherapy and bendamustine in combination with rituximab in 479 patients with previously untreated CLL without 17p deletion (del(17p)) (arms A and B; Cohort 1). Arm C (Cohort 2) is a multicenter single-arm trial of zanubrutinib monotherapy in 110 patients with previously untreated CLL with centrally confirmed del(17p).
 
 Both Cohorts enrolled patients 65 years of age or older as well as patients between 18 and 65 years of age that were unsuitable for chemoimmunotherapy with fludarabine, cyclophosphamide and rituximab (FCR).
+
+<div style=\"page-break-after: always\"></div>
 
 Demographic and baseline characteristics were generally balanced between arm A (zanubrutinib) and arm B (BR) of Cohort 1. In both arms, the median age was 70.0 years, with a slightly higher proportion of patients of ≥ 75 years (26.1%) in arm A compared with arm B (22.3%) and a slightly lower proportion of patients 65-75 years old (55.2%) in arm A compared with arm B (58.4%). In Cohort 1, 92.7% patients had a baseline ECOG performance status of 0 or 1 (93.7% in arm A and 91.6% in arm B). In Cohort 2 (arm C zanubrutinib), 87.3% patients had a baseline ECOG performance status of 0 or 1.
 
 Demographic and baseline characteristics were also generally similar between arm A (zanubrutinib) in Cohort 1 and arm C (zanubrutinib) in Cohort 2.
 
-<div style=\"page-break-after: always\"></div>
-
-In Cohort 1, randomisation was stratified by age (&lt; 65 years vs ≥ 65 years), Binet stage (C versus A or B), immunoglobulin variable region heavy chain (IGHV) mutational status (mutated vs unmutated), and geographic region (North America versus Europe versus Asia Pacific).  A total of 479 patients were randomized (intent-to-treat [ITT] analysis set), 241 to zanubrutinib continuous monotherapy and 238 to 6 cycles of therapy with bendamustine and rituximab (BR).
+In Cohort 1, randomisation was stratified by age (&lt; 65 years vs ≥ 65 years), Binet stage (C versus A or B), immunoglobulin variable region heavy chain (IGHV) mutational status (mutated vs unmutated), and geographic region (North America versus Europe versus Asia Pacific). A total of 479 patients were randomized (intent-to-treat [ITT] analysis set), 241 to zanubrutinib continuous monotherapy and 238 to 6 cycles of therapy with bendamustine and rituximab (BR).
 
 In Cohort 1, patients in the zanubrutinib arm A received 160 mg twice daily until disease progression or unacceptable toxicity. In arm B, patients received bendamustine at a dose of 90 mg/m2/day on the first 2 days of each cycle for 6 cycles and rituximab at a dose of 375 mg/m2 for Cycle 1, and at a dose of 500 mg/m2 for Cycles 2 to 6. Each treatment cycle consisted of approximately 28 days. In Cohort 2 (arm C), patients received zanubrutinib 160 mg twice daily until disease progression or unacceptable toxicity.
 
 For Cohort 1, the primary endpoint was progression-free survival (PFS), assessed by an independent central review committee (IRC). Secondary endpoints included the overall response rate based on IRC assessment.
 
-In Cohort 1, the median duration of follow-up for PFS was 25.0 months (range: 0.0 to 41.4). The PFS rate at 24 months was 85.5% (95% CI: 80.1, 89.6) for zanubrutinib and 69.5% (95% CI: 62.4, 75.5) for BR. In Cohort 2, the median duration of follow up for PFS was 27.9 months (range: 1.0 to 38.8) and the PFS rate at 24 months 88.9% (95% CI: 81.3, 93.6).   The ORR assessed by IRC in Cohort 2 was 90.0% (95% CI: 82.8, 94.9). The median time to partial response or higher as assessed by IRC was 2.89 months (range: 1.8, 14.2) and 2.86 months (range: 1.9, 13.9) in the zanubrutinib arm of Cohort 1 and Cohort 2, respectively.
+In Cohort 1, the median duration of follow-up for PFS was 25.0 months (range: 0.0 to 41.4). The PFS rate at 24 months was 85.5% (95% CI: 80.1, 89.6) for zanubrutinib and 69.5% (95% CI: 62.4, 75.5) for BR. In Cohort 2, the median duration of follow up for PFS was 27.9 months (range: 1.0 to 38.8) and the PFS rate at 24 months 88.9% (95% CI: 81.3, 93.6). The ORR assessed by IRC in Cohort 2 was 90.0% (95% CI: 82.8, 94.9). The median time to partial response or higher as assessed by IRC was 2.89 months (range: 1.8, 14.2) and 2.86 months (range: 1.9, 13.9) in the zanubrutinib arm of Cohort 1 and Cohort 2, respectively.
 
-Efficacy results for cohort 1 is presented in Table 7. The Kaplan-Meier curves for PFS for both arms in Cohort 1 are shown in in Figure 1.
+Efficacy results for cohort 1 is presented in Table 7. The Kaplan-Meier curves for PFS for both arms in Cohort 1 are shown in Figure 1.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 7: Efficacy Results in the SEQUOIA study
 
-|                                    | Cohort 1* Patients without Del(17p)   | Cohort 1* Patients without Del(17p)   |
-|------------------------------------|---------------------------------------|---------------------------------------|
-| Endpoint                           | Zanubrutinib (N=241)                  | Bendamustine + Rituximab (N=238)      |
-| Progression-Free Survival †        |                                       |                                       |
-| Number of Events, n (%)            | 36 (14.9)                             | 71 (29.8)                             |
-| Disease Progression, n (%)         | 27 (11.2)                             | 59 (24.8)                             |
-| Death, n (%)                       | 9 (3.7)                               | 12 (5.0)                              |
-| Median (95% CI), months a          | NE (NE, NE)                           | 33.7 (28.1, NE)                       |
-| Hazard Ratio (95% CI) b            | 0.42 (0.28, 0.63)                     | 0.42 (0.28, 0.63)                     |
-| P value c                          | <0.0001                               | <0.0001                               |
-| Overall Response Rate † % (95% CI) | 94.6% (91.0, 97.1)                    | 85.3% (80.1, 89.5)                    |
+| Endpoint                           | Cohort 1* Patients without Del(17p) - Zanubrutinib (N=241)   | Cohort 1* Patients without Del(17p) - Bendamustine + Rituximab (N=238)   |
+|------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------|
+| Progression-Free Survival †        |                                                              |                                                                          |
+| Number of Events, n (%)            | 36 (14.9)                                                    | 71 (29.8)                                                                |
+| Disease Progression, n (%)         | 27 (11.2)                                                    | 59 (24.8)                                                                |
+| Death, n (%)                       | 9 (3.7)                                                      | 12 (5.0)                                                                 |
+| Median (95% CI), months a          | NE (NE, NE)                                                  | 33.7 (28.1, NE)                                                          |
+| Hazard Ratio (95% CI) b            | 0.42 (0.28, 0.63)                                            | 0.42 (0.28, 0.63)                                                        |
+| P value c                          | <0.0001                                                      | <0.0001                                                                  |
+| Overall Response Rate † % (95% CI) | 94.6% (91.0, 97.1)                                           | 85.3% (80.1, 89.5)                                                       |
 
-Overall Response Rate: CR+CRi+nPR+PR+PR-L, CR: complete response, CRi: complete response with incomplete haematopoietic recovery, nPR: nodular partial response, PR: partial response, PR-L: partial response with lymphocytoma,
+Overall Response Rate: CR+CRi+nPR+PR+PR-L, CR: complete response, CRi: complete response with incomplete
+
+haematopoietic recovery, nPR: nodular partial response, PR: partial response, PR-L: partial response with lymphocytoma,
 
 CI: confidence interval, NE: not estimable, median follow-up time for PFS was 25.0 months (95% CI: 24.6, 25.2).
 
 * ITT analysis set
 
-†   Assessed by independent central review committee.
+† Assessed by independent central review committee.
 
-a  Based on Kaplan-Meier estimation.
+a Based on Kaplan-Meier estimation.
 
-b  Based on a stratified Cox-regression model with bendamustine + rituximab as the reference group.
+b Based on a stratified Cox-regression model with bendamustine + rituximab as the reference group.
 
 c Based on a stratified log-rank test.
 
-At  an  updated  ad  hoc  analysis  with  a  median  follow-up  of  33.5 months  for  PFS,  the  investigatorassessed PFS remained consistent with the primary analysis with a HR of 0.33 (95% CI: 0.22 to 0.48, descriptive P&lt;0.0001) in the zanubrutinib arm over the BR arm. Median PFS was not reached with zanubrutinib  arm  and  was  39.2 months  for  BR  arm.  At  36 months  after  randomization,  83.6%  of patients treated with zanubrutinib and 55.1% with BR were estimated to be progression-free and alive. With a median follow-up of 35.8 months, the median OS was not reached for both arms; the 36-month OS rate estimate was 90.9% (95% CI: 86.3 to 94.0) in the zanubrutinib arm and 89.5% (95% CI: 84.2 to 93,1) in the BR arm, respectively.
+At an updated ad hoc analysis with a median follow-up of 33.5 months for PFS, the investigatorassessed PFS remained consistent with the primary analysis with a HR of 0.33 (95% CI: 0.22 to 0.48, descriptive P&lt;0.0001) in the zanubrutinib arm over the BR arm. Median PFS was not reached with zanubrutinib arm and was 39.2 months for BR arm. At 36 months after randomization, 83.6% of patients treated with zanubrutinib and 55.1% with BR were estimated to be progression-free and alive. With a median follow-up of 35.8 months, the median OS was not reached for both arms; the 36-month OS rate estimate was 90.9% (95% CI: 86.3 to 94.0) in the zanubrutinib arm and 89.5% (95% CI: 84.2 to 93,1) in the BR arm, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1: Kaplan-Meier Curve of IRC-assessed PFS in the SEQUOIA  study Cohort 1 (ITT population)
+Figure 1: Kaplan-Meier Curve of IRC-assessed PFS in the SEQUOIA study Cohort 1 (ITT population)
 
 <!-- image -->
 
-ALPINE  study  (BGB-3111-305):  A  Phase  3,  Randomized  Study  of  Zanubrutinib  Compared  with Ibrutinib in Patients with Relapsed/Refractory (R/R) CLL
+ALPINE study (BGB-3111-305): A Phase 3, Randomized Study of Zanubrutinib Compared with Ibrutinib in Patients with Relapsed/Refractory (R/R) CLL
 
-The  ALPINE  study  (BGB-3111-305)  is  a  randomized,  multicenter,  open-label,  Phase  3,  active controlled trial. It enrolled 652 patients with relapsed or refractory CLL after at least one prior systemic therapy. The patients were randomized to either zanubrutinib 160 mg orally twice daily or ibrutinib 420 mg orally once daily, continued until disease progression or unacceptable toxicity.
+The ALPINE study (BGB-3111-305) is a randomized, multicenter, open-label, Phase 3, active controlled trial. It enrolled 652 patients with relapsed or refractory CLL after at least one prior systemic therapy. The patients were randomized to either zanubrutinib 160 mg orally twice daily or ibrutinib 420 mg orally once daily, continued until disease progression or unacceptable toxicity.
 
 Randomization was stratified by age (&lt; 65 years versus ≥ 65 years), geographic region (China versus non-China), refractory status (yes or no), and del(17p)/TP53 mutation status (present or absent). Baseline demographics and disease characteristics were generally balanced between treatment arms in ITT analysis set and in the first 415 randomized patients.
 
-In the ITT analysis set, the median age was 67.0 years in the zanubrutinib arm and 68.0 years in the ibrutinib  arm.  The  majority  of  patients  in  both  arms  had  an  ECOG  PS  of  0  or  1  (97.9%  in  the zanubrutinib arm; 96.0% in the ibrutinib arm).  Similar demographics and baseline characteristics were observed in the first 415 randomized patients. The median number of prior lines of systemic therapy is 1.0 the zanubrutinib arm (range, 1 to 6) and 1.0 in the ibrutinib arm (range, 1 to 8) in both the ITT analysis set and the first 415 randomized patients.
+In the ITT analysis set, the median age was 67.0 years in the zanubrutinib arm and 68.0 years in the ibrutinib arm. The majority of patients in both arms had an ECOG PS of 0 or 1 (97.9% in the zanubrutinib arm; 96.0% in the ibrutinib arm). Similar demographics and baseline characteristics were observed in the first 415 randomized patients. The median number of prior lines of systemic therapy is 1.0 the zanubrutinib arm (range, 1 to 6) and 1.0 in the ibrutinib arm (range, 1 to 8) in both the ITT analysis set and the first 415 randomized patients.
 
 Patients previously treated with a BTK inhibitor were excluded from study 305 and limited data for zanubrutinib after prior BCL 2 inhibitor treatment is available.
 
-Of 652 patients total, 327 were assigned to zanubrutinib monotherapy, 325 to ibrutinib monotherapy. The  efficacy  evaluation  is  based  on  the  pre-specified  interim  analysis  of  the  first  415  randomized patients of the ITT population. Of these, 207 were randomized to zanubrutinib monotherapy, 208 to ibrutinib monotherapy. Efficacy results are presented in Table 8.
+Of 652 patients total, 327 were assigned to zanubrutinib monotherapy, 325 to ibrutinib monotherapy. The efficacy evaluation is based on the pre-specified interim analysis of the first 415 randomized patients of the ITT population. Of these, 207 were randomized to zanubrutinib monotherapy, 208 to ibrutinib monotherapy. Efficacy results are presented in Table 8.
 
 The primary endpoint was overall response rate (ORR, defined as partial response or better).
 
-<div style=\"page-break-after: always\"></div>
+At the pre-specified ORR interim analysis in the first 415 randomised patients, zanubrutinib demonstrated non-inferiority (1-sided p &lt;0.0001) and superiority (2-sided p = 0.0006) to ibrutinib in the protocol-specified primary endpoint ORR assessed by investigator. Response as determined by IRC also demonstrated non-inferiority of zanubrutinib to ibrutinib (1-sided p &lt; 0.0001). At the ORR final analysis, ORR assessed by the investigator continues to be higher (79.5% versus 71.1%) in the zanubrutinib arm compared with the ibrutinib arm (descriptive p = 0.0133); ORR determined by IRC was also significantly higher in the zanubrutinib arm compared with the ibrutinib arm, demonstrating superiority (80.4% versus 72.9%, respectively; 2-sided p = 0.0264).
 
-At  the  pre-specified  ORR  interim  analysis  in  the  first  415  randomised  patients,  zanubrutinib demonstrated non-inferiority (1-sided p &lt;0.0001) and superiority (2-sided p = 0.0006) to ibrutinib in the protocol-specified primary endpoint ORR assessed by investigator. Response as determined by IRC also demonstrated non-inferiority of zanubrutinib to ibrutinib (1-sided p &lt; 0.0001).  At the ORR final analysis,  ORR  assessed  by  the  investigator  continues  to  be  higher  (79.5%  versus  71.1%)  in  the zanubrutinib arm compared with the ibrutinib arm (descriptive p = 0.0133); ORR determined by IRC was also significantly higher in the zanubrutinib arm compared with the ibrutinib arm, demonstrating superiority (80.4% versus 72.9%, respectively; 2-sided p = 0.0264).
+<div style=\"page-break-after: always\"></div>
 
 Table 8: Efficacy results in the ALPINE study (Pre-specified Interim Analysis of the First 415 randomized Patients) by Investigator (protocol defined primary endpoint) and IRC Assessment
 
-|                                                              | Investigator Assessed (protocol-define primary endpoint)   | Investigator Assessed (protocol-define primary endpoint)   | IRC Assessed            | IRC Assessed            |
-|--------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|-------------------------|-------------------------|
-| Endpoint                                                     | Zanubrutinib (N=207)                                       | Ibrutinib (N=208)                                          | Zanubrutinib (N=207)    | Ibrutinib (N=208)       |
-| Overall Response Rate § n (%) (95% CI)                       | 162 (78.3) (72.0, 83.7)                                    | 130 (62.5) (55.5, 69.1)                                    | 158 (76.3) (69.9, 81.9) | 134 (64.4) (57.5, 70.9) |
-| Response ratio a (95% CI)                                    | 1.25 (1.10, 1.41)                                          | 1.25 (1.10, 1.41)                                          | 1.17 (1.04, 1.33)       | 1.17 (1.04, 1.33)       |
-| Non-inferiority b                                            | 1-sided p-value <0.0001                                    | 1-sided p-value <0.0001                                    | 1-sided p-value <0.0001 | 1-sided p-value <0.0001 |
-| Superiority c                                                | 2-sided p-value 0.0006                                     | 2-sided p-value 0.0006                                     | 2-sided p-value 0.0121  | 2-sided p-value 0.0121  |
-| Duration of Response d : 12-months event-free rate %(95% CI) | 89.8 (78.1, 95.4)                                          | 77.9 (64.7, 86.7)                                          | 90.3 (82.3, 94.8)       | 78.0 (66.1, 86.2)       |
+| Endpoint                                                      | Investigator Assessed (protocol-define primary endpoint) - Zanubrutinib (N=207)   | Investigator Assessed (protocol-define primary endpoint) - Ibrutinib (N=208)   | IRC Assessed - Zanubrutinib (N=207)   | IRC Assessed - Ibrutinib (N=208)   |
+|---------------------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------|------------------------------------|
+| Overall Response Rate § n (%) (95% CI)                        | 162 (78.3) (72.0, 83.7)                                                           | 130 (62.5) (55.5, 69.1)                                                        | 158 (76.3) (69.9, 81.9)               | 134 (64.4) (57.5, 70.9)            |
+| Response ratio a (95% CI)                                     | 1.25 (1.10, 1.41)                                                                 | 1.25 (1.10, 1.41)                                                              | 1.17 (1.04, 1.33)                     | 1.17 (1.04, 1.33)                  |
+| Non-inferiority b                                             | 1-sided p-value <0.0001                                                           | 1-sided p-value <0.0001                                                        | 1-sided p-value <0.0001               | 1-sided p-value <0.0001            |
+| Superiority c                                                 | 2-sided p-value 0.0006                                                            | 2-sided p-value 0.0006                                                         | 2-sided p-value 0.0121                | 2-sided p-value 0.0121             |
+| Duration of Response d : 12-months event-free rate % (95% CI) | 89.8 (78.1, 95.4)                                                                 | 77.9 (64.7, 86.7)                                                              | 90.3 (82.3, 94.8)                     | 78.0 (66.1, 86.2)                  |
 
 Overall Response Rate : CR + CRi + nPR + PR, CR: complete response, CRi: complete response with incomplete haematopoietic recovery, nPR: nodular partial response, PR: partial response, CI: confidence interval Median duration of response as assessed by investigator was not reached in the zanubrutinib arm at interim analysis, median study follow-up time was 15.31 months (range: 0.1, 23.1) in zanubrutinib arm and 15.43 months (range: 0.1, 26.0) in ibrutinib arm.
 
@@ -619,35 +584,26 @@ a Response ratio: estimated ratio of the overall response rate in the zanubrutin
 
 b Stratified test against a null response ratio of 0.8558.
 
-c   Stratified Cochran-Mantel-Haenszel test.
+c Stratified Cochran-Mantel-Haenszel test.
 
-d   Kaplan-Meier estimate.
+d Kaplan-Meier estimate.
 
 The median time to response as assessed by the investigator at the ORR interim analysis in first 415 randomised patients was 5.59 months (range: 2.7, 14.1) in zanubrutinib arm and 5.65 months (range: 2.8, 16.7) in ibrutinib arm. The results assessed by IRC were consistent (5.55 months vs. 5.63 months in zanubrutinib and ibrutinib arms respectively). At the ORR final analysis in all 652 randomised patients, the median time to response remained unchanged (5.59 months vs. 5.65 months as assessed by investigator and 5.52 months vs. 5.62 months as assessed by IRC in zanubrutinib and ibrutinib arms respectively).
 
-In patients with del(17p) mutation in the first 415 randomized patients, the ORR assessed by investigator were 83.3% (95% CI 62.5, 95.3; 20 of 24 patients) in the zanubrutinib arm and 53.8% (95% CI 33.4, 73.4; 14 of 26 patients) in the ibrutinib arm. Based on IRC assessment, the ORR were 79.2% (95% CI 57.8, 92.9; 19 of 24 patients) in the zanubrutinib arm and 61.5% (95% CI 40.6, 79.8; 16 of 26 patients) in the ibrutinib arm. At the ORR final analysis in all 652 randomized patients, the ORR assessed by investigator were 86.7% (95% CI 73.2, 94.9; 39 of 45 patients with del(17p) mutation) in the zanubrutinib arm and 56.0% (95% CI 41.3, 70.0; 28 of 50 patients with del(17p) mutation) in the ibrutinib arm. Based on IRC assessment, the ORR were 86.7% (95% CI 73.2, 94.9;
+In patients with del(17p) mutation in the first 415 randomized patients, the ORR assessed by investigator were 83.3% (95% CI 62.5, 95.3; 20 of 24 patients) in the zanubrutinib arm and 53.8% (95% CI 33.4, 73.4; 14 of 26 patients) in the ibrutinib arm. Based on IRC assessment, the ORR were 79.2% (95% CI 57.8, 92.9; 19 of 24 patients) in the zanubrutinib arm and 61.5% (95% CI 40.6, 79.8; 16 of 26 patients) in the ibrutinib arm. At the ORR final analysis in all 652 randomized patients, the ORR assessed by investigator were 86.7% (95% CI 73.2, 94.9; 39 of 45 patients with del(17p) mutation) in the zanubrutinib arm and 56.0% (95% CI 41.3, 70.0; 28 of 50 patients with del(17p) mutation) in the ibrutinib arm. Based on IRC assessment, the ORR were 86.7% (95% CI 73.2, 94.9; 39 of 45 patients with del(17p) mutation) in the zanubrutinib arm and 64.0% (95% CI 49.2, 77.1; 32 of 50 patients with del(17p) mutation) in the ibrutinib arm.
 
 <div style=\"page-break-after: always\"></div>
-
-39 of 45 patients with del(17p) mutation) in the zanubrutinib arm and 64.0% (95% CI 49.2, 77.1; 32 of 50 patients with del(17p) mutation) in the ibrutinib arm.
 
 A total of 652 patients were enrolled at the prespecified time of final PFS analysis (cut-off date 8 August 2022). The median PFS follow-up time was 28.1 months as assessed by investigator and 30.7 months as assessed by IRC Zanubrutinib showed superiority in PFS over ibrutinib as assessed by both investigator and IRC. The efficacy results for PFS are presented in Table 9, and a Kaplan Meier Plot as assessed by IRC is provided in Figure 2.
 
 Table 9: Efficacy results in the ALPINE study (prespecified final PFS analysis of all 652 randomized patients) by Investigator and IRC assessment (cut-off date 8 August 2022)
 
-|                           | Investigator Assessed   | Investigator Assessed   | Independently Assessed*   | Independently Assessed*   |
-|---------------------------|-------------------------|-------------------------|---------------------------|---------------------------|
-| Endpoint                  | Zanubrutinib (N=327)    | Ibrutinib (N=325)       | Zanubrutinib (N=327)      | Ibrutinib (N=325)         |
-| Progression-Free Survival |                         |                         |                           |                           |
-| Events, n (%)             | 87 (26.6)               | 118 (36.3)              | 88 (26.9)                 | 120 (36.9)                |
-| Hazard Ratio a (95% CI)   | 0.65 (0.49, 0.86)       | 0.65 (0.49, 0.86)       | 0.65 (0.49, 0.86)         | 0.65 (0.49, 0.86)         |
-| 2-sided p-value b         | 0.0024                  | 0.0024                  | 0.0024                    | 0.0024                    |
-
-*  By independent central review committee.
-
-a Based on a stratified Cox-regression model with ibrutinib as the reference group.
-
-b Based on a stratified log-rank test.
+| Endpoint                  | Investigator Assessed - Zanubrutinib (N=327)   | Investigator Assessed - Ibrutinib (N=325)   | Independently Assessed* - Zanubrutinib (N=327)   | Independently Assessed* - Ibrutinib (N=325)   |
+|---------------------------|------------------------------------------------|---------------------------------------------|--------------------------------------------------|-----------------------------------------------|
+| Progression-Free Survival |                                                |                                             |                                                  |                                               |
+| Events, n (%)             | 87 (26.6)                                      | 118 (36.3)                                  | 88 (26.9)                                        | 120 (36.9)                                    |
+| Hazard Ratio a (95% CI)   | 0.65 (0.49, 0.86)                              | 0.65 (0.49, 0.86)                           | 0.65 (0.49, 0.86)                                | 0.65 (0.49, 0.86)                             |
+| 2-sided p-value b         | 0.0024                                         | 0.0024                                      | 0.0024                                           | 0.0024                                        |
 
 Figure 2: Kaplan-Meier Plot of Progression-Free Survival by Independent Central Review (ITT)(cut-off date 8 August 2022)
 
@@ -663,11 +619,11 @@ Figure 3: Kaplan-Meier Plot of Progression-Free Survival by Independent Central 
 
 With an estimated median follow-up of 32.8 months, the median overall survival was not reached in either arm with 17% of patients experiencing an event.
 
-## Patients with Follicular Lymphoma (FL)
+Patients with Follicular Lymphoma (FL)
 
 The efficacy of zanubrutinib in combination with obinutuzumab versus obinutuzumab was assessed in the ROSEWOOD study (BGB-3111-212), a phase 2 randomized, open-label, multicentre study. Overall, 217 patients with relapsed (defined by disease progression after completion of the most recent therapy) or refractory (defined as failure to achieve CR or PR to most recent therapy), grade 13a follicular lymphoma (FL) who had previously received at least two prior systemic therapies including an anti-CD20 antibody and an appropriate alkylator-based combination therapy, were enrolled. Patients were randomized 2:1 to either zanubrutinib 160 mg orally twice daily until progressive disease or unacceptable toxicity, in combination with obinutuzumab 1 000 mg intravenously (arm A) or obinutuzumab alone (arm B). Obinutuzumab was given on Day 1, 8, and 15 of the first cycle, then at Day 1 of cycles 2-6. Each cycle was 28 days long. Patients received optional obinutuzumab maintenance, one infusion every other cycle, for a maximum of 20 doses.
 
-Patients randomized in obinutuzumab arm were allowed to crossover and to receive the combination of zanubrutinib plus obinutuzumab in case of progressive disease or absence of response (defined by stable disease as best response) after 12 cycles. Randomization was stratified by the number of prior lines of therapy ( 2 to 3 versus ˃3), rituximab -refractory status (yes versus no), and geographic region (China versus other countries/regions).
+Patients randomized in obinutuzumab arm were allowed to crossover and to receive the combination of zanubrutinib plus obinutuzumab in case of progressive disease or absence of response (defined by stable disease as best response) after 12 cycles. Randomization was stratified by the number of prior lines of therapy (2 to 3 versus ˃3), rituximab-refractory status (yes versus no), and geographic region (China versus other countries/regions).
 
 Baseline demographics and disease characteristics were generally balanced between the zanubrutinib combination arm and the obinutuzumab monotherapy arm in the 217 randomized patients. The median age was 64 years (range: 31 to 88), 49.8% were male, and 64.1% White. Most (97.2%) of the patients had a baseline ECOG performance status of 0 or 1.
 
@@ -675,7 +631,7 @@ At screening, most patients were Ann Arbor Stage III or IV (179 patients [82.5%]
 
 <div style=\"page-break-after: always\"></div>
 
-The median number of prior anticancer therapy was 3 lines (range: 2 to 11 lines). All 217 patients received &gt;2 prior lines of therapy that included rituximab therapy (as a monotherapy or in combination with chemotherapy), and 59 of the 217 patients (27.2%) received &gt;3 prior lines of therapy.  Of the 217 patients, 114 (52.5%) were refractory to rituximab (defined as failure to respond to, or progression during, any previous rituximab-containing regimen [monotherapy or combined with chemotherapy], or progression within 6 months of the last rituximab dose, in the induction or maintenance treatment settings). Twelve (5.5%) patients received prior obinutuzumab.
+The median number of prior anticancer therapy was 3 lines (range: 2 to 11 lines). All 217 patients received &gt;2 prior lines of therapy that included rituximab therapy (as a monotherapy or in combination with chemotherapy), and 59 of the 217 patients (27.2%) received &gt;3 prior lines of therapy. Of the 217 patients, 114 (52.5%) were refractory to rituximab (defined as failure to respond to, or progression during, any previous rituximab-containing regimen [monotherapy or combined with chemotherapy], or progression within 6 months of the last rituximab dose, in the induction or maintenance treatment settings). Twelve (5.5%) patients received prior obinutuzumab.
 
 Of 217 patients total, 145 were randomized to the zanubrutinib combination arm and 72 were randomized to the obinutuzumab monotherapy arm. The median follow-up time is shown in Table 10. Median duration of zanubrutinib exposure was 12.4 months at data cutoff date 31 December 2024.
 
@@ -700,29 +656,33 @@ Table 10: Efficacy results Per Independent Central Review (ITT) (ROSEWOOD study)
 
 Overall Response Rate: CR + PR, CR: complete response, PR: partial response
 
-a  Estimated using the Clopper-Pearson method.
+a Estimated using the Clopper-Pearson method.
 
-b  Cochran-Mantel-Haenszel method stratified by rituximab-refractory status, number of prior lines of therapy, and geographic region per IRT.
+b Cochran-Mantel-Haenszel method stratified by rituximab-refractory status, number of prior lines of therapy, and geographic region per IRT.
 
-c  Medians estimated by Kaplan-Meier method; 95% CIs estimated by Brookmeyer and Crowley method.
+c Medians estimated by Kaplan-Meier method; 95% CIs estimated by Brookmeyer and Crowley method.
 
-d  DOR rates estimated by Kaplan-Meier method; 95% CIs estimated using the Greenwood's formula. DOR was not type I error controlled and the CIs are nominal in nature.
-
-Figure 4: Kaplan-Meier Plot of Progression-Free Survival by Independent Central Review (ITT)
+d DOR rates estimated by Kaplan-Meier method; 95% CIs estimated using the Greenwood's formula. DOR was not type I error controlled and the CIs are nominal in nature.
 
 <div style=\"page-break-after: always\"></div>
 
+Figure 4: Kaplan-Meier Plot of Progression-Free Survival by Independent Central Review (ITT)
+
 <!-- image -->
 
-## NumberofPatientsAtRisk:
+## Number of Patients At Risk:
 
-ArmA1451351179593807068655955545150444342393434282724171713873111110 ArmB 72614135312719171614131211119876665543310
+Arm A 14513511795 93 807068655955 54 5150 44 4342 3934 34 2827 2417 17138 7 3 1 1 1 1 1 0
+
+Arm B
+
+72 61 41 35 31 27 19 17 1614 13 12 11 11 9 8 7 6 66 5 5 4 3 3 1 0
 
 Arm A, Zanubrutinib + Obinutuzumab; Arm B, Obinutuzumab
 
 ## Overall Survival
 
-As of 31 December 2024, 51 patients (35.2%) in the combination arm and 33 patients (45.8%) in the obinutuzumab monotherapy arm died. At 18 months, overall survival rates were  84.1% (95% CI: 76.6, 89.3) in the combination arm and 71.5% (95% CI: 59.0, 80.8) in the obinutuzumab monotherapy arm. OS analysis may be confounded by 36 patients (50.0%) who crossed over from obinutuzumab monotherapy arm to combination arm.
+As of 31 December 2024, 51 patients (35.2%) in the combination arm and 33 patients (45.8%) in the obinutuzumab monotherapy arm died. At 18 months, overall survival rates were 84.1% (95% CI: 76.6, 89.3) in the combination arm and 71.5% (95% CI: 59.0, 80.8) in the obinutuzumab monotherapy arm. OS analysis may be confounded by 36 patients (50.0%) who crossed over from obinutuzumab monotherapy arm to combination arm.
 
 ## Paediatric population
 
@@ -732,9 +692,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Zanubrutinib maximum plasma concentration (Cmax) and area under the plasma drug concentration over time curve (AUC) increase proportionally over a dose range from 40 mg to 320 mg (0.13 to 1 time the recommended total daily dose). Limited systemic accumulation of zanubrutinib was observed following repeated administration for one week.
 
-The geometric mean (%CV) zanubrutinib steady-state daily AUC is 2 099 (42%) ng h/mL following 160 mg twice daily and 1 917 (59%) ng h/mL following 320 mg once daily. The geometric mean (%CV) zanubrutinib steady-state Cmax is 299 (56%) ng/mL following 160 mg twice daily and 533 (55%) ng/mL following 320 mg once daily.
-
 <div style=\"page-break-after: always\"></div>
+
+The geometric mean (%CV) zanubrutinib steady-state daily AUC is 2 099 (42%) ng h/mL following 160 mg twice daily and 1 917 (59%) ng h/mL following 320 mg once daily. The geometric mean (%CV) zanubrutinib steady-state Cmax is 299 (56%) ng/mL following 160 mg twice daily and 533 (55%) ng/mL following 320 mg once daily.
 
 ## Absorption
 
@@ -756,7 +716,9 @@ The mean half-life (t½) of zanubrutinib is approximately 2 to 4 hours following
 
 ## Elderly
 
-Age (19 to 90 years; mean age 65±12.5) had no clinically meaningful effect on zanubrutinib pharmacokinetics based on population PK analysis (N=1291). Gender
+Age (19 to 90 years; mean age 65±12.5) had no clinically meaningful effect on zanubrutinib pharmacokinetics based on population PK analysis (N=1291).
+
+## Gender
 
 Gender (872 males and 419 females) had no clinically meaningful effect on zanubrutinib pharmacokinetics based on population PK analysis.
 
@@ -772,9 +734,9 @@ Body weight (36 to 149 kg, mean weight 76.5±16.9 kg) had no clinically meaningf
 
 Zanubrutinib undergoes minimal renal elimination. Based on population PK analysis, mild and moderate renal impairment (CrCl ≥30 mL/min as estimated by Cockcroft-Gault equation) had no influence on the exposure of zanubrutinib. The analysis was based on 362 patients with normal renal function, 523 with mild renal impairment, 303 with moderate renal impairment, 11 with severe renal impairment, and one with ESRD. The effects of severe renal impairment (CrCl &lt;30 mL/min) and dialysis on zanubrutinib pharmacokinetics is unknown.
 
-## Hepatic impairment
-
 <div style=\"page-break-after: always\"></div>
+
+## Hepatic impairment
 
 The total AUC of zanubrutinib increased by 11% in subjects with mild hepatic impairment (ChildPugh class A), by 21% in subjects with moderate hepatic impairment (Child-Pugh class B), and by 60% in subjects with severe hepatic impairment (Child-Pugh class C) relative to subjects with normal liver function. The unbound AUC of zanubrutinib increased by 23% in subjects with mild hepatic impairment (Child-Pugh class A), by 43% in subjects with moderate hepatic impairment (Child-Pugh class B), and by 194% in subjects with severe hepatic impairment (Child-Pugh class C) relative to subjects with normal liver function. A significant correlation was observed between the Child-Pugh score, baseline serum albumin, baseline serum bilirubin and baseline prothrombin time with unbound zanubrutinib AUC.
 
@@ -790,9 +752,9 @@ Zanubrutinib is likely to be a substrate of P-gp. Zanubrutinib is not a substrat
 
 ## Pharmacodynamic interactions
 
-An i n vitro study showed that the potential pharmacodynamic interaction between zanubrutinib and rituximab is low and zanubrutinib is unlikely to interfere with the anti-CD20 antibody-induced antibody-dependent cellular cytotoxicity (ADCC) effect.
+An in vitro study showed that the potential pharmacodynamic interaction between zanubrutinib and rituximab is low and zanubrutinib is unlikely to interfere with the anti-CD20 antibody-induced antibody-dependent cellular cytotoxicity (ADCC) effect.
 
-In vitro , ex vivo , and animal studies showed that zanubrutinib had no or minimal effects on platelet activation, glycoprotein expression, and thrombus formation.
+In vitro, ex vivo, and animal studies showed that zanubrutinib had no or minimal effects on platelet activation, glycoprotein expression, and thrombus formation.
 
 ## 5.3 Preclinical safety data
 
@@ -804,9 +766,9 @@ In rat repeat dose studies up to 6-month treatment, test article related mortali
 
 In dog repeat dose studies up to 9-month treatment, test article related findings were mainly noted in the gastrointestinal tract (soft/watery/mucoid stool), skin (rash, red discoloration, and thickened/ scaling), and in the mesenteric, mandibular, and gut associated lymph nodes and spleen (lymphoid depletion or erythrophagocytosis) at the doses from 10 mg/kg/day (3x clinical AUC) to 100 mg/kg/day (18x clinical AUC). All these findings were fully or partially reversed after a 6-week recovery.
 
-## Carcinogenicity/genotoxicity
-
 <div style=\"page-break-after: always\"></div>
+
+## Carcinogenicity/genotoxicity
 
 Carcinogenicity studies have not been conducted with zanubrutinib.
 
@@ -830,23 +792,23 @@ In a pre- and post-natal developmental toxicity study, zanubrutinib was administ
 
 Microcrystalline cellulose Croscarmellose sodium Sodium lauryl sulfate (E487) Silica, colloidal anhydrous Magnesium stearate
 
-Capsule shell
+## Capsule shell
 
 Gelatin Titanium dioxide (E171)
 
-Printing ink
-
-Shellac glaze (E904) Iron oxide black (E172) Propylene glycol (E1520)
-
-## 6.2 Incompatibilities
+## Printing ink
 
 <div style=\"page-break-after: always\"></div>
 
+Shellac glaze (E904) Iron oxide black (E172)
+
+Propylene glycol (E1520)
+
+## 6.2 Incompatibilities
+
 Not applicable.
 
-## 6.3
-
-Shelf life
+## 6.3 Shelf life
 
 3 years.
 
@@ -864,7 +826,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-BeOne Medicines Ireland Limited. 10 Earlsfort Terrace Dublin 2 D02 T380 Ireland Tel. +353 1 566 7660 E-mail   beone.ireland@beonemed.com
+BeOne Medicines Ireland Limited. 10 Earlsfort Terrace Dublin 2 D02 T380 Ireland Tel. +353 1 566 7660 E-mail beone.ireland@beonemed.com
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -900,7 +862,7 @@ Each 160 mg film-coated tablet contains 312.2 mg of lactose monohydrate.
 
 Film-coated tablet (tablet).
 
-Oval, blue, film-coated tablets of 16 mm in length and 7.8 mm of width, with letters 'zanu' debossed on one side and a score line in the middle on the other side. The tablet can be divided into two equal halves.
+Oval, blue, film-coated tablets of 16 mm in length and 7.8 mm of width, with letters \"zanu\" debossed on one side and a score line in the middle on the other side. The tablet can be divided into two equal halves.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -926,7 +888,7 @@ The recommended total daily dose of zanubrutinib is 320 mg. The daily dose may b
 
 ## BRUKINSA in combination with obinutuzumab
 
-Zanubrutinib must be administered  before obinutuzumab infusion.  The recommended dose is obinutuzumab 1 000 mg intravenously on Days 1, 8, and 15 of Cycle 1, and on Day 1 of every 28-day cycle from Cycles 2 to 6. At the discretion of the physician, obinutuzumab may be administered 100 mg on Day 1 and 900 mg on Day 2 of Cycle 1 instead of 1 000 mg on Day 1 of Cycle 1. Obinutuzumab maintenance (one infusion every two months for up to two years) may be prescribed. Refer to the obinutuzumab SmPC for additional dosing information, including premedication before each infusion.
+Zanubrutinib must be administered before obinutuzumab infusion. The recommended dose is obinutuzumab 1 000 mg intravenously on Days 1, 8, and 15 of Cycle 1, and on Day 1 of every 28-day cycle from Cycles 2 to 6. At the discretion of the physician, obinutuzumab may be administered 100 mg on Day 1 and 900 mg on Day 2 of Cycle 1 instead of 1 000 mg on Day 1 of Cycle 1. Obinutuzumab maintenance (one infusion every two months for up to two years) may be prescribed. Refer to the obinutuzumab SmPC for additional dosing information, including premedication before each infusion.
 
 ## Dose modifications for adverse reactions
 
@@ -934,12 +896,12 @@ Recommended dose modifications of zanubrutinib for Grade 3 or greater adverse re
 
 Table 1: Recommended dose modifications for adverse reactions
 
-| Adverse reaction                                                                                                                                                          | Adverse reaction occurrence   | Dose modification (starting dose: 320 mg once daily or 160 mg twice daily)                                               |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| ≥ Grade 3 non-haematological toxicities ≥ Grade 3 febrile neutropenia Grade 3 thrombocytopenia with significant bleeding Grade 4 neutropenia (lasting > consecutive days) | First                         | Interrupt BRUKINSA Once toxicity has resolved to ≤Grade 1 or baseline: Resume at 320 mg once daily or 160 mg twice daily |
-| ≥ Grade 3 non-haematological toxicities ≥ Grade 3 febrile neutropenia Grade 3 thrombocytopenia with significant bleeding Grade 4 neutropenia (lasting > consecutive days) | Second                        | Interrupt BRUKINSA Once toxicity has resolved to ≤Grade 1 or baseline: Resume at 160 mg once daily or 80 mg twice daily  |
-| 10                                                                                                                                                                        | Third                         | Interrupt BRUKINSA Once toxicity has resolved to ≤Grade 1 or baseline: Resume at 80 mg once daily                        |
-| Grade 4 thrombocytopenia (lasting >10 consecutive days)                                                                                                                   | Fourth                        | Discontinue BRUKINSA                                                                                                     |
+| Adverse reaction                                                      | Adverse reaction occurrence   | Dose modification (starting dose: 320 mg once daily or 160 mg twice daily)                                               |
+|-----------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| ≥ Grade 3 non-haematological toxicities ≥ Grade 3 febrile neutropenia | First                         | Interrupt BRUKINSA Once toxicity has resolved to ≤Grade 1 or baseline: Resume at 320 mg once daily or 160 mg twice daily |
+| Grade 3 thrombocytopenia with significant bleeding                    | Second                        | Interrupt BRUKINSA Once toxicity has resolved to ≤Grade 1 or baseline: Resume at 160 mg once daily or 80 mg twice daily  |
+| Grade 4 neutropenia (lasting > 10 consecutive days)                   | Third                         | Interrupt BRUKINSA Once toxicity has resolved to ≤Grade 1 or baseline: Resume at 80 mg once daily                        |
+| Grade 4 thrombocytopenia (lasting >10 consecutive days)               | Fourth                        | Discontinue BRUKINSA                                                                                                     |
 
 Asymptomatic lymphocytosis should not be regarded as an adverse reaction, and these patients should continue taking BRUKINSA.
 
@@ -983,11 +945,9 @@ The safety and efficacy of BRUKINSA in children and adolescents below 18 years o
 
 ## Method of administration
 
-BRUKINSA is for oral use. The film-coated tablets can be taken with or without food. Patients should be instructed to swallow the tablets with water, not to chew or crush the tablets. The tablet can be
+BRUKINSA is for oral use. The film-coated tablets can be taken with or without food. Patients should be instructed to swallow the tablets with water, not to chew or crush the tablets. The tablet can be divided into two equal halves, in case a dose adjustment is needed (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-divided into two equal halves, in case a dose adjustment is needed (see section 4.2).
 
 ## 4.3 Contraindications
 
@@ -999,7 +959,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 Serious and fatal haemorrhagic events have occurred in patients treated with BRUKINSA. Grade 3 or higher bleeding events including intracranial and gastrointestinal haemorrhage, haematuria and haemothorax have been reported in patients (see section 4.8). Bleeding events of any grade including purpura and petechiae occurred in patients with haematological malignancies. The mechanism for the bleeding events is not well understood.
 
-BRUKINSA may increase the risk of haemorrhage in patients receiving antiplatelet or anticoagulant therapies and patients should be monitored for signs of bleeding. Dose modification may be necessary for Grade 3 or greater adverse reactions as recommended (see section 4.2). Warfarin or other vitamin K antagonists should not be administered concomitantly with BRUKINSA. Patients should be monitored for signs and symptoms of bleeding and monitor complete blood counts.  The risks and benefits of anticoagulant or antiplatelet therapy when co-administered with BRUKINSA should be considered.
+BRUKINSA may increase the risk of haemorrhage in patients receiving antiplatelet or anticoagulant therapies and patients should be monitored for signs of bleeding. Dose modification may be necessary for Grade 3 or greater adverse reactions as recommended (see section 4.2). Warfarin or other vitamin K antagonists should not be administered concomitantly with BRUKINSA. Patients should be monitored for signs and symptoms of bleeding and monitor complete blood counts. The risks and benefits of anticoagulant or antiplatelet therapy when co-administered with BRUKINSA should be considered.
 
 The benefit-risk of withholding zanubrutinib for 3 to 7 days pre- and post-surgery depending upon the type of surgery and the risk of bleeding should be considered.
 
@@ -1023,7 +983,9 @@ Atrial fibrillation and atrial flutter have occurred in patients treated with BR
 
 ## Tumour Lysis Syndrome
 
-Tumour  lysis  syndrome  has  been  uncommonly  reported  with  zanubrutinib  monotherapy  therapy, particularly in patients who were treated for chronic lymphocytic leukaemia (CLL) (see section 4.8). Relevant risks (e.g., high tumour burden or blood uric acid level) should be assessed and appropriate precautions should be taken. Patients should be closely monitored and treated as appropriate. Women of childbearing potential
+Tumour lysis syndrome has been uncommonly reported with zanubrutinib monotherapy therapy, particularly in patients who were treated for chronic lymphocytic leukaemia (CLL) (see section 4.8). Relevant risks (e.g., high tumour burden or blood uric acid level) should be assessed and appropriate precautions should be taken. Patients should be closely monitored and treated as appropriate.
+
+## Women of childbearing potential
 
 Women of childbearing potential must use a highly effective method of contraception while taking BRUKINSA (see section 4.6).
 
@@ -1037,7 +999,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that i
 
 Zanubrutinib is primarily metabolized by cytochrome P450 enzyme 3A (CYP3A).
 
-Agents that may increase zanubrutinib plasma concentrations
+## Agents that may increase zanubrutinib plasma concentrations
 
 Concomitant use of BRUKINSA and medicinal products that strongly or moderately inhibit CYP3A can increase zanubrutinib exposure.
 
@@ -1051,11 +1013,9 @@ If a strong CYP3A inhibitor must be used (e.g., voriconazole, ketoconazole, itra
 
 The coadministration of multiple doses of moderate CYP3A inhibitors fluconazole and diltiazem in patients with B-cell malignancies resulted in increased zanubrutinib exposures by 1.88-fold and 1.62fold for dose-normalized AUC0-24h and 1.81-fold and 1.62-fold for dose-normalized Cmax, respectively.
 
-If a moderate CYP3A inhibitor must be used (e.g., erythromycin, ciprofloxacin, diltiazem, dronedarone, fluconazole, verapamil, aprepitant, imatinib, grapefruit juice, Seville oranges), reduce the BRUKINSA dose to 160 mg (one tablet) for the duration of the inhibitor use. Patients should be
+If a moderate CYP3A inhibitor must be used (e.g., erythromycin, ciprofloxacin, diltiazem, dronedarone, fluconazole, verapamil, aprepitant, imatinib, grapefruit juice, Seville oranges), reduce the BRUKINSA dose to 160 mg (one tablet) for the duration of the inhibitor use. Patients should be closely monitored for toxicity and dose modification guidance should be followed as needed (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-closely monitored for toxicity and dose modification guidance should be followed as needed (see section 4.2).
 
 ## Mild CYP3A inhibitors
 
@@ -1067,7 +1027,7 @@ Concomitant use of zanubrutinib and strong or moderate inducers of CYP3A can dec
 
 ## CYP3A inducers
 
-Co-administration of multiple doses of rifampicin (strong CYP3A inducer) decreased zanubrutinib Cmax by 92% and AUC by 93% in healthy subjects.  Co-administration of multiple doses of rifabutin (moderate CYP3A inducer) decreased zanubrutinib Cmax by 48% and AUC by 44% in healthy subjects. Concomitant use of zanubrutinib and strong or moderate CYP3A inducers should be avoided (see section 4.2). Mild CYP3A inducers may be used with caution during BRUKINSA treatment.
+Co-administration of multiple doses of rifampicin (strong CYP3A inducer) decreased zanubrutinib Cmax by 92% and AUC by 93% in healthy subjects. Co-administration of multiple doses of rifabutin (moderate CYP3A inducer) decreased zanubrutinib Cmax by 48% and AUC by 44% in healthy subjects. Concomitant use of zanubrutinib and strong or moderate CYP3A inducers should be avoided (see section 4.2). Mild CYP3A inducers may be used with caution during BRUKINSA treatment.
 
 ## Gastric acid reducing agents
 
@@ -1121,9 +1081,9 @@ BRUKINSA has no or negligible influence on the ability to drive and use machines
 
 ## Zanubrutinib monotherapy
 
-The most commonly occurring adverse reactions (≥20%) of zanubrutinib monotherapy were upper respiratory tract infection § (36%), bruising § (32%), haemorrhage/haematoma §  (30%), neutropenia § ( 30%), musculoskeletal pain § (27%), rash § (25%), pneumonia § (24%),  diarrhoea (21%) and cough § (21%) (Table 3).
+The most commonly occurring adverse reactions (≥20%) of zanubrutinib monotherapy were upper respiratory tract infection § (36%), bruising § (32%), haemorrhage/haematoma § (30%), neutropenia § ( 30%), musculoskeletal pain § (27%), rash § (25%), pneumonia § (24%), diarrhoea (21%) and cough § (21%) (Table 3).
 
-The most common Grade 3 or higher adverse reactions (&gt;3%) of zanubrutinib monotherapy were neutropenia § (21%), pneumonia § (14%), hypertension § (8%), thrombocytopenia § (6%), anaemia (6%) and haemorrhage /haematoma §  (4%).
+The most common Grade 3 or higher adverse reactions (&gt;3%) of zanubrutinib monotherapy were neutropenia § (21%), pneumonia § (14%), hypertension § (8%), thrombocytopenia § (6%), anaemia (6%) and haemorrhage /haematoma § (4%).
 
 Of the 1550 patients treated with zanubrutinib, 4.8% of patients discontinued treatment due to adverse reactions. The most frequent adverse reaction leading to treatment discontinuation was pneumonia § (2.6%). Adverse reactions leading to dose reduction occurred in 5.0% of patients.
 
@@ -1131,9 +1091,9 @@ Of the 1550 patients treated with zanubrutinib, 4.8% of patients discontinued tr
 
 ## Zanubrutinib in combination with obinutuzumab
 
-The most commonly occurring adverse reactions (≥20%) of zanubrutinib in combination with obinutuzumab were thrombocytopenia §  (37%), neutropenia § (31%) and fatigue § (27%) (Table 4).
+The most commonly occurring adverse reactions (≥20%) of zanubrutinib in combination with obinutuzumab were thrombocytopenia § (37%), neutropenia § (31%) and fatigue § (27%) (Table 4).
 
-The most common Grade 3 or higher adverse reactions (&gt;3%) of zanubrutinib in combination with obinutuzumab were neutropenia § (25%), thrombocytopenia § (16%), pneumonia §  (15%) and anaemia (5%).
+The most common Grade 3 or higher adverse reactions (&gt;3%) of zanubrutinib in combination with obinutuzumab were neutropenia § (25%), thrombocytopenia § (16%), pneumonia § (15%) and anaemia (5%).
 
 Of the 143 patients treated with zanubrutinib in combination with obinutuzumab, 4.9% of patients discontinued treatment due to adverse reactions. The most frequent adverse reaction leading to treatment discontinuation was pneumonia § (4.2%). Adverse reactions leading to dose reduction occurred in 7.0% of patients.
 
@@ -1143,7 +1103,7 @@ Platelet count decreased † (based on laboratory values) was observed in 65% (a
 
 The safety profile of zanubrutinib monotherapy is based on pooled data from 1 550 patients with Bcell malignancies, including patients with chronic lymphocytic leukaemia (N = 938), Waldenström macroglobulinemia (N = 249), mantle cell lymphoma (N = 140), marginal zone lymphoma (N = 93), follicular lymphoma (N = 59) and other types of B-cell malignancies (N = 71), treated with BRUKINSA in clinical studies with a median duration of exposure of 34.41 months.
 
-The safety profile of zanubrutinib in combination with obinutuzumab is based on ROSEWOOD study data from 143 patients with FL treated with BRUKINSA in combination with obinutuzumab in two clinical studies with a median duration of exposure of 12.35 months.
+The safety profile of zanubrutinib in combination with obinutuzumab is based on ROSEWOOD study data from 143 patients with FL treated with BRUKINSA in combination with obinutuzumab with a median duration of exposure of 12.35 months.
 
 Adverse reactions in patients treated with BRUKINSA as monotherapy or in combination with obinutuzumab for B-cell malignancies are listed in Table 3 and Table 4, respectively, by system organ class and frequency grouping. Frequencies are defined as follows: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
@@ -1182,95 +1142,80 @@ Table 3: Adverse reactions of zanubrutinib monotherapy reported in clinical stud
 | Respiratory, thoracic and mediastinal disorders      | Cough §                            | Very Common (21)   | <1      |
 | Gastrointestinal disorders                           | Diarrhoea                          | Very Common (21)   | 2       |
 | Gastrointestinal disorders                           | Constipation                       | Very Common (14)   | <1      |
+| Gastrointestinal disorders                           | Nausea                             | Very common (12)   | <1      |
 | Skin and subcutaneous tissue disorders               | Rash §                             | Very Common (25)   | <1      |
-| Skin and subcutaneous tissue disorders               | Pruritus                           | Common (8)         | <1      |
-| Skin and subcutaneous tissue disorders               | Dermatitis exfoliative generalized | Unknown            | Unknown |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal pain §             | Very Common (27)   | 2       |
+|                                                      | Pruritus                           | Common (8)         | <1      |
+|                                                      | Dermatitis exfoliative generalized | Unknown            | Unknown |
+|                                                      | Musculoskeletal pain §             | Very Common (27)   | 2       |
 | Musculoskeletal and connective tissue disorders      | Arthralgia                         | Very Common (15)   | <1      |
 | Musculoskeletal and connective tissue disorders      | Back pain                          | Very common (12)   | <1      |
 | General disorders and administration site conditions | Fatigue §                          | Very common (18)   | 1       |
-| General disorders and administration site conditions | Fatigue                            | Very common (14)   | 1       |
-| General disorders and administration site conditions | Asthenia                           | Common (4)         | <1      |
-| General disorders and administration site conditions | Oedema peripheral                  | Common (9)         | <1      |
-| Investigations †                                     | Neutrophil count decreased † ±     | Very common (52)   | 22      |
-| Investigations †                                     | Platelets decreased † ±            | Very common (39)   | 8       |
-| Investigations †                                     | Haemoglobin decreased † ±          | Very common (26)   | 4       |
-
-*  Grades were evaluated based on the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-
-
-CTCAE) version 4.03.
-
-†  Based on laboratory measurements.
-
-±  Percentages are based on number of patients with both baseline and at least one postbaseline assessment available.
-
-§ Includes multiple adverse reaction terms
-
-# Includes events with fatal outcome.
+|                                                      | Fatigue                            | Very common (14)   | 1       |
+|                                                      | Asthenia                           | Common (4)         | <1      |
+|                                                      | Oedema peripheral                  | Common (9)         | <1      |
+| †                                                    | Neutrophil count decreased †±      | Very common (52)   | 22      |
+| †                                                    | Platelets decreased †±             | Very common (39)   | 8       |
+| †                                                    | Haemoglobin decreased †±           | Very common (26)   | 4       |
 
 <div style=\"page-break-after: always\"></div>
 
 Table 4: Adverse reactions of zanubrutinib in combination with obinutuzumab reported in clinical study BGB-3111-212 in patients with follicular lymphoma (n=143)
 
-| MedDRA SOC                                           | MedDRA Terms                        |                  |              |
-|------------------------------------------------------|-------------------------------------|------------------|--------------|
-| MedDRA SOC                                           | MedDRA Terms                        | All grades* (%)  | Grade ≥3 (%) |
-| Infections and infestations                          | Upper respiratory tract infection § | Very common (14) | <1           |
-| Infections and infestations                          | Pneumonia §#                        | Very common (20) | 15           |
-| Infections and infestations                          | Pneumonia                           | Very common (13) | 11           |
-| Infections and infestations                          | Lower respiratory tract infection   | Common (4)       | <1           |
-| Infections and infestations                          | Urinary tract infection§            | Common (10)      | 2            |
-| Infections and infestations                          | Bronchitis                          | Common (2)       | 0            |
-| Blood and lymphatic system disorders                 | Thrombocytopenia §                  | Very common (37) | 16           |
-| Blood and lymphatic system disorders                 | Neutropenia§                        | Very common (31) | 25           |
-| Blood and lymphatic system disorders                 | Anaemia§                            | Very common (12) | 5            |
-| Nervous system disorder                              | Dizziness §                         | Common (4)       | 0            |
-| Cardiac disorders                                    | Atrial fibrillation and flutter §   | Common (3)       | 1            |
-| Vascular disorders                                   | Haemorrhage/hematoma §              | Very common (16) | <1           |
-| Vascular disorders                                   | Epistaxis                           | Common (5)       | 0            |
-| Vascular disorders                                   | Hematuria                           | Common (<1)      | 0            |
-| Vascular disorders                                   | Bruising §                          | Very common (15) | 0            |
-| Vascular disorders                                   | Contusion                           | Very common (8)  | 0            |
-| Vascular disorders                                   | Petechiae                           | Common (6)       | 0            |
-| Vascular disorders                                   | Purpura                             | Common (2)       | 0            |
-| Vascular disorders                                   | Ecchymosis                          | Common (1)       | 0            |
-| Vascular disorders                                   | Hypertension §                      | Common (4)       | <1           |
-| Respiratory, thoracic and mediastinal disorders      | Cough §                             | Very common (13) | 0            |
-| Gastrointestinal disorders                           | Diarrhoea                           | Very common (19) | 3            |
-|                                                      | Constipation                        | Very common (13) | 0            |
-| Skin and subcutaneous                                | Rash §                              | Very common (10) | 0            |
-| Skin and subcutaneous                                | Pruritus                            | Common (7)       | 0            |
-| tissue disorders                                     | Dermatitis exfoliative generalized  | Unknown          | Unknown      |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal Pain §              | Very common (18) | 2            |
-| Musculoskeletal and connective tissue disorders      | Back pain                           | Very common (11) | <1           |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                          | Common (4)       | 0            |
-| General disorders and administration site conditions | Fatigue §                           | Very common (27) | 1            |
-| General disorders and administration site conditions | Fatigue                             | Very common (15) | 0            |
-| General disorders and administration site conditions | Asthenia                            | Common (12)      | <1           |
-| General disorders and administration site conditions | Oedema peripheral                   | Common (2)       | 0            |
-| Investigations † ±                                   | Platelets decreased † ±             | Very common (65) | 12           |
-| Investigations † ±                                   | Neutrophil count decreased † ±      | Very common (48) | 18           |
-|                                                      | Haemoglobin decreased † ±           | Very common (31) | <1           |
-
-* Adverse events were graded by National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-
-
-CTCAE version 5.0.)
-
-†   Based on laboratory measurements.
-
-§ Includes multiple adverse reaction terms.
+| MedDRA SOC                                                     | MedDRA Terms                        | All grades* (%)             | Grade ≥3 (%)   |
+|----------------------------------------------------------------|-------------------------------------|-----------------------------|----------------|
+| Infections and infestations                                    | Upper respiratory tract infection § | Very common (14)            | <1             |
+| Infections and infestations                                    | Pneumonia §#                        | Very common (20)            | 15             |
+| Infections and infestations                                    | Pneumonia                           | Very common (13)            | 11             |
+| Infections and infestations                                    | Lower respiratory tract infection   | Common (4)                  | <1             |
+| Infections and infestations                                    | Urinary tract infection§            | Common (10)                 | 2              |
+| Infections and infestations                                    | Bronchitis                          | Common (2)                  | 0              |
+| Blood and lymphatic system disorders                           | Thrombocytopenia §                  | Very common (37)            | 16             |
+| Blood and lymphatic system disorders                           | Neutropenia§                        | Very common (31)            | 25             |
+| Blood and lymphatic system disorders                           | Anaemia§                            | Very common (12)            | 5              |
+| Nervous system disorder                                        | Dizziness §                         | Common (4)                  | 0              |
+| Cardiac disorders                                              | Atrial fibrillation and flutter §   | Common (3)                  | 1              |
+| Vascular disorders                                             | Haemorrhage/hematoma §              | Very common (16)            | <1             |
+|                                                                | Epistaxis                           | Common (5)                  | 0              |
+|                                                                | Hematuria                           | Common (<1)                 | 0              |
+|                                                                | Bruising §                          | Very common (15)            | 0              |
+|                                                                | Contusion                           | Very common (8)             | 0              |
+|                                                                | Petechiae                           | Common (6)                  | 0              |
+|                                                                | Purpura                             | Common (2)                  | 0              |
+|                                                                | Ecchymosis                          | Common (1)                  | 0              |
+|                                                                | Hypertension §                      | Common (4)                  | <1             |
+| Respiratory, thoracic and mediastinal disorders                | Cough §                             | Very common (13)            | 0              |
+| Gastrointestinal disorders                                     | Diarrhoea                           | Very common (19)            | 3              |
+| Gastrointestinal disorders                                     | Constipation                        | Very common (13)            | 0              |
+| Gastrointestinal disorders                                     | Nausea                              | Common (9)                  | 0              |
+| Skin and subcutaneous                                          | Rash §                              | Very common (10)            | 0              |
+| Skin and subcutaneous                                          | Pruritus                            | Common (7)                  | 0              |
+| tissue disorders                                               | Dermatitis exfoliative generalized  | Unknown                     | Unknown        |
+| Musculoskeletal and connective tissue                          | Musculoskeletal Pain §              | Very common (18)            | 2              |
+| Musculoskeletal and connective tissue                          | Back pain                           | Very common (11)            | <1             |
+| disorders General disorders and administration site conditions | Arthralgia Fatigue §                | Common (4) Very common (27) | 0 1            |
+|                                                                | Fatigue                             | Very common (15)            | 0              |
+|                                                                | Asthenia                            | Common (12)                 | <1             |
+| Investigations †±                                              | Oedema peripheral                   | Common (2)                  | 0              |
+| Investigations †±                                              | †±                                  |                             |                |
+|                                                                | Platelets decreased                 | Very common (65)            | 12             |
+|                                                                | Neutrophil count decreased †±       | Very common (48)            | 18             |
+|                                                                | Haemoglobin decreased †±            | Very common (31)            | <1             |
 
 <div style=\"page-break-after: always\"></div>
 
+† Based on laboratory measurements.
+
+§ Includes multiple adverse reaction terms.
+
 # Includes events with fatal outcome.
 
-±  Percentages are based on number of patients with both baseline and at least one postbaseline assessment available.
+± Percentages are based on number of patients with both baseline and at least one postbaseline assessment available.
 
 ## Other special population
 
 ## Elderly
 
-Of the 1 550 patients treated with BRUKINSA monotherapy, 61.3% were 65 years of age or older. The incidence of Grade 3 or higher adverse events was slightly higher among elderly patients treated with zanubrutinib (69.6% of patients age ≥65 versus 62.7% of patients &lt;65 years of age). No clinically relevant differences in safety were observed between patients ≥ 65 years and younger.
+Of the 1 550 patients treated with BRUKINSA monotherapy, 61.3% were 65 years of age or older. The incidence of Grade 3 or higher adverse events was slightly higher among elderly patients treated with zanubrutinib (69.6% of patients age ≥65 versus 62.7% of patients &lt;65 years of age). No clinically relevant differences in safety were observed between patients ≥65 years and younger.
 
 Of the 143 patients treated with BRUKINSA in combination with obinutuzumab, 42.0% were 65 years of age or older. The incidence of Grade 3 or higher adverse events was slightly higher among elderly patients treated with zanubrutinib in combination with obinutuzumab (70.0% of patients age ≥65 versus 62.7% of patients &lt;65 years of age). No clinically relevant differences in safety were observed between patients ≥65 years and younger.
 
@@ -1298,9 +1243,9 @@ Zanubrutinib is an inhibitor of Bruton's tyrosine kinase (BTK). Zanubrutinib for
 
 The median steady-state BTK occupancy in peripheral blood mononuclear cells was maintained at 100% over 24 hours at a total daily dose of 320 mg in patients with B-cell malignancies. The median steady-state BTK occupancy in lymph nodes was 94% to 100% following the recommended dose.
 
-## Effect on QT/QTc interval and cardiac electrophysiology
-
 <div style=\"page-break-after: always\"></div>
+
+## Effect on QT/QTc interval and cardiac electrophysiology
 
 At the recommended doses (320 mg once daily or 160 mg twice daily), there were no clinically relevant effects on the QTc interval. At a single dose 1.5 times the maximum recommended dose (480 mg), zanubrutinib did not prolong the QT interval to any clinically relevant extent (i.e., ≥10 msec).
 
@@ -1308,79 +1253,81 @@ At the recommended doses (320 mg once daily or 160 mg twice daily), there were n
 
 ## Patients with Waldenström Macroglobulinemia (WM)
 
-The safety and efficacy of BRUKINSA in WM were evaluated in a randomized, open-label, multicentre study comparing zanubrutinib and ibrutinib (ASPEN study, BGB-3111-302) in patients who were BTK inhibitor naive.  Eligible patients were at least 18 years of age with a clinical and definite histological diagnosis of relapsed/refractory WM or treatment-naïve when considered unsuitable for standard chemo-immunotherapy regimens by their treating physician. Patients had to meet at least one criterion for treatment according to consensus panel criteria from the Seventh International Workshop on Waldenström's Macroglobulinemia (IWWM) and have measurable disease, as defined by a serum IgM level &gt;0.5 g/dl. Patients with MYD88 mutation (MYD88 MUT ) were assigned to Cohort 1 (N=201) and were randomized 1:1 to receive either zanubrutinib 160 mg twice daily (Arm A) or ibrutinib 420 mg once daily (Arm B) until disease progression or unacceptable toxicity. Subjects found to have MYD88 wildtype (MYD88 WT ) by gene sequencing (estimated to be present in approximately 10% of enrolled subjects), were enrolled to Cohort 2 (N = 28) and received zanubrutinib 160 mg twice daily on a third, non-randomized, study arm (Arm C).
+The safety and efficacy of BRUKINSA in WM were evaluated in a randomized, open-label, multicentre study comparing zanubrutinib and ibrutinib (ASPEN study, BGB-3111-302) in patients who were BTK inhibitor naive. Eligible patients were at least 18 years of age with a clinical and definite histological diagnosis of relapsed/refractory WM or treatment-naïve when considered unsuitable for standard chemo-immunotherapy regimens by their treating physician. Patients had to meet at least one criterion for treatment according to consensus panel criteria from the Seventh International Workshop on Waldenström's Macroglobulinemia (IWWM) and have measurable disease, as defined by a serum IgM level &gt;0.5 g/dl. Patients with MYD88 mutation (MYD88 MUT ) were assigned to Cohort 1 (N=201) and were randomized 1:1 to receive either zanubrutinib 160 mg twice daily (Arm A) or ibrutinib 420 mg once daily (Arm B) until disease progression or unacceptable toxicity. Subjects found to have MYD88 wildtype (MYD88 WT ) by gene sequencing (estimated to be present in approximately 10% of enrolled subjects), were enrolled to Cohort 2 (N = 28) and received zanubrutinib 160 mg twice daily on a third, non-randomized, study arm (Arm C).
 
 In Cohort 1 (MYD88 MUT ), the median age was 70 years (range, 38 to 90 years), with 71% and 60% of patients treated with ibrutinib and zanubrutinib respectively being &gt;65 years old. 33% of patients in the zanubrutinib arm and 22% in the ibrutinib were &gt;75 years. 67% were male, and 91% were Caucasian. At study entry, 44% of patients in the ibrutinib arm and 46% of patients in the zanubrutinib arm had an International Prognostic Scoring System (IPSS) high. One hundred and sixty-four patients had relapsed or refractory disease; the median number of prior therapies was 1 (range, 1 to 8).
 
 The primary outcome measure was rate of Complete Response (CR) or Very Good Partial Response (VGPR), as assessed by an independent review committee (IRC) with adaptation of the response criteria updated at the Sixth IWWM. The secondary endpoints for Cohort 1 include major response rate (MRR), duration of response, rate of CR or VGPR determined by investigator, and progressionfree survival (PFS).
 
-The testing for the superiority of the primary endpoint of VGPR or CR rate required testing in the Relapsed/Refractory Analysis Set prior to testing in the ITT Analysis Set. Median follow-up was 19.4 months. In the relapsed/refractory patients, 19.8% and 28.9% achieved VGPR or CR on the ibrutinib and zanubrutinib arms, respectively. The primary efficacy endpoint was not significant in the Relapsed/Refractory Analysis Set (2-sided p=0.1160). Table 5 summarizes the responses as assessed by IRC for the Relapsed/Refractory and intent-to-treat (ITT) Analysis Set. Responses were observed with zanubrutinib across subgroups, including MYD88 WT  patients (Cohort 2) who had a VGPR or CR rate of 26.9% and an MRR of 50%.
+The testing for the superiority of the primary endpoint of VGPR or CR rate required testing in the Relapsed/Refractory Analysis Set prior to testing in the ITT Analysis Set. Median follow-up was 19.4 months. In the relapsed/refractory patients, 19.8% and 28.9% achieved VGPR or CR on the ibrutinib and zanubrutinib arms, respectively. The primary efficacy endpoint was not significant in the Relapsed/Refractory Analysis Set (2-sided p=0.1160). Table 5 summarizes the responses as assessed by IRC for the Relapsed/Refractory and intent-to-treat (ITT) Analysis Set. Responses were observed with zanubrutinib across subgroups, including MYD88 WT patients (Cohort 2) who had a VGPR or CR rate of 26.9% and an MRR of 50%.
 
 Table 5: Primary analysis of disease response by independent review committee (ASPEN Study)
 
-|                               | Relapsed/Refractory   | Relapsed/Refractory   | ITT              | ITT                  |
-|-------------------------------|-----------------------|-----------------------|------------------|----------------------|
-| Response Category             | Ibrutinib N = 81      | Zanubrutinib N = 83   | Ibrutinib N = 99 | Zanubrutinib N = 102 |
-| Median follow-up time, months | 18.79                 | 18.73                 | 19.38            | 19.47                |
-| (range)                       | (0.5, 30.0)           | (0.4, 28.7)           | (0.5, 31.1)      | (0.4, 31.2)          |
-| CR                            | 0 (0.0)               | 0 (0.0)               | 0 (0.0)          | 0 (0.0)              |
+| Response Category                     | Relapsed/Refractory - Ibrutinib N = 81   | Relapsed/Refractory - Zanubrutinib N = 83   | ITT - Ibrutinib N = 99   | ITT - Zanubrutinib N = 102   |
+|---------------------------------------|------------------------------------------|---------------------------------------------|--------------------------|------------------------------|
+| Median follow-up time, months (range) | 18.79                                    | 18.73                                       | 19.38                    | 19.47                        |
+| CR                                    | (0.5, 30.0)                              | (0.4, 28.7)                                 | (0.5, 31.1)              | (0.4, 31.2)                  |
+|                                       | 0 (0.0)                                  | 0 (0.0)                                     | 0 (0.0)                  | 0 (0.0)                      |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                           | Relapsed/Refractory   | Relapsed/Refractory   | ITT               | ITT                  |
-|-------------------------------------------|-----------------------|-----------------------|-------------------|----------------------|
-| Response Category                         | Ibrutinib N = 81      | Zanubrutinib N = 83   | Ibrutinib N = 99  | Zanubrutinib N = 102 |
-| VGPR                                      | 16 (19.8)             | 24 (28.9)             | 19 (19.2)         | 29 (28.4)            |
-| PR                                        | 49 (60.5)             | 41 (49.4)             | 58 (58.6)         | 50 (49.0)            |
-| VGPR or CR rate, n (%)                    | 16 (19.8)             | 24 (28.9)             | 19 (19.2)         | 29 (28.4)            |
-| 95% CI a                                  | (11.7, 30.1)          | (19.5, 39.9)          | (12.0, 28.3)      | (19.9, 38.2)         |
-| Risk difference (%) b                     | 10.7                  | 10.7                  | 10.2              | 10.2                 |
-| 95% CI a                                  | (-2.5, 23.9)          | (-2.5, 23.9)          | (-1.5, 22.0)      | (-1.5, 22.0)         |
-| p-value c                                 | 0.1160                | 0.1160                |                   |                      |
-| MRR(PR or better), n (%)                  | 65 (80.2)             | 65 (78.3)             | 77 (77.8)         | 79 (77.5)            |
-| 95% CI a                                  | (69.9, 88.3)          | (67.9, 86.6)          | (68.3, 85.5)      | (68.1, 85.1)         |
-| Risk difference (%) b                     | -3.5                  | -3.5                  | -0.5              | -0.5                 |
-| 95% CI                                    | (-16.0, 9.0)          | (-16.0, 9.0)          | (-12.2, 11.1)     | (-12.2, 11.1)        |
-| Duration of major response                |                       |                       |                   |                      |
-| Event-free rate at, %(95% CI) d 18 months | 85.6 (73.1, 92.6)     | 87.0 (72.5, 94.1)     | 87.9 (77.0, 93.8) | 85.2 (71.7, 92.6)    |
+| Response Category                          | Relapsed/Refractory - Ibrutinib N = 81   | Relapsed/Refractory - Zanubrutinib N = 83   | ITT - Ibrutinib N = 99   | ITT - Zanubrutinib N = 102   |
+|--------------------------------------------|------------------------------------------|---------------------------------------------|--------------------------|------------------------------|
+| VGPR                                       | 16 (19.8)                                | 24 (28.9)                                   | 19 (19.2)                | 29 (28.4)                    |
+| PR                                         | 49 (60.5)                                | 41 (49.4)                                   | 58 (58.6)                | 50 (49.0)                    |
+| VGPR or CR rate, n (%)                     | 16 (19.8)                                | 24 (28.9)                                   | 19 (19.2)                | 29 (28.4)                    |
+| 95% CI a                                   | (11.7, 30.1)                             | (19.5, 39.9)                                | (12.0, 28.3)             | (19.9, 38.2)                 |
+| Risk difference (%) b                      | 10.7                                     | 10.7                                        | 10.2                     | 10.2                         |
+| 95% CI a                                   | (-2.5, 23.9)                             | (-2.5, 23.9)                                | (-1.5, 22.0)             | (-1.5, 22.0)                 |
+| p-value c                                  | 0.1160                                   | 0.1160                                      |                          |                              |
+| MRR (PR or better), n (%)                  | 65 (80.2)                                | 65 (78.3)                                   | 77 (77.8)                | 79 (77.5)                    |
+| 95% CI a                                   | (69.9, 88.3)                             | (67.9, 86.6)                                | (68.3, 85.5)             | (68.1, 85.1)                 |
+| Risk difference (%) b                      | -3.5                                     | -3.5                                        | -0.5                     | -0.5                         |
+| 95% CI                                     | (-16.0, 9.0)                             | (-16.0, 9.0)                                | (-12.2, 11.1)            | (-12.2, 11.1)                |
+| Duration of major response                 |                                          |                                             |                          |                              |
+| Event-free rate at, % (95% CI) d 18 months | 85.6 (73.1, 92.6)                        | 87.0 (72.5, 94.1)                           | 87.9 (77.0, 93.8)        | 85.2 (71.7, 92.6)            |
 
 Percentages are based on N.
 
-a  2-sided Clopper-Pearson 95% confidence interval.
+a 2-sided Clopper-Pearson 95% confidence interval.
 
-b  Mantel-Haenszel common risk difference with the 95% confidence interval calculated using a normal approximation and Sato's standard error stratified by the stratification factors per IRT (strata CXCR4 WT and UNK are combined) and age group (≤65 and &gt;65). Ibrutinib is the reference group.
+b Mantel-Haenszel common risk difference with the 95% confidence interval calculated using a normal approximation and Sato's standard error stratified by the stratification factors per IRT (strata CXCR4 WT and UNK are combined) and age group (≤65 and &gt;65). Ibrutinib is the reference group.
 
-c  Based on CMH test stratified by the stratification factors per IRT (strata CXCR4 WT and UNK are combined) and age group (≤65 and &gt;65)
+c Based on CMH test stratified by the stratification factors per IRT (strata CXCR4 WT and UNK are combined) and age group (≤65 and &gt;65)
 
-d  Event-free rates are estimated by Kaplan-Meier method with 95% CIs estimated using the Greenwood's formula.
+d Event-free rates are estimated by Kaplan-Meier method with 95% CIs estimated using the Greenwood's formula.
 
 Based on an updated data cut-off the progression free-survival event-free rate by investigator assessment was 77.6% vs 84.9% at 30 months (ibrutinib vs zanubrutinib), with an estimated overall hazard ratio of 0.734 (95% CI: 0.380, 1.415).
 
 Patients with Marginal Zone Lymphoma (MZL)
 
-The efficacy of zanubrutinib was assessed in a Phase 2 open-label, multicentre, single-arm trial of 68 patients with MZL who had received at least one prior anti-CD20-based therapy (MAGNOLIA study, BGB-3111-214). Twenty-six (38.2%) patients had extranodal MZL, 26 (38.2%) had nodal MZL, 12 (17.6%) had splenic MZL, and in 4 (6%) patients, the subtype was unknown. Zanubrutinib was given orally at a dose of 160 mg twice daily until disease progression or unacceptable toxicity. The median age of patients was 70 years (range: 37 to 95), and 53% were male. The median time since initial diagnosis was 61.5 months (range: 2.0 to 353.6). The median number of prior treatments was 2 (range: 1 to 6), with 27.9 % patients having 3 or more lines of systemic therapy; 98.5% (n=67) patients had received prior rituximab-based chemotherapy and 85.3% (n=58) patients had received prior treatment with alkylating agents; 5.9% patients (n=4) had prior stem cell transplantation. Sixtythree (92.6%) patients had a baseline ECOG performance status of 0 or 1.  Twenty-two (32.4%) patients had refractory disease at study entry. Tumor response was according to the 2014 Lugano Classification, and the primary efficacy endpoint was overall response rate as assessed by an Independent Review Committee (IRC) (Table 6).
+The efficacy of zanubrutinib was assessed in a Phase 2 open-label, multicentre, single-arm trial of 68 patients with MZL who had received at least one prior anti-CD20-based therapy (MAGNOLIA study, BGB-3111-214). Twenty-six (38.2%) patients had extranodal MZL, 26 (38.2%) had nodal MZL, 12 (17.6%) had splenic MZL, and in 4 (6%) patients, the subtype was unknown. Zanubrutinib was given orally at a dose of 160 mg twice daily until disease progression or unacceptable toxicity. The median age of patients was 70 years (range: 37 to 95), and 53% were male. The median time since initial diagnosis was 61.5 months (range: 2.0 to 353.6). The median number of prior treatments was 2 (range: 1 to 6), with 27.9 % patients having 3 or more lines of systemic therapy; 98.5% (n=67) patients had received prior rituximab-based chemotherapy and 85.3% (n=58) patients had received prior treatment with alkylating agents; 5.9% patients (n=4) had prior stem cell transplantation. Sixtythree (92.6%) patients had a baseline ECOG performance status of 0 or 1. Twenty-two (32.4%) patients had refractory disease at study entry.
+
+Tumor response was according to the 2014 Lugano Classification, and the primary efficacy endpoint was overall response rate as assessed by an Independent Review Committee (IRC) (Table 6).
 
 Table 6: Efficacy Results in Patients with MZL by Independent Review Committee (MAGNOLIA study)
 
-|                               | Study BGB-3111-214 (N=66) a   |
-|-------------------------------|-------------------------------|
-| ORR (95% CI)                  | 68% (55.6,79.1)               |
-| CR                            | 26%                           |
-| PR                            | 42%                           |
-| Median DoR in months (95% CI) | NE (25.0, NE)                 |
+|              | Study BGB-3111-214 (N=66) a   |
+|--------------|-------------------------------|
+| ORR (95% CI) | 68% (55.6,79.1)               |
+| CR           | 26%                           |
+| PR           | 42%                           |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                               | Study BGB-3111-214 (N=66) a   |
-|-----------------------------------------------|-------------------------------|
-| DOR Event Free Rate b at 24 months, %(95% CI) | 72.9 (54.4, 84.9)             |
-| Median study follow-up in months (Min, Max)   | 28.04 (1.64, 32.89)           |
+|                                                | Study BGB-3111-214 (N=66) a   |
+|------------------------------------------------|-------------------------------|
+| Median DoR in months (95% CI)                  | NE (25.0, NE)                 |
+| DOR Event Free Rate b at 24 months, % (95% CI) | 72.9 (54.4, 84.9)             |
+| Median study follow-up in months (Min, Max)    | 28.04 (1.64, 32.89)           |
 
-a  Two patients in BGB-3111-214 were not evaluable for efficacy due to central confirmation of MZL transformation to diffuse large B-cell lymphoma.
+a Two patients in BGB-3111-214 were not evaluable for efficacy due to central confirmation of MZL transformation to diffuse large B-cell lymphoma.
 
-b  Event free rates were estimated by Kaplan-Meier method with 95% CIs estimated using the Greenwood's formula. ORR: overall response rate, CR: complete response, PR: partial response, DoR: duration of response, CI: confidence interval, NE: not estimable
+b Event free rates were estimated by Kaplan-Meier method with 95% CIs estimated using the Greenwood's formula.
 
-In BGB-3111-214, the median time to response was 2.79 months (range: 1.7 to 11.1 months).  After a median study follow-up time of 28.04 months (range: 1.64 to 32.89 months), the median duration of response (DOR) as assessed by the IRC has not been reached (95% CI 25.0 months to NE), and a total of 72.9 % (95% CI 54.4 to 84.9) of responders were estimated to be event-free at 24 months after initial response.
+ORR: overall response rate, CR: complete response, PR: partial response, DoR: duration of response, CI: confidence interval, NE: not estimable
+
+In BGB-3111-214, the median time to response was 2.79 months (range: 1.7 to 11.1 months). After a median study follow-up time of 28.04 months (range: 1.64 to 32.89 months), the median duration of response (DOR) as assessed by the IRC has not been reached (95% CI 25.0 months to NE), and a total of 72.9 % (95% CI 54.4 to 84.9) of responders were estimated to be event-free at 24 months after initial response.
 
 The overall response rates observed were similar across three different MZL subtypes (extranodal, nodal and splenic).
 
@@ -1396,17 +1343,15 @@ Demographic and baseline characteristics were generally balanced between arm A (
 
 Demographic and baseline characteristics were also generally similar between arm A (zanubrutinib) in Cohort 1 and arm C (zanubrutinib) in Cohort 2.
 
-In Cohort 1, randomisation was stratified by age (&lt; 65 years vs ≥ 65 years), Binet stage (C versus A or B), immunoglobulin variable region heavy chain (IGHV) mutational status (mutated vs unmutated), and geographic region (North America versus Europe versus Asia Pacific).  A total of 479 patients were randomized (intent-to-treat [ITT] analysis set), 241 to zanubrutinib continuous monotherapy and 238 to 6 cycles of therapy with bendamustine and rituximab (BR).
-
-In Cohort 1, patients in the zanubrutinib arm A received 160 mg twice daily until disease progression or unacceptable toxicity. In arm B, patients received bendamustine at a dose of 90 mg/m2/day on the
+In Cohort 1, randomisation was stratified by age (&lt; 65 years vs ≥ 65 years), Binet stage (C versus A or B), immunoglobulin variable region heavy chain (IGHV) mutational status (mutated vs unmutated), and geographic region (North America versus Europe versus Asia Pacific). A total of 479 patients were randomized (intent-to-treat [ITT] analysis set), 241 to zanubrutinib continuous monotherapy and 238 to 6 cycles of therapy with bendamustine and rituximab (BR).
 
 <div style=\"page-break-after: always\"></div>
 
-first 2 days of each cycle for 6 cycles and rituximab at a dose of 375 mg/m2 for Cycle 1, and at a dose of 500 mg/m2 for Cycles 2 to 6. Each treatment cycle consisted of approximately 28 days. In Cohort 2 (arm C), patients received zanubrutinib 160 mg twice daily until disease progression or unacceptable toxicity.
+In Cohort 1, patients in the zanubrutinib arm A received 160 mg twice daily until disease progression or unacceptable toxicity. In arm B, patients received bendamustine at a dose of 90 mg/m2/day on the first 2 days of each cycle for 6 cycles and rituximab at a dose of 375 mg/m2 for Cycle 1, and at a dose of 500 mg/m2 for Cycles 2 to 6. Each treatment cycle consisted of approximately 28 days. In Cohort 2 (arm C), patients received zanubrutinib 160 mg twice daily until disease progression or unacceptable toxicity.
 
 For Cohort 1, the primary endpoint was progression-free survival (PFS), assessed by an independent central review committee (IRC). Secondary endpoints included the overall response rate based on IRC assessment.
 
-In Cohort 1, the median duration of follow-up for PFS was 25.0 months (range: 0.0 to 41.4). The PFS rate at 24 months was 85.5% (95% CI: 80.1, 89.6) for zanubrutinib and 69.5% (95% CI: 62.4, 75.5) for BR. In Cohort 2, the median duration of follow up for PFS was 27.9 months (range: 1.0 to 38.8) and the PFS rate at 24 months 88.9% (95% CI: 81.3, 93.6).   The ORR assessed by IRC in Cohort 2 was 90.0% (95% CI: 82.8, 94.9). The median time to partial response or higher as assessed by IRC was 2.89 months (range: 1.8, 14.2) and 2.86 months (range: 1.9, 13.9) in the zanubrutinib arm of Cohort 1 and Cohort 2, respectively.
+In Cohort 1, the median duration of follow-up for PFS was 25.0 months (range: 0.0 to 41.4). The PFS rate at 24 months was 85.5% (95% CI: 80.1, 89.6) for zanubrutinib and 69.5% (95% CI: 62.4, 75.5) for BR. In Cohort 2, the median duration of follow up for PFS was 27.9 months (range: 1.0 to 38.8) and the PFS rate at 24 months 88.9% (95% CI: 81.3, 93.6). The ORR assessed by IRC in Cohort 2 was 90.0% (95% CI: 82.8, 94.9). The median time to partial response or higher as assessed by IRC was 2.89 months (range: 1.8, 14.2) and 2.86 months (range: 1.9, 13.9) in the zanubrutinib arm of Cohort 1 and Cohort 2, respectively.
 
 Efficacy results for cohort 1 is presented in Table 7. The Kaplan-Meier curves for PFS for both arms in Cohort 1 are shown in Figure 1.
 
@@ -1414,17 +1359,16 @@ Efficacy results for cohort 1 is presented in Table 7. The Kaplan-Meier curves f
 
 Table 7: Efficacy Results in the SEQUOIA study
 
-|                                    | Cohort 1* Patients without Del(17p)   | Cohort 1* Patients without Del(17p)   |
-|------------------------------------|---------------------------------------|---------------------------------------|
-| Endpoint                           | Zanubrutinib (N=241)                  | Bendamustine + Rituximab (N=238)      |
-| Progression-Free Survival †        |                                       |                                       |
-| Number of Events, n (%)            | 36 (14.9)                             | 71 (29.8)                             |
-| Disease Progression, n (%)         | 27 (11.2)                             | 59 (24.8)                             |
-| Death, n (%)                       | 9 (3.7)                               | 12 (5.0)                              |
-| Median (95% CI), months a          | NE (NE, NE)                           | 33.7 (28.1, NE)                       |
-| Hazard Ratio (95% CI) b            | 0.42 (0.28, 0.63)                     | 0.42 (0.28, 0.63)                     |
-| P value c                          | <0.0001                               | <0.0001                               |
-| Overall Response Rate † % (95% CI) | 94.6% (91.0, 97.1)                    | 85.3% (80.1, 89.5)                    |
+| Endpoint                           | Cohort 1* Patients without Del(17p) - Zanubrutinib (N=241)   | Cohort 1* Patients without Del(17p) - Bendamustine + Rituximab (N=238)   |
+|------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------|
+| Progression-Free Survival †        |                                                              |                                                                          |
+| Number of Events, n (%)            | 36 (14.9)                                                    | 71 (29.8)                                                                |
+| Disease Progression, n (%)         | 27 (11.2)                                                    | 59 (24.8)                                                                |
+| Death, n (%)                       | 9 (3.7)                                                      | 12 (5.0)                                                                 |
+| Median (95% CI), months a          | NE (NE, NE)                                                  | 33.7 (28.1, NE)                                                          |
+| Hazard Ratio (95% CI) b            | 0.42 (0.28, 0.63)                                            | 0.42 (0.28, 0.63)                                                        |
+| P value c                          | <0.0001                                                      | <0.0001                                                                  |
+| Overall Response Rate † % (95% CI) | 94.6% (91.0, 97.1)                                           | 85.3% (80.1, 89.5)                                                       |
 
 Overall Response Rate: CR+CRi+nPR+PR+PR-L, CR: complete response, CRi: complete response with incomplete haematopoietic recovery, nPR: nodular partial response, PR: partial response, PR-L: partial response with lymphocytoma,
 
@@ -1432,7 +1376,7 @@ CI: confidence interval, NE: not estimable, median follow-up time for PFS was 25
 
 * ITT analysis set
 
-†   Assessed by independent central review committee.
+† Assessed by independent central review committee.
 
 a Based on Kaplan-Meier estimation.
 
@@ -1444,7 +1388,7 @@ At an updated ad hoc analysis with a median follow-up of 33.5 months for PFS, th
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1: Kaplan-Meier Curve of IRC-assessed PFS in the SEQUOIA  study Cohort 1 (ITT population)
+Figure 1: Kaplan-Meier Curve of IRC-assessed PFS in the SEQUOIA study Cohort 1 (ITT population)
 
 <!-- image -->
 
@@ -1452,11 +1396,11 @@ ALPINE study (BGB-3111-305): A Phase 3, Randomized Study of Zanubrutinib Compare
 
 The ALPINE study (BGB-3111-305) is a randomized, multicenter, open-label, Phase 3, active controlled trial. It enrolled 652 patients with relapsed or refractory CLL after at least one prior systemic therapy. The patients were randomized to either zanubrutinib 160 mg orally twice daily or ibrutinib 420 mg orally once daily, continued until disease progression or unacceptable toxicity.
 
-Randomization was stratified by age (&lt; 65 years versus ≥ 65 years), geographic region (China versus non-China), refractory status (yes or no), and del(17p)/ TP53 mutation status (present or absent).
+Randomization was stratified by age (&lt; 65 years versus ≥ 65 years), geographic region (China versus non-China), refractory status (yes or no), and del(17p)/TP53 mutation status (present or absent).
 
 Baseline demographics and disease characteristics were generally balanced between treatment arms in ITT analysis set and in the first 415 randomized patients.
 
-In the ITT analysis set, the median age was 67.0 years in the zanubrutinib arm and 68.0 years in the ibrutinib arm. The majority of patients in both arms had an ECOG PS of 0 or 1 (97.9% in the zanubrutinib arm; 96.0% in the ibrutinib arm).  Similar demographics and baseline characteristics were observed in the first 415 randomized patients. The median number of prior lines of systemic therapy is 1.0 the zanubrutinib arm (range, 1 to 6) and 1.0 in the ibrutinib arm (range, 1 to 8) in both the ITT analysis set and the first 415 randomized patients.
+In the ITT analysis set, the median age was 67.0 years in the zanubrutinib arm and 68.0 years in the ibrutinib arm. The majority of patients in both arms had an ECOG PS of 0 or 1 (97.9% in the zanubrutinib arm; 96.0% in the ibrutinib arm). Similar demographics and baseline characteristics were observed in the first 415 randomized patients. The median number of prior lines of systemic therapy is 1.0 the zanubrutinib arm (range, 1 to 6) and 1.0 in the ibrutinib arm (range, 1 to 8) in both the ITT analysis set and the first 415 randomized patients.
 
 Patients previously treated with a BTK inhibitor were excluded from study 305 and limited data for zanubrutinib after prior BCL 2 inhibitor treatment is available.
 
@@ -1466,22 +1410,19 @@ The primary endpoint was overall response rate (ORR, defined as partial response
 
 <div style=\"page-break-after: always\"></div>
 
-At the pre-specified ORR interim analysis in the first 415 randomised patients, zanubrutinib demonstrated non-inferiority (1-sided p &lt;0.0001) and superiority (2-sided p = 0.0006) to ibrutinib in the protocol-specified primary endpoint ORR assessed by investigator. Response as determined by IRC also demonstrated non-inferiority of zanubrutinib to ibrutinib (1-sided p &lt; 0.0001).  At the ORR final analysis, ORR assessed by the investigator continues to be higher (79.5% versus 71.1%) in the zanubrutinib arm compared with the ibrutinib arm (descriptive p = 0.0133); ORR determined by IRC was also significantly higher in the zanubrutinib arm compared with the ibrutinib arm, demonstrating superiority (80.4% versus 72.9%, respectively; 2-sided p = 0.0264).
+At the pre-specified ORR interim analysis in the first 415 randomised patients, zanubrutinib demonstrated non-inferiority (1-sided p &lt;0.0001) and superiority (2-sided p = 0.0006) to ibrutinib in the protocol-specified primary endpoint ORR assessed by investigator. Response as determined by IRC also demonstrated non-inferiority of zanubrutinib to ibrutinib (1-sided p &lt; 0.0001). At the ORR final analysis, ORR assessed by the investigator continues to be higher (79.5% versus 71.1%) in the zanubrutinib arm compared with the ibrutinib arm (descriptive p = 0.0133); ORR determined by IRC was also significantly higher in the zanubrutinib arm compared with the ibrutinib arm, demonstrating superiority (80.4% versus 72.9%, respectively; 2-sided p = 0.0264).
 
-Table 9: Efficacy Results in the ALPINE study (Pre-specified Interim Analysis of the First 415 randomized Patients) by Investigator (protocol defined primary endpoint) and IRC Assessment
+Table 8: Efficacy Results in the ALPINE study (Pre-specified Interim Analysis of the First 415 randomized Patients) by Investigator (protocol defined primary endpoint) and IRC Assessment
 
-|                                                              | Investigator Assessed (protocol-define primary endpoint)   | Investigator Assessed (protocol-define primary endpoint)   | IRC Assessed            | IRC Assessed            |
-|--------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|-------------------------|-------------------------|
-| Endpoint                                                     | Zanubrutinib (N=207)                                       | Ibrutinib (N=208)                                          | Zanubrutinib (N=207)    | Ibrutinib (N=208)       |
-| Overall Response Rate § n (%) (95% CI)                       | 162 (78.3) (72.0, 83.7)                                    | 130 (62.5) (55.5, 69.1)                                    | 158 (76.3) (69.9, 81.9) | 134 (64.4) (57.5, 70.9) |
-| Response ratio a (95% CI)                                    | 1.25 (1.10, 1.41)                                          | 1.25 (1.10, 1.41)                                          | 1.17 (1.04, 1.33)       | 1.17 (1.04, 1.33)       |
-| Non-inferiority b                                            | 1-sided p-value <0.0001                                    | 1-sided p-value <0.0001                                    | 1-sided p-value <0.0001 | 1-sided p-value <0.0001 |
-| Superiority c                                                | 2-sided p-value 0.0006                                     | 2-sided p-value 0.0006                                     | 2-sided p-value 0.0121  | 2-sided p-value 0.0121  |
-| Duration of Response d : 12-months event-free rate %(95% CI) | 89.8 (78.1, 95.4)                                          | 77.9 (64.7, 86.7)                                          | 90.3 (82.3, 94.8)       | 78.0 (66.1, 86.2)       |
+| Endpoint                                                      | Investigator Assessed (protocol-define primary endpoint) - Zanubrutinib (N=207)   | Investigator Assessed (protocol-define primary endpoint) - Ibrutinib (N=208)   | IRC Assessed - Zanubrutinib (N=207)   | IRC Assessed - Ibrutinib (N=208)   |
+|---------------------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------|------------------------------------|
+| Overall Response Rate § n (%) (95% CI)                        | 162 (78.3) (72.0, 83.7)                                                           | 130 (62.5) (55.5, 69.1)                                                        | 158 (76.3) (69.9, 81.9)               | 134 (64.4) (57.5, 70.9)            |
+| Response ratio a (95% CI)                                     | 1.25 (1.10, 1.41)                                                                 | 1.25 (1.10, 1.41)                                                              | 1.17 (1.04, 1.33)                     | 1.17 (1.04, 1.33)                  |
+| Non-inferiority b                                             | 1-sided p-value <0.0001                                                           | 1-sided p-value <0.0001                                                        | 1-sided p-value <0.0001               | 1-sided p-value <0.0001            |
+| Superiority c                                                 | 2-sided p-value 0.0006                                                            | 2-sided p-value 0.0006                                                         | 2-sided p-value 0.0121                | 2-sided p-value 0.0121             |
+| Duration of Response d : 12-months event-free rate % (95% CI) | 89.8 (78.1, 95.4)                                                                 | 77.9 (64.7, 86.7)                                                              | 90.3 (82.3, 94.8)                     | 78.0 (66.1, 86.2)                  |
 
-Overall Response Rate : CR + CRi + nPR + PR, CR: complete response, CRi: complete response with incomplete haematopoietic recovery, nPR: nodular partial response, PR: partial response, CI: confidence interval
-
-Median duration of response as assessed by investigator was not reached in the zanubrutinib arm at interim analysis, median study follow-up time was 15.31 months (range: 0.1, 23.1) in zanubrutinib arm and 15.43 months (range: 0.1, 26.0) in ibrutinib arm.
+Overall Response Rate : CR + CRi + nPR + PR, CR: complete response, CRi: complete response with incomplete haematopoietic recovery, nPR: nodular partial response, PR: partial response, CI: confidence interval Median duration of response as assessed by investigator was not reached in the zanubrutinib arm at interim analysis, median study follow-up time was 15.31 months (range: 0.1, 23.1) in zanubrutinib arm and 15.43 months (range: 0.1, 26.0) in ibrutinib arm.
 
 § Hypothesis testing for the noninferiority of ORR at the interim analysis is based on the first 415 randomized patients only with a 1-sided significance level of 0.005.
 
@@ -1489,37 +1430,28 @@ a Response ratio: estimated ratio of the overall response rate in the zanubrutin
 
 b Stratified test against a null response ratio of 0.8558.
 
-c   Stratified Cochran-Mantel-Haenszel test.
+c Stratified Cochran-Mantel-Haenszel test.
 
-d   Kaplan-Meier estimate.
+d Kaplan-Meier estimate.
 
 The median time to response as assessed by the investigator at the ORR interim analysis in first 415 randomised patients was 5.59 months (range: 2.7, 14.1) in zanubrutinib arm and 5.65 months (range: 2.8, 16.7) in ibrutinib arm. The results assessed by IRC were consistent (5.55 months vs. 5.63 months in zanubrutinib and ibrutinib arms respectively). At the ORR final analysis in all 652 randomised patients, the median time to response remained unchanged (5.59 months vs. 5.65 months as assessed by investigator and 5.52 months vs. 5.62 months as assessed by IRC in zanubrutinib and ibrutinib arms respectively).
 
-In patients with del(17p) mutation in the first 415 randomized patients, the ORR assessed by investigator were 83.3% (95% CI 62.5, 95.3; 20 of 24 patients) in the zanubrutinib arm and 53.8% (95% CI 33.4, 73.4; 14 of 26 patients) in the ibrutinib arm. Based on IRC assessment, the ORR were 79.2% (95% CI 57.8, 92.9; 19 of 24 patients) in the zanubrutinib arm and 61.5% (95% CI 40.6, 79.8; 16 of 26 patients) in the ibrutinib arm. At the ORR final analysis in all 652 randomized patients, the ORR assessed by investigator were 86.7% (95% CI 73.2, 94.9; 39 of 45 patients with del(17p) mutation) in the zanubrutinib arm and 56.0% (95% CI 41.3, 70.0; 28 of 50 patients with del(17p) mutation) in the ibrutinib arm. Based on IRC assessment, the ORR were 86.7% (95% CI 73.2, 94.9;
+In patients with del(17p) mutation in the first 415 randomized patients, the ORR assessed by investigator were 83.3% (95% CI 62.5, 95.3; 20 of 24 patients) in the zanubrutinib arm and 53.8% (95% CI 33.4, 73.4; 14 of 26 patients) in the ibrutinib arm. Based on IRC assessment, the ORR were 79.2% (95% CI 57.8, 92.9; 19 of 24 patients) in the zanubrutinib arm and 61.5% (95% CI 40.6, 79.8; 16 of 26 patients) in the ibrutinib arm. At the ORR final analysis in all 652 randomized patients, the ORR assessed by investigator were 86.7% (95% CI 73.2, 94.9; 39 of 45 patients with del(17p) mutation) in the zanubrutinib arm and 56.0% (95% CI 41.3, 70.0; 28 of 50 patients with del(17p) mutation) in the ibrutinib arm. Based on IRC assessment, the ORR were 86.7% (95% CI 73.2, 94.9; 39 of 45 patients with del(17p) mutation) in the zanubrutinib arm and 64.0% (95% CI 49.2, 77.1; 32 of 50 patients with del(17p) mutation) in the ibrutinib arm.
 
 <div style=\"page-break-after: always\"></div>
-
-39 of 45 patients with del(17p) mutation) in the zanubrutinib arm and 64.0% (95% CI 49.2, 77.1; 32 of 50 patients with del(17p) mutation) in the ibrutinib arm.
 
 A total of 652 patients were enrolled at the prespecified time of final PFS analysis (cut-off date 8 August 2022). The median PFS follow-up time was 28.1 months as assessed by investigator and 30.7 months as assessed by IRC Zanubrutinib showed superiority in PFS over ibrutinib as assessed by both investigator and IRC. The efficacy results for PFS are presented in Table 9, and a Kaplan Meier Plot as assessed by IRC is provided in Figure 2.
 
 Table 9: Efficacy results in the ALPINE study (prespecified final PFS analysis of all 652 randomized patients) by Investigator and IRC assessment (cut-off date 8 August 2022)
 
-|                           | Investigator Assessed   | Investigator Assessed   | Independently Assessed*   | Independently Assessed*   |
-|---------------------------|-------------------------|-------------------------|---------------------------|---------------------------|
-| Endpoint                  | Zanubrutinib (N=327)    | Ibrutinib (N=325)       | Zanubrutinib (N=327)      | Ibrutinib (N=325)         |
-| Progression-Free Survival |                         |                         |                           |                           |
-| Events, n (%)             | 87 (26.6)               | 118 (36.3)              | 88 (26.9)                 | 120 (36.9)                |
-| Hazard Ratio a (95% CI)   | 0.65 (0.49, 0.86)       | 0.65 (0.49, 0.86)       | 0.65 (0.49, 0.86)         | 0.65 (0.49, 0.86)         |
-| 2-sided p-value b         | 0.0024                  | 0.0024                  | 0.0024                    | 0.0024                    |
+| Endpoint                  | Investigator Assessed - Zanubrutinib (N=327)   | Investigator Assessed - Ibrutinib (N=325)   | Independently Assessed* - Zanubrutinib (N=327)   | Independently Assessed* - Ibrutinib (N=325)   |
+|---------------------------|------------------------------------------------|---------------------------------------------|--------------------------------------------------|-----------------------------------------------|
+| Progression-Free Survival |                                                |                                             |                                                  |                                               |
+| Events, n (%)             | 87 (26.6)                                      | 118 (36.3)                                  | 88 (26.9)                                        | 120 (36.9)                                    |
+| Hazard Ratio a (95% CI)   | 0.65 (0.49, 0.86)                              | 0.65 (0.49, 0.86)                           | 0.65 (0.49, 0.86)                                | 0.65 (0.49, 0.86)                             |
+| 2-sided p-value b         | 0.0024                                         | 0.0024                                      | 0.0024                                           | 0.0024                                        |
 
-*  By independent central review committee.
-
-a Based on a stratified Cox-regression model with ibrutinib as the reference group.
-
-b Based on a stratified log-rank test.
-
-Figure 4: Kaplan-Meier Plot of Progression-Free Survival by Independent Central Review (ITT)(cut-off date 8 August 2022)
+Figure 2: Kaplan-Meier Plot of Progression-Free Survival by Independent Central Review (ITT)(cut-off date 8 August 2022)
 
 <!-- image -->
 
@@ -1527,7 +1459,7 @@ In patients with del(17p)/TP53 mutation, the hazard ratio for progression-free s
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 5: Kaplan-Meier Plot of Progression-Free Survival by Independent Central Review for Patients with Del 17P or TP53 (ITT)(cut-off date 8 August 2022)
+Figure 3: Kaplan-Meier Plot of Progression-Free Survival by Independent Central Review for Patients with Del 17P or TP53 (ITT)(cut-off date 8 August 2022)
 
 <!-- image -->
 
@@ -1537,7 +1469,7 @@ Patients with Follicular Lymphoma (FL)
 
 The efficacy of zanubrutinib in combination with obinutuzumab versus obinutuzumab was assessed in the ROSEWOOD study (BGB-3111-212), a phase 2 randomized, open-label, multicentre study. Overall, 217 patients with relapsed (defined by disease progression after completion of the most recent therapy) or refractory (defined as failure to achieve CR or PR to most recent therapy), grade 13a follicular lymphoma (FL) who had previously received at least two prior systemic therapies including an anti-CD20 antibody and an appropriate alkylator-based combination therapy, were enrolled. Patients were randomized 2:1 to either zanubrutinib 160 mg orally twice daily until progressive disease or unacceptable toxicity, in combination with obinutuzumab 1 000 mg intravenously (arm A) or obinutuzumab alone (arm B). Obinutuzumab was given on Day 1, 8, and 15 of the first cycle, then at Day 1 of cycles 2-6. Each cycle was 28 days long. Patients received optional obinutuzumab maintenance, one infusion every other cycle, for a maximum of 20 doses.
 
-Patients randomized in obinutuzumab arm were allowed to crossover and to receive the combination of zanubrutinib plus obinutuzumab in case of progressive disease or absence of response (defined by stable disease as best response) after 12 cycles. Randomization was stratified by the number of prior lines of therapy (2 to 3 versus ˃3), rituximab -refractory status (yes versus no), and geographic region (China versus other countries).
+Patients randomized in obinutuzumab arm were allowed to crossover and to receive the combination of zanubrutinib plus obinutuzumab in case of progressive disease or absence of response (defined by stable disease as best response) after 12 cycles. Randomization was stratified by the number of prior lines of therapy (2 to 3 versus ˃3), rituximab-refractory status (yes versus no), and geographic region (China versus other countries).
 
 Baseline demographics and disease characteristics were generally balanced between the zanubrutinib combination arm and the obinutuzumab monotherapy arm in the 217 randomized patients. The median age was 64 years (range: 31 to 88), 49.8% were male, and 64.1% White. Most (97.2%) of the patients had a baseline ECOG performance status of 0 or 1.
 
@@ -1545,7 +1477,7 @@ At screening, most patients were Ann Arbor Stage III or IV (179 patients [82.5%]
 
 <div style=\"page-break-after: always\"></div>
 
-The median number of prior anticancer therapy was 3 lines (range: 2 to 11 lines). All 217 patients received &gt;2 prior lines of therapy that included rituximab therapy (as a monotherapy or in combination with chemotherapy), and 59 of the 217 patients (27.2%) received &gt;3 prior lines of therapy.  Of the 217 patients, 114 (52.5%) were refractory to rituximab (defined as failure to respond to, or progression during, any previous rituximab-containing regimen [monotherapy or combined with chemotherapy], or progression within 6 months of the last rituximab dose, in the induction or maintenance treatment settings). Twelve (5.5%) patients received prior obinutuzumab.
+The median number of prior anticancer therapy was 3 lines (range: 2 to 11 lines). All 217 patients received &gt;2 prior lines of therapy that included rituximab therapy (as a monotherapy or in combination with chemotherapy), and 59 of the 217 patients (27.2%) received &gt;3 prior lines of therapy. Of the 217 patients, 114 (52.5%) were refractory to rituximab (defined as failure to respond to, or progression during, any previous rituximab-containing regimen [monotherapy or combined with chemotherapy], or progression within 6 months of the last rituximab dose, in the induction or maintenance treatment settings). Twelve (5.5%) patients received prior obinutuzumab.
 
 Of 217 patients total, 145 were randomized to the zanubrutinib combination arm and 72 were randomized to the obinutuzumab monotherapy arm. The median follow-up time is shown in Table 10. Median duration of zanubrutinib exposure was 12,4 months at data cut-off date 31 December 2024.
 
@@ -1568,29 +1500,31 @@ Table 10: Efficacy results per Independent Central Review (ITT) (ROSEWOOD study)
 | Progression-free Survival (Months)       |                                             |                             |                                             |                             |
 | Median (95% CI) c                        | 22.1 (16.1, 34.0)                           | 10.3 (6.5, 13.8)            | 28.0 (16.1, NE)                             | 10.4 (6.5, 13.8)            |
 
-Overall Response Rate: CR + PR, CR: complete response, PR: partial response a  Estimated using the Clopper-Pearson method.
+Overall Response Rate: CR + PR, CR: complete response, PR: partial response
 
-b  Cochran-Mantel-Haenszel method stratified by rituximab-refractory status, number of prior lines of therapy, and geographic region per IRT.
+a Estimated using the Clopper-Pearson method.
 
-c  Medians estimated by Kaplan-Meier method; 95% CIs estimated by Brookmeyer and Crowley method.
+b Cochran-Mantel-Haenszel method stratified by rituximab-refractory status, number of prior lines of therapy, and geographic region per IRT.
 
-d  DOR rates estimated by Kaplan-Meier method; 95% CIs estimated using the Greenwood's formula. DOR was not type I error controlled and the CIs are nominal in nature.
+c Medians estimated by Kaplan-Meier method; 95% CIs estimated by Brookmeyer and Crowley method.
 
-Figure 4: Kaplan-Meier Plot of Progression-Free Survival by Independent Central Review (ITT)
+d DOR rates estimated by Kaplan-Meier method; 95% CIs estimated using the Greenwood's formula. DOR was not type I error controlled and the CIs are nominal in nature.
 
 <div style=\"page-break-after: always\"></div>
 
+Figure 4: Kaplan-Meier Plot of Progression-Free Survival by Independent Central Review (ITT)
+
 <!-- image -->
 
-## NumberofPatientsAtRisk:
+## Number of Patients At Risk:
 
-ArmA1451351179593807068655955545150444342393434282724171713873111110 ArmB 72614135312719171614131211119876665543310
+Arm A 14513511795 93 80706865 5955 54 51 50 44 4342 3934 3428 27 24 17 1713 8 7 3 1 1 1 1 1 0 Arm B 72 61 41 35 31 27 19 17 16 14 13 12 11 11 9 8 7 6 66 5 5 4 3 3 1 0
 
 Arm A, Zanubrutinib + Obinutuzumab; Arm B, Obinutuzumab
 
 ## Overall Survival
 
-As of 31 December 2024, 51 patients ( 35.2%) in the combination arm and 33 patients ( 45.8%) in the obinutuzumab monotherapy arm died. At 18 months, overall survival rates were  84.1% (95%CI: 76.6, 89.3) in the combination arm and  71.5% (95%CI: 59.0, 80.8) in the obinutuzumab monotherapy arm. OS analysis may be confounded by 36 patients (50.0%) who crossed over from obinutuzumab monotherapy arm to combination arm.
+As of 31 December 2024, 51 patients ( 35.2%) in the combination arm and 33 patients ( 45.8%) in the obinutuzumab monotherapy arm died. At 18 months, overall survival rates were 84.1% (95%CI: 76.6, 89.3) in the combination arm and 71.5% (95%CI: 59.0, 80.8) in the obinutuzumab monotherapy arm. OS analysis may be confounded by 36 patients (50.0%) who crossed over from obinutuzumab monotherapy arm to combination arm.
 
 ## Paediatric population
 
@@ -1600,11 +1534,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Brukinsa is available as hard capsules (80 mg) and film-coated tablets (160 mg). Comparative bioavailability and bioequivalence studies indicated that under fasted conditions, the Cmax is 1.2-fold higher and the AUC is bioequivalent for the tablet formulation versus the capsule formulation. Under fed conditions, the Cmax was 1.5- to 1.8-fold higher and the AUC 1.1- to 1.2-fold higher for the tablet formulation versus the capsule formulation. Exposure-safety relationship showed that the higher exposure with the tablet formulation does not lead to additional safety issues.
 
-Zanubrutinib maximum plasma concentration (Cmax) and area under the plasma drug concentration over time curve (AUC) increase proportionally over a dose range from 40 mg to 320 mg (0.13 to
-
 <div style=\"page-break-after: always\"></div>
 
-1 time the recommended total daily dose). Limited systemic accumulation of zanubrutinib was observed following repeated administration for one week.
+Zanubrutinib maximum plasma concentration (Cmax) and area under the plasma drug concentration over time curve (AUC) increase proportionally over a dose range from 40 mg to 320 mg (0.13 to 1 time the recommended total daily dose). Limited systemic accumulation of zanubrutinib was observed following repeated administration for one week.
 
 The geometric mean (%CV) zanubrutinib steady-state daily AUC is 2 099 (42%) ng h/mL following 160 mg twice daily and 1 917 (59%) ng h/mL following 320 mg once daily. The geometric mean (%CV) zanubrutinib steady-state Cmax is 299 (56%) ng/mL following 160 mg twice daily and 533 (55%) ng/mL following 320 mg once daily.
 
@@ -1628,7 +1560,9 @@ The mean half-life (t½) of zanubrutinib is approximately 2 to 4 hours following
 
 ## Elderly
 
-Age (19 to 90 years; mean age 65±12.5) had no clinically meaningful effect on zanubrutinib pharmacokinetics based on population PK analysis (N=1 291). Gender
+Age (19 to 90 years; mean age 65±12.5) had no clinically meaningful effect on zanubrutinib pharmacokinetics based on population PK analysis (N=1 291).
+
+## Gender
 
 Gender (872 males and 419 females) had no clinically meaningful effect on zanubrutinib pharmacokinetics based on population PK analysis.
 
@@ -1640,9 +1574,9 @@ Race (964 White, 237 Asian, 30 Black, and 25 categorized as Other) had no clinic
 
 Body weight (36 to 149 kg, mean weight 76.5±16.9 kg) had no clinically meaningful effect on zanubrutinib pharmacokinetics based on population PK analysis (N=1 291).
 
-## Renal impairment
-
 <div style=\"page-break-after: always\"></div>
+
+## Renal impairment
 
 Zanubrutinib undergoes minimal renal elimination. Based on population PK analysis, mild and moderate renal impairment (CrCl ≥30 mL/min as estimated by Cockcroft-Gault equation) had no influence on the exposure of zanubrutinib. The analysis was based on 362 patients with normal renal function, 523 with mild renal impairment, 303 with moderate renal impairment, 11 with severe renal impairment, and one with ESRD. The effects of severe renal impairment (CrCl &lt;30 mL/min) and dialysis on zanubrutinib pharmacokinetics is unknown.
 
@@ -1662,9 +1596,9 @@ Zanubrutinib is likely to be a substrate of P-gp. Zanubrutinib is not a substrat
 
 ## Pharmacodynamic interactions
 
-An i n vitro study showed that the potential pharmacodynamic interaction between zanubrutinib and rituximab is low and zanubrutinib is unlikely to interfere with the anti-CD20 antibody-induced antibody-dependent cellular cytotoxicity (ADCC) effect.
+An in vitro study showed that the potential pharmacodynamic interaction between zanubrutinib and rituximab is low and zanubrutinib is unlikely to interfere with the anti-CD20 antibody-induced antibody-dependent cellular cytotoxicity (ADCC) effect.
 
-In vitro , ex vivo , and animal studies showed that zanubrutinib had no or minimal effects on platelet activation, glycoprotein expression, and thrombus formation.
+In vitro, ex vivo, and animal studies showed that zanubrutinib had no or minimal effects on platelet activation, glycoprotein expression, and thrombus formation.
 
 ## 5.3 Preclinical safety data
 
@@ -1672,9 +1606,11 @@ In vitro , ex vivo , and animal studies showed that zanubrutinib had no or minim
 
 The general toxicologic profiles of zanubrutinib were characterized orally in Sprague-Dawley rats for up to 6-month treatment and in beagle dogs for up to 9-month treatment.
 
-In rat repeat dose studies up to 6-month treatment, test article related mortality was noted at the dose of 1 000 mg/kg/day (81x clinical AUC) with histopathologic findings in the gastrointestinal tract. Other findings were mainly noted in the pancreas (atrophy, fibroplasia, haemorrhage, and/or inflammatory cell infil tration) at the doses ≥ 30 mg/kg/day (3x clinical AUC), in the skin around the nose/mouth/eyes (inflammatory cell infiltration, erosion/ulcer) from the dose of 300 mg/kg/day (16x clinical AUC), and in the lung (presence of macrophages in the alveolar) at the dose of 300 mg/kg/day. All these findings were fully or partially reversed after a 6-week recovery except for the pancreatic findings which were not considered clinically relevant.
+In rat repeat dose studies up to 6-month treatment, test article related mortality was noted at the dose of 1 000 mg/kg/day (81x clinical AUC) with histopathologic findings in the gastrointestinal tract. Other findings were mainly noted in the pancreas (atrophy, fibroplasia, haemorrhage, and/or inflammatory cell infiltration) at the doses ≥ 30 mg/kg/day (3x clinical AUC), in the skin around the nose/mouth/eyes (inflammatory cell infiltration, erosion/ulcer) from the dose of 300 mg/kg/day (16x clinical AUC), and in the lung (presence of macrophages in the alveolar) at the dose of
 
 <div style=\"page-break-after: always\"></div>
+
+300 mg/kg/day. All these findings were fully or partially reversed after a 6-week recovery except for the pancreatic findings which were not considered clinically relevant.
 
 In dog repeat dose studies up to 9-month treatment, test article related findings were mainly noted in the gastrointestinal tract (soft/watery/mucoid stool), skin (rash, red discoloration, and thickened/ scaling), and in the mesenteric, mandibular, and gut associated lymph nodes and spleen (lymphoid depletion or erythrophagocytosis) at the doses from 10 mg/kg/day (3x clinical AUC) to 100 mg/kg/day (18x clinical AUC). All these findings were fully or partially reversed after a 6-week recovery.
 
@@ -1698,13 +1634,11 @@ In a pre- and post-natal developmental toxicity study, zanubrutinib was administ
 
 ## Tablet content
 
-Lactose monohydrate Croscarmellose sodium Sodium lauryl sulfate (E487) Colloidal anhydrous silica Povidone Microcrystalline cellulose Magnesium stearate
+Lactose monohydrate Croscarmellose sodium Sodium lauryl sulfate (E487) Colloidal anhydrous silica Povidone Microcrystalline cellulose Magnesium stearate Film coat Hypromellose Titanium dioxide (E171) Triacetin Brilliant blue FCF aluminium lake (E133)
 
 <div style=\"page-break-after: always\"></div>
 
-## Film coat
-
-Hypromellose Titanium dioxide (E171) Triacetin Brilliant blue FCF aluminium lake (E133) Indigo carmine aluminium lake (E132)
+Indigo carmine aluminium lake (E132)
 
 ## 6.2 Incompatibilities
 
@@ -1728,7 +1662,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-BeOne Medicines Ireland Limited. 10 Earlsfort Terrace Dublin 2 D02 T380 Ireland Tel. +353 1 566 7660 E-mail   beone.ireland@beonemed.com
+BeOne Medicines Ireland Limited. 10 Earlsfort Terrace Dublin 2
+
+D02 T380 Ireland Tel. +353 1 566 7660 E-mail beone.ireland@beonemed.com
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1738,9 +1674,9 @@ EU/1/21/1576/002
 
 Date of first authorisation: 22 November 2021
 
-## 10. DATE OF REVISION OF THE TEXT
-
 <div style=\"page-break-after: always\"></div>
+
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -1757,7 +1693,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-## Name and address of the manufacturer responsible for batch release
+Name and address of the manufacturers responsible for batch release
 
 BeOne Medicines I GmbH, Dutch Branch. Evert van de Beekstraat 1, 104, 1118 CL Schiphol, The Netherlands
 
@@ -1783,18 +1719,11 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-- Obligation to conduct post-authorisation measures
+- Obligation to conduct post-authorisation measures The MAH shall complete, within the stated timeframe, the below measures:
 
-The MAH shall complete, within the stated timeframe, the below measures:
-
-| Description                                                                                                                                                                                                                                                                                                                                                                 | Due date   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| Post-authorisation efficacy study (PAES): In order to further confirm the efficacy and safety of zanubrutinib in patients with R/R MZL, theMAH will submit the final study report of the post-authorisation efficacy study (PAES): Study BGB-3111-308: a global, multicenter, phase 3, open-label, randomized study of zanubrutinib plus rituximab versus lenalidomide plus | by Q4 2028 |
-
-<div style=\"page-break-after: always\"></div>
-
-| rituximab in patients with relapsed/refractory marginal zone lymphoma (NCT05100862).   |
-|----------------------------------------------------------------------------------------|
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Due date   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Post-authorisation efficacy study (PAES): In order to further confirm the efficacy and safety of zanubrutinib in patients with R/R MZL, the MAH will submit the final study report of the post-authorisation efficacy study (PAES): Study BGB-3111-308: a global, multicenter, phase 3, open-label, randomized study of zanubrutinib plus rituximab versus lenalidomide plus rituximab in patients with relapsed/refractory marginal zone lymphoma (NCT05100862). | by Q4 2028 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1806,130 +1735,143 @@ The MAH shall complete, within the stated timeframe, the below measures:
 
 ## A. LABELLING
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+<div style=\"page-break-after: always\"></div>
 
-## OUTER CARTON CAPSULE
+| PARTICULARS TO APPEAR ON THE OUTER PACKAGING   |
+|------------------------------------------------|
+| OUTER CARTON CAPSULE                           |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-BRUKINSA 80 mg hard capsules
+BRUKINSA 80 mg hard capsules zanubrutinib
 
-zanubrutinib
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each hard capsule contains 80 mg of zanubrutinib.
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
-Hard capsules
+Hard capsules 120 hard capsules
 
-120 hard capsules
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+Oral use. Read the package leaflet before use.
 
-Oral use.
-
-Read the package leaflet before use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+BeOne Medicines Ireland Limited 10 Earlsfort Terrace Dublin 2 D02 T380, Ireland Tel. +353 1 566 7660 E-mail mailto:beone.ireland@beonemed.com
 
-BeOne Medicines Ireland Limited 10 Earlsfort Terrace Dublin 2 D02 T380, Ireland Tel. +353 1 566 7660 E-mail beone.ireland@beonemed.com
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/21/1576/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 BRUKINSA
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
+PC SN NN
 
-NN
+<div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+| PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING   |
+|----------------------------------------------------|
+| BOTTLE CAPSULE                                     |
 
-BOTTLE CAPSULE
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+BRUKINSA 80 mg hard capsules zanubrutinib
 
-BRUKINSA 80 mg hard capsules
-
-zanubrutinib
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each hard capsule contains 80 mg of zanubrutinib
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
-Hard capsules
+Hard capsules 120 hard capsules
 
-120 hard capsules
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Oral use.
-
-Read the package leaflet before use.
+Oral use. Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 BeOne Medicines Ireland Limited 10 Earlsfort Terrace Dublin 2 D02 T380, Ireland
 
@@ -1946,8 +1888,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1955,12 +1897,16 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+62
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON TABLET
+## OUTER CARTON TABLET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1976,7 +1922,8 @@ Contains lactose monohydrate.
 
 See package leaflet for further information.
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
 Film-coated tablets
 
@@ -1994,59 +1941,68 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+BeOne Medicines Ireland Limited 10 Earlsfort Terrace Dublin 2 D02 T380, Ireland Tel. +353 1 566 7660 E-mail :beone.ireland@beonemed.com
 
-BeOne Medicines Ireland Limited 10 Earlsfort Terrace Dublin 2 D02 T380, Ireland Tel. +353 1 566 7660 E-mail : beone.ireland@beonemed.com
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/21/1576/002
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 BRUKINSA
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC
+PC SN NN
 
-SN
-
-NN
+64
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-BOTTLE TABLET
+## BOTTLE TABLET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-BRUKINSA 160 mg film-coated tablets zanubrutinib
+BRUKINSA 160 mg film-coated tablets
+
+zanubrutinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2084,13 +2040,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-BeOne Medicines  Ireland Limited 10 Earlsfort Terrace Dublin 2 D02 T380, Ireland
+BeOne Medicines Ireland Limited 10 Earlsfort Terrace Dublin 2 D02 T380, Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -2105,8 +2061,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -2114,10 +2070,10 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-67
+66
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2135,10 +2091,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2167,13 +2123,13 @@ BRUKINSA is also used to treat follicular lymphoma (FL). FL is a slow growing ca
 
 ## Do not take BRUKINSA
 
-- -if you are allergic to zanubrutinib or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to zanubrutinib or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before taking BRUKINSA:
 
-- if you have ever had unusual bruising or bleeding or are on any medicines or supplements that increase your risk of bleeding (see section 'Other medicines and BRUKINSA' ). If you have had recent surgery or plan to have surgery, your doctor may ask you to stop taking BRUKINSA for a short time (3 to 7 days) before and after your surgery or dental procedure
+- if you have ever had unusual bruising or bleeding or are on any medicines or supplements that increase your risk of bleeding (see section \"Other medicines and BRUKINSA\"). If you have had recent surgery or plan to have surgery, your doctor may ask you to stop taking BRUKINSA for a short time (3 to 7 days) before and after your surgery or dental procedure
 - if you have an irregular heartbeat or have a history of irregular heartbeat or severe heart failure, or if you have any of the following: shortness of breath, weakness, dizziness, lightheadedness, fainting or near fainting, chest pain or swollen legs
 - if you have ever been advised that you are at higher risk of infections. You may experience viral, bacterial, or fungal infections during treatment with BRUKINSA with the following possible symptoms: fever, chills, weakness, confusion, body aches, cold or flu symptoms, feel tired or feel short of breath, yellowing of the skin or eyes (jaundice).
 - if you have ever had or might have hepatitis B. This is because BRUKINSA could cause hepatitis B to become active again. Patients will be carefully checked by their doctor for signs of this infection before treatment is started
@@ -2188,11 +2144,9 @@ If any of the above apply to you (or you are not sure), talk to your doctor, pha
 
 Laboratory tests may show lymphocytosis, an increase in white blood cells (lymphocytes) in your blood in the first few weeks of treatment. This is expected and may last for a few months. This does not necessarily mean that your blood cancer is getting worse. Your doctor will check your blood counts before and during the treatment and in rare cases the doctor may give you another medicine. Talk to your doctor about what your test results mean.
 
-Tumour lysis syndrome (TLS): Unusual levels of chemicals in the blood caused by the fast breakdown of cancer cells have occurred during treatment of cancer and sometimes even without
+Tumour lysis syndrome (TLS): Unusual levels of chemicals in the blood caused by the fast breakdown of cancer cells have occurred during treatment of cancer and sometimes even without treatment. This may lead to changes in kidney function, abnormal heartbeat, or seizures. Your doctor or another healthcare provider may do blood tests to check for TLS.
 
 <div style=\"page-break-after: always\"></div>
-
-treatment. This may lead to changes in kidney function, abnormal heartbeat, or seizures. Your doctor or another healthcare provider may do blood tests to check for TLS.
 
 ## Children and adolescents
 
@@ -2206,7 +2160,7 @@ BRUKINSA may make you bleed more easily. This means you should tell your doctor 
 
 - acetylsalicylic acid such as aspirin and non-steroidal anti-inflammatories (NSAIDs) such as ibuprofen and naproxen,
 - anticoagulants such as warfarin, heparin and other medicines for treating or preventing blood clots,
-- supplements that may increase your risk of bleeding such as fish oil, vitamin E or  flaxseed.
+- supplements that may increase your risk of bleeding such as fish oil, vitamin E or flaxseed.
 
 If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before taking BRUKINSA.
 
@@ -2231,16 +2185,16 @@ Also tell your doctor if you take any of the following medicines - The effects o
 
 Tell your doctor if you consume grapefruit or Seville oranges (bitter oranges) because they can increase the amount of BRUKINSA in your blood.
 
-## Pregnancy and breast-feeding
-
 <div style=\"page-break-after: always\"></div>
+
+## Pregnancy and breast-feeding
 
 Do not get pregnant while you are taking this medicine. BRUKINSA should not be used during pregnancy. It is not known if BRUKINSA will harm your unborn baby.
 
 Women of childbearing age must use a highly effective method of birth control during treatment with BRUKINSA and for least one month after treatment. A barrier method of contraception (e.g., condoms) must be used with hormonal contraceptives such as birth control pills or devices.
 
 - Tell your doctor immediately if you become pregnant.
-- Do not breast-feed while you are taking this  medicine. BRUKINSA may pass into breast milk.
+- Do not breast-feed while you are taking this medicine. BRUKINSA may pass into breast milk.
 
 ## Driving and using machines
 
@@ -2288,23 +2242,24 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Tell a doctor straight away if you notice any of the following side effects:
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
 - fever, chills, body aches, feeling tired, cold or flu symptoms, being short of breath, frequent and painful urination - these could be signs of an infection (viral, bacterial or fungal). These could include infections of the nose, sinus or throat (upper respiratory tract infection), pneumonia, or urinary tract.
 - bruising or increased tendency of bruising; contusions
 - bleeding
 - muscle and bone aches
 - skin rash
-- diarrhoea; your doctor may need to give you a fluid and salt replacement or another  medicine
+- diarrhoea; your doctor may need to give you a fluid and salt replacement or another medicine
 - cough
 - fatigue
 - high blood pressure
 - constipation
+- feeling sick (nausea)
 - dizziness
 - blood in urine
 - blood tests showing a reduced number of blood cells. Your doctor should do blood tests during treatment with BRUKINSA to check the number of your blood cells.
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 - swollen hands, ankles or feet
 - nosebleed
@@ -2315,7 +2270,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - weakness
 - low white blood cell count with fever (febrile neutropenia)
 
-## Uncommon (may affect up to 1 in 100 people):
+Uncommon (may affect up to 1 in 100 people):
 
 - reactivation of hepatitis B (if you had experienced hepatitis B, it may come back)
 - intestinal bleeding (blood in stool)
@@ -2345,53 +2300,50 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What BRUKINSA contains
 
-- -The active substance is zanubrutinib. Each hard capsule contains 80 mg of zanubrutinib.
-- -The other ingredients are:
-- capsule content: microcrystalline cellulose, croscarmellose sodium, sodium lauryl sulfate (E487), silica colloidal anhydrous and magnesium stearate. See section 2 'BRUKINSA contains sodium'.
+- The active substance is zanubrutinib. Each hard capsule contains 80 mg of zanubrutinib. - The other ingredients are:
+- capsule content: microcrystalline cellulose, croscarmellose sodium, sodium lauryl sulfate (E487), silica colloidal anhydrous and magnesium stearate. See section 2 \"BRUKINSA contains sodium\".
 - capsule shell: gelatin and titanium dioxide (E171)
 - printing ink: shellac glaze (E904), iron oxide black (E172) and propylene glycol (E1520).
 
 ## What BRUKINSA looks like and contents of the pack
 
-BRUKINSA is a white to off-white hard capsule of 22 mm in length, marked with 'ZANU 80' in black ink on one side.
+BRUKINSA is a white to off-white hard capsule of 22 mm in length, marked with \"ZANU 80\" in black ink on one side.
 
 The capsules are provided in a plastic bottle with a child resistant closure. Each bottle contains 120 hard capsules.
 
 ## Marketing Authorisation Holder
 
-BeOne Medicines Ireland Limited. 10 Earlsfort Terrace Dublin 2 D02 T380 Ireland Tel. +353 1 566 7660 E-mail beone.ireland@beonemed.com
+BeOne Medicines Ireland Limited.
+
+10 Earlsfort Terrace
+
+Dublin 2
+
+D02 T380
+
+Ireland
+
+Tel. +353 1 566 7660
+
+[E-mail mailto: beone.ireland@beonemed.com](mailto:beone.ireland@beonemed.com)
 
 ## Manufacturer
 
 <div style=\"page-break-after: always\"></div>
 
-BeOne Medicines I GmbH, Dutch Branch Evert van de Beekstraat 1, 104 1118 CL Schiphol The Netherlands
+BeOne Medicines GmbH I, Dutch Branch Evert van de Beekstraat 1, 104 1118 CL Schiphol The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-BeOne Medicines Belgium
-
-Tél/Tel: 0800 89 307
-
-## Lietuva
-
-Swixx Biopharma UAB
-
-Tel: +370 5 236 91 40
+BeOne Medicines Belgium Tél/Tel: 0800 89 307
 
 ## България
 
 Swixx Biopharma EOOD
 
-Te л
-
-.: +359 (0)2 4942 480
-
-## Luxembourg/Luxemburg
-
-BeOne Medicines Belgium Tél/Tel: 800 85520
+Teл.: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -2399,31 +2351,13 @@ Swixx Biopharma s.r.o.
 
 Tel: +420 242 434 222
 
-## Magyarország
-
-Swixx Biopharma Kft.
-
-Tel.: +36 1 9206 570
-
 ## Danmark
 
-BeOne Medicines, Denmark BranchTlf: 808 10 660
-
-## Malta
-
-Swixx Biopharma S.M.S.A.
-
-Tel: +30 214 444 9670
+BeOne Medicines, Denmark Branch Tlf: 808 10 660
 
 ## Deutschland
 
-BeOne Medicines Germany GmbH
-
-Tel: 0800 200 8144
-
-## Nederland
-
-BeOne Medicines Netherlands B.V. Tel: 08000 233 408
+BeOne Medicines Germany GmbH Tel: 0800 200 8144
 
 ## Eesti
 
@@ -2431,21 +2365,11 @@ Swixx Biopharma OÜ
 
 Tel: +372 640 1030
 
-## Norge
-
-BeOne Medicines Sweden ABTlf: 800 31 491
-
 ## Ελλάδα
 
-Swixx Biopharma Μ . Α . Ε
+Swixx Biopharma Μ.Α.Ε
 
 Tel: +30 214 444 9670
-
-## Österreich
-
-BeOne Medicines Austria GmbH
-
-Tel: 0800 909 638
 
 ## España
 
@@ -2453,23 +2377,9 @@ BeOne Medicines ESP, S.L.U.
 
 Tel: 9000 31 090
 
-## Polska
-
-BeOne Medicines Poland sp. z o. o.
-
-Tel.: 8000 80 952
-
 ## France
 
-BeOne Medicines France Sarl
-
-Tél: 080 554 3292
-
-## Portugal
-
-BeOne Medicines Portugal, Unipessoal Lda.
-
-Tel: 800 210 376
+BeOne Medicines France Sarl Tél: 080 554 3292
 
 ## Hrvatska
 
@@ -2483,6 +2393,48 @@ MeOne Medicines UK, Ltd
 
 Tel: 1800 812 061
 
+## Lietuva
+
+Swixx Biopharma UAB Tel: +370 5 236 91 40
+
+## Luxembourg/Luxemburg
+
+BeOne Medicines Belgium
+
+Tél/Tel: 800 85520
+
+## Magyarország
+
+Swixx Biopharma Kft.
+
+Tel.: +36 1 9206 570
+
+## Malta
+
+Swixx Biopharma S.M.S.A. Tel: +30 214 444 9670
+
+## Nederland
+
+BeOne Medicines Netherlands B.V. Tel: 08000 233 408
+
+## Norge
+
+BeOne Medicines Sweden ABTlf: 800 31 491
+
+## Österreich
+
+BeOne Medicines Austria GmbH Tel: 0800 909 638
+
+## Polska
+
+BeOne Medicines Poland sp. z o. o.
+
+Tel.: 8000 80 952
+
+## Portugal
+
+BeOne Medicines Portugal, Unipessoal Lda. Tel: 800 210 376
+
 ## România
 
 Swixx Biopharma S.R.L
@@ -2495,13 +2447,7 @@ Swixx Biopharma d.o.o. Tel: +386 1 2355 100
 
 ## Ísland
 
-## Slovenská republika
-
 BeOne Medicines Sweden ABSími: 800 4418
-
-Swixx Biopharma s.r.o.
-
-Tel: +421 2 20833 600
 
 ## Italia
 
@@ -2509,27 +2455,33 @@ BeOne Medicines Italy S.r.l
 
 Tel: 800 588 525
 
-## Suomi/Finland
-
-BeOne Medicines Sweden ABPuh/Tel: 0800 774 047
-
 ## Κύπρος
 
-Swixx Biopharma Μ . Α .
-
-Ε
+Swixx Biopharma Μ.Α.Ε
 
 Tel: +30 214 444 9670
-
-## Sverige
-
-BeOne Medicines Sweden ABPuh/Tel: 0200 810 337
 
 ## Latvija
 
 Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
+
+## Slovenská republika
+
+Swixx Biopharma s.r.o.
+
+Tel: +421 2 20833 600
+
+## Suomi/Finland
+
+BeOne Medicines Sweden ABPuh/Tel: 0800 774 047
+
+## Sverige
+
+BeOne Medicines Sweden AB
+
+Puh/Tel: 0200 810 337
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2551,10 +2503,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2583,13 +2535,13 @@ BRUKINSA is also used to treat follicular lymphoma (FL). FL is a slow growing ca
 
 ## Do not take BRUKINSA
 
-- -if you are allergic to zanubrutinib or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to zanubrutinib or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before taking BRUKINSA:
 
-- if you have ever had unusual bruising or bleeding or are on any medicines or supplements that increase your risk of bleeding (see section 'Other medicines and BRUKINSA' ). If you have had recent surgery or plan to have surgery, your doctor may ask you to stop taking BRUKINSA for a short time (3 to 7 days) before and after your surgery or dental procedure
+- if you have ever had unusual bruising or bleeding or are on any medicines or supplements that increase your risk of bleeding (see section \"Other medicines and BRUKINSA\"). If you have had recent surgery or plan to have surgery, your doctor may ask you to stop taking BRUKINSA for a short time (3 to 7 days) before and after your surgery or dental procedure
 - if you have an irregular heartbeat or have a history of irregular heartbeat or severe heart failure, or if you have any of the following: shortness of breath, weakness, dizziness, lightheadedness, fainting or near fainting, chest pain or swollen legs
 - if you have ever been advised that you are at higher risk of infections. You may experience viral, bacterial, or fungal infections during treatment with BRUKINSA with the following possible symptoms: fever, chills, weakness, confusion, body aches, cold or flu symptoms, feel tired or feel short of breath, yellowing of the skin or eyes (jaundice).
 - if you have ever had or might have hepatitis B. This is because BRUKINSA could cause hepatitis B to become active again. Patients will be carefully checked by their doctor for signs of this infection before treatment is started
@@ -2620,15 +2572,17 @@ BRUKINSA may make you bleed more easily. This means you should tell your doctor 
 
 - acetylsalicylic acid such as aspirin and non-steroidal anti-inflammatories (NSAIDs) such as ibuprofen and naproxen,
 - anticoagulants such as warfarin, heparin and other medicines for treating or preventing blood clots,
-- supplements that may increase your risk of bleeding such as fish oil, vitamin E or  flaxseed.
+- supplements that may increase your risk of bleeding such as fish oil, vitamin E or flaxseed.
 
 If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before taking BRUKINSA.
 
 Also tell your doctor if you take any of the following medicines - The effects of BRUKINSA or other medicines may be influenced if you take BRUKINSA together with any of the following medicines:
 
-•
+·
 
-antibiotics to treat bacterial infections - ciprofloxacin, clarithromycin, erythromycin, nafcillin or rifampicin
+antibiotics to treat bacterial infections - ciprofloxacin, clarithromycin,
+
+erythromycin, nafcillin or rifampicin
 
 - medicines for fungal infections - fluconazole, itraconazole, ketoconazole, posaconazole, voriconazole
 - medicines for HIV infection - efavirenz, etravirine, indinavir, lopinavir, ritonavir, telaprevir
@@ -2650,14 +2604,14 @@ Tell your doctor if you consume grapefruit or Seville oranges (bitter oranges) b
 
 ## Pregnancy and breast-feeding
 
-Do not get pregnant while you are taking this medicine. BRUKINSA should not be used during pregnancy. It is not known if BRUKINSA will harm your unborn baby.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not get pregnant while you are taking this medicine. BRUKINSA should not be used during pregnancy. It is not known if BRUKINSA will harm your unborn baby.
 
 Women of childbearing age must use a highly effective method of birth control during treatment with BRUKINSA and for least one month after treatment. A barrier method of contraception (e.g., condoms) must be used with hormonal contraceptives such as birth control pills or devices.
 
 - Tell your doctor immediately if you become pregnant.
-- Do not breast-feed while you are taking this  medicine. BRUKINSA may pass into breast milk.
+- Do not breast-feed while you are taking this medicine. BRUKINSA may pass into breast milk.
 
 ## Driving and using machines
 
@@ -2711,23 +2665,24 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Tell a doctor straight away if you notice any of the following side effects:
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
 - fever, chills, body aches, feeling tired, cold or flu symptoms, being short of breath, frequent and painful urination - these could be signs of an infection (viral, bacterial or fungal). These could include infections of the nose, sinus or throat (upper respiratory tract infection), pneumonia, or urinary tract.
 - bruising or increased tendency of bruising; contusions
 - bleeding
 - muscle and bone aches
 - skin rash
-- diarrhoea; your doctor may need to give you a fluid and salt replacement or another  medicine
+- diarrhoea; your doctor may need to give you a fluid and salt replacement or another medicine
 - cough
 - fatigue
 - high blood pressure
 - constipation
+- feeling sick (nausea)
 - dizziness
 - blood in urine
 - blood tests showing a reduced number of blood cells. Your doctor should do blood tests during treatment with BRUKINSA to check the number of your blood cells.
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 - swollen hands, ankles or feet
 - nosebleed
@@ -2744,13 +2699,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - intestinal bleeding (blood in stool)
 - unusual levels of chemicals in the blood caused by the fast breakdown of cancer cells have occurred during treatment of cancer and sometimes even without treatment (tumour lysis syndrome)
 
-## Unknown:
-
-- redness and shedding of skin over a large area of the body, which may be itchy or painful
-
 <div style=\"page-break-after: always\"></div>
 
-(exfoliative dermatitis generalized)
+## Unknown:
+
+- redness and shedding of skin over a large area of the body, which may be itchy or painful (exfoliative dermatitis generalized)
 
 ## Reporting of side effects
 
@@ -2770,23 +2723,30 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What BRUKINSA contains
 
-- -The active substance is zanubrutinib. Each film-coated tablet contains 160 mg of zanubrutinib.
+- The active substance is zanubrutinib. Each film-coated tablet contains 160 mg of zanubrutinib.
 
 -
 
-- The other ingredients are:
-- tablet content: lactose monohydrate, croscarmellose sodium, sodium lauryl sulfate (E487), colloidal silicon dioxide, povidone, microcrystalline cellulose, and magnesium stearate. See section 2 'BRUKINSA contains sodium and lactose'.
+The other ingredients are:
+
+- tablet content: lactose monohydrate, croscarmellose sodium, sodium lauryl sulfate (E487), colloidal silicon dioxide, povidone, microcrystalline cellulose, and magnesium stearate. See section 2 \"BRUKINSA contains sodium and lactose\".
 - film coating: hypromellose, titanium dioxide (E171), triacetin, Brilliant blue FCF aluminium lake (E133) and Indigo carmine aluminium lake (E132).
 
 ## What BRUKINSA looks like and contents of the pack
 
-BRUKINSA is an oval, blue, film-coated tablet of 16 mm in length and 7.8 mm of width, with letters 'zanu' debossed on one side and a score line on the other side. The tablet can be divided into two equal halves.
+BRUKINSA is an oval, blue, film-coated tablet of 16 mm in length and 7.8 mm of width, with letters \"zanu\" debossed on one side and a score line on the other side. The tablet can be divided into two equal halves.
 
 The tablets are provided in a plastic bottle with a child resistant closure. Each carton contains one bottle of 60 film-coated tablets.
 
 ## Marketing Authorisation Holder
 
-BeOne Medicines Ireland Limited. 10 Earlsfort Terrace Dublin 2 D02 T380 Ireland Tel. +353 1 566 7660 E-mail beone.ireland@beonemed.com
+BeOne Medicines Ireland Limited. 10 Earlsfort Terrace Dublin 2 D02 T380
+
+Ireland
+
+Tel. +353 1 566 7660
+
+[E-mail mailto: beone.ireland@beonemed.com](mailto:beone.ireland@beonemed.com)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2800,27 +2760,13 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 BeOne Medicines Belgium
 
 Tél/Tel: 0800 89 307
 
-Swixx Biopharma UAB
-
-Tel: +370 5 236 91 40
-
 ## България
 
-Swixx Biopharma EOOD
-
-Te л
-
-.: +359 (0)2 4942 480
-
-## Luxembourg/Luxemburg
-
-BeOne Medicines Belgium Tél/Tel: 800 85520
+Swixx Biopharma EOOD Teл.: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -2828,21 +2774,11 @@ Swixx Biopharma s.r.o.
 
 Tel: +420 242 434 222
 
-## Magyarország
-
-Swixx Biopharma Kft.
-
-Tel.: +36 1 9206 570
-
 ## Danmark
 
-BeOne Medicines, Denmark Branch Tlf: 808 10 660
+BeOne Medicines, Denmark Branch
 
-## Malta
-
-Swixx Biopharma S.M.S.A.
-
-Tel: +30 214 444 9670
+Tlf: 808 10 660
 
 ## Deutschland
 
@@ -2850,35 +2786,17 @@ BeOne Medicines Germany GmbH
 
 Tel: 0800 200 8144
 
-## Nederland
-
-BeOne Medicines Netherlands B.V.
-
-Tel: 08000 233 408
-
 ## Eesti
 
 Swixx Biopharma OÜ
 
 Tel: +372 640 1030
 
-## Norge
-
-BeOne Medicines Sweden AB
-
-Tlf: 800 31 491
-
 ## Ελλάδα
 
-Swixx Biopharma Μ . Α . Ε
+Swixx Biopharma Μ.Α.Ε
 
 Tel: +30 214 444 9670
-
-## Österreich
-
-BeOne Medicines Austria GmbH
-
-Tel: 0800 909 638
 
 ## España
 
@@ -2886,45 +2804,75 @@ BeOne Medicines ESP, S.L.U
 
 Tel: 9000 31 090
 
+## France
+
+BeOne Medicines France Sarl Tél: 080 554 3292
+
+## Hrvatska
+
+Swixx Biopharma d.o.o.
+
+## Lietuva
+
+Swixx Biopharma UAB Tel: +370 5 236 91 40
+
+## Luxembourg/Luxemburg
+
+BeOne Medicines Belgium Tél/Tel: 800 85520
+
+## Magyarország
+
+Swixx Biopharma Kft.
+
+Tel.: +36 1 9206 570
+
+## Malta
+
+Swixx Biopharma S.M.S.A. Tel: +30 214 444 9670
+
+## Nederland
+
+BeOne Medicines Netherlands B.V.
+
+Tel: 08000 233 408
+
+## Norge
+
+BeOne Medicines Sweden AB
+
+Tlf: 800 31 491
+
+## Österreich
+
+BeOne Medicines Austria GmbH
+
+Tel: 0800 909 638
+
 ## Polska
 
 BeOne Medicines Poland sp. z o. o.
 
 Tel.: 8000 80 952
 
-## France
-
-BeOne Medicines France Sarl
-
-Tél: 080 554 3292
-
 ## Portugal
 
-BeOne Medicines Portugal, Unipessoal Lda.
-
-Tel: 800 210 376
-
-## Hrvatska
-
-Swixx Biopharma d.o.o.
-
-Tel: +385 1 2078 500
-
-## Ireland
+BeOne Medicines Portugal, Unipessoal Lda. Tel: 800 210 376
 
 ## România
 
 Swixx Biopharma S.R.L
 
+Tel: +385 1 2078 500
+
+<div style=\"page-break-after: always\"></div>
+
 Tel: +40 37 1530 850
 
-## Slovenija
+## Ireland
 
 BeOne Medicines UK, Ltd
 
 Tel: 1800 812 061
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ísland
 
@@ -2940,7 +2888,7 @@ Tel: 800 588 525
 
 ## Κύπρος
 
-Swixx Biopharma Μ . Α . Ε
+Swixx Biopharma Μ.Α.Ε
 
 Tel: +30 214 444 9670
 
@@ -2950,11 +2898,7 @@ Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
 
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+## Slovenija
 
 Swixx Biopharma d.o.o.
 
@@ -2968,12 +2912,36 @@ Tel: +421 2 20833 600
 
 ## Suomi/Finland
 
-BeOne Medicines Sweden AB
-
-Puh/Tel: 0800 774 047
+BeOne Medicines Sweden AB Puh/Tel: 0800 774 047
 
 ## Sverige
 
-BeOne Medicines Sweden AB
+BeOne Medicines Sweden AB Puh/Tel: 0200 810 337
 
-Puh/Tel: 0200 810 337
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for zanubrutinib, the scientific conclusions of PRAC are as follows:
+
+In view of available data on Nausea from clinical trials, spontaneous and solicited reports including cases with a dose dependant pattern and/or close temporal relationship, and in view of a possible class effect, the PRAC Rapporteur considers a causal relationship between zanubrutinib and nausea is at least a reasonable possibility. The PRAC Rapporteur concluded that the product information of products containing zanubrutinib should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for zanubrutinib the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing zanubrutinib is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

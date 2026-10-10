@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-09-29 13:37:00
+document_datetime: 2026-10-08 10:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tafamidis-accord.html
 document_name: tafamidis-accord.html
 version: success
-processing_time: 0.0986301
-conversion_datetime: 2026-10-01 18:29:01.604987
+processing_time: 0.1467957
+conversion_datetime: 2026-10-10 14:03:18.58281
 docling_version:
   docling-serve: 1.36.0
   docling-jobkit: 3.8.1
-  docling: 2.132.0
-  docling-core: 2.99.0
+  docling: 2.137.0
+  docling-core: 2.101.1
   docling-ibm-models: 4.0.3
-  docling-parse: 7.22.1
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
   plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
@@ -103,9 +103,143 @@ Reference Number: EMADOC-1829012207-69382
 
 English (EN) (158.7 KB - PDF)
 
-**First published:** 29/09/2026
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
 
 [View](/en/documents/overview/tafamidis-accord-epar-medicine-overview_en.pdf)
+
+[Other languages (22)](#file-language-dropdown-318)
+
+български (BG) (159.28 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/bg/documents/overview/tafamidis-accord-epar-medicine-overview_bg.pdf)
+
+español (ES) (147.09 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/es/documents/overview/tafamidis-accord-epar-medicine-overview_es.pdf)
+
+čeština (CS) (155.56 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/cs/documents/overview/tafamidis-accord-epar-medicine-overview_cs.pdf)
+
+dansk (DA) (147.56 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/da/documents/overview/tafamidis-accord-epar-medicine-overview_da.pdf)
+
+Deutsch (DE) (150.91 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/de/documents/overview/tafamidis-accord-epar-medicine-overview_de.pdf)
+
+eesti (ET) (144.58 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/et/documents/overview/tafamidis-accord-epar-medicine-overview_et.pdf)
+
+ελληνικά (EL) (159.99 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/el/documents/overview/tafamidis-accord-epar-medicine-overview_el.pdf)
+
+français (FR) (148.41 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/fr/documents/overview/tafamidis-accord-epar-medicine-overview_fr.pdf)
+
+hrvatski (HR) (154.78 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/hr/documents/overview/tafamidis-accord-epar-medicine-overview_hr.pdf)
+
+italiano (IT) (145.12 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/it/documents/overview/tafamidis-accord-epar-medicine-overview_it.pdf)
+
+latviešu (LV) (164.57 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/lv/documents/overview/tafamidis-accord-epar-medicine-overview_lv.pdf)
+
+lietuvių (LT) (154.77 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/lt/documents/overview/tafamidis-accord-epar-medicine-overview_lt.pdf)
+
+magyar (HU) (153.85 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/hu/documents/overview/tafamidis-accord-epar-medicine-overview_hu.pdf)
+
+Malti (MT) (157.42 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/mt/documents/overview/tafamidis-accord-epar-medicine-overview_mt.pdf)
+
+Nederlands (NL) (147.11 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/nl/documents/overview/tafamidis-accord-epar-medicine-overview_nl.pdf)
+
+polski (PL) (159.53 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/pl/documents/overview/tafamidis-accord-epar-medicine-overview_pl.pdf)
+
+português (PT) (148.17 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/pt/documents/overview/tafamidis-accord-epar-medicine-overview_pt.pdf)
+
+română (RO) (153.14 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/ro/documents/overview/tafamidis-accord-epar-medicine-overview_ro.pdf)
+
+slovenčina (SK) (156.92 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/sk/documents/overview/tafamidis-accord-epar-medicine-overview_sk.pdf)
+
+slovenščina (SL) (154.75 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/sl/documents/overview/tafamidis-accord-epar-medicine-overview_sl.pdf)
+
+suomi (FI) (142.4 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/fi/documents/overview/tafamidis-accord-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (145.07 KB - PDF)
+
+**First published:** 29/09/2026 **Last updated:** 08/10/2026
+
+[View](/sv/documents/overview/tafamidis-accord-epar-medicine-overview_sv.pdf)
 
 Tafamidis Accord : EPAR - Risk management plan
 
@@ -125,7 +259,7 @@ English (EN) (445.47 KB - PDF)
 
 [View](/en/documents/product-information/tafamidis-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-529)
+[Other languages (24)](#file-language-dropdown-337)
 
 български (BG) (836.1 KB - PDF)
 
@@ -296,7 +430,7 @@ English (EN) (64.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tafamidis-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-921)
+[Other languages (24)](#file-language-dropdown-396)
 
 български (BG) (74.74 KB - PDF)
 
@@ -509,6 +643,6 @@ English (EN) (118.54 KB - PDF)
 
 **This page was last updated on**
 
-29/09/2026
+08/10/2026
 
 ## Share this page

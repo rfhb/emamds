@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-17 10:36:05
-document_pages: 145
+document_datetime: 2026-10-07 14:57:26
+document_pages: 147
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/imbruvica-epar-product-information_en.pdf
 document_name: imbruvica-epar-product-information_en.pdf
 version: success
-processing_time: 81.3902
-conversion_datetime: 2026-02-21 12:42:08.598091
+processing_time: 72.3432889
+conversion_datetime: 2026-10-10 12:13:52.06922
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,13 +36,13 @@ For the full list of excipients, see section 6.1.
 
 Hard capsule (capsule).
 
-White opaque, hard capsule of 22 mm in length, marked with 'ibr 140 mg' in black ink.
+White opaque, hard capsule of 22 mm in length, marked with \"ibr 140 mg\" in black ink.
 
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-IMBRUVICA in combination with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone (IMBRUVICA + R-CHOP) alternating with R-DHAP (or R-DHAOx) without IMBRUVICA, followed by IMBRUVICA monotherapy, is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma (MCL) who would be eligible for autologous stem cell transplantation (ASCT).
+IMBRUVICA in combination with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone (IMBRUVICA + R-CHOP) alternating with R-DHAP (or R-DHAOx) without IMBRUVICA, followed by IMBRUVICAmonotherapy, is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma (MCL) who would be eligible for autologous stem cell transplantation (ASCT).
 
 IMBRUVICA as a single agent is indicated for the treatment of adult patients with relapsed or refractory MCL.
 
@@ -56,9 +56,7 @@ IMBRUVICA as a single agent is indicated for the treatment of adult patients wit
 
 Treatment with this medicinal product should be initiated and supervised by a physician experienced in the use of anticancer medicinal products.
 
-## Posology
-
-## MCL
+## Posology MCL
 
 Treatment of adult patients with previously untreated MCL
 
@@ -71,7 +69,7 @@ Table 1: IMBRUVICA dosing schedule for previously untreated MCL
 | Treatment   | Cycle number   | Treatment                              | IMBRUVICA           |
 |-------------|----------------|----------------------------------------|---------------------|
 | Part I *    | 1, 3, 5        | IMBRUVICA in combination with R-CHOP § | On days 1-19        |
-| Part I *    | 2, 4, 6        | R-DHAP # §                             | Without IMBRUVICA   |
+| Part I *    | 2, 4, 6        | R-DHAP #§                              | Without IMBRUVICA   |
 | Part II ±   |                | IMBRUVICA                              | Daily for 24 Months |
 
 Treatment of adult patients with relapsed or refractory MCL
@@ -100,29 +98,31 @@ IMBRUVICA therapy should be withheld for any new onset or worsening grade 2 card
 
 Recommended dose modifications for non-cardiac events are described below:
 
-| Events †                                         | Toxicity occurrence   | MCLdose modification after recovery   | CLL/WM dose modification after recovery   |
-|--------------------------------------------------|-----------------------|---------------------------------------|-------------------------------------------|
-| Grade 3 or 4 non-haematological toxicities       | First *               | restart at 560 mg daily               | restart at 420 mg daily                   |
-| Grade 3 or 4 neutropenia with infection or fever | Second                | restart at 420 mg daily               | restart at 280 mg daily                   |
-| Grade 4 haematological                           | Third                 | restart at 280 mg daily               | restart at 140 mg daily                   |
-| toxicities                                       | Fourth                | discontinue IMBRUVICA                 | discontinue IMBRUVICA                     |
+| Events †                                   | Toxicity occurrence   | MCL dose modification after recovery   | CLL/WM dose modification after recovery   |
+|--------------------------------------------|-----------------------|----------------------------------------|-------------------------------------------|
+| Grade 3 or 4 non-haematological toxicities | First *               | restart at 560 mg daily                | restart at 420 mg daily                   |
+| Grade 3 or 4 neutropenia with              | Second                | restart at 420 mg daily                | restart at 280 mg daily                   |
+| infection or fever Grade 4                 | Third                 | restart at 280 mg daily                | restart at 140 mg daily                   |
+| haematological toxicities                  | Fourth                | discontinue IMBRUVICA                  | discontinue IMBRUVICA                     |
 
 Recommended dose modifications for events of cardiac failure or cardiac arrhythmias are described below:
 
-| Events                                                   | Toxicity occurrence   | MCLdose modification after recovery   | CLL/WM dose modification after recovery   |
-|----------------------------------------------------------|-----------------------|---------------------------------------|-------------------------------------------|
-| Grade 2 cardiac failure                                  | First                 | restart at 420 mg daily               | restart at 280 mg daily                   |
-|                                                          | Second                | restart at 280 mg daily               | restart at 140 mg daily                   |
-|                                                          | Third                 | discontinue IMBRUVICA                 | discontinue IMBRUVICA                     |
-| Grade 3 cardiac                                          | First                 | restart at 420 mg daily †             | restart at 280 mg daily †                 |
-| arrhythmias                                              | Second                | discontinue IMBRUVICA                 | discontinue IMBRUVICA                     |
-| Grade 3 or 4 cardiac failure Grade 4 cardiac arrhythmias | First                 | discontinue IMBRUVICA                 | discontinue IMBRUVICA                     |
+| Events                                                   | Toxicity occurrence   | MCL dose modification after recovery   | CLL/WM dose modification after recovery   |
+|----------------------------------------------------------|-----------------------|----------------------------------------|-------------------------------------------|
+| Grade 2 cardiac failure                                  | First                 | restart at 420 mg daily                | restart at 280 mg daily                   |
+| Grade 2 cardiac failure                                  | Second                | restart at 280 mg daily                | restart at 140 mg daily                   |
+| Grade 2 cardiac failure                                  | Third                 | discontinue IMBRUVICA                  | discontinue IMBRUVICA                     |
+| Grade 3 cardiac arrhythmias                              | First                 | restart at 420 mg daily †              | restart at 280 mg daily †                 |
+| Grade 3 cardiac arrhythmias                              | Second                | discontinue IMBRUVICA                  | discontinue IMBRUVICA                     |
+| Grade 3 or 4 cardiac failure Grade 4 cardiac arrhythmias | First                 | discontinue IMBRUVICA                  | discontinue IMBRUVICA                     |
 
 ## Missed dose
 
 If a dose is not taken at the scheduled time, it can be taken as soon as possible on the same day with a return to the normal schedule the following day. The patient should not take extra capsules to make up the missed dose.
 
-## Special populations Elderly
+## Special populations
+
+## Elderly
 
 No specific dose adjustment is required for elderly patients (aged ≥65 years).
 
@@ -146,7 +146,7 @@ IMBRUVICA is not recommended for use in children and adolescents aged 0 to 18 ye
 
 ## Method of administration
 
-IMBRUVICA should be administered orally once daily with a glass of water approximately at the same time each day. The capsules should be swallowed whole with water and should not be opened, broken, or chewed. IMBRUVICA must not be taken with grapefruit juice or Seville oranges (see section 4.5).
+IMBRUVICA should be administered orally once daily with a glass of water approximately at the same time each day. The capsules should be swallowed whole with water and should not be opened, broken, or chewed. IMBRUVICAmust not be taken with grapefruit juice or Seville oranges (see section 4.5).
 
 ## 4.3 Contraindications
 
@@ -172,11 +172,9 @@ The mechanism for the bleeding-related events is not fully understood. Patients 
 
 ## Leukostasis
 
-Cases of leukostasis have been reported in patients treated with IMBRUVICA. A high number of circulating lymphocytes (&gt;400 000/mcL) may confer increased risk. Consider temporarily withholding
+Cases of leukostasis have been reported in patients treated with IMBRUVICA. A high number of circulating lymphocytes (&gt;400 000/mcL) may confer increased risk. Consider temporarily withholding IMBRUVICA. Patients should be closely monitored. Administer supportive care including hydration and/or cytoreduction as indicated.
 
 <div style=\"page-break-after: always\"></div>
-
-IMBRUVICA. Patients should be closely monitored. Administer supportive care including hydration and/or cytoreduction as indicated.
 
 ## Splenic rupture
 
@@ -188,7 +186,7 @@ Infections (including sepsis, neutropenic sepsis, bacterial, viral, or fungal in
 
 Cases of invasive fungal infections, including cases of Aspergillosis, Cryptococcosis and Pneumocystis jiroveci infections have been reported following the use of ibrutinib. Reported cases of invasive fungal infections have been associated with fatal outcomes.
 
-Cases of progressive multifocal leukoencephalopathy (PML) including fatal ones have been reported following the use of ibrutinib within the context of a prior or concomitant immunosuppressive therapy. Physicians should consider PML in the differential diagnosis in patients with new or worsening neurological, cognitive or behavioural signs or symptoms. If PML is suspected then appropriate diagnostic evaluations should be undertaken and treatment suspended until PML is excluded. If any doubt exists, referral to a neurologist and appropriate diagnostic measures for PML including MRI scan preferably with contrast, cerebrospinal fluid (CSF) testing for JC Viral DNA and repeat neurological assessments should be considered.
+Cases of progressive multifocal leukoencephalopathy (PML) including fatal ones have been reported following the use of ibrutinib within the context of a prior or concomitant immunosuppressive therapy (see section 4.8). Physicians should consider PML in the differential diagnosis in patients with new or worsening neurological, cognitive or behavioural signs or symptoms. If PML is suspected then appropriate diagnostic evaluations should be undertaken and treatment suspended until PML is excluded. If any doubt exists, referral to a neurologist and appropriate diagnostic measures for PML including MRI scan preferably with contrast, cerebrospinal fluid (CSF) testing for JC Viral DNA and repeat neurological assessments should be considered.
 
 ## Hepatic events
 
@@ -240,11 +238,9 @@ Cases of HLH (including fatal cases) have been reported in patients treated with
 
 ## Drug-drug interactions
 
-Co-administration of strong or moderate CYP3A4 inhibitors with IMBRUVICA may lead to increased ibrutinib exposure and consequently a higher risk for toxicity. On the contrary, co-administration of
+Co-administration of strong or moderate CYP3A4 inhibitors with IMBRUVICA may lead to increased ibrutinib exposure and consequently a higher risk for toxicity. On the contrary, co-administration of CYP3A4 inducers may lead to decreased IMBRUVICA exposure and consequently a risk for lack of efficacy. Therefore, concomitant use of IMBRUVICA with strong CYP3A4 inhibitors and strong or moderate CYP3A4 inducers should be avoided whenever possible and co-administration should only be considered when the potential benefits clearly outweigh the potential risks. Patients should be closely monitored for signs of IMBRUVICA toxicity if a CYP3A4 inhibitor must be used (see sections 4.2 and 4.5). If a CYP3A4 inducer must be used, closely monitor patients for signs of IMBRUVICA lack of efficacy.
 
 <div style=\"page-break-after: always\"></div>
-
-CYP3A4 inducers may lead to decreased IMBRUVICA exposure and consequently a risk for lack of efficacy. Therefore, concomitant use of IMBRUVICA with strong CYP3A4 inhibitors and strong or moderate CYP3A4 inducers should be avoided whenever possible and co-administration should only be considered when the potential benefits clearly outweigh the potential risks. Patients should be closely monitored for signs of IMBRUVICA toxicity if a CYP3A4 inhibitor must be used (see sections 4.2 and 4.5). If a CYP3A4 inducer must be used, closely monitor patients for signs of IMBRUVICA lack of efficacy.
 
 ## Women of childbearing potential
 
@@ -268,7 +264,7 @@ Co-administration of ketoconazole, a very strong CYP3A4 inhibitor, in 18 fasted 
 
 ## Moderate CYP3A4 inhibitors
 
-In patients with B-cell malignancies taking IMBRUVICA with food, co-administration of the CYP3A4 inhibitor erythromycin increased Cmax by 3.4-fold and AUC by 3.0-fold. If a moderate CYP3A4 inhibitor (e.g., fluconazole, erythromycin, amprenavir, aprepitant, atazanavir, ciprofloxacin, crizotinib, diltiazem, fosamprenavir, imatinib, verapamil, amiodarone and dronedarone) is indicated, reduce IMBRUVICA dose to 280 mg (two capsules) for the duration of the inhibitor use. Monitor patient closely for toxicity and follow dose modification guidance as needed (see sections 4.2 and 4.4).
+In patients with B-cell malignancies taking IMBRUVICAwith food, co-administration of the CYP3A4 inhibitor erythromycin increased Cmax by 3.4-fold and AUC by 3.0-fold. If a moderate CYP3A4 inhibitor (e.g., fluconazole, erythromycin, amprenavir, aprepitant, atazanavir, ciprofloxacin, crizotinib, diltiazem, fosamprenavir, imatinib, verapamil, amiodarone and dronedarone) is indicated, reduce IMBRUVICA dose to 280 mg (two capsules) for the duration of the inhibitor use. Monitor patient closely for toxicity and follow dose modification guidance as needed (see sections 4.2 and 4.4).
 
 ## Mild CYP3A4 inhibitors
 
@@ -280,15 +276,15 @@ Co-administration of grapefruit juice, containing CYP3A4 inhibitors, in eight he
 
 ## Agents that may decrease ibrutinib plasma concentrations
 
-Administration of IMBRUVICA with inducers of CYP3A4 can decrease ibrutinib plasma concentrations.
+Administration of IMBRUVICAwith inducers of CYP3A4 can decrease ibrutinib plasma concentrations.
 
 Co-administration of rifampicin, a strong CYP3A4 inducer, in 18 fasted healthy subjects, decreased exposure (Cmax and AUC) of ibrutinib by 92 and 90%, respectively. Avoid concomitant use of strong or moderate CYP3A4 inducers (e.g., carbamazepine, rifampicin, phenytoin). Preparations containing St. John's Wort are contraindicated during treatment with IMBRUVICA, as efficacy may be reduced. Consider alternative agents with less CYP3A4 induction. If the benefit outweighs the risk and a strong or moderate CYP3A4 inducer must be used, monitor patient closely for lack of efficacy (see sections 4.3 and 4.4). Mild inducers may be used concomitantly with IMBRUVICA, however, patients should be monitored for potential lack of efficacy.
 
-Ibrutinib has a pH dependent solubility, with lower solubility at higher pH. A lower C max was observed in fasted healthy subjects administered a single 560 mg dose of ibrutinib after taking omeprazole at 40 mg once daily for 5 days (see section 5.2). There is no evidence that the lower C max would have clinical significance, and medicinal products that increase stomach pH (e.g., proton pump inhibitors) have been used without restrictions in the pivotal clinical studies.
+Ibrutinib has a pH dependent solubility, with lower solubility at higher pH. A lower Cmax was observed in fasted healthy subjects administered a single 560 mg dose of ibrutinib after taking omeprazole at 40 mg once daily for 5 days (see section 5.2). There is no evidence that the lower Cmax would have clinical significance, and medicinal products that increase stomach pH (e.g., proton pump inhibitors) have been used without restrictions in the pivotal clinical studies.
 
 ## Agents that may have their plasma concentrations altered by ibrutinib
 
-Ibrutinib is a P-gp and breast cancer resistance protein (BCRP) inhibitor in vitro . As no clinical data are available on this interaction, it cannot be excluded that ibrutinib could inhibit intestinal P-gp and BCRP after a therapeutic dose. To minimise the potential for an interaction in the GI tract, oral narrow therapeutic range, P-gp or BCRP substrates such as digoxin or methotrexate should be taken at least 6 hours before or after IMBRUVICA. Ibrutinib may also inhibit BCRP in the liver and increase the exposure of medicinal products that undergo BCRP-mediated hepatic efflux, such as rosuvastatin.
+Ibrutinib is a P-gp and breast cancer resistance protein (BCRP) inhibitor in vitro. As no clinical data are available on this interaction, it cannot be excluded that ibrutinib could inhibit intestinal P-gp and BCRP after a therapeutic dose. To minimise the potential for an interaction in the GI tract, oral narrow therapeutic range, P-gp or BCRP substrates such as digoxin or methotrexate should be taken at least 6 hours before or after IMBRUVICA. Ibrutinib may also inhibit BCRP in the liver and increase the exposure of medicinal products that undergo BCRP-mediated hepatic efflux, such as rosuvastatin.
 
 In studies of ibrutinib (420 mg) in combination with venetoclax (400 mg) in CLL patients, an increase in venetoclax exposure (approximately 1.8-fold based on AUC) was observed compared with monotherapy data for venetoclax.
 
@@ -298,7 +294,7 @@ In a drug interaction study in patients with B-cell malignancies, a single 560 m
 
 ## Women of child-bearing potential/Contraception in females
 
-Based on findings in animals, IMBRUVICA may cause foetal harm when administered to pregnant women. Women should avoid becoming pregnant while taking IMBRUVICA and for up to 3 months after ending treatment. Therefore, women of child-bearing potential must use highly effective contraceptive measures while taking IMBRUVICA and for three months after stopping treatment.
+Based on findings in animals, IMBRUVICAmay cause foetal harm when administered to pregnant women. Women should avoid becoming pregnant while taking IMBRUVICA and for up to 3 months after ending treatment. Therefore, women of child-bearing potential must use highly effective contraceptive measures while taking IMBRUVICA and for three months after stopping treatment.
 
 ## Pregnancy
 
@@ -336,11 +332,12 @@ The safety profile is based on pooled data from 1 981 patients treated with IMBR
 
 Table 2: Adverse reactions reported in clinical studies or during post marketing surveillance in patients with B-cell malignancies †
 
-| System organ class          | Frequency (All grades)   | Adverse reactions                                                                                          | All Grades (%)   | Grade ≥3 (%)   |
-|-----------------------------|--------------------------|------------------------------------------------------------------------------------------------------------|------------------|----------------|
-| Infections and infestations | Very common              | Pneumonia *# Upper respiratory tract infection Skin infection *                                            | 12 21 15         | 7 1 2          |
-| Infections and infestations | Common                   | Sepsis *# Urinary tract infection Sinusitis *                                                              | 3 9 9            | 3 1 1          |
-| Infections and infestations | Uncommon                 | Cryptococcal infections * Pneumocystis infections * # Aspergillus infections * Hepatitis B reactivation @# | <1 <1 <1 <1      | 0 <1 <1 <1     |
+| System organ class          | Frequency (All grades)   | Adverse reactions                                                              | All Grades (%)   | Grade ≥3 (%)   |
+|-----------------------------|--------------------------|--------------------------------------------------------------------------------|------------------|----------------|
+| Infections and infestations | Very common              | Pneumonia *# Upper respiratory tract infection Skin infection *                | 12 21 15         | 7 1 2          |
+| Infections and infestations | Common                   | Sepsis *# Urinary tract infection Sinusitis *                                  | 3 9 9            | 3 1 1          |
+| Infections and infestations | Uncommon                 | Cryptococcal infections * Pneumocystis infections * # Aspergillus infections * | <1 <1 <1         | 0 <1 <1        |
+| Infections and infestations | Rare                     | Hepatitis B reactivation @ # Progressive multifocal leukoencephalopathy #      | <1 <1            | <1 <1          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -349,7 +346,7 @@ Table 2: Adverse reactions reported in clinical studies or during post marketing
 | Blood and lymphatic system disorders                                  | Very common | Neutropenia * Thrombocytopenia * Lymphocytosis *                          | 39 29 15 | 31 8 11   |
 | Blood and lymphatic system disorders                                  | Common      | Febrile neutropenia Leukocytosis                                          | 4 4      | 4 4       |
 | Blood and lymphatic system disorders                                  | Rare        | Leukostasis syndrome                                                      | <1       | <1        |
-| Immune system disorders                                               | Common      | Interstitial lung disease *,#                                             | 2        | <1        |
+| Immune system disorders                                               | Common      | Interstitial lung disease * ,#                                            | 2        | <1        |
 | Metabolism and nutrition                                              | Common      | Hyperuricaemia                                                            | 9        | 1         |
 | disorders                                                             | Uncommon    | Tumour lysis syndrome                                                     | 1        | 1         |
 | Nervous system disorders                                              | Very common | Dizziness Headache                                                        | 12 19    | <1 1      |
@@ -357,89 +354,88 @@ Table 2: Adverse reactions reported in clinical studies or during post marketing
 | Nervous system disorders                                              | Uncommon    | Cerebrovascular accident # Transient ischaemic attack Ischaemic stroke #  | <1 <1 <1 | <1 <1 <1  |
 | Eye disorders                                                         | Common      | Vision blurred                                                            | 6        | 0         |
 | Eye disorders                                                         | Uncommon    | Eye haemorrhage ‡ Uveitis*                                                | <1 <1    | 0 0       |
-| Cardiac disorders                                                     | Common      | Cardiac failure *, # Atrial fibrillation                                  | 2 8      | 1 4       |
-| Cardiac disorders                                                     | Uncommon    | Ventricular tachyarrhythmia *,# Cardiac arrest #                          | 1 <1     | <1 <1     |
+| Cardiac disorders                                                     | Common      | Cardiac failure * , # Atrial fibrillation                                 | 2 8      | 1 4       |
+| Cardiac disorders                                                     | Uncommon    | Ventricular tachyarrhythmia * ,# Cardiac arrest #                         | 1 <1     | <1 <1     |
 | Vascular disorders                                                    | Very common | Haemorrhage *# Bruising * Hypertension *                                  | 35 27 18 | 1 <1 8    |
 | Vascular disorders                                                    | Common      | Epistaxis Petechiae                                                       | 9 7      | <1 0      |
 | Vascular disorders                                                    | Uncommon    | Subdural haematoma #                                                      | 1        | <1        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Gastrointestinal disorders                           | Very common   | Diarrhoea Vomiting Stomatitis * Nausea Constipation Dyspepsia                               | 47 15 17 31 16 11   | 4 1 1 1 <1 <1   |
-|------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------|---------------------|-----------------|
-| Hepatobiliary disorders                              | Uncommon      | Hepatic failure *,#                                                                         | <1                  | <1              |
-| Skin and subcutaneous tissue                         | Very common   | Rash *                                                                                      | 34                  | 3               |
-| disorders                                            | Common        | Urticaria Erythema Onychoclasis                                                             | 1 3 4               | <1 <1 0         |
-|                                                      | Uncommon      | Angioedema Panniculitis * Neutrophilic dermatoses * Pyogenic granuloma Cutaneous vasculitis | <1 <1 <1 <1 <1      | <1 <1 <1 0 0    |
-|                                                      | Rare          | Stevens-Johnson syndrome                                                                    | <1                  | <1              |
-| Musculoskeletal and connective tissue disorders      | Very common   | Arthralgia Muscle spasms Musculoskeletal pain *                                             | 24 15 36            | 2 <1 3          |
-| Renal and urinary disorders                          | Common        | Acute kidney injury #                                                                       | <2                  | <1              |
-| General disorders and administration site conditions | Very common   | Pyrexia Oedema peripheral                                                                   | 19 16               | 1 1             |
-| Investigations                                       | Very common   | Blood creatinine increased                                                                  | 10                  | <1              |
+| Respiratory, thoracic and mediastinal disorders      | Very common   | Cough *                                                                                     | 24                | <1            |
+|------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------|-------------------|---------------|
+| Gastrointestinal disorders                           | Very common   | Diarrhoea Vomiting Stomatitis * Nausea Constipation Dyspepsia                               | 47 15 17 31 16 11 | 4 1 1 1 <1 <1 |
+| Hepatobiliary disorders                              | Uncommon      | Hepatic failure * ,#                                                                        | <1                | <1            |
+| Skin and subcutaneous tissue disorders               | Very common   | Rash *                                                                                      | 34                | 3             |
+| Skin and subcutaneous tissue disorders               | Common        | Urticaria Erythema Onychoclasis                                                             | 1 3 4             | <1 <1 0       |
+| Skin and subcutaneous tissue disorders               | Uncommon      | Angioedema Panniculitis * Neutrophilic dermatoses * Pyogenic granuloma Cutaneous vasculitis | <1 <1 <1 <1 <1    | <1 <1 <1 0 0  |
+| Skin and subcutaneous tissue disorders               | Rare          | Stevens-Johnson syndrome                                                                    | <1                | <1            |
+| Musculoskeletal and connective tissue disorders      | Very common   | Arthralgia Muscle spasms Musculoskeletal pain *                                             | 24 15 36          | 2 <1 3        |
+| Renal and urinary disorders                          | Common        | Acute kidney injury #                                                                       | <2                | <1            |
+| General disorders and administration site conditions | Very common   | Pyrexia Oedema peripheral                                                                   | 19 16             | 1 1           |
+| Investigations                                       | Very common   | Blood creatinine increased                                                                  | 10                | <1            |
 
-## Summary for patients with previously untreated MCL who were eligible for ASCT
-
-The safety profile is based on data from 265 patients (in the IMBRUVICA arm) treated with IMBRUVICA in the phase 3 TRIANGLE study. Patients received IMBRUVICA at 560 mg once daily according to the TRIANGLE treatment schedule (see section 5.1). The median treatment duration was 28.5 months in the IMBRUVICA arm.
+Summary for patients with previously untreated MCL who were eligible for ASCT The safety profile is based on data from 265 patients (in the IMBRUVICA arm) treated with IMBRUVICA in the phase 3 TRIANGLE study. Patients received IMBRUVICA at 560 mg once daily according to the TRIANGLE treatment schedule (see section 5.1). The median treatment duration was 28.5 months in the IMBRUVICA arm.
 
 Table 3: Adverse reactions reported in the IMBRUVICA arm of the TRIANGLE Study †
 
-|                                                                     |                        | N=265                             | N=265          | N=265        |
-|---------------------------------------------------------------------|------------------------|-----------------------------------|----------------|--------------|
-| System Organ Class                                                  | Frequency (All Grades) | Adverse Reactions                 | All Grades (%) | Grade ≥3 (%) |
-| Infections and infestations                                         | Very common            | Pneumonia* #                      | 16             | 9            |
-| Infections and infestations                                         |                        | Skin infection*                   | 12             | 3            |
-| Infections and infestations                                         | Common                 | Upper respiratory tract infection | 6              | <1           |
-| Infections and infestations                                         |                        | Sepsis*                           | 2              | 2            |
-| Infections and infestations                                         |                        | Urinary tract infection           | 6              | <1           |
-| Infections and infestations                                         |                        | Sinusitis*                        | 6              | 1            |
-| Infections and infestations                                         | Uncommon               | Aspergillus infections*           | 1              | <1           |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Common                 | Non-Melanoma skin cancer*         | 1              | <1           |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) |                        | Basal cell carcinoma              | 1              | <1           |
-|                                                                     | Very common            | Thrombocytopenia*                 | 69             | 61           |
-|                                                                     |                        | Neutropenia*                      | 63             | 60           |
+| System Organ Class          | Frequency (All Grades)   | N=265 - Adverse Reactions         |   N=265 - All Grades (%) | N=265 - Grade ≥3 (%)   |
+|-----------------------------|--------------------------|-----------------------------------|--------------------------|------------------------|
+| Infections and infestations | Very common              | Pneumonia* #                      |                       16 | 9                      |
+| Infections and infestations | Very common              | Skin infection*                   |                       12 | 3                      |
+| Infections and infestations | Common                   | Upper respiratory tract infection |                        6 | <1                     |
+| Infections and infestations | Common                   | Sepsis*                           |                        2 | 2                      |
+| Infections and infestations | Common                   | Urinary tract infection           |                        6 | <1                     |
+| Infections and infestations | Common                   | Sinusitis*                        |                        6 | 1                      |
+| Infections and infestations | Uncommon                 | Aspergillus infections*           |                        1 | <1                     |
+|                             | Common                   | Non-Melanoma skin cancer*         |                        1 | <1                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| Blood and                                                        |                                                 | Febrile neutropenia                             | 14                                              | 14                                              |
-|------------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| lymphatic system disorders                                       | Common                                          | Leukocytosis                                    | 3                                               | 1                                               |
-| Immune system disorders                                          | Common                                          | Interstitial lung disease*                      | 5                                               | 1                                               |
-| Metabolism and nutrition disorders                               | Common                                          | Hyperuricaemia                                  | 8                                               | 3                                               |
-| Metabolism and nutrition disorders                               | Common                                          | Tumour lysis syndrome*                          | 3                                               | 3                                               |
-| Nervous system disorders                                         | Very common                                     | Peripheral neuropathy*                          | 35                                              | 3                                               |
-| Nervous system disorders                                         | Very common                                     | Headache                                        | 11                                              | 1                                               |
-| Nervous system disorders                                         | Common                                          | Dizziness                                       | 6                                               | <1                                              |
-| Nervous system disorders                                         | Uncommon                                        | Transient ischaemic attack                      | 1                                               | 0                                               |
-| Eye disorders                                                    | Uncommon                                        | Vision blurred                                  | 1                                               | 0                                               |
-| Eye disorders                                                    | Uncommon                                        | Eye haemorrhage                                 | <1                                              | 0                                               |
-| Cardiac disorders                                                | Common                                          | Atrial fibrillation                             | 10                                              | 4                                               |
-| Cardiac disorders                                                | Common                                          | Cardiac failure*                                | 2                                               | 0                                               |
-| Vascular disorders                                               | Very common                                     | Haemorrhage*                                    | 14                                              | 2                                               |
-| Vascular disorders                                               | Very common                                     | Hypertension*                                   | 14                                              | 5                                               |
-| Vascular disorders                                               | Common                                          | Bruising*                                       | 8                                               | 1                                               |
-| Vascular disorders                                               | Common                                          | Epistaxis                                       | 6                                               | 1                                               |
-| Vascular disorders                                               | Common                                          | Petechiae                                       | 3                                               | 0                                               |
-| Gastrointestinal disorders                                       | Very common                                     | Nausea                                          | 32                                              | 4                                               |
-| Gastrointestinal disorders                                       | Very common                                     | Diarrhoea                                       | 28                                              | 5                                               |
-| Gastrointestinal disorders                                       | Very common                                     | Vomiting                                        | 18                                              | 4                                               |
-| Gastrointestinal disorders                                       | Very common                                     | Stomatitis*                                     | 11                                              | 2                                               |
-| Gastrointestinal disorders                                       | Very common                                     | Constipation                                    | 17                                              | <1                                              |
-| Gastrointestinal disorders                                       | Common                                          | Dyspepsia                                       | 8                                               | 0                                               |
-| Skin and subcutaneous tissue disorders                           | Very common                                     | Rash*                                           | 23                                              | 2                                               |
-| Skin and subcutaneous tissue disorders                           | Common                                          | Erythema                                        | 5                                               | 0                                               |
-| Skin and subcutaneous tissue disorders                           | Common                                          | Onychoclasis                                    | 2                                               | 0                                               |
-| Skin and subcutaneous tissue disorders                           | Uncommon                                        | Urticaria                                       | <1                                              | 0                                               |
-| Skin and subcutaneous tissue disorders                           | Uncommon                                        | Angioedema                                      | 1                                               | 0                                               |
-| Skin and subcutaneous tissue disorders                           | Uncommon                                        | Cutaneous vasculitis                            | <1                                              | 0                                               |
-| Skin and subcutaneous tissue disorders                           | Uncommon                                        | Panniculitis*                                   | 1                                               | 0                                               |
-| Musculoskeletal and connective tissue disorders                  | Very common Common                              | Musculoskeletal pain*                           | 19                                              | 2                                               |
-| Musculoskeletal and connective tissue disorders                  | Very common Common                              | Muscle spasms                                   | 9                                               | 1                                               |
-| Musculoskeletal and connective tissue disorders                  | Very common Common                              | Arthralgia                                      | 8                                               | 1                                               |
-| Renal and urinary disorders                                      | Very common                                     | Acute kidney injury                             | 11                                              | 5                                               |
-| General disorders and administration                             | Very common                                     | Pyrexia                                         | 22                                              | 2                                               |
-| site conditions                                                  | Common                                          | Oedema peripheral                               | 5                                               | 0                                               |
-| Investigations Very common                                       | Investigations Very common                      | Blood creatinine increased                      | 16                                              | 1                                               |
-| * Terms required grouping. # Includes events with fatal outcome. | Frequencies are rounded to the nearest integer. | Frequencies are rounded to the nearest integer. | Frequencies are rounded to the nearest integer. | Frequencies are rounded to the nearest integer. |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps)   |                                                              | Basal cell carcinoma                                         | 1                                                            | <1                                                           |
+|-----------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| Blood and lymphatic system disorders                                  | Very common                                                  | Thrombocytopenia*                                            | 69                                                           | 61                                                           |
+| Blood and lymphatic system disorders                                  | Very common                                                  | Neutropenia*                                                 | 63                                                           | 60                                                           |
+| Blood and lymphatic system disorders                                  | Very common                                                  | Febrile neutropenia                                          | 14                                                           | 14                                                           |
+| Blood and lymphatic system disorders                                  | Common                                                       | Leukocytosis                                                 | 3                                                            | 1                                                            |
+| Immune system disorders                                               | Common                                                       | Interstitial lung disease*                                   | 5                                                            | 1                                                            |
+| Metabolism and nutrition disorders                                    | Common                                                       | Hyperuricaemia                                               | 8                                                            | 3                                                            |
+| Metabolism and nutrition disorders                                    | Common                                                       | Tumour lysis syndrome*                                       | 3                                                            | 3                                                            |
+| Nervous system disorders                                              | Very common                                                  | Peripheral neuropathy*                                       | 35                                                           | 3                                                            |
+| Nervous system disorders                                              | Very common                                                  | Headache                                                     | 11                                                           | 1                                                            |
+| Nervous system disorders                                              | Common                                                       | Dizziness                                                    | 6                                                            | <1                                                           |
+| Nervous system disorders                                              | Uncommon                                                     | Transient ischaemic attack                                   | 1                                                            | 0                                                            |
+| Eye disorders                                                         | Uncommon                                                     | Vision blurred                                               | 1                                                            | 0                                                            |
+| Eye disorders                                                         | Uncommon                                                     | Eye haemorrhage                                              | <1                                                           | 0                                                            |
+| Cardiac disorders                                                     | Common                                                       | Atrial fibrillation                                          | 10                                                           | 4                                                            |
+| Cardiac disorders                                                     | Common                                                       | Cardiac failure*                                             | 2                                                            | 0                                                            |
+| Vascular disorders                                                    | Very common                                                  | Haemorrhage*                                                 | 14                                                           | 2                                                            |
+| Vascular disorders                                                    | Very common                                                  | Hypertension*                                                | 14                                                           | 5                                                            |
+| Vascular disorders                                                    | Common                                                       | Bruising*                                                    | 8                                                            | 1                                                            |
+| Vascular disorders                                                    | Common                                                       | Epistaxis                                                    | 6                                                            | 1                                                            |
+| Vascular disorders                                                    | Common                                                       | Petechiae                                                    | 3                                                            | 0                                                            |
+| Gastrointestinal disorders                                            | Very common                                                  | Nausea                                                       | 32                                                           | 4                                                            |
+| Gastrointestinal disorders                                            | Very common                                                  | Diarrhoea                                                    | 28                                                           | 5                                                            |
+| Gastrointestinal disorders                                            | Very common                                                  | Vomiting                                                     | 18                                                           | 4                                                            |
+| Gastrointestinal disorders                                            | Very common                                                  | Stomatitis*                                                  | 11                                                           | 2                                                            |
+| Gastrointestinal disorders                                            | Very common                                                  | Constipation                                                 | 17                                                           | <1                                                           |
+| Gastrointestinal disorders                                            | Common                                                       | Dyspepsia                                                    | 8                                                            | 0                                                            |
+| Skin and subcutaneous tissue disorders                                | Very common                                                  | Rash*                                                        | 23                                                           | 2                                                            |
+| Skin and subcutaneous tissue disorders                                | Common                                                       | Erythema                                                     | 5                                                            | 0                                                            |
+| Skin and subcutaneous tissue disorders                                | Common                                                       | Onychoclasis                                                 | 2                                                            | 0                                                            |
+| Skin and subcutaneous tissue disorders                                | Uncommon                                                     | Urticaria                                                    | <1                                                           | 0                                                            |
+| Skin and subcutaneous tissue disorders                                | Uncommon                                                     | Angioedema                                                   | 1                                                            | 0                                                            |
+| Skin and subcutaneous tissue disorders                                | Uncommon                                                     | Cutaneous vasculitis                                         | <1                                                           | 0                                                            |
+| Skin and subcutaneous tissue disorders                                | Uncommon                                                     | Panniculitis*                                                | 1                                                            | 0                                                            |
+| Musculoskeletal and connective tissue disorders                       | Very common                                                  | Musculoskeletal pain*                                        | 19                                                           | 2                                                            |
+| Musculoskeletal and connective tissue disorders                       | Common                                                       | Muscle spasms                                                | 9                                                            | 1                                                            |
+| Musculoskeletal and connective tissue disorders                       | Common                                                       | Arthralgia                                                   | 8                                                            | 1                                                            |
+| Renal and urinary disorders                                           | Very common                                                  | Acute kidney injury                                          | 11                                                           | 5                                                            |
+| General disorders and administration site conditions                  | Very common                                                  | Pyrexia                                                      | 22                                                           | 2                                                            |
+| General disorders and administration site conditions                  | Common                                                       | Oedema peripheral                                            | 5                                                            | 0                                                            |
+| Investigations #                                                      | Very common                                                  | Blood creatinine increased                                   | 16                                                           | 1                                                            |
+| † Frequencies are rounded to the nearest integer. *                   | † Frequencies are rounded to the nearest integer. *          | † Frequencies are rounded to the nearest integer. *          | † Frequencies are rounded to the nearest integer. *          | † Frequencies are rounded to the nearest integer. *          |
+| Terms required grouping. Includes events with fatal outcome.          | Terms required grouping. Includes events with fatal outcome. | Terms required grouping. Includes events with fatal outcome. | Terms required grouping. Includes events with fatal outcome. | Terms required grouping. Includes events with fatal outcome. |
 
 ## Description of selected adverse reactions
 
@@ -477,11 +473,9 @@ Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitors, ATC
 
 ## Mechanism of action
 
-Ibrutinib is a potent, small-molecule inhibitor of Bruton's tyrosine kinase (BTK). Ibrutinib forms a covalent bond with a cysteine residue (Cys-481) in the BTK active site, leading to sustained inhibition of BTK enzymatic activity. BTK, a member of the Tec kinase family, is an important signalling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways. The BCR pathway is implicated in the pathogenesis of several B-cell malignancies, including MCL, diffuse large B-cell lymphoma (DLBCL), follicular lymphoma, and CLL. BTK's pivotal role in signalling through the
+Ibrutinib is a potent, small-molecule inhibitor of Bruton's tyrosine kinase (BTK). Ibrutinib forms a covalent bond with a cysteine residue (Cys-481) in the BTK active site, leading to sustained inhibition of BTK enzymatic activity. BTK, a member of the Tec kinase family, is an important signalling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways. The BCR pathway is implicated in the pathogenesis of several B-cell malignancies, including MCL, diffuse large B-cell lymphoma (DLBCL), follicular lymphoma, and CLL. BTK's pivotal role in signalling through the B-cell surface receptors results in activation of pathways necessary for B-cell trafficking, chemotaxis and adhesion. Preclinical studies have shown that ibrutinib effectively inhibits malignant B-cell proliferation and survival in vivo as well as cell migration and substrate adhesion in vitro.
 
 <div style=\"page-break-after: always\"></div>
-
-B-cell surface receptors results in activation of pathways necessary for B-cell trafficking, chemotaxis and adhesion. Preclinical studies have shown that ibrutinib effectively inhibits malignant B-cell proliferation and survival in vivo as well as cell migration and substrate adhesion in vitro .
 
 In preclinical tumour models, the combination of ibrutinib and venetoclax resulted in increased cellular apoptosis and anti-tumour activity compared to either agent alone. BTK inhibition by ibrutinib increases CLL cell dependence on BCL-2, a cell survival pathway, while venetoclax inhibits BCL-2 leading to apoptosis.
 
@@ -497,7 +491,7 @@ In an in vitro study, ibrutinib demonstrated inhibition of collagen-induced plat
 
 ## Effect on QT/QTc interval and cardiac electrophysiology
 
-The effect of ibrutinib on the QTc interval was evaluated in 20 healthy male and female subjects in a randomised, double-blind thorough QT study with placebo and positive controls. At a supratherapeutic dose of 1 680 mg, ibrutinib did not prolong the QTc interval to any clinically relevant extent. The largest upper bound of the 2-sided 90% CI for the baseline adjusted mean differences between ibrutinib and placebo was below 10 ms. In this same study, a concentration dependent shortening in the QTc interval was observed (-5.3 ms [90% CI: -9.4, -1.1] at a Cmax of 719 ng/mL following the supratherapeutic dose of 1 680 mg).
+The effect of ibrutinib on the QTc interval was evaluated in 20 healthy male and female subjects in a randomised, double-blind thorough QT study with placebo and positive controls. At a supratherapeutic dose of 1 680 mg, ibrutinib did not prolong the QTc interval to any clinically relevant extent. The largest upper bound of the 2-sided 90%CI for the baseline adjusted mean differences between ibrutinib and placebo was below 10 ms. In this same study, a concentration dependent shortening in the QTc interval was observed (-5.3 ms [90%CI: -9.4, -1.1] at a Cmax of 719 ng/mL following the supratherapeutic dose of 1 680 mg).
 
 ## Clinical efficacy and safety
 
@@ -507,15 +501,18 @@ Combination treatment in patients previously untreated for MCL who were eligible
 
 The safety and efficacy of IMBRUVICA in patients with previously untreated MCL and who were eligible for autologous stem cell transplantation (ASCT) were evaluated in a randomised, phase 3, multi-centre, open-label, three arm study (TRIANGLE). The TRIANGLE study randomised 870 patients in a 1:1:1 ratio to receive either:
 
-- -IMBRUVICA Arm: IMBRUVICA 560 mg daily (Days 1-19) in combination with R-CHOP for three 21-day cycles (Cycles 1, 3, 5) alternating with three 21-day cycles of R-DHAP (Cycles 2, 4, 6) as induction therapy followed by 2 years IMBRUVICA 560 mg daily;
-- -IMBRUVICA + ASCT Arm: IMBRUVICA 560 mg daily (Days 1-19) in combination with R-CHOP for three 21-day cycles (Cycles 1, 3, 5) alternating with three 21-day cycles of R-DHAP (Cycles 2, 4, 6) as induction therapy followed by high-dose chemotherapy and ASCT followed by 2 years IMBRUVICA 560 mg daily;
-- -ASCT Arm: R-CHOP for three 21-day cycles (Cycles 1, 3, 5) alternating with three 21-day cycles of R-DHAP (Cycles 2, 4, 6) as induction therapy followed by high-dose chemotherapy and ASCT (Control Arm).
+- IMBRUVICAArm: IMBRUVICA 560 mg daily (Days 1-19) in combination with R-CHOP for three 21-day cycles (Cycles 1, 3, 5) alternating with three 21-day cycles of R-DHAP (Cycles 2, 4, 6) as induction therapy followed by 2 years IMBRUVICA 560 mg daily;
+- IMBRUVICA + ASCT Arm: IMBRUVICA 560 mg daily (Days 1-19) in combination with R-CHOP for three 21-day cycles (Cycles 1, 3, 5) alternating with three 21-day cycles of R-DHAP
 
 <div style=\"page-break-after: always\"></div>
 
+(Cycles 2, 4, 6) as induction therapy followed by high-dose chemotherapy and ASCT followed by 2 years IMBRUVICA 560 mg daily;
+
+- ASCT Arm: R-CHOP for three 21-day cycles (Cycles 1, 3, 5) alternating with three 21-day cycles of R-DHAP (Cycles 2, 4, 6) as induction therapy followed by high-dose chemotherapy and ASCT (Control Arm).
+
 The efficacy analyses were conducted based on 809 patients in the full analysis set (FAS) population using 3 pairwise comparisons of the 3 treatment arms: IMBRUVICA + ASCT vs. ASCT; IMBRUVICA vs. ASCT; and IMBRUVICA + ASCT vs. IMBRUVICA. The FAS population included patients that have either provided explicit permission for their data to be included as per EU General Data Protection Regulation or were deceased. The results presented are from the IMBRUVICA (N=265) arm and the ASCT (N=268) arm, only.
 
-Induction with R-CHOP (rituximab 375 mg/m 2 on Day 0 or 1, cyclophosphamide 750 mg/m 2 on Day 1, doxorubicin 50 mg/m 2 on Day 1, vincristine 1.4 mg/m 2 up to maximum of 2 mg on Day 1, and prednisone 100 mg on days 1-5) alternating with R-DHAP (rituximab 375 mg/m 2 on Day 0 or 1, dexamethasone 40 mg on days 1-4, Ara-C 2x 2 g/m 2 every 12 hours on Day 2, cisplatin 100 mg/m 2 (alternatively oxaliplatin 130 mg/m²) on Day 1, and G-CSF 5 µg/kg from Day 6 until recovery of WBC) was the same in all 3 treatment arms. Rituximab maintenance therapy was allowed in all treatment groups (59.7% in the IMBRUVICA arm; 62.5% in the ASCT arm) according to national treatment guidelines.
+Induction with R-CHOP (rituximab 375 mg/m 2 on Day 0 or 1, cyclophosphamide 750 mg/m 2 on Day 1, doxorubicin 50 mg/m 2 on Day 1, vincristine 1.4 mg/m 2 up to maximum of 2 mg on Day 1, and prednisone 100 mg on days 1-5) alternating with R-DHAP (rituximab 375 mg/m 2 on Day 0 or 1, dexamethasone 40 mg on days 1-4, Ara-C 2x 2 g/m 2 every 12 hours on Day 2, cisplatin 100 mg/m 2 (alternatively oxaliplatin 130 mg/m²) on Day 1, and G-CSF 5 µg/kg fromDay 6 until recovery of WBC) was the same in all 3 treatment arms. Rituximab maintenance therapy was allowed in all treatment groups (59.7% in the IMBRUVICA arm; 62.5% in the ASCT arm) according to national treatment guidelines.
 
 The median age was 57 years (range: 27 to 65 years), 78% were male and 99% were Caucasian. Ninety-eight percent of patients had a baseline ECOG performance status of 0 or 1. At baseline, 86% had Ann Arbor Stage IV disease, and 57%, 28%, and 15% of patients had low, intermediate, and high-risk score by MCL International Prognostic Index (MIPI), respectively. Of the patients 11.6% had blastoid or pleomorphic histology. P53 expression was assessed in 64.6% of patients; expression &gt;50% was present in 14.1% of these patients. Ki-67 proliferation index was assessed in 88.3% of patients and 32.9% of these patients had a proliferation index of &gt;30%.
 
@@ -550,23 +547,27 @@ FFS=failure-free survival; NE=not estimable; HR=hazard ratio (based on unstratif
 
 § Presented results are derived from descriptive analysis
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 1: Kaplan-Meier Curve of European MCL Network Assessed Failure-free Survival in TRIANGLE (FAS population)*
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
+
+*
+
+I=IMBRUVICA; A=ASCT
 
 Figure 2: Kaplan-Meier Curve of OS § in TRIANGLE (FAS population)*
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
+
+* I=IMBRUVICA; A=ASCT
+
+§ Presented results are derived from descriptive analysis
 
 ## Patients with MCL who received at least one prior therapy Single agent
 
 The safety and efficacy of IMBRUVICA in patients with relapsed or refractory MCL were evaluated in a single open-label, multi-centre phase 2 study (PCYC-1104-CA) of 111 patients. The median age was 68 years (range: 40 to 84 years), 77% were male and 92% were Caucasian. Patients with ECOG performance status of 3 or greater were excluded from the study. The median time since diagnosis was 42 months, and median number of prior treatments was 3 (range: 1 to 5 treatments), including 35% with prior high-dose chemotherapy, 43% with prior bortezomib, 24% with prior lenalidomide, and 11% with prior autologous or allogeneic stem cell transplant. At baseline, 39% of patients had bulky disease (≥5 cm), 49% had high-risk score by Simplified MCL International Prognostic Index (MIPI), and 72% had advanced disease (extranodal and/or bone marrow involvement) at screening.
 
-IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity. Tumour response was assessed according to the revised International Working Group (IWG) for non-Hodgkin's lymphoma (NHL) criteria. The primary endpoint in this study was investigator-assessed overall response rate (ORR). Responses to IMBRUVICA are shown in Table 5.
+IMBRUVICAwas administered orally at 560 mg once daily until disease progression or unacceptable toxicity. Tumour response was assessed according to the revised International Working Group (IWG) for non-Hodgkin's lymphoma (NHL) criteria. The primary endpoint in this study was investigator-assessed overall response rate (ORR). Responses to IMBRUVICA are shown in Table 5.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -582,11 +583,9 @@ Table 5: ORR and DOR in patients with relapsed or refractory MCL (Study PCYC-110
 | Median time to initial response, months (range) | 1.9 (1.4-13.7)  |
 | Median time to CR, months (range)               | 5.5 (1.7-11.5)  |
 
-CI=confidence interval; CR=complete response; DOR=duration of response; ORR=overall response rate; PR=partial response; NR=not reached
-
 The efficacy data was further evaluated by an Independent Review Committee (IRC) demonstrating an ORR of 69%, with a 21% complete response (CR) rate and a 48% partial response (PR) rate. The IRC estimated median DOR was 19.6 months.
 
-The overall response to IMBRUVICA was independent of prior treatment including bortezomib and lenalidomide or underlying risk/prognostic factors, bulky disease, gender or age.
+The overall response to IMBRUVICAwas independent of prior treatment including bortezomib and lenalidomide or underlying risk/prognostic factors, bulky disease, gender or age.
 
 The safety and efficacy of IMBRUVICA were demonstrated in a randomised phase 3, open-label, multi-centre study including 280 patients with MCL who received at least one prior therapy (Study MCL3001). Patients were randomised 1:1 to receive either IMBRUVICA orally at 560 mg once daily for 21 days or temsirolimus intravenously at 175 mg on Days 1, 8, 15 of the first cycle followed by 75 mg on Days 1, 8, 15 of each subsequent 21-day cycle. Treatment on both arms continued until disease progression or unacceptable toxicity. The median age was 68 years (range, 34; 88 years), 74% were male and 87% were Caucasian. The median time since diagnosis was 43 months, and median number of prior treatments was 2 (range: 1 to 9 treatments), including 51% with prior high-dose chemotherapy, 18% with prior bortezomib, 5% with prior lenalidomide, and 24% with prior stem cell transplant. At baseline, 53% of patients had bulky disease (≥5 cm), 21% had high-risk score by Simplified MIPI, 60% had extranodal disease and 54% had bone marrow involvement at screening.
 
@@ -602,27 +601,27 @@ Table 6: Efficacy Results in patients with relapsed or refractory MCL (Study MCL
 | ORR (%)                       | 71.9                         | 40.4                         |
 | p-value                       | p<0.0001                     | p<0.0001                     |
 
-NE=not estimable; HR=hazard ratio; CI=confidence interval; ORR=overall response rate; PFS=progression-free survival a IRC evaluated.
+NE=not estimable; HR=hazard ratio; CI=confidence interval; ORR=overall response rate; PFS=progression-free survival
+
+a IRC evaluated.
 
 A smaller proportion of patients treated with ibrutinib experienced a clinically meaningful worsening of lymphoma symptoms versus temsirolimus (27% versus 52%) and time to worsening of symptoms occurred more slowly with ibrutinib versus temsirolimus (HR 0.27, p&lt;0.0001).
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 3: Kaplan-Meier Curve of PFS (ITT Population) in Study MCL3001
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
-## CLL Patients previously untreated for CLL Single agent
+## CLL Patients previously untreated for CLL
+
+Single agent
 
 A randomised, multi-centre, open-label phase 3 study (PCYC-1115-CA) of IMBRUVICA versus chlorambucil was conducted in patients with treatment-naïve CLL who were 65 years of age or older. Patients between 65 and 70 years of age were required to have at least one comorbidity that precluded the use of frontline chemo-immunotherapy with fludarabine, cyclophosphamide, and rituximab. Patients (n=269) were randomised 1:1 to receive either IMBRUVICA 420 mg daily until disease progression or unacceptable toxicity, or chlorambucil at a starting dose of 0.5 mg/kg on days 1 and 15 of each 28-day cycle for a maximum of 12 cycles, with an allowance for intrapatient dose increases up to 0.8 mg/kg based on tolerability. After confirmed disease progression, patients on chlorambucil were able to crossover to ibrutinib.
 
 The median age was 73 years (range, 65 to 90 years), 63% were male, and 91% were Caucasian. Ninety one percent of patients had a baseline ECOG performance status of 0 or 1 and 9% had an ECOG performance status of 2. The study enrolled 269 patients with CLL. At baseline, 45% had advanced clinical stage (Rai Stage III or IV), 35% of patients had at least one tumour ≥5 cm, 39% with baseline anaemia, 23% with baseline thrombocytopenia, 65% had elevated β2 microglobulin &gt;3 500 mcg/L, 47% had a CrCL &lt;60 mL/min, 20% of patients presented with del11q, 6% of patients presented with del17p/tumour protein 53 (TP53) mutation, and 44% of patients presented with unmutated immunoglobulin heavy chain variable region (IGHV).
 
-Progression-free survival (PFS) as assessed by IRC according to International Workshop on CLL (IWCLL) criteria indicated an 84% statistically significant reduction in the risk of death or progression
+Progression-free survival (PFS) as assessed by IRC according to International Workshop on CLL (IWCLL) criteria indicated an 84% statistically significant reduction in the risk of death or progression in the IMBRUVICA arm. Efficacy results for Study PCYC-1115-CA are shown in Table 7 and the Kaplan-Meier curves for PFS and OS are shown in Figures 4 and 5, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-in the IMBRUVICA arm. Efficacy results for Study PCYC-1115-CA are shown in Table 7 and the Kaplan-Meier curves for PFS and OS are shown in Figures 4 and 5, respectively.
 
 There was a statistically significant sustained platelet or haemoglobin improvement in the ITT population in favour of ibrutinib versus chlorambucil. In patients with baseline cytopenias, sustained haematologic improvement was: platelets 77.1% versus 42.9%; haemoglobin 84.3% versus 45.5% for ibrutinib and chlorambucil, respectively.
 
@@ -642,13 +641,9 @@ Table 7: Efficacy results in Study PCYC-1115-CA
 
 Figure 4: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1115-CA
 
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
 Figure 5: Kaplan-Meier Curve of OS (ITT Population) in Study PCYC-1115-CA
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
 The treatment effect of ibrutinib in Study PCYC-1115-CA was consistent across high-risk patients with del17p/TP53 mutation, del11q, and/or unmutated IGHV.
 
@@ -658,7 +653,7 @@ With median follow-up time on study of 115 months in Study PCYC-1115-CA and its 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 6: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1115-CA with 115 Months Follow-up
+Figure 6: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1115-CA with 115Months Follow-up
 
 <!-- image -->
 
@@ -684,10 +679,10 @@ Table 8: Efficacy results in Study PCYC-1130-CA
 | CR b                        | 19.5                           | 7.8                               |
 | PR c                        | 69.0                           | 65.5                              |
 
+CI=confidence interval; HR=hazard ratio; CR=complete response; PR=partial response.
+
 - a IRC evaluated.
-
-b Includes 1 patient in the IMBRUVICA+obinutuzumab arm with a complete response with incomplete marrow recovery (CRi).
-
+- b Includes 1 patient in the IMBRUVICA+obinutuzumab arm with a complete response with incomplete marrow recovery (CRi).
 - c PR=PR+nPR.
 
 Figure 7: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1130-CA
@@ -713,13 +708,17 @@ Table 9: Subgroup analysis of PFS (Study PCYC-1130-CA)
 | Unmutated IGHV                                |                                               |                                               |                                               |
 | Yes No                                        | 123 91                                        | 0.150 0.300                                   | 0.084, 0.269 0.120, 0.749                     |
 | Age                                           |                                               |                                               |                                               |
-| <65 ≥65                                       | 46 183                                        | 0.293 0.215                                   | 0.122, 0.705 0.125, 0.372                     |
+| <65                                           | 46 183                                        | 0.293 0.215                                   | 0.122, 0.705                                  |
+| ≥65                                           |                                               |                                               |                                               |
+|                                               |                                               | 0.289                                         | 0.125, 0.372                                  |
 | Bulky disease                                 |                                               |                                               |                                               |
-| <5 cm ≥5 cm                                   | 154 74                                        | 0.289 0.184                                   | 0.161, 0.521 0.085, 0.398                     |
+| <5 cm ≥5 cm                                   | 154 74                                        | 0.184                                         | 0.161, 0.521 0.085, 0.398                     |
 | Rai stage                                     |                                               |                                               |                                               |
 | 0/I/II III/IV                                 | 110 119                                       | 0.221 0.246                                   | 0.115, 0.424 0.127, 0.477                     |
 | ECOG per CRF                                  |                                               |                                               |                                               |
-| 0 1-2                                         | 110 119                                       | 0.226 0.239                                   | 0.110, 0.464 0.130, 0.438                     |
+| 0                                             |                                               | 0.226                                         | 0.110, 0.464                                  |
+|                                               | 110 119                                       | 0.239                                         |                                               |
+| 1-2                                           |                                               |                                               | 0.130, 0.438                                  |
 
 Hazard ratio based on non-stratified analysis
 
@@ -750,55 +749,45 @@ Table 10: Efficacy results in Study E1912
 | P-value a                   | 0.0007                           | 0.0007                                                     |
 | Overall Response Rate b (%) | 96.9                             | 85.7                                                       |
 
-HR = hazard ratio; NE = not evaluable
-
 Figure 8: Kaplan-Meier Curve of PFS (ITT Population) in Study E1912
 
-<!-- image -->
-
-+rituximab
-
-The treatment effect of ibrutinib was consistent across the high-risk CLL/SLL population (TP53 mutation, del11q, or unmutated IGHV), with a PFS HR of 0.23 [95% CI (0.13, 0.40)], p &lt;0.0001, as shown in Table 11. The 3-year PFS rate estimates for the high-risk CLL/SLL population were 90.4% [95% CI (85.4, 93.7)] and 60.3% [95% CI (46.2, 71.8)] in the IR and FCR arms, respectively.
+The treatment effect of ibrutinib was consistent across the high-risk CLL/SLL population (TP53 mutation, del11q, or unmutated IGHV), with a PFS HR of 0.23 [95%CI (0.13, 0.40)], p &lt;0.0001, as shown in Table 11. The 3-year PFS rate estimates for the high-risk CLL/SLL population were 90.4% [95% CI (85.4, 93.7)] and 60.3% [95% CI (46.2, 71.8)] in the IR and FCR arms, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 11: Subgroup analysis of PFS (Study E1912)
 
-|                                        | N   | Hazard Ratio   | 95% CI       |
+|                                        |   N |   Hazard Ratio | 95% CI       |
 |----------------------------------------|-----|----------------|--------------|
-| All subjects                           | 529 | 0.340          | 0.222, 0.522 |
+| All subjects                           | 529 |          0.340 | 0.222, 0.522 |
 | High risk (TP53/del11q/unmutated IGHV) |     |                |              |
-| Yes                                    | 313 | 0.231          | 0.132, 0.404 |
-| No                                     | 216 | 0.568          | 0.292, 1.105 |
+| Yes                                    | 313 |          0.231 | 0.132, 0.404 |
+| No                                     | 216 |          0.568 | 0.292, 1.105 |
 | del11q                                 |     |                |              |
-| Yes                                    | 117 | 0.199          | 0.088, 0.453 |
-| No                                     | 410 | 0.433          | 0.260, 0.722 |
+| Yes                                    | 117 |          0.199 | 0.088, 0.453 |
+| No                                     | 410 |          0.433 | 0.260, 0.722 |
 | Unmutated IGHV                         |     |                |              |
-| Yes                                    | 281 | 0.233          | 0.129, 0.421 |
-| No                                     | 112 | 0.741          | 0.276, 1.993 |
+| Yes                                    | 281 |          0.233 | 0.129, 0.421 |
+| No                                     | 112 |          0.741 | 0.276, 1.993 |
 | Bulky disease                          |     |                |              |
-| <5 cm                                  | 316 | 0.393          | 0.217, 0.711 |
-| ≥5 cm                                  | 194 | 0.257          | 0.134, 0.494 |
+| <5 cm                                  | 316 |          0.393 | 0.217, 0.711 |
+| ≥5 cm                                  | 194 |          0.257 | 0.134, 0.494 |
 | Rai stage                              |     |                |              |
-| 0/I/II                                 | 301 | 0.398          | 0.224, 0.708 |
-| III/IV                                 | 228 | 0.281          | 0.148, 0.534 |
+| 0/I/II                                 | 301 |          0.398 | 0.224, 0.708 |
+| III/IV                                 | 228 |          0.281 | 0.148, 0.534 |
 | ECOG                                   |     |                |              |
-| 0                                      | 335 | 0.242          | 0.138, 0.422 |
-| 1-2                                    | 194 | 0.551          | 0.271, 1.118 |
+| 0                                      | 335 |          0.242 | 0.138, 0.422 |
+| 1-2                                    | 194 |          0.551 | 0.271, 1.118 |
 
 Hazard ratio based on non-stratified analysis
 
 Figure 9: Kaplan-Meier Curve of OS (ITT Population) in Study E1912
 
-<!-- image -->
-
 ## Fixed duration combination therapy
 
-The safety and efficacy of fixed duration therapy with IMBRUVICA in combination with venetoclax versus chlorambucil in combination with obinutuzumab in patients with previously untreated CLL were evaluated in a randomised, open-label, phase 3 (CLL3011) study. The study enrolled patients with previously untreated CLL who were 65 years or older, and adult patients &lt;65 years of age with a CIRS score &gt;6 or CrCL ≥30 to &lt;70 mL/min. Patients with del 17p or known TP53 mutations were excluded. Patients (n=211) were randomised 1:1 to receive either IMBRUVICA in combination with
+The safety and efficacy of fixed duration therapy with IMBRUVICA in combination with venetoclax versus chlorambucil in combination with obinutuzumab in patients with previously untreated CLL were evaluated in a randomised, open-label, phase 3 (CLL3011) study. The study enrolled patients with previously untreated CLL who were 65 years or older, and adult patients &lt;65 years of age with a CIRS score &gt;6 or CrCL ≥30 to &lt;70 mL/min. Patients with del 17p or known TP53 mutations were excluded. Patients (n=211) were randomised 1:1 to receive either IMBRUVICA in combination with venetoclax or chlorambucil in combination with obinutuzumab. Patients in the IMBRUVICA plus venetoclax arm received single agent IMBRUVICA for 3 cycles followed by IMBRUVICA in combination with venetoclax for 12 cycles (including 5-week dose-titration schedule). Each cycle was 28 days. IMBRUVICA was administered at a dose of 420 mg daily. Venetoclax was administered daily, starting with 20 mg for 1 week, followed by 1 week at each dose level of 50 mg, 100 mg, and 200 mg, then the recommended daily dose of 400 mg. Patients randomised to the chlorambucil plus obinutuzumab arm received treatment for 6 cycles. Obinutuzumab was administered at a dose of 1 000 mg on Days 1, 8 and 15 in Cycle 1. In Cycles 2 to 6, 1 000 mg obinutuzumab was given on Day 1. Chlorambucil was administered at a dose of 0.5 mg/kg body weight on Days 1 and 15 of Cycles 1 to 6. Patients with confirmed progression by IWCLL criteria after completion of either fixed duration regimen could be treated with single-agent IMBRUVICA.
 
 <div style=\"page-break-after: always\"></div>
-
-venetoclax or chlorambucil in combination with obinutuzumab. Patients in the IMBRUVICA plus venetoclax arm received single agent IMBRUVICA for 3 cycles followed by IMBRUVICA in combination with venetoclax for 12 cycles (including 5-week dose-titration schedule). Each cycle was 28 days. IMBRUVICA was administered at a dose of 420 mg daily. Venetoclax was administered daily, starting with 20 mg for 1 week, followed by 1 week at each dose level of 50 mg, 100 mg, and 200 mg, then the recommended daily dose of 400 mg. Patients randomised to the chlorambucil plus obinutuzumab arm received treatment for 6 cycles. Obinutuzumab was administered at a dose of 1 000 mg on Days 1, 8 and 15 in Cycle 1. In Cycles 2 to 6, 1 000 mg obinutuzumab was given on Day 1. Chlorambucil was administered at a dose of 0.5 mg/kg body weight on Days 1 and 15 of Cycles 1 to 6. Patients with confirmed progression by IWCLL criteria after completion of either fixed duration regimen could be treated with single-agent IMBRUVICA.
 
 The median age was 71 years (range, 47 to 93 years), 58% were male, and 96% were Caucasian. All patients had a baseline ECOG performance status of 0 (35%), 1 (53%), or 2 (12%). At baseline, 18% of patients presented with CLL with del 11q and 52% with unmutated IGHV.
 
@@ -808,67 +797,50 @@ With a median follow-up time on study of 28 months, efficacy results for Study C
 
 Table 12: Efficacy results in Study CLL3011
 
-| Endpoint a                  | IMBRUVICA + Venetoclax N=106   | Chlorambucil + Obinutuzumab N=105   |
-|-----------------------------|--------------------------------|-------------------------------------|
-| Progression-Free Survival   |                                |                                     |
-| Number of events (%)        | 22 (20.8)                      | 67 (63.8)                           |
-| Median (95% CI), months     | NE (31.2, NE)                  | 21.0 (16.6, 24.7)                   |
-| HR (95% CI)                 | 0.22 (0.13, 0.36)              | 0.22 (0.13, 0.36)                   |
-| P-value b                   | <0.0001                        | <0.0001                             |
-| Complete Response Rate(%) c | 38.7                           | 11.4                                |
-| 95% CI                      | (29.4, 48.0)                   | (5.3, 17.5)                         |
-| P-value d                   | <0.0001                        | <0.0001                             |
-| Overall Response Rate (%) e | 86.8                           | 84.8                                |
-| 95% CI                      | (80.3, 93.2)                   | (77.9, 91.6)                        |
-
-a Based on IRC assessment
-
-b P-value is from stratified log-rank test
-
-c Includes 3 patients in the IMBRUVICA + venetoclax arm with a complete response with incomplete marrow recovery (CRi)
-
-d P-value is from Cochran-Mantel-Haenszel chi-square test
-
-e Overall response = CR+CRi+nPR+PR
-
-CR = complete response; CRi = complete response with incomplete marrow recovery; HR = hazard ratio; NE = not evaluable; nPR = nodular partial response; PR = partial response
-
-<div style=\"page-break-after: always\"></div>
+| Endpoint a                   | IMBRUVICA + Venetoclax N=106   | Chlorambucil + Obinutuzumab N=105   |
+|------------------------------|--------------------------------|-------------------------------------|
+| Progression-Free Survival    |                                |                                     |
+| Number of events (%)         | 22 (20.8)                      | 67 (63.8)                           |
+| Median (95% CI), months      | NE (31.2, NE)                  | 21.0 (16.6, 24.7)                   |
+| HR (95% CI)                  | 0.22 (0.13, 0.36)              | 0.22 (0.13, 0.36)                   |
+| P-value b                    | <0.0001                        | <0.0001                             |
+| Complete Response Rate (%) c | 38.7                           | 11.4                                |
+| 95% CI                       | (29.4, 48.0)                   | (5.3, 17.5)                         |
+| P-value d                    | <0.0001                        | <0.0001                             |
+| Overall Response Rate (%) e  | 86.8                           | 84.8                                |
+| 95% CI                       | (80.3, 93.2)                   | (77.9, 91.6)                        |
 
 Figure 10: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL in Study CLL3011
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
 The treatment effect of IMBRUVICA plus venetoclax was consistent across the high-risk CLL population (TP53 mutation, del 11q, or unmutated IGHV), with a PFS HR of 0.23 [95% CI (0.13, 0.41)].
 
-Overall survival data were not mature. With a median follow-up of 28 months, there was no significant difference between treatment arms with a total of 23 deaths: 11 (10.4%) in the IMBRUVICA plus venetoclax arm and 12 (11.4%) in the chlorambucil plus obinutuzumab arm with a OS HR of 1.048 [95% CI (0.454, 2.419)]. After 6 months additional follow-up, 11 (10.4%) and 16 (15.2%) deaths were reported in the IMBRUVICA plus venetoclax arm and the chlorambucil plus obinutuzumab arm, respectively with OS HR estimated at 0.760 [95% CI (0.352, 1.642]).
+Overall survival data were not mature. With a median follow-up of 28 months, there was no significant difference between treatment arms with a total of 23 deaths: 11 (10.4%) in the IMBRUVICA plus venetoclax arm and 12 (11.4%) in the chlorambucil plus obinutuzumab armwith a OS HR of 1.048 [95% CI (0.454, 2.419)]. After 6 months additional follow-up, 11 (10.4%) and 16 (15.2%) deaths were reported in the IMBRUVICA plus venetoclax arm and the chlorambucil plus obinutuzumab arm, respectively with OS HR estimated at 0.760 [95% CI (0.352, 1.642]).
 
 Table 13: Minimal residual disease negativity rates in Study CLL3011
 
-|                         | NGS Assay a                  | NGS Assay a                       | Flow cytometry b             | Flow cytometry b                  |
-|-------------------------|------------------------------|-----------------------------------|------------------------------|-----------------------------------|
-|                         | IMBRUVICA + Venetoclax N=106 | Chlorambucil + Obinutuzumab N=105 | IMBRUVICA + Venetoclax N=106 | Chlorambucil + Obinutuzumab N=105 |
-| MRDNegativity Rate      | MRDNegativity Rate           | MRDNegativity Rate                | MRDNegativity Rate           | MRDNegativity Rate                |
-| Bone marrow, n (%)      | 59 (55.7)                    | 22 (21.0)                         | 72 (67.9)                    | 24 (22.9)                         |
-| 95% CI                  | (46.2, 65.1)                 | (13.2, 28.7)                      | (59.0, 76.8)                 | (14.8, 30.9)                      |
-| P-value                 | <0.0001                      | <0.0001                           |                              |                                   |
-| Peripheral Blood, n (%) | 63 (59.4)                    | 42 (40.0)                         | 85 (80.2)                    | 49 (46.7)                         |
-| 95% CI                  | (50.1, 68.8)                 | (30.6, 49.4)                      | (72.6, 87.8)                 | (37.1, 56.2)                      |
+|                         | NGS Assay a - IMBRUVICA + Venetoclax N=106   | NGS Assay a - Chlorambucil + Obinutuzumab N=105   | Flow cytometry b - IMBRUVICA + Venetoclax N=106   | Flow cytometry b - Chlorambucil + Obinutuzumab N=105   |
+|-------------------------|----------------------------------------------|---------------------------------------------------|---------------------------------------------------|--------------------------------------------------------|
+| MRD Negativity Rate     | MRD Negativity Rate                          | MRD Negativity Rate                               | MRD Negativity Rate                               | MRD Negativity Rate                                    |
+| Bone marrow, n (%)      | 59 (55.7)                                    | 22 (21.0)                                         | 72 (67.9)                                         | 24 (22.9)                                              |
+| 95% CI                  | (46.2, 65.1)                                 | (13.2, 28.7)                                      | (59.0, 76.8)                                      | (14.8, 30.9)                                           |
+| P-value                 | <0.0001                                      | <0.0001                                           |                                                   |                                                        |
+| Peripheral Blood, n (%) | 63 (59.4)                                    | 42 (40.0)                                         | 85 (80.2)                                         | 49 (46.7)                                              |
+| 95% CI                  | (50.1, 68.8)                                 | (30.6, 49.4)                                      | (72.6, 87.8)                                      | (37.1, 56.2)                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-| MRDNegativity Rate at Three Months After Completion of Treatment   | MRDNegativity Rate at Three Months After Completion of Treatment   | MRDNegativity Rate at Three Months After Completion of Treatment   | MRDNegativity Rate at Three Months After Completion of Treatment   | MRDNegativity Rate at Three Months After Completion of Treatment   |
-|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
-| Bone marrow, n (%)                                                 | 55 (51.9)                                                          | 18 (17.1)                                                          | 60 (56.6)                                                          | 17 (16.2)                                                          |
-| 95% CI                                                             | (42.4, 61.4)                                                       | (9.9, 24.4)                                                        | (47.2, 66.0)                                                       | (9.1, 23.2)                                                        |
-| Peripheral Blood, n (%)                                            | 58 (54.7)                                                          | 41 (39.0)                                                          | 65 (61.3)                                                          | 43 (41.0)                                                          |
-| 95% CI                                                             | (45.2, 64.2)                                                       | (29.7, 48.4)                                                       | (52.0, 70.6)                                                       | (31.5, 50.4)                                                       |
+| MRD Negativity Rateat Three Months After Completion of Treatment - Bone marrow, n (%)   | MRD Negativity Rateat Three Months After Completion of Treatment - 55 (51.9)   | MRD Negativity Rateat Three Months After Completion of Treatment - 18 (17.1)   | MRD Negativity Rateat Three Months After Completion of Treatment - 60 (56.6)   | MRD Negativity Rateat Three Months After Completion of Treatment - 17 (16.2)   |
+|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 95% CI                                                                                  | (42.4, 61.4)                                                                   | (9.9, 24.4)                                                                    | (47.2, 66.0)                                                                   | (9.1, 23.2)                                                                    |
+| Peripheral Blood, n (%)                                                                 | 58 (54.7)                                                                      | 41 (39.0)                                                                      | 65 (61.3)                                                                      | 43 (41.0)                                                                      |
+| 95% CI                                                                                  | (45.2, 64.2)                                                                   | (29.7, 48.4)                                                                   | (52.0, 70.6)                                                                   | (31.5, 50.4)                                                                   |
 
 P-values are from Cochran-Mantel-Haenszel chi-square test. P-value for MRD negativity rate in bone marrow by NGS was the primary MRD analysis.
 
-a Based on threshold of 10 -4 using a next-generation sequencing assay (clonoSEQ)
-
-b MRD was evaluated by flow cytometry of peripheral blood or bone marrow per central laboratory. The definition of negative status was &lt;1 CLL cell per 10 000 leukocytes (&lt;1×10 4 ).
+- a Based on threshold of 10 -4 using a next-generation sequencing assay (clonoSEQ)
+- b MRD was evaluated by flow cytometry of peripheral blood or bone marrow per central laboratory. The definition of negative status was &lt;1 CLL cell per 10 000 leukocytes (&lt;1×10 4 ).
 
 CI = confidence interval; NGS = next-generation sequencing
 
@@ -878,15 +850,13 @@ TLS was reported in 6 patients treated with chlorambucil plus obinutuzumab and n
 
 ## Median follow-up of 64 months
 
-With a median follow-up time on study of 64.0 months in Study CLL3011, a 73% reduction in the risk of death or progression by investigator assessment was observed for patients in the IMBRUVICA arm. The PFS hazard ratio was 0.267 [95% CI (0.182, 0.393), nominal p&lt;0.0001, not type 1 error controlled]. There were 20 (18.9%) deaths in the IMBRUVICA plus venetoclax arm and 40 (38.1%) in the chlorambucil plus obinutuzumab arm corresponding to a HR of 0.462 (95% CI: 0.269, 0.791, nominal p=0.0039, not type 1 error controlled). Median time to next treatment was not reached for IMBRUVICA plus venetoclax arm and was 65 months for chlorambucil plus obinutuzumab arm (HR=0.233; 95% CI: 0.130, 0.416) with 15.1% of subjects in the IMBRUVICA plus venetoclax arm and 43.8% of subjects in the chlorambucil plus obinutuzumab arm having initiated subsequent anticancer therapy.
+With a median follow-up time on study of 64.0 months in Study CLL3011, a 73% reduction in the risk of death or progression by investigator assessment was observed for patients in the IMBRUVICA arm. The PFS hazard ratio was 0.267 [95% CI (0.182, 0.393), nominal p&lt;0.0001, not type 1 error controlled]. There were 20 (18.9%) deaths in the IMBRUVICA plus venetoclax arm and 40 (38.1%) in the chlorambucil plus obinutuzumab arm corresponding to a HR of 0.462 (95%CI: 0.269, 0.791, nominal p=0.0039, not type 1 error controlled). Median time to next treatment was not reached for IMBRUVICA plus venetoclax arm and was 65 months for chlorambucil plus obinutuzumab arm (HR=0.233; 95% CI: 0.130, 0.416) with 15.1% of subjects in the IMBRUVICA plus venetoclax arm and 43.8% of subjects in the chlorambucil plus obinutuzumab arm having initiated subsequent anticancer therapy.
 
 <div style=\"page-break-after: always\"></div>
 
 Kaplan-Meier curve for OS is shown in Figure 11.
 
 Figure 11: Kaplan-Meier Curve of Overall Survival (ITT Population) in Patients with CLL/SLL in Study CLL3011 at 64 Months Follow-up
-
-<!-- image -->
 
 The safety and efficacy of fixed duration therapy with IMBRUVICA in combination with venetoclax in patients with previously untreated CLL were further evaluated in a cohort of the phase 2, multi-centre, 2-cohort study (PCYC-1142-CA). The study enrolled previously untreated patients with CLL who were 70 years or younger. The study enrolled 323 patients, of these, 159 patients were enrolled to fixed duration therapy consisting of 3 cycles of single agent IMBRUVICA followed by IMBRUVICA in combination with venetoclax for 12 cycles (including 5-week dose titration schedule). Each cycle was 28 days. IMBRUVICA was administered at a dose of 420 mg daily. Venetoclax was administered daily, starting with 20 mg for 1 week, followed by 1 week at each dose level of 50 mg, 100 mg, and 200 mg, then the recommended daily dose of 400 mg. Patients with confirmed progression by IWCLL criteria after completion of the fixed duration regimen could be retreated with single-agent IMBRUVICA.
 
@@ -900,34 +870,28 @@ With a median follow-up time on study of 28 months, efficacy results for PCYC-11
 
 Table 14: Efficacy results in Study PCYC 1142-CA (Fixed duration cohort)
 
-| Endpoint a                              | IMBRUVICA + Venetoclax   | IMBRUVICA + Venetoclax   |
-|-----------------------------------------|--------------------------|--------------------------|
-|                                         | Without Del 17p (N=136)  | All (N=159)              |
-| Overall Response Rate, n (%) b          | 130 (95.6)               | 153 (96.2)               |
-| 95% CI (%)                              | (92.1, 99.0)             | (93.3, 99.2)             |
-| Complete Response Rate, n (%) c         | 83 (61.0)                | 95 (59.7)                |
-| 95% CI (%)                              | (52.8, 69.2)             | (52.1, 67.4)             |
-| Median duration of CR, months (range) d | NE (0.03+, 24.9+)        | NE (0.03+, 24.9+)        |
-
-CR = complete response; CRi = complete response with incomplete marrow recovery; nPR = nodular partial response;
-
-PR = partial response; NE = not evaluable
+| Endpoint a                              | IMBRUVICA + Venetoclax - Without Del 17p (N=136)   | IMBRUVICA + Venetoclax - All (N=159)   |
+|-----------------------------------------|----------------------------------------------------|----------------------------------------|
+| Overall Response Rate, n (%) b          | 130 (95.6)                                         | 153 (96.2)                             |
+| 95% CI (%)                              | (92.1, 99.0)                                       | (93.3, 99.2)                           |
+| Complete Response Rate, n (%) c         | 83 (61.0)                                          | 95 (59.7)                              |
+| 95% CI (%)                              | (52.8, 69.2)                                       | (52.1, 67.4)                           |
+| Median duration of CR, months (range) d | NE (0.03+, 24.9+)                                  | NE (0.03+, 24.9+)                      |
 
 Table 15: Minimal residual disease negativity rates in Study PCYC 1142-CA (Fixed duration cohort)
 
-| Endpoint                                                        | IMBRUVICA + Venetoclax                                          | IMBRUVICA + Venetoclax                                          |
-|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
-|                                                                 | Without Del 17p (N=136)                                         | All (N=159)                                                     |
-| MRDNegativity Rate                                              |                                                                 |                                                                 |
-| Bone marrow, n (%)                                              | 84 (61.8)                                                       | 95 (59.7)                                                       |
-| 95% CI                                                          | (53.6, 69.9)                                                    | (52.1, 67.4)                                                    |
-| Peripheral Blood, n (%)                                         | 104 (76.5)                                                      | 122 (76.7)                                                      |
-| 95% CI                                                          | (69.3, 83.6)                                                    | (70.2, 83.3)                                                    |
-| MRDNegativity Rateat Three Months After Completion of Treatment | MRDNegativity Rateat Three Months After Completion of Treatment | MRDNegativity Rateat Three Months After Completion of Treatment |
-| Bone marrow, n (%)                                              | 74 (54.4)                                                       | 83 (52.2)                                                       |
-| 95% CI                                                          | (46.0, 62.8)                                                    | (44.4, 60.0)                                                    |
-| Peripheral Blood, n (%)                                         | 78 (57.4)                                                       | 90 (56.6)                                                       |
-| 95% CI                                                          | (49.0, 65.7)                                                    | (48.9, 64.3)                                                    |
+| Endpoint                                                         | IMBRUVICA + Venetoclax - Without Del 17p (N=136)                 | IMBRUVICA + Venetoclax - All (N=159)                             |
+|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
+| MRD Negativity Rate                                              |                                                                  |                                                                  |
+| Bone marrow, n (%)                                               | 84 (61.8)                                                        | 95 (59.7)                                                        |
+| 95% CI                                                           | (53.6, 69.9)                                                     | (52.1, 67.4)                                                     |
+| Peripheral Blood, n (%)                                          | 104 (76.5)                                                       | 122 (76.7)                                                       |
+| 95% CI                                                           | (69.3, 83.6)                                                     | (70.2, 83.3)                                                     |
+| MRD Negativity Rateat Three Months After Completion of Treatment | MRD Negativity Rateat Three Months After Completion of Treatment | MRD Negativity Rateat Three Months After Completion of Treatment |
+| Bone marrow, n (%)                                               | 74 (54.4)                                                        | 83 (52.2)                                                        |
+| 95% CI                                                           | (46.0, 62.8)                                                     | (44.4, 60.0)                                                     |
+| Peripheral Blood, n (%)                                          | 78 (57.4)                                                        | 90 (56.6)                                                        |
+| 95% CI                                                           | (49.0, 65.7)                                                     | (48.9, 64.3)                                                     |
 
 MRD was evaluated by flow cytometry of peripheral blood or bone marrow per central laboratory. The definition of negative status was &lt;1 CLL cell per 10 000 leukocytes (&lt;1×10 4 ).
 
@@ -939,7 +903,7 @@ No TLS was reported in patients treated with IMBRUVICA in combination with venet
 
 <div style=\"page-break-after: always\"></div>
 
-## Patients with CLL who received at least one prior therapy Single agent
+Patients with CLL who received at least one prior therapy Single agent
 
 The safety and efficacy of IMBRUVICA in patients with CLL were demonstrated in one uncontrolled study and one randomised, controlled study. The open-label, multi-centre study (PCYC-1102-CA) included 51 patients with relapsed or refractory CLL, who received 420 mg once daily. IMBRUVICA was administered until disease progression or unacceptable toxicity. The median age was 68 years (range: 37 to 82 years), median time since diagnosis was 80 months, and median number of prior treatments was 4 (range: 1 to 12 treatments), including 92.2% with a prior nucleoside analogue, 98.0% with prior rituximab, 86.3% with a prior alkylator, 39.2% with prior bendamustine and 19.6% with prior ofatumumab. At baseline, 39.2% of patients had Rai Stage IV, 45.1% had bulky disease (≥5 cm), 35.3% had deletion 17p and 31.4% had deletion 11q.
 
@@ -951,15 +915,17 @@ Progression-free survival (PFS) as assessed by an IRC according to IWCLL criteri
 
 Table 16: Efficacy results in patients with CLL (Study PCYC-1112-CA)
 
-| Endpoint                                  | IMBRUVICA N=195                                                     | Ofatumumab N=196                                                    |
-|-------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| Median PFS                                | Not reached                                                         | 8.1 months                                                          |
-| Median PFS                                | HR=0.215 [95% CI: 0.146; 0.317]                                     | HR=0.215 [95% CI: 0.146; 0.317]                                     |
-| OS a                                      | HR=0.434 [95% CI: 0.238; 0.789] b HR=0.387 [95% CI: 0.216; 0.695] c | HR=0.434 [95% CI: 0.238; 0.789] b HR=0.387 [95% CI: 0.216; 0.695] c |
-| ORR d, e (%)                              | 42.6                                                                | 4.1                                                                 |
-| ORR including PR with lymphocytosis d (%) | 62.6                                                                | 4.1                                                                 |
+| Endpoint                                  | IMBRUVICA N=195                                                   | Ofatumumab N=196                                                  |
+|-------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
+| Median PFS                                | Not reached                                                       | 8.1 months                                                        |
+| Median PFS                                | HR=0.215 [95%CI: 0.146; 0.317]                                    | HR=0.215 [95%CI: 0.146; 0.317]                                    |
+| OS a                                      | HR=0.434 [95%CI: 0.238; 0.789] b HR=0.387 [95%CI: 0.216; 0.695] c | HR=0.434 [95%CI: 0.238; 0.789] b HR=0.387 [95%CI: 0.216; 0.695] c |
+| ORR d, e (%)                              | 42.6                                                              | 4.1                                                               |
+| ORR including PR with lymphocytosis d (%) | 62.6                                                              | 4.1                                                               |
 
-HR=hazard ratio; CI=confidence interval; ORR=overall response rate; OS=overall survival; PFS=progression-free survival; PR=partial response a Median OS not reached for both arms. p&lt;0.005 for OS.
+HR=hazard ratio; CI=confidence interval; ORR=overall response rate; OS=overall survival; PFS=progression-free survival; PR=partial response
+
+a Median OS not reached for both arms. p&lt;0.005 for OS.
 
 b Patients randomised to ofatumumab were censored when starting IMBRUVICA if applicable.
 
@@ -977,24 +943,24 @@ The efficacy was similar across all of the subgroups examined, including in pati
 
 Table 17: Subgroup analysis of PFS (Study PCYC-1112-CA)
 
-|                                       | N                                     | Hazard Ratio   | 95% CI         |
+|                                       | N                                     |   Hazard Ratio | 95% CI         |
 |---------------------------------------|---------------------------------------|----------------|----------------|
-| All subjects                          | 391                                   | 0.210          | (0.143; 0.308) |
+| All subjects                          | 391                                   |          0.210 | (0.143; 0.308) |
 | Del17P                                |                                       |                |                |
-| Yes                                   | 127                                   | 0.247          | (0.136; 0.450) |
-| No                                    | 264                                   | 0.194          | (0.117; 0.323) |
+| Yes                                   | 127                                   |          0.247 | (0.136; 0.450) |
+| No                                    | 264                                   |          0.194 | (0.117; 0.323) |
 | Refractory disease to purine analogue | Refractory disease to purine analogue |                |                |
-| Yes                                   | 175                                   | 0.178          | (0.100; 0.320) |
-| No                                    | 216                                   | 0.242          | (0.145; 0.404) |
+| Yes                                   | 175                                   |          0.178 | (0.100; 0.320) |
+| No                                    | 216                                   |          0.242 | (0.145; 0.404) |
 | Age                                   |                                       |                |                |
-| <65                                   | 152                                   | 0.166          | (0.088; 0.315) |
-| ≥65                                   | 239                                   | 0.243          | (0.149; 0.395) |
+| <65                                   | 152                                   |          0.166 | (0.088; 0.315) |
+| ≥65                                   | 239                                   |          0.243 | (0.149; 0.395) |
 | Number of prior lines                 | Number of prior lines                 |                |                |
-| <3                                    | 198                                   | 0.189          | (0.100; 0.358) |
-| ≥3                                    | 193                                   | 0.212          | (0.130; 0.344) |
+| <3                                    | 198                                   |          0.189 | (0.100; 0.358) |
+| ≥3                                    | 193                                   |          0.212 | (0.130; 0.344) |
 | Bulky disease                         | Bulky disease                         |                |                |
-| <5 cm                                 | 163                                   | 0.237          | (0.127; 0.442) |
-| ≥5 cm                                 | 225                                   | 0.191          | (0.117; 0.311) |
+| <5 cm                                 | 163                                   |          0.237 | (0.127; 0.442) |
+| ≥5 cm                                 | 225                                   |          0.191 | (0.117; 0.311) |
 
 Hazard ratio based on non-stratified analysis
 
@@ -1002,21 +968,15 @@ The Kaplan-Meier curve for PFS is shown in Figure 12.
 
 Figure 12: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1112-CA
 
-<!-- image -->
+## Final Analysis at 65-month follow-up
 
-Final Analysis at 65-month follow-up
-
-With a median follow-up time on study of 65 months in Study PCYC-1112-CA, an 85% reduction in the risk of death or progression by investigator assessment was observed for patients in the IMBRUVICA arm. The median investigator-assessed PFS according to IWCLL criteria was 44.1 months [95% CI (38.47, 56.18)] in the IMBRUVICA arm and 8.1 months [95% CI (7.79, 8.25)] in the ofatumumab arm, respectively; HR=0.15 [95% CI (0.11, 0.20)]. The updated Kaplan-Meier curve for PFS is shown in Figure 13. The investigator-assessed ORR in the IMBRUVICA arm was 87.7% versus 22.4% in the ofatumumab arm. At the time of final analysis, 133 (67.9%) of the 196 subjects originally randomised to the ofatumumab treatment arm had crossed over to ibrutinib treatment. The median investigator-assessed PFS2 (time from randomisation until PFS event after first subsequent anti-neoplastic therapy) according to IWCLL criteria was 65.4 months [95% CI (51.61, not estimable)] in the IMBRUVICA arm and 38.5 months [95% CI (19.98, 47.24)] in the ofatumumab
+With a median follow-up time on study of 65 months in Study PCYC-1112-CA, an 85% reduction in the risk of death or progression by investigator assessment was observed for patients in the IMBRUVICA arm. The median investigator-assessed PFS according to IWCLL criteria was 44.1 months [95% CI (38.47, 56.18)] in the IMBRUVICA arm and 8.1 months [95% CI (7.79, 8.25)] in the ofatumumab arm, respectively; HR=0.15 [95%CI (0.11, 0.20)]. The updated Kaplan-Meier curve for PFS is shown in Figure 13. The investigator-assessed ORR in the IMBRUVICA arm was 87.7% versus 22.4% in the ofatumumab arm. At the time of final analysis, 133 (67.9%) of the 196 subjects originally randomised to the ofatumumab treatment arm had crossed over to ibrutinib treatment. The median investigator-assessed PFS2 (time from randomisation until PFS event after first subsequent anti-neoplastic therapy) according to IWCLL criteria was 65.4 months [95% CI (51.61, not estimable)] in the IMBRUVICA arm and 38.5 months [95% CI (19.98, 47.24)] in the ofatumumab arm, respectively; HR=0.54 [95% CI (0.41, 0.71)]. The median OS was 67.7 months [95% CI (61.0, not estimable)] in the IMBRUVICA arm.
 
 <div style=\"page-break-after: always\"></div>
-
-arm, respectively; HR=0.54 [95% CI (0.41, 0.71)]. The median OS was 67.7 months [95% CI (61.0, not estimable)] in the IMBRUVICA arm.
 
 The treatment effect of ibrutinib in Study PCYC-1112-CA was consistent across high-risk patients with deletion 17p/TP53 mutation, deletion 11q, and/or unmutated IGHV.
 
 Figure 13: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1112-CA at Final Analysis with 65 Months Follow-up
-
-<!-- image -->
 
 ## Combination therapy
 
@@ -1034,9 +994,11 @@ Table 18: Efficacy results in patients with CLL (Study CLL3001)
 | Median (95% CI), months | Not reached                     | 13.3 (11.3, 13.9)               |
 | Median (95% CI), months | HR=0.203 [95% CI: 0.150, 0.276] | HR=0.203 [95% CI: 0.150, 0.276] |
 | ORR b %                 | 82.7                            | 67.8                            |
-| OS c                    | HR=0.628 [95% CI: 0.385, 1.024] | HR=0.628 [95% CI: 0.385, 1.024] |
+| OS c                    | HR=0.628 [95%CI: 0.385, 1.024]  | HR=0.628 [95%CI: 0.385, 1.024]  |
 
-CI=confidence interval; HR=hazard ratio; ORR=overall response rate; OS=overall survival; PFS=progression-free survival a IRC evaluated.
+CI=confidence interval; HR=hazard ratio; ORR=overall response rate; OS=overall survival; PFS=progression-free survival
+
+a IRC evaluated.
 
 b IRC evaluated, ORR (complete response, complete response with incomplete marrow recovery, nodular partial response, partial response).
 
@@ -1058,10 +1020,8 @@ Table 19: ORR and DOR in patients with WM
 | 95% CI (%)                | (76.5, 94.4)      |
 | VGPR (%)                  | 14.3              |
 | PR (%)                    | 55.6              |
-| MR(%)                     | 17.5              |
+| MR (%)                    | 17.5              |
 | Median DOR months (range) | NR (0.03+, 18.8+) |
-
-CI=confidence interval; DOR=duration of response; NR=not reached; MR=minor response; PR=partial response; VGPR=very good partial response; ORR=MR+PR+VGPR
 
 Median follow-up time on study=14.8 months
 
@@ -1087,7 +1047,7 @@ Tumour flare in the form of IgM increase occurred in 8.0% of subjects in the IMB
 
 ## Final Analysis at 63-month follow-up
 
-With an overall follow-up of 63 months, efficacy results as assessed by an IRC at the time of the final analysis for PCYC-1127-CA are shown in Table 20 and the Kaplan-Meier curve for PFS is shown in Figure 14. PFS hazard ratios for treatment-naïve patients (0.31 [95% CI (0.14, 0.69)]) and previously treated patients (0.22 [95% CI (0.11, 0.43)]) were consistent with the PFS hazard ratio for the ITT population.
+With an overall follow-up of 63 months, efficacy results as assessed by an IRC at the time of the final analysis for PCYC-1127-CA are shown in Table 20 and the Kaplan-Meier curve for PFS is shown in Figure 14. PFS hazard ratios for treatment-naïve patients (0.31 [95%CI (0.14, 0.69)]) and previously treated patients (0.22 [95%CI (0.11, 0.43)]) were consistent with the PFS hazard ratio for the ITT population.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1114,11 +1074,9 @@ Table 20: Efficacy results in Study PCYC-1127-CA (Final analysis*)
 | Median duration of response, months (range)         | Not reached (1.9+, 58.9+) | Not reached (4.6, 49.7+) |
 | Rate of Sustained Haemoglobin Improvement c, e (%)  | 77.3                      | 42.7                     |
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 14: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1127-CA (Final Analysis)
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
 Study PCYC-1127-CA had a separate monotherapy arm of 31 patients with previously treated WM who failed prior rituximab-containing therapy and received single agent IMBRUVICA. The median age was 67 years (range, 47 to 90 years). Eighty-one percent of patients had a baseline ECOG performance status of 0 or 1, and 19% had a baseline ECOG performance status of 2. The median number of prior treatments was 4 (range, 1 to 7 treatments). With an overall follow-up of 61 months, the response rate observed in Study PCYC-1127-CA monotherapy arm per IRC assessment was 77% (0% CR, 29% VGPR, 48% PR). The median duration of response was 33 months (range, 2.4 to 60.2+ months). The overall response rate per IRC observed in the monotherapy arm was 87% (0% CR, 29% VGPR, 48% PR, 10% MR). The median duration of overall response was 39 months (range, 2.07 to 60.2+ months).
 
@@ -1134,17 +1092,15 @@ In part 2, patients were randomised 2:1 to receive either IMBRUVICA as 440 mg/m 
 
 ## Absorption
 
-Ibrutinib is rapidly absorbed after oral administration with a median T max of 1 to 2 hours. Absolute bioavailability in fasted condition (n=8) was 2.9% (90% CI=2.1 - 3.9) and doubled when combined
+Ibrutinib is rapidly absorbed after oral administration with a median Tmax of 1 to 2 hours. Absolute bioavailability in fasted condition (n=8) was 2.9% (90%CI=2.1 - 3.9) and doubled when combined with a meal. Pharmacokinetics of ibrutinib does not significantly differ in patients with different B-cell malignancies. Ibrutinib exposure increases with doses up to 840 mg. The steady state AUC observed in patients at 560 mg is (mean ± standard deviation) 953 ± 705 ng h/mL. Administration of ibrutinib in fasted condition resulted in approximately 60% of exposure (AUClast) as compared to either 30 minutes before, 30 minutes after (fed condition) or 2 hours after a high fat breakfast.
 
 <div style=\"page-break-after: always\"></div>
-
-with a meal. Pharmacokinetics of ibrutinib does not significantly differ in patients with different B-cell malignancies. Ibrutinib exposure increases with doses up to 840 mg. The steady state AUC observed in patients at 560 mg is (mean ± standard deviation) 953 ± 705 ng h/mL. Administration of ibrutinib in fasted condition resulted in approximately 60% of exposure (AUClast) as compared to either 30 minutes before, 30 minutes after (fed condition) or 2 hours after a high fat breakfast.
 
 Ibrutinib has a pH dependent solubility, with lower solubility at higher pH. In fasted healthy subjects administered a single 560 mg dose of ibrutinib after taking omeprazole at 40 mg once daily for 5 days, compared to ibrutinib alone, geometric mean ratios (90% CI) were 83% (68-102%), 92% (78-110%), and 38% (26-53%) for AUC0-24, AUClast, and Cmax, respectively.
 
 ## Distribution
 
-Reversible binding of ibrutinib to human plasma protein in vitro was 97.3% with no concentration dependence in the range of 50 to 1 000 ng/mL. The apparent volume of distribution at steady state (Vd, ss /F) was approximately 10 000 L.
+Reversible binding of ibrutinib to human plasma protein in vitro was 97.3% with no concentration dependence in the range of 50 to 1 000 ng/mL. The apparent volume of distribution at steady state (Vd, ss/F) was approximately 10 000 L.
 
 ## Metabolism
 
@@ -1164,7 +1120,7 @@ Population pharmacokinetics indicated that age does not significantly influence 
 
 ## Paediatric population
 
-Pharmacokinetic data show that ibrutinib exposures in children with relapsed or refractory mature Bcell non-Hodgkin lymphoma, aged 12 years and older receiving a daily dose of 329 mg/m 2  and those aged 3 years to below 12 years receiving a daily dose of 440 mg/m 2 , were generally within the range of exposures observed in adult patients administered a daily dose of 560 mg.
+Pharmacokinetic data show that ibrutinib exposures in children with relapsed or refractory mature Bcell non-Hodgkin lymphoma, aged 12 years and older receiving a daily dose of 329 mg/m 2 and those aged 3 years to below 12 years receiving a daily dose of 440 mg/m 2 , were generally within the range of exposures observed in adult patients administered a daily dose of 560 mg.
 
 ## Gender
 
@@ -1186,7 +1142,7 @@ Ibrutinib has minimal renal clearance; urinary excretion of metabolites is &lt;1
 
 ## Hepatic impairment
 
-Ibrutinib is metabolised in the liver. A hepatic impairment trial was performed in non-cancer subjects administered a single dose of 140 mg of medicinal product under fasting conditions. The effect of impaired liver function varied substantially between individuals, but on average a 2.7-, 8.2-, and 9.8-fold increase in ibrutinib exposure (AUClast ) was observed in subjects with mild (n=6, Child-Pugh class A), moderate (n=10, Child-Pugh class B) and severe (n=8, Child-Pugh class C) hepatic impairment, respectively. The free fraction of ibrutinib also increased with degree of impairment, with 3.0, 3.8 and 4.8% in subjects with mild, moderate and severe liver impairment, respectively, compared to 3.3% in plasma from matched healthy controls within this study. The corresponding increase in unbound ibrutinib exposure (AUCunbound, last ) is estimated to be 4.1-, 9.8-, and 13-fold in subjects with mild, moderate, and severe hepatic impairment, respectively (see section 4.2).
+Ibrutinib is metabolised in the liver. A hepatic impairment trial was performed in non-cancer subjects administered a single dose of 140 mg of medicinal product under fasting conditions. The effect of impaired liver function varied substantially between individuals, but on average a 2.7, 8.2, and 9.8-fold increase in ibrutinib exposure (AUClast) was observed in subjects with mild (n=6, Child-Pugh class A), moderate (n=10, Child-Pugh class B) and severe (n=8, Child-Pugh class C) hepatic impairment, respectively. The free fraction of ibrutinib also increased with degree of impairment, with 3.0, 3.8 and 4.8% in subjects with mild, moderate and severe liver impairment, respectively, compared to 3.3% in plasma from matched healthy controls within this study. The corresponding increase in unbound ibrutinib exposure (AUCunbound, last) is estimated to be 4.1, 9.8, and 13-fold in subjects with mild, moderate, and severe hepatic impairment, respectively (see section 4.2).
 
 ## Co-administration with transport substrates/inhibitors
 
@@ -1220,11 +1176,11 @@ No effects on fertility or reproductive capacities were observed in male or fema
 
 ## 6.1 List of excipients
 
-Capsule content Croscarmellose sodium Magnesium stearate Microcrystalline cellulose Sodium lauril sulfate (E487)
+Capsule content Croscarmellose sodium Magnesium stearate Microcrystalline cellulose
 
-## Capsule shell
+Sodium lauril sulfate (E487)
 
-Gelatin
+Capsule shell Gelatin
 
 Titanium dioxide (E171)
 
@@ -1334,19 +1290,19 @@ Film-coated tablet (tablet).
 
 ## IMBRUVICA 140 mg film-coated tablets
 
-Yellow-green to green round tablets (9 mm), debossed with 'ibr' on one side and '140' on the other side.
+Yellow-green to green round tablets (9 mm), debossed with \"ibr\" on one side and \"140\" on the other side.
 
 ## IMBRUVICA 280 mg film-coated tablets
 
-Purple oblong tablets (15 mm in length and 7 mm in width), debossed with 'ibr' on one side and '280' on the other side.
+Purple oblong tablets (15 mm in length and 7 mm in width), debossed with \"ibr\" on one side and \"280\" on the other side.
 
 ## IMBRUVICA 420 mg film-coated tablets
 
-Yellow-green to green oblong tablets (17.5 mm in length and 7.4 mm in width), debossed with 'ibr' on one side and '420' on the other side.
+Yellow-green to green oblong tablets (17.5 mm in length and 7.4 mm in width), debossed with \"ibr\" on one side and \"420\" on the other side.
 
 ## IMBRUVICA 560 mg film-coated tablets
 
-Yellow to orange oblong tablets (19 mm in length and 8.1 mm in width), debossed with 'ibr' on one side and '560' on the other side.
+Yellow to orange oblong tablets (19 mm in length and 8.1 mm in width), debossed with \"ibr\" on one side and \"560\" on the other side.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1354,7 +1310,7 @@ Yellow to orange oblong tablets (19 mm in length and 8.1 mm in width), debossed 
 
 ## 4.1 Therapeutic indications
 
-IMBRUVICA in combination with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone (IMBRUVICA + R-CHOP) alternating with R-DHAP (or R-DHAOx) without IMBRUVICA, followed by IMBRUVICA monotherapy, is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma (MCL) who would be eligible for autologous stem cell transplantation (ASCT).
+IMBRUVICA in combination with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone (IMBRUVICA + R-CHOP) alternating with R-DHAP (or R-DHAOx) without IMBRUVICA, followed by IMBRUVICAmonotherapy, is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma (MCL) who would be eligible for autologous stem cell transplantation (ASCT).
 
 IMBRUVICA as a single agent is indicated for the treatment of adult patients with relapsed or refractory MCL.
 
@@ -1368,7 +1324,7 @@ IMBRUVICA as a single agent is indicated for the treatment of adult patients wit
 
 Treatment with this medicinal product should be initiated and supervised by a physician experienced in the use of anticancer medicinal products.
 
-## Posology
+Posology
 
 MCL
 
@@ -1381,7 +1337,7 @@ Table 1: IMBRUVICA dosing schedule for previously untreated MCL
 | Treatment   | Cycle number   | Treatment                              | IMBRUVICA           |
 |-------------|----------------|----------------------------------------|---------------------|
 | Part I *    | 1, 3, 5        | IMBRUVICA in combination with R-CHOP § | On days 1-19        |
-| Part I *    | 2, 4, 6        | R-DHAP # §                             | Without IMBRUVICA   |
+| Part I *    | 2, 4, 6        | R-DHAP #§                              | Without IMBRUVICA   |
 | Part II ±   |                | IMBRUVICA                              | Daily for 24 Months |
 
 Treatment of adult patients with relapsed or refractory MCL
@@ -1410,25 +1366,25 @@ IMBRUVICA therapy should be withheld for any new onset or worsening grade 2 card
 
 Recommended dose modifications for non-cardiac events are described below:
 
-| Events †                                         | Toxicity occurrence   | MCLdose modification after recovery   | CLL/WM dose modification after recovery   |
-|--------------------------------------------------|-----------------------|---------------------------------------|-------------------------------------------|
-| Grade 3 or 4 non-haematological toxicities       | First *               | restart at 560 mg daily               | restart at 420 mg daily                   |
-| Grade 3 or 4 neutropenia with infection or fever | Second                | restart at 420 mg daily               | restart at 280 mg daily                   |
-| Grade 4                                          | Third                 | restart at 280 mg daily               | restart at 140 mg daily                   |
-| haematological toxicities                        | Fourth                | discontinue IMBRUVICA                 | discontinue IMBRUVICA                     |
+| Events †                                   | Toxicity occurrence   | MCL dose modification after recovery   | CLL/WM dose modification after recovery   |
+|--------------------------------------------|-----------------------|----------------------------------------|-------------------------------------------|
+| Grade 3 or 4 non-haematological toxicities | First *               | restart at 560 mg daily                | restart at 420 mg daily                   |
+| Grade 3 or 4 neutropenia with              | Second                | restart at 420 mg daily                | restart at 280 mg daily                   |
+| infection or fever Grade 4                 | Third                 | restart at 280 mg daily                | restart at 140 mg daily                   |
+| haematological toxicities                  | Fourth                | discontinue IMBRUVICA                  | discontinue IMBRUVICA                     |
 
 <div style=\"page-break-after: always\"></div>
 
 Recommended dose modifications for events of cardiac failure or cardiac arrhythmias are described below:
 
-| Events                                                   | Toxicity occurrence   | MCLdose modification after recovery   | CLL/WM dose modification after recovery   |
-|----------------------------------------------------------|-----------------------|---------------------------------------|-------------------------------------------|
-| Grade 2 cardiac failure                                  | First                 | restart at 420 mg daily               | restart at 280 mg daily                   |
-|                                                          | Second                | restart at 280 mg daily               | restart at 140 mg daily                   |
-|                                                          | Third                 | discontinue IMBRUVICA                 | discontinue IMBRUVICA                     |
-| Grade 3 cardiac                                          | First                 | restart at 420 mg daily †             | restart at 280 mg daily †                 |
-| arrhythmias                                              | Second                | discontinue IMBRUVICA                 | discontinue IMBRUVICA                     |
-| Grade 3 or 4 cardiac failure Grade 4 cardiac arrhythmias | First                 | discontinue IMBRUVICA                 | discontinue IMBRUVICA                     |
+| Events                                                   | Toxicity occurrence   | MCL dose modification after recovery   | CLL/WM dose modification after recovery   |
+|----------------------------------------------------------|-----------------------|----------------------------------------|-------------------------------------------|
+| Grade 2 cardiac failure                                  | First                 | restart at 420 mg daily                | restart at 280 mg daily                   |
+| Grade 2 cardiac failure                                  | Second                | restart at 280 mg daily                | restart at 140 mg daily                   |
+| Grade 2 cardiac failure                                  | Third                 | discontinue IMBRUVICA                  | discontinue IMBRUVICA                     |
+| Grade 3 cardiac arrhythmias                              | First                 | restart at 420 mg daily †              | restart at 280 mg daily †                 |
+| Grade 3 cardiac arrhythmias                              | Second                | discontinue IMBRUVICA                  | discontinue IMBRUVICA                     |
+| Grade 3 or 4 cardiac failure Grade 4 cardiac arrhythmias | First                 | discontinue IMBRUVICA                  | discontinue IMBRUVICA                     |
 
 † Evaluate the benefit-risk before resuming treatment.
 
@@ -1502,7 +1458,7 @@ Cases of invasive fungal infections, including cases of Aspergillosis, Cryptococ
 
 <div style=\"page-break-after: always\"></div>
 
-Cases of progressive multifocal leukoencephalopathy (PML) including fatal ones have been reported following the use of ibrutinib within the context of a prior or concomitant immunosuppressive therapy. Physicians should consider PML in the differential diagnosis in patients with new or worsening neurological, cognitive or behavioural signs or symptoms. If PML is suspected then appropriate diagnostic evaluations should be undertaken and treatment suspended until PML is excluded. If any doubt exists, referral to a neurologist and appropriate diagnostic measures for PML including MRI scan preferably with contrast, cerebrospinal fluid (CSF) testing for JC Viral DNA and repeat neurological assessments should be considered.
+Cases of progressive multifocal leukoencephalopathy (PML) including fatal ones have been reported following the use of ibrutinib within the context of a prior or concomitant immunosuppressive therapy (see section 4.8). Physicians should consider PML in the differential diagnosis in patients with new or worsening neurological, cognitive or behavioural signs or symptoms. If PML is suspected then appropriate diagnostic evaluations should be undertaken and treatment suspended until PML is excluded. If any doubt exists, referral to a neurologist and appropriate diagnostic measures for PML including MRI scan preferably with contrast, cerebrospinal fluid (CSF) testing for JC Viral DNA and repeat neurological assessments should be considered.
 
 ## Hepatic events
 
@@ -1596,13 +1552,13 @@ Administration of IMBRUVICA with inducers of CYP3A4 can decrease ibrutinib plasm
 
 Co-administration of rifampicin, a strong CYP3A4 inducer, in 18 fasted healthy subjects, decreased exposure (Cmax and AUC) of ibrutinib by 92 and 90%, respectively. Avoid concomitant use of strong or moderate CYP3A4 inducers (e.g., carbamazepine, rifampicin, phenytoin). Preparations containing St. John's Wort are contraindicated during treatment with IMBRUVICA, as efficacy may be reduced. Consider alternative agents with less CYP3A4 induction. If the benefit outweighs the risk and a strong or moderate CYP3A4 inducer must be used, monitor patient closely for lack of efficacy (see sections 4.3 and 4.4). Mild inducers may be used concomitantly with IMBRUVICA, however, patients should be monitored for potential lack of efficacy.
 
-Ibrutinib has a pH dependent solubility, with lower solubility at higher pH. A lower C max was observed in fasted healthy subjects administered a single 560 mg dose of ibrutinib after taking omeprazole at 40 mg once daily for 5 days (see section 5.2). There is no evidence that the lower C max would have clinical significance, and medicinal products that increase stomach pH (e.g., proton pump inhibitors) have been used without restrictions in the pivotal clinical studies.
+Ibrutinib has a pH dependent solubility, with lower solubility at higher pH. A lower Cmax was observed in fasted healthy subjects administered a single 560 mg dose of ibrutinib after taking omeprazole at 40 mg once daily for 5 days (see section 5.2). There is no evidence that the lower Cmax would have clinical significance, and medicinal products that increase stomach pH (e.g., proton pump inhibitors) have been used without restrictions in the pivotal clinical studies.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Agents that may have their plasma concentrations altered by ibrutinib
 
-Ibrutinib is a P-gp and breast cancer resistance protein (BCRP) inhibitor in vitro . As no clinical data are available on this interaction, it cannot be excluded that ibrutinib could inhibit intestinal P-gp and BCRP after a therapeutic dose. To minimise the potential for an interaction in the GI tract, oral narrow therapeutic range, P-gp or BCRP substrates such as digoxin or methotrexate should be taken at least 6 hours before or after IMBRUVICA. Ibrutinib may also inhibit BCRP in the liver and increase the exposure of medicinal products that undergo BCRP-mediated hepatic efflux, such as rosuvastatin.
+Ibrutinib is a P-gp and breast cancer resistance protein (BCRP) inhibitor in vitro. As no clinical data are available on this interaction, it cannot be excluded that ibrutinib could inhibit intestinal P-gp and BCRP after a therapeutic dose. To minimise the potential for an interaction in the GI tract, oral narrow therapeutic range, P-gp or BCRP substrates such as digoxin or methotrexate should be taken at least 6 hours before or after IMBRUVICA. Ibrutinib may also inhibit BCRP in the liver and increase the exposure of medicinal products that undergo BCRP-mediated hepatic efflux, such as rosuvastatin.
 
 In studies of ibrutinib (420 mg) in combination with venetoclax (400 mg) in CLL patients, an increase in venetoclax exposure (approximately 1.8-fold based on AUC) was observed compared with monotherapy data for venetoclax.
 
@@ -1650,115 +1606,114 @@ The safety profile is based on pooled data from 1 981 patients treated with IMBR
 
 Table 2: Adverse reactions reported in clinical studies or during post marketing surveillance in patients with B-cell malignancies †
 
-| System organ class                                                  | Frequency (All grades)   | Adverse reactions                                                                                          | All Grades (%)   | Grade ≥3 (%)   |
-|---------------------------------------------------------------------|--------------------------|------------------------------------------------------------------------------------------------------------|------------------|----------------|
-| Infections and infestations                                         | Very common              | Pneumonia *# Upper respiratory tract infection Skin infection *                                            | 12 21 15         | 7 1 2          |
-| Infections and infestations                                         | Common                   | Sepsis *# Urinary tract infection Sinusitis *                                                              | 3 9 9            | 3 1 1          |
-| Infections and infestations                                         | Uncommon                 | Cryptococcal infections * Pneumocystis infections * # Aspergillus infections * Hepatitis B reactivation @# | <1 <1 <1 <1      | 0 <1 <1 <1     |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Common                   | Non-melanoma skin cancer * Basal cell carcinoma Squamous cell carcinoma                                    | 5 3 1            | 1 <1 <1        |
-| Blood and lymphatic system disorders                                | Very common              | Neutropenia * Thrombocytopenia * Lymphocytosis *                                                           | 39 29 15         | 31 8 11        |
-| Blood and lymphatic system disorders                                | Common                   | Febrile neutropenia Leukocytosis                                                                           | 4 4              | 4 4            |
-|                                                                     | Rare                     | Leukostasis syndrome                                                                                       | <1               | <1             |
-| Immune system disorders Metabolism and                              | Common                   | Interstitial lung disease *,#                                                                              | 2                | <1             |
-|                                                                     | Common                   | Hyperuricaemia                                                                                             | 9                | 1              |
-| nutrition disorders                                                 | Uncommon                 | Tumour lysis syndrome                                                                                      | 1                | 1              |
-| Nervous system disorders                                            | Common                   | Peripheral neuropathy                                                                                      | 7                | <1             |
-| Nervous system disorders                                            |                          | *                                                                                                          |                  |                |
-|                                                                     | Uncommon                 | Cerebrovascular accident # Transient ischaemic attack Ischaemic stroke #                                   | <1 <1 <1         | <1 <1 <1       |
-| Eye disorders                                                       | Common                   | Vision blurred                                                                                             | 6                | 0              |
+| System organ class                                                  | Frequency (All grades)   | Adverse reactions                                                                                           | All Grades (%)   | Grade ≥3 (%)   |
+|---------------------------------------------------------------------|--------------------------|-------------------------------------------------------------------------------------------------------------|------------------|----------------|
+| Infections and infestations                                         | Very common              | Pneumonia *# Upper respiratory tract infection Skin infection *                                             | 12 21 15         | 7 1 2          |
+| Infections and infestations                                         | Common                   | Sepsis *# Urinary tract infection Sinusitis *                                                               | 3 9 9            | 3 1 1          |
+| Infections and infestations                                         | Uncommon                 | Cryptococcal infections * Pneumocystis infections * # Aspergillus infections * Hepatitis B reactivation @ # | <1 <1 <1 <1      | 0 <1 <1 <1     |
+| Infections and infestations                                         | Rare                     | Progressive multifocal leukoencephalopathy #                                                                | <1               | <1             |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Common                   | Non-melanoma skin cancer * Basal cell carcinoma Squamous cell carcinoma                                     | 5 3 1            | 1 <1 <1        |
+| Blood and lymphatic system disorders                                | Very common              | Neutropenia * Thrombocytopenia * Lymphocytosis *                                                            | 39 29 15         | 31 8 11        |
+| Blood and lymphatic system disorders                                | Common                   | Febrile neutropenia Leukocytosis                                                                            | 4 4              | 4 4            |
+| Blood and lymphatic system disorders                                | Rare                     | Leukostasis syndrome                                                                                        | <1               | <1             |
+| Immune system disorders                                             | Common                   | Interstitial lung disease * ,#                                                                              | 2                | <1             |
+| Metabolism and                                                      | Common                   | Hyperuricaemia                                                                                              | 9                | 1              |
+| nutrition disorders                                                 | Uncommon                 | Tumour lysis syndrome                                                                                       | 1                | 1              |
+| Nervous system disorders                                            | Very common              | Dizziness Headache                                                                                          | 12 19            | <1 1 <1        |
+| Nervous system disorders                                            | Common                   | Peripheral neuropathy * Cerebrovascular accident #                                                          | 7 <1             | <1 <1          |
+|                                                                     | Uncommon                 | Transient ischaemic attack Ischaemic stroke #                                                               | <1 <1            | <1             |
+| disorders                                                           | Common                   | Vision blurred                                                                                              | 6                | 0              |
+| Eye                                                                 |                          |                                                                                                             |                  |                |
 
 <div style=\"page-break-after: always\"></div>
 
-| Cardiac disorders                                    | Common      | Cardiac failure *, # Atrial fibrillation                                                    | 2 8               | 1 4           |
-|------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------|-------------------|---------------|
-|                                                      | Uncommon    | Ventricular tachyarrhythmia *,# Cardiac arrest #                                            | 1 <1              | <1 <1         |
-| Vascular disorders                                   | Very common | Haemorrhage *# Bruising * Hypertension *                                                    | 35 27 18          | 1 <1 8        |
-|                                                      | Common      | Epistaxis Petechiae                                                                         | 9 7               | <1 0          |
-|                                                      | Uncommon    | Subdural haematoma #                                                                        | 1                 | <1            |
-| Gastrointestinal disorders                           | Very common | Diarrhoea Vomiting Stomatitis * Nausea Constipation Dyspepsia                               | 47 15 17 31 16 11 | 4 1 1 1 <1 <1 |
-| Hepatobiliary disorders                              | Uncommon    | Hepatic failure *,#                                                                         | <1                | <1            |
-| Skin and subcutaneous tissue disorders               | Very common | Rash *                                                                                      | 34                | 3             |
-|                                                      | Common      | Urticaria Erythema Onychoclasis                                                             | 1 3 4             | <1 <1 0       |
-|                                                      | Uncommon    | Angioedema Panniculitis * Neutrophilic dermatoses * Pyogenic granuloma Cutaneous vasculitis | <1 <1 <1 <1 <1    | <1 <1 <1 0 0  |
-|                                                      | Rare        | Stevens-Johnson syndrome                                                                    | <1                | <1            |
-| Musculoskeletal and connective tissue disorders      | Very common | Arthralgia Muscle spasms Musculoskeletal pain *                                             | 24 15 36          | 2 <1 3        |
-| Renal and urinary disorders                          | Common      | Acute kidney injury #                                                                       | <2                | <1            |
-| General disorders and administration site conditions | Very common | Pyrexia Oedema peripheral                                                                   | 19 16             | 1 1           |
-| Investigations                                       | Very common | Blood creatinine increased                                                                  | 10                | <1            |
+|                                                      | Uncommon           | Eye haemorrhage ‡ Uveitis*                                       | <1 <1             | 0 0           |
+|------------------------------------------------------|--------------------|------------------------------------------------------------------|-------------------|---------------|
+| Cardiac disorders                                    | Common             | Cardiac failure * , # Atrial fibrillation                        | 2 8               | 1 4           |
+|                                                      | Uncommon           | Ventricular tachyarrhythmia * ,# Cardiac arrest #                | 1 <1              | <1 <1         |
+| Vascular disorders                                   | Very common        | Haemorrhage *# Bruising * Hypertension *                         | 35 27 18          | 1 <1 8        |
+|                                                      | Common             | Epistaxis Petechiae                                              | 9 7               | <1 0          |
+|                                                      | Uncommon           | Subdural haematoma #                                             | 1                 | <1            |
+| Respiratory, thoracic and mediastinal disorders      | Very common        | Cough *                                                          | 24                | <1            |
+| Gastrointestinal disorders                           | Very common        | Diarrhoea Vomiting Stomatitis * Nausea Constipation Dyspepsia    | 47 15 17 31 16 11 | 4 1 1 1 <1 <1 |
+| Hepatobiliary disorders                              | Uncommon           | Hepatic failure * ,#                                             | <1                | <1            |
+| Skin and subcutaneous tissue disorders               | Very common Common | Rash * Urticaria Erythema                                        | 34 1 3            | 3 <1 <1       |
+|                                                      | Uncommon           | Onychoclasis Angioedema Panniculitis * Neutrophilic dermatoses * | 4                 | 0 <1 <1 <1    |
+|                                                      |                    | Pyogenic granuloma Cutaneous vasculitis                          | <1 <1 <1 <1 <1    | 0 0           |
+| Musculoskeletal and connective tissue                | Rare Very common   | Stevens-Johnson syndrome Arthralgia Muscle spasms                | <1 24 15          | <1 2 <1       |
+| disorders Renal and urinary disorders                | Common             | Musculoskeletal pain * Acute kidney injury #                     | 36 <2             | 3 <1          |
+| General disorders and administration site conditions | Very common        | Pyrexia Oedema peripheral                                        | 19 16             | 1 1           |
+| Investigations                                       | Very common        | Blood creatinine increased                                       | 10                | <1            |
 
-## Summary for patients with previously untreated MCL who were eligible for ASCT
+Summary for patients with previously untreated MCL who were eligible for ASCT The safety profile is based on data from 265 patients (in the IMBRUVICA arm) treated with IMBRUVICA in the phase 3 TRIANGLE study. Patients received IMBRUVICA at 560 mg once daily according to the TRIANGLE treatment schedule (see section 5.1). The median treatment duration was 28.5 months in the IMBRUVICA arm.
 
-The safety profile is based on data from 265 patients (in the IMBRUVICA arm) treated with IMBRUVICA in the phase 3 TRIANGLE study. Patients received IMBRUVICA at 560 mg once daily according to the TRIANGLE treatment schedule (see section 5.1). The median treatment duration was 28.5 months in the IMBRUVICA arm.
+<div style=\"page-break-after: always\"></div>
 
 Table 3: Adverse reactions reported in the IMBRUVICA arm of the TRIANGLE Study †
 
-|                             |                        | N=265                             | N=265          | N=265        |
-|-----------------------------|------------------------|-----------------------------------|----------------|--------------|
-| System Organ Class          | Frequency (All Grades) | Adverse Reactions                 | All Grades (%) | Grade ≥3 (%) |
-| Infections and infestations | Very common            | Pneumonia* #                      | 16             | 9            |
-| Infections and infestations | Very common            | Skin infection*                   | 12             | 3            |
-| Infections and infestations | Common                 | Upper respiratory tract infection | 6              | <1           |
-| Infections and infestations | Common                 | Sepsis*                           | 2              | 2            |
-| Infections and infestations | Common                 | Urinary tract infection           | 6              | <1           |
+| System Organ Class                                                  | Frequency (All Grades)   | N=265 Adverse Reactions            | All Grades (%)   | Grade ≥3 (%)   |
+|---------------------------------------------------------------------|--------------------------|------------------------------------|------------------|----------------|
+| Infections and infestations                                         | Very common              | Pneumonia* #                       | 16               | 9              |
+| Infections and infestations                                         |                          | Skin infection*                    | 12               | 3              |
+| Infections and infestations                                         | Common                   | Upper respiratory tract infection  | 6                | <1             |
+| Infections and infestations                                         |                          | Sepsis*                            | 2                | 2              |
+| Infections and infestations                                         |                          | Urinary tract infection            | 6                | <1             |
+| Infections and infestations                                         |                          | Sinusitis*                         | 6                | 1              |
+| Infections and infestations                                         | Uncommon                 | Aspergillus infections*            | 1                | <1             |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Common                   | Non-Melanoma skin cancer*          | 1                | <1             |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) |                          | Basal cell carcinoma               | 1                | <1             |
+| Blood and lymphatic system disorders                                | Very common              | Thrombocytopenia*                  | 69               | 61             |
+| Blood and lymphatic system disorders                                |                          | Neutropenia*                       | 63               | 60             |
+| Blood and lymphatic system disorders                                |                          | Febrile neutropenia                | 14               | 14             |
+| Blood and lymphatic system disorders                                | Common                   | Leukocytosis                       | 3                | 1              |
+| Immune system disorders                                             | Common                   | Interstitial lung disease*         | 5                | 1              |
+| Metabolism and nutrition disorders                                  | Common                   | Hyperuricaemia                     | 8                | 3              |
+| Nervous system disorders                                            |                          | Tumour lysis syndrome*             | 3                | 3              |
+|                                                                     | Very common              | Peripheral neuropathy*             | 35               | 3              |
+|                                                                     |                          | Headache                           | 11               | 1              |
+|                                                                     | Common                   | Dizziness                          | 6                | <1             |
+|                                                                     | Uncommon                 | Transient ischaemic attack         | 1                | 0              |
+| Eye disorders                                                       | Uncommon                 | Vision blurred                     | 1                | 0              |
+| Eye disorders                                                       |                          | Eye haemorrhage                    | <1               | 0              |
+| Cardiac disorders                                                   | Common                   | Atrial fibrillation                | 10               | 4              |
+| Cardiac disorders                                                   |                          | Cardiac failure*                   | 2                | 0              |
+| Vascular disorders                                                  | Very common              | Haemorrhage*                       | 14               | 2              |
+| Vascular disorders                                                  |                          | Hypertension*                      | 14               | 5              |
+| Vascular disorders                                                  | Common                   | Bruising*                          | 8                | 1              |
+| Vascular disorders                                                  |                          | Epistaxis                          | 6                | 1              |
+| Vascular disorders                                                  |                          | Petechiae                          | 3                | 0              |
+| Gastrointestinal disorders                                          | Very common              | Nausea                             | 32               | 4              |
+| Gastrointestinal disorders                                          |                          | Diarrhoea                          | 28               | 5              |
+| Gastrointestinal disorders                                          |                          | Vomiting                           | 18               | 4              |
+| Gastrointestinal disorders                                          |                          | Stomatitis*                        | 11               | 2              |
+| Gastrointestinal disorders                                          |                          | Constipation                       | 17               | <1             |
+| Gastrointestinal disorders                                          | Common                   | Dyspepsia                          | 8                | 0              |
+| Skin and subcutaneous tissue disorders                              | Very common              | Rash*                              | 23               | 2              |
+| Skin and subcutaneous tissue disorders                              | Common                   | Erythema                           | 5                | 0              |
+| Skin and subcutaneous tissue disorders                              |                          | Onychoclasis                       | 2                | 0              |
+| Skin and subcutaneous tissue disorders                              | Uncommon                 | Urticaria                          | <1               | 0              |
+| Skin and subcutaneous tissue disorders                              |                          | Angioedema                         | 1                | 0              |
+| Skin and subcutaneous tissue disorders                              |                          | Cutaneous vasculitis Panniculitis* | <1 1             | 0 0            |
+| Musculoskeletal and connective                                      | Very common              | Musculoskeletal pain*              | 19               | 2              |
+| Musculoskeletal and connective                                      | Common                   | Muscle spasms                      | 9                | 1              |
+| tissue disorders                                                    |                          | Arthralgia                         | 8                | 1              |
+| Renal and urinary disorders                                         | Very common              | Acute kidney injury                | 11               | 5              |
+| General disorders                                                   | Very common              | Pyrexia                            | 22               | 2              |
+| and administration site conditions                                  | Common                   | Oedema peripheral                  | 5                | 0              |
+| Investigations                                                      | Very common              | Blood creatinine increased         | 16               | 1              |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                |                                                     | Sinusitis*                                          | 6                                                   | 1                                                   |
-|----------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-|                                                                | Uncommon                                            | Aspergillus infections*                             | 1                                                   | <1                                                  |
-| Neoplasms benign, malignant and                                | Common                                              | Non-Melanoma skin cancer*                           | 1                                                   | <1                                                  |
-| unspecified (incl cysts and polyps)                            |                                                     | Basal cell carcinoma                                | 1                                                   | <1                                                  |
-| Blood and lymphatic system disorders                           | Very common                                         | Thrombocytopenia*                                   | 69                                                  | 61                                                  |
-| Blood and lymphatic system disorders                           |                                                     | Neutropenia*                                        | 63                                                  | 60                                                  |
-| Blood and lymphatic system disorders                           |                                                     | Febrile neutropenia                                 | 14                                                  | 14                                                  |
-| Blood and lymphatic system disorders                           | Common                                              | Leukocytosis                                        | 3                                                   | 1                                                   |
-| Immune system disorders                                        | Common                                              | Interstitial lung disease*                          | 5                                                   | 1                                                   |
-| Metabolism and nutrition disorders                             | Common                                              | Hyperuricaemia                                      | 8                                                   | 3                                                   |
-| Metabolism and nutrition disorders                             |                                                     | Tumour lysis syndrome*                              | 3                                                   | 3                                                   |
-| Nervous system disorders                                       | Very common                                         | Peripheral neuropathy*                              | 35                                                  | 3                                                   |
-| Nervous system disorders                                       |                                                     | Headache                                            | 11                                                  | 1                                                   |
-| Nervous system disorders                                       | Common                                              | Dizziness                                           | 6                                                   | <1                                                  |
-| Nervous system disorders                                       | Uncommon                                            | Transient ischaemic attack                          | 1                                                   | 0                                                   |
-| Eye disorders                                                  | Uncommon                                            | Vision blurred                                      | 1                                                   | 0                                                   |
-| Eye disorders                                                  |                                                     | Eye haemorrhage                                     | <1                                                  | 0                                                   |
-| Cardiac disorders                                              | Common                                              | Atrial fibrillation                                 | 10                                                  | 4                                                   |
-|                                                                |                                                     | Cardiac failure*                                    | 2                                                   | 0                                                   |
-| Vascular disorders                                             | Very common                                         | Haemorrhage*                                        | 14                                                  | 2                                                   |
-| Vascular disorders                                             |                                                     | Hypertension*                                       | 14                                                  | 5                                                   |
-| Vascular disorders                                             | Common                                              | Bruising*                                           | 8                                                   | 1                                                   |
-| Vascular disorders                                             |                                                     | Epistaxis                                           | 6                                                   | 1                                                   |
-| Vascular disorders                                             |                                                     | Petechiae                                           | 3                                                   | 0                                                   |
-| Gastrointestinal disorders                                     | Very common                                         | Nausea                                              | 32                                                  | 4                                                   |
-| Gastrointestinal disorders                                     |                                                     | Diarrhoea                                           | 28                                                  | 5                                                   |
-| Gastrointestinal disorders                                     |                                                     | Vomiting                                            | 18                                                  | 4                                                   |
-| Gastrointestinal disorders                                     |                                                     | Stomatitis*                                         | 11                                                  | 2                                                   |
-| Gastrointestinal disorders                                     |                                                     | Constipation                                        | 17                                                  | <1                                                  |
-| Skin and                                                       | Very common                                         | Rash*                                               | 23                                                  | 2                                                   |
-| subcutaneous tissue disorders                                  | Common                                              | Erythema                                            | 5                                                   | 0                                                   |
-| subcutaneous tissue disorders                                  |                                                     | Onychoclasis                                        | 2                                                   | 0                                                   |
-| subcutaneous tissue disorders                                  | Uncommon                                            | Urticaria                                           | <1                                                  | 0                                                   |
-| subcutaneous tissue disorders                                  |                                                     | Angioedema                                          | 1                                                   | 0                                                   |
-| subcutaneous tissue disorders                                  |                                                     | Cutaneous vasculitis                                | <1                                                  | 0                                                   |
-| Musculoskeletal                                                |                                                     | Panniculitis*                                       | 1                                                   | 0 2                                                 |
-| and connective                                                 | Very common                                         | Musculoskeletal pain*                               | 19                                                  |                                                     |
-|                                                                | Common                                              | Muscle spasms                                       | 9                                                   | 1                                                   |
-| tissue disorders                                               |                                                     | Arthralgia                                          | 8                                                   | 1                                                   |
-| Renal and urinary disorders                                    | Very common                                         | Acute kidney injury                                 | 11                                                  | 5                                                   |
-| General disorders                                              | Very common                                         | Pyrexia                                             | 22                                                  | 2                                                   |
-| and administration site conditions                             | Common                                              | Oedema peripheral                                   | 5                                                   | 0                                                   |
-| Investigations                                                 | Very common                                         | Blood creatinine increased                          | 16                                                  | 1                                                   |
-| † Frequencies are rounded to the nearest integer. *            | † Frequencies are rounded to the nearest integer. * | † Frequencies are rounded to the nearest integer. * | † Frequencies are rounded to the nearest integer. * | † Frequencies are rounded to the nearest integer. * |
-| Terms required grouping. # Includes events with fatal outcome. |                                                     |                                                     |                                                     |                                                     |
+| †   | Frequencies are rounded to the nearest integer.   |
+|-----|---------------------------------------------------|
+| *   | Terms required grouping.                          |
+| #   | Includes events with fatal outcome.               |
 
 ## Description of selected adverse reactions
 
 ## Discontinuation and dose reduction due to adverse reactions
 
-Of the 1 981 patients treated with IMBRUVICA for B-cell malignancies, 6% discontinued treatment primarily due to adverse reactions. These included pneumonia, atrial fibrillation, neutropenia, rash, thrombocytopenia, and haemorrhage. Adverse reactions leading to dose reduction occurred in approximately 8% of patients. In the phase 3 TRIANGLE study involving 265 patients with previously untreated MCL who were eligible for ASCT treatment discontinuation due to adverse
-
-<div style=\"page-break-after: always\"></div>
-
-reactions was observed in 13% in the IMBRUVICA arm. These included neutropenia, pneumonia, atrial fibrillation, acute kidney injury, diarrhoea, rash, and interstitial lung disease. Adverse reactions leading to dose reduction occurred in approximately 12% in the IMBRUVICA arm.
+Of the 1 981 patients treated with IMBRUVICA for B-cell malignancies, 6% discontinued treatment primarily due to adverse reactions. These included pneumonia, atrial fibrillation, neutropenia, rash, thrombocytopenia, and haemorrhage. Adverse reactions leading to dose reduction occurred in approximately 8% of patients. In the phase 3 TRIANGLE study involving 265 patients with previously untreated MCL who were eligible for ASCT treatment discontinuation due to adverse reactions was observed in 13% in the IMBRUVICA arm. These included neutropenia, pneumonia, atrial fibrillation, acute kidney injury, diarrhoea, rash, and interstitial lung disease. Adverse reactions leading to dose reduction occurred in approximately 12% in the IMBRUVICA arm.
 
 ## Elderly
 
@@ -1780,6 +1735,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There are limited data on the effects of IMBRUVICA overdose. No maximum tolerated dose was reached in the phase 1 study in which patients received up to 12.5 mg/kg/day (1 400 mg/day). In a separate study, one healthy subject who received a dose of 1 680 mg experienced reversible grade 4 hepatic enzyme increases [aspartate aminotransferase (AST) and alanine aminotransferase (ALT)]. There is no specific antidote for IMBRUVICA. Patients who ingested more than the recommended dose should be closely monitored and given appropriate supportive treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -1788,11 +1745,7 @@ Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitors, ATC
 
 ## Mechanism of action
 
-Ibrutinib is a potent, small-molecule inhibitor of Bruton's tyrosine kinase (BTK). Ibrutinib forms a covalent bond with a cysteine residue (Cys-481) in the BTK active site, leading to sustained inhibition
-
-<div style=\"page-break-after: always\"></div>
-
-of BTK enzymatic activity. BTK, a member of the Tec kinase family, is an important signalling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways. The BCR pathway is implicated in the pathogenesis of several B-cell malignancies, including MCL, diffuse large B-cell lymphoma (DLBCL), follicular lymphoma, and CLL. BTK's pivotal role in signalling through the B-cell surface receptors results in activation of pathways necessary for B-cell trafficking, chemotaxis and adhesion. Preclinical studies have shown that ibrutinib effectively inhibits malignant B-cell proliferation and survival in vivo as well as cell migration and substrate adhesion in vitro .
+Ibrutinib is a potent, small-molecule inhibitor of Bruton's tyrosine kinase (BTK). Ibrutinib forms a covalent bond with a cysteine residue (Cys-481) in the BTK active site, leading to sustained inhibition of BTK enzymatic activity. BTK, a member of the Tec kinase family, is an important signalling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways. The BCR pathway is implicated in the pathogenesis of several B-cell malignancies, including MCL, diffuse large B-cell lymphoma (DLBCL), follicular lymphoma, and CLL. BTK's pivotal role in signalling through the B-cell surface receptors results in activation of pathways necessary for B-cell trafficking, chemotaxis and adhesion. Preclinical studies have shown that ibrutinib effectively inhibits malignant B-cell proliferation and survival in vivo as well as cell migration and substrate adhesion in vitro.
 
 In preclinical tumour models, the combination of ibrutinib and venetoclax resulted in increased cellular apoptosis and anti-tumour activity compared to either agent alone. BTK inhibition by ibrutinib increases CLL cell dependence on BCL-2, a cell survival pathway, while venetoclax inhibits BCL-2 leading to apoptosis.
 
@@ -1808,7 +1761,7 @@ In an in vitro study, ibrutinib demonstrated inhibition of collagen-induced plat
 
 ## Effect on QT/QTc interval and cardiac electrophysiology
 
-The effect of ibrutinib on the QTc interval was evaluated in 20 healthy male and female subjects in a randomised, double-blind thorough QT study with placebo and positive controls. At a supratherapeutic dose of 1 680 mg, ibrutinib did not prolong the QTc interval to any clinically relevant extent. The largest upper bound of the 2-sided 90% CI for the baseline adjusted mean differences between ibrutinib and placebo was below 10 ms. In this same study, a concentration dependent shortening in the QTc interval was observed (-5.3 ms [90% CI: -9.4, -1.1] at a Cmax of 719 ng/mL following the supratherapeutic dose of 1 680 mg).
+The effect of ibrutinib on the QTc interval was evaluated in 20 healthy male and female subjects in a randomised, double-blind thorough QT study with placebo and positive controls. At a supratherapeutic dose of 1 680 mg, ibrutinib did not prolong the QTc interval to any clinically relevant extent. The largest upper bound of the 2-sided 90%CI for the baseline adjusted mean differences between ibrutinib and placebo was below 10 ms. In this same study, a concentration dependent shortening in the QTc interval was observed (-5.3 ms [90%CI: -9.4, -1.1] at a Cmax of 719 ng/mL following the supratherapeutic dose of 1 680 mg).
 
 ## Clinical efficacy and safety
 
@@ -1816,20 +1769,17 @@ The effect of ibrutinib on the QTc interval was evaluated in 20 healthy male and
 
 Combination treatment in patients previously untreated for MCL who were eligible for autologous stem cell transplantation (ASCT)
 
-The safety and efficacy of IMBRUVICA in patients with previously untreated MCL and who were eligible for autologous stem cell transplantation (ASCT) were evaluated in a randomised, phase 3, multi-centre, open-label, three arm study (TRIANGLE). The TRIANGLE study randomised 870 patients in a 1:1:1 ratio to receive either:
-
-- -IMBRUVICA Arm: IMBRUVICA 560 mg daily (Days 1-19) in combination with R-CHOP for three 21-day cycles (Cycles 1, 3, 5) alternating with three 21-day cycles of R-DHAP (Cycles 2, 4, 6) as induction therapy followed by 2 years IMBRUVICA 560 mg daily;
-- -IMBRUVICA + ASCT Arm: IMBRUVICA 560 mg daily (Days 1-19) in combination with R-CHOP for three 21-day cycles (Cycles 1, 3, 5) alternating with three 21-day cycles of R-DHAP
-
 <div style=\"page-break-after: always\"></div>
 
-(Cycles 2, 4, 6) as induction therapy followed by high-dose chemotherapy and ASCT followed by 2 years IMBRUVICA 560 mg daily;
+The safety and efficacy of IMBRUVICA in patients with previously untreated MCL and who were eligible for autologous stem cell transplantation (ASCT) were evaluated in a randomised, phase 3, multi-centre, open-label, three arm study (TRIANGLE). The TRIANGLE study randomised 870 patients in a 1:1:1 ratio to receive either:
 
-- -ASCT Arm: R-CHOP for three 21-day cycles (Cycles 1, 3, 5) alternating with three 21-day cycles of R-DHAP (Cycles 2, 4, 6) as induction therapy followed by high-dose chemotherapy and ASCT (Control Arm).
+- IMBRUVICAArm: IMBRUVICA 560 mg daily (Days 1-19) in combination with R-CHOP for three 21-day cycles (Cycles 1, 3, 5) alternating with three 21-day cycles of R-DHAP (Cycles 2, 4, 6) as induction therapy followed by 2 years IMBRUVICA 560 mg daily;
+- IMBRUVICA + ASCT Arm: IMBRUVICA 560 mg daily (Days 1-19) in combination with R-CHOP for three 21-day cycles (Cycles 1, 3, 5) alternating with three 21-day cycles of R-DHAP (Cycles 2, 4, 6) as induction therapy followed by high-dose chemotherapy and ASCT followed by 2 years IMBRUVICA 560 mg daily;
+- ASCT Arm: R-CHOP for three 21-day cycles (Cycles 1, 3, 5) alternating with three 21-day cycles of R-DHAP (Cycles 2, 4, 6) as induction therapy followed by high-dose chemotherapy and ASCT (Control Arm).
 
 The efficacy analyses were conducted based on 809 patients in the full analysis set (FAS) population using 3 pairwise comparisons of the 3 treatment arms: IMBRUVICA + ASCT vs. ASCT; IMBRUVICA vs. ASCT; and IMBRUVICA + ASCT vs. IMBRUVICA. The FAS population included patients that have either provided explicit permission for their data to be included as per EU General Data Protection Regulation or were deceased. The results presented are from the IMBRUVICA (N=265) arm and the ASCT (N=268) arm, only.
 
-Induction with R-CHOP (rituximab 375 mg/m 2 on Day 0 or 1, cyclophosphamide 750 mg/m 2 on Day 1, doxorubicin 50 mg/m 2 on Day 1, vincristine 1.4 mg/m 2 up to maximum of 2 mg on Day 1, and prednisone 100 mg on days 1-5) alternating with R-DHAP (rituximab 375 mg/m 2 on Day 0 or 1, dexamethasone 40 mg on days 1-4, Ara-C 2x 2 g/m 2 every 12 hours on Day 2, cisplatin 100 mg/m 2 (alternatively oxaliplatin 130 mg/m²) on Day 1, and G-CSF 5 µg/kg from Day 6 until recovery of WBC) was the same in all 3 treatment arms. Rituximab maintenance therapy was allowed in all treatment groups (59.7% in the IMBRUVICA arm; 62.5% in the ASCT arm) according to national treatment guidelines.
+Induction with R-CHOP (rituximab 375 mg/m 2 on Day 0 or 1, cyclophosphamide 750 mg/m 2 on Day 1, doxorubicin 50 mg/m 2 on Day 1, vincristine 1.4 mg/m 2 up to maximum of 2 mg on Day 1, and prednisone 100 mg on days 1-5) alternating with R-DHAP (rituximab 375 mg/m 2 on Day 0 or 1, dexamethasone 40 mg on days 1-4, Ara-C 2x 2 g/m 2 every 12 hours on Day 2, cisplatin 100 mg/m 2 (alternatively oxaliplatin 130 mg/m²) on Day 1, and G-CSF 5 µg/kg fromDay 6 until recovery of WBC) was the same in all 3 treatment arms. Rituximab maintenance therapy was allowed in all treatment groups (59.7% in the IMBRUVICA arm; 62.5% in the ASCT arm) according to national treatment guidelines.
 
 The median age was 57 years (range: 27 to 65 years), 78% were male and 99% were Caucasian. Ninety-eight percent of patients had a baseline ECOG performance status of 0 or 1. At baseline, 86% had Ann Arbor Stage IV disease, and 57%, 28%, and 15% of patients had low, intermediate, and high-risk score by MCL International Prognostic Index (MIPI), respectively. Of the patients 11.6% had blastoid or pleomorphic histology. P53 expression was assessed in 64.6% of patients; expression &gt;50% was present in 14.1% of these patients. Ki-67 proliferation index was assessed in 88.3% of patients and 32.9% of these patients had a proliferation index of &gt;30%.
 
@@ -1864,23 +1814,25 @@ FFS=failure-free survival; NE=not estimable; HR=hazard ratio (based on unstratif
 
 § Presented results are derived from descriptive analysis
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 1: Kaplan-Meier Curve of European MCL Network Assessed Failure-free Survival in TRIANGLE (FAS population)*
 
-<!-- image -->
-
-I---△---A
+<div style=\"page-break-after: always\"></div>
 
 * I=IMBRUVICA; A=ASCT
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 2: Kaplan-Meier Curve of OS § in TRIANGLE (FAS population)*
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
-## Patients with MCL who received at least one prior therapy Single agent
+*
+
+I=IMBRUVICA; A=ASCT
+
+§ Presented results are derived from descriptive analysis
+
+Patients with MCL who received at least one prior therapy
+
+## Single agent
 
 The safety and efficacy of IMBRUVICA in patients with relapsed or refractory MCL were evaluated in a single open-label, multi-centre phase 2 study (PCYC-1104-CA) of 111 patients. The median age was 68 years (range: 40 to 84 years), 77% were male and 92% were Caucasian. Patients with ECOG performance status of 3 or greater were excluded from the study. The median time since diagnosis was 42 months, and median number of prior treatments was 3 (range: 1 to 5 treatments), including 35% with prior high-dose chemotherapy, 43% with prior bortezomib, 24% with prior lenalidomide, and 11% with prior autologous or allogeneic stem cell transplant. At baseline, 39% of patients had bulky disease (≥5 cm), 49% had high-risk score by Simplified MCL International Prognostic Index (MIPI), and 72% had advanced disease (extranodal and/or bone marrow involvement) at screening.
 
@@ -1900,8 +1852,6 @@ Table 5: ORR and DOR in patients with relapsed or refractory MCL (Study PCYC-110
 | Median time to initial response, months (range) | 1.9 (1.4-13.7)  |
 | Median time to CR, months (range)               | 5.5 (1.7-11.5)  |
 
-CI=confidence interval; CR=complete response; DOR=duration of response; ORR=overall response rate; PR=partial response; NR=not reached
-
 The efficacy data was further evaluated by an Independent Review Committee (IRC) demonstrating an ORR of 69%, with a 21% complete response (CR) rate and a 48% partial response (PR) rate. The IRC estimated median DOR was 19.6 months.
 
 The overall response to IMBRUVICA was independent of prior treatment including bortezomib and lenalidomide or underlying risk/prognostic factors, bulky disease, gender or age.
@@ -1920,15 +1870,15 @@ Table 6: Efficacy Results in patients with relapsed or refractory MCL (Study MCL
 | ORR (%)                       | 71.9                         | 40.4                         |
 | p-value                       | p<0.0001                     | p<0.0001                     |
 
-NE=not estimable; HR=hazard ratio; CI=confidence interval; ORR=overall response rate; PFS=progression-free survival a IRC evaluated.
+NE=not estimable; HR=hazard ratio; CI=confidence interval; ORR=overall response rate; PFS=progression-free survival
+
+a IRC evaluated.
 
 A smaller proportion of patients treated with ibrutinib experienced a clinically meaningful worsening of lymphoma symptoms versus temsirolimus (27% versus 52%) and time to worsening of symptoms occurred more slowly with ibrutinib versus temsirolimus (HR 0.27, p&lt;0.0001).
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 3: Kaplan-Meier Curve of PFS (ITT Population) in Study MCL3001
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
 ## CLL
 
@@ -1940,11 +1890,9 @@ A randomised, multi-centre, open-label phase 3 study (PCYC-1115-CA) of IMBRUVICA
 
 The median age was 73 years (range, 65 to 90 years), 63% were male, and 91% were Caucasian. Ninety one percent of patients had a baseline ECOG performance status of 0 or 1 and 9% had an ECOG performance status of 2. The study enrolled 269 patients with CLL. At baseline, 45% had advanced clinical stage (Rai Stage III or IV), 35% of patients had at least one tumour ≥5 cm, 39% with baseline anaemia, 23% with baseline thrombocytopenia, 65% had elevated β2 microglobulin &gt;3 500 mcg/L, 47% had a CrCL &lt;60 mL/min, 20% of patients presented with del11q, 6% of patients presented with del17p/tumour protein 53 (TP53) mutation, and 44% of patients presented with unmutated immunoglobulin heavy chain variable region (IGHV).
 
-Progression-free survival (PFS) as assessed by IRC according to International Workshop on CLL (IWCLL) criteria indicated an 84% statistically significant reduction in the risk of death or progression
+Progression-free survival (PFS) as assessed by IRC according to International Workshop on CLL (IWCLL) criteria indicated an 84% statistically significant reduction in the risk of death or progression in the IMBRUVICA arm. Efficacy results for Study PCYC-1115-CA are shown in Table 7 and the Kaplan-Meier curves for PFS and OS are shown in Figures 4 and 5, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-in the IMBRUVICA arm. Efficacy results for Study PCYC-1115-CA are shown in Table 7 and the Kaplan-Meier curves for PFS and OS are shown in Figures 4 and 5, respectively.
 
 There was a statistically significant sustained platelet or haemoglobin improvement in the ITT population in favour of ibrutinib versus chlorambucil. In patients with baseline cytopenias, sustained haematologic improvement was: platelets 77.1% versus 42.9%; haemoglobin 84.3% versus 45.5% for ibrutinib and chlorambucil, respectively.
 
@@ -1970,13 +1918,9 @@ b Median OS not reached for both arms. p&lt;0.005 for OS
 
 Figure 4: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1115-CA
 
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
 Figure 5: Kaplan-Meier Curve of OS (ITT Population) in Study PCYC-1115-CA
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
 The treatment effect of ibrutinib in Study PCYC-1115-CA was consistent across high-risk patients with del17p/TP53 mutation, del11q, and/or unmutated IGHV.
 
@@ -1986,7 +1930,7 @@ With median follow-up time on study of 115 months in Study PCYC-1115-CA and its 
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 6: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1115-CA with 115 Months Follow-up
+Figure 6: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1115-CA with 115Months Follow-up
 
 <!-- image -->
 
@@ -2012,6 +1956,14 @@ Table 8: Efficacy results in Study PCYC-1130-CA
 | CR b                        | 19.5                           | 7.8                               |
 | PR c                        | 69.0                           | 65.5                              |
 
+CI=confidence interval; HR=hazard ratio; CR=complete response; PR=partial response.
+
+a IRC evaluated.
+
+b Includes 1 patient in the IMBRUVICA+obinutuzumab arm with a complete response with incomplete marrow recovery (CRi).
+
+c PR=PR+nPR.
+
 Figure 7: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1130-CA
 
 <!-- image -->
@@ -2028,26 +1980,26 @@ Table 9: Subgroup analysis of PFS (Study PCYC-1130-CA)
 | High risk (del17p/TP53/del11q/unmutated IGHV) | High risk (del17p/TP53/del11q/unmutated IGHV) | High risk (del17p/TP53/del11q/unmutated IGHV) | High risk (del17p/TP53/del11q/unmutated IGHV) |
 | Yes                                           | 148                                           | 0.154                                         | 0.087, 0.270                                  |
 | No                                            | 81                                            | 0.521                                         | 0.221, 1.231                                  |
-| Del17p/TP53                                   |                                               |                                               |                                               |
+| Del17p/TP53                                   | Del17p/TP53                                   | Del17p/TP53                                   | Del17p/TP53                                   |
 | Yes                                           | 41                                            | 0.109                                         | 0.031, 0.380                                  |
 | No                                            | 188                                           | 0.275                                         | 0.166, 0.455                                  |
-| FISH                                          |                                               |                                               |                                               |
+| FISH                                          | FISH                                          | FISH                                          | FISH                                          |
 | Del17p                                        | 32                                            | 0.141                                         | 0.039, 0.506                                  |
 | Del11q                                        | 35                                            | 0.131                                         | 0.030, 0.573                                  |
 | Others                                        | 162                                           | 0.302                                         | 0.176, 0.520                                  |
-| Unmutated IGHV                                |                                               |                                               |                                               |
+| Unmutated IGHV                                | Unmutated IGHV                                | Unmutated IGHV                                | Unmutated IGHV                                |
 | Yes                                           | 123                                           | 0.150                                         | 0.084, 0.269                                  |
 | No                                            | 91                                            | 0.300                                         | 0.120, 0.749                                  |
-| Age                                           |                                               |                                               |                                               |
+| Age                                           | Age                                           | Age                                           | Age                                           |
 | <65                                           | 46                                            | 0.293                                         | 0.122, 0.705                                  |
 | ≥65                                           | 183                                           | 0.215                                         | 0.125, 0.372                                  |
-| Bulky disease                                 |                                               |                                               |                                               |
+| Bulky disease                                 | Bulky disease                                 | Bulky disease                                 | Bulky disease                                 |
 | <5 cm                                         | 154                                           | 0.289                                         | 0.161, 0.521                                  |
 | ≥5 cm                                         | 74                                            | 0.184                                         | 0.085, 0.398                                  |
-| Rai stage                                     |                                               |                                               |                                               |
+| Rai stage                                     | Rai stage                                     | Rai stage                                     | Rai stage                                     |
 | 0/I/II                                        | 110                                           | 0.221                                         | 0.115, 0.424                                  |
 | III/IV                                        | 119                                           | 0.246                                         | 0.127, 0.477                                  |
-| ECOG per CRF                                  |                                               |                                               |                                               |
+| ECOG per CRF                                  | ECOG per CRF                                  | ECOG per CRF                                  | ECOG per CRF                                  |
 | 0                                             | 110                                           | 0.226                                         | 0.110, 0.464                                  |
 | 1-2                                           | 119                                           | 0.239                                         | 0.130, 0.438                                  |
 
@@ -2080,53 +2032,45 @@ Table 10: Efficacy results in Study E1912
 | P-value a                   | 0.0007                           | 0.0007                                                     |
 | Overall Response Rate b (%) | 96.9                             | 85.7                                                       |
 
-HR = hazard ratio; NE = not evaluable
-
 Figure 8: Kaplan-Meier Curve of PFS (ITT Population) in Study E1912
 
-<!-- image -->
-
-The treatment effect of ibrutinib was consistent across the high-risk CLL/SLL population (TP53 mutation, del11q, or unmutated IGHV), with a PFS HR of 0.23 [95% CI (0.13, 0.40)], p &lt;0.0001, as shown in Table 11. The 3-year PFS rate estimates for the high-risk CLL/SLL population were 90.4% [95% CI (85.4, 93.7)] and 60.3% [95% CI (46.2, 71.8)] in the IR and FCR arms, respectively.
+The treatment effect of ibrutinib was consistent across the high-risk CLL/SLL population (TP53 mutation, del11q, or unmutated IGHV), with a PFS HR of 0.23 [95%CI (0.13, 0.40)], p &lt;0.0001, as shown in Table 11. The 3-year PFS rate estimates for the high-risk CLL/SLL population were 90.4% [95% CI (85.4, 93.7)] and 60.3% [95% CI (46.2, 71.8)] in the IR and FCR arms, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 11: Subgroup analysis of PFS (Study E1912)
 
-|                                        | N   | Hazard Ratio   | 95% CI       |
+|                                        |   N |   Hazard Ratio | 95% CI       |
 |----------------------------------------|-----|----------------|--------------|
-| All subjects                           | 529 | 0.340          | 0.222, 0.522 |
+| All subjects                           | 529 |          0.340 | 0.222, 0.522 |
 | High risk (TP53/del11q/unmutated IGHV) |     |                |              |
-| Yes                                    | 313 | 0.231          | 0.132, 0.404 |
-| No                                     | 216 | 0.568          | 0.292, 1.105 |
+| Yes                                    | 313 |          0.231 | 0.132, 0.404 |
+| No                                     | 216 |          0.568 | 0.292, 1.105 |
 | del11q                                 |     |                |              |
-| Yes                                    | 117 | 0.199          | 0.088, 0.453 |
-| No                                     | 410 | 0.433          | 0.260, 0.722 |
+| Yes                                    | 117 |          0.199 | 0.088, 0.453 |
+| No                                     | 410 |          0.433 | 0.260, 0.722 |
 | Unmutated IGHV                         |     |                |              |
-| Yes                                    | 281 | 0.233          | 0.129, 0.421 |
-| No                                     | 112 | 0.741          | 0.276, 1.993 |
+| Yes                                    | 281 |          0.233 | 0.129, 0.421 |
+| No                                     | 112 |          0.741 | 0.276, 1.993 |
 | Bulky disease                          |     |                |              |
-| <5 cm                                  | 316 | 0.393          | 0.217, 0.711 |
-| ≥5 cm                                  | 194 | 0.257          | 0.134, 0.494 |
+| <5 cm                                  | 316 |          0.393 | 0.217, 0.711 |
+| ≥5 cm                                  | 194 |          0.257 | 0.134, 0.494 |
 | Rai stage                              |     |                |              |
-| 0/I/II                                 | 301 | 0.398          | 0.224, 0.708 |
-| III/IV                                 | 228 | 0.281          | 0.148, 0.534 |
+| 0/I/II                                 | 301 |          0.398 | 0.224, 0.708 |
+| III/IV                                 | 228 |          0.281 | 0.148, 0.534 |
 | ECOG                                   |     |                |              |
-| 0                                      | 335 | 0.242          | 0.138, 0.422 |
-| 1-2                                    | 194 | 0.551          | 0.271, 1.118 |
+| 0                                      | 335 |          0.242 | 0.138, 0.422 |
+| 1-2                                    | 194 |          0.551 | 0.271, 1.118 |
 
 Hazard ratio based on non-stratified analysis
 
 Figure 9: Kaplan-Meier Curve of OS (ITT Population) in Study E1912
 
-<!-- image -->
-
 ## Fixed duration combination therapy
 
-The safety and efficacy of fixed duration therapy with IMBRUVICA in combination with venetoclax versus chlorambucil in combination with obinutuzumab in patients with previously untreated CLL were evaluated in a randomised, open-label, phase 3 (CLL3011) study. The study enrolled patients with previously untreated CLL who were 65 years or older, and adult patients &lt;65 years of age with a CIRS score &gt;6 or CrCL ≥30 to &lt;70 mL/min. Patients with del 17p or known TP53 mutations were excluded. Patients (n=211) were randomised 1:1 to receive either IMBRUVICA in combination with venetoclax or chlorambucil in combination with obinutuzumab. Patients in the IMBRUVICA plus
+The safety and efficacy of fixed duration therapy with IMBRUVICA in combination with venetoclax versus chlorambucil in combination with obinutuzumab in patients with previously untreated CLL were evaluated in a randomised, open-label, phase 3 (CLL3011) study. The study enrolled patients with previously untreated CLL who were 65 years or older, and adult patients &lt;65 years of age with a CIRS score &gt;6 or CrCL ≥30 to &lt;70 mL/min. Patients with del 17p or known TP53 mutations were excluded. Patients (n=211) were randomised 1:1 to receive either IMBRUVICA in combination with venetoclax or chlorambucil in combination with obinutuzumab. Patients in the IMBRUVICA plus venetoclax arm received single agent IMBRUVICA for 3 cycles followed by IMBRUVICA in combination with venetoclax for 12 cycles (including 5-week dose-titration schedule). Each cycle was 28 days. IMBRUVICA was administered at a dose of 420 mg daily. Venetoclax was administered daily, starting with 20 mg for 1 week, followed by 1 week at each dose level of 50 mg, 100 mg, and 200 mg, then the recommended daily dose of 400 mg. Patients randomised to the chlorambucil plus obinutuzumab arm received treatment for 6 cycles. Obinutuzumab was administered at a dose of 1 000 mg on Days 1, 8 and 15 in Cycle 1. In Cycles 2 to 6, 1 000 mg obinutuzumab was given on Day 1. Chlorambucil was administered at a dose of 0.5 mg/kg body weight on Days 1 and 15 of Cycles 1 to 6. Patients with confirmed progression by IWCLL criteria after completion of either fixed duration regimen could be treated with single-agent IMBRUVICA.
 
 <div style=\"page-break-after: always\"></div>
-
-venetoclax arm received single agent IMBRUVICA for 3 cycles followed by IMBRUVICA in combination with venetoclax for 12 cycles (including 5-week dose-titration schedule). Each cycle was 28 days. IMBRUVICA was administered at a dose of 420 mg daily. Venetoclax was administered daily, starting with 20 mg for 1 week, followed by 1 week at each dose level of 50 mg, 100 mg, and 200 mg, then the recommended daily dose of 400 mg. Patients randomised to the chlorambucil plus obinutuzumab arm received treatment for 6 cycles. Obinutuzumab was administered at a dose of 1 000 mg on Days 1, 8 and 15 in Cycle 1. In Cycles 2 to 6, 1 000 mg obinutuzumab was given on Day 1. Chlorambucil was administered at a dose of 0.5 mg/kg body weight on Days 1 and 15 of Cycles 1 to 6. Patients with confirmed progression by IWCLL criteria after completion of either fixed duration regimen could be treated with single-agent IMBRUVICA.
 
 The median age was 71 years (range, 47 to 93 years), 58% were male, and 96% were Caucasian. All patients had a baseline ECOG performance status of 0 (35%), 1 (53%), or 2 (12%). At baseline, 18% of patients presented with CLL with del 11q and 52% with unmutated IGHV.
 
@@ -2136,57 +2080,52 @@ With a median follow-up time on study of 28 months, efficacy results for Study C
 
 Table 12: Efficacy results in Study CLL3011
 
-| Endpoint a                  | IMBRUVICA + Venetoclax N=106   | Chlorambucil + Obinutuzumab N=105   |
-|-----------------------------|--------------------------------|-------------------------------------|
-| Progression-Free Survival   |                                |                                     |
-| Number of events (%)        | 22 (20.8)                      | 67 (63.8)                           |
-| Median (95% CI), months     | NE (31.2, NE)                  | 21.0 (16.6, 24.7)                   |
-| HR (95% CI)                 | 0.22 (0.13, 0.36)              | 0.22 (0.13, 0.36)                   |
-| P-value b                   | <0.0001                        | <0.0001                             |
-| Complete Response Rate(%) c | 38.7                           | 11.4                                |
-| 95% CI                      | (29.4, 48.0)                   | (5.3, 17.5)                         |
-| P-value d                   | <0.0001                        | <0.0001                             |
-| Overall Response Rate (%) e | 86.8                           | 84.8                                |
-| 95% CI                      | (80.3, 93.2)                   | (77.9, 91.6)                        |
+| Endpoint a                   | IMBRUVICA + Venetoclax N=106   | Chlorambucil + Obinutuzumab N=105   |
+|------------------------------|--------------------------------|-------------------------------------|
+| Progression-Free Survival    |                                |                                     |
+| Number of events (%)         | 22 (20.8)                      | 67 (63.8)                           |
+| Median (95% CI), months      | NE (31.2, NE)                  | 21.0 (16.6, 24.7)                   |
+| HR (95% CI)                  | 0.22 (0.13, 0.36)              | 0.22 (0.13, 0.36)                   |
+| P-value b                    | <0.0001                        | <0.0001                             |
+| Complete Response Rate (%) c | 38.7                           | 11.4                                |
+| 95% CI                       | (29.4, 48.0)                   | (5.3, 17.5)                         |
+| P-value d                    | <0.0001                        | <0.0001                             |
+| Overall Response Rate (%) e  | 86.8                           | 84.8                                |
+| 95% CI                       | (80.3, 93.2)                   | (77.9, 91.6)                        |
 
 CR = complete response; CRi = complete response with incomplete marrow recovery; HR = hazard ratio; NE = not evaluable; nPR = nodular partial response; PR = partial response
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 10: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL in Study CLL3011
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
 The treatment effect of IMBRUVICA plus venetoclax was consistent across the high-risk CLL population (TP53 mutation, del 11q, or unmutated IGHV), with a PFS HR of 0.23 [95% CI (0.13, 0.41)].
 
-Overall survival data were not mature. With a median follow-up of 28 months, there was no significant difference between treatment arms with a total of 23 deaths: 11 (10.4%) in the IMBRUVICA plus venetoclax arm and 12 (11.4%) in the chlorambucil plus obinutuzumab arm with a OS HR of 1.048 [95% CI (0.454, 2.419)]. After 6 months additional follow-up, 11 (10.4%) and 16 (15.2%) deaths were reported in the IMBRUVICA plus venetoclax arm and the chlorambucil plus obinutuzumab arm, respectively with OS HR estimated at 0.760 [95% CI (0.352, 1.642]).
+Overall survival data were not mature. With a median follow-up of 28 months, there was no significant difference between treatment arms with a total of 23 deaths: 11 (10.4%) in the IMBRUVICA plus venetoclax arm and 12 (11.4%) in the chlorambucil plus obinutuzumab armwith a OS HR of 1.048 [95% CI (0.454, 2.419)]. After 6 months additional follow-up, 11 (10.4%) and 16 (15.2%) deaths were reported in the IMBRUVICA plus venetoclax arm and the chlorambucil plus obinutuzumab arm, respectively with OS HR estimated at 0.760 [95% CI (0.352, 1.642]).
 
 Table 13: Minimal residual disease negativity rates in Study CLL3011
 
-|                         | NGS Assay a                  | NGS Assay a                       | Flow cytometry b             | Flow cytometry b                  |
-|-------------------------|------------------------------|-----------------------------------|------------------------------|-----------------------------------|
-|                         | IMBRUVICA + Venetoclax N=106 | Chlorambucil + Obinutuzumab N=105 | IMBRUVICA + Venetoclax N=106 | Chlorambucil + Obinutuzumab N=105 |
-| MRDNegativity Rate      | MRDNegativity Rate           | MRDNegativity Rate                | MRDNegativity Rate           | MRDNegativity Rate                |
-| Bone marrow, n (%)      | 59 (55.7)                    | 22 (21.0)                         | 72 (67.9)                    | 24 (22.9)                         |
-| 95% CI                  | (46.2, 65.1)                 | (13.2, 28.7)                      | (59.0, 76.8)                 | (14.8, 30.9)                      |
-| P-value                 | <0.0001                      | <0.0001                           |                              |                                   |
-| Peripheral Blood, n (%) | 63 (59.4)                    | 42 (40.0)                         | 85 (80.2)                    | 49 (46.7)                         |
-| 95% CI                  | (50.1, 68.8)                 | (30.6, 49.4)                      | (72.6, 87.8)                 | (37.1, 56.2)                      |
+|                         | NGS Assay a - IMBRUVICA + Venetoclax N=106   | NGS Assay a - Chlorambucil + Obinutuzumab N=105   | Flow cytometry b - IMBRUVICA + Venetoclax N=106   | Flow cytometry b - Chlorambucil + Obinutuzumab N=105   |
+|-------------------------|----------------------------------------------|---------------------------------------------------|---------------------------------------------------|--------------------------------------------------------|
+| MRD Negativity Rate     | MRD Negativity Rate                          | MRD Negativity Rate                               | MRD Negativity Rate                               | MRD Negativity Rate                                    |
+| Bone marrow, n (%)      | 59 (55.7)                                    | 22 (21.0)                                         | 72 (67.9)                                         | 24 (22.9)                                              |
+| 95% CI                  | (46.2, 65.1)                                 | (13.2, 28.7)                                      | (59.0, 76.8)                                      | (14.8, 30.9)                                           |
+| P-value                 | <0.0001                                      | <0.0001                                           |                                                   |                                                        |
+| Peripheral Blood, n (%) | 63 (59.4)                                    | 42 (40.0)                                         | 85 (80.2)                                         | 49 (46.7)                                              |
+| 95% CI                  | (50.1, 68.8)                                 | (30.6, 49.4)                                      | (72.6, 87.8)                                      | (37.1, 56.2)                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-| MRDNegativity Rateat Three Months After Completion of Treatment   | MRDNegativity Rateat Three Months After Completion of Treatment   | MRDNegativity Rateat Three Months After Completion of Treatment   | MRDNegativity Rateat Three Months After Completion of Treatment   | MRDNegativity Rateat Three Months After Completion of Treatment   |
-|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
-| Bone marrow, n (%)                                                | 55 (51.9)                                                         | 18 (17.1)                                                         | 60 (56.6)                                                         | 17 (16.2)                                                         |
-| 95% CI                                                            | (42.4, 61.4)                                                      | (9.9, 24.4)                                                       | (47.2, 66.0)                                                      | (9.1, 23.2)                                                       |
-| Peripheral Blood, n (%)                                           | 58 (54.7)                                                         | 41 (39.0)                                                         | 65 (61.3)                                                         | 43 (41.0)                                                         |
-| 95% CI                                                            | (45.2, 64.2)                                                      | (29.7, 48.4)                                                      | (52.0, 70.6)                                                      | (31.5, 50.4)                                                      |
+| MRD Negativity Rateat Three Months After Completion of Treatment - Bone marrow, n (%)   | MRD Negativity Rateat Three Months After Completion of Treatment - 55 (51.9)   | MRD Negativity Rateat Three Months After Completion of Treatment - 18 (17.1)   | MRD Negativity Rateat Three Months After Completion of Treatment - 60 (56.6)   | MRD Negativity Rateat Three Months After Completion of Treatment - 17 (16.2)   |
+|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 95% CI                                                                                  | (42.4, 61.4)                                                                   | (9.9, 24.4)                                                                    | (47.2, 66.0)                                                                   | (9.1, 23.2)                                                                    |
+| Peripheral Blood, n (%)                                                                 | 58 (54.7)                                                                      | 41 (39.0)                                                                      | 65 (61.3)                                                                      | 43 (41.0)                                                                      |
+| 95% CI                                                                                  | (45.2, 64.2)                                                                   | (29.7, 48.4)                                                                   | (52.0, 70.6)                                                                   | (31.5, 50.4)                                                                   |
 
 P-values are from Cochran-Mantel-Haenszel chi-square test. P-value for MRD negativity rate in bone marrow by NGS was the primary MRD analysis.
 
-a Based on threshold of 10 -4 using a next-generation sequencing assay (clonoSEQ)
-
-b MRD was evaluated by flow cytometry of peripheral blood or bone marrow per central laboratory. The definition of negative status was &lt;1 CLL cell per 10 000 leukocytes (&lt;1×10 4 ).
+- a Based on threshold of 10 -4 using a next-generation sequencing assay (clonoSEQ)
+- b MRD was evaluated by flow cytometry of peripheral blood or bone marrow per central laboratory. The definition of negative status was &lt;1 CLL cell per 10 000 leukocytes (&lt;1×10 4 ).
 
 CI = confidence interval; NGS = next-generation sequencing
 
@@ -2196,15 +2135,13 @@ TLS was reported in 6 patients treated with chlorambucil plus obinutuzumab and n
 
 ## Median follow-up of 64 months
 
-With a median follow-up time on study of 64.0 months in Study CLL3011, a 73% reduction in the risk of death or progression by investigator assessment was observed for patients in the IMBRUVICA arm. The PFS hazard ratio was 0.267 [95% CI (0.182, 0.393), nominal p&lt;0.0001, not type 1 error controlled]. There were 20 (18.9%) deaths in the IMBRUVICA plus venetoclax arm and 40 (38.1%) in the chlorambucil plus obinutuzumab arm corresponding to a HR of 0.462 (95% CI: 0.269, 0.791, nominal p=0.0039, not type 1 error controlled). Median time to next treatment was not reached for IMBRUVICA plus venetoclax arm and was 65 months for chlorambucil plus obinutuzumab arm (HR=0.233; 95% CI: 0.130, 0.416) with 15.1% of subjects in the IMBRUVICA plus venetoclax arm and 43.8% of subjects in the chlorambucil plus obinutuzumab arm having initiated subsequent anticancer therapy.
+With a median follow-up time on study of 64.0 months in Study CLL3011, a 73% reduction in the risk of death or progression by investigator assessment was observed for patients in the IMBRUVICA arm. The PFS hazard ratio was 0.267 [95% CI (0.182, 0.393), nominal p&lt;0.0001, not type 1 error controlled]. There were 20 (18.9%) deaths in the IMBRUVICA plus venetoclax arm and 40 (38.1%) in the chlorambucil plus obinutuzumab arm corresponding to a HR of 0.462 (95%CI: 0.269, 0.791, nominal p=0.0039, not type 1 error controlled). Median time to next treatment was not reached for IMBRUVICA plus venetoclax arm and was 65 months for chlorambucil plus obinutuzumab arm (HR=0.233; 95% CI: 0.130, 0.416) with 15.1% of subjects in the IMBRUVICA plus venetoclax arm and 43.8% of subjects in the chlorambucil plus obinutuzumab arm having initiated subsequent anticancer therapy.
 
 <div style=\"page-break-after: always\"></div>
 
 Kaplan-Meier curve for OS is shown in Figure 11.
 
-Figure 11: Kaplan-Meier Curve of Overall Survival (ITT Population) in Patients with CLL/SLL in Study CLL3011 at 64 Months Follow-up
-
-<!-- image -->
+Figure 11: Kaplan-Meier Curve of Overall Survival (ITT Population) in Patients with CLL/SLL in Study CLL3011 at 64Months Follow-up
 
 The safety and efficacy of fixed duration therapy with IMBRUVICA in combination with venetoclax in patients with previously untreated CLL were further evaluated in a cohort of the phase 2, multi-centre, 2-cohort study (PCYC-1142-CA). The study enrolled previously untreated patients with CLL who were 70 years or younger. The study enrolled 323 patients, of these, 159 patients were enrolled to fixed duration therapy consisting of 3 cycles of single agent IMBRUVICA followed by IMBRUVICA in combination with venetoclax for 12 cycles (including 5-week dose titration schedule). Each cycle was 28 days. IMBRUVICA was administered at a dose of 420 mg daily. Venetoclax was administered daily, starting with 20 mg for 1 week, followed by 1 week at each dose level of 50 mg, 100 mg, and 200 mg, then the recommended daily dose of 400 mg. Patients with confirmed progression by IWCLL criteria after completion of the fixed duration regimen could be retreated with single-agent IMBRUVICA.
 
@@ -2218,34 +2155,28 @@ With a median follow-up time on study of 28 months, efficacy results for PCYC-11
 
 Table 14: Efficacy results in Study PCYC 1142-CA (Fixed duration cohort)
 
-| Endpoint a                              | IMBRUVICA + Venetoclax   | IMBRUVICA + Venetoclax   |
-|-----------------------------------------|--------------------------|--------------------------|
-|                                         | Without Del 17p (N=136)  | All (N=159)              |
-| Overall Response Rate, n (%) b          | 130 (95.6)               | 153 (96.2)               |
-| 95% CI (%)                              | (92.1, 99.0)             | (93.3, 99.2)             |
-| Complete Response Rate, n (%) c         | 83 (61.0)                | 95 (59.7)                |
-| 95% CI (%)                              | (52.8, 69.2)             | (52.1, 67.4)             |
-| Median duration of CR, months (range) d | NE (0.03+, 24.9+)        | NE (0.03+, 24.9+)        |
-
-CR = complete response; CRi = complete response with incomplete marrow recovery; nPR = nodular partial response;
-
-PR = partial response; NE = not evaluable
+| Endpoint a                              | IMBRUVICA + Venetoclax - Without Del 17p (N=136)   | IMBRUVICA + Venetoclax - All (N=159)   |
+|-----------------------------------------|----------------------------------------------------|----------------------------------------|
+| Overall Response Rate, n (%) b          | 130 (95.6)                                         | 153 (96.2)                             |
+| 95% CI (%)                              | (92.1, 99.0)                                       | (93.3, 99.2)                           |
+| Complete Response Rate, n (%) c         | 83 (61.0)                                          | 95 (59.7)                              |
+| 95% CI (%)                              | (52.8, 69.2)                                       | (52.1, 67.4)                           |
+| Median duration of CR, months (range) d | NE (0.03+, 24.9+)                                  | NE (0.03+, 24.9+)                      |
 
 Table 15: Minimal residual disease negativity rates in Study PCYC 1142-CA (Fixed duration cohort)
 
-| Endpoint                                                        | IMBRUVICA + Venetoclax                                          | IMBRUVICA + Venetoclax                                          |
-|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
-|                                                                 | Without Del 17p (N=136)                                         | All (N=159)                                                     |
-| MRDNegativity Rate                                              |                                                                 |                                                                 |
-| Bone marrow, n (%)                                              | 84 (61.8)                                                       | 95 (59.7)                                                       |
-| 95% CI                                                          | (53.6, 69.9)                                                    | (52.1, 67.4)                                                    |
-| Peripheral Blood, n (%)                                         | 104 (76.5)                                                      | 122 (76.7)                                                      |
-| 95% CI                                                          | (69.3, 83.6)                                                    | (70.2, 83.3)                                                    |
-| MRDNegativity Rateat Three Months After Completion of Treatment | MRDNegativity Rateat Three Months After Completion of Treatment | MRDNegativity Rateat Three Months After Completion of Treatment |
-| Bone marrow, n (%)                                              | 74 (54.4)                                                       | 83 (52.2)                                                       |
-| 95% CI                                                          | (46.0, 62.8)                                                    | (44.4, 60.0)                                                    |
-| Peripheral Blood, n (%)                                         | 78 (57.4)                                                       | 90 (56.6)                                                       |
-| 95% CI                                                          | (49.0, 65.7)                                                    | (48.9, 64.3)                                                    |
+| Endpoint                                                         | IMBRUVICA + Venetoclax - Without Del 17p (N=136)                 | IMBRUVICA + Venetoclax - All (N=159)                             |
+|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
+| MRD Negativity Rate                                              |                                                                  |                                                                  |
+| Bone marrow, n (%)                                               | 84 (61.8)                                                        | 95 (59.7)                                                        |
+| 95% CI                                                           | (53.6, 69.9)                                                     | (52.1, 67.4)                                                     |
+| Peripheral Blood, n (%)                                          | 104 (76.5)                                                       | 122 (76.7)                                                       |
+| 95% CI                                                           | (69.3, 83.6)                                                     | (70.2, 83.3)                                                     |
+| MRD Negativity Rateat Three Months After Completion of Treatment | MRD Negativity Rateat Three Months After Completion of Treatment | MRD Negativity Rateat Three Months After Completion of Treatment |
+| Bone marrow, n (%)                                               | 74 (54.4)                                                        | 83 (52.2)                                                        |
+| 95% CI                                                           | (46.0, 62.8)                                                     | (44.4, 60.0)                                                     |
+| Peripheral Blood, n (%)                                          | 78 (57.4)                                                        | 90 (56.6)                                                        |
+| 95% CI                                                           | (49.0, 65.7)                                                     | (48.9, 64.3)                                                     |
 
 MRD was evaluated by flow cytometry of peripheral blood or bone marrow per central laboratory. The definition of negative status was &lt;1 CLL cell per 10 000 leukocytes (&lt;1×10 4 ).
 
@@ -2257,7 +2188,7 @@ No TLS was reported in patients treated with IMBRUVICA in combination with venet
 
 <div style=\"page-break-after: always\"></div>
 
-## Patients with CLL who received at least one prior therapy Single agent
+Patients with CLL who received at least one prior therapy Single agent
 
 The safety and efficacy of IMBRUVICA in patients with CLL were demonstrated in one uncontrolled study and one randomised, controlled study. The open-label, multi-centre study (PCYC-1102-CA) included 51 patients with relapsed or refractory CLL, who received 420 mg once daily. IMBRUVICA was administered until disease progression or unacceptable toxicity. The median age was 68 years (range: 37 to 82 years), median time since diagnosis was 80 months, and median number of prior treatments was 4 (range: 1 to 12 treatments), including 92.2% with a prior nucleoside analogue, 98.0% with prior rituximab, 86.3% with a prior alkylator, 39.2% with prior bendamustine and 19.6% with prior ofatumumab. At baseline, 39.2% of patients had Rai Stage IV, 45.1% had bulky disease (≥5 cm), 35.3% had deletion 17p and 31.4% had deletion 11q.
 
@@ -2269,15 +2200,17 @@ Progression-free survival (PFS) as assessed by an IRC according to IWCLL criteri
 
 Table 16: Efficacy results in patients with CLL (Study PCYC-1112-CA)
 
-| Endpoint                                  | IMBRUVICA N=195                                                     | Ofatumumab N=196                                                    |
-|-------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| Median PFS                                | Not reached                                                         | 8.1 months                                                          |
-| Median PFS                                | HR=0.215 [95% CI: 0.146; 0.317]                                     | HR=0.215 [95% CI: 0.146; 0.317]                                     |
-| OS a                                      | HR=0.434 [95% CI: 0.238; 0.789] b HR=0.387 [95% CI: 0.216; 0.695] c | HR=0.434 [95% CI: 0.238; 0.789] b HR=0.387 [95% CI: 0.216; 0.695] c |
-| ORR d, e (%)                              | 42.6                                                                | 4.1                                                                 |
-| ORR including PR with lymphocytosis d (%) | 62.6                                                                | 4.1                                                                 |
+| Endpoint                                  | IMBRUVICA N=195                                                   | Ofatumumab N=196                                                  |
+|-------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
+| Median PFS                                | Not reached                                                       | 8.1 months                                                        |
+| Median PFS                                | HR=0.215 [95%CI: 0.146; 0.317]                                    | HR=0.215 [95%CI: 0.146; 0.317]                                    |
+| OS a                                      | HR=0.434 [95%CI: 0.238; 0.789] b HR=0.387 [95%CI: 0.216; 0.695] c | HR=0.434 [95%CI: 0.238; 0.789] b HR=0.387 [95%CI: 0.216; 0.695] c |
+| ORR d, e (%)                              | 42.6                                                              | 4.1                                                               |
+| ORR including PR with lymphocytosis d (%) | 62.6                                                              | 4.1                                                               |
 
-HR=hazard ratio; CI=confidence interval; ORR=overall response rate; OS=overall survival; PFS=progression-free survival; PR=partial response a Median OS not reached for both arms. p&lt;0.005 for OS.
+HR=hazard ratio; CI=confidence interval; ORR=overall response rate; OS=overall survival; PFS=progression-free survival; PR=partial response
+
+a Median OS not reached for both arms. p&lt;0.005 for OS.
 
 b Patients randomised to ofatumumab were censored when starting IMBRUVICA if applicable.
 
@@ -2295,24 +2228,24 @@ The efficacy was similar across all of the subgroups examined, including in pati
 
 Table 17: Subgroup analysis of PFS (Study PCYC-1112-CA)
 
-|                                       | N                                     | Hazard Ratio   | 95% CI         |
+|                                       | N                                     |   Hazard Ratio | 95% CI         |
 |---------------------------------------|---------------------------------------|----------------|----------------|
-| All subjects                          | 391                                   | 0.210          | (0.143; 0.308) |
+| All subjects                          | 391                                   |          0.210 | (0.143; 0.308) |
 | Del17P                                |                                       |                |                |
-| Yes                                   | 127                                   | 0.247          | (0.136; 0.450) |
-| No                                    | 264                                   | 0.194          | (0.117; 0.323) |
+| Yes                                   | 127                                   |          0.247 | (0.136; 0.450) |
+| No                                    | 264                                   |          0.194 | (0.117; 0.323) |
 | Refractory disease to purine analogue | Refractory disease to purine analogue |                |                |
-| Yes                                   | 175                                   | 0.178          | (0.100; 0.320) |
-| No                                    | 216                                   | 0.242          | (0.145; 0.404) |
+| Yes                                   | 175                                   |          0.178 | (0.100; 0.320) |
+| No                                    | 216                                   |          0.242 | (0.145; 0.404) |
 | Age                                   |                                       |                |                |
-| <65                                   | 152                                   | 0.166          | (0.088; 0.315) |
-| ≥65                                   | 239                                   | 0.243          | (0.149; 0.395) |
+| <65                                   | 152                                   |          0.166 | (0.088; 0.315) |
+| ≥65                                   | 239                                   |          0.243 | (0.149; 0.395) |
 | Number of prior lines                 | Number of prior lines                 |                |                |
-| <3                                    | 198                                   | 0.189          | (0.100; 0.358) |
-| ≥3                                    | 193                                   | 0.212          | (0.130; 0.344) |
+| <3                                    | 198                                   |          0.189 | (0.100; 0.358) |
+| ≥3                                    | 193                                   |          0.212 | (0.130; 0.344) |
 | Bulky disease                         | Bulky disease                         |                |                |
-| <5 cm                                 | 163                                   | 0.237          | (0.127; 0.442) |
-| ≥5 cm                                 | 225                                   | 0.191          | (0.117; 0.311) |
+| <5 cm                                 | 163                                   |          0.237 | (0.127; 0.442) |
+| ≥5 cm                                 | 225                                   |          0.191 | (0.117; 0.311) |
 
 Hazard ratio based on non-stratified analysis
 
@@ -2320,21 +2253,15 @@ The Kaplan-Meier curve for PFS is shown in Figure 12.
 
 Figure 12: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1112-CA
 
-<!-- image -->
-
 ## Final Analysis at 65-month follow-up
 
-With a median follow-up time on study of 65 months in Study PCYC-1112-CA, an 85% reduction in the risk of death or progression by investigator assessment was observed for patients in the IMBRUVICA arm. The median investigator-assessed PFS according to IWCLL criteria was 44.1 months [95% CI (38.47, 56.18)] in the IMBRUVICA arm and 8.1 months [95% CI (7.79, 8.25)] in the ofatumumab arm, respectively; HR=0.15 [95% CI (0.11, 0.20)]. The updated Kaplan-Meier curve for PFS is shown in Figure 13. The investigator-assessed ORR in the IMBRUVICA arm was 87.7% versus 22.4% in the ofatumumab arm. At the time of final analysis, 133 (67.9%) of the 196 subjects originally randomised to the ofatumumab treatment arm had crossed over to ibrutinib treatment. The median investigator-assessed PFS2 (time from randomisation until PFS event after first subsequent anti-neoplastic therapy) according to IWCLL criteria was 65.4 months [95% CI (51.61, not estimable)] in the IMBRUVICA arm and 38.5 months [95% CI (19.98, 47.24)] in the ofatumumab
+With a median follow-up time on study of 65 months in Study PCYC-1112-CA, an 85% reduction in the risk of death or progression by investigator assessment was observed for patients in the IMBRUVICA arm. The median investigator-assessed PFS according to IWCLL criteria was 44.1 months [95% CI (38.47, 56.18)] in the IMBRUVICA arm and 8.1 months [95% CI (7.79, 8.25)] in the ofatumumab arm, respectively; HR=0.15 [95% CI (0.11, 0.20)]. The updated Kaplan-Meier curve for PFS is shown in Figure 13. The investigator-assessed ORR in the IMBRUVICA arm was 87.7% versus 22.4% in the ofatumumab arm. At the time of final analysis, 133 (67.9%) of the 196 subjects originally randomised to the ofatumumab treatment arm had crossed over to ibrutinib treatment. The median investigator-assessed PFS2 (time from randomisation until PFS event after first subsequent anti-neoplastic therapy) according to IWCLL criteria was 65.4 months [95% CI (51.61, not estimable)] in the IMBRUVICA arm and 38.5 months [95% CI (19.98, 47.24)] in the ofatumumab arm, respectively; HR=0.54 [95% CI (0.41, 0.71)]. The median OS was 67.7 months [95% CI (61.0, not estimable)] in the IMBRUVICA arm.
 
 <div style=\"page-break-after: always\"></div>
-
-arm, respectively; HR=0.54 [95% CI (0.41, 0.71)]. The median OS was 67.7 months [95% CI (61.0, not estimable)] in the IMBRUVICA arm.
 
 The treatment effect of ibrutinib in Study PCYC-1112-CA was consistent across high-risk patients with deletion 17p/TP53 mutation, deletion 11q, and/or unmutated IGHV.
 
 Figure 13: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1112-CA at Final Analysis with 65 Months Follow-up
-
-<!-- image -->
 
 ## Combination therapy
 
@@ -2352,9 +2279,11 @@ Table 18: Efficacy results in patients with CLL (Study CLL3001)
 | Median (95% CI), months | Not reached                     | 13.3 (11.3, 13.9)               |
 | Median (95% CI), months | HR=0.203 [95% CI: 0.150, 0.276] | HR=0.203 [95% CI: 0.150, 0.276] |
 | ORR b %                 | 82.7                            | 67.8                            |
-| OS c                    | HR=0.628 [95% CI: 0.385, 1.024] | HR=0.628 [95% CI: 0.385, 1.024] |
+| OS c                    | HR=0.628 [95%CI: 0.385, 1.024]  | HR=0.628 [95%CI: 0.385, 1.024]  |
 
-CI=confidence interval; HR=hazard ratio; ORR=overall response rate; OS=overall survival; PFS=progression-free survival a IRC evaluated.
+CI=confidence interval; HR=hazard ratio; ORR=overall response rate; OS=overall survival; PFS=progression-free survival
+
+a IRC evaluated.
 
 b IRC evaluated, ORR (complete response, complete response with incomplete marrow recovery, nodular partial response, partial response).
 
@@ -2376,12 +2305,10 @@ Table 19: ORR and DOR in patients with WM
 | 95% CI (%)                | (76.5, 94.4)      |
 | VGPR (%)                  | 14.3              |
 | PR (%)                    | 55.6              |
-| MR(%)                     | 17.5              |
+| MR (%)                    | 17.5              |
 | Median DOR months (range) | NR (0.03+, 18.8+) |
 
-CI=confidence interval; DOR=duration of response; NR=not reached; MR=minor response; PR=partial response;
-
-VGPR=very good partial response; ORR=MR+PR+VGPR Median follow-up time on study=14.8 months
+Median follow-up time on study=14.8 months
 
 The median time to response was 1.0 month (range: 0.7-13.4 months).
 
@@ -2391,11 +2318,9 @@ Efficacy results were also assessed by an IRC demonstrating an ORR of 83%, with 
 
 The safety and efficacy of IMBRUVICA in WM were further evaluated in patients with treatmentnaïve or previously treated WM in a randomised, multi-centre, double-blinded phase 3 study of IMBRUVICA in combination with rituximab versus placebo in combination with rituximab (PCYC-1127-CA). Patients (n=150) were randomised 1:1 to receive either IMBRUVICA 420 mg daily or placebo in combination with rituximab until disease progression or unacceptable toxicity. Rituximab was administered weekly at a dose of 375 mg/m 2 for 4 consecutive weeks (weeks 1-4) followed by a second course of weekly rituximab for 4 consecutive weeks (weeks 17-20).
 
-The median age was 69 years (range, 36 to 89 years), 66% were male, and 79% were Caucasian. Ninety-three percent of patients had a baseline ECOG performance status of 0 or 1, and 7% of patients had a baseline ECOG performance status of 2. Forty-five percent of patients were treatment-naïve, and 55% of patients were previously treated. The median time since diagnosis was 52.6 months (treatment-
+The median age was 69 years (range, 36 to 89 years), 66% were male, and 79% were Caucasian. Ninety-three percent of patients had a baseline ECOG performance status of 0 or 1, and 7% of patients had a baseline ECOG performance status of 2. Forty-five percent of patients were treatment-naïve, and 55% of patients were previously treated. The median time since diagnosis was 52.6 months (treatmentnaïve patients=6.5 months and previously treated patients=94.3 months). Among previously treated patients, the median number of prior treatments was 2 (range, 1 to 6 treatments). At baseline, the median serum IgM value was 3.2 g/dL (range, 0.6 to 8.3 g/dL), 63% of patients were anaemic (haemoglobin ≤11 g/dL or 6.8 mmol/L) and MYD88 L265P mutations were present in 77% of patients, absent in 13% of patients, and 9% of patients were not evaluable for mutation status.
 
 <div style=\"page-break-after: always\"></div>
-
-naïve patients=6.5 months and previously treated patients=94.3 months). Among previously treated patients, the median number of prior treatments was 2 (range, 1 to 6 treatments). At baseline, the median serum IgM value was 3.2 g/dL (range, 0.6 to 8.3 g/dL), 63% of patients were anaemic (haemoglobin ≤11 g/dL or 6.8 mmol/L) and MYD88 L265P mutations were present in 77% of patients, absent in 13% of patients, and 9% of patients were not evaluable for mutation status.
 
 At the primary analysis, with a median follow-up of 26.5 months, the IRC-assessed PFS hazard ratio was 0.20 [95% CI (0.11, 0.38)]. PFS hazard ratios for treatment-naïve patients, previously treated patients, and patients with or without MYD88 L265P mutations were consistent with the PFS hazard ratio for the ITT population.
 
@@ -2405,7 +2330,7 @@ Tumour flare in the form of IgM increase occurred in 8.0% of subjects in the IMB
 
 ## Final Analysis at 63-month follow-up
 
-With an overall follow-up of 63 months, efficacy results as assessed by an IRC at the time of the final analysis for PCYC-1127-CA are shown in Table 20 and the Kaplan-Meier curve for PFS is shown in Figure 14. PFS hazard ratios for treatment-naïve patients (0.31 [95% CI (0.14, 0.69)]) and previously treated patients (0.22 [95% CI (0.11, 0.43)]) were consistent with the PFS hazard ratio for the ITT population.
+With an overall follow-up of 63 months, efficacy results as assessed by an IRC at the time of the final analysis for PCYC-1127-CA are shown in Table 20 and the Kaplan-Meier curve for PFS is shown in Figure 14. PFS hazard ratios for treatment-naïve patients (0.31 [95%CI (0.14, 0.69)]) and previously treated patients (0.22 [95%CI (0.11, 0.43)]) were consistent with the PFS hazard ratio for the ITT population.
 
 Table 20: Efficacy results in Study PCYC-1127-CA (Final analysis*)
 
@@ -2434,18 +2359,17 @@ Table 20: Efficacy results in Study PCYC-1127-CA (Final analysis*)
 | Rate of Sustained Haemoglobin Improvement c, e (%)   | 77.3   | 42.7   |
 |------------------------------------------------------|--------|--------|
 
-- CI = confidence interval; CR = complete response; HR = hazard ratio; MR = minor response; PR = partial response;
+CI = confidence interval; CR = complete response; HR = hazard ratio; MR = minor response; PR = partial response;
+
 - R = Rituximab; VGPR = very good partial response
 * Median follow-up time on study = 49.7 months.
 - a IRC evaluated.
-- b 4-year PFS estimates were 70.6% [95% CI (58.1, 80.0)] in the IMBRUVICA + R arm versus 25.3% [95% CI (15.3, 36.6)] in the placebo + R arm.
+- b 4-year PFS estimates were 70.6% [95%CI (58.1, 80.0)] in the IMBRUVICA + R arm versus 25.3% [95%CI (15.3, 36.6)] in the placebo + R arm.
 - c p-value associated with response rate was &lt;0.0001.
 - d Response rate was 76% vs 41% in treatment-naïve patients and 76% vs 22% in previously treated patients for the IMBRUVICA + R arm vs the placebo + R arm, respectively.
 - e Defined as increase of ≥2 g/dL over baseline regardless of baseline value, or an increase to &gt;11 g/dL with a ≥0.5 g/dL improvement if baseline was ≤11 g/dL.
 
-Figure 14: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1127-CA (Final Analysis)
-
-<!-- image -->
+## Figure 14: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1127-CA (Final Analysis)
 
 Study PCYC-1127-CA had a separate monotherapy arm of 31 patients with previously treated WM who failed prior rituximab-containing therapy and received single agent IMBRUVICA. The median age was 67 years (range, 47 to 90 years). Eighty-one percent of patients had a baseline ECOG performance status of 0 or 1, and 19% had a baseline ECOG performance status of 2. The median number of prior treatments was 4 (range, 1 to 7 treatments). With an overall follow-up of 61 months, the response rate observed in Study PCYC-1127-CA monotherapy arm per IRC assessment was 77% (0% CR, 29% VGPR, 48% PR). The median duration of response was 33 months (range, 2.4 to 60.2+ months). The overall response rate per IRC observed in the monotherapy arm was 87% (0% CR, 29% VGPR, 48% PR, 10% MR). The median duration of overall response was 39 months (range, 2.07 to 60.2+ months).
 
@@ -2463,13 +2387,13 @@ In part 2, patients were randomised 2:1 to receive either IMBRUVICA as 440 mg/m 
 
 ## Absorption
 
-Ibrutinib is rapidly absorbed after oral administration with a median T max of 1 to 2 hours. Absolute bioavailability in fasted condition (n=8) was 2.9% (90% CI=2.1 - 3.9) and doubled when combined with a meal. Pharmacokinetics of ibrutinib does not significantly differ in patients with different B-cell malignancies. Ibrutinib exposure increases with doses up to 840 mg. The steady state AUC observed in patients at 560 mg is (mean ± standard deviation) 953 ± 705 ng h/mL. Administration of ibrutinib in fasted condition resulted in approximately 60% of exposure (AUClast) as compared to either 30 minutes before, 30 minutes after (fed condition) or 2 hours after a high fat breakfast.
+Ibrutinib is rapidly absorbed after oral administration with a median Tmax of 1 to 2 hours. Absolute bioavailability in fasted condition (n=8) was 2.9% (90%CI=2.1 - 3.9) and doubled when combined with a meal. Pharmacokinetics of ibrutinib does not significantly differ in patients with different B-cell malignancies. Ibrutinib exposure increases with doses up to 840 mg. The steady state AUC observed in patients at 560 mg is (mean ± standard deviation) 953 ± 705 ng h/mL. Administration of ibrutinib in fasted condition resulted in approximately 60% of exposure (AUClast) as compared to either 30 minutes before, 30 minutes after (fed condition) or 2 hours after a high fat breakfast.
 
 Ibrutinib has a pH dependent solubility, with lower solubility at higher pH. In fasted healthy subjects administered a single 560 mg dose of ibrutinib after taking omeprazole at 40 mg once daily for 5 days, compared to ibrutinib alone, geometric mean ratios (90% CI) were 83% (68-102%), 92% (78-110%), and 38% (26-53%) for AUC0-24, AUClast, and Cmax, respectively.
 
 ## Distribution
 
-Reversible binding of ibrutinib to human plasma protein in vitro was 97.3% with no concentration dependence in the range of 50 to 1 000 ng/mL. The apparent volume of distribution at steady state (Vd, ss /F) was approximately 10 000 L.
+Reversible binding of ibrutinib to human plasma protein in vitro was 97.3% with no concentration dependence in the range of 50 to 1 000 ng/mL. The apparent volume of distribution at steady state (Vd, ss/F) was approximately 10 000 L.
 
 ## Metabolism
 
@@ -2489,7 +2413,7 @@ Population pharmacokinetics indicated that age does not significantly influence 
 
 ## Paediatric population
 
-Pharmacokinetic data show that ibrutinib exposures in children with relapsed or refractory mature Bcell non-Hodgkin lymphoma, aged 12 years and older receiving a daily dose of 329 mg/m 2  and those aged 3 years to below 12 years receiving a daily dose of 440 mg/m 2 , were generally within the range of exposures observed in adult patients administered a daily dose of 560 mg.
+Pharmacokinetic data show that ibrutinib exposures in children with relapsed or refractory mature Bcell non-Hodgkin lymphoma, aged 12 years and older receiving a daily dose of 329 mg/m 2 and those aged 3 years to below 12 years receiving a daily dose of 440 mg/m 2 , were generally within the range of exposures observed in adult patients administered a daily dose of 560 mg.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2511,7 +2435,7 @@ Ibrutinib has minimal renal clearance; urinary excretion of metabolites is &lt;1
 
 ## Hepatic impairment
 
-Ibrutinib is metabolised in the liver. A hepatic impairment trial was performed in non-cancer subjects administered a single dose of 140 mg of medicinal product under fasting conditions. The effect of impaired liver function varied substantially between individuals, but on average a 2.7-, 8.2-, and 9.8-fold increase in ibrutinib exposure (AUClast ) was observed in subjects with mild (n=6, Child-Pugh class A), moderate (n=10, Child-Pugh class B) and severe (n=8, Child-Pugh class C) hepatic impairment, respectively. The free fraction of ibrutinib also increased with degree of impairment, with 3.0, 3.8 and 4.8% in subjects with mild, moderate and severe liver impairment, respectively, compared to 3.3% in plasma from matched healthy controls within this study. The corresponding increase in unbound ibrutinib exposure (AUCunbound, last ) is estimated to be 4.1-, 9.8-, and 13-fold in subjects with mild, moderate, and severe hepatic impairment, respectively (see section 4.2).
+Ibrutinib is metabolised in the liver. A hepatic impairment trial was performed in non-cancer subjects administered a single dose of 140 mg of medicinal product under fasting conditions. The effect of impaired liver function varied substantially between individuals, but on average a 2.7, 8.2, and 9.8-fold increase in ibrutinib exposure (AUClast) was observed in subjects with mild (n=6, Child-Pugh class A), moderate (n=10, Child-Pugh class B) and severe (n=8, Child-Pugh class C) hepatic impairment, respectively. The free fraction of ibrutinib also increased with degree of impairment, with 3.0, 3.8 and 4.8% in subjects with mild, moderate and severe liver impairment, respectively, compared to 3.3% in plasma from matched healthy controls within this study. The corresponding increase in unbound ibrutinib exposure (AUCunbound, last) is estimated to be 4.1, 9.8, and 13-fold in subjects with mild, moderate, and severe hepatic impairment, respectively (see section 4.2).
 
 ## Co-administration with transport substrates/inhibitors
 
@@ -2549,9 +2473,7 @@ Tablet core Colloidal anhydrous silica Croscarmellose sodium Lactose monohydrate
 
 ## Film-coat
 
-IMBRUVICA 140 mg film-coated tablets and IMBRUVICA 420 mg film-coated tablets
-
-Macrogol Polyvinyl alcohol Talc Titanium dioxide (E171) Black iron oxide (E172) Yellow iron oxide (E172)
+IMBRUVICA 140 mg film-coated tablets and IMBRUVICA 420 mg film-coated tablets Macrogol Polyvinyl alcohol Talc Titanium dioxide (E171) Black iron oxide (E172) Yellow iron oxide (E172)
 
 IMBRUVICA 280 mg film-coated tablets Macrogol Polyvinyl alcohol Talc Titanium dioxide (E171) Black iron oxide (E172) Red iron oxide (E172)
 
@@ -2587,9 +2509,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
 
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2629,8 +2551,6 @@ Date of latest renewal: 25 June 2019
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-87
-
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
@@ -2650,13 +2570,17 @@ Name and address of the manufacturer responsible for batch release
 
 Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-Janssen-Cilag SpA Via C. Janssen Loc. Borgo S. Michele 04100 Latina Italy
+Janssen-Cilag SpA Via C. Janssen Loc. Borgo S. Michele 04100 Latina
+
+Italy
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## IMBRUVICA Film-Coated Tablets
 
-Janssen-Cilag SpA Via C. Janssen, Loc. Borgo S. Michele, 04100 Latina, Italy
+Janssen-Cilag SpA Via C. Janssen, Loc. Borgo S. Michele, 04100 Latina,
+
+Italy
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -2691,189 +2615,27 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON 140 MG CAPSULE
+## OUTER CARTON 140MG CAPSULE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-IMBRUVICA 140 mg hard capsules
-
-ibrutinib
+IMBRUVICA 140 mg hard capsules ibrutinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each hard capsule contains 140 mg of ibrutinib
 
-3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-90 hard capsules
-
-120 hard capsules
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Oral use.
-
-Read the package leaflet before use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse
-
-Belgium
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/14/945/001 (90 hard capsules)
-
-EU/1/14/945/002 (120 hard capsules)
-
-## 13. BATCH NUMBER
-
-Lot
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
-
-Imbruvica 140 mg
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC
-
-SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
-
-## BOTTLE LABEL 140 MG CAPSULE
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-IMBRUVICA 140 mg capsules
-
-ibrutinib
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each capsule contains 140 mg of ibrutinib
-
-3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-90 capsules
-
-120 capsules
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Oral use.
-
-Read the package leaflet before use.
-
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/14/945/001 (90 hard capsules)
-
-EU/1/14/945/002 (120 hard capsules)
-
-## 13. BATCH NUMBER
-
-Lot
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
-
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-CARTON 140 MG TABLET
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-IMBRUVICA 140 mg film-coated tablets
-
-ibrutinib
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each film-coated tablet contains 140 mg of ibrutinib.
-
 ## 3. LIST OF EXCIPIENTS
 
-Contains lactose.
-
-See package leaflet for further information.
-
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 28 film-coated tablets
-
-- 30 film-coated tablets
+90 hard capsules 120 hard capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
+Oral use.
 
-Oral use
+Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2891,15 +2653,159 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
+
+Belgium
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/14/945/001 (90 hard capsules)
+
+EU/1/14/945/002 (120 hard capsules)
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Imbruvica 140 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+## BOTTLE LABEL 140MG CAPSULE
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+IMBRUVICA 140 mg capsules ibrutinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each capsule contains 140 mg of ibrutinib
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+90 capsules 120 capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
+
+Belgium
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/14/945/001 (90 hard capsules)
+
+EU/1/14/945/002 (120 hard capsules)
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER - 2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## CARTON 140MG TABLET
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+IMBRUVICA 140 mg film-coated tablets ibrutinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains 140 mg of ibrutinib.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose.
+
+See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+28 film-coated tablets
+
+30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2911,7 +2817,7 @@ EU/1/14/945/008 (30 tablets)
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2935,7 +2841,7 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-WALLET 140 MG TABLET (28 days)
+## WALLET 140MG TABLET (28 days)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2988,18 +2894,13 @@ Keep out of the sight and reach of children.
 EXP
 
 9. SPECIAL STORAGE CONDITIONS
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-B-2340 Beerse
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
 
 Belgium
 
@@ -3012,15 +2913,12 @@ EU/1/14/945/007
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Imbruvica 140 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -3029,7 +2927,7 @@ Imbruvica 140 mg
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-WALLET 140 MG TABLET (30 days)
+WALLET 140MG TABLET (30 days)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3073,19 +2971,15 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSALOF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-Turnhoutseweg 30
-
-B-2340 Beerse Belgium
-
-12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/14/945/008
 
@@ -3094,30 +2988,28 @@ EU/1/14/945/008
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Imbruvica 140 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER 140MGTABLET                                 |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER 140MG TABLET                                  |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 IMBRUVICA 140 mg tablets ibrutinib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3134,13 +3026,11 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON 280 MG TABLET
+## CARTON 280MG TABLET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-IMBRUVICA 280 mg film-coated tablets
-
-ibrutinib
+IMBRUVICA 280 mg film-coated tablets ibrutinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3156,7 +3046,7 @@ See package leaflet for further information.
 
 - 28 film-coated tablets
 
-- 30 film-coated tablets
+30 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -3170,7 +3060,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -3186,9 +3076,7 @@ Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3196,11 +3084,11 @@ EU/1/14/945/009 (28 tablets)
 
 EU/1/14/945/010 (30 tablets)
 
-## 13. BATCH NUMBER
+## 13. BATCHNUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -3224,7 +3112,7 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-WALLET 280 MG TABLET (28 days)
+## WALLET 280MG TABLET (28 days)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3277,18 +3165,13 @@ Keep out of the sight and reach of children.
 EXP
 
 9. SPECIAL STORAGE CONDITIONS
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-B-2340 Beerse
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
 
 Belgium
 
@@ -3301,15 +3184,12 @@ EU/1/14/945/009
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Imbruvica 280 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -3318,7 +3198,7 @@ Imbruvica 280 mg
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-WALLET 280 MG TABLET (30 days)
+WALLET 280MG TABLET (30 days)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3368,13 +3248,9 @@ Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-Turnhoutseweg 30
-
-B-2340 Beerse Belgium
-
-12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/14/945/010
 
@@ -3383,30 +3259,27 @@ EU/1/14/945/010
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Imbruvica 280 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER 280MGTABLET                                 |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER 280MG TABLET                                  |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 IMBRUVICA 280 mg tablets ibrutinib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3423,13 +3296,11 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON 420 MG TABLET
+CARTON 420MG TABLET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-IMBRUVICA 420 mg film-coated tablets
-
-ibrutinib
+IMBRUVICA 420 mg film-coated tablets ibrutinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3445,7 +3316,7 @@ See package leaflet for further information.
 
 - 28 film-coated tablets
 
-- 30 film-coated tablets
+30 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -3459,7 +3330,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -3475,9 +3346,7 @@ Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3513,7 +3382,7 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-WALLET 420 MG TABLET (28 days)
+WALLET 420MG TABLET (28 days)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3561,23 +3430,18 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
 9. SPECIAL STORAGE CONDITIONS
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-B-2340 Beerse
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
 
 Belgium
 
@@ -3590,15 +3454,12 @@ EU/1/14/945/011
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Imbruvica 420 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -3607,7 +3468,7 @@ Imbruvica 420 mg
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-WALLET 420 MG TABLET (30 days)
+WALLET 420MG TABLET (30 days)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3637,7 +3498,7 @@ When you take a tablet, fill in the day of the week or the date in the space pro
 
 Flip open the pack. Push tablet through from other side.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIALWARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -3657,11 +3518,7 @@ Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3672,30 +3529,27 @@ EU/1/14/945/005
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Imbruvica 420 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER 420MGTABLET                                 |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER 420MG TABLET                                  |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 IMBRUVICA 420 mg tablets ibrutinib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3712,15 +3566,13 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON 560 MG TABLET
+CARTON 560MG TABLET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-IMBRUVICA 560 mg film-coated tablets
+IMBRUVICA 560 mg film-coated tablets ibrutinib
 
-ibrutinib
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2. STATEMENTOF ACTIVE SUBSTANCE(S)
 
 Each film-coated tablet contains 560 mg of ibrutinib.
 
@@ -3734,7 +3586,7 @@ See package leaflet for further information.
 
 - 28 film-coated tablets
 
-- 30 film-coated tablets
+30 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -3748,7 +3600,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -3764,9 +3616,7 @@ Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3802,7 +3652,7 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-WALLET 560 MG TABLET (28 days)
+## WALLET 560MG TABLET (28 days)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3855,18 +3705,13 @@ Keep out of the sight and reach of children.
 EXP
 
 9. SPECIAL STORAGE CONDITIONS
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-B-2340 Beerse
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
 
 Belgium
 
@@ -3874,20 +3719,17 @@ Belgium
 
 EU/1/14/945/012
 
-## 13. BATCH NUMBER
+13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Imbruvica 560 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -3896,7 +3738,7 @@ Imbruvica 560 mg
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-WALLET 560 MG TABLET (30 days)
+WALLET 560MG TABLET (30 days)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3946,13 +3788,9 @@ Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-Turnhoutseweg 30
-
-B-2340 Beerse Belgium
-
-12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/14/945/006
 
@@ -3961,30 +3799,28 @@ EU/1/14/945/006
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Imbruvica 560 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER 560MGTABLET                                 |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER 560MG TABLET                                  |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 IMBRUVICA 560 mg tablets ibrutinib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -4007,16 +3843,14 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## IMBRUVICA 140 mg hard capsules
-
-## ibrutinib
+## IMBRUVICA 140 mg hard capsules ibrutinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4041,9 +3875,9 @@ It is used to treat the following blood cancers in adults:
 -  Chronic lymphocytic leukaemia (CLL) a type of cancer affecting white blood cells called lymphocytes that also involves the lymph nodes. IMBRUVICA is used in patients who have not previously been treated for CLL or when the disease has come back or has not responded to treatment.
 -  Waldenström's macroglobulinaemia (WM), a type of cancer affecting white blood cells called lymphocytes. It is used in patients who have not previously been treated for WM or when the disease has come back or has not responded to treatment or in patients for whom chemotherapy given together with an antibody is not a suitable therapy.
 
-## How IMBRUVICA works
+## How IMBRUVICAworks
 
-In MCL, CLL and WM, IMBRUVICA works by blocking Bruton's tyrosine kinase, a protein in the body that helps these cancer cells grow and survive. By blocking this protein, IMBRUVICA helps kill and reduce the number of cancer cells. It also slows down the worsening of the cancer.
+In MCL, CLL and WM, IMBRUVICAworks by blocking Bruton's tyrosine kinase, a protein in the body that helps these cancer cells grow and survive. By blocking this protein, IMBRUVICA helps kill and reduce the number of cancer cells. It also slows down the worsening of the cancer.
 
 ## 2. What you need to know before you take IMBRUVICA
 
@@ -4058,7 +3892,7 @@ In MCL, CLL and WM, IMBRUVICA works by blocking Bruton's tyrosine kinase, a prot
 
 Talk to your doctor, pharmacist or nurse before taking IMBRUVICA:
 
--  if you have ever had unusual bruising or bleeding or are on any medicines or supplements that increase your risk of bleeding (see section 'Other medicines and IMBRUVICA' )
+-  if you have ever had unusual bruising or bleeding or are on any medicines or supplements that increase your risk of bleeding (see section \"Other medicines and IMBRUVICA\")
 -  if you have irregular heart beat or have a history of irregular heart beat or severe heart failure, or if you feel any of the following: shortness of breath, weakness, dizziness, light-headedness, fainting or near fainting, chest pain or swollen legs
 -  if you have liver problems, including if you ever had or now have a hepatitis B infection (a liver infection)
 -  if you have high blood pressure
@@ -4066,9 +3900,9 @@ Talk to your doctor, pharmacist or nurse before taking IMBRUVICA:
 -  if you are planning to have any surgery- your doctor may ask you to stop taking IMBRUVICA for a short time (3 to 7 days) before and after your surgery
 -  if you have kidney problems.
 
-If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before or while taking this medicine (see section 'Possible side effects' ).
+If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before or while taking this medicine (see section \"Possible side effects\").
 
-When taking IMBRUVICA, tell your doctor immediately if you notice or someone notices in you: memory loss, trouble thinking, difficulty walking or sight loss - these may be due to a very rare but serious brain infection which can be fatal (Progressive Multifocal Leukoencephalopathy or PML).
+When taking IMBRUVICA, tell your doctor immediately if you notice or someone notices in you: memory loss, trouble thinking, difficulty walking or sight loss - these may be due to a rare but serious brain infection which can be fatal (Progressive Multifocal Leukoencephalopathy or PML) (see section \"Possible side effects\").
 
 Tell your doctor immediately if you notice or someone notices in you: sudden numbness or weakness in the limbs (especially on one side of the body), sudden confusion, trouble speaking or understanding speech, sight loss, difficulty walking, loss of balance or lack of coordination, sudden severe headache with no known cause. These may be signs and symptoms of stroke.
 
@@ -4092,7 +3926,7 @@ Tumour lysis syndrome (TLS): Unusual levels of chemicals in the blood caused by 
 
 <div style=\"page-break-after: always\"></div>
 
-Lymphocytosis: Laboratory tests may show an increase in white blood cells (called 'lymphocytes') in your blood in the first few weeks of treatment. This is expected and may last for a few months. This does not necessarily mean that your blood cancer is getting worse. Your doctor will check your blood counts before or during the treatment and in rare cases they may need to give you another medicine. Talk to your doctor about what your test results mean.
+Lymphocytosis: Laboratory tests may show an increase in white blood cells (called \"lymphocytes\") in your blood in the first few weeks of treatment. This is expected and may last for a few months. This does not necessarily mean that your blood cancer is getting worse. Your doctor will check your blood counts before or during the treatment and in rare cases they may need to give you another medicine. Talk to your doctor about what your test results mean.
 
 Events related to the liver: Your doctor will do some blood tests to check whether your liver is working properly or that you do not have a liver infection, known as viral hepatitis, or whether hepatitis B has become active again, which could be fatal.
 
@@ -4102,9 +3936,9 @@ IMBRUVICA should not be used in children and adolescents.
 
 ## Other medicines and IMBRUVICA
 
-Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription, herbal medicines and supplements. This is because IMBRUVICA may affect the way some other medicines work. Also some other medicines can affect the way IMBRUVICA works.
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription, herbal medicines and supplements. This is because IMBRUVICAmay affect the way some other medicines work. Also some other medicines can affect the way IMBRUVICAworks.
 
-IMBRUVICA may make you bleed more easily. This means you should tell your doctor if you take other medicines that increase your risk of bleeding. This includes:
+IMBRUVICAmay make you bleed more easily. This means you should tell your doctor if you take other medicines that increase your risk of bleeding. This includes:
 
 -  acetyl salicylic acid and non-steroidal anti-inflammatories (NSAIDs) such as ibuprofen or naproxen
 -  blood thinners such as warfarin, heparin or other medicines for blood clots
@@ -4127,13 +3961,13 @@ Also tell your doctor if you take any of the following medicines - The effects o
 
 If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before taking IMBRUVICA.
 
-If you are taking digoxin, a medicine used for heart problems, or methotrexate, a medicine used to treat other cancers and to reduce the activity of the immune system (e.g., for rheumatoid arthritis or psoriasis), it should be taken at least 6 hours before or after IMBRUVICA.
-
 <div style=\"page-break-after: always\"></div>
 
-## IMBRUVICA with food
+If you are taking digoxin, a medicine used for heart problems, or methotrexate, a medicine used to treat other cancers and to reduce the activity of the immune system (e.g., for rheumatoid arthritis or psoriasis), it should be taken at least 6 hours before or after IMBRUVICA.
 
-Do not take IMBRUVICA with grapefruit or Seville oranges (bitter oranges) - this includes eating them, drinking the juice or taking a supplement that might contain them. This is because it can increase the amount of IMBRUVICA in your blood.
+## IMBRUVICAwith food
+
+Do not take IMBRUVICAwith grapefruit or Seville oranges (bitter oranges) - this includes eating them, drinking the juice or taking a supplement that might contain them. This is because it can increase the amount of IMBRUVICA in your blood.
 
 ## Pregnancy and breast-feeding
 
@@ -4150,7 +3984,7 @@ You may feel tired or dizzy after taking IMBRUVICA, which may affect your abilit
 
 ## IMBRUVICA contains sodium
 
-IMBRUVICA contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+IMBRUVICA contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free' .
 
 ## 3. How to take IMBRUVICA
 
@@ -4184,17 +4018,19 @@ If you take more IMBRUVICA than you should, talk to a doctor or go to a hospital
 -  Do not take a double dose to make up for a forgotten dose.
 -  If you are not sure, talk to your doctor, pharmacist or nurse about when to take your next dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you stop taking IMBRUVICA
 
 Do not stop taking this medicine unless your doctor tells you.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
-Like all medicines, this medicine can cause side effects, although not everybody gets them. The following side effects may happen with this medicine:
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+The following side effects may happen with this medicine:
 
 ## Stop taking IMBRUVICA and tell a doctor straight away if you notice any of the following side effects:
 
@@ -4210,6 +4046,7 @@ itchy bumpy rash, difficulty breathing, swelling of your face, lips, tongue or t
 -  blood in your stomach, gut, stools or urine, heavier periods, or bleeding that you cannot stop from an injury
 -  bruising or increased tendency of bruising
 -  mouth sores
+-  cough
 -  feeling dizzy
 -  headache
 -  constipation
@@ -4221,11 +4058,11 @@ itchy bumpy rash, difficulty breathing, swelling of your face, lips, tongue or t
 -  back pain or joint pain
 -  muscle cramps, aches or spasms
 -  fever
--  low number of cells that help blood clot (platelets), very low number of white blood cells shown in blood tests
+-  low number of cells that help blood clot (platelets), very low number of white blood cells - shown in blood tests
 -  an increase in the number or proportion of white blood cells shown in blood tests
 -  swollen hands, ankles or feet
 -  high blood pressure
--  increased level of 'creatinine' in the blood.
+-  increased level of \"creatinine\" in the blood.
 
 ## Common (may affect up to 1 in 10 people)
 
@@ -4235,14 +4072,14 @@ itchy bumpy rash, difficulty breathing, swelling of your face, lips, tongue or t
 -  heart failure
 -  missed heart beats, weak or uneven pulse, lightheadedness, shortness of breath, chest discomfort (symptoms of heart rhythm problems)
 -  low white blood cell counts with fever (febrile neutropenia)
+
+<div style=\"page-break-after: always\"></div>
+
 -  non-melanoma skin cancer, most frequently squamous cell and basal cell skin cancer
 -  blurred vision
 -  redness of the skin
 -  inflammation within the lungs that may lead to permanent damage
--  high level of 'uric acid' in the blood (shown in blood tests), which may cause gout
-
-<div style=\"page-break-after: always\"></div>
-
+-  high level of \"uric acid\" in the blood (shown in blood tests), which may cause gout
 -  breaking of the nails
 -  hives
 -  sudden kidney damage
@@ -4270,7 +4107,8 @@ itchy bumpy rash, difficulty breathing, swelling of your face, lips, tongue or t
 ## Rare (may affect up to 1 in 1 000 people)
 
 -  severely increased white blood cell count that may cause cells to clump together
--  severe rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals (Stevens-Johnson syndrome).
+-  severe rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals (Stevens-Johnson syndrome)
+-  memory loss, trouble thinking, difficulty walking or sight loss - these may be signs of a serious brain infection (Progressive Multifocal Leukoencephalopathy or PML).
 
 ## Patients treated with IMBRUVICA for previously untreated MCL
 
@@ -4283,15 +4121,15 @@ itchy bumpy rash, difficulty breathing, swelling of your face, lips, tongue or t
 -  mouth sores
 -  constipation
 -  fever
+
+<div style=\"page-break-after: always\"></div>
+
 -  fever, chills, body aches, feeling tired, cold or flu symptoms, being short of breath - these could be signs of an infection (viral, bacterial or fungal). These could include infections of the lung, or skin
--  increased level of 'creatinine' in the blood
+-  increased level of \"creatinine\" in the blood
 -  painful arms or legs
 -  weakness, numbness, tingling or pain in your hands or feet or other parts of the body (peripheral neuropathy).
 -  headache
 -  sudden kidney damage
-
-<div style=\"page-break-after: always\"></div>
-
 -  skin rash
 -  blood in your stomach, gut, stools or urine, heavier periods, or bleeding that you cannot stop from an injury
 -  high blood pressure.
@@ -4307,7 +4145,7 @@ itchy bumpy rash, difficulty breathing, swelling of your face, lips, tongue or t
 -  inflammation within the lungs that may lead to permanent damage
 -  severe infections throughout the body (sepsis)
 -  infections of the urinary tract
--  high level of 'uric acid' in the blood (shown in blood tests), which may cause gout
+-  high level of \"uric acid\" in the blood (shown in blood tests), which may cause gout
 -  unusual levels of chemicals in the blood caused by the fast breakdown of cancer cells have happened during treatment of cancer and sometimes even without treatment (tumour lysis syndrome)
 -  muscle cramps, aches or spasms
 -  back pain or joint pain
@@ -4333,13 +4171,13 @@ itchy bumpy rash, difficulty breathing, swelling of your face, lips, tongue or t
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store IMBRUVICA
 
 Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and bottle label after EXP. The expiry date refers to the last day of that month.
-
-<div style=\"page-break-after: always\"></div>
 
 This medicine does not require any special storage conditions.
 
@@ -4351,19 +4189,21 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 -  The active substance is ibrutinib. Each hard capsule contains 140 mg of ibrutinib.
 -  The other ingredients are:
-- -capsule content: croscarmellose sodium, magnesium stearate, microcrystalline cellulose and sodium lauril sulfate (E487)
-- -capsule shell: gelatin and titanium dioxide (E171)
-- -printing ink: shellac, black iron oxide (E172), and propylene glycol (E1520).
+- capsule content: croscarmellose sodium, magnesium stearate, microcrystalline cellulose and sodium lauril sulfate (E487)
+- capsule shell: gelatin and titanium dioxide (E171)
+- printing ink: shellac, black iron oxide (E172), and propylene glycol (E1520).
 
 ## What IMBRUVICA looks like and contents of the pack
 
-IMBRUVICA are white opaque, hard capsules marked with 'ibr 140 mg' in black ink on one side.
+IMBRUVICA are white opaque, hard capsules marked with \"ibr 140 mg\" in black ink on one side.
 
 The capsules are provided in a plastic bottle with a child resistant polypropylene closure. Each bottle contains either 90 or 120 capsules. Each pack contains one bottle.
 
 ## Marketing Authorisation Holder
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
+
+Belgium
 
 ## Manufacturer
 
@@ -4379,33 +4219,21 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV
-
-Tel/Tél: +32 14 64 94 11
-
-janssen@jacbe.jnj.com
-
-## Lietuva
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info \\_ belux@its.jnj.com Lietuva Tel: +370 5 278 68 88
 
 UAB \"JOHNSON &amp; JOHNSON\"
 
-Tel: +370 5 278 68 88 lt@its.jnj.com
+lt@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## България
 
-'Джонсън &amp; Джонсън България' ЕООД
-
-Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
-
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+\"Джонсън &amp; Джонсън България\" ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
 
 ## Česká republika
 
-Janssen-Cilag s.r.o.
-
-Tel: +420 227 012 227
+Janssen-Cilag s.r.o. Tel: +420 227 012 227
 
 ## Danmark
 
@@ -4413,7 +4241,9 @@ Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955
+
+medinfo-de@its.jnj.com
 
 ## Eesti
 
@@ -4425,15 +4255,15 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00
 
 contacto@its.jnj.com
 
 ## France
 
-Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
+Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03
+
+medisource@its.jnj.com
 
 ## Hrvatska
 
@@ -4447,21 +4277,15 @@ Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
 
 Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
-## Italia
+## Luxembourg/Luxemburg
 
-Janssen-Cilag SpA
+Janssen-Cilag NV Tél/Tel: 800 29 504
 
-Tel: 800 688 777 / +39 02 2510 1
-
-janssenita@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
+info \\_ belux@its.jnj.com
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
+Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
 
 ## Malta
 
@@ -4471,7 +4295,9 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info
+
+\\_ nl@its.jnj.com
 
 ## Norge
 
@@ -4499,21 +4325,25 @@ Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
-Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
+Johnson &amp; Johnson, s.r.o.
 
-## Suomi/Finland
+Tel: +421 232 408 400
 
-Puh/Tel: +358 207 531 300
+<div style=\"page-break-after: always\"></div>
 
-Janssen-Cilag Oy jacfi@its.jnj.com
+## Italia
+
+Janssen-Cilag SpA
+
+Tel: 800 688 777 / +39 02 2510 1
+
+janssenita@its.jnj.com
 
 ## Κύπρος
 
 Βαρνάβας Χατζηπαναγής Λτδ
 
 Τηλ: +357 22 207 700
-
-<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -4529,22 +4359,36 @@ lv@its.jnj.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-Sverige Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
+## Suomi/Finland
+
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300
+
+jacfi@its.jnj.com
+
+## Sverige
+
+Janssen-Cilag AB
+
+Tfn: +46 8 626 50 00
+
+jacse@its.jnj.com
 
 ## Package leaflet: Information for the patient
 
 <div style=\"page-break-after: always\"></div>
 
 ```
-IMBRUVICA 140 mg film-coated tablets IMBRUVICA 280 mg film-coated tablets IMBRUVICA 420 mg film-coated tablets IMBRUVICA 560 mg film-coated tablets ibrutinib
+IMBRUVICA 140 mg film-coated tablets IMBRUVICA 280 mg film-coated tablets IMBRUVICA 420 mg film-coated tablets IMBRUVICA 560 mg film-coated tablets
 ```
+
+ibrutinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4586,7 +4430,7 @@ In MCL, CLL and WM, IMBRUVICA works by blocking Bruton's tyrosine kinase, a prot
 
 Talk to your doctor, pharmacist or nurse before taking IMBRUVICA:
 
--  if you have ever had unusual bruising or bleeding or are on any medicines or supplements that increase your risk of bleeding (see section 'Other medicines and IMBRUVICA' )
+-  if you have ever had unusual bruising or bleeding or are on any medicines or supplements that increase your risk of bleeding (see section \"Other medicines and IMBRUVICA\")
 -  if you have irregular heart beat or have a history of irregular heart beat or severe heart failure, or if you feel any of the following: shortness of breath, weakness, dizziness, light-headedness, fainting or near fainting, chest pain or swollen legs
 -  if you have liver problems, including if you ever had or now have a hepatitis B infection (a liver infection)
 -  if you have high blood pressure
@@ -4594,9 +4438,9 @@ Talk to your doctor, pharmacist or nurse before taking IMBRUVICA:
 -  if you are planning to have any surgery- your doctor may ask you to stop taking IMBRUVICA for a short time (3 to 7 days) before and after your surgery
 -  if you have kidney problems.
 
-If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before or while taking this medicine (see section 'Possible side effects' ).
+If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before or while taking this medicine (see section \"Possible side effects\").
 
-When taking IMBRUVICA, tell your doctor immediately if you notice or someone notices in you: memory loss, trouble thinking, difficulty walking or sight loss - these may be due to a very rare but serious brain infection which can be fatal (Progressive Multifocal Leukoencephalopathy or PML).
+When taking IMBRUVICA, tell your doctor immediately if you notice or someone notices in you: memory loss, trouble thinking, difficulty walking or sight loss - these may be due to a rare but serious brain infection which can be fatal (Progressive Multifocal Leukoencephalopathy or PML) (see section \"Possible side effects\" .
 
 Tell your doctor immediately if you notice or someone notices in you: sudden numbness or weakness in the limbs (especially on one side of the body), sudden confusion, trouble speaking or understanding speech, sight loss, difficulty walking, loss of balance or lack of coordination, sudden severe headache with no known cause. These may be signs and symptoms of stroke.
 
@@ -4612,17 +4456,15 @@ You may experience viral, bacterial, or fungal infections during treatment with 
 
 ## Haemophagocytic lymphohistiocytosis
 
-There have been rare reports of excessive activation of white blood cells associated with inflammation (haemophagocytic lymphohistiocytosis), which can be fatal if not diagnosed and treated early. If you
+There have been rare reports of excessive activation of white blood cells associated with inflammation (haemophagocytic lymphohistiocytosis), which can be fatal if not diagnosed and treated early. If you experience multiple symptoms such as fever, swollen glands, bruising, or skin rash, contact your doctor immediately.
 
 <div style=\"page-break-after: always\"></div>
-
-experience multiple symptoms such as fever, swollen glands, bruising, or skin rash, contact your doctor immediately.
 
 ## Tests and check-ups before and during treatment
 
 Tumour lysis syndrome (TLS): Unusual levels of chemicals in the blood caused by the fast breakdown of cancer cells have happened during treatment of cancer and sometimes even without treatment. This may lead to changes in kidney function, abnormal heartbeat, or seizures. Your doctor or another healthcare provider may do blood tests to check for TLS.
 
-Lymphocytosis: Laboratory tests may show an increase in white blood cells (called 'lymphocytes') in your blood in the first few weeks of treatment. This is expected and may last for a few months. This does not necessarily mean that your blood cancer is getting worse. Your doctor will check your blood counts before or during the treatment and in rare cases they may need to give you another medicine. Talk to your doctor about what your test results mean.
+Lymphocytosis: Laboratory tests may show an increase in white blood cells (called \"lymphocytes\") in your blood in the first few weeks of treatment. This is expected and may last for a few months. This does not necessarily mean that your blood cancer is getting worse. Your doctor will check your blood counts before or during the treatment and in rare cases they may need to give you another medicine. Talk to your doctor about what your test results mean.
 
 Events related to the liver: Your doctor will do some blood tests to check whether your liver is working properly or that you do not have a liver infection, known as viral hepatitis, or whether hepatitis B has become active again, which could be fatal.
 
@@ -4632,9 +4474,9 @@ IMBRUVICA should not be used in children and adolescents.
 
 ## Other medicines and IMBRUVICA
 
-Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription, herbal medicines and supplements. This is because IMBRUVICA may affect the way some other medicines work. Also some other medicines can affect the way IMBRUVICA works.
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription, herbal medicines and supplements. This is because IMBRUVICAmay affect the way some other medicines work. Also some other medicines can affect the way IMBRUVICA works.
 
-IMBRUVICA may make you bleed more easily. This means you should tell your doctor if you take other medicines that increase your risk of bleeding. This includes:
+IMBRUVICAmay make you bleed more easily. This means you should tell your doctor if you take other medicines that increase your risk of bleeding. This includes:
 
 -  acetyl salicylic acid and non-steroidal anti-inflammatories (NSAIDs) such as ibuprofen or naproxen
 -  blood thinners such as warfarin, heparin or other medicines for blood clots
@@ -4661,9 +4503,9 @@ If any of the above apply to you (or you are not sure), talk to your doctor, pha
 
 If you are taking digoxin, a medicine used for heart problems, or methotrexate, a medicine used to treat other cancers and to reduce the activity of the immune system (e.g., for rheumatoid arthritis or psoriasis), it should be taken at least 6 hours before or after IMBRUVICA.
 
-## IMBRUVICA with food
+## IMBRUVICAwith food
 
-Do not take IMBRUVICA with grapefruit or Seville oranges (bitter oranges) - this includes eating them, drinking the juice or taking a supplement that might contain them. This is because it can increase the amount of IMBRUVICA in your blood.
+Do not take IMBRUVICAwith grapefruit or Seville oranges (bitter oranges) - this includes eating them, drinking the juice or taking a supplement that might contain them. This is because it can increase the amount of IMBRUVICA in your blood.
 
 ## Pregnancy and breast-feeding
 
@@ -4684,7 +4526,7 @@ IMBRUVICA contains lactose (a type of sugar). If you have been told by your doct
 
 ## IMBRUVICA contains sodium
 
-IMBRUVICA contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+IMBRUVICA contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free' .
 
 ## 3. How to take IMBRUVICA
 
@@ -4738,12 +4580,13 @@ itchy bumpy rash, difficulty breathing, swelling of your face, lips, tongue or t
 
 ## Patients treated with IMBRUVICA for B-cell malignancies:
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 -  fever, chills, body aches, feeling tired, cold or flu symptoms, being short of breath - these could be signs of an infection (viral, bacterial or fungal). These could include infections of the nose, sinus or throat (upper respiratory tract infection), or lung, or skin
 -  blood in your stomach, gut, stools or urine, heavier periods, or bleeding that you cannot stop from an injury
 -  bruising or increased tendency of bruising
 -  mouth sores
+-  cough
 -  feeling dizzy
 -  headache
 -  constipation
@@ -4755,11 +4598,11 @@ itchy bumpy rash, difficulty breathing, swelling of your face, lips, tongue or t
 -  back pain or joint pain
 -  muscle cramps, aches or spasms
 -  fever
--  low number of cells that help blood clot (platelets), very low number of white blood cells shown in blood tests
+-  low number of cells that help blood clot (platelets), very low number of white blood cells - shown in blood tests
 -  an increase in the number or proportion of white blood cells shown in blood tests
 -  swollen hands, ankles or feet
 -  high blood pressure
--  increased level of 'creatinine' in the blood.
+-  increased level of \"creatinine\" in the blood.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4776,7 +4619,7 @@ itchy bumpy rash, difficulty breathing, swelling of your face, lips, tongue or t
 -  redness of the skin
 -  hives
 -  inflammation within the lungs that may lead to permanent damage
--  high level of 'uric acid' in the blood (shown in blood tests), which may cause gout
+-  high level of \"uric acid\" in the blood (shown in blood tests), which may cause gout
 -  breaking of the nails
 -  sudden kidney damage
 -  weakness, numbness, tingling or pain in your hands or feet or other parts of the body (peripheral neuropathy).
@@ -4803,24 +4646,25 @@ itchy bumpy rash, difficulty breathing, swelling of your face, lips, tongue or t
 ## Rare (may affect up to 1 in 1 000 people)
 
 -  severely increased white blood cell count that may cause cells to clump together
--  severe rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals (Stevens-Johnson syndrome).
+-  severe rash with blisters and peeling skin, particularly around the mouth, nose, eyes and genitals (Stevens-Johnson syndrome)
+-  memory loss, trouble thinking, difficulty walking or sight loss - these may be signs of a serious brain infection (Progressive Multifocal Leukoencephalopathy or PML).
 
 ## Patients treated with IMBRUVICA for previously untreated MCL
 
 ## Very common (may affect more than 1 in 10 people)
 
 -  low number of cells that help blood clot (platelets), very low number of white blood cells - shown in blood tests
--  low white blood cell counts with fever (febrile neutropenia)
--  feeling or being sick (nausea or vomiting)
 
 <div style=\"page-break-after: always\"></div>
 
+-  low white blood cell counts with fever (febrile neutropenia)
+-  feeling or being sick (nausea or vomiting)
 -  diarrhoea, your doctor may need to give you a fluid and salt replacement or another medicine
 -  mouth sores
 -  constipation
 -  fever
 -  fever, chills, body aches, feeling tired, cold or flu symptoms, being short of breath - these could be signs of an infection (viral, bacterial or fungal). These could include infections of the lung, or skin
--  increased level of 'creatinine' in the blood
+-  increased level of \"creatinine\" in the blood
 -  painful arms or legs
 -  weakness, numbness, tingling or pain in your hands or feet or other parts of the body (peripheral neuropathy).
 -  headache
@@ -4840,7 +4684,7 @@ itchy bumpy rash, difficulty breathing, swelling of your face, lips, tongue or t
 -  inflammation within the lungs that may lead to permanent damage
 -  severe infections throughout the body (sepsis)
 -  infections of the urinary tract
--  high level of 'uric acid' in the blood (shown in blood tests), which may cause gout
+-  high level of \"uric acid\" in the blood (shown in blood tests), which may cause gout
 -  unusual levels of chemicals in the blood caused by the fast breakdown of cancer cells have happened during treatment of cancer and sometimes even without treatment (tumour lysis syndrome)
 -  muscle cramps, aches or spasms
 -  back pain or joint pain
@@ -4883,31 +4727,31 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What IMBRUVICA contains
 
 -  The active substance is ibrutinib.
-- -IMBRUVICA 140 mg film-coated tablets: Each tablet contains 140 mg of ibrutinib.
-- -IMBRUVICA 280 mg film-coated tablets: Each tablet contains 280 mg of ibrutinib.
-- -IMBRUVICA 420 mg film-coated tablets: Each tablet contains 420 mg of ibrutinib.
-- -IMBRUVICA 560 mg film-coated tablets: Each tablet contains 560 mg of ibrutinib.
+- IMBRUVICA 140 mg film-coated tablets: Each tablet contains 140 mg of ibrutinib.
+- IMBRUVICA 280 mg film-coated tablets: Each tablet contains 280 mg of ibrutinib.
+- IMBRUVICA 420 mg film-coated tablets: Each tablet contains 420 mg of ibrutinib.
+- IMBRUVICA 560 mg film-coated tablets: Each tablet contains 560 mg of ibrutinib.
 -  The other ingredients are:
--  Tablet core: colloidal anhydrous silica, croscarmellose sodium, lactose monohydrate (see section 2 'IMBRUVICA contains lactose' ), magnesium stearate, microcrystalline cellulose, povidone, sodium lauril sulfate (E487).
-- 
-- Tablet film-coat: polyvinyl alcohol, macrogol, talc, titanium dioxide (E171); IMBRUVICA 140 mg and IMBRUVICA 420 mg film-coated tablets also contain black iron
-- oxide (E172) and yellow iron oxide (E172);
+-  Tablet core: colloidal anhydrous silica, croscarmellose sodium, lactose monohydrate (see section 2 \"IMBRUVICA contains lactose\"), magnesium stearate, microcrystalline cellulose, povidone, sodium lauril sulfate (E487).
+-  Tablet film-coat: polyvinyl alcohol, macrogol, talc, titanium dioxide (E171);
+- IMBRUVICA 140 mg and IMBRUVICA 420 mg film-coated tablets also contain black iron oxide (E172) and yellow iron oxide (E172);
 - IMBRUVICA 280 mg film-coated tablets also contain black iron oxide (E172) and red iron oxide (E172);
-- IMBRUVICA 560 mg film-coated tablets also contain red iron oxide (E172) and yellow iron oxide (E172).
+
+IMBRUVICA 560 mg film-coated tablets also contain red iron oxide (E172) and yellow iron oxide (E172).
 
 ## What IMBRUVICA looks like and contents of the pack
 
 ## IMBRUVICA 140 mg film-coated tablets
 
-Yellow-green to green round (9 mm) tablets, written with 'ibr' on one side and '140' on the other side. Each 28 day carton contains 28 film-coated tablets in 2 cardboard wallets of 14 film-coated tablets each. Each 30 day carton contains 30 film-coated tablets in 3 cardboard wallets of 10 film-coated tablets each.
+Yellow-green to green round (9 mm) tablets, written with \"ibr\" on one side and \"140\" on the other side. Each 28 day carton contains 28 film-coated tablets in 2 cardboard wallets of 14 film-coated tablets each. Each 30 day carton contains 30 film-coated tablets in 3 cardboard wallets of 10 film-coated tablets each.
 
 ## IMBRUVICA 280 mg film-coated tablets
 
-Purple oblong (15 mm in length and 7 mm in width), written with 'ibr' on one side and '280' on the other side. Each 28 day carton contains 28 film-coated tablets in 2 cardboard wallets of 14 film-coated tablets each. Each 30 day carton contains 30 film-coated tablets in 3 cardboard wallets of 10 film-coated tablets each.
+Purple oblong (15 mm in length and 7 mm in width), written with \"ibr\" on one side and \"280\" on the other side. Each 28 day carton contains 28 film-coated tablets in 2 cardboard wallets of 14 film-coated tablets each. Each 30 day carton contains 30 film-coated tablets in 3 cardboard wallets of 10 film-coated tablets each.
 
 ## IMBRUVICA 420 mg film-coated tablets
 
-Yellow-green to green oblong tablets (17.5 mm in length and 7.4 mm in width), written with 'ibr' on one side and '420' on the other side. Each 28 day carton contains 28 film-coated tablets in 2
+Yellow-green to green oblong tablets (17.5 mm in length and 7.4 mm in width), written with \"ibr\" on one side and \"420\" on the other side. Each 28 day carton contains 28 film-coated tablets in 2
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4915,11 +4759,13 @@ cardboard wallets of 14 film-coated tablets each. Each 30 day carton contains 30
 
 ## IMBRUVICA 560 mg film-coated tablets
 
-Yellow to orange oblong tablets (19 mm in length and 8.1 mm in width), written with 'ibr' on one side and '560' on the other side. Each 28 day carton contains 28 film-coated tablets in 2 cardboard wallets of 14 film-coated tablets each. Each 30 day carton contains 30 film-coated tablets in 3 cardboard wallets of 10 film-coated tablets each.
+Yellow to orange oblong tablets (19 mm in length and 8.1 mm in width), written with \"ibr\" on one side and \"560\" on the other side. Each 28 day carton contains 28 film-coated tablets in 2 cardboard wallets of 14 film-coated tablets each. Each 30 day carton contains 30 film-coated tablets in 3 cardboard wallets of 10 film-coated tablets each.
 
 ## Marketing Authorisation Holder
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
+
+Belgium
 
 ## Manufacturer
 
@@ -4929,11 +4775,11 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info \\_ belux@its.jnj.com
 
 ## България
 
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+\"Джонсън &amp; Джонсън България\" ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
 
 ## Česká republika
 
@@ -4951,13 +4797,13 @@ jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955
+
+medinfo-de@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
-
-Tel: +372 617 7410
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410
 
 ee@its.jnj.com
 
@@ -4967,11 +4813,19 @@ UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV
+
+Tél/Tel: 800 29 504
+
+info \\_ belux@its.jnj.com
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
+Janssen-Cilag Kft.
+
+Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
 
 ## Malta
 
@@ -4983,13 +4837,17 @@ Tel: +356 2397 6000
 
 Janssen-Cilag B.V.
 
-Tel: +31 76 711 1111
+Tel: 0800 242 42 42
 
-janssen@jacnl.jnj.com
+info \\_ nl@its.jnj.com
 
 ## Norge
 
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+Janssen-Cilag AS
+
+Tlf: +47 24 12 65 00
+
+jacno@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5120,3 +4978,27 @@ Janssen-Cilag AB
 Tfn: +46 8 626 50 00
 
 jacse@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for ibrutinib, the scientific conclusions of PRAC are as follows:
+
+In view of available data on progressive multifocal leukoencephalopathy (PML) from clinical trials, literature, real-world data sources, spontaneous reports including 3 cases assessed as probably related to ibrutinib therapy and 22 cases assessed as possibly related to ibrutinib and in view of a plausible mechanism of action as well as a potential class effect, the PRAC Rapporteur considers a causal relationship between ibrutinib and PML is at least a reasonable possibility. The PRAC Rapporteur concluded that the product information of products containing ibrutinib should be amended accordingly.
+
+In view of available data on cough from clinical trials, literature, real-world data sources, spontaneous reports including 52 cases with a positive dechallenge and 6 cases with a positive rechallenge and in view of a plausible mechanism of action as well as a potential class effect, the PRAC Rapporteur considers a causal relationship between ibrutinib and cough is at least a reasonable possibility. The PRAC Rapporteur concluded that the product information of products containing ibrutinib should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for ibrutinib the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing ibrutinib is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

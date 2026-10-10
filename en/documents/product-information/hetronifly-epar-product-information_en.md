@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-01 14:49:14
+document_datetime: 2026-10-08 16:56:42
 document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hetronifly-epar-product-information_en.pdf
 document_name: hetronifly-epar-product-information_en.pdf
 version: success
-processing_time: 20.163157
-conversion_datetime: 2026-07-04 15:04:07.572821
+processing_time: 24.8895517
+conversion_datetime: 2026-10-10 12:12:24.548305
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,7 +52,7 @@ Colourless to slightly yellow, clear to slightly opalescent solution, pH 5.2-5.8
 
 ## 4.1 Therapeutic indications
 
-## Small cell lung cancer (SCLC)
+Small cell lung cancer (SCLC)
 
 HETRONIFLY in combination with carboplatin and etoposide is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC).
 
@@ -164,7 +164,7 @@ The initial infusion rate should be set up to 100 ml per hour. If the first infu
 
 When administered in combination with chemotherapy, HETRONIFLY should be given first followed by chemotherapy on the same day. Use separate infusion bags for each infusion.
 
-HETRONIFLY must not be administered as an intravenous push or bolus injection.
+## HETRONIFLY must not be administered as an intravenous push or bolus injection.
 
 The total dose of HETRONIFLY required should be diluted with sodium chloride 9 mg/ml (0.9%) solution for injection (see section 6.6).
 
@@ -635,7 +635,7 @@ Table 5. Intravenous treatment regimens
 | B                   | Serplulimab (4.5 mg/kg) a + placebo (15 mg/kg) a + carboplatin (AUC=5, up to 800 mg) b + pemetrexed (500 mg/m 2 ) a | Serplulimab (4.5 mg/kg) a + placebo (15 mg/kg) a + pemetrexed (500 mg/m 2 ) a |
 | C                   | Placebo (4.5 mg/kg) a + placebo (15 mg/kg) a + carboplatin (AUC=5, up to 800 mg) b + pemetrexed (500 mg/m 2 ) a     | Placebo (4.5 mg/kg) a + placebo (15 mg/kg) a + pemetrexed (500 mg/m 2 ) a,c   |
 
-Baseline characteristics were balanced between treatment arms. Among the patients enrolled, 100% were Asian (636 patients). The median age was 61 years (range: 27 to 75), and 73.1% of patients were male, and most patients were current or previous smokers (66.8%). Baseline ECOG performance status was 0 (26.9%) or 1 (73.0%). Thirty-nine percent had tumour PD-L1 expression TPS &lt; 1% [negative], 31% had TPS  1-49%, 28% had TPS ≥ 50%. A total of 78.0% of patients' tumours had PDL1 expression positive (CPS ≥ 1) and 18.7% had brain metastasis at baseline. 79 subjects (37.6%) in Arm C received treatment with serplulimab combined with bevacizumab after confirmed disease progression.
+Baseline characteristics were balanced between treatment arms. Among the patients enrolled, 100% were Asian (636 patients). The median age was 61 years (range: 27 to 75), and 73.1% of patients were male, and most patients were current or previous smokers (66.8%). Baseline ECOG performance status was 0 (26.9%) or 1 (73.0%). Thirty-nine percent had tumour PD-L1 expression TPS &lt; 1% [negative], 31% had TPS 1-49%, 28% had TPS ≥ 50%. A total of 78.0% of patients' tumours had PDL1 expression positive (CPS ≥ 1) and 18.7% had brain metastasis at baseline. 79 subjects (37.6%) in Arm C received treatment with serplulimab combined with bevacizumab after confirmed disease progression.
 
 The median survival follow-up was 23.1 months at the primary analysis (data cut-off: 15 June 2023) and 45.4 months at the updated analysis (data cut-off: 07 August 2025). PFS, ORR and DOR results from the primary analysis, and OS results from the updated analysis are summarised in Table 6. Kaplan-Meier curves for PFS of primary analysis and OS of updated analysis are presented in Figure 3 and Figure 4.
 
@@ -643,19 +643,19 @@ Table 6. Efficacy data in ASTRUM-002
 
 <div style=\"page-break-after: always\"></div>
 
-|                            |                                       | Arm B (Serplulimab + carboplatin pemetrexed)   | Arm C (Placebo + carboplatin + pemetrexed)   |
-|----------------------------|---------------------------------------|------------------------------------------------|----------------------------------------------|
-| Number of patients         | Number of patients                    | 214                                            | 210                                          |
-| Primary endpoint           | Primary endpoint                      | Primary endpoint                               | Primary endpoint                             |
-| PFS 1 -IRRC per RECIST 1.1 | Number of patients with events, n (%) | 130 (60.7%)                                    | 156 (74.3%)                                  |
-| PFS 1 -IRRC per RECIST 1.1 | Median PFS (months, 95% CI)           | 11.0 (8.4, 12.7)                               | 5.6 (4.8, 6.8)                               |
-| PFS 1 -IRRC per RECIST 1.1 | Hazard ratio (95% CI)                 | 0.55 (0.43-0.69)                               | 0.55 (0.43-0.69)                             |
-| PFS 1 -IRRC per RECIST 1.1 | p-value                               | < 0.0001                                       | < 0.0001                                     |
-| Secondary endpoints        | Secondary endpoints                   | Secondary endpoints                            | Secondary endpoints                          |
-| OS 2                       | Number of patients with events, n (%) | 132 (61.7%)                                    | 162 (77.1%)                                  |
-| OS 2                       | Median OS (months, 95% CI)            | 26.8 (21.2, 30.9)                              | 20.3 (16.2, 24.6)                            |
-| OS 2                       | Hazard ratio (95% CI)                 | 0.66 (0.52-0.83)                               | 0.66 (0.52-0.83)                             |
-| Confirmed ORR 1            | (%, 95% CI)                           | 52.8% (45.9%-59.7%)                            | 27.6% (21.7%-34.2%)                          |
+|                            |                                       | Arm B (Serplulimab + carboplatin + pemetrexed)   | Arm C (Placebo + carboplatin + pemetrexed)   |
+|----------------------------|---------------------------------------|--------------------------------------------------|----------------------------------------------|
+| Number of patients         | Number of patients                    | 214                                              | 210                                          |
+| Primary endpoint           | Primary endpoint                      | Primary endpoint                                 | Primary endpoint                             |
+| PFS 1 -IRRC per RECIST 1.1 | Number of patients with events, n (%) | 130 (60.7%)                                      | 156 (74.3%)                                  |
+| PFS 1 -IRRC per RECIST 1.1 | Median PFS (months, 95% CI)           | 11.0 (8.4, 12.7)                                 | 5.6 (4.8, 6.8)                               |
+| PFS 1 -IRRC per RECIST 1.1 | Hazard ratio (95% CI)                 | 0.55 (0.43-0.69)                                 | 0.55 (0.43-0.69)                             |
+| PFS 1 -IRRC per RECIST 1.1 | p-value                               | < 0.0001                                         | < 0.0001                                     |
+| Secondary endpoints        | Secondary endpoints                   | Secondary endpoints                              | Secondary endpoints                          |
+| OS 2                       | Number of patients with events, n (%) | 132 (61.7%)                                      | 162 (77.1%)                                  |
+| OS 2                       | Median OS (months, 95% CI)            | 26.8 (21.2, 30.9)                                | 20.3 (16.2, 24.6)                            |
+| OS 2                       | Hazard ratio (95% CI)                 | 0.66 (0.52-0.83)                                 | 0.66 (0.52-0.83)                             |
+| Confirmed ORR 1            | (%, 95% CI)                           | 52.8% (45.9%-59.7%)                              | 27.6% (21.7%-34.2%)                          |
 
 1 PFS and ORR results are based on the pre-specified interim analysis with data cutoff of 15 June 2023. 2 OS results are based on the final analysis with a data cutoff of 07 August 2025.
 
@@ -697,9 +697,6 @@ Table 8. Intravenous treatment regimens
 | A                   | Serplulimab (4.5 mg/kg) a + Nab-paclitaxel (100 mg/m 2 ) b,c + carboplatin (AUC=5, up to 750 mg or AUC=6, up to 900 mg) b | Serplulimab (4.5 mg/kg) a     |
 | B                   | Placebo + Nab-paclitaxel (100 mg/m 2 ) b,c + carboplatin (AUC=5, up to 750 mg or AUC=6, up to 900 mg) b                   | Placebo d                     |
 
-- c. Nab-paclitaxel was administered on day 1, 8 and 15 of each cycle.
-- d. Crossover was allowed from arm B to receive serplulimab monotherapy 4.5 mg/kg every 3 weeks after the patients experience the first PD assessed based on RECIST 1.1.
-
 Baseline characteristics were balanced between the treatment arms. Among the patients enrolled, 66.9% were Asian (359 patients), and 33.1% were non-Asian (178 patients), all of which were White. The median age was 63 years (range: 35-86) with 42.3% of patients ≥ 65 years, and 5.2% of patients ≥ 75 years of age. 90.9% of patients were men. Baseline ECOG performance-status score was 0 (16.9%) or 1 (83.1%). 62.2% of patients were PD-L1 positive (TPS ≥ 1%). 71.7% of patients were in stage IV. 13.0% of patients were never-smokers and 87.0% of patients were former/current-smokers; 7.1% with brain metastases.
 
 At the time of the interim analysis cut-off on 30 March 2021, patients had a median survival follow-up time of 8.9 months. Updated analysis with longer follow-up duration (median: 31.1 months) was conducted by the cut-off date 31 January 2023.
@@ -726,10 +723,6 @@ Table 9. Efficacy data in ASTRUM-004
 |-----------------|-------------------------|---------------------|---------------------|
 | Confirmed ORR 1 | (%, 95% CI)             | 52.8% (47.5, 58.1)  | 34.6% (27.7, 42.1)  |
 
-1 PFS and ORR results are based on the pre-specified primary analysis with data cutoff of 30 March 2021.
-
-2 OS results are based on the final analysis with a data cutoff of 31 January 2023.
-
 Figure 5. Kaplan-Meier curve of PFS (RECIST 1.1) by IRRC in overall population at the primary analysis (data cut-off date: 30 March 2021)
 
 <!-- image -->
@@ -742,9 +735,7 @@ The subgroup analyses of PFS at the primary analysis and OS at the updated analy
 
 <div style=\"page-break-after: always\"></div>
 
-Oesophageal squamous cell carcinoma (OSCC)
-
-ASTRUM-007: Randomised phase III trial of combination therapy in oesophageal squamous cell carcinoma patients
+Oesophageal squamous cell carcinoma (OSCC) ASTRUM-007: Randomised phase III trial of combination therapy in oesophageal squamous cell carcinoma patients
 
 The efficacy of serplulimab in combination with chemotherapy was investigated in ASTRUM-007 (NCT03958890), a multicentre, randomised, double-blind, placebo-controlled study in patients with unresectable, locally advanced, recurrent or metastatic oesophageal squamous cell carcinoma. The dual primary endpoints were progression-free survival (PFS) assessed by an Independent Radiology Review Committee (IRRC) based on RECIST v1.1, and overall survival (OS) in the intent-to-treat (ITT) population. The secondary endpoints included PFS assessed by the investigator, objective response rate (ORR) and duration of response (DOR) assessed by IRRC and by the investigator. The study treatment regimens were unblinded after the primary analysis.
 
@@ -784,7 +775,7 @@ Table 11. Efficacy data at the updated analysis for patients with CPS ≥ 5 (dat
 | OS                        | Median OS (95% CI) (months)           | 16.5 (13.8, 19.5)                        | 10.7 (8.7, 13.9)                     |
 | OS                        | Hazard ratio (95% CI)                 | 0.60 (0.46, 0.79)                        | 0.60 (0.46, 0.79)                    |
 | Secondary endpoints       | Secondary endpoints                   | Secondary endpoints                      | Secondary endpoints                  |
-| Confirmed ORR             | %(95% CI)                             | 65.2% (58.7%, 71.4%)                     | 39.8% (30.7%, 49.5%)                 |
+| Confirmed ORR             | % (95% CI)                            | 65.2% (58.7%, 71.4%)                     | 39.8% (30.7%, 49.5%)                 |
 
 Figure 7. Kaplan-Meier curve of PFS (RECIST 1.1) by IRRC in patients with a CPS score ≥ 5 at the updated analysis (data cut-off date: 09 January 2023)
 
@@ -886,7 +877,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## Unopened vial
+Unopened vial
 
 3 years.
 
@@ -896,7 +887,13 @@ From a microbiological point of view, the product, once diluted, should be used 
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C-8°C). Do not freeze. Store in the original package in order to protect from light. For storage conditions after dilution of the medicinal product, see section 6.3.
+Store in a refrigerator (2°C-8°C).
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
+
+For storage conditions after dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
@@ -906,7 +903,7 @@ Pack of 1 vial.
 
 ## 6.6 Special precautions for disposal and other handling
 
-## Preparation and administration
+Preparation and administration
 
 - Aseptic handling should be ensured during the preparation of infusion.
 - Do not shake the vial.
@@ -960,15 +957,17 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Shanghai Henlius Biopharmaceutical Co., Ltd.
+Shanghai Henlius Biopharmaceutical Co., Ltd. (Building D) Block 1 No. 1289 Yishan Road Xuhui District, Shanghai
 
-(Building D) Block 1 No. 1289 Yishan Road Xuhui District, Shanghai China
+China
 
 Name and address of the manufacturer responsible for batch release
 
 Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50, Pabianice, 95-200, Poland
 
-Accord Healthcare Single Member S.A., 64th Km National Road Athens Lamia, Schimatari, 32009, Greece
+Accord Healthcare Single Member S.A., 64th Km National Road Athens Lamia,
+
+Schimatari, 32009, Greece
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -988,7 +987,9 @@ The marketing authorization holder (MAH) shall submit the first PSUR for this pr
 
 ## · Risk management plan (RMP)
 
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP. An updated RMP should be submitted:
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
 
 -  At the request of the European Medicines Agency;
 -  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -1079,7 +1080,7 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1101,9 +1102,11 @@ EU/1/24/1870/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -1121,29 +1124,35 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-HETRONIFLY 10 mg/ml sterile concentrate
+HETRONIFLY 10 mg/ml sterile concentrate serplulimab IV use after dilution
 
-serplulimab IV use after dilution
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 2. METHOD OF ADMINISTRATION
-
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 100 mg/10 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1151,13 +1160,11 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-## HETRONIFLY 10 mg/ml concentrate for solution for infusion
+## HETRONIFLY 10 mg/ml concentrate for solution for infusion serplulimab
 
-## serplulimab
+<!-- image -->
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1308,12 +1315,12 @@ HETRONIFLY acts on your immune system and may cause inflammation in parts of you
 
 Speak with your doctor immediately if you notice any of the following serious symptoms. They may be signs of a serious, possibly fatal, condition. Getting medical treatment right away may help keep these problems from becoming more serious.
 
-- inflammation of the lungs ( common ): symptoms may include new or worsening cough, shortness of breath or chest pain
-- inflammation of the liver and bile ducts ( common ): symptoms may include nausea or vomiting, feeling less hungry, pain on the right side of your stomach, yellowing of skin or whites of eyes, drowsiness, dark urine or bleeding or bruising more easily than normal
-- inflammation of the intestines ( uncommon ): symptoms may include diarrhoea or more bowel movements than usual, or stools that are black, tarry or sticky with blood or mucus, severe stomach pain or tenderness
-- inflammation of pancreas ( uncommon ): symptoms may include abdominal pain, nausea and vomiting
-- inflammation of the heart muscle ( uncommon ): symptoms may include chest pain, shortness of breath, or irregular heartbeat
-- myasthenia gravis and myasthenic syndromes ( rare ): symptoms may include muscle weakness and tiring easily
+- inflammation of the lungs (common): symptoms may include new or worsening cough, shortness of breath or chest pain
+- inflammation of the liver and bile ducts (common): symptoms may include nausea or vomiting, feeling less hungry, pain on the right side of your stomach, yellowing of skin or whites of eyes, drowsiness, dark urine or bleeding or bruising more easily than normal
+- inflammation of the intestines (uncommon): symptoms may include diarrhoea or more bowel movements than usual, or stools that are black, tarry or sticky with blood or mucus, severe stomach pain or tenderness
+- inflammation of pancreas (uncommon): symptoms may include abdominal pain, nausea and vomiting
+- inflammation of the heart muscle (uncommon): symptoms may include chest pain, shortness of breath, or irregular heartbeat
+- myasthenia gravis and myasthenic syndromes (rare): symptoms may include muscle weakness and tiring easily
 
 ## Other side effects
 
@@ -1447,13 +1454,33 @@ HETRONIFLY is a concentrate for solution for intravenous infusion, which is supp
 
 ## Marketing Authorisation Holder
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6a Planta 08039 Barcelona Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6a Planta 08039 Barcelona
+
+Spain
 
 ## Manufacturer
 
-Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50, Pabianice, 95-200, Poland
+Accord Healthcare Polska Sp.z o.o.,
 
-Accord Healthcare Single Member S.A., 64th Km National Road Athens Lamia, Schimatari, 32009, Greece
+ul. Lutomierska 50, Pabianice, 95-200, Poland
+
+Accord Healthcare Single Member S.A.,
+
+64th Km National Road Athens Lamia,
+
+Schimatari, 32009, Greece
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
+
+Accord Healthcare S.L.U. Tel: +34 93 301 00 64
+
+EL
+
+Win Medica Α.Ε.
+
+Τel: +30 210 74 88 821
 
 ## This leaflet was last revised in
 
@@ -1461,28 +1488,27 @@ Accord Healthcare Single Member S.A., 64th Km National Road Athens Lamia, Schima
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+<div style=\"page-break-after: always\"></div>
+
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
 
 -----------------------------------------------------------------------------------------------------------------------
 
 The following information is intended for healthcare professionals only:
 
-Preparation and administration of the infusion
+## Preparation and administration of the infusion
 
 Aseptic handling should be ensured during the preparation of infusion.
 
 - Do not shake the vial.
 - Equilibrate the vial to room temperature (at or below 25°C).
-
-<div style=\"page-break-after: always\"></div>
-
 - The product should be inspected visually for the particulate matters and discoloration prior to administration. The concentrate is a colourless to slightly yellow, clear to slightly opalescent solution. Discard the vial if the visible particle is observed.
 - Confirm the dose of the product and calculate the required volume of HETRONIFLY.
 - Withdraw a volume of the sodium chloride 9 mg/ml (0.9%) solution for injection corresponding to the volume of infused product from the target intravenous bag using a sterile syringe and discard.
 - Use a syringe to withdraw the required volume of HETRONIFLY from the vial and inject it into the sodium chloride 9 mg/ml (0.9%) solution for injection to prepare a diluted solution with a final concentration range from 1.0 to 8.0 mg/ml. Mix the diluted solution by gentle inversion.
 - Administer the infusion solution intravenously using a sterile, non-pyrogenic, low-protein binding 0.2 to 5.0 μm in-line or add-on filter.
 - Set the initial infusion rate to 100 ml per hour (25 drops per minute is recommended). The infusion rate can be adjusted if infusion-related reactions occur. If there is no infusion-related adverse reaction in the first infusion, the duration of subsequent administration can be shortened to 30 minutes (± 10 minutes).
-- From a microbiological point of view, the product, once diluted, should be used immediately. The diluted solution must not be frozen. If not used immediately, the diluted solution can be stored for 24 hours at 2°C to 8°C. This 24-hour hold may include up to 6 hours at room temperature (≤ 25°C). If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use.
+- From a microbiological point of view, the product, once diluted, should be used immediately. The diluted solution must not be frozen. If not used immediately, the diluted solution can be stored for 24 hours at 2°C to 8°C. This 24-hour hold may include up to 6 hours at room temperature (≤ 25°C). If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use.
 - At the end of infusion, the infusion tube is flushed with sodium chloride 9 mg/ml (0.9%) solution according to the routine operation procedure of the hospital.
 - Do not co-administer other medical products through the same infusion line.
 - In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded in the patient file.

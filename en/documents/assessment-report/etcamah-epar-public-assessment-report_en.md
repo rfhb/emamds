@@ -1,11 +1,11 @@
 ---
-document_datetime: 2026-10-06 10:04:22
-document_pages: 206
+document_datetime: 2026-10-09 17:55:12
+document_pages: 209
 document_pathfilename: www.ema.europa.eu/en/documents/assessment-report/etcamah-epar-public-assessment-report_en.pdf
 document_name: etcamah-epar-public-assessment-report_en.pdf
 version: success
-processing_time: 294.447135
-conversion_datetime: 2026-10-09 18:23:56.243325
+processing_time: 285.1070298
+conversion_datetime: 2026-10-10 12:02:25.874237
 docling_version:
   docling-serve: 1.36.0
   docling-jobkit: 3.8.1
@@ -3156,6 +3156,8 @@ Table 50: Time from Randomisation to Second Progression or Death (PFS2) (FAS)
 | 2-sided p- value                            | p = 0.00376                                              | p = 0.00376                                    | p = 0.00153                                          | p = 0.00153                                | p = 0.00373                                             | p = 0.00373                                   |
 | 95% CI                                      | 0.33,                                                    | 0.81                                           | 0.39, 0.80                                           | 0.39, 0.80                                 | 0.46, 0.86                                              | 0.46, 0.86                                    |
 
+- [d] The analysis is a repeat of the primary PFS2 analysis but the determination of second progression is assessed by investigator based on RECIST 1.1 (considering objective radiological progression only). A HR &lt; 1 favours camizestrant + CDK4/6 inhibitor. The p-value is based on the stratified log-rank test, stratified by ESR1m status detectable at first vs subsequent ctDNA tests and time from initiation of AI + CDK4/6 inhibitor to randomisation.
+
 <div style=\"page-break-after: always\"></div>
 
 Figure 44: Time from Randomisation to PFS2, Kaplan-Meier Plot (FAS)DCO1
@@ -5508,3 +5510,42 @@ The benefit-risk balance is considered positive for camizestrant + CDK4/6i in th
 ## 10. Appendices
 
 ## Divergent position(s) to the majority recommendation
+
+<div style=\"page-break-after: always\"></div>
+
+## APPENDIX
+
+DIVERGENT POSITION DATED 21 May 2026
+
+<div style=\"page-break-after: always\"></div>
+
+## DIVERGENT POSITION DATED 21 May 2026
+
+## Etcamah (camizestrant) EMA/H/C/006494/0000
+
+The undersigned members of the CHMP did not agree with the CHMP's positive opinion recommending the granting of the marketing authorisation in the following indication:
+
+\"Etcamah\" in combination with a CDK4/6 inhibitor (palbociclib, ribociclib, or abemaciclib) indicated for the treatment of adult patients with ER-positive, HER2-negative, locally advanced or metastatic breast cancer upon detection of ESR1-mutation and without disease progression during first-line endocrine therapy in combination with a CDK4/6 inhibitor (for biomarker based patient-selection, see section 4.2 and 5.1).
+
+In pre- or peri-menopausal women and in men, Etcamah plus a CDK4/6 inhibitor should be combined with a luteinizing hormone releasing hormone (LHRH) agonist or antagonist.\"
+
+The reasons for the divergent opinion are as follows:
+
+The treatment strategy evaluated in the single pivotal SERENA-6 trial does not reflect current standard clinical practice. The study does not adequately answer the clinically relevant question whether early switching endocrine therapy at first detection of an ESR1 mutation, and prior to radiographic or clinical progression, improves long-term patient outcome compared with the established strategy of continuing treatment until progression and switching treatment thereafter.
+
+In particular, this is based on the following issues:
+
+- The SERENA-6 trial primarily evaluates an early-switch treatment strategy triggered by first detection of molecular progression while on first-line treatment. The added clinical value of camizestrant, when introduced at the time when switch of treatment would be indicated as to current standard of care, i.e. at clinical or radiological progression, is not part of the study design.
+- Early switching may expose patients with ongoing disease control under the existing regimen to additional treatment-related risks, biomarker-testing burden, and potential loss of time on an effective and tolerated regimen, without robust evidence that the early initiation of camizestrant improves long-term outcome.
+- The experimental arm incorporates earlier use of a subsequent endocrine treatment option before conventional first-line treatment failure has been documented.
+
+In consequence, the observed PFS advantage cannot be interpreted in the same manner as in a conventional treatment strategy. It remains to be clarified, whether camizestrant improves the overall treatment sequence or long-term patient outcome compared with the established practice. Therefore, PFS is not considered sufficient as a stand-alone endpoint for pivotal B/R assessment in this context. However, no robust evidence of long-term clinical benefit has been provided to overcome these limitations:
+
+- At present, OS data remain insufficiently mature to be informative (maturity approximately 30%) and do not provide robust evidence that the early-switch strategy improves long-term outcome.
+- The submitted PFS2 analysis is considered unreliable due to (i) the heterogeneity in choice and timing of subsequent therapy (partly not reflecting current scientific guideline recommendations), and (ii) the insufficiently standardised assessment of second progression (only a small number of patients was continuously followed with tumour assessments based on RECIST 1.1 methods in appropriate time intervals).
+
+Therefore, based on the currently available SERENA-6 data, we cannot conclude on a positive benefit-risk balance for Etcamah in the proposed indication.
+
+Janet König
+
+Jan Müller-Berghaus Paolo Gasparini Eva Skovlund Carolina Prieto Fernandez Sol Ruiz Peter Mol Hrefna Gudmundsdottir Christian B. Roes

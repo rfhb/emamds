@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-08 10:50:00
+document_datetime: 2026-10-07 16:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ritonavir-viatris.html
 document_name: ritonavir-viatris.html
 version: success
-processing_time: 0.1182828
-conversion_datetime: 2026-07-10 22:37:00.145037
+processing_time: 0.3845807
+conversion_datetime: 2026-10-10 14:02:01.460984
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.111.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Ritonavir Viatris (previously Ritonavir Mylan)
 
 [RSS](/en/individual-human-medicine.xml/67013)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -45,11 +45,11 @@ Page contents
 
 ## Overview
 
-Ritonavir Viatris is used in combination with other medicines to treat patients over two years of age who are infected with human immunodeficiency virus type 1 (HIV-1), a virus that causes acquired immune deficiency syndrome (AIDS).
+Ritonavir Viatris is a medicine used to treat adults and children aged two years and older with human immunodeficiency virus type 1 (HIV-1) infection. HIV-1 is a virus that causes acquired immune deficiency syndrome (AIDS). Ritonavir Viatris is used to enhance the activity of other medicines called protease inhibitors, including atazanavir, fosamprenavir, lopinavir, tipranavir and darunavir.
 
 Ritonavir Viatris contains the active substance ritonavir.
 
-Ritonavir Viatris is a 'generic medicine'. This means that it contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Ritonavir Viatris is Norvir.
+Ritonavir Viatris is a 'generic medicine'. This means that it contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Ritonavir Viatris is Norvir. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/other/questions-and-answers-generic-medicines_en.pdf) .
 
 Expand section
 
@@ -57,17 +57,19 @@ Collapse section
 
 ### How is Ritonavir Viatris used?
 
-Ritonavir Viatris can only be obtained with a prescription and treatment should be given by a doctor who has experience in the treatment of HIV infection. It is available as tablets and should be taken with food.
+Ritonavir Viatris can only be obtained with a prescription and treatment should be prescribed by a doctor who has experience in the treatment of HIV infection.
 
-Ritonavir Viatris can be used as a 'pharmacokinetic enhancer' (booster) to increase the blood levels of other antiviral medicines that belong to the same group (known as protease inhibitors); it can also be used in larger doses for a direct antiviral effect on HIV.
+Ritonavir Viatris is available as tablets to be taken with food once or twice a day. The frequency depends on the protease inhibitor Ritonavir Viatris is given with.
 
 For more information about using Ritonavir Viatris, see the package leaflet or contact your doctor or pharmacist.
 
 ### How does Ritonavir Viatris work?
 
-As a 'booster', the active substance ritonavir slows the breakdown of other protease inhibitor antivirals. This increases the levels of these protease inhibitors in the blood and enhances their antiviral effect.
+The active substance in Ritonavir Viatris, ritonavir, enhances the activity of other HIV-1 medicines called protease inhibitors. These medicines block an enzyme (a type of protein) of HIV-1 called protease, which the virus needs to make new copies of itself.
 
-At higher antiviral doses, it blocks a viral enzyme called protease, which is involved in the replication of HIV. When the enzyme is blocked, the virus can no longer replicate normally, slowing down the spread of infection. Ritonavir Viatris, taken in combination with other antiviral medicines, reduces the amount of HIV in the blood and keeps it at a low level. Ritonavir Viatris does not cure HIV infection or AIDS, but it may hold off damage to the immune system and the development of infections and diseases associated with AIDS.
+When given together with protease inhibitors, ritonavir slows down the rate at which they are broken down in the body. This helps to keep their levels higher in the blood for longer, allowing them to work more effectively against the virus.
+
+Ritonavir Viatris does not cure HIV-1 infections or AIDS. It delays the damage made by the virus to the immune system (the body's natural defences) and the development of infections and diseases associated with AIDS.
 
 ### How has Ritonavir Viatris been studied?
 
@@ -85,7 +87,7 @@ The European Medicines Agency concluded that, in accordance with EU requirements
 
 ### What measures are being taken to ensure the safe and effective use of Ritonavir Viatris?
 
-Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ritonavir Viatris have been included in the summary of product characteristics and the package leaflet. Any additional measures in place for Norvir also apply to Ritonavir Viatris where appropriate.
+Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ritonavir Viatris have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Ritonavir Viatris are continuously monitored. Suspected side effects reported with Ritonavir Viatris are carefully evaluated and any necessary action taken to protect patients.
 
@@ -97,13 +99,147 @@ The name of the medicine was changed to Ritonavir Viatris on 17 July 2024.
 
 Ritonavir Viatris : EPAR - Medicine overview
 
-Reference Number: EMA/621228/2017
+Reference Number: EMADOC-1829012207-57555
 
-English (EN) (140.11 KB - PDF)
+English (EN) (142.86 KB - PDF)
 
 **First published:** 20/11/2017 **Last updated:** 08/07/2026
 
 [View](/en/documents/overview/ritonavir-viatris-epar-medicine-overview_en.pdf)
+
+[Other languages (22)](#file-language-dropdown-632)
+
+български (BG) (166.93 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/bg/documents/overview/ritonavir-viatris-epar-medicine-overview_bg.pdf)
+
+español (ES) (143.99 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/es/documents/overview/ritonavir-viatris-epar-medicine-overview_es.pdf)
+
+čeština (CS) (165.3 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/cs/documents/overview/ritonavir-viatris-epar-medicine-overview_cs.pdf)
+
+dansk (DA) (142.73 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/da/documents/overview/ritonavir-viatris-epar-medicine-overview_da.pdf)
+
+Deutsch (DE) (146.92 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/de/documents/overview/ritonavir-viatris-epar-medicine-overview_de.pdf)
+
+eesti (ET) (140.28 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/et/documents/overview/ritonavir-viatris-epar-medicine-overview_et.pdf)
+
+ελληνικά (EL) (166.99 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/el/documents/overview/ritonavir-viatris-epar-medicine-overview_el.pdf)
+
+français (FR) (144.89 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/fr/documents/overview/ritonavir-viatris-epar-medicine-overview_fr.pdf)
+
+hrvatski (HR) (163.14 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/hr/documents/overview/ritonavir-viatris-epar-medicine-overview_hr.pdf)
+
+italiano (IT) (142.5 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/it/documents/overview/ritonavir-viatris-epar-medicine-overview_it.pdf)
+
+latviešu (LV) (180.95 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/lv/documents/overview/ritonavir-viatris-epar-medicine-overview_lv.pdf)
+
+lietuvių (LT) (165.62 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/lt/documents/overview/ritonavir-viatris-epar-medicine-overview_lt.pdf)
+
+magyar (HU) (165.09 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/hu/documents/overview/ritonavir-viatris-epar-medicine-overview_hu.pdf)
+
+Malti (MT) (167.17 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/mt/documents/overview/ritonavir-viatris-epar-medicine-overview_mt.pdf)
+
+Nederlands (NL) (143.67 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/nl/documents/overview/ritonavir-viatris-epar-medicine-overview_nl.pdf)
+
+polski (PL) (168.05 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/pl/documents/overview/ritonavir-viatris-epar-medicine-overview_pl.pdf)
+
+português (PT) (144.61 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/pt/documents/overview/ritonavir-viatris-epar-medicine-overview_pt.pdf)
+
+română (RO) (163.09 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/ro/documents/overview/ritonavir-viatris-epar-medicine-overview_ro.pdf)
+
+slovenčina (SK) (165.11 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/sk/documents/overview/ritonavir-viatris-epar-medicine-overview_sk.pdf)
+
+slovenščina (SL) (162.6 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/sl/documents/overview/ritonavir-viatris-epar-medicine-overview_sl.pdf)
+
+suomi (FI) (141.49 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/fi/documents/overview/ritonavir-viatris-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (141.96 KB - PDF)
+
+**First published:** 20/11/2017 **Last updated:** 08/07/2026
+
+[View](/sv/documents/overview/ritonavir-viatris-epar-medicine-overview_sv.pdf)
 
 Ritonavir Mylan : EPAR - Risk Management Plan
 
@@ -123,7 +259,7 @@ English (EN) (453.09 KB - PDF)
 
 [View](/en/documents/product-information/ritonavir-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-53)
+[Other languages (24)](#file-language-dropdown-155)
 
 български (BG) (639.11 KB - PDF)
 
@@ -181,7 +317,7 @@ hrvatski (HR) (465.41 KB - PDF)
 
 italiano (IT) (458.23 KB - PDF)
 
-**First published:** 20/11/2017 **Last updated:** 26/03/2026
+**First published:** 20/11/2017 **Last updated:** 08/05/2026
 
 [View](/it/documents/product-information/ritonavir-viatris-epar-product-information_it.pdf)
 
@@ -277,7 +413,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -296,7 +432,7 @@ English (EN) (11.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ritonavir-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-170)
+[Other languages (22)](#file-language-dropdown-727)
 
 български (BG) (56.16 KB - PDF)
 
@@ -449,7 +585,7 @@ Antivirals for systemic use
 
 ### Therapeutic indication
 
-Ritonavir is indicated in combination with other antiretroviral agents for the treatment of HIV 1 infected patients (adults and children of 2 years of age and older).
+Ritonavir is indicated as a pharmacokinetic enhancer of co-administered protease inhibitors as part of antiretroviral combination therapy in human immunodeficiency virus-1 (HIV-1) infected patients (adults and children of 2 years of age and older).
 
 ## Authorisation details
 
@@ -464,7 +600,7 @@ Ritonavir is indicated in combination with other antiretroviral agents for the t
 - **Marketing authorisation issued**
     - 09/11/2017
 - **Revision**
-    - 21
+    - 22
 
 ## Assessment history
 
@@ -520,6 +656,6 @@ English (EN) (68.18 KB - PDF)
 
 **This page was last updated on**
 
-08/07/2026
+07/10/2026
 
 ## Share this page

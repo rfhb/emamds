@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-04-24 14:52:00
+document_datetime: 2026-10-07 14:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/besremi.html
 document_name: besremi.html
 version: success
-processing_time: 0.1179026
-conversion_datetime: 2026-04-25 16:09:42.18191
+processing_time: 0.1530094
+conversion_datetime: 2026-10-10 13:57:24.821861
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Besremi
 
 [RSS](/en/individual-human-medicine.xml/67181)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Besremi](#news-on)
 - [More information on Besremi](#more-information-on-besremi-887)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -59,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Besremi used?
+### How is Besremi used?
 
 Besremi can only be obtained with a prescription and treatment should only be started under the supervision of a doctor experienced in managing polycythaemia vera.
 
@@ -67,37 +66,37 @@ Besremi is available for injection under the skin in pre-filled pens. The usual 
 
 For more information about using Besremi, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Besremi work?
+### How does Besremi work?
 
 The active substance in Besremi, ropeginterferon alfa-2b, works by attaching to receptors (targets) on body cells called interferon alfa/beta receptors (IFNAR). This starts several reactions that cause the bone marrow to produce fewer red blood cells.
 
 Ropeginterferon alfa-2b is a type of 'interferon', a natural substance produced by the body. In Besremi, the interferon has been 'pegylated' (attached to a chemical called polyethylene glycol) so that it can stay longer in the body and be given less often.
 
-## What benefits of Besremi have been shown in studies?
+### What benefits of Besremi have been shown in studies?
 
 A main study of 257 patients showed that Besremi is effective at reducing levels of red blood cells in patients with polycythaemia vera. In this study, 43% of patients receiving Besremi had normal red blood cell counts after one year of treatment; 46% of patients receiving another medicine, hydroxycarbamide, had similar improvements.
 
 An extension of this study showed that continuing treatment with Besremi for longer increased the number of patients whose blood counts reduced to normal.
 
-## What are the risks associated with Besremi?
+### What are the risks associated with Besremi?
 
 The most common side effects with Besremi (which may affect more than 1 in 10 people) are low levels of white blood cells and platelets (blood components that help the blood to clot), muscle and joint pain, tiredness, flu-like symptoms and increased blood levels of gamma-glutamyl transferase (a sign of liver problems). For the full list of side effects of Besremi, see the package leaflet.
 
 Besremi must not be used together with telbivudine (a medicine for treating hepatitis B). It must not be used in patients with thyroid disease which is not controlled by standard treatment, patients who have had psychiatric illnesses such as severe depression, patients with severe problems affecting the heart and the blood vessels, patients who have recently had a heart attack or stroke, patients suffering from autoimmune diseases, patients who have had a transplant, and patients with very severe liver or kidney disease. For the full list of restrictions, see the package leaflet.
 
-## Why is Besremi authorised in the EU?
+### Why is Besremi authorised in the EU?
 
 Besremi is effective at reducing the excessive number of blood cells in patients with polycythaemia vera, and the proportion of patients improving increased with longer treatment. Although Besremi may be less effective than hydroxycarbamide in the first months of treatment, phlebotomy (a procedure to remove excess blood from the body) can help to control the condition in the short term.
 
 As for its safety, the side effects of Besremi are considered manageable. In addition, the fact that Besremi does not have the potential to cause gene mutations was considered an important benefit. The European Medicines Agency therefore decided that Besremi's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Besremi?
+### What measures are being taken to ensure the safe and effective use of Besremi?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Besremi have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Besremi are continuously monitored. Side effects reported with Besremi are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Besremi
+### Other information about Besremi
 
 Besremi received a marketing authorisation valid throughout the EU on 15 February 2019.
 
@@ -111,7 +110,7 @@ English (EN) (77.32 KB - PDF)
 
 [View](/en/documents/overview/besremi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-878)
+[Other languages (22)](#file-language-dropdown-899)
 
 български (BG) (103.91 KB - PDF)
 
@@ -143,7 +142,7 @@ Deutsch (DE) (77.1 KB - PDF)
 
 [View](/de/documents/overview/besremi-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (74.32 KB - PDF)
+eesti (ET) (74.32 KB - PDF)
 
 **First published:** 08/05/2019
 
@@ -173,13 +172,13 @@ italiano (IT) (75.88 KB - PDF)
 
 [View](/it/documents/overview/besremi-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (99.1 KB - PDF)
+latviešu (LV) (99.1 KB - PDF)
 
 **First published:** 08/05/2019
 
 [View](/lv/documents/overview/besremi-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (98.02 KB - PDF)
+lietuvių (LT) (98.02 KB - PDF)
 
 **First published:** 08/05/2019
 
@@ -233,7 +232,7 @@ slovenščina (SL) (95.37 KB - PDF)
 
 [View](/sl/documents/overview/besremi-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (75.26 KB - PDF)
+suomi (FI) (75.26 KB - PDF)
 
 **First published:** 08/05/2019
 
@@ -247,9 +246,9 @@ svenska (SV) (75.74 KB - PDF)
 
 Besremi : EPAR - Risk management plan
 
-English (EN) (338.88 KB - PDF)
+English (EN) (312.91 KB - PDF)
 
-**First published:** 08/05/2019 **Last updated:** 21/10/2025
+**First published:** 08/05/2019 **Last updated:** 07/10/2026
 
 [View](/en/documents/rmp/besremi-epar-risk-management-plan_en.pdf)
 
@@ -263,7 +262,7 @@ English (EN) (1.3 MB - PDF)
 
 [View](/en/documents/product-information/besremi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-491)
+[Other languages (24)](#file-language-dropdown-383)
 
 български (BG) (1.68 MB - PDF)
 
@@ -295,7 +294,7 @@ Deutsch (DE) (1.07 MB - PDF)
 
 [View](/de/documents/product-information/besremi-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.08 MB - PDF)
+eesti (ET) (1.08 MB - PDF)
 
 **First published:** 25/01/2023 **Last updated:** 24/04/2026
 
@@ -319,25 +318,19 @@ hrvatski (HR) (7.63 MB - PDF)
 
 [View](/hr/documents/product-information/besremi-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.39 MB - PDF)
-
-**First published:** 25/01/2023 **Last updated:** 24/04/2026
-
-[View](/is/documents/product-information/besremi-epar-product-information_is.pdf)
-
 italiano (IT) (1.84 MB - PDF)
 
 **First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/it/documents/product-information/besremi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.85 MB - PDF)
+latviešu (LV) (1.85 MB - PDF)
 
 **First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/lv/documents/product-information/besremi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.6 MB - PDF)
+lietuvių (LT) (1.6 MB - PDF)
 
 **First published:** 25/01/2023 **Last updated:** 24/04/2026
 
@@ -360,12 +353,6 @@ Nederlands (NL) (1.68 MB - PDF)
 **First published:** 25/01/2023 **Last updated:** 24/04/2026
 
 [View](/nl/documents/product-information/besremi-epar-product-information_nl.pdf)
-
-norsk (NO) (1.67 MB - PDF)
-
-**First published:** 25/01/2023 **Last updated:** 24/04/2026
-
-[View](/no/documents/product-information/besremi-epar-product-information_no.pdf)
 
 polski (PL) (1.6 MB - PDF)
 
@@ -397,7 +384,7 @@ slovenščina (SL) (1.76 MB - PDF)
 
 [View](/sl/documents/product-information/besremi-epar-product-information_sl.pdf)
 
-Suomi (FI) (1014.86 KB - PDF)
+suomi (FI) (1014.86 KB - PDF)
 
 **First published:** 25/01/2023 **Last updated:** 24/04/2026
 
@@ -409,6 +396,18 @@ svenska (SV) (1.46 MB - PDF)
 
 [View](/sv/documents/product-information/besremi-epar-product-information_sv.pdf)
 
+Íslenska (IS) (1.39 MB - PDF)
+
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
+
+[View](/is/documents/product-information/besremi-epar-product-information_is.pdf)
+
+norsk (NO) (1.67 MB - PDF)
+
+**First published:** 25/01/2023 **Last updated:** 24/04/2026
+
+[View](/no/documents/product-information/besremi-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000334453
 
 24/04/2026
@@ -417,7 +416,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -435,7 +435,7 @@ English (EN) (62.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-523)
+[Other languages (24)](#file-language-dropdown-23)
 
 български (BG) (71.37 KB - PDF)
 
@@ -467,7 +467,7 @@ Deutsch (DE) (50.39 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (47.31 KB - PDF)
+eesti (ET) (47.31 KB - PDF)
 
 **First published:** 08/05/2019 **Last updated:** 22/02/2021
 
@@ -491,25 +491,19 @@ hrvatski (HR) (152.3 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (49.28 KB - PDF)
-
-**First published:** 08/05/2019 **Last updated:** 22/02/2021
-
-[View](/is/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (46.93 KB - PDF)
 
 **First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/it/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (64.97 KB - PDF)
+latviešu (LV) (64.97 KB - PDF)
 
 **First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/lv/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (67.16 KB - PDF)
+lietuvių (LT) (67.16 KB - PDF)
 
 **First published:** 08/05/2019 **Last updated:** 22/02/2021
 
@@ -532,12 +526,6 @@ Nederlands (NL) (48.04 KB - PDF)
 **First published:** 08/05/2019 **Last updated:** 22/02/2021
 
 [View](/nl/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (49.78 KB - PDF)
-
-**First published:** 08/05/2019 **Last updated:** 22/02/2021
-
-[View](/no/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (67.85 KB - PDF)
 
@@ -569,7 +557,7 @@ slovenščina (SL) (63.42 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (47.43 KB - PDF)
+suomi (FI) (47.43 KB - PDF)
 
 **First published:** 08/05/2019 **Last updated:** 22/02/2021
 
@@ -581,27 +569,30 @@ svenska (SV) (48.26 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (49.28 KB - PDF)
+
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
+
+[View](/is/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (49.78 KB - PDF)
+
+**First published:** 08/05/2019 **Last updated:** 22/02/2021
+
+[View](/no/documents/all-authorised-presentations/besremi-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Besremi
-
-Active substance
-
-ropeginterferon alfa-2b
-
-International non-proprietary name (INN) or common name
-
-ropeginterferon alfa-2b
-
-Therapeutic area (MeSH)
-
-Polycythemia Vera
-
-Anatomical therapeutic chemical (ATC) code
-
-L03AB15
+- **Name of medicine**
+    - Besremi
+- **Active substance**
+    - ropeginterferon alfa-2b
+- **International non-proprietary name (INN) or common name**
+    - ropeginterferon alfa-2b
+- **Therapeutic area (MeSH)**
+    - Polycythemia Vera
+- **Anatomical therapeutic chemical (ATC) code**
+    - L03AB15
 
 ### Pharmacotherapeutic group
 
@@ -613,27 +604,16 @@ Besremi is indicated as monotherapy in adults for the treatment of polycythaemia
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004128
-
-Marketing authorisation holder
-
-AOP Orphan Pharmaceuticals GmbH
-
-Leopold-Ungar-Platz 2
-
-Opinion adopted
-
-15/02/2019
-
-Marketing authorisation issued
-
-15/02/2019
-
-Revision
-
-10
+- **EMA product number**
+    - EMEA/H/C/004128
+- **Marketing authorisation holder**
+    - AOP Orphan Pharmaceuticals GmbH Leopold-Ungar-Platz 2  1190 Vienna  Austria
+- **Opinion adopted**
+    - 15/02/2019
+- **Marketing authorisation issued**
+    - 15/02/2019
+- **Revision**
+    - 11
 
 ## Assessment history
 
@@ -641,13 +621,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Besremi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (154.37 KB - PDF)
+English (EN) (166.68 KB - PDF)
 
-**First published:** 21/10/2025 **Last updated:** 24/04/2026
+**First published:** 21/10/2025 **Last updated:** 07/10/2026
 
 [View](/en/documents/procedural-steps-after/besremi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -659,7 +639,7 @@ English (EN) (141.88 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/besremi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Besremi : Orphan designation withdrawal assessment report (initial authorisation)
 
@@ -703,12 +683,8 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 Besremi was withdrawn from the Community register of orphan medicinal products in December 2018 upon request of the marketing authorisation holder at the time of the granting of a marketing authorisation.
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-24/04/2026
+07/10/2026
 
 ## Share this page

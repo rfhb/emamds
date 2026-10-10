@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-06 17:36:00
+document_datetime: 2026-10-07 14:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/thiotepa-riemser.html
 document_name: thiotepa-riemser.html
 version: success
-processing_time: 0.1129515
-conversion_datetime: 2026-08-07 13:46:54.255192
+processing_time: 0.1514986
+conversion_datetime: 2026-10-10 14:03:49.386171
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Thiotepa Riemser
 
 [RSS](/en/individual-human-medicine.xml/67419)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -106,7 +106,7 @@ English (EN) (133.5 KB - PDF)
 
 [View](/en/documents/overview/thiotepa-riemser-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-86)
+[Other languages (22)](#file-language-dropdown-308)
 
 български (BG) (190.38 KB - PDF)
 
@@ -252,167 +252,167 @@ English (EN) (130.04 KB - PDF)
 
 Thiotepa Riemser : EPAR - Product information
 
-English (EN) (416.9 KB - PDF)
+English (EN) (410.56 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/en/documents/product-information/thiotepa-riemser-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-540)
+[Other languages (24)](#file-language-dropdown-26)
 
-български (BG) (468.27 KB - PDF)
+български (BG) (460.94 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/bg/documents/product-information/thiotepa-riemser-epar-product-information_bg.pdf)
 
-español (ES) (434.44 KB - PDF)
+español (ES) (428.38 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/es/documents/product-information/thiotepa-riemser-epar-product-information_es.pdf)
 
-čeština (CS) (497.3 KB - PDF)
+čeština (CS) (491.1 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/cs/documents/product-information/thiotepa-riemser-epar-product-information_cs.pdf)
 
-dansk (DA) (413.52 KB - PDF)
+dansk (DA) (405.8 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/da/documents/product-information/thiotepa-riemser-epar-product-information_da.pdf)
 
-Deutsch (DE) (445.17 KB - PDF)
+Deutsch (DE) (445.27 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/de/documents/product-information/thiotepa-riemser-epar-product-information_de.pdf)
 
-eesti (ET) (427.73 KB - PDF)
+eesti (ET) (420.69 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/et/documents/product-information/thiotepa-riemser-epar-product-information_et.pdf)
 
-ελληνικά (EL) (732.24 KB - PDF)
+ελληνικά (EL) (640.79 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/el/documents/product-information/thiotepa-riemser-epar-product-information_el.pdf)
 
-français (FR) (469.89 KB - PDF)
+français (FR) (464.77 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/fr/documents/product-information/thiotepa-riemser-epar-product-information_fr.pdf)
 
-hrvatski (HR) (497.26 KB - PDF)
+hrvatski (HR) (490.14 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/hr/documents/product-information/thiotepa-riemser-epar-product-information_hr.pdf)
 
-italiano (IT) (444.41 KB - PDF)
+italiano (IT) (436.32 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/it/documents/product-information/thiotepa-riemser-epar-product-information_it.pdf)
 
-latviešu (LV) (511.3 KB - PDF)
+latviešu (LV) (512.52 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/lv/documents/product-information/thiotepa-riemser-epar-product-information_lv.pdf)
 
-lietuvių (LT) (501.96 KB - PDF)
+lietuvių (LT) (497.18 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/lt/documents/product-information/thiotepa-riemser-epar-product-information_lt.pdf)
 
-magyar (HU) (556.53 KB - PDF)
+magyar (HU) (525.88 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/hu/documents/product-information/thiotepa-riemser-epar-product-information_hu.pdf)
 
-Malti (MT) (523.19 KB - PDF)
+Malti (MT) (515.92 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/mt/documents/product-information/thiotepa-riemser-epar-product-information_mt.pdf)
 
-Nederlands (NL) (442.88 KB - PDF)
+Nederlands (NL) (436.47 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/nl/documents/product-information/thiotepa-riemser-epar-product-information_nl.pdf)
 
-polski (PL) (508.59 KB - PDF)
+polski (PL) (501.54 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/pl/documents/product-information/thiotepa-riemser-epar-product-information_pl.pdf)
 
-português (PT) (453.5 KB - PDF)
+português (PT) (447.13 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/pt/documents/product-information/thiotepa-riemser-epar-product-information_pt.pdf)
 
-română (RO) (504.54 KB - PDF)
+română (RO) (497.33 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/ro/documents/product-information/thiotepa-riemser-epar-product-information_ro.pdf)
 
-slovenčina (SK) (524.97 KB - PDF)
+slovenčina (SK) (519.25 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/sk/documents/product-information/thiotepa-riemser-epar-product-information_sk.pdf)
 
-slovenščina (SL) (477 KB - PDF)
+slovenščina (SL) (469.45 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/sl/documents/product-information/thiotepa-riemser-epar-product-information_sl.pdf)
 
-suomi (FI) (509.65 KB - PDF)
+suomi (FI) (473.14 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/fi/documents/product-information/thiotepa-riemser-epar-product-information_fi.pdf)
 
-svenska (SV) (428.07 KB - PDF)
+svenska (SV) (420.71 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/sv/documents/product-information/thiotepa-riemser-epar-product-information_sv.pdf)
 
-Íslenska (IS) (431.96 KB - PDF)
+Íslenska (IS) (425.53 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/is/documents/product-information/thiotepa-riemser-epar-product-information_is.pdf)
 
-norsk (NO) (461.94 KB - PDF)
+norsk (NO) (441.97 KB - PDF)
 
-**First published:** 30/04/2021 **Last updated:** 06/08/2026
+**First published:** 30/04/2021 **Last updated:** 07/10/2026
 
 [View](/no/documents/product-information/thiotepa-riemser-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** R/0000282361
+**Latest procedure affecting product information:** N/0000378804
 
-26/02/2026
+06/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -431,7 +431,7 @@ English (EN) (14.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/thiotepa-riemser-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-505)
+[Other languages (24)](#file-language-dropdown-238)
 
 български (BG) (41.02 KB - PDF)
 
@@ -620,7 +620,7 @@ Thiotepa Riemser is indicated, in combination with other chemotherapy medicinal 
 - **Marketing authorisation issued**
     - 26/03/2021
 - **Revision**
-    - 5
+    - 6
 
 ## Assessment history
 
@@ -632,9 +632,9 @@ Collapse section
 
 Thiotepa Riemser : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (142.83 KB - PDF)
+English (EN) (144.46 KB - PDF)
 
-**First published:** 06/08/2026
+**First published:** 06/08/2026 **Last updated:** 07/10/2026
 
 [View](/en/documents/procedural-steps-after/thiotepa-riemser-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -676,6 +676,6 @@ English (EN) (110.29 KB - PDF)
 
 **This page was last updated on**
 
-06/08/2026
+07/10/2026
 
 ## Share this page

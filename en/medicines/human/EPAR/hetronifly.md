@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-13 17:25:00
+document_datetime: 2026-10-08 17:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hetronifly.html
 document_name: hetronifly.html
 version: success
-processing_time: 0.1578804
-conversion_datetime: 2026-07-16 13:18:44.255671
+processing_time: 0.1824108
+conversion_datetime: 2026-10-10 13:59:11.572392
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Hetronifly
 
 [RSS](/en/individual-human-medicine.xml/249344)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -38,7 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Hetronifly](#news-on)
-- [More information on Hetronifly](#related-medicines)
+- [More information on Hetronifly](#more-information-on-hetronifly-88034)
 
 - Application under evaluation
 - CHMP opinion
@@ -146,7 +146,7 @@ English (EN) (168.87 KB - PDF)
 
 [View](/en/documents/overview/hetronifly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-808)
+[Other languages (22)](#file-language-dropdown-867)
 
 български (BG) (186.93 KB - PDF)
 
@@ -292,167 +292,167 @@ English (EN) (1.02 MB - PDF)
 
 Hetronifly : EPAR - Product information
 
-English (EN) (818.68 KB - PDF)
+English (EN) (926.94 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/en/documents/product-information/hetronifly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-166)
+[Other languages (24)](#file-language-dropdown-785)
 
-български (BG) (1014.23 KB - PDF)
+български (BG) (1.01 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/bg/documents/product-information/hetronifly-epar-product-information_bg.pdf)
 
-español (ES) (966.32 KB - PDF)
+español (ES) (1.09 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/es/documents/product-information/hetronifly-epar-product-information_es.pdf)
 
-čeština (CS) (1.01 MB - PDF)
+čeština (CS) (1.03 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/cs/documents/product-information/hetronifly-epar-product-information_cs.pdf)
 
-dansk (DA) (958.08 KB - PDF)
+dansk (DA) (1.03 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/da/documents/product-information/hetronifly-epar-product-information_da.pdf)
 
-Deutsch (DE) (630.83 KB - PDF)
+Deutsch (DE) (644.48 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/de/documents/product-information/hetronifly-epar-product-information_de.pdf)
 
-eesti (ET) (1.1 MB - PDF)
+eesti (ET) (1.15 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/et/documents/product-information/hetronifly-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1 MB - PDF)
+ελληνικά (EL) (1.03 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/el/documents/product-information/hetronifly-epar-product-information_el.pdf)
 
-français (FR) (1.02 MB - PDF)
+français (FR) (1012.24 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/fr/documents/product-information/hetronifly-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.11 MB - PDF)
+hrvatski (HR) (1.22 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/hr/documents/product-information/hetronifly-epar-product-information_hr.pdf)
 
-italiano (IT) (998 KB - PDF)
+italiano (IT) (1.06 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/it/documents/product-information/hetronifly-epar-product-information_it.pdf)
 
-latviešu (LV) (1020.79 KB - PDF)
+latviešu (LV) (1.05 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/lv/documents/product-information/hetronifly-epar-product-information_lv.pdf)
 
-lietuvių (LT) (983.91 KB - PDF)
+lietuvių (LT) (1.07 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/lt/documents/product-information/hetronifly-epar-product-information_lt.pdf)
 
-magyar (HU) (922.5 KB - PDF)
+magyar (HU) (936.15 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/hu/documents/product-information/hetronifly-epar-product-information_hu.pdf)
 
-Malti (MT) (1.02 MB - PDF)
+Malti (MT) (1.08 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/mt/documents/product-information/hetronifly-epar-product-information_mt.pdf)
 
-Nederlands (NL) (718.62 KB - PDF)
+Nederlands (NL) (1014.32 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/nl/documents/product-information/hetronifly-epar-product-information_nl.pdf)
 
-polski (PL) (1.11 MB - PDF)
+polski (PL) (1.13 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/pl/documents/product-information/hetronifly-epar-product-information_pl.pdf)
 
-português (PT) (974.01 KB - PDF)
+português (PT) (1.01 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/pt/documents/product-information/hetronifly-epar-product-information_pt.pdf)
 
-română (RO) (916.86 KB - PDF)
+română (RO) (978.51 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/ro/documents/product-information/hetronifly-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1000.36 KB - PDF)
+slovenčina (SK) (1.04 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/sk/documents/product-information/hetronifly-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.06 MB - PDF)
+slovenščina (SL) (1.07 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/sl/documents/product-information/hetronifly-epar-product-information_sl.pdf)
 
-suomi (FI) (930.08 KB - PDF)
+suomi (FI) (1004.05 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/fi/documents/product-information/hetronifly-epar-product-information_fi.pdf)
 
-svenska (SV) (1.04 MB - PDF)
+svenska (SV) (961.08 KB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/sv/documents/product-information/hetronifly-epar-product-information_sv.pdf)
 
-Íslenska (IS) (972.15 KB - PDF)
+Íslenska (IS) (1.02 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/is/documents/product-information/hetronifly-epar-product-information_is.pdf)
 
-norsk (NO) (1011.09 KB - PDF)
+norsk (NO) (1.05 MB - PDF)
 
-**First published:** 11/02/2025 **Last updated:** 01/07/2026
+**First published:** 11/02/2025 **Last updated:** 08/10/2026
 
 [View](/no/documents/product-information/hetronifly-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000290021
+**Latest procedure affecting product information:** N/0000379488
 
-19/06/2026
+08/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -471,7 +471,7 @@ English (EN) (52.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hetronifly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-274)
+[Other languages (24)](#file-language-dropdown-71)
 
 български (BG) (60.53 KB - PDF)
 
@@ -666,7 +666,7 @@ Hetronifly in combination with fluoropyrimidine- and platinum-based chemotherapy
 - **Marketing authorisation issued**
     - 03/02/2025
 - **Revision**
-    - 6
+    - 7
 
 ## Assessment history
 
@@ -678,9 +678,9 @@ Collapse section
 
 Hetronifly : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (190.92 KB - PDF)
+English (EN) (191.76 KB - PDF)
 
-**First published:** 03/04/2025 **Last updated:** 01/07/2026
+**First published:** 03/04/2025 **Last updated:** 08/10/2026
 
 [View](/en/documents/procedural-steps-after/hetronifly-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -792,10 +792,10 @@ English (EN) (112.62 KB - PDF)
 
 ## More information on Hetronifly
 
-- [EU/3/22/2731 - orphan designation for treatment of small cell lung cancer](/en/medicines/human/orphan-designations/eu-3-22-2731)
+This product is no longer an orphan medicine. It was originally [designated an orphan medicine](https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ema.europa.eu%2Fen%2Fmedicines%2Fhuman%2Forphan-designations%2Feu-3-22-2731&data=05%7C02%7CCinzia.NDiamoi%40ema.europa.eu%7Cd826e256500a48a0db8708def156a445%7Cbc9dc15c61bc4f03b60be5b6d8922839%7C0%7C0%7C639213551576487483%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=iZeNoDyly3srIJUqdfL9JNE0%2BTnGML0I5h2RgKnbY3U%3D&reserved=0) on 9 December 2022. Hetronifly was withdrawn from the Community register of orphan medicinal products in April 2026 upon request of the marketing authorisation holder at the time of change to the terms of the marketing authorisation.
 
 **This page was last updated on**
 
-13/07/2026
+08/10/2026
 
 ## Share this page

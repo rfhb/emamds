@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-25 14:00:00
+document_datetime: 2026-10-07 16:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zinmyleo.html
 document_name: zinmyleo.html
 version: success
-processing_time: 0.0674561
-conversion_datetime: 2026-09-02 22:34:26.964569
+processing_time: 0.0933419
+conversion_datetime: 2026-10-10 14:04:04.730928
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling-serve: 1.36.0
+  docling-jobkit: 3.8.1
+  docling: 2.137.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Zinmyleo
 
 [RSS](/en/individual-human-medicine.xml/284211)
 
-Application withdrawn
+## Application withdrawn
 
 The application for this medicine has been withdrawn
 
@@ -36,6 +36,7 @@ Page contents
 - [Key facts](#key-facts)
 - [All documents](#all-documents)
 - [Related information on withdrawals](#related-info-withdrawn)
+- [News on Zinmyleo](#news-on)
 
 - Application under evaluation
 - Withdrawal of application
@@ -94,9 +95,143 @@ Reference Number: EMADOC-628903358-142734
 
 English (EN) (208.55 KB - PDF)
 
-**First published:** 25/08/2026
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
 
 [View](/en/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_en.pdf)
+
+[Other languages (22)](#file-language-dropdown-614)
+
+български (BG) (145.21 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/bg/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_bg.pdf)
+
+español (ES) (117.49 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/es/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_es.pdf)
+
+čeština (CS) (142.53 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/cs/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_cs.pdf)
+
+dansk (DA) (118.24 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/da/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_da.pdf)
+
+Deutsch (DE) (121.43 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/de/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_de.pdf)
+
+eesti (ET) (116.13 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/et/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_et.pdf)
+
+ελληνικά (EL) (146.02 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/el/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_el.pdf)
+
+français (FR) (117.84 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/fr/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_fr.pdf)
+
+hrvatski (HR) (136.74 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/hr/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_hr.pdf)
+
+italiano (IT) (116.74 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/it/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_it.pdf)
+
+latviešu (LV) (156.34 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/lv/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_lv.pdf)
+
+lietuvių (LT) (137.1 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/lt/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_lt.pdf)
+
+magyar (HU) (138.52 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/hu/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_hu.pdf)
+
+Malti (MT) (148.3 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/mt/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_mt.pdf)
+
+Nederlands (NL) (118.47 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/nl/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_nl.pdf)
+
+polski (PL) (149.48 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/pl/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_pl.pdf)
+
+português (PT) (117.89 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/pt/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_pt.pdf)
+
+română (RO) (135.32 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/ro/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_ro.pdf)
+
+slovenčina (SK) (137.56 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/sk/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_sk.pdf)
+
+slovenščina (SL) (135.09 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/sl/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_sl.pdf)
+
+suomi (FI) (115.74 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/fi/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_fi.pdf)
+
+svenska (SV) (117.54 KB - PDF)
+
+**First published:** 25/08/2026 **Last updated:** 07/10/2026
+
+[View](/sv/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-zinmyleo-trilaciclib_sv.pdf)
 
 ## Key facts
 
@@ -127,14 +262,30 @@ English (EN) (102.6 KB - PDF)
 
 [View](/en/documents/withdrawal-letter/withdrawal-letter-zinmyleo_en.pdf)
 
+Zinmyleo : EPAR - Withdrawal assessment report
+
+Adopted Reference Number: EMADOC-1829012207-53468
+
+English (EN) (4.4 MB - PDF)
+
+**First published:** 07/10/2026
+
+[View](/en/documents/withdrawal-report/zinmyleo-epar-withdrawal-assessment-report_en.pdf)
+
 ## Related information on withdrawals
 
 A question-and-answer (Q&amp;A) document provides a summary of the CHMP's evaluation of the medicine at the time of the withdrawal of the application, and includes a link to the company's formal withdrawal letter.
 
 An assessment report is published when the application is withdrawn after the first stage of the CHMP's evaluation is completed ('day 120').
 
+## News on Zinmyleo
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 September 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-september-2026)
+
+18/09/2026
+
 **This page was last updated on**
 
-25/08/2026
+07/10/2026
 
 ## Share this page

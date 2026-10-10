@@ -1,11 +1,11 @@
 ---
-document_datetime: 2026-10-06 17:30:00
+document_datetime: 2026-10-07 16:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cibinqo.html
 document_name: cibinqo.html
 version: success
-processing_time: 0.2128975
-conversion_datetime: 2026-10-09 18:50:21.669232
+processing_time: 0.2124081
+conversion_datetime: 2026-10-10 13:58:26.229218
 docling_version:
   docling-serve: 1.36.0
   docling-jobkit: 3.8.1
@@ -118,7 +118,7 @@ English (EN) (116.53 KB - PDF)
 
 [View](/en/documents/overview/cibinqo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-459)
+[Other languages (22)](#file-language-dropdown-631)
 
 български (BG) (150.96 KB - PDF)
 
@@ -270,7 +270,7 @@ English (EN) (653.28 KB - PDF)
 
 [View](/en/documents/product-information/cibinqo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-168)
+[Other languages (24)](#file-language-dropdown-256)
 
 български (BG) (733.33 KB - PDF)
 
@@ -443,7 +443,7 @@ English (EN) (38.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cibinqo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-196)
+[Other languages (24)](#file-language-dropdown-456)
 
 български (BG) (36.48 KB - PDF)
 
@@ -621,7 +621,7 @@ Cibinqo is indicated for the treatment of moderate-to-severe atopic dermatitis i
 - **Marketing authorisation issued**
     - 09/12/2021
 - **Revision**
-    - 19
+    - 20
 
 ## Assessment history
 
@@ -646,6 +646,16 @@ English (EN) (177.08 KB - PDF)
 **First published:** 23/08/2022 **Last updated:** 08/07/2025
 
 [View](/en/documents/procedural-steps-after/cibinqo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Cibinqo-PAM-0000360826 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3488879
+
+English (EN) (415.13 KB - PDF)
+
+**First published:** 07/10/2026
+
+[View](/en/documents/variation-report/cibinqo-pam-0000360826-epar-assessment-report_en.pdf)
 
 Cibinqo-PAM-0000360835 : EPAR - Assessment report
 
@@ -763,7 +773,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/cibinqo-epar-scientific-conclusions-article-20-referral-annex-iv_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-561)
+[Other languages (24)](#file-language-dropdown-412)
 
 български (BG) (203.66 KB - PDF)
 
@@ -963,6 +973,6 @@ English (EN) (126.14 KB - PDF)
 
 **This page was last updated on**
 
-06/10/2026
+07/10/2026
 
 ## Share this page

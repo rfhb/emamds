@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-03-26 14:28:00
+document_datetime: 2026-10-12 16:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lazcluze.html
 document_name: lazcluze.html
 version: success
-processing_time: 0.105352
-conversion_datetime: 2026-03-29 12:35:59.780591
+processing_time: 0.1656423
+conversion_datetime: 2026-10-15 20:02:31.139308
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.139.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Lazcluze
 
 [RSS](/en/individual-human-medicine.xml/251854)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -53,7 +53,7 @@ Expand section
 
 Collapse section
 
-## How is Lazcluze used?
+### How is Lazcluze used?
 
 The medicine can only be obtained with a prescription. Treatment with Lazcluze should be started by a doctor who is experienced in using cancer medicines. Before starting treatment, patients must be tested to confirm that the tumour cells have certain changes to the EGFR gene.
 
@@ -63,17 +63,17 @@ At the initiation of treatment, patients should be given anticoagulants (substan
 
 For more information about using Lazcluze, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Lazcluze work?
+### How does Lazcluze work?
 
 The active substance in Lazcluze, lazertinib, is a type of cancer medicine called a tyrosine kinase inhibitor. It blocks the activity of EGFR, a protein which normally controls the growth and division of cells. In lung cancer cells, EGFR is often overactive, causing uncontrolled growth of cancer cells. By blocking EGFR, lazertinib helps to reduce the growth and spread of the cancer. Lazertinib primarily targets the mutated EGFR and has less effect on normal EGFR, therefore minimising undesirable effects caused by blocking normal EGFR.
 
-## What benefits of Lazcluze have been shown in studies?
+### What benefits of Lazcluze have been shown in studies?
 
 Lazcluze was investigated in a main study involving 1,074 patients with advanced NSCLC with EGFR gene exon 19 deletion or exon 21 L858R substitution mutation who had not been treated before.
 
 Patients in the study either took Lazcluze plus amivantamab, Lazcluze alone or osimertinib (another medicine targeting mutated EGFR) alone. Those given Lazcluze plus amivantamab lived 23.7 months without their disease getting worse compared with 16.6 months for patients given osimertinib alone.
 
-## What are the risks associated with Lazcluze?
+### What are the risks associated with Lazcluze?
 
 For the full list of side effects and restrictions with Lazcluze, see the package leaflet.
 
@@ -81,7 +81,7 @@ The most common side effects with Lazcluze combined with amivantamab (which may 
 
 The most common serious side effects with Lazcluze combined with amivantamab (which may affect more than 1 in 10 people) is venous thromboembolism. Other serious side effects (which may affect up to 1 in 10 people) include pneumonia (infection of the lungs), rash, interstitial lung disease (disorders causing scarring in the lungs), pneumonitis (inflammation of the lungs), COVID-19, hepatotoxicity, pleural effusion (fluid around the lungs), infusion-related reaction, respiratory failure (inability of the lungs to work properly), tiredness, oedema, hypoalbuminaemia and hyponatraemia (low blood sodium levels).
 
-## Why is Lazcluze authorised in the EU?
+### Why is Lazcluze authorised in the EU?
 
 Treatment with Lazcluze and amivantamab was shown to prolong the time patients with NSCLC with EGFR gene mutations live without their disease getting worse. To confirm the effectiveness of the combination treatment, the company marketing Lazcluze will submit further results of the main study, including the time patients lived overall.
 
@@ -89,13 +89,13 @@ Regarding safety, there is a risk of venous thromboembolism with Lazcluze and am
 
 The European Medicines Agency therefore decided that Lazcluze's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Lazcluze?
+### What measures are being taken to ensure the safe and effective use of Lazcluze?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Lazcluze have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Lazcluze are continuously monitored. Suspected side effects reported with Lazcluze are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Lazcluze
+### Other information about Lazcluze
 
 Lazcluze received a marketing authorisation valid throughout the EU on 20 January 2025.
 
@@ -109,7 +109,7 @@ English (EN) (122.77 KB - PDF)
 
 [View](/en/documents/overview/lazcluze-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-872)
+[Other languages (22)](#file-language-dropdown-26)
 
 български (BG) (146.27 KB - PDF)
 
@@ -141,7 +141,7 @@ Deutsch (DE) (124.09 KB - PDF)
 
 [View](/de/documents/overview/lazcluze-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (119.52 KB - PDF)
+eesti (ET) (119.52 KB - PDF)
 
 **First published:** 17/03/2025
 
@@ -171,13 +171,13 @@ italiano (IT) (120.83 KB - PDF)
 
 [View](/it/documents/overview/lazcluze-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (153.49 KB - PDF)
+latviešu (LV) (153.49 KB - PDF)
 
 **First published:** 17/03/2025
 
 [View](/lv/documents/overview/lazcluze-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (144.17 KB - PDF)
+lietuvių (LT) (144.17 KB - PDF)
 
 **First published:** 17/03/2025
 
@@ -231,7 +231,7 @@ slovenščina (SL) (142.47 KB - PDF)
 
 [View](/sl/documents/overview/lazcluze-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (119.43 KB - PDF)
+suomi (FI) (119.43 KB - PDF)
 
 **First published:** 17/03/2025
 
@@ -255,167 +255,168 @@ English (EN) (376.94 KB - PDF)
 
 Lazcluze : EPAR - Product information
 
-English (EN) (730.85 KB - PDF)
+English (EN) (733.44 KB - PDF)
 
-**First published:** 17/03/2025 **Last updated:** 26/03/2026
+**First published:** 17/03/2025 **Last updated:** 12/10/2026
 
 [View](/en/documents/product-information/lazcluze-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-42)
+[Other languages (24)](#file-language-dropdown-179)
 
-български (BG) (525.6 KB - PDF)
+български (BG) (530.3 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/bg/documents/product-information/lazcluze-epar-product-information_bg.pdf)
 
-español (ES) (588.08 KB - PDF)
+español (ES) (591.63 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/es/documents/product-information/lazcluze-epar-product-information_es.pdf)
 
-čeština (CS) (785.98 KB - PDF)
+čeština (CS) (792.39 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/cs/documents/product-information/lazcluze-epar-product-information_cs.pdf)
 
-dansk (DA) (576.95 KB - PDF)
+dansk (DA) (581.78 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/da/documents/product-information/lazcluze-epar-product-information_da.pdf)
 
-Deutsch (DE) (638.57 KB - PDF)
+Deutsch (DE) (642.8 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/de/documents/product-information/lazcluze-epar-product-information_de.pdf)
 
-eesti keel (ET) (604.08 KB - PDF)
+eesti (ET) (607.62 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/et/documents/product-information/lazcluze-epar-product-information_et.pdf)
 
-ελληνικά (EL) (730.28 KB - PDF)
+ελληνικά (EL) (735.24 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/el/documents/product-information/lazcluze-epar-product-information_el.pdf)
 
-français (FR) (558.18 KB - PDF)
+français (FR) (561.31 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/fr/documents/product-information/lazcluze-epar-product-information_fr.pdf)
 
-hrvatski (HR) (715.13 KB - PDF)
+hrvatski (HR) (719.82 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/hr/documents/product-information/lazcluze-epar-product-information_hr.pdf)
 
-íslenska (IS) (658.86 KB - PDF)
-
-**First published:** 17/03/2025 **Last updated:** 26/03/2026
-
-[View](/is/documents/product-information/lazcluze-epar-product-information_is.pdf)
-
-italiano (IT) (684.21 KB - PDF)
+italiano (IT) (732.7 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/it/documents/product-information/lazcluze-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (743.43 KB - PDF)
+latviešu (LV) (747.74 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/lv/documents/product-information/lazcluze-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (844.16 KB - PDF)
+lietuvių (LT) (849.15 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/lt/documents/product-information/lazcluze-epar-product-information_lt.pdf)
 
-magyar (HU) (699.48 KB - PDF)
+magyar (HU) (702.62 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/hu/documents/product-information/lazcluze-epar-product-information_hu.pdf)
 
-Malti (MT) (686.35 KB - PDF)
+Malti (MT) (693.45 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/mt/documents/product-information/lazcluze-epar-product-information_mt.pdf)
 
-Nederlands (NL) (741.41 KB - PDF)
+Nederlands (NL) (745.54 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/nl/documents/product-information/lazcluze-epar-product-information_nl.pdf)
 
-norsk (NO) (743.8 KB - PDF)
-
-**First published:** 17/03/2025 **Last updated:** 26/03/2026
-
-[View](/no/documents/product-information/lazcluze-epar-product-information_no.pdf)
-
-polski (PL) (666.4 KB - PDF)
+polski (PL) (669.96 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/pl/documents/product-information/lazcluze-epar-product-information_pl.pdf)
 
-português (PT) (749.28 KB - PDF)
+português (PT) (753.11 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/pt/documents/product-information/lazcluze-epar-product-information_pt.pdf)
 
-română (RO) (653.69 KB - PDF)
+română (RO) (655.09 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/ro/documents/product-information/lazcluze-epar-product-information_ro.pdf)
 
-slovenčina (SK) (766.63 KB - PDF)
+slovenčina (SK) (770.72 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/sk/documents/product-information/lazcluze-epar-product-information_sk.pdf)
 
-slovenščina (SL) (782.23 KB - PDF)
+slovenščina (SL) (786.99 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/sl/documents/product-information/lazcluze-epar-product-information_sl.pdf)
 
-Suomi (FI) (741.75 KB - PDF)
+suomi (FI) (744.9 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/fi/documents/product-information/lazcluze-epar-product-information_fi.pdf)
 
-svenska (SV) (648.61 KB - PDF)
+svenska (SV) (652.78 KB - PDF)
 
 **First published:** 17/03/2025 **Last updated:** 26/03/2026
 
 [View](/sv/documents/product-information/lazcluze-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000315717
+Íslenska (IS) (662.27 KB - PDF)
 
-12/02/2026
+**First published:** 17/03/2025 **Last updated:** 26/03/2026
+
+[View](/is/documents/product-information/lazcluze-epar-product-information_is.pdf)
+
+norsk (NO) (747.75 KB - PDF)
+
+**First published:** 17/03/2025 **Last updated:** 26/03/2026
+
+[View](/no/documents/product-information/lazcluze-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000357738
+
+10/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -433,7 +434,7 @@ English (EN) (30.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lazcluze-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-122)
+[Other languages (24)](#file-language-dropdown-191)
 
 български (BG) (33.5 KB - PDF)
 
@@ -465,7 +466,7 @@ Deutsch (DE) (31.74 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/lazcluze-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (31.81 KB - PDF)
+eesti (ET) (31.81 KB - PDF)
 
 **First published:** 17/03/2025
 
@@ -489,25 +490,19 @@ hrvatski (HR) (29.97 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/lazcluze-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (31.47 KB - PDF)
-
-**First published:** 17/03/2025
-
-[View](/is/documents/all-authorised-presentations/lazcluze-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (30.83 KB - PDF)
 
 **First published:** 17/03/2025
 
 [View](/it/documents/all-authorised-presentations/lazcluze-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (31.81 KB - PDF)
+latviešu (LV) (31.81 KB - PDF)
 
 **First published:** 17/03/2025
 
 [View](/lv/documents/all-authorised-presentations/lazcluze-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (31.95 KB - PDF)
+lietuvių (LT) (31.95 KB - PDF)
 
 **First published:** 17/03/2025
 
@@ -530,12 +525,6 @@ Nederlands (NL) (31.77 KB - PDF)
 **First published:** 17/03/2025
 
 [View](/nl/documents/all-authorised-presentations/lazcluze-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (31.35 KB - PDF)
-
-**First published:** 17/03/2025
-
-[View](/no/documents/all-authorised-presentations/lazcluze-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (31.83 KB - PDF)
 
@@ -567,7 +556,7 @@ slovenščina (SL) (30.83 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/lazcluze-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (30.99 KB - PDF)
+suomi (FI) (30.99 KB - PDF)
 
 **First published:** 17/03/2025
 
@@ -579,27 +568,30 @@ svenska (SV) (30.61 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/lazcluze-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (31.47 KB - PDF)
+
+**First published:** 17/03/2025
+
+[View](/is/documents/all-authorised-presentations/lazcluze-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (31.35 KB - PDF)
+
+**First published:** 17/03/2025
+
+[View](/no/documents/all-authorised-presentations/lazcluze-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Lazcluze
-
-Active substance
-
-lazertinib mesilate monohydrate
-
-International non-proprietary name (INN) or common name
-
-lazertinib
-
-Therapeutic area (MeSH)
-
-Carcinoma, Non-Small-Cell Lung
-
-Anatomical therapeutic chemical (ATC) code
-
-L01EB09
+- **Name of medicine**
+    - Lazcluze
+- **Active substance**
+    - lazertinib mesilate monohydrate
+- **International non-proprietary name (INN) or common name**
+    - lazertinib
+- **Therapeutic area (MeSH)**
+    - Carcinoma, Non-Small-Cell Lung
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01EB09
 
 ### Pharmacotherapeutic group
 
@@ -611,31 +603,20 @@ Lazcluze in combination with amivantamab is indicated for the first line treatme
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006074
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Janssen Cilag International NV
-
-Turnhoutseweg 30
-
-Opinion adopted
-
-14/11/2024
-
-Marketing authorisation issued
-
-20/01/2025
-
-Revision
-
-3
+- **EMA product number**
+    - EMEA/H/C/006074
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Janssen Cilag International NV Turnhoutseweg 30  
+B 2340 Beerse  
+Belgium
+- **Opinion adopted**
+    - 14/11/2024
+- **Marketing authorisation issued**
+    - 20/01/2025
+- **Revision**
+    - 4
 
 ## Assessment history
 
@@ -643,17 +624,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Lazcluze : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (160.71 KB - PDF)
+English (EN) (174.29 KB - PDF)
 
-**First published:** 18/07/2025 **Last updated:** 26/03/2026
+**First published:** 18/07/2025 **Last updated:** 12/10/2026
 
 [View](/en/documents/procedural-steps-after/lazcluze-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Lazcluze : EPAR - Public assessment report
 
@@ -683,6 +664,6 @@ English (EN) (164.72 KB - PDF)
 
 **This page was last updated on**
 
-26/03/2026
+12/10/2026
 
 ## Share this page

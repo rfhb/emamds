@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-06 12:28:08
-document_pages: 59
+document_datetime: 2026-10-12 12:09:38
+document_pages: 64
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/altuvoct-epar-product-information_en.pdf
 document_name: altuvoct-epar-product-information_en.pdf
 version: success
-processing_time: 13.836282
-conversion_datetime: 2026-07-10 22:59:28.484487
+processing_time: 29.6568657
+conversion_datetime: 2026-10-15 19:56:19.234675
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.111.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.139.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,13 +28,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ALTUVOCT 250 IU powder and solvent for solution for injection
-
-ALTUVOCT 500 IU powder and solvent for solution for injection
-
-ALTUVOCT 750 IU powder and solvent for solution for injection
-
-ALTUVOCT 1 000 IU powder and solvent for solution for injection
+ALTUVOCT 250 IU powder and solvent for solution for injection ALTUVOCT 500 IU powder and solvent for solution for injection ALTUVOCT 750 IU powder and solvent for solution for injection ALTUVOCT 1 000 IU powder and solvent for solution for injection
 
 ALTUVOCT 2 000 IU powder and solvent for solution for injection
 
@@ -80,15 +74,23 @@ Efanesoctocog alfa [human coagulation factor VIII (rDNA)] is a protein that has 
 
 Efanesoctocog alfa is produced by recombinant DNA technology in a human embryonic kidney (HEK) cell line. No raw materials of human or animal origin are used in the manufacturing process.
 
+## Excipient(s) with known effect
+
+This medicinal product contains 1.50 mg of polysorbate 80 in each vial (after reconstitution), which is equivalent to 0.50 mg/ml.
+
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
 Powder and solvent for solution for injection.
 
-Powder: lyophilized, white to off-white powder or cake Solvent: clear, colourless solution
+Powder: lyophilized, white to off-white powder or cake
 
-pH: 6.5 to 7.2 Osmolality: 586 to 688 mOsm/kg
+Solvent: clear, colourless solution
+
+pH: 6.5 to 7.2
+
+Osmolality: 586 to 688 mOsm/kg
 
 ## 4. CLINICAL PARTICULARS
 
@@ -110,9 +112,9 @@ Individual patients may vary in their response to factor VIII, demonstrating dif
 
 When using an in vitro thromboplastin-time (aPTT)-based one-stage clotting assay for determining factor VIII activity in patients' blood samples, plasma factor VIII activity results can be significantly affected by both the type of aPTT reagent and the reference standard used in the assay. Also there can be significant discrepancies between assay results obtained by aPTT-based one-stage clotting assay and the chromogenic assay according to Ph. Eur. This is of importance particularly when changing the laboratory and/or reagents used in the assay.
 
-It is recommended to use a validated one-stage clotting assay to determine plasma factor VIII activity of ALTUVOCT. Throughout the clinical development an Actin-FSL-based one-stage clotting assay was used.
-
 <div style=\"page-break-after: always\"></div>
+
+It is recommended to use a validated one-stage clotting assay to determine plasma factor VIII activity of ALTUVOCT. Throughout the clinical development an Actin-FSL-based one-stage clotting assay was used.
 
 According to the findings of a comparative analysis of clinical study samples, results obtained using a chromogenic assay should be divided by 2.5 to approximate the patient's factor VIII activity (see section 4.4). In addition, a field study comparing different aPTT reagents indicated approximately 2.5-fold higher factor VIII activity levels when using Actin-FS instead of Actin-FSL in the one-stage clotting assay and approximately 30% lower results when using SynthASil.
 
@@ -140,12 +142,12 @@ Table 1: Guide to ALTUVOCT dosing for treatment of bleeding episodes and surgery
 | Early haemarthrosis, muscle bleeding or oral bleeding      | Single dose of 50 IU/kg | For minor and moderate bleeding episodes occurring within 2 to 3 days after a prophylactic dose, a lower dose of 30 IU/kg dose may be used. An additional dose of 30 or 50 IU/kg after 2 to 3 days may be considered. |
 | More extensive haemarthrosis, muscle bleeding or haematoma | Single dose of 50 IU/kg | Additional doses of 30 or 50 IU/kg every 2 to 3 days may be considered until bleeding is resolved.                                                                                                                    |
 | Life threatening haemorrhages                              | Single dose of 50 IU/kg | Additional doses of 30 or 50 IU/kg every 2 to 3 days may be administered until the threat is resolved.                                                                                                                |
-| Surgery Minor surgery including tooth extraction           | Single dose of 50 IU/kg | An additional dose of 30 or 50 IU/kg after 2 to 3 days may be considered.                                                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
 | Degree of haemorrhage/ Type of surgical procedure   | Recommended dose        | Additional information                                                                                                                  |
 |-----------------------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Surgery Minor surgery including tooth extraction    | Single dose of 50 IU/kg | An additional dose of 30 or 50 IU/kg after 2 to 3 days may be considered.                                                               |
 | Major surgery                                       | Single dose of 50 IU/kg | Additional doses of 30 or 50 IU/kg every 2 to 3 days may be administered as clinically needed until adequate wound healing is achieved. |
 
 For resumption of prophylaxis (if applicable) after treatment of a bleed, it is recommended to allow an interval of at least 72 hours between the last 50 IU/kg dose for treatment of a bleed and resuming prophylaxis dosing. Thereafter, prophylaxis can be continued as usual on the patient's regular dosing schedule.
@@ -166,7 +168,7 @@ The dosing recommendations are the same as for adults.
 
 ## Method of administration
 
-## Intravenous use.
+Intravenous use.
 
 The entire ALTUVOCT dose should be injected intravenously over 1 to 10 minutes, based on the patient's comfort level.
 
@@ -182,11 +184,11 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hypersensitivity
 
 Allergic type hypersensitivity reactions, including anaphylactic reactions have been observed with ALTUVOCT. If symptoms of hypersensitivity occur, patients should be advised to discontinue use of the medicinal product immediately and contact their physician. Patients should be informed of the early signs of hypersensitivity reactions including hives, generalised urticaria, itching, nausea, vomiting, tightness of the chest, wheezing, hypotension, and anaphylaxis.
-
-<div style=\"page-break-after: always\"></div>
 
 In case of shock, standard medical treatment for shock should be implemented.
 
@@ -214,6 +216,12 @@ If a central venous access device (CVAD) is required, risk of CVAD-related compl
 
 The listed warnings and precautions apply both to adults and children.
 
+## Polysorbate 80
+
+This medicinal product contains 1.50 mg of polysorbate 80 in each vial (after reconstitution), which is equivalent to 0.50 mg/ml. Polysorbates may cause allergic reactions.
+
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interactions of human coagulation factor VIII (rDNA) products with other medicinal products have been reported.
@@ -223,8 +231,6 @@ No interaction studies have been performed.
 ## 4.6 Fertility, pregnancy and lactation
 
 Animal reproduction studies have not been conducted with factor VIII. Based on the rare occurrence of haemophilia A in women, experience regarding the use of factor VIII during pregnancy and breast-feeding is not available. Therefore, factor VIII should be used during pregnancy and lactation only if clearly indicated.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -248,6 +254,8 @@ Frequencies have been evaluated according to the following convention: very comm
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 2: Adverse reactions reported for ALTUVOCT
 
 | MedDRA system organ class                            | Adverse reactions                          | Frequency category                     |
@@ -265,20 +273,6 @@ Table 2: Adverse reactions reported for ALTUVOCT
 | General disorders and administration site conditions | Pyrexia                                    | Common                                 |
 | General disorders and administration site conditions | Injection site reaction 7                  | Uncommon                               |
 
-<div style=\"page-break-after: always\"></div>
-
-2 PUPs = Previously-Untreated Patients. Frequency is based on studies with other Factor VIII products which included PUPs with severe haemophilia A.
-
-3 PTPs = Previously-Treated Patients. Frequency is based on studies with all Factor VIII products which included PTPs with severe haemophilia A.
-
-4 Headache, including migraine.
-
-5 Rash, including rash maculo papular.
-
-6 Urticaria, including urticaria papular.
-
-7 Injection site reaction, including injection site haematoma and injection site dermatitis.
-
 ## Paediatric population
 
 No age-specific differences in adverse reactions were observed between paediatric and adult patients.
@@ -290,6 +284,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 ## 4.9 Overdose
 
 No symptoms of overdose with human coagulation factor VIII (rDNA) have been reported.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -307,9 +303,7 @@ ALTUVOCT (efanesoctocog alfa) or recombinant coagulation Factor VIII Fc-Von Will
 
 Efanesoctocog alfa is a FVIII protein that is designed not to bind endogenous VWF in order to overcome the half-life limit imposed by FVIII-VWF interactions. The D'D3 domain of VWF is the region that interacts with FVIII. Appending the D'D3 domain of VWF to a rFVIII-Fc fusion protein provides protection and stability to FVIII and prevents FVIII interaction with endogenous VWF, thus overcoming the limitation on FVIII half-life imposed by VWF clearance.
 
-<div style=\"page-break-after: always\"></div>
-
-The Fc region of human immunoglobulin G1 (IgG1) binds to the neonatal Fc receptor (FcRn). FcRn is part of a naturally occurring pathway that delays lysosomal degradation of immunoglobulins by recycling them back into circulation and thus prolonging the plasma half-life of the fusion protein. Efanesoctocog alfa contains 2 XTEN polypeptides, which further increase its pharmacokinetics (PK). The natural FVIII B domain (except 5 amino acids) is replaced with the first XTEN polypeptide, inserted in between FVIII N745 and E1649 amino acid residues; and the second XTEN is inserted in between the D'D3 domain and Fc.
+The Fc region of human immunoglobulin G1 (IgG1) binds to the neonatal Fc receptor (FcRn). FcRn is part of a naturally occurring pathway that delays lysosomal degradation of immunoglobulins by recycling them back into circulation and thus prolonging the plasma half-life of the fusion protein. Efanesoctocog alfa contains 2 XTEN polypeptides, which further increase its pharmacokinetics (PK). The natural FVIII B domain (except 5 amino acids) is replaced with the first XTEN polypeptide, inserted in between FVIII N745 and E1649 amino acid residues; and the second XTEN is inserted in between the D'D3 domain and Fc.
 
 ## Clinical efficacy and safety
 
@@ -317,19 +311,19 @@ The safety, efficacy, and pharmacokinetics of ALTUVOCT have been evaluated in tw
 
 All studies evaluated the efficacy of routine prophylaxis with a weekly dose of 50 IU/kg and determined haemostatic efficacy in the treatment of bleeding episodes and during perioperative management in subjects undergoing major or minor surgical procedures. Furthermore, the efficacy of ALTUVOCT prophylaxis compared with previous prophylactic factor VIII was also evaluated in an intra-subject comparison in subjects who had participated in a prospective observational study (OBS16221) prior to enrolment in the XTEND-1 study.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Clinical efficacy during routine prophylaxis in adults/adolescents
 
 The completed adult and adolescent study (XTEND-1) enrolled a total of 159 PTPs (158 male and 1 female subjects) with severe haemophilia A. Subjects were aged 12 to 72 years and included 25 adolescent subjects aged 12 to 17 years. All 159 enrolled subjects received at least one dose of ALTUVOCT and were evaluable for efficacy. A total of 149 subjects (93.7%) completed the study.
 
 The efficacy of weekly 50 IU/kg ALTUVOCT as routine prophylaxis was evaluated as estimated by the mean annualized bleeding rate (ABR) (Table 3) and by comparing the ABR during on-study prophylaxis vs. the ABR during pre-study factor VIII prophylaxis (Table 4). A total of 133 adults and adolescents, who had been receiving factor VIII prophylaxis prior to study enrolment, were assigned to receive ALTUVOCT for routine prophylaxis at a dose of 50 IU/kg once weekly (QW) for 52 weeks (Arm A). An additional 26 subjects, who were on pre-study episodic (on-demand) treatment with factor VIII, received episodic (on-demand) treatment with ALTUVOCT at doses of 50 IU/kg for 26 weeks, followed by routine prophylaxis at a dose of 50 IU/kg once weekly for 26 weeks (Arm B). Overall, 115 subjects received at least a total number of 50 exposure days in Arm A and 17 subjects completed at least 25 exposure days of routine prophylaxis in Arm B.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 3: Summary of Annualized bleeding rate (ABR) with ALTUVOCT prophylaxis, ALTUVOCT on-demand treatment, and after switch to ALTUVOCT prophylaxis in subjects ≥ 12 years of age
 
 | Endpoint 1                   | Arm A Prophylaxis 2   | Arm B On demand 3    | Arm B Prophylaxis 3   |
 |------------------------------|-----------------------|----------------------|-----------------------|
-| Bleeds                       |                       |                      |                       |
+| Bleeds                       | N = 133               | N = 26               | N = 26                |
 | Mean ABR (95% CI) 4          | 0.71 (0.52; 0.97)     | 21.41 (18.81; 24.37) | 0.70 (0.33; 1.49)     |
 | Median ABR (IQR)             | 0.00 (0.00; 1.04)     | 21.13 (15.12; 27.13) | 0.00 (0.00; 0.00)     |
 | Subjects with zero bleeds, % | 64.7                  | 0                    | 76.9                  |
@@ -342,7 +336,11 @@ Table 3: Summary of Annualized bleeding rate (ABR) with ALTUVOCT prophylaxis, AL
 | Median ABR (IQR)             | 0.00 (0.00; 1.02)     | 18.42 (10.80; 23.90) | 0.00 (0.00; 0.00)     |
 | Subjects with zero bleeds, % | 72.2                  | 0                    | 80.8                  |
 
+ABR = annualized bleed rate; CI = confidence interval; IQR = interquartile range, 25th percentile to 75th percentile.
+
 An intra-subject comparison of ABRs during on-study and pre-study prophylaxis demonstrated a statistically significant reduction of 77% in ABR during routine prophylaxis with ALTUVOCT compared to pre-study factor VIII prophylaxis (see Table 4).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4: Intra-Subject comparison of Annualized bleeding rate (ABR) with ALTUVOCT prophylaxis versus pre-study factor VIII prophylaxis in subjects ≥ 12 years of age
 
@@ -359,8 +357,6 @@ ABR = annualized bleed rate; CI = confidence interval; IQR = interquartile range
 
 An intra-subject comparison (N = 26) of ABR during the first 26 weeks of on-demand ALTUVOCT treatment versus ABR in the following 26 weeks on weekly ALTUVOCT prophylaxis (Arm B) showed a clinically important bleeding reduction of 97% for the weekly prophylactic regimen and an increase of subjects with zero bleeds from 0 to 76.9%.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Efficacy in control of bleeding
 
 In the adult and adolescent study (XTEND-1), a total of 362 bleeding episodes were treated with ALTUVOCT, most occurring during on-demand treatment in Arm B. The majority of bleeding episodes were localized in joints. Response to the first injection was assessed by subjects at least 8 hours after treatment. A 4-point rating scale of excellent, good, moderate, and no response was used to assess response. Efficacy in control of bleeding episodes in subjects ≥ 12 years of age is summarized in Table 5. Control of bleeding episodes was similar across the treatment arms.
@@ -372,25 +368,23 @@ Table 5: Summary of efficacy in control of bleeding in subjects ≥ 12 years of 
 | Number of injections to treat bleeding episode, N (%)       | 1 injection 2 injections > 2 injections | 350 (96.7) 11 (3.0) 1 (0.3) |
 | Median total dose to treat a bleeding episode (IU/kg) (IQR) |                                         | 50.93 (50.00; 51.85)        |
 | Number of evaluable injections                              | Number of evaluable injections          | (N = 332)                   |
-| Response to treatment of a                                  | Excellent or good                       | 315 (94.9)                  |
-| bleeding episode, N (%)                                     | Moderate                                | 14 (4.2)                    |
-|                                                             | No response                             | 3 (0.9)                     |
+| Response to treatment of a bleeding episode, N (%)          | Excellent or good Moderate No response  | 315 (94.9) 14 (4.2) 3 (0.9) |
 
 ## Perioperative management of bleeding
 
 Perioperative haemostasis was assessed in 49 major surgeries in 41 subjects (32 adults and 9 adolescents and children) across Phase 3 studies. Of the 49 major surgeries, 48 surgeries required a single pre-operative dose to maintain haemostasis during surgery; for 1 major surgery during routine prophylaxis, no pre-operative loading dose was administered on the day of/or before surgery. The median dose per pre-operative injection was 50 IU/kg (range 12.7 - 84.7). The mean (SD) total consumption and number of injections during the perioperative period (from the day before surgery until Day 14 after surgery) were 171.85 (51.97) IU/kg and 3.9 (1.4), respectively.
 
-The clinical evaluation of haemostatic response during major surgery was assessed using a 4-point scale of excellent, good, moderate, or poor/none. The haemostatic effect of ALTUVOCT was rated as 'excellent' or 'good' in 48 of 49 surgeries (98%). No surgery had an outcome rated as 'poor/none' or 'missing'.
+<div style=\"page-break-after: always\"></div>
 
-Types of major surgeries assessed include major orthopaedic procedures such as joint arthroplasties (joint replacements of knee, hip, and elbow), joint revisions and ankle fusion. Other major surgeries included molar extractions, dental restoration and tooth extraction, circumcision, resection of vascular malformation, hernia repair, and rhinoplasty/mentoplasty. An additional 25 minor surgeries were evaluated; haemostasis was reported as 'excellent' in all available cases.
+The clinical evaluation of haemostatic response during major surgery was assessed using a 4-point scale of excellent, good, moderate, or poor/none. The haemostatic effect of ALTUVOCT was rated as \"excellent\" or \"good\" in 48 of 49 surgeries (98%). No surgery had an outcome rated as \"poor/none\" or \"missing\".
+
+Types of major surgeries assessed include major orthopaedic procedures such as joint arthroplasties (joint replacements of knee, hip, and elbow), joint revisions and ankle fusion. Other major surgeries included molar extractions, dental restoration and tooth extraction, circumcision, resection of vascular malformation, hernia repair, and rhinoplasty/mentoplasty. An additional 25 minor surgeries were evaluated; haemostasis was reported as \"excellent\" in all available cases.
 
 ## Immunogenicity
 
 Immunogenicity was evaluated during clinical studies with ALTUVOCT in previously treated adults and children diagnosed with severe haemophilia A. Inhibitor development to ALTUVOCT was not detected in clinical studies.
 
 During Phase 3 clinical studies (median treatment duration 96.3 weeks), 4/276 (1.4%) of evaluable patients developed transient treatment-emergent anti-drug antibodies (ADA). No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -408,42 +402,40 @@ The efficacy in control of bleeding in children &lt; 12 years of age was assesse
 
 The pharmacokinetics (PK) of ALTUVOCT were evaluated in the Phase 3 studies XTEND-1 and XTEND-Kids, enrolling 159 adults and adolescents, and 74 children &lt; 12 years old, respectively, receiving weekly intravenous injections of 50 IU/kg. Among children &lt; 12 years old, 37 subjects had ALTUVOCT single dose PK profiles available.
 
-Efanesoctocog alfa has demonstrated a half-life that is about 4-fold longer compared to standard halflife factor VIII products and about 2.5- to 3-fold longer compared to extended half-life factor VIII products. PK parameters following a single dose of ALTUVOCT are presented in Table 6. The PK parameters were based on plasma factor VIII activity measured by the aPTT-based one-stage clotting assay. After a single dose of 50 IU/kg, ALTUVOCT exhibited high sustained factor VIII activity with prolonged half-life across age cohorts. There was a trend of increasing AUC, and decreasing clearance, with increasing age in the paediatric cohorts. The PK profile at steady state (week 26) was comparable with the PK profile obtained after the first dose.
-
 <div style=\"page-break-after: always\"></div>
+
+Efanesoctocog alfa has demonstrated a half-life that is about 4-fold longer compared to standard halflife factor VIII products and about 2.5- to 3-fold longer compared to extended half-life factor VIII products. PK parameters following a single dose of ALTUVOCT are presented in Table 6. The PK parameters were based on plasma factor VIII activity measured by the aPTT-based one-stage clotting assay. After a single dose of 50 IU/kg, ALTUVOCT exhibited high sustained factor VIII activity with prolonged half-life across age cohorts. There was a trend of increasing AUC, and decreasing clearance, with increasing age in the paediatric cohorts. The PK profile at steady state (week 26) was comparable with the PK profile obtained after the first dose.
 
 Table 6: Pharmacokinetic parameters following a single dose of ALTUVOCT by age (one-stage clotting assay using Actin-FSL)
 
-| PK parameters Mean (SD)               | Paediatric study   | Paediatric study   | Adult and adolescent study   | Adult and adolescent study   |
-|---------------------------------------|--------------------|--------------------|------------------------------|------------------------------|
-|                                       | 1 to < 6 years     | 6 to < 12 years    | 12 to < 18 years             | Adults                       |
-|                                       | N = 18             | N = 18             | N = 25                       | N = 134                      |
-| AUC 0-tau , IU*h/dL                   | 6 800 (1 120) b    | 7 190 (1 450)      | 8 350 (1 550)                | 9 850 (2 010) a              |
-| t ½z , h                              | 38.0 (3.72)        | 42.4 (3.70)        | 44.6 (4.99)                  | 48.2 (9.31)                  |
-| CL, mL/h/kg                           | 0.742 (0.121)      | 0.681 (0.139)      | 0.582 (0.115)                | 0.493 (0.121) a              |
-| V ss , mL/kg                          | 36.6 (5.59)        | 38.1 (6.80)        | 34.9 (7.38)                  | 31.0 (7.32) a                |
-| MRT, h                                | 49.6 (5.45)        | 56.3 (5.10)        | 60.0 (5.54)                  | 63.9 (10.2) a                |
-| C max , IU/dL                         | 143 (57.8)         | 113 (22.7)         | 118 (24.9)                   | 133 (33.8)                   |
-| Incremental Recovery, IU/dL per IU/kg | 2.81 (1.1)         | 2.24 (0.437)       | 2.34 (0.490)                 | 2.64 (0.665)                 |
+| PK parameters Mean (SD)               | Paediatric study - 1 to < 6 years - N = 18   | Paediatric study - 6 to < 12 years - N = 18   | Adult and adolescent study - 12 to < 18 years N = 25   | Adult and adolescent study - Adults N = 134   |
+|---------------------------------------|----------------------------------------------|-----------------------------------------------|--------------------------------------------------------|-----------------------------------------------|
+| AUC0-tau, IU*h/dL                     | 6 800 (1 120) b                              | 7 190 (1 450)                                 | 8 350 (1 550)                                          | 9 850 (2 010) a                               |
+| t½z, h                                | 38.0 (3.72)                                  | 42.4 (3.70)                                   | 44.6 (4.99)                                            | 48.2 (9.31)                                   |
+| CL, mL/h/kg                           | 0.742 (0.121)                                | 0.681 (0.139)                                 | 0.582 (0.115)                                          | 0.493 (0.121) a                               |
+| Vss, mL/kg                            | 36.6 (5.59)                                  | 38.1 (6.80)                                   | 34.9 (7.38)                                            | 31.0 (7.32) a                                 |
+| MRT, h                                | 49.6 (5.45)                                  | 56.3 (5.10)                                   | 60.0 (5.54)                                            | 63.9 (10.2) a                                 |
+| Cmax, IU/dL                           | 143 (57.8)                                   | 113 (22.7)                                    | 118 (24.9)                                             | 133 (33.8)                                    |
+| Incremental Recovery, IU/dL per IU/kg | 2.81 (1.1)                                   | 2.24 (0.437)                                  | 2.34 (0.490)                                           | 2.64 (0.665)                                  |
 
 AUC0-tau = area under the activity-time curve over the dosing interval, CL = clearance, MRT = mean residence time, SD = standard deviation, t½z = terminal half-life, Vss = volume of distribution at steady state, Cmax = maximum activity
 
 In XTEND-1, ALTUVOCT at steady state maintained normal to near normal (&gt; 40 IU/dL) factor VIII activity for a mean (SD) of 4.1 (0.7) days with once weekly prophylaxis in adults. The factor VIII activity over 10 IU/dL was maintained in 83.5% of adults and adolescent subjects throughout the study. In children &lt; 12 years, weekly ALTUVOCT at steady state maintained normal to near normal (&gt; 40 IU/dL) factor VIII activity for 2 to 3 days and &gt; 10 IU/dL factor VIII activity for approximately 7 days (see Table 7).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 7: Pharmacokinetic parameters at steady state of ALTUVOCT by age (one-stage clotting assay using Actin-FSL)
 
-| PK parameters Mean (SD)               | Paediatric study a   | Paediatric study a   | Adult and adolescent study a   | Adult and adolescent study a   |
-|---------------------------------------|----------------------|----------------------|--------------------------------|--------------------------------|
-|                                       | 1 to < 6 years       | 6 to < 12 years      | 12 to < 18 years               | Adults                         |
-|                                       | N = 37               | N = 36               | N = 24                         | N = 125                        |
-| Peak, IU/dL                           | 136 (48.9) (N = 35)  | 131 (36.1) (N = 35)  | 124 (31.2)                     | 150 (35.0) (N = 124)           |
-| Incremental Recovery, IU/dL per IU/kg | 2.22 (0.83) (N = 35) | 2.10 (0.73) (N = 35) | 2.25 (0.61) (N = 22)           | 2.64 (0.61) (N = 120)          |
-| Time to 40 IU/dL, h                   | 68.0 (10.5) b        | 80.6 (12.3) b        | 81.5 (12.1) c                  | 98.1 (20.1) c                  |
-| Time to 20 IU/dL, h                   | 109 (14.0) b         | 127 (14.5) b         | 130 (15.7) c                   | 150 (27.7) c                   |
-| Time to 10 IU/dL, h                   | 150 (18.2) b         | 173 (17.1) b         | 179 (20.2) c                   | 201 (35.7) c                   |
-| Trough, IU/dL                         | 10.9 (19.7) (N = 36) | 16.5 (23.7)          | 9.23 (4.77) (N = 22)           | 18.0 (16.6) (N = 123)          |
+| PK parameters Mean (SD)               | Paediatric study a - 1 to < 6 years - N = 37   | Paediatric study a - 6 to < 12 years - N = 36   | Adult and adolescent study a - 12 to < 18 years - N = 24   | Adult and adolescent study a - Adults - N = 125   |
+|---------------------------------------|------------------------------------------------|-------------------------------------------------|------------------------------------------------------------|---------------------------------------------------|
+| Peak, IU/dL                           | 136 (48.9) (N = 35)                            | 131 (36.1) (N = 35)                             | 124 (31.2)                                                 | 150 (35.0) (N = 124)                              |
+| Incremental Recovery, IU/dL per IU/kg | 2.22 (0.83) (N = 35)                           | 2.10 (0.73) (N = 35)                            | 2.25 (0.61) (N = 22)                                       | 2.64 (0.61) (N = 120)                             |
+| Time to 40 IU/dL, h                   | 68.0 (10.5) b                                  | 80.6 (12.3) b                                   | 81.5 (12.1) c                                              | 98.1 (20.1) c                                     |
+| Time to 20 IU/dL, h                   | 109 (14.0) b                                   | 127 (14.5) b                                    | 130 (15.7) c                                               | 150 (27.7) c                                      |
+| Time to 10 IU/dL, h                   | 150 (18.2) b                                   | 173 (17.1) b                                    | 179 (20.2) c                                               | 201 (35.7) c                                      |
+| Trough, IU/dL                         | 10.9 (19.7) (N = 36)                           | 16.5 (23.7)                                     | 9.23 (4.77) (N = 22)                                       | 18.0 (16.6) (N = 123)                             |
 
-<div style=\"page-break-after: always\"></div>
+Peak = 15 min post dose at steady state, Trough = predose factor VIII activity value at steady state, SD = standard deviation
 
 ## 5.3 Preclinical safety data
 
@@ -453,11 +445,11 @@ Non-clinical data reveal no special hazard for humans based on repeated dose tox
 
 ## 6.1 List of excipients
 
-## Powder
+Powder
 
 Sucrose Calcium chloride dihydrate (E 509) Histidine Arginine hydrochloride Polysorbate 80 (E 433)
 
-## Solvent
+Solvent
 
 Water for injections
 
@@ -467,9 +459,11 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Only the provided adapter and infusion set should be used because treatment failure can occur as a consequence of coagulation factor VIII adsorption to the internal surface of some injection equipment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
-## Unopened vial
+Unopened vial
 
 4 years
 
@@ -481,21 +475,37 @@ The medicinal product should be used immediately after reconstitution. If not us
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C).
+
+Do not freeze.
+
+Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
 Each pack of ALTUVOCT 250 IU, 500 IU, 750 IU 1 000 IU, 2 000 IU, 3 000 IU and 4 000 IU powder and solvent for solution for injection contains:
 
-- -a glass vial (type I) with powder and chlorobutyl rubber stopper
-- -a sterile vial adapter for reconstitution
-- -a pre-filled glass syringe of 3 mL solvent with a bromobutyl rubber plunger stopper
-- -a plunger rod
-- -a sterile infusion set
+-
+
+- a glass vial (type I) with powder and chlorobutyl rubber stopper
+
+-
+
+- a sterile vial adapter for reconstitution
+
+-
+
+- a pre-filled glass syringe of 3 mL solvent with a bromobutyl rubber plunger stopper
+
+-
+
+- a plunger rod
+
+-
+
+- a sterile infusion set
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -503,7 +513,9 @@ ALTUVOCT is to be administered intravenously after reconstitution of the powder 
 
 Always use an aseptic technique.
 
-Additional information on reconstitution
+<div style=\"page-break-after: always\"></div>
+
+## Additional information on reconstitution
 
 ALTUVOCT is administered by intravenous injection after dissolving the powder for injection with the solvent supplied in the pre-filled syringe. ALTUVOCT pack contains:
 
@@ -517,9 +529,7 @@ To draw up the solution from multiple vials into a single syringe you may use a 
 
 ALTUVOCT should not be mixed with other solutions for injection or infusion.
 
-Wash your hands before opening the pack.
-
-<div style=\"page-break-after: always\"></div>
+## Wash your hands before opening the pack.
 
 ## Reconstitution
 
@@ -538,6 +548,14 @@ Wipe the top of the vial with an alcohol swab. After cleaning, ensure nothing to
 Peel off the protective paper lid from the vial adapter package (D).
 
 Do not touch the vial adapter, or remove it from its package.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 ## d. Attach vial adapter
 
@@ -565,7 +583,15 @@ Do not touch the inside of cap or the syringe tip.
 
 Lift the package away from the vial adapter and dispose.
 
-<!-- image -->
+## b. Attach syringe to vial adapter
+
+Hold the vial adapter at the lower end. Place the syringe tip onto the top of the vial adapter. Turn the syringe clockwise to securely attach.
+
+## 4. Dissolve the powder and solvent
+
+## a. Add solvent to vial
+
+Slowly press the plunger rod to inject all the solvent into the vial.
 
 <!-- image -->
 
@@ -580,16 +606,6 @@ Lift the package away from the vial adapter and dispose.
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-## b. Attach syringe to vial adapter
-
-Hold the vial adapter at the lower end. Place the syringe tip onto the top of the vial adapter. Turn the syringe clockwise to securely attach.
-
-## 4. Dissolve the powder and solvent
-
-## a. Add solvent to vial
-
-Slowly press the plunger rod to inject all the solvent into the vial.
 
 ## b. Dissolve powder
 
@@ -615,19 +631,7 @@ Remove the 3 mL syringes from each vial (see step 6b), leaving the solution in e
 
 ## b. Using large syringe (G)
 
-For each vial, attach the large syringe (G) to the vial adapter (see step 3b) and perform step 6, to combine the solution from each vial into the large syringe. In case you only need part of an entire vial, use the scale on the syringe to see how much solution you withdraw.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
+For each vial, attach the large syringe (G) to the vial adapter (see step 3b) and perform step 6, to combine the solution from each vial into the large syringe until you have reached the required dose.
 
 ## 6. Draw solution into syringe
 
@@ -643,7 +647,15 @@ Detach the syringe from the vial by holding the vial adapter. Turn the syringe a
 
 <!-- image -->
 
+<!-- image -->
+
+<!-- image -->
+
 It is recommended to use ALTUVOCT immediately after reconstitution (see section 6.3).
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 ## Administration
 
@@ -657,7 +669,7 @@ Remove the tubing cap.
 
 <!-- image -->
 
-- Do not touch the exposed end of the tubing set. Δ
+## Do not touch the exposed end of the tubing set.
 
 ## b. Attach syringe
 
@@ -673,17 +685,7 @@ Remove air by pointing the syringe up and gently pressing the plunger rod. Do no
 
 <!-- image -->
 
-- Injecting air into the vein can be dangerous. Δ
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
+## Injecting air into the vein can be dangerous.
 
 ## 8. Inject solution
 
@@ -700,6 +702,16 @@ You may use a plaster to hold the plastic wings of the needle in place at the in
 ## b. Inject solution
 
 The prepared solution should be injected intravenously over 1 to 10 minutes, based on the patient's comfort level.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. Dispose safely
 
@@ -719,23 +731,25 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
+Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm
+
+Sweden
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1824/001 EU/1/24/1824/002 EU/1/24/1824/003 EU/1/24/1824/004 EU/1/24/1824/005 EU/1/24/1824/006 EU/1/24/1824/007
+EU/1/24/1824/001 EU/1/24/1824/002 EU/1/24/1824/003 EU/1/24/1824/004 EU/1/24/1824/005 EU/1/24/1824/006
+
+EU/1/24/1824/007
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 17 June 2024
 
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -752,13 +766,15 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Biogen MA Inc. 5000 Davis Drive, Morrisville NC 27560 USA
+Biogen MA Inc. 5000 Davis Drive, Morrisville NC 27560
+
+USA
+
+Genzyme Flanders Cipalstraat 8 2440, Geel Belgium
 
 Name and address of the manufacturer responsible for batch release
 
-Swedish Orphan Biovitrum AB (publ) Norra Stationsgatan 93 113 64 Stockholm
-
-Sweden
+Swedish Orphan Biovitrum AB (publ) Norra Stationsgatan 93 113 64 Stockholm Sweden
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -809,13 +825,17 @@ efanesoctocog alfa
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-Powder: Each vial contains nominally 250 IU efanesoctocog alfa (approx. 83 IU/mL after reconstitution),
+Powder: Each vial contains nominally 250 IU efanesoctocog alfa (approx. 83 IU/mL after
+
+reconstitution),
 
 ## 3. LIST OF EXCIPIENTS
 
-Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80
+Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80 (E 433)
 
 Solvent: Water for injections
+
+See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -839,6 +859,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -855,7 +877,11 @@ Date removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
+Swedish Orphan Biovitrum AB (publ)
+
+SE-112 76 Stockholm
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -867,7 +893,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -877,41 +903,48 @@ altuvoct 250
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-SN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-NN
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 ALTUVOCT 250 IU powder for solution for injection powder for injection
 
-efanesoctocog alfa (recombinant human coagulation factor VIII) IV
+efanesoctocog alfa (recombinant human coagulation factor VIII)
 
-## 2. METHOD OF ADMINISTRATION
+IV
 
-3. EXPIRY DATE
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 250 IU
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -929,13 +962,17 @@ efanesoctocog alfa
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-Powder: Each vial contains nominally 500 IU efanesoctocog alfa (approx. 167 IU/mL after reconstitution),
+Powder: Each vial contains nominally 500 IU efanesoctocog alfa (approx. 167 IU/mL after
+
+reconstitution),
 
 ## 3. LIST OF EXCIPIENTS
 
-Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80
+Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80 (E 433)
 
 Solvent: Water for injections
+
+See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -959,6 +996,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -975,7 +1014,11 @@ Date removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
+Swedish Orphan Biovitrum AB (publ)
+
+SE-112 76 Stockholm
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -987,7 +1030,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -997,45 +1040,46 @@ altuvoct 500
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-SN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-NN
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 ALTUVOCT 500 IU powder for solution for injection powder for injection
 
-efanesoctocog alfa
+efanesoctocog alfa (recombinant human coagulation factor VIII) IV
 
-(recombinant human coagulation factor VIII)
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-IV
-
-## 2. METHOD OF ADMINISTRATION
-
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 500 IU
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1053,13 +1097,17 @@ efanesoctocog alfa
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-Powder: Each vial contains nominally 750 IU efanesoctocog alfa (approx. 250 IU/mL after reconstitution),
+Powder: Each vial contains nominally 750 IU efanesoctocog alfa (approx. 250 IU/mL after
+
+reconstitution),
 
 ## 3. LIST OF EXCIPIENTS
 
-Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80
+Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80 (E 433)
 
 Solvent: Water for injections
+
+See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1083,6 +1131,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1099,7 +1149,11 @@ Date removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
+Swedish Orphan Biovitrum AB (publ)
+
+SE-112 76 Stockholm
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1111,7 +1165,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1121,45 +1175,48 @@ altuvoct 750
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-SN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-NN
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 ALTUVOCT 750 IU powder for solution for injection powder for injection
 
-efanesoctocog alfa
-
-(recombinant human coagulation factor VIII)
+efanesoctocog alfa (recombinant human coagulation factor VIII)
 
 IV
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 750 IU
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1177,13 +1234,17 @@ efanesoctocog alfa
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
-Powder: Each vial contains nominally 1 000 IU efanesoctocog alfa (approx. 333 IU/mL after reconstitution),
+Powder: Each vial contains nominally 1 000 IU efanesoctocog alfa (approx. 333 IU/mL after
+
+reconstitution),
 
 ## 3. LIST OF EXCIPIENTS
 
-Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80
+Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80 (E 433)
 
 Solvent: Water for injections
+
+See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1207,6 +1268,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1223,7 +1286,11 @@ Date removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
+Swedish Orphan Biovitrum AB (publ)
+
+SE-112 76 Stockholm
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1235,7 +1302,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1245,41 +1312,48 @@ altuvoct 1000
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-SN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-NN
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 ALTUVOCT 1 000 IU powder for solution for injection powder for injection
 
-efanesoctocog alfa (recombinant human coagulation factor VIII) IV
+efanesoctocog alfa (recombinant human coagulation factor VIII)
 
-## 2. METHOD OF ADMINISTRATION
+IV
 
-3. EXPIRY DATE
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 000 IU
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1301,9 +1375,11 @@ Powder: Each vial contains nominally 2 000 IU efanesoctocog alfa (approx. 667 IU
 
 ## 3. LIST OF EXCIPIENTS
 
-Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80
+Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80 (E 433)
 
 Solvent: Water for injections
+
+See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1327,6 +1403,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1339,11 +1417,15 @@ Can be stored at room temperature (up to 30 °C) for a single period up to 6 mon
 
 Date removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
+Swedish Orphan Biovitrum AB (publ)
+
+SE-112 76 Stockholm
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1355,7 +1437,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1365,45 +1447,46 @@ altuvoct 2000
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-SN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-NN
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 ALTUVOCT 2 000 IU powder for solution for injection powder for injection
 
-efanesoctocog alfa
+efanesoctocog alfa (recombinant human coagulation factor VIII) IV
 
-(recombinant human coagulation factor VIII)
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-IV
-
-## 2. METHOD OF ADMINISTRATION
-
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2 000 IU
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1425,9 +1508,11 @@ Powder: Each vial contains nominally 3 000 IU efanesoctocog alfa (approximately 
 
 ## 3. LIST OF EXCIPIENTS
 
-Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80
+Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80 (E 433)
 
 Solvent: Water for injections
+
+See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1451,6 +1536,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1463,11 +1550,15 @@ Can be stored at room temperature (up to 30 °C) for a single period up to 6 mon
 
 Date removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
+Swedish Orphan Biovitrum AB (publ)
+
+SE-112 76 Stockholm
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1479,7 +1570,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1489,41 +1580,48 @@ altuvoct 3000
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-SN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-NN
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 ALTUVOCT 3 000 IU powder for solution for injection powder for injection
 
-efanesoctocog alfa (recombinant human coagulation factor VIII) IV
+efanesoctocog alfa (recombinant human coagulation factor VIII)
 
-## 2. METHOD OF ADMINISTRATION
+IV
 
-3. EXPIRY DATE
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 000 IU
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1545,9 +1643,11 @@ Powder: Each vial contains nominally 4 000 IU efanesoctocog alfa (approx. 1 333 
 
 ## 3. LIST OF EXCIPIENTS
 
-Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80
+Powder: sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80 (E 433)
 
 Solvent: Water for injections
+
+See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1571,6 +1671,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1587,7 +1689,11 @@ Date removed from refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
+Swedish Orphan Biovitrum AB (publ)
+
+SE-112 76 Stockholm
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1599,7 +1705,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1609,55 +1715,67 @@ altuvoct 4000
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-SN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-NN
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 ALTUVOCT 4 000 IU powder for solution for injection powder for injection
 
-efanesoctocog alfa (recombinant human coagulation factor VIII) IV
+efanesoctocog alfa (recombinant human coagulation factor VIII)
 
-## 2. METHOD OF ADMINISTRATION
+IV
 
-3. EXPIRY DATE
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 4 000 IU
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Solvent for ALTUVOCT
 
 Water for injections
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1682,14 +1800,11 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| ALTUVOCT 250 IU powder and solvent for solution for injection   |
-|-----------------------------------------------------------------|
-| ALTUVOCT 500 IU powder and solvent for solution for injection   |
-| ALTUVOCT 750 IU powder and solvent for solution for injection   |
-| ALTUVOCT 1 000 IU powder and solvent for solution for injection |
-| ALTUVOCT 2 000 IU powder and solvent for solution for injection |
-| ALTUVOCT 3 000 IU powder and solvent for solution for injection |
-| ALTUVOCT 4 000 IU powder and solvent for solution for injection |
+```
+ALTUVOCT 250 IU powder and solvent for solution for injection ALTUVOCT 500 IU powder and solvent for solution for injection ALTUVOCT 750 IU powder and solvent for solution for injection ALTUVOCT 1 000 IU powder and solvent for solution for injection ALTUVOCT 2 000 IU powder and solvent for solution for injection ALTUVOCT 3 000 IU powder and solvent for solution for injection
+```
+
+ALTUVOCT 4 000 IU powder and solvent for solution for injection
 
 efanesoctocog alfa (recombinant human coagulation factor VIII)
 
@@ -1699,10 +1814,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1727,7 +1842,7 @@ ALTUVOCT replaces the deficient or missing factor VIII. ALTUVOCT increases facto
 
 ## Do not use ALTUVOCT
 
-- -if you are allergic to efanesoctocog alfa or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to efanesoctocog alfa or any of the other ingredients of this medicine (listed in section 6).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1758,11 +1873,15 @@ If you are pregnant or breastfeeding, think that you may be pregnant or are plan
 
 ALTUVOCT has no or negligible influence on your ability to drive and use machines.
 
+## ALTUVOCT contains polysorbate 80
+
+This medicine contains 1.50 mg of polysorbate 80 in each vial (after reconstitution), which is equivalent to 0.50 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you or your child have any known allergies.
+
 ## 3. How to use ALTUVOCT
 
 Treatment with ALTUVOCT will be started by a doctor who is experienced in the care of patients with haemophilia A. ALTUVOCT is given as an injection into a vein.
 
-After proper training in the correct injection technique, patients or caregivers may be able to administer ALTUVOCT at home. Your doctor will calculate your dose (in International Units or 'IU') for you. This will depend on your weight and whether it is used for prevention or treatment of bleeding.
+After proper training in the correct injection technique, patients or caregivers may be able to administer ALTUVOCT at home. Your doctor will calculate your dose (in International Units or \"IU\") for you. This will depend on your weight and whether it is used for prevention or treatment of bleeding.
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor, pharmacist or nurse if you are not sure.
 
@@ -1770,11 +1889,11 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Each time you use ALTUVOCT, record the date, the name of the medicine and the batch number.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Prevention of bleeding
 
 The usual dose of ALTUVOCT is 50 international units (IU) per kg of body weight. The injection is given weekly.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Treatment of bleeding
 
@@ -1887,8 +2006,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What ALTUVOCT contains
 
-- -The active substance is efanesoctocog alfa (recombinant human coagulation factor VIII). Each vial of ALTUVOCT contains nominally 250, 500, 750, 1 000, 2 000, 3 000 or 4 000 IU efanesoctocog alfa.
-- -The other ingredients are sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80.
+- The active substance is efanesoctocog alfa (recombinant human coagulation factor VIII). Each vial of ALTUVOCT contains nominally 250, 500, 750, 1 000, 2 000, 3 000 or 4 000 IU efanesoctocog alfa.
+- The other ingredients are sucrose, calcium chloride dihydrate, histidine, arginine hydrochloride, polysorbate 80 (E 433) (see section 2 \"Altuvoct contains polysorbate 80\").
 
 ## What ALTUVOCT looks like and contents of the pack
 
@@ -1902,9 +2021,7 @@ Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
 
 ## Manufacturer
 
-Swedish Orphan Biovitrum AB (publ) Norra Stationsgatan 93 113 64 Stockholm
-
-Sweden
+Swedish Orphan Biovitrum AB (publ) Norra Stationsgatan 93 113 64 Stockholm Sweden
 
 ## This leaflet was last revised in
 
@@ -1946,6 +2063,18 @@ ALTUVOCT is reconstituted by dissolving the powder for injection (A) in the solv
 
 <!-- image -->
 
+A. Powder vial B. 3 mL syringe (pre-filled with solvent)
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+C. Plunger rod D. Vial adaptor E. Infusion set
+
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
 ## Additional parts (not included in the carton)
@@ -1954,13 +2083,13 @@ Ensure you have alcohol swabs (F) available.
 
 Your pharmacist may have provided a separate large syringe (G) to draw up the solution from multiple vials into a single syringe. If a large syringe is NOT provided, follow steps 6 to 8 to administer the solution from each syringe.
 
-<!-- image -->
-
-<!-- image -->
-
 F. Alcohol swabs
 
+<!-- image -->
+
 G. Large Syringe
+
+<!-- image -->
 
 ## Reconstitution
 
@@ -1972,7 +2101,9 @@ Hold the powder vial (A) on a clean flat surface and remove the plastic cap.
 
 ## b. Clean vial top
 
-Wipe the top of the vial with an alcohol swab. After cleaning, ensure nothing touches the top of the vial.
+Wipe the top of the vial with an alcohol swab.
+
+After cleaning, ensure nothing touches the top of the vial.
 
 ## c. Open vial adapter package
 
@@ -2044,8 +2175,6 @@ If your dose requires multiple vials, follow the steps below (5a and 5b) otherwi
 
 <!-- image -->
 
-7
-
 <!-- image -->
 
 <!-- image -->
@@ -2064,7 +2193,7 @@ Remove the 3 mL syringes from each vial (see step 6b), leaving the solution in e
 
 ## b. Using large syringe (G) provided by pharmacist
 
-For each vial, attach the large syringe (G) to the vial adapter (see step 3b) and perform step 6, to combine the solution from each vial into the large syringe. In case you only need part of an entire vial, use the scale on the syringe to see how much solution you withdraw, as instructed by your healthcare professional.
+For each vial, attach the large syringe (G) to the vial adapter (see step 3b) and perform step 6, to combine the solution from each vial into the large syringe until you have reached your required dose, as instructed by your healthcare professional.
 
 ## 6. Draw solution into syringe
 
@@ -2085,6 +2214,8 @@ Detach the syringe from the vial by holding the vial adapter. Turn the syringe a
 Open infusion set (E) packaging (do not use if damaged).
 
 Remove the tubing cap.
+
+<!-- image -->
 
 ## Do not touch the exposed end of the tubing set.
 
@@ -2113,6 +2244,8 @@ If needed apply a tourniquet. Wipe injection site with an alcohol swab (F).
 ## d. Remove air from syringe and tubing
 
 Remove air by pointing the syringe up and gently pressing the plunger rod. Do not push the solution through the needle.
+
+<!-- image -->
 
 ## Injecting air into the vein can be dangerous.
 
@@ -2150,28 +2283,4 @@ Do not reuse equipment.
 
 <!-- image -->
 
-2
-
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for efanesoctocog alfa, the scientific conclusions of PRAC are as follows:
-
-In view of available data on risk from the literature, spontaneous reports including in some cases a close temporal relationship, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between efanesoctocog alfa and Factor VIII inhibition is at least a reasonable possibility. Accordingly, the PRAC concludes that the product information of products containing efanesoctocog alfa should be amended.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for efanesoctocog alfa the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing efanesoctocog alfa is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

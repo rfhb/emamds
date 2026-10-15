@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-03-24 11:23:48
-document_pages: 32
+document_datetime: 2026-10-12 14:54:51
+document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/roclanda-epar-product-information_en.pdf
 document_name: roclanda-epar-product-information_en.pdf
 version: success
-processing_time: 6.7026412
-conversion_datetime: 2026-04-01 12:26:33.868155
+processing_time: 7.2440241
+conversion_datetime: 2026-10-15 19:58:43.279544
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.139.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -54,7 +52,7 @@ Roclanda is indicated for the reduction of elevated intraocular pressure (IOP) i
 
 Treatment with Roclanda should only be initiated by an ophthalmologist or a healthcare professional qualified in ophthalmology.
 
-## Posology
+Posology
 
 The recommended dose is one drop in the affected eye(s) once daily in the evening. Patients should not instil more than one drop in the affected eye(s) each day.
 
@@ -68,11 +66,9 @@ The safety and efficacy of Roclanda in children below the age of 18 years have n
 
 For ocular use.
 
-Data on potential interactions specific to latanoprost + netarsudil are described in section 4.5. If latanoprost + netarsudil is to be used concomitantly with other topical ophthalmic medicinal products, each medicinal product should be administered at least five minutes apart. Due to netarsudil's
+Data on potential interactions specific to latanoprost + netarsudil are described in section 4.5. If latanoprost + netarsudil is to be used concomitantly with other topical ophthalmic medicinal products, each medicinal product should be administered at least five minutes apart. Due to netarsudil's vasodilating properties, other eye drops should be administered before latanoprost + netarsudil. Eye ointments should be administered last.
 
 <div style=\"page-break-after: always\"></div>
-
-vasodilating properties, other eye drops should be administered before latanoprost + netarsudil. Eye ointments should be administered last.
 
 Contact lenses should be removed prior to instillation of latanoprost + netarsudil and may be reinserted 15 minutes following its administration (see section 4.4).
 
@@ -146,13 +142,11 @@ There have been reports of paradoxical elevations in IOP following the concomita
 
 There are no or limited amount of data from the use of latanoprost + netarsudil in pregnant women.
 
-No effects during pregnancy are anticipated, since systemic exposure to netarsudil is negligible (see section 5.2). Animal studies with intravenous administration of netarsudil do not indicate direct or
+No effects during pregnancy are anticipated, since systemic exposure to netarsudil is negligible (see section 5.2). Animal studies with intravenous administration of netarsudil do not indicate direct or indirect harmful effects with respect to reproductive toxicity at clinically relevant exposures (see section 5.3).
 
 <div style=\"page-break-after: always\"></div>
 
-indirect harmful effects with respect to reproductive toxicity at clinically relevant exposures (see section 5.3).
-
-Latanoprost has potentially harmful pharmacological effects during pregnancy and/or on the fetus/newborn child (see section 5.3).
+Latanoprost has potentially harmful pharmacological effects during pregnancy and/or on the foetus/newborn child (see section 5.3).
 
 Therefore, latanoprost + netarsudil should not be used during pregnancy.
 
@@ -176,50 +170,44 @@ If transient blurred vision occurs at instillation, the patient should wait unti
 
 ## Summary of the safety profile
 
-The most common adverse reactions observed in the clinical studies were conjunctival hyperaemia (46% of patients), instillation site pain (14%), cornea verticillata (12%) and eye pruritis (7%). Serious adverse reactions were not reported in clinical studies.
+The most common adverse reactions observed in the clinical studies were conjunctival hyperaemia (46% of patients), eye pain (16%), cornea verticillata (12%) and eye pruritis (7%). Serious adverse reactions were not reported in clinical studies.
 
 ## Tabulated list of adverse reactions
 
 The following adverse reactions have been reported with latanoprost + netarsudil, dosed once daily, and during clinical studies and post-marketing surveillance with the individual components latanoprost and netarsudil. Adverse reactions are presented according to the MedDRA system organ classification. Within each system organ class, the adverse reactions are classified by frequency according to the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000) or not known (cannot be estimated from the available data).
 
-| System organ classification   | Frequency   | Adverse reactions                                                           |
-|-------------------------------|-------------|-----------------------------------------------------------------------------|
-| Infections and infestations   | Rare        | Herpetic keratitis 2                                                        |
-| Immune system disorders       | Uncommon    | Hypersensitivity                                                            |
-| Nervous system disorders      | Uncommon    | Headache, Muscle contractions involuntary, Dizziness, Visual field defect 3 |
+| System organ classification   | Frequency   | Adverse reactions                                   |
+|-------------------------------|-------------|-----------------------------------------------------|
+| Infections and infestations   | Rare        | Herpetic keratitis 2                                |
+| Immune system disorders       | Uncommon    | Hypersensitivity                                    |
+| Nervous system disorders      | Uncommon    | Headache, Dizziness                                 |
+| Eye disorders                 | Very common | Conjunctival hyperaemia 1 , Cornea verticillata 1 , |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ classification   | Frequency   | Adverse reactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|-------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Eye disorders                 | Very common | Conjunctival hyperaemia 1 , Cornea verticillata 1 , Instillation site pain, Iris hyperpigmentation 2 , Eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation and number of eyelashes) 2                                                                                                                                                                                                                                                                                                                                                  |
-| Eye disorders                 | Common      | Conjunctival haemorrhage, Vision blurred, Lacrimation increased, Erythema of eyelid, Eye pruritus, Eye irritation, Visual acuity reduced, Eyelid oedema, Punctate keratitis, Corneal disorder, Conjunctival oedema, Conjunctivitis allergic, Eye pain, Dry eye, Foreign body sensation in eyes, Eyelid margin crusting, Blepharitis, Instillation site erythema, Instillation site discomfort,                                                                                                                                                                              |
-| Eye disorders                 | Uncommon    | Eyelids pruritus, Conjunctival disorder, Corneal opacity, Eye discharge, Corneal deposits, Conjunctivitis, Dacryostenosis acquired, Eye inflammation, Eye paraesthesia, Conjunctival follicles, Eye swelling, Meibomian gland dysfunction, Corneal pigmentation, Diplopia, Noninfective conjunctivitis, Abnormal sensation in eye, Keratitis, Refraction disorder, Anterior chamber flare, Conjunctival irritation, Intraocular pressure increased, Eyelid rash, Eyelid skin dryness, Growth of eyelashes, Lacrimal disorder, Iritis, Visual impairment, Corneal dystrophy, |
+| System organ classification   | Frequency   | Adverse reactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|-------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                               |             | Eye pain, Iris hyperpigmentation 2 , Eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation and number of eyelashes) 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                               | Common      | Conjunctival haemorrhage, Vision blurred, Lacrimation increased, Erythema of eyelid, Eye pruritus, Eye irritation, Visual acuity reduced, Eyelid oedema, Punctate keratitis, Corneal disorder, Conjunctival oedema, Conjunctivitis allergic, Dry eye, Foreign body sensation in eyes, Eyelid margin crusting, Blepharitis, Ocular discomfort, Vital dye staining cornea present                                                                                                                                                                                                                                                                                         |
+|                               | Uncommon    | Eyelids pruritus, Conjunctival disorder, Corneal opacity, Eye discharge, Corneal deposits, Conjunctivitis, Dacryostenosis acquired, Eye inflammation, Eye paraesthesia, Eye swelling, Noninfective conjunctivitis, Abnormal sensation in eye, Keratitis, Refraction disorder, Anterior chamber flare, Conjunctival irritation, Intraocular pressure increased, Eyelid rash, Eyelid skin dryness, Growth of eyelashes, Lacrimal disorder, Iritis, Visual impairment, Instillation site reaction, Macular oedema including cystoid macular oedema 2 , Uveitis 2 , Ocular hyperaemia, Eye allergy 3 , Eyelid disorder 3 , Asthenopia 3 , Anterior chamber inflammation 3 , |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ classification   | Frequency   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|-------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                               |             | Adverse reactions Instillation site dryness, Instillation site pruritus, Instillation site reaction, Eye complication associated with device, fatigue, Instillation site paraesthesia, Macular oedema including cystoid macular oedema 2 , Uveitis 2 Ocular hyperaemia Diabetic retinopathy 3 , Eye allergy 3 Ocular discomfort, Eyelid disorder 3 , Ectropion 3 , Lenticular opacities 3 , Asthenopia 3 , Episcleral hyperaemia 3 , Halo vision 3 , Anterior chamber inflammation 3 , Blindness 3 , Conjunctivochalasis, Eczema eyelids 3 , Glaucoma 3 , Iris adhesions 3 , Iris bombe 3 , Ocular hypertension 3 , Instillation site irritation 3 , Glassy eyes 3 , Instillation site oedema 3 , Conjunctival staining 3 , Optic nerve cup/disc ratio increased 3 , Madarosis 3 , Blepharal pigmentation, Eye disorder, Retinal haemorrhage, |
-|                               | Rare        | Photophobia Corneal oedema 2 , Corneal erosion 2 , Periorbital oedema 2 , Trichiasis 2 , Distichiasis 2 , Iris cyst 2 , Localised skin reaction on the eyelids 2 , Darkening of the palpebral skin of the eyelids 2 , Pseudopemphigoid of ocular conjunctiva 2 Periorbital and lid changes resulting                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|                               | Very rare   | in deepening of the eyelid sulcus 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                               | Not known   | Reticular epithelial corneal oedema 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|                               | Very rare   | Palpitations 2 Angina unstable 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|                               | Uncommon    | Epistaxis,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-
-<div style=\"page-break-after: always\"></div>
-
-| System organ classification                          | Frequency   | Adverse reactions                                                                                |
-|------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders      |             | Nasal congestion, Nasal discomfort 3 , Rhinalgia 3 Asthma 2 , Dyspnoea 2                         |
-| Respiratory, thoracic and mediastinal disorders      | Rare        | Asthma exacerbation 2                                                                            |
-| Gastrointestinal disorders                           | Uncommon    | Nausea, Vomiting                                                                                 |
-| Skin and subcutaneous tissue disorders               | Common      | Dermatitis contact                                                                               |
-| Skin and subcutaneous tissue disorders               | Uncommon    | Lichenification, Dry skin, Erythema, Skin disorder, Dermatitis allergic 3 Petechiae, Eczema      |
-| Skin and subcutaneous tissue disorders               | Rare        | Pruritus 2                                                                                       |
-| Musculoskeletal and connective tissue disorders      | Uncommon    | Pain in jaw, Myalgia 2 , Arthralgia 2 , Polychondritis 3 , Muscular weakness, Sjogren's syndrome |
-| General disorders and administration site conditions | Uncommon    | Chest pain 2                                                                                     |
-| Injury, poisoning and procedural complications       | Uncommon    | Excoriation 3                                                                                    |
+| System organ classification                          | Frequency   | Adverse reactions                                                                                                                                                                                                                                  |
+|------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                      |             | Eczema eyelids 3 , Blepharal pigmentation, Eye disorder, Photophobia                                                                                                                                                                               |
+|                                                      | Rare        | Corneal oedema 2 , Corneal erosion 2 , Periorbital oedema 2 , Trichiasis 2 , Distichiasis 2 , Iris cyst 2 , Localised skin reaction on the eyelids 2 , Darkening of the palpebral skin of the eyelids 2 , Pseudopemphigoid of ocular conjunctiva 2 |
+|                                                      | Very rare   | Periorbital and lid changes resulting in deepening of the eyelid sulcus 2                                                                                                                                                                          |
+|                                                      | Not known   | Reticular epithelial corneal oedema 3                                                                                                                                                                                                              |
+| Cardiac disorders                                    | Uncommon    | Angina 2 , Palpitations 2                                                                                                                                                                                                                          |
+| Cardiac disorders                                    | Very rare   | Angina unstable 2                                                                                                                                                                                                                                  |
+| Respiratory, thoracic and mediastinal disorders      | Uncommon    | Nasal discomfort 3 , Asthma 2 , Dyspnoea 2                                                                                                                                                                                                         |
+| Respiratory, thoracic and mediastinal disorders      | Rare        | Asthma exacerbation 2                                                                                                                                                                                                                              |
+| Gastrointestinal disorders                           | Uncommon    | Nausea, Vomiting                                                                                                                                                                                                                                   |
+| Skin and subcutaneous tissue disorders               | Uncommon    | Dermatitis contact, Erythema, Skin disorder,                                                                                                                                                                                                       |
+| Skin and subcutaneous tissue disorders               | Rare        | Pruritus 2                                                                                                                                                                                                                                         |
+| Musculoskeletal and connective tissue disorders      | Uncommon    | Myalgia 2 , Arthralgia 2 ,                                                                                                                                                                                                                         |
+| General disorders and administration site conditions | Uncommon    | Chest pain 2                                                                                                                                                                                                                                       |
 
 1 See Description of selected adverse reactions for further information
 
@@ -235,17 +223,15 @@ Conjunctival hyperaemia was the most frequently reported adverse reaction associ
 
 ## Cornea verticillata
 
-Cornea verticillata occurred in approximately 13% of the patients in controlled Phase 3 clinical studies. The cornea verticillata seen in latanoprost + netarsudil-treated patients were first noted at 4 weeks of daily dosing. This reaction did not result in any apparent visual functional changes in patients. The majority  of  cornea  verticillata  resolved  upon  discontinuation  of  treatment.  The  incidence  of  cornea verticillata  was  higher  in  certain  subpopulations:  elderly  (≥65 years)  versus  non-elderly  (18.8  vs. 11.5%); males versus females (18.8 vs. 13.0%) and in white versus other races (21.7 vs. 2.5%).
+Cornea verticillata occurred in approximately 13% of the patients in controlled Phase 3 clinical studies. The cornea verticillata seen in latanoprost + netarsudil-treated patients were first noted at 4 weeks of daily dosing. This reaction did not result in any apparent visual functional changes in patients. The majority of cornea verticillata resolved upon discontinuation of treatment. The incidence of cornea verticillata was higher in certain subpopulations: elderly (≥65 years) versus non-elderly (18.8 vs. 11.5%); males versus females (18.8 vs. 13.0%) and in white versus other races (21.7 vs. 2.5%).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Iris pigmentation
 
 Roclanda contains latanoprost which is a prostaglandin F2α analogue. The majority of adverse reactions associated with latanoprost are ocular in nature. In a 5-year latanoprost safety study, 33% of patients developed iris pigmentation (section 4.4).
 
-This change in eye colour has predominantly been seen in patients with mixed coloured irides, i.e. blue-brown, grey-brown, yellow-brown and green-brown. In studies with latanoprost, the onset of the change is usually within the first 8 months of treatment, rarely during the second or third year, and has
-
-<div style=\"page-break-after: always\"></div>
-
-not been seen after the fourth year of treatment. The rate of progression of iris pigmentation decreases with time and is stable for five years. The effect of increased pigmentation beyond five years has not been evaluated. The iris colour change is slight in the majority of cases and often not observed clinically. The incidence in patients with mixed colour irides ranged from 7 to 85%, with yellowbrown irides having the highest incidence. In patients with homogeneously blue eyes, no change has been observed and in patients with homogeneously grey, green or brown eyes, the change has only rarely been seen.
+This change in eye colour has predominantly been seen in patients with mixed coloured irides, i.e. blue-brown, grey-brown, yellow-brown and green-brown. In studies with latanoprost, the onset of the change is usually within the first 8 months of treatment, rarely during the second or third year, and has not been seen after the fourth year of treatment. The rate of progression of iris pigmentation decreases with time and is stable for five years. The effect of increased pigmentation beyond five years has not been evaluated. The iris colour change is slight in the majority of cases and often not observed clinically. The incidence in patients with mixed colour irides ranged from 7 to 85%, with yellowbrown irides having the highest incidence. In patients with homogeneously blue eyes, no change has been observed and in patients with homogeneously grey, green or brown eyes, the change has only rarely been seen.
 
 The colour change is due to increased melanin content in the stromal melanocytes of the iris and not to an increase in number of melanocytes. Typically, the brown pigmentation around the pupil spreads concentrically towards the periphery in affected eyes, but the entire iris or parts of it may become more brownish. No further increase in brown iris pigment has been observed after discontinuation of treatment. It has not been associated with any symptom or pathological changes in clinical studies to date.
 
@@ -255,7 +241,7 @@ Neither naevi nor freckles of the iris have been affected by treatment. Accumula
 
 ## Elderly
 
-With the exception of cornea verticillata (see above), no difference in the safety profile for latanoprost + netarsudil has b een observed between subjects aged &lt; 65 or ≥ 65 years.
+With the exception of cornea verticillata (see above), no difference in the safety profile for latanoprost + netarsudil has been observed between subjects aged &lt; 65 or ≥ 65 years.
 
 ## Reporting of suspected adverse reactions
 
@@ -271,9 +257,9 @@ If latanoprost is accidentally ingested the following information may be useful:
 
 Intravenous administration of latanoprost in monkeys has been associated with transient bronchoconstriction. However, in patients with moderate bronchial asthma, bronchoconstriction was not induced by latanoprost when applied topically on the eyes in a dose of seven times the clinical dose of latanoprost.
 
-If topical overdose of latanoprost + netarsudil should occur, the eye(s) may be flushed with tap water. Treatment of an overdose would include supportive and symptomatic therapy.
-
 <div style=\"page-break-after: always\"></div>
+
+If topical overdose of latanoprost + netarsudil should occur, the eye(s) may be flushed with tap water. Treatment of an overdose would include supportive and symptomatic therapy.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -291,7 +277,7 @@ Studies in animal and man indicate that the main mechanism of action for latanop
 
 ## Clinical efficacy and safety
 
-Roclanda was evaluated in 3 randomized, double-blind, multicentre Phase 3 clinical studies in 1 686 patients with open-angle glaucoma and ocular hypertension. Studies 301 and 302 enrolled subjects with IOP &lt; 36 mmHg and compared IOP lowering effect of latanoprost + netarsudil dosed once daily to individually administered netarsudil 0.02% once daily and latanoprost 0.005% once daily. The treatment duration was 12 months for Study 301 and 3 months for Study 302. The median age of study participants was 66 years (range 18 to 99 years). Study 303 assessed the ocular hypotensive efficacy of latanoprost + netarsudil relative to bimatoprost 0.03%/timolol 0.5%. The treatment duration was 6 months.
+Roclanda was evaluated in 3 randomized, double-blind, multicentre Phase 3 clinical studies in 1 686 patients with open-angle glaucoma and ocular hypertension. Studies 301 and 302 enrolled subjects with IOP &lt; 36 mmHg and compared IOP lowering effect of latanoprost + netarsudil dosed once daily to individually administered netarsudil 0.02% once daily and latanoprost 0.005% once daily. The treatment duration was 12 months for Study 301 and 3 months for Study 302. The median age of study participants was 66 years (range 18 to 99 years). Study 303 assessed the ocular hypotensive efficacy of latanoprost + netarsudil relative to bimatoprost 0.03% + timolol 0.5%. The treatment duration was 6 months.
 
 Studies 301 and 302 were designed to show superiority of latanoprost + netarsudil when dosed once daily in the evening over its individual components netarsudil 0.02% once daily and latanoprost 0.005% once daily. The primary efficacy outcome measure was least squares (LS) mean IOP at each of 9 timepoints measured at 08:00, 10:00 and 16:00 on day 15, day 43 and day 90. The average IOP lowering effect of latanoprost + netarsudil was 1 to 3 mmHg greater than monotherapy with either netarsudil 0.02% or latanoprost 0.005% throughout 3 months (Figures 1 and 2). In Study 301 IOP reductions were maintained, showing statistical superiority of latanoprost + netarsudil throughout the 12-month treatment period. In all cases, the differences in the LS mean IOP were clinically relevant and statistically significant (p &lt; 0.0001) through month 3. Approximately 30% of subjects included in the Phase 3 studies had a baseline IOP of ≥ 27 mmHg (132, 136 and 143 in the latanoprost + netarsudil, latanoprost and netarsudil treatment groups, respectively). In these subjects, latanoprost + netarsudil showed statistically significantly superior IOP-lowering efficacy to each of its components at all time points. Across both studies, compared to latanoprost alone, the combination product reduced IOP by a further 1.7 mmHg to 3.7 mmHg, and compared to netarsudil alone by a further 3.4 mmHg to 5.9 mmHg.
 
@@ -311,19 +297,17 @@ Figure 2: Study 302 mean IOP (mmHg) by treatment group and treatment difference 
 
 The LS mean IOP at each post-baseline time point was derived using an analysis of covariance adjusted for baseline IOP and based on observed data for all randomized subjects (245 in latanoprost + netarsudil group, 255 in netarsudil group, 250 in latanoprost group).
 
-Approximately 67% of subjects included in the latanoprost + netarsudil treatment groups of Phase 3 studies were caucasian and 30% black or african american. Over half were aged ≥ 65 years. With the exception of the incidence of cornea verticillata (section 4.8); no other difference in safety profile was observed between races or age groups.
+Approximately 67% of subjects included in the latanoprost + netarsudil treatment groups of Phase 3 studies were Caucasian and 30% black or African American. Over half were aged ≥ 65 years. With the exception of the incidence of cornea verticillata (section 4.8); no other difference in safety profile was observed between races or age groups.
 
 Completion rates in studies 301 and 302 were lower in the latanoprost + netarsudil treatment groups when compared with the latanoprost group. Discontinuation rates due to adverse events at month 3 were 8.7% for the pooled latanoprost + netarsudil treatment group versus 7.6% for the pooled netarsudil group and 1.0% for the pooled latanoprost group. Discontinuation rates due to adverse events at month 12 in Study 301 were 19.7% for the latanoprost + netarsudil treatment group versus 21.7% for the netarsudil group and 1.7% for the latanoprost group. The majority of discontinuations were associated with ocular events. The most frequently reported adverse event associated with discontinuation in the latanoprost + netarsudil group was conjunctival hyperemia (7.6% at month 12). The majority of ocular adverse events reported with netarsudil + latanoprost were mild in intensity.
 
 Study 303 was a prospective, double-masked, randomized, multicenter, active-controlled, parallelgroup, 6-month study assessing the safety and ocular hypotensive efficacy of latanoprost + netarsudil compared to bimatoprost + timolol in 430 subjects with elevated intraocular pressure. Subjects were randomly assigned to a planned fixed-dose treatment regimen with latanoprost + netarsudil one drop (218 subjects), once daily (QD) each evening in both eyes (OU) or comparator bimatoprost + timolol (212 subjects) one drop QD each evening OU for approximately 180 days following a washout period.
 
-The primary efficacy outcome was the comparison of latanoprost + netarsudil to bimatoprost + timolol for Mean IOP at specified timepoints at Week 2, Week 6, and Month 3. The primary analysis was
+The primary efficacy outcome was the comparison of latanoprost + netarsudil to bimatoprost + timolol for Mean IOP at specified timepoints at Week 2, Week 6, and Month 3. The primary analysis was performed on the ITT population with imputation by Markov Chain Monte Carlo (MCMC) method. This analysis demonstrated clinical non-inferiority of latanoprost + netarsudil ophthalmic solution relative to bimatoprost + timolol dosed QD in the ITT population with the upper limit of the 95% CIs around the difference (latanoprost + netarsudil - bimatoprost + timolol) ≤ 1.5 mmHg at all 9 time points and ≤ 1.0 mmHg at the majority (6 out of 9) of time points from Week 2 through Month 3, meeting the criteria for success. The threshold for clinical non-inferiority of latanoprost + netarsudil QD relative to bimatoprost + timolol QD (the between-group difference ≤ 1.5 mmHg) was demonstrated in the PP population at 8 out of 9 time points (08:00, 10.00, and 16:00) at week 2, through month 3 using the MCMC method. However, clinical non inferiority was not met overall since at the week 6 08:00 time point, the upper bound 95% CI was 1.55. Overall, there was a similar mean IOP reduction throughout the day of approximately 9.5 mmHg between both the latanoprost + netarsudil and bimatoprost + timolol treatment group.
 
 <div style=\"page-break-after: always\"></div>
 
-performed on the ITT population with imputation by Markov Chain Monte Carlo (MCMC) method. This analysis demonstrated clinical non-inferiority of latanoprost + netarsudil ophthalmic solution relative to bimatoprost + timolol dosed QD in the ITT population with the upper limit of the 95% CIs around the difference (latanoprost + netarsudil bimatoprost + timolol) ≤ 1.5 mmHg at all 9 time points and ≤ 1.0 mmHg at the majority (6 out of 9) of time points from Week 2 through Month 3, meeting the criteria for success. The threshold for clinical non-inferiority of latanoprost + netarsudil QD relative to bimatoprost + timolol QD (the betweengroup difference ≤ 1.5 mmHg) was demonstrated in the PP population at 8 out of 9 time points (08:00, 10.00, and 16:00) at week 2, through month 3 using the MCMC method. However, clinical non inferiority was not met overall since at the week 6 08:00 time point, the upper bound 95% CI was 1.55. Overall, there was a similar mean IOP reduction throughout the day of approximately 9.5 mmHg between both the latanoprost + netarsudil and bimatoprost + timolol treatment group.
-
-The overall rate of discontinuation from the study treatment due to a TEAE was 11.2%. More subjects in the latanoprost + netarsudil QD treatment group   discontinued from the study treatment due to a TEAE (20.2%) compared to   the bimatoprost + timolol QD group (1.9%), and the majority of TEAEs leading to discontinuation were ocular TEAEs. No serious treatment-related adverse events were reported in any treatment group, and the safety profile remains consistent with the known profile for latanoprost + netarsudil, and/or latanoprost or netarsudil alone.
+The overall rate of discontinuation from the study treatment due to a TEAE was 11.2%. More subjects in the latanoprost + netarsudil QD treatment group discontinued from the study treatment due to a TEAE (20.2%) compared to the bimatoprost + timolol QD group (1.9%), and the majority of TEAEs leading to discontinuation were ocular TEAEs. No serious treatment-related adverse events were reported in any treatment group, and the safety profile remains consistent with the known profile for latanoprost + netarsudil, and/or latanoprost or netarsudil alone.
 
 The efficacy and safety of latanoprost + netarsudil in subjects with compromised corneal epithelium or co-existing ocular pathologies e.g. pseudoexfoliation and dispersion pigment syndrome has not been established.
 
@@ -355,7 +339,7 @@ There is practically no metabolism of the acid of latanoprost in the eye. The ma
 
 Non-clinical data with netarsudil reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity and toxicity to development. Effects in non-clinical studies were observed only at exposures considered sufficiently in excess of the maximum human exposure indicating little relevance to clinical use.
 
-Intravenous administration of netarsudil to pregnant rats and rabbits during organogenesis did not produce adverse embryofetal effects at clinically relevant systemic exposures. In pregnant rats, 0.1 mg/kg/day showed no adverse maternal or embryofoetal effects, whereas increased post-implantation loss and reduced foetal viability was observed at 0.3 mg/kg/day and higher. In pregnant rabbits, 3 mg/kg/day showed no maternal or embryofoetal effects, whereas an increase in post-implantation loss and a decrease in foetal weight were observed at 5 mg/kg/day.
+Intravenous administration of netarsudil to pregnant rats and rabbits during organogenesis did not produce adverse embryofoetal effects at clinically relevant systemic exposures. In pregnant rats, 0.1 mg/kg/day showed no adverse maternal or embryofoetal effects, whereas increased post-implantation loss and reduced foetal viability was observed at 0.3 mg/kg/day and higher. In pregnant rabbits, 3 mg/kg/day showed no maternal or embryofoetal effects, whereas an increase in post-implantation loss and a decrease in foetal weight were observed at 5 mg/kg/day.
 
 Long-term studies in animals have not been performed to evaluate the carcinogenic potential of netarsudil.
 
@@ -371,9 +355,9 @@ In the eye, no toxic effects have been detected with doses of up to 100 microgra
 
 In chronic ocular toxicity studies, administration of latanoprost 6 micrograms/eye/day has also been shown to induce increased palpebral fissure. This effect is reversible and occurs at doses above the clinical dose level. The effect has not been seen in humans.
 
-Latanoprost was found negative in reverse mutation tests in bacteria, gene mutation in mouse lymphoma and mouse micronucleus test. Chromosome aberrations were observed in vitro with human lymphocytes. Similar effects were observed with prostaglandin F2 α , a naturally occurring prostaglandin, and indicates that this is a class effect.
+Latanoprost was found negative in reverse mutation tests in bacteria, gene mutation in mouse lymphoma and mouse micronucleus test. Chromosome aberrations were observed in vitro with human lymphocytes. Similar effects were observed with prostaglandin F2α, a naturally occurring prostaglandin, and indicates that this is a class effect.
 
-Additional mutagenicity studies on in vitro / in vivo unscheduled DNA synthesis in rats were negative and indicate that latanoprost does not have mutagenic potency. Carcinogenicity studies in mice and rats were negative.
+Additional mutagenicity studies on in vitro/in vivo unscheduled DNA synthesis in rats were negative and indicate that latanoprost does not have mutagenic potency. Carcinogenicity studies in mice and rats were negative.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -427,9 +411,7 @@ EU/1/20/1502/001 EU/1/20/1502/002 EU/1/20/1502/003 EU/1/20/1502/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 7 January 2021
-
-Date of latest renewal: 14 August 2025
+Date of first authorisation: 7 January 2021 Date of latest renewal: 14 August 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -487,7 +469,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -537,36 +519,38 @@ Open date (3): \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-Store in a refrigerator.
+Store in a refrigerator. Store in the original carton in order to protect from light.
 
-Store in the original carton in order to protect from light.
+| 10.                                                                     | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS           |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Santen Oy Niittyhaankatu 20 33720 Tampere Finland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
-EU/1/20/1502/001
+EU/1/20/1502/001 EU/1/20/1502/002 EU/1/20/1502/003 EU/1/20/1502/004
 
-EU/1/20/1502/002
-
-EU/1/20/1502/003
-
-EU/1/20/1502/004
-
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Roclanda
 
@@ -575,34 +559,44 @@ Roclanda
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS BOTTLE LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| BOTTLE LABEL                                                       |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Roclanda 50 micrograms/ml + 200 micrograms/ml eye drops, solution latanoprost + netarsudil Ocular use
+Roclanda 50 micrograms/ml + 200 micrograms/ml eye drops, solution latanoprost + netarsudil
 
-## 2. METHOD OF ADMINISTRATION
+Ocular use
 
-3. EXPIRY DATE
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2.5 ml
 
-6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -618,10 +612,10 @@ latanoprost + netarsudil
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -642,14 +636,13 @@ Roclanda is used to lower pressure in the eyes in adults who have an eye conditi
 
 ## Do not use Roclanda
 
-- -if you are allergic to latanoprost or netarsudil or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to latanoprost or netarsudil or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
-Talk to your doctor or pharmacist before using Roclanda if you think any of the following applies to you:
+Talk to your doctor or pharmacist before using Roclanda if you think any of the following applies to you: · If you suffer from dry eyes;
 
-- If you suffer from dry eyes;
-- If you or your child suffer from eye problems (such as eye pain, irritation or inflammation, blurred vision);
+- If you suffer from eye problems (such as eye pain, irritation or inflammation, blurred vision);
 - If you have severe asthma or asthma that is not well controlled;
 - If you have suffered or are currently suffering from a viral infection of the eye caused by the herpes simplex virus.
 - If you wear contact lenses. You can still use Roclanda, but follow the instruction for contact lens wearers in section 3
@@ -709,11 +702,11 @@ Do not use more than one drop in the affected eye once a day.
 - Gently squeeze the bottle to release one drop of Roclanda into your eye.
 - Only put one drop into your eye each time. If a drop misses your eye, try again.
 - Press a finger against the corner of the eye by the nose. Hold for 1 minute whilst keeping the eye closed.
-- If you need to use the drops in both eyes , repeat the steps for your other eye while you have the bottle open.
+- If you need to use the drops in both eyes, repeat the steps for your other eye while you have the bottle open.
 - Put back the bottle cap to close the bottle.
 - Put the bottle back into the carton to protect the drops from light until you need to use the drops again.
 
-If you are using other eye drops , wait at least five minutes after using them and then use Roclanda last due to netarsudil's ability to widen blood vessels. If you are using an eye ointment, it should be used last.
+If you are using other eye drops, wait at least five minutes after using them and then use Roclanda last due to netarsudil's ability to widen blood vessels. If you are using an eye ointment, it should be used last.
 
 ## If you use more Roclanda than you should
 
@@ -737,56 +730,40 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 The following side effects have been observed with Roclanda and other medicines containing latanoprost and netarsudil alone:
 
-## · Very common (may affect more than 1 in 10 people)
-
+- Very common (may affect more than 1 in 10 people)
 - o Effects in the eye:
 -  Eye redness; fine deposits on the front of the eye (corneal verticillata)
--  Pain where the drops have been put in
+-  Eye pain
 -  A gradual increase in the amount of brown pigment in the coloured part of the eye (the iris) leading to altered eye colour
 -  A gradual increase in the colour (darkening), length, thickness and number of your eye lashes
-
-## · Common (may affect up to 1 in 10 people)
-
+- Common (may affect up to 1 in 10 people)
 - o Effects in the eye:
 -  General eye redness shortly after drops are put in; spots or patches of eye redness
 -  Infection or inflammation of the eye; conjunctivitis (eye inflammation or prominent blood vessels) caused by an allergic reaction; dryness of the eye or small breaks in the film of liquid on the surface of the eye (punctate keratitis)
--  Eye discharge; watery eyes
+-  Watery eyes; feeling of grittiness or having something in the eye; eye irritation, itchiness and discomfort
 -  Itchy eyelids; swelling around the eye; eyelid crusting
--  Clouding of the eye and slight decrease in vision; blurred vision
--  Eye pain; feeling of grittiness or having something in the eye
-- o General side effects
--  Redness or itching of the skin on your face
-
-## · Uncommon (may affect up to 1 in 100 people)
-
+-  Slight decrease in vision; blurred vision
+- Uncommon (may affect up to 1 in 100 people)
 - o Effects in the eye:
--  Increased fluid pressure inside the eye
--  Inflammation of the coloured part of the eye (the iris); bulging of iris
--  Increased wrinkling of the clear layer over the eye where it meets with the lower eyelid (conjunctivochalasis); small colored spots on the eye surface; shiny/glassy eyes; tiredness; numbness or burning in the eye; increased sensitivity to light
+-  Inflammation of the eye and coloured part of the eye (the iris)
+-  Tiredness or numbness in the eye; increased sensitivity to light
 -  Eye allergy
--  Blindness; double or halo vision
--  Blocked tear duct; eye dryness caused by inflammation of the glands of the eyelids
--  Abnormal turning outward of the lower eyelid; loss of eyelashes (madarosis); discoloration of eyelid skin
--  Eye disease related to diabetes (diabetic retinopathy)
+-  Eye discharge
+-  Blocked tear duct
+-  Discoloration of eyelid skin, eyelid itching
 - o Side effects in other parts of the body
--  Blocked nose; nosebleed; nasal discomfort and pain
--  Headache; dizziness; feeling sick (nausea, vomiting)
--  Redness or itching of the skin; dry skin; thickening of the skin; picking at your skin
--  Muscle pain or spasm or weakness; joint pain; jaw pain; inflammation of the cartilage
+-  Nasal discomfortHeadache; dizziness; feeling sick (nausea, vomiting)
+-  Redness or itching of the skin, especially on your face
+-  Muscle and joint pain
 -  Chest pain (angina); awareness of heart beat (palpitations)
 -  Asthma; shortness of breath (dyspnoea)
-
-## · Rare (may affect up to 1 in 1 000 people)
-
+- Rare (may affect up to 1 in 1 000 people)
 - o Effects in the eye:
 -  Swelling or scratching with damage to the surface of the eye; swelling around the eye (periorbital oedema); scarring of the surface of the eye
 -  Eyelashes growing in the wrong direction or an extra row of eyelashes
 -  Fluid filled area within the coloured part of the eye (iris cyst)
 -  Skin reactions on the eyelids; darkening of the skin of the eyelids
 -  Viral infection of the eye caused by herpes simplex virus (HSV)
-
-<div style=\"page-break-after: always\"></div>
-
 - o Side effects in other parts of the body
 -  Worsening of asthma
 -  Severe itching of the skin
@@ -799,6 +776,8 @@ The following side effects have been observed with Roclanda and other medicines 
 - o Effects in the eye:
 -  Swelling of the clear outer layer of the eye (reticular epithelial corneal oedema)
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side affects you can help provide more information on the safety of this medicine.
@@ -807,7 +786,7 @@ If you get any side effects, talk to your doctor, or pharmacist. This includes a
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and bottle label after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and bottle label after \"EXP\". The expiry date refers to the last day of that month.
 
 Unopened bottle: Store in a refrigerator (2 °C - 8 °C). After opening the bottle: Do not store above 25 °C.
 
@@ -821,8 +800,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Roclanda contains
 
-- -The active substances are latanoprost and netarsudil. Each ml of solution contains 50 micrograms latanoprost and 200 micrograms netarsudil (as mesylate).
-- -The other excipients are benzalkonium chloride (see section 2 under 'Roclanda contains benzalkonium chloride'), mannitol (E 421), boric acid, sodium hydroxide (E 524) (for pH adjustment) and water for injections.
+- The active substances are latanoprost and netarsudil. Each ml of solution contains 50 micrograms latanoprost and 200 micrograms netarsudil (as mesylate).
+- The other excipients are benzalkonium chloride (see section 2 under 'Roclanda contains benzalkonium chloride'), mannitol (E 421), boric acid, sodium hydroxide (E 524) (for pH adjustment) and water for injections.
 
 ## What Roclanda looks like and contents of the pack
 
@@ -833,8 +812,6 @@ Roclanda 50 micrograms/ml + 200 micrograms/ml eye drops, solution (eye drops) is
 Santen Oy
 
 Niittyhaankatu 20, 33720 Tampere, Finland
-
-<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -850,180 +827,126 @@ Santen Oy
 
 Tél/Tel: +32 (0) 24019172
 
-## България
-
-Santen Oy
-
-Teл.: +40 21 528 0290
-
-## Česká republika
-
-Santen Oy
-
-Tel: +358 (0) 3 284 8111
-
-## Danmark
-
-Santen Oy
-
-Tlf.: +45 898 713 35
-
-## Deutschland
-
-## Lietuva
+Lietuva
 
 Santen Oy
 
 Tel: +370 37 366628
 
-## Luxembourg/Luxemburg
+<div style=\"page-break-after: always\"></div>
 
-Santen Oy
+## България
 
-Tél/Tel: +352 (0) 27862006
+Santen Oy Teл.: +40 21 528 0290
 
-## Magyarország
+## Česká republika
 
-Santen Oy
+Santen Oy Tel: +421 908 100 103
 
-Tel: +358 (0) 3 284 8111
+## Danmark
 
-## Malta
+Santen Oy Tlf.: +45 898 713 35
 
-Santen Oy
+## Deutschland
 
-Tel: +358 (0) 3 284 8111
-
-## Nederland
-
-Santen GmbH
-
-Tel: +49 (0) 3030809610
+Santen GmbH Tel: +49 (0) 3030809610
 
 ## Eesti
 
-Santen Oy
-
-Tel: +372 5067559
+Santen Oy Tel: +372 5067559
 
 ## Ελλάδα
 
-Santen Oy
-
-Τηλ: +
-
-358 (0) 3 284 8111
+Santen Oy Τηλ: + 358 (0) 3 284 8111
 
 ## España
 
-Santen Oy
-
-Tel: +31 (0) 207139206
-
-## Norge
-
-Santen Oy
-
-Tlf: +47 21939612
-
-## Österreich
-
-Santen Oy
-
-Tel: +43 (0) 720116199
-
-## Polska
-
-Santen Pharmaceutical Spain S.L.
-
-Tel: + 34 914 142 485
+Santen Pharmaceutical Spain S.L. Tel: + 34 914 142 485
 
 ## France
 
-Santen S.A.S.
-
-Tél: +33 (0) 1 70 75 26 84
+Santen S.A.S. Tél: +33 (0) 1 70 75 26 84
 
 ## Hrvatska
 
-Santen Oy
-
-Tel: +358 (0) 3 284 8111
+Santen Oy Tel: +358 (0) 3 284 8111
 
 ## Ireland
 
-Santen Oy
-
-Tel: +353 (0) 16950008
+Santen Oy Tel: +353 (0) 16950008
 
 ## Ísland
 
-Santen Oy
-
-Sími: +358 (0) 3 284 8111
+Santen Oy Sími: +358 (0) 3 284 8111
 
 ## Italia
 
-Santen Italy S.r.l.
-
-Santen Oy
-
-Tel.: +48(0) 221042096
-
-## Portugal
-
-Santen Oy
-
-Tel: +351 308 805 912
-
-## România
-
-Santen Oy
-
-Tel: +358 (0) 3 284 8111
-
-## Slovenija
-
-Santen Oy
-
-Tel: +358 (0) 3 284 8111
-
-## Slovenská republika
-
-Santen Oy
-
-Tel: +358 (0) 3 284 8111
-
-## Suomi/Finland
-
-Santen Oy
-
-<div style=\"page-break-after: always\"></div>
-
-Tel: +39 0236009983
+Santen Italy S.r.l. Tel: +39 0236009983
 
 ## Κύπρος
 
-Santen Oy
-
-Τηλ: + 358 (0) 3 284 8111
+Santen Oy Τηλ: +358 (0) 3 284 8111
 
 ## Latvija
 
-Santen Oy
+Santen Oy Tel: +371 677 917 80
 
-Tel: +371 677 917 80
+## Luxembourg/Luxemburg
+
+Santen Oy Tél/Tel: +352 (0) 27862006
+
+## Magyarország
+
+Santen Oy Tel: +358 (0) 3 284 8111
+
+## Malta
+
+Santen Oy Tel: +358 (0) 3 284 8111
+
+## Nederland
+
+Santen Oy Tel: +31 (0) 207139206
+
+## Norge
+
+Santen Oy Tlf: +47 21939612
+
+## Österreich
+
+Santen Oy Tel: +43 (0) 720116199
+
+## Polska
+
+Santen Oy Tel.: +48(0) 221042096
+
+## Portugal
+
+Santen Oy Tel: +351 308 805 912
+
+## România
+
+Santen Oy Tel: +358 (0) 3 284 8111
+
+## Slovenija
+
+Santen Oy Tel: +358 (0) 3 284 8111
+
+## Slovenská republika
+
+Santen Oy Tel: +421 908 100 103
+
+## Suomi/Finland
+
+Santen Oy Puh/Tel: +358 (0) 974790211
+
+## Sverige
+
+Santen Oy Tel: +46 (0) 850598833
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-Puh/Tel: +358 (0) 974790211
-
-Sverige
-
-Santen Oy
-
-Tel: +46 (0) 850598833

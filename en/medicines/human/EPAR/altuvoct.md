@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-08 16:30:00
+document_datetime: 2026-10-12 16:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/altuvoct.html
 document_name: altuvoct.html
 version: success
-processing_time: 0.132083
-conversion_datetime: 2026-07-10 22:39:48.733026
+processing_time: 0.1941005
+conversion_datetime: 2026-10-15 20:01:44.669245
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.111.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.139.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Altuvoct
 
 [RSS](/en/individual-human-medicine.xml/241779)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -116,7 +116,7 @@ English (EN) (113.94 KB - PDF)
 
 [View](/en/documents/overview/altuvoct-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-360)
+[Other languages (22)](#file-language-dropdown-320)
 
 български (BG) (137.76 KB - PDF)
 
@@ -262,167 +262,167 @@ English (EN) (783.3 KB - PDF)
 
 Altuvoct : EPAR - Product information
 
-English (EN) (585.52 KB - PDF)
+English (EN) (445.29 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/en/documents/product-information/altuvoct-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-648)
+[Other languages (24)](#file-language-dropdown-338)
 
-български (BG) (787.12 KB - PDF)
+български (BG) (539.35 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/bg/documents/product-information/altuvoct-epar-product-information_bg.pdf)
 
-español (ES) (713.47 KB - PDF)
+español (ES) (423.81 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/es/documents/product-information/altuvoct-epar-product-information_es.pdf)
 
-čeština (CS) (832.34 KB - PDF)
+čeština (CS) (514.28 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/cs/documents/product-information/altuvoct-epar-product-information_cs.pdf)
 
-dansk (DA) (715.65 KB - PDF)
+dansk (DA) (418.78 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/da/documents/product-information/altuvoct-epar-product-information_da.pdf)
 
-Deutsch (DE) (755.37 KB - PDF)
+Deutsch (DE) (466.08 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/de/documents/product-information/altuvoct-epar-product-information_de.pdf)
 
-eesti (ET) (711.56 KB - PDF)
+eesti (ET) (414.5 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/et/documents/product-information/altuvoct-epar-product-information_et.pdf)
 
-ελληνικά (EL) (805.04 KB - PDF)
+ελληνικά (EL) (552.63 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/el/documents/product-information/altuvoct-epar-product-information_el.pdf)
 
-français (FR) (783.26 KB - PDF)
+français (FR) (447.92 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/fr/documents/product-information/altuvoct-epar-product-information_fr.pdf)
 
-hrvatski (HR) (766.08 KB - PDF)
+hrvatski (HR) (491.23 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/hr/documents/product-information/altuvoct-epar-product-information_hr.pdf)
 
-italiano (IT) (803.82 KB - PDF)
+italiano (IT) (435.71 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/it/documents/product-information/altuvoct-epar-product-information_it.pdf)
 
-latviešu (LV) (795.4 KB - PDF)
+latviešu (LV) (507.89 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/lv/documents/product-information/altuvoct-epar-product-information_lv.pdf)
 
-lietuvių (LT) (785.69 KB - PDF)
+lietuvių (LT) (505.27 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/lt/documents/product-information/altuvoct-epar-product-information_lt.pdf)
 
-magyar (HU) (806.67 KB - PDF)
+magyar (HU) (523.26 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/hu/documents/product-information/altuvoct-epar-product-information_hu.pdf)
 
-Malti (MT) (925.63 KB - PDF)
+Malti (MT) (546.78 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/mt/documents/product-information/altuvoct-epar-product-information_mt.pdf)
 
-Nederlands (NL) (761.36 KB - PDF)
+Nederlands (NL) (428.84 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/nl/documents/product-information/altuvoct-epar-product-information_nl.pdf)
 
-polski (PL) (848.67 KB - PDF)
+polski (PL) (532.96 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/pl/documents/product-information/altuvoct-epar-product-information_pl.pdf)
 
-português (PT) (721.38 KB - PDF)
+português (PT) (426.83 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/pt/documents/product-information/altuvoct-epar-product-information_pt.pdf)
 
-română (RO) (772.92 KB - PDF)
+română (RO) (517.53 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/ro/documents/product-information/altuvoct-epar-product-information_ro.pdf)
 
-slovenčina (SK) (859.23 KB - PDF)
+slovenčina (SK) (520.45 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/sk/documents/product-information/altuvoct-epar-product-information_sk.pdf)
 
-slovenščina (SL) (776.12 KB - PDF)
+slovenščina (SL) (501.22 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/sl/documents/product-information/altuvoct-epar-product-information_sl.pdf)
 
-suomi (FI) (731.53 KB - PDF)
+suomi (FI) (425.73 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/fi/documents/product-information/altuvoct-epar-product-information_fi.pdf)
 
-svenska (SV) (709.96 KB - PDF)
+svenska (SV) (418.2 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/sv/documents/product-information/altuvoct-epar-product-information_sv.pdf)
 
-Íslenska (IS) (710.39 KB - PDF)
+Íslenska (IS) (418.8 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/is/documents/product-information/altuvoct-epar-product-information_is.pdf)
 
-norsk (NO) (737.2 KB - PDF)
+norsk (NO) (416.26 KB - PDF)
 
-**First published:** 12/07/2024 **Last updated:** 06/07/2026
+**First published:** 12/07/2024 **Last updated:** 12/10/2026
 
 [View](/no/documents/product-information/altuvoct-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000357949
+**Latest procedure affecting product information:** VR/0000367632
 
-03/07/2026
+12/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -441,7 +441,7 @@ English (EN) (24.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/altuvoct-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-745)
+[Other languages (24)](#file-language-dropdown-196)
 
 български (BG) (56.86 KB - PDF)
 
@@ -619,13 +619,15 @@ Altuvoct can be used for all age groups.
 - **Orphan**
     - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
 - **Marketing authorisation holder**
-    - Swedish Orphan Biovitrum AB (publ) SE-112 76  112 76 Stockholm  Sweden
+    - Swedish Orphan Biovitrum AB (publ) SE-112 76  
+112 76 Stockholm  
+Sweden
 - **Opinion adopted**
     - 25/04/2024
 - **Marketing authorisation issued**
     - 17/06/2024
 - **Revision**
-    - 4
+    - 5
 
 ## Assessment history
 
@@ -637,9 +639,9 @@ Collapse section
 
 Altuvoct : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (134.76 KB - PDF)
+English (EN) (189.89 KB - PDF)
 
-**First published:** 19/12/2025 **Last updated:** 06/07/2026
+**First published:** 19/12/2025 **Last updated:** 12/10/2026
 
 [View](/en/documents/procedural-steps-after/altuvoct-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -715,6 +717,6 @@ English (EN) (121.13 KB - PDF)
 
 **This page was last updated on**
 
-08/07/2026
+12/10/2026
 
 ## Share this page

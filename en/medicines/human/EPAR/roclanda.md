@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-03-24 14:54:00
+document_datetime: 2026-10-12 16:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/roclanda.html
 document_name: roclanda.html
 version: success
-processing_time: 0.0885935
-conversion_datetime: 2026-03-25 12:45:34.207396
+processing_time: 0.1724903
+conversion_datetime: 2026-10-15 20:03:17.205914
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.139.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Roclanda
 
 [RSS](/en/individual-human-medicine.xml/67393)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -53,25 +53,25 @@ Expand section
 
 Collapse section
 
-## How is Roclanda used?
+### How is Roclanda used?
 
 The medicine can only be obtained with a prescription and treatment should be started by an eye specialist. It is available as an eye-drop solution and the dose is one drop in the affected eye, in the evening.
 
 For more information about using Roclanda, see the package leaflet or contact your healthcare provider.
 
-## How does Roclanda work?
+### How does Roclanda work?
 
 Raised pressure in the eye can cause damage to the retina (the light-sensitive membrane at the back of the eye) and to the optic nerve that sends signals from the eye to the brain. This can result in serious vision loss and even blindness.
 
 Roclanda contains two active substances, netarsudil and latanoprost, which lower the pressure in the eye in different ways. Latanoprost is a prostaglandin analogue (a copy of the natural substance prostaglandin) that works by increasing the drainage of fluid out of the eye. Netarsudil blocks the activity of an enzyme called Rho kinase, which has a role in controlling fluid drainage from the eye. By blocking this enzyme, netarsudil increases the flow of fluid out of the eyeball, thereby lowering pressure inside the eye. Together, the two active substances reduce the pressure inside the eye more than either medicine alone.
 
-## What benefits of Roclanda have been shown in studies?
+### What benefits of Roclanda have been shown in studies?
 
 Two main studies involving a total of 1,468 adults with glaucoma or ocular hypertension showed that Roclanda is more effective at lowering eye pressure than either of its two active substances given alone.
 
 Both studies measured the pressure inside the eye at 9 different time points over a period of 3 months. Taken together, the results from the two studies showed that pressure inside the eye in patients treated with Roclanda was between 15.03 and 16.38 mmHg, compared with between 17.35 and 19.39 mmHg in those treated with netarsudil and between 16.93 and 17.96 mmHg in those treated with latanoprost.
 
-## What are the risks associated with Roclanda?
+### What are the risks associated with Roclanda?
 
 The most common side effects with Roclanda (which may affect more than 1 in 10 people) are conjunctival hyperaemia (red eye), pain at the site where the medicine was applied and cornea verticillata (deposits in the cornea, the transparent layer in front of the eye that covers the pupil and iris).
 
@@ -79,7 +79,7 @@ Other common side effects (which may affect up to 1 in 10 people) are eye prurit
 
 For the full list of side effects and restrictions of Roclanda, see the package leaflet.
 
-## Why is Roclanda authorised in the EU?
+### Why is Roclanda authorised in the EU?
 
 Roclanda, which combines two medicines to reduce pressure inside the eye, is more effective than the individual medicines given alone. This offers another treatment option for patients with open-angle glaucoma or ocular hypertension in whom a prostaglandin analogue or netarsudil alone have not sufficiently reduced the pressure. Reducing pressure inside the eye can prevent eye pain and loss of vision.
 
@@ -87,13 +87,13 @@ The side effects of Roclanda are generally mild to moderate and considered manag
 
 The European Medicines Agency decided that Roclanda's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Roclanda?
+### What measures are being taken to ensure the safe and effective use of Roclanda?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Roclanda have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Roclanda are continuously monitored. Side effects reported with Roclanda are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Roclanda
+### Other information about Roclanda
 
 Roclanda received a marketing authorisation valid throughout the EU on 07 January 2021.
 
@@ -107,7 +107,7 @@ English (EN) (138.47 KB - PDF)
 
 [View](/en/documents/overview/roclanda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-10)
+[Other languages (22)](#file-language-dropdown-175)
 
 български (BG) (142.64 KB - PDF)
 
@@ -139,7 +139,7 @@ Deutsch (DE) (120.57 KB - PDF)
 
 [View](/de/documents/overview/roclanda-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (104.59 KB - PDF)
+eesti (ET) (104.59 KB - PDF)
 
 **First published:** 21/01/2021
 
@@ -169,13 +169,13 @@ italiano (IT) (115.99 KB - PDF)
 
 [View](/it/documents/overview/roclanda-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (146.81 KB - PDF)
+latviešu (LV) (146.81 KB - PDF)
 
 **First published:** 21/01/2021
 
 [View](/lv/documents/overview/roclanda-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (137.9 KB - PDF)
+lietuvių (LT) (137.9 KB - PDF)
 
 **First published:** 21/01/2021
 
@@ -229,7 +229,7 @@ slovenščina (SL) (133.94 KB - PDF)
 
 [View](/sl/documents/overview/roclanda-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (114.42 KB - PDF)
+suomi (FI) (114.42 KB - PDF)
 
 **First published:** 21/01/2021
 
@@ -253,167 +253,168 @@ English (EN) (629.91 KB - PDF)
 
 Roclanda : EPAR - Product information
 
-English (EN) (301.69 KB - PDF)
+English (EN) (287.62 KB - PDF)
 
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
+**First published:** 21/01/2021 **Last updated:** 12/10/2026
 
 [View](/en/documents/product-information/roclanda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-508)
+[Other languages (24)](#file-language-dropdown-338)
 
-български (BG) (411.59 KB - PDF)
+български (BG) (451.52 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/bg/documents/product-information/roclanda-epar-product-information_bg.pdf)
 
-español (ES) (366.75 KB - PDF)
+español (ES) (315.62 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/es/documents/product-information/roclanda-epar-product-information_es.pdf)
 
-čeština (CS) (387.88 KB - PDF)
+čeština (CS) (489.23 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/cs/documents/product-information/roclanda-epar-product-information_cs.pdf)
 
-dansk (DA) (395.89 KB - PDF)
+dansk (DA) (411.74 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/da/documents/product-information/roclanda-epar-product-information_da.pdf)
 
-Deutsch (DE) (379.05 KB - PDF)
+Deutsch (DE) (554.68 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/de/documents/product-information/roclanda-epar-product-information_de.pdf)
 
-eesti keel (ET) (386.11 KB - PDF)
+eesti (ET) (287.81 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/et/documents/product-information/roclanda-epar-product-information_et.pdf)
 
-ελληνικά (EL) (425.06 KB - PDF)
+ελληνικά (EL) (614.2 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/el/documents/product-information/roclanda-epar-product-information_el.pdf)
 
-français (FR) (304.65 KB - PDF)
+français (FR) (316.96 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/fr/documents/product-information/roclanda-epar-product-information_fr.pdf)
 
-hrvatski (HR) (389.03 KB - PDF)
+hrvatski (HR) (423.21 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/hr/documents/product-information/roclanda-epar-product-information_hr.pdf)
 
-íslenska (IS) (403.71 KB - PDF)
-
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
-
-[View](/is/documents/product-information/roclanda-epar-product-information_is.pdf)
-
-italiano (IT) (306.71 KB - PDF)
+italiano (IT) (357.05 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/it/documents/product-information/roclanda-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (388.55 KB - PDF)
+latviešu (LV) (381.74 KB - PDF)
 
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
+**First published:** 21/01/2021 **Last updated:** 12/10/2026
 
 [View](/lv/documents/product-information/roclanda-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (398.13 KB - PDF)
+lietuvių (LT) (413.64 KB - PDF)
 
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
+**First published:** 21/01/2021 **Last updated:** 12/10/2026
 
 [View](/lt/documents/product-information/roclanda-epar-product-information_lt.pdf)
 
-magyar (HU) (406.83 KB - PDF)
+magyar (HU) (438.45 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/hu/documents/product-information/roclanda-epar-product-information_hu.pdf)
 
-Malti (MT) (422.69 KB - PDF)
+Malti (MT) (424.88 KB - PDF)
 
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
+**First published:** 21/01/2021 **Last updated:** 12/10/2026
 
 [View](/mt/documents/product-information/roclanda-epar-product-information_mt.pdf)
 
-Nederlands (NL) (365.69 KB - PDF)
+Nederlands (NL) (316.41 KB - PDF)
 
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
+**First published:** 21/01/2021 **Last updated:** 12/10/2026
 
 [View](/nl/documents/product-information/roclanda-epar-product-information_nl.pdf)
 
-norsk (NO) (345.4 KB - PDF)
+polski (PL) (421.08 KB - PDF)
 
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
-
-[View](/no/documents/product-information/roclanda-epar-product-information_no.pdf)
-
-polski (PL) (400.31 KB - PDF)
-
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
+**First published:** 21/01/2021 **Last updated:** 12/10/2026
 
 [View](/pl/documents/product-information/roclanda-epar-product-information_pl.pdf)
 
-português (PT) (362.21 KB - PDF)
+português (PT) (306.64 KB - PDF)
 
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
+**First published:** 21/01/2021 **Last updated:** 12/10/2026
 
 [View](/pt/documents/product-information/roclanda-epar-product-information_pt.pdf)
 
-română (RO) (406.56 KB - PDF)
+română (RO) (426.19 KB - PDF)
 
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
+**First published:** 21/01/2021 **Last updated:** 12/10/2026
 
 [View](/ro/documents/product-information/roclanda-epar-product-information_ro.pdf)
 
-slovenčina (SK) (404.09 KB - PDF)
+slovenčina (SK) (399.34 KB - PDF)
 
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
+**First published:** 21/01/2021 **Last updated:** 12/10/2026
 
 [View](/sk/documents/product-information/roclanda-epar-product-information_sk.pdf)
 
-slovenščina (SL) (383.06 KB - PDF)
+slovenščina (SL) (396.1 KB - PDF)
 
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
+**First published:** 21/01/2021 **Last updated:** 12/10/2026
 
 [View](/sl/documents/product-information/roclanda-epar-product-information_sl.pdf)
 
-Suomi (FI) (361.74 KB - PDF)
+suomi (FI) (473.22 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/fi/documents/product-information/roclanda-epar-product-information_fi.pdf)
 
-svenska (SV) (358.83 KB - PDF)
+svenska (SV) (336.83 KB - PDF)
 
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
+**First published:** 21/01/2021 **Last updated:** 12/10/2026
 
 [View](/sv/documents/product-information/roclanda-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000315343
+Íslenska (IS) (293.74 KB - PDF)
 
-12/02/2026
+**First published:** 21/01/2021 **Last updated:** 12/10/2026
+
+[View](/is/documents/product-information/roclanda-epar-product-information_is.pdf)
+
+norsk (NO) (280.84 KB - PDF)
+
+**First published:** 21/01/2021 **Last updated:** 12/10/2026
+
+[View](/no/documents/product-information/roclanda-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000332900
+
+03/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -431,7 +432,7 @@ English (EN) (16.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-762)
+[Other languages (24)](#file-language-dropdown-327)
 
 български (BG) (54.81 KB - PDF)
 
@@ -463,7 +464,7 @@ Deutsch (DE) (13.35 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (18.22 KB - PDF)
+eesti (ET) (18.22 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
@@ -487,25 +488,19 @@ hrvatski (HR) (47.53 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (18.32 KB - PDF)
-
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
-
-[View](/is/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (18.47 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/it/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (50.69 KB - PDF)
+latviešu (LV) (50.69 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/lv/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (49.51 KB - PDF)
+lietuvių (LT) (49.51 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
@@ -528,12 +523,6 @@ Nederlands (NL) (18.73 KB - PDF)
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
 [View](/nl/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (17.36 KB - PDF)
-
-**First published:** 21/01/2021 **Last updated:** 24/03/2026
-
-[View](/no/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (32.64 KB - PDF)
 
@@ -565,7 +554,7 @@ slovenščina (SL) (29.68 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (18.45 KB - PDF)
+suomi (FI) (18.45 KB - PDF)
 
 **First published:** 21/01/2021 **Last updated:** 24/03/2026
 
@@ -577,29 +566,32 @@ svenska (SV) (17.89 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (18.32 KB - PDF)
+
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
+
+[View](/is/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (17.36 KB - PDF)
+
+**First published:** 21/01/2021 **Last updated:** 24/03/2026
+
+[View](/no/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Roclanda
-
-Active substance
-
-- Latanoprost
-- netarsudil mesilate
-
-International non-proprietary name (INN) or common name
-
-latanoprost / netarsudil
-
-Therapeutic area (MeSH)
-
-- Glaucoma, Open-Angle
-- Ocular Hypertension
-
-Anatomical therapeutic chemical (ATC) code
-
-S01EE
+- **Name of medicine**
+    - Roclanda
+- **Active substance**
+        - Latanoprost
+        - netarsudil mesilate
+- **International non-proprietary name (INN) or common name**
+    - latanoprost / netarsudil
+- **Therapeutic area (MeSH)**
+        - Glaucoma, Open-Angle
+        - Ocular Hypertension
+- **Anatomical therapeutic chemical (ATC) code**
+    - S01EE
 
 ### Pharmacotherapeutic group
 
@@ -611,27 +603,18 @@ Roclanda is indicated for the reduction of elevated intraocular pressure (IOP) i
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005107
-
-Marketing authorisation holder
-
-Santen Oy
-
-Niittyhaankatu 20
-
-Opinion adopted
-
-12/11/2020
-
-Marketing authorisation issued
-
-07/01/2021
-
-Revision
-
-12
+- **EMA product number**
+    - EMEA/H/C/005107
+- **Marketing authorisation holder**
+    - Santen Oy Niittyhaankatu 20  
+33720 Tampere  
+Finland
+- **Opinion adopted**
+    - 12/11/2020
+- **Marketing authorisation issued**
+    - 07/01/2021
+- **Revision**
+    - 13
 
 ## Assessment history
 
@@ -639,13 +622,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Roclanda : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (154.53 KB - PDF)
+English (EN) (163.59 KB - PDF)
 
-**First published:** 17/09/2025 **Last updated:** 24/03/2026
+**First published:** 17/09/2025 **Last updated:** 12/10/2026
 
 [View](/en/documents/procedural-steps-after/roclanda-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -667,7 +650,7 @@ English (EN) (130.98 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/roclanda-h-c-psusa-00010905-202406-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Roclanda : EPAR - Public assessment report
 
@@ -697,6 +680,6 @@ English (EN) (130.82 KB - PDF)
 
 **This page was last updated on**
 
-24/03/2026
+12/10/2026
 
 ## Share this page

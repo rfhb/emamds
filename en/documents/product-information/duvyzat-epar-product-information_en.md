@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-03 10:21:58
+document_datetime: 2026-10-12 14:49:01
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/duvyzat-epar-product-information_en.pdf
 document_name: duvyzat-epar-product-information_en.pdf
 version: success
-processing_time: 12.2855036
-conversion_datetime: 2026-07-04 15:07:26.559301
+processing_time: 13.8709022
+conversion_datetime: 2026-10-15 19:57:22.74343
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.139.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,7 +56,7 @@ Treatment with givinostat should be initiated by a physician experienced in the 
 
 ## Posology
 
-Baseline platelet counts and triglycerides should be obtained and evaluated prior to initiation of givinostat. Givinostat should not be initiated in patients with a platelet count less than 150 x 10 9 /l. Platelet counts and triglycerides should be monitored as recommended during treatment to determine if dosage modifications are needed (see section 4.4 and dose adjustment instructions below) .
+Baseline platelet counts and triglycerides should be obtained and evaluated prior to initiation of givinostat. Givinostat should not be initiated in patients with a platelet count less than 150 x 10 9 /l. Platelet counts and triglycerides should be monitored as recommended during treatment to determine if dosage modifications are needed (see section 4.4 and dose adjustment instructions below).
 
 In addition, in patients with underlying cardiac disease or taking concomitant medicines that cause QT prolongation, an ECG should be obtained when initiating treatment with givinostat, during concomitant use, and as clinically indicated (see section 4.4).
 
@@ -79,25 +79,21 @@ Dose adjustment for thrombocytopenia, diarrhoea or hypertriglyceridaemia
 
 A dose reduction (see Table 2) should be applied for patient with:
 
-- Platelet count &lt; 150 x 10 9 /l verified by two assessments one week apart,
-- or
+- Platelet count &lt; 150 x 10 9 /l verified by two assessments one week apart, or
 - Moderate or severe diarrhoea (more than 4 stools per day),
-
-or
-
+- or
 - Fasting triglycerides &gt; 300 mg/dl verified by two assessments one week apart.
 
 Based on the severity of these adverse reactions, treatment interruption prior to dosage modification should be considered.
 
 Table 2 - Dosage modifications for adverse reactions
 
-|                          | First Dosage Modification (b)   | First Dosage Modification (b)   | Second Dosage Modification (c)   | Second Dosage Modification (c)   |
-|--------------------------|---------------------------------|---------------------------------|----------------------------------|----------------------------------|
-| Weight (a)               | Dosage                          | Oral Suspension Volume          | Dosage                           | Oral Suspension Volume           |
-| 15 kg to less than 20 kg | 17.7 mg twice daily             | 2 ml twice daily                | 13.3 mg twice daily              | 1.5 ml twice daily               |
-| 20 kg to less than 40 kg | 22.2 mg twice daily             | 2.5 ml twice daily              | 17.7 mg twice daily              | 2 ml twice daily                 |
-| 40 kg to less than 60 kg | 31 mg twice daily               | 3.5 ml twice daily              | 26.6 mg twice daily              | 3 ml twice daily                 |
-| 60 kg or more            | 39.9 mg twice daily             | 4.5 ml twice daily              | 35.4 mg twice daily              | 4 ml twice daily                 |
+| Weight (a)               | First Dosage Modification (b) - Dosage   | First Dosage Modification (b) - Oral Suspension Volume   | Second Dosage Modification (c) - Dosage   | Second Dosage Modification (c) - Oral Suspension Volume   |
+|--------------------------|------------------------------------------|----------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------|
+| 15 kg to less than 20 kg | 17.7 mg twice daily                      | 2 ml twice daily                                         | 13.3 mg twice daily                       | 1.5 ml twice daily                                        |
+| 20 kg to less than 40 kg | 22.2 mg twice daily                      | 2.5 ml twice daily                                       | 17.7 mg twice daily                       | 2 ml twice daily                                          |
+| 40 kg to less than 60 kg | 31 mg twice daily                        | 3.5 ml twice daily                                       | 26.6 mg twice daily                       | 3 ml twice daily                                          |
+| 60 kg or more            | 39.9 mg twice daily                      | 4.5 ml twice daily                                       | 35.4 mg twice daily                       | 4 ml twice daily                                          |
 
 Patients should not take a double or extra dose if a dose is missed.
 
@@ -118,6 +114,10 @@ Duvyzat must be taken as it is (i.e. not to be diluted in/with water or other li
 The suspension should be administered using the provided graduated oral syringe to measure the appropriate volume of suspension corresponding to the prescribed dose for the patient.
 
 Duvyzat should be administered with the ingestion of food to mitigate the bitter taste of givinostat.
+
+## Administration of Duvyzat oral suspension via enteral feeding tube
+
+Duvyzat oral suspension may be administered through an enteral feeding tube.
 
 ## 4.3 Contraindications
 
@@ -243,7 +243,7 @@ Adverse reactions are listed below according to MedDRA system organ class and fr
 
 <div style=\"page-break-after: always\"></div>
 
-Frequency groupings are defined to the following convention: Very common ( ≥ 1/10) and common ( ≥ 1/100 to &lt;1/10) uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); frequency not known (cannot be estimated from the available data).
+Frequency groupings are defined to the following convention: Very common (≥1/10) and common (≥1/100 to &lt;1/10) uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); frequency not known (cannot be estimated from the available data).
 
 Table 3 - Adverse Drug Reactions reported in givinostat-treated patients at a frequency greater than 2% compared to placebo-treated patients in the placebo-controlled EPIDYS Study
 
@@ -267,9 +267,7 @@ Table 3 - Adverse Drug Reactions reported in givinostat-treated patients at a fr
 
 Givinostat has been shown to reduce platelet count with the greatest reduction observed after approximately 88 days and platelet counts remained low throughout treatment. There were no serious bleeding events related to thrombocytopenia. After givinostat dose reduction, platelets return to normal values in approximately 3-4 weeks.
 
-Thrombocytopenia occurred in 32.2% of patients treated with Duvyzat and in no patient on placebo.
-
-Of these reactions, 86.8% were reported as mild and 13.2% as moderate.
+Thrombocytopenia occurred in 32.2% of patients treated with Duvyzat and in no patient on placebo. Of these reactions, 86.8% were reported as mild and 13.2% as moderate.
 
 Low platelet counts resulted in Givinostat dose reduction in 28% of patients. Patients with baseline platelet counts below the lower limit of normal were excluded from the studies.
 
@@ -291,17 +289,17 @@ Gastrointestinal disturbances, including diarrhoea, vomiting and abdominal pain 
 
 Diarrhoea was reported in 38% of patients treated with Duvyzat (with 1 severe case reported) compared to 18% of patients on placebo. Diarrhoea usually occurred within the first few weeks of initiation of treatment with Duvyzat.
 
-Vomiting occurred in 29% of patients treated with Duvyzat (with 2 severe cases reported) compared to
+Vomiting occurred in 29% of patients treated with Duvyzat (with 2 severe cases reported) compared to 13% of patients on placebo. Vomiting usually occurred within the first 2 months of treatment.
 
-13% of patients on placebo. Vomiting usually occurred within the first 2 months of treatment. Abdominal pain occurred in 34% of patients treated with Duvyzat compared to 23% of patients on
-
-placebo. One case of abdominal pain was serious.
+Abdominal pain occurred in 34% of patients treated with Duvyzat compared to 23% of patients on placebo. One case of abdominal pain was serious.
 
 ## Description of other laboratory abnormalities
 
-Adverse reactions of hypothyroidism and/or thyroid stimulating hormone (TSH) increased occurred in 5% of patients treated with Duvyzat compared to 2% of patients who received placebo. In addition, hypothyroidism (common) events were observed during long -term treatment. Blood thyroid stimulating hormone levels were generally within 2 times the upper limit of normal with
+Adverse reactions of hypothyroidism and/or thyroid stimulating hormone (TSH) increased occurred in 5% of patients treated with Duvyzat compared to 2% of patients who received placebo.
 
-no or minor changes in thyroid hormones.
+In addition, hypothyroidism (common) events were observed during long-term treatment.
+
+Blood thyroid stimulating hormone levels were generally within 2 times the upper limit of normal with no or minor changes in thyroid hormones.
 
 ## Reporting of suspected adverse reactions
 
@@ -367,8 +365,6 @@ Figure 1 - Study 48: Observed Mean Change in Seconds to 4SC by Treatment Over Ti
 
 <!-- image -->
 
-* Givinostat or placebo were administered in addition to a stable dose of corticosteroids throughout the study.
-
 The key secondary efficacy endpoints in Group A were the change from baseline to 18 months in physical function assessed by North Star Ambulatory Assessment (NSAA), time to rise from floor (TTR); distance walked in 6 minutes (6MWT); muscle strength evaluated by knee extension and elbow flexion as measured by hand-held myometry (HHM); and fat fraction of vastus lateralis muscles evaluated by Magnetic Resonance Spectroscopy (MRS) technique. Overall, the results of the key secondary endpoints assessing function, strength and muscle morphology did not reach formal statistical significance based on the pre-specified Hochberg analysis, however all outcomes were in favour of givinostat (Figure 2).
 
 <div style=\"page-break-after: always\"></div>
@@ -417,7 +413,7 @@ In plasma, givinostat displays a bi-phasic elimination profile with a mean appar
 
 ## Linearity/non-linearity
 
-The pharmacokinetics of givinostat is linear, since the AUC ∞ obtained after single administration is comparable to that with repeated once daily administration, with a possible minimal apparent accumulation of active substance over time (range of accumulation ratios found 1.0 - 1.7). Linearity was tested after single administration of doses 44.3 to 354.4 mg and multiple administration of doses 44.3 to 177.2 mg.
+The pharmacokinetics of givinostat is linear, since the AUC∞ obtained after single administration is comparable to that with repeated once daily administration, with a possible minimal apparent accumulation of active substance over time (range of accumulation ratios found 1.0 - 1.7). Linearity was tested after single administration of doses 44.3 to 354.4 mg and multiple administration of doses 44.3 to 177.2 mg.
 
 ## Weight
 
@@ -437,7 +433,7 @@ Givinostat has not been studied in patients with hepatic impairment. Caution sho
 
 ## Renal impairment
 
-Givinostat has not been studied in patients with renal impairment.  However, renal impairment is not expected to impact the exposure of givinostat because renal excretion is not a significant route of givinostat elimination.
+Givinostat has not been studied in patients with renal impairment. However, renal impairment is not expected to impact the exposure of givinostat because renal excretion is not a significant route of givinostat elimination.
 
 ## 5.3 Preclinical safety data
 
@@ -447,7 +443,7 @@ In repeated dose oral toxicity studies in rats and monkeys, a dose dependent dec
 
 Givinostat was positive for frameshift mutations at high doses in vitro in bacteria (Ames test), negative in mammalian cells (TK+/- in mouse lymphoma cells), and negative in vivo in transgenic BigBlue rats and in the Pig-a locus.
 
-In conclusion givinostat does not pose a relevant genotoxic potential in vivo .
+In conclusion givinostat does not pose a relevant genotoxic potential in vivo.
 
 No data from carcinogenicity studies with givinostat are currently available.
 
@@ -469,27 +465,7 @@ In rats, some effects were observed on haematological parameters and lymphoid or
 
 ## 6.1 List of excipients
 
-Polysorbate 20 (E432)
-
-Glycerol (E422)
-
-Tragacanth gum (E413)
-
-Sodium benzoate (E211)
-
-Peach flavour: natural flavouring substances, flavouring substances, propylene glycol (E1520)
-
-Cream flavour: natural flavouring substances, flavouring substances, propylene glycol (E1520)
-
-Saccharin sodium (E954)
-
-Liquid sorbitol (E420)
-
-Tartaric acid (E334)
-
-Sodium hydroxide (E524)
-
-Purified water
+Polysorbate 20 (E432) Glycerol (E422) Tragacanth gum (E413) Sodium benzoate (E211) Peach flavour: natural flavouring substances, flavouring substances, propylene glycol (E1520) Cream flavour: natural flavouring substances, flavouring substances, propylene glycol (E1520) Saccharin sodium (E954) Liquid sorbitol (E420) Tartaric acid (E334) Sodium hydroxide (E524) Purified water
 
 ## 6.2 Incompatibilities
 
@@ -505,21 +481,25 @@ This medicinal product does not require any special temperature storage conditio
 
 ## 6.5 Nature and contents of container
 
-Amber polyethylene terephthalate bottle containing 140 ml oral suspension closed with a high-density polyethylene child-resistant closure with low-density polyethylene syringe adapter. Each pack contains one bottle and one graduated oral syringe of 10 ml. The syringe of 10 ml is graduated from 1 to 10 ml by increments of 0.5 ml.
+Amber polyethylene terephthalate bottle containing 140 ml oral suspension closed with a high-density polyethylene child-resistant closure with low-density polyethylene syringe adapter.
+
+Each pack contains one bottle and one graduated oral syringe of 10 ml. The syringe of 10 ml is graduated from 1 to 10 ml by increments of 0.5 ml.
 
 ## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+Use with an enteral feeding tube:
+
+Duvyzat can be administered through an enteral feeding tube. Duvyzat should not be mixed with the feeding formula or other products. Flushing the enteral feeding tube with a minimum of 20 ml of water before and after administration of Duvyzat should be performed.
+
 <div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Italfarmaco S.p.A. Viale F. Testi, 330 20126 Milano
+Italfarmaco S.p.A. 20126 Milano
 
-Italy
-
-Tel: +39 02 64431
+Viale F. Testi, 330 Italy Tel: +39 02 64431
 
 info@italfarmacogroup.com
 
@@ -536,6 +516,8 @@ Date of renewal: 21 May 2026
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+15
 
 <div style=\"page-break-after: always\"></div>
 
@@ -557,7 +539,7 @@ Italfarmaco S.A. San Rafael, 3 28108 Alcobendas (Madrid) Spain
 
 or
 
-Italfarmaco S.p.A . Viale F. Testi, 330 20126 Milano Italy
+Italfarmaco S.p.A. Viale F. Testi, 330 20126 Milano Italy
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -593,10 +575,10 @@ An updated RMP should be submitted:
 
 This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                         | Due date                    |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| In order to confirm the efficacy and safety of givinostat in the treatment of Duchenne Muscular Dystrophy in ambulant patients, aged 6 years and older, and with concomitant corticosteroid treatment, the MAHshould conduct and submit the results of a randomised, double blind, placebo-controlled study in ambulant patients with Duchenne Muscular Dystrophy, according to an agreed protocol. | 31 July 2033                |
-| In order to confirm the long-term efficacy and safety of givinostat in the treatment of Duchenne Muscular Dystrophy in ambulant patients, aged 6 years and older, and with concomitant corticosteroid treatment, theMAH should conduct and submit the final results of a non-interventional study based on data from sites and/or patient registries, according to an agreed protocol.              | Final report: December 2037 |
+| Description                                                                                                                                                                                                                                                                                                                                                                                          | Due date                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| In order to confirm the efficacy and safety of givinostat in the treatment of Duchenne Muscular Dystrophy in ambulant patients, aged 6 years and older, and with concomitant corticosteroid treatment, the MAH should conduct and submit the results of a randomised, double blind, placebo-controlled study in ambulant patients with Duchenne Muscular Dystrophy, according to an agreed protocol. | 31 July 2033                |
+| In order to confirm the long-term efficacy and safety of givinostat in the treatment of Duchenne Muscular Dystrophy in ambulant patients, aged 6 years and older, and with concomitant corticosteroid treatment, the MAH should conduct and submit the final results of a non-interventional study based on data from sites and/or patient registries, according to an agreed protocol.              | Final report: December 2037 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -634,9 +616,13 @@ Bottle of 140 ml with a 10 ml graduated dosing syringe
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use Oral use
+Read the package leaflet before use
+
+Oral use
 
 Shake, by turning the bottle up and down approximately 40 times, for at least 30 seconds until the liquid is homogeneous
+
+器
 
 <!-- image -->
 
@@ -660,15 +646,13 @@ Date of first opening:
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Italfarmaco S.p.A. Viale F. Testi, 330 20126 Milano Italy Tel: +39 02 64431
-
-info@italfarmacogroup.com
+Italfarmaco S.p.A. Viale F. Testi, 330 20126 Milano Italy Tel: +39 02 64431 info@italfarmacogroup.com
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -683,8 +667,8 @@ LOT:
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -696,8 +680,8 @@ Duvyzat
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN:
 
@@ -715,7 +699,7 @@ Duvyzat 8.86 mg/ml oral suspension givinostat
 
 Each ml contains 8.86 mg givinostat (as hydrochloride monohydrate)
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 Also contains: sodium benzoate (E211), and sorbitol (E420)
 
@@ -739,7 +723,7 @@ Shake before use
 
 Keep out of the sight and reach of children
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 ## 8. EXPIRY DATE
 
@@ -757,7 +741,7 @@ Italfarmaco S.p.A.
 
 <div style=\"page-break-after: always\"></div>
 
-Italy
+Viale F. Testi, 330 20126 Milano Italy Tel: +39 02 64431
 
 info@italfarmacogroup.com
 
@@ -774,8 +758,8 @@ Lot:
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -783,8 +767,8 @@ Lot:
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -804,10 +788,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If  you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -832,7 +816,7 @@ By blocking the activity of HDAC enzymes in the muscle cells, Duvyzat prevents m
 
 ## Do not take Duvyzat
 
-- -If you (or your child) are allergic to givinostat or any of the other ingredients of this medicine (listed in section 6).
+- If you (or your child) are allergic to givinostat or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -862,9 +846,11 @@ Your doctor may adjust the dose of Duvyzat based on severity of diarrhoea or sto
 
 Your doctor might consider the use of medicines to treat vomiting, diarrhoea and to avoid excessive loss of fluids.
 
-High doses of Duvyzat (5 times higher than the recommended dose) may cause an irregular heartbeat. Your doctor will consider if you can use Duvyzat when there is an increased risk for abnormal heartbeat, abnormal mineral levels in your body or concomitant use of other medicines. Your doctor may check your heart function when starting Duvyzat if you have an underlying heart
+High doses of Duvyzat (5 times higher than the recommended dose) may cause an irregular heartbeat.
 
-problem or if you use medicines that can cause irregular heartbeat.
+Your doctor will consider if you can use Duvyzat when there is an increased risk for abnormal heartbeat, abnormal mineral levels in your body or concomitant use of other medicines.
+
+Your doctor may check your heart function when starting Duvyzat if you have an underlying heart problem or if you use medicines that can cause irregular heartbeat.
 
 Your doctor may consider to stop treatment with Duvyzat if your heartbeat is found irregular.
 
@@ -876,18 +862,18 @@ Tell your doctor if you are taking, have recently taken, or might take any other
 
 Duvyzat may increase the risk of side effects of some other medicines by increasing the amount of these medicines in the blood. Some of these medicines include:
 
-- -carbamazepine, phenytoin (a medicine used to treat epilepsy),
-- -amitriptyline (a medicine used to treat low mood and depression),
-- -digoxin (a medicine used to treat heart failure and abnormal heart rhythms),
-- -metformin (a medicine to control type II diabetes),
-- -amiloride (a medicine used to treat high blood pressure),
-- -histamine type 2 receptor antagonists (a medicine used to treat duodenal and gastric ulcers and common heartburn).
+- carbamazepine, phenytoin (a medicine used to treat epilepsy),
+- amitriptyline (a medicine used to treat low mood and depression),
+- digoxin (a medicine used to treat heart failure and abnormal heart rhythms),
+- metformin (a medicine to control type II diabetes),
+- amiloride (a medicine used to treat high blood pressure),
+- histamine type 2 receptor antagonists (a medicine used to treat duodenal and gastric ulcers and common heartburn).
 
 Caution is advised when Duvyzat is administered with medicinal products known to cause abnormal heartbeat.
 
 ## Pregnancy and breast-feeding
 
-If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your  doctor  for  advice  before  taking  this  medicine.  If  you  become  pregnant  while  taking  Duvyzat, consult your doctor immediately. Use of Duvyzat should be avoided while you are pregnant or breastfeeding.
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. If you become pregnant while taking Duvyzat, consult your doctor immediately. Use of Duvyzat should be avoided while you are pregnant or breastfeeding.
 
 ## Driving and using machines
 
@@ -917,7 +903,7 @@ This medicine contains less than 1 mmol sodium (23 mg) per ml, that is to say es
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-Duvyzat  should  be  taken  by  mouth,  using  a  syringe.  It  should  be  taken  two  times  per  day.  The recommended dose of Duvyzat depends on your body weight, as shown in the Table 1.
+Duvyzat should be taken by mouth, using a syringe. It should be taken two times per day. The recommended dose of Duvyzat depends on your body weight, as shown in the Table 1.
 
 Table 1 - Recommended Dose
 
@@ -928,13 +914,13 @@ Table 1 - Recommended Dose
 | ≥ 40 and < 60 | 5.0 ml                                                   |
 | ≥ 60          | 6.0 ml                                                   |
 
-Your  dose  may  need  to  be  lowered  (see  Table  2)  by  your  doctor  if  certain  symptoms  appear  (see Warnings and precautions):
+Your dose may need to be lowered (see Table 2) by your doctor if certain symptoms appear (see Warnings and precautions):
 
 - decreased platelet count;
 - moderate or severe diarrhoea (more than 4 stools per day);
 - increased levels of fats in your blood.
 
-## Table 2 - First dose reduction
+Table 2 - First dose reduction
 
 | Weight (kg)   | Duvyzat oral suspension volume to be taken twice daily   |
 |---------------|----------------------------------------------------------|
@@ -962,7 +948,7 @@ If these abnormalities still persist or if you experience irregular heartbeat, y
 
 Duvyzat is for oral use.
 
-The  oral  suspension  must  be  shaken  by  hand  approximately  40  times  for  at  least  30  seconds  by continuously turning the bottle up and down until the oral suspension is mixed well and looks the same throughout.
+The oral suspension must be shaken by hand approximately 40 times for at least 30 seconds by continuously turning the bottle up and down until the oral suspension is mixed well and looks the same throughout.
 
 The suspension is dosed by using the graduated oral syringe.
 
@@ -980,23 +966,23 @@ Ask your doctor or pharmacist to show you how to measure your prescribed dose.
 
 <div style=\"page-break-after: always\"></div>
 
-Step  2 .  Open  the  bottle  by  pressing down on the bottle cap and turning it to the left (counter-clockwise) (see Figure C). Do not throw away the bottle cap.
+Step 2. Open the bottle by pressing down on the bottle cap and turning it to the left (counter-clockwise) (see Figure C). Do not throw away the bottle cap.
 
 ## Step 3.
 
-For  first  time  use  only: Take  the provided  oral  syringe  to  be  used  and firmly insert the tip of the oral syringe into  the  bottle  adapter  opening  (see Figure D).
+For first time use only: Take the provided oral syringe to be used and firmly insert the tip of the oral syringe into the bottle adapter opening (see Figure D).
 
-For all other uses: Take the provided oral syringe to be used, push the plunger  all  the  way  down  (to  remove the air) and firmly insert the tip of the oral syringe  into the bottle adapter opening (see Figure D).
+For all other uses: Take the provided oral syringe to be used, push the plunger all the way down (to remove the air) and firmly insert the tip of the oral syringe into the bottle adapter opening (see Figure D).
 
-Step 4. While holding the oral syringe in  place,  turn  the  bottle  upside  down. Slowly  pull  the  plunger  down  to  pull back a small amount of the suspension. Then push the plunger all the way up to remove any air bubbles (see Figure E).
+Step 4. While holding the oral syringe in place, turn the bottle upside down. Slowly pull the plunger down to pull back a small amount of the suspension. Then push the plunger all the way up to remove any air bubbles (see Figure E).
 
-Step 5. Slowly pull the plunger down until the bottom of the plunger is even with the  markings  on the oral  syringe for the prescribed dose of Duvyzat (see Figure F).
-
-<!-- image -->
+Step 5. Slowly pull the plunger down until the bottom of the plunger is even with the markings on the oral syringe for the prescribed dose of Duvyzat (see Figure F).
 
 Figure C
 
 <!-- image -->
+
+Figure D
 
 <!-- image -->
 
@@ -1004,6 +990,8 @@ Figure E
 
 <!-- image -->
 
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
@@ -1012,14 +1000,18 @@ Figure E
 
 <!-- image -->
 
-| Step 6. While keeping the plunger in the same position, turn the bottle upright, and place it carefully on a flat surface. Remove the oral syringe by gently twisting or pulling it out from the bottle adapter opening. Do not hold the oral syringe by the plunger because the plunger may come out (see Figure G). Take or give Duvyzat right away after it is drawn up into the oral syringe. Do not store the filled oral syringe.   | FigureG   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Step 7. Check that the prescribed volume (ml) of Duvyzat has been drawn up into the oral syringe (see Figure H). Figure H shows an example of a 5 ml dose. Your dose may be a different volume.                                                                                                                                                                                                                                           | FigureH   |
-| Step 8. The child or adult should sit upright to take a dose of Duvyzat. Place the tip of the oral syringe against the inside of the cheek. Slowly push the plunger all the way down until there is no more medicine left in the oral syringe.                                                                                                                                                                                            |           |
-| Step 9. After use, replace the bottle cap and turn the bottle cap to the right (clockwise) to close the bottle (see Figure I).                                                                                                                                                                                                                                                                                                            | Figure I  |
-| Step 10. Wash the oral syringe in water and allow to dry. Store the oral syringe in a clean, dry place.                                                                                                                                                                                                                                                                                                                                   |           |
+| Step 6. While keeping the plunger in the same position, turn the bottle upright, and place it carefully on a flat surface. Remove the oral syringe by gently twisting or pulling it out from the bottle adapter opening. Do not hold the oral syringe by the plunger because the plunger may come out (see Figure G). Take or give Duvyzat right away after it is drawn up into the oral syringe. Do not store the filled oral syringe.   | Figure G   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Step 7. Check that the prescribed volume (ml) of Duvyzat has been drawn up into the oral syringe (see Figure H). Figure H shows an example of a 5 ml dose. Your dose may be a different volume.                                                                                                                                                                                                                                           | Figure H   |
+| Step 8. The child or adult should sit upright to take a dose of Duvyzat. Place the tip of the oral syringe against the inside of the cheek. Slowly push the plunger all the way down until there is no more medicine left in the oral syringe.                                                                                                                                                                                            |            |
+| Step 9. After use, replace the bottle cap and turn the bottle cap to the right (clockwise) to close the bottle (see Figure I).                                                                                                                                                                                                                                                                                                            | Figure I   |
+| Step 10. Wash the oral syringe in water and allow to dry. Store the oral syringe in a clean, dry place.                                                                                                                                                                                                                                                                                                                                   |            |
 
 <div style=\"page-break-after: always\"></div>
+
+## Enteral feeding tube
+
+Duvyzat can be administered directly via an enteral feeding tube. Duvyzat should not be mixed with the feeding formula or other products. Ensure that you flush the enteral feeding tube with a minimum of 20 ml of water before and after administering Duvyzat.
 
 ## If you take more Duvyzat than you should
 
@@ -1045,7 +1037,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 ## 4. Possible side effects
 
-Like all medicines, this medicine can cause side effects, although not everybody gets them. You may have one or more of the following side effects after taking Duvyzat:
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+You may have one or more of the following side effects after taking Duvyzat:
 
 Very common side effects (may affect more than 1 in 10 people):
 
@@ -1078,13 +1072,13 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 ## 5. How to store Duvyzat
 
-Keep this medicine out of the sight and reach of children.
-
-Do not use this medicine after the expiry date, which is stated on the carton and bottle after 'EXP'. The expiry date refers to the last day of that month.
-
 <div style=\"page-break-after: always\"></div>
 
-Once opened, use within 60 days.
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date, which is stated on the carton and bottle after \"EXP\". The expiry date refers to the last day of that month.
+
+## Once opened, use within 60 days.
 
 Discard any unused Duvyzat oral suspension remaining after 60 days of first opening of the container.
 
@@ -1098,7 +1092,7 @@ The active substance is givinostat.
 
 Each ml of oral suspension contains 8.86 mg givinostat (as hydrochloride monohydrate).
 
-The  other  ingredients  are:  polysorbate  20  (E432),  glycerol  (E422),  tragacanth  gum  (E413),  sodium benzoate (E211), peach flavour (natural flavouring substances, flavouring substances, propylene glycol E1520), cream flavour (natural flavouring substances, flavouring substances, propylene glycol E1520), saccharin sodium (E954), liquid sorbitol (E420), tartaric acid (E334), sodium hydroxide (E524), purified water.
+The other ingredients are: polysorbate 20 (E432), glycerol (E422), tragacanth gum (E413), sodium benzoate (E211), peach flavour (natural flavouring substances, flavouring substances, propylene glycol E1520), cream flavour (natural flavouring substances, flavouring substances, propylene glycol E1520), saccharin sodium (E954), liquid sorbitol (E420), tartaric acid (E334), sodium hydroxide (E524), purified water.
 
 ## What Duvyzat looks like and contents of the pack
 
@@ -1118,15 +1112,15 @@ Italfarmaco S.A. San Rafael, 3 28108 Alcobendas (Madrid) Spain
 
 or
 
-Italfarmaco S.p.A . Viale F. Testi, 330 20126 Milano Italy
+Italfarmaco S.p.A. Viale F. Testi, 330 20126 Milano Italy
 
 Scan the code with a mobile device to get the package leaflet in different languages.
 
+<div style=\"page-break-after: always\"></div>
+
 <!-- image -->
 
-Or visit the URL https://www.duvyzat.eu
-
-<div style=\"page-break-after: always\"></div>
+[Or visit the URL https://www.duvyzat.eu](https://www.duvyzat.eu/)
 
 ## This leaflet was last revised in MM/YYYY
 

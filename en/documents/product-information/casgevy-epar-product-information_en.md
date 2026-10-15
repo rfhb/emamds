@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-03 11:24:18
+document_datetime: 2026-10-12 16:09:14
 document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/casgevy-epar-product-information_en.pdf
 document_name: casgevy-epar-product-information_en.pdf
 version: success
-processing_time: 14.3927932
-conversion_datetime: 2025-12-26 17:13:54.430129
+processing_time: 20.5911194
+conversion_datetime: 2026-10-15 19:56:55.244402
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.139.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,9 +64,9 @@ A translucent cell dispersion for infusion, free from foreign particles.
 
 ## 4.1 Therapeutic indications
 
-## β -thalassemia
+## β-thalassemia
 
-Casgevy is indicated for the treatment of transfusiondependent β -thalassemia (TDT) in patients 12 years of age and older for whom haematopoietic stem cell (HSC) transplantation is appropriate and a human leukocyte antigen (HLA)-matched related HSC donor is not available.
+Casgevy is indicated for the treatment of transfusion-dependent β-thalassemia (TDT) in patients 12 years of age and older for whom haematopoietic stem cell (HSC) transplantation is appropriate and a human leukocyte antigen (HLA)-matched related HSC donor is not available.
 
 ## Sickle cell disease
 
@@ -74,7 +74,7 @@ Casgevy is indicated for the treatment of severe sickle cell disease (SCD) in pa
 
 ## 4.2 Posology and method of administration
 
-Casgevy must be administered in an authorised treatment centre by a physician with experience in HSC transplantation and in the treatment of patients with β -haemoglobinopathies and trained for administration and management of patients treated with the medicinal product.
+Casgevy must be administered in an authorised treatment centre by a physician with experience in HSC transplantation and in the treatment of patients with β-haemoglobinopathies and trained for administration and management of patients treated with the medicinal product.
 
 Before mobilisation, apheresis and myeloablative conditioning are initiated, confirm that haematopoietic stem cell transplantation is appropriate for the patient.
 
@@ -98,13 +98,13 @@ If the minimum dose of Casgevy is not met after initial medicinal product manufa
 
 <div style=\"page-break-after: always\"></div>
 
-The backup collection of ≥ 2 × 10 6 CD34 + cells/kg of unmodified rescue cells must be collected from the patient and be cryopreserved prior to myeloablative conditioning and infusion with Casgevy.
+The back-up collection of ≥ 2 × 10 6 CD34 + cells/kg of unmodified rescue cells must be collected from the patient and be cryopreserved prior to myeloablative conditioning and infusion with Casgevy.
 
 The unmodified cells may be needed for rescue treatment under any one of the following conditions: compromise of Casgevy after initiation of myeloablative conditioning and before Casgevy infusion; neutrophil engraftment failure; or loss of engraftment after infusion with Casgevy.
 
 See section 5.1 for a description of the mobilisation regimen used in the clinical study. Refer to the Summary of Product Characteristics for the mobilisation medicinal product(s) prior to treatment with Casgevy.
 
-## β -thalassemia
+## β-thalassemia
 
 Prior to apheresis procedure it is recommended that patients receive red blood cell (RBC) transfusion(s) with a goal to maintain total haemoglobin (Hb) concentration ≥ 11 g/dL.
 
@@ -120,7 +120,7 @@ Granulocyte colony stimulating factor (G-CSF) must not be administered for mobil
 
 Full myeloablative conditioning must be administered before infusion of Casgevy. Conditioning must not be initiated until the complete set of vials constituting the full dose of Casgevy has been received at the authorised treatment centre, and the availability of the back-up collection of unmodified CD34 + cells is confirmed. See section 5.1 for a description of the conditioning regimen used in the clinical study. Refer to the Summary of Product Characteristics for the myeloablative conditioning medicinal product(s) prior to treatment.
 
-## β -thalassemia
+## β-thalassemia
 
 It is recommended that patients maintain total Hb concentration ≥ 11 g/dL for 60 days prior to myeloablative conditioning.
 
@@ -170,17 +170,15 @@ Casgevy has not been studied in patients who have received a prior allogeneic or
 
 ## Method of administration
 
-## Casgevy is for intravenous use only.
+Casgevy is for intravenous use only.
 
 After completion of the myeloablative conditioning regimen, a minimum of 48 hours must elapse before Casgevy infusion. Casgevy must be administered between a minimum of 48 hours and a maximum of 7 days after the last dose of myeloablative conditioning.
 
-Before thawing and administration, it must be confirmed that the patient's identity matches the unique patient information on the Casgevy vial(s) and accompanying documentation. The total number of
+Before thawing and administration, it must be confirmed that the patient's identity matches the unique patient information on the Casgevy vial(s) and accompanying documentation. The total number of vials must also be confirmed with patient specific information on the Lot information sheet (LIS) (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
 
-vials must also be confirmed with patient specific information on the Lot information sheet (LIS) (see section 4.4).
-
-Casgevy is administered as an intravenous bolus via a central venous catheter. Casgevy infusion must be completed as soon as possible and no more than 20 minutes after thawing. In the event that more than one vial is provided, all vials must be administered . The entire volume of each vial must be infused.
+Casgevy is administered as an intravenous bolus via a central venous catheter. Casgevy infusion must be completed as soon as possible and no more than 20 minutes after thawing. In the event that more than one vial is provided, all vials must be administered. The entire volume of each vial must be infused.
 
 For detailed instructions on preparation, administration, measures to take in case of accidental exposure and disposal of Casgevy, see section 6.6.
 
@@ -238,11 +236,9 @@ Patients with SCD may require more cycles of mobilisation and apheresis compared
 
 No cases of myelodysplasia, leukaemia, or lymphoma have been reported in clinical studies with Casgevy. There is a theoretical risk of oncogenesis related to gene editing. Patients should be monitored at least annually (including complete blood count) for 15 years after treatment with Casgevy. If myelodysplasia, leukaemia, or lymphoma are detected, the local representative of the Marketing Authorisation Holder should be contacted to determine appropriate samples for analysis.
 
-The risk of unintended, off-target editing in an individual's edited CD34 + cells cannot be ruled out. A search spanning the human genome identified off-target editing at a single variant site. The variant was identified in 3.3% (3/91) of patient samples analyzed (edited CD34 + cells). The currently
+The risk of unintended, off-target editing in an individual's edited CD34 + cells cannot be ruled out. A search spanning the human genome identified off-target editing at a single variant site. The variant was identified in 3.3% (3/91) of patient samples analyzed (edited CD34 + cells). The currently identified off-target site is located in an intron of a gene not expressed in haematopoietic cells so no adverse effects are expected (see section 5.3).
 
 <div style=\"page-break-after: always\"></div>
-
-identified off-target site is located in an intron of a gene not expressed in haematopoietic cells so no adverse effects are expected (see section 5.3).
 
 ## Immunogenicity
 
@@ -348,6 +344,8 @@ Table 1: Adverse reactions attributed to mobilisation/apheresis in patients with
 | General disorders and administration site conditions   | Pain, pyrexia   |
 |--------------------------------------------------------|-----------------|
 
+* Musculoskeletal pain included back pain, bone pain, musculoskeletal chest pain, neck pain, non-cardiac chest pain, pain in extremity.
+
 Table 2: Adverse reactions attributed to mobilisation/apheresis in patients with SCD receiving plerixafor (N=58)
 
 | System organ class (SOC)                             | Very common                         | Common                              |
@@ -360,7 +358,7 @@ Table 2: Adverse reactions attributed to mobilisation/apheresis in patients with
 | Musculoskeletal and connective tissue disorders      | Musculoskeletal pain †              | Arthralgia                          |
 | General disorders and administration site conditions |                                     | Pain, fatigue                       |
 
-Table 3: Adverse reactions attributed to myeloablative conditioning with busulfan in patients with TDT and SCD (N=97)  *
+Table 3: Adverse reactions attributed to myeloablative conditioning with busulfan in patients with TDT and SCD (N=97) *
 
 | System organ class (SOC)                        | Very common                                                                                               | Common                                                                                                                                                                         |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -387,7 +385,7 @@ Table 3: Adverse reactions attributed to myeloablative conditioning with busulfa
 | Investigations                                       | Weight decreased                                                                   | International normalised ratio increased, C-reactive protein increased, weight increased                            |
 | Injury, poisoning procedural complications           |                                                                                    | Delayed engraftment, subcutaneous haematoma, skin abrasion, skin laceration                                         |
 
-Table 4: Adverse reactions attributed to Casgevy in patients with TDT and SCD (N=97)  *
+Table 4: Adverse reactions attributed to Casgevy in patients with TDT and SCD (N=97) *
 
 | System organ class (SOC)                             | Very common      | Common                                                                             |
 |------------------------------------------------------|------------------|------------------------------------------------------------------------------------|
@@ -431,11 +429,9 @@ The safety of Casgevy was evaluated in 31 adolescent patients aged 12 to less th
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -449,15 +445,15 @@ Pharmacotherapeutic group: Other haematological agents, other haematological age
 
 ## Mechanism of action
 
-Casgevy is a cell therapy consisting of autologous CD34 +  HSPCs ex vivo edited by CRISPR/Cas9-technology. The highly specific guide RNA enables CRISPR/Cas9 to make a precise DNA double-strand break at the critical transcription factor binding site (GATA1) in the erythroidspecific enhancer region of the BCL11A gene. As a result of the editing, GATA1 binding is irreversibly disrupted and BCL11A expression reduced. Reduced BCL11A expression results in an increase in γ -globin expression and foetal haemoglobin (HbF) protein production in erythroid cells, addressing the absent globin in transfusiondependent β -thalassemia (TDT) and the aberrant globin in sickle cell disease (SCD), which are the underlying causes of disease. In patients with TDT, γ -globin production is expected to correct the α -globin to nonα -globin imbalance, thereby reducing ineffective erythropoiesis and haemolysis and increasing total haemoglobin levels. In patients with severe SCD, HbF expression is expected to reduce intracellular HbS concentration, preventing the red blood cells from sickling.
+Casgevy is a cell therapy consisting of autologous CD34 + HSPCs ex vivo edited by CRISPR/Cas9-technology. The highly specific guide RNA enables CRISPR/Cas9 to make a precise DNA double-strand break at the critical transcription factor binding site (GATA1) in the erythroidspecific enhancer region of the BCL11A gene. As a result of the editing, GATA1 binding is irreversibly disrupted and BCL11A expression reduced. Reduced BCL11A expression results in an increase in γ-globin expression and foetal haemoglobin (HbF) protein production in erythroid cells, addressing the absent globin in transfusion-dependent β-thalassemia (TDT) and the aberrant globin in sickle cell disease (SCD), which are the underlying causes of disease. In patients with TDT, γ-globin production is expected to correct the α-globin to non-α-globin imbalance, thereby reducing ineffective erythropoiesis and haemolysis and increasing total haemoglobin levels. In patients with severe SCD, HbF expression is expected to reduce intracellular HbS concentration, preventing the red blood cells from sickling.
 
 ## Clinical efficacy and safety
 
-The efficacy of Casgevy was evaluated in adolescent and adult patients with transfusion-dependent β -thalassemia (TDT) or sickle cell disease (SCD) in two open-label, single-arm studies (study 111 and study 121) and one long-term follow-up study (study 131).
+The efficacy of Casgevy was evaluated in adolescent and adult patients with transfusion-dependent β-thalassemia (TDT) or sickle cell disease (SCD) in two open-label, single-arm studies (study 111 and study 121) and one long-term follow-up study (study 131).
 
-## Transfusiondependent β -thalassemia
+## Transfusion-dependent β-thalassemia
 
-Study 111 is an ongoing open-label, multicentre, single-arm study to evaluate the safety and efficacy of Casgevy in adult and adolescent patients with transfusiondependent β -thalassemia. After completion of 24 months of follow-up in study 111, patients were invited to enrol in study 131, an ongoing long-term safety and efficacy study.
+Study 111 is an ongoing open-label, multicentre, single-arm study to evaluate the safety and efficacy of Casgevy in adult and adolescent patients with transfusion-dependent β-thalassemia. After completion of 24 months of follow-up in study 111, patients were invited to enrol in study 131, an ongoing long-term safety and efficacy study.
 
 Patients were eligible for the study if they had a history of requiring at least 100 mL/kg/year or 10 units/year of RBC transfusions in the 2 years prior to enrolment. Patients were also required to have a Lansky or Karnofsky performance score of ≥ 80%.
 
@@ -487,7 +483,7 @@ Table 5: Study 111 demographics and baseline characteristics
 | Other                                                          | 3 (5.1%)                             | 2 (3.7%)                            |
 | Not collected                                                  | 9 (15.3%)                            | 8 (14.8%)                           |
 | Genotype, n (%) β 0 /β 0 -like ‡                               | 38 (64.4%)                           | 33 (61.1%)                          |
-| Non- β 0 /β 0 -like                                            | 21 (35.6%)                           | 21 (38.9%)                          |
+| Non-β 0 /β 0 -like                                             | 21 (35.6%)                           | 21 (38.9%)                          |
 | Baseline annualised RBC transfusion volume (mL/kg)             |                                      |                                     |
 | Median (min, max)                                              | 211.2 (48.3, 330.9)                  | 205.7 (48.3, 330.9)                 |
 | Baseline annualised RBC transfusion episodes Median (min, max) | 16.5 (5.0, 34.5)                     | 16.5 (5.0, 34.5)                    |
@@ -500,11 +496,9 @@ Table 5: Study 111 demographics and baseline characteristics
 
 To maintain a total Hb concentration ≥ 11 g/dL patients underwent RBC transfusions prior to mobilisation and apheresis and continued receiving transfusions until the initiation of myeloablative conditioning.
 
-To mobilise stem cells for apheresis, patients in study 111 were administered granulocyte-colony stimulating factor (G-CSF). Patients with a spleen were administered a planned dose of 5 mcg/kg G-CSF approximately every 12 hours via intravenous or subcutaneous injection for 5 to 6 days. Splenectomised patients were administered a planned dose of 5 mcg/kg G-CSF once daily for 5 to 6 days. The dose was increased to every 12 hours in splenectomised patients if there was no increase in white blood cell (WBC) or peripheral blood CD34 + counts. After 4 days of G-CSF administration, all patients received plerixafor at a planned dose of 0.24 mg/kg administered via subcutaneous injection approximately 4- to 6 hours prior to each planned apheresis. Apheresis was carried out for up
+To mobilise stem cells for apheresis, patients in study 111 were administered granulocyte-colony stimulating factor (G-CSF). Patients with a spleen were administered a planned dose of 5 mcg/kg G-CSF approximately every 12 hours via intravenous or subcutaneous injection for 5 to 6 days. Splenectomised patients were administered a planned dose of 5 mcg/kg G-CSF once daily for 5 to 6 days. The dose was increased to every 12 hours in splenectomised patients if there was no increase in white blood cell (WBC) or peripheral blood CD34 + counts. After 4 days of G-CSF administration, all patients received plerixafor at a planned dose of 0.24 mg/kg administered via subcutaneous injection approximately 4- to 6 hours prior to each planned apheresis. Apheresis was carried out for up to 3 consecutive days to achieve the target collection of cells for manufacture and for the unmodified rescue CD34 + cells. The mean (SD) and median (min, max) number of mobilisation and apheresis cycles required for manufacture Casgevy and for the collection of rescue CD34 + cells were 1.3 (0.7) and 1 (1, 4), respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-to 3 consecutive days to achieve the target collection of cells for manufacture and for the unmodified rescue CD34 + cells. The mean (SD) and median (min, max) number of mobilisation and apheresis cycles required for manufacture Casgevy and for the collection of rescue CD34 + cells were 1.3 (0.7) and 1 (1, 4), respectively.
 
 ## Pre-treatment conditioning
 
@@ -522,7 +516,7 @@ Patients were administered Casgevy with a median (min, max) dose of 8.0 (3.0, 19
 
 G-CSF was not recommended within the first 21 days after Casgevy infusion. As Casgevy is an autologous therapy, immunosuppressive agents were not required after initial myeloablative conditioning.
 
-## Efficacy results β -thalassemia
+## Efficacy results - β-thalassemia
 
 An interim analysis (IA) was conducted with 42 patients administered Casgevy and eligible for the primary efficacy analysis. The primary efficacy set (PES) was defined as all subjects who had been followed for at least 16 months after Casgevy infusion. At the time of the interim analysis 59 patients were enrolled and 54 patients had been administered Casgevy. The median (min, max) total duration of follow-up was 22.8 (2.1, 51.1) months from the time of Casgevy infusion.
 
@@ -542,11 +536,11 @@ Table 6: Primary efficacy outcome in patients with TDT
 
 * Interim analysis conducted based on April 2023 data cut.
 
-†  N represents the total number of enrolled patients who signed informed consent, and excludes patients who were waiting to receive Casgevy at the time of the analysis, or patients who were not yet evaluable for the primary efficacy endpoint.
+† N represents the total number of enrolled patients who signed informed consent, and excludes patients who were waiting to receive Casgevy at the time of the analysis, or patients who were not yet evaluable for the primary efficacy endpoint.
 
 ‡ N represents the total number of patients in the primary efficacy set (PES), a subset of the full analysis set (FAS). The PES was defined as all subjects who had been infused with Casgevy and had been followed for at least 16 months after Casgevy infusion. Patients who had less than 16 months of follow-up due to death, or discontinuation due to Casgevy-related adverse events, or continuously received RBC transfusions for more than 12 months after Casgevy infusion were also included in this set.
 
-§  TI12 is defined as maintaining weighted average Hb ≥9 g/dL without RBC transfusions for at least 12 consecutive months any time after Casgevy infusion. The evaluation of TI12 starts 60 days after last RBC transfusion for post-transplant support or TDT disease management.
+§ TI12 is defined as maintaining weighted average Hb ≥9 g/dL without RBC transfusions for at least 12 consecutive months any time after Casgevy infusion. The evaluation of TI12 starts 60 days after last RBC transfusion for post-transplant support or TDT disease management.
 
 Table 7: Secondary efficacy outcomes in patients with TDT
 
@@ -555,7 +549,7 @@ Table 7: Secondary efficacy outcomes in patients with TDT
 | Duration of transfusion-independent period in patients who have achieved TI12 (months) |                                       |
 | n                                                                                      | 39                                    |
 | Median (min, max)                                                                      | 22.3 (13.5, 48.1)                     |
-| Total Hb (g/dL)                                                                        |                                       |
+| Total Hb (g/dL) at Month 6                                                             |                                       |
 | n                                                                                      | 42                                    |
 | Mean (SD)                                                                              | 12.1 (2.0)                            |
 | at Month 24                                                                            |                                       |
@@ -568,7 +562,7 @@ Table 7: Secondary efficacy outcomes in patients with TDT
 | n                                                                                      | 23                                    |
 | Mean (SD)                                                                              | 11.5 (2.7)                            |
 
-*  Interim analysis conducted based on April 2023 data cut.
+* Interim analysis conducted based on April 2023 data cut.
 
 † N represents the total number of patients in the primary efficacy set (PES), a subset of the full analysis set (FAS). The PES was defined as all patients who had been infused with Casgevy and had been followed for at least 16 months after Casgevy infusion. Subjects who had less than 16 months follow-up due to death or discontinuation due to Casgevy-related adverse events, or continuously received RBC transfusions for more than 12 months after Casgevy infusion were also included in this set.
 
@@ -576,7 +570,7 @@ SD: Standard Deviation
 
 All patients who achieved TI12 remained transfusion-independent, with a median (min, max) duration of transfusion-independence of 22.3 (13.5, 48.1) months and normal weighted average total Hb levels (mean [SD] 13.2 [1.4] g/dL). The median (min, max) time to last RBC transfusion for patients who achieved TI12 was 28 (11, 91) days following Casgevy infusion. Three patients did not achieve TI12. These patients had reductions in frequency of RBC transfusions over time, and then stopped receiving transfusions between 12.2 and 21.6 months after Casgevy infusion, consistent with an overall slower haematopoietic recovery.
 
-Total Hb (g/dL) and HbF (g/dL) levels over time are provided in Figure 1 for all patients administered Casgevy for the treatment of β -thalassemia.
+Total Hb (g/dL) and HbF (g/dL) levels over time are provided in Figure 1 for all patients administered Casgevy for the treatment of β-thalassemia.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -586,7 +580,7 @@ Figure 1: Mean total Hb (g/dL) and HbF (g/dL) levels over time in patients with 
 
 Mean values are plotted in the line, mean +Standard Error (SE) and mean -SE values are plotted as bars at each visit. The numbers of patients with values available at the corresponding visits are shown beneath the figure.
 
-Increases in mean (SD) total Hb and HbF levels were observed as early as month 3 after Casgevy infusion and continued to increase to 12.2 (2.0) g/dL and 10.9 (2.7) g/dL respectively at month 6. After month 6, levels of total Hb and HbF were maintained ther eafter, with HbF comprising ≥ 88% of total Hb.
+Increases in mean (SD) total Hb and HbF levels were observed as early as month 3 after Casgevy infusion and continued to increase to 12.2 (2.0) g/dL and 10.9 (2.7) g/dL respectively at month 6. After month 6, levels of total Hb and HbF were maintained thereafter, with HbF comprising ≥ 88% of total Hb.
 
 All patients who achieved TI12 in study 111 (n=39) had normal (28/39 patients, 71.8%) or near-normal (11/39 patients, 28.2%) weighted average total Hb levels. The patients with near-normal weighted average total Hb levels included 6 males and 5 females, with weighted average total Hb within &lt; 0.1 to 0.7 g/dL and within &lt; 0.4 to 1.4 g/dL of the WHO age and sex dependent reference threshold, respectively.
 
@@ -665,53 +659,44 @@ G-CSF was not recommended within the first 21 days after Casgevy infusion. As Ca
 
 An interim analysis was conducted with 29 patients administered Casgevy and eligible for the primary efficacy analysis. The primary efficacy set (PES) was defined as all patients who had been followed for at least 16 months after Casgevy infusion. At the time of the interim analysis 63 patients were enrolled and 43 patients had been administered Casgevy. The median (min, max) total duration of follow-up was 17.5 (1.2, 46.2) months from the time of Casgevy infusion.
 
-The efficacy of Casgevy was based on evaluation of patients with at least 16 months of follow-up. The primary endpoint was the proportion of patients who did not experience any severe VOCs for at least 12 consecutive months any time within the first 24 months after Casgevy infusion in study 121 (VF12, primary efficacy endpoint). For this endpoint, a severe VOC was defined as either (a) an acute pain event requiring a visit to a medical facility and administration of pain medications (opioids or intravenous non-steroidal anti-inflammatory drugs [NSAIDs]) or RBC transfusions), (b) acute chest syndrome, (c) priapism lasting &gt; 2 hours and requiring a visit to a medical facility, or (d) splenic sequestration. The proportion of patients who did not require hospitalisation due to severe VOCs for at least 12 consecutive months (HF12, key secondary endpoint) was also assessed. The evaluation of
+The efficacy of Casgevy was based on evaluation of patients with at least 16 months of follow-up. The primary endpoint was the proportion of patients who did not experience any severe VOCs for at least 12 consecutive months any time within the first 24 months after Casgevy infusion in study 121 (VF12, primary efficacy endpoint). For this endpoint, a severe VOC was defined as either (a) an acute pain event requiring a visit to a medical facility and administration of pain medications (opioids or intravenous non-steroidal anti-inflammatory drugs [NSAIDs]) or RBC transfusions), (b) acute chest syndrome, (c) priapism lasting &gt; 2 hours and requiring a visit to a medical facility, or (d) splenic sequestration. The proportion of patients who did not require hospitalisation due to severe VOCs for at least 12 consecutive months (HF12, key secondary endpoint) was also assessed. The evaluation of VF12 and HF12 began 60 days after last RBC transfusion for post-transplant support or SCD management.
 
 <div style=\"page-break-after: always\"></div>
-
-VF12 and HF12 began 60 days after last RBC transfusion for post-transplant support or SCD management.
 
 Efficacy data are presented in Table 9 and Table 10. Table 9 shows the primary endpoint for (1) all patients enrolled in study 121 and (2) all patients infused with Casgevy in study 121. Table 10 shows secondary endpoints for all patients infused with Casgevy in study 121.
 
 Table 9: Primary efficacy outcome in patients with SCD
 
-| Primary endpoint                                  | Casgevy Enrolled patients * (N=46) †   | Casgevy Infused patients * (N=29) ‡   |
-|---------------------------------------------------|----------------------------------------|---------------------------------------|
-| Proportion of patients achieving VF12 (%) § n (%) | 28 (60.9%)                             | 28 (96.6%)                            |
-| (95% CI)                                          | (45.4%, 74.9%)                         | (82.2%, 99.9%)                        |
-
-*  Interim analysis conducted based on April 2023 data cut.
-
-†  N represents the total number of enrolled patients who signed informed consent, and excludes patients who were waiting to receive Casgevy at the time of the interim analysis, or patients who were dosed but not yet evaluable for the primary efficacy endpoint.
-
-‡ N represents the total number of patients in the primary efficacy set (PES), a subset of the full analysis set (FAS). The PES was defined as all patients who had been infused with Casgevy and had been followed for at least 16 months after Casgevy infusion. Subjects who had less than 16 months follow-up due to death, or discontinuation due to Casgevy-related adverse events, or continuously received RBC transfusions for more than 12 months after Casgevy were also included in this set. §  VF12 is defined as no severe VOCs for at least 12 consecutive months after Casgevy infusion. The evaluation of VF12 starts 60 days after last RBC transfusion for post-transplant support or SCD management.
+| Primary endpoint                            | Casgevy Enrolled patients * (N=46) †   | Casgevy Infused patients * (N=29) ‡   |
+|---------------------------------------------|----------------------------------------|---------------------------------------|
+| Proportion of patients achieving VF12 (%) § |                                        |                                       |
+| n (%)                                       | 28 (60.9%)                             | 28 (96.6%)                            |
+| (95% CI)                                    | (45.4%, 74.9%)                         | (82.2%, 99.9%)                        |
 
 Table 10: Secondary efficacy outcomes in patients with SCD
 
-| Secondary endpoints                                                                                     | Casgevy Infused patients * (N=29) †   |
-|---------------------------------------------------------------------------------------------------------|---------------------------------------|
-| Proportion of patients free from hospitalisation due to severe VOCs for at least 12 months (HF12) (%) ‡ |                                       |
-| n (%) (95% CI)                                                                                          | 29 (100%) (88.1%, 100.0%)             |
-| Duration of severe VOC-free period in patients who have achieved VF12 (months)                          |                                       |
-| n                                                                                                       | 28                                    |
-| Median (min, max)                                                                                       | 20.5 (13.5, 43.6)                     |
-| Proportion of patients with HbF ≥ 20% at the time of analysis sustained for at                          |                                       |
-| least 3, 6 and 12 months (%) n                                                                          | 29                                    |
-| %(95% CI)                                                                                               | 100% (88.1%, 100.0%)                  |
-| Total Hb (g/dL)                                                                                         |                                       |
-| at Month 6 n                                                                                            | 27                                    |
-| Mean (SD)                                                                                               | 12.7 (1.7)                            |
-| at Month 24                                                                                             |                                       |
-| n                                                                                                       | 15                                    |
-| Mean (SD)                                                                                               | 13.1 (1.9)                            |
-| Proportion of total Hb comprised by HbF (%)                                                             |                                       |
-| n                                                                                                       | 27                                    |
-| Mean (SD)                                                                                               | 43.1 (6.0)                            |
-| at Month 24                                                                                             |                                       |
-| n                                                                                                       | 15                                    |
-| Mean (SD)                                                                                               | 42.2 (5.5)                            |
-
-*  Interim analysis conducted based on April 2023 data cut.
+| Secondary endpoints                                                                                         | Casgevy Infused patients * (N=29) †   |
+|-------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| Proportion of patients free from hospitalisation due to severe VOCs for at least 12 months (HF12) (%) ‡     |                                       |
+| n (%) (95% CI)                                                                                              | 29 (100%) (88.1%, 100.0%)             |
+| Duration of severe VOC-free period in patients who have achieved VF12 (months)                              |                                       |
+| n                                                                                                           | 28                                    |
+| Median (min, max)                                                                                           | 20.5 (13.5, 43.6)                     |
+| Proportion of patients with HbF ≥ 20% at the time of analysis sustained for at least 3, 6 and 12 months (%) |                                       |
+| n                                                                                                           | 29                                    |
+| % (95% CI)                                                                                                  | 100% (88.1%, 100.0%)                  |
+| Total Hb (g/dL)                                                                                             |                                       |
+| at Month 6 n                                                                                                | 27                                    |
+| Mean (SD)                                                                                                   | 12.7 (1.7)                            |
+| at Month 24                                                                                                 |                                       |
+| n                                                                                                           | 15                                    |
+| Mean (SD)                                                                                                   | 13.1 (1.9)                            |
+| Proportion of total Hb comprised by HbF (%) at Month 6                                                      |                                       |
+| n                                                                                                           | 27                                    |
+| Mean (SD)                                                                                                   | 43.1 (6.0)                            |
+| at Month 24                                                                                                 |                                       |
+| n                                                                                                           | 15                                    |
+| Mean (SD)                                                                                                   | 42.2 (5.5)                            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -735,7 +720,7 @@ Subgroup analyses evaluating the effects in age, sex, race or genotype subgroups
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Casgevy in one or more subsets of the paediatric population in β -thalassemia and sickle cell disease (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with Casgevy in one or more subsets of the paediatric population in β-thalassemia and sickle cell disease (see section 4.2 for information on paediatric use).
 
 This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited. The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
 
@@ -751,7 +736,7 @@ Casgevy is a CD34 + cell product edited with CRISPR/Cas9 technology; therefore, 
 
 Toxicological characteristics were assessed in sub-lethally irradiated, immunodeficient NSG mice treated with a dose of 3.33 × 10 7 edited CD34 + cells/kg of body weight. There was no evidence of target organ toxicity or tumorigenicity in the 20-week study.
 
-During preclinical development, the potential for off-target editing was assessed at over 5000 sites, including those nominated based on human genetic variation. No off-target editing was observed in edited CD34 + cells from healthy donors and patients. A post-marketing non-clinical study (Study U270) evaluated 33 additional candidate off-target editing sites nominated based on the presence of genetic variations. No off-target editing was observed at 32 of these sites in edited CD34 + cells from patients. One site had off-target editing due to a minor variant allele present in 3 of 91 patient samples (3.3%). This variant leads to a binding motif for Cas9 ribonucleoprotein complex in the intronic region of the gene encoding for carbamoyl-phosphate synthetase 1 (CPS1).The off-target editing was observed at a low fraction of alleles ( ≤ 1%) and included a balanced inversion (&lt;0.25%). Gene editing in this minor allele is not expected to have any adverse effects in patients as the off-target site is within an intron and CPS1 is not expressed in haematopoietic cells.
+During preclinical development, the potential for off-target editing was assessed at over 5000 sites, including those nominated based on human genetic variation. No off-target editing was observed in edited CD34 + cells from healthy donors and patients. A post-marketing non-clinical study (Study U270) evaluated 33 additional candidate off-target editing sites nominated based on the presence of genetic variations. No off-target editing was observed at 32 of these sites in edited CD34 + cells from patients. One site had off-target editing due to a minor variant allele present in 3 of 91 patient samples (3.3%). This variant leads to a binding motif for Cas9 ribonucleoprotein complex in the intronic region of the gene encoding for carbamoyl-phosphate synthetase 1 (CPS1).The off-target editing was observed at a low fraction of alleles (≤ 1%) and included a balanced inversion (&lt;0.25%). Gene editing in this minor allele is not expected to have any adverse effects in patients as the off-target site is within an intron and CPS1 is not expressed in haematopoietic cells.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -824,7 +809,7 @@ This medicinal product contains human blood cells. Healthcare professionals hand
 
 ## Thawing the Casgevy vials
 
-- When the dose consists of multiple vials, thaw and administer one vial at a time. While thawing a vial, remaining vials must remain in cryostorage at ≤ -135 °C.
+- When the dose consists of multiple vials, thaw and administer one vial at a time. While thawing a vial, remaining vials must remain in cryo-storage at ≤ -135 °C.
 - Thaw each vial at 37 °C using a water bath. Ensure water bath temperature does not exceed 40 °C.
 - Thaw each vial holding the vial neck, gently agitating clockwise and counterclockwise. This can take between 10 to 15 minutes.
 - Do not leave vial unattended during thawing.
@@ -899,9 +884,7 @@ EU/1/23/1787/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 09 February 2024
-
-Date of latest renewal: 12 February 2025
+Date of first authorisation: 09 February 2024 Date of latest renewal: 12 February 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -925,15 +908,19 @@ Name and address of the manufacturer(s) of the biological active substance(s)
 
 Roslin Cell Therapies Limited BioCube 2 Edinburgh BioQuarter 11 Little France Road Edinburgh EH16 4UX United Kingdom
 
-Charles River Laboratories Inc. 4600 East Shelby Drive, Suite 108 Memphis, TN 38118-7427 United States
+Charles River Laboratories Inc. 4600 East Shelby Drive, Suite 108 Memphis, TN 38118-7427
+
+United States
 
 Lonza Netherlands B.V. Urmonderbaan 20 B 6167 RD Geleen Netherlands
 
-## Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer(s) responsible for batch release
 
-Vertex Pharmaceuticals (Europe) Limited Unit 49, Block 5, Northwood Court, Northwood Crescent, Dublin 9, D09 T665, Ireland
+Vertex Pharmaceuticals (Ireland) Limited Unit 49, Block 5, Northwood Court, Northwood Crescent, Dublin 9, D09 T665, Ireland
 
-Lonza Netherlands B.V. Urmonderbaan 20 B 6167 RD Geleen Netherlands
+Lonza Netherlands B.V. Urmonderbaan 20 B 6167 RD Geleen
+
+Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -978,9 +965,7 @@ The MAH shall ensure that in each Member State where Casgevy is marketed, all he
 - o Guide for Patients/Carers;
 - o Patient Card;
 - o Patient Information Leaflet
-
-## · Guide for healthcare professionals shall contain the following key elements:
-
+- Guide for healthcare professionals shall contain the following key elements:
 - o The HCP should inform patients treated with Casgevy that there is an important identified risk of delayed platelet engraftment and important potential risks of neutrophil engraftment failure and gene editing-related oncogenesis; and details on how these risks can be minimised.
 
 When presenting Casgevy as a treatment option and before a treatment decision is made, the HCP should discuss the risk-benefit of Casgevy, including the following:
@@ -1001,13 +986,13 @@ appropriate testing should be promptly considered whenever clinical symptoms sug
 -  Patients should be counselled regarding the theoretical risk of gene editing-related oncogenesis and to seek medical attention if these signs and symptoms of myelodysplasia, leukaemia, and lymphoma are present.
 - o The HCP should provide the Patient Card and Guide for Patients/Carers to patients/carers.
 - o There is limited information regarding long-term effects. Therefore, participation in the long-term, registry-based study evaluating the long-term safety and effectiveness outcomes in patients who received Casgevy for treatment of TDT or SCD is encouraged. The HCP should remind patients about the importance to enrol in the 15-year, registry-based study of the long-term effects and how to obtain further information.
-- Patient alert card shall contain the following key elements :
+- Patient alert card shall contain the following key elements:
 - o This card is to inform HCPs that the patient has received Casgevy infusion.
 - o The patient should show the Patient Card to a doctor or nurse whenever they have medical appointments.
 - o The patient should have blood tests as directed by the doctor.
 - o The patient should seek medical advice for any signs of low platelet cell or white blood cell levels: severe headache, abnormal bruising, prolonged bleeding, or bleeding without injury (such as nosebleeds, bleeding from gums, blood in the urine, stool, or vomit, or coughing up blood), fever, chills, or infections.
 - o Blood cancers are a theoretical risk. The patient should seek medical advice for any signs of fatigue, unexplained fever, night sweats, unexplained weight loss, frequent infections, shortness of breath, or swelling of lymph glands.
-- Guide for patients/carers shall contain the following key elements :
+- Guide for patients/carers shall contain the following key elements:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1028,9 +1013,9 @@ Therefore, before a decision is made about starting the therapy, the doctor will
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                       | Due date         |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| In order to further characterise the long-term safety and efficacy of exagamglogene autotemcel in patients with transfusion- dependent β -thalassemia (TDT) and severe sickle cell disease (SCD) aged 12 years and older, theMAH should conduct and submit the results of a study based on data from a registry, according to an agreed protocol. | 31 December 2043 |
+| Description                                                                                                                                                                                                                                                                                                                                      | Due date         |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| In order to further characterise the long-term safety and efficacy of exagamglogene autotemcel in patients with transfusion-dependent β-thalassemia (TDT) and severe sickle cell disease (SCD) aged 12 years and older, the MAH should conduct and submit the results of a study based on data from a registry, according to an agreed protocol. | 31 December 2043 |
 
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
@@ -1038,19 +1023,19 @@ This being a conditional marketing authorisation and pursuant to Article 14-a of
 
 | Description                                                                                                                                                                                                                                                                                        | Due date       |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with transfusion-dependent β -thalassemia (TDT) aged 12 years and older, the MAHshould submit the final results from the study 111, a phase 1/2/3 study evaluating the safety and efficacy of a single dose of | 31 August 2026 |
+| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with transfusion-dependent β-thalassemia (TDT) aged 12 years and older, the MAH should submit the final results from the study 111, a phase 1/2/3 study evaluating the safety and efficacy of a single dose of | 31 August 2026 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Due date                                                               |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| exagamglogene autotemcel in subjects with transfusion-dependent β -thalassemia.                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                        |
-| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with severe sickle cell disease (SCD) aged 12 years and older, the MAHshould submit the final results from the study 121, a phase 1/2/3 study to evaluate the safety and efficacy of a single dose of exagamglogene autotemcel in subjects with severe SCD.                                                                                                                                                                  | 31 August 2026                                                         |
-| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with severe sickle cell disease (SCD) aged 12 years and older, the MAHshould submit the final results from the study 151, a phase 3 study to evaluate the safety and efficacy of a single dose of exagamglogene autotemcel in paediatric patients with severe SCD aged between 2 to 11 years.                                                                                                                                | 31 December 2027                                                       |
-| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with transfusion-dependent β -thalassemia (TDT) and severe sickle cell disease (SCD) aged 12 years and older, the MAHshould submit the interim results from the study 161, a phase 3b study to evaluate the efficacy and safety of a single dose of exagamglogene autotemcel in subjects with TDT or severe SCD.                                                                                                             | 31 December 2027                                                       |
-| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with severe sickle cell disease (SCD) aged 12 years and older, the MAHshould submit the final results from the study 171, a phase 3 study to evaluate the safety and efficacy of a single dose of exagamglogene autotemcel in subjects with severe SCD, β S / β C genotype.                                                                                                                                                  | 30 June 2032                                                           |
-| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with transfusion- dependent β -thalassemia (TDT) and severe sickle cell disease (SCD) aged 12 years and older, the MAHshould conduct and submit the interim results of a study based on data from a registry, according to an agreed protocol.                                                                                                                                                                               | Interim report: 31 December 2027 Progress reports: with annual renewal |
-| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with transfusion- dependent β -thalassemia (TDT) and severe sickle cell disease (SCD) in patients aged 12 years and older, the MAHshould submit the interim results from study 131, a long term follow-up open-label trial evaluating the safety and efficacy of exagamglogene autotemcel for 15 years in subjects with TDT and severe SCD who received treatment with exagamglogene autotemcel in previous clinical trials. | Interim reports: 31 August 2026 and 31 August 2029                     |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Due date                                                               |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| exagamglogene autotemcel in subjects with transfusion-dependent β-thalassemia.                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                        |
+| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with severe sickle cell disease (SCD) aged 12 years and older, the MAH should submit the final results from the study 121, a phase 1/2/3 study to evaluate the safety and efficacy of a single dose of exagamglogene autotemcel in subjects with severe SCD.                                                                                                                                                                | 31 August 2026                                                         |
+| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with severe sickle cell disease (SCD) aged 12 years and older, the MAH should submit the final results from the study 151, a phase 3 study to evaluate the safety and efficacy of a single dose of exagamglogene autotemcel in paediatric patients with severe SCD aged between 2 to 11 years.                                                                                                                              | 31 December 2027                                                       |
+| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with transfusion-dependent β-thalassemia (TDT) and severe sickle cell disease (SCD) aged 12 years and older, the MAH should submit the interim results from the study 161, a phase 3b study to evaluate the efficacy and safety of a single dose of exagamglogene autotemcel in subjects with TDT or severe SCD.                                                                                                            | 31 December 2027                                                       |
+| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with severe sickle cell disease (SCD) aged 12 years and older, the MAH should submit the final results from the study 171, a phase 3 study to evaluate the safety and efficacy of a single dose of exagamglogene autotemcel in subjects with severe SCD, β S /β C genotype.                                                                                                                                                 | 30 June 2032                                                           |
+| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with transfusion-dependent β-thalassemia (TDT) and severe sickle cell disease (SCD) aged 12 years and older, the MAH should conduct and submit the interim results of a study based on data from a registry, according to an agreed protocol.                                                                                                                                                                               | Interim report: 31 December 2027 Progress reports: with annual renewal |
+| In order to confirm the efficacy and safety of exagamglogene autotemcel in patients with transfusion-dependent β-thalassemia (TDT) and severe sickle cell disease (SCD) in patients aged 12 years and older, the MAH should submit the interim results from study 131, a long term follow-up open-label trial evaluating the safety and efficacy of exagamglogene autotemcel for 15 years in subjects with TDT and severe SCD who received treatment with exagamglogene autotemcel in previous clinical trials. | Interim reports: 31 August 2026 and 31 August 2029                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1070,15 +1055,15 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Casgevy 4 - 13 × 10 6
+Casgevy 4 - 13 × 10 6 cells/mL dispersion for infusion
 
-exagamglogene autotemcel (CD34
-
-cells/mL dispersion for infusion + cells)
+exagamglogene autotemcel (CD34 + cells)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Autologous human CD34 + cells edited at the erythroid-specific enhancer region of the BCL11A gene. Each vial contains 4 - 13 × 10 6 cells/mL.
+Autologous human CD34 + cells edited at the erythroid-specific enhancer region of the BCL11A gene.
+
+Each vial contains 4 - 13 × 10 6 cells/mL.
 
 This medicine contains cells of human origin.
 
@@ -1088,7 +1073,7 @@ CryoStor CS5 (contains dimethyl sulfoxide and dextran 40). See package leaflet f
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Dispersion for infusion
+## Dispersion for infusion
 
 1.5 to 20 mL per vial
 
@@ -1124,7 +1109,13 @@ This medicine contains human blood cells. Unused medicine or waste material must
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Vertex Pharmaceuticals (Ireland) Limited Unit 49, Block 5, Northwood Court, Northwood Crescent, Dublin 9, D09 T665, Ireland
+Vertex Pharmaceuticals (Ireland) Limited
+
+Unit 49, Block 5, Northwood Court, Northwood Crescent,
+
+Dublin 9, D09 T665,
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1166,7 +1157,7 @@ Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-## Not applicable.
+Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1176,13 +1167,16 @@ VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Casgevy 4 - 13 × 10 6 cells/mL dispersion for infusion exagamglogene autotemcel (CD34 + cells) For intravenous use only.
+Casgevy 4 - 13 × 10 6 cells/mL dispersion for infusion exagamglogene autotemcel (CD34 + cells)
+
+For intravenous use only.
 
 ## 2. METHOD OF ADMINISTRATION
 
 Read the package leaflet before use.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1202,11 +1196,12 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-## 1.5 to 20 mL per vial
+1.5 to 20 mL per vial
 
 See Lot information sheet for number of vials and CD34 + cells per vial for this patient.
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 For autologous use only.
 
@@ -1291,7 +1286,11 @@ DIN:
 
 ## 10. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Vertex Pharmaceuticals (Ireland) Limited Unit 49, Block 5, Northwood Court, Northwood Crescent, Dublin 9, D09 T665, Ireland
+Vertex Pharmaceuticals (Ireland) Limited
+
+Unit 49, Block 5, Northwood Court, Northwood Crescent,
+
+Dublin 9, D09 T665, Ireland
 
 ## 11. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1315,9 +1314,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or nurse.
-- -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or nurse.
+- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1345,7 +1344,7 @@ Casgevy is used to treat:
 
 ## How Casgevy works
 
-Casgevy works by increasing the production of a special type of haemoglobin called Haemoglobin F ( foetal haemoglobin or HbF). Having more HbF improves the production and function of red blood cells. Because of this, people with TDT may not need blood transfusions and people with sickle cell disease may not experience VOCs.
+Casgevy works by increasing the production of a special type of haemoglobin called Haemoglobin F (foetal haemoglobin or HbF). Having more HbF improves the production and function of red blood cells. Because of this, people with TDT may not need blood transfusions and people with sickle cell disease may not experience VOCs.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1367,18 +1366,15 @@ Talk to your doctor or nurse before you are given Casgevy.
 - You will have two other types of medicines before you are given Casgevy. For more information on these medicines, see section 3.
 - o Mobilisation medicine(s) to move the blood stem cells from your bone marrow into the blood stream so they can be collected to make Casgevy. This step will take 2-6 days.
 - o Conditioning medicine is given to you shortly before you are given Casgevy. This creates space in the bone marrow for new blood cells to grow following treatment with Casgevy.
-- The doctor will discuss the possible impact of the conditioning medicine on fertility . See below under ' Fertility in men and women '.
+- The doctor will discuss the possible impact of the conditioning medicine on fertility. See below under \"Fertility in men and women\".
 - In people with SCD, it can be more difficult to move the blood stem cells from the bone marrow and therefore to collect them, compared to people with TDT. More mobilisations and collections may therefore be needed in people with SCD than people with TDT.
 
 ## After treatment with Casgevy:
 
 - You will have fewer blood cells for a while, until Casgevy takes hold in your bone marrow. This includes
 - o Low levels of platelets (cells that help the blood to clot). Low levels of platelets may cause bleeding.
-
-Tell your doctor right away if you have any of these signs of low platelet cell levels: severe headache, abnormal bruising, prolonged bleeding, or bleeding without injury such as nosebleeds, bleeding from gums, blood in your urine, stool, or vomit, or coughing up blood .
-
-- Low levels of neutrophils (a type of white blood cell that usually prevents infections).
-- o Low levels of neutrophils may make infections more likely.
+- Tell your doctor right away if you have any of these signs of low platelet cell levels: severe headache, abnormal bruising, prolonged bleeding, or bleeding without injury such as nosebleeds, bleeding from gums, blood in your urine, stool, or vomit, or coughing up blood.
+- o Low levels of neutrophils (a type of white blood cell that usually prevents infections). Low levels of neutrophils may make infections more likely.
 - Tell your doctor right away if you have any of these signs of low white blood cell levels: fever, chills, or other signs of infections such as sore throat, cough or shortness of breath, pain or burning when urinating or urinating often, or diarrhoea.
 - Your doctor will monitor blood cell levels and give you treatment as required. The doctor will tell you when your platelets and neutrophils return to safe levels.
 - The doctor will monitor your blood cell levels and overall health to help researchers understand the long-term effects of Casgevy.
@@ -1387,7 +1383,7 @@ Tell your doctor right away if you have any of these signs of low platelet cell 
 
 <div style=\"page-break-after: always\"></div>
 
-- Ingredients of Casgevy called dimethyl sulfoxide (DMSO), dextran 40 and Cas9 may cause serious allergic reactions. Your doctor or nurse will monitor you for signs and symptoms of an allergic reaction both during and after treatment with Casgevy. See also section 2 'Casgevy contains sodium and dimethyl sulfoxide (DMSO).'
+- Ingredients of Casgevy called dimethyl sulfoxide (DMSO), dextran 40 and Cas9 may cause serious allergic reactions. Your doctor or nurse will monitor you for signs and symptoms of an allergic reaction both during and after treatment with Casgevy. See also section 2 \"Casgevy contains sodium and dimethyl sulfoxide (DMSO).\"
 - Casgevy is tested for the presence of infectious microbes, but a small risk of infection remains. Your doctor or nurse will monitor you for signs and symptoms of infections and provide treatment as needed.
 - After treatment with Casgevy, you must not donate blood, organs, tissues, or cells.
 - Casgevy is made from your own cells and is only given to you. Information about cell-based medicinal products must be kept for 30 years at the hospital where you receive the treatment. The information they keep will include your name, name of the product and the batch number(s) of Casgevy you received.
@@ -1408,7 +1404,7 @@ Do not take medicines that remove iron from your body (chelating agents such as 
 
 Do not take other medicines for sickle cell disease (such as hydroxyurea/hydroxycarbamide, crizanlizumab or voxelotor) for at least 8 weeks before you are given the mobilisation and conditioning medicines. Your doctor will advise you if and when you should start taking these medicines after Casgevy treatment.
 
-Vaccines called 'live vaccines' must not be given for 6 weeks before the conditioning medicine used to prepare for Casgevy treatment, nor after treatment while your immune system (the body's defence system) is recovering. Talk to your doctor if you need to have any vaccinations.
+Vaccines called \"live vaccines\" must not be given for 6 weeks before the conditioning medicine used to prepare for Casgevy treatment, nor after treatment while your immune system (the body's defence system) is recovering. Talk to your doctor if you need to have any vaccinations.
 
 ## Pregnancy
 
@@ -1440,7 +1436,7 @@ The mobilisation medicine and conditioning medicines used before Casgevy treatme
 
 This medicine contains approximately 5.3-70 mg sodium (main component of table salt) per vial. This is equivalent to 0.3-4% of the recommended maximum daily dietary intake of sodium for an adult. The total number of vials comprising a dose varies per patient.
 
-This medicine contains approximately 50 mg DMSO per mL. See Section 2 'Warnings and precautions'.
+This medicine contains approximately 50 mg DMSO per mL. See Section 2 \"Warnings and precautions\".
 
 ## 3. How Casgevy is made and given
 
@@ -1448,17 +1444,17 @@ Casgevy is given only once.
 
 Casgevy can only be given in an authorised treatment centre (specialised hospital) by doctors with experience in stem cell transplants, and in the treatment of patients with blood disorders such as TDT and SCD.
 
-STEP 1 : Before Casgevy treatment, a doctor will give you a mobilisation medicine . This medicine moves blood stem cells from your bone marrow into the blood stream. The cells are then collected in a machine that separates the different blood cells (this is called apheresis ). The entire step may happen more than once. Each collection step takes about one week.
+STEP 1: Before Casgevy treatment, a doctor will give you a mobilisation medicine. This medicine moves blood stem cells from your bone marrow into the blood stream. The cells are then collected in a machine that separates the different blood cells (this is called apheresis). The entire step may happen more than once. Each collection step takes about one week.
 
-'Rescue cells' are also collected and stored at the hospital. These are your existing blood stem cells and are kept untreated in case there is a problem in the treatment process. See above in section 2, ' If Casgevy treatment cannot be completed or fails '.
+'Rescue cells' are also collected and stored at the hospital. These are your existing blood stem cells and are kept untreated in case there is a problem in the treatment process. See above in section 2, \"If Casgevy treatment cannot be completed or fails\".
 
-STEP 2 : Your blood stem cells will be sent to the manufacturing site where they are used to make Casgevy . It may take up to 6 months from the time your cells are collected to manufacture and test Casgevy before it is sent back to your doctor.
+STEP 2: Your blood stem cells will be sent to the manufacturing site where they are used to make Casgevy. It may take up to 6 months from the time your cells are collected to manufacture and test Casgevy before it is sent back to your doctor.
 
-STEP 3 : Shortly before your stem cell transplant, the doctor will give you a conditioning medicine in the hospital. This step takes about 2 to 6 days and will prepare you for treatment by removing cells from the bone marrow, so they can be replaced with the modified cells in Casgevy. After you are given this medicine, the number of blood cells will fall to very low levels (see section 4). You will stay in the hospital at this point until after the Casgevy infusion.
+STEP 3: Shortly before your stem cell transplant, the doctor will give you a conditioning medicine in the hospital. This step takes about 2 to 6 days and will prepare you for treatment by removing cells from the bone marrow, so they can be replaced with the modified cells in Casgevy. After you are given this medicine, the number of blood cells will fall to very low levels (see section 4). You will stay in the hospital at this point until after the Casgevy infusion.
 
 <div style=\"page-break-after: always\"></div>
 
-STEP 4 : One or more vials of Casgevy will be given as an injection into a vein through a central venous catheter. Central venous catheters are thin, flexible tubes, that are inserted by a doctor into a large vein to access your bloodstream. The risks of catheters are infections and the formation of blood clots. The doctor and nurses will monitor you for any central venous catheter complications. It may take a few hours for all of the injections to be given. After you are given Casgevy, you will stay in hospital so that your healthcare team can closely monitor your recovery. This can take approximately 2 months, but times can vary. A doctor will decide when you can go home.
+STEP 4: One or more vials of Casgevy will be given as an injection into a vein through a central venous catheter. Central venous catheters are thin, flexible tubes, that are inserted by a doctor into a large vein to access your bloodstream. The risks of catheters are infections and the formation of blood clots. The doctor and nurses will monitor you for any central venous catheter complications. It may take a few hours for all of the injections to be given. After you are given Casgevy, you will stay in hospital so that your healthcare team can closely monitor your recovery. This can take approximately 2 months, but times can vary. A doctor will decide when you can go home.
 
 ## 4. Possible side effects
 
@@ -1474,11 +1470,11 @@ These may be signs of a serious liver condition called veno-occlusive disease.
 
 - Severe headache, abnormal bruising, prolonged bleeding, or bleeding without injury such as nosebleeds, bleeding from gums, blood in your urine, stool, or vomit, or coughing up blood.
 
-These may be signs of thrombocytopenia , low levels of platelet cells, which can reduce the ability of blood to clot and may lead to bleeding.
+These may be signs of thrombocytopenia, low levels of platelet cells, which can reduce the ability of blood to clot and may lead to bleeding.
 
 - Fever, chills or infections.
 
-These may be signs of neutropenia , low levels of white bloods cells called neutrophils that fight infections.
+These may be signs of neutropenia, low levels of white bloods cells called neutrophils that fight infections.
 
 Tell your doctor immediately if you get any of the side effects listed above.
 
@@ -1603,7 +1599,7 @@ Very common side effects (may affect more than 1 in 10 people)
 - low levels of reticulocytes, a type of immature red blood cell (reticulocytopenia)
 - bleeding in an area of the brain involved in balance and coordination (cerebellar haemorrhage)
 - abnormal build-up of fluid that surrounds the brain and the spinal cord (hydrocephalus)
-- low levels of albumin , a blood protein (hypoalbuminaemia)
+- low levels of albumin, a blood protein (hypoalbuminaemia)
 - low blood calcium levels (hypocalcaemia)
 - joint pain
 - longer time for your blood to clot
@@ -1660,7 +1656,7 @@ This medicine contains human blood cells. Unused medicine must be disposed of in
 ## What Casgevy contains
 
 - The active substance is exagamglogene autotemcel. Each mL of Casgevy contains 4-13 × 10 6 cells (blood stem cells).
-- The other ingredients are a solution used to preserve frozen cells, which contains sodium, dimethyl sulfoxide (DMSO) and dextran 40. See section 2 'What you need to know before you are given Casgevy'.
+- The other ingredients are a solution used to preserve frozen cells, which contains sodium, dimethyl sulfoxide (DMSO) and dextran 40. See section 2 \"What you need to know before you are given Casgevy\".
 
 ## What Casgevy looks like and contents of the pack
 
@@ -1676,13 +1672,11 @@ Vertex Pharmaceuticals (Ireland) Limited Unit 49, Block 5, Northwood Court, Nort
 
 ## Manufacturer:
 
-Vertex Pharmaceuticals (Europe) Limited Unit 49, Block 5, Northwood Court, Northwood Crescent, Dublin 9, D09 T665, Ireland
+Vertex Pharmaceuticals (Ireland) Limited Unit 49, Block 5, Northwood Court, Northwood Crescent, Dublin 9, D09 T665, Ireland
 
-Lonza Netherlands B.V. Urmonderbaan 20 B 6167 RD Geleen Netherlands
+Lonza Netherlands B.V. Urmonderbaan 20 B 6167 RD Geleen Netherlands For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 België/Belgique/Belgien, България, Česká republika, Danmark, Deutschland, Eesti, France, Hrvatska, Ireland, Ísland, Κύπρος, Latvija, Lietuva, Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Österreich, Polska, Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige
 
@@ -1748,7 +1742,7 @@ This medicinal product contains human blood cells. Healthcare professionals hand
 
 ## Thawing the Casgevy vials
 
-- When the dose consists of multiple vials, thaw and administer one vial at a time. While thawing a vial, remaining vials must remain in cryostorage/at ≤ -135 °C.
+- When the dose consists of multiple vials, thaw and administer one vial at a time. While thawing a vial, remaining vials must remain in cryo-storage/at ≤ -135 °C.
 - Thaw each vial at 37 °C using a water bath. Ensure water bath temperature does not exceed 40 °C.
 - Thaw each vial holding the vial neck, gently agitating clockwise and counterclockwise. This can take between 10 to 15 minutes. Do not leave vial unattended during thawing.
 - Thawing is complete when ice crystals are no longer visible in the vial.

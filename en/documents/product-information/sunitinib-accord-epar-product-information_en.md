@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-04 08:58:26
+document_datetime: 2026-10-12 10:04:18
 document_pages: 83
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sunitinib-accord-epar-product-information_en.pdf
 document_name: sunitinib-accord-epar-product-information_en.pdf
 version: success
-processing_time: 23.9456061
-conversion_datetime: 2025-12-21 19:33:39.453727
+processing_time: 72.8296762
+conversion_datetime: 2026-10-15 20:00:11.121826
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.139.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,15 +28,15 @@ Sunitinib Accord 12.5 mg hard capsules Sunitinib Accord 25 mg hard capsules Suni
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Sunitinib Accord 12.5 mg hard c  apsules Each hard capsule contains 12.5 mg of sunitinib.
+Sunitinib Accord 12.5 mg hard c apsules Each hard capsule contains 12.5 mg of sunitinib.
 
-Sunitinib Accord 25 mg hard c  apsules Each hard capsule contains 25 mg of sunitinib.
+Sunitinib Accord 25 mg hard c apsules Each hard capsule contains 25 mg of sunitinib.
 
-Sunitinib Accord 37.5 mg hard c  apsules Each hard capsule contains 37.5 mg of sunitinib.
+Sunitinib Accord 37.5 mg hard c apsules Each hard capsule contains 37.5 mg of sunitinib.
 
-Sunitinib Accord 50 mg hard c  apsules Each hard capsule contains 50 mg of sunitinib.
+Sunitinib Accord 50 mg hard c apsules Each hard capsule contains 50 mg of sunitinib.
 
-For the full list  of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
@@ -44,19 +44,19 @@ Hard capsule (capsule)
 
 ## Sunitinib Accord 12.5 mg hard capsules
 
-Gelatin capsules of size 4 (approximate length 14.3 mm) with orange cap and orange body, printed with white ink '12.5 mg' on the body, and containing yellow to orange granules.
+Gelatin capsules of size 4 (approximate length 14.3 mm) with orange cap and orange body, printed with white ink \"12.5 mg\" on the body, and containing yellow to orange granules.
 
 ## Sunitinib Accord 25 mg hard capsules
 
-Gelatin capsules of size 3 (approximate length 15.9 mm) with caramel cap and orange body, printed with white ink '25 mg' on the body, and containing yellow to orange granules.
+Gelatin capsules of size 3 (approximate length 15.9 mm) with caramel cap and orange body, printed with white ink \"25 mg\" on the body, and containing yellow to orange granules.
 
 ## Sunitinib Accord 37.5 mg hard capsules
 
-Gelatin capsules of size 2 (approximate length 18.0 mm) with yellow cap and yellow body, printed with black ink '37.5 mg' on the body, and containing yellow to orange granules.
+Gelatin capsules of size 2 (approximate length 18.0 mm) with yellow cap and yellow body, printed with black ink \"37.5 mg\" on the body, and containing yellow to orange granules.
 
 ## Sunitinib Accord 50 mg hard capsules
 
-Gelatin capsule of size 1 (approximate length 19.4 mm) with caramel cap and caramel body, printed with white ink '50 mg' on the body, and containing yellow to orange granules.
+Gelatin capsule of size 1 (approximate length 19.4 mm) with caramel cap and caramel body, printed with white ink \"50 mg\" on the body, and containing yellow to orange granules.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -108,7 +108,7 @@ Selection of an alternative concomitant medicinal product with no or minimal pot
 
 ## Paediatric population
 
-The safety and efficacy of Sunitinib  in patients below 18 years of age have not been established.
+The safety and efficacy of Sunitinib in patients below 18 years of age have not been established.
 
 Currently available data are described in sections 4.8, 5.1, and 5.2 but no recommendation on a posology can be made.
 
@@ -174,7 +174,7 @@ Serious, sometimes fatal gastrointestinal complications including gastrointestin
 
 ## Hypertension
 
-Hypertension has been reported in association with sunitinib, including severe hypertension (&gt; 200 mmHg systolic or 110 mmHg diastolic). Patients should be screened for hypertension and controlled as appropriate . Temporary suspension is recommended in patients with severe hypertension that is not controlled with medical management. Treatment may be resumed once hypertension is appropriately controlled (see section 4.8) .
+Hypertension has been reported in association with sunitinib, including severe hypertension (&gt; 200 mmHg systolic or 110 mmHg diastolic). Patients should be screened for hypertension and controlled as appropriate. Temporary suspension is recommended in patients with severe hypertension that is not controlled with medical management. Treatment may be resumed once hypertension is appropriately controlled (see section 4.8).
 
 ## Haematological disorders
 
@@ -220,11 +220,9 @@ The diagnosis of TMA, including thrombotic thrombocytopaenic purpura (TTP) and h
 
 ## Thyroid dysfunction
 
-Baseline laboratory measurement of thyroid function is recommended in all patients. Patients with pre-existing hypothyroidism or hyperthyroidism should be treated as per standard medical practice
+Baseline laboratory measurement of thyroid function is recommended in all patients. Patients with pre-existing hypothyroidism or hyperthyroidism should be treated as per standard medical practice prior to the start of sunitinib treatment. During sunitinib treatment, routine monitoring of thyroid function should be performed every 3 months. In addition, patients should be observed closely for signs and symptoms of thyroid dysfunction during treatment, and patients who develop any signs and/or symptoms suggestive of thyroid dysfunction should have laboratory testing of thyroid function performed as clinically indicated. Patients who develop thyroid dysfunction should be treated as per standard medical practice.
 
 <div style=\"page-break-after: always\"></div>
-
-prior to the start of sunitinib treatment. During sunitinib treatment, routine monitoring of thyroid function should be performed every 3 months. In addition, patients should be observed closely for signs and symptoms of thyroid dysfunction during treatment, and patients who develop any signs and/or symptoms suggestive of thyroid dysfunction should have laboratory testing of thyroid function performed as clinically indicated. Patients who develop thyroid dysfunction should be treated as per standard medical practice.
 
 Hypothyroidism has been observed to occur early as well as late during treatment with sunitinib (see section 4.8).
 
@@ -262,7 +260,7 @@ No formal clinical studies of the effect of sunitinib on wound healing have been
 
 ## Osteonecrosis of the jaw (ONJ)
 
-Cases of ONJ have been reported in patients treated with sunitinib . The majority of cases were reported in patients who had received prior or concomitant treatment with intravenous bisphosphonates, for which ONJ is an identified risk. Caution should therefore be exercised when sunitinib  and intravenous bisphosphonates are used either simultaneously or sequentially.
+Cases of ONJ have been reported in patients treated with sunitinib . The majority of cases were reported in patients who had received prior or concomitant treatment with intravenous bisphosphonates, for which ONJ is an identified risk. Caution should therefore be exercised when sunitinib and intravenous bisphosphonates are used either simultaneously or sequentially.
 
 Invasive dental procedures are also an identified risk factor. Prior to treatment with sunitinib , a dental examination and appropriate preventive dentistry should be considered. In patients who have previously received or are receiving intravenous bisphosphonates, invasive dental procedures should be avoided if possible (see section 4.8).
 
@@ -292,7 +290,7 @@ Decreases in blood glucose, in some cases clinically symptomatic and requiring h
 
 Hyperammonaemic encephalopathy has been observed with sunitinib (see section 4.8). In patients who develop unexplained lethargy or changes in mental status, ammonia level should be measured and appropriate clinical management should be initiated.
 
-This medicinal product contains less than 1 mmol (23 mg) sodium (croscarmellose sodium) per one capsule, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol (23 mg) sodium (croscarmellose sodium) per one capsule, that is to say essentially \"sodium-free\".
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -304,7 +302,7 @@ Interaction studies have only been performed in adults.
 
 ## Effect of CYP3A4 inhibitors
 
-In healthy volunteers, concomitant administration of a single dose of sunitinib with the potent CYP3A4 inhibitor ketoconazole resulted in an increase of the combined [sunitinib + primary metabolite] maximum concentration (Cmax) and area under the curve (AUC0- ) values of 49% and 51%, respectively.
+In healthy volunteers, concomitant administration of a single dose of sunitinib with the potent CYP3A4 inhibitor ketoconazole resulted in an increase of the combined [sunitinib + primary metabolite] maximum concentration (Cmax) and area under the curve (AUC0-) values of 49% and 51%, respectively.
 
 Administration of sunitinib with potent CYP3A4 inhibitors (e.g., ritonavir, itraconazole, erythromycin, clarithromycin, grapefruit juice) may increase sunitinib concentrations.
 
@@ -322,7 +320,7 @@ Limited clinical data are available on the interaction between sunitinib and BCR
 
 In healthy volunteers, concomitant administration of a single dose of sunitinib with the CYP3A4 inducer rifampicin resulted in a reduction of the combined [sunitinib + primary metabolite] Cmax and AUC0- values of 23% and 46%, respectively.
 
-Administration of sunitinib with potent CYP3A4 inducers (e.g., dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or herbal preparations containing St. John's Wort /Hypericum perforatum ) may decrease sunitinib concentrations. Combination with CYP3A4 inducers should therefore be avoided, or selection of an alternate concomitant medicinal product, with no or minimal potential to induce CYP3A4 should be considered. If this is not possible, the dose of sunitinib may need to be increased in 12.5 mg increments (up to 87.5 mg per day for GIST and MRCC or 62.5 mg per day for pNET), based on careful monitoring of tolerability (see section 4.2).
+Administration of sunitinib with potent CYP3A4 inducers (e.g., dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or herbal preparations containing St. John's Wort/Hypericum perforatum) may decrease sunitinib concentrations. Combination with CYP3A4 inducers should therefore be avoided, or selection of an alternate concomitant medicinal product, with no or minimal potential to induce CYP3A4 should be considered. If this is not possible, the dose of sunitinib may need to be increased in 12.5 mg increments (up to 87.5 mg per day for GIST and MRCC or 62.5 mg per day for pNET), based on careful monitoring of tolerability (see section 4.2).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -336,7 +334,7 @@ There are no studies in pregnant women using sunitinib. Studies in animals have 
 
 ## Breast-feeding
 
-Sunitinib and/or its metabolites are excreted in rat milk. It is not known whether sunitinib or its primary active metabolite is excreted in human milk. Because active substances are commonly excreted in human milk and because of the potential for serious adverse reactions in breast-feeding infants, women should not breast-feed while taking sunitinib .
+Sunitinib and/or its metabolites are excreted in rat milk. It is not known whether sunitinib or its primary active metabolite is excreted in human milk. Because active substances are commonly excreted in human milk and because of the potential for serious adverse reactions in breast-feeding infants, women should not breast-feed while taking sunitinib.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -360,7 +358,7 @@ Fatal events other than those listed in section 4.4 above or in section 4.8 belo
 
 Adverse reactions that were reported in GIST, MRCC, and pNET patients in a pooled dataset of 7,115 patients are listed below, by system organ class, frequency and grade of severity (NCI-CTCAE). Post-marketing adverse reactions identified in clinical studies are also included. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Frequencies are defined as: very common (  1/10), common (  1/100 to &lt;1/10), uncommon (  1/1,000 to &lt;1/100), rare (  1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (1/10), common (1/100 to &lt;1/10), uncommon (1/1,000 to &lt;1/100), rare (1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Table 1. Adverse reactions reported in clinical studies
 
@@ -474,7 +472,7 @@ In GIST patients 'cardiac failure', 'cardiac failure congestive', or 'left ventr
 
 ## Hypertension
 
-Hypertension was a very common adverse reaction reported in clinicalstudies. The dose of sunitinib was reduced or its administration temporarily suspended in approximately 2.7% of the patients who experienced hypertension. Sunitinib was not permanently discontinued in any of these patients. Severe hypertension (&gt; 200 mmHg systolic or 110 mmHg diastolic) was reported in 4.7% of patients with solid tumours. Hypertension was reported in approximately 33.9% of patients receiving sunitinib for treatment-naïve MRCC compared to 3.6% of patients receiving IFN- . Severe hypertension was reported in 12% of treatment-naïve patients on sunitinib and &lt; 1% of patients on IFN- . Hypertension was reported in 26.5% of patients receiving sunitinib in a Phase 3 pNET study, compared to 4.9% of patients receiving placebo. Severe hypertension was reported in 10% of pNET patients on sunitinib and 3% of patients on placebo.
+Hypertension was a very common adverse reaction reported in clinicalstudies. The dose of sunitinib was reduced or its administration temporarily suspended in approximately 2.7% of the patients who experienced hypertension. Sunitinib was not permanently discontinued in any of these patients. Severe hypertension (&gt; 200 mmHg systolic or 110 mmHg diastolic) was reported in 4.7% of patients with solid tumours. Hypertension was reported in approximately 33.9% of patients receiving sunitinib for treatment-naïve MRCC compared to 3.6% of patients receiving IFN-. Severe hypertension was reported in 12% of treatment-naïve patients on sunitinib and &lt; 1% of patients on IFN-. Hypertension was reported in 26.5% of patients receiving sunitinib in a Phase 3 pNET study, compared to 4.9% of patients receiving placebo. Severe hypertension was reported in 10% of pNET patients on sunitinib and 3% of patients on placebo.
 
 ## Venous thromboembolic events
 
@@ -484,7 +482,7 @@ Seven patients (3%) on sunitinib and none on placebo in a Phase 3 GIST study exp
 
 Thirteen patients (3%) receiving sunitinib in the Phase 3 treatment-naïve MRCC study and 4 patients (2%) on the 2 cytokine-refractory MRCC studies had venous thromboembolic events reported. Nine of these patients had pulmonary embolisms; 1 was Grade 2 and 8 were Grade 4. Eight of these patients had DVT; 1 with Grade 1, 2 with Grade 2, 4 with Grade 3, and 1 with Grade 4. One patient with pulmonary embolism in the cytokine-refractory MRCC study experienced dose interruption.
 
-In treatment-naïve MRCC patients receiving IFN- , 6 (2%) venous thromboembolic events were reported; 1 patient (&lt; 1%) experienced a Grade 3 DVT and 5 patients (1%) had pulmonary embolisms, all with Grade 4.
+In treatment-naïve MRCC patients receiving IFN-, 6 (2%) venous thromboembolic events were reported; 1 patient (&lt; 1%) experienced a Grade 3 DVT and 5 patients (1%) had pulmonary embolisms, all with Grade 4.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -524,17 +522,15 @@ Cases of ONJ have been reported in patients treated with sunitinib, most of whic
 
 ## Investigations
 
-Data from non clinical ( in vitro and in vivo ) studies, at doses higher than the recommended human dose, indicated that sunitinib has the potential to inhibit the cardiac action potential repolarisation process (e.g., prolongation of QT interval).
+Data from non clinical (in vitro and in vivo) studies, at doses higher than the recommended human dose, indicated that sunitinib has the potential to inhibit the cardiac action potential repolarisation process (e.g., prolongation of QT interval).
 
-Increases in the QTc interval to over 500 msec were reported in 0.5%, and changes from baseline in excess of 60 msec were reported in 1.1% of the 450 solid tumour patients; both of these parameters are
+Increases in the QTc interval to over 500 msec were reported in 0.5%, and changes from baseline in excess of 60 msec were reported in 1.1% of the 450 solid tumour patients; both of these parameters are recognised as potentially significant changes. At approximately twice therapeutic concentrations, sunitinib has been shown to prolong the QTcF interval (Fridericia corrected QT interval).
 
 <div style=\"page-break-after: always\"></div>
 
-recognised as potentially significant changes. At approximately twice therapeutic concentrations, sunitinib has been shown to prolong the QTcF interval (Fridericia corrected QT interval).
-
 QTc interval prolongation was investigated in a trial in 24 patients, ages 20-87 years, with advanced malignancies. The results of this study demonstrated that sunitinib had an effect on QTc interval (defined as a mean placebo-adjusted change of &gt; 10 msec with a 90% confidence interval [CI] upper limit &gt; 15 msec) at therapeutic concentration (Day 3) using the within-day baseline correction method, and at greater than therapeutic concentration (Day 9) using both baseline correction methods. No patients had a QTc interval &gt; 500 msec. Although an effect on QTcF interval was observed on Day 3 at 24 hours postdose (i.e., at therapeutic plasma concentration expected after the recommended starting dose of 50 mg) with the within-day baseline correction method, the clinical significance of this finding is unclear.
 
-Using comprehensive serial ECG assessments at times corresponding to either therapeutic or greater than therapeutic exposures, none of the patients in the evaluable or intent-to-treat (ITT) populations were observed to develop QTc interval prolongation considered as 'severe' (i.e. equal to or greater than Grade 3 by Common Terminology Criteria for Adverse Events [CTCAE] version 3.0).
+Using comprehensive serial ECG assessments at times corresponding to either therapeutic or greater than therapeutic exposures, none of the patients in the evaluable or intent-to-treat (ITT) populations were observed to develop QTc interval prolongation considered as \"severe\" (i.e. equal to or greater than Grade 3 by Common Terminology Criteria for Adverse Events [CTCAE] version 3.0).
 
 At therapeutic plasma concentrations, the maximum QTcF interval (Frederica's correction) mean change from baseline was 9 msec (90% CI: 15.1 msec). At approximately twice therapeutic concentrations, the maximum QTcF interval change from baseline was 15.4 msec (90% CI: 22.4 msec). Moxifloxacin (400 mg) used as a positive control showed a 5.6 msec maximum mean QTcF interval change from baseline. No subjects experienced an effect on the QTc interval greater than Grade 2 (CTCAE version 3.0) (see section 4.4).
 
@@ -580,7 +576,7 @@ Efficacy is based on time-to-tumour progression (TTP) and an increase in surviva
 
 ## Gastrointestinal stromal tumours
 
-An initial open-label, dose-escalation study was conducted in patients with GIST after failure of imatinib (median maximum daily dose 800 mg) due to resistance or intolerance. Ninety-seven patients were enrolled at various doses and schedules; 55 patients received 50 mg at the recommended treatment Schedule 4 weeks on /2 weeks off ('Schedule 4/2').
+An initial open-label, dose-escalation study was conducted in patients with GIST after failure of imatinib (median maximum daily dose 800 mg) due to resistance or intolerance. Ninety-seven patients were enrolled at various doses and schedules; 55 patients received 50 mg at the recommended treatment Schedule 4 weeks on /2 weeks off (\"Schedule 4/2\").
 
 In this study, the median TTP was 34.0 weeks (95% CI: 22.0, 46.0).
 
@@ -596,36 +592,36 @@ The analyses of primary and secondary endpoints in the open-label phase of the s
 
 Table 2. GIST summary of efficacy endpoints (ITT population)
 
-|               | Double-blind treatment a   | Double-blind treatment a   | Double-blind treatment a   | Double-blind treatment a   |                              |
-|---------------|----------------------------|----------------------------|----------------------------|----------------------------|------------------------------|
-|               | Median (95% CI)            | Median (95% CI)            | Hazard ratio               | Hazard ratio               | Placebo                      |
-| Endpoint      | Sunitinib                  | Placebo                    | (95% CI)                   | p-value                    | cross-over group treatment b |
-| Primary       |                            |                            |                            |                            |                              |
-| TTP (weeks)   |                            |                            |                            |                            |                              |
-| Interim       | 27.3 (16.0, 32.1)          | 6.4 (4.4, 10.0)            | 0.329 (0.233, 0.466)       | < 0.001                    | -                            |
-| Final         | 26.6 (16.0, 32.1)          | 6.4 (4.4, 10.0)            | 0.339 (0.244, 0.472)       | < 0.001                    | 10.4 (4.3, 22.0)             |
-| Secondary     |                            |                            |                            |                            |                              |
-| PFS (weeks) c |                            |                            |                            |                            |                              |
-| Interim       | 24.1 (11.1, 28.3)          | 6.0 (4.4, 9.9)             | 0.333 (0.238, 0.467)       | < 0.001                    | -                            |
-| Final         | 22.9 (10.9, 28.0)          | 6.0 (4.4, 9.7)             | 0.347 (0.253, 0.475)       | < 0.001                    | -                            |
-| ORR (%) d     |                            |                            |                            |                            |                              |
-| Interim       | 6.8 (3.7, 11.1)            | 0 (-)                      | NA                         | 0.006                      | -                            |
-| Final         | 6.6 (3.8, 10.5)            | 0 (-)                      | NA                         | 0.004                      | 10.1 (5.0, 17.8)             |
-| OS (weeks) e  |                            |                            |                            |                            |                              |
-| Interim       | -                          | -                          | 0.491 (0.290, 0.831)       | 0.007                      | -                            |
-| Final         | 72.7 (61.3, 83.0)          | 64.9 (45.7, 96.0)          | 0.876 (0.679, 1.129)       | 0.306                      | -                            |
+| Endpoint      | Double-blind treatment a - Median (95% CI) - Sunitinib   | Double-blind treatment a - Median (95% CI) - Placebo   | Double-blind treatment a - Hazard ratio - (95% CI)   | Double-blind treatment a - Hazard ratio - p-value   | Placebo - cross-over group treatment b   |
+|---------------|----------------------------------------------------------|--------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|------------------------------------------|
+| Primary       |                                                          |                                                        |                                                      |                                                     |                                          |
+| TTP (weeks)   |                                                          |                                                        |                                                      |                                                     |                                          |
+| Interim       | 27.3 (16.0, 32.1)                                        | 6.4 (4.4, 10.0)                                        | 0.329 (0.233, 0.466)                                 | < 0.001                                             | -                                        |
+| Final         | 26.6 (16.0, 32.1)                                        | 6.4 (4.4, 10.0)                                        | 0.339 (0.244, 0.472)                                 | < 0.001                                             | 10.4 (4.3, 22.0)                         |
+| Secondary     |                                                          |                                                        |                                                      |                                                     |                                          |
+| PFS (weeks) c |                                                          |                                                        |                                                      |                                                     |                                          |
+| Interim       | 24.1 (11.1, 28.3)                                        | 6.0 (4.4, 9.9)                                         | 0.333 (0.238, 0.467)                                 | < 0.001                                             | -                                        |
+| Final         | 22.9 (10.9, 28.0)                                        | 6.0 (4.4, 9.7)                                         | 0.347 (0.253, 0.475)                                 | < 0.001                                             | -                                        |
+| ORR (%) d     |                                                          |                                                        |                                                      |                                                     |                                          |
+| Interim       | 6.8 (3.7, 11.1)                                          | 0 (-)                                                  | NA                                                   | 0.006                                               | -                                        |
+| Final         | 6.6 (3.8, 10.5)                                          | 0 (-)                                                  | NA                                                   | 0.004                                               | 10.1 (5.0, 17.8)                         |
+| OS (weeks) e  |                                                          |                                                        |                                                      |                                                     |                                          |
+| Interim       | -                                                        | -                                                      | 0.491 (0.290, 0.831)                                 | 0.007                                               | -                                        |
+| Final         | 72.7 (61.3, 83.0)                                        | 64.9 (45.7, 96.0)                                      | 0.876 (0.679, 1.129)                                 | 0.306                                               | -                                        |
 
 Abbreviations: CI=confidence interval; ITT=intent-to-treat; NA=not applicable; ORR=objective response rate;
 
 OS=overall survival; PFS=progression-free survival; TTP=time-to-tumour progression.
 
-a Results of double-blind treatment are from the ITT population and using central radiologist measurement, as appropriate.
+- a Results of double-blind treatment are from the ITT population and using central radiologist measurement, as appropriate.
 
 b Efficacy results for the 99 subjects who crossed over from placebo to sunitinib after unblinding. Baseline was reset at cross-over and efficacy analyses were based on investigators assessment.
 
-- c The interim PFS numbers have been updated based on a recalculation of the original data.
-- d Results for ORR are given as percent of subjects with confirmed response with the 95% CI.
-- e Median not achieved because the data were not yet mature.
+c The interim PFS numbers have been updated based on a recalculation of the original data.
+
+d Results for ORR are given as percent of subjects with confirmed response with the 95% CI.
+
+e Median not achieved because the data were not yet mature.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -643,36 +639,36 @@ The overall PFS and OS, observed in the ITT population, as determined by the cor
 
 Table 3. Treatment-naïve mRCC summary of efficacy endpoints (ITT population)
 
-| Summary of progression-free survival                | Sunitinib (N = 375)   | IFN-  (N = 375)   |
-|-----------------------------------------------------|-----------------------|--------------------|
-| Subject did not progress or die [n (%)]             | 161 (42.9)            | 176 (46.9)         |
-| Subject observed to have progressed or died [n (%)] | 214 (57.1)            | 199 (53.1)         |
-| PFS (weeks)                                         |                       |                    |
-| Quartile (95% CI)                                   |                       |                    |
-| 25%                                                 | 22.7 (18.0, 34.0)     | 10.0 (7.3, 10.3)   |
-| 50%                                                 | 48.3 (46.4, 58.3)     | 22.1 (17.1, 24.0)  |
-| 75%                                                 | 84.3 (72.9, 95.1)     | 58.1 (45.6, 82.1)  |
-| Unstratified analysis                               |                       |                    |
-| Hazard ratio (sunitinib versus IFN-  )             | 0.5268                | 0.5268             |
-| 95% CI for hazard ratio                             | (0.4316, 0.6430)      | (0.4316, 0.6430)   |
-| p-value a                                           | < 0.0001              | < 0.0001           |
+| Summary of progression-free survival                | Sunitinib (N = 375)   | IFN- (N = 375)   |
+|-----------------------------------------------------|-----------------------|-------------------|
+| Subject did not progress or die [n (%)]             | 161 (42.9)            | 176 (46.9)        |
+| Subject observed to have progressed or died [n (%)] | 214 (57.1)            | 199 (53.1)        |
+| PFS (weeks)                                         |                       |                   |
+| Quartile (95% CI)                                   |                       |                   |
+| 25%                                                 | 22.7 (18.0, 34.0)     | 10.0 (7.3, 10.3)  |
+| 50%                                                 | 48.3 (46.4, 58.3)     | 22.1 (17.1, 24.0) |
+| 75%                                                 | 84.3 (72.9, 95.1)     | 58.1 (45.6, 82.1) |
+| Unstratified analysis                               |                       |                   |
+| Hazard ratio (sunitinib versus IFN-)               | 0.5268                | 0.5268            |
+| 95% CI for hazard ratio                             | (0.4316, 0.6430)      | (0.4316, 0.6430)  |
+| p-value a                                           | < 0.0001              | < 0.0001          |
 
 <div style=\"page-break-after: always\"></div>
 
-| Summary of progression-free survival    | Sunitinib (N = 375)   | IFN-  (N = 375)   |
-|-----------------------------------------|-----------------------|--------------------|
-| Summary of overall survival             |                       |                    |
-| Subject not known to have died [n (%)]  | 185 (49.3)            | 175 (46.7)         |
-| Subject observed to have died [n (%)]   | 190 (50.7)            | 200 (53.3)         |
-| OS (weeks)                              |                       |                    |
-| Quartile (95% CI)                       |                       |                    |
-| 25%                                     | 56.6 (48.7, 68.4)     | 41.7 (32.6, 51.6)  |
-| 50%                                     | 114.6 (100.1, 142.9)  | 94.9 (77.7, 117.0) |
-| 75%                                     | NA (NA, NA)           | NA (NA, NA)        |
-| Unstratified analysis                   |                       |                    |
-| Hazard ratio (sunitinib versus IFN-  ) | 0.8209                | 0.8209             |
-| 95% CI for hazard ratio                 | (0.6730, 1.0013)      | (0.6730, 1.0013)   |
-| p-value a                               | 0.0510                | 0.0510             |
+| Summary of progression-free survival   | Sunitinib (N = 375)   | IFN- (N = 375)    |
+|----------------------------------------|-----------------------|--------------------|
+| Summary of overall survival            |                       |                    |
+| Subject not known to have died [n (%)] | 185 (49.3)            | 175 (46.7)         |
+| Subject observed to have died [n (%)]  | 190 (50.7)            | 200 (53.3)         |
+| OS (weeks)                             |                       |                    |
+| Quartile (95% CI)                      |                       |                    |
+| 25%                                    | 56.6 (48.7, 68.4)     | 41.7 (32.6, 51.6)  |
+| 50%                                    | 114.6 (100.1, 142.9)  | 94.9 (77.7, 117.0) |
+| 75%                                    | NA (NA, NA)           | NA (NA, NA)        |
+| Unstratified analysis                  |                       |                    |
+| Hazard ratio (sunitinib versus IFN-)  | 0.8209                | 0.8209             |
+| 95% CI for hazard ratio                | (0.6730, 1.0013)      | (0.6730, 1.0013)   |
+| p-value a                              | 0.0510                | 0.0510             |
 
 Abbreviations: CI=confidence interval; INF-α=interferon-alfa; ITT=intent-to-treat; N=number of patients; NA=not applicable; OS=overall survival; PFS=progression-free survival.
 
@@ -680,11 +676,11 @@ a From a 2-sided log-rank test.
 
 ## Cytokine-refractory metastatic renal cell carcinoma
 
-A phase 2 study of sunitinib was conducted in patients who were refractory to prior cytokine therapy with interleukin-2 or IFN- . Sixty-three patients received a starting dose of 50 mg sunitinib orally, once daily for 4 consecutive weeks followed by a 2-week rest period, to comprise a complete cycle of 6 weeks (Schedule 4/2). The primary efficacy endpoint was ORR, based on Response Evaluation Criteria in Solid Tumours (RECIST).
+A phase 2 study of sunitinib was conducted in patients who were refractory to prior cytokine therapy with interleukin-2 or IFN-. Sixty-three patients received a starting dose of 50 mg sunitinib orally, once daily for 4 consecutive weeks followed by a 2-week rest period, to comprise a complete cycle of 6 weeks (Schedule 4/2). The primary efficacy endpoint was ORR, based on Response Evaluation Criteria in Solid Tumours (RECIST).
 
 In this study the objective response rate was 36.5% (95% CI: 24.7%, 49.6%) and the median TTP was 37.7 weeks (95% CI: 24.0, 46.4).
 
-A confirmatory , open-label , single-arm, multi-centre study evaluating the efficacy and safety of sunitinib was conducted in patients with MRCC who were refractory to prior cytokine therapy . One hundred and 6 patients received at least one 50 mg dose of sunitinib on Schedule 4/2 .
+A confirmatory, open-label, single-arm, multi-centre study evaluating the efficacy and safety of sunitinib was conducted in patients with MRCC who were refractory to prior cytokine therapy. One hundred and 6 patients received at least one 50 mg dose of sunitinib on Schedule 4/2.
 
 The primary efficacy endpoint of this study was ORR. Secondary endpoints included TTP, duration of response (DR) and OS.
 
@@ -723,7 +719,7 @@ Table 4 - pNET efficacy results from the Phase 3 study
 | Progression-free survival [median, months (95% CI)] by Investigator Assessment                                                                                | 11.4 (7.4, 19.8)    | 5.5 (3.6, 7.4)     | 0.418 (0.263, 0.662)    | 0.0001 a   |
 | Progression-free survival [median, months (95% CI)] by derived tumour response assessment based upon application of RECIST to investigator tumour assessments | 12.6 (7.4, 16.9)    | 5.4 (3.5, 6.0)     | 0.401 (0.252, 0.640)    | 0.000066 a |
 | Progression-free survival [median, months (95% CI)] by blinded independent central review of tumour                                                           | 12.6 (11.1, 20.6)   | 5.8 (3.8, 7.2)     | 0.315 (0.181, 0.546)    | 0.000015 a |
-| Overall survival [5 years follow-up] [median, months (95% CI)]                                                                                                | 38.6 (25.6, 56.4)   | 29.1 (16.4, 36.8)  | 0.730 (0.504, 1.057)    | 0.0940 a   |
+| assessments Overall survival [5 years follow-up] [median, months (95% CI)]                                                                                    | 38.6 (25.6, 56.4)   | 29.1 (16.4, 36.8)  | 0.730 (0.504, 1.057)    | 0.0940 a   |
 | Objective response rate [%, (95% CI)]                                                                                                                         | 9.3 (3.2, 15.4)     | 0                  | NA                      | 0.0066 b   |
 
 Abbreviations: CI=confidence interval; N=number of patients; NA=not applicable; pNET=pancreatic neuroendocrine tumours; RECIST=response evaluation criteria in solid tumours.
@@ -732,7 +728,7 @@ a 2-sided unstratified log-rank test
 
 b Fisher's Exact test
 
-Figure 1.  Kaplan-Meier plot of PFS in the pNET Phase 3 study
+Figure 1. Kaplan-Meier plot of PFS in the pNET Phase 3 study
 
 <!-- image -->
 
@@ -764,11 +760,9 @@ A phase 1 dose-escalation study of oral sunitinib was conducted in 35 patients c
 
 A phase 2 open-label study was conducted in 29 patients comprised of 27 paediatric patients (aged 3 years to 16 years) and 2 young adult patients (aged 18 years to 19 years) with HGG or ependymoma. The study was closed at the time of planned interim analysis due to the lack of disease control. Median PFS was 2.3 months in the HGG group and 2.7 months in the ependymoma group. Median overall OS was 5.1 months in the HGG group and 12.3 months in the ependymoma group. The most common (≥10%) reported treatment-related adverse events in patients in both groups combined were neutrophil count decreased (6 patients [20.7%]) and haemorrhage intracranial (3 patients [10.3%]) (see section 4.8).
 
-Evidence from a phase 1/2 study of oral sunitinib conducted in 6 paediatric patients with GIST aged 13 years to 16 years who received sunitinib on Schedule 4/2, at doses ranging between 15 mg/m 2 daily and 30 mg/m 2 daily, and available published data (20 paediatric or young adult patients with GIST) indicated that sunitinib treatment resulted in disease stabilization in 18 of 26 (69.2%) patients, either after imatinib failure or intolerance (16 patients with stable disease out of 21), or de novo/after surgery (2 patients with stable disease out of 5). In the Phase 1/2 study, stable disease and disease progression was observed in 3 out of 6 patients each (1 patient received neo adjuvant and 1 patient received
+Evidence from a phase 1/2 study of oral sunitinib conducted in 6 paediatric patients with GIST aged 13 years to 16 years who received sunitinib on Schedule 4/2, at doses ranging between 15 mg/m 2 daily and 30 mg/m 2 daily, and available published data (20 paediatric or young adult patients with GIST) indicated that sunitinib treatment resulted in disease stabilization in 18 of 26 (69.2%) patients, either after imatinib failure or intolerance (16 patients with stable disease out of 21), or de novo/after surgery (2 patients with stable disease out of 5). In the Phase 1/2 study, stable disease and disease progression was observed in 3 out of 6 patients each (1 patient received neo adjuvant and 1 patient received adjuvant imatinib, respectively). In the same study, 4 out of 6 patients (66.7%) experienced Grade 3-4 treatment-related adverse events (Grade 3 hypophosphataemia, neutropenia, and thrombocytopenia in 1 patient each and a Grade 4 neutropenia in 1 patient). In addition, the publications reported the following Grade 3 adverse drug reactions experienced by 5 patients: fatigue (2), gastrointestinal adverse drug reactions (including diarrhoea) (2), haematologic adverse drug reactions (including anaemia) (2), cholecystitis (1), hyperthyroidism (1), and mucositis (1).
 
 <div style=\"page-break-after: always\"></div>
-
-adjuvant imatinib, respectively). In the same study, 4 out of 6 patients (66.7%) experienced Grade 3-4 treatment-related adverse events (Grade 3 hypophosphataemia, neutropenia, and thrombocytopenia in 1 patient each and a Grade 4 neutropenia in 1 patient). In addition, the publications reported the following Grade 3 adverse drug reactions experienced by 5 patients: fatigue (2), gastrointestinal adverse drug reactions (including diarrhoea) (2), haematologic adverse drug reactions (including anaemia) (2), cholecystitis (1), hyperthyroidism (1), and mucositis (1).
 
 A population pharmacokinetic (PK) and pharmacokinetic/pharmacodynamic (PK/PD) analysis was conducted with the scope to extrapolate the PK and key safety and efficacy endpoints of sunitinib in paediatric patients with GIST (aged: 6 years to 17 years). This analysis was based on data collected from adults with GIST or solid tumours and from paediatric patients with solid tumours. Based on the modelling analyses, the younger age and lower body size did not appear to affect negatively the safety and efficacy responses to sunitinib plasma exposures. Sunitinib benefit/risk did not appear to be negatively affected by younger age or lower body size, and was mainly driven by its plasma exposure.
 
@@ -786,11 +780,11 @@ In the dosing ranges of 25 to 100 mg, the area under the plasma concentration-ti
 
 After oral administration of sunitinib, Cmax are generally observed from 6 to 12 hours time to maximum concentration (tmax) postadministration.
 
-Food has no effect on the bioavailability of sunitinib .
+Food has no effect on the bioavailability of sunitinib.
 
 ## Distribution
 
-In vitro , binding of sunitinib and its primary active metabolite to human plasma protein was 95% and 90%, respectively, with no apparent concentration dependence. The apparent volume of distribution (Vd) for sunitinib was large, 2230 L, indicating distribution into the tissues.
+In vitro, binding of sunitinib and its primary active metabolite to human plasma protein was 95% and 90%, respectively, with no apparent concentration dependence. The apparent volume of distribution (Vd) for sunitinib was large, 2230 L, indicating distribution into the tissues.
 
 ## Metabolic interactions
 
@@ -810,7 +804,7 @@ Excretion is primarily via faeces (61%), with renal elimination of unchanged act
 
 ## Co-administration with medicinal products that are BCRP inhibitors
 
-In vitro , sunitinib is a substrate of the efflux transporter BCRP. In study A6181038 the co-administration of gefitinib, a BCRP inhibitor, did not result in a clinically relevant effect on the Cmax and AUC for sunitinib or total drug (sunitinib + metabolite) (see section 4.5). This study was a multi-centre, open-label, Phase 1/2 study examining the safety/tolerability, the maximum tolerated dose, and the antitumour activity of sunitinib in combination with gefitinib in subjects with MRCC. The PK of gefitinib (250 mg daily) and sunitinib (37.5 mg [Cohort 1, n=4] or 50 mg [Cohort 2, n=7] daily on a 4-weeks on followed by 2 weeks-off schedule) when co-administered was evaluated as a secondary study objective. Changes in sunitinib PK parameters were of no clinical significance and did not indicate any drug-drug interactions; however, considering the relatively low number of subjects (i.e. N=7+4) and the moderate-large interpatient variability in the pharmacokinetic parameters, caution needs to be taken when interpreting the PK drug-drug interaction findings from this study.
+In vitro, sunitinib is a substrate of the efflux transporter BCRP. In study A6181038 the co-administration of gefitinib, a BCRP inhibitor, did not result in a clinically relevant effect on the Cmax and AUC for sunitinib or total drug (sunitinib + metabolite) (see section 4.5). This study was a multi-centre, open-label, Phase 1/2 study examining the safety/tolerability, the maximum tolerated dose, and the antitumour activity of sunitinib in combination with gefitinib in subjects with MRCC. The PK of gefitinib (250 mg daily) and sunitinib (37.5 mg [Cohort 1, n=4] or 50 mg [Cohort 2, n=7] daily on a 4-weeks on followed by 2 weeks-off schedule) when co-administered was evaluated as a secondary study objective. Changes in sunitinib PK parameters were of no clinical significance and did not indicate any drug-drug interactions; however, considering the relatively low number of subjects (i.e. N=7+4) and the moderate-large interpatient variability in the pharmacokinetic parameters, caution needs to be taken when interpreting the PK drug-drug interaction findings from this study.
 
 ## Special populations
 
@@ -846,17 +840,15 @@ In rat and monkey repeated-dose toxicity studies up to 9-months duration, the pr
 
 ## Genotoxicity
 
-The genotoxic potential of sunitinib was assessed in vitro and in vivo . Sunitinib was not mutagenic in bacteria using metabolic activation provided by rat liver. Sunitinib did not induce structural chromosome aberrations in human peripheral blood lymphocyte cells in vitro. Polyploidy (numerical chromosome aberrations) was observed in human peripheral blood lymphocytes in vitro , both in the presence and absence of metabolic activation. Sunitinib was not clastogenic in rat bone marrow in vivo. The major active metabolite was not evaluated for genotoxic potential.
+The genotoxic potential of sunitinib was assessed in vitro and in vivo. Sunitinib was not mutagenic in bacteria using metabolic activation provided by rat liver. Sunitinib did not induce structural chromosome aberrations in human peripheral blood lymphocyte cells in vitro. Polyploidy (numerical chromosome aberrations) was observed in human peripheral blood lymphocytes in vitro, both in the presence and absence of metabolic activation. Sunitinib was not clastogenic in rat bone marrow in vivo. The major active metabolite was not evaluated for genotoxic potential.
 
 ## Carcinogenicity
 
 In a 1-month, oral gavage dose-range finding study (0, 10, 25, 75, or 200 mg/kg/day) with continuous daily dosing in rasH2 transgenic mice, carcinoma and hyperplasia of Brunner's glands of the duodenum were observed at the highest dose (200 mg/kg/day) tested.
 
-A 6-month, oral gavage carcinogenicity study (0, 8, 25, 75 [reduced to 50] mg/kg/day), with daily dosing was conducted in rasH2 transgenic mice. Gastroduodenal carcinomas, an increased incidence of background haemangiosarcomas, and/or gastric mucosal hyperplasia were observed at doses
+A 6-month, oral gavage carcinogenicity study (0, 8, 25, 75 [reduced to 50] mg/kg/day), with daily dosing was conducted in rasH2 transgenic mice. Gastroduodenal carcinomas, an increased incidence of background haemangiosarcomas, and/or gastric mucosal hyperplasia were observed at doses of ≥ 25 mg/kg/day following 1- or 6-months duration (≥ 7.3 times the AUC in patients administered the recommended daily dose RDD).
 
 <div style=\"page-break-after: always\"></div>
-
-of ≥ 25 mg/kg/day following 1- or 6-months duration (≥ 7.3 times the AUC in patients administered the recommended daily dose  RDD  ).
 
 In a 2-year rat carcinogenicity study (0, 0.33, 1, or 3 mg/kg/day), administration of sunitinib in 28-day cycles followed by 7-day dose-free periods resulted in increases in the incidence of phaeochromocytomas and hyperplasia in the adrenal medulla of male rats given 3 mg/kg/day following &gt; 1 year of dosing (≥ 7.8 times the AUC in patients administered the RDD). Brunner's glands carcinoma occurred in the duodenum at ≥ 1 mg/kg/day in females and at 3 mg/kg/day in males, and mucous cell hyperplasia was evident in the glandular stomach at 3 mg/kg/day in males, which occurred at ≥ 0.9, 7.8, and 7.8 times the AUC in patients administered the RDD, respectively. The relevance to humans of the neoplastic findings observed in the mouse (rasH2 transgenic) and rat carcinogenicity studies with sunitinib treatment is unclear.
 
@@ -872,31 +864,9 @@ Sunitinib (0.3, 1.0, 3.0 mg/kg/day) was evaluated in a pre-and postnatal develop
 
 ## 6.1 List of excipients
 
-Sunitinib Accord 12.5 mg hard c  apsules Capsule content Cellulose, microcrystalline Mannitol (E421) Croscarmellose sodium Povidone (E1201) Magnesium stearate
+Sunitinib Accord 12.5 mg hard c apsules Capsule content Cellulose, microcrystalline Mannitol (E421) Croscarmellose sodium Povidone (E1201) Magnesium stearate
 
-Capsule shell
-
-<div style=\"page-break-after: always\"></div>
-
-Gelatin Titanium dioxide (E171) Red Iron oxide (E172) Printing ink white
-
-Printing ink white Shellac Titanium dioxide (E171) Propylene glycol
-
-Sunitinib Accord 25 mg hard c  apsules Capsule content Cellulose, microcrystalline
-
-Mannitol (E421) Croscarmellose sodium Povidone (E1201) Magnesium stearate
-
-Capsule shell Gelatin Titanium dioxide (E171) Black Iron oxide (E172) Red Iron oxide (E172) Yellow Iron oxide (E172) Printing ink white
-
-Printing ink white Shellac Titanium dioxide (E171) Propylene glycol
-
-Sunitinib Accord 37.5 mg hard c  apsules Capsule content Cellulose, microcrystalline Mannitol (E421) Croscarmellose sodium Povidone (E1201) Magnesium stearate
-
-Capsule shell Gelatin Titanium dioxide (E171) Yellow Iron oxide (E172) Printing ink black
-
-Printing ink black Shellac Black iron oxide (E172) Propylene glycol Ammonium hydroxide
-
-Sunitinib Accord 50 mg hard c  apsules Capsule content Cellulose, microcrystalline Mannitol (E421) Croscarmellose sodium Povidone (E1201)
+Capsule shell Gelatin Red Iron oxide (E172) Printing ink white Titanium dioxide (E171) Printing ink white Shellac Titanium dioxide (E171) Propylene glycol Sunitinib Accord 25 mg hard c apsules Capsule content Cellulose, microcrystalline Mannitol (E421) Croscarmellose sodium Povidone (E1201) Magnesium stearate Capsule shell Gelatin Titanium dioxide (E171) Black Iron oxide (E172) Red Iron oxide (E172) Yellow Iron oxide (E172) Printing ink white Printing ink white Shellac Titanium dioxide (E171) Propylene glycol Sunitinib Accord 37.5 mg hard c apsules Capsule content Cellulose, microcrystalline Mannitol (E421) Croscarmellose sodium Povidone (E1201) Magnesium stearate Capsule shell Gelatin Titanium dioxide (E171) Yellow Iron oxide (E172) Printing ink black Printing ink black Shellac Black iron oxide (E172) Propylene glycol Ammonium hydroxide Sunitinib Accord 50 mg hard c apsules Capsule content Cellulose, microcrystalline Mannitol (E421) Croscarmellose sodium Povidone (E1201)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -912,7 +882,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-3 years.
+4 years.
 
 ## 6.4 Special precautions for storage
 
@@ -938,6 +908,8 @@ Accord Healthcare S.L.U. World Trade Center, Moll De Barcelona s/n, Edifici Est,
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
+<div style=\"page-break-after: always\"></div>
+
 Sunitinib Accord 12.5 mg hard capsules EU/1/20/1511/001-003
 
 Sunitinib Accord 25 mg hard capsules
@@ -948,11 +920,11 @@ Sunitinib Accord 37.5 mg hard capsules EU/1/20/1511/007-009
 
 Sunitinib Accord 50 mg hard capsules EU/1/20/1511/010-012
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 11 February 2021 Date of latest renewal:
+Date of first authorisation: 11 February 2021
+
+Date of latest renewal: 26 November 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -985,20 +957,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update report (PSURs)
+## · Periodic safety update report (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1008,11 +980,11 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON  FOR BLISTER PACK
+## OUTER CARTON FOR BLISTER PACK
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1040,7 +1012,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1058,65 +1030,65 @@ Accord Healthcare S.L.U.
 
 World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a Planta, Barcelona, 08039 Spain
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/20/1511/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Sunitinib Accord 12.5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Sunitinib Accord 12.5 mg hard capsules sunitinib
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-| 5.   | OTHER   |
-|------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Sunitinib Accord 12.5 mg hard capsules sunitinib
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
 Accord
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1273,7 +1245,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1285,9 +1257,7 @@ Sunitinib Accord 37.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -1489,13 +1459,11 @@ Sunitinib Accord 12.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1525,6 +1493,8 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1560,11 +1530,9 @@ Keep out of the sight and reach of children.
 
 EXP
 
-9. SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1639,7 +1607,7 @@ Sunitinib Accord 37.5 mg hard capsules sunitinib
 
 Each hard capsule contains 37.5 mg of sunitinib
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1661,7 +1629,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-9. SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1681,7 +1649,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1728,6 +1696,8 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 ## OUTER CARTON FOR UNIT DOSE BLISTER PACK
@@ -1762,11 +1732,9 @@ Keep out of the sight and reach of children.
 
 EXP
 
-9. SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1841,7 +1809,7 @@ Sunitinib Accord 12.5 mg hard capsules sunitinib
 
 Each hard capsule contains 12.5 mg of sunitinib
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1895,9 +1863,7 @@ Sunitinib Accord 12.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -1945,8 +1911,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a Planta, Barcelona, 08039 Spain
 
@@ -1955,7 +1921,8 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est,
 
 EU/1/20/1511/003
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
@@ -1971,8 +1938,8 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2076,7 +2043,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -2088,8 +2055,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a Planta, Barcelona, 08039 Spain
 
@@ -2098,7 +2065,8 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est,
 
 EU/1/20/1511/006
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
@@ -2114,12 +2082,12 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON FOR BOTTLE PACK
+## OUTER CARTON FOR BOTTLE PACK
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2159,7 +2127,9 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a Planta, Barcelona, 08039 Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a Planta, Barcelona, 08039
+
+Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2183,9 +2153,7 @@ Sunitinib Accord 37.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -2233,8 +2201,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a Planta, Barcelona, 08039 Spain
 
@@ -2257,11 +2225,11 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2315,7 +2283,8 @@ EU/1/20/1511/012
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
@@ -2365,7 +2334,7 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -2379,8 +2348,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a Planta, Barcelona, 08039 Spain
 
@@ -2406,8 +2375,8 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2417,73 +2386,75 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-Sunitinib Accord 12.5 mg hard capsules Sunitinib Accord 25 mg hard capsules Sunitinib Accord 37.5 mg hard capsules Sunitinib Accord 50 mg hard capsules sunitinib
+Sunitinib Accord 12.5 mg hard capsules Sunitinib Accord 25 mg hard capsules Sunitinib Accord 37.5 mg hard capsules Sunitinib Accord 50 mg hard capsules
+
+sunitinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor ,pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor ,pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
 1. What Sunitinib Accord is and what it is used for
-2. What you need to know before you take  Sunitinib Accord
-3. How to take  Sunitinib Accord
+2. What you need to know before you take Sunitinib Accord
+3. How to take Sunitinib Accord
 4. Possible side effects
-5. How to store  Sunitinib Accord
+5. How to store Sunitinib Accord
 6. Contents of the pack and other information
 
 ## 1. What Sunitinib Accord is and what it is used for
 
-Sunitinib Accord  contains the active substance sunitinib, which is a protein kinase inhibitor. It is used to treat cancer by preventing the activity of a special group of proteins which are known to be involved in the growth and spread of cancer cells.
+Sunitinib Accord contains the active substance sunitinib, which is a protein kinase inhibitor. It is used to treat cancer by preventing the activity of a special group of proteins which are known to be involved in the growth and spread of cancer cells.
 
 Sunitinib Accord is used to treat adults with the following types of cancer:
 
-- -Gastrointestinal stromal tumour (GIST), a type of cancer of the stomach and bowel, where imatinib (another anticancer medicine) no longer works or you cannot take imatinib.
-- -Metastatic renal cell carcinoma (MRCC), a type of kidney cancer that has spread to other parts of the body.
-- -Pancreatic neuroendocrine tumours (pNET) (tumours of the hormone-producing cells in the pancreas) that have progressed or cannot be removed with surgery.
+- Gastrointestinal stromal tumour (GIST), a type of cancer of the stomach and bowel, where imatinib (another anticancer medicine) no longer works or you cannot take imatinib.
+- Metastatic renal cell carcinoma (MRCC), a type of kidney cancer that has spread to other parts of the body.
+- Pancreatic neuroendocrine tumours (pNET) (tumours of the hormone-producing cells in the pancreas) that have progressed or cannot be removed with surgery.
 
 If you have any questions about how Sunitinib Accord works or why this medicine has been prescribed for you, ask your doctor.
 
 ## 2. What you need to know before you take Sunitinib Accord
 
-## Do not take  Sunitinib Accord
+## Do not take Sunitinib Accord
 
-- -If you are allergic to sunitinib or any of the other ingredients of this medicine (listed in section 6).
+- If you are allergic to sunitinib or any of the other ingredients of this medicine (listed in section 6).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
-## Talk to your doctor, pharmacist  before taking Sunitinib Accord:
+## Talk to your doctor, pharmacist before taking Sunitinib Accord:
 
-- -If you have high blood pressure. Sunitinib Accord can raise blood pressure. Your doctor may check your blood pressure during treatment with Sunitinib Accord, and you may be treated with medicines to reduce the blood pressure, if needed.
-- -If you have or have had blood disease, bleeding problems, or bruising. Treatment with Sunitinib Accord may lead to a higher risk of bleeding or lead to changes in the number of certain cells in the blood which may lead to anaemia or affect the ability of your blood to clot. If you are taking warfarin or acenocoumarole, medicines which thin the blood to prevent blood clots, there may be a greater risk of bleeding. Tell your doctor if you have any bleeding while on treatment with Sunitinib Accord.
-- -If you have heart problems. Sunitinib Accord can cause heart problems. Tell your doctor if you feel very tired, are short of breath, or have swollen feet and ankles.
-- -If you have abnormal heart rhythm changes. Sunitinib Accord can cause abnormality of your heart rhythm. Your doctor may obtain electrocardiograms to evaluate for these problems during your treatment with Sunitinib Accord.Tell your doctor if you feel dizzy, faint, or have abnormal heartbeats while taking Sunitinib Accord.
-- -If you have had a recent problem with blood clots in your veins and/or arteries (types of blood vessels), including stroke, heart attack, embolism, or thrombosis. Call your doctor immediately if you get symptoms such as chest pain or pressure, pain in your arms, back, neck or jaw, shortness of breath, numbness or weakness on 1 side of your body, trouble talking, headache, or dizziness while on treatment with Sunitinib Accord.
-- -If you have or have had an aneurysm (enlargement and weakening of a blood vessel wall) or a tear in a blood vessel wall.
-- -If you have or have had damage to the smallest blood vessels known as thrombotic microangiopathy (TMA). Tell your doctor if you develop fever, fatigue, tiredness, bruising, bleeding, swelling, confusion, vision loss, and seizures.
-- -If you have thyroid glands problems. Sunitinib Accord can cause thyroid gland problems. Tell your doctor if you get tired more easily, generally feel colder than other people, or your voice deepens whilst taking Sunitinib Accord. Your thyroid function should be checked before you take Sunitinib Accord and regularly while you are taking it. If your thyroid gland is not producing enough thyroid hormone, you may be treated with thyroid hormone replacement.
-- -If you have or have had pancreatic or gallbladder disorders. Tell your doctor if you develop any of the following signs and symptoms: pain in the area of the stomach (upper abdomen), nausea, vomiting, and fever. These may be caused by inflammation of the pancreas or gallbladder.
-- -If you have or have had liver problems. Tell your doctor if you develop any of the following signs and symptoms of liver problems during Sunitinib Accord treatment: itching, yellow eyes or skin, dark urine, and pain or discomfort in the right upper stomach area. Your doctor should do blood tests to check your liver function before and during treatment with Sunitinib Accord, and as clinically indicated.
-- -If you have or have had kidney problems. Your doctor will monitor your kidney function.
+- If you have high blood pressure. Sunitinib Accord can raise blood pressure. Your doctor may check your blood pressure during treatment with Sunitinib Accord, and you may be treated with medicines to reduce the blood pressure, if needed.
+- If you have or have had blood disease, bleeding problems, or bruising. Treatment with Sunitinib Accord may lead to a higher risk of bleeding or lead to changes in the number of certain cells in the blood which may lead to anaemia or affect the ability of your blood to clot. If you are taking warfarin or acenocoumarole, medicines which thin the blood to prevent blood clots, there may be a greater risk of bleeding. Tell your doctor if you have any bleeding while on treatment with Sunitinib Accord.
+- If you have heart problems. Sunitinib Accord can cause heart problems. Tell your doctor if you feel very tired, are short of breath, or have swollen feet and ankles.
+- If you have abnormal heart rhythm changes. Sunitinib Accord can cause abnormality of your heart rhythm. Your doctor may obtain electrocardiograms to evaluate for these problems during your treatment with Sunitinib Accord.Tell your doctor if you feel dizzy, faint, or have abnormal heartbeats while taking Sunitinib Accord.
+- If you have had a recent problem with blood clots in your veins and/or arteries (types of blood vessels), including stroke, heart attack, embolism, or thrombosis. Call your doctor immediately if you get symptoms such as chest pain or pressure, pain in your arms, back, neck or jaw, shortness of breath, numbness or weakness on 1 side of your body, trouble talking, headache, or dizziness while on treatment with Sunitinib Accord.
+- If you have or have had an aneurysm (enlargement and weakening of a blood vessel wall) or a tear in a blood vessel wall.
+- If you have or have had damage to the smallest blood vessels known as thrombotic microangiopathy (TMA). Tell your doctor if you develop fever, fatigue, tiredness, bruising, bleeding, swelling, confusion, vision loss, and seizures.
+- If you have thyroid glands problems. Sunitinib Accord can cause thyroid gland problems. Tell your doctor if you get tired more easily, generally feel colder than other people, or your voice deepens whilst taking Sunitinib Accord. Your thyroid function should be checked before you take Sunitinib Accord and regularly while you are taking it. If your thyroid gland is not producing enough thyroid hormone, you may be treated with thyroid hormone replacement.
+- If you have or have had pancreatic or gallbladder disorders. Tell your doctor if you develop any of the following signs and symptoms: pain in the area of the stomach (upper abdomen), nausea, vomiting, and fever. These may be caused by inflammation of the pancreas or gallbladder.
+- If you have or have had liver problems. Tell your doctor if you develop any of the following signs and symptoms of liver problems during Sunitinib Accord treatment: itching, yellow eyes or skin, dark urine, and pain or discomfort in the right upper stomach area. Your doctor should do blood tests to check your liver function before and during treatment with Sunitinib Accord, and as clinically indicated.
+- If you have or have had kidney problems. Your doctor will monitor your kidney function.
 
 <div style=\"page-break-after: always\"></div>
 
-- -If you are going to have surgery or if you had an operation recently. Sunitinib Accord may affect the way your wounds heal. You will usually be taken off Sunitinib Accord if you are having an operation. Your doctor will decide when to start Sunitinib Accord  again.
-- -You may be advised to have a dental check-up before you start treatment with Sunitinib Accord.
-- -If you have or have had pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbness or a feeling of heaviness in the jaw, or loosening of a tooth, tell your doctor and dentist immediately.
-- -If you need to undergo an invasive dental treatment or dental surgery, tell your dentist that you are being treated with Sunitinib Accord in particular when you are also receiving or have received intravenous bisphosphonates. Bisphosphonates are medicines used to prevent bone complications that may have been given for another medical condition.
-- -If you have or have had skin and subcutaneous tissue disorders. While you are on this medicine \"pyoderma gangrenosum\" (painful skin ulceration) or 'necrotising fasciitis' (rapidly spreading infection of the skin/soft tissue that may be life-threatening) may occur. Contact your doctor immediately if symptoms of infection occur around a skin injury, including fever, pain, redness, swelling, or drainage of pus or blood. This event is generally reversible after sunitinib discontinuation. Severe skin rashes (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme) have been reported with the use of sunitinib, appearing initially as reddish target-like spots or circular patches often with central blisters on the trunk. The rash may progress to widespread blistering or peeling of the skin and may be life-threatening. If you develop a rash or these skin symptoms, seek immediate advice from a doctor.
-- -If you have or have had seizures. Notify your doctor as soon as possible if you have high blood pressure, headache, or loss of sight.
-- -If you have diabetes. Blood sugar levels in diabetic patients should be checked regularly in order to assess if antidiabetic medicine's doses needs to be adjusted to minimise the risk of low blood sugar. Notify your doctor as soon as possible if you experience any signs and symptoms of low blood sugar (fatigue, palpitations, sweating, hunger and loss of consciousness).
+- If you are going to have surgery or if you had an operation recently. Sunitinib Accord may affect the way your wounds heal. You will usually be taken off Sunitinib Accord if you are having an operation. Your doctor will decide when to start Sunitinib Accord again.
+- You may be advised to have a dental check-up before you start treatment with Sunitinib Accord.
+- If you have or have had pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbness or a feeling of heaviness in the jaw, or loosening of a tooth, tell your doctor and dentist immediately.
+- If you need to undergo an invasive dental treatment or dental surgery, tell your dentist that you are being treated with Sunitinib Accord in particular when you are also receiving or have received intravenous bisphosphonates. Bisphosphonates are medicines used to prevent bone complications that may have been given for another medical condition.
+- If you have or have had skin and subcutaneous tissue disorders. While you are on this medicine \"pyoderma gangrenosum\" (painful skin ulceration) or \"necrotising fasciitis\" (rapidly spreading infection of the skin/soft tissue that may be life-threatening) may occur. Contact your doctor immediately if symptoms of infection occur around a skin injury, including fever, pain, redness, swelling, or drainage of pus or blood. This event is generally reversible after sunitinib discontinuation. Severe skin rashes (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme) have been reported with the use of sunitinib, appearing initially as reddish target-like spots or circular patches often with central blisters on the trunk. The rash may progress to widespread blistering or peeling of the skin and may be life-threatening. If you develop a rash or these skin symptoms, seek immediate advice from a doctor.
+- If you have or have had seizures. Notify your doctor as soon as possible if you have high blood pressure, headache, or loss of sight.
+- If you have diabetes. Blood sugar levels in diabetic patients should be checked regularly in order to assess if antidiabetic medicine's doses needs to be adjusted to minimise the risk of low blood sugar. Notify your doctor as soon as possible if you experience any signs and symptoms of low blood sugar (fatigue, palpitations, sweating, hunger and loss of consciousness).
 
 ## Children and adolescents
 
-Sunitinib Accord  is not recommended for people aged under 18.
+Sunitinib Accord is not recommended for people aged under 18.
 
 ## Other medicines and Sunitinib Accord
 
@@ -2491,12 +2462,12 @@ Tell your doctor or pharmacist if you are taking, have recently taken, or might 
 
 Some medicines can affect the levels of Sunitinib Accord in your body. You should inform your doctor if you are taking medicines containing the following active substances:
 
--  ketoconazole, itraconazole - used to treat fungal infections
--  erythromycin, clarithromycin, rifampicin -used to treat infections
--  ritonavir -used to treat HIV
--  dexamethasone - a corticosteroid used for various conditions (such as allergic/breathing disorders or skin diseases)
--  phenytoin, carbamazepine, phenobarbital - used to treat epilepsy and other neurological conditions
--  herbal preparations containing St. John's Wort ( Hypericum perforatum ) - used to treat depression and anxiety
+- ketoconazole, itraconazole - used to treat fungal infections
+- erythromycin, clarithromycin, rifampicin -used to treat infections
+- ritonavir -used to treat HIV
+- dexamethasone - a corticosteroid used for various conditions (such as allergic/breathing disorders or skin diseases)
+- phenytoin, carbamazepine, phenobarbital - used to treat epilepsy and other neurological conditions
+- herbal preparations containing St. John's Wort (Hypericum perforatum) - used to treat depression and anxiety
 
 ## Sunitinib Accord with food and drink
 
@@ -2516,18 +2487,18 @@ If you are breast-feeding, tell your doctor. You should not breast-feed during t
 
 If you experience dizziness or you feel unusually tired, take special care when driving or using machines.
 
-## Sunitinib Accord  contains sodium
+## Sunitinib Accord contains sodium
 
-This medicine contains less than 1 mmol (23 mg) sodium (croscarmellose sodium) per capsule, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol (23 mg) sodium (croscarmellose sodium) per capsule, that is to say essentially \"sodium-free\".
 
-## 3. How to take  Sunitinib Accord
+## 3. How to take Sunitinib Accord
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
 
 Your doctor will prescribe a dose that is right for you, depending on the type of cancer to be treated. If you are being treated for:
 
--  GIST or MRCC: the usual dose is 50 mg once daily taken for 28 days (4 weeks), followed by 14 days (2 weeks) of rest (no medicine), in 6-week cycles.
--  pNET: the usual dose is 37.5 mg once daily without a rest period.
+- GIST or MRCC: the usual dose is 50 mg once daily taken for 28 days (4 weeks), followed by 14 days (2 weeks) of rest (no medicine), in 6-week cycles.
+- pNET: the usual dose is 37.5 mg once daily without a rest period.
 
 Your doctor will determine the appropriate dose you need to take, as well as if and when you need to stop treatment with Sunitinib Accord.
 
@@ -2537,7 +2508,7 @@ Sunitinib Accord can be taken with or without food.
 
 If you have accidentally taken too many capsules, talk to your doctor straight away. You may require medical attention.
 
-## If you forget to take  Sunitinib Accord
+## If you forget to take Sunitinib Accord
 
 Do not take a double dose to make up for a forgotten dose.
 
@@ -2545,7 +2516,7 @@ Do not take a double dose to make up for a forgotten dose.
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-You must immediately contact your doctor if you experience any of those serious side effects (see also section 2 What you need to know before you take Sunitinib Accord ):
+You must immediately contact your doctor if you experience any of those serious side effects (see also section 2 What you need to know before you take Sunitinib Accord):
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2563,93 +2534,93 @@ Other side effects with Sunitinib Accord may include:
 
 Very common: may affect more than 1 in 10 people
 
--  Reduction in the number of platelets, red blood cells and/or white blood cells (e.g. neutrophils).
--  Shortness of breath.
--  High blood pressure.
--  Extreme tiredness, loss of strength.
--  Swelling caused by fluid under the skin and around the eye, deep allergic rash.
--  Mouth pain/irritation, mouth sores/inflammation/dryness, taste disturbances, upset stomach, nausea, vomiting, diarrhoea, constipation, abdominal pain/swelling, loss/decrease of appetite.
--  Decreased activity of thyroid gland (hypothyroidism).
--  Dizziness.
--  Headache.
--  Nose bleeding.
--  Back pain, joint pain.
--  Pain in arms and legs.
--  Yellow skin/skin discoloration, excess pigmentation of the skin, hair colour change, rash on the palms of the hands and soles of the feet, rash, dryness of the skin.
--  Cough.
--  Fever.
--  Difficulty in falling asleep.
+- Reduction in the number of platelets, red blood cells and/or white blood cells (e.g. neutrophils).
+- Shortness of breath.
+- High blood pressure.
+- Extreme tiredness, loss of strength.
+- Swelling caused by fluid under the skin and around the eye, deep allergic rash.
+- Mouth pain/irritation, mouth sores/inflammation/dryness, taste disturbances, upset stomach, nausea, vomiting, diarrhoea, constipation, abdominal pain/swelling, loss/decrease of appetite.
+- Decreased activity of thyroid gland (hypothyroidism).
+- Dizziness.
+- Headache.
+- Nose bleeding.
+- Back pain, joint pain.
+- Pain in arms and legs.
+- Yellow skin/skin discoloration, excess pigmentation of the skin, hair colour change, rash on the palms of the hands and soles of the feet, rash, dryness of the skin.
+- Cough.
+- Fever.
+- Difficulty in falling asleep.
 
 Common: may affect up to 1 in 10 people
 
--  Blood clots in the blood vessels.
--  Deficiency of blood supply to the heart muscle, due to obstruction or constriction of the coronary arteries.
--  Chest pain.
--  Decreased in the amount of blood pumped by the heart.
--  Fluid retention including around the lungs.
--  Infections.
--  Complication of severe infection (infection is present in the bloodstream) that can lead to tissue damage, organ failure, and death.
--  Decreased blood sugar level (see section 2)..
--  Loss of protein in the urine sometime resulting in swelling.
--  Influenza-like syndrome.
--  Abnormal blood tests including pancreatic and liver enzymes.
+- Blood clots in the blood vessels.
+- Deficiency of blood supply to the heart muscle, due to obstruction or constriction of the coronary arteries.
+- Chest pain.
+- Decreased in the amount of blood pumped by the heart.
+- Fluid retention including around the lungs.
+- Infections.
+- Complication of severe infection (infection is present in the bloodstream) that can lead to tissue damage, organ failure, and death.
+- Decreased blood sugar level (see section 2)..
+- Loss of protein in the urine sometime resulting in swelling.
+- Influenza-like syndrome.
+- Abnormal blood tests including pancreatic and liver enzymes.
 
 <div style=\"page-break-after: always\"></div>
 
--  High level of uric acid in the blood.
--  Haemorrhoids, pain in the rectum, gingival bleeding, difficulty in swallowing or inability to swallow.
--  Burning or painful sensation in the tongue, inflammation of the digestive tract lining, excessive gas in the stomach or intestine.
--  Weight loss.
--  Musculoskeletal pain (pain in muscles and bones), muscular weakness, muscular fatigue, muscle pain, muscle spasms.
--  Nasal dryness, congested nose.
--  Excessive tear flow.
--  Abnormal sensation of the skin, itching, flaking and inflammation of the skin, blisters, acne, nail discolouration, hair loss.
--  Abnormal sensations in extremities.
--  Abnormally decreased/increased sensitivity, particularly to touch.
--  Acid heartburn.
--  Dehydration.
--  Hot flushes.
--  Abnormally coloured urine.
--  Depression.
--  Chills.
+- High level of uric acid in the blood.
+- Haemorrhoids, pain in the rectum, gingival bleeding, difficulty in swallowing or inability to swallow.
+- Burning or painful sensation in the tongue, inflammation of the digestive tract lining, excessive gas in the stomach or intestine.
+- Weight loss.
+- Musculoskeletal pain (pain in muscles and bones), muscular weakness, muscular fatigue, muscle pain, muscle spasms.
+- Nasal dryness, congested nose.
+- Excessive tear flow.
+- Abnormal sensation of the skin, itching, flaking and inflammation of the skin, blisters, acne, nail discolouration, hair loss.
+- Abnormal sensations in extremities.
+- Abnormally decreased/increased sensitivity, particularly to touch.
+- Acid heartburn.
+- Dehydration.
+- Hot flushes.
+- Abnormally coloured urine.
+- Depression.
+- Chills.
 
 ## Uncommon: may affect up to 1 in 100 people
 
--  Life-threatening infection of the soft tissue including the ano-genital region (see section 2).
--  Stroke.
--  Heart attack caused by an interrupted or decreased blood supply to the heart.
--  Changes in the electrical activity or abnormal rhythm of the heart.
--  Fluid around the heart (pericardial effusion).
--  Liver failure.
--  Pain in the stomach (abdomen) caused by inflammation of the pancreas.
--  Tumour destruction leading to hole in the intestine (perforation).
--  Inflammation (swelling and redness) of the gallbladder with or without associated gallstones.
--  Abnormal tube like passage from one normal body cavity to another body cavity or the skin.
--  Pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbness or a feeling of heaviness in the jaw, or loosening of a tooth. These could be signs and symptoms of bone damage in the jaw (osteonecrosis), see section 2.
--  Overproduction of thyroid hormones which increases the amount of energy the body uses at rest.
--  Problems with wound healing after surgery.
--  Increased blood level of enzyme (creatine phosphokinase) from muscle.
--  Excessive reaction to an allergen including hay fever, skin rash, itchy skin, hives, swelling of body parts, and trouble breathing.
--  Inflammation of the colon (colitis, colitis ischaemic).
+- Life-threatening infection of the soft tissue including the ano-genital region (see section 2).
+- Stroke.
+- Heart attack caused by an interrupted or decreased blood supply to the heart.
+- Changes in the electrical activity or abnormal rhythm of the heart.
+- Fluid around the heart (pericardial effusion).
+- Liver failure.
+- Pain in the stomach (abdomen) caused by inflammation of the pancreas.
+- Tumour destruction leading to hole in the intestine (perforation).
+- Inflammation (swelling and redness) of the gallbladder with or without associated gallstones.
+- Abnormal tube like passage from one normal body cavity to another body cavity or the skin.
+- Pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbness or a feeling of heaviness in the jaw, or loosening of a tooth. These could be signs and symptoms of bone damage in the jaw (osteonecrosis), see section 2.
+- Overproduction of thyroid hormones which increases the amount of energy the body uses at rest.
+- Problems with wound healing after surgery.
+- Increased blood level of enzyme (creatine phosphokinase) from muscle.
+- Excessive reaction to an allergen including hay fever, skin rash, itchy skin, hives, swelling of body parts, and trouble breathing.
+- Inflammation of the colon (colitis, colitis ischaemic).
 
 ## Rare: may affect up to 1 in 1,000 people
 
--  Severe reaction of the skin and/or mucous membranes (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
--  Tumour lysis syndrome (TLS) - TLS consists of a group of metabolic complications that can occur during treatment of cancer. These complications are caused by the break-down products of dying cancer cells and may include the following: nausea, shortness of breath, irregular heartbeat, muscular cramps, seizure, clouding of urine and tiredness associated with abnormal laboratory test results (high potassium, uric acid and phosphorous levels and low calcium levels in the blood) that can lead to changes in kidney function and acute renal failure.
--  Abnormal muscle breakdown which can lead to kidney problems (rhabdomyolysis).
--  Abnormal changes in the brain that can cause a collection of symptoms including headache, confusion, seizures, and vision loss (reversible posterior leukoencephalopathy syndrome).
--  Painful skin ulceration (pyoderma gangrenosum).
+- Severe reaction of the skin and/or mucous membranes (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
+- Tumour lysis syndrome (TLS) - TLS consists of a group of metabolic complications that can occur during treatment of cancer. These complications are caused by the break-down products of dying cancer cells and may include the following: nausea, shortness of breath, irregular heartbeat, muscular cramps, seizure, clouding of urine and tiredness associated with abnormal laboratory test results (high potassium, uric acid and phosphorous levels and low calcium levels in the blood) that can lead to changes in kidney function and acute renal failure.
+- Abnormal muscle breakdown which can lead to kidney problems (rhabdomyolysis).
+- Abnormal changes in the brain that can cause a collection of symptoms including headache, confusion, seizures, and vision loss (reversible posterior leukoencephalopathy syndrome).
+- Painful skin ulceration (pyoderma gangrenosum).
 
 <div style=\"page-break-after: always\"></div>
 
--  Inflammation of the liver (hepatitis).
--  Inflammation of the thyroid gland.
--  Damage to the smallest blood vessels known as thrombotic microangiopathy (TMA).
+- Inflammation of the liver (hepatitis).
+- Inflammation of the thyroid gland.
+- Damage to the smallest blood vessels known as thrombotic microangiopathy (TMA).
 
 Not known (frequency cannot be estimated from available data):
 
--  An enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall (aneurysms and artery dissections).
--  Lack of energy, confusion, sleepiness, unconsciousness/coma - these symptoms may be signs of brain toxicity caused by high blood levels of ammonia (hyperammonaemic encephalopathy).
+- An enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall (aneurysms and artery dissections).
+- Lack of energy, confusion, sleepiness, unconsciousness/coma - these symptoms may be signs of brain toxicity caused by high blood levels of ammonia (hyperammonaemic encephalopathy).
 
 ## Reporting of side effects
 
@@ -2657,10 +2628,10 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 ## 5. How to store Sunitinib Accord
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on carton, bottle and blister foil after 'EXP'. The expiry date refers to the last day of that month.
-- -This medicine does not require any special storage conditions.
-- -Do not use this medicine if you notice that the pack is damaged or shows signs of tampering.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on carton, bottle and blister foil after \"EXP\". The expiry date refers to the last day of that month.
+- This medicine does not require any special storage conditions.
+- Do not use this medicine if you notice that the pack is damaged or shows signs of tampering.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -2670,29 +2641,29 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is sunitinib. Each hard capsule contains 12.5mg, 25mg, 37.5mg, or 50mg of sunitinib. The other ingredients are:
 
-- -Capsule content: cellulose, microcrystalline, mannitol (E421), croscarmellose sodium, povidone (E1201), magnesium stearate.
-- -Capsule shell: gelatin, titanium dioxide (E171), black iron oxide (E172) (For 25 mg and 50 mg), red iron oxide (E172) (For 12.5 mg, 25 mg, 50 mg), yellow iron oxide (E172) (For 25 mg, 37.5 mg, 50 mg)
-- -Printing ink: shellac, titanium dioxide (E171), black iron oxide (E172), propylene glycol, ammonium hydroxide.
+- Capsule content: cellulose, microcrystalline, mannitol (E421), croscarmellose sodium, povidone (E1201), magnesium stearate.
+- Capsule shell: gelatin, titanium dioxide (E171), black iron oxide (E172) (For 25 mg and 50 mg), red iron oxide (E172) (For 12.5 mg, 25 mg, 50 mg), yellow iron oxide (E172) (For 25 mg, 37.5 mg, 50 mg)
+- Printing ink: shellac, titanium dioxide (E171), black iron oxide (E172), propylene glycol, ammonium hydroxide.
 
 ## What Sunitinib Accord looks like and contents of the pack
 
-## Sunitinib Accord 12.5 mg hard c  apsules
+## Sunitinib Accord 12.5 mg hard c apsules
 
-Gelatin  capsules (approximate length 14.3 mm) with orange cap and orange body, printed with white ink '12.5 mg' on the body, containing yellow  to orange granules.
+Gelatin capsules (approximate length 14.3 mm) with orange cap and orange body, printed with white ink \"12.5 mg\" on the body, containing yellow to orange granules.
 
-## Sunitinib Accord 25 mg hard c  apsules
+## Sunitinib Accord 25 mg hard c apsules
 
-Gelatin  capsules (approximate length 15.9 mm) with caramel cap and orange body, printed with white ink '25 mg' on the body, containing yellow  to orange granules.
+Gelatin capsules (approximate length 15.9 mm) with caramel cap and orange body, printed with white ink \"25 mg\" on the body, containing yellow to orange granules.
 
-## Sunitinib Accord 37.5 mg hard c  apsules
+## Sunitinib Accord 37.5 mg hard c apsules
 
-Gelatin  capsules (approximate length 18.0 mm) with yellow cap and yellow body, printed with black ink '37.5 mg' on the body, containing yellow  to orange granules.
+Gelatin capsules (approximate length 18.0 mm) with yellow cap and yellow body, printed with black ink \"37.5 mg\" on the body, containing yellow to orange granules.
 
 <div style=\"page-break-after: always\"></div>
 
-## Sunitinib Accord 50 mg hard c  apsules
+Sunitinib Accord 50 mg hard c apsules
 
-Gelatin  capsules (approximate length 19.4 mm) with caramel cap and caramel body, printed with white ink '50 mg' on the body, containing yellow  to orange granules.
+Gelatin capsules (approximate length 19.4 mm) with caramel cap and caramel body, printed with white ink \"50 mg\" on the body, containing yellow to orange granules.
 
 Sunitinib Accord is available in bottles of 30 capsules and blister packs containing 28 capsules and perforated unit dose blister packs containing 28 x 1 capsules.
 
@@ -2700,13 +2671,19 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Accord Healthcare S.L.U. World Trade Center, Moll De Barcelona s/n, Edifici Est, 6 a Planta, Barcelona, 08039, Spain
+Accord Healthcare S.L.U. World Trade Center, Moll De Barcelona s/n, Edifici Est, 6 a Planta, Barcelona, 08039,
+
+Spain
 
 ## Manufacturer
 
-Remedica Ltd. Aharnon Street, Limassol Industrial Estate, Building 10, 3056 Limassol, Cyprus
+Remedica Ltd. Aharnon Street, Limassol Industrial Estate, Building 10, 3056 Limassol,
 
-Pharmacare Premium Ltd. HHF003 Hal Far Industrial Estate, Birzebbugia, BBG3000 Malta
+Cyprus
+
+Pharmacare Premium Ltd. HHF003 Hal Far Industrial Estate, Birzebbugia, BBG3000
+
+Malta
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 

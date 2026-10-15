@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-26 12:35:29
+document_datetime: 2026-10-12 14:45:31
 document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lazcluze-epar-product-information_en.pdf
 document_name: lazcluze-epar-product-information_en.pdf
 version: success
-processing_time: 13.6523413
-conversion_datetime: 2026-03-29 12:22:12.17467
+processing_time: 20.3005756
+conversion_datetime: 2026-10-15 19:57:58.243385
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.139.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,15 +22,11 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lazcluze 80 mg film-coated tablets
-
-Lazcluze 240 mg film-coated tablets
+Lazcluze 80 mg film-coated tablets Lazcluze 240 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -50,11 +46,11 @@ Film-coated tablet.
 
 Lazcluze 80 mg film-coated tablets
 
-Yellow, 14 mm, oval tablet, debossed with 'LZ' on one side and '80' on the other side.
+Yellow, 14 mm, oval tablet, debossed with \"LZ\" on one side and \"80\" on the other side.
 
 Lazcluze 240 mg film-coated tablets
 
-Reddish purple, 20 mm, oval tablet, debossed with 'LZ' on one side and '240' on the other side.
+Reddish purple, 20 mm, oval tablet, debossed with \"LZ\" on one side and \"240\" on the other side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -161,6 +157,22 @@ There is no relevant use of lazertinib in the paediatric population for the trea
 
 Lazcluze is for oral use. The tablets should be swallowed whole with or without food. Tablets should not be crushed, split, or chewed.
 
+For patients who cannot swallow tablets whole, Lazcluze tablet(s) (80 mg or 240 mg) can be administered after dispersion in non-carbonated water:
+
+-  All tablet(s) required for the prescribed dose of Lazcluze should be placed into a small drinking cup.
+-  At least 2 teaspoons (10 mL) of non-carbonated water should be added, and the cup gently swirled until the tablet(s) are dispersed into small pieces.
+-  The contents should be swallowed immediately.
+-  The cup should be rinsed with at least 1 teaspoon (5 mL) of non-carbonated water to ensure that the whole dose is taken, and the rinse be drunk immediately.
+
+If required, Lazcluze tablet(s) (80 mg or 240 mg) can be administered through a nasogastric tube 8 French or greater:
+
+-  All tablet(s) required for the prescribed dose of Lazcluze should be placed into the barrel of a 20 mL syringe. The tablet(s) should not be crushed or split.
+-  Non-carbonated water should be drawn up to the 20 mL graduation mark.
+-  The syringe should be closed with the tip-cap and kept at room temperature for 5 minutes.
+-  After 5 minutes, the syringe should be rotated back and forth 15 times.
+-  The contents should be administered immediately through the nasogastric tube.
+-  The syringe should be flushed twice with 10 mL of non-carbonated water through the nasogastric tube to ensure that the whole dose is given.
+
 If vomiting occurs any time after taking Lazcluze, the next dose should be taken the next day.
 
 ## 4.3 Contraindications
@@ -173,6 +185,8 @@ Hypersensitivity to the active substance(s) or to any of the excipients listed i
 
 Interstitial lung disease (ILD) or ILD-like adverse reactions (e.g., pneumonitis), including fatal events, have been reported in patients treated with lazertinib and amivantamab (see section 4.8). Patients with a medical history of ILD, drug-induced ILD, radiation pneumonitis that required steroid treatment, or any evidence of clinically active ILD were excluded from the pivotal clinical study.
 
+<div style=\"page-break-after: always\"></div>
+
 Patients should be monitored for symptoms indicative of ILD/pneumonitis (e.g., dyspnoea, cough, fever). If symptoms develop, treatment with Lazcluze should be interrupted pending investigation of these symptoms. Suspected ILD or ILD-like adverse reactions should be evaluated and appropriate treatment should be initiated as necessary. Lazcluze should be permanently discontinued in patients with confirmed ILD or ILD-like adverse reactions (see section 4.2).
 
 ## Venous thromboembolic (VTE) events
@@ -182,8 +196,6 @@ In patients receiving Lazcluze in combination with amivantamab, venous thromboem
 Signs and symptoms of VTE events should be monitored. Patients with VTE events should be treated with anticoagulation as clinically indicated. For VTE events associated with clinical instability, treatment should be withheld until the patient is clinically stable. Thereafter, both medicinal products can be resumed at the same dose.
 
 In the event of recurrence despite appropriate anticoagulation, amivantamab should be discontinued. Treatment can continue with Lazcluze at the same dose (see section 4.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Skin and nail reactions
 
@@ -197,7 +209,9 @@ Eye disorders, including keratitis, occurred in patients treated with lazertinib
 
 ## Excipients
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially \"sodium-free\" .
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -211,15 +225,13 @@ The co-administration of multiple doses of rifampicin (strong CYP3A4 inducer) de
 
 ## CYP3A4 inhibitors
 
-The co-administration of multiple doses of itraconazole (strong CYP3A4 inhibitor) increased lazertinib C max by 1.19-fold and AUC by 1.46-fold in healthy subjects. No initial dose adjustment is required when Lazcluze is co-administered with CYP3A4 inhibitors.
-
-<div style=\"page-break-after: always\"></div>
+The co-administration of multiple doses of itraconazole (strong CYP3A4 inhibitor) increased lazertinib Cmax by 1.19-fold and AUC by 1.46-fold in healthy subjects. No initial dose adjustment is required when Lazcluze is co-administered with CYP3A4 inhibitors.
 
 ## Gastric acid reducing agents
 
 No clinically relevant differences in lazertinib pharmacokinetics were observed when co-administered with gastric acid reducing agents (proton pump inhibitors and H2-receptor antagonists). No dose adjustments are required when Lazcluze is used with gastric acid reducing agents.
 
-## Agents that may have their plasma concentrations altered by Lazcluze
+Agents that may have their plasma concentrations altered by Lazcluze
 
 ## CYP3A4 substrates
 
@@ -239,6 +251,8 @@ Induction of CYP1A2 cannot be excluded. Therefore, caution is advised when co-ad
 
 Women of childbearing potential should be advised to use effective contraception during treatment and up to 3 weeks after treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 Male patients with female partners of reproductive potential should be advised to use effective contraception (e.g., condom) and not donate or store semen during treatment and for 3 weeks after the last dose of lazertinib.
 
 ## Pregnancy
@@ -248,8 +262,6 @@ There are no data from the use of lazertinib in pregnant women. Studies in anima
 ## Breast-feeding
 
 It is unknown whether lazertinib or its metabolites are excreted in human milk or affects milk production. Because the risk to the breast-feeding child cannot be excluded, female patients should be advised not to breast-feed during treatment and for 3 weeks after the last dose of lazertinib.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -269,6 +281,8 @@ The most frequent serious adverse reactions included venous thromboembolism (11%
 
 The most frequent adverse reactions leading to any treatment discontinuation in patients receiving Lazcluze in combination with amivantamab were rash (6%), infusion-related reaction (amivantamab) (4.5%), nail toxicity (3.6%), interstitial lung disease/pneumonitis (2.9%), venous thromboembolism (2.9%), pneumonia (1.9%) and oedema (amivantamab) (1.7%).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
 Table 3 summarises the adverse reactions that occurred in patients receiving lazertinib in combination with amivantamab.
@@ -279,66 +293,66 @@ Adverse reactions observed during clinical studies are listed below by frequency
 
 Table 3: Adverse reactions in patients receiving lazertinib in combination with amivantamab
 
-| System organ class Adverse reaction   | Frequency category   |   Any grade (%) |   Grade 3-4 (%) |
-|---------------------------------------|----------------------|-----------------|-----------------|
-| Metabolism and nutrition disorders    |                      |                 |                 |
-| Hypoalbuminaemia a, b                 | Very common          |              48 |               5 |
-| Decreased appetite                    | Very common          |              24 |               1 |
+| System organ class Adverse reaction             | Frequency category   |   Any grade (%) |   Grade 3-4 (%) |
+|-------------------------------------------------|----------------------|-----------------|-----------------|
+| Metabolism and nutrition disorders              |                      |                 |                 |
+| Hypoalbuminaemia a, b                           | Very common          |              48 |               5 |
+| Decreased appetite                              | Very common          |              24 |             1.0 |
+| Hypocalcaemia                                   | Very common          |              21 |             2.1 |
+| Hypokalaemia                                    | Very common          |              14 |             3.1 |
+| Hypomagnesaemia                                 | Common               |               5 |               0 |
+| Nervous system disorders                        |                      |                 |                 |
+| Paraesthesia a                                  | Very common          |              34 |             1.7 |
+| Dizziness a                                     | Very common          |              13 |               0 |
+| Eye disorders                                   |                      |                 |                 |
+| Other eye disorders a                           | Very common          |              21 |             0.5 |
+| Visual impairment a                             | Common               |             4.5 |               0 |
+| Keratitis                                       | Common               |             2.6 |             0.5 |
+| Growth of eyelashes a                           | Common               |             1.9 |               0 |
+| Vascular disorders                              |                      |                 |                 |
+| Venous thromboembolism a                        | Very common          |              37 |              11 |
+| Respiratory, thoracic and mediastinal disorders |                      |                 |                 |
+| Interstitial lung disease/pneumonitis a         | Common               |             3.1 |             1.2 |
+| Gastrointestinal disorders                      |                      |                 |                 |
+| Stomatitis a                                    | Very common          |              43 |             2.4 |
+| Diarrhoea                                       | Very common          |              29 |             2.1 |
+| Constipation                                    | Very common          |              29 |               0 |
+| Nausea                                          | Very common          |              21 |             1.2 |
+| Vomiting                                        | Very common          |              12 |             0.5 |
+| Abdominal pain a                                | Very common          |              11 |               0 |
+| Haemorrhoids                                    | Common               |              10 |             0.2 |
+| Hepatobiliary disorders                         |                      |                 |                 |
+| Hepatotoxicity a                                | Very common          |              47 |               9 |
+| Skin and subcutaneous tissue disorders          |                      |                 |                 |
+| Rash a                                          | Very common          |              89 |              27 |
+| Nail toxicity a                                 | Very common          |              71 |              11 |
+| Dry skin a                                      | Very common          |              26 |             1.0 |
+| Pruritus                                        | Very common          |              24 |             0.5 |
+| Palmar-plantar erythrodysaesthesia syndrome     | Common               |               6 |             0.2 |
+| Urticaria                                       | Common               |             1.2 |               0 |
+| Musculoskeletal and connective tissue disorders |                      |                 |                 |
+| Muscle spasms                                   | Very common          |              17 |             0.5 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Hypocalcaemia                                        |             |   21 |   2.1 |
-|------------------------------------------------------|-------------|------|-------|
-| Hypokalaemia                                         |             | 14   |   3.1 |
-| Hypomagnesaemia                                      | Common      |  5   |   0   |
-| Nervous system disorders                             |             |      |       |
-| Paraesthesia a                                       | Very common | 34   |   1.7 |
-| Dizziness a                                          |             | 13   |   0   |
-| Eye disorders                                        |             |      |       |
-| Other eye disorders a                                | Very common | 21   |   0.5 |
-| Visual impairment a                                  | Common      |  4.5 |   0   |
-| Keratitis                                            |             |  2.6 |   0.5 |
-| Growth of eyelashes a                                |             |  1.9 |   0   |
-| Vascular disorders                                   |             |      |       |
-| Venous thromboembolism a                             | Very common | 37   |  11   |
-| Respiratory, thoracic and mediastinal disorders      |             |      |       |
-| Interstitial lung disease/pneumonitis a              | Common      |  3.1 |   1.2 |
-| Gastrointestinal disorders                           |             |      |       |
-| Stomatitis a                                         | Very common | 43   |   2.4 |
-| Diarrhoea                                            |             | 29   |   2.1 |
-| Constipation                                         |             | 29   |   0   |
-| Nausea                                               |             | 21   |   1.2 |
-| Vomiting                                             |             | 12   |   0.5 |
-| Abdominal pain a                                     |             | 11   |   0   |
-| Haemorrhoids                                         | Common      | 10   |   0.2 |
-| Hepatobiliary disorders                              |             |      |       |
-| Hepatotoxicity a                                     | Very common | 47   |   9   |
-| Skin and subcutaneous tissue disorders               |             |      |       |
-| Rash a                                               | Very common | 89   |  27   |
-| Nail toxicity a                                      |             | 71   |  11   |
-| Dry skin a                                           |             | 26   |   1   |
-| Pruritus                                             |             | 24   |   0.5 |
-| Palmar-plantar erythrodysaesthesia syndrome          | Common      |  6   |   0.2 |
-| Urticaria                                            |             |  1.2 |   0   |
-| Musculoskeletal and connective tissue disorders      |             |      |       |
-| Muscle spasms                                        | Very common | 17   |   0.5 |
-| Myalgia                                              |             | 13   |   0.7 |
-| General disorders and administration site conditions |             |      |       |
-| Oedema a, b                                          | Very common | 47   |   2.9 |
-| Fatigue a                                            |             | 32   |   3.8 |
-| Pyrexia                                              |             | 12   |   0   |
-| Injury, poisoning and procedural complications       |             |      |       |
-| Infusion-related reaction b                          | Very common | 63   |   6   |
+| Myalgia                                              |                                                      | 13                                                   | 0.7                                                  |
+|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
+| Oedema a, b                                          | Very common                                          | 47                                                   | 2.9                                                  |
+| Fatigue a                                            | Very common                                          | 32                                                   | 3.8                                                  |
+| Pyrexia                                              | Very common                                          | 12                                                   | 0                                                    |
+| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       |
+| Infusion-related reaction b                          | Very common                                          | 63                                                   | 6                                                    |
 
-a grouped terms b applicable only to amivantamab.
+a grouped terms
+
+b applicable only to amivantamab.
 
 ## Description of selected adverse reactions
 
 ## Venous thromboembolism
 
 Venous thromboembolic (VTE) events, including deep vein thrombosis (14.5%) and pulmonary embolism (PE) (17.3%), were reported in 37% of patients receiving lazertinib in combination with amivantamab. Most cases were Grade 1 or 2, with Grade 3-4 events occurring in 11% and deaths occurring in 0.5% of patients receiving lazertinib in combination with amivantamab. For information on prophylactic anticoagulants and management of VTE events, see sections 4.2 and 4.4.
-
-<div style=\"page-break-after: always\"></div>
 
 In patients receiving lazertinib in combination with amivantamab, the median time to first onset of a VTE event was 84 days. VTE events led to any treatment discontinuation in 2.9% of patients.
 
@@ -356,6 +370,8 @@ A Phase 2 study in patients treated with Lazcluze in combination with amivantama
 
 Eye disorders, including keratitis (2.6%), occurred in patients treated with lazertinib in combination with amivantamab. Other reported adverse reactions included growth of eyelashes, visual impairment, and other eye disorders. Most events were Grade 1-2 (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatotoxicity
 
 Hepatotoxicity-related reactions occurred in 47% of patients treated with lazertinib in combination with amivantamab. Most events were Grade 1-2, with Grade 3-4 hepatotoxicity occurring in 9% of patients. Most events were related to elevations of serum transaminases (36% alanine aminotransferase increased and 29% aspartate aminotransferase increased). Most patients with elevations of transaminases were able to continue study treatment without modification of study treatment while a small number were managed with a dose interruption or with a dose reduction. There were no cases of liver failure or fatal cases of hepatotoxicity in clinical studies with lazertinib in combination with amivantamab.
@@ -365,8 +381,6 @@ Isolated reports of alkaline phosphatase increased and prolonged elevated biliru
 ## Paraesthesia
 
 Paraesthesia occurred in 34% of patients treated with lazertinib in combination with amivantamab. Most events were Grade 1-2, with Grade 3 paraesthesia occurring in 1.7% of patients. Most patients with paraesthesia had resolution with dose interruption or dose reduction.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Stomatitis
 
@@ -390,6 +404,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no known specific antidote for Lazcluze overdose. In the event of an overdose, stop Lazcluze and undertake general supportive measures. Patients should be closely monitored for signs or symptoms of adverse reactions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -406,11 +422,7 @@ Based on the exposure-response analyses for safety, paraesthesia and stomatitis 
 
 ## Cardiac electrophysiology
 
-The QTc interval prolongation potential of lazertinib was evaluated by exposure-response (E-R) analysis conducted with clinical data from 243 NSCLC patients who received 20, 40, 80, 120, 160,
-
-<div style=\"page-break-after: always\"></div>
-
-240 or 320 mg lazertinib once daily in a phase 1/II study. The E-R analysis revealed no clinically relevant relationship between lazertinib plasma concentration and change in QTc interval.
+The QTc interval prolongation potential of lazertinib was evaluated by exposure-response (E-R) analysis conducted with clinical data from 243 NSCLC patients who received 20, 40, 80, 120, 160, 240 or 320 mg lazertinib once daily in a phase 1/II study. The E-R analysis revealed no clinically relevant relationship between lazertinib plasma concentration and change in QTc interval.
 
 ## Clinical efficacy and safety
 
@@ -423,6 +435,8 @@ Baseline demographics and disease characteristics were balanced across the treat
 Lazcluze in combination with amivantamab demonstrated a statistically significant improvement in progression-free survival (PFS) by BICR assessment.
 
 The final analysis of OS demonstrated a statistically significant improvement in OS for Lazcluze in combination with amivantamab compared to osimertinib (see Table 4 and Figure 2).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4, Figure 1 and Figure 2 summarise efficacy results for Lazcluze in combination with amivantamab.
 
@@ -439,31 +453,23 @@ Table 4: Efficacy results in MARIPOSA
 | Median, months (95% CI)            | NE (42.9, NE)                    | 36.7 (33.4, 41.0)           |
 | HR (95% CI); p-value               | 0.75 (0.61, 0.92); p=0.0048      | 0.75 (0.61, 0.92); p=0.0048 |
 | Objective response rate (ORR) a, b |                                  |                             |
-| ORR %(95% CI)                      | 80% (76%, 84%)                   | 77% (72%, 81%)              |
-
-<div style=\"page-break-after: always\"></div>
-
-| Duration of response (DOR) a, b   | Duration of response (DOR) a, b   | Duration of response (DOR) a, b   |
-|-----------------------------------|-----------------------------------|-----------------------------------|
-| Median, months (95% CI)           | 25.8 (20.3, 33.9)                 | 18.1 (14.8, 20.1)                 |
+| ORR % (95% CI)                     | 80% (76%, 84%)                   | 77% (72%, 81%)              |
+| Duration of response (DOR) a, b    |                                  |                             |
+| Median, months (95% CI)            | 25.8 (20.3, 33.9)                | 18.1 (14.8, 20.1)           |
 
 BICR = blinded independent central review; CI = confidence interval; NE = not estimable.
 
 PFS results are from data cut-off 11 August 2023 with median follow-up of 22.0 months. ORR and DOR results are from data cut-off 13 May 2024 with median follow-up of 31.3 months. OS results are from data cut-off 04 December 2024 with a median follow-up of 37.8 months.
 
-- a BICR by RECIST v1.1.
+a BICR by RECIST v1.1.
 
 b Based on confirmed responders.
 
 Figure 1: Kaplan-Meier curve of PFS in previously untreated NSCLC patients by BICR assessment
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 2: Kaplan-Meier curve of OS in previously untreated NSCLC patients
-
-<!-- image -->
 
 Intracranial ORR and DOR by BICR were pre-specified endpoints in MARIPOSA. In the subset of patients with intracranial lesions at baseline, the combination of Lazcluze and amivantamab demonstrated similar intracranial ORR to the control. Per protocol, all patients in MARIPOSA had serial brain MRIs to assess intracranial response and duration. Results are summarised in Table 5.
 
@@ -472,7 +478,7 @@ Table 5: Intracranial ORR and DOR by BICR assessment in subjects with intracrani
 |                                         | Lazcluze + amivantamab (N=180)          | Osimertinib (N=186)   |
 |-----------------------------------------|-----------------------------------------|-----------------------|
 | Intracranial tumour response assessment | Intracranial tumour response assessment |                       |
-| Intracranial ORR (CR+PR),% (95% CI)     | 78% (71%, 84%)                          | 77% (71%, 83%)        |
+| Intracranial ORR (CR+PR), % (95% CI)    | 78% (71%, 84%)                          | 77% (71%, 83%)        |
 | Complete response                       | 64%                                     | 59%                   |
 | Intracranial DOR                        | Intracranial DOR                        |                       |
 | Median, months (95% CI)                 | 35.0 (20.4, NE)                         | 25.1 (22.1, 31.2)     |
@@ -555,11 +561,9 @@ No evidence of genotoxicity for lazertinib was observed in in vitro bacterial mu
 
 ## Reproductive toxicology
 
-Based on studies in animals, male and female fertility may be impaired by treatment with lazertinib. Degenerative changes were present in the testes of rats and dogs resulting in reduced luminal sperm in dogs following exposure to lazertinib for 1 month at clinically relevant exposure levels. Decreased numbers of corpora lutea were noted in the ovaries of rats exposed to lazertinib for ≥ 1 month at clinically relevant exposure levels. In a fertility and early embryonic development study in male and
+Based on studies in animals, male and female fertility may be impaired by treatment with lazertinib. Degenerative changes were present in the testes of rats and dogs resulting in reduced luminal sperm in dogs following exposure to lazertinib for 1 month at clinically relevant exposure levels. Decreased numbers of corpora lutea were noted in the ovaries of rats exposed to lazertinib for ≥ 1 month at clinically relevant exposure levels. In a fertility and early embryonic development study in male and female rats, lazertinib induced a decrease in the number of oestrus cycles, an increase in post-implantation loss and decreased live litter size at or below the dose level that approximated the human clinical exposure at the recommended dose of 240 mg.
 
 <div style=\"page-break-after: always\"></div>
-
-female rats, lazertinib induced a decrease in the number of oestrus cycles, an increase in post-implantation loss and decreased live litter size at or below the dose level that approximated the human clinical exposure at the recommended dose of 240 mg.
 
 Developmental toxicity was observed in embryo-foetal development studies in rats and rabbits. In rats, decreases in foetal body weights in association with maternal toxicity were observed at a maternal exposure approximately 4 times higher than the human clinical exposure at 240 mg. In rabbits, an increased incidence of a foetal skull bone fusion (zygomatic arch fused to the maxillary process) was observed at maternal exposures well below the human clinical exposure at 240 mg.
 
@@ -597,33 +601,48 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-| Lazcluze 80 mg film-coated tablets                                                                                                                                   | Lazcluze 80 mg film-coated tablets                                                                                                                                   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blister pack                                                                                                                                                         | Blister pack                                                                                                                                                         |
-| Polyvinyl chloride - polychlorotrifluoroethylene (PVC-PCTFE) film and aluminium push-through foil.                                                                   | Polyvinyl chloride - polychlorotrifluoroethylene (PVC-PCTFE) film and aluminium push-through foil.                                                                   |
-|                                                                                                                                                                     | One carton contains 56 film-coated tablets (2 wallet packs containing 28 tablets each).                                                                              |
-| Bottle                                                                                                                                                               | Bottle                                                                                                                                                               |
-| White opaque high-density polyethylene (HDPE) bottle with polypropylene child-resistant closure containing either 60 or 90 tablets. Each carton contains one bottle. | White opaque high-density polyethylene (HDPE) bottle with polypropylene child-resistant closure containing either 60 or 90 tablets. Each carton contains one bottle. |
-| Lazcluze 240 mg film-coated tablets                                                                                                                                  | Lazcluze 240 mg film-coated tablets                                                                                                                                  |
-| Blister pack                                                                                                                                                         | Blister pack                                                                                                                                                         |
-| Polyvinyl chloride - polychlorotrifluoroethylene (PVC-PCTFE) film and aluminium push-through foil.                                                                   | Polyvinyl chloride - polychlorotrifluoroethylene (PVC-PCTFE) film and aluminium push-through foil.                                                                   |
-|                                                                                                                                                                     | One carton contains 14 film-coated tablets (1 wallet pack containing 14 tablets).                                                                                    |
-|                                                                                                                                                                     | One carton contains 28 film-coated tablets (2 wallet packs containing 14 tablets each).                                                                              |
-| Bottle                                                                                                                                                               | Bottle                                                                                                                                                               |
-| White opaque high-density polyethylene (HDPE) bottle with polypropylene child-resistant closure containing 30 film-coated tablets. Each carton contains one bottle.  | White opaque high-density polyethylene (HDPE) bottle with polypropylene child-resistant closure containing 30 film-coated tablets. Each carton contains one bottle.  |
-| Not all pack sizes may be marketed.                                                                                                                                  | Not all pack sizes may be marketed.                                                                                                                                  |
-| 6.6                                                                                                                                                                  | Special precautions for disposal                                                                                                                                     |
-| Any unused medicinal product or waste material should be disposed of in accordance with local                                                                        | Any unused medicinal product or waste material should be disposed of in accordance with local                                                                        |
-| 7.                                                                                                                                                                   | MARKETING AUTHORISATION HOLDER                                                                                                                                       |
-| Janssen-Cilag International NV                                                                                                                                       | Janssen-Cilag International NV                                                                                                                                       |
-| Turnhoutseweg 30 B-2340 Beerse                                                                                                                                       | Turnhoutseweg 30 B-2340 Beerse                                                                                                                                       |
-|                                                                                                                                                                      | Belgium                                                                                                                                                              |
-| 8. MARKETING AUTHORISATION                                                                                                                                           | 8. MARKETING AUTHORISATION                                                                                                                                           |
-| EU/1/24/1886/001                                                                                                                                                     | EU/1/24/1886/002                                                                                                                                                     |
-| EU/1/24/1886/003                                                                                                                                                     |                                                                                                                                                                      |
-|                                                                                                                                                                      | EU/1/24/1886/004                                                                                                                                                     |
-|                                                                                                                                                                      | EU/1/24/1886/005                                                                                                                                                     |
-|                                                                                                                                                                      | EU/1/24/1886/006                                                                                                                                                     |
+## Lazcluze 80 mg film-coated tablets
+
+## Blister pack
+
+Polyvinyl chloride - polychlorotrifluoroethylene (PVC-PCTFE) film and aluminium push-through foil.
+
+ One carton contains 56 film-coated tablets (2 wallet packs containing 28 tablets each).
+
+## Bottle
+
+White opaque high-density polyethylene (HDPE) bottle with polypropylene child-resistant closure containing either 60 or 90 tablets. Each carton contains one bottle.
+
+## Lazcluze 240 mg film-coated tablets
+
+## Blister pack
+
+Polyvinyl chloride - polychlorotrifluoroethylene (PVC-PCTFE) film and aluminium push-through foil.
+
+-  One carton contains 14 film-coated tablets (1 wallet pack containing 14 tablets).
+-  One carton contains 28 film-coated tablets (2 wallet packs containing 14 tablets each).
+
+## Bottle
+
+White opaque high-density polyethylene (HDPE) bottle with polypropylene child-resistant closure containing 30 film-coated tablets. Each carton contains one bottle.
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
+
+Belgium
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/24/1886/001 EU/1/24/1886/002 EU/1/24/1886/003 EU/1/24/1886/004 EU/1/24/1886/005
+
+EU/1/24/1886/006
 
 <div style=\"page-break-after: always\"></div>
 
@@ -637,9 +656,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURERRESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- C. OTHER CONDITIONS ANDREQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -687,11 +706,13 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON FOR WALLET 80 MG
+## CARTON FOR WALLET 80MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lazcluze 80 mg film-coated tablets lazertinib
+Lazcluze 80 mg film-coated tablets
+
+lazertinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -721,7 +742,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -735,9 +756,7 @@ Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -751,11 +770,11 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Lazcluze 80 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -767,48 +786,45 @@ SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-OUTER WALLET 80 MG
+OUTER WALLET 80MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lazcluze 80 mg film-coated tablets lazertinib
+Lazcluze 80 mg film-coated tablets
+
+lazertinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each film-coated tablet contains 80 mg lazertinib (as mesylate monohydrate).
 
-## 3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-28 film-coated tablets
+3. LIST OF EXCIPIENTS
+4. PHARMACEUTICAL FORM AND CONTENTS
+3. 28 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use. Swallow the tablets whole. Do not crush, split or chew the tablet. Read the package leaflet before use.
+Oral use. Swallow the tablets whole. Do not crush, split or chew the tablet.
+
+Read the package leaflet before use.
 
 - (1) Press and hold
 - (2) Pull out
-
-<!-- image -->
-
-<!-- image -->
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+<div style=\"page-break-after: always\"></div>
+
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 ## 8. EXPIRY DATE
 
 EXP
 
-9. SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -816,11 +832,7 @@ Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-B-2340 Beerse
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
 
 Belgium
 
@@ -833,22 +845,19 @@ EU/1/24/1886/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Lazcluze 80 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS INNER WALLET 80 MG
+INNER WALLET 80MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -858,7 +867,7 @@ Lazcluze 80 mg film-coated tablets lazertinib
 
 Janssen-Cilag International NV
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -870,25 +879,23 @@ Lot
 
 Fold over to close
 
-<!-- image -->
-
 Flip open
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER 80MG                                         |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER 80MG                                          |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lazcluze 80 mg film-coated tablets lazertinib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Janssen-Cilag International NV
 
@@ -905,17 +912,17 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-30
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON FOR WALLET 240 MG
+## CARTON FOR WALLET 240MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lazcluze 240 mg film-coated tablets lazertinib
+Lazcluze 240 mg film-coated tablets
+
+lazertinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -961,19 +968,19 @@ Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1886/004 (14 film-coated tablets) EU/1/24/1886/005 (28 film-coated tablets)
+EU/1/24/1886/004 (14 film-coated tablets)
+
+EU/1/24/1886/005 (28 film-coated tablets)
 
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -993,51 +1000,53 @@ SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-OUTER WALLET 240 MG
+OUTER WALLET 240MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lazcluze 240 mg film-coated tablets lazertinib
+Lazcluze 240 mg film-coated tablets
+
+lazertinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each film-coated tablet contains 240 mg lazertinib (as mesylate monohydrate).
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-14 film-coated tablets
+- 14 film-coated tablets
 
 28 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use. Swallow the tablets whole. Do not crush, split or chew the tablet. Read the package leaflet before use.
+Oral use.
 
-## (1) Press and hold
+Swallow the tablets whole.
 
-<!-- image -->
+Do not crush, split or chew the tablet.
 
-(2) Pull out
+Read the package leaflet before use.
 
-<!-- image -->
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+- (1) Press and hold
+- (2) Pull out
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+<div style=\"page-break-after: always\"></div>
+
+## 8. EXPIRY DATE
 
 EXP
 
-9. SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1045,9 +1054,7 @@ Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
 
 Belgium
 
@@ -1059,26 +1066,24 @@ EU/1/24/1886/004 (14 film-coated tablets) EU/1/24/1886/005 (28 film-coated table
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Lazcluze 240 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 <div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS INNER WALLET 240 MG
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS INNER WALLET 240MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1088,7 +1093,7 @@ Lazcluze 240 mg film-coated tablets lazertinib
 
 Janssen-Cilag International NV
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -1100,25 +1105,23 @@ Lot
 
 Fold over to close
 
-<!-- image -->
-
 Flip open
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER 240MG                                       |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER 240MG                                         |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lazcluze 240 mg film-coated tablets lazertinib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Janssen-Cilag International NV
 
@@ -1141,11 +1144,13 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON FOR BOTTLE 80 MG
+## CARTON FOR BOTTLE 80MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lazcluze 80 mg film-coated tablets lazertinib
+Lazcluze 80 mg film-coated tablets
+
+lazertinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1190,23 +1195,19 @@ Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-B-2340 Beerse
-
-Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1886/002 (60 film-coated tablets) EU/1/24/1886/003 (90 film-coated tablets)
+EU/1/24/1886/002 (60 film-coated tablets)
+
+EU/1/24/1886/003 (90 film-coated tablets)
 
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1226,15 +1227,15 @@ SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-BOTTLE LABEL 80 MG
+BOTTLE LABEL 80MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lazcluze 80 mg film-coated tablets lazertinib
+Lazcluze 80 mg film-coated tablets
+
+lazertinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1270,6 +1271,8 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Dispose as per local requirements.
@@ -1287,13 +1290,9 @@ EU/1/24/1886/002 (60 film-coated tablets) EU/1/24/1886/003 (90 film-coated table
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -1302,11 +1301,13 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON FOR BOTTLE 240 MG
+## CARTON FOR BOTTLE 240MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lazcluze 240 mg film-coated tablets lazertinib
+Lazcluze 240 mg film-coated tablets
+
+lazertinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1336,7 +1337,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1350,9 +1351,7 @@ Dispose of unused medicines as per local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1366,7 +1365,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Lazcluze 240 mg
 
@@ -1376,13 +1375,17 @@ Lazcluze 240 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC
+
+SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-BOTTLE LABEL 240 MG
+## BOTTLE LABEL 240MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1422,10 +1425,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 Dispose as per local requirements.
 
@@ -1442,14 +1443,12 @@ EU/1/24/1886/006
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1457,13 +1456,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-## Lazcluze 80 mg film-coated tablets
-
-## Lazcluze 240 mg film-coated tablets
+## Lazcluze 80 mg film-coated tablets Lazcluze 240 mg film-coated tablets
 
 lazertinib
 
@@ -1489,7 +1484,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 Lazcluze is a cancer medicine that contains the active substance lazertinib. It belongs to a group of medicines called protein kinase inhibitors.
 
-Lazcluze is used with amivantamab, another cancer medicine, to treat adults with a type of lung cancer called non-small cell lung cancer. It is used when the cancer is advanced (unlikely to be cured) and has gone through certain changes (exon 19 deletion or exon 21 substitution mutation) in a gene called EGFR .
+Lazcluze is used with amivantamab, another cancer medicine, to treat adults with a type of lung cancer called non-small cell lung cancer. It is used when the cancer is advanced (unlikely to be cured) and has gone through certain changes (exon 19 deletion or exon 21 substitution mutation) in a gene called EGFR.
 
 A separate patient information leaflet is available for amivantamab. Please read it before you start treatment.
 
@@ -1565,7 +1560,7 @@ Lazcluze has minor influence on the ability to drive and use machines. If you fe
 
 ## Lazcluze contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially \"sodium-free\" .
 
 ## 3. How to take Lazcluze
 
@@ -1583,6 +1578,27 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 -  You can take this medicine with or without food.
 -  Do not take an additional dose if you vomit after taking Lazcluze. Wait until your next dose is due.
 
+If you cannot swallow tablets whole, you can mix Lazcluze tablet(s) in non-carbonated water as follows:
+
+-  Put all tablet(s) required for your prescribed dose of Lazcluze into a small drinking cup.
+-  Add at least 2 teaspoons (10 mL) of non-carbonated water - do not use any other liquids.
+-  Swirl gently until the tablet(s) are broken up and spread out.
+-  Drink the mixture straight away.
+-  To make sure that you take your full dose, rinse the cup with at least 1 teaspoon (5 mL) of non-carbonated water and drink it straight away.
+
+If you have a nasogastric tube, you can take your medicine as follows:
+
+-  Remove the plunger out of the syringe (use a 20 mL syringe).
+-  Put all tablet(s) required for your prescribed dose of Lazcluze into the syringe body (barrel). Do not crush or split the tablet(s).
+
+<div style=\"page-break-after: always\"></div>
+
+-  Fill the syringe with non-carbonated water up to the 20 mL mark.
+-  Close the syringe with the tip-cap and keep the syringe at room temperature for 5 minutes.
+-  After 5 minutes rotate the syringe back and forth 15 times.
+-  Attach the syringe to the nasogastric tube and give the mixture straight away.
+-  Withdraw another 10 mL of non-carbonated water into the same syringe and flush through the nasogastric tube. Repeat this step to ensure that your full dose is given.
+
 ## If you take more Lazcluze than you should
 
 If you take more than the normal dose, contact your doctor. You may have an increased risk of side effects.
@@ -1597,8 +1613,6 @@ Do not stop taking this medicine unless your doctor tells you to.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist, or nurse.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
@@ -1607,12 +1621,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 The following side effects have been reported in clinical studies with Lazcluze in combination with amivantamab. Tell your doctor straight away if you notice the following serious side effects:
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
 -  Skin problems - such as rash (including acne), dry skin, itching, pain, and redness. Tell your doctor if your skin problems get worse.
 -  Blood clots in the veins, especially in the lungs or legs. Symptoms may include sharp chest pain, shortness of breath, rapid breathing, leg pain, and swelling of your arms or legs.
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 -  Signs of inflammation and scarring in the lungs - such as sudden difficulty in breathing, shortness of breath, cough, or fever. This could lead to permanent damage. Your doctor may wish to stop treatment with Lazcluze if you develop this side effect.
 -  Signs of inflamed cornea (front part of your eye) - such as eye redness, eye pain, problems with vision, or sensitivity to light.
@@ -1624,7 +1638,7 @@ Tell your doctor straight away if you notice the serious side effects listed abo
 
 Talk to your doctor if you get any other side effects. These can include:
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
 -  nail problems
 -  signs of a reaction to the infusion of amivantamab
@@ -1634,6 +1648,9 @@ Talk to your doctor if you get any other side effects. These can include:
 -  sores in the mouth
 -  nerve damage that may cause tingling, numbness, pain or loss of pain sensation
 -  feeling very tired
+
+<div style=\"page-break-after: always\"></div>
+
 -  diarrhoea
 -  constipation
 -  decreased appetite
@@ -1647,14 +1664,12 @@ Talk to your doctor if you get any other side effects. These can include:
 -  fever
 -  stomach pain.
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 -  haemorrhoids
 -  redness, swelling, peeling or tenderness, mainly on the hands or feet
 -  low level of magnesium in the blood
 -  itchy rash (hives).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -1677,15 +1692,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 -  The active substance is lazertinib (as mesylate monohydrate). Each 80 mg film-coated tablet contains 80 mg of lazertinib. Each 240 mg film-coated tablet contains 240 mg of lazertinib.
 -  The other ingredients are:
 
-Tablet core: hydrophobic colloidal silica, croscarmellose sodium (E468), microcrystalline cellulose (E460 (i)), mannitol (E421), and magnesium stearate (E572). See section 2 'Lazcluze contains sodium'.
+Tablet core: hydrophobic colloidal silica, croscarmellose sodium (E468), microcrystalline cellulose (E460 (i)), mannitol (E421), and magnesium stearate (E572). See section 2 \"Lazcluze contains sodium\" .
 
 Film coating: macrogol poly(vinyl alcohol) grafted copolymer (E1209), polyvinyl alcohol (E1203), glycerol monocaprylocaprate type I (E471), titanium dioxide (E171), and talc (E553b). Each 80 mg tablet also contains yellow iron oxide (E172). Each 240 mg tablet also contains red iron oxide (E172) and black iron oxide (E172).
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Lazcluze looks like and contents of the pack
 
-Lazcluze 80 mg is supplied as yellow, 14-mm long, oval, film-coated tablets, debossed with 'LZ' on one side and '80' on the other side. Lazcluze 80 mg is available in cartons of 56 film-coated tablets (two cardboard wallet packs of 28 tablets each) or bottles of 60 or 90 tablets.
+Lazcluze 80 mg is supplied as yellow, 14-mm long, oval, film-coated tablets, debossed with \"LZ\" on one side and \"80\" on the other side. Lazcluze 80 mg is available in cartons of 56 film-coated tablets (two cardboard wallet packs of 28 tablets each) or bottles of 60 or 90 tablets.
 
-Lazcluze 240 mg is supplied as reddish purple, 20-mm long, oval, film-coated tablets, debossed with 'LZ' on one side and '240' on the other side. Lazcluze 240 mg is available in cartons of 14 film-coated tablets (one cardboard wallet pack of 14 tablets), cartons of 28 film-coated tablets (two cardboard wallet packs of 14 tablets each), or bottles of 30 tablets.
+Lazcluze 240 mg is supplied as reddish purple, 20-mm long, oval, film-coated tablets, debossed with \"LZ\" on one side and \"240\" on the other side. Lazcluze 240 mg is available in cartons of 14 film-coated tablets (one cardboard wallet pack of 14 tablets), cartons of 28 film-coated tablets (two cardboard wallet packs of 14 tablets each), or bottles of 30 tablets.
 
 Not all pack sizes may be marketed.
 
@@ -1695,21 +1712,17 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
-Janssen Cilag SpA Via C. Janssen, Borgo San Michele Latina 04100
-
-<div style=\"page-break-after: always\"></div>
-
-## Italy
+Janssen Cilag SpA Via C. Janssen, Borgo San Michele Latina 04100 Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info \\_ belux@its.jnj.com
 
 ## България
 
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+\"Джонсън &amp; Джонсън България\" ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
 
 ## Česká republika
 
@@ -1721,39 +1734,25 @@ Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
-
-## Eesti
-
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
-
-## Ελλάδα
-
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
-
-## España
-
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
-
-## France
-
-Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
-
-## Hrvatska
-
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Lietuva
 
-UAB 'JOHNSON &amp; JOHNSON' Tel: +370 5 278 68 88 lt@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\"
+
+Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info
+
+\\_ belux@its.jnj.com
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
+Janssen-Cilag Kft. Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
 
 ## Malta
 
@@ -1763,27 +1762,49 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info \\_ nl@its.jnj.com
 
-## Norge
+<div style=\"page-break-after: always\"></div>
 
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+## Eesti
 
-## Österreich
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
 
-Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
+Tel: +372 617 7410
 
-## Polska
+ee@its.jnj.com
 
-Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
+## Ελλάδα
 
-## Portugal
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη
 
-Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
+Α.Ε.Β.Ε.
 
-## România
+Tηλ: +30 210 80 90 000
 
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
+## España
+
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
+
+## France
+
+Janssen-Cilag
+
+Tél: 0 800 25 50 75 / +33 1 55 00 40 03
+
+medisource@its.jnj.com
+
+## Hrvatska
+
+Johnson &amp; Johnson S.E. d.o.o.
+
+Tel: +385 1 6610 700
+
+jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
@@ -1793,25 +1814,15 @@ Tel: 1 800 709 122
 
 medinfo@its.jnj.com
 
-## Slovenija
-
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00
-
-JNJ-SI-safety@its.jnj.com
-
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor ehf.
+Janssen-Cilag AB
+
+c/o Vistor ehf.
 
 Sími: +354 535 7000
 
 janssen@vistor.is
-
-## Slovenská republika
-
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
 
 ## Italia
 
@@ -1821,19 +1832,11 @@ Tel: 800.688.777 / +39 02 2510 1
 
 janssenita@its.jnj.com
 
-## Suomi/Finland
-
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
-
 ## Κύπρος
 
 Βαρνάβας Χατζηπαναγής Λτδ
 
 Τηλ: +357 22 207 700
-
-## Sverige
-
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
 ## Latvija
 
@@ -1843,10 +1846,66 @@ Tel: +371 678 93561
 
 lv@its.jnj.com
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in.
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Norge
+
+Janssen-Cilag AS
+
+Tlf: +47 24 12 65 00
+
+jacno@its.jnj.com
+
+## Österreich
+
+Janssen-Cilag Pharma GmbH
+
+Tel: +43 1 610 300
+
+## Polska
+
+Janssen-Cilag Polska Sp. z o.o.
+
+Tel.: +48 22 237 60 00
+
+## Portugal
+
+Janssen-Cilag Farmacêutica, Lda.
+
+Tel: +351 214 368 600
+
+## România
+
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
+
+## Slovenija
+
+Johnson &amp; Johnson d.o.o.
+
+Tel: +386 1 401 18 00
+
+JNJ-SI-safety@its.jnj.com
+
+## Slovenská republika
+
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
+
+## Suomi/Finland
+
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+
+## Sverige
+
+Janssen-Cilag AB
+
+Tfn: +46 8 626 50 00
+
+jacse@its.jnj.com

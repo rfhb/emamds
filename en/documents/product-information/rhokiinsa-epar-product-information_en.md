@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-24 13:56:34
-document_pages: 24
+document_datetime: 2026-10-12 14:59:49
+document_pages: 23
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rhokiinsa-epar-product-information_en.pdf
 document_name: rhokiinsa-epar-product-information_en.pdf
 version: success
-processing_time: 5.9554527
-conversion_datetime: 2025-12-25 04:33:56.053771
+processing_time: 9.9868986
+conversion_datetime: 2026-10-15 19:58:21.704645
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.139.0
+  docling-core: 2.101.1
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -126,38 +126,31 @@ Rhokiinsa has negligible influence on the ability to drive and use machines. If 
 
 ## Summary of the safety profile
 
-The most common adverse reactions observed in the clinical trials were conjunctival hyperemia (51% of patients), cornea verticillata (17%), instillation site pain (17%), conjunctival haemorrhage (8%), instillation site erythema (8%), corneal staining (7%), blurred vision (6%), increased lacrimation (6%) and erythema of eyelid (5%). Serious adverse reactions were not reported in clinical trials.
+The most common adverse reactions observed in the clinical trials were conjunctival hyperemia (51% of patients), eye pain (21%), cornea verticillata (17%), conjunctival haemorrhage (9%), erythema of eyelid (15%), corneal staining (7%), blurred vision (6%) and increased lacrimation (6%) . Serious adverse reactions were not reported in clinical trials.
 
 ## Tabulated list of adverse reactions
 
 The following adverse reactions have been reported with netarsudil, dosed once daily. Reactions are classified according to the convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000) or not known (cannot be estimated from the available data).
 
-| System organ classification   | Frequency   | Adverse reactions                                                                                                                                                                                                                                                                                                  |
-|-------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Immune system disorders       | Uncommon    | Hypersensitivity                                                                                                                                                                                                                                                                                                   |
-| Nervous system disorders      | Common      | Headache                                                                                                                                                                                                                                                                                                           |
-| Nervous system disorders      | Uncommon    | Dizziness                                                                                                                                                                                                                                                                                                          |
-| Eye disorders                 | Very common | Conjunctival hyperaemia 1 , Cornea verticillata 1 , Instillation site pain                                                                                                                                                                                                                                         |
-| Eye disorders                 | Common      | Conjunctival haemorrhage, Vision blurred, Lacrimation increased, Erythema of eyelid, Eye pruritis, Eye irritation, Visual acuity reduced, Eyelid oedema, Punctate keratitis, Conjunctival oedema, Foreign body sensation in eyes, Conjunctivitis, Conjunctivitis allergic, Photophobia, Eyelid pruritus, Eye pain, |
+| System organ classification   | Frequency   | Adverse reactions                                                                                                                                                                                                                                                                                     |
+|-------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immune system disorders       | Uncommon    | Hypersensitivity                                                                                                                                                                                                                                                                                      |
+| Nervous system disorders      | Common      | Headache                                                                                                                                                                                                                                                                                              |
+| Nervous system disorders      | Uncommon    | Dizziness                                                                                                                                                                                                                                                                                             |
+| Eye disorders                 | Very common | Conjunctival hyperaemia 1 , Cornea verticillata 1 , Eye pain, Erythema of eyelid,                                                                                                                                                                                                                     |
+| Eye disorders                 | Common      | Conjunctival haemorrhage, Vision blurred, Lacrimation increased, Eye pruritus, Eye irritation, Visual acuity reduced, Eyelid oedema, Punctate keratitis, Conjunctival oedema, Foreign body sensation in eyes, Conjunctivitis, Conjunctivitis allergic, Photophobia, Eyelid pruritus, Corneal opacity, |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ classification                     | Frequency   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|-------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                 |             | Adverse reactions Corneal opacity, Dry eye, Eye discharge, Instillation site erythema, Instillation site discomfort, Instillation site pruritis, Vital dye staining cornea present, Intraocular pressure increased                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|                                                 | Uncommon    | Ocular hyperaemia, Blepharitis, Corneal disorder, Eyelid margin crusting, Eye allergy, Conjunctival follicles, Ocular discomfort, Eye swelling, Corneal deposits, Eyelid disorder, Meibomian gland dysfuntion, Corneal pigmentation, Diplopia, Ectropion, Lenticular opacities, Noninfective conjunctivitis, Abnormal sensation in the eye, Asthenopia, Episcleral hyperaemia, Halo vision, Keratitis, Refraction disorder, Anterior chamber flare, Anterior chamber inflammation, Blindness, Conjunctival irritation, Conjunctivochalasis, Diabetic retinopathy, Eczema eyelids, Eyelid skin dryness, Glaucoma, Growth of eyelashes, Iris adhesions, Iris bombe, Iritis, Ocular hypertension, Visual impairment, Corneal dystrophy, Instillation site foreign body sensation, Instillation site irritation, Glassy eyes, Fatigue, Instillation site dryness, Instillation site oedema, Instillation site paraesthesia, Conjunctival staining, Optic nerve cup/disc ratio increased, |
-|                                                 | Not known   | Visual field defect oedema 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Respiratory, thoracic and mediastinal disorders | Uncommon    | Reticular epithelial corneal Nasal discomfort,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Skin and subcutaneous tissue disorders          | Uncommon    | Dermatitis allergic, Dermatitis contact,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| System organ classification                     | Frequency   | Adverse reactions                                                                                                                                                                                                                                                                                                                                                                                            |
+|-------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                 |             | Dry eye, Eye discharge, Ocular discomfort, Vital dye staining cornea present, Intraocular pressure increased                                                                                                                                                                                                                                                                                                 |
+|                                                 | Uncommon    | Ocular hyperaemia, Blepharitis, Corneal disorder, Eyelid margin crusting, Eye allergy, Eye swelling, Corneal deposits, Eyelid disorder, Noninfective conjunctivitis, Abnormal sensation in the eye, Asthenopia, Keratitis, Refraction disorder, Anterior chamber flare, Anterior chamber inflammation, Eczema eyelids, Eyelid skin dryness, Growth of eyelashes, Iritis, Visual impairment, Eye paraesthesia |
+|                                                 | Not known   | Reticular epithelial corneal oedema 2                                                                                                                                                                                                                                                                                                                                                                        |
+| Respiratory, thoracic and mediastinal disorders | Uncommon    | Nasal discomfort                                                                                                                                                                                                                                                                                                                                                                                             |
+| Skin and subcutaneous tissue disorders          | Uncommon    | Dermatitis contact                                                                                                                                                                                                                                                                                                                                                                                           |
 
-<div style=\"page-break-after: always\"></div>
-
-| System organ classification                     | Frequency   | Adverse reactions   |
-|-------------------------------------------------|-------------|---------------------|
-| Musculoskeletal and connective tissue disorders | Uncommon    | Polychondritis      |
-| Injury, poisoning and procedural complications  | Uncommon    | Excoriation         |
-
-- 1 See Description of selected adverse reactions for further information
+1 See Description of selected adverse reactions for further information
 
 2 Additional adverse reaction observed with netarsudil monotherapy
 
@@ -169,7 +162,7 @@ Conjunctival hyperaemia was the most frequently reported adverse reaction associ
 
 ## Cornea verticillata
 
-Cornea verticillata occurred in approximately 20% of the patients in controlled Phase 3 clinical trials. The cornea verticillata seen in netarsudil-treated patients were first noted at 4 weeks of daily dosing. This reaction did not result in any apparent visual functional changes in patients. The majority of cornea verticillata resolved upon discontinuation of treatment. The incidence of cornea verticillata was higher in certain subpopulat ions: elderly (≥65 years) versus non-elderly (24.8 vs. 15.9%); males versus females (24.4 vs. 18.4%) and in white versus other races (25.6 vs. 7.0%).
+Cornea verticillata occurred in approximately 20% of the patients in controlled Phase 3 clinical trials. The cornea verticillata seen in netarsudil-treated patients were first noted at 4 weeks of daily dosing. This reaction did not result in any apparent visual functional changes in patients. The majority of cornea verticillata resolved upon discontinuation of treatment. The incidence of cornea verticillata was higher in certain subpopulations: elderly (≥65 years) versus non-elderly (24.8 vs. 15.9%); males versus females (24.4 vs. 18.4%) and in white versus other races (25.6 vs. 7.0%).
 
 ## Special populations
 
@@ -180,6 +173,8 @@ With the exception of cornea verticillata (see above), no difference in the safe
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -195,8 +190,6 @@ Pharmacotherapeutic group: Ophthalmologicals, antiglaucoma preparations and miot
 
 Netarsudil, a Rho kinase inhibitor, is believed to reduce IOP by increasing outflow of aqueous humor. Studies in animal and man suggest that the main mechanism of action is increased trabecular outflow. These studies also suggest that netarsudil lowers IOP by reducing episcleral venous pressure.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy and safety
 
 A randomised, double-blind, multicentre Phase 3 clinical trial compared the efficacy and safety of netarsudil once daily with that of timolol maleate 0.5% twice daily in reducing IOP in a total of 708 patients with open-angle glaucoma or ocular hypertension. The median age of study participants was 65.5 years (range 18 to 91 years).
@@ -205,45 +198,45 @@ The study was designed to show non-inferiority of netarsudil when dosed once dai
 
 Table 1: Mean IOP by visit: PP population with baseline IOP &lt;25 mmHg
 
-| Study visit and time point   | Study visit and time point   | Netarsudil 0.02% Once daily   | Netarsudil 0.02% Once daily   | Timolol 0.5% twice daily   | Timolol 0.5% twice daily   | Difference (95% CI) Netarsudil - Timolol   |
-|------------------------------|------------------------------|-------------------------------|-------------------------------|----------------------------|----------------------------|--------------------------------------------|
-|                              |                              | N                             | IOP                           | N                          | IOP                        |                                            |
-| Baseline                     | 08:00                        | 186                           | 22.40                         | 186                        | 22.44                      |                                            |
-|                              | 10:00                        | 186                           | 21.06                         | 186                        | 21.27                      |                                            |
-|                              | 16:00                        | 186                           | 20.69                         | 186                        | 20.69                      |                                            |
-| Day 15                       | 08:00                        | 184                           | 17.68                         | 183                        | 17.51                      | 0.17 (-0.43, 0.77)                         |
-|                              | 10:00                        | 181                           | 16.55                         | 183                        | 16.71                      | -0.16 (-0.73, 0.41)                        |
-|                              | 16:00                        | 181                           | 16.32                         | 183                        | 16.92                      | -0.60 (-1.16, -0.04)                       |
-| Day 43                       | 08:00                        | 177                           | 17.84                         | 183                        | 17.60                      | 0.25 (-0.34, 0.83)                         |
-|                              | 10:00                        | 177                           | 16.75                         | 182                        | 16.98                      | -0.22 (-0.82, 0.37)                        |
-|                              | 16:00                        | 176                           | 16.57                         | 182                        | 16.67                      | -0.10 (-0.66, 0.46)                        |
-| Day 90                       | 08:00                        | 167                           | 17.86                         | 179                        | 17.29                      | 0.56 (-0.02, 1.15)                         |
-|                              | 10:00                        | 166                           | 16.90                         | 179                        | 16.69                      | 0.21 (-0.37, 0.79)                         |
-|                              | 16:00                        | 165                           | 16.73                         | 179                        | 16.80                      | -0.07 (-0.68, 0.55)                        |
-
-Table 2: Mean IOP by visit: PP population with baseline IOP ≥25 and &lt;30 mmHg
-
-| Study visit and time point   | Study visit and time point   | Netarsudil 0.02% Once daily   | Netarsudil 0.02% Once daily   | Timolol 0.5% twice daily   | Timolol 0.5% twice daily   | Difference (95% CI) Netarsudil - Timolol   |
-|------------------------------|------------------------------|-------------------------------|-------------------------------|----------------------------|----------------------------|--------------------------------------------|
-|                              |                              | N                             | IOP                           | N                          | IOP                        |                                            |
-| Baseline                     | 08:00                        | 120                           | 26.30                         | 130                        | 25.96                      |                                            |
-|                              | 10:00                        | 120                           | 25.18                         | 130                        | 24.91                      |                                            |
-|                              | 16:00                        | 120                           | 24.48                         | 130                        | 23.99                      |                                            |
-| Day 15                       | 08:00                        | 118                           | 21.57                         | 129                        | 20.15                      | 1.42 (0.51, 2.34)                          |
-|                              | 10:00                        | 116                           | 20.09                         | 129                        | 19.34                      | 0.75 (-0.15, 1.64)                         |
-|                              | 16:00                        | 116                           | 20.01                         | 129                        | 19.17                      | 0.83 (0.00, 1.67)                          |
-| Day 43                       | 08:00                        | 112                           | 21.99                         | 127                        | 19.84                      | 2.14 (1.16, 3.13)                          |
-|                              | 10:00                        | 109                           | 20.33                         | 127                        | 19.19                      | 1.15 (0.30, 1.99)                          |
-|                              | 16:00                        | 109                           | 20.03                         | 127                        | 19.63                      | 0.41 (-0.47, 1.29)                         |
-| Day 90                       | 08:00                        | 94                            | 21.71                         | 121                        | 19.91                      | 1.79 (0.74, 2.85)                          |
-|                              | 10:00                        | 93                            | 20.80                         | 120                        | 18.95                      | 1.85 (0.89, 2.81)                          |
-|                              | 16:00                        | 93                            | 20.31                         | 120                        | 18.94                      | 1.37 (0.46, 2.28)                          |
-
-The safety of netarsudil has been evaluated in clinical trials, including four well-controlled Phase 3 studies.
+| Study visit and time point   | Study visit and time point   |   Netarsudil 0.02% Once daily - N |   Netarsudil 0.02% Once daily - IOP |   Timolol 0.5% twice daily - N |   Timolol 0.5% twice daily - IOP | Difference (95% CI) Netarsudil - Timolol   |
+|------------------------------|------------------------------|-----------------------------------|-------------------------------------|--------------------------------|----------------------------------|--------------------------------------------|
+| Baseline                     | 08:00                        |                               186 |                               22.40 |                            186 |                            22.44 |                                            |
+|                              | 10:00                        |                               186 |                               21.06 |                            186 |                            21.27 |                                            |
+|                              | 16:00                        |                               186 |                               20.69 |                            186 |                            20.69 |                                            |
+| Day 15                       | 08:00                        |                               184 |                               17.68 |                            183 |                            17.51 | 0.17 (-0.43, 0.77)                         |
+|                              | 10:00                        |                               181 |                               16.55 |                            183 |                            16.71 | -0.16 (-0.73, 0.41)                        |
+|                              | 16:00                        |                               181 |                               16.32 |                            183 |                            16.92 | -0.60 (-1.16, -0.04)                       |
+| Day 43                       | 08:00                        |                               177 |                               17.84 |                            183 |                            17.60 | 0.25 (-0.34, 0.83)                         |
+|                              | 10:00                        |                               177 |                               16.75 |                            182 |                            16.98 | -0.22 (-0.82, 0.37)                        |
+|                              | 16:00                        |                               176 |                               16.57 |                            182 |                            16.67 | -0.10 (-0.66, 0.46)                        |
+| Day 90                       | 08:00                        |                               167 |                               17.86 |                            179 |                            17.29 | 0.56 (-0.02, 1.15)                         |
+|                              | 10:00                        |                               166 |                               16.90 |                            179 |                            16.69 | 0.21 (-0.37, 0.79)                         |
 
 <div style=\"page-break-after: always\"></div>
 
-Approximately 75% of subjects included in the netarsudil treatment groups of Phase 3 studies were Caucasian and 24% Black or African American.  Over half were aged ≥ 65 years.  With the exception of the incidence of cornea verticillata, no other difference in safety profile was observed between races or age groups (see section 4.8).
+| 16:00   | 165   | 16.73   | 179   | 16.80   | -0.07 (-0.68, 0.55)   |
+|---------|-------|---------|-------|---------|-----------------------|
+
+Table 2: Mean IOP by visit: PP population with baseline IOP ≥25 and &lt;30 mmHg
+
+| Study visit and time point   | Study visit and time point   |   Netarsudil 0.02% Once daily - N |   Netarsudil 0.02% Once daily - IOP |   Timolol 0.5% twice daily - N |   Timolol 0.5% twice daily - IOP | Difference (95% CI) Netarsudil - Timolol   |
+|------------------------------|------------------------------|-----------------------------------|-------------------------------------|--------------------------------|----------------------------------|--------------------------------------------|
+| Baseline                     | 08:00                        |                               120 |                               26.30 |                            130 |                            25.96 |                                            |
+|                              | 10:00                        |                               120 |                               25.18 |                            130 |                            24.91 |                                            |
+|                              | 16:00                        |                               120 |                               24.48 |                            130 |                            23.99 |                                            |
+| Day 15                       | 08:00                        |                               118 |                               21.57 |                            129 |                            20.15 | 1.42 (0.51, 2.34)                          |
+|                              | 10:00                        |                               116 |                               20.09 |                            129 |                            19.34 | 0.75 (-0.15, 1.64)                         |
+|                              | 16:00                        |                               116 |                               20.01 |                            129 |                            19.17 | 0.83 (0.00, 1.67)                          |
+| Day 43                       | 08:00                        |                               112 |                               21.99 |                            127 |                            19.84 | 2.14 (1.16, 3.13)                          |
+|                              | 10:00                        |                               109 |                               20.33 |                            127 |                            19.19 | 1.15 (0.30, 1.99)                          |
+|                              | 16:00                        |                               109 |                               20.03 |                            127 |                            19.63 | 0.41 (-0.47, 1.29)                         |
+| Day 90                       | 08:00                        |                                94 |                               21.71 |                            121 |                            19.91 | 1.79 (0.74, 2.85)                          |
+|                              | 10:00                        |                                93 |                               20.80 |                            120 |                            18.95 | 1.85 (0.89, 2.81)                          |
+|                              | 16:00                        |                                93 |                               20.31 |                            120 |                            18.94 | 1.37 (0.46, 2.28)                          |
+
+The safety of netarsudil has been evaluated in clinical trials, including four well-controlled Phase 3 studies.
+
+Approximately 75% of subjects included in the netarsudil treatment groups of Phase 3 studies were Caucasian and 24% Black or African American. Over half were aged ≥ 65 years. With the exception of the incidence of cornea verticillata, no other difference in safety profile was observed between races or age groups (see section 4.8).
 
 Completion rates in Phase 3 studies were lower in the netarsudil treatment group when compared with the timolol maleate group. Subjects with known contraindications or hypersensitivity to timolol were excluded from the studies. Discontinuation rates due to adverse reactions were 19.3% for the netarsudil treatment group versus 1.7% for the timolol maleate group. The majority of discontinuations in the netarsudil group were associated with ocular adverse reactions, whereas the majority of discontinuations in the timolol group were associated with non-ocular adverse reactions. The most frequently reported adverse reactions associated with discontinuation in the Rhokiinsa groups were conjunctival hyperemia (5.8%), cornea verticillata (3.7%) and vision blurred (1.4%). The incidences of hyperemia and vision blurred were sporadic in nature.
 
@@ -259,6 +252,8 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 The systemic exposures of netarsudil and its active metabolite, AR-13503, were evaluated in 18 healthy subjects after topical ocular administration of netarsudil once daily (one drop bilaterally in the morning) for 8 days. There were no quantifiable plasma concentrations of netarsudil (lower limit of quantitation (LLOQ) 0.100 ng/ml) post dose on day 1 and day 8. Only one plasma concentration at 0.11 ng/ml for the active metabolite was observed for one subject on day 8 at 8 hours post-dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Biotransformation
 
 After topical ocular dosing, netarsudil is metabolised by esterases in the eye to an active metabolite, AR-13503.
@@ -267,11 +262,9 @@ After topical ocular dosing, netarsudil is metabolised by esterases in the eye t
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity and toxicity to development. Effects in non-clinical trials were observed only at exposures considered sufficiently in excess of the maximum human exposure indicating little relevance to clinical use.
 
-Intravenous administration of netarsudil mesylate to pregnant rats and rabbits during organogenesis did not produce adverse embryofetal effects at clinically relevant systemic exposures. In pregnant rats, 0.3 mg/kg/day (1 000 times the recommended ophthalmic dose) and higher showed increased postimplantation loss and reduced foetal viability.  In pregnant rabbits, 3 mg/kg/day (10 000 times the recommended ophthalmic dose) and higher showed an increase in post-implantation loss and a decrease in foetal weight.
+Intravenous administration of netarsudil mesylate to pregnant rats and rabbits during organogenesis did not produce adverse embryofetal effects at clinically relevant systemic exposures. In pregnant rats, 0.3 mg/kg/day (1 000 times the recommended ophthalmic dose) and higher showed increased postimplantation loss and reduced foetal viability. In pregnant rabbits, 3 mg/kg/day (10 000 times the recommended ophthalmic dose) and higher showed an increase in post-implantation loss and a decrease in foetal weight.
 
 Long-term studies in animals have not been performed to evaluate the carcinogenic potential of netarsudil.
-
-<div style=\"page-break-after: always\"></div>
 
 Netarsudil was not mutagenic in a bacterial mutation assay, in a mouse lymphoma assay, or in a rat micronucleus test.
 
@@ -299,6 +292,8 @@ Store in a refrigerator (2°C - 8°C) until opened.
 
 For storage conditions after first opening of the medicinal product, see section 6.3.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 Rhokiinsa is supplied sterile in white low density polyethylene bottles (2.5 ml fill) and tips with white polypropylene caps and anti-tamper seals.
@@ -311,29 +306,23 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Santen Oy Niittyhaankatu 20 33720 Tampere Finland
+Santen Oy Niittyhaankatu 20 33720 Tampere
+
+Finland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/19/1400/001
 
-<div style=\"page-break-after: always\"></div>
-
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 19/11/2019
 
 Date of latest renewal: 06/09/2024
 
-10.
-
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-10
 
 <div style=\"page-break-after: always\"></div>
 
@@ -383,6 +372,8 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON OUTER PACKAGING
 
 ## OUTER CARTON
@@ -397,7 +388,9 @@ Rhokiinsa 200 micrograms/ml eye drops, solution netarsudil
 
 ## 3. LIST OF EXCIPIENTS
 
-Benzalkonium chloride, boric acid, mannitol, sodium hydroxide, water for injections. Read the package leaflet before use.
+Benzalkonium chloride, boric acid, mannitol, sodium hydroxide, water for injections.
+
+Read the package leaflet before use.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -427,54 +420,68 @@ Open date: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+Store in a refrigerator until opened.
+
+Once opened, do not store above 25°C.
+
 <div style=\"page-break-after: always\"></div>
 
-Store in a refrigerator until opened. Once opened, do not store above 25°C.
+| 10.                                                                     | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS           |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-<div style=\"page-break-after: always\"></div>
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
+Santen Oy Niittyhaankatu 20 33720 Tampere Finland
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Santen Oy Niittyhaankatu 20 33720 Tampere
-
-Finland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/19/1400/001
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Rhokiinsa
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS BOTTLE LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| BOTTLE LABEL                                                       |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Rhokiinsa 200 micrograms/ml eye drops netarsudil Ocular use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -483,7 +490,8 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2.5 ml
 
@@ -504,10 +512,10 @@ Lot
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -520,7 +528,7 @@ Lot
 
 ## 1. What Rhokiinsa is and what it is used for
 
-Rhokiinsa contains an active substance called netarsudil. Netarsudil belongs to a group of medicines called 'Rho kinase inhibitors', which work to reduce the amount of fluid inside the eye and so lower its pressure.
+Rhokiinsa contains an active substance called netarsudil. Netarsudil belongs to a group of medicines called \"Rho kinase inhibitors\", which work to reduce the amount of fluid inside the eye and so lower its pressure.
 
 Rhokiinsa is used to lower pressure in the eyes in adults who have an eye condition known as glaucoma or who have raised pressure in their eyes. If the pressure in the eye is too high, it can damage your sight.
 
@@ -528,12 +536,12 @@ Rhokiinsa is used to lower pressure in the eyes in adults who have an eye condit
 
 ## Do not use Rhokiinsa:
 
-- -if you are allergic to netarsudil or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to netarsudil or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 - Do not use Rhokiinsa more than once a day, as you may experience more side effects.
-- Tell  your  doctor  if  you  experience  decreased  vision  or  eye  pain  during  treatment  with  this medicine. This might be due to a type of swelling of the clear outer layer of the eye (reticular epithelial  corneal  oedema).  This  effect  has  been  reported  following  administration  of  this medicine to the eye in patients with certain risk factors, including previous surgery to the eye. It usually improves following discontinuation of the medicine.
+- Tell your doctor if you experience decreased vision or eye pain during treatment with this medicine. This might be due to a type of swelling of the clear outer layer of the eye (reticular epithelial corneal oedema). This effect has been reported following administration of this medicine to the eye in patients with certain risk factors, including previous surgery to the eye. It usually improves following discontinuation of the medicine.
 
 ## Children and adolescents
 
@@ -588,10 +596,10 @@ Do not use more than one drop in the affected eye(s) once a day.
 - Do not touch your eye, eyelid, surrounding areas or other surfaces with the dropper. It could contaminate the drops.
 - Gently squeeze the bottle to release one drop of Rhokiinsa into your eye.
 - Only put one drop into your eye each time. If a drop misses your eye, try again.
-- If you need to use the drops in both eyes , repeat the steps for your other eye while you have the bottle open.
+- If you need to use the drops in both eyes, repeat the steps for your other eye while you have the bottle open.
 - Put back the bottle cap to close the bottle.
 
-If you are using other eye drops , wait at least five minutes after using them and then use Rhokiinsa last due to netarsudil's vasodilating properties. If you are using eye ointments, these should be used last.
+If you are using other eye drops, wait at least five minutes after using them and then use Rhokiinsa last due to netarsudil's vasodilating properties. If you are using eye ointments, these should be used last.
 
 ## If you use more Rhokiinsa than you should
 
@@ -613,19 +621,29 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 The following non-serious side effects have been observed with Rhokiinsa:
 
-## Very common side effects (may affect more than 1 in 10 people)
+Very common side effects (may affect more than 1 in 10 people)
 
 - Effects in the eye:
 
-Eye redness; fine deposits on the front of the eye (corneal verticillata) Pain where the drops have been put in
+Eye redness; fine deposits on the front of the eye (corneal verticillata)
+
+Eyelid redness
+
+Eye pain
 
 ## Common side effects (may affect up to 1 in 10 people)
 
-- •
+- Effects in the eye:
 
-Effects in the eye: Infection or inflammation of the eye, dryness of the eye or small breaks in the film of liquid on the surface of the eye (conjunctivitis, punctate keratitis); eye inflammation caused by an allergic reaction or prominent blood vessels; Eye discharge; eyes can become watery; Eye pain; feeling of grittiness or having something in the eye; general eye redness shortly after drops are put in; spots or patches of eye redness; Itchy eyelids; swelling around the eye;
+Eye irritation, itchiness and discomfort;
 
-Clouding of the eye and vision may decrease somewhat; sensitive to light; blurred vision
+Infection or inflammation of the eye, dryness of the eye or small breaks in the film of liquid on the surface of the eye (conjunctivitis, punctate keratitis); eye inflammation caused by an allergic reaction or prominent blood vessels;
+
+Eye discharge; eyes can become watery;
+
+Feeling of grittiness or having something in the eye; eye swelling Itchy eyelids; swelling around the eye;
+
+Vision may decrease somewhat; sensitive to light; blurred vision
 
 - General side effects: Headache
 
@@ -633,22 +651,25 @@ Clouding of the eye and vision may decrease somewhat; sensitive to light; blurre
 
 - Effects in the eye:
 
-Increased fluid pressure inside the eye;
+Inflammation of the coloured part of the eye (the iris);
 
-Inflammation of the coloured part of the eye (the iris); bulging of iris; small colored spots on the eye surface;
+Eyelid dryness and crusting;
 
-Growth of eyelashes; loss of eyelashes (madarosis);
+Eye allergy;
 
-Eyelid dryness; abnormal turning outward of the lower eyelid; eye dryness caused by inflammation of the glands of the eyelids; eyelid crusting;
+Tiredness
+
+- General side effects:
 
 <div style=\"page-break-after: always\"></div>
 
-Eye disease related to diabetes; (diabetic retinopathy); Excess folds of the conjunctiva (conjunctivochalasis); Blindness; blurred, double and halo vision; cataracts; Eye allergy;
+Increased allergic symptoms;
 
-Glassy eyes; tiredness
+Dizziness;
 
-- General side effects: Increased allergic symptoms; Dizziness; Nasal discomfort and pain;
-- Effects on the skin: redness or itching of the skin; rash on skin; inflammation of the cartilage; picking of the skin
+Nasal discomfort
+
+- Effects on the skin: redness, itching or rash
 
 Not known side effects (cannot be estimated from the available data)
 
@@ -658,13 +679,13 @@ Swelling of the clear outer layer of the eye (reticular epithelial corneal oedem
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor,  or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Rhokiinsa
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and bottle label after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and bottle label after \"EXP\". The expiry date refers to the last day of that month.
 
 Unopened bottles: Store in a refrigerator (2°C - 8°C).
 
@@ -678,8 +699,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Rhokiinsa contains
 
-- -The active substance is netarsudil. Each ml of solution contains 200 micrograms netarsudil (as mesylate).
-- -The other excipients are benzalkonium chloride (see section 2 under 'Rhokiinsa contains benzalkonium chloride'), mannitol, boric acid, sodium hydroxide (for pH adjustment) and water for injections.
+- The active substance is netarsudil. Each ml of solution contains 200 micrograms netarsudil (as mesylate).
+- The other excipients are benzalkonium chloride (see section 2 under 'Rhokiinsa contains benzalkonium chloride'), mannitol, boric acid, sodium hydroxide (for pH adjustment) and water for injections.
 
 ## What Rhokiinsa looks like and contents of the pack
 
@@ -689,15 +710,11 @@ Rhokiinsa 200 micrograms/ml eye drops, solution (eye drops) is a clear, liquid e
 
 Santen Oy Niittyhaankatu 20, 33720 Tampere, Finland
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
 
-Santen Oy, Kelloportinkatu 1, 33100 Tampere,
+Santen Oy, Kelloportinkatu 1, 33100 Tampere, Finland For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-Finland
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
@@ -715,41 +732,13 @@ Teл.: +40 21 528 0290
 
 Santen Oy
 
-Tel: +358 (0) 3 284 8111
+Tel: +421 908 100 103
 
 ## Danmark
 
-Santen Oy
-
-Tlf.: +45 898 713 35
+Santen Oy Tlf.: +45 898 713 35
 
 ## Deutschland
-
-## Lietuva
-
-Santen Oy
-
-Tel: +370 37 366628
-
-## Luxembourg/Luxemburg
-
-Santen Oy
-
-Tél/Tel: +352 (0) 27862006
-
-## Magyarország
-
-Santen Oy
-
-Tel: +358 (0) 3 284 8111
-
-## Malta
-
-Santen Oy
-
-Tel: +358 (0) 3 284 8111
-
-## Nederland
 
 Santen GmbH
 
@@ -765,27 +754,9 @@ Tel: +372 5067559
 
 Santen Oy
 
-Τηλ: + 358 (0) 3 284 8111
+Τηλ: +358 (0) 3 284 8111
 
 ## España
-
-Santen Oy
-
-Tel: +31 (0) 207139206
-
-## Norge
-
-Santen Oy
-
-Tlf: +47 21939612
-
-## Österreich
-
-Santen Oy
-
-Tel: +43 (0) 720116199
-
-## Polska
 
 Santen Pharmaceutical Spain S.L.
 
@@ -815,15 +786,65 @@ Santen Oy
 
 Sími: +358 (0) 3 284 8111
 
+## Italia
+
+Santen Italy S.r.l.
+
+Tel: +39 0236009983
+
+## Κύπρος
+
 Santen Oy
 
-Tel.: +48(0) 221042096
+## Lietuva
+
+Santen Oy
+
+Tel: +370 37 366628
+
+## Luxembourg/Luxemburg
+
+Santen Oy
+
+Tél/Tel: +352 (0) 27862006
+
+## Magyarország
+
+Santen Oy
+
+Tel: +358 (0) 3 284 8111
+
+## Malta
+
+Santen Oy
+
+Tel: +358 (0) 3 284 8111
+
+## Nederland
+
+Santen Oy
+
+Tel: +31 (0) 207139206
+
+## Norge
+
+Santen Oy
+
+Tlf: +47 21939612
+
+## Österreich
+
+Santen Oy
+
+Tel: +43 (0) 720116199
+
+## Polska
+
+Santen Oy Tel.: +48(0) 221042096
 
 ## Portugal
 
-Santen Oy
-
-Tel: +351 308 805 912
+Santen Oy Tel: +351 308 805 912
 
 ## România
 
@@ -841,35 +862,7 @@ Tel: +358 (0) 3 284 8111
 
 Santen Oy
 
-Tel: +358 (0) 3 284 8111
-
-<div style=\"page-break-after: always\"></div>
-
-## Italia
-
-Santen Italy S.r.l.
-
-Tel: +39 0236009983
-
-## Κύπρος
-
-Santen Oy
-
-Τηλ: +
-
-358 (0) 3 284 8111
-
-## Latvija
-
-Santen Oy
-
-Tel: +371 677 917 80
-
-This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+Tel: +421 908 100 103
 
 ## Suomi/Finland
 
@@ -881,4 +874,12 @@ Puh/Tel: +358 (0) 974790211
 
 Santen Oy
 
-Tel: +46 (0) 850598833
+<div style=\"page-break-after: always\"></div>
+
+Latvija Santen Oy Tel: +371 677 917 80
+
+This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

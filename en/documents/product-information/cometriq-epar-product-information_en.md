@@ -1,22 +1,24 @@
 ---
-document_datetime: 2026-09-24 08:13:46
+document_datetime: 2026-10-13 12:26:16
 document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cometriq-epar-product-information_en.pdf
 document_name: cometriq-epar-product-information_en.pdf
 version: success
-processing_time: 83.9717096
-conversion_datetime: 2026-09-25 19:01:01.677431
+processing_time: 37.280941
+conversion_datetime: 2026-10-19 22:48:08.433282
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.130.0
-  docling-core: 2.98.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
   docling-ibm-models: 4.0.3
-  docling-parse: 7.21.0
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -34,9 +36,9 @@ For the full list of excipients, see section 6.1.
 
 Hard capsule.
 
-The hard capsules are grey with 'XL184 20mg' printed in black on the body of the capsule. The capsule contains an off-white to white powder.
+The hard capsules are grey with \"XL184 20mg\" printed in black on the body of the capsule. The capsule contains an off-white to white powder.
 
-The hard capsules are orange with 'XL184 80mg' printed in black on the body of the capsule. The capsule contains an off-white to white powder.
+The hard capsules are orange with \"XL184 80mg\" printed in black on the body of the capsule. The capsule contains an off-white to white powder.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -192,7 +194,7 @@ Administration of MRP2 inhibitors may result in increases in cabozantinib plasma
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially \"sodium-free\".
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -232,7 +234,7 @@ Cabozantinib was an inhibitor (IC50 = 7.0 μM), but not a substrate, of P-gp tra
 
 ## Women of childbearing potential/Contraception in males and females
 
-Women of childbearing potential must be advised to avoid pregnancy while on cabozantinib. Female partners of male patients taking cabozantinib must also avoid pregnancy. Effective methods of contraception should be used by male and female patients and their partners during therapy, and for at least 4 months after completing therapy. Because oral contraceptives might possibly not be considered as 'effective methods of contraception,' they should be used together with another method, such as a barrier method (see section 4.5).
+Women of childbearing potential must be advised to avoid pregnancy while on cabozantinib. Female partners of male patients taking cabozantinib must also avoid pregnancy. Effective methods of contraception should be used by male and female patients and their partners during therapy, and for at least 4 months after completing therapy. Because oral contraceptives might possibly not be considered as \"effective methods of contraception,\" they should be used together with another method, such as a barrier method (see section 4.5).
 
 ## Pregnancy
 
@@ -393,7 +395,7 @@ Months
 | Cometriq                             |                              219 |                              121 |                               78 |                               55 |                                31 |                                12 |                                 2 |                                 1 |
 | Placebo                              |                              111 |                               35 |                               11 |                                6 |                                 3 |                                 2 |                                 0 |                                 0 |
 
-The final analysis of OS was conducted after 218 events (deaths) occurred and shows a trend for an increase in median survival of 5.5months in the cabozantinib arm: median(months) 26.6cabozantinibvs. 21.1placebo (HR=0.85 [95%CI:0.64, 1.12], p=0.2409).
+The final analysis of OS was conducted after 218 events (deaths) occurred and shows a trend for an increase in median survival of 5.5 months in the cabozantinib arm: median (months) 26.6 cabozantinib vs. 21.1 placebo (HR = 0.85 [95%CI: 0.64, 1.12], p = 0.2409).
 
 Figure 2: Kaplan-Meier curve of overall survival
 
@@ -441,37 +443,33 @@ A significant improvement in OS was observed in the subgroup of RET M918T mutati
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 3: Kaplan-Meier analysisof OS among subjectswith a RET M918T mutation
+Figure 3: Kaplan-Meier analysis of OS among subjects with a RET M918T mutation
 
 <!-- image -->
-
-## Paediatric population
-
-The European Medicines Agency has deferred the obligation to submit the results of studies with cabozantinibin one or more subsets of the paediatric population in the treatment of malignant solid tumours (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-Following oral administration of cabozantinib, peak cabozantinib plasma concentrations are reached at 2 to 5 hours post-dose.Plasma-concentration time profiles show a second absorption peak approximately 24hours after administration, which suggests that cabozantinib may undergo enterohepatic recirculation.
+Following oral administration of cabozantinib, peak cabozantinib plasma concentrations are reached at 2 to 5 hours post-dose. Plasma-concentration time profiles show a second absorption peak approximately 24 hours after administration, which suggests that cabozantinib may undergo enterohepatic recirculation.
 
-Repeat daily dosing of cabozantinibat 140mg for 19 days resulted in an approximately a 4- to 5-fold mean cabozantinib accumulation (based on AUC) compared to a single dose administration; steady state is achieved by approximately Day15.
+Repeat daily dosing of cabozantinib at 140 mg for 19 days resulted in an approximately a 4- to 5-fold mean cabozantinib accumulation (based on AUC) compared to a single dose administration; steady state is achieved by approximately Day 15.
 
-A high-fat meal moderately increased Cmaxand AUC values (41% and57%, respectively) relative to fasted conditions in healthy volunteers administered a single 140mg oral cabozantinibdose. There is no information on the precise food-effect when taken 1hour after administration of cabozantinib.
+A high-fat meal moderately increased Cmax and AUC values (41% and 57%, respectively) relative to fasted conditions in healthy volunteers administered a single 140 mg oral cabozantinib dose. There is no information on the precise food-effect when taken 1 hour after administration of cabozantinib.
 
-Bioequivalence could not be demonstrated between the cabozantinib capsule and tablet formulations following a single 140 mg dose in healthy subjects. A 19% increase in the Cmaxof the tablet formulation (CABOMETYX) compared to the capsule formulation (COMETRIQ) was observed. AUC were similar between cabozantinib tablet (CABOMETYX) and capsule (COMETRIQ) formulations (&lt;10% difference).
+Bioequivalence could not be demonstrated between the cabozantinib capsule and tablet formulations following a single 140 mg dose in healthy subjects. A 19% increase in the Cmax of the tablet formulation (CABOMETYX) compared to the capsule formulation (COMETRIQ) was observed. AUC were similar between cabozantinib tablet (CABOMETYX) and capsule (COMETRIQ) formulations (&lt;10% difference).
 
 ## Distribution
 
-Cabozantinib is highly protein bound in vitroin human plasma (≥ 99.7%).Based on the populationpharmacokinetic (PK) model, the volume of distribution (V/F) is approximately 349L (SE: ± 2.73%). Protein binding was not altered in subjects with mild or moderately impaired renal or hepatic function.
+Cabozantinib is highly protein bound in vitro in human plasma (≥ 99.7%). Based on the populationpharmacokinetic (PK) model, the volume of distribution (V/F) is approximately 349 L (SE: ± 2.73%). Protein binding was not altered in subjects with mild or moderately impaired renal or hepatic function.
 
 ## Biotransformation
 
-Cabozantinib was metabolized in vivo. Four metabolites were present in plasma at exposures (AUC) greater than10%of parent: XL184-N-oxide, XL184 amide cleavage product, XL184 monohydroxy sulfate, and 6-desmethyl amide cleavage product sulfate. Two non-conjugated metabolites (XL184-N-oxide and XL184 amide cleavage product),which possess&lt;1% of the on-target kinase inhibition potency of parent cabozantinib, each represent&lt;10% of total drug-related plasma exposure.
-
-<div style=\"page-break-after: always\"></div>
+Cabozantinib was metabolized in vivo. Four metabolites were present in plasma at exposures (AUC) greater than 10% of parent: XL184-N-oxide, XL184 amide cleavage product, XL184 monohydroxy sulfate, and 6-desmethyl amide cleavage product sulfate. Two non-conjugated metabolites (XL184-N-oxide and XL184 amide cleavage product), which possess &lt;1% of the on-target kinase inhibition potency of parent cabozantinib, each represent &lt;10% of total drug-related plasma exposure.
 
 Cabozantinib is a substrate for CYP3A4 metabolism in vitro, as a neutralizing antibody to CYP3A4 inhibited formation of metabolite XL184 N-oxide by &gt;80% in a NADPH-catalyzed human liver microsomal (HLM) incubation; in contrast, neutralizing antibodies to CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C19, CYP2D6 and CYP2E1 had no effect on cabozantinib metabolite formation. A neutralizing antibody to CYP2C9 showed a minimal effect on cabozantinib metabolite formation (ie, a &lt;20% reduction).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -501,9 +499,9 @@ Fertility studies in rats have shown reduced male and female fertility. Further,
 
 Embryo-foetal development studies were performed in rats and rabbits. In rats, cabozantinib caused postimplantation loss, foetal oedema, cleft palate/lip, dermal aplasia and kinked or rudimentary tail. In rabbits, cabozantinib produced foetal soft tissue changes (reduced spleen size, small or missing intermediate lung lobe) and increased foetal incidence of total malformations. NOAEL for embryo-foetal toxicity and teratogenic findings were below human clinical exposure levels at intended therapeutic dose.
 
-<div style=\"page-break-after: always\"></div>
-
 Juvenile rats (comparable to a &gt;2 year old pediatric population) administered cabozantinib showed increased WBC parameters, decreased haematopoiesis, pubescent/immature female reproductive system (without delayed vaginal opening), tooth abnormalities, reduced bone mineral content and density, liver pigmentation and bile duct hyperplasia. Findings in uterus/ovaries and decreased haematopoiesis appeared to be transient, while effects on bone parameters and liver pigmentation were sustained. Evaluations in juvenile rats (comparable to a &lt;2 year old pediatric population) have not been performed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -511,7 +509,9 @@ Juvenile rats (comparable to a &gt;2 year old pediatric population) administered
 
 Capsule content Microcrystalline cellulose Croscarmellose sodium Sodium starch glycolate Silica colloidal anhydrous Stearic acid
 
-Capsule shell Gelatin Black iron oxide (E172) (20 mg capsules only) Red iron oxide (E172) (80 mg capsules only) Titanium dioxide (E171)
+Capsule shell Gelatin Black iron oxide (E172) (20 mg capsules only) Red iron oxide (E172) (80 mg capsules only)
+
+Titanium dioxide (E171)
 
 Printing ink Shellac Black iron oxide (E172) Propylene glycol
 
@@ -525,7 +525,9 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 25 ºC. Store in the original package in order to protect from moisture.
+Do not store above 25 ºC.
+
+Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
@@ -535,15 +537,9 @@ Blister cards containing either:
 
 21 x 20 mg capsules (60 mg/day dose for a 7-day supply) 7 x 20 mg and 7 x 80 mg capsules (100 mg/day dose for a 7-day supply) 21 x 20 mg and 7 x 80 mg capsules (140 mg/day dose for a 7-day supply)
 
-28 day pack containing:
-
-84 capsules (4 blister cards of 21 x 20 mg) (60 mg/day dose for a 28 day supply)
+28 day pack containing: 84 capsules (4 blister cards of 21 x 20 mg) (60 mg/day dose for a 28 day supply) 56 capsules (4 blister cards of 7 x 20 mg and 7 x 80 mg) (100 mg/day dose for a 28 day supply) 112 capsules (4 blister cards of 21 x 20mg and 7 x 80 mg) (140 mg/day dose for a 28 day supply)
 
 <div style=\"page-break-after: always\"></div>
-
-56 capsules (4 blister cards of 7 x 20 mg and 7 x 80 mg) (100 mg/day dose for a 28 day supply)
-
-112 capsules (4 blister cards of 21 x 20mg and 7 x 80 mg) (140 mg/day dose for a 28 day supply)
 
 ## 6.6 Special precautions for disposal
 
@@ -596,6 +592,10 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturer responsible for batch release
 
 Catalent Germany Schorndorf GmbH Steinbeisstr. 1 und 2 73614 Schorndorf Germany
+
+Tjoapack Netherlands B.V. Nieuwe Donk 9 4879 AC Etten-Leur The Netherlands
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1347,7 +1347,7 @@ Take all capsules in one row each day without food (patients should fast for at 
 <div style=\"page-break-after: always\"></div>
 
 1. Push in tab
-2. 2.Peel paper backing
+2. Peel paper backing
 3. Push capsule through foil
 
 <!-- image -->
@@ -1599,7 +1599,7 @@ France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/13/890/006 112 capsules (4 blisters cards of 21 x20 mg and 7 x 80 mg) (140 mg/day dose for 28 day supply)
+EU/1/13/890/006 112 capsules (4 blisters cards of 21 x 20 mg and 7 x 80 mg) (140 mg/day dose for 28 day supply)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1695,7 +1695,7 @@ Talk to your doctor or pharmacist before taking COMETRIQ if you:
 - are taking medicines to control your heart rhythm, have a slow heart rate, have problems with your heart or have problems with the levels of calcium, potassium or magnesium in your blood
 - have liver or kidney disease.
 
-Tell your doctor if any of these affect you. You may need treatment for them, or your doctor may decide to change your dose of COMETRIQ, or stop treatment altogether. See also section 4 'Possible side effects'.
+Tell your doctor if any of these affect you. You may need treatment for them, or your doctor may decide to change your dose of COMETRIQ, or stop treatment altogether. See also section 4 \"Possible side effects\".
 
 You should also tell your dentist that you are taking COMETRIQ. It is important for you to practice good mouth care during treatment with COMETRIQ.
 
@@ -1747,7 +1747,7 @@ Use caution when driving or using machines. Keep in mind that treatment with COM
 
 ## COMETRIQ contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially \"sodiumfree\".
 
 ## 3. How to take COMETRIQ
 
@@ -1765,7 +1765,7 @@ Your doctor will decide on the right dose for you.
 
 Your capsules will come in a blister card organised by prescribed dose. Each blister card has enough capsules to last for seven days (one week). Your capsules are also available as a 28 day pack, which contains enough capsules to last for 28 days, in 4 blister cards with seven days of capsules on each card.
 
-Each day, take all the capsules across the row. More information on the blister cards including how many capsules you will take and how many capsules there are in total in each blister card are described below in section6. To help you remember your doses, writethedate when you took your first dose in the space next to the capsules. To remove the capsules for your dose:
+Each day, take all the capsules across the row. More information on the blister cards including how many capsules you will take and how many capsules there are in total in each blister card are described below in section 6. To help you remember your doses, write the date when you took your first dose in the space next to the capsules. To remove the capsules for your dose:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1779,33 +1779,33 @@ Each day, take all the capsules across the row. More information on the blister 
 
 <!-- image -->
 
-COMETRIQshould notbe taken with food. You should not eat anything for at least 2hours before taking COMETRIQ and for 1hour after taking the medicine. Swallow the capsules one at a time with water. Do not open them.
+COMETRIQ should not be taken with food. You should not eat anything for at least 2 hours before taking COMETRIQ and for 1 hour after taking the medicine. Swallow the capsules one at a time with water. Do not open them.
 
-## If you take more COMETRIQthan you should
+## If you take more COMETRIQ than you should
 
-If you have taken more COMETRIQthan you have been instructedto, talk to a doctor or go to the hospital with the capsules and this leaflet straight away.
+If you have taken more COMETRIQ than you have been instructed to, talk to a doctor or go to the hospital with the capsules and this leaflet straight away.
 
 ## If you forget to take COMETRIQ
 
-- If there are still 12hours or more before your next dose is due,then take the missed dose as soon as you remember. Take the next dose at the normal time.
-- If your next dose is due in less than 12hours,then do not take the dose that you have missed. Take your next dose at the normal time.
+- If there are still 12 hours or more before your next dose is due, then take the missed dose as soon as you remember. Take the next dose at the normal time.
+- If your next dose is due in less than 12 hours, then do not take the dose that you have missed. Take your next dose at the normal time.
 
 ## If you stop using COMETRIQ
 
-Stopping your treatment may stop the effect of the medicine. Do not stop treatment with COMETRIQunless you have discussed this with your doctor.If you have any further questions on the use of this medicine, ask your doctor.
+Stopping your treatment may stop the effect of the medicine. Do not stop treatment with COMETRIQ unless you have discussed this with your doctor. If you have any further questions on the use of this medicine, ask your doctor.
 
 ## 4. Possible side effects
 
-Like all medicines, this medicine can cause side effects, although not everybody gets them. If you get side effects, your doctor may tell you to take COMETRIQat a lower dose. Your doctor may also prescribe other medicines to help control your side effects.
+Like all medicines, this medicine can cause side effects, although not everybody gets them. If you get side effects, your doctor may tell you to take COMETRIQ at a lower dose. Your doctor may also prescribe other medicines to help control your side effects.
 
-## Tell your doctor straight away if you notice any of the following side effects -you may need urgent medical treatment:
+## Tell your doctor straight away if you notice any of the following side effects - you may need urgent medical treatment:
 
 - Symptoms including pain in the abdomen, nausea, vomiting, constipation, or fever. These may be signs of a gastrointestinal perforation, a hole that develops in your stomach or intestine that could be life-threatening.
 - Swelling, pain in your hands and feet, or shortness of breath.
 - A wound that does not heal.
 - Vomiting or coughing up blood, which may be bright red or look like coffee grounds.
 - Pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbness or a feeling of heaviness in the jaw, or loosening of a tooth. These could be signs of bone damage in the jaw (osteonecrosis).
-- Seizures, headaches, confusion, or finding it difficult to concentrate. These may be signs of a condition called posterior reversible encephalopathy syndrome (PRES). PRESis uncommon (it affects less than 1 in 100people).
+- Seizures, headaches, confusion, or finding it difficult to concentrate. These may be signs of a condition called posterior reversible encephalopathy syndrome (PRES). PRES is uncommon (it affects less than 1 in 100 people).
 - Diarrhoea that is severe and does not seem to be settling.
 
 <div style=\"page-break-after: always\"></div>
@@ -1922,7 +1922,7 @@ The COMETRIQ 20 mg hard capsules contain cabozantinib (S)-malate equivalent to 2
 
 The other ingredients are:
 
-- Capsule contents: microcrystalline cellulose, croscarmellose sodium, sodium starch glycolate, silica colloidal anhydrous, and stearic acid (see section 2 'COMETRIQ contains sodium')
+- Capsule contents: microcrystalline cellulose, croscarmellose sodium, sodium starch glycolate, silica colloidal anhydrous, and stearic acid (see section 2 \"COMETRIQ contains sodium\")
 - Capsule shell: gelatin, and titanium dioxide (E171)
 - The 20 mg capsules also contain black iron oxide (E172)
 - The 80 mg capsules also contain red iron oxide (E172)
@@ -1930,9 +1930,9 @@ The other ingredients are:
 
 ## What COMETRIQ looks like and contents of the pack
 
-COMETRIQ 20 mg hard capsules are grey and have 'XL184 20mg' printed on one side.
+COMETRIQ 20 mg hard capsules are grey and have \"XL184 20mg\" printed on one side.
 
-COMETRIQ 80 mg hard capsules are orange and have 'XL184 80mg' printed on one side.
+COMETRIQ 80 mg hard capsules are orange and have \"XL184 80mg\" printed on one side.
 
 COMETRIQ hard capsules are packaged in blister cards organised by prescribed dose. Each blister card contains enough medicine for 7 days. Each row of the blister card contains the daily dose.
 
@@ -1980,6 +1980,14 @@ France
 
 Catalent Germany Schorndorf GmbH Steinbeisstr. 1 und 2 73614 Schorndorf Germany
 
+## Tjoapack Netherlands B.V.
+
+Nieuwe Donk 9
+
+4879 AC Etten-Leur
+
+The Netherlands
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 ## België/Belgique/Belgien, Luxembourg/Luxemburg Italia
@@ -2010,7 +2018,9 @@ Tel: +371 67622233
 
 ## Hrvatska
 
-Biomapas UAB Литва, Litva
+Biomapas UAB
+
+Литва, Litva
 
 Tel: +370 37 366307
 
@@ -2034,13 +2044,11 @@ Tel. + 370 700 33305
 
 Institut Produits Synthèse (IPSEN) AB
 
-Sverige/Ruotsi/Svíþjóð
+IPSEN Pharma Hungary Kft.
 
-Tlf/Puh/Tel/Sími: +46 8 451 60 00
+Sverige/Ruotsi/Svíþjóð Tlf/Puh/Tel/Sími: +46 8 451 60 00
 
 ## Deutschland, Österreich
-
-IPSEN Pharma Hungary Kft.
 
 Tel.: +361 555 5930
 
@@ -2050,13 +2058,15 @@ Ipsen Pharma GmbH
 
 Deutschland
 
-Tel.: +49 89 2620 432 89
-
-## Eesti
-
 Ipsen Farmaceutica B.V.
 
 Tel: + 31 (0) 23 554 1600
+
+<div style=\"page-break-after: always\"></div>
+
+Tel.: +49 89 2620 432 89
+
+## Eesti
 
 ## Polska
 
@@ -2064,13 +2074,11 @@ Centralpharma Communications OÜ
 
 Tel: +372 60 15 540
 
+## Ελλάδα, Κύπρος, Malta
+
 Ipsen Poland Sp. z o.o.
 
 Tel.: + 48 (0) 22 653 68 00
-
-<div style=\"page-break-after: always\"></div>
-
-## Ελλάδα, Κύπρος, Malta
 
 ## Portugal
 

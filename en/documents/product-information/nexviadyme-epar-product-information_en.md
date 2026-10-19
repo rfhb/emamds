@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-10 15:32:31
+document_datetime: 2026-10-15 10:10:42
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nexviadyme-epar-product-information_en.pdf
 document_name: nexviadyme-epar-product-information_en.pdf
 version: success
-processing_time: 7.9681141
-conversion_datetime: 2025-12-28 02:04:50.455683
+processing_time: 11.0294239
+conversion_datetime: 2026-10-19 23:00:43.955758
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -96,16 +96,11 @@ The infusion should be administered incrementally as determined by patient respo
 
 Table 1 - Infusion rate schedule
 
-| Recommended Dose   | Infusion rate (mg/kg/hour)   | Infusion rate (mg/kg/hour)   | Infusion rate (mg/kg/hour)   | Infusion rate (mg/kg/hour)   | Infusion rate (mg/kg/hour)   | Infusion rate (mg/kg/hour)   | Approximate duration (h)   |
-|--------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|----------------------------|
-|                    |                              | step 1                       | step 2                       | step 3                       | step 4                       | step 5                       | Approximate duration (h)   |
-| 20 mg/kg           | 20 mg/kg                     | 1                            | 3                            | 5 a                          | 7 a                          | NA                           | 4 to 5                     |
-| 40 mg/kg           | 4-step process               | 1                            | 3                            | 5                            | 7                            | NA                           | 7                          |
-| 40 mg/kg           | 5-step process b             | 1                            | 3                            | 6                            | 8                            | 10 b                         | 5                          |
-
-a  For patients with a recommended dose of 20 mg/kg and body weight of 1.25-5 kg a maximum infusion rate of 4.8 mg/kg/hour can be applied.
-
-b  For IOPD patients who experience lack of improvement a dose increase to 40 mg/kg every other week is recommended.  For a body weight of 1.25-5 kg a maximum infusion rate of 9.6 mg/kg/hour can be applied.
+| Recommended Dose   | Infusion rate (mg/kg/hour)   |   Infusion rate (mg/kg/hour) - step 1 |   Infusion rate (mg/kg/hour) - step 2 | Infusion rate (mg/kg/hour) - step 3   | Infusion rate (mg/kg/hour) - step 4   | Infusion rate (mg/kg/hour) - step 5   | Approximate duration (h)   |
+|--------------------|------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|----------------------------|
+| 20 mg/kg           | 20 mg/kg                     |                                     1 |                                     3 | 5 a                                   | 7 a                                   | NA                                    | 4 to 5                     |
+| 40 mg/kg           | 4-step process               |                                     1 |                                     3 | 5                                     | 7                                     | NA                                    | 7                          |
+| 40 mg/kg           | 5-step process b             |                                     1 |                                     3 | 6                                     | 8                                     | 10 b                                  | 5                          |
 
 In the event of anaphylaxis or severe hypersensitivity reaction or severe IARs, administration of Nexviadyme should be immediately discontinued and appropriate medical treatment should be initiated. In the event of mild to moderate hypersensitivity reactions or IARs, the infusion rate may be slowed or temporarily stopped and/or appropriate medical treatment initiated (see section 4.4).
 
@@ -143,11 +138,9 @@ Hypersensitivity reactions, including anaphylaxis, have been reported in Nexviad
 
 Appropriate medical support measures, including cardiopulmonary resuscitation equipment especially for patients with cardiac hypertrophy and patients with significantly compromised respiratory function, should be readily available when Nexviadyme is administered.
 
-If severe hypersensitivity or anaphylaxis occur, Nexviadyme should be discontinued immediately, and appropriate medical treatment should be initiated. The risks and benefits of re-administering Nexviadyme following anaphylaxis or severe hypersensitivity reaction should be considered. Some patients have been re-challenged using slower infusion rates at a dose lower than the recommended
-
 <div style=\"page-break-after: always\"></div>
 
-dose. In patients with severe hypersensitivity, desensitization procedure to Nexviadyme may be considered. If the decision is made to re-administer the medicinal product, extreme caution should be exercised, with appropriate resuscitation measures available. Once a patient tolerates the infusion, the dose may be increased to reach the approved dose.
+If severe hypersensitivity or anaphylaxis occur, Nexviadyme should be discontinued immediately, and appropriate medical treatment should be initiated. The risks and benefits of re-administering Nexviadyme following anaphylaxis or severe hypersensitivity reaction should be considered. Some patients have been re-challenged using slower infusion rates at a dose lower than the recommended dose. In patients with severe hypersensitivity, desensitization procedure to Nexviadyme may be considered. If the decision is made to re-administer the medicinal product, extreme caution should be exercised, with appropriate resuscitation measures available. Once a patient tolerates the infusion, the dose may be increased to reach the approved dose.
 
 If mild or moderate hypersensitivity reactions occur, the infusion rate may be slowed or temporarily stopped.
 
@@ -175,7 +168,7 @@ Caution should be exercised when administering Nexviadyme to patients susceptibl
 
 <div style=\"page-break-after: always\"></div>
 
-## Cardiac arrhythmia and sudden death during general anaesthesia for central venous catheter placement
+Cardiac arrhythmia and sudden death during general anaesthesia for central venous catheter placement
 
 Caution should be used when administering general anaesthesia for the placement of a central venous catheter or for other surgical procedures in patients with IOPD with cardiac hypertrophy.
 
@@ -221,7 +214,7 @@ Adverse reactions per System Organ Class, presented by frequency categories: ver
 
 Due to the small patient population, an adverse reaction reported in 2 patients is classified as common. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 2 - Adverse reactions occurring in patients treated with Nexviadyme in a pooled analysis of clinical studies (N=142)
+Table 2 - Adverse reactions occurring in patients treated with Nexviadyme in a pooled analysis of clinical studies (N=142)
 
 | System organ class                               | Frequency                                             | Preferred term                                                                                       |
 |--------------------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------|
@@ -238,13 +231,11 @@ Table 2 - Adverse reactions occurring in patients treated with Nexviadyme in a
 
 Table 2 includes treatment related adverse events that are considered biologically plausibly related to avalglucosidase alfa based on the alglucosidase alfa SmPC.
 
-<!-- image -->
-
 | System organ class                                   | Frequency                                                                                                                                                                   | Preferred term                                                                                                                                                                                                                                                                                                                                        |
 |------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                      | Common Uncommon Uncommon Uncommon                                                                                                                                           | Dyspepsia Hypoaesthesia oral Paraesthesia oral                                                                                                                                                                                                                                                                                                        |
 | Skin and subcutaneous tissue disorders               | Very common Very common Common Common Common Common Common Common                                                                                                           | Dysphagia Pruritus Rash Urticaria Erythema Palmer erythema Hyperhidrosis Rash erythematous Rash pruritic                                                                                                                                                                                                                                              |
-| Musculoskeletal and connective tissue disorders      | Common Common Common Common                                                                                                                                                 | Muscle spasms Myalgia Pain in extremity Flank pain                                                                                                                                                                                                                                                                                                    |
+| Musculoskeletal and connective tissue disorders      | Common Uncommon Uncommon Common Common Common Common                                                                                                                        | Skin plaque Angioedema Skin discolouration Muscle spasms Myalgia Pain in extremity Flank pain                                                                                                                                                                                                                                                         |
 | General disorders and administration site conditions | Common Common Common Common Common Common Common Common Common Common Common Common Uncommon Uncommon Uncommon Uncommon Uncommon Uncommon Uncommon Uncommon Uncommon Common | Fatigue Chills Chest discomfort Pain Influenza-like illness Infusion site pain Pyrexia Asthenia Face oedema Feeling cold Feeling hot Sluggishness Facial pain Hyperthermia Infusion site extravasation Infusion site joint pain Infusion site rash Infusion site reaction Infusion site urticaria Localized oedema Peripheral swelling Blood pressure |
 | Investigation                                        | Common Common Uncommon Uncommon Uncommon Uncommon                                                                                                                           | increased Oxygen saturation decreased Body temperature increase Heart rate increased Breath sounds abnormal Complement factor increased Immune complex level increased                                                                                                                                                                                |
 
@@ -270,11 +261,9 @@ In a pooled safety analysis, IARs were reported in approximately 56/142 (39.4%) 
 
 In the comparative study EFC14028/COMET study, fewer LOPD patients in the avalglucosidase alfa group reported at least 1 IAR (13/51 [25.5%]) in comparison to the alglucosidase alfa group (16/49 [32.7%]). Severe IARs were not reported in patients in the avalglucosidase alfa group and reported in 2 patients in the alglucosidase alfa group (dizziness, visual impairment, hypotension, dyspnoea, cold sweat, and chills). The most frequently reported treatment-emergent IARs (&gt;2 patients) in the avalglucosidase alfa group were pruritus (7.8%) and urticaria (5.9%) and in the alglucosidase alfa group were nausea (8.2%), pruritus (8.2%), and flushing (6.1%). The majority of IARs reported in 7 (13.7%) patients were of mild severity in the avalglucosidase alfa group and 10 (20.4%) patients in the alglucosidase alfa group.
 
-During the open-label extension period, IARs were reported in 12 (23.5%) patients continuing Nexviadyme treatment throughout the study; IARs reported in more than 1 patient were nausea, chills, erythema, pruritus, pyrexia, urticaria, rash, and ocular hyperaemia. IARs were reported in 22 (50%) patients who switched to Nexviadyme; IARs reported in more than 1 patient were pruritus, headache, rash, nausea, chills, fatigue, urticaria, respiratory distress, feeling cold, chest discomfort, erythema,
-
 <div style=\"page-break-after: always\"></div>
 
-rash erythematous, rash pruritic, skin plaque, burning sensation, lip swelling, and swollen tongue. The number of IARs in both groups decreased over time.
+During the open-label extension period, IARs were reported in 12 (23.5%) patients continuing Nexviadyme treatment throughout the study; IARs reported in more than 1 patient were nausea, chills, erythema, pruritus, pyrexia, urticaria, rash, and ocular hyperaemia. IARs were reported in 22 (50%) patients who switched to Nexviadyme; IARs reported in more than 1 patient were pruritus, headache, rash, nausea, chills, fatigue, urticaria, respiratory distress, feeling cold, chest discomfort, erythema, rash erythematous, rash pruritic, skin plaque, burning sensation, lip swelling, and swollen tongue. The number of IARs in both groups decreased over time.
 
 ## Immunogenicity
 
@@ -282,26 +271,18 @@ The incidence of ADA response to avalglucosidase alfa in Nexviadyme-treated pati
 
 In treatment-naïve adult patients, the occurrence of IARs was observed in both ADA-positive and ADA-negative patients. Increase in the incidence of IARs and hypersensitivity were observed with higher IgG ADA titres. In treatment-naïve patients, a trend for increases in the incidence of IARs was observed with increasing ADA titres, with the highest incidence of IARs (69.2%) reported in the high ADA peak titre range ≥12,800, compared with an incidence of 33.3% in patients with intermediate ADA titre 1,600-6,400, an incidence of 14.3% in those with low ADA titre 100-800 and an incidence of 33.3% in those who were ADA negative. In enzyme replacement therapy (ERT) experienced adult patients, the occurrences of IARs and hypersensitivity were higher in patients who developed treatment emergent ADA compared to patients who were ADA negative. One (1) treatment naïve patient and 2 treatment-experienced patients developed anaphylaxis. The occurrences of IARs were similar between paediatric patients with ADA positive and negative status. One treatment-experienced paediatric patient developed anaphylaxis (see section 4.4).
 
-In clinical study EFC14028/COMET, 81 of 96 (84.4%) patients developed treatment-emergent ADA. Majority of patients developed ADA titre in the low to intermediate range, with 7 patients reported High Sustained Antibody Titres (HSAT) to Nexviadyme. Evaluation of ADA cross-reactivity at week 49 showed that patients generate antibodies that are cross-reactive to alglucosidase alfa and Nexviadyme were detected in 3 (5.9%) patients. Variable impact on  PK, PD, and efficacy measures were observed among high titre patients, however, in most patients there was no clinically significant effect of ADA on efficacy  (see section 5.2).
+In clinical study EFC14028/COMET, 81 of 96 (84.4%) patients developed treatment-emergent ADA. Majority of patients developed ADA titre in the low to intermediate range, with 7 patients reported High Sustained Antibody Titres (HSAT) to Nexviadyme. Evaluation of ADA cross-reactivity at week 49 showed that three (5.9%) patients generated antibodies that were cross-reactive to alglucosidase alfa and Nexviadyme. Variable impact on PK, PD, and efficacy measures were observed among high titre patients, however, in most patients there was no clinically significant effect of ADA on efficacy (see section 5.2).
 
 Table 3 - Treatment emergent ADA incidence in LOPD and IOPD patient population
 
-|                                   | Nexviadyme                                          | Nexviadyme                                                | Nexviadyme                                                | Nexviadyme                                                |
-|-----------------------------------|-----------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
-|                                   | Treatment-naïve patients Avalglucosidase alfa ADA a | Treatment-experienced patients b Avalglucosidase alfa ADA | Treatment-experienced patients b Avalglucosidase alfa ADA | Treatment-experienced patients b Avalglucosidase alfa ADA |
-|                                   | Adults 20 mg/kg every other week                    | Adults 20 mg/kg every other week                          | Paediatric 20 mg/kg every other week                      | Paediatric 40 mg/kg every other week                      |
-| ADA at baseline                   | 2 (3.3)                                             | 43 (74.1)                                                 | 1 (16.7)                                                  | 2 (12.5)                                                  |
-| Treatment emergent ADA            | 59 (95.2)                                           | 36 (62.1)                                                 | 1 (16.6)                                                  | 9 (56.3)                                                  |
-| Neutralizing antibody             |                                                     |                                                           |                                                           |                                                           |
-| Both NAb types                    | 14 (22.6)                                           | 5 (8.6)                                                   | 0                                                         | 0                                                         |
-| Inhibition enzyme activity, only  | 5 (8.1)                                             | 6 (10.3)                                                  | 0                                                         | 0                                                         |
-| Inhibition of enzyme uptake, only | 12 (19.4)                                           | 15 (25.9)                                                 | 0                                                         | 2 (12.5%)                                                 |
-
-a Includes two paediatric patients
-
-b Treatment-experienced patients received alglucosidase alfa treatment before or during the clinical study within a range of 0.9-9.9 years for adult patients and 0.6-11.8 years for paediatric patients.
-
-c  Not determined
+|                                   | Nexviadyme - Treatment-naïve patients Avalglucosidase alfa ADA a - Adults 20 /kg every other week - (N=62) N (%)   | Nexviadyme - Treatment-experienced patients b Avalglucosidase alfa ADA - Adults 20 mg/kg every other week - (N=58) N (%)   | Nexviadyme - Treatment-experienced patients b Avalglucosidase alfa ADA - Paediatric 20 mg/kg every other week - (N=6) N (%)   | Nexviadyme - Treatment-experienced patients b Avalglucosidase alfa ADA - Paediatric 40 mg/kg every other week - (N=16) N (%)   |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| ADA at baseline                   | 2 (3.3)                                                                                                            | 43 (74.1)                                                                                                                  | 1 (16.7)                                                                                                                      | 2 (12.5)                                                                                                                       |
+| Treatment emergent ADA            | 59 (95.2)                                                                                                          | 36 (62.1)                                                                                                                  | 1 (16.6)                                                                                                                      | 9 (56.3)                                                                                                                       |
+| Neutralizing antibody             |                                                                                                                    |                                                                                                                            |                                                                                                                               |                                                                                                                                |
+| Both NAb types                    | 14 (22.6)                                                                                                          | 5 (8.6)                                                                                                                    | 0                                                                                                                             | 0                                                                                                                              |
+| Inhibition enzyme activity, only  | 5 (8.1)                                                                                                            | 6 (10.3)                                                                                                                   | 0                                                                                                                             | 0                                                                                                                              |
+| Inhibition of enzyme uptake, only | 12 (19.4)                                                                                                          | 15 (25.9)                                                                                                                  | 0                                                                                                                             | 2 (12.5%)                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -335,11 +316,9 @@ Study 1, EFC14028/COMET, was a multinational, multicentre, randomised, double-bl
 
 Study 1 included an open-label extension treatment period where all patients in the alglucosidase alfa arm were switched to Nexviadyme and continued treatment up to at least week 145. Overall, 95 patients entered the open-label period (51 from the Nexviadyme arm and 44 from the alglucosidase alfa arm). An additional paediatric patient was enrolled directly into the extension treatment period with Nexviadyme.
 
-The primary endpoint of study 1 was the change in FVC % predicted in the upright position from baseline to 12 months (week 49). At week 49, the LS mean change (SE) in FVC % predicted for patients treated with Nexviadyme and alglucosidase alfa was 2.89% (0.88) and 0.46% (0.93), respectively. The clinically significant LS mean difference of 2.43% (95% CI: -0.13, 4.99) between
+The primary endpoint of study 1 was the change in FVC % predicted in the upright position from baseline to 12 months (week 49). At week 49, the LS mean change (SE) in FVC % predicted for patients treated with Nexviadyme and alglucosidase alfa was 2.89% (0.88) and 0.46% (0.93), respectively. The clinically significant LS mean difference of 2.43% (95% CI: -0.13, 4.99) between Nexviadyme and alglucosidase alfa in FVC % predicted exceeded the pre-defined non-inferiority margin of -1.1 and achieved statistical non-inferiority (p=0.0074). The study did not demonstrate statistical significance for superiority (p=0.0626) and the testing of the secondary endpoints was performed without multiplicity adjustment.
 
 <div style=\"page-break-after: always\"></div>
-
-Nexviadyme and alglucosidase alfa in FVC % predicted exceeded the pre-defined non-inferiority margin of -1.1 and achieved statistical non-inferiority (p=0.0074). The study did not demonstrate statistical significance for superiority (p=0.0626) and the testing of the secondary endpoints was performed without multiplicity adjustment.
 
 The results for the primary endpoint are detailed in Table 4.
 
@@ -347,22 +326,22 @@ For patients who switched from alglucosidase alfa to Nexviadyme treatment after 
 
 Table 4 - LS Mean change from baseline to week 49 in FVC % predicted in upright position
 
-|                                                                               |                                                      | Nexviadyme (n=51)                                    | Alglucosidase Alfa (n=49)                            |
-|-------------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| Forced Vital Capacity %predicted in upright position                          | Forced Vital Capacity %predicted in upright position | Forced Vital Capacity %predicted in upright position | Forced Vital Capacity %predicted in upright position |
-| Pre-treatment baseline                                                        | Mean (SD)                                            | 62.55 (14.39)                                        | 61.56 (12.40)                                        |
-| Week 13                                                                       | LS mean (SE) change from baseline                    | 3.05 (0.78)                                          | 0.65 (0.81)                                          |
-| Week 25                                                                       | LS mean (SE) change from baseline                    | 3.21 (0.80)                                          | 0.57 (0.84)                                          |
-| Week 37                                                                       | LS mean (SE) change from baseline                    | 2.21 (1.00)                                          | 0.55 (1.05)                                          |
-| Week 49                                                                       | Mean (SD)                                            | 65.49 (17.42)                                        | 61.16 (13.49)                                        |
-| Estimated change from baseline to week 49 (MMRM)                              | LS mean (SE) change from baseline                    | 2.89 a (0.88)                                        | 0.46 a (0.93)                                        |
-| Estimated difference between groups in change from baseline to week 49 (MMRM) | LS mean (95% CI) p-value b p-value c                 | 2.43 a (-0.13,4.99) 0.0074 0.0626                    | 2.43 a (-0.13,4.99) 0.0074 0.0626                    |
+|                                                                               |                                                       | Nexviadyme (n=51)                                     | Alglucosidase Alfa (n=49)                             |
+|-------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| Forced Vital Capacity % predicted in upright position                         | Forced Vital Capacity % predicted in upright position | Forced Vital Capacity % predicted in upright position | Forced Vital Capacity % predicted in upright position |
+| Pre-treatment baseline                                                        | Mean (SD)                                             | 62.55 (14.39)                                         | 61.56 (12.40)                                         |
+| Week 13                                                                       | LS mean (SE) change from baseline                     | 3.05 (0.78)                                           | 0.65 (0.81)                                           |
+| Week 25                                                                       | LS mean (SE) change from baseline                     | 3.21 (0.80)                                           | 0.57 (0.84)                                           |
+| Week 37                                                                       | LS mean (SE) change from baseline                     | 2.21 (1.00)                                           | 0.55 (1.05)                                           |
+| Week 49                                                                       | Mean (SD)                                             | 65.49 (17.42)                                         | 61.16 (13.49)                                         |
+| Estimated change from baseline to week 49 (MMRM)                              | LS mean (SE) change from baseline                     | 2.89 a (0.88)                                         | 0.46 a (0.93)                                         |
+| Estimated difference between groups in change from baseline to week 49 (MMRM) | LS mean (95% CI) p-value b p-value c                  | 2.43 a (-0.13,4.99) 0.0074                            | 0.0626                                                |
 
 MMRM: mixed model repeated measure.
 
-a  On the basis of MMRM model, the model includes baseline FVC % predicted (as continuous), sex, age (in years at baseline), treatment group, visit, interaction term between treatment group and visit as fixed effects.
+a On the basis of MMRM model, the model includes baseline FVC % predicted (as continuous), sex, age (in years at baseline), treatment group, visit, interaction term between treatment group and visit as fixed effects.
 
-b  Non-inferiority margin of -1.1%
+b Non-inferiority margin of -1.1%
 
 c Superiority not achieved
 
@@ -387,27 +366,15 @@ Table 5 - LS mean change from baseline to week 49 for additional secondary endpo
 | Quick Motor function Test (QMFT) total score       | 3.98 (0.63)                                       | 1.89 (0.69)                              | 2.08 (0.22, 3.95)                     |
 | Health-related survey on quality of life (SF-12)   | PCS d score: 2.37 (0.99) MCS e score: 2.88 (1.22) | 1.60 (1.07) 0.76 (1.32)                  | 0.77 (-2.13, 3.67) 2.12 (-1.46, 5.69) |
 
-a The MMRM model for 6MWT distance adjusts for baseline FVC % predicted and baseline 6MWT (distance walked in meters), age (in years, at baseline), gender, treatment group, visit, and treatment-by-visit interaction as fixed effects.
-
-b  LS mean (SE) change from baseline at Weeks 13, 25, and 37 was 18.02 (8.79), 27.26 (9.98), and 28.43 (9.06), respectively, in the avalglucosidase alfa group and 15.11 (9.16), 9.58 (10.41), and 15.49 (9.48), respectively, in the alglucosidase alfa group.
-
-c Post-hoc sensitivity analysis excluding 4 patients (2 in each treatment arm) with supraphysiologic baseline MIP and MEP values.
-
-d  Physical Component Summary.
-
-e  Mental Component Summary.
-
 In an open-label, uncontrolled study in LOPD patients, the FVC % predicted and 6MWT showed maintenance of effect during the long-term treatment with avalglucosidase alfa 20 mg/kg every other week for up to 6 years.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical study in patients with IOPD
 
 Study 2, ACT14132/mini-COMET, was a multi-stage, phase 2, open-label, multicentre, multinational, repeated ascending dose cohort of Nexviadyme in paediatric IOPD patients (1-12 years of age) who demonstrated either clinical decline or sub-optimal clinical response while on treatment with alglucosidase alfa. The study enrolled a total of 22 patients; cohort 1 had 6 patients who demonstrated clinical decline and received 20 mg/kg every other week for 25 weeks, cohort 2 had 5 patients who demonstrated clinical decline and received 40 mg/kg every other week for 25 weeks, and cohort 3 had 11 patients who demonstrated sub-optimal response and received either Nexviadyme at 40 mg/kg every other week for 25 weeks (5 patients) or alglucosidase alfa at their stable pre-study dose (ranging between 20 mg/kg every other week and 40 mg/kg weekly) for 25 weeks (6 patients).
 
-The primary objective of study 2 was to evaluate the safety and tolerability of administering Nexviadyme. The secondary objective was to determine the efficacy of Nexviadyme. Data showed stabilization or improvement in efficacy outcomes of gross motor function classification measure-88 (GMFM-88), quick motor function test (QMFT), Pompe paediatric evaluation of disability inventory (Pompe-PEDI), left ventricular mass (LVM) Z score, eyelid position measurements in patients previously declining or insufficiently controlled with alglucosidase alfa. Treatment effect was more pronounced with 40 mg/kg every other week compared to the 20 mg/kg every other week. Two out of six patients treated with Nexviadyme at 20 mg/kg every other week (cohort 1) demonstrated further
-
-<div style=\"page-break-after: always\"></div>
-
-clinical decline and received dose increase from 20 to 40 mg/kg every other week at week 55 and 61 respectively. All patients who received 40 mg/kg every other week maintained this dose for the duration of the study without further clinical decline.
+The primary objective of study 2 was to evaluate the safety and tolerability of administering Nexviadyme. The secondary objective was to determine the efficacy of Nexviadyme. Data showed stabilization or improvement in efficacy outcomes of gross motor function classification measure-88 (GMFM-88), quick motor function test (QMFT), Pompe paediatric evaluation of disability inventory (Pompe-PEDI), left ventricular mass (LVM) Z score, eyelid position measurements in patients previously declining or insufficiently controlled with alglucosidase alfa. Treatment effect was more pronounced with 40 mg/kg every other week compared to the 20 mg/kg every other week. Two out of six patients treated with Nexviadyme at 20 mg/kg every other week (cohort 1) demonstrated further clinical decline and received dose increase from 20 to 40 mg/kg every other week at week 55 and 61 respectively. All patients who received 40 mg/kg every other week maintained this dose for the duration of the study without further clinical decline.
 
 In paediatric IOPD patients (&lt;18 years of age) treated with Nexviadyme at 40 mg/kg every other week who demonstrated either clinical decline (cohort 2) or sub-optimal clinical response (cohort 3) while on treatment with alglucosidase alfa, the mean percentage (SD) change in urinary hexose tetrasaccharides from baseline was -40.97% (16.72) and -37.48% (17.16), respectively, after 6 months. In patients previously declining treated with Nexviadyme at 20 mg/kg every other week, mean (SD) percentage change was 0.34% (42.09).
 
@@ -421,11 +388,13 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Pompe registry
 
-Medical or healthcare professionals are encouraged to register patients who are diagnosed with Pompe disease at www.registrynxt.com. Patient data will be anonymously collected in this registry. The objectives of the 'Pompe registry' are to enhance the understanding of Pompe disease and to monitor patients and their response to enzyme replacement therapy over time, with the ultimate goal of improving clinical outcomes for these patients.
+Medical or healthcare professionals are encouraged to register patients who are diagnosed with Pompe disease at www.registrynxt.com. Patient data will be anonymously collected in this registry. The objectives of the \"Pompe registry\" are to enhance the understanding of Pompe disease and to monitor patients and their response to enzyme replacement therapy over time, with the ultimate goal of improving clinical outcomes for these patients.
 
 ## 5.2 Pharmacokinetic properties
 
-## Patients with late-onset Pompe disease (LOPD)
+Patients with late-onset Pompe disease (LOPD)
+
+<div style=\"page-break-after: always\"></div>
 
 The pharmacokinetics of avalglucosidase alfa was evaluated in a population analysis of 75 LOPD patients aged 16 to 78 years who received 5 to 20 mg/kg of avalglucosidase alfa every other week.
 
@@ -438,8 +407,6 @@ The pharmacokinetics of avalglucosidase alfa was characterized in 16 patients ag
 In LOPD patients, for a 4-hour IV infusion of 20 mg/kg every other week, the mean Cmax and mean AUC2W were 273 µg/mL (24%) and 1220 µg∙h/ml (29%), respectively.
 
 In IOPD patients, for a 4-hour IV infusion of 20 mg/kg every other week and 7-hour IV infusion for 40 mg/kg every other week, the mean Cmax ranged from 175 to 189 μg/ml for the 20 mg/kg dose and 205 to 403 µg/ml for 40 mg/kg dose. The mean AUC2W ranged from 805 to 923 μg∙hr/ml for the 20 mg/kg dose and 1720 to 2630 μg∙hr/ml for 40 mg/kg dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -459,7 +426,7 @@ The exposure to avalglucosidase alfa increased in a dose-proportional manner bet
 
 ## Immunogenicity
 
-In the study 1, EFC14028/COMET, 95.2% (59 of 62 patients) receiving Nexviadyme developed treatment-emergent ADA.  Given the variability in ADA response, no clear trend of ADA peak titre and impact on PK was evident in patients at week 49.
+In the study 1, EFC14028/COMET, 95.2% (59 of 62 patients) receiving Nexviadyme developed treatment-emergent ADA. Given the variability in ADA response, no clear trend of ADA peak titre and impact on PK was evident in patients at week 49.
 
 ## Special populations
 
@@ -468,6 +435,8 @@ Population pharmacokinetic analyses in LOPD patients showed that body weight, ag
 ## Hepatic impairment
 
 The pharmacokinetics of avalglucosidase alfa has not been studied in patients with hepatic impairment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -479,11 +448,7 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 Avalglucosidase alfa caused no adverse effects in a combined male and female fertility study in mice up to 50 mg/kg IV every other day (9.4 times the human steady-state AUC at the recommended biweekly dose of 20 mg/kg for patients with LOPD) (see section 4.6).
 
-In an embryo-foetal toxicity study in mice, administration of avalglucosidase at the highest dose of 50 mg/kg/day (17 times the human steady-state AUC at the recommended biweekly dose of 20 mg/kg for patients with LOPD) produced increased post-implantation loss and mean number of late
-
-<div style=\"page-break-after: always\"></div>
-
-resorptions. No effects were seen at 20 mg/kg/day (4.8 times the human steady-state AUC at the recommended biweekly dose of 20 mg/kg for patients with LOPD). Avalglucosidase alfa does not cross the placenta in mice, suggesting that the embryo-foetal effects at 50 mg/kg/day were related to maternal toxicity from the immunologic response. No malformations or developmental variations were observed.
+In an embryo-foetal toxicity study in mice, administration of avalglucosidase at the highest dose of 50 mg/kg/day (17 times the human steady-state AUC at the recommended biweekly dose of 20 mg/kg for patients with LOPD) produced increased post-implantation loss and mean number of late resorptions. No effects were seen at 20 mg/kg/day (4.8 times the human steady-state AUC at the recommended biweekly dose of 20 mg/kg for patients with LOPD). Avalglucosidase alfa does not cross the placenta in mice, suggesting that the embryo-foetal effects at 50 mg/kg/day were related to maternal toxicity from the immunologic response. No malformations or developmental variations were observed.
 
 No adverse effects were observed in an embryo-foetal toxicity study in rabbits administered avalglucosidase alfa up to 100 mg/kg/day IV (91 times the human steady-state AUC at the recommended biweekly dose of 20 mg/kg for patients with LOPD).
 
@@ -501,6 +466,8 @@ Histidine Histidine hydrochloride monohydrate Glycine Mannitol Polysorbate 80
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
 Unopened vials: 4 years
@@ -516,8 +483,6 @@ From a microbiological point of view, the reconstituted product should be used i
 After dilution, chemical, physical and microbiological in-use stability has been demonstrated between 0.5 mg/ml and 4 mg/ml for 24 hours at 2°C - 8°C, followed by 9 hours at room temperature (up to 25°C) to allow for infusion. Use Aseptic Techniques.
 
 From a microbiological point of view, the medicinal product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and would normally not be longer than 24 hours at 2°C - 8°C, followed by 9 hours at room temperature (up to 25°C) to allow for infusion.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -545,11 +510,13 @@ Patient weight (kg) × dose (mg/kg) = patient dose (in mg). Patient dose (in mg)
 
 Example: Patient weight (16 kg) × dose (20 mg/kg) = patient dose (320 mg). 320 mg divided by 100 mg/vial = 3.2 vials; therefore, 4 vials should be reconstituted.
 
-- Example: Patient weight (16 kg) × dose (40 mg/kg) = patient dose (640 mg).
+Example: Patient weight (16 kg) × dose (40 mg/kg) = patient dose (640 mg).
 
-640 mg divided by 100 mg/vial = 6.4 vials; therefore, 7 vials should be reconstituted.
-
+- 640 mg divided by 100 mg/vial = 6.4 vials; therefore, 7 vials should be reconstituted.
 2. The required number of vials needed for the infusion should be removed from the refrigerator and set aside for approximately 30 minutes to allow them to reach room temperature.
+
+<div style=\"page-break-after: always\"></div>
+
 3. Each vial should be reconstituted by slowly injecting 10.0 ml of water for injections (WFI) to each vial. Each vial will yield 100 mg/10 ml (10 mg/ml). Forceful impact of the WFI on the powder and foaming should be avoided. This is performed by slow drop-wise addition of the WFI down the inside of the vial and not directly onto the lyophilised powder. Each vial should be tilted and rolled gently to dissolve the lyophilised powder. It should not be inverted, swirled, or shaken.
 4. Immediate visual inspection should be performed on the reconstituted vials for particulate matter and discoloration. If upon immediate inspection particles are observed or if the solution is discoloured, the reconstituted medicinal product should not be used. The solution should be allowed to become dissolved.
 
@@ -559,9 +526,6 @@ Example: Patient weight (16 kg) × dose (20 mg/kg) = patient dose (320 mg). 320 
 6. The volume of reconstituted solution from each vial should be slowly withdrawn (calculated according to patient's weight).
 7. The reconstituted solution should be added slowly and directly into the 5% glucose solution. Foaming or agitation of the infusion bag should be avoided. Air introduction into the infusion bag should be avoided.
 8. To mix the infusion bag solution, gently invert or massage the infusion bag to mix. It should not be shaken.
-
-<div style=\"page-break-after: always\"></div>
-
 9. To avoid administration of inadvertently introduced particles during dose IV preparation, it is recommended to use an in-line, low protein binding, 0.2 μm filter to administer Nexviadyme. After the infusion is complete, the intravenous line should be flushed with glucose 5% in water.
 10. Nexviadyme should not be infused in the same intravenous line with other medicinal products.
 
@@ -585,17 +549,17 @@ Table 6 - Projected intravenous infusion volumes for Nexviadyme administration b
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam The Netherlands
+Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1579/001
-
-EU/1/21/1579/002
-
-EU/1/21/1579/003
+EU/1/21/1579/001 EU/1/21/1579/002 EU/1/21/1579/003
 
 EU/1/21/1579/004
 
@@ -622,7 +586,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers of the biological active substance
 
-Genzyme Flanders, Cipalstraat 8, 2440 Geel, Belgium
+Genzyme Corporation 8 New York Avenue, Framingham, MA 01701 USA
 
 Name and address of the manufacturers responsible for batch release
 
@@ -651,13 +615,11 @@ An updated RMP should be submitted:
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-## · Additional risk minimisation measures
-
-Prior to the launch of Nexviadyme in each Member State, the Marketing Authorization Holder (MAH) must agree about the content and format of the educational program, including communication media, distribution modalities, and any other aspects of the program, with the National Competent Authority. The educational program is aimed at increasing the awareness
-
 <div style=\"page-break-after: always\"></div>
 
-about the immunosurveillance service and to support the correct and safe administration of the product in the home setting.
+## · Additional risk minimisation measures
+
+Prior to the launch of Nexviadyme in each Member State, the Marketing Authorization Holder (MAH) must agree about the content and format of the educational program, including communication media, distribution modalities, and any other aspects of the program, with the National Competent Authority. The educational program is aimed at increasing the awareness about the immunosurveillance service and to support the correct and safe administration of the product in the home setting.
 
 The MAH shall ensure that in each member state where Nexviadyme is marketed, all healthcare professionals (HCPs) who are expected to prescribe, dispense, and administer Nexviadyme are provided with the following educational package to be disseminated through professional bodies:
 
@@ -678,7 +640,7 @@ Guide for healthcare professionals for Immunosurveillance Service shall include 
 
 The home infusion guide for HCPs which will serve as training document to HCPs who will perform the infusion at home shall contain the following key elements:
 
-- Requirements and organization of the home infusion including equipment, pre -treatment and emergency treatments.
+- Requirements and organization of the home infusion including equipment, pre-treatment and emergency treatments.
 - Details on the preparation and administration of Nexviadyme, including all the steps of preparation, reconstitution, dilution, and administration
 - Medical evaluation of the patient prior to administration of the infusion at home
 - Information on signs and symptoms related to infusion-associated reactions and recommended actions for the management of the ADRs when symptoms occur.
@@ -761,11 +723,7 @@ Store in a refrigerator.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sanofi B.V.
-
-Paasheuvelweg 25
-
-1105 BP Amsterdam
+Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam
 
 The Netherlands
 
@@ -785,7 +743,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -797,35 +755,42 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Nexviadyme 100 mg powder for concentrate avalglucosidase alfa IV use after reconstitution and dilution
+Nexviadyme 100 mg powder for concentrate avalglucosidase alfa
 
-## 2. METHOD OF ADMINISTRATION
+IV use after reconstitution and dilution
 
-## 3. EXPIRY DATE
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 100 mg
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Sanofi B.V.-NL
 
@@ -847,9 +812,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist. or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist. or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist. or nurse.
+- If you get any side effects, talk to your doctor, pharmacist. or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1009,7 +974,7 @@ Very Common (may affect more than 1 in 10 people)
 - Swelling of face
 - Feeling cold or hot
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - Inflammation of eyes
 - Numbness or tingling
@@ -1094,19 +1059,21 @@ The Netherlands
 
 ## Manufacturer
 
-Genzyme Ireland Limited, IDA Industrial Park, Old Kilmeaden Road, Waterford, Ireland
+Genzyme Ireland Limited, IDA Industrial Park, Old Kilmeaden Road, Waterford, Ireland For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 ## België/Belgique/Belgien
 
-Sanofi Belgium Tél/Tel: + 32 2 710 54 00
+Sanofi Belgium
+
+Tél/Tel: + 32 2 710 54 00
 
 ## България
 
-Swixx Biopharma EOOD Тел.: +359 (0)2 4942 480
+Swixx Biopharma EOOD
+
+Тел.: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -1116,11 +1083,17 @@ Tel: +420 233086 111
 
 ## Danmark
 
-Sanofi A/S Tlf: +45 45 16 70 00
+Sanofi A/S
+
+Tlf: +45 45 16 70 00
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel.: 0800 04 36 996 Tel. aus dem Ausland: +49 69 305 70 13
+Sanofi-Aventis Deutschland GmbH
+
+Tel.: 0800 04 36 996
+
+Tel. aus dem Ausland: +49 69 305 70 13
 
 ## Eesti
 
@@ -1140,11 +1113,17 @@ Tel: +34 93 485 94 00
 
 ## France
 
-Sanofi Winthrop Industrie Tél: 0 800 222 555 Appel depuis l'étranger: +33 1 57 63 23 23
+Sanofi Winthrop Industrie
+
+Tél: 0 800 222 555
+
+Appel depuis l'étranger: +33 1 57 63 23 23
 
 ## Hrvatska
 
-Swixx Biopharma d.o.o. Tel: +385 1 2078 500
+Swixx Biopharma d.o.o.
+
+Tel: +385 1 2078 500
 
 ## Ireland
 
@@ -1152,11 +1131,15 @@ Sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor hf.
+
+Sími: +354 535 7000
 
 ## Italia
 
-Sanofi S.r.l. Tel: 800536389
+Sanofi S.r.l.
+
+Tel: 800536389
 
 ## Κύπρος
 
@@ -1186,7 +1169,9 @@ Tel: +39 02 39394275
 
 ## Nederland
 
-Sanofi B.V. Tel: +31 20 245 4000
+Sanofi B.V.
+
+Tel: +31 20 245 4000
 
 ## Norge
 
@@ -1200,15 +1185,21 @@ Tel: + 43 1 80 185 - 0
 
 ## Polska
 
-Sanofi Sp. z o.o. Tel.: +48 22 280 00 00
+Sanofi Sp. z o.o.
+
+Tel.: +48 22 280 00 00
 
 ## Portugal
 
-Sanofi - Produtos Farmacêuticos, Lda. Tel: +351 21 35 89 400
+Sanofi - Produtos Farmacêuticos, Lda. Tel: +351
+
+21 35 89 400
 
 ## România
 
-Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
 
 ## Slovenija
 
@@ -1216,11 +1207,15 @@ Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
 
 ## Slovenská republika
 
-Swixx Biopharma s.r.o. Tel: +421 2 208 33 600
+Swixx Biopharma s.r.o.
+
+Tel: +421 2 208 33 600
 
 ## Suomi/Finland
 
-Sanofi Oy Puh/Tel: + 358 201 200 300
+Sanofi Oy
+
+Puh/Tel: + 358 201 200 300
 
 ## Sverige
 
@@ -1246,10 +1241,9 @@ Use aseptic technique during reconstitution.
 
 1. Determine the number of vials to be reconstituted based on the individual patient's weight and the recommended dose of 20 mg/kg or 40 mg/kg.
 2. Patient weight (kg) x dose (mg/kg) = patient dose (in mg). Patient dose (in mg) divided by 100 mg/vial = number of vials to reconstitute. If the number of vials includes a fraction, round up to the next whole number.
-3. Example: Patient weight (16 kg) x dose (20 mg/kg) = patient dose (320 mg). 320 mg divided by 100 mg/vial = 3.2 vials; therefore, 4 vials should be reconstituted. Example: Patient weight (16 kg) x dose (40 mg/kg) = patient dose (640 mg).
-
-640 mg divided by 100 mg/vial = 6.4 vials; therefore, 7 vials should be reconstituted.
-
+3. Example: Patient weight (16 kg) x dose (20 mg/kg) = patient dose (320 mg). 320 mg divided by 100 mg/vial = 3.2 vials; therefore, 4 vials should be reconstituted.
+4. Example: Patient weight (16 kg) x dose (40 mg/kg) = patient dose (640 mg).
+5. 640 mg divided by 100 mg/vial = 6.4 vials; therefore, 7 vials should be reconstituted.
 2. Remove the required number of vials needed for the infusion from the refrigerator and set aside for approximately 30 minutes to allow them to reach room temperature.
 3. Reconstitute each vial by slowly injecting 10.0 ml of water for injections (WFI) to each vial. Each vial will yield 100 mg/10 ml (10 mg/ml). Avoid forceful impact of the WFI on the powder and avoid foaming. This is done by slow drop-wise addition of the water for injection down the inside of the vial and not directly onto the lyophilised powder. Tilt and roll each vial gently. Do not invert, swirl, or shake.
 4. Perform an immediate visual inspection on the reconstituted vials for particulate matter and discoloration. If upon immediate inspection, particles are observed or if the solution is discoloured, do not use. Allow the solution to become dissolved.
@@ -1260,14 +1254,17 @@ Use aseptic technique during reconstitution.
 2. Slowly withdraw the volume of reconstituted solution from each vial (calculated according to the patient's weight).
 3. Add the reconstituted solution slowly and directly into the 5% glucose solution. Avoid foaming or agitation of the infusion bag. Avoid air introduction into the infusion bag.
 4. Gently invert or massage the infusion bag to mix. Do not shake.
-5. To avoid administration of inadvertently introduced particles during dose IV preparation, it is recommended to use an in-line low protein binding 0.2 μm filter to administer Nexviadyme. After the infusion is complete, flush the intravenous line with glucose 5% in water.
+5. To avoid administration of inadvertently introduced particles during dose IV preparation, it is recommended to use an in-line low protein binding 0.2 μm filter to administer Nexviadyme.
+6. After the infusion is complete, flush the intravenous line with glucose 5% in water.
 6. Do not infuse Nexviadyme in the same intravenous line with other medicines.
 
 Sanofi AB
 
 Tel: +46 (0)8 634 50 00
 
-United Kingdom (Northern Ireland) sanofi-aventis Ireland Ltd. T/A SANOFI Tel +44 (0) 800 035 2525
+United Kingdom (Northern Ireland)
+
+sanofi-aventis Ireland Ltd. T/A SANOFI Tel +44 (0) 800 035 2525
 
 <div style=\"page-break-after: always\"></div>
 

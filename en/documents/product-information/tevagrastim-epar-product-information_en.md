@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-08-30 13:32:58
+document_datetime: 2026-10-15 12:17:21
 document_pages: 70
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tevagrastim-epar-product-information_en.pdf
 document_name: tevagrastim-epar-product-information_en.pdf
 version: success
-processing_time: 15.7645202
-conversion_datetime: 2025-12-26 09:24:27.504093
+processing_time: 29.9023976
+conversion_datetime: 2026-10-19 23:13:32.587525
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,13 +24,15 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tevagrastim 30 MIU/0.5 mL solution for injection/infusion Tevagrastim 48 MIU/0.8 mL solution for injection/infusion
+Tevagrastim 30 MIU/0.5 mL solution for injection/infusion
+
+Tevagrastim 48 MIU/0.8 mL solution for injection/infusion
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each mL of solution for injection/infusion contains 60 million international units [MIU] (600 µg) of filgrastim.
 
-## Tevagrastim 30 MIU/0.5 mL solution for injection/infusion
+Tevagrastim 30 MIU/0.5 mL solution for injection/infusion
 
 Each pre-filled syringe contains 30 MIU (300 µg) of filgrastim in 0.5 mL solution for injection/ infusion.
 
@@ -58,7 +60,7 @@ Tevagrastim is indicated for the reduction in the duration of neutropenia and th
 
 The safety and efficacy of filgrastim are similar in adults and children receiving cytotoxic chemotherapy.
 
-Tevagrastim is indicated for the mobilisation of peripheral blood progenitor cells (PBPC).
+Tevagrastim is indicated for the mobilisation of peripheral blood progenitor cells (PBPCs).
 
 In patients, children or adults, with severe congenital, cyclic, or idiopathic neutropenia with an absolute neutrophil count (ANC) of ≤ 0.5 x 10 9 /L, and a history of severe or recurrent infections, long term administration of Tevagrastim is indicated to increase neutrophil counts and to reduce the incidence and duration of infection-related events.
 
@@ -74,11 +76,11 @@ Filgrastim therapy should only be given in collaboration with an oncology centre
 
 ## Posology
 
-The recommended dose of filgrastim is 0.5 MIU (5 μg)/kg/day. The first dose of filgrastim should be administered at least 24 hours after cytotoxic chemotherapy. In randomised clinical trials, a subcutaneous dose of 23 MIU (230 μg)/m 2 /day (4.0 to 8.4 μg/kg/ day) was used.
+The recommended dose of filgrastim is 0.5 MIU (5 μg)/kg/day. The first dose of filgrastim should be administered at least 24 hours after cytotoxic chemotherapy. In randomised clinical trials, a subcutaneous dose of 23 MIU (230 μg)/m 2 /day (4.0 to 8.4 μg/kg/day) was used.
 
-Daily dosing with filgrastim should continue until the expected neutrophil nadir is passed and the neutrophil count has recovered to the normal range. Following established chemotherapy for solid tumours, lymphomas and lymphoid leukaemias, it is expected that the duration of treatment required to fulfil these criteria will be up to 14 days. Following induction and consolidation treatment for acute myeloid leukaemia the duration of treatment may be substantially longer (up to 38 days) depending on the type, dose and schedule of cytotoxic chemotherapy used.
+Daily dosing with filgrastim should continue until the expected neutrophil nadir is passed and the neutrophil count has recovered to the normal range. Following established chemotherapy for solid tumours, lymphomas, and lymphoid leukaemia, it is expected that the duration of treatment required to fulfil these criteria will be up to 14 days. Following induction and consolidation treatment for acute myeloid leukaemia the duration of treatment may be substantially longer (up to 38 days) depending on the type, dose and schedule of cytotoxic chemotherapy used.
 
-In patients receiving cytotoxic chemotherapy, a transient increase in neutrophil counts is typically seen 1 to 2 days after initiation of filgrastim therapy. However, for a sustained therapeutic response, filgrastim therapy should not be discontinued before the expected nadir has passed and the neutrophil count has recovered to the normal range. Premature discontinuation of filgrastim therapy prior to the time of the expected neutrophil nadir is not recommended.
+In patients receiving cytotoxic chemotherapy, a transient increase in neutrophil counts is typically seen 1 to 2 days after initiation of filgrastim therapy. However, for a sustained therapeutic response, filgrastim therapy should not be discontinued before the expected nadir has passed and the neutrophil count has recovered to the normal range. Premature discontinuation of filgrastim therapy, prior to the time of the expected neutrophil nadir, is not recommended.
 
 ## Method of administration
 
@@ -88,9 +90,11 @@ In patients treated with myeloablative therapy followed by bone marrow transplan
 
 ## Posology
 
-The recommended starting dose of filgrastim is 1.0 MIU (10 μg)/kg/day . The first dose of filgrastim should be administered at least 24 hours after cytotoxic chemotherapy and at least 24 hours after bone marrow infusion.
+The recommended starting dose of filgrastim is 1.0 MIU (10 μg)/kg/day.
 
-Once the neutrophil nadir has been passed the daily dose of filgrastim should be titrated against the neutrophil response as follows:
+The first dose of filgrastim should be administered at least 24 hours following cytotoxic chemotherapy and at least 24 hours after bone marrow infusion.
+
+Once the neutrophil nadir has been passed, the daily dose of filgrastim should be titrated against the neutrophil response as follows:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -106,11 +110,11 @@ ANC = absolute neutrophil count
 
 Filgrastim may be given as a 30 minute or 24 hour intravenous infusion or given by continuous 24 hour subcutaneous infusion. Filgrastim should be diluted in 20 mL of 5% glucose solution for infusion (see section 6.6).
 
-## For the mobilisation of PBPCs in patients undergoing myelosuppressive or myeloablative therapy followed by autologous PBPC transplantation
+For the mobilisation of PBPCs in patients undergoing myelosuppressive or myeloablative therapy followed by autologous PBPC transplantation
 
 ## Posology
 
-The recommended dose of filgrastim for PBPC mobilisation when used alone is 1.0 MIU (10 μg)/kg/day for 5 to 7 consecutive days. Timing of leukapheresis: 1 or 2 leukapheresis on days 5 and 6 are often sufficient. In other circumstances, additional leukapheresis may be necessary. Filgrastim dosing should be maintained until the last leukapheresis.
+The recommended dose of filgrastim for PBPC mobilisation when used alone is 1.0 MIU (10 μg)/kg/day for 5 to 7 consecutive days. Timing of leukapheresis: one or two leukapheresis on days 5 and 6 are often sufficient. In other circumstances, additional leukapheresis may be necessary. Filgrastim dosing should be maintained until the last leukapheresis.
 
 The recommended dose of filgrastim for PBPC mobilisation after myelosuppressive chemotherapy is 0.5 MIU (5 μg)/kg/day from the first day after completion of chemotherapy until the expected neutrophil nadir is passed and the neutrophil count has recovered to the normal range. Leukapheresis should be performed during the period when the ANC rises from &lt; 0.5 x 10 9 /L to &gt; 5.0 x 10 9 /L. For patients who have not had extensive chemotherapy, one leukapheresis is often sufficient. In other circumstances, additional leukapheresis are recommended.
 
@@ -120,9 +124,11 @@ The recommended dose of filgrastim for PBPC mobilisation after myelosuppressive 
 
 Filgrastim may be given as a 24 hour subcutaneous continuous infusion or subcutaneous injection. For infusions, filgrastim should be diluted in 20 mL of 5% glucose solution for infusion (see section 6.6).
 
-Filgrastim for PBPC mobilisation after myelosuppressive chemotherapy: Filgrastim should be given by subcutaneous injection.
+## Filgrastim for PBPC mobilisation after myelosuppressive chemotherapy:
 
-## For the mobilisation of PBPCs in normal donors prior to allogeneic PBPC transplantation
+Filgrastim should be given by subcutaneous injection.
+
+For the mobilisation of PBPCs in normal donors prior to allogeneic PBPC transplantation
 
 ## Posology
 
@@ -136,7 +142,7 @@ Filgrastim should be given by subcutaneous injection.
 
 ## Posology
 
-Congenital neutropenia
+## Congenital neutropenia
 
 <div style=\"page-break-after: always\"></div>
 
@@ -148,7 +154,7 @@ The recommended starting dose is 0.5 MIU (5 μg)/kg/day as a single dose or in d
 
 ## Dose adjustment
 
-Filgrastim should be administered daily by subcutaneous injection until the neutrophil count has reached and can be maintained at more than 1.5 x 10 9 /L. When the response has been obtained, the minimal effective dose to maintain this level should be established. Long-term daily administration is required to maintain an adequate neutrophil count. After one to two weeks of therapy, the initial dose may be doubled or halved depending upon the patient's response. Subsequently the dose may be individually adjusted every 1 to 2 weeks to maintain the average neutrophil count between 1.5 x 10 9 /L and 10 x 10 9 /L. A faster schedule of dose escalation may be considered in patients presenting with severe infections. In clinical trials, 97 % of patients who responded had a complete response at doses of ≤ 2.4 MIU (24 μg)/kg/day. The long -term safety of filgrastim administration above 2.4 MIU (24 μg)/kg/day in patients with SCN has not been established.
+Filgrastim should be administered daily by subcutaneous injection until the neutrophil count has reached and can be maintained at more than 1.5 x 10 9 /L. When the response has been obtained, the minimal effective dose to maintain this level should be established. Long-term daily administration is required to maintain an adequate neutrophil count. After one to two weeks of therapy, the initial dose may be doubled or halved depending upon the patient's response. Subsequently the dose may be individually adjusted every 1 to 2 weeks to maintain the average neutrophil count between 1.5 x 10 9 /L and 10 x 10 9 /L. A faster schedule of dose escalation may be considered in patients presenting with severe infections. In clinical trials, 97 % of patients who responded had a complete response at doses of ≤ 2.4 MIU (24 μg)/kg/day. The long-term safety of filgrastim administration above 2.4 MIU (24 μg)/kg/day in patients with SCN has not been established.
 
 ## Method of administration
 
@@ -168,7 +174,7 @@ In a small number of patients (&lt; 10 %), doses up to 1.0 MIU (10 μg)/kg/day w
 
 ## For maintaining normal neutrophil counts
 
-When reversal of neutropenia has been achieved, the minimal effective dose to maintain a normal neutrophil count should be established. Initial dose adjustment to alternate day dosing with 30 MIU (300 μg)/day is recommended. Fur ther dose adjustment may be necessary, as determined by the patient's ANC, to maintain the neutrophil count at &gt; 2.0 x 10 9 /L. In clinical studies, dosing with 30 MIU (300 μg)/day on 1 to 7 days per week was required to maintain the ANC &gt; 2.0 x 10 9 /L, with the median dose frequency being 3 days per week. Long-term administration may be required to maintain the ANC &gt; 2.0 x 10 9 /L.
+When reversal of neutropenia has been achieved, the minimal effective dose to maintain a normal neutrophil count should be established. Initial dose adjustment to alternate day dosing with 30 MIU (300 μg)/day is recommended. Further dose adjustment may be necessary, as determined by the patient's ANC, to maintain the neutrophil count at &gt; 2.0 x 10 9 /L. In clinical studies, dosing with 30 MIU (300 μg)/day on 1 to 7 days per week was required to maintain the ANC &gt; 2.0 x 10 9 /L, with the median dose frequency being 3 days per week. Long-term administration may be required to maintain the ANC &gt; 2.0 x 10 9 /L.
 
 ## Method of administration
 
@@ -208,7 +214,7 @@ Hypersensitivity, including anaphylactic reactions, occurring on initial or subs
 
 ## Pulmonary adverse effects
 
-Pulmonary adverse reactions, in particular interstitial lung disease, have been reported after G-CSF administration. Patients with a recent history of lung infiltrates or pneumonia may be at higher risk. The onset of pulmonary signs such as cough, fever and dyspnoea in association with radiological signs of pulmonary infiltrates and deterioration in pulmonary function may be preliminary signs of acute respiratory distress syndrome (ARDS). Filgrastim should be discontinued and appropriate treatment given.
+Pulmonary adverse effects, in particular interstitial lung disease, have been reported after G-CSF administration. Patients with a recent history of lung infiltrates or pneumonia may be at higher risk. The onset of pulmonary signs, such as cough, fever and dyspnoea in association with radiological signs of pulmonary infiltrates and deterioration in pulmonary function may be preliminary signs of acute respiratory distress syndrome (ARDS). Filgrastim should be discontinued and appropriate treatment given.
 
 ## Glomerulonephritis
 
@@ -216,23 +222,21 @@ Glomerulonephritis has been reported in patients receiving filgrastim and pegfil
 
 ## Capillary leak syndrome
 
-Capillary leak syndrome which can be life threatening if treatment is delayed, has been reported after G-CSF administration and is characterised by hypotension, hypoalbuminaemia, oedema and haemoconcentration. Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care (see section 4.8).
+Capillary leak syndrome, which can be life threatening if treatment is delayed, has been reported after G-CSF administration and is characterised by hypotension, hypoalbuminaemia, oedema and haemoconcentration. Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care (see section 4.8).
 
 ## Splenomegaly and splenic rupture
 
-Generally asymptomatic cases of splenomegaly and cases of splenic rupture have been reported in patients and normal donors following administration of filgrastim. Some cases of splenic rupture were
+Generally asymptomatic cases of splenomegaly and cases of splenic rupture have been reported in patients and normal donors following administration of filgrastim. Some cases of splenic rupture were fatal. Therefore, spleen size should be carefully monitored (e.g. clinical examination, ultrasound). A diagnosis of splenic rupture should be considered in donors and/or patients reporting left upper abdominal or shoulder tip pain. Dose reductions of filgrastim have been noted to slow or stop the progression of splenic enlargement in patients with severe chronic neutropenia, and in 3% of patients a splenectomy was required.
 
 <div style=\"page-break-after: always\"></div>
 
-fatal. Therefore, spleen size should be carefully monitored (e.g. clinical examination, ultrasound). A diagnosis of splenic rupture should be considered in donors and/or patients reporting left upper abdominal or shoulder tip pain. Dose reductions of filgrastim have been noted to slow or stop the progression of splenic enlargement in patients with severe chronic neutropenia, and in 3% of patients a splenectomy was required.
-
 ## Malignant cell growth
 
-Granulocyte colony-stimulating factor can promote growth of myeloid cells in vitro and similar effects may also be seen on some non-myeloid cells in vitro .
+Granulocyte colony-stimulating factor can promote growth of myeloid cells in vitro and similar effects may be seen on some non-myeloid cells in vitro.
 
-## Myelodysplastic syndrome or chronic myeloid leukemia
+## Myelodysplastic syndrome or chronic myeloid leukaemia
 
-The safety and efficacy of filgrastim administration in patients with myelodysplastic syndrome or chronic myelogenous leukaemia have not been established. Filgrastim is not indicated for use in these conditions. Particular care should be taken to distinguish the diagnosis of blast transformation of chronic myeloid leukaemia from acute myeloid leukaemia.
+The safety and efficacy of filgrastim administration in patients with myelodysplastic syndrome, or chronic myelogenous leukaemia have not been established. Filgrastim is not indicated for use in these conditions. Particular care should be taken to distinguish the diagnosis of blast transformation of chronic myeloid leukaemia from acute myeloid leukaemia.
 
 ## Acute myeloid leukaemia
 
@@ -240,19 +244,19 @@ In view of limited safety and efficacy data in patients with secondary AML, filg
 
 ## Thrombocytopenia
 
-Thrombocytopenia has been reported in patients receiving filgrastim. Platelet counts should be monitored closely, especially during the first few weeks of filgrastim therapy. Consideration should be given to temporary discontinuation or dose reduction of filgrastim in patients with severe chronic neutropenia who develop thrombocytopenia (platelet count &lt; 100 x 109/l).
+Thrombocytopenia has been reported in patients receiving filgrastim. Platelet counts should be monitored closely, especially during the first few weeks of filgrastim therapy. Consideration should be given to temporary discontinuation or dose reduction of filgrastim in patients with severe chronic neutropenia who develop thrombocytopenia (platelet count &lt; 100 x 10 9 /l).
 
 ## Leukocytosis
 
-White blood cell counts of 100 x 10 9 /L or greater have been observed in less than 5 % of cancer patients receiving filgrastim at doses above 0.3 MIU/kg/day (3 μg /kg/day). No undesirable effects directly attributable to this degree of leukocytosis have been reported. However, in view of the potential risks associated with severe leukocytosis, a white blood cell count should be performed at regular intervals during filgrastim therapy. If leukocyte counts exceed 50 x 10 9 /L after the expected nadir, filgrastim should be discontinued immediately. However, during the period of administration of filgrastim for PBPC mobilisation, filgrastim should be discontinued or its dosage should be reduced if the leukocyte counts rise to &gt; 70 x 10 9 /L.
+White blood cell counts of 100 x 10 9 /L or greater have been observed in less than 5 % of cancer patients receiving filgrastim at doses above 0.3 MIU/kg/day (3 μg/kg/day). No undesirable effects directly attributable to this degree of leukocytosis have been reported. However, in view of the potential risks associated with severe leukocytosis, a white blood cell count should be performed at regular intervals during filgrastim therapy. If leukocyte counts exceed 50 x 10 9 /L after the expected nadir, filgrastim should be discontinued immediately. When administered for PBPC mobilisation, filgrastim should be discontinued or its dosage should be reduced if the leukocyte counts rise to &gt; 70 x 10 9 /L.
 
 ## Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity. Rates of generation of antibodies against filgrastim is generally low. Binding antibodies do occur as expected with all biologics; however, they have not been associated with neutralising activity at present.
 
-## Aortitis
+## Arteritis
 
-Aortitis has been reported after G-CSF administration in healthy subjects and in cancer patients. The symptoms experienced included fever, abdominal pain, malaise, back pain and increased inflammatory markers (e.g. C-reactive protein and white blood cell count). In most cases aortitis was diagnosed by CT scan and generally resolved after withdrawal of G-CSF. See also section 4.8.
+Large and medium vessel arteritis, including aortitis, has been reported after G-CSF administration in healthy subjects and in cancer patients. The symptoms experienced included fever, abdominal pain, malaise, back pain, headache, and neck pain. Laboratory findings included increased inflammatory markers (e.g. c-reactive protein and white blood cell count). In most cases, arteritis was diagnosed by CT scan and generally resolved after withdrawal of G-CSF. See also section 4.8.
 
 ## Special warnings and precautions associated with co-morbidities
 
@@ -260,7 +264,7 @@ Aortitis has been reported after G-CSF administration in healthy subjects and in
 
 ## Special precautions in sickle cell trait and sickle cell disease
 
-Sickle cell crisis, in some cases fatal, have been reported with the use of filgrastim in patients with sickle cell trait or sickle cell disease. Physicians should use caution when prescribing filgrastim in patients with sickle cell trait or sickle cell disease.
+Sickle cell crises, in some cases fatal, have been reported with the use of filgrastim in patients with sickle cell trait or sickle cell disease. Physicians should use caution when prescribing filgrastim in patients with sickle cell trait or sickle cell disease.
 
 ## Osteoporosis
 
@@ -272,7 +276,7 @@ Filgrastim should not be used to increase the dose of cytotoxic chemotherapy bey
 
 ## Risks associated with increased doses of chemotherapy
 
-Special caution should be used when treating patients with high-dose chemotherapy because improved tumour outcome has not been demonstrated and intensified doses of chemotherapeutic agents may lead to increased toxicities including cardiac, pulmonary, neurologic and dermatologic effects (please refer to the Summary of Product Characteristics of the specific chemotherapy agents used).
+Special caution should be used when treating patients with high-dose chemotherapy, because improved tumour outcome has not been demonstrated and intensified doses of chemotherapeutic agents may lead to increased toxicities including cardiac, pulmonary, neurologic, and dermatologic effects (please refer to the Summary of Product Characteristics of the specific chemotherapy agents used).
 
 ## Effect of chemotherapy on erythrocytes and thrombocytes
 
@@ -290,9 +294,9 @@ The effects of filgrastim in patients with substantially reduced myeloid progeni
 
 Vascular disorders, including veno-occlusive disease and fluid volume disturbances, have been reported occasionally in patients undergoing high-dose chemotherapy followed by transplantation.
 
-There have been reports of graft versus host disease (GvHD) and fatalities in patients receiving G-CSF after allogeneic bone marrow transplantation (see sections 4.8 and  5.1).
-
 <div style=\"page-break-after: always\"></div>
+
+There have been reports of graft versus host disease (GvHD) and fatalities in patients receiving G-CSF after allogeneic bone marrow transplantation (see sections 4.8 and 5.1).
 
 Increased haematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient abnormal bone scans. This should be considered when interpreting bone-imaging results.
 
@@ -300,13 +304,13 @@ Increased haematopoietic activity of the bone marrow in response to growth facto
 
 ## Mobilisation
 
-There are no prospectively randomised comparisons of the two recommended mobilisation methods (filgrastim alone or in combination with myelosuppressive chemotherapy) within the same patient population. The degree of variation between individual patients and between laboratory assays of CD34 + cells mean that direct comparison between different studies is difficult. It is therefore difficult to recommend an optimum method. The choice of mobilisation method should be considered in relation to the overall objectives of treatment for an individual patient.
+There are no prospectively randomised comparisons of the two recommended mobilisation methods (filgrastim alone, or in combination with myelosuppressive chemotherapy) within the same patient population. The degree of variation between individual patients and between laboratory assays of CD34 + cells mean that direct comparison between different studies is difficult. It is therefore difficult to recommend an optimum method. The choice of mobilisation method should be considered in relation to the overall objectives of treatment for an individual patient.
 
 ## Prior exposure to cytotoxic agents
 
-Patients who have undergone very extensive prior myelosuppressive therapy may not show sufficient mobilisation of PBPC to achieve the recommended minimum yield ( ≥ 2.0 x 10 6 CD34 + cells/kg) or acceleration of platelet recovery to the same degree.
+Patients who have undergone very extensive prior myelosuppressive therapy may not show sufficient mobilisation of PBPC to achieve the recommended minimum yield (≥ 2.0 x 10 6 CD34 + cells/kg) or acceleration of platelet recovery to the same degree.
 
-Some cytotoxic agents exhibit particular toxicities to the haematopoietic progenitor pool and may adversely affect progenitor mobilisation. Agents such as melphalan, carmustine (BCNU) and carboplatin, when administered over prolonged periods prior to attempts at progenitor mobilisation, may reduce progenitor yield. However, the administration of melphalan, carboplatin or BCNU together with filgrastim has been shown to be effective for progenitor mobilisation. When a PBPC transplantation is envisaged it is advisable to plan the stem cell mobilisation procedure early in the treatment course of the patient. Particular attention should be paid to the number of progenitors mobilised in such patients before the administration of high-dose chemotherapy. If yields are inadequate, as measured by the criteria above, alternative forms of treatment not requiring progenitor support should be considered.
+Some cytotoxic agents exhibit particular toxicities to the haematopoietic progenitor pool and may adversely affect progenitor mobilisation. Agents such as melphalan, carmustine (BCNU) and carboplatin, when administered over prolonged periods prior to attempts at progenitor mobilisation, may reduce progenitor yield. However, the administration of melphalan, carboplatin or BCNU together with filgrastim, has been shown to be effective for progenitor mobilisation. When a PBPC transplantation is envisaged it is advisable to plan the stem cell mobilisation procedure early in the treatment course of the patient. Particular attention should be paid to the number of progenitors mobilised in such patients before the administration of high-dose chemotherapy. If yields are inadequate, as measured by the criteria above, alternative forms of treatment, not requiring progenitor support should be considered.
 
 ## Assessment of progenitor cell yields
 
@@ -314,7 +318,7 @@ In assessing the number of progenitor cells harvested in patients treated with f
 
 Statistical analysis of the relationship between the number of CD34 + cells re-infused and the rate of platelet recovery after high-dose chemotherapy indicates a complex but continuous relationship.
 
-The recommendation of a minimum yield of ≥ 2.0 x 10 6 CD34 + cells/kg is based on published experience resulting in adequate haematologic reconstitution. Yields in excess of this appear to correlate with more rapid recovery, those below with slower recovery.
+The recommendation of a minimum yields of ≥ 2.0 x 10 6 CD34 + cells/kg is based on published experience resulting in adequate haematologic reconstitution. Yields in excess of this appear to correlate with more rapid recovery, those below with slower recovery.
 
 ## Special precautions in normal donors undergoing PBPC mobilisation
 
@@ -322,9 +326,9 @@ Mobilisation of PBPC does not provide a direct clinical benefit to normal donors
 
 PBPC mobilisation should be considered only in donors who meet normal clinical and laboratory eligibility criteria for stem cell donation with special attention to haematological values and infectious disease.
 
-The safety and efficacy of filgrastim have not been assessed in normal donors &lt; 16 years or &gt; 60 years.
-
 <div style=\"page-break-after: always\"></div>
+
+The safety and efficacy of filgrastim have not been assessed in normal donors &lt; 16 years or &gt; 60 years.
 
 Transient thrombocytopenia (platelets &lt; 100 x 10 9 /L) following filgrastim administration and leukapheresis was observed in 35 % of subjects studied. Among these, two cases of platelets &lt; 50 x 10 9 /L were reported and attributed to the leukapheresis procedure.
 
@@ -344,29 +348,29 @@ Filgrastim should not be administered to patients with severe congenital neutrop
 
 ## Blood cell counts
 
-Other blood cell changes occur, including anaemia and transient increases in myeloid progenitors, which require close monitoring of cell counts
+Other blood cell changes occur, including anaemia and transient increases in myeloid progenitors, which require close monitoring of cell counts.
 
 ## Transformation to leukaemia or myelodysplastic syndrome
 
-Special care should be taken in the diagnosis of SCNs to distinguish them from other haematopoietic disorders such as aplastic anaemia, myelodysplasia and myeloid leukaemia. Complete blood cell counts with differential and platelet counts and an evaluation of bone marrow morphology and karyotype should be performed prior to treatment.
+Special care should be taken in the diagnosis of SCNs to distinguish them from other haematopoietic disorders such as aplastic anaemia, myelodysplasia, and myeloid leukaemia. Complete blood cell counts with differential and platelet counts, and an evaluation of bone marrow morphology and karyotype should be performed prior to treatment.
 
-There was a low frequency (approximately 3 %) of myelodysplastic syndromes (MDS) or leukaemia in clinical trial patients with SCN treated with filgrastim. This observation has only been made in patients with congenital neutropenia. MDS and leukaemias are natural complications of the disease and are of uncertain relation to filgrastim therapy. A subset of approximately 12 % of patients who had normal cytogenetic evaluations at baseline was subsequently found to have abnormalities, including monosomy 7, on routine repeat evaluation. It is currently unclear whether long-term treatment of patients with SCN will predispose patients to cytogenetic abnormalities, MDS or leukaemic transformation. It is recommended to perform morphologic and cytogenetic bone marrow examinations in patients at regular intervals (approximately every 12 months).
+There was a low frequency (approximately 3 %) of myelodysplastic syndromes (MDS) or leukaemia in clinical trial patients with SCN treated with filgrastim. This observation has only been made in patients with congenital neutropenia. MDS and leukaemias are natural complications of the disease and are of uncertain relation to filgrastim therapy. A subset of approximately 12 % of patients who had normal cytogenetic evaluations at baseline were subsequently found to have abnormalities, including monosomy 7, on routine repeat evaluation. It is currently unclear whether long-term treatment of patients with SCN will predispose patients to cytogenetic abnormalities, MDS or leukaemic transformation. It is recommended to perform morphologic and cytogenetic bone marrow examinations in patients at regular intervals (approximately every 12 months).
 
 ## Other special precautions
 
-Causes of transient neutropenia such as viral infections should be excluded.
+Causes of transient neutropenia, such as viral infections should be excluded.
 
-Haematuria was common andproteinuria occurred in a small number of patients. Regular urinalysis should be performed to monitor these events.
-
-The safety and efficacy in neonates and patients with autoimmune neutropenia have not been established.
+Haematuria was common and proteinuria occurred in a small number of patients. Regular urinalysis should be performed to monitor these events.
 
 <div style=\"page-break-after: always\"></div>
+
+The safety and efficacy in neonates and patients with autoimmune neutropenia have not been established.
 
 ## Special precautions in patients with HIV infection
 
 ## Blood cell counts
 
-ANC should be monitored closely, especially during the first few weeks of filgrastim therapy. Some patients may respond very rapidly and with a considerable increase in neutrophil count to the initial dose of filgrastim. It is recommended that the ANC is measured daily for the first 2 to 3 days of filgrastim administration. Thereafter, it is recommended that the ANC is measured at least twice weekly for the first two weeks and subsequently once per week or once every other week during maintenance therapy. During intermittent dosing with 30 MIU (300 μg)/day of filgrastim, there can be wide fluctuations in the patient's ANC over time. In order to determine a patient's trough or nadir ANC, it is recommended that blood samples are taken for ANC measurement immediately prior to any scheduled dosing with filgrastim.
+Absolute neutrophil count (ANC) should be monitored closely, especially during the first few weeks of filgrastim therapy. Some patients may respond very rapidly and with a considerable increase in neutrophil count to the initial dose of filgrastim. It is recommended that the ANC is measured daily for the first 2-3 days of filgrastim administration. Thereafter, it is recommended that the ANC is measured at least twice per week for the first two weeks and subsequently once per week or once every other week during maintenance therapy. During intermittent dosing with 30 MIU (300 μg)/day of filgrastim, there can be wide fluctuations in the patient's ANC over time. In order to determine a patient's trough or nadir ANC, it is recommended that blood samples are taken for ANC measurement immediately prior to any scheduled dosing with filgrastim.
 
 ## Risk associated with increased doses of myelosuppressive medicinal products
 
@@ -374,7 +378,7 @@ Treatment with filgrastim alone does not preclude thrombocytopenia and anaemia d
 
 ## Infections and malignancies causing myelosuppression
 
-Neutropenia may be due to bone marrow infiltrating opportunistic infections such as Mycobacterium avium complex or malignancies such as lymphoma. In patients with known bone marrow-infiltrating infections or malignancy, consider appropriate therapy for treatment of the underlying condition in addition to administration of filgrastim for treatment of neutropenia. The effects of filgrastim on neutropenia due to bone marrow-infiltrating infection or malignancy have not been well established.
+Neutropenia may be due to bone marrow infiltrating opportunistic infections such as Mycobacterium avium complex or malignancies such as lymphoma. In patients with known bone marrow-infiltrating infections or malignancy, consider appropriate therapy for treatment of the underlying condition, in addition to administration of filgrastim for treatment of neutropenia. The effects of filgrastim on neutropenia due to bone marrow-infiltrating infection or malignancy have not been well established.
 
 ## All patients
 
@@ -384,27 +388,29 @@ Tevagrastim contains sorbitol (E420). The additive effect of concomitantly given
 
 ## For intravenous administration
 
-Patients with hereditary fructose intolerance (HFI) must not be given this medicinal product unless strictly necessary. Infants and young children (below 2 years of age) may not yet be diagnosed with HFI. Medicinal products (containing sorbitol/fructose) given intravenously may be life-threatening and should not be given in this population unless there is an overwhelming clinical need and no alternatives are available.
+Patients with hereditary fructose intolerance (HFI) must not be given this medicine unless strictly necessary.
 
-A detailed history of HFI symptoms has to be taken of each patient before giving this medicinal product.
+Babies and young children (below 2 years of age) may not yet be diagnosed with HFI. Medicines (containing sorbitol/fructose) given intravenously may be life-threatening and should be contraindicated in this population unless there is an overwhelming clinical need and no alternatives are available.
+
+A detailed history with regard to HFI symptoms has to be taken of each patient prior to being given this medicinal product.
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per pre-filled syringe, i.e. essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per pre-filled syringe, i.e. essentially 'sodium-free'.
 
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-## 4.5 Interaction with other medicinal products and other forms of interaction
-
 <div style=\"page-break-after: always\"></div>
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
 
 The safety and efficacy of filgrastim given on the same day as myelosuppressive cytotoxic chemotherapy have not been definitively established. In view of the sensitivity of rapidly dividing myeloid cells to myelosuppressive cytotoxic chemotherapy, the use of filgrastim is not recommended in the period from 24 hours before to 24 hours after chemotherapy. Preliminary evidence from a small number of patients treated concomitantly with filgrastim and 5-Fluorouracil indicates that the severity of neutropenia may be exacerbated.
 
 Possible interactions with other haematopoietic growth factors and cytokines have not yet been investigated in clinical trials.
 
-Since lithium promotes the release of neutrophils, it is likely to potentiate the effect of filgrastim. Although this interaction has not been formally investigated, there is no evidence that such an interaction is harmful.
+Since lithium promotes the release of neutrophils, lithium is likely to potentiate the effect of filgrastim. Although this interaction has not been formally investigated, there is no evidence that such an interaction is harmful.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -416,7 +422,7 @@ Filgrastim is not recommended during pregnancy.
 
 ## Breast-feeding
 
-It is unknown whether filgrastim/metabolites are excreted in human milk. A risk to the breastfed newborns/infants cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from filgrastim therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+It is unknown whether filgrastim/metabolites are excreted in human milk. A risk to the newborns/infants cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from filgrastim therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
 ## Fertility
 
@@ -440,30 +446,28 @@ The most commonly reported adverse reactions are pyrexia, musculoskeletal pain (
 
 The data in the table below describe adverse reactions reported from clinical trials and spontaneous reporting. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| MedDRA system organ class                        | Adverse reactions                    | Adverse reactions                                                           | Adverse reactions                                                                                                                                            | Adverse reactions                                                                                |
-|--------------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| MedDRA system organ class                        | Very common (≥ 1/10)                 | Common (≥ 1/100 to < 1/10)                                                  | Uncommon (≥ 1/1,000 to < 1/100)                                                                                                                              | Rare (≥ 1/10,000 to < 1/1,000)                                                                   |
-| Infections and Infestations                      |                                      | Sepsis Bronchitis Upper respiratory tract infection Urinary tract infection |                                                                                                                                                              |                                                                                                  |
-| Blood and lymphatic system disorders             | Thrombocytopenia Anaemia e           | Splenomegaly a Haemoglobin decreased e                                      | Leukocytosis a                                                                                                                                               | Splenic rupture a Sickle cell anaemia with crisis Extramedullary haematopoiesis                  |
-| Immune system disorders                          |                                      |                                                                             | Hypersensitivity Drug hypersensitivity a Graft versus Host Disease b                                                                                         | Anaphylactic reaction                                                                            |
-| Metabolis mand nutrition disorders               |                                      | Decreased appetite e Blood lactate dehydrogenase increased                  | Hyperuricaemia Blood uric acid increased                                                                                                                     | Blood glucose decreased Pseudogout a (Chondrocalcinosis Pyrophosphate) Fluid volume disturbances |
-| Psychiatic diorders                              |                                      | Insomnia                                                                    |                                                                                                                                                              |                                                                                                  |
-| Nervous system disorders                         | Headache a                           | Dizziness Hypoaesthesia Paraesthesia                                        |                                                                                                                                                              |                                                                                                  |
-| Vascular disorders                               |                                      | Hypertension Hypotension                                                    | Veno-occlusive disease d                                                                                                                                     | Capillary leak syndrome a Aortitis                                                               |
-| Respirator y, thoracic and mediastinal disorders |                                      | Haemoptysis Dyspnoea Cough a Oropharyngeal pain a,e Epistaxis               | Acute respiratory distress syndrome a Respiratory failure a Pulmonary oedema a Pulmonary haemorrhage Interstitial lung disease a Lung infiltration a Hypoxia |                                                                                                  |
-| Gastro- intestinal disorders                     | Diarrhoea a, e Vomiting a,e Nausea a | Oral pain Constipation e                                                    |                                                                                                                                                              |                                                                                                  |
+| MedDRA system organ class                        | Adverse reactions - Very common (≥ 1/10)   | Adverse reactions - Common (≥ 1/100 to < 1/10)                              | Adverse reactions - Uncommon (≥ 1/1,000 to < 1/100)                                                                                                          | Adverse reactions - Rare (≥ 1/10,000 to < 1/1,000)                                               |
+|--------------------------------------------------|--------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Infections and infestations                      |                                            | Sepsis Bronchitis Upper respiratory tract infection Urinary tract infection |                                                                                                                                                              |                                                                                                  |
+| Blood and lymphatic system disorders             | Thrombocytopenia Anaemia e                 | Splenomegaly a Haemoglobin decreased e                                      | Leukocytosis a                                                                                                                                               | Splenic rupture a Sickle cell anaemia with crisis Extramedullary haematopoiesis                  |
+| Immune system disorders                          |                                            |                                                                             | Hypersensitivity Drug hypersensitivity a Graft versus host disease b                                                                                         | Anaphylactic reaction                                                                            |
+| Metabolis m and nutrition disorders              |                                            | Decreased appetite e Blood lactate dehydrogenase increased                  | Hyperuricaemia Blood uric acid increased                                                                                                                     | Blood glucose decreased Pseudogout a (Chondrocalcinosis Pyrophosphate) Fluid volume disturbances |
+| Psychiatic diorders                              |                                            | Insomnia                                                                    |                                                                                                                                                              |                                                                                                  |
+| Nervous system disorders                         | Headache a                                 | Dizziness Hypoaesthesia Paraesthesia                                        |                                                                                                                                                              |                                                                                                  |
+| Vascular disorders                               |                                            | Hypertension Hypotension                                                    | Veno-occlusive disease d                                                                                                                                     | Capillary leak syndrome a Aortitis Arteritis                                                     |
+| Respirator y, thoracic and mediastinal disorders |                                            | Haemoptysis Dyspnoea Cough a Oropharyngeal pain a,e Epistaxis               | Acute respiratory distress syndrome a Respiratory failure a Pulmonary oedema a Pulmonary haemorrhage Interstitial lung disease a Lung infiltration a Hypoxia |                                                                                                  |
+| Gastro- intestinal disorders                     | Diarrhoea a, e Vomiting a,e Nausea a       | Oral pain Constipation e                                                    |                                                                                                                                                              |                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA system                                           | Adverse reactions                        | Adverse reactions                                            | Adverse reactions                                                         | Adverse reactions                                                              |
-|---------------------------------------------------------|------------------------------------------|--------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| organ class                                             | Very common (≥ 1/10)                     | Common (≥ 1/100 to < 1/10)                                   | Uncommon (≥ 1/1,000 to < 1/100)                                           | Rare (≥ 1/10,000 to < 1/1,000)                                                 |
-| Hepato- biliary disorders                               |                                          | Hepatomegaly Blood alkaline phosphatase increased            | Aspartate aminotransferase increased Gamma-glutamyl transferase increased |                                                                                |
-| Skin and sub- cutaneous tissue disorders                | Alopecia a                               | Rash a Erythema                                              | Rash maculopapular                                                        | Cutaneous vasculitis a Sweets syndrome (acute febrile neutrophilic dermatosis) |
-| Musculo- skeletal and connective tissue disorders       | Musculoskeletal pain c                   | Muscle spasms                                                | Osteoporosis                                                              | Bone density decreased Exacerbation of rheumatoid arthritis                    |
-| Renal and urinary disorders                             |                                          | Dysuria Haematuria                                           | Proteinuria                                                               | Glomerulonephritis Urine abnormality                                           |
-| General disorders and ad- ministratio n site conditions | Fatigue a Mucosal inflammation a Pyrexia | Chest pain a Pain a Asthenia a Malaise e Oedema peripheral e | Injection site reaction                                                   |                                                                                |
-| Injury, poisoning and procedural complicatio ns         |                                          | Transfusion reaction e                                       |                                                                           |                                                                                |
+| MedDRA system organ class                               | Adverse reactions - Very common (≥ 1/10)   | Adverse reactions - Common (≥ 1/100 to < 1/10)               | Adverse reactions - Uncommon (≥ 1/1,000 to < 1/100)                       | Adverse reactions - Rare (≥ 1/10,000 to < 1/1,000)                             |
+|---------------------------------------------------------|--------------------------------------------|--------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Hepato- biliary disorders                               |                                            | Hepatomegaly Blood alkaline phosphatase increased            | Aspartate aminotransferase increased Gamma-glutamyl transferase increased |                                                                                |
+| Skin and sub- cutaneous tissue disorders                | Alopecia a                                 | Rash a Erythema                                              | Rash maculopapular                                                        | Cutaneous vasculitis a Sweets syndrome (acute febrile neutrophilic dermatosis) |
+| Musculo- skeletal and connective tissue disorders       | Musculoskeletal pain c                     | Muscle spasms                                                | Osteoporosis                                                              | Bone density decreased Exacerbation of rheumatoid arthritis                    |
+| Renal and urinary disorders                             |                                            | Dysuria Haematuria                                           | Proteinuria                                                               | Glomerulonephritis Urine abnormality                                           |
+| General disorders and ad- ministratio n site conditions | Fatigue a Mucosal inflammation a Pyrexia   | Chest pain a Pain a Asthenia a Malaise e Oedema peripheral e | Injection site reaction                                                   |                                                                                |
+| Injury, poisoning and procedural complicatio ns         |                                            | Transfusion reaction e                                       |                                                                           |                                                                                |
 
 ## c. Description of selected adverse reactions
 
@@ -539,29 +543,30 @@ The effects of filgrastim overdosage have not been established. Discontinuation 
 
 Pharmacotherapeutic group: Immunostimulants, colony-stimulating factors, ATC code: L03AA02
 
-Tevagrastim is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Tevagrastim is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-Human G-CSF is a glycoprotein which regulates the production and release of functional neutrophils from the bone marrow. Tevagrastim containing r-metHuG-CSF (filgrastim) causes marked increases in peripheral blood neutrophil counts within 24 hours, with minor increases in monocytes. In some SCN patients, filgrastim can also induce a minor increase in the number of circulating eosinophils and basophils relative to baseline; some of these patients may present with eosinophilia or basophilia prior to treatment. Elevations of neutrophil counts are dose-dependent at recommended doses. Neutrophils produced in response to filgrastim show normal or enhanced function as demonstrated by tests of chemotactic and phagocytic function. Following termination of filgrastim therapy, circulating neutrophil counts decrease by 50 % within 1 to 2 days, and to normal levels within 1 to 7 days.
+Human G-CSF is a glycoprotein which regulates the production and release of functional neutrophils from the bone marrow. Tevagrastim containing r-metHuG-CSF (filgrastim) causes marked increases in peripheral blood neutrophil counts within 24 hours, with minor increases in monocytes. In some SCN patients, filgrastim can also induce a minor increase in the number of circulating eosinophils and basophils relative to baseline; some of these patients may present with eosinophilia or basophilia already prior to treatment. Elevations of neutrophil counts are dose-dependent at recommended doses. Neutrophils produced in response to filgrastim show normal or enhanced function as demonstrated by tests of chemotactic and phagocytic function. Following termination of filgrastim therapy, circulating neutrophil counts decrease by 50 % within 1 to 2 days, and to normal levels within 1 to 7 days.
 
-Use of filgrastim in patients undergoing cytotoxic chemotherapy leads to significant reductions in the incidence, severity and duration of neutropenia and febrile neutropenia. Treatment with filgrastim significantly reduces the duration of febrile neutropenia, antibiotic use and hospitalisation after induction chemotherapy for acute myelogenous leukaemia or myeloablative therapy followed by bone marrow transplantation. The incidence of fever and documented infections were not reduced in either setting. The duration of fever was not reduced in patients undergoing myeloablative therapy followed by bone marrow transplantation.
+Use of filgrastim in patients undergoing cytotoxic chemotherapy leads to significant reductions in the incidence, severity and durations of neutropenia and febrile neutropenia. Treatment with filgrastim significantly reduces the duration of febrile neutropenia, antibiotic use and hospitalisation after induction chemotherapy for acute myelogenous leukaemia or myeloablative therapy followed by bone marrow transplantation. The incidence of fever and documented infections were not reduced in either setting. The duration of fever was not reduced in patients undergoing myeloablative therapy followed by bone marrow transplantation.
 
 <div style=\"page-break-after: always\"></div>
 
-Use of filgrastim, either alone or after chemotherapy, mobilises haematopoietic progenitor cells into peripheral blood. These autologous PBPCs may be harvested and infused after high-dose cytotoxic therapy, either in place of or in addition to bone marrow transplantation. Infusion of PBPCs accelerates haematopoietic recovery reducing the duration of risk for haemorrhagic complications and the need for platelet transfusions.
+Use of filgrastim, either alone, or after chemotherapy, mobilises haematopoietic progenitor cells into the peripheral blood. These autologous PBPCs may be harvested and infused after high-dose cytotoxic therapy, either in place of, or in addition to bone marrow transplantation. Infusion of PBPC accelerates haematopoietic recovery reducing the duration of risk for haemorrhagic complications and the need for platelet transfusions.
 
-Recipients of allogeneic PBPCs mobilised with filgrastim experienced significantly more rapid haematological recovery, leading to a significant decrease in time to unsupported platelet recovery, when compared with allogeneic bone marrow transplantation.
+Recipients of allogeneic PBPCs mobilised with filgrastim experienced significantly more rapid haematological recovery, leading to a significant decrease in time to unsupported platelet recovery when compared with allogeneic bone marrow transplantation.
 
 One retrospective European study evaluating the use of G-CSF after allogeneic bone marrow transplantation in patients with acute leukaemias suggested an increase in the risk of GvHD, treatment related mortality (TRM) and mortality when G-CSF was administered. In a separate retrospective international study in patients with acute and chronic myelogenous leukaemias, no effect on the risk of GvHD, TRM and mortality was seen. A meta-analysis of allogeneic transplant studies, including the results of nine prospective randomised trials, 8 retrospective studies and 1 case-controlled study, did not detect an effect on the risks of acute GvHD, chronic GvHD or early treatment-related mortality.
 
-| Relative risk (95 %CI) of GvHD and TRM following treatment with G-CSF after bone marrow transplantation                                                                                                                                       | Relative risk (95 %CI) of GvHD and TRM following treatment with G-CSF after bone marrow transplantation                                                                                                                                       | Relative risk (95 %CI) of GvHD and TRM following treatment with G-CSF after bone marrow transplantation                                                                                                                                       | Relative risk (95 %CI) of GvHD and TRM following treatment with G-CSF after bone marrow transplantation                                                                                                                                       | Relative risk (95 %CI) of GvHD and TRM following treatment with G-CSF after bone marrow transplantation                                                                                                                                       | Relative risk (95 %CI) of GvHD and TRM following treatment with G-CSF after bone marrow transplantation                                                                                                                                       |
+| Relative risk (95 % CI) of GvHD and TRM following treatment with G-CSF after bone marrow transplantation - Publication                                                                                                                        | Relative risk (95 % CI) of GvHD and TRM following treatment with G-CSF after bone marrow transplantation - Period of study                                                                                                                    | Relative risk (95 % CI) of GvHD and TRM following treatment with G-CSF after bone marrow transplantation - N                                                                                                                                  | Relative risk (95 % CI) of GvHD and TRM following treatment with G-CSF after bone marrow transplantation - Acute grade II-IV GvHD                                                                                                             | Relative risk (95 % CI) of GvHD and TRM following treatment with G-CSF after bone marrow transplantation - Chronic GvHD                                                                                                                       | Relative risk (95 % CI) of GvHD and TRM following treatment with G-CSF after bone marrow transplantation - TRM                                                                                                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Publication                                                                                                                                                                                                                                   | Period of study                                                                                                                                                                                                                               | N                                                                                                                                                                                                                                             | Acute grade II-IV GvHD                                                                                                                                                                                                                        | Chronic GvHD                                                                                                                                                                                                                                  | TRM                                                                                                                                                                                                                                           |
 | Meta-analysis (2003)                                                                                                                                                                                                                          | 1986-2001 a                                                                                                                                                                                                                                   | 1198                                                                                                                                                                                                                                          | 1.08 (0.87, 1.33)                                                                                                                                                                                                                             | 1.02 (0.82, 1.26)                                                                                                                                                                                                                             | 0.70 (0.38, 1.31)                                                                                                                                                                                                                             |
 | European retrospective study (2004)                                                                                                                                                                                                           | 1992-2002 b                                                                                                                                                                                                                                   | 1789                                                                                                                                                                                                                                          | 1.33 (1.08, 1.64)                                                                                                                                                                                                                             | 1.29 (1.02, 1.61)                                                                                                                                                                                                                             | 1.73 (1.30, 2.32)                                                                                                                                                                                                                             |
 | International retrospective study (2006)                                                                                                                                                                                                      | 1995-2000 b                                                                                                                                                                                                                                   | 2110                                                                                                                                                                                                                                          | 1.11 (0.86, 1.42)                                                                                                                                                                                                                             | 1.10 (0.86, 1.39)                                                                                                                                                                                                                             | 1.26 (0.95, 1.67)                                                                                                                                                                                                                             |
 | a Analysis includes studies involving bone marrow transplant during this period; some studies used GM-CSF (granulocyte-macrophage colony-stimulating factor) b Analysis includes patients receiving bone marrow transplant during this period | a Analysis includes studies involving bone marrow transplant during this period; some studies used GM-CSF (granulocyte-macrophage colony-stimulating factor) b Analysis includes patients receiving bone marrow transplant during this period | a Analysis includes studies involving bone marrow transplant during this period; some studies used GM-CSF (granulocyte-macrophage colony-stimulating factor) b Analysis includes patients receiving bone marrow transplant during this period | a Analysis includes studies involving bone marrow transplant during this period; some studies used GM-CSF (granulocyte-macrophage colony-stimulating factor) b Analysis includes patients receiving bone marrow transplant during this period | a Analysis includes studies involving bone marrow transplant during this period; some studies used GM-CSF (granulocyte-macrophage colony-stimulating factor) b Analysis includes patients receiving bone marrow transplant during this period | a Analysis includes studies involving bone marrow transplant during this period; some studies used GM-CSF (granulocyte-macrophage colony-stimulating factor) b Analysis includes patients receiving bone marrow transplant during this period |
 
-Prior to allogeneic PBPC transplantation, use of filgrastim for the mobilisation of PBPC in normal donors allows a collection of ≥ 4 x 10 6 CD34 + cells/kg recipient body weight in the majority of the donors after two leukapheresis. Normal donors are given a dose of a 10 μg/kg/day, administered subcutaneously for 4 to 5 consecutive days.
+Use of filgrastim for the mobilisation of PBPCs in normal donors prior to allogeneic PBPC transplantation
+
+In normal donors, a 10 μg/kg/day dose administered subcutaneously for 4 to 5 consecutive days allows a collection of ≥ 4 × 10 6 CD34 + cells/kg recipient body weight in the majority of the donors after two leukaphereses.
 
 Use of filgrastim in patients, children or adults, with SCN (severe congenital, cyclic, and idiopathic neutropenia) induces a sustained increase in absolute neutrophil counts in peripheral blood and a reduction of infection and related events.
 
@@ -571,9 +576,9 @@ As with other haematopoietic growth factors, G-CSF has shown in vitro stimulatin
 
 The efficacy and safety of Tevagrastim has been assessed in randomised, controlled phase III studies in breast cancer, lung cancer and Non-Hodgkin-Lymphoma. There were no relevant differences between Tevagrastim and the reference product with regard to duration of severe neutropenia and incidence of febrile neutropenia.
 
-## 5.2 Pharmacokinetic properties
-
 <div style=\"page-break-after: always\"></div>
+
+## 5.2 Pharmacokinetic properties
 
 Randomised, single-blind, single dose, crossover studies in 196 healthy volunteers showed that the pharmacokinetic profile of Tevagrastim was comparable to that of the reference product after subcutaneous and intravenous administration.
 
@@ -601,9 +606,9 @@ Acetic acid, glacial Sodium hydroxide Sorbitol (E420) Polysorbate 80 Water for i
 
 ## 6.2 Incompatibilities
 
-Tevagrastim must not be diluted with sodium chloride solution.
-
 <div style=\"page-break-after: always\"></div>
+
+Tevagrastim must not be diluted with sodium chloride solution.
 
 This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
 
@@ -617,11 +622,13 @@ After dilution: Chemical and physical in-use stability of the diluted solution f
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C).
+Store in a refrigerator (2 °C - 8 °C).
 
-Within its shelf-life and for ambulatory use, the product may be removed from the refrigerator (2 ° C - 8 ° C) and stored at a temperature up to 25 ° C for one single period of up to 4 days. If not used within 4 days, the product may be returned to the refrigerator (2 ° C - 8 ° C) up to the expiry date. Dispose of syringes if stored above 8 ° C for more than 4 days.
+Within its shelf-life and for ambulatory use, the product may be removed from the refrigerator (2 °C - 8 °C) and stored at a temperature up to 25 °C for one single period of up to 4 days. If not used within 4 days, the product may be returned to the refrigerator (2 °C - 8 °C) up to the expiry date. Dispose of syringes if stored above 8 °C for more than 4 days.
 
 For storage conditions after dilution of the medicinal product, see section 6.3.
+
+Accidental exposure to freezing temperatures does not adversely affect the stability of Tevagrastim.
 
 ## 6.5 Nature and contents of container
 
@@ -645,19 +652,19 @@ Dilution to a final concentration less than 0.2 MIU (2 μg) per mL is not recomm
 
 The solution should be visually inspected prior to use. Only clear solutions without particles should be used.
 
+<div style=\"page-break-after: always\"></div>
+
 For patients treated with filgrastim diluted to concentrations below 1.5 MIU (15 μg) per mL, human serum albumin (HSA) should be added to a final concentration of 2 mg/mL.
 
 Example: In a final injection volume of 20 mL, total doses of filgrastim less than 30 MIU (300 μg) should be given with 0.2 mL of 200 mg/mL (20 %) human albumin solution added.
-
-<div style=\"page-break-after: always\"></div>
 
 When diluted in glucose 50 mg/mL (5 %) solution for infusion, Tevagrastim is compatible with glass and a variety of plastics including PVC, polyolefin (a co-polymer of polypropylene and polyethylene) and polypropylene.
 
 Tevagrastim does not contain any preservative. In view of the possible risk of microbial contamination, Tevagrastim syringes are for single use only.
 
-Accidental exposure to freezing temperatures does not adversely affect the stability of Tevagrastim.
-
-## Using the pre-filled syringe with a needle safety guard
+```
+Using the pre-filled syringe with a needle safety guard
+```
 
 The needle safety guard covers the needle after injection to prevent needle stick injury. This does not affect normal operation of the syringe. Depress the plunger slowly and evenly until the entire dose has been given and the plunger cannot be depressed any further. While maintaining pressure on the plunger, remove the syringe from the patient. The needle safety guard will cover the needle when releasing the plunger.
 
@@ -676,22 +683,26 @@ TEVA GmbH Graf-Arco-Straße 3 89079 Ulm Germany
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 ```
-Tevagrastim 30 MIU/0.5 mL solution for injection/infusion EU/1/08/445/001 EU/1/08/445/002 EU/1/08/445/003 EU/1/08/445/004 EU/1/08/445/009 EU/1/08/445/010 EU/1/08/445/011 Tevagrastim 48 MIU/0.8 mL solution for injection/infusion EU/1/08/445/005 EU/1/08/445/006 EU/1/08/445/007 EU/1/08/445/008 EU/1/08/445/012 EU/1/08/445/013 EU/1/08/445/014
+Tevagrastim 30 MIU/0.5 mL solution for injection/infusion EU/1/08/445/001 EU/1/08/445/002 EU/1/08/445/003 EU/1/08/445/004 EU/1/08/445/009 EU/1/08/445/010 EU/1/08/445/011 Tevagrastim 48 MIU/0.8 mL solution for injection/infusion
 ```
+
+EU/1/08/445/005 EU/1/08/445/006 EU/1/08/445/007 EU/1/08/445/008 EU/1/08/445/012
+
+EU/1/08/445/013
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+EU/1/08/445/014
+
+9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 15 September 2008.
 
 Date of latest renewal: 19 July 2013.
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 21
 
@@ -757,7 +768,9 @@ Outer Carton - Pre-filled Syringe
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tevagrastim 30 MIU/0.5 mL solution for injection/infusion filgrastim
+Tevagrastim 30 MIU/0.5 mL solution for injection/infusion
+
+filgrastim
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -769,7 +782,7 @@ Excipients: Sodium hydroxide, glacial acetic acid, sorbitol, polysorbate 80, wat
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection/infusion
+Solution for injection/infusion
 
 1 pre-filled syringe with 0.5 mL
 
@@ -799,43 +812,50 @@ EXP
 
 After dilution use within 24 hours.
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store in a refrigerator.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.                                                                     | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS           |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 TEVA GmbH Graf-Arco-Straße 3 89079 Ulm Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
-EU/1/08/445/001 1 pre-filled syringe EU/1/08/445/002 5 pre-filled syringes
+EU/1/08/445/001 1 pre-filled syringe EU/1/08/445/002 5 pre-filled syringes EU/1/08/445/004 10 pre-filled syringes
 
-EU/1/08/445/004 10 pre-filled syringes
-
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Tevagrastim 30 MIU/0.5 mL
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -847,7 +867,9 @@ Outer Carton - Pre-filled Syringe
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tevagrastim 48 MIU/0.8 mL solution for injection/infusion filgrastim
+Tevagrastim 48 MIU/0.8 mL solution for injection/infusion
+
+filgrastim
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -859,7 +881,7 @@ Excipients: Sodium hydroxide, glacial acetic acid, sorbitol, polysorbate 80, wat
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection/infusion
+Solution for injection/infusion
 
 1 pre-filled syringe with 0.8 mL
 
@@ -889,43 +911,54 @@ EXP
 
 After dilution use within 24 hours.
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store in a refrigerator.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.                                                                     | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS           |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-TEVA GmbH Graf-Arco-Straße 3 89079 Ulm Germany
+TEVA GmbH Graf-Arco-Straße 3 89079 Ulm
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Germany
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/08/445/005 1 pre-filled syringe EU/1/08/445/006 5 pre-filled syringes
 
 EU/1/08/445/008 10 pre-filled syringes
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Tevagrastim 48 MIU/0.8 mL
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -937,7 +970,9 @@ Outer Carton - Pre-filled syringe with a needle safety guard
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tevagrastim 30 MIU/0.5 mL solution for injection/infusion filgrastim
+Tevagrastim 30 MIU/0.5 mL solution for injection/infusion
+
+filgrastim
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -957,7 +992,7 @@ Excipients: Sodium hydroxide, glacial acetic acid, sorbitol, polysorbate 80, wat
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-## Read the package leaflet before use.
+Read the package leaflet before use.
 
 Subcutaneous use and intravenous use.
 
@@ -977,42 +1012,53 @@ EXP
 
 After dilution use within 24 hours.
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store in a refrigerator.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.                                                                     | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS           |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-TEVA GmbH Graf-Arco-Straße 3 89079 Ulm Germany
+TEVA GmbH Graf-Arco-Straße 3 89079 Ulm
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Germany
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/08/445/009 1 pre-filled syringe with a needle safety guard EU/1/08/445/010 5 pre-filled syringe with a needle safety guard
 
 EU/1/08/445/01110 pre-filled syringe with a needle safety guard
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Tevagrastim 30 MIU/0.5 mL
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1024,7 +1070,9 @@ Outer Carton - Pre-filled syringe with a needle safety guard
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tevagrastim 48 MIU/0.8 mL solution for injection/infusion filgrastim
+Tevagrastim 48 MIU/0.8 mL solution for injection/infusion
+
+filgrastim
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1044,7 +1092,7 @@ Excipients: Sodium hydroxide, glacial acetic acid, sorbitol, polysorbate 80, wat
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-## Read the package leaflet before use.
+Read the package leaflet before use.
 
 Subcutaneous use and intravenous use.
 
@@ -1092,14 +1140,15 @@ Lot
 
 Tevagrastim 48 MIU/0.8 mL
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1111,7 +1160,9 @@ Outer Wrapper Label on Multipacks - With Blue Box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tevagrastim 30 MIU/0.5 mL solution for injection/infusion filgrastim
+Tevagrastim 30 MIU/0.5 mL solution for injection/infusion
+
+filgrastim
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1154,11 +1205,12 @@ After dilution use within 24 hours.
 
 Store in a refrigerator.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
+| 10.                                                                     | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS           |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 TEVA GmbH Graf-Arco-Straße 3 89079 Ulm Germany
 
@@ -1186,12 +1238,10 @@ Lot
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
-
-39
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1201,7 +1251,9 @@ Outer Wrapper Label on Multipacks - With Blue Box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tevagrastim 48 MIU/0.8 mL solution for injection/infusion filgrastim
+Tevagrastim 48 MIU/0.8 mL solution for injection/infusion
+
+filgrastim
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1213,7 +1265,7 @@ Excipients: Sodium hydroxide, glacial acetic acid, sorbitol, polysorbate 80, wat
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection/infusion
+Solution for injection/infusion
 
 Multipack: 10 (2 packs of 5) pre-filled syringes containing 0.8 mL.
 
@@ -1244,11 +1296,12 @@ After dilution use within 24 hours.
 
 Store in a refrigerator.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
+| 10.                                                                     | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS           |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 TEVA GmbH Graf-Arco-Straße 3 89079 Ulm Germany
 
@@ -1276,8 +1329,8 @@ Lot
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1291,7 +1344,9 @@ Multipack Carton - Without Blue Box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tevagrastim 30 MIU/0.5 mL solution for injection/infusion filgrastim
+Tevagrastim 30 MIU/0.5 mL solution for injection/infusion
+
+filgrastim
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1303,7 +1358,7 @@ Excipients: Sodium hydroxide, glacial acetic acid, sorbitol, polysorbate 80, wat
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection/infusion
+Solution for injection/infusion
 
 5 pre-filled syringes containing 0.5 mL. Component of a multipack, cannot be sold separately.
 
@@ -1334,11 +1389,12 @@ After dilution use within 24 hours.
 
 Store in a refrigerator.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
+| 10.                                                                     | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS           |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 TEVA GmbH Graf-Arco-Straße 3 89079 Ulm Germany
 
@@ -1366,8 +1422,8 @@ Tevagrastim 30 MIU/0.5 mL
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1377,7 +1433,9 @@ Multipack Carton - Without Blue Box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tevagrastim 48 MIU/0.8 mL solution for injection/infusion filgrastim
+Tevagrastim 48 MIU/0.8 mL solution for injection/infusion
+
+filgrastim
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1389,7 +1447,7 @@ Excipients: Sodium hydroxide, glacial acetic acid, sorbitol, polysorbate 80, wat
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection/infusion
+Solution for injection/infusion
 
 5 pre-filled syringes containing 0.8 mL. Component of a multipack, cannot be sold separately.
 
@@ -1420,11 +1478,12 @@ After dilution use within 24 hours.
 
 Store in a refrigerator.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
-|-------|-----------------------------------------------------------------|
+| 10.                                                                     | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS           |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 TEVA GmbH Graf-Arco-Straße 3 89079 Ulm Germany
 
@@ -1452,64 +1511,80 @@ Tevagrastim 48 MIU/0.8 mL
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Pre-filled syringe
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| Pre-filled syringe                                                 |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Tevagrastim 30 MIU/0.5 mL solution for injection/infusion
 
 filgrastim
 
-SC IV
+SC
 
-## 2. METHOD OF ADMINISTRATION
+IV
 
-## 3. EXPIRY DATE
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Pre-filled syringe
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| Pre-filled syringe                                                 |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Tevagrastim 48 MIU/0.8 mL solution for injection/infusion
+Tevagrastim 48 MIU/0.8 mL solution for injection/infusion filgrastim SC
 
-filgrastim
+IV
 
-SC IV
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 2. METHOD OF ADMINISTRATION
-
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.8 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1525,10 +1600,10 @@ filgrastim
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1553,11 +1628,11 @@ A reduction in the number of white blood cells (neutropenia) can occur for sever
 
 ## Tevagrastim can be used
 
-- -to increase the number of white blood cells after treatment with chemotherapy to help prevent infections.
-- -to increase the number of white blood cells after a bone marrow transplant to help prevent infections.
-- -before high-dose chemotherapy to make the bone marrow produce more stem cells which can be collected and given back to you after your treatment. These can be taken from you or from a donor. The stem cells will then go back into the bone marrow and produce blood cells.
-- -to increase the number of white blood cells if you suffer from severe chronic neutropenia to help prevent infections.
-- -in patients with advanced HIV infection which will help reduce the risk of infections.
+- to increase the number of white blood cells after treatment with chemotherapy to help prevent infections.
+- to increase the number of white blood cells after a bone marrow transplant to help prevent infections.
+- before high-dose chemotherapy to make the bone marrow produce more stem cells which can be collected and given back to you after your treatment. These can be taken from you or from a donor. The stem cells will then go back into the bone marrow and produce blood cells.
+- to increase the number of white blood cells if you suffer from severe chronic neutropenia to help prevent infections.
+- in patients with advanced HIV infection which will help reduce the risk of infections.
 
 ## 2. What you need to know before you use Tevagrastim
 
@@ -1565,7 +1640,7 @@ A reduction in the number of white blood cells (neutropenia) can occur for sever
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you are allergic to filgrastim or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to filgrastim or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -1573,16 +1648,16 @@ Talk to your doctor, pharmacist or nurse before using Tevagrastim.
 
 Please tell your doctor before starting treatment, if you have
 
-- -sickle cell anaemia, as this medicine may cause sickle cell crisis
-- -osteoporosis (bone disease).
+- sickle cell anaemia, as this medicine may cause sickle cell crisis
+- osteoporosis (bone disease).
 
-Talk to your doctor immediately during treatment with Tevagrastim, if you :
+Talk to your doctor immediately during treatment with Tevagrastim, if you:
 
-- -have sudden signs of allergy such as rash, itching or hives on the skin, swelling of the face, lips, tongue or other parts of the body, shortness of breath, wheezing or trouble breathing as these could be signs of a severe allergic reaction (hypersensitivity).
-- -experience puffiness in your face or ankles, blood in your urine or brown-coloured urine or you notice you urinate less than usual (glomerulonephritis).
-- -get left upper belly (abdominal) pain, pain below the left rib cage or at the tip of your left shoulder (these may be symptoms of an enlarged spleen (splenomegaly), or possibly rupture of the spleen).
-- -notice unusual bleeding or bruising (these may be symptoms of a decrease in blood platelets (thrombocytopenia), with a reduced ability of your blood to clot).
-- -have symptoms of inflammation of aorta (the large blood vessel which transports blood from the heart to the body), this has been reported rarely in cancer patients and healthy donors. The symptoms can include fever, abdominal pain, malaise, back pain and increased inflammatory markers. Tell your doctor if you experience those symptoms.
+- have sudden signs of allergy such as rash, itching or hives on the skin, swelling of the face, lips, tongue or other parts of the body, shortness of breath, wheezing or trouble breathing as these could be signs of a severe allergic reaction (hypersensitivity).
+- experience puffiness in your face or ankles, blood in your urine or brown-coloured urine or you notice you urinate less than usual (glomerulonephritis).
+- get left upper belly (abdominal) pain, pain below the left rib cage or at the tip of your left shoulder (these may be symptoms of an enlarged spleen (splenomegaly), or possibly rupture of the spleen).
+- notice unusual bleeding or bruising (these may be symptoms of a decrease in blood platelets (thrombocytopenia), with a reduced ability of your blood to clot).
+- have symptoms of inflammation of arteries (the large and medium blood vessels which transport blood from the heart to the body). Inflammation of the arteries, including the aorta (the largest artery), has been reported rarely in cancer patients and healthy donors. The symptoms can include fever, abdominal pain, malaise, back pain, headache and neck pain. Tell your doctor if you experience those symptoms.
 
 ## Loss of response to filgrastim
 
@@ -1610,9 +1685,10 @@ It is important to tell your doctor if you:
 
 - are pregnant or breast-feeding
 - think you may be pregnant
-- are planning to have a baby
 
 <div style=\"page-break-after: always\"></div>
+
+- are planning to have a baby
 
 If you become pregnant during Tevagrastim treatment, please inform your doctor.
 
@@ -1626,7 +1702,7 @@ Tevagrastim may have a minor influence on your ability to drive and use machines
 
 This medicine contains 50 mg sorbitol in each mL.
 
-For intravenous use
+## For intravenous use
 
 Sorbitol is a source of fructose. If you (or your child) have hereditary fructose intolerance (HFI), a rare genetic disorder, you (or your child) must not receive this medicine. Patients with HFI cannot break down fructose, which may cause serious side effects. You must tell your doctor before receiving this medicine if you (or your child) have HFI or if your child can no longer take sweet foods or drinks because they feel sick, vomit or get unpleasant effects such as bloating, stomach cramps or diarrhoea.
 
@@ -1636,9 +1712,9 @@ This medicine contains less than 1 mmol sodium (23 mg) per pre-filled syringe, i
 
 ## 3. How to use Tevagrastim
 
-Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
+Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor, pharmacist or nurse if you are not sure.
 
-## How is Tevagrastim given and much should I take?
+## How is Tevagrastim given and how much should I take?
 
 Tevagrastim is usually given as a daily injection into the tissue just under the skin (known as a subcutaneous injection). It can also be given as a daily slow injection into the vein (known as an intravenous infusion). The usual dose varies depending on your illness and weight. Your doctor will tell you how much Tevagrastim you should take.
 
@@ -1672,40 +1748,46 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Important side effects
+## Please tell your doctor immediately during treatment:
 
-It is important to contact your doctor immediately
+- if you experience an allergic reaction including weakness, drop in blood pressure, difficulty breathing, swelling of the face (anaphylaxis), skin rash, itchy rash (urticaria), swelling of the face, lips, mouth, tongue or throat (angioedema) and shortness of breath (dyspnoea).
+- if you experience a cough, fever and difficulty breathing (dyspnoea) as this can be a sign of Acute Respiratory Distress Syndrome (ARDS).
+- if you experience kidney injury (glomerulonephritis). Kidney injury has been seen in patients who received filgrastim. Call your doctor right away if you experience puffiness in your face or ankles, blood in your urine or brown-coloured urine or you notice you urinate less than usual.
+- if you have any of the following or combination of the following side effects:
 
-- -if you experience an allergic reaction including weakness, drop in blood pressure, difficulty breathing, swelling of the face (anaphylaxis), skin rash, itchy rash (urticaria), swelling of the face lips, mouth, tongue or throat (angioedema) and shortness of breath (dyspnoea).
-- -if you experience a cough, fever and difficulty breathing (dyspnoea) as this can be a sign of Acute Respiratory Distress Syndrome (ARDS).
-- -if you experience kidney injury (glomerulonephritis). Kidney injury has been seen in patients who received filgrastim. Call your doctor right away if you experience puffiness in your face or ankles, blood in your urine or brown-coloured urine or you notice you urinate less than usual.
-- -if you have any of the following or combination of the following side effects:
-- swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness. These symptoms generally develop in a rapid fashion.
-- -
+·
 
-These could be symptoms of condition called 'capillary leak syndrome', which causes blood to leak from the small blood vessels into your body and needs urgent medical attention. if you have a combination of any of the following symptoms:
+swelling or puffiness, which may be associated with passing water less frequently,
+
+difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of
+
+tiredness. These symptoms generally develop in a rapid fashion.
+
+These could be symptoms of condition called \"capillary leak syndrome\" which causes blood to leak from the small blood vessels into your body and needs urgent medical attention. if you have a combination of any of the following symptoms:
 
 - fever, or shivering, or feeling very cold, high heart rate, confusion or disorientation, shortness of breath, extreme pain or discomfort and clammy or sweaty skin.
 
-These could be symptoms of a condition called 'sepsis' (also called \"blood poisoning\"), a severe infection with whole-body inflammatory response which can be life-threatening and needs urgent medical attention.
+These could be symptoms of a condition called \"sepsis\" (also called \"blood poisoning\"), a severe infection with whole-body inflammatory response which can be life-threatening and needs urgent medical attention.
 
-- -if you get left upper belly (abdominal) pain, pain below the left rib cage or pain at the tip of your shoulder, as there may be a problem with your spleen (enlargement of the spleen (splenomegaly) or rupture of the spleen).
-- -if you are being treated for severe chronic neutropenia and you have blood in your urine (haematuria). Your doctor may regularly test your urine if you experience this side effect or if protein is found in your urine (proteinuria).
+- if you get left upper belly (abdominal) pain, pain below the left rib cage or pain at the tip of your shoulder, as there may be a problem with your spleen (enlargement of the spleen (splenomegaly) or rupture of the spleen).
+- if you are being treated for severe chronic neutropenia and you have blood in your urine (haematuria). Your doctor may regularly test your urine if you experience this side effect or if protein is found in your urine (proteinuria).
 
-A common side effect of Tevagrastim use is pain in your muscles or bones (musculoskeletal pain), which could be relieved by taking standard pain relief medicines (analgesics). In patients undergoing a stem cell or bone marrow transplant, Graft versus host disease (GvHD) may occur- this is a reaction of the donor cells against the patient receiving the transplant; signs and symptoms include rash on the palms of your hands or soles of your feet and ulcer and sores in your mouth, gut, liver, skin, or your eyes, lungs, vagina and joints.
+A common side effect of Tevagrastim use is pain in your muscles or bones (musculoskeletal pain), which can be helped by taking standard pain relief medicines (analgesics). In patients undergoing a stem cell or bone marrow transplant, Graft versus host disease (GvHD) may occur - this is a reaction of the donor cells against the patient receiving the transplant; signs and symptoms include rash on the palms of your hands or soles of your feet and ulcer and sores in your mouth, gut, liver, skin, or your eyes, lungs, vagina and joints.
 
 In normal stem cell donors an increase in white blood cells (leukocytosis) and a decrease of platelets may be seen this reduces the ability of your blood to clot (thrombocytopenia), these will be monitored by your doctor.
 
-## You may experience the following side effects :
+## You may experience the following side effects:
 
 Very common (may affect more than 1 in 10 people):
 
 - decrease of platelets which reduces the ability of blood to clot (thrombocytopenia)
 - low red blood cell count (anaemia)
+- headache
+
+-
 
 <div style=\"page-break-after: always\"></div>
 
-- headache
 - diarrhoea
 - vomiting
 - nausea
@@ -1759,10 +1841,10 @@ Very common (may affect more than 1 in 10 people):
 - abnormal x-rays of the lungs (lung infiltration)
 - bleeding from the lung (pulmonary haemorrhage)
 - lack of absorption of oxygen in the lung (hypoxia)
+- bumpy skin rash (rash maculo-papular)
 
 <div style=\"page-break-after: always\"></div>
 
-- bumpy skin rash (rash maculo-papular)
 - disease which causes bones to become less dense, making them weaker, more brittle and likely to break (osteoporosis)
 - injection site reaction
 
@@ -1777,7 +1859,7 @@ Rare (may affect up to 1 in 1,000 people):
 - worsening of rheumatoid arthritis
 - unusual change in the urine
 - bone density decreased
-- inflammation of aorta (the large blood vessel which transports blood from the heart to the body), see section 2
+- inflammation of arteries (the large and medium blood vessels which transport blood from the heart to the body), including the aorta (the largest artery). See section 2
 - formation of blood cells outside of the bone marrow (extramedullary haematopoiesis)
 
 ## Reporting of side effects
@@ -1790,26 +1872,29 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the outer carton and on the pre-filled syringe after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 ° C - 8 ° C).
+Store in a refrigerator (2 °C - 8 °C).
 
-Within its shelf-life and for ambulatory use, the product may be removed from the refrigerator (2 ° C - 8 ° C) and stored at a temperature up to 25 ° C for one single period of up to 4 days. If not used within 4 days, the product may be returned to the refrigerator (2 ° C - 8 ° C) up to the expiry date. Dispose of syringes if stored above 8 ° C for more than 4 days.
+Accidental freezing will not harm Tevagrastim.
+
+Within its shelf-life and for ambulatory use, the product may be removed from the refrigerator (2 °C - 8 °C) and stored at a temperature up to 25 °C for one single period of up to 4 days. If not used within 4 days, the product may be returned to the refrigerator (2 °C - 8 °C) up to the expiry date. Dispose of syringes if stored above 8 °C for more than 4 days.
 
 Do not use this medicine if you notice it is cloudy or there are particles in it.
 
-Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Tevagrastim contains
 
-- -The active substance is filgrastim. Each mL of solution for injection/infusion contains 60 million international units [MIU] (600 microgram) of filgrastim.
+- The active substance is filgrastim. Each mL of solution for injection/infusion contains 60 million international units [MIU] (600 microgram) of filgrastim.
 
 Tevagrastim 30 MIU/0.5 mL: Each pre-filled syringe contains 30 million international units [MIU] (300 microgram) of filgrastim in 0.5 mL solution.
 
 <div style=\"page-break-after: always\"></div>
 
-- Tevagrastim 48 MIU/0.8 mL: Each pre-filled syringe contains 48 million international units [MIU] (480 microgram) of filgrastim in 0.8 mL solution.
-- -The other ingredients are: Sodium hydroxide, glacial acetic acid, sorbitol, polysorbate 80, water for injections.
+Tevagrastim 48 MIU/0.8 mL: Each pre-filled syringe contains 48 million international units [MIU] (480 microgram) of filgrastim in 0.8 mL solution.
+
+- The other ingredients are: Sodium hydroxide, glacial acetic acid, sorbitol, polysorbate 80, water for injections.
 
 ## What Tevagrastim looks like and contents of the pack
 
@@ -1831,27 +1916,11 @@ For any information about this medicine, please contact the local representative
 
 Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
 
-## Lietuva
-
-UAB Teva Baltics
-
-Tel: +370 52660203
-
 ## България
 
 Тева Фарма ЕАД
 
-Тел
-
-.: +359 24899585
-
-## Luxembourg/Luxemburg
-
-Teva Pharma Belgium N.V./S.A./AG
-
-Belgique/Belgien
-
-Tél/Tel: +32 38207373
+Тел.: +359 24899585
 
 ## Česká republika
 
@@ -1859,25 +1928,11 @@ Teva Pharmaceuticals CR, s.r.o.
 
 Tel: +420 251007111
 
-## Magyarország
-
-Teva Gyógyszergyár Zrt.
-
-Tel.: +36 12886400
-
 ## Danmark
 
 Teva Denmark A/S
 
 Tlf.: +45 44985511
-
-## Malta
-
-Teva Pharmaceuticals Ireland
-
-L-Irlanda
-
-Tel: +44 2075407117
 
 ## Deutschland
 
@@ -1885,17 +1940,45 @@ TEVA GmbH
 
 Tel: +49 73140208
 
-## Nederland
-
-Teva Nederland B.V.
-
-Tel: +31 8000228400
-
 ## Eesti
 
 UAB Teva Baltics Eesti filiaal
 
 Tel: +372 6610801
+
+## Ελλάδα
+
+TEVA HELLAS Α.Ε.
+
+## Lietuva
+
+UAB Teva Baltics Tel: +370 52660203
+
+## Luxembourg/Luxemburg
+
+Teva Pharma Belgium N.V./S.A./AG
+
+Belgique/Belgien Tél/Tel: +32 38207373
+
+## Magyarország
+
+Teva Gyógyszergyár Zrt.
+
+Tel.: +36 12886400
+
+## Malta
+
+TEVA HELLAS Α.Ε.
+
+il-Greċja
+
+Tel: +30 2118805000
+
+## Nederland
+
+Teva Nederland B.V.
+
+Tel: +31 8000228400
 
 ## Norge
 
@@ -1903,27 +1986,19 @@ Teva Norway AS
 
 Tlf: +47 66775590
 
-## Ελλάδα
+## Österreich
 
-TEVA HELLAS Α.Ε.
+ratiopharm Arzneimittel Vertriebs-GmbH
 
 Τηλ: +30 2118805000
 
-## Österreich
-
-ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
+Tel: +43 1970070
 
 ## España
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
-
-## Polska
-
-Teva Pharmaceuticals Polska Sp. z o.o.
-
-Tel.: +48 223459300
+Tel: +34 915359180
 
 ## France
 
@@ -1931,23 +2006,11 @@ Teva Santé
 
 Tél: +33 155917800
 
-## Portugal
-
-Teva Pharma - Produtos Farmacêuticos, Lda.
-
-Tel: +351 214767550
-
 ## Hrvatska
 
 Pliva Hrvatska d.o.o.
 
 Tel: +385 13720000
-
-## România
-
-Teva Pharmaceuticals S.R.L.
-
-Tel: +40 212306524
 
 ## Ireland
 
@@ -1955,23 +2018,11 @@ Teva Pharmaceuticals Ireland
 
 Tel: +44 2075407117
 
-## Slovenija
-
-Pliva Ljubljana d.o.o.
-
-Tel: +386 15890390
-
 ## Ísland
 
 Teva Pharma Iceland ehf.
 
 Sími: +354 5503300
-
-## Slovenská republika
-
-TEVA Pharmaceuticals Slovakia s.r.o.
-
-Tel: +421 257267911
 
 ## Italia
 
@@ -1979,25 +2030,11 @@ Teva Italia S.r.l.
 
 Tel: +39 028917981
 
-## Suomi/Finland
-
-Teva Finland Oy
-
-Puh/Tel: +358 201805900
-
 ## Κύπρος
 
-TEVA HELLAS Α.Ε.
-
-Ελλάδα
+TEVA HELLAS Α.Ε. Ελλάδα
 
 Τηλ: +30 2118805000
-
-## Sverige
-
-Teva Sweden AB
-
-Tel: +46 42121100
 
 ## Latvija
 
@@ -2005,15 +2042,53 @@ UAB Teva Baltics filiāle Latvijā
 
 Tel: +371 67323666
 
-## United Kingdom (Northern Ireland)
+## Polska
 
-Teva Pharmaceuticals Ireland Ireland
+Teva Pharmaceuticals Polska Sp. z o.o.
+
+Tel.: +48 223459300
+
+## Portugal
+
+Teva Pharma - Produtos Farmacêuticos, Lda.
+
+Tel: +351 214767550
+
+## România
+
+Teva Pharmaceuticals S.R.L.
+
+Tel: +40 212306524
+
+## Slovenija
+
+Pliva Ljubljana d.o.o.
+
+Tel: +386 15890390
+
+## Slovenská republika
+
+TEVA Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 257267911
+
+## Suomi/Finland
+
+Teva Finland Oy
+
+Puh/Tel: +358 201805900
+
+## Sverige
+
+Teva Sweden AB
+
+Tel: +46 42121100
 
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in .
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## 7. Information for injecting yourself
 
@@ -2029,15 +2104,11 @@ You will need to give yourself the injection into the tissue just under the skin
 
 To give yourself a subcutaneous injection you will need:
 
-Teva Pharmaceuticals Ireland Ireland
-
-Tel: +44 2075407117
-
 <div style=\"page-break-after: always\"></div>
 
-- -a pre-filled syringe of Tevagrastim;
-- -alcohol wipes or similar;
-- -a puncture-proof container (plastic container provided by the hospital or pharmacy) so you can dispose of used syringes safely.
+- a pre-filled syringe of Tevagrastim;
+- alcohol wipes or similar;
+- a puncture-proof container (plastic container provided by the hospital or pharmacy) so you can dispose of used syringes safely.
 
 ## What should I do before I give myself a subcutaneous injection of Tevagrastim?
 
@@ -2060,9 +2131,9 @@ Before you inject Tevagrastim you must do the following:
 
 1
 
-2
-
 <!-- image -->
+
+2
 
 2. You may notice a small air bubble in the pre-filled syringe. If there are air bubbles present, gently tap the syringe with your fingers until the air bubbles rise to the top of the syringe. With the syringe pointing upwards, expel all air from the syringe by pushing the plunger upwards.
 3. The syringe has a scale on the syringe barrel. Push the plunger up to the number (mL) on the syringe that matches the dose of Tevagrastim that your doctor prescribed.
@@ -2073,16 +2144,14 @@ Before you inject Tevagrastim you must do the following:
 
 The most suitable places to inject yourself are:
 
-- -the top of your thighs; and
-- -the abdomen, except for the area around the navel (see picture 3).
+- the top of your thighs; and
+- the abdomen, except for the area around the navel (see picture 3).
 
 <div style=\"page-break-after: always\"></div>
 
-3
-
-4
-
 <!-- image -->
+
+3
 
 If someone else is injecting you, they can also use the back of your arms (see picture 4).
 
@@ -2106,10 +2175,10 @@ If you have any problems, please do not be afraid to ask your doctor or nurse fo
 
 ## Disposing of used syringes
 
-- -Do not put the cover back on used needles.
-- -Put used syringes into the puncture-proof container and keep this container out of the sight and reach of children.
-- -Dispose of the full puncture-proof container as instructed by your doctor, nurse or pharmacist.
-- -Never put the syringes that you have used into your normal household rubbish bin.
+- Do not put the cover back on used needles.
+- Put used syringes into the puncture-proof container and keep this container out of the sight and reach of children.
+- Dispose of the full puncture-proof container as instructed by your doctor, nurse or pharmacist.
+- Never put the syringes that you have used into your normal household rubbish bin.
 
 ## 8. The following information is intended for healthcare professionals only
 
@@ -2117,11 +2186,11 @@ Tevagrastim does not contain any preservative. In view of the possible risk of m
 
 Accidental exposure to freezing temperatures does not adversely affect the stability of Tevagrastim.
 
-<!-- image -->
-
 5
 
 6
+
+4
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2149,10 +2218,10 @@ filgrastim
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2177,11 +2246,11 @@ A reduction in the number of white blood cells (neutropenia) can occur for sever
 
 ## Tevagrastim can be used
 
-- -to increase the number of white blood cells after treatment with chemotherapy to help prevent infections.
-- -to increase the number of white blood cells after a bone marrow transplant to help prevent infections.
-- -before high-dose chemotherapy to make the bone marrow produce more stem cells which can be collected and given back to you after your treatment. These can be taken from you or from a donor. The stem cells will then go back into the bone marrow and produce blood cells.
-- -to increase the number of white blood cells if you suffer from severe chronic neutropenia to help prevent infections.
-- -in patients with advanced HIV infection which will help reduce the risk of infections.
+- to increase the number of white blood cells after treatment with chemotherapy to help prevent infections.
+- to increase the number of white blood cells after a bone marrow transplant to help prevent infections.
+- before high-dose chemotherapy to make the bone marrow produce more stem cells which can be collected and given back to you after your treatment. These can be taken from you or from a donor. The stem cells will then go back into the bone marrow and produce blood cells.
+- to increase the number of white blood cells if you suffer from severe chronic neutropenia to help prevent infections.
+- in patients with advanced HIV infection which will help reduce the risk of infections.
 
 ## 2. What you need to know before you use Tevagrastim
 
@@ -2189,7 +2258,7 @@ A reduction in the number of white blood cells (neutropenia) can occur for sever
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you are allergic to filgrastim or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to filgrastim or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -2197,16 +2266,16 @@ Talk to your doctor, pharmacist or nurse before using Tevagrastim
 
 Please tell your doctor before starting treatment, if you have
 
-- -sickle cell anaemia, as this medicine may cause sickle cell crisis
-- -osteoporosis (bone disease).
+- sickle cell anaemia, as this medicine may cause sickle cell crisis
+- osteoporosis (bone disease).
 
-Talk to your doctor immediately during treatment with Tevagrastim if you :
+Talk to your doctor immediately during treatment with Tevagrastim if you:
 
-- -have sudden signs of allergy such as rash, itching or hives on the skin, swelling of the face, lips, tongue or other parts of the body, shortness of breath, wheezing or trouble breathing as these could be signs of a severe allergic reaction (hypersensitivity).
-- -experience puffiness in your face or ankles, blood in your urine or brown-coloured urine or you notice you urinate less than usual (glomerulonephritis).
-- -get left upper belly (abdominal) pain, pain below the left rib cage or at the tip of your left shoulder (these may be symptoms of an enlarged spleen (splenomegaly), or possibly rupture of the spleen).
-- -notice unusual bleeding or bruising (these may be symptoms of a decrease in blood platelets (thrombocytopenia), with a reduced ability of your blood to clot).
-- -have symptoms of inflammation of aorta (the large blood vessel which transports blood from the heart to the body), this has been reported rarely in cancer patients and healthy donors. The symptoms can include fever, abdominal pain, malaise, back pain and increased inflammatory markers. Tell your doctor if you experience those symptoms.
+- have sudden signs of allergy such as rash, itching or hives on the skin, swelling of the face, lips, tongue or other parts of the body, shortness of breath, wheezing or trouble breathing as these could be signs of a severe allergic reaction (hypersensitivity).
+- experience puffiness in your face or ankles, blood in your urine or brown-coloured urine or you notice you urinate less than usual (glomerulonephritis).
+- get left upper belly (abdominal) pain, pain below the left rib cage or at the tip of your left shoulder (these may be symptoms of an enlarged spleen (splenomegaly), or possibly rupture of the spleen).
+- notice unusual bleeding or bruising (these may be symptoms of a decrease in blood platelets (thrombocytopenia), with a reduced ability of your blood to clot).
+- have symptoms of inflammation of arteries (the large and medium blood vessels which transport blood from the heart to the body). Inflammation of the arteries, including the aorta (the largest artery), has been reported rarely in cancer patients and healthy donors. The symptoms can include fever, abdominal pain, malaise, back pain, headache and neck pain. Tell your doctor if you experience those symptoms.
 
 ## Loss of response to filgrastim
 
@@ -2234,10 +2303,9 @@ Tevagrastim is not recommended during pregnancy.
 
 It is important to tell your doctor if you:
 
-- are pregnant or breast-feeding,
-
 <div style=\"page-break-after: always\"></div>
 
+- are pregnant or breast-feeding,
 - think you may be pregnant or
 - are planning to have a baby
 
@@ -2263,9 +2331,9 @@ This medicine contains less than 1 mmol sodium (23 mg) per pre-filled syringe, i
 
 ## 3. How to use Tevagrastim
 
-Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
+Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor pharmacist or nurse if you are not sure.
 
-## How is Tevagrastim given and much should I take?
+## How is Tevagrastim given and how much should I take?
 
 Tevagrastim is usually given as a daily injection into the tissue just under the skin (known as a subcutaneous injection). It can also be given as a daily slow injection into the vein (known as an intravenous infusion). The usual dose varies depending on your illness and weight. Your doctor will tell you how much Tevagrastim you should take.
 
@@ -2299,38 +2367,41 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Important side effects
+## Please tell your doctor immediately during treatment:
 
-It is important to contact your doctor immediately
-
-- -if you experience an allergic reaction including weakness, drop in blood pressure, difficulty breathing, swelling of the face (anaphylaxis), skin rash, itchy rash (urticaria), swelling of the face lips, mouth, tongue or throat (angioedema) and shortness of breath (dyspnoea).
-- -if you experience a cough, fever and difficulty breathing (dyspnoea) as this can be a sign of Acute Respiratory Distress Syndrome (ARDS).
-- -if you experience kidney injury (glomerulonephritis). Kidney injury has been seen in patients who received filgrastim. Call your doctor right away if you experience puffiness in your face or ankles, blood in your urine or brown-coloured urine or you notice you urinate less than usual.
-- -if you have any of the following or combination of the following side effects:
-- swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness. These symptoms generally develop in a rapid fashion.
+- if you experience an allergic reaction including weakness, drop in blood pressure, difficulty breathing, swelling of the face (anaphylaxis), skin rash, itchy rash (urticaria), swelling of the face lips, mouth, tongue or throat (angioedema) and shortness of breath (dyspnoea).
+- if you experience a cough, fever and difficulty breathing (dyspnoea) as this can be a sign of Acute Respiratory Distress Syndrome (ARDS).
+- if you experience kidney injury (glomerulonephritis). Kidney injury has been seen in patients who received filgrastim. Call your doctor right away if you experience puffiness in your face or ankles, blood in your urine or brown-coloured urine or you notice you urinate less than usual.
 
 -
 
-These could be symptoms of condition called 'capillary leak syndrome', which causes blood to leak from the small blood vessels into your body and needs urgent medical attention. if you have a combination of any of the following symptoms:
+- if you have any of the following or combination of the following side effects:
+
+-
+
+- swelling or puffiness, which may be associated with passing water less frequently, difficulty breathing, abdominal swelling and feeling of fullness, and a general feeling of tiredness. These symptoms generally develop in a rapid fashion.
+
+These could be symptoms of condition called \"capillary leak syndrome\", which causes blood to leak from the small blood vessels into your body and needs urgent medical attention. if you have a combination of any of the following symptoms:
 
 - fever, or shivering, or feeling very cold, high heart rate, confusion or disorientation, shortness of breath, extreme pain or discomfort and clammy or sweaty skin.
 
-These could be symptoms of a condition called 'sepsis' (also called \"blood poisoning\"), a severe infection with whole-body inflammatory response which can be life-threatening and needs urgent medical attention.
+These could be symptoms of a condition called \"sepsis\" (also called \"blood poisoning\"), a severe infection with whole-body inflammatory response which can be life-threatening and needs urgent medical attention.
 
-- -if you get left upper belly (abdominal) pain, pain below the left rib cage or pain at the tip of your shoulder, as there may be a problem with your spleen (enlargement of the spleen (splenomegaly) or rupture of the spleen).
-- -if you are being treated for severe chronic neutropenia and you have blood in your urine (haematuria). Your doctor may regularly test your urine if you experience this side effect or if protein is found in your urine (proteinuria).
+- if you get left upper belly (abdominal) pain, pain below the left rib cage or pain at the tip of your shoulder, as there may be a problem with your spleen (enlargement of the spleen (splenomegaly) or rupture of the spleen).
+- if you are being treated for severe chronic neutropenia and you have blood in your urine (haematuria). Your doctor may regularly test your urine if you experience this side effect or if protein is found in your urine (proteinuria).
 
-A common side effect of Tevagrastim use is pain in your muscles or bones (musculoskeletal pain), which could be relieved by taking standard pain relief medicines (analgesics). In patients undergoing a stem cell or bone marrow transplant, Graft versus host disease (GvHD) may occur- this is a reaction of the donor cells against the patient receiving the transplant; signs and symptoms include rash on the palms of your hands or soles of your feet and ulcer and sores in your mouth, gut, liver, skin, or your eyes, lungs, vagina and joints.
+A common side effect of Tevagrastim use is pain in your muscles or bones (musculoskeletal pain), which can be helped by taking standard pain relief medicines (analgesics). In patients undergoing a stem cell or bone marrow transplant, Graft versus host disease (GvHD) may occur- this is a reaction of the donor cells against the patient receiving the transplant; signs and symptoms include rash on the palms of your hands or soles of your feet and ulcer and sores in your mouth, gut, liver, skin, or your eyes, lungs, vagina and joints.
 
 In normal stem cell donors an increase in white blood cells (leukocytosis) and a decrease of platelets may be seen this reduces the ability of your blood to clot (thrombocytopenia), these will be monitored by your doctor.
 
-You may experience the following side effects :
-
-<div style=\"page-break-after: always\"></div>
+## You may experience the following side effects:
 
 Very common (may affect more than 1 in 10 people):
 
 - decrease of platelets which reduces the ability of blood to clot (thrombocytopenia)
+
+<div style=\"page-break-after: always\"></div>
+
 - low red blood cell count (anaemia)
 - headache
 - diarrhoea
@@ -2341,7 +2412,7 @@ Very common (may affect more than 1 in 10 people):
 - soreness and swelling of the digestive tract lining which runs from the mouth to the anus (mucosal inflammation)
 - fever (pyrexia)
 
-Common (may affect up to 1 in 10 people):
+## Common (may affect up to 1 in 10 people):
 
 - inflammation of the lung (bronchitis)
 - upper respiratory tract infection
@@ -2373,7 +2444,7 @@ Common (may affect up to 1 in 10 people):
 - changes in blood chemistry
 - transfusion reaction
 
-Uncommon (may affect up to 1 in 100 people):
+## Uncommon (may affect up to 1 in 100 people):
 
 - increase in white blood cells (leukocytosis)
 - allergic reaction (hypersensitivity)
@@ -2383,11 +2454,11 @@ Uncommon (may affect up to 1 in 100 people):
 - lungs do not function as they should, causing breathlessness (respiratory failure)
 - swelling and/or fluid in the lungs (pulmonary oedema)
 - inflammation of the lungs (interstitial lung disease)
+- abnormal x-rays of the lungs (lung infiltration)
+- bleeding from the lung (pulmonary haemorrhage)
 
 <div style=\"page-break-after: always\"></div>
 
-- abnormal x-rays of the lungs (lung infiltration)
-- bleeding from the lung (pulmonary haemorrhage)
 - lack of absorption of oxygen in the lung (hypoxia)
 - bumpy skin rash (rash maculo-papular)
 - disease which causes bones to become less dense, making them weaker, more brittle and likely to break (osteoporosis)
@@ -2404,7 +2475,7 @@ Rare (may affect up to 1 in 1,000 people):
 - worsening of rheumatoid arthritis
 - unusual change in the urine
 - bone density decreased
-- inflammation of aorta (the large blood vessel which transports blood from the heart to the body), see section 2
+- inflammation of arteries (the large and medium blood vessels which transport blood from the heart to the body), including the aorta (the largest artery). See section 2
 - formation of blood cells outside of the bone marrow (extramedullary haematopoiesis)
 
 ## Reporting of side effects
@@ -2417,19 +2488,21 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the outer carton and on the pre-filled syringe after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 ° C - 8 ° C).
+Store in a refrigerator (2 °C - 8 °C).
 
-Within its shelf-life and for ambulatory use, the product may be removed from the refrigerator (2 ° C - 8 ° C) and stored at a temperature up to 25 ° C for one single period of up to 4 days. If not used within 4 days, the product may be returned to the refrigerator (2 ° C - 8 ° C) up to the expiry date. Dispose of syringes if stored above 8 ° C for more than 4 days.
+Accidental freezing will not harm Tevagrastim.
+
+Within its shelf-life and for ambulatory use, the product may be removed from the refrigerator (2 °C - 8 °C) and stored at a temperature up to 25 °C for one single period of up to 4 days. If not used within 4 days, the product may be returned to the refrigerator (2 °C - 8 °C) up to the expiry date. Dispose of syringes if stored above 8 °C for more than 4 days.
 
 Do not use this medicine if you notice it is cloudy or there are particles in it.
 
-Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Tevagrastim contains
 
-- -The active substance is filgrastim. Each mL of solution for injection/infusion contains 60 million international units [MIU] (600 microgram) of filgrastim.
+- The active substance is filgrastim. Each mL of solution for injection/infusion contains 60 million international units [MIU] (600 microgram) of filgrastim.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2437,7 +2510,7 @@ Tevagrastim 30 MIU/0.5 mL: Each pre-filled syringe contains 30 million internati
 
 Tevagrastim 48 MIU/0.8 mL: Each pre-filled syringe contains 48 million international units [MIU] (480 microgram) of filgrastim in 0.8 mL solution.
 
-- -The other ingredients are: Sodium hydroxide, glacial acetic acid, sorbitol, polysorbate 80, water for injections.
+- The other ingredients are: Sodium hydroxide, glacial acetic acid, sorbitol, polysorbate 80, water for injections.
 
 ## What Tevagrastim looks like and contents of the pack
 
@@ -2459,21 +2532,11 @@ For any information about this medicine, please contact the local representative
 
 Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
 
-## Lietuva
-
-UAB Teva Baltics Tel: +370 52660203
-
 ## България
 
 Тева Фарма ЕАД
 
-Тел
-
-.: +359 24899585
-
-## Luxembourg/Luxemburg
-
-Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien Tél/Tel: +32 38207373
+Тел.: +359 24899585
 
 ## Česká republika
 
@@ -2481,25 +2544,11 @@ Teva Pharmaceuticals CR, s.r.o.
 
 Tel: +420 251007111
 
-## Magyarország
-
-Teva Gyógyszergyár Zrt.
-
-Tel.: +36 12886400
-
 ## Danmark
 
 Teva Denmark A/S
 
 Tlf.: +45 44985511
-
-## Malta
-
-Teva Pharmaceuticals Ireland
-
-L-Irlanda
-
-Tel: +44 2075407117
 
 ## Deutschland
 
@@ -2507,17 +2556,39 @@ TEVA GmbH
 
 Tel: +49 73140208
 
-## Nederland
-
-Teva Nederland B.V.
-
-Tel: +31 8000228400
-
 ## Eesti
 
 UAB Teva Baltics Eesti filiaal
 
 Tel: +372 6610801
+
+## Lietuva
+
+UAB Teva Baltics Tel: +370 52660203
+
+## Luxembourg/Luxemburg
+
+Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien Tél/Tel: +32 38207373
+
+## Magyarország
+
+Teva Gyógyszergyár Zrt.
+
+Tel.: +36 12886400
+
+## Malta
+
+TEVA HELLAS Α.Ε.
+
+il-Greċja
+
+Tel: +30 2118805000
+
+## Nederland
+
+Teva Nederland B.V.
+
+Tel: +31 8000228400
 
 ## Norge
 
@@ -2529,25 +2600,15 @@ Tlf: +47 66775590
 
 ## Österreich
 
-## TEVA HELLAS Α.Ε.
+TEVA HELLAS Α.Ε.
 
 Τηλ: +30 2118805000
-
-ratiopharm Arzneimittel Vertriebs-GmbH
-
-Tel: +43 1970070
 
 ## España
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
-
-## Polska
-
-Teva Pharmaceuticals Polska Sp. z o.o.
-
-Tel.: +48 223459300
+Tel: +34 915359180
 
 ## France
 
@@ -2555,23 +2616,11 @@ Teva Santé
 
 Tél: +33 155917800
 
-## Portugal
-
-Teva Pharma - Produtos Farmacêuticos, Lda.
-
-Tel: +351 214767550
-
 ## Hrvatska
 
 Pliva Hrvatska d.o.o.
 
 Tel: +385 13720000
-
-## România
-
-Teva Pharmaceuticals S.R.L.
-
-Tel: +40 212306524
 
 ## Ireland
 
@@ -2579,21 +2628,11 @@ Teva Pharmaceuticals Ireland
 
 Tel: +44 2075407117
 
-## Slovenija
-
-Pliva Ljubljana d.o.o. Tel: +386 15890390
-
 ## Ísland
 
 Teva Pharma Iceland ehf.
 
 Sími: +354 5503300
-
-## Slovenská republika
-
-TEVA Pharmaceuticals Slovakia s.r.o.
-
-Tel: +421 257267911
 
 ## Italia
 
@@ -2601,23 +2640,13 @@ Teva Italia S.r.l.
 
 Tel: +39 028917981
 
-## Suomi/Finland
-
-Teva Finland Oy
-
-Puh/Tel: +358 201805900
-
 ## Κύπρος
 
-TEVA HELLAS Α.Ε. Ελλάδα
+TEVA HELLAS Α.Ε.
+
+Ελλάδα
 
 Τηλ: +30 2118805000
-
-## Sverige
-
-Teva Sweden AB
-
-Tel: +46 42121100
 
 ## Latvija
 
@@ -2625,17 +2654,55 @@ UAB Teva Baltics filiāle Latvijā
 
 Tel: +371 67323666
 
-## United Kingdom (Northern Ireland)
+ratiopharm Arzneimittel Vertriebs-GmbH
 
-Teva Pharmaceuticals Ireland Ireland
+Tel: +43 1970070
+
+## Polska
+
+Teva Pharmaceuticals Polska Sp. z o.o.
+
+Tel.: +48 223459300
+
+## Portugal
+
+Teva Pharma - Produtos Farmacêuticos, Lda.
+
+Tel: +351 214767550
+
+## România
+
+Teva Pharmaceuticals S.R.L.
+
+Tel: +40 212306524
+
+## Slovenija
+
+Pliva Ljubljana d.o.o. Tel: +386 15890390
+
+## Slovenská republika
+
+TEVA Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 257267911
+
+## Suomi/Finland
+
+Teva Finland Oy
+
+Puh/Tel: +358 201805900
+
+## Sverige
+
+Teva Sweden AB
+
+Tel: +46 42121100
 
 <div style=\"page-break-after: always\"></div>
 
-Tel: +44 2075407117
-
 ## This leaflet was last revised in .
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## 7. Information for injecting yourself
 
@@ -2649,10 +2716,11 @@ You will need to give yourself the injection into the tissue just under the skin
 
 To give yourself a subcutaneous injection you will need:
 
+- a pre-filled syringe of Tevagrastim;
+
 <div style=\"page-break-after: always\"></div>
 
-- -a pre-filled syringe of Tevagrastim;
-- -alcohol wipes or similar.
+- alcohol wipes or similar.
 
 ## What should I do before I give myself a subcutaneous injection of Tevagrastim?
 
@@ -2675,6 +2743,8 @@ Before you inject Tevagrastim you must do the following:
 
 1
 
+<!-- image -->
+
 2
 
 2. You may notice a small air bubble in the pre-filled syringe. If there are air bubbles present, gently tap the syringe with your fingers until the air bubbles rise to the top of the syringe. With the syringe pointing upwards, expel all air from the syringe by pushing the plunger upwards.
@@ -2686,16 +2756,12 @@ Before you inject Tevagrastim you must do the following:
 
 The most suitable places to inject yourself are:
 
-- -the top of your thighs; and
-- -the abdomen, except for the area around the navel (see picture 3).
+- the top of your thighs; and
+- the abdomen, except for the area around the navel (see picture 3).
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 3
-
-4
 
 <!-- image -->
 
@@ -2719,6 +2785,8 @@ It is better to change the injection site every day to avoid the risk of sorenes
 
 <!-- image -->
 
+4
+
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
@@ -2729,7 +2797,7 @@ If you have any problems, please do not be afraid to ask your doctor or nurse fo
 
 ## Disposing of used syringes
 
-- -The needle safety guard prevents needle stick injuries after use, so no special precautions for disposal are required. Dispose of the syringe as instructed by your doctor, nurse or pharmacist.
+- The needle safety guard prevents needle stick injuries after use, so no special precautions for disposal are required. Dispose of the syringe as instructed by your doctor, nurse or pharmacist.
 
 ## 8. The following information is intended for healthcare professionals only
 

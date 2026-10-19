@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:45:01
+document_datetime: 2026-10-16 14:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/afstyla.html
 document_name: afstyla.html
 version: success
-processing_time: 0.1152825
-conversion_datetime: 2025-12-31 01:46:17.465529
+processing_time: 0.1979213
+conversion_datetime: 2026-10-19 23:41:15.069782
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Afstyla
 
 [RSS](/en/individual-human-medicine.xml/66070)
 
-##### Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-lonoctocog alfa Medicine Human Authorised
+lonoctocog alfa
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -55,23 +55,23 @@ Expand section
 
 Collapse section
 
-## What is Afstyla and what is it used for?
+### What is Afstyla and what is it used for?
 
 Afstyla is a medicine used for the treatment and prevention of bleeding in patients with haemophilia A (an inherited bleeding disorder caused by lack of a clotting protein called factor VIII). It contains the active substance lonoctocog alfa.
 
-## How is Afstyla used?
+### How is Afstyla used?
 
 Afstyla is available as a powder and solvent used to make a solution for injection. The injection is given into a vein over several minutes. The dose and frequency of the injections depend on whether Afstyla is used to treat or prevent bleeding, the severity of the patient's factor VIII deficiency, the extent and location of the bleeding and the patient's condition and bodyweight.
 
 Afstyla can only be obtained with a prescription and treatment should be under the supervision of a doctor who has experience in the treatment of haemophilia. For further information, see the package leaflet.
 
-## How does Afstyla work?
+### How does Afstyla work?
 
 Patients with haemophilia A lack factor VIII, a protein needed for normal clotting of the blood, and as a result, they bleed readily.
 
 The active substance in Afstyla, lonoctocog alfa, is a shorter version of human factor VIII that works in the body in the same way as human factor VIII. It replaces the missing factor VIII, thereby helping the blood to clot and giving temporary control of bleeding.
 
-## What benefits of Afstyla have been shown in studies?
+### What benefits of Afstyla have been shown in studies?
 
 Afstyla has been shown to be effective at preventing and treating bleeding episodes in two main studies in patients with severe haemophilia A who were previously treated with other factor VIII products.
 
@@ -79,7 +79,7 @@ The first study involved 173 patients aged 12 years and above. A total of 848 bl
 
 The second study involved 83 patients below 12 years of age. Afstyla was rated as 'excellent' or 'good' at treating 96% of the 347 bleeding episodes recorded during the study; 96% of bleeding episodes resolved with one or two injections of Afstyla. Among those patients who received Afstyla to prevent bleeding, the average number of bleeding episodes per year was 2.30 for patients receiving Afstyla three times a week, and 4.37 for those receiving Afstyla twice a week.
 
-## What are the risks associated with Afstyla?
+### What are the risks associated with Afstyla?
 
 Hypersensitivity (allergic) reactions are common with Afstyla, affecting up to 1 in 10 people. They may include: angioedema (swelling of tissues under the skin), burning and stinging at the injection site, chills, flushing, itchy rash over the whole body, headache, hives, hypotension (low blood pressure), lethargy, nausea (feeling sick), restlessness, tachycardia (rapid heartbeat), tightness of the chest, tingling, vomiting and wheezing. In some cases these reactions can become severe.
 
@@ -89,17 +89,17 @@ Afstyla must not be used in patients with known allergy to hamster proteins.
 
 For the full list of all side effects and restrictions, see the package leaflet.
 
-## Why is Afstyla approved?
+### Why is Afstyla approved?
 
 Afstyla has been shown to be effective in both preventing and treating bleeding episodes. Regarding safety, the reported side effects are in line with those expected for a factor VIII product, although hypersensitivity reactions occurred more frequently with Afstyla. Further safety data should be provided by ongoing studies.
 
 The Agency's Committee for Medicinal Products for Human Use (CHMP) decided that Afstyla's benefits are greater than its risks and recommended that it be approved for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Afstyla?
+### What measures are being taken to ensure the safe and effective use of Afstyla?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Afstyla have been included in the summary of product characteristics and the package leaflet.
 
-## Other information about Afstyla
+### Other information about Afstyla
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Afstyla on 4 January 2017.
 
@@ -111,275 +111,141 @@ Reference Number: EMEA/H/C/004075
 
 English (EN) (75.85 KB - PDF)
 
-**First published:** 30/03/2017
-
-**Last updated:** 30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/en/documents/overview/afstyla-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-826)
+[Other languages (22)](#file-language-dropdown-688)
 
 български (BG) (101.96 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/bg/documents/overview/afstyla-epar-summary-public_bg.pdf)
 
 español (ES) (75.78 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/es/documents/overview/afstyla-epar-summary-public_es.pdf)
 
 čeština (CS) (101.08 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/cs/documents/overview/afstyla-epar-summary-public_cs.pdf)
 
 dansk (DA) (75.28 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/da/documents/overview/afstyla-epar-summary-public_da.pdf)
 
 Deutsch (DE) (76.76 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/de/documents/overview/afstyla-epar-summary-public_de.pdf)
 
-eesti keel (ET) (74.53 KB - PDF)
+eesti (ET) (74.53 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/et/documents/overview/afstyla-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (104.42 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/el/documents/overview/afstyla-epar-summary-public_el.pdf)
 
 français (FR) (76.8 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/fr/documents/overview/afstyla-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (97.07 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/hr/documents/overview/afstyla-epar-summary-public_hr.pdf)
 
 italiano (IT) (75.14 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/it/documents/overview/afstyla-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (99.89 KB - PDF)
+latviešu (LV) (99.89 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/lv/documents/overview/afstyla-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (100.33 KB - PDF)
+lietuvių (LT) (100.33 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/lt/documents/overview/afstyla-epar-summary-public_lt.pdf)
 
 magyar (HU) (95.71 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/hu/documents/overview/afstyla-epar-summary-public_hu.pdf)
 
 Malti (MT) (102.36 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/mt/documents/overview/afstyla-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (75.33 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/nl/documents/overview/afstyla-epar-summary-public_nl.pdf)
 
 polski (PL) (101.69 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/pl/documents/overview/afstyla-epar-summary-public_pl.pdf)
 
 português (PT) (75.83 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/pt/documents/overview/afstyla-epar-summary-public_pt.pdf)
 
 română (RO) (98.45 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/ro/documents/overview/afstyla-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (100.66 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/sk/documents/overview/afstyla-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (94.61 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/sl/documents/overview/afstyla-epar-summary-public_sl.pdf)
 
-Suomi (FI) (74.96 KB - PDF)
+suomi (FI) (74.96 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/fi/documents/overview/afstyla-epar-summary-public_fi.pdf)
 
 svenska (SV) (75.03 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/sv/documents/overview/afstyla-epar-summary-public_sv.pdf)
 
@@ -395,311 +261,168 @@ English (EN) (237.26 KB - PDF)
 
 Afstyla : EPAR - Product information
 
-English (EN) (354.92 KB - PDF)
+English (EN) (532.55 KB - PDF)
 
-**First published:** 30/03/2017
-
-**Last updated:** 18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/en/documents/product-information/afstyla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-497)
+[Other languages (24)](#file-language-dropdown-282)
 
-български (BG) (1.28 MB - PDF)
+български (BG) (878.81 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/bg/documents/product-information/afstyla-epar-product-information_bg.pdf)
 
-español (ES) (1.27 MB - PDF)
+español (ES) (587.66 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/es/documents/product-information/afstyla-epar-product-information_es.pdf)
 
-čeština (CS) (381.85 KB - PDF)
+čeština (CS) (1.07 MB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/cs/documents/product-information/afstyla-epar-product-information_cs.pdf)
 
-dansk (DA) (424.99 KB - PDF)
+dansk (DA) (601.41 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/da/documents/product-information/afstyla-epar-product-information_da.pdf)
 
-Deutsch (DE) (439.17 KB - PDF)
+Deutsch (DE) (560.98 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/de/documents/product-information/afstyla-epar-product-information_de.pdf)
 
-eesti keel (ET) (403.45 KB - PDF)
+eesti (ET) (523.46 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/et/documents/product-information/afstyla-epar-product-information_et.pdf)
 
-ελληνικά (EL) (394.47 KB - PDF)
+ελληνικά (EL) (933.61 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/el/documents/product-information/afstyla-epar-product-information_el.pdf)
 
-français (FR) (457.18 KB - PDF)
+français (FR) (554.9 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/fr/documents/product-information/afstyla-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.29 MB - PDF)
+hrvatski (HR) (765.36 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/hr/documents/product-information/afstyla-epar-product-information_hr.pdf)
 
-íslenska (IS) (351.94 KB - PDF)
+italiano (IT) (475.29 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
-
-[View](/is/documents/product-information/afstyla-epar-product-information_is.pdf)
-
-italiano (IT) (418.68 KB - PDF)
-
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/it/documents/product-information/afstyla-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (359.43 KB - PDF)
+latviešu (LV) (779 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/lv/documents/product-information/afstyla-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (491.08 KB - PDF)
+lietuvių (LT) (745.65 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/lt/documents/product-information/afstyla-epar-product-information_lt.pdf)
 
-magyar (HU) (485.73 KB - PDF)
+magyar (HU) (800.07 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/hu/documents/product-information/afstyla-epar-product-information_hu.pdf)
 
-Malti (MT) (496.58 KB - PDF)
+Malti (MT) (782.47 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/mt/documents/product-information/afstyla-epar-product-information_mt.pdf)
 
-Nederlands (NL) (422.28 KB - PDF)
+Nederlands (NL) (477.15 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/nl/documents/product-information/afstyla-epar-product-information_nl.pdf)
 
-norsk (NO) (417.48 KB - PDF)
+polski (PL) (783.84 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
-
-[View](/no/documents/product-information/afstyla-epar-product-information_no.pdf)
-
-polski (PL) (399.8 KB - PDF)
-
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/pl/documents/product-information/afstyla-epar-product-information_pl.pdf)
 
-português (PT) (384.13 KB - PDF)
+português (PT) (464.96 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/pt/documents/product-information/afstyla-epar-product-information_pt.pdf)
 
-română (RO) (488.64 KB - PDF)
+română (RO) (813.35 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/ro/documents/product-information/afstyla-epar-product-information_ro.pdf)
 
-slovenčina (SK) (501.28 KB - PDF)
+slovenčina (SK) (765.14 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/sk/documents/product-information/afstyla-epar-product-information_sk.pdf)
 
-slovenščina (SL) (463.83 KB - PDF)
+slovenščina (SL) (678.23 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/sl/documents/product-information/afstyla-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.3 MB - PDF)
+suomi (FI) (546.24 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/fi/documents/product-information/afstyla-epar-product-information_fi.pdf)
 
-svenska (SV) (432.72 KB - PDF)
+svenska (SV) (465.45 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-18/12/2024
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
 
 [View](/sv/documents/product-information/afstyla-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0057 17/12/2024
+Íslenska (IS) (561.89 KB - PDF)
+
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
+
+[View](/is/documents/product-information/afstyla-epar-product-information_is.pdf)
+
+norsk (NO) (490.08 KB - PDF)
+
+**First published:** 30/03/2017 **Last updated:** 16/10/2026
+
+[View](/no/documents/product-information/afstyla-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000349440
+
+15/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -713,305 +436,168 @@ Afstyla : EPAR - All Authorised presentations
 
 English (EN) (31.35 KB - PDF)
 
-**First published:** 30/03/2017
-
-**Last updated:** 11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/en/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-237)
+[Other languages (24)](#file-language-dropdown-248)
 
 български (BG) (35.46 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/bg/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (32.91 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/es/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (33.09 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/cs/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (33.22 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/da/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (74.44 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/de/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (31.23 KB - PDF)
+eesti (ET) (31.23 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/et/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (32.51 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/el/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (32.1 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/fr/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (33.46 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/hr/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (31.54 KB - PDF)
-
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
-
-[View](/is/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (31.49 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/it/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (32.15 KB - PDF)
+latviešu (LV) (32.15 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/lv/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (32.31 KB - PDF)
+lietuvių (LT) (32.31 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/lt/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (33.57 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/hu/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (34.43 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/mt/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (35.26 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/nl/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (33.16 KB - PDF)
-
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
-
-[View](/no/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (32.94 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/pl/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (33.05 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/pt/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (31.39 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/ro/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (34.52 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/sk/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (40.16 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/sl/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (31.43 KB - PDF)
+suomi (FI) (31.43 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/fi/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (32.43 KB - PDF)
 
-**First published:**
-
-30/03/2017
-
-**Last updated:**
-
-11/11/2019
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
 
 [View](/sv/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (31.54 KB - PDF)
+
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
+
+[View](/is/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (33.16 KB - PDF)
+
+**First published:** 30/03/2017 **Last updated:** 11/11/2019
+
+[View](/no/documents/all-authorised-presentations/afstyla-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Afstyla Active substance lonoctocog alfa International non-proprietary name (INN) or common name lonoctocog alfa Therapeutic area (MeSH) Hemophilia A Anatomical therapeutic chemical (ATC) code B02BD02
+- **Name of medicine**
+    - Afstyla
+- **Active substance**
+    - lonoctocog alfa
+- **International non-proprietary name (INN) or common name**
+    - lonoctocog alfa
+- **Therapeutic area (MeSH)**
+    - Hemophilia A
+- **Anatomical therapeutic chemical (ATC) code**
+    - B02BD02
 
 ### Pharmacotherapeutic group
 
@@ -1025,13 +611,18 @@ Afstyla can be used for all age groups.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004075 Marketing authorisation holder
-
-CSL Behring GmbH
-
-Emil-von-Behring Strasse 76
-
-Opinion adopted 10/11/2016 Marketing authorisation issued 04/01/2017 Revision 12
+- **EMA product number**
+    - EMEA/H/C/004075
+- **Marketing authorisation holder**
+    - CSL Behring GmbH Emil-von-Behring Strasse 76  
+35041 Marburg  
+Germany
+- **Opinion adopted**
+    - 10/11/2016
+- **Marketing authorisation issued**
+    - 04/01/2017
+- **Revision**
+    - 13
 
 ## Assessment history
 
@@ -1039,15 +630,21 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
+
+Afstyla : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (158.44 KB - PDF)
+
+**First published:** 16/10/2026
+
+[View](/en/documents/procedural-steps-after/afstyla-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Afstyla : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
 English (EN) (174.09 KB - PDF)
 
-**First published:** 10/05/2017
-
-**Last updated:** 11/12/2025
+**First published:** 10/05/2017 **Last updated:** 11/12/2025
 
 [View](/en/documents/procedural-steps-after/afstyla-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1063,9 +660,7 @@ English (EN) (735.98 KB - PDF)
 
 Afstyla-H-C-004075-P46-003 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/456459/2021
+Adopted Reference Number: EMA/456459/2021
 
 English (EN) (1.72 MB - PDF)
 
@@ -1073,7 +668,7 @@ English (EN) (1.72 MB - PDF)
 
 [View](/en/documents/variation-report/afstyla-h-c-004075-p46-003-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Afstyla : EPAR - Public assessment report
 
@@ -1081,42 +676,38 @@ Reference Number: EMA/CHMP/699390/2016
 
 English (EN) (3.31 MB - PDF)
 
-**First published:** 30/03/2017
-
-**Last updated:** 30/03/2017
+**First published:** 30/03/2017 **Last updated:** 30/03/2017
 
 [View](/en/documents/assessment-report/afstyla-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Afstyla
 
-Adopted
-
-Reference Number: EMA/699392/2016
+Adopted Reference Number: EMA/699392/2016
 
 English (EN) (68.08 KB - PDF)
 
-**First published:** 11/11/2016
-
-**Last updated:** 11/11/2016
+**First published:** 11/11/2016 **Last updated:** 11/11/2016
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-afstyla_en.pdf)
 
-#### News on Afstyla
+## News on Afstyla
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2016) 11/11/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2016)
+
+11/11/2016
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC0040750000) (initial marketing authorisation)
 
-#### More information on Afstyla
+## More information on Afstyla
 
 - [EMEA-001215-PIP01-11-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001215-pip01-11-m07)
 
-#### Topics
+## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
-**This page was last updated on** 11/12/2025
+**This page was last updated on**
+
+16/10/2026
 
 ## Share this page
-
-[Back to top](#main-content)

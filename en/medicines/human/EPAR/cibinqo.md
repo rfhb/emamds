@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-10-07 16:38:00
+document_datetime: 2026-10-16 16:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cibinqo.html
 document_name: cibinqo.html
 version: success
-processing_time: 0.2124081
-conversion_datetime: 2026-10-10 13:58:26.229218
+processing_time: 0.2268835
+conversion_datetime: 2026-10-19 23:42:02.108807
 docling_version:
-  docling-serve: 1.36.0
-  docling-jobkit: 3.8.1
-  docling: 2.137.0
-  docling-core: 2.101.1
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
   docling-ibm-models: 4.0.3
-  docling-parse: 7.22.2
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
@@ -118,7 +118,7 @@ English (EN) (116.53 KB - PDF)
 
 [View](/en/documents/overview/cibinqo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-631)
+[Other languages (22)](#file-language-dropdown-57)
 
 български (BG) (150.96 KB - PDF)
 
@@ -254,9 +254,9 @@ svenska (SV) (123.95 KB - PDF)
 
 Cibinqo : EPAR - Risk management plan
 
-English (EN) (1.39 MB - PDF)
+English (EN) (1.76 MB - PDF)
 
-**First published:** 17/12/2021 **Last updated:** 06/02/2026
+**First published:** 17/12/2021 **Last updated:** 16/10/2026
 
 [View](/en/documents/rmp/cibinqo-epar-risk-management-plan_en.pdf)
 
@@ -264,161 +264,161 @@ English (EN) (1.39 MB - PDF)
 
 Cibinqo : EPAR - Product information
 
-English (EN) (653.28 KB - PDF)
+English (EN) (651.17 KB - PDF)
 
-**First published:** 17/12/2021 **Last updated:** 02/09/2026
+**First published:** 17/12/2021 **Last updated:** 16/10/2026
 
 [View](/en/documents/product-information/cibinqo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-256)
+[Other languages (24)](#file-language-dropdown-539)
 
-български (BG) (733.33 KB - PDF)
+български (BG) (743.32 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/bg/documents/product-information/cibinqo-epar-product-information_bg.pdf)
 
-español (ES) (519.34 KB - PDF)
+español (ES) (501.91 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/es/documents/product-information/cibinqo-epar-product-information_es.pdf)
 
-čeština (CS) (577.04 KB - PDF)
+čeština (CS) (567.36 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/cs/documents/product-information/cibinqo-epar-product-information_cs.pdf)
 
-dansk (DA) (520.34 KB - PDF)
+dansk (DA) (500.38 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/da/documents/product-information/cibinqo-epar-product-information_da.pdf)
 
-Deutsch (DE) (506.1 KB - PDF)
+Deutsch (DE) (506.46 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/de/documents/product-information/cibinqo-epar-product-information_de.pdf)
 
-eesti (ET) (533.23 KB - PDF)
+eesti (ET) (513.52 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/et/documents/product-information/cibinqo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (561.92 KB - PDF)
+ελληνικά (EL) (552.95 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/el/documents/product-information/cibinqo-epar-product-information_el.pdf)
 
-français (FR) (564.23 KB - PDF)
+français (FR) (564.81 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/fr/documents/product-information/cibinqo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (562.67 KB - PDF)
+hrvatski (HR) (596.52 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/hr/documents/product-information/cibinqo-epar-product-information_hr.pdf)
 
-italiano (IT) (529.22 KB - PDF)
+italiano (IT) (515.89 KB - PDF)
 
-**First published:** 17/12/2021 **Last updated:** 02/09/2026
+**First published:** 17/12/2021 **Last updated:** 16/10/2026
 
 [View](/it/documents/product-information/cibinqo-epar-product-information_it.pdf)
 
-latviešu (LV) (548.52 KB - PDF)
+latviešu (LV) (539.65 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/lv/documents/product-information/cibinqo-epar-product-information_lv.pdf)
 
-lietuvių (LT) (599.37 KB - PDF)
+lietuvių (LT) (585.02 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/lt/documents/product-information/cibinqo-epar-product-information_lt.pdf)
 
-magyar (HU) (605.8 KB - PDF)
+magyar (HU) (597.33 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/hu/documents/product-information/cibinqo-epar-product-information_hu.pdf)
 
-Malti (MT) (578.42 KB - PDF)
+Malti (MT) (569.33 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/mt/documents/product-information/cibinqo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (542.71 KB - PDF)
+Nederlands (NL) (528.41 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/nl/documents/product-information/cibinqo-epar-product-information_nl.pdf)
 
-polski (PL) (786.22 KB - PDF)
+polski (PL) (777.46 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/pl/documents/product-information/cibinqo-epar-product-information_pl.pdf)
 
-português (PT) (528.58 KB - PDF)
+português (PT) (566.24 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/pt/documents/product-information/cibinqo-epar-product-information_pt.pdf)
 
-română (RO) (579.3 KB - PDF)
+română (RO) (552.35 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/ro/documents/product-information/cibinqo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (601.72 KB - PDF)
+slovenčina (SK) (639.24 KB - PDF)
 
-**First published:** 17/12/2021 **Last updated:** 02/09/2026
+**First published:** 17/12/2021 **Last updated:** 16/10/2026
 
 [View](/sk/documents/product-information/cibinqo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (536.13 KB - PDF)
+slovenščina (SL) (513.54 KB - PDF)
 
-**First published:** 17/12/2021 **Last updated:** 02/09/2026
+**First published:** 17/12/2021 **Last updated:** 16/10/2026
 
 [View](/sl/documents/product-information/cibinqo-epar-product-information_sl.pdf)
 
-suomi (FI) (556 KB - PDF)
+suomi (FI) (538.67 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/fi/documents/product-information/cibinqo-epar-product-information_fi.pdf)
 
-svenska (SV) (521.45 KB - PDF)
+svenska (SV) (504.13 KB - PDF)
 
-**First published:** 17/12/2021 **Last updated:** 02/09/2026
+**First published:** 17/12/2021 **Last updated:** 16/10/2026
 
 [View](/sv/documents/product-information/cibinqo-epar-product-information_sv.pdf)
 
-Íslenska (IS) (537.37 KB - PDF)
+Íslenska (IS) (519.53 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/is/documents/product-information/cibinqo-epar-product-information_is.pdf)
 
-norsk (NO) (531.48 KB - PDF)
+norsk (NO) (514.13 KB - PDF)
 
 **First published:** 17/12/2021 **Last updated:** 02/09/2026
 
 [View](/no/documents/product-information/cibinqo-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** R/0000336009
+**Latest procedure affecting product information:** VR/0000350662
 
-28/08/2026
+01/10/2026
 
 icon globe
 
@@ -443,7 +443,7 @@ English (EN) (38.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cibinqo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-456)
+[Other languages (24)](#file-language-dropdown-357)
 
 български (BG) (36.48 KB - PDF)
 
@@ -615,13 +615,15 @@ Cibinqo is indicated for the treatment of moderate-to-severe atopic dermatitis i
 - **EMA product number**
     - EMEA/H/C/005452
 - **Marketing authorisation holder**
-    - Pfizer Europe MA EEIG Boulevard de la Plaine 17  1050 Bruxelles  Belgium
+    - Pfizer Europe MA EEIG Boulevard de la Plaine 17  
+1050 Bruxelles  
+Belgium
 - **Opinion adopted**
     - 14/10/2021
 - **Marketing authorisation issued**
     - 09/12/2021
 - **Revision**
-    - 20
+    - 21
 
 ## Assessment history
 
@@ -633,9 +635,9 @@ Collapse section
 
 Cibinqo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (150.89 KB - PDF)
+English (EN) (156.6 KB - PDF)
 
-**First published:** 17/02/2025 **Last updated:** 02/09/2026
+**First published:** 17/02/2025 **Last updated:** 16/10/2026
 
 [View](/en/documents/procedural-steps-after/cibinqo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -773,7 +775,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/cibinqo-epar-scientific-conclusions-article-20-referral-annex-iv_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-412)
+[Other languages (24)](#file-language-dropdown-738)
 
 български (BG) (203.66 KB - PDF)
 
@@ -973,6 +975,6 @@ English (EN) (126.14 KB - PDF)
 
 **This page was last updated on**
 
-07/10/2026
+16/10/2026
 
 ## Share this page

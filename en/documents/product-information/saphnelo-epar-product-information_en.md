@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-09-11 16:11:59
+document_datetime: 2026-10-16 14:50:50
 document_pages: 78
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/saphnelo-epar-product-information_en.pdf
 document_name: saphnelo-epar-product-information_en.pdf
 version: success
-processing_time: 18.0999412
-conversion_datetime: 2026-09-13 12:24:13.024536
+processing_time: 26.5398835
+conversion_datetime: 2026-10-19 23:11:14.524632
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.96.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.19.1
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,7 +56,7 @@ Saphnelo is indicated as an add-on therapy for the treatment of adult patients w
 
 Treatment should be initiated and supervised by a physician experienced in the treatment of SLE.
 
-## Posology
+Posology
 
 The recommended dose is 300 mg, administered as an intravenous infusion over a 30-minute period, every 4 weeks.
 
@@ -226,7 +226,7 @@ The most commonly reported adverse reactions during anifrolumab treatment were u
 
 Adverse reactions reported from controlled clinical trials and post-marketing data are classified by MedDRA System Organ Class (SOC), see Table 1. Within each SOC, preferred terms are arranged by decreasing frequency and then by decreasing seriousness. Frequencies of occurrence of adverse reactions are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from available data).
 
-## Table 1 Adverse reactions
+Table 1 Adverse reactions
 
 | MedDRA SOC                                      | MedDRA Preferred Term              | Frequency   |
 |-------------------------------------------------|------------------------------------|-------------|
@@ -505,7 +505,11 @@ From a microbiological point of view, the product should be used immediately aft
 
 ## Unopened vial
 
-Store in a refrigerator (2 °C - 8 °C). Store in the original package in order to protect from light. Do not freeze, shake or expose to heat.
+Store in a refrigerator (2 °C - 8 °C).
+
+Store in the original package in order to protect from light.
+
+Do not freeze, shake or expose to heat.
 
 ## Diluted solution for infusion
 
@@ -530,27 +534,37 @@ Saphnelo is supplied as a single-dose vial. The solution for infusion should be 
 
 <div style=\"page-break-after: always\"></div>
 
-5. It is recommended that the solution for infusion should be administered immediately after preparation. If the solution for infusion has been stored in a refrigerator (see section 6.3), allow it to reach room temperature (15 °C - 25 °C) prior to administration.
+5.
+
+It is recommended that the solution for infusion should be administered immediately after
+
+preparation. If the solution for infusion has been stored in a refrigerator (see section 6.3), allow
+
+it to reach room temperature (15 °C - 25 °C) prior to administration.
 
 Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7. MARKETING AUTHORISATION HOLDER
 
 AstraZeneca AB SE-151 85 Södertälje Sweden
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/21/1623/001
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 14 February 2022 Date of latest renewal:
+Date of first authorisation: 14 February 2022
 
-## 10. DATE OF REVISION OF THE TEXT
+Date of latest renewal: 27 August 2026
+
+10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+15
 
 <div style=\"page-break-after: always\"></div>
 
@@ -688,7 +702,7 @@ Individual benefit-risk should be considered in patients with known risk factors
 
 ## Excipient with known effect
 
-This medicinal product contains 0.4 mg of polysorbate 80 (E 433) in each pre-filled syringe/pre-filled pen, which is equivalent to 0.5 mg/ml. Polysorbates may cause allergic reactions.
+This medicinal product contains 0.4 mg of polysorbate 80 (E 433) in each pre-filled syringe/pre-filled pen, which is equivalent to 0.5 mg/ml. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -748,7 +762,7 @@ The most commonly reported adverse reactions during anifrolumab treatment were u
 
 Adverse reactions reported from controlled clinical trials and post-marketing data are classified by MedDRA System Organ Class (SOC), see Table 1. Within each SOC, preferred terms are arranged by decreasing frequency and then by decreasing seriousness. Frequencies of occurrence of adverse reactions are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from available data).
 
-## Table 1 Adverse reactions
+Table 1 Adverse reactions
 
 | MedDRA SOC                                      | MedDRA Preferred Term              | Frequency   |
 |-------------------------------------------------|------------------------------------|-------------|
@@ -940,7 +954,11 @@ Table 3 BICLA response rate at Week 52
 | No worsening of SLEDAI-2K, n (%) | 81 (74.3)            | 80 (71.6)        |
 | No worsening of PGA, n (%)       | 81 (74.4)            | 82 (73.7)        |
 
-BICLA: British Isles Lupus Assessment Group-based Composite Lupus Assessment; BILAG: British Isles Lupus Assessment Group, PGA: Physician's Global Assessment; SLEDAI-2K: Systemic Lupus Erythematosus Disease Activity Index 2000
+BICLA: British Isles Lupus Assessment Group-based Composite Lupus Assessment; BILAG: British Isles
+
+Lupus Assessment Group, PGA: Physician's Global Assessment; SLEDAI-2K: Systemic Lupus Erythematosus
+
+Disease Activity Index 2000
 
 All patients received standard therapy.
 
@@ -1088,7 +1106,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB SE-151 85 Södertälje Sweden
+AstraZeneca AB SE-151 85 Södertälje
+
+Sweden
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1112,7 +1132,7 @@ EU/1/21/1623/005
 
 Date of first authorisation: 14 February 2022
 
-Date of latest renewal:
+Date of latest renewal: 27 August 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1134,6 +1154,8 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturer of the biological active substance
 
 AstraZeneca Pharmaceuticals LP Frederick Manufacturing Center (FMC) 633 Research Court Frederick, Maryland 21703 United States
+
+Samsung Biologics Co. Ltd 300, Songdo bio-daero Yeonsu-gu Incheon, 21987 Republic of Korea
 
 Name and address of the manufacturer(s) responsible for batch release
 
@@ -1178,7 +1200,9 @@ OUTER CARTON (VIAL)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Saphnelo 300 mg concentrate for solution for infusion anifrolumab
+Saphnelo 300 mg concentrate for solution for infusion
+
+anifrolumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1233,9 +1257,7 @@ AstraZeneca AB SE-151 85 Södertälje Sweden
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
 
-EU/1/21/1623/001
-
-1 vial
+EU/1/21/1623/001 1 vial
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -1261,9 +1283,7 @@ Justification for not including Braille accepted.
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1271,9 +1291,8 @@ NN
 |--------------------------------------------------------------------|
 | VIAL LABEL                                                         |
 
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Saphnelo 300 mg sterile concentrate anifrolumab IV
 
@@ -1352,6 +1371,8 @@ Do not freeze, shake or expose to heat.
 
 Store in the original package in order to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
@@ -1393,13 +1414,12 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 | MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
 |--------------------------------------------------------------------|
 | PRE-FILLED SYRINGE LABEL                                           |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Saphnelo 120 mg injection anifrolumab SC
 
@@ -1432,7 +1452,9 @@ OUTER CARTON (PRE-FILLED PEN)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Saphnelo 120 mg solution for injection in pre-filled pen anifrolumab
+Saphnelo 120 mg solution for injection in pre-filled pen
+
+anifrolumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1486,17 +1508,19 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
+AstraZeneca AB
+
 SE-151 85 Södertälje
 
-AstraZeneca AB Sweden
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/21/1623/003
 
-1 pre-filled pen
-
 EU/1/21/1623/004
+
+1 pre-filled pen
 
 4 pre-filled pens
 
@@ -1504,9 +1528,11 @@ EU/1/21/1623/004
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
 
 saphnelo 120 mg
 
@@ -1578,11 +1604,14 @@ Do not freeze, shake or expose to heat.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB SE-151 85 Södertälje Sweden
+AstraZeneca AB SE-151 85 Södertälje
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1594,17 +1623,23 @@ EU/1/21/1623/005
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 saphnelo 120 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -1630,7 +1665,7 @@ Excipients: histidine, histidine hydrochloride monohydrate, lysine hydrochloride
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 4 pre-filled pens. Component of a multipack, can't be sold separately.
 
@@ -1686,12 +1721,14 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 saphnelo 120 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -1701,27 +1738,35 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED PEN LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Saphnelo 120 mg injection anifrolumab Subcutaneous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.8 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 AstraZeneca
 
@@ -1733,9 +1778,9 @@ AstraZeneca
 
 ## Package leaflet: Information for the patient
 
-## Saphnelo
+## Saphnelo 300 mg concentrate for solution for infusion
 
-## 300 mg concentrate for solution for infusion anifrolumab
+anifrolumab
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -1760,9 +1805,7 @@ Saphnelo contains the active substance anifrolumab, a 'monoclonal antibody' (a t
 
 ## What Saphnelo is used for
 
-Saphnelo is used to treat moderate to severe lupus (systemic lupus erythematosus, SLE) in adults whose disease is not well controlled by standard therapies ('oral corticosteroids',
-
-'immunosuppressants' and/or 'antimalarials').
+Saphnelo is used to treat moderate to severe lupus (systemic lupus erythematosus, SLE) in adults whose disease is not well controlled by standard therapies ('oral corticosteroids', 'immunosuppressants' and/or 'antimalarials').
 
 You will be given Saphnelo as well as your standard therapy for lupus.
 
@@ -1840,7 +1883,7 @@ It is not known if Saphnelo can harm your unborn baby.
 
 ## Breast-feeding
 
-- Before you start treatment with Saphnelo, tell your doctor if you are breast-feeding . It is not known whether this medicine is passed into breast milk. Your doctor will discuss with you whether you should stop treatment with this medicine while you are breast-feeding, or if you should stop breast-feeding.
+- Before you start treatment with Saphnelo, tell your doctor if you are breast-feeding. It is not known whether this medicine is passed into breast milk. Your doctor will discuss with you whether you should stop treatment with this medicine while you are breast-feeding, or if you should stop breast-feeding.
 
 ## Driving and using machines
 
@@ -1890,15 +1933,15 @@ Very common (may affect more than 1 in 10 people)
 
 ## Common (may affect up to 1 in 10 people)
 
-- chest infection ( bronchitis )
+- chest infection (bronchitis)
 - infections of the sinuses or lungs
-- shingles ( herpes zoster ) - a red skin rash that can cause pain and burning
-- allergic ( hypersensitivity ) reactions
-- infusion reactions - can happen at the time of the infusion or shortly after; symptoms may include headache, feeling sick ( nausea ), being sick ( vomiting ), feeling very tired or weak ( fatigue ) and feeling dizzy
+- shingles (herpes zoster) - a red skin rash that can cause pain and burning
+- allergic (hypersensitivity) reactions
+- infusion reactions - can happen at the time of the infusion or shortly after; symptoms may include headache, feeling sick (nausea), being sick (vomiting), feeling very tired or weak (fatigue) and feeling dizzy
 
-## Not known (the frequency cannot be estimated from the available data)
+Not known (the frequency cannot be estimated from the available data)
 
-- joint pain ( arthralgia )
+- joint pain (arthralgia)
 
 ## Reporting of side effects
 
@@ -1919,7 +1962,7 @@ The doctor, nurse or pharmacist is responsible for storing this medicine. The st
 ## What Saphnelo contains
 
 - The active substance is anifrolumab. Each vial contains 300 mg anifrolumab.
-- The other ingredients are histidine, histidine hydrochloride monohydrate, lysine hydrochloride, trehalose dihydrate, polysorbate 80 (E 433) (see section 2 'Saphnelo contains polysorbate') and water for injections.
+- The other ingredients are histidine, histidine hydrochloride monohydrate, lysine hydrochloride, trehalose dihydrate, polysorbate 80 (E 433) (see section 2 \"Saphnelo contains polysorbate\") and water for injections.
 
 ## What Saphnelo looks like and contents of the pack
 
@@ -1932,15 +1975,19 @@ AstraZeneca AB SE-151 85 Södertälje Sweden
 
 ## Manufacturer
 
-SE-152 57 Södertälje
+AstraZeneca AB Gärtunavägen SE-152 57 Södertälje
 
-AstraZeneca AB Gärtunavägen Sweden For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Sweden
 
 <div style=\"page-break-after: always\"></div>
 
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
 ## België/Belgique/Belgien
 
-AstraZeneca S.A./N.V. Tel: +32 2 370 48 11
+AstraZeneca S.A./N.V.
+
+Tel: +32 2 370 48 11
 
 ## България
 
@@ -1956,45 +2003,11 @@ AstraZeneca A/S Tlf.: +45 43 66 64 62
 
 ## Deutschland
 
-AstraZeneca GmbH Tel: +49 40 809034100
+AstraZeneca GmbH
+
+Tel: +49 40 809034100
 
 ## Eesti
-
-AstraZeneca Tel: +372 6549 600
-
-## Ελλάδα
-
-AstraZeneca A.E. Τηλ: +30 210 6871500
-
-## España
-
-AstraZeneca Farmacéutica Spain, S.A. Tel: +34 91 301 91 00
-
-## France
-
-AstraZeneca
-
-Tél: +33 1 41 29 40 00
-
-## Hrvatska
-
-AstraZeneca d.o.o. Tel: +385 1 4628 000
-
-## Ireland
-
-AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
-
-## Ísland
-
-Vistor
-
-Sími: +354 535 7000
-
-## Italia
-
-AstraZeneca S.p.A. Tel: +39 02 00704500
-
-## Κύπρος
 
 ## Lietuva
 
@@ -2020,6 +2033,40 @@ AstraZeneca BV Tel: +31 85 808 9900
 
 ## Norge
 
+AstraZeneca Tel: +372 6549 600
+
+## Ελλάδα
+
+AstraZeneca A.E. Τηλ: +30 210 6871500
+
+## España
+
+AstraZeneca Farmacéutica Spain, S.A.
+
+Tel: +34 91 301 91 00
+
+## France
+
+AstraZeneca Tél: +33 1 41 29 40 00
+
+## Hrvatska
+
+AstraZeneca d.o.o. Tel: +385 1 4628 000
+
+## Ireland
+
+AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
+
+## Ísland
+
+Vistor Sími: +354 535 7000
+
+## Italia
+
+AstraZeneca S.p.A. Tel: +39 02 00704500
+
+## Κύπρος
+
 AstraZeneca AS Tlf: +47 21 00 64 00
 
 ## Österreich
@@ -2028,7 +2075,9 @@ AstraZeneca Österreich GmbH Tel: +43 1 711 31 0
 
 ## Polska
 
-AstraZeneca Pharma Poland Sp. z o.o. Tel.: +48 22 245 73 00
+AstraZeneca Pharma Poland Sp. z o.o.
+
+Tel.: +48 22 245 73 00
 
 ## Portugal
 
@@ -2054,7 +2103,11 @@ AstraZeneca Oy Puh/Tel: +358 10 23 010
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija SIA AstraZeneca Latvija Tel: +371 67377100
+## Latvija
+
+SIA AstraZeneca Latvija
+
+Tel: +371 67377100
 
 ## This leaflet was last revised in
 
@@ -2086,9 +2139,11 @@ If not used immediately, in-use storage times and conditions prior to use are th
 2. Administer the infusion solution intravenously over 30 minutes through an intravenous line containing a sterile, low-protein binding 0.2 to 15 micron in-line or add-on filter.
 3. Upon completion of the infusion, flush the infusion set with 25 ml sodium chloride 9 mg/ml (0.9%) solution for injection to ensure that all of the solution for infusion has been administered.
 
+Tel: +46 8 553 26 000
+
 <div style=\"page-break-after: always\"></div>
 
-## 4. Do not co-administer other medicinal products through the same infusion line.
+4. Do not co-administer other medicinal products through the same infusion line.
 
 ## Disposal
 
@@ -2098,7 +2153,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## Package leaflet: Information for the patient
 
-## Saphnelo 120 mg solution for injection in pre-filled syringe anifrolumab
+## Saphnelo 120 mg solution for injection in pre-filled syringe
+
+anifrolumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2206,7 +2263,7 @@ It is not known if Saphnelo can harm your unborn baby.
 
 ## Breast-feeding
 
-- Before you start treatment with Saphnelo, tell your doctor if you are breast-feeding . It is not known whether this medicine is passed into breast milk. Your doctor will discuss with you whether you should stop treatment with this medicine while you are breast-feeding, or if you should stop breast-feeding.
+- Before you start treatment with Saphnelo, tell your doctor if you are breast-feeding. It is not known whether this medicine is passed into breast milk. Your doctor will discuss with you whether you should stop treatment with this medicine while you are breast-feeding, or if you should stop breast-feeding.
 
 ## Driving and using machines
 
@@ -2227,7 +2284,7 @@ Your doctor or nurse will decide if you can inject this medicine yourself or if 
 ## Before injecting Saphnelo
 
 - Your doctor or nurse should train you or your caregiver how to use Saphnelo pre-filled syringe in the right way.
-- Carefully read the 'Instructions for Use' . Do this each time you get a new pack. There may be new information.
+- Carefully read the 'Instructions for Use'. Do this each time you get a new pack. There may be new information.
 
 If you or your caregiver have any questions, talk to your doctor, nurse or pharmacist.
 
@@ -2256,7 +2313,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious allergic reactions:
 
-Serious allergic reactions ( anaphylaxis ) are uncommon (may affect up to 1 in 100 people). Get medical attention immediately, or go to the nearest emergency department, if you get any of the following signs of a serious allergic reaction:
+Serious allergic reactions (anaphylaxis) are uncommon (may affect up to 1 in 100 people). Get medical attention immediately, or go to the nearest emergency department, if you get any of the following signs of a serious allergic reaction:
 
 - swelling of your face, tongue, or mouth
 - breathing difficulties
@@ -2270,16 +2327,16 @@ Very common (may affect more than 1 in 10 people)
 
 - infections of the nose or throat
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
-- chest infection ( bronchitis )
+- chest infection (bronchitis)
 - infections of the sinuses or lungs
-- shingles ( herpes zoster ) - a red skin rash that can cause pain and burning
-- allergic ( hypersensitivity ) reactions
+- shingles (herpes zoster) - a red skin rash that can cause pain and burning
+- allergic (hypersensitivity) reactions
 
 Not known (the frequency cannot be estimated from the available data)
 
-- joint pain ( arthralgia )
+- joint pain (arthralgia)
 
 ## Reporting of side effects
 
@@ -2308,7 +2365,7 @@ Do not throw away any medicines via wastewater. Ask your pharmacist how to throw
 ## What Saphnelo contains
 
 - The active substance is anifrolumab. Each pre-filled syringe contains 120 mg of anifrolumab.
-- The other ingredients are histidine, histidine hydrochloride monohydrate, lysine hydrochloride, trehalose dihydrate, polysorbate 80 (E 433) (see section 2 'Saphnelo contains polysorbate') and water for injections.
+- The other ingredients are histidine, histidine hydrochloride monohydrate, lysine hydrochloride, trehalose dihydrate, polysorbate 80 (E 433) (see section 2 \"Saphnelo contains polysorbate\") and water for injections.
 
 ## What Saphnelo looks like and contents of the pack
 
@@ -2321,7 +2378,9 @@ AstraZeneca AB SE-151 85 Södertälje Sweden
 
 ## Manufacturer
 
-AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
+AstraZeneca AB Gärtunavägen SE-152 57 Södertälje
+
+Sweden
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2421,8 +2480,6 @@ Tel.: +48 22 245 73 00
 
 ## France
 
-## Portugal
-
 AstraZeneca
 
 Tél: +33 1 41 29 40 00
@@ -2437,11 +2494,15 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor Sími: +354 535 7000
+Vistor
+
+Sími: +354 535 7000
 
 ## Italia
 
-AstraZeneca S.p.A. Tel: +39 02 00704500
+AstraZeneca S.p.A.
+
+Tel: +39 02 00704500
 
 ## Κύπρος
 
@@ -2450,6 +2511,14 @@ AstraZeneca S.p.A. Tel: +39 02 00704500
 ## Latvija
 
 SIA AstraZeneca Latvija Tel: +371 67377100
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Portugal
 
 AstraZeneca Produtos Farmacêuticos, Lda. Tel: +351 21 434 61 00
 
@@ -2473,19 +2542,13 @@ AstraZeneca Oy Puh/Tel: +358 10 23 010
 
 AstraZeneca AB Tel: +46 8 553 26 000
 
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
 <div style=\"page-break-after: always\"></div>
-
-## Saphnelo
 
 ## Instructions for Use
 
-## 120 mg solution for injection in pre-filled syringe anifrolumab
+## Saphnelo 120 mg solution for injection in pre-filled syringe
+
+anifrolumab
 
 This 'Instructions for Use' contains information on how to inject using Saphnelo pre-filled syringe.
 
@@ -2512,27 +2575,19 @@ Keep this medicine out of the sight and reach of children.
 
 ## Saphnelo pre-filled syringe parts
 
-Do not touch the needle guard activation clips. This will keep you from activating the needle guard too
+Do not remove the needle cover until right before injecting Saphnelo.
 
-Do not remove the needle cover until right before injecting Saphnelo. soon.
+Do not touch the needle guard activation clips. This will keep you from activating the needle guard too soon.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-## Preparing to inject using Saphnelo pre-filled syringe Step 1 - Gather supplies for your injection
+## Preparing to inject using Saphnelo pre-filled syringe
 
-1 Saphnelo pre-filled syringe from the refrigerator
+## Step 1 - Gather supplies for your injection
 
 <!-- image -->
-
-1 alcohol wipe
-
-1 cotton ball or gauze
-
-1 small bandage
-
-1 sharps disposal container
 
 Not included
 
@@ -2544,13 +2599,18 @@ Select a clean, well-lit, flat work surface, such as a table.
 
 ## Check the expiry date (EXP) on the carton.
 
-- Do not use if the expiry date has passed. Check the carton for damage.
+- Do not use if the expiry date has passed.
+
+Check the carton for damage.
+
 - Do not use if the carton looks damaged.
 
 ## Let Saphnelo pre-filled syringe come to room temperature for 60 minutes before injecting.
 
 - Keep Saphnelo pre-filled syringe in original carton to protect from light.
 - Do not warm Saphnelo pre-filled syringe in any other way. For example, do not warm it in a microwave, hot water, direct sunlight, or near other heat sources.
+
+<!-- image -->
 
 ## Step 3 - Remove pre-filled syringe from the carton and inspect
 
@@ -2566,13 +2626,11 @@ Open the carton and remove Saphnelo pre-filled syringe by holding the middle of 
 
 - Do not use if damaged.
 
-## Check the liquid through the viewing window .
+## Check the liquid through the viewing window.
 
 - The liquid should be clear and colourless to slightly yellow.
 - Do not use if the liquid is cloudy, discoloured, or contains visible particles.
 - It is normal to see small air bubbles in the liquid. Do not try to remove the air bubbles.
-
-<!-- image -->
 
 <!-- image -->
 
@@ -2590,7 +2648,7 @@ Do not try to inject yourself in the upper arm.
 
 Choose an injection site that is at least 3 cm away from where you last injected.
 
-Do not inject:
+## Do not inject:
 
 - into the 5 cm area around your belly button.
 - where the skin is red, warm, tender, bruised, scaly, or hard.
@@ -2631,7 +2689,7 @@ Go to Step 7 right away after removing the needle cover.
 Hold Saphnelo pre-filled syringe in 1 hand as shown. Use your other hand to gently pinch and hold the cleaned injection site.
 
 - Do not press down on the plunger head until the needle is inserted into the skin.
-- Do not pull back on the plunger head at any time. Inject using the pre-filled syringe by following the steps in figures a, b, and c .
+- Do not pull back on the plunger head at any time. Inject using the pre-filled syringe by following the steps in figures a, b, and c.
 
 <!-- image -->
 
@@ -2645,15 +2703,17 @@ Hold Saphnelo pre-filled syringe in 1 hand as shown. Use your other hand to gent
 
 Using a 45-degree angle, fully insert the needle into the pinched
 
-skin. Do not reposition the pre-filled syringe after you insert the needle into the skin.
+Do not reposition the pre-filled syringe after you insert the Use your thumb to push down on the plunger head.
 
-Use your thumb to push down on the plunger head. To make sure you inject all the medicine and activate the needle guard, keep pushing firmly on the plunger until it is fully down as far as it will go.
+skin. needle into the skin.
 
-Slowly let go of the plunger
+To make sure you inject all the medicine and activate the needle guard, keep pushing firmly on the plunger until it is fully down as far as it will go.
 
-until the needle guard covers the needle. carefully throw away (dispose of) the syringe right away (see
+Slowly let go of the plunger until the needle guard covers
 
-If the needle is not covered, Step 9).
+the needle. of) the syringe right away (see
+
+If the needle is not covered, carefully throw away (dispose Step 9).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2665,11 +2725,15 @@ If needed, press a cotton ball or gauze on the area and apply a small bandage.
 
 - Do not rub the injection site.
 
-Step 9 - Throw away (dispose of) the used Saphnelo pre-filled syringe
-
 <!-- image -->
 
-Each pre-filled syringe contains 1 single dose of Saphnelo and cannot be used again. Do not recap the needle.
+C
+
+Step 9 - Throw away (dispose of) the used Saphnelo pre-filled syringe
+
+Each pre-filled syringe contains 1 single dose of
+
+Saphnelo and cannot be used again. Do not recap the needle.
 
 Put your used Saphnelo pre-filled syringe in a sharps disposal container right away after use.
 
@@ -2689,9 +2753,9 @@ Do not recycle your used sharps disposal container.
 
 ## Package leaflet: Information for the patient
 
-## Saphnelo
+## Saphnelo 120 mg solution for injection in pre-filled pen
 
-## 120 mg solution for injection in pre-filled pen anifrolumab
+## anifrolumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2707,8 +2771,7 @@ Do not recycle your used sharps disposal container.
 3. How to use Saphnelo
 4. Possible side effects
 5. How to store Saphnelo
-6. 6.
-7. Contents of the pack and other information
+6. Contents of the pack and other information
 
 ## 1. What Saphnelo is and what it is used for
 
@@ -2800,7 +2863,7 @@ It is not known if Saphnelo can harm your unborn baby.
 
 ## Breast-feeding
 
-- Before you start treatment with Saphnelo, tell your doctor if you are breast-feeding . It is not known whether this medicine is passed into breast milk. Your doctor will discuss with you whether you should stop treatment with this medicine while you are breast-feeding, or if you should stop breast-feeding.
+- Before you start treatment with Saphnelo, tell your doctor if you are breast-feeding. It is not known whether this medicine is passed into breast milk. Your doctor will discuss with you whether you should stop treatment with this medicine while you are breast-feeding, or if you should stop breast-feeding.
 
 ## Driving and using machines
 
@@ -2821,7 +2884,7 @@ Your doctor or nurse will decide if you can inject this medicine yourself or if 
 ## Before injecting Saphnelo
 
 - Your doctor or nurse should train you or your caregiver how to use Saphnelo pre-filled pen in the right way.
-- Carefully read the 'Instructions for Use' . Do this each time you get a new pack. There may be new information.
+- Carefully read the 'Instructions for Use'. Do this each time you get a new pack. There may be new information.
 
 If you or your caregiver have any questions, talk to your doctor, nurse or pharmacist.
 
@@ -2850,7 +2913,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious allergic reactions:
 
-Serious allergic reactions ( anaphylaxis ) are uncommon (may affect up to 1 in 100 people). Get medical attention immediately, or go to the nearest emergency department, if you get any of the following signs of a serious allergic reaction:
+Serious allergic reactions (anaphylaxis) are uncommon (may affect up to 1 in 100 people). Get medical attention immediately, or go to the nearest emergency department, if you get any of the following signs of a serious allergic reaction:
 
 - swelling of your face, tongue, or mouth
 - breathing difficulties
@@ -2866,14 +2929,14 @@ Very common (may affect more than 1 in 10 people)
 
 Common (may affect up to 1 in 10 people)
 
-- chest infection ( bronchitis )
+- chest infection (bronchitis)
 - infections of the sinuses or lungs
-- shingles ( herpes zoster ) - a red skin rash that can cause pain and burning
-- allergic ( hypersensitivity ) reactions
+- shingles (herpes zoster) - a red skin rash that can cause pain and burning
+- allergic (hypersensitivity) reactions
 
 Not known (the frequency cannot be estimated from the available data)
 
-- joint pain ( arthralgia )
+- joint pain (arthralgia)
 
 ## Reporting of side effects
 
@@ -2902,7 +2965,7 @@ Do not throw away any medicines via wastewater. Ask your pharmacist how to throw
 ## What Saphnelo contains
 
 - The active substance is anifrolumab. Each pre-filled pen contains 120 mg of anifrolumab.
-- The other ingredients are histidine, histidine hydrochloride monohydrate, lysine hydrochloride, trehalose dihydrate, polysorbate 80 (E 433) (see section 2 'Saphnelo contains polysorbate') and water for injections.
+- The other ingredients are histidine, histidine hydrochloride monohydrate, lysine hydrochloride, trehalose dihydrate, polysorbate 80 (E 433) (see section 2 \"Saphnelo contains polysorbate\") and water for injections.
 
 ## What Saphnelo looks like and contents of the pack
 
@@ -2913,11 +2976,15 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-AstraZeneca AB SE-151 85 Södertälje Sweden
+AstraZeneca AB SE-151 85 Södertälje
+
+Sweden
 
 ## Manufacturer
 
-AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
+AstraZeneca AB Gärtunavägen SE-152 57 Södertälje
+
+Sweden
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2929,9 +2996,19 @@ Tel: +32 2 370 48 11
 
 ## България
 
+## Lietuva
+
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
+
+## Luxembourg/Luxemburg
+
 АстраЗенека България ЕООД
 
 Тел.: +359 24455000
+
+AstraZeneca S.A./N.V.
+
+Tél/Tel: +32 2 370 48 11
 
 ## Česká republika
 
@@ -2963,16 +3040,6 @@ AstraZeneca A.E.
 
 Τηλ: +30 210 6871500
 
-## Lietuva
-
-UAB AstraZeneca Lietuva Tel: +370 5 2660550
-
-## Luxembourg/Luxemburg
-
-AstraZeneca S.A./N.V.
-
-Tél/Tel: +32 2 370 48 11
-
 ## Magyarország
 
 AstraZeneca Kft.
@@ -2981,7 +3048,9 @@ Tel.: +36 1 883 6500
 
 ## Malta
 
-Associated Drug Co. Ltd Tel: +356 2277 8000
+Associated Drug Co. Ltd
+
+Tel: +356 2277 8000
 
 ## Nederland
 
@@ -3051,7 +3120,9 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Polska
 
-AstraZeneca Pharma Poland Sp. z o.o. Tel.: +48 22 245 73 00
+AstraZeneca Pharma Poland Sp. z o.o.
+
+Tel.: +48 22 245 73 00
 
 ## Portugal
 
@@ -3083,11 +3154,11 @@ Tel: +46 8 553 26 000
 
 <div style=\"page-break-after: always\"></div>
 
-## Saphnelo
-
 ## Instructions for Use
 
-## 120 mg solution for injection in pre-filled pen anifrolumab
+## Saphnelo 120 mg solution for injection in pre-filled pen
+
+anifrolumab
 
 This 'Instructions for Use' contains information on how to inject using Saphnelo pre-filled pen.
 
@@ -3097,7 +3168,7 @@ Your healthcare provider should show you or your caregiver how to use Saphnelo p
 
 ## Important storage information and warnings
 
-- Store Saphnelo pre-filled pen in a refrigerator between 2 °C to 8 °C in the original carton to protect from light. If needed, Saphnelo pre-filled pen may be stored at room temperature between 20 °C to 25 °C for up to 7 days protected from light .
+- Store Saphnelo pre-filled pen in a refrigerator between 2 °C to 8 °C in the original carton to protect from light. If needed, Saphnelo pre-filled pen may be stored at room temperature between 20 °C to 25 °C for up to 7 days protected from light.
 - Once Saphnelo pre-filled pen has reached room temperature, do not return to the refrigerator. Discard if not used within 7 days at room temperature storage.
 - Each Saphnelo pre-filled pen contains 1 dose for one time use only. Do not share Saphnelo pre-filled pen with other people.
 
@@ -3118,6 +3189,10 @@ Do not remove the cap until right before injecting Saphnelo.
 
 Do not touch the green needle guard.
 
+## Before use
+
+## After use
+
 <!-- image -->
 
 <!-- image -->
@@ -3128,17 +3203,17 @@ Do not touch the green needle guard.
 
 <!-- image -->
 
-<!-- image -->
-
 - 1 Saphnelo pre-filled pen from the refrigerator
 
-1 alcohol wipe
-
 <!-- image -->
 
 <!-- image -->
+
+- 1 alcohol wipe
 
 1 cotton ball or gauze
+
+<!-- image -->
 
 1 small bandage
 
@@ -3156,7 +3231,10 @@ Select a clean, well-lit, flat work surface, such as a table.
 
 ## Check the expiry date (EXP) on the carton.
 
-- Do not use if the expiry date has passed. Check the carton for damage.
+- Do not use if the expiry date has passed.
+
+Check the carton for damage.
+
 - Do not use if the carton looks damaged.
 
 Open the carton and remove one Saphnelo pre-filled pen by gently grasping the middle of the device.
@@ -3177,7 +3255,7 @@ Open the carton and remove one Saphnelo pre-filled pen by gently grasping the mi
 
 - Do not use if damaged.
 
-## Check the liquid through the viewing window .
+## Check the liquid through the viewing window.
 
 - The liquid should be clear and colourless to slightly yellow.
 - Do not use if the liquid is cloudy, discoloured, or contains visible particles.
@@ -3238,7 +3316,7 @@ Go to Step 7 right away after removing the cap.
 
 ## Step 7 - Inject Saphnelo
 
-Inject using Saphnelo pre-filled pen by following the steps in figures a, b, c, and d .
+Inject using Saphnelo pre-filled pen by following the steps in figures a, b, c, and d.
 
 To deliver a full dose, press and hold Saphnelo pre-filled pen for about 15 seconds until the green plunger fills the viewing window.
 
@@ -3248,7 +3326,7 @@ Do not move or change the position of the pre-filled pen after the injection has
 
 <!-- image -->
 
-## Position Saphnelo pre-filled pen .
+## Position Saphnelo pre-filled pen.
 
 - Place the green needle guard flat against the skin (90-degree angle).
 - Make sure you can see the viewing window.
@@ -3266,11 +3344,11 @@ Do not move or change the position of the pre-filled pen after the injection has
 ## Press down firmly and hold against skin.
 
 - You may hear the first 'click' right away. This tells you the injection has started.
+- The green plunger will move down in the viewing window.
 
 ## Hold down firmly for about 15 seconds.
 
 - The green plunger will fill the viewing window.
-- The green plunger will move down in the viewing window.
 - You may hear the second 'click' at the end of injection.
 
 ## Step 8 - Check the viewing window
@@ -3303,15 +3381,17 @@ If needed, press a cotton ball or gauze on the area and apply a small bandage.
 
 ## Step 10 - Throw away (dispose of) the used Saphnelo pre-filled pen
 
-Put your used Saphnelo pre-filled pen in a sharps disposal container right away after use. throw away (dispose of) Saphnelo pre-filled
+Put your used Saphnelo pre-filled pen in a sharps
 
-Do not pen in your household trash.
+disposal container right away after use.
+
+Do not throw away (dispose of) Saphnelo pre-filled pen in your household trash.
 
 ## Disposal guidelines
 
-Dispose of the full container as instructed by your healthcare provider or pharmacist. dispose of your used sharps disposal container in your household trash unless your
+Dispose of the full container as instructed by your healthcare provider or pharmacist.
 
-Do not community guidelines permit this.
+Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
 
 Do not recycle your used sharps disposal container.
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-13 15:30:05
+document_datetime: 2026-10-14 15:06:39
 document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/welireg-epar-product-information_en.pdf
 document_name: welireg-epar-product-information_en.pdf
 version: success
-processing_time: 9.339623
-conversion_datetime: 2026-01-14 07:17:56.055132
+processing_time: 16.7618352
+conversion_datetime: 2026-10-19 23:14:45.791003
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,7 @@ docling_version:
 
 <!-- image -->
 
-This medicinal product is subject to additional monitoring. This will allow quick identif ication of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -32,11 +32,13 @@ WELIREG 40 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each film-coated tablet contains 40 mg of belzutifan. For the full list of  excipients, see section 6.1.
+Each film-coated tablet contains 40 mg of belzutifan. For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Film-coated tablet (tablet). Blue, oval tablet, approximately 13 x 8 mm, debossed with markings
+Film-coated tablet (tablet).
+
+Blue, oval tablet, approximately 13 x 8 mm, debossed with markings \"177\" on one side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -62,9 +64,7 @@ Treatment should continue until disease progression or unacceptable toxicity occ
 
 ## Missed dose
 
-If  a dose of  WELIREG is missed, it can be taken as soon as possible on the same day. The regular daily dose should be resumed the next day. Extra tablets should not be taken to make up for the missed dose.
-
-'177' on one side.
+If a dose of WELIREG is missed, it can be taken as soon as possible on the same day. The regular daily dose should be resumed the next day. Extra tablets should not be taken to make up for the missed dose.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -76,20 +76,21 @@ Dose modifications for WELIREG for adverse reactions are summarised in Table 1.
 
 Table 1: Recommended dose modifications
 
-| Adverse reactions                         | Severity*                                                                                                    | Dose modification                                                                                                                                                          |
-|-------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Anaemia (see section 4.4)                 | Grade 3 (haemoglobin < 8 g/dL; < 4.9 mmol/L; < 80 g/L; transfusion indicated)                                | • Withhold until resolved to ≤ Grade 2 • Resume at the same or reduced dose (reduce by 40 mg); consider discontinuing depending on the severity and persistence ofanaemia  |
-| Anaemia (see section 4.4)                 | Grade 4 (lif e- threatening consequences or urgent intervention indicated)                                   | • Withhold until resolved to ≤ Grade 2 • Resume at a reduced dose (reduce by 40 mg) or permanently discontinue upon recurrence ofGrade 4                                   |
-| Hypoxia (see section 4.4)                 | Grade 3 asymptomatic (decreased oxygen saturation at rest (e.g., pulse oximeter < 88% or PaO 2 ≤ 55mm Hg))   | • Option to continue or withhold until resolved to ≤ Grade 2 • Resume at reduced dose (reduce by 40 mg) or discontinue depending on the severity and persistence ofhypoxia |
-| Hypoxia (see section 4.4)                 | Grade 3 symptomatic (decreased oxygen saturation at rest (e.g., pulse oximeter < 88% or PaO 2 ≤ 55mm Hg))    | • Withhold until resolved to ≤ Grade 2 • Resume at reduced dose (reduce by 40 mg) or discontinue depending on the severity and persistence ofhypoxia                       |
-| Hypoxia (see section 4.4)                 | Grade 4 (lif e- threatening airway compromise; urgent intervention needed (e.g., tracheotomy or intubation)) | • Permanently discontinue                                                                                                                                                  |
-| Other adverse reactions (see section 4.8) | Grade 3                                                                                                      | • Withhold dosing until resolved to ≤ Grade 2 • Consider resuming at a reduced dose (reduce by 40 mg) depending on the severity and persistence                            |
+| Adverse reactions                         | Severity*                                                                                                   | Dose modification                                                                                                                                                           |
+|-------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Anaemia (see section 4.4)                 | Grade 3 (haemoglobin < 8 g/dL; < 4.9 mmol/L; < 80 g/L; transfusion indicated)                               | • Withhold until resolved to ≤ Grade 2 • Resume at the same or reduced dose (reduce by 40 mg); consider discontinuing depending on the severity and persistence of anaemia  |
+| Anaemia (see section 4.4)                 | Grade 4 (life- threatening consequences or urgent intervention indicated)                                   | • Withhold until resolved to ≤ Grade 2 • Resume at a reduced dose (reduce by 40 mg) or permanently discontinue upon recurrence of Grade 4                                   |
+| Hypoxia (see section 4.4)                 | Grade 3 asymptomatic (decreased oxygen saturation at rest (e.g., pulse oximeter < 88% or Pa O2 ≤ 55 mm Hg)) | • Option to continue or withhold until resolved to ≤ Grade 2 • Resume at reduced dose (reduce by 40 mg) or discontinue depending on the severity and persistence of hypoxia |
+| Hypoxia (see section 4.4)                 | Grade 3 symptomatic (decreased oxygen saturation at rest (e.g., pulse oximeter < 88% or Pa O2 ≤ 55 mm Hg))  | • Withhold until resolved to ≤ Grade 2 • Resume at reduced dose (reduce by 40 mg) or discontinue depending on the severity and persistence of hypoxia                       |
+| Hypoxia (see section 4.4)                 | Grade 4 (life- threatening airway compromise; urgent intervention needed (e.g., tracheotomy or intubation)) | • Permanently discontinue                                                                                                                                                   |
+| Other adverse reactions (see section 4.8) | Grade 3                                                                                                     | • Withhold dosing until resolved to ≤ Grade 2 • Consider resuming at a reduced dose (reduce by 40 mg) depending on the severity and persistence                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reactions   | Severity*   | Dose modification                                                 |
-|---------------------|-------------|-------------------------------------------------------------------|
-|                     | Grade 4     | • Permanently discontinue upon recurrence ofGrade 3 • Permanently |
+| Adverse reactions   | Severity*   | Dose modification                                    |
+|---------------------|-------------|------------------------------------------------------|
+|                     |             | • Permanently discontinue upon recurrence of Grade 3 |
+|                     | Grade 4     | • Permanently discontinue                            |
 
 ## Special populations
 
@@ -107,7 +108,7 @@ No dose adjustment is recommended in patients with mild (total bilirubin ≤ upp
 
 ## Paediatric population
 
-The safety and efficacy in children less than 18 years of  age have not been established (see section 5.1). No data are available.
+The safety and efficacy in children less than 18 years of age have not been established (see section 5.1). No data are available.
 
 ## Method of administration
 
@@ -124,7 +125,7 @@ The tablets should be swallowed whole and may be taken with or without food. Tab
 
 ## Anaemia
 
-Anaemia has been reported in patients receiving belzutifan in clinical studies (see section 4.8). Patients should be monitored for anaemia before initiation of and periodically throughout treatment with belzutif an. For patients who develop Grade 3 anaemia, belzutif an should be withheld and patients should be treated according to standard medical practice, including erythropoiesis-stimulating agent (ESA) administration until resolved to ≤ Grade 2 (see the prescribing inf ormation for ESAs for more information). For recurrent Grade 3 anaemia, belzutif an should be discontinued. For patients who develop Grade 4 anaemia, belzutif an should be withheld and permanently discontinued for recurrent Grade 4 anaemia (see section 4.2).
+Anaemia has been reported in patients receiving belzutifan in clinical studies (see section 4.8). Patients should be monitored for anaemia before initiation of and periodically throughout treatment with belzutifan. For patients who develop Grade 3 anaemia, belzutifan should be withheld and patients should be treated according to standard medical practice, including erythropoiesis-stimulating agent (ESA) administration until resolved to ≤ Grade 2 (see the prescribing information for ESAs for more information). For recurrent Grade 3 anaemia, belzutifan should be discontinued. For patients who develop Grade 4 anaemia, belzutifan should be withheld and permanently discontinued for recurrent Grade 4 anaemia (see section 4.2).
 
 ## Hypoxia
 
@@ -132,13 +133,13 @@ Hypoxia has been reported in patients receiving belzutifan in clinical studies (
 
 <div style=\"page-break-after: always\"></div>
 
-Patients should be monitored for oxygen saturation with pulse oximetry before initiation of and periodically throughout treatment with belzutif an. For Grade 3 asymptomatic hypoxia, providing supplemental oxygen and continuing or withholding treatment should be considered. If withheld, belzutifan should be resumed at a reduced dose. For patients who have Grade 3 symptomatic hypoxia, belzutif an should be withheld, hypoxia should be treated, and belzutifan should be resumed at a reduced dose. If symptomatic hypoxia continues to recur, treatment should be discontinued. For Grade 4 hypoxia, treatment should be permanently discontinued (see section 4.2).
+Patients should be monitored for oxygen saturation with pulse oximetry before initiation of and periodically throughout treatment with belzutifan. For Grade 3 asymptomatic hypoxia, providing supplemental oxygen and continuing or withholding treatment should be considered. If withheld, belzutifan should be resumed at a reduced dose. For patients who have Grade 3 symptomatic hypoxia, belzutifan should be withheld, hypoxia should be treated, and belzutifan should be resumed at a reduced dose. If symptomatic hypoxia continues to recur, treatment should be discontinued. For Grade 4 hypoxia, treatment should be permanently discontinued (see section 4.2).
 
 ## Embryo-foetal toxicity: Women of childbearing potential
 
 Belzutifan may cause embryo-foetal harm, including foetal loss, in humans (see sections 4.6 and 5.3). The pregnancy status of women of childbearing potential should be verified prior to initiating treatment with belzutifan.
 
-Women of childbearing potential have to use highly effective contraceptive methods during treatment with belzutifan and f or at least 1 week after the last dose due to the potential risk to the foetus (see sections 4.5 and 4.6).
+Women of childbearing potential have to use highly effective contraceptive methods during treatment with belzutifan and for at least 1 week after the last dose due to the potential risk to the foetus (see sections 4.5 and 4.6).
 
 ## CNS haemorrhage in patients with VHL disease-associated CNS-haemangioblastomas (CNS-HB)
 
@@ -146,13 +147,13 @@ CNS haemorrhage, including with fatal outcome, has been observed in patients wit
 
 ## Information about excipients
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 In vitro and pharmacogenomic studies indicate that belzutifan is metabolised by UGT2B17 and by CYP2C19, and that belzutifan induces CYP3A4 in a concentration dependent manner.
 
-## Effects of belzutif an on other medicinal products
+## Effects of belzutifan on other medicinal products
 
 Coadministration of belzutifan with CYP3A4 substrates, including hormonal contraceptives, decreases concentrations of CYP3A4 substrates, which may reduce the efficacy of these substrates. The magnitude of this decrease may be more pronounced in patients who are dual UGT2B17 and CYP2C19 poor metabolisers (see section 5.2). Coadministration of belzutifan with sensitive CYP3A4 substrates, for which minimal decrease in concentration may lead to therapeutic failures of the substrate should be avoided. If coadministration cannot be avoided, increase the sensitive CYP3A4 substrate dose in accordance with its summary of product characteristics.
 
@@ -164,11 +165,11 @@ Based on in vitro data, MATE2-K inhibition by belzutifan is expected at clinical
 
 <div style=\"page-break-after: always\"></div>
 
-Belzutifan is a CYP2B6 and CYP2C8 inducer in vitro. In vivo investigations have not been perf ormed. Co-administration with belzutifan may result in a clinically relevant decrease in the plasma concentration of sensitive CYP2B6 and/or CYP2C8 substrates.
+Belzutifan is a CYP2B6 and CYP2C8 inducer in vitro. In vivo investigations have not been performed. Coadministration with belzutifan may result in a clinically relevant decrease in the plasma concentration of sensitive CYP2B6 and/or CYP2C8 substrates.
 
 ## Effects of other medicinal products on belzutifan
 
-Coadministration of belzutifan with inhibitors of UGT2B17 or CYP2C19 increases plasma exposures of belzutifan, which may increase the incidence and severity of adverse reactions of belzutif an. Patients should be monitored for anaemia and hypoxia and the dose of belzutifan should be reduced as recommended.
+Coadministration of belzutifan with inhibitors of UGT2B17 or CYP2C19 increases plasma exposures of belzutifan, which may increase the incidence and severity of adverse reactions of belzutifan. Coadministration of belzutifan with inhibitors of CYP3A4 in patients with reduced activity of both UGT2B17 and CYP2C19 is expected to increase the plasma exposure of belzutifan, which may increase the risk of adverse reactions of belzutifan. Patients should be monitored for anaemia and hypoxia and the dose of belzutifan should be reduced as recommended (see section 4.2).
 
 Effects of strong CYP2C19 inducers on belzutifan exposure have not yet been studied.
 
@@ -178,13 +179,13 @@ Effects of strong CYP2C19 inducers on belzutifan exposure have not yet been stud
 
 The pregnancy status of women of childbearing potential should be verified prior to initiating treatment with belzutifan.
 
-Belzutifan may cause embryo-foetal harm, including foetal loss, when administered to a pregnant woman (see sections 4.4 and 5.3). Women of childbearing potential should be informed of the potential risk to a f oetus.
+Belzutifan may cause embryo-foetal harm, including foetal loss, when administered to a pregnant woman (see sections 4.4 and 5.3). Women of childbearing potential should be informed of the potential risk to a foetus.
 
-Women of childbearing potential have to use highly effective contraception during treatment with belzutifan and for at least 1 week af ter the last dose. Use of belzutifan may reduce the eff icacy of hormonal contraceptives. Patients using hormonal contraceptives should be advised to use an alternative non-hormonal contraceptive method or have their male partner use a condom during treatment with belzutifan (see section 4.5).
+Women of childbearing potential have to use highly effective contraception during treatment with belzutifan and for at least 1 week after the last dose. Use of belzutifan may reduce the efficacy of hormonal contraceptives. Patients using hormonal contraceptives should be advised to use an alternative non-hormonal contraceptive method or have their male partner use a condom during treatment with belzutifan (see section 4.5).
 
 ## Pregnancy
 
-There are no or limited amount of data from the use of  belzutif an in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
+There are no or limited amount of data from the use of belzutifan in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
 ## Renal cell carcinoma
 
@@ -196,25 +197,25 @@ Belzutifan is contraindicated during pregnancy (see section 4.3). If pregnancy o
 
 ## Breast-feeding
 
-There are no data on the presence of belzutif an or its metabolites in human milk, their eff ects on the breast-fed child, or on milk production. Because of the potential for serious adverse reactions in breast-f ed children, advise women not to breast-feed during treatment with belzutif an and f or at least 1 week after the last dose.
+There are no data on the presence of belzutifan or its metabolites in human milk, their effects on the breast-fed child, or on milk production. Because of the potential for serious adverse reactions in breast-fed children, advise women not to breast-feed during treatment with belzutifan and for at least 1 week after the last dose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
-Based on findings in animals, belzutifan may impair fertility in males and females of reproductive potential (see section 5.3). Patients should be advised of this potential risk. The reversibility of the effect on f ertility is unknown.
-
-<div style=\"page-break-after: always\"></div>
+Based on findings in animals, belzutifan may impair fertility in males and females of reproductive potential (see section 5.3). Patients should be advised of this potential risk. The reversibility of the effect on fertility is unknown.
 
 ## 4.7 Effects on ability to drive and use machines
 
 Belzutifan has minor influence on the ability to drive and use machines. Dizziness and fatigue may occur following administration of belzutifan (see section 4.8).
 
-Patients should be advised not to drive and use machines, until they are reasonably certain belzutif an therapy does not affect them adversely.
+Patients should be advised not to drive and use machines, until they are reasonably certain belzutifan therapy does not affect them adversely.
 
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-The safety of belzutif an has been evaluated in 576 patients with advanced solid tumours and VHL disease-associated localised tumours treated with 120 mg belzutifan once daily in clinical studies. The median duration of exposure to belzutifan was 9.2 months (range: 0.1 to 55.4 months).
+The safety of belzutifan has been evaluated in 576 patients with advanced solid tumours and VHL disease-associated localised tumours treated with 120 mg belzutifan once daily in clinical studies. The median duration of exposure to belzutifan was 9.2 months (range: 0.1 to 55.4 months).
 
 The most common adverse reactions under treatment with belzutifan were anaemia (84.2%), fatigue (42.7%), nausea (24.1%), dyspnoea (21.4%), dizziness (17.9%) and hypoxia (16.3%).
 
@@ -224,7 +225,7 @@ The most common adverse reactions resulting in dose interruption of belzutifan w
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in the pooled dataset f or patients treated with belzutif an (n=576) or reported from post-marketing use are listed in Table 2. These reactions are presented by system organ class and by f requency. Frequencies are def ined as: very common (≥ 1/10); c ommon (≥ 1/100 to &lt; 1/10);  uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); and very rare (&lt; 1/10 000).
+Adverse reactions reported in the pooled dataset for patients treated with belzutifan (n=576) or reported from post-marketing use are listed in Table 2. These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); and very rare (&lt; 1/10 000).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -264,7 +265,7 @@ Hypoxia occurred in 15% of patients with advanced RCC receiving belzutifan and 1
 
 <div style=\"page-break-after: always\"></div>
 
-Hypoxia (Grade 3) was reported in 1.6% of patients with VHL disease-associated tumours receiving belzutifan. Time to onset of  hypoxia was 56 days.
+Hypoxia (Grade 3) was reported in 1.6% of patients with VHL disease-associated tumours receiving belzutifan. Time to onset of hypoxia was 56 days.
 
 ## Reporting of suspected adverse reactions
 
@@ -272,7 +273,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-There is no specific treatment for belzutifan overdose. In cases of suspected overdose, if necessary, withhold belzutifan and institute supportive care. The highest dose of belzutifan studied clinically was 240 mg total daily dose (120 mg twice a day or 240 mg once a day). Grade 3 hypoxia occurred at 120 mg twice a day and Grade 4 thrombocytopenia occurred at 240 mg once daily.
+There is no specific treatment for belzutifan overdose. In cases of suspected overdose, if necessary, withhold belzutifan and institute supportive care. The highest dose of belzutifan studied clinically was 600 mg total daily dose (200 mg three times a day). At doses of 320 mg to 600 mg daily in 26 patients, the most common adverse reactions were anaemia (92%), dyspnoea (42%) and fatigue (42%).
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -282,29 +283,27 @@ Pharmacotherapeutic group: Antineoplastic agent, other antineoplastic agents. AT
 
 ## Mechanism of action
 
-Belzutifan is an inhibitor of  the transcription f actor hypoxia-inducible factor 2 alpha (HIF2α). Under normal oxygen levels, HIF2α is targeted f or degradation by VHL protein. Impairment of VHL protein function results in accumulation of HIF2α. Consequently, HIF2α translocates into the nucleus and regulates expression of genes associated with cellular prolif eration, angiogenesis, and tumour growth. Belzutifan binds to HIF2α, and in conditions of  hypoxia or impairment of  VHL protein f unction, belzutif an blocks the HIF2α -HIF-1 β interaction, leading to reduced transcription and expression of HIF2α target genes.
+Belzutifan is an inhibitor of the transcription factor hypoxia-inducible factor 2 alpha (HIF-2α). Under normal oxygen levels, HIF-2α is targeted for degradation by VHL protein. Impairment of VHL protein function results in accumulation of HIF-2α. Consequently, HIF-2α translocates into the nucleus and regulates expression of genes associated with cellular proliferation, angiogenesis, and tumour growth. Belzutifan binds to HIF-2α, and in conditions of hypoxia or impairment of VHL protein function, belzutifan blocks the HIF-2α-HIF-1β interaction, leading to reduced transcription and expression of HIF-2α target genes.
 
 ## Pharmacodynamic effects
 
-Circulating plasma levels of erythropoietin (EPO) were monitored in patients as a pharmacodynamic marker of HIF2α inhibition. Reductions in EPO were observed to be dose/exposure dependent and showed a plateauing effect on reduction at exposures achieved with doses above 120 mg once daily. The maximum EPO suppression occurred following 2 weeks of consecutive dosing of belzutifan (mean percent decrease from baseline of approximately 60%). Mean EPO levels gradually returned to baseline values af ter 12 weeks of treatment.
+Circulating plasma levels of erythropoietin (EPO) were monitored in patients as a pharmacodynamic marker of HIF-2α inhibition. Reductions in EPO were observed to be dose/exposure dependent and showed a plateauing effect on reduction at exposures achieved with doses above 120 mg once daily. The maximum EPO suppression occurred following 2 weeks of consecutive dosing of belzutifan (mean percent decrease from baseline of approximately 60%). Mean EPO levels gradually returned to baseline values after 12 weeks of treatment.
 
-At the recommended dose (120 mg once daily) for belzutif an, there were no clinically relevant ef f ects on the QTc interval.
+At the recommended dose (120 mg once daily) for belzutifan, there were no clinically relevant effects on the QTc interval.
 
-## Clinical eff icacy
+## Clinical efficacy
 
 ## Clinical study in adult patients with advanced renal cell carcinoma (RCC)
 
-The efficacy of belzutif an was evaluated in LITESPARK-005, an open-label, randomised, activecontrolled Phase 3 clinical study comparing belzutif an with everolimus in 746 patients with unresectable, locally advanced or metastatic clear cell RCC that has progressed following PD-1/L1 checkpoint inhibitors and VEGF receptor targeted therapies either in sequence or in combination. Patients could have received up to 3 prior treatment regimens and must have measurable disease per RECIST v1.1. The study excluded patients with hypoxia, active CNS metastases and clinically signif icant cardiac disease. Patients were randomised in a 1:1 ratio to receive 120 mg belzutifan or 10 mg everolimus by oral administration once daily. Randomisation was stratified by International
+The efficacy of belzutifan was evaluated in LITESPARK-005, an open-label, randomised, activecontrolled Phase 3 clinical study comparing belzutifan with everolimus in 746 patients with unresectable, locally advanced or metastatic clear cell RCC that has progressed following PD-1/L1 checkpoint inhibitors and VEGF receptor targeted therapies either in sequence or in combination. Patients could have received up to 3 prior treatment regimens and must have measurable disease per RECIST v1.1. The study excluded patients with hypoxia, active CNS metastases and clinically significant cardiac disease. Patients were randomised in a 1:1 ratio to receive 120 mg belzutifan or 10 mg everolimus by oral administration once daily. Randomisation was stratified by International Metastatic RCC Database Consortium (IMDC) risk categories (favourable versus intermediate versus poor) and number of prior VEGF receptor targeted therapies (1 versus 2- 3).
 
 <div style=\"page-break-after: always\"></div>
 
-Metastatic RCC Database Consortium (IMDC) risk categories (favourable versus intermediate versus poor) and number of prior VEGF receptor targeted therapies (1 versus 2- 3).
-
 Patients were evaluated radiologically at Week 9 from the date of randomisation, then every 8 weeks through Week 49, and every 12 weeks thereafter.
 
-Among the 746 patients in LITESPARK-005, 369 patients received two or more lines of therapy that included a PD-(L)1 inhibitor and at least two VEGF-targeted therapies. The baseline characteristics of those patients were: median age 63 years (range: 33 to 82 years), 40 % age 65 or older; 11 % age 75 or older; 79 % male; 78 % White; 12 % Asian; 1 % Black or African American; 42 % ECOG performance status 0 and 56 % ECOG performance status 1. Prior lines of therapies: 17 % of patients had 2 , 81 % had 3 and 2 % had 4 prior lines of  therapies. Patient distribution by IMDC risk categories was 22 % favourable, 66 % intermediate, and 12 % poor.
+Among the 746 patients in LITESPARK-005, 369 patients received two or more lines of therapy that included a PD-(L)1 inhibitor and at least two VEGF-targeted therapies. The baseline characteristics of those patients were: median age 63 years (range: 33 to 82 years), 40% age 65 or older; 11% age 75 or older; 79% male; 78% White; 12% Asian; 1% Black or African American; 42% ECOG performance status 0 and 56% ECOG performance status 1. Prior lines of therapies: 17% of patients had 2, 81% had 3 and 2% had 4 prior lines of therapies. Patient distribution by IMDC risk categories was 22% favourable, 66% intermediate, and 12% poor.
 
-The primary efficacy outcome measures were progression-free survival (PFS) measured by BICR using RECIST v1.1, and overall survival (OS). Secondary efficacy outcome measures included objective response rate (ORR) and duration of response (DOR) by BICR using RECIST v1.1. In the overall population, the study demonstrated statistically significant improvements of  PFS (HR: 0.75 [95% CI 0.63, 0.90], p-Value 0.00077) and ORR (21.9% versus 3.5%, p-Value &lt; 0.00001) for patients randomised to belzutifan compared with everolimus at a pre-specif ied interim analysis (median follow-up time of 13.5 months [range: 0.2 to 31.8 months]).
+The primary efficacy outcome measures were progression-free survival (PFS) measured by BICR using RECIST v1.1, and overall survival (OS). Secondary efficacy outcome measures included objective response rate (ORR) and duration of response (DOR) by BICR using RECIST v1.1. In the overall population, the study demonstrated statistically significant improvements of PFS (HR: 0.75 [95% CI 0.63, 0.90], p-Value 0.00077) and ORR (21.9% versus 3.5%, p-Value &lt; 0.00001) for patients randomised to belzutifan compared with everolimus at a pre-specified interim analysis (median follow-up time of 13.5 months [range: 0.2 to 31.8 months]).
 
 Table 3 summarises key efficacy measures in the subgroup of patients that received two or more lines of therapy that included a PD-(L)1 inhibitor and at least two VEGF-targeted therapies in LITESPARK-005. The KM curves for PFS and OS are shown in Figures 1 and 2.
 
@@ -313,44 +312,46 @@ Table 3: Efficacy results in LITESPARK-005 for patients that received two or mor
 | Endpoint                        | Belzutifan n=187   | Everolimus n=182   |
 |---------------------------------|--------------------|--------------------|
 | PFS *                           |                    |                    |
-| Number ofevents, n (%)          | 127 (67.9%)        | 130 (71.4%)        |
+| Number of events, n (%)         | 127 (67.9%)        | 130 (71.4%)        |
 | Median † PFS in months (95% CI) | 4.6 (3.5, 7.3)     | 5.4 (3.8, 6.5)     |
 | Hazard ratio ‡ (95% CI)         | 0.73 (0.57, 0.94)  | 0.73 (0.57, 0.94)  |
 | OS ¶                            |                    |                    |
-| Number ofevents, n (%)          | 128 (68.1%)        | 125 (68.7%)        |
+| Number of events, n (%)         | 128 (68.1%)        | 125 (68.7%)        |
 | Median † OS in months (95% CI)  | 21.8 (17.4, 25.8)  | 18.1 (14.2, 23.9)  |
 | Hazard ratio ‡ (95% CI)         | 0.94 (0.74, 1.21)  | 0.94 (0.74, 1.21)  |
 | ORR * % (95% CI)                | 24.1% (18.1, 30.8) | 3.3% (1.2, 7.0)    |
 | Complete response, n (%)        | 5 (2.7%)           | 0 (0%)             |
 | Partial response, n (%)         | 40 (21.4%)         | 6 (3.3%)           |
 | Response duration *             |                    |                    |
-| Median in months (range)        | NR(1.9+, 23.1+)    | 17.2 (3.8, 17.2)   |
+| Median in months (range)        | NR (1.9+, 23.1+)   | 17.2 (3.8, 17.2)   |
 
-The median time to response (TTR) was 3.7 months (range: 1.7- 16.6) in the belzutifan arm and 3.0 months (range: 1.8- 5.4) in the everolimus arm (median follow-up time of 13.5 months), in the subgroup of patients that received two or more lines of therapy that included a PD-L(1) inhibitor and
+The median time to response (TTR) was 3.7 months (range: 1.7- 16.6) in the belzutifan arm and 3.0 months (range: 1.8- 5.4) in the everolimus arm (median follow-up time of 13.5 months), in the at least two VEGF-targeted therapies in LITESPARK-005.
+
+subgroup of patients that received two or more lines of therapy that included a PD-(L)1 inhibitor and
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1: Kaplan-Meier curve for progression-free survival by treatment arm in LITESPARK005 for patients that received two or more lines of therapy that included a PD(L)1 inhibitor and at least two VEGF-targeted therapies *
-
-30
+Figure 1: Kaplan-Meier curve for progression-free survival by treatment arm in LITESPARK- 005 for patients that received two or more lines of therapy that included a PD(L)1 inhibitor and at least two VEGF-targeted therapies *
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 2: Kaplan-Meier curve for overall survival by treatment arm in LITESPARK-005 for patients that received two or more lines of therapy that included a PD(L)1 inhibitor and at least two VEGF-targeted therapies *
+Figure 2: Kaplan-Meier curve for overall survival by treatment arm in LITESPARK-005 for patients that received two or more lines of therapy that included a PD-(L)1 inhibitor and at least two VEGF-targeted therapies *
+
+<!-- image -->
+
+Everolimus
 
 * Median follow-up time of 18.9 months
 
-<!-- image -->
-
-Clinical study in adult patients with von Hippel-Lindau (VHL) disease-associated tumours The efficacy of belzutif an was investigated in LITESPARK-004, an open-label Phase 2 clinical study in 61 patients with VHL disease who had at least one measurable solid tumour (as defined by RECIST v1.1) localised to the kidney and who did not require immediate surgery. Patients could also have other VHL disease-associated tumours, such as CNS haemangioblastomas and pNET. Patients received belzutifan at a dose of 120 mg once daily. Patients were evaluated radiologically approximately 12 weeks after initiation of treatment and every 12 weeks thereafter. Treatment was continued until progression of disease or unacceptable toxicity. Patients were required to have an ECOG PS of 0 or 1. The study excluded patients who had any evidence of metastatic disease, either RCC or other VHL disease-associated tumours, an immediate need for surgical intervention for tumour treatment, any major surgical procedure completed within 4 weeks prior to study enrolment, any major cardiovascular event within 6 months prior to study drug administration, or prior systemic treatments for VHL disease-associated RCC.
+Clinical study in adult patients with von Hippel-Lindau (VHL) disease-associated tumours The efficacy of belzutifan was investigated in LITESPARK-004, an open-label Phase 2 clinical study in 61 patients with VHL disease who had at least one measurable solid tumour (as defined by RECIST v1.1) localised to the kidney and who did not require immediate surgery. Patients could also have other VHL disease-associated tumours, such as CNS haemangioblastomas and pNET. Patients received belzutifan at a dose of 120 mg once daily. Patients were evaluated radiologically approximately 12 weeks after initiation of treatment and every 12 weeks thereafter. Treatment was continued until progression of disease or unacceptable toxicity. Patients were required to have an ECOG PS of 0 or 1. The study excluded patients who had any evidence of metastatic disease, either RCC or other VHL disease-associated tumours, an immediate need for surgical intervention for tumour treatment, any major surgical procedure completed within 4 weeks prior to study enrolment, any major cardiovascular event within 6 months prior to study drug administration, or prior systemic treatments for VHL disease-associated RCC.
 
 Among the 61 patients enrolled in LITESPARK-004, the population characteristics were: median age of 41 years, 3.3% age 65 or older; 52.5% male; 90.2% White; and 82.0% had an ECOG PS of 0 and 16.4% had an ECOG PS of 1. Seventy-seven percent of patients had prior RCC surgical procedures. Other VHL disease-associated tumours in patients included pancreatic lesions (100.0%) of which 36.1% were pancreatic neuroendocrine tumours, CNS haemangioblastomas (82.0%), and retinal angiomas (19.7%).
 
 <div style=\"page-break-after: always\"></div>
 
-The primary efficacy endpoint for the treatment of VHL disease-associated RCC was ORR measured by radiology assessment using RECIST v1.1 as assessed by a central independent review committee (IRC). Additional ef ficacy endpoints included DOR and TTR. ORR and DOR in other VHL diseaseassociated tumours were assessed as secondary efficacy endpoints.
+The primary efficacy endpoint for the treatment of VHL disease-associated RCC was ORR measured by radiology assessment using RECIST v1.1 as assessed by a central independent review committee (IRC). Additional efficacy endpoints included DOR and TTR. ORR and DOR in other VHL diseaseassociated tumours were assessed as secondary efficacy endpoints.
 
 Table 4 summarises the efficacy results for VHL disease-associated RCC tumours in LITESPARK004, based on an interim analysis with a median follow-up time of 49.7 months.
 
@@ -362,12 +363,12 @@ Table 4: Efficacy results in VHL disease-associated RCC tumours in LITESPARK-004
 | Complete response           | 11.5%              |
 | Partial response            | 55.7%              |
 | Response duration †         |                    |
-| Median in months (range)    | NR(8.6+, 44.4+)    |
+| Median in months (range)    | NR (8.6+, 44.4+)   |
 | % with duration ≥ 12 months | 100.0%             |
 | Time to response            |                    |
 | Median in months (range)    | 11.1 (2.7, 41.2)   |
 
-Efficacy data with a median follow-up of  49.7 months (cut-off date 3 Apr 2023)
+Efficacy data with a median follow-up of 49.7 months (cut-off date 3 Apr 2023)
 
 * Response: Best objective response as confirmed complete response or partial response
 
@@ -381,39 +382,28 @@ Efficacy endpoints for the treatment of other VHL disease-associated tumours inc
 
 Table 5: Efficacy results for belzutifan for other VHL disease-associated tumours
 
-|                             | Belzutifan n=61                                     | Belzutifan n=61                                                |
-|-----------------------------|-----------------------------------------------------|----------------------------------------------------------------|
-| Endpoint                    | Patients with evaluable CNS haemangioblastomas n=50 | Patients with evaluable pancreatic neuroendocrine tumours n=22 |
-| ORR * %(95% CI)             | 48% (33.7, 62.6)                                    | 90.9% (70.8, 98.9)                                             |
-| Complete response           | 8.0%                                                | 50.0%                                                          |
-| Partial response            | 40.0%                                               | 40.9%                                                          |
-| Response duration †         |                                                     |                                                                |
-| Median in months (range)    | NR (0.0+, 47.5+)                                    | NR (11.0+, 48.3+)                                              |
-| % with duration ≥ 12 months | 95.5%                                               | 100.0%                                                         |
-
-Efficacy data with a median follow-up of  49.7 months (cut-off date 3 Apr 2023)
-
-*  Response: Best objective response as confirmed complete response or partial response
-
-† Based on Kaplan-Meier estimates
-
-+ Denotes ongoing response
-
-NR = Not reached
+| Endpoint                    | Belzutifan n=61 - Patients with evaluable CNS haemangioblastomas n=50   | Belzutifan n=61 - Patients with evaluable pancreatic neuroendocrine tumours n=22   |
+|-----------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| ORR * % (95% CI)            | 48% (33.7, 62.6)                                                        | 90.9% (70.8, 98.9)                                                                 |
+| Complete response           | 8.0%                                                                    | 50.0%                                                                              |
+| Partial response            | 40.0%                                                                   | 40.9%                                                                              |
+| Response duration †         |                                                                         |                                                                                    |
+| Median in months (range)    | NR (0.0+, 47.5+)                                                        | NR (11.0+, 48.3+)                                                                  |
+| % with duration ≥ 12 months | 95.5%                                                                   | 100.0%                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with WELIREG in all subsets of the paediatric population in renal neoplasms and VHL disease (see section 4.2 f or inf ormation on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with WELIREG in all subsets of the paediatric population in renal neoplasms and VHL disease (see section 4.2 for information on paediatric use).
 
 ## Conditional approval
 
-This medicinal product has been authorised under a socalled 'conditional approval' scheme. T his means that further evidence on this medicinal product is awaited. The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
+This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited. The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of belzutifan are similar in healthy subjects and patients with solid tumours including advanced RCC. Based on population PK analysis, the simulated geometric mean steadystate (CV%) Cmax is 1.5 mcg/mL (46%) and AUC0-24hr is 20.8 mcg ·hr/mL (6 4%) in patients treated with 120 mg belzutifan. Steady state is reached after approximately 3 days.
+The pharmacokinetics of belzutifan are similar in healthy subjects and patients with solid tumours including advanced RCC. Based on population PK analysis, the simulated geometric mean steadystate (CV%) Cmax is 1.5 mcg/mL (46%) and AUC0-24hr is 20.8 mcg·hr/mL (64%) in patients treated with 120 mg belzutifan. Steady state is reached after approximately 3 days.
 
 ## Absorption
 
@@ -421,7 +411,7 @@ Following single-dose oral administration of 120 mg of belzutifan, peak plasma c
 
 ## Effect of food
 
-A high-fat, high-calorie meal delayed peak belzutifan concentration by approximately 2 hours but, had no effect on exposure (AUC). There was a modest decrease of Cmax by 24% following consumption of a high-f at, high-calorie meal, but this was not clinically meaningful. Theref ore, belzutifan can be taken without regard to food.
+A high-fat, high-calorie meal delayed peak belzutifan concentration by approximately 2 hours but, had no effect on exposure (AUC). There was a modest decrease of Cmax by 24% following consumption of a high-fat, high-calorie meal, but this was not clinically meaningful. Therefore, belzutifan can be taken without regard to food.
 
 ## Distribution
 
@@ -429,11 +419,11 @@ Based on the population PK analysis, the mean (CV%) volume of distribution is 12
 
 ## Biotransformation
 
-Belzutifan is primarily metabolised by UGT2B17 and CYP2C19 and to lesser extent by CYP3A4. Both UGT2B17 and CYP2C19 display genetic polymorphisms (see 'Special popula tions Dual UGT2B17 and CYP2C19 Poor Metabolisers ' ).
+Belzutifan is primarily metabolised by UGT2B17 and CYP2C19 and to lesser extent by CYP3A4. Both UGT2B17 and CYP2C19 display genetic polymorphisms (see 'Special populations - Dual UGT2B17 and CYP2C19 Poor Metabolisers').
 
 ## In vitro assessment of drug interactions
 
-Belzutifan is a substrate of  UGT2B17, CYP2C19 and CYP3A4. Active transport is not an important determinant of belzutifan disposition. Belzutifan is not an inhibitor of CYP enzymes, UGT enzymes, or transporters with the exception of MATE2-K, and potentially MATE1. Belzutifan does not induce CYP1A2, however, belzutifan induces CYP2B6, CYP2C8 and CYP3A4 in a concentration dependent manner (see section 4.5).
+Belzutifan is a substrate of UGT2B17, CYP2C19 and CYP3A4. Active transport is not an important determinant of belzutifan disposition. Belzutifan is not an inhibitor of CYP enzymes, UGT enzymes, or transporters with the exception of MATE2-K, and potentially MATE1. Belzutifan does not induce CYP1A2, however, belzutifan induces CYP2B6, CYP2C8 and CYP3A4 in a concentration dependent manner (see section 4.5).
 
 ## Elimination
 
@@ -441,7 +431,7 @@ Based on the population PK analysis, the mean (CV%) clearance is 5.89 L/hr (60.6
 
 <div style=\"page-break-after: always\"></div>
 
-Following oral administration of radiolabelled belzutif an to healthy subjects, approximately 49.6% of the dose was excreted in urine and 51.7% in faeces (primarily as inactive metabolites). Approximately 6% of the dose was recovered as parent drug in urine.
+Following oral administration of radiolabelled belzutifan to healthy subjects, approximately 49.6% of the dose was excreted in urine and 51.7% in faeces (primarily as inactive metabolites). Approximately 6% of the dose was recovered as parent drug in urine.
 
 ## Linearity
 
@@ -451,27 +441,27 @@ The plasma Cmax and AUC increased proportionally over a dose range of 40 mg to 1
 
 ## Renal impairment
 
-Based on a population pharmacokinetic analysis of belzutifan in healthy subjects and patients with cancer, no clinically significant differences in the mean belzutif an exposure were observed between subjects with normal renal f unction and those with mild and moderate renal impairment (as evaluated by estimated glomerular filtration rate (eGFR)). In a dedicated pharmacokinetic study, belzutifan exposure (AUC0-INF) decreased by 6% and increased by 14% in patients with end-stage renal disease before and after haemodialysis, respectively (see section 4.2).
+Based on a population pharmacokinetic analysis of belzutifan in healthy subjects and patients with cancer, no clinically significant differences in the mean belzutifan exposure were observed between subjects with normal renal function and those with mild and moderate renal impairment (as evaluated by estimated glomerular filtration rate (eGFR)). In a dedicated pharmacokinetic study, belzutifan exposure (AUC0-INF) decreased by 6% and increased by 14% in patients with end-stage renal disease before and after haemodialysis, respectively (see section 4.2).
 
 ## Hepatic impairment
 
-Based on a population pharmacokinetic analysis of belzutifan in healthy subjects and patients with cancer, no clinically significant differences in the mean belzutif an exposure were observed between subjects with normal liver f unction (total bilirubin and AST ≤ ULN), and those with mild hepatic impairment (total bilirubin ≤ ULN and AST &gt; ULN or total bilirubin &gt; 1 to 1.5 x ULN and any AST). In a dedicated pharmacokinetic study, belzutif an exposure (AUC0-INF) increased by 52% in patients with moderate hepatic impairment (Child-Pugh B). Patients with severe hepatic impairment have not been studied (see section 4.2).
+Based on a population pharmacokinetic analysis of belzutifan in healthy subjects and patients with cancer, no clinically significant differences in the mean belzutifan exposure were observed between subjects with normal liver function (total bilirubin and AST ≤ ULN), and those with mild hepatic impairment (total bilirubin ≤ ULN and AST &gt; ULN or total bilirubin &gt; 1 to 1.5 x ULN and any AST). In a dedicated pharmacokinetic study, belzutifan exposure (AUC0-INF) increased by 52% in patients with moderate hepatic impairment (Child-Pugh B). Patients with severe hepatic impairment have not been studied (see section 4.2).
 
 ## Dual UGT2B17 and CYP2C19 Poor Metabolisers
 
-Patients who are dual UGT2B17 and CYP2C19 poor metabolisers have higher belzutifan exposures, which may increase the incidence and severity of adverse reactions of belzutifan and should be closely monitored (see sections 4.4 and 4.8).
+Patients who are dual UGT2B17 and CYP2C19 poor metabolisers have higher belzutifan exposures, which may increase the incidence and severity of adverse reactions of belzutifan and should be closely monitored (see sections 4.4, 4.5 and 4.8).
 
 Belzutifan is primarily metabolised by UGT2B17 and CYP2C19. The activity of these enzymes varies among individuals who carry different genetic variants, which may impact belzutifan concentrations. Poor metabolisers are individuals who are considered to have little to no enzyme activity. In patients who are dual UGT2B17 and CYP2C19 poor metabolisers, CYP3A4 may be a major elimination pathway.
 
 Approximately 15% of Caucasians, 11% of Latinos, 6% of African Americans, 38% of South Asians, and 69% of East Asians are UGT2B17 poor metabolisers. Approximately 2% of Caucasians, 1% of Latinos, 5% of African Americans, 8% of South Asians, and 13% of East Asians are CYP2C19 poor metabolisers. Approximately 0.4% of Caucasians, 0.1% of Latinos, 0.3% of African Americans, 3% of South Asians, and 9% of East Asians are dual UGT2B17 and CYP2C19 poor metabolisers. Expected frequencies in the Japanese population for the UGT2B17, CYP2C19, and dual UGT2B17 and CYP2C19 poor metabolisers are approximately 77%, 19%, and 15%, respectively. Expected frequencies in the United States population for the UGT2B17, CYP2C19, and dual UGT2B17 and CYP2C19 poor metabolisers are approximately 16%, 3%, and 0.5%, respectively based on the reported proportion of the US population represented by major racial/ethnic groups.
 
-The impact of CYP2C19 and UGT2B17 poor metabolisers on belzutifan exposure was assessed in a population PK analysis. Based on the population PK model, patients who are CYP2C19, UGT2B17, or dual UGT2B17 and CYP2C19 poor metabolisers, are projected to have 1.3-, 2.7- or 3.3 -fold the exposures (steady-state AUC0-24hr), respectively, compared to a typical ref erence patient (UGT2B17 extensive metaboliser, CYP2C19 extensive/intermediate metaboliser) for the recommended dose. No dose adjustment is recommended based on exposure-response analyses for efficacy and safety and the risk-benefit profile.
+The impact of CYP2C19 and UGT2B17 poor metabolisers on belzutifan exposure was assessed in a population PK analysis. Based on the population PK model, patients who are CYP2C19, UGT2B17, or dual UGT2B17 and CYP2C19 poor metabolisers, are projected to have 1.3-, 2.7- or 3.3 -fold the exposures (steady-state AUC0-24hr), respectively, compared to a typical reference patient (UGT2B17 extensive metaboliser, CYP2C19 extensive/intermediate metaboliser) for the recommended dose. No dose adjustment is recommended based on exposure-response analyses for efficacy and safety and the risk-benefit profile.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Effects of age, gender, ethnicity, race, and body weight
 
-Based on a population pharmacokinetic analysis, age (range: 19 to 90 years), gender, ethnicity, race, and body weight (range: 42.1 to 166 kg) do not have a clinically meaningful effect on the pharmacokinetics of belzutifan. Potential dif ferences in exposure across races are possible due to different frequencies of metabolising enzymes (see 'Special populations -Dual UGT2B17 and CYP2C19 Poor Metabolisers ' ).
+Based on a population pharmacokinetic analysis, age (range: 19 to 90 years), gender, ethnicity, race, and body weight (range: 42.1 to 166 kg) do not have a clinically meaningful effect on the pharmacokinetics of belzutifan. Potential differences in exposure across races are possible due to different frequencies of metabolising enzymes (see 'Special populations - Dual UGT2B17 and CYP2C19 Poor Metabolisers').
 
 ## 5.3 Preclinical safety data
 
@@ -489,9 +479,9 @@ Belzutifan was not genotoxic in in vitro bacterial mutagenesis and micronucleus 
 
 ## Reproductive toxicity
 
-Fertility studies with belzutifan have not been conducted. In the 3-month repeat-dose toxicity study in rats, irreversible testicular atrophy/degeneration and oligospermia was observed at exposures lower than the human exposure at the recommended dose of 120 mg daily. No testicular toxicity was observed in dogs up to an exposure similar to the human exposure. There were no findings in female reproductive organs in either rat or dog 3-month toxicity studies, but HIF2α has a f unctional role in the uterus during embryo implantation and establishment of pregnancy in mice. HIF2α inhibition by exposure to belzutifan has the potential to interfere with embryo implantation, leading to impairment of female fertility.
+Fertility studies with belzutifan have not been conducted. In the 3-month repeat-dose toxicity study in rats, irreversible testicular atrophy/degeneration and oligospermia was observed at exposures lower than the human exposure at the recommended dose of 120 mg daily. No testicular toxicity was observed in dogs up to an exposure similar to the human exposure. There were no findings in female reproductive organs in either rat or dog 3-month toxicity studies, but HIF-2α has a functional role in the uterus during embryo implantation and establishment of pregnancy in mice. HIF-2α inhibition by exposure to belzutifan has the potential to interfere with embryo implantation, leading to impairment of female fertility.
 
-In a rat embryo-f oetal development study, administration of belzutifan during organogenesis caused embryo-foetal lethality up to 100%, reduced foetal body weight, and foetal skeletal abnormalities at exposures similar to or below the human exposure at the recommended dose of 120 mg daily.
+In a rat embryo-foetal development study, administration of belzutifan during organogenesis caused embryo-foetal lethality up to 100%, reduced foetal body weight, and foetal skeletal abnormalities at exposures similar to or below the human exposure at the recommended dose of 120 mg daily.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -503,7 +493,7 @@ Hypromellose acetate succinate Cellulose microcrystalline (E460) Mannitol (E421)
 
 <div style=\"page-break-after: always\"></div>
 
-## Film-coating
+Film-coating
 
 Polyvinyl alcohol (E1203) Titanium dioxide (E171) Macrogol (E1521) Talc (E553b)
 
@@ -523,7 +513,7 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-Aluminium/aluminium blisters. Pack containing 90 (3 cartons of 30 tablets) f ilm-coated tablets.
+Aluminium/aluminium blisters. Pack containing 90 (3 cartons of 30 tablets) film-coated tablets.
 
 ## 6.6 Special precautions for disposal
 
@@ -541,9 +531,13 @@ EU/1/24/1893/002
 
 Date of first authorisation: 12 February 2025
 
+Date of latest renewal: 8 January 2026
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+17
 
 <div style=\"page-break-after: always\"></div>
 
@@ -601,7 +595,7 @@ The MAH shall ensure that in each Member State where WELIREG is marketed, all he
 - Guide for healthcare professionals
 - Patient card
 
-## Educational material for healthcare professionals :
+## Educational material for healthcare professionals:
 
 - The Summary of Product Characteristics
 - Guide for healthcare professionals
@@ -614,10 +608,10 @@ The MAH shall ensure that in each Member State where WELIREG is marketed, all he
 - Details on how to reduce the potential risk of exposure during pregnancy for women of childbearing potential based on the following:
 - o A pregnancy test should be performed before start of treatment with belzutifan.
 - o Women of childbearing potential have to use highly effective contraception method during treatment with belzutifan and up to at least 1 week after the last dose.
-- o Explain to patient that belzutifan may reduce the ef ficacy of hormonal contraceptives. Therefore, a non-hormonal contraceptive method should be used or have their male partner use a condom.
-- o The female patients of childbearing potential should be informed about the potential risk of embryo-foetal harm and appropriate contraceptive measures before start of treatment with belzutif an.
+- o Explain to patient that belzutifan may reduce the efficacy of hormonal contraceptives. Therefore, a non-hormonal contraceptive method should be used or have their male partner use a condom.
+- o The female patients of childbearing potential should be informed about the potential risk of embryo-foetal harm and appropriate contraceptive measures before start of treatment with belzutifan.
 - Need to discontinue treatment with belzutifan if a pregnancy is planned or a pregnancy is detected.
-- A patient card is included in the pack. Healthcare prof essionals should inform each female patient of childbearing potential prior to the start of treatment about the purpose of the patient card.
+- A patient card is included in the pack. Healthcare professionals should inform each female patient of childbearing potential prior to the start of treatment about the purpose of the patient card.
 
 ## Patient card:
 
@@ -626,10 +620,10 @@ The MAH shall ensure that in each Member State where WELIREG is marketed, all he
 - o A pregnancy test should be performed before start of treatment with belzutifan.
 - o Women of childbearing potential have to use highly effective contraception method during treatment with belzutifan and up to at least 1 week after the last dose.
 - o Belzutifan may reduce the efficacy of hormonal contraceptives. Therefore, a non-hormonal contraceptive method should be used or have their male partner use a condom.
-- o If a pregnancy occurs during treatment with belzutif an contact your treating physician immediately.
+- o If a pregnancy occurs during treatment with belzutifan contact your treating physician immediately.
 - Contact details of the belzutifan prescriber.
 - Women of childbearing potential should be instructed to talk to their healthcare professional about contraception while taking belzutifan.
-- Instruct patient to ref er to PIL for additional inf ormation about the safety of belzutifan.
+- Instruct patient to refer to PIL for additional information about the safety of belzutifan.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -637,10 +631,10 @@ The MAH shall ensure that in each Member State where WELIREG is marketed, all he
 
 This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Due date   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| In order to confirm the efficacy and safety ofbelzutifan as monotherapy for the treatment ofadult patients with von Hippel-Lindau disease who require therapy for associated, localised renal cell carcinoma (RCC), central nervous system (CNS) haemangioblastomas, or pancreatic neuroendocrine tumours (pNET), and for whom localised procedures are unsuitable, the MAHshould submit the final results ofthe ongoing study MK-6482-004, an open-label Phase II single-arm study to further investigate the long-term efficacy and safety ofbelzutifan for the treatment ofvon Hippel-Lindau disease-associated Renal Cell Carcinoma.                                          | Q1 2027    |
-| In order to confirm the efficacy and safety ofbelzutifan as monotherapy for the treatment ofadult patients with von Hippel-Lindau disease who require therapy for associated, localised RCC, CNS haemangioblastomas, or pNET, and for whom localised procedures are unsuitable, the MAHshould submit efficacy and safety data from at least 64 patients with at least 24 months follow-up ofcohort B1 for the ongoing study MK-6482-015, an uncontrolled Phase II study to evaluate the efficacy and safety ofbelzutifan in patients with von Hippel Lindau disease-associated tumours who have at least 1 measurable RCC, pNET, or pheochromocytoma/paraganglioma (PPGL) tumour. | Q1 2027    |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Due date   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| In order to confirm the efficacy and safety of belzutifan as monotherapy for the treatment of adult patients with von Hippel-Lindau disease who require therapy for associated, localised renal cell carcinoma (RCC), central nervous system (CNS) haemangioblastomas, or pancreatic neuroendocrine tumours (pNET), and for whom localised procedures are unsuitable, the MAH should submit the final results of the ongoing study MK-6482-004, an open-label Phase II single-arm study to further investigate the long-term efficacy and safety of belzutifan for the treatment of von Hippel-Lindau disease-associated Renal Cell Carcinoma.                                         | Q1 2027    |
+| In order to confirm the efficacy and safety of belzutifan as monotherapy for the treatment of adult patients with von Hippel-Lindau disease who require therapy for associated, localised RCC, CNS haemangioblastomas, or pNET, and for whom localised procedures are unsuitable, the MAH should submit efficacy and safety data from at least 64 patients with at least 24 months follow-up of cohort B1 for the ongoing study MK-6482-015, an uncontrolled Phase II study to evaluate the efficacy and safety of belzutifan in patients with von Hippel Lindau disease-associated tumours who have at least 1 measurable RCC, pNET, or pheochromocytoma/paraganglioma (PPGL) tumour. | Q1 2027    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -650,27 +644,27 @@ This being a conditional marketing authorisation and pursuant to Article 14-a of
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER CARTON -INCLUDING BLUE BOX
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER CARTON - INCLUDING BLUE BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-WELIREG 40 mg film-coated tablets belzutif an
+WELIREG 40 mg film-coated tablets belzutifan
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each film-coated tablet contains 40 mg belzutif an.
+Each film-coated tablet contains 40 mg belzutifan.
 
 ## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablets
+## Film-coated tablets
 
-90 (3 x 30) f ilm-coated tablets
+90 (3 x 30) film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -694,28 +688,26 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATIONHOLDER   |
-|-------|------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem
+Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
-The Netherlands
-
-| 12. MARKETINGAUTHORISATION NUMBER(S)   |
-|----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/24/1893/002
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FORSUPPLY   |
-|-------|------------------------------------|
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -727,18 +719,20 @@ WELIREG 40 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING INNER CARTON -WITHOUT BLUE BOX
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING INNER CARTON - WITHOUT BLUE BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-WELIREG 40 mg film-coated tablets belzutif an
+WELIREG 40 mg film-coated tablets
+
+belzutifan
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -748,11 +742,11 @@ Each film-coated tablet contains 40 mg belzutifan.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablets
+## Film-coated tablets
 
 30 film-coated tablets
 
-C an't be sold separately .
+Can't be sold separately.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -790,47 +784,47 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
 
-WELIREG 40 mg
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
-17. UNIQUE IDENTIFIER -2D BARCODE
+WELIREG 40 mg WELIREG 40 mg tablets belzutifan MSD
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARS TO APPEARONBLISTERS   |
-|------------------------------------------|
-| BLISTER                                  |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
+|---------------------------------------------|
+| BLISTER                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-WELIREG 40 mg tablets belzutif an
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|------|-----------------------------------------|
-
-MSD
-
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-## Patient card
-
 <div style=\"page-break-after: always\"></div>
+
+| Patient card   |
+|----------------|
 
 ## Important information for female patients who could become pregnant
 
@@ -838,9 +832,7 @@ Lot
 
 [Pictogram]
 
-You should not become pregnant while taking WELIREG.
-
-If you are pregnant:
+You should not become pregnant while taking WELIREG. If you are pregnant:
 
 - o Do not take WELIREG for von Hippel-Lindau disease.
 - o Talk to your doctor about the use of WELIREG for the treatment of Renal Cell Carcinoma.
@@ -858,7 +850,9 @@ If you are pregnant:
 
 ## Important contact details
 
-My name \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Name of my doctor \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Office phone \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+My name \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Name of my doctor \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Office phone \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 [MSD logo]
 
@@ -872,17 +866,17 @@ My name \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Name of my doctor \\_\\_\\_\\_\\_\\_\\
 
 ## Package leaflet: Information for the patient
 
-## WELIREG 40 mg film-coated tablets belzutif an
+## WELIREG 40 mg film-coated tablets belzutifan
 
-This medicine is subject to additional monitoring. This will allow quick identif ication of new safety inf ormation. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -The pack also contains a patient card intended for women who could get pregnant. Please read it as it contains important saf ety information you need to be aware of before and during your treatment with WELIREG.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of  illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaf let. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- The pack also contains a patient card intended for women who could get pregnant. Please read it as it contains important safety information you need to be aware of before and during your treatment with WELIREG.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -897,17 +891,17 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 WELIREG is a cancer medicine that contains the active substance belzutifan. WELIREG is used to treat adults with:
 
-- renal cell carcinoma (RCC) with a clear cell component, a type of kidney cancer. It is used when the cancer is advanced (has spread) f ollowing treatments that target the immune system (PD-1 or PD-L1 inhibitor) and cancer blood vessels (VEGF-targeted therapy).
+- renal cell carcinoma (RCC) with a clear cell component, a type of kidney cancer. It is used when the cancer is advanced (has spread) following treatments that target the immune system (PD-1 or PD-L1 inhibitor) and cancer blood vessels (VEGF-targeted therapy).
 - von Hippel-Lindau (VHL) disease (a genetic condition that causes tumours and cysts to grow in certain parts of the body) who need treatment for renal cell carcinoma (RCC), tumours in the brain and spinal cord called central nervous system haemangioblastomas, or a type of pancreatic cancer called pancreatic neuroendocrine tumour, and for whom surgery or other local procedures are unsuitable.
 
-The active substance in WELIREG, belzutif an, blocks a protein called hypoxia-inducible factor 2 alpha (HIF2α). This protein helps control how cells and blood vessels grow, which can play a role in the development and spread of tumours in the body.
+The active substance in WELIREG, belzutifan, blocks a protein called hypoxia-inducible factor 2 alpha (HIF-2α). This protein helps control how cells and blood vessels grow, which can play a role in the development and spread of tumours in the body.
 
 ## 2. What you need to know before you take WELIREG
 
 ## Do not take WELIREG
 
-- -if  you are allergic to belzutif an or any of  the other ingredients of  this medicine (listed in section 6). Talk to your doctor or pharmacist if you are not sure.
-- -if you are pregnant and need to be treated f or von Hippel-Lindau disease (see section 'Pregnancy' ).
+- if you are allergic to belzutifan or any of the other ingredients of this medicine (listed in section 6). Talk to your doctor or pharmacist if you are not sure.
+- if you are pregnant and need to be treated for von Hippel-Lindau disease (see section 'Pregnancy').
 
 <div style=\"page-break-after: always\"></div>
 
@@ -915,16 +909,16 @@ The active substance in WELIREG, belzutif an, blocks a protein called hypoxia-in
 
 Talk to your doctor or pharmacist before taking WELIREG:
 
-- if  you have breathing problems
-- if  you have low levels of red blood cells (anaemia)
-- if  you have von Hippel-Lindau disease and tumours in the brain and spinal cord
+- if you have breathing problems
+- if you have low levels of red blood cells (anaemia)
+- if you have von Hippel-Lindau disease and tumours in the brain and spinal cord
 
 ## Low levels of red blood cells (anaemia)
 
 Treatment with WELIREG can cause anaemia (low levels of red blood cells). Tell your doctor if you develop any of the following symptoms:
 
 - shortness of breath
-- feeling tired (f atigue)
+- feeling tired (fatigue)
 - dizziness
 - pale skin
 
@@ -938,7 +932,7 @@ Treatment with WELIREG can cause hypoxia. Tell your doctor immediately if you de
 - fast heartbeat
 - rapid breathing
 - bluish discolouration of the skin around your mouth
-- inability to speak in f ull sentences without catching your breath
+- inability to speak in full sentences without catching your breath
 - unusual tiredness
 - confusion
 
@@ -970,14 +964,14 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 WELIREG may affect the way hormonal contraceptives work. While you are taking WELIREG and for at least 1 week after your last dose you should:
 
-- use an effective f orm of non-hormonal birth control (contraception) or
+- use an effective form of non-hormonal birth control (contraception) or
 - have your male partner use a condom.
 
 ## Pregnancy
 
 Do not take WELIREG for von Hippel-Lindau disease if you are pregnant.
 
-If  you are pregnant and need treatment for RCC, talk to you doctor about the use of WELIREG.
+If you are pregnant and need treatment for RCC, talk to you doctor about the use of WELIREG.
 
 WELIREG may harm the baby and may cause a miscarriage. If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 
@@ -989,28 +983,28 @@ If you are a woman who could get pregnant:
 
 - birth control methods that contain hormones - such as birth control pills, injections, or transdermal patches - may not work as well while you are taking WELIREG.
 - while you are taking WELIREG and for at least 1 week after your last dose you should
-- o use an effective f orm of non-hormonal birth control (contraception) or
+- o use an effective form of non-hormonal birth control (contraception) or
 - o have your male partner use a condom.
 
 Talk to your doctor or pharmacist about birth control methods that may be right for you while you are taking WELIREG.
 
 ## Fertility
 
-WELIREG may cause fertility problems in men and women, which may affect your ability to have children. Talk to your doctor or pharmacist if this is a concern f or you.
+WELIREG may cause fertility problems in men and women, which may affect your ability to have children. Talk to your doctor or pharmacist if this is a concern for you.
 
 ## Breast-feeding
 
-Tell your doctor or pharmacist if you are breast-feeding or plan to breast-f eed.
+Tell your doctor or pharmacist if you are breast-feeding or plan to breast-feed.
 
-It is unknown if WELIREG passes into your breast milk. Taking this medicine when you are breastfeeding may harm your baby. You and your doctor should decide together if you will take WELIREG or if  you will breast-f eed. Do not do both at the same time. If you want to start breast-feeding, wait at least 1 week after your last dose of WELIREG.
+It is unknown if WELIREG passes into your breast milk. Taking this medicine when you are breastfeeding may harm your baby. You and your doctor should decide together if you will take WELIREG or if you will breast-feed. Do not do both at the same time. If you want to start breast-feeding, wait at least 1 week after your last dose of WELIREG.
 
 ## Driving and using machines
 
-You may feel dizzy or tired while taking WELIREG. If this happens, do not drive or use machines until you no longer f eel dizzy or tired.
+You may feel dizzy or tired while taking WELIREG. If this happens, do not drive or use machines until you no longer feel dizzy or tired.
 
 ## WELIREG contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium-free'.
 
 ## 3. How to take WELIREG
 
@@ -1021,11 +1015,11 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 ## How much to take
 
 - The recommended dose is 120 mg once daily. Take three 40 mg tablets once a day, at about the same time every day.
-- Your doctor may lower your dose or stop treatment, either for a short time or permanently if you experience certain side ef fects while you are taking WELIREG (see section 4).
+- Your doctor may lower your dose or stop treatment, either for a short time or permanently if you experience certain side effects while you are taking WELIREG (see section 4).
 
 ## How to take
 
-Swallow the tablets whole -do not break them up. It is not known if this medicine works if the tablets are not whole.
+Swallow the tablets whole - do not break them up. It is not known if this medicine works if the tablets are not whole.
 
 You can take WELIREG with or without food.
 
@@ -1051,7 +1045,7 @@ WELIREG may cause the following side effects, which may be serious (see section 
 
 Tell your doctor if you feel any of the following symptoms:
 
-- feeling tired (f atigue)
+- feeling tired (fatigue)
 - pale skin
 - shortness of breath
 - trouble breathing
@@ -1067,7 +1061,7 @@ Your doctor will do blood tests to check your red blood cell counts and measure 
 
 ## Very common (may affect more than 1 in 10 people):
 
-- feeling tired (f atigue)
+- feeling tired (fatigue)
 - feeling dizzy
 - feeling sick (nausea)
 - bleeding (haemorrhage) (including bleeding in your brain and spinal cord if you have von Hippel-Lindau disease associated-central nervous system haemangioblastomas)
@@ -1078,17 +1072,17 @@ Your doctor will do blood tests to check your red blood cell counts and measure 
 
 - weight gain
 
-Tell your doctor or pharmacist if you notice any of the side ef fects listed above.
+Tell your doctor or pharmacist if you notice any of the side effects listed above.
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side ef fects not listed in this leaf let. You can also report side eff ects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store WELIREG
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the blister foil and the carton af ter 'EXP'. The expiry date ref ers to the last day of   that month.
+Do not use this medicine after the expiry date which is stated on the blister foil and the carton after \"EXP\". The expiry date refers to the last day of that month.
 
 This medicine does not require any special storage conditions.
 
@@ -1101,11 +1095,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What WELIREG contains
 
 - The active substance is belzutifan. Each film-coated tablet contains 40 mg of belzutifan.
-- The other ingredients are croscarmellose sodium (E468) (see 'WELIREG contains sodium' in section 2), hypromellose acetate succinate, magnesium stearate (E470b), mannitol (E421), cellulose microcrystalline (E460), and colloidal anhydrous silica (E551). The f ilm-coat contains indigo carmine aluminium lake (E132), macrogol (E1521), polyvinyl alcohol (E1203), talc (E553b), titanium dioxide (E171).
+- The other ingredients are croscarmellose sodium (E468) (see \"WELIREG contains sodium\" in section 2), hypromellose acetate succinate, magnesium stearate (E470b), mannitol (E421), cellulose microcrystalline (E460), and colloidal anhydrous silica (E551). The film-coat contains indigo carmine aluminium lake (E132), macrogol (E1521), polyvinyl alcohol (E1203), talc (E553b), titanium dioxide (E171).
 
 ## What WELIREG looks like and contents of the pack
 
-WELIREG is a blue, oval film-coated tablet, debossed with 177 on one side and plain on the other side. WELIREG is available in aluminium/ aluminium blisters. Each pack contains 90 (three cartons of 30) f ilm-coated tablets.
+WELIREG is a blue, oval film-coated tablet, debossed with 177 on one side and plain on the other side. WELIREG is available in aluminium/ aluminium blisters. Each pack contains 90 (three cartons of 30) film-coated tablets.
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -1113,15 +1107,15 @@ Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
+## België/Belgique/Belgien
 
-Lietuva UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
+MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com Lietuva UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
-## /Beъл/geа/erи/ia
+## България
 
-Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De Тел.: +359 2 819 3737 info-msdbg@msd.com
+Мерк Шарп и Доум България ЕООД Тел.: +359 2 819 3737 info-msdbg@msd.com
 
 ## Česká republika
 
@@ -1149,9 +1143,7 @@ Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@msd.co
 
 ## France
 
-MSD France
-
-Tél: +33 (0) 1 80 46 40 40
+MSD France Tél: +33 (0) 1 80 46 40 40
 
 ## Hrvatska
 
@@ -1227,9 +1219,7 @@ Merck Sharp &amp; Dohme Cyprus Limited Τηλ: 800 00 673 (+357 22866700) dpoccy
 
 SIA Merck Sharp &amp; Dohme Latvija
 
-Tel.: +371 67025300
-
-dpoc.latvia@msd.com
+Tel.: +371 67025300 dpoc.latvia@msd.com
 
 ## This leaflet was last revised in
 

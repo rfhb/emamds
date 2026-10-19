@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-16 13:52:31
-document_pages: 46
+document_datetime: 2026-10-13 11:24:03
+document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/intuniv-epar-product-information_en.pdf
 document_name: intuniv-epar-product-information_en.pdf
 version: success
-processing_time: 10.0790633
-conversion_datetime: 2026-01-17 13:40:36.036673
+processing_time: 16.0866518
+conversion_datetime: 2026-10-19 22:55:45.659935
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -84,7 +84,7 @@ Intuniv 1 mg prolonged-release tablet
 
 ## Intuniv 2 mg prolonged-release tablet
 
-12.34 mm x 6.10 mm oblong shaped, white to off-white tablets debossed with '2MG' on one side and '503' on the other side.
+12.34 mm x 6.10 mm oblong shaped, white to off-white tablets debossed with '2MG' on one side and \"503\" on the other side.
 
 ## Intuniv 3 mg prolonged-release tablet
 
@@ -118,11 +118,9 @@ For all patients, the recommended starting dose is 1 mg of guanfacine, taken ora
 
 The dose may be adjusted in increments of not more than 1 mg per week. Dose should be individualised according to the patient's response and tolerability.
 
-Depending on the patient's response and tolerability for Intuniv the recommended maintenance dose range is 0.05-0.12 mg/kg/day. The recommended dose titration for children and adolescents is
+Depending on the patient's response and tolerability for Intuniv the recommended maintenance dose range is 0.05-0.12 mg/kg/day. The recommended dose titration for children and adolescents is provided below (see tables 1 and 2). Dose adjustments (increase or decrease) to a maximum tolerated dose within the recommended optimal weight-adjusted dose range based upon clinical judgement of response and tolerability may occur at any weekly interval after the initial dose.
 
 <div style=\"page-break-after: always\"></div>
-
-provided below (see tables 1 and 2). Dose adjustments (increase or decrease) to a maximum tolerated dose within the recommended optimal weight-adjusted dose range based upon clinical judgement of response and tolerability may occur at any weekly interval after the initial dose.
 
 ## Monitoring during titration
 
@@ -132,30 +130,28 @@ During dose titration, weekly monitoring for signs and symptoms of somnolence an
 
 During the first year of treatment, the patient should be assessed at least every 3 months for:
 
--  Signs and symptoms of:
+- Signs and symptoms of:
 - o somnolence and sedation
 - o hypotension
 - o bradycardia
--  weight increase/risk of obesity It is recommended clinical judgement be exercised during this period. 6 monthly monitoring should
+- weight increase/risk of obesity
 
-follow thereafter, with more frequent monitoring following any dose adjustments (see section 4.4).
+It is recommended clinical judgement be exercised during this period. 6 monthly monitoring should follow thereafter, with more frequent monitoring following any dose adjustments (see section 4.4).
 
 Table 1
 
-| Dose titration schedule for children aged 6-12 years   | Dose titration schedule for children aged 6-12 years   | Dose titration schedule for children aged 6-12 years   | Dose titration schedule for children aged 6-12 years   | Dose titration schedule for children aged 6-12 years   |
-|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-| Weight Group                                           | Week 1                                                 | Week 2                                                 | Week 3                                                 | Week 4                                                 |
-| 25 kg and up Max Dose = 4 mg                           | 1 mg                                                   | 2 mg                                                   | 3 mg                                                   | 4 mg                                                   |
+| Dose titration schedule for children aged 6-12 years - Weight Group   | Dose titration schedule for children aged 6-12 years - Week 1   | Dose titration schedule for children aged 6-12 years - Week 2   | Dose titration schedule for children aged 6-12 years - Week 3   | Dose titration schedule for children aged 6-12 years - Week 4   |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
+| 25 kg and up Max Dose = 4 mg                                          | 1 mg                                                            | 2 mg                                                            | 3 mg                                                            | 4 mg                                                            |
 
 Table 2
 
-| Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   | Dose titration schedule for adolescents (aged 13-17 years)   |
-|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-| Weight Group a                                               | Week 1                                                       | Week 2                                                       | Week 3                                                       | Week 4                                                       | Week 5                                                       | Week 6                                                       | Week 7                                                       |
-| 34-41.4 kg Max Dose = 4 mg                                   | 1 mg                                                         | 2 mg                                                         | 3 mg                                                         | 4 mg                                                         |                                                              |                                                              |                                                              |
-| 41.5-49.4 kg Max Dose = 5 mg                                 | 1 mg                                                         | 2 mg                                                         | 3 mg                                                         | 4 mg                                                         | 5 mg                                                         |                                                              |                                                              |
-| 49.5-58.4 kg Max Dose = 6 mg                                 | 1 mg                                                         | 2 mg                                                         | 3 mg                                                         | 4 mg                                                         | 5 mg                                                         | 6 mg                                                         |                                                              |
-| 58.5 kg and above Max Dose = 7 mg                            | 1 mg                                                         | 2 mg                                                         | 3 mg                                                         | 4 mg                                                         | 5 mg                                                         | 6 mg                                                         | 7 mg b                                                       |
+| Dose titration schedule for adolescents (aged 13-17 years) - Weight Group a   | Dose titration schedule for adolescents (aged 13-17 years) - Week 1   | Dose titration schedule for adolescents (aged 13-17 years) - Week 2   | Dose titration schedule for adolescents (aged 13-17 years) - Week 3   | Dose titration schedule for adolescents (aged 13-17 years) - Week 4   | Dose titration schedule for adolescents (aged 13-17 years) - Week 5   | Dose titration schedule for adolescents (aged 13-17 years) - Week 6   | Dose titration schedule for adolescents (aged 13-17 years) - Week 7   |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| 34-41.4 kg Max Dose = 4 mg                                                    | 1 mg                                                                  | 2 mg                                                                  | 3 mg                                                                  | 4 mg                                                                  |                                                                       |                                                                       |                                                                       |
+| 41.5-49.4 kg Max Dose = 5 mg                                                  | 1 mg                                                                  | 2 mg                                                                  | 3 mg                                                                  | 4 mg                                                                  | 5 mg                                                                  |                                                                       |                                                                       |
+| 49.5-58.4 kg Max Dose = 6 mg                                                  | 1 mg                                                                  | 2 mg                                                                  | 3 mg                                                                  | 4 mg                                                                  | 5 mg                                                                  | 6 mg                                                                  |                                                                       |
+| 58.5 kg and above Max Dose = 7 mg                                             | 1 mg                                                                  | 2 mg                                                                  | 3 mg                                                                  | 4 mg                                                                  | 5 mg                                                                  | 6 mg                                                                  | 7 mg b                                                                |
 
 The physician who elects to use guanfacine for extended periods (over 12 months) should re-evaluate the usefulness of guanfacine every 3 months for the first year and then at least yearly based on clinical judgement (see section 4.4), and consider trial periods off medication to assess the patient's functioning without pharmacotherapy, preferably during times of school holidays.
 
@@ -167,7 +163,7 @@ Patients/caregivers should be instructed not to discontinue guanfacine without c
 
 When stopping treatment, the dose must be tapered with decrements of no more than 1 mg every 3 to 7 days, and blood pressure and pulse should be monitored in order to minimise potential withdrawal effects, in particular increases in blood pressure and heart rate (see section 4.4).
 
-In a maintenance of efficacy study, upon switching from guanfacine to placebo, 7/158 (4.4%) subjects experienced increases in blood pressure to values above 5 mmHg and also above the 95 th  percentile for age, sex and stature (see sections 4.8 and 5.1).
+In a maintenance of efficacy study, upon switching from guanfacine to placebo, 7/158 (4.4%) subjects experienced increases in blood pressure to values above 5 mmHg and also above the 95 th percentile for age, sex and stature (see sections 4.8 and 5.1).
 
 ## Missed dose
 
@@ -201,9 +197,9 @@ The safety and efficacy of guanfacine in children aged less than 6 years have no
 
 CYP3A4/5 inhibitors have been shown to have a significant effect on the pharmacokinetics of guanfacine when co-administered. Dose adjustment is recommended with concomitant use of moderate/strong CYP3A4/5 inhibitors (e.g., ketoconazole, grapefruit juice), or strong CYP3A4 inducers (e.g., carbamazepine) (see section 4.5).
 
-<div style=\"page-break-after: always\"></div>
-
 In case of concomitant use of strong and moderate CYP3A inhibitors, a 50% reduction of the guanfacine dose is recommended. Due to variability in interaction effect, further dose titration may be needed (see above).
+
+<div style=\"page-break-after: always\"></div>
 
 If guanfacine is combined with strong enzyme inducers, a retitration to increase the dose up to a maximum daily dose of 7 mg may be considered if needed. If the inducing treatment is ended, retitration to reduce the guanfacine dose is recommended during the following weeks (see section 4.5).
 
@@ -383,9 +379,10 @@ The following definitions apply to the frequency terminology used hereafter: ver
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 4. Adverse reactions                       | Incidence Category   |
+## Table 4. Adverse reactions
+
+| System/Organ Class Adverse reaction              | Incidence Category   |
 |--------------------------------------------------|----------------------|
-| System/Organ Class Adverse reaction              |                      |
 | Immune system disorders                          |                      |
 | Hypersensitivity                                 | Uncommon             |
 | Metabolism and nutrition disorders               |                      |
@@ -428,14 +425,14 @@ The following definitions apply to the frequency terminology used hereafter: ver
 | Vomiting                                         | Common               |
 | Diarrhoea                                        | Common               |
 | Nausea                                           | Common               |
-| Constipation Abdominal/stomach discomfort        | Common Common        |
-| Dry mouth                                        | Common               |
+| Constipation                                     | Common               |
+| Abdominal/stomach discomfort                     | Common               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 4. Adverse reactions                           | Table 4. Adverse reactions                           |
-|------------------------------------------------------|------------------------------------------------------|
 | System/Organ Class Adverse reaction                  | Incidence Category                                   |
+|------------------------------------------------------|------------------------------------------------------|
+| Dry mouth                                            | Common                                               |
 | Dyspepsia                                            | Uncommon                                             |
 | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
 | Rash                                                 | Common                                               |
@@ -471,11 +468,9 @@ Careful follow-up for weight suggests that children and adolescents who took gua
 
 ## QT/QTc interval prolongation
 
-In a thorough QT/QTc study, the effect of 2 dose levels of immediate-release guanfacine (4 mg and 8 mg) on QT interval was evaluated in a double-blind, randomised, placebo- and active-controlled,
+In a thorough QT/QTc study, the effect of 2 dose levels of immediate-release guanfacine (4 mg and 8 mg) on QT interval was evaluated in a double-blind, randomised, placebo- and active-controlled, cross-over study in healthy adults. An apparent increase in mean QTc was observed for both doses. This finding has no known clinical relevance.
 
 <div style=\"page-break-after: always\"></div>
-
-cross-over study in healthy adults. An apparent increase in mean QTc was observed for both doses. This finding has no known clinical relevance.
 
 In phase II-III randomised double-blind monotherapy studies respective increases in QTc interval prolongation that exceeded change from baseline greater than 60 ms Fridericia-correction and Bazett-correction were 0 (0.0%) and 2 (0.3%) among placebo and 1 (0.1%) and 1 (0.1%) among guanfacine patients.
 
@@ -503,13 +498,13 @@ Paediatric patients (children and adolescents 6-17 years old inclusive) who deve
 
 Treatment of overdose may include gastric lavage if it is performed soon after ingestion. Activated charcoal may be useful in limiting the absorption. Guanfacine is not dialysable in clinically significant amounts (2.4%).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antihypertensives, antiadrenergic agents, centrally acting ATC code: C02AC02.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -527,18 +522,17 @@ Three hundred and thirty-seven patients aged 6-17 years were evaluated in the pi
 
 Table 5. Summary of primary efficacy for study SPD503-316: ADHD-RS-IV
 
-| Treatment groups   | N   | Baseline ADHD- RS-IV (SD)   | Change from baseline (SD)   | Difference from placebo (95%CI) Effect size   | Responders   | Difference from placebo (95%CI)   |
+| Treatment groups   |   N | Baseline ADHD- RS-IV (SD)   | Change from baseline (SD)   | Difference from placebo (95%CI) Effect size   | Responders   | Difference from placebo (95%CI)   |
 |--------------------|-----|-----------------------------|-----------------------------|-----------------------------------------------|--------------|-----------------------------------|
 | Guanfacine         | 114 | 43.1 (5.5)                  | -23.9 (12.4)                | -8.9 (-11.9, -5.8) 0.8                        | 64.3%        | 21.9% (9.2; 34.7)                 |
-| Atomoxetine        | 112 | 43.7 (5.9)                  | -18.6 (11.9)                | -3.8 (-6.8, -0.7) 0.3                         | 55.4%        | 13.0% (0.0;                       |
-| Placebo            | 111 | 43.2 (5.6)                  | -15.0 (13.1)                | NA                                            | 42.3%        | 26.0)                             |
-|                    |     |                             |                             |                                               |              | NA                                |
+| Atomoxetine        | 112 | 43.7 (5.9)                  | -18.6 (11.9)                | -3.8 (-6.8, -0.7) 0.3                         | 55.4%        | 13.0% (0.0; 26.0)                 |
+| Placebo            | 111 | 43.2 (5.6)                  | -15.0 (13.1)                | NA                                            | 42.3%        | NA                                |
 
 Results of the secondary endpoints were consistent with that of the primary endpoint. The percentages of subjects who met response criteria (≥ 30% reduction from baseline in ADHD-RS-IV Total Score and a CGI-I value of 1 or 2) was 64.3% for guanfacine, 55.4% for atomoxetine and 42.3% for placebo. Guanfacine also showed significant improvement in learning, school and family functioning as measured with the (WFIRS-P score).
 
-<div style=\"page-break-after: always\"></div>
+In addition, a 15-week, double-blind, randomised, placebo-controlled, dose-optimisation study (SPD503-312) conducted in adolescents aged 13-17 years (n = 314) to confirm the efficacy, safety, and tolerability of guanfacine (1-7 mg/day) in the treatment of ADHD. Guanfacine showed a significantly greater improvement in the ADHD-RS-IV total score compared with subjects receiving placebo. Guanfacine-treated patients were in statistically significantly better conditions on the functional outcome as measured by the clinical global impression of severity (CGI-S) at endpoint compared to placebo-treated patients. Superiority (statistical significance) over placebo on the family and school, and learning domains of the WFIRS-P score was not established in this study.
 
-In addition a 15-week, double-blind, randomised, placebo-controlled, dose-optimisation study (SPD503-312) conducted in adolescents aged 13-17 years (n = 314) to confirm the efficacy, safety, and tolerability of guanfacine (1-7 mg/day) in the treatment of ADHD. Guanfacine showed a significantly greater improvement in the ADHD-RS-IV total score compared with subjects receiving placebo. Guanfacine-treated patients were in statistically significantly better conditions on the functional outcome as measured by the clinical global impression of severity (CGI-S) at endpoint compared to placebo-treated patients. Superiority (statistical significance) over placebo on the family and school, and learning domains of the WFIRS-P score was not established in this study.
+<div style=\"page-break-after: always\"></div>
 
 Study (SPD503-315) was a 41 week long term maintenance of efficacy study which included an open-label phase (up to 13 weeks) followed by double-blind, placebo-controlled, randomised-withdrawal phase (up to 26 weeks), conducted in paediatric patients (children and adolescents aged 6-17 years old inclusive) (n = 526 in the open-label phase and n = 315 in the double-blind randomised-withdrawal phase) to assess the efficacy, safety, and tolerability of once-daily dosing with guanfacine (children: 1-4 mg/day, adolescents:1-7 mg/day) in the treatment of ADHD. Guanfacine was superior to placebo in the long-term maintenance of treatment in children and adolescents with ADHD as measured by cumulative treatment failures (49.3% for guanfacine, and 64.9% for placebo, p = 0.006). Treatment failure was defined as a ≥ 50% increase in ADHD-RS-IV total score and a ≥ 2 point increase in CGI-S score compared to the respective scores at the double-blind baseline visit. At the end of their double-blind treatment, a significantly larger proportion of subjects in the guanfacine compared with placebo group were normal or borderline mentally ill as measured by the clinical global impression of severity (CGI-S) that includes assessment of functioning. Superiority (statistical significance) over placebo on the family and school, and learning domains of the WFIRS-P score was not consistently established in this study.
 
@@ -548,13 +542,17 @@ Study SPD503-314 was conducted in children aged 6-12 years to assess the efficac
 
 ## Co-administration with psychostimulants
 
-The effect of co-administration with psychostimulants was examined in an add-on study in partial responders to psychostimulants. The study was double-blind, randomised, placebo-controlled, multi-centre, dose-optimisation 9-weeks study. It was designed to evaluate the efficacy and safety of guanfacine (1, 2, 3, and 4 mg/day) when co-administered with long-acting psychostimulants (amphetamine, lisdexamfetamine, methylphenidate, dexmethylphenidate) in children and adolescents aged 6-17 years with a diagnosis of ADHD and a suboptimal, partial response to psychostimulants. Suboptimal response was defined as an ADHD-RS-IV total score of ≥ 24 and a CGI-S score ≥ 3 at screening and baseline. The primary efficacy assessment was the ADHD-RS-IV total score. The results showed that patients treated with add-on guanfacine improved more on the ADHD-RS-IV compared to those treated with add-on placebo (20.7 (12.6) points vs. 15.9 (11.8); difference: 4.9 (95% CI 2.6, 7.2). No age differences were observed with respect to response to the ADHD-RS-IV.
-
-<div style=\"page-break-after: always\"></div>
+The effect of co-administration with psychostimulants was examined in an add-on study in partial responders to psychostimulants. The study was double-blind, randomised, placebo-controlled, multi-centre, dose-optimisation 9-weeks study. It was designed to evaluate the efficacy and safety of guanfacine (1, 2, 3, and 4 mg/day) when co-administered with long-acting psychostimulants (amphetamine, lisdexamfetamine, methylphenidate, dexmethylphenidate) in children and adolescents aged 6-17 years with a diagnosis of ADHD and a suboptimal, partial response to psychostimulants. Suboptimal response was defined as an ADHD-RS-IV total score of ≥ 24 and a CGI-S score ≥ 3 at screening and baseline. The primary efficacy assessment was the ADHD-RS-IV total score. The results showed that patients treated with add-on guanfacine improved more on the ADHD-RS-IV compared to those treated with add-on placebo 20.7 (12.6) points vs. 15.9 (11.8); difference: 4.9 (95% CI 2.6, 7.2). No age differences were observed with respect to response to the ADHD-RS-IV.
 
 ## ADHD with oppositional symptoms study
 
 Study SPD503-307 was a 9-week, double-blind, randomised, placebo-controlled, dose-optimisation study with guanfacine (1-4 mg/day) conducted in children aged 6-12 years with ADHD and oppositional symptoms (n = 217). Oppositional symptoms were evaluated as the change from baseline to endpoint in the Oppositional Subscale of the Conners' Parent Rating Scale - revised Long Form (CPRS-R:L) score. Results show statistically significantly (p ≤ 0.05) greater mean reductions at endpoint from Baseline (indicating improvement) in oppositional subscale of CPRS-R:L scores in the guanfacine group compared to placebo (10.9 points vs. 6.8 for guanfacine vs. placebo, respectively) and the effect size was 0.6 (p &lt; 0.001). These reductions represent a percentage reduction of 56% vs. 33% for guanfacine vs. placebo, respectively.
+
+<div style=\"page-break-after: always\"></div>
+
+## Long-term safety study
+
+Study SPD503-401 was a 97-week post-approval study in children and adolescents aged 6-17 years inclusive, to evaluate the long-term safety and efficacy of guanfacine in the treatment of ADHD. It initially consisted of a 1:1:1 randomised, double-blind, active-comparator (atomoxetine) and placebo-controlled phase of 49 weeks, followed by an open-label phase (guanfacine only). During the study, the primary analysis was truncated to week 18, precluding reliable conclusions regarding long-term neurocognitive effects. Overall, 138 participants (47.9%) completed the double-blinded phase (67.7% placebo; 39.6% guanfacine; 36.5% atomoxetine). Discontinuations due to adverse events were 14.6% for guanfacine, 5.2% for placebo, and 8.4% for atomoxetine. Of the 121 patients starting in open-label phase 36% discontinued treatment; 5.8% due to adverse events. The overall safety profile of guanfacine was consistent with its known safety profile (see section 4.8). Efficacy data from secondary endpoints evaluated at week 18 were comparable to those in pivotal studies.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -578,11 +576,13 @@ Based on in vitro studies, guanfacine is a substrate of OCT1 and OCT2, but not B
 
 ## Elimination
 
-Guanfacine is cleared by the kidneys via filtration and active secretion and the liver. Active renal secretion is mediated via OCT2 transporter. At least 50% of the clearance of guanfacine is hepatic. Renal excretion is the major elimination pathway (80%) with parent active substance accounting for 30% of the urinary radioactivity. The major urinary metabolites were 3-hydroxy guanfacine glucuronide, guanfacine dihydrodiol, 3-hydroxy guanfacine sulfate. The elimination half-life of guanfacine is approximately 18 hours.
-
-The pharmacokinetics of guanfacine is similar in children (aged 6 to 12) and adolescents (aged 13 to 17) ADHD patients, and healthy adult volunteers.
+Guanfacine is cleared by the kidneys via filtration and active secretion and the liver. Active renal secretion is mediated via OCT2 transporter. At least 50% of the clearance of guanfacine is hepatic. Renal excretion is the major elimination pathway (80%) with parent active substance accounting for
 
 <div style=\"page-break-after: always\"></div>
+
+30% of the urinary radioactivity. The major urinary metabolites were 3-hydroxy guanfacine glucuronide, guanfacine dihydrodiol, 3-hydroxy guanfacine sulfate. The elimination half-life of guanfacine is approximately 18 hours.
+
+The pharmacokinetics of guanfacine is similar in children (aged 6 to 12) and adolescents (aged 13 to 17) ADHD patients, and healthy adult volunteers.
 
 ## Special populations
 
@@ -598,11 +598,11 @@ No carcinogenic effect of guanfacine was observed in studies of 78 weeks in mice
 
 Guanfacine was not genotoxic in a variety of test models, including the Ames test and an in vitro chromosomal aberration test.
 
-General toxicity observed in animals (rat, dog) upon treatment with guanfacine included prolongation of uncorrected QT interval (heart), atrophic spleen and decreased white blood cells, affected liver increased bilirubin and ALT levels included, irritated and inflamed intestines, increased creatinine and blood urea nitrogen levels (kidney), corneal clouding (eye) in rat and mouse only, alveolar macrophage infiltration &amp; pneumonitis and reduced spermatogenesis.
+General toxicity observed in animals (rat, dog) upon treatment with guanfacine included prolongation of uncorrected QT interval (heart), atrophic spleen and decreased white blood cells, affected liver - increased bilirubin and ALT levels included, irritated and inflamed intestines, increased creatinine and blood urea nitrogen levels (kidney), corneal clouding (eye) in rat and mouse only, alveolar macrophage infiltration &amp; pneumonitis and reduced spermatogenesis.
 
-No adverse effects were observed in a fertility study in female rats at doses up to 22 times the maximum recommended human dose on a mg/m 2  basis.
+No adverse effects were observed in a fertility study in female rats at doses up to 22 times the maximum recommended human dose on a mg/m 2 basis.
 
-Male fertility was affected at 8 mg/kg/day, the lowest dose tested, equivalent of 10.8 times the maximum recommended human dose of 0.12 mg/kg on a mg/m 2  basis. Due to lack of proper toxicokinetic data, comparison to human clinical exposure was not possible.
+Male fertility was affected at 8 mg/kg/day, the lowest dose tested, equivalent of 10.8 times the maximum recommended human dose of 0.12 mg/kg on a mg/m 2 basis. Due to lack of proper toxicokinetic data, comparison to human clinical exposure was not possible.
 
 Guanfacine showed embryo foetal developmental toxicity in mice and rats (NOAEL 0.5 mg/kg/day) and in rabbits (NOAEL 3.0 mg/kg/day) in the presence of maternal toxicity. Due to a lack of proper toxicokinetic data, comparison to human clinical exposure was not possible.
 
@@ -612,13 +612,11 @@ Guanfacine showed embryo foetal developmental toxicity in mice and rats (NOAEL 0
 
 Hypromellose 2208 Methacrylic acid-ethyl acrylate copolymer Lactose monohydrate Povidone Crospovidone Type A Microcrystalline cellulose Silica, colloidal anhydrous Sodium laurilsulfate Polysorbate 80 Fumaric acid Glycerol dibehenate
 
-3 mg and 4 mg prolonged-release tablets also include:
-
-Indigo carmine aluminium lake (E 132)
-
 <div style=\"page-break-after: always\"></div>
 
-Iron oxide yellow (E 172)
+3 mg and 4 mg prolonged-release tablets also include:
+
+Indigo carmine aluminium lake (E 132) Iron oxide yellow (E 172)
 
 ## 6.2 Incompatibilities
 
@@ -658,15 +656,15 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
-
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland medinfoEMEA@takeda.com
-
 <div style=\"page-break-after: always\"></div>
 
-8.
+## 7. MARKETING AUTHORISATION HOLDER
 
-MARKETING AUTHORISATION NUMBERS
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
+
+medinfoEMEA@takeda.com
+
+## 8. MARKETING AUTHORISATION NUMBERS
 
 Intuniv 1 mg prolonged-release tablet
 
@@ -684,21 +682,15 @@ Intuniv 4 mg prolonged-release tablet
 
 EU/1/15/1040/008-009
 
-9.
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+Date of first authorisation: 17 September 2015
 
-Date of first authorisation: 17/09/2015
+Date of latest renewal: 25 June 2020
 
-Date of latest renewal: 25/06/2020
+## 10. DATE OF REVISION OF THE TEXT
 
-10.
-
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 19
 
@@ -719,7 +711,7 @@ Name and address of the manufacturers responsible for batch release
 
 Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
 
-Shire Pharmaceuticals Ireland Limited Block 2 &amp; 3 Miesian Plaza 50 - 58 Baggot Street Lower Dublin 2 Ireland
+Shire Pharmaceuticals Ireland Limited Block 2 &amp; 3 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 Ireland
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -729,30 +721,20 @@ Medicinal product subject to restricted medical prescription (See Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-<div style=\"page-break-after: always\"></div>
-
-##  Obligation to conduct post-authorisation measures
-
-The MAH shall complete, within the stated timeframe, the below measures:
-
-| Description                                                                                                                                                                                                                                                                            | Due date                                          |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
-| SHP503-401: In order to investigate the long term safety (especially effects on neurocognitive function) of Intuniv in Children and Adolescents Aged 6-17 Years with ADHD, the MAHshould conduct and submit the results of a comparative safety study according to an agreed protocol. | Submission of final study Report: 31-January-2028 |
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -828,9 +810,7 @@ Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/15/1040/001 7 prolonged-release tablets
-
-EU/1/15/1040/002 28 prolonged-release tablets
+EU/1/15/1040/001 7 prolonged-release tablets EU/1/15/1040/002 28 prolonged-release tablets
 
 ## 13. BATCH NUMBER
 
@@ -839,7 +819,8 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Intuniv 1 mg
 
@@ -849,25 +830,21 @@ Intuniv 1 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| Blisters                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blisters                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Intuniv 1 mg prolonged-release tablets guanfacine
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Takeda Pharmaceuticals International AG Ireland Branch (as MA Logo)
 
@@ -962,7 +939,8 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Intuniv 2 mg
 
@@ -972,33 +950,40 @@ Intuniv 2 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS Blisters
+<div style=\"page-break-after: always\"></div>
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blisters                                              |
 
-Intuniv 2 mg prolonged-release tablets guanfacine
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+Intuniv 2 mg prolonged-release tablets
+
+guanfacine
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Takeda Pharmaceuticals International AG Ireland Branch (as MA Logo)
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1046,21 +1031,12 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Takeda Pharmaceuticals International AG Ireland Branch
-
-Block 2 Miesian Plaza
-
-50-58 Baggot Street Lower
-
-Dublin 2
-
-D02 HW68
-
-Ireland
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1072,9 +1048,9 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Intuniv 3 mg
 
@@ -1084,33 +1060,38 @@ Intuniv 3 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
+PC SN NN
 
-SN
+<div style=\"page-break-after: always\"></div>
 
-NN
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blisters                                              |
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS Blisters
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+Intuniv 3 mg prolonged-release tablets
 
-Intuniv 3 mg prolonged-release tablets guanfacine
+guanfacine
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Takeda Pharmaceuticals International AG Ireland Branch (as MA Logo)
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1132,7 +1113,9 @@ Also contains lactose, See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-28 prolonged-release tablets 84 prolonged-release tablets
+28 prolonged-release tablets
+
+84 prolonged-release tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1156,21 +1139,12 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Takeda Pharmaceuticals International AG Ireland Branch
-
-Block 2 Miesian Plaza
-
-50-58 Baggot Street Lower
-
-Dublin 2
-
-D02 HW68
-
-Ireland
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1182,9 +1156,9 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Intuniv 4 mg
 
@@ -1194,33 +1168,38 @@ Intuniv 4 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
+PC SN NN
 
-SN
+<div style=\"page-break-after: always\"></div>
 
-NN
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blisters                                              |
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS Blisters
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+Intuniv 4 mg prolonged-release tablets
 
-Intuniv 4 mg prolonged-release tablets guanfacine
+guanfacine
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Takeda Pharmaceuticals International AG Ireland Branch (as MA Logo)
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1238,11 +1217,11 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor, pharmacist or nurse.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
--  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
--  This leaflet has been written as though the person taking the medicine is reading it. If you are giving this medicine to your child, please replace 'you' with 'your child' throughout.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- This leaflet has been written as though the person taking the medicine is reading it. If you are giving this medicine to your child, please replace \"you\" with \"your child\" throughout.
 
 ## What is in this leaflet:
 
@@ -1265,9 +1244,9 @@ This medicine is used to treat 'attention deficit hyperactivity disorder' (ADHD)
 
 The medicine is given as part of a treatment programme, which usually includes the following:
 
--  psychological therapy
--  educational therapy
--  social therapy
+- psychological therapy
+- educational therapy
+- social therapy
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1275,8 +1254,8 @@ The medicine is given as part of a treatment programme, which usually includes t
 
 People with ADHD find it hard to:
 
--  sit still
--  concentrate.
+- sit still
+- concentrate.
 
 ADHD can cause problems with everyday life. Children and young people with ADHD may have difficulty learning and doing homework. They can find it hard to behave well at home, at school or in other places.
 
@@ -1284,16 +1263,16 @@ ADHD can cause problems with everyday life. Children and young people with ADHD 
 
 ## Do not take Intuniv if:
 
--  you are allergic to guanfacine or any of the other ingredients of this medicine (listed in section 6).
+- you are allergic to guanfacine or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before taking this medicine if:
 
--  you have low or high blood pressure, heart problems or have a family history of heart problems
--  you have fainted recently
--  you have thoughts or feelings of suicide
--  you suffer from any other psychiatric conditions
+- you have low or high blood pressure, heart problems or have a family history of heart problems
+- you have fainted recently
+- you have thoughts or feelings of suicide
+- you suffer from any other psychiatric conditions
 
 Talk to your doctor or pharmacist if you are taking this medicine and:
 
@@ -1314,9 +1293,9 @@ This medicine should not be used in children under 6 years of age and adults 18 
 
 Before you start taking this medicine your doctor will check to make sure this medicine is safe for you and that it will help you. While you are taking this medicine your doctor will repeat these checks weekly during initial dosing, after dose adjustments, at least every 3 months for the first year and then at least twice a year. These checks may include:
 
--  your blood pressure and heart rate and other checks on your heart if appropriate
--  your response to treatment, in particular if it makes you sleepy or drowsy
--  your height and weight
+- your blood pressure and heart rate and other checks on your heart if appropriate
+- your response to treatment, in particular if it makes you sleepy or drowsy
+- your height and weight
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1328,11 +1307,11 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 In particular, tell your doctor or pharmacist if you are taking any of the following types of medicines:
 
--  medicines that lower your blood pressure (antihypertensives)
--  medicines for epilepsy such as valproic acid
--  medicines that make you sleepy (sedatives)
--  medicines for mental health problems (benzodiazepines, barbiturates and antipsychotics)
--  medicines that can affect the way Intuniv is eliminated by the liver (please see table below)
+- medicines that lower your blood pressure (antihypertensives)
+- medicines for epilepsy such as valproic acid
+- medicines that make you sleepy (sedatives)
+- medicines for mental health problems (benzodiazepines, barbiturates and antipsychotics)
+- medicines that can affect the way Intuniv is eliminated by the liver (please see table below)
 
 | Medicines                                                                                          | Used to treat                                                               |
 |----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
@@ -1353,19 +1332,19 @@ If any of the above apply to you or you are not sure, talk to your doctor or pha
 
 ## Intuniv with food, drinks and alcohol
 
--  Do not take this medicine with fatty foods (e.g., high fat breakfast), as it may affect the way this medicine works.
--  Do not take grapefruit juice with this medicine as it can have an effect on the way this medicine works.
--  Do not drink alcohol when taking this medicine as it may make you sleepy or drowsy.
+- Do not take this medicine with fatty foods (e.g., high fat breakfast), as it may affect the way this medicine works.
+- Do not take grapefruit juice with this medicine as it can have an effect on the way this medicine works.
+- Do not drink alcohol when taking this medicine as it may make you sleepy or drowsy.
 
 ## Pregnancy and breast-feeding
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 
--  Do not take this medicine if you are pregnant or you are not using contraception. It is not known if Intuniv will affect your unborn baby.
+- Do not take this medicine if you are pregnant or you are not using contraception. It is not known if Intuniv will affect your unborn baby.
 
 <div style=\"page-break-after: always\"></div>
 
--  Do not breast-feed while taking Intuniv unless told to do so by your doctor.
+- Do not breast-feed while taking Intuniv unless told to do so by your doctor.
 
 ## Driving and using machines
 
@@ -1389,19 +1368,19 @@ As part of your treatment your doctor will closely monitor how Intuniv is affect
 
 ## How much to take
 
--  Your doctor will start you on 1 mg per day. Your doctor may increase your dose based on your body weight and how Intuniv is working for you but not by more than 1 mg per week.
+- Your doctor will start you on 1 mg per day. Your doctor may increase your dose based on your body weight and how Intuniv is working for you but not by more than 1 mg per week.
 
 Depending on how you respond to treatment your doctor may increase your dose more slowly. The recommended maintenance dose is between 0.05 up to 0.12 mg per kg of bodyweight per day.
 
--  You may not notice an immediate effect upon starting treatment, some patients may notice an improvement after the first week but it could take longer.
--  Your daily dose will be between 1 and 7 mg depending on your age and how you respond to Intuniv, but not more that 7 mg.
+- You may not notice an immediate effect upon starting treatment, some patients may notice an improvement after the first week but it could take longer.
+- Your daily dose will be between 1 and 7 mg depending on your age and how you respond to Intuniv, but not more that 7 mg.
 
 ## How to take Intuniv
 
--  This medicine should be taken once a day either in the morning or evening.
--  It can be taken with or without food, but do not take it with fatty foods (e.g., high fat breakfast).
--  Swallow the tablet whole with a drink of water or other liquid (but not grapefruit juice).
--  Do not break, crush or chew the tablet; this will affect how the tablet works. Tell your doctor if you cannot swallow the tablet whole.
+- This medicine should be taken once a day either in the morning or evening.
+- It can be taken with or without food, but do not take it with fatty foods (e.g., high fat breakfast).
+- Swallow the tablet whole with a drink of water or other liquid (but not grapefruit juice).
+- Do not break, crush or chew the tablet; this will affect how the tablet works. Tell your doctor if you cannot swallow the tablet whole.
 
 ## Duration of treatment
 
@@ -1419,15 +1398,15 @@ The following effects may happen: low or high blood pressure, slow heart rate, s
 
 If you forget a dose, wait until the next day and take your usual dose.
 
--  If you have missed two or more doses talk to your doctor as you may need to restart Intuniv with a lower dose.
--  Do not take a double dose to make up for a forgotten dose.
+- If you have missed two or more doses talk to your doctor as you may need to restart Intuniv with a lower dose.
+- Do not take a double dose to make up for a forgotten dose.
 
 ## If you stop taking Intuniv
 
 Do not stop taking this medicine without first talking to your doctor.
 
--  If you stop taking this medicine your blood pressure and heart rate may increase (see section 4 below).
--  To stop the medicine, your doctor will slowly reduce your Intuniv dose to minimise any side effects.
+- If you stop taking this medicine your blood pressure and heart rate may increase (see section 4 below).
+- To stop the medicine, your doctor will slowly reduce your Intuniv dose to minimise any side effects.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -1449,72 +1428,70 @@ The following side effects have been reported.
 
 Very common (may affect more than 1 in 10 people)
 
--  feeling sleepy (somnolence)
--  feeling tired (fatigue)
--  headache
--  tummy pain (abdominal pain).
+- feeling sleepy (somnolence)
+- feeling tired (fatigue)
+- headache
+- tummy pain (abdominal pain).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Common (may affect up to 1 in 10 people)
 
--  low heart rate
--  blood pressure decreased
--  feeling restless or irritable
--  trouble sleeping (insomnia) or broken sleep (middle insomnia) or nightmares
--  feeling depressed, worried (anxiety) or having mood swings (affect lability)
--  lack of energy (lethargy)
--  weight gain
--  loss of appetite
--  have a dry mouth
--  wetting yourself (enuresis)
--  feeling (nausea) or being sick (vomiting)
--  diarrhoea, abdominal discomfort or constipation
--  low blood pressure when standing up (orthostatic hypotension)
--  rash.
+- low heart rate
+- blood pressure decreased
+- feeling restless or irritable
+- trouble sleeping (insomnia) or broken sleep (middle insomnia) or nightmares
+- feeling depressed, worried (anxiety) or having mood swings (affect lability)
+- lack of energy (lethargy)
+- weight gain
+- loss of appetite
+- have a dry mouth
+- wetting yourself (enuresis)
+- feeling (nausea) or being sick (vomiting)
+- diarrhoea, abdominal discomfort or constipation
+- low blood pressure when standing up (orthostatic hypotension)
+- rash.
 
 ## Uncommon (may affect up to 1 in 100 people)
 
--  allergic reaction (hypersensitivity)
--  chest pain
--  indigestion (dyspepsia)
--  trouble breathing (asthma)
--  feeling weak (asthenia)
--  pale skin colour (pallor)
--  fits or convulsions
--  need to urinate frequently (pollakiuria)
--  feeling agitated
--  aggression
--  changes in liver blood test results (increased alanine aminotransferase)
--  increase in blood pressure
--  unusual heart rhythm (sinus arrhythmia and first-degree arterioventricular block)
--  fast heart beat (tachycardia)
--  reduced heart rate
--  feeling dizzy when standing up (postural dizziness)
--  itchy skin (pruritus)
--  seeing or hearing things that are not there (hallucination).
+- allergic reaction (hypersensitivity)
+- chest pain
+- indigestion (dyspepsia)
+- trouble breathing (asthma)
+- feeling weak (asthenia)
+- pale skin colour (pallor)
+- fits or convulsions
+- need to urinate frequently (pollakiuria)
+- feeling agitated
+- aggression
+- changes in liver blood test results (increased alanine aminotransferase)
+- increase in blood pressure
+- unusual heart rhythm (sinus arrhythmia and first-degree arterioventricular block)
+- fast heart beat (tachycardia)
+- reduced heart rate
+- feeling dizzy when standing up (postural dizziness)
+- itchy skin (pruritus)
+- seeing or hearing things that are not there (hallucination).
 
 ## Rare (may affect up to 1 in 1,000 people)
 
--  sleeping more than normal (hypersomnia)
--  high blood pressure (hypertension)
--  feeling unwell (malaise).
+- sleeping more than normal (hypersomnia)
+- high blood pressure (hypertension)
+- feeling unwell (malaise).
 
 ## Very rare (may affect up to 1 in 10,000 people)
 
--  a serious withdrawal side effect of high blood pressure after suddenly stopping Intuniv; symptoms may include headaches, feeling confused, nervousness, agitation, and tremors (hypertensive encephalopathy).
+- a serious withdrawal side effect of high blood pressure after suddenly stopping Intuniv; symptoms may include headaches, feeling confused, nervousness, agitation, and tremors (hypertensive encephalopathy).
 
 ## Not known (frequency cannot be estimated from the available data)
 
--  difficulty to get or keep an erection (erectile dysfunction).
+- difficulty to get or keep an erection (erectile dysfunction).
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Intuniv
 
@@ -1532,21 +1509,21 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Intuniv contains
 
--  Each 1 mg tablet contains guanfacine hydrochloride equivalent to 1 mg of guanfacine
--  Each 2 mg tablet contains guanfacine hydrochloride equivalent to 2 mg of guanfacine
--  Each 3 mg tablet contains guanfacine hydrochloride equivalent to 3 mg of guanfacine
--  Each 4 mg tablet contains guanfacine hydrochloride equivalent to 4 mg of guanfacine
--  The other ingredients are hypromellose 2208, methacrylic acid-ethyl acrylate copolymer, lactose monohydrate, povidone, crospovidone Type A, microcrystalline cellulose, silica colloidal anhydrous, sodium laurilsulfate, polysorbate 80, fumaric acid, glycerol dibehenate.
--  The 3 mg and 4 mg tablets also contain indigo carmine aluminium lake (E 132) and yellow iron oxide (E 172)
+- Each 1 mg tablet contains guanfacine hydrochloride equivalent to 1 mg of guanfacine
+- Each 2 mg tablet contains guanfacine hydrochloride equivalent to 2 mg of guanfacine
+- Each 3 mg tablet contains guanfacine hydrochloride equivalent to 3 mg of guanfacine
+- Each 4 mg tablet contains guanfacine hydrochloride equivalent to 4 mg of guanfacine
+- The other ingredients are hypromellose 2208, methacrylic acid-ethyl acrylate copolymer, lactose monohydrate, povidone, crospovidone Type A, microcrystalline cellulose, silica colloidal anhydrous, sodium laurilsulfate, polysorbate 80, fumaric acid, glycerol dibehenate.
+- The 3 mg and 4 mg tablets also contain indigo carmine aluminium lake (E 132) and yellow iron oxide (E 172)
 
 ## What Intuniv looks like and contents of the pack
 
 Intuniv is a prolonged-release tablet which means that the active substance is released from the tablet over a period of time. The tablets come in pack sizes of 7, 28 or 84 but not all pack sizes may be available.
 
--  The 1 mg prolonged-release tablets are round and white, hard tablets, debossed with 1MG on one side and 503 on the other side.
--  The 2 mg prolonged-release tablets are oval and white, hard tablets, debossed with 2MG on one side and 503 on the other side.
--  The 3 mg prolonged-release tablets are round and green, hard tablets, debossed with 3MG on one side and 503 on the other side.
--  The 4 mg prolonged-release tablets are oval and green, hard tablets, debossed with 4MG on one side and 503 on the other side.
+- The 1 mg prolonged-release tablets are round and white, hard tablets, debossed with 1MG on one side and 503 on the other side.
+- The 2 mg prolonged-release tablets are oval and white, hard tablets, debossed with 2MG on one side and 503 on the other side.
+- The 3 mg prolonged-release tablets are round and green, hard tablets, debossed with 3MG on one side and 503 on the other side.
+- The 4 mg prolonged-release tablets are oval and green, hard tablets, debossed with 4MG on one side and 503 on the other side.
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -1566,7 +1543,9 @@ Shire Pharmaceuticals Ireland Limited Block 2 &amp; 3 Miesian Plaza 50 - 58 Bagg
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+## België/Belgique/Belgien
+
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## България
 
@@ -1582,9 +1561,7 @@ Takeda Pharma A/S Tlf: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Deutschland
 
-Takeda GmbH Tel: +49 (0)800 825 3325
-
-medinfoEMEA@takeda.com
+Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
 
 ## Eesti
 
@@ -1612,7 +1589,9 @@ Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Nederland
 
-Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
+Takeda Nederland B.V. Tel: +31 20 203 5492
+
+medinfoEMEA@takeda.com
 
 ## Norge
 
@@ -1626,17 +1605,9 @@ Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
 
 ## España
 
-## Polska
-
 Takeda Farmacéutica España S.A.
 
 Tel: +34 917 90 42 22
-
-medinfoEMEA@takeda.com
-
-Takeda Pharma Sp. z o.o.
-
-Tel.: +48223062447
 
 medinfoEMEA@takeda.com
 
@@ -1648,17 +1619,13 @@ Tél: + 33 1 40 67 33 00
 
 medinfoEMEA@takeda.com
 
-## Portugal
-
-Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
-
 ## Hrvatska
 
-Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals Croatia d.o.o.
 
-## România
+Tel: +385 1 377 88 96
 
-Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
+medinfoEMEA@takeda.com
 
 ## Ireland
 
@@ -1668,10 +1635,6 @@ Tel: 1800 937 970
 
 medinfoEMEA@takeda.com
 
-## Slovenija
-
-Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
-
 ## Ísland
 
 Vistor hf.
@@ -1679,10 +1642,6 @@ Vistor hf.
 Sími: +354 535 7000
 
 medinfoEMEA@takeda.com
-
-## Slovenská republika
-
-Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
 
 ## Italia
 
@@ -1692,10 +1651,6 @@ Tel: +39 06 502601
 
 medinfoEMEA@takeda.com
 
-## Suomi/Finland
-
-Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
-
 ## Κύπρος
 
 Τakeda ΕΛΛΑΣ Α.Ε.
@@ -1704,23 +1659,65 @@ Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
 
 medinfoEMEA@takeda.com
 
+## Latvija
+
+## Polska
+
+Takeda Pharma Sp. z o.o.
+
+Tel.: +48223062447
+
+medinfoEMEA@takeda.com
+
+## Portugal
+
+Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457
+
+medinfoEMEA@takeda.com
+
+## România
+
+Takeda Pharmaceuticals SRL
+
+Tel: +40 21 335 03 91
+
+medinfoEMEA@takeda.com
+
+## Slovenija
+
+Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: + 386 (0) 59 082 480
+
+medinfoEMEA@takeda.com
+
+## Slovenská republika
+
+Takeda Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 (2) 20 602 600
+
+medinfoEMEA@takeda.com
+
+## Suomi/Finland
+
+Takeda Oy Puh/Tel: 0800 774 051
+
+medinfoEMEA@takeda.com
+
 ## Sverige
 
 Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
 
-## Latvija
+## United Kingdom (Northern Ireland)
 
 Takeda Latvia SIA
 
 Tel: +371 67840082
 
+medinfoEMEA@takeda.com Takeda UK Ltd Tel: +44 (0) 2830 640 902
+
 medinfoEMEA@takeda.com
 
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd Tel: +44 (0) 2830 640 902 medinfoEMEA@takeda.com
-
-## This leaflet was last revised in.
+## This leaflet was last revised in
 
 ## Other sources of information
 

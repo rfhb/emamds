@@ -1,28 +1,34 @@
 ---
-document_datetime: 2026-06-12 11:42:25
+document_datetime: 2026-10-16 09:14:38
 document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/deferasirox-mylan-epar-product-information_en.pdf
 document_name: deferasirox-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 15.1662765
-conversion_datetime: 2026-06-13 20:21:47.301487
+processing_time: 18.295244
+conversion_datetime: 2026-10-19 22:49:05.36983
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Deferasirox Mylan 90 mg film-coated tablets Deferasirox Mylan 180 mg film-coated tablets Deferasirox Mylan 360 mg film-coated tablets
+Deferasirox Mylan 90 mg film-coated tablets
+
+Deferasirox Mylan 180 mg film-coated tablets
+
+Deferasirox Mylan 360 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -46,35 +52,35 @@ Film-coated tablets (Tablets)
 
 ## Deferasirox Mylan 90 mg film-coated tablets
 
-A blue, film-coated, modified capsule shaped, biconvex tablet debossed with ' ' on one side of the tablet and 'DF' on the other side.
+A blue, film-coated, modified capsule shaped, biconvex tablet debossed with \" \" on one side of the tablet and 'DF' on the other side.
 
-Approximate tablet dimensions 10.00 mm × 4.5 mm.
+Approximate tablet dimensions 10.20 mm × 4.60 mm.
 
 ## Deferasirox Mylan 180 mg film-coated tablets
 
-A blue, film-coated, modified capsule shaped, biconvex tablet debossed with ' ' on one side of the tablet and 'DF 1' on the other side.
+A blue, film-coated, modified capsule shaped, biconvex tablet debossed with \" \" on one side of the tablet and 'DF 1' on the other side.
 
-Approximate tablet dimensions 12.8 mm × 6.00 mm.
+Approximate tablet dimensions 13.00 mm × 6.10 mm.
 
 ## Deferasirox Mylan360 mg film-coated tablets
 
-A blue, film-coated, modified capsule shaped, biconvex tablet debossed with ' ' on one side of the tablet and 'DF 2' on the other side.
+A blue, film-coated, modified capsule shaped, biconvex tablet debossed with \" \" on one side of the tablet and 'DF 2' on the other side.
 
-Approximate tablet dimensions 17 mm × 6.7 mm.
+Approximate tablet dimensions 17.20 mm × 6.80 mm.
 
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-Deferasirox Mylan is indicated for the treatment of chronic iron overload due to frequent blood transfusions ( ≥ 7 ml/kg/month of packed red blood cells) in patients with beta thalassaemia major aged 6 years and older.
+Deferasirox Mylan is indicated for the treatment of chronic iron overload due to frequent blood transfusions (≥7 ml/kg/month of packed red blood cells) in patients with beta thalassaemia major aged 6 years and older.
 
 <div style=\"page-break-after: always\"></div>
 
 Deferasirox Mylan is also indicated for the treatment of chronic iron overload due to blood transfusions when deferoxamine therapy is contraindicated or inadequate in the following patient groups:
 
-- -in paediatric patients with beta thalassaemia major with iron overload due to frequent blood transfusions ( ≥ 7 ml/kg/month of packed red blood cells) aged 2 to 5 years,
-- -in adult and paediatric patients with beta thalassaemia major with iron overload due to infrequent blood transfusions (&lt;7 ml/kg/month of packed red blood cells) aged 2 years and older,
-- -in adult and paediatric patients with other anaemias aged 2 years and older.
+- in paediatric patients with beta thalassaemia major with iron overload due to frequent blood transfusions (≥7 ml/kg/month of packed red blood cells) aged 2 to 5 years,
+- in adult and paediatric patients with beta thalassaemia major with iron overload due to infrequent blood transfusions (&lt;7 ml/kg/month of packed red blood cells) aged 2 years and older,
+- in adult and paediatric patients with other anaemias aged 2 years and older.
 
 Deferasirox Mylan is also indicated for the treatment of chronic iron overload requiring chelation therapy when deferoxamine therapy is contraindicated or inadequate in patients with non-transfusiondependent thalassaemia syndromes aged 10 years and older.
 
@@ -102,16 +108,14 @@ It is recommended that treatment be started after the transfusion of approximate
 
 Table 1 Recommended starting doses for transfusional iron overload
 
-| Recommended starting dose   | Recommended starting dose   | Recommended starting dose                                                            | Recommended starting dose   |
-|-----------------------------|-----------------------------|--------------------------------------------------------------------------------------|-----------------------------|
-| Serum ferritin              |                             | Patient population                                                                   | Recommended starting dose   |
-| >1 000 µg/l                 | or                          | Patients who have already received approximately 20 units (about 100 ml/kg) of PRBC. | 14 mg/kg/day                |
+| Recommended starting dose - Serum ferritin   | Recommended starting dose   | Recommended starting dose - Patient population                                       | Recommended starting dose   |
+|----------------------------------------------|-----------------------------|--------------------------------------------------------------------------------------|-----------------------------|
+| >1 000 µg/l                                  | or                          | Patients who have already received approximately 20 units (about 100 ml/kg) of PRBC. | 14 mg/kg/day                |
 
 <div style=\"page-break-after: always\"></div>
 
-| Alternative starting doses                                                                                                                                                                                                                                                    |                                 |
+| Alternative starting doses - Patient population                                                                                                                                                                                                                               | Alternative starting dose       |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
-| Patient population                                                                                                                                                                                                                                                            | Alternative starting dose       |
 | Patients who do not require reduction of body iron levels and who are also receiving <7 ml/kg/month of PRBC (approx. <2 units/month for an adult). The patient's response must be monitored, and a dose increase should be considered if sufficient efficacy is not obtained. | 7 mg/kg/day                     |
 | Patients who require reduction of elevated body iron levels and who are also receiving >14 ml/kg/month of PRBC (approx >4 units/month for an adult).                                                                                                                          | 21 mg/kg/day                    |
 | Patients who are well managed on deferoxamine.                                                                                                                                                                                                                                | One third of deferoxamine dose* |
@@ -124,12 +128,12 @@ It is recommended that serum ferritin be monitored every month and that the dose
 
 Table 2 Recommended dose adjustments for transfusional iron overload
 
-| Serum ferritin (monthly monitoring)                                           | Recommended dose adjustment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Persistently >2 500 μ g/l and not showing a decreasing trend over time        | Increase dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day. The maximum allowed dose is 28 mg/kg/day. If only very poor haemosiderosis control is achieved at doses up to 21 mg/kg/day, a further increase (to a maximum of 28 mg/kg/day) may not achieve satisfactory control, and alternative treatment options may be considered. If no satisfactory control is achieved at doses above 21 mg/kg/day, treatment at such doses should not be maintained and alternative treatment options should be considered whenever possible. |
-| >1 000 μ g/l but persistently ≤ 2 500 μ g/l with a decreasing trend over time | Decrease dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day in patients treated with doses >21 mg/kg/day, until the target of 500 to 1 000 μ g/l is reached.                                                                                                                                                                                                                                                                                                                                                                         |
-| 500 to 1 000 μ g/l (target range)                                             | Decrease dose in steps of 3.5 to 7 mg/kg/day every 3 to 6 months to maintain serum ferritin levels within the target range and to minimise the risk of overchelation.                                                                                                                                                                                                                                                                                                                                                                     |
-| Consistently <500 μ g/l                                                       | Consider interruption of treatment (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Serum ferritin (monthly monitoring)                                        | Recommended dose adjustment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Persistently >2 500 μg/l and not showing a decreasing trend over time      | Increase dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day. The maximum allowed dose is 28 mg/kg/day. If only very poor haemosiderosis control is achieved at doses up to 21 mg/kg/day, a further increase (to a maximum of 28 mg/kg/day) may not achieve satisfactory control, and alternative treatment options may be considered. If no satisfactory control is achieved at doses above 21 mg/kg/day, treatment at such doses should not be maintained and alternative treatment options should be considered whenever possible. |
+| >1 000 μg/l but persistently ≤2 500 μg/l with a decreasing trend over time | Decrease dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day in patients treated with doses >21 mg/kg/day, until the target of 500 to 1 000 μg/l is reached.                                                                                                                                                                                                                                                                                                                                                                          |
+| 500 to 1 000 μg/l (target range)                                           | Decrease dose in steps of 3.5 to 7 mg/kg/day every 3 to 6 months to maintain serum ferritin levels within the target range and to minimise the risk of overchelation.                                                                                                                                                                                                                                                                                                                                                                     |
+| Consistently <500 μg/l                                                     | Consider interruption of treatment (see section 4.4).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 The availability of long-term efficacy and safety data from clinical studies conducted with Deferasirox Mylan dispersible tablets used at doses above 30 mg/kg (equivalent to 21 mg/kg when given as filmcoated tablets) is currently limited (264 patients followed for an average of 1 year after dose escalation).
 
@@ -139,7 +143,7 @@ Doses above 28 mg/kg/day are not recommended because there is only limited exper
 
 ## Non-transfusion-dependent thalassaemia syndromes
 
-Chelation therapy should only be initiated when there is evidence of iron overload (liver iron concentration [LIC] ≥ 5 mg Fe/g dry weight [dw] or serum ferritin consistently &gt;800 µg/l). LIC is the preferred method of iron overload determination and should be used wherever available. Caution should be taken during chelation therapy to minimise the risk of over-chelation in all patients (see section 4.4).
+Chelation therapy should only be initiated when there is evidence of iron overload (liver iron concentration [LIC] ≥5 mg Fe/g dry weight [dw] or serum ferritin consistently &gt;800 µg/l). LIC is the preferred method of iron overload determination and should be used wherever available. Caution should be taken during chelation therapy to minimise the risk of over-chelation in all patients (see section 4.4).
 
 In the EU, medicines containing deferasirox are available as film-coated tablets and dispersible tablets marketed under different tradenames as generic alternatives of deferasirox. Due to different pharmacokinetic profiles, a 30% lower dose of deferasirox film-coated tablets is needed in comparison to the recommended dose for deferasirox dispersible tablets (see section 5.1).
 
@@ -155,22 +159,20 @@ Table 3 Recommended dose adjustments for non-transfusion-dependent thalassaemia 
 
 | Serum ferritin (monthly monitoring)                                                                                                                                                    |                                                                                                                                                                                        | Liver iron concentration (LIC)*                                                                                                                                                        | Recommended dose adjustment                                                                                                                                                                                                                                                                                                                                                                              |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Consistently >2 000 μ g/l and not showing a downward trend                                                                                                                             | or                                                                                                                                                                                     | ≥ 7 mg Fe/g dw                                                                                                                                                                         | Increase dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day if the patient is tolerating the medicinal product well. The maximum allowed dose is 14 mg/kg/day for adult patients and 7 mg/kg/day for paediatric patients. Doses above 14 mg/kg/day are not recommended because there is no experience with doses above this level in patients with nontransfusion dependent thalassaemia syndromes. |
-| ≤ 2 000 μ g/l                                                                                                                                                                          | or                                                                                                                                                                                     | <7 mg Fe/g dw                                                                                                                                                                          | Decrease dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day down to a dose of 7 mg/kg/day (or less) in patients treated with doses >7 mg/kg/day.                                                                                                                                                                                                                                                    |
-| <300 μ g/l                                                                                                                                                                             | or                                                                                                                                                                                     | <3 mg Fe/g dw                                                                                                                                                                          | Treatment should be stopped once a satisfactory body iron level has been achieved.                                                                                                                                                                                                                                                                                                                       |
+| Consistently >2 000 μg/l and not showing a downward trend                                                                                                                              | or                                                                                                                                                                                     | ≥7 mg Fe/g dw                                                                                                                                                                          | Increase dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day if the patient is tolerating the medicinal product well. The maximum allowed dose is 14 mg/kg/day for adult patients and 7 mg/kg/day for paediatric patients. Doses above 14 mg/kg/day are not recommended because there is no experience with doses above this level in patients with nontransfusion dependent thalassaemia syndromes. |
+| ≤2 000 μg/l                                                                                                                                                                            | or                                                                                                                                                                                     | <7 mg Fe/g dw                                                                                                                                                                          | Decrease dose every 3 to 6 months in steps of 3.5 to 7 mg/kg/day down to a dose of 7 mg/kg/day (or less) in patients treated with doses >7 mg/kg/day.                                                                                                                                                                                                                                                    |
+| <300 μg/l                                                                                                                                                                              | or                                                                                                                                                                                     | <3 mg Fe/g dw                                                                                                                                                                          | Treatment should be stopped once a satisfactory body iron level has been achieved.                                                                                                                                                                                                                                                                                                                       |
 | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended. | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended. | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended. | There are no data available on the retreatment of patients who reaccumulate iron after having achieved a satisfactory body iron level and therefore retreatment cannot be recommended.                                                                                                                                                                                                                   |
 
-LIC is the preferred method of iron overload determination.
+* LIC is the preferred method of iron overload determination.
 
-*
-
-In both paediatric and adult patients in whom LIC was not assessed and serum ferritin is ≤ 2,000 µg/l, dosing should not exceed 7 mg/kg/day.
+In both paediatric and adult patients in whom LIC was not assessed and serum ferritin is ≤2,000 µg/l, dosing should not exceed 7 mg/kg/day.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
-## Elderly patients ( ≥ 65 years of age)
+## Elderly patients (≥65 years of age)
 
 The dosing recommendations for elderly patients are the same as described above. In clinical studies, elderly patients experienced a higher frequency of adverse reactions than younger patients (in particular, diarrhoea) and should be monitored closely for adverse reactions that may require a dose adjustment.
 
@@ -184,7 +186,7 @@ In children with transfusional iron overload aged between 2 and 5 years, exposur
 
 ## Non-transfusion-dependent thalassaemia syndromes:
 
-In paediatric patients with non-transfusion-dependent thalassaemia syndromes, dosing should not exceed 7 mg/kg/day. In these patients, closer monitoring of LIC and serum ferritin is essential to avoid over-chelation (see section 4.4). In addition to monthly serum ferritin assessments, LIC should be monitored every three months when serum ferritin is ≤ 800 µg/l.
+In paediatric patients with non-transfusion-dependent thalassaemia syndromes, dosing should not exceed 7 mg/kg/day. In these patients, closer monitoring of LIC and serum ferritin is essential to avoid over-chelation (see section 4.4). In addition to monthly serum ferritin assessments, LIC should be monitored every three months when serum ferritin is ≤800 µg/l.
 
 ## Children from birth to 23 months:
 
@@ -200,7 +202,7 @@ Deferasirox Mylan is not recommended in patients with severe hepatic impairment 
 
 ## Method of administration
 
-## For oral use.
+For oral use.
 
 The film-coated tablets should be swallowed whole with some water. For patients who are unable to swallow whole tablets, the film-coated tablets may be crushed and administered by sprinkling the full dose onto soft food, e.g. yogurt or apple sauce (pureed apple). The dose should be immediately and completely consumed, and not stored for future use.
 
@@ -220,7 +222,7 @@ Patients with estimated creatinine clearance &lt;60 ml/min.
 
 Deferasirox has been studied only in patients with baseline serum creatinine within the ageappropriate normal range.
 
-During clinical studies, increases in serum creatinine of &gt;33% on ≥ 2 consecutive occasions, sometimes above the upper limit of the normal range, occurred in about 36% of patients. These were dose-dependent. About two-thirds of the patients showing serum creatinine increase returned below the 33% level without dose adjustment. In the remaining third the serum creatinine increase did not always respond to a dose reduction or a dose interruption. In some cases, only a stabilisation of the serum creatinine values has been observed after dose reduction. Cases of acute renal failure have been reported following post-marketing use of deferasirox (see section 4.8). In some post-marketing cases, renal function deterioration has led to renal failure requiring temporary or permanent dialysis.
+During clinical studies, increases in serum creatinine of &gt;33% on ≥2 consecutive occasions, sometimes above the upper limit of the normal range, occurred in about 36% of patients. These were dose-dependent. About two-thirds of the patients showing serum creatinine increase returned below the 33% level without dose adjustment. In the remaining third the serum creatinine increase did not always respond to a dose reduction or a dose interruption. In some cases, only a stabilisation of the serum creatinine values has been observed after dose reduction. Cases of acute renal failure have been reported following post-marketing use of deferasirox (see section 4.8). In some post-marketing cases, renal function deterioration has led to renal failure requiring temporary or permanent dialysis.
 
 The causes of the rises in serum creatinine have not been elucidated. Particular attention should therefore be paid to monitoring of serum creatinine in patients who are concomitantly receiving medicinal products that depress renal function, and in patients who are receiving high doses of deferasirox and/or low rates of transfusion (&lt;7 ml/kg/month of packed red blood cells or &lt;2 units/month for an adult). While no increase in renal adverse events was observed after dose escalation of deferasirox dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with film-coated tablet doses above 21 mg/kg cannot be excluded.
 
@@ -239,17 +241,13 @@ Table 4 Dose adjustment and interruption of treatment for renal monitoring
 | Before initiation of therapy                                                                                                                                                           | Twice (2×)                                                                                                                                                                             | and                                                                                                                                                                                    | Once (1×)                                                                                                                                                                              |
 | Contraindicated                                                                                                                                                                        |                                                                                                                                                                                        |                                                                                                                                                                                        | <60 ml/min                                                                                                                                                                             |
 | Monitoring                                                                                                                                                                             |                                                                                                                                                                                        |                                                                                                                                                                                        |                                                                                                                                                                                        |
-| - First month after start of therapy or dose modification (including switch of                                                                                                         | Weekly                                                                                                                                                                                 | and                                                                                                                                                                                    | Weekly                                                                                                                                                                                 |
-| - Thereafter                                                                                                                                                                           | Monthly                                                                                                                                                                                | and                                                                                                                                                                                    | Monthly                                                                                                                                                                                |
+| - First month after start of therapy or dose modification                                                                                                                              | Weekly                                                                                                                                                                                 | and                                                                                                                                                                                    | Weekly                                                                                                                                                                                 |
+| (including switch formulation) - Thereafter                                                                                                                                            | Monthly                                                                                                                                                                                | and                                                                                                                                                                                    | Monthly                                                                                                                                                                                |
 | Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation), if following renal parameters are observed at two consecutive visits and cannot be attributed to other causes | Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation), if following renal parameters are observed at two consecutive visits and cannot be attributed to other causes | Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation), if following renal parameters are observed at two consecutive visits and cannot be attributed to other causes | Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation), if following renal parameters are observed at two consecutive visits and cannot be attributed to other causes |
 | Adult patients                                                                                                                                                                         | >33% above pre-treatment average                                                                                                                                                       | and                                                                                                                                                                                    | Decreases <LLN * (<90 ml/min)                                                                                                                                                          |
 | Paediatric patients                                                                                                                                                                    | > age appropriate ULN **                                                                                                                                                               | and/or                                                                                                                                                                                 | Decreases <LLN * (<90 ml/min)                                                                                                                                                          |
 | After dose reduction, interrupt treatment, if                                                                                                                                          | After dose reduction, interrupt treatment, if                                                                                                                                          | After dose reduction, interrupt treatment, if                                                                                                                                          | After dose reduction, interrupt treatment, if                                                                                                                                          |
 | Adult and paediatric                                                                                                                                                                   | Remains >33% above pre- treatment average                                                                                                                                              | and/or                                                                                                                                                                                 | Decreases <LLN * (<90 ml/min)                                                                                                                                                          |
-
-* LLN: lower limit of the normal range
-
-** ULN: upper limit of the normal range
 
 Treatment may be reinitiated depending on the individual clinical circumstances.
 
@@ -351,13 +349,13 @@ In a healthy volunteer study, the concomitant administration of deferasirox disp
 
 ## Interaction with repaglinide and other agents metabolised by CYP2C8
 
-In a healthy volunteer study, the concomitant administration of deferasirox as a moderate CYP2C8 inhibitor (30 mg/kg daily, dispersible tablet formulation), with repaglinide, a CYP2C8 substrate, given as a single dose of 0.5 mg, increased repaglinide AUC and C max about 2.3-fold (90% CI [2.03-2.63]) and 1.6-fold (90% CI [1.42-1.84]), respectively. Since the interaction has not been established with dosages higher than 0.5 mg for repaglinide, the concomitant use of deferasirox with repaglinide should be avoided. If the combination appears necessary, careful clinical and blood glucose monitoring should be performed (see section 4.4). An interaction between deferasirox and other CYP2C8 substrates like paclitaxel cannot be excluded.
+In a healthy volunteer study, the concomitant administration of deferasirox as a moderate CYP2C8 inhibitor (30 mg/kg daily, dispersible tablet formulation), with repaglinide, a CYP2C8 substrate, given as a single dose of 0.5 mg, increased repaglinide AUC and Cmax about 2.3-fold (90% CI [2.03-2.63]) and 1.6-fold (90% CI [1.42-1.84]), respectively. Since the interaction has not been established with dosages higher than 0.5 mg for repaglinide, the concomitant use of deferasirox with repaglinide should be avoided. If the combination appears necessary, careful clinical and blood glucose monitoring should be performed (see section 4.4). An interaction between deferasirox and other CYP2C8 substrates like paclitaxel cannot be excluded.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Interaction with theophylline and other agents metabolised by CYP1A2
 
-In a healthy volunteer study, the concomitant administration of deferasirox as a CYP1A2 inhibitor (repeated dose of 30 mg/kg/day, dispersible tablet formulation) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an increase of theophylline AUC by 84% (90% CI: 73% to 95%). The single dose Cmax was not affected, but an increase of theophylline C max is expected to occur with chronic dosing. Therefore, the concomitant use of deferasirox with theophylline is not recommended. If deferasirox and theophylline are used concomitantly, monitoring of theophylline concentration and theophylline dose reduction should be considered. An interaction between deferasirox and other CYP1A2 substrates cannot be excluded. For substances that are predominantly metabolised by CYP1A2 and that have a narrow therapeutic index (e.g. clozapine, tizanidine), the same recommendations apply as for theophylline.
+In a healthy volunteer study, the concomitant administration of deferasirox as a CYP1A2 inhibitor (repeated dose of 30 mg/kg/day, dispersible tablet formulation) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an increase of theophylline AUC by 84% (90% CI: 73% to 95%). The single dose Cmax was not affected, but an increase of theophylline Cmax is expected to occur with chronic dosing. Therefore, the concomitant use of deferasirox with theophylline is not recommended. If deferasirox and theophylline are used concomitantly, monitoring of theophylline concentration and theophylline dose reduction should be considered. An interaction between deferasirox and other CYP1A2 substrates cannot be excluded. For substances that are predominantly metabolised by CYP1A2 and that have a narrow therapeutic index (e.g. clozapine, tizanidine), the same recommendations apply as for theophylline.
 
 ## Other information
 
@@ -403,7 +401,7 @@ Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are ranked below using the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions are ranked below using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 ## Table 6
 
@@ -427,30 +425,85 @@ Adverse reactions are ranked below using the following convention: very common (
 | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                |
 | Uncommon:                                       | Laryngeal pain                                                                 |
 
+## Gastrointestinal disorders
+
+Common:
+
+Uncommon:
+
+Rare:
+
+Diarrhoea, constipation, vomiting, nausea, abdominal pain, abdominal distension, dyspepsia
+
+Gastrointestinal haemorrhage, gastric ulcer (including multiple ulcers), duodenal ulcer, gastritis
+
+Oesophagitis
+
+Not known:
+
+Gastrointestinal perforation 1 , acute pancreatitis 1
+
+## Hepatobiliary disorders
+
+Common:
+
+Transaminases increased
+
+Uncommon:
+
+Hepatitis, cholelithiasis
+
+Not known:
+
+Hepatic failure 1,2
+
+## Skin and subcutaneous tissue disorders
+
+Common:
+
+Rash, pruritus
+
+Uncommon:
+
+Pigmentation disorder
+
+Rare:
+
+Drug reaction with eosinophilia and systemic symptoms (DRESS)
+
+Not known:
+
+Stevens-Johnson syndrome 1 , hypersensitivity vasculitis 1 , urticaria 1 , erythema multiforme 1 , alopecia 1 , toxic epidermal necrolysis (TEN) 1
+
+## Renal and urinary disorders
+
+Very common:
+
+Blood creatinine increased
+
+Common:
+
+Proteinuria
+
+Uncommon:
+
+Renal tubular disorder 2 (acquired Fanconi syndrome), glycosuria
+
+Not known:
+
+Acute renal failure 1,2 , tubulointerstitial nephritis 1 , nephrolithiasis 1 , renal tubular necrosis 1
+
+## General disorders and administration site conditions
+
+Uncommon:
+
+Pyrexia, oedema, fatigue
+
 <div style=\"page-break-after: always\"></div>
 
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                         |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Common:                                              | Diarrhoea, constipation, vomiting, nausea, abdominal pain, abdominal distension, dyspepsia                                                         |
-| Uncommon:                                            | Gastrointestinal haemorrhage, gastric ulcer (including multiple ulcers), duodenal ulcer, gastritis                                                 |
-| Rare:                                                | Oesophagitis                                                                                                                                       |
-| Not known:                                           | Gastrointestinal perforation 1 , acute pancreatitis 1                                                                                              |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                            |
-| Common:                                              | Transaminases increased                                                                                                                            |
-| Uncommon:                                            | Hepatitis, cholelithiasis                                                                                                                          |
-| Not known:                                           | Hepatic failure 1,2                                                                                                                                |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                             |
-| Common:                                              | Rash, pruritus                                                                                                                                     |
-| Uncommon:                                            | Pigmentation disorder                                                                                                                              |
-| Rare:                                                | Drug reaction with eosinophilia and systemic symptoms (DRESS)                                                                                      |
-| Not known:                                           | Stevens-Johnson syndrome 1 , hypersensitivity vasculitis 1 , urticaria 1 , erythema multiforme 1 , alopecia 1 , toxic epidermal necrolysis (TEN) 1 |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                        |
-| Very common:                                         | Blood creatinine increased                                                                                                                         |
-| Common:                                              | Proteinuria                                                                                                                                        |
-| Uncommon:                                            | Renal tubular disorder 2 (acquired Fanconi syndrome), glycosuria                                                                                   |
-| Not known:                                           | Acute renal failure 1,2 , tubulointerstitial nephritis 1 , nephrolithiasis 1 , renal tubular necrosis 1                                            |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                                               |
-| Uncommon:                                            | Pyrexia, oedema, fatigue                                                                                                                           |
+1 Adverse reactions reported during post-marketing experience. These are derived from spontaneous reports for which it is not always possible to reliably establish frequency or a causal relationship to exposure to the medicinal product.
+
+2 Severe forms associated with changes in consciousness in the context of hyperammonaemic encephalopathy have been reported.
 
 ## Description of selected adverse reactions
 
@@ -506,25 +559,25 @@ In an iron-balance metabolic study in iron-overloaded adult thalassaemic patient
 
 Clinical efficacy studies were conducted with deferasirox dispersible tablets. Compared to the deferasirox dispersible tablet formulation, the dose of the deferasirox film coated tablets is 30% lower than the dose of the deferasirox dispersible tablets, rounded to the nearest whole tablet (see section 5.2).
 
-Deferasirox has been investigated in 411 adult (age ≥ 16 years) and 292 paediatric patients (aged 2 to &lt;16 years) with chronic iron overload due to blood transfusions. Of the paediatric patients 52 were aged 2 to 5 years. The underlying conditions requiring transfusion included beta-thalassaemia, sickle cell disease and other congenital and acquired anaemias (myelodysplastic syndromes, DiamondBlackfan syndrome, aplastic anaemia and other very rare anaemias).
+Deferasirox has been investigated in 411 adult (age ≥16 years) and 292 paediatric patients (aged 2 to &lt;16 years) with chronic iron overload due to blood transfusions. Of the paediatric patients 52 were aged 2 to 5 years. The underlying conditions requiring transfusion included beta-thalassaemia, sickle cell disease and other congenital and acquired anaemias (myelodysplastic syndromes, DiamondBlackfan syndrome, aplastic anaemia and other very rare anaemias).
 
 Daily treatment with the deferasirox dispersible tablet formulation at doses of 20 and 30 mg/kg for one year in frequently transfused adult and paediatric patients with beta-thalassaemia led to reductions in indicators of total body iron; liver iron concentration was reduced by about -0.4 and -8.9 mg Fe/g liver (biopsy dry weight (dw)) on average, respectively, and serum ferritin was reduced by about -36 and -926 µg/l on average, respectively. At these same doses, the ratios of iron excretion: iron intake were 1.02 (indicating net iron balance) and 1.67 (indicating net iron removal), respectively. Deferasirox induced similar responses in iron-overloaded patients with other anaemias. Daily doses of 10 mg/kg (dispersible tablet formulation) for one year could maintain liver iron and serum ferritin levels and induce net iron balance in patients receiving infrequent transfusions or exchange transfusions. Serum ferritin assessed by monthly monitoring reflected changes in liver iron concentration indicating that trends in serum ferritin can be used to monitor response to therapy. Limited clinical data (29 patients with normal cardiac function at baseline) using MRI indicate that treatment with deferasirox 10 - 30 mg/kg/day (dispersible tablet formulation) for 1 year may also reduce levels of iron in the heart (on average, MRI T2* increased from 18.3 to 23.0 milliseconds).
 
-The principal analysis of the pivotal comparative study in 586 patients suffering from betathalassaemia and transfusional iron overload did not demonstrate non-inferiority of deferasirox dispersible tablets to deferoxamine in the analysis of the total patient population. It appeared from a post-hoc analysis of this study that, in the subgroup of patients with liver iron concentration ≥ 7 mg Fe/g dw treated with deferasirox dispersible tablets (20 and 30 mg/kg) or deferoxamine (35 to ≥ 50 mg/kg), the non-inferiority criteria were achieved. However, in patients with liver iron concentration &lt;7 mg Fe/g dw treated with deferasirox dispersible tablets (5 and 10 mg/kg) or deferoxamine (20 to 35 mg/kg), non-inferiority was not established due to imbalance in the dosing of the two chelators. This imbalance occurred because patients on deferoxamine were allowed to remain on their pre-study dose even if it was higher than the protocol specified dose. Fifty-six patients under the age of 6 years participated in this pivotal study, 28 of them receiving deferasirox dispersible tablets.
+The principal analysis of the pivotal comparative study in 586 patients suffering from betathalassaemia and transfusional iron overload did not demonstrate non-inferiority of deferasirox dispersible tablets to deferoxamine in the analysis of the total patient population. It appeared from a post-hoc analysis of this study that, in the subgroup of patients with liver iron concentration ≥7 mg Fe/g dw treated with deferasirox dispersible tablets (20 and 30 mg/kg) or deferoxamine (35 to ≥50 mg/kg), the non-inferiority criteria were achieved. However, in patients with liver iron concentration &lt;7 mg Fe/g dw treated with deferasirox dispersible tablets (5 and 10 mg/kg) or deferoxamine (20 to 35 mg/kg), non-inferiority was not established due to imbalance in the dosing of the two chelators. This imbalance occurred because patients on deferoxamine were allowed to remain on their pre-study dose even if it was higher than the protocol specified dose. Fifty-six patients under the age of 6 years participated in this pivotal study, 28 of them receiving deferasirox dispersible tablets.
 
 It appeared from preclinical and clinical studies that deferasirox dispersible tablets could be as active as deferoxamine when used in a dose ratio of 2:1 (i.e. a dose of deferasirox dispersible tablets that is numerically half of the deferoxamine dose). For deferasirox film-coated tablets, a dose ratio of 3:1 can be considered (i.e. a dose of deferasirox film-coated tablets that is numerically one third of the deferoxamine dose). However, this dosing recommendation was not prospectively assessed in the clinical studies.
 
-In addition, in patients with liver iron concentration ≥ 7 mg Fe/g dw with various rare anaemias or sickle cell disease, deferasirox dispersible tablets up to 20 and 30 mg/kg produced a decrease in liver iron concentration and serum ferritin comparable to that obtained in patients with beta-thalassaemia.
+In addition, in patients with liver iron concentration ≥7 mg Fe/g dw with various rare anaemias or sickle cell disease, deferasirox dispersible tablets up to 20 and 30 mg/kg produced a decrease in liver iron concentration and serum ferritin comparable to that obtained in patients with beta-thalassaemia.
 
 A placebo-controlled randomised study was performed in 225 patients with MDS (Low/Int-1 risk) and transfusional iron overload. The results of this study suggest that there is a positive impact of deferasirox on event-free survival (EFS, a composite endpoint including non-fatal cardiac or liver events) and serum ferritin levels. The safety profile was consistent with previous studies in adult MDS patients.
 
 <div style=\"page-break-after: always\"></div>
 
-In a 5-year observational study in which 267 children aged 2 to &lt;6 years (at enrollment) with transfusional haemosiderosis received deferasirox, there were no clinically meaningful differences in the safety and tolerability profile of deferasirox in paediatric patients aged 2 to &lt;6 years compared to the overall adult and older paediatric population, including increases in serum creatinine of &gt;33% and above the upper limit of normal on ≥ 2 consecutive occasions (3.1%), and elevation of alanine aminotransferase (ALT) greater than 5 times the upper limit of normal (4.3%). Single events of increase in ALT and aspartate aminotransferase were reported in 20.0% and 8.3%, respectively, of the 145 patients who completed the study.
+In a 5-year observational study in which 267 children aged 2 to &lt;6 years (at enrollment) with transfusional haemosiderosis received deferasirox, there were no clinically meaningful differences in the safety and tolerability profile of deferasirox in paediatric patients aged 2 to &lt;6 years compared to the overall adult and older paediatric population, including increases in serum creatinine of &gt;33% and above the upper limit of normal on ≥2 consecutive occasions (3.1%), and elevation of alanine aminotransferase (ALT) greater than 5 times the upper limit of normal (4.3%). Single events of increase in ALT and aspartate aminotransferase were reported in 20.0% and 8.3%, respectively, of the 145 patients who completed the study.
 
 In a study to assess the safety of deferasirox film-coated and dispersible tablets, 173 adult and paediatric patients with transfusion dependent thalassaemia or myelodysplastic syndrome were treated for 24 weeks. A comparable safety profile for film-coated and dispersible tablets was observed.
 
-An open label 1:1 randomised study was performed in 224 paediatric patients aged 2 to &lt;18 years old with transfusion-dependant anaemia and iron overload to evaluate treatment compliance, efficacy and safety of the deferasirox granule formulation compared to the dispersible tablet formulation. The majority of patients (142, 63.4%) in the study had beta-thalassemia major, 108 (48.2%) patients were naïve to iron chelation therapy (ICT) (median age 2 years, 92.6% aged 2 to &lt;10 years) and 116 (51.8%) were ICT pre-treated (median age 7.5 years, 71.6% aged 2 to &lt;10 years) of whom 68.1% had previously received deferasirox. In the primary analysis performed in ICT naïve patients after 24 weeks of treatment, the compliance rate was 84.26% and 86.84% in the deferasirox dispersible tablets arm and in the deferasirox granules arm, respectively, with no statistically significant difference. Similarly, there was no statistically significant difference in mean changes from baseline in serum ferritin (SF) values between the two treatment arms (171.52 μ g/l [95% CI: 517.40, 174.36] for dispersible tablets [DT] and 4.84 μ g/l [95% CI: -333.58, 343.27] for the granule formulation, difference between means [granules - DT] 176.36 μ g/l [95% CI: 129.00, 481.72], two sided p-value = 0.25). The study concluded that treatment compliance and efficacy were no different between deferasirox granules and deferasirox dispersible tablet arms at different time points (24 and 48 weeks). The safety profile was overall comparable between the granules and the dispersible tablet formulations.
+An open label 1:1 randomised study was performed in 224 paediatric patients aged 2 to &lt;18 years old with transfusion-dependant anaemia and iron overload to evaluate treatment compliance, efficacy and safety of the deferasirox granule formulation compared to the dispersible tablet formulation. The majority of patients (142, 63.4%) in the study had beta-thalassemia major, 108 (48.2%) patients were naïve to iron chelation therapy (ICT) (median age 2 years, 92.6% aged 2 to &lt;10 years) and 116 (51.8%) were ICT pre-treated (median age 7.5 years, 71.6% aged 2 to &lt;10 years) of whom 68.1% had previously received deferasirox. In the primary analysis performed in ICT naïve patients after 24 weeks of treatment, the compliance rate was 84.26% and 86.84% in the deferasirox dispersible tablets arm and in the deferasirox granules arm, respectively, with no statistically significant difference. Similarly, there was no statistically significant difference in mean changes from baseline in serum ferritin (SF) values between the two treatment arms (171.52 μg/l [95% CI: 517.40, 174.36] for dispersible tablets [DT] and 4.84 μg/l [95% CI: -333.58, 343.27] for the granule formulation, difference between means [granules - DT] 176.36 μg/l [95% CI: 129.00, 481.72], two sided p-value = 0.25). The study concluded that treatment compliance and efficacy were no different between deferasirox granules and deferasirox dispersible tablet arms at different time points (24 and 48 weeks). The safety profile was overall comparable between the granules and the dispersible tablet formulations.
 
 In patients with non-transfusion-dependent thalassaemia syndromes and iron overload, treatment with deferasirox dispersible tablets was assessed in a 1-year, randomised, double-blind, placebo-controlled study. The study compared the efficacy of two different deferasirox dispersible tablet regimens (starting doses of 5 and 10 mg/kg/day, 55 patients in each arm) and of matching placebo (56 patients). The study enrolled 145 adult and 21 paediatric patients. The primary efficacy parameter was the change in liver iron concentration (LIC) from baseline after 12 months of treatment. One of the secondary efficacy parameters was the change in serum ferritin between baseline and fourth quarter. At a starting dose of 10 mg/kg/day, deferasirox dispersible tablets led to reductions in indicators of total body iron. On average, liver iron concentration decreased by 3.80 mg Fe/g dw in patients treated with deferasirox dispersible tablets (starting dose 10 mg/kg/day) and increased by 0.38 mg Fe/g dw in patients treated with placebo (p&lt;0.001). On average, serum ferritin decreased by 222.0 µg/l in patients treated with deferasirox dispersible tablets (starting dose 10 mg/kg/day) and increased by 115 µg/l in patients treated with placebo (p&lt;0.001).
 
@@ -538,7 +591,7 @@ Deferasirox film-coated tablets demonstrate higher bioavailability compared to d
 
 Deferasirox (dispersible tablet formulation) is absorbed following oral administration with a median time to maximum plasma concentration (tmax) of about 1.5 to 4 hours. The absolute bioavailability (AUC) of deferasirox (dispersible tablet formulation) is about 70% compared to an intravenous dose. The absolute bioavailability of the film-coated tablet formulation has not been determined. Bioavailability of deferasirox film-coated tablets was 36% greater than that with dispersible tablets.
 
-A food-effect study involving administration of the film-coated tablets to healthy volunteers under fasting conditions and with a low-fat (fat content &lt;10% of calories) or high-fat (fat content &gt;50% of calories) meal indicated that the AUC and C max were slightly decreased after a low-fat meal (by 11% and 16%, respectively). After a high-fat meal, AUC and Cmax were increased (by 18% and 29%, respectively). The increases in C max due to the change in formulation and due to the effect of a high-fat meal may be additive and therefore, it is recommended that the film-coated tablets should be taken either on an empty stomach or with a light meal.
+A food-effect study involving administration of the film-coated tablets to healthy volunteers under fasting conditions and with a low-fat (fat content &lt;10% of calories) or high-fat (fat content &gt;50% of calories) meal indicated that the AUC and Cmax were slightly decreased after a low-fat meal (by 11% and 16%, respectively). After a high-fat meal, AUC and Cmax were increased (by 18% and 29%, respectively). The increases in Cmax due to the change in formulation and due to the effect of a high-fat meal may be additive and therefore, it is recommended that the film-coated tablets should be taken either on an empty stomach or with a light meal.
 
 ## Distribution
 
@@ -548,11 +601,11 @@ Deferasirox is highly (99%) protein bound to plasma proteins, almost exclusively
 
 Glucuronidation is the main metabolic pathway for deferasirox, with subsequent biliary excretion. Deconjugation of glucuronidates in the intestine and subsequent reabsorption (enterohepatic recycling) is likely to occur: in a healthy volunteer study, the administration of cholestyramine after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC).
 
-Deferasirox is mainly glucuronidated by UGT1A1 and to a lesser extent UGT1A3. CYP450-catalysed (oxidative) metabolism of deferasirox appears to be minor in humans (about 8%). No inhibition of deferasirox metabolism by hydroxyurea was observed in vitro .
+Deferasirox is mainly glucuronidated by UGT1A1 and to a lesser extent UGT1A3. CYP450-catalysed (oxidative) metabolism of deferasirox appears to be minor in humans (about 8%). No inhibition of deferasirox metabolism by hydroxyurea was observed in vitro.
 
 ## Elimination
 
-Deferasirox and its metabolites are primarily excreted in the faeces (84% of the dose). Renal excretion of deferasirox and its metabolites is minimal (8% of the dose). The mean elimination half-life (t ½) ranged from 8 to 16 hours. The transporters MRP2 and MXR (BCRP) are involved in the biliary excretion of deferasirox.
+Deferasirox and its metabolites are primarily excreted in the faeces (84% of the dose). Renal excretion of deferasirox and its metabolites is minimal (8% of the dose). The mean elimination half-life (t½) ranged from 8 to 16 hours. The transporters MRP2 and MXR (BCRP) are involved in the biliary excretion of deferasirox.
 
 ## Linearity / non-linearity
 
@@ -562,7 +615,7 @@ The Cmax and AUC0-24h of deferasirox increase approximately linearly with dose u
 
 ## Paediatric patients
 
-The overall exposure of adolescents (12 to ≤ 17 years) and children (2 to &lt;12 years) to deferasirox after single and multiple doses was lower than that in adult patients. In children younger than 6 years old exposure was about 50% lower than in adults. Since dosing is individually adjusted according to response this is not expected to have clinical consequences.
+The overall exposure of adolescents (12 to ≤17 years) and children (2 to &lt;12 years) to deferasirox after single and multiple doses was lower than that in adult patients. In children younger than 6 years old exposure was about 50% lower than in adults. Since dosing is individually adjusted according to response this is not expected to have clinical consequences.
 
 ## Gender
 
@@ -578,13 +631,13 @@ The pharmacokinetics of deferasirox have not been studied in elderly patients (a
 
 The pharmacokinetics of deferasirox have not been studied in patients with renal impairment. The pharmacokinetics of deferasirox were not influenced by liver transaminase levels up to 5 times the upper limit of the normal range.
 
-In a clinical study using single doses of 20 mg/kg deferasirox dispersible tablets, the average exposure was increased by 16% in subjects with mild hepatic impairment (Child-Pugh Class A) and by 76% in subjects with moderate hepatic impairment (Child-Pugh Class B) compared to subjects with normal hepatic function. The average C max of deferasirox in subjects with mild or moderate hepatic impairment was increased by 22%. Exposure was increased 2.8-fold in one subject with severe hepatic impairment (Child-Pugh Class C) (see sections 4.2 and 4.4).
+In a clinical study using single doses of 20 mg/kg deferasirox dispersible tablets, the average exposure was increased by 16% in subjects with mild hepatic impairment (Child-Pugh Class A) and by 76% in subjects with moderate hepatic impairment (Child-Pugh Class B) compared to subjects with normal hepatic function. The average Cmax of deferasirox in subjects with mild or moderate hepatic impairment was increased by 22%. Exposure was increased 2.8-fold in one subject with severe hepatic impairment (Child-Pugh Class C) (see sections 4.2 and 4.4).
 
 ## 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity or carcinogenic potential. The main findings were kidney toxicity and lens opacity (cataracts). Similar findings were observed in neonatal and juvenile animals. The kidney toxicity is considered mainly due to iron deprivation in animals that were not previously overloaded with iron.
 
-Tests of genotoxicity in vitro were negative (Ames test, chromosomal aberration test) while deferasirox caused formation of micronuclei in vivo in the bone marrow, but not liver, of non-ironloaded rats at lethal doses. No such effects were observed in iron-preloaded rats. Deferasirox was not carcinogenic when administered to rats in a 2-year study and transgenic p53+/ -heterozygous mice in a 6-month study.
+Tests of genotoxicity in vitro were negative (Ames test, chromosomal aberration test) while deferasirox caused formation of micronuclei in vivo in the bone marrow, but not liver, of non-ironloaded rats at lethal doses. No such effects were observed in iron-preloaded rats. Deferasirox was not carcinogenic when administered to rats in a 2-year study and transgenic p53+/- heterozygous mice in a 6-month study.
 
 The potential for toxicity to reproduction was assessed in rats and rabbits. Deferasirox was not teratogenic, but caused increased frequency of skeletal variations and stillborn pups in rats at high doses that were severely toxic to the non-iron-overloaded mother. Deferasirox did not cause other effects on fertility or reproduction.
 
@@ -636,21 +689,41 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, 
 
 Deferasirox Mylan 90 mg film-coated tablets
 
-```
-EU/1/19/1386/001 EU/1/19/1386/002 EU/1/19/1386/003 EU/1/19/1386/004 EU/1/19/1386/005 Deferasirox Mylan 180 mg film-coated tablets EU/1/19/1386/006 EU/1/19/1386/007 EU/1/19/1386/008 EU/1/19/1386/009 EU/1/19/1386/010
-```
+EU/1/19/1386/001
+
+EU/1/19/1386/002
+
+EU/1/19/1386/003
+
+EU/1/19/1386/004
+
+EU/1/19/1386/005
+
+Deferasirox Mylan 180 mg film-coated tablets
+
+EU/1/19/1386/006
+
+EU/1/19/1386/007
+
+EU/1/19/1386/008
+
+EU/1/19/1386/009
+
+EU/1/19/1386/010
 
 <div style=\"page-break-after: always\"></div>
 
 ## Deferasirox Mylan 360 mg film-coated tablets
 
-```
-EU/1/19/1386/011 EU/1/19/1386/012 EU/1/19/1386/013 EU/1/19/1386/014 EU/1/19/1386/015 EU/1/19/1386/016
-```
+EU/1/19/1386/011 EU/1/19/1386/012 EU/1/19/1386/013 EU/1/19/1386/014 EU/1/19/1386/015
+
+EU/1/19/1386/016
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 26 September 2019
+
+Date of latest renewal: 22 July 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -697,7 +770,8 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-- Additional risk minimisation measures
+
+## · Additional risk minimisation measures
 
 Prior to launch of Deferasirox Mylan in each Member State the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
@@ -760,7 +834,7 @@ The Guide for healthcare professionals shall contain the following key elements 
 X and Y are the days (to be determined) when pre-treatment measurements should be performed.
 
 - A warning on the risk of overchelation and on the necessity of close monitoring of serum ferritin levels and renal and hepatic function.
-- The rules for treatment dose adjustments and interruption when target serum ferritin +/ -liver iron concentration are reached.
+- The rules for treatment dose adjustments and interruption when target serum ferritin +/- liver iron concentration are reached.
 - Recommendations for treatment of non-transfusion-dependent thalassaemia (NTDT) syndromes:
 - Information that only one course of treatment is proposed for NTDT patients
 - A warning on the necessity of closer monitoring of liver iron concentration and serum ferritin in the paediatric population
@@ -807,11 +881,15 @@ Each film-coated tablet contains 90 mg deferasirox.
 
 Film-coated tablet (tablet)
 
-[Blisters] 30 film-coated tablets 90 film-coated tablets
+[Blisters]
+
+30 film-coated tablets 90 film-coated tablets
 
 [Unit dose blisters] 30 × 1 film-coated tablets
 
-[Bottles]: 90 film-coated tablets 300 film-coated tablets
+[Bottles]:
+
+90 film-coated tablets 300 film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -827,50 +905,55 @@ Keep out of the sight and reach of children.
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Pharmaceuticals Ltd Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Mylan Pharmaceuticals Ltd Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Ireland
 
-EU/1/19/1386/001
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
-EU/1/19/1386/002
-
-EU/1/19/1386/003
-
-EU/1/19/1386/004
+EU/1/19/1386/001 EU/1/19/1386/002 EU/1/19/1386/003 EU/1/19/1386/004
 
 EU/1/19/1386/005
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Deferasirox Mylan 90 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -896,7 +979,9 @@ Film-coated tablet (tablet)
 
 [Unit dose blisters] 30 × 1 film-coated tablets
 
-[Bottles] 90 film-coated tablets 300 film-coated tablets
+[Bottles]
+
+90 film-coated tablets 300 film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -912,50 +997,55 @@ Keep out of the sight and reach of children.
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Pharmaceuticals Ltd Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Mylan Pharmaceuticals Ltd Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+Ireland
 
-EU/1/19/1386/006
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
-EU/1/19/1386/007
-
-EU/1/19/1386/008
-
-EU/1/19/1386/009
+EU/1/19/1386/006 EU/1/19/1386/007 EU/1/19/1386/008 EU/1/19/1386/009
 
 EU/1/19/1386/010
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Deferasirox Mylan 180 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -979,7 +1069,9 @@ Film-coated tablet (tablet)
 
 [Blisters] 30 film-coated tablets 90 film -coated tablets 300 film-coated tablets
 
-[Unit dose blisters] 30 × 1 film-coated tablets
+[Unit dose blisters]
+
+30 × 1 film-coated tablets
 
 [Bottles]
 
@@ -1003,29 +1095,30 @@ Keep out of the sight and reach of children.
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Pharmaceuticals Ltd Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Mylan Pharmaceuticals Ltd Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/19/1386/011 EU/1/19/1386/012 EU/1/19/1386/013 EU/1/19/1386/014 EU/1/19/1386/015 EU/1/19/1386/016
+EU/1/19/1386/011 EU/1/19/1386/012 EU/1/19/1386/013 EU/1/19/1386/014 EU/1/19/1386/015
+
+EU/1/19/1386/016
 
 ## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 ## 15. INSTRUCTIONS ON USE
 
@@ -1033,14 +1126,17 @@ Lot
 
 Deferasirox Mylan 360 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1060,7 +1156,9 @@ Each film-coated tablet contains 90 mg deferasirox.
 
 Film-coated tablet (tablet)
 
-90 film-coated tablets 300 film-coated tablets
+90 film-coated tablets
+
+300 film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -1082,13 +1180,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Pharmaceuticals Ltd Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Mylan Pharmaceuticals Ltd Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1103,6 +1201,8 @@ Lot
 16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1122,69 +1222,9 @@ Each film-coated tablet contains 180 mg deferasirox
 
 Film-coated tablet (tablet)
 
-90 film-coated tablets 300 film-coated tablets
+90 film-coated tablets
 
-## 5. METHOD AND ROUTE OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Oral use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Mylan Pharmaceuticals Ltd Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/19/1386/009 EU/1/19/1386/010
-
-## 13. BATCH NUMBER
-
-Lot
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
-
-BOTTLE LABEL
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Deferasirox Mylan 360 mg film-coated tablets deferasirox
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE
-
-Each film-coated tablet contains 360 mg deferasirox
-
-## 3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Film-coated tablet (tablet)
-
-90 film-coated tablets 300 film-coated tablets
+300 film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -1206,9 +1246,72 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Mylan Pharmaceuticals Ltd Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/19/1386/009 EU/1/19/1386/010
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER - 2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+BOTTLE LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Deferasirox Mylan 360 mg film-coated tablets deferasirox
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+Each film-coated tablet contains 360 mg deferasirox
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Film-coated tablet (tablet)
+
+90 film-coated tablets
+
+300 film-coated tablets
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1317,10 +1420,10 @@ deferasirox
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed only for you or your child. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed only for you or your child. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1353,37 +1456,37 @@ Deferasirox Mylan is also used when deferoxamine therapy is contraindicated or i
 
 ## Do not take Deferasirox Mylan
 
-- -if you are allergic to deferasirox or any of the other ingredients of this medicine (listed in section 6). If this applies to you, tell your doctor before taking Deferasirox Mylan. If you think you may be allergic, ask your doctor for advice.
-- -if you have moderate or severe kidney disease.
-- -if you are currently taking any other iron chelator medicines.
+- if you are allergic to deferasirox or any of the other ingredients of this medicine (listed in section 6). If this applies to you, tell your doctor before taking Deferasirox Mylan. If you think you may be allergic, ask your doctor for advice.
+- if you have moderate or severe kidney disease.
+- if you are currently taking any other iron chelator medicines.
 
 ## Deferasirox Mylan is not recommended
 
-- -if you are at an advanced stage of myelodysplastic syndrome (MDS; decreased production of blood cells by the bone marrow) or have advanced cancer.
+- if you are at an advanced stage of myelodysplastic syndrome (MDS; decreased production of blood cells by the bone marrow) or have advanced cancer.
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before taking Deferasirox Mylan:
 
-- -if you have a kidney or liver problem.
-- -if you have a cardiac problem due to iron overload.
-- -if you notice a marked decrease in your urine output (sign of kidney problem).
-- -if you develop a severe rash, or difficulty breathing and dizziness or swelling mainly of the face and throat (signs of severe allergic reaction, see also section 4 'Possible side effects').
-- -if you experience a combination of any of the following symptoms: rash, red skin, blistering of the lips, eyes or mouth, skin peeling, high fever, flu-like symptoms, enlarged lymph nodes (signs of severe skin reaction, see also section 4 'Possible side effects').
-- -if you experience a combination of drowsiness, upper right abdominal pain, yellowing or increased yellowing of your skin or eyes and dark urine (signs of liver problems).
-- -if you experience difficulty thinking, remembering information, or solving problems, being less alert or aware or feeling very sleepy with low energy (signs of a high level of ammonia in your blood, which may be associated with liver or renal problems, see also section 4 'Possible side effects').
-- -if you vomit blood and/or have black stools.
-- -if you experience frequent abdominal pain, particularly after eating or taking Deferasirox Mylan.
-- -if you experience frequent heartburn.
-- -if you have a low level of platelets or white blood cells in your blood test.
-- -if you have blurred vision
-- -if you have diarrhoea or vomiting.
+- if you have a kidney or liver problem.
+- if you have a cardiac problem due to iron overload.
+- if you notice a marked decrease in your urine output (sign of kidney problem).
+- if you develop a severe rash, or difficulty breathing and dizziness or swelling mainly of the face and throat (signs of severe allergic reaction, see also section 4 \"Possible side effects\").
+- if you experience a combination of any of the following symptoms: rash, red skin, blistering of the lips, eyes or mouth, skin peeling, high fever, flu-like symptoms, enlarged lymph nodes (signs of severe skin reaction, see also section 4 \"Possible side effects\").
+- if you experience a combination of drowsiness, upper right abdominal pain, yellowing or increased yellowing of your skin or eyes and dark urine (signs of liver problems).
+- if you experience difficulty thinking, remembering information, or solving problems, being less alert or aware or feeling very sleepy with low energy (signs of a high level of ammonia in your blood, which may be associated with liver or renal problems, see also section 4 \"Possible side effects\").
+- if you vomit blood and/or have black stools.
+- if you experience frequent abdominal pain, particularly after eating or taking Deferasirox Mylan.
+- if you experience frequent heartburn.
+- if you have a low level of platelets or white blood cells in your blood test.
+- if you have blurred vision
+- if you have diarrhoea or vomiting.
 
 If any of these apply to you, tell your doctor straight away.
 
 ## Monitoring your Deferasirox Mylan treatment
 
-You will have regular blood and urine tests during treatment. These will monitor the amount of iron in your body (blood level of ferritin ) to see how well Deferasirox Mylan is working. The tests will also monitor your kidney function (blood level of creatinine, presence of protein in the urine) and liver function (blood level of transaminases). Your doctor may require you to undergo a kidney biopsy, if he/she suspects significant kidney damage. You may also have MRI (magnetic resonance imaging) tests to determine the amount of iron in your liver. Your doctor will take these tests into consideration when deciding on the dose of Deferasirox Mylan most suitable for you and will also use these tests to decide when you should stop taking Deferasirox Mylan.
+You will have regular blood and urine tests during treatment. These will monitor the amount of iron in your body (blood level of ferritin) to see how well Deferasirox Mylan is working. The tests will also monitor your kidney function (blood level of creatinine, presence of protein in the urine) and liver function (blood level of transaminases). Your doctor may require you to undergo a kidney biopsy, if he/she suspects significant kidney damage. You may also have MRI (magnetic resonance imaging) tests to determine the amount of iron in your liver. Your doctor will take these tests into consideration when deciding on the dose of Deferasirox Mylan most suitable for you and will also use these tests to decide when you should stop taking Deferasirox Mylan.
 
 Your eyesight and hearing will be tested each year during treatment as a precautionary measure.
 
@@ -1391,29 +1494,29 @@ Your eyesight and hearing will be tested each year during treatment as a precaut
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes in particular:
 
-- -other iron chelators, which must not be taken with Deferasirox Mylan,
-- -antacids (medicines used to treat heartburn) containing aluminium, which should not be taken at the same time of day as Deferasirox Mylan,
+- other iron chelators, which must not be taken with Deferasirox Mylan,
+- antacids (medicines used to treat heartburn) containing aluminium, which should not be taken at the same time of day as Deferasirox Mylan,
 
 <div style=\"page-break-after: always\"></div>
 
-- -ciclosporin (used to prevent the body rejecting a transplanted organ or for other conditions, such as rheumatoid arthritis or atopic dermatitis),
-- -simvastatin (used to lower cholesterol),
-- -certain painkillers or anti-inflammatory medicines (e.g. aspirin, ibuprofen, corticosteroids),
-- -oral bisphosphonates (used to treat osteoporosis),
-- -anticoagulant medicines (used to prevent or treat blood clotting),
-- -hormonal contraceptive agents (birth control medicines),
-- -bepridil, ergotamine (used for heart problems and migraines),
-- -repaglinide (used to treat diabetes),
-- -rifampicin (used to treat tuberculosis),
-- -phenytoin, phenobarbital, carbamazepine (used to treat epilepsy),
-- -ritonavir (used in the treatment of HIV infection),
-- -paclitaxel (used in cancer treatment),
-- -theophylline (used to treat respiratory diseases such as asthma),
-- -clozapine (used to treat psychiatric disorders such as schizophrenia),
-- -tizanidine (used as a muscle relaxant),
-- -cholestyramine (used to lower cholesterol levels in the blood),
-- -busulfan (used as a treatment prior to transplantation in order to destroy the original bone marrow before the transplant),
-- -midazolam (used to relieve anxiety and/or trouble sleeping).
+- ciclosporin (used to prevent the body rejecting a transplanted organ or for other conditions, such as rheumatoid arthritis or atopic dermatitis),
+- simvastatin (used to lower cholesterol),
+- certain painkillers or anti-inflammatory medicines (e.g. aspirin, ibuprofen, corticosteroids),
+- oral bisphosphonates (used to treat osteoporosis),
+- anticoagulant medicines (used to prevent or treat blood clotting),
+- hormonal contraceptive agents (birth control medicines),
+- bepridil, ergotamine (used for heart problems and migraines),
+- repaglinide (used to treat diabetes),
+- rifampicin (used to treat tuberculosis),
+- phenytoin, phenobarbital, carbamazepine (used to treat epilepsy),
+- ritonavir (used in the treatment of HIV infection),
+- paclitaxel (used in cancer treatment),
+- theophylline (used to treat respiratory diseases such as asthma),
+- clozapine (used to treat psychiatric disorders such as schizophrenia),
+- tizanidine (used as a muscle relaxant),
+- cholestyramine (used to lower cholesterol levels in the blood),
+- busulfan (used as a treatment prior to transplantation in order to destroy the original bone marrow before the transplant),
+- midazolam (used to relieve anxiety and/or trouble sleeping).
 
 Additional tests may be required to monitor the blood levels of some of these medicines.
 
@@ -1465,7 +1568,7 @@ The maximum recommended daily dose for Deferasirox Mylan film-coated tablets is:
 - 14 mg per kilogram body weight for adult patients not receiving regular blood transfusions,
 - 7 mg per kilogram body weight for children and adolescents not receiving regular blood transfusions.
 
-Deferasirox also comes as 'dispersible' tablets. If you are switching from the dispersible tablets to these film-coated tablets, you will need an adjustment of the dose.
+Deferasirox also comes as \"dispersible\" tablets. If you are switching from the dispersible tablets to these film-coated tablets, you will need an adjustment of the dose.
 
 ## When to take Deferasirox Mylan
 
@@ -1478,7 +1581,7 @@ For patients who are unable to swallow whole tablets, Deferasirox Mylan film-coa
 
 ## How long to take Deferasirox Mylan
 
-Continue taking Deferasirox Mylan every day for as long as your doctor tells you. This is a longterm treatment, possibly lasting for months or years. Your doctor will regularly monitor your condition to check that the treatment is having the desired effect (see also section 2: 'Monitoring your Deferasirox Mylan treatment').
+Continue taking Deferasirox Mylan every day for as long as your doctor tells you. This is a longterm treatment, possibly lasting for months or years. Your doctor will regularly monitor your condition to check that the treatment is having the desired effect (see also section 2: \"Monitoring your Deferasirox Mylan treatment\").
 
 If you have questions about how long to take Deferasirox Mylan, talk to your doctor.
 
@@ -1494,7 +1597,7 @@ If you miss a dose, take it as soon as you remember on that day. Take your next 
 
 ## If you stop taking Deferasirox Mylan
 
-Do not stop taking Deferasirox Mylan unless your doctor tells you to. If you stop taking it, the excess iron will no longer be removed from your body (see also above section 'How long to take Deferasirox Mylan').
+Do not stop taking Deferasirox Mylan unless your doctor tells you to. If you stop taking it, the excess iron will no longer be removed from your body (see also above section \"How long to take Deferasirox Mylan\").
 
 ## 4. Possible side effects
 
@@ -1515,7 +1618,7 @@ These side effects are uncommon (may affect up to 1 in 100 people) or rare (may 
 - If you experience partial loss of vision,
 - If you experience severe upper stomach pain (pancreatitis),
 
-stop taking this medicine and tell your doctor straight away.
+## stop taking this medicine and tell your doctor straight away.
 
 ## Some side effects could become serious.
 
@@ -1600,9 +1703,9 @@ The other ingredients are microcrystalline cellulose, crospovidone, povidone, ma
 
 Deferasirox Mylan is supplied as film-coated tablets.
 
-- Deferasirox Mylan 90 mg film-coated tablets are blue, film-coated, modified capsule shaped, biconvex tablets debossed with ' ' on one side of the tablet and 'DF' on the other side.
-- Deferasirox Mylan 180 mg film-coated tablets are blue, film-coated, modified capsule shaped, biconvex tablets debossed with ' ' on one side of the tablet and 'DF 1' on the other side.
-- Deferasirox Mylan 360 mg film-coated tablets are blue, film-coated, modified capsule shaped, biconvex tablets debossed with ' ' on one side of the tablet and 'DF 2' on the other side.
+- Deferasirox Mylan 90 mg film-coated tablets are blue, film-coated, modified capsule shaped, biconvex tablets debossed with \" \" on one side of the tablet and 'DF' on the other side.
+- Deferasirox Mylan 180 mg film-coated tablets are blue, film-coated, modified capsule shaped, biconvex tablets debossed with \" \" on one side of the tablet and 'DF 1' on the other side.
+- Deferasirox Mylan 360 mg film-coated tablets are blue, film-coated, modified capsule shaped, biconvex tablets debossed with \" \" on one side of the tablet and 'DF 2' on the other side.
 
 Deferasirox Mylan is available in clear, transparent PVC/PVdC /aluminium blister packs containing 30 or 90 film-coated tablets, in unit dose blister pack of 30 tablets and in white, plastic bottles with white opaque screw cap with aluminium seal containing 90 and 300 tablets.
 
@@ -1612,7 +1715,9 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Mylan Pharmaceuticals Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN, Ireland
+Mylan Pharmaceuticals Limited
+
+Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN, Ireland
 
 ## Manufacturer
 
@@ -1630,15 +1735,11 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Виатрис
+Виатрис ЕООД
 
-ЕООД
+Тел.: +359 2 44 55 400
 
-Тел
-
-.: +359 2 44 55 400
-
-## Č eská republika
+## Česká republika
 
 Viatris CZ s.r.o.
 
@@ -1706,9 +1807,7 @@ Tlf: +47 66 75 33 00
 
 Viatris Hellas Ltd
 
-Τηλ
-
-: +30 2100 100 02
+Τηλ: +30 2100 100 02
 
 ## España
 
@@ -1750,7 +1849,7 @@ Tel: + 39 02 612 46921
 
 CPO Pharmaceuticals Ltd
 
-Τηλ : + 357 22863100
+Τηλ: + 357 22863100
 
 ## Latvija
 

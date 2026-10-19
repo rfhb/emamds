@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-27 12:50:00
+document_datetime: 2026-10-15 14:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cabometyx.html
 document_name: cabometyx.html
 version: success
-processing_time: 0.1287213
-conversion_datetime: 2026-03-01 20:14:25.552812
+processing_time: 0.2284582
+conversion_datetime: 2026-10-19 23:41:46.661082
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Cabometyx
 
 [RSS](/en/individual-human-medicine.xml/65880)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-cabozantinib Medicine Human Authorised
+cabozantinib
+
+Medicine Human Authorised
 
 Page contents
 
@@ -60,7 +62,7 @@ Expand section
 
 Collapse section
 
-## How is Cabometyx used?
+### How is Cabometyx used?
 
 Cabometyx can only be obtained with a prescription and treatment should be started by a doctor who has experience in using cancer medicines.
 
@@ -68,11 +70,11 @@ Cabometyx is available as tablets to be taken by mouth once a day. Patients shou
 
 For more information about using Cabometyx, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Cabometyx work?
+### How does Cabometyx work?
 
 The active substance in Cabometyx, cabozantinib, is a tyrosine kinase inhibitor. This means that it blocks the activity of enzymes known as tyrosine kinases. These enzymes can be found in certain receptors in cancer cells, where they are involved in activating processes that include cell division and the growth of new blood vessels to supply the cancer. By blocking the activity of these enzymes in cancer cells, the medicine reduces the growth and spread of the cancer.
 
-## What benefits of Cabometyx have been shown in studies?
+### What benefits of Cabometyx have been shown in studies?
 
 **Renal cell carcinoma**
 
@@ -96,7 +98,7 @@ Among those with epNET, patients treated with Cabometyx lived on average for 8.5
 
 For patients with pNET, those treated with Cabometyx lived on average for 13.8 months without their disease getting worse, compared with around 4.5 months for those given placebo.
 
-## What are the risks associated with Cabometyx?
+### What are the risks associated with Cabometyx?
 
 For the full list of side effects and restrictions with Cabometyx, see the package leaflet.
 
@@ -110,7 +112,7 @@ The most common serious side effects (which may affect more than 1 in 100 people
 
 The most common serious side effects (which may affect more than 1 in 100 people) with Cabometyx in patients with neuroendocrine tumours include high blood pressure, tiredness, vomiting, diarrhoea, nausea and embolism including pulmonary embolism.
 
-## Why is Cabometyx authorised in the EU?
+### Why is Cabometyx authorised in the EU?
 
 In advanced renal cell carcinoma, Cabometyx was shown to prolong the time patients who had previously been treated lived without their disease getting worse. These patients have poor outcomes and a high unmet medical need. Results also indicated that Cabometyx helped patients live longer. In previously untreated patients with moderate or high-risk disease, Cabometyx provided clinically relevant benefits, delaying the progression of the cancer and the need for other treatments.
 
@@ -124,291 +126,157 @@ The side effects of Cabometyx are similar to those of other tyrosine kinase inhi
 
 The European Medicines Agency therefore decided that Cabometyx's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Cabometyx?
+### What measures are being taken to ensure the safe and effective use of Cabometyx?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Cabometyx have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Cabometyx are continuously monitored. Side effects reported with Cabometyx are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Cabometyx
+### Other information about Cabometyx
 
 Cabometyx received a marketing authorisation valid throughout the EU on 9 September 2016.
 
-Cabometyx  : EPAR - Medicine overview
+Cabometyx : EPAR - Medicine overview
 
 Reference Number: EMA/189718/2022
 
 English (EN) (147.4 KB - PDF)
 
-**First published:** 12/10/2016
-
-**Last updated:** 17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/en/documents/overview/cabometyx-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-577)
+[Other languages (22)](#file-language-dropdown-184)
 
 български (BG) (179.14 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/bg/documents/overview/cabometyx-epar-medicine-overview_bg.pdf)
 
 español (ES) (149.54 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/es/documents/overview/cabometyx-epar-medicine-overview_es.pdf)
 
 čeština (CS) (178.52 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/cs/documents/overview/cabometyx-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (152.23 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/da/documents/overview/cabometyx-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (156.18 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/de/documents/overview/cabometyx-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (147.9 KB - PDF)
+eesti (ET) (147.9 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/et/documents/overview/cabometyx-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (180.54 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/el/documents/overview/cabometyx-epar-medicine-overview_el.pdf)
 
 français (FR) (152.38 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/fr/documents/overview/cabometyx-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (181.71 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/hr/documents/overview/cabometyx-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (149.32 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/it/documents/overview/cabometyx-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (190.44 KB - PDF)
+latviešu (LV) (190.44 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/lv/documents/overview/cabometyx-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (176.49 KB - PDF)
+lietuvių (LT) (176.49 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/lt/documents/overview/cabometyx-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (177.47 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/hu/documents/overview/cabometyx-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (178.19 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/mt/documents/overview/cabometyx-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (153.41 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/nl/documents/overview/cabometyx-epar-medicine-overview_nl.pdf)
 
 polski (PL) (181.17 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/pl/documents/overview/cabometyx-epar-medicine-overview_pl.pdf)
 
 português (PT) (151.01 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/pt/documents/overview/cabometyx-epar-medicine-overview_pt.pdf)
 
 română (RO) (173.91 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/ro/documents/overview/cabometyx-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (178.07 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/sk/documents/overview/cabometyx-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (176.63 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/sl/documents/overview/cabometyx-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (147.85 KB - PDF)
+suomi (FI) (147.85 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/fi/documents/overview/cabometyx-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (148.59 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-17/09/2025
+**First published:** 12/10/2016 **Last updated:** 17/09/2025
 
 [View](/sv/documents/overview/cabometyx-epar-medicine-overview_sv.pdf)
 
@@ -416,9 +284,7 @@ Cabometyx : EPAR - Risk-management-plan
 
 English (EN) (1.23 MB - PDF)
 
-**First published:** 09/06/2022
-
-**Last updated:** 17/09/2025
+**First published:** 09/06/2022 **Last updated:** 17/09/2025
 
 [View](/en/documents/rmp/cabometyx-epar-risk-management-plan_en.pdf)
 
@@ -426,311 +292,168 @@ English (EN) (1.23 MB - PDF)
 
 Cabometyx : EPAR - Product information
 
-English (EN) (829.89 KB - PDF)
+English (EN) (796.13 KB - PDF)
 
-**First published:** 12/10/2016
-
-**Last updated:** 27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/en/documents/product-information/cabometyx-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-80)
+[Other languages (24)](#file-language-dropdown-775)
 
-български (BG) (918.73 KB - PDF)
+български (BG) (993.4 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/bg/documents/product-information/cabometyx-epar-product-information_bg.pdf)
 
-español (ES) (773.43 KB - PDF)
+español (ES) (833.45 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/es/documents/product-information/cabometyx-epar-product-information_es.pdf)
 
-čeština (CS) (899.48 KB - PDF)
+čeština (CS) (967.16 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/cs/documents/product-information/cabometyx-epar-product-information_cs.pdf)
 
-dansk (DA) (763.78 KB - PDF)
+dansk (DA) (819.98 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/da/documents/product-information/cabometyx-epar-product-information_da.pdf)
 
-Deutsch (DE) (713.37 KB - PDF)
+Deutsch (DE) (797.09 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/de/documents/product-information/cabometyx-epar-product-information_de.pdf)
 
-eesti keel (ET) (763.93 KB - PDF)
+eesti (ET) (806.08 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/et/documents/product-information/cabometyx-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.07 MB - PDF)
+ελληνικά (EL) (1.02 MB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/el/documents/product-information/cabometyx-epar-product-information_el.pdf)
 
-français (FR) (923.47 KB - PDF)
+français (FR) (977.38 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/fr/documents/product-information/cabometyx-epar-product-information_fr.pdf)
 
-hrvatski (HR) (879.96 KB - PDF)
+hrvatski (HR) (957.24 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/hr/documents/product-information/cabometyx-epar-product-information_hr.pdf)
 
-íslenska (IS) (753.48 KB - PDF)
+italiano (IT) (840.98 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
-
-[View](/is/documents/product-information/cabometyx-epar-product-information_is.pdf)
-
-italiano (IT) (758.8 KB - PDF)
-
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/it/documents/product-information/cabometyx-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (876.13 KB - PDF)
+latviešu (LV) (972.63 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/lv/documents/product-information/cabometyx-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (908.5 KB - PDF)
+lietuvių (LT) (1018.74 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/lt/documents/product-information/cabometyx-epar-product-information_lt.pdf)
 
-magyar (HU) (946.48 KB - PDF)
+magyar (HU) (1 MB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/hu/documents/product-information/cabometyx-epar-product-information_hu.pdf)
 
-Malti (MT) (1.03 MB - PDF)
+Malti (MT) (1 MB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/mt/documents/product-information/cabometyx-epar-product-information_mt.pdf)
 
-Nederlands (NL) (928.24 KB - PDF)
+Nederlands (NL) (1011.73 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/nl/documents/product-information/cabometyx-epar-product-information_nl.pdf)
 
-norsk (NO) (719.29 KB - PDF)
+polski (PL) (1.06 MB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
-
-[View](/no/documents/product-information/cabometyx-epar-product-information_no.pdf)
-
-polski (PL) (1.1 MB - PDF)
-
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/pl/documents/product-information/cabometyx-epar-product-information_pl.pdf)
 
-português (PT) (766.57 KB - PDF)
+português (PT) (850.69 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/pt/documents/product-information/cabometyx-epar-product-information_pt.pdf)
 
-română (RO) (949.35 KB - PDF)
+română (RO) (1.01 MB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/ro/documents/product-information/cabometyx-epar-product-information_ro.pdf)
 
-slovenčina (SK) (845.38 KB - PDF)
+slovenčina (SK) (960.3 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/sk/documents/product-information/cabometyx-epar-product-information_sk.pdf)
 
-slovenščina (SL) (880.62 KB - PDF)
+slovenščina (SL) (987.6 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/sl/documents/product-information/cabometyx-epar-product-information_sl.pdf)
 
-Suomi (FI) (737.29 KB - PDF)
+suomi (FI) (819.47 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/fi/documents/product-information/cabometyx-epar-product-information_fi.pdf)
 
-svenska (SV) (881.35 KB - PDF)
+svenska (SV) (864.21 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-27/02/2026
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
 
 [View](/sv/documents/product-information/cabometyx-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000271719 15/01/2026
+Íslenska (IS) (829.36 KB - PDF)
+
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
+
+[View](/is/documents/product-information/cabometyx-epar-product-information_is.pdf)
+
+norsk (NO) (815.3 KB - PDF)
+
+**First published:** 12/10/2016 **Last updated:** 15/10/2026
+
+[View](/no/documents/product-information/cabometyx-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000271719
+
+15/01/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -740,314 +463,173 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Cabometyx  : EPAR - All Authorised presentations
+Cabometyx : EPAR - All Authorised presentations
 
 English (EN) (40.09 KB - PDF)
 
-**First published:** 12/10/2016
-
-**Last updated:** 15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/en/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-281)
+[Other languages (24)](#file-language-dropdown-900)
 
 български (BG) (48.41 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/bg/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (41.82 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/es/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (45.64 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/cs/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (42.4 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/da/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (41.34 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/de/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (40.47 KB - PDF)
+eesti (ET) (40.47 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/et/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (45.53 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/el/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (43.19 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/fr/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (43.23 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/hr/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (42.9 KB - PDF)
-
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
-
-[View](/is/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (41.2 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/it/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (45.08 KB - PDF)
+latviešu (LV) (45.08 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/lv/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (45.39 KB - PDF)
+lietuvių (LT) (45.39 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/lt/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (43.96 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/hu/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (46.81 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/mt/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (40.15 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/nl/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (42.12 KB - PDF)
-
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
-
-[View](/no/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (43.8 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/pl/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (42.39 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/pt/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (42.38 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/ro/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (47.1 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/sk/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (44.48 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/sl/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (40.49 KB - PDF)
+suomi (FI) (40.49 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/fi/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (39.62 KB - PDF)
 
-**First published:**
-
-12/10/2016
-
-**Last updated:**
-
-15/06/2020
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
 
 [View](/sv/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (42.9 KB - PDF)
+
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
+
+[View](/is/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (42.12 KB - PDF)
+
+**First published:** 12/10/2016 **Last updated:** 15/06/2020
+
+[View](/no/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Cabometyx Active substance cabozantinib (s)-malate International non-proprietary name (INN) or common name cabozantinib Therapeutic area (MeSH)
-
-- Carcinoma, Renal Cell
-- Carcinomas, Hepatocellular
-
-Anatomical therapeutic chemical (ATC) code L01EX07
+- **Name of medicine**
+    - Cabometyx
+- **Active substance**
+    - cabozantinib (s)-malate
+- **International non-proprietary name (INN) or common name**
+    - cabozantinib
+- **Therapeutic area (MeSH)**
+        - Carcinoma, Renal Cell
+        - Carcinomas, Hepatocellular
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01EX07
 
 ### Pharmacotherapeutic group
 
@@ -1068,19 +650,20 @@ Cabometyx, in combination with nivolumab, is indicated for the first-line treatm
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004163
-
-Accelerated assessment
-
-This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
-
-Marketing authorisation holder
-
-Ipsen Pharma
-
-70 rue Balard 75015 Paris France
-
-Opinion adopted 21/07/2016 Marketing authorisation issued 09/09/2016 Revision 21
+- **EMA product number**
+    - EMEA/H/C/004163
+- **Accelerated assessment**
+    - This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
+- **Marketing authorisation holder**
+    - Ipsen Pharma 70 rue Balard  
+75015 Paris  
+France
+- **Opinion adopted**
+    - 21/07/2016
+- **Marketing authorisation issued**
+    - 09/09/2016
+- **Revision**
+    - 21
 
 ## Assessment history
 
@@ -1088,29 +671,35 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Cabometyx : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
 English (EN) (233.35 KB - PDF)
 
-**First published:** 11/05/2025
-
-**Last updated:** 07/11/2025
+**First published:** 11/05/2025 **Last updated:** 07/11/2025
 
 [View](/en/documents/procedural-steps-after/cabometyx-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Cabometyx : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (160.62 KB - PDF)
+English (EN) (198.29 KB - PDF)
 
-**First published:** 16/04/2025
-
-**Last updated:** 27/02/2026
+**First published:** 16/04/2025 **Last updated:** 15/10/2026
 
 [View](/en/documents/procedural-steps-after/cabometyx-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-Cabometyx-H-C-004163-II-0040  : EPAR - Assessment report - Variation
+Cabometyx : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
+
+Reference Number: EMADOC-1700519818-3494988
+
+English (EN) (145.71 KB - PDF)
+
+**First published:** 15/10/2026
+
+[View](/en/documents/pip-compliance/cabometyx-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf)
+
+Cabometyx-H-C-004163-II-0040 : EPAR - Assessment report - Variation
 
 Reference Number: EMA/CHMP/138089/2025
 
@@ -1122,9 +711,7 @@ English (EN) (4.39 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Cabometyx (II-40)
 
-Adopted
-
-Reference Number: EMA/CHMP/201774/2025
+Adopted Reference Number: EMA/CHMP/201774/2025
 
 English (EN) (123.73 KB - PDF)
 
@@ -1134,9 +721,7 @@ English (EN) (123.73 KB - PDF)
 
 Cabometyx-H-C-004163-P46 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/68009/2023
+Adopted Reference Number: EMA/CHMP/68009/2023
 
 English (EN) (4.59 MB - PDF)
 
@@ -1152,13 +737,11 @@ English (EN) (128.32 KB - PDF)
 
 **First published:** 25/10/2022
 
-[View](/en/documents/scientific-conclusion/cabometyx-h-c-psusa-00010180-202111-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/cabometyx-h-c-psusa-00010180-202111-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Cabometyx-H-C-004163-II-0023 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/214682/2022
+Adopted Reference Number: EMA/214682/2022
 
 English (EN) (8.12 MB - PDF)
 
@@ -1168,9 +751,7 @@ English (EN) (8.12 MB - PDF)
 
 CHMP post-authorisation summary of opinion for Cabometyx (II-23)
 
-Adopted
-
-Reference Number: EMA/CHMP/170076/2022
+Adopted Reference Number: EMA/CHMP/170076/2022
 
 English (EN) (150.55 KB - PDF)
 
@@ -1180,9 +761,7 @@ English (EN) (150.55 KB - PDF)
 
 Cabometyx-H-C-004163-II-0017 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/145012/2021
+Adopted Reference Number: EMA/145012/2021
 
 English (EN) (10.16 MB - PDF)
 
@@ -1192,9 +771,7 @@ English (EN) (10.16 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Cabometyx (II-17)
 
-Adopted
-
-Reference Number: EMA/102980/2021
+Adopted Reference Number: EMA/102980/2021
 
 English (EN) (133.04 KB - PDF)
 
@@ -1204,9 +781,7 @@ English (EN) (133.04 KB - PDF)
 
 Cabometyx-H-C-004163-II-0005 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/704052/2018
+Adopted Reference Number: EMA/704052/2018
 
 English (EN) (4.66 MB - PDF)
 
@@ -1216,15 +791,11 @@ English (EN) (4.66 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Cabometyx
 
-Adopted
-
-Reference Number: EMA/CHMP/616909/2018
+Adopted Reference Number: EMA/CHMP/616909/2018
 
 English (EN) (69 KB - PDF)
 
-**First published:** 21/09/2018
-
-**Last updated:** 21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-cabometyx_en.pdf)
 
@@ -1234,85 +805,81 @@ Reference Number: EMA/517947/2018
 
 English (EN) (67.71 KB - PDF)
 
-**First published:** 13/09/2018
+**First published:** 13/09/2018 **Last updated:** 13/09/2018
 
-**Last updated:** 13/09/2018
+[View](/en/documents/scientific-conclusion/cabometyx-h-c-psusa-00010180-201711-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
-[View](/en/documents/scientific-conclusion/cabometyx-h-c-psusa-00010180-201711-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+Cabometyx-H-C-004163-II-0003 : EPAR - Assessment report - Variation
 
-Cabometyx-H-C-004163-II-0003  : EPAR - Assessment report - Variation
-
-Adopted
-
-Reference Number: EMA/235286/2018
+Adopted Reference Number: EMA/235286/2018
 
 English (EN) (4.05 MB - PDF)
 
-**First published:** 07/06/2018
-
-**Last updated:** 07/06/2018
+**First published:** 07/06/2018 **Last updated:** 07/06/2018
 
 [View](/en/documents/variation-report/cabometyx-h-c-004163-ii-0003-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Cabometyx (II-03)
 
-Adopted
-
-Reference Number: EMA/CHMP/175713/2018
+Adopted Reference Number: EMA/CHMP/175713/2018
 
 English (EN) (72.36 KB - PDF)
 
-**First published:** 23/03/2018
-
-**Last updated:** 23/03/2018
+**First published:** 23/03/2018 **Last updated:** 23/03/2018
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-cabometyx-ii-03_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
-Cabometyx  : EPAR - Public assessment report
+Cabometyx : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/664123/2016
+Adopted Reference Number: EMA/664123/2016
 
 English (EN) (1.99 MB - PDF)
 
-**First published:** 12/10/2016
-
-**Last updated:** 12/10/2016
+**First published:** 12/10/2016 **Last updated:** 12/10/2016
 
 [View](/en/documents/assessment-report/cabometyx-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Cabometyx
 
-Adopted
-
-Reference Number: EMA/CHMP/498981/2016
+Adopted Reference Number: EMA/CHMP/498981/2016
 
 English (EN) (69.3 KB - PDF)
 
-**First published:** 22/07/2016
-
-**Last updated:** 22/07/2016
+**First published:** 22/07/2016 **Last updated:** 22/07/2016
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-cabometyx_en.pdf)
 
 ## News on Cabometyx
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025) 20/06/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 March 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-march-2022) 25/03/2022
+20/06/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2021) 26/02/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 March 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-march-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018) 21/09/2018
+25/03/2022
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 March 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-march-2018) 23/03/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2021)
 
-[Two new medicines for advanced kidney cancer](/en/news/two-new-medicines-advanced-kidney-cancer) 22/07/2016
+26/02/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2016) 22/07/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018)
+
+21/09/2018
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 March 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-march-2018)
+
+23/03/2018
+
+[Two new medicines for advanced kidney cancer](/en/news/two-new-medicines-advanced-kidney-cancer)
+
+22/07/2016
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2016)
+
+22/07/2016
 
 ## Product information - with tracked changes
 
@@ -1326,199 +893,151 @@ English (EN) (573.58 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-757)
+[Other languages (24)](#file-language-dropdown-833)
 
 български (BG) (610.27 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/bg/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (587.54 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/es/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (1.19 MB - DOC)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/cs/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_cs.doc)
 
 dansk (DA) (733.39 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/da/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (566.42 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/de/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (606.64 KB - DOCX)
+eesti (ET) (606.64 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/et/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (1.27 MB - DOC)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/el/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_el.doc)
 
 français (FR) (733.03 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/fr/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (605.23 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/hr/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (637.55 KB - DOCX)
-
-**First published:**
-
-27/02/2026
-
-[View](/is/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (562.69 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/it/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (1.26 MB - DOC)
+latviešu (LV) (1.26 MB - DOC)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/lv/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_lv.doc)
 
-lietuvių kalba (LT) (635.39 KB - DOCX)
+lietuvių (LT) (635.39 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/lt/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (658.75 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/hu/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (563.11 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/mt/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (623.64 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/nl/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (602.4 KB - DOCX)
-
-**First published:**
-
-27/02/2026
-
-[View](/no/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_no.docx)
-
 polski (PL) (615.84 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/pl/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (602.47 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/pt/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (612.98 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/ro/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (4.55 MB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/sk/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (618.82 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/sl/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (602.11 KB - DOCX)
+suomi (FI) (602.11 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/fi/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (739.28 KB - DOCX)
 
-**First published:**
-
-27/02/2026
+**First published:** 27/02/2026
 
 [View](/sv/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (637.55 KB - DOCX)
+
+**First published:** 27/02/2026
+
+[View](/is/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (602.4 KB - DOCX)
+
+**First published:** 27/02/2026
+
+[View](/no/documents/product-information-tracked-changes/cabometyx-epar-product-information-tracked-changes_no.docx)
 
 ## Related information
 
@@ -1527,15 +1046,15 @@ svenska (SV) (739.28 KB - DOCX)
 ## More information on Cabometyx
 
 - [EMEA-001143-PIP01-11-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001143-pip01-11-m06)
-- [CABOLIFE: A Prospective Non-Interventional Study on Effectiveness and Safety of Cabozantinib in Real-Life Setting for Previously Treated Patients with Neuroendocrine Tumours - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000752)
 - [Prospective Non-interventional Study of Cabozantinib as Monotherapy or in Combination With Nivolumab in Patients With Advanced or Metastatic Renal Cell Carcinoma Under Real-life Clinical Setting in 1st Line Treatment (CABOCARE) - post-authorisation study](https://catalogues.ema.europa.eu/study/199006)
+- [CABOLIFE: A Prospective Non-Interventional Study on Effectiveness and Safety of Cabozantinib in Real-Life Setting for Previously Treated Patients with Neuroendocrine Tumours - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000752)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
-**This page was last updated on** 27/02/2026
+**This page was last updated on**
+
+15/10/2026
 
 ## Share this page
-
-[Back to top](#main-content)

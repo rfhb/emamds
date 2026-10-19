@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-16 14:09:39
+document_datetime: 2026-10-15 10:58:02
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/elaprase-epar-product-information_en.pdf
 document_name: elaprase-epar-product-information_en.pdf
 version: success
-processing_time: 7.3392917
-conversion_datetime: 2025-12-25 07:21:13.639374
+processing_time: 12.1083585
+conversion_datetime: 2026-10-19 22:50:14.175957
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,13 +34,13 @@ Elaprase 2 mg/ml concentrate for solution for infusion
 
 Each vial contains 6 mg of idursulfase. Each ml contains 2 mg of idursulfase*.
 
-## Excipient with known effect
+Excipients with known effect
 
-Each vial contains 0.482 mmol of sodium.
+Each vial contains 0.482 mmol of sodium and 0.726 mg of polysorbate 20.
 
 For the full list of excipients, see section 6.1.
 
-* idursulfase is produced by recombinant DNA technology in a continuous human cell line.
+*idursulfase is produced by recombinant DNA technology in a continuous human cell line.
 
 ## 3. PHARMACEUTICAL FORM
 
@@ -68,11 +68,13 @@ For instructions for use, see section 6.6.
 
 Infusion at home may be considered for patients who have received several months of treatment in the clinic and who are tolerating their infusions well. Home infusions should be performed under the surveillance of a physician or other healthcare professional.
 
-Special populations Elderly patients
+<div style=\"page-break-after: always\"></div>
+
+## Special populations
+
+## Elderly patients
 
 There is no clinical experience in patients over 65 years of age.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Patients with renal or hepatic impairment
 
@@ -88,7 +90,7 @@ For instructions on dilution of the medicinal product before administration, see
 
 ## 4.3 Contraindications
 
-Severe or life-threatening hypersensitivity to the active substance or to any of the excipients listed in section 6.1 if hypersensitivity is not controllable.
+Severe or life-threatening hypersensitivity to the active substance or to any of the excipients listed in section 6.1, if hypersensitivity is not controllable.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -102,7 +104,9 @@ Delaying the infusion in patients who present with an acute febrile respiratory 
 
 ## Anaphylactoid/anaphylactic reactions
 
-Anaphylactoid/anaphylactic reactions, which have the potential to be life threatening, have been observed in some patients treated with idursulfase up to several years after initiating treatment. Late emergent symptoms and signs of anaphylactoid/anaphylactic reactions have been observed as long as 24 hours after an initial reaction. If an anaphylactoid/anaphylactic reaction occurs the infusion should be immediately suspended and appropriate treatment and observation initiated. The current medical standards for emergency treatment are to be observed. Patients experiencing severe or refractory anaphylactoid/anaphylactic reactions may require prolonged clinical monitoring. Patients who have experienced anaphylactoid/anaphylactic reactions should be treated with caution when readministering idursulfase, appropriately trained personnel and equipment for emergency resuscitation (including epinephrine) should be available during infusions. Severe or potentially life-threatening hypersensitivity is a contraindication to rechallenge, if hypersensitivity is not controllable (see section 4.3).
+Anaphylactoid/anaphylactic reactions, which have the potential to be life-threatening, have been observed in some patients treated with idursulfase up to several years after initiating treatment. Late emergent symptoms and signs of anaphylactoid/anaphylactic reactions have been observed as long as 24 hours after an initial reaction. If an anaphylactoid/anaphylactic reaction occurs the infusion should be immediately suspended and appropriate treatment and observation initiated. The current medical standards for emergency treatment are to be observed. Patients experiencing severe or refractory anaphylactoid/anaphylactic reactions may require prolonged clinical monitoring. Patients who have experienced anaphylactoid/anaphylactic reactions should be treated with caution when re-administering idursulfase, appropriately trained personnel and equipment for emergency resuscitation (including epinephrine) should be available during infusions. Severe or potentially life-threatening hypersensitivity is a contraindication to rechallenge, if hypersensitivity is not controllable (see section 4.3).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Patients with the complete deletion/large rearrangement genotype
 
@@ -110,13 +114,15 @@ Paediatric patients with the complete deletion/large rearrangement genotype have
 
 ## Sodium
 
-<div style=\"page-break-after: always\"></div>
+This medicinal product contains 11.1 mg sodium per vial, equivalent to 0.6% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
-This medicinal product contains 0.482 mmol sodium (or 11.1 mg) per vial. This is equivalent to 0.6% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+## Polysorbate 20
+
+This medicinal product contains 0.726 mg of polysorbate 20 in each vial which is equivalent to 0.22 mg/ml. Polysorbates may cause allergic reactions.
 
 ## Traceability
 
-In order to improve the traceability of biological medicinal products, the name and batch number of the administered product should be clearly recorded.
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -128,7 +134,7 @@ Based on its metabolism in cellular lysosomes, idursulfase would not be a candid
 
 ## Pregnancy
 
-There are no data or limited amount of data from the use of idursulfase in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of idursulfase during pregnancy.
+There are no or limited amount of data from the use of idursulfase in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of idursulfase during pregnancy.
 
 ## Breast-feeding
 
@@ -142,38 +148,40 @@ No effects on male fertility were seen in reproductive studies in male rats.
 
 Idursulfase has no or negligible influence on the ability to drive and use machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-Adverse reactions that were reported for the 32 patients treated with 0.5 mg/kg idursulfase weekly in the TKT024 phase II/III 52-week placebo-controlled study were almost all mild to moderate in severity. The most common were infusion-related reactions, 202 of which were reported in 22 out of 32 patients following administration of a total of 1580 infusions. In the placebo treatment group 128 infusion-related reactions were reported in 21 out of 32 patients following administration of a total of 1612 infusions. Since more than one infusion-related reaction may have occurred during any single infusion, the above numbers are likely to overestimate the true incidence of infusion reactions. Related reactions in the placebo group were similar in nature and severity to those in the treated group. The most common of these infusion-related reactions included cutaneous reactions (rash, pruritus, urticaria, and erythema), pyrexia, flushing, wheezing, dyspnoea, headache, vomiting, abdominal pain, nausea, and chest pain. The frequency of infusion-related reactions decreased over time with continued treatment.
+Adverse reactions that were reported for the 32 patients treated with 0.5 mg/kg idursulfase weekly in the TKT024 phase II/III 52-week placebo-controlled study were almost all mild to moderate in severity. The most common were infusion-related reactions, 202 of which were reported in 22 out of 32 patients following administration of a total of 1 580 infusions. In the placebo treatment group 128 infusion-related reactions were reported in 21 out of 32 patients following administration of a total of 1 612 infusions. Since more than one infusion-related reaction may have occurred during any single infusion, the above numbers are likely to overestimate the true incidence of infusion reactions. Related reactions in the placebo group were similar in nature and severity to those in the treated group. The most common of these infusion-related reactions included cutaneous reactions (rash, pruritus, urticaria, and erythema), pyrexia, flushing, wheezing, dyspnoea, headache, vomiting, abdominal pain, nausea, and chest pain. The frequency of infusion-related reactions decreased over time with continued treatment.
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are listed in table 1 with information presented by system organ class and frequency. Frequency is given as very common (≥1/10), common (≥1/100 to &lt;1/10) or uncommon (≥1/1,000 to &lt;1/100). The occurrence of an adverse reaction in a single patient is defined as common in view of the number of patients treated. Within each frequency grouping, adverse reactions are
+Adverse reactions are listed in table 1 with information presented by system organ class and frequency. Frequency is given as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10) or uncommon (≥ 1/1 000 to &lt; 1/100). The occurrence of an adverse reaction in a single patient is defined as common in view of the number of patients treated. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. Adverse reactions only reported during the post marketing period are also included in the table with a frequency \"not known\" (cannot be estimated from the available data).
+
+Table 1: Adverse reactions from clinical trials and post-marketing experience in patients treated with Elaprase
+
+| System organ class                              | Adverse reaction (preferred term) - Very common   | Adverse reaction (preferred term) - Common      | Adverse reaction (preferred term) - Uncommon    | Adverse reaction (preferred term) - Not known   |
+|-------------------------------------------------|---------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| Immune system disorders                         | Immune system disorders                           | Immune system disorders                         | Immune system disorders                         | Immune system disorders                         |
+|                                                 |                                                   |                                                 |                                                 | Anaphylactoid/ anaphylactic reaction            |
+| Nervous system disorders                        | Nervous system disorders                          | Nervous system disorders                        | Nervous system disorders                        | Nervous system disorders                        |
+|                                                 | Headache                                          | Dizziness, tremor                               |                                                 |                                                 |
+| Cardiac disorders                               | Cardiac disorders                                 | Cardiac disorders                               | Cardiac disorders                               | Cardiac disorders                               |
+|                                                 |                                                   | Cyanosis, arrhythmia, tachycardia               |                                                 |                                                 |
+| Vascular disorders                              | Vascular disorders                                | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              |
+|                                                 | Flushing                                          | Hypertension, hypotension                       |                                                 |                                                 |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders   | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |
+|                                                 | Wheezing, dyspnoea                                | Hypoxia, bronchospasm, cough                    | Tachypnoea                                      |                                                 |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                        | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      |
+|                                                 | Abdominal pain, nausea, diarrhoea, vomiting       | Swollen tongue, dyspepsia                       |                                                 |                                                 |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders            | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          |
 
 <div style=\"page-break-after: always\"></div>
 
-presented in order of decreasing seriousness. Adverse reactions only reported during the post marketing period are also included in the table with a frequency 'not known' (cannot be estimated from the available data).
-
-Table 1: Adverse reactions from clinical trials and post-marketing experience in patients treated with Elaprase.
-
-| System organ class                                   | Adverse reaction (preferred term)                    | Adverse reaction (preferred term)                      | Adverse reaction (preferred term)                    | Adverse reaction (preferred term)                    |
+| System organ class                                   | Adverse reaction (preferred term) - Very common      | Adverse reaction (preferred term) - Common             | Adverse reaction (preferred term) - Uncommon         | Adverse reaction (preferred term) - Not known        |
 |------------------------------------------------------|------------------------------------------------------|--------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-|                                                      | Very common                                          | Common                                                 | Uncommon                                             | Not known                                            |
-| Immune system disorders                              | Immune system disorders                              | Immune system disorders                                | Immune system disorders                              | Immune system disorders                              |
-|                                                      |                                                      |                                                        |                                                      | Anaphylactoid/ anaphylactic reaction                 |
-| Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                               | Nervous system disorders                             | Nervous system disorders                             |
-|                                                      | Headache                                             | Dizziness, tremor                                      |                                                      |                                                      |
-| Cardiac disorders                                    | Cardiac disorders                                    | Cardiac disorders                                      | Cardiac disorders                                    | Cardiac disorders                                    |
-|                                                      |                                                      | Cyanosis, arrhythmia, tachycardia                      |                                                      |                                                      |
-| Vascular disorders                                   | Vascular disorders                                   | Vascular disorders                                     | Vascular disorders                                   | Vascular disorders                                   |
-|                                                      | Flushing                                             | Hypertension, Hypotension                              |                                                      |                                                      |
-| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders        | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      |
-|                                                      | Wheezing, dyspnoea                                   | Hypoxia, bronchospasm, cough                           | Tachypnoea                                           |                                                      |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                             | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
-|                                                      | Abdominal pain, nausea, diarrhoea, vomiting          | Swollen tongue, dyspepsia                              |                                                      |                                                      |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                 | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
 |                                                      | Urticaria, rash, pruritus, erythema                  |                                                        |                                                      |                                                      |
 | Musculoskeletal and connective disorders             | Musculoskeletal and connective disorders             | Musculoskeletal and connective disorders               | Musculoskeletal and connective disorders             | Musculoskeletal and connective disorders             |
 |                                                      |                                                      | Arthralgia                                             |                                                      |                                                      |
@@ -184,11 +192,7 @@ Table 1: Adverse reactions from clinical trials and post-marketing experience in
 
 ## Description of selected adverse reactions
 
-Across clinical studies, serious adverse reactions were reported in a total of 5 patients who received 0.5 mg/kg weekly or every other week. Four patients experienced a hypoxic episode during one or several infusions, which necessitated oxygen therapy in 3 patients with severe underlying obstructive airway disease (2 with a pre-existing tracheostomy). The most severe episode occurred in a patient with a febrile respiratory illness and was associated with hypoxia during the infusion, resulting in a short seizure. In the fourth patient, who had less severe underlying disease, spontaneous resolution occurred shortly after the infusion was interrupted. These events did not recur with subsequent infusions using a slower infusion rate and administration of pre-infusion medicinal products, usually low-dose steroids, antihistamine, and beta-agonist nebulisation. The fifth patient, who had pre-existing
-
-<div style=\"page-break-after: always\"></div>
-
-cardiopathy, was diagnosed with ventricular premature complexes and pulmonary embolism during the study.
+Across clinical studies, serious adverse reactions were reported in a total of 5 patients who received 0.5 mg/kg weekly or every other week. Four patients experienced a hypoxic episode during one or several infusions, which necessitated oxygen therapy in 3 patients with severe underlying obstructive airway disease (2 with a pre-existing tracheostomy). The most severe episode occurred in a patient with a febrile respiratory illness and was associated with hypoxia during the infusion, resulting in a short seizure. In the fourth patient, who had less severe underlying disease, spontaneous resolution occurred shortly after the infusion was interrupted. These events did not recur with subsequent infusions using a slower infusion rate and administration of pre-infusion medicinal products, usually low-dose steroids, antihistamine, and beta-agonist nebulisation. The fifth patient, who had pre-existing cardiopathy, was diagnosed with ventricular premature complexes and pulmonary embolism during the study.
 
 There have been post-marketing reports of anaphylactoid/anaphylactic reactions (see section 4.4).
 
@@ -198,11 +202,15 @@ Patients with complete deletion/large rearrangement genotype have a higher proba
 
 Across 4 clinical studies (TKT008, TKT018, TKT024 and TKT024EXT), 53/107 patients (50%) developed anti-idursulfase IgG antibodies at some point. The overall neutralizing antibody rate was 26/107 patients (24%).
 
-In the post-hoc immunogenicity analysis of data from TKT024/024EXT studies, 51% (32/63) patients treated with 0.5mg/kg weekly idursulfase had at least 1 blood sample that tested positive for antiidursulfase antibodies, and 37 % (23/63) tested positive for antibodies on at least 3 consecutive study visits. Twenty-one percent (13/63) tested positive for neutralizing antibodies at least once and 13 % (8/63) tested positive for neutralizing antibodies on at least 3 consecutive study visits.
+In the post-hoc immunogenicity analysis of data from TKT024/024EXT studies, 51% (32/63) patients treated with 0.5 mg/kg weekly idursulfase had at least 1 blood sample that tested positive for anti-idursulfase antibodies, and 37 % (23/63) tested positive for antibodies on at least 3 consecutive study visits. Twenty-one percent (13/63) tested positive for neutralizing antibodies at least once and 13% (8/63) tested positive for neutralizing antibodies on at least 3 consecutive study visits.
 
 Clinical study HGT-ELA-038 evaluated immunogenicity in children 16 months to 7.5 years of age. During the 53-week study, 67.9% (19 of 28) of patients had at least one blood sample that tested positive for anti-idursulfase antibodies, and 57.1% (16 of 28) tested positive for antibodies on at least three consecutive study visits. Fifty-four percent of patients tested positive for neutralizing antibodies at least once and half of the patients tested positive for neutralizing antibodies on at least three consecutive study visits.
 
-All patients with the complete deletion/large rearrangement genotype developed antibodies, and the majority of them (7/8) also tested positive for neutralizing antibodies on at least 3 consecutive occasions. All patients with the frameshift/splice site mutation genotype developed antibodies and 4/6 also tested positive for neutralizing antibodies on at least 3 consecutive study visits. Antibody-negative patients were found exclusively in the missense mutation genotype group (see sections 4.4 and 5.1).
+All patients with the complete deletion/large rearrangement genotype developed antibodies, and the majority of them (7/8) also tested positive for neutralizing antibodies on at least 3 consecutive occasions. All patients with the frameshift/splice site mutation genotype developed antibodies and 4/6
+
+<div style=\"page-break-after: always\"></div>
+
+also tested positive for neutralizing antibodies on at least 3 consecutive study visits. Antibody-negative patients were found exclusively in the missense mutation genotype group (see sections 4.4 and 5.1).
 
 ## Paediatric population
 
@@ -220,15 +228,11 @@ There is limited information regarding overdose with Elaprase. Evidence suggests
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other alimentary tract and metabolism products - enzymes, ATC code: A16AB09 .
+Pharmacotherapeutic group: Other alimentary tract and metabolism products - enzymes, ATC code: A16AB09.
 
 ## Mechanism of action
 
-Hunter syndrome is an X-linked disease caused by insufficient levels of the lysosomal enzyme iduronate-2-sulfatase. Iduronate-2-sulfatase functions to catabolize the glycosaminoglycans (GAG)
-
-<div style=\"page-break-after: always\"></div>
-
-dermatan sulfate and heparan sulfate by cleavage of oligosaccharide-linked sulfate moieties. Due to the missing or defective iduronate-2-sulfatase enzyme in patients with Hunter syndrome, glycosaminoglycans progressively accumulate in the cells, leading to cellular engorgement, organomegaly, tissue destruction, and organ system dysfunction.
+Hunter syndrome is an X-linked disease caused by insufficient levels of the lysosomal enzyme iduronate-2-sulfatase. Iduronate-2-sulfatase functions to catabolize the glycosaminoglycans (GAG) dermatan sulfate and heparan sulfate by cleavage of oligosaccharide-linked sulfate moieties. Due to the missing or defective iduronate-2-sulfatase enzyme in patients with Hunter syndrome, glycosaminoglycans progressively accumulate in the cells, leading to cellular engorgement, organomegaly, tissue destruction, and organ system dysfunction.
 
 Idursulfase is a purified form of the lysosomal enzyme iduronate-2-sulfatase, produced in a human cell line providing a human glycosylation profile, which is analogous to the naturally occurring enzyme. Idursulfase is secreted as a 525 amino acid glycoprotein and contains 8 N-linked glycosylation sites that are occupied by complex, hybrid, and high-mannose type oligosaccharide chains. Idursulfase has a molecular weight of approximately 76 kD.
 
@@ -236,61 +240,55 @@ Treatment of Hunter syndrome patients with intravenous idursulfase provides exog
 
 ## Clinical efficacy and safety
 
-The safety and efficacy of Elaprase has been shown in three clinical studies: two randomised, placebocontrolled clinical studies (TKT008 and TKT024) in adults and children above the age of 5 years and one open-label, safety study (HGT-ELA-038) in children between the age of 16 months and 7.5 years.
+The safety and efficacy of Elaprase have been shown in three clinical studies: two randomised, placebo-controlled clinical studies (TKT008 and TKT024) in adults and children above the age of 5 years and one open-label, safety study (HGT-ELA-038) in children between the age of 16 months and 7.5 years.
+
+<div style=\"page-break-after: always\"></div>
 
 A total of 108 male Hunter syndrome patients with a broad spectrum of symptoms were enrolled in the two randomized, placebo-controlled clinical studies, 106 continued treatment in two open-label, extension studies.
 
 ## Study TKT024
 
-In a 52-week, randomized, double-blind, placebo-controlled clinical study, 96 patients between the ages of 5 and 31 years received Elaprase 0.5 mg/kg every week (n=32) or 0.5 mg/kg every other week (n=32), or placebo (n=32). The study included patients with a documented deficiency in iduronate-2sulfatase enzyme activity, a percent predicted FVC &lt;80%, and a broad spectrum of disease severity.
+In a 52-week, randomized, double-blind, placebo-controlled clinical study, 96 patients between the ages of 5 and 31 years received Elaprase 0.5 mg/kg every week (n = 32) or 0.5 mg/kg every other week (n = 32), or placebo (n = 32). The study included patients with a documented deficiency in iduronate-2-sulfatase enzyme activity, a percent predicted FVC &lt; 80%, and a broad spectrum of disease severity.
 
-The primary efficacy endpoint was a two-component composite score based on the sum of the ranks of the change from baseline to the end of the study in the distance walked during six minutes (6-minute walk test or 6MWT) as a measure of endurance, and % predicted forced vital capacity (FVC) as a measure of pulmonary function. This endpoint differed significantly from placebo for patients treated weekly (p=0.0049).
+The primary efficacy endpoint was a two-component composite score based on the sum of the ranks of the change from baseline to the end of the study in the distance walked during six minutes (6-minute walk test or 6MWT) as a measure of endurance, and % predicted forced vital capacity (FVC) as a measure of pulmonary function. This endpoint differed significantly from placebo for patients treated weekly (p = 0.0049).
 
 Additional clinical benefit analyses were performed on individual components of the primary endpoint composite score, absolute changes in FVC, changes in urine GAG levels, liver and spleen volumes, measurement of forced expiratory volume in 1 second (FEV1), and changes in left ventricular mass (LVM). The results are presented in Table 2.
 
-Table 2. Results from pivotal clinical study at 0.5 mg/kg per week (Study TKT024).
+Table 2: Results from pivotal clinical study at 0.5 mg/kg per week (Study TKT024)
 
-|                           | 52 weeks of treatment 0.5 mg/kg weekly   | 52 weeks of treatment 0.5 mg/kg weekly   | 52 weeks of treatment 0.5 mg/kg weekly               | 52 weeks of treatment 0.5 mg/kg weekly   |
-|---------------------------|------------------------------------------|------------------------------------------|------------------------------------------------------|------------------------------------------|
-| Endpoint                  | Marginally weighted (OM) mean (SE)       | Marginally weighted (OM) mean (SE)       | Mean treatment difference compared with placebo (SE) | P-value (compared with placebo)          |
-|                           | Idursulfase                              | Placebo                                  |                                                      |                                          |
-| Composite (6MWT and %FVC) | 74.5 (4.5)                               | 55.5 (4.5)                               | 19.0 (6.5)                                           | 0.0049                                   |
-| 6MWT(m)                   | 43.3 (9.6)                               | 8.2 (9.6)                                | 35.1 (13.7)                                          | 0.0131                                   |
-| %Predicted FVC            | 4.2 (1.6)                                | -0.04 (1.6)                              | 4.3 (2.3)                                            | 0.0650                                   |
+| Endpoint                                | 52 weeks of treatment 0.5 mg/kg weekly - Marginally weighted (OM) mean (SE) - Idursulfase   | 52 weeks of treatment 0.5 mg/kg weekly - Marginally weighted (OM) mean (SE) - Placebo   | 52 weeks of treatment 0.5 mg/kg weekly - Mean treatment difference compared with placebo (SE)   | 52 weeks of treatment 0.5 mg/kg weekly - P-value (compared with placebo)   |
+|-----------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Composite (6MWT and %FVC)               | 74.5 (4.5)                                                                                  | 55.5 (4.5)                                                                              | 19.0 (6.5)                                                                                      | 0.0049                                                                     |
+| 6MWT (m)                                | 43.3 (9.6)                                                                                  | 8.2 (9.6)                                                                               | 35.1 (13.7)                                                                                     | 0.0131                                                                     |
+| % Predicted FVC                         | 4.2 (1.6)                                                                                   | -0.04 (1.6)                                                                             | 4.3 (2.3)                                                                                       | 0.0650                                                                     |
+| FVC absolute volume (L)                 | 0.23 (0.04)                                                                                 | 0.05 (0.04)                                                                             | 0.19 (0.06)                                                                                     | 0.0011                                                                     |
+| Urine GAG levels (μg GAG/mg creatinine) | -223.3 (20.7)                                                                               | 52.23 (20.7)                                                                            | -275.5 (30.1)                                                                                   | < 0.0001                                                                   |
+| % Change in liver volume                | -25.7 (1.5)                                                                                 | -0.5 (1.6)                                                                              | -25.2 (2.2)                                                                                     | < 0.0001                                                                   |
+| % Change in spleen volume               | -25.5 (3.3)                                                                                 | 7.7 (3.4)                                                                               | -33.2 (4.8)                                                                                     | < 0.0001                                                                   |
 
-<div style=\"page-break-after: always\"></div>
-
-| FVC absolute volume (L)                 | 0.23 (0.04)   | 0.05 (0.04)   | 0.19 (0.06)   | 0.0011   |
-|-----------------------------------------|---------------|---------------|---------------|----------|
-| Urine GAG levels (μg GAG/mg creatinine) | -223.3 (20.7) | 52.23 (20.7)  | -275.5 (30.1) | <0.0001  |
-| %Change in liver volume                 | -25.7 (1.5)   | -0.5 (1.6)    | -25.2 (2.2)   | <0.0001  |
-| %Change in spleen volume                | -25.5 (3.3)   | 7.7 (3.4)     | -33.2 (4.8)   | <0.0001  |
-
-A total of 11 of 31 (36%) patients in the weekly treatment group versus 5 of 31 (16%) patients in the placebo group had an increase in FEV1 of at least 0.2 l at or before the end of the study, indicating a dose-related improvement in airway obstruction. The patients in the weekly treatment group experienced a clinically significant 15% mean improvement in FEV1 at the end of the study.
+A total of 11 of 31 (36%) patients in the weekly treatment group versus 5 of 31 (16%) patients in the placebo group had an increase in FEV1 of at least 0.2 L at or before the end of the study, indicating a dose-related improvement in airway obstruction. The patients in the weekly treatment group experienced a clinically significant 15% mean improvement in FEV1 at the end of the study.
 
 Urine GAG levels were normalized below the upper limit of normal (defined as 126.6 µg GAG/mg creatinine) in 50% of the patients receiving weekly treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 Of the 25 patients with abnormally large livers at baseline in the weekly treatment group, 80% (20 patients) had reductions in liver volume to within the normal range by the end of the study.
 
 Of the 9 patients in the weekly treatment group with abnormally large spleens at baseline, 3 had spleen volumes that normalized by the end of the study.
 
-Approximately half of the patients in the weekly treatment group (15 of 32; 47%) had left ventricular hypertrophy at baseline, defined as LVM index  103 g/m 2 . Of these 6 (40%) had normalised LVM by the end of the study.
+Approximately half of the patients in the weekly treatment group (15 of 32; 47%) had left ventricular hypertrophy at baseline, defined as LVM index &gt; 103 g/m 2 . Of these 6 (40%) had normalised LVM by the end of the study.
 
 All patients received weekly idursulfase up to 3.2 years in an extension to this study (TKT024EXT).
 
 Among patients who were originally randomised to weekly idursulfase in TKT024, mean maximum improvement in distance walked during six minutes occurred at Month 20 and mean percent predicted FVC peaked at Month 16.
 
-Among all patients, statistically significant mean increases from treatment baseline (TKT024 baseline for TKT024 idursulfase patients and Week 53 baseline for TKT024 placebo patients) were seen in the distance walked 6MWT at the majority of time points tested, with significant mean and percent increases ranging from 13.7m to 41.5m (maximum at Month 20) and from 6.4% to 13.3% (maximum at Month 24) respectively. At most time points tested, patients who were from the original TKT024 weekly treatment group improved their walking distance to a greater extent that patients in the other 2 treatment groups.
+Among all patients, statistically significant mean increases from treatment baseline (TKT024 baseline for TKT024 idursulfase patients and Week 53 baseline for TKT024 placebo patients) were seen in the distance walked 6MWT at the majority of time points tested, with significant mean and percent increases ranging from 13.7 m to 41.5 m (maximum at Month 20) and from 6.4% to 13.3% (maximum at Month 24) respectively. At most time points tested, patients who were from the original TKT024 weekly treatment group improved their walking distance to a greater extent that patients in the other 2 treatment groups.
 
 Among all patients, mean % predicted FVC was significantly increased at Month 16, although by Month 36, it was similar to the baseline. Patients with the most severe pulmonary impairment at baseline (as measured by % predicted FVC) tended to show the least improvement.
 
-Statistically significant increases from treatment baseline in absolute FVC volume were seen at most visits for all treatment groups combined and for each of the prior TKT024 treatment groups. Mean changes from 0.07 l to 0.31 l and percent ranged from 6.3% to 25.5% (maximum at Month 30). The mean and percent changes from treatment baseline were greatest in the group of patients from the TKT024 study who had received the weekly dosing, across all time points.
+Statistically significant increases from treatment baseline in absolute FVC volume were seen at most visits for all treatment groups combined and for each of the prior TKT024 treatment groups. Mean changes from 0.07 L to 0.31 L and percent ranged from 6.3% to 25.5% (maximum at Month 30). The mean and percent changes from treatment baseline were greatest in the group of patients from the TKT024 study who had received the weekly dosing, across all time points.
 
-At their final visit 21/31 patients in the TKT024 Weekly group, 24/32 in the TKT024 EOW group and 18/31 patients in the TKT024 placebo group had final normalised urine GAG levels that were below the upper limit of normal. Changes in urinary GAG levels were the earliest signs of clinical improvement with idursulfase treatment and the greatest decreases in urinary GAG were seen within the first 4 months of treatment in all treatment groups; changes from Month 4 to 36 were small. The
-
-<div style=\"page-break-after: always\"></div>
-
-higher the urinary GAG levels at baseline, the greater the magnitude of decreases in urinary GAG with idursulfase treatment.
+At their final visit 21/31 patients in the TKT024 Weekly group, 24/32 in the TKT024 EOW group and 18/31 patients in the TKT024 placebo group had final normalised urine GAG levels that were below the upper limit of normal. Changes in urinary GAG levels were the earliest signs of clinical improvement with idursulfase treatment and the greatest decreases in urinary GAG were seen within the first 4 months of treatment in all treatment groups; changes from Month 4 to 36 were small. The higher the urinary GAG levels at baseline, the greater the magnitude of decreases in urinary GAG with idursulfase treatment.
 
 The decreases in liver and spleen volumes observed at the end of study TKT024 (week 53) were maintained during the extension study (TKT024EXT) in all patients regardless of the prior treatment they had been assigned. Liver volume normalised by Month 24 for 73% (52 out of 71) of patients with hepatomegaly at baseline. In addition, mean liver volume decreased to a near maximum extent by Month 8 in all patients previously treated, with a slight increase observed at Month 36. The decreases in mean liver volume were seen regardless of age, disease severity, IgG antibody status or neutralising antibody status. Spleen volume normalised by Months 12 and 24 for 9.7% of patients in the TKT024 Weekly group with splenomegaly.
 
@@ -298,13 +296,15 @@ Mean cardiac LVMI remained stable over 36 months of idursulfase treatment within
 
 In a post-hoc analysis of immunogenicity in studies TKT024 and TKT024EXT (see section 4.8), patients were shown to have either the mis-sense mutation or the frameshift / nonsense mutation. After 105 weeks of exposure to idursulfase, neither antibody status nor genotype affected reductions in liver and spleen size or distance walked in the 6-minute walk test or forced vital capacity measurements. Patients who tested antibody-positive displayed less reduction in urinary output of glycosaminoglycans than antibody-negative patients. The longer-term effects of antibody development on clinical outcomes have not been established.
 
-## Study HGT-ELA-038
+<div style=\"page-break-after: always\"></div>
 
-This was an open-label, multicenter, single-arm study of idursulfase infusions in male Hunter syndrome patients between the age of 16 months and 7.5 years.
+Study HGT-ELA-038
+
+This was an open-label, multicentre, single-arm study of idursulfase infusions in male Hunter syndrome patients between the age of 16 months and 7.5 years.
 
 Idursulfase treatment resulted in up to 60% reduction in urine output of glycosaminoglycans and in reductions of liver and spleen size: results were comparable to those found in study TKT024. Reductions were evident by week 18 and were maintained to week 53. Patients who developed a high titre of antibodies displayed less response to idursulfase as assessed by urine output of glycosaminoglycans and by liver and spleen size.
 
-## Analyses of genotypes of patients in study HGT-ELA-038
+Analyses of genotypes of patients in study HGT-ELA-038
 
 Patients were classified into the following groups: missense (13), complete deletion/large rearrangement (8), and frameshift/ splice site mutations (5). One patient was unclassified / unclassifiable.
 
@@ -312,39 +312,41 @@ The complete deletion/ large rearrangement genotype was most commonly associated
 
 No clinical data exist demonstrating a benefit on the neurological manifestations of the disorder.
 
-This medicinal product has been authorised under 'exceptional circumstances'. This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product.
+This medicinal product has been authorised under \"exceptional circumstances\".
+
+This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product.
 
 The European Medicines Agency will review any new information which may become available every year and this SmPC will be updated as necessary.
 
 ## 5.2 Pharmacokinetic properties
 
-Idursulfase is taken up by selective receptor-mediated mechanisms involving binding to mannose 6phosphate receptors. Upon internalization by cells, it is localized within cellular lysosomes, thereby limiting distribution of the protein. Degradation of idursulfase is achieved by generally well
+Idursulfase is taken up by selective receptor-mediated mechanisms involving binding to mannose 6-phosphate receptors. Upon internalization by cells, it is localized within cellular lysosomes, thereby limiting distribution of the protein. Degradation of idursulfase is achieved by generally well understood protein hydrolysis mechanisms to produce small peptides and amino acids, consequently renal and liver function impairment is not expected to affect the pharmacokinetics of idursulfase. Pharmacokinetic parameters measured during the first infusion at week 1 of studies TKT024 (0.5 mg/kg weekly arm) and HGT-ELA-038 are displayed in table 3 and table 4 below as a function of age and body weight, respectively.
+
+Table 3: Pharmacokinetic parameters at week 1 as a function of age in Studies TKT024 and HGT-ELA-038
+
+|                              | Study - HGT-ELA-038   | Study - TKT024   | Study - TKT024   | Study - TKT024   |
+|------------------------------|-----------------------|------------------|------------------|------------------|
+| Age (years)                  | 1.4 to 7.5 (n = 27)   | 5 to 11 (n = 11) | 12 to 18 (n = 8) | > 18 (n = 9)     |
+| Cmax (μg/ml) Mean ± SD       | 1.3 ± 0.8             | 1.6 ± 0.7        | 1.4 ± 0.3        | 1.9 ± 0.5        |
+| AUC0-∞ (min*μg/ml) Mean ± SD | 224.3 ± 76.9          | 238 ± 103.7      | 196 ± 40.5       | 262 ± 74.5       |
 
 <div style=\"page-break-after: always\"></div>
 
-understood protein hydrolysis mechanisms to produce small peptides and amino acids, consequently renal and liver function impairment is not expected to affect the pharmacokinetics of idursulfase. Pharmacokinetic parameters measured during the first infusion at week 1 of studies TKT024 (0.5 mg/kg weekly arm) and HGT-ELA-038 are displayed in table 3 and table 4 below as a function of age and body weight, respectively.
-
-Table 3. Pharmacokinetic parameters at week 1 as a function of age in Studies TKT024 and HGT-ELA-038
-
-|                               | Study             | Study          | Study          | Study      |
-|-------------------------------|-------------------|----------------|----------------|------------|
-|                               | HGT-ELA-038       | TKT024         | TKT024         | TKT024     |
-| Age (years)                   | 1.4 to 7.5 (n=27) | 5 to 11 (n=11) | 12 to 18 (n=8) | > 18 (n=9) |
-| C max (μg/mL) Mean ± SD       | 1.3 ± 0.8         | 1.6 ± 0.7      | 1.4 ± 0.3      | 1.9 ± 0.5  |
-| AUC 0-∞ (min*μg/mL) Mean ± SD | 224.3 ± 76.9      | 238 ± 103.7    | 196 ± 40.5     | 262 ± 74.5 |
-| CL (mL/min/kg) Mean ± SD      | 2.4 ± 0.7         | 2.7 ± 1.3      | 2.8 ± 0.7      | 2.2 ± 0.7  |
-| V ss (mL/kg) Mean ± SD        | 394 ± 423         | 217 ± 109      | 184 ± 38       | 169 ± 32   |
+|                                 | Study - HGT-ELA-038   | Study - TKT024   | Study - TKT024   | Study - TKT024   |
+|---------------------------------|-----------------------|------------------|------------------|------------------|
+| CL (ml/min/kg)                  | 2.4 ± 0.7             | 2.7 ± 1.3        | 2.8 ± 0.7        | 2.2 ± 0.7        |
+| Mean ± SD Vss (ml/kg) Mean ± SD | 394 ± 423             | 217 ± 109        | 184 ± 38         | 169 ± 32         |
 
 Patients in the TKT024 and HGT-ELA-038 studies were also stratified across five weight categories; as shown in the following table:
 
-Table 4. Pharmacokinetic parameters at week 1 as a function of body weight in studies TKT024 and HGT-ELA-038
+Table 4: Pharmacokinetic parameters at week 1 as a function of body weight in studies TKT024 and HGT-ELA-038
 
-| Weight (kg)              | <20 (n=17)   | ≥ 20 and < 30 (n=18)   | ≥ 30 and < 40 (n=9)   | ≥ 40 and < 50 (n=5)   | ≥ 50 (n=6)   |
-|--------------------------|--------------|------------------------|-----------------------|-----------------------|--------------|
-| C max (μg/mL) Mean ± SD  | 1.2 ± 0.3    | 1.5 ± 1.0              | 1.7 ± 0.4             | 1.7 ± 0.7             | 1.7 ± 0.7    |
-| AUC 0-∞ (min*μg/mL)      | 206.2 ± 33.9 | 234.3 ± 103.0          | 231.1 ± 681.0         | 260.2 ± 113.8         | 251.3 ± 86.2 |
-| CL (mL/min/kg) Mean ± SD | 2.5 ± 0.5    | 2.6 ± 1.1              | 2.4 ± 0.6             | 2.4 ± 1.0             | 2.4 ± 1.1    |
-| V ss (mL/kg)             | 321 ± 105    | 397 ± 528              | 171 ± 52              | 160 ± 59              | 181 ± 34     |
+| Weight (kg)              | < 20 (n = 17)   | ≥ 20 and < 30 (n = 18)   | ≥ 30 and < 40 (n = 9)   | ≥ 40 and < 50 (n = 5)   | ≥ 50 (n = 6)   |
+|--------------------------|-----------------|--------------------------|-------------------------|-------------------------|----------------|
+| Cmax (μg/ml) Mean ± SD   | 1.2 ± 0.3       | 1.5 ± 1.0                | 1.7 ± 0.4               | 1.7 ± 0.7               | 1.7 ± 0.7      |
+| AUC0-∞ (min*μg/ml)       | 206.2 ± 33.9    | 234.3 ± 103.0            | 231.1 ± 681.0           | 260.2 ± 113.8           | 251.3 ± 86.2   |
+| CL (ml/min/kg) Mean ± SD | 2.5 ± 0.5       | 2.6 ± 1.1                | 2.4 ± 0.6               | 2.4 ± 1.0               | 2.4 ± 1.1      |
+| Vss (ml/kg)              | 321 ± 105       | 397 ± 528                | 171 ± 52                | 160 ± 59                | 181 ± 34       |
 
 A higher volume of distribution at steady state (Vss) was observed in the lowest weight groups.
 
@@ -354,35 +356,35 @@ Overall, there was no apparent trend in either systemic exposure or clearance ra
 
 Nonclinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, single dose toxicity, repeated dose toxicity, toxicity to reproduction and development and to male fertility.
 
-Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/ foetal development, parturition or postnatal development.
+Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development.
 
 Animal studies have shown excretion of idursulfase in breast milk.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Polysorbate 20 Sodium chloride Dibasic sodium phosphate heptahydrate Monobasic sodium phosphate monohydrate Water for injections
+Polysorbate 20 (E432) Sodium chloride Dibasic sodium phosphate heptahydrate Monobasic sodium phosphate monohydrate Water for injections
 
 ## 6.2 Incompatibilities
 
 This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
 3 years.
 
-Chemical and physical in-use stability has been demonstrated for 8 hours at 25°C.
+Chemical and physical in-use stability has been demonstrated for 8 hours at 25 °C.
 
 ## After dilution
 
-From a microbiological safety point of view, the diluted product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 24 hours at 2 to 8°C.
+From a microbiological safety point of view, the diluted product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 24 hours at 2 to 8 °C.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2  C - 8  C).
+Store in a refrigerator (2 °C-8 °C).
 
 Do not freeze.
 
@@ -390,7 +392,7 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-5 ml vial (type I glass) with a stopper (fluoro-resin coated butyl rubber), one piece seal and blue flipoff cap. Each vial contains 3 ml of concentrate for solution for infusion.
+5 ml vial (type I glass) with a stopper (fluoro-resin coated butyl rubber), one piece seal and blue flip-off cap. Each vial contains 3 ml of concentrate for solution for infusion.
 
 Pack sizes of 1, 4 and 10 vials. Not all pack sizes may be marketed.
 
@@ -398,60 +400,58 @@ Pack sizes of 1, 4 and 10 vials. Not all pack sizes may be marketed.
 
 Each vial of Elaprase is intended for single use only and contains 6 mg of idursulfase in 3 ml of solution. Elaprase is for intravenous infusion and must be diluted in sodium chloride 9 mg/ml (0.9%) solution for infusion prior to use. It is recommended to deliver the total volume of infusion using a 0.2 µm in line filter. Elaprase should not be infused with other medicinal products in the infusion tubing.
 
-- -The number of vials to be diluted should be determined based on the individual patient's weight and the recommended dose of 0.5 mg/kg.
-- -The solution in the vials should not be used if it is discoloured or if particulate matter is present. The solution should not be shaken.
-- -The calculated volume of Elaprase should be withdrawn from the appropriate number of vials.
-- -The total volume required of Elaprase should be diluted in 100 ml of 9 mg/ml (0.9%) sodium chloride solution for infusion. Care must be taken to ensure the sterility of the prepared solutions since Elaprase does not contain any preservative or bacteriostatic agent; aseptic technique must be observed. Once diluted, the solution should be mixed gently, but not shaken.
+- The number of vials to be diluted should be determined based on the individual patient's weight and the recommended dose of 0.5 mg/kg.
+- The solution in the vials should not be used if it is discoloured or if particulate matter is present. The solution should not be shaken.
+- The calculated volume of Elaprase should be withdrawn from the appropriate number of vials.
+- The total volume required of Elaprase should be diluted in 100 ml of 9 mg/ml (0.9%) sodium chloride solution for infusion. Care must be taken to ensure the sterility of the prepared solutions since Elaprase does not contain any preservative or bacteriostatic agent; aseptic technique must be observed. Once diluted, the solution should be mixed gently, but not shaken.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland medinfoEMEA@takeda.com
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+<div style=\"page-break-after: always\"></div>
+
+## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/06/365/001-003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 08 January 2007
-
-Date of latest renewal: 09 September 2016
+Date of first authorisation: 08 January 2007 Date of latest renewal: 09 September 2016
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
-- E. SPECIFIC OBLIGATION TO COMPLETE POSTAUTHORISATION MEASURES FOR THE MARKETING AUTHORISATION UNDER EXCEPTIONAL CIRCUMSTANCES
+- E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE MARKETING AUTHORISATION UNDER EXCEPTIONAL CIRCUMSTANCES
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturers of the biological active substance
 
 Shire (TK3) 205 Alewife Brook Parkway Cambridge, MA 02138 USA
 
-Shire 300 Shire Way Lexington MA 02421 USA
+Shire 300 Shire Way Lexington MA 02421
 
-Name and address of the manufacturers responsible for batch release
+USA
 
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
+Name and address of the manufacturer responsible for batch release
 
-Shire Pharmaceuticals Ireland Limited Block 2 &amp; 3 Miesian Plaza 50 - 58 Baggot Street Lower Dublin 2 Ireland
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68
 
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+Ireland
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -462,8 +462,6 @@ Medicinal product subject to restricted medical prescription (See Annex I: Summa
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -476,13 +474,15 @@ An updated RMP should be submitted:
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
+<div style=\"page-break-after: always\"></div>
+
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE MARKETING AUTHORISATION UNDER EXCEPTIONAL CIRCUMSTANCES
 
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                         | Due date                              |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| In order to ensure adequate monitoring of safety and efficacy of Elaprase in the long-term treatment of patients with Hunter syndrome (Mucopolysaccharidosis II, MPS II) the MAHshall provide yearly updates on any new information concerning the safety and efficacy of Elaprase. | Annually (with Annual re- assessment) |
+| Description                                                                                                                                                                                                                                                                          | Due date                             |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| In order to ensure adequate monitoring of safety and efficacy of Elaprase in the long-term treatment of patients with Hunter syndrome (Mucopolysaccharidosis II, MPS II) the MAH shall provide yearly updates on any new information concerning the safety and efficacy of Elaprase. | Annually (with Annual re-assessment) |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -498,27 +498,23 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Elaprase 2 mg/ml concentrate for solution for infusion idursulfase
+Elaprase 2 mg/ml concentrate for solution for infusion
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+idursulfase
 
-Each vial contains 6 mg of idursulfase. Each ml contains 2 mg of idursulfase
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+Each vial contains 6 mg of idursulfase. Each ml contains 2 mg of idursulfase.
 
 ## 3. LIST OF EXCIPIENTS
 
-Polysorbate 20
+Excipients: polysorbate 20 (E432), sodium chloride, dibasic sodium phosphate heptahydrate, monobasic sodium phosphate monohydrate, water for injections.
 
-Sodium chloride
-
-Dibasic sodium phosphate heptahydrate
-
-Monobasic sodium phosphate monohydrate
-
-Water for injections
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -532,17 +528,17 @@ Concentrate for solution for infusion
 
 6 mg/3 ml
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-For single use only
+For single use only.
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Intravenous use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
-Keep out of the sight and reach of children
+Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -552,73 +548,71 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-Store in a refrigerator
+Store in a refrigerator.
 
-Do not freeze
+Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Takeda Pharmaceuticals International AG Ireland Branch
-
-Block 2 Miesian Plaza
-
-50-58 Baggot Street Lower
-
-Dublin 2
-
-D02 HW68
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68
 
 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBERS   |
+|-------|-----------------------------------|
 
-EU/1/06/365/001
+EU/1/06/365/001 1 vial EU/1/06/365/002 4 vials
 
-EU/1/06/365/002
+EU/1/06/365/003 10 vials
 
-EU/1/06/365/003
-
-## 13. BATCH NUMBER
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
-Justification for not including Braille accepted
+Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL                                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
 
 Elaprase 2 mg/ml sterile concentrate idursulfase IV
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -630,17 +624,17 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 6 mg/3 ml
 
 | 6.   | OTHER   |
 |------|---------|
 
-Store in a refrigerator Do not freeze
+Store in a refrigerator. Do not freeze.
 
-20
+21
 
 <div style=\"page-break-after: always\"></div>
 
@@ -658,12 +652,12 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
-## What is in this leaflet :
+## What is in this leaflet:
 
 1. What Elaprase is and what it is used for
 2. What you need to know before you use Elaprase
@@ -688,9 +682,9 @@ If you have experienced severe or potentially life-threatening allergic-type rea
 
 Talk to your doctor or nurse before using this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 If you are treated with Elaprase you may experience side effects during or following an infusion (see section 4 Possible side effects). The most common symptoms are itching, rash, hives, fever, headache, increased blood pressure, and flushing (redness). Most of the time you can still be given this medicine even if these symptoms occur. If you experience an allergic side effect following administration of this medicine, you should contact your doctor immediately. You may be given additional medicines such as antihistamines and corticosteroids to treat or help prevent allergic-type reactions.
+
+<div style=\"page-break-after: always\"></div>
 
 If severe allergic reactions occur, your doctor will stop the infusion immediately, and start giving you suitable treatment. You may need to stay in hospital.
 
@@ -698,7 +692,7 @@ The nature of your genotype (a genetic make up of all active genes in human cell
 
 ## Keeping a record
 
-In order to improve the traceability of biological medicinal products, the name and batch number of the administered product should be clearly recorded by your healthcare professional. Speak with your healthcare professional if you are not sure.
+In order to improve the traceability of biological medicine, the name and the batch number of the administered product should be clearly recorded by your healthcare professional. Speak with your healthcare professional if you are not sure.
 
 ## Other medicines and Elaprase
 
@@ -718,17 +712,21 @@ This medicine has no or negligible influence on the ability to drive and use mac
 
 This medicine contains 11.1 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 0.6% of the recommended maximum daily dietary intake of sodium for an adult.
 
+## Elaprase contains polysorbate 20
+
+This medicine contains 0.726 mg of polysorbate 20 in each vial which is equivalent to 0.22 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you or your child has any known allergies.
+
 ## 3. How to use Elaprase
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
 
 This medicine will be given to you under the supervision of a doctor or nurse who is knowledgeable in the treatment of Hunter syndrome or other inherited metabolic disorders.
 
-The recommended dose is an infusion of 0.5 mg (half a milligram) for every kg you weigh
-
-<div style=\"page-break-after: always\"></div>
+The recommended dose is an infusion of 0.5 mg (half a milligram) for every kg you weigh.
 
 Elaprase has to be diluted in sodium chloride 9 mg/ml (0.9%) solution for infusion before use. After dilution this medicine is given through a vein (drip feed). The infusion will normally last for 1 to 3 hours and will be given every week.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Use in children and adolescents
 
@@ -750,9 +748,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Most side effects are mild to moderate and associated with the infusion, however some side effects may be serious. Over time the number of these infusion-associated reactions decreases.
 
-If you have problems breathing , with or without bluish skin, tell your doctor straight away and seek immediate medical assistance .
+If you have problems breathing, with or without bluish skin, tell your doctor straight away and seek immediate medical assistance.
 
-Very common side effects (may affect more than 1 in 10 people) are:
+Very common (may affect more than 1 in 10 people):
 
 - Headache
 - Flushing (redness)
@@ -761,9 +759,9 @@ Very common side effects (may affect more than 1 in 10 people) are:
 - Chest pain
 - Hives, rash, itching, redness of the skin
 - Fever
-- Infusion-related reaction (see section entitled 'Warnings and precautions')
+- Infusion-related reaction (see section entitled \"Warnings and precautions\")
 
-Common side effects (may affect up to 1 in 10 people) are:
+Common (may affect up to 1 in 10 people):
 
 - Dizziness, tremor
 - Rapid heartbeat, irregular heartbeat, bluish skin
@@ -773,19 +771,19 @@ Common side effects (may affect up to 1 in 10 people) are:
 - Pain in the joints
 - Infusion-site swelling, swelling of the extremities, facial swelling
 
-Uncommon side effects (may affect up to 1 in 100 people) are:
+Uncommon (may affect up to 1 in 100 people):
 
 - Quickened breathing
 
-Side effects for which frequency is not known (cannot be estimated from available data) are:
+Not known (frequency cannot be estimated from the available data):
 
 - Serious allergic reactions
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Elaprase
 
@@ -793,9 +791,9 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2  C - 8  C)
+Store in a refrigerator (2 °C-8 °C).
 
-Do not freeze
+Do not freeze.
 
 Do not use this medicine if you notice that there is discolouration or presence of foreign particles.
 
@@ -805,11 +803,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Elaprase contains
 
-The active substance is idursulfase, which is a form of the human enzyme iduronate-2-sulfatase. Idursulfase is produced in a human cell line by genetic engineering technology (it involves the introduction of genetic information into human cells in the lab, which will then produce the desired product).
-
-Each vial of Elaprase contains 6 mg of idursulfase. Each ml contains 2 mg of idursulfase.
-
-The other ingredients are Polysorbate 20, sodium chloride, dibasic sodium phosphate, heptahydrate, monobasic sodium phosphate, monohydrate and water for injections.
+- The active substance is idursulfase, which is a form of the human enzyme iduronate-2-sulfatase. Idursulfase is produced in a human cell line by genetic engineering technology (it involves the introduction of genetic information into human cells in the lab, which will then produce the desired product).
+- Each vial of Elaprase contains 6 mg of idursulfase. Each ml contains 2 mg of idursulfase.
+- The other ingredients are polysorbate 20 (E432), sodium chloride, dibasic sodium phosphate heptahydrate, monobasic sodium phosphate monohydrate and water for injections (see section 2 \"Elaprase contains sodium\" and \"Elaprase contains polysorbate 20\").
 
 ## What Elaprase looks like and contents of the pack
 
@@ -821,51 +817,19 @@ Elaprase is supplied in pack sizes of 1, 4 and 10 vials per carton. Not all pack
 
 ## Marketing Authorisation Holder and Manufacturer
 
-## Marketing Authorisation Holder
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68
 
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-<div style=\"page-break-after: always\"></div>
-
-## Manufacturer
-
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-Shire Pharmaceuticals Ireland Limited Block 2 &amp; 3 Miesian Plaza 50 - 58 Baggot Street Lower Dublin 2 Ireland
+Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
-
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+België/Belgique/Belgien Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## България
 
-Такеда България ЕООД Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com
+Такеда България ЕООД
 
-## Česká republika
-
-Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@takeda.com
-
-## Danmark
-
-Takeda Pharma A/S Tlf: +45 46 77 10 10 medinfoEMEA@takeda.com
-
-## Deutschland
-
-Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
-
-## Eesti
-
-Takeda Pharma AS Tel: +372 6177 669 medinfoEMEA@takeda.com
-
-## Ελλάδα
-
-Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com
-
-## España
-
-Takeda Farmacéutica España S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
+Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com
 
 ## Lietuva
 
@@ -875,15 +839,77 @@ Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com
 
 Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
+<div style=\"page-break-after: always\"></div>
+
+## Česká republika
+
+Takeda Pharmaceuticals Czech Republic s.r.o.
+
+Tel: +420 234 722 722
+
+medinfoEMEA@takeda.com
+
+## Danmark
+
+Takeda Pharma A/S Tlf.: +45 46 77 10 10
+
+medinfoEMEA@takeda.com
+
+## Deutschland
+
+Takeda GmbH Tel: +49 (0)800 825 3325
+
+medinfoEMEA@takeda.com
+
+## Eesti
+
+Takeda Pharma OÜ Tel: +372 6177 669
+
+medinfoEMEA@takeda.com
+
+## Ελλάδα
+
+Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800
+
+medinfoEMEA@takeda.com
+
+## España
+
+Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22
+
+medinfoEMEA@takeda.com
+
+## France
+
+Takeda France SAS Tél: + 33 1 40 67 33 00 medinfoEMEA@takeda.com
+
+## Hrvatska
+
+Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com
+
+## Ireland
+
+Takeda Products Ireland Ltd Tel: 1800 937 970 medinfoEMEA@takeda.com
+
+## Ísland
+
+Vistor ehf. Sími: +354 535 7000 medinfoEMEA@takeda.com
+
+## Italia
+
+Takeda Italia S.p.A. Tel: +39 06 502601
+
+medinfoEMEA@takeda.com
+
 ## Magyarország
 
-Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
+Takeda Pharma Kft. Tel.: +36 1 270 7030
+
+medinfoEMEA@takeda.com
 
 ## Malta
 
-Τakeda HELLAS S.A. Tel: +30 210 6387800
-
-medinfoEMEA@takeda.com
+Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
 
 ## Nederland
 
@@ -899,7 +925,9 @@ medinfoEMEA@takeda.com
 
 ## Österreich
 
-Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50 medinfoEMEA@takeda.com
+Takeda Pharma Ges.m.b.H. Tel: +43 (0) 800-20 80 50
+
+medinfoEMEA@takeda.com
 
 ## Polska
 
@@ -907,117 +935,57 @@ Takeda Pharma Sp. z o.o. Tel.: +48223062447
 
 medinfoEMEA@takeda.com
 
-<div style=\"page-break-after: always\"></div>
-
-## France
-
 ## Portugal
 
-Takeda France SAS
-
-Tél: + 33 1 40 67 33 00
-
-medinfoEMEA@takeda.com
-
-Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
-
-## Hrvatska
-
-Takeda Pharmaceuticals Croatia d.o.o.
-
-Tel: +385 1 377 88 96
+Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457
 
 medinfoEMEA@takeda.com
 
 ## România
 
-Takeda Pharmaceuticals SRL
-
-Tel: +40 21 335 03 91
-
-medinfoEMEA@takeda.com
-
-## Ireland
-
-Takeda Products Ireland Ltd
-
-Tel: 1800 937 970
+Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91
 
 medinfoEMEA@takeda.com
 
 ## Slovenija
 
-Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals farmacevtska družba d.o.o.
 
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-medinfoEMEA@takeda.com
+Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
 
 ## Slovenská republika
 
-Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
-
-## Italia
-
-Takeda Italia S.p.A.
-
-Tel: +39 06 502601
+Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600
 
 medinfoEMEA@takeda.com
 
 ## Suomi/Finland
 
-Takeda Oy
-
-Puh/Tel: 0800 774 051
+Takeda Oy Puh/Tel: 0800 774 051
 
 medinfoEMEA@takeda.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 
-Τakeda ΕΛΛΑΣ Α.Ε.
+A.POTAMITIS MEDICARE LTD Τηλ: +357 22583333
 
-Τηλ: +30 210 6387800
-
-medinfoEMEA@takeda.com
-
-## Sverige
-
-Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
+a.potamitismedicare@cytanet.com.cy
 
 ## Latvija
 
-Takeda Latvia SIA
-
-Tel: +371 67840082
-
-medinfoEMEA@takeda.com
-
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd
-
-Tel: +44 (0) 2830 640 902
+Takeda Latvia SIA Tel: +371 67840082
 
 medinfoEMEA@takeda.com
 
 ## This leaflet was last revised in
 
-This medicine has been authorised under 'exceptional circumstances'. This means that because of the rarity of this disease it has been impossible to get complete information on this medicine.
-
-The European Medicines Agency will review any new information on the medicine every year and this leaflet will be updated as necessary.
+This medicine has been authorised under \"exceptional circumstances\". This means that because of the rarity of this disease it has been impossible to get complete information on this medicine. The European Medicines Agency will review any new information on the medicine every year and this leaflet will be updated as necessary.
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
-
-This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
-
-<div style=\"page-break-after: always\"></div>
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -1026,8 +994,10 @@ The following information is intended for healthcare professionals only:
 ## Instructions for use, handling and disposal
 
 1. Calculate the total dose to be administered and number of Elaprase vials needed.
-2. Dilute the total volume of Elaprase concentrate for solution for infusion required in 100 ml of sodium chloride 9 mg/ml (0.9%) solution for infusion . It is recommended to deliver the total volume of the infusion using a 0.2 µm in line filter. Care must be taken to ensure the sterility of the prepared solutions since Elaprase does not contain any preservative or bacteriostatic agent; aseptic technique must be observed. Once diluted, the solution should be mixed gently, but not shaken.
+2. Dilute the total volume of Elaprase concentrate for solution for infusion required in 100 ml of sodium chloride 9 mg/ml (0.9%) solution for infusion. It is recommended to deliver the total volume of the infusion using a 0.2 µm in line filter. Care must be taken to ensure the sterility of the prepared solutions since Elaprase does not contain any preservative or bacteriostatic agent; aseptic technique must be observed. Once diluted, the solution should be mixed gently, but not shaken.
 3. The solution should be inspected visually for particulate matter and discolouration prior to administration. Do not shake.
-4. It is recommended that administration is started as soon as possible. The chemical and physical stability of the diluted solution has been demonstrated for 8 hours at 25°C.
+4. It is recommended that administration is started as soon as possible. The chemical and physical stability of the diluted solution has been demonstrated for 8 hours at 25 °C.
 5. Do not infuse Elaprase concomitantly in the same intravenous line with other medicinal products.
 6. For single use only. Any unused product or waste material should be disposed of in accordance with local requirements.
+
+Sverige Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com

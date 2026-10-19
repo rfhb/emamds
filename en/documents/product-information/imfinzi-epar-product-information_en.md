@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-05-18 10:40:56
+document_datetime: 2026-10-15 15:14:37
 document_pages: 87
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/imfinzi-epar-product-information_en.pdf
 document_name: imfinzi-epar-product-information_en.pdf
 version: success
-processing_time: 77.4435624
-conversion_datetime: 2026-05-22 23:28:34.409948
+processing_time: 85.6297871
+conversion_datetime: 2026-10-19 22:55:13.204906
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -119,10 +117,10 @@ When IMFINZI is administered in combination with other therapeutic agents, refer
 | Combination therapy |                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                            |
 | Resectable NSCLC    | 1 500 mg c in combination with platinum-based chemotherapy every 3 weeks for up to 4 cycles prior to surgery, followed by 1 500 mg monotherapy every 4 weeks for up to 12 cycles after surgery.                                                                                                                                                                                            | Neoadjuvant phase: until disease progression that precludes definitive surgery or unacceptable toxicity. Adjuvant phase: until recurrence, unacceptable toxicity, or a maximum of 12 cycles after surgery. |
 | Metastatic NSCLC    | During platinum chemotherapy: 1 500 mg d in combination with tremelimumab 75 mg d and platinum-based chemotherapy every 3 weeks (21 days) for 4 cycles (12 weeks) Post-platinum chemotherapy: 1 500 mg every 4 weeks as monotherapy and histology-based pemetrexed maintenance e therapy every 4 weeks A fifth dose of tremelimumab 75 mg f,g should be given at week 16 alongside IMFINZI | Until disease progression or unacceptable toxicity                                                                                                                                                         |
-| ES-SCLC             | 1 500 mg h in combination with chemotherapy every 3 weeks (21 days) for 4 cycles, followed by 1 500 mg every                                                                                                                                                                                                                                                                               | Until disease progression or unacceptable toxicity                                                                                                                                                         |
+| ES-SCLC             | 1 500 mg h in combination with chemotherapy every 3 weeks (21 days) for 4 cycles, followed by 1 500 mg every 4 weeks as monotherapy                                                                                                                                                                                                                                                        | Until disease progression or unacceptable toxicity                                                                                                                                                         |
 | BTC                 | 1 500 mg i in combination with chemotherapy every 3 weeks (21 days) up to 8 cycles, followed by 1 500 mg every 4 weeks as monotherapy                                                                                                                                                                                                                                                      | Until disease progression or until unacceptable toxicity                                                                                                                                                   |
-| HCC                 | IMFINZI 1 500 mg j administered in combination with 300 mg j tremelimumab as a single dose at Cycle 1/Day 1, followed by IMFINZI as                                                                                                                                                                                                                                                        | Until disease progression or unacceptable toxicity                                                                                                                                                         |
-| Endometrial Cancer  | 1 120 mgin combination with carboplatin and paclitaxel every 3 weeks (21 days) for a minimum of 4 and up to 6 cycles, followed by IMFINZI 1 500 mg k every 4 weeks as monotherapy (dMMR patients) or in combination with olaparib                                                                                                                                                          | Until disease progression or unacceptable toxicity                                                                                                                                                         |
+| HCC                 | IMFINZI 1 500 mg j administered in combination with 300 mg j tremelimumab as a single dose at Cycle 1/Day 1, followed by IMFINZI as monotherapy every 4 weeks                                                                                                                                                                                                                              | Until disease progression or unacceptable toxicity                                                                                                                                                         |
+| Endometrial Cancer  | 1 120 mg in combination with carboplatin and paclitaxel every 3 weeks (21 days) for a minimum of 4 and up to 6 cycles, followed by IMFINZI 1 500 mg k every 4 weeks as monotherapy (dMMR patients) or in combination with olaparib                                                                                                                                                         | Until disease progression or unacceptable toxicity                                                                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -132,24 +130,25 @@ When IMFINZI is administered in combination with other therapeutic agents, refer
 | MIBC         | 1 500 mg l in combination with chemotherapy every 3 weeks for 4 cycles prior to surgery, followed by 1 500 mg l every 4 weeks as monotherapy for up to 8 cycles after surgery                                                                                                                          | Neoadjuvant phase: until disease progression that precludes definitive surgery or unacceptable toxicity Adjuvant phase: until recurrence, unacceptable toxicity, or a maximum of 8 cycles after surgery                 |
 | GC/GEJC      | 1 500 mg m in combination with FLOT chemotherapy every 4 weeks for up to 2 cycles prior to surgery, followed by 1 500 mg m , with FLOT chemotherapy, every 4 weeks for up to 2 cycles and then as 1 500 mg monotherapy every 4 weeks for up to 10 cycles, for a total of up to 12 cycles after surgery | Neoadjuvant phase: until disease progression that precludes definitive surgery or unacceptable toxicity Adjuvant phase: until progression or recurrence, unacceptable toxicity, or a maximum of 12 cycles after surgery |
 
-a  Patients with a body weight of 30 kg or less must receive weight-based dosing, equivalent to IMFINZI 10 mg/kg every 2 weeks or 20 mg/kg every 4 weeks as monotherapy until weight increases to greater than 30 kg.
+a Patients with a body weight of 30 kg or less must receive weight-based dosing, equivalent to IMFINZI 10 mg/kg every 2 weeks or 20 mg/kg every 4 weeks as monotherapy until weight increases to greater than 30 kg.
 
 b It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
 
-- c  Resectable NSCLC patients with a body weight of 30 kg or less must receive weight-based dosing of IMFINZI at 20 mg/kg. In combination with platinum-based chemotherapy dose at 20 mg/kg every 3 weeks (21 days) prior to surgery, followed by monotherapy at 20 mg/kg every 4 weeks after surgery until weight increases to greater than 30 kg.
-- d  Metastatic NSCLC patients with a body weight of 30 kg or less must receive weight-based dosing, equivalent to IMFINZI 20 mg/kg until weight increases to greater than 30 kg. Patients with a body weight of 34 kg or less must receive weight-based dosing equivalent to tremelimumab 1 mg/kg until weight increases to greater than 34 kg.
-- e  Consider maintenance administration of pemetrexed for patients with non-squamous tumours who received treatment with pemetrexed and carboplatin/cisplatin during the platinum-based chemotherapy stage.
+- c Resectable NSCLC patients with a body weight of 30 kg or less must receive weight-based dosing of IMFINZI at 20 mg/kg. In combination with platinum-based chemotherapy dose at 20 mg/kg every 3 weeks (21 days) prior to surgery, followed by monotherapy at 20 mg/kg every 4 weeks after surgery until weight increases to greater than 30 kg.
+- d Metastatic NSCLC patients with a body weight of 30 kg or less must receive weight-based dosing, equivalent to IMFINZI 20 mg/kg until weight increases to greater than 30 kg. Patients with a body weight of 34 kg or less must receive weight-based dosing equivalent to tremelimumab 1 mg/kg until weight increases to greater than 34 kg.
+- e Consider maintenance administration of pemetrexed for patients with non-squamous tumours who received treatment with pemetrexed and carboplatin/cisplatin during the platinum-based chemotherapy stage.
 - f In the case of dose delay(s), a fifth dose of tremelimumab can be given after Week 16, alongside IMFINZI.
-- g  If patients receive fewer than 4 cycles of platinum-based chemotherapy, the remaining cycles of tremelimumab (up to a total of 5) alongside IMFINZI should be given during the post-platinum chemotherapy phase.
-- h  ES-SCLC patients with a body weight of 30 kg or less must receive weight-based dosing of IMFINZI at 20 mg/kg. In combination with chemotherapy dose every 3 weeks (21 days), followed by 20 mg/kg every 4 weeks as monotherapy until weight increases to greater than 30 kg.
-- i  BTC patients with a body weight of 36 kg or less must receive weight-based dosing of IMFINZI at 20 mg/kg. In combination with chemotherapy dose every 3 weeks (21 days), followed by 20 mg/kg every 4 weeks as monotherapy until weight increases to greater than 36 kg.
-- j  HCC patients with a body weight of 30 kg or less must receive weight-based dosing, equivalent to IMFINZI 20 mg/kg until weight increases to greater than 30 kg. Patients with a body weight of 40 kg or less must receive weight-based dosing, equivalent to tremelimumab 4 mg/kg until weight increases to greater than 40 kg.
-- k  Endometrial cancer patients with a body weight of 30 kg or less during maintenance phase must receive weight-based dosing equivalent to IMFINZI at 20 mg/kg, until weight increases to greater than 30 kg.
-- l  MIBC patients with a body weight of 30 kg or less must receive weight-based dosing of IMFINZI at 20 mg/kg.
+- g If patients receive fewer than 4 cycles of platinum-based chemotherapy, the remaining cycles of tremelimumab (up to a total of 5) alongside IMFINZI should be given during the post-platinum chemotherapy phase.
+- h ES-SCLC patients with a body weight of 30 kg or less must receive weight-based dosing of IMFINZI at 20 mg/kg. In combination with chemotherapy dose every 3 weeks (21 days), followed by 20 mg/kg every 4 weeks as monotherapy until weight increases to greater than 30 kg.
+- i BTC patients with a body weight of 36 kg or less must receive weight-based dosing of IMFINZI at 20 mg/kg. In combination with chemotherapy dose every 3 weeks (21 days), followed by 20 mg/kg every 4 weeks as monotherapy until weight increases to greater than 36 kg.
+- j HCC patients with a body weight of 30 kg or less must receive weight-based dosing, equivalent to IMFINZI 20 mg/kg until weight increases to greater than 30 kg. Patients with a body weight of 40 kg or less must receive weight-based dosing, equivalent to tremelimumab 4 mg/kg until weight increases to greater than 40 kg.
+- k Endometrial cancer patients with a body weight of 30 kg or less during maintenance phase must receive weight-based dosing equivalent to IMFINZI at 20 mg/kg, until weight increases to greater than 30 kg.
+
+l MIBC patients with a body weight of 30 kg or less must receive weight-based dosing of IMFINZI at 20 mg/kg.
 
 <div style=\"page-break-after: always\"></div>
 
-m  GC/GEJC patients with a body weight of 30 kg or less must receive weight-based dosing of IMFINZI at 20 mg/kg.
+m GC/GEJC patients with a body weight of 30 kg or less must receive weight-based dosing of IMFINZI at 20 mg/kg.
 
 Dose escalation or reduction is not recommended. Treatment withholding or discontinuation may be required based on individual safety and tolerability, see Table 2.
 
@@ -217,12 +216,14 @@ Table 2. Treatment modifications for IMFINZI or IMFINZI in combination with othe
 | Other non-immune-mediated adverse reactions | Grade 2 and 3                         | Withhold dose until ≤ Grade 1 or return to baseline |
 | Other non-immune-mediated adverse reactions | Grade 4                               | Permanently discontinue i                           |
 
-- c If AST and ALT are less than or equal to ULN at baseline in patients with liver involvement, withhold or permanently discontinue durvalumab based on recommendations for hepatitis with no liver involvement.
-- d  Permanently discontinue tremelimumab for Grade 3; however, treatment with durvalumab can be resumed once event has resolved.
-- e  Adverse drug reaction is only associated with IMFINZI in combination with tremelimumab.
-- f Permanently discontinue IMFINZI if adverse reaction does not resolve to ≤ Grade 1 within 30 days or if there are signs of respiratory insufficiency.
+- d Permanently discontinue tremelimumab for Grade 3; however, treatment with durvalumab can be resumed once event has resolved.
+
+e Adverse drug reaction is only associated with IMFINZI in combination with tremelimumab.
+
+f Permanently discontinue IMFINZI if adverse reaction does not resolve to ≤ Grade 1 within 30 days or if there are signs of respiratory insufficiency.
+
 - g Includes immune thrombocytopenia, pancreatitis, immune-mediated arthritis, uveitis, cystitis noninfective and polymyalgia rheumatica.
-- h  Adverse drug reaction is only associated when olaparib maintenance treatment is used in combination with IMFINZI, following treatment with IMFINZI in combination with platinum-based chemotherapy.
+- h Adverse drug reaction is only associated when olaparib maintenance treatment is used in combination with IMFINZI, following treatment with IMFINZI in combination with platinum-based chemotherapy.
 - i With the exception of Grade 4 laboratory abnormalities, about which the decision to discontinue should be based on accompanying clinical signs/symptoms and clinical judgment.
 
 Based on the severity of the adverse reaction, IMFINZI and/or tremelimumab should be withheld and corticosteroids administered (refer to section 4.4). After withhold, IMFINZI and/or tremelimumab can be resumed within 12 weeks if the adverse reactions improved to ≤ Grade 1 and the corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day. IMFINZI and tremelimumab should be permanently discontinued for recurrent Grade 3 (severe) immune-mediated adverse reactions and for any Grade 4 (life-threatening) immune-mediated adverse reactions, except for endocrinopathies that are controlled with replacement hormones.
@@ -359,7 +360,9 @@ Patients should be monitored for signs and symptoms of infusion-related reaction
 
 In patients with pre-existing autoimmune disease (AID), data from observational studies suggest an increased risk of immune-related adverse reactions following immune-checkpoint inhibitor therapy as compared with patients without pre-existing AID. In addition, flares of the underlying AID were frequent, but the majority were mild and manageable.
 
-## Disease-specific precaution (BTC) Cholangitis and biliary tract infections
+## Disease-specific precaution (BTC)
+
+## Cholangitis and biliary tract infections
 
 Cholangitis and biliary tract infections are not uncommon in patients with advanced BTC. Cholangitis events were reported in TOPAZ-1 in both treatment groups (14.5% [IMFINZI + chemotherapy] vs. 8.2% [placebo + chemotherapy]); these were mostly in association with biliary stents and were not immune-mediated in aetiology. Patients with BTC (especially those with biliary stents) should be closely monitored for development of cholangitis or biliary tract infections before initiation of treatment and, regularly, thereafter.
 
@@ -515,11 +518,9 @@ Table 3. Adverse drug reactions in patients treated with IMFINZI
 | Very common                                     | Cough/Productive Cough                                                                         | Cough/Productive Cough                                                                        | Cough/Productive cough, Dyspnoea i,v                            |
 | Common                                          | Pneumonitis c,w , Dysphonia                                                                    | Pneumonitis c,w , Dysphonia                                                                   | Pneumonitis, Dysphonia                                          |
 | Uncommon                                        | Interstitial lung disease                                                                      | Interstitial lung disease c , Pulmonary embolism s                                            | Interstitial lung disease                                       |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                     |                                                                                               |                                                                 |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                     | Gastrointestinal disorders                                                                    | Gastrointestinal disorders                                      |
 
 <div style=\"page-break-after: always\"></div>
-
-,
 
 |                                                      | IMFINZI as monotherapy                                                                           | IMFINZI in combination with chemotherapy                                      | Platinum-based chemotherapy + IMFINZI + olaparib *                                    |
 |------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -527,36 +528,28 @@ Table 3. Adverse drug reactions in patients treated with IMFINZI
 | Common                                               |                                                                                                  | Stomatitis y , Colitis z                                                      | Dyspepsia i , Colitis z                                                               |
 | Uncommon                                             | Colitis c,z , Pancreatitis aa                                                                    | Pancreatitis aa , Pancreatic exocrine insufficiency                           |                                                                                       |
 | Rare                                                 | Coeliac disease q , Pancreatic exocrine insufficiency                                            | Coeliac disease q                                                             |                                                                                       |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                          |                                                                               |                                                                                       |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                          | Hepatobiliary disorders                                                       | Hepatobiliary disorders                                                               |
 | Very common                                          |                                                                                                  | Aspartate aminotransferase increased or Alanine aminotransferase increased bb | Aspartate aminotransferase increased or Alanine aminotransferase increased            |
 | Common                                               | Hepatitis c,cc , Aspartate aminotransferase increased or Alanine aminotransferase increased c,bb | Hepatitis c,cc                                                                |                                                                                       |
 | Uncommon                                             |                                                                                                  |                                                                               | Hepatitis cc                                                                          |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                           |                                                                               |                                                                                       |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                           | Skin and subcutaneous tissue disorders                                        | Skin and subcutaneous tissue disorders                                                |
 | Very common                                          | Rash dd , Pruritus                                                                               | Rash dd , Alopecia, Pruritus                                                  | Rash dd , Alopecia h , Pruritus                                                       |
 | Common                                               | Night sweats                                                                                     | Dermatitis                                                                    | Dermatitis ee                                                                         |
 | Uncommon                                             | Dermatitis, Psoriasis, Pemphigoid ff                                                             | Pemphigoid ff , Night sweats, Psoriasis                                       | Night sweats                                                                          |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                  |                                                                               |                                                                                       |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                  | Musculoskeletal and connective tissue disorders                               | Musculoskeletal and connective tissue disorders                                       |
 | Very common                                          | Arthralgia                                                                                       | Arthralgia                                                                    | Arthralgia h , Myalgia                                                                |
 | Common                                               | Myalgia                                                                                          | Myalgia                                                                       |                                                                                       |
 | Uncommon                                             | Myositis gg , Immune- mediated arthritis hh                                                      | Immune-mediated arthritis hh , Myositis gg                                    | Myositis                                                                              |
 | Rare                                                 | Polymyositis ii , Polymyalgia rheumatica                                                         | Polymyalgia rheumatica jj                                                     | Polymyalgia rheumatica jj                                                             |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                      |                                                                               |                                                                                       |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                                      | Renal and urinary disorders                                                   | Renal and urinary disorders                                                           |
 | Very common                                          |                                                                                                  |                                                                               | Blood creatinine increased                                                            |
 | Common                                               | Blood creatinine increased, Dysuria                                                              | Blood creatinine increased, Dysuria                                           | Dysuria                                                                               |
 | Uncommon                                             | Nephritis kk , Cystitis noninfective                                                             | Cystitis noninfective, Nephritis kk                                           | Cystitis noninfective h                                                               |
-| General disorders and administration site conditions | General disorders and administration site conditions                                             | General disorders and administration site conditions                          |                                                                                       |
+| General disorders and administration site conditions | General disorders and administration site conditions                                             | General disorders and administration site conditions                          | General disorders and administration site conditions                                  |
 | Very common                                          | Pyrexia                                                                                          | Pyrexia, Fatigue ll                                                           | Pyrexia, Fatigue h , Peripheral oedema mm                                             |
 | Common                                               | Peripheral oedema mm                                                                             | Peripheral oedema mm                                                          |                                                                                       |
 | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                   | Injury, poisoning and procedural complications                                | Injury, poisoning and procedural complications                                        |
 | Common                                               | Infusion-related reaction nn                                                                     | Infusion-related reaction nn                                                  | Infusion-related reaction                                                             |
-
-Adverse reaction frequencies may not be fully attributed to durvalumab alone but may contain contributions from the underlying disease or from other medicinal products used in a combination.
-
-* overall study of treatment with up to six 21-day cycles with platinum-based chemotherapy in combination with IMFINZI, followed by IMFINZI in combination with olaparib.
-
-a includes laryngitis, nasopharyngitis, peritonsillar abscess, pharyngitis, rhinitis, sinusitis, tonsillitis, tracheobronchitis and upper respiratory tract infection.
-
-b  includes pneumocystis jirovecii pneumonia, pneumonia, pneumonia adenoviral, pneumonia bacterial, pneumonia cytomegaloviral, pneumonia haemophilus, pneumonia pneumococcal, pneumonia streptococcal, candida pneumonia, pneumonia klebsiella, and pneumonia legionella.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -568,17 +561,17 @@ e includes leukopenia and white blood cell count decreased.
 
 f includes neutropenia and neutrophil count decreased.
 
-g  includes thrombocytopenia and platelet count decreased.
+g includes thrombocytopenia and platelet count decreased.
 
-h  adverse reaction only applies to chemotherapy ADRs in the DUO-E study.
+h adverse reaction only applies to chemotherapy ADRs in the DUO-E study.
 
-i  adverse reaction only applies to olaparib ADRs in the DUO-E study.
+i adverse reaction only applies to olaparib ADRs in the DUO-E study.
 
 j includes drug hypersensitivity and hypersensitivity.
 
-k  includes autoimmune hypothyroidism, hypothyroidism, immune-mediated hypothyroidism, blood thyroid stimulating hormone increased.
+k includes autoimmune hypothyroidism, hypothyroidism, immune-mediated hypothyroidism, blood thyroid stimulating hormone increased.
 
-l  includes hyperthyroidism, Grave's disease, immune-mediated hyperthyroidism and blood thyroid stimulating hormone decreased.
+l includes hyperthyroidism, Grave's disease, immune-mediated hyperthyroidism and blood thyroid stimulating hormone decreased.
 
 m includes autoimmune thyroiditis, immune-mediated thyroiditis, thyroiditis, and thyroiditis subacute.
 
@@ -588,23 +581,23 @@ o includes dysgeusia and taste disorder.
 
 p includes encephalitis, encephalitis autoimmune, immune-mediated encephalitis and noninfective encephalitis.
 
-q  events were reported from post-marketing data.
+q events were reported from post-marketing data.
 
-r  includes deep vein thrombosis, embolism, embolism venous, pelvic venous thrombosis, superficial vein thrombosis and thrombosis.
+r includes deep vein thrombosis, embolism, embolism venous, pelvic venous thrombosis, superficial vein thrombosis and thrombosis.
 
-s  adverse reaction only applies to oxaliplatin ADRs in the MATTERHORN study.
+s adverse reaction only applies to oxaliplatin ADRs in the MATTERHORN study.
 
-t  adverse reaction only applies to 5-FU ADRs in the MATTERHORN study.
+t adverse reaction only applies to 5-FU ADRs in the MATTERHORN study.
 
 u includes acute coronary syndrome, acute myocardial infarction, myocardial infarction, myocardial ischaemia, and coronary artery disease.
 
-v  includes dyspnoea and dyspnoea exertional.
+v includes dyspnoea and dyspnoea exertional.
 
-w  includes pneumonitis and immune-mediated lung disease.
+w includes pneumonitis and immune-mediated lung disease.
 
-x  includes abdominal pain, abdominal pain lower, abdominal pain upper and flank pain.
+x includes abdominal pain, abdominal pain lower, abdominal pain upper and flank pain.
 
-y  includes stomatitis and mucosal inflammation.
+y includes stomatitis and mucosal inflammation.
 
 z includes colitis, enteritis, enterocolitis, immune-mediated enterocolitis and proctitis.
 
@@ -614,21 +607,22 @@ aa includes pancreatitis, pancreatitis acute, pancreatitis necrotising and immun
 - cc includes hepatitis, autoimmune hepatitis, hepatitis toxic, hepatitis acute, hepatotoxicity, immune-mediated hepatitis, and hepatic cytolysis.
 - dd includes rash erythematous, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, erythema, eczema and rash.
 
-ee  includes dermatitis and immune-mediated dermatitis.
+ee includes dermatitis and immune-mediated dermatitis.
 
 - ff includes pemphigoid, dermatitis bullous and pemphigus. Reported frequency from completed and ongoingstudies is uncommon.
 
-gg  includes myositis and rhabdomyolysis.
+gg includes myositis and rhabdomyolysis.
 
 hh includes autoimmune arthritis, immune-mediate arthritis, polyarthritis, and rheumatoid arthritis.
 
 - ii polymyositis (fatal) was observed in a patient treated with IMFINZI from an ongoing sponsored clinical study outside of the pooled dataset.
-- jj  not observed in the IMFINZI+Chemotherapy pool or the platinum-based chemotherapy+IMFINZI+olaparib dataset, but observed in other AstraZeneca-sponsored clinical studies.
-- kk includes autoimmune nephritis, tubulointerstitial nephritis, nephritis, glomerulonephritis, glomerulonephritis membranous, and immune-mediated nephritis.
+- jj not observed in the IMFINZI+Chemotherapy pool or the platinum-based chemotherapy+IMFINZI+olaparib dataset, but observed in other AstraZeneca-sponsored clinical studies.
+
+kk includes autoimmune nephritis, tubulointerstitial nephritis, nephritis, glomerulonephritis, glomerulonephritis membranous, and immune-mediated nephritis.
 
 ll includes fatigue and asthenia.
 
-mm  includes oedema peripheral and peripheral swelling.
+mm includes oedema peripheral and peripheral swelling.
 
 nn includes infusion-related reaction and urticaria with onset on the day of dosing or 1 day after dosing.
 
@@ -671,7 +665,7 @@ Table 4. Adverse drug reactions in patients treated with IMFINZI in combination 
 | Very common                                      | Nausea d , Diarrhoea, Constipation d , Vomiting d                                                   | Diarrhoea, Abdominal pain r                                                                              |
 | Common                                           | Stomatitis d,s , Amylase increased, Abdominal pain r , Lipase increased, Colitis t , Pancreatitis u | Lipase increased, Amylase increased, Colitis t , Pancreatitis u                                          |
 | Rare                                             | Coeliac disease n                                                                                   | Coeliac disease h                                                                                        |
-| Not known                                        | Intestinal perforation n , Large intestine perforation n Intestinal perforation                     | perforation h , Large intestinal h                                                                       |
+| Not known                                        | Intestinal perforation n , Large intestine perforation n                                            | Intestinal perforation h , Large intestinal perforation h                                                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -699,35 +693,38 @@ Table 4. Adverse drug reactions in patients treated with IMFINZI in combination 
 | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                    | Injury, poisoning and procedural complications                                  |
 | Common                                               | Infusion-related reaction cc                                                      | Infusion-related reaction cc                                                    |
 
-- b  Includes pneumocystis jirovecii pneumonia, pneumonia and pneumonia bacterial.
+- b Includes pneumocystis jirovecii pneumonia, pneumonia and pneumonia bacterial.
 - c Includes periodontitis, pulpitis dental, tooth abscess and tooth infection.
-- d  Adverse reaction only applies to chemotherapy ADRs in the POSEIDON study.
+- d Adverse reaction only applies to chemotherapy ADRs in the POSEIDON study.
 - e Includes neutropenia and neutrophil count decreased.
-- f  Includes platelet count decreased and thrombocytopenia.
+- f Includes platelet count decreased and thrombocytopenia.
 - g Includes leukopenia and white blood cell count decreased.
-- h  Adverse reaction was not observed in the HCC pool, but was reported in patients treated with IMFINZI or IMFINZI+tremelimumab in AstraZeneca-sponsored clinical studies.
-- i  Includes blood thyroid stimulating hormone increased, hypothyroidism and immune-mediated hypothyroidism.
-- j  Includes blood thyroid stimulating hormone decreased and hyperthyroidism.
-- k Includes autoimmune thyroiditis, immune-mediated thyroiditis, thyroiditis and thyroiditis subacute.
-- l Includes neuropathy peripheral, paraesthesia and peripheral sensory neuropathy.
-- m  Includes encephalitis and encephalitis autoimmune.
-- n  Adverse reaction was not observed in the POSEIDON study but was reported in patients treated with IMFINZI or IMFINZI+tremelimumab in clinical studies outside of the POSEIDON dataset.
-- o  Reported in studies outside of the POSEIDON study and HCC pool.
-- p  Includes autoimmune myocarditis.
-- q  Includes immune-mediated pneumonitis and pneumonitis.
-- r  Includes abdominal pain, abdominal pain lower, abdominal pain upper and flank pain.
-- s  Includes mucosal inflammation and stomatitis.
+- h Adverse reaction was not observed in the HCC pool, but was reported in patients treated with IMFINZI or IMFINZI+tremelimumab in AstraZeneca-sponsored clinical studies.
+- i Includes blood thyroid stimulating hormone increased, hypothyroidism and immune-mediated hypothyroidism.
+- j Includes blood thyroid stimulating hormone decreased and hyperthyroidism.
+
+k Includes autoimmune thyroiditis, immune-mediated thyroiditis, thyroiditis and thyroiditis subacute.
+
+l Includes neuropathy peripheral, paraesthesia and peripheral sensory neuropathy.
+
+- m Includes encephalitis and encephalitis autoimmune.
+- n Adverse reaction was not observed in the POSEIDON study but was reported in patients treated with IMFINZI or IMFINZI+tremelimumab in clinical studies outside of the POSEIDON dataset.
+- o Reported in studies outside of the POSEIDON study and HCC pool.
+- p Includes autoimmune myocarditis.
+- q Includes immune-mediated pneumonitis and pneumonitis.
+- r Includes abdominal pain, abdominal pain lower, abdominal pain upper and flank pain.
+- s Includes mucosal inflammation and stomatitis.
 - t Includes colitis, enteritis and enterocolitis.
 - u Includes autoimmune pancreatitis, pancreatitis and pancreatitis acute.
 - v Includes alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzyme increased and transaminases increased.
 
 <div style=\"page-break-after: always\"></div>
 
-- w  Includes autoimmune hepatitis, hepatitis, hepatocellular injury, hepatotoxicity, hepatitis acute and immunemediated hepatitis.
+- w Includes autoimmune hepatitis, hepatitis, hepatocellular injury, hepatotoxicity, hepatitis acute and immunemediated hepatitis.
 - x Includes eczema, erythema, rash, rash macular, rash maculopapular, rash papular, rash pruritic and rash pustular.
-- y  Includes dermatitis and immune-mediated dermatitis.
-- z  Includes rhabdomyolysis, myositis, and polymyositis.
-- aa  Includes autoimmune nephritis and immune-mediated nephritis.
+- y Includes dermatitis and immune-mediated dermatitis.
+- z Includes rhabdomyolysis, myositis, and polymyositis.
+- aa Includes autoimmune nephritis and immune-mediated nephritis.
 - bb Includes oedema peripheral and peripheral swelling.
 - cc Includes infusion-related reaction and urticaria.
 
@@ -753,11 +750,11 @@ In the PACIFIC Study, (n=475 in the IMFINZI arm, and n=234 in the placebo arm) i
 
 In the ADRIATIC Study, in patients with LS-SCLC (n=262 in the IMFINZI arm, and n=265 in the placebo arm), immune-mediated pneumonitis occurred in 31 (11.8%) patients in the IMFINZI-treated group and 8 (3.0%) patients in the placebo group, including Grade 3 in 5 (1.9%) patients on IMFINZI vs. 1 (0.4%) patient on placebo and Grade 5 (fatal) in 1 (0.4%) patient on IMFINZI. The median time to onset in the IMFINZI-treated group was 55 days (range: 1-375 days) vs. 65.5 days (range: 24-124 days) in the placebo group. In the IMFINZI-treated group all patients received systemic corticosteroids, including 25 patients who received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day) and 1 patient also received infliximab. In the placebo group all patients received systemic corticosteroids, including 7 patients who received high-dose corticosteroid treatment. Resolution occurred for 18 patients in the IMFINZI treated group vs. 3 in placebo.
 
-In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated pneumonitis occurred in 86  (3.8%) patients, including Grade 3 in 30  (1.3%) patients, Grade 4 in 1 (&lt; 0.1%) patient, and Grade 5 (fatal) in 7 (0.3%) patients. The median time to onset was 57 days (range: 8 - 912 days). All patients received systemic corticosteroids and 79 of the 86 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Seven patients also received other immunosuppressants. Treatment was discontinued in 39 patients. Resolution occurred in 51 patients.
+In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated pneumonitis occurred in 86 (3.8%) patients, including Grade 3 in 30 (1.3%) patients, Grade 4 in 1 (&lt; 0.1%) patient, and Grade 5 (fatal) in 7 (0.3%) patients. The median time to onset was 57 days (range: 8 - 912 days). All patients received systemic corticosteroids and 79 of the 86 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Seven patients also received other immunosuppressants. Treatment was discontinued in 39 patients. Resolution occurred in 51 patients.
 
 In the HCC pool (n=462), immune-mediated pneumonitis occurred in 6 (1.3%) patients, including Grade 3 in 1 (0.2%) patient and Grade 5 (fatal) in 1 (0.2%) patient. The median time to onset was 29 days (range: 5-774 days). Six patients received systemic corticosteroids, and 5 of the 6 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). One patient also received other immunosuppressants. Treatment was discontinued in 2 patients. Resolution occurred in 3 patients.
 
-In the DUO-E Study, out of 238 patients treated with platinum-based chemotherapy in combination with IMFINZI, followed by IMFINZI in combination with olaparib (platinum-based chemotherapy + IMFINZI + olaparib arm) immune-mediated pneumonitis occurred in 5  2.1%) patients, including Grade 3 in 3 (1.3%) patients. The median time to onset was 85 days (range: 65-321 days). Five patients received systemic corticosteroids, including 4 patients who received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Resolution occurred in all 5 patients.
+In the DUO-E Study, out of 238 patients treated with platinum-based chemotherapy in combination with IMFINZI, followed by IMFINZI in combination with olaparib (platinum-based chemotherapy + IMFINZI + olaparib arm) immune-mediated pneumonitis occurred in 5 2.1%) patients, including Grade 3 in 3 (1.3%) patients. The median time to onset was 85 days (range: 65-321 days). Five patients received systemic corticosteroids, including 4 patients who received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Resolution occurred in all 5 patients.
 
 ## Immune-mediated hepatitis
 
@@ -773,7 +770,7 @@ In the HCC pool (n=462), immune-mediated hepatitis occurred in 34 (7.4%) patient
 
 In the combined safety database with IMFINZI monotherapy, immune-mediated colitis or diarrhoea occurred in 79 (1.7%) patients, including Grade 3 in 15 (0.3%) patients and Grade 4 in 2 (&lt; 0.1%) patients. The median time to onset was 72 days (range: 1-920 days). Fifty-five of the 79 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Five patients also received other immunosuppressants including infliximab treatment and mycophenolate. IMFINZI was discontinued in 15 patients. Resolution occurred in 54 patients.
 
-In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated colitis or diarrhoea occurred in 167 (7.3%) patients, including Grade 3 in 76  (3.3%) patients and Grade 4 in 3 (0.1%) patients. The median time to onset was 57 days range: 3-906 days). All patients received systemic corticosteroids and 151 of the 167 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Twenty-two patients also received other immunosuppressants. Treatment was discontinued in 54 patients. Resolution occurred in 141 patients.
+In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated colitis or diarrhoea occurred in 167 (7.3%) patients, including Grade 3 in 76 (3.3%) patients and Grade 4 in 3 (0.1%) patients. The median time to onset was 57 days range: 3-906 days). All patients received systemic corticosteroids and 151 of the 167 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Twenty-two patients also received other immunosuppressants. Treatment was discontinued in 54 patients. Resolution occurred in 141 patients.
 
 Intestinal perforation and large intestine perforation were uncommonly reported in patients receiving IMFINZI in combination with tremelimumab.
 
@@ -823,7 +820,7 @@ In the HCC pool (n=462), immune-mediated adrenal insufficiency occurred in 6 (1.
 
 In the combined safety database with IMFINZI monotherapy, immune-mediated type 1 diabetes mellitus occurred in 5 (0.1%) patients, including Grade 3 in 3 (0.1%) patients and Grade 4 in 1 (&lt; 0.1%) patient. The time to onset was 43 days (range: 29-631 days). All five patients required insulin therapy. IMFINZI was permanently discontinued in one patient. One patient recovered and one patient recovered with sequelae.
 
-In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated type 1 diabetes mellitus occurred in 6 (0.3%) patients, including Grade 3 in 1 (&lt; 0.1%) patient and Grade 4 in 2  (&lt; 0.1%) patients. The median time to onset was 58 days (range: 7-220 days). All patients required insulin. Treatment was discontinued for 1 patient. Resolution occurred in 1 patient.
+In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated type 1 diabetes mellitus occurred in 6 (0.3%) patients, including Grade 3 in 1 (&lt; 0.1%) patient and Grade 4 in 2 (&lt; 0.1%) patients. The median time to onset was 58 days (range: 7-220 days). All patients required insulin. Treatment was discontinued for 1 patient. Resolution occurred in 1 patient.
 
 ## Immune mediated hypophysitis/hypopituitarism
 
@@ -957,9 +954,9 @@ In the 2 treatment arms, patients received one of the following histology-based 
 - Squamous NSCLC
 - o Cisplatin + gemcitabine: cisplatin 75 mg/m 2 via IV infusion on Day 1 of each 3-week cycle, for 4 cycles, and gemcitabine 1250 mg/m2 via IV infusion on Day 1 and Day 8 of each 3-week cycle, for 4 cycles.
 - Non-squamous NSCLC
-- o Pemetrexed + cisplatin: pemetrexed 500 mg/m 2  and cisplatin 75 mg/m 2 via IV infusion on Day 1 of each 3-week cycle, for 4 cycles.
+- o Pemetrexed + cisplatin: pemetrexed 500 mg/m 2 and cisplatin 75 mg/m 2 via IV infusion on Day 1 of each 3-week cycle, for 4 cycles.
 - Non-squamous NSCLC
-- o Pemetrexed + carboplatin: pemetrexed 500 mg/m 2  and carboplatin AUC 5 via IV infusion on Day 1 of each 3-week cycle, for 4 cycles.
+- o Pemetrexed + carboplatin: pemetrexed 500 mg/m 2 and carboplatin AUC 5 via IV infusion on Day 1 of each 3-week cycle, for 4 cycles.
 
 In the event of unfavourable tolerability, patients could switch from cisplatin to carboplatin therapy at any point and in patients with comorbidities or unable to tolerate cisplatin per Investigators judgement, carboplatin AUC 5 could be administered from cycle 1.
 
@@ -979,22 +976,22 @@ At the updated (pre-specified) EFS analysis (DCO: 10 May 2024), the median EFS f
 
 Table 5. Efficacy Results for the AEGEAN Study (mITT)
 
-|                                      | IMFINZI + chemotherapy (N=366)   | Placebo + chemotherapy (N=374)   |
-|--------------------------------------|----------------------------------|----------------------------------|
-| EFS a,c                              |                                  |                                  |
-| Number of events, n (%)              | 124 (33.9)                       | 165 (44.1)                       |
-| Median EFS (95% CI) (months)         | NR (42.3, NR)                    | 30 (20.6, NR)                    |
-| Hazard ratio (95% CI)                | 0.69 (0.55, 0.88)                | 0.69 (0.55, 0.88)                |
-| pCR a,b,c                            |                                  |                                  |
-| Number of patients with response     | 63                               | 16                               |
-| Response rate, %(95% CI)             | 17.21 (13.49, 21.48)             | 4.28 (2.46, 6.85)                |
-| Difference in proportions, %(95% CI) | 12.96 (8.67, 17.57)              | 12.96 (8.67, 17.57)              |
+|                                       | IMFINZI + chemotherapy (N=366)   | Placebo + chemotherapy (N=374)   |
+|---------------------------------------|----------------------------------|----------------------------------|
+| EFS a,c                               |                                  |                                  |
+| Number of events, n (%)               | 124 (33.9)                       | 165 (44.1)                       |
+| Median EFS (95% CI) (months)          | NR (42.3, NR)                    | 30 (20.6, NR)                    |
+| Hazard ratio (95% CI)                 | 0.69 (0.55, 0.88)                | 0.69 (0.55, 0.88)                |
+| pCR a,b,c                             |                                  |                                  |
+| Number of patients with response      | 63                               | 16                               |
+| Response rate, % (95% CI)             | 17.21 (13.49, 21.48)             | 4.28 (2.46, 6.85)                |
+| Difference in proportions, % (95% CI) | 12.96 (8.67, 17.57)              | 12.96 (8.67, 17.57)              |
 
-a  Results are based on updated (pre-specified) EFS analysis (DCO: 10 May 2024) and pCR final analysis (DCO: 10 November 2022).
+a Results are based on updated (pre-specified) EFS analysis (DCO: 10 May 2024) and pCR final analysis (DCO: 10 November 2022).
 
-b  Based on a pre-specified pCR interim analysis (DCO: 14 January 2022) in n=402, the pCR rate was statistically significant (p=0.000036) compared to significance level of 0.0082%.
+b Based on a pre-specified pCR interim analysis (DCO: 14 January 2022) in n=402, the pCR rate was statistically significant (p=0.000036) compared to significance level of 0.0082%.
 
-c  The 2-sided p-value for pCR was calculated based on a stratified CMH test. The 2-sided p-value for EFS was calculated based on a stratified log-rank test. Stratification factors included baseline PD-L1 and disease stage. The boundary for declaring statistical significance for each of the efficacy endpoints were determined by a LanDeMets alpha spending function that approximates an O'Brien Fleming approach (EFS=0.9899%, pCR=0.0082%, 2-sided).
+c The 2-sided p-value for pCR was calculated based on a stratified CMH test. The 2-sided p-value for EFS was calculated based on a stratified log-rank test. Stratification factors included baseline PD-L1 and disease stage. The boundary for declaring statistical significance for each of the efficacy endpoints were determined by a LanDeMets alpha spending function that approximates an O'Brien Fleming approach (EFS=0.9899%, pCR=0.0082%, 2-sided).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1030,37 +1027,35 @@ In the 5-year follow-up analysis, with a median follow-up of 34.2 months, IMFINZ
 
 Table 6. Efficacy results for the PACIFIC Study
 
-|                               | Primary analysis a   | Primary analysis a   | 5-year follow-up analysis b   | 5-year follow-up analysis b   |
-|-------------------------------|----------------------|----------------------|-------------------------------|-------------------------------|
-|                               | IMFINZI (n=476)      | Placebo (n=237)      | IMFINZI (n=476)               | Placebo (n=237)               |
-| OS                            |                      |                      |                               |                               |
-| Number of deaths (%)          | 183 (38.4%)          | 116 (48.9%)          | 264 (55.5%)                   | 155 (65.4%)                   |
-| Median (months) (95% CI)      | NR (34.7, NR)        | 28.7 (22.9, NR)      | 47.5 (38.1, 52.9)             | 29.1 (22.1, 35.1)             |
-| HR (95% CI)                   | 0.68 (0.53, 0.87)    | 0.68 (0.53, 0.87)    | 0.72 (0.59, 0.89)             | 0.72 (0.59, 0.89)             |
-| 2- sided p-value              | 0.00251              | 0.00251              |                               |                               |
-| OS at 24 months (%) (95% CI)  | 66.3% (61.7%, 70.4%) | 55.6% (48.9%, 61.3%) | 66.3% (61.8%, 70.4%)          | 55.3% (48.6%, 61.4%)          |
-| p-value                       | 0.005                | 0.005                |                               |                               |
-| OS at 48 months (%) (95% CI)  |                      |                      | 49.7% (45.0%, 54.2%)          | 36.3% (30.1%, 42.6%)          |
-| OS at 60 months (%) (95% CI)  |                      |                      | 42.9% (38.2%, 47.4%)          | 33.4% (27.3%, 39.6%)          |
-| PFS                           |                      |                      |                               |                               |
-| Number of events (%)          | 214 (45.0%)          | 157 (66.2%)          | 268 (56.3%)                   | 175 (73.8%)                   |
-| Median PFS (months) (95% CI)  | 16.8 (13.0, 18.1)    | 5.6 (4.6, 7.8)       | 16.9 (13.0, 23.9)             | 5.6 (4.8, 7.7)                |
-| HR (95% CI)                   | 0.52 (0.42, 0.65)    | 0.52 (0.42, 0.65)    | 0.55 (0.45, 0.68)             | 0.55 (0.45, 0.68)             |
-| p-value                       | p < 0.0001           | p < 0.0001           |                               |                               |
-| PFS at 12 months (%) (95% CI) | 55.9% (51.0%, 60.4%) | 35.3% (29.0%, 41.7%) | 55.7% (51.0%, 60.2%)          | 34.5% (28.3%, 40.8%)          |
-| PFS at 18 months (%) (95% CI) | 44.2% (37.7%, 50.5%) | 27.0% (19.9%, 34.5%) | 49.1% (44.2%, 53.8%)          | 27.5% (21.6%, 33.6%)          |
-| PFS at 48 months (%) (95% CI) |                      |                      | 35.0% (29.9%, 40.1%)          | 19.9% (14.4%, 26.1%)          |
-| PFS at 60 months (%) (95% CI) |                      |                      | 33.1% (28.0%, 38.2%)          | 19.0% (13.6%, 25.2%)          |
-| PFS2 c                        |                      |                      |                               |                               |
-| Median PFS2 (months) (95% CI) | 28.3 (25.1, 34.7)    | 17.1 (14.5, 20.7)    |                               |                               |
-| HR (95% CI)                   | 0.58 (0.46, 0.73)    | 0.58 (0.46, 0.73)    |                               |                               |
+|                               | Primary analysis a - IMFINZI (n=476)   | Primary analysis a - Placebo (n=237)   | 5-year follow-up analysis b - IMFINZI (n=476)   | 5-year follow-up analysis b - Placebo (n=237)   |
+|-------------------------------|----------------------------------------|----------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| OS                            |                                        |                                        |                                                 |                                                 |
+| Number of deaths (%)          | 183 (38.4%)                            | 116 (48.9%)                            | 264 (55.5%)                                     | 155 (65.4%)                                     |
+| Median (months) (95% CI)      | NR (34.7, NR)                          | 28.7 (22.9, NR)                        | 47.5 (38.1, 52.9)                               | 29.1 (22.1, 35.1)                               |
+| HR (95% CI)                   | 0.68 (0.53, 0.87)                      | 0.68 (0.53, 0.87)                      | 0.72 (0.59, 0.89)                               | 0.72 (0.59, 0.89)                               |
+| 2- sided p-value              | 0.00251                                | 0.00251                                |                                                 |                                                 |
+| OS at 24 months (%) (95% CI)  | 66.3% (61.7%, 70.4%)                   | 55.6% (48.9%, 61.3%)                   | 66.3% (61.8%, 70.4%)                            | 55.3% (48.6%, 61.4%)                            |
+| p-value                       | 0.005                                  | 0.005                                  |                                                 |                                                 |
+| OS at 48 months (%) (95% CI)  |                                        |                                        | 49.7% (45.0%, 54.2%)                            | 36.3% (30.1%, 42.6%)                            |
+| OS at 60 months (%) (95% CI)  |                                        |                                        | 42.9% (38.2%, 47.4%)                            | 33.4% (27.3%, 39.6%)                            |
+| PFS                           |                                        |                                        |                                                 |                                                 |
+| Number of events (%)          | 214 (45.0%)                            | 157 (66.2%)                            | 268 (56.3%)                                     | 175 (73.8%)                                     |
+| Median PFS (months) (95% CI)  | 16.8 (13.0, 18.1)                      | 5.6 (4.6, 7.8)                         | 16.9 (13.0, 23.9)                               | 5.6 (4.8, 7.7)                                  |
+| HR (95% CI)                   | 0.52 (0.42, 0.65)                      | 0.52 (0.42, 0.65)                      | 0.55 (0.45, 0.68)                               | 0.55 (0.45, 0.68)                               |
+| p-value                       | p < 0.0001                             | p < 0.0001                             |                                                 |                                                 |
+| PFS at 12 months (%) (95% CI) | 55.9% (51.0%, 60.4%)                   | 35.3% (29.0%, 41.7%)                   | 55.7% (51.0%, 60.2%)                            | 34.5% (28.3%, 40.8%)                            |
+| PFS at 18 months (%) (95% CI) | 44.2% (37.7%, 50.5%)                   | 27.0% (19.9%, 34.5%)                   | 49.1% (44.2%, 53.8%)                            | 27.5% (21.6%, 33.6%)                            |
+| PFS at 48 months (%) (95% CI) |                                        |                                        | 35.0% (29.9%, 40.1%)                            | 19.9% (14.4%, 26.1%)                            |
+| PFS at 60 months (%) (95% CI) |                                        |                                        | 33.1% (28.0%, 38.2%)                            | 19.0% (13.6%, 25.2%)                            |
+| PFS2 c                        |                                        |                                        |                                                 |                                                 |
+| Median PFS2 (months) (95% CI) | 28.3 (25.1, 34.7)                      | 17.1 (14.5, 20.7)                      |                                                 |                                                 |
+| HR (95% CI)                   | 0.58 (0.46, 0.73)                      | 0.58 (0.46, 0.73)                      |                                                 |                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-|         | Primary analysis a   | Primary analysis a   | 5-year follow-up analysis b   | 5-year follow-up analysis b   |
-|---------|----------------------|----------------------|-------------------------------|-------------------------------|
-|         | IMFINZI (n=476)      | Placebo (n=237)      | IMFINZI (n=476)               | Placebo (n=237)               |
-| p-value | p < 0.0001           | p < 0.0001           |                               |                               |
+|         | Primary analysis a - IMFINZI (n=476)   | Primary analysis a - Placebo (n=237)   | 5-year follow-up analysis b - IMFINZI (n=476)   | 5-year follow-up analysis b - Placebo (n=237)   |
+|---------|----------------------------------------|----------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| p-value | p < 0.0001                             | p < 0.0001                             |                                                 |                                                 |
 
 NR: Not Reached
 
@@ -1068,16 +1063,16 @@ Kaplan-Meier curves for OS and PFS from the 5-year follow-up analysis are presen
 
 Figure 2. Kaplan-Meier curve of OS
 
-Time from randomisation (months)
-
 <!-- image -->
+
+Time from randomisation (months)
 
 Number of patients at risk Number of patients at risk The improvements in PFS and OS in favour of patients receiving IMFINZI compared to those receiving placebo were consistently observed in all predefined subgroups analysed, including ethnicity, age, gender, smoking history, EGFR mutation status and histology.
 
-| Month   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 | 45    |   48 |   51 |   54 |   57 | 60 63     |   66 |   69 |   72 75 |
-|---------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|-------|------|------|------|------|-----------|------|------|---------|
-| IMFINZI | 476 | 464 | 431 | 414 |  385 |  364 |  343 |  319 |  298 |  289 |  273 |  264 |  252 |  241 |  236 | 227   |  218 |  207 |  196 |  183 | 134 91 18 |   40 |    2 |       0 |
-| Placebo | 237 | 220 | 199 | 179 |  171 |  156 |  143 |  133 |  123 |  116 |  107 |   99 |   97 |   93 |   91 | 83 78 |   77 |      |   74 |   72 | 56 33 16  |    7 |    2 |       0 |
+| Month   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 | 39 42   | 45      |   48 |   51 |   54 |   57 |     |   60 63 |   66 |   69 |   72 |   75 |
+|---------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|---------|---------|------|------|------|------|-----|---------|------|------|------|------|
+| IMFINZI | 476 | 464 | 431 | 414 |  385 |  364 |  343 |  319 |  298 |  289 |  273 |  264 |  252 | 241     | 236 227 |  218 |  207 |  196 |  183 | 134 |      91 |   40 |   18 |    2 |    0 |
+| Placebo | 237 | 220 | 199 | 179 |  171 |  156 |  143 |  133 |  123 |  116 |  107 |   99 |   97 | 93 91   | 83      |   78 |   77 |   74 |   72 |  56 |      33 |   16 |    7 |    2 |    0 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1085,24 +1080,22 @@ Figure 3. Kaplan-Meier curve of PFS
 
 <!-- image -->
 
-| Month   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 | 45    |   48 |   51 |   54 | 60    | 57   |   63 | 66 69 72   |
-|---------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|-------|------|------|------|-------|------|------|------------|
-| IMFINZI | 476 | 377 | 301 | 267 |  215 |  190 |  165 |  147 |  137 |  128 |  119 |  110 |  103 |   97 |   92 | 85 81 |   78 |   67 |   57 | 34 22 | 11   |      | 5 0        |
-| Placebo | 237 | 164 | 105 |  87 |   68 |   56 |   48 |   41 |   37 |   36 |   30 |   27 |   26 |   25 |   24 | 24 22 |   21 |   19 |   19 | 14    | 6 4  |    1 | 0          |
+| Month   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 |   45 |   48 |   51 |   54 |    | 57 60   |   63 |   66 | 69 72   |
+|---------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|----|---------|------|------|---------|
+| IMFINZI | 476 | 377 | 301 | 267 |  215 |  190 |  165 |  147 |  137 |  128 |  119 |  110 |  103 |   97 |   92 |   85 |   81 |   78 |   67 | 57 | 34      |   22 |   11 | 5 0     |
+| Placebo | 237 | 164 | 105 |  87 |   68 |   56 |   48 |   41 |   37 |   36 |   30 |   27 |   26 |   25 |   24 |   24 |   22 |   21 |   19 | 19 | 14 6    |    4 |    1 | 0       |
 
 ## Post-hoc subgroup analysis by PD-L1 expression
 
 Additional subgroup analyses were conducted to evaluate the efficacy by tumour PD-L1 expression (≥ 25%, 1-24%, ≥ 1%, &lt; 1%) and for patients whose PD-L1 status cannot be established (PD-L1 unknown). PFS and OS results from the 5-year follow-up analysis are summarised in Figures 4, 5, 6 and 7.
 
-| Month   |   0 |   3 |   6 9 |   12 |     |   15 |   18 21 |   24 |     |   27 |   30 |   33 |   36 |   39 42 |   45 |   48 | 51      |   54 57 | 60 63   |   66 |   69 | 72 75   |    |
-|---------|-----|-----|-------|------|-----|------|---------|------|-----|------|------|------|------|---------|------|------|---------|---------|---------|------|------|---------|----|
-| IMFINZI | 212 | 208 |   193 |  186 | 178 |  171 |     165 |  156 | 146 |  141 |  132 |  129 |  124 |     118 |  117 |  114 | 109 105 |     103 | 98 74   |   52 |   29 | 14 1    |  0 |
+| Month   |   0 |   3 |   6 9 |     |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 |   45 |   48 51 |     | 54 57   |   60 63 |    | 66 69   |   72 |   75 |
+|---------|-----|-----|-------|-----|------|------|------|------|------|------|------|------|------|------|------|------|---------|-----|---------|---------|----|---------|------|------|
+| IMFINZI | 212 | 208 |   193 | 186 |  178 |  171 |  165 |  156 |  146 |  141 |  132 |  129 |  124 |  118 |  117 |  114 |     109 | 105 | 103 98  |      74 | 52 | 29 14   |    1 |    0 |
 
 Figure 4. Kaplan-Meier curve of OS for PD-L1 TC ≥ 1%
 
 <!-- image -->
-
-Time from randomisation (months)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1134,23 +1127,6 @@ Time from randomisation (months)
 
 37
 
-Figure 5. Kaplan-Meier curve of PFS for PD-L1 TC ≥ 1%
-
-<!-- image -->
-
-Time from randomisation (months)
-
-Number of patients at risk
-
-| Month   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 | 27    | 30 33   |   36 |   39 |   42 |       |   45 |   48 51 |   54 |   57 |    |   60 | 63   |   66 69 |   72 |
-|---------|-----|-----|-----|-----|------|------|------|------|------|-------|---------|------|------|------|-------|------|---------|------|------|----|------|------|---------|------|
-| IMFINZI | 212 | 175 | 142 | 127 |  107 |   95 |   82 |   70 |   67 | 63 57 | 55      |   50 |   47 |   45 | 42 39 |   38 |         |   34 |   31 | 22 |   15 | 8    |       4 |    0 |
-| Placebo |  91 |  59 |  38 |  34 |   26 |   22 |   19 |   16 |   15 | 15    | 12 11   |   10 |   10 |    9 | 9 9   |    9 |       8 |    8 |    7 |    |    2 | 1 1  |         |    0 |
-
-Figure 6. Forest plot of OS by PD-L1 expression
-
-<!-- image -->
-
 36
 
 33
@@ -1169,21 +1145,35 @@ Figure 6. Forest plot of OS by PD-L1 expression
 
 8
 
-| Events/N (%)    | Events/N (%)    |
-|-----------------|-----------------|
-| IMFINZI         | Placebo         |
-| 264/476 (55.5%) | 155/237 (65.4%) |
-| 103/212 (48.6%) | 56/91 (61.5%)   |
-| 51/115 (44.3%)  | 27/44 (61.4%)   |
-| 52/97 (53.6%)   | 29/47 (61.7%)   |
-| 59/90 (65.6%)   | 35/58 (60.3%)   |
-| 102/174 (58.6%) | 64/88 (72.7%)   |
-
 5
 
 2
 
 0
+
+Figure 5. Kaplan-Meier curve of PFS for PD-L1 TC ≥ 1%
+
+<!-- image -->
+
+Time from randomisation (months)
+
+| Number of patients at risk - Month   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 | 45 48   |   51 |   54 |   57 |   60 |   63 |   66 |   69 |   72 |
+|--------------------------------------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|---------|------|------|------|------|------|------|------|------|
+| IMFINZI                              | 212 | 175 | 142 | 127 |  107 |   95 |   82 |   70 |   67 |   63 |   57 |   55 |   50 |   47 |   45 | 42 39   |   38 |   34 |   31 |   22 |   15 |    8 |    4 |    0 |
+| Placebo                              |  91 |  59 |  38 |  34 |   26 |   22 |   19 |   16 |   15 |   15 |   12 |   11 |   10 |   10 |    9 | 9 9     |    9 |    8 |    8 |    7 |    2 |    1 |    1 |    0 |
+
+Figure 6. Forest plot of OS by PD-L1 expression
+
+<!-- image -->
+
+| Events/N (%) - IMFINZI   | Events/N (%) - Placebo   |
+|--------------------------|--------------------------|
+| 264/476 (55.5%)          | 155/237 (65.4%)          |
+| 103/212 (48.6%)          | 56/91 (61.5%)            |
+| 51/115 (44.3%)           | 27/44 (61.4%)            |
+| 52/97 (53.6%)            | 29/47 (61.7%)            |
+| 59/90 (65.6%)            | 35/58 (60.3%)            |
+| 102/174 (58.6%)          | 64/88 (72.7%)            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1218,11 +1208,11 @@ Patients were randomised 1:1:1 to receive:
 In the 3 treatment arms, patients received one of the following histology-based chemotherapy regimens:
 
 - Non-squamous NSCLC
-- Pemetrexed 500 mg/m 2  with carboplatin AUC 5-6 or cisplatin 75 mg/m 2  every 3 weeks. Unless contraindicated by the investigator, pemetrexed maintenance could be given.
+- Pemetrexed 500 mg/m 2 with carboplatin AUC 5-6 or cisplatin 75 mg/m 2 every 3 weeks. Unless contraindicated by the investigator, pemetrexed maintenance could be given.
 - Squamous NSCLC
-- Gemcitabine 1 000 or 1 250 mg/m 2  on Days 1 and 8 with cisplatin 75 mg/m 2  or carboplatin AUC 5-6 on Day 1 every 3 weeks.
+- Gemcitabine 1 000 or 1 250 mg/m 2 on Days 1 and 8 with cisplatin 75 mg/m 2 or carboplatin AUC 5-6 on Day 1 every 3 weeks.
 - Non-squamous or squamous NSCLC
-- Nab-paclitaxel 100 mg/m 2  on Days 1, 8, and 15 with carboplatin AUC 5-6 on Day 1 every 3 weeks.
+- Nab-paclitaxel 100 mg/m 2 on Days 1, 8, and 15 with carboplatin AUC 5-6 on Day 1 every 3 weeks.
 
 Tremelimumab was given up to a maximum of 5 doses unless there was disease progression or unacceptable toxicity. IMFINZI and histology-based pemetrexed maintenance therapy (when applicable) was continued until disease progression or unacceptable toxicity.
 
@@ -1230,7 +1220,7 @@ Tumour assessments were conducted at Week 6 and Week 12 from the date of randomi
 
 The dual primary endpoints of the study were PFS and OS for IMFINZI + platinum-based chemotherapy vs. platinum-based chemotherapy alone. The key secondary endpoints of the study were PFS and OS for IMFINZI + tremelimumab + platinum-based chemotherapy and platinum-based chemotherapy alone. The secondary endpoints included objective response rate (ORR) and Duration of Response (DoR). PFS, ORR, and DoR, were assessed using BICR according to RECIST v1.1.
 
-The demographics and baseline disease characteristics were well-balanced between study arms. Baseline demographics of the overall study population were as follows: male (76.0%), age ≥ 65 years (47.1%), age ≥ 75 years (11.3%) median age 64 years (range: 27 to 87 years), White (55.9%), Asian (34.6%), Black or African American (2.0%), Other (7.6%), non-Hispanic or Latino (84.2%), current smoker or past-smoker (78.0%), WHO/ECOG PS 0 (33.4%), WHO/ECOG PS 1 (66.5%). Disease characteristics were as follows: Stage IVA (50.0%), Stage IVB (49.6%), histological sub-groups of squamous (36.9%), non-squamous (62.9%), brain metastases (10.5%), PD-L1 expression TC ≥ 50% (28.8%), PD-L1 expression TC &lt; 50% (71.1%).
+The demographics and baseline disease characteristics were well-balanced between study arms. Baseline demographics of the overall study population were as follows: male (76.0%), age ≥ 65 years (47.1%), age ≥ 75 years (11.3%) median age 64 years (range: 27 to 87 years), White (55.9%), Asian (34.6%), Black or African American (2.0%), Other (7.6%), non-Hispanic or Latino (84.2%), current smoker or past-smoker (78.0%), WHO/ECOG PS 0 (33.4%), WHO/ECOG PS 1 (66.5%). Disease characteristics were as follows: Stage IVA (50.0%), Stage IVB (49.6%), histological sub-groups of squamous (36.9%), non-squamous (62.9%), brain metastases (10.5%), PD-L1 expression TC≥ 50% (28.8%), PD-L1 expression TC &lt; 50% (71.1%).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1255,19 +1245,52 @@ Table 7. Efficacy results for the POSEIDON study
 | Partial Response n (%)           | 128 (38.2)                                                         | 81 (24.4)                                    |
 | Median DoR (months) (95% CI) d,e | 9.5 (7.2, NR)                                                      | 5.1 (4.4, 6.0)                               |
 
-NR=Not Reached, CI=Confidence Interval Number of patients at risk Time from randomisation (months)
+NR=Not Reached, CI=Confidence Interval
 
 Figure 8. Kaplan-Meier curve of OS
 
 <!-- image -->
 
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+30
+
+33
+
+36
+
+39
+
+42
+
+45
+
 <div style=\"page-break-after: always\"></div>
 
-| IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   |
-|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-| 338                                                    | 298                                                    | 256                                                    | 217                                                    | 183                                                    | 159                                                    | 137                                                    | 120                                                    | 109                                                    | 95                                                     | 88                                                     | 64                                                     | 41                                                     | 20                                                     | 9 0                                                    |
-| Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            |
-| 337                                                    | 284                                                    | 236                                                    | 204                                                    | 160                                                    | 132                                                    | 111                                                    | 91                                                     | 72                                                     | 62                                                     | 52                                                     | 38                                                     | 21                                                     | 13                                                     | 6 0                                                    |
+|                                                      |                                                      |                                                      |                                                      |                                                      |                                                      |                                                      |                                                      |                                                      |                                                      |                                                      |                                                      |                                                      |                                                      |                                                      |
+|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy |
+| 338                                                  | 298                                                  | 256                                                  | 217                                                  | 183                                                  | 159                                                  | 137                                                  | 120                                                  | 109                                                  | 95                                                   | 88                                                   | 64                                                   | 41                                                   | 20                                                   | 9 0                                                  |
+| Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          |
+| 337                                                  | 284                                                  | 236                                                  | 204                                                  | 160                                                  | 132                                                  | 111                                                  | 91                                                   | 72                                                   | 62                                                   | 52                                                   | 38                                                   | 21                                                   | 13                                                   | 6 0                                                  |
 
 Figure 9. Kaplan-Meier curve of PFS
 
@@ -1284,22 +1307,15 @@ Figure 10 summarises efficacy results of OS by tumour PD-L1 expression in prespe
 
 Figure 10. Forest plot of OS by PD-L1 expression for IMFINZI+tremelimumab+platinum-based chemotherapy vs. platinum-based chemotherapy
 
-<!-- image -->
-
-|              | No of events/patients (%)                         | No of events/patients (%)   |                   |
-|--------------|---------------------------------------------------|-----------------------------|-------------------|
-|              | IMFINZI+tremelimumab +platinum-based chemotherapy | Platinum-based chemotherapy | HR (95% CI)       |
-| All Patients | 251 /338 (74.3%)                                  | 285 /337 (84.6%)            | 0.77 (0.65, 0.92) |
-| PD-L1 ≥ 50%  | 69 /101 (68.3%)                                   | 80 / 97 (82.5%)             | 0.65 (0.47, 0.89) |
-| PD-L1 < 50%  | 182 /237 (76.8%)                                  | 205 /240 (85.4%)            | 0.82 (0.67, 1.00) |
-| PD-L1 ≥ 1%   | 151 /213 (70.9%)                                  | 170 /207 (82.1%)            | 0.76 (0.61, 0.95) |
-| PD-L1 < 1%   | 100 /125 (80.0%)                                  | 115 /130 (88.5%)            | 0.77 (0.58, 1.00) |
+|              | No of events/patients (%) - IMFINZI+tremelimumab +platinum-based chemotherapy   | No of events/patients (%) - Platinum-based chemotherapy   | HR (95% CI)       |
+|--------------|---------------------------------------------------------------------------------|-----------------------------------------------------------|-------------------|
+| All Patients | 251 /338 (74.3%)                                                                | 285 /337 (84.6%)                                          | 0.77 (0.65, 0.92) |
+| PD-L1 ≥ 50%  | 69 /101 (68.3%)                                                                 | 80 / 97 (82.5%)                                           | 0.65 (0.47, 0.89) |
+| PD-L1 < 50%  | 182 /237 (76.8%)                                                                | 205 /240 (85.4%)                                          | 0.82 (0.67, 1.00) |
+| PD-L1 ≥ 1%   | 151 /213 (70.9%)                                                                | 170 /207 (82.1%)                                          | 0.76 (0.61, 0.95) |
+| PD-L1 < 1%   | 100 /125 (80.0%)                                                                | 115 /130 (88.5%)                                          | 0.77 (0.58, 1.00) |
 
 Hazard Ratio (95% CI)
-
-0
-
-0
 
 ## Elderly population
 
@@ -1356,11 +1372,10 @@ Time from randomisation (months)
 
 <div style=\"page-break-after: always\"></div>
 
-| Number of patients at risk   |     |     |     |     |     |     |     |     |     |     |     |     |    |    |    |    |    |    |    |    |    |
-|------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----|----|----|----|----|----|----|----|----|
-|                              |   0 |   3 |   6 |   9 |  12 |  15 |  18 |  21 |  24 |  27 |  30 |  33 | 36 | 39 | 42 | 45 | 48 | 54 | 57 | 60 | 63 |
-| IMFINZI                      | 264 | 261 | 248 | 236 | 223 | 207 | 189 | 183 | 172 | 162 | 141 | 110 | 90 | 68 | 51 | 39 | 27 | 11 |  5 |  1 |  0 |
-| Placebo                      | 266 | 260 | 247 | 231 | 214 | 195 | 175 | 164 | 151 | 143 | 123 |  97 | 80 | 62 | 44 | 31 | 23 |  8 |  5 |  1 |  0 |
+| Number of patients at risk   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 |   45 |   48 | 51 54   |   57 |   60 |   63 |
+|------------------------------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|------|------|---------|------|------|------|
+| IMFINZI                      | 264 | 261 | 248 | 236 |  223 |  207 |  189 |  183 |  172 |  162 |  141 |  110 |   90 |   68 |   51 |   39 |   27 | 19 11   |    5 |    1 |    0 |
+| Placebo                      | 266 | 260 | 247 | 231 |  214 |  195 |  175 |  164 |  151 |  143 |  123 |   97 |   80 |   62 |   44 |   31 |   23 | 19 8    |    5 |    1 |    0 |
 
 Figure 12: Kaplan-Meier Curve of PFS
 
@@ -1368,11 +1383,10 @@ Figure 12: Kaplan-Meier Curve of PFS
 
 Time from randomisation (months)
 
-| Number of patients at risk   |     |     |     |     |     |     |     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|------------------------------|-----|-----|-----|-----|-----|-----|-----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-|                              |   0 |   3 |   6 |   9 |  12 |  15 |  18 | 21 | 24 | 27 | 30 | 33 | 36 | 39 | 42 | 45 | 48 | 51 | 54 | 57 | 60 | 63 |
-| IMFINZI                      | 264 | 212 | 161 | 135 | 113 | 105 | 101 | 98 | 84 | 78 | 51 | 51 | 33 | 21 | 19 | 10 | 10 |  4 |  4 |  0 |  0 |  0 |
-| Placebo                      | 266 | 208 | 146 | 122 | 100 |  88 |  79 | 76 | 71 | 69 | 47 | 47 | 34 | 23 | 22 | 15 | 14 |  5 |  5 |  0 |  0 |  0 |
+| Number of patients at risk   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 |   45 |   48 |   51 | 54   |   57 |   60 |   63 |
+|------------------------------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
+| IMFINZI                      | 264 | 212 | 161 | 135 |  113 |  105 |  101 |   98 |   84 |   78 |   51 |   51 |   33 |   21 |   19 |   10 |   10 |    4 | 4 0  |      |    0 |    0 |
+| Placebo                      | 266 | 208 | 146 | 122 |  100 |   88 |   79 |   76 |   71 |   69 |   47 |   47 |   34 |   23 |   22 |   15 |   14 |    5 | 5    |    0 |    0 |    0 |
 
 ## SCLC - CASPIAN Study
 
@@ -1409,49 +1423,38 @@ The OS results with the planned long-term OS follow-up analysis (DCO: 22 March 2
 
 Table 9. Efficacy Results for the CASPIAN Study
 
-|                                  | Final analysis a                                                       | Final analysis a                                               | Long-term follow-up analysis b                                         | Long-term follow-up analysis b                                 |
-|----------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
-|                                  | Arm 2: IMFINZI + etoposide and either carboplatin or cisplatin (n=268) | Arm 3: etoposide + and either carboplatin or cisplatin (n=269) | Arm 2: IMFINZI + etoposide and either carboplatin or cisplatin (n=268) | Arm 3: etoposide + and either carboplatin or cisplatin (n=269) |
-| OS                               |                                                                        |                                                                |                                                                        |                                                                |
-| Number of deaths (%)             | 210 (78.4)                                                             | 231 (85.9)                                                     | 221 (82.5)                                                             | 248 (92.2)                                                     |
-| Median OS (months) (95% CI)      | 12.9 (11.3, 14.7)                                                      | 10.5 (9.3, 11.2)                                               | 12.9 (11.3, 14.7)                                                      | 10.5 (9.3, 11.2)                                               |
-| HR (95% CI) b,c                  | 0.75 (0.625, 0.910)                                                    | 0.75 (0.625, 0.910)                                            | 0.71 (0.595, 0.858)                                                    | 0.71 (0.595, 0.858)                                            |
-| p-value d                        | 0.0032                                                                 | 0.0032                                                         | 0.0003                                                                 | 0.0003                                                         |
-| OS at 18 months (%) (95% CI)     | 32.0 (26.5, 37.7)                                                      | 24.8 (19.7, 30.1)                                              | 32.0 (26.5, 37.7)                                                      | 24.8 (19.7, 30.1)                                              |
-| OS at 36 months (%) (95% CI)     |                                                                        |                                                                | 17.6 (13.3, 22.4)                                                      | 5.8 (3.4, 9.1)                                                 |
-| PFS                              |                                                                        |                                                                |                                                                        |                                                                |
-| Number of events (%)             | 234 (87.3)                                                             | 236 (87.7)                                                     |                                                                        |                                                                |
-| Median PFS (months) (95% CI)     | 5.1 (4.7, 6.2)                                                         | 5.4 (4.8, 6.2)                                                 |                                                                        |                                                                |
-| HR (95% CI) c                    | 0.80 (0.665, 0.959)                                                    | 0.80 (0.665, 0.959)                                            |                                                                        |                                                                |
-| PFS at 6 months (%) (95% CI)     | 45.4 (39.3, 51.3)                                                      | 45.8 (39.5, 51.9)                                              |                                                                        |                                                                |
-| PFS at 12 months (%) (95% CI)    | 17.9 (13.5, 22.8)                                                      | 5.3 (2.9, 8.8)                                                 |                                                                        |                                                                |
-| ORR n (%) (95% CI) e             | 182 (67.9) (62.0, 73.5)                                                | 156 (58.0) (51.8, 64.0)                                        |                                                                        |                                                                |
-| Complete Response n (%)          | 7 (2.6)                                                                | 2 (0.7)                                                        |                                                                        |                                                                |
-| Partial Response n (%)           | 175 (65.3)                                                             | 154 (57.2)                                                     |                                                                        |                                                                |
-| Median DoR (months) (95% CI) e,f | 5.1 (4.9, 5.3)                                                         | 5.1 (4.8, 5.3)                                                 |                                                                        |                                                                |
-
-a  Final PFS, ORR and DoR analysis at data cut-off 27 January 2020.
-
-b  Long-term follow-up OS analysis at data cut-off 22 March 2021.
-
-c The analysis was performed using the stratified log-rank test, adjusting for planned platinum therapy in Cycle 1 (carboplatin or cisplatin), and using the rank tests of association approach.
-
-d  At the interim analysis (data cut-off 11 March 2019) the OS p-value was 0.0047, which met the boundary for declaring statistical significance of 0.0178 for a 4% overall 2-sided alpha, based on a Lan-DeMets alpha spending function with O'Brien Fleming type boundary with the actual number of events observed.
-
-e  Confirmed Objective Response.
-
-f Post-hoc analysis.
+|                                  | Final analysis a - Arm 2: IMFINZI + etoposide and either carboplatin or cisplatin (n=268)   | Final analysis a - Arm 3: etoposide + and either carboplatin or cisplatin (n=269)   | Long-term follow-up analysis b - Arm 2: IMFINZI + etoposide and either carboplatin or cisplatin (n=268)   | Long-term follow-up analysis b - Arm 3: etoposide + and either carboplatin or cisplatin (n=269)   |
+|----------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| OS                               |                                                                                             |                                                                                     |                                                                                                           |                                                                                                   |
+| Number of deaths (%)             | 210 (78.4)                                                                                  | 231 (85.9)                                                                          | 221 (82.5)                                                                                                | 248 (92.2)                                                                                        |
+| Median OS (months) (95% CI)      | 12.9 (11.3, 14.7)                                                                           | 10.5 (9.3, 11.2)                                                                    | 12.9 (11.3, 14.7)                                                                                         | 10.5 (9.3, 11.2)                                                                                  |
+| HR (95% CI) b,c                  | 0.75 (0.625, 0.910)                                                                         | 0.75 (0.625, 0.910)                                                                 | 0.71 (0.595, 0.858)                                                                                       | 0.71 (0.595, 0.858)                                                                               |
+| p-value d                        | 0.0032                                                                                      | 0.0032                                                                              | 0.0003                                                                                                    | 0.0003                                                                                            |
+| OS at 18 months (%) (95% CI)     | 32.0 (26.5, 37.7)                                                                           | 24.8 (19.7, 30.1)                                                                   | 32.0 (26.5, 37.7)                                                                                         | 24.8 (19.7, 30.1)                                                                                 |
+| OS at 36 months (%) (95% CI)     |                                                                                             |                                                                                     | 17.6 (13.3, 22.4)                                                                                         | 5.8 (3.4, 9.1)                                                                                    |
+| PFS                              |                                                                                             |                                                                                     |                                                                                                           |                                                                                                   |
+| Number of events (%)             | 234 (87.3)                                                                                  | 236 (87.7)                                                                          |                                                                                                           |                                                                                                   |
+| Median PFS (months) (95% CI)     | 5.1 (4.7, 6.2)                                                                              | 5.4 (4.8, 6.2)                                                                      |                                                                                                           |                                                                                                   |
+| HR (95% CI) c                    | 0.80 (0.665, 0.959)                                                                         | 0.80 (0.665, 0.959)                                                                 |                                                                                                           |                                                                                                   |
+| PFS at 6 months (%) (95% CI)     | 45.4 (39.3, 51.3)                                                                           | 45.8 (39.5, 51.9)                                                                   |                                                                                                           |                                                                                                   |
+| PFS at 12 months (%) (95% CI)    | 17.9 (13.5, 22.8)                                                                           | 5.3 (2.9, 8.8)                                                                      |                                                                                                           |                                                                                                   |
+| ORR n (%) (95% CI) e             | 182 (67.9) (62.0, 73.5)                                                                     | 156 (58.0) (51.8, 64.0)                                                             |                                                                                                           |                                                                                                   |
+| Complete Response n (%)          | 7 (2.6)                                                                                     | 2 (0.7)                                                                             |                                                                                                           |                                                                                                   |
+| Partial Response n (%)           | 175 (65.3)                                                                                  | 154 (57.2)                                                                          |                                                                                                           |                                                                                                   |
+| Median DoR (months) (95% CI) e,f | 5.1 (4.9, 5.3)                                                                              | 5.1 (4.8, 5.3)                                                                      |                                                                                                           |                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
+
+Figure 13. Kaplan-Meier curve of OS
+
+<!-- image -->
+
+Time from randomisation (months)
 
 | Number of patients at risk     |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 |   45 |   48 |   51 |
 |--------------------------------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
 | IMFINZI + etoposide + platinum | 268 | 244 | 214 | 177 |  140 |  109 |   85 |   70 |   60 |   54 |   50 |   46 |   39 |   25 |   13 |    3 |    0 |    0 |
 | etoposide + platinum           | 269 | 243 | 212 | 156 |  104 |   82 |   64 |   51 |   36 |   24 |   19 |   17 |   13 |   10 |    3 |    0 |    0 |    0 |
-
-Figure 13. Kaplan-Meier curve of OS
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1482,8 +1485,8 @@ Patients were randomised 1:1 to receive:
 
 <div style=\"page-break-after: always\"></div>
 
-- Arm 1: IMFINZI 1 500 mg administered on Day 1 + gemcitabine 1 000 mg/m 2  and cisplatin 25 mg/m 2  (each administered on Days 1 and 8) every 3 weeks (21 days) for up to 8 cycles, followed by IMFINZI 1 500 mg every 4 weeks until disease progression or unacceptable toxicity, or
-- Arm 2: Placebo administered on Day 1 + gemcitabine 1 000 mg/m 2  and cisplatin 25 mg/m 2 (each administered on Days 1 and 8) every 3 weeks (21 days) for up to 8 cycles, followed by placebo every 4 weeks until disease progression or unacceptable toxicity.
+- Arm 1: IMFINZI 1 500 mg administered on Day 1 + gemcitabine 1 000 mg/m 2 and cisplatin 25 mg/m 2 (each administered on Days 1 and 8) every 3 weeks (21 days) for up to 8 cycles, followed by IMFINZI 1 500 mg every 4 weeks until disease progression or unacceptable toxicity, or
+- Arm 2: Placebo administered on Day 1 + gemcitabine 1 000 mg/m 2 and cisplatin 25 mg/m 2 (each administered on Days 1 and 8) every 3 weeks (21 days) for up to 8 cycles, followed by placebo every 4 weeks until disease progression or unacceptable toxicity.
 
 Tumour assessments were conducted every 6 weeks for the first 24 weeks after the date of randomisation, and then every 8 weeks until confirmed objective disease progression.
 
@@ -1518,17 +1521,16 @@ Table 10. Efficacy Results for the TOPAZ-1 Study a
 <div style=\"page-break-after: always\"></div>
 
 - a Analysis at data cut-off 11 August 2021.
-- b  Calculated using the Kaplan-Meier technique. CI for median derived based on Brookmeyer-Crowley method.
-- c  The analysis for HR was performed using a stratified Cox proportional hazards model and 2-sided p-value is based on a stratified log-rank test, both are adjusted for disease status and primary tumour location.
-- d  At the interim analysis (data cut-off 11 August 2021) the OS p-value was 0.021, which met the boundary for declaring statistical significance of 0.03 for a 4.9% overall 2-sided alpha, based on a Lan-DeMets alpha spending function with O'Brien Fleming type boundary with the actual number of events observed.
-- e  At the interim analysis (data cut-off 11 August 2021) the PFS p-value was 0.001, which met the boundary for declaring statistical significance of 0.0481 for a 4.9% overall 2-sided alpha, based on a Lan-DeMets alpha spending function with Pocock-type boundary with the actual number of events observed.
-- f  Confirmed objective response.
+- b Calculated using the Kaplan-Meier technique. CI for median derived based on Brookmeyer-Crowley method.
+- c The analysis for HR was performed using a stratified Cox proportional hazards model and 2-sided p-value is based on a stratified log-rank test, both are adjusted for disease status and primary tumour location.
+- d At the interim analysis (data cut-off 11 August 2021) the OS p-value was 0.021, which met the boundary for declaring statistical significance of 0.03 for a 4.9% overall 2-sided alpha, based on a Lan-DeMets alpha spending function with O'Brien Fleming type boundary with the actual number of events observed.
+- e At the interim analysis (data cut-off 11 August 2021) the PFS p-value was 0.001, which met the boundary for declaring statistical significance of 0.0481 for a 4.9% overall 2-sided alpha, based on a Lan-DeMets alpha spending function with Pocock-type boundary with the actual number of events observed.
+
+f Confirmed objective response.
 
 An additional planned follow-up analysis of OS (data cut-off 25 Feb 2022) was performed 6.5 months after the interim analysis with an OS maturity of 77%. IMFINZI + chemotherapy continued to demonstrate improved OS vs. chemotherapy alone [HR=0.76, (95% CI: 0.64, 0.91)] and the median follow-up increased to 12 months.
 
 Figure 15: Kaplan-Meier curve of OS, follow-up OS analysis at data cut-off 25 February 2022
-
-<!-- image -->
 
 Number of subjects at risk
 
@@ -1536,19 +1538,13 @@ IMFINZI + Chemotherapy:
 
 Chemotherapy:
 
-36
+<!-- image -->
 
-14
+344 337 329 316 298 282 250 241 222198 187 175 158 138 125 104 92 76 65 53 47 37 29 21 14 11 9 5 3 3 3 2 1 0 0
 
 Figure 16: Kaplan-Meier curve of PFS, inferential (primary) analysis at data cut-off 11 August 2021
 
 <!-- image -->
-
-47
-
-44
-
-33
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1609,11 +1605,11 @@ b Based on stratified Cox-model adjusting for treatment, etiology of liver disea
 
 c Performed using stratified log-rank test adjusting for treatment, etiology of liver disease (HBV vs. HCV vs. others), ECOG (0 vs. 1), and macro-vascular invasion (yes vs. no).
 
-d  Based on a Lan-DeMets alpha spending function with O'Brien Fleming type boundary and the actual number of events observed, the boundary for declaring statistical significance for IMFINZI + tremelimumab 300 mg vs. Sorafenib was 0.0398 (Lan◦and◦DeMets 1983).
+d Based on a Lan-DeMets alpha spending function with O'Brien Fleming type boundary and the actual number of events observed, the boundary for declaring statistical significance for IMFINZI + tremelimumab 300 mg vs. Sorafenib was 0.0398 (Lan◦and◦DeMets 1983).
 
-e  Non-inferiority margin for HR (IMFINZI vs. Sorafenib) is 1.08 using a 95.67% confidence interval based on a Lan-DeMets alpha spending function with O'Brien Fleming type boundary and the actual number of events observed (Lan◦and◦DeMets 1983). P-value based on superiority testing of IMFINZI vs. Sorafenib was 0.0674 and did not reach statistical significance.
+e Non-inferiority margin for HR (IMFINZI vs. Sorafenib) is 1.08 using a 95.67% confidence interval based on a Lan-DeMets alpha spending function with O'Brien Fleming type boundary and the actual number of events observed (Lan◦and◦DeMets 1983). P-value based on superiority testing of IMFINZI vs. Sorafenib was 0.0674 and did not reach statistical significance.
 
-f  Confirmed complete response.
+f Confirmed complete response.
 
 CI=Confidence Interval Time from randomisation (months)
 
@@ -1659,11 +1655,11 @@ In patients with dMMR tumour status, the results are summarised in Table 12 and 
 
 <div style=\"page-break-after: always\"></div>
 
-Table 12 . Efficacy results for the DUO-E Study (Patients with dMMR tumour status)
+Table 12. Efficacy results for the DUO-E Study (Patients with dMMR tumour status)
 
 |                                | Platinum-based chemotherapy + IMFINZI N=46   | Platinum-based chemotherapy N=49   |
 |--------------------------------|----------------------------------------------|------------------------------------|
-| PFS a, b                       |                                              |                                    |
+| PFS a,b                        |                                              |                                    |
 | Number of events (%)           | 15 (32.6)                                    | 25 (51.0)                          |
 | Median PFS (months) (95% CI) c | NR (NR, NR)                                  | 7.0 (6.7, 14.8)                    |
 | HR (95% CI)                    | 0.42 (0.22, 0.80)                            | -                                  |
@@ -1676,10 +1672,10 @@ Table 12 . Efficacy results for the DUO-E Study (Patients with dMMR tumour statu
 | DoR b                          |                                              |                                    |
 | Median DoR (months) (95% CI) c | NR (NR, NR)                                  | 10.5 (4.3, NR)                     |
 
-| Number of patients at risk:           |                                       |                                       |                                       |                                       |                                       |                                       |                                       |                                       |                                       |
-|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
-| Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI | Platinum-based chemotherapy + IMFINZI |
-| Platinum-based chemotherapy           | Platinum-based chemotherapy           | Platinum-based chemotherapy           | Platinum-based chemotherapy           | Platinum-based chemotherapy           | Platinum-based chemotherapy           | Platinum-based chemotherapy           | Platinum-based chemotherapy           | Platinum-based chemotherapy           | Platinum-based chemotherapy           |
+| Number of patients at risk:           |
+|---------------------------------------|
+| Platinum-based chemotherapy + IMFINZI |
+| Platinum-based chemotherapy           |
 
 Figure 19. Kaplan-Meier curve of PFS in DUO-E (Patients with dMMR tumour status)
 
@@ -1695,11 +1691,11 @@ Results in patients with pMMR tumour status are summarised in Table 13 and Figur
 
 At the time of PFS analysis, interim OS data were 29% mature with events in 110 of 383 patients treated with platinum-based chemotherapy + IMFINZI + olaparib and platinum-based chemotherapy.
 
-Table 13 . Efficacy results for the DUO-E Study (Patients with pMMR tumour status)
+Table 13. Efficacy results for the DUO-E Study (Patients with pMMR tumour status)
 
 |                                | Platinum-based chemotherapy + IMFINZI + olaparib N=191   | Platinum-based chemotherapy N=192   |
 |--------------------------------|----------------------------------------------------------|-------------------------------------|
-| PFS a, b                       |                                                          |                                     |
+| PFS a,b                        |                                                          |                                     |
 | Number of events (%)           | 108 (56.5)                                               | 148 (77.1)                          |
 | Median PFS (months) (95% CI) c | 15.0 (12.4, 18.0)                                        | 9.7 (9.2, 10.1)                     |
 | HR (95% CI)                    | 0.57 (0.44, 0.73)                                        | -                                   |
@@ -1716,9 +1712,9 @@ a Investigator assessed.
 
 b Results are based on the first interim analysis (DCO: 12 April 2023).
 
-c  Calculated using the Kaplan-Meier technique.
+c Calculated using the Kaplan-Meier technique.
 
-d  Response: Best objective response as confirmed complete response or partial response. Based on number of patients in treatment group with measurable disease at baseline (N=147 in platinum-based chemotherapy + IMFINZI + olaparib arm, N=156 in platinum-based chemotherapy arm).
+d Response: Best objective response as confirmed complete response or partial response. Based on number of patients in treatment group with measurable disease at baseline (N=147 in platinum-based chemotherapy + IMFINZI + olaparib arm, N=156 in platinum-based chemotherapy arm).
 
 CI=Confidence Interval, HR=Hazard Ratio, NR=Not Reached Among patients with pMMR tumour status, the PFS HRs were 0.44 (95% CI: 0.31, 0.61) in patients with PD-L1 expression positive status (236/383; 62%) and 0.87 (95% CI: 0.59, 1.28) in patients with PD-L1 expression negative status (140/383; 37%), for the platinum-based chemotherapy + IMFINZI + olaparib arm compared to the platinum-based chemotherapy arm. PD-L1 expression positive was defined as tumour area positive (TAP) ≥ 1%.
 
@@ -1728,9 +1724,10 @@ Figure 20. Kaplan-Meier curve of PFS in DUO-E (Patients with pMMR tumour status)
 
 <!-- image -->
 
-| Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   |
-|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-| Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   |
+| Number of patients at risk:                      |
+|--------------------------------------------------|
+| Platinum-based chemotherapy + IMFINZI + olaparib |
+| Platinum-based chemotherapy                      |
 
 ## Muscle invasive bladder cancer (MIBC) - NIAGARA Study
 
@@ -1738,8 +1735,8 @@ NIAGARA was a randomised, open-label, multicentre Phase III study designed to ev
 
 Randomisation was stratified by clinical tumour stage T2N0 vs. &gt; T2N0 (including T2N1, T3, and T4a), renal function (adequate renal function: creatinine clearance [CrCl] ≥ 60 mL/min vs. borderline renal function: CrCl ≥ 40 mL/min to &lt; 60 mL/min), and PD-L1 expression (high vs. low/negative) status. Patients were randomised 1:1 to receive perioperative IMFINZI with neoadjuvant chemotherapy (Arm 1) or neoadjuvant chemotherapy alone (Arm 2):
 
-- Arm 1 (IMFINZI + chemotherapy): IMFINZI 1 500 mg + gemcitabine 1 000 mg/m 2  and cisplatin 70 mg/m 2 every 3 weeks for 4 cycles prior to surgery, followed by IMFINZI 1 500 mg every 4 weeks for up to 8 cycles after surgery, or
-- Arm 2 (Chemotherapy): Gemcitabine 1 000 mg/m 2  and cisplatin 70 mg/m 2 every 3 weeks for 4 cycles prior to surgery, without post-surgery treatment.
+- Arm 1 (IMFINZI + chemotherapy): IMFINZI 1 500 mg + gemcitabine 1 000 mg/m 2 and cisplatin 70 mg/m 2 every 3 weeks for 4 cycles prior to surgery, followed by IMFINZI 1 500 mg every 4 weeks for up to 8 cycles after surgery, or
+- Arm 2 (Chemotherapy): Gemcitabine 1 000 mg/m 2 and cisplatin 70 mg/m 2 every 3 weeks for 4 cycles prior to surgery, without post-surgery treatment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1766,7 +1763,7 @@ Table 14: Efficacy Results for the NIAGARA Study
 | 2-sided p-value d,e              | < 0.0001                         | < 0.0001               |
 | pCR f                            |                                  |                        |
 | Number of patients with response | 180                              | 137                    |
-| Response rate, %(95% CI) g       | 33.8 (29.8, 38.0)                | 25.8 (22.2, 29.8)      |
+| Response rate, % (95% CI) g      | 33.8 (29.8, 38.0)                | 25.8 (22.2, 29.8)      |
 | Odds ratio (95% CI) h            | 1.49 (1.14, 1.96)                | 1.49 (1.14, 1.96)      |
 | 2-sided p-value h                | 0.0038                           | 0.0038                 |
 | OS a                             |                                  |                        |
@@ -1777,13 +1774,13 @@ Table 14: Efficacy Results for the NIAGARA Study
 
 <div style=\"page-break-after: always\"></div>
 
-- c  Based on stratified Cox proportional hazard model with tumour stage [T2N0 vs. &gt; T2N0], renal function [adequate vs. borderline], and PD-L1 status [high vs. low/negative] as stratification factors.
+- c Based on stratified Cox proportional hazard model with tumour stage [T2N0 vs. &gt; T2N0], renal function [adequate vs. borderline], and PD-L1 status [high vs. low/negative] as stratification factors.
 - d Based on stratified log-rank test with tumour stage [T2N0 vs. &gt; T2N0], renal function [adequate vs borderline], and PD-L1 status [high vs low/negative] as stratification factors.
 - e The boundary for declaring statistical significance for the primary efficacy endpoints pCR rate, EFS and the key secondary endpoint OS were determined by a multiple test procedure with an alpha-exhaustive recycling strategy. Alpha allocated to EFS and OS at the interim analysis was based on a Lan-DeMets alpha spending function with O'Brien Fleming approach (pCR = 0.001, EFS = 0.0412, OS = 0.0154, 2-sided).
 
-f  Based on the final analysis of pCR (DCO: 14 Jan 2022).
+f Based on the final analysis of pCR (DCO: 14 Jan 2022).
 
-g  CI was calculated using the Clopper Pearson method.
+g CI was calculated using the Clopper Pearson method.
 
 h Obtained using logistic regression adjusted for the stratification factors (renal function [adequate vs. borderline], tumour stage [T2N0 vs. &gt; T2N0] and PD-L1 status [high vs. low/negative] per IVRS).
 
@@ -1795,13 +1792,119 @@ Figure 21. Kaplan-Meier Curve of EFS
 
 <!-- image -->
 
-172
-
-## Number of patients at risk:
+Number of patients at risk:
 
 IMFINZI+Chemotherapy
 
 Chemotherapy
+
+519
+
+475
+
+454
+
+424
+
+401
+
+386
+
+370
+
+356
+
+348
+
+344
+
+335
+
+330
+
+321
+
+315
+
+312
+
+282
+
+269
+
+255
+
+214
+
+202
+
+180
+
+141
+
+140
+
+115
+
+86
+
+81
+
+32
+
+20
+
+20
+
+498
+
+437
+
+416
+
+381
+
+358
+
+343
+
+328
+
+313
+
+300
+
+296
+
+288
+
+281
+
+273
+
+264
+
+259
+
+228
+
+219
+
+214
+
+177
+
+172
+
+159
+
+132
+
+129
+
+69
+
+62
 
 Figure 22. Kaplan-Meier Curve of OS
 
@@ -1813,57 +1916,147 @@ IMFINZI+Chemotherapy
 
 Chemotherapy
 
+517
+
+505
+
+492
+
+478
+
+468
+
+457
+
+446
+
+440
+
+434
+
+428
+
+423
+
+418
+
+410
+
+408
+
+400
+
+375
+
+349
+
+321
+
+295
+
+271
+
+238
+
+207
+
+182
+
+152
+
+125
+
+96
+
+68
+
+34
+
+21
+
+7
+
+1
+
+0
+
+490
+
+467
+
+450
+
+438
+
+425
+
+413
+
+402
+
+392
+
+383
+
+378
+
+373
+
+368
+
+363
+
 ## Subgroup analysis
 
 In an exploratory analysis by tumour stage, the EFS HR was 0.61 (95% CI: 0.48, 0.78) in the subgroup of patients with clinical stage &gt; T2N0 (N=635) and 0.81 (95% CI: 0.60, 1.10) in the subgroup of patients with clinical stage T2N0 (N=428). The OS HR was 0.67 (95% CI: 0.50, 0.89) in the subgroup
 
-Time from randomisation (months)
+358
 
-358334311
+334 311
+
+281
 
 259
 
-239215
+239
+
+215
 
 194
 
-132
-
-140
-
-129
-
 174
 
-115
+141
 
-152
+113
 
-86
+90
 
-69
-
-125
-
-3
-
-81
-
-b2
-
-68
-
-32
-
-34
+60
 
 38
 
-20
-
 21
 
-20
+10
+
+2
+
+0
+
+24
+
+18
+
+16
+
+1
+
+0
+
+2
+
+0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1901,14 +2094,14 @@ Table 15: Efficacy Results for the MATTERHORN Study
 | Median EFS (months) (95% CI) b | NR (40.7, NR)                         | 32.8 (27.9, NR)                       |
 | HR (95% CI) c                  | 0.71 (0.58, 0.86)                     | 0.71 (0.58, 0.86)                     |
 | 2-sided p-value d,e            | < 0.001                               | < 0.001                               |
-| EFS at 24 months, %(95% CI) b  | 67.4 (62.9, 71.6)                     | 58.5 (53.8, 63.0)                     |
+| EFS at 24 months, % (95% CI) b | 67.4 (62.9, 71.6)                     | 58.5 (53.8, 63.0)                     |
 | OS f                           |                                       |                                       |
 | Number of deaths (%)           | 160 (33.8%)                           | 192 (40.5%)                           |
 | Median OS (95% CI) (months) b  | NR (NR, NR)                           | NR (NR, NR)                           |
 | HR (95% CI) c                  | 0.78 (0.63, 0.96)                     | 0.78 (0.63, 0.96)                     |
 | 2-sided p-value d,g            | 0.021                                 | 0.021                                 |
-| OS at 24 months, %(95% CI) b   | 75.5 (71.4, 79.1)                     | 70.4 (66.0, 74.3)                     |
-| OS at 36 months, %(95% CI) b   | 68.6 (64.2, 72.6)                     | 61.9 (57.3, 66.2)                     |
+| OS at 24 months, % (95% CI) b  | 75.5 (71.4, 79.1)                     | 70.4 (66.0, 74.3)                     |
+| OS at 36 months, % (95% CI) b  | 68.6 (64.2, 72.6)                     | 61.9 (57.3, 66.2)                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1934,7 +2127,7 @@ The safety and efficacy of IMFINZI in combination with tremelimumab in children 
 
 The pharmacokinetics (PK) of durvalumab was assessed for IMFINZI as a single agent, in combination with chemotherapy, in combination with tremelimumab and platinum-based chemotherapy, in combination with tremelimumab and in combination with platinum-based chemotherapy followed by IMFINZI in combination with olaparib.
 
-The PK of durvalumab was studied in 2903 patients with solid tumours with doses ranging from 0.1 to 20 mg/kg administered intravenously once every two, three or four weeks as monotherapy. PK exposure increased more than dose-proportionally (non-linear PK) at doses &lt; 3 mg/kg, and dose proportionally (linear PK) at doses ≥ 3 mg/kg. Steady state was achieved at approximately 16 weeks. Based on population PK analysis that included 1878 patients who received durvalumab monotherapy in the dose range of  ≥ 10 mg/kg every 2 weeks, the geometric mean steady state volume of distribution (Vss) was 5.64 L. Durvalumab clearance (CL) decreased over time resulting in a geometric mean steady state clearance (CLss) of 8.16 ml/h at Day 365; the decrease in CLss was not considered clinically relevant. The terminal half-life (t1/2), based on baseline CL, was approximately 18 days. There was no clinically meaningful difference between the PK of durvalumab as a single agent, in combination with chemotherapy, in combination with tremelimumab and platinum-based chemotherapy, in combination with tremelimumab and in combination with platinum-based chemotherapy followed by IMFINZI in combination with olaparib. The primary elimination pathways of durvalumab are protein catabolism via reticuloendothelial system or target mediated disposition.
+The PK of durvalumab was studied in 2903 patients with solid tumours with doses ranging from 0.1 to 20 mg/kg administered intravenously once every two, three or four weeks as monotherapy. PK exposure increased more than dose-proportionally (non-linear PK) at doses &lt; 3 mg/kg, and dose proportionally (linear PK) at doses ≥ 3 mg/kg. Steady state was achieved at approximately 16 weeks. Based on population PK analysis that included 1878 patients who received durvalumab monotherapy in the dose range of ≥ 10 mg/kg every 2 weeks, the geometric mean steady state volume of distribution (Vss) was 5.64 L. Durvalumab clearance (CL) decreased over time resulting in a geometric mean steady state clearance (CLss) of 8.16 ml/h at Day 365; the decrease in CLss was not considered clinically relevant. The terminal half-life (t1/2), based on baseline CL, was approximately 18 days. There was no clinically meaningful difference between the PK of durvalumab as a single agent, in combination with chemotherapy, in combination with tremelimumab and platinum-based chemotherapy, in combination with tremelimumab and in combination with platinum-based chemotherapy followed by IMFINZI in combination with olaparib. The primary elimination pathways of durvalumab are protein catabolism via reticuloendothelial system or target mediated disposition.
 
 ## Special populations
 
@@ -1956,9 +2149,7 @@ The PK of durvalumab in combination with tremelimumab was evaluated in a study o
 
 ## 5.3 Preclinical safety data
 
-Carcinogenicity and mutagenicity
-
-The carcinogenic and genotoxic potential of durvalumab has not been evaluated.
+Carcinogenicity and mutagenicity The carcinogenic and genotoxic potential of durvalumab has not been evaluated.
 
 ## Reproductive toxicology
 
@@ -2016,7 +2207,7 @@ IMFINZI is supplied as a single-dose vial and does not contain any preservatives
 - Withdraw the required volume from the vial(s) of IMFINZI and transfer into an intravenous (IV) bag containing sodium chloride 9 mg/ml (0.9%) solution for injection, or glucose 50 mg/ml (5%) solution for injection. Mix diluted solution by gentle inversion. The final concentration of the diluted solution should be between 1 mg/ml and 15 mg/ml. Do not freeze or shake the solution.
 - Discard any unused portion left in the vial.
 
-## Administration
+Administration
 
 - Administer the infusion solution intravenously over 1 hour through an intravenous line containing a sterile, low-protein binding 0.2 or 0.22 micron in-line filter.
 - Do not co-administer other medicinal products through the same infusion line.
@@ -2027,11 +2218,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-SE-151 85 Södertälje
+AstraZeneca AB SE-151 85 Södertälje
 
-AstraZeneca AB Sweden
+Sweden
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/18/1322/002 120 mg vial EU/1/18/1322/001 500 mg vial
 
@@ -2045,17 +2236,23 @@ Date of latest renewal: 24 April 2023
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
+68
+
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND
+
+## MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND
+
+## EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2071,7 +2268,9 @@ Boehringer Ingelheim Pharma GmbH &amp; Co. KG Birkendorfer Strasse 65 88397 Bibe
 
 Name and address of the manufacturers responsible for batch release
 
-AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
+AstraZeneca AB Gärtunavägen SE-152 57 Södertälje
+
+Sweden
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -2079,13 +2278,13 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-- Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -2100,10 +2299,10 @@ An updated RMP should be submitted:
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Due date                                                                |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| Post-authorisation efficacy study (PAES): In order to further characterise the long-term efficacy of durvalumab in combination with carboplatin and paclitaxel for the first line treatment of adults with primary advanced or recurrent endometrial cancer who are candidates for systemic therapy, followed by maintenance treatment with durvalumab as monotherapy in endometrial cancer that is mismatch repair deficient (dMMR) or in combination with olaparib in endometrial cancer that is mismatch repair proficient (pMMR), the MAHshould submit the results of the second interim OS analysis and the final OS analysis from study D9311C00001 (DUO-E), a phase III randomised double-blind placebo-controlled multicentre study. | Second interim OS analysis: March 2027 Final OS analysis: November 2028 |
-| Post-authorisation efficacy study (PAES): In order to further characterise the long-term efficacy of IMFINZI in combination with platinum-based chemotherapy as neoadjuvant treatment, followed by IMFINZI as monotherapy as adjuvant treatment, for the treatment of adults with resectable NSCLC at high risk of recurrence, the MAHshould submit the results of the final OS analysis from the study D9106C00001 (AEGEAN), a phase III, double-blind, placebo-controlled multicentre international study.                                                                                                                                                                                                                                 | Final OS analysis: Q2 2029                                              |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Due date                                                                |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Post-authorisation efficacy study (PAES): In order to further characterise the long-term efficacy of durvalumab in combination with carboplatin and paclitaxel for the first line treatment of adults with primary advanced or recurrent endometrial cancer who are candidates for systemic therapy, followed by maintenance treatment with durvalumab as monotherapy in endometrial cancer that is mismatch repair deficient (dMMR) or in combination with olaparib in endometrial cancer that is mismatch repair proficient (pMMR), the MAH should submit the results of the second interim OS analysis and the final OS analysis from study D9311C00001 (DUO-E), a phase III randomised double-blind placebo-controlled multicentre study. | Second interim OS analysis: March 2027 Final OS analysis: November 2028 |
+| Post-authorisation efficacy study (PAES): In order to further characterise the long-term efficacy of IMFINZI in combination with platinum-based chemotherapy as neoadjuvant treatment, followed by IMFINZI as monotherapy as adjuvant treatment, for the treatment of adults with resectable NSCLC at high risk of recurrence, the MAH should submit the results of the final OS analysis from the study D9106C00001 (AEGEAN), a phase III, double-blind, placebo-controlled multicentre international study.                                                                                                                                                                                                                                 | Final OS analysis: Q2 2029                                              |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2113,7 +2312,7 @@ The MAH shall complete, within the stated timeframe, the below measures:
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2123,7 +2322,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-IMFINZI 50 mg/ml concentrate for solution for infusion durvalumab
+IMFINZI 50 mg/ml concentrate for solution for infusion
+
+durvalumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2165,6 +2366,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -2177,9 +2380,11 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB Sweden
+AstraZeneca AB
 
 SE-151 85 Södertälje
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2193,7 +2398,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2209,33 +2414,39 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 IMFINZI 50 mg/ml sterile concentrate durvalumab IV
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 120 mg/2.4 ml 500 mg/10 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 AstraZeneca AB
 
@@ -2273,7 +2484,10 @@ IMFINZI contains the active substance durvalumab which is a monoclonal antibody,
 IMFINZI is used to treat a type of lung cancer called non-small cell lung cancer (NSCLC) in adults. It is used alone when your NSCLC:
 
 - has spread within your lung and cannot be removed by surgery, and
-- has responded or stabilised after initial treatment with chemotherapy and radiotherapy. It is used in combination with tremelimumab and chemotherapy when your NSCLC:
+- has responded or stabilised after initial treatment with chemotherapy and radiotherapy.
+
+It is used in combination with tremelimumab and chemotherapy when your NSCLC:
+
 - has spread within both your lungs (and/or to other parts of the body), cannot be removed by surgery and
 - has shown no changes (mutations) in genes called EGFR (epidermal growth factor receptor) or ALK (anaplastic lymphoma kinase).
 
@@ -2321,7 +2535,7 @@ When IMFINZI is given in combination with other anti-cancer medicines, it is imp
 
 ## You should not be given IMFINZI
 
-- if you are allergic to durvalumab or any of the other ingredients of this medicine (listed in section 6 'Contents of the pack and other information'). Talk to your doctor if you are not sure.
+- if you are allergic to durvalumab or any of the other ingredients of this medicine (listed in section 6 \"Contents of the pack and other information\"). Talk to your doctor if you are not sure.
 
 ## Warnings and precautions
 
@@ -2338,26 +2552,26 @@ When you are given IMFINZI, you can have some serious side effects.
 
 If you have any of the following, call or see your doctor straight away. Your doctor may give you other medicines that prevent more severe complications and to help reduce your symptoms. Your doctor may delay the next dose of IMFINZI or stop your treatment with IMFINZI, if you have:
 
-- inflammation of the lungs : symptoms may include new or worsening cough, shortness of breath or chest pain;
+- inflammation of the lungs: symptoms may include new or worsening cough, shortness of breath or chest pain;
 
 <div style=\"page-break-after: always\"></div>
 
-- inflammation of the liver : symptoms may include nausea or vomiting, feeling less hungry, pain on the right side of your stomach, yellowing of skin or whites of eyes, drowsiness, dark urine or bleeding or bruising more easily than normal;
-- inflammation of the intestines : symptoms may include diarrhoea or more bowel movements than usual, or stools that are black, tarry or sticky with blood or mucus, severe stomach pain or tenderness, hole in the bowel;
+- inflammation of the liver: symptoms may include nausea or vomiting, feeling less hungry, pain on the right side of your stomach, yellowing of skin or whites of eyes, drowsiness, dark urine or bleeding or bruising more easily than normal;
+- inflammation of the intestines: symptoms may include diarrhoea or more bowel movements than usual, or stools that are black, tarry or sticky with blood or mucus, severe stomach pain or tenderness, hole in the bowel;
 - inflammation of glands (especially the thyroid, adrenal, pituitary and pancreas): symptoms may include fast heart rate, extreme tiredness, weight gain or weight loss, dizziness or fainting, hair loss, feeling cold, constipation, headaches that will not go away or unusual headaches, abdominal pain, nausea and vomiting;
-- type 1 diabetes : symptoms may include high blood sugar, feeling more hungry or thirsty than usual, passing urine more often than usual, fast and deep breathing, confusion, or a sweet smell to your breath, a sweet or metallic taste in your mouth or a different odour to your urine or sweat;
-- inflammation of the kidneys : symptoms may include decrease in the amount of urine you pass;
-- inflammation of the skin : symptoms may include rash, itching, skin blistering or ulcers in the mouth or on other moist surfaces;
-- inflammation of the heart muscle : symptoms may include chest pain, shortness of breath, or irregular heartbeat;
-- inflammation or problems of the muscles : symptoms may include muscle pain, stiffness or weakness or rapid fatigue of the muscles;
+- type 1 diabetes: symptoms may include high blood sugar, feeling more hungry or thirsty than usual, passing urine more often than usual, fast and deep breathing, confusion, or a sweet smell to your breath, a sweet or metallic taste in your mouth or a different odour to your urine or sweat;
+- inflammation of the kidneys: symptoms may include decrease in the amount of urine you pass;
+- inflammation of the skin: symptoms may include rash, itching, skin blistering or ulcers in the mouth or on other moist surfaces;
+- inflammation of the heart muscle: symptoms may include chest pain, shortness of breath, or irregular heartbeat;
+- inflammation or problems of the muscles: symptoms may include muscle pain, stiffness or weakness or rapid fatigue of the muscles;
 - inflammation of the spinal cord (transverse myelitis): symptoms may include pain, numbness, tingling, or weakness in the arms or legs; bladder or bowel problems including needing to urinate more frequently, urinary incontinence, difficulty urinating and constipation;
-- infusion-related reactions : symptoms may include chills or shaking, itching or rash, flushing, shortness of breath or wheezing, dizziness or fever;
+- infusion-related reactions: symptoms may include chills or shaking, itching or rash, flushing, shortness of breath or wheezing, dizziness or fever;
 - inflammation of the brain (encephalitis) or inflammation of the membrane around the spinal cord and brain (meningitis): symptoms may include seizures, neck stiffness, headache, fever, chills, vomiting, eye sensitivity to light, confusion and sleepiness;
 - inflammation of the nerves: symptoms may include pain, weakness, and paralysis in the extremities (Guillain-Barré syndrome);
-- inflammation of the joints : signs and symptoms include joint pain, swelling, and/or stiffness (immune-mediated arthritis);
-- inflammation of the eye : signs and symptoms include eye redness, eye pain, light sensitivity, and/or changes in vision (uveitis);
+- inflammation of the joints: signs and symptoms include joint pain, swelling, and/or stiffness (immune-mediated arthritis);
+- inflammation of the eye: signs and symptoms include eye redness, eye pain, light sensitivity, and/or changes in vision (uveitis);
 - low number of blood platelets: symptoms may include bleeding (nose or gum bleeding) and/or bruising.
-- low number of red blood cell counts on testing : symptoms may include shortness of breath, fatigue, pale skin and/or fast heartbeat. When IMFINZI is used in combination with another anti-cancer medicine (olaparib), low red blood cell counts could be a sign of 'pure red cell aplasia' (PRCA), a condition in which no red blood cells are produced, or 'auto-immune haemolytic anaemia' (AIHA), an excessive breakdown of red blood cells.
+- low number of red blood cell counts on testing: symptoms may include shortness of breath, fatigue, pale skin and/or fast heartbeat. When IMFINZI is used in combination with another anti-cancer medicine (olaparib), low red blood cell counts could be a sign of 'pure red cell aplasia' (PRCA), a condition in which no red blood cells are produced, or 'auto-immune haemolytic anaemia' (AIHA), an excessive breakdown of red blood cells.
 
 If you have any of the symptoms listed above, call or see your doctor straight away.
 
@@ -2411,7 +2625,6 @@ IMFINZI will be given to you in a hospital or clinic under the supervision of an
 ## If you miss an appointment to get IMFINZI
 
 - Call your doctor straight away to reschedule your appointment.
-- ·
 - It is very important that you do not miss a dose of this medicine.
 
 If you have any further questions about your treatment, ask your doctor.
@@ -2676,9 +2889,7 @@ AstraZeneca Tel: +372 6549 600
 
 ## Ελλάδα
 
-AstraZeneca A.E.
-
-Τηλ: +30 210 6871500
+AstraZeneca A.E. Τηλ: +30 210 6871500
 
 ## España
 
@@ -2686,7 +2897,9 @@ AstraZeneca Farmacéutica Spain, S.A. Tel: +34 91 301 91 00
 
 ## France
 
-AstraZeneca Tél: +33 1 41 29 40 00
+AstraZeneca
+
+Tél: +33 1 41 29 40 00
 
 ## Hrvatska
 
@@ -2698,9 +2911,7 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor
-
-Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
@@ -2708,9 +2919,7 @@ AstraZeneca S.p.A.
 
 ## Lietuva
 
-Lietuva
-
-UAB AstraZeneca Tel: +370 5 2660550
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
 
 ## Luxembourg/Luxemburg
 
@@ -2772,6 +2981,14 @@ SIA AstraZeneca Latvija
 
 Tel: +371 67377100
 
+Puh/Tel: +358 10 23 010
+
+## Sverige
+
+AstraZeneca AB
+
+Tel: +46 8 553 26 000
+
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
@@ -2796,11 +3013,3 @@ The following information is intended for healthcare professionals only:
 - IMFINZI is single-dose. Discard any unused portion left in the vial.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-Puh/Tel: +358 10 23 010
-
-## Sverige
-
-AstraZeneca AB
-
-Tel: +46 8 553 26 000

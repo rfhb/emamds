@@ -1,103 +1,26 @@
 ---
-document_datetime: 2026-09-17 11:50:00
+document_datetime: 2026-10-13 17:28:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/olumiant.html
 document_name: olumiant.html
 version: success
-processing_time: 0.2369201
-conversion_datetime: 2026-09-23 07:34:26.94624
+processing_time: 0.4901907
+conversion_datetime: 2026-10-19 23:48:42.962009
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.130.0
-  docling-core: 2.98.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
   docling-ibm-models: 4.0.3
-  docling-parse: 7.21.0
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Campaigns](/en/news-events/ema-campaigns)
-    - [Speeches](/en/news-events/speeches)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health professionals](/en/partners-networks/animal-health-professionals)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Olumiant
-
 # Olumiant
 
 [RSS](/en/individual-human-medicine.xml/66063)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -232,7 +155,7 @@ English (EN) (153.8 KB - PDF)
 
 [View](/en/documents/overview/olumiant-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-993)
+[Other languages (22)](#file-language-dropdown-841)
 
 български (BG) (184.49 KB - PDF)
 
@@ -378,161 +301,155 @@ English (EN) (2.69 MB - PDF)
 
 Olumiant : EPAR - Product Information
 
-English (EN) (2.02 MB - PDF)
+English (EN) (2.05 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/en/documents/product-information/olumiant-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-990)
+[Other languages (23)](#file-language-dropdown-702)
 
-български (BG) (2.22 MB - PDF)
+български (BG) (2.23 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/bg/documents/product-information/olumiant-epar-product-information_bg.pdf)
 
 español (ES) (1.95 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/es/documents/product-information/olumiant-epar-product-information_es.pdf)
 
-čeština (CS) (2.28 MB - PDF)
+čeština (CS) (2.29 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/cs/documents/product-information/olumiant-epar-product-information_cs.pdf)
 
-dansk (DA) (2.21 MB - PDF)
+dansk (DA) (1.7 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/da/documents/product-information/olumiant-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.03 MB - PDF)
+Deutsch (DE) (1.86 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/de/documents/product-information/olumiant-epar-product-information_de.pdf)
 
 eesti (ET) (1.71 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/et/documents/product-information/olumiant-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.12 MB - PDF)
+ελληνικά (EL) (2.04 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/el/documents/product-information/olumiant-epar-product-information_el.pdf)
 
-français (FR) (1.69 MB - PDF)
+français (FR) (1.88 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/fr/documents/product-information/olumiant-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.23 MB - PDF)
+hrvatski (HR) (2.24 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/hr/documents/product-information/olumiant-epar-product-information_hr.pdf)
 
-italiano (IT) (2.02 MB - PDF)
+latviešu (LV) (2.35 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
-
-[View](/it/documents/product-information/olumiant-epar-product-information_it.pdf)
-
-latviešu (LV) (2.39 MB - PDF)
-
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/lv/documents/product-information/olumiant-epar-product-information_lv.pdf)
 
-lietuvių (LT) (2.11 MB - PDF)
+lietuvių (LT) (2.17 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/lt/documents/product-information/olumiant-epar-product-information_lt.pdf)
 
-magyar (HU) (1.99 MB - PDF)
+magyar (HU) (2 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/hu/documents/product-information/olumiant-epar-product-information_hu.pdf)
 
-Malti (MT) (2.29 MB - PDF)
+Malti (MT) (2.13 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/mt/documents/product-information/olumiant-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.69 MB - PDF)
+Nederlands (NL) (1.74 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/nl/documents/product-information/olumiant-epar-product-information_nl.pdf)
 
-polski (PL) (2.22 MB - PDF)
+polski (PL) (2.03 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/pl/documents/product-information/olumiant-epar-product-information_pl.pdf)
 
 português (PT) (1.91 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/pt/documents/product-information/olumiant-epar-product-information_pt.pdf)
 
-română (RO) (2.41 MB - PDF)
+română (RO) (2.38 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/ro/documents/product-information/olumiant-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.16 MB - PDF)
+slovenčina (SK) (2.14 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/sk/documents/product-information/olumiant-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.18 MB - PDF)
+slovenščina (SL) (2.46 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/sl/documents/product-information/olumiant-epar-product-information_sl.pdf)
 
-suomi (FI) (2.4 MB - PDF)
+suomi (FI) (2.42 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/fi/documents/product-information/olumiant-epar-product-information_fi.pdf)
 
 svenska (SV) (1.6 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/sv/documents/product-information/olumiant-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.84 MB - PDF)
+Íslenska (IS) (1.93 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/is/documents/product-information/olumiant-epar-product-information_is.pdf)
 
-norsk (NO) (1.69 MB - PDF)
+norsk (NO) (1.88 MB - PDF)
 
-**First published:** 16/03/2017 **Last updated:** 07/05/2026
+**First published:** 16/03/2017 **Last updated:** 13/10/2026
 
 [View](/no/documents/product-information/olumiant-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** X/0000257923
+**Latest procedure affecting product information:** VR/0000320218
 
-27/04/2026
+10/09/2026
 
 icon globe
 
@@ -557,7 +474,7 @@ English (EN) (81.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-773)
+[Other languages (24)](#file-language-dropdown-679)
 
 български (BG) (106.95 KB - PDF)
 
@@ -748,13 +665,15 @@ Baricitinib may be used as monotherapy or in combination with methotrexate.
 - **EMA product number**
     - EMEA/H/C/004085
 - **Marketing authorisation holder**
-    - Eli Lilly Nederland B.V. Orteliuslaan 1000  3528 BD Utrecht  Netherlands
+    - Eli Lilly Nederland B.V. Orteliuslaan 1000  
+3528 BD Utrecht  
+Netherlands
 - **Opinion adopted**
     - 14/12/2016
 - **Marketing authorisation issued**
     - 13/02/2017
 - **Revision**
-    - 28
+    - 29
 
 ## Assessment history
 
@@ -766,9 +685,9 @@ Collapse section
 
 Olumiant : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (138.62 KB - PDF)
+English (EN) (148.82 KB - PDF)
 
-**First published:** 19/12/2025 **Last updated:** 17/09/2026
+**First published:** 19/12/2025 **Last updated:** 13/10/2026
 
 [View](/en/documents/procedural-steps-after/olumiant-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -876,7 +795,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-594)
+[Other languages (24)](#file-language-dropdown-396)
 
 български (BG) (203.66 KB - PDF)
 
@@ -1184,7 +1103,7 @@ English (EN) (633.99 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (23)](#file-language-dropdown-630)
+[Other languages (23)](#file-language-dropdown-769)
 
 български (BG) (683.33 KB - DOCX)
 
@@ -1358,10 +1277,10 @@ norsk (NO) (702.99 KB - DOCX)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-17/09/2026
+13/10/2026
 
 ## Share this page

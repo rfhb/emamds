@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-09-25 11:50:00
+document_datetime: 2026-10-13 16:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rinvoq.html
 document_name: rinvoq.html
 version: success
-processing_time: 0.5012281
-conversion_datetime: 2026-09-28 20:39:44.178267
+processing_time: 0.2794055
+conversion_datetime: 2026-10-19 23:51:32.646641
 docling_version:
-  docling-serve: 1.35.0
-  docling-jobkit: 3.8.0
-  docling: 2.130.0
-  docling-core: 2.99.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
   docling-ibm-models: 4.0.3
-  docling-parse: 7.22.1
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Rinvoq
 
 [RSS](/en/individual-human-medicine.xml/67263)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -196,7 +196,7 @@ English (EN) (179.22 KB - PDF)
 
 [View](/en/documents/overview/rinvoq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-888)
+[Other languages (22)](#file-language-dropdown-240)
 
 български (BG) (200.76 KB - PDF)
 
@@ -344,159 +344,159 @@ Rinvoq : EPAR - Product information
 
 English (EN) (1.54 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/en/documents/product-information/rinvoq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-590)
+[Other languages (24)](#file-language-dropdown-809)
 
-български (BG) (1.63 MB - PDF)
+български (BG) (1.56 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/bg/documents/product-information/rinvoq-epar-product-information_bg.pdf)
 
 español (ES) (1.54 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/es/documents/product-information/rinvoq-epar-product-information_es.pdf)
 
 čeština (CS) (1.65 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/cs/documents/product-information/rinvoq-epar-product-information_cs.pdf)
 
 dansk (DA) (1.4 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/da/documents/product-information/rinvoq-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.81 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/de/documents/product-information/rinvoq-epar-product-information_de.pdf)
 
-eesti (ET) (1.49 MB - PDF)
+eesti (ET) (1.52 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/et/documents/product-information/rinvoq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.68 MB - PDF)
+ελληνικά (EL) (1.61 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/el/documents/product-information/rinvoq-epar-product-information_el.pdf)
 
 français (FR) (1.56 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/fr/documents/product-information/rinvoq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.58 MB - PDF)
+hrvatski (HR) (1.59 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/hr/documents/product-information/rinvoq-epar-product-information_hr.pdf)
 
-italiano (IT) (2.23 MB - PDF)
+italiano (IT) (1.51 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/it/documents/product-information/rinvoq-epar-product-information_it.pdf)
 
-latviešu (LV) (1.57 MB - PDF)
+latviešu (LV) (1.58 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/lv/documents/product-information/rinvoq-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.62 MB - PDF)
+lietuvių (LT) (1.52 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/lt/documents/product-information/rinvoq-epar-product-information_lt.pdf)
 
 magyar (HU) (1.66 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/hu/documents/product-information/rinvoq-epar-product-information_hu.pdf)
 
 Malti (MT) (1.66 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/mt/documents/product-information/rinvoq-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.57 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/nl/documents/product-information/rinvoq-epar-product-information_nl.pdf)
 
-polski (PL) (1.68 MB - PDF)
+polski (PL) (1.6 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/pl/documents/product-information/rinvoq-epar-product-information_pl.pdf)
 
 português (PT) (1.54 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/pt/documents/product-information/rinvoq-epar-product-information_pt.pdf)
 
 română (RO) (1.58 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/ro/documents/product-information/rinvoq-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.71 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/sk/documents/product-information/rinvoq-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.69 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/sl/documents/product-information/rinvoq-epar-product-information_sl.pdf)
 
 suomi (FI) (1.52 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/fi/documents/product-information/rinvoq-epar-product-information_fi.pdf)
 
 svenska (SV) (1.51 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/sv/documents/product-information/rinvoq-epar-product-information_sv.pdf)
 
 Íslenska (IS) (1.36 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/is/documents/product-information/rinvoq-epar-product-information_is.pdf)
 
 norsk (NO) (1.4 MB - PDF)
 
-**First published:** 18/12/2019 **Last updated:** 25/09/2026
+**First published:** 18/12/2019 **Last updated:** 13/10/2026
 
 [View](/no/documents/product-information/rinvoq-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** X/0000304823
+**Latest procedure affecting product information:** VR/0000340945
 
-18/09/2026
+17/09/2026
 
 icon globe
 
@@ -521,7 +521,7 @@ English (EN) (41.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rinvoq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-466)
+[Other languages (24)](#file-language-dropdown-837)
 
 български (BG) (48.36 KB - PDF)
 
@@ -746,13 +746,15 @@ Crohn's disease
 - **EMA product number**
     - EMEA/H/C/004760
 - **Marketing authorisation holder**
-    - AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse  67061 Ludwigshafen  Germany
+    - AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse  
+67061 Ludwigshafen  
+Germany
 - **Opinion adopted**
     - 17/10/2019
 - **Marketing authorisation issued**
     - 16/12/2019
 - **Revision**
-    - 36
+    - 37
 
 ## Assessment history
 
@@ -764,9 +766,9 @@ Collapse section
 
 Rinvoq : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (168.64 KB - PDF)
+English (EN) (177.52 KB - PDF)
 
-**First published:** 24/09/2025 **Last updated:** 25/09/2026
+**First published:** 24/09/2025 **Last updated:** 13/10/2026
 
 [View](/en/documents/procedural-steps-after/rinvoq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -974,7 +976,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/rinvoq-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-77)
+[Other languages (24)](#file-language-dropdown-809)
 
 български (BG) (203.66 KB - PDF)
 
@@ -1374,12 +1376,12 @@ English (EN) (69.42 KB - PDF)
 - [EMEA-001741-PIP08-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001741-pip08-22)
 - [EMEA-001741-PIP09-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001741-pip09-23)
 - [EMEA-001741-PIP10-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001741-pip10-23)
+- [Drug Utilization Study Evaluating Additional Risk Minimization Measures for Upadacitinib in the Treatment of Atopic Dermatitis in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000166)
 - [Drug utilisation study of upadacitinib (Rinvoq™) in Europe to evaluate the effectiveness of additional risk minimisation measures - post-authorisation study](https://catalogues.ema.europa.eu/study/47974)
 - [LOOK-UP: Active pharmacovigilance study of the medicine Rinvoq™ (upadacitinib) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000227)
 - [LOOK-UP: Active pharmacovigilance study of the medicine Rinvoq™ (upadacitinib) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000227)
 - [LOOK-UP: Active pharmacovigilance study of the medicine Rinvoq™ (upadacitinib) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000227)
 - [LOOK-UP: Active pharmacovigilance study of the medicine Rinvoq™ (upadacitinib) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000227)
-- [Drug Utilization Study Evaluating Additional Risk Minimization Measures for Upadacitinib in the Treatment of Atopic Dermatitis in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000166)
 - [Drug Utilization Study Evaluating Additional Risk Minimisation Measures for Upadacitinib in the Treatment of Ulcerative Colitis in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/199004)
 - [A study of growth, development and maturation in adolescents with atopic dermatitis who receive upadacitinib - post-authorisation study](https://catalogues.ema.europa.eu/study/106181)
 - [Spanish Registry of Atopic Dermatitis (BIOBADATOP) - post-authorisation study](https://catalogues.ema.europa.eu/study/31712)
@@ -1390,6 +1392,6 @@ English (EN) (69.42 KB - PDF)
 
 **This page was last updated on**
 
-25/09/2026
+13/10/2026
 
 ## Share this page

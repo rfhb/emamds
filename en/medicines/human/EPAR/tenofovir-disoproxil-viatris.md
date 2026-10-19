@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-01 13:55:00
+document_datetime: 2026-10-14 16:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tenofovir-disoproxil-viatris.html
 document_name: tenofovir-disoproxil-viatris.html
 version: success
-processing_time: 0.1727803
-conversion_datetime: 2026-07-04 13:00:29.122844
+processing_time: 0.2109529
+conversion_datetime: 2026-10-19 23:52:49.240946
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Tenofovir disoproxil Viatris (previously Tenofovir disoproxil Mylan)
 
 [RSS](/en/individual-human-medicine.xml/66050)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -109,7 +109,7 @@ English (EN) (94.78 KB - PDF)
 
 [View](/en/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-626)
+[Other languages (22)](#file-language-dropdown-587)
 
 български (BG) (121.62 KB - PDF)
 
@@ -243,13 +243,13 @@ svenska (SV) (93.39 KB - PDF)
 
 [View](/sv/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_sv.pdf)
 
-Tenofovir disoproxil Mylan : EPAR - Risk management plan summary
+Tenofovir disoproxil Mylan : EPAR - Risk management plan
 
-English (EN) (194.6 KB - PDF)
+English (EN) (119.16 KB - PDF)
 
-**First published:** 20/09/2022
+**First published:** 20/09/2022 **Last updated:** 14/10/2026
 
-[View](/en/documents/rmp-summary/tenofovir-disoproxil-mylan-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp-summary/tenofovir-disoproxil-mylan-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -261,7 +261,7 @@ English (EN) (1.12 MB - PDF)
 
 [View](/en/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-350)
+[Other languages (24)](#file-language-dropdown-327)
 
 български (BG) (731.5 KB - PDF)
 
@@ -415,7 +415,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -434,7 +434,7 @@ English (EN) (51.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tenofovir-disoproxil-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-207)
+[Other languages (24)](#file-language-dropdown-53)
 
 български (BG) (67.87 KB - PDF)
 
@@ -628,13 +628,15 @@ Tenofovir disoproxil 245 mg film-coated tablets are indicated for the treatment 
 - **Generic**
     - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
 - **Marketing authorisation holder**
-    - Viatris Limited Damastown Industrial Park  Dublin 15  Ireland
+    - Viatris Limited Damastown Industrial Park  
+Dublin 15  
+Ireland
 - **Opinion adopted**
     - 13/10/2016
 - **Marketing authorisation issued**
     - 08/12/2016
 - **Revision**
-    - 24
+    - 25
 
 ## Assessment history
 
@@ -646,9 +648,9 @@ Collapse section
 
 Tenofovir disoproxil Mylan : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (173.46 KB - PDF)
+English (EN) (178.83 KB - PDF)
 
-**First published:** 19/07/2024 **Last updated:** 01/07/2026
+**First published:** 19/07/2024 **Last updated:** 14/10/2026
 
 [View](/en/documents/procedural-steps-after/tenofovir-disoproxil-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -710,7 +712,7 @@ English (EN) (278.65 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-29)
+[Other languages (24)](#file-language-dropdown-176)
 
 български (BG) (212.21 KB - DOCX)
 
@@ -862,6 +864,6 @@ norsk (NO) (195.22 KB - DOCX)
 
 **This page was last updated on**
 
-01/07/2026
+14/10/2026
 
 ## Share this page

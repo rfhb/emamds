@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-31 09:43:47
+document_datetime: 2026-10-12 09:56:15
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/daybu-epar-product-information_en.pdf
 document_name: daybu-epar-product-information_en.pdf
 version: success
-processing_time: 7.7640665
-conversion_datetime: 2026-09-02 21:57:27.647733
+processing_time: 9.1717714
+conversion_datetime: 2026-10-19 22:48:31.916942
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,7 +34,7 @@ Daybu 200 mg/mL oral solution
 
 Each mL of oral solution contains 200 mg of trofinetide.
 
-## Excipient(s) with known effect
+Excipient(s) with known effect
 
 Each mL of oral solution contains 30 mg maltitol, 1.12 mg sodium methyl parahydroxybenzoate, 0.25 mg sodium propyl parahydroxybenzoate, 4.9 mg propylene glycol, and 0.02 mg Allura Red AC.
 
@@ -54,7 +54,7 @@ Daybu is indicated for the treatment of neurobehavioural symptoms of Rett syndro
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 Trofinetide should be taken twice daily, morning and evening, according to patient weight as shown in Table 1.
 
@@ -252,7 +252,7 @@ In Study 1, 12.9% of patients treated with trofinetide experienced weight loss o
 
 ## Seizure
 
-In Study 1, seizure was reported in 8.6% of patients treated with trofinetide and 6.4% of patients treated with placebo reported seizure or partial seizures. Seizure severity was mild in 37.5% of patients treated with trofinetide, and moderate in 62.5% of patients treated with trofinetide.
+In Study 1, seizure was reported in 8.6% of patients treated with trofinetide and 6.4% of patients treated with placebo reported seizure or partial seizures. Seizures severity was mild in 37.5% of patients treated with trofinetide, and moderate in 62.5% of patients treated with trofinetide.
 
 ## Reporting of suspected adverse reactions
 
@@ -278,7 +278,7 @@ Pharmacotherapeutic group: Other nervous system drugs, ATC code: N07XX24
 
 ## Mechanism of action
 
-Trofinetide is a synthetic analogue of the N -terminal tripeptide of insulin-like growth factor 1. The precise molecular mechanism of trofinetide activity in the treatment of neurobehavioural symptoms of Rett syndrome is not known.
+Trofinetide is a synthetic analogue of the N-terminal tripeptide of insulin-like growth factor 1. The precise molecular mechanism of trofinetide activity in the treatment of neurobehavioural symptoms of Rett syndrome is not known.
 
 ## Clinical efficacy and safety
 
@@ -323,13 +323,13 @@ Trofinetide exhibits linear kinetics with no time- or dose-dependent effect on p
 
 Table 5 Summary of trofinetide steady state pharmacokinetic parameters as estimated from population PK models in overall Rett syndrome population
 
-| Recommended dosage a    |   C max (µg/mL) |   t max (h) |   AUC τ (µg•h/mL) |
-|-------------------------|-----------------|-------------|-------------------|
-| 5 g twice daily (N=3)   |           203.1 |        1.71 |            1108.3 |
-| 6 g twice daily (N=23)  |           161.1 |        1.97 |             966.5 |
-| 8 g twice daily (N=41)  |           156.8 |        1.98 |             926.5 |
-| 10 g twice daily (N=21) |           146.3 |        2.17 |             933.3 |
-| 12 g twice daily (N=7)  |           143.9 |        2.03 |             853.0 |
+| Recommended dosage a    |   Cmax (µg/mL) |   tmax (h) |   AUCτ (µg•h/mL) |
+|-------------------------|----------------|------------|------------------|
+| 5 g twice daily (N=3)   |          203.1 |       1.71 |           1108.3 |
+| 6 g twice daily (N=23)  |          161.1 |       1.97 |            966.5 |
+| 8 g twice daily (N=41)  |          156.8 |       1.98 |            926.5 |
+| 10 g twice daily (N=21) |          146.3 |       2.17 |            933.3 |
+| 12 g twice daily (N=7)  |          143.9 |       2.03 |            853.0 |
 
 ## Absorption
 
@@ -361,9 +361,9 @@ The pharmacokinetics in patients with hepatic impairment have not been studied. 
 
 ## Effect of age, weight, sex and ethnicity
 
-Age had no clinically relevant effect on the systemic exposure of trofinetide at the recommended dosage of trofinetide. The population pharmacokinetic analyses included subjects with Rett syndrome (age: 2 to 4 years (n=13), &gt;4 to 12 years (n=46), &gt;12 to 17 years (n=98) , and ≥18 years (n=41)).
+Age had no clinically relevant effect on the systemic exposure of trofinetide at the recommended dosage of trofinetide. The population pharmacokinetic analyses included subjects with Rett syndrome (age: 2 to 4 years (n=13), &gt;4 to 12 years (n=46), &gt;12 to 17 years (n=98), and ≥18 years (n=41)).
 
-Median exposure (AUC0-12,ss) was within the target range (800 to 1200 µg·h/mL) in all weight groups except in subjects &gt;100 kg, where 71% had exposures below the target range.
+Median exposure (AUC0-12,ss) was within the target range (800 to 1200 µg·h/mL) in all weight groups except in subjects &gt;100 kg, where 71% had exposures below the target range.
 
 No clinically relevant effect of sex on the systemic exposure of trofinetide was observed in population pharmacokinetic analyses, which included 196 male and 259 female subjects.
 
@@ -407,7 +407,7 @@ Oral administration of trofinetide to pregnant rabbits, during the period of org
 
 ## Toxicity in pregnant and lactating animals
 
-Studies in lactating and pregnant rats confirmed maternal trofinetide exposure following oral administration, with exposure increasing in a ≥ dose proportional manner, and the absence of accumulation potential. In pregnant rabbits, systemic exposure following oral administration also increased in a ≥ dose proportional ma nner, however accumulation (approximately 4- to 9-fold) was observed during the gestational period; rabbit exposures overall were much lower than the exposures obtained in repeat dose toxicity studies in the other species. This accumulation appears specific to pregnant rabbits. Animal studies may be insufficient to adequately assess pregnant and lactating toxicity risk.
+Studies in lactating and pregnant rats confirmed maternal trofinetide exposure following oral administration, with exposure increasing in a ≥ dose proportional manner, and the absence of accumulation potential. In pregnant rabbits, systemic exposure following oral administration also increased in a ≥ dose proportional manner, however accumulation (approximately 4- to 9-fold) was observed during the gestational period; rabbit exposures overall were much lower than the exposures obtained in repeat dose toxicity studies in the other species. This accumulation appears specific to pregnant rabbits. Animal studies may be insufficient to adequately assess pregnant and lactating toxicity risk.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -415,9 +415,7 @@ Studies in lactating and pregnant rats confirmed maternal trofinetide exposure f
 
 ## 6.1 List of excipients
 
-Maltitol (E965) Sodium methyl parahydroxybenzoate (E219) Sodium propyl parahydroxybenzoate Sucralose (E955) Allura Red AC (E129) Strawberry flavour: artificial flavours, propylene glycol (E1520)
-
-Purified water
+Maltitol (E965) Sodium methyl parahydroxybenzoate (E219) Sodium propyl parahydroxybenzoate Sucralose (E955) Allura Red AC (E129) Strawberry flavour: artificial flavours, propylene glycol (E1520) Purified water
 
 ## 6.2 Incompatibilities
 
@@ -439,7 +437,7 @@ Daybu should be discarded after 30 days.
 
 Daybu should be stored in a refrigerator (2°C - 8°C). Do not freeze. The child-resistant cap should be kept tightly closed.
 
-## After first opening
+After first opening
 
 Daybu should be stored in an upright position.
 
@@ -475,7 +473,7 @@ EU/1/26/2045/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 20 August 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -495,6 +493,8 @@ Detailed information on this medicinal product is available on the website of th
 ## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturers responsible for batch release
+
+Acadia Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077 ZX Amsterdam Netherlands
 
 PharmaKorell GmbH Georges-Koehler-Strasse 2 Loerrach 79539 Germany
 
@@ -539,7 +539,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -610,7 +610,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -622,9 +622,7 @@ Daybu 200 mg/mL
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -666,7 +664,9 @@ Keep out of the sight and reach of children.
 
 EXP
 
-After first opening, store bottle upright and discard after 30 days. Date of first opening:
+After first opening, store bottle upright and discard after 30 days.
+
+Date of first opening:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -680,7 +680,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Acadia Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077 ZX Amsterdam Netherlands
+Acadia Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077 ZX Amsterdam
+
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -690,14 +692,9 @@ EU/1/26/2045/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Daybu 200 mg/mL
-
+16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -713,7 +710,7 @@ Daybu 200 mg/mL
 
 ## Daybu 200 mg/mL oral solution
 
-## trofinetide
+trofinetide
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects. See the end of section 4 for how to report side effects.
 
@@ -764,7 +761,7 @@ recommend drinking more liquids or taking antidiarrhoeal medicine as needed. If 
 
 ## Children
 
-Do not give this medicine to children under 5 years of age as its use is not recommended  in this age group.
+Do not give this medicine to children under 5 years of age as its use is not recommended in this age group.
 
 ## Other medicines and Daybu
 
@@ -850,16 +847,16 @@ After taking the prescribed dose, rinse the dosing cup under running cold water 
 
 <div style=\"page-break-after: always\"></div>
 
-| Preparing a dose of Daybu   | Preparing a dose of Daybu                                                                                                                    | Preparing a dose of Daybu   |
-|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| Step 2                      | If your prescribed dose is up to 30 mL: Use the 30 mL dosing cup to measure the correct volume (mL) of the oral solution For 30 mL Dose      |                             |
-| Step 2                      | If your prescribed dose is more than 30 mL: Use the 110 mL dosing cup to measure the correct volume (mL) of the oral solution For 60 mL Dose |                             |
-| Giving Daybu                | Giving Daybu                                                                                                                                 | Giving Daybu                |
-| Step 3                      | Ensure you or your child drinks all of the solution from the dosing cup. You or your child must sit upright when taking medicine.            | the                         |
-| Step 4                      | Close the bottle with the child-resistant cap after each use.                                                                                |                             |
-| Step 5                      | Rinse the dosing cup under running cold water and air dry prior to next use.                                                                 |                             |
-| Discarding Daybu            | Discarding Daybu                                                                                                                             | Discarding Daybu            |
-| Step 6                      | Discard any unused Daybu solution and dosing cups 30 days after first opening the bottle.                                                    |                             |
+| Preparing a dose of Daybu   | Preparing a dose of Daybu                                                                                                             | Preparing a dose of Daybu   |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| Step 2                      | If your prescribed dose is up to 30 mL: Use the 30 mL dosing cup to measure the correct volume (mL) of the oral solution              | For 30 mL Dose              |
+| Step 2                      | If your prescribed dose is more than 30 mL: Use the 110 mL dosing cup to measure the correct volume (mL) of the oral solution         | For 60 mL Dose              |
+| Giving Daybu                | Giving Daybu                                                                                                                          | Giving Daybu                |
+| Step 3                      | Ensure you or your child drinks all of the solution from the dosing cup. You or your child must sit upright when taking the medicine. |                             |
+| Step 4                      | Close the bottle with the child-resistant cap after each use.                                                                         |                             |
+| Step 5                      | Rinse the dosing cup under running cold water and air dry prior to next use.                                                          |                             |
+| Discarding Daybu            | Discarding Daybu                                                                                                                      | Discarding Daybu            |
+| Step 6                      | Discard any unused Daybu solution and dosing cups 30 days after first opening the bottle.                                             |                             |
 
 ## Giving Daybu through Gastric (G) tube and G-port of the Gastrojejunal (GJ) tubes
 
@@ -909,9 +906,9 @@ If you or your child gets any side effects, talk to your doctor or pharmacist. T
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton after \"EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton after \"EXP\". The expiry date refers to the last day of that month.
 
-Store  in a refrigerator (2°C - 8°C). Do not freeze.
+Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 After first opening, store bottle upright and discard any unused medicine after 30 days. Excursions to room temperature are supported.
 
@@ -935,15 +932,17 @@ The other ingredients are maltitol (E965), sodium methyl parahydroxybenzoate (E2
 
 Daybu is a pink to red oral solution.
 
-The pack includes 1 bottle of 450 mL Daybu oral solution and 2 dosing cups (30 mL and 110 mL).
+The pack includes 1 bottle of 450 mL Daybu oral solution and 2 dosing cups (30 mL and 110 mL). The 30 mL dosing cup is graduated from 5 mL to 30 mL by increments of 2.5 mL.
 
-The 30 mL dosing cup is graduated from 5 mL to 30 mL by increments of 2.5 mL. The 110 mL dosing cup is graduated from 10 mL to 110 mL by increments of 10 mL.
+The 110 mL dosing cup is graduated from 10 mL to 110 mL by increments of 10 mL.
 
 ## Marketing Authorisation Holder
 
-Marketing Authorisation Holder: Acadia Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077 ZX Amsterdam Netherlands
+Acadia Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077 ZX Amsterdam Netherlands
 
 ## Manufacturer
+
+Acadia Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077 ZX Amsterdam Netherlands
 
 PharmaKorell GmbH Georges-Koehler-Strasse 2 Loerrach 79539 Germany
 

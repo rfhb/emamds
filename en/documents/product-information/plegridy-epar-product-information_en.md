@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-11 08:59:38
+document_datetime: 2026-10-16 15:45:54
 document_pages: 91
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/plegridy-epar-product-information_en.pdf
 document_name: plegridy-epar-product-information_en.pdf
 version: success
-processing_time: 23.714134
-conversion_datetime: 2026-02-13 18:14:48.233117
+processing_time: 36.4447466
+conversion_datetime: 2026-10-19 23:05:47.89708
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.2
-  docling: 2.73.1
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,12 +24,9 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-- Plegridy 63 micrograms solution for injection in pre-filled syringe
-- Plegridy 94 micrograms solution for injection in pre-filled syringe
-- Plegridy 125 micrograms solution for injection in pre-filled syringe
-- Plegridy 63 micrograms solution for injection in pre-filled pen
-- Plegridy 94 micrograms solution for injection in pre-filled pen
-- Plegridy 125 micrograms solution for injection in pre-filled pen
+Plegridy 63 micrograms solution for injection in pre-filled syringe
+
+Plegridy 94 micrograms solution for injection in pre-filled syringe Plegridy 125 micrograms solution for injection in pre-filled syringe Plegridy 63 micrograms solution for injection in pre-filled pen Plegridy 94 micrograms solution for injection in pre-filled pen Plegridy 125 micrograms solution for injection in pre-filled pen
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -97,15 +94,13 @@ Table 1a: Titration schedule at initiation via SC route
 | Dose 2 | Day 14  | 94                    | Blue            |
 | Dose 3 | Day 28  | 125 (full dose)       | Grey            |
 
-*Dosed every 2 weeks (14 days)
-
 ## Intramuscular route
 
 An administration dose pack contains the full 125 microgram dose in 1 pre-filled syringe.
 
-The Plegridy titration clips, designed for use with the pre-filled syringe are intended to limit the dose that is administered to 63 micrograms (dose 1 (1/2 dose), yellow titration clip) and 94 micrograms (dose 2 (3/4 dose), purple titration clip), for day 0 and day 14 respectively.  Each Plegridy titration clip should be used once, and then discarded along with any remaining medicinal product.  Patients should use the full dose of 125 micrograms (no clip required) from day 28 onwards (dosing every 14 days).
+The Plegridy titration clips, designed for use with the pre-filled syringe are intended to limit the dose that is administered to 63 micrograms (dose 1 (1/2 dose), yellow titration clip) and 94 micrograms (dose 2 (3/4 dose), purple titration clip), for day 0 and day 14 respectively. Each Plegridy titration clip should be used once, and then discarded along with any remaining medicinal product. Patients should use the full dose of 125 micrograms (no clip required) from day 28 onwards (dosing every 14 days).
 
-Table 1b Titration schedule at initiation via IM route
+Table 1b: Titration schedule at initiation via IM route
 
 | Dose   | Time*   | Amount (micrograms)   | Titration clip   |
 |--------|---------|-----------------------|------------------|
@@ -117,7 +112,7 @@ Table 1b Titration schedule at initiation via IM route
 
 Dose titration at the initiation of treatment may help to ameliorate flu-like symptoms that can occur at treatment initiation with interferons. Prophylactic and concurrent use of anti-inflammatory, analgesic and/or antipyretic treatments may prevent or ameliorate flu-like symptoms sometimes experienced during interferon treatment (see section 4.8).
 
-Switching between the SC and IM routes of administration and vice versa has not been studied.  Based upon bioequivalence demonstrated between the two routes of administration it is not expected that dose titration will be required if switching between SC and IM, or vice versa (see sections 5.1 and 5.2).
+Switching between the SC and IM routes of administration and vice versa has not been studied. Based upon bioequivalence demonstrated between the two routes of administration it is not expected that dose titration will be required if switching between SC and IM, or vice versa (see sections 5.1 and 5.2).
 
 If a dose is missed, it should be administered as soon as possible.
 
@@ -146,13 +141,15 @@ The safety and efficacy of peginterferon beta-1a in children below 10 years of a
 
 ## Method of administration
 
-It is recommended that a healthcare professional trains patients in the proper technique for selfadministering SC injections using the SC pre-filled syringe/pre-filled pen or IM injections using the IM pre-filled syringes as appropriate. Patients should be advised to rotate sites for SC or IM injections every two weeks. The usual sites for subcutaneous injections include abdomen, arm, and thigh.  The usual site for intramuscular injection is the thigh.
+It is recommended that a healthcare professional trains patients in the proper technique for selfadministering SC injections using the SC pre-filled syringe/pre-filled pen or IM injections using the IM pre-filled syringes as appropriate. Patients should be advised to rotate sites for SC or IM injections every two weeks. The usual sites for subcutaneous injections include abdomen, arm, and thigh. The usual site for intramuscular injection is the thigh.
 
-Each Plegridy pre-filled pen/syringe for SC is provided with the needle pre-attached.  Plegridy prefilled syringe for IM use is supplied as a prefilled syringe with a separate needle for IM use.
+Each Plegridy pre-filled pen/syringe for SC is provided with the needle pre-attached. Plegridy prefilled syringe for IM use is supplied as a prefilled syringe with a separate needle for IM use.
 
 Both IM and SC pre-filled syringes and SC pre-filled pens are for single use only and should be discarded after use.
 
-Precautions to be taken before handling or administering the medicinal product Once removed from the refrigerator, Plegridy should be allowed to warm to room temperature (up to 25 ° C) for about 30 minutes prior to injection. External heat sources such as hot water must not be used to warm the medicinal product
+## Precautions to be taken before handling or administering the medicinal product
+
+Once removed from the refrigerator, Plegridy should be allowed to warm to room temperature (up to 25 °C) for about 30 minutes prior to injection. External heat sources such as hot water must not be used to warm the medicinal product.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -162,8 +159,8 @@ Plegridy pre-filled pen must not be used unless the green stripes are visible in
 
 ## 4.3 Contraindications
 
-- -Hypersensitivity to natural or recombinant interferon beta or peginterferon or to any of the excipients listed in section 6.1.
-- -Patients with current severe depression and/or suicidal ideation (see sections 4.4 and 4.8).
+- Hypersensitivity to natural or recombinant interferon beta or peginterferon or to any of the excipients listed in section 6.1.
+- Patients with current severe depression and/or suicidal ideation (see sections 4.4 and 4.8).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -219,21 +216,19 @@ Hypothyroidism and hyperthyroidism have been observed with the use of interferon
 
 ## Seizure
 
-Peginterferon beta-1a should be administered with caution to patients with a history of seizures, to
+Peginterferon beta-1a should be administered with caution to patients with a history of seizures, to those receiving treatment with anti-epileptics, particularly if their epilepsy is not adequately controlled with anti-epileptics (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
 
-those receiving treatment with anti-epileptics, particularly if their epilepsy is not adequately controlled with anti-epileptics (see section 4.8).
-
 ## Cardiac disease
 
-Worsening of cardiac disease has been reported in patients receiving interferon beta. The incidence of cardiovascular events was similar between peginterferon beta-1a (125 micrograms every 2 weeks) and placebo treatment groups (7% in each group). No serious cardiovascular events were reported in patients who received peginterferon beta-1a in the ADVANCE study.  Nevertheless, patients with preexisting- significant cardiac disease, such as congestive heart failure, coronary artery disease or arrhythmia should be monitored for worsening of their cardiac condition, particularly during initiation of treatment.
+Worsening of cardiac disease has been reported in patients receiving interferon beta. The incidence of cardiovascular events was similar between peginterferon beta-1a (125 micrograms every 2 weeks) and placebo treatment groups (7% in each group). No serious cardiovascular events were reported in patients who received peginterferon beta-1a in the ADVANCE study. Nevertheless, patients with preexisting- significant cardiac disease, such as congestive heart failure, coronary artery disease or arrhythmia should be monitored for worsening of their cardiac condition, particularly during initiation of treatment.
 
 ## Immunogenicity
 
 Patients may develop antibodies to peginterferon beta-1a. Data from patients treated up to 2 years with peginterferon beta-1a administered SC suggests that less than 1% (5/715) developed persistent neutralising- antibodies to the interferon beta-1a portion of peginterferon beta-1a. Neutralising antibodies have the potential to reduce clinical efficacy. However, the development of antibodies against the interferon moiety of peginterferon beta-1a had no discernible impact on safety or clinical efficacy, although the analysis was limited by the low immunogenicity incidence.
 
-Three percent of patients (18/681) developed persistent antibodies to the PEG moiety of peginterferon beta-1a.  In the clinical study conducted, the development of antibodies against the PEG moiety of peginterferon beta-1a had no discernible impact on safety, or clinical efficacy (including annualised relapse rate, magnetic resonance imaging (MRI) lesions, and disability progression).
+Three percent of patients (18/681) developed persistent antibodies to the PEG moiety of peginterferon beta-1a. In the clinical study conducted, the development of antibodies against the PEG moiety of peginterferon beta-1a had no discernible impact on safety, or clinical efficacy (including annualised relapse rate, magnetic resonance imaging (MRI) lesions, and disability progression).
 
 ## Hepatic impairment
 
@@ -241,7 +236,7 @@ Caution should be used and close monitoring considered when administering pegint
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol (23 mg) sodium, that is to say it is essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol (23 mg) sodium, that is to say it is essentially \"sodium-free\".
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -251,11 +246,9 @@ No interaction studies have been performed. The clinical studies indicate that m
 
 ## Pregnancy
 
-A large amount of data (more than 1,000 pregnancy outcomes) from registries and post-marketing experience indicates no increased risk of major congenital anomalies after pre-conception exposure to interferon beta or such exposure during the first trimester of pregnancy. However, the duration of exposure during the first trimester is uncertain, because data were collected when interferon beta use
+A large amount of data (more than 1,000 pregnancy outcomes) from registries and post-marketing experience indicates no increased risk of major congenital anomalies after pre-conception exposure to interferon beta or such exposure during the first trimester of pregnancy. However, the duration of exposure during the first trimester is uncertain, because data were collected when interferon beta use was contraindicated during pregnancy, and treatment likely interrupted when pregnancy was detected and/or confirmed. Experience with exposure during the second and third trimester is very limited.
 
 <div style=\"page-break-after: always\"></div>
-
-was contraindicated during pregnancy, and treatment likely interrupted when pregnancy was detected and/or confirmed. Experience with exposure during the second and third trimester is very limited.
 
 Based on animal data (see section 5.3), there is a possibly increased risk for spontaneous abortion. The risk of spontaneous abortions in pregnant women exposed to interferon beta cannot adequately be evaluated based on the currently available data, but the data do not suggest an increased risk so far.
 
@@ -269,7 +262,7 @@ Peginterferon beta-1a can be used during breast-feeding.
 
 ## Fertility
 
-There are no data on the effects of peginterferon beta-1a on human fertility.  In animals, anovulatory effects were observed at very high doses (see section 5.3).  No information is available on the effects of peginterferon beta-1a on male fertility in animals.
+There are no data on the effects of peginterferon beta-1a on human fertility. In animals, anovulatory effects were observed at very high doses (see section 5.3). No information is available on the effects of peginterferon beta-1a on male fertility in animals.
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -287,21 +280,21 @@ The most commonly reported adverse reaction leading to discontinuation in patien
 
 In clinical studies, a total of 1,468 patients received peginterferon beta-1a SC for up to 278 weeks with an overall exposure equivalent of 4,217 person -years. 1,285 patients received at least 1 year, 1,124 patients have received at least 2 years, 947 patients received at least 3 years, and 658 patients received at least 4 years of treatment with peginterferon beta-1a. The experience in the randomised, uncontrolled phase (year 2) of the ADVANCE study and in the extension study ATTAIN (treatment received for up to 4 years) was consistent with the experience in the 1 year placebo-controlled phase of the ADVANCE study.
 
-Table 2 summarizes ADRs (incidence above placebo and with a reasonable possibility of causality) from 512 patients treated with peginterferon beta-1a 125 micrograms SC every 2 weeks and 500 patients who received placebo for up to 48 weeks and post-marketing data.
+Table 2 summarises ADRs (incidence above placebo and with a reasonable possibility of causality) from 512 patients treated with peginterferon beta-1a 125 micrograms SC every 2 weeks and 500 patients who received placebo for up to 48 weeks and post-marketing data.
 
 The ADRs are presented as MedDRA preferred terms under the MedDRA System Organ Class. The incidence of the adverse reactions below are expressed according to the following categories:
 
-- -Very common (≥1/10)
-- -Common (≥1/100 to &lt;1/10)
-- -Uncommon (≥1/1,000 to &lt;1/100)
+- Very common (≥1/10)
+- Common (≥1/100 to &lt;1/10)
+- Uncommon (≥1/1,000 to &lt;1/100)
 
 <div style=\"page-break-after: always\"></div>
 
-- -Rare (≥1/10,000 to &lt;1/1,000)
-- -Very rare (&lt;1/10,000)
-- -Not known (cannot be estimated from the available data)
+- Rare (≥1/10,000 to &lt;1/1,000)
+- Very rare (&lt;1/10,000)
+- Not known (cannot be estimated from the available data)
 
-Table 2 Tabulated summary of adverse drug reactions
+Table 2: Tabulated summary of adverse drug reactions
 
 | MedDRA system organ class                            | Adverse reaction                                                                                      | Frequency category   |
 |------------------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------|
@@ -323,27 +316,25 @@ Table 2 Tabulated summary of adverse drug reactions
 | Musculoskeletal and connective tissue disorders      | Arthralgia                                                                                            | Very common          |
 | Renal and urinary disorders                          | Nephrotic syndrome, glomerulosclerosis                                                                | Rare                 |
 | General disorders and administration site conditions | Influenza like illness                                                                                | Very common          |
-| General disorders and administration site conditions | Pyrexia                                                                                               | Very common          |
-| General disorders and administration site conditions | Chills                                                                                                | Very common          |
+| General disorders and administration site conditions | Pyrexia Chills                                                                                        | Very common          |
 | General disorders and administration site conditions | Injection site erythema                                                                               | Very common          |
 | General disorders and administration site conditions | Injection site pain                                                                                   | Very common          |
 | General disorders and administration site conditions | Injection site pruritus                                                                               | Very common          |
 | General disorders and administration site conditions | Asthenia                                                                                              | Very common          |
 | General disorders and administration site conditions | Hyperthermia                                                                                          | Common               |
-| General disorders and administration site conditions | Injection site inflammation                                                                           |                      |
-| General disorders and administration site conditions | Pain                                                                                                  |                      |
-| General disorders and administration site conditions | Injection site haematoma                                                                              |                      |
-| General disorders and administration site conditions | Injection site swelling                                                                               |                      |
-| General disorders and administration site conditions | Injection site oedema                                                                                 |                      |
-| General disorders and administration site conditions | Injection site rash                                                                                   |                      |
-| General disorders and administration site conditions | Injection site discolouration                                                                         |                      |
-| General disorders and administration site conditions | Injection site necrosis                                                                               | Rare                 |
-| Investigations                                       | Alanine aminotransferase increased                                                                    | Common               |
-| Investigations                                       | Aspartate aminotransferase increased                                                                  | Common               |
-| Investigations                                       | Gamma-glutamyltransferase increased                                                                   | Common               |
-| Investigations                                       | White blood cell count decreased                                                                      | Common               |
-| Investigations                                       | Haemoglobin                                                                                           | Common               |
-| Investigations                                       | decreased                                                                                             | Common               |
+| General disorders and administration site conditions | Injection site inflammation                                                                           | Common               |
+| General disorders and administration site conditions | Pain Injection site haematoma                                                                         | Common               |
+| General disorders and administration site conditions | Injection site swelling                                                                               | Common               |
+| General disorders and administration site conditions | Injection site oedema                                                                                 | Common               |
+| General disorders and administration site conditions | Injection site rash                                                                                   | Common               |
+| General disorders and administration site conditions | Injection site warmth                                                                                 | Common               |
+| General disorders and administration site conditions | Injection site discolouration Injection site necrosis                                                 | Common               |
+| Investigations                                       | Alanine aminotransferase increased                                                                    | Rare Common          |
+| Investigations                                       | Aspartate aminotransferase                                                                            | Rare Common          |
+| Investigations                                       | increased Gamma-glutamyltransferase                                                                   | Rare Common          |
+| Investigations                                       | increased                                                                                             | Rare Common          |
+| Investigations                                       | White blood cell count decreased                                                                      | Rare Common          |
+| Investigations                                       | Haemoglobin decreased                                                                                 | Rare Common          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -376,7 +367,7 @@ The incidence of hepatic transaminase increases was greater in patients receivin
 
 ## Haematological disorders
 
-Decreases in white blood cell (WBC) counts of &lt;3.0 x 10 9 /L were observed in 7% of patients receiving peginterferon beta-1a and in 1% receiving placebo. Mean WBC counts remained within normal limits in patients treated with peginterferon beta-1a. Decreases in WBC counts were not associated with an increased risk of infections or serious infections. The incidence of potentially clinically significant decreases in lymphocyte counts (&lt;0.5 x 10 9 /L) (&lt;1%), neutrophil counts (≤1.0 x 10 9 /L) (&lt;1%) and platelet count s (≤100 x 10 9 /L) (≤1%) was similar in peginterferon beta-1atreated patients compared to placebo-treated patients. Two serious cases were reported in patients treated with peginterferon beta-1a: one patient (&lt;1%) experienced severe thrombocytopenia (platelet count &lt;10 x 10 9 /L), another patient (&lt;1%) experienced severe neutropenia (neutrophil count &lt;0.5 x 10 9 /L). In both patients, cell counts recovered after discontinuation of peginterferon beta-1a. Slight decreases in mean red blood cell (RBC) counts were observed in peginterferon beta-1atreated patients. The incidence of potentially clinically significant decreases in RBC counts (&lt;3.3 x 10 12 /L) was similar in peginterferon beta-1a treated patients compared to placebo- treated- patients.
+Decreases in white blood cell (WBC) counts of &lt;3.0 x 10 9 /L were observed in 7% of patients receiving peginterferon beta-1a and in 1% receiving placebo. Mean WBC counts remained within normal limits in patients treated with peginterferon beta-1a. Decreases in WBC counts were not associated with an increased risk of infections or serious infections. The incidence of potentially clinically significant decreases in lymphocyte counts (&lt;0.5 x 10 9 /L) (&lt;1%), neutrophil counts (≤1.0 x 10 9 /L) (&lt;1%) and platelet counts (≤100 x 10 9 /L) (≤1%) was similar in peginterferon beta-1atreated patients compared to placebo-treated patients. Two serious cases were reported in patients treated with peginterferon beta-1a: one patient (&lt;1%) experienced severe thrombocytopenia (platelet count &lt;10 x 10 9 /L), another patient (&lt;1%) experienced severe neutropenia (neutrophil count &lt;0.5 x 10 9 /L). In both patients, cell counts recovered after discontinuation of peginterferon beta-1a. Slight decreases in mean red blood cell (RBC) counts were observed in peginterferon beta-1atreated patients. The incidence of potentially clinically significant decreases in RBC counts (&lt;3.3 x 10 12 /L) was similar in peginterferon beta-1a treated patients compared to placebo- treated- patients.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -390,13 +381,13 @@ Cases of pulmonary arterial hypertension (PAH) have been reported with interfero
 
 ## Intramuscular route of administration
 
-An open-label, crossover study enrolled 136 subjects to assess the bioequivalence of single doses of 125 micrograms of peginterferon beta-1a administered SC and IM injection in healthy volunteers. The most commonly reported AEs (with &gt;10% incidence in either arm) across both treatment periods were chills (35.6% in IM vs 26.9% in SC ), pain (22.0% in IM vs 14.2% in SC), injection site pain (11.4% in IM vs 14.9% in SC), injection site erythema (2.3% in IM vs 25.4% in SC ), and headache (35.6% in IM vs 41.0% in SC).  Injection site reactions were reported with a lower frequency in IM (14.4%) compared to SC (32.1%).
+An open-label, crossover study enrolled 136 subjects to assess the bioequivalence of single doses of 125 micrograms of peginterferon beta-1a administered SC and IM injection in healthy volunteers. The most commonly reported AEs (with &gt;10% incidence in either arm) across both treatment periods were chills (35.6% in IM vs 26.9% in SC ), pain (22.0% in IM vs 14.2% in SC), injection site pain (11.4% in IM vs 14.9% in SC), injection site erythema (2.3% in IM vs 25.4% in SC ), and headache (35.6% in IM vs 41.0% in SC). Injection site reactions were reported with a lower frequency in IM (14.4%) compared to SC (32.1%).
 
 Abnormal urine protein was reported in 1/130 (0.8%) for the SC arm and 4/131 (3.1%) in the IM group without any associated adverse drug reactions.
 
 ## Paediatric population
 
-The safety of peginterferon beta-1a in paediatric patients aged 10 to less than 18 years was studied in an open-label  randomized  active  controlled  paediatric  trial  with  152  paediatric  patients  with  RRMS (peginterferon beta-1a n=75; interferon beta-1a n=77). 66 patients in the peginterferon beta-1a group completed 48 weeks of this study. The following adverse events which are very common in the adult population were also reported as very common in the paediatric population: injection site erythema, influenza like illness, headache and pyrexia.
+The safety of peginterferon beta-1a in paediatric patients aged 10 to less than 18 years was studied in an open-label randomized active controlled paediatric trial with 152 paediatric patients with RRMS (peginterferon beta-1a n=75; interferon beta-1a n=77). Fifty-eight paediatric patients in the peginterferon beta-1a group completed 96 weeks of this study. The following adverse events which are very common in the adult population were also reported as very common in the paediatric population: injection site erythema, influenza like illness, headache and pyrexia. The adverse event alanine aminotransferase increased was very commonly reported (in adults commonly reported).
 
 ## Reporting of suspected adverse reactions
 
@@ -404,7 +395,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-In case of over-dose, patients may be hospitalized for observation and appropriate supportive treatment should be given.
+In case of over-dose, patients may be hospitalised for observation and appropriate supportive treatment should be given.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -412,29 +403,29 @@ In case of over-dose, patients may be hospitalized for observation and appropria
 
 Pharmacotherapeutic group: Antineoplastic and immunomodulating agents, immunostimulants, interferons, ATC code: L03AB13
 
-Peginterferon beta-1a is an interferon beta-1a conjugated with a single, linear molecule of 20,000 Da methoxy poly(ethyleneglycol)-O-2-methylpropionaldehyde (20 kDa mPEG-O-2-methylpropionaldehyde) at a degree of substitution of 1 mole of polymer/mole of protein. The average molecular mass is approximately 44 kDa of which the protein moiety constitutes
+Peginterferon beta-1a is an interferon beta-1a conjugated with a single, linear molecule of 20,000 Da methoxy poly(ethyleneglycol)-O-2-methylpropionaldehyde (20 kDa mPEG-O-2-methylpropionaldehyde) at a degree of substitution of 1 mole of polymer/mole of protein.
 
 <div style=\"page-break-after: always\"></div>
 
-approximately 23 kDa.
+The average molecular mass is approximately 44 kDa of which the protein moiety constitutes approximately 23 kDa.
 
 ## Mechanism of action
 
-A definitive mechanism of action of peginterferon beta-1a in multiple sclerosis (MS) is not known. peginterferon beta-1a binds to the type I interferon receptor on the surface of cells and elicits a cascade of intracellular events leading to the regulation of interferon-responsive gene expression. Biological effects that may be mediated by peginterferon beta-1a include up-regulation of anti-inflammatory cytokines (e.g. IL-4, IL-10, IL-27), down-regulation of pro-inflammatory cytokines (e.g. IL-2, IL-12, IFNγ, TNF -α) and inhibiting the migration of activated T cells across the blood brain barrier; however additional mechanisms may be involved. Whether the mechanism of action of peginterferon beta-1a in MS is mediated by the same pathway(s) as the biological effects described above is not known because the pathophysiology of MS is only partially understood.
+A definitive mechanism of action of peginterferon beta-1a in multiple sclerosis (MS) is not known. peginterferon beta-1a binds to the type I interferon receptor on the surface of cells and elicits a cascade of intracellular events leading to the regulation of interferon-responsive gene expression. Biological effects that may be mediated by peginterferon beta-1a include up-regulation of anti-inflammatory cytokines (e.g. IL-4, IL-10, IL-27), down-regulation of pro-inflammatory cytokines (e.g. IL-2, IL-12, IFN-γ, TNF-α) and inhibiting the migration of activated T cells across the blood brain barrier; however additional mechanisms may be involved. Whether the mechanism of action of peginterferon beta-1a in MS is mediated by the same pathway(s) as the biological effects described above is not known because the pathophysiology of MS is only partially understood.
 
 ## Pharmacodynamic effects
 
 Peginterferon beta-1a is interferon beta-1a conjugated to a single, linear 20 kDa methoxy poly(ethyleneglycol) molecule at the alpha-amino group of the N-terminal amino acid residue.
 
-Interferons are a family of naturally occurring proteins that are induced by cells in response to biological and chemical stimuli, and mediate numerous cellular responses that have been classified as antiviral, antiproliferative, and immunomodulatory in nature.  The pharmacological properties of peginterferon beta-1a are consistent with those of interferon beta-1a and are believed to be mediated by the protein portion of the molecule.
+Interferons are a family of naturally occurring proteins that are induced by cells in response to biological and chemical stimuli, and mediate numerous cellular responses that have been classified as antiviral, antiproliferative, and immunomodulatory in nature. The pharmacological properties of peginterferon beta-1a are consistent with those of interferon beta-1a and are believed to be mediated by the protein portion of the molecule.
 
-Pharmacodynamic responses were evaluated by measuring the induction of interferon-responsive genes including those encoding 2′,5′ -oligoadenylate synthetase (2′,5′ -OAS), myxovirus resistance protein A (MxA), and several chemokines and cytokines, as well as neopterin (D-erythro-1, 2, 3,trihydroxypropylpterin), a product of the interferon-inducible enzyme, GTP-cyclohydrolase I. Gene induction in healthy human subjects was greater in terms of peak level and exposure (area under the effect curve) for peginterferon beta-1a compared to non-pegylated interferon beta-1a (IM) when both were given at the same dose by activity (6 MIU). The duration of this response was sustained and prolonged for peginterferon beta-1a, with elevations detected up to 15 days compared to 4 days for non-pegylated interferon beta-1a. Increased concentrations of neopterin were observed in both healthy subjects and multiple sclerosis patients treated with peginterferon beta-1a, with a sustained and prolonged elevation over 10 days compared to 5 days observed for non-pegylated interferon beta-1a. Neopterin concentrations return to baseline after the two week dosing interval.
+Pharmacodynamic responses were evaluated by measuring the induction of interferon-responsive genes including those encoding 2′,5′-oligoadenylate synthetase (2′,5′-OAS), myxovirus resistance protein A (MxA), and several chemokines and cytokines, as well as neopterin (D-erythro-1, 2, 3,- trihydroxypropylpterin), a product of the interferon-inducible enzyme, GTP-cyclohydrolase I. Gene induction in healthy human subjects was greater in terms of peak level and exposure (area under the effect curve) for peginterferon beta-1a compared to non-pegylated interferon beta-1a (IM) when both were given at the same dose by activity (6 MIU). The duration of this response was sustained and prolonged for peginterferon beta-1a, with elevations detected up to 15 days compared to 4 days for non-pegylated interferon beta-1a. Increased concentrations of neopterin were observed in both healthy subjects and multiple sclerosis patients treated with peginterferon beta-1a, with a sustained and prolonged elevation over 10 days compared to 5 days observed for non-pegylated interferon beta-1a. Neopterin concentrations return to baseline after the two week dosing interval.
 
 ## Clinical efficacy and safety via subcutaneous route
 
 The efficacy and safety of peginterferon beta-1a was assessed from the placebo controlled- first year of a 2 year randomised, double-blind, clinical study in patients with relapsing remitting multiple sclerosis (the ADVANCE study). 1512 patients were randomised to and dosed with 125 micrograms peginterferon beta-1a injected subcutaneously every 2 (n=512) or 4 (n=500) weeks versus placebo (n=500).
 
-The primary endpoint was the annualised relapse rate (ARR) over 1 year. The study design and patient demographics are presented in Table .3
+The primary endpoint was the annualised relapse rate (ARR) over 1 year. The study design and patient demographics are presented in Table 3.
 
 No data are available from clinical efficacy/safety studies directly comparing pegylated with non-pegylated interferon beta-1a in adults, or from patients switching between non-pegylated and pegylated interferon.
 
@@ -459,9 +450,9 @@ EDSS: expanded disability status scale
 
 Gd+: gadolinium-enhancing
 
-Peginterferon beta-1a every 2 weeks significantly reduced the annualized relapse rate (ARR) by 36% compared to placebo (p=0.0007) at one year (Table 4) with consistent reductions of the ARR noted in subgroups defined by demographic and baseline disease characteristics. peginterferon beta-1a  also significantly reduced the risk of relapse by 39% (p=0.0003), the risk of sustained disability progression confirmed at 12 weeks by 38% (p=0.0383) and at 24 weeks (post-hoc analysis) by 54% (p=0.0069), the number of new or newly enlarging T2 lesions by 67% (p&lt;0.0001), the number of Gd-enhancing lesions by 86% (p&lt;0.0001) and the number of new T1 hypointense lesions compared to placebo by 53% (p&lt;0.0001). A treatment effect was observed as early as 6 months, with peginterferon beta-1a 125 micrograms every 2 weeks demonstrating a 61% reduction (p&lt;0.0001) in new or newly enlarging T2 lesions as compared with placebo. Across relapse and MRI endpoints peginterferon beta-1a 125 micrograms every two weeks showed a numerically greater treatment effect over the peginterferon beta-1a  every four weeks dosing regimen at year 1.
+Peginterferon beta-1a every 2 weeks significantly reduced the annualised relapse rate (ARR) by 36% compared to placebo (p=0.0007) at one year (Table 4) with consistent reductions of the ARR noted in subgroups defined by demographic and baseline disease characteristics. peginterferon beta-1a also significantly reduced the risk of relapse by 39% (p=0.0003), the risk of sustained disability progression confirmed at 12 weeks by 38% (p=0.0383) and at 24 weeks (post-hoc analysis) by 54% (p=0.0069), the number of new or newly enlarging T2 lesions by 67% (p&lt;0.0001), the number of Gd-enhancing lesions by 86% (p&lt;0.0001) and the number of new T1 hypointense lesions compared to placebo by 53% (p&lt;0.0001). A treatment effect was observed as early as 6 months, with peginterferon beta-1a 125 micrograms every 2 weeks demonstrating a 61% reduction (p&lt;0.0001) in new or newly enlarging T2 lesions as compared with placebo. Across relapse and MRI endpoints peginterferon beta-1a 125 micrograms every two weeks showed a numerically greater treatment effect over the peginterferon beta-1a every four weeks dosing regimen at year 1.
 
-Results over 2 years confirmed that efficacy was maintained beyond the placebo controlled first year of the study. Patients exposed to peginterferon beta-1a  every 2 weeks showed statistically significant reductions compared to patients exposed to peginterferon beta-1a  every 4 weeks over 2 years in a post-hoc analysis for endpoints including ARR (24%, p=0.0209), the risk of relapse (24%, p=0.0212), the risk of disability progression with 24 week confirmation (36%, p=0.0459), and MRI endpoints (new/enlarging T2 60%, Gd+ 71%, and new T1 hypointense lesions 53%; p&lt;0.0001 for all). In the ATTAIN extension study, long-term efficacy with peginterferon beta-1a  was maintained with continuous treatment up to 4 years as shown by clinical and MRI measures of MS disease activity. Of a total of 1,468 patients, 658 patients continued at least 4 years of treatment with peginterferon beta-1a.
+Results over 2 years confirmed that efficacy was maintained beyond the placebo controlled first year of the study. Patients exposed to peginterferon beta-1a every 2 weeks showed statistically significant reductions compared to patients exposed to peginterferon beta-1a every 4 weeks over 2 years in a posthoc analysis for endpoints including ARR (24%, p=0.0209), the risk of relapse (24%, p=0.0212), the risk of disability progression with 24 week confirmation (36%, p=0.0459), and MRI endpoints (new/enlarging T2 60%, Gd+ 71%, and new T1 hypointense lesions 53%; p&lt;0.0001 for all). In the ATTAIN extension study, long-term efficacy with peginterferon beta-1a was maintained with continuous treatment up to 4 years as shown by clinical and MRI measures of MS disease activity. Of a total of 1,468 patients, 658 patients continued at least 4 years of treatment with peginterferon beta-1a.
 
 Results for this study are shown in Table 4.
 
@@ -486,30 +477,20 @@ Table 4: Clinical and MRI results
 | Mean [Median] no. of new or newly enlarging T2 hyperintense lesions (range) | 13.3 [6.0] (0 - 148) | 4.1 [1.0] (0 - 69)                                   | 9.2 [3.0] (0 - 113)                                  |
 | Lesion mean ratio (95% CI) P-value                                          |                      | 0.33 (0.27, 0.40) p≤0.0001                           | 0.72 (0.60, 0.87) p=0.0008                           |
 | Mean [Median] no. of Gd-enhancing lesions (range)                           | 1.4^ [0.0] (0 - 39)  | 0.2 [0.0] (0 - 13)                                   | 0.9 [0.0] (0 - 41)                                   |
-| %reduction vs placebo P-value                                               |                      | 86 p<0.0001                                          | 36 p=0.0738                                          |
+| % reduction vs placebo P-value                                              |                      | 86 p<0.0001                                          | 36 p=0.0738                                          |
 | Mean [Median] no. of new T1 hypointense lesions (range)                     | 3.8 [1.0] (0 - 56)   | 1.8 [0.0] (0 - 39)                                   | 3.1 [1.0] (0 - 61)                                   |
-| %reduction vs placebo P-value                                               |                      | 53 p<0.0001                                          | 18 0.0815                                            |
-
-HR: hazard ratio
-
-CI: confidence interval
-
-* Sustained disability progression was defined as at least a 1 point increase from baseline EDSS ≥ 1
-
-1.5 point increase for patients with baseline EDSS of 0, sustained for 12/24 weeks.
-
-^n=477
+| % reduction vs placebo P-value                                              |                      | 53 p<0.0001                                          | 18 0.0815                                            |
 
 Patients who failed previous MS treatment were not included in the study.
 
 Subgroups of patients with higher disease activity were defined by relapse and MRI criteria as reported below, with the following efficacy results:
 
-or
-
 <div style=\"page-break-after: always\"></div>
 
-- -For patients with ≥1 relapse in the previous year and ≥9 T2 lesions or ≥1 Gd+ lesion (n=1,401), the annual relapse rate at 1 year was 0.39 for placebo, 0.29 for peginterferon beta-1a every 4 weeks and 0.25 for peginterferon beta-1a every 2 weeks. Results in this subgroup were consistent with those in the overall population.
-- -For patients with ≥2 relapses in the previous year and at least 1 Gd+ lesion (n=273), the annual relapse rate at 1 year was 0.47 for placebo, 0.35 for peginterferon beta-1a every 4 weeks, and 0.33 for peginterferon beta-1a every 2 weeks. Results in this subgroup were numerically consistent with those in the overall population but not statistically significant.
+- For patients with ≥1 relapse in the previous year and ≥9 T2 lesions or ≥1 Gd+ lesion (n=1,401), the annual relapse rate at 1 year was 0.39 for placebo, 0.29 for peginterferon beta-1a every 4 weeks and 0.25 for peginterferon beta-1a every 2 weeks. Results in this subgroup were consistent with those in the overall population.
+- For patients with ≥2 relapses in the previous year and at least 1 Gd+ lesion (n=273), the annual relapse rate at 1 year was 0.47 for placebo, 0.35 for peginterferon beta-1a every 4 weeks, and 0.33 for peginterferon beta-1a every 2 weeks.
+
+Results in this subgroup were numerically consistent with those in the overall population but not statistically significant.
 
 ## IM and SC bioequivalence study
 
@@ -517,7 +498,7 @@ An -open-label, crossover study enrolled 136 subjects to assess the bioequivalen
 
 The serum concentration of neopterin, a marker of interferon beta activity, following administration of 125 micrograms peginterferon beta-1a IM and SC was measured for pharmacodynamic (PD) analysis.
 
-The serum neopterin concentration versus time profiles following single doses of 125 micrograms peginterferon beta-1a SC or 125 micrograms peginterferon beta-1a IM were similar, with maximal concentrations (Epeak) reached at a median ETmax of 40.1 hours and 44.0 hours, respectively.  Geometric mean neopterin levels increased from baseline to maximum concentration similarly between the 2 injection routes, with the increase from 8.0 to 22.6 nmol/L for SC, and from 8.1 to 23.2 nmol/L for IM. The overall systemic exposure to neopterin (EAUC0 336h and EAUC0-504h) were also similar between the 2 routes of administration.
+The serum neopterin concentration versus time profiles following single doses of 125 micrograms peginterferon beta-1a SC or 125 micrograms peginterferon beta-1a IM were similar, with maximal concentrations (Epeak) reached at a median ETmax of 40.1 hours and 44.0 hours, respectively. Geometric mean neopterin levels increased from baseline to maximum concentration similarly between the 2 injection routes, with the increase from 8.0 to 22.6 nmol/L for SC, and from 8.1 to 23.2 nmol/L for IM. The overall systemic exposure to neopterin (EAUC0 336h and EAUC0-504h) were also similar between the 2 routes of administration.
 
 Since bioequivalence was demonstrated between the IM and SC routes of administration, it is expected that IM and SC peginterferon beta-1a will have a similar efficacy profile.
 
@@ -525,11 +506,11 @@ Since bioequivalence was demonstrated between the IM and SC routes of administra
 
 The safety and effectiveness of peginterferon beta-1a in paediatric RRMS was evaluated in a randomised, open-label active-controlled (interferon beta-1a) parallel group study in patients with RRMS aged 10 to less than 18 years of age.
 
-152 patients were randomized in a 1:1 ratio to treatment with peginterferon beta-1a, administered at a dose of 125 μg SC every 2 weeks or interferon beta-1a administered at a dose of 30 μg IM injection once weekly, for 48 weeks. 124 patients (peginterferon beta-1a n=66; interferon beta-1a n=58) completed 48 weeks of the study.
+152 patients were randomised in a 1:1 ratio to treatment with peginterferon beta-1a, administered at a dose of 125 μg SC every 2 weeks or interferon beta-1a administered at a dose of 30 μg IM injection once weekly, for 96 weeks.
 
-The primary endpoint, the adjusted annualized relapse rate (ARR) at week 48 was numerically lower in patients treated with peginterferon beta-1a (0.386) compared to patients who received interferon beta-1a (0.521).
+The primary endpoint, the adjusted annualised relapse rate (ARR) at week 48 was numerically lower in patients treated with peginterferon beta-1a (0.386) compared to patients who received interferon beta-1a (0.521). At week 96, the adjusted ARR was 0.285 in patients treated with peginterferon beta1a and 0.527 in patients treated with interferon beta-1a.
 
-The main secondary endpoint at week 48, was the number of participants free of new or newly enlarging T2 hyperintense lesions on brain MRI scans. At week 48, 0.136 (95% CI: 0.064, 0.243) participants in peginterferon beta-1a group were free of new or newly enlarging T2 hyperintense lesions compared to participants in interferon beta-1a group 0.065 (95% CI: 0.018, 0.157).
+The main secondary endpoint at week 96, was the number of participants free of new or newly enlarging T2 hyperintense lesions on brain MRI scans. At week 96, 0.161 (95% CI: 0.076, 0.283) participants in peginterferon beta-1a group were free of new or newly enlarging T2 hyperintense lesions compared to participants in interferon beta-1a group 0.041 (95% CI: 0.005, 0.140).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -539,7 +520,7 @@ The serum half-life of peginterferon beta-1a is prolonged compared with non-pegy
 
 ## Absorption
 
-Following subcutaneous administration of peginterferon beta-1a in multiple sclerosis patients, the peak concentration was reached between 1 to 1.5 days post-dose.  The observed Cmax (mean±SE) was 280 ± 79 pg/mL following repeat dosing of 125 micrograms every two weeks.
+Following subcutaneous administration of peginterferon beta-1a in multiple sclerosis patients, the peak concentration was reached between 1 to 1.5 days post-dose. The observed Cmax (mean±SE) was 280 ± 79 pg/mL following repeat dosing of 125 micrograms every two weeks.
 
 Subcutaneous peginterferon beta-1a resulted in approximately 4-, 9-, and 13-fold higher exposure (AUC168h) values and approximately 2-, 3.5- and 5-fold higher Cmax, following single doses of 63 (6 MIU), 125 (12 MIU), and 188 (18 MIU) micrograms respectively, compared to intramuscular administration of 30 (6 MIU) micrograms non-pegylated beta-1a.
 
@@ -549,7 +530,7 @@ Following repeat dosing of 125 micrograms doses every two weeks by subcutaneous 
 
 ## Biotransformation and elimination
 
-Urinary (renal) clearance is postulated to be a major excretory pathway for peginterferon beta-1a. The process of covalently conjugating a PEG moiety to a protein can alter the in vivo properties of the unmodified protein, including decreased renal clearance and decreased proteolysis thus extending the circulating half-life. Accordingly, the half-life (t1/2) of peginterferon beta-1a is approximately 2-fold longer than non-pegylated interferon beta-1a in healthy volunteers.  In multiple sclerosis patients, the t1/2 (mean±SE) of peginterferon beta-1a was 78 ± 15 hours at steady state. The mean steady state clearance of peginterferon beta-1a was 4.1 ± 0.4 L/hr.
+Urinary (renal) clearance is postulated to be a major excretory pathway for peginterferon beta-1a. The process of covalently conjugating a PEG moiety to a protein can alter the in vivo properties of the unmodified protein, including decreased renal clearance and decreased proteolysis thus extending the circulating half-life. Accordingly, the half-life (t1/2) of peginterferon beta-1a is approximately 2-fold longer than non-pegylated interferon beta-1a in healthy volunteers. In multiple sclerosis patients, the t1/2 (mean±SE) of peginterferon beta-1a was 78 ± 15 hours at steady state. The mean steady state clearance of peginterferon beta-1a was 4.1 ± 0.4 L/hr.
 
 ## Special populations
 
@@ -563,7 +544,7 @@ The pharmacokinetics of peginterferon beta-1a in paediatric population was studi
 
 ## Renal impairment
 
-A single-dose study in healthy subjects and subjects with various degrees of renal impairment (mild, moderate, and severe renal impairment as well as subjects with end state renal disease) showed a fractional increase in AUC (13-62%) and Cmax (42-71%) in subjects with mild (estimated glomerular filtration rate 50 to ≤80 mL/min/1.73m 2 ), moderate (estimated glomerular filtration rate 30 to &lt; 50 mL/min/1.73m 2 ), and severe (estimated glomerular filtration rate &lt;30 mL/min/1.73m 2 ) renal impairment, compared to subjects with normal renal function (estimated glomerular filtration rate &gt;80 mL/min/1.73m 2 ).  Subjects with end stage renal disease requiring 2-3 times haemodialysis weekly showed similar AUC and Cmax as compared to subjects with normal renal function. Each haemodialysis reduced peginterferon beta-1a concentration by approximately 24%, suggesting that haemodialysis partially removes peginterferon beta-1a from systemic circulation.
+A single-dose study in healthy subjects and subjects with various degrees of renal impairment (mild, moderate, and severe renal impairment as well as subjects with end state renal disease) showed a fractional increase in AUC (13-62%) and Cmax (42-71%) in subjects with mild (estimated glomerular filtration rate 50 to ≤80 mL/min/1.73m 2 ), moderate (estimated glomerular filtration rate 30 to &lt;50 mL/min/1.73m 2 ), and severe (estimated glomerular filtration rate &lt;30 mL/min/1.73m 2 ) renal impairment, compared to subjects with normal renal function (estimated glomerular filtration rate &gt;80 mL/min/1.73m 2 ). Subjects with end stage renal disease requiring 2-3 times haemodialysis weekly showed similar AUC and Cmax as compared to subjects with normal renal function. Each haemodialysis reduced peginterferon beta-1a concentration by approximately 24%, suggesting that haemodialysis partially removes peginterferon beta-1a from systemic circulation.
 
 ## Hepatic function
 
@@ -581,13 +562,13 @@ Race had no effect on the pharmacokinetics of peginterferon beta-1a in a populat
 
 ## IM and SC bioequivalence study
 
-The pharmacokinetic (PK) profiles following single doses of 125 micrograms peginterferon beta-1a IM and 125 micrograms peginterferon beta-1a SC in healthy volunteers were similar, with maximal concentrations reached at 40.0 hours post-dose (for both SC and IM), and t1/2 values of 97.1 hours and 79.1 hours, respectively.  Statistical analysis of Cmax and AUC ∞ further demonstrated bioequivalence between 125 micrograms peginterferon beta-1a IM and SC. The geometric mean ratio (90% confidence interval) of IM versus SC for Cmax was 1.08 (0.98 to 1.20) and 1.09 (1.02 to 1.16) for AUC∞. These values fall within the designated 0.80 to 1.25 equivalenc e range.
+The pharmacokinetic (PK) profiles following single doses of 125 micrograms peginterferon beta-1a IM and 125 micrograms peginterferon beta-1a SC in healthy volunteers were similar, with maximal concentrations reached at 40.0 hours post-dose (for both SC and IM), and t1/2 values of 97.1 hours and 79.1 hours, respectively. Statistical analysis of Cmax and AUC∞ further demonstrated bioequivalence between 125 micrograms peginterferon beta-1a IM and SC. The geometric mean ratio (90% confidence interval) of IM versus SC for Cmax was 1.08 (0.98 to 1.20) and 1.09 (1.02 to 1.16) for AUC∞. These values fall within the designated 0.80 to 1.25 equivalence range.
 
 ## 5.3 Preclinical safety data
 
 ## Toxicity
 
-Following repeated subcutaneous administration of peginterferon beta-1a in rhesus monkeys at doses up to 400-fold (based on exposure, AUC) the recommended therapeutic dose; no effects other than the known mild pharmacological responses by rhesus monkeys to interferon beta-1a were observed after the first and second weekly dose.  Repeated dose toxicology studies were limited to 5 weeks as exposure was greatly diminished from 3 weeks onwards, due to the formation of anti-drug antibodies by rhesus monkeys to human interferon beta-1a. Therefore, the long-term safety of chronic administration of peginterferon beta-1a to patients cannot be assessed on the basis of these studies.
+Following repeated subcutaneous administration of peginterferon beta-1a in rhesus monkeys at doses up to 400-fold (based on exposure, AUC) the recommended therapeutic dose; no effects other than the known mild pharmacological responses by rhesus monkeys to interferon beta-1a were observed after the first and second weekly dose. Repeated dose toxicology studies were limited to 5 weeks as exposure was greatly diminished from 3 weeks onwards, due to the formation of anti-drug antibodies by rhesus monkeys to human interferon beta-1a. Therefore, the long-term safety of chronic administration of peginterferon beta-1a to patients cannot be assessed on the basis of these studies.
 
 ## Mutagenesis
 
@@ -623,7 +604,7 @@ Plegridy for SC or IM administration can be stored at room temperature (up to 25
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C to 8 ° C).
+Store in a refrigerator (2 °C to 8 °C).
 
 Do not freeze.
 
@@ -637,7 +618,7 @@ See section 6.3 for additional information on storage at room temperature.
 
 1 mL pre-filled syringe made of glass (Type I) with a bromobutyl rubber stopper and thermoplastic and polypropylene rigid needle shield, containing 0.5 mL of solution. A 29 gauge, 0.5 inch staked needle is pre-affixed to the syringe.
 
-A pre-filled syringe of Plegridy is contained within a single-use, disposable, spring-powered pen injector called Plegridy Pen. The syringe inside the pen is a 1 mL pre-filled syringe made of glass (Type I) with a bromobutyl rubber stopper and thermoplastic and polypropylene rigid needle shield, containing 0.5 mL of solution.  A 29 gauge, 0.5 inch staked needle is pre-affixed to the syringe.
+A pre-filled syringe of Plegridy is contained within a single-use, disposable, spring-powered pen injector called Plegridy Pen. The syringe inside the pen is a 1 mL pre-filled syringe made of glass (Type I) with a bromobutyl rubber stopper and thermoplastic and polypropylene rigid needle shield, containing 0.5 mL of solution. A 29 gauge, 0.5 inch staked needle is pre-affixed to the syringe.
 
 ## Pack sizes
 
@@ -695,9 +676,7 @@ EU/1/14/934/001 EU/1/14/934/002 EU/1/14/934/003 EU/1/14/934/004 EU/1/14/934/005 
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 18 July 2014
-
-Date of latest renewal: 25 March 2019
+Date of first authorisation: 18 July 2014 Date of latest renewal: 25 March 2019
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -722,9 +701,13 @@ Biogen MA Inc. 5000 Davis Drive Morrisville NC 27560 USA
 
 Name and address of the manufacturer(s) responsible for batch release
 
-FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 DK-3400 Hillerød Denmark
+FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 DK-3400 Hillerød
 
-Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Denmark
+
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp
+
+The Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -769,7 +752,9 @@ Pre-Filled Syringe Initiation Pack
 
 Plegridy 63 micrograms solution for injection in pre-filled syringe
 
-Plegridy 94 micrograms solution for injection in pre-filled syringe peginterferon beta-1a
+Plegridy 94 micrograms solution for injection in pre-filled syringe
+
+peginterferon beta-1a
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -872,8 +857,8 @@ Plegridy 94
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -921,7 +906,9 @@ Pre-Filled Syringe Label Initiation Pack
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Plegridy 63 mcg injection Plegridy 94 mcg injection peginterferon beta-1a SC
+Plegridy 63 mcg injection Plegridy 94 mcg injection peginterferon beta-1a
+
+SC
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1005,7 +992,9 @@ Store in the original package in order to protect from light.
 
 Biogen Netherlands B.V.
 
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Prins Mauritslaan 13 1171 LP Badhoevedorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1033,8 +1022,8 @@ Plegridy 125
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -1071,7 +1060,7 @@ Subcutaneous use
 
 Read the package leaflet before use.
 
-Store in a refrigerator.
+## Store in a refrigerator.
 
 ## Do not freeze.
 
@@ -1079,11 +1068,12 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| Pre-Filled Syringe Label 125 mcg                                   |
 
-Pre-Filled Syringe Label 125 mcg
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Plegridy 125 mcg injection peginterferon beta-1a SC
 
@@ -1118,13 +1108,17 @@ Pre-Filled Pen Initiation Pack
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Plegridy 63 micrograms solution for injection in pre-filled pen Plegridy 94 micrograms solution for injection in pre-filled pen peginterferon beta-1a
+Plegridy 63 micrograms solution for injection in pre-filled pen
+
+Plegridy 94 micrograms solution for injection in pre-filled pen
+
+peginterferon beta-1a
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 1 pre-filled pen contains 63 micrograms of peginterferon beta-1a in 0.5 mL.
 
-- 1 pre-filled pen contains 94 micrograms of peginterferon beta-1a in 0.5 mL.
+1 pre-filled pen contains 94 micrograms of peginterferon beta-1a in 0.5 mL.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1148,7 +1142,11 @@ Read the package leaflet before use.
 
 For single use only.
 
-Table on the inner lid Injection Record Day 0 (63 micrograms) Day 14 (94 micrograms) Date Injection Site open here
+Table on the inner lid Injection Record Day 0 (63 micrograms) Day 14 (94 micrograms) Date
+
+Injection Site
+
+open here
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1210,12 +1208,10 @@ Plegridy 63 Plegridy 94
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
-
-37
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1225,9 +1221,12 @@ Pre-Filled Pen Label Initiation pack
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Plegridy 63 mcg injection Plegridy 94  mcg injection peginterferon beta-1a SC
+Plegridy 63 mcg injection Plegridy 94 mcg injection peginterferon beta-1a
 
-## 2. METHOD OF ADMINISTRATION
+SC
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1239,7 +1238,8 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 mL
 
@@ -1294,6 +1294,8 @@ EXP
 
 If a refrigerator is not available, pens can be left at room temperature (up to 25°C) for up to 30 days.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1308,7 +1310,9 @@ Store in the original package in order to protect from light.
 
 Biogen Netherlands B.V.
 
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Prins Mauritslaan 13 1171 LP Badhoevedorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1338,8 +1342,6 @@ PC:
 
 SN:
 
-<div style=\"page-break-after: always\"></div>
-
 NN:
 
 <div style=\"page-break-after: always\"></div>
@@ -1364,7 +1366,7 @@ Sodium acetate trihydrate, acetic acid glacial, arginine hydrochloride, polysorb
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 Multipack: 6 (3 packs of 2) pre-filled pens of 125 micrograms.
 
@@ -1462,7 +1464,7 @@ Sodium acetate trihydrate, acetic acid glacial, arginine hydrochloride, polysorb
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 2 pre-filled pens. Component of a multipack, cannot be sold separately.
 
@@ -1504,7 +1506,9 @@ Store in the original package in order to protect from light.
 
 Biogen Netherlands B.V.
 
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Prins Mauritslaan 13 1171 LP Badhoevedorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1536,7 +1540,9 @@ Plegridy 125
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Plegridy 125 mcg injection peginterferon beta-1a SC
+Plegridy 125 mcg injection peginterferon beta-1a
+
+SC
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -1573,7 +1579,7 @@ Plegridy 125 micrograms solution for injection in pre-filled syringe peginterfer
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each  pre-filled syringe contains 125 micrograms of peginterferon beta-1a in 0.5 mL.
+Each pre-filled syringe contains 125 micrograms of peginterferon beta-1a in 0.5 mL.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1581,7 +1587,7 @@ Sodium acetate trihydrate, acetic acid glacial, arginine hydrochloride, polysorb
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 2 pre-filled syringes
 
@@ -1623,9 +1629,9 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biogen Netherlands B.V.
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp
 
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1661,11 +1667,13 @@ Pre-Filled Syringe Double Lid 125 mcg for intramuscular injection
 
 Plegridy 125 micrograms solution for injection in pre-filled syringe peginterferon beta-1a
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Biogen Netherlands B.V.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1674,7 +1682,8 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 Intramuscular use
 
@@ -1702,7 +1711,8 @@ Plegridy 125 mcg injection peginterferon beta-1a IM
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1710,15 +1720,16 @@ Lot
 
 0.5 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGE LEAFLET
+- B. PACKAGE LEAFLET
+
+<div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the user
-
-<div style=\"page-break-after: always\"></div>
 
 Plegridy 63 micrograms solution for injection in pre-filled syringe Plegridy 94 micrograms solution for injection in pre-filled syringe Plegridy 125 micrograms solution for injection in pre-filled syringe
 
@@ -1726,10 +1737,10 @@ peginterferon beta-1a
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1755,9 +1766,9 @@ MS is a long term illness that affects the central nervous system (CNS), includi
 
 ## Everyone has their own set of MS symptoms. These can include:
 
-- -Feeling off-balance or light headed, walking problems, stiffness and muscle spasms, tiredness, numbness in the face, arms or legs
-- -Acute or chronic pain, bladder and bowel problems, sexual problems and problems with vision
-- -Difficulty thinking and concentrating, depression.
+- Feeling off-balance or light headed, walking problems, stiffness and muscle spasms, tiredness, numbness in the face, arms or legs
+- Acute or chronic pain, bladder and bowel problems, sexual problems and problems with vision
+- Difficulty thinking and concentrating, depression.
 
 ## How Plegridy works
 
@@ -1769,29 +1780,29 @@ Plegridy seems to work by stopping the body's immune system from damaging your b
 
 ## Do not use Plegridy
 
-- -If you are allergic to peginterferon beta-1a, interferon beta-1a or any of the ingredients of this medicine (listed in section 6). See section 4 for the symptoms of an allergic reaction.
-- -If you have severe depression or think about committing suicide.
+- If you are allergic to peginterferon beta-1a, interferon beta-1a or any of the ingredients of this medicine (listed in section 6). See section 4 for the symptoms of an allergic reaction.
+- If you have severe depression or think about committing suicide.
 
 ## Warnings and precautions Talk to your doctor if you have ever had:
 
-- -Depression or problems affecting your mood
-- -Thoughts about committing suicide
-- -Your doctor may still prescribe Plegridy for you, but it's important to let your doctor know if you have had depression or any similar problems affecting your mood in the past.
+- Depression or problems affecting your mood
+- Thoughts about committing suicide
+- Your doctor may still prescribe Plegridy for you, but it's important to let your doctor know if you have had depression or any similar problems affecting your mood in the past.
 
-Talk to your doctor, pharmacist or nurse before injecting Plegridy if you have any of the conditions listed below. They may get worse while using Plegridy :
+Talk to your doctor, pharmacist or nurse before injecting Plegridy if you have any of the conditions listed below. They may get worse while using Plegridy:
 
-- -Serious liver or kidney problems
-- -Irritation at an injection site, which can lead to skin and tissue damage ( injection site necrosis ). When you are ready to inject, carefully follow the instructions in section 7 ' Instructions for injecting Plegridy pre-filled syringe ', at the end of this leaflet. This is to reduce the risk of injection site reactions.
-- -Epilepsy or other seizure disorders, not controlled by medicine
-- -Heart problems , which can cause symptoms such as chest pain ( angina ), particularly after any activity; swollen ankles, shortness of breath ( congestive heart failure ); or an irregular heartbeat ( arrhythmia ).
-- -Thyroid problems
-- -A low number of white blood cells or platelets , which can cause an increased risk of infection, or bleeding
+- Serious liver or kidney problems
+- Irritation at an injection site, which can lead to skin and tissue damage (injection site necrosis). When you are ready to inject, carefully follow the instructions in section 7 \"Instructions for injecting Plegridy pre-filled syringe\", at the end of this leaflet. This is to reduce the risk of injection site reactions.
+- Epilepsy or other seizure disorders, not controlled by medicine
+- Heart problems, which can cause symptoms such as chest pain (angina), particularly after any activity; swollen ankles, shortness of breath (congestive heart failure); or an irregular heartbeat (arrhythmia).
+- Thyroid problems
+- A low number of white blood cells or platelets, which can cause an increased risk of infection, or bleeding
 
 ## Other things to consider when using Plegridy
 
-- -You will need blood tests to determine your numbers of blood cells, blood chemistry and your levels of liver enzymes. These will be performed before you start using Plegridy, regularly after treatment with Plegridy has been initiated and then periodically during treatment, even if you have no particular symptoms. These blood tests will be in addition to the tests which are normally done to monitor your MS.
-- -The functioning of your thyroid gland will be checked regularly or whenever thought necessary by your doctor.
-- -Blood clots in the small blood vessels may occur during your treatment. These blood clots could affect your kidneys. This might happen several weeks to several years after starting Plegridy. Your doctor may want to check your blood pressure, blood (platelet count) and the function of your kidneys.
+- You will need blood tests to determine your numbers of blood cells, blood chemistry and your levels of liver enzymes. These will be performed before you start using Plegridy, regularly after treatment with Plegridy has been initiated and then periodically during treatment, even if you have no particular symptoms. These blood tests will be in addition to the tests which are normally done to monitor your MS.
+- The functioning of your thyroid gland will be checked regularly or whenever thought necessary by your doctor.
+- Blood clots in the small blood vessels may occur during your treatment. These blood clots could affect your kidneys. This might happen several weeks to several years after starting Plegridy. Your doctor may want to check your blood pressure, blood (platelet count) and the function of your kidneys.
 
 If you accidentally prick yourself or someone else with the needle in Plegridy, the area affected should be washed immediately with soap and water and a doctor or nurse should be contacted as soon as possible.
 
@@ -1803,7 +1814,7 @@ Plegridy should not be used in children and adolescents because it is yet to be 
 
 ## Other medicines and Plegridy
 
-Plegridy should be used carefully with medicines that are broken down in the body by a group of proteins called 'cytochrome P450' (e.g. some medicines used for epilepsy or depression).
+Plegridy should be used carefully with medicines that are broken down in the body by a group of proteins called \"cytochrome P450\" (e.g. some medicines used for epilepsy or depression).
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines, especially those used to treat epilepsy or depression. This includes any medicines obtained without a prescription.
 
@@ -1821,7 +1832,7 @@ Plegridy has no or negligible influence on the ability to drive and use machines
 
 ## Plegridy contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg), that is to say it is essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg), that is to say it is essentially \"sodium-free\".
 
 ## 3. How to use Plegridy
 
@@ -1837,21 +1848,21 @@ If you are new to Plegridy, your doctor may advise you to gradually increase you
 
 After that you will be provided with a maintenance pack containing grey syringes with Plegridy 125 micrograms (for day 28 and then every two weeks).
 
-Read the instructions in section 7 ' Instructions for injecting Plegridy pre-filled syringe ' at the end of this leaflet before you start using Plegridy.
+Read the instructions in section 7 \"Instructions for injecting Plegridy pre-filled syringe\" at the end of this leaflet before you start using Plegridy.
 
 Use the record table printed on the inside of the lid of the Initiation Pack to keep a track of your injection dates.
 
 ## Injecting yourself
 
-Plegridy is to be injected under the skin ( subcutaneous injection ). Alternate the sites you use for injections. Do not use the same injection site for consecutive injections.
+Plegridy is to be injected under the skin (subcutaneous injection). Alternate the sites you use for injections. Do not use the same injection site for consecutive injections.
 
 You can inject Plegridy yourself without the help of your doctor, if you have been trained how to do this.
 
-- -Read and follow the advice given in the instructions in section 7 ' Instructions for injecting Plegridy pre-filled syringe ' before you start.
+- Read and follow the advice given in the instructions in section 7 \"Instructions for injecting Plegridy pre-filled syringe\" before you start.
 
 <div style=\"page-break-after: always\"></div>
 
-- -If you have trouble handling the syringe, ask your doctor or nurse who may be able to help.
+- If you have trouble handling the syringe, ask your doctor or nurse who may be able to help.
 
 ## How long to use Plegridy
 
@@ -1861,7 +1872,7 @@ Your doctor will tell you how long you need to keep using Plegridy. It is import
 
 You must only inject Plegridy once every 2 weeks.
 
-- -If you have used more than one injection of Plegridy in a 7-day period, contact your doctor or nurse straight away.
+- If you have used more than one injection of Plegridy in a 7-day period, contact your doctor or nurse straight away.
 
 ## If you forget to use Plegridy
 
@@ -1877,79 +1888,81 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-- -Liver problems
+- Liver problems
 
 (common - may affect up to 1 in 10 people)
 
 If you get any of these symptoms:
 
-- -Yellowing of your skin or the whites of your eyes
-- -Itching all over
-- -Feeling sick, being sick (nausea and vomiting)
-- -Easy bruising of the skin
-- -Contact a doctor immediately. They may be signs of a possible liver problem.
-- -
+- Yellowing of your skin or the whites of your eyes
+- Itching all over
+- Feeling sick, being sick (nausea and vomiting)
+- Easy bruising of the skin
+- Contact a doctor immediately. They may be signs of a possible liver problem.
 
-## Depression
+## - Depression
 
 (common - may affect up to 1 in 10 people)
 
-## If you:
+If you:
 
-- -Feel unusually sad, anxious or worthless or
-- -Have thoughts about suicide
-- -Contact a doctor immediately.
-- -Serious allergic reaction
+- Feel unusually sad, anxious or worthless or
+- Have thoughts about suicide
+- Contact a doctor immediately.
 
-(uncommon - may affect up to 1 in 100 people) If you get any of these:
+## - Serious allergic reaction
 
-- -Difficulty breathing
-- -Swelling around the face (lips, tongue or throat)
-- -Skin rashes or redness
-- -Contact a doctor immediately.
+(uncommon - may affect up to 1 in 100 people)
 
-## -Seizures
+If you get any of these:
+
+- Difficulty breathing
+- Swelling around the face (lips, tongue or throat)
+- Skin rashes or redness
+- Contact a doctor immediately.
+
+## - Seizures
 
 (uncommon - may affect up to 1 in 100 people)
 
 If you have a seizure or a fit
 
-- -Contact a doctor immediately.
+- Contact a doctor immediately.
 
 <div style=\"page-break-after: always\"></div>
 
-## -Injection site damage
+## - Injection site damage
 
 (rare - may affect up to 1 in 1,000 people)
 
 If you get any of these symptoms:
 
-- -Any break in the skin together with swelling, inflammation or fluid leaking around the injection site
-- -Contact a doctor for advice.
+- Any break in the skin together with swelling, inflammation or fluid leaking around the injection site
+- Contact a doctor for advice.
 
-## -Kidney problems including scarring that may reduce your kidney function
+## - Kidney problems including scarring that may reduce your kidney function
 
 (rare - may affect up to 1 in 1,000 people)
 
 If you get some or all of these symptoms:
 
-- -Foamy urine
-- -Fatigue
-- -Swelling, particularly in the ankles and eyelids, and weight gain.
-- -Contact a doctor as they may be signs of a possible kidney problem.
+- Foamy urine
+- Fatigue
+- Swelling, particularly in the ankles and eyelids, and weight gain.
+- Contact a doctor as they may be signs of a possible kidney problem.
 
-## -Blood problems
+## - Blood problems
 
 (rare - may affect up to 1 in 1,000 people)
 
-The following may occur: Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome). Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness.  Your doctor may find changes in your blood and the function of your kidneys.
+The following may occur: Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome). Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness. Your doctor may find changes in your blood and the function of your kidneys.
 
 If you get some or all of these symptoms:
 
-- -Increased bruising or bleeding
-- -Extreme weakness
-- -Headache, dizziness or light-headedness
-- -Contact a doctor immediately.
+- Increased bruising or bleeding
+- Extreme weakness
+- Headache, dizziness or light-headedness
+- Contact a doctor immediately.
 
 ## Other side effects
 
@@ -1957,15 +1970,15 @@ If you get some or all of these symptoms:
 
 (may affect more than 1 in 10 people)
 
-- -Flu-like symptoms.  These symptoms are not really flu, see below. You can't pass it on to anyone else.
-- -Headache
-- -Muscle pain ( myalgia )
-- -Pain in your joints, arms, legs or neck ( arthralgia )
-- -Chills
-- -Fever
-- -Feeling weak and tired ( asthenia )
-- -Redness, itching or pain around the place you have injected
-- -If any of these effects trouble you, contact a doctor.
+- Flu-like symptoms. These symptoms are not really flu, see below. You can't pass it on to anyone else.
+- Headache
+- Muscle pain (myalgia)
+- Pain in your joints, arms, legs or neck (arthralgia)
+- Chills
+- Fever
+- Feeling weak and tired (asthenia)
+- Redness, itching or pain around the place you have injected
+- If any of these effects trouble you, contact a doctor.
 
 ## Flu-like symptoms
 
@@ -1983,32 +1996,32 @@ Three simple ways to help reduce the impact of flu-like symptoms:
 
 (may affect up to 1 in 10 people)
 
-- -Feeling or being sick (nausea or vomiting)
-- -Hair loss ( alopecia )
-- -Itchy skin ( pruritus )
-- -Increase in body temperature
-- -Changes around the place you have injected such as swelling, inflammation, bruising, warmth, rash or colour change
-- -Changes in your blood which might cause tiredness or reduced ability to fight infection
-- -Increases in liver enzymes in the blood (will show up in blood tests)
-- -If any of these effects trouble you, contact a doctor.
+- Feeling or being sick (nausea or vomiting)
+- Hair loss (alopecia)
+- Itchy skin (pruritus)
+- Increase in body temperature
+- Changes around the place you have injected such as swelling, inflammation, bruising, warmth, rash or colour change
+- Changes in your blood which might cause tiredness or reduced ability to fight infection
+- Increases in liver enzymes in the blood (will show up in blood tests)
+- If any of these effects trouble you, contact a doctor.
 
 ## Uncommon side effects
 
 (may affect up to 1 in 100 people)
 
-- -Hives
-- -Changes in your blood which might cause unexplained bruising or bleeding.
-- -If any of these effects trouble you, contact a doctor.
+- Hives
+- Changes in your blood which might cause unexplained bruising or bleeding.
+- If any of these effects trouble you, contact a doctor.
 
 ## Frequency not known
 
 (frequency cannot be estimated from the available data)
 
-- -Pulmonary arterial hypertension: A disease of severe narrowing of the blood vessels in the lungs resulting in high blood pressure in the blood vessels that carry blood from the heart to the lungs. Pulmonary arterial hypertension has been seen at various time points during treatment, including several years after starting treatment with interferon beta-products.
+- Pulmonary arterial hypertension: A disease of severe narrowing of the blood vessels in the lungs resulting in high blood pressure in the blood vessels that carry blood from the heart to the lungs. Pulmonary arterial hypertension has been seen at various time points during treatment, including several years after starting treatment with interferon beta-products.
 
 ## Children (10 years of age and above) and adolescents
 
-In clinical trials, some side effects were reported very commonly in both adults and children, e.g., redness at the injection site, flu-like symptoms, headache, and fever.
+In clinical trials, some side effects were reported very commonly in both adults and children, e.g., redness at the injection site, flu-like symptoms, headache, and fever. An increase in one liver enzyme in the blood was reported very commonly in children and commonly in adults.
 
 ## Reporting of side effects
 
@@ -2020,23 +2033,23 @@ In order to improve the traceability of this medicine, your doctor or pharmacist
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and the label after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and the label after \"EXP\". The expiry date refers to the last day of that month.
 
-- -Store in the original package in order to protect from light. Only open the pack when you need a new syringe.
-- -Store in a refrigerator (fridge) 2º -8 ºC.
-- -Do not freeze. Throw away any Plegridy that is accidentally frozen.
-- -Plegridy can be kept outside a fridge at room temperature (up to 25 °C) for up to 30 days but it must be kept away from light .
+- Store in the original package in order to protect from light. Only open the pack when you need a new syringe.
+- Store in a refrigerator (fridge) 2º -8 ºC.
+- Do not freeze. Throw away any Plegridy that is accidentally frozen.
+- Plegridy can be kept outside a fridge at room temperature (up to 25 °C) for up to 30 days but it must be kept away from light.
 
 <div style=\"page-break-after: always\"></div>
 
-- -Packs can be taken out of the fridge and then put back in a fridge more than once if you need to.
-- -Make sure the time the syringes spend out of a fridge is no more than 30 days in total .
-- -Throw away any syringe that is kept out of the fridge for more than 30 days.
-- -If you are unsure of the number of days you have kept a syringe out of the fridge, throw the syringe away.
-- -Do not use this medicine if you notice any of the following:
-- -If the syringe is broken.
-- -If the solution is coloured, cloudy or you can see particles floating in it.
-- -Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+- Packs can be taken out of the fridge and then put back in a fridge more than once if you need to.
+- Make sure the time the syringes spend out of a fridge is no more than 30 days in total.
+- Throw away any syringe that is kept out of the fridge for more than 30 days.
+- If you are unsure of the number of days you have kept a syringe out of the fridge, throw the syringe away.
+- Do not use this medicine if you notice any of the following:
+- If the syringe is broken.
+- If the solution is coloured, cloudy or you can see particles floating in it.
+- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -2050,13 +2063,13 @@ Each 94 microgram pre-filled syringe contains 94 micrograms of peginterferon bet
 
 Each 125 microgram pre-filled syringe contains 125 micrograms of peginterferon beta-1a in 0.5 mL solution for injection.
 
-The other ingredients are: Sodium acetate trihydrate, acetic acid glacial, arginine hydrochloride, polysorbate 20 and water for injections (see Section 2 'Plegridy contains sodium').
+The other ingredients are: Sodium acetate trihydrate, acetic acid glacial, arginine hydrochloride, polysorbate 20 and water for injections (see Section 2 \"Plegridy contains sodium\").
 
 ## What Plegridy looks like and contents of the pack
 
 Plegridy is a clear and colourless solution for injection in a glass pre-filled syringe with an attached needle.
 
-## Pack sizes:
+Pack sizes:
 
 - The Plegridy Initiation Pack contains one orange pre-filled syringe of 63 micrograms and one blue pre-filled syringe of 94 micrograms.
 - The 125 micrograms grey syringes are provided in a pack containing either two or six pre-filled syringes.
@@ -2085,25 +2098,11 @@ Biogen Belgium NV/SA
 
 Tél: +32 2 2191218
 
-## Lietuva
-
-Biogen Lithuania UAB
-
-Tel: +370 5 259 6176
-
 ## България
 
 ЕВОФАРМА ЕООД
 
-Teл.:
-
-+359 2 962 12 00
-
-## Luxembourg/Luxemburg
-
-Biogen Belgium NV/SA
-
-Tél: +32 2 2191218
+Teл.: +359 2 962 12 00
 
 ## Česká republika
 
@@ -2111,23 +2110,11 @@ Biogen (Czech Republic) s.r.o.
 
 Tel: +420 255 706 200
 
-## Magyarország
-
-Biogen Hungary Kft.
-
-Tel.: +36 1 899 9880
-
 ## Danmark
 
 Biogen Denmark A/S
 
 Tlf.: +45 77 41 57 57
-
-## Malta
-
-Pharma. MT Ltd..
-
-Tel: +356 21337008
 
 ## Deutschland
 
@@ -2135,37 +2122,17 @@ Biogen GmbH
 
 Tel: +49 (0) 89 99 6170
 
-## Nederland
-
-Biogen Netherlands B.V.
-
-Tel: +31 20 542 2000
-
 ## Eesti
 
 Biogen Estonia OÜ
 
 Tel: +372 618 9551
 
-## Norge
-
-Biogen Norway AS
-
-Tlf: +47 23 40 01 00
-
 ## Ελλάδα
 
 Genesis Pharma SA
 
-Τηλ:
-
-+30 210 8771500
-
-## Österreich
-
-Biogen Austria GmbH
-
-Tel: +43 1 484 46 13
+Τηλ: +30 210 8771500
 
 ## España
 
@@ -2173,17 +2140,77 @@ Biogen Spain S.L.
 
 Tel: +34 91 310 7110
 
-## Polska
-
-Biogen Poland Sp. z o.o.
-
-Tel.: +48 22 351 51 00
-
 ## France
 
 Biogen France SAS
 
 Tél: +33 (0)1 41 37 9595
+
+## Hrvatska
+
+Biogen Pharma d.o.o.
+
+Tel: +385 1 775 73 22
+
+## Ireland
+
+Biogen Idec (Ireland) Ltd.
+
+Tel: +353 (0)1 463 7799
+
+## Ísland
+
+Icepharma hf
+
+Sími: +354 540 8000
+
+## Lietuva
+
+Biogen Lithuania UAB
+
+Tel: +370 5 259 6176
+
+## Luxembourg/Luxemburg
+
+Biogen Belgium NV/SA
+
+Tél: +32 2 2191218
+
+## Magyarország
+
+Biogen Hungary Kft.
+
+Tel.: +36 1 899 9880
+
+## Malta
+
+Pharma. MT Ltd.
+
+Tel: +356 21337008
+
+## Nederland
+
+Biogen Netherlands B.V.
+
+Tel: +31 20 542 2000
+
+## Norge
+
+Biogen Norway AS
+
+Tlf: +47 23 40 01 00
+
+## Österreich
+
+Biogen Austria GmbH
+
+Tel: +43 1 484 46 13
+
+## Polska
+
+Biogen Poland Sp. z o.o.
+
+Tel.: +48 22 351 51 00
 
 ## Portugal
 
@@ -2193,35 +2220,17 @@ Sociedade Farmacêutica, Unipessoal Lda.
 
 Tel: +351 21 318 8450
 
-## Hrvatska
-
-Biogen Pharma d.o.o.
-
-Tel: +385 1 775 73 22
-
 ## România
 
 Johnson &amp; Johnson Romania S.R.L.
 
 Tel: +40 21 207 18 00
 
-## Ireland
-
-Biogen Idec (Ireland) Ltd.
-
-Tel: +353 (0)1 463 7799
-
 ## Slovenija
 
 Biogen Pharma d.o.o.
 
 Tel: +386 1 511 02 90
-
-## Ísland
-
-Icepharma hf
-
-Sími: +354 540 8000
 
 ## Slovenská republika
 
@@ -2235,25 +2244,11 @@ Biogen Italia s.r.l.
 
 Tel: +39 02 584 9901
 
-## Suomi/Finland
-
-Biogen Finland Oy
-
-Puh/Tel: +358 207 401 200
-
 ## Κύπρος
 
 Genesis Pharma Cyprus Ltd
 
-Τηλ:
-
-+357 22 76 57 15
-
-## Sverige
-
-Biogen Sweden AB
-
-Tel: +46 8 594 113 60
+Τηλ: +357 22 76 57 15
 
 ## Latvija
 
@@ -2261,9 +2256,21 @@ Biogen Latvia SIA
 
 Tel: +371 68 688 158
 
+## Suomi/Finland
+
+Biogen Finland Oy
+
+Puh/Tel: +358 207 401 200
+
+## Sverige
+
+Biogen Sweden AB
+
+Tel: +46 8 594 113 60
+
 <div style=\"page-break-after: always\"></div>
 
-This leaflet was last revised in &lt; { MM/YYYY }&gt; &lt;{ month YYYY }&gt;.
+This leaflet was last revised in &lt;{MM/YYYY}&gt; &lt;{month YYYY}&gt;.
 
 ## Other sources of information
 
@@ -2271,15 +2278,13 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## 7. Instructions for injecting Plegridy pre-filled syringe
 
-BEFORE YOU START
-
 ## How to inject Plegridy
 
 Read the instructions for use before you start using Plegridy and each time you get a refill of your prescription. There may be new information. This information does not take the place of talking to your doctor or nurse about your medical condition or your treatment.
 
 ## Note:
 
-- Before you use the Plegridy pre-filled syringe for the first time , your doctor or nurse should show you or your carer how to prepare and inject the Plegridy pre-filled syringe.
+- Before you use the Plegridy pre-filled syringe for the first time, your doctor or nurse should show you or your carer how to prepare and inject the Plegridy pre-filled syringe.
 - Plegridy pre-filled syringe is for injecting the medicine under the skin only (subcutaneous)
 - Each Plegridy pre-filled syringe can be used once only.
 - Do not share your Plegridy pre-filled syringe with anyone else to avoid giving an infection to them or getting an infection from them.
@@ -2322,10 +2327,10 @@ Figure B
 
 ## Step 1: Remove your pre-filled syringe from the fridge
 
-- Remove one Plegridy pack out of the fridge and select the appropriate pre-filled syringe from the pack .
+- Remove one Plegridy pack out of the fridge and select the appropriate pre-filled syringe from the pack.
 - Close the pack and put pack back in the fridge after removing one pre-filled syringe.
-- Let the Plegridy pre-filled syringe warm to room temperature for at least 30 minutes .
-- Do not use external heat sources such as hot water to warm the Plegridy pre-filled syringe. A
+- Let the Plegridy pre-filled syringe warm to room temperature for at least 30 minutes.
+- Do not use external heat sources such as hot water to warm the Plegridy pre-filled syringe.
 
 ## Step 2: Collect your supplies and wash your hands
 
@@ -2337,9 +2342,9 @@ Figure B
 ## Step 3: Check the Plegridy pre-filled syringe
 
 - Check the expiry date on the Plegridy pre-filled syringe (See Figure C).
-- Do not use Plegridy pre-filled syringe past the expiry date. A
+- Do not use Plegridy pre-filled syringe past the expiry date.
 - Check that your Plegridy medicine is clear and colourless (See Figure D).
-- Do not use the Plegridy pre-filled syringe if the liquid is coloured, cloudy, or has floating particles in it. A
+- Do not use the Plegridy pre-filled syringe if the liquid is coloured, cloudy, or has floating particles in it.
 - o You might see air bubbles in the Plegridy medicine. This is normal and does not need to be expelled before your injection.
 
 ## Giving your injection
@@ -2348,15 +2353,15 @@ Figure B
 
 - Plegridy pre-filled syringe is for subcutaneous injection (injection into skin).
 - Plegridy pre-filled syringe should be injected into the abdomen, thigh, or the back of the upper arm. (See Figure E).
-- Do not inject directly into your belly button. A
-- Do not inject into an area of the body where the skin is irritated, tender, red, bruised, tattooed, infected, or scarred. A
+- Do not inject directly into your belly button.
+- Do not inject into an area of the body where the skin is irritated, tender, red, bruised, tattooed, infected, or scarred.
 - Choose an injection site and wipe the skin with an alcohol wipe.
-- Let the injection site dry before injecting the dose .
+- Let the injection site dry before injecting the dose.
 - Do not touch or blow this area again before giving the injection. A
 
-Figure E
-
 <!-- image -->
+
+Figure E
 
 <!-- image -->
 
@@ -2367,7 +2372,7 @@ Figure E
 - Using one hand, hold the syringe by the glass barrel. With your other hand, firmly grasp needle cover and pull it straight off the needle (See Figure F).
 - Use caution when removing the needle cover to avoid getting a needle stick injury. A
 - Do not touch the needle. A
-- Caution - Do not recap the Plegridy pre-filled syringe. You could get a needle injury.
+- Caution - Do not recap the Plegridy pre-filled syringe. You could get a needle injury. A
 
 ## Step 6: Gently pinch the injection site
 
@@ -2377,17 +2382,17 @@ Figure E
 
 - Hold the Plegridy pre-filled syringe at a 90° angle to the injection site. Quickly insert the needle straight into the skin fold until the needle is fully under the skin. (See Figure H).
 - After the needle is in, let go of your skin.
-- Do not pull back on the plunger. A
-
-<!-- image -->
+- Do not pull back on the plunger.
 
 Figure F
+
+<!-- image -->
 
 Figure G
 
 <!-- image -->
 
-FigureH
+Figure H
 
 <!-- image -->
 
@@ -2397,7 +2402,7 @@ FigureH
 - Do not take your Plegridy pre-filled syringe out of the injection site until you have pushed the plunger all the way down. A
 - Keep the needle inserted in for 5 seconds (see Figure J).
 
-Figurel
+Figure I
 
 <!-- image -->
 
@@ -2408,8 +2413,8 @@ Figure J
 ## Step 8: Remove the pre-filled syringe from your injection site
 
 - Pull the needle straight out (See Figure K).
-- Caution - Do not recap the Plegridy pre-filled syringe. You could get a needle injury.
-- Do not reuse the Plegridy pre-filled syringe.
+- Caution - Do not recap the Plegridy pre-filled syringe. You could get a needle injury. A
+- Do not reuse the Plegridy pre-filled syringe. A
 
 ## After your injection
 
@@ -2419,6 +2424,7 @@ Figure J
 
 ## Step 10: Care for your injection site
 
+- ·
 - If needed, apply a gauze pad or adhesive bandage to the injection site.
 
 ## Step 11: Check your injection site
@@ -2448,20 +2454,22 @@ Figure K
 - Recommended storage is controlled refrigeration 2°C to 8°C in the closed original carton to protect from light.
 - If needed, Plegridy may be stored in the closed original carton without refrigeration up to 25°C for up to 30 days.
 - Plegridy can be removed from and returned to, a refrigerator if necessary. The total combined time out of refrigeration at a temperature up to 25°C, should not exceed 30 days.
-- Do not freeze or expose to high temperatures.
+- Do not freeze or expose to high temperatures. A
 
 ## Package leaflet: Information for the user
 
 <div style=\"page-break-after: always\"></div>
 
-Plegridy 63 micrograms solution for injection in pre-filled pen Plegridy 94 micrograms solution for injection in pre-filled pen Plegridy 125 micrograms solution for injection in pre-filled pen peginterferon beta-1a
+Plegridy 63 micrograms solution for injection in pre-filled pen Plegridy 94 micrograms solution for injection in pre-filled pen Plegridy 125 micrograms solution for injection in pre-filled pen
+
+peginterferon beta-1a
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2487,9 +2495,9 @@ MS is a long term illness that affects the central nervous system (CNS), includi
 
 ## Everyone has their own set of MS symptoms. These can include:
 
-- -Feeling off-balance or light headed, walking problems, stiffness and muscle spasms, tiredness, numbness in the face, arms or legs
-- -Acute or chronic pain, bladder and bowel problems, sexual problems and problems with vision
-- -Difficulty thinking and concentrating, depression.
+- Feeling off-balance or light headed, walking problems, stiffness and muscle spasms, tiredness, numbness in the face, arms or legs
+- Acute or chronic pain, bladder and bowel problems, sexual problems and problems with vision
+- Difficulty thinking and concentrating, depression.
 
 ## How Plegridy works
 
@@ -2501,29 +2509,29 @@ Plegridy seems to work by stopping the body's immune system from damaging your b
 
 ## Do not use Plegridy
 
-- -If you are allergic to peginterferon beta-1a, interferon beta-1a or any of the ingredients of this medicine (listed in section 6). See section 4 for the symptoms of an allergic reaction.
-- -If you have severe depression or think about committing suicide.
+- If you are allergic to peginterferon beta-1a, interferon beta-1a or any of the ingredients of this medicine (listed in section 6). See section 4 for the symptoms of an allergic reaction.
+- If you have severe depression or think about committing suicide.
 
 ## Warnings and precautions Talk to your doctor if you have ever had:
 
-- -Depression or problems affecting your mood
-- -Thoughts about committing suicide
-- -Your doctor may still prescribe Plegridy for you, but it's important to let your doctor know if you have had depression or any similar problems affecting your mood in the past.
+- Depression or problems affecting your mood
+- Thoughts about committing suicide
+- Your doctor may still prescribe Plegridy for you, but it's important to let your doctor know if you have had depression or any similar problems affecting your mood in the past.
 
-Talk to your doctor, pharmacist or nurse before injecting Plegridy if you have any of the conditions listed below. They may get worse while using Plegridy :
+Talk to your doctor, pharmacist or nurse before injecting Plegridy if you have any of the conditions listed below. They may get worse while using Plegridy:
 
-- -Serious liver or kidney problems
-- -Irritation at an injection site, which can lead to skin and tissue damage ( injection site necrosis ). When you are ready to inject, carefully follow the instructions in section 7 ' Instructions for injecting Plegridy pre-filled pen ', at the end of this leaflet. This is to reduce the risk of injection site reactions.
-- -Epilepsy or other seizure disorders, not controlled by medicine
-- -Heart problems , which can cause symptoms such as chest pain ( angina ), particularly after any activity; swollen ankles, shortness of breath ( congestive heart failure ); or an irregular heartbeat ( arrhythmia ).
-- -Thyroid problems
-- -A low number of white blood cells or platelets , which can cause an increased risk of infection, or bleeding
+- Serious liver or kidney problems
+- Irritation at an injection site, which can lead to skin and tissue damage (injection site necrosis). When you are ready to inject, carefully follow the instructions in section 7 \"Instructions for injecting Plegridy pre-filled pen\", at the end of this leaflet. This is to reduce the risk of injection site reactions.
+- Epilepsy or other seizure disorders, not controlled by medicine
+- Heart problems, which can cause symptoms such as chest pain (angina), particularly after any activity; swollen ankles, shortness of breath (congestive heart failure); or an irregular heartbeat (arrhythmia).
+- Thyroid problems
+- A low number of white blood cells or platelets, which can cause an increased risk of infection, or bleeding
 
 ## Other things to consider when using Plegridy
 
-- -You will need blood tests to determine your numbers of blood cells, blood chemistry and your levels of liver enzymes. These will be performed before you start using Plegridy, regularly after treatment with Plegridy has been initiated and then periodically during treatment, even if you have no particular symptoms. These blood tests will be in addition to the tests which are normally done to monitor your MS.
-- -The functioning of your thyroid gland will be checked regularly or whenever thought necessary by your doctor for other reasons.
-- -Blood clots in the small blood vessels may occur during your treatment. These blood clots could affect your kidneys. This might happen several weeks to several years after starting Plegridy. Your doctor may want to check your blood pressure, blood (platelet count) and the function of your kidneys.
+- You will need blood tests to determine your numbers of blood cells, blood chemistry and your levels of liver enzymes. These will be performed before you start using Plegridy, regularly after treatment with Plegridy has been initiated and then periodically during treatment, even if you have no particular symptoms. These blood tests will be in addition to the tests which are normally done to monitor your MS.
+- The functioning of your thyroid gland will be checked regularly or whenever thought necessary by your doctor for other reasons.
+- Blood clots in the small blood vessels may occur during your treatment. These blood clots could affect your kidneys. This might happen several weeks to several years after starting Plegridy. Your doctor may want to check your blood pressure, blood (platelet count) and the function of your kidneys.
 
 If you accidentally prick yourself or someone else with the needle in Plegridy, the area affected should be washed immediately with soap and water and a doctor or nurse should be contacted as soon as possible.
 
@@ -2535,7 +2543,7 @@ Plegridy should not be used in children and adolescents because it is yet to be 
 
 ## Other medicines and Plegridy
 
-Plegridy should be used carefully with medicines that are broken down in the body by a group of proteins called 'cytochrome P450' (e.g. some medicines used for epilepsy or depression).
+Plegridy should be used carefully with medicines that are broken down in the body by a group of proteins called \"cytochrome P450\" (e.g. some medicines used for epilepsy or depression).
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines, especially those used to treat epilepsy or depression. This includes any medicines obtained without a prescription.
 
@@ -2553,7 +2561,7 @@ Plegridy has no or negligible influence on the ability to drive and use machines
 
 ## Plegridy contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg), that is to say it is essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg), that is to say it is essentially \"sodium-free\".
 
 ## 3. How to use Plegridy
 
@@ -2569,20 +2577,20 @@ If you are new to Plegridy, your doctor may advise you to gradually increase you
 
 After that you will be provided with a maintenance pack containing grey pens with Plegridy 125 micrograms (for day 28 and then every two weeks).
 
-Read the instructions in section 7 ' Instructions for injecting Plegridy pre-filled pen ' at the end of this leaflet before you start using Plegridy.
+Read the instructions in section 7 \"Instructions for injecting Plegridy pre-filled pen\" at the end of this leaflet before you start using Plegridy.
 
 Use the record table printed on the inside of the lid of the Initiation Pack to keep a track of your injection dates.
 
 ## Injecting yourself
 
-Plegridy is to be injected under the skin ( subcutaneous injection ). Alternate the sites you use for injections. Do not use the same injection site for consecutive injections.
+Plegridy is to be injected under the skin (subcutaneous injection). Alternate the sites you use for injections. Do not use the same injection site for consecutive injections.
 
 You can inject Plegridy yourself without the help of your doctor, if you have been trained how to do this.
 
 <div style=\"page-break-after: always\"></div>
 
-- -Read and follow the advice given in the instructions in section 7 ' Instructions for injecting Plegridy pre-filled pen ' before you start.
-- -If you have trouble handling the pen, ask your doctor or nurse who may be able to help.
+- Read and follow the advice given in the instructions in section 7 \"Instructions for injecting Plegridy pre-filled pen\" before you start.
+- If you have trouble handling the pen, ask your doctor or nurse who may be able to help.
 
 ## How long to use Plegridy
 
@@ -2592,7 +2600,7 @@ Your doctor will tell you how long you need to keep using Plegridy. It is import
 
 You must only inject Plegridy once every 2 weeks.
 
-- -If you have used more than one injection of Plegridy in a 7-day period, contact your doctor or nurse straight away.
+- If you have used more than one injection of Plegridy in a 7-day period, contact your doctor or nurse straight away.
 
 ## If you forget to use Plegridy
 
@@ -2608,82 +2616,77 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-## -Liver problems
+## - Liver problems
 
 (common - may affect up to 1 in 10 people)
 
 If you get any of these symptoms:
 
-- -Yellowing of your skin or the whites of your eyes
-- -Itching all over
-- -Feeling sick, being sick (nausea and vomiting)
-- -Easy bruising of the skin
-- -Contact a doctor immediately. They may be signs of a possible liver problem.
+- Yellowing of your skin or the whites of your eyes
+- Itching all over
+- Feeling sick, being sick (nausea and vomiting)
+- Easy bruising of the skin
+- Contact a doctor immediately. They may be signs of a possible liver problem.
 
-## -Depression
+## - Depression
 
 (common - may affect up to 1 in 10 people) If you:
 
-- -Feel unusually sad, anxious or worthless or
-- -Have thoughts about suicide
-- -Contact a doctor immediately.
-
-## -Serious allergic reaction
-
-(uncommon - may affect up to 1 in 100 people)
-
-If you get any of these:
-
-- -Difficulty breathing
-- -Swelling around the face (lips, tongue or throat)
-- -Skin rashes or redness
-
--
-
+- Feel unusually sad, anxious or worthless or
+- Have thoughts about suicide
 - Contact a doctor immediately.
 
-## -Seizures
+## - Serious allergic reaction
+
+(uncommon - may affect up to 1 in 100 people) If you get any of these:
+
+- Difficulty breathing
+- Swelling around the face (lips, tongue or throat)
+- Skin rashes or redness
+- Contact a doctor immediately.
+
+## - Seizures
 
 (uncommon - may affect up to 1 in 100 people)
 
 If you have a seizure or a fit
 
-- -Contact a doctor immediately.
+- Contact a doctor immediately.
 
 <div style=\"page-break-after: always\"></div>
 
-## -Injection site damage
+## - Injection site damage
 
 (rare - may affect up to 1 in 1,000 people)
 
 If you get any of these symptoms:
 
-- -Any break in the skin together with swelling, inflammation or fluid leaking around the injection site
-- -Contact a doctor for advice.
+- Any break in the skin together with swelling, inflammation or fluid leaking around the injection site
+- Contact a doctor for advice.
 
-## -Kidney problems including scarring that may reduce your kidney function
+## - Kidney problems including scarring that may reduce your kidney function
 
 (rare - may affect up to 1 in 1,000 people)
 
 If you get some or all of these symptoms:
 
-- -Foamy urine
-- -Fatigue
-- -Swelling, particularly in the ankles and eyelids, and weight gain.
-- -Contact a doctor as they may be signs of a possible kidney problem.
+- Foamy urine
+- Fatigue
+- Swelling, particularly in the ankles and eyelids, and weight gain.
+- Contact a doctor as they may be signs of a possible kidney problem.
 
-## -Blood problems
+## - Blood problems
 
 (rare - may affect up to 1 in 1,000 people)
 
-The following may occur: Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome). Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness.  Your doctor may find changes in your blood and the function of your kidneys.
+The following may occur: Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome). Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness. Your doctor may find changes in your blood and the function of your kidneys.
 
 If you get some or all of these symptoms:
 
-- -Increased bruising or bleeding
-- -Extreme weakness
-- -Headache, dizziness or light-headedness
-- -Contact a doctor immediately.
+- Increased bruising or bleeding
+- Extreme weakness
+- Headache, dizziness or light-headedness
+- Contact a doctor immediately.
 
 ## Other side effects
 
@@ -2691,15 +2694,15 @@ If you get some or all of these symptoms:
 
 (may affect more than 1 in 10 people)
 
-- -Flu-like symptoms.  These symptoms are not really flu, see below. You can't pass it on to anyone else.
-- -Headache
-- -Muscle pain ( myalgia )
-- -Pain in your joints, arms, legs or neck ( arthralgia )
-- -Chills
-- -Fever
-- -Feeling weak and tired ( asthenia )
-- -Redness, itching or pain around the place you have injected
-- -If any of these effects trouble you, contact a doctor.
+- Flu-like symptoms. These symptoms are not really flu, see below. You can't pass it on to anyone else.
+- Headache
+- Muscle pain (myalgia)
+- Pain in your joints, arms, legs or neck (arthralgia)
+- Chills
+- Fever
+- Feeling weak and tired (asthenia)
+- Redness, itching or pain around the place you have injected
+- If any of these effects trouble you, contact a doctor.
 
 ## Flu-like symptoms
 
@@ -2717,32 +2720,32 @@ Three simple ways to help reduce the impact of flu-like symptoms:
 
 (may affect up to 1 in 10 people)
 
-- -Feeling or being sick (nausea or vomiting)
-- -Hair loss ( alopecia )
-- -Itchy skin ( pruritus )
-- -Increase in body temperature
-- -Changes around the place you have injected such as swelling, inflammation, bruising, warmth, rash or colour change
-- -Changes in your blood which might cause tiredness or reduced ability to fight infection
-- -Increases in liver enzymes in the blood (will show up in blood tests)
-- -If any of these effects trouble you, talk to your doctor.
+- Feeling or being sick (nausea or vomiting)
+- Hair loss (alopecia)
+- Itchy skin (pruritus)
+- Increase in body temperature
+- Changes around the place you have injected such as swelling, inflammation, bruising, warmth, rash or colour change
+- Changes in your blood which might cause tiredness or reduced ability to fight infection
+- Increases in liver enzymes in the blood (will show up in blood tests)
+- If any of these effects trouble you, talk to your doctor.
 
 ## Uncommon side effects
 
 (may affect up to 1 in 100 people)
 
-- -Hives
-- -Changes in your blood which might cause unexplained bruising or bleeding.
-- -If any of these effects trouble you, talk to your doctor.
+- Hives
+- Changes in your blood which might cause unexplained bruising or bleeding.
+- If any of these effects trouble you, talk to your doctor.
 
 ## Frequency not known
 
 (frequency cannot be estimated from the available data)
 
-- -Pulmonary arterial hypertension: A disease of severe narrowing of the blood vessels in the lungs resulting in high blood pressure in the blood vessels that carry blood from the heart to the lungs. Pulmonary arterial hypertension has been seen at various time points during treatment, including several years after starting treatment with interferon beta-products.
+- Pulmonary arterial hypertension: A disease of severe narrowing of the blood vessels in the lungs resulting in high blood pressure in the blood vessels that carry blood from the heart to the lungs. Pulmonary arterial hypertension has been seen at various time points during treatment, including several years after starting treatment with interferon beta-products.
 
 ## Children (10 years of age and above) and adolescents
 
-In clinical trials, some side effects were reported very commonly in both adults and children e.g., redness at the injection site, flu-like symptoms, headache, and fever.
+In clinical trials, some side effects were reported very commonly in both adults and children e.g., redness at the injection site, flu-like symptoms, headache, and fever. An increase in one liver enzyme in the blood was reported very commonly in children and commonly in adults.
 
 ## Reporting of side effects
 
@@ -2754,23 +2757,23 @@ In order to improve the traceability of this medicine, your doctor or pharmacist
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and the label after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and the label after \"EXP\". The expiry date refers to the last day of that month.
 
-- -Store in the original package in order to protect from light. Only open the pack when you need a new pen.
-- -Store in a refrigerator (fridge), 2º-8ºC.
-- -Do not freeze. Throw away any Plegridy that is accidentally frozen.
-- -Plegridy can be kept outside a fridge at room temperature (up to 25°C) for up to 30 days but it must be kept away from light .
+- Store in the original package in order to protect from light. Only open the pack when you need a new pen.
+- Store in a refrigerator (fridge), 2º-8ºC.
+- Do not freeze. Throw away any Plegridy that is accidentally frozen.
+- Plegridy can be kept outside a fridge at room temperature (up to 25°C) for up to 30 days but it must be kept away from light.
 
 <div style=\"page-break-after: always\"></div>
 
-- -Packs can be taken out of the fridge and then put back in a fridge more than once if you need to.
-- -Make sure the time the pens spend out of a fridge is no more than 30 days in total .
-- -Throw away any pen that is kept out of the fridge for more than 30 days.
-- -If you are unsure of the number of days you have kept a pen out of the fridge, throw the pen away.
-- -Do not use this medicine if you notice any of the following:
-- -If the pen is broken.
-- -If the solution is coloured, cloudy or you can see particles floating in it.
-- -Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+- Packs can be taken out of the fridge and then put back in a fridge more than once if you need to.
+- Make sure the time the pens spend out of a fridge is no more than 30 days in total.
+- Throw away any pen that is kept out of the fridge for more than 30 days.
+- If you are unsure of the number of days you have kept a pen out of the fridge, throw the pen away.
+- Do not use this medicine if you notice any of the following:
+- If the pen is broken.
+- If the solution is coloured, cloudy or you can see particles floating in it.
+- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -2784,7 +2787,7 @@ Each 94 microgram pre-filled pen contains 94 micrograms of peginterferon beta-1a
 
 Each 125 microgram pre-filled pen contains 125 micrograms of peginterferon beta-1a in 0.5 mL solution for injection.
 
-The other ingredients are: Sodium acetate trihydrate, acetic acid glacial, arginine hydrochloride, polysorbate 20 and water for injections (see Section 2 'Plegridy contains Sodium').
+The other ingredients are: Sodium acetate trihydrate, acetic acid glacial, arginine hydrochloride, polysorbate 20 and water for injections (see Section 2 \"Plegridy contains Sodium\").
 
 ## What Plegridy looks like and contents of the pack
 
@@ -2799,17 +2802,21 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp
+
+The Netherlands
 
 ## Manufacturer
 
-FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 DK-3400 Hillerød Denmark
+FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 DK-3400 Hillerød
 
-Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Denmark
+
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp
+
+The Netherlands For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -2817,25 +2824,11 @@ Biogen Belgium NV/SA
 
 Tél: +32 2 2191218
 
-## Lietuva
-
-Biogen Lithuania UAB
-
-Tel: +370 5 259 6176
-
 ## България
 
 ЕВОФАРМА ЕООД
 
-Teл.:
-
-+359 2 962 12 00
-
-## Luxembourg/Luxemburg
-
-Biogen Belgium NV/SA
-
-Tél: +32 2 2191218
+Teл.: +359 2 962 12 00
 
 ## Česká republika
 
@@ -2843,23 +2836,11 @@ Biogen (Czech Republic) s.r.o.
 
 Tel: +420 255 706 200
 
-## Magyarország
-
-Biogen Hungary Kft.
-
-Tel.: +36 1 899 9880
-
 ## Danmark
 
 Biogen Denmark A/S
 
 Tlf.: +45 77 41 57 57
-
-## Malta
-
-Pharma. MT Ltd..
-
-Tel: +356 21337008
 
 ## Deutschland
 
@@ -2867,37 +2848,17 @@ Biogen GmbH
 
 Tel: +49 (0) 89 99 6170
 
-## Nederland
-
-Biogen Netherlands B.V.
-
-Tel: +31 20 542 2000
-
 ## Eesti
 
 Biogen Estonia OÜ
 
 Tel: +372 618 9551
 
-## Norge
-
-Biogen Norway AS
-
-Tlf: +47 23 40 01 00
-
 ## Ελλάδα
 
 Genesis Pharma SA
 
-Τηλ:
-
-+30 210 8771500
-
-## Österreich
-
-Biogen Austria GmbH
-
-Tel: +43 1 484 46 13
+Τηλ: +30 210 8771500
 
 ## España
 
@@ -2905,17 +2866,77 @@ Biogen Spain S.L.
 
 Tel: +34 91 310 7110
 
-## Polska
-
-Biogen Poland Sp. z o.o.
-
-Tel.: +48 22 351 51 00
-
 ## France
 
 Biogen France SAS
 
 Tél: +33 (0)1 41 37 9595
+
+Hrvatska
+
+Biogen Pharma d.o.o.
+
+Tel: +385 1 775 73 22
+
+## Ireland
+
+Biogen Idec (Ireland) Ltd.
+
+Tel: +353 (0)1 463 7799
+
+## Ísland
+
+Icepharma hf
+
+Sími: +354 540 8000
+
+## Lietuva
+
+Biogen Lithuania UAB
+
+Tel: +370 5 259 6176
+
+## Luxembourg/Luxemburg
+
+Biogen Belgium NV/SA
+
+Tél: +32 2 2191218
+
+## Magyarország
+
+Biogen Hungary Kft.
+
+Tel.: +36 1 899 9880
+
+## Malta
+
+Pharma. MT Ltd.
+
+Tel: +356 21337008
+
+## Nederland
+
+Biogen Netherlands B.V.
+
+Tel: +31 20 542 2000
+
+## Norge
+
+Biogen Norway AS
+
+Tlf: +47 23 40 01 00
+
+## Österreich
+
+Biogen Austria GmbH
+
+Tel: +43 1 484 46 13
+
+## Polska
+
+Biogen Poland Sp. z o.o.
+
+Tel.: +48 22 351 51 00
 
 ## Portugal
 
@@ -2925,33 +2946,17 @@ Sociedade Farmacêutica, Unipessoal Lda.
 
 Tel: +351 21 318 8450
 
-## Hrvatska
-
-Biogen Pharma d.o.o.
-
-Tel: +385 1 775 73 22
-
 ## România
 
-Johnson &amp; Johnson Romania S.R.L. Tel: +40 21 207 18 00
+Johnson &amp; Johnson Romania S.R.L.
 
-## Ireland
-
-Biogen Idec (Ireland) Ltd.
-
-Tel: +353 (0)1 463 7799
+Tel: +40 21 207 18 00
 
 ## Slovenija
 
 Biogen Pharma d.o.o.
 
 Tel: +386 1 511 02 90
-
-## Ísland
-
-Icepharma hf
-
-Sími: +354 540 8000
 
 ## Slovenská republika
 
@@ -2965,25 +2970,11 @@ Biogen Italia s.r.l.
 
 Tel: +39 02 584 9901
 
-## Suomi/Finland
-
-Biogen Finland Oy
-
-Puh/Tel: +358 207 401 200
-
 ## Κύπρος
 
 Genesis Pharma Cyprus Ltd
 
-Τηλ:
-
-+357 22 76 57 15
-
-## Sverige
-
-Biogen Sweden AB
-
-Tel: +46 8 594 113 60
+Τηλ: +357 22 76 57 15
 
 ## Latvija
 
@@ -2991,18 +2982,29 @@ Biogen Latvia SIA
 
 Tel: +371 68 688 158
 
+## Suomi/Finland
+
+Biogen Finland Oy
+
+Puh/Tel: +358 207 401 200
+
+## Sverige
+
+Biogen Sweden AB
+
+Tel: +46 8 594 113 60
+
 <div style=\"page-break-after: always\"></div>
 
-This leaflet was last revised in &lt; { MM/YYYY }&gt; &lt;{ month YYYY }&gt;.
+This leaflet was last revised in &lt;{MM/YYYY}&gt; &lt;{month YYYY}&gt;.
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-7. Instructions for injecting Plegridy pre-filled pen
-2. Caution! Do not
+## 7. Instructions for injecting Plegridy pre-filled pen
 
-remove the cap until you are ready to inject.
+- Caution! Do not remove the cap until you are ready to inject.
 
 ## How to Inject Plegridy
 
@@ -3010,7 +3012,7 @@ Read the instructions for use before you start using Plegridy and each time you 
 
 ## Note:
 
-- Before you use the pen for the first time , your doctor or nurse should show you or your carer how to prepare and inject the pen.
+- Before you use the pen for the first time, your doctor or nurse should show you or your carer how to prepare and inject the pen.
 - The pen is for use under the skin only (subcutaneous).
 - Each pen can be used once only.
 - Do not share the pen with anyone else to avoid giving an infection to them or getting an infection from them.
@@ -3021,21 +3023,22 @@ Read the instructions for use before you start using Plegridy and each time you 
 
 The Initiation Pack contains your first two injections to gradually adjust your dose. Choose the correct pen from a pack.
 
-| When                   | Which dose                                                          | Which pack   |
-|------------------------|---------------------------------------------------------------------|--------------|
-| Day 0 (63 micrograms)  | First injection: 63 micrograms, choose orange pen Second injection: |              |
-| Day 14 (94 micrograms) | 94 micrograms, choose blue pen                                      |              |
+<!-- image -->
+
+| When                                         | Which dose                                                                                         | Which pack   |
+|----------------------------------------------|----------------------------------------------------------------------------------------------------|--------------|
+| Day 0 (63 micrograms) Day 14 (94 micrograms) | First injection: 63 micrograms, choose orange pen Second injection: 94 micrograms, choose blue pen |              |
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-- Do not use more than one pen per 14-day period (every 2 weeks).
+- Do not use more than one pen per 14-day period (every 2 weeks). A
 
-## Supplies needed for your Plegridy Pen injection :
+## Supplies needed for your Plegridy Pen injection:
 
 - 1 Plegridy Pen (see Figure A) Before use - Parts of Plegridy Pen (Figure A)
-- Caution! Do not remove the cap until you are ready to inject. If you remove the cap, do not recap the pen. Re-capping could cause the pen to lock.
+- Caution! Do not remove the cap until you are ready to inject. If you remove the cap, do not recap the pen. Re-capping could cause the pen to lock. A
 
 Figure A
 
@@ -3043,7 +3046,7 @@ Figure A
 
 ## Additional supplies which are not included in the pack (see Figure B):
 
-FigureB
+Figure B
 
 <!-- image -->
 
@@ -3054,7 +3057,7 @@ FigureB
 - a. Remove your Plegridy pack from the fridge and select the appropriate pen (dosage) from the pack.
 - b. Close the pack and put back in the fridge after removing one pen.
 - c. Let the pen warm to room temperature for at least 30 minutes.
-4. Do not use external heat sources, such as hot water, to warm your pen. A
+4. Do not use external heat sources, such as hot water, to warm your pen.
 
 ## Step 2: Collect your supplies and wash your hands.
 
@@ -3073,23 +3076,23 @@ FigureB
 - It is expired.
 - The liquid is coloured, cloudy or contains floating particles.
 
-Note:  You might see air bubbles in the medicine window. This is normal and will not affect your dose.
+Note: You might see air bubbles in the medicine window. This is normal and will not affect your dose.
 
-- Do not use the pen if it has been dropped or is visibly damaged. A
-
-## Step 4:  Choose and clean your injection site
-
-- a. Choose an injection site in your thigh, abdomen, or the back of your upper arm (see highlighted areas in Figure D).
-- If some areas are too difficult for you to reach, ask a carer who has been trained to help you.
-3. Do not inject into an area of your body where the skin is irritated, red, bruised, tattooed, infected, or scarred. A
-4. Do not inject directly into your belly button. A
-- b. Wipe your skin with an alcohol wipe.
-6. Note: Do not touch or blow on this area again before giving your injection. A
-- c. Let your injection site dry on its own before injecting your dose.
+- Do not use the pen if it has been dropped or is visibly damaged.
 
 Figure C
 
 <!-- image -->
+
+## Step 4: Choose and clean your injection site
+
+- a. Choose an injection site in your thigh, abdomen, or the back of your upper arm (see highlighted areas in Figure D).
+- If some areas are too difficult for you to reach, ask a carer who has been trained to help you.
+3. Do not inject into an area of your body where the skin is irritated, red, bruised, tattooed, infected, or scarred.
+4. Do not inject directly into your belly button.
+- b. Wipe your skin with an alcohol wipe.
+6. Note: Do not touch or blow on this area again before giving your injection.
+- c. Let your injection site dry on its own before injecting your dose.
 
 Figure D
 
@@ -3099,29 +3102,29 @@ Figure D
 
 ## Giving your injection
 
-## Step 5:  Remove the Plegridy pen cap
+## Step 5: Remove the Plegridy pen cap
 
 - a. Pull the pen cap straight off and set it aside (see Figure E). Your pen is now ready to inject.
-2. Warning! Do not touch, clean, or manipulate the needle cover. You could get a needle injury or the pen may lock. A
-3. Caution! Do not re-cap your pen. This could lock the pen A
+2. Warning! Do not touch, clean, or manipulate the needle cover. You could get a needle injury or the pen may lock.
+3. Caution! Do not re-cap your pen. This could lock the pen
 
 ## Step 6: Give the injection
 
 - a. Hold the pen over your injection site. Make sure you can see the green stripes in the injection status window (see Figure F).
 - You should hold the pen over your injection site at 90 o angle.
-3. Warning! Do not rest the pen on the injection site until you are ready to inject. This may cause the pen to accidently lock. A
+3. Warning! Do not rest the pen on the injection site until you are ready to inject. This may cause the pen to accidently lock.
 - b. Firmly press and hold down the pen on your injection site. You will hear the clicking sounds start. This tells you that the injection is happening (see Figure G).
 - c. Continue to hold the pen firmly down on your injection site until the clicking sounds have stopped (see Figure H).
 6. Do not lift your pen off your injection site until the clicking sounds stop and you see green ticks in the injection status window. A
 7. Warning! If you do not hear clicking sounds or you do not see green ticks in the injection status window after attempting to inject, the pen may have locked and you may not have received your injection. You should then contact your doctor, nurse or pharmacist. A
-
-<!-- image -->
 
 Figure E
 
 <!-- image -->
 
 Figure F
+
+<!-- image -->
 
 Figure G
 
@@ -3138,7 +3141,7 @@ Figure H
 - a. After the clicking sound has stopped, lift the pen from your injection site. The needle cover will extend to cover the needle and will lock (see Figure I).
 - If you see blood at your injection site, wipe it off with the gauze pad and apply an adhesive bandage or plaster
 
-Figurel
+Figure I
 
 <!-- image -->
 
@@ -3166,7 +3169,7 @@ Figure J
 ## Step 9: Dispose of used Plegridy pen
 
 - Check with your doctor, pharmacist or nurse about the right way to throw away the used pen.
-- Do not re-cap the pen.
+- Do not re-cap the pen. A
 
 ## Step 10: Care for your injection site
 
@@ -3184,9 +3187,13 @@ Figure J
 
 ## General warnings
 
-- Do not reuse your Plegridy pen.
+<!-- image -->
+
+- Do not reuse your Plegridy pen. A
 - Do not share your Plegridy pen.
 - Keep Plegridy pen and all medicines out of reach of children.
+
+<!-- image -->
 
 ## Storage
 
@@ -3199,14 +3206,16 @@ Figure J
 
 <div style=\"page-break-after: always\"></div>
 
-## Plegridy 125 micrograms solution for injection in pre-filled syringe peginterferon beta-1a
+## Plegridy 125 micrograms solution for injection in pre-filled syringe
+
+peginterferon beta-1a
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3232,9 +3241,9 @@ MS is a long term illness that affects the central nervous system (CNS), includi
 
 ## Everyone has their own set of MS symptoms. These can include:
 
-- -Feeling off-balance or light headed, walking problems, stiffness and muscle spasms, tiredness, numbness in the face, arms or legs
-- -Acute or chronic pain, bladder and bowel problems, sexual problems and problems with vision
-- -Difficulty thinking and concentrating, depression.
+- Feeling off-balance or light headed, walking problems, stiffness and muscle spasms, tiredness, numbness in the face, arms or legs
+- Acute or chronic pain, bladder and bowel problems, sexual problems and problems with vision
+- Difficulty thinking and concentrating, depression.
 
 ## How Plegridy works
 
@@ -3246,29 +3255,29 @@ Plegridy seems to work by stopping the body's immune system from damaging your b
 
 ## Do not use Plegridy
 
-- -If you are allergic to peginterferon beta-1a, interferon beta-1a or any of the ingredients of this medicine (listed in section 6). See section 4 for the symptoms of an allergic reaction.
-- -If you have severe depression or think about committing suicide.
+- If you are allergic to peginterferon beta-1a, interferon beta-1a or any of the ingredients of this medicine (listed in section 6). See section 4 for the symptoms of an allergic reaction.
+- If you have severe depression or think about committing suicide.
 
 ## Warnings and precautions Talk to your doctor if you have ever had:
 
-- -Depression or problems affecting your mood
-- -Thoughts about committing suicide
-- -Your doctor may still prescribe Plegridy for you, but it's important to let your doctor know if you have had depression or any similar problems affecting your mood in the past.
+- Depression or problems affecting your mood
+- Thoughts about committing suicide
+- Your doctor may still prescribe Plegridy for you, but it's important to let your doctor know if you have had depression or any similar problems affecting your mood in the past.
 
-Talk to your doctor, pharmacist or nurse before injecting Plegridy if you have any of the conditions listed below. They may get worse while using Plegridy :
+Talk to your doctor, pharmacist or nurse before injecting Plegridy if you have any of the conditions listed below. They may get worse while using Plegridy:
 
-- -Serious liver or kidney problems
-- -Irritation at an injection site, which can lead to skin and tissue damage ( injection site necrosis ). When you are ready to inject, carefully follow the instructions in section 7 ' Instructions for injecting Plegridy pre-filled syringe ', at the end of this leaflet. This is to reduce the risk of injection site reactions.
-- -Epilepsy or other seizure disorders, not controlled by medicine
-- -Heart problems , which can cause symptoms such as chest pain ( angina ), particularly after any activity; swollen ankles, shortness of breath ( congestive heart failure ); or an irregular heartbeat ( arrhythmia ).
-- -Thyroid problems
-- -A low number of white blood cells or platelets , which can cause an increased risk of infection, or bleeding
+- Serious liver or kidney problems
+- Irritation at an injection site, which can lead to skin and tissue damage (injection site necrosis). When you are ready to inject, carefully follow the instructions in section 7 \"Instructions for injecting Plegridy pre-filled syringe\", at the end of this leaflet. This is to reduce the risk of injection site reactions.
+- Epilepsy or other seizure disorders, not controlled by medicine
+- Heart problems, which can cause symptoms such as chest pain (angina), particularly after any activity; swollen ankles, shortness of breath (congestive heart failure); or an irregular heartbeat (arrhythmia).
+- Thyroid problems
+- A low number of white blood cells or platelets, which can cause an increased risk of infection, or bleeding
 
 ## Other things to consider when using Plegridy
 
-- -You will need blood tests to determine your numbers of blood cells, blood chemistry and your levels of liver enzymes. These will be performed before you start using Plegridy, regularly after treatment with Plegridy has been initiated and then periodically during treatment, even if you have no particular symptoms. These blood tests will be in addition to the tests which are normally done to monitor your MS.
-- -The functioning of your thyroid gland will be checked regularly or whenever thought necessary by your doctor.
-- -Blood clots in the small blood vessels may occur during your treatment. These blood clots could affect your kidneys. This might happen several weeks to several years after starting Plegridy. Your doctor may want to check your blood pressure, blood (platelet count) and the function of your kidneys.
+- You will need blood tests to determine your numbers of blood cells, blood chemistry and your levels of liver enzymes. These will be performed before you start using Plegridy, regularly after treatment with Plegridy has been initiated and then periodically during treatment, even if you have no particular symptoms. These blood tests will be in addition to the tests which are normally done to monitor your MS.
+- The functioning of your thyroid gland will be checked regularly or whenever thought necessary by your doctor.
+- Blood clots in the small blood vessels may occur during your treatment. These blood clots could affect your kidneys. This might happen several weeks to several years after starting Plegridy. Your doctor may want to check your blood pressure, blood (platelet count) and the function of your kidneys.
 
 If you accidentally prick yourself or someone else with the needle in Plegridy, the area affected should be washed immediately with soap and water and a doctor or nurse should be contacted as soon as possible.
 
@@ -3280,7 +3289,7 @@ Plegridy should not be used in children and adolescents because it is yet to be 
 
 ## Other medicines and Plegridy
 
-Plegridy should be used carefully with medicines that are broken down in the body by a group of proteins called 'cytochrome P450' (e.g. some medicines used for epilepsy or depression).
+Plegridy should be used carefully with medicines that are broken down in the body by a group of proteins called \"cytochrome P450\" (e.g. some medicines used for epilepsy or depression).
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines, especially those used to treat epilepsy or depression. This includes any medicines obtained without a prescription.
 
@@ -3298,7 +3307,7 @@ Plegridy has no or negligible influence on the ability to drive and use machines
 
 ## Plegridy contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg), that is to say it is essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg), that is to say it is essentially \"sodium-free\".
 
 ## 3. How to use Plegridy
 
@@ -3314,15 +3323,21 @@ If you are new to Plegridy, your doctor may advise you to gradually increase you
 
 The full dose from the Plegridy intramuscular pre-filled syringe is 125 micrograms. Plegridy Titration Clips can be attached to the syringe so that you can gradually increase your dose:
 
-Dose 1 on day 0: 1/2 dose (63 micrograms) with YELLOW titration clip
+Dose 1 on day 0:
 
-Dose 2 on day 14: 3/4 dose (94 micrograms) with PURPLE titration clip
+1/2 dose (63 micrograms) with YELLOW titration clip
 
-Dose 3 on day 28 and then every 2 weeks: full dose (125 micrograms) - NO titration clip needed
+Dose 2 on day 14:
+
+3/4 dose (94 micrograms) with PURPLE titration clip
+
+Dose 3 on day 28 and then every 2 weeks:
+
+full dose (125 micrograms) - NO titration clip needed
 
 Plegridy supplied in this pack is meant for injection into your thigh muscle.
 
-Read the instructions in section 7 ' Instructions for injecting Plegridy pre-filled syringe ' at the end of this leaflet before you start using Plegridy.
+Read the instructions in section 7 \"Instructions for injecting Plegridy pre-filled syringe\" at the end of this leaflet before you start using Plegridy.
 
 Check with your doctor nurse or pharmacist if you are unsure how you should inject your medicine.
 
@@ -3332,12 +3347,12 @@ Intramuscular is abbreviated as IM on the syringe label.
 
 ## Injecting yourself
 
-Plegridy is to be injected into the thigh muscle ( intramuscular injection ). Alternate the sites you use for injections. Do not use the same injection site for consecutive injections.
+Plegridy is to be injected into the thigh muscle (intramuscular injection). Alternate the sites you use for injections. Do not use the same injection site for consecutive injections.
 
 You can inject Plegridy yourself without the help of your doctor, if you have been trained how to do this.
 
-- -Read and follow the advice given in the instructions in section 7 ' Instructions for injecting Plegridy pre-filled syringe ' before you start.
-- -If you have trouble handling the syringe, ask your doctor or nurse who may be able to help.
+- Read and follow the advice given in the instructions in section 7 \"Instructions for injecting Plegridy pre-filled syringe\" before you start.
+- If you have trouble handling the syringe, ask your doctor or nurse who may be able to help.
 
 ## How long to use Plegridy
 
@@ -3347,7 +3362,7 @@ Your doctor will tell you how long you need to keep using Plegridy. It is import
 
 You must only inject Plegridy once every 2 weeks.
 
-- -If you have used more than one injection of Plegridy in a 7-day period, contact your doctor or nurse straight away.
+- If you have used more than one injection of Plegridy in a 7-day period, contact your doctor or nurse straight away.
 
 ## If you forget to use Plegridy
 
@@ -3363,81 +3378,82 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-## -Liver problems
+## - Liver problems
 
 (common - may affect up to 1 in 10 people)
 
 If you get any of these symptoms:
 
-- -Yellowing of your skin or the whites of your eyes
-- -Itching all over
-- -Feeling sick, being sick (nausea and vomiting)
-- -
+- Yellowing of your skin or the whites of your eyes
+- Itching all over
+- Feeling sick, being sick (nausea and vomiting)
 - Easy bruising of the skin
-- -Contact a doctor immediately. They may be signs of a possible liver problem.
+- Contact a doctor immediately. They may be signs of a possible liver problem.
 
-## -Depression
+## - Depression
 
 (common - may affect up to 1 in 10 people)
 
-## If you:
+If you:
 
-- -Feel unusually sad, anxious or worthless or
-- -Have thoughts about suicide
-- -Contact a doctor immediately.
+- Feel unusually sad, anxious or worthless or
+- Have thoughts about suicide
+- Contact a doctor immediately.
 
-## -Serious allergic reaction
+## - Serious allergic reaction
 
 (uncommon - may affect up to 1 in 100 people)
 
 If you get any of these:
 
-- -Difficulty breathing
+- Difficulty breathing
 
 <div style=\"page-break-after: always\"></div>
 
-- -Swelling around the face (lips, tongue or throat)
-- -Skin rashes or redness
-- -Contact a doctor immediately.
+- Swelling around the face (lips, tongue or throat)
+- Skin rashes or redness
+- Contact a doctor immediately.
 
-## -Seizures
+## - Seizures
 
-(uncommon - may affect up to 1 in 100 people) If you have a seizure or a fit
+(uncommon - may affect up to 1 in 100 people)
 
-- -Contact a doctor immediately.
+If you have a seizure or a fit
 
-## -Injection site damage
+- Contact a doctor immediately.
+
+## - Injection site damage
 
 (rare - may affect up to 1 in 1,000 people)
 
 If you get any of these symptoms:
 
-- -Any break in the skin together with swelling, inflammation or fluid leaking around the injection site
-- -Contact a doctor for advice.
+- Any break in the skin together with swelling, inflammation or fluid leaking around the injection site
+- Contact a doctor for advice.
 
-## -Kidney problems including scarring that may reduce your kidney function
+## - Kidney problems including scarring that may reduce your kidney function
 
 (rare - may affect up to 1 in 1,000 people)
 
 If you get some or all of these symptoms:
 
-- -Foamy urine
-- -Fatigue
-- -Swelling, particularly in the ankles and eyelids, and weight gain.
-- -Contact a doctor as they may be signs of a possible kidney problem.
+- Foamy urine
+- Fatigue
+- Swelling, particularly in the ankles and eyelids, and weight gain.
+- Contact a doctor as they may be signs of a possible kidney problem.
 
-## -Blood problems
+## - Blood problems
 
 (rare - may affect up to 1 in 1,000 people)
 
-The following may occur: Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome). Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness.  Your doctor may find changes in your blood and the function of your kidneys.
+The following may occur: Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome). Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness. Your doctor may find changes in your blood and the function of your kidneys.
 
 If you get some or all of these symptoms:
 
-- -Increased bruising or bleeding
-- -Extreme weakness
-- -Headache, dizziness or light-headedness
-- -Contact a doctor immediately.
+- Increased bruising or bleeding
+- Extreme weakness
+- Headache, dizziness or light-headedness
+- Contact a doctor immediately.
 
 ## Other side effects
 
@@ -3445,15 +3461,15 @@ If you get some or all of these symptoms:
 
 (may affect more than 1 in 10 people)
 
-- -Flu-like symptoms.  These symptoms are not really flu, see below. You can't pass it on to anyone else.
-- -Headache
-- -Muscle pain ( myalgia )
-- -Pain in your joints, arms, legs or neck ( arthralgia )
-- -Chills
-- -Fever
-- -Feeling weak and tired ( asthenia )
-- -Redness, itching or pain around the place you have injected
-- -If any of these effects trouble you, contact a doctor.
+- Flu-like symptoms. These symptoms are not really flu, see below. You can't pass it on to anyone else.
+- Headache
+- Muscle pain (myalgia)
+- Pain in your joints, arms, legs or neck (arthralgia)
+- Chills
+- Fever
+- Feeling weak and tired (asthenia)
+- Redness, itching or pain around the place you have injected
+- If any of these effects trouble you, contact a doctor.
 
 ## Flu-like symptoms
 
@@ -3471,32 +3487,32 @@ Three simple ways to help reduce the impact of flu-like symptoms:
 
 (may affect up to 1 in 10 people)
 
-- -Feeling or being sick (nausea or vomiting)
-- -Hair loss ( alopecia )
-- -Itchy skin ( pruritus )
-- -Increase in body temperature
-- -Changes around the place you have injected such as swelling, inflammation, bruising, warmth, rash or colour change
-- -Changes in your blood which might cause tiredness or reduced ability to fight infection
-- -Increases in liver enzymes in the blood (will show up in blood tests)
-- -If any of these effects trouble you, contact a doctor.
+- Feeling or being sick (nausea or vomiting)
+- Hair loss (alopecia)
+- Itchy skin (pruritus)
+- Increase in body temperature
+- Changes around the place you have injected such as swelling, inflammation, bruising, warmth, rash or colour change
+- Changes in your blood which might cause tiredness or reduced ability to fight infection
+- Increases in liver enzymes in the blood (will show up in blood tests)
+- If any of these effects trouble you, contact a doctor.
 
 ## Uncommon side effects
 
 (may affect up to 1 in 100 people)
 
-- -Hives
-- -Changes in your blood which might cause unexplained bruising or bleeding.
-- -If any of these effects trouble you, contact a doctor.
+- Hives
+- Changes in your blood which might cause unexplained bruising or bleeding.
+- If any of these effects trouble you, contact a doctor.
 
 ## Frequency not known
 
 (frequency cannot be estimated from the available data)
 
-- -Pulmonary arterial hypertension: A disease of severe narrowing of the blood vessels in the lungs resulting in high blood pressure in the blood vessels that carry blood from the heart to the lungs. Pulmonary arterial hypertension has been seen at various time points during treatment, including several years after starting treatment with interferon beta-products.
+- Pulmonary arterial hypertension: A disease of severe narrowing of the blood vessels in the lungs resulting in high blood pressure in the blood vessels that carry blood from the heart to the lungs. Pulmonary arterial hypertension has been seen at various time points during treatment, including several years after starting treatment with interferon beta-products.
 
 ## Children (10 years of age and above) and adolescents
 
-In clinical trials, some side effects were reported very commonly in both adults and children, e.g., redness at the injection site, flu-like symptoms, headache, and fever.
+In clinical trials, some side effects were reported very commonly in both adults and children, e.g., redness at the injection site, flu-like symptoms, headache, and fever. An increase in one liver enzyme in the blood was reported very commonly in children and commonly in adults.
 
 ## Reporting of side effects
 
@@ -3508,25 +3524,22 @@ In order to improve the traceability of this medicine, your doctor or pharmacist
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and the label after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and the label after \"EXP\". The expiry date refers to the last day of that month.
 
 <div style=\"page-break-after: always\"></div>
 
-- -Store in the original package in order to protect from light. Only open the pack when you need a new syringe.
-- -Store in a refrigerator (fridge) 2 º-8 ºC.
-- -Do not freeze. Throw away any Plegridy that is accidentally frozen.
-- -Plegridy can be kept outside a fridge at room temperature (up to 25 °C) for up to 30 days but it must be kept away from light .
-- -Packs can be taken out of the fridge and then put back in a fridge more than once if you need to.
-- -Make sure the time the syringes spend out of a fridge is no more than 30 days in total
-
-.
-
-- -Throw away any syringe that is kept out of the fridge for more than 30 days.
-- -If you are unsure of the number of days you have kept a syringe out of the fridge, throw the syringe away.
-- -Do not use this medicine if you notice any of the following:
-- -If the syringe is broken.
-- -If the solution is coloured, cloudy or you can see particles floating in it.
-- -Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+- Store in the original package in order to protect from light. Only open the pack when you need a new syringe.
+- Store in a refrigerator (fridge) 2 º-8 ºC.
+- Do not freeze. Throw away any Plegridy that is accidentally frozen.
+- Plegridy can be kept outside a fridge at room temperature (up to 25 °C) for up to 30 days but it must be kept away from light.
+- Packs can be taken out of the fridge and then put back in a fridge more than once if you need to.
+- Make sure the time the syringes spend out of a fridge is no more than 30 days in total.
+- Throw away any syringe that is kept out of the fridge for more than 30 days.
+- If you are unsure of the number of days you have kept a syringe out of the fridge, throw the syringe away.
+- Do not use this medicine if you notice any of the following:
+- If the syringe is broken.
+- If the solution is coloured, cloudy or you can see particles floating in it.
+- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -3536,13 +3549,13 @@ The active ingredient is peginterferon beta-1a.
 
 Each 125 microgram pre-filled syringe contains 125 micrograms of peginterferon beta-1a in 0.5 mL solution for injection.
 
-The other ingredients are: Sodium acetate trihydrate, acetic acid glacial, arginine hydrochloride, polysorbate 20 and water for injections (see Section 2 'Plegridy contains sodium').
+The other ingredients are: Sodium acetate trihydrate, acetic acid glacial, arginine hydrochloride, polysorbate 20 and water for injections (see Section 2 \"Plegridy contains sodium\").
 
 ## What Plegridy looks like and contents of the pack
 
 Plegridy is a clear and colourless solution for injection in a glass pre-filled syringe supplied with a needle.
 
-## Pack sizes:
+Pack sizes:
 
 - The syringes are provided in a pack containing either two or six pre-filled syringes with 23 gauge, 1.25 inch long sterile needles.
 
@@ -3558,7 +3571,11 @@ FUJIFILM Diosynth Biotechnologies Denmark ApS Biotek Allé 1 DK-3400 Hillerød D
 
 Biogen Netherlands B.V.
 
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Prins Mauritslaan 13
+
+1171 LP Badhoevedorp
+
+The Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3570,25 +3587,11 @@ Biogen Belgium NV/SA
 
 Tél: +32 2 2191218
 
-## Lietuva
-
-Biogen Lithuania UAB
-
-Tel: +370 5 259 6176
-
 ## България
 
 ЕВОФАРМА ЕООД
 
-Teл.:
-
-+359 2 962 12 00
-
-## Luxembourg/Luxemburg
-
-Biogen Belgium NV/SA
-
-Tél: +32 2 2191218
+Teл.: +359 2 962 12 00
 
 ## Česká republika
 
@@ -3596,23 +3599,11 @@ Biogen (Czech Republic) s.r.o.
 
 Tel: +420 255 706 200
 
-## Magyarország
-
-Biogen Hungary Kft.
-
-Tel.: +36 1 899 9880
-
 ## Danmark
 
 Biogen Denmark A/S
 
 Tlf.: +45 77 41 57 57
-
-## Malta
-
-Pharma. MT Ltd..
-
-Tel: +356 21337008
 
 ## Deutschland
 
@@ -3620,37 +3611,17 @@ Biogen GmbH
 
 Tel: +49 (0) 89 99 6170
 
-## Nederland
-
-Biogen Netherlands B.V.
-
-Tel: +31 20 542 2000
-
 ## Eesti
 
 Biogen Estonia OÜ
 
 Tel: +372 618 9551
 
-## Norge
-
-Biogen Norway AS
-
-Tlf: +47 23 40 01 00
-
 ## Ελλάδα
 
 Genesis Pharma SA
 
-Τηλ:
-
-+30 210 8771500
-
-## Österreich
-
-Biogen Austria GmbH
-
-Tel: +43 1 484 46 13
+Τηλ: +30 210 8771500
 
 ## España
 
@@ -3658,25 +3629,11 @@ Biogen Spain S.L.
 
 Tel: +34 91 310 7110
 
-## Polska
-
-Biogen Poland Sp. z o.o.
-
-Tel.: +48 22 351 51 00
-
 ## France
 
 Biogen France SAS
 
 Tél: +33 (0)1 41 37 9595
-
-## Portugal
-
-Biogen Portugal
-
-Sociedade Farmacêutica, Unipessoal Lda.
-
-Tel: +351 21 318 8450
 
 ## Hrvatska
 
@@ -3684,23 +3641,11 @@ Biogen Pharma d.o.o.
 
 Tel: +385 1 775 73 22
 
-## România
-
-Johnson &amp; Johnson Romania S.R.L.
-
-Tel: +40 21 207 18 00
-
 ## Ireland
 
 Biogen Idec (Ireland) Ltd.
 
 Tel: +353 (0)1 463 7799
-
-## Slovenija
-
-Biogen Pharma d.o.o.
-
-Tel: +386 1 511 02 90
 
 ## Ísland
 
@@ -3708,17 +3653,93 @@ Icepharma hf
 
 Sími: +354 540 8000
 
+## Lietuva
+
+Biogen Lithuania UAB
+
+Tel: +370 5 259 6176
+
+## Luxembourg/Luxemburg
+
+Biogen Belgium NV/SA
+
+Tél: +32 2 2191218
+
+## Magyarország
+
+Biogen Hungary Kft.
+
+Tel.: +36 1 899 9880
+
+## Malta
+
+Pharma. MT Ltd.
+
+Tel: +356 21337008
+
+## Nederland
+
+Biogen Netherlands B.V.
+
+Tel: +31 20 542 2000
+
+## Norge
+
+Biogen Norway AS
+
+Tlf: +47 23 40 01 00
+
+## Österreich
+
+Biogen Austria GmbH
+
+Tel: +43 1 484 46 13
+
+## Polska
+
+Biogen Poland Sp. z o.o.
+
+Tel.: +48 22 351 51 00
+
+## Portugal
+
+Biogen Portugal Sociedade Farmacêutica, Unipessoal Lda. Tel: +351 21 318 8450
+
+## România
+
+Johnson &amp; Johnson Romania S.R.L.
+
+Tel: +40 21 207 18 00
+
+## Slovenija
+
+Biogen Pharma d.o.o.
+
+Tel: +386 1 511 02 90
+
 ## Slovenská republika
 
 Biogen Slovakia s.r.o.
 
 Tel: +421 2 323 34008
 
-Italia
+## Italia
 
 Biogen Italia s.r.l.
 
 Tel: +39 02 584 9901
+
+## Κύπρος
+
+Genesis Pharma Cyprus Ltd
+
+Τηλ: +357 22 76 57 15
+
+## Latvija
+
+Biogen Latvia SIA
+
+Tel: +371 68 688 158
 
 ## Suomi/Finland
 
@@ -3726,29 +3747,15 @@ Biogen Finland Oy
 
 Puh/Tel: +358 207 401 200
 
-## Κύπρος
-
-Genesis Pharma Cyprus Ltd
-
-Τηλ:
-
-+357 22 76 57 15
-
 Sverige
 
 Biogen Sweden AB
 
 Tel: +46 8 594 113 60
 
-Latvija
-
-Biogen Latvia SIA
-
-Tel: +371 68 688 158
-
 <div style=\"page-break-after: always\"></div>
 
-This leaflet was last revised in &lt; { MM/YYYY }&gt; &lt;{ month YYYY }&gt;.
+This leaflet was last revised in &lt;{MM/YYYY}&gt; &lt;{month YYYY}&gt;.
 
 ## Other sources of information
 
@@ -3771,11 +3778,13 @@ Read the instructions for use before you start using Plegridy pre-filled syringe
 
 If you are new to Plegridy your dose may be titrated over 2 injections by using the syringe with the Plegridy titration kit.
 
+```
 o Dose 1: ½ dose (yellow titration clip) (not supplied as part of the pack) o Dose 2: ¾ dose (purple titration clip) (not supplied as part of the pack) o Dose 3: a full dose (no clip required)
+```
 
 <div style=\"page-break-after: always\"></div>
 
-- The   Plegridy titration clips are for single use only with the Plegridy pre-filled syringe. Do not re-use the syringe or titration clips.
+- The Plegridy titration clips are for single use only with the Plegridy pre-filled syringe. Do not re-use the syringe or titration clips.
 - You must prepare the Plegridy pre-filled syringe and needle before you put it into the Plegridy titration clip
 
 ## Preparing the dose of Plegridy:
@@ -3797,9 +3806,9 @@ Step 1: Check the syringe (See Figure A):
 - the solution is cloudy, colored, or has lumps or particles in it
 - the cap has been removed or is not tightly attached
 
-Do not use that syringe if you see any of the above.  Get a new syringe.
+Do not use that syringe if you see any of the above. Get a new syringe.
 
-Step 2: With 1 hand, hold the  syringe right under the cap and with the cap pointing up (See Figure B).
+Step 2: With 1 hand, hold the syringe right under the cap and with the cap pointing up (See Figure B).
 
 - Make sure you are holding the syringe by the ridged part, directly under the cap.
 
@@ -3817,19 +3826,19 @@ Step 3: With the other hand, grasp the cap and bend it at a 90º angle until the
 
 This will expose the syringe glass tip (See Figure D).
 
-Step 4: Open the single use sterile needle package and take out the covered needle. Hold the syringe with the glass syringe tip pointing up. Press the needle on the  syringe glass tip (See Figure E).
+Step 4: Open the single use sterile needle package and take out the covered needle. Hold the syringe with the glass syringe tip pointing up. Press the needle on the syringe glass tip (See Figure E).
 
 <!-- image -->
 
 Figure C
+
+<!-- image -->
 
 Figure D
 
 <!-- image -->
 
 Figure E
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3840,22 +3849,22 @@ Step 5: Gently turn the needle forward (clockwise) until it is tight and firmly 
 
 ## Giving the Plegridy injection:
 
-- Your healthcare provider should show you or a caregiver how to prepare and inject the dose of Plegridy before a syringe is used for the first time.  Your healthcare provider or nurse should watch you inject the dose of Plegridy the first time the syringe is used.
+- Your healthcare provider should show you or a caregiver how to prepare and inject the dose of Plegridy before a syringe is used for the first time. Your healthcare provider or nurse should watch you inject the dose of Plegridy the first time the syringe is used.
 - Inject your Plegridy exactly as your healthcare provider has shown you.
 - Plegridy is injected into the muscle (intramuscularly).
 - Plegridy should be injected into the thigh (See Figure G).
 - Change (rotate) your injection sites for each dose. Do not use the same injection site for each injection.
 - Do not inject into an area of the body where the skin is irritated, reddened, bruised, infected or scarred in any way.
 
-Step 6: Choose either your left or right thigh and wipe the skin with an alcohol wipe (See Figure G).  Let the injection site dry before injecting the dose.
+Step 6: Choose either your left or right thigh and wipe the skin with an alcohol wipe (See Figure G). Let the injection site dry before injecting the dose.
 
 - Do not touch, blow or wipe this area again before giving the injection.
 
 Step 7: Pull the protective cover straight off the needle (See Figure H). Do not twist the cover off.
 
-<!-- image -->
-
 Figure G
+
+<!-- image -->
 
 Figure H
 
@@ -3867,17 +3876,15 @@ Figure F
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-| Step 8: With 1 hand, stretch the skin out around the injection site. With the other hand, hold the syringe like a pencil. Use a quick dart-like motion and insert the needle at a 90 o degree angle, through the skin and into the muscle (See Figure I). Once the needle is in, let go of the skin.    | Figure I   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| Step 9: Slowly push the plunger down until the syringe is empty (See Figure J).                                                                                                                                                                                                                         |            |
-| Step 10: Pull the needle out of the skin (See Figure K). Press down on the injection site with the gauze pad for a few seconds or rub gently in a circular motion. • If you see blood after you press the injection site for a few seconds, wipe it off with gauze pad • and apply an adhesive bandage. | Figure K   |
+| Step 8: With 1 hand, stretch the skin out around the injection site. With the other hand, hold the syringe like a pencil. Use a quick dart-like motion and insert the needle at a 90 o angle, through the skin and into the muscle (See Figure I). Once the needle is in, let go of the skin.           | Figure I          |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Step 9: Slowly push the plunger down until the syringe is empty (See Figure J).                                                                                                                                                                                                                         |                   |
+| Step 10: Pull the needle out of the skin (See Figure K). Press down on the injection site with the gauze pad for a few seconds or rub gently in a circular motion. • If you see blood after you press the injection site for a few seconds, wipe it off with gauze pad • and apply an adhesive bandage. | Figure J Figure K |
 
 ## After the Plegridy injection:
 
-- Do not recap the needle.  Recapping the needle can lead to a needle stick injury.
-- Throw away the used syringes and needles in a sharps container or some type of hard plastic or metal container with a screw cap such as a detergent bottle or coffee can.  Check with your healthcare provider about the right way to throw away the container.  There may be local or state laws about how to throw away used syringes and needles. Do not throw away used syringes and needles in household trash or recycling bins.
+- Do not recap the needle. Recapping the needle can lead to a needle stick injury.
+- Throw away the used syringes and needles in a sharps container or some type of hard plastic or metal container with a screw cap such as a detergent bottle or coffee can. Check with your healthcare provider about the right way to throw away the container. There may be local or state laws about how to throw away used syringes and needles. Do not throw away used syringes and needles in household trash or recycling bins.
 - Plegridy may commonly cause redness, pain, or swelling of your skin at the injection site.
 - Call your healthcare provider right away if your injection site becomes swollen and painful or the area looks infected and does not heal within a few days.
 

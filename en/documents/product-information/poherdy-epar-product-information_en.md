@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-05-27 12:21:32
+document_datetime: 2026-10-14 11:49:51
 document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/poherdy-epar-product-information_en.pdf
 document_name: poherdy-epar-product-information_en.pdf
 version: success
-processing_time: 20.5105815
-conversion_datetime: 2026-05-29 20:27:54.320118
+processing_time: 24.1781845
+conversion_datetime: 2026-10-19 23:06:28.08224
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.96.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX Ⅰ
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX Ⅰ SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -38,9 +36,7 @@ Pertuzumab is a humanised IgG1 monoclonal antibody produced in mammalian (Chines
 
 ## Excipients with known effect
 
-Each mL of solution contains 30 mg sorbitol. Each vial contains 420 mg sorbitol.
-
-Each mL of solution contains 0.20 mg polysorbate 20. Each vial contains 2.8 mg polysorbate 20.
+Each mL of solution contains 30 mg sorbitol. Each vial contains 420 mg sorbitol. Each mL of solution contains 0.20 mg polysorbate 20. Each vial contains 2.8 mg polysorbate 20.
 
 For the full list of excipients, see section 6.1.
 
@@ -67,11 +63,11 @@ Poherdy is indicated for use in combination with trastuzumab and docetaxel in ad
 
 ## 4.2 Posology and method of administration
 
-Poherdy must only be initiated under the supervision of a physician experienced in the administration of anti-cancer agents. Poherdy must be administered by a healthcare professional prepared to manage anaphylaxis and in an environment where full resuscitation facilities are immediately available.
-
-## Posology
+Poherdy should only be initiated under the supervision of a physician experienced in the administration of anti-cancer agents. Poherdy should be administered by a healthcare professional prepared to manage anaphylaxis and in an environment where full resuscitation facilities are immediately available.
 
 <div style=\"page-break-after: always\"></div>
+
+## Posology
 
 Patients treated with Poherdy must have HER2-positive tumour status, defined as a score of 3+ by immunohistochemistry (IHC) and/or a ratio of ≥ 2.0 by in situ hybridisation (ISH) assessed by a validated test.
 
@@ -79,7 +75,7 @@ To ensure accurate and reproducible results, the testing must be performed in a 
 
 The recommended initial loading dose of pertuzumab is 840 mg administered as a 60 minute intravenous infusion, followed every 3 weeks thereafter by a maintenance dose of 420 mg administered over a period of 30 to 60 minutes. An observation period of 30 - 60 minutes is recommended after completion of each infusion. The observation period should be completed prior to any subsequent infusion of trastuzumab or chemotherapy (see section 4.4).
 
-Poherdy and trastuzumab must be administered sequentially and not mixed in the same infusion bag. Poherdy and trastuzumab can be given in any order. When administered with Poherdy the recommendation is to follow a 3 weekly schedule for trastuzumab administered as either:
+Poherdy and trastuzumab should be administered sequentially and not mixed in the same infusion bag. Poherdy and trastuzumab can be given in any order. When administered with Poherdy the recommendation is to follow a 3 weekly schedule for trastuzumab administered as either:
 
 - an IV infusion with an initial loading dose of trastuzumab 8 mg/kg body weight followed every 3 weeks thereafter by a maintenance dose of 6 mg/kg body weight
 
@@ -89,7 +85,7 @@ or
 
 In patients receiving a taxane, Poherdy and trastuzumab should be administered prior to the taxane.
 
-When administered with Poherdy, docetaxel can be started at 75 mg/m 2 , and subsequently escalated to 100 mg/m 2  depending on the chosen regimen and tolerability of the initial dose. Alternatively, docetaxel can be given at 100 mg/m 2 on a 3 weekly schedule from the start, again depending on the chosen regimen. If a carboplatin-based regimen is used, the recommended dose for docetaxel is 75 mg/m 2  throughout (no dose escalation). When administered with Poherdy in the adjuvant setting, the recommended dose of paclitaxel is 80 mg/m 2 once weekly for 12 weekly cycles.
+When administered with Poherdy, docetaxel can be started at 75 mg/m 2 , and subsequently escalated to 100 mg/m 2 depending on the chosen regimen and tolerability of the initial dose. Alternatively, docetaxel can be given at 100 mg/m 2 on a 3 weekly schedule from the start, again depending on the chosen regimen. If a carboplatin-based regimen is used, the recommended dose for docetaxel is 75 mg/m 2 throughout (no dose escalation). When administered with Poherdy in the adjuvant setting, the recommended dose of paclitaxel is 80 mg/m 2 once weekly for 12 weekly cycles.
 
 In patients receiving an anthracycline-based regimen, Poherdy and trastuzumab should be administered following completion of the entire anthracycline regimen (see section 4.4).
 
@@ -111,11 +107,10 @@ For recommendations on delayed or missed doses, please refer to Table 1 below.
 
 Table 1 Recommendations regarding delayed or missed doses
 
-| Time                             | Poherdy                                                                                                                                                                   | Trastuzumab                                                                                                                                                                                 | Trastuzumab                                                                                                                 |
-|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| between two sequential infusions |                                                                                                                                                                           | Intravenous (IV)                                                                                                                                                                            | Subcutaneous (SC)                                                                                                           |
-| < 6 weeks                        | The 420 mg dose of Poherdy should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule.      | The 6 mg/kg dose of trastuzumab IV should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule.                | The fixed dose of 600mg trastuzumab SC should be administered as soon as possible. Do not wait until the next planned dose. |
-| ≥ 6 weeks                        | The 840 mg loading dose of Poherdy should be re- administered as a 60 minute infusion, followed by a maintenance dose of 420 mg IV administered every 3 weeks thereafter. | The loading dose of 8 mg/kg of trastuzumab IV should be re- administered over approximately 90 minutes, followed by a maintenance dose of 6 mg/kg IV administered every 3 weeks thereafter. | The fixed dose of 600mg trastuzumab SC should be administered as soon as possible. Do not wait until the next planned dose. |
+| Time - between two sequential infusions   | Poherdy                                                                                                                                                                   | Trastuzumab - Intravenous (IV)                                                                                                                                                              | Trastuzumab - Subcutaneous (SC)                                                                                             |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| < 6 weeks                                 | The 420 mg dose of Poherdy should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule.      | The 6 mg/kg dose of trastuzumab IV should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule.                | The fixed dose of 600mg trastuzumab SC should be administered as soon as possible. Do not wait until the next planned dose. |
+| ≥ 6 weeks                                 | The 840 mg loading dose of Poherdy should be re- administered as a 60 minute infusion, followed by a maintenance dose of 420 mg IV administered every 3 weeks thereafter. | The loading dose of 8 mg/kg of trastuzumab IV should be re- administered over approximately 90 minutes, followed by a maintenance dose of 6 mg/kg IV administered every 3 weeks thereafter. | The fixed dose of 600mg trastuzumab SC should be administered as soon as possible. Do not wait until the next planned dose. |
 
 ## Dose modification
 
@@ -140,11 +135,9 @@ Poherdy and trastuzumab may be resumed if the LVEF has recovered to &gt; 45%, or
 
 ## Patients with early breast cancer
 
-Patients should have a pre-treatment LVEF of ≥ 55% (≥ 50% after completion of the anthracycline component of chemotherapy, if given). Poherdy and trastuzumab should be withheld for at least 3
+Patients should have a pre-treatment LVEF of ≥ 55% (≥ 50% after completion of the anthracycline component of chemotherapy, if given). Poherdy and trastuzumab should be withheld for at least 3 weeks for:
 
 <div style=\"page-break-after: always\"></div>
-
-weeks for:
 
 - a drop in LVEF to less than 50% associated with a fall of ≥ 10% points below pre-treatment values.
 
@@ -168,17 +161,17 @@ The safety and efficacy of pertuzumab in children and adolescents below 18 years
 
 ## Method of administration
 
-Poherdy is administered intravenously by infusion. It must not be administered as an intravenous push or bolus. For instructions on dilution of Poherdy prior to administration, see sections 6.2 and 6.6.
+Poherdy is administered intravenously by infusion. It should not be administered as an intravenous push or bolus. For instructions on dilution of Poherdy prior to administration, see sections 6.2 and 6.6.
 
 For the initial dose, the recommended infusion period is 60 minutes. If the first infusion is well tolerated, subsequent infusions may be administered over a period of 30 minutes to 60 minutes (see section 4.4).
 
-## Infusion reactions
+## Infusion-related reactions (IRRs)
 
-The infusion rate may be slowed or interrupted if the patient develops an infusion reaction (see section 4.8). The infusion may be resumed when symptoms abate. Treatment including oxygen, beta agonists, antihistamines, rapid i.v. fluids and antipyretics may also help alleviate symptoms.
+The infusion rate may be slowed or interrupted if the patient develops an infusion-related reaction (see section 4.8). The infusion may be resumed when symptoms abate. Treatment including oxygen, beta agonists, antihistamines, rapid i.v. fluids and antipyretics may also help alleviate symptoms.
 
 ## Hypersensitivity reactions/anaphylaxis
 
-The infusion must be discontinued immediately and permanently if the patient experiences a NCICTCAE Grade 4 reaction (anaphylaxis), bronchospasm or acute respiratory distress syndrome (see section 4.4).
+The infusion should be discontinued immediately and permanently if the patient experiences a NCICTCAE Grade 4 reaction (anaphylaxis), bronchospasm or acute respiratory distress syndrome (see section 4.4).
 
 ## 4.3 Contraindications
 
@@ -202,19 +195,19 @@ Pertuzumab has not been studied in patients with: a pre-treatment LVEF value of 
 
 Assess LVEF prior to initiation of pertuzumab and at regular intervals during treatment with pertuzumab (e.g. once during neoadjuvant treatment and every 12 weeks in the adjuvant or metastatic setting) to ensure that LVEF is within normal limits. If the LVEF has declined as indicated in section 4.2 and has not improved, or has declined further at the subsequent assessment, discontinuation of pertuzumab and trastuzumab should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks.
 
-Cardiac risk must be carefully considered and balanced against the medical need of the individual patient before use of pertuzumab with an anthracycline. Based on the pharmacological actions of HER2-targeted agents and anthracyclines, the risk of cardiac toxicity might be expected to be higher with concomitant use of pertuzumab and anthracyclines than with sequential use.
+Cardiac risk should be carefully considered and balanced against the medical need of the individual patient before use of pertuzumab with an anthracycline. Based on the pharmacological actions of HER2-targeted agents and anthracyclines, the risk of cardiac toxicity might be expected to be higher with concomitant use of pertuzumab and anthracyclines than with sequential use.
 
 Sequential use of pertuzumab (in combination with trastuzumab and a taxane) has been evaluated following the epirubicin or doxorubicin component of many anthracycline-based regimens in the APHINITY and BERENICE studies. However, only limited safety data are available on concurrent use of pertuzumab and an anthracycline. In the TRYPHAENA study, pertuzumab was given concurrently with epirubicin, as part of the FEC (5-fluorouracil, epirubicin, cyclophosphamide) regimen (see sections 4.8 and 5.1). Only chemotherapy-naive patients were treated and they received low cumulative doses of epirubicin (up to 300 mg/m 2 ). In this study, cardiac safety was similar to that observed in patients given the same regimen but with pertuzumab administered sequentially (following FEC chemotherapy).
 
-## Infusion reactions
+## Infusion-related reactions (IRRs)
 
-Pertuzumab has been associated with infusion reactions, including events with a fatal outcome (see section 4.8). Close observation of the patient during and for 60 minutes after the first infusion and during and for 30-60 minutes after subsequent infusions of pertuzumab is recommended. If a significant infusion reaction occurs, the infusion must be slowed down or interrupted and appropriate medical therapies should be administered. Patients must be evaluated and carefully monitored until complete resolution of signs and symptoms. Permanent discontinuation should be considered in patients with severe infusion reactions. This clinical assessment should be based on the severity of the preceding reaction and response to administered treatment for the adverse reaction (see section 4.2).
+Pertuzumab has been associated with infusion-related reactions, including events with a fatal outcome (see section 4.8). Close observation of the patient during and for 60 minutes after the first infusion and during and for 30-60 minutes after subsequent infusions of pertuzumab is recommended. If a significant infusion-related reaction occurs, the infusion should be slowed down or interrupted and appropriate medical therapies should be administered. Patients should be evaluated and carefully monitored until complete resolution of signs and symptoms. Permanent discontinuation should be considered in patients with severe infusion-related reactions. This clinical assessment should be based on the severity of the preceding reaction and response to administered treatment for the adverse reaction (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Hypersensitivity reactions/anaphylaxis
 
-Patients must be observed closely for hypersensitivity reactions. Severe hypersensitivity, including anaphylaxis and events with a fatal outcome, has been observed with pertuzumab (see section 4.8). Medicinal products to treat such reactions, as well as emergency equipment, must  be available for immediate use. Pertuzumab must be permanently discontinued in case of NCI-CTCAE Grade 4 hypersensitivity reactions (anaphylaxis), bronchospasm or acute respiratory distress syndrome (see section 4.2).
+Patients should be observed closely for hypersensitivity reactions. Severe hypersensitivity, including anaphylaxis and events with a fatal outcome, has been observed with pertuzumab (see section 4.8). Medicinal products to treat such reactions, as well as emergency equipment, should be available for immediate use. Pertuzumab must be permanently discontinued in case of NCI-CTCAE Grade 4 hypersensitivity reactions (anaphylaxis), bronchospasm or acute respiratory distress syndrome (see section 4.2).
 
 ## Febrile neutropenia
 
@@ -236,9 +229,11 @@ This medicine contains 2.8 mg of polysorbate 20 in each vial and 0.2 mg/mL.Polys
 
 ## Sodium content
 
-Poherdy contains less than 1 mmol of sodium (23 mg) per dose, i.e. it is essentially 'sodium-free'. Poherdy is however, diluted in sodium chloride 9 mg/mL (0.9%) solution for infusion. This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
+Poherdy contains less than 1 mmol of sodium (23 mg) per dose, i.e. it is essentially 'sodium-free'.
 
 <div style=\"page-break-after: always\"></div>
+
+Poherdy is however, diluted in sodium chloride 9 mg/mL (0.9%) solution for infusion. This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -266,15 +261,15 @@ No specific fertility studies in animals have been performed to evaluate the eff
 
 ## 4.7 Effects on ability to drive and use machines
 
-On the basis of reported adverse reactions, pertuzumab has a minor influence on the ability to drive or use machines. Dizziness may occur during treatment with pertuzumab (see section 4.8). Patients experiencing infusion reactions should be advised not to drive and use machines until symptoms abate.
+On the basis of reported adverse reactions, pertuzumab has a minor influence on the ability to drive or use machines. Dizziness may occur during treatment with pertuzumab (see section 4.8). Patients experiencing infusion-related reactions should be advised not to drive and use machines until symptoms abate.
 
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-The safety of pertuzumab has been evaluated in more than 6,000 patients in Phase I, II, and III trials in patients with various malignancies and predominantly treated with pertuzumab in combination with other antineoplastic agents. Those studies included the pivotal trials CLEOPATRA (n=808), NEOSPHERE (n=417), TRYPHAENA (n=225), and APHINITY (n=4804) [pooled in Table 2]. The safety of pertuzumab was generally consistent across studies, although the incidence and most common adverse drug reactions (ADRs) varied depending on whether pertuzumab was administered as monotherapy or with concomitant anti-neoplastic agents.
-
 <div style=\"page-break-after: always\"></div>
+
+The safety of pertuzumab has been evaluated in more than 6,000 patients in Phase I, II, and III trials in patients with various malignancies and predominantly treated with pertuzumab in combination with other antineoplastic agents. Those studies included the pivotal trials CLEOPATRA (n=808), NEOSPHERE (n=417), TRYPHAENA (n=225), and APHINITY (n=4804) [pooled in Table 2]. The safety of pertuzumab was generally consistent across studies, although the incidence and most common adverse drug reactions (ADRs) varied depending on whether pertuzumab was administered as monotherapy or with concomitant anti-neoplastic agents.
 
 ## Tabulated list of adverse reactions
 
@@ -286,7 +281,19 @@ Table 2 summarizes the ADRs from the pertuzumab-treated groups of the following 
 
 In addition, ADRs reported in the post-marketing setting are included in Table 2. As pertuzumab was used with trastuzumab and chemotherapy in these trials, it is difficult to ascertain the causal relationship of an adverse event to a particular medicinal product.
 
-The ADRs are listed below by MedDRA system organ class (SOC) and categories of frequency: Very common (≥ 1/10) Common (≥ 1/100 to &lt; 1/10) Uncommon( ≥ 1/1,000 to &lt; 1/100) Rare (≥ 1/10,000 to &lt; 1/1,000) Very rare (&lt; 1/10,000) Not known (cannot be estimated from the available data)
+The ADRs are listed below by MedDRA system organ class (SOC) and categories of frequency:
+
+Very common (≥ 1/10)
+
+Common (≥ 1/100 to &lt; 1/10)
+
+Uncommon( ≥ 1/1,000 to &lt; 1/100)
+
+Rare (≥ 1/10,000 to &lt; 1/1,000)
+
+Very rare (&lt; 1/10,000)
+
+Not known (cannot be estimated from the available data)
 
 Within each frequency grouping and SOC, ADRs are presented in the order of decreasing seriousness.
 
@@ -298,25 +305,25 @@ Table 2 Summary of ADRs in patients treated with Pertuzumab in clinical trials^,
 |--------------------------------------|-----------------------------------------------------|------------------------------------------------|---------------------------|-----------------------------|
 | Infections and infestations          | Nasopharyngitis                                     | Paronychia Upper respiratory tract infection   |                           |                             |
 | Blood and lymphatic system disorders | Febrile neutropenia* Neutropenia Leucopenia Anaemia |                                                |                           |                             |
-| Immune system disorders              | Infusion reaction°°, *                              | Hypersensitivity°, * Drug hypersensitivity°, * | Anaphylactic reaction°, * | Cytokine release syndrome°° |
-| Metabolism and nutrition disorders   | Decreased appetite                                  |                                                |                           | Tumour lysis syndrome†      |
-| Psychiatric disorders                | Insomnia                                            |                                                |                           |                             |
+| Immune system disorders              | Infusion-related reaction°°, *                      | Hypersensitivity°, * Drug hypersensitivity°, * | Anaphylactic reaction°, * | Cytokine release syndrome°° |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Very Common                                                                                   | Common                         | Uncommon                                   | Rare   |
-|------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------|--------------------------------------------|--------|
-| Nervous system disorders                             | Neuropathy peripheral Headache Dysgeusia Peripheral sensory neuropathy Dizziness Paraesthesia |                                |                                            |        |
-| Eye disorders                                        | Lacrimation increased                                                                         |                                |                                            |        |
-| Cardiac disorders                                    |                                                                                               | Left ventricular dysfunction** | Cardiac failure congestive**               |        |
-| Vascular disorders                                   | Hot flush                                                                                     |                                |                                            |        |
-| Respiratory, thoracic and mediastinal disorders      | Cough Epistaxis Dyspnoea                                                                      |                                | Interstitial lung disease Pleural effusion |        |
-| Gastrointestinal disorders                           | Diarrhoea Vomiting Stomatitis Nausea Constipation Dyspepsia Abdominal pain                    |                                |                                            |        |
-| Skin and subcutaneous tissue disorders               | Alopecia Rash Nail disorder Pruritus Dry skin                                                 |                                |                                            |        |
-| Musculoskeletal and connective tissue disorders      | Myalgia Arthralgia Pain in extremity                                                          |                                |                                            |        |
-| General disorders and administration site conditions | Mucosal inflammation Oedema peripheral Pyrexia Fatigue Asthenia                               | Chills Pain Oedema             |                                            |        |
+| System organ class                                   | Very Common                                                                                   | Common                         | Uncommon                                   | Rare                   |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------|--------------------------------------------|------------------------|
+| Metabolism and nutrition disorders                   | Decreased appetite                                                                            |                                |                                            | Tumour lysis syndrome† |
+| Psychiatric disorders                                | Insomnia                                                                                      |                                |                                            |                        |
+| Nervous system disorders                             | Neuropathy peripheral Headache Dysgeusia Peripheral sensory neuropathy Dizziness Paraesthesia |                                |                                            |                        |
+| Eye disorders                                        | Lacrimation increased                                                                         |                                |                                            |                        |
+| Cardiac disorders                                    |                                                                                               | Left ventricular dysfunction** | Cardiac failure congestive**               |                        |
+| Vascular disorders                                   | Hot flush                                                                                     |                                |                                            |                        |
+| Respiratory, thoracic and mediastinal disorders      | Cough Epistaxis Dyspnoea                                                                      |                                | Interstitial lung disease Pleural effusion |                        |
+| Gastrointestinal disorders                           | Diarrhoea Vomiting Stomatitis Nausea Constipation Dyspepsia Abdominal pain                    |                                |                                            |                        |
+| Skin and subcutaneous tissue disorders               | Alopecia Rash Nail disorder Pruritus Dry skin                                                 |                                |                                            |                        |
+| Musculoskeletal and connective tissue disorders      | Myalgia Arthralgia Pain in extremity                                                          |                                |                                            |                        |
+| General disorders and administration site conditions | Mucosal inflammation Oedema peripheral Pyrexia Fatigue Asthenia                               | Chills Pain Oedema             |                                            |                        |
 
-^ Table 2 shows pooled data from the overall treatment period in CLEOPATRA (data cutoff 11 February 2014;  median  number  of  cycles  of  pertuzumab  was  24);  and  from  the  neoadjuvant  treatment  period  in NEOSPHERE (median number of cycles of pertuzumab was 4, across all treatment arms) and TRYPHAENA (median number of cycles of pertuzumab was 3 - 6 across treatment arms) and from the treatment period of APHINITY (median number of cycles of pertuzumab was 18).
+^ Table 2 shows pooled data from the overall treatment period in CLEOPATRA (data cutoff 11 February 2014; median number of cycles of pertuzumab was 24); and from the neoadjuvant treatment period in NEOSPHERE (median number of cycles of pertuzumab was 4, across all treatment arms) and TRYPHAENA (median number of cycles of pertuzumab was 3 - 6 across treatment arms) and from the treatment period of APHINITY (median number of cycles of pertuzumab was 18).
 
 * ADRs with a fatal outcome have been reported.
 
@@ -324,33 +331,33 @@ Table 2 Summary of ADRs in patients treated with Pertuzumab in clinical trials^,
 
 ° Hypersensitivity/anaphylactic reaction is based on a group of terms.
 
-°° Infusion reaction includes a range of different terms within a time window, see 'Description of selected adverse reactions' below.
+°° Infusion-related reaction (IRRs) includes a range of different terms within a time window, see \"Description of selected adverse reactions\" below.
 
 † ADRs reported in the post marketing setting.
 
 ## Description of selected adverse reactions
 
-## Left ventricular dysfunction (LVD)
-
-In the pivotal trial CLEOPATRA in metastatic breast cancer, the incidence of LVD during study treatment was higher in the placebo-treated group than in the pertuzumab-treated group (8.6% and 6.6%, respectively). The incidence of symptomatic LVD was also lower in the pertuzumab-treated group (1.8% in the placebo-treated group vs. 1.5% in the pertuzumab-treated group) (see section 4.4).
+Left ventricular dysfunction (LVD)
 
 <div style=\"page-break-after: always\"></div>
+
+In the pivotal trial CLEOPATRA in metastatic breast cancer, the incidence of LVD during study treatment was higher in the placebo-treated group than in the pertuzumab-treated group (8.6% and 6.6%, respectively). The incidence of symptomatic LVD was also lower in the pertuzumab-treated group (1.8% in the placebo-treated group vs. 1.5% in the pertuzumab-treated group) (see section 4.4).
 
 In the neoadjuvant trial NEOSPHERE, in which patients received 4 cycles of pertuzumab as neoadjuvant treatment, the incidence of LVD (during the overall treatment period) was higher in the pertuzumab, trastuzumab and docetaxel-treated group (7.5%) compared to the trastuzumab and docetaxel-treated group (1.9%). There was one case of symptomatic LVD in the pertuzumab and trastuzumab-treated group. In the neoadjuvant trial TRYPHAENA, the incidence of LVD (during the overall treatment period) was 8.3% in the group treated with pertuzumab plus trastuzumab and FEC (5-fluorouracil, epirubicin, cyclophosphamide) followed by pertuzumab plus trastuzumab and docetaxel; 9.3% in the group treated with pertuzumab plus trastuzumab and docetaxel following FEC; and 6.6% in the group treated with pertuzumab in combination with TCH (docetaxel, carboplatin and trastuzumab). The incidence of symptomatic LVD (congestive heart failure) was 1.3% in the group treated with pertuzumab plus trastuzumab and docetaxel following FEC (this excludes a patient who experienced symptomatic LVD during FEC treatment prior to receiving pertuzumab plus trastuzumab and docetaxel) and also 1.3% in the group treated with pertuzumab in combination with TCH. No patients in the group treated with pertuzumab plus trastuzumab and FEC followed by pertuzumab plus trastuzumab and docetaxel experienced symptomatic LVD.
 
 In the neoadjuvant period of the BERENICE trial, the incidence of NYHA Class III/IV symptomatic LVD (congestive heart failure according to NCI-CTCAE v.4) was 1.5% in the group treated with dose dense doxorubicin and cyclophosphamide (AC) followed by pertuzumab plus trastuzumab and paclitaxel and none of the patients (0%) experienced symptomatic LVD in the group treated with FEC followed by pertuzumab in combination with trastuzumab and docetaxel. The incidence of asymptomatic LVD (ejection fraction decrease according to NCI-CTCAE v.4) was 7% in the group treated with dose dense AC followed by pertuzumab plus trastuzumab and paclitaxel and 3.5% in the group treated with FEC followed by pertuzumab plus trastuzumab and docetaxel.
 
-In APHINITY, the incidence of symptomatic heart failure (NYHA class III or IV) with a LVEF decline of at least 10% points from baseline and to &lt;50% was &lt;1% (0.8% of pertuzumab-treated patients vs 0.4% of placebo-treated patients). Of the patients who experienced symptomatic heart failure, 62.5% of pertuzumab-treated patients and 66.7% of placebo-treated patients had recovered (defined as 2 consecutive LVEF measurements above 50%) at the data cutoff. The majority of the events were reported in anthracycline-treated patients. Asymptomatic or mildly symptomatic (NYHA class II) declines in LVEF of at least 10% points from baseline and to &lt;50% were reported in 2.7% of pertuzumab-treated patients and 2.9% of placebo-treated patients, of whom 84.4% of pertuzumabtreated patients and 87.0% of placebo-treated patients had recovered at the data cutoff.
+In APHINITY, the incidence of symptomatic heart failure (NYHA class III or IV) with a LVEF decline of at least 10% points from baseline and to &lt;50% was &lt;1% (0.9% of pertuzumab-treated patients vs 0.5% of placebo-treated patients). Of the patients who experienced symptomatic heart failure, 55.6% of pertuzumab-treated patients and 71.4% of placebo-treated patients had recovered (defined as 2 consecutive LVEF measurements above 50%) at the data cutoff. The majority of the events were reported in anthracycline-treated patients. Asymptomatic or mildly symptomatic (NYHA class II) declines in LVEF of at least 10% points from baseline and to &lt;50% were reported in 2.9% of pertuzumab-treated patients and 3.0% of placebo-treated patients, of whom 82.4% of pertuzumabtreated patients and 83.3% of placebo-treated patients had recovered at the data cutoff.
 
-## Infusion reactions
+## Infusion-related reactions (IRRs)
 
-An infusion reaction was defined in the pivotal trials as any event reported as hypersensitivity, anaphylactic reaction, acute infusion reaction or cytokine release syndrome occurring during an infusion or on the same day as the infusion. In the pivotal trial CLEOPATRA, the initial dose of pertuzumab was given the day before trastuzumab and docetaxel to allow for the examination of pertuzumab-associated reactions. On the first day when only pertuzumab was administered, the overall frequency of infusion reactions was 9.8% in the placebo-treated group and 13.2% in the pertuzumabtreated group, with the majority of infusion reactions being mild or moderate. The most common infusion reactions (≥ 1.0%) in the pertuzumab-treated group were pyrexia, chills, fatigue, headache, asthenia, hypersensitivity and vomiting.
+An infusion-related reaction was defined in the pivotal trials as any event reported as hypersensitivity, anaphylactic reaction, acute infusion-related reaction or cytokine release syndrome occurring during an infusion or on the same day as the infusion. In the pivotal trial CLEOPATRA, the initial dose of pertuzumab was given the day before trastuzumab and docetaxel to allow for the examination of pertuzumab-associated reactions. On the first day when only pertuzumab was administered, the overall frequency of infusion-related reactions was 9.8% in the placebo-treated group and 13.2% in the pertuzumab-treated group, with the majority of infusion-related reactions being mild or moderate. The most common infusion-related reactions (≥ 1.0%) in the pertuzumab-treated group were pyrexia, chills, fatigue, headache, asthenia, hypersensitivity and vomiting.
 
-During the second cycle when all medicinal products were administered on the same day, the most common infusion reactions in the pertuzumab-treated group (≥ 1.0%) were fatigue, dysgeusia, drug hypersensitivity, myalgia and vomiting (see section 4.4).
-
-In neoadjuvant and adjuvant trials, pertuzumab was administered on the same day as other study treatments in all cycles. Infusion reactions occurred in 18.6% - 25.0% of patients on the first day of pertuzumab administration (in combination with trastuzumab and chemotherapy). The type and severity of events were consistent with those observed in CLEOPATRA at the cycles when pertuzumab was given on the same day as trastuzumab and docetaxel, with the majority of reactions being mild or moderate in severity.
+During the second cycle when all medicinal products were administered on the same day, the most common infusion-related reactions in the pertuzumab-treated group (≥ 1.0%) were fatigue, dysgeusia, drug hypersensitivity, myalgia and vomiting (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
+
+In neoadjuvant and adjuvant trials, pertuzumab was administered on the same day as other study treatments in all cycles. Infusion-related reactions occurred in 18.6% - 25.0% of patients on the first day of pertuzumab administration (in combination with trastuzumab and chemotherapy). The type and severity of events were consistent with those observed in CLEOPATRA at the cycles when pertuzumab was given on the same day as trastuzumab and docetaxel, with the majority of reactions being mild or moderate in severity.
 
 ## Hypersensitivity reactions/anaphylaxis
 
@@ -368,11 +375,11 @@ In the NEOSPHERE trial, 8.4% of patients treated with neoadjuvant Pertuzumab, tr
 
 In the APHINITY trial, febrile neutropenia occurred in 12.1% of Pertuzumab-treated patients and 11.1% of placebo-treated patients. As in the CLEOPATRA, TRYPHAENA, and NEOSPHERE trials, a higher incidence of febrile neutropenia was observed among Pertuzumab-treated Asian patients compared with other races in the APHINITY trial (15.9% of Pertuzumab-treated patients and 9.9% of placebo-treated patients).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Diarrhoea
 
-In the pivotal trial CLEOPATRA in metastatic breast cancer, diarrhoea occurred in 68.4% of Pertuzumab-treated patients and 48.7% of placebo-treated patients (see section 4.4). Most events were mild to moderate in severity and occurred in the first few cycles of treatment. The incidence of NCI- CTCAE Grade 3-4 diarrhoea was 9.3% in Pertuzumab-treated patients vs 5.1% in placebo-treated patients. The median duration of the longest episode was 18 days in Pertuzumab-treated patients and 8 days in placebo-treated patients. Diarrhoeal events responded well to proactive management with antidiarrhoeal agents.
-
-<div style=\"page-break-after: always\"></div>
+In the pivotal trial CLEOPATRA in metastatic breast cancer, diarrhoea occurred in 68.4% of Pertuzumab-treated patients and 48.7% of placebo-treated patients (see section 4.4). Most events were mild to moderate in severity and occurred in the first few cycles of treatment. The incidence of NCICTCAE Grade 3-4 diarrhoea was 9.3% in Pertuzumab-treated patients vs 5.1% in placebo-treated patients. The median duration of the longest episode was 18 days in Pertuzumab-treated patients and 8 days in placebo-treated patients. Diarrhoeal events responded well to proactive management with antidiarrhoeal agents.
 
 In the NEOSPHERE trial, diarrhoea occurred in 45.8% of patients treated with neoadjuvant Pertuzumab, trastuzumab and docetaxel compared with 33.6% of patients treated with trastuzumab and docetaxel. In the TRYPHAENA trial, diarrhoea occurred in 72.3% of patients treated with neoadjuvant Pertuzumab+TCH and 61.4% of patients treated with neoadjuvant Pertuzumab, trastuzumab and docetaxel following FEC. In both studies most events were mild to moderate in severity.
 
@@ -394,9 +401,9 @@ In the pivotal trial CLEOPATRA in metastatic breast cancer, the incidence of NCI
 
 In the NEOSPHERE trial, the incidence of NCI-CTCAE v.3 Grade 3-4 neutropenia was 74.5% in patients treated with neoadjuvant Pertuzumab, trastuzumab and docetaxel compared with 84.5% in patients treated with trastuzumab and docetaxel, including 50.9% and 60.2% Grade 4 neutropenia, respectively. In the TRYPHAENA trial, the incidence of NCI-CTCAE v.3 Grade 3-4 neutropenia was 85.3% in patients treated with neoadjuvant Pertuzumab + TCH and 77.0% in patients treated with neoadjuvant Pertuzumab, trastuzumab and docetaxel following FEC, including 66.7% and 59.5% Grade 4 neutropenia, respectively.
 
-In the APHINITY trial, the incidence of NCI-CTCAE v.4 Grade 3-4 neutropenia was 40.6% in patients treated with Pertuzumab, trastuzumab and chemotherapy compared with 39.1% in patients treated with placebo, trastuzumab and chemotherapy, including 28.3% and 26.5% Grade 4 neutropenia, respectively.
-
 <div style=\"page-break-after: always\"></div>
+
+In the APHINITY trial, the incidence of NCI-CTCAE v.4 Grade 3-4 neutropenia was 40.6% in patients treated with Pertuzumab, trastuzumab and chemotherapy compared with 39.1% in patients treated with placebo, trastuzumab and chemotherapy, including 28.3% and 26.5% Grade 4 neutropenia, respectively.
 
 ## Elderly Patients
 
@@ -428,9 +435,9 @@ While pertuzumab alone inhibited the proliferation of human tumour cells, the co
 
 ## Clinical efficacy and safety
 
-The efficacy of Pertuzumab in HER2-positive breast cancer is supported by a randomised phase III trial and a single-arm phase II trial in metastatic breast cancer, two randomised neoadjuvant phase II trials in early breast cancer (one controlled), a non-randomised neoadjuvant phase II trial, and a randomised phase III trial in the adjuvant setting.
-
 <div style=\"page-break-after: always\"></div>
+
+The efficacy of Pertuzumab in HER2-positive breast cancer is supported by a randomised phase III trial and a single-arm phase II trial in metastatic breast cancer, two randomised neoadjuvant phase II trials in early breast cancer (one controlled), a non-randomised neoadjuvant phase II trial, and a randomised phase III trial in the adjuvant setting.
 
 HER2 overexpression was determined at a central laboratory and defined as a score of 3+ by IHC or an ISH amplification ratio ≥2.0 in the trials outlined below.
 
@@ -448,24 +455,20 @@ Approximately half the patients in each treatment group had hormone receptor-pos
 
 The efficacy results from the CLEOPATRA study are summarised in Table 3. A statistically significant improvement in IRF-assessed PFS was demonstrated in the Pertuzumab-treated group compared with the placebo-treated group. The results for investigator-assessed PFS were similar to those observed for IRF-assessed PFS.
 
-Table 3 Summary of efficacy from CLEOPATRA study
-
-| Parameter                                                          | Placebo+ trastuzumab + docetaxel n=406   | Pertuzumab+ trastuzumab + docetaxel n=402   | HR (95% CI)   | p-value   |
-|--------------------------------------------------------------------|------------------------------------------|---------------------------------------------|---------------|-----------|
-| Progression-Free Survival (independent review) - primary endpoint* |                                          |                                             |               |           |
-| no. of patients with an event                                      | 242 (59%) 12.4                           | 191 (47.5%) 18.5                            | 0.62          | <0.0001   |
-| Median months                                                      |                                          |                                             | [0.51;0.75]   |           |
-
 <div style=\"page-break-after: always\"></div>
 
-| Overall Survival - secondary endpoint** no. of patients with an event                                                                                                                                                            | 221 (54.4%) 40.8                                                        | 168 (41.8%) 56.5                                                         | 0.68 [0.56;0.84]                    |   0.0002 |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------|----------|
-| Median months Objective Response Rate (ORR)^ - secondary endpoint no. of patients with measurable disease Responders*** 95% CI for ORR Complete response (CR) Partial Response (PR) Stable disease (SD) Progressive disease (PD) | 336 233 (69.3%) [64.1; 74.2] 14 (4.2%) 219 (65.2%) 70 (20.8%) 28 (8.3%) | 343 275 (80.2%) [75.6; 84.3] 19 (5.5%) 256 (74.6%) 50 (14.6%) 13 (3.8 %) | Difference in ORR: 10.8% [4.2,17.5] |   0.0011 |
-| Duration of Response † ^ n= Median weeks 95% CI for Median                                                                                                                                                                       | 233 54.1 [46;64]                                                        | 275 87.6 [71;106]                                                        |                                     |          |
+Table 3 Summary of efficacy from CLEOPATRA study
 
-* Primary progression-free survival analysis, cutoff date 13 th  May 2011.
+| Parameter                                                                                                                                                                                                          | Placebo+ trastuzumab + docetaxel n=406                                  | Pertuzumab+ trastuzumab + docetaxel n=402                                | HR (95% CI)                          | p-value   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------|-----------|
+| Progression-Free Survival (independent review) - primary endpoint* no. of patients with an event Median months                                                                                                     | 242 (59%) 12.4                                                          | 191 (47.5%) 18.5                                                         | 0.62 [0.51; 0.75]                    | <0.0001   |
+| Overall Survival - secondary endpoint** no. of patients with an event Median months                                                                                                                                | 221 (54.4%) 40.8                                                        | 168 (41.8%) 56.5                                                         | 0.68 [0.56; 0.84]                    | 0.0002    |
+| Objective Response Rate (ORR)^ - secondary endpoint no. of patients with measurable disease Responders*** 95% CI for ORR Complete response (CR) Partial Response (PR) Stable disease (SD) Progressive disease (PD) | 336 233 (69.3%) [64.1; 74.2] 14 (4.2%) 219 (65.2%) 70 (20.8%) 28 (8.3%) | 343 275 (80.2%) [75.6; 84.3] 19 (5.5%) 256 (74.6%) 50 (14.6%) 13 (3.8 %) | Difference in ORR: 10.8% [4.2; 17.5] | 0.0011    |
+| Duration of Response †^ n= Median weeks 95% CI for Median                                                                                                                                                          | 233 54.1 [46; 64]                                                       | 275 87.6 [71; 106]                                                       |                                      |           |
 
-** Event-driven final overall survival analysis, cutoff date 11 th  February 2014.
+* Primary progression-free survival analysis, cutoff date 13 th May 2011.
+
+** Event-driven final overall survival analysis, cutoff date 11 th February 2014.
 
 *** Patients with best overall response of confirmed CR or PR by RECIST.
 
@@ -473,7 +476,7 @@ Table 3 Summary of efficacy from CLEOPATRA study
 
 ^ Objective response rate and duration of response are based on IRF-assessed tumour assessments.
 
-Consistent results were observed across pre-specified patient subgroups including the subgroups based on stratification factors of geographic region and prior adjuvant/neoadjuvant therapy or de novo metastatic breast cancer (see Figure 1). A post hoc exploratory analysis revealed that for patients who had received prior trastuzumab (n = 88), the hazard ratio for IRF-assessed PFS was 0.62 (95% CI 0.35, 1.07), compared with 0.60 (95% CI 0.43, 0.83) for patients who had received prior therapy which did not include trastuzumab (n = 288).
+Consistent results were observed across pre-specified patient subgroups including the subgroups based on stratification factors of geographic region and prior adjuvant/neoadjuvant therapy or de novo metastatic breast cancer (see Figure 1). A post hoc exploratory analysis revealed that for patients who had received prior trastuzumab (n = 88), the hazard ratio for IRF-assessed PFS was 0.62 (95% CI 0.35; 1.07), compared with 0.60 (95% CI 0.43; 0.83) for patients who had received prior therapy which did not include trastuzumab (n = 288).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -490,6 +493,8 @@ A descriptive analysis of OS performed at the end of the study when 515 patients
 Figure 2 Kaplan-Meier Curve of Event-Driven Overall Survival
 
 <!-- image -->
+
+HR= hazard ratio; CI= confidence interval; Pla= placebo; Ptz= pertuzumab; T= trastuzumab (Herceptin); D= docetaxel.
 
 No statistically significant differences were found between the two treatment groups in Health Related Quality of Life as assessed by FACT-B TOI-PFB scores.
 
@@ -522,13 +527,13 @@ Patients were randomised to receive one of the following neoadjuvant regimens fo
 
 Randomisation was stratified by breast cancer type (operable, locally advanced, or inflammatory) and ER or PgR positivity.
 
-Pertuzumab was given intravenously at an initial dose of 840 mg, followed by 420 mg every three weeks. Trastuzumab was given intravenously at an initial dose of 8 mg/kg, followed by 6 mg/kg every three weeks. Docetaxel was given intravenously at an initial dose of 75 mg/ m 2 followed by 75 mg/ m 2 or 100 mg/m 2  (if tolerated) every 3 weeks. Following surgery all patients received 3 cycles of 5-fluorouracil (600 mg/m 2 ), epirubicin (90 mg/m 2 ), cyclophosphamide (600 mg/m 2 ) (FEC) given intravenously every three weeks, and trastuzumab administered intravenously every three weeks to complete one year of therapy. Patients who only received Pertuzumab plus trastuzumab prior to surgery subsequently received both FEC and docetaxel post surgery.
+Pertuzumab was given intravenously at an initial dose of 840 mg, followed by 420 mg every three weeks. Trastuzumab was given intravenously at an initial dose of 8 mg/kg, followed by 6 mg/kg every three weeks. Docetaxel was given intravenously at an initial dose of 75 mg/ m 2 followed by 75 mg/ m 2 or 100 mg/m 2 (if tolerated) every 3 weeks. Following surgery all patients received 3 cycles of 5-fluorouracil (600 mg/m 2 ), epirubicin (90 mg/m 2 ), cyclophosphamide (600 mg/m 2 ) (FEC) given intravenously every three weeks, and trastuzumab administered intravenously every three weeks to complete one year of therapy. Patients who only received Pertuzumab plus trastuzumab prior to surgery subsequently received both FEC and docetaxel post surgery.
 
 The primary endpoint of the study was pathological complete response (pCR) rate in the breast (ypT0/is). Secondary efficacy endpoints were clinical response rate, breast conserving surgery rate (T2-3 tumours only), disease-free survival (DFS), and PFS. Additional exploratory pCR rates included nodal status (ypT0/isN0 and ypT0N0).
 
 Demographics were well balanced (median age was 49-50 years, the majority were caucasian (71%)) and all patients were female. Overall, 7% of patients had inflammatory breast cancer, 32% had locally advanced breast cancer and 61% had operable breast cancer. Approximately half the patients in each treatment group had hormone receptor-positive disease (defined as ER positive and/or PgR positive).
 
-The efficacy results are presented in Table 4. A statistically significant improvement in pCR rate (ypT0/is) was observed in patients receiving pertuzumab plus trastuzumab and docetaxel compared to patients receiving trastuzumab and docetaxel (45.8% vs 29.0%, p value = 0.0141). A consistent pattern of results was observed regardless of pCR definition. The difference in pCR rate is considered likely to translate into a clinically meaningful difference in long term outcomes and is supported by positive trends in PFS (HR 0.69, 95% CI 0.34, 1.40) and DFS (HR 0.60, 95% CI 0.28, 1.27).
+The efficacy results are presented in Table 4. A statistically significant improvement in pCR rate (ypT0/is) was observed in patients receiving pertuzumab plus trastuzumab and docetaxel compared to patients receiving trastuzumab and docetaxel (45.8% vs 29.0%, p value = 0.0141). A consistent pattern of results was observed regardless of pCR definition. The difference in pCR rate is considered likely to translate into a clinically meaningful difference in long term outcomes and is supported by positive trends in PFS (HR 0.69, 95% CI 0.34; 1.40) and DFS (HR 0.60, 95% CI 0.28; 1.27).
 
 The pCR rates as well as the magnitude of benefit with pertuzumab (pertuzumab plus trastuzumab and docetaxel compared to patients receiving trastuzumab and docetaxel) were lower in the subgroup of patients with hormone receptor-positive tumours (difference of 6% in pCR in the breast) than in patients with hormone receptor-negative tumours (difference of 26.4% in pCR in the breast). pCR rates were similar in patients with operable versus locally advanced disease. There were too few patients with inflammatory breast cancer to draw any firm conclusions but the pCR rate was higher in patients who received pertuzumab plus trastuzumab and docetaxel.
 
@@ -544,7 +549,7 @@ TRYPHAENA is a multicentre, randomised phase II clinical trial conducted in 225 
 
 Randomisation was stratified by breast cancer type (operable, locally advanced, or inflammatory) and ER and /or PgR positivity.
 
-Pertuzumab was given intravenously at an initial dose of 840 mg, followed by 420 mg every three weeks. Trastuzumab was given intravenously at an initial dose of 8 mg/kg, followed by 6 mg/kg every three weeks. FEC (5-fluorouracil [500 mg/m 2 ], epirubicin [100 mg/m 2 ], cyclophosphamide [600 mg/m 2 ]) were given intravenously every three weeks for 3 cycles. Docetaxel was given as an initial dose of 75 mg/m 2 IV infusion every three weeks with the option to escalate to 100 mg/m 2 at the investigator's discretion if the initial dose was well tolerated. However, in the group treated with pertuzumab in combination with TCH, docetaxel was given intravenously at 75 mg/m 2  (no escalation was permitted) and carboplatin (AUC 6) was given intravenously every three weeks. Following surgery all patients received trastuzumab to complete one year of therapy.
+Pertuzumab was given intravenously at an initial dose of 840 mg, followed by 420 mg every three weeks. Trastuzumab was given intravenously at an initial dose of 8 mg/kg, followed by 6 mg/kg every three weeks. FEC (5-fluorouracil [500 mg/m 2 ], epirubicin [100 mg/m 2 ], cyclophosphamide [600 mg/m 2 ]) were given intravenously every three weeks for 3 cycles. Docetaxel was given as an initial dose of 75 mg/m 2 IV infusion every three weeks with the option to escalate to 100 mg/m 2 at the investigator's discretion if the initial dose was well tolerated. However, in the group treated with pertuzumab in combination with TCH, docetaxel was given intravenously at 75 mg/m 2 (no escalation was permitted) and carboplatin (AUC 6) was given intravenously every three weeks. Following surgery all patients received trastuzumab to complete one year of therapy.
 
 The primary endpoint of this study was cardiac safety during the neoadjuvant treatment period of the study. Secondary efficacy endpoints were pCR rate in the breast (ypT0/is), DFS, PFS and OS.
 
@@ -558,15 +563,15 @@ pCR rates were similar in patients with operable and locally advanced disease. T
 
 Table 4 NEOSPHERE (WO20697) and TRYPHAENA (BO22280): Overview of efficacy (Intent to Treat Population)
 
-|                                                          | NEOSPHERE (WO20697)            | NEOSPHERE (WO20697)                        | NEOSPHERE (WO20697)                  | NEOSPHERE (WO20697)                              | TRYPHAENA (BO22280)                                                           | TRYPHAENA (BO22280)                              | TRYPHAENA (BO22280)     |
-|----------------------------------------------------------|--------------------------------|--------------------------------------------|--------------------------------------|--------------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------|-------------------------|
-| Paramet er                                               | Trastuzum ab + Docetaxel N=107 | Pertuzumab + Trastuzuma b+ Docetaxel N=107 | Pertuzuma b + Trastuzum ab N=107     | Pertuzuma b + Docetaxel N=96                     | Pertuzuma b + Trastuzum ab + FEC→ Pertuzuma b + Trastuzum ab + Docetaxel N=73 | FEC→ Pertuzuma b + Trastuzum ab + Docetaxel N=75 | Pertuzuma b + TCH N=77  |
-| pCR rate in the breast (ypT0/is) n (%) [95% CI] 1        | 31 (29.0%) [20.6; 38.5]        | 49 (45.8%) [36.1; 55.7]                    | 18 (16.8%) [10.3; 25.3]              | 23 (24.0%) [15.8; 33.7]                          | 45 (61.6%) [49.5; 72.8]                                                       | 43 (57.3%) [45.4; 68.7]                          | 51 (66.2%) [54.6; 76.6] |
-| Differenc e in pCR rates 2 [95% CI] 3                    |                                | +16.8% [3.5; 30.1]                         | -12.2% [-23.8; -0.5]                 | -21.8% [-35.1; -8.5]                             | NA                                                                            | NA                                               | NA                      |
-| p-value (with Simes corr. for CMH test) 4                |                                | 0.0141 (vs. Trastuzumab +Docetaxel)        | 0.0198 (vs. Trastuzuma b +Docetaxel) | 0.0030 (vs Pertuzumab + Trastuzuma b+ Docetaxel) | NA                                                                            | NA                                               | NA                      |
-| pCR rate in the breast and lymph node (ypT0/is N0) n (%) | 23 (21.5%) [14.1; 30.5]        | 42 (39.3%) [30.3; 49.2]                    | 12 (11.2%) [5.9; 18.8]               | 17 (17.7%) [10.7; 26.8]                          | 41 (56.2%) [44.1; 67.8]                                                       | 41 (54.7%) [42.7; 66.2]                          | 49 (63.6%) [51.9; 74.3] |
-| ypT0 N0 n (%) [95% CI]                                   | 13 (12.1%) [6.6; 19.9]         | 35 (32.7%) [24.0; 42.5]                    | 6 (5.6%) [2.1; 11.8]                 | 13 (13.2%) [7.4; 22.0]                           | 37 (50.7%) [38.7; 62.6]                                                       | 34 (45.3%) [33.8; 57.3]                          | 40 (51.9%) [40.3; 63.5] |
-| Clinical Response 5                                      | 79 (79.8%)                     | 89 (88.1%)                                 | 69 (67.6%)                           | 65 (71.4%)                                       | 67 (91.8%)                                                                    | 71 (94.7%)                                       | 69 (89.6%)              |
+|                                                                   | NEOSPHERE (WO20697)            | NEOSPHERE (WO20697)                        | NEOSPHERE (WO20697)                  | NEOSPHERE (WO20697)                              | TRYPHAENA (BO22280)                                                            | TRYPHAENA (BO22280)                              | TRYPHAENA (BO22280)     |
+|-------------------------------------------------------------------|--------------------------------|--------------------------------------------|--------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------|-------------------------|
+| Paramet er                                                        | Trastuzum ab + Docetaxel N=107 | Pertuzumab + Trastuzuma b+ Docetaxel N=107 | Pertuzuma b + Trastuzum ab N=107     | Pertuzuma b + Docetaxel N=96                     | Pertuzuma b + Trastuzum ab + FEC → Pertuzuma b + Trastuzum ab + Docetaxel N=73 | FEC→ Pertuzuma b + Trastuzum ab + Docetaxel N=75 | Pertuzuma b + TCH N=77  |
+| pCR rate in the breast (ypT0/is) n (%) [95% CI] 1                 | 31 (29.0%) [20.6; 38.5]        | 49 (45.8%) [36.1; 55.7]                    | 18 (16.8%) [10.3; 25.3]              | 23 (24.0%) [15.8; 33.7]                          | 45 (61.6%) [49.5; 72.8]                                                        | 43 (57.3%) [45.4; 68.7]                          | 51 (66.2%) [54.6; 76.6] |
+| Differenc e in pCR rates 2 [95% CI] 3                             |                                | +16.8 % [3.5; 30.1]                        | -12.2 % [-23.8; -0.5]                | -21.8 % [-35.1; -8.5]                            | NA                                                                             | NA                                               | NA                      |
+| p-value (with Simes corr. for CMH test) 4                         |                                | 0.0141 (vs. Trastuzumab +Docetaxel)        | 0.0198 (vs. Trastuzuma b +Docetaxel) | 0.0030 (vs Pertuzumab + Trastuzuma b+ Docetaxel) | NA                                                                             | NA                                               | NA                      |
+| pCR rate in the breast and lymph node (ypT0/is N0) n (%) [95% CI] | 23 (21.5%) [14.1; 30.5]        | 42 (39.3%) [30.3; 49.2]                    | 12 (11.2%) [5.9; 18.8]               | 17 (17.7%) [10.7; 26.8]                          | 41 (56.2%) [44.1; 67.8]                                                        | 41 (54.7%) [42.7; 66.2]                          | 49 (63.6%) [51.9; 74.3] |
+| ypT0 N0 n (%) [95% CI]                                            | 13 (12.1%) [6.6; 19.9]         | 35 (32.7%) [24.0; 42.5]                    | 6 (5.6%) [2.1; 11.8]                 | 13 (13.2%) [7.4; 22.0]                           | 37 (50.7%) [38.7; 62.6]                                                        | 34 (45.3%) [33.8; 57.3]                          | 40 (51.9%) [40.3; 63.5] |
+| Clinical Response 5                                               | 79 (79.8%)                     | 89 (88.1%)                                 | 69 (67.6%)                           | 65 (71.4%)                                       | 67 (91.8%)                                                                     | 71 (94.7%)                                       | 69 (89.6%)              |
 
 FEC: 5-fluorouracil, epirubicin, cyclophosphamide; TCH: docetaxel, carboplatin and trastuzumab, CMH: Cochran-Mantel-Haenszel
 
@@ -574,7 +579,10 @@ FEC: 5-fluorouracil, epirubicin, cyclophosphamide; TCH: docetaxel, carboplatin a
 
 <div style=\"page-break-after: always\"></div>
 
-2. Treatment Pertuzumab+Trastuzumab+Docetaxel and Pertuzumab+Trastuzumab are compared to Trastuzumab+ Docetaxel while Pertuzumab+Docetaxel is compared to Pertuzumab+Trastuzumab+Docetaxel.
+2. Treatment Pertuzumab+Trastuzumab+Docetaxel and Pertuzumab+Trastuzumab are compared to Trastuzumab+ Docetaxel while Pertuzumab+Docetaxel is compared to
+
+Pertuzumab+Trastuzumab+Docetaxel.
+
 3. Approximate 95% CI for difference of two response rates using Hauck-Anderson method.
 4. p-value from Cochran-Mantel-Haenszel test, with Simes multiplicity adjustment.
 5. Clinical response represents patients with a best overall response of CR or PR during the neoadjuvant period (in the primary breast lesion).
@@ -614,42 +622,40 @@ Demographics were well balanced between the two treatment arms. The median age w
 
 After a median follow-up of 45.4 months, the APHINITY study showed a 19% (hazard ratio [HR] = 0.81; 95% CI 0.66, 1.00 p-value 0.0446) reduction in risk of recurrence or death in patients randomised to receive pertuzumab compared with patients randomised to receive placebo.
 
-After a median follow-up of 101.2 months (8.4 years), at the third OS interim analysis, the number of deaths in patients randomised to the pertuzumab arm was 168 deaths [7.0%] compared with 202 deaths [8.4%] in the placebo arm; HR=0.83, 95% CI [0.68, 1.02].
+After a median follow-up of 101.2 months (8.4 years), at the third OS interim analysis, the number of deaths in patients randomised to the pertuzumab arm was 168 deaths [7.0%] compared with 202 deaths [8.4%] in the placebo arm; HR=0.83, 95% CI [0.68; 1.02].
 
 The efficacy results from the APHINITY trial are summarised in Table 5 and in Figure 3.
 
 Table 5 Overall Efficacy: ITT Population
 
-|                                                                                                                                                                        | Pertuzumab + trastuzumab + Chemotherapy N=2400                  | Placebo + trastuzumab + Chemotherapy N=2404   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------|
-| Primary Endpoint                                                                                                                                                       |                                                                 |                                               |
-| Invasive Disease Free Survival (IDFS)* Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified 1 ) 3 year event-free rate 2 [95% CI]          | 171(7.1%) 210 (8.7%) 0.81 [0.66, 1.00] 0.0446 94.1 [93.1, 95.0] | 93.2 [92.2, 94.3]                             |
-| Secondary Endpoints 1                                                                                                                                                  |                                                                 |                                               |
-| IDFS including second primary non-breast cancer Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified 1 ) 3 year event-free rate 2 [95% CI] | 189(7.9%)                                                       | 230 (9.6%) 0.0430                             |
-|                                                                                                                                                                        | 0.82 [0.68, 0.99]                                               | 0.82 [0.68, 0.99]                             |
-|                                                                                                                                                                        | 93.5 [92.5, 94.5]                                               | 92.5 [91.4, 93.6]                             |
-| Disease Free Survival (DFS) Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified 1 ) 2                                                     | 192(8.0%) 0.81                                                  | 236 (9.8%) [0.67, 0.98] 0.0327                |
-| 3 year event-free rate [95% CI] Overall Survival (OS) **                                                                                                               | 93.4 [92.4, 94.4]                                               | 92.3 [91.2, 93.4]                             |
-| Number (%) of patients with event                                                                                                                                      | 168 (7%)                                                        |                                               |
-| HR [95% CI]                                                                                                                                                            | 0.83 [0.68, 1.02]                                               | 202 (8.4%)                                    |
+|                                                                                                                                                                               | Pertuzumab + trastuzumab + Chemotherapy N=2400                 | Placebo + trastuzumab + Chemotherapy N=2404      |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------|
+| Primary Endpoint                                                                                                                                                              |                                                                |                                                  |
+| Invasive Disease Free Survival (IDFS) * Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified 1 ) 3 year event-free rate 2 [95% CI]                | 171 (7.1%) 210 0.81 [0.66, 1.00] 0.0446 94.1 [93.1; 95.0] 93.2 | (8.7%) [92.2; 94.3]                              |
+| Secondary Endpoints 1                                                                                                                                                         |                                                                |                                                  |
+| IDFS including second primary non-breast cancer * Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified 1 ) 3 year event-free rate 2 [95% CI]      | 189 (7.9%) 0.82 93.5 [92.5; 94.5]                              | 230 (9.6%) [0.68; 0.99] 0.0430 92.5 [91.4; 93.6] |
+| Disease Free Survival (DFS) * Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified 1 ) 3 year event-free rate 2 [95% CI] Overall Survival (OS) ** | 192 (8.0%) 0.81 93.4 [92.4; 94.4]                              | 236 (9.8%) [0.67; 0.98] 0.0327 92.3 [91.2; 93.4] |
+| Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified 1 ) 10 year event-free rate 2 [95% CI]                                                       | 205 (8.5%) 0.83 [0.69; 0.0441 91.55 [90.38; 92.71]             | 247 (10.3%) 1.00] 89.79 [88.53; 91.06]           |
 
-Key to abbreviations (Table 5): HR: Hazard Ratio; CI: Confidence Interval Kaplan-MeierPlotofTimetoFirstIDFSEvent(Months)byTreatmentRegimen,ITTPopulation Protocol:BIG4-11/BO25126/TOC4939G
+Key to abbreviations (Table 5): HR: Hazard Ratio; CI: Confidence Interval
 
-* Primary Invasive Disease Free Survival analysis, cutoff date 19 th  December 2016
+* Primary Invasive Disease Free Survival analysis, cutoff date 19 th December 2016
 
-** Data from 3 rd  interim analysis for overall survival, cutoff date 10 th  January 2022.
+** Data from final analysis for overall survival, cutoff date 28 th November 2024; p-value boundary 0.0496
 
 1. All analyses stratified by nodal status, protocol version, central hormone receptor status, and adjuvant chemotherapy regimen.
 
-2. 3-year event-free rate derived from Kaplan-Meier estimates.
+2. 3-year event-free rate and 10 year event-free rate derived from Kaplan-Meier estimates.
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 3 Kaplan-Meier Curve of Invasive Disease Free Survival
 
+Kaplan-Meier Plot of Time to First IDFS Event (Months) by Treatment Regimen, ITT Population Protocol: BIG 4-11/BO25126/TOC4939G
+
 <!-- image -->
 
-Time(months)
+Time (months)
 
 IDFS= invasive disease free survival; CI= confidence interval; Pla= placebo; Ptz= pertuzumab; T= trastuzumab.
 
@@ -661,15 +667,14 @@ At the time of the primary analysis, the benefits of pertuzumab were more appare
 
 Table 6 Efficacy results in subgroups by nodal status and hormone receptor status 1
 
-|                         | Number of IDFS events/Total N (%)       | Number of IDFS events/Total N (%)    | Unstratified HR (95% CI)   |
-|-------------------------|-----------------------------------------|--------------------------------------|----------------------------|
-| Population              | Pertuzumab + trastuzumab + chemotherapy | Placebo + trastuzumab + chemotherapy |                            |
-| Nodal status            |                                         |                                      |                            |
-| Positive                | 139/1503 (9.2%)                         | 181/1502 (12.1%)                     | 0.77 (0.62, 0.96)          |
-| Negative                | 32/897 (3.6%)                           | 29/902 (3.2%)                        | 1.13 (0.68, 1.86)          |
-| Hormone receptor status |                                         |                                      |                            |
-| Negative                | 71/864 (8.2%)                           | 91/858 (10.6%)                       | 0.76 (0.56, 1.04)          |
-| Positive                | 100/1536 (6.5%)                         | 119/1546 (7.7%)                      | 0.86 (0.66, 1.13)          |
+| Population              | Number of IDFS events/Total N (%) - Pertuzumab + trastuzumab + chemotherapy   | Number of IDFS events/Total N (%) - Placebo + trastuzumab + chemotherapy   | Unstratified HR (95% CI)   |
+|-------------------------|-------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------|
+| Nodal status            |                                                                               |                                                                            |                            |
+| Positive                | 139/1503 (9.2%)                                                               | 181/1502 (12.1%)                                                           | 0.77 (0.62; 0.96)          |
+| Negative                | 32/897 (3.6%)                                                                 | 29/902 (3.2%)                                                              | 1.13 (0.68; 1.86)          |
+| Hormone receptor status |                                                                               |                                                                            |                            |
+| Negative                | 71/864 (8.2%)                                                                 | 91/858 (10.6%)                                                             | 0.76 (0.56; 1.04)          |
+| Positive                | 100/1536 (6.5%)                                                               | 119/1546 (7.7%)                                                            | 0.86 (0.66; 1.13)          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -679,7 +684,7 @@ Estimates of IDFS rates in the lymph node- positive subgroup were 92.0% versus 9
 
 Secondary endpoints included the assessment of patient-reported global health status, role and physical function, and treatment symptoms using the EORTC QLQ-C30 and EORTC QLQ-BR23 questionnaires. In the analyses of patient-reported outcomes, a 10-point difference was considered clinically meaningful.
 
-Patients' physical function, global health status and diarrhoea scores showed a clinically meaningful change during chemotherapy in both treatment arms. The mean decrease from baseline at that time for physical function was -10.7 (95% CI-11.4, -10.0) in the pertuzumab arm and -10.6 (95% CI -11.4, 9.9) in the placebo arm; global health status was -11.2 (95% CI -12.2, -10.2) in the pertuzumab arm and -10.2 (95% CI -11.1,-9.2) in the placebo arm. Change in diarrhoea symptoms increased to +22.3 (95% CI 21.0, 23.6) in the Pertuzumab arm versus +9.2 (95% CI 8.2, 10.2) in the placebo arm.
+Patients' physical function, global health status and diarrhoea scores showed a clinically meaningful change during chemotherapy in both treatment arms. The mean decrease from baseline at that time for physical function was -10.7 (95% CI-11.4; -10.0) in the pertuzumab arm and -10.6 (95% CI -11.4; - 9.9) in the placebo arm; global health status was -11.2 (95% CI -12.2; -10.2) in the pertuzumab arm and -10.2 (95% CI -11.1;-9.2) in the placebo arm. Change in diarrhoea symptoms increased to +22.3 (95% CI 21.0; 23.6) in the Pertuzumab arm versus +9.2 (95% CI 8.2; 10.2) in the placebo arm.
 
 Thereafter in both arms physical function and global health status scores returned to baseline levels during targeted treatment. Diarrhoea symptoms returned to baseline after HER2 therapy in the pertuzumab-arm. The addition of pertuzumab to trastuzumab plus chemotherapy did not affect patients' overall role function over the course of the study.
 
@@ -749,7 +754,7 @@ L-Histidine L-Histidine hydrochloride monohydrate Sorbitol (E420) Polysorbate 20
 
 ## 6.2 Incompatibilities
 
-Glucose (5%) solution must not be used to dilute pertuzumab since it is chemically and physically unstable in such solutions.
+Glucose (5%) solution should not be used to dilute pertuzumab since it is chemically and physically unstable in such solutions.
 
 This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
 
@@ -761,15 +766,15 @@ Unopened vial
 
 ## Diluted solution
 
-After dilution , the chemical and physical in-use stability has been demonstrated for 48 hours at 2°C to 8°C followed by 24 hours at 30°C protected from light. From a microbiological point of view, the product must be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 ℃ to 8 ℃ , unless dilution has taken place in controlled and validated aseptic conditions.
+After dilution, the chemical and physical in-use stability has been demonstrated for 48 hours at 2°C to 8°C followed by 24 hours at 30°C protected from light. From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2℃ to 8℃, unless dilution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
 Store in a refrigerator (2ºC - 8ºC).
 
-Do not freeze.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
@@ -783,15 +788,15 @@ Pack of 1 vial.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Pertuzumab does not contain any antimicrobial preservative. Therefore, care must be taken to ensure the sterility of the prepared solution for infusion and should be prepared by a healthcare professional.
+Pertuzumab does not contain any antimicrobial preservative. Therefore, care must be taken to ensure the sterility of the prepared solution for infusion and should be prepared by a healthcare professional in controlled and validated aseptic conditions (see section 6.3).
 
 Pertuzumab is for single use only.
 
 The vial must not be shaken. 14 ml of pertuzumab concentrate should be withdrawn from the vial using a sterile needle and syringe and diluted into a 250 ml PVC or non-PVC polyolefin infusion bag of sodium chloride 9 mg/ml (0.9%) solution for infusion. After dilution, one ml of solution should contain approximately 3.02 mg of pertuzumab (840 mg/278 ml) for the initial dose where two vials are required and approximately 1.59 mg of pertuzumab (420 mg/264 ml) for the maintenance dose where one vial is required.
 
-The bag must be gently inverted to mix the solution in order to avoid foaming.
+The bag should be gently inverted to mix the solution in order to avoid foaming.
 
-Parenteral medicinal products must be inspected visually for particulates and discolouration prior to administration. If particulates or discoloration are observed, the solution must not be used. Once the infusion is prepared it must be administered immediately (see section 6.3).
+Parenteral medicinal products should be inspected visually for particulates and discolouration prior to administration. If particulates or discoloration are observed, the solution should not be used. Once the infusion is prepared it should be administered immediately (see section 6.3).
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -820,9 +825,12 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -869,7 +877,7 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGINGCARTON
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -881,15 +889,9 @@ Each 14 ml vial contains 420 mg of pertuzumab at a concentration of 30 mg/ml.
 
 ## 3. LIST OF EXCIPIENTS
 
-L-Histidine
+L-Histidine, L-Histidine hydrochloride monohydrate, Sorbitol, Polysorbate 20, Water for injections.
 
-L-Histidine hydrochloride monohydrate
-
-Sorbitol
-
-Polysorbate 20
-
-Water for injections
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -901,7 +903,7 @@ Water for injections
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-For intravenous use after dilution.
+For intravenous use after dilution
 
 Do not shake.
 
@@ -919,63 +921,72 @@ Patients with hereditary fructose intolerance (HFI) must not be given this medic
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator.
+<div style=\"page-break-after: always\"></div>
 
-Do not freeze.
+Store in a refrigerator. Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 N.V. Organon Kloosterstraat 6 5349 AB Oss The Netherlands
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/25/2008/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
-LOT
+Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS   |
-|-----------------------|
-| VIAL LABEL            |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Poherdy 420 mg sterile concentrate Pertuzumab IV
+Poherdy 420 mg concentrate for solution for infusion
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+Pertuzumab
 
-For IV use after dilution
+## IV
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+For IV/intravenous use after dilution
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -985,10 +996,10 @@ EXP
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-LOT
+Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 420 mg/14 ml
 
@@ -1030,7 +1041,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 Poherdy contains the active substance pertuzumab and is used to treat adult patients with breast cancer when:
 
-- The breast cancer has been identified to be of the 'HER2-positive' form - your doctor will test you for this.
+- The breast cancer has been identified to be of the \"HER2-positive\" form - your doctor will test you for this.
 - The cancer has spread to other parts of the body such as the lungs or liver (metastasised) and has not previously been treated with anticancer medicines (chemotherapy) or other medicines designed to attach to HER2, or else the cancer has come back in the breast after previous treatment.
 - The cancer has not spread to other parts of the body and treatment is going to be given before surgery takes place (treatment before surgery is called neoadjuvant therapy).
 - The cancer has not spread to other parts of the body and treatment is going to be given after surgery (treatment after surgery is called adjuvant therapy).
@@ -1039,9 +1050,9 @@ As well as Poherdy you will also receive trastuzumab and medicines called chemot
 
 ## How Poherdy works
 
-Poherdy is a type of medicine called a 'monoclonal antibody' which attaches itself to specific targets in your body and on the cancer cells.
+Poherdy is a type of medicine called a \"monoclonal antibody\" which attaches itself to specific targets in your body and on the cancer cells.
 
-Poherdy recognises and attaches to a target called 'human epidermal growth factor receptor 2' (HER2). HER2 is found in large amounts on the surface of some cancer cells where it stimulates their growth. When Poherdy attaches to the HER2 cancer cells, it may slow or stop the cancer cells from growing, or may kill them.
+Poherdy recognises and attaches to a target called \"human epidermal growth factor receptor 2\" (HER2). HER2 is found in large amounts on the surface of some cancer cells where it stimulates their growth. When Poherdy attaches to the HER2 cancer cells, it may slow or stop the cancer cells from growing, or may kill them.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1062,15 +1073,15 @@ Treatment with Poherdy may affect the heart. Talk to your doctor or nurse before
 - If you have ever had heart problems during previous treatment with trastuzumab.
 - If you have ever had a chemotherapy medicine from the class called anthracyclines, e.g. doxorubicin or epirubicin - these medicines can damage heart muscle and increase the risk of heart problems with pertuzumab.
 
-If any of the above applies to you (or you are not sure), talk to your doctor or nurse before you are given pertuzumab. See section 4 'Serious side effects' for more details about signs of heart problems to look out for.
+If any of the above applies to you (or you are not sure), talk to your doctor or nurse before you are given pertuzumab. See section 4 \"Serious side effects\" for more details about signs of heart problems to look out for.
 
-## Infusion reactions
+## Infusion-related reactions (IRRs)
 
-Infusion reactions, allergic or anaphylactic (more severe allergic) reactions can happen. Your doctor or nurse will check for side effects during your infusion and for 30 to 60 minutes afterwards. If you get any serious reaction, your doctor may stop treatment with pertuzumab. Very rarely, patients have died due to anaphylactic reactions during pertuzumab infusion. See section 4 'Serious side effects' for more details about infusion reactions to look out for during the infusion and thereafter.
+Infusion-related reactions, allergic or anaphylactic (more severe allergic) reactions can happen. Your doctor or nurse will check for side effects during your infusion and for 30 to 60 minutes afterwards. If you get any serious reaction, your doctor may stop treatment with pertuzumab. Very rarely, patients have died due to anaphylactic reactions during pertuzumab infusion. See section 4 \"Serious side effects\" for more details about infusion-related reactions to look out for during the infusion and thereafter.
 
 ## Febrile neutropenia (Low white blood cells with fever)
 
-When pertuzumab is given with other cancer treatments (trastuzumab and chemotherapy), the number of white blood cells may drop and fever (raised temperature) may develop. If you have inflammation of the digestive tract (e.g.sore mouth or diarrhoea) you may be more likely to develop this side effect.
+When pertuzumab is given with other cancer treatments (trastuzumab and chemotherapy), the number of white blood cells may drop and fever (raised temperature) may develop. If you have inflammation of the digestive tract (e.g. sore mouth or diarrhoea) you may be more likely to develop this side effect.
 
 ## Diarrhoea
 
@@ -1078,13 +1089,13 @@ Treatment with pertuzumab may cause severe diarrhoea. Patients over 65 years of 
 
 ## Use in children and adolescents
 
-Poherdy should not be given to patients under the age of 18 years because there is no information on how it works in this age group.
-
 <div style=\"page-break-after: always\"></div>
+
+Poherdy should not be given to patients under the age of 18 years because there is no information on how it works in this age group.
 
 ## Use in the elderly
 
-Patients over 65 years of age who are treated with pertuzumab are more likely to experience side effects such as reduced appetite, decrease in the number of red blood cells, weight loss, feeling tired, loss or altered taste, weak, numb, tingling or prickling sensations mainly affecting the feet and legs and diarrhoea, compared to patients younger than 65 years of age.
+Patients over 65 years of age who are treated with pertuzumab are more likely to experience side effects such as reduced appetite, decrease in the number of red blood cells, weight loss, diarrhoea, feeling tired, loss or altered taste, weak, numb and tingling or prickling sensations mainly affecting the feet and legs compared to patients younger than 65 years of age.
 
 ## Other medicines and Poherdy
 
@@ -1101,7 +1112,7 @@ Pertuzumab may harm the unborn baby. You should use effective contraception duri
 
 ## Driving and using machines
 
-Pertuzumab may have a minor effect on you being able to drive or use machines. However, if you get any dizziness, infusion reactions, allergic or anaphylactic reactions, wait until these have gone away before driving or using machines.
+Pertuzumab may have a minor effect on you being able to drive or use machines. However, if you get any dizziness, infusion-related reactions, allergic or anaphylactic reactions, wait until these have gone away before driving or using machines.
 
 ## Poherdy contains sodium
 
@@ -1129,14 +1140,14 @@ Poherdy will be given to you by a doctor or nurse in a hospital or clinic.
 <div style=\"page-break-after: always\"></div>
 
 - The number of infusions you will be given depends on how you respond to treatment and whether you are receiving treatment before or after surgery (neoadjuvant or adjuvant therapy) or for disease which has spread.
-- Pertuzumab is given with other cancer treatments (trastuzumab andchemotherapy).
+- Pertuzumab is given with other cancer treatments (trastuzumab and chemotherapy).
 
 ## For the first infusion:
 
 - You will be given 840 mg of pertuzumab over 60 minutes. Your doctor or nurse will check for side effects during your infusion and for 60 minutes afterwards.
-- You will also be given trastuzumab and chemotherapyl.
+- You will also be given trastuzumab and chemotherapy.
 
-## For all following infusions , if the first infusion was well tolerated:
+For all following infusions, if the first infusion was well tolerated:
 
 - You will be given 420 mg of pertuzumab over 30 to 60 minutes. Your doctor or nurse will check for side effects during your infusion and for 30 to 60 minutes afterwards.
 - You will also be given trastuzumab and chemotherapy.
@@ -1163,16 +1174,16 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - Very severe or persistent diarrhoea (7 or more stools per day).
 - A decrease in the number or low amount of white blood cells (shown in a blood test), with or without fever, which may increase the risk of an infection.
-- Infusion reactions with symptoms that can either be mild or more severe and may include feeling sick (nausea), fever, chills, feeling tired, headache, loss of appetite, joint and muscle pains, and hot flushes.
+- Infusion-related reactions with symptoms that can either be mild or more severe and may include feeling sick (nausea), fever, chills, feeling tired, headache, loss of appetite, joint and muscle pains, and hot flushes.
 - Allergic and anaphylactic (more severe allergic) reactions with symptoms that may include swelling of your face and throat, with difficulty in breathing. Very rarely, patients have died due to anaphylactic reactions during pertuzumab infusion.
 - Heart problems (heart failure) with symptoms that can include cough, shortness of breath, and swelling (fluid retention) in your legs or arms.
-- Tumour lysis syndrome (a condition which may happen when cancer cells die quickly, causing changes in blood levels of minerals and metabolites shown in a blood test). Symptoms may include kidney problems (weakness, shortness of breath, fatigue and confusion), heart problems (fluttering of the heart at a faster or slower heartbeat), seizures, vomiting or diarrhoea and tingling in the mouth, hands or feet.
+- Tumour lysis syndrome (a condition which may happen when cancer cells die quickly, causing changes in blood levels of minerals and metabolites shown in a blood test). Symptoms may include kidney problems (weakness, shortness of breath, fatigue and confusion), heart problems (fluttering of the heart of a faster or slower heartbeat), seizures, vomiting or diarrhoea and tingling in the mouth, hands or feet.
 
 <div style=\"page-break-after: always\"></div>
 
 Tell a doctor or nurse straight away, if you notice any of the side effects above.
 
-## Other side effects include:
+## Other side effects include
 
 ## Very common (may affect more than 1 in 10 people):
 
@@ -1232,7 +1243,7 @@ Poherdy will be stored by the health professionals at the hospital or clinic. Th
 
 - Keep this medicine out of the sight and reach of children.
 - Do not use this medicine after the expiry date which is stated on the outer carton after EXP. The expiry date refers to the last day of that month.
-- Store in a refrigerator (2°C -8°C).
+- Store in a refrigerator (2°C - 8°C).
 - Do not freeze.
 - Keep the vial in the outer carton in order to protect from light.
 - Do not use this medicine if you notice any particles in the liquid or it is the wrong colour (please see section 6).
@@ -1243,7 +1254,7 @@ Poherdy will be stored by the health professionals at the hospital or clinic. Th
 ## What Poherdy contains
 
 - The active substance is pertuzumab. Each vial contains a total of 420 mg pertuzumab at a concentration of 30 mg/ml.
-- The other ingredients are L-histidine, L-histidine hydrochloride monohydrate, sorbitol (E420, see section 2 'Poherdy contains sorbitol'), polysorbate 20 (E432, see section 2 'Poherdy contains polysorbate') and water for injections.
+- The other ingredients are L-histidine, L-histidine hydrochloride monohydrate, sorbitol (E420, see section 2 \"Poherdy contains sorbitol\"), polysorbate 20 (E432, see section 2 \"Poherdy contains polysorbate\") and water for injections.
 
 ## What Poherdy looks like and contents of the pack
 
@@ -1313,7 +1324,7 @@ Organon Belgium Tél/Tel: 0080066550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Magyarország
 
-Organon Hungary Kft. Tel.:  +36 1 766 1963 dpoc.hungary@organon.com
+Organon Hungary Kft. Tel.: +36 1 766 1963 dpoc.hungary@organon.com
 
 ## Malta
 
@@ -1339,7 +1350,7 @@ Organon Polska Sp. z o.o. Tel.: +48 22 306 57 64 dpoc.poland@organon.com
 
 ## Portugal
 
-Organon Portugal, Sociedade Unipessoal Lda. Tel: +351 218705500 geral\\_pt@organon.com
+Organon Portugal, Sociedade Unipessoal Lda. Tel: +351 218705500 geral\\_pt@organon.com
 
 ## România
 
@@ -1349,7 +1360,9 @@ Organon Biosciences S.R.L. Tel: +40 21 527 29 90 dpoc.romania@organon.com
 
 ## Ireland
 
-Organon Pharma (Ireland) Limited Tel: +353 15828260 medinfo.ROI@organon.com
+Organon Pharma (Ireland) Limited
+
+Tel: +353 15828260 medinfo.ROI@organon.com
 
 ## Ísland
 
@@ -1359,9 +1372,7 @@ Sími: +354 535 7000
 
 ## Italia
 
-Organon Italia S.r.l.
-
-Tel: +39 06 90259059
+Organon Italia S.r.l. Tel: +39 06 90259059
 
 dpoc.italy@organon.com
 
@@ -1371,11 +1382,11 @@ Organon Pharma B.V., Cyprus branch Τηλ: +357 22866730 dpoc.cyprus@organon.com
 
 ## Latvija
 
-Ārvalsts komersanta 'Organon Pharma B.V.'
+Ārvalsts komersanta \"Organon Pharma B.V.\"
 
 pārstāvniecība Tel: +371 66968876 dpoc.latvia@organon.com
 
-## This leaflet was last revised in .
+## This leaflet was last revised in.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 

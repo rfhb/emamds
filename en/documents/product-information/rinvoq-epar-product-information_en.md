@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-09-25 08:38:06
+document_datetime: 2026-10-13 12:14:03
 document_pages: 159
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rinvoq-epar-product-information_en.pdf
 document_name: rinvoq-epar-product-information_en.pdf
 version: success
-processing_time: 285.88952
-conversion_datetime: 2026-09-28 20:17:49.823045
+processing_time: 101.8729532
+conversion_datetime: 2026-10-19 23:10:32.270557
 docling_version:
-  docling-serve: 1.35.0
-  docling-jobkit: 3.8.0
-  docling: 2.130.0
-  docling-core: 2.99.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
   docling-ibm-models: 4.0.3
-  docling-parse: 7.22.1
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -633,17 +633,17 @@ In the placebo-controlled clinical study, the frequency of herpes zoster over 52
 
 ## Infections
 
-In the placebo-controlled period of the clinical studies, the frequency of infection over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 39% and 43% compared to 30% in the placebo group, respectively. The long-term rate of infections for the upadacitinib 15 mg and 30 mg groups was 98.5 and 109.6 events per 100 patient-years, respectively.
+In the placebo-controlled period of the clinical studies, the frequency of infection over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 39% and 43% compared to 30% in the placebo group, respectively. The long-term rate of infections through week 260 for the upadacitinib 15 mg and 30 mg groups was 82.6 and 92.7 events per 100 patient-years, respectively.
 
-In placebo-controlled clinical studies, the frequency of serious infection over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 0.8% and 0.4% compared to 0.6% in the placebo group, respectively. The long-term rate of serious infections for the upadacitinib 15 mg and 30 mg groups was 2.3 and 2.8 events per 100 patient-years, respectively.
+In placebo-controlled clinical studies, the frequency of serious infection over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 0.8% and 0.4% compared to 0.6% in the placebo group, respectively. The long-term rate of serious infections through week 260 for the upadacitinib 15 mg and 30 mg groups was 2.2 and 2.6 events per 100 patient-years, respectively.
 
 ## Opportunistic infections (excluding tuberculosis)
 
-In the placebo-controlled period of the clinical studies, all opportunistic infections (excluding TB and herpes zoster) reported were eczema herpeticum. The frequency of eczema herpeticum over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 0.7% and 0.8% compared to 0.4% in the placebo group, respectively. The long-term rate of eczema herpeticum for the upadacitinib 15 mg and 30 mg groups was 1.6 and 1.8 events per 100 patient-years, respectively. One case of esophageal candidiasis was reported with upadacitinib 30 mg.
+In the placebo-controlled period of the clinical studies, the most frequently reported opportunistic infection (excluding tuberculosis and herpes zoster) was eczema herpeticum. The frequency of eczema herpeticum over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 0.7% and 0.8% compared to 0.4% in the placebo group, respectively. The long-term rate of opportunistic infections (excluding tuberculosis and herpes zoster) through week 260 for the upadacitinib 15 mg and 30 mg groups was 1.7 and 2.0 events per 100 patient-years, respectively. The long-term rate of eczema herpeticum through week 260 for the upadacitinib 15 mg and 30 mg groups was 1.5 and 1.9 events per 100 patient-years, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-The long-term rate of herpes zoster for the upadacitinib 15 mg and 30 mg groups was 3.5 and 5.2 events per 100 patient-years, respectively. Most of the herpes zoster events involved a single dermatome and were non-serious.
+The long-term rate of herpes zoster through week 260 for the upadacitinib 15 mg and 30 mg groups was 3.2 and 5.3 events per 100 patient-years, respectively. Most of the herpes zoster events involved a single dermatome and were non-serious.
 
 ## Laboratory abnormalities
 
@@ -738,7 +738,7 @@ A total of 122 paediatric patients (2 to &lt; 18 years of age) with polyarticula
 
 ## Atopic dermatitis
 
-A total of 541 adolescents aged 12 to 17 years with atopic dermatitis were treated in the global Phase 3 studies (n=343) and the supplemental adolescent substudies (n=198), of whom 264 were exposed to 15 mg and 265 were exposed to 30 mg. The safety profile for upadacitinib 15 mg and 30 mg in adolescents was similar to that in adults. With long-term exposure, the adverse reaction of skin papilloma was reported in 3.4% and 6.8% of adolescent patients with atopic dermatitis in the upadacitinib 15 mg and 30 mg groups, respectively.
+A total of 541 adolescents aged 12 to 17 years with atopic dermatitis were treated in the global Phase 3 studies (n=343) and the supplemental adolescent substudies (n=198), of whom 264 were exposed to 15 mg and 265 were exposed to 30 mg. The safety profile for upadacitinib 15 mg and 30 mg in adolescents was similar to that in adults through week 260. The long-term rate of the adverse drug reaction of skin papilloma through week 260 for the upadacitinib 15 mg and 30 mg groups was 2.2 and 3.9 events per 100 patient-years, respectively.
 
 ## Alopecia areata
 
@@ -816,9 +816,7 @@ Table 5 Clinical trials summary
 
 <div style=\"page-break-after: always\"></div>
 
-Abbreviations: ACR20 (or 50) = American College of Rheumatology ≥20% (or ≥50%) improvement; bDMARD = biologic disease-modifying anti-rheumatic drug, CRP = C-Reactive Protein, DAS28 = Disease Activity Score 28 joints, mTSS = modified Total Sharp Score, csDMARD = conventional synthetic disease-modifying anti-rheumatic drug,
-
-HAQ-DI = Health Assessment Questionnaire-Disability Index, SF-36 PCS = Short Form (36) Health Survey (SF-36) Physical Component Summary, CDAI = Clinical Disease Activity Index, FACIT-F = Functional Assessment of Chronic Illness Therapy-Fatigue score, IR = inadequate responder, MTX = methotrexate, n = number randomised
+Abbreviations: ACR20 (or 50) = American College of Rheumatology ≥20% (or ≥50%) improvement; bDMARD = biologic disease-modifying anti-rheumatic drug, CRP = C-Reactive Protein, DAS28 = Disease Activity Score 28 joints, mTSS = modified Total Sharp Score, csDMARD = conventional synthetic disease-modifying anti-rheumatic drug, HAQ-DI = Health Assessment Questionnaire-Disability Index, SF-36 PCS = Short Form (36) Health Survey (SF-36) Physical Component Summary, CDAI = Clinical Disease Activity Index, FACIT-F = Functional Assessment of Chronic Illness Therapy-Fatigue score, IR = inadequate responder, MTX = methotrexate, n = number randomised
 
 - a. Patients were naïve to MTX or received no more than 3 weekly MTX doses
 2. b Patients had inadequate response to MTX
@@ -1030,11 +1028,7 @@ Patients who discontinued randomised treatment or were missing data at week of e
 
 - a In patients with enthesitis at baseline (n=241, 270, and 265, respectively, for SELECT-PsA 1 and n=144 and 133, respectively, for SELECT-PsA 2)
 - b In patients with dactylitis at baseline (n=126, 136, and 127, respectively, for SELECT-PsA 1 and n=64 and 55, respectively, for SELECT-PsA 2)
-
-c In patients with ≥ 3% BSA psoriasis at baseline (n=211, 214, and 211, respectively, for
-
-SELECT-PsA 1 and n=131 and 130, respectively, for SELECT-PsA 2)
-
+- c In patients with ≥ 3% BSA psoriasis at baseline (n=211, 214, and 211, respectively, for SELECT-PsA 1 and n=131 and 130, respectively, for SELECT-PsA 2)
 - d primary endpoint
 - e multiplicity-controlled p≤0.001 upadacitinib vs placebo comparison
 - f multiplicity-controlled p≤0.001 upadacitinib vs adalimumab comparison (non-inferiority test)
@@ -1346,7 +1340,7 @@ Figure 1 Proportion of patients achieving an EASI 75 response and mean percent c
 
 Treatment effects in subgroups (weight, age, gender, race, and prior systemic treatment with immunosuppressants) were consistent with the results in the overall study population.
 
-Results at week 16 continued to be maintained through week 52 in patients treated with upadacitinib 15 mg or 30 mg.
+Results at week 16 continued to be maintained through week 260 in patients treated with upadacitinib 15 mg or 30 mg.
 
 Quality of life/patient-reported outcomes
 
@@ -1511,7 +1505,7 @@ Figure 3 shows the proportion of patients achieving F-VASI 75 and T-VASI 50 thro
 
 Figure 3 Proportion of patients achieving F-VASI 75 and T-VASI 50 through week 48 in VITIUP-1 and VITI-UP-2 Combined
 
-## F-VASI 75
+F-VASI 75
 
 <!-- image -->
 
@@ -1760,7 +1754,8 @@ Abbreviation: PBO = placebo, UPA = upadacitinib
 
 * p &lt; 0.001, adjusted treatment difference (95% CI)
 
-- ** p &lt; 0.01, adjusted treatment difference (95% CI)
+** p &lt; 0.01, adjusted treatment difference (95% CI)
+
 - *** nominal p &lt; 0.001 UPA vs PBO comparison, adjusted treatment difference (95% CI)
 - a Average daily SF ≤ 2.8 and APS ≤ 1.0 and neither greater than baseline
 - b Decrease in SES-CD &gt; 50% from baseline of the induction study (or for patients with an SES-CD of 4 at baseline of the induction study, at least a 2-point reduction from baseline of the induction study)
@@ -1816,7 +1811,9 @@ Table 23 Clinical response
 
 ## Atopic dermatitis
 
-A total of 542 adolescents aged 12 to 17 years with moderate to severe atopic dermatitis were randomised across the three global Phase 3 studies, of which 344 were evaluated for the primary analysis. Adolescents in the primary analysis were randomised to receive either 15 mg (N=114) or 30 mg (N=114) upadacitinib or matching placebo (N=116), in monotherapy or combination with topical corticosteroids. Efficacy was consistent between the adolescents and adults. The safety profile in adolescents was generally similar to that in adults, with dose-dependent increases in the rate of some adverse events, including neutropenia and herpes zoster. At both doses, the rate of neutropenia was slightly increased in adolescents compared to adults. At both doses, the rate of herpes zoster was higher in adults compared to that in adolescents.
+A total of 542 adolescents aged 12 to 17 years with moderate to severe atopic dermatitis were randomised across the three global Phase 3 studies, of which 344 were evaluated for the primary analysis. Adolescents in the primary analysis were randomised to receive either 15 mg (N=114) or 30 mg (N=114) upadacitinib or matching placebo (N=116), in monotherapy or combination with topical corticosteroids. Efficacy was consistent between the adolescents and adults. Efficacy results at week 16 were maintained through week 260 in adolescents treated with upadacitinib 15 mg or 30 mg (at week 260, N=273 in the study; N=261 with efficacy data).
+
+The safety profile in adolescents was generally similar to that in adults, with dose-dependent increases in the rate of some adverse events, including neutropenia and herpes zoster. At both doses, the rate of neutropenia was slightly increased in adolescents compared to adults. At both doses, the rate of herpes zoster was higher in adults compared to that in adolescents.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1839,7 +1836,7 @@ a Based on number of subjects randomised
 
 b Responder was defined as a patient with vIGA-AD 0 or 1 (\"clear\" or \"almost clear\") with a reduction of ≥ 2 points on a 0-4 ordinal scale.
 
-- c Results shown in subset of patients eligible for assessment (patients with Worst Pruritus NRS ≥ 4 at baseline).
+c Results shown in subset of patients eligible for assessment (patients with Worst Pruritus NRS ≥ 4 at baseline).
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with RINVOQ in one or more subsets of the paediatric population in chronic idiopathic arthritis (including rheumatoid arthritis, psoriatic arthritis, spondyloarthritis and juvenile idiopathic arthritis) atopic dermatitis, alopecia areata, vitiligo, ulcerative colitis, and Crohn's disease (see section 4.2 for information on paediatric use).
 
@@ -2445,17 +2442,17 @@ In the placebo-controlled clinical study, the frequency of herpes zoster over 52
 
 ## Infections
 
-In the placebo-controlled period of the clinical studies, the frequency of infection over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 39% and 43% compared to 30% in the placebo group, respectively. The long-term rate of infections for the upadacitinib 15 mg and 30 mg groups was 98.5 and 109.6 events per 100 patient-years, respectively.
+In the placebo-controlled period of the clinical studies, the frequency of infection over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 39% and 43% compared to 30% in the placebo group, respectively. The long-term rate of infections through week 260 for the upadacitinib 15 mg and 30 mg groups was 82.6 and 92.7 events per 100 patient-years, respectively.
 
-In placebo-controlled clinical studies, the frequency of serious infection over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 0.8% and 0.4% compared to 0.6% in the placebo group, respectively. The long-term rate of serious infections for the upadacitinib 15 mg and 30 mg groups was 2.3 and 2.8 events per 100 patient-years, respectively.
+In placebo-controlled clinical studies, the frequency of serious infection over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 0.8% and 0.4% compared to 0.6% in the placebo group, respectively. The long-term rate of serious infections through week 260 for the upadacitinib 15 mg and 30 mg groups was 2.2 and 2.6 events per 100 patient-years, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Opportunistic infections (excluding tuberculosis)
 
-In the placebo-controlled period of the clinical studies, all opportunistic infections (excluding TB and herpes zoster) reported were eczema herpeticum. The frequency of eczema herpeticum over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 0.7% and 0.8% compared to 0.4% in the placebo group, respectively. The long-term rate of eczema herpeticum for the upadacitinib 15 mg and 30 mg groups was 1.6 and 1.8 events per 100 patient-years, respectively. One case of esophageal candidiasis was reported with upadacitinib 30 mg.
+In the placebo-controlled period of the clinical studies, the most frequently reported opportunistic infection (excluding tuberculosis and herpes zoster) was eczema herpeticum. The frequency of eczema herpeticum over 16 weeks in the upadacitinib 15 mg and 30 mg groups was 0.7% and 0.8% compared to 0.4% in the placebo group, respectively. The long-term rate of opportunistic infections (excluding tuberculosis and herpes zoster) through week 260 for the upadacitinib 15 mg and 30 mg groups was 1.7 and 2.0 events per 100 patient-years, respectively. The long-term rate of eczema herpeticum through week 260 for the upadacitinib 15 mg and 30 mg groups was 1.5 and 1.9 events per 100 patient-years, respectively.
 
-The long-term rate of herpes zoster for the upadacitinib 15 mg and 30 mg groups was 3.5 and 5.2 events per 100 patient-years, respectively. Most of the herpes zoster events involved a single dermatome and were non-serious.
+The long-term rate of herpes zoster through week 260 for the upadacitinib 15 mg and 30 mg groups was 3.2 and 5.3 events per 100 patient-years, respectively. Most of the herpes zoster events involved a single dermatome and were non-serious.
 
 ## Laboratory abnormalities
 
@@ -2550,7 +2547,7 @@ A total of 122 paediatric patients (2 to &lt; 18 years of age) with polyarticula
 
 ## Atopic dermatitis
 
-A total of 541 adolescents aged 12 to 17 years with atopic dermatitis were treated in the global Phase 3 studies (n=343) and the supplemental adolescent substudies (n=198), of whom 264 were exposed to 15 mg and 265 were exposed to 30 mg. The safety profile for upadacitinib 15 mg and 30 mg in adolescents was similar to that in adults. With long-term exposure, the adverse reaction of skin papilloma was reported in 3.4% and 6.8% of adolescent patients with atopic dermatitis in the upadacitinib 15 mg and 30 mg groups, respectively.
+A total of 541 adolescents aged 12 to 17 years with atopic dermatitis were treated in the global Phase 3 studies (n=343) and the supplemental adolescent substudies (n=198), of whom 264 were exposed to 15 mg and 265 were exposed to 30 mg. The safety profile for upadacitinib 15 mg and 30 mg in adolescents was similar to that in adults through week 260. The long-term rate of the adverse drug reaction of skin papilloma through week 260 for the upadacitinib 15 mg and 30 mg groups was 2.2 and 3.9 events per 100 patient-years, respectively.
 
 ## Alopecia areata
 
@@ -3469,13 +3466,10 @@ EU/1/19/1404/005
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 rinvoq 15 mg
 
@@ -3681,6 +3675,8 @@ Lot
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
 
+114
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -3735,7 +3731,8 @@ Store in the original blister in order to protect from moisture.
 
 AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/19/1404/006
 
@@ -3747,7 +3744,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -3901,15 +3899,14 @@ Store in the original blister in order to protect from moisture.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen
 
 Germany
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/19/1404/009
 
@@ -4479,8 +4476,7 @@ Discard after 60 days of first opening Keep the bottle in the outer carton in or
 |-------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 AbbVie (as logo)
 
@@ -5566,7 +5562,9 @@ Tel: +31 (0)88 322 2843
 
 ## Norge
 
-AbbVie AS Tlf: +47 67 81 80 00
+AbbVie AS
+
+Tlf: +47 67 81 80 00
 
 ## Österreich
 
@@ -5729,14 +5727,14 @@ Do not remove adapter after it is inserted.
 - a. Insert the tip of the syringe into the adapter.
 - b. With the syringe attached to the adapter in the bottle, turn the bottle upside down.
 
-<!-- image -->
-
 ## Step 6 Draw the oral solution into the syringe
 
 - a. Slowly pull the plunger down. This draws the solution into the syringe.
 - b. Check the syringe for air bubbles.
 
 Note. You may feel pressure when pulling the plunger.
+
+<!-- image -->
 
 <!-- image -->
 
@@ -5794,10 +5792,6 @@ Do not touch the plunger to avoid oral solution accidentally coming out of the s
 - a. With the adapter still inserted in the bottle, screw the cap back on to the bottle to close it.
 - b. Keep the bottle, supplies, and all medicines out of the sight and reach of children.
 
-24
-
-<!-- image -->
-
 ## Step 13 Rinse and store the syringe
 
 - a. Remove the plunger from the syringe then rinse both parts with water.
@@ -5808,3 +5802,7 @@ Do not use soap or put the syringe in the dishwasher to clean it.
 - c. Store the reassembled syringe in a clean, dry place.
 
 <!-- image -->
+
+<!-- image -->
+
+24

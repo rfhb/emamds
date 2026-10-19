@@ -1,36 +1,36 @@
 ---
-document_datetime: 2026-05-07 13:01:23
+document_datetime: 2026-10-13 15:03:31
 document_pages: 121
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/olumiant-epar-product-information_en.pdf
 document_name: olumiant-epar-product-information_en.pdf
 version: success
-processing_time: 48.5238792
-conversion_datetime: 2026-05-10 11:59:25.252662
+processing_time: 62.4222298
+conversion_datetime: 2026-10-19 23:02:52.220422
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Olumiant 1 mg film-coated tablets Olumiant 2 mg film-coated tablets
+Olumiant 1 mg film-coated tablets
+
+Olumiant 2 mg film-coated tablets
 
 Olumiant 4 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Olumiant 1 mg film-coated tablets
+Olumiant 1 mg film-coated tablets
 
 Each film-coated tablet contains 1 mg baricitinib.
 
@@ -50,15 +50,15 @@ Film-coated tablet (tablet)
 
 Olumiant 1 mg film-coated tablets
 
-Very light pink, 6.75 mm round tablets, debossed with 'Lilly' on one side and '1' on the other.
+Very light pink, 6.75 mm round tablets, debossed with \"Lilly\" on one side and \"1\" on the other.
 
-## Olumiant 2 mg film-coated tablets
+Olumiant 2 mg film-coated tablets
 
-Light pink, 9 x 7.5 mm oblong tablets, debossed with 'Lilly' on one side and '2' on the other.
+Light pink, 9 x 7.5 mm oblong tablets, debossed with \"Lilly\" on one side and \"2\" on the other.
 
 ## Olumiant 4 mg film-coated tablets
 
-Medium pink, 8.5 mm round tablets, debossed with 'Lilly' on one side and '4' on the other.
+Medium pink, 8.5 mm round tablets, debossed with \"Lilly\" on one side and \"4\" on the other.
 
 The tablets contain a recessed area on each side.
 
@@ -84,9 +84,9 @@ Baricitinib is indicated for the treatment of severe alopecia areata in adult an
 
 Baricitinib is indicated for the treatment of active juvenile idiopathic arthritis in patients 2 years of age and older who have had an inadequate response or intolerance to one or more prior conventional synthetic or biologic DMARDs:
 
-- -Polyarticular juvenile idiopathic arthritis (polyarticular rheumatoid factor positive [RF+] or negative [RF-], extended oligoarticular),
-- -Enthesitis-related arthritis, and
-- -Juvenile psoriatic arthritis.
+- Polyarticular juvenile idiopathic arthritis (polyarticular rheumatoid factor positive [RF+] or negative [RF-], extended oligoarticular),
+- Enthesitis-related arthritis, and
+- Juvenile psoriatic arthritis.
 
 Baricitinib may be used as monotherapy or in combination with methotrexate.
 
@@ -200,7 +200,9 @@ Pregnancy (see section 4.6).
 
 ## 4.4 Special warnings and precautions for use
 
-Baricitinib should only be used if no suitable treatment alternatives are available in patients: - 65 years of age and older;
+Baricitinib should only be used if no suitable treatment alternatives are available in patients:
+
+- 65 years of age and older;
 
 - patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors (such as current or past long-time smokers);
 
@@ -274,7 +276,7 @@ In a retrospective observational study of baricitinib in rheumatoid arthritis pa
 
 In a large randomized active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a dose dependent higher rate of VTE including deep venous thrombosis (DVT) and pulmonary embolism (PE) was observed with tofacitinib compared to TNF inhibitors.
 
-In patients with cardiovascular or malignancy risk factors (see also section 4.4 'Major adverse cardiovascular events (MACE)' and 'Malignancy') baricitinib should only be used if no suitable treatment alternatives are available.
+In patients with cardiovascular or malignancy risk factors (see also section 4.4 \"Major adverse cardiovascular events (MACE)\" and \"Malignancy\") baricitinib should only be used if no suitable treatment alternatives are available.
 
 In patients with known VTE risk factors other than cardiovascular or malignancy risk factors, baricitinib should be used with caution. VTE risk factors other than cardiovascular or malignancy risk factors include previous VTE, patients undergoing major surgery, immobilisation, use of combined hormonal contraceptives or hormone replacement therapy, and inherited coagulation disorder.
 
@@ -328,7 +330,7 @@ There have been reports of hypoglycaemia following initiation of JAK inhibitors,
 
 ## Excipients with known effect
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially \"sodium-free\".
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -342,11 +344,11 @@ Combination with biological DMARDs, biological immunomodulators or other JAK inh
 
 ## Transporters
 
-In vitro , baricitinib is a substrate for organic anionic transporter (OAT)3, P-glycoprotein (Pgp), breast cancer resistance protein (BCRP) and multidrug and toxic extrusion protein (MATE)2-K. In a clinical pharmacology study, dosing of probenecid (an OAT3 inhibitor with strong inhibition potential) resulted in approximately a 2-fold increase in AUC(0-∞) with no change in tmax or Cmax of baricitinib. Consequently, in patients taking OAT3 inhibitors with a strong inhibition potential, such as probenecid, the recommended dose of baricitinib should be reduced by half (see section 4.2). No clinical pharmacology study has been conducted with OAT3 inhibitors with less inhibition potential. The prodrug leflunomide rapidly converts to teriflunomide which is a weak OAT3 inhibitor and therefore may lead to an increase in baricitinib exposure. Since dedicated interaction studies have not been conducted, caution should be used when leflunomide or teriflunomide are given concomitantly with baricitinib. Concomitant use of the OAT3 inhibitors ibuprofen and diclofenac may lead to increased exposure of baricitinib, however their inhibition potential of OAT3 is less compared to probenecid and thus a clinically relevant interaction is not expected. Coadministration of baricitinib with ciclosporin (Pgp/BCRP inhibitor) or methotrexate (substrate of several transporters including OATP1B1, OAT1, OAT3, BCRP, MRP2, MRP3, and MRP4) resulted in no clinically meaningful effects on baricitinib exposure.
+In vitro, baricitinib is a substrate for organic anionic transporter (OAT)3, P-glycoprotein (Pgp), breast cancer resistance protein (BCRP) and multidrug and toxic extrusion protein (MATE)2-K. In a clinical pharmacology study, dosing of probenecid (an OAT3 inhibitor with strong inhibition potential) resulted in approximately a 2-fold increase in AUC(0-∞) with no change in tmax or Cmax of baricitinib. Consequently, in patients taking OAT3 inhibitors with a strong inhibition potential, such as probenecid, the recommended dose of baricitinib should be reduced by half (see section 4.2). No clinical pharmacology study has been conducted with OAT3 inhibitors with less inhibition potential. The prodrug leflunomide rapidly converts to teriflunomide which is a weak OAT3 inhibitor and therefore may lead to an increase in baricitinib exposure. Since dedicated interaction studies have not been conducted, caution should be used when leflunomide or teriflunomide are given concomitantly with baricitinib. Concomitant use of the OAT3 inhibitors ibuprofen and diclofenac may lead to increased exposure of baricitinib, however their inhibition potential of OAT3 is less compared to probenecid and thus a clinically relevant interaction is not expected. Coadministration of baricitinib with ciclosporin (Pgp/BCRP inhibitor) or methotrexate (substrate of several transporters including OATP1B1, OAT1, OAT3, BCRP, MRP2, MRP3, and MRP4) resulted in no clinically meaningful effects on baricitinib exposure.
 
 ## Cytochrome P450 enzymes
 
-In vitro , baricitinib is a cytochrome P450 enzyme (CYP)3A4 substrate although less than 10 % of the dose is metabolised via oxidation. In clinical pharmacology studies, coadministration of baricitinib with ketoconazole (strong CYP3A inhibitor) resulted in no clinically meaningful effect on the PK of baricitinib. Coadministration of baricitinib with fluconazole (moderate CYP3A/CYP2C19/CYP2C9 inhibitor) or rifampicin (strong CYP3A inducer) resulted in no clinically meaningful changes to baricitinib exposure.
+In vitro, baricitinib is a cytochrome P450 enzyme (CYP)3A4 substrate although less than 10 % of the dose is metabolised via oxidation. In clinical pharmacology studies, coadministration of baricitinib with ketoconazole (strong CYP3A inhibitor) resulted in no clinically meaningful effect on the PK of baricitinib. Coadministration of baricitinib with fluconazole (moderate CYP3A/CYP2C19/CYP2C9 inhibitor) or rifampicin (strong CYP3A inducer) resulted in no clinically meaningful changes to baricitinib exposure.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -358,7 +360,7 @@ Elevating gastric pH with omeprazole had no clinically significant effect on bar
 
 ## Transporters
 
-In vitro , baricitinib is not an inhibitor of OAT1, OAT2, OAT3, organic cationic transporter (OCT) 2, OATP1B1, OATP1B3, BCRP, MATE1 and MATE2-K at clinically relevant concentrations. Baricitinib may be a clinically relevant inhibitor of OCT1, however there are currently no known selective OCT1 substrates for which clinically significant interactions might be predicted. In clinical pharmacology studies there were no clinically meaningful effects on exposure when baricitinib was coadministered with digoxin (Pgp substrate) or methotrexate (substrate of several transporters).
+In vitro, baricitinib is not an inhibitor of OAT1, OAT2, OAT3, organic cationic transporter (OCT) 2, OATP1B1, OATP1B3, BCRP, MATE1 and MATE2-K at clinically relevant concentrations. Baricitinib may be a clinically relevant inhibitor of OCT1, however there are currently no known selective OCT1 substrates for which clinically significant interactions might be predicted. In clinical pharmacology studies there were no clinically meaningful effects on exposure when baricitinib was coadministered with digoxin (Pgp substrate) or methotrexate (substrate of several transporters).
 
 ## Cytochrome P450 enzymes
 
@@ -418,7 +420,8 @@ Table 2. Adverse reactions
 
 - b Frequency for herpes zoster and deep vein thrombosis is based on rheumatoid arthritis clinical trials.
 - c In rheumatoid arthritis clinical trials, the frequency of acne and creatine phosphokinase increased &gt; 5 x ULN was uncommon.
-- d In atopic dermatitis clinical trials, the frequency of nausea, and ALT ≥3 x ULN was uncommon. In alopecia areata clinical trials, the frequency of abdominal pain was uncommon. In atopic dermatitis and alopecia areata clinical trials, the frequency of pneumonia and thrombocytosis &gt; 600 x 10 9  cells/L was uncommon.
+- d In atopic dermatitis clinical trials, the frequency of nausea, and ALT ≥3 x ULN was uncommon. In alopecia areata clinical trials, the frequency of abdominal pain was uncommon. In atopic dermatitis and alopecia areata clinical trials, the frequency of pneumonia and thrombocytosis
+- &gt; 600 x 10 9 cells/L was uncommon.
 - e In alopecia areata clinical trials, the frequency of AST ≥ 3 x ULN was common.
 - f Frequency for pulmonary embolism is based on rheumatoid arthritis and atopic dermatitis clinical trials.
 - g Folliculitis was observed in alopecia areata clinical trials. It was usually localized in the scalp region associated with hair regrowth.
@@ -471,7 +474,7 @@ Dose-dependent increases in mean platelet counts were observed and remained stab
 
 A total of 220 patients from 2 to less than 18 years of age were exposed to any dose of baricitinib in the juvenile idiopathic arthritis clinical trial programme, representing 326 patient years' exposure.
 
-In paediatric patients treated with baricitinib in the placebo-controlled double-blind randomised withdrawal period of the juvenile idiopathic arthritis clinical trial (n=82), headache was very common (11 %), neutropenia &lt; 1 000 cells/mm 3  was common (2.4 %, one patient) and pulmonary embolism was common (1.2 %, one patient).
+In paediatric patients treated with baricitinib in the placebo-controlled double-blind randomised withdrawal period of the juvenile idiopathic arthritis clinical trial (n=82), headache was very common (11 %), neutropenia &lt; 1 000 cells/mm 3 was common (2.4 %, one patient) and pulmonary embolism was common (1.2 %, one patient).
 
 ## Paediatric atopic dermatitis
 
@@ -479,7 +482,7 @@ The safety assessment in children and adolescents is based on the safety data of
 
 ## Adolescent alopecia areata
 
-A total of 245 patients from 12 to less than 18 years of age were exposed to any dose of baricitinib in the phase III trial BRAVE-AA-PEDS. Of those, 85 patients were treated with 4 mg in the placebocontrolled period. Overall, the safety profile in adolescent patients was comparable to that observed in the adult population. Acne (10.6%) and neutropaenia (3.6%) (&lt; 1 x 10 9  cells/L) were more common compared to adults.
+A total of 245 patients from 12 to less than 18 years of age were exposed to any dose of baricitinib in the phase III trial BRAVE-AA-PEDS. Of those, 85 patients were treated with 4 mg in the placebocontrolled period. Overall, the safety profile in adolescent patients was comparable to that observed in the adult population. Acne (10.6%) and neutropaenia (3.6%) (&lt; 1 x 10 9 cells/L) were more common compared to adults.
 
 ## Reporting of suspected adverse reactions
 
@@ -535,7 +538,7 @@ In an in vitro human skin model treated with pro-inflammatory cytokines (i.e., I
 
 ## Vaccine study
 
-The  influence  of  baricitinib  on  the  humoral  response  to  non-live  vaccines  was  evaluated  in 106 rheumatoid arthritis patients under stable treatment with baricitinib 2 or 4 mg, receiving inactivated pneumococcal  or  tetanus  vaccination.  The  majority  of  these  patients  (n = 94)  were  co-treated  with methotrexate. For the total population, pneumococcal vaccination resulted in a satisfactory IgG immune response in 68 % (95 % CI: 58.4 %, 76.2 %) of the patients. In 43.1 % (95 % CI: 34 %, 52.8 %) of the patients, a satisfactory IgG immune response to tetanus vaccination was achieved .
+The influence of baricitinib on the humoral response to non-live vaccines was evaluated in 106 rheumatoid arthritis patients under stable treatment with baricitinib 2 or 4 mg, receiving inactivated pneumococcal or tetanus vaccination. The majority of these patients (n = 94) were co-treated with methotrexate. For the total population, pneumococcal vaccination resulted in a satisfactory IgG immune response in 68 % (95 % CI: 58.4 %, 76.2 %) of the patients. In 43.1 % (95 % CI: 34 %, 52.8 %) of the patients, a satisfactory IgG immune response to tetanus vaccination was achieved.
 
 ## Clinical efficacy
 
@@ -564,7 +567,7 @@ Abbreviations: IR = inadequate responder; QD = Once daily; Q2W = Once every 2 we
 
 4 Patients who had an inadequate response or were intolerant to ≥ 1 bDMARDs; including at least one TNF inhibitor
 
-5  Most common concomitant cDMARDs included MTX, hydroxychloroquine, leflunomide and sulfasalazine
+5 Most common concomitant cDMARDs included MTX, hydroxychloroquine, leflunomide and sulfasalazine
 
 ## Clinical response
 
@@ -586,38 +589,37 @@ Greater rates of remission compared to placebo were observed as early as week 4.
 
 Table 4: Response, remission and physical function
 
-| Study                                                                                | RA-BEGIN MTX-naïve patients                                                          | RA-BEGIN MTX-naïve patients                                                          | RA-BEGIN MTX-naïve patients                                                          | RA-BEAM MTX-IR patients                                                              | RA-BEAM MTX-IR patients                                                              | RA-BEAM MTX-IR patients                                                              | RA-BUILD cDMARD-IR patients                                                          | RA-BUILD cDMARD-IR patients                                                          | RA-BUILD cDMARD-IR patients                                                          | RA-BEACON TNF-IR patients                                                            | RA-BEACON TNF-IR patients                                                            | RA-BEACON TNF-IR patients                                                            |
+| Study - Treatment group                                                              | RA-BEGIN MTX-naïve patients - MTX                                                    | RA-BEGIN MTX-naïve patients - BARI 4 mg                                              | RA-BEGIN MTX-naïve patients - BARI 4 mg + MTX                                        | RA-BEAM MTX-IR patients - PBO                                                        | RA-BEAM MTX-IR patients - BARI 4 mg                                                  | RA-BEAM MTX-IR patients - ADA 40 mg Q2W                                              | RA-BUILD cDMARD-IR patients - PBO                                                    | RA-BUILD cDMARD-IR patients - BARI 2 mg                                              | RA-BUILD cDMARD-IR patients - BARI 4 mg                                              | RA-BEACON TNF-IR patients - PBO                                                      | RA-BEACON TNF-IR patients - BARI 2 mg                                                | RA-BEACON TNF-IR patients - BARI 4 mg                                                |
 |--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Treatment group                                                                      | MTX                                                                                  | BARI 4 mg                                                                            | BARI 4 mg + MTX                                                                      | PBO                                                                                  | BARI 4 mg                                                                            | ADA 40 mg Q2W                                                                        | PBO                                                                                  | BARI 2 mg                                                                            | BARI 4 mg                                                                            | PBO                                                                                  | BARI 2 mg                                                                            | BARI 4 mg                                                                            |
 | N                                                                                    | 210                                                                                  | 159                                                                                  | 215                                                                                  | 488                                                                                  | 487                                                                                  | 330                                                                                  | 228                                                                                  | 229                                                                                  | 227                                                                                  | 176                                                                                  | 174                                                                                  | 177                                                                                  |
 | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               |
-| Week 12                                                                              | 59%                                                                                  | 79% ***                                                                              | 77% ***                                                                              | 40%                                                                                  | 70% ***†                                                                             | 61% ***                                                                              | 39%                                                                                  | 66% ***                                                                              | 62% ***                                                                              | 27%                                                                                  | 49% ***                                                                              | 55% ***                                                                              |
-| Week 24                                                                              | 62%                                                                                  | 77% **                                                                               | 78% ***                                                                              | 37%                                                                                  | 74% ***†                                                                             | 66% ***                                                                              | 42%                                                                                  | 61% ***                                                                              | 65% ***                                                                              | 27%                                                                                  | 45% ***                                                                              | 46% ***                                                                              |
-| Week 52                                                                              | 56%                                                                                  | 73% ***                                                                              | 73% ***                                                                              |                                                                                      | 71% ††                                                                               | 62%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 59 %                                                                                 | 79 % ***                                                                             | 77 % ***                                                                             | 40 %                                                                                 | 70 % ***†                                                                            | 61 % ***                                                                             | 39 %                                                                                 | 66 % ***                                                                             | 62 % ***                                                                             | 27 %                                                                                 | 49 % ***                                                                             | 55 % ***                                                                             |
+| Week 24                                                                              | 62 %                                                                                 | 77 % **                                                                              | 78 % ***                                                                             | 37 %                                                                                 | 74 % ***†                                                                            | 66 % ***                                                                             | 42 %                                                                                 | 61 % ***                                                                             | 65 % ***                                                                             | 27 %                                                                                 | 45 % ***                                                                             | 46 % ***                                                                             |
+| Week 52                                                                              | 56 %                                                                                 | 73 % ***                                                                             | 73 % ***                                                                             |                                                                                      | 71 % ††                                                                              | 62 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               |
-| Week 12                                                                              | 33%                                                                                  | 55% ***                                                                              | 60% ***                                                                              | 17%                                                                                  | 45% ***††                                                                            | 35% ***                                                                              | 13%                                                                                  | 33% ***                                                                              | 34% ***                                                                              | 8%                                                                                   | 20% **                                                                               | 28% ***                                                                              |
-| Week 24                                                                              | 43%                                                                                  | 60% **                                                                               | 63% ***                                                                              | 19%                                                                                  | 51% ***                                                                              | 45% ***                                                                              | 21%                                                                                  | 41% ***                                                                              | 44% ***                                                                              | 13%                                                                                  | 23% *                                                                                | 29% ***                                                                              |
-| Week 52                                                                              | 38%                                                                                  | 57% ***                                                                              | 62% ***                                                                              |                                                                                      | 56% †                                                                                | 47%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 33 %                                                                                 | 55 % ***                                                                             | 60 % ***                                                                             | 17 %                                                                                 | 45 % ***††                                                                           | 35 % ***                                                                             | 13 %                                                                                 | 33 % ***                                                                             | 34 % ***                                                                             | 8 %                                                                                  | 20 % **                                                                              | 28 % ***                                                                             |
+| Week 24                                                                              | 43 %                                                                                 | 60 % **                                                                              | 63 % ***                                                                             | 19 %                                                                                 | 51 % ***                                                                             | 45 % ***                                                                             | 21 %                                                                                 | 41 % ***                                                                             | 44 % ***                                                                             | 13 %                                                                                 | 23 % *                                                                               | 29 % ***                                                                             |
+| Week 52                                                                              | 38 %                                                                                 | 57 % ***                                                                             | 62 % ***                                                                             |                                                                                      | 56 % †                                                                               | 47 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               |
-| Week 12                                                                              | 16%                                                                                  | 31% ***                                                                              | 34% ***                                                                              | 5%                                                                                   | 19% ***†                                                                             | 13% ***                                                                              | 3%                                                                                   | 18% ***                                                                              | 18% ***                                                                              | 2%                                                                                   | 13% ***                                                                              | 11% **                                                                               |
-| Week 24                                                                              | 21%                                                                                  | 42% ***                                                                              | 40% ***                                                                              | 8%                                                                                   | 30% ***†                                                                             | 22% ***                                                                              | 8%                                                                                   | 25% ***                                                                              | 24% ***                                                                              | 3%                                                                                   | 13% ***                                                                              | 17% ***                                                                              |
-| Week 52                                                                              | 25%                                                                                  | 42% ***                                                                              | 46% ***                                                                              |                                                                                      | 37%                                                                                  | 31%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 16 %                                                                                 | 31 % ***                                                                             | 34 % ***                                                                             | 5 %                                                                                  | 19 % ***†                                                                            | 13 % ***                                                                             | 3 %                                                                                  | 18 % ***                                                                             | 18 % ***                                                                             | 2 %                                                                                  | 13 % ***                                                                             | 11 % **                                                                              |
+| Week 24                                                                              | 21 %                                                                                 | 42 % ***                                                                             | 40 % ***                                                                             | 8 %                                                                                  | 30 % ***†                                                                            | 22 % ***                                                                             | 8 %                                                                                  | 25 % ***                                                                             | 24 % ***                                                                             | 3 %                                                                                  | 13 % ***                                                                             | 17 % ***                                                                             |
+| Week 52                                                                              | 25 %                                                                                 | 42 % ***                                                                             | 46 % ***                                                                             |                                                                                      | 37 %                                                                                 | 31 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   |
-| Week 12                                                                              | 30%                                                                                  | 47% ***                                                                              | 56% ***                                                                              | 14%                                                                                  | 44% ***††                                                                            | 35% ***                                                                              | 17%                                                                                  | 36% ***                                                                              | 39% ***                                                                              | 9%                                                                                   | 24% ***                                                                              | 32% ***                                                                              |
-| Week 24                                                                              | 38%                                                                                  | 57% ***                                                                              | 60% ***                                                                              | 19%                                                                                  | 52% ***                                                                              | 48% ***                                                                              | 24%                                                                                  | 46% ***                                                                              | 52% ***                                                                              | 11%                                                                                  | 20% *                                                                                | 33% ***                                                                              |
-| Week 52                                                                              | 38%                                                                                  | 57% ***                                                                              | 63% ***                                                                              |                                                                                      | 56% †                                                                                | 48%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 30 %                                                                                 | 47 % ***                                                                             | 56 % ***                                                                             | 14 %                                                                                 | 44 % ***††                                                                           | 35 % ***                                                                             | 17 %                                                                                 | 36 % ***                                                                             | 39 % ***                                                                             | 9 %                                                                                  | 24 % ***                                                                             | 32 % ***                                                                             |
+| Week 24                                                                              | 38 %                                                                                 | 57 % ***                                                                             | 60 % ***                                                                             | 19 %                                                                                 | 52 % ***                                                                             | 48 % ***                                                                             | 24 %                                                                                 | 46 % ***                                                                             | 52 % ***                                                                             | 11 %                                                                                 | 20 % *                                                                               | 33 % ***                                                                             |
+| Week 52                                                                              | 38 %                                                                                 | 57 % ***                                                                             | 63 % ***                                                                             |                                                                                      | 56 % †                                                                               | 48 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          |
-| Week 12                                                                              | 6%                                                                                   | 14% *                                                                                | 20% ***                                                                              | 2%                                                                                   | 8% ***                                                                               | 7% ***                                                                               | 1%                                                                                   | 9% ***                                                                               | 9% ***                                                                               | 2%                                                                                   | 2%                                                                                   | 5%                                                                                   |
-| Week 24                                                                              | 10%                                                                                  | 22% **                                                                               | 23% ***                                                                              | 3%                                                                                   | 16% ***                                                                              | 14% ***                                                                              | 4%                                                                                   | 17% ***                                                                              | 15% ***                                                                              | 2%                                                                                   | 5%                                                                                   | 9% **                                                                                |
-| Week 52                                                                              | 13%                                                                                  | 25% **                                                                               | 30% ***                                                                              |                                                                                      | 23%                                                                                  | 18%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 6 %                                                                                  | 14 % *                                                                               | 20 % ***                                                                             | 2 %                                                                                  | 8 % ***                                                                              | 7 % ***                                                                              | 1 %                                                                                  | 9 % ***                                                                              | 9 % ***                                                                              | 2 %                                                                                  | 2 %                                                                                  | 5 %                                                                                  |
+| Week 24                                                                              | 10 %                                                                                 | 22 % **                                                                              | 23 % ***                                                                             | 3 %                                                                                  | 16 % ***                                                                             | 14 % ***                                                                             | 4 %                                                                                  | 17 % ***                                                                             | 15 % ***                                                                             | 2 %                                                                                  | 5 %                                                                                  | 9 % **                                                                               |
+| Week 52                                                                              | 13 %                                                                                 | 25 % **                                                                              | 30 % ***                                                                             |                                                                                      | 23 %                                                                                 | 18 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          |
-| Week 12                                                                              | 7%                                                                                   | 14% *                                                                                | 19% ***                                                                              | 2%                                                                                   | 8% ***                                                                               | 7% **                                                                                | 2%                                                                                   | 10% ***                                                                              | 9% ***                                                                               | 2%                                                                                   | 3%                                                                                   | 6%                                                                                   |
-| Week 24                                                                              | 11%                                                                                  | 21% **                                                                               | 22% **                                                                               | 4%                                                                                   | 16% ***                                                                              | 12% ***                                                                              | 4%                                                                                   | 15% ***                                                                              | 15% ***                                                                              | 3%                                                                                   | 5%                                                                                   | 9% *                                                                                 |
-| Week 52                                                                              | 16%                                                                                  | 25% *                                                                                | 28% **                                                                               |                                                                                      | 22%                                                                                  | 18%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 7 %                                                                                  | 14 % *                                                                               | 19 % ***                                                                             | 2 %                                                                                  | 8 % ***                                                                              | 7 % **                                                                               | 2 %                                                                                  | 10 % ***                                                                             | 9 % ***                                                                              | 2 %                                                                                  | 3 %                                                                                  | 6 %                                                                                  |
+| Week 24                                                                              | 11 %                                                                                 | 21 % **                                                                              | 22 % **                                                                              | 4 %                                                                                  | 16 % ***                                                                             | 12 % ***                                                                             | 4 %                                                                                  | 15 % ***                                                                             | 15 % ***                                                                             | 3 %                                                                                  | 5 %                                                                                  | 9 % *                                                                                |
+| Week 52                                                                              | 16 %                                                                                 | 25 % *                                                                               | 28 % **                                                                              |                                                                                      | 22 %                                                                                 | 18 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): |
-| Week 12                                                                              | 60%                                                                                  | 81% ***                                                                              | 77% ***                                                                              | 46%                                                                                  | 68% ***                                                                              | 64% ***                                                                              | 44%                                                                                  | 60% ***                                                                              | 56% **                                                                               | 35%                                                                                  | 48% *                                                                                | 54% ***                                                                              |
-| Week 24                                                                              | 66%                                                                                  | 77% *                                                                                | 74%                                                                                  | 37%                                                                                  | 67% ***†                                                                             | 60% ***                                                                              | 37%                                                                                  | 58% ***                                                                              | 55% ***                                                                              | 24%                                                                                  | 41% ***                                                                              | 44% ***                                                                              |
-| Week 52                                                                              | 53%                                                                                  | 65% *                                                                                | 67% **                                                                               |                                                                                      | 61%                                                                                  | 55%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 60 %                                                                                 | 81 % ***                                                                             | 77 % ***                                                                             | 46 %                                                                                 | 68 % ***                                                                             | 64 % ***                                                                             | 44 %                                                                                 | 60 % ***                                                                             | 56 % **                                                                              | 35 %                                                                                 | 48 % *                                                                               | 54 % ***                                                                             |
+| Week 24                                                                              | 66 %                                                                                 | 77 % *                                                                               | 74 %                                                                                 | 37 %                                                                                 | 67 % ***†                                                                            | 60 % ***                                                                             | 37 %                                                                                 | 58 % ***                                                                             | 55 % ***                                                                             | 24 %                                                                                 | 41 % ***                                                                             | 44 % ***                                                                             |
+| Week 52                                                                              | 53 %                                                                                 | 65 % *                                                                               | 67 % **                                                                              |                                                                                      | 61 %                                                                                 | 55 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 
 Note: Proportions of responders at each time point based on those initially randomised to treatment (N). Patients who discontinued or received rescue therapy were considered as non-responders thereafter.
 
@@ -637,21 +639,20 @@ Treatment with baricitinib 4 mg resulted in a statistically significant inhibiti
 
 Table 5. Radiographic changes
 
-| Study                                                       | RA-BEGIN MTX-naïve patients                                 | RA-BEGIN MTX-naïve patients                                 | RA-BEGIN MTX-naïve patients                                 | RA-BEAM MTX-IR patients                                     | RA-BEAM MTX-IR patients                                     | RA-BEAM MTX-IR patients                                     | RA-BUILD cDMARD-IR patients                                 | RA-BUILD cDMARD-IR patients                                 | RA-BUILD cDMARD-IR patients                                 |
+| Study - Treatment group                                     | RA-BEGIN MTX-naïve patients - MTX                           | RA-BEGIN MTX-naïve patients - BARI4 mg                      | RA-BEGIN MTX-naïve patients - BARI4 mg + MTX                | RA-BEAM MTX-IR patients - PBO a                             | RA-BEAM MTX-IR patients - BARI4 mg                          | RA-BEAM MTX-IR patients - ADA 40 mg Q2W                     | RA-BUILD cDMARD-IR patients - PBO                           | RA-BUILD cDMARD-IR patients - BARI2 mg                      | RA-BUILD cDMARD-IR patients - BARI4 mg                      |
 |-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-| Treatment group                                             | MTX                                                         | BARI4 mg                                                    | BARI4 mg + MTX                                              | PBO a                                                       | BARI4 mg                                                    | ADA 40 mg Q2W                                               | PBO                                                         | BARI2 mg                                                    | BARI4 mg                                                    |
 | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      |
 | Week 24                                                     | 0.61                                                        | 0.39                                                        | 0.29 *                                                      | 0.90                                                        | 0.41 ***                                                    | 0.33 ***                                                    | 0.70                                                        | 0.33 *                                                      | 0.15 **                                                     |
 | Week 52                                                     | 1.02                                                        | 0.80                                                        | 0.40 **                                                     | 1.80                                                        | 0.71 ***                                                    | 0.60 ***                                                    |                                                             |                                                             |                                                             |
 | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : |
-| Week 24                                                     | 68%                                                         | 76%                                                         | 81% **                                                      | 70%                                                         | 81% ***                                                     | 83% ***                                                     | 74%                                                         | 72%                                                         | 80%                                                         |
-| Week 52                                                     | 66%                                                         | 69%                                                         | 80% **                                                      | 70%                                                         | 79% **                                                      | 81% **                                                      |                                                             |                                                             |                                                             |
+| Week 24                                                     | 68 %                                                        | 76 %                                                        | 81 % **                                                     | 70 %                                                        | 81 % ***                                                    | 83 % ***                                                    | 74 %                                                        | 72 %                                                        | 80 %                                                        |
+| Week 52                                                     | 66 %                                                        | 69 %                                                        | 80 % **                                                     | 70 %                                                        | 79 % **                                                     | 81 % **                                                     |                                                             |                                                             |                                                             |
 
 Abbreviations: ADA = adalimumab; BARI = baricitinib; IR = inadequate responder;
 
 MTX = methotrexate; PBO = Placebo
 
-- a Placebo data at week 52 derived using linear extrapolation
+a Placebo data at week 52 derived using linear extrapolation
 
 b No progression defined as mTSS change ≤ 0.
 
@@ -671,9 +672,9 @@ Differences in efficacy between the 4 mg and the 2 mg doses were most notable in
 
 In a long-term extension study, patients from Studies RA-BEAM, RA-BUILD and RA-BEACON who achieved sustained low disease activity or remission (CDAI ≤ 10) after at least 15 months of treatment with baricitinib 4 mg once daily were re-randomised 1:1 in a double-blind manner to continue 4 mg once daily or reduce dose to 2 mg once daily. The majority of patients maintained low disease activity or remission based on CDAI score:
 
-- At week 12:  451/498 (91 %) continuing 4 mg vs.  405/498 (81 %) reduced to 2 mg (p ≤ 0.001)
-- At week 24:  434/498 (87 %) continuing 4 mg vs.  372/498 (75 %) reduced to 2 mg (p ≤ 0.001)
-- At week 48:  400/498 (80 %) continuing 4 mg vs.  343/498 (69 %) reduced to 2 mg (p ≤ 0.001)
+- At week 12: 451/498 (91 %) continuing 4 mg vs. 405/498 (81 %) reduced to 2 mg (p ≤ 0.001)
+- At week 24: 434/498 (87 %) continuing 4 mg vs. 372/498 (75 %) reduced to 2 mg (p ≤ 0.001)
+- At week 48: 400/498 (80 %) continuing 4 mg vs. 343/498 (69 %) reduced to 2 mg (p ≤ 0.001)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -693,7 +694,7 @@ In the placebo-controlled Phase III studies (BREEZE-AD1, -AD2, -AD7, and -AD4), 
 
 ## Clinical response
 
-16-week monotherapy (BREEZE-AD1, -AD2) and TCS combination (BREEZE-AD7) studies A significantly larger proportion of patients randomised to baricitinib 4 mg achieved an IGA 0 or 1 response (primary outcome) , EASI75, or an improvement of ≥ 4 points on the Itch NRS compared to placebo at week 16 (Table 6). Figure 1 shows the mean percent change from baseline in EASI up to week 16.
+16-week monotherapy (BREEZE-AD1, -AD2) and TCS combination (BREEZE-AD7) studies A significantly larger proportion of patients randomised to baricitinib 4 mg achieved an IGA 0 or 1 response (primary outcome), EASI75, or an improvement of ≥ 4 points on the Itch NRS compared to placebo at week 16 (Table 6). Figure 1 shows the mean percent change from baseline in EASI up to week 16.
 
 A significantly greater proportion of patients randomised to baricitinib 4 mg achieved a ≥ 4-point improvement in the Itch NRS compared to placebo (within the first week of treatment for BREEZE-AD1 and AD2, and as early as week 2 for BREEZE-AD7; p &lt; 0.002).
 
@@ -703,28 +704,28 @@ Treatment effects in subgroups (weight, age, gender, race, disease severity, and
 
 Table 6. Efficacy of baricitinib at week 16 (FAS a )
 
-|                                                     | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | TCS combination   | TCS combination   | TCS combination   |
-|-----------------------------------------------------|---------------|---------------|---------------|---------------|---------------|---------------|-------------------|-------------------|-------------------|
-| Study                                               | BREEZE- AD1   | BREEZE- AD1   | BREEZE- AD1   | BREEZE-AD2    | BREEZE-AD2    | BREEZE-AD2    | BREEZE- AD7       | BREEZE- AD7       | BREEZE- AD7       |
-| Treatment Group                                     | PBO           | BARI 2 mg     | BARI 4 mg     | PBO           | BARI 2 mg     | BARI 4 mg     | PBO + TCS         | BARI 2 mg + TCS   | BARI 4 mg + TCS   |
-| N                                                   | 249           | 123           | 125           | 244           | 123           | 123           | 109               | 109               | 111               |
-| IGA 0 or 1, %responders b, c                        | 4.8           | 11.4**        | 16.8**        | 4.5           | 10.6**        | 13.8**        | 14.7              | 23.9              | 30.6**            |
-| EASI-75, %responders c                              | 8.8           | 18.7**        | 24.8**        | 6.1           | 17.9**        | 21.1**        | 22.9              | 43.1*             | 47.7**            |
-| Itch NRS (≥ 4 point improvement), %responders c , d | 7.2           | 12.0          | 21.5**        | 4.7           | 15.1**        | 18.7**        | 20.2              | 38.1*             | 44.0**            |
+| Study - Treatment Group                              |   Monotherapy - BREEZE- AD1 - PBO | Monotherapy - BREEZE- AD1 - BARI 2 mg   | Monotherapy - BREEZE- AD1 - BARI 4 mg   |   Monotherapy - BREEZE-AD2 - PBO | Monotherapy - BREEZE-AD2 - BARI 2 mg   | Monotherapy - BREEZE-AD2 - BARI 4 mg   |   TCS combination - BREEZE- AD7 - PBO + TCS | TCS combination - BREEZE- AD7 - BARI 2 mg + TCS   | TCS combination - BREEZE- AD7 - BARI 4 mg + TCS   |
+|------------------------------------------------------|-----------------------------------|-----------------------------------------|-----------------------------------------|----------------------------------|----------------------------------------|----------------------------------------|---------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| N                                                    |                               249 | 123                                     | 125                                     |                              244 | 123                                    | 123                                    |                                         109 | 109                                               | 111                                               |
+| IGA 0 or 1, % responders b, c                        |                               4.8 | 11.4**                                  | 16.8**                                  |                              4.5 | 10.6**                                 | 13.8**                                 |                                        14.7 | 23.9                                              | 30.6**                                            |
+| EASI-75, % responders c                              |                               8.8 | 18.7**                                  | 24.8**                                  |                              6.1 | 17.9**                                 | 21.1**                                 |                                        22.9 | 43.1*                                             | 47.7**                                            |
+| Itch NRS (≥ 4 point improvement), % responders c , d |                               7.2 | 12.0                                    | 21.5**                                  |                              4.7 | 15.1**                                 | 18.7**                                 |                                        20.2 | 38.1*                                             | 44.0**                                            |
 
 BARI = Baricitinib; PBO = Placebo
 
 * statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
 - a Full analysis set (FAS) including all randomised patients.
-- b Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of ≥ 2 points on 0-4 IGA scale.
+- b Responder was defined as a patient with IGA 0 or 1 (\"clear\" or \"almost clear\") with a reduction of ≥ 2 points on 0-4 IGA scale.
 - c Non-Responder Imputation: Patients who received rescue treatment or with missing data were considered as non-responders.
 - d Results shown in subset of patients eligible for assessment (patients with itch NRS ≥ 4 at baseline).
-- LS = Least squares; * statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
-- a Full analysis set (FAS) including all patients randomised. Data collected after rescue therapy or after permanent medicinal product discontinuation were considered missing. LS means are from Mixed Model with Repeated Measures (MMRM) analyses.
 
 Figure 1. Mean percent change from baseline in EASI (FAS) a
 
 <!-- image -->
+
+LS = Least squares; * statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
+
+- a Full analysis set (FAS) including all patients randomised. Data collected after rescue therapy or after permanent medicinal product discontinuation were considered missing. LS means are from Mixed Model with Repeated Measures (MMRM) analyses.
 
 ## Maintenance of response
 
@@ -740,19 +741,17 @@ In the long-term extension study BREEZE-AD3, patients who had clear, almost clea
 
 In both monotherapy studies (BREEZE-AD1 and BREEZE-AD2) and in the concomitant TCS study (BREEZE-AD7), baricitinib 4 mg significantly improved patient-reported outcomes, including itch NRS, sleep (ADSS), skin pain (skin pain NRS), quality of life (DLQI) and symptoms of anxiety and depression (HADS) that were uncorrected for multiplicity, at 16 weeks compared to placebo (See Table 7).
 
-Table 7. Quality of life/patient-reported outcomes results of baricitinib monotherapy and baricitinib in combination with TCS at week 16 (FAS)  a
+Table 7. Quality of life/patient-reported outcomes results of baricitinib monotherapy and baricitinib in combination with TCS at week 16 (FAS) a
 
-|                                                    | Monotherapy   | Monotherapy   | Monotherapy    | Monotherapy   | Monotherapy    | Monotherapy    | TCS combination   | TCS combination   | TCS combination   |
-|----------------------------------------------------|---------------|---------------|----------------|---------------|----------------|----------------|-------------------|-------------------|-------------------|
-| Study                                              | BREEZE-AD1    | BREEZE-AD1    | BREEZE-AD1     | BREEZE-AD2    | BREEZE-AD2     | BREEZE-AD2     | BREEZE-AD7 e      | BREEZE-AD7 e      | BREEZE-AD7 e      |
-| Treatment group                                    | PBO           | BARI 2 mg     | BARI 4 mg      | PBO           | BARI 2 mg      | BARI 4 mg      | PBO + TCS         | BARI 2 mg + TCS   | BARI 4 mg + TCS   |
-| N                                                  | 249           | 123           | 125            | 244           | 123            | 123            | 109               | 109               | 111               |
-| ADSS Item 2 ≥ 2-point improvement, %responders c,d | 12.8          | 11.4          | 32.7*          | 8.0           | 19.6           | 24.4*          | 30.6              | 61.5*             | 66.7*             |
-| Change in Skin Pain NRS, mean(SE) b                | -0.84 (0.24)  | -1.58 (0.29)  | -1.93** (0.26) | -0.86 (0.26)  | -2.61** (0.30) | -2.49** (0.28) | -2.06 (0.23)      | -3.22* (0.22)     | -3.73* (0.23)     |
-| Change in DLQI, mean(SE) b                         | -2.46 (0.57)  | -4.30* (0.68) | -6.76* (0.60)  | -3.35 (0.62)  | -7.44* (0.71)  | -7.56* (0.66)  | -5.58 (0.61)      | -7.50* (0.58)     | -8.89* (0.58)     |
-| Change in HADS, mean(SE) b                         | -1.22 (0.48)  | -3.22* (0.58) | -3.56* (0.52)  | -1.25 (0.57)  | -2.82 (0.66)   | -3.71* (0.62)  | -3.18 (0.56)      | -4.75* (0.54)     | -5.12* (0.54)     |
+| Study - Treatment group                             | Monotherapy - BREEZE-AD1 - PBO   | Monotherapy - BREEZE-AD1 - BARI 2 mg   | Monotherapy - BREEZE-AD1 - BARI 4 mg   | Monotherapy - BREEZE-AD2 - PBO   | Monotherapy - BREEZE-AD2 - BARI 2 mg   | Monotherapy - BREEZE-AD2 - BARI 4 mg   | TCS combination - BREEZE-AD7 e - PBO + TCS   | TCS combination - BREEZE-AD7 e - BARI 2 mg + TCS   | TCS combination - BREEZE-AD7 e - BARI 4 mg + TCS   |
+|-----------------------------------------------------|----------------------------------|----------------------------------------|----------------------------------------|----------------------------------|----------------------------------------|----------------------------------------|----------------------------------------------|----------------------------------------------------|----------------------------------------------------|
+| N                                                   | 249                              | 123                                    | 125                                    | 244                              | 123                                    | 123                                    | 109                                          | 109                                                | 111                                                |
+| ADSS Item 2 ≥ 2-point improvement, % responders c,d | 12.8                             | 11.4                                   | 32.7*                                  | 8.0                              | 19.6                                   | 24.4*                                  | 30.6                                         | 61.5*                                              | 66.7*                                              |
+| Change in Skin Pain NRS, mean(SE) b                 | -0.84 (0.24)                     | -1.58 (0.29)                           | -1.93** (0.26)                         | -0.86 (0.26)                     | -2.61** (0.30)                         | -2.49** (0.28)                         | -2.06 (0.23)                                 | -3.22* (0.22)                                      | -3.73* (0.23)                                      |
+| Change in DLQI, mean(SE) b                          | -2.46 (0.57)                     | -4.30* (0.68)                          | -6.76* (0.60)                          | -3.35 (0.62)                     | -7.44* (0.71)                          | -7.56* (0.66)                          | -5.58 (0.61)                                 | -7.50* (0.58)                                      | -8.89* (0.58)                                      |
+| Change in HADS, mean(SE) b                          | -1.22 (0.48)                     | -3.22* (0.58)                          | -3.56* (0.52)                          | -1.25 (0.57)                     | -2.82 (0.66)                           | -3.71* (0.62)                          | -3.18 (0.56)                                 | -4.75* (0.54)                                      | -5.12* (0.54)                                      |
 
-BARI = Baricitinib; PBO = Placebo
+BARI = Baricitinib; PBO = Placebo Clinical response in patients with experience with or a contra-indication to ciclosporin treatment (BREEZE-AD4 study)
 
 * statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
 
@@ -768,20 +767,17 @@ e All patients were on concomitant topical corticosteroids therapy and patients 
 
 <div style=\"page-break-after: always\"></div>
 
-Clinical response in patients with experience with or a contra-indication to ciclosporin treatment (BREEZE-AD4 study)
-
 A total of 463 patients were enrolled, who had either failed (n = 173), or had an intolerance (n = 75), or contraindication (n = 126) to oral ciclosporin. The primary endpoint was the proportion of patients achieving EASI-75 at week 16. The primary and some of the most important secondary endpoints at week 16 are summarised in Table 8.
 
-Table 8: Efficacy of baricitinib in combination with TCS a  at week 16 in BREEZE-AD4 (FAS) b
+Table 8: Efficacy of baricitinib in combination with TCS a at week 16 in BREEZE-AD4 (FAS) b
 
-| Study                                              | BREEZE- AD4   | BREEZE- AD4   | BREEZE- AD4    |
-|----------------------------------------------------|---------------|---------------|----------------|
-| Treatment group                                    | PBO a         | BARI 2 mg a   | BARI 4 mg a    |
-| N                                                  | 93            | 185           | 92             |
-| EASI-75, %responders c                             | 17.2          | 27.6          | 31.5**         |
-| IGA 0 or 1, %responders c, e                       | 9.7           | 15.1          | 21.7*          |
-| Itch NRS (≥ 4 point improvement), %responders c, f | 8.2           | 22.9*         | 38.2**         |
-| Change in DLQI mean (SE) d                         | -4.95 (0.752) | -6.57 (0.494) | -7.95* (0.705) |
+| Study - Treatment group                             | BREEZE- AD4 - PBO a   | BREEZE- AD4 - BARI 2 mg a   | BREEZE- AD4 - BARI 4 mg a   |
+|-----------------------------------------------------|-----------------------|-----------------------------|-----------------------------|
+| N                                                   | 93                    | 185                         | 92                          |
+| EASI-75, % responders c                             | 17.2                  | 27.6                        | 31.5**                      |
+| IGA 0 or 1, % responders c, e                       | 9.7                   | 15.1                        | 21.7*                       |
+| Itch NRS (≥ 4 point improvement), % responders c, f | 8.2                   | 22.9*                       | 38.2**                      |
+| Change in DLQI mean (SE) d                          | -4.95 (0.752)         | -6.57 (0.494)               | -7.95* (0.705)              |
 
 BARI = Baricitinib; PBO = Placebo
 
@@ -795,17 +791,13 @@ c Non-Responder Imputation: Patients who received rescue treatment or with missi
 
 d Data collected after rescue therapy or after permanent medicinal product discontinuation were considered missing. LS means are from Mixed Model with Repeated Measures (MMRM) analyses.
 
-e
-
-Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of
-
-≥ 2 points on 0-4 IGA scale.
+e Responder was defined as a patient with IGA 0 or 1 (\"clear\" or \"almost clear\") with a reduction of ≥ 2 points on 0-4 IGA scale.
 
 f Results shown in subset of patients eligible for assessment (patients with itch NRS ≥ 4 at baseline).
 
 ## Adults with alopecia areata
 
-The efficacy and safety of baricitinib once daily were assessed in one adaptive Phase II/III study (BRAVE-AA1) and one Phase III study (BRAVE-AA2). The Phase III portion of BRAVE-AA1 study and the Phase III BRAVE-AA2 study were randomised, double blind, placebo-controlled, 36-week studies with extension phases up to 200 weeks. In both phase III studies, patients were randomised to placebo, 2 mg or 4 mg baricitinib in a 2:2:3 ratio. Eligible patients were adults between 18 years and 60 years of age for male patients, and between 18 years and 70 years of age for female patients, with a current episode of more than 6 months of severe alopecia areata ( hair loss encompassing ≥ 50 % of the scalp). Patients with a current episode of more than 8 years were not eligible unless episodes of regrowth had been observed on the affected areas of the scalp over the past 8 years. The only permitted concomitant alopecia areata therapies were finasteride (or other 5 alpha reductase inhibitors), oral or topical minoxidil, and bimatoprost ophthalmic solution for eyelashes, if at a stable dose at study entry.
+The efficacy and safety of baricitinib once daily were assessed in one adaptive Phase II/III study (BRAVE-AA1) and one Phase III study (BRAVE-AA2). The Phase III portion of BRAVE-AA1 study and the Phase III BRAVE-AA2 study were randomised, double blind, placebo-controlled, 36-week studies with extension phases up to 200 weeks. In both phase III studies, patients were randomised to placebo, 2 mg or 4 mg baricitinib in a 2:2:3 ratio. Eligible patients were adults between 18 years and 60 years of age for male patients, and between 18 years and 70 years of age for female patients, with a current episode of more than 6 months of severe alopecia areata (hair loss encompassing ≥ 50 % of the scalp). Patients with a current episode of more than 8 years were not eligible unless episodes of regrowth had been observed on the affected areas of the scalp over the past 8 years. The only permitted concomitant alopecia areata therapies were finasteride (or other 5 alpha reductase inhibitors), oral or topical minoxidil, and bimatoprost ophthalmic solution for eyelashes, if at a stable dose at study entry.
 
 Both studies assessed as primary outcome the proportion of subjects who achieved a SALT (Severity of Alopecia Tool) score of ≤ 20 (80 % or more scalp coverage with hair) at week 36. Additionally, both studies evaluated clinician assessment of eyebrow and eyelash hair loss using a 4-point scale (ClinRO Measure for Eyebrow Hair Loss™, ClinRO Measure for Eyelash Hair Loss™).
 
@@ -823,15 +815,14 @@ Treatment effects in subgroups (gender, age, weight, eGFR, race, geographic regi
 
 Table 9. Efficacy of baricitinib through week 36 for pooled studies (pooled week 36 efficacy population a )
 
-|                                                                                                        | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data*   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data*   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data*   |
-|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-|                                                                                                        | Placebo N=345                                                                                     | Baricitinib 2 mg N=340                                                                            | Baricitinib 4 mg N=515                                                                            |
-| SALT ≤ 20 at week 36                                                                                   | 4.1%                                                                                              | 19.7 %**                                                                                          | 34.0 %**                                                                                          |
-| SALT ≤ 20 at week 24                                                                                   | 3.2%                                                                                              | 11.2%                                                                                             | 27.4 %**                                                                                          |
-| ClinRO Measure for Eyebrow Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline b | 3.8%                                                                                              | 15.8%                                                                                             | 33.0 %**                                                                                          |
-| ClinRO Measure for Eyelash Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline b | 4.3%                                                                                              | 12.0%                                                                                             | 33.9 %**                                                                                          |
-| Change in Skindex-16 adapted for alopecia areata emotions domain, mean (SE) c                          | -11.33 (1.768)                                                                                    | -19.89 (1.788)                                                                                    | -23.81 (1.488)                                                                                    |
-| Change in Skindex-16 adapted for alopecia areata functioning domain, mean (SE) c                       | -9.26 (1.605)                                                                                     | -13.68 (1.623)                                                                                    | -16.93 (1.349)                                                                                    |
+|                                                                                                        | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data* - Placebo N=345   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data* - Baricitinib 2 mg N=340   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data* - Baricitinib 4 mg N=515   |
+|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| SALT ≤ 20 at week 36                                                                                   | 4.1 %                                                                                                             | 19.7 %**                                                                                                                   | 34.0 %**                                                                                                                   |
+| SALT ≤ 20 at week 24                                                                                   | 3.2 %                                                                                                             | 11.2 %                                                                                                                     | 27.4 %**                                                                                                                   |
+| ClinRO Measure for Eyebrow Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline b | 3.8 %                                                                                                             | 15.8 %                                                                                                                     | 33.0 %**                                                                                                                   |
+| ClinRO Measure for Eyelash Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline b | 4.3 %                                                                                                             | 12.0 %                                                                                                                     | 33.9 %**                                                                                                                   |
+| Change in Skindex-16 adapted for alopecia areata emotions domain, mean (SE) c                          | -11.33 (1.768)                                                                                                    | -19.89 (1.788)                                                                                                             | -23.81 (1.488)                                                                                                             |
+| Change in Skindex-16 adapted for alopecia areata functioning domain, mean (SE) c                       | -9.26 (1.605)                                                                                                     | -13.68 (1.623)                                                                                                             | -16.93 (1.349)                                                                                                             |
 
 ClinRO = clinician-reported outcome; SE = standard error
 
@@ -852,17 +843,21 @@ Figure 2: Proportion of patients with SALT ≤ 20 through week 36
 
 The proportion of patients treated with baricitinib achieving a SALT ≤ 20 continued to increase after week 36, reaching 39.0 % of patients on baricitinib 4 mg at week 52. The results for the baseline disease severity and episode duration subpopulations at week 52 were consistent with those observed at week 36 and with the results in the overall study population.
 
+## Maintenance of response
+
+Maintenance of response was evaluated in 205 patients from study BRAVE-AA1 and study BRAVEAA2 who achieved SALT ≤ 20 at Week 52 and continued receiving baricitinib 4 mg or 2 mg. The results show that the majority of patients who remained on baricitinib 4 mg and baricitinib 2 mg maintained their response through approximately 4 years of treatment (200 weeks).
+
 ## Dose tapering substudy
 
-In the study BRAVE-AA2, patients who had received baricitinib 4 mg once daily since the initial randomization and achieved SALT ≤ 20 at week 52 were re-randomised in a double-blind manner to continue 4 mg once daily or reduce dose to 2 mg once daily. The results show that 96 % of the patients who remained on baricitinib 4 mg and 74 % of the patients who were re-randomised to baricitinib 2 mg maintained their response at week 76.
+In the study BRAVE-AA2, 95 patients who had received baricitinib 4 mg once daily since the initial randomisation and achieved SALT ≤ 20 at week 52 were re-randomised in a double-blind manner to continue 4 mg once daily or reduce dose to 2 mg once daily. Among the 47 patients who reduced the dose to 2 mg, 51 % maintained response through approximately 3 years of treatment (152 weeks) and 38 % maintained response through 4 years of treatment (200 weeks). Of the 17 patients who experienced a loss of treatment benefit after dose reduction, 12 (71%) regained clinical response upon retreatment with baricitinib 4 mg.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Juvenile idiopathic arthritis
 
 The baricitinib clinical development programme for juvenile idiopathic arthritis consisted of one completed pivotal Phase III study (JUVE-BASIS) and one ongoing long-term open label safety extension study (JUVE-X).
 
 JUVE-BASIS was a double-blind randomised withdrawal (DBW), up to 44-week placebo-controlled study to evaluate the efficacy and safety of baricitinib when administered once daily to patients from 2 years to less than 18 years of age with juvenile idiopathic arthritis who have had an inadequate response or intolerance to treatment with at least 1 conventional synthetic or biologic DMARD. This included patients with polyarticular juvenile idiopathic arthritis (rheumatoid factor positive or rheumatoid factor negative), extended oligoarticular course juvenile idiopathic arthritis, enthesitis-related juvenile idiopathic arthritis, and juvenile psoriatic arthritis as defined by the International League of Associations for Rheumatology (ILAR) criteria. Patients who participated in JUVE-BASIS were eligible for enrolment into study JUVE-X.
-
-<div style=\"page-break-after: always\"></div>
 
 In JUVE-BASIS, patients received open-label once daily baricitinib for approximately 12 weeks from baseline. Patients 2 to less than 9 years received 2 mg daily and patients 9 to less than 18 years received 4 mg daily, to attain an equivalent exposure to a 4 mg dose in adults. At week 12, treatment response (based on PedACR30 criteria) was reviewed for each patient. Patients who achieved at least a PedACR30 response were randomised (1:1 ratio) to receive placebo or to remain on the same baricitinib dose in the 32-week double-blind, placebo-controlled phase. Patients who did not achieve PedACR30 were given the option of enrolling to JUVE-X.
 
@@ -886,9 +881,11 @@ Figure 3. Time to disease flare during the DBW period
 
 <!-- image -->
 
-CI = confidence interval; HR = hazard ratio; NA = not applicable; No. = number *a HR - stratified by juvenile idiopathic arthritis categories (polyarticular and extended oligoarticular versus enthesitis-related arthritis and juvenile psoriatic arthritis). *b P-value is from log-rank test stratified by juvenile idiopathic arthritis categories (polyarticular and
+CI = confidence interval; HR = hazard ratio; NA = not applicable; No. = number
 
-extended oligoarticular versus enthesitis-related arthritis and juvenile psoriatic arthritis).
+*a HR - stratified by juvenile idiopathic arthritis categories (polyarticular and extended oligoarticular versus enthesitis-related arthritis and juvenile psoriatic arthritis).
+
+*b P-value is from log-rank test stratified by juvenile idiopathic arthritis categories (polyarticular and extended oligoarticular versus enthesitis-related arthritis and juvenile psoriatic arthritis).
 
 Time to disease flare and PedACR score results were overall consistent across juvenile idiopathic arthritis subtypes and background characteristics (including age, geography, weight, prior use of biologic, concomitant use of MTX or corticosteroids), and were consistent with those for the overall study population.
 
@@ -910,31 +907,32 @@ Treatment effects in subgroups (weight, age, gender, race, disease severity, and
 
 Table 10. Efficacy of baricitinib in paediatric patients at week 16 a
 
-| Study                                            | BREEZE-AD-PEDS   | BREEZE-AD-PEDS       |
-|--------------------------------------------------|------------------|----------------------|
-| Treatment group                                  | PBO              | BARI 4 mg equivalent |
-| N                                                | 122              | 120                  |
-| IGA 0 or 1, %responders b,c                      | 16.4             | 41.7**               |
-| EASI75, %responders c                            | 32.0             | 52.5**               |
-| Itch NRS (≥4 point improvement), %responders c,d | 16.4             | 35.5**               |
+| Study - Treatment group                           |   BREEZE-AD-PEDS - PBO | BREEZE-AD-PEDS - BARI 4 mg equivalent   |
+|---------------------------------------------------|------------------------|-----------------------------------------|
+| N                                                 |                    122 | 120                                     |
+| IGA 0 or 1, % responders b,c                      |                   16.4 | 41.7**                                  |
+| EASI75, % responders c                            |                   32.0 | 52.5**                                  |
+| Itch NRS (≥4 point improvement), % responders c,d |                   16.4 | 35.5**                                  |
 
 BARI = Baricitinib; PBO = Placebo
 
-- ** Statistically significant vs placebo with adjustment for multiplicity.
+** Statistically significant vs placebo with adjustment for multiplicity.
 
 a Intent to Treat (ITT) population (all randomized patients)
 
-- b Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of ≥ 2 points on 0-4 IGA scale.
-- c Non-Responder Imputation: Patients who received rescue treatment or with missing data were considered as non-responders.
+b Responder was defined as a patient with IGA 0 or 1 (\"clear\" or \"almost clear\") with a reduction of ≥ 2 points on 0-4 IGA scale.
+
+c Non-Responder Imputation: Patients who received rescue treatment or with missing data were considered as non-responders.
+
 - d Results shown in subset of patients eligible for assessment (patients aged ≥ 10 years with Itch NRS ≥ 4 at baseline, BARI 4 mg equivalent N=62; Placebo, N = 55).
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 4. Time course for achieving IGA 0 or 1 with ≥ 2 points improvement in paediatric patients through week 16
 
-BARI=baricitinib; NRI=non-responder imputation; PBO=placebo* p&lt; 0.05; ** p&lt; 0.01; *** p&lt; 0.001 vs. PBO (nominal p-value; logistic regression analysis); † Statistically significant with multiplicity adjustment
-
 <!-- image -->
+
+BARI=baricitinib; NRI=non-responder imputation; PBO=placebo* p&lt; 0.05; ** p&lt; 0.01; *** p&lt; 0.001 vs. PBO (nominal p-value; logistic regression analysis); † Statistically significant with multiplicity adjustment
 
 A significantly greater proportion of patients randomised to the baricitinib 4 mg equivalent dose achieved a ≥ 4-point improvement in the Itch NRS compared to placebo as early as week 4 (adjusted for multiplicity).
 
@@ -942,7 +940,7 @@ The need for concomitant TCS use was reduced as demonstrated by a median reducti
 
 ## Adolescents with alopecia areata
 
-The efficacy and safety of baricitinib once daily was assessed in a single Phase III double-blind, randomised, placebo-controlled 36-week study (BRAVE-AA-PEDS). Patients were randomised to placebo, 2 mg or 4 mg baricitinib in a 1:1:1 ratio. Eligible patients were adolescents 12 to less than 18 years of age, weighing 30 kg or more, with a current episode of more than 6 months of severe alopecia areata ( hair loss encompassing ≥ 50 % of the scalp). Patients with a current episode of more than 8 years were not eligible unless episodes of regrowth had been observed on the affected areas of the scalp over the past 8 years. The only permitted concomitant alopecia areata therapies were oral or topical minoxidil, and bimatoprost ophthalmic solution for eyelashes, if at a stable dose at study entry. The study includes an ongoing long-term extension for up to 2 years.
+The efficacy and safety of baricitinib once daily was assessed in a single Phase III double-blind, randomised, placebo-controlled 36-week study (BRAVE-AA-PEDS). Patients were randomised to placebo, 2 mg or 4 mg baricitinib in a 1:1:1 ratio. Eligible patients were adolescents 12 to less than 18 years of age, weighing 30 kg or more, with a current episode of more than 6 months of severe alopecia areata (hair loss encompassing ≥ 50 % of the scalp). Patients with a current episode of more than 8 years were not eligible unless episodes of regrowth had been observed on the affected areas of the scalp over the past 8 years. The only permitted concomitant alopecia areata therapies were oral or topical minoxidil, and bimatoprost ophthalmic solution for eyelashes, if at a stable dose at study entry. The study includes an ongoing long-term extension for up to 2 years.
 
 The primary outcome of the study was the proportion of subjects who achieved a SALT (Severity of Alopecia Tool) score of ≤ 20 (80 % or more scalp coverage with hair) at week 36. Additionally, the study evaluated clinician assessment of eyebrow and eyelash hair loss using a 4-point scale (ClinRO Measure for Eyebrow Hair Loss™, ClinRO Measure for Eyelash Hair Loss™).
 
@@ -960,23 +958,14 @@ Treatment effects in subgroups (gender, race, geographic region, disease severit
 
 Table 11. Efficacy of baricitinib in adolescent patients through week 36
 
-|                                                                                                        | BRAVE-AA-PEDS   | BRAVE-AA-PEDS         | BRAVE-AA-PEDS         |
-|--------------------------------------------------------------------------------------------------------|-----------------|-----------------------|-----------------------|
-|                                                                                                        | Placebo N=88    | Baricitinib 2 mg N=84 | Baricitinib 4 mg N=85 |
-| SALT ≤ 20 at week 36                                                                                   | 4.5%            | 27.4 %**              | 42.4 %**              |
-| SALT ≤ 20 at week 24                                                                                   | 3.4%            | 16.7 %**              | 31.8 %**              |
-| SALT ≤ 10 at week 36                                                                                   | 2.3%            | 21.4 %**              | 36.5 %**              |
-| ClinRO Measure for Eyebrow Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline a | 0%              | 24.1 %*               | 50.0 %*               |
-| ClinRO Measure for Eyelash Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline a | 14.0%           | 25.5%                 | 42.9 %*               |
-| Change in Skindex-16 adapted for alopecia areata emotions domain, LSM (SE) b                           | -3.98 (2.63)    | -12.87 (2.55)*        | -18.22 (2.60)*        |
-
-ClinRO = clinician-reported outcome; LSM = least square mean; SE = standard error
-
-* Statistically significant versus placebo without adjustment for multiplicity. ** Statistically significant versus placebo with adjustment for multiplicity.
-
-a Patients with ClinRO Measure for Eyebrow Hair loss score of ≥ 2 at baseline: 60 (Placebo), 54 (Baricitinib 2 mg), 54 (Baricitinib 4 mg). Patients with ClinRO Measure for Eyelash Hair loss score of ≥ 2 at baseline: 50 (Placebo), 47 (Baricitinib 2 mg), 49 (Baricitinib 4 mg). Both ClinRO Measures use a 4-point response scale ranging from 0 indicating no hair loss to 3 indicating no notable eyebrow/eyelashes hair.
-
-b Sample sizes for analysis on Skindex-16 adapted for alopecia areata at week 36 are n= 87 (Placebo), 84 (Baricitinib 2 mg), 85 (Baricitinib 4 mg).
+|                                                                                                        | BRAVE-AA-PEDS - Placebo N=88   | BRAVE-AA-PEDS - Baricitinib 2 mg N=84   | BRAVE-AA-PEDS - Baricitinib 4 mg N=85   |
+|--------------------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------|-----------------------------------------|
+| SALT ≤ 20 at week 36                                                                                   | 4.5 %                          | 27.4 %**                                | 42.4 %**                                |
+| SALT ≤ 20 at week 24                                                                                   | 3.4 %                          | 16.7 %**                                | 31.8 %**                                |
+| SALT ≤ 10 at week 36                                                                                   | 2.3 %                          | 21.4 %**                                | 36.5 %**                                |
+| ClinRO Measure for Eyebrow Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline a | 0 %                            | 24.1 %*                                 | 50.0 %*                                 |
+| ClinRO Measure for Eyelash Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline a | 14.0 %                         | 25.5 %                                  | 42.9 %*                                 |
+| Change in Skindex-16 adapted for alopecia areata emotions domain, LSM (SE) b                           | -3.98 (2.63)                   | -12.87 (2.55)*                          | -18.22 (2.60)*                          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1014,7 +1003,7 @@ Mean volume of distribution following intravenous infusion administration was 76
 
 ## Biotransformation
 
-Baricitinib metabolism is mediated by CYP3A4, with less than 10 % of the dose identified as undergoing biotransformation. No metabolites were quantifiable in plasma. In a clinical pharmacology study, baricitinib was excreted predominately as the unchanged active substance in urine (69 %) and faeces (15 %) and only 4 minor oxidative metabolites were identified (3 in urine; 1 in faeces) constituting approximately 5 % and 1 % of the dose, respectively. In vitro , baricitinib is a substrate for CYP3A4, OAT3, Pgp, BCRP and MATE2-K, and may be a clinically relevant inhibitor of the transporter OCT1 (see section 4.5). Baricitinib is not an inhibitor of the transporters OAT1, OAT2, OAT3, OCT2, OATP1B1, OATP1B3, BCRP, MATE1 and MATE2-K at clinically relevant concentrations.
+Baricitinib metabolism is mediated by CYP3A4, with less than 10 % of the dose identified as undergoing biotransformation. No metabolites were quantifiable in plasma. In a clinical pharmacology study, baricitinib was excreted predominately as the unchanged active substance in urine (69 %) and faeces (15 %) and only 4 minor oxidative metabolites were identified (3 in urine; 1 in faeces) constituting approximately 5 % and 1 % of the dose, respectively. In vitro, baricitinib is a substrate for CYP3A4, OAT3, Pgp, BCRP and MATE2-K, and may be a clinically relevant inhibitor of the transporter OCT1 (see section 4.5). Baricitinib is not an inhibitor of the transporters OAT1, OAT2, OAT3, OCT2, OATP1B1, OATP1B3, BCRP, MATE1 and MATE2-K at clinically relevant concentrations.
 
 ## Elimination
 
@@ -1130,9 +1119,9 @@ Not all pack sizes may be marketed.
 
 For paediatric patients who are unable to swallow whole tablets, it may be considered to disperse the tablets in water. Only water should be used to disperse the tablet. Only the number of tablets needed for the dose should be dispersed.
 
-- -Place whole tablet in a container with 5-10 mL of water at room temperature and gently swirl to disperse. It may take up to 10 minutes for the tablet to disperse into a cloudy pale pink suspension. Some settling may occur.
-- -After the tablet is dispersed, gently swirl again and administer the entire suspension immediately.
-- -Add 5-10 mL of room temperature water to the container, swirl to collect any remaining medicine, and administer immediately.
+- Place whole tablet in a container with 5-10 mL of water at room temperature and gently swirl to disperse. It may take up to 10 minutes for the tablet to disperse into a cloudy pale pink suspension. Some settling may occur.
+- After the tablet is dispersed, gently swirl again and administer the entire suspension immediately.
+- Add 5-10 mL of room temperature water to the container, swirl to collect any remaining medicine, and administer immediately.
 
 The tablet dispersed in water is stable for up to 4 hours at room temperature. If for any reason the entire suspension is not administered, do not disperse and administer another tablet but wait until the next scheduled dose.
 
@@ -1222,9 +1211,9 @@ Baricitinib is indicated for the treatment of severe alopecia areata in adult an
 
 Baricitinib is indicated for the treatment of active juvenile idiopathic arthritis in patients 2 years of age and older who have had an inadequate response or intolerance to one or more prior conventional synthetic or biologic DMARDs:
 
-- -Polyarticular juvenile idiopathic arthritis (polyarticular rheumatoid factor positive [RF+] or negative [RF-], extended oligoarticular),
-- -Enthesitis-related arthritis, and
-- -Juvenile psoriatic arthritis.
+- Polyarticular juvenile idiopathic arthritis (polyarticular rheumatoid factor positive [RF+] or negative [RF-], extended oligoarticular),
+- Enthesitis-related arthritis, and
+- Juvenile psoriatic arthritis.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1313,9 +1302,7 @@ The recommended dose is 2 mg once daily in adult patients with creatinine cleara
 
 ## Hepatic impairment
 
-No dose adjustment is required in patients with mild or moderate hepatic impairment. Baricitinib is not recommended for use in patients with severe hepatic impairment (see section 5.2).
-
-## Elderly
+No dose adjustment is required in patients with mild or moderate hepatic impairment. Baricitinib is not recommended for use in patients with severe hepatic impairment (see section 5.2). Elderly
 
 Clinical experience in patients aged ≥ 75 years is very limited.
 
@@ -1423,7 +1410,7 @@ In a retrospective observational study of baricitinib in rheumatoid arthritis pa
 
 In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a dose dependent higher rate of VTE including deep venous thrombosis (DVT) and pulmonary embolism (PE) was observed with tofacitinib compared to TNF inhibitors.
 
-In patients with cardiovascular or malignancy risk factors (see also section 4.4 'Major adverse cardiovascular events (MACE)' and 'Malignancy') baricitinib should only be used if no suitable treatment alternatives are available.
+In patients with cardiovascular or malignancy risk factors (see also section 4.4 \"Major adverse cardiovascular events (MACE)\" and \"Malignancy\") baricitinib should only be used if no suitable treatment alternatives are available.
 
 In patients with known VTE risk factors other than cardiovascular or malignancy risk factors, baricitinib should be used with caution. VTE risk factors other than cardiovascular or malignancy risk factors include previous VTE, patients undergoing major surgery, immobilisation, use of combined hormonal contraceptives or hormone replacement therapy, and inherited coagulation disorder.
 
@@ -1491,7 +1478,7 @@ This medicinal product contains 0.24 mg benzyl alcohol in each mL. In young chil
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per mL, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per mL, that is to say essentially \"sodium-free\".
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -1505,13 +1492,13 @@ Combination with biological DMARDs, biological immunomodulators or other JAK inh
 
 ## Transporters
 
-In vitro , baricitinib is a substrate for organic anionic transporter (OAT)3, P-glycoprotein (Pgp), breast cancer resistance protein (BCRP) and multidrug and toxic extrusion protein (MATE)2-K. In a clinical pharmacology study, dosing of probenecid (an OAT3 inhibitor with strong inhibition potential) resulted in approximately a 2-fold increase in AUC(0-∞) with no change in tmax or Cmax of baricitinib. Consequently, in patients taking OAT3 inhibitors with a strong inhibition potential, such as probenecid, the recommended dose of baricitinib should be reduced by half (see section 4.2). No clinical pharmacology study has been conducted with OAT3 inhibitors with less inhibition potential. The prodrug leflunomide rapidly converts to teriflunomide which is a weak OAT3 inhibitor and therefore may lead to an increase in baricitinib exposure. Since dedicated interaction studies have not been conducted, caution should be used when leflunomide or teriflunomide are given concomitantly with baricitinib. Concomitant use of the OAT3 inhibitors ibuprofen and diclofenac may lead to increased exposure of baricitinib, however their inhibition potential of OAT3 is less compared to probenecid and thus a clinically relevant interaction is not expected. Coadministration of baricitinib with ciclosporin (Pgp/BCRP inhibitor) or methotrexate (substrate of several transporters including OATP1B1, OAT1, OAT3, BCRP, MRP2, MRP3, and MRP4) resulted in no clinically meaningful effects on baricitinib exposure.
+In vitro, baricitinib is a substrate for organic anionic transporter (OAT)3, P-glycoprotein (Pgp), breast cancer resistance protein (BCRP) and multidrug and toxic extrusion protein (MATE)2-K. In a clinical pharmacology study, dosing of probenecid (an OAT3 inhibitor with strong inhibition potential) resulted in approximately a 2-fold increase in AUC(0-∞) with no change in tmax or Cmax of baricitinib. Consequently, in patients taking OAT3 inhibitors with a strong inhibition potential, such as probenecid, the recommended dose of baricitinib should be reduced by half (see section 4.2). No clinical pharmacology study has been conducted with OAT3 inhibitors with less inhibition potential. The prodrug leflunomide rapidly converts to teriflunomide which is a weak OAT3 inhibitor and therefore may lead to an increase in baricitinib exposure. Since dedicated interaction studies have not been conducted, caution should be used when leflunomide or teriflunomide are given concomitantly with baricitinib. Concomitant use of the OAT3 inhibitors ibuprofen and diclofenac may lead to increased exposure of baricitinib, however their inhibition potential of OAT3 is less compared to probenecid and thus a clinically relevant interaction is not expected. Coadministration of baricitinib with ciclosporin (Pgp/BCRP inhibitor) or methotrexate (substrate of several transporters including OATP1B1, OAT1, OAT3, BCRP, MRP2, MRP3, and MRP4) resulted in no clinically meaningful effects on baricitinib exposure.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Cytochrome P450 enzymes
 
-In vitro , baricitinib is a cytochrome P450 enzyme (CYP)3A4 substrate although less than 10 % of the dose is metabolised via oxidation. In clinical pharmacology studies, coadministration of baricitinib with ketoconazole (strong CYP3A inhibitor) resulted in no clinically meaningful effect on the PK of baricitinib. Coadministration of baricitinib with fluconazole (moderate CYP3A/CYP2C19/CYP2C9 inhibitor) or rifampicin (strong CYP3A inducer) resulted in no clinically meaningful changes to baricitinib exposure.
+In vitro, baricitinib is a cytochrome P450 enzyme (CYP)3A4 substrate although less than 10 % of the dose is metabolised via oxidation. In clinical pharmacology studies, coadministration of baricitinib with ketoconazole (strong CYP3A inhibitor) resulted in no clinically meaningful effect on the PK of baricitinib. Coadministration of baricitinib with fluconazole (moderate CYP3A/CYP2C19/CYP2C9 inhibitor) or rifampicin (strong CYP3A inducer) resulted in no clinically meaningful changes to baricitinib exposure.
 
 ## Gastric pH modifying agents
 
@@ -1521,7 +1508,7 @@ Elevating gastric pH with omeprazole had no clinically significant effect on bar
 
 ## Transporters
 
-In vitro , baricitinib is not an inhibitor of OAT1, OAT2, OAT3, organic cationic transporter (OCT) 2, OATP1B1, OATP1B3, BCRP, MATE1 and MATE2-K at clinically relevant concentrations. Baricitinib may be a clinically relevant inhibitor of OCT1, however there are currently no known selective OCT1 substrates for which clinically significant interactions might be predicted. In clinical pharmacology studies there were no clinically meaningful effects on exposure when baricitinib was coadministered with digoxin (Pgp substrate) or methotrexate (substrate of several transporters).
+In vitro, baricitinib is not an inhibitor of OAT1, OAT2, OAT3, organic cationic transporter (OCT) 2, OATP1B1, OATP1B3, BCRP, MATE1 and MATE2-K at clinically relevant concentrations. Baricitinib may be a clinically relevant inhibitor of OCT1, however there are currently no known selective OCT1 substrates for which clinically significant interactions might be predicted. In clinical pharmacology studies there were no clinically meaningful effects on exposure when baricitinib was coadministered with digoxin (Pgp substrate) or methotrexate (substrate of several transporters).
 
 ## Cytochrome P450 enzymes
 
@@ -1559,7 +1546,7 @@ The most commonly reported adverse reactions with baricitinib are increased LDL 
 
 ## Tabulated list of adverse reactions
 
-Frequency estimate: Very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000). The frequencies in Table 2 are based on integrated data from clinical trials in adults and/or postmarketing setting across rheumatoid arthritis, atopic dermatitis, and alopecia areata indications unless stated otherwise; where notable differences in frequency between indications are observed, these are presented in the footnotes below the table. Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+Frequency estimate: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000). The frequencies in Table 2 are based on integrated data from clinical trials in adults and/or postmarketing setting across rheumatoid arthritis, atopic dermatitis, and alopecia areata indications unless stated otherwise; where notable differences in frequency between indications are observed, these are presented in the footnotes below the table. Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1579,11 +1566,12 @@ Table 2. Adverse reactions
 | Skin and subcutaneous tissue disorders       |                                    | Rash Acne c                                                                                        |                                  |
 | Investigations                               |                                    | Creatine phosphokinase increased > 5 x ULN a, c                                                    | Weight increased                 |
 
-- d In atopic dermatitis clinical trials, the frequency of nausea, and ALT ≥3 x ULN was uncommon. In alopecia areata clinical trials, the frequency of abdominal pain was uncommon. In atopic dermatitis and alopecia areata clinical trials, the frequency of pneumonia and thrombocytosis &gt; 600 x 10 9  cells/L was uncommon.
+- d In atopic dermatitis clinical trials, the frequency of nausea, and ALT ≥3 x ULN was uncommon. In alopecia areata clinical trials, the frequency of abdominal pain was uncommon. In atopic dermatitis and alopecia areata clinical trials, the frequency of pneumonia and thrombocytosis &gt; 600 x 10 9 cells/L was uncommon.
 
 e In alopecia areata clinical trials, the frequency of AST ≥ 3 x ULN was common.
 
-- f Frequency for pulmonary embolism is based on rheumatoid arthritis and atopic dermatitis clinical trials.
+f Frequency for pulmonary embolism is based on rheumatoid arthritis and atopic dermatitis clinical trials.
+
 - g Folliculitis was observed in alopecia areata clinical trials. It was usually localized in the scalp region associated with hair regrowth.
 
 ## Description of selected adverse reactions
@@ -1636,7 +1624,7 @@ Dose-dependent increases in mean platelet counts were observed and remained stab
 
 A total of 220 patients from 2 to less than 18 years of age were exposed to any dose of baricitinib in the juvenile idiopathic arthritis clinical trial programme, representing 326 patient years' exposure.
 
-In paediatric patients treated with baricitinib in the placebo-controlled double-blind randomised withdrawal period of the juvenile idiopathic arthritis clinical trial (n=82), headache was very common (11 %), neutropenia &lt; 1 000 cells/mm 3  was common (2.4 %, one patient) and pulmonary embolism was common (1.2 %, one patient).
+In paediatric patients treated with baricitinib in the placebo-controlled double-blind randomised withdrawal period of the juvenile idiopathic arthritis clinical trial (n=82), headache was very common (11 %), neutropenia &lt; 1 000 cells/mm 3 was common (2.4 %, one patient) and pulmonary embolism was common (1.2 %, one patient).
 
 ## Paediatric atopic dermatitis
 
@@ -1644,7 +1632,7 @@ The safety assessment in children and adolescents is based on the safety data of
 
 ## Adolescent alopecia areata
 
-A total of 245 patients from 12 to less than 18 years of age were exposed to any dose of baricitinib in the phase III trial BRAVE-AA-PEDS. Of those, 85 patients were treated with 4 mg in the placebocontrolled period. Overall, the safety profile in adolescent patients was comparable to that observed in the adult population. Acne (10.6%) and neutropaenia (3.6%) (&lt; 1 x 10 9  cells/L) were more common compared to adults.
+A total of 245 patients from 12 to less than 18 years of age were exposed to any dose of baricitinib in the phase III trial BRAVE-AA-PEDS. Of those, 85 patients were treated with 4 mg in the placebocontrolled period. Overall, the safety profile in adolescent patients was comparable to that observed in the adult population. Acne (10.6%) and neutropaenia (3.6%) (&lt; 1 x 10 9 cells/L) were more common compared to adults.
 
 ## Reporting of suspected adverse reactions
 
@@ -1696,7 +1684,7 @@ In an in vitro human skin model treated with pro-inflammatory cytokines (i.e., I
 
 ## Vaccine study
 
-The  influence  of  baricitinib  on  the  humoral  response  to  non-live  vaccines  was  evaluated  in 106 rheumatoid arthritis patients under stable treatment with baricitinib 2 or 4 mg, receiving inactivated pneumococcal  or  tetanus  vaccination.  The  majority  of  these  patients  (n = 94)  were  co-treated  with methotrexate. For the total population, pneumococcal vaccination resulted in a satisfactory IgG immune response in 68 % (95 % CI: 58.4 %, 76.2 %) of the patients. In 43.1 % (95 % CI: 34 %, 52.8 %) of the patients, a satisfactory IgG immune response to tetanus vaccination was achieved .
+The influence of baricitinib on the humoral response to non-live vaccines was evaluated in 106 rheumatoid arthritis patients under stable treatment with baricitinib 2 or 4 mg, receiving inactivated pneumococcal or tetanus vaccination. The majority of these patients (n = 94) were co-treated with methotrexate. For the total population, pneumococcal vaccination resulted in a satisfactory IgG immune response in 68 % (95 % CI: 58.4 %, 76.2 %) of the patients. In 43.1 % (95 % CI: 34 %, 52.8 %) of the patients, a satisfactory IgG immune response to tetanus vaccination was achieved.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1725,7 +1713,7 @@ Abbreviations: IR = inadequate responder; QD = Once daily; Q2W = Once every 2 we
 
 4 Patients who had an inadequate response or were intolerant to ≥ 1 bDMARDs; including at least one TNF inhibitor
 
-5  Most common concomitant cDMARDs included MTX, hydroxychloroquine, leflunomide and sulfasalazine
+5 Most common concomitant cDMARDs included MTX, hydroxychloroquine, leflunomide and sulfasalazine
 
 ## Clinical response
 
@@ -1747,38 +1735,37 @@ Greater rates of remission compared to placebo were observed as early as week 4.
 
 Table 4: Response, remission and physical function
 
-| Study                                                                                | RA-BEGIN MTX-naïve patients                                                          | RA-BEGIN MTX-naïve patients                                                          | RA-BEGIN MTX-naïve patients                                                          | RA-BEAM MTX-IR patients                                                              | RA-BEAM MTX-IR patients                                                              | RA-BEAM MTX-IR patients                                                              | RA-BUILD cDMARD-IR patients                                                          | RA-BUILD cDMARD-IR patients                                                          | RA-BUILD cDMARD-IR patients                                                          | RA-BEACON TNF-IR patients                                                            | RA-BEACON TNF-IR patients                                                            | RA-BEACON TNF-IR patients                                                            |
+| Study - Treatment group                                                              | RA-BEGIN MTX-naïve patients - MTX                                                    | RA-BEGIN MTX-naïve patients - BARI 4 mg                                              | RA-BEGIN MTX-naïve patients - BARI 4 mg + MTX                                        | RA-BEAM MTX-IR patients - PBO                                                        | RA-BEAM MTX-IR patients - BARI 4 mg                                                  | RA-BEAM MTX-IR patients - ADA 40 mg Q2W                                              | RA-BUILD cDMARD-IR patients - PBO                                                    | RA-BUILD cDMARD-IR patients - BARI 2 mg                                              | RA-BUILD cDMARD-IR patients - BARI 4 mg                                              | RA-BEACON TNF-IR patients - PBO                                                      | RA-BEACON TNF-IR patients - BARI 2 mg                                                | RA-BEACON TNF-IR patients - BARI 4 mg                                                |
 |--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Treatment group                                                                      | MTX                                                                                  | BARI 4 mg                                                                            | BARI 4 mg + MTX                                                                      | PBO                                                                                  | BARI 4 mg                                                                            | ADA 40 mg Q2W                                                                        | PBO                                                                                  | BARI 2 mg                                                                            | BARI 4 mg                                                                            | PBO                                                                                  | BARI 2 mg                                                                            | BARI 4 mg                                                                            |
 | N                                                                                    | 210                                                                                  | 159                                                                                  | 215                                                                                  | 488                                                                                  | 487                                                                                  | 330                                                                                  | 228                                                                                  | 229                                                                                  | 227                                                                                  | 176                                                                                  | 174                                                                                  | 177                                                                                  |
 | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               |
-| Week 12                                                                              | 59%                                                                                  | 79% ***                                                                              | 77% ***                                                                              | 40%                                                                                  | 70% ***†                                                                             | 61% ***                                                                              | 39%                                                                                  | 66% ***                                                                              | 62% ***                                                                              | 27%                                                                                  | 49% ***                                                                              | 55% ***                                                                              |
-| Week 24                                                                              | 62%                                                                                  | 77% **                                                                               | 78% ***                                                                              | 37%                                                                                  | 74% ***†                                                                             | 66% ***                                                                              | 42%                                                                                  | 61% ***                                                                              | 65% ***                                                                              | 27%                                                                                  | 45% ***                                                                              | 46% ***                                                                              |
-| Week 52                                                                              | 56%                                                                                  | 73% ***                                                                              | 73% ***                                                                              |                                                                                      | 71% ††                                                                               | 62%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 59 %                                                                                 | 79 % ***                                                                             | 77 % ***                                                                             | 40 %                                                                                 | 70 % ***†                                                                            | 61 % ***                                                                             | 39 %                                                                                 | 66 % ***                                                                             | 62 % ***                                                                             | 27 %                                                                                 | 49 % ***                                                                             | 55 % ***                                                                             |
+| Week 24                                                                              | 62 %                                                                                 | 77 % **                                                                              | 78 % ***                                                                             | 37 %                                                                                 | 74 % ***†                                                                            | 66 % ***                                                                             | 42 %                                                                                 | 61 % ***                                                                             | 65 % ***                                                                             | 27 %                                                                                 | 45 % ***                                                                             | 46 % ***                                                                             |
+| Week 52                                                                              | 56 %                                                                                 | 73 % ***                                                                             | 73 % ***                                                                             |                                                                                      | 71 % ††                                                                              | 62 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               |
-| Week 12                                                                              | 33%                                                                                  | 55% ***                                                                              | 60% ***                                                                              | 17%                                                                                  | 45% ***††                                                                            | 35% ***                                                                              | 13%                                                                                  | 33% ***                                                                              | 34% ***                                                                              | 8%                                                                                   | 20% **                                                                               | 28% ***                                                                              |
-| Week 24                                                                              | 43%                                                                                  | 60% **                                                                               | 63% ***                                                                              | 19%                                                                                  | 51% ***                                                                              | 45% ***                                                                              | 21%                                                                                  | 41% ***                                                                              | 44% ***                                                                              | 13%                                                                                  | 23% *                                                                                | 29% ***                                                                              |
-| Week 52                                                                              | 38%                                                                                  | 57% ***                                                                              | 62% ***                                                                              |                                                                                      | 56% †                                                                                | 47%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 33 %                                                                                 | 55 % ***                                                                             | 60 % ***                                                                             | 17 %                                                                                 | 45 % ***††                                                                           | 35 % ***                                                                             | 13 %                                                                                 | 33 % ***                                                                             | 34 % ***                                                                             | 8 %                                                                                  | 20 % **                                                                              | 28 % ***                                                                             |
+| Week 24                                                                              | 43 %                                                                                 | 60 % **                                                                              | 63 % ***                                                                             | 19 %                                                                                 | 51 % ***                                                                             | 45 % ***                                                                             | 21 %                                                                                 | 41 % ***                                                                             | 44 % ***                                                                             | 13 %                                                                                 | 23 % *                                                                               | 29 % ***                                                                             |
+| Week 52                                                                              | 38 %                                                                                 | 57 % ***                                                                             | 62 % ***                                                                             |                                                                                      | 56 % †                                                                               | 47 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               |
-| Week 12                                                                              | 16%                                                                                  | 31% ***                                                                              | 34% ***                                                                              | 5%                                                                                   | 19% ***†                                                                             | 13% ***                                                                              | 3%                                                                                   | 18% ***                                                                              | 18% ***                                                                              | 2%                                                                                   | 13% ***                                                                              | 11% **                                                                               |
-| Week 24                                                                              | 21%                                                                                  | 42% ***                                                                              | 40% ***                                                                              | 8%                                                                                   | 30% ***†                                                                             | 22% ***                                                                              | 8%                                                                                   | 25% ***                                                                              | 24% ***                                                                              | 3%                                                                                   | 13% ***                                                                              | 17% ***                                                                              |
-| Week 52                                                                              | 25%                                                                                  | 42% ***                                                                              | 46% ***                                                                              |                                                                                      | 37%                                                                                  | 31%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 16 %                                                                                 | 31 % ***                                                                             | 34 % ***                                                                             | 5 %                                                                                  | 19 % ***†                                                                            | 13 % ***                                                                             | 3 %                                                                                  | 18 % ***                                                                             | 18 % ***                                                                             | 2 %                                                                                  | 13 % ***                                                                             | 11 % **                                                                              |
+| Week 24                                                                              | 21 %                                                                                 | 42 % ***                                                                             | 40 % ***                                                                             | 8 %                                                                                  | 30 % ***†                                                                            | 22 % ***                                                                             | 8 %                                                                                  | 25 % ***                                                                             | 24 % ***                                                                             | 3 %                                                                                  | 13 % ***                                                                             | 17 % ***                                                                             |
+| Week 52                                                                              | 25 %                                                                                 | 42 % ***                                                                             | 46 % ***                                                                             |                                                                                      | 37 %                                                                                 | 31 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   |
-| Week 12                                                                              | 30%                                                                                  | 47% ***                                                                              | 56% ***                                                                              | 14%                                                                                  | 44% ***††                                                                            | 35% ***                                                                              | 17%                                                                                  | 36% ***                                                                              | 39% ***                                                                              | 9%                                                                                   | 24% ***                                                                              | 32% ***                                                                              |
-| Week 24                                                                              | 38%                                                                                  | 57% ***                                                                              | 60% ***                                                                              | 19%                                                                                  | 52% ***                                                                              | 48% ***                                                                              | 24%                                                                                  | 46% ***                                                                              | 52% ***                                                                              | 11%                                                                                  | 20% *                                                                                | 33% ***                                                                              |
-| Week 52                                                                              | 38%                                                                                  | 57% ***                                                                              | 63% ***                                                                              |                                                                                      | 56% †                                                                                | 48%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 30 %                                                                                 | 47 % ***                                                                             | 56 % ***                                                                             | 14 %                                                                                 | 44 % ***††                                                                           | 35 % ***                                                                             | 17 %                                                                                 | 36 % ***                                                                             | 39 % ***                                                                             | 9 %                                                                                  | 24 % ***                                                                             | 32 % ***                                                                             |
+| Week 24                                                                              | 38 %                                                                                 | 57 % ***                                                                             | 60 % ***                                                                             | 19 %                                                                                 | 52 % ***                                                                             | 48 % ***                                                                             | 24 %                                                                                 | 46 % ***                                                                             | 52 % ***                                                                             | 11 %                                                                                 | 20 % *                                                                               | 33 % ***                                                                             |
+| Week 52                                                                              | 38 %                                                                                 | 57 % ***                                                                             | 63 % ***                                                                             |                                                                                      | 56 % †                                                                               | 48 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          |
-| Week 12                                                                              | 6%                                                                                   | 14% *                                                                                | 20% ***                                                                              | 2%                                                                                   | 8% ***                                                                               | 7% ***                                                                               | 1%                                                                                   | 9% ***                                                                               | 9% ***                                                                               | 2%                                                                                   | 2%                                                                                   | 5%                                                                                   |
-| Week 24                                                                              | 10%                                                                                  | 22% **                                                                               | 23% ***                                                                              | 3%                                                                                   | 16% ***                                                                              | 14% ***                                                                              | 4%                                                                                   | 17% ***                                                                              | 15% ***                                                                              | 2%                                                                                   | 5%                                                                                   | 9% **                                                                                |
-| Week 52                                                                              | 13%                                                                                  | 25% **                                                                               | 30% ***                                                                              |                                                                                      | 23%                                                                                  | 18%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 6 %                                                                                  | 14 % *                                                                               | 20 % ***                                                                             | 2 %                                                                                  | 8 % ***                                                                              | 7 % ***                                                                              | 1 %                                                                                  | 9 % ***                                                                              | 9 % ***                                                                              | 2 %                                                                                  | 2 %                                                                                  | 5 %                                                                                  |
+| Week 24                                                                              | 10 %                                                                                 | 22 % **                                                                              | 23 % ***                                                                             | 3 %                                                                                  | 16 % ***                                                                             | 14 % ***                                                                             | 4 %                                                                                  | 17 % ***                                                                             | 15 % ***                                                                             | 2 %                                                                                  | 5 %                                                                                  | 9 % **                                                                               |
+| Week 52                                                                              | 13 %                                                                                 | 25 % **                                                                              | 30 % ***                                                                             |                                                                                      | 23 %                                                                                 | 18 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          |
-| Week 12                                                                              | 7%                                                                                   | 14% *                                                                                | 19% ***                                                                              | 2%                                                                                   | 8% ***                                                                               | 7% **                                                                                | 2%                                                                                   | 10% ***                                                                              | 9% ***                                                                               | 2%                                                                                   | 3%                                                                                   | 6%                                                                                   |
-| Week 24                                                                              | 11%                                                                                  | 21% **                                                                               | 22% **                                                                               | 4%                                                                                   | 16% ***                                                                              | 12% ***                                                                              | 4%                                                                                   | 15% ***                                                                              | 15% ***                                                                              | 3%                                                                                   | 5%                                                                                   | 9% *                                                                                 |
-| Week 52                                                                              | 16%                                                                                  | 25% *                                                                                | 28% **                                                                               |                                                                                      | 22%                                                                                  | 18%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 7 %                                                                                  | 14 % *                                                                               | 19 % ***                                                                             | 2 %                                                                                  | 8 % ***                                                                              | 7 % **                                                                               | 2 %                                                                                  | 10 % ***                                                                             | 9 % ***                                                                              | 2 %                                                                                  | 3 %                                                                                  | 6 %                                                                                  |
+| Week 24                                                                              | 11 %                                                                                 | 21 % **                                                                              | 22 % **                                                                              | 4 %                                                                                  | 16 % ***                                                                             | 12 % ***                                                                             | 4 %                                                                                  | 15 % ***                                                                             | 15 % ***                                                                             | 3 %                                                                                  | 5 %                                                                                  | 9 % *                                                                                |
+| Week 52                                                                              | 16 %                                                                                 | 25 % *                                                                               | 28 % **                                                                              |                                                                                      | 22 %                                                                                 | 18 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): |
-| Week 12                                                                              | 60%                                                                                  | 81% ***                                                                              | 77% ***                                                                              | 46%                                                                                  | 68% ***                                                                              | 64% ***                                                                              | 44%                                                                                  | 60% ***                                                                              | 56% **                                                                               | 35%                                                                                  | 48% *                                                                                | 54% ***                                                                              |
-| Week 24                                                                              | 66%                                                                                  | 77% *                                                                                | 74%                                                                                  | 37%                                                                                  | 67% ***†                                                                             | 60% ***                                                                              | 37%                                                                                  | 58% ***                                                                              | 55% ***                                                                              | 24%                                                                                  | 41% ***                                                                              | 44% ***                                                                              |
-| Week 52                                                                              | 53%                                                                                  | 65% *                                                                                | 67% **                                                                               |                                                                                      | 61%                                                                                  | 55%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| Week 12                                                                              | 60 %                                                                                 | 81 % ***                                                                             | 77 % ***                                                                             | 46 %                                                                                 | 68 % ***                                                                             | 64 % ***                                                                             | 44 %                                                                                 | 60 % ***                                                                             | 56 % **                                                                              | 35 %                                                                                 | 48 % *                                                                               | 54 % ***                                                                             |
+| Week 24                                                                              | 66 %                                                                                 | 77 % *                                                                               | 74 %                                                                                 | 37 %                                                                                 | 67 % ***†                                                                            | 60 % ***                                                                             | 37 %                                                                                 | 58 % ***                                                                             | 55 % ***                                                                             | 24 %                                                                                 | 41 % ***                                                                             | 44 % ***                                                                             |
+| Week 52                                                                              | 53 %                                                                                 | 65 % *                                                                               | 67 % **                                                                              |                                                                                      | 61 %                                                                                 | 55 %                                                                                 |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
 
 Note: Proportions of responders at each time point based on those initially randomised to treatment (N). Patients who discontinued or received rescue therapy were considered as non-responders thereafter.
 
@@ -1798,21 +1785,18 @@ Treatment with baricitinib 4 mg resulted in a statistically significant inhibiti
 
 Table 5. Radiographic changes
 
-| Study                                                       | RA-BEGIN MTX-naïve patients                                 | RA-BEGIN MTX-naïve patients                                 | RA-BEGIN MTX-naïve patients                                 | RA-BEAM MTX-IR patients                                     | RA-BEAM MTX-IR patients                                     | RA-BEAM MTX-IR patients                                     | RA-BUILD cDMARD-IR patients                                 | RA-BUILD cDMARD-IR patients                                 | RA-BUILD cDMARD-IR patients                                 |
+| Study - Treatment group                                     | RA-BEGIN MTX-naïve patients - MTX                           | RA-BEGIN MTX-naïve patients - BARI4 mg                      | RA-BEGIN MTX-naïve patients - BARI4 mg + MTX                | RA-BEAM MTX-IR patients - PBO a                             | RA-BEAM MTX-IR patients - BARI4 mg                          | RA-BEAM MTX-IR patients - ADA 40 mg Q2W                     | RA-BUILD cDMARD-IR patients - PBO                           | RA-BUILD cDMARD-IR patients - BARI2 mg                      | RA-BUILD cDMARD-IR patients - BARI4 mg                      |
 |-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-| Treatment group                                             | MTX                                                         | BARI4 mg                                                    | BARI4 mg + MTX                                              | PBO a                                                       | BARI4 mg                                                    | ADA 40 mg Q2W                                               | PBO                                                         | BARI2 mg                                                    | BARI4 mg                                                    |
 | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      |
 | Week 24                                                     | 0.61                                                        | 0.39                                                        | 0.29 *                                                      | 0.90                                                        | 0.41 ***                                                    | 0.33 ***                                                    | 0.70                                                        | 0.33 *                                                      | 0.15 **                                                     |
 | Week 52                                                     | 1.02                                                        | 0.80                                                        | 0.40 **                                                     | 1.80                                                        | 0.71 ***                                                    | 0.60 ***                                                    |                                                             |                                                             |                                                             |
 | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : |
-| Week 24                                                     | 68%                                                         | 76%                                                         | 81% **                                                      | 70%                                                         | 81% ***                                                     | 83% ***                                                     | 74%                                                         | 72%                                                         | 80%                                                         |
-| Week 52                                                     | 66%                                                         | 69%                                                         | 80% **                                                      | 70%                                                         | 79% **                                                      | 81% **                                                      |                                                             |                                                             |                                                             |
+| Week 24                                                     | 68 %                                                        | 76 %                                                        | 81 % **                                                     | 70 %                                                        | 81 % ***                                                    | 83 % ***                                                    | 74 %                                                        | 72 %                                                        | 80 %                                                        |
+| Week 52                                                     | 66 %                                                        | 69 %                                                        | 80 % **                                                     | 70 %                                                        | 79 % **                                                     | 81 % **                                                     |                                                             |                                                             |                                                             |
 
-Abbreviations: ADA = adalimumab; BARI = baricitinib; IR = inadequate responder;
+Abbreviations: ADA = adalimumab; BARI = baricitinib; IR = inadequate responder; MTX = methotrexate; PBO = Placebo
 
-MTX = methotrexate; PBO = Placebo
-
-- a Placebo data at week 52 derived using linear extrapolation
+a Placebo data at week 52 derived using linear extrapolation
 
 b No progression defined as mTSS change ≤ 0.
 
@@ -1832,9 +1816,9 @@ Differences in efficacy between the 4 mg and the 2 mg doses were most notable in
 
 In a long-term extension study, patients from Studies RA-BEAM, RA-BUILD and RA-BEACON who achieved sustained low disease activity or remission (CDAI ≤ 10) after at least 15 months of treatment with baricitinib 4 mg once daily were re-randomised 1:1 in a double-blind manner to continue 4 mg once daily or reduce dose to 2 mg once daily. The majority of patients maintained low disease activity or remission based on CDAI score:
 
-- At week 12:  451/498 (91 %) continuing 4 mg vs.  405/498 (81 %) reduced to 2 mg (p ≤ 0.001)
-- At week 24:  434/498 (87 %) continuing 4 mg vs.  372/498 (75 %) reduced to 2 mg (p ≤ 0.001)
-- At week 48:  400/498 (80 %) continuing 4 mg vs.  343/498 (69 %) reduced to 2 mg (p ≤ 0.001)
+- At week 12: 451/498 (91 %) continuing 4 mg vs. 405/498 (81 %) reduced to 2 mg (p ≤ 0.001)
+- At week 24: 434/498 (87 %) continuing 4 mg vs. 372/498 (75 %) reduced to 2 mg (p ≤ 0.001)
+- At week 48: 400/498 (80 %) continuing 4 mg vs. 343/498 (69 %) reduced to 2 mg (p ≤ 0.001)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1864,28 +1848,28 @@ Treatment effects in subgroups (weight, age, gender, race, disease severity, and
 
 Table 6. Efficacy of baricitinib at week 16 (FAS a )
 
-|                                                     | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | TCS combination   | TCS combination   | TCS combination   |
-|-----------------------------------------------------|---------------|---------------|---------------|---------------|---------------|---------------|-------------------|-------------------|-------------------|
-| Study                                               | BREEZE- AD1   | BREEZE- AD1   | BREEZE- AD1   | BREEZE-AD2    | BREEZE-AD2    | BREEZE-AD2    | BREEZE- AD7       | BREEZE- AD7       | BREEZE- AD7       |
-| Treatment Group                                     | PBO           | BARI 2 mg     | BARI 4 mg     | PBO           | BARI 2 mg     | BARI 4 mg     | PBO + TCS         | BARI 2 mg + TCS   | BARI 4 mg + TCS   |
-| N                                                   | 249           | 123           | 125           | 244           | 123           | 123           | 109               | 109               | 111               |
-| IGA 0 or 1, %responders b, c                        | 4.8           | 11.4**        | 16.8**        | 4.5           | 10.6**        | 13.8**        | 14.7              | 23.9              | 30.6**            |
-| EASI-75, %responders c                              | 8.8           | 18.7**        | 24.8**        | 6.1           | 17.9**        | 21.1**        | 22.9              | 43.1*             | 47.7**            |
-| Itch NRS (≥ 4 point improvement), %responders c , d | 7.2           | 12.0          | 21.5**        | 4.7           | 15.1**        | 18.7**        | 20.2              | 38.1*             | 44.0**            |
+| Study - Treatment Group                              |   Monotherapy - BREEZE- AD1 - PBO | Monotherapy - BREEZE- AD1 - BARI 2 mg   | Monotherapy - BREEZE- AD1 - BARI 4 mg   |   Monotherapy - BREEZE-AD2 - PBO | Monotherapy - BREEZE-AD2 - BARI 2 mg   | Monotherapy - BREEZE-AD2 - BARI 4 mg   |   TCS combination - BREEZE- AD7 - PBO + TCS | TCS combination - BREEZE- AD7 - BARI 2 mg + TCS   | TCS combination - BREEZE- AD7 - BARI 4 mg + TCS   |
+|------------------------------------------------------|-----------------------------------|-----------------------------------------|-----------------------------------------|----------------------------------|----------------------------------------|----------------------------------------|---------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| N                                                    |                               249 | 123                                     | 125                                     |                              244 | 123                                    | 123                                    |                                         109 | 109                                               | 111                                               |
+| IGA 0 or 1, % responders b, c                        |                               4.8 | 11.4**                                  | 16.8**                                  |                              4.5 | 10.6**                                 | 13.8**                                 |                                        14.7 | 23.9                                              | 30.6**                                            |
+| EASI-75, % responders c                              |                               8.8 | 18.7**                                  | 24.8**                                  |                              6.1 | 17.9**                                 | 21.1**                                 |                                        22.9 | 43.1*                                             | 47.7**                                            |
+| Itch NRS (≥ 4 point improvement), % responders c , d |                               7.2 | 12.0                                    | 21.5**                                  |                              4.7 | 15.1**                                 | 18.7**                                 |                                        20.2 | 38.1*                                             | 44.0**                                            |
 
 BARI = Baricitinib; PBO = Placebo
 
 * statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
 - a Full analysis set (FAS) including all randomised patients.
-- b Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of ≥ 2 points on 0-4 IGA scale.
+- b Responder was defined as a patient with IGA 0 or 1 (\"clear\" or \"almost clear\") with a reduction of ≥ 2 points on 0-4 IGA scale.
 - c Non-Responder Imputation: Patients who received rescue treatment or with missing data were considered as non-responders.
 - d Results shown in subset of patients eligible for assessment (patients with itch NRS ≥ 4 at baseline).
-- LS = Least squares; * statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
-- a Full analysis set (FAS) including all patients randomised. Data collected after rescue therapy or after permanent medicinal product discontinuation were considered missing. LS means are from Mixed Model with Repeated Measures (MMRM) analyses.
 
 Figure 1. Mean percent change from baseline in EASI (FAS) a
 
 <!-- image -->
+
+LS = Least squares; * statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
+
+- a Full analysis set (FAS) including all patients randomised. Data collected after rescue therapy or after permanent medicinal product discontinuation were considered missing. LS means are from Mixed Model with Repeated Measures (MMRM) analyses.
 
 ## Maintenance of response
 
@@ -1901,19 +1885,17 @@ In the long-term extension study BREEZE-AD3, patients who had clear, almost clea
 
 In both monotherapy studies (BREEZE-AD1 and BREEZE-AD2) and in the concomitant TCS study (BREEZE-AD7), baricitinib 4 mg significantly improved patient-reported outcomes, including itch NRS, sleep (ADSS), skin pain (skin pain NRS), quality of life (DLQI) and symptoms of anxiety and depression (HADS) that were uncorrected for multiplicity, at 16 weeks compared to placebo (See Table 7).
 
-Table 7. Quality of life/patient-reported outcomes results of baricitinib monotherapy and baricitinib in combination with TCS at week 16 (FAS)  a
+Table 7. Quality of life/patient-reported outcomes results of baricitinib monotherapy and baricitinib in combination with TCS at week 16 (FAS) a
 
-|                                                    | Monotherapy   | Monotherapy   | Monotherapy    | Monotherapy   | Monotherapy    | Monotherapy    | TCS combination   | TCS combination   | TCS combination   |
-|----------------------------------------------------|---------------|---------------|----------------|---------------|----------------|----------------|-------------------|-------------------|-------------------|
-| Study                                              | BREEZE-AD1    | BREEZE-AD1    | BREEZE-AD1     | BREEZE-AD2    | BREEZE-AD2     | BREEZE-AD2     | BREEZE-AD7 e      | BREEZE-AD7 e      | BREEZE-AD7 e      |
-| Treatment group                                    | PBO           | BARI 2 mg     | BARI 4 mg      | PBO           | BARI 2 mg      | BARI 4 mg      | PBO + TCS         | BARI 2 mg + TCS   | BARI 4 mg + TCS   |
-| N                                                  | 249           | 123           | 125            | 244           | 123            | 123            | 109               | 109               | 111               |
-| ADSS Item 2 ≥ 2-point improvement, %responders c,d | 12.8          | 11.4          | 32.7*          | 8.0           | 19.6           | 24.4*          | 30.6              | 61.5*             | 66.7*             |
-| Change in Skin Pain NRS, mean (SE) b               | -0.84 (0.24)  | -1.58 (0.29)  | -1.93** (0.26) | -0.86 (0.26)  | -2.61** (0.30) | -2.49** (0.28) | -2.06 (0.23)      | -3.22* (0.22)     | -3.73* (0.23)     |
-| Change in DLQI, mean (SE) b                        | -2.46 (0.57)  | -4.30* (0.68) | -6.76* (0.60)  | -3.35 (0.62)  | -7.44* (0.71)  | -7.56* (0.66)  | -5.58 (0.61)      | -7.50* (0.58)     | -8.89* (0.58)     |
-| Change in HADS, mean (SE) b                        | -1.22 (0.48)  | -3.22* (0.58) | -3.56* (0.52)  | -1.25 (0.57)  | -2.82 (0.66)   | -3.71* (0.62)  | -3.18 (0.56)      | -4.75* (0.54)     | -5.12* (0.54)     |
+| Study - Treatment group                             | Monotherapy - BREEZE-AD1 - PBO   | Monotherapy - BREEZE-AD1 - BARI 2 mg   | Monotherapy - BREEZE-AD1 - BARI 4 mg   | Monotherapy - BREEZE-AD2 - PBO   | Monotherapy - BREEZE-AD2 - BARI 2 mg   | Monotherapy - BREEZE-AD2 - BARI 4 mg   | TCS combination - BREEZE-AD7 e - PBO + TCS   | TCS combination - BREEZE-AD7 e - BARI 2 mg + TCS   | TCS combination - BREEZE-AD7 e - BARI 4 mg + TCS   |
+|-----------------------------------------------------|----------------------------------|----------------------------------------|----------------------------------------|----------------------------------|----------------------------------------|----------------------------------------|----------------------------------------------|----------------------------------------------------|----------------------------------------------------|
+| N                                                   | 249                              | 123                                    | 125                                    | 244                              | 123                                    | 123                                    | 109                                          | 109                                                | 111                                                |
+| ADSS Item 2 ≥ 2-point improvement, % responders c,d | 12.8                             | 11.4                                   | 32.7*                                  | 8.0                              | 19.6                                   | 24.4*                                  | 30.6                                         | 61.5*                                              | 66.7*                                              |
+| Change in Skin Pain NRS, mean (SE) b                | -0.84 (0.24)                     | -1.58 (0.29)                           | -1.93** (0.26)                         | -0.86 (0.26)                     | -2.61** (0.30)                         | -2.49** (0.28)                         | -2.06 (0.23)                                 | -3.22* (0.22)                                      | -3.73* (0.23)                                      |
+| Change in DLQI, mean (SE) b                         | -2.46 (0.57)                     | -4.30* (0.68)                          | -6.76* (0.60)                          | -3.35 (0.62)                     | -7.44* (0.71)                          | -7.56* (0.66)                          | -5.58 (0.61)                                 | -7.50* (0.58)                                      | -8.89* (0.58)                                      |
+| Change in HADS, mean (SE) b                         | -1.22 (0.48)                     | -3.22* (0.58)                          | -3.56* (0.52)                          | -1.25 (0.57)                     | -2.82 (0.66)                           | -3.71* (0.62)                          | -3.18 (0.56)                                 | -4.75* (0.54)                                      | -5.12* (0.54)                                      |
 
-BARI = Baricitinib; PBO = Placebo
+BARI = Baricitinib; PBO = Placebo Clinical response in patients with experience with or a contra-indication to ciclosporin treatment (BREEZE-AD4 study)
 
 * statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
 
@@ -1929,20 +1911,17 @@ e All patients were on concomitant topical corticosteroids therapy and patients 
 
 <div style=\"page-break-after: always\"></div>
 
-Clinical response in patients with experience with or a contra-indication to ciclosporin treatment (BREEZE-AD4 study)
-
 A total of 463 patients were enrolled, who had either failed (n = 173), or had an intolerance (n = 75), or contraindication (n = 126) to oral ciclosporin. The primary endpoint was the proportion of patients achieving EASI-75 at week 16. The primary and some of the most important secondary endpoints at week 16 are summarised in Table 8.
 
-Table 8: Efficacy of baricitinib in combination with TCS a  at week 16 in BREEZE-AD4 (FAS) b
+Table 8: Efficacy of baricitinib in combination with TCS a at week 16 in BREEZE-AD4 (FAS) b
 
-| Study                                              | BREEZE- AD4   | BREEZE- AD4   | BREEZE- AD4    |
-|----------------------------------------------------|---------------|---------------|----------------|
-| Treatment group                                    | PBO a         | BARI 2 mg a   | BARI 4 mg a    |
-| N                                                  | 93            | 185           | 92             |
-| EASI-75, %responders c                             | 17.2          | 27.6          | 31.5**         |
-| IGA 0 or 1, %responders c, e                       | 9.7           | 15.1          | 21.7*          |
-| Itch NRS (≥ 4 point improvement), %responders c, f | 8.2           | 22.9*         | 38.2**         |
-| Change in DLQI mean (SE) d                         | -4.95 (0.752) | -6.57 (0.494) | -7.95* (0.705) |
+| Study - Treatment group                             | BREEZE- AD4 - PBO a   | BREEZE- AD4 - BARI 2 mg a   | BREEZE- AD4 - BARI 4 mg a   |
+|-----------------------------------------------------|-----------------------|-----------------------------|-----------------------------|
+| N                                                   | 93                    | 185                         | 92                          |
+| EASI-75, % responders c                             | 17.2                  | 27.6                        | 31.5**                      |
+| IGA 0 or 1, % responders c, e                       | 9.7                   | 15.1                        | 21.7*                       |
+| Itch NRS (≥ 4 point improvement), % responders c, f | 8.2                   | 22.9*                       | 38.2**                      |
+| Change in DLQI mean (SE) d                          | -4.95 (0.752)         | -6.57 (0.494)               | -7.95* (0.705)              |
 
 BARI = Baricitinib; PBO = Placebo
 
@@ -1956,15 +1935,13 @@ c Non-Responder Imputation: Patients who received rescue treatment or with missi
 
 d Data collected after rescue therapy or after permanent medicinal product discontinuation were considered missing. LS means are from Mixed Model with Repeated Measures (MMRM) analyses.
 
-e Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of
-
-≥ 2 points on 0-4 IGA scale.
+e Responder was defined as a patient with IGA 0 or 1 (\"clear\" or \"almost clear\") with a reduction of ≥ 2 points on 0-4 IGA scale.
 
 f Results shown in subset of patients eligible for assessment (patients with itch NRS ≥ 4 at baseline).
 
 ## Adults with alopecia areata
 
-The efficacy and safety of baricitinib once daily were assessed in one adaptive Phase II/III study (BRAVE-AA1) and one Phase III study (BRAVE-AA2). The Phase III portion of BRAVE-AA1 study and the Phase III BRAVE-AA2 study were randomised, double blind, placebo-controlled, 36-week studies with extension phases up to 200 weeks. In both phase III studies, patients were randomised to placebo, 2 mg or 4 mg baricitinib in a 2:2:3 ratio. Eligible patients were adults between 18 years and 60 years of age for male patients, and between 18 years and 70 years of age for female patients, with a current episode of more than 6 months of severe alopecia areata ( hair loss encompassing ≥ 50 % of the scalp). Patients with a current episode of more than 8 years were not eligible unless episodes of regrowth had been observed on the affected areas of the scalp over the past 8 years. The only permitted concomitant alopecia areata therapies were finasteride (or other 5 alpha reductase inhibitors), oral or topical minoxidil and bimatoprost ophthalmic solution for eyelashes, if at a stable dose at study entry.
+The efficacy and safety of baricitinib once daily were assessed in one adaptive Phase II/III study (BRAVE-AA1) and one Phase III study (BRAVE-AA2). The Phase III portion of BRAVE-AA1 study and the Phase III BRAVE-AA2 study were randomised, double blind, placebo-controlled, 36-week studies with extension phases up to 200 weeks. In both phase III studies, patients were randomised to placebo, 2 mg or 4 mg baricitinib in a 2:2:3 ratio. Eligible patients were adults between 18 years and 60 years of age for male patients, and between 18 years and 70 years of age for female patients, with a current episode of more than 6 months of severe alopecia areata (hair loss encompassing ≥ 50 % of the scalp). Patients with a current episode of more than 8 years were not eligible unless episodes of regrowth had been observed on the affected areas of the scalp over the past 8 years. The only permitted concomitant alopecia areata therapies were finasteride (or other 5 alpha reductase inhibitors), oral or topical minoxidil and bimatoprost ophthalmic solution for eyelashes, if at a stable dose at study entry.
 
 Both studies assessed as primary outcome the proportion of subjects who achieved a SALT (Severity of Alopecia Tool) score of ≤ 20 (80 % or more scalp coverage with hair) at week 36. Additionally, both studies evaluated clinician assessment of eyebrow and eyelash hair loss using a 4-point scale (ClinRO Measure for Eyebrow Hair Loss™, ClinRO Measure for Eyelash Hair Loss™).
 
@@ -1982,15 +1959,14 @@ Treatment effects in subgroups (gender, age, weight, eGFR, race, geographic regi
 
 Table 9. Efficacy of baricitinib through week 36 for pooled studies (pooled week 36 efficacy population a )
 
-|                                                                                                        | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data*   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data*   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data*   |
-|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-|                                                                                                        | Placebo N=345                                                                                     | Baricitinib 2 mg N=340                                                                            | Baricitinib 4 mg N=515                                                                            |
-| SALT ≤ 20 at week 36                                                                                   | 4.1%                                                                                              | 19.7 %**                                                                                          | 34.0 %**                                                                                          |
-| SALT ≤ 20 at week 24                                                                                   | 3.2%                                                                                              | 11.2%                                                                                             | 27.4 %**                                                                                          |
-| ClinRO Measure for Eyebrow Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline b | 3.8%                                                                                              | 15.8%                                                                                             | 33.0 %**                                                                                          |
-| ClinRO Measure for Eyelash Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline b | 4.3%                                                                                              | 12.0%                                                                                             | 33.9 %**                                                                                          |
-| Change in Skindex-16 adapted for alopecia areata emotions domain, mean (SE) c                          | -11.33 (1.768)                                                                                    | -19.89 (1.788)                                                                                    | -23.81 (1.488)                                                                                    |
-| Change in Skindex-16 adapted for alopecia areata functioning domain, mean (SE) c                       | -9.26 (1.605)                                                                                     | -13.68 (1.623)                                                                                    | -16.93 (1.349)                                                                                    |
+|                                                                                                        | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data* - Placebo N=345   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data* - Baricitinib 2 mg N=340   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data* - Baricitinib 4 mg N=515   |
+|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| SALT ≤ 20 at week 36                                                                                   | 4.1 %                                                                                                             | 19.7 %**                                                                                                                   | 34.0 %**                                                                                                                   |
+| SALT ≤ 20 at week 24                                                                                   | 3.2 %                                                                                                             | 11.2 %                                                                                                                     | 27.4 %**                                                                                                                   |
+| ClinRO Measure for Eyebrow Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline b | 3.8 %                                                                                                             | 15.8 %                                                                                                                     | 33.0 %**                                                                                                                   |
+| ClinRO Measure for Eyelash Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline b | 4.3 %                                                                                                             | 12.0 %                                                                                                                     | 33.9 %**                                                                                                                   |
+| Change in Skindex-16 adapted for alopecia areata emotions domain, mean (SE) c                          | -11.33 (1.768)                                                                                                    | -19.89 (1.788)                                                                                                             | -23.81 (1.488)                                                                                                             |
+| Change in Skindex-16 adapted for alopecia areata functioning domain, mean (SE) c                       | -9.26 (1.605)                                                                                                     | -13.68 (1.623)                                                                                                             | -16.93 (1.349)                                                                                                             |
 
 ClinRO = clinician-reported outcome; SE = standard error
 
@@ -2011,17 +1987,21 @@ Figure 2: Proportion of patients with SALT ≤ 20 through week 36
 
 The proportion of patients treated with baricitinib achieving a SALT ≤ 20 continued to increase after week 36, reaching 39.0 % of patients on baricitinib 4 mg at week 52. The results for the baseline disease severity and episode duration subpopulations at week 52 were consistent with those observed at week 36 and with the results in the overall study population.
 
+## Maintenance of response
+
+Maintenance of response was evaluated in 205 patients from study BRAVE-AA1 and study BRAVEAA2 who achieved SALT ≤ 20 at Week 52 and continued receiving baricitinib 4 mg or 2 mg. The results show that the majority of patients who remained on baricitinib 4 mg and baricitinib 2 mg maintained their response through approximately 4 years of treatment (200 weeks).
+
 ## Dose tapering substudy
 
-In the study BRAVE-AA2, patients who had received baricitinib 4 mg once daily since the initial randomization and achieved SALT ≤ 20 at week 52 were re-randomised in a double-blind manner to continue 4 mg once daily or reduce dose to 2 mg once daily. The results show that 96 % of the patients who remained on baricitinib 4 mg and 74 % of the patients who were re-randomised to baricitinib 2 mg maintained their response at week 76.
+In the study BRAVE-AA2, 95 patients who had received baricitinib 4 mg once daily since the initial randomisation and achieved SALT ≤ 20 at week 52 were re-randomised in a double-blind manner to continue 4 mg once daily or reduce dose to 2 mg once daily. Among the 47 patients who reduced the dose to 2 mg, 51 % maintained response through approximately 3 years of treatment (152 weeks) and 38 % maintained response through 4 years of treatment (200 weeks). Of the 17 patients who experienced a loss of treatment benefit after dose reduction, 12 (71%) regained clinical response upon retreatment with baricitinib 4 mg.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Juvenile idiopathic arthritis
 
 The baricitinib clinical development programme for juvenile idiopathic arthritis consisted of one completed pivotal Phase III study (JUVE-BASIS) and one ongoing long-term open label safety extension study (JUVE-X).
 
 JUVE-BASIS was a double-blind randomised withdrawal (DBW), up to 44-week placebo-controlled study to evaluate the efficacy and safety of baricitinib when administered once daily to patients from 2 years to less than 18 years of age with juvenile idiopathic arthritis who have had an inadequate response or intolerance to treatment with at least 1 conventional synthetic or biologic DMARD. This included patients with polyarticular juvenile idiopathic arthritis (rheumatoid factor positive or rheumatoid factor negative), extended oligoarticular course juvenile idiopathic arthritis, enthesitis-related juvenile idiopathic arthritis, and juvenile psoriatic arthritis as defined by the International League of Associations for Rheumatology (ILAR) criteria. Patients who participated in JUVE-BASIS were eligible for enrolment into study JUVE-X.
-
-<div style=\"page-break-after: always\"></div>
 
 In JUVE-BASIS, patients received open-label once daily baricitinib for approximately 12 weeks from baseline. Patients 2 to less than 9 years received 2 mg daily and patients 9 to less than 18 years received 4 mg daily, to attain an equivalent exposure to a 4 mg dose in adults. At week 12, treatment response (based on PedACR30 criteria) was reviewed for each patient. Patients who achieved at least a PedACR30 response were randomised (1:1 ratio) to receive placebo or to remain on the same baricitinib dose in the 32-week double-blind, placebo-controlled phase. Patients who did not achieve PedACR30 were given the option of enrolling to JUVE-X.
 
@@ -2045,9 +2025,11 @@ Figure 3. Time to disease flare during the DBW period
 
 <!-- image -->
 
-CI = confidence interval; HR = hazard ratio; NA = not applicable; No. = number *a HR - stratified by juvenile idiopathic arthritis categories (polyarticular and extended oligoarticular versus enthesitis-related arthritis and juvenile psoriatic arthritis). *b P-value is from log-rank test stratified by juvenile idiopathic arthritis categories (polyarticular and
+CI = confidence interval; HR = hazard ratio; NA = not applicable; No. = number
 
-extended oligoarticular versus enthesitis-related arthritis and juvenile psoriatic arthritis).
+*a HR - stratified by juvenile idiopathic arthritis categories (polyarticular and extended oligoarticular versus enthesitis-related arthritis and juvenile psoriatic arthritis).
+
+*b P-value is from log-rank test stratified by juvenile idiopathic arthritis categories (polyarticular and extended oligoarticular versus enthesitis-related arthritis and juvenile psoriatic arthritis).
 
 Time to disease flare and PedACR score results were overall consistent across juvenile idiopathic arthritis subtypes and background characteristics (including age, geography, weight, prior use of biologic, concomitant use of MTX or corticosteroids), and were consistent with those for the overall study population.
 
@@ -2069,31 +2051,32 @@ Treatment effects in subgroups (weight, age, gender, race, disease severity, and
 
 Table 10. Efficacy of baricitinib in paediatric patients at week 16 a
 
-| Study                                            | BREEZE-AD-PEDS   | BREEZE-AD-PEDS       |
-|--------------------------------------------------|------------------|----------------------|
-| Treatment group                                  | PBO              | BARI 4 mg equivalent |
-| N                                                | 122              | 120                  |
-| IGA 0 or 1, %responders b,c                      | 16.4             | 41.7**               |
-| EASI75, %responders c                            | 32.0             | 52.5**               |
-| Itch NRS (≥4 point improvement), %responders c,d | 16.4             | 35.5**               |
+| Study - Treatment group                           |   BREEZE-AD-PEDS - PBO | BREEZE-AD-PEDS - BARI 4 mg equivalent   |
+|---------------------------------------------------|------------------------|-----------------------------------------|
+| N                                                 |                    122 | 120                                     |
+| IGA 0 or 1, % responders b,c                      |                   16.4 | 41.7**                                  |
+| EASI75, % responders c                            |                   32.0 | 52.5**                                  |
+| Itch NRS (≥4 point improvement), % responders c,d |                   16.4 | 35.5**                                  |
 
 BARI = Baricitinib; PBO = Placebo
 
-- ** Statistically significant vs placebo with adjustment for multiplicity.
+** Statistically significant vs placebo with adjustment for multiplicity.
 
 a Intent to Treat (ITT) population (all randomized patients)
 
-- b Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of ≥ 2 points on 0-4 IGA scale.
-- c Non-Responder Imputation: Patients who received rescue treatment or with missing data were considered as non-responders.
+b Responder was defined as a patient with IGA 0 or 1 (\"clear\" or \"almost clear\") with a reduction of ≥ 2 points on 0-4 IGA scale.
+
+c Non-Responder Imputation: Patients who received rescue treatment or with missing data were considered as non-responders.
+
 - d Results shown in subset of patients eligible for assessment (patients aged ≥ 10 years with Itch NRS ≥ 4 at baseline, BARI 4 mg equivalent N=62; Placebo, N = 55).
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 4. Time course for achieving IGA 0 or 1 with ≥ 2 points improvement in paediatric patients through week 16
 
-BARI=baricitinib; NRI=non-responder imputation; PBO=placebo* p&lt; 0.05; ** p&lt; 0.01; *** p&lt; 0.001 vs. PBO (nominal p-value; logistic regression analysis); † Statistically significant with multiplicity adjustment
-
 <!-- image -->
+
+BARI=baricitinib; NRI=non-responder imputation; PBO=placebo* p&lt; 0.05; ** p&lt; 0.01; *** p&lt; 0.001 vs. PBO (nominal p-value; logistic regression analysis); † Statistically significant with multiplicity adjustment
 
 A significantly greater proportion of patients randomised to the baricitinib 4 mg equivalent dose achieved a ≥ 4-point improvement in the Itch NRS compared to placebo as early as week 4 (adjusted for multiplicity).
 
@@ -2101,7 +2084,7 @@ The need for concomitant TCS use was reduced as demonstrated by a median reducti
 
 ## Adolescents with alopecia areata
 
-The efficacy and safety of baricitinib once daily was assessed in a single Phase III double-blind, randomised, placebo-controlled 36-week study (BRAVE-AA-PEDS). Patients were randomised to placebo, 2 mg or 4 mg baricitinib in a 1:1:1 ratio. Eligible patients were adolescents 12 to less than 18 years of age, weighing 30 kg or more, with a current episode of more than 6 months of severe alopecia areata ( hair loss encompassing ≥ 50 % of the scalp). Patients with a current episode of more than 8 years were not eligible unless episodes of regrowth had been observed on the affected areas of the scalp over the past 8 years. The only permitted concomitant alopecia areata therapies were oral or topical minoxidil, and bimatoprost ophthalmic solution for eyelashes, if at a stable dose at study entry. The study includes an ongoing long-term extension for up to 2 years.
+The efficacy and safety of baricitinib once daily was assessed in a single Phase III double-blind, randomised, placebo-controlled 36-week study (BRAVE-AA-PEDS). Patients were randomised to placebo, 2 mg or 4 mg baricitinib in a 1:1:1 ratio. Eligible patients were adolescents 12 to less than 18 years of age, weighing 30 kg or more, with a current episode of more than 6 months of severe alopecia areata (hair loss encompassing ≥ 50 % of the scalp). Patients with a current episode of more than 8 years were not eligible unless episodes of regrowth had been observed on the affected areas of the scalp over the past 8 years. The only permitted concomitant alopecia areata therapies were oral or topical minoxidil, and bimatoprost ophthalmic solution for eyelashes, if at a stable dose at study entry. The study includes an ongoing long-term extension for up to 2 years.
 
 The primary outcome of the study was the proportion of subjects who achieved a SALT (Severity of Alopecia Tool) score of ≤ 20 (80 % or more scalp coverage with hair) at week 36. Additionally, the study evaluated clinician assessment of eyebrow and eyelash hair loss using a 4-point scale (ClinRO Measure for Eyebrow Hair Loss™, ClinRO Measure for Eyelash Hair Loss™).
 
@@ -2119,21 +2102,22 @@ Treatment effects in subgroups (gender, race, geographic region, disease severit
 
 Table 11. Efficacy of baricitinib in adolescent patients through week 36
 
-|                                                                                                        | BRAVE-AA-PEDS   | BRAVE-AA-PEDS         | BRAVE-AA-PEDS         |
-|--------------------------------------------------------------------------------------------------------|-----------------|-----------------------|-----------------------|
-|                                                                                                        | Placebo N=88    | Baricitinib 2 mg N=84 | Baricitinib 4 mg N=85 |
-| SALT ≤ 20 at week 36                                                                                   | 4.5%            | 27.4 %**              | 42.4 %**              |
-| SALT ≤ 20 at week 24                                                                                   | 3.4%            | 16.7 %**              | 31.8 %**              |
-| SALT ≤ 10 at week 36                                                                                   | 2.3%            | 21.4 %**              | 36.5 %**              |
-| ClinRO Measure for Eyebrow Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline a | 0%              | 24.1 %*               | 50.0 %*               |
-| ClinRO Measure for Eyelash Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline a | 14.0%           | 25.5%                 | 42.9 %*               |
-| Change in Skindex-16 adapted for alopecia areata emotions domain, LSM (SE) b                           | -3.98 (2.63)    | -12.87 (2.55)*        | -18.22 (2.60)*        |
+|                                                                                                        | BRAVE-AA-PEDS - Placebo N=88   | BRAVE-AA-PEDS - Baricitinib 2 mg N=84   | BRAVE-AA-PEDS - Baricitinib 4 mg N=85   |
+|--------------------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------|-----------------------------------------|
+| SALT ≤ 20 at week 36                                                                                   | 4.5 %                          | 27.4 %**                                | 42.4 %**                                |
+| SALT ≤ 20 at week 24                                                                                   | 3.4 %                          | 16.7 %**                                | 31.8 %**                                |
+| SALT ≤ 10 at week 36                                                                                   | 2.3 %                          | 21.4 %**                                | 36.5 %**                                |
+| ClinRO Measure for Eyebrow Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline a | 0 %                            | 24.1 %*                                 | 50.0 %*                                 |
+| ClinRO Measure for Eyelash Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline a | 14.0 %                         | 25.5 %                                  | 42.9 %*                                 |
+| Change in Skindex-16 adapted for alopecia areata emotions domain, LSM (SE) b                           | -3.98 (2.63)                   | -12.87 (2.55)*                          | -18.22 (2.60)*                          |
 
 ClinRO = clinician-reported outcome; LSM = least square mean; SE = standard error
 
 * Statistically significant versus placebo without adjustment for multiplicity. ** Statistically significant versus placebo with adjustment for multiplicity.
 
-a Patients with ClinRO Measure for Eyebrow Hair loss score of ≥ 2 at baseline: 60 (Placebo), 54 (Baricitinib 2 mg), 54 (Baricitinib 4 mg). Patients with ClinRO Measure for Eyelash Hair loss score of ≥ 2 at baseline: 50 (Placebo), 47 (Baricitinib 2 mg), 49 (Baricitinib 4 mg). Both ClinRO Measures use a 4-point response scale ranging from 0 indicating no hair loss to 3 indicating no notable eyebrow/eyelashes hair.
+a Patients with ClinRO Measure for Eyebrow Hair loss score of ≥ 2 at baseline: 60 (Placebo),
+
+54 (Baricitinib 2 mg), 54 (Baricitinib 4 mg). Patients with ClinRO Measure for Eyelash Hair loss score of ≥ 2 at baseline: 50 (Placebo), 47 (Baricitinib 2 mg), 49 (Baricitinib 4 mg). Both ClinRO Measures use a 4-point response scale ranging from 0 indicating no hair loss to 3 indicating no notable eyebrow/eyelashes hair.
 
 b Sample sizes for analysis on Skindex-16 adapted for alopecia areata at week 36 are n= 87 (Placebo), 84 (Baricitinib 2 mg), 85 (Baricitinib 4 mg).
 
@@ -2173,7 +2157,7 @@ Mean volume of distribution following intravenous infusion administration was 76
 
 ## Biotransformation
 
-Baricitinib metabolism is mediated by CYP3A4, with less than 10 % of the dose identified as undergoing biotransformation. No metabolites were quantifiable in plasma. In a clinical pharmacology study, baricitinib was excreted predominately as the unchanged active substance in urine (69 %) and faeces (15 %) and only 4 minor oxidative metabolites were identified (3 in urine; 1 in faeces) constituting approximately 5 % and 1 % of the dose, respectively. In vitro , baricitinib is a substrate for CYP3A4, OAT3, Pgp, BCRP and MATE2-K, and may be a clinically relevant inhibitor of the transporter OCT1 (see section 4.5). Baricitinib is not an inhibitor of the transporters OAT1, OAT2, OAT3, OCT2, OATP1B1, OATP1B3, BCRP, MATE1 and MATE2-K at clinically relevant concentrations.
+Baricitinib metabolism is mediated by CYP3A4, with less than 10 % of the dose identified as undergoing biotransformation. No metabolites were quantifiable in plasma. In a clinical pharmacology study, baricitinib was excreted predominately as the unchanged active substance in urine (69 %) and faeces (15 %) and only 4 minor oxidative metabolites were identified (3 in urine; 1 in faeces) constituting approximately 5 % and 1 % of the dose, respectively. In vitro, baricitinib is a substrate for CYP3A4, OAT3, Pgp, BCRP and MATE2-K, and may be a clinically relevant inhibitor of the transporter OCT1 (see section 4.5). Baricitinib is not an inhibitor of the transporters OAT1, OAT2, OAT3, OCT2, OATP1B1, OATP1B3, BCRP, MATE1 and MATE2-K at clinically relevant concentrations.
 
 ## Elimination
 
@@ -2283,10 +2267,10 @@ Not all pack sizes may be marketed.
 
 Enteral feeding tubes made of polyvinylchloride, polyurethane and silicone have demonstrated compatibility with the oral suspension.
 
-- -Pre-rinse the feeding tube with room temperature water.
-- -Place the prescribed dose of the oral suspension in a container with room temperature water using the oral syringe with the bottle adaptor in place and gently swirl to disperse.
-- -Use the enteral tube syringe to administer the entire dispersed suspension immediately via the enteral feeding tube.
-- -Add room temperature water to the container, swirl to collect any remaining medicine and administer immediately via the enteral feeding tube.
+- Pre-rinse the feeding tube with room temperature water.
+- Place the prescribed dose of the oral suspension in a container with room temperature water using the oral syringe with the bottle adaptor in place and gently swirl to disperse.
+- Use the enteral tube syringe to administer the entire dispersed suspension immediately via the enteral feeding tube.
+- Add room temperature water to the container, swirl to collect any remaining medicine and administer immediately via the enteral feeding tube.
 
 The oral suspension dispersed in water is stable for up to 30 minutes at room temperature.
 
@@ -2303,29 +2287,21 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 <div style=\"page-break-after: always\"></div>
 
-7.
-
-MARKETING AUTHORISATION HOLDER
+7. MARKETING AUTHORISATION HOLDER
 
 Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/16/1170/020 EU/1/16/1170/021
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 13 February 2017
 
 Date of latest renewal: 12 November 2021
 
-10.
-
-DATE OF REVISION OF THE TEXT
+10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -2345,7 +2321,9 @@ Name and address of the manufacturer responsible for batch release
 
 Film-coated tablets Lilly S.A. Avda. de la Industria, 30 Alcobendas 28108 Madrid SPAIN
 
-Oral suspension Delpharm Huningue S.A.S 26 Rue de la Chapelle Huningue, 68330 France
+Oral suspension Delpharm Huningue S.A.S 26 Rue de la Chapelle Huningue, 68330
+
+France
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -2419,7 +2397,7 @@ The guide for healthcare professionals shall contain the following key elements:
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2440,10 +2418,8 @@ Each tablet contains 1 mg baricitinib.
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 14 film-coated tablets
-
-28 film-coated tablets
-
-28 x 1 film-coated tablets
+- 28 film-coated tablets
+- 28 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2456,13 +2432,11 @@ Read the package leaflet before use
 Keep out of the sight and reach of children.
 
 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
 8. EXPIRY DATE
 
 EXP
 
 9. SPECIAL STORAGE CONDITIONS
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
@@ -2473,31 +2447,23 @@ Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1170/017
+EU/1/16/1170/017 (14 film-coated tablets)
 
-(14 film-coated tablets)
+EU/1/16/1170/018 (28 film-coated tablets)
 
-EU/1/16/1170/018
-
-(28 film-coated tablets)
-
-EU/1/16/1170/019
-
-(28 x 1 film-coated tablets)
+EU/1/16/1170/019 (28 x 1 film-coated tablets)
 
 ## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Olumiant 1 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2513,17 +2479,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| CALENDAR BLISTERS FOR 1 MGFILM-COATED TABLETS       |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| CALENDAR BLISTERS FOR 1 MG FILM-COATED TABLETS        |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Olumiant 1 mg tablets baricitinib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Lilly
 
@@ -2540,17 +2506,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-Mon.
-
-Tue.
-
-Wed.
-
-Thu.
-
-Fri.
-
-Sat.
+Mon. Tue. Wed. Thu. Fri. Sat.
 
 Sun.
 
@@ -2558,23 +2514,30 @@ Sun.
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS PERFORATED UNIT DOSE BLISTERS FOR 1 MG FILM-COATED TABLETS
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Olumiant 1 mg tablets baricitinib
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Lilly
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2593,19 +2556,12 @@ Each tablet contains 2 mg baricitinib
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 14 film-coated tablets
-
 - 28 film-coated tablets
-
 - 35 film-coated tablets
-
 - 56 film-coated tablets
-
 - 84 film-coated tablets
-
 - 98 film-coated tablets
-
 - 28 x 1 film-coated tablets
-
 - 84 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -2628,8 +2584,6 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -2638,37 +2592,21 @@ Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1170/001
+EU/1/16/1170/001 (14 film-coated tablets)
 
-(14 film-coated tablets)
+EU/1/16/1170/002 (28 film-coated tablets)
 
-EU/1/16/1170/002
+EU/1/16/1170/003 (28 x 1 film-coated tablets)
 
-(28 film-coated tablets)
+EU/1/16/1170/004 (35 film-coated tablets)
 
-EU/1/16/1170/003
+EU/1/16/1170/005 (56 film-coated tablets)
 
-(28 x 1 film-coated tablets)
+EU/1/16/1170/006 (84 film-coated tablets)
 
-EU/1/16/1170/004
+EU/1/16/1170/007 (84 x 1 film-coated tablets)
 
-(35 film-coated tablets)
-
-EU/1/16/1170/005
-
-(56 film-coated tablets)
-
-EU/1/16/1170/006
-
-(84 film-coated tablets)
-
-EU/1/16/1170/007
-
-(84 x 1 film-coated tablets)
-
-EU/1/16/1170/008
-
-(98 film-coated tablets)
+EU/1/16/1170/008 (98 film-coated tablets)
 
 ## 13. BATCH NUMBER
 
@@ -2696,17 +2634,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| CALENDAR BLISTERS FOR 2 MGFILM-COATED TABLETS       |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| CALENDAR BLISTERS FOR 2 MG FILM-COATED TABLETS        |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Olumiant 2 mg tablets baricitinib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Lilly
 
@@ -2753,11 +2691,13 @@ Lilly
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2778,19 +2718,12 @@ Each tablet contains 4 mg baricitinib
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 14 film-coated tablets
-
 - 28 film-coated tablets
-
 - 35 film-coated tablets
-
 - 56 film-coated tablets
-
 - 84 film-coated tablets
-
 - 98 film-coated tablets
-
 - 28 x 1 film-coated tablets
-
 - 84 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -2815,7 +2748,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2823,44 +2756,29 @@ Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1170/009
+EU/1/16/1170/009 (14 film-coated tablets)
 
-(14 film-coated tablets)
+EU/1/16/1170/010 (28 film-coated tablets)
 
-EU/1/16/1170/010
+EU/1/16/1170/011 (28 x 1 film-coated tablets)
 
-(28 film-coated tablets)
+EU/1/16/1170/012 (35 film-coated tablets)
 
-EU/1/16/1170/011
+EU/1/16/1170/013 (56 film-coated tablets)
 
-(28 x 1 film-coated tablets)
+EU/1/16/1170/014 (84 film-coated tablets)
 
-EU/1/16/1170/012
+EU/1/16/1170/015 (84 x 1 film-coated tablets)
 
-(35 film-coated tablets)
-
-EU/1/16/1170/013
-
-(56 film-coated tablets)
-
-EU/1/16/1170/014
-
-(84 film-coated tablets)
-
-EU/1/16/1170/015
-
-(84 x 1 film-coated tablets)
-
-EU/1/16/1170/016
-
-(98 film-coated tablets)
+EU/1/16/1170/016 (98 film-coated tablets)
 
 ## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
+
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2880,17 +2798,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| CALENDAR BLISTERS FOR 4 MGFILM-COATED TABLETS       |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## CALENDAR BLISTERS FOR 4 MG FILM-COATED TABLETS
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Olumiant 4 mg tablets baricitinib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Lilly
 
@@ -2907,17 +2825,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-Mon.
-
-Tue.
-
-Wed.
-
-Thu.
-
-Fri.
-
-Sat.
+Mon. Tue. Wed. Thu. Fri. Sat.
 
 Sun.
 
@@ -2925,7 +2833,8 @@ Sun.
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS PERFORATED UNIT DOSE BLISTERS FOR 4 MG FILM-COATED TABLETS
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Olumiant 4 mg tablets baricitinib
 
@@ -2933,15 +2842,20 @@ Olumiant 4 mg tablets baricitinib
 
 Lilly
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2999,18 +2913,18 @@ After first opening: store the bottle upright and between 10°C and 30°C.
 
 Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
-12. MARKETING AUTHORISATION NUMBER(S)
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1170/020 EU/1/16/1170/021
+EU/1/16/1170/020
+
+EU/1/16/1170/021
 
 ## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Olumiant 2 mg/mL
@@ -3029,31 +2943,37 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS BOTTLE LABEL FOR ORAL SUSPENSION
+## BOTTLE LABEL FOR ORAL SUSPENSION
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Olumiant 2 mg/mL oral suspension baricitinib Oral use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Read the package leaflet before use
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 30 mL 7.5 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Open date:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
@@ -3071,10 +2991,10 @@ baricitinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, or pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, or pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3123,43 +3043,43 @@ Olumiant can be used alone or together with methotrexate.
 
 ## Do not take Olumiant
 
-- -if you are allergic to baricitinib or any of the other ingredients of this medicine (listed in section 6).
-- -if you are pregnant or think you may be pregnant.
+- if you are allergic to baricitinib or any of the other ingredients of this medicine (listed in section 6).
+- if you are pregnant or think you may be pregnant.
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before and during treatment with Olumiant if you:
 
-- -are older than 65. Patients aged 65 years and older may be at increased risk of infections, heart problems including heart attack and some types of cancer. Your doctor will discuss with you if Olumiant is appropriate for you
-- -have an infection, or if you often get infections. Tell your doctor if you get symptoms such as fever, wounds, feeling more tired than usual or dental problems as these can be signs of infection. Olumiant can reduce your body's ability to fight infections and may make an existing infection worse or increase the chance of you getting a new infection. If you have diabetes or are older than 65 you may have an increased chance of getting infections
-- -have, or have previously had, tuberculosis. You may need tests to check for tuberculosis before you are given Olumiant. Tell your doctor if you get persistent cough, fever, night sweats and weight loss during Olumiant treatment as these can be signs of tuberculosis
-- -have had a herpes infection (shingles), because Olumiant may allow it to come back. Tell your doctor if you get painful skin rash with blisters during Olumiant treatment as these can be signs of shingles
-- -have, or have previously had, hepatitis B or C
-- -are due to have a vaccine. You should not be given certain (live) vaccines while using Olumiant
-- -have or have had cancer, smoke or have smoked in the past, because your doctor will discuss with you if Olumiant is appropriate for you
-- -have poor liver function
-- -have, or have had, heart problems, because your doctor will discuss with you if Olumiant is appropriate for you
-- -have previously had blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism), or have an increased risk for developing this (for example: if you had recent major surgery, if you use hormonal contraceptives\\hormonal replacement therapy, or if a
+- are older than 65. Patients aged 65 years and older may be at increased risk of infections, heart problems including heart attack and some types of cancer. Your doctor will discuss with you if Olumiant is appropriate for you
+- have an infection, or if you often get infections. Tell your doctor if you get symptoms such as fever, wounds, feeling more tired than usual or dental problems as these can be signs of infection. Olumiant can reduce your body's ability to fight infections and may make an existing infection worse or increase the chance of you getting a new infection. If you have diabetes or are older than 65 you may have an increased chance of getting infections
+- have, or have previously had, tuberculosis. You may need tests to check for tuberculosis before you are given Olumiant. Tell your doctor if you get persistent cough, fever, night sweats and weight loss during Olumiant treatment as these can be signs of tuberculosis
+- have had a herpes infection (shingles), because Olumiant may allow it to come back. Tell your doctor if you get painful skin rash with blisters during Olumiant treatment as these can be signs of shingles
+- have, or have previously had, hepatitis B or C
+- are due to have a vaccine. You should not be given certain (live) vaccines while using Olumiant
+- have or have had cancer, smoke or have smoked in the past, because your doctor will discuss with you if Olumiant is appropriate for you
+- have poor liver function
+- have, or have had, heart problems, because your doctor will discuss with you if Olumiant is appropriate for you
+- have previously had blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism), or have an increased risk for developing this (for example: if you had recent major surgery, if you use hormonal contraceptives\\hormonal replacement therapy, or if a
 
 <div style=\"page-break-after: always\"></div>
 
 coagulation defect is identified in you or your close relatives). Your doctor will discuss with you if Olumiant is appropriate for you. Tell your doctor if you get sudden shortness of breath or difficulty breathing, chest pain or pain in upper back, swelling of the leg or arm, leg pain or tenderness, or redness or discoloration in the leg or arm as these can be signs of blood clots in the veins
 
-- -have had diverticulitis (a type of inflammation of the large intestine) or ulcers in stomach or intestines (see section 4)
-- -Non-melanoma skin cancer has been observed in patients taking Olumiant. Your doctor may recommend that you have regular skin examinations while taking Olumiant. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor.
+- have had diverticulitis (a type of inflammation of the large intestine) or ulcers in stomach or intestines (see section 4)
+- Non-melanoma skin cancer has been observed in patients taking Olumiant. Your doctor may recommend that you have regular skin examinations while taking Olumiant. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor.
 
 If you notice any of the following serious side effects, you need to tell a doctor straight away:
 
-- -wheezing
-- -severe dizziness or light-headedness
-- -swelling of the lips, tongue or throat
-- -hives (itching or skin rash)
-- -severe abdominal pain especially accompanied with fever, nausea and vomiting.
-- -severe chest pain or tightness (that may spread to arms, jaw, neck, back)
-- -shortness of breath
-- -cold sweat
-- -one-sided weakness in arm and/or leg
-- -slurred speech
+- wheezing
+- severe dizziness or light-headedness
+- swelling of the lips, tongue or throat
+- hives (itching or skin rash)
+- severe abdominal pain especially accompanied with fever, nausea and vomiting.
+- severe chest pain or tightness (that may spread to arms, jaw, neck, back)
+- shortness of breath
+- cold sweat
+- one-sided weakness in arm and/or leg
+- slurred speech
 
 You may need blood tests before you start Olumiant, or while you are taking it, to check if you have a low red blood cell count (anaemia), low white blood cell count (neutropenia or lymphopenia), high blood fat (cholesterol) or high levels of liver enzymes, to ensure that treatment with Olumiant is not causing problems.
 
@@ -3177,13 +3097,13 @@ Tell your doctor or pharmacist if you are taking, have recently taken, or might 
 
 In particular, tell your doctor or pharmacist before taking Olumiant if you are taking any other medicine such as:
 
-- -probenecid (for gout), since this medicine may increase the levels of Olumiant in your blood. If you are taking probenecid, the recommended dose of Olumiant for adults is 2 mg once a day and for children and adolescents the dose should be reduced by half.
-- -injectable anti-rheumatic medicine
-- -injectable medicines that depress the immune system, including so called targeted biologic (antibody) therapies
-- -medicines which are used to control the body's immune response, such as azathioprine, tacrolimus or ciclosporin
-- -other medicines belonging to the group of Janus kinase inhibitors
-- -medicines that may increase your risk of diverticulitis such as a non-steroidal anti-inflammatory medicines (usually used to treat painful and/or inflammatory conditions of muscle or joints) and/or opioids (used to treat severe pain), and/or corticosteroids (usually used to treat inflammatory conditions) (see section 4)
-- -medicines to treat diabetes or if you have diabetes. Your doctor may decide if you need less anti-diabetic medicine while taking Olumiant.
+- probenecid (for gout), since this medicine may increase the levels of Olumiant in your blood. If you are taking probenecid, the recommended dose of Olumiant for adults is 2 mg once a day and for children and adolescents the dose should be reduced by half.
+- injectable anti-rheumatic medicine
+- injectable medicines that depress the immune system, including so called targeted biologic (antibody) therapies
+- medicines which are used to control the body's immune response, such as azathioprine, tacrolimus or ciclosporin
+- other medicines belonging to the group of Janus kinase inhibitors
+- medicines that may increase your risk of diverticulitis such as a non-steroidal anti-inflammatory medicines (usually used to treat painful and/or inflammatory conditions of muscle or joints) and/or opioids (used to treat severe pain), and/or corticosteroids (usually used to treat inflammatory conditions) (see section 4)
+- medicines to treat diabetes or if you have diabetes. Your doctor may decide if you need less anti-diabetic medicine while taking Olumiant.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3201,7 +3121,7 @@ Olumiant has no effect on the ability to drive and use machines.
 
 ## Olumiant contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially \"sodium-free\".
 
 ## 3. How to take Olumiant
 
@@ -3231,13 +3151,13 @@ If you have reduced kidney function, the recommended dose of Olumiant should be 
 
 For paediatric patients who are unable to swallow whole tablets, the tablets may be dispersed in water:
 
-- -Place whole tablet in a container with 5-10 mL of water at room temperature and gently swirl to disperse (break apart) tablet. It may take up to 10 minutes for the tablet to disperse into a cloudy pale pink suspension. Some settling may occur.
-- -After the tablet is dispersed, gently swirl again and then swallow mixture immediately
-- -Add 5-10 mL of room temperature water to the container, swirl to collect any remaining medicine, and swallow the mixture immediately to ensure full dose is delivered.
+- Place whole tablet in a container with 5-10 mL of water at room temperature and gently swirl to disperse (break apart) tablet. It may take up to 10 minutes for the tablet to disperse into a cloudy pale pink suspension. Some settling may occur.
+- After the tablet is dispersed, gently swirl again and then swallow mixture immediately
+- Add 5-10 mL of room temperature water to the container, swirl to collect any remaining medicine, and swallow the mixture immediately to ensure full dose is delivered.
 
 <div style=\"page-break-after: always\"></div>
 
-## Only water should be used to disperse the tablet.
+Only water should be used to disperse the tablet.
 
 After the tablet is dispersed in water it can be used for up to 4 hours if kept at room temperature. If a tablet is dispersed in water and only part of the dispersed dose is taken, wait until the next day to take the next scheduled dose.
 
@@ -3253,9 +3173,9 @@ If you take more Olumiant than you should, contact your doctor. You may get some
 
 ## If you forget to take Olumiant
 
-- -If you miss a dose, take it as soon as you remember.
-- -If you forget your dose for an entire day, just skip the missed dose and take only a single dose as usual the following day.
-- -Do not take a double dose to make up for a forgotten tablet.
+- If you miss a dose, take it as soon as you remember.
+- If you forget your dose for an entire day, just skip the missed dose and take only a single dose as usual the following day.
+- Do not take a double dose to make up for a forgotten tablet.
 
 ## If you stop taking Olumiant
 
@@ -3269,12 +3189,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-## Infection such as shingles and pneumonia , which may affect up to 1 in 10 people:
+## Infection such as shingles and pneumonia, which may affect up to 1 in 10 people:
 
 Tell your doctor or seek medical help immediately if you get the following symptoms, which may be signs of:
 
-- -shingles (herpes zoster): painful skin rash with blisters and fever (this was very rare in atopic dermatitis and uncommon in alopecia areata)
-- -pneumonia: persistent cough, fever, shortness of breath, and tiredness (this was uncommon in atopic dermatitis and alopecia areata)
+- shingles (herpes zoster): painful skin rash with blisters and fever (this was very rare in atopic dermatitis and uncommon in alopecia areata)
+- pneumonia: persistent cough, fever, shortness of breath, and tiredness (this was uncommon in atopic dermatitis and alopecia areata)
 
 Serious pneumonia and serious herpes zoster were uncommon.
 
@@ -3282,44 +3202,44 @@ Serious pneumonia and serious herpes zoster were uncommon.
 
 ## Very common (may affect more than 1 in 10 people)
 
-- -throat and nose infections
-- -high levels of blood fat (cholesterol) shown by blood test
+- throat and nose infections
+- high levels of blood fat (cholesterol) shown by blood test
 
 ## Common (may affect up to 1 in 10 people)
 
-- -cold sores (herpes simplex)
-- -infection causing a sick stomach or diarrhoea (gastroenteritis)
-- -urinary infection
-- -high number of platelets (cells involved in blood clotting), shown by blood test (this was uncommon in atopic dermatitis and alopecia areata)
-- -headache
-- -feeling sick in the stomach (nausea; this was uncommon in atopic dermatitis)
+- cold sores (herpes simplex)
+- infection causing a sick stomach or diarrhoea (gastroenteritis)
+- urinary infection
+- high number of platelets (cells involved in blood clotting), shown by blood test (this was uncommon in atopic dermatitis and alopecia areata)
+- headache
+- feeling sick in the stomach (nausea; this was uncommon in atopic dermatitis)
 
 <div style=\"page-break-after: always\"></div>
 
-- -stomach pain (this was uncommon in alopecia areata)
-- -high levels of liver enzymes, shown by blood test (this was uncommon in atopic dermatitis)
-- -rash
-- -acne (this was uncommon in rheumatoid arthritis)
-- -increase in an enzyme called creatine kinase, shown by a blood test (this was uncommon in rheumatoid arthritis)
-- -inflammation (swelling) of the hair follicles particularly in the scalp region associated with hair regrowth (observed in alopecia areata)
+- stomach pain (this was uncommon in alopecia areata)
+- high levels of liver enzymes, shown by blood test (this was uncommon in atopic dermatitis)
+- rash
+- acne (this was uncommon in rheumatoid arthritis)
+- increase in an enzyme called creatine kinase, shown by a blood test (this was uncommon in rheumatoid arthritis)
+- inflammation (swelling) of the hair follicles particularly in the scalp region associated with hair regrowth (observed in alopecia areata)
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- -low number of white bloods cells (neutrophils), shown by blood test
-- -high levels of blood fat (triglycerides), shown by blood test
-- -high levels of liver enzymes, shown by blood test (this was common in alopecia areata)
-- -weight gain
-- -swelling of the face
-- -urticaria
-- -blood clots in the blood vessels of the lungs
-- -blood clot in the veins of the legs or pelvis, called a deep vein thrombosis (DVT)
-- -diverticulitis (painful inflammation of small pockets in the lining of your intestine)
+- low number of white bloods cells (neutrophils), shown by blood test
+- high levels of blood fat (triglycerides), shown by blood test
+- high levels of liver enzymes, shown by blood test (this was common in alopecia areata)
+- weight gain
+- swelling of the face
+- urticaria
+- blood clots in the blood vessels of the lungs
+- blood clot in the veins of the legs or pelvis, called a deep vein thrombosis (DVT)
+- diverticulitis (painful inflammation of small pockets in the lining of your intestine)
 
 ## Children and adolescents
 
-- -Polyarticular juvenile idiopathic arthritis, enthesitis-related arthritis and juvenile psoriatic arthritis: In a study of children 2 years of age and older with polyarticular juvenile idiopathic arthritis, enthesitis-related arthritis and juvenile psoriatic arthritis, headache was very common, low number of white blood cells and blood clots in the lungs were common (1 out of 82 children each).
-- -Paediatric atopic dermatitis: In a study of children 2 years of age and older with atopic dermatitis, side effects were consistent with those seen in adult patients with the exception of low number of white bloods cells (neutrophils), which was more common compared to adults.
-- -Adolescents with alopecia areata: In a study of adolescents 12 years of age and older with alopecia areata, side effects were consistent with those seen in adult patients with the exception of acne and low number of white bloods cells (neutrophils), which were more common compared to adults.
+- Polyarticular juvenile idiopathic arthritis, enthesitis-related arthritis and juvenile psoriatic arthritis: In a study of children 2 years of age and older with polyarticular juvenile idiopathic arthritis, enthesitis-related arthritis and juvenile psoriatic arthritis, headache was very common, low number of white blood cells and blood clots in the lungs were common (1 out of 82 children each).
+- Paediatric atopic dermatitis: In a study of children 2 years of age and older with atopic dermatitis, side effects were consistent with those seen in adult patients with the exception of low number of white bloods cells (neutrophils), which was more common compared to adults.
+- Adolescents with alopecia areata: In a study of adolescents 12 years of age and older with alopecia areata, side effects were consistent with those seen in adult patients with the exception of acne and low number of white bloods cells (neutrophils), which were more common compared to adults.
 
 ## Reporting of side effects
 
@@ -3341,16 +3261,16 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Olumiant contains
 
-- -The active substance is baricitinib. Each tablet contains 1, 2 or 4 milligrams of baricitinib.
-- -The other ingredients are: microcrystalline cellulose, croscarmellose sodium (see section 2 'Olumiant contains sodium'), magnesium stearate, mannitol, iron oxide red (E172), lecithin (soya) (E322), macrogol, poly (vinyl alcohol), talc and titanium dioxide (E171).
+- The active substance is baricitinib. Each tablet contains 1, 2 or 4 milligrams of baricitinib.
+- The other ingredients are: microcrystalline cellulose, croscarmellose sodium (see section 2 \"Olumiant contains sodium\"), magnesium stearate, mannitol, iron oxide red (E172), lecithin (soya) (E322), macrogol, poly (vinyl alcohol), talc and titanium dioxide (E171).
 
 ## What Olumiant looks like and contents of the pack
 
-Olumiant 1 mg film-coated tablets are very light pink, 6.75 mm round tablets, with 'Lilly' on one side and '1' on the other.
+Olumiant 1 mg film-coated tablets are very light pink, 6.75 mm round tablets, with \"Lilly\" on one side and \"1\" on the other.
 
-Olumiant 2 mg film-coated tablets are light pink, 9 x 7.5 mm oblong tablets, with 'Lilly' on one side and '2' on the other.
+Olumiant 2 mg film-coated tablets are light pink, 9 x 7.5 mm oblong tablets, with \"Lilly\" on one side and \"2\" on the other.
 
-Olumiant 4 mg film-coated tablets are medium pink, 8.5 mm round tablets, with 'Lilly' on one side and '4' on the other.
+Olumiant 4 mg film-coated tablets are medium pink, 8.5 mm round tablets, with \"Lilly\" on one side and \"4\" on the other.
 
 The tablets are rounded and have hollow sides to help you pick them up.
 
@@ -3358,7 +3278,7 @@ Olumiant 1 mg is available in blister packs of 14 and 28 tablets in calendar bli
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V.,  Orteliuslaan 1000, 3528 BD, Utrecht, The Netherlands.
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD, Utrecht, The Netherlands.
 
 ## Manufacturer
 
@@ -3368,23 +3288,13 @@ For any information about this medicine, please contact the local representative
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
-
-## Lietuva
-
-Eli Lilly Lietuva
-
-Tel. +370 (5) 2649600
-
-## България
-
-ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
-
-## Luxembourg/Luxemburg
-
 Eli Lilly Benelux S.A./N.V.
 
 Tél/Tel: + 32-(0)2 548 84 84
+
+## България
+
+ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
 
 ## Česká republika
 
@@ -3392,23 +3302,11 @@ ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
 
-## Magyarország
-
-Lilly Hungária Kft.
-
-Tel: + 36 1 328 5100
-
 ## Danmark
 
 Eli Lilly Danmark A/S
 
 Tlf.: +45 45 26 60 00
-
-## Malta
-
-Charles de Giorgio Ltd.
-
-Tel: + 356 25600 500
 
 ## Deutschland
 
@@ -3416,15 +3314,37 @@ Lilly Deutschland GmbH
 
 Tel. + 49-(0) 6172 273 2222
 
+## Eesti
+
+Eli Lilly Nederland B.V.
+
+## Lietuva
+
+Eli Lilly Lietuva Tel. +370 (5) 2649600
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
+
+## Magyarország
+
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
+
+## Malta
+
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
+
 ## Nederland
 
 Eli Lilly Nederland B.V.
 
 Tel: + 31-(0) 30 60 25 800
-
-## Eesti
-
-Eli Lilly Nederland B.V.
 
 ## Norge
 
@@ -3434,9 +3354,11 @@ Eli Lilly Norge A.S.
 
 Tel: +372 6 817 280
 
+Tlf: + 47 22 88 18 00
+
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ -ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ-ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -3486,9 +3408,7 @@ Phadisco Ltd
 
 Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
 
-Tel:
-
-+ 371 67364000
+Tel: +371 67364000
 
 ## This leaflet was last revised in
 
@@ -3507,8 +3427,6 @@ This document contains important information you should be aware of before and d
 ## Pregnancy:
 
 - Do not take Olumiant if you are pregnant or suspect you may be pregnant.
-
-Tlf: + 47 22 88 18 00
 
 ## Österreich
 
@@ -3560,67 +3478,26 @@ Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
-Keep this information with you and share it with other healthcare professionals involved in your medical care or treatment.
-
-## Your name:
-
-\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-
-Doctor's name (who prescribed Olumiant):
-
-\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-
-## Doctor's phone number:
-
-\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-
-- Use effective contraception while taking Olumiant (and for 1 week after, if you stop treatment).
-- Tell your doctor immediately if you become (or wish to become) pregnant.
-
-## Infections:
-
-Olumiant may make an existing infection worse or increase the chance of you getting a new infection or increase the chance of viral reactivation. If you have diabetes or are older than 65 you may have an increased chance of getting infections. The infection can become serious if not treated. Inform your doctor immediately if you get symptoms of infection, such as:
-
-- Fever, wounds, feeling more tired than usual, or dental problems.
-- A cough that won't go away, night sweats, and weight loss. These could be symptoms of tuberculosis (an infectious disease of the lungs).
-- A painful skin rash with blisters. This could be a sign of a herpes zoster infection.
-
-## Non-melanoma skin cancer:
-
-Non-melanoma skin cancer has been observed in patients taking Olumiant. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor.
-
-## Blood clots:
-
-Olumiant may cause a condition in which a blood clot forms in your leg that may travel to your lungs. Inform your doctor immediately if you experience any of the following symptoms:
-
-- Swelling or pain in one leg or arm
-- Warmth or redness in one leg or arm
-- Shortness of breath which is unexpected
-- Rapid breathing
-- Chest pain
-
-## Heart attack or stroke:
-
-Inform your doctor immediately if you experience any of the following:
-
-- Severe chest pain or tightness (that may spread to arms, jaw, neck, back)
-- Shortness of breath
-- Cold sweat
-- One-sided weakness in arm and/or leg
-- Slurred speech
+| Keep this information with you and share it with other healthcare professionals involved in your medical care or treatment.   | • Use effective contraception while taking Olumiant (and for 1 week after, if you stop treatment). • Tell your doctor immediately if you become (or wish to become) pregnant. Infections: Olumiant may make an existing infection worse or increase the chance of you getting a new infection or increase the chance of viral reactivation. If you have diabetes or are older than 65 you may have an increased chance of getting infections. The infection can become serious if not treated. Inform your doctor immediately if you get symptoms of infection, such as: • Fever, wounds, feeling more tired than usual, or dental problems. • A cough that won't go away, night sweats, and weight loss. These could be symptoms of tuberculosis (an infectious disease of the lungs). • A painful skin rash with blisters. This could be a sign of a herpes zoster infection. Non-melanoma skin cancer: Non-melanoma skin cancer has been observed in patients taking Olumiant. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor. Blood clots: Olumiant may cause a condition in which a blood clot forms in your leg that may travel to your lungs. Inform your doctor immediately if you experience any of the following symptoms: • Swelling or pain in one leg or arm • Warmth or redness in one leg or arm • Shortness of breath which is unexpected • Rapid breathing • Chest pain Heart attack or stroke: Inform your doctor immediately if you experience any of the following: • Severe chest pain or tightness (that may spread to arms, jaw, neck, back) • Shortness of breath • Cold sweat • One-sided weakness in arm and/or leg • Slurred speech   |
+|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Your name:                                                                                                                    | • Use effective contraception while taking Olumiant (and for 1 week after, if you stop treatment). • Tell your doctor immediately if you become (or wish to become) pregnant. Infections: Olumiant may make an existing infection worse or increase the chance of you getting a new infection or increase the chance of viral reactivation. If you have diabetes or are older than 65 you may have an increased chance of getting infections. The infection can become serious if not treated. Inform your doctor immediately if you get symptoms of infection, such as: • Fever, wounds, feeling more tired than usual, or dental problems. • A cough that won't go away, night sweats, and weight loss. These could be symptoms of tuberculosis (an infectious disease of the lungs). • A painful skin rash with blisters. This could be a sign of a herpes zoster infection. Non-melanoma skin cancer: Non-melanoma skin cancer has been observed in patients taking Olumiant. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor. Blood clots: Olumiant may cause a condition in which a blood clot forms in your leg that may travel to your lungs. Inform your doctor immediately if you experience any of the following symptoms: • Swelling or pain in one leg or arm • Warmth or redness in one leg or arm • Shortness of breath which is unexpected • Rapid breathing • Chest pain Heart attack or stroke: Inform your doctor immediately if you experience any of the following: • Severe chest pain or tightness (that may spread to arms, jaw, neck, back) • Shortness of breath • Cold sweat • One-sided weakness in arm and/or leg • Slurred speech   |
+| _______________________________________ Doctor's name (who prescribed Olumiant):                                              | • Use effective contraception while taking Olumiant (and for 1 week after, if you stop treatment). • Tell your doctor immediately if you become (or wish to become) pregnant. Infections: Olumiant may make an existing infection worse or increase the chance of you getting a new infection or increase the chance of viral reactivation. If you have diabetes or are older than 65 you may have an increased chance of getting infections. The infection can become serious if not treated. Inform your doctor immediately if you get symptoms of infection, such as: • Fever, wounds, feeling more tired than usual, or dental problems. • A cough that won't go away, night sweats, and weight loss. These could be symptoms of tuberculosis (an infectious disease of the lungs). • A painful skin rash with blisters. This could be a sign of a herpes zoster infection. Non-melanoma skin cancer: Non-melanoma skin cancer has been observed in patients taking Olumiant. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor. Blood clots: Olumiant may cause a condition in which a blood clot forms in your leg that may travel to your lungs. Inform your doctor immediately if you experience any of the following symptoms: • Swelling or pain in one leg or arm • Warmth or redness in one leg or arm • Shortness of breath which is unexpected • Rapid breathing • Chest pain Heart attack or stroke: Inform your doctor immediately if you experience any of the following: • Severe chest pain or tightness (that may spread to arms, jaw, neck, back) • Shortness of breath • Cold sweat • One-sided weakness in arm and/or leg • Slurred speech   |
+| _______________________________________ Doctor's phone number: _______________________________________                        | • Use effective contraception while taking Olumiant (and for 1 week after, if you stop treatment). • Tell your doctor immediately if you become (or wish to become) pregnant. Infections: Olumiant may make an existing infection worse or increase the chance of you getting a new infection or increase the chance of viral reactivation. If you have diabetes or are older than 65 you may have an increased chance of getting infections. The infection can become serious if not treated. Inform your doctor immediately if you get symptoms of infection, such as: • Fever, wounds, feeling more tired than usual, or dental problems. • A cough that won't go away, night sweats, and weight loss. These could be symptoms of tuberculosis (an infectious disease of the lungs). • A painful skin rash with blisters. This could be a sign of a herpes zoster infection. Non-melanoma skin cancer: Non-melanoma skin cancer has been observed in patients taking Olumiant. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor. Blood clots: Olumiant may cause a condition in which a blood clot forms in your leg that may travel to your lungs. Inform your doctor immediately if you experience any of the following symptoms: • Swelling or pain in one leg or arm • Warmth or redness in one leg or arm • Shortness of breath which is unexpected • Rapid breathing • Chest pain Heart attack or stroke: Inform your doctor immediately if you experience any of the following: • Severe chest pain or tightness (that may spread to arms, jaw, neck, back) • Shortness of breath • Cold sweat • One-sided weakness in arm and/or leg • Slurred speech   |
 
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the patient
 
-## Olumiant 2mg/mL oral suspension baricitinib
+## Olumiant 2mg/mL oral suspension
+
+## baricitinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, or pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, or pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3669,41 +3546,41 @@ Olumiant can be used alone or together with methotrexate.
 
 ## Do not take Olumiant
 
-- -if you are allergic to baricitinib or any of the other ingredients of this medicine (listed in section 6).
-- -if you are pregnant or think you may be pregnant.
+- if you are allergic to baricitinib or any of the other ingredients of this medicine (listed in section 6).
+- if you are pregnant or think you may be pregnant.
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before and during treatment with Olumiant if you:
 
-- -are older than 65. Patients aged 65 years and older may be at increased risk of infections, heart problems including heart attack and some types of cancer. Your doctor will discuss with you if Olumiant is appropriate for you
-- -have an infection, or if you often get infections. Tell your doctor if you get symptoms such as fever, wounds, feeling more tired than usual or dental problems as these can be signs of infection. Olumiant can reduce your body's ability to fight infections and may make an existing infection worse or increase the chance of you getting a new infection. If you have diabetes or are older than 65 you may have an increased chance of getting infections
-- -have, or have previously had, tuberculosis. You may need tests to check for tuberculosis before you are given Olumiant. Tell your doctor if you get persistent cough, fever, night sweats and weight loss during Olumiant treatment as these can be signs of tuberculosis
-- -have had a herpes infection (shingles), because Olumiant may allow it to come back. Tell your doctor if you get painful skin rash with blisters during Olumiant treatment as these can be signs of shingles
-- -have, or have previously had, hepatitis B or C
-- -are due to have a vaccine. You should not be given certain (live) vaccines while using Olumiant
-- -have or have had cancer, smoke or have smoked in the past, because your doctor will discuss with you if Olumiant is appropriate for you
-- -have poor liver function
-- -have, or have had, heart problems, because your doctor will discuss with you if Olumiant is appropriate for you
-- -have previously had blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism), or have an increased risk for developing this (for example: if you had recent major surgery, if you use hormonal contraceptives\\hormonal replacement therapy, or if a coagulation defect is identified in you or your close relatives). Your doctor will discuss with you if Olumiant is appropriate for you. Tell your doctor if you get sudden shortness of breath or difficulty breathing, chest pain or pain in upper back, swelling of the leg or arm, leg pain or tenderness, or redness or discoloration in the leg or arm as these can be signs of blood clots in the veins
+- are older than 65. Patients aged 65 years and older may be at increased risk of infections, heart problems including heart attack and some types of cancer. Your doctor will discuss with you if Olumiant is appropriate for you
+- have an infection, or if you often get infections. Tell your doctor if you get symptoms such as fever, wounds, feeling more tired than usual or dental problems as these can be signs of infection. Olumiant can reduce your body's ability to fight infections and may make an existing infection worse or increase the chance of you getting a new infection. If you have diabetes or are older than 65 you may have an increased chance of getting infections
+- have, or have previously had, tuberculosis. You may need tests to check for tuberculosis before you are given Olumiant. Tell your doctor if you get persistent cough, fever, night sweats and weight loss during Olumiant treatment as these can be signs of tuberculosis
+- have had a herpes infection (shingles), because Olumiant may allow it to come back. Tell your doctor if you get painful skin rash with blisters during Olumiant treatment as these can be signs of shingles
+- have, or have previously had, hepatitis B or C
+- are due to have a vaccine. You should not be given certain (live) vaccines while using Olumiant
+- have or have had cancer, smoke or have smoked in the past, because your doctor will discuss with you if Olumiant is appropriate for you
+- have poor liver function
+- have, or have had, heart problems, because your doctor will discuss with you if Olumiant is appropriate for you
+- have previously had blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism), or have an increased risk for developing this (for example: if you had recent major surgery, if you use hormonal contraceptives\\hormonal replacement therapy, or if a coagulation defect is identified in you or your close relatives). Your doctor will discuss with you if Olumiant is appropriate for you. Tell your doctor if you get sudden shortness of breath or difficulty breathing, chest pain or pain in upper back, swelling of the leg or arm, leg pain or tenderness, or redness or discoloration in the leg or arm as these can be signs of blood clots in the veins
 
 <div style=\"page-break-after: always\"></div>
 
-- -have had diverticulitis (a type of inflammation of the large intestine) or ulcers in stomach or intestines (see section 4)
-- -Non-melanoma skin cancer has been observed in patients taking Olumiant. Your doctor may recommend that you have regular skin examinations while taking Olumiant. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor.
+- have had diverticulitis (a type of inflammation of the large intestine) or ulcers in stomach or intestines (see section 4)
+- Non-melanoma skin cancer has been observed in patients taking Olumiant. Your doctor may recommend that you have regular skin examinations while taking Olumiant. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor.
 
 If you notice any of the following serious side effects, you need to tell a doctor straight away:
 
-- -wheezing
-- -severe dizziness or light-headedness
-- -swelling of the lips, tongue or throat
-- -hives (itching or skin rash)
-- -severe abdominal pain especially accompanied with fever, nausea and vomiting.
-- -severe chest pain or tightness (that may spread to arms, jaw, neck, back)
-- -shortness of breath
-- -cold sweat
-- -one-sided weakness in arm and/or leg
-- -slurred speech
+- wheezing
+- severe dizziness or light-headedness
+- swelling of the lips, tongue or throat
+- hives (itching or skin rash)
+- severe abdominal pain especially accompanied with fever, nausea and vomiting.
+- severe chest pain or tightness (that may spread to arms, jaw, neck, back)
+- shortness of breath
+- cold sweat
+- one-sided weakness in arm and/or leg
+- slurred speech
 
 You may need blood tests before you start Olumiant, or while you are taking it, to check if you have a low red blood cell count (anaemia), low white blood cell count (neutropenia or lymphopenia), high blood fat (cholesterol) or high levels of liver enzymes, to ensure that treatment with Olumiant is not causing problems.
 
@@ -3721,13 +3598,13 @@ Tell your doctor or pharmacist if you are taking, have recently taken, or might 
 
 In particular, tell your doctor or pharmacist before taking Olumiant if you are taking any other medicine such as:
 
-- -probenecid (for gout), since this medicine may increase the levels of Olumiant in your blood. If you are taking probenecid, the recommended dose of Olumiant for adults is 2 mg once a day and for children and adolescents the dose should be reduced by half.
-- -injectable anti-rheumatic medicine
-- -injectable medicines that depress the immune system, including so called targeted biologic (antibody) therapies
-- -medicines which are used to control the body's immune response, such as azathioprine, tacrolimus or ciclosporin
-- -other medicines belonging to the group of Janus kinase inhibitors
-- -medicines that may increase your risk of diverticulitis such as a non-steroidal anti-inflammatory medicines (usually used to treat painful and/or inflammatory conditions of muscle or joints) and/or opioids (used to treat severe pain), and/or corticosteroids (usually used to treat inflammatory conditions) (see section 4)
-- -medicines to treat diabetes or if you have diabetes. Your doctor may decide if you need less anti-diabetic medicine while taking Olumiant.
+- probenecid (for gout), since this medicine may increase the levels of Olumiant in your blood. If you are taking probenecid, the recommended dose of Olumiant for adults is 2 mg once a day and for children and adolescents the dose should be reduced by half.
+- injectable anti-rheumatic medicine
+- injectable medicines that depress the immune system, including so called targeted biologic (antibody) therapies
+- medicines which are used to control the body's immune response, such as azathioprine, tacrolimus or ciclosporin
+- other medicines belonging to the group of Janus kinase inhibitors
+- medicines that may increase your risk of diverticulitis such as a non-steroidal anti-inflammatory medicines (usually used to treat painful and/or inflammatory conditions of muscle or joints) and/or opioids (used to treat severe pain), and/or corticosteroids (usually used to treat inflammatory conditions) (see section 4)
+- medicines to treat diabetes or if you have diabetes. Your doctor may decide if you need less anti-diabetic medicine while taking Olumiant.
 
 ## Pregnancy and breast-feeding
 
@@ -3753,11 +3630,11 @@ This medicine contains 105 mg sorbitol in each mL. Sorbitol is a source of fruct
 
 ## Olumiant contains benzyl alcohol (E1519)
 
-This medicine contains 0.24 mg benzyl alcohol in each mL. Benzyl alcohol may cause allergic reactions. Ask your doctor, nurse or pharmacist for advice if you have a liver or kidney disease. This is because large amounts of benzyl alcohol can build-up in your body and may cause side effects (called 'metabolic acidosis'). Do not use for more than a week in young children (less than 3 years old), unless advised by your doctor or pharmacist.
+This medicine contains 0.24 mg benzyl alcohol in each mL. Benzyl alcohol may cause allergic reactions. Ask your doctor, nurse or pharmacist for advice if you have a liver or kidney disease. This is because large amounts of benzyl alcohol can build-up in your body and may cause side effects (called \"metabolic acidosis\"). Do not use for more than a week in young children (less than 3 years old), unless advised by your doctor or pharmacist.
 
 ## Olumiant contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per mL, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per mL, that is to say essentially \"sodium-free\".
 
 ## 3. How to take Olumiant
 
@@ -3801,9 +3678,9 @@ If you take more Olumiant than you should, contact your doctor. You may get some
 
 ## If you forget to take Olumiant
 
-- -If you miss a dose, take it as soon as you remember.
-- -If you forget your dose for an entire day, just skip the missed dose and take only a single dose as usual the following day.
-- -Do not take a double dose to make up for a forgotten dose.
+- If you miss a dose, take it as soon as you remember.
+- If you forget your dose for an entire day, just skip the missed dose and take only a single dose as usual the following day.
+- Do not take a double dose to make up for a forgotten dose.
 
 ## If you stop taking Olumiant
 
@@ -3817,12 +3694,12 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-## Infection such as shingles and pneumonia , which may affect up to 1 in 10 people:
+## Infection such as shingles and pneumonia, which may affect up to 1 in 10 people:
 
 Tell your doctor or seek medical help immediately if you get the following symptoms, which may be signs of:
 
-- -shingles (herpes zoster): painful skin rash with blisters and fever (this was very rare in atopic dermatitis and uncommon in alopecia areata)
-- -pneumonia: persistent cough, fever, shortness of breath, and tiredness (this was uncommon in atopic dermatitis and alopecia areata)
+- shingles (herpes zoster): painful skin rash with blisters and fever (this was very rare in atopic dermatitis and uncommon in alopecia areata)
+- pneumonia: persistent cough, fever, shortness of breath, and tiredness (this was uncommon in atopic dermatitis and alopecia areata)
 
 Serious pneumonia and serious herpes zoster were uncommon.
 
@@ -3830,44 +3707,43 @@ Serious pneumonia and serious herpes zoster were uncommon.
 
 ## Very common (may affect more than 1 in 10 people)
 
-- -throat and nose infections
-- -high levels of blood fat (cholesterol) shown by blood test
+- throat and nose infections
+- high levels of blood fat (cholesterol) shown by blood test
 
 <div style=\"page-break-after: always\"></div>
 
 ## Common (may affect up to 1 in 10 people)
 
-- -cold sores (herpes simplex)
-- -infection causing a sick stomach or diarrhoea (gastroenteritis)
-- -urinary infection
-- -high number of platelets (cells involved in blood clotting), shown by blood test (this was uncommon in atopic dermatitis and alopecia areata)
-- -headache
-- -feeling sick in the stomach (nausea; this was uncommon in atopic dermatitis)
-- -stomach pain (this was uncommon in alopecia areata)
-- -high levels of liver enzymes, shown by blood test (this was uncommon in atopic dermatitis)
-- -rash
-- -acne (this was uncommon in rheumatoid arthritis)
-- -increase in an enzyme called creatine kinase, shown by a blood test (this was uncommon in rheumatoid arthritis)
-- -inflammation (swelling) of the hair follicles particularly in the scalp region associated with hair regrowth (observed in alopecia areata)
+- cold sores (herpes simplex)
+- infection causing a sick stomach or diarrhoea (gastroenteritis)
+- urinary infection
+- high number of platelets (cells involved in blood clotting), shown by blood test (this was uncommon in atopic dermatitis and alopecia areata)
+- headache
+- feeling sick in the stomach (nausea; this was uncommon in atopic dermatitis)
+- stomach pain (this was uncommon in alopecia areata)
+- high levels of liver enzymes, shown by blood test (this was uncommon in atopic dermatitis)
+- rash
+- acne (this was uncommon in rheumatoid arthritis)
+- increase in an enzyme called creatine kinase, shown by a blood test (this was uncommon in rheumatoid arthritis)
+- inflammation (swelling) of the hair follicles particularly in the scalp region associated with hair regrowth (observed in alopecia areata)
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- -low number of white bloods cells (neutrophils), shown by blood test
-- -high levels of blood fat (triglycerides), shown by blood test
-- -high levels of liver enzymes, shown by blood test (this was common in alopecia areata)
-- -weight gain
-- -swelling of the face
-- -urticaria
-- -blood clots in the blood vessels of the lungs
-- -blood clot in the veins of the legs or pelvis, called a deep vein thrombosis (DVT)
-- -diverticulitis (painful inflammation of small pockets in the lining of your intestine)
+- low number of white bloods cells (neutrophils), shown by blood test
+- high levels of blood fat (triglycerides), shown by blood test
+- high levels of liver enzymes, shown by blood test (this was common in alopecia areata)
+- weight gain
+- swelling of the face
+- urticaria
+- blood clots in the blood vessels of the lungs
+- blood clot in the veins of the legs or pelvis, called a deep vein thrombosis (DVT)
+- diverticulitis (painful inflammation of small pockets in the lining of your intestine)
 
 ## Children and adolescents
 
-- -Polyarticular juvenile idiopathic arthritis, enthesitis-related arthritis and juvenile
-- psoriatic arthritis: In a study of children 2 years of age and older with polyarticular juvenile idiopathic arthritis, enthesitis-related arthritis and juvenile psoriatic arthritis, headache was very common, low number of white blood cells and blood clots in the lungs were common (1 out of 82 children each).
-- -Paediatric atopic dermatitis: In a study of children 2 years of age and older with atopic dermatitis, side effects were consistent with those seen in adult patients with the exception of low number of white bloods cells (neutrophils), which was more common compared to adults.
-- -Adolescents with alopecia areata: In a study of adolescents 12 years of age and older with alopecia areata, side effects were consistent with those seen in adult patients with the exception of acne and low number of white bloods cells (neutrophils), which were more common compared to adults.
+- Polyarticular juvenile idiopathic arthritis, enthesitis-related arthritis and juvenile psoriatic arthritis: In a study of children 2 years of age and older with polyarticular juvenile idiopathic arthritis, enthesitis-related arthritis and juvenile psoriatic arthritis, headache was very common, low number of white blood cells and blood clots in the lungs were common (1 out of 82 children each).
+- Paediatric atopic dermatitis: In a study of children 2 years of age and older with atopic dermatitis, side effects were consistent with those seen in adult patients with the exception of low number of white bloods cells (neutrophils), which was more common compared to adults.
+- Adolescents with alopecia areata: In a study of adolescents 12 years of age and older with alopecia areata, side effects were consistent with those seen in adult patients with the exception of acne and low number of white bloods cells (neutrophils), which were more common compared to adults.
 
 ## Reporting of side effects
 
@@ -3891,16 +3767,16 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Olumiant contains
 
-- -The active substance is baricitinib. Each mL contains 2 mg of baricitinib.
-- -The other ingredients are: xanthan gum [(E415)], microcrystalline cellulose [(E460)], carmellose sodium [(E466)], citric acid monohydrate [(E330)], sodium citrate [(E331)], sodium benzoate [(E211)], silica colloidal anhydrous [(E551)], sorbitol liquid (crystallising) [(E420)], polysorbate 80 [(E433)], sucralose [(E955)], simethicone emulsion 30% (containing dimethylpolysiloxane [(E900)], methylcellulose [(E461)], sorbic acid [E200]), water), orange flavour [(contains propylene glycol [(E1520)], benzyl alcohol [(E1519), and flavouring agents)], purified water. See section 2 'Olumiant contains' for more information about sodium benzoate, sorbitol, benzyl alcohol and sodium.
+- The active substance is baricitinib. Each mL contains 2 mg of baricitinib.
+- The other ingredients are: xanthan gum [(E415)], microcrystalline cellulose [(E460)], carmellose sodium [(E466)], citric acid monohydrate [(E330)], sodium citrate [(E331)], sodium benzoate [(E211)], silica colloidal anhydrous [(E551)], sorbitol liquid (crystallising) [(E420)], polysorbate 80 [(E433)], sucralose [(E955)], simethicone emulsion 30% (containing dimethylpolysiloxane [(E900)], methylcellulose [(E461)], sorbic acid [E200]), water), orange flavour [(contains propylene glycol [(E1520)], benzyl alcohol [(E1519), and flavouring agents)], purified water. See section 2 \"Olumiant contains\" for more information about sodium benzoate, sorbitol, benzyl alcohol and sodium.
 
 ## What Olumiant looks like and contents of the pack
 
 Olumiant 2 mg/mL oral suspension is a white to practically white aqueous suspension.
 
-Olumiant 2 mg/mL oral suspension 7.5 mL bottle : Olumiant is packaged in a bottle containing 7.5 mL of oral suspension and child-resistant closure, inside a carton. Each carton contains one bottle, a 1 mL graduated syringe with 0.25 mL graduations and a press-in-bottle adaptor.
+Olumiant 2 mg/mL oral suspension 7.5 mL bottle: Olumiant is packaged in a bottle containing 7.5 mL of oral suspension and child-resistant closure, inside a carton. Each carton contains one bottle, a 1 mL graduated syringe with 0.25 mL graduations and a press-in-bottle adaptor.
 
-Olumiant 2 mg/mL oral suspension 30 mL bottle : Olumiant is packaged in a bottle containing 30 mL of oral suspension and child-resistant closure, inside a carton. Each carton contains one bottle, a 2 mL graduated syringe with 0.25 mL graduations and a press-in-bottle adaptor.
+Olumiant 2 mg/mL oral suspension 30 mL bottle: Olumiant is packaged in a bottle containing 30 mL of oral suspension and child-resistant closure, inside a carton. Each carton contains one bottle, a 2 mL graduated syringe with 0.25 mL graduations and a press-in-bottle adaptor.
 
 ## Marketing Authorisation Holder
 
@@ -3918,27 +3794,27 @@ Eli Lilly Benelux S.A./N.V.
 
 Tél/Tel: + 32-(0)2 548 84 84
 
-## Lietuva
-
-Eli Lilly Lietuva
-
-Tel. +370 (5) 2649600
-
 ## България
 
-ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
-
-## Luxembourg/Luxemburg
-
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+ТП \"Ели Лили Недерланд\" Б.В. - България тел. + 359 2 491 41 40
 
 ## Česká republika
 
 ELI LILLY ČR, s.r.o.
 
 Tel: + 420 234 664 111
+
+## Lietuva
+
+Eli Lilly Lietuva
+
+Tel. +370 (5) 2649600
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
 
 ## Magyarország
 
@@ -3968,7 +3844,7 @@ Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+ΦΑΡΜΑΣΕΡΒ-ΛΙΛΛΥ Α.Ε.Β.Ε.
 
 Τηλ: +30 210 629 4600
 
@@ -4018,9 +3894,7 @@ Phadisco Ltd
 
 Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
 
-Tel:
-
-+ 371 67364000
+Tel: +371 67364000
 
 ## This leaflet was last revised in
 
@@ -4100,7 +3974,9 @@ Tel: + 46-(0) 8 7378800
 
 --------------------------------------------------------------------------------------------------------------------------
 
-## Information for Patients about OLUMIANT (baricitinib)
+## Information for Patients about OLUMIANT
+
+## (baricitinib)
 
 This document contains important information you should be aware of before and during treatment with Olumiant.
 
@@ -4179,17 +4055,15 @@ Do not let your child take the medicine without your help.
 
 Do not use if bottle, adaptor, or oral dosing syringe is damaged.
 
-Do not use the medicine if the bottle has been open for more than 90 days . See the Disposal section to find out what to do with the medicine you don't use.
+Do not use the medicine if the bottle has been open for more than 90 days. See the Disposal section to find out what to do with the medicine you don't use.
 
-Record date of first opening of bottle here:
-
-\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+## Record date of first opening of bottle here: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 Do not wash the oral dosing syringe with soap or detergent. Please see steps 4b - 4c for cleaning instructions.
 
 Do not put the oral dosing syringe in the dishwasher. The syringe may not work as well as it should.
 
-Use a new oral dosing syringe after 30 days . If you need an additional oral dosing syringe call Lilly Your doctor or pharmacist will advise you how the medicine can be mixed with milk, orange juice or water.
+Use a new oral dosing syringe after 30 days. If you need an additional oral dosing syringe call Lilly Your doctor or pharmacist will advise you how the medicine can be mixed with milk, orange juice or water.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4205,11 +4079,11 @@ In case of overdose, contact your doctor, pharmacist or nurse immediately. Quick
 
 <!-- image -->
 
-<!-- image -->
+1b Gather the medicine bottle and adaptor.
 
 <!-- image -->
 
-Gather the medicine bottle and adaptor.
+<!-- image -->
 
 Wash your hands with soap and water.
 
@@ -4223,7 +4097,7 @@ Prior to the first use only, push the adaptor all the way down into the opening 
 
 <!-- image -->
 
-The adaptor represents a CHOKING HAZARD small parts. It must be inserted completely into the bottle for safe use.
+The adaptor represents a CHOKING HAZARD - small parts. It must be inserted completely into the bottle for safe use.
 
 Do not attach the oral dosing syringe to the adaptor until the adaptor is fully inserted into the bottle.
 
@@ -4241,17 +4115,11 @@ Do not twist the adaptor.
 
 2b
 
-<!-- image -->
-
 2c
-
-2d
-
-<!-- image -->
 
 ## Screw the cap back on the bottle tightly.
 
-The cap will fit over the adaptor .
+The cap will fit over the adaptor.
 
 ## Gather the medicine bottle with adaptor inserted and oral dosing syringe.
 
@@ -4267,13 +4135,19 @@ Shake again if the bottle sits longer than 15 minutes.
 
 ## Remove the cap from the bottle.
 
+2d
+
 ## Firmly insert the oral dosing syringe into the opening of the adaptor.
 
 Make sure the syringe tip is fully inside the adaptor and the plunger is pushed all the way to the syringe tip.
 
+<!-- image -->
+
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
-2e
+## 2e
 
 2f
 
@@ -4305,7 +4179,7 @@ The graduation mark is located on the plunger of the oral dosing syringe.
 
 Make sure the top edge of the graduation mark is aligned to the bottom of the flange.
 
-Turn the bottle upright and check closely for air gaps in the oral dosing syringe.
+## Turn the bottle upright and check closely for air gaps in the oral dosing syringe.
 
 <!-- image -->
 
@@ -4353,17 +4227,15 @@ Do not remove the adaptor. The cap will fit over it.
 
 <!-- image -->
 
-Do not wash the oral dosing syringe with soap or detergent.
-
 <!-- image -->
+
+Do not wash the oral dosing syringe with soap or detergent.
 
 - Do not remove the plunger from the oral dosing syringe.
 
-Fill a cup with clean water, insert the oral dosing syringe, and pull the plunger up to fill the syringe with water .
+Fill a cup with clean water, insert the oral dosing syringe, and pull the plunger up to fill the syringe with water.
 
 <div style=\"page-break-after: always\"></div>
-
-4c
 
 <!-- image -->
 
@@ -4422,4 +4294,4 @@ Wash your hands with soap and water.
 - Call your doctor, pharmacist or nurse
 - Call Lilly
 
-Read the full package leaflet for OLUMIANT inside the carton to learn more about your medicine.
+## Read the full package leaflet for OLUMIANT inside the carton to learn more about your medicine.

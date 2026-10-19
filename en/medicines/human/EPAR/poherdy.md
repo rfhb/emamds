@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-05-27 15:04:00
+document_datetime: 2026-10-14 15:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/poherdy.html
 document_name: poherdy.html
 version: success
-processing_time: 0.1072938
-conversion_datetime: 2026-05-29 20:15:24.479769
+processing_time: 0.1577824
+conversion_datetime: 2026-10-19 23:49:59.543555
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.96.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Poherdy
 
 [RSS](/en/individual-human-medicine.xml/274661)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -51,13 +51,13 @@ Poherdy is a cancer medicine used to treat adults with certain types of HER2-pos
 - locally advanced, inflammatory or early-stage breast cancer at high risk of coming back. In this case, Poherdy is used in combination with trastuzumab and chemotherapy before the patient undergoes surgery;
 - early breast cancer at high risk of coming back. In this case, Poherdy is used in combination with trastuzumab and chemotherapy, after the patient has had surgery.
 
-Poherdy contains the active substance pertuzumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Poherdy is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Poherdy is Perjeta. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Poherdy contains the active substance pertuzumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Poherdy is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Poherdy is Perjeta.
 
 Expand section
 
 Collapse section
 
-## How is Poherdy used?
+### How is Poherdy used?
 
 Poherdy can only be obtained with a prescription. Treatment should be started under the supervision of a doctor experienced in using cancer medicines. It must be given by a doctor or nurse trained to manage severe allergic reactions, at a hospital where resuscitation equipment is readily available.
 
@@ -67,11 +67,11 @@ In people with early-stage or locally advanced breast cancer, those treated with
 
 For more information about using Poherdy, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Poherdy work?
+### How does Poherdy work?
 
 The active substance in Poherdy, pertuzumab, is a monoclonal antibody (a type of protein) designed to attach to HER2, a protein found on HER2-positive cancer cells. By attaching to HER2, pertuzumab stops it producing signals that cause the cancer cells to grow. It also activates cells of the immune system (the body's natural defences), which then kill the cancer cells.
 
-## What benefits of Poherdy have been shown in studies?
+### What benefits of Poherdy have been shown in studies?
 
 Laboratory studies comparing Poherdy with Perjeta have shown that the active substance in Poherdy is highly similar to that in Perjeta in terms of structure, purity and biological activity. Studies have also shown that giving Poherdy produces similar levels of the active substance in the body to those seen with Perjeta.
 
@@ -81,7 +81,7 @@ Because Poherdy is a biosimilar medicine, the studies on the effectiveness of pe
 
 Studies carried out with Poherdy are described in more detail in the medicine's assessment report.
 
-## What are the side effects and restrictions associated with Poherdy?
+### What are the side effects and restrictions associated with Poherdy?
 
 The safety of Poherdy has been evaluated and, based on all the studies carried out, the side effects of the medicine are considered to be comparable to those of Perjeta.
 
@@ -93,7 +93,7 @@ Some side effects can be serious. The most frequent (which may affect more than 
 
 Poherdy must not be used in people with hereditary fructose intolerance, a rare genetic condition in which the body cannot break down fructose (a type of sugar).
 
-## Why is Poherdy authorised in the EU?
+### Why is Poherdy authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Poherdy has a highly similar structure, purity and biological activity to Perjeta and is distributed in the body in the same way.
 
@@ -103,13 +103,13 @@ All these data were considered sufficient to conclude that Poherdy will have the
 
 Therefore, the Agency's view was that, as for Perjeta, the benefits of Poherdy outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Poherdy?
+### What measures are being taken to ensure the safe and effective use of Poherdy?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Poherdy have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Poherdy are continuously monitored. Suspected side effects reported with Poherdy are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Poherdy
+### Other information about Poherdy
 
 Poherdy received a marketing authorisation valid throughout the EU on 23 April 2026.
 
@@ -123,7 +123,7 @@ English (EN) (158.06 KB - PDF)
 
 [View](/en/documents/overview/poherdy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-465)
+[Other languages (22)](#file-language-dropdown-116)
 
 български (BG) (171.11 KB - PDF)
 
@@ -155,7 +155,7 @@ Deutsch (DE) (149.55 KB - PDF)
 
 [View](/de/documents/overview/poherdy-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (143.54 KB - PDF)
+eesti (ET) (143.54 KB - PDF)
 
 **First published:** 26/05/2026
 
@@ -185,13 +185,13 @@ italiano (IT) (144.62 KB - PDF)
 
 [View](/it/documents/overview/poherdy-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (175.74 KB - PDF)
+latviešu (LV) (175.74 KB - PDF)
 
 **First published:** 26/05/2026
 
 [View](/lv/documents/overview/poherdy-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (168.29 KB - PDF)
+lietuvių (LT) (168.29 KB - PDF)
 
 **First published:** 26/05/2026
 
@@ -245,7 +245,7 @@ slovenščina (SL) (167.87 KB - PDF)
 
 [View](/sl/documents/overview/poherdy-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (142.87 KB - PDF)
+suomi (FI) (142.87 KB - PDF)
 
 **First published:** 26/05/2026
 
@@ -269,167 +269,168 @@ English (EN) (948.79 KB - PDF)
 
 Poherdy : EPAR - Product information
 
-English (EN) (554.63 KB - PDF)
+English (EN) (557.04 KB - PDF)
 
-**First published:** 26/05/2026 **Last updated:** 27/05/2026
+**First published:** 26/05/2026 **Last updated:** 14/10/2026
 
 [View](/en/documents/product-information/poherdy-epar-product-information_en.pdf)
 
 [Other languages (24)](#file-language-dropdown-348)
 
-български (BG) (910.63 KB - PDF)
+български (BG) (912.98 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/bg/documents/product-information/poherdy-epar-product-information_bg.pdf)
 
-español (ES) (658.55 KB - PDF)
+español (ES) (662.54 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/es/documents/product-information/poherdy-epar-product-information_es.pdf)
 
-čeština (CS) (804.81 KB - PDF)
+čeština (CS) (805.51 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/cs/documents/product-information/poherdy-epar-product-information_cs.pdf)
 
-dansk (DA) (571.66 KB - PDF)
+dansk (DA) (583.25 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/da/documents/product-information/poherdy-epar-product-information_da.pdf)
 
-Deutsch (DE) (653.4 KB - PDF)
+Deutsch (DE) (695.31 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/de/documents/product-information/poherdy-epar-product-information_de.pdf)
 
-eesti keel (ET) (784.96 KB - PDF)
+eesti (ET) (786.73 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/et/documents/product-information/poherdy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (913.11 KB - PDF)
+ελληνικά (EL) (919.66 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/el/documents/product-information/poherdy-epar-product-information_el.pdf)
 
-français (FR) (894.11 KB - PDF)
+français (FR) (886.08 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/fr/documents/product-information/poherdy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (858.79 KB - PDF)
+hrvatski (HR) (816.52 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/hr/documents/product-information/poherdy-epar-product-information_hr.pdf)
 
-íslenska (IS) (500.49 KB - PDF)
-
-**First published:** 26/05/2026 **Last updated:** 27/05/2026
-
-[View](/is/documents/product-information/poherdy-epar-product-information_is.pdf)
-
-italiano (IT) (908.1 KB - PDF)
+italiano (IT) (971.38 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/it/documents/product-information/poherdy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (799.4 KB - PDF)
+latviešu (LV) (851.9 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/lv/documents/product-information/poherdy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (715.24 KB - PDF)
+lietuvių (LT) (773.49 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/lt/documents/product-information/poherdy-epar-product-information_lt.pdf)
 
-magyar (HU) (962.17 KB - PDF)
+magyar (HU) (963.35 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/hu/documents/product-information/poherdy-epar-product-information_hu.pdf)
 
-Malti (MT) (610.61 KB - PDF)
+Malti (MT) (656.97 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/mt/documents/product-information/poherdy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (579.52 KB - PDF)
+Nederlands (NL) (700.69 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/nl/documents/product-information/poherdy-epar-product-information_nl.pdf)
 
-norsk (NO) (703.21 KB - PDF)
-
-**First published:** 26/05/2026 **Last updated:** 27/05/2026
-
-[View](/no/documents/product-information/poherdy-epar-product-information_no.pdf)
-
-polski (PL) (621.96 KB - PDF)
+polski (PL) (643.97 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/pl/documents/product-information/poherdy-epar-product-information_pl.pdf)
 
-português (PT) (1.22 MB - PDF)
+português (PT) (910.7 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/pt/documents/product-information/poherdy-epar-product-information_pt.pdf)
 
-română (RO) (1003.07 KB - PDF)
+română (RO) (1011.53 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/ro/documents/product-information/poherdy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (634.72 KB - PDF)
+slovenčina (SK) (638.38 KB - PDF)
 
-**First published:** 26/05/2026 **Last updated:** 27/05/2026
+**First published:** 26/05/2026 **Last updated:** 14/10/2026
 
 [View](/sk/documents/product-information/poherdy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (669.34 KB - PDF)
+slovenščina (SL) (671.03 KB - PDF)
 
-**First published:** 26/05/2026 **Last updated:** 27/05/2026
+**First published:** 26/05/2026 **Last updated:** 14/10/2026
 
 [View](/sl/documents/product-information/poherdy-epar-product-information_sl.pdf)
 
-Suomi (FI) (721.62 KB - PDF)
+suomi (FI) (724.96 KB - PDF)
 
 **First published:** 26/05/2026 **Last updated:** 27/05/2026
 
 [View](/fi/documents/product-information/poherdy-epar-product-information_fi.pdf)
 
-svenska (SV) (693.04 KB - PDF)
+svenska (SV) (697.28 KB - PDF)
 
-**First published:** 26/05/2026 **Last updated:** 27/05/2026
+**First published:** 26/05/2026 **Last updated:** 14/10/2026
 
 [View](/sv/documents/product-information/poherdy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000348769
+Íslenska (IS) (505.49 KB - PDF)
 
-21/05/2026
+**First published:** 26/05/2026 **Last updated:** 14/10/2026
+
+[View](/is/documents/product-information/poherdy-epar-product-information_is.pdf)
+
+norsk (NO) (810.41 KB - PDF)
+
+**First published:** 26/05/2026 **Last updated:** 27/05/2026
+
+[View](/no/documents/product-information/poherdy-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000358569
+
+29/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -447,7 +448,7 @@ English (EN) (41.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/poherdy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-452)
+[Other languages (24)](#file-language-dropdown-520)
 
 български (BG) (50.29 KB - PDF)
 
@@ -479,7 +480,7 @@ Deutsch (DE) (43.5 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/poherdy-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (39.33 KB - PDF)
+eesti (ET) (39.33 KB - PDF)
 
 **First published:** 26/05/2026
 
@@ -503,25 +504,19 @@ hrvatski (HR) (44.47 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/poherdy-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (42.81 KB - PDF)
-
-**First published:** 26/05/2026
-
-[View](/is/documents/all-authorised-presentations/poherdy-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (40.64 KB - PDF)
 
 **First published:** 26/05/2026
 
 [View](/it/documents/all-authorised-presentations/poherdy-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (47.18 KB - PDF)
+latviešu (LV) (47.18 KB - PDF)
 
 **First published:** 26/05/2026
 
 [View](/lv/documents/all-authorised-presentations/poherdy-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (46.84 KB - PDF)
+lietuvių (LT) (46.84 KB - PDF)
 
 **First published:** 26/05/2026
 
@@ -544,12 +539,6 @@ Nederlands (NL) (42.24 KB - PDF)
 **First published:** 26/05/2026
 
 [View](/nl/documents/all-authorised-presentations/poherdy-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (45.86 KB - PDF)
-
-**First published:** 26/05/2026
-
-[View](/no/documents/all-authorised-presentations/poherdy-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (48.31 KB - PDF)
 
@@ -581,7 +570,7 @@ slovenščina (SL) (43.71 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/poherdy-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (39.43 KB - PDF)
+suomi (FI) (39.43 KB - PDF)
 
 **First published:** 26/05/2026
 
@@ -593,27 +582,30 @@ svenska (SV) (43.41 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/poherdy-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (42.81 KB - PDF)
+
+**First published:** 26/05/2026
+
+[View](/is/documents/all-authorised-presentations/poherdy-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (45.86 KB - PDF)
+
+**First published:** 26/05/2026
+
+[View](/no/documents/all-authorised-presentations/poherdy-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Poherdy
-
-Active substance
-
-pertuzumab
-
-International non-proprietary name (INN) or common name
-
-pertuzumab
-
-Therapeutic area (MeSH)
-
-Breast Neoplasms
-
-Anatomical therapeutic chemical (ATC) code
-
-L01FD02
+- **Name of medicine**
+    - Poherdy
+- **Active substance**
+    - pertuzumab
+- **International non-proprietary name (INN) or common name**
+    - pertuzumab
+- **Therapeutic area (MeSH)**
+    - Breast Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FD02
 
 ### Pharmacotherapeutic group
 
@@ -621,39 +613,32 @@ Antineoplastic agents
 
 ### Therapeutic indication
 
-Early breast cancer Poherdy is indicated for use in combination with trastuzumab and chemotherapy in: - the neoadjuvant treatment of adult patients with HER2-positive, locally advanced, inflammatory, or early stage breast cancer at high risk of recurrence - the adjuvant treatment of adult patients with HER2-positive early breast cancer at high risk of recurrence Metastatic breast cancer Poherdy is indicated for use in combination with trastuzumab and docetaxel in adult patients with HER2-positive metastatic or locally recurrent unresectable breast cancer, who have not received previous anti-HER2 therapy or chemotherapy for their metastatic disease.
+Early breast cancer  
+Poherdy is indicated for use in combination with trastuzumab and chemotherapy in:  
+- the neoadjuvant treatment of adult patients with HER2-positive, locally advanced, inflammatory, or early stage breast cancer at high risk of recurrence  
+- the adjuvant treatment of adult patients with HER2-positive early breast cancer at high risk of recurrence
+
+Metastatic breast cancer  
+Poherdy is indicated for use in combination with trastuzumab and docetaxel in adult patients with HER2-positive metastatic or locally recurrent unresectable breast cancer, who have not received previous anti-HER2 therapy or chemotherapy for their metastatic disease.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006583
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Organon N.V.
-
-Kloosterstraat 6
-
-Opinion adopted
-
-26/02/2026
-
-Marketing authorisation issued
-
-23/04/2026
-
-Revision
-
-1
+- **EMA product number**
+    - EMEA/H/C/006583
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Organon N.V. Kloosterstraat 6  
+5349 AB Oss  
+The Netherlands
+- **Opinion adopted**
+    - 26/02/2026
+- **Marketing authorisation issued**
+    - 23/04/2026
+- **Revision**
+    - 2
 
 ## Assessment history
 
@@ -661,17 +646,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Poherdy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.94 KB - PDF)
+English (EN) (146.4 KB - PDF)
 
-**First published:** 27/05/2026
+**First published:** 27/05/2026 **Last updated:** 14/10/2026
 
 [View](/en/documents/procedural-steps-after/poherdy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Poherdy : EPAR - Public assessment report
 
@@ -701,6 +686,6 @@ English (EN) (141.23 KB - PDF)
 
 **This page was last updated on**
 
-27/05/2026
+14/10/2026
 
 ## Share this page

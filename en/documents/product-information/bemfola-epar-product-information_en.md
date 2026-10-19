@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-25 10:31:57
-document_pages: 54
+document_datetime: 2026-10-13 11:49:13
+document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bemfola-epar-product-information_en.pdf
 document_name: bemfola-epar-product-information_en.pdf
 version: success
-processing_time: 13.8667554
-conversion_datetime: 2026-03-29 12:50:56.644878
+processing_time: 12.8592374
+conversion_datetime: 2026-10-19 22:45:35.777946
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,15 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Bemfola 75 IU/0.125 mL solution for injection in pre-filled pen Bemfola 150 IU/0.25 mL solution for injection in pre-filled pen Bemfola 225 IU/0.375 mL solution for injection in pre-filled pen Bemfola 300 IU/0.50 mL solution for injection in pre-filled pen Bemfola 450 IU/0.75 mL solution for injection in pre-filled pen
+Bemfola 75 IU/0.125 mL solution for injection in pre-filled pen
+
+Bemfola 150 IU/0.25 mL solution for injection in pre-filled pen
+
+Bemfola 225 IU/0.375 mL solution for injection in pre-filled pen
+
+Bemfola 300 IU/0.50 mL solution for injection in pre-filled pen
+
+Bemfola 450 IU/0.75 mL solution for injection in pre-filled pen
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -34,13 +42,17 @@ Bemfola 75 IU/0.125 mL solution for injection in pre-filled pen: Each pre-filled
 
 Bemfola 150 IU/0.25 mL solution for injection in pre-filled pen: Each pre-filled pen delivers 150 IU (equivalent to 11 micrograms) in 0.25 mL. Each Bemfola 150 IU pen can deliver the following doses: 75 IU / 87.5 IU / 100 IU / 112.5 IU / 125 IU / 137.5 IU / 150 IU
 
+Bemfola 225 IU/0.375 mL solution for injection in pre-filled pen:
+
 Each pre-filled pen delivers 225 IU (equivalent to 16.5 micrograms) in 0.375 mL. Each Bemfola 225 IU pen can deliver the following doses: 150 IU / 162.5 IU / 175 IU / 187.5 IU /
 
-Bemfola 225 IU/0.375 mL solution for injection in pre-filled pen: 200 IU / 212.5 IU / 225 IU
+200 IU / 212.5 IU / 225 IU
 
 Bemfola 300 IU/0.50 mL solution for injection in pre-filled pen: Each pre-filled pen delivers 300 IU (equivalent to 22 micrograms) in 0.5 mL. Each Bemfola 300 IU pen can deliver the following doses: 225 IU / 237.5 IU / 250 IU / 262.5 IU / 275 IU / 287.5 IU / 300 IU
 
-Bemfola 450 IU/0.75 mL solution for injection in pre-filled pen: Each pre-filled pen delivers 450 IU (equivalent to 33 micrograms) in 0.75 mL. Each Bemfola 450 IU pen can deliver the following doses: 300 IU / 325 IU / 337.5 IU / 350 IU / 375 IU / 400 IU / 412.5 IU / 425 IU / 450 IU
+Bemfola 450 IU/0.75 mL solution for injection in pre-filled pen:
+
+Each pre-filled pen delivers 450 IU (equivalent to 33 micrograms) in 0.75 mL. Each Bemfola 450 IU pen can deliver the following doses: 300 IU / 325 IU / 337.5 IU / 350 IU / 375 IU / 400 IU / 412.5 IU / 425 IU / 450 IU
 
 * recombinant human follicle stimulating hormone (r-hFSH) produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology.
 
@@ -98,11 +110,9 @@ The patient's response should be closely monitored by measuring follicle size an
 
 If a patient fails to respond adequately (either low or excessive ovarian response), continuation of that treatment cycle should be evaluated and managed according to the physician's standard of care. In cases of low response, the daily dose should not exceed 225 IU FSH.
 
-If an excessive ovarian response is obtained according to the physician's assessment, treatment should be stopped and hCG withheld (see section 4.4). Treatment should recommence in the next cycle at a
+If an excessive ovarian response is obtained according to the physician's assessment, treatment should be stopped and hCG withheld (see section 4.4). Treatment should recommence in the next cycle at a dose lower than that of the previous cycle.
 
 <div style=\"page-break-after: always\"></div>
-
-dose lower than that of the previous cycle.
 
 ## Final follicular maturation
 
@@ -257,11 +267,9 @@ Women with a history of tubal disease are at risk of ectopic pregnancy, whether 
 
 ## Reproductive system neoplasms
 
-There have been reports of ovarian and other reproductive system neoplasms, both benign and
+There have been reports of ovarian and other reproductive system neoplasms, both benign and malignant, in women who have undergone multiple treatment regimens for infertility treatment. It is not yet established whether or not treatment with gonadotropins increases the risk of these tumours in infertile women.
 
 <div style=\"page-break-after: always\"></div>
-
-malignant, in women who have undergone multiple treatment regimens for infertility treatment. It is not yet established whether or not treatment with gonadotropins increases the risk of these tumours in infertile women.
 
 ## Congenital malformation
 
@@ -279,7 +287,7 @@ Semen analysis is recommended 4 to 6 months after the beginning of treatment as 
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially \"sodium-free\".
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -319,21 +327,17 @@ Thromboembolism may occur very rarely (see section 4.4).
 
 ## List of adverse reactions
 
-The following definitions apply to the frequency terminology used hereafter: very common (≥ 1/10), c ommon (≥ 1/100 to &lt; 1/10), u ncommon (≥ 1/1,000 to &lt; 1/100), r are (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000).
+The following definitions apply to the frequency terminology used hereafter: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000).
 
 ## Treatment in women
 
 ## Immune system disorders
 
-Very rare:
-
-Mild to severe hypersensitivity reactions including anaphylactic reactions and shock
+Very rare: Mild to severe hypersensitivity reactions including anaphylactic reactions and shock
 
 ## Nervous system disorders
 
-Very common:
-
-Headache
+Very common: Headache
 
 ## Vascular disorders
 
@@ -355,9 +359,7 @@ Abdominal pain, abdominal distension, abdominal discomfort, nausea, vomiting, di
 
 ## Reproductive system and breast disorders
 
-Very common:
-
-Ovarian cysts
+Very common: Ovarian cysts
 
 Common:
 
@@ -381,9 +383,7 @@ Injection site reactions (e.g. pain, erythema, haematoma, swelling and/or irrita
 
 ## Immune system disorders
 
-Very rare:
-
-Mild to severe hypersensitivity reactions including anaphylactic reactions and shock
+Very rare: Mild to severe hypersensitivity reactions including anaphylactic reactions and shock
 
 Respiratory, thoracic and mediastinal disorders
 
@@ -411,9 +411,7 @@ Injection site reactions (e.g. pain, erythema, haematoma, swelling and/or irrita
 
 Investigations
 
-Common:
-
-Weight gain
+Common: Weight gain
 
 ## Reporting of suspected adverse reactions
 
@@ -488,7 +486,7 @@ Impaired fertility has been reported in rats exposed to pharmacological doses of
 
 <div style=\"page-break-after: always\"></div>
 
-Given in high doses ( ≥ 5 IU/kg/day) follitropin alfa caused a decrease in the number of viable foetuses without being teratogenic, and dystocia similar to that observed with urinary menopausal gonadotropin (hMG). However, since follitropin alfa is not indicated in pregnancy, these data are of limited clinical relevance.
+Given in high doses (≥ 5 IU/kg/day) follitropin alfa caused a decrease in the number of viable foetuses without being teratogenic, and dystocia similar to that observed with urinary menopausal gonadotropin (hMG). However, since follitropin alfa is not indicated in pregnancy, these data are of limited clinical relevance.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -534,7 +532,7 @@ Bemfola 300 IU/0.50 mL:
 
 Each cartridge contains 0.5 mL solution for injection.
 
-## Bemfola 450 IU/0.75 mL:
+Bemfola 450 IU/0.75 mL:
 
 Each cartridge contains 0.75 mL solution for injection.
 
@@ -558,7 +556,7 @@ For instructions on the administration with the pre-filled pen, see the package 
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
+Gedeon Richter Plc. Gyömrői út 19-21. 1103 Budapest Hungary
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -570,7 +568,7 @@ EU/1/13/909/006
 
 EU/1/13/909/007
 
-## Bemfola 150 IU/0.25 mL:
+Bemfola 150 IU/0.25 mL:
 
 EU/1/13/909/002
 
@@ -635,7 +633,7 @@ Austria
 
 Name and address of the manufacturer responsible for batch release
 
-Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
+Gedeon Richter Plc. Gyömrői út 19-21. 1103 Budapest Hungary
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -672,7 +670,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## BOX OF 1, 5 OR 10 PRE-FILLED PENS
+BOX OF 1, 5 OR 10 PRE-FILLED PENS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -738,7 +736,7 @@ Within its shelf-life, the unopened product may be stored at or below 25°C for 
 
 Gedeon Richter Plc.
 
-Gyömrői út 19 -21.
+Gyömrői út 19-21.
 
 1103 Budapest
 
@@ -758,7 +756,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -771,8 +769,8 @@ Bemfola 75 IU/0.125 mL
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -780,17 +778,17 @@ PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Bemfola 75 IU/0.125 mL injection follitropin alfa SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -802,8 +800,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.125 mL
 
@@ -812,7 +810,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING BOX OF 1, 5 OR 10 PRE-FILLED PENS
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## BOX OF 1, 5 OR 10 PRE-FILLED PENS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -872,13 +872,13 @@ Store in the original package in order to protect from light.
 
 Within its shelf-life, the unopened product may be stored at or below 25°C for up to 3 months without being refrigerated again and must be discarded if it has not been used after 3 months.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Gedeon Richter Plc.
 
-Gyömrői út 19 -21.
+Gyömrői út 19-21.
 
 1103 Budapest
 
@@ -911,24 +911,24 @@ Bemfola 150 IU/0.25 mL
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Bemfola 150 IU/0.25 mL injection follitropin alfa SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -940,8 +940,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.25 mL
 
@@ -950,7 +950,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING BOX OF 1, 5 OR 10 PRE-FILLED PENS
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## BOX OF 1, 5 OR 10 PRE-FILLED PENS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1016,7 +1018,7 @@ Within its shelf-life, the unopened product may be stored at or below 25°C for 
 
 Gedeon Richter Plc.
 
-Gyömrői út 19 -21.
+Gyömrői út 19-21.
 
 1103 Budapest
 
@@ -1049,24 +1051,24 @@ Bemfola 225 IU/0.375 mL
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Bemfola 225 IU/0.375 mL injection follitropin alfa SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1078,8 +1080,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.375 mL
 
@@ -1154,7 +1156,7 @@ Within its shelf-life, the unopened product may be stored at or below 25°C for 
 
 Gedeon Richter Plc.
 
-Gyömrői út 19 -21.
+Gyömrői út 19-21.
 
 1103 Budapest
 
@@ -1187,24 +1189,24 @@ Bemfola 300 IU/0.5 mL
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Bemfola 300 IU/0.5 mL injection follitropin alfa SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1216,8 +1218,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 mL
 
@@ -1226,7 +1228,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING BOX OF 1, 5 OR 10 PRE-FILLED PENS
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## BOX OF 1, 5 OR 10 PRE-FILLED PENS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1292,7 +1296,7 @@ Within its shelf-life, the unopened product may be stored at or below 25°C for 
 
 Gedeon Richter Plc.
 
-Gyömrői út 19 -21.
+Gyömrői út 19-21.
 
 1103 Budapest
 
@@ -1325,24 +1329,24 @@ Bemfola 450 IU/0.75 mL
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Bemfola 450 IU/0.75 mL injection follitropin alfa SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1354,8 +1358,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.75 mL
 
@@ -1372,14 +1376,14 @@ Lot
 
 Bemfola 75 IU/0.125 mL solution for injection in pre-filled pen Bemfola 150 IU/0.25 mL solution for injection in pre-filled pen Bemfola 225 IU/0.375 mL solution for injection in pre-filled pen Bemfola 300 IU/0.50 mL solution for injection in pre-filled pen Bemfola 450 IU/0.75 mL solution for injection in pre-filled pen
 
-## follitropin alfa
+follitropin alfa
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects,talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects,talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1394,19 +1398,19 @@ Bemfola 75 IU/0.125 mL solution for injection in pre-filled pen Bemfola 150 IU/0
 
 ## What Bemfola is
 
-Bemfola contains a medicine called 'follitropin alfa'. Follitropin alfa is a type of 'follicle stimulating hormone' (FSH) which belongs to the family of hormones called 'gonadotropins'. Gonadotropins are involved in reproduction and fertility.
+Bemfola contains a medicine called \"follitropin alfa\". Follitropin alfa is a type of \"follicle stimulating hormone\" (FSH) which belongs to the family of hormones called \"gonadotropins\". Gonadotropins are involved in reproduction and fertility.
 
 ## What Bemfola is used for
 
-## In adult women , Bemfola is used:
+## In adult women, Bemfola is used:
 
-- to help release an egg from the ovary (ovulation) in women that cannot ovulate and that did not respond to treatment with a medicine called 'clomiphene citrate'.
-- together with another medicine called 'lutropin alfa' ('luteinising hormone' or LH) to help release an egg from the ovary (ovulation) in women whose body is producing very little gonadotropins (FSH and LH).
-- to help develop several follicles (each containing an egg) in women undergoing assisted reproductive technology procedures (procedures that may help you to become pregnant) such as 'in vitro fertilisation', 'gamete intra-fallopian transfer' or 'zygote intra-fallopian transfer'.
+- to help release an egg from the ovary (ovulation) in women that cannot ovulate and that did not respond to treatment with a medicine called \"clomiphene citrate\".
+- together with another medicine called \"lutropin alfa\" (\"luteinising hormone\" or LH) to help release an egg from the ovary (ovulation) in women whose body is producing very little gonadotropins (FSH and LH).
+- to help develop several follicles (each containing an egg) in women undergoing assisted reproductive technology procedures (procedures that may help you to become pregnant) such as \"in vitro fertilisation\", \"gamete intra-fallopian transfer\" or \"zygote intra-fallopian transfer\".
 
-## In adult men , Bemfola is used:
+## In adult men, Bemfola is used:
 
-- together with another medicine called 'human chorionic gonadotropin' (hCG) to help produce sperm in men that are infertile due to a low level of certain hormones.
+- together with another medicine called \"human chorionic gonadotropin\" (hCG) to help produce sperm in men that are infertile due to a low level of certain hormones.
 
 ## 2. What you need to know before you use Bemfola
 
@@ -1418,13 +1422,13 @@ You and your partner's fertility should be evaluated before the treatment is sta
 
 - if you are allergic to follicle stimulating hormone or any of the other ingredients of this medicine (listed in section 6).
 - if you have a tumour in your hypothalamus or pituitary gland (both are parts of the brain).
-- if you are a woman :
-- -with large ovaries or sacs of fluids within the ovaries (ovarian cysts) of unknown origin.
-- -with unexplained vaginal bleeding.
-- -with cancer in your ovaries, womb or breasts.
-- -with a condition that usually makes normal pregnancy impossible, such as ovarian failure (early menopause), or malformed reproductive organs.
-- if you are a man :
-- -with damaged testicles that cannot be healed.
+- if you are a woman:
+- with large ovaries or sacs of fluids within the ovaries (ovarian cysts) of unknown origin.
+- with unexplained vaginal bleeding.
+- with cancer in your ovaries, womb or breasts.
+- with a condition that usually makes normal pregnancy impossible, such as ovarian failure (early menopause), or malformed reproductive organs.
+- if you are a man:
+- with damaged testicles that cannot be healed.
 
 Do not use Bemfola if any of the above applies to you. If you are not sure, talk to your doctor before using this medicine.
 
@@ -1449,7 +1453,7 @@ In case you are not ovulating, and if the recommended dose and schedule of admin
 
 ## Multiple pregnancy
 
-When using Bemfola, you have a higher risk of being pregnant with more than one child at the same time ('multiple pregnancy', mostly twins), than if you conceived naturally. Multiple pregnancy may lead to medical complications for you and your babies. You can reduce the risk of multiple pregnancy by using the right dose of Bemfola at the right times. When undergoing assisted reproductive technology, the risk of having a multiple pregnancy is related to your age, the quality and the number of fertilised eggs or embryos placed inside you .
+When using Bemfola, you have a higher risk of being pregnant with more than one child at the same time (\"multiple pregnancy\", mostly twins), than if you conceived naturally. Multiple pregnancy may lead to medical complications for you and your babies. You can reduce the risk of multiple pregnancy by using the right dose of Bemfola at the right times. When undergoing assisted reproductive technology, the risk of having a multiple pregnancy is related to your age, the quality and the number of fertilised eggs or embryos placed inside you.
 
 ## Miscarriage
 
@@ -1457,11 +1461,9 @@ When undergoing assisted reproductive technology or stimulation of your ovaries 
 
 ## Blood clotting problems (thromboembolic events)
 
-If you had in the past or recently blood clots in the leg or in the lung, or a heart attack or stroke, or if those happened in your family, then you might have a higher risk that these problems occur or become
+If you had in the past or recently blood clots in the leg or in the lung, or a heart attack or stroke, or if those happened in your family, then you might have a higher risk that these problems occur or become worse with Bemfola treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-worse with Bemfola treatment.
 
 ## Men with too much FSH in their blood
 
@@ -1476,7 +1478,7 @@ Bemfola is not indicated for use in children and adolescents below 18 years old.
 Tell your doctor if you are taking, have recently taken or might take any other medicines.
 
 - If you use Bemfola with other medicines which help ovulation (such as hCG or clomiphene citrate), this may increase the response of your follicles.
-- If you use Bemfola at the same time as a 'gonadotropin-releasing hormone' (GnRH) agonist or antagonist (these medicines reduce your sex hormone levels and stop you ovulating) you may need a higher dose of Bemfola to produce follicles.
+- If you use Bemfola at the same time as a \"gonadotropin-releasing hormone\" (GnRH) agonist or antagonist (these medicines reduce your sex hormone levels and stop you ovulating) you may need a higher dose of Bemfola to produce follicles.
 
 ## Pregnancy and breast-feeding
 
@@ -1488,7 +1490,7 @@ It is not expected that this medicine will affect your ability to drive and use 
 
 ## Bemfola contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially \"sodiumfree\".
 
 ## 3. How to use Bemfola
 
@@ -1499,7 +1501,7 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 - Bemfola is intended to be given by injection just under the skin (subcutaneously). Use each prefilled pen only once then they should be disposed of in a safe manner. Do not administered the solution if it contains particles or is not clear.
 - The first injection of Bemfola should be given under supervision of your doctor.
 - Your doctor or nurse will show you how to use the Bemfola pre-filled pen to inject the medicine yourself.
-- If you administer Bemfola to yourself, please carefully read and follow the 'Instructions for Use'. These instructions can be found at the end of the package leaflet.
+- If you administer Bemfola to yourself, please carefully read and follow the \"Instructions for Use\". These instructions can be found at the end of the package leaflet.
 
 ## How much to use
 
@@ -1507,7 +1509,7 @@ Your doctor will decide how much medicine you will take and how often. The doses
 
 ## Women
 
-## If you are not ovulating and have irregular or no periods
+If you are not ovulating and have irregular or no periods
 
 - Bemfola is usually given every day.
 - If you have irregular periods, start using Bemfola within the first 7 days of your menstrual cycle. If you do not have periods you can start using the medicine on any convenient day.
@@ -1516,28 +1518,28 @@ Your doctor will decide how much medicine you will take and how often. The doses
 <div style=\"page-break-after: always\"></div>
 
 - The daily dose of Bemfola should not exceed 225 IU (0.375 mL).
-- When you get the desired response, you will be given a single injection of 250 micrograms of 'recombinant hCG' (r-hCG, an hCG made in a laboratory by a special DNA technique), or 5 000 to 10 000 IU of hCG, 24 to 48 hours after your last Bemfola injection. The best time to have sex is on the day of the hCG injection and the day after.
+- When you get the desired response, you will be given a single injection of 250 micrograms of \"recombinant hCG\" (r-hCG, an hCG made in a laboratory by a special DNA technique), or 5 000 to 10 000 IU of hCG, 24 to 48 hours after your last Bemfola injection. The best time to have sex is on the day of the hCG injection and the day after.
 
 If your doctor cannot see a desired response, the continuation of that treatment cycle with Bemfola should be evaluated and managed accordingly to the standard clinical practice.
 
-If your body responds too strongly, your treatment will be stopped and you will not be given any hCG (see section 2, 'Ovarian hyper-stimulation syndrome (OHSS)'). For the following cycle, your doctor will give you a lower dose of Bemfola than before.
+If your body responds too strongly, your treatment will be stopped and you will not be given any hCG (see section 2, \"Ovarian hyper-stimulation syndrome (OHSS)\"). For the following cycle, your doctor will give you a lower dose of Bemfola than before.
 
-## If you have been diagnosed with very low levels of FSH and LH hormones
+If you have been diagnosed with very low levels of FSH and LH hormones
 
 - The usual starting dose of Bemfola is 75 to 150 IU (0.12 to 0.25 mL) together with 75 IU (0.12 mL) of lutropin alfa.
 - You will use these two medicines each day for up to five weeks.
 - Your dose of Bemfola may be increased every 7 or every 14 days by 37.5 to 75 IU, until you get the desired response.
-- When you get the desired response, you will be given a single injection of 250 micrograms of 'recombinant hCG' (r-hCG, an hCG made in a laboratory by a special DNA technique), or 5 000 to 10 000 IU of hCG, 24 to 48 hours after your last injections of Bemfola and lutropin alfa. The best time to have sex is on the day of the hCG injection and the day after. Alternatively, intrauterine insemination or another medically assisted reproduction procedure may be performed based on your doctor's judgment.
+- When you get the desired response, you will be given a single injection of 250 micrograms of \"recombinant hCG\" (r-hCG, an hCG made in a laboratory by a special DNA technique), or 5 000 to 10 000 IU of hCG, 24 to 48 hours after your last injections of Bemfola and lutropin alfa. The best time to have sex is on the day of the hCG injection and the day after. Alternatively, intrauterine insemination or another medically assisted reproduction procedure may be performed based on your doctor's judgment.
 
 If your doctor cannot see a response after 5 weeks, that treatment cycle with Bemfola should be stopped. For the following cycle, your doctor will give you a higher starting dose of Bemfola than before.
 
-If your body responds too strongly, your treatment with Bemfola will be stopped and you will not be given any hCG (see section 2, 'Ovarian hyper-stimulation syndrome (OHSS)'). For the following cycle, your doctor will give you a lower dose of Bemfola than before.
+If your body responds too strongly, your treatment with Bemfola will be stopped and you will not be given any hCG (see section 2, \"Ovarian hyper-stimulation syndrome (OHSS)\"). For the following cycle, your doctor will give you a lower dose of Bemfola than before.
 
-## If you need to develop several eggs for collection prior to any assisted reproductive technology
+If you need to develop several eggs for collection prior to any assisted reproductive technology
 
 - The starting dose of Bemfola isusually individualised and may be adjusted in a stepwise manner to not higher than 450 IU (0.75 mL) daily.
 - Treatment is continued until your eggs have developed to a desired point. Your doctor will use blood tests and/or an ultrasound machine to check when this is.
-- When your eggs are ready, you will be given a single injection of 250 micrograms 'recombinant hCG' (r-hCG, an hCG made in a laboratory by a special recombinant DNA technique), or 5 000 IU to 10 000 IU of hCG, 24 to 48 hours after the last Bemfola injection. This gets your eggs ready for collection.
+- When your eggs are ready, you will be given a single injection of 250 micrograms \"recombinant hCG\" (r-hCG, an hCG made in a laboratory by a special recombinant DNA technique), or 5 000 IU to 10 000 IU of hCG, 24 to 48 hours after the last Bemfola injection. This gets your eggs ready for collection.
 
 ## Men
 
@@ -1547,11 +1549,11 @@ If your body responds too strongly, your treatment with Bemfola will be stopped 
 
 ## If you use more Bemfola than you should
 
-The effects of taking too much Bemfola are unknown. Nevertheless, one could expect ovarian hyperstimulation syndrome (OHSS) to occur, which is described in section 4. However, the OHSS will only occur if hCG is also administered (see section 2, 'Ovarian hyper-stimulation syndrome (OHSS)').
-
-<div style=\"page-break-after: always\"></div>
+The effects of taking too much Bemfola are unknown. Nevertheless, one could expect ovarian hyperstimulation syndrome (OHSS) to occur, which is described in section 4. However, the OHSS will only occur if hCG is also administered (see section 2, \"Ovarian hyper-stimulation syndrome (OHSS)\").
 
 ## If you forget to use Bemfola
+
+<div style=\"page-break-after: always\"></div>
 
 If you forget to use Bemfola, do not take a double dose to make up for a forgotten dose. Please talk to your doctor as soon as you notice that you forgot a dose.
 
@@ -1563,10 +1565,10 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects in women
 
-- Lower abdominal pain together with nausea or vomiting may be the symptoms of ovarian hyper-stimulation syndrome (OHSS). This may indicate that the ovaries over-reacted to the treatment and that large ovarian cysts developed (see also section 2 'Ovarian hyper-stimulation syndrome (OHSS)'). This side effect is common (may affect up to 1 in 10 people).
+- Lower abdominal pain together with nausea or vomiting may be the symptoms of ovarian hyper-stimulation syndrome (OHSS). This may indicate that the ovaries over-reacted to the treatment and that large ovarian cysts developed (see also section 2 \"Ovarian hyper-stimulation syndrome (OHSS)\"). This side effect is common (may affect up to 1 in 10 people).
 - The OHSS may become severe with clearly enlarged ovaries, decreased urine production, weight gain, difficulty in breathing and/or possible fluid accumulation in your stomach or chest. This side effect is uncommon (may affect up to 1 in 100 people).
 - Complications of OHSS such as twisting of ovaries or blood clotting may occur rarely (may affect up to 1 in 1 000 people).
-- Serious blood clotting complications (thromboembolic events) sometimes independent of OHSS may be found very rarely (may affect up to 1 in 10 000 people). This could cause chest pain, breathlessness, stroke or heart attack (see also section 2, 'Blood clotting problems (thromboembolic events)').
+- Serious blood clotting complications (thromboembolic events) sometimes independent of OHSS may be found very rarely (may affect up to 1 in 10 000 people). This could cause chest pain, breathlessness, stroke or heart attack (see also section 2, \"Blood clotting problems (thromboembolic events)\").
 
 ## Serious side effects in men and women
 
@@ -1576,36 +1578,36 @@ If you notice any of the above-listed side effects, you should immediately conta
 
 ## Other side effects in women
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
 - Sacs of fluid within the ovaries (ovarian cysts)
 - Headache
 - Local reactions at the injection site, such as pain, redness, bruising, swelling and/or irritation
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 - Abdominal pain
 - Feeling sick, vomiting, diarrhoea, abdominal cramps and bloating
 
-## Very rare (may affect up to 1 in 10,000 people):
+Very rare (may affect up to 1 in 10,000 people):
 
 - Allergic reactions such as rash, red skin, hives, swelling of your face with difficulty breathing may occur. These reactions can sometimes be serious.
 - Your asthma may get worse.
 
 ## Other side effects in men
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
 - Local reactions at the injection site, such as pain, redness, bruising, swelling and/or irritation
 
-## Common (may affect up to 1 in 10 people):
-
-<div style=\"page-break-after: always\"></div>
+Common (may affect up to 1 in 10 people):
 
 - Swelling of the veins above and behind the testicles (varicocele)
 - Breast development, acne or weight gain
 
-## Very rare (may affect up to 1 in 10,000 people):
+<div style=\"page-break-after: always\"></div>
+
+Very rare (may affect up to 1 in 10,000 people):
 
 - Allergic reactions such as rash, red skin, hives, swelling of your face with difficulty in breathing may occur. These reactions can sometimes be serious.
 - Your asthma may get worse.
@@ -1641,11 +1643,9 @@ Do not throw any medicines away via wastewater or household waste. Ask your phar
 - Bemfola 300 IU/0.50 mL: Each cartridge contains 300 IU (equivalent to 22 micrograms) follitropin alfa in 0.50 mL solution.
 - Bemfola 450 IU/0.75 mL: Each cartridge contains 450 IU (equivalent to 33 micrograms) follitropin alfa in 0.75 mL solution.
 - Each mL of the solution contains 600 IU (equivalent to 44 micrograms) follitropin alfa.
-- The other ingredients are poloxamer 188, sucrose, methionine, disodium phosphate dihydrate,
+- The other ingredients are poloxamer 188, sucrose, methionine, disodium phosphate dihydrate, sodium dihydrogen phosphate dihydrate, phosphoric acid and water for injections.
 
 <div style=\"page-break-after: always\"></div>
-
-sodium dihydrogen phosphate dihydrate, phosphoric acid and water for injections.
 
 ## What Bemfola looks like and contents of the pack
 
@@ -1654,7 +1654,7 @@ sodium dihydrogen phosphate dihydrate, phosphoric acid and water for injections.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest Hungary
+Gedeon Richter Plc. Gyömrői út 19-21. 1103 Budapest Hungary
 
 ## This leaflet was last revised in
 
@@ -1664,7 +1664,9 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-Bemfola 75 IU/0.125 mL pre-filled pen Bemfola 150 IU/0.25 mL pre-filled pen Bemfola 225 IU/0.375 mL pre-filled pen Bemfola 300 IU/0.50 mL pre-filled pen Bemfola 450 IU/0.75 mL pre-filled pen
+Bemfola 75 IU/0.125 mL pre-filled pen Bemfola 150 IU/0.25 mL pre-filled pen Bemfola 225 IU/0.375 mL pre-filled pen Bemfola 300 IU/0.50 mL pre-filled pen
+
+Bemfola 450 IU/0.75 mL pre-filled pen
 
 ## Instructions for Use
 
@@ -1677,7 +1679,7 @@ Bemfola 75 IU/0.125 mL pre-filled pen Bemfola 150 IU/0.25 mL pre-filled pen Bemf
 5. Injecting the dose
 6. After the injection
 
-Warning : Please read and follow this Instructions for use of Bemfola pre-filled pen. Do not follow instructions from other sources than those provided in this Instructions for use or by your health care professional as it may compromise the proper use of the pre-filled pen and your treatment.
+Warning: Please read and follow this Instructions for use of Bemfola pre-filled pen. Do not follow instructions from other sources than those provided in this Instructions for use or by your health care professional as it may compromise the proper use of the pre-filled pen and your treatment.
 
 ## 1. How to use the Bemfola pre-filled pen
 
@@ -1691,7 +1693,7 @@ Warning : Please read and follow this Instructions for use of Bemfola pre-filled
 
 ## 2.1. Take the pen out of the fridge
 
-- Take one of your pens out of the fridge 5 to 10 minutes before using it.
+- Take one of your pens out of the fridge and leave at room temperature for 5 to 10 minutes before using it. Do not use other methods to warm up the pen.
 - If the medicine is frozen, then please do not use it.
 
 ## 2.2. Wash your hands
@@ -1702,7 +1704,8 @@ Warning : Please read and follow this Instructions for use of Bemfola pre-filled
 ## 2.3. Find a clean area
 
 - A good place is a clean table or surface.
-3. Getting your pre-filled pen ready for injection
+
+## 3. Getting your pre-filled pen ready for injection
 
 ## The different parts of your pre-filled pen
 
@@ -1710,57 +1713,67 @@ Warning : Please read and follow this Instructions for use of Bemfola pre-filled
 
 <!-- image -->
 
+300
+
+Bemfola
+
+300 U/0.5m Perform the injection every day around the same time. Take the pen out of the fridge 5 to 10 minutes before using it.
+
+Note: Please check that the medicine is not frozen.
+
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-Perform the injection every day around the same time. Take the pen out of the fridge 5 to 10 minutes before using it.
+<!-- image -->
 
-Note: Please check that the medicine is not frozen.
+<!-- image -->
 
 ## Prepare your needle for injection
 
 Get a new needle - only use the single-use needles supplied in the package. Hold the outer needle cap firmly.
 
-Check in all cases that the peel-off seal on the outer needle cap is not damaged or loose. Remove the peel-off seal from the injection needle.
+Check in all cases that the peel-off seal on the outer needle cap is not damaged or loose. Remove the peel-off seal from the injection needle. Use the needle immediately after protective seal is opened.
 
 Caution: If the peel-off seal is damaged or loose, do not use the needle. Throw it away in a sharps disposal container. Get a new needle.
 
+## Attach the needle.
+
+Hold the pen by its sides and keep the needle straight and in line with the pen when attaching it. When you set the needle to the pen please, attach it straight. Do not attach the needle at an angle. Screw the needle clockwise onto the tip of the pen all the way until firmly attached. Make sure that the needle is properly secured on the pen in a straight position.
+
+Caution: Do not try to attach the needle at an angle.
+
+Do not overtighten the needle.
+
+Do not push the dosage knob in while attaching the needle.
+
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
-
-<!-- image -->
-
-## Correct position of the needle
-
-<!-- image -->
-
-Attach the needle. Hold the pen by its sides and keep the needle in line with it while attaching the needle. Screw the needle clockwise onto the tip of the pen all the way until firmly attached. Make sure that the needle is properly secured on the pen in a straight position.
-
-Caution: Do not overtighten the needle. Do not push the dosage knob in while attaching the needle.
 
 Remove the outer needle cap (G). Keep it for later. You will need it after the injection to discard the pen.
 
-Remove the inner needle cap (F).
+Remove the inner needle cap (F). Please, remove the inner needle cap straight.
+
+Caution: Do not remove it at an angle, as this may bend or damage the needle and may result in difficulties or pain during injection.
 
 Make sure that the needle is in the correct position.
 
-Incorrect position of the needle
+## Correct position of the needle Incorrect position of
+
+the needle
 
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Setting the dose prescribed by your doctor
 
 <!-- image -->
 
-<!-- image -->
-
-<!-- image -->
-
 First, hold the pen so that the needle is pointing upwards. To remove the air bubbles from the system, gently tap the side of the pen to make the existing air bubbles rise to the top.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 Still holding the pen upright, push the dosage knob in until the activation bar with the small arrow disappears. You should also hear a click, and some liquid will splash out (this is normal).The pen is now ready to set the dose.
 
@@ -1770,7 +1783,9 @@ Gently turn the dosage knob until the bar of your prescribed dose is in line wit
 
 Note: For the Bemfola 75 IU/0.125 mL prefilled pen, the dosage knob cannot go around completely, but it can still be rotated backwards.
 
-The pen is now ready for injection. Caution: Do not push the dosage knob in any further, at this point.
+The pen is now ready for injection.
+
+Caution: Do not push the dosage knob in any further, at this point.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1788,21 +1803,19 @@ Check again that the correct dose is displayed on the pen. Lightly pinch the ski
 
 Caution: Do not push the dosage knob, while inserting the needle and do not change the direction of the needle as it goes in.
 
-Once the needle is fully inserted in the injection site, push in the dosage knob slowly and continuously until it stops, and the bar of the set dose has disappeared. Do not remove the needle immediately, wait at least for 5 seconds , before pulling it out to ensure you have injected the full dose.
-
-After the withdrawal of the needle: clean the skin with an alcohol swab using a circular motion at the injection site.
+Once the needle is fully inserted in the injection site, push in the dosage knob slowly and continuously until it stops, and the bar of the set dose has disappeared. Do not remove the needle immediately, wait at least for 5 seconds, before pulling it out to ensure you have injected the full dose. After the withdrawal of the needle: clean the skin with an alcohol swab using a circular motion at the injection site.
 
 Caution: If liquid leakage is detected at the
-
-<div style=\"page-break-after: always\"></div>
-
-junction of the needle and the pen during injecting, tell your doctor or pharmacist.
 
 <div style=\"page-break-after: always\"></div>
 
 ## 6. After the injection
 
 <!-- image -->
+
+<!-- image -->
+
+junction of the needle and the pen during injecting, tell your doctor or pharmacist.
 
 Replace the outer needle cap onto the needle carefully.
 

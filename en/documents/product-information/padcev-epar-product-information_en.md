@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-09-24 15:08:11
-document_pages: 61
+document_datetime: 2026-10-16 16:40:31
+document_pages: 62
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/padcev-epar-product-information_en.pdf
 document_name: padcev-epar-product-information_en.pdf
 version: success
-processing_time: 61.8571937
-conversion_datetime: 2026-09-25 19:18:55.542653
+processing_time: 23.97939
+conversion_datetime: 2026-10-19 23:04:56.073452
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.130.0
-  docling-core: 2.98.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
   docling-ibm-models: 4.0.3
-  docling-parse: 7.21.0
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,6 +44,10 @@ After reconstitution, each mL of solution contains 10 mg of enfortumab vedotin.
 
 Enfortumab vedotin is comprised of a fully human IgG1 kappa antibody, conjugated to the microtubule-disrupting agent monomethyl auristatin E (MMAE) via a protease-cleavable maleimidocaproyl valine-citrulline linker.
 
+## Excipient with known effect
+
+Each 20 mg dose contains 0.40 mg of polysorbate 20. Each 30 mg dose contains 0.60 mg of polysorbate 20.
+
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
@@ -58,7 +62,7 @@ White to off-white lyophilized powder.
 
 Muscle invasive bladder cancer (MIBC)
 
-Padcev, in combination with pembrolizumab, as neoadjuvant treatment and then continued after radical cystectomy as adjuvant treatment, is indicated for the treatment of adult patients with resectable muscle invasive bladder cancer (MIBC) who are ineligible for cisplatin-containing chemotherapy.
+Padcev, in combination with pembrolizumab, as neoadjuvant treatment and then continued after radical cystectomy as adjuvant treatment, is indicated for the treatment of adult patients with resectable muscle invasive bladder cancer (MIBC).
 
 ## Unresectable or metastatic urothelial cancer
 
@@ -78,10 +82,10 @@ Treatment with Padcev should be initiated and supervised by a physician experien
 
 Table 1. Recommended dose for enfortumab vedotin in combination with pembrolizumab*
 
-| Indication                                                     | Recommended enfortumab vedotin dose                                                                               | Duration of therapy                                                                                                                                                                                                                   |
-|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Neoadjuvant and adjuvant muscle invasive bladder cancer (MIBC) | Enfortumab vedotin 1.25 mg/kg (up to a maximum of 125 mg for patients ≥100 kg) on Days 1 and 8 of a 21-day cycle. | Cisplatin-ineligible patients Neoadjuvant: 3 cycles or until disease progression that precludes curative intent radical cystectomy or unacceptable toxicity. Adjuvant: 6 cycles or until disease recurrence or unacceptable toxicity. |
-| Unresectable or metastatic urothelial cancer                   | Enfortumab vedotin 1.25 mg/kg (up to a maximum of 125 mg for patients ≥100 kg) on Days 1 and 8 of a 21-day cycle. | Until disease progression or unacceptable toxicity.                                                                                                                                                                                   |
+| Indication                                                     | Recommended enfortumab vedotin dose                                                                               | Duration of therapy                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Neoadjuvant and adjuvant muscle invasive bladder cancer (MIBC) | Enfortumab vedotin 1.25 mg/kg (up to a maximum of 125 mg for patients ≥100 kg) on Days 1 and 8 of a 21-day cycle. | Cisplatin-eligible patients Neoadjuvant: 4 cycles or until disease progression that precludes curative intent radical cystectomy or unacceptable toxicity. Adjuvant: 5 cycles or until disease recurrence or unacceptable toxicity. Cisplatin-ineligible patients Neoadjuvant: 3 cycles or until disease progression that precludes curative intent radical cystectomy or unacceptable toxicity. Adjuvant: 6 cycles or until disease recurrence or unacceptable toxicity. |
+| Unresectable or metastatic urothelial cancer                   | Enfortumab vedotin 1.25 mg/kg (up to a maximum of 125 mg for patients ≥100 kg) on Days 1 and 8 of a 21-day cycle. | Until disease progression or unacceptable toxicity.                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -104,15 +108,16 @@ Table 2. Recommended dose for enfortumab vedotin as monotherapy
 
 Table 4. Dose interruption, reduction and discontinuation of enfortumab vedotin
 
-| Adverse reaction                             | Severity*                                                                                                             | Dose modification*                                                                                                                                                                                      |
-|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Skin reactions                               | Suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) or bullous lesions Confirmed SJS or TEN; | Immediately withhold and refer to specialised care. Permanently discontinue.                                                                                                                            |
-| Skin reactions                               | Grade 4 or recurrent Grade 3 Grade 2 worsening Grade 2 with fever Grade 3                                             | • Withhold until Grade ≤1. • Referral to specialised care should be considered. • Resume at the same dose level or consider dose reduction by one dose level (see Table 3).                             |
-| Hyperglycaemia                               | Blood glucose >13.9 mmol/L (>250 mg/dL)                                                                               | • Withhold until elevated blood glucose has improved to ≤13.9 mmol/L (≤250 mg/dL). • Resume treatment at the same dose level.                                                                           |
-| Pneumonitis/ interstitial lung disease (ILD) | Grade 2                                                                                                               | • Withhold until Grade ≤1, then resume at the same dose or consider dose reduction by one dose level (see Table 3).                                                                                     |
-| Pneumonitis/ interstitial lung disease (ILD) | Grade ≥3                                                                                                              | Permanently discontinue.                                                                                                                                                                                |
-| Peripheral neuropathy                        | Grade 2                                                                                                               | • Withhold until Grade ≤1. • For first occurrence, resume treatment at the same dose level. • For a recurrence, withhold until Grade ≤1, then resume treatment reduced by one dose level (see Table 3). |
-| Peripheral neuropathy                        | Grade ≥3                                                                                                              | Permanently discontinue.                                                                                                                                                                                |
+| Adverse reaction                             | Severity*                                                                                       | Dose modification*                                                                                                                                                           |
+|----------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Skin reactions                               | Suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) or bullous lesions | Immediately withhold and refer to specialised care.                                                                                                                          |
+| Skin reactions                               | Confirmed SJS or TEN; Grade 4 or recurrent Grade 3                                              | Permanently discontinue.                                                                                                                                                     |
+| Skin reactions                               | Grade 2 worsening Grade 2 with fever Grade 3                                                    | • Withhold until Grade ≤1. • Referral to specialised care should be considered. • Resume at the same dose level or consider dose reduction by one dose level (see Table 3).  |
+| Hyperglycaemia                               | Blood glucose >13.9 mmol/L (>250 mg/dL)                                                         | • Withhold until elevated blood glucose has improved to ≤13.9 mmol/L (≤250 mg/dL). • Resume treatment at the same dose level.                                                |
+| Pneumonitis/ interstitial lung disease (ILD) | Grade 2                                                                                         | • Withhold until Grade ≤1, then resume at the same dose or consider dose reduction by one dose level (see Table 3).                                                          |
+| Pneumonitis/ interstitial lung disease (ILD) | Grade ≥3                                                                                        | Permanently discontinue. • Withhold until Grade ≤1.                                                                                                                          |
+| Peripheral neuropathy                        | Grade 2                                                                                         | • For first occurrence, resume treatment at the same dose level. • For a recurrence, withhold until Grade ≤1, then resume treatment reduced by one dose level (see Table 3). |
+| Peripheral neuropathy                        | Grade ≥3                                                                                        | Permanently discontinue.                                                                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -170,7 +175,7 @@ Withhold Padcev for Grade 2 pneumonitis/ILD and consider dose reduction. Permane
 
 ## Hyperglycaemia
 
-Hyperglycaemia and diabetic ketoacidosis (DKA), including fatal events, occurred in patients with and without pre-existing diabetes mellitus, treated with enfortumab vedotin (see section 4.8). Hyperglycaemia occurred more frequently in patients with pre-existing hyperglycaemia or a high body mass index (≥30 kg/m 2 ). Patients with baseline HbA1c ≥8% were excluded from clinical studies. Blood glucose levels should be monitored prior to dosing and periodically throughout the course of treatment as clinically indicated in patients with or at risk for diabetes mellitus or hyperglycaemia. If blood glucose is elevated &gt;13.9 mmol/L (&gt;250 mg/dL), Padcev should be withheld until blood glucose is ≤13.9 mmol/L (≤250 mg/dL) and treat as appropriate (see section 4.2).
+Hyperglycaemia and diabetic ketoacidosis (DKA), including fatal events, occurred in patients with and without pre-existing diabetes mellitus, treated with enfortumab vedotin (see section 4.8). Hyperglycaemia occurred more frequently in patients with pre-existing hyperglycaemia or a high body mass index (≥30 kg/m 2 ). Patients with baseline haemoglobin A1C (HbA1c) ≥8% were excluded from clinical studies. Blood glucose levels should be monitored prior to dosing and periodically throughout the course of treatment as clinically indicated in patients with or at risk for diabetes mellitus or hyperglycaemia. If blood glucose is elevated &gt;13.9 mmol/L (&gt;250 mg/dL), Padcev should be withheld until blood glucose is ≤13.9 mmol/L (≤250 mg/dL) and treat as appropriate (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -194,6 +199,10 @@ Skin and soft tissue injury following enfortumab vedotin administration has been
 
 Pregnant women should be informed of the potential risk to a foetus (see sections 4.6 and 5.3). Females of reproductive potential should be advised to have a pregnancy test within 7 days prior to starting treatment with enfortumab vedotin, to use effective contraception during treatment and for at least 6 months after stopping treatment. Men being treated with enfortumab vedotin are advised not to father a child during treatment and for at least 4 months following the last dose of Padcev.
 
+## Excipient information
+
+This medicinal product contains 0.40 mg and 0.60 mg of polysorbate 20 in each 20 mg and 30 mg dose, respectively. Polysorbates may cause allergic reactions.
+
 ## Patient information pack
 
 The prescriber must discuss the risks of Padcev therapy, including combination therapy with pembrolizumab, with the patient. The patient should be provided with the patient information leaflet and patient card with each prescription.
@@ -208,7 +217,7 @@ Formal drug-drug interaction studies with enfortumab vedotin have not been condu
 
 ## CYP3A4 inhibitors, substrates or inducers
 
-Based on physiologically-based pharmacokinetic (PBPK) modeling, concomitant use of enfortumab vedotin with ketoconazole (a combined P-gp and strong CYP3A inhibitor) is predicted to increase unconjugated MMAE Cmax and AUC exposure to a minor extent, with no change in ADC exposure. Caution is advised in case of concomitant treatment with CYP3A4 inhibitors. Patients receiving concomitant strong CYP3A4 inhibitors (e.g., boceprevir, clarithromycin, cobicistat, indinavir, itraconazole, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, voriconazole) should be monitored more closely for signs of toxicities.
+Based on physiologically-based pharmacokinetic (PBPK) modeling, concomitant use of enfortumab vedotin with ketoconazole (a combined P-gp and strong CYP3A inhibitor) is predicted to increase unconjugated MMAE Cmax and AUC exposure to a minor extent, with no change in antibody drug conjugate (ADC) exposure. Caution is advised in case of concomitant treatment with CYP3A4 inhibitors. Patients receiving concomitant strong CYP3A4 inhibitors (e.g., boceprevir, clarithromycin, cobicistat, indinavir, itraconazole, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, voriconazole) should be monitored more closely for signs of toxicities.
 
 Unconjugated MMAE is not predicted to alter the AUC of concomitant medicines that are CYP3A4 substrates (e.g. midazolam).
 
@@ -216,7 +225,7 @@ Strong CYP3A4 inducers (e.g. rifampicin, carbamazepine, phenobarbital, phenytoin
 
 ## 4.6 Fertility, pregnancy and lactation
 
-## Women of childbearing potential/Contraception in males and females
+Women of childbearing potential/Contraception in males and females
 
 Pregnancy testing is recommended for females of reproductive potential within 7 days prior to initiating treatment. Females of reproductive potential should be advised to use effective contraception during treatment and for at least 6 months after stopping treatment. Men being treated with enfortumab vedotin are advised not to father a child during treatment and for at least 4 months following the last dose of Padcev.
 
@@ -246,31 +255,15 @@ Padcev has no or negligible influence on the ability to drive and use machines.
 
 When enfortumab vedotin is administered in combination with pembrolizumab, refer to the SmPC for pembrolizumab prior to initiation of treatment.
 
-## Muscle invasive bladder cancer
+The safety of enfortumab vedotin was evaluated in combination with pembrolizumab in 1 134 patients who received at least one dose of enfortumab vedotin 1.25 mg/kg in combination with pembrolizumab in one phase 2 study (EV-103) and three phase 3 studies (EV-302, EV-303 and EV-304) (see Table 5). Patients were exposed to the combination of enfortumab vedotin and pembrolizumab for a median duration of 9.2 months (range: 0.03 to 45.9 months). The median duration of exposure to enfortumab vedotin alone was 6.9 months (range: 0.03 to 45.9 months).
 
-The safety of enfortumab vedotin was evaluated in combination with pembrolizumab in 167 patients who received at least one dose of enfortumab vedotin 1.25 mg/kg in combination with pembrolizumab in a phase 3 study (EV-303) (see Table 5). Patients were exposed to the combination of enfortumab vedotin and pembrolizumab for a median duration of 6.3 months (range: 0.03 to 19.7 months). The median duration of exposure to enfortumab vedotin alone was 5.5 months (range: 0.03 to 14.1 months).
+The most common adverse reactions with enfortumab vedotin in combination with pembrolizumab were pruritus (44.2%), diarrhoea (37.1%), alopecia (35.4%), fatigue (35%), peripheral sensory neuropathy (34%), decreased appetite (31.5%), anaemia (29.1%), weight decreased (29.1%), nausea (28.5%), rash maculo-papular (27.7%), dysgeusia (25.1%), aspartate aminotransferase increased (20.2%), alanine aminotransferase increased (20%), dry skin (16%), hyperglycaemia (15.5%), rash (14%), vomiting (13.2%), hypothyroidism (12.1%), neutropenia (12%) and dry eye (11.6%).
 
-The most common adverse reactions with enfortumab vedotin in combination with pembrolizumab were pruritus (47.3%), alopecia (34.7%), diarrhoea (34.1%), fatigue (32.3%), anaemia (30.5%), decreased appetite (28.1%), dysgeusia (28.1%), nausea (25.7%), rash (25.1%), aspartate aminotransferase increased (24%), weight decreased (19.8%), alanine aminotransferase increased (19.2%), rash maculo-papular (16.2%), dry skin (15%), hypothyroidism (14.4%), peripheral sensory neuropathy (13.8%), hyperglycaemia (12.6%) and neuropathy peripheral (10.2%).
+The most common serious adverse reactions (≥2%) were sepsis (3%), diarrhoea (2.6%), pneumonia (2.6%) and pneumonitis (2.2%). Thirty-eight percent of patients permanently discontinued enfortumab vedotin for adverse reactions; the most common adverse reaction (≥2%) leading to discontinuation was peripheral sensory neuropathy (9.1%).
 
-The most common serious adverse reaction (≥2%) was diarrhoea (2.4%). Forty-one percent of patients permanently discontinued enfortumab vedotin for adverse reactions; the most common adverse reaction (≥2%) leading to discontinuation was peripheral sensory neuropathy (2.4%).
+Adverse reactions leading to dose interruption of enfortumab vedotin occurred in 59% of patients. The most common adverse reactions (≥2%) leading to dose interruption were peripheral sensory neuropathy (9.3%), rash maculo-papular (5.3%), diarrhoea (4.7%), neutropenia (3.7%), alanine aminotransferase increased (3.4%), hyperglycaemia (3%), fatigue (2.7%), pneumonitis (2.1%) and pruritus (2.1%).
 
-Adverse reactions leading to dose interruption of enfortumab vedotin occurred in 44% of patients. The most common adverse reactions (≥2%) leading to dose interruption were diarrhoea (4.2%), rash (4.2%), neutropenia (3.6%), fatigue (3%), hyperglycaemia (3%) and pruritus (2.4%).
-
-Adverse reactions leading to dose reduction of enfortumab vedotin occurred in 17% of patients. The most common adverse reactions (≥2%) leading to dose reduction were rash (2.4%) and weight decreased (2.4%).
-
-<div style=\"page-break-after: always\"></div>
-
-## Unresectable or metastatic urothelial cancer
-
-The safety of enfortumab vedotin was evaluated in combination with pembrolizumab in 564 patients who received at least one dose of enfortumab vedotin 1.25 mg/kg in combination with pembrolizumab in one phase 2 study (EV-103) and one phase 3 study (EV-302) (see Table 5). Patients were exposed to enfortumab vedotin in combination with pembrolizumab for a median duration of 9.4 months (range: 0.3 to 34.4 months).
-
-The most common adverse reactions with enfortumab vedotin in combination with pembrolizumab were peripheral sensory neuropathy (53.4%), pruritus (41.1%), fatigue (40.4%), diarrhoea (39.2%), alopecia (38.5%), rash maculo-papular (36%), weight decreased (36%), decreased appetite (33.9%), nausea (28.4%), anaemia (25.7%), dysgeusia (24.3%), dry skin (18.1%), alanine aminotransferase increased (16.8%), hyperglycaemia (16.7%), aspartate aminotransferase increased (15.4%), dry eye (14.4%), vomiting (13.3%), rash macular (11.3%), hypothyroidism (10.5%) and neutropenia (10.1%).
-
-The most common serious adverse reactions (≥2%) were diarrhoea (3%) and pneumonitis (2.3%). Thirty-six percent of patients permanently discontinued enfortumab vedotin for adverse reactions; the most common adverse reactions (≥2%) leading to discontinuation were peripheral sensory neuropathy (12.2%) and rash maculo-papular (2%).
-
-Adverse reactions leading to dose interruption of enfortumab vedotin occurred in 72% of patients. The most common adverse reactions (≥2%) leading to dose interruption were peripheral sensory neuropathy (17%), rash maculo-papular (6.9%), diarrhoea (4.8%), fatigue (3.7%), pneumonitis (3.7%), hyperglycaemia (3.4%), neutropenia (3.2%), alanine aminotransferase increased (3%), pruritus (2.3%) and anaemia (2%).
-
-Adverse reactions leading to dose reduction of enfortumab vedotin occurred in 42.4% of patients. The most common adverse reactions (≥2%) leading to dose reduction were peripheral sensory neuropathy (9.9%), rash maculo-papular (6.4%), fatigue (3.2%), diarrhoea (2.3%) and neutropenia (2.1%).
+Adverse reactions leading to dose reduction of enfortumab vedotin occurred in 31% of patients. The most common adverse reactions (≥2%) leading to dose reduction were peripheral sensory neuropathy (6%), rash maculo-papular (4.7%) and fatigue (2.1%).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -280,7 +273,11 @@ The safety of enfortumab vedotin was evaluated as monotherapy in 793 patients wh
 
 The most common adverse reactions with enfortumab vedotin were alopecia (47.7%), decreased appetite (47.2%), fatigue (46.8%), diarrhoea (39.1%), peripheral sensory neuropathy (38.5%), nausea (37.8%), pruritus (33.4%), dysgeusia (30.4%), anaemia (29.1%), weight decreased (25.2%), rash maculo-papular (23.6%), dry skin (21.8%), vomiting (18.7%), aspartate aminotransferase increased (17%), hyperglycaemia (14.9%), dry eye (12.7%), alanine aminotransferase increased (12.7%) and rash (11.6%).
 
-The most common serious adverse reactions (≥2%) were diarrhoea (2.1%) and hyperglycaemia (2.1%). Twenty-one percent of patients permanently discontinued enfortumab vedotin for adverse reactions; the most common adverse reaction (≥2%) leading to dose discontinuation was peripheral sensory neuropathy (4.8%). Adverse reactions leading to dose interruption occurred in 62% of patients; the most common adverse reactions (≥2%) leading to dose interruption were peripheral sensory neuropathy (14.8%), fatigue (7.4%), rash maculo-papular (4%), aspartate aminotransferase increased (3.4%), alanine aminotransferase increased (3.2%), anaemia (3.2%), hyperglycaemia (3.2%), neutrophil count decreased (3%), diarrhoea (2.8%), rash (2.4%) and peripheral motor neuropathy (2.1%). Thirty-eight percent of patients required a dose reduction due to an adverse reaction; the most common adverse reactions (≥2%) leading to a dose reduction were peripheral sensory neuropathy (10.3%), fatigue (5.3%), rash maculo-papular (4.2%) and decreased appetite (2.1%).
+The most common serious adverse reactions (≥2%) were diarrhoea (2.1%) and hyperglycaemia (2.1%). Twenty-one percent of patients permanently discontinued enfortumab vedotin for adverse reactions; the most common adverse reaction (≥2%) leading to dose discontinuation was peripheral sensory neuropathy (4.8%).
+
+Adverse reactions leading to dose interruption occurred in 62% of patients; the most common adverse reactions (≥2%) leading to dose interruption were peripheral sensory neuropathy (14.8%), fatigue (7.4%), rash maculo-papular (4%), aspartate aminotransferase increased (3.4%), alanine aminotransferase increased (3.2%), anaemia (3.2%), hyperglycaemia (3.2%), neutrophil count decreased (3%), diarrhoea (2.8%), rash (2.4%) and peripheral motor neuropathy (2.1%).
+
+Thirty-eight percent of patients required a dose reduction due to an adverse reaction; the most common adverse reactions (≥2%) leading to a dose reduction were peripheral sensory neuropathy (10.3%), fatigue (5.3%), rash maculo-papular (4.2%) and decreased appetite (2.1%).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -318,23 +315,23 @@ Table 5. Adverse reactions in patients treated with enfortumab vedotin
 
 <div style=\"page-break-after: always\"></div>
 
-| Frequency                                            | Monotherapy                                                                                                                                                                                                                            | In combination with pembrolizumab                                                                                                                                                                                                         |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                                                 | Skin and subcutaneous tissue disorders                                                                                                                                                                                                    |
-| Very common                                          | Alopecia, pruritus, rash, rash maculo-papular, dry skin                                                                                                                                                                                | Alopecia, pruritus, rash maculo-papular, dry skin                                                                                                                                                                                         |
-| Common                                               | Drug eruption, skin exfoliation, conjunctivitis, dermatitis bullous, blister, stomatitis, palmar-plantar erythrodysesthesia syndrome, eczema, erythaema, rash erythaematous, rash macular, rash papular, rash pruritic, rash vesicular | Rash, skin exfoliation, conjunctivitis, dermatitis bullous, blister, stomatitis, palmar-plantar erythrodysesthesia syndrome, eczema, erythaema, rash erythaematous, rash macular, rash papular, rash pruritic, rash vesicular, dermatitis |
-| Uncommon                                             | Dermatitis exfoliative generalised, erythaema multiforme, exfoliative rash, pemphigoid, rash maculovesicular, dermatitis, dermatitis allergic, dermatitis contact, intertrigo, skin irritation, stasis dermatitis, blood blister       | Drug eruption, dermatitis exfoliative generalised, erythaema multiforme, exfoliative rash, pemphigoid, dermatitis allergic, dermatitis contact, intertrigo, skin irritation, stasis dermatitis                                            |
-| Not known 1                                          | Toxic epidermal necrolysis, skin hyperpigmentation, skin discolouration, pigmentation disorder, Stevens-Johnson syndrome, epidermal necrosis, symmetrical drug-related intertriginous and flexural exanthaema                          | Toxic epidermal necrolysis, skin hyperpigmentation, skin discolouration, pigmentation disorder, Stevens-Johnson syndrome, epidermal necrosis, symmetrical drug-related intertriginous and flexural exanthaema                             |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                        | Musculoskeletal and connective tissue disorders                                                                                                                                                                                           |
-| Uncommon                                             |                                                                                                                                                                                                                                        | Myositis                                                                                                                                                                                                                                  |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                                                   | General disorders and administration site conditions                                                                                                                                                                                      |
-| Very common                                          | Fatigue                                                                                                                                                                                                                                | Fatigue                                                                                                                                                                                                                                   |
-| Common                                               | Infusion site extravasation                                                                                                                                                                                                            | Infusion site extravasation                                                                                                                                                                                                               |
-| Investigations                                       | Investigations                                                                                                                                                                                                                         | Investigations                                                                                                                                                                                                                            |
-| Very common                                          | Alanine aminotransferase increased, aspartate aminotransferase increased, weight decreased                                                                                                                                             | Alanine aminotransferase increased, aspartate aminotransferase increased, weight decreased                                                                                                                                                |
-| Common                                               |                                                                                                                                                                                                                                        | Lipase increased                                                                                                                                                                                                                          |
-| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                                                                                                                                         | Injury, poisoning and procedural complications                                                                                                                                                                                            |
-| Common                                               | Infusion related reaction                                                                                                                                                                                                              | Infusion related reaction                                                                                                                                                                                                                 |
+| Frequency                                            | Monotherapy                                                                                                                                                                                                                            | In combination with pembrolizumab                                                                                                                                                                                                                                       |
+|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                                                 | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                  |
+| Very common                                          | Alopecia, pruritus, rash, rash maculo-papular, dry skin                                                                                                                                                                                | Alopecia, pruritus, rash, rash maculo-papular, dry skin                                                                                                                                                                                                                 |
+| Common                                               | Drug eruption, skin exfoliation, conjunctivitis, dermatitis bullous, blister, stomatitis, palmar-plantar erythrodysesthesia syndrome, eczema, erythaema, rash erythaematous, rash macular, rash papular, rash pruritic, rash vesicular | Skin exfoliation, conjunctivitis, dermatitis exfoliative generalised, dermatitis bullous, blister, stomatitis, palmar-plantar erythrodysesthesia syndrome, eczema, erythaema, rash erythaematous, rash macular, rash papular, rash pruritic, rash vesicular, dermatitis |
+| Uncommon                                             | Dermatitis exfoliative generalised, erythaema multiforme, exfoliative rash, pemphigoid, rash maculovesicular, dermatitis, dermatitis allergic, dermatitis contact, intertrigo, skin irritation, stasis dermatitis, blood blister       | Drug eruption, erythaema multiforme, exfoliative rash, pemphigoid, dermatitis allergic, dermatitis contact, intertrigo, skin irritation, stasis dermatitis                                                                                                              |
+| Not known 1                                          | Toxic epidermal necrolysis, skin hyperpigmentation, skin discolouration, pigmentation disorder, Stevens-Johnson syndrome, epidermal necrosis, symmetrical drug-related intertriginous and flexural exanthaema                          | Toxic epidermal necrolysis, skin hyperpigmentation, skin discolouration, pigmentation disorder, Stevens-Johnson syndrome, epidermal necrosis, symmetrical drug-related intertriginous and flexural exanthaema                                                           |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                        | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                         |
+| Uncommon                                             |                                                                                                                                                                                                                                        | Myositis                                                                                                                                                                                                                                                                |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                                                   | General disorders and administration site conditions                                                                                                                                                                                                                    |
+| Very common                                          | Fatigue                                                                                                                                                                                                                                | Fatigue                                                                                                                                                                                                                                                                 |
+| Common                                               | Infusion site extravasation                                                                                                                                                                                                            | Infusion site extravasation                                                                                                                                                                                                                                             |
+| Investigations                                       | Investigations                                                                                                                                                                                                                         | Investigations                                                                                                                                                                                                                                                          |
+| Very common                                          | Alanine aminotransferase increased, aspartate aminotransferase increased, weight decreased                                                                                                                                             | Alanine aminotransferase increased, aspartate aminotransferase increased, weight decreased                                                                                                                                                                              |
+| Common                                               |                                                                                                                                                                                                                                        | Lipase increased                                                                                                                                                                                                                                                        |
+| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                                                                                                                                         | Injury, poisoning and procedural complications                                                                                                                                                                                                                          |
+| Common                                               | Infusion related reaction                                                                                                                                                                                                              | Infusion related reaction                                                                                                                                                                                                                                               |
 
 1 Based on global post-marketing experience.
 
@@ -346,11 +343,11 @@ Table 5. Adverse reactions in patients treated with enfortumab vedotin
 
 ## Immunogenicity
 
-A total of 159 patients were tested for immunogenicity against enfortumab vedotin following enfortumab vedotin in combination with pembrolizumab for the treatment of MIBC; 3 patients were confirmed to be positive at baseline for ADA, and in patients that were negative at baseline (n=156), a total of 2 (1.3%) were positive post baseline.
+A total of 159 patients were tested for immunogenicity against enfortumab vedotin following enfortumab vedotin in combination with pembrolizumab for the treatment of MIBC; 3 patients were confirmed to be positive at baseline for anti-drug antibody (ADA), and in patients that were negative at baseline (n=156), a total of 2 (1.3%) were positive post baseline.
 
 A total of 490 patients were tested for immunogenicity against enfortumab vedotin following enfortumab vedotin in combination with pembrolizumab for the treatment of unresectable or metastatic urothelial cancer; 24 patients were confirmed to be positive at baseline for ADA, and in patients that were negative at baseline (n=466), a total of 14 (3%) were positive post baseline.
 
-A total of 697 patients were tested for immunogenicity to enfortumab vedotin 1.25 mg/kg as monotherapy; 16 patients were confirmed to be positive at baseline for anti-drug antibody (ADA), and in patients that were negative at baseline (n=681), a total of 24 (3.5%) were positive post baseline.
+A total of 697 patients were tested for immunogenicity to enfortumab vedotin 1.25 mg/kg as monotherapy; 16 patients were confirmed to be positive at baseline for ADA, and in patients that were negative at baseline (n=681), a total of 24 (3.5%) were positive post baseline.
 
 The incidence of treatment-emergent anti-enfortumab vedotin antibody formation was consistent when assessed following enfortumab vedotin administration as monotherapy and in combination with pembrolizumab.
 
@@ -358,7 +355,7 @@ Due to the limited number of patients with antibodies against Padcev, no conclus
 
 ## Skin reactions
 
-In clinical studies of enfortumab vedotin in combination with pembrolizumab, skin reactions occurred in 89% (648) of the 731 patients and a majority of these skin reactions included rash maculo-papular, rash macular, rash and rash papular. Severe (Grade 3 or 4) skin reactions occurred in 19% (135) of patients (Grade 3: 17%, Grade 4: 2%). A fatal event of toxic epidermal necrolysis occurred in one patient. The median time to onset of severe skin reactions was 1.6 months (range: 0.1 to 17.2 months). Of the patients who experienced skin reactions and had data regarding resolution (n=496), 76% had complete resolution, 16% had partial improvement and 8% had no improvement at the time of their last evaluation. Of the 24% of patients with residual skin reactions at last evaluation, 25% had Grade ≥2 events.
+In clinical studies of enfortumab vedotin in combination with pembrolizumab, skin reactions occurred in 67% (763) of the 1 134 patients and a majority of these skin reactions included rash maculo-papular, rash and rash macular. Severe (Grade 3 or 4) skin reactions occurred in 15% (175) of patients (Grade 3: 14%, Grade 4: 1%). A fatal event of toxic epidermal necrolysis occurred in one patient. The median time to onset of severe skin reactions was 1.1 months (range: 0.1 to 24.0 months). Of the patients who experienced skin reactions and had data regarding resolution (n=761), 81% had complete resolution, 13% had partial improvement and 6% had no improvement at the time of their last evaluation. Of the 19% of patients with residual skin reactions at last evaluation, 30% had Grade ≥2 events.
 
 In clinical studies of enfortumab vedotin as monotherapy, skin reactions occurred in 57% (452) of the 793 patients treated with enfortumab vedotin 1.25 mg/kg. Severe (Grade 3 or 4) skin reactions occurred in 14% (108) of patients and a majority of these reactions included rash maculo-papular, stomatitis, rash erythematous, rash or drug eruption. The median time to onset of severe skin reactions was 0.7 months (range: 0.1 to 8.2 months). Serious skin reactions occurred in 4.3% (34) of patients. Of the patients who experienced skin reactions and had data regarding resolution (n=366), 61% had complete resolution, 24% had partial improvement and 15% had no improvement at the time of their last evaluation. Of the 39% of patients with residual skin reactions at last evaluation, 38% had Grade ≥2 events.
 
@@ -366,13 +363,13 @@ In clinical studies of enfortumab vedotin as monotherapy, skin reactions occurre
 
 ## Pneumonitis/ILD
 
-In clinical studies of enfortumab vedotin in combination with pembrolizumab, pneumonitis/ILD occurred in 9.4% (69) of the 731 patients. Severe (Grade 3 or 4) pneumonitis/ILD occurred in 20 patients (Grade 3: 2.3%, Grade 4: 0.4%). Pneumonitis/ILD led to discontinuation of enfortumab vedotin in 2.1% of patients. Three patients experienced a fatal event of pneumonitis/ILD. The median time to onset of any grade pneumonitis/ILD was 4.1 months (range: 0.3 to 26.2 months).
+In clinical studies of enfortumab vedotin in combination with pembrolizumab, pneumonitis/ILD occurred in 8.8% (100) of the 1 134 patients. Severe (Grade 3 or 4) pneumonitis/ILD occurred in 30 patients (Grade 3: 2.0%, Grade 4: 0.6%). Pneumonitis/ILD led to discontinuation of enfortumab vedotin in 1.9% of patients. Three patients experienced a fatal event of pneumonitis/ILD. The median time to onset of any grade pneumonitis/ILD was 3.8 months (range: 0.3 to 26.2 months).
 
 In clinical studies of enfortumab vedotin as monotherapy, pneumonitis/ILD occurred in 3.3% (26) of the 793 patients treated with enfortumab vedotin 1.25 mg/kg. Less than 1% of patients experienced severe (Grade 3 or 4) pneumonitis/ILD (Grade 3: 0.5%, Grade 4: 0.3%). Pneumonitis/ILD led to discontinuation of enfortumab vedotin in 0.5% of patients. There were no deaths from pneumonitis/ILD. The median time to onset of any grade pneumonitis/ILD was 2.7 months (range: 0.6 to 6.0 months) and the median duration for pneumonitis/ILD was 1.6 months (range: 0.1 to 43.0 months). Of the 26 patients who experienced pneumonitis/ILD, 8 (30.8%) had resolution of symptoms.
 
 ## Hyperglycaemia
 
-In clinical studies of enfortumab vedotin as monotherapy, hyperglycaemia (blood glucose &gt;13.9 mmol/L) occurred in 17% (133) of the 793 patients treated with enfortumab vedotin 1.25 mg/kg. Serious events of hyperglycaemia occurred in 2.5% of patients, 7% of patients developed severe (Grade 3 or 4) hyperglycaemia and 0.3% of patients experienced fatal events, one event each of hyperglycaemia and diabetic ketoacidosis. The incidence of Grade 3-4 hyperglycaemia increased consistently in patients with higher body mass index and in patients with higher baseline haemoglobin A1C (HbA1c). The median time to onset of hyperglycaemia was 0.5 months (range: 0 to 20.3 months). Of the patients who experienced hyperglycaemia and had data regarding resolution (n=106), 66% had complete resolution, 19% had partial improvement and 15% had no improvement at the time of their last evaluation. Of the 34% of patients with residual hyperglycaemia at last evaluation, 64% had Grade ≥2 events.
+In clinical studies of enfortumab vedotin as monotherapy, hyperglycaemia (blood glucose &gt;13.9 mmol/L) occurred in 17% (133) of the 793 patients treated with enfortumab vedotin 1.25 mg/kg. Serious events of hyperglycaemia occurred in 2.5% of patients, 7% of patients developed severe (Grade 3 or 4) hyperglycaemia and 0.3% of patients experienced fatal events, one event each of hyperglycaemia and diabetic ketoacidosis. The incidence of Grade 3-4 hyperglycaemia increased consistently in patients with higher body mass index and in patients with higher baseline HbA1c. The median time to onset of hyperglycaemia was 0.5 months (range: 0 to 20.3 months). Of the patients who experienced hyperglycaemia and had data regarding resolution (n=106), 66% had complete resolution, 19% had partial improvement and 15% had no improvement at the time of their last evaluation. Of the 34% of patients with residual hyperglycaemia at last evaluation, 64% had Grade ≥2 events.
 
 ## Peripheral neuropathy
 
@@ -388,7 +385,7 @@ In clinical studies of enfortumab vedotin as monotherapy, 30% of patients experi
 
 ## Elderly
 
-Enfortumab vedotin in combination with pembrolizumab has been studied in 202 patients &lt;65 years and 529 patients ≥65 years. Generally, adverse event frequencies were higher in patients ≥65 years of age compared to &lt;65 years of age, particularly for serious adverse events (58.8% and 40.1%, respectively) and Grade ≥3 events (79.8% and 65.3%, respectively).
+Enfortumab vedotin in combination with pembrolizumab has been studied in 359 patients &lt;65 years and 775 patients ≥65 years. Generally, adverse event frequencies were higher in patients ≥65 years of age compared to &lt;65 years of age, particularly for serious adverse events (61.3% and 47.9%, respectively) and Grade ≥3 events (79.2% and 68.2%, respectively).
 
 ## Reporting of suspected adverse reactions
 
@@ -406,7 +403,7 @@ Pharmacotherapeutic group: Antineoplastic agents, other antineoplastic agents, m
 
 ## Mechanism of action
 
-Enfortumab vedotin is an antibody drug conjugate (ADC) targeting Nectin-4, an adhesion protein located on the surface of the urothelial cancer cells. It is comprised of a fully human IgG1-kappa antibody conjugated to the microtubule-disrupting agent MMAE via a protease-cleavable maleimidocaproyl valine-citrulline linker. Nonclinical data suggest that the anticancer activity of enfortumab vedotin is due to the binding of the ADC to Nectin-4-expressing cells, followed by internalisation of the ADC-Nectin-4 complex, and the release of MMAE via proteolytic cleavage. Release of MMAE disrupts the microtubule network within the cell, subsequently inducing cell cycle arrest, apoptosis and immunogenic cell death. MMAE released from enfortumab vedotin targeted cells can diffuse into nearby Nectin-4 low-expressing cells resulting in cytotoxic cell death. Combination of enfortumab vedotin with PD-1 inhibitors results in enhanced anti-tumour activity, consistent with the complementary mechanisms of MMAE induced cell cytotoxicity and induction of immunogenic cell death, plus the up-regulation of immune function by PD-1 inhibition.
+Enfortumab vedotin is an ADC targeting Nectin-4, an adhesion protein located on the surface of the urothelial cancer cells. It is comprised of a fully human IgG1-kappa antibody conjugated to the microtubule-disrupting agent MMAE via a protease-cleavable maleimidocaproyl valine-citrulline linker. Nonclinical data suggest that the anticancer activity of enfortumab vedotin is due to the binding of the ADC to Nectin-4-expressing cells, followed by internalisation of the ADC-Nectin-4 complex, and the release of MMAE via proteolytic cleavage. Release of MMAE disrupts the microtubule network within the cell, subsequently inducing cell cycle arrest, apoptosis and immunogenic cell death. MMAE released from enfortumab vedotin targeted cells can diffuse into nearby Nectin-4 low-expressing cells resulting in cytotoxic cell death. Combination of enfortumab vedotin with programmed death receptor 1 (PD-1) inhibitors results in enhanced anti-tumour activity, consistent with the complementary mechanisms of MMAE induced cell cytotoxicity and induction of immunogenic cell death, plus the up-regulation of immune function by PD-1 inhibition.
 
 ## Cardiac electrophysiology
 
@@ -418,11 +415,78 @@ At the recommended dose of 1.25 mg/kg, enfortumab vedotin did not prolong the me
 
 Enfortumab vedotin in combination with pembrolizumab
 
-## Neoadjuvant and adjuvant treatment of cisplatin-ineligible patients with muscle invasive bladder cancer
+## Neoadjuvant and adjuvant treatment of cisplatin-eligible patients with muscle invasive bladder cancer (MIBC)
+
+## EV-304 (KEYNOTE-B15)
+
+The efficacy of Padcev in combination with pembrolizumab as neoadjuvant treatment and then continued after radical cystectomy (RC) as adjuvant treatment was evaluated in study EV-304 (KEYNOTE-B15), an open-label, randomised, phase 3, multicentre study that enrolled patients who received neoadjuvant and adjuvant enfortumab vedotin and pembrolizumab versus neoadjuvant gemcitabine and cisplatin. Key eligibility criteria were previously untreated cT2-T4aN0M0 or cT1-T4aN1M0 MIBC in patients who were eligible for cisplatin-based chemotherapy and were eligible for RC and pelvic lymph node dissection (PLND), regardless of programmed death ligand 1 (PD-L1) status. Patients with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
+
+Patients were randomised 1:1 to one of the following treatment arms:
+
+- Enfortumab vedotin in combination with pembrolizumab (n=405): Neoadjuvant enfortumab vedotin 1.25 mg/kg as an intravenous infusion over 30 minutes on Days 1 and 8 and neoadjuvant pembrolizumab 200 mg over 30 minutes on Day 1 of each 3-week (21-day) cycle for 4 cycles. Following RC and PLND, adjuvant enfortumab vedotin 1.25 mg/kg over 30 minutes on Days 1 and 8 of each 3-week (21-day) cycle for 5 cycles and adjuvant pembrolizumab 200 mg over 30 minutes on Day 1 of each 3-week (21-day) cycle for 13 cycles.
+- Gemcitabine and cisplatin (n=403): Neoadjuvant gemcitabine 1000 mg/m 2 on Days 1 and 8 and cisplatin 70 mg/m 2 on Day 1 of each 3-week (21-day) cycle for 4 cycles. Following RC and PLND, followed by observation.
+
+Treatment continued until completion of the treatment, disease progression that precluded RC and PLND, not undergoing or refusal of RC and PLND, disease recurrence in the adjuvant phase or unacceptable toxicity. Assessment of tumour status was performed at baseline, within 5 weeks prior to RC and PLND and at 6 weeks post-surgery. Following RC and PLND, assessment of tumour status was performed every 12 weeks up to 2 years, and every 24 weeks thereafter. Randomisation was stratified by tumor stage (T2N0 versus T3/T4aN0 versus T1-T4aN1), PD-L1 combined positive score (CPS ≥10 versus CPS &lt;10) and geographic region (United States versus European Union versus Rest of World).
+
+<div style=\"page-break-after: always\"></div>
+
+The median age was 66 years (range: 35 to 85 years); 81% were male; and 80% White. Patients had a baseline Eastern Cooperative Oncology Group (ECOG) performance status of 0 (78%) or 1 (22%). Fifty-seven percent were CPS ≥10 and 43% CPS &lt;10. Nineteen percent were T2N0, 73% T3/T4aN0 and 8% T1-T4aN1. Ninety percent of patients had urothelial carcinoma histology; 5% had urothelial carcinoma with squamous differentiation, 3% had urothelial carcinoma with glandular differentiation and 3% had urothelial carcinoma with other variant histology.
+
+In the overall population, 351 (87%) patients in the enfortumab vedotin in combination with pembrolizumab arm and 361 (90%) patients in the gemcitabine and cisplatin arm underwent RC and PLND.
+
+The primary efficacy outcome measure was event-free survival (EFS) as assessed by blinded independent central review (BICR). Secondary efficacy outcome measures were overall survival (OS) and pathological complete response (pCR) rate as assessed by blinded independent pathology review (BIPR).
+
+The study showed statistically significant improvements in EFS, OS and pCR in patients treated with neoadjuvant and adjuvant enfortumab vedotin in combination with pembrolizumab compared with neoadjuvant gemcitabine and cisplatin. The median follow-up time for this study was 30.8 months (range: 0.5 to 53.6 months).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 6, Figures 1 and 2 summarise the efficacy results for EV-304.
+
+Table 6. Efficacy results in EV-304
+
+| Endpoint                                     | Padcev + pembrolizumab n=405   | Gemcitabine + cisplatin n=403   |
+|----------------------------------------------|--------------------------------|---------------------------------|
+| Event-free survival a                        |                                |                                 |
+| Number (%) of patients with events           | 87 (21.5)                      | 146 (36.2)                      |
+| Median in months (95% CI) b                  | NR (NR, NR)                    | 48.5 (43.3, NR)                 |
+| Hazard ratio c (95% CI)                      | 0.53 (0.41, 0.70)              | 0.53 (0.41, 0.70)               |
+| 1-sided p-value d                            | <0.0001                        | <0.0001                         |
+| Overall survival                             |                                |                                 |
+| Number (%) of patients with events           | 69 (17.0)                      | 99 (24.6)                       |
+| Median in months (95% CI) b                  | NR (NR, NR)                    | NR (NR, NR)                     |
+| Hazard ratio c (95% CI)                      | 0.65 (0.48, 0.89)              | 0.65 (0.48, 0.89)               |
+| 1-sided p-value d                            | 0.0029                         | 0.0029                          |
+| Pathological complete response               |                                |                                 |
+| Number of patients with pCR                  | 226                            | 131                             |
+| pCR rate (%) (95% CI)                        | 55.8 (50.8, 60.7)              | 32.5 (28.0, 37.3)               |
+| Treatment difference estimate (%) (95% CI) e | 23.4 (16.7, 29.8)              | 23.4 (16.7, 29.8)               |
+| 1-sided p-value e                            | <0.0001                        | <0.0001                         |
+
+NR = Not reached.
+
+- a. EFS is defined as time from randomisation to any of the following events: Radiographic disease progression precluding a curative intent surgery as assessed by BICR prior to RC + PLND; Failure to undergo surgery for participants with residual muscle invasive disease and any radiographic disease present; Gross residual disease left behind at time of surgery (surgeon unable to complete curative intent surgery due to unresectable tumor or newly discovered metastatic disease); Local or distant recurrence post-RC + PLND as assessed by CT or MRI by BICR and/or biopsy - if biopsy is not feasible due to participant safety, CT/MRI alone will be sufficient; Death from any cause.
+- b. Based on Kaplan-Meier estimates.
+- c. Based on stratified Cox regression model with Efron's method of tie handling with treatment as a covariate.
+- d. Based on stratified log-rank test.
+- e. Based on stratified Miettinen and Nurminen method.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 1. Kaplan Meier plot of event-free survival, EV-304
+
+<!-- image -->
+
+Figure 2. Kaplan Meier plot of overall survival, EV-304
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Neoadjuvant and adjuvant treatment of cisplatin-ineligible patients with muscle invasive bladder cancer (MIBC)
 
 ## EV-303 (KEYNOTE-905)
 
-The efficacy of Padcev in combination with pembrolizumab as neoadjuvant treatment and then continued after radical cystectomy (RC) as adjuvant treatment was evaluated in study EV-303 (KEYNOTE-905), an open-label, randomised, phase 3, multicentre study that enrolled patients who received neoadjuvant and adjuvant enfortumab vedotin and pembrolizumab versus RC and pelvic lymph node dissection (PLND). Key eligibility criteria were previously untreated cT2-T4aN0M0 or cT1-T4aN1M0 MIBC in patients who were ineligible for or declined cisplatin-based chemotherapy and were eligible for RC and PLND, regardless of PD-L1 status. Patients with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
+The efficacy of Padcev in combination with pembrolizumab as neoadjuvant treatment and then continued after RC as adjuvant treatment was evaluated in study EV-303 (KEYNOTE-905), an open-label, randomised, phase 3, multicentre study that enrolled patients who received neoadjuvant and adjuvant enfortumab vedotin and pembrolizumab versus RC and PLND. Key eligibility criteria were previously untreated cT2-T4aN0M0 or cT1-T4aN1M0 MIBC in patients who were ineligible for or declined cisplatin-based chemotherapy and were eligible for RC and PLND, regardless of PD-L1 status. Patients with active autoimmune disease that required systemic therapy within 2 years of treatment or a medical condition that required immunosuppression were ineligible.
 
 Patients were randomised 1:1:1 to receive neoadjuvant and adjuvant enfortumab vedotin in combination with pembrolizumab, neoadjuvant and adjuvant pembrolizumab monotherapy or RC and PLND alone. The hypothesis testing was updated to prioritize the comparison of the enfortumab vedotin in combination with pembrolizumab arm versus the RC and PLND alone arm for EFS; therefore, randomisation to the pembrolizumab monotherapy arm was stopped early. The evaluation of efficacy was based on the comparison between the following treatment arms:
 
@@ -433,19 +497,19 @@ Treatment continued until completion of the treatment, disease progression that 
 
 <div style=\"page-break-after: always\"></div>
 
-The median age was 73 years (range: 46 to 87 years); 78% were male; and 78% White. Patients had a baseline Eastern Cooperative Oncology Group (ECOG) performance status of 0-1 (86%) or 2 (14%). Forty-seven percent were CPS ≥10 and 52% CPS &lt;10. Eighteen percent were T2N0, 77% T3/T4aN0 and 5% T1-T4aN1. Forty-one percent of patients had baseline creatinine clearance of ≥60 mL/min, 59% had &lt;60 mL/min but ≥30 mL/min and 0.3% had &lt;30 mL/min, respectively. Ninety-one percent of patients had urothelial carcinoma histology; 4% had urothelial carcinoma with squamous differentiation, 3% had urothelial carcinoma with glandular differentiation and 2% had urothelial carcinoma with other variant histology.
+The median age was 73 years (range: 46 to 87 years); 78% were male; and 78% White. Patients had a baseline ECOG performance status of 0-1 (86%) or 2 (14%). Forty-seven percent were CPS ≥10 and 52% CPS &lt;10. Eighteen percent were T2N0, 77% T3/T4aN0 and 5% T1-T4aN1. Forty-one percent of patients had baseline creatinine clearance of ≥60 mL/min, 59% had &lt;60 mL/min but ≥30 mL/min and 0.3% had &lt;30 mL/min, respectively. Ninety-one percent of patients had urothelial carcinoma histology; 4% had urothelial carcinoma with squamous differentiation, 3% had urothelial carcinoma with glandular differentiation and 2% had urothelial carcinoma with other variant histology.
 
 In the overall population, 149 (88%) patients in the enfortumab vedotin in combination with pembrolizumab arm and 156 (90%) patients in the RC and PLND alone arm underwent RC and PLND. Of the patients treated with enfortumab vedotin in combination with pembrolizumab, 100 patients initiated adjuvant treatment and 43 patients completed all planned cycles.
 
-The primary efficacy outcome measure was event-free survival (EFS) as assessed by blinded independent central review (BICR). Secondary efficacy outcome measures were overall survival (OS) and pathological complete response (pCR) rate as assessed by blinded independent pathology review (BIPR).
+The primary efficacy outcome measure was EFS as assessed by BICR. Secondary efficacy outcome measures were OS and pCR rate as assessed by BIPR.
 
 The study showed statistically significant improvements in EFS, OS and pCR in patients treated with neoadjuvant and adjuvant enfortumab vedotin in combination with pembrolizumab compared with RC and PLND alone. The median follow-up time for this study was 18.5 months (range: 0.6 to 53.7 months).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 6, Figures 1 and 2 summarise the efficacy results for EV-303.
+Table 7, Figures 3 and 4 summarise the efficacy results for EV-303.
 
-Table 6. Efficacy Results in EV-303
+Table 7. Efficacy results in EV-303
 
 | Endpoint                                     | Padcev + pembrolizumab n=170   | RC + PLND alone n=174   |
 |----------------------------------------------|--------------------------------|-------------------------|
@@ -475,11 +539,11 @@ NR = Not reached.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1. Kaplan Meier plot of event-free survival, EV-303
+Figure 3. Kaplan Meier plot of event-free survival, EV-303
 
 <!-- image -->
 
-Figure 2. Kaplan Meier plot of overall survival, EV-303
+Figure 4. Kaplan Meier plot of overall survival, EV-303
 
 <!-- image -->
 
@@ -495,36 +559,36 @@ Patients were randomised 1:1 to receive either enfortumab vedotin in combination
 
 Patients randomised to the gemcitabine and platinum-based chemotherapy arm were permitted to receive maintenance immunotherapy (e.g., avelumab). Randomisation was stratified by cisplatin eligibility (eligible versus ineligible), PD-L1 expression (CPS ≥10 versus CPS &lt;10) and presence of liver metastases (present versus absent). PD-L1 expression was based on the PD-L1 IHC 22C3 pharmDx kit.
 
-Patients were excluded from the study if they had active CNS metastases, ongoing sensory or motor neuropathy Grade ≥2, uncontrolled diabetes defined as haemoglobin A1C (HbA1c) ≥8% or HbA1c ≥7% with associated diabetes symptoms, autoimmune disease or a medical condition that required immunosuppression, pneumonitis or other forms of interstitial lung disease.
+Patients were excluded from the study if they had active CNS metastases, ongoing sensory or motor neuropathy Grade ≥2, uncontrolled diabetes defined as HbA1c ≥8% or HbA1c ≥7% with associated diabetes symptoms, autoimmune disease or a medical condition that required immunosuppression, pneumonitis or other forms of interstitial lung disease.
 
 The median age was 69 years (range: 22 to 91 years); 77% were male; and most were White (67%) or Asian (22%). Patients had a baseline ECOG performance status of 0 (49%), 1 (47%) or 2 (3%). Forty-seven percent of patients had a documented baseline HbA1c of &lt;5.7%. At baseline, 95% of patients had metastatic urothelial cancer and 5% of patients had unresectable urothelial cancer. Seventy-two percent of patients had visceral metastasis at baseline including 22% with liver metastases. Eighty-five percent of patients had urothelial carcinoma (UC) histology, 6% had UC mixed squamous differentiation and 2% had UC mixed other histologic variants. Forty-six percent of patients were cisplatin-ineligible and 54% were cisplatin-eligible at time of randomisation. Of the 877 patients tested who had tissue evaluable for PD-L1 expression, 58% of patients had tumours that expressed PD-L1 with a CPS ≥10 and 42% had tumours that expressed PD-L1 with a CPS &lt;10. The median follow-up time was 17.3 months (range: 0.3 to 37.2 months).
 
 <div style=\"page-break-after: always\"></div>
 
-The primary efficacy outcome measures were Overall Survival (OS) and Progression Free Survival (PFS) as assessed by BICR according to RECIST v1.1. Secondary efficacy outcome measures included Objective Response Rate (ORR) as assessed by BICR according to RECIST v1.1.
+The primary efficacy outcome measures were OS and progression-free survival (PFS) as assessed by BICR according to RECIST v1.1. Secondary efficacy outcome measures included objective response rate (ORR) as assessed by BICR according to RECIST v1.1.
 
 The study showed statistically significant improvements in OS, PFS and ORR for patients randomised to enfortumab vedotin in combination with pembrolizumab as compared to gemcitabine and platinum-based chemotherapy.
 
-Table 7, Figures 3 and 4 summarise the efficacy results for EV-302.
+Table 8, Figures 5 and 6 summarise the efficacy results for EV-302.
 
-Table 7. Efficacy Results in EV-302
+Table 8. Efficacy results in EV-302
 
 | Endpoint                              | Padcev + pembrolizumab n=442   | Gemcitabine +platinum n=444   |
 |---------------------------------------|--------------------------------|-------------------------------|
-| Overall Survival                      |                                |                               |
+| Overall survival                      |                                |                               |
 | Number (%) of patients with events    | 133 (30.1)                     | 226 (50.9)                    |
 | Median in months (95% CI) a           | 31.5 (25.4, -)                 | 16.1 (13.9, 18.3)             |
 | Hazard ratio b (95% CI)               | 0.468 (0.376, 0.582)           | 0.468 (0.376, 0.582)          |
 | 2-sided p-value c                     | <0.00001                       | <0.00001                      |
-| Progression Free Survival d           |                                |                               |
+| Progression-free survival d           |                                |                               |
 | Number (%) of patients with events    | 223 (50.5)                     | 307 (69.1)                    |
 | Median in months (95% CI) a           | 12.5 (10.4, 16.6)              | 6.3 (6.2, 6.5)                |
 | Hazard ratio b (95% CI)               | 0.450 (0.377, 0.538)           | 0.450 (0.377, 0.538)          |
 | 2-sided p-value c                     | <0.00001                       | <0.00001                      |
-| Objective Response Rate (CR + PR) d,f |                                |                               |
+| Objective response rate (CR + PR) d,f |                                |                               |
 | Confirmed ORR (%) (95% CI) e          | 67.7 (63.1, 72.1)              | 44.4 (39.7, 49.2)             |
 | 2-sided p-value g                     | <0.00001                       | <0.00001                      |
-| Duration of Response d,f              |                                |                               |
+| Duration of response d,f              |                                |                               |
 | Median in months (95% CI) a           | NR (20.2, -)                   | 7.0 (6.2, 10.2)               |
 
 ## NR = Not reached.
@@ -539,11 +603,11 @@ Table 7. Efficacy Results in EV-302
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 3. Kaplan Meier plot of overall survival, EV-302
+Figure 5. Kaplan Meier plot of overall survival, EV-302
 
 <!-- image -->
 
-Figure 4. Kaplan Meier plot of progression-free survival, EV-302
+Figure 6. Kaplan Meier plot of progression-free survival, EV-302
 
 <!-- image -->
 
@@ -555,7 +619,7 @@ Figure 4. Kaplan Meier plot of progression-free survival, EV-302
 
 ## EV-301
 
-The efficacy of Padcev as monotherapy was evaluated in study EV-301, an open-label, randomised, phase 3, multicentre study that enrolled 608 patients with locally advanced or metastatic urothelial cancer who have previously received a platinum-containing chemotherapy and a programmed death receptor 1 (PD-1) or programmed death ligand 1 (PD-L1) inhibitor. The primary endpoint of the study was Overall Survival (OS) and secondary endpoints included Progression Free Survival (PFS) and Objective Response Rate (ORR) [PFS and ORR were evaluated by investigator assessment using RECIST v1.1]. Patients were randomised 1:1 to receive either enfortumab vedotin 1.25 mg/kg on Days 1, 8 and 15 of a 28-day cycle, or one of the following chemotherapies as decided by the investigator: docetaxel 75 mg/m 2 (38%), paclitaxel 175 mg/m 2 (36%) or vinflunine 320 mg/m 2 (25%) on Day 1 of a 21-day cycle.
+The efficacy of Padcev as monotherapy was evaluated in study EV-301, an open-label, randomised, phase 3, multicentre study that enrolled 608 patients with locally advanced or metastatic urothelial cancer who have previously received a platinum-containing chemotherapy and a PD-1 or PD-L1 inhibitor. The primary endpoint of the study was OS and secondary endpoints included PFS and ORR [PFS and ORR were evaluated by investigator assessment using RECIST v1.1]. Patients were randomised 1:1 to receive either enfortumab vedotin 1.25 mg/kg on Days 1, 8 and 15 of a 28-day cycle, or one of the following chemotherapies as decided by the investigator: docetaxel 75 mg/m 2 (38%), paclitaxel 175 mg/m 2 (36%) or vinflunine 320 mg/m 2 (25%) on Day 1 of a 21-day cycle.
 
 Patients were excluded from the study if they had active CNS metastases, ongoing sensory or motor neuropathy ≥ Grade 2, known history of human immunodeficiency virus (HIV) infection (HIV 1 or 2), active Hepatitis B or C, or uncontrolled diabetes defined as HbA1c ≥8% or HbA1c ≥7% with associated diabetes symptoms.
 
@@ -563,28 +627,28 @@ The median age was 68 years (range: 30 to 88 years), 77% were male, and most pat
 
 <div style=\"page-break-after: always\"></div>
 
-Table 8 summarises the efficacy results for the EV-301 study, after a median follow-up time of 11.1 months (95% CI: 10.6 to 11.6).
+Table 9 summarises the efficacy results for the EV-301 study, after a median follow-up time of 11.1 months (95% CI: 10.6 to 11.6).
 
-Table 8. Efficacy results in EV-301
+Table 9. Efficacy results in EV-301
 
 | Endpoint                            | Padcev n=301         | Chemotherapy n=307   |
 |-------------------------------------|----------------------|----------------------|
-| Overall Survival                    |                      |                      |
+| Overall survival                    |                      |                      |
 | Number (%) of patients with events  | 134 (44.5)           | 167 (54.4)           |
 | Median in months (95% CI)           | 12.9 (10.6, 15.2)    | 9.0 (8.1, 10.7)      |
 | Hazard ratio (95% CI)               | 0.702 (0.556, 0.886) | 0.702 (0.556, 0.886) |
 | 1-sided p-value                     | 0.00142 a            | 0.00142 a            |
-| Progression Free Survival b         |                      |                      |
+| Progression-free survival b         |                      |                      |
 | Number (%) of patients with events  | 201 (66.8)           | 231 (75.2)           |
 | Median in months (95% CI)           | 5.6 (5.3, 5.8)       | 3.7 (3.5, 3.9)       |
 | Hazard ratio (95% CI)               | 0.615 (0.505, 0.748) | 0.615 (0.505, 0.748) |
 | 1-sided p-value                     | <0.00001 c           | <0.00001 c           |
-| Objective Response Rate (CR + PR) b |                      |                      |
+| Objective response rate (CR + PR) b |                      |                      |
 | ORR (%) (95% CI)                    | 40.6 (35.0, 46.5)    | 17.9 (13.7, 22.8)    |
 | 1-sided p-value                     | <0.001 d             | <0.001 d             |
 | Complete response rate (%)          | 4.9                  | 2.7                  |
 | Partial response rate (%)           | 35.8                 | 15.2                 |
-| Duration of Response for responders |                      |                      |
+| Duration of response for responders |                      |                      |
 | Median in months (95% CI)           | 7.4 (5.6, 9.5)       | 8.1 (5.7, 9.6)       |
 
 - b. Evaluated by investigator assessment using RECIST v1.1.
@@ -593,7 +657,7 @@ Table 8. Efficacy results in EV-301
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 5. Kaplan Meier plot of overall survival, EV-301
+Figure 7. Kaplan Meier plot of overall survival, EV-301
 
 <!-- image -->
 
@@ -605,7 +669,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Distribution
 
-The mean estimate of steady-state volume of distribution of ADC was 12.8 L following 1.25 mg/kg of enfortumab vedotin. In vitro, the binding of unconjugated MMAE to human plasma proteins ranged from 68% to 82%. Unconjugated MMAE is not likely to displace or to be displaced by highly protein-bound medicinal products. In vitro studies indicate that unconjugated MMAE is a substrate of P-glycoprotein.
+The mean estimate of steady-state volume of distribution of ADC was 12.8 L following 1.25 mg/kg of enfortumab vedotin. In vitro, the binding of unconjugated MMAE to human plasma proteins ranged from 68% to 82%. Unconjugated MMAE is not likely to displace or to be displaced by highly protein-bound medicinal products. In vitro studies indicate that unconjugated MMAE is a substrate of P-glycoprotein (P-gp).
 
 ## Biotransformation
 
@@ -651,7 +715,7 @@ Concomitant use of enfortumab vedotin is predicted not to affect exposure to mid
 
 ## In vitro studies
 
-In vitro studies indicate that unconjugated MMAE is a substrate and not an inhibitor of the efflux transporter P-glycoprotein (P-gp). In vitro studies determined that unconjugated MMAE was not a substrate of breast cancer resistance protein (BCRP), multidrug resistance-associated protein 2 (MRP2), organic anion transporting polypeptide 1B1 or 1B3 (OATP1B1 or OATP1B3), organic cation transporter 2 (OCT2) or organic anion transporter 1 or 3 (OAT1 or OAT3). Unconjugated MMAE was not an inhibitor of the bile salt export pump (BSEP), P-gp, BCRP, MRP2, OCT1, OCT2, OAT1, OAT3, OATP1B1 or OATP1B3 at clinically relevant concentrations.
+In vitro studies indicate that unconjugated MMAE is a substrate and not an inhibitor of the efflux transporter P-gp. In vitro studies determined that unconjugated MMAE was not a substrate of breast cancer resistance protein (BCRP), multidrug resistance-associated protein 2 (MRP2), organic anion transporting polypeptide 1B1 or 1B3 (OATP1B1 or OATP1B3), organic cation transporter 2 (OCT2) or organic anion transporter 1 or 3 (OAT1 or OAT3). Unconjugated MMAE was not an inhibitor of the bile salt export pump (BSEP), P-gp, BCRP, MRP2, OCT1, OCT2, OAT1, OAT3, OATP1B1 or OATP1B3 at clinically relevant concentrations.
 
 ## 5.3 Preclinical safety data
 
@@ -675,7 +739,7 @@ No dedicated preclinical safety studies were conducted with enfortumab vedotin i
 
 ## 6.1 List of excipients
 
-Histidine Histidine hydrochloride monohydrate Trehalose dihydrate Polysorbate 20
+Histidine Histidine hydrochloride monohydrate Trehalose dihydrate Polysorbate 20 (E 432)
 
 ## 6.2 Incompatibilities
 
@@ -781,7 +845,9 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -877,6 +943,10 @@ After reconstitution each mL contains 10 mg of enfortumab vedotin.
 
 Contains histidine, histidine hydrochloride monohydrate, trehalose dihydrate and polysorbate 20
 
+(E 432)
+
+See leaflet for further information.
+
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Powder for concentrate for solution for infusion
@@ -911,17 +981,17 @@ Store in the original packaging.
 
 Do not freeze.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Astellas Pharma Europe B.V. Sylviusweg 62 2333 BE Leiden The Netherlands
+Astellas Pharma Europe B.V. Sylviusweg 62 2333 BE Leiden
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+The Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/21/1615/001
 
@@ -949,7 +1019,9 @@ Justification for not including Braille accepted.
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1005,7 +1077,9 @@ After reconstitution each mL contains 10 mg of enfortumab vedotin.
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains histidine, histidine hydrochloride monohydrate, trehalose dihydrate and polysorbate 20
+Contains histidine, histidine hydrochloride monohydrate, trehalose dihydrate and polysorbate 20 (E 432)
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1041,47 +1115,39 @@ Store in the original packaging.
 
 Do not freeze.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Astellas Pharma Europe B.V.
 
-Sylviusweg 62 2333 BE Leiden
+Sylviusweg 62
+
+2333 BE Leiden
 
 The Netherlands
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/21/1615/002
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot:
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -1170,9 +1236,7 @@ Please contact the patient's Haematologist/Oncologist for more information and c
 
 ## Package leaflet: Information for the patient
 
-## Padcev 20 mg powder for concentrate for solution for infusion
-
-## Padcev 30 mg powder for concentrate for solution for infusion
+## Padcev 20 mg powder for concentrate for solution for infusion Padcev 30 mg powder for concentrate for solution for infusion
 
 enfortumab vedotin
 
@@ -1188,7 +1252,7 @@ enfortumab vedotin
 
 1. What Padcev is and what it is used for
 2. What you need to know before you are given Padcev
-3. How to use Padcev
+3. How you are given Padcev
 4. Possible side effects
 5. How to store Padcev
 6. Contents of the pack and other information
@@ -1260,7 +1324,11 @@ Men being treated with this medicine are advised to have sperm samples frozen an
 
 Do not drive or operate machines if you feel unwell during treatment.
 
-## 3. How to use Padcev
+## Padcev contains polysorbate 20
+
+This medicine contains 0.40 mg and 0.60 mg of polysorbate 20 in each 20 mg and 30 mg dose of Padcev, respectively. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## 3. How you are given Padcev
 
 You will receive Padcev in a hospital or clinic, under the supervision of a doctor experienced in giving such treatments.
 
@@ -1272,6 +1340,8 @@ When used alone, the recommended dose of this medicine is 1.25 mg/kg on days 1, 
 
 You will receive Padcev by intravenous infusion into your vein over 30 minutes. Padcev will be added to an infusion bag containing either glucose, sodium chloride or Lactated Ringer's solution before use.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you miss a dose of Padcev
 
 It is very important for you to keep all of your appointments to receive Padcev. If you miss an appointment, ask your doctor when to schedule your next dose.
@@ -1280,28 +1350,21 @@ It is very important for you to keep all of your appointments to receive Padcev.
 
 Do not stop treatment with Padcev unless you have discussed this with your doctor. Stopping your treatment may stop the effect of the medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-Some possible side effects may be serious:
+## Some possible side effects may be serious:
 
 - Skin reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis and other severe rashes such as symmetrical drug-related intertriginous and flexural exanthaema). Tell your doctor right away if you have any of these signs of a severe skin reaction: rash or itching that continues to get worse or comes back after treatment, skin blistering or peeling, painful sores or ulcers in mouth or nose, throat, or genital area, fever or flu-like symptoms or swollen lymph nodes (frequency not known).
 
 - High blood sugar (hyperglycaemia). Tell your doctor right away if you have any symptoms of high blood sugar, including: frequent urination, increased thirst, blurred vision, confusion, drowsiness, loss of appetite, fruity smell on your breath, nausea, vomiting or stomach pain (may affect more than 1 in 10 people).
 
 - A serious complication of diabetes with high levels of ketones in the blood that can make blood more acidic (diabetic ketoacidosis) (frequency not known).
-
 - Lung problems (pneumonitis/interstitial lung disease). Tell your doctor right away if you get new or worsening symptoms, including trouble breathing, shortness of breath or cough (may affect up to 1 in 10 people).
-
 - Nerve problems (peripheral neuropathy such as motor neuropathy, sensimotor neuropathy, paraesthesia, hypoaesthesia and muscular weakness). Tell your doctor right away if you get numbness, tingling or a tingling sensation in your hands or feet or muscle weakness (may affect more than 1 in 10 people).
-
 - Leakage of Padcev out of your vein into the tissues around your infusion site (extravasation). Tell your doctor or get medical help right away if you notice any redness, swelling, itching or discomfort at the infusion site. If Padcev leaks from the injection site or the vein into the nearby skin and tissues, it could cause an infusion site reaction. These reactions can happen right after you receive an infusion, but sometimes may happen days after your infusion (may affect up to 1 in 10 people).
-
 - Serious infection (sepsis) when bacteria and their toxins circulate in the blood leading to organ damage (may affect up to 1 in 10 people).
-
 - Infections seen in patients with a weakened immune system (fungal infections) (frequency not known).
 
 <div style=\"page-break-after: always\"></div>
@@ -1336,6 +1399,7 @@ The following side effects have been reported with Padcev in combination with pe
 - tiredness
 - decreased appetite
 - change in sense of taste
+- rash
 - dry eye
 - hair loss
 - weight loss
@@ -1353,10 +1417,10 @@ The following side effects have been reported with Padcev in combination with pe
 - eye redness
 - hives on the skin
 - redness in the skin
-- rash
 - inflamed, itchy, cracked and rough patches of skin
 - redness and tingling on the palms or soles of feet
 - skin peeling
+- skin peeling all over the body
 - mouth ulcer
 - rash with accompanying symptoms: itchiness, redness, red bumps or red patches on the skin, fluid-filled blisters, large blisters, skin lesions
 - increased lipase (a blood test done to check your pancreas)
@@ -1370,7 +1434,6 @@ The following side effects have been reported with Padcev in combination with pe
 - problems affecting nerve function causing odd sensation or problems with movement
 - allergic reaction to skin
 - rash with accompanying symptoms: spots that look like bullseyes, skin peeling, flat fluid-filled blister
-- skin peeling all over the body
 - inflammation in skin folds including the groin
 - blister or blister-like lesions on the skin
 - inflammation or itchiness appearing on the legs and feet only
@@ -1458,7 +1521,7 @@ Do not store any unused portion of the infusion solution for reuse. Any unused m
 - One vial of 30 mg powder for concentrate for solution for infusion contains 30 mg of enfortumab vedotin
 - After reconstitution, each mL of solution contains 10 mg of enfortumab vedotin
 
-The other ingredients are histidine, histidine hydrochloride monohydrate, trehalose dihydrate and polysorbate 20.
+The other ingredients are histidine, histidine hydrochloride monohydrate, trehalose dihydrate and polysorbate 20 (E 432) (see section 2 \"Padcev contains polysorbate 20\").
 
 ## What Padcev looks like and contents of the pack
 
@@ -1514,9 +1577,7 @@ Tél: +33 (0)1 55917500
 
 ## Hrvatska
 
-Astellas d.o.o
-
-Tel: +385 1670 0102
+Astellas d.o.o Tel: +385 1670 0102
 
 ## Ireland
 
@@ -1570,7 +1631,9 @@ Astellas Pharma Sp. z o.o. Tel.: +48 225451 111
 
 ## Portugal
 
-Astellas Farma, Lda. Tel: +351 21 4401300
+Astellas Farma, Lda.
+
+Tel: +351 21 4401300
 
 ## România
 
@@ -1664,25 +1727,3 @@ No incompatibilities have been observed with closed system transfer device compo
 Padcev is for single use only.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for enfortumab vedotin, the scientific conclusions of PRAC are as follows:
-
-In view of available data on leukopenia, fungal infections and urinary tract infections from clinical trials and spontaneous reports including in some cases a close temporal relationship, a positive de-challenge and positive re-challenge (for leukopenia), the PRAC considers a causal relationship between enfortumab vedotin and leukopenia, fungal infections and urinary tract infections is at least a reasonable possibility. The product information of products containing enfortumab vedotin should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for enfortumab vedotin the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing enfortumab vedotin is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

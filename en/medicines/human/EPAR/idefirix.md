@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-09-14 15:49:00
+document_datetime: 2026-10-16 16:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/idefirix.html
 document_name: idefirix.html
 version: success
-processing_time: 0.140148
-conversion_datetime: 2026-09-17 20:50:31.964094
+processing_time: 0.1659176
+conversion_datetime: 2026-10-19 23:45:06.07539
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.128.0
-  docling-core: 2.97.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.20.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Idefirix
 
 [RSS](/en/individual-human-medicine.xml/67340)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -122,7 +122,7 @@ English (EN) (121.66 KB - PDF)
 
 [View](/en/documents/overview/idefirix-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-393)
+[Other languages (22)](#file-language-dropdown-339)
 
 български (BG) (125.15 KB - PDF)
 
@@ -268,161 +268,161 @@ English (EN) (816.76 KB - PDF)
 
 Idefirix : EPAR - Product information
 
-English (EN) (350.71 KB - PDF)
+English (EN) (197.02 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/en/documents/product-information/idefirix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-223)
+[Other languages (24)](#file-language-dropdown-277)
 
-български (BG) (410.19 KB - PDF)
+български (BG) (291.06 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/bg/documents/product-information/idefirix-epar-product-information_bg.pdf)
 
-español (ES) (350.11 KB - PDF)
+español (ES) (172 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/es/documents/product-information/idefirix-epar-product-information_es.pdf)
 
-čeština (CS) (365.95 KB - PDF)
+čeština (CS) (245.45 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/cs/documents/product-information/idefirix-epar-product-information_cs.pdf)
 
-dansk (DA) (365.44 KB - PDF)
+dansk (DA) (197.99 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/da/documents/product-information/idefirix-epar-product-information_da.pdf)
 
-Deutsch (DE) (359.48 KB - PDF)
+Deutsch (DE) (184.32 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/de/documents/product-information/idefirix-epar-product-information_de.pdf)
 
-eesti (ET) (335.95 KB - PDF)
+eesti (ET) (168.73 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/et/documents/product-information/idefirix-epar-product-information_et.pdf)
 
-ελληνικά (EL) (543.18 KB - PDF)
+ελληνικά (EL) (406.1 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/el/documents/product-information/idefirix-epar-product-information_el.pdf)
 
-français (FR) (360.24 KB - PDF)
+français (FR) (188.08 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/fr/documents/product-information/idefirix-epar-product-information_fr.pdf)
 
-hrvatski (HR) (421.42 KB - PDF)
+hrvatski (HR) (294.15 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/hr/documents/product-information/idefirix-epar-product-information_hr.pdf)
 
-italiano (IT) (347.37 KB - PDF)
+italiano (IT) (180.12 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/it/documents/product-information/idefirix-epar-product-information_it.pdf)
 
-latviešu (LV) (406.31 KB - PDF)
+latviešu (LV) (270.63 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/lv/documents/product-information/idefirix-epar-product-information_lv.pdf)
 
-lietuvių (LT) (409.43 KB - PDF)
+lietuvių (LT) (269.55 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/lt/documents/product-information/idefirix-epar-product-information_lt.pdf)
 
-magyar (HU) (424.05 KB - PDF)
+magyar (HU) (284.61 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/hu/documents/product-information/idefirix-epar-product-information_hu.pdf)
 
-Malti (MT) (441.88 KB - PDF)
+Malti (MT) (280.8 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/mt/documents/product-information/idefirix-epar-product-information_mt.pdf)
 
-Nederlands (NL) (336.41 KB - PDF)
+Nederlands (NL) (183.83 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/nl/documents/product-information/idefirix-epar-product-information_nl.pdf)
 
-polski (PL) (407.94 KB - PDF)
+polski (PL) (270 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/pl/documents/product-information/idefirix-epar-product-information_pl.pdf)
 
-português (PT) (353.13 KB - PDF)
+português (PT) (182.43 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/pt/documents/product-information/idefirix-epar-product-information_pt.pdf)
 
-română (RO) (403.48 KB - PDF)
+română (RO) (269.85 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/ro/documents/product-information/idefirix-epar-product-information_ro.pdf)
 
-slovenčina (SK) (425.87 KB - PDF)
+slovenčina (SK) (285.08 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/sk/documents/product-information/idefirix-epar-product-information_sk.pdf)
 
-slovenščina (SL) (408.08 KB - PDF)
+slovenščina (SL) (261.07 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/sl/documents/product-information/idefirix-epar-product-information_sl.pdf)
 
-suomi (FI) (346.16 KB - PDF)
+suomi (FI) (179.51 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/fi/documents/product-information/idefirix-epar-product-information_fi.pdf)
 
-svenska (SV) (338.69 KB - PDF)
+svenska (SV) (171.27 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/sv/documents/product-information/idefirix-epar-product-information_sv.pdf)
 
-Íslenska (IS) (295.04 KB - PDF)
+Íslenska (IS) (140.27 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/is/documents/product-information/idefirix-epar-product-information_is.pdf)
 
-norsk (NO) (372.81 KB - PDF)
+norsk (NO) (205.41 KB - PDF)
 
-**First published:** 28/08/2020 **Last updated:** 14/09/2026
+**First published:** 28/08/2020 **Last updated:** 16/10/2026
 
 [View](/no/documents/product-information/idefirix-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** R/0000327647
+**Latest procedure affecting product information:** T/0000370647
 
-03/07/2026
+15/10/2026
 
 icon globe
 
@@ -447,7 +447,7 @@ English (EN) (11.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/idefirix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-163)
+[Other languages (24)](#file-language-dropdown-986)
 
 български (BG) (32.63 KB - PDF)
 
@@ -628,13 +628,15 @@ Idefirix is indicated for desensitisation treatment of highly sensitised adult k
 - **PRIME: priority medicine**
     - This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853) .
 - **Marketing authorisation holder**
-    - Hansa Biopharma AB P.O. Box 785  SE-22007  Lund  Sweden
+    - SERB SA Avenue Louise 480  
+1050 Brussels  
+Belgium
 - **Opinion adopted**
     - 25/06/2020
 - **Marketing authorisation issued**
     - 25/08/2020
 - **Revision**
-    - 10
+    - 11
 
 ## Assessment history
 
@@ -646,9 +648,9 @@ Collapse section
 
 Idefirix : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (168.96 KB - PDF)
+English (EN) (167.05 KB - PDF)
 
-**First published:** 02/07/2025 **Last updated:** 14/09/2026
+**First published:** 02/07/2025 **Last updated:** 16/10/2026
 
 [View](/en/documents/procedural-steps-after/idefirix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -712,6 +714,6 @@ English (EN) (166.42 KB - PDF)
 
 **This page was last updated on**
 
-14/09/2026
+16/10/2026
 
 ## Share this page

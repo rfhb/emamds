@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-06-23 17:20:00
+document_datetime: 2026-10-13 12:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qalsody.html
 document_name: qalsody.html
 version: success
-processing_time: 0.1367602
-conversion_datetime: 2026-06-25 16:44:57.706892
+processing_time: 0.1590839
+conversion_datetime: 2026-10-19 23:50:30.800051
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Qalsody
 
 [RSS](/en/individual-human-medicine.xml/232658)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -120,7 +120,7 @@ English (EN) (127.63 KB - PDF)
 
 [View](/en/documents/overview/qalsody-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-494)
+[Other languages (22)](#file-language-dropdown-808)
 
 български (BG) (160.39 KB - PDF)
 
@@ -266,167 +266,167 @@ English (EN) (166.27 KB - PDF)
 
 Qalsody : EPAR - Product information
 
-English (EN) (535.74 KB - PDF)
+English (EN) (295.93 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/en/documents/product-information/qalsody-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-609)
+[Other languages (24)](#file-language-dropdown-585)
 
-български (BG) (400.92 KB - PDF)
+български (BG) (335.41 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/bg/documents/product-information/qalsody-epar-product-information_bg.pdf)
 
-español (ES) (444.25 KB - PDF)
+español (ES) (287.05 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/es/documents/product-information/qalsody-epar-product-information_es.pdf)
 
-čeština (CS) (401.01 KB - PDF)
+čeština (CS) (333.62 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/cs/documents/product-information/qalsody-epar-product-information_cs.pdf)
 
-dansk (DA) (460.7 KB - PDF)
+dansk (DA) (281.46 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/da/documents/product-information/qalsody-epar-product-information_da.pdf)
 
-Deutsch (DE) (464.4 KB - PDF)
+Deutsch (DE) (287.93 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/de/documents/product-information/qalsody-epar-product-information_de.pdf)
 
-eesti (ET) (439.3 KB - PDF)
+eesti (ET) (281.23 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/et/documents/product-information/qalsody-epar-product-information_et.pdf)
 
-ελληνικά (EL) (505.31 KB - PDF)
+ελληνικά (EL) (414.7 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/el/documents/product-information/qalsody-epar-product-information_el.pdf)
 
-français (FR) (467.77 KB - PDF)
+français (FR) (298.02 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/fr/documents/product-information/qalsody-epar-product-information_fr.pdf)
 
-hrvatski (HR) (642.49 KB - PDF)
+hrvatski (HR) (665.14 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/hr/documents/product-information/qalsody-epar-product-information_hr.pdf)
 
-italiano (IT) (632 KB - PDF)
+italiano (IT) (306.45 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/it/documents/product-information/qalsody-epar-product-information_it.pdf)
 
-latviešu (LV) (460.96 KB - PDF)
+latviešu (LV) (347.27 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/lv/documents/product-information/qalsody-epar-product-information_lv.pdf)
 
-lietuvių (LT) (462.16 KB - PDF)
+lietuvių (LT) (365.98 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/lt/documents/product-information/qalsody-epar-product-information_lt.pdf)
 
-magyar (HU) (414.74 KB - PDF)
+magyar (HU) (338.18 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/hu/documents/product-information/qalsody-epar-product-information_hu.pdf)
 
-Malti (MT) (498.17 KB - PDF)
+Malti (MT) (372.58 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/mt/documents/product-information/qalsody-epar-product-information_mt.pdf)
 
-Nederlands (NL) (466.95 KB - PDF)
+Nederlands (NL) (341.52 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/nl/documents/product-information/qalsody-epar-product-information_nl.pdf)
 
-polski (PL) (635.58 KB - PDF)
+polski (PL) (344.5 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/pl/documents/product-information/qalsody-epar-product-information_pl.pdf)
 
-português (PT) (407.53 KB - PDF)
+português (PT) (283.18 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/pt/documents/product-information/qalsody-epar-product-information_pt.pdf)
 
-română (RO) (469.64 KB - PDF)
+română (RO) (367.75 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/ro/documents/product-information/qalsody-epar-product-information_ro.pdf)
 
-slovenčina (SK) (533.84 KB - PDF)
+slovenčina (SK) (499.84 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/sk/documents/product-information/qalsody-epar-product-information_sk.pdf)
 
-slovenščina (SL) (463.05 KB - PDF)
+slovenščina (SL) (348.74 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/sl/documents/product-information/qalsody-epar-product-information_sl.pdf)
 
-suomi (FI) (479.3 KB - PDF)
+suomi (FI) (276.21 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/fi/documents/product-information/qalsody-epar-product-information_fi.pdf)
 
-svenska (SV) (415.51 KB - PDF)
+svenska (SV) (303.01 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/sv/documents/product-information/qalsody-epar-product-information_sv.pdf)
 
-Íslenska (IS) (595.61 KB - PDF)
+Íslenska (IS) (306.44 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/is/documents/product-information/qalsody-epar-product-information_is.pdf)
 
-norsk (NO) (447.58 KB - PDF)
+norsk (NO) (320.45 KB - PDF)
 
-**First published:** 14/06/2024 **Last updated:** 23/06/2026
+**First published:** 14/06/2024 **Last updated:** 13/10/2026
 
 [View](/no/documents/product-information/qalsody-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000348686
+**Latest procedure affecting product information:** VR/0000370722
 
-19/06/2026
+13/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -445,7 +445,7 @@ English (EN) (48.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/qalsody-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-636)
+[Other languages (24)](#file-language-dropdown-609)
 
 български (BG) (52.69 KB - PDF)
 
@@ -623,13 +623,15 @@ Qalsody is indicated for the treatment of adults with amyotrophic lateral sclero
 - **Orphan**
     - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
 - **Marketing authorisation holder**
-    - Biogen Netherlands B.V. Prins Mauritslaan 13  1171 LP Badhoevedorp  The Netherlands
+    - Biogen Netherlands B.V. Prins Mauritslaan 13  
+1171 LP Badhoevedorp  
+The Netherlands
 - **Opinion adopted**
     - 22/02/2024
 - **Marketing authorisation issued**
     - 29/05/2024
 - **Revision**
-    - 3
+    - 4
 
 ## Assessment history
 
@@ -641,9 +643,9 @@ Collapse section
 
 Qalsody : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (164.26 KB - PDF)
+English (EN) (170.4 KB - PDF)
 
-**First published:** 11/05/2026 **Last updated:** 23/06/2026
+**First published:** 11/05/2026 **Last updated:** 13/10/2026
 
 [View](/en/documents/procedural-steps-after/qalsody-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -704,6 +706,6 @@ English (EN) (172.26 KB - PDF)
 
 **This page was last updated on**
 
-23/06/2026
+13/10/2026
 
 ## Share this page

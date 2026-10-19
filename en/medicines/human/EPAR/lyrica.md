@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-03-25 16:45:00
+document_datetime: 2026-10-13 17:31:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lyrica.html
 document_name: lyrica.html
 version: success
-processing_time: 0.147374
-conversion_datetime: 2026-03-29 12:34:41.150966
+processing_time: 0.2597691
+conversion_datetime: 2026-10-19 23:46:39.870336
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Lyrica
 
 [RSS](/en/individual-human-medicine.xml/66001)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -53,11 +53,11 @@ Expand section
 
 Collapse section
 
-## What is Lyrica?
+### What is Lyrica?
 
 Lyrica is a medicine that contains the active substance pregabalin. It is available as capsules (white: 25, 50 and 150 mg; white and orange: 75, 225 and 300 mg; orange: 100 mg; light orange: 200 mg) and as an oral solution (20 mg/ml).
 
-## What is Lyrica used for?
+### What is Lyrica used for?
 
 Lyrica is used to treat adults with the following conditions:
 
@@ -67,17 +67,17 @@ Lyrica is used to treat adults with the following conditions:
 
 The medicine can only be obtained with a prescription.
 
-## How is Lyrica used?
+### How is Lyrica used?
 
 The recommended starting dose of Lyrica is 150 mg per day, divided into two or three doses. After three to seven days, the dose can be increased to 300 mg per day. Doses can be increased up to twice more until the most effective dose is reached. The maximum dose is 600 mg per day. Stopping treatment with Lyrica should also be done gradually, over at least a week.
 
 The capsules should be swallowed whole with water. Patients who have kidney problems need to take lower doses.
 
-## How does Lyrica work?
+### How does Lyrica work?
 
 The active substance in Lyrica, pregabalin, is similar in structure to the body's own 'neurotransmitter' gamma-amino butyric acid (GABA), but has very different biological effects. Neurotransmitters are chemicals that allow nerve cells to communicate with each other. The exact way that pregabalin works is not fully understood, but it is thought to affect the way that calcium enters nerve cells. This reduces the activity of some of the nerve cells in the brain and spinal cord, reducing the release of other neurotransmitters that are involved in pain, epilepsy and anxiety.
 
-## How has Lyrica been studied?
+### How has Lyrica been studied?
 
 Lyrica has been compared with placebo (a dummy treatment) in 22 studies:
 
@@ -85,7 +85,7 @@ Lyrica has been compared with placebo (a dummy treatment) in 22 studies:
 - for epilepsy, there were three studies involving over 1,000 patients. The main measure of effectiveness was the change in the number of seizures after 11 to 12 weeks;
 - for generalised anxiety disorder, there were eight studies involving over 3,000 patients. Effectiveness was measured using a standard anxiety questionnaire after four to eight weeks.
 
-## What benefit has Lyrica shown during the studies?
+### What benefit has Lyrica shown during the studies?
 
 In neuropathic pain, Lyrica was more effective than placebo in decreasing pain. In peripheral neuropathic pain, 35% of the patients treated with Lyrica had a decrease in pain scores of 50% or more, compared with 18% of the patients treated with placebo. In central neuropathic pain, 22% of patients treated with Lyrica had a decrease in pain scores of 50% or more, compared with 8% of the patients treated with placebo.
 
@@ -93,17 +93,17 @@ In epilepsy, Lyrica reduced the number of seizures: about 45% of the patients ta
 
 In generalised anxiety disorder, Lyrica was more effective than placebo: 52% of the patients taking Lyrica had an improvement of 50% or more, compared with 38% of the patients taking placebo.
 
-## What is the risk associated with Lyrica?
+### What is the risk associated with Lyrica?
 
 The most common side effects with Lyrica (seen in more than 1 patient in 10) are dizziness and somnolence (sleepiness). For the full list of all side effects reported with Lyrica, see the package leaflet.
 
 Lyrica should not be used in people who may be hypersensitive (allergic) to pregabalin or any of the other ingredients.
 
-## Why has Lyrica been approved?
+### Why has Lyrica been approved?
 
 The CHMP decided that Lyrica's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## Other information about Lyrica
+### Other information about Lyrica
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Lyrica to Pfizer Limited on 6 July 2004. The marketing authorisation is valid for an unlimited period.
 
@@ -117,7 +117,7 @@ English (EN) (62.06 KB - PDF)
 
 [View](/en/documents/overview/lyrica-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-165)
+[Other languages (21)](#file-language-dropdown-385)
 
 български (BG) (164.36 KB - PDF)
 
@@ -149,7 +149,7 @@ Deutsch (DE) (126.53 KB - PDF)
 
 [View](/de/documents/overview/lyrica-epar-summary-public_de.pdf)
 
-eesti keel (ET) (125.76 KB - PDF)
+eesti (ET) (125.76 KB - PDF)
 
 **First published:** 18/08/2009 **Last updated:** 17/03/2023
 
@@ -173,13 +173,13 @@ italiano (IT) (126.9 KB - PDF)
 
 [View](/it/documents/overview/lyrica-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (153.54 KB - PDF)
+latviešu (LV) (153.54 KB - PDF)
 
 **First published:** 18/08/2009 **Last updated:** 17/03/2023
 
 [View](/lv/documents/overview/lyrica-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (151.39 KB - PDF)
+lietuvių (LT) (151.39 KB - PDF)
 
 **First published:** 18/08/2009 **Last updated:** 17/03/2023
 
@@ -233,7 +233,7 @@ slovenščina (SL) (149.37 KB - PDF)
 
 [View](/sl/documents/overview/lyrica-epar-summary-public_sl.pdf)
 
-Suomi (FI) (123.11 KB - PDF)
+suomi (FI) (123.11 KB - PDF)
 
 **First published:** 18/08/2009 **Last updated:** 17/03/2023
 
@@ -257,167 +257,168 @@ English (EN) (1.05 MB - PDF)
 
 Lyrica : EPAR - Product information
 
-English (EN) (639.55 KB - PDF)
+English (EN) (1.02 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/en/documents/product-information/lyrica-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-838)
+[Other languages (24)](#file-language-dropdown-534)
 
 български (BG) (1.17 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/bg/documents/product-information/lyrica-epar-product-information_bg.pdf)
 
-español (ES) (617.9 KB - PDF)
+español (ES) (616.69 KB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/es/documents/product-information/lyrica-epar-product-information_es.pdf)
 
-čeština (CS) (1009.79 KB - PDF)
+čeština (CS) (1.27 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/cs/documents/product-information/lyrica-epar-product-information_cs.pdf)
 
 dansk (DA) (1.09 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/da/documents/product-information/lyrica-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.04 MB - PDF)
+Deutsch (DE) (1.09 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/de/documents/product-information/lyrica-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.21 MB - PDF)
+eesti (ET) (1.08 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/et/documents/product-information/lyrica-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.24 MB - PDF)
+ελληνικά (EL) (1.23 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/el/documents/product-information/lyrica-epar-product-information_el.pdf)
 
-français (FR) (1.47 MB - PDF)
+français (FR) (1.96 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/fr/documents/product-information/lyrica-epar-product-information_fr.pdf)
 
-hrvatski (HR) (809.19 KB - PDF)
+hrvatski (HR) (968.77 KB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/hr/documents/product-information/lyrica-epar-product-information_hr.pdf)
 
-íslenska (IS) (1015.54 KB - PDF)
-
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
-
-[View](/is/documents/product-information/lyrica-epar-product-information_is.pdf)
-
 italiano (IT) (1.06 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/it/documents/product-information/lyrica-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.22 MB - PDF)
+latviešu (LV) (1.18 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/lv/documents/product-information/lyrica-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.6 MB - PDF)
+lietuvių (LT) (1.29 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/lt/documents/product-information/lyrica-epar-product-information_lt.pdf)
 
-magyar (HU) (1.26 MB - PDF)
+magyar (HU) (1.22 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/hu/documents/product-information/lyrica-epar-product-information_hu.pdf)
 
-Malti (MT) (1.43 MB - PDF)
+Malti (MT) (1.42 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/mt/documents/product-information/lyrica-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.13 MB - PDF)
+Nederlands (NL) (1.14 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/nl/documents/product-information/lyrica-epar-product-information_nl.pdf)
 
-norsk (NO) (1.21 MB - PDF)
+polski (PL) (748.61 KB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
-
-[View](/no/documents/product-information/lyrica-epar-product-information_no.pdf)
-
-polski (PL) (749.05 KB - PDF)
-
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/pl/documents/product-information/lyrica-epar-product-information_pl.pdf)
 
 português (PT) (1 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/pt/documents/product-information/lyrica-epar-product-information_pt.pdf)
 
 română (RO) (1.33 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/ro/documents/product-information/lyrica-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.25 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/sk/documents/product-information/lyrica-epar-product-information_sk.pdf)
 
-slovenščina (SL) (873.45 KB - PDF)
+slovenščina (SL) (872.99 KB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/sl/documents/product-information/lyrica-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.13 MB - PDF)
+suomi (FI) (1.14 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/fi/documents/product-information/lyrica-epar-product-information_fi.pdf)
 
-svenska (SV) (842.5 KB - PDF)
+svenska (SV) (1.03 MB - PDF)
 
-**First published:** 23/09/2009 **Last updated:** 25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
 
 [View](/sv/documents/product-information/lyrica-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000334503
+Íslenska (IS) (1 MB - PDF)
 
-25/03/2026
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
+
+[View](/is/documents/product-information/lyrica-epar-product-information_is.pdf)
+
+norsk (NO) (1.35 MB - PDF)
+
+**First published:** 23/09/2009 **Last updated:** 13/10/2026
+
+[View](/no/documents/product-information/lyrica-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000368049
+
+13/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -435,7 +436,7 @@ English (EN) (45.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lyrica-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-752)
+[Other languages (24)](#file-language-dropdown-222)
 
 български (BG) (77.83 KB - PDF)
 
@@ -467,7 +468,7 @@ Deutsch (DE) (99.16 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/lyrica-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (77.78 KB - PDF)
+eesti (ET) (77.78 KB - PDF)
 
 **First published:** 23/08/2007 **Last updated:** 25/03/2026
 
@@ -491,25 +492,19 @@ hrvatski (HR) (68.18 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/lyrica-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (75.11 KB - PDF)
-
-**First published:** 23/08/2007 **Last updated:** 25/03/2026
-
-[View](/is/documents/all-authorised-presentations/lyrica-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (49.25 KB - PDF)
 
 **First published:** 23/08/2007 **Last updated:** 25/03/2026
 
 [View](/it/documents/all-authorised-presentations/lyrica-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (107.86 KB - PDF)
+latviešu (LV) (107.86 KB - PDF)
 
 **First published:** 23/08/2007 **Last updated:** 25/03/2026
 
 [View](/lv/documents/all-authorised-presentations/lyrica-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (128.24 KB - PDF)
+lietuvių (LT) (128.24 KB - PDF)
 
 **First published:** 23/08/2007 **Last updated:** 25/03/2026
 
@@ -532,12 +527,6 @@ Nederlands (NL) (107.31 KB - PDF)
 **First published:** 23/08/2007 **Last updated:** 25/03/2026
 
 [View](/nl/documents/all-authorised-presentations/lyrica-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (177.1 KB - PDF)
-
-**First published:** 23/08/2007 **Last updated:** 25/03/2026
-
-[View](/no/documents/all-authorised-presentations/lyrica-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (70.72 KB - PDF)
 
@@ -569,7 +558,7 @@ slovenščina (SL) (68.94 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/lyrica-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (81.58 KB - PDF)
+suomi (FI) (81.58 KB - PDF)
 
 **First published:** 23/08/2007 **Last updated:** 25/03/2026
 
@@ -581,29 +570,32 @@ svenska (SV) (17.56 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/lyrica-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (75.11 KB - PDF)
+
+**First published:** 23/08/2007 **Last updated:** 25/03/2026
+
+[View](/is/documents/all-authorised-presentations/lyrica-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (177.1 KB - PDF)
+
+**First published:** 23/08/2007 **Last updated:** 25/03/2026
+
+[View](/no/documents/all-authorised-presentations/lyrica-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Lyrica
-
-Active substance
-
-pregabalin
-
-International non-proprietary name (INN) or common name
-
-pregabalin
-
-Therapeutic area (MeSH)
-
-- Epilepsy
-- Anxiety Disorders
-- Neuralgia
-
-Anatomical therapeutic chemical (ATC) code
-
-N02BF02
+- **Name of medicine**
+    - Lyrica
+- **Active substance**
+    - pregabalin
+- **International non-proprietary name (INN) or common name**
+    - pregabalin
+- **Therapeutic area (MeSH)**
+        - Epilepsy
+        - Anxiety Disorders
+        - Neuralgia
+- **Anatomical therapeutic chemical (ATC) code**
+    - N02BF02
 
 ### Pharmacotherapeutic group
 
@@ -626,23 +618,17 @@ N02BF02
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000546
-
-Marketing authorisation holder
-
-Upjohn EESV
-
-Rivium Westlaan 142
-
-Marketing authorisation issued
-
-05/07/2004
-
-Revision
-
-72
+- **EMA product number**
+    - EMEA/H/C/000546
+- **Marketing authorisation holder**
+    - Viatris EESV Krijgsman 20  
+1186 DM  
+Amstelveen  
+Netherlands
+- **Marketing authorisation issued**
+    - 05/07/2004
+- **Revision**
+    - 73
 
 ## Assessment history
 
@@ -650,13 +636,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Lyrica : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.18 KB - PDF)
+English (EN) (167 KB - PDF)
 
-**First published:** 24/02/2025 **Last updated:** 25/03/2026
+**First published:** 24/02/2025 **Last updated:** 13/10/2026
 
 [View](/en/documents/procedural-steps-after/lyrica-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -686,7 +672,7 @@ English (EN) (129.66 KB - PDF)
 
 **First published:** 15/12/2023
 
-[View](/en/documents/scientific-conclusion/lyrica-h-c-psusa-00002511-202301-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/lyrica-h-c-psusa-00002511-202301-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Lyrica-H-C-PSUSA-00002511-202101 : EPAR - Scientific Conclusions
 
@@ -774,135 +760,135 @@ English (EN) (41.55 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/en/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_en.pdf)
+[View](/en/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-402)
+[Other languages (21)](#file-language-dropdown-576)
 
 български (BG) (179.22 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/bg/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_bg.pdf)
+[View](/bg/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_bg.pdf)
 
 español (ES) (43.79 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/es/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_es.pdf)
+[View](/es/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_es.pdf)
 
 čeština (CS) (123.09 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/cs/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_cs.pdf)
+[View](/cs/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_cs.pdf)
 
 dansk (DA) (43 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/da/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_da.pdf)
+[View](/da/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_da.pdf)
 
 Deutsch (DE) (44.04 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/de/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_de.pdf)
+[View](/de/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_de.pdf)
 
-eesti keel (ET) (43.02 KB - PDF)
+eesti (ET) (43.02 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/et/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_et.pdf)
+[View](/et/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_et.pdf)
 
 ελληνικά (EL) (177.95 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/el/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_el.pdf)
+[View](/el/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_el.pdf)
 
 français (FR) (38.79 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/fr/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_fr.pdf)
+[View](/fr/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_fr.pdf)
 
 italiano (IT) (42.96 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/it/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_it.pdf)
+[View](/it/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_it.pdf)
 
-latviešu valoda (LV) (146.22 KB - PDF)
-
-**First published:** 24/07/2009 **Last updated:** 24/07/2009
-
-[View](/lv/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_lv.pdf)
-
-lietuvių kalba (LT) (122.67 KB - PDF)
+latviešu (LV) (146.22 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/lt/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_lt.pdf)
+[View](/lv/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_lv.pdf)
+
+lietuvių (LT) (122.67 KB - PDF)
+
+**First published:** 24/07/2009 **Last updated:** 24/07/2009
+
+[View](/lt/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_lt.pdf)
 
 magyar (HU) (117.92 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/hu/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_hu.pdf)
+[View](/hu/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_hu.pdf)
 
 Malti (MT) (153.21 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/mt/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_mt.pdf)
+[View](/mt/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_mt.pdf)
 
 Nederlands (NL) (43.34 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/nl/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_nl.pdf)
+[View](/nl/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_nl.pdf)
 
 polski (PL) (127.83 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/pl/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_pl.pdf)
+[View](/pl/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_pl.pdf)
 
 português (PT) (44.13 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/pt/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_pt.pdf)
+[View](/pt/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_pt.pdf)
 
 română (RO) (120.39 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/ro/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_ro.pdf)
+[View](/ro/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_ro.pdf)
 
 slovenčina (SK) (121.57 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/sk/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_sk.pdf)
+[View](/sk/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_sk.pdf)
 
 slovenščina (SL) (116.69 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/sl/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_sl.pdf)
+[View](/sl/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_sl.pdf)
 
-Suomi (FI) (42.91 KB - PDF)
+suomi (FI) (42.91 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/fi/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_fi.pdf)
+[View](/fi/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_fi.pdf)
 
 svenska (SV) (43.47 KB - PDF)
 
 **First published:** 24/07/2009 **Last updated:** 24/07/2009
 
-[View](/sv/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-lyrica_sv.pdf)
+[View](/sv/documents/smop/questions-answers-recommendation-refusal-change-marketing-authorisation-lyrica_sv.pdf)
 
 Lyrica-H-C-546-II-0007 : EPAR - Scientific Discussion - Variation
 
@@ -924,7 +910,7 @@ English (EN) (688.01 KB - PDF)
 
 [View](/en/documents/scientific-discussion-variation/lyrica-h-c-546-ii-0004-epar-scientific-discussion-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Lyrica : EPAR - Scientific Discussion
 
@@ -948,30 +934,169 @@ The approved product information for this medicine is available below showing th
 
 Lyrica : EPAR - Product information - tracked changes
 
-English (EN) (378.85 KB - DOCX)
+English (EN) (370.23 KB - DOCX)
 
-**First published:** 02/05/2025 **Last updated:** 25/03/2026
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
 
 [View](/en/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (1)](#file-language-dropdown-234)
+[Other languages (24)](#file-language-dropdown-272)
 
-lietuvių kalba (LT) (965.6 KB - DOCX)
+български (BG) (466.92 KB - DOCX)
 
-**First published:** 02/05/2025 **Last updated:** 18/09/2025
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
 
-[View](/lt/media/68055)
+[View](/bg/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (406.65 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/es/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (498.02 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/cs/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (433.61 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/da/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (439.18 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/de/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_de.docx)
+
+eesti (ET) (416.39 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/et/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (472.97 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/el/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (689.59 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/fr/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (358.79 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/hr/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_hr.docx)
+
+italiano (IT) (816.2 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/it/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_it.docx)
+
+latviešu (LV) (584.3 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/lv/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių (LT) (974.89 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/lt/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (374.72 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/hu/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (767.67 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/mt/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (753.52 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/nl/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_nl.docx)
+
+polski (PL) (830.77 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/pl/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (956.67 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/pt/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (522.44 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/ro/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (762.71 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/sk/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (605.08 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/sl/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_sl.docx)
+
+suomi (FI) (433.92 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/fi/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (447.54 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/sv/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (490.64 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/is/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (619.29 KB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 13/10/2026
+
+[View](/no/documents/product-information-tracked-changes/lyrica-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Lyrica
 
+- [Detection of therapeutic cascades associated with gabapentinoids and benzodiazepines in adults over 65 years old in Spain using BIFAP through prescription sequence symmetry analysis (GABALOOP) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000241)
 - [An Evaluation of the Misuse and Abuse of Pregabalin using RADARS® System Programs in the United States and the European Union - post-authorisation study](https://catalogues.ema.europa.eu/study/29172)
 
 ## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
 **This page was last updated on**
 
-25/03/2026
+13/10/2026
 
 ## Share this page

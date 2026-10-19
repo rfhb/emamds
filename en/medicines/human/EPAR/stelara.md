@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-18 16:03:00
+document_datetime: 2026-10-16 13:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/stelara.html
 document_name: stelara.html
 version: success
-processing_time: 0.2422556
-conversion_datetime: 2026-08-22 23:19:45.080071
+processing_time: 0.294881
+conversion_datetime: 2026-10-19 23:52:18.601492
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Stelara
 
 [RSS](/en/individual-human-medicine.xml/66716)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -158,7 +158,7 @@ English (EN) (163.57 KB - PDF)
 
 [View](/en/documents/overview/stelara-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-926)
+[Other languages (22)](#file-language-dropdown-19)
 
 български (BG) (201.52 KB - PDF)
 
@@ -306,159 +306,159 @@ Stelara : EPAR - Product information
 
 English (EN) (2.91 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/en/documents/product-information/stelara-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-665)
+[Other languages (24)](#file-language-dropdown-344)
 
-български (BG) (3.16 MB - PDF)
+български (BG) (3.32 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/bg/documents/product-information/stelara-epar-product-information_bg.pdf)
 
 español (ES) (2.7 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/es/documents/product-information/stelara-epar-product-information_es.pdf)
 
 čeština (CS) (3.95 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/cs/documents/product-information/stelara-epar-product-information_cs.pdf)
 
 dansk (DA) (3.33 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/da/documents/product-information/stelara-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.7 MB - PDF)
+Deutsch (DE) (3.75 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/de/documents/product-information/stelara-epar-product-information_de.pdf)
 
 eesti (ET) (2.74 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/et/documents/product-information/stelara-epar-product-information_et.pdf)
 
 ελληνικά (EL) (3.96 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/el/documents/product-information/stelara-epar-product-information_el.pdf)
 
 français (FR) (2.59 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/fr/documents/product-information/stelara-epar-product-information_fr.pdf)
 
 hrvatski (HR) (2.95 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/hr/documents/product-information/stelara-epar-product-information_hr.pdf)
 
 italiano (IT) (2.56 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/it/documents/product-information/stelara-epar-product-information_it.pdf)
 
-latviešu (LV) (2.95 MB - PDF)
+latviešu (LV) (2.96 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/lv/documents/product-information/stelara-epar-product-information_lv.pdf)
 
 lietuvių (LT) (3.47 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/lt/documents/product-information/stelara-epar-product-information_lt.pdf)
 
 magyar (HU) (2.65 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/hu/documents/product-information/stelara-epar-product-information_hu.pdf)
 
 Malti (MT) (3.63 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/mt/documents/product-information/stelara-epar-product-information_mt.pdf)
 
 Nederlands (NL) (2.6 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/nl/documents/product-information/stelara-epar-product-information_nl.pdf)
 
 polski (PL) (2.79 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/pl/documents/product-information/stelara-epar-product-information_pl.pdf)
 
 português (PT) (2.55 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/pt/documents/product-information/stelara-epar-product-information_pt.pdf)
 
 română (RO) (3.14 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/ro/documents/product-information/stelara-epar-product-information_ro.pdf)
 
-slovenčina (SK) (3.47 MB - PDF)
+slovenčina (SK) (3.48 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/sk/documents/product-information/stelara-epar-product-information_sk.pdf)
 
 slovenščina (SL) (2.77 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/sl/documents/product-information/stelara-epar-product-information_sl.pdf)
 
 suomi (FI) (3.3 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/fi/documents/product-information/stelara-epar-product-information_fi.pdf)
 
 svenska (SV) (3.86 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/sv/documents/product-information/stelara-epar-product-information_sv.pdf)
 
-Íslenska (IS) (2.73 MB - PDF)
+Íslenska (IS) (2.74 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/is/documents/product-information/stelara-epar-product-information_is.pdf)
 
 norsk (NO) (3.67 MB - PDF)
 
-**First published:** 23/01/2009 **Last updated:** 18/08/2026
+**First published:** 23/01/2009 **Last updated:** 16/10/2026
 
 [View](/no/documents/product-information/stelara-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000316205
+**Latest procedure affecting product information:** VR/0000342457
 
-23/07/2026
+03/09/2026
 
 icon globe
 
@@ -483,7 +483,7 @@ English (EN) (25.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/stelara-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-613)
+[Other languages (24)](#file-language-dropdown-950)
 
 български (BG) (27.41 KB - PDF)
 
@@ -637,7 +637,7 @@ English (EN) (29.2 KB - PDF)
 
 [View](/en/documents/conditions-member-states/stelara-epar-conditions-imposed-member-states-safe-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-345)
+[Other languages (21)](#file-language-dropdown-831)
 
 български (BG) (86.27 KB - PDF)
 
@@ -820,13 +820,15 @@ Psoriatic arthritis (PsA)
 - **EMA product number**
     - EMEA/H/C/000958
 - **Marketing authorisation holder**
-    - Janssen-Cilag International NV Turnhoutseweg, 30  B-2340 Beerse  Belgium
+    - Janssen-Cilag International NV Turnhoutseweg, 30  
+B-2340 Beerse  
+Belgium
 - **Opinion adopted**
     - 20/11/2008
 - **Marketing authorisation issued**
     - 16/01/2009
 - **Revision**
-    - 53
+    - 54
 
 ## Assessment history
 
@@ -838,9 +840,9 @@ Collapse section
 
 Stelara : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.08 KB - PDF)
+English (EN) (153.65 KB - PDF)
 
-**First published:** 24/04/2026 **Last updated:** 18/08/2026
+**First published:** 24/04/2026 **Last updated:** 16/10/2026
 
 [View](/en/documents/procedural-steps-after/stelara-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1010,7 +1012,7 @@ English (EN) (82.52 KB - PDF)
 
 **First published:** 26/07/2019
 
-[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-stelara-ii0071_en.pdf)
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-stelara-ii-0071_en.pdf)
 
 Stelara-H-C-000958-X-0049-G : EPAR - Assessment Report - Extension
 
@@ -1150,155 +1152,155 @@ The approved product information for this medicine is available below showing th
 
 Stelara : EPAR - Product information - tracked changes
 
-English (EN) (2.73 MB - DOCX)
+English (EN) (2.58 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/en/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-544)
+[Other languages (24)](#file-language-dropdown-210)
 
-български (BG) (2.73 MB - DOCX)
+български (BG) (2.64 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/bg/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (3.62 MB - DOCX)
+español (ES) (3.21 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/es/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (3.11 MB - DOCX)
+čeština (CS) (2.98 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/cs/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (3.34 MB - DOCX)
+dansk (DA) (3.32 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/da/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (2.62 MB - DOCX)
+Deutsch (DE) (2.49 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/de/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_de.docx)
 
-eesti (ET) (3.14 MB - DOCX)
+eesti (ET) (3.13 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/et/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (2.2 MB - DOCX)
+ελληνικά (EL) (2.02 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/el/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (2.54 MB - DOCX)
+français (FR) (2.53 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/fr/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (3.83 MB - DOCX)
+hrvatski (HR) (3.43 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/hr/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_hr.docx)
 
-italiano (IT) (1.89 MB - DOCX)
+italiano (IT) (1.86 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/it/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_it.docx)
 
-latviešu (LV) (3.22 MB - DOCX)
+latviešu (LV) (3.19 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/lv/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių (LT) (3.03 MB - DOCX)
+lietuvių (LT) (3.01 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/lt/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (2.94 MB - DOCX)
+magyar (HU) (2.92 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/hu/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (2.62 MB - DOCX)
+Malti (MT) (2.6 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/mt/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (3.16 MB - DOCX)
+Nederlands (NL) (3.14 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/nl/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_nl.docx)
 
-polski (PL) (2.78 MB - DOCX)
+polski (PL) (2.75 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/pl/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (3.28 MB - DOCX)
+português (PT) (3.26 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/pt/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (3.42 MB - DOCX)
+română (RO) (3.41 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/ro/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (3.04 MB - DOCX)
+slovenčina (SK) (3.02 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/sk/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (2.87 MB - DOCX)
+slovenščina (SL) (2.76 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/sl/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_sl.docx)
 
-suomi (FI) (2.74 MB - DOCX)
+suomi (FI) (2.72 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/fi/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (2.63 MB - DOCX)
+svenska (SV) (2.61 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/sv/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_sv.docx)
 
-Íslenska (IS) (2.77 MB - DOCX)
+Íslenska (IS) (2.74 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/is/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_is.docx)
 
-norsk (NO) (2.94 MB - DOCX)
+norsk (NO) (2.8 MB - DOCX)
 
-**First published:** 14/04/2025 **Last updated:** 18/08/2026
+**First published:** 14/04/2025 **Last updated:** 16/10/2026
 
 [View](/no/documents/product-information-tracked-changes/stelara-epar-product-information-tracked-changes_no.docx)
 
@@ -1307,7 +1309,7 @@ norsk (NO) (2.94 MB - DOCX)
 ## More information on Stelara
 
 - [EMEA-000311-PIP01-08-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000311-pip01-08-m04)
-- [EMEA-000311-PIP03-11-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000311-pip03-11-m07)
+- [EMA/PE/0000245485 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000245485)
 - [EMEA-000311-PIP04-13-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000311-pip04-13-m06)
 - [EMA/PE/0000232680 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000232680)
 - [EMEA-000311-PIP06-18 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000311-pip06-18)
@@ -1321,6 +1323,6 @@ norsk (NO) (2.94 MB - DOCX)
 
 **This page was last updated on**
 
-18/08/2026
+16/10/2026
 
 ## Share this page

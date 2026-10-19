@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-10-02 14:20:00
+document_datetime: 2026-10-14 16:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fymskina.html
 document_name: fymskina.html
 version: success
-processing_time: 0.1502297
-conversion_datetime: 2026-10-04 16:22:11.409947
+processing_time: 0.1887897
+conversion_datetime: 2026-10-19 23:44:04.236833
 docling_version:
-  docling-serve: 1.36.0
-  docling-jobkit: 3.8.1
-  docling: 2.133.0
-  docling-core: 2.99.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
   docling-ibm-models: 4.0.3
-  docling-parse: 7.22.1
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
@@ -120,7 +120,7 @@ English (EN) (149.53 KB - PDF)
 
 [View](/en/documents/overview/fymskina-epar-medicine-overview_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-458)
+[Other languages (20)](#file-language-dropdown-608)
 
 български (BG) (164.37 KB - PDF)
 
@@ -254,161 +254,161 @@ English (EN) (541.34 KB - PDF)
 
 Fymskina : EPAR - Product information
 
-English (EN) (1023.66 KB - PDF)
+English (EN) (2.02 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/en/documents/product-information/fymskina-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-482)
+[Other languages (24)](#file-language-dropdown-158)
 
-български (BG) (1.52 MB - PDF)
+български (BG) (1.51 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/bg/documents/product-information/fymskina-epar-product-information_bg.pdf)
 
 español (ES) (1.24 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/es/documents/product-information/fymskina-epar-product-information_es.pdf)
 
-čeština (CS) (1.44 MB - PDF)
+čeština (CS) (1.45 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/cs/documents/product-information/fymskina-epar-product-information_cs.pdf)
 
 dansk (DA) (1.19 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/da/documents/product-information/fymskina-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.31 MB - PDF)
+Deutsch (DE) (1.36 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/de/documents/product-information/fymskina-epar-product-information_de.pdf)
 
 eesti (ET) (1.23 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/et/documents/product-information/fymskina-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.51 MB - PDF)
+ελληνικά (EL) (1.56 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/el/documents/product-information/fymskina-epar-product-information_el.pdf)
 
-français (FR) (1.35 MB - PDF)
+français (FR) (1.34 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/fr/documents/product-information/fymskina-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.4 MB - PDF)
+hrvatski (HR) (1.38 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/hr/documents/product-information/fymskina-epar-product-information_hr.pdf)
 
 italiano (IT) (1.33 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/it/documents/product-information/fymskina-epar-product-information_it.pdf)
 
-latviešu (LV) (1.41 MB - PDF)
+latviešu (LV) (1.42 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/lv/documents/product-information/fymskina-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.46 MB - PDF)
+lietuvių (LT) (1.47 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/lt/documents/product-information/fymskina-epar-product-information_lt.pdf)
 
-magyar (HU) (1.46 MB - PDF)
+magyar (HU) (1.45 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/hu/documents/product-information/fymskina-epar-product-information_hu.pdf)
 
-Malti (MT) (1.48 MB - PDF)
+Malti (MT) (1.49 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/mt/documents/product-information/fymskina-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.32 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/nl/documents/product-information/fymskina-epar-product-information_nl.pdf)
 
 polski (PL) (1.53 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/pl/documents/product-information/fymskina-epar-product-information_pl.pdf)
 
-português (PT) (1.29 MB - PDF)
+português (PT) (1.38 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/pt/documents/product-information/fymskina-epar-product-information_pt.pdf)
 
-română (RO) (1.44 MB - PDF)
+română (RO) (1.45 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/ro/documents/product-information/fymskina-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.49 MB - PDF)
+slovenčina (SK) (1.47 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/sk/documents/product-information/fymskina-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.38 MB - PDF)
+slovenščina (SL) (1.4 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/sl/documents/product-information/fymskina-epar-product-information_sl.pdf)
 
 suomi (FI) (1.32 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/fi/documents/product-information/fymskina-epar-product-information_fi.pdf)
 
-svenska (SV) (1.4 MB - PDF)
+svenska (SV) (1.38 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/sv/documents/product-information/fymskina-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.25 MB - PDF)
+Íslenska (IS) (1.26 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/is/documents/product-information/fymskina-epar-product-information_is.pdf)
 
-norsk (NO) (1.37 MB - PDF)
+norsk (NO) (1.38 MB - PDF)
 
-**First published:** 07/10/2024 **Last updated:** 24/02/2026
+**First published:** 07/10/2024 **Last updated:** 14/10/2026
 
 [View](/no/documents/product-information/fymskina-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000324634
+**Latest procedure affecting product information:** VR/0000360508
 
-23/02/2026
+17/09/2026
 
 icon globe
 
@@ -433,7 +433,7 @@ English (EN) (24.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fymskina-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-361)
+[Other languages (24)](#file-language-dropdown-727)
 
 български (BG) (50.4 KB - PDF)
 
@@ -627,13 +627,16 @@ Fymskina, alone or in combination with MTX, is indicated for the treatment of ac
 - **Biosimilar**
     - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
 - **Marketing authorisation holder**
-    - Formycon AG Fraunhoferstrasse 15  Martinsried 82152  Planegg  Germany
+    - Formycon AG Fraunhoferstrasse 15  
+Martinsried 82152  
+Planegg  
+Germany
 - **Opinion adopted**
     - 25/07/2024
 - **Marketing authorisation issued**
     - 25/09/2024
 - **Revision**
-    - 6
+    - 7
 
 ## Assessment history
 
@@ -653,9 +656,9 @@ English (EN) (141.28 KB - PDF)
 
 Fymskina : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (166.01 KB - PDF)
+English (EN) (164.75 KB - PDF)
 
-**First published:** 03/03/2025 **Last updated:** 02/10/2026
+**First published:** 03/03/2025 **Last updated:** 14/10/2026
 
 [View](/en/documents/procedural-steps-after/fymskina-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -699,7 +702,7 @@ English (EN) (602.91 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/fymskina-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-275)
+[Other languages (24)](#file-language-dropdown-314)
 
 български (BG) (739.06 KB - DOCX)
 
@@ -847,6 +850,6 @@ norsk (NO) (749.1 KB - DOCX)
 
 **This page was last updated on**
 
-02/10/2026
+14/10/2026
 
 ## Share this page

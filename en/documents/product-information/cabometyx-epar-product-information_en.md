@@ -1,34 +1,30 @@
 ---
-document_datetime: 2026-02-27 10:14:55
-document_pages: 68
+document_datetime: 2026-10-15 10:20:19
+document_pages: 69
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cabometyx-epar-product-information_en.pdf
 document_name: cabometyx-epar-product-information_en.pdf
 version: success
-processing_time: 25.5118485
-conversion_datetime: 2026-03-01 20:24:54.788308
+processing_time: 34.5052493
+conversion_datetime: 2026-10-19 22:46:25.279001
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-CABOMETYX 20 mg film-coated tablets
+## CABOMETYX 20 mg film-coated tablets
 
-CABOMETYX 40 mg film-coated tablets
-
-CABOMETYX 60 mg film-coated tablets
+CABOMETYX 40 mg film-coated tablets CABOMETYX 60 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -64,15 +60,15 @@ Film-coated tablet.
 
 ## CABOMETYX 20 mg film-coated tablets
 
-The tablets are yellow round with no score and debossed with 'XL' on one side and '20' on the other side of the tablet.
+The tablets are yellow round with no score and debossed with \"XL\" on one side and \"20\" on the other side of the tablet.
 
 ## CABOMETYX 40 mg film-coated tablets
 
-The tablets are yellow triangle shaped with no score and debossed with 'XL' on one side and '40' on the other side of the tablet.
+The tablets are yellow triangle shaped with no score and debossed with \"XL\" on one side and \"40\" on the other side of the tablet.
 
 ## CABOMETYX 60 mg film-coated tablets
 
-The tablets are yellow oval shaped with no score and debossed with 'XL' on one side and '60' on the other side of the tablet.
+The tablets are yellow oval shaped with no score and debossed with \"XL\" on one side and \"60\" on the other side of the tablet.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -99,7 +95,7 @@ CABOMETYX is indicated as monotherapy for the treatment of adult patients with l
 
 ## Neuroendocrine Tumours (NET)
 
-CABOMETYX is indicated for the treatment of adult patients with unresectable or metastatic, well differentiated  extra-pancreatic  (epNET)  and  pancreatic  (pNET)  neuroendocrine  tumours  who  have progressed following at least one prior systemic therapy other than somatostatin analogues.
+CABOMETYX is indicated for the treatment of adult patients with unresectable or metastatic, well differentiated extra-pancreatic (epNET) and pancreatic (pNET) neuroendocrine tumours who have progressed following at least one prior systemic therapy other than somatostatin analogues.
 
 ## 4.2 Posology and method of administration
 
@@ -138,9 +134,9 @@ Table 1: Recommended CABOMETYX dose modifications for adverse reactions
 | Grade 1 and grade 2 adverse reactions which are tolerable and easily managed                                   | Dose adjustment is usually not required. Add supportive care as indicated.                                                                                                                                                                                                                                                                                                         |
 | Grade 2 adverse reactions which are intolerable and cannot be managed with a dose reduction or supportive care | Interrupt treatment until the adverse reaction resolves to grade ≤1. Add supportive care as indicated. Consider re-initiating at a reduced dose.                                                                                                                                                                                                                                   |
 | Grade 3 adverse reactions (except clinically nonrelevant laboratory abnormalities)                             | Interrupt treatment until the adverse reaction resolves to grade ≤1. Add supportive care as indicated. Re-initiate at a reduced dose.                                                                                                                                                                                                                                              |
-| Grade 4 adverse reactions (except clinically nonrelevant laboratory abnormalities)                             | Interrupt treatment. Institute appropriate medical care. If adverse reaction resolves to g rade ≤1, re -initiate at a reduced dose. If adverse reaction does not resolve, permanently discontinue the treatment.                                                                                                                                                                   |
+| Grade 4 adverse reactions (except clinically nonrelevant laboratory abnormalities)                             | Interrupt treatment. Institute appropriate medical care. If adverse reaction resolves to grade ≤1, re-initiate at a reduced dose. If adverse reaction does not resolve, permanently discontinue the treatment.                                                                                                                                                                     |
 | Liver enzymes elevations for RCC patients treated with CABOMETYX in combination with nivolumab                 |                                                                                                                                                                                                                                                                                                                                                                                    |
-| ALT or AST > 3 times ULN but ≤ 10 times ULN without concurrent total bilirubin ≥ 2 times ULN                   | Interrupt CABOMETYX and nivolumab until these adverse reactions resolves to Grade ≤1 Corticosteroid therapy may be considered if immune- mediated reaction is suspected (refer to nivolumab SmPC). Re-initiate with a single medicine or sequential re- initiating with both medicines after recovery may be considered. If re-initiating with nivolumab, refer to nivolumab SmPC. |
+| ALT or AST > 3 times ULN but ≤10 times ULN without concurrent total bilirubin ≥ 2 times ULN                    | Interrupt CABOMETYX and nivolumab until these adverse reactions resolves to Grade ≤1 Corticosteroid therapy may be considered if immune- mediated reaction is suspected (refer to nivolumab SmPC). Re-initiate with a single medicine or sequential re- initiating with both medicines after recovery may be considered. If re-initiating with nivolumab, refer to nivolumab SmPC. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -179,7 +175,7 @@ There are limited data in patients with cardiac impairment. No specific dosing r
 
 ## Paediatric population
 
-The safety and efficacy of cabozantinib in children and adolescents aged &lt;18 years have not yet been established. Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
+The safety and efficacy of cabozantinib in children and adolescents aged &lt;18 years have not been established. Available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
 
 ## Method of administration
 
@@ -199,7 +195,7 @@ Management of suspected adverse reactions may require temporary interruption or 
 
 Dose reductions and dose interruptions due to an adverse event (AE) occurred in 46-67% and 7084%, respectively, of cabozantinib-treated patients in the pivotal monotherapy clinical trials in RCC (METEOR, CABOSUN), HCC (CELESTIAL), DTC (COSMIC-311) and NET (CABINET). Two dose reductions were required in 9.4%-33% of patients. The median time to first dose reduction was 38-106 days and to first dose interruption was 28-68 days.
 
-When cabozantinib is given in combination with nivolumab in first-line advanced RCC , dose reduction and dose interruption of cabozantinib due to an AE occurred in 54.1% and 73.4% of patients in the clinical trial (CA2099ER). Two dose reductions were required in 9.4% of patients. The median time to first dose reduction was 106 days, and to first dose interruption was 68 days.
+When cabozantinib is given in combination with nivolumab in first-line advanced RCC, dose reduction and dose interruption of cabozantinib due to an AE occurred in 54.1% and 73.4% of patients in the clinical trial (CA2099ER). Two dose reductions were required in 9.4% of patients. The median time to first dose reduction was 106 days, and to first dose interruption was 68 days.
 
 ## Hepatotoxicity
 
@@ -217,11 +213,9 @@ In the HCC study (CELESTIAL), hepatic encephalopathy was reported more frequentl
 
 ## Perforations and fistulas
 
-Serious GI perforations and fistulas, sometimes fatal, have been observed with cabozantinib. Patients who have inflammatory bowel disease (e.g., Crohn's disease, ulcerative colitis, peritonitis,
+Serious GI perforations and fistulas, sometimes fatal, have been observed with cabozantinib. Patients who have inflammatory bowel disease (e.g., Crohn's disease, ulcerative colitis, peritonitis, diverticulitis, or appendicitis), have tumour infiltration in the GI tract, or have complications from prior GI surgery (particularly when associated with delayed or incomplete healing) should be carefully evaluated before initiating cabozantinib therapy and subsequently they should be monitored closely for symptoms of perforations and fistulas including abscesses and sepsis. Persistent or recurring diarrhoea while on treatment may be a risk factor for the development of anal fistula. Cabozantinib should be discontinued in patients who experience a GI perforation or a fistula that cannot be adequately managed.
 
 <div style=\"page-break-after: always\"></div>
-
-diverticulitis, or appendicitis), have tumour infiltration in the GI tract, or have complications from prior GI surgery (particularly when associated with delayed or incomplete healing) should be carefully evaluated before initiating cabozantinib therapy and subsequently they should be monitored closely for symptoms of perforations and fistulas including abscesses and sepsis. Persistent or recurring diarrhoea while on treatment may be a risk factor for the development of anal fistula. Cabozantinib should be discontinued in patients who experience a GI perforation or a fistula that cannot be adequately managed.
 
 ## Gastrointestinal (GI) disorders
 
@@ -281,11 +275,9 @@ Posterior reversible encephalopathy syndrome (PRES) has been observed with caboz
 
 ## Prolongation of QT interval
 
-Cabozantinib should be used with caution in patients with a history of QT interval prolongation, patients who are taking antiarrhythmics, or patients with relevant pre-existing cardiac disease, bradycardia, or electrolyte disturbances. When using cabozantinib, periodic monitoring with
+Cabozantinib should be used with caution in patients with a history of QT interval prolongation, patients who are taking antiarrhythmics, or patients with relevant pre-existing cardiac disease, bradycardia, or electrolyte disturbances. When using cabozantinib, periodic monitoring with on-treatment ECGs and electrolytes (serum calcium, potassium, and magnesium) should be considered.
 
 <div style=\"page-break-after: always\"></div>
-
-on-treatment ECGs and electrolytes (serum calcium, potassium, and magnesium) should be considered.
 
 ## Thyroid dysfunction
 
@@ -315,7 +307,7 @@ Patients with rare hereditary problems of galactose intolerance, total lactase d
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially \"sodium-free\".
 
 <div style=\"page-break-after: always\"></div>
 
@@ -327,7 +319,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that
 
 Administration of the strong CYP3A4 inhibitor ketoconazole (400 mg daily for 27 days) to healthy volunteers decreased cabozantinib clearance (by 29%) and increased single-dose plasma cabozantinib exposure (AUC) by 38%. Therefore, co-administration of strong CYP3A4 inhibitors (e.g., ritonavir, itraconazole, erythromycin, clarithromycin, grapefruit juice) with cabozantinib should be approached with caution.
 
-Administration of the strong CYP3A4 inducer rifampicin (600 mg daily for 31 days) to healthy volunteers increased cabozantinib clearance (4.3-fold) and decreased single-dose plasma cabozantinib exposure (AUC) by 77%. Chronic co-administration of strong CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampicin, phenobarbital or herbal preparations containing St. John's Wort [Hypericum perforatum] ) with cabozantinib should therefore be avoided.
+Administration of the strong CYP3A4 inducer rifampicin (600 mg daily for 31 days) to healthy volunteers increased cabozantinib clearance (4.3-fold) and decreased single-dose plasma cabozantinib exposure (AUC) by 77%. Chronic co-administration of strong CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampicin, phenobarbital or herbal preparations containing St. John's Wort [Hypericum perforatum]) with cabozantinib should therefore be avoided.
 
 ## Gastric pH modifying agents
 
@@ -355,11 +347,9 @@ Cabozantinib was an inhibitor (IC50 = 7.0 μM), but not a substrate, of Pgp tran
 
 ## Women of childbearing potential/Contraception in males and females
 
-Women of childbearing potential must be advised to avoid pregnancy while on cabozantinib. Female partners of male patients taking cabozantinib must also avoid pregnancy. Effective methods of contraception should be used by male and female patients and their partners during therapy, and for at least 4 months after completing therapy. Because oral contraceptives might possibly not be considered
+Women of childbearing potential must be advised to avoid pregnancy while on cabozantinib. Female partners of male patients taking cabozantinib must also avoid pregnancy. Effective methods of contraception should be used by male and female patients and their partners during therapy, and for at least 4 months after completing therapy. Because oral contraceptives might possibly not be considered as \"effective methods of contraception\", they should be used together with another method, such as a barrier method (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-as 'effective methods of contraception', they should be used together with another method, such as a barrier method (see section 4.5).
 
 ## Pregnancy
 
@@ -383,7 +373,7 @@ Cabozantinib has minor influence on the ability to drive and use machines. Adver
 
 ## Summary of safety profile
 
-The most common serious adverse drug reactions in the RCC population ( ≥1% incidence) are pneumonia, abdominal pain, diarrhoea, nausea, hypertension, embolism, hyponatraemia, pulmonary embolism, vomiting, dehydration, fatigue, asthenia, decreased appetite, deep vein thrombosis, dizziness, hypomagnesaemia and palmar-plantar erythrodysaesthesia syndrome (PPES).
+The most common serious adverse drug reactions in the RCC population (≥1% incidence) are pneumonia, abdominal pain, diarrhoea, nausea, hypertension, embolism, hyponatraemia, pulmonary embolism, vomiting, dehydration, fatigue, asthenia, decreased appetite, deep vein thrombosis, dizziness, hypomagnesaemia and palmar-plantar erythrodysaesthesia syndrome (PPES).
 
 The most common serious adverse drug reactions in the HCC population (≥1% incidence) are hepatic encephalopathy, asthenia, fatigue, PPES, diarrhoea, hyponatraemia, vomiting, abdominal pain and thrombocytopenia.
 
@@ -395,7 +385,7 @@ The most frequent adverse reactions of any grade (experienced by at least 25% of
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in the pooled dataset for patients treated with cabozantinib monotherapy in RCC, HCC, DTC and NET (n=1355) or reported after post-marketing use of cabozantinib are listed in Table 2. The adverse reactions are listed by MedDRA system organ class and frequency categories. Frequencies are based on all grades and defined as: very common (≥1/10), common (≥1/ 100 to
+Adverse reactions reported in the pooled dataset for patients treated with cabozantinib monotherapy in RCC, HCC, DTC and NET (n=1355) or reported after post-marketing use of cabozantinib are listed in Table 2. The adverse reactions are listed by MedDRA system organ class and frequency categories. Frequencies are based on all grades and defined as: very common (≥1/10), common (≥1/100 to
 
 <div style=\"page-break-after: always\"></div>
 
@@ -403,9 +393,8 @@ Adverse reactions reported in the pooled dataset for patients treated with caboz
 
 Table 2: Adverse drug reactions (ADRs) reported in clinical trials or after post-marketing use in patients treated with cabozantinib in monotherapy
 
-| Infections and infestations                      | Infections and infestations                                                                                                                            |
+| Infections and infestations - Common             | Infections and infestations - abscess, pneumonia                                                                                                       |
 |--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Common                                           | abscess, pneumonia                                                                                                                                     |
 | Blood and lymphatic disorders                    | Blood and lymphatic disorders                                                                                                                          |
 | Very common                                      | anaemia, thrombocytopenia                                                                                                                              |
 | Common                                           | neutropenia, lymphopenia                                                                                                                               |
@@ -468,13 +457,13 @@ When cabozantinib is administered in combination with nivolumab, refer to the Sm
 
 In a dataset of cabozantinib 40 mg once daily in combination with nivolumab 240 mg every two weeks in RCC (n =320), with a minimum follow-up of 16 months, the most common serious adverse drug reactions (≥1% incidence) are diarrhoea, pneumonitis, pulmonary embolism, pneumonia, hyponatraemia, pyrexia, adrenal insufficiency, vomiting, dehydration.
 
-T he most frequent adverse reactions (≥ 25%) were diarrhoea, fatigue, palmar-plantar erythrodysaesthesia syndrome, stomatitis, musculoskeletal pain, hypertension, rash, hypothyroidism, decrease appetite, nausea, abdominal pain. The majority of adverse reactions were mild to moderate (Grade 1 or 2).
+The most frequent adverse reactions (≥25%) were diarrhoea, fatigue, palmar-plantar erythrodysaesthesia syndrome, stomatitis, musculoskeletal pain, hypertension, rash, hypothyroidism, decrease appetite, nausea, abdominal pain. The majority of adverse reactions were mild to moderate (Grade 1 or 2).
 
 ## Tabulated list of adverse reactions
 
 Adverse reactions identified in the clinical study of cabozantinib in combination with nivolumab are listed in Table 3, according to MedDRA System Organ Class and frequency categories. Frequencies are based on all grades and defined as: very common (≥1/10), common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 3:  Adverse reactions with cabozantinib in combination with nivolumab
+Table 3: Adverse reactions with cabozantinib in combination with nivolumab
 
 | Infections and infestations          | Infections and infestations                        |
 |--------------------------------------|----------------------------------------------------|
@@ -616,7 +605,17 @@ In combination with nivolumab in advanced RCC in first-line treatment (CA2099ER)
 
 ## Haemorrhage (see section 4.4)
 
-In the RCC study (METEOR), the incidence of severe haemorrhagic events (Grade ≥ 3) was 2.1% (7/331) in cabozantinib-treated RCC patients. Median time to onset was 20.9 weeks. In the treatment-naïve RCC study (CABOSUN), the incidence of severe haemorrhagic events (Grade ≥ 3) was 5.1% (4/78) in cabozantinib-treated RCC patients. In the HCC study (CELESTIAL), the incidence of severe haemorrhagic events (Grade ≥ 3) was 7.3% in cabozantinib-treated patients (34/467). Median time to onset was 9.1 weeks. In the DTC study (COSMIC311), the incidence of severe haemorrhagic events (grade ≥ 3) was 2.4% in cabozantinib-treated patients (4/170). Median time to onset was 11.5 weeks. In the NET study (CABINET), the incidence of severe haemorrhagic events (grade ≥ 3) was 1.8% in cabozantinib-treated patients (4/227). Median time to onset was 14.1 weeks. In combination with nivolumab in advanced RCC in first-line treatment (CA2099ER) the incidence of ≥ Grade 3 haemorrhage was in 1.9% (6/320) of treated patients.
+In the RCC study (METEOR), the incidence of severe haemorrhagic events (Grade ≥ 3) was 2.1% (7/331) in cabozantinib-treated RCC patients. Median time to onset was 20.9 weeks.
+
+In the treatment-naïve RCC study (CABOSUN), the incidence of severe haemorrhagic events (Grade ≥ 3) was 5.1% (4/78) in cabozantinib-treated RCC patients.
+
+In the HCC study (CELESTIAL), the incidence of severe haemorrhagic events (Grade ≥ 3) was 7.3% in cabozantinib-treated patients (34/467). Median time to onset was 9.1 weeks.
+
+In the DTC study (COSMIC-311), the incidence of severe haemorrhagic events (grade ≥ 3) was 2.4% in cabozantinib-treated patients (4/170). Median time to onset was 11.5 weeks.
+
+In the NET study (CABINET), the incidence of severe haemorrhagic events (grade ≥ 3) was 1.8% in cabozantinib-treated patients (4/227). Median time to onset was 14.1 weeks.
+
+In combination with nivolumab in advanced RCC in first-line treatment (CA2099ER) the incidence of ≥ Grade 3 haemorrhage was in 1.9% (6/320) of treated patients.
 
 Fatal haemorrhages have occurred in the cabozantinib clinical program.
 
@@ -626,9 +625,9 @@ No case of PRES was reported in the METEOR, CABOSUN, CA2099ER or CELESTIAL studi
 
 ## Elevated liver enzymes when cabozantinib is combined with nivolumab in RCC
 
-In a clinical study of previously untreated patients with RCC receiving cabozantinib in combination with nivolumab, a higher incidence of Grades 3 and 4 ALT increased (10.1%) and AST increased (8.2%) were observed relative to cabozantinib monotherapy in patients with advanced RCC (ALT increased of 3.6% and AST increased of 3.3% in METEOR study). The median time to onset of grade &gt; 2 increased ALT or AST was 10.1 weeks (range: 2 to 106.6 weeks; n=85 ). In patients with grade ≥ 2 increased ALT or AST, the elevations resolved to Grades 0-1in 91% with median time to resolution of 2.3 weeks (range: 0.4 to 108.1 weeks).
+In a clinical study of previously untreated patients with RCC receiving cabozantinib in combination with nivolumab, a higher incidence of Grades 3 and 4 ALT increased (10.1%) and AST increased (8.2%) were observed relative to cabozantinib monotherapy in patients with advanced RCC (ALT increased of 3.6% and AST increased of 3.3% in METEOR study). The median time to onset of grade &gt; 2 increased ALT or AST was 10.1 weeks (range: 2 to 106.6 weeks; n=85). In patients with grade ≥ 2 increased ALT or AST, the elevations resolved to Grades 0-1in 91% with median time to resolution of 2.3 weeks (range: 0.4 to 108.1 weeks).
 
-Among the 45 patients with Grade ≥2 increased ALT or AST who wer e rechallenged with either cabozantinib (n=10) or nivolumab (n=10) administered as a single agent or with both (n=25), recurrence of Grade ≥2 increased ALT or AST was observed in 4 patients receiving cabozantinib, in 3 patients receiving nivolumab and 8 patients receiving both cabozantinib and nivolumab.
+Among the 45 patients with Grade ≥2 increased ALT or AST who were rechallenged with either cabozantinib (n=10) or nivolumab (n=10) administered as a single agent or with both (n=25), recurrence of Grade ≥2 increased ALT or AST was observed in 4 patients receiving cabozantinib, in 3 patients receiving nivolumab and 8 patients receiving both cabozantinib and nivolumab.
 
 ## Hypothyroidism
 
@@ -646,11 +645,9 @@ In combination with nivolumab in advanced RCC in first-line treatment (CA2099ER)
 
 ## Paediatric population (see section 5.1)
 
-In study ADVL1211, a limited dose-escalation study of cabozantinib in paediatric and adolescent patients with recurrent or refractory solid tumours including CNS tumours, the following events: aspartate aminotransferase (AST) increased (very common, 76.9%), alanine aminotransferase (ALT) increased (very common, 71.8%), lymphocyte count decreased (very common, 48.7%), neutrophil count decreased (very common, 35.9%), and lipase increased (very common, 33.3%) were observed at a higher frequency in all subjects across all dose groups included in the safety population (N=39),
+In study ADVL1211, a limited dose-escalation study of cabozantinib in paediatric and adolescent patients with recurrent or refractory solid tumours including CNS tumours, the following events: aspartate aminotransferase (AST) increased (very common, 76.9%), alanine aminotransferase (ALT) increased (very common, 71.8%), lymphocyte count decreased (very common, 48.7%), neutrophil count decreased (very common, 35.9%), and lipase increased (very common, 33.3%) were observed at a higher frequency in all subjects across all dose groups included in the safety population (N=39), compared to adults. The increased rates for these Preferred Terms (PTs) concern any grade as well as grade 3/4 of these ADRs. The adverse events reported are in line qualitatively with the recognised safety profile for cabozantinib in adult populations. However, the small numbers of subjects preclude a conclusive assessment of trends and frequencies and further comparison with the recognised safety profile of cabozantinib.
 
 <div style=\"page-break-after: always\"></div>
-
-compared to adults. The increased rates for these Preferred Terms (PTs) concern any grade as well as grade 3/4 of these ADRs. The adverse events reported are in line qualitatively with the recognised safety profile for cabozantinib in adult populations. However, the small numbers of subjects preclude a conclusive assessment of trends and frequencies and further comparison with the recognised safety profile of cabozantinib.
 
 In study ADVL1622 of cabozantinib in children and young adults with the following solid tumour strata: Ewing sarcoma, rhabdomyosarcoma, non-rhabdomyosarcoma soft tissue sarcomas (NRSTS), osteosarcoma, Wilms tumour and other rare solid tumours (nonstatistical cohort), the safety profile of cabozantinib treated children and young adults in all strata was comparable with that observed in adults treated with cabozantinib.
 
@@ -682,11 +679,9 @@ Cabozantinib exhibited dose-related tumour growth inhibition, tumour regression,
 
 ## Cardiac electrophysiology
 
-An increase from baseline in corrected QT interval by Fridericia (QTcF) of 10 - 15 ms on Day 29 (but not on day 1) following initiation of cabozantinib treatment (at a dose of 140 mg once daily) was
+An increase from baseline in corrected QT interval by Fridericia (QTcF) of 10 - 15 ms on Day 29 (but not on day 1) following initiation of cabozantinib treatment (at a dose of 140 mg once daily) was observed in a controlled clinical trial in medullary thyroid cancer patients. This effect was not associated with a change in cardiac wave form morphology or new rhythms. No cabozantinib-treated subjects in this study had a confirmed QTcF &gt;500 ms, nor did any cabozantinib-treated subjects in the RCC, HCC or NET studies (at a dose of 60 mg).
 
 <div style=\"page-break-after: always\"></div>
-
-observed in a controlled clinical trial in medullary thyroid cancer patients. This effect was not associated with a change in cardiac wave form morphology or new rhythms. No cabozantinib-treated subjects in this study had a confirmed QTcF &gt;500 ms, nor did any cabozantinib-treated subjects in the RCC, HCC or NET studies (at a dose of 60 mg).
 
 ## Clinical efficacy and safety
 
@@ -700,24 +695,22 @@ The baseline demographic and disease characteristics were similar between the ca
 
 A statistically significant improvement in PFS was demonstrated for cabozantinib compared to everolimus (Figure 1 and Table 4). A planned interim analysis of OS was conducted at the time of the PFS analysis and did not reach the interim boundary for statistical significance (202 events, HR=0.68 [0.51, 0.90], p=0.006). In a subsequent unplanned interim analysis of OS, a statistically significant improvement was demonstrated for patients randomised to cabozantinib as compared with everolimus (320 events, median of 21.4 months vs. 16.5 months; HR=0.66 [0.53, 0.83], p=0.0003; Figure 2). Comparable results for OS were observed with a follow-up analysis (descriptive) at 430 events.
 
-Exploratory analyses of PFS and OS in the ITT population have also shown consistent results in favour of cabozantinib compared to everolimus across different subgroups according to age (&lt;65 vs. ≥65, sex, MSKCC risk group (favourable, intermediate, poor), ECOG status (0 vs. 1), time from diagnosis to randomisation (&lt;1 year vs. ≥1 year), tumour MET status (high vs. low vs. unknown), bone metastases (absence vs. presence), visceral metastases (absence vs. presence), visceral and bone metastases (absence vs. presence), number of prior VEGFRTKIs (1 vs. ≥2), duration of first VEGFR -TKI (≤6 months vs. &gt;6 months).
+Exploratory analyses of PFS and OS in the ITT population have also shown consistent results in favour of cabozantinib compared to everolimus across different subgroups according to age (&lt;65 vs. ≥65, sex, MSKCC risk group (favourable, intermediate, poor), ECOG status (0 vs. 1), time from diagnosis to randomisation (&lt;1 year vs. ≥1 year), tumour MET status (high vs. low vs. unknown), bone metastases (absence vs. presence), visceral metastases (absence vs. presence), visceral and bone metastases (absence vs. presence), number of prior VEGFR-TKIs (1 vs. ≥2), duration of first VEGFRTKI (≤6 months vs. &gt;6 months).
 
 Objective response rate findings are summarized in Table 5.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1: Kaplan Meier curve for progression-free survival by independent radiology review committee, in RCC subjects following prior vascular endothelial growth factor (VEGF)targeted therapy (first 375 subjects randomized) (METEOR)
+Figure 1: Kaplan Meier curve for progression-free survival by independent radiology review committee, in RCC subjects following prior vascular endothelial growth factor (VEGF)- targeted therapy (first 375 subjects randomized) (METEOR)
 
 <!-- image -->
 
 Table 4: Summary of PFS findings by independent radiology review committee in RCC subjects following prior vascular endothelial growth factor (VEGF)-targeted therapy (METEOR)
 
-|                             | Primary PFS analysis population   | Primary PFS analysis population   | Intent-to-treat population   | Intent-to-treat population   |
-|-----------------------------|-----------------------------------|-----------------------------------|------------------------------|------------------------------|
-| Endpoint                    | CABOMETYX                         | Everolimus                        | CABOMETYX                    | Everolimus                   |
-|                             | N = 187                           | N = 188                           | N = 330                      | N = 328                      |
-| Median PFS (95% CI), months | 7.4 (5.6, 9.1)                    | 3.8 (3.7, 5.4)                    | 7.4 (6.6, 9.1)               | 3.9 (3.7, 5.1)               |
-| HR (95% CI), p-value 1      | 0.58 (0.45, 0.74), p<0.0001       | 0.58 (0.45, 0.74), p<0.0001       | 0.51 (0.41, 0.62), p<0.0001  | 0.51 (0.41, 0.62), p<0.0001  |
+| Endpoint                    | Primary PFS analysis population - CABOMETYX - N = 187   | Primary PFS analysis population - Everolimus - N = 188   | Intent-to-treat population - CABOMETYX - N = 330   | Intent-to-treat population - Everolimus - N = 328   |
+|-----------------------------|---------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------|-----------------------------------------------------|
+| Median PFS (95% CI), months | 7.4 (5.6, 9.1)                                          | 3.8 (3.7, 5.4)                                           | 7.4 (6.6, 9.1)                                     | 3.9 (3.7, 5.1)                                      |
+| HR (95% CI), p-value 1      | 0.58 (0.45, 0.74), p<0.0001                             | 0.58 (0.45, 0.74), p<0.0001                              | 0.51 (0.41, 0.62), p<0.0001                        | 0.51 (0.41, 0.62), p<0.0001                         |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -727,34 +720,30 @@ Figure 2: Kaplan-Meier curve of overall survival in RCC subjects following prior
 
 Table 5: Summary of ORR findings per independent radiology committee review (IRC) and investigator review, in RCC subjects following prior vascular endothelial growth factor (VEGF)-targeted therapy
 
-|                                                | Primary analysis ORRintent-to- treat population (IRC)   | Primary analysis ORRintent-to- treat population (IRC)   | ORR per investigator review intent-to-treat population   | ORR per investigator review intent-to-treat population   |
-|------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
-| Endpoint                                       | CABOMETYX                                               | Everolimus                                              | CABOMETYX                                                | Everolimus                                               |
-|                                                | N = 330                                                 | N = 328                                                 | N = 330                                                  | N = 328                                                  |
-| ORR (partial responses only) (95% CI)          | 17% (13%, 22%)                                          | 3% (2%, 6%)                                             | 24% (19%, 29%)                                           | 4% (2%, 7%)                                              |
-| p-value 1                                      | p<0.0001                                                | p<0.0001                                                | p< 0.0001                                                | p< 0.0001                                                |
-| Partial response                               | 17%                                                     | 3%                                                      | 24%                                                      | 4%                                                       |
-| Median time to first response, months (95% CI) | 1.91 (1.6, 11.0)                                        | 2.14 (1.9, 9.2)                                         | 1.91 (1.3, 9.8)                                          | 3.50 (1.8, 5.6)                                          |
-| Stable disease as best response                | 65%                                                     | 62%                                                     | 63%                                                      | 63%                                                      |
-| Progressive disease as best response           | 12%                                                     | 27%                                                     | 9%                                                       | 27%                                                      |
+| Endpoint                                       | Primary analysis ORR intent-to- treat population (IRC) - CABOMETYX - N = 330   | Primary analysis ORR intent-to- treat population (IRC) - Everolimus - N = 328   | ORR per investigator review intent-to-treat population - CABOMETYX - N = 330   | ORR per investigator review intent-to-treat population - Everolimus - N = 328   |
+|------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| ORR (partial responses only) (95% CI)          | 17% (13%, 22%)                                                                 | 3% (2%, 6%)                                                                     | 24% (19%, 29%)                                                                 | 4% (2%, 7%)                                                                     |
+| p-value 1                                      | p<0.0001                                                                       | p<0.0001                                                                        | p< 0.0001                                                                      | p< 0.0001                                                                       |
+| Partial response                               | 17%                                                                            | 3%                                                                              | 24%                                                                            | 4%                                                                              |
+| Median time to first response, months (95% CI) | 1.91 (1.6, 11.0)                                                               | 2.14 (1.9, 9.2)                                                                 | 1.91 (1.3, 9.8)                                                                | 3.50 (1.8, 5.6)                                                                 |
+| Stable disease as best response                | 65%                                                                            | 62%                                                                             | 63%                                                                            | 63%                                                                             |
+| Progressive disease as best response           | 12%                                                                            | 27%                                                                             | 9%                                                                             | 27%                                                                             |
 
 ## Randomized study in treatment-naïve renal cell carcinoma patients (CABOSUN)
 
-The safety and efficacy of CABOMETYX for the treatment of treatment-naïve renal cell carcinoma were evaluated in a randomised, open-label, multicentre study (CABOSUN). Patients (N=157) with previously untreated, locally advanced or metastatic RCC with a clear cell component were randomised (1:1) to receive cabozantinib (N=79) or sunitinib (N=78). Patients had to have intermediate or poor risk disease  as  defined  by  the  International  Metastatic  RCC  Database  Consortium  (IMDC)  risk  group
+The safety and efficacy of CABOMETYX for the treatment of treatment-naïve renal cell carcinoma were evaluated in a randomised, open-label, multicentre study (CABOSUN). Patients (N=157) with previously untreated, locally advanced or metastatic RCC with a clear cell component were randomised (1:1) to receive cabozantinib (N=79) or sunitinib (N=78). Patients had to have intermediate or poor risk disease as defined by the International Metastatic RCC Database Consortium (IMDC) risk group categories. Patients were stratified by IMDC risk group and presence of bone metastases (yes/no). Approximately 75% of patients had a nephrectomy prior to onset of treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-categories.  Patients  were  stratified  by  IMDC  risk  group  and  presence  of  bone  metastases  (yes/no). Approximately 75% of patients had a nephrectomy prior to onset of treatment.
 
 For intermediate risk disease, one or two of the following risk factors were met, while for poor risk, three or more factors were met: time from diagnosis of RCC to systemic treatment &lt; 1 year, Hgb &lt; LLN, corrected calcium &gt; ULN, KPS &lt; 80%, neutrophil count &gt; ULN and platelet count &gt; ULN.
 
 The primary endpoint was PFS. Secondary efficacy endpoints were objective response rate (ORR) and overall survival (OS). Tumour assessments were conducted every 12 weeks.
 
-The baseline demographic and disease characteristics were similar between the cabozantinib and sunitinib arms. The majority of the patients were male (78%) with a median age of 62 years. Patient distribution by IMDC risk groups was 81% intermediate (1-2 ri sk factors) and 19% poor (≥3 risk factors). Most patients (87%) had ECOG performance status of 0 or 1; 13% had an ECOG performance status of 2. Thirty-six percent (36%) of patients had bone metastases.
+The baseline demographic and disease characteristics were similar between the cabozantinib and sunitinib arms. The majority of the patients were male (78%) with a median age of 62 years. Patient distribution by IMDC risk groups was 81% intermediate (1-2 risk factors) and 19% poor (≥3 risk factors). Most patients (87%) had ECOG performance status of 0 or 1; 13% had an ECOG performance status of 2. Thirty-six percent (36%) of patients had bone metastases.
 
 A statistically significant improvement in PFS as retrospectively assessed by a blinded Independent Radiology Committee (IRC) was demonstrated for cabozantinib compared to sunitinib (Figure 3 and Table 6). The results from the investigator determined analysis and IRC-determined analysis of PFS were consistent.
 
-Patients  with  both positive  and  negative  MET  status showed  a  favourable  effect  with cabozantinib compared to sunitinib, with greater activity in patients with a positive MET status compared to patients with a negative MET status (HR=0.32 (0.16, 0.63) vs 0.67 (0.37, 1.23)) respectively.
+Patients with both positive and negative MET status showed a favourable effect with cabozantinib compared to sunitinib, with greater activity in patients with a positive MET status compared to patients with a negative MET status (HR=0.32 (0.16, 0.63) vs 0.67 (0.37, 1.23)) respectively.
 
 Cabozantinib treatment was associated with a trend for longer survival compared to sunitinib (Table 6). The study was not powered for the OS analysis and the data are immature.
 
@@ -796,21 +785,15 @@ Table 6: Efficacy results in treatment-naïve RCC subjects (ITT population, CABO
 | Stable disease                                  | 34 (43)            | 29 (37)            |
 | Progressive disease                             | 14 (18)            | 19 (24)            |
 
-a in accord with EU censoring b Stratification factors per IxRS comprise IMDC risk categories (intermediate risk, poor risk and bone metastasis (yes, no)
-
-c  Estimated using the Cox proportional hazard model adjusted for stratification factors per IxRS. Hazard ratio &lt; 1 indicates progression-free survival in favour of cabozantinib
-
 ## Randomised phase 3 study of cabozantinib in combination with nivolumab vs. sunitinib (CA2099ER)
 
 The safety and efficacy of cabozantinib 40 mg orally daily in combination with nivolumab 240 mg intravenously every 2 weeks for the first-line treatment of advanced/metastatic RCC was evaluated in a phase 3, randomised, open label study (CA2099ER). The study included patients (18 years or older) with advanced or metastatic RCC with a clear cell component, Karnofsky Performance Status (KPS) &gt; 70%, and measurable disease as per RECIST v1.1 were included regardless of their PD-L1 status or IMDC risk group. The study excluded patients with autoimmune disease or other medical conditions requiring systemic immunosuppression, patients who had prior treatment with an anti-PD-1, anti PDL1, anti-PD-L2, anti-CD137, or anti-CTLA-4 antibody, poorly controlled hypertension despite antihypertensive therapy, active brain metastases and uncontrolled adrenal insufficiency. Patients were stratified by IMDC prognostic score, PD-L1 tumour expression, and region.
 
-A total of 651 patients were randomised to receive either cabozantinib 40 mg once daily orally in combination with nivolumab 240 mg (n=323) administered intravenously every 2 weeks or sunitinib (n = 328) 50 mg daily, administered orally for 4 weeks followed by 2 weeks off. Treatment continued until disease progression or unacceptable toxicity with nivolumab administration up to 24 months. Treatment beyond initial Investigator-assessed RECIST version 1.1-defined progression was permitted if the patient had a clinical benefit and was tolerating study drug, as determined by investigator. First tumour assessment post-baseline was performed at 12 weeks (± 7 days) following randomisation. Subsequent tumour assessments occurred at every 6 weeks (± 7 days) until Week 60, then every 12 weeks (± 14 days) until radiographic progression, confirmed by the Blinded
+A total of 651 patients were randomised to receive either cabozantinib 40 mg once daily orally in combination with nivolumab 240 mg (n=323) administered intravenously every 2 weeks or sunitinib (n = 328) 50 mg daily, administered orally for 4 weeks followed by 2 weeks off. Treatment continued until disease progression or unacceptable toxicity with nivolumab administration up to 24 months. Treatment beyond initial Investigator-assessed RECIST version 1.1-defined progression was permitted if the patient had a clinical benefit and was tolerating study drug, as determined by investigator. First tumour assessment post-baseline was performed at 12 weeks (± 7 days) following randomisation. Subsequent tumour assessments occurred at every 6 weeks (± 7 days) until Week 60, then every 12 weeks (± 14 days) until radiographic progression, confirmed by the Blinded Independent Central review (BICR). The primary efficacy outcome measure was PFS as determined by a BICR. Additional efficacy measures included OS and ORR as key secondary endpoints.
 
 <div style=\"page-break-after: always\"></div>
 
-Independent Central review (BICR). The primary efficacy outcome measure was PFS as determined by a BICR. Additional efficacy measures included OS and ORR as key secondary endpoints.
-
-Baseline characteristics were generally balanced between the two groups. The median age was 61 years (range: 28-90) with 38.4% ≥ 65 years of age and 9.5% ≥ 75 years of age. The majority of patients were male (73.9%) and white (81.9%). Eight percent of patients were Asian, 23.2% and 76.5% of patients had a baseline KPS of 70 to 80% and 90 to 100%, respectively. Patient distribution by IMDC risk categories was 22.6% favourable, 57.6% intermediate, and 19.7% poor. For tumour PD-L1 expression, 72.5% of patients had PD-L1 expression &lt; 1% or indeterminate and 24.9% of patients had PDL1 expression ≥ 1%. 11.5% of patients had tumours with sarcomatoid features. The median duration of treatment was 14.26 months (range: 0.2-27.3 months) in cabozantinib with nivolumab-treated patients and was 9.23 months (range: 0.8-27.6 months) in sunitinib-treated patients.
+Baseline characteristics were generally balanced between the two groups. The median age was 61 years (range: 28-90) with 38.4% ≥ 65 years of age and 9.5% ≥ 75 years of age. The majority of patients were male (73.9%) and white (81.9%). Eight percent of patients were Asian, 23.2% and 76.5% of patients had a baseline KPS of 70 to 80% and 90 to 100%, respectively. Patient distribution by IMDC risk categories was 22.6% favourable, 57.6% intermediate, and 19.7% poor. For tumour PD-L1 expression, 72.5% of patients had PD-L1 expression &lt; 1% or indeterminate and 24.9% of patients had PD-L1 expression ≥ 1%. 11.5% of patients had tumours with sarcomatoid features. The median duration of treatment was 14.26 months (range: 0.2-27.3 months) in cabozantinib with nivolumab-treated patients and was 9.23 months (range: 0.8-27.6 months) in sunitinib-treated patients.
 
 The study demonstrated a statistically significant benefit in PFS, OS, and ORR for patients randomised to cabozantinib in combination with nivolumab as compared to sunitinib. Efficacy results from the primary analysis (minimum follow-up 10.6 months; median follow-up 18.1 months) are shown in Table 7.
 
@@ -847,13 +830,14 @@ Table 7: Efficacy results (CA2099ER)
 <div style=\"page-break-after: always\"></div>
 
 - g Strata adjusted difference in objective response rate (cabozantinib + nivolumab - Sunitinib) based on DerSimonian and Laird
-- h 2-sided p-value from CMH test.
+
+h 2-sided p-value from CMH test.
 
 NE = non-estimable
 
 The primary analysis of PFS included censoring for new anti-cancer treatment (Table 7). Results for PFS with and without censoring for new anti-cancer treatment were consistent.
 
-PFS benefit was observed in the cabozantinib in combination with nivolumab arm vs. sunitinib regardless of tumour PD L1 expression. Median PFS for tumour PD L1 expre ssion ≥ 1% was 13. 08 for cabozantinib in combination with nivolumab, and was 4.67 months in the sunitinib arm (HR = 0.45; 95% CI: 0.29, 0.68). For tumour PD L1 expression &lt; 1%, the median PFS was 19.84 months for the cabozantinib in combination with nivolumab, and 9.26 months in the sunitinib arm (HR = 0.50; 95% CI: 0.38, 0.65).
+PFS benefit was observed in the cabozantinib in combination with nivolumab arm vs. sunitinib regardless of tumour PD L1 expression. Median PFS for tumour PD L1 expression ≥ 1% was 13.08 for cabozantinib in combination with nivolumab, and was 4.67 months in the sunitinib arm (HR = 0.45; 95% CI: 0.29, 0.68). For tumour PD L1 expression &lt; 1%, the median PFS was 19.84 months for the cabozantinib in combination with nivolumab, and 9.26 months in the sunitinib arm (HR = 0.50; 95% CI: 0.38, 0.65).
 
 PFS benefit was observed in the cabozantinib in combination with nivolumab arm vs. sunitinib regardless of the (IMDC) risk category. Median PFS for the favourable risk group was not reached for cabozantinib in combination with nivolumab, and was 12.81 months in the sunitinib arm (HR = 0.60; 95% CI: 0.37, 0.98). Median PFS for the intermediate risk group was 17.71 months for cabozantinib in combination with nivolumab and was 8.38 months in the sunitinib arm (HR = 0.54; 95% CI: 0.41, 0.73). Median PFS for the poor risk group was 12.29 months for cabozantinib in combination with nivolumab and was 4.21 months in the sunitinib arm (HR = 0.36; 95% CI: 0.23, 0.58).
 
@@ -861,7 +845,7 @@ An updated PFS and OS analysis were performed when all patients had a minimum fo
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 4: Kaplan Meier curves of PFS (CA2099ER)
+Figure 4: KaplanMeier curves of PFS (CA2099ER)
 
 <!-- image -->
 
@@ -875,7 +859,7 @@ Figure 5 : Kaplan Meier curves of OS (CA2099ER)
 
 ## Controlled study in patients who have received sorafenib (CELESTIAL)
 
-The safety and efficacy of CABOMETYX were evaluated in a randomised, double-blind, placebo-controlled phase 3 study (CELESTIAL). Patients (N=707) with HCC not amenable to curative treatment and who had previously received sorafenib for advanced disease were randomized (2:1) to receive cabozantinib (N=470) or placebo (N=237). Patients could have received one other prior systemic therapy for advanced disease in addition to sorafenib. Randomisation was stratified by aetiology of disease (HBV [with or without HCV], HCV [without HBV], or other), geographic region (Asia, other regions) and by presence of extrahepatic spread of disease and/or macrovascular invasions (Yes, No).
+The safety and efficacy of CABOMETYX were evaluated in a randomised, double-blind, placebo-- controlled phase 3 study (CELESTIAL). Patients (N=707) with HCC not amenable to curative treatment and who had previously received sorafenib for advanced disease were randomized (2:1) to receive cabozantinib (N=470) or placebo (N=237). Patients could have received one other prior systemic therapy for advanced disease in addition to sorafenib. Randomisation was stratified by aetiology of disease (HBV [with or without HCV], HCV [without HBV], or other), geographic region (Asia, other regions) and by presence of extrahepatic spread of disease and/or macrovascular invasions (Yes, No).
 
 The primary efficacy endpoint was overall survival (OS). Secondary efficacy endpoints were progression-free survival (PFS) and objective response rate (ORR), as assessed by the investigator using Response Evaluation Criteria in Solid Tumours (RECIST) 1.1. Tumour assessments were conducted every 8 weeks. Subjects continued blinded study treatment after radiological disease progression whilst they experienced clinical benefit or until the need for subsequent systemic or liverdirected local anticancer therapy. Crossover from placebo to cabozantinib was not allowed during the blinded treatment phase.
 
@@ -883,7 +867,7 @@ The primary efficacy endpoint was overall survival (OS). Secondary efficacy endp
 
 The baseline demographic and disease characteristics were similar between the cabozantinib and placebo arms and are shown below for all 707 randomised patients.
 
-The majority of patients (82%) were male: the median age was 64 years. The majority of patients (56%) were Caucasian and 34% of patients were Asian. Fifty three percent (53%) of patients had ECOG performance status (PS) 0 and 47% had ECOG PS 1. Almost all patients (99%) were Child Pugh A and 1% were Child Pugh B. Aetiology for HCC included 38% hepatitis B virus (HBV), 21% hepatitis C virus (HCV), 40% other (neither HBV nor HCV). Seventy-eight percent (78%) had macroscopic vascular invasion and/or extra-hepatic tumour spread, 41% had alfa-fetoprotein (AFP) levels ≥400μg /L, 44% had been treated by loco-regional transarterial embolisation or chemoinfusion procedures, 37% had radiotherapy prior to cabozantinib treatment. Median duration of sorafenib treatment was 5.32 months. Seventy-two percent (72%) of patients had received 1 and 28% had received 2 prior systemic therapy regimens for advanced disease.
+The majority of patients (82%) were male: the median age was 64 years. The majority of patients (56%) were Caucasian and 34% of patients were Asian. Fifty three percent (53%) of patients had ECOG performance status (PS) 0 and 47% had ECOG PS 1. Almost all patients (99%) were Child Pugh A and 1% were Child Pugh B. Aetiology for HCC included 38% hepatitis B virus (HBV), 21% hepatitis C virus (HCV), 40% other (neither HBV nor HCV). Seventy-eight percent (78%) had macroscopic vascular invasion and/or extra-hepatic tumour spread, 41% had alfa-fetoprotein (AFP) levels ≥400μg/L, 44% had been treated by loco-regional transarterial embolisation or chemoinfusion procedures, 37% had radiotherapy prior to cabozantinib treatment. Median duration of sorafenib treatment was 5.32 months. Seventy-two percent (72%) of patients had received 1 and 28% had received 2 prior systemic therapy regimens for advanced disease.
 
 A statistically significant improvement in OS was demonstrated for cabozantinib compared to placebo (Table 8 and Figure 6).
 
@@ -902,7 +886,7 @@ Table 8: Efficacy results in HCC (ITT population, CELESTIAL)
 | HR (95% CI) 1                                                                 | 0.44 (0.36, 0.52)    | 0.44 (0.36, 0.52)    |
 | p-value 1                                                                     | p<0.0001             | p<0.0001             |
 | Kaplan-Meier landmark estimates of percent of subjects event-free at 3 months |                      |                      |
-| %(95% CI)                                                                     | 67.0% (62.2%, 71.3%) | 33.3% (27.1%, 39.7%) |
+| % (95% CI)                                                                    | 67.0% (62.2%, 71.3%) | 33.3% (27.1%, 39.7%) |
 | Objective response rate n (%) 3                                               |                      |                      |
 | Complete responses (CR)                                                       | 0                    | 0                    |
 | Partial responses (PR)                                                        | 18 (4)               | 1 (0.4)              |
@@ -921,11 +905,9 @@ Figure 7: Kaplan Meier curve for progression-free survival (CELESTIAL)
 
 <!-- image -->
 
-The incidence of systemic non-radiation and local liver-directed systemic non-protocol anticancer therapy (NPACT) was 26% in the cabozantinib arm and 33% in the placebo arm. Subjects receiving these therapies had to discontinue study treatment. An exploratory OS analysis censoring for the use
+The incidence of systemic non-radiation and local liver-directed systemic non-protocol anticancer therapy (NPACT) was 26% in the cabozantinib arm and 33% in the placebo arm. Subjects receiving these therapies had to discontinue study treatment. An exploratory OS analysis censoring for the use of NPACT supported the primary analysis: the HR, adjusted for stratification factors (per IxRS), was 0.66 (95% CI: 0.52, 0.84; stratified logrank p-value = 0.0005). The Kaplan- Meier estimates for median duration of OS were 11.1 months in the cabozantinib arm versus 6.9 months in the placebo arm, an estimated 4.2-month difference in the medians.
 
 <div style=\"page-break-after: always\"></div>
-
-of NPACT supported the primary analysis: the HR, adjusted for stratification factors (per IxRS), was 0.66 (95% CI: 0.52, 0.84; stratified logrank p-value = 0.0005). The Kaplan- Meier estimates for median duration of OS were 11.1 months in the cabozantinib arm versus 6.9 months in the placebo arm, an estimated 4.2-month difference in the medians.
 
 Non-disease specific quality of life (QoL) was assessed using the EuroQoL EQ-5D-5L. A negative effect of cabozantinib versus placebo on the EQ-5D utility index score was observed during the first weeks of treatment. Only limited QoL data are available after this period.
 
@@ -937,7 +919,9 @@ The safety and efficacy of CABOMETYX were evaluated in COSMIC-311, a randomised 
 
 Randomisation was stratified by prior receipt of lenvatinib (yes vs. no) and age (≤ 65 years vs. &gt; 65 years). Eligible patients randomised to placebo were allowed to cross-over to cabozantinib upon confirmation of progressive disease by blinded independent radiology review committee (BIRC). Subjects continued blinded study treatment as long as they experienced clinical benefit or until there was unacceptable toxicity. The primary efficacy outcome measures were progression-free survival (PFS) in the ITT population, and objective response rate (ORR) in the first 100 randomised patients, as assessed by BIRC per RECIST 1.1. Tumour assessments were conducted every 8 weeks after randomisation during the first 12 months on study, then every 12 weeks thereafter. Overall survival (OS) was an additional endpoint.
 
-The primary analysis of PFS included 187 randomised patients, 125 to cabozantinib and 62 to placebo. Baseline demographics and disease characteristics were generally balanced for both treatment groups. The median age was 66 years (range 32 to 85 years), 51% being ≥ 65 years of age, 13% being ≥ 75 years of age. The majority of patients were white (70%), 18% of patients were Asian and 55% were female. Histologically, 55% had a confirmed diagnosis of papillary thyroid carcinoma, 48% had follicular thyroid carcinoma including 17% patients with Hürthle cell thyroid cancer. Metastases were present in 95% of the patients: lungs in 68%, lymph nodes in 67%, bone in 29%, pleura in 18% and liver in 15%. Five patients had not received prior RAI due to ineligibility, 63% had received prior lenvatinib, 60% had received prior sorafenib and 23% had received both sorafenib and lenvatinib. Baseline ECOG performance status was 0 (48%) or 1 (52%). The median duration of treatment was 4.4 months in the cabozantinib arm and 2.3 months in the placebo arm.
+The primary analysis of PFS included 187 randomised patients, 125 to cabozantinib and 62 to placebo. Baseline demographics and disease characteristics were generally balanced for both treatment groups. The median age was 66 years (range 32 to 85 years), 51% being ≥ 65 years of age, 13% being ≥ 75 years of age. The majority of patients were white (70%), 18% of patients were Asian and 55% were female. Histologically, 55% had a confirmed diagnosis of papillary thyroid carcinoma, 48% had follicular thyroid carcinoma including 17% patients with Hürthle cell thyroid cancer. Metastases were present in 95% of the patients: lungs in 68%, lymph nodes in 67%, bone in 29%, pleura in 18% and liver in 15%. Five patients had not received prior RAI due to ineligibility, 63% had received prior lenvatinib, 60% had received prior sorafenib and 23% had received both sorafenib and lenvatinib. Baseline ECOG performance status was 0 (48%) or 1 (52%).
+
+The median duration of treatment was 4.4 months in the cabozantinib arm and 2.3 months in the placebo arm.
 
 The results of the primary analysis (with a cut-off date of 19 August 2020 and median follow up 6.2 months for the PFS), and the updated analysis (with a cut-off date of 08 February 2021 and median follow-up 10.1 months for the PFS) are presented in Table 9. The trial did not demonstrate a statistically significant improvement in ORR for patients randomised to cabozantinib (n=67) compared with placebo (n=33): 15% vs. 0%. The trial demonstrated a statistically significant improvement in PFS (median follow up 6.2 months) for patients randomised to cabozantinib (n=125) compared with placebo (n=62).
 
@@ -947,29 +931,28 @@ The overall survival analysis was confounded as placebo-treated subjects with co
 
 <div style=\"page-break-after: always\"></div>
 
-Table 9:  Efficacy Results from COSMIC-311
+Table 9: Efficacy Results from COSMIC-311
 
-|                                 | Primary Analysis 1 (ITT)   | Primary Analysis 1 (ITT)   | Updated Analysis 2 (Full ITT)   | Updated Analysis 2 (Full ITT)   |
-|---------------------------------|----------------------------|----------------------------|---------------------------------|---------------------------------|
-|                                 | CABOMETYX (n=125)          | Placebo (n=62)             | CABOMETYX (n=170)               | Placebo (n=88)                  |
-| Progression-Free Survival*      |                            |                            |                                 |                                 |
-| Number of Events, (%)           | 31 (25)                    | 43 (69)                    | 62 (36)                         | 69 (78)                         |
-| Progressive Disease             | 25 (20)                    | 41 (66)                    | 50 (29)                         | 65 (74)                         |
-| Death                           | 6 (4.8)                    | 2 (3.2)                    | 12 (7.1)                        | 4 (4.5)                         |
-| Median PFS in Months (96% CI)   | NE (5.7, NE)               | 1.9 (1.8, 3.6)             | 11.0 (7.4, 13.8)                | 1.9 (1.9, 3.7)                  |
-| Hazard Ratio (96% CI) 3         | 0.22 (0.13, 0.36)          | 0.22 (0.13, 0.36)          | 0.22 (0.15, 0.32)               | 0.22 (0.15, 0.32)               |
-| p-value 4                       | < 0.0001                   |                            |                                 |                                 |
-| Overall Survival                |                            |                            |                                 |                                 |
-| Events, n (%)                   | 17 (14)                    | 14 (23)                    | 37 (22)                         | 21 (24)                         |
-| Hazard Ratio 3 (95% CI)         | 0.54 (0.27, 1.11)          | 0.54 (0.27, 1.11)          | 0.76 (0.45, 1.31)               | 0.76 (0.45, 1.31)               |
-|                                 | Primary Analysis 1         | Primary Analysis 1         | Primary Analysis 1              | Primary Analysis 1              |
-| Objective response rate (ORR) 5 |                            |                            |                                 |                                 |
-|                                 | CABOMETYX (n=67)           | CABOMETYX (n=67)           | Placebo (n=33)                  | Placebo (n=33)                  |
-| Overall response, (%)           | 10 (15)                    | 10 (15)                    | 0 (0)                           | 0 (0)                           |
-| Complete response               | 0                          | 0                          | 0                               | 0                               |
-| Partial response                | 10 (15)                    | 10 (15)                    | 0                               | 0                               |
-| Stable disease                  | 46 (69)                    | 46 (69)                    | 14 (42)                         | 14 (42)                         |
-| Progressive disease             | 4 (6)                      | 4 (6)                      | 18 (55)                         | 18 (55)                         |
+|                                 | Primary Analysis 1 (ITT) - CABOMETYX (n=125)   | Primary Analysis 1 (ITT) - Placebo (n=62)   | Updated Analysis 2 (Full ITT) - CABOMETYX (n=170)   | Updated Analysis 2 (Full ITT) - Placebo (n=88)   |
+|---------------------------------|------------------------------------------------|---------------------------------------------|-----------------------------------------------------|--------------------------------------------------|
+| Progression-Free Survival*      |                                                |                                             |                                                     |                                                  |
+| Number of Events, (%)           | 31 (25)                                        | 43 (69)                                     | 62 (36)                                             | 69 (78)                                          |
+| Progressive Disease             | 25 (20)                                        | 41 (66)                                     | 50 (29)                                             | 65 (74)                                          |
+| Death                           | 6 (4.8)                                        | 2 (3.2)                                     | 12 (7.1)                                            | 4 (4.5)                                          |
+| Median PFS in Months (96% CI)   | NE (5.7, NE)                                   | 1.9 (1.8, 3.6)                              | 11.0 (7.4, 13.8)                                    | 1.9 (1.9, 3.7)                                   |
+| Hazard Ratio (96% CI) 3         | 0.22 (0.13, 0.36)                              | 0.22 (0.13, 0.36)                           | 0.22 (0.15, 0.32)                                   | 0.22 (0.15, 0.32)                                |
+| p-value 4                       | <                                              | 0.0001                                      |                                                     |                                                  |
+| Overall Survival                |                                                |                                             |                                                     |                                                  |
+| Events, n (%)                   | 17 (14)                                        | 14 (23)                                     | 37 (22)                                             | 21 (24)                                          |
+| Hazard Ratio 3 (95% CI)         | 0.54 (0.27, 1.11)                              | 0.54 (0.27, 1.11)                           | 0.76 (0.45, 1.31)                                   | 0.76 (0.45, 1.31)                                |
+|                                 | Primary Analysis 1                             | Primary Analysis 1                          | Primary Analysis 1                                  | Primary Analysis 1                               |
+| Objective response rate (ORR) 5 |                                                |                                             |                                                     |                                                  |
+|                                 | CABOMETYX (n=67)                               | CABOMETYX (n=67)                            | Placebo (n=33)                                      | Placebo (n=33)                                   |
+| Overall response, (%)           | 10 (15)                                        | 10 (15)                                     | 0 (0)                                               | 0 (0)                                            |
+| Complete response               | 0                                              | 0                                           | 0                                                   | 0                                                |
+| Partial response                | 10 (15)                                        | 10 (15)                                     | 0                                                   | 0                                                |
+| Stable disease                  | 46 (69)                                        | 46 (69)                                     | 14 (42)                                             | 14 (42)                                          |
+| Progressive disease             | 4 (6)                                          | 4 (6)                                       | 18 (55)                                             | 18 (55)                                          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1000,7 +983,7 @@ The majority of patients 51.7%, were female. Median age was 66 years. The majori
 
 11.8%. Most patients had a non-functioning tumour, accounting for 53.7% of cases, while 32.5% had a functioning tumour. For 13.8% of patients, the functional status was unknown. The most common tumour grade was grade 2, observed in 66% of patients, and grade 1 in 25.6% of patients. The majority of patients, 69%, used SSA concomitantly, and 92.6% had prior SSA use. 45.3% of patients had only one prior treatment other than SSA. Most tumours were well-differentiated, representing 93.6% of cases, while 6.4% were not specified. The most common metastatic sites were the liver, affected in 89.7% of cases, lymph nodes in 70% of cases, bones in 49.3% of cases, other sites in 35% of cases, and lungs in 21.2% of cases.
 
-Table 10: Efficacy Results in epNET Cohorts from CABINET Study
+Table 10:Efficacy Results in epNET Cohorts from CABINET Study
 
 | Endpoint                        | Cabozantinib (N=134)   | Placebo (N=69)    |
 |---------------------------------|------------------------|-------------------|
@@ -1013,9 +996,9 @@ Table 10: Efficacy Results in epNET Cohorts from CABINET Study
 
 Median follow up was 23 months for both arms. Per BIRC assessments of progression and response with a cutoff date of 24 August 2023
 
-1  Based on Kaplan-Meier estimates
+1 Based on Kaplan-Meier estimates
 
-2  Estimated using the Cox proportional hazard model. The CABINET study was stopped for efficacy at the time of an interim analysis that was planned for futility only. Type I error was not formally controlled and p-values are not presented. The presented 95% confidence interval is descriptive and does not imply statistical significance was reached.
+2 Estimated using the Cox proportional hazard model. The CABINET study was stopped for efficacy at the time of an interim analysis that was planned for futility only. Type I error was not formally controlled and p-values are not presented. The presented 95% confidence interval is descriptive and does not imply statistical significance was reached.
 
 Figure 9: epNET: Kaplan-Meier Curves of Progression-Free Survival (cut-off date: 24 August 2023, N=203)
 
@@ -1031,7 +1014,7 @@ The majority of patients, 57.9%, were male. Median age was 59.5 years in cabozan
 
 Most patients had a non-functioning tumour, accounting for 73.7% of cases, while 16.8% had a functioning tumour. For 9.5% of patients, the functional status was unknown. The most common tumour grade was grade 2, observed in 61.1% of patients; grade 1 was observed in 22.1%, grade 3 in 11.6% of patients, and it was unknown in 5.3% of patients. The majority of patients, 54.7%, used SSA concomitantly, and 97.9% had prior SSA use. 28.4% of patients had only one prior treatment other than SSA. Most tumours were well-differentiated, representing 97.9% of cases, while 2.1% were not specified. The most common metastatic sites were the liver, affected in 96.8% of cases, lymph nodes in 48.4% of cases, bone in 27.4% of cases, other sites in 13.7% of cases.
 
-Table 11:  Efficacy Results in pNET Cohorts from CABINET Study
+Table 11: Efficacy Results in pNET Cohorts from CABINET Study
 
 |                                 | Cabozantinib (N=64)   | Placebo (N=31)    |
 |---------------------------------|-----------------------|-------------------|
@@ -1046,7 +1029,7 @@ Median follow up was 23 months (cabozantinib) and 25 months (placebo). Per BIRC 
 
 1 Based on Kaplan-Meier estimates
 
-2  Estimated using the Cox proportional hazard model. The CABINET study was stopped for efficacy at the time of an interim analysis  that  was  planned  for  futility  only.  Type  I  error  was  not  formally  controlled  and  p-values  are  not  presented.  The presented 95% confidence interval is descriptive and does not imply statistical significance was reached.
+2 Estimated using the Cox proportional hazard model. The CABINET study was stopped for efficacy at the time of an interim analysis that was planned for futility only. Type I error was not formally controlled and p-values are not presented. The presented 95% confidence interval is descriptive and does not imply statistical significance was reached.
 
 Figure 10: pNET: Kaplan-Meier Curve of Progression-Free Survival in CABINET (cut-off date: 24 August 2023, N=95)
 
@@ -1058,11 +1041,11 @@ An updated exploratory OS analysis (DCO: Sept 2024) with 46 OS events was perfor
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of some studies with CABOMETYX in one or more subsets of the paediatric population in treatment of solid malignant tumours (see section 4.2 for information on paediatric use).
+The clinical studies of CABOMETYX in the paediatric population in treatment of solid malignant tumours agreed with European Medicines Agency have been concluded. (see section 4.2 for information on paediatric use).
 
 ## ADVL 1211
 
-A  phase  1  study  (ADVL1211)  of  cabozantinib  in  paediatric  patients  with  solid  tumours  has  been conducted by the Children Oncology Group (COG). Eligible patients were ≥2 years and ≤18 years. This study enrolled patients at 3 dose levels: 30 mg/m2, 40 mg/m2, and 55 mg/m2 once daily on a continuous dosing schedule (weekly dosing by BSA and rounded to the nearest 20 mg). Cabozantinib was dosed based on body surface area (BSA) according to a dosing nomogram
+A phase 1 study (ADVL1211) of cabozantinib in paediatric patients with solid tumours has been conducted by the Children Oncology Group (COG). Eligible patients were ≥2 years and ≤18 years. This study enrolled patients at 3 dose levels: 30 mg/m2, 40 mg/m2, and 55 mg/m2 once daily on a continuous dosing schedule (weekly dosing by BSA and rounded to the nearest 20 mg). Cabozantinib was dosed based on body surface area (BSA) according to a dosing nomogram
 
 The objective was to define dose limiting toxicities (DLTs), to determine the recommended phase 2 dose (RP2D), to obtain preliminary pharmacokinetics data in children and to explore efficacy in solid tumours. Forty-one patients were enrolled, of whom 36 were fully evaluable. Patients had a variety of solid tumours: MTC (n=5), osteosarcoma (n=2), EWS (n=4), rhabdomyosarcoma (RMS) (n=2), other soft tissue sarcoma (STS) (n=4), Wilms tumour (WT) (n=2), hepatoblastoma (n=2), HCC (n=2), RCC (n=3), central nervous system (CNS) tumours (n=9), and others (n=6).
 
@@ -1072,17 +1055,15 @@ Based on central review, partial responses were seen in 2/5 patients with MTC, o
 
 ## ADVL1622
 
-ADVL1622 assessed the activity of cabozantinib in selected paediatric solid tumours. This multicentre, open label two-stage phase 2 trial included the following solid tumour strata: non-osteosarcoma strata (including Ewing sarcoma, rhabdomyosarcoma (RMS), non-rhabdomyosarcoma soft tissue sarcomas (NRSTS) and Wilms tumour), osteosarcoma stratum and rare solid tumours strata (including medullary thyroid carcinoma (MTC), renal cell carcinoma (RCC), hepatocellular carcinoma (HCC), hepatoblastoma, adrenocortical carcinoma and other solid tumours). Cabozantinib was administered orally  once  daily  on  a  continuous  dosing  schedule  of  28-day  cycles  at  a  dose  of  40  mg/m2/day (cumulative weekly dos e of 280 mg/m2 using a dosing nomogram). Subjects were ≥2 and ≤30 years of age at the time of study entry for all strata except upper age limit of ≤18 years of age for MTC, RCC and HCC.
+ADVL1622 assessed the activity of cabozantinib in selected paediatric solid tumours. This multicentre, open label two-stage phase 2 trial included the following solid tumour strata: non-osteosarcoma strata (including Ewing sarcoma, rhabdomyosarcoma (RMS), non-rhabdomyosarcoma soft tissue sarcomas (NRSTS) and Wilms tumour), osteosarcoma stratum and rare solid tumours strata (including medullary thyroid carcinoma (MTC), renal cell carcinoma (RCC), hepatocellular carcinoma (HCC), hepatoblastoma, adrenocortical carcinoma and other solid tumours). Cabozantinib was administered orally once daily on a continuous dosing schedule of 28-day cycles at a dose of 40 mg/m2/day (cumulative weekly dose of 280 mg/m2 using a dosing nomogram). Subjects were ≥2 and ≤30 years of age at the time of study entry for all strata except upper age limit of ≤18 years of age for MTC, RCC and HCC.
 
 For non-osteosarcoma and rare tumours strata the primary endpoint was the objective response rate (ORR). For the osteosarcoma stratum, a two-stage design that incorporated dual endpoints of objective response (CR + PR) based on Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 criteria and treatment success as defined by SD for ≥4 months was utilised. The PK of cabozantinib in paediatric and adolescent subjects was assessed (please refer to section 5.2)
 
 ## Efficacy Results Summary
 
-At the data cutoff date (30 June 2021), 108/109 subjects had received at least one dose of cabozantinib. Each statistical cohort in the non-osteosarcoma strata included 13 subjects. No responses were observed
-
 <div style=\"page-break-after: always\"></div>
 
-in these statistical cohorts. The osteosarcoma stratum included in total 29 subjects including 17 children (aged 9 to 17 years) and 12 adults (aged 18 to 22 years).
+At the data cutoff date (30 June 2021), 108/109 subjects had received at least one dose of cabozantinib. Each statistical cohort in the non-osteosarcoma strata included 13 subjects. No responses were observed in these statistical cohorts. The osteosarcoma stratum included in total 29 subjects including 17 children (aged 9 to 17 years) and 12 adults (aged 18 to 22 years).
 
 In the osteosarcoma stratum, all subjects had received prior systemic therapy A PR was observed in one adult and one child. The Disease Control Rate (DCR) was 34.5% (95% CI: 17.9, 54.3).
 
@@ -1100,21 +1081,21 @@ Bioequivalence could not be demonstrated between the cabozantinib capsule and ta
 
 ## Distribution
 
-Cabozantinib is highly protein bound in vitro in human plasma (≥ 99.7%). Based on the population -pharmacokinetic (PK) model, the volume of distribution of the central compartment (Vc/F) was estimated to be 212 L.
+Cabozantinib is highly protein bound in vitro in human plasma (≥ 99.7%). Based on the populationpharmacokinetic (PK) model, the volume of distribution of the central compartment (Vc/F) was estimated to be 212 L.
 
 ## Biotransformation
 
-Cabozantinib was metabolized in vivo . Four metabolites were present in plasma at exposures (AUC) greater than 10% of parent: XL184-N-oxide, XL184 amide cleavage product, XL184 monohydroxy sulfate, and 6-desmethyl amide cleavage product sulfate. Two non-conjugated metabolites (XL184N-oxide and XL184 amide cleavage product), which possess &lt;1% of the on-target kinase inhibition potency of parent cabozantinib, each represent &lt;10% of total drug-related plasma exposure.
+Cabozantinib was metabolized in vivo. Four metabolites were present in plasma at exposures (AUC) greater than 10% of parent: XL184-N-oxide, XL184 amide cleavage product, XL184 monohydroxy sulfate, and 6-desmethyl amide cleavage product sulfate. Two non-conjugated metabolites (XL184N-oxide and XL184 amide cleavage product), which possess &lt;1% of the on-target kinase inhibition potency of parent cabozantinib, each represent &lt;10% of total drug-related plasma exposure.
 
-Cabozantinib is a substrate for CYP3A4 metabolism in vitro , as a neutralising antibody to CYP3A4 inhibited formation of metabolite XL184 N-oxide by &gt;80% in a NADPH-catalysed human liver microsomal (HLM) incubation; in contrast, neutralising antibodies to CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C19, CYP2D6 and CYP2E1 had no effect on cabozantinib metabolite formation. A neutralising antibody to CYP2C9 showed a minimal effect on cabozantinib metabolite formation (ie, a &lt;20% reduction).
+Cabozantinib is a substrate for CYP3A4 metabolism in vitro, as a neutralising antibody to CYP3A4 inhibited formation of metabolite XL184 N-oxide by &gt;80% in a NADPH-catalysed human liver microsomal (HLM) incubation; in contrast, neutralising antibodies to CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C19, CYP2D6 and CYP2E1 had no effect on cabozantinib metabolite formation. A neutralising antibody to CYP2C9 showed a minimal effect on cabozantinib metabolite formation (ie, a &lt;20% reduction).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
 In a population PK analysis of cabozantinib using data collected from 1883 patients and 140 healthy volunteers following oral administration of a range of doses from 20 to 140 mg, the plasma terminal half-life of cabozantinib is approximately 110 hours. Mean clearance (CL/F) at steady-state was estimated to be 2.48 L/hr. Within a 48-day collection period after a single dose of 14 C-cabozantinib in healthy volunteers, approximately 81% of the total administered radioactivity was recovered with 54% in faeces and 27% in urine.
 
-Pharmacokinetics in special patient populations
-
-<div style=\"page-break-after: always\"></div>
+## Pharmacokinetics in special patient populations
 
 ## Renal impairment
 
@@ -1132,19 +1113,17 @@ A population PK analysis did not identify clinically relevant differences in PK 
 
 Data obtained from simulation performed with the population pharmacokinetic model developed in healthy subjects as well as adult patients with different type of malignancies show that in adolescent patients aged 12 years and older, a dose of 40 mg of cabozantinib once daily for patients &lt; 40 kg, or a dose of 60 mg once daily in patients ≥ 40 kg results in a similar plasma exposure attained in adults treated with 60 mg of cabozantinib once daily (see section 4.2).
 
-In the two clinical studies conducted by the COG in paediatric patients with solid tumours (ADVL1211 and ADVL1622), cabozantinib was dosed based on body surface area (BSA) according to a dosing nomogram, using available 20 mg and 60 mg tablets intended for adults. Among the 55 patients, median age was 13 years (range: 4 to 18 years). A population PK analysis was built using PK data collected in both studies. The PK of cabozantinib was adequately described by a two-compartment model with firstorder  elimination  and  first-order  absorption  processes.  There  was  no  evidence  that  age,  sex,  race ethnicity and tumour type affected cabozantinib PK in children and adolescent patients. Only BSA was found to be a significant predictor of cabozantinib PK. No dose dependency was seen in the developed model  across  the  three  tested  dose  levels  (30,  40  and  55  mg/m²). The  exposures  in  children  and adolescent  subjects  following  an  administration  of  a  BSA-based  dose  of  40mg/m²  are  similar  to exposures in adults with a fixed dose of 60mg QD.
+In the two clinical studies conducted by the COG in paediatric patients with solid tumours (ADVL1211 and ADVL1622), cabozantinib was dosed based on body surface area (BSA) according to a dosing nomogram, using available 20 mg and 60 mg tablets intended for adults. Among the 55 patients, median age was 13 years (range: 4 to 18 years). A population PK analysis was built using PK data collected in both studies. The PK of cabozantinib was adequately described by a two-compartment model with firstorder elimination and first-order absorption processes. There was no evidence that age, sex, race ethnicity and tumour type affected cabozantinib PK in children and adolescent patients. Only BSA was found to be a significant predictor of cabozantinib PK. No dose dependency was seen in the developed model across the three tested dose levels (30, 40 and 55 mg/m²). The exposures in children and adolescent subjects following an administration of a BSA-based dose of 40mg/m² are similar to exposures in adults with a fixed dose of 60mg QD.
 
 ## 5.3 Preclinical safety data
+
+<div style=\"page-break-after: always\"></div>
 
 Adverse reactions not observed in clinical trials, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use were as follows:
 
 In rat and dog repeat-dose toxicity studies up to 6 months duration, target organs for toxicity were GI tract, bone marrow, lymphoid tissues, kidney, adrenal and reproductive tract tissues. The no observed adverse effect level (NOAEL) for these findings were below human clinical exposure levels at intended therapeutic dose.
 
-Cabozantinib has shown no mutagenic or clastogenic potential in a standard battery of genotoxicity assays. The carcinogenic potential of cabozantinib has been evaluated in two species: rasH2
-
-<div style=\"page-break-after: always\"></div>
-
-transgenic mice and Sprague-Dawley rats. In the 2-year rat carcinogenicity study, cabozantinibrelated neoplastic findings consisted of an increased incidence of benign pheochromocytoma, alone or in combination with malignant pheochromocytoma/complex malignant pheochromocytoma of the adrenal medulla in both sexes at exposures well below the intended exposure in humans. The clinical relevance of the observed neoplastic lesions in rats is uncertain, but likely to be low. Cabozantinib was not carcinogenic in the rasH2 mouse model at a slightly higher exposure than the intended human therapeutic exposure.
+Cabozantinib has shown no mutagenic or clastogenic potential in a standard battery of genotoxicity assays. The carcinogenic potential of cabozantinib has been evaluated in two species: rasH2 transgenic mice and Sprague-Dawley rats. In the 2-year rat carcinogenicity study, cabozantinibrelated neoplastic findings consisted of an increased incidence of benign pheochromocytoma, alone or in combination with malignant pheochromocytoma/complex malignant pheochromocytoma of the adrenal medulla in both sexes at exposures well below the intended exposure in humans. The clinical relevance of the observed neoplastic lesions in rats is uncertain, but likely to be low. Cabozantinib was not carcinogenic in the rasH2 mouse model at a slightly higher exposure than the intended human therapeutic exposure.
 
 Fertility studies in rats have shown reduced male and female fertility. Further, hypospermatogenesis was observed in male dogs at exposure levels below human clinical exposure levels at intended therapeutic dose.
 
@@ -1158,7 +1137,13 @@ Juvenile rats (comparable to a &gt;2 year-old paediatric population) administere
 
 Tablet content Microcrystalline cellulose Anhydrous lactose Hydroxypropyl cellulose Croscarmellose sodium Colloidal anhydrous silica Magnesium stearate
 
-Film-coating Hypromellose 2910 Titanium dioxide (E171) Triacetin Iron oxide yellow (E172)
+Film-coating Hypromellose 2910 Titanium dioxide (E171)
+
+<div style=\"page-break-after: always\"></div>
+
+Triacetin
+
+Iron oxide yellow (E172)
 
 ## 6.2 Incompatibilities
 
@@ -1167,8 +1152,6 @@ Not applicable.
 ## 6.3 Shelf life
 
 4 years.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -1214,17 +1197,31 @@ Date of latest renewal: 21 April 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
+40
+
+<div style=\"page-break-after: always\"></div>
+
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX II A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## ANNEX II
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING
+
+## AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND
+
+## EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A.  MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturers responsible for batch release
 
@@ -1236,17 +1233,17 @@ Rottendorf Pharma GmbH Ostenfelderstrasse 51 - 61 D-59320 Ennigerloh Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
-## B.  CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to restricted medical prescription.
 
-## C.  OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-## D.  CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
 
@@ -1267,117 +1264,31 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
-## 1.  NAME OF THE MEDICINAL PRODUCT
+## 1. NAME OF THE MEDICINAL PRODUCT
 
-CABOMETYX   20 mg film-coated tablets cabozantinib
+CABOMETYX 20 mg film-coated tablets
 
-## 2.  STATEMENT OF ACTIVE SUBSTANCE(S)
+cabozantinib
 
-Each tablet contains cabozantinib ( S )-malate equivalent to 20 mg of cabozantinib.
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-## 3.  LIST OF EXCIPIENTS
+Each tablet contains cabozantinib (S)-malate equivalent to 20 mg of cabozantinib.
+
+## 3. LIST OF EXCIPIENTS
 
 Contains lactose. See leaflet for further information.
 
-## 4.  PHARMACEUTICAL FORM AND CONTENTS
-
-## Film-coated tablet
-
-30 film-coated tablets
-
-## 5.  METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Oral use.
-
-Read the package leaflet before use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7.  OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8.  EXPIRY DATE
-
-EXP
-
-## 9.  SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-Dispose of in accordance with local requirements.
-
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Ipsen Pharma
-
-70 rue Balard
-
-75015 Paris
-
-France
-
-## 12.  MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/16/1136/002
-
-## 13.  BATCH NUMBER
-
-Lot
-
-## 14.  GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15.  INSTRUCTIONS ON USE
-
-## 16.  INFORMATION IN BRAILLE
-
-CABOMETYX 20 mg
-
-## 17.  UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC
-
-SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## OUTER CARTON
-
-## 1.  NAME OF THE MEDICINAL PRODUCT
-
-CABOMETYX   40 mg film-coated tablets cabozantinib
-
-## 2.  STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each tablet contains cabozantinib ( S )-malate equivalent to 40 mg of cabozantinib.
-
-## 3.  LIST OF EXCIPIENTS
-
-Contains lactose. See leaflet for further information.
-
-## 4.  PHARMACEUTICAL FORM AND CONTENTS
+## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Film-coated tablet
 
 30 film-coated tablets
 
-## 5.  METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 Oral use.
 
@@ -1387,43 +1298,136 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-## 7.  OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8.  EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
-## 9.  SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 Dispose of in accordance with local requirements.
 
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|--------------------------------------------------------------|
 
-Ipsen Pharma
-
-70 rue Balard
-
-75015 Paris
+Ipsen Pharma 70 rue Balard 75015 Paris
 
 France
 
-## 12.  MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-EU/1/16/1136/004
+EU/1/16/1136/002
 
-## 13.  BATCH NUMBER
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
-## 14.  GENERAL CLASSIFICATION FOR SUPPLY
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
-## 15.  INSTRUCTIONS ON USE
+| 15. INSTRUCTIONS ON USE   |
+|---------------------------|
 
-## 16.  INFORMATION IN BRAILLE
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
+
+CABOMETYX 20 mg
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
+
+PC SN
+
+NN
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+CABOMETYX 40 mg film-coated tablets
+
+cabozantinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each tablet contains cabozantinib (S)-malate equivalent to 40 mg of cabozantinib.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Film-coated tablet
+
+30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+
+Dispose of in accordance with local requirements.
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Ipsen Pharma 70 rue Balard 75015 Paris
+
+France
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/16/1136/004
+
+| 13. BATCH NUMBER   |
+|--------------------|
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+| 15. INSTRUCTIONS ON USE   |
+|---------------------------|
+
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 CABOMETYX 40 mg
 
@@ -1431,267 +1435,38 @@ CABOMETYX 40 mg
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC
-
-SN
-
-NN
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## OUTER CARTON
-
-## 1.  NAME OF THE MEDICINAL PRODUCT
-
-CABOMETYX   60 mg film-coated tablets cabozantinib
-
-## 2.  STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each tablet contains cabozantinib ( S )-malate equivalent to 60 mg of cabozantinib.
-
-## 3.  LIST OF EXCIPIENTS
-
-Contains lactose. See leaflet for further information.
-
-## 4.  PHARMACEUTICAL FORM AND CONTENTS
-
-Film-coated tablet
-
-30 film-coated tablets
-
-## 5.  METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Oral use.
-
-Read the package leaflet before use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7.  OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8.  EXPIRY DATE
-
-EXP
-
-## 9.  SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-Dispose of in accordance with local requirements.
-
-## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Ipsen Pharma 70 rue Balard 75015 Paris France
-
-## 12.  MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/16/1136/006
-
-## 13.  BATCH NUMBER
-
-Lot
-
-## 14.  GENERAL CLASSIFICATION FOR SUPPLY
-
-15.  INSTRUCTIONS ON USE
-
-## 16.  INFORMATION IN BRAILLE
-
-CABOMETYX 60 mg
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN
 
 NN
 
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-BOTTLE LABEL
+OUTER CARTON
 
-## 1.  NAME OF THE MEDICINAL PRODUCT
+## 1. NAME OF THE MEDICINAL PRODUCT
 
-CABOMETYX 20 mg film-coated tablets cabozantinib
+CABOMETYX 60 mg film-coated tablets
 
-## 2.  STATEMENT OF ACTIVE SUBSTANCE(S)
+cabozantinib
 
-Each tablet contains cabozantinib ( S )-malate equivalent to 20 mg cabozantinib.
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-## 3.  LIST OF EXCIPIENTS
+Each tablet contains cabozantinib (S)-malate equivalent to 60 mg of cabozantinib.
 
-Contains lactose. See leaflet for further information.
-
-## 4.  PHARMACEUTICAL FORM AND CONTENTS
-
-30 film-coated tablets
-
-## 5.  METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Oral use.
-
-Read the package leaflet before use.
-
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7.  OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8.  EXPIRY DATE
-
-EXP
-
-## 9.  SPECIAL STORAGE CONDITIONS
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-| 11.NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------------------------------------------------------------|
-
-Ipsen Pharma 70 rue Balard 75015 Paris France
-
-| 12.MARKETING AUTHORISATION NUMBER(S)   |
-|----------------------------------------|
-
-EU/1/16/1136/002
-
-| 13.BATCH NUMBER   |
-|-------------------|
-
-Lot
-
-| 14.GENERAL CLASSIFICATION FOR SUPPLY   |
-|----------------------------------------|
-
-| 15.INSTRUCTIONS ONUSE   |
-|-------------------------|
-
-| 16.INFORMATION IN BRAILLE   |
-|-----------------------------|
-
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
-
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
-
-52
-
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
-
-BOTTLE LABEL
-
-## 1.  NAME OF THE MEDICINAL PRODUCT
-
-CABOMETYX 40 mg film-coated tablets cabozantinib
-
-## 2.  STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each tablet contains cabozantinib ( S )-malate equivalent to 40 mg cabozantinib.
-
-## 3.  LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 Contains lactose. See leaflet for further information.
 
-## 4.  PHARMACEUTICAL FORM AND CONTENTS
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Film-coated tablet
 
 30 film-coated tablets
 
-## 5.  METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Oral use.
-
-Read the package leaflet before use.
-
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7.  OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8.  EXPIRY DATE
-
-EXP
-
-## 9.  SPECIAL STORAGE CONDITIONS
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-| 11.NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------------------------------------------------------------|
-
-Ipsen Pharma 70 rue Balard 75015 Paris France
-
-| 12.MARKETING AUTHORISATION NUMBER(S)   |
-|----------------------------------------|
-
-EU/1/16/1136/004
-
-| 13.BATCH NUMBER   |
-|-------------------|
-
-Lot
-
-| 14.GENERAL CLASSIFICATION FOR SUPPLY   |
-|----------------------------------------|
-
-| 15.INSTRUCTIONS ONUSE   |
-|-------------------------|
-
-| 16.INFORMATION IN BRAILLE   |
-|-----------------------------|
-
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
-
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
-
-54
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
-
-BOTTLE LABEL
-
-## 1.  NAME OF THE MEDICINAL PRODUCT
-
-CABOMETYX 60 mg film-coated tablets cabozantinib
-
-## 2.  STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each tablet contains cabozantinib ( S )-malate equivalent to 60 mg cabozantinib.
-
-## 3.  LIST OF EXCIPIENTS
-
-Contains lactose. See leaflet for further information.
-
-## 4.  PHARMACEUTICAL FORM AND CONTENTS
-
-30 film-coated tablets
-
-## 5.  METHOD AND ROUTE(S) OF ADMINISTRATION
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 Oral use.
 
@@ -1701,49 +1476,290 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-## 7.  OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8.  EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
-## 9.  SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+
+Dispose of in accordance with local requirements.
+
+| 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|--------------------------------------------------------------|
+
+Ipsen Pharma 70 rue Balard 75015 Paris France
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+EU/1/16/1136/006
+
+| 13. BATCH NUMBER   |
+|--------------------|
+
+Lot
+
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
+
+| 15. INSTRUCTIONS ON USE   |
+|---------------------------|
+
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
+
+CABOMETYX 60 mg
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+BOTTLE LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+CABOMETYX 20 mg film-coated tablets
+
+cabozantinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each tablet contains cabozantinib (S)-malate equivalent to 20 mg cabozantinib.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------------------------------------------------------------|
+| 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|--------------------------------------------------------------|
 
 Ipsen Pharma 70 rue Balard 75015 Paris France
 
-| 12.MARKETING AUTHORISATION NUMBER(S)   |
-|----------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-EU/1/16/1136/006
+EU/1/16/1136/002
 
-| 13.BATCH NUMBER   |
-|-------------------|
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
-| 14.GENERAL CLASSIFICATION FOR SUPPLY   |
-|----------------------------------------|
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
-| 15.INSTRUCTIONS ONUSE   |
-|-------------------------|
+| 15. INSTRUCTIONS ON USE   |
+|---------------------------|
 
-| 16.INFORMATION IN BRAILLE   |
-|-----------------------------|
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
-56
+53
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+BOTTLE LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+CABOMETYX 40 mg film-coated tablets
+
+cabozantinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each tablet contains cabozantinib (S)-malate equivalent to 40 mg cabozantinib.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
+
+| 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|--------------------------------------------------------------|
+
+Ipsen Pharma 70 rue Balard 75015 Paris France
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+EU/1/16/1136/004
+
+| 13. BATCH NUMBER   |
+|--------------------|
+
+Lot
+
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
+
+| 15. INSTRUCTIONS ON USE   |
+|---------------------------|
+
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
+
+55
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+BOTTLE LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+CABOMETYX 60 mg film-coated tablets cabozantinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each tablet contains cabozantinib (S)-malate equivalent to 60 mg cabozantinib.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
+
+| 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|--------------------------------------------------------------|
+
+Ipsen Pharma 70 rue Balard 75015 Paris France
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+EU/1/16/1136/006
+
+| 13. BATCH NUMBER   |
+|--------------------|
+
+Lot
+
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
+
+| 15. INSTRUCTIONS ON USE   |
+|---------------------------|
+
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
+
+57
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1753,14 +1769,16 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-CABOMETYX 20 mg film-coated tablets CABOMETYX 40 mg film-coated tablets CABOMETYX 60 mg film-coated tablets cabozantinib
+CABOMETYX 20 mg film-coated tablets CABOMETYX 40 mg film-coated tablets CABOMETYX 60 mg film-coated tablets
+
+cabozantinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1777,9 +1795,9 @@ CABOMETYX 20 mg film-coated tablets CABOMETYX 40 mg film-coated tablets CABOMETY
 
 CABOMETYX is a cancer medicine that contains the active substance cabozantinib. It is used in adults to treat:
 
-- -advanced kidney cancer called advanced renal cell carcinoma
-- -liver cancer when a specific anticancer medicine (sorafenib) is no longer stopping the disease from progressing.
-- -Advanced neuroendocrine tumours - tumours that originate from the pancreas, stomach, bowels, lung or other organs. It is given when patients with these tumours no longer respond to a previous treatment option.
+- advanced kidney cancer called advanced renal cell carcinoma
+- liver cancer when a specific anticancer medicine (sorafenib) is no longer stopping the disease from progressing.
+- Advanced neuroendocrine tumours - tumours that originate from the pancreas, stomach, bowels, lung or other organs. It is given when patients with these tumours no longer respond to a previous treatment option.
 
 CABOMETYX is also used to treat locally advanced or metastatic differentiated thyroid cancer, a type of cancer in the thyroid gland, in adults when radioactive iodine and anticancer medicine treatments are no longer stopping the disease from progressing.
 
@@ -1787,36 +1805,34 @@ CABOMETYX may be given in combination with nivolumab for advanced kidney cancer.
 
 ## How CABOMETYX works
 
-CABOMETYX blocks the action of proteins called receptor tyrosine kinases (RTKs), which are involved in the growth of cells and the development of new blood vessels that supply them. These proteins can be present in high amounts in cancer cells, and by blocking their action this medicine can
+CABOMETYX blocks the action of proteins called receptor tyrosine kinases (RTKs), which are involved in the growth of cells and the development of new blood vessels that supply them. These proteins can be present in high amounts in cancer cells, and by blocking their action this medicine can slow down the rate at which the tumour grows and help to cut off the blood supply that the cancer needs.
 
 <div style=\"page-break-after: always\"></div>
-
-slow down the rate at which the tumour grows and help to cut off the blood supply that the cancer needs.
 
 ## 2. What you need to know before you take CABOMETYX
 
 ## Do not take CABOMETYX
 
-- -if you are allergic to cabozantinib or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to cabozantinib or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before taking CABOMETYX if you:
 
-- -have high blood pressure
-- -have or have had an aneurysm (enlargement and weakening of a blood vessel wall) or a tear in a blood vessel wall
-- -have diarrhoea
-- -have a recent history of significant bleeding
-- -have had surgery within the last month (or if surgical procedures are planned), including dental surgery
-- -have inflammatory bowel disease (for example, Crohn's disease or ulcerative colitis, diverticulitis, or appendicitis)
-- -have a recent history of blood clot in the leg, stroke, or heart attack
--     have heart failure (can include symptoms like shortness of breath, feeling tired, fainting, swollen ankles and legs)
-- -have thyroid problems. Tell your doctor if you get tired more easily, generally feel colder than other people, or your voice deepens whilst taking this medicine.
-- -have liver or kidney disease.
+- have high blood pressure
+- have or have had an aneurysm (enlargement and weakening of a blood vessel wall) or a tear in a blood vessel wall
+- have diarrhoea
+- have a recent history of significant bleeding
+- have had surgery within the last month (or if surgical procedures are planned), including dental surgery
+- have inflammatory bowel disease (for example, Crohn's disease or ulcerative colitis, diverticulitis, or appendicitis)
+- have a recent history of blood clot in the leg, stroke, or heart attack
+- have heart failure (can include symptoms like shortness of breath, feeling tired, fainting, swollen ankles and legs)
+- have thyroid problems. Tell your doctor if you get tired more easily, generally feel colder than other people, or your voice deepens whilst taking this medicine.
+- have liver or kidney disease.
 
 ## Tell your doctor if any of these affect you.
 
-You may need treatment for them, or your doctor may decide to change your dose of CABOMETYX or stop treatment altogether. See also section 4 ' Possible side effects' .
+You may need treatment for them, or your doctor may decide to change your dose of CABOMETYX or stop treatment altogether. See also section 4 \"Possible side effects\".
 
 You should also tell your dentist that you are taking this medicine. It is important for you to practice good mouth care during treatment.
 
@@ -1828,21 +1844,21 @@ CABOMETYX is not recommended for children or adolescents. The effects of this me
 
 Tell your doctor or pharmacist if you are taking or have recently taken any other medicines, including medicines obtained without a prescription. This is because CABOMETYX can affect the way some other medicines work. Also, some medicines can affect the way CABOMETYX works. This could mean that your doctor needs to change the dose(s) that you take. You should tell your doctor about every medicine, but in particular if taking:
 
-- -Medicines that treat fungal infections, such as itraconazole, ketoconazole and posaconazole
-- -Medicines used to treat bacterial infections (antibiotics) such as erythromycin, clarithromycin, and rifampicin
-- -Allergy medicines such as fexofenadine
-- -Medicines to treat angina pectoris (chest pain owing to inadequate supply to the heart) such as ranolazine
+- Medicines that treat fungal infections, such as itraconazole, ketoconazole and posaconazole
+- Medicines used to treat bacterial infections (antibiotics) such as erythromycin, clarithromycin, and rifampicin
+- Allergy medicines such as fexofenadine
+- Medicines to treat angina pectoris (chest pain owing to inadequate supply to the heart) such as ranolazine
 
 <div style=\"page-break-after: always\"></div>
 
-- -Medicines used to treat epilepsy or fits such as phenytoin, carbamazepine, and phenobarbital
-- -Herbal preparations containing St. John's Wort (Hypericum perforatum), sometimes used for treating depression or depression-related conditions such as anxiety
-- -Medicines used to thin the blood, such as warfarin and dabigatran etexilate
-- -Medicines to treat high blood pressure or other heart conditions, such as aliskiren, ambrisentan, digoxin, talinolol, and tolvaptan
-- -Medicines for diabetes, such as saxagliptin and sitagliptin
-- -Medicines used to treat gout, such as colchicine
-- -Medicines used to treat HIV or AIDS, such as efavirenz, ritonavir, maraviroc and emtricitabine
-- -Medicines used to prevent transplant rejection (ciclosporin) and ciclosporin-based regimens in rheumatoid arthritis and psoriasis
+- Medicines used to treat epilepsy or fits such as phenytoin, carbamazepine, and phenobarbital
+- Herbal preparations containing St. John's Wort (Hypericum perforatum), sometimes used for treating depression or depression-related conditions such as anxiety
+- Medicines used to thin the blood, such as warfarin and dabigatran etexilate
+- Medicines to treat high blood pressure or other heart conditions, such as aliskiren, ambrisentan, digoxin, talinolol, and tolvaptan
+- Medicines for diabetes, such as saxagliptin and sitagliptin
+- Medicines used to treat gout, such as colchicine
+- Medicines used to treat HIV or AIDS, such as efavirenz, ritonavir, maraviroc and emtricitabine
+- Medicines used to prevent transplant rejection (ciclosporin) and ciclosporin-based regimens in rheumatoid arthritis and psoriasis
 
 ## CABOMETYX with food
 
@@ -1870,7 +1886,7 @@ This medicine contains lactose (a type of sugar). If you have been told by your 
 
 ## CABOMETYX contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially \"sodiumfree\".
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1892,8 +1908,8 @@ If you have taken more of this medicine than you have been instructed to, talk t
 
 ## If you forget to take CABOMETYX
 
-- -If there are still 12 hours or more before your next dose is due, then take the missed dose as soon as you remember. Take the next dose at the normal time.
-- -If your next dose is due in less than 12 hours, then do not take the dose that you have missed. Take your next dose at the normal time.
+- If there are still 12 hours or more before your next dose is due, then take the missed dose as soon as you remember. Take the next dose at the normal time.
+- If your next dose is due in less than 12 hours, then do not take the dose that you have missed. Take your next dose at the normal time.
 
 ## If you stop using CABOMETYX
 
@@ -1922,7 +1938,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Other side effects with CABOMETYX alone include:
 
-## Very common side effects (may affect more than 1 in 10 people)
+Very common side effects (may affect more than 1 in 10 people)
 
 - Anaemia (low levels of red blood cells which carry oxygen), low levels of platelets (cells which help the blood to clot)
 - Reduced thyroid activity; symptoms can include tiredness, weight gain, constipation, feeling cold and dry skin
@@ -2057,7 +2073,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - Inflammation of the kidney
 - Collapsed lung with air trapped in the space between the lung and chest, often causing shortness of breath (pneumothorax)
 
-## Not known (proportion of people affected not known)
+Not known (proportion of people affected not known)
 
 - Inflammation of the blood vessels in the skin (cutaneous vasculitis)
 - Progressive destruction and loss of intrahepatic bile ducts and jaundice
@@ -2076,52 +2092,56 @@ This medicine does not require any special storage conditions.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
-## 6.  Contents of the pack and other information
+## 6. Contents of the pack and other information
 
 ## What CABOMETYX contains
 
-The active substance is cabozantinib ( S )-malate.
+The active substance is cabozantinib (S)-malate.
 
-CABOMETYX 20 mg film-coated tablets: Each tablet contains cabozantinib ( S )-malate equivalent to 20 mg of cabozantinib.
+CABOMETYX 20 mg film-coated tablets: Each tablet contains cabozantinib (S)-malate equivalent to 20 mg of cabozantinib.
 
-CABOMETYX 40 mg film-coated tablets: Each tablet contains cabozantinib ( S )-malate equivalent to 40 mg of cabozantinib.
+CABOMETYX 40 mg film-coated tablets: Each tablet contains cabozantinib (S)-malate equivalent to 40 mg of cabozantinib.
 
-CABOMETYX 60 mg film-coated tablets: Each tablet contains cabozantinib ( S )-malate equivalent to 60 mg of cabozantinib.
+CABOMETYX 60 mg film-coated tablets: Each tablet contains cabozantinib (S)-malate equivalent to 60 mg of cabozantinib.
 
 The other ingredients are:
 
 <div style=\"page-break-after: always\"></div>
 
-- -Tablet contents: microcrystalline cellulose, lactose anhydrous, hydroxypropyl cellulose, croscarmellose sodium, colloidal silicon dioxide anhydrous, magnesium stearate. (see section 2 for lactose content)
-- -Film coating: hypromellose, titanium dioxide (E171), triacetin, iron oxide yellow (E172)
+- Tablet contents: microcrystalline cellulose, lactose anhydrous, hydroxypropyl cellulose, croscarmellose sodium, colloidal silicon dioxide anhydrous, magnesium stearate. (see section 2 for lactose content)
+- Film coating: hypromellose, titanium dioxide (E171), triacetin, iron oxide yellow (E172)
 
 ## What CABOMETYX looks like and contents of the pack
 
-CABOMETYX 20 mg film-coated tablets are yellow, round with no score, and identified with 'XL' on one side and '20' on the other side.
+CABOMETYX 20 mg film-coated tablets are yellow, round with no score, and identified with \"XL\" on one side and \"20\" on the other side.
 
-CABOMETYX 40 mg film-coated tablets are yellow, triangle shaped with no score, and identified with 'XL' on one side and '40' on the other side.
+CABOMETYX 40 mg film-coated tablets are yellow, triangle shaped with no score, and identified with \"XL\" on one side and \"40\" on the other side.
 
-CABOMETYX 60 mg film-coated tablets are yellow, oval shaped with no score, and identified with 'XL' on one side and '60' on the other side.
+CABOMETYX 60 mg film-coated tablets are yellow, oval shaped with no score, and identified with \"XL\" on one side and \"60\" on the other side.
 
 CABOMETYX is available in packs containing one plastic bottle with 30 film-coated tablets. The bottle contains three silica gel desiccant canisters and a polyester coil to prevent damage to the filmcoated tablets. Keep the canisters and the polyester coil in the bottle and do not swallow the desiccant canisters.
 
 ## Marketing Authorisation Holder
 
-Ipsen Pharma 70 rue Balard 75015 Paris France
+Ipsen Pharma 70 rue Balard 75015 Paris
+
+France
 
 ## Manufacturer
 
 Patheon France 40 Boulevard de Champaret 38300 Bourgoin Jallieu, France
 
-Tjoapack Netherlands B.V. Nieuwe Donk 9 4879 AC Etten-Leur, The Netherlands
+Tjoapack Netherlands B.V.
 
-Rottendorf Pharma GmbH Ostenfelderstrasse 51 - 61 D-59320 Ennigerloh, Germany
+Nieuwe Donk 9 4879 AC Etten-Leur, The Netherlands
+
+Rottendorf Pharma GmbH Ostenfelderstrasse 51 - 61
+
+D-59320 Ennigerloh, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-## België/Belgique/Belgien, Luxembourg/Luxemburg
-
-Italia
+## België/Belgique/Belgien, Luxembourg/Luxemburg Italia
 
 Ipsen NV
 
@@ -2129,11 +2149,11 @@ België /Belgique/Belgien
 
 Tél/Tel: + 32 9 243 96 00
 
+## България
+
 Ipsen SpA
 
 Tel: + 39 02 39 22 41
-
-## България
 
 ## Latvija
 
@@ -2141,15 +2161,17 @@ PharmaSwiss EOOD
 
 Тел.: +359 2 8952 110
 
+## Česká republika
+
 Ipsen Pharma representative office
 
 Tel: +371 67622233
 
-## Česká republika
-
 ## Lietuva
 
 Ipsen Pharma, s.r.o.
+
+<div style=\"page-break-after: always\"></div>
 
 Tel: + 420 242 481 821
 
@@ -2157,17 +2179,19 @@ Ipsen Pharma SAS Lietuvos filialas
 
 Tel. +370 700 33305
 
-## Danmark, Norge, Suomi/Finland, Sverige, Ísland
+## Danmark, Norge, Suomi/Finland, Sverige, Ísland Magyarország
 
-## Magyarország
+Institut Produits Synthèse (IPSEN) AB
 
-Institut Produits Synthèse (IPSEN) AB Sverige/Ruotsi/Svíþjóð Tlf/Puh/Tel/Sími: +46 8 451 60 00
+Sverige/Ruotsi/Svíþjóð
+
+Tlf/Puh/Tel/Sími: +46 8 451 60 00
+
+## Deutschland, Österreich
 
 IPSEN Pharma Hungary Kft.
 
 Tel.: +36 1 555 5930
-
-## Deutschland, Österreich
 
 ## Nederland
 
@@ -2175,11 +2199,11 @@ Ipsen Pharma GmbH Deutschland
 
 Tel.: +49 89 2620 432 89
 
+## Eesti
+
 Ipsen Farmaceutica B.V.
 
 Tel: + 31 (0) 23 554 1600
-
-## Eesti
 
 ## Polska
 
@@ -2187,25 +2211,25 @@ Centralpharma Communications OÜ
 
 Tel: +372 60 15 540
 
+## Ελλάδα, Κύπρος, Malta
+
 Ipsen Poland Sp. z o.o.
 
 Tel.: + 48 22 653 68 00
 
-## Ελλάδα, Κύπρος, Malta
-
 ## Portugal
 
-Ipsen Μονοπρόσωπη E ΠΕ
+Ipsen Μονοπρόσωπη EΠΕ
 
 Ελλάδα
 
 Τηλ: + 30 210 984 3324
 
+## España
+
 Ipsen Portugal - Produtos Farmacêuticos S.A.
 
 Tel: + 351 21 412 3550
-
-## España
 
 ## România
 
@@ -2213,11 +2237,11 @@ Ipsen Pharma, S.A.U.
 
 Tel: + 34 936 858 100
 
+## France
+
 Ipsen Pharma România SRL
 
 Tel: + 40 21 231 27 20
-
-## France
 
 ## Slovenija
 
@@ -2225,15 +2249,17 @@ Ipsen Pharma
 
 Tél: + 33 1 58 33 50 00
 
-PharmaSwiss d.o.o. Tel: + 386 1 236 47 00
-
 ## Hrvatska
+
+PharmaSwiss d.o.o.
+
+Tel: + 386 1 236 47 00
 
 ## Slovenská republika
 
-Bausch Health Poland sp. z o.o. podružnica Zagreb Tel: +385 1 6700 750
+Bausch Health Poland sp. z o.o. podružnica Zagreb
 
-Ipsen Pharma, organizačná zložka Tel: + 420 242 481 821
+Tel: +385 1 6700 750
 
 ## Ireland
 
@@ -2241,10 +2267,10 @@ Ipsen Pharmaceuticals Limited
 
 Tel: + 44 (0)1753 62 77 77
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+Ipsen Pharma, organizačná zložka Tel: + 420 242 481 821

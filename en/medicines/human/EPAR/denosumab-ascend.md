@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-09-22 12:05:00
+document_datetime: 2026-10-14 09:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/denosumab-ascend.html
 document_name: denosumab-ascend.html
 version: success
-processing_time: 0.1361342
-conversion_datetime: 2026-09-25 19:52:39.812895
+processing_time: 0.14279
+conversion_datetime: 2026-10-19 23:43:03.033475
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.130.0
-  docling-core: 2.98.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
   docling-ibm-models: 4.0.3
-  docling-parse: 7.21.0
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Denosumab Ascend
 
 [RSS](/en/individual-human-medicine.xml/282817)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -123,7 +123,7 @@ English (EN) (135.64 KB - PDF)
 
 [View](/en/documents/overview/denosumab-ascend-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-452)
+[Other languages (22)](#file-language-dropdown-232)
 
 български (BG) (150.82 KB - PDF)
 
@@ -275,7 +275,7 @@ English (EN) (816.26 KB - PDF)
 
 [View](/en/documents/product-information/denosumab-ascend-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-295)
+[Other languages (24)](#file-language-dropdown-874)
 
 български (BG) (774.76 KB - PDF)
 
@@ -444,7 +444,7 @@ English (EN) (61.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/denosumab-ascend-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-906)
+[Other languages (24)](#file-language-dropdown-283)
 
 български (BG) (56.78 KB - PDF)
 
@@ -619,7 +619,10 @@ Treatment of adults and skeletally mature adolescents with giant cell tumour of 
 - **Biosimilar**
     - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
 - **Marketing authorisation holder**
-    - Ascend GmbH Sebastian-Kneipp-Strasse 41  Niederursel 60439  Frankfurt Am Main  GERMANY
+    - Ascend GmbH Sebastian-Kneipp-Strasse 41  
+Niederursel 60439  
+Frankfurt Am Main  
+GERMANY
 - **Opinion adopted**
     - 25/06/2026
 - **Marketing authorisation issued**
@@ -628,6 +631,16 @@ Treatment of adults and skeletally mature adolescents with giant cell tumour of 
 ## Assessment history
 
 ### Initial marketing authorisation documents
+
+Denosumab Ascend : EPAR - Public assessment report
+
+Adopted Reference Number: EMADOC-1829012207-27220
+
+English (EN) (2.79 MB - PDF)
+
+**First published:** 14/10/2026
+
+[View](/en/documents/assessment-report/denosumab-ascend-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Denosumab Ascend
 
@@ -647,6 +660,6 @@ English (EN) (154.17 KB - PDF)
 
 **This page was last updated on**
 
-22/09/2026
+14/10/2026
 
 ## Share this page

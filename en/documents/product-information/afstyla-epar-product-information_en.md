@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-12-18 15:17:19
+document_datetime: 2026-10-16 14:36:22
 document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/afstyla-epar-product-information_en.pdf
 document_name: afstyla-epar-product-information_en.pdf
 version: success
-processing_time: 13.9777439
-conversion_datetime: 2025-12-23 01:47:20.586294
+processing_time: 47.593088
+conversion_datetime: 2026-10-19 22:45:07.991714
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -40,47 +40,33 @@ AFSTYLA 3000 IU powder and solvent for solution for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## AFSTYLA 250 IU powder and solvent for solution for injection
+AFSTYLA 250 IU powder and solvent for solution for injection Each vial contains nominally 250 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). After reconstitution with 2.5 ml water for injections the solution contains 100 IU/ml of rVIII-SingleChain.
 
-Each vial contains nominally 250 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). After reconstitution with 2.5 ml water for injections the solution contains 100 IU/ml of rVIII-SingleChain.
+AFSTYLA 500 IU powder and solvent for solution for injection Each vial contains nominally 500 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). After reconstitution with 2.5 ml water for injections the solution contains 200 IU/ml of rVIII-SingleChain.
 
-## AFSTYLA 500 IU powder and solvent for solution for injection
+AFSTYLA 1000 IU powder and solvent for solution for injection Each vial contains nominally 1000 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). After reconstitution with 2.5 ml water for injections the solution contains 400 IU/ml of rVIII-SingleChain.
 
-Each vial contains nominally 500 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). After reconstitution with 2.5 ml water for injections the solution contains 200 IU/ml of rVIII-SingleChain.
+AFSTYLA 1500 IU powder and solvent for solution for injection Each vial contains nominally 1500 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). When reconstituted with 5 ml water for injections the solution contains 300 IU/ml of rVIII-SingleChain.
 
-## AFSTYLA 1000 IU powder and solvent for solution for injection
+AFSTYLA 2000 IU powder and solvent for solution for injection Each vial contains nominally 2000 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). When reconstituted with 5 ml water for injections the solution contains 400 IU/ml of rVIII-SingleChain.
 
-Each vial contains nominally 1000 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). After reconstitution with 2.5 ml water for injections the solution contains 400 IU/ml of rVIII-SingleChain.
+AFSTYLA 2500 IU powder and solvent for solution for injection Each vial contains nominally 2500 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). When reconstituted with 5 ml water for injections the solution contains 500 IU/ml of rVIII-SingleChain.
 
-## AFSTYLA 1500 IU powder and solvent for solution for injection
-
-Each vial contains nominally 1500 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). When reconstituted with 5 ml water for injections the solution contains 300 IU/ml of rVIII-SingleChain.
-
-## AFSTYLA 2000 IU powder and solvent for solution for injection
-
-Each vial contains nominally 2000 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). When reconstituted with 5 ml water for injections the solution contains 400 IU/ml of rVIII-SingleChain.
-
-## AFSTYLA 2500 IU powder and solvent for solution for injection
-
-Each vial contains nominally 2500 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). When reconstituted with 5 ml water for injections the solution contains 500 IU/ml of rVIII-SingleChain.
-
-## AFSTYLA 3000 IU powder and solvent for solution for injection
-
-Each vial contains nominally 3000 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). When reconstituted with 5 ml water for injections the solution contains 600 IU/ml of rVIII-SingleChain.
+AFSTYLA 3000 IU powder and solvent for solution for injection Each vial contains nominally 3000 IU recombinant, single-chain coagulation factor VIII (rVIIISingleChain, INN = lonoctocog alfa). When reconstituted with 5 ml water for injections the solution contains 600 IU/ml of rVIII-SingleChain.
 
 <div style=\"page-break-after: always\"></div>
 
-The potency (IU) is determined using the European Pharmacopoeia chromogenic assay. The specific activity of AFSTYLA is 7400 - 16000 IU/mg protein.
+The potency (IU) is determined using the European Pharmacopoeia chromogenic assay. The specific activity of AFSTYLA is 7 400 - 16 000 IU/mg protein.
 
-AFSTYLA is a single-chain recombinant human factor VIII produced in Chinese hamster ovary (CHO) cells. It is a construct where most of the B-domain occurring in wild-type, full-length factor VIII and 4 amino acids of the adjacent acidic a3 domain were removed (amino acids 765 to 1652 of full-length factor VIII).
+AFSTYLA is a single-chain recombinant human factor VIII produced in Chinese hamster ovary (CHO) cells. It is a construct where most of the B-domain occurring in wild-type, full-length factor VIII and 4 amino acids of the adjacent acidic a3 domain were removed (amino acids 765 to 1 652 of full-length factor VIII).
 
 The newly formed linkage of the heavy and light chain of factor VIII introduces a new Nglycosylation site. As the furin cleavage site present in wild type factor VIII between the Bdomain and the a3 domain was removed, AFSTYLA is expressed as a single-chain factor VIII molecule.
 
-Excipient with known effect:
+Excipients with known effect:
 
-AFSTYLA 250, 500 and 1000 IU (2.5 ml solvent) Each vial contains 17.5 mg (0.76 mmol) of sodium.
+AFSTYLA 250, 500 and 1000 IU (2.5 ml solvent) Each vial contains 17.5 mg (0.76 mmol) of sodium and 0.5 mg of polysorbate 80.
 
-AFSTYLA 1500, 2000, 2500 and 3000 IU (5 ml solvent) Each vial contains 35 mg (1.52 mmol) of sodium.
+AFSTYLA 1500, 2000, 2500 and 3000 IU (5 ml solvent) Each vial contains 35 mg (1.52 mmol) of sodium and 1 mg of polysorbate 80.
 
 For the full list of excipients, see section 6.1
 
@@ -122,7 +108,9 @@ The number of units of factor VIII administered is expressed in International Un
 
 One International Unit (IU) of factor VIII activity is equivalent to that quantity of factor VIII in one ml of normal human plasma.
 
-Potency assignment is determined using a chromogenic substrate assay. Plasma factor VIII levels can be monitored using either a chromogenic substrate assay or a onestage clotting assay.
+Potency assignment is determined using a chromogenic substrate assay.
+
+Plasma factor VIII levels can be monitored using either a chromogenic substrate assay or a onestage clotting assay.
 
 ## On demand treatment
 
@@ -213,9 +201,15 @@ In patients with existing cardiovascular risk factors, substitution therapy with
 
 If a central venous access device (CVAD) is required, risk of CVAD-related complications including local infections, bacteraemia and catheter site thrombosis should be considered.
 
-## Sodium content
+## Excipients with known effect
+
+## Sodium
 
 This medicinal product contains up to 35.0 mg sodium per vial, equivalent to 1.8% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+
+## Polysorbate 80
+
+This medicinal product contains 0.5 mg of polysorbate 80 per vial of 250 IU, 500 IU and 1000 IU and 1 mg of polysorbate 80 per vial of 1500 IU, 2000 IU, 2500 IU and 3000 IU which is equivalent to 0.2 mg/mL for all strengths. Polysorbates may cause allergic reactions.
 
 ## Paediatric population
 
@@ -229,11 +223,11 @@ No interactions of human coagulation factor VIII products with other medicinal p
 
 Animal reproduction studies have not been conducted with factor VIII. Based on the rare occurrence of haemophilia A in women, experience regarding the use of factor VIII during pregnancy and breast-feeding is not available. Therefore, factor VIII should be used during pregnancy and lactation only if clearly indicated.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 AFSTYLA has no influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -249,7 +243,7 @@ The table presented below is according to the MedDRA system organ classification
 
 ## Frequencies have been evaluated on a per patient basis according to the following convention:
 
-very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000), not known (cannot be estimated from the available data).
 
 | MedDRA System Organ Class                            | Adverse reaction    | Frequency                            |
 |------------------------------------------------------|---------------------|--------------------------------------|
@@ -264,8 +258,6 @@ very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &l
 | General disorders and administration site conditions | Injection site pain | uncommon                             |
 | General disorders and administration site conditions | Chills              | uncommon                             |
 | General disorders and administration site conditions | Feeling hot         | uncommon                             |
-
-*Frequency is based on studies with all FVIII products which included patients with severe haemophilia A. PTPs = previously-treated patients, PUPs = previously-untreated patients.
 
 ## Paediatric population
 
@@ -301,23 +293,21 @@ Haemophilia A is an x-linked hereditary disorder of blood coagulation due to dec
 
 ## Adult and adolescent population 12 - 65 years of age
 
-Study 1001 determined the efficacy and safety in the prevention of bleeding events in prophylaxis, hemostatic efficacy in the control of bleeding events and during perioperative management. The study enrolled 175 previously treated patients (12 to 65 years of age) with severe haemophilia A (1 subject &gt;60 years of age was enrolled) who accumulated a total of 14,306 EDs with rVIII-SingleChain. No patient developed an inhibitor or experienced an anaphylactic reaction.
+Study 1001 determined the efficacy and safety in the prevention of bleeding events in prophylaxis, hemostatic efficacy in the control of bleeding events and during perioperative management. The study enrolled 175 previously treated patients (12 to 65 years of age) with severe haemophilia A (1 subject &gt;60 years of age was enrolled) who accumulated a total of 14 306 EDs with rVIII-SingleChain. No patient developed an inhibitor or experienced an anaphylactic reaction.
 
-Prophylaxis: 146 subjects were assigned to a prophylaxis regimen (median ABR, 1.14 (interquartile range: 0.0, 4.2)), 79 (54%) were assigned a 3-times per week regimen and 47 (32%) a 2-times per week regimen. Patients on prophylaxis 2- and 3-times per week were assigned median doses of 35 and 30 IU/kg per injection respectively with a median annual consumption across all prophylaxis regimens of 4,283 IU/kg year.
+Prophylaxis: 146 subjects were assigned to a prophylaxis regimen (median ABR, 1.14 (interquartile range: 0.0, 4.2)), 79 (54%) were assigned a 3-times per week regimen and 47 (32%) a 2-times per week regimen. Patients on prophylaxis 2- and 3-times per week were assigned median doses of 35 and 30 IU/kg per injection respectively with a median annual consumption across all prophylaxis regimens of 4 283 IU/kg year.
 
 Treatment of bleeding: Of the 848 bleeding events observed during Study 1001, 93.5% were controlled with 2 or fewer injections. The median dose to treat a bleeding episode was 34.7 IU/kg.
 
-Perioperative management (surgical prophylaxis): A total of 16 major surgical procedures were performed and assessed in 13 subjects in Study 1001. Hemostatic efficacy of rVIII-SingleChain in
+Perioperative management (surgical prophylaxis): A total of 16 major surgical procedures were performed and assessed in 13 subjects in Study 1001. Hemostatic efficacy of rVIII-SingleChain in surgical prophylaxis was rated as excellent or good in all surgeries. No paediatric subjects &lt;18 years of age were included in the surgery population.
 
 <div style=\"page-break-after: always\"></div>
 
-surgical prophylaxis was rated as excellent or good in all surgeries. No paediatric subjects &lt;18 years of age were included in the surgery population.
-
 ## Paediatric population &lt;12 years of age
 
-Study 3002 enrolled a total of 84 previously treated patients &lt;12 years of age (35 &lt;6 years of age and 49 6 to &lt;12 years of age). The study participants accumulated a total of 5,239 EDs with rVIIISingleChain. No patient developed an inhibitor or experienced an anaphylactic reaction.
+Study 3002 enrolled a total of 84 previously treated patients &lt;12 years of age (35 &lt;6 years of age and 49 6 to &lt;12 years of age). The study participants accumulated a total of 5 239 EDs with rVIIISingleChain. No patient developed an inhibitor or experienced an anaphylactic reaction.
 
-Individualised prophylaxis: Of the 81 patients on prophylaxis (median ABR 3.69 (interquartile range: 0.00, 7.20)), 43 (53%) were assigned to a 2-times weekly regimen and 25 (31%) to a 3-times per week regimen. Patients on prophylaxis 2- and 3-times per week were assigned median doses of 35 and 32 IU/kg per injection respectively with a median annual consumption across all prophylaxis regimens of 4,109 IU/kg year.
+Individualised prophylaxis: Of the 81 patients on prophylaxis (median ABR 3.69 (interquartile range: 0.00, 7.20)), 43 (53%) were assigned to a 2-times weekly regimen and 25 (31%) to a 3-times per week regimen. Patients on prophylaxis 2- and 3-times per week were assigned median doses of 35 and 32 IU/kg per injection respectively with a median annual consumption across all prophylaxis regimens of 4 109 IU/kg year.
 
 Treatment of bleeding: Of the 347 bleeding events observed during Study 3002, 95.7%were controlled with 2 or fewer injections. The median dose used to treat a bleeding event was 27.6 IU/kg.
 
@@ -327,7 +317,7 @@ Efficacy outcomes were comparable to what was reported in earlier studies.
 
 ## Previously untreated patients (PUPs)
 
-Study 3001 enrolled a total of 24 PUPs with a median age of 1.0 year (range: 0 to5 years). The study participants accumulated a total of 5909 EDs with rVIII-SingleChain (mean (SD): 245.5 (161.56) EDs).
+Study 3001 enrolled a total of 24 PUPs with a median age of 1.0 year (range: 0 to5 years). The study participants accumulated a total of 5 909 EDs with rVIII-SingleChain (mean (SD): 245.5 (161.56) EDs).
 
 Individualised prophylaxis: A total of 23 PUPs received a prophylactic regimen during the study (11 switched from on-demand). Under prophylaxis, median ABR was 1.84 (range: 0.0 to 23.6), median AsBR was 0.88 (range: 0.0 to 19.7).
 
@@ -347,17 +337,17 @@ The PK parameters were based on plasma factor VIII activity measured by the chro
 
 <div style=\"page-break-after: always\"></div>
 
-Pharmacokinetic Parameters following a Single Injection of 50 IU/kg of AFSTYLA Chromogenic Substrate Assay:
+Pharmacokinetic Parameters following a Single Injection of 50 IU/kg of AFSTYLA - Chromogenic Substrate Assay:
 
-| PK Parameters       | rVIII-SingleChain 50 IU/kg (N=81) Mean (CV%) Median (Min,Max)   |
-|---------------------|-----------------------------------------------------------------|
-| IR(IU/dl)/(IU/kg)   | 2.00 (20.8) 1.99 (0.868, 2.90)                                  |
-| C max (IU/dl)       | 106 (18.1) 106 (62.4, 151)                                      |
-| AUC 0-inf (IU*h/dl) | 1960 (33.1) 1910 (932, 4090)                                    |
-| t 1/2 (h)           | 14.2 (26.0) 13.7 (7.54, 23.9)                                   |
-| MRT(h)              | 20.4 (25.8) 20.2 (10.8, 35.1)                                   |
-| CL (ml/h/kg)        | 2.90 (34.4) 2.67 (1.26, 5.79)                                   |
-| V ss (ml/kg)        | 55.2 (20.8) 53.2 (32.4, 99.6)                                   |
+| PK Parameters      | rVIII-SingleChain 50 IU/kg (N=81) Mean (CV%) Median (Min,Max)   |
+|--------------------|-----------------------------------------------------------------|
+| IR (IU/dl)/(IU/kg) | 2.00 (20.8) 1.99 (0.868, 2.90)                                  |
+| Cmax (IU/dl)       | 106 (18.1) 106 (62.4, 151)                                      |
+| AUC0-inf (IU*h/dl) | 1 960 (33.1) 1 910 (932, 4 090)                                 |
+| t1/2 (h)           | 14.2 (26.0) 13.7 (7.54, 23.9)                                   |
+| MRT (h)            | 20.4 (25.8) 20.2 (10.8, 35.1)                                   |
+| CL (ml/h/kg)       | 2.90 (34.4) 2.67 (1.26, 5.79)                                   |
+| Vss (ml/kg)        | 55.2 (20.8) 53.2 (32.4, 99.6)                                   |
 
 IR = incremental recovery recorded at 30 minutes after injection; Cmax = maximum concentration, AUC0-inf = area under the factor VIII activity time curve extrapolated to infinity; t1/2 = half-life; MRT = mean residence time; CL = body weight adjusted clearance with N = 80; Vss = body weight adjusted volume of distribution at steady-state. IR and Cmax were baseline corrected while the remaining parameters were not baseline corrected with N = 81.
 
@@ -369,21 +359,19 @@ The PK parameters were based on plasma factor VIII activity measured by the chro
 
 Comparison of Pharmacokinetic Parameters by Age Category following a Single Injection of 50 IU/kg of AFSTYLA - Chromogenic Assay:
 
-| PK Parameters       | 0 to <6 years (N=20) Mean (CV%) Median (Min,Max)   | 6 to <12 years (N=19) Mean (CV%) Median (Min,Max)   | 12 to <18 years (N=10) Mean (CV%) Median (Min,Max)   |
-|---------------------|----------------------------------------------------|-----------------------------------------------------|------------------------------------------------------|
-| IR(IU/dl)/(IU/kg)   | 1.60 (21.1) 1.55 (1.18, 2.76)                      | 1.66 (19.7) 1.69 (0.92, 2.35)                       | 1.69 (24.8) 1.76 (0.88, 2.44)                        |
-| C max (IU/dl)       | 80.2 (20.6) 78.6 (59.3, 138)                       | 83.5 (19.5) 84.5 (46.4, 117)                        | 89.7 (24.8) 92.4 (45.5, 131)                         |
-| AUC 0-inf (IU*h/dl) | 1080 (31.0) 985 (561, 2010)                        | 1170 (26.3) 1120 (641, 1810)                        | 1540 (36.5) 1520 (683, 2380)                         |
-| t 1/2 (h)           | 10.4 (28.7) 10.1 (5.19, 17.8)                      | 10.2 (19.4) 10.0 (6.92, 14.8)                       | 14.3 (33.3) 13.5 (6.32, 23.8)                        |
-| MRT(h)              | 12.4 (25.0) 13.0 (6.05, 17.9)                      | 12.3 (16.8) 12.8 (8.22, 16.0)                       | 20.0 (32.2) 18.6 (9.17, 31.7)                        |
-| CL(ml/h/kg)         | 5.07 (29.6) 5.08 (2.52, 8.92)                      | 4.63 (29.5) 4.48 (2.79, 7.71)                       | 3.80 (46.9) 3.31 (2.10, 7.32)                        |
-| V ss (ml/kg)        | 71.0 (11.8) 70.7 (57.3, 88.3)                      | 67.1 (22.3) 64.9 (44.3, 111)                        | 68.5 (29.9) 62.0 (45.9, 121)                         |
+| PK Parameters      | 0 to <6 years (N=20) Mean (CV%) Median (Min,Max)   | 6 to <12 years (N=19) Mean (CV%) Median (Min,Max)   | 12 to <18 years (N=10) Mean (CV%) Median (Min,Max)   |
+|--------------------|----------------------------------------------------|-----------------------------------------------------|------------------------------------------------------|
+| IR (IU/dl)/(IU/kg) | 1.60 (21.1) 1.55 (1.18, 2.76)                      | 1.66 (19.7) 1.69 (0.92, 2.35)                       | 1.69 (24.8) 1.76 (0.88, 2.44)                        |
+| Cmax (IU/dl)       | 80.2 (20.6) 78.6 (59.3, 138)                       | 83.5 (19.5) 84.5 (46.4, 117)                        | 89.7 (24.8) 92.4 (45.5, 131)                         |
+| AUC0-inf (IU*h/dl) | 1 080 (31.0) 985 (561, 2 010)                      | 1 170 (26.3) 1 120 (641, 1 810)                     | 1 540 (36.5) 1 520 (683, 2 380)                      |
+| t1/2 (h)           | 10.4 (28.7) 10.1 (5.19, 17.8)                      | 10.2 (19.4) 10.0 (6.92, 14.8)                       | 14.3 (33.3) 13.5 (6.32, 23.8)                        |
+| MRT (h)            | 12.4 (25.0) 13.0 (6.05, 17.9)                      | 12.3 (16.8) 12.8 (8.22, 16.0)                       | 20.0 (32.2) 18.6 (9.17, 31.7)                        |
+| CL (ml/h/kg)       | 5.07 (29.6) 5.08 (2.52, 8.92)                      | 4.63 (29.5) 4.48 (2.79, 7.71)                       | 3.80 (46.9) 3.31 (2.10, 7.32)                        |
+| Vss (ml/kg)        | 71.0 (11.8) 70.7 (57.3, 88.3)                      | 67.1 (22.3) 64.9 (44.3, 111)                        | 68.5 (29.9) 62.0 (45.9, 121)                         |
 
-IR = incremental recovery recorded at 30 minutes after injection for subjects 12 to &lt; 18 years and at 60 minutes after injection for subjects 1 to &lt; 12 years; Cmax = maximum concentration, AUC = area under the factor VIII activity time curve
+IR = incremental recovery recorded at 30 minutes after injection for subjects 12 to &lt; 18 years and at 60 minutes after injection for subjects 1 to &lt; 12 years; Cmax = maximum concentration, AUC = area under the factor VIII activity time curve extrapolated to infinity; t1/2 = half-life; MRT = mean residence time; CL = body weight adjusted clearance; Vss = body weight adjusted volume of distribution at steady-state. IR and Cmax were baseline corrected while the remaining parameters were not baseline corrected.
 
 <div style=\"page-break-after: always\"></div>
-
-extrapolated to infinity; t1/2 = half-life; MRT = mean residence time; CL = body weight adjusted clearance; Vss = body weight  adjusted  volume  of  distribution  at  steady-state. IR  and  Cmax were  baseline  corrected  while  the  remaining parameters were not baseline corrected.
 
 ## 5.3 Preclinical safety data
 
@@ -393,11 +381,9 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 ## 6.1 List of excipients
 
-Powder L-Histidine Polysorbate 80 Calcium chloride dihydrate Sodium chloride Sucrose
+Powder L-Histidine Polysorbate 80 Calcium chloride dihydrate Sodium chloride Sucrose Hydrochloric acid (for pH adjustment)
 
-Solvent
-
-Water for injections
+Solvent Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -421,15 +407,13 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 ## 6.5 Nature and contents of container
 
-## AFSTYLA 250 IU powder and solvent for solution for injection
-
-Powder (250 IU) in a 6 ml vial (type I glass) with a stopper (rubber), an orange disc (plastic), and a green striped cap (aluminium).
+AFSTYLA 250 IU powder and solvent for solution for injection Powder (250 IU) in a 6 ml vial (type I glass) with a stopper (rubber), an orange disc (plastic), and a green striped cap (aluminium). 2.5 ml of solvent in a vial (type I glass) with a stopper (rubber), a disc (plastic), and a cap (aluminium).
 
 <div style=\"page-break-after: always\"></div>
 
-- 2.5 ml of solvent in a vial (type I glass) with a stopper (rubber), a disc (plastic), and a cap (aluminium).
+AFSTYLA 500 IU powder and solvent for solution for injection Powder (500 IU) in a 6 ml vial (type I glass) with a stopper (rubber), a blue disc (plastic), and a green striped cap (aluminium). 2.5 ml of solvent in a vial (type I glass) with a stopper (rubber), a disc (plastic), and a cap
 
-AFSTYLA 500 IU powder and solvent for solution for injection Powder (500 IU) in a 6 ml vial (type I glass) with a stopper (rubber), a blue disc (plastic), and a green striped cap (aluminium). 2.5 ml of solvent in a vial (type I glass) with a stopper (rubber), a disc (plastic), and a cap (aluminium).
+- (aluminium).
 
 AFSTYLA 1000 IU powder and solvent for solution for injection Powder (1000 IU) in a 6 ml vial (type I glass) with a stopper (rubber), a green disc (plastic), and a green striped cap (aluminium). 2.5 ml of solvent in a vial (type I glass) with a stopper (rubber), a disc (plastic), and a cap (aluminium).
 
@@ -441,13 +425,17 @@ AFSTYLA 2500 IU powder and solvent for solution for injection Powder (2500 IU) i
 
 AFSTYLA 3000 IU powder and solvent for solution for injection Powder (3000 IU) in a 10 ml vial (type I glass) with a stopper (rubber), a yellow disc (plastic), and a green striped cap (aluminium). 5 ml of solvent in a vial (type I glass) with a stopper (rubber), a disc (plastic), and a cap (aluminium).
 
+Presentations One pack with 250, 500 or 1000 IU containing: 1 vial with powder 1 vial with 2.5 ml water for injections 1 filter transfer device 20/20 One inner box containing: 1 disposable 5 ml syringe 1 venipuncture set 2 alcohol swabs
+
 ```
-Presentations One pack with 250, 500 or 1000 IU containing: 1 vial with powder 1 vial with 2.5 ml water for injections 1 filter transfer device 20/20 One inner box containing: 1 disposable 5 ml syringe 1 venipuncture set 2 alcohol swabs 1 non- sterile plaster One pack with 1500, 2000, 2500 or 3000 IU containing: 1 vial with powder 1 vial with 5 ml water for injections 1 filter transfer device 20/20 One inner box containing:
+1 non- sterile plaster One pack with 1500, 2000, 2500 or 3000 IU containing: 1 vial with powder 1 vial with 5 ml water for injections
 ```
 
 <div style=\"page-break-after: always\"></div>
 
-1 disposable 10 ml syringe 1 venipuncture set 2 alcohol swabs 1 non- sterile plaster
+- 1 filter transfer device 20/20
+
+One inner box containing: 1 disposable 10 ml syringe 1 venipuncture set 2 alcohol swabs 1 non- sterile plaster
 
 Not all pack sizes may be marketed.
 
@@ -455,9 +443,9 @@ Not all pack sizes may be marketed.
 
 ## General instructions
 
-- -The solution should be almost colourless, clear or slightly opalescent. After filtering/withdrawal (see below) the reconstituted product should be inspected visually for particulate matter and discoloration prior to administration.
-- -Do not use visibly cloudy solutions or solutions still containing flakes or particles.
-- -Reconstitution and withdrawal must be carried out under aseptic conditions.
+- The solution should be almost colourless, clear or slightly opalescent. After filtering/withdrawal (see below) the reconstituted product should be inspected visually for particulate matter and discoloration prior to administration.
+- Do not use visibly cloudy solutions or solutions still containing flakes or particles.
+- Reconstitution and withdrawal must be carried out under aseptic conditions.
 
 ## Reconstitution and administration
 
@@ -479,18 +467,22 @@ Bring the solvent to room temperature. Ensure powder and solvent vial flip caps 
 
 <!-- image -->
 
-| 5   | 5. With one hand grasp the product-side of the Mix2Vial set and with the other hand grasp the solvent-side and unscrew the set carefully counterclockwise into two pieces. Discard the solvent vial with the blue Mix2Vial adapter attached.   |
+<!-- image -->
+
+<!-- image -->
+
+|   5 | 5. With one hand grasp the product-side of the Mix2Vial set and with the other hand grasp the solvent-side and unscrew the set carefully counterclockwise into two pieces. Discard the solvent vial with the blue Mix2Vial adapter attached.   |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | 6. Gently swirl the product vial with the transparent adapter attached until the substance is fully dissolved. Do not shake.                                                                                                                   |
-| 7   | 7. Draw air into an empty, sterile syringe. While the product vial is upright, connect the syringe to the Mix2Vial's Luer Lock fitting by screwing clockwise. Inject air into the product vial.                                                |
+|   6 | 6. Gently swirl the product vial with the transparent adapter attached until the substance is fully dissolved. Do not shake.                                                                                                                   |
+|   7 | 7. Draw air into an empty, sterile syringe. While the product vial is upright, connect the syringe to the Mix2Vial's Luer Lock fitting by screwing clockwise. Inject air into the product vial.                                                |
 
 ## Withdrawal and administration
 
 <!-- image -->
 
-| 8   | 8. While keeping the syringe plunger pressed, turn the system upside down and draw the solution into the syringe by pulling the plunger back slowly.                                                                                                   |
+|   8 | 8. While keeping the syringe plunger pressed, turn the system upside down and draw the solution into the syringe by pulling the plunger back slowly.                                                                                                   |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | 9. Now that the solution has been transferred into the syringe, firmly hold on to the barrel of the syringe (keeping the syringe plunger facing down) and disconnect the transparent Mix2Vial adapter from the syringe by unscrewing counterclockwise. |
+|   9 | 9. Now that the solution has been transferred into the syringe, firmly hold on to the barrel of the syringe (keeping the syringe plunger facing down) and disconnect the transparent Mix2Vial adapter from the syringe by unscrewing counterclockwise. |
 
 For injection of AFSTYLA the provided administration sets are recommended to be used because treatment failure can occur as a consequence of factor VIII adsorption to the internal surface of some injection equipment.
 
@@ -506,13 +498,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-CSL Behring GmbH Emil-von-Behring-Str. 76 35041 Marburg Germany
+CSL Behring GmbH Emil-von-Behring-Str. 76 35041 Marburg
+
+Germany
 
 ## 8. MARKETING AUTHORIZATION NUMBER(S)
 
-EU/1/16/1158/001 EU/1/16/1158/002 EU/1/16/1158/003 EU/1/16/1158/004 EU/1/16/1158/005
-
-EU/1/16/1158/006
+EU/1/16/1158/001 EU/1/16/1158/002 EU/1/16/1158/003 EU/1/16/1158/004 EU/1/16/1158/005 EU/1/16/1158/006
 
 EU/1/16/1158/007
 
@@ -524,7 +516,9 @@ Date of last renewal: 20 August 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+
+15
 
 <div style=\"page-break-after: always\"></div>
 
@@ -532,7 +526,10 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- C. OTHER CONDITIONS AND REQUIREMENTS OF
+
+## THE MARKETING AUTHORISATION
+
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -541,11 +538,19 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-CSL Behring GmbH Emil-von-Behring Strasse 76 35041 Marburg GERMANY
+CSL Behring GmbH
+
+Emil-von-Behring Strasse 76
+
+35041 Marburg
+
+GERMANY
 
 Name and address of the manufacturer responsible for batch release
 
-CSL Behring GmbH Emil-von-Behring Strasse 76 35041 Marburg GERMANY
+CSL Behring GmbH Emil-von-Behring Strasse 76 35041 Marburg
+
+GERMANY
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -580,15 +585,15 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## Carton 250 IU
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING Carton 250 IU
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 AFSTYLA 250 IU
 
-powder and solvent for solution for injection lonoctocog alfa (recombinant coagulation factor VIII)
+powder and solvent for solution for injection
+
+lonoctocog alfa (recombinant coagulation factor VIII)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -596,16 +601,21 @@ lonoctocog alfa 250 IU
 
 ## 3. LIST OF EXCIPIENTS
 
-Other  ingredients:  L-Histidine,  polysorbate  80,  calcium  chloride  dihydrate,  sodium  chloride, sucrose
+Other ingredients: L-Histidine, polysorbate 80, calcium chloride dihydrate, sodium chloride,
+
+sucrose, hydrochloric acid
+
+Solvent: water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-powder and solvent for solution for injection
+## powder and solvent for solution for injection
 
 1 vial with powder: 250 IU lonoctocog alfa (100 IU/ml after reconstitution)
 
-- 1 vial with 2.5 ml water for injections
-- 1 filter transfer device 20/20
+1 vial with 2.5 ml water for injections
+
+1 filter transfer device 20/20
 
 One inner box containing:
 
@@ -630,6 +640,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 ## Store in a refrigerator (2 °C to 8 °C). Do not freeze.
@@ -638,13 +650,14 @@ May be stored at room temperature up to 25 °C for a single 3 months period.
 
 Keep the vials in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 CSL Behring GmbH, 35041 Marburg, Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/16/1158/001
 
@@ -654,9 +667,10 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 AFSTYLA 250 IU
 
@@ -672,18 +686,16 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Powder vial 250 IU   |
+|---------------------------------------------------------------------------------------|
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 AFSTYLA 250 IU powder for solution for injection lonoctocog alfa For intravenous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -695,23 +707,23 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-Carton 500 IU
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING Carton 500 IU
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 AFSTYLA 500 IU
 
-powder and solvent for solution for injection lonoctocog alfa (recombinant coagulation factor VIII)
+powder and solvent for solution for injection
+
+lonoctocog alfa (recombinant coagulation factor VIII)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -719,15 +731,21 @@ lonoctocog alfa 500 IU
 
 ## 3. LIST OF EXCIPIENTS
 
-Other  ingredients:  L-Histidine,  polysorbate  80,  calcium  chloride  dihydrate,  sodium  chloride, sucrose
+Other ingredients: L-Histidine, polysorbate 80, calcium chloride dihydrate, sodium chloride,
+
+sucrose, hydrochloric acid
+
+Solvent: water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-powder and solvent for solution for injection
+## powder and solvent for solution for injection
 
-- 1 vial with powder: 500 IU lonoctocog alfa (200 IU/ml after reconstitution)
-- 1 vial with 2.5 ml water for injections
-- 1 filter transfer device 20/20
+1 vial with powder: 500 IU lonoctocog alfa (200 IU/ml after reconstitution)
+
+1 vial with 2.5 ml water for injections
+
+1 filter transfer device 20/20
 
 One inner box containing:
 
@@ -752,6 +770,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 ## Store in a refrigerator (2 °C to 8 °C). Do not freeze.
@@ -760,7 +780,7 @@ May be stored at room temperature up to 25 °C for a single 3 months period.
 
 Keep the vials in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -776,7 +796,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -794,42 +814,44 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Powder vial 500 IU   |
+|---------------------------------------------------------------------------------------|
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Powder vial 500 IU
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 AFSTYLA 500 IU powder for solution for injection lonoctocog alfa For intravenous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
-
-## 6. OTHER
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## Carton 1000 IU
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING Carton 1000 IU
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 ## AFSTYLA 1000 IU
 
-powder and solvent for solution for injection lonoctocog alfa (recombinant coagulation factor VIII)
+powder and solvent for solution for injection
+
+lonoctocog alfa (recombinant coagulation factor VIII)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -837,19 +859,26 @@ lonoctocog alfa 1000 IU
 
 ## 3. LIST OF EXCIPIENTS
 
-Other  ingredients:  L-Histidine,  polysorbate  80,  calcium  chloride  dihydrate,  sodium  chloride, sucrose
+Other ingredients: L-Histidine, polysorbate 80, calcium chloride dihydrate, sodium chloride,
+
+sucrose, hydrochloric acid
+
+Solvent: water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-powder and solvent for solution for injection
+## powder and solvent for solution for injection
 
-- 1 vial with powder: 1000 IU lonoctocog alfa (400 IU/ml after reconstitution)
-- 1 vial with 2.5 ml water for injections
-- 1 filter transfer device 20/20
+1 vial with powder: 1000 IU lonoctocog alfa (400 IU/ml after reconstitution)
+
+1 vial with 2.5 ml water for injections
+
+1 filter transfer device 20/20
 
 One inner box containing:
 
-- 1 disposable 5 ml syringe
+1 disposable 5 ml syringe
+
 - 1 venipuncture set
 - 2 alcohol swabs
 - 1 non-sterile plaster
@@ -896,7 +925,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -918,33 +947,38 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-AFSTYLA 1000 IU powder for solution for injection lonoctocog alfa For intravenous use
+AFSTYLA 1000 IU powder for solution for injection lonoctocog alfa
+
+For intravenous use
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 ## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## Carton 1500 IU
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING Carton 1500 IU
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 ## AFSTYLA 1500 IU
 
-powder and solvent for solution for injection lonoctocog alfa (recombinant coagulation factor VIII)
+powder and solvent for solution for injection
+
+lonoctocog alfa (recombinant coagulation factor VIII)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -952,22 +986,30 @@ lonoctocog alfa 1500 IU
 
 ## 3. LIST OF EXCIPIENTS
 
-Other  ingredients:  L-Histidine,  polysorbate  80,  calcium  chloride  dihydrate,  sodium  chloride, sucrose
+Other ingredients: L-Histidine, polysorbate 80, calcium chloride dihydrate, sodium chloride,
+
+sucrose, hydrochloric acid
+
+Solvent: water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 powder and solvent for solution for injection
 
-- 1 vial with powder: 1500 IU lonoctocog alfa (300 IU/ml after reconstitution)
-- 1 vial with 5 ml water for injections
-- 1 filter transfer device 20/20
+1 vial with powder: 1500 IU lonoctocog alfa (300 IU/ml after reconstitution)
+
+1 vial with 5 ml water for injections
+
+1 filter transfer device 20/20
 
 One inner box containing:
 
-- 1 disposable 10 ml syringe
+1 disposable 10 ml syringe
+
 - 1 venipuncture set
 - 2 alcohol swabs
-- 1 non-sterile plaster
+
+1 non-sterile plaster
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -984,8 +1026,6 @@ Keep out of the sight and reach of children.
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1009,7 +1049,8 @@ EU/1/16/1158/004
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1030,133 +1071,21 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Powder vial 1500 IU
+<div style=\"page-break-after: always\"></div>
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Powder vial 1500 IU   |
+|----------------------------------------------------------------------------------------|
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 AFSTYLA 1500 IU powder for solution for injection lonoctocog alfa For intravenous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
-
-## 6. OTHER
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-Carton 2000 IU
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-AFSTYLA 2000 IU
-
-powder and solvent for solution for injection lonoctocog alfa (recombinant coagulation factor VIII)
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-lonoctocog alfa 2000 IU
-
-## 3. LIST OF EXCIPIENTS
-
-Other  ingredients:  L-Histidine,  polysorbate  80,  calcium  chloride  dihydrate,  sodium  chloride, sucrose
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-powder and solvent for solution for injection
-
-1 vial with powder: 2000 IU lonoctocog alfa (400 IU/ml after reconstitution)
-
-- 1 vial with 5 ml water for injections
-- 1 filter transfer device 20/20
-
-One inner box containing:
-
-- 1 disposable 10 ml syringe
-- 1 venipuncture set
-- 2 alcohol swabs
-- 1 non-sterile plaster
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-For intravenous use
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-## Store in a refrigerator (2 °C to 8 °C). Do not freeze.
-
-May be stored at room temperature up to 25 °C for a single 3 months period.
-
-Keep the vials in the outer carton in order to protect from light.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-CSL Behring GmbH, 35041 Marburg, Germany
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/16/1158/005
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-AFSTYLA 2000 IU
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC
-
-SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Powder vial 2000 IU
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-AFSTYLA 2000 IU powder for solution for injection lonoctocog alfa For intravenous use
-
-## 2. METHOD OF ADMINISTRATION
-
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1165,36 +1094,41 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## Carton 2500 IU
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING Carton 2000 IU
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-AFSTYLA 2500 IU
+AFSTYLA 2000 IU
 
-powder and solvent for solution for injection lonoctocog alfa (recombinant coagulation factor VIII)
+powder and solvent for solution for injection
+
+lonoctocog alfa (recombinant coagulation factor VIII)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-lonoctocog alfa 2500 IU
+lonoctocog alfa 2000 IU
 
 ## 3. LIST OF EXCIPIENTS
 
-Other  ingredients:  L-Histidine,  polysorbate  80,  calcium  chloride  dihydrate,  sodium  chloride, sucrose
+Other ingredients: L-Histidine, polysorbate 80, calcium chloride dihydrate, sodium chloride,
+
+sucrose, hydrochloric acid
+
+Solvent: water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 powder and solvent for solution for injection
 
-- 1 vial with powder: 2500 IU lonoctocog alfa (500 IU/ml after reconstitution)
+- 1 vial with powder: 2000 IU lonoctocog alfa (400 IU/ml after reconstitution)
 - 1 vial with 5 ml water for injections
 - 1 filter transfer device 20/20
 
@@ -1239,15 +1173,146 @@ CSL Behring GmbH, 35041 Marburg, Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
+EU/1/16/1158/005
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+AFSTYLA 2000 IU
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Powder vial 2000 IU   |
+|----------------------------------------------------------------------------------------|
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+AFSTYLA 2000 IU powder for solution for injection lonoctocog alfa For intravenous use
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton 2500 IU
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+AFSTYLA 2500 IU
+
+powder and solvent for solution for injection
+
+lonoctocog alfa (recombinant coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+lonoctocog alfa 2500 IU
+
+## 3. LIST OF EXCIPIENTS
+
+Other ingredients: L-Histidine, polysorbate 80, calcium chloride dihydrate, sodium chloride,
+
+sucrose, hydrochloric acid
+
+Solvent: water for injections
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+powder and solvent for solution for injection
+
+1 vial with powder: 2500 IU lonoctocog alfa (500 IU/ml after reconstitution)
+
+1 vial with 5 ml water for injections
+
+1 filter transfer device 20/20
+
+One inner box containing:
+
+1 disposable 10 ml syringe
+
+- 1 venipuncture set
+- 2 alcohol swabs
+- 1 non-sterile plaster
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+For intravenous use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+## Store in a refrigerator (2 °C to 8 °C). Do not freeze.
+
+May be stored at room temperature up to 25 °C for a single 3 months period.
+
+Keep the vials in the outer carton in order to protect from light.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+CSL Behring GmbH, 35041 Marburg, Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
 EU/1/16/1158/006
 
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 AFSTYLA 2500 IU
 
@@ -1257,33 +1322,40 @@ AFSTYLA 2500 IU
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Powder vial 2500 IU
+<div style=\"page-break-after: always\"></div>
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Powder vial 2500 IU   |
+|----------------------------------------------------------------------------------------|
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 AFSTYLA 2500 IU powder for solution for injection lonoctocog alfa For intravenous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1293,9 +1365,11 @@ Carton 3000 IU
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-## AFSTYLA 3000 IU
+AFSTYLA 3000 IU
 
-powder and solvent for solution for injection lonoctocog alfa (recombinant coagulation factor VIII)
+powder and solvent for solution for injection
+
+lonoctocog alfa (recombinant coagulation factor VIII)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1303,7 +1377,11 @@ Lonoctocog alfa 3000 IU
 
 ## 3. LIST OF EXCIPIENTS
 
-Other  ingredients:  L-Histidine,  polysorbate  80,  calcium  chloride  dihydrate,  sodium  chloride, sucrose
+Other ingredients: L-Histidine, polysorbate 80, calcium chloride dihydrate, sodium chloride,
+
+sucrose, hydrochloric acid
+
+Solvent: water for injections
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1337,6 +1415,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 ## Store in a refrigerator (2 °C to 8 °C). Do not freeze.
@@ -1345,23 +1425,25 @@ May be stored at room temperature up to 25 °C for a single 3 months period.
 
 Keep the vials in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 CSL Behring GmbH, 35041 Marburg, Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/16/1158/007
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1373,45 +1455,21 @@ AFSTYLA 3000 IU
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Powder vial 3000 IU
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Powder vial 3000 IU   |
+|----------------------------------------------------------------------------------------|
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 AFSTYLA 3000 IU powder for solution for injection lonoctocog alfa For intravenous use
 
-## 2. METHOD OF ADMINISTRATION
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
-
-## 6. OTHER
-
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Solvent vial label 2.5 ml and 5 ml
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-Water for injections
-
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1421,47 +1479,71 @@ EXP
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
+Lot Water for injections EXP
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
-
-2.5 ml [for reconstitution of strengths 250/500/1000 IU] 5 ml [for reconstitution of strengths 1500/2000/2500/3000 IU]
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-| PARTICULARS TO APPEAR ONTHEOUTERPACKAGING   |
-|---------------------------------------------|
-| Carton administration set (inner box)       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Solvent vial label 2.5 ml and 5 ml   |
+|-------------------------------------------------------------------------------------------------------|
 
-| 1.   | NAMEOFTHE MEDICINAL PRODUCT   |
-|------|-------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
+
+- 2.5 ml [for reconstitution of strengths 250/500/1000 IU]
+
+5 ml [for reconstitution of strengths 1500/2000/2500/3000 IU]
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| PARTICULARS TO APPEAR ON THE OUTER PACKAGING   |
+|------------------------------------------------|
+| Carton administration set (inner box)          |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Administration set
 
-| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
-|------|------------------------------------|
+| 2. STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|---------------------------------------|
 
 | 3.   | LIST OF EXCIPIENTS   |
 |------|----------------------|
 
-| 4. PHARMACEUTICALFORMANDCONTENTS   |
-|------------------------------------|
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
-| 5.   | METHODANDROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------|
+| 5. METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|--------------------------------------------|
 
-6.
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
 
-SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT
-
-OF THE REACH AND SIGHT OF CHILDREN
-
-| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
-|------|------------------------------------------|
+| 7. OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|---------------------------------------------|
 
 | 8.   | EXPIRY DATE   |
 |------|---------------|
@@ -1471,11 +1553,11 @@ Exp. date
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTSOR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|--------------------------------------------------------------|
 
 CSL Behring
 
@@ -1506,8 +1588,13 @@ Lot No.
 
 ## Package Leaflet: Information for the user
 
-| AFSTYLA 250 IU powder and solvent for solution for injection AFSTYLA 500 IU powder and solvent for solution for injection AFSTYLA 1000 IU powder and solvent for solution for injection AFSTYLA 1500 IU powder and solvent for solution for injection AFSTYLA 2000 IU powder and solvent for solution for injection AFSTYLA 2500 IU powder and solvent for solution for injection AFSTYLA 3000 IU powder and solvent for solution for injection   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+```
+AFSTYLA 250 IU powder and solvent for solution for injection AFSTYLA 500 IU powder and solvent for solution for injection AFSTYLA 1000 IU powder and solvent for solution for injection AFSTYLA 1500 IU powder and solvent for solution for injection AFSTYLA 2000 IU powder and solvent for solution for injection AFSTYLA 2500 IU powder and solvent for solution for injection
+```
+
+AFSTYLA 3000 IU powder and solvent for solution for injection
+
+lonoctocog alfa (recombinant, single-chain coagulation factor VIII)
 
 ## Read all of this leaflet carefully before you or your child start using this medicine because it contains important information for you.
 
@@ -1516,7 +1603,7 @@ Lot No.
 -  This medicine has been prescribed for you or your child only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 -  If you get any side effects talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
-## What is in this leaflet :
+## What is in this leaflet:
 
 1. What AFSTYLA is and what it is used for
 2. What you need to know before you or your child use AFSTYLA
@@ -1527,7 +1614,7 @@ Lot No.
 
 ## 1. What AFSTYLA is and what it is used for
 
-AFSTYLA is a human clotting (coagulation) factor VIII product that is produced by recombinant DNAtechnology. The active substance in AFSTYLA is lonoctocog alfa.
+AFSTYLA is a human clotting (coagulation) factor VIII product that is produced by recombinant DNA technology. The active substance in AFSTYLA is lonoctocog alfa.
 
 AFSTYLA is used to treat and prevent bleeding episodes in patients with haemophilia A (inborn factor VIII deficiency). Factor VIII is a protein needed for blood to clot. Patients with haemophilia A lack this factor, so blood does not clot as quickly as it should and they have an increased tendency to bleed. AFSTYLA works by replacing the missing factor VIII in haemophilia A patients enabling their blood to clot normally.
 
@@ -1548,11 +1635,11 @@ It is important to keep a record of the batch number of your AFSTYLA.
 
 <div style=\"page-break-after: always\"></div>
 
-So, every time you get a new package of AFSTYLA, note down the date and the batch number (which is on the packaging after 'Lot') and keep this information in a safe place.
+So, every time you get a new package of AFSTYLA, note down the date and the batch number (which is on the packaging after \"Lot\") and keep this information in a safe place.
 
 Talk to your doctor, pharmacist or nurse before using AFSTYLA.
 
--  Allergic (hypersensitivity) reactions are possible. The product contain traces of hamster proteins (see also 'Do not use AFSTYLA'). If symptoms of allergic reactions occur, stop using the medicine immediately and contact your doctor. Your doctor should inform you of the early signs of allergic reactions . These include hives, generalised skin rash, tightness of the chest, wheezing, fall in blood pressure and anaphylaxis (a serious allergic reaction that causes severe difficulty in breathing, and dizziness).
+-  Allergic (hypersensitivity) reactions are possible. The product contain traces of hamster proteins (see also \"Do not use AFSTYLA\"). If symptoms of allergic reactions occur, stop using the medicine immediately and contact your doctor. Your doctor should inform you of the early signs of allergic reactions. These include hives, generalised skin rash, tightness of the chest, wheezing, fall in blood pressure and anaphylaxis (a serious allergic reaction that causes severe difficulty in breathing, and dizziness).
 -  The formation of inhibitors (antibodies) is a known complication that can occur during treatment with all Factor VIII medicines. These inhibitors, especially at high levels, stop the treatment working properly. You or your child will be monitored carefully for the development of inhibitors. If you or your child´s bleeding is not being controlled with AFSTYLA, tell your doctor immediately.
 -  If you or your child have been told you have heart disease or are at risk for heart disease, tell your doctor or pharmacist.
 -  If a central venous access device (CVAD) is used for injection of AFSTYLA, the risk of complications including local infections, bacteria in the blood (bacteremia) and the formation of a blood clot (thrombosis) in the blood vessel where it is inserted should be considered by your doctor and discussed with you.
@@ -1572,7 +1659,11 @@ AFSTYLA does not affect your ability to drive and use machines.
 
 ## AFSTYLA contains sodium
 
-AFSTYLA contains up to 35.0 mg sodium (main component of cooking/table salt) in each vial.  This is equivalent to 1.8% of the recommended maximum daily dietary intake of sodium for an adult.
+AFSTYLA contains up to 35.0 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 1.8% of the recommended maximum daily dietary intake of sodium for an adult.
+
+## AFSTYLA contains polysorbate 80
+
+AFSTYLA contains 0.5 mg of polysorbate 80 per vial of 250 IU, 500 IU and 1000 IU and 1 mg of polysorbate 80 per vial of 1500 IU, 2000 IU, 2500 IU and 3000 IU which is equivalent to 0.2 mg/mL for all strengths. Polysorbates may cause allergic reactions. Tell your doctor if you or your child have any known allergies.
 
 ## 3. How to use AFSTYLA
 
@@ -1586,12 +1677,13 @@ The amount of AFSTYLA you or your child need to take and the duration of treatme
 
 -  the severity of your disease
 -  the site and intensity of the bleeding
+
+<div style=\"page-break-after: always\"></div>
+
 -  your clinical condition and response
 -  your body weight
 
 Follow the directions given to you by your doctor.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reconstitution and administration
 
@@ -1610,17 +1702,10 @@ Do not expose the vials to direct heat. The vials must not be heated above body 
 
 Carefully remove the protective caps from the vials, and clean the exposed rubber stoppers with an alcohol swab. Allow the vials to dry before opening the Mix2Vial package (which contains the filter transfer device), then follow the instructions given below.
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-|    | 1. Open the Mix2Vial by peeling off the lid. Do not remove the Mix2Vial from the blister package!                                                                                                                                                                       |
-|----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  2 | 2. Place the solvent vial on an even, clean surface and hold the vial tight. Take the Mix2Vial together with the blister package and push the spike of the blue adapter end straight down through the solvent vial stopper.                                             |
-|  3 | 3. Carefully remove the blister package from the Mix2Vial set by holding at the rim, and pulling vertically upwards. Make sure that you only pull away the blister package and not the Mix2Vial set.                                                                    |
-|  4 | 4. Place the powder vial on an even and firm surface. Invert the solvent vial with the Mix2Vial set attached and push the spike of the transparent adapter end straight down through the powder vial stopper. The solvent will automatically flow into the powder vial. |
+|    | 1. Open the Mix2Vial by peeling off the lid. Do not remove the Mix2Vial from the blister package!                                                                                                                           |
+|----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  2 | 2. Place the solvent vial on an even, clean surface and hold the vial tight. Take the Mix2Vial together with the blister package and push the spike of the blue adapter end straight down through the solvent vial stopper. |
+|  3 | 3. Carefully remove the blister package from the Mix2Vial set by holding at the rim, and pulling vertically upwards. Make sure that you only pull away the blister package and not the Mix2Vial set.                        |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1628,24 +1713,31 @@ Carefully remove the protective caps from the vials, and clean the exposed rubbe
 
 <!-- image -->
 
-| 5   | 5. With one hand grasp the product-side of the Mix2Vial set and with the other hand grasp the solvent-side and unscrew the set carefully counterclockwise into two pieces. Discard the solvent vial with the blue Mix2Vial adapter attached.   |
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | 6. Gently swirl the product vial with the transparent adapter attached until the substance is fully dissolved. Do not shake.                                                                                                                   |
-| 7   | 7. Draw air into an empty, sterile syringe. While the product vial is upright, connect the syringe to the Mix2Vial's Luer Lock fitting by screwing clockwise. Inject air into the product vial.                                                |
+<!-- image -->
+
+<!-- image -->
+
+|     | 4. Place the powder vial on an even and firm surface. Invert the solvent vial with the Mix2Vial set attached and push the spike of the transparent adapter end straight down through the powder vial stopper. The solvent will automatically flow into the powder vial.   |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 4 5 | 5. With one hand grasp the product-side of the Mix2Vial set and with the other hand grasp the solvent-side and unscrew the set carefully counterclockwise into two pieces. Discard the solvent vial with the blue Mix2Vial adapter attached.                              |
+| 6   | 6. Gently swirl the product vial with the transparent adapter attached until the substance is fully dissolved. Do not shake.                                                                                                                                              |
+| 7   | 7. Draw air into an empty, sterile syringe. While the product vial is upright, connect the syringe to the Mix2Vial's Luer Lock fitting by screwing clockwise. Inject air into the product vial.                                                                           |
 
 ## Withdrawal and administration
 
 <!-- image -->
 
-| 8   | 8. While keeping the syringe plunger pressed, turn the system upside down and draw the solution into the syringe by pulling the plunger back slowly.                                                                                                   |
+<!-- image -->
+
+|   8 | 8. While keeping the syringe plunger pressed, turn the system upside down and draw the solution into the syringe by pulling the plunger back slowly.                                                                                                   |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | 9. Now that the solution has been transferred into the syringe, firmly hold on to the barrel of the syringe (keeping the syringe plunger facing down) and disconnect the transparent Mix2Vial adapter from the syringe by unscrewing counterclockwise. |
+|   9 | 9. Now that the solution has been transferred into the syringe, firmly hold on to the barrel of the syringe (keeping the syringe plunger facing down) and disconnect the transparent Mix2Vial adapter from the syringe by unscrewing counterclockwise. |
 
 Use the venipuncture kit supplied with the product, insert the needle into a vein. Let blood flow back to the end of the tube. Attach the syringe to the threaded, locking end of the venipuncture kit. Inject the reconstituted solution slowly (as comfortable for you, up to a maximum of 10 ml/min) into the vein following the instructions given to you by your doctor. Take care not to get any blood in the syringe containing the product.
 
-Check yourself for any side effects that might happen straight away. If you have any side effects that might be related to the administration of AFSTYLA, the injection should be stopped (see also section 2).
-
 <div style=\"page-break-after: always\"></div>
+
+Check yourself for any side effects that might happen straight away. If you have any side effects that might be related to the administration of AFSTYLA, the injection should be stopped (see also section 2).
 
 ## Use in children and adolescents
 
@@ -1671,10 +1763,9 @@ Like all medicines, AFSTYLA can cause side effects, although not everybody gets 
 
 ## Please stop using the medicine immediately and contact your doctor if:
 
-- 
-- you notice symptoms of allergic reactions Allergic reactions may include the following symptoms: hives, generalised urticaria (itchy rash),
+-  you notice symptoms of allergic reactions
 
-tightness of the chest, wheezing, low blood pressure, and anaphylaxis (a serious reaction that causes severe difficulty in breathing or dizziness). If this happens, you should stop using the medicine immediately and contact your doctor.
+Allergic reactions may include the following symptoms: hives, generalised urticaria (itchy rash), tightness of the chest, wheezing, low blood pressure, and anaphylaxis (a serious reaction that causes severe difficulty in breathing or dizziness). If this happens, you should stop using the medicine immediately and contact your doctor.
 
 -  you notice that the medicine has stopped working properly (bleeding is not stopped) For children not previously treated with Factor VIII medicines, inhibitor antibodies (see section 2) may form very commonly (more than 1 in 10 patients); however, in patients who have received previous treatment with Factor VIII (more than 150 days of treatment) this is uncommon (less than 1 in 100 patients). If you or your child has developed an inhibitor with the medicine, you may experience persistent bleeding. If this happens, you should contact your doctor immediately.
 
@@ -1692,13 +1783,13 @@ tightness of the chest, wheezing, low blood pressure, and anaphylaxis (a serious
 -  chills
 -  feeling hot
 
+<div style=\"page-break-after: always\"></div>
+
 ## Side effects in children and adolescents
 
 No age-specific differences in adverse reactions were observed between children, adolescents and adults.
 
 ## Reporting of side effects
-
-<div style=\"page-break-after: always\"></div>
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
@@ -1718,7 +1809,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 ## What AFSTYLA contains
 
-The active substance is:
+## The active substance is:
 
 250 IU per vial; after reconstitution with 2.5 ml of water for injections the solution contains 100 IU/ml of lonoctocog alfa.
 
@@ -1736,15 +1827,17 @@ The active substance is:
 
 ## The other ingredients are:
 
-L-Histidine,  polysorbate  80,  calcium  chloride  dihydrate,  sodium  chloride (see  last  paragraph  of section 2), sucrose.
+L-Histidine, polysorbate 80, calcium chloride dihydrate, sodium chloride, sucrose, hydrochloric acid (for pH adjustment).
+
+See section 2 \"AFSTYLA contains sodium and AFSTYLA contains polysorbate 80\".
 
 Solvent: Water for injections.
+
+<div style=\"page-break-after: always\"></div>
 
 ## What AFSTYLA looks like and contents of the pack
 
 AFSTYLA is presented as white or slightly yellow powder or friable mass and clear, colourless solvent for solution for injection.
-
-<div style=\"page-break-after: always\"></div>
 
 The reconstituted solution should be clear to slightly opalescent, yellow to colourless i.e., it might sparkle when held up to the light but must not contain any obvious particles.
 
@@ -1807,179 +1900,125 @@ For any information about this medicine, please contact the local representative
 
 België/Belgique/Belgien CSL Behring NV Tél/Tel: +32 15 28 89 20
 
-## Lietuva
+CentralPharma Communications UAB
 
-CentralPharma Communications UAB Tel: +370 5 243 0444
+Lietuva Tel: +370 5 243 0444
+
+<div style=\"page-break-after: always\"></div>
 
 ## България
 
-МагнаФарм България ЕАД
-
-Тел: +359 2 810 3949
-
-## Luxembourg/Luxemburg
-
-CSL Behring NV
-
-Tél/Tel: +32 15 28 89 20
-
-<div style=\"page-break-after: always\"></div>
+МагнаФарм България ЕАД Тел: +359 2 810 3949
 
 ## Česká republika
 
-CSL Behring s.r.o.
-
-Tel: +420 702 137 233
+CSL Behring s.r.o. Tel: +420 702 137 233
 
 ## Danmark
 
-CSL Behring AB
-
-Tlf: +46 8 544 966 70
+CSL Behring AB Tlf: +46 8 544 966 70
 
 ## Deutschland
 
-CSL Behring GmbH
-
-Tel: +49 6190 75 84810
+CSL Behring GmbH Tel: +49 6190 75 84810
 
 ## Eesti
 
-CentralPharma Communications OÜ
-
-Tel: +3726015540
+CentralPharma Communications OÜ Tel: +3726015540
 
 ## Ελλάδα
 
-CSL Behring ΕΠΕ
-
-Τηλ: +30 210 7255 660
+CSL Behring ΕΠΕ Τηλ: +30 210 7255 660
 
 ## España
 
-CSL Behring S.A.
-
-Tel: +34 933 67 1870
+CSL Behring S.A. Tel: +34 933 67 1870
 
 ## France
 
-CSL Behring S.A.
-
-Tél: +33 -(0)-1 53 58 54 00
+CSL Behring S.A. Tél: +33 -(0)-1 53 58 54 00
 
 ## Hrvatska
 
-Marti Farm d.o.o.
-
-Tel: +385 1 5588297
+Marti Farm d.o.o. Tel: +385 1 5588297
 
 ## Ireland
 
-CSL Behring GmbH
-
-Tel: +49 6190 75 84700
+CSL Behring GmbH Tel: +49 6190 75 84700
 
 ## Ísland
 
-CSL Behring AB
-
-Sími: +46 8 544 966 70
+CSL Behring AB Sími: +46 8 544 966 70
 
 ## Italia
 
-CSL Behring S.p.A.
-
-Tel: +39 02 34964 200
+CSL Behring S.p.A. Tel: +39 02 34964 200
 
 ## Κύπρος
 
-CSL Behring ΕΠΕ
-
-Τηλ: +30 210 7255 660
+CSL Behring ΕΠΕ Τηλ: +30 210 7255 660
 
 ## Latvija
 
-CentralPharma Communications SIA
+CentralPharma Communications SIA Tel: +371 6 7450497
 
-Tel: +371 6 7450497
+## Luxembourg/Luxemburg
 
-## This leaflet was last revised in {MM/YYYY}.
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+CSL Behring NV Tél/Tel: +32 15 28 89 20
 
 ## Magyarország
 
-CSL Behring Kft.
-
-Tel.: +36 1 213 4290
+CSL Behring Kft. Tel.: +36 1 213 4290
 
 ## Malta
 
-AM Mangion Ltd.
-
-Tel: +356 2397 6333
+AM Mangion Ltd. Tel: +356 2397 6333
 
 ## Nederland
 
-CSL Behring BV
-
-Tel: +31 85 111 96 00
+CSL Behring BV Tel: +31 85 111 96 00
 
 ## Norge
 
-CSL Behring AB
-
-Tlf: +46 8 544 966 70
+CSL Behring AB Tlf: +46 8 544 966 70
 
 ## Österreich
 
-CSL Behring GmbH
-
-Tel: +43 1 80101 1040
+CSL Behring GmbH Tel: +43 1 80101 1040
 
 ## Polska
 
-CSL Behring Sp.z o.o.
-
-Tel: +48 22 213 22 65
+CSL Behring Sp.z o.o. Tel: +48 22 213 22 65
 
 ## Portugal
 
-CSL Behring Lda
-
-Tel: +351 21 782 62 30
+CSL Behring Lda Tel: +351 21 782 62 30
 
 ## România
 
-Prisum Healthcare S.R.L.
-
-Tel: +40 21 322 0171
+Prisum Healthcare S.R.L. Tel: +40 21 322 0171
 
 ## Slovenija
 
-Emmes Biopharma Global s.r.o.-podružnica v Sloveniji
-
-Tel: +386 41 42 0002
+Emmes Biopharma Global s.r.o.-podružnica v Sloveniji Tel: +386 41 42 0002
 
 ## Slovenská republika
 
-CSL Behring Slovakia s.r.o.
-
-Tel: +421 911 653 862
+CSL Behring Slovakia s.r.o. Tel: +421 911 653 862
 
 ## Suomi/Finland
 
-CSL Behring AB
-
-Puh/Tel: +46 8 544 966 70
+CSL Behring AB Puh/Tel: +46 8 544 966 70
 
 ## Sverige
 
-CSL Behring AB
-
-Tel: +46 8 544 966 70
+CSL Behring AB Tel: +46 8 544 966 70
 
 <div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in {MM/YYYY}.
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -2009,9 +2048,9 @@ The calculation of the required dose of factor VIII is based on the empirical fi
 
 Dose (IU) = body weight (kg) x Desired factor VIII rise (IU/dl or % of normal) x 0.5 (IU/kg per IU/dl)
 
-The amount to be administered and the frequency of administration should always be oriented to the clinical effectiveness in the individual case.
-
 <div style=\"page-break-after: always\"></div>
+
+The amount to be administered and the frequency of administration should always be oriented to the clinical effectiveness in the individual case.
 
 In the case of the following haemorrhagic events, the factor VIII activity should not fall below the given plasma activity level (in % of normal or IU/dl) within the corresponding period. The following table can be used to guide dosing in bleeding episodes and surgery:
 

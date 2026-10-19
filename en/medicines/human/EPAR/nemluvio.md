@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-06-01 10:22:00
+document_datetime: 2026-10-14 11:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nemluvio.html
 document_name: nemluvio.html
 version: success
-processing_time: 0.1204472
-conversion_datetime: 2026-06-04 22:17:05.66847
+processing_time: 0.1769074
+conversion_datetime: 2026-10-19 23:47:41.303068
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Nemluvio
 
 [RSS](/en/individual-human-medicine.xml/253182)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -112,7 +112,7 @@ English (EN) (97.99 KB - PDF)
 
 [View](/en/documents/overview/nemluvio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-830)
+[Other languages (22)](#file-language-dropdown-577)
 
 български (BG) (124.73 KB - PDF)
 
@@ -258,167 +258,168 @@ English (EN) (1.22 MB - PDF)
 
 Nemluvio : EPAR - Product information
 
-English (EN) (1.01 MB - PDF)
+English (EN) (1.02 MB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/en/documents/product-information/nemluvio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-839)
+[Other languages (24)](#file-language-dropdown-835)
 
-български (BG) (1020.08 KB - PDF)
+български (BG) (1.36 MB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/bg/documents/product-information/nemluvio-epar-product-information_bg.pdf)
 
-español (ES) (1.42 MB - PDF)
+español (ES) (878.77 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/es/documents/product-information/nemluvio-epar-product-information_es.pdf)
 
-čeština (CS) (970.27 KB - PDF)
+čeština (CS) (877.75 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/cs/documents/product-information/nemluvio-epar-product-information_cs.pdf)
 
-dansk (DA) (955.67 KB - PDF)
+dansk (DA) (840.06 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/da/documents/product-information/nemluvio-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.42 MB - PDF)
+Deutsch (DE) (905.39 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/de/documents/product-information/nemluvio-epar-product-information_de.pdf)
 
-eesti (ET) (947.68 KB - PDF)
+eesti (ET) (816.27 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/et/documents/product-information/nemluvio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.52 MB - PDF)
+ελληνικά (EL) (1.08 MB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/el/documents/product-information/nemluvio-epar-product-information_el.pdf)
 
-français (FR) (990.76 KB - PDF)
+français (FR) (822.53 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/fr/documents/product-information/nemluvio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.03 MB - PDF)
+hrvatski (HR) (1018.21 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/hr/documents/product-information/nemluvio-epar-product-information_hr.pdf)
 
-italiano (IT) (1.29 MB - PDF)
+italiano (IT) (851.79 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/it/documents/product-information/nemluvio-epar-product-information_it.pdf)
 
-latviešu (LV) (966.72 KB - PDF)
+latviešu (LV) (901.98 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/lv/documents/product-information/nemluvio-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.01 MB - PDF)
+lietuvių (LT) (1006.1 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/lt/documents/product-information/nemluvio-epar-product-information_lt.pdf)
 
-magyar (HU) (992.84 KB - PDF)
+magyar (HU) (918.42 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/hu/documents/product-information/nemluvio-epar-product-information_hu.pdf)
 
-Malti (MT) (996.52 KB - PDF)
+Malti (MT) (904.72 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/mt/documents/product-information/nemluvio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.37 MB - PDF)
+Nederlands (NL) (869.83 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/nl/documents/product-information/nemluvio-epar-product-information_nl.pdf)
 
-polski (PL) (1.08 MB - PDF)
+polski (PL) (1.04 MB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/pl/documents/product-information/nemluvio-epar-product-information_pl.pdf)
 
-português (PT) (1.04 MB - PDF)
+português (PT) (978.57 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/pt/documents/product-information/nemluvio-epar-product-information_pt.pdf)
 
-română (RO) (1.03 MB - PDF)
+română (RO) (993.95 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/ro/documents/product-information/nemluvio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1022.99 KB - PDF)
+slovenčina (SK) (942.51 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/sk/documents/product-information/nemluvio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.03 MB - PDF)
+slovenščina (SL) (1020.38 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/sl/documents/product-information/nemluvio-epar-product-information_sl.pdf)
 
-suomi (FI) (1.41 MB - PDF)
+suomi (FI) (955.36 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/fi/documents/product-information/nemluvio-epar-product-information_fi.pdf)
 
-svenska (SV) (1.32 MB - PDF)
+svenska (SV) (893.85 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/sv/documents/product-information/nemluvio-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.46 MB - PDF)
+Íslenska (IS) (919.56 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/is/documents/product-information/nemluvio-epar-product-information_is.pdf)
 
-norsk (NO) (935.16 KB - PDF)
+norsk (NO) (818.75 KB - PDF)
 
-**First published:** 19/02/2025 **Last updated:** 01/06/2026
+**First published:** 19/02/2025 **Last updated:** 14/10/2026
 
 [View](/no/documents/product-information/nemluvio-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000309230
+**Latest procedure affecting product information:** VR/0000316339
 
-28/05/2026
+03/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -436,7 +437,7 @@ English (EN) (59.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nemluvio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-567)
+[Other languages (24)](#file-language-dropdown-243)
 
 български (BG) (58.33 KB - PDF)
 
@@ -584,26 +585,17 @@ norsk (NO) (41.31 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Nemluvio
-
-Active substance
-
-nemolizumab
-
-International non-proprietary name (INN) or common name
-
-nemolizumab
-
-Therapeutic area (MeSH)
-
-- Dermatitis, Atopic
-- Prurigo
-
-Anatomical therapeutic chemical (ATC) code
-
-D11AH12
+- **Name of medicine**
+    - Nemluvio
+- **Active substance**
+    - nemolizumab
+- **International non-proprietary name (INN) or common name**
+    - nemolizumab
+- **Therapeutic area (MeSH)**
+        - Dermatitis, Atopic
+        - Prurigo
+- **Anatomical therapeutic chemical (ATC) code**
+    - D11AH12
 
 ### Pharmacotherapeutic group
 
@@ -611,37 +603,30 @@ Other dermatological preparations
 
 ### Therapeutic indication
 
-Atopic dermatitis (AD) Nemluvio is indicated for the treatment of moderate-to-severe atopic dermatitis in patients aged 12 years and older who are candidates for systemic therapy.
+Atopic dermatitis (AD)  
+Nemluvio is indicated for the treatment of moderate-to-severe atopic dermatitis in patients aged 12 years and older who are candidates for systemic therapy.
 
-Prurigo nodularis (PN) Nemluvio is indicated for the treatment of adults with moderate-to-severe prurigo nodularis who are candidates for systemic therapy.
+Prurigo nodularis (PN)  
+Nemluvio is indicated for the treatment of adults with moderate-to-severe prurigo nodularis who are candidates for systemic therapy.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006149
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Galderma International
-
-Tour Europlaza
-
-Opinion adopted
-
-12/12/2024
-
-Marketing authorisation issued
-
-12/02/2025
-
-Revision
-
-6
+- **EMA product number**
+    - EMEA/H/C/006149
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Galderma International Tour Europlaza  
+La Défense 4  
+20 avenue André Prothin  
+92927 La Défense Cedex  
+France
+- **Opinion adopted**
+    - 12/12/2024
+- **Marketing authorisation issued**
+    - 12/02/2025
+- **Revision**
+    - 7
 
 ## Assessment history
 
@@ -653,9 +638,9 @@ Collapse section
 
 Nemluvio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (152.13 KB - PDF)
+English (EN) (162.52 KB - PDF)
 
-**First published:** 17/07/2025 **Last updated:** 01/06/2026
+**First published:** 17/07/2025 **Last updated:** 14/10/2026
 
 [View](/en/documents/procedural-steps-after/nemluvio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -713,6 +698,6 @@ English (EN) (93.26 KB - PDF)
 
 **This page was last updated on**
 
-01/06/2026
+14/10/2026
 
 ## Share this page

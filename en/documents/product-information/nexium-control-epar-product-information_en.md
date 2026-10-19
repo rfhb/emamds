@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-02 10:15:24
+document_datetime: 2026-10-13 11:40:15
 document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nexium-control-epar-product-information_en.pdf
 document_name: nexium-control-epar-product-information_en.pdf
 version: success
-processing_time: 11.9390164
-conversion_datetime: 2026-03-05 11:45:39.658534
+processing_time: 11.9752344
+conversion_datetime: 2026-10-19 23:00:18.136545
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,9 +30,7 @@ Nexium Control 20 mg gastro-resistant tablets
 
 Each gastro-resistant tablet contains 20 mg esomeprazole (as magnesium trihydrate)
 
-Excipient(s) with known effect
-
-Each gastro-resistant tablet contains 28 mg sucrose.
+Excipient(s) with known effect Each gastro-resistant tablet contains 28 mg sucrose.
 
 For the full list of excipients, see section 6.1.
 
@@ -76,11 +74,11 @@ Dose adjustment is not required in elderly patients.
 
 ## Paediatric population
 
-There is no relevant use of Nexium Control in the paediatric population below 18 years of age for the indication of 'short-term treatment of reflux symptoms (e.g., heartburn and acid regurgitation)'.
+There is no relevant use of Nexium Control in the paediatric population below 18 years of age for the indication of \"short-term treatment of reflux symptoms (e.g., heartburn and acid regurgitation)\".
 
 ## Method of administration
 
-## Oral use.
+Oral use.
 
 The tablets should be swallowed whole with half a glass of water. The tablets must not be chewed or crushed.
 
@@ -179,11 +177,9 @@ Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subje
 
 ## Medicinal products metabolised by CYP2C19
 
-Esomeprazole inhibits CYP2C19, the major esomeprazole metabolising enzyme. Thus, when esomeprazole is combined with medicinal products metabolised by CYP2C19, such as warfarin, phenytoin, citalopram, imipramine, clomipramine, diazepam, etc., the plasma concentrations of these medicinal products may be increased and a dose reduction could be needed. In case of clopidogrel, a
+Esomeprazole inhibits CYP2C19, the major esomeprazole metabolising enzyme. Thus, when esomeprazole is combined with medicinal products metabolised by CYP2C19, such as warfarin, phenytoin, citalopram, imipramine, clomipramine, diazepam, etc., the plasma concentrations of these medicinal products may be increased and a dose reduction could be needed. In case of clopidogrel, a prodrug which is transformed into its active metabolite via CYP2C19, the plasma concentrations of the active metabolite may be decreased.
 
 <div style=\"page-break-after: always\"></div>
-
-prodrug which is transformed into its active metabolite via CYP2C19, the plasma concentrations of the active metabolite may be decreased.
 
 ## Warfarin
 
@@ -235,7 +231,7 @@ Esomeprazole is metabolised by CYP2C19 and CYP3A4. Concomitant administration of
 
 ## Medicinal products which induce CYP2C19 and/or CYP3A4
 
-Medicinal products known to induce CYP2C19 or CYP3A4 or both (such as rifampicin and St. John's wort (Hypericum perforatum) ) may lead to decreased esomeprazole serum levels by increasing the esomeprazole metabolism.
+Medicinal products known to induce CYP2C19 or CYP3A4 or both (such as rifampicin and St. John's wort (Hypericum perforatum)) may lead to decreased esomeprazole serum levels by increasing the esomeprazole metabolism.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -245,7 +241,7 @@ A moderate amount of data on pregnant women (between 300-1,000 pregnancy outcome
 
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 
-As a precautionary measure , it is preferable to avoid the use of Nexium Control during pregnancy.
+As a precautionary measure, it is preferable to avoid the use of Nexium Control during pregnancy.
 
 ## Breast-feeding
 
@@ -332,7 +328,7 @@ Available published evidence suggests that proton pump inhibitors should be disc
 
 An increased number of ECL cells possibly related to the increased serum gastrin levels, have been observed in some patients during long-term treatment with esomeprazole.
 
-Decreased gastric acidity due to any means including PPIs, increases gastric counts of bacteria normally present in the gastrointestinal tract. Treatment with PPIs may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and in hospitalised patients, also possibly Clostridium difficile .
+Decreased gastric acidity due to any means including PPIs, increases gastric counts of bacteria normally present in the gastrointestinal tract. Treatment with PPIs may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and in hospitalised patients, also possibly Clostridium difficile.
 
 ## Clinical efficacy
 
@@ -404,7 +400,9 @@ Non-clinical data reveal no particular hazard for humans based on conventional s
 
 ## 6.1 List of excipients
 
-Glycerol monostearate 40-55 Hydroxypropylcellulose Hypromellose 2910 (6 mPa·s) Reddish-brown iron oxide (E172) Yellow iron oxide (E172) Magnesium stearate Methacrylic acid ethylacrylate copolymer (1:1) dispersion 30 per cent Cellulose microcrystalline Synthetic Paraffin Macrogol 6000 Polysorbate 80 Crospovidone (Type A) Sodium stearyl fumarate Sugar spheres (sucrose and maize starch) Talc Titanium dioxide (E171) Triethyl citrate
+Glycerol monostearate 40-55 Hydroxypropylcellulose Hypromellose 2910 (6 mPa·s) Reddish-brown iron oxide (E172) Yellow iron oxide (E172) Magnesium stearate Methacrylic acid ethylacrylate copolymer (1:1) dispersion 30 per cent Cellulose microcrystalline Synthetic Paraffin Macrogol 6000 Polysorbate 80 Crospovidone (Type A) Sodium stearyl fumarate Sugar spheres (sucrose and maize starch) Talc Titanium dioxide (E171)
+
+Triethyl citrate
 
 ## 6.2 Incompatibilities
 
@@ -416,7 +414,9 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30°C Store in the original package in order to protect from moisture.
+Do not store above 30°C
+
+Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
@@ -432,11 +432,15 @@ No special requirements.
 
 <div style=\"page-break-after: always\"></div>
 
-Haleon Ireland Dungarvan Limited, Knockbrack, Dungarvan, Co. Waterford, Ireland
+Haleon Ireland Dungarvan Limited, Knockbrack, Dungarvan, Co. Waterford,
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/13/860/001 EU/1/13/860/002 EU/1/13/860/004
+EU/1/13/860/001 EU/1/13/860/002
+
+EU/1/13/860/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -468,7 +472,7 @@ For the full list of excipients, see section 6.1.
 
 Gastro-resistant hard capsule. (Gasto-resistant capsule).
 
-Capsule approximately 11 x 5 mm, with a clear body, and an amethyst cap imprinted with 'NEXIUM 20 MG' in white. The capsule has a yellow centre band, and contains yellow and purple enteric coated pellets.
+Capsule approximately 11 x 5 mm, with a clear body, and an amethyst cap imprinted with \"NEXIUM 20 MG\" in white. The capsule has a yellow centre band, and contains yellow and purple enteric coated pellets.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -504,7 +508,7 @@ Dose adjustment is not required in elderly patients.
 
 ## Paediatric population
 
-There is no relevant use of Nexium Control in the paediatric population below 18 years of age for the indication of 'short-term treatment of reflux symptoms (e.g., heartburn and acid regurgitation)'.
+There is no relevant use of Nexium Control in the paediatric population below 18 years of age for the indication of \"short-term treatment of reflux symptoms (e.g., heartburn and acid regurgitation)\".
 
 ## Method of administration
 
@@ -609,11 +613,9 @@ Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subje
 
 ## Medicinal products metabolised by CYP2C19
 
-Esomeprazole inhibits CYP2C19, the major esomeprazole metabolising enzyme. Thus, when esomeprazole is combined with medicinal products metabolised by CYP2C19, such as warfarin, phenytoin, citalopram, imipramine, clomipramine, diazepam, etc., the plasma concentrations of these medicinal products may be increased and a dose reduction could be needed. In case of clopidogrel, a
+Esomeprazole inhibits CYP2C19, the major esomeprazole metabolising enzyme. Thus, when esomeprazole is combined with medicinal products metabolised by CYP2C19, such as warfarin, phenytoin, citalopram, imipramine, clomipramine, diazepam, etc., the plasma concentrations of these medicinal products may be increased and a dose reduction could be needed. In case of clopidogrel, a prodrug which is transformed into its active metabolite via CYP2C19, the plasma concentrations of the active metabolite may be decreased.
 
 <div style=\"page-break-after: always\"></div>
-
-prodrug which is transformed into its active metabolite via CYP2C19, the plasma concentrations of the active metabolite may be decreased.
 
 ## Warfarin
 
@@ -665,7 +667,7 @@ Esomeprazole is metabolised by CYP2C19 and CYP3A4. Concomitant administration of
 
 ## Medicinal products which induce CYP2C19 and/or CYP3A4
 
-Medicinal products known to induce CYP2C19 or CYP3A4 or both (such as rifampicin and St. John's wort (Hypericum perforatum) ) may lead to decreased esomeprazole serum levels by increasing the esomeprazole metabolism.
+Medicinal products known to induce CYP2C19 or CYP3A4 or both (such as rifampicin and St. John's wort (Hypericum perforatum)) may lead to decreased esomeprazole serum levels by increasing the esomeprazole metabolism.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -675,7 +677,7 @@ A moderate amount of data on pregnant women (between 300-1,000 pregnancy outcome
 
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 
-As a precautionary measure , it is preferable to avoid the use of Nexium Control during pregnancy.
+As a precautionary measure, it is preferable to avoid the use of Nexium Control during pregnancy.
 
 ## Breast-feeding
 
@@ -764,7 +766,7 @@ Available published evidence suggests that proton pump inhibitors should be disc
 
 An increased number of ECL cells possibly related to the increased serum gastrin levels, have been observed in some patients during long-term treatment with esomeprazole.
 
-Decreased gastric acidity due to any means including PPIs, increases gastric counts of bacteria normally present in the gastrointestinal tract. Treatment with PPIs may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and in hospitalised patients, also possibly Clostridium difficile .
+Decreased gastric acidity due to any means including PPIs, increases gastric counts of bacteria normally present in the gastrointestinal tract. Treatment with PPIs may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and in hospitalised patients, also possibly Clostridium difficile.
 
 ## Clinical efficacy
 
@@ -800,11 +802,9 @@ Total plasma clearance is about 17 l/h after a single dose and about 9 l/h after
 
 ## Linearity/non-linearity
 
-The pharmacokinetics of esomeprazole has been studied in doses up to 40 mg b.i.d. The area under the plasma concentration-time curve increases with repeated administration of esomeprazole. This increase is dose-dependent and results in a more than dose proportional increase in AUC after repeated administration. This time and dose-dependency is due to a decrease of first pass metabolism and
+The pharmacokinetics of esomeprazole has been studied in doses up to 40 mg b.i.d. The area under the plasma concentration-time curve increases with repeated administration of esomeprazole. This increase is dose-dependent and results in a more than dose proportional increase in AUC after repeated administration. This time and dose-dependency is due to a decrease of first pass metabolism and systemic clearance probably caused by an inhibition of the CYP2C19 enzyme by esomeprazole and/or its sulphone metabolite.
 
 <div style=\"page-break-after: always\"></div>
-
-systemic clearance probably caused by an inhibition of the CYP2C19 enzyme by esomeprazole and/or its sulphone metabolite.
 
 ## Special patient populations
 
@@ -838,11 +838,11 @@ Non-clinical data reveal no particular hazard for humans based on conventional s
 
 ## 6.1 List of excipients
 
-Capsule content Glycerol monostearate 40-55 Hydroxypropylcellulose Hypromellose 2910 (6 mPa·s) Magnesium stearate Methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30 per cent
+Capsule content Glycerol monostearate 40-55 Hydroxypropylcellulose Hypromellose 2910 (6 mPa·s) Magnesium stearate Methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30 per cent Polysorbate 80 Sugar spheres (sucrose and maize starch) Talc Triethyl citrate Carmine (E120) Indigo carmine (E132) Titanium dioxide (E171)
 
 <div style=\"page-break-after: always\"></div>
 
-Polysorbate 80 Sugar spheres (sucrose and maize starch) Talc Triethyl citrate Carmine (E120) Indigo carmine (E132) Titanium dioxide (E171) Yellow iron oxide (E172)
+Yellow iron oxide (E172)
 
 Capsule shell Gelatin Indigo carmine (E132) Erythrosine (E127)
 
@@ -850,7 +850,9 @@ Allura red AC (E129)
 
 Printing ink Povidone K-17 Propylene glycol Shellac Sodium hydroxide Titanium dioxide (E171)
 
-Band Gelatin Yellow iron oxide (E172)
+Band Gelatin
+
+Yellow iron oxide (E172)
 
 ## 6.2 Incompatibilities
 
@@ -880,7 +882,9 @@ No special requirements.
 
 <div style=\"page-break-after: always\"></div>
 
-Haleon Ireland Dungarvan Limited, Knockbrack, Dungarvan, Co. Waterford, Ireland
+Haleon Ireland Dungarvan Limited, Knockbrack, Dungarvan, Co. Waterford,
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -912,6 +916,10 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturer responsible for batch release
 
 Haleon Italy Manufacturing S.r.l. Via Nettunense, 90 04011 Aprilia (LT) Italy
+
+Haleon Germany GmbH Barthstrasse 4 80339 Munich Germany
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -952,7 +960,9 @@ An updated RMP should be submitted:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nexium Control 20 mg gastro-resistant tablets esomeprazole
+Nexium Control 20 mg gastro-resistant tablets
+
+esomeprazole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1053,34 +1063,30 @@ Treats Heartburn &amp; Acid Reflux
 
 One tablet daily
 
-Lasts 24 hours
+Lasts 24 hours Nexium Control 20 mg Tablets Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Nexium Control 20 mg Tablets
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-| 17.   | UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------|---------------------------------|
-
-Not applicable.
-
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-BLISTER
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nexium Control 20 mg gastro-resistant tablets esomeprazole
+Nexium Control 20 mg gastro-resistant tablets
+
+esomeprazole
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1094,7 +1100,8 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1104,7 +1111,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nexium Control 20 mg gastro-resistant hard capsules esomeprazole
+Nexium Control 20 mg gastro-resistant hard capsules
+
+esomeprazole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1162,9 +1171,9 @@ Ireland
 
 EU/1/13/860/003
 
-14 gastro-resistant hard capsules
-
 EU/1/13/860/005
+
+14 gastro-resistant hard capsules
 
 2 x 14 gastro-resistant hard capsules
 
@@ -1209,13 +1218,13 @@ Lasts 24 hours
 
 Nexium Control 20 mg Capsules
 
-| 17.   | UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------|---------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 Not applicable.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 Not applicable.
 
@@ -1247,7 +1256,7 @@ Read the package leaflet before use.
 
 Oral use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
@@ -1283,9 +1292,9 @@ Ireland
 
 EU/1/13/860/003
 
-14 gastro-resistant hard capsules
-
 EU/1/13/860/005
+
+14 gastro-resistant hard capsules
 
 2 x 14 gastro-resistant hard capsules
 
@@ -1325,10 +1334,10 @@ Capsules
 
 Always take this medicine exactly as described in this leaflet or as your pharmacist has told you.
 
-- -Keep this leaflet. You may need to read it again.
-- -Ask your pharmacist if you need more information or advice.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-- -You must talk to a doctor if you do not feel better or if you feel worse after 14 days.
+- Keep this leaflet. You may need to read it again.
+- Ask your pharmacist if you need more information or advice.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- You must talk to a doctor if you do not feel better or if you feel worse after 14 days.
 
 ## What is in this leaflet
 
@@ -1346,7 +1355,7 @@ Nexium Control contains the active substance esomeprazole. It belongs to a group
 
 This medicine is used in adults for the short-term treatment of reflux symptoms (for example, heartburn and acid regurgitation).
 
-Reflux is the backflow of acid from the stomach into the gullet ('foodpipe') which may become inflamed and painful. This may cause you symptoms such as a painful sensation in the chest rising up to your throat (heartburn) and a sour taste in the mouth (acid regurgitation).
+Reflux is the backflow of acid from the stomach into the gullet (\"foodpipe\") which may become inflamed and painful. This may cause you symptoms such as a painful sensation in the chest rising up to your throat (heartburn) and a sour taste in the mouth (acid regurgitation).
 
 Nexium Control is not meant to bring immediate relief. You may need to take the tablets for 2-3 days in a row before you feel better. You must talk to a doctor if you do not feel better or if you feel worse after 14 days.
 
@@ -1354,10 +1363,10 @@ Nexium Control is not meant to bring immediate relief. You may need to take the 
 
 ## Do not take Nexium Control
 
-- -If you are allergic to esomeprazole or any of the other ingredients of this medicine (listed in section 6).
-- -If you are allergic to medicines containing other proton pump inhibitors (e.g. pantoprazole, lansoprazole, rabeprazole or omeprazole).
-- -If you are taking a medicine containing nelfinavir or or rilpivirine (used to treat HIV infection).
-- -If you have ever developed a severe skin rash or skin peeling, blistering and/or mouth sores after taking Nexium Control or other related medicines.
+- If you are allergic to esomeprazole or any of the other ingredients of this medicine (listed in section 6).
+- If you are allergic to medicines containing other proton pump inhibitors (e.g. pantoprazole, lansoprazole, rabeprazole or omeprazole).
+- If you are taking a medicine containing nelfinavir or or rilpivirine (used to treat HIV infection).
+- If you have ever developed a severe skin rash or skin peeling, blistering and/or mouth sores after taking Nexium Control or other related medicines.
 
 Do not take this medicine if any of the above apply to you. If you are not sure, talk to your doctor or pharmacist before taking this medicine.
 
@@ -1426,7 +1435,7 @@ Tell your doctor or pharmacist if you are taking any of the following medicines:
 - Cisapride (used for indigestion and heartburn)
 - Rifampicin (used to treat tuberculosis)
 - Tacrolimus (in cases of organ transplantation)
-- St. John's wort ( Hypericum perforatum ) (used to treat depression)
+- St. John's wort (Hypericum perforatum) (used to treat depression)
 
 ## Pregnancy and breast-feeding
 
@@ -1500,7 +1509,7 @@ This medicine may in very rare cases affect the white blood cells leading to imm
 
 <div style=\"page-break-after: always\"></div>
 
-## Other side effects include:
+Other side effects include:
 
 ## Common (may affect up to 1 in 10 people)
 
@@ -1513,7 +1522,7 @@ This medicine may in very rare cases affect the white blood cells leading to imm
 
 - Swelling of the feet and ankles.
 - Disturbed sleep (insomnia), feeling sleepy.
-- Dizziness, tingling feelings such as 'pins and needles'.
+- Dizziness, tingling feelings such as \"pins and needles\".
 - Spinning feeling (vertigo).
 - Dry mouth.
 - Increased liver enzymes shown in blood tests that check how the liver is working.
@@ -1528,7 +1537,7 @@ This medicine may in very rare cases affect the white blood cells leading to imm
 - Eyesight problems such as blurred vision.
 - Suddenly feeling wheezy or short of breath (bronchospasm).
 - An inflammation on the inside of the mouth.
-- An infection called 'thrush' which can affect the gut and is caused by a fungus.
+- An infection called \"thrush\" which can affect the gut and is caused by a fungus.
 - Hair loss (alopecia).
 - Skin rash on exposure to sunshine.
 - Joint pain (arthralgia) or muscle pain (myalgia).
@@ -1553,11 +1562,9 @@ This medicine may in very rare cases affect the white blood cells leading to imm
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Nexium Control
 
@@ -1575,8 +1582,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Nexium Control contains
 
-- -The active substance is esomeprazole. Each gastro-resistant tablet contains 20 mg esomeprazole (as magnesium trihydrate).
-- -The other ingredients are glycerol monostearate 40-55, hydroxypropylcellulose, hypromellose, reddish-brown iron oxide (E172), yellow iron oxide  (E172), magnesium stearate, methacrylic acid ethylacrylate copolymer (1:1) dispersion 30 per cent, cellulose microcrystalline, synthetic paraffin, macrogol 6000, polysorbate 80, crospovidone (Type A), sodium stearyl fumarate, sugar spheres (sucrose and maize starch), talc, titanium dioxide (E171) and triethyl citrate (see section 2, 'Nexium Control contains sucrose and sodium').
+- The active substance is esomeprazole. Each gastro-resistant tablet contains 20 mg esomeprazole (as magnesium trihydrate).
+- The other ingredients are glycerol monostearate 40-55, hydroxypropylcellulose, hypromellose, reddish-brown iron oxide (E172), yellow iron oxide (E172), magnesium stearate, methacrylic acid ethylacrylate copolymer (1:1) dispersion 30 per cent, cellulose microcrystalline, synthetic paraffin, macrogol 6000, polysorbate 80, crospovidone (Type A), sodium stearyl fumarate, sugar spheres (sucrose and maize starch), talc, titanium dioxide (E171) and triethyl citrate (see section 2, \"Nexium Control contains sucrose and sodium\").
 
 ## What Nexium Control looks like and contents of the pack
 
@@ -1593,6 +1600,8 @@ Haleon Ireland Dungarvan Limited, Knockbrack, Dungarvan, Co. Waterford, Ireland
 ## Manufacturer
 
 Haleon Italy Manufacturing S.r.l., Via Nettunense, 90, 04011, Aprilia (LT), Italy.
+
+Haleon Germany GmbH, Barthstrasse 4, 80339 Munich, Germany
 
 ## This leaflet was last revised in
 
@@ -1626,9 +1635,9 @@ Heartburn can be a result of eating too much, eating high fat food, eating too q
 - If you experience any of the symptoms detailed in Section 2 of this leaflet and it advises you to talk to your doctor or pharmacist.
 - If you are suffering from any of the side effects detailed in Section 4 which require medical attention.
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Nexium Control 20 mg gastro-resistant hard capsules
 
@@ -1638,10 +1647,10 @@ Heartburn can be a result of eating too much, eating high fat food, eating too q
 
 Always take this medicine exactly as described in this leaflet or as your pharmacist has told you.
 
-- -Keep this leaflet. You may need to read it again.
-- -Ask your pharmacist if you need more information or advice.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-- -You must talk to a doctor if you do not feel better or if you feel worse after 14 days.
+- Keep this leaflet. You may need to read it again.
+- Ask your pharmacist if you need more information or advice.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- You must talk to a doctor if you do not feel better or if you feel worse after 14 days.
 
 ## What is in this leaflet
 
@@ -1659,7 +1668,7 @@ Nexium Control contains the active substance esomeprazole. It belongs to a group
 
 This medicine is used in adults for the short-term treatment of reflux symptoms (for example, heartburn and acid regurgitation).
 
-Reflux is the backflow of acid from the stomach into the gullet ('foodpipe') which may become inflamed and painful. This may cause you symptoms such as a painful sensation in the chest rising up to your throat (heartburn) and a sour taste in the mouth (acid regurgitation).
+Reflux is the backflow of acid from the stomach into the gullet (\"foodpipe\") which may become inflamed and painful. This may cause you symptoms such as a painful sensation in the chest rising up to your throat (heartburn) and a sour taste in the mouth (acid regurgitation).
 
 Nexium Control is not meant to bring immediate relief. You may need to take the capsules for 2-3 days in a row before you feel better. You must talk to a doctor if you do not feel better or if you feel worse after 14 days.
 
@@ -1727,7 +1736,7 @@ Tell your doctor or pharmacist if you are taking any of the following medicines:
 - Ketoconazole and itraconazole (used to treat infections caused by a fungus).
 - Voriconazole (used to treat infections caused by a fungus) and clarithromycin (used to treat infections). Your doctor may adjust your dose of Nexium Control if you also have severe liver problems and are treated for a long period of time.
 - Erlotinib (used to treat cancer).
-- Levothyroxine  (used to treat hypothyroidism)
+- Levothyroxine (used to treat hypothyroidism)
 - Methotrexate (used to treat cancer and rheumatic disorders).
 - Digoxin (used for heart problems).
 - Atazanavir, saquinavir (used to treat HIV infection).
@@ -1739,11 +1748,13 @@ Tell your doctor or pharmacist if you are taking any of the following medicines:
 - Cisapride (used for indigestion and heartburn).
 - Rifampicin (used to treat tuberculosis).
 - Tacrolimus (in cases of organ transplantation).
-- St. John's wort ( Hypericum perforatum ) (used to treat depression).
+- St. John's wort (Hypericum perforatum) (used to treat depression).
 
 ## Pregnancy and breast-feeding
 
-As a precautionary measure, you should preferably avoid the use of Nexium Control during pregnancy. You should not use this medicine during breast-feeding. If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+As a precautionary measure, you should preferably avoid the use of Nexium Control during pregnancy. You should not use this medicine during breast-feeding.
+
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 
 ## Driving and using machines
 
@@ -1805,7 +1816,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 This medicine may in very rare cases affect the white blood cells leading to immune deficiency. If you have an infection with symptoms such as fever with a severely reduced general condition or fever with symptoms of a local infection such as pain in the neck, throat or mouth, or difficulties in urinating, you must consult your doctor as soon as possible so that a lack of white blood cells (agranulocytosis) can be ruled out by a blood test. It is important for you to give information about your medicine at this time.
 
-## Other side effects include:
+Other side effects include:
 
 ## Common (may affect up to 1 in 10 people)
 
@@ -1821,7 +1832,7 @@ This medicine may in very rare cases affect the white blood cells leading to imm
 
 - Swelling of the feet and ankles.
 - Disturbed sleep (insomnia), feeling sleepy.
-- Dizziness, tingling feelings such as 'pins and needles'.
+- Dizziness, tingling feelings such as \"pins and needles\".
 - Spinning feeling (vertigo).
 - Dry mouth.
 - Increased liver enzymes shown in blood tests that check how the liver is working.
@@ -1836,7 +1847,7 @@ This medicine may in very rare cases affect the white blood cells leading to imm
 - Eyesight problems such as blurred vision.
 - Suddenly feeling wheezy, or short of breath (bronchospasm).
 - An inflammation on the inside of the mouth.
-- An infection called 'thrush' which can affect the gut and is caused by a fungus.
+- An infection called \"thrush\" which can affect the gut and is caused by a fungus.
 - Hair loss (alopecia).
 - Skin rash on exposure to sunshine.
 - Joint pain (arthralgia), or muscle pain (myalgia).
@@ -1882,12 +1893,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Nexium Control contains
 
 - The active substance is esomeprazole. Each gastro-resistant hard capsule contains 20 mg esomeprazole (as magnesium trihydrate).
-- ·
-- The other ingredients are: glycerol monostearate 40-55, hydroxypropylcellulose, hypromellose, magnesium stearate, methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30 per cent, polysorbate 80, sugar spheres (sucrose and maize starch), talc, triethyl citrate, carmine (E120), indigo carmine (E132), titanium dioxide (E171), yellow iron oxide (E172), erythrosine (E127), allura red AC (E129), povidone K-17, propylene glycol, shellac, sodium hydroxide, and gelatin (see section 2, 'Nexium Control contains sucrose, sodium and allura red AC (E129)'.)
+- The other ingredients are: glycerol monostearate 40-55, hydroxypropylcellulose, hypromellose, magnesium stearate, methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30 per cent, polysorbate 80, sugar spheres (sucrose and maize starch), talc, triethyl citrate, carmine (E120), indigo carmine (E132), titanium dioxide (E171), yellow iron oxide (E172), erythrosine (E127), allura red AC (E129), povidone K-17, propylene glycol, shellac, sodium hydroxide, and gelatin (see section 2, \"Nexium Control contains sucrose, sodium and allura red AC (E129)\".)
 
 ## What Nexium Control looks like and contents of the pack
 
-Nexium Control 20 mg gastro-resistant hard capsules are approximately 11 x 5 mm capsules with a clear body, and an amethyst cap imprinted with 'NEXIUM 20 MG' in white. The capsule has a yellow centre band, and contains yellow and purple enteric coated pellets.
+Nexium Control 20 mg gastro-resistant hard capsules are approximately 11 x 5 mm capsules with a clear body, and an amethyst cap imprinted with \"NEXIUM 20 MG\" in white. The capsule has a yellow centre band, and contains yellow and purple enteric coated pellets.
 
 Nexium Control is available in high-density polyethylene (HDPE) bottles with an induction seal closure and child resistant closure. The bottle also contains a sealed container with silica gel desiccant.
 
@@ -1899,7 +1909,7 @@ Haleon Ireland Dungarvan Limited, Knockbrack, Dungarvan, Co. Waterford, Ireland
 
 ## Manufacturer
 
-Haleon Italy Manufacturing S.r.l., Via Nettunense, 90, 04011, Aprilia (LT), Italy.
+Haleon Italy Manufacturing S.r.l., Via Nettunense, 90, 04011, Aprilia (LT), Italy. Haleon Germany GmbH, Barthstrasse 4, 80339 Munich, Germany
 
 ## This leaflet was last revised
 

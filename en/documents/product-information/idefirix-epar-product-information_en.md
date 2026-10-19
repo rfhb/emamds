@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-09-14 14:29:32
+document_datetime: 2026-10-16 12:47:02
 document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/idefirix-epar-product-information_en.pdf
 document_name: idefirix-epar-product-information_en.pdf
 version: success
-processing_time: 23.6319638
-conversion_datetime: 2026-09-17 20:19:10.169499
+processing_time: 6.9658256
+conversion_datetime: 2026-10-19 22:52:14.936996
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.128.0
-  docling-core: 2.97.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.20.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -112,7 +110,7 @@ Infusion-related reactions have been reported with imlifidase administration in 
 
 ## Infection and infection prophylaxis
 
-For kidney transplantation, ongoing serious infections of any origin (bacterial, viral or fungal) are considered a contraindication, and chronic infections such as HBV or HIV have to be well controlled. The temporary reduction of IgG by imlifidase must be taken into consideration. The most common infections in patients with hypogammaglobulinemia are respiratory tract infections. Therefore, in addition to the standard of care infection prophylaxis in kidney transplantation in general (against Pneumocystis carinii , cytomegalovirus and oral candida ), all patients should also receive prophylactic oral antibiotics covering respiratory tract pathogens for 4 weeks. Should a patient for any reason not be transplanted after imlifidase treatment, prophylactic oral antibiotics covering respiratory tract pathogens should still be given for 4 weeks.
+For kidney transplantation, ongoing serious infections of any origin (bacterial, viral or fungal) are considered a contraindication, and chronic infections such as HBV or HIV have to be well controlled. The temporary reduction of IgG by imlifidase must be taken into consideration. The most common infections in patients with hypogammaglobulinemia are respiratory tract infections. Therefore, in addition to the standard of care infection prophylaxis in kidney transplantation in general (against Pneumocystis carinii, cytomegalovirus and oral candida), all patients should also receive prophylactic oral antibiotics covering respiratory tract pathogens for 4 weeks. Should a patient for any reason not be transplanted after imlifidase treatment, prophylactic oral antibiotics covering respiratory tract pathogens should still be given for 4 weeks.
 
 Use of imlifidase and T-cell depleting induction therapy with or without memory B-cell depleting therapies may increase the risk of reactivation of live-attenuated vaccines and/or latent tuberculosis.
 
@@ -253,7 +251,7 @@ No specific antidote exists, but depletion of IgG can be restored by administrat
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Immunosuppressants, selective immunosuppressants, ATC code: L04AA41 .
+Pharmacotherapeutic group: Immunosuppressants, selective immunosuppressants, ATC code: L04AA41.
 
 ## Mechanism of action
 
@@ -279,7 +277,7 @@ Study 06 evaluated the efficacy and safety of imlifidase in removing DSAs and co
 
 Long-term follow-up of 46 transplanted patients from the feeder trials (02, 03, 04 and 06) showed that at 5-years after transplantation, overall graft survival (death censored) was 85% (95% CI [70-93]) and patient survival was 92% (95% CI [77-97]).
 
-At 5years after transplantation 25 (83.3%) of 30 patients with an eGFR assessment had an eGFR ≥30 mL/min/1.73 m 2 .
+At 5-years after transplantation 25 (83.3%) of 30 patients with an eGFR assessment had an eGFR ≥30 mL/min/1.73 m 2 .
 
 ## Elderly
 
@@ -357,7 +355,7 @@ Pack sizes of 1 vial or 2 x 1 vials. Not all pack sizes may be marketed.
 
 Introduce 1.2 mL of sterile water for injections into the Idefirix vial, taking care to direct the water to the glass wall and not into the powder.
 
-Swirl the vial gently for at least 30 seconds to dissolve the powder completely. Do not shake so as to minimise the likelihood of forming foam. The vial will now contain imlifidase 10 mg/mL and up to 1.1 mL of the solution can be withdrawn .
+Swirl the vial gently for at least 30 seconds to dissolve the powder completely. Do not shake so as to minimise the likelihood of forming foam. The vial will now contain imlifidase 10 mg/mL and up to 1.1 mL of the solution can be withdrawn.
 
 The reconstituted solution should be clear to slightly opalescent and colourless or slightly yellow. Do not use if particles are present or the solution is discoloured. It is recommended to transfer the reconstituted solution from the vial to the infusion bag immediately.
 
@@ -375,21 +373,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 requirements.
 
-7.
+7. MARKETING AUTHORISATION HOLDER
 
-MARKETING AUTHORISATION HOLDER
+SERB S.A. Avenue Louise 480 1050 Brussels
 
-Hansa Biopharma AB
+Belgium
 
-P.O. Box 785
-
-220 07 Lund
-
-Sweden
-
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1471/001
 
@@ -401,13 +391,9 @@ Date of first authorisation: 25 August 2020
 
 Date of latest renewal: 3 July 2026
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-[Agency https://www.ema.europa.eu.](https://www.ema.europa.eu/)
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 12
 
@@ -415,13 +401,17 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND
+
+## MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND
+
+## EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
@@ -431,13 +421,11 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) of the biological active substance(s)
 
-Biotechnologines farmacijos centras Biotechpharma UAB Mokslinink ų g. 4 LT-08412 Vilnius Lithuania
+Biotechnologines farmacijos centras Biotechpharma UAB Mokslininkų g. 4 LT-08412 Vilnius Lithuania
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Biotechnologines farmacijos centras Biotechpharma UAB
-
-Mokslinink ų g. 4 LT-08412 Vilnius
+Biotechnologines farmacijos centras Biotechpharma UAB Mokslininkų g. 4 LT-08412 Vilnius
 
 Lithuania
 
@@ -558,10 +546,10 @@ Store in the original package in order to protect from light.
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-Hansa Biopharma AB 220 07 Lund, Sweden
+SERB S.A. Avenue Louise 480 1050 Brussels Belgium
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/20/1471/001 EU/1/20/1471/002
 
@@ -637,7 +625,7 @@ Lot
 
 ## Idefirix 11 mg powder for concentrate for solution for infusion
 
-## imlifidase
+imlifidase
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -718,7 +706,7 @@ It is not known whether Idefirix passes into breast milk. You should not breast-
 
 ## Idefirix contains sodium and polysorbate 80
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ′ sodium-free ′ .
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ′sodium-free′.
 
 This medicine contains 0.5 mg of polysorbate 80 in each ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
@@ -787,7 +775,7 @@ Do not throw away any medicines via wastewater. Ask your pharmacist how to throw
 ## What Idefirix contains
 
 - The active substance is imlifidase. Each vial contains 11 mg imlifidase. After reconstitution, each mL of concentrate contains 10 mg imlifidase.
-- The other ingredients are mannitol, polysorbate 80, trometamol, disodium edetate dihydrate and hydrochloric acid (for pH adjustment). See section 2 'Idefirix contains sodium and polysorbate 80'.
+- The other ingredients are mannitol, polysorbate 80, trometamol, disodium edetate dihydrate and hydrochloric acid (for pH adjustment). See section 2 \"Idefirix contains sodium and polysorbate 80\".
 
 ## What Idefirix looks like and contents of the pack
 
@@ -796,15 +784,13 @@ Do not throw away any medicines via wastewater. Ask your pharmacist how to throw
 
 ## Marketing Authorisation Holder
 
-Hansa Biopharma AB
-
-P.O. Box 785 220 07 Lund Sweden
+SERB S.A. Avenue Louise 480 1050 Brussels Belgium
 
 ## Manufacturer
 
 Biotechnologines farmacijos centras Biotechpharma UAB
 
-Mokslinink ų g. 4
+Mokslininkų g. 4
 
 LT-08412 Vilnius
 
@@ -832,7 +818,7 @@ Introduce 1.2 mL of sterile water for injections into the Idefirix vial, taking 
 
 <div style=\"page-break-after: always\"></div>
 
-Swirl the vial gently for at least 30 seconds to dissolve the powder completely. Do not shake so as to minimise the likelihood of forming foam. The vial will now contain imlifidase 10 mg/mL and up to 1.1 mL of the solution can be withdrawn .
+Swirl the vial gently for at least 30 seconds to dissolve the powder completely. Do not shake so as to minimise the likelihood of forming foam. The vial will now contain imlifidase 10 mg/mL and up to 1.1 mL of the solution can be withdrawn.
 
 The reconstituted solution should be clear to slightly opalescent and colourless or slightly yellow. Do not use if particles are present or the solution is discoloured. It is recommended to transfer the reconstituted solution from the vial to the infusion bag immediately.
 

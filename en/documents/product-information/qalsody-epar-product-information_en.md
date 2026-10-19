@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-23 16:37:00
+document_datetime: 2026-10-13 11:15:54
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/qalsody-epar-product-information_en.pdf
 document_name: qalsody-epar-product-information_en.pdf
 version: success
-processing_time: 6.5811719
-conversion_datetime: 2026-06-25 17:02:44.691218
+processing_time: 9.2165906
+conversion_datetime: 2026-10-19 23:07:20.473583
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -30,9 +30,11 @@ Qalsody 100 mg solution for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each 15 ml vial contains 100 mg of tofersen. Each ml contains 6.7 mg of tofersen.
+Each 15 ml vial contains 100 mg of tofersen.
 
-## Excipient with known effect
+Each ml contains 6.7 mg of tofersen.
+
+Excipient with known effect
 
 Each 15 ml vial contains 52 mg of sodium.
 
@@ -56,7 +58,7 @@ Treatment with tofersen should only be initiated by a physician with experience 
 
 Qalsody should be administered by, or under the direction of, healthcare professionals experienced in performing lumbar punctures.
 
-## Posology
+Posology
 
 The recommended dose is 100 mg of tofersen per treatment.
 
@@ -102,8 +104,8 @@ Qalsody is for intrathecal use by lumbar puncture.
 
 - It is recommended to ensure intrathecal access prior to removing the plastic cap from the vial and drawing up the tofersen dose.
 - Just prior to administration, the plastic cap should be removed from the vial and a nonspinal anesthesia needle attached to the syringe for the purpose of withdrawing tofersen from the vial. The syringe needle is inserted into the vial through the center of the overseal to withdraw the required dose of 15 ml (equivalent to 100 mg) from the vial.
-- -Qalsody must not be diluted.
-- -External filters, including bacterial or particulate filters, are not required.
+- Qalsody must not be diluted.
+- External filters, including bacterial or particulate filters, are not required.
 - It is recommended that approximately 10 ml of cerebrospinal spinal fluid (CSF) is removed using a lumbar puncture needle prior to administration of tofersen.
 - Tofersen is administered as an intrathecal bolus injection using a lumbar puncture needle over 1 to 3 minutes.
 
@@ -152,7 +154,7 @@ This medicinal product contains 52 mg sodium in each 15 ml, equivalent to 3% of 
 
 ## Potassium
 
-This medicinal product contains potassium, less than 1 mmol (39 mg) per 15 ml dose, i.e., essentially 'potassium -free'.
+This medicinal product contains potassium, less than 1 mmol (39 mg) per 15 ml dose, i.e., essentially 'potassium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -224,7 +226,7 @@ Adverse reactions associated with the administration of tofersen by lumbar punct
 
 ## Myelitis and/or radiculitis
 
-In the clinical studies, 6 participants receiving tofersen 100 mg reported serious reactions of myelitis (4.1%). The number of tofersen doses received before the onset of myelitis ranged from 5 to 58 doses. Four participants were symptomatic and 2 participants were asymptomatic. All 6 participants had abnormal magnetic resonance imaging (MRI) findings related to the event. Two participants discontinued treatment, and the event resolved. In the remaining 4 participants, the event did not lead to discontinuation of treatment (see section 4.4).
+In the clinical studies, 6 participants receiving tofersen 100 mg reported serious reactions of myelitis (4.1%). The number of tofersen doses received before the onset of myelitis ranged from 5 to 58 doses. Four participants were symptomatic and 2 participants were asymptomatic. Five participants had abnormal magnetic resonance imaging (MRI) findings related to the event and one participant had a normal MRI. Two participants discontinued treatment, and the event resolved. In the remaining 4 participants, the event did not lead to discontinuation of treatment (see section 4.4).
 
 Two participants receiving tofersen 100 mg reported serious reactions of radiculitis (1.4%). The number of tofersen doses received before the onset of radiculitis ranged from 1 to 24 doses. Both reactions were symptomatic. One participant had abnormal MRI findings related to the event and one participant had a normal MRI. No participants discontinued treatment, and the reactions resolved with sequelae in one and without sequalae in the second participant (see section 4.4).
 
@@ -260,7 +262,7 @@ SOD1-ALS is a primarily autosomal-dominant disorder affecting approximately 2% o
 
 The human SOD1 gene encodes an abundant dimeric enzyme, copper/zinc superoxide dismutase (Cu/ZnSOD or SOD1), which catalyses the transmutation of superoxide (O2-) into oxygen (O2) and hydrogen peroxide (H2O2). In SOD1-ALS patients, mutations in the SOD1 gene lead to accumulation of a toxic form of SOD1 protein, resulting in axonal injury and neurodegeneration.
 
-Tofersen is an antisense oligonucleotide (ASO) that is complementary to a portion of the 3′ untranslated region (3′UTR) of the mRNA for human SOD1 and binds to the mRNA by Watson -Crick base pairing (hybridisation). This hybridisation of tofersen to the cognate mRNA results in RNase-Hmediated degradation of the mRNA for SOD1, which reduces the amount of SOD1 protein synthesis.
+Tofersen is an antisense oligonucleotide (ASO) that is complementary to a portion of the 3′ untranslated region (3′UTR) of the mRNA for human SOD1 and binds to the mRNA by Watson-Crick base pairing (hybridisation). This hybridisation of tofersen to the cognate mRNA results in RNase-Hmediated degradation of the mRNA for SOD1, which reduces the amount of SOD1 protein synthesis.
 
 ## Pharmacodynamic effects
 
@@ -282,7 +284,7 @@ Figure 1: Study 101 Part C and Study 102: plasma NfL adjusted geometric mean rat
 
 <!-- image -->
 
-Abbreviations:  NfL = neurofilament light chain; ANCOVA = analysis of covariance; MI = multiple imputation; LS = least square.
+Abbreviations: NfL = neurofilament light chain; ANCOVA = analysis of covariance; MI = multiple imputation; LS = least square.
 
 Note 1: Baseline is defined as day 1 value prior to the clinical study drug. If day 1 value is missing, the non-missing value (including screening visit) closest to and prior to the first dose will be used as the baseline value.
 
@@ -306,7 +308,7 @@ Anti-drug antibodies (ADA) were very commonly detected. No evidence of ADA impac
 
 The efficacy of tofersen was assessed in a 28-week randomised, double-blind, placebo-controlled clinical study (Study 101, Part C) in participants aged 23 to 78 years with weakness attributable to ALS and a SOD1 mutation confirmed by central laboratory. One hundred eight (108) participants were randomised 2:1 to receive treatment with either tofersen 100 mg or placebo for 24 weeks (3 loading doses followed by 5 maintenance doses). Forty-two (42) unique SOD1 mutations were evaluated, with the most common being p.Ile114Thr (n = 20), p.Ala5Val (n = 17), p.Gly94Cys (n = 6), and p.His47Arg (n = 5). Concomitant riluzole and/or edaravone use was permitted for participants who were on a stable dose for at least 30 or 60 days prior to study baseline, respectively.
 
-Baseline disease characteristics in the overall intent to treat (ITT) population were generally similar in the tofersen-treated participants (n=72) and placebo participants (n=36), with a baseline ALS Functional Rating Scale -Revised (ALSFRS-R) total score of 36.9 (SD: 5.9) in the tofersen group and 37.3 (SD: 5.81) in the placebo group. The tofersen group had a shorter median time from symptom onset (11.4 months; range: 1.7, 145.7) as compared to the placebo group (14.6 months; range: 2.4, 103.2), and a higher median baseline plasma NfL level (78.5 pg/mL; range 5 to 329) as compared to the placebo group (64.6 pg/mL; range: 8 to 370).
+Baseline disease characteristics in the overall intent to treat (ITT) population were generally similar in the tofersen-treated participants (n=72) and placebo participants (n=36), with a baseline ALS Functional Rating Scale-Revised (ALSFRS-R) total score of 36.9 (SD: 5.9) in the tofersen group and 37.3 (SD: 5.81) in the placebo group. The tofersen group had a shorter median time from symptom onset (11.4 months; range: 1.7, 145.7) as compared to the placebo group (14.6 months; range: 2.4, 103.2), and a higher median baseline plasma NfL level (78.5 pg/mL; range 5 to 329) as compared to the placebo group (64.6 pg/mL; range: 8 to 370).
 
 The primary efficacy endpoint was the change from baseline to Week 28 in the ALSFRS-R total score. The results numerically favoured tofersen, but were not statistically significant (ITT population: tofersen-placebo adjusted mean difference [95% CI]: 1.4 [-1.3, 4.1]). Numerically larger differences were observed between tofersen and placebo over 28 weeks in patients with baseline NfL values above median [mean difference (95% CI) 3.9, (-1.0;8.9)] compared to patients with baseline NfL values below median [0.6, (-1.3,4.2)]. Secondary clinical outcomes also did not reach statistical significance.
 
@@ -332,7 +334,7 @@ The maximum CSF trough concentration occurred at the third dose, which was the l
 
 ## Distribution
 
-Tofersen administered intrathecally was extensively distributed within the CNS, achieving therapeutic levels in the target spinal cord tissues.  The median plasma AUC at 100 mg (Study 101 Part C data) after first dose was 13973.1 ng/mL*h; median maximum plasma concentration (Cmax) was 824.3 ng/mL, which occurred at between 4-6 hours post dose. The median plasma volume of distribution was estimated at 48.7L (124% CV) in study 101 and 102; and was 43.0 L (123% CV) in the 100 mg dose group. Pharmacokinetic (PK) analysis demonstrates that intrathecally administered tofersen is widely distributed into central nervous system (CNS) tissues and is rapidly transferred from CSF to the systemic circulation.
+Tofersen administered intrathecally was extensively distributed within the CNS, achieving therapeutic levels in the target spinal cord tissues. The median plasma AUC at 100 mg (Study 101 Part C data) after first dose was 13973.1 ng/mL*h; median maximum plasma concentration (Cmax) was 824.3 ng/mL, which occurred at between 4-6 hours post dose. The median plasma volume of distribution was estimated at 48.7L (124% CV) in study 101 and 102; and was 43.0 L (123% CV) in the 100 mg dose group. Pharmacokinetic (PK) analysis demonstrates that intrathecally administered tofersen is widely distributed into central nervous system (CNS) tissues and is rapidly transferred from CSF to the systemic circulation.
 
 ## Plasma Protein Binding
 
@@ -408,7 +410,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 60 months
 
-## Temporary storage conditions
+Temporary storage conditions
 
 The vial of Qalsody in its original carton can be stored for up to 14 days at room temperature (store below 30°C).
 
@@ -478,9 +480,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Biogen Netherlands B.V.
-
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -515,11 +515,11 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 
 <div style=\"page-break-after: always\"></div>
 
-| manifested ALS (CMALS), the MAHshall submit the final results of the phase 3 study in patients with clinically presymptomatic SOD1- ALS (Study ATLAS 233AS303).                                                                                                                                                                               |                                     |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| To further characterise variant-specific survival, theMAH will provide the final results of the descriptive integrated analyses of disease duration (survival) by SOD1 variant-type in tofersen-treated (Studies 101/102; disease registries) vs. patients untreated with tofersen (disease registries, natural history datasets/literature). | by 30 June 2027                     |
-| To further evaluate the long-term safety of tofersen in patients with SOD1-ALS, the MAHshall conduct and submit the results of an observational registry-based study 233AS401 according to the agreed protocol.                                                                                                                               | Annually (with annual reassessment) |
-| In order to ensure adequate monitoring of safety and efficacy of tofersen in the treatment of patients with SOD1-ALS, the MAHshall provide yearly updates on any new information concerning the safety and efficacy of tofersen.                                                                                                              | Annually (with annual reassessment) |
+| manifested ALS (CMALS), the MAH shall submit the final results of the phase 3 study in patients with clinically presymptomatic SOD1- ALS (Study ATLAS 233AS303).                                                                                                                                                                               |                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+| To further characterise variant-specific survival, the MAH will provide the final results of the descriptive integrated analyses of disease duration (survival) by SOD1 variant-type in tofersen-treated (Studies 101/102; disease registries) vs. patients untreated with tofersen (disease registries, natural history datasets/literature). | by 30 June 2027                     |
+| To further evaluate the long-term safety of tofersen in patients with SOD1-ALS, the MAH shall conduct and submit the results of an observational registry-based study 233AS401 according to the agreed protocol.                                                                                                                               | Annually (with annual reassessment) |
+| In order to ensure adequate monitoring of safety and efficacy of tofersen in the treatment of patients with SOD1-ALS, the MAH shall provide yearly updates on any new information concerning the safety and efficacy of tofersen.                                                                                                              | Annually (with annual reassessment) |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -529,11 +529,11 @@ This being an approval under exceptional circumstances and pursuant to Article 1
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
-
-<div style=\"page-break-after: always\"></div>
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -545,9 +545,7 @@ Each 15 ml vial contains 100 mg tofersen (6.7 mg/ml).
 
 ## 3. LIST OF EXCIPIENTS
 
-Disodium phosphate, potassium chloride, calcium chloride dihydrate, magnesium chloride
-
-hexahydrate, sodium chloride, sodium dihydrogen phosphate dihydrate, water for injections.
+Disodium phosphate, potassium chloride, calcium chloride dihydrate, magnesium chloride hexahydrate, sodium chloride, sodium dihydrogen phosphate dihydrate, water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -583,66 +581,72 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|---------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/23/1783/001
 
-## 13. BATCH NUMBER
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15. INSTRUCTIONS ON USE   |
+|---------------------------|
 
-16. INFORMATION IN BRAILLE
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
-|-------------------------------------------------------------------|
-| VIAL                                                              |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT ANDROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Qalsody 100 mg solution for injection tofersen intrathecal use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3. EXPIRY DATE   |
 |------------------|
 
 EXP
 
-| 4. BATCHNUMBER   |
-|------------------|
+| 4. BATCH NUMBER   |
+|-------------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|-----------------------------------------------|
 
 100 mg/15 ml
 
@@ -659,7 +663,9 @@ Lot
 
 <!-- image -->
 
-## Package leaflet: Information for the patient Qalsody 100 mg solution for injection
+## Package leaflet: Information for the patient
+
+## Qalsody 100 mg solution for injection
 
 tofersen
 
@@ -667,9 +673,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -682,7 +688,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What Qalsody is and what it is used for
 
-Qalsody contains the active substance tofersen which belongs to a group of medicines known as antisense oligonucleotides .
+Qalsody contains the active substance tofersen which belongs to a group of medicines known as antisense oligonucleotides.
 
 This medicine is used in adults to treat a type of amyotrophic lateral sclerosis (ALS) caused by mutations (changes) in a gene called SOD1.
 
@@ -694,15 +700,15 @@ Qalsody works by reducing the build-up of SOD1 protein. This helps to prevent th
 
 ## Qalsody must not be given
 
-- -if you are allergic to tofersen or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to tofersen or any of the other ingredients of this medicine (listed in section 6).
 
 Talk to your doctor or nurse before you start treatment if this applies to you.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
 There is a risk of side effects occurring after Qalsody is given by lumbar puncture procedure (see section 3). This can include headaches, back pain and infection.
+
+<div style=\"page-break-after: always\"></div>
 
 There have been a small number of reports of patients developing inflammation of the spinal cord (myelitis) or irritation or injury to the nerve roots (radiculitis) after Qalsody is given. You need to know about the symptoms of this while you are on this medicine. See Serious side effects in section 4 of this leaflet.
 
@@ -734,21 +740,23 @@ Your doctor will help you to decide whether you should continue breast-feeding o
 
 ## Driving and using machines
 
-This medicine may affect your ability to drive or use machines. Do not drive or use machines if you notice a change in your vision with Qalsody.
+This medicine may affect your ability to drive or use machines.
+
+Do not drive or use machines if you notice a change in your vision with Qalsody.
 
 ## Qalsody contains sodium
 
 This medicine contains 52 mg sodium (main component of cooking/table salt) in each 15 ml. This is equivalent to 3% of the recommended maximum daily dietary intake of sodium for an adult.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Qalsody contains potassium
 
-This medicine contains less than 1 mmol (39 mg) potassium per 15 ml dose, i.e. essentially 'potassium -free'.
+This medicine contains less than 1 mmol (39 mg) potassium per 15 ml dose, i.e. essentially 'potassium-free'.
 
 ## 3. How Qalsody is given
 
 The recommended dose is 100 mg tofersen. The first three doses will be given at 14-day intervals on day 1, day 15 and day 29 of treatment. Qalsody will then be given every 28 days.
+
+<div style=\"page-break-after: always\"></div>
 
 This medicine is given by intrathecal (into the fluid surrounding the spinal cord) injection into the lower back by a lumbar puncture. This is done by inserting a needle into the space around the spinal cord. This will be done by a doctor experienced in doing lumbar punctures.
 
@@ -772,45 +780,44 @@ Side effects related to the lumbar puncture may occur while Qalsody is being giv
 
 The most serious side effects seen in patients receiving Qalsody have been inflammation of the spinal cord (myelitis) or irritation and injury of nerve roots (radiculitis). Common symptoms may include:
 
-- -weakness
-- -numbness
-- -abnormal sensations (pins and needles)
-- -pain.
+- weakness
+- numbness
+- abnormal sensations (pins and needles)
+- pain.
 
 Swelling of the nerve that connects the eyes with the brain (papilloedema) and increased pressure around your brain (increased intracranial pressure) have also been reported. Papilloedema can result from increased intracranial pressure. Common symptoms may include:
 
-- -blurred vision
-- -double vision
-- -vision loss
-- -headache.
+- blurred vision
+- double vision
+- vision loss
+- headache.
 
 Inflammation of the lining around the brain and spinal cord (aseptic or chemical meningitis) has been reported. This is not caused by an infection. Common symptoms may include:
 
-- -headache
-- -fever
+- headache
+- fever
+- neck stiffness
+- nausea
+- vomiting.
 
-<div style=\"page-break-after: always\"></div>
-
-- -neck stiffness
-- -nausea
-- -vomiting.
-
-Tell your doctor immediately , if you have any of the symptoms listed above.
+Tell your doctor immediately, if you have any of the symptoms listed above.
 
 ## Other side effects
 
 Very common (may affect more than 1 in 10 people)
 
-- -pain (back pain, pain in arms or legs)
-- -feeling tired
-- -muscle and joint pain
-- -fever
-- -increase in protein and/or white blood cell count occurring in the fluid that surrounds the brain and spinal cord.
+- pain (back pain, pain in arms or legs)
+- feeling tired
+- muscle and joint pain
+- fever
+- increase in protein and/or white blood cell count occurring in the fluid that surrounds the brain and spinal cord.
+
+<div style=\"page-break-after: always\"></div>
 
 Common (may affect up to 1 in 10 people)
 
-- -muscle stiffness
-- -nerve pain, including burning, stabbing, pins and needles sensations.
+- muscle stiffness
+- nerve pain, including burning, stabbing, pins and needles sensations.
 
 Tell your doctor if you notice these or any new symptoms that concern you.
 
@@ -826,22 +833,22 @@ Do not use this medicine after the expiry date which is stated on the carton aft
 
 Do not use this medicine if you notice particles in the solution or if the liquid in the vial is not clear and colourless.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+## Store in a refrigerator (2°C - 8°C). Do not freeze.
 
-The vial of Qalsody in its original carton can be stored for up to 14 days at room temperature (store below  30°C).
+Keep the vial in the outer carton in order to protect from light.
+
+The vial of Qalsody in its original carton can be stored for up to 14 days at room temperature (store below 30°C).
 
 Unopened vials of Qalsody can be removed from and returned to the refrigerator, if necessary. Unopened vials can be removed from the original carton for not more than 6 hours per day at room temperature for a maximum of 6 days.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
 ## What Qalsody contains
 
-- -The active substance is tofersen
-- -Each 15 ml vial contains 100 mg of tofersen.
-- -Each ml contains 6.7 mg of tofersen.
-- -The other ingredients are disodium phosphate, potassium chloride, calcium chloride dihydrate, magnesium chloride hexahydrate, sodium chloride, sodium dihydrogen phosphate dihydrate, water for injections.
+- The active substance is tofersen
+- Each 15 ml vial contains 100 mg of tofersen.
+- Each ml contains 6.7 mg of tofersen.
+- The other ingredients are disodium phosphate, potassium chloride, calcium chloride dihydrate, magnesium chloride hexahydrate, sodium chloride, sodium dihydrogen phosphate dihydrate, water for injections.
 
 ## What Qalsody looks like and contents of the pack
 
@@ -849,9 +856,9 @@ Qalsody is a clear, colourless to slightly yellow solution for injection. Each c
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
@@ -859,87 +866,33 @@ Biogen Belgium NV/SA
 
 Tél/Tel: +32 2 2191218
 
-## Lietuva
-
-Biogen Lithuania UAB
-
-Tel: + 370 5 259 6176
-
 ## България
 
-ТП ЕВОФАРМА
-
-Teл.: +359 2 962 12 00
-
-## Luxembourg/Luxemburg
-
-Biogen Belgium NV/SA
-
-Tél/Tel: +32 2 2191218
+ЕВОФАРМА ЕООД Teл.: +359 2 962 12 00
 
 ## Česká republika
 
-Biogen (Czech Republic) s.r.o.
-
-Tel: +420 255 706 200
-
-## Magyarország
-
-Biogen Hungary Kft.
-
-Tel.: +36 1 899 9883
+Biogen (Czech Republic) s.r.o. Tel: +420 255 706 200
 
 ## Danmark
 
-Biogen (Denmark) A/S
-
-Tlf: + 45 77 41 57 57
-
-## Malta
-
-Pharma. MT Ltd.
-
-Tel: + 356 21337008
+Biogen (Denmark) A/S Tlf: + 45 77 41 57 57
 
 ## Deutschland
 
-Biogen GmbH
-
-Tel: + 49 (0) 89 99 6170
-
-## Nederland
-
-Biogen Netherlands B.V.
-
-Tel: + 31 20 542 2000
+Biogen GmbH Tel: + 49 (0) 89 99 6170
 
 ## Eesti
 
-Biogen Estonia OÜ
-
-Tel: + 372 618 9551
-
-## Norge
-
-Biogen Norway AS
-
-Tlf: + 47 23 40 01 00
-
-<div style=\"page-break-after: always\"></div>
+Biogen Estonia OÜ Tel: + 372 618 9551
 
 ## Ελλάδα
 
-Genesis Pharma SA
-
-Τηλ
-
-: + 30 210 8771500
+Genesis Pharma SA Τηλ: + 30 210 8771500
 
 ## España
 
-Biogen Spain, S.L.
-
-Tel: + 34 91 310 7110
+Biogen Spain, S.L. Tel: + 34 91 310 7110
 
 ## France
 
@@ -961,35 +914,35 @@ Tel: + 353 (0)1 463 7799
 
 ## Ísland
 
-Icepharma hf
-
-Sími: + 354 540 8000
+Icepharma hf Sími: + 354 540 8000
 
 ## Italia
 
-Biogen Italia s.r.l.
+Biogen Italia s.r.l. Tel: + 39 02 5849901
 
-Tel: + 39 02 5849901
+## Lietuva
 
-## Κύπρος
+Biogen Lithuania UAB Tel: + 370 5 259 6176
 
-Genesis Pharma Cyprus Ltd
+## Luxembourg/Luxemburg
 
-Τηλ: + 357 22765715
+Biogen Belgium NV/SA Tél/Tel: +32 2 2191218
 
-## Latvija
+## Magyarország
 
-Biogen Latvia SIA
+Biogen Hungary Kft. Tel.: +36 1 899 9880
 
-Tel: + 371 68 688 158
+## Malta
 
-This medicine has been authorised under 'exceptional circumstances'. This means that because of the rarity of this disease it has been impossible to get complete information on this medicine. The European Medicines Agency will review any new information on this medicine every year and this leaflet will be updated as necessary.
+Pharma. MT Ltd. Tel: + 356 21337008
 
-## This leaflet was last revised in.
+## Nederland
 
-## Other sources of information
+Biogen Netherlands B.V. Tel: + 31 20 542 2000
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+## Norge
+
+Biogen Norway AS Tlf: + 47 23 40 01 00
 
 ## Österreich
 
@@ -1005,9 +958,7 @@ Tel.: + 48 22 351 51 00
 
 ## Portugal
 
-Biogen Portugal Sociedade Farmacêutica,
-
-Unipessoal, Lda.
+Biogen Portugal Sociedade Farmacêutica, Unipessoal, Lda.
 
 Tel: + 351 21 318 8450
 
@@ -1019,24 +970,36 @@ Tel: + 40 (0)21 260 13 44
 
 ## Slovenija
 
-Biogen Pharma d.o.o.
-
-Tel: + 386 1 511 02 90
+Biogen Pharma d.o.o. Tel: + 386 1 511 02 90
 
 ## Slovenská republika
 
-Biogen Slovakia s.r.o.
-
-Tel: + 421 2 323 340 08
+Biogen Slovakia s.r.o. Tel: + 421 2 323 340 08
 
 ## Suomi/Finland
 
-Biogen Finland Oy
+Biogen Finland Oy Puh/Tel: + 358 207 401 200
 
-Puh/Tel: + 358 207 401 200
+<div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+Genesis Pharma Cyprus Ltd Τηλ: + 357 22765715
+
+## Latvija
+
+Biogen Latvia SIA
+
+Tel: + 371 68 688 158
+
+This medicine has been authorised under 'exceptional circumstances'. This means that because of the rarity of this disease it has been impossible to get complete information on this medicine. The European Medicines Agency will review any new information on this medicine every year and this leaflet will be updated as necessary.
+
+## This leaflet was last revised in.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Sverige
 
-Biogen Sweden AB
-
-Tel: + 46 8 594 113 60
+Biogen Sweden AB Tel: + 46 8 594 113 60

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-04 11:25:50
+document_datetime: 2026-10-15 11:42:12
 document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mirvaso-epar-product-information_en.pdf
 document_name: mirvaso-epar-product-information_en.pdf
 version: success
-processing_time: 6.3388426
-conversion_datetime: 2025-12-20 18:06:15.691007
+processing_time: 8.1320315
+conversion_datetime: 2026-10-19 22:58:49.286182
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -108,11 +108,9 @@ In the majority of these cases, erythema and flushing resolved after discontinua
 
 In case worsening of erythema occurs, Mirvaso topical gel should be discontinued. Symptomatic measures, such as cooling, NSAID and antihistamines, may help in alleviating symptoms.
 
-Recurrences of aggravated erythema and flushing have been reported after re-administration of Mirvaso topical gel. Prior to resuming treatment after temporary discontinuation due to aggravated
+Recurrences of aggravated erythema and flushing have been reported after re-administration of Mirvaso topical gel. Prior to resuming treatment after temporary discontinuation due to aggravated erythema or flushing, perform a test application on a small area of the face for at least one day before full facial application is resumed.
 
 <div style=\"page-break-after: always\"></div>
-
-erythema or flushing, perform a test application on a small area of the face for at least one day before full facial application is resumed.
 
 It is important to inform the patient not to exceed the recommended maximum dose (5 pea size amounts) and frequency of application (once daily).
 
@@ -122,8 +120,8 @@ Mirvaso should not be applied close to the eyes.
 
 The concomitant use of other systemic alpha adrenergic receptor agonists may potentiate the undesirable effects of this class of medicinal products in patients:
 
-- -with severe or unstable or uncontrolled cardiovascular disease;
-- -with depression, cerebral or coronary insufficiency, Raynaud's phenomenon, orthostatic hypotension, thrombangiitis obliterans, scleroderma, or Sjögren's syndrome.
+- with severe or unstable or uncontrolled cardiovascular disease;
+- with depression, cerebral or coronary insufficiency, Raynaud's phenomenon, orthostatic hypotension, thrombangiitis obliterans, scleroderma, or Sjögren's syndrome.
 
 ## Other
 
@@ -192,13 +190,13 @@ Table 1 - Adverse reactions
 | Skin and subcutaneous tissue disorders               | Rare        | Angioedema*                                                                                                                                                                      |
 | General disorders and administration site conditions | Uncommon    | Feeling hot, peripheral coldness                                                                                                                                                 |
 
-* Adverse reactions reported from post-marketing data.
-
 ## Description of selected adverse reactions
 
-## Bradycardia and hypotension
+Bradycardia and hypotension
 
 Post-marketing cases of bradycardia, hypotension (including orthostatic hypotension) and dizziness have been reported, some of which required hospitalisation. Some cases involved application of Mirvaso following laser procedures (see section 4.4).
+
+## Other special populations
 
 <div style=\"page-break-after: always\"></div>
 
@@ -236,11 +234,9 @@ Cutaneous facial application of a highly selective alpha2-adrenergic receptor ag
 
 The efficacy of Mirvaso in the treatment of moderate to severe facial erythema of rosacea has been demonstrated in two randomised, vehicle controlled blinded clinical trials, which were identical in design. Moderate to severe erythema was defined as a grade 3 or greater on both the Clinician Erythema Assessment (CEA) scale and Patient Self-Assessment (PSA) scale. The studies were conducted in 553 randomised subjects aged 18 years and older who were treated once daily for 4 weeks with either Mirvaso or vehicle. Of these, 539 completed 29 days of treatment and had data available to be included in the efficacy analysis at Day 29, with the majority being Caucasians between 18 and 65 years of age.
 
-The primary endpoint was expressed in terms of composite success i.e. subjects responding with a 2-grade reduction on both baseline CEA score and baseline PSA score on Day 29. The results from both clinical studies demonstrated that Mirvaso was significantly more effective (p&lt;0.001) in the reduction of facial erythema of rosacea than vehicle gel when applied once daily for 29 days (primary endpoint, see Table 2). For the population subset of patients with severe erythema at baseline Day 1 (i.e. subjects with CEA or PSA grade of 4) which represented 26% of the randomised subjects, the results on the primary endpoint on Day 29 were similar to those results observed in the overall
+The primary endpoint was expressed in terms of composite success i.e. subjects responding with a 2-grade reduction on both baseline CEA score and baseline PSA score on Day 29. The results from both clinical studies demonstrated that Mirvaso was significantly more effective (p&lt;0.001) in the reduction of facial erythema of rosacea than vehicle gel when applied once daily for 29 days (primary endpoint, see Table 2). For the population subset of patients with severe erythema at baseline Day 1 (i.e. subjects with CEA or PSA grade of 4) which represented 26% of the randomised subjects, the results on the primary endpoint on Day 29 were similar to those results observed in the overall population (see Table 3) and were statistically significant for both studies combined (p=0.003). In addition, for the overall population, Mirvaso demonstrated statistical superiority (p&lt;0.001) over vehicle gel with respect to rapid initial onset of a clinically meaningful effect (1-Grade Composite Success for CEA and PSA) after the first application at 30 minutes on Day 1(secondary endpoint 27.9% vs. 6.9% for Study 1, 28.4% vs. 4.8% for Study 2), and to achievement of a clinically meaningful effect (1-Grade Composite Success for CEA and PSA) on Day 29 (tertiary endpoint, see Table 4).
 
 <div style=\"page-break-after: always\"></div>
-
-population (see Table 3) and were statistically significant for both studies combined (p=0.003). In addition, for the overall population, Mirvaso demonstrated statistical superiority (p&lt;0.001) over vehicle gel with respect to rapid initial onset of a clinically meaningful effect (1-Grade Composite Success for CEA and PSA) after the first application at 30 minutes on Day 1(secondary endpoint 27.9% vs. 6.9% for Study 1, 28.4% vs. 4.8% for Study 2), and to achievement of a clinically meaningful effect (1-Grade Composite Success for CEA and PSA) on Day 29 (tertiary endpoint, see Table 4).
 
 CEA and PSA were defined as follows:
 
@@ -250,44 +246,39 @@ PSA: Patient Self-Assessment: 0=No redness, 1=Very mild redness, 2=Mild redness,
 
 Table 2: Percentage of subjects with a 2-grade improvement in both CEA and PSA
 
-| Success day 29             | Study 1           | Study 1           | Study 2           | Study 2           |
-|----------------------------|-------------------|-------------------|-------------------|-------------------|
-| Success day 29             | Mirvaso Gel n=127 | Vehicle Gel n=128 | Mirvaso Gel n=142 | Vehicle Gel n=142 |
-| 3 hours after application  | 31.5%             | 10.9%             | 25.4%             | 9.2%              |
-| 6 hours after application  | 30.7%             | 9.4%              | 25.4%             | 9.2%              |
-| 9 hours after application  | 26.0%             | 10.2%             | 17.6%             | 10.6%             |
-| 12 hours after application | 22.8%             | 8.6%              | 21.1%             | 9.9%              |
-| Day 29 p-value             | <0.001            | -                 | <0.001            | -                 |
+| Success day 29             | Study 1 - Mirvaso Gel n=127   | Study 1 - Vehicle Gel n=128   | Study 2 - Mirvaso Gel n=142   | Study 2 - Vehicle Gel n=142   |
+|----------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+| 3 hours after application  | 31.5%                         | 10.9%                         | 25.4%                         | 9.2%                          |
+| 6 hours after application  | 30.7%                         | 9.4%                          | 25.4%                         | 9.2%                          |
+| 9 hours after application  | 26.0%                         | 10.2%                         | 17.6%                         | 10.6%                         |
+| 12 hours after application | 22.8%                         | 8.6%                          | 21.1%                         | 9.9%                          |
+| Day 29 p-value             | <0.001                        | -                             | <0.001                        | -                             |
 
 Table 3: Percentage of subjects with severe erythema at baseline Day 1 (CEA or PSA grade 4) with 2-grade improvement in both CEA and PSA
 
-| Success day 29             | Study 1 + Study 2   | Study 1 + Study 2   |
-|----------------------------|---------------------|---------------------|
-| Success day 29             | Mirvaso Gel n=79    | Vehicle Gel n=63    |
-| 3 hours after application  | 22.8%               | 9.5%                |
-| 6 hours after application  | 26.6%               | 7.9%                |
-| 9 hours after application  | 20.3%               | 11.1%               |
-| 12 hours after application | 21.5%               | 4.8%                |
-| Day 29 p-value             | 0.003               | -                   |
+| Success day 29             | Study 1 + Study 2 - Mirvaso Gel n=79   | Study 1 + Study 2 - Vehicle Gel n=63   |
+|----------------------------|----------------------------------------|----------------------------------------|
+| 3 hours after application  | 22.8%                                  | 9.5%                                   |
+| 6 hours after application  | 26.6%                                  | 7.9%                                   |
+| 9 hours after application  | 20.3%                                  | 11.1%                                  |
+| 12 hours after application | 21.5%                                  | 4.8%                                   |
+| Day 29 p-value             | 0.003                                  | -                                      |
 
 Table 4: Percentage of subjects with a 1-grade improvement in both CEA and PSA
 
-| Success Day 29             | Study 1           | Study 1           | Study 2           | Study 2           |
-|----------------------------|-------------------|-------------------|-------------------|-------------------|
-| Success Day 29             | Mirvaso Gel n=127 | Vehicle Gel n=128 | Mirvaso Gel n=142 | Vehicle Gel n=142 |
-| 3 hours after application  | 70.9%             | 32.8%             | 71.1%             | 40.1%             |
-| 6 hours after application  | 69.3%             | 32.0%             | 64.8%             | 43.0%             |
-| 9 hours after application  | 63.8%             | 29.7%             | 66.9%             | 39.4%             |
-| 12 hours after application | 56.7%             | 30.5%             | 53.5%             | 40.1%             |
-| Day 29 p-value             | <0.001            | -                 | <0.001            | -                 |
+| Success Day 29             | Study 1 - Mirvaso Gel n=127   | Study 1 - Vehicle Gel n=128   | Study 2 - Mirvaso Gel n=142   | Study 2 - Vehicle Gel n=142   |
+|----------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+| 3 hours after application  | 70.9%                         | 32.8%                         | 71.1%                         | 40.1%                         |
+| 6 hours after application  | 69.3%                         | 32.0%                         | 64.8%                         | 43.0%                         |
+| 9 hours after application  | 63.8%                         | 29.7%                         | 66.9%                         | 39.4%                         |
+| 12 hours after application | 56.7%                         | 30.5%                         | 53.5%                         | 40.1%                         |
+| Day 29 p-value             | <0.001                        | -                             | <0.001                        | -                             |
 
 No clinically meaningful trends with respect to tachyphylaxis or rebound effects (worsening of baseline erythema after cessation of treatment) were observed with use of Mirvaso for 29 days.
 
-The results from a long term open label study in 449 patients, with continuous treatment for up to one year, confirmed that chronic use of Mirvaso is safe and effective. Daily reductions in erythema for the first month of use (as measured with the CEA and PSA scales) were similar to those observed in the controlled trials, and those reductions were achievable for up to 12 months with no apparent loss
+The results from a long term open label study in 449 patients, with continuous treatment for up to one year, confirmed that chronic use of Mirvaso is safe and effective. Daily reductions in erythema for the first month of use (as measured with the CEA and PSA scales) were similar to those observed in the controlled trials, and those reductions were achievable for up to 12 months with no apparent loss of effect over time. The overall frequencies of adverse reactions in this study are reflected in Table 1 above, with the highest rates occurring in the first 29 days of use. No adverse reactions had an increase in frequency over time, and there was no evidence that long-term use of Mirvaso conveyed an increased risk of occurrence of any specific type of adverse reaction.
 
 <div style=\"page-break-after: always\"></div>
-
-of effect over time. The overall frequencies of adverse reactions in this study are reflected in Table 1 above, with the highest rates occurring in the first 29 days of use. No adverse reactions had an increase in frequency over time, and there was no evidence that long-term use of Mirvaso conveyed an increased risk of occurrence of any specific type of adverse reaction.
 
 Concomitant use of Mirvaso with other medicinal products for the treatment of inflammatory lesions of rosacea has not been systematically investigated. However, in the long term open label study, the efficacy and safety of Mirvaso, as described above, was not affected by the concomitant use of cosmetics or other medicinal products (e.g. topical metronidazole, topical azelaic acid, and oral tetracyclines including low dose doxycycline) for the treatment of inflammatory lesions of rosacea in the concerned subpopulation (131/449 patients in the study used concomitant rosacea medicinal product).
 
@@ -325,9 +316,7 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 ## 6.1 List of excipients
 
-Carbomer Methylparahydroxybenzoate (E218) Phenoxyethanol Glycerol Titanium dioxide Propylene glycol (E1520) Sodium hydroxide
-
-Purified water
+Carbomer Methylparahydroxybenzoate (E218) Phenoxyethanol Glycerol Titanium dioxide Propylene glycol (E1520) Sodium hydroxide Purified water
 
 ## 6.2 Incompatibilities
 
@@ -367,9 +356,13 @@ No special requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Galderma International Tour Europlaza, 20 avenue André Prothin - La Défense 4 La Défense Cedex 92927
+Galderma S.A., the Netherlands Branch
 
-France
+De Ruijterkade 6
+
+1013 AA Amsterdam
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -403,12 +396,14 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-- C. AUTHORISATION
-
 ## ANNEX II
 
-- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -416,9 +411,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Laboratoires Galderma Z.I. Montdésir 74540 Alby-sur-Chéran
-
-France
+Laboratoires Galderma Z.I. Montdésir 74540 Alby-sur-Chéran France
 
 And
 
@@ -507,61 +500,51 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store below 30°C and do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Galderma International
+Galderma S.A.,the Netherlands Branch De Ruijterkade 6 1013 AA Amsterdam The Netherlands
 
-Tour Europlaza, 20 avenue André Prothin
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
-La Défense 4
+EU/1/13/904/004 EU/1/13/904/005 EU/1/13/904/006 EU/1/13/904/007 EU/1/13/904/008 EU/1/13/904/009
 
-92927 La Défense Cedex
-
-France
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/13/904/004
-
-EU/1/13/904/005
-
-EU/1/13/904/006
-
-EU/1/13/904/007
-
-EU/1/13/904/008
-
-EU/1/13/904/009
-
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Mirvaso
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC:
+PC: SN: NN:
 
-SN:
-
-NN:
+16
 
 <div style=\"page-break-after: always\"></div>
 
@@ -571,7 +554,9 @@ NN:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mirvaso 3 mg/g gel brimonidine
+Mirvaso 3 mg/g gel
+
+brimonidine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -583,9 +568,7 @@ Excipients: Carbomer, methylparahydroxybenzoate (E218), phenoxyethanol, glycerol
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Gel
-
-30 g
+Gel 30 g
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -611,16 +594,14 @@ Store below 30°C and do not freeze
 
 <div style=\"page-break-after: always\"></div>
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
 
 OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
 
 APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -641,21 +622,21 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS 10 G TUBE
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+10 G TUBE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Mirvaso 3 mg/g gel brimonidine
-
-Cutaneous use.
+Mirvaso 3 mg/g gel brimonidine Cutaneous use.
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -685,7 +666,7 @@ Excipients: Carbomer, methylparahydroxybenzoate (E218), phenoxyethanol, glycerol
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-2 G TUBE
+## 2 G TUBE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -695,9 +676,7 @@ Cutaneous use.
 
 ## 2. METHOD OF ADMINISTRATION
 
-Do not swallow.
-
-Read the package leaflet before use.
+Do not swallow. Read the package leaflet before use.
 
 ## 3. EXPIRY DATE
 
@@ -727,10 +706,10 @@ brimonidine
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -743,7 +722,7 @@ brimonidine
 
 ## 1. What Mirvaso is and what it is used for
 
-Mirvaso contains the active substance brimonidine which belongs to a group of medicines commonly referred to as 'alpha agonists'.
+Mirvaso contains the active substance brimonidine which belongs to a group of medicines commonly referred to as \"alpha agonists\".
 
 It is applied to the skin of the face to treat redness due to rosacea in adult patients.
 
@@ -755,22 +734,22 @@ When applied, Mirvaso acts to narrow these blood vessels again which reduces the
 
 ## Do not use Mirvaso:
 
-- -if you are allergic to brimonidine or any of the other ingredients of this medicine (listed in section 6).
-- -in children below 2 years of age, as they may be at greater risk of side effects from any of the medicine absorbed through the skin.
-- -if you are taking certain medicines used for depression or Parkinson's disease including so-called monoamine oxidase (MAO) inhibitors (for example selegiline or moclobemide) or tricyclic antidepressants (such as imipramine) or tetracyclic antidepressants (such as maprotiline, mianserin or mirtazapin). Use of Mirvaso when taking these medicines may result in a fall in blood pressure.
+- if you are allergic to brimonidine or any of the other ingredients of this medicine (listed in section 6).
+- in children below 2 years of age, as they may be at greater risk of side effects from any of the medicine absorbed through the skin.
+- if you are taking certain medicines used for depression or Parkinson's disease including so-called monoamine oxidase (MAO) inhibitors (for example selegiline or moclobemide) or tricyclic antidepressants (such as imipramine) or tetracyclic antidepressants (such as maprotiline, mianserin or mirtazapin). Use of Mirvaso when taking these medicines may result in a fall in blood pressure.
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist, before using Mirvaso especially if:
 
-- -the skin of your face is irritated or has open wounds.
-- -you have problems with your heart or your blood circulation.
+- the skin of your face is irritated or has open wounds.
+- you have problems with your heart or your blood circulation.
 
 <div style=\"page-break-after: always\"></div>
 
-- -you have depression, decreased blood flow to the brain or the heart, fall in blood pressure on standing up, decreased blood flow to the hands, feet or skin, or Sjögren's syndrome (a chronic disease in which the body's natural defence - the immune system - attacks the moisture-producing glands).
-- -you have kidney or liver problems or have had them in the past.
-- -you have had, or plan to have any laser procedure on the skin of your face.
+- you have depression, decreased blood flow to the brain or the heart, fall in blood pressure on standing up, decreased blood flow to the hands, feet or skin, or Sjögren's syndrome (a chronic disease in which the body's natural defence - the immune system - attacks the moisture-producing glands).
+- you have kidney or liver problems or have had them in the past.
+- you have had, or plan to have any laser procedure on the skin of your face.
 
 It is important to start treatment with a small amount of gel, increase the dose gradually but do not exceed the maximum dose of 1 gram (approximately 5 pea sized amounts). See also instructions 'How to use Mirvaso'.
 
@@ -796,11 +775,11 @@ Do not take Mirvaso with selegiline, moclobemide, imipramine, mianserin, or mapr
 
 Also, tell your doctor if you are taking any of the following medicines:
 
-- -medicines used for the treatment of pain, sleep disorders, or anxiety disorders
-- -medicines used for the treatment of psychiatric disorders (chlorpromazine) or used for hyperactivity (methylphenidate) or used for high blood pressure (reserpine).
-- -medicines which act on the same body mechanism as Mirvaso (other alpha agonists, e.g. clonidine; so-called alpha blockers or alpha antagonists, e.g. prazosin, isoprenaline which are most often used for treatment of high blood pressure, slow heart rate or asthma).
-- -cardiac glycosides (e.g. digoxin), used to treat heart problems.
-- -blood pressure lowering medicine such as beta-blockers or calcium channel blockers (e.g. propranolol, amlodipine).
+- medicines used for the treatment of pain, sleep disorders, or anxiety disorders
+- medicines used for the treatment of psychiatric disorders (chlorpromazine) or used for hyperactivity (methylphenidate) or used for high blood pressure (reserpine).
+- medicines which act on the same body mechanism as Mirvaso (other alpha agonists, e.g. clonidine; so-called alpha blockers or alpha antagonists, e.g. prazosin, isoprenaline which are most often used for treatment of high blood pressure, slow heart rate or asthma).
+- cardiac glycosides (e.g. digoxin), used to treat heart problems.
+- blood pressure lowering medicine such as beta-blockers or calcium channel blockers (e.g. propranolol, amlodipine).
 
 If any of the above applies to you, or if you are unsure, talk to your doctor.
 
@@ -848,7 +827,7 @@ You must avoid the eyes, eyelids, lips, mouth, and the inside of the nose. Shoul
 
 Do not apply any other skin medicines or cosmetics immediately before the daily application of Mirvaso. You should use these products only after the applied Mirvaso has dried.
 
-Pay attention when opening the tube / pump for the first time, not to spill a larger quantity of gel than what is needed. If this occurs, you should discard the excess gel so as not to apply more than the recommended dose. See paragraph 'How to use Mirvaso' above.
+Pay attention when opening the tube / pump for the first time, not to spill a larger quantity of gel than what is needed. If this occurs, you should discard the excess gel so as not to apply more than the recommended dose. See paragraph \"How to use Mirvaso\" above.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -862,15 +841,21 @@ Push down on the cap and turn counterclockwise (turn to the left). Then pull the
 
 <!-- image -->
 
-How to close the tube with a child-resistant cap Push down and turn clockwise (turn to the right).
+A
+
+How to close the tube with a child-resistant cap
+
+Push down and turn clockwise (turn to the right).
 
 <!-- image -->
 
-## [EU/1/13/904/007]
+[EU/1/13/904/007]
 
 How to open the pump with a child-resistant cap
 
-Push down on the cap and turn counterclockwise (turn to the left) until the cap can be removed. Note: when the cap is removed, the pump is not child-resistant.
+Push down on the cap and turn counterclockwise (turn to the left) until the cap can be removed.
+
+Note: when the cap is removed, the pump is not child-resistant.
 
 <!-- image -->
 
@@ -886,11 +871,9 @@ To close the pump, place the cap back on the pump. Push down and turn the cap to
 
 <!-- image -->
 
+If you use more Mirvaso than you should If you use more than the maximum daily dose of 1 gram within a 24 hour period, it could lead to skin irritation or other side effects at the application site. Repeated doses within the same 24 hour period could result in side effects, such as low blood pressure, drowsiness or sleepiness. Please contact your doctor, who will advise you on what action to take.
+
 <div style=\"page-break-after: always\"></div>
-
-## If you use more Mirvaso than you should
-
-If you use more than the maximum daily dose of 1 gram within a 24 hour period, it could lead to skin irritation or other side effects at the application site. Repeated doses within the same 24 hour period could result in side effects, such as low blood pressure, drowsiness or sleepiness. Please contact your doctor, who will advise you on what action to take.
 
 ## If anyone, especially a child, accidentally swallows Mirvaso, they may have serious side effects and need to be treated in a hospital.
 
@@ -910,7 +893,7 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-If you develop uncommon side effects of severe skin irritation or inflammation, skin rash, skin pain or discomfort, dry skin, warm skin sensation, tingling or sensation of pins and needles or swelling of the face or common side effects like worsening of rosacea, discontinue  the treatment and talk to your doctor since this medicine may not be suitable for you. In some cases, symptoms may extend beyond the treatment area. See also section 2 under 'Warnings and precautions'.
+If you develop uncommon side effects of severe skin irritation or inflammation, skin rash, skin pain or discomfort, dry skin, warm skin sensation, tingling or sensation of pins and needles or swelling of the face or common side effects like worsening of rosacea, discontinue the treatment and talk to your doctor since this medicine may not be suitable for you. In some cases, symptoms may extend beyond the treatment area. See also section 2 under 'Warnings and precautions'.
 
 If you develop contact allergy (e.g. allergic reaction, rash) or rare angioedema (a serious allergic reaction see rarely usually with swelling of the face, mouth or tongue), stop using Mirvaso and seek prompt medical advice.
 
@@ -918,28 +901,28 @@ Mirvaso may also cause the following other side effects:
 
 Common side effects (may affect up to 1 in 10 people):
 
-- -flushing
-- -excessive whitening (pallor) where the gel is applied
-- -skin redness, burning feeling of the skin or itching
+- flushing
+- excessive whitening (pallor) where the gel is applied
+- skin redness, burning feeling of the skin or itching
 
 Uncommon side effects (may affect up to 1 in 100 people):
 
-- -acne
-- -dry mouth
-- -feeling cold in hands and feet
-- -feeling hot
-- -headache
-- -nasal congestion
-- -swelling of the eyelid
-- -urticaria
-- -dizziness
+- acne
+- dry mouth
+- feeling cold in hands and feet
+- feeling hot
+- headache
+- nasal congestion
+- swelling of the eyelid
+- urticaria
+- dizziness
 
 <div style=\"page-break-after: always\"></div>
 
 Rare side effects (may affect up to 1 in 1000 people):
 
-- -hypotension (blood pressure decreased)
-- -heart rate decrease (slow heart rate, known as bradycardia).
+- hypotension (blood pressure decreased)
+- heart rate decrease (slow heart rate, known as bradycardia).
 
 ## Reporting of side effects
 
@@ -959,8 +942,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Mirvaso contains
 
-- -The active substance is brimonidine. One gram of gel contains 3.3 mg of brimonidine, equivalent to 5 mg of brimonidine tartrate.
-- -The other ingredients are carbomer, methylparahydroxybenzoate (E218), phenoxyethanol, glycerol, titanium dioxide, propylene glycol (E1520), sodium hydroxide, purified water. See end of section 2 for information on methylparahydroxybenzoate and propylene glycol.
+- The active substance is brimonidine. One gram of gel contains 3.3 mg of brimonidine, equivalent to 5 mg of brimonidine tartrate.
+- The other ingredients are carbomer, methylparahydroxybenzoate (E218), phenoxyethanol, glycerol, titanium dioxide, propylene glycol (E1520), sodium hydroxide, purified water. See end of section 2 for information on methylparahydroxybenzoate and propylene glycol.
 
 ## What Mirvaso looks like and contents of the pack
 
@@ -970,17 +953,19 @@ Pack size of 1 tube or 1 pump. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Galderma International Tour Europlaza, 20 avenue André Prothin - La Défense 4 La Défense Cedex 92927 France
+Galderma S.A., the Netherlands Branch De Ruijterkade 6 1013 AA Amsterdam The Netherlands
 
 Manufacturer Laboratoires Galderma Z.I. Montdésir 74540 Alby-sur-Chéran France
 
-<!-- image -->
-
 ## or
 
-Galderma Laboratorium GmbH Toulouser Allee 19a-23a, Pempelfort,
+Galderma Laboratorium GmbH Toulouser Allee 19a-23a, Pempelfort, Duesseldorf,
 
-Duesseldorf, North Rhine-Westphalia, 40211, Germany
+## North Rhine-Westphalia,
+
+40211,
+
+## Germany
 
 <div style=\"page-break-after: always\"></div>
 
@@ -988,37 +973,31 @@ For any information about this medicine, please contact the local representative
 
 ## Österreich
 
-Galderma Austria GmbH Tel: 0043 732 715 993 e-mail: austria@galderma.com
+Galderma Austria GmbH
 
-## Italia
+Tel: 0043 732 715 993
 
-Galderma Italia S.p.A.
-
-Tel: + 39 337 1176197 e-mail: vigilanza@galderma.com
+e-mail: austria@galderma.com
 
 ## België/Belgique/Belgien Luxembourg/Luxemburg
 
 Galderma Benelux BV Tél/Tel: +31 183691919 e-mail: medical.benelux@galderma.com
 
-## Latvija
-
-Tamro SIA, Latvia Tel. +371 67067800
-
 ## България
 
 PHOENIX PHARMA EOOD, Bulgaria Tel. +359 2 9658 100
 
-## Lietuva
+## Česká republika
 
-Tamro UAB, Lithuania Tel. +37037401099
+## Slovenská republika
 
-## Česká republika Slovenská republika
+4 LIFE PHARMA CZ, s.r.o.
 
-4 LIFE PHARMA CZ, s.r.o. Czech Tel. +420 244 403 003 e-mail: Info@4lifepharma.eu
+Czech
 
-## Magyarország
+Tel. +420 244 403 003
 
-SOLDRA International Kft. Tel.: +362 0 960 4294 e-mail: zajzon.gergely@soldra.com
+e-mail: Info@4lifepharma.eu
 
 ## Danmark
 
@@ -1028,7 +1007,7 @@ Norge
 
 Suomi/Finland
 
-Sverige
+## Sverige
 
 Galderma Nordic AB
 
@@ -1036,13 +1015,53 @@ Tlf/Sími/Puh/Tel: + 46 18 444 0330
 
 e-mail: nordic@galderma.com
 
-## Malta
-
-Prohealth Limited Tel. +356 23385000 e-mail: regulatory@prohealth.com.mt
-
 ## Deutschland
 
 Galderma Laboratorium GmbH Tel: + 49 (0) 800 - 5888850 e-mail: patientenservice@galderma.com
+
+## Eesti
+
+Tamro Eesti OÜ, Estonia Tel. +372 650 3600
+
+## Ελλάδα Κύπρος
+
+Pharmassist Ltd
+
+Τηλ: + 30 210 6560700
+
+## Italia
+
+Galderma Italia S.p.A.
+
+Tel: + 39 337 1176197
+
+e-mail: vigilanza@galderma.com
+
+## Latvija
+
+Tamro SIA, Latvia
+
+Tel. +371 67067800
+
+## Lietuva
+
+Tamro UAB, Lithuania Tel. +37037401099
+
+## Magyarország
+
+SOLDRA International Kft.
+
+Tel.: +362 0 960 4294
+
+e-mail: zajzon.gergely@soldra.com
+
+## Malta
+
+Prohealth Limited
+
+Tel. +356 23385000
+
+e-mail: regulatory@prohealth.com.mt
 
 ## Nederland
 
@@ -1054,12 +1073,6 @@ e-mail:
 
 Medical.benelux@galderma.com
 
-## Eesti
-
-Tamro Eesti OÜ, Estonia
-
-Tel. +372 650 3600
-
 ## Polska
 
 Galderma Polska Sp. z o.o.
@@ -1068,17 +1081,9 @@ Tel.: + 48 22 331 21 80
 
 e-mail: info.poland@galderma.com
 
-## Ελλάδα
-
-## Κύπρος
-
-Pharmassist Ltd
-
 ## Portugal
 
-Laboratorios Galderma, SA - Sucursal em Portugal
-
-Τηλ: + 30 210 6560700
+Laboratorios Galderma, SA - Sucursal em Portugal Tel: + 351 21 315 19 40
 
 e-mail: safety@pharmassist.gr
 
@@ -1092,19 +1097,13 @@ Tel: + 34 902 02 75 95
 
 e-mail: RegulatorySpain@galderma.com
 
-France Hrvatska Ireland Slovenija
+## France Hrvatska Ireland Slovenija
 
-Galderma International
-
-Tél: +33 08.00.00.99.38
-
-e-mail: pharmacovigilance.france@galderma.com
+Galderma International Tél: +33 08.00.00.99.38 e-mail: pharmacovigilance.france@galderma.com
 
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-Tel: + 351 21 315 19 40
 
 e-mail:
 

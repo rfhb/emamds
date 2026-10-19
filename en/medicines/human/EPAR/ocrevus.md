@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-20 15:37:00
+document_datetime: 2026-10-16 15:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ocrevus.html
 document_name: ocrevus.html
 version: success
-processing_time: 0.1676456
-conversion_datetime: 2026-08-26 10:56:27.922215
+processing_time: 0.2195688
+conversion_datetime: 2026-10-19 23:48:27.419833
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.122.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.16.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Ocrevus
 
 [RSS](/en/individual-human-medicine.xml/65914)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -119,7 +119,7 @@ English (EN) (84.29 KB - PDF)
 
 [View](/en/documents/overview/ocrevus-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-235)
+[Other languages (22)](#file-language-dropdown-552)
 
 български (BG) (109.83 KB - PDF)
 
@@ -255,9 +255,9 @@ svenska (SV) (82.98 KB - PDF)
 
 Ocrevus : EPAR - Risk management plan
 
-English (EN) (7.06 MB - PDF)
+English (EN) (7.48 MB - PDF)
 
-**First published:** 10/11/2023 **Last updated:** 16/04/2026
+**First published:** 10/11/2023 **Last updated:** 16/10/2026
 
 [View](/en/documents/rmp/ocrevus-epar-risk-management-plan_en.pdf)
 
@@ -265,161 +265,161 @@ English (EN) (7.06 MB - PDF)
 
 Ocrevus : EPAR - Product Information
 
-English (EN) (356.17 KB - PDF)
+English (EN) (443.69 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/en/documents/product-information/ocrevus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-89)
+[Other languages (24)](#file-language-dropdown-561)
 
-български (BG) (1.29 MB - PDF)
+български (BG) (1.32 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/bg/documents/product-information/ocrevus-epar-product-information_bg.pdf)
 
-español (ES) (951.89 KB - PDF)
+español (ES) (1.53 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/es/documents/product-information/ocrevus-epar-product-information_es.pdf)
 
-čeština (CS) (948.24 KB - PDF)
+čeština (CS) (1.03 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/cs/documents/product-information/ocrevus-epar-product-information_cs.pdf)
 
-dansk (DA) (846.83 KB - PDF)
+dansk (DA) (946.31 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/da/documents/product-information/ocrevus-epar-product-information_da.pdf)
 
-Deutsch (DE) (930.17 KB - PDF)
+Deutsch (DE) (1.1 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/de/documents/product-information/ocrevus-epar-product-information_de.pdf)
 
-eesti (ET) (863.36 KB - PDF)
+eesti (ET) (989.9 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/et/documents/product-information/ocrevus-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.06 MB - PDF)
+ελληνικά (EL) (1.2 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/el/documents/product-information/ocrevus-epar-product-information_el.pdf)
 
-français (FR) (857.1 KB - PDF)
+français (FR) (1.03 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/fr/documents/product-information/ocrevus-epar-product-information_fr.pdf)
 
-hrvatski (HR) (960.65 KB - PDF)
+hrvatski (HR) (1.16 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/hr/documents/product-information/ocrevus-epar-product-information_hr.pdf)
 
-italiano (IT) (930.83 KB - PDF)
+italiano (IT) (997.38 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/it/documents/product-information/ocrevus-epar-product-information_it.pdf)
 
-latviešu (LV) (1.15 MB - PDF)
+latviešu (LV) (1.33 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/lv/documents/product-information/ocrevus-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1015.59 KB - PDF)
+lietuvių (LT) (1.11 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/lt/documents/product-information/ocrevus-epar-product-information_lt.pdf)
 
-magyar (HU) (1.03 MB - PDF)
+magyar (HU) (1.19 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/hu/documents/product-information/ocrevus-epar-product-information_hu.pdf)
 
-Malti (MT) (926.32 KB - PDF)
+Malti (MT) (1.09 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/mt/documents/product-information/ocrevus-epar-product-information_mt.pdf)
 
-Nederlands (NL) (839.35 KB - PDF)
+Nederlands (NL) (926.97 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/nl/documents/product-information/ocrevus-epar-product-information_nl.pdf)
 
-polski (PL) (984.64 KB - PDF)
+polski (PL) (1.17 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/pl/documents/product-information/ocrevus-epar-product-information_pl.pdf)
 
-português (PT) (927.6 KB - PDF)
+português (PT) (1000.25 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/pt/documents/product-information/ocrevus-epar-product-information_pt.pdf)
 
-română (RO) (892.1 KB - PDF)
+română (RO) (1015.73 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/ro/documents/product-information/ocrevus-epar-product-information_ro.pdf)
 
-slovenčina (SK) (863.87 KB - PDF)
+slovenčina (SK) (956.11 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/sk/documents/product-information/ocrevus-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.04 MB - PDF)
+slovenščina (SL) (1.21 MB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/sl/documents/product-information/ocrevus-epar-product-information_sl.pdf)
 
-suomi (FI) (920.22 KB - PDF)
+suomi (FI) (906.98 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/fi/documents/product-information/ocrevus-epar-product-information_fi.pdf)
 
-svenska (SV) (750.47 KB - PDF)
+svenska (SV) (827.34 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/sv/documents/product-information/ocrevus-epar-product-information_sv.pdf)
 
-Íslenska (IS) (747.89 KB - PDF)
+Íslenska (IS) (939.67 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/is/documents/product-information/ocrevus-epar-product-information_is.pdf)
 
-norsk (NO) (861.21 KB - PDF)
+norsk (NO) (1008.57 KB - PDF)
 
-**First published:** 11/01/2018 **Last updated:** 20/08/2026
+**First published:** 11/01/2018 **Last updated:** 16/10/2026
 
 [View](/no/documents/product-information/ocrevus-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000335399
+**Latest procedure affecting product information:** VR/0000309389
 
-02/07/2026
+15/10/2026
 
 icon globe
 
@@ -444,7 +444,7 @@ English (EN) (20.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ocrevus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-860)
+[Other languages (24)](#file-language-dropdown-107)
 
 български (BG) (44.08 KB - PDF)
 
@@ -618,13 +618,15 @@ Treatment of adult patients with early primary progressive multiple sclerosis (P
 - **EMA product number**
     - EMEA/H/C/004043
 - **Marketing authorisation holder**
-    - Roche Registration GmbH Emil-Barell-Strasse 1  79639 Grenzach-Wyhlen  Germany
+    - Roche Registration GmbH Emil-Barell-Strasse 1  
+79639 Grenzach-Wyhlen  
+Germany
 - **Opinion adopted**
     - 09/11/2017
 - **Marketing authorisation issued**
     - 08/01/2018
 - **Revision**
-    - 27
+    - 28
 
 ## Assessment history
 
@@ -636,9 +638,9 @@ Collapse section
 
 Ocrevus : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (164.24 KB - PDF)
+English (EN) (183.79 KB - PDF)
 
-**First published:** 06/05/2025 **Last updated:** 20/08/2026
+**First published:** 06/05/2025 **Last updated:** 16/10/2026
 
 [View](/en/documents/procedural-steps-after/ocrevus-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -649,6 +651,36 @@ English (EN) (232.08 KB - PDF)
 **First published:** 11/04/2018 **Last updated:** 25/03/2025
 
 [View](/en/documents/procedural-steps-after/ocrevus-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Ocrevus-VR-0000309389 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3209053
+
+English (EN) (4.79 MB - PDF)
+
+**First published:** 16/10/2026
+
+[View](/en/documents/variation-report/ocrevus-vr-0000309389-epar-assessment-report-variation_en.pdf)
+
+Ocrevus : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
+
+Reference Number: EMADOC-1700519818-3442950
+
+English (EN) (144.65 KB - PDF)
+
+**First published:** 16/10/2026
+
+[View](/en/documents/pip-compliance/ocrevus-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Ocrevus (VR-0000309389)
+
+Adopted Reference Number: EMADOC-1700519818-3443099
+
+English (EN) (131.14 KB - PDF)
+
+**First published:** 18/09/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-ocrevus-vr-0000309389_en.pdf)
 
 Ocrevus-H-C-PSUSA-00010662-202403 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -724,6 +756,10 @@ English (EN) (71.29 KB - PDF)
 
 ## News on Ocrevus
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 September 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-september-2026)
+
+18/09/2026
+
 [New medicine for multiple sclerosis](/en/news/new-medicine-multiple-sclerosis)
 
 10/11/2017
@@ -736,12 +772,14 @@ English (EN) (71.29 KB - PDF)
 
 - [EMA/PE/0000237224 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000237224)
 - [EMEA-000310-PIP05-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000310-pip05-22)
+- [Ocrevus - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ocrevus)
+- [Long-Term Surveillance of Ocrelizumab-Treated Patients With Multiple Sclerosis (MANUSCRIPT Study) - post-authorisation study](https://catalogues.ema.europa.eu/study/31380)
 - [An Observational Study to Determine the Incidence of Injection Reactions Among Patients With Multiple Sclerosis Treated With Ocrelizumab Subcutaneous - post-authorisation study](https://catalogues.ema.europa.eu/study/1000001057)
 - [An Observational Study of Ocrelizumab Treated Patients with Multiple Sclerosis to Determine the Incidence and Mortality Rates of Breast Cancer and All Malignancies (VERISMO Study) - post-authorisation study](https://catalogues.ema.europa.eu/study/49480)
 - [Safety and Effectiveness of Ocrelizumab under Real World Conditions: a Non-Interventional Post Authorization Safety Study in Patients Diagnosed with Relapsing or Primary Progressive Multiple Sclerosis (CONFIDENCE) - post-authorisation study](https://catalogues.ema.europa.eu/study/47489)
 
 **This page was last updated on**
 
-20/08/2026
+16/10/2026
 
 ## Share this page

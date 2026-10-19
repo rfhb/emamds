@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-17 13:59:35
+document_datetime: 2026-10-13 16:56:13
 document_pages: 105
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/revatio-epar-product-information_en.pdf
 document_name: revatio-epar-product-information_en.pdf
 version: success
-processing_time: 22.7419725
-conversion_datetime: 2025-12-28 14:12:23.618634
+processing_time: 25.4552686
+conversion_datetime: 2026-10-19 23:08:35.903813
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,7 +36,7 @@ Excipient(s) with known effect Each tablet also contains 0.7 mg of lactose. For 
 
 Film-coated tablet.
 
-White, round, biconvex film-coated tablets marked 'VLE' on one side and 'RVT 20' on the other.
+White, round, biconvex film-coated tablets marked \"VLE\" on one side and \"RVT 20\" on the other.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -72,13 +72,13 @@ In general, any dose adjustment should be administered only after a careful bene
 
 ## Special populations
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 Dose adjustments are not required in elderly patients. Clinical efficacy as measured by 6-minute walk distance could be less in elderly patients.
 
 ## Renal impairment
 
-Initial dose adjustments are not required in patients with renal impairment, including severe renal impairment (creatinine clearance &lt; 30 ml/min ). A downward dose adjustment to 20 mg twice daily should be considered after a careful benefit-risk assessment only if therapy is not well-tolerated.
+Initial dose adjustments are not required in patients with renal impairment, including severe renal impairment (creatinine clearance &lt; 30 ml/min). A downward dose adjustment to 20 mg twice daily should be considered after a careful benefit-risk assessment only if therapy is not well-tolerated.
 
 ## Hepatic impairment
 
@@ -162,7 +162,7 @@ Caution is advised when sildenafil is administered to patients taking an alpha-b
 
 ## Bleeding disorders
 
-Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro . There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
+Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro. There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
 
 ## Vitamin K antagonists
 
@@ -228,7 +228,7 @@ Grapefruit juice is a weak inhibitor of CYP3A4 gut wall metabolism and may give 
 
 Single doses of antacid (magnesium hydroxide/aluminium hydroxide) did not affect the bioavailability of sildenafil.
 
-Co-administration of oral contraceptives (ethinyloestradiol 30 µ g and levonorgestrel 150 µ g) did not affect the pharmacokinetics of sildenafil.
+Co-administration of oral contraceptives (ethinyloestradiol 30 µg and levonorgestrel 150 µg) did not affect the pharmacokinetics of sildenafil.
 
 Nicorandil is a hybrid of potassium channel activator and nitrate. Due to the nitrate component it has the potential to have serious interaction with sildenafil (see section 4.3).
 
@@ -236,7 +236,7 @@ Nicorandil is a hybrid of potassium channel activator and nitrate. Due to the ni
 
 ## In vitro studies
 
-Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 &gt; 150 µ M).
+Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 &gt; 150 µM).
 
 There are no data on the interaction of sildenafil and non-specific phosphodiesterase inhibitors such as theophylline or dipyridamole.
 
@@ -266,7 +266,7 @@ Consistent with its known effects on the nitric oxide/cGMP pathway (see section 
 
 Riociguat: Preclinical studies showed additive systemic blood pressure lowering effect when PDE5 inhibitors were combined with riociguat. In clinical studies, riociguat has been shown to augment the hypotensive effects of PDE5 inhibitors. There was no evidence of favourable clinical effect of the combination in the population studied. Concomitant use of riociguat with PDE5 inhibitors, including sildenafil, is contraindicated (see section 4.3).
 
-Sildenafil had no clinically significant impact on the plasma levels of oral contraceptives (ethinyloestradiol 30 µ g and levonorgestrel 150 µ g).
+Sildenafil had no clinically significant impact on the plasma levels of oral contraceptives (ethinyloestradiol 30 µg and levonorgestrel 150 µg).
 
 Addition of a single dose of sildenafil to sacubitril/valsartan at steady state in patients with hypertension was associated with a significantly greater blood pressure reduction compared to administration of sacubitril/valsartan alone. Therefore, caution should be exercised when sildenafil is initiated in patients treated with sacubitril/valsartan.
 
@@ -314,11 +314,11 @@ In a placebo-controlled study of Revatio as an adjunct to intravenous epoprosten
 
 In the two placebo-controlled studies adverse events were generally mild to moderate in severity. The most commonly reported adverse reactions that occurred (greater or equal to 10 %) on Revatio compared to placebo were headache, flushing, dyspepsia, diarrhoea and pain in extremity.
 
-In a study to assess the effects of different dose levels of sildenafil the safety data for sildenafil 20 mg TID (recommended dose) and for sildenafil 80 mg TID (4 times the recommended dose), were consistent with the established safety profile of sildenafil in previous adult PAH studies .
+In a study to assess the effects of different dose levels of sildenafil the safety data for sildenafil 20 mg TID (recommended dose) and for sildenafil 80 mg TID (4 times the recommended dose), were consistent with the established safety profile of sildenafil in previous adult PAH studies.
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions which occurred in &gt; 1 % of Revatio-treated patients and were more frequent (&gt; 1 % difference) on Revatio in the pivotal study or in the Revatio combined data set of both the placebo-controlled studies in pulmonary arterial hypertension, at doses of 20, 40 or 80 mg TID are listed in Table 1 below by class and frequency grouping (very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1000 to &lt; 1/100) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions which occurred in &gt; 1 % of Revatio-treated patients and were more frequent (&gt; 1 % difference) on Revatio in the pivotal study or in the Revatio combined data set of both the placebo-controlled studies in pulmonary arterial hypertension, at doses of 20, 40 or 80 mg TID are listed in Table 1 below by class and frequency grouping (very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1000 to &lt; 1/100) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Reports from post-marketing experience are included in italics.
 
@@ -336,8 +336,8 @@ Table 1: Adverse reactions from sildenafil placebo-controlled studies in PAH and
 | Common                                          | insomnia, anxiety                                                                                                                                                |
 | Nervous system disorders                        |                                                                                                                                                                  |
 | Very common                                     | headache                                                                                                                                                         |
-| Common                                          | migraine, tremor, paraesthesia, burning sensation, hypoaesthesia                                                                                                 |
-| Eye disorders                                   |                                                                                                                                                                  |
+| Common                                          | migraine, tremor, paraesthesia, burning                                                                                                                          |
+| Eye disorders                                   | sensation, hypoaesthesia                                                                                                                                         |
 | Common                                          | retinal haemorrhage, visual impairment, vision blurred, photophobia, chromatopsia, cyanopsia, eye irritation, ocular hyperaemia visual acuity reduced, diplopia, |
 | Uncommon                                        | abnormal sensation in eye                                                                                                                                        |
 | Not known                                       | Non-arteritic anterior ischaemic optic neuropathy (NAION)*, Retinal vascular occlusion*, Visual field defect*                                                    |
@@ -403,19 +403,19 @@ Pharmacotherapeutic group: Urologicals, Drugs used in erectile dysfunction, ATC 
 
 ## Mechanism of action
 
-Sildenafil is a potent and selective inhibitor of cyclic guanosine monophosphate (cGMP) specific phosphodiesterase type 5 (PDE5), the enzyme that is responsible for degradation of cGMP. Apart from the presence of this enzyme in the corpus cavernosum of the penis, PDE5 is also present in the pulmonary vasculature . Sildenafil, therefore, increases cGMP within pulmonary vascular smooth muscle cells resulting in relaxation. In patients with pulmonary arterial hypertension this can lead to vasodilation of the pulmonary vascular bed and, to a lesser degree, vasodilatation in the systemic circulation.
+Sildenafil is a potent and selective inhibitor of cyclic guanosine monophosphate (cGMP) specific phosphodiesterase type 5 (PDE5), the enzyme that is responsible for degradation of cGMP. Apart from the presence of this enzyme in the corpus cavernosum of the penis, PDE5 is also present in the pulmonary vasculature. Sildenafil, therefore, increases cGMP within pulmonary vascular smooth muscle cells resulting in relaxation. In patients with pulmonary arterial hypertension this can lead to vasodilation of the pulmonary vascular bed and, to a lesser degree, vasodilatation in the systemic circulation.
 
 ## Pharmacodynamic effects
 
 Studies in vitro have shown that sildenafil is selective for PDE5. Its effect is more potent on PDE5 than on other known phosphodiesterases. There is a 10-fold selectivity over PDE6 which is involved in the phototransduction pathway in the retina. There is an 80-fold selectivity over PDE1, and over 700-fold over PDE 2, 3, 4, 7, 8, 9, 10 and 11. In particular, sildenafil has greater than 4,000-fold selectivity for PDE5 over PDE3, the cAMP-specific phosphodiesterase isoform involved in the control of cardiac contractility.
 
-Sildenafil causes mild and transient decreases in systemic blood pressure which, in the majority of cases, do not translate into clinical effects. After chronic dosing of 80 mg three times a day to patients with systemic hypertension the mean change from baseline in systolic and diastolic blood pressure was a decrease of 9.4 mmHg and 9.1 mm Hg respectively. After chronic dosing of 80 mg three times a day to patients with pulmonary arterial hypertension lesser effects in blood pressure reduction were observed (a reduction in both systolic and diastolic pressure of 2 mmHg). At the recommended dose of 20 mg three times a day no reductions in systolic or diastolic pressure were seen. Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on ECG. After chronic dosing of 80 mg three times a day to patients with pulmonary arterial hypertension no clinically relevant effects on the ECG were reported.
+Sildenafil causes mild and transient decreases in systemic blood pressure which, in the majority of cases, do not translate into clinical effects. After chronic dosing of 80 mg three times a day to patients with systemic hypertension the mean change from baseline in systolic and diastolic blood pressure was a decrease of 9.4 mmHg and 9.1 mm Hg respectively. After chronic dosing of 80 mg three times a day to patients with pulmonary arterial hypertension lesser effects in blood pressure reduction were observed (a reduction in both systolic and diastolic pressure of 2 mmHg). At the recommended dose of
 
-In a study of the hemodynamic effects of a single oral 100 mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (&gt; 70 % stenosis of at least one coronary artery), the mean
+20 mg three times a day no reductions in systolic or diastolic pressure were seen. Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on ECG. After chronic dosing of 80 mg three times a day to patients with pulmonary arterial hypertension no clinically relevant effects on the ECG were reported.
+
+In a study of the hemodynamic effects of a single oral 100 mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (&gt; 70 % stenosis of at least one coronary artery), the mean resting systolic and diastolic blood pressures decreased by 7 % and 6 % respectively compared to baseline. Mean pulmonary systolic blood pressure decreased by 9 %. Sildenafil showed no effect on cardiac output, and did not impair blood flow through the stenosed coronary arteries.
 
 <div style=\"page-break-after: always\"></div>
-
-resting systolic and diastolic blood pressures decreased by 7 % and 6 % respectively compared to baseline. Mean pulmonary systolic blood pressure decreased by 9 %. Sildenafil showed no effect on cardiac output, and did not impair blood flow through the stenosed coronary arteries.
 
 Mild and transient differences in colour discrimination (blue/green) were detected in some subjects using the Farnsworth-Munsell 100 hue test at 1 hour following a 100 mg dose, with no effects evident after 2 hours post-dose. The postulated mechanism for this change in colour discrimination is related to inhibition of PDE6, which is involved in the phototransduction cascade of the retina. Sildenafil has no effect on visual acuity or contrast sensitivity. In a small size placebo-controlled study of patients with documented early age-related macular degeneration (n = 9), sildenafil (single dose, 100 mg) demonstrated no significant changes in visual tests conducted (visual acuity, Amsler grid, colour discrimination simulated traffic light, Humphrey perimeter and photostress).
 
@@ -455,11 +455,9 @@ Patients on sildenafil achieved a statistically significant reduction in mean Pu
 
 ## Long-term Survival Data in the background epoprostenol study
 
-Patients enrolled into the epoprostenol add-on therapy study were eligible to enter a long term open label extension study. At 3 years 68 % of the patients were receiving a dose of 80 mg TID. A total of 134 patients were treated with Revatio in the initial study, and their long term survival status was
+Patients enrolled into the epoprostenol add-on therapy study were eligible to enter a long term open label extension study. At 3 years 68 % of the patients were receiving a dose of 80 mg TID. A total of 134 patients were treated with Revatio in the initial study, and their long term survival status was assessed for a minimum of 3 years. In this population, Kaplan-Meier estimates of 1, 2 and 3 year survival were 92 %, 81 % and 74 %, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-assessed for a minimum of 3 years. In this population, Kaplan-Meier estimates of 1, 2 and 3 year survival were 92 %, 81 % and 74 %, respectively.
 
 Efficacy and safety in adult patients with PAH (when used in combination with bosentan) A randomized, double-blind, placebo controlled study was conducted in 103 clinically stable subjects with PAH (WHO FC II and III) who were on bosentan therapy for a minimum of three months. The PAH patients included those with primary PAH, and PAH associated with connective tissue disease. Patients were randomized to placebo or sildenafil (20 mg three times a day) in combination with bosentan (62.5-125 mg twice a day). The primary efficacy endpoint was the change from baseline at Week 12 in 6MWD. The results indicate that there is no significant difference in mean change from baseline on 6MWD observed between sildenafil (20 mg three times a day) and placebo (13.62 m (95% CI: -3.89 to 31.12) and 14.08 m (95% CI: -1.78 to 29.95), respectively).
 
@@ -469,7 +467,7 @@ Overall, the adverse events were generally similar between the two treatment gro
 
 ## Effects on mortality in adults with PAH
 
-A study to investigate the effects of different dose levels of sildenafil on mortality in adults with PAH was conducted following the observation of a higher risk of mortality in paediatric patients taking a high dose of sildenafil TID, based on body weight, compared to those taking a lower dose in the long-term extension of the paediatric clinical trial (see below Paediatric population Pulmonary arterial hypertension - Long term extension data).
+A study to investigate the effects of different dose levels of sildenafil on mortality in adults with PAH was conducted following the observation of a higher risk of mortality in paediatric patients taking a high dose of sildenafil TID, based on body weight, compared to those taking a lower dose in the long-term extension of the paediatric clinical trial (see below Paediatric population - Pulmonary arterial hypertension - Long term extension data).
 
 The study was a randomized, double-blind, parallel-group study in 385 adults with PAH. Patients were randomly assigned 1:1:1 to one of three dosage groups (5 mg TID (4 times lower than the recommended dose), 20 mg TID (recommended dose) and 80 mg TID (4 times the recommended dose)). In total, the majority of subjects were PAH treatment naïve (83.4%). For most subjects the etiology of PAH was idiopathic (71.7%). The most common WHO Functional Class was Class III (57.7% of subjects). All three treatment groups were well balanced with respect to baseline demographics of strata history of PAH-treatment and etiology of PAH, as well as the WHO Functional Class categories.
 
@@ -485,7 +483,7 @@ A total of 234 subjects aged 1 to 17 years were treated in a randomized, double-
 
 (75/234, 32 %) or II (120/234, 51 %) at baseline; fewer patients were Class III (35/234, 15 %) or IV (1/234, 0.4 %); for a few patients (3/234, 1.3 %), the WHO Functional Class was unknown.
 
-Patients were naïve for specific PAH therapy and th e use of prostacyclin, prostacyclin analogues and endothelin receptor antagonists was not permitted in the study, and neither was arginine supplementation, nitrates, alpha-blockers and potent CYP450 3A4 inhibitors.
+Patients were naïve for specific PAH therapy and the use of prostacyclin, prostacyclin analogues and endothelin receptor antagonists was not permitted in the study, and neither was arginine supplementation, nitrates, alpha-blockers and potent CYP450 3A4 inhibitors.
 
 The primary objective of the study was to assess the efficacy of 16 weeks of chronic treatment with oral sildenafil in paediatric subjects to improve exercise capacity as measured by the Cardiopulmonary Exercise Test (CPET) in subjects who were developmentally able to perform the test, n = 115). Secondary endpoints included haemodynamic monitoring, symptom assessment, WHO functional class, change in background treatment, and quality of life measurements.
 
@@ -495,13 +493,12 @@ The primary endpoint was the placebo-corrected percentage change in peak VO2 fro
 
 Table 2: Placebo Corrected % Change from Baseline in Peak VO2 by Active Treatment Group
 
-| Treatment group      | Estimated difference   | 95% confidence interval   |
-|----------------------|------------------------|---------------------------|
-| Low dose (n=24)      | 3.81                   | -6.11, 13.73              |
-| Medium dose (n=26)   | 11.33                  | 1.72, 20.94               |
-| High dose (n=27)     | 7.98                   | -1.64, 17.60              |
-| Combined dose groups | 7.71                   | -0.19, 15.60              |
-| (n=77)               | (p = 0.056)            |                           |
+| Treatment group             | Estimated difference   | 95% confidence interval   |
+|-----------------------------|------------------------|---------------------------|
+| Low dose (n=24)             | 3.81                   | -6.11, 13.73              |
+| Medium dose (n=26)          | 11.33                  | 1.72, 20.94               |
+| High dose (n=27)            | 7.98                   | -1.64, 17.60              |
+| Combined dose groups (n=77) | 7.71 (p = 0.056)       | -0.19, 15.60              |
 
 n=29 for placebo group
 
@@ -529,11 +526,9 @@ A randomized, double-blind, two-arm, parallel-group, placebo-controlled study wa
 
 The co-primary endpoints were treatment failure rate, defined as need for additional treatment targeting PPHN, need for extracorporeal membrane oxygenation (ECMO), or death during the study; and time on iNO treatment after initiation of IV study drug for patients without treatment failure. The difference in treatment failure rates was not statistically significant between the two treatment groups (27.6% and 20.0% in the iNO + IV sildenafil group and iNO + placebo group, respectively). For patients without treatment failure, the mean time on iNO treatment after initiation of IV study drug was the same, approximately 4.1 days, for the two treatment groups.
 
-Treatment-emergent adverse events and serious adverse events were reported in 22 (75.9%) and 7 (24.1%) subjects in the iNO + IV sildenafil treatment group, respectively, and in 19 (63.3%) and 2 (6.7%) subjects in the iNO + placebo group, respectively. The most commonly reported
+Treatment-emergent adverse events and serious adverse events were reported in 22 (75.9%) and 7 (24.1%) subjects in the iNO + IV sildenafil treatment group, respectively, and in 19 (63.3%) and 2 (6.7%) subjects in the iNO + placebo group, respectively. The most commonly reported treatment-emergent adverse events were hypotension (8 [27.6%] subjects), hypokalaemia (7 [24.1%] subjects), anaemia and drug withdrawal syndrome (4 [13.8%] subjects each) and bradycardia (3 [10.3%] subjects) in the iNO + IV sildenafil treatment group and pneumothorax (4 [13.3%] subjects), anaemia, oedema, hyperbilirubinaemia, C-reactive protein increased, and hypotension (3 [10.0%] subjects each) in the iNO + placebo treatment group (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-treatment-emergent adverse events were hypotension (8 [27.6%] subjects), hypokalaemia (7 [24.1%] subjects), anaemia and drug withdrawal syndrome (4 [13.8%] subjects each) and bradycardia (3 [10.3%] subjects) in the iNO + IV sildenafil treatment group and pneumothorax (4 [13.3%] subjects), anaemia, oedema, hyperbilirubinaemia, C-reactive protein increased, and hypotension (3 [10.0%] subjects each) in the iNO + placebo treatment group (see section 4.2).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -563,11 +558,9 @@ Healthy elderly volunteers (65 years or over) had a reduced clearance of sildena
 
 ## Renal insufficiency
 
-In volunteers with mild to moderate renal impairment (creatinine clearance = 30-80 ml/min), the pharmacokinetics of sildenafil were not altered after receiving a 50 mg single oral dose. In volunteers with severe renal impairment (creatinine clearance &lt; 30 ml/min), sildenafil clearance was reduced,
+In volunteers with mild to moderate renal impairment (creatinine clearance = 30-80 ml/min), the pharmacokinetics of sildenafil were not altered after receiving a 50 mg single oral dose. In volunteers with severe renal impairment (creatinine clearance &lt; 30 ml/min), sildenafil clearance was reduced, resulting in mean increases in AUC and Cmax of 100 % and 88 % respectively compared to age-matched volunteers with no renal impairment. In addition, N-desmethyl metabolite AUC and Cmax values were significantly increased by 200 % and 79 % respectively in subjects with severe renal impairment compared to subjects with normal renal function.
 
 <div style=\"page-break-after: always\"></div>
-
-resulting in mean increases in AUC and Cmax of 100 % and 88 % respectively compared to age-matched volunteers with no renal impairment. In addition, N-desmethyl metabolite AUC and Cmax values were significantly increased by 200 % and 79 % respectively in subjects with severe renal impairment compared to subjects with normal renal function.
 
 ## Hepatic insufficiency
 
@@ -593,11 +586,9 @@ There were no adverse reactions, with possible relevance to clinical use, seen i
 
 ## 6.1 List of excipients
 
-Tablet core: Microcrystalline cellulose Calcium hydrogen phosphate (anhydrous) Croscarmellose sodium Magnesium stearate
+Tablet core: Microcrystalline cellulose Calcium hydrogen phosphate (anhydrous) Croscarmellose sodium Magnesium stearate Film coat: Hypromellose Titanium dioxide (E171) Lactose monohydrate Glycerol triacetate
 
 <div style=\"page-break-after: always\"></div>
-
-Film coat: Hypromellose Titanium dioxide (E171) Lactose monohydrate Glycerol triacetate
 
 ## 6.2 Incompatibilities
 
@@ -613,11 +604,11 @@ Do not store above 30°C. Store in the original package in order to protect from
 
 ## 6.5 Nature and contents of container
 
-PVC/Aluminium blisters of 90 tablets. Pack size of 90 tablets in a carton. 90 x 1 tablets in PVC/Aluminium perforated unit dose blisters.
+PVC/Aluminium blisters of 90 tablets. Pack size of 90 tablets in a carton.
 
-PVC/Aluminium blisters of 300 tablets.
+90 x 1 tablets in PVC/Aluminium perforated unit dose blisters.
 
-Pack size of 300 tablets in a carton.
+PVC/Aluminium blisters of 300 tablets. Pack size of 300 tablets in a carton.
 
 Not all pack sizes may be marketed.
 
@@ -627,7 +618,7 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
@@ -663,13 +654,15 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection. Clear, colourless solution.
+Solution for injection.
+
+Clear, colourless solution.
 
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-Revatio solution for injection is for the treatment of adult patients ( ≥ 18 years) with pulmonary arterial hypertension who are currently prescribed oral Revatio and who are temporarily unable to take oral therapy, but are otherwise clinically and haemodynamically stable.
+Revatio solution for injection is for the treatment of adult patients (≥ 18 years) with pulmonary arterial hypertension who are currently prescribed oral Revatio and who are temporarily unable to take oral therapy, but are otherwise clinically and haemodynamically stable.
 
 Revatio (oral) is indicated for treatment of adult patients with pulmonary arterial hypertension classified as WHO functional class II and III, to improve exercise capacity. Efficacy has been shown in primary pulmonary hypertension and pulmonary hypertension associated with connective tissue disease.
 
@@ -699,13 +692,13 @@ downward dose adjustment to 10 mg once daily is recommended in case of co-admini
 
 ## Special populations
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 Dose adjustments are not required in elderly patients. Clinical efficacy as measured by 6-minute walk distance could be less in elderly patients.
 
 ## Renal impairment
 
-Initial dose adjustments are not required in patients with renal impairment, including severe renal impairment (creatinine clearance &lt; 30 ml/min ). A downward dose adjustment to 10 mg twice daily should be considered after a careful benefit-risk assessment only if therapy is not well-tolerated.
+Initial dose adjustments are not required in patients with renal impairment, including severe renal impairment (creatinine clearance &lt; 30 ml/min). A downward dose adjustment to 10 mg twice daily should be considered after a careful benefit-risk assessment only if therapy is not well-tolerated.
 
 ## Hepatic impairment
 
@@ -791,7 +784,7 @@ Caution is advised when sildenafil is administered to patients taking an alpha-b
 
 ## Bleeding disorders
 
-Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro . There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
+Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro. There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
 
 ## Vitamin K antagonists
 
@@ -841,11 +834,9 @@ Co-administration of bosentan (a moderate inducer of CYP3A4, CYP2C9 and possibly
 
 Efficacy of sildenafil should be closely monitored in patients using concomitant potent CYP3A4 inducers, such as carbamazepine, phenytoin, phenobarbital, St John's wort and rifampicine.
 
-Co-administration of the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg twice daily) with oral sildenafil (100 mg single dose) resulted in a 300 % (4-fold) increase in sildenafil Cmax and a 1,000 % (11-fold) increase in sildenafil plasma AUC. At 24 hours, the plasma levels of sildenafil were still approximately 200 ng/ml, compared to approximately 5 ng/ml
+Co-administration of the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg twice daily) with oral sildenafil (100 mg single dose) resulted in a 300 % (4-fold) increase in sildenafil Cmax and a 1,000 % (11-fold) increase in sildenafil plasma AUC. At 24 hours, the plasma levels of sildenafil were still approximately 200 ng/ml, compared to approximately 5 ng/ml when sildenafil was administered alone. This is consistent with ritonavir's marked effects on a broad range of P450 substrates. Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is contraindicated in pulmonary arterial hypertension patients (see section 4.3).
 
 <div style=\"page-break-after: always\"></div>
-
-when sildenafil was administered alone. This is consistent with ritonavir's marked effects on a broad range of P450 substrates. Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is contraindicated in pulmonary arterial hypertension patients (see section 4.3).
 
 Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1200 mg three times a day) with oral sildenafil (100 mg single dose) resulted in a 140 % increase in sildenafil Cmax and a 210 % increase in sildenafil AUC. Sildenafil had no effect on saquinavir pharmacokinetics. For dose recommendations, see section 4.2.
 
@@ -859,7 +850,7 @@ Grapefruit juice is a weak inhibitor of CYP3A4 gut wall metabolism and may give 
 
 Single doses of antacid (magnesium hydroxide/aluminium hydroxide) did not affect the oral bioavailability of sildenafil.
 
-Co-administration of oral contraceptives (ethinyloestradiol 30 µ g and levonorgestrel 150 µ g) did not affect the oral pharmacokinetics of sildenafil.
+Co-administration of oral contraceptives (ethinyloestradiol 30 µg and levonorgestrel 150 µg) did not affect the oral pharmacokinetics of sildenafil.
 
 Nicorandil is a hybrid of potassium channel activator and nitrate. Due to the nitrate component it has the potential to have serious interaction with sildenafil (see section 4.3).
 
@@ -867,7 +858,7 @@ Nicorandil is a hybrid of potassium channel activator and nitrate. Due to the ni
 
 ## In vitro studies
 
-Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 &gt; 150 µ M).
+Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 &gt; 150 µM).
 
 There are no data on the interaction of sildenafil and non-specific phosphodiesterase inhibitors such as theophylline or dipyridamole.
 
@@ -897,7 +888,7 @@ Consistent with its known effects on the nitric oxide/cGMP pathway (see section 
 
 Riociguat: Preclinical studies showed additive systemic blood pressure lowering effect when PDE5 inhibitors were combined with riociguat. In clinical studies, riociguat has been shown to augment the hypotensive effects of PDE5 inhibitors. There was no evidence of favourable clinical effect of the combination in the population studied. Concomitant use of riociguat with PDE5 inhibitors, including sildenafil, is contraindicated (see section 4.3).
 
-Oral sildenafil had no clinically significant impact on the plasma levels of oral contraceptives (ethinyloestradiol 30 µ g and levonorgestrel 150 µ g).
+Oral sildenafil had no clinically significant impact on the plasma levels of oral contraceptives (ethinyloestradiol 30 µg and levonorgestrel 150 µg).
 
 Addition of a single dose of sildenafil to sacubitril/valsartan at steady state in patients with hypertension was associated with a significantly greater blood pressure reduction compared to administration of sacubitril/valsartan alone. Therefore, caution should be exercised when sildenafil is initiated in patients treated with sacubitril/valsartan.
 
@@ -943,11 +934,9 @@ A 10 mg dose of Revatio solution for injection is predicted to provide total exp
 
 Study A1481262 was a single centre, single dose, open label study to assess the safety, tolerability and pharmacokinetics of a single intravenous dose of sildenafil (10 mg) administered as a bolus injection to patients with Pulmonary Arterial Hypertension (PAH) who were already receiving and stable on oral Revatio 20 mg three times per day.
 
-A total of 10 PAH subjects enrolled and completed the study. The mean postural changes in systolic and diastolic blood pressure over time were small (&lt; 10 mmHg) and returned towards baseline beyond 2 hours. No symptoms of hypotension were associated with these changes. The mean changes in heart rate were clinically insignificant. Two subjects experienced a total of 3 adverse reactions (flushing, flatulence and hot flush). There was one serious adverse reaction in a subject with severe ischaemic
+A total of 10 PAH subjects enrolled and completed the study. The mean postural changes in systolic and diastolic blood pressure over time were small (&lt; 10 mmHg) and returned towards baseline beyond 2 hours. No symptoms of hypotension were associated with these changes. The mean changes in heart rate were clinically insignificant. Two subjects experienced a total of 3 adverse reactions (flushing, flatulence and hot flush). There was one serious adverse reaction in a subject with severe ischaemic cardiomyopathy who experienced ventricular fibrillation and death 6 days post study. It was judged to be unrelated to the study medicinal product.
 
 <div style=\"page-break-after: always\"></div>
-
-cardiomyopathy who experienced ventricular fibrillation and death 6 days post study. It was judged to be unrelated to the study medicinal product.
 
 ## Oral administration
 
@@ -957,11 +946,11 @@ In a placebo-controlled study of Revatio as an adjunct to intravenous epoprosten
 
 In the two placebo-controlled oral Revatio studies adverse events were generally mild to moderate in severity. The most commonly reported adverse reactions that occurred (greater or equal to 10 %) on Revatio compared to placebo were headache, flushing, dyspepsia, diarrhoea and pain in extremity.
 
-In a study to assess the effects of different dose levels of sildenafil the safety data for sildenafil 20 mg TID (recommended dose) and for sildenafil 80 mg TID (4 times the recommended dose), were consistent with the established safety profile of sildenafil in previous adult PAH studies .
+In a study to assess the effects of different dose levels of sildenafil the safety data for sildenafil 20 mg TID (recommended dose) and for sildenafil 80 mg TID (4 times the recommended dose), were consistent with the established safety profile of sildenafil in previous adult PAH studies.
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions which occurred in &gt; 1 % of Revatio-treated patients and were more frequent (&gt; 1 % difference) on Revatio in the pivotal study or in the Revatio combined data set of both the placebo-controlled studies in pulmonary arterial hypertension, at oral doses of 20, 40 or 80 mg TID are listed in Table 1 below by class and frequency grouping (very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1000 to ≤ 1/100) and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Adverse reactions which occurred in &gt; 1 % of Revatio-treated patients and were more frequent (&gt; 1 % difference) on Revatio in the pivotal study or in the Revatio combined data set of both the placebo-controlled studies in pulmonary arterial hypertension, at oral doses of 20, 40 or 80 mg TID are listed in Table 1 below by class and frequency grouping (very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1000 to ≤ 1/100) and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Reports from post-marketing experience are included in italics.
 
@@ -971,8 +960,6 @@ Table 1: Adverse reactions from sildenafil placebo-controlled studies in PAH and
 |---------------------------------------------|-------------------------------------------------------------------------|
 | Infections and infestations Common          | cellulitis, influenza, bronchitis, sinusitis, rhinitis, gastroenteritis |
 | Blood and lymphatic system disorders Common | anaemia                                                                 |
-
-<div style=\"page-break-after: always\"></div>
 
 | Metabolism and nutrition disorders                   |                                                                                                                                 |
 |------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -1004,11 +991,14 @@ Table 1: Adverse reactions from sildenafil placebo-controlled studies in PAH and
 | Very common                                          | pain in extremity                                                                                                               |
 | Common                                               | myalgia, back pain                                                                                                              |
 | Renal and urinary disorders                          |                                                                                                                                 |
-| Uncommon Reproductive system and breast disorders    | haematuria                                                                                                                      |
+| Uncommon                                             | haematuria                                                                                                                      |
+| Reproductive system and breast disorders             |                                                                                                                                 |
 | Uncommon                                             | penile haemorrhage, haematospermia, gynaecomastia                                                                               |
 | Not known                                            | priapism, erection increased                                                                                                    |
 | General disorders and administration site conditions |                                                                                                                                 |
 | Common                                               | pyrexia                                                                                                                         |
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -1030,7 +1020,7 @@ Pharmacotherapeutic group: Urologicals, Drugs used in erectile dysfunction, ATC 
 
 ## Mechanism of action
 
-Sildenafil is a potent and selective inhibitor of cyclic guanosine monophosphate (cGMP) specific phosphodiesterase type 5 (PDE5), the enzyme that is responsible for degradation of cGMP. Apart from the presence of this enzyme in the corpus cavernosum of the penis, PDE5 is also present in the pulmonary vasculature . Sildenafil, therefore, increases cGMP within pulmonary vascular smooth muscle cells resulting in relaxation. In patients with pulmonary arterial hypertension this can lead to vasodilation of the pulmonary vascular bed and, to a lesser degree, vasodilatation in the systemic circulation.
+Sildenafil is a potent and selective inhibitor of cyclic guanosine monophosphate (cGMP) specific phosphodiesterase type 5 (PDE5), the enzyme that is responsible for degradation of cGMP. Apart from the presence of this enzyme in the corpus cavernosum of the penis, PDE5 is also present in the pulmonary vasculature. Sildenafil, therefore, increases cGMP within pulmonary vascular smooth muscle cells resulting in relaxation. In patients with pulmonary arterial hypertension this can lead to vasodilation of the pulmonary vascular bed and, to a lesser degree, vasodilatation in the systemic circulation.
 
 ## Pharmacodynamic effects
 
@@ -1042,11 +1032,9 @@ Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no c
 
 In a study of the hemodynamic effects of a single oral 100 mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (&gt; 70 % stenosis of at least one coronary artery), the mean resting systolic and diastolic blood pressures decreased by 7 % and 6 % respectively compared to baseline. Mean pulmonary systolic blood pressure decreased by 9 %. Sildenafil showed no effect on cardiac output, and did not impair blood flow through the stenosed coronary arteries.
 
-Mild and transient differences in colour discrimination (blue/green) were detected in some subjects using the Farnsworth-Munsell 100 hue test at 1 hour following a 100 mg dose, with no effects evident after 2 hours post-dose. The postulated mechanism for this change in colour discrimination is related
+Mild and transient differences in colour discrimination (blue/green) were detected in some subjects using the Farnsworth-Munsell 100 hue test at 1 hour following a 100 mg dose, with no effects evident after 2 hours post-dose. The postulated mechanism for this change in colour discrimination is related to inhibition of PDE6, which is involved in the phototransduction cascade of the retina. Sildenafil has no effect on visual acuity or contrast sensitivity. In a small size placebo-controlled study of patients with documented early age-related macular degeneration (n = 9), sildenafil (single dose, 100 mg) demonstrated no significant changes in visual tests conducted (visual acuity, Amsler grid, colour discrimination simulated traffic light, Humphrey perimeter and photostress).
 
 <div style=\"page-break-after: always\"></div>
-
-to inhibition of PDE6, which is involved in the phototransduction cascade of the retina. Sildenafil has no effect on visual acuity or contrast sensitivity. In a small size placebo-controlled study of patients with documented early age-related macular degeneration (n = 9), sildenafil (single dose, 100 mg) demonstrated no significant changes in visual tests conducted (visual acuity, Amsler grid, colour discrimination simulated traffic light, Humphrey perimeter and photostress).
 
 ## Clinical efficacy and safety
 
@@ -1062,11 +1050,9 @@ A randomised, double-blind, placebo-controlled study was conducted in 278 patien
 
 Sildenafil (or placebo) was added to patients' background therapy which could have included a combination of anticoagulation, digoxin, calcium channel blockers, diuretics or oxygen. The use of prostacyclin, prostacyclin analogues and endothelin receptor antagonists was not permitted as add-on therapy, and neither was arginine supplementation. Patients who previously failed bosentan therapy were excluded from the study.
 
-The primary efficacy endpoint was the change from baseline at week 12 in 6-minute walk distance (6MWD). A statistically significant increase in 6MWD was observed in all 3 sildenafil dose groups compared to those on placebo. Placebo corrected increases in 6MWD were 45 metres (p &lt; 0.0001), 46 metres (p &lt; 0.0001) and 50 metres (p &lt; 0.0001) for sildenafil 20 mg, 40 mg and 80 mg TID respectively. There was no significant difference in effect between sildenafil doses. For patients with a low baseline 6 MWD &lt; 325 m improved efficacy was observed with higher doses (placebo-corrected
+The primary efficacy endpoint was the change from baseline at week 12 in 6-minute walk distance (6MWD). A statistically significant increase in 6MWD was observed in all 3 sildenafil dose groups compared to those on placebo. Placebo corrected increases in 6MWD were 45 metres (p &lt; 0.0001), 46 metres (p &lt; 0.0001) and 50 metres (p &lt; 0.0001) for sildenafil 20 mg, 40 mg and 80 mg TID respectively. There was no significant difference in effect between sildenafil doses. For patients with a low baseline 6 MWD &lt; 325 m improved efficacy was observed with higher doses (placebo-corrected improvements of 58 metres, 65 metres and 87 metres for 20 mg, 40 mg and 80 mg doses TID, respectively).
 
 <div style=\"page-break-after: always\"></div>
-
-improvements of 58 metres, 65 metres and 87 metres for 20 mg, 40 mg and 80 mg doses TID, respectively).
 
 When analysed by WHO functional class, a statistically significant increase in 6MWD was observed in the 20 mg dose group. For class II and class III, placebo corrected increases of 49 metres (p = 0.0007) and 45 metres (p = 0.0031) were observed respectively.
 
@@ -1196,13 +1182,21 @@ One 20 ml vial contains 10 mg of sildenafil (as citrate). The recommended dose o
 
 Chemical and physical compatibility has been demonstrated with the following diluents:
 
-5 % glucose solution sodium chloride 9 mg/ml (0.9 %) solution Lactated Ringer's solution 5 % glucose/0.45 % sodium chloride solution 5 % glucose/lactated Ringer's solution 5 % glucose/20 mEq potassium chloride solution
+5 % glucose solution sodium chloride 9 mg/ml (0.9 %) solution Lactated Ringer's solution
+
+5 % glucose/0.45 % sodium chloride solution
+
+5 % glucose/lactated Ringer's solution
+
+5 % glucose/20 mEq potassium chloride solution
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
+
+Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1212,9 +1206,7 @@ EU/1/05/318/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 28 October 2005
-
-Date of latest renewal: 23 September 2010
+Date of first authorisation: 28 October 2005 Date of latest renewal: 23 September 2010
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1222,7 +1214,7 @@ Detailed information on this product is available on the website of the European
 
 <div style=\"page-break-after: always\"></div>
 
-## 1 . NAME OF THE MEDICINAL PRODUCT
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Revatio 10 mg/ml powder for oral suspension
 
@@ -1230,7 +1222,7 @@ Revatio 10 mg/ml powder for oral suspension
 
 After reconstitution, each ml of the oral suspension contains 10 mg of sildenafil (as citrate) One bottle of reconstituted oral suspension (112 ml) contains 1.12 g of sildenafil (as citrate)
 
-Excipient(s) with known effect
+## Excipient(s) with known effect
 
 Each ml of reconstituted oral suspension contains 250 mg sorbitol. Each ml of reconstituted oral suspension contains 1 mg sodium benzoate.
 
@@ -1274,13 +1266,13 @@ In general, any dose adjustment should be administered only after a careful bene
 
 ## Special populations
 
-## Elderly ( ≥ 65 years)
+## Elderly (≥ 65 years)
 
 Dose adjustments are not required in elderly patients. Clinical efficacy as measured by 6-minute walk distance could be less in elderly patients.
 
 ## Renal impairment
 
-Initial dose adjustments are not required in patients with renal impairment, including severe renal impairment (creatinine clearance &lt; 30 ml/min ). A downward dose adjustment to 20 mg twice daily should be considered after a careful benefit-risk assessment only if therapy is not well-tolerated.
+Initial dose adjustments are not required in patients with renal impairment, including severe renal impairment (creatinine clearance &lt; 30 ml/min). A downward dose adjustment to 20 mg twice daily should be considered after a careful benefit-risk assessment only if therapy is not well-tolerated.
 
 ## Hepatic impairment
 
@@ -1340,7 +1332,7 @@ The safety of sildenafil has not been studied in patients with known hereditary 
 
 ## Vasodilatory action
 
-When  prescribing  sildenafil,  physicians  should  carefully  consider  whether  patients  with  certain underlying conditions could be adversely affected by sildenafil's mild to moderate vasodilatory effects, for example patients with hypotension, patients with fluid depletion, severe left ventricular outflow obstruction or autonomic dysfunction (see section 4.4).
+When prescribing sildenafil, physicians should carefully consider whether patients with certain underlying conditions could be adversely affected by sildenafil's mild to moderate vasodilatory effects, for example patients with hypotension, patients with fluid depletion, severe left ventricular outflow obstruction or autonomic dysfunction (see section 4.4).
 
 ## Cardiovascular risk factors
 
@@ -1368,7 +1360,7 @@ Caution is advised when sildenafil is administered to patients taking an alpha-b
 
 ## Bleeding disorders
 
-Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro . There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
+Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro. There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
 
 ## Vitamin K antagonists
 
@@ -1416,11 +1408,9 @@ Population pharmacokinetic analysis of pulmonary arterial hypertension clinical 
 
 CYP3A4 inducers seemed to have a substantial impact on the pharmacokinetics of sildenafil in pulmonary arterial hypertension patients, which was confirmed in the in-vivo interaction study with CYP3A4 inducer bosentan.
 
-Co-administration of bosentan (a moderate inducer of CYP3A4, CYP2C9 and possibly of CYP2C19) 125 mg twice daily with sildenafil 80 mg three times a day (at steady state) concomitantly administered during 6 days in healthy volunteers resulted in a 63 % decrease of sildenafil AUC. A population pharmacokinetic analysis of sildenafil data from adult PAH patients in clinical trials including a 12 week study to assess the efficacy and safety of oral sildenafil 20 mg three times a day when added to a stable dose of bosentan (62.5 mg - 125 mg twice a day) indicated a decrease in
+Co-administration of bosentan (a moderate inducer of CYP3A4, CYP2C9 and possibly of CYP2C19) 125 mg twice daily with sildenafil 80 mg three times a day (at steady state) concomitantly administered during 6 days in healthy volunteers resulted in a 63 % decrease of sildenafil AUC. A population pharmacokinetic analysis of sildenafil data from adult PAH patients in clinical trials including a 12 week study to assess the efficacy and safety of oral sildenafil 20 mg three times a day when added to a stable dose of bosentan (62.5 mg - 125 mg twice a day) indicated a decrease in sildenafil exposure with bosentan co-administration, similar to that observed in healthy volunteers (see sections 4.4 and 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-sildenafil exposure with bosentan co-administration, similar to that observed in healthy volunteers (see sections 4.4 and 5.1).
 
 Efficacy of sildenafil should be closely monitored in patients using concomitant potent CYP3A4 inducers, such as carbamazepine, phenytoin, phenobarbital, St John's wort and rifampicine.
 
@@ -1438,7 +1428,7 @@ Grapefruit juice is a weak inhibitor of CYP3A4 gut wall metabolism and may give 
 
 Single doses of antacid (magnesium hydroxide/aluminium hydroxide) did not affect the bioavailability of sildenafil.
 
-Co-administration of oral contraceptives (ethinyloestradiol 30 µ g and levonorgestrel 150 µ g) did not affect the pharmacokinetics of sildenafil.
+Co-administration of oral contraceptives (ethinyloestradiol 30 µg and levonorgestrel 150 µg) did not affect the pharmacokinetics of sildenafil.
 
 Nicorandil is a hybrid of potassium channel activator and nitrate. Due to the nitrate component it has the potential to have serious interaction with sildenafil (see section 4.3).
 
@@ -1446,7 +1436,7 @@ Nicorandil is a hybrid of potassium channel activator and nitrate. Due to the ni
 
 ## In vitro studies
 
-Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 &gt; 150 µ M).
+Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 &gt; 150 µM).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1478,7 +1468,7 @@ Riociguat: Preclinical studies showed additive systemic blood pressure lowering 
 
 <div style=\"page-break-after: always\"></div>
 
-Sildenafil had no clinically significant impact on the plasma levels of oral contraceptives (ethinyloestradiol 30 µ g and levonorgestrel 150 µ g).
+Sildenafil had no clinically significant impact on the plasma levels of oral contraceptives (ethinyloestradiol 30 µg and levonorgestrel 150 µg).
 
 Addition of a single dose of sildenafil to sacubitril/valsartan at steady state in patients with hypertension was associated with a significantly greater blood pressure reduction compared to administration of sacubitril/valsartan alone. Therefore, caution should be exercised when sildenafil is initiated in patients treated with sacubitril/valsartan.
 
@@ -1524,11 +1514,11 @@ In a placebo-controlled study of Revatio as an adjunct to intravenous epoprosten
 
 In the two placebo-controlled studies adverse events were generally mild to moderate in severity. The most commonly reported adverse reactions that occurred (greater or equal to 10 %) on Revatio compared to placebo were headache, flushing, dyspepsia, diarrhoea and pain in extremity.
 
-In a study to assess the effects of different dose levels of sildenafil the safety data for sildenafil 20 mg TID (recommended dose) and for sildenafil 80 mg TID (4 times the recommended dose), were consistent with the established safety profile of sildenafil in previous adult PAH studies .
+In a study to assess the effects of different dose levels of sildenafil the safety data for sildenafil 20 mg TID (recommended dose) and for sildenafil 80 mg TID (4 times the recommended dose), were consistent with the established safety profile of sildenafil in previous adult PAH studies.
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions which occurred in &gt; 1 % of Revatio-treated patients and were more frequent (&gt; 1 % difference) on Revatio in the pivotal study or in the Revatio combined data set of both the placebo-controlled studies in pulmonary arterial hypertension,, at doses of 20, 40 or 80 mg TID are listed in Table 1 below by class and frequency grouping (very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1000 to &lt; 1/100) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions which occurred in &gt; 1 % of Revatio-treated patients and were more frequent (&gt; 1 % difference) on Revatio in the pivotal study or in the Revatio combined data set of both the placebo-controlled studies in pulmonary arterial hypertension,, at doses of 20, 40 or 80 mg TID are listed in Table 1 below by class and frequency grouping (very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1000 to &lt; 1/100) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Reports from post-marketing experience are included in italics.
 
@@ -1540,33 +1530,32 @@ Table 1: Adverse reactions from sildenafil placebo-controlled studies in PAH and
 
 <div style=\"page-break-after: always\"></div>
 
-| Uncommon                                             | visual acuity reduced, diplopia, abnormal sensation in eye                                                    |
-|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Not known                                            | Non-arteritic anterior ischaemic optic neuropathy (NAION)*, Retinal vascular occlusion*, Visual field defect* |
-| Ear and labyrinth disorders                          |                                                                                                               |
-| Common                                               | vertigo                                                                                                       |
-| Not known                                            | sudden hearing loss                                                                                           |
-| Vascular disorders                                   |                                                                                                               |
-| Very common                                          | flushing                                                                                                      |
-| Not known                                            | hypotension                                                                                                   |
-| Respiratory, thoracic and mediastinal disorders      |                                                                                                               |
-| Common                                               | epistaxis, cough, nasal congestion                                                                            |
-| Gastrointestinal disorders                           |                                                                                                               |
-| Very common Common                                   | diarrhoea, dyspepsia gastritis, gastrooesophageal reflux                                                      |
-| Skin and subcutaneous tissue disorders               |                                                                                                               |
-| Common                                               | alopecia, erythema, night sweats                                                                              |
-| Not known                                            | rash                                                                                                          |
-| Musculoskeletal and connective tissue disorders      | pain in                                                                                                       |
-| Common                                               |                                                                                                               |
-| Very common                                          | extremity                                                                                                     |
-|                                                      | myalgia, back pain                                                                                            |
-| Renal and urinary disorders                          |                                                                                                               |
-| Uncommon                                             | haematuria                                                                                                    |
-| Reproductive system and breast disorders             |                                                                                                               |
-| Uncommon                                             | penile haemorrhage, haematospermia, gynaecomastia                                                             |
-| Not known                                            | priapism, erection increased                                                                                  |
-| General disorders and administration site conditions |                                                                                                               |
-| Common                                               | pyrexia                                                                                                       |
+| Uncommon                                                  | visual acuity reduced, diplopia, abnormal sensation in eye                                                    |
+|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Not known                                                 | Non-arteritic anterior ischaemic optic neuropathy (NAION)*, Retinal vascular occlusion*, Visual field defect* |
+| Ear and labyrinth disorders                               |                                                                                                               |
+| Common                                                    | vertigo                                                                                                       |
+| Not known                                                 | sudden hearing loss                                                                                           |
+| Vascular disorders                                        |                                                                                                               |
+| Very common                                               | flushing                                                                                                      |
+| Not known                                                 | hypotension                                                                                                   |
+| Respiratory, thoracic and mediastinal disorders           |                                                                                                               |
+| Common                                                    | epistaxis, cough, nasal congestion                                                                            |
+| Gastrointestinal disorders                                |                                                                                                               |
+| Very common                                               | diarrhoea, dyspepsia                                                                                          |
+| Common                                                    | gastritis, gastrooesophageal reflux disease, haemorrhoids, abdominal distension, dry mouth                    |
+| Skin and subcutaneous tissue disorders                    |                                                                                                               |
+| Common                                                    | alopecia, erythema, night sweats                                                                              |
+| Not known Musculoskeletal and connective tissue disorders | rash                                                                                                          |
+| Very common                                               | pain in extremity                                                                                             |
+| Common                                                    | myalgia, back pain                                                                                            |
+| Renal and urinary disorders                               |                                                                                                               |
+| Uncommon                                                  | haematuria                                                                                                    |
+| Reproductive system and breast disorders                  |                                                                                                               |
+| Uncommon                                                  | penile haemorrhage, haematospermia, gynaecomastia                                                             |
+| Not known                                                 | priapism, erection increased                                                                                  |
+| General disorders and administration site conditions      |                                                                                                               |
+| Common                                                    | pyrexia                                                                                                       |
 
 ## Paediatric population
 
@@ -1602,19 +1591,19 @@ Pharmacotherapeutic group: Urologicals, Drugs used in erectile dysfunction, ATC 
 
 ## Mechanism of action
 
-Sildenafil is a potent and selective inhibitor of cyclic guanosine monophosphate (cGMP) specific phosphodiesterase type 5 (PDE5), the enzyme that is responsible for degradation of cGMP. Apart from the presence of this enzyme in the corpus cavernosum of the penis, PDE5 is also present in the pulmonary vasculature . Sildenafil, therefore, increases cGMP within pulmonary vascular smooth muscle cells resulting in relaxation. In patients with pulmonary arterial hypertension this can lead to vasodilation of the pulmonary vascular bed and, to a lesser degree, vasodilatation in the systemic circulation.
+Sildenafil is a potent and selective inhibitor of cyclic guanosine monophosphate (cGMP) specific phosphodiesterase type 5 (PDE5), the enzyme that is responsible for degradation of cGMP. Apart from the presence of this enzyme in the corpus cavernosum of the penis, PDE5 is also present in the pulmonary vasculature. Sildenafil, therefore, increases cGMP within pulmonary vascular smooth muscle cells resulting in relaxation. In patients with pulmonary arterial hypertension this can lead to vasodilation of the pulmonary vascular bed and, to a lesser degree, vasodilatation in the systemic circulation.
 
 ## Pharmacodynamic effects
 
-Studies in vitro have shown that sildenafil is selective for PDE5. Its effect is more potent on PDE5 than on other known phosphodiesterases. There is a10-fold selectivity over PDE6 which is involved in the phototransduction pathway in the retina. There is an 80-fold selectivity over PDE1, and over 700-fold over PDE 2, 3, 4, 7, 8, 9, 10 and 11. In particular, sildenafil has greater than 4,000-fold
+Studies in vitro have shown that sildenafil is selective for PDE5. Its effect is more potent on PDE5 than on other known phosphodiesterases. There is a10-fold selectivity over PDE6 which is involved in the phototransduction pathway in the retina. There is an 80-fold selectivity over PDE1, and over 700-fold over PDE 2, 3, 4, 7, 8, 9, 10 and 11. In particular, sildenafil has greater than 4,000-fold selectivity for PDE5 over PDE3, the cAMP-specific phosphodiesterase isoform involved in the control of cardiac contractility.
 
 <div style=\"page-break-after: always\"></div>
 
-selectivity for PDE5 over PDE3, the cAMP-specific phosphodiesterase isoform involved in the control of cardiac contractility.
-
 Sildenafil causes mild and transient decreases in systemic blood pressure which, in the majority of cases, do not translate into clinical effects. After chronic dosing of 80 mg three times a day to patients with systemic hypertension the mean change from baseline in systolic and diastolic blood pressure was a decrease of 9.4 mm Hg and 9.1 mm Hg respectively. After chronic dosing of 80 mg three times a day to patients with pulmonary arterial hypertension lesser effects in blood pressure reduction were observed (a reduction in both systolic and diastolic pressure of 2 mm Hg). At the recommended dose of 20 mg three times a day no reductions in systolic or diastolic pressure were seen.
 
-Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on ECG. After chronic dosing of 80 mg three times a day to patients with pulmonary arterial hypertension no clinically relevant effects on the ECG were reported. In a study of the hemodynamic effects of a single oral 100 mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (&gt; 70 % stenosis of at least one coronary artery), the mean resting systolic and diastolic blood pressures decreased by 7 % and 6 % respectively compared to baseline. Mean pulmonary systolic blood pressure decreased by 9 %. Sildenafil showed no effect on cardiac output, and did not impair blood flow through the stenosed coronary arteries.
+Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on ECG. After chronic dosing of 80 mg three times a day to patients with pulmonary arterial hypertension no clinically relevant effects on the ECG were reported.
+
+In a study of the hemodynamic effects of a single oral 100 mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (&gt; 70 % stenosis of at least one coronary artery), the mean resting systolic and diastolic blood pressures decreased by 7 % and 6 % respectively compared to baseline. Mean pulmonary systolic blood pressure decreased by 9 %. Sildenafil showed no effect on cardiac output, and did not impair blood flow through the stenosed coronary arteries.
 
 Mild and transient differences in colour discrimination (blue/green) were detected in some subjects using the Farnsworth-Munsell 100 hue test at 1 hour following a 100 mg dose, with no effects evident after 2 hours post-dose. The postulated mechanism for this change in colour discrimination is related to inhibition of PDE6, which is involved in the phototransduction cascade of the retina. Sildenafil has no effect on visual acuity or contrast sensitivity. In a small size placebo-controlled study of patients with documented early age-related macular degeneration (n = 9), sildenafil (single dose, 100 mg) demonstrated no significant changes in visual tests conducted (visual acuity, Amsler grid, colour discrimination simulated traffic light, Humphrey perimeter and photostress).
 
@@ -1626,11 +1615,9 @@ A randomised, double-blind, placebo-controlled study was conducted in 278 patien
 
 Sildenafil (or placebo) was added to patients' background therapy which could have included a combination of anticoagulation, digoxin, calcium channel blockers, diuretics or oxygen. The use of prostacyclin, prostacyclin analogues and endothelin receptor antagonists was not permitted as add-on therapy, and neither was arginine supplementation. Patients who previously failed bosentan therapy were excluded from the study.
 
-The primary efficacy endpoint was the change from baseline at week 12 in 6-minute walk distance (6MWD). A statistically significant increase in 6MWD was observed in all 3 sildenafil dose groups compared to those on placebo. Placebo corrected increases in 6MWD were 45 metres (p &lt; 0.0001), 46 metres (p &lt; 0.0001) and 50 metres (p &lt; 0.0001) for sildenafil 20 mg, 40 mg and 80 mg TID,
+The primary efficacy endpoint was the change from baseline at week 12 in 6-minute walk distance (6MWD). A statistically significant increase in 6MWD was observed in all 3 sildenafil dose groups compared to those on placebo. Placebo corrected increases in 6MWD were 45 metres (p &lt; 0.0001), 46 metres (p &lt; 0.0001) and 50 metres (p &lt; 0.0001) for sildenafil 20 mg, 40 mg and 80 mg TID, respectively. There was no significant difference in effect between sildenafil doses. For patients with a baseline 6MWD &lt; 325 m improved efficacy was observed with higher doses (placebo-corrected improvements of 58 metres, 65 metres and 87 metres for 20 mg, 40 mg and 80 mg doses TID, respectively).
 
 <div style=\"page-break-after: always\"></div>
-
-respectively. There was no significant difference in effect between sildenafil doses. For patients with a baseline 6MWD &lt; 325 m improved efficacy was observed with higher doses (placebo-corrected improvements of 58 metres, 65 metres and 87 metres for 20 mg, 40 mg and 80 mg doses TID, respectively).
 
 When analysed by WHO functional class, a statistically significant increase in 6MWD was observed in the 20 mg dose group. For class II and class III, placebo corrected increases of 49 metres (p = 0.0007) and 45 metres (p = 0.0031) were observed respectively.
 
@@ -1668,13 +1655,11 @@ Overall, the adverse events were generally similar between the two treatment gro
 
 ## Effects on mortality in adults with PAH
 
-A study to investigate the effects of different dose levels of sildenafil on mortality in adults with PAH was conducted following the observation of a higher risk of mortality in paediatric patients taking a high dose of sildenafil TID, based on body weight, compared to those taking a lower dose in the long-term extension of the paediatric clinical trial (see below Paediatric population Pulmonary arterial hypertension - Long term extension data).
+A study to investigate the effects of different dose levels of sildenafil on mortality in adults with PAH was conducted following the observation of a higher risk of mortality in paediatric patients taking a high dose of sildenafil TID, based on body weight, compared to those taking a lower dose in the long-term extension of the paediatric clinical trial (see below Paediatric population - Pulmonary arterial hypertension - Long term extension data).
 
-The study was a randomized, double-blind, parallel-group study in 385 adults with PAH. Patients were randomly assigned 1:1:1 to one of three dosage groups (5 mg TID (4 times lower than the recommended dose), 20 mg TID (recommended dose) and 80 mg TID (4 times the recommended dose)). In total, the majority of subjects were PAH treatment naïve (83.4%). For most subjects the etiology of PAH was idiopathic (71.7%). The most common WHO Functional Class was Class III (57.7% of subjects). All three treatment groups were well balanced with respect to baseline
+The study was a randomized, double-blind, parallel-group study in 385 adults with PAH. Patients were randomly assigned 1:1:1 to one of three dosage groups (5 mg TID (4 times lower than the recommended dose), 20 mg TID (recommended dose) and 80 mg TID (4 times the recommended dose)). In total, the majority of subjects were PAH treatment naïve (83.4%). For most subjects the etiology of PAH was idiopathic (71.7%). The most common WHO Functional Class was Class III (57.7% of subjects). All three treatment groups were well balanced with respect to baseline demographics of strata history of PAH-treatment and etiology of PAH, as well as the WHO Functional Class categories.
 
 <div style=\"page-break-after: always\"></div>
-
-demographics of strata history of PAH-treatment and etiology of PAH, as well as the WHO Functional Class categories.
 
 The mortality rates were 26.4% (n=34) for the 5 mg TID dose, 19.5% (n=25) for the 20 mg TID dose and 14.8% (n=19) with the 80 mg TID dose.
 
@@ -1684,7 +1669,7 @@ The mortality rates were 26.4% (n=34) for the 5 mg TID dose, 19.5% (n=25) for th
 
 A total of 234 subjects aged 1 to 17 years were treated in a randomized, double-blind, multi-centre, placebo controlled parallel group, dose ranging study. Subjects (38 % male and 62 % female) had a body weight ≥ 8 kg, and had primary pulmonary hypertension (PPH) [33 %], or PAH secondary to congenital heart disease [systemic-to-pulmonary shunt 37 %, surgical repair 30 %]. In this trial, 63 of 234 (27 %) patients were &lt; 7 years old (sildenafil low dose = 2; medium dose = 17; high dose = 28; placebo = 16) and 171 of 234 (73 %) patients were 7 years or older (sildenafil low dose = 40; medium dose = 38; and high dose = 49; placebo = 44). Most subjects were WHO Functional Class I (75/234, 32 %) or II (120/234, 51 %) at baseline; fewer patients were Class III (35/234, 15 %) or IV (1/234, 0.4 %); for a few patients (3/234, 1.3 %), the WHO Functional Class was unknown.
 
-Patients were naïve for specific PAH therapy and th e use of prostacyclin, prostacyclin analogues and endothelin receptor antagonists was not permitted in the study, and neither was arginine supplementation, nitrates, alpha-blockers and potent CYP450 3A4 inhibitors.
+Patients were naïve for specific PAH therapy and the use of prostacyclin, prostacyclin analogues and endothelin receptor antagonists was not permitted in the study, and neither was arginine supplementation, nitrates, alpha-blockers and potent CYP450 3A4 inhibitors.
 
 The primary objective of the study was to assess the efficacy of 16 weeks of chronic treatment with oral sildenafil in paediatric subjects to improve exercise capacity as measured by the Cardiopulmonary Exercise Test (CPET) in subjects who were developmentally able to perform the test, n = 115). Secondary endpoints included haemodynamic monitoring, symptom assessment, WHO functional class, change in background treatment, and quality of life measurements.
 
@@ -1696,13 +1681,12 @@ The primary endpoint was the placebo-corrected percentage change in peak VO2 fro
 
 Table 2: Placebo corrected % change from baseline in peak VO2 by active treatment group
 
-| Treatment group      | Estimated difference   | 95 %Confidence interval   |
-|----------------------|------------------------|---------------------------|
-| Low dose (n=24)      | 3.81                   | -6.11, 13.73              |
-| Medium dose (n=26)   | 11.33                  | 1.72, 20.94               |
-| High dose (n=27)     | 7.98                   | -1.64, 17.60              |
-| Combined dose groups | 7.71                   | -0.19, 15.60              |
-| (n=77)               | (p = 0.056)            |                           |
+| Treatment group             | Estimated difference   | 95 % Confidence interval   |
+|-----------------------------|------------------------|----------------------------|
+| Low dose (n=24)             | 3.81                   | -6.11, 13.73               |
+| Medium dose (n=26)          | 11.33                  | 1.72, 20.94                |
+| High dose (n=27)            | 7.98                   | -1.64, 17.60               |
+| Combined dose groups (n=77) | 7.71 (p = 0.056)       | -0.19, 15.60               |
 
 n=29 for placebo group
 
@@ -1792,11 +1776,11 @@ There were no adverse reactions, with possible relevance to clinical use, seen i
 
 ## 6.1 List of excipients
 
-## Powder for oral suspension:
+Powder for oral suspension: Sorbitol (E420) Citric acid anhydrous Sucralose Sodium citrate (E331) Xanthan gum Titanium dioxide (E171) Sodium benzoate (E211) Silica, colloidal anhydrous
 
-Sorbitol (E420) Citric acid anhydrous Sucralose Sodium citrate (E331) Xanthan gum Titanium dioxide (E171) Sodium benzoate (E211) Silica, colloidal anhydrous
+Grape flavour: Maltodextrin Grape juice concentrate Gum acacia Pineapple juice concentrate Citric acid anhydrous
 
-Grape flavour: Maltodextrin Grape juice concentrate Gum acacia Pineapple juice concentrate Citric acid anhydrous Natural flavouring
+Natural flavouring
 
 ## 6.2 Incompatibilities
 
@@ -1816,7 +1800,7 @@ Powder Do not store above 30°C. Store in the original package in order to prote
 
 ## Oral suspension
 
-Store below 30°C or in refrigerator (2°C to 8°C). D o not freeze.
+Store below 30°C or in refrigerator (2°C to 8°C). Do not freeze.
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
@@ -1844,6 +1828,8 @@ Note: A total volume of 90 ml (3 x 30 ml) of water irrespective of the dose to b
 2. Remove the cap.
 3. Measure 30 ml of water by filling the measuring cup (included in the carton) to the marked line then pour the water into the bottle. Using the cup measure another 30 ml of water and add this to the bottle (figure 1).
 
+figure 1
+
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
@@ -1859,12 +1845,6 @@ Note: A total volume of 90 ml (3 x 30 ml) of water irrespective of the dose to b
 figure 3
 
 <!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-figure 4
 
 <!-- image -->
 
@@ -1889,17 +1869,19 @@ figure 5
 
 45
 
-40
+15
 
-20
+40
 
 35
 
-25
-
 30
 
+25
+
 figure 6
+
+20
 
 <!-- image -->
 
@@ -1940,7 +1922,9 @@ Once reconstituted, the oral suspension should only be administered using the or
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
+
+Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1975,9 +1959,7 @@ Name and address of the manufacturer(s) responsible for batch release
 
 Fareva Amboise Zone Industrielle 29 route des Industries 37530 Pocé-sur-Cisse France
 
-20 mg film-coated tablets and 10 mg/ml powder for oral suspension
-
-Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
+20 mg film-coated tablets and 10 mg/ml powder for oral suspension Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -1999,8 +1981,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 - At the request of the European Medicine Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2012,9 +1994,11 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER PACKAGING/CARTON
+## OUTER PACKAGING/CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2035,7 +2019,6 @@ See leaflet for further information.
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 90 film-coated tablets
-
 - 90 x 1 film-coated tablets
 
 300 film-coated tablets
@@ -2054,75 +2037,75 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-<div style=\"page-break-after: always\"></div>
-
 EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Do not store above 30°C. Store in the original package in order to protect from moisture.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR  WASTE  MATERIALS  DERIVED  FROM  SUCH  MEDICINAL  PRODUCTS,  IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Upjohn EESV
-
-Rivium Westlaan 142
-
-2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-EU/1/05/318/001
-
-EU/1/05/318/004
+EU/1/05/318/001 EU/1/05/318/004
 
 EU/1/05/318/005
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Batch
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Revatio 20 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS   |
-|--------------------------------------------|
-| IMMEDIATE PACKAGING/BLISTER                |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
+|---------------------------------------------|
+| IMMEDIATE PACKAGING/BLISTER                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Revatio 20 mg tablets sildenafil
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2143,77 +2126,96 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Revatio 0.8 mg/ml solution for injection sildenafil
+Revatio 0.8 mg/ml solution for injection
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+sildenafil
+
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each ml of solution contains 0.8 mg of sildenafil (as citrate). Each 20 ml vial contains 12.5 ml (10 mg sildenafil, as citrate).
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 Contains glucose and water for injections.
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
 Solution for injection
 
 1 vial 10 mg/12.5 ml
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
-Read the package leaflet before use. Intravenous use.
+Read the package leaflet before use.
+
+Intravenous use.
 
 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR  WASTE  MATERIALS  DERIVED  FROM  SUCH  MEDICINAL  PRODUCTS,  IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/05/318/002
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Batch
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Revatio 0.8 mg/ml
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2262,12 +2264,10 @@ EXP
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
-
-Netherlands
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen Netherlands
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -2282,8 +2282,8 @@ Batch
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -2291,14 +2291,14 @@ Batch
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2312,13 +2312,11 @@ Each ml of the reconstituted suspension contains 10 mg of sildenafil (as citrate
 
 ## 3. LIST OF EXCIPIENTS
 
-Other ingredients include sorbitol (E420) and sodium benzoate (E211).
-
-See leaflet for further information.
+Other ingredients include sorbitol (E420) and sodium benzoate (E211). See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder for oral suspension
+## Powder for oral suspension
 
 1 bottle
 
@@ -2326,17 +2324,13 @@ Powder for oral suspension
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Shake bottle well before use.
-
-Read the package leaflet before use.
-
-Oral use.
+Shake bottle well before use. Read the package leaflet before use. Oral use.
 
 Reconstitution instructions:
 
 Tap the bottle to release the powder and remove the cap.
 
-Add a total of 90 ml of water (3 x 30 ml) strictly following the package leaflet , ensuring the bottle is shaken vigorously after adding 60 ml and the remaining 30 ml. Remove the cap again, press the bottle adaptor into the neck of the bottle. Note: Expires 30 days after reconstitution.
+Add a total of 90 ml of water (3 x 30 ml) strictly following the package leaflet, ensuring the bottle is shaken vigorously after adding 60 ml and the remaining 30 ml. Remove the cap again, press the bottle adaptor into the neck of the bottle. Note: Expires 30 days after reconstitution.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2356,11 +2350,13 @@ Powder: Do not store above 30°C. Store in the original package in order to prot
 
 After reconstitution: Store below 30°C or in refrigerator at 2°C to 8°C. Do not freeze. Discard any remaining oral suspension 30 days after reconstitution.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR  WASTE  MATERIALS  DERIVED  FROM  SUCH  MEDICINAL  PRODUCTS,  IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
+
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2384,8 +2380,8 @@ Revatio 10 mg/ml
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2393,7 +2389,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-BOTTLE
+## BOTTLE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2401,13 +2397,13 @@ Revatio 10 mg/ml powder for oral suspension sildenafil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Once reconstituted one bottle contains 1.12 g of sildenafil (as citrate) with a final volume of 112 ml. Each ml of reconstituted suspension contains 10 mg of sildenafil (as citrate).
+Once reconstituted one bottle contains 1.12 g of sildenafil (as citrate) with a final volume of 112 ml.
+
+Each ml of reconstituted suspension contains 10 mg of sildenafil (as citrate).
 
 ## 3. LIST OF EXCIPIENTS
 
-Other ingredients include sorbitol (E420) and sodium benzoate (E211).
-
-See leaflet for further information.
+Other ingredients include sorbitol (E420) and sodium benzoate (E211). See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2415,23 +2411,21 @@ Powder for oral suspension
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Shake bottle well before use.
-
-Read the package leaflet before use.
-
-Oral use.
+Shake bottle well before use. Read the package leaflet before use. Oral use.
 
 Reconstitution instructions:
 
 Tap the bottle to release the powder and remove the cap.
 
-Add a total of 90 ml of water (3 x 30 ml) strictly following the package leaflet , ensuring the bottle is shaken vigorously after adding 60 ml and the remaining 30 ml. Remove the cap again, press the bottle adaptor into the neck of the bottle. Note: Expires 30 days after reconstitution.
+Add a total of 90 ml of water (3 x 30 ml) strictly following the package leaflet, ensuring the bottle is shaken vigorously after adding 60 ml and the remaining 30 ml. Remove the cap again, press the bottle adaptor into the neck of the bottle. Note: Expires 30 days after reconstitution.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. EXPIRY DATE
 
@@ -2443,11 +2437,11 @@ Powder: Do not store above 30°C. Store in the original package in order to prot
 
 After reconstitution: Store below 30°C or in refrigerator at 2°C to 8°C. Do not freeze. Discard any remaining suspension 30 days after reconstitution.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR  WASTE  MATERIALS  DERIVED  FROM  SUCH  MEDICINAL  PRODUCTS,  IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME  OF  THE  MARKETING  AUTHORISATION  HOLDER  OR  MARKETING AUTHORISATION HOLDER LOGO
+## 11. NAME OF THE MARKETING AUTHORISATION HOLDER OR MARKETING AUTHORISATION HOLDER LOGO
 
-Upjohn
+Viatris
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2460,17 +2454,16 @@ Batch
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+80
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2484,10 +2477,10 @@ Batch
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2508,30 +2501,30 @@ Revatio brings down blood pressure in the lungs by widening the blood vessels in
 
 ## Do not take Revatio
 
-- -if you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
-- -if you are taking medicines containing nitrates, or nitric oxide donors such as amyl nitrate ('poppers'). These medicines are often given for relief of chest pain (or 'angina pectoris'). Revatio can cause a serious increase in the effects of these medicines. Tell your doctor if you are taking any of these medicines. If you are not certain, ask your doctor or pharmacist.
-- -if you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Revatio have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
-- -if you have recently had a stroke, a heart attack or if you have severe liver disease or very low blood pressure (&lt;90/50 mmHg).
-- -if you are taking a medicine to treat fungal infections such as ketoconazole or itraconazole or medicines containing ritonavir (for HIV).
+- if you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
+- if you are taking medicines containing nitrates, or nitric oxide donors such as amyl nitrate (\"poppers\"). These medicines are often given for relief of chest pain (or \"angina pectoris\"). Revatio can cause a serious increase in the effects of these medicines. Tell your doctor if you are taking any of these medicines. If you are not certain, ask your doctor or pharmacist.
+- if you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Revatio have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
+- if you have recently had a stroke, a heart attack or if you have severe liver disease or very low blood pressure (&lt;90/50 mmHg).
+- if you are taking a medicine to treat fungal infections such as ketoconazole or itraconazole or medicines containing ritonavir (for HIV).
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you have ever had loss of vision because of a problem with blood flow to the nerve in the eye called non-arteritic anterior ischaemic optic neuropathy (NAION).
+- if you have ever had loss of vision because of a problem with blood flow to the nerve in the eye called non-arteritic anterior ischaemic optic neuropathy (NAION).
 
 ## Warnings and precautions
 
 Talk to your doctor before taking Revatio if you:
 
-- -have a disease due to a blocked or narrow vein in the lungs rather than a blocked or narrow artery.
-- -have a severe heart problem.
-- -have a problem with the pumping chambers of your heart
-- -have high blood pressure in the blood vessels in the lungs.
-- -have low blood pressure at rest.
-- -lose a large amount of body fluids (dehydration) which can occur when you sweat a lot or do not drink enough liquids. This can happen if you are sick with a fever, vomiting, or diarrhoea.
-- -have a rare inherited eye disease ( retinitis pigmentosa ).
-- -have an abnormality of red blood cells (sickle cell anaemia), cancer of blood cells (leukaemia), cancer of bone marrow (multiple myeloma), or any disease or deformity of the penis.
-- -currently have a stomach ulcer, a bleeding disorder (such as haemophilia) or problems with nose bleeds.
-- -take medicines for erectile dysfunction.
+- have a disease due to a blocked or narrow vein in the lungs rather than a blocked or narrow artery.
+- have a severe heart problem.
+- have a problem with the pumping chambers of your heart
+- have high blood pressure in the blood vessels in the lungs.
+- have low blood pressure at rest.
+- lose a large amount of body fluids (dehydration) which can occur when you sweat a lot or do not drink enough liquids. This can happen if you are sick with a fever, vomiting, or diarrhoea.
+- have a rare inherited eye disease (retinitis pigmentosa).
+- have an abnormality of red blood cells (sickle cell anaemia), cancer of blood cells (leukaemia), cancer of bone marrow (multiple myeloma), or any disease or deformity of the penis.
+- currently have a stomach ulcer, a bleeding disorder (such as haemophilia) or problems with nose bleeds.
+- take medicines for erectile dysfunction.
 
 When used to treat male erectile dysfunction (ED), the following visual side effects have been reported with PDE5 inhibitors, including sildenafil at an unknown frequency; partial, sudden, temporary, or permanent decrease or loss of vision in one or both eyes.
 
@@ -2551,9 +2544,9 @@ Revatio should not be given to children below 1 year of age.
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
-- Medicines containing nitrates, or nitric oxide donors such as amyl nitrate ('poppers'). These medicines are often given for relief of angina pectoris or 'chest pain' (see section 2. Before you take Revatio)
-- Therapies for pulmonary hypertension (e.g. bosentan, iloprost)
+- Medicines containing nitrates, or nitric oxide donors such as amyl nitrate (\"poppers\"). These medicines are often given for relief of angina pectoris or \"chest pain\" (see section 2. Before you take Revatio)
 - Tell your doctor or pharmacist if you are already taking riociguat.
+- Therapies for pulmonary hypertension (e.g. bosentan, iloprost)
 - Medicines containing St. John's Wort (herbal medicinal product), rifampicin (used to treat bacterial infections), carbamazepine, phenytoin and phenobarbital (used, among others, to treat epilepsy)
 - Blood thinning medicines (for example warfarin) although these did not result in any side effect.
 - Medicines containing erythromycin, clarithromycin, telithromycin (these are antibiotics used to treat certain bacterial infections), saquinavir (for HIV) or nefazodone (for mental depression), as your dose may need to be adjusted.
@@ -2628,7 +2621,7 @@ If you experience any of the following side effects you should stop taking Revat
 
 Side effects reported very commonly (may affect more than 1 in 10 people) were headache, facial flushing, indigestion, diarrhoea and pain in the arms or legs.
 
-Side effects reported commonly (may affect up to 1 in 10 people) included: infection under the skin, flu-like symptoms, inflammation of the sinuses, reduced number of red blood cells (anaemia), fluid retention, difficulty sleeping, anxiety, migraine, shaking, 'pins and needles'-like sensation, burning sensation, reduced sense of touch, bleeding at the back of the eye, effects on vision, blurred vision and light sensitivity, effects on colour vision, eye irritation, bloodshot eyes /red eyes, vertigo, bronchitis, nosebleed, runny nose, cough, stuffy nose, stomach inflammation, gastroenteritis, heartburn, piles, abdominal distension, dry mouth, hair loss, redness of the skin, night sweats, muscle aches, back pain and increased body temperature.
+Side effects reported commonly (may affect up to 1 in 10 people) included: infection under the skin, flu-like symptoms, inflammation of the sinuses, reduced number of red blood cells (anaemia), fluid retention, difficulty sleeping, anxiety, migraine, shaking, \"pins and needles\"-like sensation, burning sensation, reduced sense of touch, bleeding at the back of the eye, effects on vision, blurred vision and light sensitivity, effects on colour vision, eye irritation, bloodshot eyes /red eyes, vertigo, bronchitis, nosebleed, runny nose, cough, stuffy nose, stomach inflammation, gastroenteritis, heartburn, piles, abdominal distension, dry mouth, hair loss, redness of the skin, night sweats, muscle aches, back pain and increased body temperature.
 
 Side effects reported uncommonly (may affect 1 in 100 people) included: reduced sharpness of vision, double vision, abnormal sensation in the eye, penile bleeding, presence of blood in semen and/or urine, and breast enlargement in men.
 
@@ -2664,20 +2657,20 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Revatio contains
 
-- -The active substance is sildenafil. Each tablet contains 20 mg of sildenafil (as the citrate).
-- -The other ingredients are:
+- The active substance is sildenafil. Each tablet contains 20 mg of sildenafil (as the citrate).
+- The other ingredients are:
 
-Tablet core: microcrystalline cellulose, calcium hydrogen phosphate (anhydrous), croscarmellose sodium (see section 2 'Revatio contains sodium'), magnesium stearate. Film coat: hypromellose, titanium dioxide (E171), lactose monohydrate (see section 2 'Revatio contains lactose'), glycerol triacetate
+Tablet core: microcrystalline cellulose, calcium hydrogen phosphate (anhydrous), croscarmellose sodium (see section 2 \"Revatio contains sodium\"), magnesium stearate. Film coat: hypromellose, titanium dioxide (E171), lactose monohydrate (see section 2 \"Revatio contains lactose\"), glycerol triacetate
 
 ## What Revatio looks like and contents of the pack
 
-Revatio film-coated tablets are white and round in shape. The tablets are marked with 'VLE' on one side and 'RVT 20' on the other. The tablets are provided in blister packs containing 90 tablets, 90 x 1 tablets as perforated unit dose blisters and in blister packs containing 300 tablets. Not all pack sizes may be marketed.
+Revatio film-coated tablets are white and round in shape. The tablets are marked with \"VLE\" on one side and \"RVT 20\" on the other. The tablets are provided in blister packs containing 90 tablets, 90 x 1 tablets as perforated unit dose blisters and in blister packs containing 300 tablets. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-## Marketing Authorisation Holder:
+Marketing Authorisation Holder:
 
-Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+Viatris EESV, Krijgsman 20, 1186 DM, Amstelveen, Netherlands.
 
 ## Manufacturer:
 
@@ -2685,19 +2678,15 @@ Fareva Amboise, Zone Industrielle, 29 route des Industries, 37530 Pocé-sur-Ciss
 
 or
 
-Mylan Hungary Kft., Mylan utca 1, Komárom 2900, Hun gary.
+Mylan Hungary Kft., Mylan utca 1, Komárom 2900, Hungary.
 
 For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder.
 
 België/Belgique/Belgien
 
-Lietuva
+Viatris Lietuva Viatris UAB
 
-Viatris
-
-Viatris UAB
-
-Tél/Tel: +32 (0)2  658 61 00
+Tél/Tel: +32 (0)2 658 61 00
 
 Tel: +370 52051288
 
@@ -2705,121 +2694,119 @@ Tel: +370 52051288
 
 Luxembourg/Luxemburg
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел
+Тел.: +359 2 44 55 400
 
 <div style=\"page-break-after: always\"></div>
 
-.: +359 2 44 55 400
+Viatris Tél/Tel: +32 (0)2 658 61 00
 
-## Č eská republika
+## Česká republika
+
+(Belgique/Belgien)
+
+## Magyarország
 
 Viatris CZ s.r.o. Tel: +420 222 004 400
 
+Viatris Healthcare Kft. Tel.: + 36 1 465 2100
+
 ## Danmark
+
+## Malta
 
 Viatris ApS Tlf: +45 28 11 69 32
 
 ## Deutschland
 
+V.J. Salomone Pharma Limited Tel: (+356) 21 220 174
+
+## Nederland
+
 Viatris Healthcare GmbH Tel: +49 (0)800 0700 800
+
+Viatris Healthcare BV Tel: +31 (0)20 426 3300
 
 ## Eesti
 
+## Norge
+
 Viatris OÜ Tel: +372 6363 052
+
+Viatris AS Tlf: +47 66 75 33 00
 
 ## Ελλάδα
 
-Viatris Hellas Ltd Τηλ : +30 2100 100 002
+## Österreich
+
+Viatris Hellas Ltd Τηλ: +30 2100 100 002
+
+Viatris Austria GmbH Tel: +43 1 86390
 
 ## España
 
+## Polska
+
 Viatris Pharmaceuticals, S.L. Tel: +34 900 102 712
+
+Viatris Healthcare Sp. z o.o. Tel.: +48 22 546 64 00
 
 ## France
 
-Viatris Santé Tél: +33 (0) 4 37 25 75 00
+## Portugal
+
+Viatris Santé Tél: +33 (0)4 37 25 75 00
+
+Viatris Healthcare, Lda. Tel: +351 21 412 72 00
 
 ## Hrvatska
+
+## România
 
 Viatris Hrvatska d.o.o. Tel: +385 1 23 50 599
 
 ## Ireland
 
+BGP Products SRL
+
+Tel: +40 372 579 000
+
+## Slovenija
+
 Viatris Limited Tel: +353 1 8711600
+
+Viatris d.o.o. Tel: + 386 1 236 31 80
 
 ## Ísland
 
-Icepharma hf. Sí mi: +354 540 8000
+## Slovenská republika
+
+Icepharma hf. Sími: +354 540 8000
+
+Viatris Slovakia s.r.o. Tel: +421 2 32 199 100
 
 ## Italia
 
+## Suomi/Finland
+
 Viatris Pharma S.r.l. Tel: +39 02 612 46921
+
+Viatris Oy Puh/Tel: +358 20 720 9555
 
 ## Κύπρος
 
-CPO Pharmaceuticals Limited Τηλ : +357 22863100
+## Sverige
+
+CPO Pharmaceuticals Limited
+
+Τηλ: +357 22863100
 
 ## Latvija
 
 Viatris SIA Tel: +371 676 055 80
 
-Viatris Tél/Tel: +32 (0)2 658 61 00 (Belgique/Belgien)
-
-## Magyarország
-
-Viatris Healthcare Kft.
-
-Tel.: + 36 1 465 2100
-
-## Malta
-
-V.J. Salomone Pharma Limited Tel: (+356) 21 220 174
-
-## Nederland
-
-Mylan Healthcare BV Tel: +31 (0)20 426 3300
-
-## Norge
-
-Viatris AS Tlf: +47 66 75 33 00
-
-## Österreich
-
-Viatris Austria GmbH Tel: +43 1 86390
-
-## Polska
-
-Viatris Healthcare Sp. z o.o. Tel.: +48 22 546 64 00
-
-## Portugal
-
-Viatris Healthcare, Lda. Tel: +351 21 412 72 00
-
-## România
-
-BGP Products SRL Tel: +40 372 579 000
-
-## Slovenija
-
-Viatris d.o.o. Tel: + 386 1 236 31 80
-
-## Slovenská republika
-
-Viatris Slovakia s.r.o. Tel: +421 2 32 199 100
-
-## Suomi/Finland
-
-Viatris Oy
-
-Puh/Tel: +358 20 720 9555
-
-## Sverige
-
-Viatris AB
-
-Tel: + 46 (0)8 630 19 00
+Viatris AB Tel: + 46 (0)8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2827,22 +2814,22 @@ Tel: + 46 (0)8 630 19 00
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency website:
-
-http://www.ema.europa.eu. There are also links to other website about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu. There are also links to other website about rare diseases and treatments.
 
 ## Package leaflet: Information for the user
 
 <div style=\"page-break-after: always\"></div>
 
-## Revatio 0.8 mg/ml solution for injection sildenafil
+## Revatio 0.8 mg/ml solution for injection
+
+## sildenafil
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2857,7 +2844,9 @@ http://www.ema.europa.eu. There are also links to other website about rare disea
 
 Revatio contains the active substance sildenafil which belongs to a group of medicines called phosphodiesterase type 5 (PDE5) inhibitors.
 
-Revatio brings down blood pressure in the lungs by widening the blood vessels in the lungs. Revatio is used to treat adults with high blood pressure in the blood vessels in the lungs (pulmonary arterial hypertension).
+Revatio brings down blood pressure in the lungs by widening the blood vessels in the lungs.
+
+Revatio is used to treat adults with high blood pressure in the blood vessels in the lungs (pulmonary arterial hypertension).
 
 Revatio solution for injection is an alternative formulation of Revatio for patients who temporarily cannot take their Revatio tablets.
 
@@ -2865,30 +2854,30 @@ Revatio solution for injection is an alternative formulation of Revatio for pati
 
 ## You should not be given Revatio
 
-- -if you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
-- -if you are taking medicines containing nitrates, or nitric oxide donors such as amyl nitrate ('poppers'). These medicines are often given for relief of chest pain (or 'angina pectoris'). Revatio can cause a serious increase in the effects of these medicines. Tell your doctor if you are taking any of these medicines. If you are not certain, ask your doctor or pharmacist.
-- -if you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Revatio have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
-- -if you have recently had a stroke, a heart attack or if you have severe liver disease or very low blood pressure (&lt; 90/50 mmHg).
+- if you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
+- if you are taking medicines containing nitrates, or nitric oxide donors such as amyl nitrate (\"poppers\"). These medicines are often given for relief of chest pain (or \"angina pectoris\"). Revatio can cause a serious increase in the effects of these medicines. Tell your doctor if you are taking any of these medicines. If you are not certain, ask your doctor or pharmacist.
+- if you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Revatio have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
+- if you have recently had a stroke, a heart attack or if you have severe liver disease or very low blood pressure (&lt; 90/50 mmHg).
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you are taking a medicine to treat fungal infections such as ketoconazole or itraconazole or medicines containing ritonavir (for HIV).
-- -if you have ever had loss of vision because of a problem with blood flow to the nerve in the eye called non-arteritic anterior ischaemic optic neuropathy (NAION).
+- if you are taking a medicine to treat fungal infections such as ketoconazole or itraconazole or medicines containing ritonavir (for HIV).
+- if you have ever had loss of vision because of a problem with blood flow to the nerve in the eye called non-arteritic anterior ischaemic optic neuropathy (NAION).
 
 ## Warnings and Precautions
 
 Talk to your doctor before using Revatio if you:
 
-- -have a disease due to a blocked or narrow vein in the lungs rather than a blocked or narrow artery.
-- -have a severe heart problem.
-- -have a problem with the pumping chambers of your heart
-- -have high blood pressure in the blood vessels in the lungs.
-- -have low blood pressure at rest.
-- -lose a large amount of body fluids (dehydration) which can occur when you sweat a lot or do not drink enough liquids. This can happen if you are sick with a fever, vomiting, or diarrhoea.
-- -have a rare inherited eye disease ( retinitis pigmentosa ).
-- -have an abnormality of red blood cells (sickle cell anaemia), cancer of blood cells (leukaemia), cancer of bone marrow (multiple myeloma), or any disease or deformity of the penis.
-- -currently have a stomach ulcer, a bleeding disorder (such as haemophilia) or problems with nose bleeds.
-- -take medicines for erectile dysfunction.
+- have a disease due to a blocked or narrow vein in the lungs rather than a blocked or narrow artery.
+- have a severe heart problem.
+- have a problem with the pumping chambers of your heart
+- have high blood pressure in the blood vessels in the lungs.
+- have low blood pressure at rest.
+- lose a large amount of body fluids (dehydration) which can occur when you sweat a lot or do not drink enough liquids. This can happen if you are sick with a fever, vomiting, or diarrhoea.
+- have a rare inherited eye disease (retinitis pigmentosa).
+- have an abnormality of red blood cells (sickle cell anaemia), cancer of blood cells (leukaemia), cancer of bone marrow (multiple myeloma), or any disease or deformity of the penis.
+- currently have a stomach ulcer, a bleeding disorder (such as haemophilia) or problems with nose bleeds.
+- take medicines for erectile dysfunction.
 
 When used to treat male erectile dysfunction (ED), the following visual side effects have been reported with PDE5 inhibitors, including sildenafil at an unknown frequency; partial, sudden, temporary, or permanent decrease or loss of vision in one or both eyes.
 
@@ -2908,12 +2897,12 @@ Revatio should not be given to children and adolescents under the age of 18.
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
-- Medicines containing nitrates, or nitric oxide donors such as amyl nitrate ('poppers'). These medicines are often given for relief of angina pectoris or 'chest pain' (see section 2. Before you take Revatio).
-- Therapies for pulmonary hypertension (e.g. bosentan, iloprost).
+- Medicines containing nitrates, or nitric oxide donors such as amyl nitrate (\"poppers\"). These medicines are often given for relief of angina pectoris or \"chest pain\" (see section 2. Before you take Revatio).
 - Tell your doctor or pharmacist if you are already taking riociguat.
+- Therapies for pulmonary hypertension (e.g. bosentan, iloprost).
 - Medicines containing St. John's Wort (herbal medicinal product), rifampicin (used to treat bacterial infections), carbamazepine, phenytoin and phenobarbital (used, among others, to treat epilepsy).
-- Medicines containing erythromycin, clarithromycin, telithromycin (these are antibiotics used to treat certain bacterial infections), saquinavir (for HIV) or nefazodone (for mental depression), as your dose may need to be adjusted.
 - Blood thinning medicines (for example warfarin) although these did not result in any side effects.
+- Medicines containing erythromycin, clarithromycin, telithromycin (these are antibiotics used to treat certain bacterial infections), saquinavir (for HIV) or nefazodone (for mental depression), as your dose may need to be adjusted.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2975,7 +2964,7 @@ In clinical trials side effects reported commonly (may affect up to 1 in 10 peop
 
 In clinical trials with Revatio tablets side effects reported very commonly (may affect more than 1 in 10 people) were headache, facial flushing, indigestion, diarrhoea and pain in the arms or legs.
 
-Side effects reported commonly (may affect up to 1 in 10 people) included: infection under the skin, flu-like symptoms, inflammationof the sinuses, reduced number of red blood cells (anaemia), fluid retention, difficulty sleeping, anxiety, migraine, shaking, 'pins and needles'-like sensation, burning sensation, reduced sense of touch, bleeding at the back of the eye, effects on vision, blurred vision and light sensitivity, effects on colour vision, eye irritation, bloodshot eyes /red eyes, vertigo, bronchitis, nosebleed, runny nose, cough, stuffy nose, stomach inflammation, gastroenteritis, heartburn, piles, abdominal distension, dry mouth, hair loss, redness of the skin, night sweats, muscle aches, back pain and increased body temperature.
+Side effects reported commonly (may affect up to 1 in 10 people) included: infection under the skin, flu-like symptoms, inflammationof the sinuses, reduced number of red blood cells (anaemia), fluid retention, difficulty sleeping, anxiety, migraine, shaking, \"pins and needles\"-like sensation, burning sensation, reduced sense of touch, bleeding at the back of the eye, effects on vision, blurred vision and light sensitivity, effects on colour vision, eye irritation, bloodshot eyes /red eyes, vertigo, bronchitis, nosebleed, runny nose, cough, stuffy nose, stomach inflammation, gastroenteritis, heartburn, piles, abdominal distension, dry mouth, hair loss, redness of the skin, night sweats, muscle aches, back pain and increased body temperature.
 
 Side effects reported uncommonly (may affect upto 1 in 100 people) included: reduced sharpness of vision, double vision, abnormal sensation in the eye, penile bleeding, presence of blood in semen and/or urine, and breast enlargement in men.
 
@@ -2999,8 +2988,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Revatio contains
 
-- -The active substance is sildenafil. Each ml of solution contains 0.8 mg of sildenafil (as citrate). Each 20 ml vial contains 10 mg sildenafil (as citrate).
-- -The other ingredients are glucose and water for injections.
+- The active substance is sildenafil. Each ml of solution contains 0.8 mg of sildenafil (as citrate). Each 20 ml vial contains 10 mg sildenafil (as citrate).
+- The other ingredients are glucose and water for injections.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3012,7 +3001,7 @@ Each pack of Revatio solution for injection contains one 20 ml clear glass vial,
 
 Marketing Authorisation Holder:
 
-Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+Viatris EESV, Krijgsman 20, 1186 DM, Amstelveen, Netherlands.
 
 ## Manufacturer:
 
@@ -3022,75 +3011,25 @@ For any information about this medicinal product, please contact the local repre
 
 ## België/Belgique/Belgien
 
+## Lietuva
+
 Viatris
 
-Tél/Tel: +32 (0)2  658 61 00
+Tél/Tel: +32 (0)2 658 61 00
 
 ## България
-
-Майлан ЕООД
-
-Тел
-
-.: +359 2 44 55 400
-
-## Č eská republika
-
-Viatris CZ s.r.o.
-
-Tel: +420 222 004 400
-
-## Danmark
-
-Viatris ApS
-
-Tlf: +45 28 11 69 32
-
-## Deutschland
-
-Viatris Healthcare GmbH
-
-Tel: +49 (0)800 0700 800
-
-## Eesti
-
-Viatris OÜ
-
-Tel: +372 6363 052
-
-## Ελλάδα
-
-Viatris Hellas Ltd
-
-Τηλ
-
-: +30 2100 100 002
-
-## España
-
-Viatris Pharmaceuticals, S.L.
-
-Tel: +34 900 102 712
-
-## France
-
-Viatris Santé
-
-Tél: +33 (0) 4 37 25 75 00
-
-## Hrvatska
-
-Viatris Hrvatska d.o.o.
-
-Tel: +385 1 23 50 599
-
-## Lietuva
 
 Viatris UAB
 
 Tel: +370 52051288
 
 ## Luxembourg/Luxemburg
+
+Виатрис ЕООД
+
+Тел.: +359 2 44 55 400
+
+## Česká republika
 
 Viatris
 
@@ -3100,11 +3039,23 @@ Tél/Tel: +32 (0)2 658 61 00
 
 ## Magyarország
 
+Viatris CZ s.r.o.
+
+Tel: +420 222 004 400
+
+## Danmark
+
 Viatris Healthcare Kft.
 
 Tel.: + 36 1 465 2100
 
 ## Malta
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
+## Deutschland
 
 V.J. Salomone Pharma Limited
 
@@ -3112,17 +3063,35 @@ Tel: (+356) 21 220 174
 
 ## Nederland
 
-Mylan Healthcare BV
+Viatris Healthcare GmbH
+
+Tel: +49 (0)800 0700 800
+
+## Eesti
+
+Viatris Healthcare BV
 
 Tel: +31 (0)20 426 3300
 
 ## Norge
 
+Viatris OÜ
+
+Tel: +372 6363 052
+
 Viatris AS
 
 Tlf: +47 66 75 33 00
 
+## Ελλάδα
+
 ## Österreich
+
+Viatris Hellas Ltd
+
+Τηλ: +30 2100 100 002
+
+## España
 
 Viatris Austria GmbH
 
@@ -3130,17 +3099,33 @@ Tel: +43 1 86390
 
 ## Polska
 
+Viatris Pharmaceuticals, S.L.
+
+Tel: +34 900 102 712
+
+## France
+
 Viatris Healthcare Sp. z o.o.
 
 Tel.: +48 22 546 64 00
 
 ## Portugal
 
+Viatris Santé
+
+Tél: +33 (0)4 37 25 75 00
+
+## Hrvatska
+
 Viatris Healthcare, Lda.
 
 Tel: +351 21 412 72 00
 
 ## România
+
+Viatris Hrvatska d.o.o.
+
+Tel: +385 1 23 50 599
 
 BGP Products SRL
 
@@ -3150,29 +3135,47 @@ Tel: +40 372 579 000
 
 ## Ireland
 
-Viatris Limited
+## Slovenija
+
+Viatris Limited Viatris d.o.o.
 
 Tel: +353 1 8711600
 
+Tel: + 386 1 236 31 80
+
 ## Ísland
+
+## Slovenská republika
 
 Icepharma hf.
 
-Sí mi: +354 540 8000
+Viatris Slovakia s.r.o.
+
+Sími: +354 540 8000
+
+Tel: +421 2 32 199 100
 
 ## Italia
 
+## Suomi/Finland
+
 Viatris Pharma S.r.l.
+
+Viatris Oy
 
 Tel: +39 02 612 46921
 
+Puh/Tel: +358 20 720 9555
+
 ## Κύπρος
 
-CPO Pharmaceuticals Limited
+## Sverige
 
-Τηλ
+CPO Pharmaceuticals Limited Viatris AB
 
-: +357 22863100
+Τηλ: +357 22863100
+
+Tel: + 46 (0)8 630 19 00
 
 ## Latvija
 
@@ -3186,30 +3189,6 @@ Tel: +371 676 055 80
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu. There are also links to other website about rare diseases and treatments.
 
-## Slovenija
-
-Viatris d.o.o.
-
-Tel: + 386 1 236 31 80
-
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: +421 2 32 199 100
-
-## Suomi/Finland
-
-Viatris Oy
-
-Puh/Tel: +358 20 720 9555
-
-## Sverige
-
-Viatris AB
-
-Tel: + 46 (0)8 630 19 00
-
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the patient
@@ -3218,10 +3197,10 @@ Tel: + 46 (0)8 630 19 00
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3242,12 +3221,12 @@ Revatio brings down blood pressure in the lungs by widening the blood vessels in
 
 ## Do not take Revatio
 
-- -if you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6)
-- -if you are taking medicines containing nitrates, or nitric oxide donors such as amyl nitrate ('poppers'). These medicines are often given for relief of chest pain (or 'angina pectoris'). Revatio can cause a serious increase in the effects of these medicines. Tell your doctor if you are taking any of these medicines. If you are not certain, ask your doctor or pharmacist.
-- -if you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Revatio have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
-- -if you have recently had a stroke, a heart attack or if you have severe liver disease or very low blood pressure (&lt;90/50 mmHg).
-- -if you are taking a medicine to treat fungal infections such as ketoconazole or itraconazole or medicines containing ritonavir (for HIV).
-- -if you have ever had loss of vision because of a problem with blood flow to the nerve in the eye called non-arteritic anterior ischaemic optic neuropathy (NAION).
+- if you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6)
+- if you are taking medicines containing nitrates, or nitric oxide donors such as amyl nitrate (\"poppers\"). These medicines are often given for relief of chest pain (or \"angina pectoris\"). Revatio can cause a serious increase in the effects of these medicines. Tell your doctor if you are taking any of these medicines. If you are not certain, ask your doctor or pharmacist.
+- if you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Revatio have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
+- if you have recently had a stroke, a heart attack or if you have severe liver disease or very low blood pressure (&lt;90/50 mmHg).
+- if you are taking a medicine to treat fungal infections such as ketoconazole or itraconazole or medicines containing ritonavir (for HIV).
+- if you have ever had loss of vision because of a problem with blood flow to the nerve in the eye called non-arteritic anterior ischaemic optic neuropathy (NAION).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3255,16 +3234,16 @@ Revatio brings down blood pressure in the lungs by widening the blood vessels in
 
 Talk to your doctor before taking Revatio if you:
 
-- -have a disease due to a blocked or narrow vein in the lungs rather than a blocked or narrow artery.
-- -have a severe heart problem.
-- -have a problem with the pumping chambers of your heart
-- -have high blood pressure in the blood vessels in the lungs.
-- -have low blood pressure at rest.
-- -lose a large amount of body fluids (dehydration) which can occur when you sweat a lot or do not drink enough liquids. This can happen if you are sick with a fever, vomiting, or diarrhoea
-- -have a rare inherited eye disease (retinitis pigmentosa)
-- -have an abnormality of red blood cells (sickle cell anaemia), (cancer of blood cells (leukaemia), cancer of bone marrow) (multiple myeloma), or any disease or deformity of the penis.
-- -currently have a stomach ulcer, a bleeding disorder (such as haemophilia) or problems with nose bleeds.
-- -take medicines for erectile dysfunction.
+- have a disease due to a blocked or narrow vein in the lungs rather than a blocked or narrow artery.
+- have a severe heart problem.
+- have a problem with the pumping chambers of your heart
+- have high blood pressure in the blood vessels in the lungs.
+- have low blood pressure at rest.
+- lose a large amount of body fluids (dehydration) which can occur when you sweat a lot or do not drink enough liquids. This can happen if you are sick with a fever, vomiting, or diarrhoea
+- have a rare inherited eye disease (retinitis pigmentosa)
+- have an abnormality of red blood cells (sickle cell anaemia), (cancer of blood cells (leukaemia), cancer of bone marrow) (multiple myeloma), or any disease or deformity of the penis.
+- currently have a stomach ulcer, a bleeding disorder (such as haemophilia) or problems with nose bleeds.
+- take medicines for erectile dysfunction.
 
 When used to treat male erectile dysfunction (ED), the following visual side effects have been reported with PDE5 inhibitors, including sildenafil at an unknown frequency; partial, sudden, temporary, or permanent decrease or loss of vision in one or both eyes.
 
@@ -3284,12 +3263,12 @@ Revatio should not be given to children below 1 year of age.
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
-- Medicines containing nitrates, or nitric oxide donors such as amyl nitrate ('poppers'). These medicines are often given for relief of angina pectoris or 'chest pain' (see section 2. Before you take Revatio)
-- Therapies for pulmonary hypertension (e.g. bosentan, iloprost)
+- Medicines containing nitrates, or nitric oxide donors such as amyl nitrate (\"poppers\"). These medicines are often given for relief of angina pectoris or \"chest pain\" (see section 2. Before you take Revatio)
 - Tell your doctor or pharmacist if you are already taking riociguat.
+- Therapies for pulmonary hypertension (e.g. bosentan, iloprost)
 - Medicines containing St. John's Wort (herbal medicinal product), rifampicin (used to treat bacterial infections), carbamazepine, phenytoin and phenobarbital (used, among others, to treat epilepsy)
-- Medicines containing erythromycin, clarithromycin, telithromycin (these are antibiotics used to treat certain bacterial infections), saquinavir (for HIV) or nefazodone (for mental depression), as your dose may need to be adjusted.
 - blood thinning medicines (for example warfarin) although these did not result in any side effect
+- Medicines containing erythromycin, clarithromycin, telithromycin (these are antibiotics used to treat certain bacterial infections), saquinavir (for HIV) or nefazodone (for mental depression), as your dose may need to be adjusted.
 - Alpha-blocker therapy (e.g. doxazosin) for the treatment of high blood pressure or prostate problems, as the combination of the two medicines may cause symptoms of low blood pressure (e.g. dizziness, light headedness).
 - Medicines containing sacubitril/valsartan, used to treat heart failure.
 
@@ -3389,6 +3368,8 @@ Your pharmacist should advise you how to measure the medicine using the oral dos
 
 <!-- image -->
 
+<!-- image -->
+
 figure 7
 
 <!-- image -->
@@ -3444,7 +3425,7 @@ If you experience any of the following side effects you should stop taking Revat
 
 Side effects reported very commonly (may affect more than 1 in 10 people) were headache, facial flushing, indigestion, diarrhoea and pain in the arms or legs.
 
-Side effects reported commonly (may affect up to 1 in 10 people) included: infection under the skin, flu-like symptoms, inflammation of the sinuses, reduced number of red blood cells (anaemia), fluid retention, difficulty sleeping, anxiety, migraine, shaking, 'pins and needles'-like sensation, burning sensation, reduced sense of touch, bleeding at the back of the eye, effects on vision, blurred vision and light sensitivity, effects on colour vision, eye irritation, bloodshot eyes /red eyes, vertigo, bronchitis, nosebleed, runny nose, cough, stuffy nose, stomach inflammation, gastroenteritis, heartburn, piles, abdominal distension, dry mouth, hair loss, redness of the skin, night sweats, muscle aches, back pain and increased body temperature.
+Side effects reported commonly (may affect up to 1 in 10 people) included: infection under the skin, flu-like symptoms, inflammation of the sinuses, reduced number of red blood cells (anaemia), fluid retention, difficulty sleeping, anxiety, migraine, shaking, \"pins and needles\"-like sensation, burning sensation, reduced sense of touch, bleeding at the back of the eye, effects on vision, blurred vision and light sensitivity, effects on colour vision, eye irritation, bloodshot eyes /red eyes, vertigo, bronchitis, nosebleed, runny nose, cough, stuffy nose, stomach inflammation, gastroenteritis, heartburn, piles, abdominal distension, dry mouth, hair loss, redness of the skin, night sweats, muscle aches, back pain and increased body temperature.
 
 Side effects reported uncommonly (may affect up to 1 in 100 people) included: reduced sharpness of vision, double vision, abnormal sensation in the eye, penile bleeding, presence of blood in semen and/or urine, and breast enlargement in men.
 
@@ -3480,7 +3461,7 @@ Store in the original package in order to protect from moisture.
 
 ## Reconstituted oral suspension
 
-Store below 30°C or in refrigerator at 2ºC to 8°C.  Do not freeze. Any remaining oral suspension should be discarded 30 days after reconstitution.
+Store below 30°C or in refrigerator at 2ºC to 8°C. Do not freeze. Any remaining oral suspension should be discarded 30 days after reconstitution.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -3488,11 +3469,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Revatio contains
 
-- -The active substance is sildenafil (as sildenafil citrate). After reconstitution, each ml of the oral suspension contains 10 mg of sildenafil (as citrate)
+- The active substance is sildenafil (as sildenafil citrate).
 
-One bottle of reconstituted oral suspension (112 ml) contains 1.12 g of sildenafil (as citrate)
+After reconstitution, each ml of the oral suspension contains 10 mg of sildenafil (as citrate) One bottle of reconstituted oral suspension (112 ml) contains 1.12 g of sildenafil (as citrate)
 
-- -The other ingredients are: Powder for oral suspension: sorbitol (E420) (see section 2 'Revatio contains sorbitol'), citric acid anhydrous, sucralose, sodium citrate (E331) (see section 2 'Revatio contains sodium'), xanthan gum, titanium dioxide (E171), sodium benzoate (E211) (see section 2 'Revatio contains sodium benzoate' and 'Revatio contains sodium'), silica, colloidal anhydrous; Grape flavour: maltodextrin, grape juice concentrate, gum acacia, pineapple juice concentrate, citric acid anhydrous, natural flavouring
+- The other ingredients are: Powder for oral suspension: sorbitol (E420) (see section 2 \"Revatio contains sorbitol\"), citric acid anhydrous, sucralose, sodium citrate (E331) (see section 2 \"Revatio contains sodium\"), xanthan gum, titanium dioxide (E171), sodium benzoate (E211) (see section 2 \"Revatio contains sodium benzoate\" and \"Revatio contains sodium\"), silica, colloidal anhydrous; Grape flavour: maltodextrin, grape juice concentrate, gum acacia, pineapple juice concentrate, citric acid anhydrous, natural flavouring
 
 ## What Revatio looks like and contents of the pack
 
@@ -3512,15 +3493,15 @@ Each pack also contains a polypropylene measuring cup (graduated to indicate 30 
 
 Marketing Authorisation Holder
 
-Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+Viatris EESV, Krijgsman 20, 1186 DM, Amstelveen, Netherlands.
 
-## Manufacturer
+Manufacturer
 
 Fareva Amboise, Zone Industrielle, 29 route des Industries, 37530 Pocé-sur-Cisse, France.
 
 or
 
-Mylan Hungary Kft., Mylan utca 1, Komárom 2900, Hun gary.
+Mylan Hungary Kft., Mylan utca 1, Komárom 2900, Hungary.
 
 For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder.
 
@@ -3528,7 +3509,9 @@ For any information about this medicinal product, please contact the local repre
 
 Viatris
 
-Tél/Tel: +32 (0)2  658 61 00
+Tél/Tel: +32 (0)2 658 61 00
+
+## България
 
 ## Lietuva
 
@@ -3536,41 +3519,33 @@ Viatris UAB
 
 Tel: +370 52051288
 
-## България
-
 ## Luxembourg/Luxemburg
 
-Майлан ЕООД
+Виатрис ЕООД
+
+Тел.: +359 2 44 55 400
+
+## Česká republika
 
 Viatris
-
-Тел
-
-.: +359 2 44 55 400
 
 Tél/Tel: +32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Č eská republika
-
 ## Magyarország
 
-Viatris CZ  s.r.o.
-
-Viatris Healthcare Kft.
+Viatris CZ s.r.o.
 
 Tel: +420 222 004 400
 
-Tel.: + 36 1 465 2100
-
 ## Danmark
 
+Viatris Healthcare Kft.
+
+Tel.: + 36 1 465 2100
+
 ## Malta
-
-V.J. Salomone Pharma Limited
-
-Tel: (+356) 21 220 174
 
 Viatris ApS
 
@@ -3578,75 +3553,77 @@ Tlf: +45 28 11 69 32
 
 ## Deutschland
 
+V.J. Salomone Pharma Limited
+
+Tel: (+356) 21 220 174
+
 ## Nederland
 
 Viatris Healthcare GmbH
 
-Mylan Healthcare BV
-
 Tel: +49 (0)800 0700 800
 
-Tel: +31 (0)20 426 3300
-
 ## Eesti
+
+Viatris Healthcare BV
+
+Tel: +31 (0)20 426 3300
 
 ## Norge
 
 Viatris OÜ
 
-Viatris AS
-
 Tel: +372 6363 052
 
-Tlf: +47 66 75 33 00
-
 ## Ελλάδα
+
+Viatris AS
+
+Tlf: +47 66 75 33 00
 
 ## Österreich
 
 Viatris Hellas Ltd
 
-Viatris Austria GmbH
-
-Τηλ
-
-: +30 2100 100 002
-
-Tel: +43 1 86390
+Τηλ: +30 2100 100 002
 
 ## España
+
+Viatris Austria GmbH
+
+Tel: +43 1 86390
 
 ## Polska
 
 Viatris Pharmaceuticals, S.L.
 
-Viatris Healthcare Sp. z o.o.
-
 Tel: +34 900 102 712
 
-Tel.: +48 22 546 64 00
-
 ## France
+
+Viatris Healthcare Sp. z o.o.
+
+Tel.: +48 22 546 64 00
 
 ## Portugal
 
 Viatris Santé
 
-Viatris Healthcare, Lda.
-
-Tél: +33 (0) 4 37 25 75 00
-
-Tel: +351 21 412 72 00
+Tél: +33 (0)4 37 25 75 00
 
 ## Hrvatska
+
+Viatris Healthcare, Lda.
+
+Tel: +351 21 412 72 00
 
 ## România
 
 Viatris Hrvatska d.o.o.
 
-BGP Products SRL
-
 Tel: +385 1 23 50 599
+
+BGP Products SRL
 
 Tel: +40 372 579 000
 
@@ -3654,17 +3631,31 @@ Tel: +40 372 579 000
 
 ## Ireland
 
+## Slovenija
+
 Viatris Limited
 
 Tel: +353 1 8711600
 
 ## Ísland
 
+Viatris d.o.o.
+
+Tel: + 386 1 236 31 80
+
+## Slovenská republika
+
 Icepharma hf.
 
-Sí mi: +354 540 8000
+Sími: +354 540 8000
 
 ## Italia
+
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
+
+## Suomi/Finland
 
 Viatris Pharma S.r.l.
 
@@ -3672,11 +3663,15 @@ Tel: +39 02 612 46921
 
 ## Κύπρος
 
+Viatris Oy
+
+Puh/Tel: +358 20 720 9555
+
+## Sverige
+
 CPO Pharmaceuticals Limited
 
-Τηλ
-
-: +357 22863100
+Τηλ: +357 22863100
 
 ## Latvija
 
@@ -3689,26 +3684,6 @@ Tel: +371 676 055 80
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu. There are also links to other website about rare diseases and treatments.
-
-## Slovenija
-
-Viatris d.o.o.
-
-Tel: + 386 1 236 31 80
-
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: +421 2 32 199 100
-
-## Suomi/Finland
-
-Viatris Oy
-
-Puh/Tel: +358 20 720 9555
-
-## Sverige
 
 Viatris AB
 

@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-03-25 10:39:00
+document_datetime: 2026-10-13 16:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bemfola.html
 document_name: bemfola.html
 version: success
-processing_time: 0.1139677
-conversion_datetime: 2026-03-29 12:52:10.344742
+processing_time: 0.1870407
+conversion_datetime: 2026-10-19 23:41:30.777028
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Bemfola
 
 [RSS](/en/individual-human-medicine.xml/66794)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Bemfola](#news-on)
 - [Related content](#related-content-782)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -55,7 +54,7 @@ Expand section
 
 Collapse section
 
-## What is Bemfola and what is it used for?
+### What is Bemfola and what is it used for?
 
 Bemfola is a medicine that contains the active substance follitropin alfa. It is used to treat the following groups:
 
@@ -66,7 +65,7 @@ Bemfola is a medicine that contains the active substance follitropin alfa. It is
 
 Bemfola is a 'biosimilar medicine'. This means that Bemfola is similar to a biological medicine (also known as the 'reference medicine') that is already authorised in the European Union (EU). The reference medicine for Bemfola is GONAL-f.
 
-## How is Bemfola used?
+### How is Bemfola used?
 
 Bemfola is available as a solution for injection in a prefilled pen. The medicine can only be obtained with a prescription and treatment should be started under the supervision of a doctor who has experience in the treatment of fertility problems
 
@@ -74,19 +73,19 @@ Bemfola is given by injection under the skin once a day. The dose of Bemfola and
 
 For further information, see the package leaflet.
 
-## How does Bemfola work?
+### How does Bemfola work?
 
 The active substance in Bemfola, follitropin alfa, is a copy of the natural hormone FSH. In the body, FSH controls reproductive function: in women, it stimulates the production of eggs in the ovaries; in men, it stimulates the production of sperm in the testicles.
 
 Previously, the FSH used in medicines was extracted from urine. The follitropin alfa in Bemfola, as well as in the reference product GONAL-f, is produced by a method known as 'recombinant DNA technology': it is made by cells into which a gene (DNA) has been introduced, which makes them able to produce human FSH.
 
-## What benefits of Bemfola have been shown in studies?
+### What benefits of Bemfola have been shown in studies?
 
 Bemfola was compared with GONAL-f in one main study involving 372 women who were undergoing assisted reproductive techniques. The main measure of effectiveness was the number of eggs collected.
 
 Bemfola has been shown to be comparable to the reference medicine, GONAL-f. The study showed that Bemfola was as effective as GONAL-f at stimulating the ovaries during assisted reproductive techniques, as an average of 11 eggs were retrieved with both medicines.
 
-## What are the risks associated with Bemfola?
+### What are the risks associated with Bemfola?
 
 The most common side effects with Bemfola (which may affect more than 1 in 10 people) are reactions at the injection site (pain, redness, bruising, swelling or irritation). In women, ovarian cysts (sacs of fluid within the ovaries) and headache are also seen in more than 1 patient in 10. For the full list of all side effects reported with Bemfola, see the package leaflet.
 
@@ -94,15 +93,15 @@ Bemfola must not be used in people who are hypersensitive (allergic) to follitro
 
 In some women, the ovaries can over-respond to stimulation. This is called 'ovarian hyperstimulation syndrome'. Doctors and patients must be aware of this possibility. For more information, please see the package leaflet.
 
-## Why is Bemfola approved?
+### Why is Bemfola approved?
 
 The Agency's Committee for Medicinal Products for Human Use (CHMP) decided that, in accordance with EU requirements for biosimilar medicines, Bemfola has been shown to have a comparable quality, safety and effectiveness to GONAL-f. Therefore, the CHMP's view was that, as for GONAL-f, the benefits of Bemfola outweigh the identified risks. The Committee recommended that Bemfola be given marketing authorisation.
 
-## What measures are being taken to ensure the safe and effective use of Bemfola?
+### What measures are being taken to ensure the safe and effective use of Bemfola?
 
 A risk management plan has been developed to ensure that Bemfola is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Bemfola, including the appropriate precautions to be followed by healthcare professionals and patients.
 
-## Other information about Bemfola
+### Other information about Bemfola
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Bemfola on 27 March 2014.
 
@@ -116,7 +115,7 @@ English (EN) (82.4 KB - PDF)
 
 [View](/en/documents/overview/bemfola-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-511)
+[Other languages (22)](#file-language-dropdown-411)
 
 български (BG) (109.99 KB - PDF)
 
@@ -148,7 +147,7 @@ Deutsch (DE) (83.16 KB - PDF)
 
 [View](/de/documents/overview/bemfola-epar-summary-public_de.pdf)
 
-eesti keel (ET) (82.48 KB - PDF)
+eesti (ET) (82.48 KB - PDF)
 
 **First published:** 16/05/2014 **Last updated:** 16/05/2014
 
@@ -178,13 +177,13 @@ italiano (IT) (80.29 KB - PDF)
 
 [View](/it/documents/overview/bemfola-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (147.16 KB - PDF)
+latviešu (LV) (147.16 KB - PDF)
 
 **First published:** 16/05/2014 **Last updated:** 16/05/2014
 
 [View](/lv/documents/overview/bemfola-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (105.34 KB - PDF)
+lietuvių (LT) (105.34 KB - PDF)
 
 **First published:** 16/05/2014 **Last updated:** 16/05/2014
 
@@ -238,7 +237,7 @@ slovenščina (SL) (101.15 KB - PDF)
 
 [View](/sl/documents/overview/bemfola-epar-summary-public_sl.pdf)
 
-Suomi (FI) (103.31 KB - PDF)
+suomi (FI) (103.31 KB - PDF)
 
 **First published:** 16/05/2014 **Last updated:** 16/05/2014
 
@@ -264,143 +263,168 @@ English (EN) (137.59 KB - PDF)
 
 Bemfola : EPAR - Product Information
 
-English (EN) (754.7 KB - PDF)
+English (EN) (777.25 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/en/documents/product-information/bemfola-epar-product-information_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-936)
+[Other languages (24)](#file-language-dropdown-0)
 
-español (ES) (762.09 KB - PDF)
+български (BG) (952.24 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
+
+[View](/bg/documents/product-information/bemfola-epar-product-information_bg.pdf)
+
+español (ES) (805.1 KB - PDF)
+
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/es/documents/product-information/bemfola-epar-product-information_es.pdf)
 
-eesti keel (ET) (767.45 KB - PDF)
+čeština (CS) (817.29 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
+
+[View](/cs/documents/product-information/bemfola-epar-product-information_cs.pdf)
+
+dansk (DA) (862.05 KB - PDF)
+
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
+
+[View](/da/documents/product-information/bemfola-epar-product-information_da.pdf)
+
+Deutsch (DE) (837.76 KB - PDF)
+
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
+
+[View](/de/documents/product-information/bemfola-epar-product-information_de.pdf)
+
+eesti (ET) (794.35 KB - PDF)
+
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/et/documents/product-information/bemfola-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1010.64 KB - PDF)
+ελληνικά (EL) (1.02 MB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/el/documents/product-information/bemfola-epar-product-information_el.pdf)
 
-français (FR) (868.24 KB - PDF)
+français (FR) (894.75 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/fr/documents/product-information/bemfola-epar-product-information_fr.pdf)
 
-hrvatski (HR) (852.13 KB - PDF)
+hrvatski (HR) (879.06 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/hr/documents/product-information/bemfola-epar-product-information_hr.pdf)
 
-íslenska (IS) (796.16 KB - PDF)
+italiano (IT) (787.16 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
-
-[View](/is/documents/product-information/bemfola-epar-product-information_is.pdf)
-
-italiano (IT) (760.42 KB - PDF)
-
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/it/documents/product-information/bemfola-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (915.38 KB - PDF)
+latviešu (LV) (953.17 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/lv/documents/product-information/bemfola-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (872.03 KB - PDF)
+lietuvių (LT) (896.55 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/lt/documents/product-information/bemfola-epar-product-information_lt.pdf)
 
-magyar (HU) (866.25 KB - PDF)
+magyar (HU) (895.24 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/hu/documents/product-information/bemfola-epar-product-information_hu.pdf)
 
-Malti (MT) (996.28 KB - PDF)
+Malti (MT) (1 MB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/mt/documents/product-information/bemfola-epar-product-information_mt.pdf)
 
-Nederlands (NL) (749.49 KB - PDF)
+Nederlands (NL) (793.38 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/nl/documents/product-information/bemfola-epar-product-information_nl.pdf)
 
-norsk (NO) (789.88 KB - PDF)
+polski (PL) (972.86 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
-
-[View](/no/documents/product-information/bemfola-epar-product-information_no.pdf)
-
-polski (PL) (982.66 KB - PDF)
-
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/pl/documents/product-information/bemfola-epar-product-information_pl.pdf)
 
-português (PT) (809.32 KB - PDF)
+português (PT) (808.17 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/pt/documents/product-information/bemfola-epar-product-information_pt.pdf)
 
-română (RO) (1.21 MB - PDF)
+română (RO) (1.15 MB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/ro/documents/product-information/bemfola-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.1 MB - PDF)
+slovenčina (SK) (1.11 MB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/sk/documents/product-information/bemfola-epar-product-information_sk.pdf)
 
-slovenščina (SL) (961.66 KB - PDF)
+slovenščina (SL) (992.46 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/sl/documents/product-information/bemfola-epar-product-information_sl.pdf)
 
-Suomi (FI) (783.12 KB - PDF)
+suomi (FI) (810.86 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/fi/documents/product-information/bemfola-epar-product-information_fi.pdf)
 
-svenska (SV) (754.66 KB - PDF)
+svenska (SV) (783.31 KB - PDF)
 
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
 
 [View](/sv/documents/product-information/bemfola-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000325945
+Íslenska (IS) (794.64 KB - PDF)
 
-23/03/2026
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
+
+[View](/is/documents/product-information/bemfola-epar-product-information_is.pdf)
+
+norsk (NO) (815.03 KB - PDF)
+
+**First published:** 16/05/2014 **Last updated:** 13/10/2026
+
+[View](/no/documents/product-information/bemfola-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000357170
+
+14/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -418,7 +442,7 @@ English (EN) (67.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bemfola-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-242)
+[Other languages (24)](#file-language-dropdown-200)
 
 български (BG) (71.46 KB - PDF)
 
@@ -450,7 +474,7 @@ Deutsch (DE) (68.31 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/bemfola-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (66.89 KB - PDF)
+eesti (ET) (66.89 KB - PDF)
 
 **First published:** 16/05/2014 **Last updated:** 25/03/2026
 
@@ -474,25 +498,19 @@ hrvatski (HR) (74.48 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/bemfola-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (62.19 KB - PDF)
-
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
-
-[View](/is/documents/all-authorised-presentations/bemfola-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (63.92 KB - PDF)
 
 **First published:** 16/05/2014 **Last updated:** 25/03/2026
 
 [View](/it/documents/all-authorised-presentations/bemfola-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (68.99 KB - PDF)
+latviešu (LV) (68.99 KB - PDF)
 
 **First published:** 16/05/2014 **Last updated:** 25/03/2026
 
 [View](/lv/documents/all-authorised-presentations/bemfola-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (66.45 KB - PDF)
+lietuvių (LT) (66.45 KB - PDF)
 
 **First published:** 16/05/2014 **Last updated:** 25/03/2026
 
@@ -515,12 +533,6 @@ Nederlands (NL) (63.82 KB - PDF)
 **First published:** 16/05/2014 **Last updated:** 25/03/2026
 
 [View](/nl/documents/all-authorised-presentations/bemfola-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (67.92 KB - PDF)
-
-**First published:** 16/05/2014 **Last updated:** 25/03/2026
-
-[View](/no/documents/all-authorised-presentations/bemfola-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (68.23 KB - PDF)
 
@@ -552,7 +564,7 @@ slovenščina (SL) (65.56 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/bemfola-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (64.32 KB - PDF)
+suomi (FI) (64.32 KB - PDF)
 
 **First published:** 16/05/2014 **Last updated:** 25/03/2026
 
@@ -564,27 +576,30 @@ svenska (SV) (67.92 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/bemfola-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (62.19 KB - PDF)
+
+**First published:** 16/05/2014 **Last updated:** 25/03/2026
+
+[View](/is/documents/all-authorised-presentations/bemfola-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (67.92 KB - PDF)
+
+**First published:** 16/05/2014 **Last updated:** 25/03/2026
+
+[View](/no/documents/all-authorised-presentations/bemfola-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Bemfola
-
-Active substance
-
-follitropin alfa
-
-International non-proprietary name (INN) or common name
-
-follitropin alfa
-
-Therapeutic area (MeSH)
-
-Anovulation
-
-Anatomical therapeutic chemical (ATC) code
-
-G03GA05
+- **Name of medicine**
+    - Bemfola
+- **Active substance**
+    - follitropin alfa
+- **International non-proprietary name (INN) or common name**
+    - follitropin alfa
+- **Therapeutic area (MeSH)**
+    - Anovulation
+- **Anatomical therapeutic chemical (ATC) code**
+    - G03GA05
 
 ### Pharmacotherapeutic group
 
@@ -604,31 +619,20 @@ In adult men:
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/002615
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Gedeon Richter Plc.
-
-Gyomroi ut 19-21
-
-Opinion adopted
-
-22/01/2014
-
-Marketing authorisation issued
-
-26/03/2014
-
-Revision
-
-12
+- **EMA product number**
+    - EMEA/H/C/002615
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Gedeon Richter Plc. Gyomroi ut 19-21  
+1103 Budapest  
+Hungary
+- **Opinion adopted**
+    - 22/01/2014
+- **Marketing authorisation issued**
+    - 26/03/2014
+- **Revision**
+    - 13
 
 ## Assessment history
 
@@ -636,13 +640,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Bemfola : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (155.82 KB - PDF)
+English (EN) (158.52 KB - PDF)
 
-**First published:** 25/03/2026
+**First published:** 25/03/2026 **Last updated:** 13/10/2026
 
 [View](/en/documents/procedural-steps-after/bemfola-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -654,7 +658,7 @@ English (EN) (145.16 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/bemfola-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Bemfola : EPAR - Public assessment report
 
@@ -686,13 +690,8 @@ English (EN) (70.5 KB - PDF)
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
 
-## Topics
-
-- [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-25/03/2026
+13/10/2026
 
 ## Share this page

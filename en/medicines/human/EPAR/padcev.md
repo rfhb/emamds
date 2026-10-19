@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-09-24 15:38:00
+document_datetime: 2026-10-16 17:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/padcev.html
 document_name: padcev.html
 version: success
-processing_time: 0.1854344
-conversion_datetime: 2026-09-25 19:55:48.835633
+processing_time: 0.2089243
+conversion_datetime: 2026-10-19 23:49:29.045248
 docling_version:
-  docling-serve: 1.34.0
-  docling-jobkit: 3.7.0
-  docling: 2.130.0
-  docling-core: 2.98.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
   docling-ibm-models: 4.0.3
-  docling-parse: 7.21.0
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.7-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Padcev
 
 [RSS](/en/individual-human-medicine.xml/67486)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -124,7 +124,7 @@ English (EN) (163.59 KB - PDF)
 
 [View](/en/documents/overview/padcev-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-790)
+[Other languages (22)](#file-language-dropdown-717)
 
 български (BG) (180.97 KB - PDF)
 
@@ -260,9 +260,9 @@ svenska (SV) (150.35 KB - PDF)
 
 Padcev : EPAR - Risk management plan
 
-English (EN) (996.8 KB - PDF)
+English (EN) (1.03 MB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 22/07/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/en/documents/rmp/padcev-epar-risk-management-plan_en.pdf)
 
@@ -270,161 +270,161 @@ English (EN) (996.8 KB - PDF)
 
 Padcev : EPAR - Product information
 
-English (EN) (516.85 KB - PDF)
+English (EN) (760.59 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/en/documents/product-information/padcev-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-535)
+[Other languages (24)](#file-language-dropdown-329)
 
-български (BG) (565.79 KB - PDF)
+български (BG) (684.82 KB - PDF)
 
 **First published:** 05/05/2022 **Last updated:** 24/09/2026
 
 [View](/bg/documents/product-information/padcev-epar-product-information_bg.pdf)
 
-español (ES) (556.07 KB - PDF)
+español (ES) (641.76 KB - PDF)
 
 **First published:** 05/05/2022 **Last updated:** 24/09/2026
 
 [View](/es/documents/product-information/padcev-epar-product-information_es.pdf)
 
-čeština (CS) (567.62 KB - PDF)
+čeština (CS) (652.33 KB - PDF)
 
 **First published:** 05/05/2022 **Last updated:** 24/09/2026
 
 [View](/cs/documents/product-information/padcev-epar-product-information_cs.pdf)
 
-dansk (DA) (556.81 KB - PDF)
+dansk (DA) (701.04 KB - PDF)
 
 **First published:** 05/05/2022 **Last updated:** 24/09/2026
 
 [View](/da/documents/product-information/padcev-epar-product-information_da.pdf)
 
-Deutsch (DE) (626.38 KB - PDF)
+Deutsch (DE) (723.42 KB - PDF)
 
 **First published:** 05/05/2022 **Last updated:** 24/09/2026
 
 [View](/de/documents/product-information/padcev-epar-product-information_de.pdf)
 
-eesti (ET) (569.67 KB - PDF)
+eesti (ET) (702.17 KB - PDF)
 
 **First published:** 05/05/2022 **Last updated:** 24/09/2026
 
 [View](/et/documents/product-information/padcev-epar-product-information_et.pdf)
 
-ελληνικά (EL) (606.21 KB - PDF)
+ελληνικά (EL) (758.48 KB - PDF)
 
 **First published:** 05/05/2022 **Last updated:** 24/09/2026
 
 [View](/el/documents/product-information/padcev-epar-product-information_el.pdf)
 
-français (FR) (711.66 KB - PDF)
+français (FR) (840.67 KB - PDF)
 
 **First published:** 05/05/2022 **Last updated:** 24/09/2026
 
 [View](/fr/documents/product-information/padcev-epar-product-information_fr.pdf)
 
-hrvatski (HR) (581.72 KB - PDF)
+hrvatski (HR) (671.76 KB - PDF)
 
 **First published:** 05/05/2022 **Last updated:** 24/09/2026
 
 [View](/hr/documents/product-information/padcev-epar-product-information_hr.pdf)
 
-italiano (IT) (605.55 KB - PDF)
+italiano (IT) (774.87 KB - PDF)
 
 **First published:** 05/05/2022 **Last updated:** 24/09/2026
 
 [View](/it/documents/product-information/padcev-epar-product-information_it.pdf)
 
-latviešu (LV) (574 KB - PDF)
+latviešu (LV) (682.18 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/lv/documents/product-information/padcev-epar-product-information_lv.pdf)
 
-lietuvių (LT) (558.29 KB - PDF)
+lietuvių (LT) (637.63 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/lt/documents/product-information/padcev-epar-product-information_lt.pdf)
 
-magyar (HU) (601.31 KB - PDF)
+magyar (HU) (713.58 KB - PDF)
 
 **First published:** 05/05/2022 **Last updated:** 24/09/2026
 
 [View](/hu/documents/product-information/padcev-epar-product-information_hu.pdf)
 
-Malti (MT) (619.92 KB - PDF)
+Malti (MT) (739.38 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/mt/documents/product-information/padcev-epar-product-information_mt.pdf)
 
-Nederlands (NL) (558.28 KB - PDF)
+Nederlands (NL) (698.54 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/nl/documents/product-information/padcev-epar-product-information_nl.pdf)
 
-polski (PL) (576.64 KB - PDF)
+polski (PL) (739.11 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/pl/documents/product-information/padcev-epar-product-information_pl.pdf)
 
-português (PT) (564.41 KB - PDF)
+português (PT) (696.96 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/pt/documents/product-information/padcev-epar-product-information_pt.pdf)
 
-română (RO) (553.21 KB - PDF)
+română (RO) (626.04 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/ro/documents/product-information/padcev-epar-product-information_ro.pdf)
 
-slovenčina (SK) (570.58 KB - PDF)
+slovenčina (SK) (728.77 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/sk/documents/product-information/padcev-epar-product-information_sk.pdf)
 
-slovenščina (SL) (546.79 KB - PDF)
+slovenščina (SL) (688.77 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/sl/documents/product-information/padcev-epar-product-information_sl.pdf)
 
-suomi (FI) (574.98 KB - PDF)
+suomi (FI) (725.64 KB - PDF)
 
 **First published:** 05/05/2022 **Last updated:** 24/09/2026
 
 [View](/fi/documents/product-information/padcev-epar-product-information_fi.pdf)
 
-svenska (SV) (538.49 KB - PDF)
+svenska (SV) (703.92 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/sv/documents/product-information/padcev-epar-product-information_sv.pdf)
 
-Íslenska (IS) (599.09 KB - PDF)
+Íslenska (IS) (644.65 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/is/documents/product-information/padcev-epar-product-information_is.pdf)
 
-norsk (NO) (536.16 KB - PDF)
+norsk (NO) (681.58 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 24/09/2026
+**First published:** 05/05/2022 **Last updated:** 16/10/2026
 
 [View](/no/documents/product-information/padcev-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000336134
+**Latest procedure affecting product information:** VR/0000336191
 
-21/09/2026
+15/10/2026
 
 icon globe
 
@@ -449,7 +449,7 @@ English (EN) (19.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/padcev-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-671)
+[Other languages (24)](#file-language-dropdown-300)
 
 български (BG) (43.13 KB - PDF)
 
@@ -617,7 +617,7 @@ Antineoplastic agents
 
 **Muscle invasive bladder cancer (MIBC)**
 
-Padcev, in combination with pembrolizumab, as neoadjuvant treatment and then continued after radical cystectomy as adjuvant treatment, is indicated for the treatment of adult patients with resectable muscle invasive bladder cancer (MIBC) who are ineligible for cisplatin-containing chemotherapy.
+Padcev, in combination with pembrolizumab, as neoadjuvant treatment and then continued after radical cystectomy as adjuvant treatment, is indicated for the treatment of adult patients with resectable muscle invasive bladder cancer (MIBC).
 
 **Unresectable or metastatic urothelial cancer**
 
@@ -634,13 +634,15 @@ Padcev as monotherapy is indicated for the treatment of adult patients with loca
 - **Additional monitoring**
     - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
 - **Marketing authorisation holder**
-    - Astellas Pharma Europe B.V. Sylviusweg 62  2333 BE Leiden  The Netherlands
+    - Astellas Pharma Europe B.V. Sylviusweg 62  
+2333 BE Leiden  
+The Netherlands
 - **Opinion adopted**
     - 24/02/2022
 - **Marketing authorisation issued**
     - 13/04/2022
 - **Revision**
-    - 10
+    - 11
 
 ## Assessment history
 
@@ -652,13 +654,13 @@ Collapse section
 
 Padcev : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (165.62 KB - PDF)
+English (EN) (189.9 KB - PDF)
 
-**First published:** 17/07/2025 **Last updated:** 24/09/2026
+**First published:** 17/07/2025 **Last updated:** 16/10/2026
 
 [View](/en/documents/procedural-steps-after/padcev-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-779)
+[Other languages (24)](#file-language-dropdown-660)
 
 български (BG) (565.79 KB - PDF)
 
@@ -812,6 +814,16 @@ English (EN) (189.32 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/padcev-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Padcev-VR-0000336191 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3286435
+
+English (EN) (9.75 MB - PDF)
+
+**First published:** 16/10/2026
+
+[View](/en/documents/variation-report/padcev-vr-0000336191-epar-assessment-report-variation_en.pdf)
+
 Padcev-PSUSA-00010989-202512 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
 Reference Number: EMADOC-1700519818-3353923
@@ -821,6 +833,16 @@ English (EN) (226.54 KB - PDF)
 **First published:** 24/09/2026
 
 [View](/en/documents/scientific-conclusion/padcev-psusa-00010989-202512-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Padcev (VR0000336191)
+
+Adopted Reference Number: EMADOC-1700519818-3421346
+
+English (EN) (123.31 KB - PDF)
+
+**First published:** 18/09/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-padcev-vr0000336191_en.pdf)
 
 Padcev-VR-0000312495 : EPAR - Assessment report - Variation
 
@@ -910,15 +932,14 @@ English (EN) (116.48 KB - PDF)
 
 - [EMEA-002299-PIP02-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002299-pip02-23)
 - [Padcev - opinion on variation to marketing authorisation](/en/medicines/human/variation/padcev)
-- [Padcev - opinion on variation to marketing authorisation](/en/medicines/human/variation/padcev-0)
+- [Non-interventional Observational and Nationwide French Study on Real-life Enfortumab Vedotin Outcomes as First-line Urothelial Carcinoma Treatment - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000763)
 - [A Non-interventional Real-World Study on Dose Modifications of Enfortumab Vedotin (EV) in Combination with Pembrolizumab (P) in Previously Untreated Patients with Advanced Urothelial Carcinoma in Germany - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000467)
-- [Real-life Enfortumab Vedotin Outcomes as First-line Urothelial Carcinoma Treatment in the Non-interventional Observational and Nationwide French Study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000763)
 - [Enfortumab vedotin for the treatment of patients with locally advanced or metastatic urothelial cancer previously treated with chemotherapy and immunotherapy: a multicenter, non-interventional study in Italy (EVIDENCE) - post-authorisation study](https://catalogues.ema.europa.eu/study/199003)
 - [Real-world use of enfortumab vedotin for the treatment of patients with locally advanced or metastatic urothelial cancer previously treated with chemotherapy and immunotherapy: a multicenter, retrospective, non-interventional study in France - post-authorisation study](https://catalogues.ema.europa.eu/study/105592)
 - [A Non-Interventional Post-Authorization Safety Study (NI-PASS) as an effectiveness check of a Patient Card for Padcev™ - post-authorisation study](https://catalogues.ema.europa.eu/study/104457)
 
 **This page was last updated on**
 
-24/09/2026
+16/10/2026
 
 ## Share this page

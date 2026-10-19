@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-01 14:15:00
+document_datetime: 2026-10-15 12:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/koselugo.html
 document_name: koselugo.html
 version: success
-processing_time: 0.1664939
-conversion_datetime: 2026-07-04 13:06:47.435439
+processing_time: 0.1951018
+conversion_datetime: 2026-10-19 23:46:23.955897
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Koselugo
 
 [RSS](/en/individual-human-medicine.xml/67450)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -124,7 +124,7 @@ English (EN) (126.43 KB - PDF)
 
 [View](/en/documents/overview/koselugo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-790)
+[Other languages (22)](#file-language-dropdown-958)
 
 български (BG) (151.85 KB - PDF)
 
@@ -260,9 +260,9 @@ svenska (SV) (122.42 KB - PDF)
 
 Koselugo : EPAR - Risk management plan
 
-English (EN) (617.69 KB - PDF)
+English (EN) (793.71 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 01/07/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/en/documents/rmp/koselugo-epar-risk-management-plan_en.pdf)
 
@@ -270,167 +270,161 @@ English (EN) (617.69 KB - PDF)
 
 Koselugo : EPAR - Product information
 
-English (EN) (654.31 KB - PDF)
+English (EN) (616.69 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/en/documents/product-information/koselugo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-670)
+[Other languages (23)](#file-language-dropdown-36)
 
-български (BG) (866.54 KB - PDF)
+български (BG) (856.16 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/bg/documents/product-information/koselugo-epar-product-information_bg.pdf)
 
-español (ES) (685.48 KB - PDF)
+español (ES) (644.49 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/es/documents/product-information/koselugo-epar-product-information_es.pdf)
 
-čeština (CS) (3.25 MB - PDF)
+čeština (CS) (1.29 MB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/cs/documents/product-information/koselugo-epar-product-information_cs.pdf)
 
-dansk (DA) (631.99 KB - PDF)
+dansk (DA) (623.98 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/da/documents/product-information/koselugo-epar-product-information_da.pdf)
 
-Deutsch (DE) (706.47 KB - PDF)
+Deutsch (DE) (696.98 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/de/documents/product-information/koselugo-epar-product-information_de.pdf)
 
-eesti (ET) (643.5 KB - PDF)
+eesti (ET) (624.72 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/et/documents/product-information/koselugo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (840.61 KB - PDF)
+ελληνικά (EL) (828.04 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/el/documents/product-information/koselugo-epar-product-information_el.pdf)
 
-français (FR) (797.21 KB - PDF)
+français (FR) (791.61 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/fr/documents/product-information/koselugo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (756.73 KB - PDF)
+hrvatski (HR) (745.98 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/hr/documents/product-information/koselugo-epar-product-information_hr.pdf)
 
-italiano (IT) (731.37 KB - PDF)
+italiano (IT) (721.08 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/it/documents/product-information/koselugo-epar-product-information_it.pdf)
 
-latviešu (LV) (739.95 KB - PDF)
+lietuvių (LT) (803.37 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
-
-[View](/lv/documents/product-information/koselugo-epar-product-information_lv.pdf)
-
-lietuvių (LT) (826.55 KB - PDF)
-
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/lt/documents/product-information/koselugo-epar-product-information_lt.pdf)
 
-magyar (HU) (855.05 KB - PDF)
+magyar (HU) (817.7 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/hu/documents/product-information/koselugo-epar-product-information_hu.pdf)
 
-Malti (MT) (794.71 KB - PDF)
+Malti (MT) (786.5 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/mt/documents/product-information/koselugo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (653.48 KB - PDF)
+Nederlands (NL) (645.35 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/nl/documents/product-information/koselugo-epar-product-information_nl.pdf)
 
-polski (PL) (815.79 KB - PDF)
+polski (PL) (800.78 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/pl/documents/product-information/koselugo-epar-product-information_pl.pdf)
 
-português (PT) (772.48 KB - PDF)
+português (PT) (749.28 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/pt/documents/product-information/koselugo-epar-product-information_pt.pdf)
 
-română (RO) (806.15 KB - PDF)
+română (RO) (793.57 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/ro/documents/product-information/koselugo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (763.55 KB - PDF)
+slovenčina (SK) (751.91 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/sk/documents/product-information/koselugo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (702.74 KB - PDF)
+slovenščina (SL) (694.43 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/sl/documents/product-information/koselugo-epar-product-information_sl.pdf)
 
-suomi (FI) (660.97 KB - PDF)
+suomi (FI) (649.67 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/fi/documents/product-information/koselugo-epar-product-information_fi.pdf)
 
-svenska (SV) (660.18 KB - PDF)
+svenska (SV) (652.2 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/sv/documents/product-information/koselugo-epar-product-information_sv.pdf)
 
-Íslenska (IS) (662.11 KB - PDF)
+Íslenska (IS) (654.32 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/is/documents/product-information/koselugo-epar-product-information_is.pdf)
 
-norsk (NO) (643.51 KB - PDF)
+norsk (NO) (633.9 KB - PDF)
 
-**First published:** 13/10/2021 **Last updated:** 26/05/2026
+**First published:** 13/10/2021 **Last updated:** 15/10/2026
 
 [View](/no/documents/product-information/koselugo-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** X/0018/G
+**Latest procedure affecting product information:** VR/0000347385
 
-09/01/2026
+03/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -449,7 +443,7 @@ English (EN) (51.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/koselugo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-223)
+[Other languages (24)](#file-language-dropdown-956)
 
 български (BG) (46.9 KB - PDF)
 
@@ -629,13 +623,14 @@ Koselugo as monotherapy is indicated for the treatment of symptomatic, inoperabl
 - **Orphan**
     - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
 - **Marketing authorisation holder**
-    - AstraZeneca AB 151 85 Sodertalje  Sweden
+    - AstraZeneca AB 151 85 Sodertalje  
+Sweden
 - **Opinion adopted**
     - 22/04/2021
 - **Marketing authorisation issued**
     - 17/06/2021
 - **Revision**
-    - 9
+    - 10
 
 ## Assessment history
 
@@ -647,9 +642,9 @@ Collapse section
 
 Koselugo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.65 KB - PDF)
+English (EN) (174.33 KB - PDF)
 
-**First published:** 28/01/2026
+**First published:** 28/01/2026 **Last updated:** 15/10/2026
 
 [View](/en/documents/procedural-steps-after/koselugo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -772,6 +767,6 @@ English (EN) (103.04 KB - PDF)
 
 **This page was last updated on**
 
-01/07/2026
+15/10/2026
 
 ## Share this page

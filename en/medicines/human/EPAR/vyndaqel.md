@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-27 17:30:00
+document_datetime: 2026-10-14 16:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyndaqel.html
 document_name: vyndaqel.html
 version: success
-processing_time: 0.2362057
-conversion_datetime: 2026-09-02 22:33:53.235689
+processing_time: 0.474636
+conversion_datetime: 2026-10-19 23:53:35.855088
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Vyndaqel
 
 [RSS](/en/individual-human-medicine.xml/66830)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -47,209 +47,221 @@ Page contents
 
 ## Overview
 
-This is a summary of the European public assessment report (EPAR) for Vyndaqel. It explains how the Committee for Medicinal Products for Human Use (CHMP) assessed the medicine to reach its opinion in favour of granting a marketing authorisation and its recommendations on the conditions of use for Vyndaqel.
+Vyndaqel is a medicine used to treat transthyretin amyloidosis, a disease in which abnormal protein fibres called amyloid build up in tissues around the body.
 
-This product originally had an [orphan designation for familial amyloid polyneuropathy](/en/medicines/human/orphan-designations/eu-3-06-401) , granted on 28 August 2006. This designation was withdrawn from the Community register of orphan medicinal products in November 2021 at the end of the 10-year period of market exclusivity.
+It is used in the following patients:
+
+- adults with early-stage nerve disease (stage 1) caused by transthyretin amyloidosis (ATTR-PN)
+
+- adults with cardiomyopathy (ATTR-CM), where amyloid builds up in the heart. For ATTR-CM, Vyndaqel is used for both hereditary and non-hereditary types.
+
+Senile systemic amyloidosis (a condition caused by the build-up of amyloid) is rare, and Vyndaqel was designated an 'orphan medicine' (a medicine used in rare diseases) for this condition on 8 November 2012. Further information on the orphan designation can be found on the [EMA website](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-1066) .
+
+Vyndaqel contains the active substance tafamidis.
 
 Expand section
 
 Collapse section
 
-### What is Vyndaqel?
-
-Vyndaqel is a medicine that contains the active substance tafamidis. It is available as capsules (20 mg).
-
-### What is Vyndaqel used for?
-
-Vyndaqel is used to delay nerve damage caused by transthyretin amyloidosis, a hereditary disease in which fibres called amyloid build up in tissues around the body including around the nerves. Vyndaqel is used in adult patients with the early stage of nerve disease (stage 1).
-
-Because the number of patients with transthyretin amyloidosis is low, the disease is considered 'rare', and Vyndaqel was designated an 'orphan medicine' (a medicine used in rare diseases) on 28 August 2006.
-
-The medicine can only be obtained with a prescription.
-
 ### How is Vyndaqel used?
 
-Treatment should be started and supervised by a doctor knowledgeable in the management of patients with this disease. The recommended dose is one capsule once a day.
+Treatment with Vyndaqel should be started and supervised by a doctor knowledgeable in the management of patients with the diseases Vyndaqel is used to treat. It is available as capsules and tablets to be taken by mouth once a day.
+
+For more information about using Vyndaqel, see the package leaflet or contact your doctor or pharmacist.
 
 ### How does Vyndaqel work?
 
-In patients with transthyretin amyloidosis, a blood protein called transthyretin is defective and breaks easily. The broken protein forms a fibrous substance called amyloid that is deposited in tissues and organs around the body, including around nerves, where it interferes with their normal functions.
+In patients with transthyretin amyloidosis, a blood protein called transthyretin is defective and breaks easily. The broken protein forms a fibrous substance called amyloid that builds up in tissues and organs around the body, including around nerves and the heart, where it interferes with their normal functions.
 
-The active substance in Vyndaqel, tafamidis, is a transthyretin stabilizer. It attaches to transthyretin, which prevents the protein from breaking up, thereby stopping the formation of amyloid and slowing down the progression of the nerve disease.
+The active substance in Vyndaqel, tafamidis, is a transthyretin stabiliser. It attaches to transthyretin, which prevents the protein from breaking up, thereby stopping the formation of amyloid and slowing down the progression of the nerve or heart disease.
 
-### How has Vyndaqel been studied?
+### What benefits of Vyndaqel have been shown in studies?
 
-Vyndaqel was compared with placebo (a dummy treatment) in 128 patients with transthyretin amyloidosis. The main measure of effectiveness was based on an assessment of the patients' nerve damage and quality of life after 18 months of treatment.
+**Transthyretin amyloid polyneuropathy (ATTR-PN)**
 
-### What benefit has Vyndaqel shown during the studies?
+Vyndaqel was compared with placebo (a dummy treatment) in 128 patients with ATTR-PN. The main measure of effectiveness was based on an assessment of the patients' nerve damage and quality of life after 18 months of treatment.
 
-Vyndaqel was more effective than placebo at treating patients with transthyretin amyloidosis. In 45% of patients taking Vyndaqel, nerve function either improved or stabilised, compared with 30% of patients taking placebo. The results did not include patients with more severe disease who left the study early because they needed to undergo a liver transplant.
+In 45% of patients taking Vyndaqel, nerve function either improved or stabilised, compared with 30% of patients taking placebo. The results did not include patients with more severe disease who left the study early because they needed to undergo a liver transplant.
 
-### What is the risk associated with Vyndaqel?
+**Transthyretin amyloidosis with cardiomyopathy (ATTR-CM)**
 
-The most common side effects with Vyndaqel (seen in more than 1 patient in 10) are urinary tract infection (infection of the structures that carry urine), vaginal infection, upper abdominal pain (stomach ache) and diarrhoea. For the full list of all side effects and restrictions with Vyndaqel, see the package leaflet.
+In a main study, Vyndaqel was shown to reduce mortality (the risk of death) due to all causes and the number of hospitalisations due to cardiovascular (heart and blood vessel) problems in patients with ATTR-CM compared with placebo.
 
-### Why has Vyndaqel been approved?
+The study involved 441 adults with wild-type or hereditary ATTR-CM who received either Vyndaqel or placebo for 30 months. The results showed that compared with placebo, treatment with Vyndaqel reduced the risk of death by around 30% and the frequency of hospitalisations due to cardiovascular problems by 32%.
 
-The CHMP noted that, apart from in patients who left the study because they needed a liver transplant, Vyndaqel was more effective than placebo in delaying nerve damage in patients with transthyretin amyloidosis. The medicine presented no major safety concerns and the risks were considered to be manageable. The CHMP therefore concluded that the benefits of Vyndaqel are greater than its risks and recommended that it be granted marketing authorisation.
+Studies carried out with Vyndaqel are described in more detail in the medicine's assessment reports.
 
-Vyndaqel has been authorised under 'exceptional circumstances'. This means that because transthyretin amyloidosis is rare, for scientific reasons, it has not been possible to obtain complete information about Vyndaqel. Every year, the European Medicines Agency will review any new information that may become available and this summary will be updated as necessary.
+### What are the side effects and restrictions with Vyndaqel?
 
-### What information is still awaited for Vyndaqel?
+For the full list of side effects and restrictions with Vyndaqel, see the package leaflet.
 
-The company that makes Vyndaqel will carry out a study on the effects of the medicine in a subgroup of patients with certain genetic mutations. The company will also provide long-term post-marketing safety data.
+In patients with ATTR-PN, the most common side effects with Vyndaqel (which may affect more than 1 in 10 people) include urinary tract infection (infection of the structures that carry urine), diarrhoea and upper abdominal (belly) pain.
+
+In patients with ATTR-CM, the most common side effects (which may affect up to 1 in 10 people) include diarrhoea, rash and itching.
+
+### Why is Vyndaqel authorised in the EU?
+
+Apart from in patients with ATTR-PN who left the study because they needed a liver transplant, Vyndaqel was more effective than placebo in delaying nerve damage in patients with transthyretin amyloidosis. In patients with ATTR-CM, Vyndaqel was shown to reduce the risk of death and the number of hospitalisations due to cardiovascular problems compared with placebo. The medicine presented no major safety concerns and the risks were considered to be manageable.
+
+The European Medicines Agency therefore decided that Vyndaqel's benefits are greater than its risks and that it can be authorised for use in the EU.
+
+Vyndaqel has been authorised for ATTR-PN under 'exceptional circumstances'. This is because it has not been possible to obtain complete information about Vyndaqel due to the rarity of the disease. The company that makes Vyndaqel will provide any new information about the effects of Vyndaqel on disease progression and its long-term safety in certain patients every year. The Agency will review these data annually.
 
 ### What measures are being taken to ensure the safe and effective use of Vyndaqel?
 
-The company that markets Vyndaqel will provide educational material to all doctors expected to prescribe Vyndaqel. The material will include a leaflet containing information on the risks of the medicine including the risks to the unborn baby and on how to contribute to a post-marketing study and a surveillance programme for pregnant women.
+The company that markets Vyndaqel will provide educational material to all healthcare professionals expected to prescribe Vyndaqel. The material will include information about the need to use contraception (birth control) and avoid pregnancy while using the medicine. It also explains how pregnant women can take part in a surveillance programme and how to diagnose ATTR-CM before prescribing Vyndaqel to make sure it is the right treatment for the patient.
+
+These materials may be made available by national competent authorities on their websites. A list of national repositories is available on the [EMA website](https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/risk-minimisation-measures-rmm#national-repositories-76380) .
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Vyndaqel have also been included in the summary of product characteristics and the package leaflet.
 
+As for all medicines, data on the use of Vyndaqel are continuously monitored. Suspected side effects reported with Vyndaqel are carefully evaluated and any necessary action is taken to protect patients.
+
 ### Other information about Vyndaqel
 
-The European Commission granted a marketing authorisation valid throughout the European Union for Vyndaqel on 16 November 2011.
+Vyndaqel received a marketing authorisation under exceptional circumstances valid throughout the EU on 16 November 2011.
 
-For more information about treatment with Vyndaqel, read the package leaflet (also part of the EPAR) or contact your doctor or pharmacist.
+Vyndaqel : EPAR - Medicine overview
 
-Vyndaqel : EPAR - Summary for the public
+Reference Number: EMADOC-1829012207-69346
 
-English (EN) (78.69 KB - PDF)
+English (EN) (153.01 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
-[View](/en/documents/overview/vyndaqel-epar-summary-public_en.pdf)
+[View](/en/documents/overview/vyndaqel-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-792)
+[Other languages (22)](#file-language-dropdown-77)
 
-български (BG) (103.94 KB - PDF)
+български (BG) (166.51 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/bg/documents/overview/vyndaqel-epar-summary-public_bg.pdf)
 
-español (ES) (77.87 KB - PDF)
+español (ES) (151.45 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/es/documents/overview/vyndaqel-epar-summary-public_es.pdf)
 
-čeština (CS) (103.44 KB - PDF)
+čeština (CS) (164.3 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/cs/documents/overview/vyndaqel-epar-summary-public_cs.pdf)
 
-dansk (DA) (77.01 KB - PDF)
+dansk (DA) (151.76 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/da/documents/overview/vyndaqel-epar-summary-public_da.pdf)
 
-Deutsch (DE) (78.75 KB - PDF)
+Deutsch (DE) (155.59 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/de/documents/overview/vyndaqel-epar-summary-public_de.pdf)
 
-eesti (ET) (76.01 KB - PDF)
+eesti (ET) (149.82 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/et/documents/overview/vyndaqel-epar-summary-public_et.pdf)
 
-ελληνικά (EL) (107.66 KB - PDF)
+ελληνικά (EL) (167.49 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/el/documents/overview/vyndaqel-epar-summary-public_el.pdf)
 
-français (FR) (78.29 KB - PDF)
+français (FR) (153.32 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/fr/documents/overview/vyndaqel-epar-summary-public_fr.pdf)
 
-hrvatski (HR) (105.84 KB - PDF)
+hrvatski (HR) (162.57 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/hr/documents/overview/vyndaqel-epar-summary-public_hr.pdf)
 
-italiano (IT) (77.32 KB - PDF)
+italiano (IT) (151.78 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/it/documents/overview/vyndaqel-epar-summary-public_it.pdf)
 
-latviešu (LV) (99.69 KB - PDF)
+latviešu (LV) (172.51 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/lv/documents/overview/vyndaqel-epar-summary-public_lv.pdf)
 
-lietuvių (LT) (101.58 KB - PDF)
+lietuvių (LT) (163.56 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/lt/documents/overview/vyndaqel-epar-summary-public_lt.pdf)
 
-magyar (HU) (98.95 KB - PDF)
+magyar (HU) (164.29 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/hu/documents/overview/vyndaqel-epar-summary-public_hu.pdf)
 
-Malti (MT) (104.08 KB - PDF)
+Malti (MT) (167.03 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/mt/documents/overview/vyndaqel-epar-summary-public_mt.pdf)
 
-Nederlands (NL) (77.5 KB - PDF)
+Nederlands (NL) (151.69 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/nl/documents/overview/vyndaqel-epar-summary-public_nl.pdf)
 
-polski (PL) (103.93 KB - PDF)
+polski (PL) (167.22 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/pl/documents/overview/vyndaqel-epar-summary-public_pl.pdf)
 
-português (PT) (77.98 KB - PDF)
+português (PT) (152.51 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/pt/documents/overview/vyndaqel-epar-summary-public_pt.pdf)
 
-română (RO) (100.28 KB - PDF)
+română (RO) (162.61 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/ro/documents/overview/vyndaqel-epar-summary-public_ro.pdf)
 
-slovenčina (SK) (102.79 KB - PDF)
+slovenčina (SK) (165.43 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/sk/documents/overview/vyndaqel-epar-summary-public_sk.pdf)
 
-slovenščina (SL) (98.36 KB - PDF)
+slovenščina (SL) (162.85 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/sl/documents/overview/vyndaqel-epar-summary-public_sl.pdf)
 
-suomi (FI) (76.62 KB - PDF)
+suomi (FI) (147.38 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/fi/documents/overview/vyndaqel-epar-summary-public_fi.pdf)
 
-svenska (SV) (77.11 KB - PDF)
+svenska (SV) (151.08 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 02/08/2016
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/sv/documents/overview/vyndaqel-epar-summary-public_sv.pdf)
 
@@ -271,7 +283,7 @@ English (EN) (1.23 MB - PDF)
 
 [View](/en/documents/product-information/vyndaqel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-105)
+[Other languages (24)](#file-language-dropdown-879)
 
 български (BG) (894.45 KB - PDF)
 
@@ -417,9 +429,9 @@ norsk (NO) (592.97 KB - PDF)
 
 [View](/no/documents/product-information/vyndaqel-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000297114
+**Latest procedure affecting product information:** X/0000287968
 
-12/03/2026
+20/08/2026
 
 icon globe
 
@@ -438,155 +450,155 @@ Product information documents contain:
 
 Vyndaqel : EPAR - All Authorised presentations
 
-English (EN) (63.43 KB - PDF)
+English (EN) (120.01 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/en/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-474)
+[Other languages (24)](#file-language-dropdown-398)
 
-български (BG) (52.28 KB - PDF)
+български (BG) (52.26 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/bg/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (43.9 KB - PDF)
+español (ES) (43.85 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/es/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (48.09 KB - PDF)
+čeština (CS) (52.89 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/cs/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (45.01 KB - PDF)
+dansk (DA) (44.91 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/da/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (46.95 KB - PDF)
+Deutsch (DE) (46.92 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/de/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_de.pdf)
 
 eesti (ET) (43.03 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/et/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (49.26 KB - PDF)
+ελληνικά (EL) (49.12 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/el/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (44.25 KB - PDF)
+français (FR) (44.53 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/fr/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (46.55 KB - PDF)
+hrvatski (HR) (46.5 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/hr/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_hr.pdf)
 
-italiano (IT) (44.26 KB - PDF)
+italiano (IT) (44.34 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/it/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_it.pdf)
 
-latviešu (LV) (47.96 KB - PDF)
+latviešu (LV) (47.85 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/lv/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių (LT) (48.64 KB - PDF)
+lietuvių (LT) (48.63 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/lt/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (49.28 KB - PDF)
+magyar (HU) (50.56 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/hu/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (49.6 KB - PDF)
+Malti (MT) (49.84 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/mt/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (42.53 KB - PDF)
+Nederlands (NL) (42.48 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/nl/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_nl.pdf)
 
-polski (PL) (48.86 KB - PDF)
+polski (PL) (49.82 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/pl/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (44.28 KB - PDF)
+português (PT) (44.18 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/pt/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (47.52 KB - PDF)
+română (RO) (47.54 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/ro/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (48.58 KB - PDF)
+slovenčina (SK) (48.81 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/sk/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (47.18 KB - PDF)
+slovenščina (SL) (47.19 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/sl/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_sl.pdf)
 
 suomi (FI) (43.01 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/fi/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (44.81 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/sv/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_sv.pdf)
 
-Íslenska (IS) (47.28 KB - PDF)
+Íslenska (IS) (47.31 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/is/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_is.pdf)
 
-norsk (NO) (46.15 KB - PDF)
+norsk (NO) (46.16 KB - PDF)
 
-**First published:** 18/11/2011 **Last updated:** 27/08/2026
+**First published:** 18/11/2011 **Last updated:** 14/10/2026
 
 [View](/no/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_no.pdf)
 
@@ -598,7 +610,7 @@ English (EN) (95.21 KB - PDF)
 
 [View](/en/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-82)
+[Other languages (23)](#file-language-dropdown-420)
 
 български (BG) (130.36 KB - PDF)
 
@@ -746,7 +758,7 @@ English (EN) (61.67 KB - PDF)
 
 [View](/en/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-999)
+[Other languages (24)](#file-language-dropdown-94)
 
 български (BG) (105.99 KB - PDF)
 
@@ -924,13 +936,15 @@ Vyndaqel is indicated for the treatment of transthyretin amyloidosis in adult pa
 - **Orphan**
     - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
 - **Marketing authorisation holder**
-    - Pfizer Europe MA EEIG Boulevard de la Plaine 17  1050 Bruxelles  Belgium
+    - Pfizer Europe MA EEIG Boulevard de la Plaine 17  
+1050 Bruxelles  
+Belgium
 - **Opinion adopted**
     - 21/07/2011
 - **Marketing authorisation issued**
     - 16/11/2011
 - **Revision**
-    - 32
+    - 33
 
 ## Assessment history
 
@@ -1050,7 +1064,7 @@ English (EN) (324.91 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-736)
+[Other languages (24)](#file-language-dropdown-493)
 
 български (BG) (425.66 KB - DOCX)
 
@@ -1204,6 +1218,6 @@ norsk (NO) (399.67 KB - DOCX)
 
 **This page was last updated on**
 
-27/08/2026
+14/10/2026
 
 ## Share this page

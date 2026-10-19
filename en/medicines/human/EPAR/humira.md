@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-05 16:40:00
+document_datetime: 2026-10-14 14:58:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/humira.html
 document_name: humira.html
 version: success
-processing_time: 0.285842
-conversion_datetime: 2026-08-07 13:54:43.832781
+processing_time: 0.3766903
+conversion_datetime: 2026-10-19 23:44:19.831469
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Humira
 
 [RSS](/en/individual-human-medicine.xml/67120)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -133,7 +133,7 @@ English (EN) (105.88 KB - PDF)
 
 [View](/en/documents/overview/humira-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-888)
+[Other languages (22)](#file-language-dropdown-402)
 
 български (BG) (130 KB - PDF)
 
@@ -269,9 +269,9 @@ svenska (SV) (105.38 KB - PDF)
 
 Humira : EPAR - Risk management plan
 
-English (EN) (1.2 MB - PDF)
+English (EN) (879.66 KB - PDF)
 
-**First published:** 12/07/2019 **Last updated:** 05/08/2026
+**First published:** 12/07/2019 **Last updated:** 14/10/2026
 
 [View](/en/documents/rmp/humira-epar-risk-management-plan_en.pdf)
 
@@ -285,7 +285,7 @@ English (EN) (1.66 MB - PDF)
 
 [View](/en/documents/product-information/humira-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-577)
+[Other languages (24)](#file-language-dropdown-437)
 
 български (BG) (1.91 MB - PDF)
 
@@ -431,15 +431,15 @@ norsk (NO) (1.73 MB - PDF)
 
 [View](/no/documents/product-information/humira-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000342430
+**Latest procedure affecting product information:** EMA/VR/0000287800
 
-09/07/2026
+08/10/2025
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -458,7 +458,7 @@ English (EN) (28.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-520)
+[Other languages (24)](#file-language-dropdown-295)
 
 български (BG) (39.08 KB - PDF)
 
@@ -637,11 +637,13 @@ Please refer to the product information document.
 - **EMA product number**
     - EMEA/H/C/000481
 - **Marketing authorisation holder**
-    - AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse  67061 Ludwigshafen  Germany
+    - AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse  
+67061 Ludwigshafen  
+Germany
 - **Marketing authorisation issued**
     - 08/09/2003
 - **Revision**
-    - 98
+    - 99
 
 ## Assessment history
 
@@ -653,9 +655,9 @@ Collapse section
 
 Humira : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (153.68 KB - PDF)
+English (EN) (169.48 KB - PDF)
 
-**First published:** 20/03/2025 **Last updated:** 05/08/2026
+**First published:** 20/03/2025 **Last updated:** 14/10/2026
 
 [View](/en/documents/procedural-steps-after/humira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1497,7 +1499,7 @@ English (EN) (3.09 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-342)
+[Other languages (24)](#file-language-dropdown-268)
 
 български (BG) (3.42 MB - DOCX)
 
@@ -1663,6 +1665,6 @@ norsk (NO) (3.28 MB - DOCX)
 
 **This page was last updated on**
 
-05/08/2026
+14/10/2026
 
 ## Share this page

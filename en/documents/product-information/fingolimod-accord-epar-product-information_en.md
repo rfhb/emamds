@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-19 14:05:38
+document_datetime: 2026-10-13 13:49:21
 document_pages: 58
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fingolimod-accord-epar-product-information_en.pdf
 document_name: fingolimod-accord-epar-product-information_en.pdf
 version: success
-processing_time: 16.7890612
-conversion_datetime: 2025-12-19 13:38:54.851589
+processing_time: 14.3277035
+conversion_datetime: 2026-10-19 22:50:43.470993
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,9 +34,9 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Hard capsule
+Hard capsule (capsule)
 
-Bright yellow opaque/white opaque size '3' hard gelatin capsule imprinted with 'FO 0.5 mg' on the cap with black ink, containing white to off-white powder. Each capsule is approximately 15.8 mm in length.
+Bright yellow opaque/white opaque size \"3\" hard gelatin capsule imprinted with \"FO 0.5 mg\" on the cap with black ink, containing white to off-white powder. Each capsule is approximately 15.8 mm in length.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -44,24 +44,24 @@ Bright yellow opaque/white opaque size '3' hard gelatin capsule imprinted with '
 
 Fingolimod Accord is indicated as single disease modifying therapy in highly active relapsing remitting multiple sclerosis for the following groups of adult patients and paediatric patients aged 10 years and older:
 
-- -Patients with highly active disease despite a full and adequate course of treatment with at least one disease modifying therapy (for exceptions and information about washout periods see sections 4.4 and 5.1).
+- Patients with highly active disease despite a full and adequate course of treatment with at least one disease modifying therapy (for exceptions and information about washout periods see sections 4.4 and 5.1).
 
 or
 
-- -Patients with rapidly evolving severe relapsing remitting multiple sclerosis defined by 2 or more disabling relapses in one year, and with 1 or more Gadolinium enhancing lesions on brain MRI or a significant increase in T2 lesion load as compared to a previous recent MRI.
+- Patients with rapidly evolving severe relapsing remitting multiple sclerosis defined by 2 or more disabling relapses in one year, and with 1 or more Gadolinium enhancing lesions on brain MRI or a significant increase in T2 lesion load as compared to a previous recent MRI.
 
 ## 4.2 Posology and method of administration
 
 The treatment should be initiated and supervised by a physician experienced in multiple sclerosis.
 
-## Posology
+Posology
 
-In adults, the recommended dose of Fingolimod Accord is one 0.5 mg capsule taken orally once daily.
+In adults, the recommended dose of fingolimod is one 0.5 mg capsule taken orally once daily.
 
 In paediatric patients (10 years of age and above), the recommended dose is dependent on body weight:
 
-- -Paediatric patients with body weight ≤40 kg: one 0.25 mg capsule taken orally once daily.
-- -Paediatric patients with body weight &gt;40 kg: one 0.5 mg capsule taken orally once daily.
+- Paediatric patients with body weight ≤40 kg: one 0.25 mg capsule taken orally once daily.
+- Paediatric patients with body weight &gt;40 kg: one 0.5 mg capsule taken orally once daily.
 
 Paediatric patients who start on 0.25 mg capsules and subsequently reach a stable body weight above 40 kg should be switched to 0.5 mg capsules.
 
@@ -73,9 +73,9 @@ Fingolimod Accord is not available in 0.25 mg strength. For this dosage, other m
 
 The same first dose monitoring as for treatment initiation is recommended when treatment is interrupted for:
 
-- -1 day or more during the first 2 weeks of treatment.
-- -more than 7 days during weeks 3 and 4 of treatment.
-- -more than 2 weeks after one month of treatment.
+- 1 day or more during the first 2 weeks of treatment.
+- more than 7 days during weeks 3 and 4 of treatment.
+- more than 2 weeks after one month of treatment.
 
 If the treatment interruption is of shorter duration than the above, the treatment should be continued with the next dose as planned (see section 4.4).
 
@@ -103,27 +103,27 @@ There are very limited data available in children between 10-12 years old (see s
 
 This medicinal product is for oral use.
 
-Fingolimod Accord can be taken with or without food (see section 5.2)
+Fingolimod Accord can be taken with or without food (see section 5.2).
 
 The capsules should always be swallowed intact, without opening them.
 
 ## 4.3 Contraindications
 
-- -Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-- -Immunodeficiency syndrome.
-- -Patients with increased risk for opportunistic infections, including immunocompromised patients (including those currently receiving immunosuppressive therapies or those immunocompromised by prior therapies).
-- -Suspected or confirmed progressive multifocal leukoencephalopathy (PML) (see section 4.4).
-- -Severe active infections, active chronic infections (hepatitis, tuberculosis).
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Immunodeficiency syndrome.
+- Patients with increased risk for opportunistic infections, including immunocompromised patients (including those currently receiving immunosuppressive therapies or those immunocompromised by prior therapies).
+- Suspected or confirmed progressive multifocal leukoencephalopathy (PML) (see section 4.4).
+- Severe active infections, active chronic infections (hepatitis, tuberculosis).
 
 <div style=\"page-break-after: always\"></div>
 
-- -Active malignancies.
-- -Severe liver impairment (Child-Pugh class C).
-- -Patients who in the previous 6 months had myocardial infarction (MI), unstable angina pectoris, stroke/transient ischaemic attack (TIA), decompensated heart failure (requiring inpatient treatment), or New York Heart Association (NYHA) class III/IV heart failure (see section 4.4).
-- -Patients with severe cardiac arrhythmias requiring anti-arrhythmic treatment with class Ia or class III anti-arrhythmic medicinal products (see section 4.4).
-- -Patients with second-degree Mobitz type II atrioventricular (AV) block or third-degree AV block, or sick-sinus syndrome, if they do not wear a pacemaker (see section 4.4).
-- -Patients with a baseline QTc interval ≥ 500 msec (see section 4.4).
-- -During pregnancy and in women of childbearing potential not using effective contraception (see sections 4.4 and 4.6).
+- Active malignancies.
+- Severe liver impairment (Child-Pugh class C).
+- Patients who in the previous 6 months had myocardial infarction (MI), unstable angina pectoris, stroke/transient ischaemic attack (TIA), decompensated heart failure (requiring inpatient treatment), or New York Heart Association (NYHA) class III/IV heart failure (see section 4.4).
+- Patients with severe cardiac arrhythmias requiring anti-arrhythmic treatment with class Ia or class III anti-arrhythmic medicinal products (see section 4.4).
+- Patients with second-degree Mobitz type II atrioventricular (AV) block or third-degree AV block, or sick-sinus syndrome, if they do not wear a pacemaker (see section 4.4).
+- Patients with a baseline QTc interval ≥ 500 msec (see section 4.4).
+- During pregnancy and in women of childbearing potential not using effective contraception (see sections 4.4 and 4.6).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -141,11 +141,9 @@ Should post-dose bradyarrhythmia-related symptoms occur, appropriate clinical ma
 
 If the heart rate at 6 hours is the lowest since the first dose was administered (suggesting that the maximum pharmacodynamic effect on the heart may not yet be manifest), monitoring should be extended by at least 2 hours and until heart rate increases again. Additionally, if after 6 hours, the heart rate is &lt;45 bpm in adults, &lt;55 bpm in paediatric patients aged 12 years and above, or &lt;60 bpm in paediatric patients aged 10 to below 12 years, or the ECG shows new onset second degree or higher grade AV block or a QTc interval ≥500 msec, extended monitoring (at least overnight monitoring), should be performed, and until the findings have resolved. The occurrence at any time of third degree AV block should also lead to extended monitoring (at least overnight monitoring).
 
-The effects on heart rate and atrioventricular conduction may recur on re-introduction of fingolimod treatment depending on duration of the interruption and time since start of treatment. The same first
+The effects on heart rate and atrioventricular conduction may recur on re-introduction of fingolimod treatment depending on duration of the interruption and time since start of treatment. The same first dose monitoring as for treatment initiation is recommended when treatment is interrupted (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-dose monitoring as for treatment initiation is recommended when treatment is interrupted (see section 4.2).
 
 Very rare cases of T-wave inversion have been reported in adult patients treated with fingolimod. In case of T-wave inversion, the prescriber should ensure that there are no associated myocardial ischaemia signs or symptoms. If myocardial ischaemia is suspected, it is recommended to seek advice from a cardiologist.
 
@@ -167,7 +165,7 @@ Medicinal products that may prolong QTc interval are best avoided in patients wi
 
 <div style=\"page-break-after: always\"></div>
 
-Fingolimod has an immunosuppressive effect that predisposes patients to an infection risk, including opportunistic infections that can be fatal, and increases the risk of developing lymphomas and other malignancies, particularly those of the skin. Physicians should carefully monitor patients, especially those with concurrent conditions or known factors, such as previous immunosuppressive therapy. If this risk is suspected, discontinuation of treatment should be considered by the physician on a case-bycase basis (see also section 4.4 'Infections' and 'Cutaneous malignancies' and section 4.8 'Lymphomas').
+Fingolimod has an immunosuppressive effect that predisposes patients to an infection risk, including opportunistic infections that can be fatal, and increases the risk of developing lymphomas and other malignancies, particularly those of the skin. Physicians should carefully monitor patients, especially those with concurrent conditions or known factors, such as previous immunosuppressive therapy. If this risk is suspected, discontinuation of treatment should be considered by the physician on a case-bycase basis (see also section 4.4 \"Infections\" and \"Cutaneous malignancies\" and section 4.8 \"Lymphomas\").
 
 ## Infections
 
@@ -209,11 +207,9 @@ Human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and
 
 Macular oedema with or without visual symptoms has been reported in 0.5% of patients treated with fingolimod 0.5 mg, occurring predominantly in the first 3-4 months of therapy (see section 4.8). An ophthalmological evaluation is therefore recommended at 3-4 months after treatment initiation. If patients report visual disturbances at any time while on therapy, evaluation of the fundus, including the macula, should be carried out.
 
-Patients with history of uveitis and patients with diabetes mellitus are at increased risk of macular oedema (see section 4.8). Fingolimod has not been studied in multiple sclerosis patients with
+Patients with history of uveitis and patients with diabetes mellitus are at increased risk of macular oedema (see section 4.8). Fingolimod has not been studied in multiple sclerosis patients with concomitant diabetes mellitus. It is recommended that multiple sclerosis patients with diabetes mellitus or a history of uveitis undergo an ophthalmological evaluation prior to initiating therapy and have follow-up evaluations while receiving therapy.
 
 <div style=\"page-break-after: always\"></div>
-
-concomitant diabetes mellitus. It is recommended that multiple sclerosis patients with diabetes mellitus or a history of uveitis undergo an ophthalmological evaluation prior to initiating therapy and have follow-up evaluations while receiving therapy.
 
 Continuation of treatment in patients with macular oedema has not been evaluated. It is recommended that Fingolimod Accord be discontinued if a patient develops macular oedema. A decision on whether or not therapy should be re-initiated after resolution of macular oedema needs to take into account the potential benefits and risks for the individual patient.
 
@@ -232,10 +228,6 @@ Patients who develop symptoms suggestive of hepatic dysfunction, such as unexpla
 Although there are no data to establish that patients with pre-existing liver disease are at increased risk of developing elevated liver function tests when taking fingolimod, caution in the use of Fingolimod Accord should be exercised in patients with a history of significant liver disease.
 
 <div style=\"page-break-after: always\"></div>
-
-## Interference with serological testing
-
-Since fingolimod reduces blood lymphocyte counts via re-distribution in secondary lymphoid organs, peripheral blood lymphocyte counts cannot be utilised to evaluate the lymphocyte subset status of a patient treated with Fingolimod Accord. Laboratory tests involving the use of circulating mononuclear cells require larger blood volumes due to reduction in the number of circulating lymphocytes.
 
 ## Blood pressure effects
 
@@ -259,9 +251,9 @@ Fingolimod Accord can generally be started immediately after discontinuation of 
 
 For dimethyl fumarate, the washout period should be sufficient for CBC to recover before treatment with Fingolimod Accord is started.
 
-<div style=\"page-break-after: always\"></div>
-
 Due to the long elimination half-life of natalizumab, elimination usually takes up to 2-3 months following discontinuation. Teriflunomide is also eliminated slowly from the plasma. Without an accelerated elimination procedure, clearance of teriflunomide from plasma can take from several months up to 2 years. An accelerated elimination procedure as defined in the teriflunomide summary of product characteristics is recommended or alternatively washout period should not be shorter than 3.5 months. Caution regarding potential concomitant immune effects is required when switching patients from natalizumab or teriflunomide to Fingolimod Accord.
+
+<div style=\"page-break-after: always\"></div>
 
 Alemtuzumab has profound and prolonged immunosuppressive effects. As the actual duration of these effects is unknown, initiating treatment with Fingolimod Accord after alemtuzumab is not recommended unless the benefits of such treatment clearly outweigh the risks for the individual patient.
 
@@ -289,23 +281,25 @@ Due to risk to the foetus, fingolimod is contraindicated during pregnancy and in
 
 ## Tumefactive lesions
 
-Rare cases of tumefactive lesions associated with MS relapse were reported in the post-marketing setting. In case of severe relapses, MRI should be performed to exclude tumefactive lesions.
-
-<div style=\"page-break-after: always\"></div>
-
-Discontinuation of treatment should be considered by the physician on a case-by-case basis taking into account individual benefits and risks.
+Rare cases of tumefactive lesions associated with MS relapse were reported in the post-marketing setting. In case of severe relapses, MRI should be performed to exclude tumefactive lesions. Discontinuation of treatment should be considered by the physician on a case-by-case basis taking into account individual benefits and risks.
 
 ## Return of disease activity (rebound) after fingolimod discontinuation
 
-In the post-marketing setting, severe exacerbation of disease has been observed rarely in some patients stopping fingolimod. This has generally been observed within 12 weeks after stopping fingolimod, but has also been reported up to 24 weeks after fingolimod discontinuation. Caution is therefore indicated when stopping fingolimod therapy. If discontinuation of fingolimod is deemed necessary, the possibility of recurrence of exceptionally high disease activity should be considered and patients should be monitored for relevant signs and symptoms and appropriate treatment initiated as required (see 'Stopping therapy' below).
+In the post-marketing setting, severe exacerbation of disease has been observed rarely in some patients stopping fingolimod. This has generally been observed within 12 weeks after stopping fingolimod, but has also been reported up to 24 weeks after fingolimod discontinuation. Caution is therefore indicated when stopping fingolimod therapy. If discontinuation of fingolimod is deemed necessary, the possibility of recurrence of exceptionally high disease activity should be considered and patients should be monitored for relevant signs and symptoms and appropriate treatment initiated as required (see \"Stopping therapy\" below).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Stopping therapy
 
 If a decision is made to stop treatment with Fingolimod Accord a 6 week interval without therapy is needed, based on half-life, to clear fingolimod from the circulation (see section 5.2). Lymphocyte counts progressively return to normal range within 1-2 months of stopping therapy in most patients (see section 5.1) although full recovery can take significantly longer in some patients. Starting other therapies during this interval will result in concomitant exposure to fingolimod. Use of immunosuppressants soon after the discontinuation of Fingolimod Accord may lead to an additive effect on the immune system and caution is therefore indicated.
 
-After stopping fingolimod in the setting of PML, it is recommended to monitor patients for development of immune reconstitution inflammatory syndrome (PML-IRIS) (see 'Progressive multifocal leukoencephalopathy' above).
+After stopping fingolimod in the setting of PML, it is recommended to monitor patients for development of immune reconstitution inflammatory syndrome (PML-IRIS) (see \"Progressive multifocal leukoencephalopathy\" above).
 
-Caution is also indicated when stopping fingolimod therapy due to the risk of a rebound (see 'Return of disease activity (rebound) after fingolimod discontinuation' above). If discontinuation of Fingolimod Accord is deemed necessary, patients should be monitored during this time for relevant signs of a possible rebound.
+Caution is also indicated when stopping fingolimod therapy due to the risk of a rebound (see \"Return of disease activity (rebound) after fingolimod discontinuation\" above). If discontinuation of Fingolimod Accord is deemed necessary, patients should be monitored during this time for relevant signs of a possible rebound.
+
+## Interference with serological testing
+
+Since fingolimod reduces blood lymphocyte counts via re-distribution in secondary lymphoid organs, peripheral blood lymphocyte counts cannot be utilised to evaluate the lymphocyte subset status of a patient treated with Fingolimod Accord. Laboratory tests involving the use of circulating mononuclear cells require larger blood volumes due to reduction in the number of circulating lymphocytes.
 
 ## Paediatric population
 
@@ -313,12 +307,12 @@ The safety profile in paediatric patients is similar to that in adults and the w
 
 In particular, the following should be noted when prescribing Fingolimod Accord to paediatric patients:
 
-- -Precautions should be followed at the time of the first dose (see 'Bradyarrhythmia' above). The same precautions as for the first dose are recommended when patients are switched from the 0.25 mg to the 0.5 mg daily dose.
-- -In the controlled paediatric trial D2311, cases of seizures, anxiety, depressed mood and depression have been reported with a higher incidence in patients treated with fingolimod compared to patients treated with interferon beta-1a. Caution is required in this subgroup population (see 'Paediatric population' in section 4.8).
-- -Mild isolated bilirubin increases have been noted in paediatric patients on fingolimod.
-- -It is recommended that paediatric patients complete all immunisations in accordance with current immunisation guidelines before starting Fingolimod Accord therapy (see 'Infections' above).
-- -There are very limited data available in children between 10-12 years old, less than 40 kg or at Tanner stage &lt;2 (see sections 4.8 and 5.1). Caution is required in these subgroups due to very limited knowledge available from the clinical study.
-- -Long-term safety data in the paediatric population are not available.
+- Precautions should be followed at the time of the first dose (see \"Bradyarrhythmia\" above). The same precautions as for the first dose are recommended when patients are switched from the 0.25 mg to the 0.5 mg daily dose.
+- In the controlled paediatric trial D2311, cases of seizures, anxiety, depressed mood and depression have been reported with a higher incidence in patients treated with fingolimod compared to patients treated with interferon beta-1a. Caution is required in this subgroup population (see \"Paediatric population\" in section 4.8).
+- Mild isolated bilirubin increases have been noted in paediatric patients on fingolimod.
+- It is recommended that paediatric patients complete all immunisations in accordance with current immunisation guidelines before starting Fingolimod Accord therapy (see \"Infections\" above).
+- There are very limited data available in children between 10-12 years old, less than 40 kg or at Tanner stage &lt;2 (see sections 4.8 and 5.1). Caution is required in these subgroups due to very limited knowledge available from the clinical study.
+- Long-term safety data in the paediatric population are not available.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -370,9 +364,9 @@ Based on human experience, post-marketing data suggest that use of fingolimod is
 
 The following major malformations were most frequently reported:
 
-- -Congenital heart disease such as atrial and ventricular septal defects, tetralogy of Fallot
-- -Renal abnormalities
-- -Musculoskeletal abnormalities
+- Congenital heart disease such as atrial and ventricular septal defects, tetralogy of Fallot
+- Renal abnormalities
+- Musculoskeletal abnormalities
 
 There are no data on the effects of fingolimod on labour and delivery.
 
@@ -414,8 +408,8 @@ Adverse reactions reported in clinical trials and derived from post-marketing ex
 | Not known:                                                          | Progressive multifocal leukoencephalopathy (PML)** Cryptococcal infections** |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps)          |
 | Common:                                                             | Basal cell carcinoma                                                         |
-| Uncommon:                                                           | Malignant melanoma****                                                       |
-| Rare:                                                               | Lymphoma*** Squamous cell carcinoma****                                      |
+| Uncommon:                                                           | Malignant melanoma**** Squamous cell carcinoma*****                          |
+| Rare:                                                               | Lymphoma***                                                                  |
 | Very rare:                                                          | Kaposi's sarcoma****                                                         |
 | Not known:                                                          | Merkel cell carcinoma***                                                     |
 | Blood and lymphatic system disorders                                | Blood and lymphatic system disorders                                         |
@@ -468,7 +462,7 @@ Adverse reactions reported in clinical trials and derived from post-marketing ex
 * The frequency category was based on an estimated exposure of approximately 10 000 patients to fingolimod in all clinical trials.
 - ** PML, IRIS and cryptococcal infections (including cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4).
 - *** Adverse reactions from spontaneous reports and literature
-- ****  The frequency category and risk assessment were based on an estimated exposure of more than 24 000 patients to fingolimod 0.5 mg in all clinical trials.
+- **** The frequency category and risk assessment were based on an estimated exposure of more than 24 000 patients to fingolimod 0.5 mg in all clinical trials.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -494,11 +488,9 @@ Macular oedema incidence is increased in multiple sclerosis patients with a hist
 
 Initiation of treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays. In multiple sclerosis clinical studies the maximal decline in heart rate was seen within 6 hours after treatment initiation, with declines in mean heart rate of 12-13 beats per minute for fingolimod 0.5 mg. Heart rate below 40 beats per minute in adults, and below 50 beats per minute in paediatric patients, was rarely observed in patients on fingolimod 0.5 mg. The average heart rate returned towards baseline within 1 month of chronic treatment. Bradycardia was generally asymptomatic but some patients experienced mild to moderate symptoms, including hypotension, dizziness, fatigue and/or palpitations, which resolved within the first 24 hours after treatment initiation (see also sections 4.4 and 5.1).
 
-In multiple sclerosis clinical studies first-degree atrioventricular block (prolonged PR interval on ECG) was detected after treatment initiation in adult and paediatric patients. In adult clinical trials it occurred in 4.7% of patients on fingolimod 0.5 mg, in 2.8% of patients on intramuscular interferon beta-1a, and in 1.6% of patients on placebo. Second-degree atrioventricular block was detected in less than 0.2% adult patients on fingolimod 0.5 mg. In the post-marketing setting, isolated reports of transient, spontaneously resolving complete AV block have been observed during the six hour
+In multiple sclerosis clinical studies first-degree atrioventricular block (prolonged PR interval on ECG) was detected after treatment initiation in adult and paediatric patients. In adult clinical trials it occurred in 4.7% of patients on fingolimod 0.5 mg, in 2.8% of patients on intramuscular interferon beta-1a, and in 1.6% of patients on placebo. Second-degree atrioventricular block was detected in less than 0.2% adult patients on fingolimod 0.5 mg. In the post-marketing setting, isolated reports of transient, spontaneously resolving complete AV block have been observed during the six hour monitoring period following the first dose of fingolimod. The patients recovered spontaneously. The conduction abnormalities observed both in clinical trials and post-marketing were typically transient, asymptomatic and resolved within the first 24 hours after treatment initiation. Although most patients did not require medical intervention, one patient on fingolimod 0.5 mg received isoprenaline for asymptomatic second-degree Mobitz I atrioventricular block.
 
 <div style=\"page-break-after: always\"></div>
-
-monitoring period following the first dose of fingolimod. The patients recovered spontaneously. The conduction abnormalities observed both in clinical trials and post-marketing were typically transient, asymptomatic and resolved within the first 24 hours after treatment initiation. Although most patients did not require medical intervention, one patient on fingolimod 0.5 mg received isoprenaline for asymptomatic second-degree Mobitz I atrioventricular block.
 
 In the post-marketing setting, isolated delayed onset events, including transient asystole and unexplained death, have occurred within 24 hours of the first dose. These cases have been confounded by concomitant medicinal products and/or pre-existing disease. The relationship of such events to fingolimod is uncertain.
 
@@ -526,11 +518,9 @@ Minor dose-dependent reductions in values for forced expiratory volume (FEV1) an
 
 ## Lymphomas
 
-There have been cases of lymphoma of different varieties, in both clinical studies and the postmarketing setting, including a fatal case of Epstein-Barr virus (EBV) positive B-cell lymphoma. The
-
 <div style=\"page-break-after: always\"></div>
 
-incidence of non-Hodgkin's lymphoma (B-cell and T-cell) cases was higher in clinical trials than expected in the general population. Some T-cell lymphoma cases were also reported in the post-marketing setting, including cases of cutaneous T-cell lymphoma (mycosis fungoides) (see also section 4.4, Malignancies).
+There have been cases of lymphoma of different varieties, in both clinical studies and the postmarketing setting, including a fatal case of Epstein-Barr virus (EBV) positive B-cell lymphoma. The incidence of non-Hodgkin's lymphoma (B-cell and T-cell) cases was higher in clinical trials than expected in the general population. Some T-cell lymphoma cases were also reported in the post-marketing setting, including cases of cutaneous T-cell lymphoma (mycosis fungoides) (see also section 4.4, Malignancies).
 
 ## Haemophagocytic syndrome
 
@@ -558,11 +548,11 @@ Fingolimod can induce bradycardia upon treatment initiation. The decline in hear
 
 If the overdose constitutes first exposure to fingolimod, it is important to monitor patients with a continuous (real time) ECG and hourly measurement of heart rate and blood pressure, at least during the first 6 hours (see section 4.4).
 
-Additionally, if after 6 hours the heart rate is &lt;45 bpm in adults, &lt;55 bpm in paediatric patients aged 12 years and above, or &lt;60 bpm in paediatric patients aged 10 years to below 12 years, or if the ECG at 6 hours after the first dose shows second degree or higher AV block, or if it shows a QTc interval ≥500 msec, monitoring should be extended at least for overnight and until the findings have resolved.
+Additionally, if after 6 hours the heart rate is &lt;45 bpm in adults, &lt;55 bpm in paediatric patients aged 12 years and above, or &lt;60 bpm in paediatric patients aged 10 years to below 12 years, or if the ECG at 6 hours after the first dose shows second degree or higher AV block, or if it shows a QTc interval
 
 <div style=\"page-break-after: always\"></div>
 
-The occurrence at any time of third degree AV block should also lead to extended monitoring including overnight monitoring.
+≥500 msec, monitoring should be extended at least for overnight and until the findings have resolved. The occurrence at any time of third degree AV block should also lead to extended monitoring including overnight monitoring.
 
 Neither dialysis nor plasma exchange results in removal of fingolimod from the body.
 
@@ -596,17 +586,17 @@ Study D2301 (FREEDOMS) was a 2-year randomised, double-blind, placebo-controlled
 
 Table 1 Study D2301 (FREEDOMS): main results
 
-|                                                                                                                                                                                                                             | Fingolimod 0.5 mg                                                                                                                                                                                                           | Placebo                                                                                                                                                                                                                     |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Clinical endpoints                                                                                                                                                                                                          |                                                                                                                                                                                                                             |                                                                                                                                                                                                                             |
-| Annualised relapse rate (primary endpoint)                                                                                                                                                                                  | 0.18**                                                                                                                                                                                                                      | 0.40                                                                                                                                                                                                                        |
-| Percentage of patients remaining relapse-free at 24 months                                                                                                                                                                  | 70%**                                                                                                                                                                                                                       | 46%                                                                                                                                                                                                                         |
-| Proportion with 3-month Confirmed Disability Progression† Hazard ratio (95% CI)                                                                                                                                             | 17% 0.70 (0.52, 0.96)*                                                                                                                                                                                                      | 24%                                                                                                                                                                                                                         |
-| MRI endpoints                                                                                                                                                                                                               |                                                                                                                                                                                                                             |                                                                                                                                                                                                                             |
-| Median (mean) number of new or enlarging T2 lesions over 24 months                                                                                                                                                          | 0.0 (2.5)**                                                                                                                                                                                                                 | 5.0 (9.8)                                                                                                                                                                                                                   |
-| Median (mean) number of Gd-enhancing lesions at month 24                                                                                                                                                                    | 0.0 (0.2)**                                                                                                                                                                                                                 | 0.0 (1.1)                                                                                                                                                                                                                   |
-| Median (mean) %change in brain volume over 24 months                                                                                                                                                                        | -0.7 (-0.8)**                                                                                                                                                                                                               | -1.0 (-1.3)                                                                                                                                                                                                                 |
-| † Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p<0.001, *p<0.05 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p<0.001, *p<0.05 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p<0.001, *p<0.05 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. |
+|                                                                                                                                                                                                       | Fingolimod 0.5 mg      | Placebo     |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-------------|
+| Clinical endpoints                                                                                                                                                                                    |                        |             |
+| Annualised relapse rate (primary endpoint)                                                                                                                                                            | 0.18**                 | 0.40        |
+| Percentage of patients remaining relapse-free at 24 months                                                                                                                                            | 70%**                  | 46%         |
+| Proportion with 3-month Confirmed Disability Progression† Hazard ratio (95% CI)                                                                                                                       | 17% 0.70 (0.52, 0.96)* | 24%         |
+| MRI endpoints                                                                                                                                                                                         |                        |             |
+| Median (mean) number of new or enlarging T2 lesions over 24 months                                                                                                                                    | 0.0 (2.5)**            | 5.0 (9.8)   |
+| Median (mean) number of Gd-enhancing lesions at month 24                                                                                                                                              | 0.0 (0.2)**            | 0.0 (1.1)   |
+| Median (mean) % change in brain volume over 24 months                                                                                                                                                 | -0.7 (-0.8)**          | -1.0 (-1.3) |
+| † Disability progression defined as 1-point increase in EDSS confirmed 3 ** p<0.001, *p<0.05 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable | months later           | dataset.    |
 
 Patients who completed the 24-month core FREEDOMS study could enter a dose-blinded extension study (D2301E1) and receive fingolimod. In total, 920 patients entered (n=331 continued on 0.5 mg, 289 continued on 1.25 mg, 155 switched from placebo to 0.5 mg and 145 switched from placebo to
 
@@ -627,11 +617,7 @@ Table 2 Study D2309 (FREEDOMS 2): main results
 | MRI endpoints                                                                   |                       |               |
 | Median (mean) number of new or enlarging T2 lesions over 24 months              | 0.0 (2.3)**           | 4.0 (8.9)     |
 | Median (mean) number of Gd-enhancing lesions at month 24                        | 0.0 (0.4)**           | 0.0 (1.2)     |
-| Median (mean) %change in brain volume over 24 months                            | -0.71 (-0.86)**       | -1.02 (-1.28) |
-
-† Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p&lt;0.001 compared to placebo
-
-All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset.
+| Median (mean) % change in brain volume over 24 months                           | -0.71 (-0.86)**       | -1.02 (-1.28) |
 
 Study D2302 (TRANSFORMS) was a 1-year randomised, double-blind, double-dummy, active (interferon beta-1a)-controlled Phase III study of 1 280 patients (n=429 on 0.5 mg, 420 on 1.25 mg, 431 on interferon beta-1a, 30 μg by intramuscular injection once weekly). Median values for baseline characteristics were: age 36 years, disease duration 5.9 years, and EDSS score 2.0. Outcome results are shown in Table 3. There were no significant differences between the 0.5 mg and the 1.25 mg doses as regards study endpoints.
 
@@ -650,7 +636,7 @@ Table 3 Study D2302 (TRANSFORMS): main results
 
 | Median (mean) number of Gd-enhancing lesions at 12 months                                                                                                                                                                                | 0.0 (0.2)**                                                                                                                                                                                                                              | 0.0 (0.5)                                                                                                                                                                                                                                |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Median (mean) %change in brain volume over 12 months                                                                                                                                                                                     | -0.2 (-0.3)**                                                                                                                                                                                                                            | -0.4 (-0.5)                                                                                                                                                                                                                              |
+| Median (mean) % change in brain volume over 12 months                                                                                                                                                                                    | -0.2 (-0.3)**                                                                                                                                                                                                                            | -0.4 (-0.5)                                                                                                                                                                                                                              |
 | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later. * p<0.01,** p<0.001, compared to interferon beta-1a All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later. * p<0.01,** p<0.001, compared to interferon beta-1a All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later. * p<0.01,** p<0.001, compared to interferon beta-1a All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. |
 
 Patients who completed the 12-month core TRANSFORMS study could enter a dose-blinded extension (D2302E1) and receive fingolimod. In total, 1 030 patients entered, however, 3 of these patients did not receive treatment (n=356 continued on 0.5 mg, 330 continued on 1.25 mg, 167 switched from interferon beta-1a to 0.5 mg and 174 from interferon beta-1a to 1.25 mg). After 12 months (month 24), 882 patients (86%) were still enrolled. Between months 12 and 24, the ARR for patients on fingolimod 0.5 mg in the core study who remained on 0.5 mg was 0.20 (0.19 in the core study). The ARR for patients who switched from interferon beta-1a to fingolimod 0.5 mg was 0.33 (0.48 in the core study).
@@ -682,10 +668,10 @@ Table 4 Study D2311 (PARADIGMS): main results
 
 <div style=\"page-break-after: always\"></div>
 
-| Annualised rate of brain atrophy from baseline up to month 24   | Annualised rate of brain atrophy from baseline up to month 24                                                                                                                                                                                                                                                                                    | n=96                                                                                                                                                                                                                                                                                                                                             | n=89                                                                                                                                                                                                                                                                                                                                             |
-|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Least Square Mean                                               | Least Square Mean                                                                                                                                                                                                                                                                                                                                | -0.48*                                                                                                                                                                                                                                                                                                                                           | -0.80                                                                                                                                                                                                                                                                                                                                            |
-| # *                                                             | One patient randomised to receive interferon beta-1a by intramuscular injection was unable to swallow the double-dummy medication and discontinued from study. The patient was excluded from the full analysis and safety set. p<0.05, ** p<0.001, compared to interferon beta-1a. analyses of clinical endpoints were on the full analysis set. | One patient randomised to receive interferon beta-1a by intramuscular injection was unable to swallow the double-dummy medication and discontinued from study. The patient was excluded from the full analysis and safety set. p<0.05, ** p<0.001, compared to interferon beta-1a. analyses of clinical endpoints were on the full analysis set. | One patient randomised to receive interferon beta-1a by intramuscular injection was unable to swallow the double-dummy medication and discontinued from study. The patient was excluded from the full analysis and safety set. p<0.05, ** p<0.001, compared to interferon beta-1a. analyses of clinical endpoints were on the full analysis set. |
+| Annualised rate of brain atrophy from baseline up to month 24   | Annualised rate of brain atrophy from baseline up to month 24                                                                                                                                                                                                                      | n=96          | n=89                                                                                                                                                                                                                                                                               |
+|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Least Square Mean                                               | Least Square Mean                                                                                                                                                                                                                                                                  | -0.48*        | -0.80                                                                                                                                                                                                                                                                              |
+| # * All                                                         | One patient randomised to receive interferon beta-1a by intramuscular injection was unable to swallow the double-dummy medication and discontinued from study. The patient was excluded from the full analysis and safety set. p<0.05, ** p<0.001, compared to interferon beta-1a. | analysis set. | One patient randomised to receive interferon beta-1a by intramuscular injection was unable to swallow the double-dummy medication and discontinued from study. The patient was excluded from the full analysis and safety set. p<0.05, ** p<0.001, compared to interferon beta-1a. |
 
 ## 5.2 Pharmacokinetic properties
 
@@ -749,11 +735,9 @@ There are no data available for paediatric patients below 10 years old.
 
 ## 5.3 Preclinical safety data
 
-The preclinical safety profile of fingolimod was assessed in mice, rats, dogs and monkeys. The major target organs were the lymphoid system (lymphopenia and lymphoid atrophy), lungs (increased
+The preclinical safety profile of fingolimod was assessed in mice, rats, dogs and monkeys. The major target organs were the lymphoid system (lymphopenia and lymphoid atrophy), lungs (increased weight, smooth muscle hypertrophy at the bronchio-alveolar junction), and heart (negative chronotropic effect, increase in blood pressure, perivascular changes and myocardial degeneration) in several species; blood vessels (vasculopathy) in rats only at doses of 0.15 mg/kg and higher in a 2-year study, representing an approximate 4-fold margin based on the human systemic exposure (AUC) at a daily dose of 0.5 mg.
 
 <div style=\"page-break-after: always\"></div>
-
-weight, smooth muscle hypertrophy at the bronchio-alveolar junction), and heart (negative chronotropic effect, increase in blood pressure, perivascular changes and myocardial degeneration) in several species; blood vessels (vasculopathy) in rats only at doses of 0.15 mg/kg and higher in a 2-year study, representing an approximate 4-fold margin based on the human systemic exposure (AUC) at a daily dose of 0.5 mg.
 
 No evidence of carcinogenicity was observed in a 2-year bioassay in rats at oral doses of fingolimod up to the maximally tolerated dose of 2.5 mg/kg, representing an approximate 50-fold margin based on human systemic exposure (AUC) at the 0.5 mg dose. However, in a 2-year mouse study, an increased incidence of malignant lymphoma was seen at doses of 0.25 mg/kg and higher, representing an approximate 6-fold margin based on the human systemic exposure (AUC) at a daily dose of 0.5 mg.
 
@@ -779,15 +763,15 @@ Results from two toxicity studies in juvenile rats showed slight effects on neur
 
 Pregelatinised starch Magnesium stearate
 
-Capsule shell
+Capsule shell Gelatin Titanium dioxide (E171) Yellow iron oxide (E172)
 
 <div style=\"page-break-after: always\"></div>
 
-Gelatin Titanium dioxide (E171) Yellow iron oxide (E172)
-
 Printing ink
 
-Shellac (E904) Propylene glycol (E1520) Potassium hydroxide Black iron oxide (E172)
+Shellac (E904) Propylene glycol (E1520) Potassium hydroxide
+
+Black iron oxide (E172)
 
 ## 6.2 Incompatibilities
 
@@ -813,7 +797,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est, 6 a Planta, 08039 Barcelona, Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est, 6 a Planta, 08039 Barcelona,
+
+Spain
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -821,9 +807,7 @@ EU/1/20/1450/001-006
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 25
-
-th June 2020
+Date of first authorisation: 25 th June 2020
 
 <div style=\"page-break-after: always\"></div>
 
@@ -837,8 +821,10 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -850,7 +836,9 @@ LABORATORI FUNDACIÓ DAU C/ C, 12-14 Pol. Ind. Zona Franca, Barcelona, 08040 Bar
 
 Accord Healthcare Polska Sp. z.o.o. ul.Lutomierska 50, 95-200, Pabianice, Poland
 
-Accord Healthcare B.V. Utrecht, Winthontlaan 200 3526 KV at Utrecht, Netherlands
+Accord Healthcare B.V.
+
+Utrecht, Winthontlaan 200 3526 KV at Utrecht, Netherlands
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -860,15 +848,15 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic Safety Update Reports
+## · Periodic safety update reports (PSURs)
 
-The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk Management Plan (RMP)
+## · Risk management plan (RMP)
 
-The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
@@ -879,14 +867,14 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measures
 
-Prior to launch of Fingolimod Accord in each Member State the Marketing Authorisation Holder (MAH) must  agree about the content and format of the educational programme, including communication media,  distribution modalities, and any other aspects of the programme, with the National Competent  Authority (NCA).
+Prior to launch of Fingolimod Accord in each Member State the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority (NCA).
 
-The MAH shall ensure that in each Member State (MS) where Fingolimod Accord is marketed, all physicians  who intend to prescribe Fingolimod Accord are provided with an updated Physician Information Pack,  including:
+The MAH shall ensure that in each Member State (MS) where Fingolimod Accord is marketed, all physicians who intend to prescribe Fingolimod Accord are provided with an updated Physician Information Pack, including:
 
 1. Summary of Product Characteristics (SmPC);
-2. Physician's checklist for adult and pediatric patients, to consider prior to prescribing  Fingolimod Accord;
-3. The Patient / Parent / Caregiver's guide, to be provided to all patients, their parents (or legal  representatives), and caregivers;
-4. The pregnancy-specific patient reminder card, to be provided to all patients, their parents (or  legal representatives), and caregivers, as applicable.
+2. Physician's checklist for adult and pediatric patients, to consider prior to prescribing Fingolimod Accord;
+3. The Patient / Parent / Caregiver's guide, to be provided to all patients, their parents (or legal representatives), and caregivers;
+4. The pregnancy-specific patient reminder card, to be provided to all patients, their parents (or legal representatives), and caregivers, as applicable.
 
 ## Physician's checklist
 
@@ -900,7 +888,7 @@ The physician's checklist shall contain the following key messages:
 
 | Liver transaminase elevation   | • Do not initiate Fingolimod Accord in patients with severe liver impairment (Child-Pugh class C) • Transaminase and bilirubin levels should be obtained prior to initiation of Fingolimod Accord, monitored every 3 months for the first year on therapy, and periodically thereafter, up to 2 months after Fingolimod Accord discontinuation. • For asymptomatic elevations in liver function tests (LFTs), perform LFTs more frequently if increases in transaminase are greater than 3 times to less than 5 times upper limit of normal (ULN) without increase in serum bilirubin. Discontinue Fingolimod Accord for transaminase increase at least 5 times the ULN or at least 3 times the ULN associated with any increase in serum bilirubin. Restart Fingolimod Accord only after careful consideration of benefit-risk. • For patients with clinical symptoms of liver dysfunction, evaluate promptly and discontinue Fingolimod Accord if significant liver injury is confirmed. If serum levels return to normal (including if an alternative cause of the liver dysfunction is discovered), Fingolimod Accord may be restarted based on a careful benefit-risk assessment of the patient.   |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Macular oedema                 | • Obtain an ophthalmological assessment before starting Fingolimod Accord in patients with diabetes or a history of uveitis. • Obtain an ophthalmological assessment in all patients 3 to 4 months after initiating Fingolimod Accord. • It is recommended to discontinue Fingolimod Accord in patients who develop macular degeneration. Restart Fingolimod Accord only after careful consideration of benefit-risk.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Macular oedema                 | • Obtain an ophthalmological assessment before starting Fingolimod Accord in patients with diabetes or a history of uveitis. • Obtain an ophthalmological assessment in all patients 3 to 4 months after initiating Fingolimod Accord. • It is recommended to discontinue Fingolimod Accord in patients who develop macular odema. Restart Fingolimod Accord only after careful consideration of benefit-risk.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -963,6 +951,8 @@ The pregnancy-specific patient reminder card shall contain the following key mes
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 ## CARTON OF UNIT PACK
@@ -982,7 +972,6 @@ Each capsule contains 0.5 mg fingolimod (as hydrochloride).
 7 hard capsules
 
 - 28 hard capsules
-
 - 98 hard capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -1004,8 +993,6 @@ Keep out of the sight and reach of children.
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
 
 Store below 25°C.
 
@@ -1037,8 +1024,7 @@ EU/1/20/1450/003
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1059,7 +1045,7 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTERS FOR UNIT PACK
+## BLISTERS FOR UNIT PACK
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1069,7 +1055,7 @@ Fingolimod Accord 0.5 mg capsules fingolimod
 
 Accord
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -1078,6 +1064,8 @@ EXP
 Lot
 
 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1123,8 +1111,6 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Store below 25°C.
 
 <div style=\"page-break-after: always\"></div>
@@ -1155,8 +1141,9 @@ EU/1/20/1450/006
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1174,29 +1161,36 @@ SN
 
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+<div style=\"page-break-after: always\"></div>
 
-## SINGLE-UNIT-DOSE BLISTERS
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| SINGLE-UNIT-DOSE BLISTERS                             |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Fingolimod Accord 0.5 mg capsules fingolimod
+Fingolimod Accord 0.5 mg capsules
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+fingolimod
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Accord
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1208,14 +1202,14 @@ Lot
 
 ## Fingolimod Accord 0.5 mg hard capsules
 
-## fingolimod
+fingolimod
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet:
 
@@ -1236,11 +1230,11 @@ The active substance of Fingolimod Accord is fingolimod.
 
 Fingolimod Accord is used in adults and in children and adolescents (10 years of age and above) to treat relapsing-remitting multiple sclerosis (MS), more specifically in:
 
-- -Patients who have failed to respond despite treatment with an MS treatment.
+- Patients who have failed to respond despite treatment with an MS treatment.
 
 or
 
-- -Patients who have rapidly evolving severe MS.
+- Patients who have rapidly evolving severe MS.
 
 Fingolimod Accord does not cure MS, but it helps to reduce the number of relapses and to slow down the progression of physical disabilities due to MS.
 
@@ -1260,34 +1254,34 @@ Fingolimod Accord helps to protect against attacks on the CNS by the immune syst
 
 ## Do not take Fingolimod Accord
 
-- -if you have a lowered immune response (due to an immunodeficiency syndrome, a disease or to medicines that suppress the immune system).
-- -if your doctor suspects you may have a rare brain infection called progressive multifocal leukoencephalopathy (PML) or if PML has been confirmed .
-- -if you have a severe active infection or active chronic infection such as hepatitis or tuberculosis.
-- -if you have an active cancer .
-- -if you have severe liver problems .
-- -if, in the last 6 months, you have had heart attack, angina, stroke or warning of a stroke or certain types of heart failure .
-- -if you have certain types of irregular or abnormal heartbeat (arrhythmia), including patients in whom the electrocardiogram (ECG) shows prolonged QT interval before starting Fingolimod Accord.
-- -if you are taking or have recently taken medicine for irregular heartbeat such as quinidine, disopyramide, amiodarone or sotalol.
-- -if you are pregnant or a woman of childbearing potential not using effective contraception.
-- -if you are allergic to fingolimod or any of the other ingredients of this medicine (listed in section 6).
+- if you have a lowered immune response (due to an immunodeficiency syndrome, a disease or to medicines that suppress the immune system).
+- if your doctor suspects you may have a rare brain infection called progressive multifocal leukoencephalopathy (PML) or if PML has been confirmed.
+- if you have a severe active infection or active chronic infection such as hepatitis or tuberculosis.
+- if you have an active cancer.
+- if you have severe liver problems.
+- if, in the last 6 months, you have had heart attack, angina, stroke or warning of a stroke or certain types of heart failure.
+- if you have certain types of irregular or abnormal heartbeat (arrhythmia), including patients in whom the electrocardiogram (ECG) shows prolonged QT interval before starting Fingolimod Accord.
+- if you are taking or have recently taken medicine for irregular heartbeat such as quinidine, disopyramide, amiodarone or sotalol.
+- if you are pregnant or a woman of childbearing potential not using effective contraception.
+- if you are allergic to fingolimod or any of the other ingredients of this medicine (listed in section 6).
 
-If this applies to you or you are unsure , talk to your doctor before taking Fingolimod Accord.
+If this applies to you or you are unsure, talk to your doctor before taking Fingolimod Accord.
 
 ## Warnings and precautions
 
 Talk to your doctor before taking Fingolimod Accord:
 
-- -if you have severe breathing problems during sleep (severe sleep apnoea).
-- -if you have been told you have an abnormal electrocardiogram.
-- -if you suffer from symptoms of slow heart rate (e.g. dizziness, nausea, or palpitations).
-- -if you are taking or have recently taken medicines that slow your heart rate (such as beta blockers, verapamil, diltiazem or ivabradine, digoxin, anticholinesteratic agents or pilocarpine).
-- -if you have a history of sudden loss of consciousness or fainting (syncope).
-- -if you plan to get vaccinated.
-- -if you have never had chickenpox.
-- -if you have or have had visual disturbances or other signs of swelling in the central vision area (macula) at the back of the eye (a condition known as macular oedema, see below), inflammation or infection of the eye (uveitis), or if you have diabetes (which can cause eye problems).
-- -if you have liver problems .
-- -if you have high blood pressure that cannot be controlled by medicines .
-- -if you have severe lung problems or smoker's cough.
+- if you have severe breathing problems during sleep (severe sleep apnoea).
+- if you have been told you have an abnormal electrocardiogram.
+- if you suffer from symptoms of slow heart rate (e.g. dizziness, nausea, or palpitations).
+- if you are taking or have recently taken medicines that slow your heart rate (such as beta blockers, verapamil, diltiazem or ivabradine, digoxin, anticholinesteratic agents or pilocarpine).
+- if you have a history of sudden loss of consciousness or fainting (syncope).
+- if you plan to get vaccinated.
+- if you have never had chickenpox.
+- if you have or have had visual disturbances or other signs of swelling in the central vision area (macula) at the back of the eye (a condition known as macular oedema, see below), inflammation or infection of the eye (uveitis), or if you have diabetes (which can cause eye problems).
+- if you have liver problems.
+- if you have high blood pressure that cannot be controlled by medicines.
+- if you have severe lung problems or smoker's cough.
 
 If any of these applies to you or you are unsure, talk to your doctor before taking Fingolimod Accord.
 
@@ -1311,17 +1305,15 @@ If you have never had chickenpox If you have never had chickenpox, your doctor w
 
 Fingolimod Accord lowers the white blood cell count (particularly the lymphocyte count). White blood cells fight infection. While you are taking Fingolimod Accord (and for up to 2 months after you stop taking it), you may get infections more easily. Any infection that you already have may get worse. Infections could be serious and life-threatening. If you think you have an infection, have fever, feel like you have the flu, have shingles or have a headache accompanied by stiff neck, sensitivity to light, nausea, rash and/or confusion or seizures (fits) (these may be symptoms of meningitis and/or encephalitis caused by a fungal or herpes viral infection), contact your doctor straight away, because it could be serious and life-threatening.
 
-Human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer, has been reported in patients treated with Fingolimod Accord . Your doctor will consider whether you need to have a vaccination against HPV before starting treatment. If you are a woman, your doctor will also recommend HPV screening.
+Human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer, has been reported in patients treated with Fingolimod Accord. Your doctor will consider whether you need to have a vaccination against HPV before starting treatment. If you are a woman, your doctor will also recommend HPV screening.
 
 ## PML
 
 PML is a rare brain disorder caused by an infection that may lead to severe disability or death. Your doctor will arrange magnetic resonance imaging (MRI) scans before you start treatment and during treatment to monitor the risk of PML.
 
-If you believe your MS is getting worse or if you notice any new symptoms, for example changes in mood or behaviour, new or worsening weakness on one side of the body, changes in vision, confusion,
+If you believe your MS is getting worse or if you notice any new symptoms, for example changes in mood or behaviour, new or worsening weakness on one side of the body, changes in vision, confusion, memory lapses or speech and communication difficulties, talk to your doctor as soon as possible. These may be symptoms of PML. Also speak with your partner or caregivers and inform them about your treatment. Symptoms might arise that you might not become aware of by yourself.
 
 <div style=\"page-break-after: always\"></div>
-
-memory lapses or speech and communication difficulties, talk to your doctor as soon as possible. These may be symptoms of PML. Also speak with your partner or caregivers and inform them about your treatment. Symptoms might arise that you might not become aware of by yourself.
 
 If you get PML it can be treated and your treatment with Fingolimod Accord will be stopped. Some people get an inflammatory reaction as Fingolimod Accord is removed from the body. This reaction (known as immune reconstitution inflammatory syndrome or IRIS) may lead to your condition getting worse, including worsening of brain function.
 
@@ -1339,13 +1331,13 @@ If you have had macular oedema, talk to your doctor before you resume treatment 
 
 Macular oedema can cause some of the same vision symptoms as an MS attack (optic neuritis). Early on, there may not be any symptoms. Be sure to tell your doctor about any changes in your vision. Your doctor may want you to undergo an eye examination, especially if:
 
-- -the centre of your vision gets blurry or has shadows;
-- -you develop a blind spot in the centre of your vision;
-- -you have problems seeing colours or fine detail.
+- the centre of your vision gets blurry or has shadows;
+- you develop a blind spot in the centre of your vision;
+- you have problems seeing colours or fine detail.
 
 ## Liver function tests
 
-If you have severe liver problems, you should not take Fingolimod Accord. Fingolimod Accord may affect your liver function. You will probably not notice any symptoms but if you notice yellowing of your skin or the whites of your eyes, abnormally dark urine (brown coloured), pain on the right side of your stomach area (abdomen), tiredness, feeling less hungry than usual or unexplained nausea and vomiting, tell your doctor straight away .
+If you have severe liver problems, you should not take Fingolimod Accord. Fingolimod Accord may affect your liver function. You will probably not notice any symptoms but if you notice yellowing of your skin or the whites of your eyes, abnormally dark urine (brown coloured), pain on the right side of your stomach area (abdomen), tiredness, feeling less hungry than usual or unexplained nausea and vomiting, tell your doctor straight away.
 
 If you get any of these symptoms after starting Fingolimod Accord, tell your doctor straight away.
 
@@ -1381,8 +1373,8 @@ A type of cancer of the lymphatic system (lymphoma) has been reported in MS pati
 
 Fingolimod weakens your immune system. This increases your risk of developing cancers, in particular skin cancers. You should limit your exposure to the sun and UV rays by:
 
-- -wearing appropriate protective clothing.
-- -regularly applying sunscreen with a high degree of UV protection.
+- wearing appropriate protective clothing.
+- regularly applying sunscreen with a high degree of UV protection.
 
 ## Unusual brain lesions associated with MS relapse
 
@@ -1396,13 +1388,13 @@ Your doctor may switch you directly from beta interferon, glatiramer acetate or 
 
 <div style=\"page-break-after: always\"></div>
 
-If used during pregnancy, Fingolimod Accord can harm the unborn baby. Before you start treatment with Fingolimod Accord your doctor will explain the risk to you and ask you to do a pregnancy test in order to ensure that you are not pregnant. Your doctor will give you a card which explains why you should not become pregnant while taking Fingolimod Accord. It also explains what you should do to avoid becoming pregnant while you are taking Fingolimod Accord. You must use effective contraception during treatment and for 2 months after stopping treatment (see section 'Pregnancy and breastfeeding').
+If used during pregnancy, Fingolimod Accord can harm the unborn baby. Before you start treatment with Fingolimod Accord your doctor will explain the risk to you and ask you to do a pregnancy test in order to ensure that you are not pregnant. Your doctor will give you a card which explains why you should not become pregnant while taking Fingolimod Accord. It also explains what you should do to avoid becoming pregnant while you are taking Fingolimod Accord. You must use effective contraception during treatment and for 2 months after stopping treatment (see section \"Pregnancy and breastfeeding\").
 
 ## Worsening of MS after stopping Fingolimod Accord treatment
 
 Do not stop taking Fingolimod Accord or change your dose without talking to your doctor first.
 
-Tell your doctor straight away if you think your MS is getting worse after you have stopped treatment with Fingolimod Accord. This could be serious (see 'If you stop taking Fingolimod Accord' in section 3, and also section 4, 'Possible side effects').
+Tell your doctor straight away if you think your MS is getting worse after you have stopped treatment with Fingolimod Accord. This could be serious (see \"If you stop taking Fingolimod Accord\" in section 3, and also section 4, \"Possible side effects\").
 
 ## Elderly
 
@@ -1414,23 +1406,23 @@ Fingolimod Accord is not intended for use in children below 10 years old as it h
 
 The warnings and precautions listed above also apply to children and adolescents. The following information is particularly important for children and adolescents and their caregivers:
 
-- -Before you start Fingolimod Accord, your doctor will check your vaccination status. If you have not had certain vaccinations, it may be necessary for you to be given them before Fingolimod Accord can be started.
-- -The first time you take Fingolimod Accord, or when you switch from a 0.25 mg daily dose to a 0.5 mg daily dose, your doctor will monitor your heart rate and heartbeat (see 'Slow heart rate (bradycardia) and irregular heartbeat' above).
-- -If you experience convulsions or fits before or whilst taking Fingolimod Accord, let your doctor know.
-- -If you suffer from depression or anxiety or if you become depressed or anxious while you are taking Fingolimod Accord, let your doctor know. You may need to be monitored more closely.
+- Before you start Fingolimod Accord, your doctor will check your vaccination status. If you have not had certain vaccinations, it may be necessary for you to be given them before Fingolimod Accord can be started.
+- The first time you take Fingolimod Accord, or when you switch from a 0.25 mg daily dose to a 0.5 mg daily dose, your doctor will monitor your heart rate and heartbeat (see \"Slow heart rate (bradycardia) and irregular heartbeat\" above).
+- If you experience convulsions or fits before or whilst taking Fingolimod Accord, let your doctor know.
+- If you suffer from depression or anxiety or if you become depressed or anxious while you are taking Fingolimod Accord, let your doctor know. You may need to be monitored more closely.
 
 ## Other medicines and Fingolimod Accord
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. Tell your doctor if you are taking any of the following medicines:
 
-- Medicines that suppress or modulate the immune system , including other medicines used to treat MS , such as beta interferon, glatiramer acetate, natalizumab, mitoxantrone, teriflunomide, dimethyl fumarate or alemtuzumab. You must not use Fingolimod Accord together with such medicines as this could intensify the effect on the immune system (see also 'Do not take Fingolimod Accord').
+- Medicines that suppress or modulate the immune system, including other medicines used to treat MS, such as beta interferon, glatiramer acetate, natalizumab, mitoxantrone, teriflunomide, dimethyl fumarate or alemtuzumab. You must not use Fingolimod Accord together with such medicines as this could intensify the effect on the immune system (see also 'Do not take Fingolimod Accord').
 - Corticosteroids, due to a possible added effect on the immune system.
-- Vaccines . If you need to receive a vaccine, seek your doctor's advice first. During and for up to 2 months after treatment with Fingolimod Accord, you should not receive certain types of vaccine (live attenuated vaccines) as they could trigger the infection that they were supposed to prevent. Other vaccines may not work as well as usual if given during this period.
+- Vaccines. If you need to receive a vaccine, seek your doctor's advice first. During and for up to 2 months after treatment with Fingolimod Accord, you should not receive certain types of vaccine (live attenuated vaccines) as they could trigger the infection that they were supposed to prevent. Other vaccines may not work as well as usual if given during this period.
 - Medicines that slow the heartbeat (for example beta blockers, such as atenolol). Use of Fingolimod Accord together with such medicines could intensify the effect on heartbeat in the first days after starting Fingolimod Accord.
 
 <div style=\"page-break-after: always\"></div>
 
-- Medicines for irregular heartbeat , such as quinidine, disopyramide, amiodarone or sotalol. You must not use Fingolimod Accord if you are taking such a medicine because it could intensify the effect on irregular heartbeat (see also 'Do not take Fingolimod Accord').
+- Medicines for irregular heartbeat, such as quinidine, disopyramide, amiodarone or sotalol. You must not use Fingolimod Accord if you are taking such a medicine because it could intensify the effect on irregular heartbeat (see also 'Do not take Fingolimod Accord').
 
 ## · Other medicines:
 
@@ -1447,19 +1439,16 @@ Do not use Fingolimod Accord during pregnancy, if you are trying to become pregn
 
 Therefore, if you are a woman of childbearing potential:
 
-- -before you start treatment with Fingolimod Accord your doctor will inform you about the risk to an unborn baby and ask you to do a pregnancy test in order to ensure that you are not pregnant,
-
-and,
-
-- -you must use effective contraception while taking Fingolimod Accord and for two months after you stop taking it to avoid becoming pregnant. Talk to your doctor about reliable methods of contraception.
+- before you start treatment with Fingolimod Accord your doctor will inform you about the risk to an unborn baby and ask you to do a pregnancy test in order to ensure that you are not pregnant, and,
+- you must use effective contraception while taking Fingolimod Accord and for two months after you stop taking it to avoid becoming pregnant. Talk to your doctor about reliable methods of contraception.
 
 Your doctor will give you a card which explains why you should not become pregnant while taking Fingolimod Accord.
 
-If you do become pregnant while taking Fingolimod Accord, tell your doctor straight away. Your doctor will decide to stop treatment (see 'If you stop taking Fingolimod Accord' in section 3, and also section 4, 'Possible side effects'). Specialised pre-natal monitoring will be performed.
+If you do become pregnant while taking Fingolimod Accord, tell your doctor straight away. Your doctor will decide to stop treatment (see \"If you stop taking Fingolimod Accord\" in section 3, and also section 4, \"Possible side effects\"). Specialised pre-natal monitoring will be performed.
 
 ## Breast-feeding
 
-You should not breast-feed while you are taking Fingolimod Accord . Fingolimod Accord can pass into breast milk and there is a risk of serious side effects for the baby.
+You should not breast-feed while you are taking Fingolimod Accord. Fingolimod Accord can pass into breast milk and there is a risk of serious side effects for the baby.
 
 ## Driving and using machines
 
@@ -1490,7 +1479,9 @@ The dose is one 0.5 mg capsule per day.
 
 Children and adolescents who start on one 0.25 mg capsule per day and later reach a stable body weight above 40 kg will be instructed by their doctor to switch to one 0.5 mg capsule per day. In this case, it is recommended to repeat the first-dose observation period.
 
-Fingolimod Accord is only available as 0.5 mg hard capsules which are not suitable for children and adolescents with a body weight equal to or below 40 kg. Other fingolimod-containing medicines are available in 0.25 mg strength. Ask your doctor or pharmacist.
+Fingolimod Accord is only available as 0.5 mg hard capsules which are not suitable for children and adolescents with a body weight equal to or below 40 kg.
+
+Other fingolimod-containing medicines are available in 0.25 mg strength. Ask your doctor or pharmacist.
 
 Do not exceed the recommended dose.
 
@@ -1534,93 +1525,95 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Common (may affect up to 1 in 10 people)
 
-- -Coughing with phlegm, chest discomfort, fever (signs of lung disorders)
-- -Herpes virus infection (shingles or herpes zoster) with symptoms such as blisters, burning, itching or pain of the skin, typically on the upper body or the face. Other symptoms may be fever and weakness in the early stages of infection, followed by numbness, itching or red patches with severe pain
-- -Slow heartbeat (bradycardia), irregular heart rhythm
-- -A type of skin cancer called basal cell carcinoma (BCC) which often appears as a pearly nodule, although it can also take other forms
-- -Depression and anxiety are known to occur with increased frequency in the MS population and have also been reported in paediatric patients treated with Fingolimod Accord.
-- -Weight loss.
+- Coughing with phlegm, chest discomfort, fever (signs of lung disorders)
+- Herpes virus infection (shingles or herpes zoster) with symptoms such as blisters, burning, itching or pain of the skin, typically on the upper body or the face. Other symptoms may be fever and weakness in the early stages of infection, followed by numbness, itching or red patches with severe pain
+- Slow heartbeat (bradycardia), irregular heart rhythm
+- A type of skin cancer called basal cell carcinoma (BCC) which often appears as a pearly nodule, although it can also take other forms
+- Depression and anxiety are known to occur with increased frequency in the MS population and have also been reported in paediatric patients treated with Fingolimod Accord.
+- Weight loss.
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- -Pneumonia with symptoms such as fever, cough, difficulty breathing
-- -Macular oedema (swelling in the central vision area of the retina at the back of the eye) with symptoms such as shadows or blind spot in the centre of the vision, blurred vision, problems seeing colours or details
-- -Reduction in blood platelets which increases risk of bleeding or bruising
-- -Malignant melanoma (a type of skin cancer which usually develops from an unusual mole). Possible signs of melanoma include moles which may change size, shape, elevation or colour over time, or new moles. The moles may itch, bleed or ulcerate
-- -Convulsion, fits (more frequent in children and adolescents than in adults)
+- Pneumonia with symptoms such as fever, cough, difficulty breathing
+- Macular oedema (swelling in the central vision area of the retina at the back of the eye) with symptoms such as shadows or blind spot in the centre of the vision, blurred vision, problems seeing colours or details
+- Reduction in blood platelets which increases risk of bleeding or bruising
+- Malignant melanoma (a type of skin cancer which usually develops from an unusual mole). Possible signs of melanoma include moles which may change size, shape, elevation or colour over time, or new moles. The moles may itch, bleed or ulcerate
+- Squamous cell carcinoma: a type of skin cancer which may present as a firm red nodule, a sore with crust, or a new sore on an existing scar
+- Convulsion, fits (more frequent in children and adolescents than in adults)
 
 ## Rare (may affect up to 1 in 1 000 people)
 
-- -A condition called posterior reversible encephalopathy syndrome (PRES). Symptoms may include sudden onset of severe headache, confusion, seizures and/or vision disturbances
-- -Lymphoma (a type of cancer that affects the lymph system)
-- -Squamous cell carcinoma: a type of skin cancer which may present as a firm red nodule, a sore with crust, or a new sore on an existing scar
+- A condition called posterior reversible encephalopathy syndrome (PRES). Symptoms may include sudden onset of severe headache, confusion, seizures and/or vision disturbances
+- Lymphoma (a type of cancer that affects the lymph system)
 
 <div style=\"page-break-after: always\"></div>
 
+-
+
 ## Very rare (may affect up to 1 in 10 000 people)
 
-- -Electrocardiogram anomaly (T-wave inversion)
-- -Tumour related to infection with human herpes virus 8 (Kaposi's sarcoma)
+- Electrocardiogram anomaly (T-wave inversion)
+- Tumour related to infection with human herpes virus 8 (Kaposi's sarcoma)
 
 ## Not known (frequency cannot be estimated from the available data)
 
-- -Allergic reactions, including symptoms of rash or itchy hives, swelling of lips, tongue or face, which are more likely to occur on the day you start Fingolimod Accord treatment
-- -Signs of liver disease (including liver failure), such as yellowing of your skin or the whites of your eyes (jaundice), nausea or vomiting, pain on the right side of your stomach area (abdomen), dark urine (brown coloured), feeling less hungry than usual, tiredness and abnormal liver function tests. In a very small number of cases, liver failure could lead to liver transplantation
-- -Risk of a rare brain infection called progressive multifocal leukoencephalopathy (PML). The symptoms of PML may be similar to an MS relapse. Symptoms might also arise that you might not become aware of by yourself, such as changes in mood or behaviour, memory lapses, speech and communication difficulties, which your doctor may need to investigate further to rule out PML. Therefore, if you believe your MS is getting worse or if you or those close to you notice any new or unusual symptoms, it is very important that you speak to your doctor as soon as possible
-- -Inflammatory disorder after stopping Fingolimod Accord treatment (known as immune reconstitution inflammatory syndrome or IRIS)
-- -Cryptococcal infections (a type of fungal infection), including cryptococcal meningitis with symptoms such as headache accompanied by stiff neck, sensitivity to light, nausea, and/or confusion
-- -Merkel cell carcinoma (a type of skin cancer). Possible signs of Merkel cell carcinoma include flesh-coloured or bluish-red, painless nodule, often on the face, head or neck. Merkel cell carcinoma can also present as a firm painless nodule or mass. Long-term exposure to the sun and a weak immune system can affect the risk of developing Merkel cell carcinoma
-- -After Fingolimod Accord treatment is stopped, symptoms of MS can return and may become worse than they were before or during treatment.
-- -Autoimmune form of anaemia (decreased amount of red blood cells) where red blood cells are destroyed (autoimmune haemolytic anaemia).
+- Allergic reactions, including symptoms of rash or itchy hives, swelling of lips, tongue or face, which are more likely to occur on the day you start Fingolimod Accord treatment
+- Signs of liver disease (including liver failure), such as yellowing of your skin or the whites of your eyes (jaundice), nausea or vomiting, pain on the right side of your stomach area (abdomen), dark urine (brown coloured), feeling less hungry than usual, tiredness and abnormal liver function tests. In a very small number of cases, liver failure could lead to liver transplantation
+- Risk of a rare brain infection called progressive multifocal leukoencephalopathy (PML). The symptoms of PML may be similar to an MS relapse. Symptoms might also arise that you might not become aware of by yourself, such as changes in mood or behaviour, memory lapses, speech and communication difficulties, which your doctor may need to investigate further to rule out PML. Therefore, if you believe your MS is getting worse or if you or those close to you notice any new or unusual symptoms, it is very important that you speak to your doctor as soon as possible
+- Inflammatory disorder after stopping Fingolimod Accord treatment (known as immune reconstitution inflammatory syndrome or IRIS)
+- Cryptococcal infections (a type of fungal infection), including cryptococcal meningitis with symptoms such as headache accompanied by stiff neck, sensitivity to light, nausea, and/or confusion
+- Merkel cell carcinoma (a type of skin cancer). Possible signs of Merkel cell carcinoma include flesh-coloured or bluish-red, painless nodule, often on the face, head or neck. Merkel cell carcinoma can also present as a firm painless nodule or mass. Long-term exposure to the sun and a weak immune system can affect the risk of developing Merkel cell carcinoma
+- After Fingolimod Accord treatment is stopped, symptoms of MS can return and may become worse than they were before or during treatment.
+- Autoimmune form of anaemia (decreased amount of red blood cells) where red blood cells are destroyed (autoimmune haemolytic anaemia).
 
-If you experience any of these, tell your doctor straight away .
+If you experience any of these, tell your doctor straight away.
 
 ## Other side effects
 
 ## Very common (may affect more than 1 in 10 people)
 
-- -Infection from flu virus with symptoms such as tiredness, chills, sore throat, aching in the joints or muscles, fever
-- -Feeling of pressure or pain in the cheeks and forehead (sinusitis)
-- -Headache
-- -Diarrhoea
-- -Back pain
-- -Blood testing showing higher levels of liver enzymes
-- -Cough
+- Infection from flu virus with symptoms such as tiredness, chills, sore throat, aching in the joints or muscles, fever
+- Feeling of pressure or pain in the cheeks and forehead (sinusitis)
+- Headache
+- Diarrhoea
+- Back pain
+- Blood testing showing higher levels of liver enzymes
+- Cough
 
 ## Common (may affect up to 1 in 10 people)
 
-- -Ringworm, a fungal infection of the skin (tinea versicolor)
-- -Dizziness
-- -Severe headache often accompanied by nausea, vomiting and sensitivity to light (migraine)
-- -Low level of white blood cells (lymphocytes, leucocytes)
+- Ringworm, a fungal infection of the skin (tinea versicolor)
+- Dizziness
+- Severe headache often accompanied by nausea, vomiting and sensitivity to light (migraine)
 
 <div style=\"page-break-after: always\"></div>
 
-- -Weakness
-- -Itchy, red, burning rash (eczema)
-- -Itching
-- -Blood fat (triglycerides) level increased
-- -Hair loss
-- -Breathlessness
-- -Depression
-- -Blurred vision (see also the section on macular oedema under 'Some side effects could be or could become serious')
-- -Hypertension (Fingolimod Accord may cause a mild increase in blood pressure)
-- -Muscle pain
-- -Joint pain
+- Low level of white blood cells (lymphocytes, leucocytes)
+- Weakness
+- Itchy, red, burning rash (eczema)
+- Itching
+- Blood fat (triglycerides) level increased
+- Hair loss
+- Breathlessness
+- Depression
+- Blurred vision (see also the section on macular oedema under \"Some side effects could be or could become serious\")
+- Hypertension (Fingolimod Accord may cause a mild increase in blood pressure)
+- Muscle pain
+- Joint pain
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
-- -Low level of certain white blood cells (neutrophils)
-- -Depressed mood
-- -Nausea
+- Low level of certain white blood cells (neutrophils)
+- Depressed mood
+- Nausea
 
 Rare (may affect up to 1 in 1 000 people)
 
-- -Cancer of the lymphatic system (lymphoma)
+- Cancer of the lymphatic system (lymphoma)
 
 Not known (frequency cannot be estimated from the available data)
 
-- -Peripheral swelling
+- Peripheral swelling
 
 If any of these affects you severely, tell your doctor.
 
@@ -1632,7 +1625,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and blister foil after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and blister foil after \"EXP\". The expiry date refers to the last day of that month.
 
 Store below 25°C.
 
@@ -1644,21 +1637,21 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Fingolimod Accord contains
 
-- -The active substance is fingolimod.
-- -Each capsule contains 0.5 mg fingolimod (as hydrochloride).
-- -
+- The active substance is fingolimod.
+- Each capsule contains 0.5 mg fingolimod (as hydrochloride).
+- The other ingredients are:
 
-The other ingredients are: Capsule fill : Pregelatinised starch, magnesium stearate.
+Capsule fill: Pregelatinised starch, magnesium stearate.
 
-Capsule shell : gelatin, titanium dioxide (E171), yellow iron oxide (E172). Printing ink (E172).
+Capsule shell: gelatin, titanium dioxide (E171), yellow iron oxide (E172).
 
-: shellac (E904), propylene glycol (E1520), potassium hydroxide, black iron oxide
+Printing ink: shellac (E904), propylene glycol (E1520), potassium hydroxide, black iron oxide (E172).
 
 <div style=\"page-break-after: always\"></div>
 
 ## What Fingolimod Accord looks like and contents of the pack
 
-Bright yellow opaque/white opaque size '3' hard gelatin capsule imprinted with 'FO 0.5 mg' on the cap with black ink, containing white to off-white powder. Each capsule is approximately 15.8 mm in length.
+Bright yellow opaque/white opaque size \"3\" hard gelatin capsule (capsule) imprinted with \"FO 0.5 mg\" on the cap with black ink, containing white to off-white powder. Each capsule is approximately 15.8 mm in length.
 
 Fingolimod Accord is available in PVC/PVDC/aluminium blister packs containing 7, 28 or 98 hard capsules.
 
@@ -1668,25 +1661,25 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est, 6 a Planta, 08039 Barcelona, Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est, 6 a Planta, 08039 Barcelona,
+
+Spain
 
 ## Manufacturer
 
-LABORATORI FUNDACIÓ DAU C/ C, 12-14 Pol. Ind. Zona Franca, Barcelona, 08040 Barcelona, Spain
+LABORATORI FUNDACIÓ DAU C/ C, 12-14 Pol. Ind. Zona Franca, Barcelona,
 
-Accord Healthcare Polska Sp. z.o.o.
+08040 Barcelona, Spain
 
-ul.Lutomierska 50, 95-200, Pabianice, Poland
+Accord Healthcare Polska Sp. z.o.o. ul.Lutomierska 50, 95-200, Pabianice,
 
-Accord Healthcare B.V.
+Poland
 
-Utrecht, Winthontlaan 200 3526 KV at Utrecht, Netherlands
+Accord Healthcare B.V. Utrecht, Winthontlaan 200 3526 KV at Utrecht, Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL
-
-/ NO / PT / PL / RO / SE / SI / SK / ES
+AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES
 
 Accord Healthcare S.L.U.
 
@@ -1700,8 +1693,8 @@ Tel: +30 210 7488 821
 
 ## This leaflet was last revised in {MM/YYYY}
 
-Other sources of information
-
 <div style=\"page-break-after: always\"></div>
+
+## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.

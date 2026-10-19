@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-17 14:07:42
+document_datetime: 2026-10-13 16:31:15
 document_pages: 101
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/viagra-epar-product-information_en.pdf
 document_name: viagra-epar-product-information_en.pdf
 version: success
-processing_time: 21.5149895
-conversion_datetime: 2025-12-18 21:32:52.364588
+processing_time: 28.0055936
+conversion_datetime: 2026-10-19 23:14:14.249799
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,15 +56,15 @@ Film-coated tablet (tablet).
 
 ## VIAGRA 25 mg tablets
 
-Blue, rounded diamond-shaped film-coated tablets, marked 'VIAGRA' on one side and 'VGR 25' on the other.
+Blue, rounded diamond-shaped film-coated tablets, marked \"VIAGRA\" on one side and \"VGR 25\" on the other.
 
 ## VIAGRA 50 mg tablets
 
-Blue, rounded, diamond-shaped film-coated tablets, marked 'VIAGRA' on one side and 'VGR 50' on the other.
+Blue, rounded, diamond-shaped film-coated tablets, marked \"VIAGRA\" on one side and \"VGR 50\" on the other.
 
 ## VIAGRA 100 mg tablets
 
-Blue, rounded diamond-shaped film-coated tablets, marked 'VIAGRA' on one side and 'VGR 100' on the other.
+Blue, rounded diamond-shaped film-coated tablets, marked \"VIAGRA\" on one side and \"VGR 100\" on the other.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -88,7 +88,7 @@ The recommended dose is 50 mg taken as needed approximately one hour before sexu
 
 ## Elderly
 
-Dose adjustments are not required in elderly patients ( ≥ 65 years old).
+Dose adjustments are not required in elderly patients (≥ 65 years old).
 
 ## Renal impairment
 
@@ -128,7 +128,7 @@ Agents for the treatment of erectile dysfunction, including sildenafil, should n
 
 VIAGRA is contraindicated in patients who have loss of vision in one eye because of non-arteritic anterior ischaemic optic neuropathy (NAION), regardless of whether this episode was in connection or not with previous PDE5 inhibitor exposure (see section 4.4).
 
-The safety of sildenafil has not been studied in the following sub-groups of patients and its use is therefore contraindicated: severe hepatic impairment, hypotension (blood pressure &lt; 90/50 mmHg), recent history of stroke or myocardial infarction and known hereditary degenerative retinal disorders such as retinitis pigmentosa (a minority of these patients have genetic disorders of retinal phosphodiesterases) .
+The safety of sildenafil has not been studied in the following sub-groups of patients and its use is therefore contraindicated: severe hepatic impairment, hypotension (blood pressure &lt; 90/50 mmHg), recent history of stroke or myocardial infarction and known hereditary degenerative retinal disorders such as retinitis pigmentosa (a minority of these patients have genetic disorders of retinal phosphodiesterases).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -138,7 +138,7 @@ A medical history and physical examination should be undertaken to diagnose erec
 
 Prior to initiating any treatment for erectile dysfunction, physicians should consider the cardiovascular status of their patients, since there is a degree of cardiac risk associated with sexual activity. Sildenafil has vasodilator properties, resulting in mild and transient decreases in blood pressure (see section 5.1). Prior to prescribing sildenafil, physicians should carefully consider whether their patients with certain underlying conditions could be adversely affected by such vasodilatory effects, especially in combination with sexual activity. Patients with increased susceptibility to vasodilators include those with left ventricular outflow obstruction (e.g., aortic stenosis, hypertrophic obstructive cardiomyopathy), or those with the rare syndrome of multiple system atrophy manifesting as severely impaired autonomic control of blood pressure.
 
-## VIAGRA potentiates the hypotensive effect of nitrates (see section 4.3).
+VIAGRA potentiates the hypotensive effect of nitrates (see section 4.3).
 
 Serious cardiovascular events, including myocardial infarction, unstable angina, sudden cardiac death, ventricular arrhythmia, cerebrovascular haemorrhage, transient ischaemic attack, hypertension and hypotension have been reported post-marketing in temporal association with the use of VIAGRA. Most, but not all, of these patients had pre-existing cardiovascular risk factors. Many events were reported to occur during or shortly after sexual intercourse and a few were reported to occur shortly after the use of VIAGRA without sexual activity. It is not possible to determine whether these events are related directly to these factors or to other factors.
 
@@ -168,7 +168,7 @@ Caution is advised when sildenafil is administered to patients taking an alpha-b
 
 ## Effect on bleeding
 
-Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro . There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
+Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro. There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
 
 ## Excipients
 
@@ -214,7 +214,7 @@ Nicorandil is a hybrid of potassium channel activator and nitrate. Due to the ni
 
 ## In vitro studies
 
-Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 &gt; 150 μ M). Given sildenafil peak plasma concentrations of approximately 1 μ M after recommended doses, it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes.
+Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 &gt; 150 μM). Given sildenafil peak plasma concentrations of approximately 1 μM after recommended doses, it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes.
 
 There are no data on the interaction of sildenafil and non-specific phosphodiesterase inhibitors such as theophylline or dipyridamole.
 
@@ -268,40 +268,34 @@ Adverse reactions from post-marketing surveillance has been gathered covering an
 
 ## Tabulated list of adverse reactions
 
-In the table below all medically important adverse reactions, which occurred in clinical studies at an incidence greater than placebo are listed by system organ class and frequency (very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1 000 to &lt;1/100), rare ( ≥ 1/10 000 to &lt;1/1 000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+In the table below all medically important adverse reactions, which occurred in clinical studies at an incidence greater than placebo are listed by system organ class and frequency (very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1: Medically important adverse reactions reported at an incidence greater than placebo in controlled clinical studies and medically important adverse reactions reported through post-marketing surveillance
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                              | Very common ( ≥ 1/10)   | Common ( ≥ 1/100 and <1/10)                                     | Uncommon ( ≥ 1/1 000 and <1/100)                                                                                 | Rare ( ≥ 1/10 000 and <1/1 000)                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-------------------------------------------------|-------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                     |                         |                                                                 | Rhinitis                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Immune system disorders                         |                         |                                                                 | Hypersensitivity                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Nervous system disorders                        | Headache                | Dizziness                                                       | Somnolence, Hypoaesthesia                                                                                        | Cerebrovascular accident, Transient ischaemic attack, Seizure, * Seizure recurrence, * Syncope                                                                                                                                                                                                                                                                                                                                                                   |
-| Eye disorders                                   |                         | Visual colour distortions**, Visual disturbance, Vision blurred | Lacrimation disorders***, Eye pain, Photophobia, Photopsia, Ocular hyperaemia, Visual brightness, Conjunctivitis | Non-arteritic anterior ischaemic optic neuropathy (NAION) * , Retinal vascular occlusion * , Retinal haemorrhage, Arteriosclerotic retinopathy, Retinal disorder, Glaucoma, Visual field defect, Diplopia, Visual acuity reduced, Myopia, Asthenopia, Vitreous floaters, Iris disorder, Mydriasis, Halo vision, Eye oedema, Eye swelling, Eye disorder, Conjunctival hyperaemia, Eye irritation, Abnormal sensation in eye, Eyelid oedema, Scleral discoloration |
-| Ear and labyrinth disorders                     |                         |                                                                 | Vertigo, Tinnitus                                                                                                | Deafness                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Cardiac disorders                               |                         |                                                                 | Tachycardia, Palpitations                                                                                        | Sudden cardiac death * , Myocardial infarction, Ventricular arrhythmia * , Atrial fibrillation, Unstable angina                                                                                                                                                                                                                                                                                                                                                  |
-| Vascular disorders                              |                         | Flushing, Hot flush                                             | Hypertension, Hypotension                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Respiratory, thoracic and mediastinal disorders |                         | Nasal congestion                                                | Epistaxis, Sinus congestion                                                                                      | Throat tightness, Nasal oedema, Nasal dryness                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| System Organ Class                              | Very common (≥ 1/10)   | Common (≥ 1/100 and <1/10)                                      | Uncommon (≥ 1/1 000 and <1/100)                                                                                  | Rare (≥ 1/10 000 and <1/1 000)                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|-------------------------------------------------|------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     |                        |                                                                 | Rhinitis                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Immune system disorders                         |                        |                                                                 | Hypersensitivity                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Nervous system disorders                        | Headache               | Dizziness                                                       | Somnolence, Hypoaesthesia                                                                                        | Cerebrovascular accident, Transient ischaemic attack, Seizure, * Seizure recurrence, * Syncope                                                                                                                                                                                                                                                                                                                                                                   |
+| Eye disorders                                   |                        | Visual colour distortions**, Visual disturbance, Vision blurred | Lacrimation disorders***, Eye pain, Photophobia, Photopsia, Ocular hyperaemia, Visual brightness, Conjunctivitis | Non-arteritic anterior ischaemic optic neuropathy (NAION) * , Retinal vascular occlusion * , Retinal haemorrhage, Arteriosclerotic retinopathy, Retinal disorder, Glaucoma, Visual field defect, Diplopia, Visual acuity reduced, Myopia, Asthenopia, Vitreous floaters, Iris disorder, Mydriasis, Halo vision, Eye oedema, Eye swelling, Eye disorder, Conjunctival hyperaemia, Eye irritation, Abnormal sensation in eye, Eyelid oedema, Scleral discoloration |
+| Ear and labyrinth disorders                     |                        |                                                                 | Vertigo, Tinnitus                                                                                                | Deafness                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Cardiac disorders                               |                        |                                                                 | Tachycardia, Palpitations                                                                                        | Sudden cardiac death * , Myocardial infarction, Ventricular arrhythmia * , Atrial fibrillation, Unstable angina                                                                                                                                                                                                                                                                                                                                                  |
+| Vascular disorders                              |                        | Flushing, Hot flush                                             | Hypertension, Hypotension                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Respiratory, thoracic and mediastinal disorders |                        | Nasal congestion                                                | Epistaxis, Sinus congestion                                                                                      | Throat tightness, Nasal oedema, Nasal dryness                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Very common ( ≥ 1/10)   | Common ( ≥ 1/100 and <1/10)   | Uncommon ( ≥ 1/1 000 and <1/100)                                             | Rare ( ≥ 1/10 000 and <1/1 000)                                       |
-|------------------------------------------------------|-------------------------|-------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Gastrointestinal disorders                           |                         | Nausea, Dyspepsia             | Gastro oesophagael reflux disease, Vomiting, Abdominal pain upper, Dry mouth | Hypoaesthesia oral                                                    |
-| Skin and subcutaneous tissue disorders               |                         |                               | Rash                                                                         | Stevens-Johnson Syndrome (SJS) * , Toxic Epidermal Necrolysis (TEN) * |
-| Musculoskeletal and connective tissue disorders      |                         |                               | Myalgia, Pain in extremity                                                   |                                                                       |
-| Renal and urinary disorders                          |                         |                               | Haematuria                                                                   |                                                                       |
-| Reproductive system and breast disorders             |                         |                               |                                                                              | Penile haemorrhage, Priapism * , Haematospermia, Erection increased   |
-| General disorders and administration site conditions |                         |                               | Chest pain, Fatigue, Feeling hot                                             | Irritability                                                          |
-| Investigations                                       |                         |                               | Heart rate increased                                                         |                                                                       |
-
-* Reported during post-marketing surveillance only
-
-**Visual colour distortions: Chloropsia, Chromatopsia, Cyanopsia, Erythropsia and Xanthopsia
-
-***Lacrimation disorders: Dry eye, Lacrimal disorder and Lacrimation increased
+| System Organ Class                                   | Very common (≥ 1/10)   | Common (≥ 1/100 and <1/10)   | Uncommon (≥ 1/1 000 and <1/100)                                              | Rare (≥ 1/10 000 and <1/1 000)                                        |
+|------------------------------------------------------|------------------------|------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Gastrointestinal disorders                           |                        | Nausea, Dyspepsia            | Gastro oesophagael reflux disease, Vomiting, Abdominal pain upper, Dry mouth | Hypoaesthesia oral                                                    |
+| Skin and subcutaneous tissue disorders               |                        |                              | Rash                                                                         | Stevens-Johnson Syndrome (SJS) * , Toxic Epidermal Necrolysis (TEN) * |
+| Musculoskeletal and connective tissue disorders      |                        |                              | Myalgia, Pain in extremity                                                   |                                                                       |
+| Renal and urinary disorders                          |                        |                              | Haematuria                                                                   |                                                                       |
+| Reproductive system and breast disorders             |                        |                              |                                                                              | Penile haemorrhage, Priapism * , Haematospermia, Erection increased   |
+| General disorders and administration site conditions |                        |                              | Chest pain, Fatigue, Feeling hot                                             | Irritability                                                          |
+| Investigations                                       |                        |                              | Heart rate increased                                                         |                                                                       |
 
 ## Reporting of suspected adverse reactions
 
@@ -341,11 +335,9 @@ Sildenafil causes mild and transient decreases in blood pressure which, in the m
 
 In a study of the hemodynamic effects of a single oral 100 mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (&gt; 70% stenosis of at least one coronary artery), the mean resting systolic and diastolic blood pressures decreased by 7% and 6% respectively compared to baseline. Mean pulmonary systolic blood pressure decreased by 9%. Sildenafil showed no effect on cardiac output, and did not impair blood flow through the stenosed coronary arteries.
 
-A double-blind, placebo-controlled exercise stress trial evaluated 144 patients with erectile dysfunction and chronic stable angina who regularly received anti-anginal medicinal products (except
+A double-blind, placebo-controlled exercise stress trial evaluated 144 patients with erectile dysfunction and chronic stable angina who regularly received anti-anginal medicinal products (except nitrates). The results demonstrated no clinically relevant differences between sildenafil and placebo in time to limiting angina.
 
 <div style=\"page-break-after: always\"></div>
-
-nitrates). The results demonstrated no clinically relevant differences between sildenafil and placebo in time to limiting angina.
 
 Mild and transient differences in colour discrimination (blue/green) were detected in some subjects using the Farnsworth-Munsell 100 hue test at 1 hour following a 100 mg dose, with no effects evident after 2 hours post-dose. The postulated mechanism for this change in colour discrimination is related to inhibition of PDE6, which is involved in the phototransduction cascade of the retina. Sildenafil has no effect on visual acuity or contrast sensitivity. In a small size placebo-controlled study of patients with documented early age-related macular degeneration (n=9), sildenafil (single dose, 100 mg) demonstrated no significant changes in the visual tests conducted (visual acuity, Amsler grid, colour discrimination simulated traffic light, Humphrey perimeter and photostress).
 
@@ -371,11 +363,9 @@ When sildenafil is taken with food, the rate of absorption is reduced with a mea
 
 ## Distribution
 
-The mean steady state volume of distribution (Vd) for sildenafil is 105 L, indicating distribution into the tissues. After a single oral dose of 100 mg, the mean maximum total plasma concentration of sildenafil is approximately 440 ng/mL (CV 40%). Since sildenafil (and its major circulating N-desmethyl metabolite) is 96% bound to plasma proteins, this results in the mean maximum free
+The mean steady state volume of distribution (Vd) for sildenafil is 105 L, indicating distribution into the tissues. After a single oral dose of 100 mg, the mean maximum total plasma concentration of sildenafil is approximately 440 ng/mL (CV 40%). Since sildenafil (and its major circulating N-desmethyl metabolite) is 96% bound to plasma proteins, this results in the mean maximum free plasma concentration for sildenafil of 18 ng/mL (38 nM). Protein binding is independent of total drug concentrations.
 
 <div style=\"page-break-after: always\"></div>
-
-plasma concentration for sildenafil of 18 ng/mL (38 nM). Protein binding is independent of total drug concentrations.
 
 In healthy volunteers receiving sildenafil (100 mg single dose), less than 0.0002% (average 188 ng) of the administered dose was present in ejaculate 90 minutes after dosing.
 
@@ -413,11 +403,19 @@ Non-clinical data revealed no special hazard for humans based on conventional st
 
 ## Tablet core
 
-Microcrystalline cellulose Calcium hydrogen phosphate (anhydrous) Croscarmellose sodium Magnesium stearate
+Microcrystalline cellulose
+
+Calcium hydrogen phosphate (anhydrous)
+
+Croscarmellose sodium Magnesium stearate
 
 ## Film coat
 
-Hypromellose Titanium dioxide (E171) Lactose monohydrate Triacetin Indigo carmine aluminium lake (E132)
+Hypromellose
+
+Titanium dioxide (E171) Lactose monohydrate Triacetin
+
+Indigo carmine aluminium lake (E132)
 
 ## 6.2 Incompatibilities
 
@@ -455,35 +453,31 @@ No special requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20
+
+1186 DM, Amstelveen
 
 <div style=\"page-break-after: always\"></div>
 
-## Netherlands
+Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-## VIAGRA 25 mg film-coated tablets
+VIAGRA 25 mg film-coated tablets
 
 EU/1/98/077/002-004
 
 EU/1/98/077/013
 
-## VIAGRA 50 mg film-coated tablets
+VIAGRA 50 mg film-coated tablets
 
-EU/1/98/077/006-008
-
-EU/1/98/077/014
-
-EU/1/98/077/016-019
+EU/1/98/077/006-008 EU/1/98/077/014 EU/1/98/077/016-019
 
 EU/1/98/077/024
 
-## VIAGRA 100 mg film-coated tablets
+VIAGRA 100 mg film-coated tablets
 
-EU/1/98/077/010-012
-
-EU/1/98/077/015
+EU/1/98/077/010-012 EU/1/98/077/015
 
 EU/1/98/077/025
 
@@ -491,11 +485,13 @@ EU/1/98/077/025
 
 Date of first authorisation: 14 September 1998
 
-Date of latest renewal: 14 September 2008
+Date of latest renewal: 26 August 2008
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+15
 
 <div style=\"page-break-after: always\"></div>
 
@@ -513,7 +509,7 @@ For the full list of excipients, see section 6.1.
 
 Orodispersible tablet.
 
-Blue, rounded, diamond-shaped orodispersible tablets, marked 'V50' on one side and plain on the other.
+Blue, rounded, diamond-shaped orodispersible tablets, marked \"V50\" on one side and plain on the other.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -525,7 +521,7 @@ In order for VIAGRA to be effective, sexual stimulation is required.
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 ## Use in adults
 
@@ -537,7 +533,7 @@ Based on efficacy and tolerability, the dose may be increased to 100 mg. The max
 
 ## Elderly
 
-Dose adjustments are not required in elderly patients ( ≥ 65 years old).
+Dose adjustments are not required in elderly patients (≥ 65 years old).
 
 ## Renal impairment
 
@@ -581,11 +577,9 @@ Agents for the treatment of erectile dysfunction, including sildenafil, should n
 
 VIAGRA is contraindicated in patients who have loss of vision in one eye because of non-arteritic anterior ischaemic optic neuropathy (NAION), regardless of whether this episode was in connection or not with previous PDE5 inhibitor exposure (see section 4.4).
 
-The safety of sildenafil has not been studied in the following sub-groups of patients and its use is therefore contraindicated: severe hepatic impairment, hypotension (blood pressure &lt;90/50 mmHg), recent history of stroke or myocardial infarction and known hereditary degenerative retinal disorders
+The safety of sildenafil has not been studied in the following sub-groups of patients and its use is therefore contraindicated: severe hepatic impairment, hypotension (blood pressure &lt;90/50 mmHg), recent history of stroke or myocardial infarction and known hereditary degenerative retinal disorders such as retinitis pigmentosa (a minority of these patients have genetic disorders of retinal phosphodiesterases).
 
 <div style=\"page-break-after: always\"></div>
-
-such as retinitis pigmentosa (a minority of these patients have genetic disorders of retinal phosphodiesterases) .
 
 ## 4.4 Special warnings and precautions for use
 
@@ -625,7 +619,7 @@ Caution is advised when sildenafil is administered to patients taking an alpha-b
 
 ## Effect on bleeding
 
-Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro . There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
+Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro. There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
 
 ## Excipients
 
@@ -667,7 +661,7 @@ Nicorandil is a hybrid of potassium channel activator and nitrate. Due to the ni
 
 ## In vitro studies
 
-Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 &gt; 150 μ M). Given sildenafil peak plasma concentrations of approximately 1 μ M after recommended doses, it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes.
+Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 &gt; 150 μM). Given sildenafil peak plasma concentrations of approximately 1 μM after recommended doses, it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes.
 
 There are no data on the interaction of sildenafil and non-specific phosphodiesterase inhibitors such as theophylline or dipyridamole.
 
@@ -723,44 +717,38 @@ Adverse reactions from post-marketing surveillance has been gathered covering an
 
 ## Tabulated list of adverse reactions
 
-In the table below all medically important adverse reactions, which occurred in clinical studies at an incidence greater than placebo are listed by system organ class and frequency (very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1 000 to &lt;1/100), rare ( ≥ 1/10 000 to &lt;1/1 000).. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+In the table below all medically important adverse reactions, which occurred in clinical studies at an incidence greater than placebo are listed by system organ class and frequency (very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000).. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1: Medically important adverse reactions reported at an incidence greater than placebo in controlled clinical studies and medically important adverse reactions reported through post-marketing surveillance
 
-| System Organ Class          | Very common ( ≥ 1/10)   | Common ( ≥ 1/100 and <1/10)                                     | Uncommon ( ≥ 1/1 000 and <1/100)                                                                                 | Rare ( ≥ 1/10 000 and <1/1 000)                                                                                                                                                                                                                                               |
-|-----------------------------|-------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations |                         |                                                                 | Rhinitis                                                                                                         |                                                                                                                                                                                                                                                                               |
-| Immune system disorders     |                         |                                                                 | Hypersensitivity                                                                                                 |                                                                                                                                                                                                                                                                               |
-| Nervous system disorders    | Headache                | Dizziness                                                       | Somnolence, Hypoaesthesia                                                                                        | Cerebrovascular accident, Transient ischaemic attack, Seizure * , Seizure recurrence, * Syncope                                                                                                                                                                               |
-| Eye disorders               |                         | Visual colour distortions**, Visual disturbance, Vision blurred | Lacrimation disorders***, Eye pain, Photophobia, Photopsia, Ocular hyperaemia, Visual brightness, Conjunctivitis | Non-arteritic anterior ischaemic optic neuropathy (NAION) * , Retinal vascular occlusion * , Retinal haemorrhage, Arteriosclerotic retinopathy, Retinal disorder, Glaucoma, Visual field defect, Diplopia, Visual acuity reduced, Myopia, Asthenopia, Vitreous floaters, Iris |
+| System Organ Class          | Very common (≥ 1/10)   | Common (≥ 1/100 and <1/10)                                      | Uncommon (≥ 1/1 000 and <1/100)                                                                                  | Rare (≥ 1/10 000 and <1/1 000)                                                                                                                                                                                                                                                |
+|-----------------------------|------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations |                        |                                                                 | Rhinitis                                                                                                         |                                                                                                                                                                                                                                                                               |
+| Immune system disorders     |                        |                                                                 | Hypersensitivity                                                                                                 |                                                                                                                                                                                                                                                                               |
+| Nervous system disorders    | Headache               | Dizziness                                                       | Somnolence, Hypoaesthesia                                                                                        | Cerebrovascular accident, Transient ischaemic attack, Seizure * , Seizure recurrence, * Syncope                                                                                                                                                                               |
+| Eye disorders               |                        | Visual colour distortions**, Visual disturbance, Vision blurred | Lacrimation disorders***, Eye pain, Photophobia, Photopsia, Ocular hyperaemia, Visual brightness, Conjunctivitis | Non-arteritic anterior ischaemic optic neuropathy (NAION) * , Retinal vascular occlusion * , Retinal haemorrhage, Arteriosclerotic retinopathy, Retinal disorder, Glaucoma, Visual field defect, Diplopia, Visual acuity reduced, Myopia, Asthenopia, Vitreous floaters, Iris |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                              | Very common ( ≥ 1/10)   | Common ( ≥ 1/100 and <1/10)   | Uncommon ( ≥ 1/1 000 and <1/100)                                             | Rare ( ≥ 1/10 000 and <1/1 000)                                                                                                                                                    |
-|-------------------------------------------------|-------------------------|-------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                 |                         |                               |                                                                              | disorder, Mydriasis, Halo vision, Eye oedema, Eye swelling, Eye disorder, Conjunctival hyperaemia, Eye irritation, Abnormal sensation in eye, Eyelid oedema, Scleral discoloration |
-| Ear and labyrinth disorders                     |                         |                               | Vertigo, Tinnitus                                                            | Deafness                                                                                                                                                                           |
-| Cardiac disorders                               |                         |                               | Tachycardia, Palpitations                                                    | Sudden cardiac death * , Myocardial infarction, Ventricular arrhythmia * , Atrial fibrillation, Unstable angina                                                                    |
-| Vascular disorders                              |                         | Flushing, Hot flush           | Hypertension, Hypotension                                                    |                                                                                                                                                                                    |
-| Respiratory, thoracic and mediastinal disorders |                         | Nasal congestion              | Epistaxis, Sinus congestion                                                  | Throat tightness, Nasal oedema, Nasal dryness                                                                                                                                      |
-| Gastrointestinal disorders                      |                         | Nausea, Dyspepsia             | Gastro oesophagael reflux disease, Vomiting, Abdominal pain upper, Dry mouth | Hypoaesthesia oral                                                                                                                                                                 |
-| Skin and subcutaneous tissue disorders          |                         |                               | Rash                                                                         | Stevens-Johnson Syndrome (SJS) * , Toxic Epidermal Necrolysis (TEN) *                                                                                                              |
-| Musculoskeletal and connective tissue disorders |                         |                               | Myalgia, Pain in extremity                                                   |                                                                                                                                                                                    |
-| Renal and urinary disorders                     |                         |                               | Haematuria                                                                   |                                                                                                                                                                                    |
-| Reproductive system and breast disorders        |                         |                               |                                                                              | Penile haemorrhage, Priapism * , Haematospermia, Erection increased                                                                                                                |
+| System Organ Class                              | Very common (≥ 1/10)   | Common (≥ 1/100 and <1/10)   | Uncommon (≥ 1/1 000 and <1/100)                                              | Rare (≥ 1/10 000 and <1/1 000)                                                                                                                                                     |
+|-------------------------------------------------|------------------------|------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                 |                        |                              |                                                                              | disorder, Mydriasis, Halo vision, Eye oedema, Eye swelling, Eye disorder, Conjunctival hyperaemia, Eye irritation, Abnormal sensation in eye, Eyelid oedema, Scleral discoloration |
+| Ear and labyrinth disorders                     |                        |                              | Vertigo, Tinnitus                                                            | Deafness                                                                                                                                                                           |
+| Cardiac disorders                               |                        |                              | Tachycardia, Palpitations                                                    | Sudden cardiac death * , Myocardial infarction, Ventricular arrhythmia * , Atrial fibrillation, Unstable angina                                                                    |
+| Vascular disorders                              |                        | Flushing, Hot flush          | Hypertension, Hypotension                                                    |                                                                                                                                                                                    |
+| Respiratory, thoracic and mediastinal disorders |                        | Nasal congestion             | Epistaxis, Sinus congestion                                                  | Throat tightness, Nasal oedema, Nasal dryness                                                                                                                                      |
+| Gastrointestinal disorders                      |                        | Nausea, Dyspepsia            | Gastro oesophagael reflux disease, Vomiting, Abdominal pain upper, Dry mouth | Hypoaesthesia oral                                                                                                                                                                 |
+| Skin and subcutaneous tissue disorders          |                        |                              | Rash                                                                         | Stevens-Johnson Syndrome (SJS) * , Toxic Epidermal Necrolysis (TEN) *                                                                                                              |
+| Musculoskeletal and connective tissue disorders |                        |                              | Myalgia, Pain in extremity                                                   |                                                                                                                                                                                    |
+| Renal and urinary disorders                     |                        |                              | Haematuria                                                                   |                                                                                                                                                                                    |
+| Reproductive system and breast disorders        |                        |                              |                                                                              | Penile haemorrhage, Priapism * , Haematospermia, Erection increased                                                                                                                |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Very common ( ≥ 1/10)   | Common ( ≥ 1/100 and <1/10)   | Uncommon ( ≥ 1/1 000 and <1/100)   | Rare ( ≥ 1/10 000 and <1/1 000)   |
-|------------------------------------------------------|-------------------------|-------------------------------|------------------------------------|-----------------------------------|
-| General disorders and administration site conditions |                         |                               | Chest pain, Fatigue, Feeling hot   | Irritability                      |
-| Investigations                                       |                         |                               | Heart rate increased               |                                   |
-
-* Reported during post-marketing surveillance only
-
-**Visual colour distortions: Chloropsia, Chromatopsia, Cyanopsia, Erythropsia and Xanthopsia
-
-***Lacrimation disorders: Dry eye, Lacrimal disorder and Lacrimation increased
+| System Organ Class                                   | Very common (≥ 1/10)   | Common (≥ 1/100 and <1/10)   | Uncommon (≥ 1/1 000 and <1/100)   | Rare (≥ 1/10 000 and <1/1 000)   |
+|------------------------------------------------------|------------------------|------------------------------|-----------------------------------|----------------------------------|
+| General disorders and administration site conditions |                        |                              | Chest pain, Fatigue, Feeling hot  | Irritability                     |
+| Investigations                                       |                        |                              | Heart rate increased              |                                  |
 
 ## Reporting of suspected adverse reactions
 
@@ -838,11 +826,9 @@ In healthy volunteers receiving sildenafil (100 mg single dose), less than 0.000
 
 ## Biotransformation
 
-Sildenafil is cleared predominantly by the CYP3A4 (major route) and CYP2C9 (minor route) hepatic microsomal isoenzymes. The major circulating metabolite results from N-demethylation of sildenafil. This metabolite has a phosphodiesterase selectivity profile similar to sildenafil and an in vitro potency for PDE5 approximately 50% that of the parent drug. Plasma concentrations of this metabolite are
+Sildenafil is cleared predominantly by the CYP3A4 (major route) and CYP2C9 (minor route) hepatic microsomal isoenzymes. The major circulating metabolite results from N-demethylation of sildenafil. This metabolite has a phosphodiesterase selectivity profile similar to sildenafil and an in vitro potency for PDE5 approximately 50% that of the parent drug. Plasma concentrations of this metabolite are approximately 40% of those seen for sildenafil. The N-desmethyl metabolite is further metabolised, with a terminal half-life of approximately 4 h.
 
 <div style=\"page-break-after: always\"></div>
-
-approximately 40% of those seen for sildenafil. The N-desmethyl metabolite is further metabolised, with a terminal half-life of approximately 4 h.
 
 ## Elimination
 
@@ -870,11 +856,13 @@ Non-clinical data revealed no special hazard for humans based on conventional st
 
 ## 6.1 List of excipients
 
-Microcrystalline cellulose Silica, hydrophobic colloidal Croscarmellose sodium Magnesium stearate Indigo carmine aluminium lake (E132) Sucralose Mannitol Crospovidone Polyvinyl acetate Povidone
+Microcrystalline cellulose Silica, hydrophobic colloidal Croscarmellose sodium Magnesium stearate Indigo carmine aluminium lake (E132) Sucralose Mannitol Crospovidone Polyvinyl acetate Povidone Flavouring contains:
 
 <div style=\"page-break-after: always\"></div>
 
-Flavouring contains: Maltodextrin Dextrin
+Maltodextrin
+
+Dextrin
 
 Natural flavouring contains:
 
@@ -908,7 +896,9 @@ No special requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
+
+Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -918,7 +908,7 @@ EU/1/98/077/020-023
 
 Date of first authorisation: 14 September 1998
 
-Date of latest renewal: 14 September 2008
+Date of latest renewal: 26 August 2008
 
 <div style=\"page-break-after: always\"></div>
 
@@ -954,7 +944,7 @@ In order for VIAGRA to be effective, sexual stimulation is required.
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 ## Use in adults
 
@@ -966,7 +956,7 @@ Based on efficacy and tolerability, the dose may be increased to 100 mg. The max
 
 ## Elderly
 
-Dose adjustments are not required in elderly patients ( ≥ 65 years old).
+Dose adjustments are not required in elderly patients (≥ 65 years old).
 
 ## Renal impairment
 
@@ -1014,7 +1004,7 @@ VIAGRA is contraindicated in patients who have loss of vision in one eye because
 
 <div style=\"page-break-after: always\"></div>
 
-The safety of sildenafil has not been studied in the following sub-groups of patients and its use is therefore contraindicated: severe hepatic impairment, hypotension (blood pressure &lt; 90/50 mmHg), recent history of stroke or myocardial infarction and known hereditary degenerative retinal disorders such as retinitis pigmentosa (a minority of these patients have genetic disorders of retinal phosphodiesterases) .
+The safety of sildenafil has not been studied in the following sub-groups of patients and its use is therefore contraindicated: severe hepatic impairment, hypotension (blood pressure &lt; 90/50 mmHg), recent history of stroke or myocardial infarction and known hereditary degenerative retinal disorders such as retinitis pigmentosa (a minority of these patients have genetic disorders of retinal phosphodiesterases).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -1040,11 +1030,9 @@ The safety and efficacy of combinations of sildenafil with other PDE5 Inhibitors
 
 ## Effects on vision
 
-Cases of visual defects have been reported spontaneously in connection with the intake of sildenafil and other PDE5 inhibitors (see section 4.8). Cases of non-arteritic anterior ischaemic optic neuropathy, a rare condition, have been reported spontaneously and in an observational study in connection with the
+Cases of visual defects have been reported spontaneously in connection with the intake of sildenafil and other PDE5 inhibitors (see section 4.8). Cases of non-arteritic anterior ischaemic optic neuropathy, a rare condition, have been reported spontaneously and in an observational study in connection with the intake of sildenafil and other PDE5 inhibitors (see section 4.8). Patients should be advised that in the event of any sudden visual defect, they should stop taking VIAGRA and consult a physician immediately (see section 4.3).
 
 <div style=\"page-break-after: always\"></div>
-
-intake of sildenafil and other PDE5 inhibitors (see section 4.8). Patients should be advised that in the event of any sudden visual defect, they should stop taking VIAGRA and consult a physician immediately (see section 4.3).
 
 ## Concomitant use with ritonavir
 
@@ -1056,7 +1044,7 @@ Caution is advised when sildenafil is administered to patients taking an alpha-b
 
 ## Effect on bleeding
 
-Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro . There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
+Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro. There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration. Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
 
 ## Women
 
@@ -1076,11 +1064,9 @@ Population pharmacokinetic analysis of clinical study data indicated a reduction
 
 Co-administration of the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg twice daily) with sildenafil (100 mg single dose) resulted in a 300% (4-fold) increase in sildenafil Cmax and a 1 000% (11-fold) increase in sildenafil plasma AUC. At 24 hours, the plasma levels of sildenafil were still approximately 200 ng/mL, compared to approximately 5 ng/mL when sildenafil was administered alone. This is consistent with ritonavir's marked effects on a broad range of P450 substrates. Sildenafil had no effect on ritonavir pharmacokinetics. Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is not advised (see section 4.4) and in any event the maximum dose of sildenafil should under no circumstances exceed 25 mg within 48 hours.
 
-Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1 200 mg three times a day) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC. Sildenafil had no effect on saquinavir
+Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1 200 mg three times a day) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC. Sildenafil had no effect on saquinavir pharmacokinetics (see section 4.2). Stronger CYP3A4 inhibitors such as ketoconazole and itraconazole would be expected to have greater effects.
 
 <div style=\"page-break-after: always\"></div>
-
-pharmacokinetics (see section 4.2). Stronger CYP3A4 inhibitors such as ketoconazole and itraconazole would be expected to have greater effects.
 
 When a single 100 mg dose of sildenafil was administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC). In normal healthy male volunteers, there was no evidence of an effect of azithromycin (500 mg daily for 3 days) on the AUC, Cmax, tmax, elimination rate constant, or subsequent half-life of sildenafil or its principal circulating metabolite. Cimetidine (800 mg), a cytochrome P450 inhibitor and non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when co-administered with sildenafil (50 mg) to healthy volunteers.
 
@@ -1096,7 +1082,7 @@ Nicorandil is a hybrid of potassium channel activator and nitrate. Due to the ni
 
 ## In vitro studies
 
-Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 &gt; 150 μ M). Given sildenafil peak plasma concentrations of approximately 1 μ M after recommended doses, it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes.
+Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 &gt; 150 μM). Given sildenafil peak plasma concentrations of approximately 1 μM after recommended doses, it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes.
 
 There are no data on the interaction of sildenafil and non-specific phosphodiesterase inhibitors such as theophylline or dipyridamole.
 
@@ -1106,11 +1092,9 @@ Consistent with its known effects on the nitric oxide/cGMP pathway (see section 
 
 Riociguat: Preclinical studies showed additive systemic blood pressure lowering effect when PDE5 inhibitors were combined with riociguat. In clinical studies, riociguat has been shown to augment the hypotensive effects of PDE5 inhibitors. There was no evidence of favourable clinical effect of the combination in the population studied. Concomitant use of riociguat with PDE5 inhibitors, including sildenafil, is contraindicated (see section 4.3).
 
-Concomitant administration of sildenafil to patients taking alpha-blocker therapy may lead to symptomatic hypotension in a few susceptible individuals. This is most likely to occur within 4 hours
+Concomitant administration of sildenafil to patients taking alpha-blocker therapy may lead to symptomatic hypotension in a few susceptible individuals. This is most likely to occur within 4 hours post sildenafil dosing (see sections 4.2 and 4.4). In three specific drug-drug interaction studies, the alpha-blocker doxazosin (4 mg and 8 mg) and sildenafil (25 mg, 50 mg, or 100 mg) were administered simultaneously to patients with benign prostatic hyperplasia (BPH) stabilized on doxazosin therapy. In these study populations, mean additional reductions of supine blood pressure of 7/7 mmHg, 9/5 mmHg, and 8/4 mmHg, and mean additional reductions of standing blood pressure of 6/6 mmHg, 11/4 mmHg, and 4/5 mmHg, respectively, were observed. When sildenafil and doxazosin were administered simultaneously to patients stabilized on doxazosin therapy, there were infrequent reports of patients who experienced symptomatic postural hypotension. These reports included dizziness and light-headedness, but not syncope.
 
 <div style=\"page-break-after: always\"></div>
-
-post sildenafil dosing (see sections 4.2 and 4.4). In three specific drug-drug interaction studies, the alpha-blocker doxazosin (4 mg and 8 mg) and sildenafil (25 mg, 50 mg, or 100 mg) were administered simultaneously to patients with benign prostatic hyperplasia (BPH) stabilized on doxazosin therapy. In these study populations, mean additional reductions of supine blood pressure of 7/7 mmHg, 9/5 mmHg, and 8/4 mmHg, and mean additional reductions of standing blood pressure of 6/6 mmHg, 11/4 mmHg, and 4/5 mmHg, respectively, were observed. When sildenafil and doxazosin were administered simultaneously to patients stabilized on doxazosin therapy, there were infrequent reports of patients who experienced symptomatic postural hypotension. These reports included dizziness and light-headedness, but not syncope.
 
 No significant interactions were shown when sildenafil (50 mg) was co-administered with tolbutamide (250 mg) or warfarin (40 mg), both of which are metabolised by CYP2C9.
 
@@ -1154,44 +1138,38 @@ Adverse reactions from post-marketing surveillance has been gathered covering an
 
 ## Tabulated list of adverse reactions
 
-In the table below all medically important adverse reactions, which occurred in clinical studies at an incidence greater than placebo are listed by system organ class and frequency (very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1 000 to &lt;1/100), rare ( ≥ 1/10 000 to &lt;1/1 000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+In the table below all medically important adverse reactions, which occurred in clinical studies at an incidence greater than placebo are listed by system organ class and frequency (very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1: Medically important adverse reactions reported at an incidence greater than placebo in controlled clinical studies and medically important adverse reactions reported through post-marketing surveillance
 
-| System Organ Class          | Very common ( ≥ 1/10)   | Common ( ≥ 1/100 and <1/10)                                     | Uncommon ( ≥ 1/1 000 and <1/100)                                                                                 | Rare ( ≥ 1/10 000 and <1/1 000)                                                                                                                                                                                                                                                                                                                                                  |
-|-----------------------------|-------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations |                         |                                                                 | Rhinitis                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                  |
-| Immune system disorders     |                         |                                                                 | Hypersensitivity                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                  |
-| Nervous system disorders    | Headache                | Dizziness                                                       | Somnolence, Hypoaesthesia                                                                                        | Cerebrovascular accident, Transient ischaemic attack, Seizure * , Seizure recurrence * , Syncope                                                                                                                                                                                                                                                                                 |
-| Eye disorders               |                         | Visual colour distortions**, Visual disturbance, Vision blurred | Lacrimation disorders***, Eye pain, Photophobia, Photopsia, Ocular hyperaemia, Visual brightness, Conjunctivitis | Non-arteritic anterior ischaemic optic neuropathy (NAION) * , Retinal vascular occlusion * , Retinal haemorrhage, Arteriosclerotic retinopathy, Retinal disorder, Glaucoma, Visual field defect, Diplopia, Visual acuity reduced, Myopia, Asthenopia, Vitreous floaters, Iris disorder, Mydriasis, Halo vision, Eye oedema, Eye swelling, Eye disorder, Conjunctival hyperaemia, |
+| System Organ Class          | Very common (≥1/10)   | Common (≥1/100 and <1/10)                                       | Uncommon (≥1/1 000 and <1/100)                                                                                   | Rare (≥1/10 000 and <1/1 000)                                                                                                                                                                                                                                                                                                                                                    |
+|-----------------------------|-----------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations |                       |                                                                 | Rhinitis                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                  |
+| Immune system disorders     |                       |                                                                 | Hypersensitivity                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                  |
+| Nervous system disorders    | Headache              | Dizziness                                                       | Somnolence, Hypoaesthesia                                                                                        | Cerebrovascular accident, Transient ischaemic attack, Seizure * , Seizure recurrence * , Syncope                                                                                                                                                                                                                                                                                 |
+| Eye disorders               |                       | Visual colour distortions**, Visual disturbance, Vision blurred | Lacrimation disorders***, Eye pain, Photophobia, Photopsia, Ocular hyperaemia, Visual brightness, Conjunctivitis | Non-arteritic anterior ischaemic optic neuropathy (NAION) * , Retinal vascular occlusion * , Retinal haemorrhage, Arteriosclerotic retinopathy, Retinal disorder, Glaucoma, Visual field defect, Diplopia, Visual acuity reduced, Myopia, Asthenopia, Vitreous floaters, Iris disorder, Mydriasis, Halo vision, Eye oedema, Eye swelling, Eye disorder, Conjunctival hyperaemia, |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Very common ( ≥ 1/10)   | Common ( ≥ 1/100 and <1/10)   | Uncommon ( ≥ 1/1 000 and <1/100)                                             | Rare ( ≥ 1/10 000 and <1/1 000)                                                                                 |
-|------------------------------------------------------|-------------------------|-------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-|                                                      |                         |                               |                                                                              | Eye irritation, Abnormal sensation in eye, Eyelid oedema, Scleral discoloration                                 |
-| Ear and labyrinth disorders                          |                         |                               | Vertigo, Tinnitus                                                            | Deafness                                                                                                        |
-| Cardiac disorders                                    |                         |                               | Tachycardia, Palpitations                                                    | Sudden cardiac death * , Myocardial infarction, Ventricular arrhythmia * , Atrial fibrillation, Unstable angina |
-| Vascular disorders                                   |                         | Flushing, Hot flush           | Hypertension, Hypotension                                                    |                                                                                                                 |
-| Respiratory, thoracic and mediastinal disorders      |                         | Nasal congestion              | Epistaxis, Sinus congestion                                                  | Throat tightness, Nasal oedema, Nasal dryness                                                                   |
-| Gastrointestinal disorders                           |                         | Nausea, Dyspepsia             | Gastro oesophagael reflux disease, Vomiting, Abdominal pain upper, Dry mouth | Hypoaesthesia oral                                                                                              |
-| Skin and subcutaneous tissue disorders               |                         |                               | Rash                                                                         | Stevens-Johnson Syndrome (SJS) * , Toxic Epidermal Necrolysis (TEN) *                                           |
-| Musculoskeletal and connective tissue disorders      |                         |                               | Myalgia, Pain in extremity                                                   |                                                                                                                 |
-| Renal and urinary disorders                          |                         |                               | Haematuria                                                                   |                                                                                                                 |
-| Reproductive system and breast disorders             |                         |                               |                                                                              | Penile haemorrhage, Priapism * , Haematospermia, Erection increased                                             |
-| General disorders and administration site conditions |                         |                               | Chest pain, Fatigue, Feeling hot                                             | Irritability                                                                                                    |
+| System Organ Class                                   | Very common (≥1/10)   | Common (≥1/100 and <1/10)   | Uncommon (≥1/1 000 and <1/100)                                               | Rare (≥1/10 000 and <1/1 000)                                                                                   |
+|------------------------------------------------------|-----------------------|-----------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+|                                                      |                       |                             |                                                                              | Eye irritation, Abnormal sensation in eye, Eyelid oedema, Scleral discoloration                                 |
+| Ear and labyrinth disorders                          |                       |                             | Vertigo, Tinnitus                                                            | Deafness                                                                                                        |
+| Cardiac disorders                                    |                       |                             | Tachycardia, Palpitations                                                    | Sudden cardiac death * , Myocardial infarction, Ventricular arrhythmia * , Atrial fibrillation, Unstable angina |
+| Vascular disorders                                   |                       | Flushing, Hot flush         | Hypertension, Hypotension                                                    |                                                                                                                 |
+| Respiratory, thoracic and mediastinal disorders      |                       | Nasal congestion            | Epistaxis, Sinus congestion                                                  | Throat tightness, Nasal oedema, Nasal dryness                                                                   |
+| Gastrointestinal disorders                           |                       | Nausea, Dyspepsia           | Gastro oesophagael reflux disease, Vomiting, Abdominal pain upper, Dry mouth | Hypoaesthesia oral                                                                                              |
+| Skin and subcutaneous tissue disorders               |                       |                             | Rash                                                                         | Stevens-Johnson Syndrome (SJS) * , Toxic Epidermal Necrolysis (TEN) *                                           |
+| Musculoskeletal and connective tissue disorders      |                       |                             | Myalgia, Pain in extremity                                                   |                                                                                                                 |
+| Renal and urinary disorders                          |                       |                             | Haematuria                                                                   |                                                                                                                 |
+| Reproductive system and breast disorders             |                       |                             |                                                                              | Penile haemorrhage, Priapism * , Haematospermia, Erection increased                                             |
+| General disorders and administration site conditions |                       |                             | Chest pain, Fatigue, Feeling hot                                             | Irritability                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class   | Very common ( ≥ 1/10)   | Common ( ≥ 1/100 and <1/10)   | Uncommon ( ≥ 1/1 000 and <1/100)   | Rare ( ≥ 1/10 000 and <1/1 000)   |
-|----------------------|-------------------------|-------------------------------|------------------------------------|-----------------------------------|
-| Investigations       |                         |                               | Heart rate increased               |                                   |
-
-* Reported during post-marketing surveillance only
-
-**Visual colour distortions: Chloropsia, Chromatopsia, Cyanopsia, Erythropsia and Xanthopsia
-
-***Lacrimation disorders: Dry eye, Lacrimal disorder and Lacrimation increased
+| System Organ Class   | Very common (≥1/10)   | Common (≥1/100 and <1/10)   | Uncommon (≥1/1 000 and <1/100)   | Rare (≥1/10 000 and <1/1 000)   |
+|----------------------|-----------------------|-----------------------------|----------------------------------|---------------------------------|
+| Investigations       |                       |                             | Heart rate increased             |                                 |
 
 ## Reporting of suspected adverse reactions
 
@@ -1219,11 +1197,9 @@ Sildenafil is a potent and selective inhibitor of cGMP specific phosphodiesteras
 
 ## Pharmacodynamic effects
 
-Studies in vitro have shown that sildenafil is selective for PDE5, which is involved in the erection process. Its effect is more potent on PDE5 than on other known phosphodiesterases. There is a 10-fold
+Studies in vitro have shown that sildenafil is selective for PDE5, which is involved in the erection process. Its effect is more potent on PDE5 than on other known phosphodiesterases. There is a 10-fold selectivity over PDE6 which is involved in the phototransduction pathway in the retina. At maximum recommended doses, there is an 80-fold selectivity over PDE1, and over 700-fold over PDE2, 3, 4, 7, 8, 9, 10 and 11. In particular, sildenafil has greater than 4 000-fold selectivity for PDE5 over PDE3, the cAMP-specific phosphodiesterase isoform involved in the control of cardiac contractility.
 
 <div style=\"page-break-after: always\"></div>
-
-selectivity over PDE6 which is involved in the phototransduction pathway in the retina. At maximum recommended doses, there is an 80-fold selectivity over PDE1, and over 700-fold over PDE2, 3, 4, 7, 8, 9, 10 and 11. In particular, sildenafil has greater than 4 000-fold selectivity for PDE5 over PDE3, the cAMP-specific phosphodiesterase isoform involved in the control of cardiac contractility.
 
 ## Clinical efficacy and safety
 
@@ -1269,7 +1245,7 @@ In a clinical study in 80 healthy males 20-43 years of age, sildenafil 50 mg oro
 
 In another study in 40 healthy males 23-54 years of age, sildenafil 50 mg orodispersible films administered with water were observed to be bioequivalent to the sildenafil 50 mg film-coated tablets.
 
-The effect of food on sildenafil 50 mg orodispersible films has not been studied, however an effect of food similar to that seen on sildenafil 50 mg orodispersible tablets is expected (see ' Orodispersible tablets ' below and section 4.2).
+The effect of food on sildenafil 50 mg orodispersible films has not been studied, however an effect of food similar to that seen on sildenafil 50 mg orodispersible tablets is expected (see \"Orodispersible tablets\" below and section 4.2).
 
 ## Orodispersible tablets
 
@@ -1315,7 +1291,9 @@ Non-clinical data revealed no special hazard for humans based on conventional st
 
 ## 6.1 List of excipients
 
-Hydroxypropylcellulose (E463) Macrogol Crospovidone (E1202) Povidone (E1201) Sucralose (E955) Macrogol poly(vinyl alcohol) grafted copolymer Levomenthol Hypromellose (E464) Titanium dioxide (E171)
+Macrogol poly(vinyl alcohol) grafted copolymer
+
+Hydroxypropylcellulose (E463) Macrogol Crospovidone (E1202) Povidone (E1201) Sucralose (E955) Levomenthol Hypromellose (E464) Titanium dioxide (E171)
 
 Ferric oxide red (E172)
 
@@ -1339,11 +1317,19 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Viatris EESV
+
+Krijgsman 20
+
+1186 DM, Amstelveen
+
+Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -1353,7 +1339,9 @@ EU/1/98/077/026-029
 
 Date of first authorisation: 14 September 1998
 
-Date of latest renewal: 14 September 2008
+Date of latest renewal: 26 August 2008
+
+42
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1365,10 +1353,10 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A.  MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-- B.  CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C.  OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D.  CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1378,7 +1366,11 @@ Name and address of the manufacturer(s) responsible for batch release
 
 25 mg, 50 mg, 100 mg film-coated tablets and 50 mg orodispersible tablets
 
-Fareva Amboise Zone Industrielle 29 route des Industries 37530 Pocé-sur-Cisse France or
+Fareva Amboise Zone Industrielle 29 route des Industries 37530 Pocé-sur-Cisse
+
+France
+
+or
 
 Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
 
@@ -1421,6 +1413,8 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 ## OUTER CARTON
@@ -1446,11 +1440,8 @@ See package leaflet for further information.
 ## Film-coated tablet
 
 - 2 film-coated tablets
-
 - 4 film-coated tablets
-
 - 8 film-coated tablets
-
 - 12 film-coated-tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -1471,9 +1462,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
-Do not store above 30 ° C.
+Do not store above 30 °C.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1483,11 +1472,11 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV
+Viatris EESV
 
-Rivium Westlaan 142
+Krijgsman 20
 
-2909 LD Capelle aan den IJssel
+1186 DM, Amstelveen
 
 Netherlands
 
@@ -1527,19 +1516,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 VIAGRA 25 mg tablets sildenafil
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1562,7 +1551,9 @@ Batch
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-VIAGRA 50 mg film-coated tablets sildenafil
+VIAGRA 50 mg film-coated tablets
+
+sildenafil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1604,7 +1595,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30 ° C.
+Do not store above 30°C.
 
 Store in the original package in order to protect from moisture.
 
@@ -1612,11 +1603,11 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV
+Viatris EESV
 
-Rivium Westlaan 142
+Krijgsman 20
 
-2909 LD Capelle aan den IJssel
+1186 DM, Amstelveen
 
 Netherlands
 
@@ -1664,7 +1655,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-VIAGRA 50 mg film-coated tablets sildenafil
+VIAGRA 50 mg film-coated tablets
+
+sildenafil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1705,7 +1698,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30 ° C.
+Do not store above 30°C.
 
 Store in the original package in order to protect from moisture.
 
@@ -1713,11 +1706,11 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV
+Viatris EESV
 
-Rivium Westlaan 142
+Krijgsman 20
 
-2909 LD Capelle aan den IJssel
+1186 DM, Amstelveen
 
 Netherlands
 
@@ -1757,19 +1750,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 VIAGRA 50 mg tablets sildenafil
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1784,8 +1777,6 @@ Batch
 | 5.   | OTHER   |
 |------|---------|
 
-56
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1794,7 +1785,9 @@ Batch
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-VIAGRA 100 mg film-coated tablets sildenafil
+VIAGRA 100 mg film-coated tablets
+
+sildenafil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1836,7 +1829,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30 ° C.
+Do not store above 30°C.
 
 Store in the original package in order to protect from moisture.
 
@@ -1844,11 +1837,11 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV
+Viatris EESV
 
-Rivium Westlaan 142
+Krijgsman 20
 
-2909 LD Capelle aan den IJssel
+1186 DM, Amstelveen
 
 Netherlands
 
@@ -1890,19 +1883,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 VIAGRA 100 mg tablets sildenafil
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1927,7 +1920,9 @@ Batch
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-VIAGRA 50 mg orodispersible tablets sildenafil
+VIAGRA 50 mg orodispersible tablets
+
+sildenafil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1977,11 +1972,11 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV
+Viatris EESV
 
-Rivium Westlaan 142
+Krijgsman 20
 
-2909 LD Capelle aan den IJssel
+1186 DM, Amstelveen
 
 Netherlands
 
@@ -2021,19 +2016,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 VIAGRA 50 mg orodispersible tablets sildenafil
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2056,7 +2051,9 @@ Batch
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-VIAGRA 50 mg orodispersible films sildenafil
+VIAGRA 50 mg orodispersible films
+
+sildenafil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2104,15 +2101,16 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV
+Viatris EESV
 
-Rivium Westlaan 142
+Krijgsman 20
 
-2909 LD Capelle aan den IJssel
+1186 DM, Amstelveen
 
 Netherlands
 
@@ -2138,29 +2136,34 @@ Batch
 
 VIAGRA 50 mg orodispersible films
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS POUCH
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| POUCH                                                              |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 VIAGRA 50 mg orodispersible films sildenafil Oral use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -2169,14 +2172,13 @@ EXP
 
 Batch
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
-Peel open. Do not cut open.
-
-Take immediately upon removal from pouch.
+Peel open. Do not cut open. Take immediately upon removal from pouch.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2190,10 +2192,10 @@ Take immediately upon removal from pouch.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -Keep this leaflet. You may need to read it again.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2214,27 +2216,63 @@ VIAGRA is a treatment for adult men with erectile dysfunction, sometimes known a
 
 ## Do not take VIAGRA
 
-- -If you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
-- -If you are taking medicines called nitrates, as the combination may lead to a dangerous fall in your blood pressure. Tell your doctor if you are taking any of these medicines which are often given for relief of angina pectoris (or 'chest pain'). If you are not certain, ask your doctor or pharmacist.
-- -If you are using any of the medicines known as nitric oxide donors such as amyl nitrite ('poppers'), as the combination may also lead to a dangerous fall in your blood pressure.
-- -If you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Viagra have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
+-
+
+-
+
+-
+
+-
+
+If you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
+
+If you are taking medicines called nitrates, as the combination may lead to a dangerous fall in your blood pressure. Tell your doctor if you are taking any of these medicines which are often given for relief of angina pectoris (or \"chest pain\"). If you are not certain, ask your doctor or pharmacist.
+
+If you are using any of the medicines known as nitric oxide donors such as amyl nitrite (\"poppers\"), as the combination may also lead to a dangerous fall in your blood pressure.
+
+If you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Viagra have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
 
 <div style=\"page-break-after: always\"></div>
 
-- -If you have a severe heart or liver problem.
-- -If you have recently had a stroke or a heart attack, or if you have low blood pressure.
-- -If you have certain rare inherited eye diseases (such as retinitis pigmentosa ).
-- -If you have ever had loss of vision due to non-arteritic anterior ischaemic optic neuropathy (NAION).
+-
+
+If you have a severe heart or liver problem.
+
+-
+
+If you have recently had a stroke or a heart attack, or if you have low blood pressure.
+
+-
+
+If you have certain rare inherited eye diseases (such as retinitis pigmentosa).
+
+-
+
+If you have ever had loss of vision due to non-arteritic anterior ischaemic optic neuropathy (NAION).
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before taking VIAGRA
 
-- -If you have sickle cell anaemia (an abnormality of red blood cells), leukaemia (cancer of blood cells), multiple myeloma (cancer of bone marrow).
-- -If you have a deformity of your penis or Peyronie's Disease.
-- -If you have problems with your heart. Your doctor should carefully check whether your heart can take the additional strain of having sex.
-- -If you currently have a stomach ulcer, or a bleeding problems (such as haemophilia).
-- -If you experience sudden decrease or loss of vision, stop taking VIAGRA and contact your doctor immediately.
+-
+
+-
+
+If you have sickle cell anaemia (an abnormality of red blood cells), leukaemia (cancer of blood cells), multiple myeloma (cancer of bone marrow).
+
+If you have a deformity of your penis or Peyronie's Disease.
+
+-
+
+-
+
+If you have problems with your heart. Your doctor should carefully check whether your heart can take the additional strain of having sex.
+
+If you currently have a stomach ulcer, or a bleeding problems (such as haemophilia).
+
+-
+
+If you experience sudden decrease or loss of vision, stop taking VIAGRA and contact your doctor immediately.
 
 You should not use VIAGRA with any other oral or local treatments for erectile dysfunction.
 
@@ -2258,9 +2296,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 VIAGRA tablets may interfere with some medicines, especially those used to treat chest pain. In the event of a medical emergency, you should tell your doctor, pharmacist or nurse that you have taken VIAGRA and when you did. Do not take VIAGRA with other medicines unless your doctor tells you that you can.
 
-You should not take VIAGRA if you are taking medicines called nitrates, as the combination of these medicines may lead to a dangerous fall in your blood pressure. Always tell your doctor, pharmacist or nurse if you are taking any of these medicines that are often used for the relief of angina pectoris (or 'chest pain').
+You should not take VIAGRA if you are taking medicines called nitrates, as the combination of these medicines may lead to a dangerous fall in your blood pressure. Always tell your doctor, pharmacist or nurse if you are taking any of these medicines that are often used for the relief of angina pectoris (or \"chest pain\").
 
-You should not take VIAGRA if you are using any of the medicines known as nitric oxide donors such as amyl nitrite ('poppers') as the combination may also lead to a dangerous fall in your blood pressure.
+You should not take VIAGRA if you are using any of the medicines known as nitric oxide donors such as amyl nitrite (\"poppers\") as the combination may also lead to a dangerous fall in your blood pressure.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2329,17 +2367,15 @@ Like all medicines, this medicine can cause side effects although not everybody 
 ## If you experience any of the following serious side effects stop taking VIAGRA and seek medical help immediately:
 
 - An allergic reaction - this occurs uncommonly (may affect up to 1 in 100 people) Symptoms include sudden wheeziness, difficulty in breathing or dizziness, swelling of the eyelids, face, lips or throat.
-- Chest pains - this occurs uncommonly If this occurs during or after intercourse - Get in a semi-sitting position and try to relax. -Do not use nitrates to treat your chest pain.
+- Chest pains - this occurs uncommonly If this occurs during or after intercourse
+- Get in a semi-sitting position and try to relax.
+- Do not use nitrates to treat your chest pain.
 - Prolonged and sometimes painful erections - this occurs rarely (may affect up to 1 in 1 000 people)
-- If you have an erection which lasts for more than 4 hours, you should contact a doctor
 
-immediately.
+If you have an erection which lasts for more than 4 hours, you should contact a doctor immediately.
 
 - A sudden decrease or loss of vision - this occurs rarely
-
-Symptoms may include severe peeling and swelling of the skin, blistering of the mouth,
-
-- Serious skin reactions - this occurs rarely genitals and around the eyes, fever.
+- Serious skin reactions - this occurs rarely Symptoms may include severe peeling and swelling of the skin, blistering of the mouth, genitals and around the eyes, fever.
 - Seizures or fits - this occurs rarely
 
 ## Other side effects:
@@ -2374,22 +2410,23 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What VIAGRA contains
 
-- -The active substance is sildenafil. Each tablet contains 25 mg of sildenafil (as the citrate salt).
-- -The other ingredients are:
-- -Tablet core: microcrystalline cellulose, calcium hydrogen phosphate (anhydrous), croscarmellose sodium (see section 2 'VIAGRA contains sodium'), magnesium stearate
-- -Film coat:  hypromellose, titanium dioxide (E171), lactose monohydrate (see section 2 'VIAGRA contains lactose'), triacetin, indigo   carmine aluminium
+- The active substance is sildenafil. Each tablet contains 25 mg of sildenafil (as the citrate salt). - The other ingredients are:
 
-lake (E132)
+- Tablet core:
+
+microcrystalline cellulose, calcium hydrogen phosphate (anhydrous), croscarmellose sodium (see section 2 \"VIAGRA contains sodium\"), magnesium stearate
+
+- Film coat: hypromellose, titanium dioxide (E171), lactose monohydrate (see section 2 \"VIAGRA contains lactose\"), triacetin, indigo carmine aluminium lake (E132)
 
 ## What VIAGRA looks like and contents of the pack
 
-VIAGRA film-coated tablets (tablets) are blue, with a rounded-diamond shape. They are marked 'VIAGRA' on one side and 'VGR 25' on the other side. The tablets are provided in blister packs containing 2, 4, 8 or 12 tablets. Some pack sizes may not be marketed in your country.
+VIAGRA film-coated tablets (tablets) are blue, with a rounded-diamond shape. They are marked \"VIAGRA\" on one side and \"VGR 25\" on the other side. The tablets are provided in blister packs containing 2, 4, 8 or 12 tablets. Some pack sizes may not be marketed in your country.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
-Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+Viatris EESV, Krijgsman 20, 1186 DM, Amstelveen, Netherlands.
 
 ## Manufacturer
 
@@ -2403,6 +2440,60 @@ Viatris
 
 Tél/Tel: +32 (0)2 658 61 00
 
+## България
+
+Виатрис ЕООД
+
+Тел.: +359 2 44 55 400
+
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: +420 222 004 400
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
+## Deutschland
+
+Viatris Healthcare GmbH
+
+Tel: +49 (0) 800 0700 800
+
+## Eesti
+
+Viatris OÜ
+
+Tel: +372 6363 052
+
+## Ελλάδα
+
+Viatris Hellas Ltd
+
+Τηλ.: +30 2100 100 002
+
+## España
+
+Viatris Pharmaceuticals, S.L.
+
+Tel: +34 900 102 712
+
+## France
+
+Viatris Santé
+
+Tél: +33 (0)4 37 25 75 00
+
+## Hrvatska
+
+Viatris Hrvatska d.o.o.
+
+Tel: + 385 1 23 50 599
+
 ## Luxembourg/Luxemburg
 
 Viatris
@@ -2411,25 +2502,11 @@ Tél/Tel: +32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## България
-
-Майлан ЕООД
-
-Тел
-
-.: +359 2 44 55 400
-
 ## Magyarország
 
 Viatris Healthcare Kft.
 
 Tel.: + 36 1 4 65 2100
-
-## Č eská republika
-
-Viatris CZ s.r.o.
-
-Tel: +420 222 004 400
 
 ## Malta
 
@@ -2437,23 +2514,11 @@ V.J. Salomone Pharma Limited
 
 Tel: (+356) 21 220 174
 
-## Danmark
-
-Viatris ApS
-
-Tlf: +45 28 11 69 32
-
 ## Nederland
 
-Mylan Healthcare BV
+Viatris Healthcare BV
 
 Tel: +31 (0) 20 426 3300
-
-## Deutschland
-
-Viatris Healthcare GmbH
-
-Tel: +49 (0) 800 0700 800
 
 ## Norge
 
@@ -2461,25 +2526,11 @@ Viatris AS
 
 Tlf: +47 66 75 33 00
 
-## Eesti
-
-Viatris OÜ
-
-Tel: +372 6363 052
-
 ## Österreich
 
 Viatris Austria GmbH
 
 Tel: +43 1 86390
-
-## Ελλάδα
-
-Viatris Hellas Ltd
-
-Τηλ
-
-.: +30 2100 100 002
 
 ## Polska
 
@@ -2487,35 +2538,17 @@ Viatris Healthcare Sp. z o.o.,
 
 Tel.: +48 22 546 64 00
 
-## España
-
-Viatris Pharmaceuticals, S.L.
-
-Tel: +34 900 102 712
-
 ## Portugal
 
 Viatris Healthcare, Lda.
 
 Tel: +351 21 412 72 00
 
-## France
-
-Viatris Santé
-
-Tél: +33 (0)4 37 25 75 00
-
 ## România
 
 BGP Products SRL
 
 Tel: +40 372 579 000
-
-## Hrvatska
-
-Viatris Hrvatska d.o.o.
-
-Tel: + 385 1 23 50 599
 
 ## Slovenija
 
@@ -2529,23 +2562,11 @@ Viatris Limited
 
 Tel: + 353 1 8711600
 
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: +421 2 32 199 100
-
 ## Ísland
 
 Icepharma hf.
 
 Sími: +354 540 8000
-
-## Suomi/Finland
-
-Viatris Oy
-
-Puh/Tel: +358 20 720 9555
 
 ## Italia
 
@@ -2553,19 +2574,11 @@ Viatris Pharma S.r.l.
 
 Tel: +39 02 612 46921
 
-## Sverige
-
-Viatris AB
-
-Tel: +46 (0)8 630 19 00
-
 ## Κύπρος
 
 CPO Pharmaceuticals Limited
 
-Τηλ
-
-: +357 22863100
+Τηλ: +357 22863100
 
 ## Latvija
 
@@ -2579,6 +2592,24 @@ Viatris UAB
 
 Tel. +370 52051288
 
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
+
+## Suomi/Finland
+
+Viatris Oy
+
+Puh/Tel: +358 20 720 9555
+
+## Sverige
+
+Viatris AB
+
+Tel: +46 (0)8 630 19 00
+
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in.
@@ -2589,16 +2620,18 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
+-
+
 ## Package leaflet: Information for the patient
 
 ## VIAGRA 50 mg film-coated tablets sildenafil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2619,27 +2652,37 @@ VIAGRA is a treatment for adult men with erectile dysfunction, sometimes known a
 
 ## Do not take VIAGRA
 
-- -If you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
-- -If you are taking medicines called nitrates, as the combination may lead to a dangerous fall in your blood pressure. Tell your doctor if you are taking any of these medicines which are often given for relief of angina pectoris (or 'chest pain'). If you are not certain, ask your doctor or pharmacist.
-- -If you are using any of the medicines known as nitric oxide donors such as amyl nitrite ('poppers'), as the combination may also lead to a dangerous fall in your blood pressure.
-- -If you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Viagra have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
-- -If you have a severe heart or liver problem.
-- -If you have recently had a stroke or a heart attack, or if you have low blood pressure.
+- If you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
+
+- If you are taking medicines called nitrates, as the combination may lead to a dangerous fall in your blood pressure. Tell your doctor if you are taking any of these medicines which are often given for relief of angina pectoris (or \"chest pain\"). If you are not certain, ask your doctor or pharmacist.
+
+- If you are using any of the medicines known as nitric oxide donors such as amyl nitrite (\"poppers\"), as the combination may also lead to a dangerous fall in your blood pressure.
+
+If you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Viagra have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
+
+- If you have a severe heart or liver problem.
+
+- If you have recently had a stroke or a heart attack, or if you have low blood pressure.
 
 <div style=\"page-break-after: always\"></div>
 
-- -If you have certain rare inherited eye diseases (such as retinitis pigmentosa ).
-- -If you have ever had loss of vision due to non-arteritic anterior ischaemic optic neuropathy (NAION).
+- If you have certain rare inherited eye diseases (such as retinitis pigmentosa).
+
+- If you have ever had loss of vision due to non-arteritic anterior ischaemic optic neuropathy (NAION).
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before taking VIAGRA
 
-- -If you have sickle cell anaemia (an abnormality of red blood cells), leukaemia (cancer of blood cells), multiple myeloma (cancer of bone marrow).
-- -If you have a deformity of your penis or Peyronie's Disease.
-- -If you have problems with your heart. Your doctor should carefully check whether your heart can take the additional strain of having sex.
-- -If you currently have a stomach ulcer, or a bleeding problems (such as haemophilia).
-- -If you experience sudden decrease or loss of vision, stop taking VIAGRA and contact your doctor immediately.
+- If you have sickle cell anaemia (an abnormality of red blood cells), leukaemia (cancer of blood cells), multiple myeloma (cancer of bone marrow).
+
+- If you have a deformity of your penis or Peyronie's Disease.
+
+- If you have problems with your heart. Your doctor should carefully check whether your heart can take the additional strain of having sex.
+
+- If you currently have a stomach ulcer, or a bleeding problems (such as haemophilia).
+
+- If you experience sudden decrease or loss of vision, stop taking VIAGRA and contact your doctor immediately.
 
 You should not use VIAGRA with any other oral or local treatments for erectile dysfunction.
 
@@ -2663,9 +2706,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 VIAGRA tablets may interfere with some medicines, especially those used to treat chest pain. In the event of a medical emergency, you should tell your doctor, pharmacist or nurse that you have taken VIAGRA and when you did. Do not take VIAGRA with other medicines unless your doctor tells you that you can.
 
-You should not take VIAGRA if you are taking medicines called nitrates, as the combination of these medicines may lead to a dangerous fall in your blood pressure. Always tell your doctor, pharmacist or nurse if you are taking any of these medicines that are often used for the relief of angina pectoris (or 'chest pain').
+You should not take VIAGRA if you are taking medicines called nitrates, as the combination of these medicines may lead to a dangerous fall in your blood pressure. Always tell your doctor, pharmacist or nurse if you are taking any of these medicines that are often used for the relief of angina pectoris (or \"chest pain\").
 
-You should not take VIAGRA if you are using any of the medicines known as nitric oxide donors such as amyl nitrite ('poppers') as the combination may also lead to a dangerous fall in your blood pressure.
+You should not take VIAGRA if you are using any of the medicines known as nitric oxide donors such as amyl nitrite (\"poppers\") as the combination may also lead to a dangerous fall in your blood pressure.
 
 Tell your doctor or pharmacist if you are already taking riociguat.
 
@@ -2736,10 +2779,10 @@ Like all medicines, this medicine can cause side effects although not everybody 
 - An allergic reaction - this occurs uncommonly (may affect up to 1 in 100 people) Symptoms include sudden wheeziness, difficulty in breathing or dizziness, swelling of the eyelids, face, lips or throat.
 - Chest pains - this occurs uncommonly If this occurs during or after intercourse
 - Get in a semi-sitting position and try to relax.
-- -Do not use nitrates to treat your chest pain.
-- Prolonged and sometimes painful erections - this occurs rarely (may affect up to 1 in 1 000 people) If you have an erection which lasts for more than 4 hours, you should contact a doctor
+- Do not use nitrates to treat your chest pain.
+- Prolonged and sometimes painful erections - this occurs rarely (may affect up to 1 in 1 000 people)
 
-immediately.
+If you have an erection which lasts for more than 4 hours, you should contact a doctor immediately.
 
 - A sudden decrease or loss of vision - this occurs rarely
 - Serious skin reactions - this occurs rarely Symptoms may include severe peeling and swelling of the skin, blistering of the mouth, genitals and around the eyes, fever.
@@ -2751,11 +2794,9 @@ Very common (may affect more than 1 in 10 people): headache.
 
 Common (may affect up to 1 in 10 people): nausea, facial flushing, hot flush (symptoms include a sudden feeling of heat in your upper body), indigestion, colour tinge to vision, blurred vision, visual disturbance, stuffy nose and dizziness.
 
-Uncommon (may affect up to 1 in 100 people): vomiting, skin rash, eye irritation, bloodshot eyes /red eyes, eye pain, seeing flashes of light, visual brightness, light sensitivity, watery eyes, pounding heartbeat, rapid heartbeat, high blood pressure, low blood pressure, muscle pain, feeling sleepy, reduced sense of touch, vertigo, ringing in the ears, dry mouth, blocked or stuffy sinuses, inflammation
+Uncommon (may affect up to 1 in 100 people): vomiting, skin rash, eye irritation, bloodshot eyes /red eyes, eye pain, seeing flashes of light, visual brightness, light sensitivity, watery eyes, pounding heartbeat, rapid heartbeat, high blood pressure, low blood pressure, muscle pain, feeling sleepy, reduced sense of touch, vertigo, ringing in the ears, dry mouth, blocked or stuffy sinuses, inflammation of the lining of the nose (symptoms include runny nose, sneezing and stuffy nose), upper abdominal pain, gastro-oesophageal reflux disease (symptoms include heartburn), presence of blood in urine, pain in the arms or legs, nosebleed, feeling hot and feeling tired.
 
 <div style=\"page-break-after: always\"></div>
-
-of the lining of the nose (symptoms include runny nose, sneezing and stuffy nose), upper abdominal pain, gastro-oesophageal reflux disease (symptoms include heartburn), presence of blood in urine, pain in the arms or legs, nosebleed, feeling hot and feeling tired.
 
 Rare (may affect up to 1 in 1 000 people): fainting, stroke, heart attack, irregular heartbeat, temporary decreased blood flow to parts of the brain, feeling of tightening of the throat, numb mouth, bleeding at the back of the eye, double vision, reduced sharpness of vision, abnormal sensation in the eye, swelling of the eye or eyelid, small particles or spots in your vision, seeing halos around lights, dilation of the pupil of the eye, discolouration of the white of the eye, penile bleeding, presence of blood in semen,dry nose, swelling of the inside of the nose, feeling irritable and sudden decrease or loss of hearing.
 
@@ -2785,19 +2826,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - Tablet core:
 
-microcrystalline cellulose, calcium hydrogen phosphate (anhydrous), croscarmellose sodium (see section 2 'VIAGRA contains sodium'), magnesium stearate
+microcrystalline cellulose, calcium hydrogen phosphate (anhydrous), croscarmellose sodium (see section 2 \"VIAGRA contains sodium\"), magnesium stearate
 
-- Film coat:  hypromellose, titanium dioxide (E171), lactose monohydrate (see section 2
-
-'VIAGRA contains lactose'), triacetin, indigo carmine aluminium lake (E132)
+- Film coat: hypromellose, titanium dioxide (E171), lactose monohydrate (see section 2 \"VIAGRA contains lactose\"), triacetin, indigo carmine aluminium lake (E132)
 
 ## What VIAGRA looks like and contents of the pack
 
-VIAGRA film-coated tablets (tablets) are blue, with a rounded-diamond shape. They are marked 'VIAGRA' on one side and 'VGR 50' on the other side. The tablets are provided in blister packs containing 2, 4, 8, 12 or 24 tablets in a carton or card packaging. Some pack sizes may not be marketed in your country.
+VIAGRA film-coated tablets (tablets) are blue, with a rounded-diamond shape. They are marked \"VIAGRA\" on one side and \"VGR 50\" on the other side. The tablets are provided in blister packs containing 2, 4, 8, 12 or 24 tablets in a carton or card packaging. Some pack sizes may not be marketed in your country.
 
 ## Marketing Authorisation Holder
 
-Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+Viatris EESV, Krijgsman 20, 1186 DM, Amstelveen, Netherlands.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2813,6 +2852,60 @@ Viatris
 
 Tél/Tel: +32 (0)2 658 61 00
 
+## България
+
+Виатрис ЕООД
+
+Тел.: +359 2 44 55 400
+
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: +420 222 004 400
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
+## Deutschland
+
+Viatris Healthcare GmbH
+
+Tel: +49 (0) 800 0700 800
+
+## Eesti
+
+Viatris OÜ
+
+Tel: +372 6363 052
+
+## Ελλάδα
+
+Viatris Hellas Ltd
+
+Τηλ.: +30 2100 100 002
+
+## España
+
+Viatris Pharmaceuticals, S.L.
+
+Tel: +34 900 102 712
+
+## France
+
+Viatris Santé
+
+Tél: +33 (0)4 37 25 75 00
+
+## Hrvatska
+
+Viatris Hrvatska d.o.o.
+
+Tel: + 385 1 23 50 599
+
 ## Luxembourg/Luxemburg
 
 Viatris
@@ -2821,25 +2914,11 @@ Tél/Tel: +32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## България
-
-Майлан ЕООД
-
-Тел
-
-.: +359 2 44 55 400
-
 ## Magyarország
 
 Viatris Healthcare Kft.
 
 Tel.: + 36 1 4 65 2100
-
-## Č eská republika
-
-Viatris CZ s.r.o.
-
-Tel: +420 222 004 400
 
 ## Malta
 
@@ -2847,23 +2926,11 @@ V.J. Salomone Pharma Limited
 
 Tel: (+356) 21 220 174
 
-## Danmark
-
-Viatris ApS
-
-Tlf: +45 28 11 69 32
-
 ## Nederland
 
-Mylan Healthcare BV
+Viatris Healthcare BV
 
 Tel: +31 (0) 20 426 3300
-
-## Deutschland
-
-Viatris Healthcare GmbH
-
-Tel: +49 (0) 800 0700 800
 
 ## Norge
 
@@ -2871,23 +2938,11 @@ Viatris AS
 
 Tlf: +47 66 75 33 00
 
-## Eesti
-
-Viatris OÜ
-
-Tel: +372 6363 052
-
 ## Österreich
 
 Viatris Austria GmbH
 
 Tel: +43 1 86390
-
-## Ελλάδα
-
-Viatris Hellas Ltd
-
-Τηλ .: +30 2100 100 002
 
 ## Polska
 
@@ -2895,35 +2950,17 @@ Viatris Healthcare Sp. z o.o.,
 
 Tel.: +48 22 546 64 00
 
-## España
-
-Viatris Pharmaceuticals, S.L.
-
-Tel: +34 900 102 712
-
 ## Portugal
 
 Viatris Healthcare, Lda.
 
 Tel: +351 21 412 72 00
 
-## France
-
-Viatris Santé
-
-Tél: +33 (0)4 37 25 75 00
-
 ## România
 
 BGP Products SRL
 
 Tel: +40 372 579 000
-
-## Hrvatska
-
-Viatris Hrvatska d.o.o.
-
-Tel: + 385 1 23 50 599
 
 ## Slovenija
 
@@ -2937,23 +2974,11 @@ Viatris Limited
 
 Tel: + 353 1 8711600
 
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: +421 2 32 199 100
-
 ## Ísland
 
 Icepharma hf.
 
 Sími: +354 540 8000
-
-## Suomi/Finland
-
-Viatris Oy
-
-Puh/Tel: +358 20 720 9555
 
 ## Italia
 
@@ -2961,19 +2986,11 @@ Viatris Pharma S.r.l.
 
 Tel: +39 02 612 46921
 
-## Sverige
-
-Viatris AB
-
-Tel: +46 (0)8 630 19 00
-
 ## Κύπρος
 
 CPO Pharmaceuticals Limited
 
-Τηλ
-
-: +357 22863100
+Τηλ: +357 22863100
 
 ## Latvija
 
@@ -2987,6 +3004,24 @@ Viatris UAB
 
 Tel. +370 52051288
 
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
+
+## Suomi/Finland
+
+Viatris Oy
+
+Puh/Tel: +358 20 720 9555
+
+## Sverige
+
+Viatris AB
+
+Tel: +46 (0)8 630 19 00
+
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in.
@@ -2997,16 +3032,18 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
+-
+
 ## Package leaflet: Information for the patient
 
 ## VIAGRA 100 mg film-coated tablets sildenafil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3027,27 +3064,37 @@ VIAGRA is a treatment for adult men with erectile dysfunction, sometimes known a
 
 ## Do not take VIAGRA
 
-- -If you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
-- -If you are taking medicines called nitrates, as the combination may lead to a dangerous fall in your blood pressure. Tell your doctor if you are taking any of these medicines which are often given for relief of angina pectoris (or 'chest pain'). If you are not certain, ask your doctor or pharmacist.
-- -If you are using any of the medicines known as nitric oxide donors such as amyl nitrite ('poppers'), as the combination may also lead to a dangerous fall in your blood pressure.
-- -If you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Viagra have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
-- -If you have a severe heart or liver problem.
+- If you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
+
+- If you are taking medicines called nitrates, as the combination may lead to a dangerous fall in your blood pressure. Tell your doctor if you are taking any of these medicines which are often given for relief of angina pectoris (or \"chest pain\"). If you are not certain, ask your doctor or pharmacist.
+
+- If you are using any of the medicines known as nitric oxide donors such as amyl nitrite (\"poppers\"), as the combination may also lead to a dangerous fall in your blood pressure.
+
+If you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Viagra have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
+
+- If you have a severe heart or liver problem.
 
 <div style=\"page-break-after: always\"></div>
 
-- -If you have recently had a stroke or a heart attack, or if you have low blood pressure.
-- -If you have certain rare inherited eye diseases (such as retinitis pigmentosa ).
-- -If you have ever had loss of vision due to non-arteritic anterior ischaemic optic neuropathy (NAION).
+- If you have recently had a stroke or a heart attack, or if you have low blood pressure.
+
+- If you have certain rare inherited eye diseases (such as retinitis pigmentosa).
+
+- If you have ever had loss of vision due to non-arteritic anterior ischaemic optic neuropathy (NAION).
 
 ## Warnings and precautions
 
-Talk to your doctor, pharmacist or nurse before taking VIAGRA
+## Talk to your doctor, pharmacist or nurse before taking VIAGRA
 
-- -If you have sickle cell anaemia (an abnormality of red blood cells), leukaemia (cancer of blood cells), multiple myeloma (cancer of bone marrow).
-- -If you have a deformity of your penis or Peyronie's Disease.
-- -If you have problems with your heart. Your doctor should carefully check whether your heart can take the additional strain of having sex.
-- -If you currently have a stomach ulcer, or a bleeding problems (such as haemophilia).
-- -If you experience sudden decrease or loss of vision, stop taking VIAGRA and contact your doctor immediately.
+- If you have sickle cell anaemia (an abnormality of red blood cells), leukaemia (cancer of blood cells), multiple myeloma (cancer of bone marrow).
+
+- If you have a deformity of your penis or Peyronie's Disease.
+
+- If you have problems with your heart. Your doctor should carefully check whether your heart can take the additional strain of having sex.
+
+- If you currently have a stomach ulcer, or a bleeding problems (such as haemophilia).
+
+- If you experience sudden decrease or loss of vision, stop taking VIAGRA and contact your doctor immediately.
 
 You should not use VIAGRA with any other oral or local treatments for erectile dysfunction.
 
@@ -3071,9 +3118,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 VIAGRA tablets may interfere with some medicines, especially those used to treat chest pain. In the event of a medical emergency, you should tell your doctor, pharmacist or nurse that you have taken VIAGRA and when you did. Do not take VIAGRA with other medicines unless your doctor tells you that you can.
 
-You should not take VIAGRA if you are taking medicines called nitrates, as the combination of these medicines may lead to a dangerous fall in your blood pressure. Always tell your doctor, pharmacist or nurse if you are taking any of these medicines that are often used for the relief of angina pectoris (or 'chest pain').
+You should not take VIAGRA if you are taking medicines called nitrates, as the combination of these medicines may lead to a dangerous fall in your blood pressure. Always tell your doctor, pharmacist or nurse if you are taking any of these medicines that are often used for the relief of angina pectoris (or \"chest pain\").
 
-You should not take VIAGRA if you are using any of the medicines known as nitric oxide donors such as amyl nitrite ('poppers') as the combination may also lead to a dangerous fall in your blood pressure.
+You should not take VIAGRA if you are using any of the medicines known as nitric oxide donors such as amyl nitrite (\"poppers\") as the combination may also lead to a dangerous fall in your blood pressure.
 
 Tell your doctor or pharmacist if you are already taking riociguat.
 
@@ -3144,10 +3191,10 @@ Like all medicines, this medicine can cause side effects although not everybody 
 - An allergic reaction - this occurs uncommonly (may affect up to 1 in 100 people) Symptoms include sudden wheeziness, difficulty in breathing or dizziness, swelling of the eyelids, face, lips or throat.
 - Chest pains - this occurs uncommonly If this occurs during or after intercourse
 - Get in a semi-sitting position and try to relax.
-- -Do not use nitrates to treat your chest pain.
-- Prolonged and sometimes painful erections - this occurs rarely (may affect up to 1 in 1 000 people ) If you have an erection which lasts for more than 4 hours, you should contact a doctor
+- Do not use nitrates to treat your chest pain.
+- Prolonged and sometimes painful erections - this occurs rarely (may affect up to 1 in 1 000 people)
 
-immediately.
+If you have an erection which lasts for more than 4 hours, you should contact a doctor immediately.
 
 - A sudden decrease or loss of vision - this occurs rarely
 - Serious skin reactions - this occurs rarely Symptoms may include severe peeling and swelling of the skin, blistering of the mouth, genitals and around the eyes, fever.
@@ -3159,11 +3206,9 @@ Very common (may affect more than 1 in 10 people): headache.
 
 Common (may affect up to 1 in 10 people): nausea, facial flushing, hot flush (symptoms include a sudden feeling of heat in your upper body), indigestion, colour tinge to vision, blurred vision, visual disturbance, stuffy nose and dizziness.
 
-Uncommon (may affect up to 1 in 100 people): vomiting, skin rash, eye irritation, bloodshot eyes /red eyes, eye pain, seeing flashes of light, visual brightness, light sensitivity, watery eyes, pounding heartbeat, rapid heartbeat, high blood pressure, low blood pressure, muscle pain, feeling sleepy, reduced sense of touch, vertigo, ringing in the ears, dry mouth, blocked or stuffy sinuses, inflammation
+Uncommon (may affect up to 1 in 100 people): vomiting, skin rash, eye irritation, bloodshot eyes /red eyes, eye pain, seeing flashes of light, visual brightness, light sensitivity, watery eyes, pounding heartbeat, rapid heartbeat, high blood pressure, low blood pressure, muscle pain, feeling sleepy, reduced sense of touch, vertigo, ringing in the ears, dry mouth, blocked or stuffy sinuses, inflammation of the lining of the nose (symptoms include runny nose, sneezing and stuffy nose), upper abdominal pain, gastro-oesophageal reflux disease (symptoms include heartburn), presence of blood in urine, pain in the arms or legs, nosebleed, feeling hot and feeling tired.
 
 <div style=\"page-break-after: always\"></div>
-
-of the lining of the nose (symptoms include runny nose, sneezing and stuffy nose), upper abdominal pain, gastro-oesophageal reflux disease (symptoms include heartburn), presence of blood in urine, pain in the arms or legs, nosebleed, feeling hot and feeling tired.
 
 Rare (may affect up to 1 in 1 000 people): fainting, stroke, heart attack, irregular heartbeat, temporary decreased blood flow to parts of the brain, feeling of tightening of the throat, numb mouth, bleeding at the back of the eye, double vision, reduced sharpness of vision, abnormal sensation in the eye, swelling of the eye or eyelid, small particles or spots in your vision, seeing halos around lights, dilation of the pupil of the eye, discolouration of the white of the eye, penile bleeding, presence of blood in semen, dry nose, swelling of the inside of the nose, feeling irritable and sudden decrease or loss of hearing.
 
@@ -3175,7 +3220,9 @@ If you get any side effects, talk to you doctor, pharmacist or nurse. This inclu
 
 ## 5. How to store VIAGRA
 
-Keep this medicine out of the sight and reach of children. Do not store above 30 o C.
+Keep this medicine out of the sight and reach of children.
+
+Do not store above 30 o C.
 
 Do not use this medicine after the expiry date which is stated on the carton and blister after EXP. The expiry date refers to the last day of that month.
 
@@ -3187,25 +3234,21 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What VIAGRA contains
 
-- The active substance is sildenafil. Each tablet contains 100 mg of sildenafil (as the citrate salt).
+- The active substance is sildenafil. Each tablet contains 100 mg of sildenafil (as the citrate salt). - The other ingredients are:
 
-- The other ingredients are:
+- Tablet core:
 
-- Tablet core: microcrystalline cellulose, calcium hydrogen phosphate (anhydrous),
+microcrystalline cellulose, calcium hydrogen phosphate (anhydrous), croscarmellose sodium (see section 2 \"VIAGRA contains sodium\"), magnesium stearate
 
-croscarmellose sodium (see section 2 'VIAGRA contains sodium'), magnesium stearate
-
-- Film coat:  hypromellose, titanium dioxide (E171), lactose monohydrate (see section 2
-
-'VIAGRA contains lactose'), triacetin, indigo carmine aluminium lake (E132)
+- Film coat: hypromellose, titanium dioxide (E171), lactose monohydrate (see section 2 \"VIAGRA contains lactose\"), triacetin, indigo carmine aluminium lake (E132)
 
 ## What VIAGRA looks like and contents of the pack
 
-VIAGRA film-coated tablets (tablets) are blue, with a rounded-diamond shape. They are marked 'VIAGRA' on one side and 'VGR 100' on the other side. The tablets are provided in blister packs containing 2, 4, 8, 12 or 24 tablets. Some pack sizes may not be marketed in your country.
+VIAGRA film-coated tablets (tablets) are blue, with a rounded-diamond shape. They are marked \"VIAGRA\" on one side and \"VGR 100\" on the other side. The tablets are provided in blister packs containing 2, 4, 8, 12 or 24 tablets. Some pack sizes may not be marketed in your country.
 
 ## Marketing Authorisation Holder
 
-Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+Viatris EESV, Krijgsman 20, 1186 DM, Amstelveen, Netherlands.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3223,13 +3266,11 @@ Tél/Tel: +32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел
+Тел.: +359 2 44 55 400
 
-.: +359 2 44 55 400
-
-## Č eská republika
+## Česká republika
 
 Viatris CZ s.r.o.
 
@@ -3257,9 +3298,7 @@ Tel: +372 6363 052
 
 Viatris Hellas Ltd
 
-Τηλ
-
-.: +30 2100 100 002
+Τηλ.: +30 2100 100 002
 
 ## España
 
@@ -3313,7 +3352,7 @@ Tel: (+356) 21 220 174
 
 ## Nederland
 
-Mylan Healthcare BV
+Viatris Healthcare BV
 
 Tel: +31 (0) 20 426 3300
 
@@ -3365,8 +3404,6 @@ Viatris Oy
 
 Puh/Tel: +358 20 720 9555
 
-<div style=\"page-break-after: always\"></div>
-
 ## Italia
 
 Viatris Pharma S.r.l.
@@ -3377,9 +3414,7 @@ Tel: +39 02 612 46921
 
 CPO Pharmaceuticals Limited
 
-Τηλ
-
-: +357 22863100
+Τηλ: +357 22863100
 
 ## Latvija
 
@@ -3389,21 +3424,21 @@ Tel: +371 676 055 80
 
 ## Lietuva
 
-Viatris UAB
-
-Tel. +370 52051288
-
-## This leaflet was last revised in.
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Viatris UAB Tel. +370 52051288
 
 ## Sverige
 
 Viatris AB
 
 Tel: +46 (0)8 630 19 00
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3415,10 +3450,10 @@ Tel: +46 (0)8 630 19 00
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3439,27 +3474,63 @@ VIAGRA is a treatment for adult men with erectile dysfunction, sometimes known a
 
 ## Do not take VIAGRA
 
-- -If you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
-- -If you are taking medicines called nitrates, as the combination may lead to a dangerous fall in your blood pressure. Tell your doctor if you are taking any of these medicines which are often given for relief of angina pectoris (or 'chest pain'). If you are not certain, ask your doctor or pharmacist.
-- -If you are using any of the medicines known as nitric oxide donors such as amyl nitrite ('poppers'), as the combination may also lead to a dangerous fall in your blood pressure.
-- -If you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Viagra have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
-- -If you have a severe heart or liver problem.
+-
+
+-
+
+-
+
+-
+
+-
+
+If you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
+
+If you are taking medicines called nitrates, as the combination may lead to a dangerous fall in your blood pressure. Tell your doctor if you are taking any of these medicines which are often given for relief of angina pectoris (or \"chest pain\"). If you are not certain, ask your doctor or pharmacist.
+
+If you are using any of the medicines known as nitric oxide donors such as amyl nitrite (\"poppers\"), as the combination may also lead to a dangerous fall in your blood pressure.
+
+If you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as Viagra have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
+
+If you have a severe heart or liver problem.
 
 <div style=\"page-break-after: always\"></div>
 
-- -If you have recently had a stroke or a heart attack, or if you have low blood pressure.
-- -If you have certain rare inherited eye diseases (such as retinitis pigmentosa ).
-- -If you have ever had loss of vision due to non-arteritic anterior ischaemic optic neuropathy (NAION).
+-
+
+If you have recently had a stroke or a heart attack, or if you have low blood pressure.
+
+-
+
+If you have certain rare inherited eye diseases (such as retinitis pigmentosa).
+
+-
+
+If you have ever had loss of vision due to non-arteritic anterior ischaemic optic neuropathy (NAION).
 
 ## Warnings and precautions
 
-Talk to your doctor, pharmacist or nurse before taking VIAGRA
+## Talk to your doctor, pharmacist or nurse before taking VIAGRA
 
-- -If you have sickle cell anaemia (an abnormality of red blood cells), leukaemia (cancer of blood cells), multiple myeloma (cancer of bone marrow).
-- -If you have a deformity of your penis or Peyronie's Disease.
-- -If you have problems with your heart. Your doctor should carefully check whether your heart can take the additional strain of having sex.
-- -If you currently have a stomach ulcer, or a bleeding problems (such as haemophilia).
-- -If you experience sudden decrease or loss of vision, stop taking VIAGRA and contact your doctor immediately.
+-
+
+-
+
+If you have sickle cell anaemia (an abnormality of red blood cells), leukaemia (cancer of blood cells), multiple myeloma (cancer of bone marrow).
+
+If you have a deformity of your penis or Peyronie's Disease.
+
+-
+
+-
+
+If you have problems with your heart. Your doctor should carefully check whether your heart can take the additional strain of having sex.
+
+If you currently have a stomach ulcer, or a bleeding problems (such as haemophilia).
+
+-
+
+If you experience sudden decrease or loss of vision, stop taking VIAGRA and contact your doctor immediately.
 
 You should not use VIAGRA with any other oral or local treatments for erectile dysfunction.
 
@@ -3483,9 +3554,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 VIAGRA tablets may interfere with some medicines, especially those used to treat chest pain. In the event of a medical emergency, you should tell your doctor, pharmacist or nurse that you have taken VIAGRA and when you did. Do not take VIAGRA with other medicines unless your doctor tells you that you can.
 
-You should not take VIAGRA if you are taking medicines called nitrates, as the combination of these medicines may lead to a dangerous fall in your blood pressure. Always tell your doctor, pharmacist or nurse if you are taking any of these medicines that are often used for the relief of angina pectoris (or 'chest pain').
+You should not take VIAGRA if you are taking medicines called nitrates, as the combination of these medicines may lead to a dangerous fall in your blood pressure. Always tell your doctor, pharmacist or nurse if you are taking any of these medicines that are often used for the relief of angina pectoris (or \"chest pain\").
 
-You should not take VIAGRA if you are using any of the medicines known as nitric oxide donors such as amyl nitrite ('poppers') as the combination may also lead to a dangerous fall in your blood pressure.
+You should not take VIAGRA if you are using any of the medicines known as nitric oxide donors such as amyl nitrite (\"poppers\") as the combination may also lead to a dangerous fall in your blood pressure.
 
 Tell your doctor or pharmacist if you are already taking riociguat.
 
@@ -3556,13 +3627,15 @@ Like all medicines, this medicine can cause side effects although not everybody 
 ## If you experience any of the following serious side effects stop taking VIAGRA and seek medical help immediately:
 
 - An allergic reaction - (this occurs uncommonly may affect up to 1 in 100 people) Symptoms include sudden wheeziness, difficulty in breathing or dizziness, swelling of the eyelids, face, lips or throat.
-- Chest pains - this occurs uncommonly If this occurs during or after intercourse:
-- Get in a semi-sitting position and try to relax.
-- -Do not use nitrates to treat your chest pain.
-- Prolonged and sometimes painful erections - this occurs rarely (may affect up to 1 in 1 000 people)
-- If you have an erection which lasts for more than 4 hours, you should contact a doctor
+- Chest pains - this occurs uncommonly
 
-immediately.
+If this occurs during or after intercourse:
+
+- Get in a semi-sitting position and try to relax.
+- Do not use nitrates to treat your chest pain.
+- Prolonged and sometimes painful erections - this occurs rarely (may affect up to 1 in 1 000 people)
+
+If you have an erection which lasts for more than 4 hours, you should contact a doctor immediately.
 
 - A sudden decrease or loss of vision - this occurs rarely
 - Serious skin reactions - this occurs rarely Symptoms may include severe peeling and swelling of the skin, blistering of the mouth, genitals and around the eyes, fever.
@@ -3602,22 +3675,25 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What VIAGRA contains
 
-- -The active substance is sildenafil. Each orodispersible tablet contains 50 mg of sildenafil (as the citrate salt).
-- -The other ingredients are:
-- -microcrystalline cellulose, silica hydrophobic colloidal, croscarmellose sodium (see section 2 'VIAGRA contains sodium'), magnesium stearate, indigo carmine aluminium lake (E132), sucralose, mannitol, crospovidone, polyvinyl acetate, povidone,
-- -flavouring containing: maltodextrin and dextrin,
-- -natural flavouring containing: maltodextrin, glycerol (E422) and propylene glycol (E1520),
-- -lemon flavouring containing: maltodextrin and alpha-tocopherol (E307)).
+- The active substance is sildenafil. Each orodispersible tablet contains 50 mg of sildenafil (as the citrate salt).
+
+- The other ingredients are:
+
+- microcrystalline cellulose, silica hydrophobic colloidal, croscarmellose sodium (see section 2 \"VIAGRA contains sodium\"), magnesium stearate, indigo carmine aluminium lake (E132), sucralose, mannitol, crospovidone, polyvinyl acetate, povidone,
+
+- flavouring containing: maltodextrin and dextrin,
+
+- natural flavouring containing: maltodextrin, glycerol (E422) and propylene glycol (E1520), - lemon flavouring containing: maltodextrin and alpha-tocopherol (E307)).
 
 <div style=\"page-break-after: always\"></div>
 
 ## What VIAGRA looks like and contents of the pack
 
-VIAGRA orodispersible tablets are blue, diamond shape, marked 'V50' on one side. The orodispersible tablets are provided in blister packs containing 2, 4, 8 or 12 tablets. Some pack sizes may not be marketed in your country.
+VIAGRA orodispersible tablets are blue, diamond shape, marked \"V50\" on one side. The orodispersible tablets are provided in blister packs containing 2, 4, 8 or 12 tablets. Some pack sizes may not be marketed in your country.
 
 ## Marketing Authorisation Holder
 
-Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+Viatris EESV, Krijgsman 20, 1186 DM, Amstelveen, Netherlands.
 
 ## Manufacturer
 
@@ -3631,6 +3707,60 @@ Viatris
 
 Tél/Tel: +32 (0)2 658 61 00
 
+## България
+
+Виатрис ЕООД
+
+Тел.: +359 2 44 55 400
+
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: +420 222 004 400
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
+## Deutschland
+
+Viatris Healthcare GmbH
+
+Tel: +49 (0) 800 0700 800
+
+## Eesti
+
+Viatris OÜ
+
+Tel: +372 6363 052
+
+## Ελλάδα
+
+Viatris Hellas Ltd
+
+Τηλ.: +30 2100 100 002
+
+## España
+
+Viatris Pharmaceuticals, S.L.
+
+Tel: +34 900 102 712
+
+## France
+
+Viatris Santé
+
+Tél: +33 (0)4 37 25 75 00
+
+## Hrvatska
+
+Viatris Hrvatska d.o.o.
+
+Tel: + 385 1 23 50 599
+
 ## Luxembourg/Luxemburg
 
 Viatris
@@ -3639,25 +3769,11 @@ Tél/Tel: +32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## България
-
-Майлан ЕООД
-
-Тел
-
-.: +359 2 44 55 400
-
 ## Magyarország
 
 Viatris Healthcare Kft.
 
 Tel.: + 36 1 4 65 2100
-
-## Č eská republika
-
-Viatris CZ s.r.o.
-
-Tel: +420 222 004 400
 
 ## Malta
 
@@ -3665,23 +3781,11 @@ V.J. Salomone Pharma Limited
 
 Tel: (+356) 21 220 174
 
-## Danmark
-
-Viatris ApS
-
-Tlf: +45 28 11 69 32
-
 ## Nederland
 
-Mylan Healthcare BV
+Viatris Healthcare BV
 
 Tel: +31 (0) 20 426 3300
-
-## Deutschland
-
-Viatris Healthcare GmbH
-
-Tel: +49 (0) 800 0700 800
 
 ## Norge
 
@@ -3689,25 +3793,11 @@ Viatris AS
 
 Tlf: +47 66 75 33 00
 
-## Eesti
-
-Viatris OÜ
-
-Tel: +372 6363 052
-
 ## Österreich
 
 Viatris Austria GmbH
 
 Tel: +43 1 86390
-
-## Ελλάδα
-
-Viatris Hellas Ltd
-
-Τηλ
-
-.: +30 2100 100 002
 
 ## Polska
 
@@ -3715,35 +3805,17 @@ Viatris Healthcare Sp. z o.o.,
 
 Tel.: +48 22 546 64 00
 
-## España
-
-Viatris Pharmaceuticals, S.L.
-
-Tel: +34 900 102 712
-
 ## Portugal
 
 Viatris Healthcare, Lda.
 
 Tel: +351 21 412 72 00
 
-## France
-
-Viatris Santé
-
-Tél: +33 (0)4 37 25 75 00
-
 ## România
 
 BGP Products SRL
 
 Tel: +40 372 579 000
-
-## Hrvatska
-
-Viatris Hrvatska d.o.o.
-
-Tel: + 385 1 23 50 599
 
 ## Slovenija
 
@@ -3757,23 +3829,11 @@ Viatris Limited
 
 Tel: + 353 1 8711600
 
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: +421 2 32 199 100
-
 ## Ísland
 
 Icepharma hf.
 
 Sími: +354 540 8000
-
-## Suomi/Finland
-
-Viatris Oy
-
-Puh/Tel: +358 20 720 9555
 
 ## Italia
 
@@ -3781,19 +3841,11 @@ Viatris Pharma S.r.l.
 
 Tel: +39 02 612 46921
 
-## Sverige
-
-Viatris AB
-
-Tel: +46 (0)8 630 19 00
-
 ## Κύπρος
 
 CPO Pharmaceuticals Limited
 
-Τηλ
-
-: +357 22863100
+Τηλ: +357 22863100
 
 ## Latvija
 
@@ -3807,6 +3859,24 @@ Viatris UAB
 
 Tel. +370 52051288
 
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
+
+## Suomi/Finland
+
+Viatris Oy
+
+Puh/Tel: +358 20 720 9555
+
+## Sverige
+
+Viatris AB
+
+Tel: +46 (0)8 630 19 00
+
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in.
@@ -3819,16 +3889,14 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Package leaflet: Information for the patient
 
-## VIAGRA 50 mg orodispersible films
-
-## sildenafil
+## VIAGRA 50 mg orodispersible films sildenafil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3849,27 +3917,63 @@ VIAGRA is a treatment for adult men with erectile dysfunction, sometimes known a
 
 ## Do not take VIAGRA
 
-- -If you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
-- -If you are taking medicines called nitrates, as the combination may lead to a dangerous fall in your blood pressure. Tell your doctor if you are taking any of these medicines which are often given for relief of angina pectoris (or 'chest pain'). If you are not certain, ask your doctor or pharmacist.
-- -If you are using any of the medicines known as nitric oxide donors such as amyl nitrite ('poppers'), as the combination may also lead to a dangerous fall in your blood pressure.
-- -If you are taking riociguat. This medicine is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as VIAGRA have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
-- -If you have a severe heart or liver problem.
+-
+
+-
+
+-
+
+-
+
+-
+
+If you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
+
+If you are taking medicines called nitrates, as the combination may lead to a dangerous fall in your blood pressure. Tell your doctor if you are taking any of these medicines which are often given for relief of angina pectoris (or \"chest pain\"). If you are not certain, ask your doctor or pharmacist.
+
+If you are using any of the medicines known as nitric oxide donors such as amyl nitrite (\"poppers\"), as the combination may also lead to a dangerous fall in your blood pressure.
+
+If you are taking riociguat. This medicine is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors, such as VIAGRA have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
+
+If you have a severe heart or liver problem.
 
 <div style=\"page-break-after: always\"></div>
 
-- -If you have recently had a stroke or a heart attack, or if you have low blood pressure.
-- -If you have certain rare inherited eye diseases (such as retinitis pigmentosa ).
-- -If you have ever had loss of vision due to non-arteritic anterior ischaemic optic neuropathy (NAION).
+-
+
+If you have recently had a stroke or a heart attack, or if you have low blood pressure.
+
+-
+
+If you have certain rare inherited eye diseases (such as retinitis pigmentosa).
+
+-
+
+If you have ever had loss of vision due to non-arteritic anterior ischaemic optic neuropathy (NAION).
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before taking VIAGRA
 
-- -If you have sickle cell anaemia (an abnormality of red blood cells), leukaemia (cancer of blood cells), multiple myeloma (cancer of bone marrow).
-- -If you have a deformity of your penis or Peyronie's disease.
-- -If you have problems with your heart. Your doctor should carefully check whether your heart can take the additional strain of having sex.
-- -If you currently have a stomach ulcer, or a bleeding problems (such as haemophilia).
-- -If you experience sudden decrease or loss of vision, stop taking VIAGRA and contact your doctor immediately.
+-
+
+-
+
+If you have sickle cell anaemia (an abnormality of red blood cells), leukaemia (cancer of blood cells), multiple myeloma (cancer of bone marrow).
+
+If you have a deformity of your penis or Peyronie's disease.
+
+-
+
+-
+
+If you have problems with your heart. Your doctor should carefully check whether your heart can take the additional strain of having sex.
+
+If you currently have a stomach ulcer, or a bleeding problems (such as haemophilia).
+
+-
+
+If you experience sudden decrease or loss of vision, stop taking VIAGRA and contact your doctor immediately.
 
 You should not use VIAGRA with any other oral or local treatments for erectile dysfunction.
 
@@ -3893,9 +3997,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 VIAGRA may interfere with some medicines, especially those used to treat chest pain. In the event of a medical emergency, you should tell your doctor, pharmacist or nurse that you have taken VIAGRA and when you did. Do not take VIAGRA with other medicines unless your doctor tells you that you can.
 
-You should not take VIAGRA if you are taking medicines called nitrates, as the combination of these medicines may lead to a dangerous fall in your blood pressure. Always tell your doctor, pharmacist or nurse if you are taking any of these medicines that are often used for the relief of angina pectoris (or 'chest pain').
+You should not take VIAGRA if you are taking medicines called nitrates, as the combination of these medicines may lead to a dangerous fall in your blood pressure. Always tell your doctor, pharmacist or nurse if you are taking any of these medicines that are often used for the relief of angina pectoris (or \"chest pain\").
 
-You should not take VIAGRA if you are using any of the medicines known as nitric oxide donors such as amyl nitrite ('poppers') as the combination may also lead to a dangerous fall in your blood pressure.
+You should not take VIAGRA if you are using any of the medicines known as nitric oxide donors such as amyl nitrite (\"poppers\") as the combination may also lead to a dangerous fall in your blood pressure.
 
 Tell your doctor or pharmacist if you are already taking riociguat.
 
@@ -3967,16 +4071,14 @@ Like all medicines, this medicine can cause side effects although not everybody 
 If this occurs during or after intercourse:
 
 - Get in a semi-sitting position and try to relax.
-- -Do not use nitrates to treat your chest pain.
-- Prolonged and sometimes painful erections - this occurs rarely (may affect up to 1 in 1 000 people) If you have an erection which lasts for more than 4 hours, you should contact a doctor
+- Do not use nitrates to treat your chest pain.
+- Prolonged and sometimes painful erections - this occurs rarely (may affect up to 1 in 1 000
+- people)
 
-immediately.
+If you have an erection which lasts for more than 4 hours, you should contact a doctor immediately.
 
 - A sudden decrease or loss of vision - this occurs rarely
-
-Symptoms may include severe peeling and swelling of the skin, blistering of the mouth,
-
-- Serious skin reactions - this occurs rarely genitals and around the eyes, fever.
+- Serious skin reactions - this occurs rarely Symptoms may include severe peeling and swelling of the skin, blistering of the mouth, genitals and around the eyes, fever.
 - Seizures or fits - this occurs rarely
 
 ## Other side effects:
@@ -3985,11 +4087,9 @@ Very common (may affect more than 1 in 10 people): headache.
 
 Common (may affect up to 1 in 10 people): nausea, facial flushing, hot flush (symptoms include a sudden feeling of heat in your upper body), indigestion, colour tinge to vision, blurred vision, visual disturbance, stuffy nose and dizziness.
 
-Uncommon (may affect up to 1 in 100 people): vomiting, skin rash, eye irritation, bloodshot eyes /red eyes, eye pain, seeing flashes of light, visual brightness, light sensitivity, watery eyes, pounding
+Uncommon (may affect up to 1 in 100 people): vomiting, skin rash, eye irritation, bloodshot eyes /red eyes, eye pain, seeing flashes of light, visual brightness, light sensitivity, watery eyes, pounding heartbeat, rapid heartbeat, high blood pressure, low blood pressure, muscle pain, feeling sleepy, reduced sense of touch, vertigo, ringing in the ears, dry mouth, blocked or stuffy sinuses, inflammation of the lining of the nose (symptoms include runny nose, sneezing and stuffy nose), upper abdominal pain, gastro-oesophageal reflux disease (symptoms include heartburn), presence of blood in urine, pain in the arms or legs, nosebleed, feeling hot and feeling tired.
 
 <div style=\"page-break-after: always\"></div>
-
-heartbeat, rapid heartbeat, high blood pressure, low blood pressure, muscle pain, feeling sleepy, reduced sense of touch, vertigo, ringing in the ears, dry mouth, blocked or stuffy sinuses, inflammation of the lining of the nose (symptoms include runny nose, sneezing and stuffy nose), upper abdominal pain, gastro-oesophageal reflux disease (symptoms include heartburn), presence of blood in urine, pain in the arms or legs, nosebleed, feeling hot and feeling tired.
 
 Rare (may affect up to 1 in 1 000 people): fainting, stroke, heart attack, irregular heartbeat, temporary decreased blood flow to parts of the brain, feeling of tightening of the throat, numb mouth, bleeding at the back of the eye, double vision, reduced sharpness of vision, abnormal sensation in the eye, swelling of the eye or eyelid, small particles or spots in your vision, seeing halos around lights, dilation of the pupil of the eye, discolouration of the white of the eye, penile bleeding, presence of blood in semen, dry nose, swelling of the inside of the nose, feeling irritable and sudden decrease or loss of hearing.
 
@@ -4013,8 +4113,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What VIAGRA contains
 
-- -The active substance is sildenafil. Each orodispersible film contains 50 mg of sildenafil (as the citrate salt).
-- -The other ingredients are hydroxypropylcellulose (E463), macrogol, crospovidone (E1202), povidone (E1201), sucralose (E955), macrogol poly(vinyl alcohol) grafted copolymer, levomenthol, hypromellose (E464), titanium dioxide (E171), ferric oxide red (E172).
+- The active substance is sildenafil. Each orodispersible film contains 50 mg of sildenafil (as the citrate salt).
+
+- The other ingredients are hydroxypropylcellulose (E463), macrogol, crospovidone (E1202),
+
+povidone (E1201), sucralose (E955), macrogol poly(vinyl alcohol) grafted copolymer, levomenthol, hypromellose (E464), titanium dioxide (E171), ferric oxide red (E172).
 
 ## What VIAGRA looks like and contents of the pack
 
@@ -4026,7 +4129,7 @@ Some pack sizes may not be marketed in your country.
 
 ## Marketing Authorisation Holder
 
-Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+Viatris EESV, Krijgsman 20, 1186 DM, Amstelveen, Netherlands.
 
 ## Manufacturer
 
@@ -4034,37 +4137,127 @@ LTS Lohmann Therapie-Systeme AG, Lohmannstrasse 2, Andernach, Rhineland-Palatina
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-| België /Belgique / Belgien                     | Lietuva                        |
-|------------------------------------------------|--------------------------------|
-| Viatris                                        | Viatris UAB                    |
-| Tél/Tel: +32 (0)2 658 61 00                    | Tel. +370 52051288             |
-| България                                       | Luxembourg/Luxemburg           |
-| Майлан ЕООД                                    | Viatris                        |
-| Тел .: +359 2 44 55 400                        | Tél/Tel: +32 (0)2 658 61 00    |
-| Č eská republika                               | Magyarország                   |
-| Viatris CZ s.r.o.                              | Viatris Healthcare Kft.        |
-| Tel: +420 222 004 400                          | Tel.: + 36 1 4 65 2100         |
-| Danmark                                        | Malta                          |
-| Viatris ApS                                    | V.J. Salomone Pharma Limited   |
-| Tlf: +45 28 11 69 32                           | Tel: (+356) 21 220 174         |
-| Deutschland                                    | Nederland                      |
-| Viatris Healthcare GmbH                        | Mylan Healthcare BV            |
-| Tel: +49 (0) 800 0700 800                      | Tel: +31 (0) 20 426 3300       |
-| Eesti                                          | Norge                          |
-| Viatris OÜ                                     | Viatris AS                     |
-| Tel: +372 6363 052                             | Tlf: +47 66 75 33 00           |
-| Ελλάδα                                         | Österreich                     |
-| Viatris Hellas Ltd                             | Viatris Austria GmbH           |
-| Τηλ .: +30 2100 100 002                        | Tel: +43 1 86390               |
-| España                                         | Polska                         |
-| Viatris Pharmaceuticals, S.L.                  | Viatris Healthcare Sp. z o.o., |
-| Tel: +34 900 102 712                           | Tel.: +48 22 546 64 00         |
-| France                                         | Portugal                       |
-| Viatris Santé                                  | Viatris Healthcare, Lda.       |
-| Tél: +33 (0)4 37 25 75 00                      | Tel: +351 21 412 72 00         |
-| Hrvatska                                       | România                        |
-|                                                | BGP Products SRL               |
-| Viatris Hrvatska d.o.o. Tel: + 385 1 23 50 599 | Tel: +40 372 579 000           |
+## België /Belgique / Belgien
+
+Viatris
+
+Tél/Tel: +32 (0)2 658 61 00
+
+## България
+
+Виатрис ЕООД
+
+Тел.: +359 2 44 55 400
+
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: +420 222 004 400
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
+## Deutschland
+
+Viatris Healthcare GmbH
+
+Tel: +49 (0) 800 0700 800
+
+## Eesti
+
+Viatris OÜ
+
+Tel: +372 6363 052
+
+## Ελλάδα
+
+Viatris Hellas Ltd
+
+Τηλ.: +30 2100 100 002
+
+## España
+
+Viatris Pharmaceuticals, S.L.
+
+Tel: +34 900 102 712
+
+## France
+
+Viatris Santé
+
+Tél: +33 (0)4 37 25 75 00
+
+## Hrvatska
+
+Viatris Hrvatska d.o.o.
+
+Tel: + 385 1 23 50 599
+
+## Lietuva
+
+Viatris UAB
+
+Tel. +370 52051288
+
+## Luxembourg/Luxemburg
+
+Viatris
+
+Tél/Tel: +32 (0)2 658 61 00
+
+(Belgique/Belgien)
+
+## Magyarország
+
+Viatris Healthcare Kft.
+
+Tel.: + 36 1 4 65 2100
+
+## Malta
+
+V.J. Salomone Pharma Limited
+
+Tel: (+356) 21 220 174
+
+## Nederland
+
+Viatris Healthcare BV
+
+Tel: +31 (0) 20 426 3300
+
+## Norge
+
+Viatris AS
+
+Tlf: +47 66 75 33 00
+
+## Österreich
+
+Viatris Austria GmbH
+
+Tel: +43 1 86390
+
+## Polska
+
+Viatris Healthcare Sp. z o.o.,
+
+Tel.: +48 22 546 64 00
+
+## Portugal
+
+Viatris Healthcare, Lda.
+
+Tel: +351 21 412 72 00
+
+## România
+
+BGP Products SRL
+
+Tel: +40 372 579 000
 
 ## Ireland
 
@@ -4072,23 +4265,11 @@ Viatris Limited
 
 Tel: + 353 1 8711600
 
-## Slovenija
-
-Viatris d.o.o.
-
-Tel: + 386 1 236 31 80
-
 ## Ísland
 
 Icepharma hf.
 
 Sími: +354 540 8000
-
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: +421 2 32 199 100
 
 ## Italia
 
@@ -4096,31 +4277,41 @@ Viatris Pharma S.r.l.
 
 Tel: +39 02 612 46921
 
-## Suomi/Finland
-
-Viatris Oy
-
-Puh/Tel: +358 20 720 9555
-
 ## Κύπρος
 
 CPO Pharmaceuticals Limited
 
-Τηλ
-
-: +357 22863100
-
-## Sverige
-
-Viatris AB
-
-Tel: +46 (0)8 630 19 00
+Τηλ: +357 22863100
 
 ## Latvija
 
 Viatris SIA
 
 Tel: +371 676 055 80
+
+## Slovenija
+
+Viatris d.o.o.
+
+Tel: + 386 1 236 31 80
+
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
+
+## Suomi/Finland
+
+Viatris Oy
+
+Puh/Tel: +358 20 720 9555
+
+## Sverige
+
+Viatris AB
+
+Tel: +46 (0)8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
 

@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-04-30 14:55:37
-document_pages: 28
+document_datetime: 2026-10-14 09:08:51
+document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mresvia-epar-product-information_en.pdf
 document_name: mresvia-epar-product-information_en.pdf
 version: success
-processing_time: 6.2627188
-conversion_datetime: 2026-05-05 19:33:05.445907
+processing_time: 7.8148218
+conversion_datetime: 2026-10-19 22:59:10.790968
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -26,7 +24,7 @@ docling_version:
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
-## 1 . NAME OF THE MEDICINAL PRODUCT
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 mRESVIA dispersion for injection in pre-filled syringe Respiratory Syncytial Virus mRNA vaccine
 
@@ -42,9 +40,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Dispersion for injection.
-
-White to off-white dispersion (pH: 7.0 - 8.0).
+Dispersion for injection. White to off-white dispersion (pH: 7.0 - 8.0).
 
 ## 4. CLINICAL PARTICULARS
 
@@ -60,17 +56,21 @@ Posology
 
 The recommended dose of mRESVIA is one single dose of 0.5 mL.
 
-Paediatric population
+Immunocompromised individuals 18 years and older
+
+The recommended dose of mRESVIA is one single dose of 0.5 mL. Certain immunocompromised individuals may benefit from a second dose, see section 5.1.
+
+## Paediatric population
 
 The safety and efficacy of mRESVIA in children (from birth to less than 18 years of age) have not yet been established. No data are available.
 
 ## Method of administration
 
+<div style=\"page-break-after: always\"></div>
+
 For intramuscular injection only.
 
 mRESVIA should be administered preferably in the deltoid muscle of the upper arm. The injection should be given using standard aseptic technique.
-
-<div style=\"page-break-after: always\"></div>
 
 The vaccine must not be injected intravenously, subcutaneously or intradermally.
 
@@ -106,17 +106,17 @@ As with other intramuscular injections, the vaccine should be given with caution
 
 ## Immunocompromised individuals
 
-Safety and immunogenicity data on mRESVIA are not available for immunocompromised individuals. Individuals receiving immunosuppressant therapy or patients with immunodeficiency may have a diminished immune response to this vaccine.
+The safety and immunogenicity of mRESVIA have been assessed in immunocompromised individuals. Immunocompromised individuals may have a diminished immune response to this vaccine (see sections 4.8 and 5.1).
 
 ## Limitations of vaccine effectiveness
 
 As with all vaccines, vaccination with mRESVIA may not protect all vaccine recipients.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Excipient - sodium
 
 This vaccine contains less than 1 mmol sodium (23 mg) per 0.5 mL dose, that is to say essentially 'sodium-free'.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -153,17 +153,21 @@ However, some of the effects mentioned under section 4.8 (e.g., fatigue, dizzine
 
 ## Summary of the safety profile
 
-The safety profile and the frequencies of adverse reactions presented below are based on data generated in two clinical studies: Study 1 in adults ≥ 60 years of age (n=18 245) and Study 2 in adults 18 through 59 years of age (n=502).
+The safety profile and the frequencies of adverse reactions presented below are based on data generated in three clinical studies: Study 1 in adults ≥ 60 years of age (n=18 245); Study 2 in adults 18 through 59 years of age (n=502); and Study 3 in immunocompromised adults 18 years of age and older (n=150).
 
 ## Individuals 60 years of age and older
 
 In Study 1, which enrolled individuals 60 years of age and older, the most commonly reported adverse reactions were injection site pain (55.9%), fatigue (30.8%), headache (26.7%), myalgia (25.6%) and arthralgia (21.7%). The onset of most solicited local and systemic adverse reactions was within 1 to 2 days after injection and resolved within 1 to 2 days after onset. The majority of local and systemic solicited adverse reactions were mild in intensity.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Individuals 18 through 59 years of age
 
 In Study 2, which enrolled individuals 18 through 59 years of age at increased risk for LRTD caused by RSV, the most commonly reported adverse reactions were injection site pain (73.9%), fatigue (36.9%), headache (33.3%), myalgia (28.9%) and arthralgia (22.7%). Most solicited local and systemic adverse reactions had onset within 1 to 2 days after injection, and a median duration of 2 days.
 
-<div style=\"page-break-after: always\"></div>
+## Immunocompromised individuals 18 years of age and older
+
+In Study 3, which enrolled individuals 18 years of age and older who had previously undergone solid organ transplant (SOT) procedures (kidney, liver or lung), reactogenicity after one or two doses was consistent with the known profile of mRESVIA. There were no unexpected safety findings.
 
 ## Tabulated list of adverse reactions
 
@@ -175,27 +179,25 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Table 1: Adverse reactions following administration of mRESVIA
 
-| MedDRA system organ class                            | Frequency   | Adverse reaction(s)                                                |
-|------------------------------------------------------|-------------|--------------------------------------------------------------------|
-| Blood and lymphatic system disorders                 | Very common | Lymphadenopathy *                                                  |
-| Immune system disorders                              | Uncommon    | Hypersensitivity                                                   |
-| Nervous system disorders                             | Very common | Headache                                                           |
-| Nervous system disorders                             | Uncommon    | Dizziness                                                          |
-| Nervous system disorders                             | Rare        | Peripheral facial nerve paralysis (e.g., Bell's palsy) †           |
-| Gastrointestinal disorders                           | Very common | Nausea/vomiting ‡                                                  |
-| Skin and subcutaneous tissue disorders               | Rare        | Urticaria §                                                        |
-| Musculoskeletal and connective tissue disorders      | Very common | Myalgia Arthralgia                                                 |
-| General disorders and administration site conditions | Very common | Injection site pain Fatigue Chills                                 |
-| General disorders and administration site conditions | Common      | Pyrexia Injection site erythema Injection site swelling/induration |
-| General disorders and administration site conditions | Rare        | Injection site pruritus                                            |
+| MedDRA system organ class                            | Frequency   | Adverse reaction(s)                                      |
+|------------------------------------------------------|-------------|----------------------------------------------------------|
+| Blood and lymphatic system disorders                 | Very common | Lymphadenopathy *                                        |
+| Immune system disorders                              | Uncommon    | Hypersensitivity                                         |
+| Nervous system disorders                             | Very common | Headache                                                 |
+| Nervous system disorders                             | Uncommon    | Dizziness                                                |
+| Nervous system disorders                             | Rare        | Peripheral facial nerve paralysis (e.g., Bell's palsy) † |
+| Gastrointestinal disorders                           | Very common | Nausea/vomiting ‡                                        |
+| Skin and subcutaneous tissue disorders               | Rare        | Urticaria §                                              |
+| Musculoskeletal and connective tissue disorders      | Very common | Myalgia Arthralgia                                       |
+| General disorders and administration site conditions | Very common | Injection site pain Fatigue Chills                       |
+| General disorders and administration site conditions | Common      | Pyrexia                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-2 participants in the mRESVIA group and 2 participants in the placebo group. All 4 of these participants had risk factors for Bell's palsy. In Study 2, one participant who had multiple confounding underlying medical conditions and received a lower dose of the investigational vaccine had an SAE of Bell's palsy on Day 43.
-
-‡ Reported as common in individuals 60 years of age and older (Study 1).
-
-§ Urticaria has been observed with either acute onset (within a few days after vaccination) or delayed onset (up to approximately two weeks after vaccination) and may be acute or chronic (≥ 6 weeks) in duration.
+| MedDRA system organ class   | Frequency   | Adverse reaction(s)                                        |
+|-----------------------------|-------------|------------------------------------------------------------|
+|                             |             | Injection site erythema Injection site swelling/induration |
+|                             | Rare        | Injection site pruritus                                    |
 
 ## Reporting of suspected adverse reactions
 
@@ -223,11 +225,11 @@ mRESVIA stimulates production of RSV-A and RSV-B neutralising antibodies and ind
 
 ## Study 1 - in individuals 60 years of age and older
 
-Study 1 (EUDRA CT number 2021-005026-20) is an ongoing phase 2/3 randomised, observer-blind, placebo-controlled, pivotal study conducted in 22 countries in Central and Latin America, Africa, Asia Pacific, North America and Europe. The study evaluated the safety and efficacy of a single dose of mRESVIA for the prevention of RSVLRTD in adults ≥ 60 years, with or without underlying medical conditions.
-
-The primary efficacy analysis population (per-protocol efficacy set) included 35 088 participants who received either mRESVIA (n=17 572) or placebo (n=17 516). Among all participants, 50.9% were male, 63.5% were White, 12.2% were Black or African American, 8.7% were Asian, and 34.6% were Hispanic or Latino. The median age was 67 years (range: 60-96), with 63.5% aged 60-69, 30.9% aged 70-79, and 5.5% aged ≥ 80 years. A total of 6.9% had protocol-defined LRTD risk factors [congestive heart failure (CHF) and/or chronic obstructive pulmonary disease (COPD)] and 29.3% had ≥ 1 comorbidity of interest. A total of 21.8% scored 'vulnerable' or 'frail' according to Edmonton Frail Scale.
+Study 1 (EUDRA CT number 2021-005026-20) is an ongoing phase 2/3 randomised, observer-blind, placebo-controlled, pivotal study conducted in 22 countries in Central and Latin America, Africa, Asia Pacific, North America and Europe. The study evaluated the safety and efficacy of a single dose of mRESVIA for the prevention of RSV-LRTD in adults ≥ 60 years, with or without underlying medical conditions.
 
 <div style=\"page-break-after: always\"></div>
+
+The primary efficacy analysis population (per-protocol efficacy set) included 35 088 participants who received either mRESVIA (n=17 572) or placebo (n=17 516). Among all participants, 50.9% were male, 63.5% were White, 12.2% were Black or African American, 8.7% were Asian, and 34.6% were Hispanic or Latino. The median age was 67 years (range: 60-96), with 63.5% aged 60-69, 30.9% aged 70-79, and 5.5% aged ≥ 80 years. A total of 6.9% had protocol-defined LRTD risk factors [congestive heart failure (CHF) and/or chronic obstructive pulmonary disease (COPD)] and 29.3% had ≥ 1 comorbidity of interest. A total of 21.8% scored \"vulnerable\" or \"frail\" according to Edmonton Frail Scale.
 
 The primary efficacy endpoints were the prevention of a first episode of RSV-LRTD with ≥ 2 or ≥ 3 symptoms, occurring between 14 days and 12 months post injection. RSV-LRTD was defined as reverse transcription polymerase chain reaction (RT-PCR) confirmed RSV infection and radiologic evidence of pneumonia or experienced new or worsening of ≥ 2 of predefined symptoms lasting ≥ 24 hours including shortness of breath, cough and/or fever, wheezing, sputum production, tachypnoea, hypoxemia and pleuritic chest pain.
 
@@ -237,9 +239,11 @@ An additional analysis of efficacy was performed after a median of 8.6 months (r
 
 At the time of the additional analysis, point estimates of VE in the subgroup analyses by age, comorbidity and frailty were generally consistent with VE of overall population based on the PPE Set (Table 2).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 2: Additional analysis of vaccine efficacy (VE) of mRESVIA to prevent first episode of RSV-LRTD (with 2 or more symptoms) 14 days post-injection up to 12 months postinjection by subgroups (per-protocol efficacy set)
 
-| Subgroup                 | mRESVIA Cases, n/N *   | Placebo Cases, n/N *   | VE,% (95% CI)      |
+| Subgroup                 | mRESVIA Cases, n/N *   | Placebo Cases, n/N *   | VE, % (95% CI)     |
 |--------------------------|------------------------|------------------------|--------------------|
 | Overall                  | 47/18 112              | 127/18 045             | 63.3 (48.7, 73.7)  |
 | Age group                |                        |                        |                    |
@@ -253,14 +257,6 @@ Table 2: Additional analysis of vaccine efficacy (VE) of mRESVIA to prevent firs
 | Fit (0-3)                | 37/13 417              | 104/13 274             | 65.0 (49.0, 75.9)  |
 | Vulnerable/Frailty (≥ 4) | 9/3 817                | 17/3 884               | 46.5 (-20.0, 76.2) |
 
-* Based on the number of participants in each subgroup.
-
-† NA = not applicable due to low number of total cases accrued in this subgroup.
-
-‡  Comorbidities included in this analysis were chronic cardiopulmonary conditions, including CHF, COPD, asthma and chronic respiratory conditions as well as diabetes, advanced liver, and advanced kidney disease.
-
-<div style=\"page-break-after: always\"></div>
-
 As shortness of breath is associated with more severe RSV disease, an exploratory analysis was conducted. A total of 54 cases of RSV-LRTD with shortness of breath occurred: 43 in placebo recipients and 11 in mRESVIA recipients.
 
 ## Study 2 - in individuals 18 through 59 years
@@ -269,23 +265,34 @@ Study 2 is a phase 3 randomised, double-blind trial to evaluate the immunogenici
 
 Eligible participants enrolled in the study had at least one of the conditions that increased their risk for developing RSV-LRTD. Of the 494 participants in the Per-Protocol (PP) Set, diabetes mellitus (DM) was reported in 59.7%, persistent asthma in 38.1%, coronary artery disease (CAD) in 20.9%, chronic obstructive pulmonary disease (COPD) in 10.1%, congestive heart failure (CHF) in 8.9%, and chronic respiratory disease other than COPD or asthma in approximately 2.4%. Additionally, 63.6% of participants had a BMI of 30 kg/m² or higher, indicating a significant prevalence of obesity within the study population. The median age was 53 years (range: 19-59). Most participants were White (80.2%), 53.6% were female and 27.5% of participants were Hispanic or Latino.
 
-Efficacy of mRESVIA in this population was inferred by comparison of RSV neutralising antibody (nAb) levels at Day 29 post-vaccination to those in a subset of Study 1 participants ≥ 60 years of age . Non-inferiority was demonstrated for the nAb geometric mean titres (GMTs) for RSV A and RSV B [Study 2 PP/Study 1 Per-Protocol Immunogenicity (PPI) subset; lower bound of the 2-sided 95% CI of the geometric mean ratio (GMR) &gt; 0.667].
+Efficacy of mRESVIA in this population was inferred by comparison of RSV neutralising antibody (nAb) levels at Day 29 post-vaccination to those in a subset of Study 1 participants ≥ 60 years of age. Non-inferiority was demonstrated for the nAb geometric mean titres (GMTs) for RSV A and RSV B [Study 2 PP/Study 1 Per-Protocol Immunogenicity (PPI) subset; lower bound of the 2-sided 95% CI of the geometric mean ratio (GMR) &gt; 0.667].
+
+<div style=\"page-break-after: always\"></div>
 
 Table 3: Day 29 nAb GMT and GMR (nAb against RSV-A and RSV-B) from Study 2 (individuals 18 through 59 years of age at increased risk for LRTD caused by RSV) and Study 1 (individuals 60 years of age and older)
 
-|                   | mRESVIA Study 2 - (PP set) (N=494)   | mRESVIA Study 2 - (PP set) (N=494)   | mRESVIA Study 2 - (PP set) (N=494)   | mRESVIA Study 1 - (PPI set) (N=1 515)   | mRESVIA Study 1 - (PPI set) (N=1 515)   | mRESVIA Study 1 - (PPI set) (N=1 515)   | Study 2 versus Study 1   | Study 2 versus Study 1   |
-|-------------------|--------------------------------------|--------------------------------------|--------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|--------------------------|--------------------------|
-| nAb titre (IU/mL) | N1                                   | Model- based GMT a                   | 95% CI                               | N1                                      | Model- based GMT a                      | 95% CI                                  | Adjusted GMR             | 95% CI                   |
-| RSV-A             | 492                                  | 23 245                               | 21 326, 25 336                       | 1 513                                   | 19 988                                  | 19 038, 20 985                          | 1.163                    | 1.053, 1.285             |
-| RSV-B             | 489                                  | 7 831                                | 7 242, 8 467                         | 1 511                                   | 6 901                                   | 6 603, 7 213                            | 1.135                    | 1.037, 1.242             |
+| nAb titre (IU/mL)   |   mRESVIA Study 2 - (PP set) (N=494) - N1 | mRESVIA Study 2 - (PP set) (N=494) - Model- based GMT a   | mRESVIA Study 2 - (PP set) (N=494) - 95% CI   | mRESVIA Study 1 - (PPI set) (N=1 515) - N1   | mRESVIA Study 1 - (PPI set) (N=1 515) - Model- based GMT a   | mRESVIA Study 1 - (PPI set) (N=1 515) - 95% CI   |   Study 2 versus Study 1 - Adjusted GMR | Study 2 versus Study 1 - 95% CI   |
+|---------------------|-------------------------------------------|-----------------------------------------------------------|-----------------------------------------------|----------------------------------------------|--------------------------------------------------------------|--------------------------------------------------|-----------------------------------------|-----------------------------------|
+| RSV-A               |                                       492 | 23 245                                                    | 21 326, 25 336                                | 1 513                                        | 19 988                                                       | 19 038, 20 985                                   |                                   1.163 | 1.053, 1.285                      |
+| RSV-B               |                                       489 | 7 831                                                     | 7 242, 8 467                                  | 1 511                                        | 6 901                                                        | 6 603, 7 213                                     |                                   1.135 | 1.037, 1.242                      |
 
 CI=confidence interval; GMT=geometric mean titre; GMR=geometric mean ratio; LRTD=lower respiratory tract disease; nAb=neutralising antibody; PP=Per-Protocol; PPI=Per-Protocol Immunogenicity; RSV-A=respiratory syncytial virus subtype A; RSV-B= respiratory syncytial virus subtype B.
 
 N1 = Number of participants with non-missing antibody data at baseline (Day 1) and Day 29.
 
-a  The model-based GMT is estimated on Analysis of covariance (ANCOVA) model.
+a The model-based GMT is estimated on Analysis of covariance (ANCOVA) model.
 
 RSV immune responses following vaccination with mRESVIA were consistent across demographic and clinical subgroups, including those with chronic medical conditions or increased BMI. Similar immune responses and vaccine effectiveness are expected in healthy adults aged 18 through 59 years of age.
+
+## Study 3 - in immunocompromised individuals 18 years of age and older
+
+The single-arm, open-label Phase 3 study evaluated the safety, reactogenicity and immunogenicity of mRESVIA in 150 adult solid organ transplant (SOT) recipients, with approximately one-third of participants in each transplant subgroup: kidney, liver or lung. This descriptive study was conducted in the United States, Canada and the United Kingdom.
+
+Participants had undergone solid organ transplant at least 180 days prior to the day of consent and were receiving chronic immunosuppressive therapy for the prevention of allograft rejection at the time of enrolment. A second dose of mRESVIA was administered approximately 2 months (57 days) after the first dose.
+
+A single dose of mRESVIA elicited robust neutralising responses with geometric mean fold rises (GMFRs) relative to baseline of 4.9 (95% CI: 3.9, 6.3) and 3.4 (95% CI: 2.8, 4.1) against RSV-A and RSV-B, respectively, at Day 29.
+
+Following the second dose, modest increases were observed, with GMFRs of 7.1 (95% CI: 5.7, 8.8) for RSV-A and 5.2 (95% CI: 4.3, 6.2) for RSV-B at Day 85. Neutralising antibody responses remained above baseline through Day 181, with GMFRs of 4.5 (95% CI: 3.6, 5.5) for RSV-A and 3.8 (95% CI: 3.2, 4.5) for RSV-B. Increases following the second dose were more evident among kidney and lung transplant recipients (64% of the per-protocol set), participants within 2 years of transplantation (27% of the per-protocol set), and participants receiving mycophenolate (67% of the per-protocol set), subgroups generally associated with greater immunosuppression.
 
 ## Paediatric population
 
@@ -293,9 +300,9 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## 5.2 Pharmacokinetic properties
 
-<div style=\"page-break-after: always\"></div>
-
 Not applicable.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -371,9 +378,7 @@ Transportation of thawed pre-filled syringes in the outer carton in liquid state
 
 The pre-filled syringe is packaged within a carton in either a tray containing 1 or 10 pre-filled syringes, in 1 clear blister containing 1 pre-filled syringe or in 5 clear blisters containing 2 pre-filled syringes in each blister.
 
-Pack sizes:
-
-10 pre-filled syringes per carton 1 pre-filled syringe per carton Each pre-filled syringe contains 0.5 mL.
+Pack sizes: 10 pre-filled syringes per carton 1 pre-filled syringe per carton Each pre-filled syringe contains 0.5 mL.
 
 Not all pack sizes may be marketed.
 
@@ -401,31 +406,30 @@ Prior to immediate use, single blisters or pre-filled syringes may be removed fr
 
 Table 4: Thawing conditions and times based on pack size and temperature before use
 
-|                                            | Thaw instructions and durations         | Thaw instructions and durations   | Thaw instructions and durations             | Thaw instructions and durations   |
-|--------------------------------------------|-----------------------------------------|-----------------------------------|---------------------------------------------|-----------------------------------|
-| Pack size                                  | Thaw temperature (in refrigerator) (°C) | Thaw duration (minutes)           | Thaw temperature (at room temperature) (°C) | Thaw duration (minutes)           |
-| Carton of 1 pre-filled syringe             | 2 - 8                                   | 100                               | 15 - 25                                     | 40                                |
-| Carton of 10 pre-filled syringes           | 2 - 8                                   | 160                               | 15 - 25                                     | 80                                |
-| 1 pre-filled syringe (removed from carton) | 2 - 8                                   | 100                               | 15 - 25                                     | 40                                |
+| Pack size                                  | Thaw instructions and durations - Thaw temperature (in refrigerator) (°C)   |   Thaw instructions and durations - Thaw duration (minutes) | Thaw instructions and durations - Thaw temperature (at room temperature) (°C)   |   Thaw instructions and durations - Thaw duration (minutes) |
+|--------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------|
+| Carton of 1 pre-filled syringe             | 2 - 8                                                                       |                                                         100 | 15 - 25                                                                         |                                                          40 |
+| Carton of 10 pre-filled syringes           | 2 - 8                                                                       |                                                         160 | 15 - 25                                                                         |                                                          80 |
+| 1 pre-filled syringe (removed from carton) | 2 - 8                                                                       |                                                         100 | 15 - 25                                                                         |                                                          40 |
 
-- -After thawing, the vaccine cannot be refrozen.
-- -If the vaccine has been thawed at room temperature (15 °C to 25 °C), the pre-filled syringe is ready to administer. Syringes should not be returned to the refrigerator after being thawed at room temperature.
-- -The pre-filled syringes may be stored at 8 °C to 25 °C for a total of 24 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Discard the syringe if not used within this time.
+- After thawing, the vaccine cannot be refrozen.
+- If the vaccine has been thawed at room temperature (15 °C to 25 °C), the pre-filled syringe is ready to administer. Syringes should not be returned to the refrigerator after being thawed at room temperature.
+- The pre-filled syringes may be stored at 8 °C to 25 °C for a total of 24 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Discard the syringe if not used within this time.
 
 ## Administration
 
-- -Remove a pre-filled syringe from the blister or tray.
-- -The vaccine should be inspected visually for particulate matter and discolouration prior to administration. mRESVIA is a white to off-white dispersion. It may contain white or translucent product-related particulates. Do not administer if vaccine is discoloured or contains other particulate matter.
-- -With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases. Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
-- -The vaccine should be administered immediately after uncapping.
-- -Needles are not provided in the pack.
+- Remove a pre-filled syringe from the blister or tray.
+- The vaccine should be inspected visually for particulate matter and discolouration prior to administration. mRESVIA is a white to off-white dispersion. It may contain white or translucent product-related particulates. Do not administer if vaccine is discoloured or contains other particulate matter.
+- With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases. Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
+- The vaccine should be administered immediately after uncapping.
+- Needles are not provided in the pack.
 
 <div style=\"page-break-after: always\"></div>
 
-- -Use a sterile needle of the appropriate size for intramuscular injection (21-gauge or thinner needles).
-- -Attach the needle by twisting in a clockwise direction until the needle fits securely on the pre-filled syringe.
-- -Administer the entire dose intramuscularly.
-- -Discard the pre-filled syringe after use.
+- Use a sterile needle of the appropriate size for intramuscular injection (21-gauge or thinner needles).
+- Attach the needle by twisting in a clockwise direction until the needle fits securely on the pre-filled syringe.
+- Administer the entire dose intramuscularly.
+- Discard the pre-filled syringe after use.
 
 ## Disposal
 
@@ -433,15 +437,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-MODERNA BIOTECH SPAIN, S.L. C/ Julián Camarillo nº 31 28037 Madrid Spain
+MODERNA BIOTECH SPAIN, S.L. C/ Julián Camarillo nº 31 28037 Madrid
+
+Spain
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/24/1849/001
-
-EU/1/24/1849/002
-
-EU/1/24/1849/003
+EU/1/24/1849/001 EU/1/24/1849/002 EU/1/24/1849/003
 
 EU/1/24/1849/004
 
@@ -452,6 +454,8 @@ Date of first authorisation: 22 August 2024
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+13
 
 <div style=\"page-break-after: always\"></div>
 
@@ -468,7 +472,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-ModernaTX, Inc. One Moderna Way Norwood, MA 02062 USA
+ModernaTX, Inc. One Moderna Way Norwood, MA 02062
+
+USA
 
 Name and address of the manufacturer responsible for batch release
 
@@ -482,7 +488,7 @@ Medicinal product subject to medical prescription.
 
 In accordance with Article 114 of Directive 2001/83/EC, the official batch release will be undertaken by a state laboratory or a laboratory designated for that purpose.
 
-## C.   OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## · Periodic safety update reports (PSURs)
 
@@ -549,7 +555,7 @@ Intramuscular use.
 
 ## QR code to be included
 
-Scan here or visit www.mresvia.eu.
+[Scan here or visit www.mresvia.eu.](http://www.mresvia.eu/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -581,7 +587,7 @@ Dispose of in accordance with local requirement.
 
 MODERNA BIOTECH SPAIN, S.L.
 
-C/ Julián Camarillo n º 31
+C/ Julián Camarillo nº 31
 
 28037 Madrid
 
@@ -616,12 +622,16 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
@@ -635,17 +645,18 @@ Intramuscular use
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 mL
 
-## 6. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -657,15 +668,17 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## mRESVIA dispersion for injection Respiratory Syncytial Virus mRNA vaccine
+## mRESVIA dispersion for injection
+
+Respiratory Syncytial Virus mRNA vaccine
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you receive this vaccine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -688,20 +701,20 @@ mRESVIA activates the immune system (the body's natural defences) to protect aga
 
 ## Do not use mRESVIA
 
-- -if you are allergic to the active substance or any of the ingredients of this vaccine (listed in section 6).
+- if you are allergic to the active substance or any of the ingredients of this vaccine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before you are given mRESVIA if:
 
-- -you have ever had a severe allergic reaction after any other vaccine injection in the past.
-- -you have a bleeding problem or bruise easily.
+- you have ever had a severe allergic reaction after any other vaccine injection in the past.
+- you have a bleeding problem or bruise easily.
 
 <div style=\"page-break-after: always\"></div>
 
-- -you have a weakened immune system which may prevent you from getting the full benefit from mRESVIA.
-- -you are feeling nervous about getting the vaccine or have ever fainted after any injection.
-- -you have an infection with a high fever. If this is the case, then vaccination will be postponed. There is no need to delay vaccination for a minor infection, such as a cold, but talk to your doctor first.
+- you have a weakened immune system which may prevent you from getting the full benefit from mRESVIA.
+- you are feeling nervous about getting the vaccine or have ever fainted after any injection.
+- you have an infection with a high fever. If this is the case, then vaccination will be postponed. There is no need to delay vaccination for a minor infection, such as a cold, but talk to your doctor first.
 
 As with all vaccines, mRESVIA may not fully protect all people who are vaccinated.
 
@@ -721,7 +734,7 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 
 ## Driving and using machines
 
-Some of the effects mentioned below in section 4 'Possible side effects' like feeling tired and dizziness may temporarily affect the ability to drive or use machines. If you experience such side effects, wait until they have worn off before you drive or use machines.
+Some of the effects mentioned below in section 4 \"Possible side effects\" like feeling tired and dizziness may temporarily affect the ability to drive or use machines. If you experience such side effects, wait until they have worn off before you drive or use machines.
 
 ## mRESVIA contains sodium
 
@@ -731,7 +744,7 @@ This vaccine contains less than 1 mmol (23 mg) sodium per dose, that is to say e
 
 mRESVIA is given by a doctor, pharmacist or nurse, usually as a single injection in the muscle of the upper arm (deltoid muscle).
 
-The recommended dose is 0.5 mL.
+The recommended dose is 0.5 mL. If you have a weakened immune system, your doctor may decide whether an additional dose is appropriate for you.
 
 If you have any further questions on the use of this vaccine, ask your doctor, pharmacist or nurse.
 
@@ -743,34 +756,34 @@ Side effects that may happen after receiving mRESVIA include:
 
 Very common (may affect more than 1 in 10 people)
 
-- -swelling/tenderness in the underarm (lymphadenopathy)
-- -headache
-- -feeling sick (nausea)/vomiting
-- -muscle ache (myalgia)
-- -joint ache (arthralgia)
-- -pain at the injection site
-- -feeling tired (fatigue)
+- swelling/tenderness in the underarm (lymphadenopathy)
+- headache
+- feeling sick (nausea)/vomiting
+- muscle ache (myalgia)
+- joint ache (arthralgia)
+- pain at the injection site
 
 <div style=\"page-break-after: always\"></div>
 
-- -chills
+- feeling tired (fatigue)
+- chills
 
 Common (may affect up to 1 in 10 people)
 
-- -redness (erythema) at the injection site
-- -swelling/hardening (induration) at the injection site
-- -fever (pyrexia)
+- redness (erythema) at the injection site
+- swelling/hardening (induration) at the injection site
+- fever (pyrexia)
 
 Uncommon (may affect up to 1 in 100 people)
 
-- -reaction of increased sensitivity or intolerance by the immune system (hypersensitivity)
-- -dizziness
+- reaction of increased sensitivity or intolerance by the immune system (hypersensitivity)
+- dizziness
 
 Rare (may affect up to 1 in 1 000 people)
 
-- -temporary one-sided facial drooping (Bell`s palsy)
-- -itchy rash (urticaria)
-- -itching at the injection site (pruritus)
+- temporary one-sided facial drooping (Bell`s palsy)
+- itchy rash (urticaria)
+- itching at the injection site (pruritus)
 
 Tell your doctor or pharmacist if you get any of the side effects listed above. Most of these side effects are mild to moderate in intensity and do not last long.
 
@@ -820,7 +833,7 @@ The other excipients are SM-102 (heptadecan-9-yl 8-((2-hydroxyethyl) (6-oxo-6-(u
 
 amino)octanoate), cholesterol, 1,2-distearoyl-sn-glycero-3-phosphocholine (DSPC), 1,2-dimyristoyl-rac-glycero-3-methoxypolyethylene glycol-2000 (PEG2000-DMG), trometamol, trometamol hydrochloride, acetic acid, sodium acetate trihydrate, sucrose and water for injections.
 
-See Section 2 'mRESVIA contains sodium'.
+See Section 2 \"mRESVIA contains sodium\".
 
 ## What mRESVIA looks like and contents of the pack
 
@@ -842,21 +855,21 @@ België/Belgique/Belgien
 
 Tél/Tel: 0800 81 460
 
-Lietuva
-
-Tel: 88 003 1114
-
 България
 
 Teл: 0800 115 4477
 
-Luxembourg/Luxemburg
-
-Tél/Tel: 800 85 499
-
 Česká republika
 
 Tel: 800 050 719
+
+Lietuva
+
+Tel: +370 800 31 114
+
+Luxembourg/Luxemburg
+
+Tél/Tel: 800 85 499
 
 Magyarország
 
@@ -866,93 +879,93 @@ Tel: 06 809 87488
 
 Tlf.: 80 81 06 53
 
-## Malta
-
-Tel: 8006 5066
-
 ## Deutschland
 
 Tel: 0800 100 9632
-
-## Nederland
-
-Tel: 0800 409 0001
 
 ## Eesti
 
 Tel: 800 0044 702
 
-## Norge
-
-Tlf: 800 31 401
-
 ## Ελλάδα
 
 Τηλ: +30 800 000 0030
-
-## Österreich
-
-Tel: 0800 909636
 
 ## España
 
 Tel: 900 031 015
 
-## Polska
-
-Tel: 800 702 406
-
 ## France
 
 Tél: 0805 54 30 16
-
-## Portugal
-
-Tel: 800 210 256
 
 ## Hrvatska
 
 Tel: 08009614
 
-## România
-
-Tel: 0800 400 625
-
 ## Ireland
 
 Tel: 1800 800 354
-
-## Slovenija
-
-Tel: 080 083082
 
 ## Ísland
 
 Sími: 800 4382
 
-## Slovenská republika
-
-Tel: 0800 191 647
-
 ## Italia
 
 Tel: 800 928 007
-
-## Suomi/Finland
-
-Puh/Tel: 0800 774198
 
 ## Κύπρος
 
 Τηλ: 80091080
 
+## Latvija
+
+Tel: 80 005 898
+
+## Malta
+
+Tel: 8006 5066
+
+## Nederland
+
+Tel: 0800 409 0001
+
+## Norge
+
+Tlf: 800 31 401
+
+## Österreich
+
+Tel: 0800 909636
+
+## Polska
+
+Tel: 800 702 406
+
+## Portugal
+
+Tel: 800 210 256
+
+## România
+
+Tel: 0800 400 625
+
+## Slovenija
+
+Tel: 080 083082
+
+## Slovenská republika
+
+Tel: 0800 191 647
+
+## Suomi/Finland
+
+Puh/Tel: 0800 774198
+
 ## Sverige
 
 Tel: 020 10 92 13
-
-Latvija
-
-Tel: 80 005 898
 
 <div style=\"page-break-after: always\"></div>
 
@@ -974,7 +987,7 @@ This vaccine should be administered by a trained healthcare professional using a
 
 <div style=\"page-break-after: always\"></div>
 
-## Handling instructions for mRESVIA before use
+Handling instructions for mRESVIA before use
 
 The vaccine is ready to use once thawed.
 
@@ -992,34 +1005,34 @@ Prior to immediate use, single blisters or pre-filled syringes may be removed fr
 
 Table 1: Thawing conditions and times based on pack size and temperature before use
 
-|                                            | Thaw instructions and durations         | Thaw instructions and durations   | Thaw instructions and durations             | Thaw instructions and durations   |
-|--------------------------------------------|-----------------------------------------|-----------------------------------|---------------------------------------------|-----------------------------------|
-| Pack size                                  | Thaw temperature (in refrigerator) (°C) | Thaw duration (minutes)           | Thaw temperature (at room temperature) (°C) | Thaw duration (minutes)           |
-| Carton of 1 pre-filled syringe             | 2 - 8                                   | 100                               | 15 - 25                                     | 40                                |
-| Carton of 10 pre-filled syringes           | 2 - 8                                   | 160                               | 15 - 25                                     | 80                                |
-| 1 pre-filled syringe (removed from carton) | 2 - 8                                   | 100                               | 15 - 25                                     | 40                                |
+| Pack size                                  | Thaw instructions and durations - Thaw temperature (in refrigerator) (°C)   |   Thaw instructions and durations - Thaw duration (minutes) | Thaw instructions and durations - Thaw temperature (at room temperature) (°C)   |   Thaw instructions and durations - Thaw duration (minutes) |
+|--------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------|
+| Carton of 1 pre-filled syringe             | 2 - 8                                                                       |                                                         100 | 15 - 25                                                                         |                                                          40 |
+| Carton of 10 pre-filled syringes           | 2 - 8                                                                       |                                                         160 | 15 - 25                                                                         |                                                          80 |
+| 1 pre-filled syringe (removed from carton) | 2 - 8                                                                       |                                                         100 | 15 - 25                                                                         |                                                          40 |
 
-- -After thawing, the vaccine cannot be refrozen.
-- -If the vaccine has been thawed at room temperature (15 °C to 25 °C), the pre-filled syringe is ready to administer.
-- -Syringes should not be returned to the refrigerator after being thawed at room temperature.
-- -The pre-filled syringes may be stored at 8 °C to 25 °C for a total of 24 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Discard the syringe if not used within this time.
+- After thawing, the vaccine cannot be refrozen.
+- If the vaccine has been thawed at room temperature (15 °C to 25 °C), the pre-filled syringe is ready to administer.
+- Syringes should not be returned to the refrigerator after being thawed at room temperature.
+- The pre-filled syringes may be stored at 8 °C to 25 °C for a total of 24 hours after removal from refrigerated conditions. Within this period of time, pre-filled syringes may be handled in ambient light conditions. Discard the syringe if not used within this time.
 
 ## Administration
 
-- -Remove a pre-filled syringe from the blister or tray.
-- -The vaccine should be inspected visually for particulate matter and discolouration prior to administration. mRESVIA is a white to off-white dispersion. It may contain white or translucent
+- Remove a pre-filled syringe from the blister or tray.
+- The vaccine should be inspected visually for particulate matter and discolouration prior to administration. mRESVIA is a white to off-white dispersion. It may contain white or translucent
 
 <div style=\"page-break-after: always\"></div>
 
 product-related particulates. Do not administer if vaccine is discoloured or contains other particulate matter.
 
-- -With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases. Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
-- -The vaccine should be administered immediately after uncapping.
-- -Needles are not provided in the pack.
-- -Use a sterile needle of the appropriate size for intramuscular injection (21-gauge or thinner needles).
-- -Attach the needle by twisting in a clockwise direction until the needle fits securely on the pre-filled syringe.
-- -Administer the entire dose intramuscularly.
-- -Discard the pre-filled syringe after use.
+- With tip cap upright, remove tip cap by twisting counter-clockwise until tip cap releases.
+- Remove tip cap in a slow, steady motion. Avoid pulling tip cap while twisting.
+- The vaccine should be administered immediately after uncapping.
+- Needles are not provided in the pack.
+- Use a sterile needle of the appropriate size for intramuscular injection (21-gauge or thinner needles).
+- Attach the needle by twisting in a clockwise direction until the needle fits securely on the pre-filled syringe.
+- Administer the entire dose intramuscularly.
+- Discard the pre-filled syringe after use.
 
 ## Disposal
 

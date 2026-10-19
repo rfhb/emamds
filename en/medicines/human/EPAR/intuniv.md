@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-16 16:22:00
+document_datetime: 2026-10-13 13:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/intuniv.html
 document_name: intuniv.html
 version: success
-processing_time: 0.1271485
-conversion_datetime: 2026-01-17 13:08:11.712336
+processing_time: 0.212424
+conversion_datetime: 2026-10-19 23:45:52.923858
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Intuniv
 
 [RSS](/en/individual-human-medicine.xml/65606)
 
-##### Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
-guanfacine Medicine Human Authorised
+guanfacine
+
+Medicine Human Authorised
 
 Page contents
 
@@ -36,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Intuniv](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-90238)
 - [More information on Intuniv](#related-medicines)
 - [Topics](#topics)
 
@@ -53,7 +56,7 @@ Expand section
 
 Collapse section
 
-## What is Intuniv and what is it used for?
+### What is Intuniv and what is it used for?
 
 Intuniv is used to treat attention deficit hyperactivity disorder (ADHD) in children and adolescents aged 6 to 17 years when stimulant medicines are not appropriate or do not control their symptoms well enough.
 
@@ -61,7 +64,7 @@ Intuniv is used as part of a comprehensive treatment programme that typically in
 
 The active substance in Intuniv is guanfacine.
 
-## How is Intuniv used?
+### How is Intuniv used?
 
 Intuniv treatment must be started by a doctor specialised in childhood or adolescent behavioural problems. Before starting treatment, the doctor should carry out checks to see whether the patient is at risk of side effects of the medicine (particularly sleepiness, effects on heart rate and blood pressure, and weight gain).
 
@@ -71,11 +74,11 @@ The medicine is available as tablets (1, 2, 3 and 4 mg). The recommended startin
 
 The medicine can only be obtained with a prescription.
 
-## How does Intuniv work?
+### How does Intuniv work?
 
 The way Intuniv works in ADHD is not established. It is thought that the active substance, guanfacine, might influence the way signals are transmitted between cells in areas of the brain called the prefrontal cortex and basal ganglia by attaching to certain receptors that are heavily concentrated in these areas.
 
-## What benefits of Intuniv have been shown in studies?
+### What benefits of Intuniv have been shown in studies?
 
 Several studies have shown Intuniv improving ADHD symptom scores (ADHD-RS-IV) in children and adolescents.
 
@@ -83,7 +86,7 @@ In a study of 337 children aged 6 to 17 years, the reduction in ADHD symptoms wi
 
 Intuniv was also evaluated in terms of treatment failures (based either on worsening of ADHD symptoms or patients stopping treatment). In a long-term maintenance study in 301 children and adolescents aged 6 to 17 years treatment failures occurred in 49% of patients taking Intuniv compared with 65% of those taking placebo.
 
-## What are the risks associated with Intuniv?
+### What are the risks associated with Intuniv?
 
 The most common side effects with Intuniv are sleepiness (in nearly half of all patients), headache (in more than a quarter), tiredness (in about 1 patient in 5), and upper abdominal pain and sedation (both in around 1 in 10). Sleepiness usually begins at the start of treatment and lasts for 2 to 3 weeks.
 
@@ -91,7 +94,7 @@ More serious side effects are less common and include: low blood pressure and we
 
 For the full list of all side effects and restrictions, see the package leaflet.
 
-## Why is Intuniv approved?
+### Why is Intuniv approved?
 
 The Agency's Committee for Medicinal Products for Human Use (CHMP) noted that stimulant medicines are first line treatments for ADHD and that these medicines provide a larger and more consistent improvement in ADHD symptoms as part of a comprehensive treatment programme. However, given the benefits seen with Intuniv, the Committee concluded that the medicine can be used as an alternative in patients who cannot take stimulants or in patients in whom stimulants do not control their symptoms well enough.
 
@@ -99,7 +102,7 @@ The most important safety risks are slow heart rate, low blood pressure, faintin
 
 The CHMP therefore concluded that the benefits of Intuniv outweigh the risks recommended that it be approved for authorisation in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Intuniv?
+### What measures are being taken to ensure the safe and effective use of Intuniv?
 
 A risk management plan has been developed to ensure that Intuniv is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Intuniv, including the appropriate precautions to be followed by healthcare professionals and patients.
 
@@ -107,7 +110,7 @@ The company that markets Intuniv must also provide nationally agreed educational
 
 Further information can be found in the [Intuniv : EPAR - Risk management plan](/en/documents/rmp/intuniv-epar-risk-management-plan_en.pdf) .
 
-## Other information about Intuniv
+### Other information about Intuniv
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Intuniv on 17 September 2015.
 
@@ -119,285 +122,149 @@ Reference Number: EMA/597493/2015
 
 English (EN) (77.71 KB - PDF)
 
-**First published:** 06/10/2015
-
-**Last updated:** 06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/en/documents/overview/intuniv-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-208)
+[Other languages (22)](#file-language-dropdown-475)
 
 български (BG) (104.66 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/bg/documents/overview/intuniv-epar-summary-public_bg.pdf)
 
 español (ES) (76.17 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/es/documents/overview/intuniv-epar-summary-public_es.pdf)
 
 čeština (CS) (103.7 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/cs/documents/overview/intuniv-epar-summary-public_cs.pdf)
 
 dansk (DA) (74.85 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/da/documents/overview/intuniv-epar-summary-public_da.pdf)
 
 Deutsch (DE) (77.79 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/de/documents/overview/intuniv-epar-summary-public_de.pdf)
 
-eesti keel (ET) (75.04 KB - PDF)
+eesti (ET) (75.04 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/et/documents/overview/intuniv-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (105.56 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/el/documents/overview/intuniv-epar-summary-public_el.pdf)
 
 français (FR) (76.97 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/fr/documents/overview/intuniv-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (98.09 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/hr/documents/overview/intuniv-epar-summary-public_hr.pdf)
 
 italiano (IT) (76.02 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/it/documents/overview/intuniv-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (100.02 KB - PDF)
+latviešu (LV) (100.02 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/lv/documents/overview/intuniv-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (85.16 KB - PDF)
+lietuvių (LT) (85.16 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/lt/documents/overview/intuniv-epar-summary-public_lt.pdf)
 
 magyar (HU) (99.57 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/hu/documents/overview/intuniv-epar-summary-public_hu.pdf)
 
 Malti (MT) (103.7 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/mt/documents/overview/intuniv-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (76.01 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/nl/documents/overview/intuniv-epar-summary-public_nl.pdf)
 
 polski (PL) (104.09 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/pl/documents/overview/intuniv-epar-summary-public_pl.pdf)
 
 português (PT) (76.3 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/pt/documents/overview/intuniv-epar-summary-public_pt.pdf)
 
 română (RO) (99.41 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/ro/documents/overview/intuniv-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (102.94 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/sk/documents/overview/intuniv-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (97.4 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/sl/documents/overview/intuniv-epar-summary-public_sl.pdf)
 
-Suomi (FI) (74.84 KB - PDF)
+suomi (FI) (74.84 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/fi/documents/overview/intuniv-epar-summary-public_fi.pdf)
 
 svenska (SV) (82.06 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/sv/documents/overview/intuniv-epar-summary-public_sv.pdf)
 
 Intuniv : EPAR - Risk management plan
 
-English (EN) (644.47 KB - PDF)
+English (EN) (586.29 KB - PDF)
 
-**First published:** 06/10/2015
-
-**Last updated:** 10/06/2024
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/en/documents/rmp/intuniv-epar-risk-management-plan_en.pdf)
 
@@ -405,311 +272,168 @@ English (EN) (644.47 KB - PDF)
 
 Intuniv : EPAR - Product Information
 
-English (EN) (341.84 KB - PDF)
+English (EN) (307.15 KB - PDF)
 
-**First published:** 06/10/2015
-
-**Last updated:** 16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/en/documents/product-information/intuniv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-715)
+[Other languages (24)](#file-language-dropdown-786)
 
-български (BG) (1.41 MB - PDF)
+български (BG) (455.26 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/bg/documents/product-information/intuniv-epar-product-information_bg.pdf)
 
-español (ES) (366.19 KB - PDF)
+español (ES) (317.4 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/es/documents/product-information/intuniv-epar-product-information_es.pdf)
 
-čeština (CS) (728.1 KB - PDF)
+čeština (CS) (446.26 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/cs/documents/product-information/intuniv-epar-product-information_cs.pdf)
 
-dansk (DA) (384.34 KB - PDF)
+dansk (DA) (311.24 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/da/documents/product-information/intuniv-epar-product-information_da.pdf)
 
-Deutsch (DE) (407.39 KB - PDF)
+Deutsch (DE) (331.37 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/de/documents/product-information/intuniv-epar-product-information_de.pdf)
 
-eesti keel (ET) (330.67 KB - PDF)
+eesti (ET) (319.87 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/et/documents/product-information/intuniv-epar-product-information_et.pdf)
 
-ελληνικά (EL) (787.12 KB - PDF)
+ελληνικά (EL) (500.28 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/el/documents/product-information/intuniv-epar-product-information_el.pdf)
 
-français (FR) (355.36 KB - PDF)
+français (FR) (334.89 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/fr/documents/product-information/intuniv-epar-product-information_fr.pdf)
 
-hrvatski (HR) (677.73 KB - PDF)
+hrvatski (HR) (418.53 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/hr/documents/product-information/intuniv-epar-product-information_hr.pdf)
 
-íslenska (IS) (380.84 KB - PDF)
+italiano (IT) (328.86 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
-
-[View](/is/documents/product-information/intuniv-epar-product-information_is.pdf)
-
-italiano (IT) (345.36 KB - PDF)
-
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/it/documents/product-information/intuniv-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (693.78 KB - PDF)
+latviešu (LV) (399.05 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/lv/documents/product-information/intuniv-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (689.83 KB - PDF)
+lietuvių (LT) (398.57 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/lt/documents/product-information/intuniv-epar-product-information_lt.pdf)
 
-magyar (HU) (530.62 KB - PDF)
+magyar (HU) (411.25 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/hu/documents/product-information/intuniv-epar-product-information_hu.pdf)
 
-Malti (MT) (725.17 KB - PDF)
+Malti (MT) (477.93 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/mt/documents/product-information/intuniv-epar-product-information_mt.pdf)
 
-Nederlands (NL) (400.25 KB - PDF)
+Nederlands (NL) (323.46 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/nl/documents/product-information/intuniv-epar-product-information_nl.pdf)
 
-norsk (NO) (378.57 KB - PDF)
+polski (PL) (445.78 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
-
-[View](/no/documents/product-information/intuniv-epar-product-information_no.pdf)
-
-polski (PL) (762.48 KB - PDF)
-
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/pl/documents/product-information/intuniv-epar-product-information_pl.pdf)
 
-português (PT) (411.25 KB - PDF)
+português (PT) (320.65 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/pt/documents/product-information/intuniv-epar-product-information_pt.pdf)
 
-română (RO) (707.32 KB - PDF)
+română (RO) (431.31 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/ro/documents/product-information/intuniv-epar-product-information_ro.pdf)
 
-slovenčina (SK) (732.26 KB - PDF)
+slovenčina (SK) (425.95 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/sk/documents/product-information/intuniv-epar-product-information_sk.pdf)
 
-slovenščina (SL) (618.15 KB - PDF)
+slovenščina (SL) (408.13 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/sl/documents/product-information/intuniv-epar-product-information_sl.pdf)
 
-Suomi (FI) (350.48 KB - PDF)
+suomi (FI) (318.07 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/fi/documents/product-information/intuniv-epar-product-information_fi.pdf)
 
-svenska (SV) (348.37 KB - PDF)
+svenska (SV) (310.5 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-16/01/2026
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
 
 [View](/sv/documents/product-information/intuniv-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0033/G 16/05/2024
+Íslenska (IS) (306.69 KB - PDF)
+
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
+
+[View](/is/documents/product-information/intuniv-epar-product-information_is.pdf)
+
+norsk (NO) (306.75 KB - PDF)
+
+**First published:** 06/10/2015 **Last updated:** 13/10/2026
+
+[View](/no/documents/product-information/intuniv-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000334464
+
+03/09/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -723,293 +447,162 @@ Intuniv : EPAR - All Authorised presentations
 
 English (EN) (7.19 KB - PDF)
 
-**First published:** 06/10/2015
-
-**Last updated:** 06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/en/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-391)
+[Other languages (23)](#file-language-dropdown-526)
 
 български (BG) (87.78 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/bg/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (7.71 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/es/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (84.21 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/cs/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (7.17 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/da/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (7.25 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/de/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (7.36 KB - PDF)
+eesti (ET) (7.36 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/et/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (82.29 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/el/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (7.29 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/fr/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (82.9 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/hr/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (7.24 KB - PDF)
-
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
-
-[View](/is/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (7.34 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/it/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (83.56 KB - PDF)
+latviešu (LV) (83.56 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/lv/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_lv.pdf)
 
 magyar (HU) (83.86 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/hu/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (83.27 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/mt/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (31.47 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/nl/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (7.18 KB - PDF)
-
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
-
-[View](/no/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (86.37 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/pl/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (7.37 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/pt/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (81.41 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/ro/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (88.95 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/sk/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (81.34 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/sl/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (7.14 KB - PDF)
+suomi (FI) (7.14 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/fi/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (7.27 KB - PDF)
 
-**First published:**
-
-06/10/2015
-
-**Last updated:**
-
-06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/sv/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (7.24 KB - PDF)
+
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
+
+[View](/is/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (7.18 KB - PDF)
+
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
+
+[View](/no/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Intuniv Active substance guanfacine hydrochloride International non-proprietary name (INN) or common name guanfacine Therapeutic area (MeSH) Attention Deficit Disorder with Hyperactivity Anatomical therapeutic chemical (ATC) code C02AC02
+- **Name of medicine**
+    - Intuniv
+- **Active substance**
+    - guanfacine hydrochloride
+- **International non-proprietary name (INN) or common name**
+    - guanfacine
+- **Therapeutic area (MeSH)**
+    - Attention Deficit Disorder with Hyperactivity
+- **Anatomical therapeutic chemical (ATC) code**
+    - C02AC02
 
 ### Pharmacotherapeutic group
 
@@ -1024,19 +617,21 @@ Intuniv must be used as a part of a comprehensive ADHD treatment programme, typi
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003759
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Takeda Pharmaceuticals International AG Ireland
-
-Branch Block 2 Miesian Plaza 50 -58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-Marketing authorisation issued 17/09/2015 Revision 13
+- **EMA product number**
+    - EMEA/H/C/003759
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Takeda Pharmaceuticals International AG Ireland Branch  
+Block 2 Miesian Plaza  
+50 -58 Baggot Street Lower  
+Dublin 2  
+D02 HW68  
+Ireland
+- **Marketing authorisation issued**
+    - 17/09/2015
+- **Revision**
+    - 15
 
 ## Assessment history
 
@@ -1044,13 +639,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Intuniv : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (175.18 KB - PDF)
+English (EN) (194.84 KB - PDF)
 
-**First published:** 16/01/2026
+**First published:** 16/01/2026 **Last updated:** 13/10/2026
 
 [View](/en/documents/procedural-steps-after/intuniv-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1058,9 +653,7 @@ Intuniv : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (193.62 KB - PDF)
 
-**First published:** 08/11/2016
-
-**Last updated:** 16/01/2026
+**First published:** 08/11/2016 **Last updated:** 16/01/2026
 
 [View](/en/documents/procedural-steps-after/intuniv-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1072,7 +665,7 @@ English (EN) (126.46 KB - PDF)
 
 **First published:** 29/03/2022
 
-[View](/en/documents/scientific-conclusion/intuniv-h-c-psusa-00010413-202103-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/intuniv-h-c-psusa-00010413-202103-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Intuniv-H-C-PSUSA-0010413-01609 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
@@ -1080,73 +673,221 @@ Reference Number: EMA/390469/2017
 
 English (EN) (65.17 KB - PDF)
 
-**First published:** 20/06/2017
+**First published:** 20/06/2017 **Last updated:** 20/06/2017
 
-**Last updated:** 20/06/2017
-
-[View](/en/documents/scientific-conclusion/intuniv-h-c-psusa-0010413-01609-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/intuniv-h-c-psusa-0010413-01609-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Intuniv-H-C-3759-P46 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/61393/2017
+Adopted Reference Number: EMA/CHMP/61393/2017
 
 English (EN) (818.57 KB - PDF)
 
-**First published:** 30/01/2017
-
-**Last updated:** 30/01/2017
+**First published:** 30/01/2017 **Last updated:** 30/01/2017
 
 [View](/en/documents/variation-report/intuniv-h-c-3759-p46-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Intuniv : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/534329/2015
+Adopted Reference Number: EMA/CHMP/534329/2015
 
 English (EN) (1.27 MB - PDF)
 
-**First published:** 06/10/2015
-
-**Last updated:** 06/10/2015
+**First published:** 06/10/2015 **Last updated:** 06/10/2015
 
 [View](/en/documents/assessment-report/intuniv-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Intuniv
 
-Adopted
-
-Reference Number: EMA/CHMP/450088/2015
+Adopted Reference Number: EMA/CHMP/450088/2015
 
 English (EN) (68.02 KB - PDF)
 
-**First published:** 24/07/2015
-
-**Last updated:** 24/07/2015
+**First published:** 24/07/2015 **Last updated:** 24/07/2015
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-intuniv_en.pdf)
 
-#### News on Intuniv
+## News on Intuniv
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2015) 24/07/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2015)
 
-[EMA recommends approval of treatment for attention deficit hyperactivity disorder](/en/news/ema-recommends-approval-treatment-attention-deficit-hyperactivity-disorder) 24/07/2015
+24/07/2015
 
-#### More information on Intuniv
+[EMA recommends approval of treatment for attention deficit hyperactivity disorder](/en/news/ema-recommends-approval-treatment-attention-deficit-hyperactivity-disorder)
+
+24/07/2015
+
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Intuniv : EPAR - Product information - tracked changes
+
+English (EN) (94.65 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/en/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-900)
+
+български (BG) (102.85 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/bg/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (140.64 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/es/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (106.54 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/cs/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (102.63 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/da/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (103.48 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/de/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_de.docx)
+
+eesti (ET) (95.25 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/et/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (107.41 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/el/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (100.13 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/fr/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (96.23 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/hr/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_hr.docx)
+
+italiano (IT) (97.23 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/it/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_it.docx)
+
+latviešu (LV) (93.89 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/lv/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių (LT) (95.21 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/lt/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (106.99 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/hu/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (94.43 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/mt/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (97.18 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/nl/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_nl.docx)
+
+polski (PL) (99.58 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/pl/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (97.6 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/pt/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (94.87 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/ro/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (105.61 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/sk/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (98.85 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/sl/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_sl.docx)
+
+suomi (FI) (102.36 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/fi/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (96.69 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/sv/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (96.31 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/is/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (97.23 KB - DOCX)
+
+**First published:** 13/10/2026
+
+[View](/no/documents/product-information-tracked-changes/intuniv-epar-product-information-tracked-changes_no.docx)
+
+## More information on Intuniv
 
 - [Drug utilisation study of Intuniv® (guanfacine extended release) in European Countries - A prescriber survey (Intuniv survey study Europe) - post-authorisation study](https://catalogues.ema.europa.eu/study/48514)
 - [Drug Utilisation Study of Intuniv® (guanfacine extended release) in European Countries, Study protocol I: Database study (Intuniv data base study Europe) - post-authorisation study](https://catalogues.ema.europa.eu/study/48508)
 
-#### Topics
+## Topics
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=topics%3A61)
 
-**This page was last updated on** 16/01/2026
+**This page was last updated on**
+
+13/10/2026
 
 ## Share this page
-
-[Back to top](#main-content)

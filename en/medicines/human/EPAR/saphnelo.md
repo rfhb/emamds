@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-09-11 16:45:00
+document_datetime: 2026-10-16 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/saphnelo.html
 document_name: saphnelo.html
 version: success
-processing_time: 0.1459761
-conversion_datetime: 2026-09-13 12:29:33.279202
+processing_time: 0.1680166
+conversion_datetime: 2026-10-19 23:51:47.962077
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.126.0
-  docling-core: 2.96.0
-  docling-ibm-models: 4.0.2
-  docling-parse: 7.19.1
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Saphnelo
 
 [RSS](/en/individual-human-medicine.xml/67533)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -108,7 +108,7 @@ English (EN) (116.95 KB - PDF)
 
 [View](/en/documents/overview/saphnelo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-875)
+[Other languages (22)](#file-language-dropdown-829)
 
 български (BG) (121.29 KB - PDF)
 
@@ -254,161 +254,161 @@ English (EN) (506.05 KB - PDF)
 
 Saphnelo : EPAR - Product Information
 
-English (EN) (927.32 KB - PDF)
+English (EN) (927.55 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 11/09/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/en/documents/product-information/saphnelo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-274)
+[Other languages (24)](#file-language-dropdown-991)
 
 български (BG) (1.02 MB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/bg/documents/product-information/saphnelo-epar-product-information_bg.pdf)
 
-español (ES) (849.35 KB - PDF)
+español (ES) (850.17 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/es/documents/product-information/saphnelo-epar-product-information_es.pdf)
 
 čeština (CS) (1.93 MB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/cs/documents/product-information/saphnelo-epar-product-information_cs.pdf)
 
-dansk (DA) (860.64 KB - PDF)
+dansk (DA) (860.9 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/da/documents/product-information/saphnelo-epar-product-information_da.pdf)
 
-Deutsch (DE) (1018.15 KB - PDF)
+Deutsch (DE) (1019.14 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/de/documents/product-information/saphnelo-epar-product-information_de.pdf)
 
-eesti (ET) (943.71 KB - PDF)
+eesti (ET) (973.08 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/et/documents/product-information/saphnelo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.01 MB - PDF)
+ελληνικά (EL) (1.02 MB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/el/documents/product-information/saphnelo-epar-product-information_el.pdf)
 
-français (FR) (1009.93 KB - PDF)
+français (FR) (1.01 MB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/fr/documents/product-information/saphnelo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (975.41 KB - PDF)
+hrvatski (HR) (975.79 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/hr/documents/product-information/saphnelo-epar-product-information_hr.pdf)
 
-italiano (IT) (993.68 KB - PDF)
+italiano (IT) (994.6 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/it/documents/product-information/saphnelo-epar-product-information_it.pdf)
 
-latviešu (LV) (989.55 KB - PDF)
+latviešu (LV) (989.88 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/lv/documents/product-information/saphnelo-epar-product-information_lv.pdf)
 
-lietuvių (LT) (998.21 KB - PDF)
+lietuvių (LT) (998.6 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/lt/documents/product-information/saphnelo-epar-product-information_lt.pdf)
 
-magyar (HU) (1011.64 KB - PDF)
+magyar (HU) (1012.5 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/hu/documents/product-information/saphnelo-epar-product-information_hu.pdf)
 
 Malti (MT) (1.01 MB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/mt/documents/product-information/saphnelo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (912.73 KB - PDF)
+Nederlands (NL) (913.53 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/nl/documents/product-information/saphnelo-epar-product-information_nl.pdf)
 
 polski (PL) (1.04 MB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/pl/documents/product-information/saphnelo-epar-product-information_pl.pdf)
 
-português (PT) (932.01 KB - PDF)
+português (PT) (932.87 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/pt/documents/product-information/saphnelo-epar-product-information_pt.pdf)
 
-română (RO) (995.22 KB - PDF)
+română (RO) (995.67 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/ro/documents/product-information/saphnelo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1017.32 KB - PDF)
+slovenčina (SK) (1017.64 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 11/09/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/sk/documents/product-information/saphnelo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1003.39 KB - PDF)
+slovenščina (SL) (1003.62 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 11/09/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/sl/documents/product-information/saphnelo-epar-product-information_sl.pdf)
 
-suomi (FI) (900.56 KB - PDF)
+suomi (FI) (900.78 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/fi/documents/product-information/saphnelo-epar-product-information_fi.pdf)
 
-svenska (SV) (963.25 KB - PDF)
+svenska (SV) (964.04 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 11/09/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/sv/documents/product-information/saphnelo-epar-product-information_sv.pdf)
 
-Íslenska (IS) (910.76 KB - PDF)
+Íslenska (IS) (910.94 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 11/09/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/is/documents/product-information/saphnelo-epar-product-information_is.pdf)
 
-norsk (NO) (865.69 KB - PDF)
+norsk (NO) (865.92 KB - PDF)
 
-**First published:** 21/02/2022 **Last updated:** 15/07/2026
+**First published:** 21/02/2022 **Last updated:** 16/10/2026
 
 [View](/no/documents/product-information/saphnelo-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** R/0000335943
+**Latest procedure affecting product information:** VR/0000362934
 
-27/08/2026
+08/10/2026
 
 icon globe
 
@@ -433,7 +433,7 @@ English (EN) (42.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/saphnelo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-38)
+[Other languages (23)](#file-language-dropdown-895)
 
 български (BG) (49.85 KB - PDF)
 
@@ -601,13 +601,14 @@ Saphnelo is indicated as an add-on therapy for the treatment of adult patients w
 - **Additional monitoring**
     - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
 - **Marketing authorisation holder**
-    - AstraZeneca AB SE-151 85 Sodertalje  Sweden
+    - AstraZeneca AB SE-151 85 Sodertalje  
+Sweden
 - **Opinion adopted**
     - 16/12/2021
 - **Marketing authorisation issued**
     - 14/02/2022
 - **Revision**
-    - 11
+    - 12
 
 ## Assessment history
 
@@ -619,9 +620,9 @@ Collapse section
 
 Saphnelo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (134.73 KB - PDF)
+English (EN) (140.21 KB - PDF)
 
-**First published:** 28/01/2026 **Last updated:** 11/09/2026
+**First published:** 28/01/2026 **Last updated:** 16/10/2026
 
 [View](/en/documents/procedural-steps-after/saphnelo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -687,6 +688,6 @@ English (EN) (125.71 KB - PDF)
 
 **This page was last updated on**
 
-11/09/2026
+16/10/2026
 
 ## Share this page

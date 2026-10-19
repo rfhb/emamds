@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-18 15:52:13
-document_pages: 190
+document_datetime: 2026-10-16 09:25:50
+document_pages: 191
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/stelara-epar-product-information_en.pdf
 document_name: stelara-epar-product-information_en.pdf
 version: success
-processing_time: 54.4490701
-conversion_datetime: 2026-08-23 00:50:53.761564
+processing_time: 80.0547842
+conversion_datetime: 2026-10-19 23:12:48.753515
 docling_version:
-  docling-serve: 1.31.0
-  docling-jobkit: 3.4.0
-  docling: 2.121.0
-  docling-core: 2.92.0
-  docling-ibm-models: 3.14.0
-  docling-parse: 7.15.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -68,7 +68,7 @@ STELARA concentrate for solution for infusion is intended for use under the guid
 
 ## Posology
 
-## Crohn's disease and ulcerative colitis
+## Crohn ' s disease and ulcerative colitis
 
 STELARA treatment is to be initiated with a single intravenous dose based on body weight. The infusion solution is to be composed of the number of vials of STELARA 130 mg as specified in Table 1 (see section 6.6 for preparation).
 
@@ -215,7 +215,7 @@ No overall differences in efficacy or safety in patients age 65 and older who re
 
 ## Sodium content
 
-STELARA contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium-free'. STELARA is however, diluted in sodium chloride 9 mg/mL (0.9%) solution for infusion. This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
+STELARA contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially 'sodium-free' . STELARA is however, diluted in sodium chloride 9 mg/mL (0.9%) solution for infusion. This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
 
 ## Polysorbate 80 content
 
@@ -249,9 +249,7 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of STELARA in pregnancy.
 
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients
-
-treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -297,8 +295,6 @@ Table 4: List of adverse reactions
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                          |
 | General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia               |
 
-* See section 4.4, Systemic and respiratory hypersensitivity reactions.
-
 ## Description of selected adverse reactions
 
 ## Infections
@@ -319,7 +315,7 @@ In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, 
 
 ## Hypersensitivity and infusion reactions
 
-In adult Crohn's disease and ulcerative colitis intravenous induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose. In these studies, 2.2% of 785 placebo-treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion. In the paediatric Crohn's disease study, there was one serious and one non-serious infusion reaction. In the paediatric ulcerative colitis study, there was one serious and two non-serious infusion reactions. Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting (see section 4.4).
+In adult Crohn's disease and ulcerative colitis intravenous induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose. In these studies, 2.2% of 785 placebo-treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion. In the paediatric Crohn's disease study, there was one serious and one non-serious infusion reaction. In the paediatric ulcerative colitis study, there was one serious and two non-serious infusion reactions. Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting (see section 4.4). In the post-marketing setting, some cases of serious hypersensitivity reactions have been reported in patients with a history of alpha-gal syndrome, allergy to mammalian meat or meat products, or anti-alpha-gal IgE. In most of these cases the reactions occurred at the time of initial administration.
 
 ## Paediatric population
 
@@ -327,7 +323,7 @@ In adult Crohn's disease and ulcerative colitis intravenous induction studies, n
 
 The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
 
-## Paediatric patients 2 years and older with Crohn's disease
+## Paediatric patients 2 years and older with Crohn ' s disease
 
 The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease. 34 patients in the phase 1 study were followed up to 240 weeks and 101 patients in the phase 3 study were followed up to 68 weeks, respectively. In general, the safety profile was similar to that seen in previous studies in adults with Crohn's disease.
 
@@ -367,7 +363,7 @@ During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 ## Clinical efficacy
 
-## Crohn's disease
+## Crohn ' s disease
 
 The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebo-controlled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development programme consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
@@ -385,23 +381,20 @@ In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were
 
 Table 5: Induction of clinical response and remission in UNITI-1 and UNITI-2
 
-|                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2 **      | UNITI-2 **                              |
-|---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
-|                                       | Placebo N = 247 | Recommended dose of ustekinumab N = 249 | Placebo N = 209 | Recommended dose of ustekinumab N = 209 |
-| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                            | 41 (19.6%)      | 84 (40.2%) a                            |
-| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                            | 60 (28.7%)      | 116 (55.5%) a                           |
-| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                            | 67 (32.1%)      | 121 (57.9%) a                           |
-| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
-| 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
+|                                       | UNITI-1* - Placebo N = 247   | UNITI-1* - Recommended dose of ustekinumab N = 249   | UNITI-2** - Placebo N = 209   | UNITI-2** - Recommended dose of ustekinumab N = 209   |
+|---------------------------------------|------------------------------|------------------------------------------------------|-------------------------------|-------------------------------------------------------|
+| Clinical Remission, week 8            | 18 (7.3%)                    | 52 (20.9%) a                                         | 41 (19.6%)                    | 84 (40.2%) a                                          |
+| Clinical Response (100 point), week 6 | 53 (21.5%)                   | 84 (33.7%) b                                         | 60 (28.7%)                    | 116 (55.5%) a                                         |
+| Clinical Response (100 point), week 8 | 50 (20.2%)                   | 94 (37.8%) a                                         | 67 (32.1%)                    | 121 (57.9%) a                                         |
+| 70 Point Response, week 3             | 67 (27.1%)                   | 101 (40.6%) b                                        | 66 (31.6%)                    | 106 (50.7%) a                                         |
+| 70 Point Response, week 6             | 75 (30.4%)                   | 109 (43.8%) b                                        | 81 (38.8%)                    | 135 (64.6%) a                                         |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
 
 70 point response is defined as reduction in CDAI score by at least 70 points
 
 * Anti-TNFα failures
-
-** Conventional therapy failures
-
+- ** Conventional therapy failures
 - a p &lt; 0.001
 - b p &lt; 0.01
 
@@ -496,7 +489,7 @@ Table 7: Summary of key efficacy outcomes in UNIFI-I (week 8)
 | Symptomatic Remission ‡                                         | 23%          | 45% b          |
 | Combined Symptomatic Remission and Mucosal Healing ⸸            | 8%           | 21% b          |
 
-- £ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1 .
+- £ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1.
 * Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
 - § Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
 - ¥ A TNFα antagonist and/or vedolizumab.
@@ -513,22 +506,22 @@ Significantly greater proportions of patients were in clinical remission in both
 
 Table 8: Summary of key efficacy measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
 
-|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8 Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
-|-----------------------------------------------------------------|--------------------|-------------------------------------------|--------------------------------------------|
-| Clinical Remission**                                            | 24%                | 44% a                                     | 38% b                                      |
-| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                             | 49% (50/102) d                             |
-| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                             | 23% (16/70) d                              |
-| In patients who failed both a TNF and vedolizumab               | 15% (4/27)         | 33% (7/21) e                              | 23% (5/22) e                               |
-| Maintenance of Clinical Response through week 44 §              | 45%                | 71% a                                     | 68% a                                      |
-| In patients who failed conventional therapy, but not a biologic | 51% (44/87)        | 78% (66/85) c                             | 77% (78/102) c                             |
-| In patients who failed biological therapy ¥                     | 39% (34/88)        | 65% (59/91) c                             | 56% (39/70) d                              |
-| In patients who failed both a TNF and vedolizumab               | 41% (11/27)        | 67% (14/21) e                             | 50% (11/22) e                              |
-| Mucosal Healing †                                               | 29%                | 51% a                                     | 44% b                                      |
-| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)        | 58% (22/38)                               | 65% (26/40) c                              |
-| Corticosteroid Free Clinical Remission €                        | 23%                | 42% a                                     | 38% b                                      |
-| Durable Remission ǁ                                             | 35%                | 57% c                                     | 48% d                                      |
-| Symptomatic Remission ‡                                         | 45%                | 68% c                                     | 62% d                                      |
-| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%                | 48% c                                     | 41% d                                      |
+|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
+|-----------------------------------------------------------------|--------------------|------------------------------------------|--------------------------------------------|
+| Clinical Remission**                                            | 24%                | 44% a                                    | 38% b                                      |
+| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                            | 49% (50/102) d                             |
+| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                            | 23% (16/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 15% (4/27)         | 33% (7/21) e                             | 23% (5/22) e                               |
+| Maintenance of Clinical Response through week 44 §              | 45%                | 71% a                                    | 68% a                                      |
+| In patients who failed conventional therapy, but not a biologic | 51% (44/87)        | 78% (66/85) c                            | 77% (78/102) c                             |
+| In patients who failed biological therapy ¥                     | 39% (34/88)        | 65% (59/91) c                            | 56% (39/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 41% (11/27)        | 67% (14/21) e                            | 50% (11/22) e                              |
+| Mucosal Healing †                                               | 29%                | 51% a                                    | 44% b                                      |
+| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)        | 58% (22/38)                              | 65% (26/40) c                              |
+| Corticosteroid Free Clinical Remission €                        | 23%                | 42% a                                    | 38% b                                      |
+| Durable Remission ǁ                                             | 35%                | 57% c                                    | 48% d                                      |
+| Symptomatic Remission ‡                                         | 45%                | 68% c                                    | 62% d                                      |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%                | 48% c                                    | 41% d                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -596,7 +589,7 @@ Antibodies to ustekinumab may develop during ustekinumab treatment and most are 
 
 <div style=\"page-break-after: always\"></div>
 
-## Paediatric Crohn's disease
+## Paediatric Crohn ' s disease
 
 The safety and efficacy of ustekinumab was evaluated in 101 paediatric patients 2 years and older and weighing at least 10 kg in a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt;30) through 48 weeks of treatment (8 weeks of induction and 40 weeks of maintenance treatment). The study enrolled 2 patients between 2 to 5 years old and 18 patients between 6 to 11 years old; 29 patients weighed less than 40 kg, including 11 patients who weighed less than 30 kg. Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (patients weighing at least 40 kg) or 250 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab (patients weighing at least 40 kg) or 60 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC) administered either every 8 weeks or every 12 weeks.
 
@@ -620,9 +613,7 @@ Table 9: Summary of secondary endpoints through maintenance week 44
 | Clinical Response †                                                                  | 56.1% (23/41)                                         | 63.6% (28/44)                                          | 60.0% (51/85)                     |
 | Endoscopic response £                                                                | 25.0% (10/40)                                         | 30.2% (13/43)                                          | 27.7% (23/83)                     |
 
-*
-
-Clinical remission is defined as PCDAI score ≤10 points.
+* Clinical remission is defined as PCDAI score ≤10 points.
 
 § Corticosteroid-free remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to maintenance week 44.
 
@@ -683,7 +674,8 @@ Table 10: Summary of secondary endpoints through maintenance week 44
 
 ** Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0, where the stool frequency subscore has not increased from induction baseline.
 
-- § Corticosteroid-free clinical remission is defined as a Mayo stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline; and not receiving corticosteroids for at least 90 days prior to maintenance week 44.
+§ Corticosteroid-free clinical remission is defined as a Mayo stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline; and not receiving corticosteroids for at least 90 days prior to maintenance week 44.
+
 - £ Endoscopic improvement is defined as a Mayo endoscopy subscore of 0 or 1 with no friability present on the endoscopy.
 - ⸸ Histologic-endoscopic mucosal improvement based on Geboes score (GS) is defined as achieving a combination of histologic improvement (neutrophil infiltration in &lt;5% of crypts, no crypt destruction, and no erosions, ulcerations or granulation tissue according to the Geboes grading system) and endoscopic improvement (a Mayo endoscopy subscore of 0 or 1 with no friability present in the endoscopy).
 
@@ -721,7 +713,7 @@ The exact metabolic pathway for ustekinumab is unknown.
 
 ## Elimination
 
-Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2 ) of ustekinumab was approximately 3 weeks in patients with ulcerative colitis, Crohn's disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
+Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with ulcerative colitis, Crohn's disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
 
 ## Dose linearity
 
@@ -769,9 +761,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Chemical and physical in-use stability has been demonstrated for 8 hours at 15-25 °C.
 
-From a microbiological point of view, unless the method of dilution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user.
-
 <div style=\"page-break-after: always\"></div>
+
+From a microbiological point of view, unless the method of dilution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user.
 
 ## 6.4 Special precautions for storage
 
@@ -802,7 +794,7 @@ STELARA concentrate for solution for infusion must be diluted and prepared by a 
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV Turnhoutseweg 30
+Janssen-Cilag International NV
 
 <div style=\"page-break-after: always\"></div>
 
@@ -820,13 +812,9 @@ Date of first authorisation: 16 January 2009
 
 Date of latest renewal: 19 September 2013
 
-10.
-
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
-
-24
 
 <div style=\"page-break-after: always\"></div>
 
@@ -856,19 +844,19 @@ The solution is clear to slightly opalescent, colourless to light yellow, with a
 
 ## 4.1 Therapeutic indications
 
-## Plaque psoriasis
+Plaque psoriasis
 
 STELARA is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).
 
-## Paediatric plaque psoriasis
+Paediatric plaque psoriasis
 
 STELARA is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies (see section 5.1).
 
-## Psoriatic arthritis (PsA)
+Psoriatic arthritis (PsA)
 
 STELARA, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
 
-## Adult Crohn's disease
+Adult Crohn's disease
 
 STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
@@ -924,7 +912,9 @@ The safety and efficacy of STELARA in children with psoriasis less than 6 years 
 
 ## Paediatric plaque psoriasis (6 years and older)
 
-The recommended dose of STELARA based on body weight is shown below (Tables 1 and 2). STELARA should be administered at weeks 0 and 4, then every 12 weeks thereafter.
+The recommended dose of STELARA based on body weight is shown below (Tables 1 and 2).
+
+STELARA should be administered at weeks 0 and 4, then every 12 weeks thereafter.
 
 Table 1: Recommended dose of STELARA for paediatric psoriasis
 
@@ -992,7 +982,7 @@ Table 2: Injection volumes of STELARA for paediatric psoriasis patients &lt; 60 
 
 Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
 
-## Crohn's disease and ulcerative colitis
+## Crohn ' s disease and ulcerative colitis
 
 In the treatment regimen, the first dose of STELARA is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC.
 
@@ -1032,12 +1022,12 @@ In paediatric patients weighing less than 40 kg the recommended maintenance dose
 
 Table 3: Injection volumes for paediatric patients weighing less than 40 kg
 
-| BSA Range (m 2 ) of patient at time of dosing Body weight < 40 kg   | Recommended Dose (mg)   |   Volume of injection (mL) | Number of 45 mg/0.5mL Vials   |
-|---------------------------------------------------------------------|-------------------------|----------------------------|-------------------------------|
-| 0.40 to <0.62                                                       | 36 mg                   |                        0.4 | 1 vial                        |
-| 0.62 to <0.95                                                       | 45 mg                   |                        0.5 | 1 vial*                       |
-| 0.95 to <1.25                                                       | 63 mg                   |                        0.7 | 2 vials                       |
-| ≥1.25                                                               | 90 mg                   |                        1.0 | 2 vials*                      |
+| BSA Range (m 2 ) of patient at time of dosing Body weight < 40 kg   | Recommended Dose (mg)   |   Volume of injection (mL) | Number of 45 mg/0.5 mL Vials   |
+|---------------------------------------------------------------------|-------------------------|----------------------------|--------------------------------|
+| 0.40 to <0.62                                                       | 36 mg                   |                        0.4 | 1 vial                         |
+| 0.62 to <0.95                                                       | 45 mg                   |                        0.5 | 1 vial*                        |
+| 0.95 to <1.25                                                       | 63 mg                   |                        0.7 | 2 vials                        |
+| ≥1.25                                                               | 90 mg                   |                        1.0 | 2 vials*                       |
 
 * The pre-filled syringe (PFS) presentation may be used as an alternative to the 45 mg/0.5 mL vial for administration of the required dose
 
@@ -1187,9 +1177,7 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of STELARA in pregnancy.
 
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth.
-
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -1251,19 +1239,17 @@ In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, 
 
 ## Hypersensitivity reactions
 
-During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in &lt; 1% of patients (see section 4.4).
+During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in &lt; 1% of patients (see section 4.4). In the post-marketing setting, some cases of serious hypersensitivity reactions have been reported in patients with a history of alpha-gal syndrome, allergy to mammalian meat or meat products, or anti-alpha-gal IgE. In most of these cases the reactions occurred at the time of initial administration.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
 ## Paediatric patients 6 years and older with plaque psoriasis
 
-The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to
+The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
 
-<div style=\"page-break-after: always\"></div>
-
-56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
-
-## Paediatric patients 2 years and older with Crohn's disease
+## Paediatric patients 2 years and older with Crohn ' s disease
 
 The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease. 34 patients in the phase 1 study were followed up to 240 weeks and 101 patients in the phase 3 study were followed up to 68 weeks, respectively. In general, the safety profile was similar to that seen in previous studies in adults with Crohn's disease.
 
@@ -1289,11 +1275,11 @@ Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code:
 
 Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
+<div style=\"page-break-after: always\"></div>
+
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
 In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and faecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
-
-<div style=\"page-break-after: always\"></div>
 
 In patients with ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including CRP and faecal calprotectin during the induction phase, which was maintained throughout the maintenance phase and study extension through week 200.
 
@@ -1313,59 +1299,60 @@ Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients we
 
 Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at weeks 0 and 4, or ustekinumab 90 mg at weeks 0 and 4.
 
+<div style=\"page-break-after: always\"></div>
+
 Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area (BSA) ≥ 20, and median Dermatology Life Quality Index (DLQI) range from 10 to 12. Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA). Similar disease severity was also seen in Psoriasis Study 3.
 
 The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 5 and 6).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 5: Summary of clinical response in psoriasis study 1 (PHOENIX 1) and psoriasis study 2 (PHOENIX 2)
 
-|                                   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 28 3 doses (week 0, week 4 and week 16)   | Week 28 3 doses (week 0, week 4 and week 16)   |
-|-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------------------------------|------------------------------------------------|
-|                                   | PBO                                   | 45 mg                                 | 90 mg                                 | 45 mg                                          | 90 mg                                          |
-| Psoriasis Study 1                 |                                       |                                       |                                       |                                                |                                                |
-| Number of patients randomised     | 255                                   | 255                                   | 256                                   | 250                                            | 243                                            |
-| PASI 50 response N (%)            | 26 (10%)                              | 213 (84%) a                           | 220 (86%) a                           | 228 (91%)                                      | 234 (96%)                                      |
-| PASI 75 response N (%)            | 8 (3%)                                | 171 (67%) a                           | 170 (66%) a                           | 178 (71%)                                      | 191 (79%)                                      |
-| PASI 90 response N (%)            | 5 (2%)                                | 106 (42%) a                           | 94 (37%) a                            | 123 (49%)                                      | 135 (56%)                                      |
-| PGA b of cleared or minimal N (%) | 10 (4%)                               | 151 (59%) a                           | 156 (61%) a                           | 146 (58%)                                      | 160 (66%)                                      |
-| Number of patients ≤ 100 kg       | 166                                   | 168                                   | 164                                   | 164                                            | 153                                            |
-| PASI 75 response N (%)            | 6 (4%)                                | 124 (74%)                             | 107 (65%)                             | 130 (79%)                                      | 124 (81%)                                      |
-| Number of patients > 100 kg       | 89                                    | 87                                    | 92                                    | 86                                             | 90                                             |
-| PASI 75 response N (%)            | 2 (2%)                                | 47 (54%)                              | 63 (68%)                              | 48 (56%)                                       | 67 (74%)                                       |
-| Psoriasis Study 2                 |                                       |                                       |                                       |                                                |                                                |
-| Number of patients randomised     | 410                                   | 409                                   | 411                                   | 397                                            | 400                                            |
-| PASI 50 response N (%)            | 41 (10%)                              | 342 (84%) a                           | 367 (89%) a                           | 369 (93%)                                      | 380 (95%)                                      |
-| PASI 75 response N (%)            | 15 (4%)                               | 273 (67%) a                           | 311 (76%) a                           | 276 (70%)                                      | 314 (79%)                                      |
-| PASI 90 response N (%)            | 3 (1%)                                | 173 (42%) a                           | 209 (51%) a                           | 178 (45%)                                      | 217 (54%)                                      |
-| PGA b of cleared or minimal N (%) | 18 (4%)                               | 277 (68%) a                           | 300 (73%) a                           | 241 (61%)                                      | 279 (70%)                                      |
-| Number of patients ≤ 100 kg       | 290                                   | 297                                   | 289                                   | 287                                            | 280                                            |
-| PASI 75 response N (%)            | 12 (4%)                               | 218 (73%)                             | 225 (78%)                             | 217 (76%)                                      | 226 (81%)                                      |
-| Number of patients > 100 kg       | 120                                   | 112                                   | 121                                   | 110                                            | 119                                            |
-| PASI 75 response N (%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                       | 88 (74%)                                       |
+|                                   | Week 12 2 doses (week 0 and week 4) - PBO   | Week 12 2 doses (week 0 and week 4) - 45 mg   | Week 12 2 doses (week 0 and week 4) - 90 mg   | Week 28 3 doses (week 0, week 4 and week 16) - 45 mg   | Week 28 3 doses (week 0, week 4 and week 16) - 90 mg   |
+|-----------------------------------|---------------------------------------------|-----------------------------------------------|-----------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| Psoriasis Study 1                 |                                             |                                               |                                               |                                                        |                                                        |
+| Number of patients randomised     | 255                                         | 255                                           | 256                                           | 250                                                    | 243                                                    |
+| PASI 50 response N (%)            | 26 (10%)                                    | 213 (84%) a                                   | 220 (86%) a                                   | 228 (91%)                                              | 234 (96%)                                              |
+| PASI 75 response N (%)            | 8 (3%)                                      | 171 (67%) a                                   | 170 (66%) a                                   | 178 (71%)                                              | 191 (79%)                                              |
+| PASI 90 response N (%)            | 5 (2%)                                      | 106 (42%) a                                   | 94 (37%) a                                    | 123 (49%)                                              | 135 (56%)                                              |
+| PGA b of cleared or minimal N (%) | 10 (4%)                                     | 151 (59%) a                                   | 156 (61%) a                                   | 146 (58%)                                              | 160 (66%)                                              |
+| Number of patients ≤ 100 kg       | 166                                         | 168                                           | 164                                           | 164                                                    | 153                                                    |
+| PASI 75 response N (%)            | 6 (4%)                                      | 124 (74%)                                     | 107 (65%)                                     | 130 (79%)                                              | 124 (81%)                                              |
+| Number of patients > 100 kg       | 89                                          | 87                                            | 92                                            | 86                                                     | 90                                                     |
+| PASI 75 response N (%)            | 2 (2%)                                      | 47 (54%)                                      | 63 (68%)                                      | 48 (56%)                                               | 67 (74%)                                               |
+| Psoriasis Study 2                 |                                             |                                               |                                               |                                                        |                                                        |
+| Number of patients randomised     | 410                                         | 409                                           | 411                                           | 397                                                    | 400                                                    |
+| PASI 50 response N (%)            | 41 (10%)                                    | 342 (84%) a                                   | 367 (89%) a                                   | 369 (93%)                                              | 380 (95%)                                              |
+| PASI 75 response N (%)            | 15 (4%)                                     | 273 (67%) a                                   | 311 (76%) a                                   | 276 (70%)                                              | 314 (79%)                                              |
+| PASI 90 response N (%)            | 3 (1%)                                      | 173 (42%) a                                   | 209 (51%) a                                   | 178 (45%)                                              | 217 (54%)                                              |
+| PGA b of cleared or minimal N (%) | 18 (4%)                                     | 277 (68%) a                                   | 300 (73%) a                                   | 241 (61%)                                              | 279 (70%)                                              |
+| Number of patients ≤ 100 kg       | 290                                         | 297                                           | 289                                           | 287                                                    | 280                                                    |
+| PASI 75 response N (%)            | 12 (4%)                                     | 218 (73%)                                     | 225 (78%)                                     | 217 (76%)                                              | 226 (81%)                                              |
+| Number of patients > 100 kg       | 120                                         | 112                                           | 121                                           | 110                                                    | 119                                                    |
+| PASI 75 response N (%)            | 3 (3%)                                      | 55 (49%)                                      | 86 (71%)                                      | 59 (54%)                                               | 88 (74%)                                               |
 
 Table 6: Summary of clinical response at week 12 in psoriasis study 3 (ACCEPT)
 
-|                                 | Psoriasis Study 3                      | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|---------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                 | Etanercept 24 doses (50 mg twice week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                                 | a                                      | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised   | 347                                    | 209                                     | 347                                     |
-| PASI 50 response N (%)          | 286 (82%)                              | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response N (%)          | 197 (57%)                              | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N (%)          | 80 (23%)                               | 76 (36%) a                              | 155 (45%) a                             |
-| PGA of cleared or minimal N (%) | 170 (49%)                              | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg     | 251                                    | 151                                     | 244                                     |
-| PASI 75 response N (%)          | 154 (61%)                              | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg     | 96                                     | 58                                      | 103                                     |
-| PASI 75 response N (%)          | 43 (45%)                               | 32 (55%)                                | 67 (65%)                                |
-
-In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal)
+|                                 | Psoriasis Study 3 - Etanercept 24 doses (50 mg twice a week)   | Psoriasis Study 3 - Ustekinumab 2 doses (week 0 and week 4) - 45 mg   | Psoriasis Study 3 - Ustekinumab 2 doses (week 0 and week 4) - 90 mg   |
+|---------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Number of patients randomised   | 347                                                            | 209                                                                   | 347                                                                   |
+| PASI 50 response N (%)          | 286 (82%)                                                      | 181 (87%)                                                             | 320 (92%) a                                                           |
+| PASI 75 response N (%)          | 197 (57%)                                                      | 141 (67%) b                                                           | 256 (74%) a                                                           |
+| PASI 90 response N (%)          | 80 (23%)                                                       | 76 (36%) a                                                            | 155 (45%) a                                                           |
+| PGA of cleared or minimal N (%) | 170 (49%)                                                      | 136 (65%) a                                                           | 245 (71%) a                                                           |
+| Number of patients ≤ 100 kg     | 251                                                            | 151                                                                   | 244                                                                   |
+| PASI 75 response N (%)          | 154 (61%)                                                      | 109 (72%)                                                             | 189 (77%)                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-(p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
+| Number of patients > 100 kg   | 96       | 58       | 103      |
+|-------------------------------|----------|----------|----------|
+| PASI 75 response N (%)        | 43 (45%) | 32 (55%) | 67 (65%) |
+
+a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
+
+b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
+
+In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
 
 In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥ 50% of PASI improvement 85% regained PASI 75 response within 12 weeks after re-initiating therapy.
 
@@ -1383,37 +1370,30 @@ In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the pati
 
 Treatment with ustekinumab resulted in significant improvements in the measures of disease activity compared to placebo at week 24. The primary endpoint was the percentage of patients who achieved American College of Rheumatology (ACR) 20 response at week 24. The key efficacy results are shown in Table 7 below.
 
-Table 7: Number of patients who achieved clinical response in psoriatic arthritis study 1 (PSUMMIT I) and study 2 (PSUMMIT II) at week 24
-
-|                               | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
-|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|                               | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
-| Number of patients randomised | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
-| ACR 20 response, N (%)        | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
-
 <div style=\"page-break-after: always\"></div>
 
-| ACR 50 response, N (%)                      | 18 (9%)   | 51 (25%) a   | 57 (28%) a   | 7 (7%)   | 18 (17%) b   | 24 (23%) a   |
-|---------------------------------------------|-----------|--------------|--------------|----------|--------------|--------------|
-| ACR 70 response, N (%)                      | 5 (2%)    | 25 (12%) a   | 29 (14%) a   | 3 (3%)   | 7 (7%) c     | 9 (9%) c     |
-| Number of patients with ≥ 3% BSA d          | 146       | 145          | 149          | 80       | 80           | 81           |
-| PASI 75 response, N (%)                     | 16 (11%)  | 83 (57%) a   | 93 (62%) a   | 4 (5%)   | 41 (51%) a   | 45 (56%) a   |
-| PASI 90 response, N (%)                     | 4 (3%)    | 60 (41%) a   | 65 (44%) a   | 3 (4%)   | 24 (30%) a   | 36 (44%) a   |
-| Combined PASI 75 and ACR 20 response, N (%) | 8 (5%)    | 40 (28%) a   | 62 (42%) a   | 2 (3%)   | 24 (30%) a   | 31 (38%) a   |
-| Number of patients ≤ 100 kg                 | 154       | 153          | 154          | 74       | 74           | 73           |
-| ACR 20 response, N (%)                      | 39 (25%)  | 67 (44%)     | 78 (51%)     | 17 (23%) | 32 (43%)     | 34 (47%)     |
-| Number of patients with ≥ 3% BSA d          | 105       | 105          | 111          | 54       | 58           | 57           |
-| PASI 75 response, N (%)                     | 14 (13%)  | 64 (61%)     | 73 (66%)     | 4 (7%)   | 31 (53%)     | 32 (56%)     |
-| Number of patients > 100 kg                 | 52        | 52           | 50           | 30       | 29           | 31           |
-| ACR 20 response, N (%)                      | 8 (15%)   | 20 (38%)     | 23 (46%)     | 4 (13%)  | 13 (45%)     | 12 (39%)     |
-| Number of patients with ≥ 3% BSA d          | 41        | 40           | 38           | 26       | 22           | 24           |
-| PASI 75 response, N (%)                     | 2 (5%)    | 19 (48%)     | 20 (53%)     | 0        | 10 (45%)     | 13 (54%)     |
+Table 7: Number of patients who achieved clinical response in psoriatic arthritis study 1 (PSUMMIT I) and study 2 (PSUMMIT II) at week 24
 
-a p &lt; 0.001
+|                                             | Psoriatic arthritis Study 1 - PBO   | Psoriatic arthritis Study 1 - 45 mg   | Psoriatic arthritis Study 1 - 90 mg   | Psoriatic arthritis Study 2 - PBO   | Psoriatic arthritis Study 2 - 45 mg   | Psoriatic arthritis Study 2 - 90 mg   |
+|---------------------------------------------|-------------------------------------|---------------------------------------|---------------------------------------|-------------------------------------|---------------------------------------|---------------------------------------|
+| Number of patients randomised               | 206                                 | 205                                   | 204                                   | 104                                 | 103                                   | 105                                   |
+| ACR 20 response, N (%)                      | 47 (23%)                            | 87 (42%) a                            | 101 (50%) a                           | 21 (20%)                            | 45 (44%) a                            | 46 (44%) a                            |
+| ACR 50 response, N (%)                      | 18 (9%)                             | 51 (25%) a                            | 57 (28%) a                            | 7 (7%)                              | 18 (17%) b                            | 24 (23%) a                            |
+| ACR 70 response, N (%)                      | 5 (2%)                              | 25 (12%) a                            | 29 (14%) a                            | 3 (3%)                              | 7 (7%) c                              | 9 (9%) c                              |
+| Number of patients with ≥ 3% BSA d          | 146                                 | 145                                   | 149                                   | 80                                  | 80                                    | 81                                    |
+| PASI 75 response, N (%)                     | 16 (11%)                            | 83 (57%) a                            | 93 (62%) a                            | 4 (5%)                              | 41 (51%) a                            | 45 (56%) a                            |
+| PASI 90 response, N (%)                     | 4 (3%)                              | 60 (41%) a                            | 65 (44%) a                            | 3 (4%)                              | 24 (30%) a                            | 36 (44%) a                            |
+| Combined PASI 75 and ACR 20                 | 8 (5%)                              | 40 (28%) a                            | 62 (42%) a                            | 2 (3%)                              | 24 (30%) a                            | 31 (38%) a                            |
+| response, N (%) Number of patients ≤ 100 kg | 154                                 | 153                                   | 154                                   | 74                                  | 74                                    | 73                                    |
+| ACR 20 response, N (%)                      | 39 (25%)                            | 67 (44%)                              | 78 (51%)                              | 17 (23%)                            | 32 (43%)                              | 34 (47%)                              |
+| Number of patients with ≥ 3% BSA d          | 105                                 | 105                                   | 111                                   | 54                                  | 58                                    | 57                                    |
+| PASI 75 response, N (%)                     | 14 (13%)                            | 64 (61%)                              | 73 (66%)                              | 4 (7%)                              | 31 (53%)                              | 32 (56%)                              |
+| Number of patients > 100 kg                 | 52                                  | 52                                    | 50                                    | 30                                  | 29                                    | 31                                    |
+| ACR 20 response, N (%)                      | 8 (15%)                             | 20 (38%)                              | 23 (46%)                              | 4 (13%)                             | 13 (45%)                              | 12 (39%)                              |
+| Number of patients with ≥ 3% BSA d          | 41                                  | 40                                    | 38                                    | 26                                  | 22                                    | 24                                    |
+| PASI 75 response, N (%)                     | 2 (5%)                              | 19 (48%)                              | 20 (53%)                              | 0                                   | 10 (45%)                              | 13 (54%)                              |
 
-b p &lt; 0.05
-
-c p = NS
+- c p = NS
 
 d Number of patients with ≥ 3% BSA psoriasis skin involvement at baseline
 
@@ -1423,9 +1403,9 @@ The proportion of patients achieving a modified PsA response criteria (PsARC) re
 
 Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with anti-TNFα agents who received ustekinumab achieved a greater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
 
-For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
-
 <div style=\"page-break-after: always\"></div>
+
+For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
 ## Radiographic response
 
@@ -1437,32 +1417,35 @@ Ustekinumab-treated patients showed significant improvement in physical function
 
 There was significant improvement in DLQI scores in the ustekinumab groups as compared with placebo at week 24, which was maintained through weeks 52 and 100. In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24. The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo. Improvements in FACIT scores were maintained through week 52.
 
-## Crohn's disease
+## Crohn ' s disease
 
 The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development programme consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
 The induction studies included 1,409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
-Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
-
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
+Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα therapy and 52% had failed 2 or 3 prior anti-TNFα therapies.
 
 <div style=\"page-break-after: always\"></div>
+
+In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
+
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
 
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 8). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
 Table 8: Induction of clinical response and remission in UNITI-1 and UNITI-2
 
-|                                       | UNITI-1 *       | UNITI-1 *                                | UNITI-2 **      | UNITI-2 **                               |
-|---------------------------------------|-----------------|------------------------------------------|-----------------|------------------------------------------|
-|                                       | Placebo N = 247 | Recommende d dose of ustekinumab N = 249 | Placebo N = 209 | Recommende d dose of ustekinumab N = 209 |
-| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                             | 41 (19.6%)      | 84 (40.2%) a                             |
-| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                             | 60 (28.7%)      | 116 (55.5%) a                            |
-| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                             | 67 (32.1%)      | 121 (57.9%) a                            |
-| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                            | 66 (31.6%)      | 106 (50.7%) a                            |
-| 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                            | 81 (38.8%)      | 135 (64.6%) a                            |
+|                                       | UNITI-1* - Placebo N = 247   | UNITI-1* - Recommende d dose of ustekinumab N = 249   | UNITI-2** - Placebo N = 209   | UNITI-2** - Recommende d dose of ustekinumab N = 209   |
+|---------------------------------------|------------------------------|-------------------------------------------------------|-------------------------------|--------------------------------------------------------|
+| Clinical Remission, week 8            | 18 (7.3%)                    | 52 (20.9%) a                                          | 41 (19.6%)                    | 84 (40.2%) a                                           |
+| Clinical Response (100 point), week 6 | 53 (21.5%)                   | 84 (33.7%) b                                          | 60 (28.7%)                    | 116 (55.5%) a                                          |
+| Clinical Response (100 point), week 8 | 50 (20.2%)                   | 94 (37.8%) a                                          | 67 (32.1%)                    | 121 (57.9%) a                                          |
+| 70 Point Response, week 3             | 67 (27.1%)                   | 101 (40.6%) b                                         | 66 (31.6%)                    | 106 (50.7%) a                                          |
+| 70 Point Response, week 6             | 75 (30.4%)                   | 109 (43.8%) b                                         | 81 (38.8%)                    | 135 (64.6%) a                                          |
 
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission 70 point response is defined as reduction in CDAI score by at least 70 points
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
+
+70 point response is defined as reduction in CDAI score by at least 70 points
 
 * Anti-TNFα failures
 - ** Conventional therapy failures
@@ -1483,10 +1466,12 @@ Table 9: Maintenance of clinical response and remission in IM-UNITI (week 44; 52
 | Clinical Remission in patients:                  |                      |                                             |                                              |
 | in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
 | who entered from study CRD3002 ‡                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
-| who are Anti-TNFα naïve                          | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
-| who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
 
 <div style=\"page-break-after: always\"></div>
+
+| who are Anti-TNFα naïve          | 49% (25/51)   | 65% (34/52) c   | 57% (30/53)   |
+|----------------------------------|---------------|-----------------|---------------|
+| who entered from study CRD3001 § | 26% (16/61)   | 41% (23/56)     | 39% (22/57)   |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
@@ -1516,11 +1501,11 @@ Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible 
 
 In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Health-related quality of life
 
 Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ulcerative colitis
 
@@ -1548,17 +1533,17 @@ Table 10: Summary of key efficacy outcomes in UNIFI-I (week 8)
 | In patients who failed conventional therapy, but not a biologic | 35% (56/158)      | 67% (104/156) b                             |
 | In patients who failed biological therapy ¥                     | 27% (44/161)      | 57% (95/166) b                              |
 | In patients who failed both a TNF and vedolizumab               | 28% (13/47)       | 52% (30/58) c                               |
-| Mucosal Healing †                                               | 14%               | 27% a                                       |
-| In patients who failed conventional therapy, but not a biologic | 21% (33/158)      | 33% (52/156) c                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| In patients who failed biological therapy   | 7% (11/161)   | 21% (35/166) b   |
-|---------------------------------------------|---------------|------------------|
-| Symptomatic Remission ‡                     | 23%           | 45% b            |
-| Combined Symptomatic Remission and Mucosal  | 8%            | 21% b            |
+| Mucosal Healing †                                               | 14%          | 27% a          |
+|-----------------------------------------------------------------|--------------|----------------|
+| In patients who failed conventional therapy, but not a biologic | 21% (33/158) | 33% (52/156) c |
+| In patients who failed biological therapy                       | 7% (11/161)  | 21% (35/166) b |
+| Symptomatic Remission ‡                                         | 23%          | 45% b          |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 8%           | 21% b          |
 
-- £ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1 .
+- £ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1.
 * Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
 - § Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
 - ¥ A TNFα antagonist and/or vedolizumab.
@@ -1575,22 +1560,22 @@ Significantly greater proportions of patients were in clinical remission in both
 
 Table 11: Summary of key efficacy measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
 
-|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8 Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
-|-----------------------------------------------------------------|--------------------|-------------------------------------------|--------------------------------------------|
-| Clinical Remission**                                            | 24%                | 44% a                                     | 38% b                                      |
-| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                             | 49% (50/102) d                             |
-| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                             | 23% (16/70) d                              |
-| In patients who failed both a TNF and vedolizumab               | 15% (4/27)         | 33% (7/21) e                              | 23% (5/22) e                               |
-| Maintenance of Clinical Response through week 44 §              | 45%                | 71% a                                     | 68% a                                      |
-| In patients who failed conventional therapy, but not a biologic | 51% (44/87)        | 78% (66/85) c                             | 77% (78/102) c                             |
-| In patients who failed biological therapy ¥                     | 39% (34/88)        | 65% (59/91) c                             | 56% (39/70) d                              |
-| In patients who failed both a TNF and vedolizumab               | 41% (11/27)        | 67% (14/21) e                             | 50% (11/22) e                              |
-| Mucosal Healing †                                               | 29%                | 51% a                                     | 44% b                                      |
-| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)        | 58% (22/38)                               | 65% (26/40) c                              |
-| Corticosteroid Free Clinical Remission €                        | 23%                | 42% a                                     | 38% b                                      |
-| Durable Remission ǁ                                             | 35%                | 57% c                                     | 48% d                                      |
-| Symptomatic Remission ‡                                         | 45%                | 68% c                                     | 62% d                                      |
-| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%                | 48% c                                     | 41% d                                      |
+|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
+|-----------------------------------------------------------------|--------------------|------------------------------------------|--------------------------------------------|
+| Clinical Remission**                                            | 24%                | 44% a                                    | 38% b                                      |
+| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                            | 49% (50/102) d                             |
+| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                            | 23% (16/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 15% (4/27)         | 33% (7/21) e                             | 23% (5/22) e                               |
+| Maintenance of Clinical Response through week 44 §              | 45%                | 71% a                                    | 68% a                                      |
+| In patients who failed conventional therapy, but not a biologic | 51% (44/87)        | 78% (66/85) c                            | 77% (78/102) c                             |
+| In patients who failed biological therapy ¥                     | 39% (34/88)        | 65% (59/91) c                            | 56% (39/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 41% (11/27)        | 67% (14/21) e                            | 50% (11/22) e                              |
+| Mucosal Healing †                                               | 29%                | 51% a                                    | 44% b                                      |
+| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)        | 58% (22/38)                              | 65% (26/40) c                              |
+| Corticosteroid Free Clinical Remission €                        | 23%                | 42% a                                    | 38% b                                      |
+| Durable Remission ǁ                                             | 35%                | 57% c                                    | 48% d                                      |
+| Symptomatic Remission ‡                                         | 45%                | 68% c                                    | 62% d                                      |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%                | 48% c                                    | 41% d                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1674,30 +1659,31 @@ All patients were followed for efficacy for up to 52 weeks following first admin
 
 Table 12: Summary of primary and secondary endpoints at week 12 and week 52
 
-| Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17)   |
-|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-|                                                   | Week 12                                           | Week 12                                           | Week 52                                           |
-|                                                   | Placebo                                           | Recommended dose of Ustekinumab                   | Recommended dose of Ustekinumab                   |
-|                                                   | N (%)                                             | N (%)                                             | N (%)                                             |
-| Patients randomised                               | 37                                                | 36                                                | 35                                                |
-| PGA                                               |                                                   |                                                   |                                                   |
-| PGA of cleared (0) or minimal (1)                 | 2 (5.4%)                                          | 25 (69.4%) a                                      | 20 (57.1%)                                        |
-| PGA of Cleared (0)                                | 1 (2.7%)                                          | 17 (47.2%) a                                      | 13 (37.1%)                                        |
-| PASI                                              |                                                   |                                                   |                                                   |
-| PASI 75 responders                                | 4 (10.8%)                                         | 29 (80.6%) a                                      | 28 (80.0%)                                        |
-| PASI 90 responders                                | 2 (5.4%)                                          | 22 (61.1%) a                                      | 23 (65.7%)                                        |
-| PASI 100 responders                               | 1 (2.7%)                                          | 14 (38.9%) a                                      | 13 (37.1%)                                        |
-| CDLQI                                             |                                                   |                                                   |                                                   |
-| CDLQI of 0 or 1 b                                 | 6 (16.2%)                                         | 18 (50.0%) c                                      | 20 (57.1%)                                        |
-| PedsQL                                            |                                                   |                                                   |                                                   |
-| Change from baseline Mean (SD) d                  | 3.35 (10.04)                                      | 8.03 (10.44) e                                    | 7.26 (10.92)                                      |
+| Paediatric psoriasis study (CADMUS) (Age 12-17)   | Paediatric psoriasis study (CADMUS) (Age 12-17) - Week 12 - Placebo - N (%)   | Paediatric psoriasis study (CADMUS) (Age 12-17) - Week 12 - Recommended dose of Ustekinumab - N (%)   | Paediatric psoriasis study (CADMUS) (Age 12-17) - Week 52 - Recommended dose of Ustekinumab - N (%)   |
+|---------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Patients randomised                               | 37                                                                            | 36                                                                                                    | 35                                                                                                    |
+| PGA                                               |                                                                               |                                                                                                       |                                                                                                       |
+| PGA of cleared (0) or minimal (1)                 | 2 (5.4%)                                                                      | 25 (69.4%) a                                                                                          | 20 (57.1%)                                                                                            |
+| PGA of Cleared (0)                                | 1 (2.7%)                                                                      | 17 (47.2%) a                                                                                          | 13 (37.1%)                                                                                            |
+| PASI                                              |                                                                               |                                                                                                       |                                                                                                       |
+| PASI 75 responders                                | 4 (10.8%)                                                                     | 29 (80.6%) a                                                                                          | 28 (80.0%)                                                                                            |
+| PASI 90 responders                                | 2 (5.4%)                                                                      | 22 (61.1%) a                                                                                          | 23 (65.7%)                                                                                            |
+| PASI 100 responders                               | 1 (2.7%)                                                                      | 14 (38.9%) a                                                                                          | 13 (37.1%)                                                                                            |
+| CDLQI                                             |                                                                               |                                                                                                       |                                                                                                       |
+| CDLQI of 0 or 1 b                                 | 6 (16.2%)                                                                     | 18 (50.0%) c                                                                                          | 20 (57.1%)                                                                                            |
+| PedsQL                                            |                                                                               |                                                                                                       |                                                                                                       |
+| Change from baseline Mean (SD) d                  | 3.35 (10.04)                                                                  | 8.03 (10.44) e                                                                                        | 7.26 (10.92)                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-- a p &lt; 0.001
-- b CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life.
-- c p = 0.002
-- d PedsQL: The PedsQL Total Scale Score is a general health-related quality of life measure developed for use in children and adolescent populations. For the placebo group at week 12, N = 36
+a p &lt; 0.001
+
+b CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life.
+
+c p = 0.002
+
+d PedsQL: The PedsQL Total Scale Score is a general health-related quality of life measure developed for use in children and adolescent populations. For the placebo group at week 12, N = 36
+
 - e p = 0.028
 
 During the placebo-controlled period through week 12, the efficacy of both the recommended and half of the recommended dose groups were generally comparable at the primary endpoint (69.4% and 67.6% respectively) although there was evidence of a dose response for higher level efficacy criteria (e.g. PGA of cleared (0), PASI 90). Beyond week 12, efficacy was generally higher and better sustained in the recommended dose group compared with half of the recommended dosage group in which a modest loss of efficacy was more frequently observed toward the end of each 12 week dosing interval. The safety profiles of the recommended dose and half of the recommended dose were comparable.
@@ -1714,29 +1700,26 @@ All patients were followed for efficacy for up to 52 weeks following first admin
 
 Table 13: Summary of primary and secondary endpoints at week 12 and week 52
 
-| Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   |
-|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-|                                                      | Week 12 Recommended dose of Ustekinumab              | Week 52 Recommended dose of Ustekinumab N (%)        |
-|                                                      | N (%)                                                |                                                      |
-| Patients enrolled                                    | 44                                                   | 41                                                   |
-| PGA                                                  |                                                      |                                                      |
-| PGA of cleared (0) or minimal (1)                    | 34 (77.3%)                                           | 31 (75.6%)                                           |
-| PGA of cleared (0)                                   | 17 (38.6%)                                           | 23 (56.1%)                                           |
-| PASI                                                 |                                                      |                                                      |
-| PASI 75 responders                                   | 37 (84.1%)                                           | 36 (87.8%)                                           |
-| PASI 90 responders                                   | 28 (63.6%)                                           | 29 (70.7%)                                           |
-| PASI 100 responders                                  | 15 (34.1%)                                           | 22 (53.7%)                                           |
+| Paediatric psoriasis study (CADMUS Jr.) (Age 6-11)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11) - Week 12 Recommended dose of Ustekinumab - N (%)   | Paediatric psoriasis study (CADMUS Jr.) (Age 6-11) - Week 52 Recommended dose of Ustekinumab N - (%)   |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Patients enrolled                                    | 44                                                                                                     | 41                                                                                                     |
+| PGA                                                  |                                                                                                        |                                                                                                        |
+| PGA of cleared (0) or minimal (1)                    | 34 (77.3%)                                                                                             | 31 (75.6%)                                                                                             |
+| PGA of cleared (0)                                   | 17 (38.6%)                                                                                             | 23 (56.1%)                                                                                             |
+| PASI                                                 |                                                                                                        |                                                                                                        |
+| PASI 75 responders                                   | 37 (84.1%)                                                                                             | 36 (87.8%)                                                                                             |
+| PASI 90 responders                                   | 28 (63.6%)                                                                                             | 29 (70.7%)                                                                                             |
+| PASI 100 responders                                  | 15 (34.1%)                                                                                             | 22 (53.7%)                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| CDLQI a                               |           |           |
-|---------------------------------------|-----------|-----------|
-| Patients with a CDLQI > 1 at baseline | (N=39) 24 | (N=36) 21 |
-| CDLQI of 0 or 1                       | (61.5%)   | (58.3%)   |
+| CDLQI a                                               |                   |                   |
+|-------------------------------------------------------|-------------------|-------------------|
+| Patients with a CDLQI > 1 at baseline CDLQI of 0 or 1 | (N=39) 24 (61.5%) | (N=36) 21 (58.3%) |
 
 a CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life.
 
-## Paediatric Crohn's disease
+## Paediatric Crohn ' s disease
 
 The safety and efficacy of ustekinumab was evaluated in 101 paediatric patients 2 years and older and weighing at least 10 kg in a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt;30) through 48 weeks of treatment (8 weeks of induction and 40 weeks of maintenance treatment). The study enrolled 2 patients between 2 to 5 years old and 18 patients between 6 to 11 years old; 29 patients weighed less than 40 kg, including 11 patients who weighed less than 30 kg. Patients included in the study either had not adequately responded to or had not tolerated prior biologic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (patients weighing at least 40 kg) or 250 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab (patients weighing at least 40 kg) or 60 mg/m 2 (patients weighing less than 40 kg, based on BSA) (see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection prefilled syringe SmPC) administered either every 8 weeks or every 12 weeks.
 
@@ -1869,7 +1852,7 @@ The exact metabolic pathway for ustekinumab is unknown.
 
 ## Elimination
 
-Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2 ) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 l/day and 15.7 l, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
+Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 l/day and 15.7 l, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1935,9 +1918,7 @@ Carcinogenicity studies were not performed with ustekinumab due to the lack of a
 
 ## 6.1 List of excipients
 
-L-histidine
-
-L-histidine monohydrochloride monohydrate Polysorbate 80 (E433) Sucrose Water for injections
+L-histidine L-histidine monohydrochloride monohydrate Polysorbate 80 (E433) Sucrose Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -1961,21 +1942,19 @@ Individual pre-filled syringes may be stored at room temperature up to 30 °C fo
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze.
-
-Keep the vial or pre-filled syringe in the outer carton in order to protect from light. If needed, individual pre-filled syringes may be stored at room temperature up to 30 °C (see section 6.3).
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial or pre-filled syringe in the outer carton in order to protect from light. If needed, individual pre-filled syringes may be stored at room temperature up to 30 °C (see section 6.3).
 
 ## 6.5 Nature and contents of container
 
-## STELARA 45 mg solution for injection
+STELARA 45 mg solution for injection
 
 0.5 mL solution in a type I glass 2 mL vial closed with a coated butyl rubber stopper.
 
-## STELARA 45 mg solution for injection in pre-filled syringe
+STELARA 45 mg solution for injection in pre-filled syringe
 
 0.5 mL solution in a type I glass 1 mL syringe with a fixed stainless steel needle and a needle cover containing dry natural rubber (a derivative of latex). The syringe is fitted with a passive safety guard.
 
-## STELARA 90 mg solution for injection in pre-filled syringe
+STELARA 90 mg solution for injection in pre-filled syringe
 
 1 mL solution in a type I glass 1 mL syringe with a fixed stainless steel needle and a needle cover containing dry natural rubber (a derivative of latex). The syringe is fitted with a passive safety guard.
 
@@ -2039,15 +2018,15 @@ The solution is clear to slightly opalescent, colourless to light yellow, with a
 
 ## 4.1 Therapeutic indications
 
-## Plaque psoriasis
+Plaque psoriasis
 
 STELARA is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).
 
-## Psoriatic arthritis (PsA)
+Psoriatic arthritis (PsA)
 
 STELARA, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
 
-## Crohn's disease
+Crohn's disease
 
 STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
@@ -2091,7 +2070,7 @@ STELARA has not been studied in these patient populations. No dose recommendatio
 
 The safety and efficacy of STELARA in children with psoriasis less than 6 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established. The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients. See section 4.2 of the pre-filled syringe SmPC for posology and method of administration in paediatric patients 6 years and older with psoriasis.
 
-## Crohn's disease and ulcerative colitis
+## Crohn ' s disease and ulcerative colitis
 
 In the treatment regimen, the first dose of STELARA is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC.
 
@@ -2315,7 +2294,7 @@ In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, 
 
 ## Hypersensitivity reactions
 
-During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in &lt;1% of patients (see section 4.4).
+During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in &lt;1% of patients (see section 4.4). In the post-marketing setting, some cases of serious hypersensitivity reactions have been reported in patients with a history of alpha-gal syndrome, allergy to mammalian meat or meat products, or anti-alpha-gal IgE. In most of these cases the reactions occurred at the time of initial administration.
 
 ## Reporting of suspected adverse reactions
 
@@ -2324,6 +2303,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 ## 4.9 Overdose
 
 Single doses up to 6 mg/kg have been administered intravenously in clinical studies without dose-limiting toxicity. In case of overdose, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -2334,8 +2315,6 @@ Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code:
 ## Mechanism of action
 
 Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
-
-<div style=\"page-break-after: always\"></div>
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
@@ -2355,9 +2334,9 @@ The safety and efficacy of ustekinumab was assessed in 1,996 patients in two ran
 
 Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 and followed by the same dose every 12 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re-randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
 
-Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
-
 <div style=\"page-break-after: always\"></div>
+
+Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
 
 Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at weeks 0 and 4, or ustekinumab 90 mg at Weeks 0 and 4.
 
@@ -2367,51 +2346,46 @@ The primary endpoint in these studies was the proportion of patients who achieve
 
 Table 2: Summary of clinical response in psoriasis study 1 (PHOENIX 1) and psoriasis study 2 (PHOENIX 2)
 
-|                                   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 28 3 doses (week 0, week 4 and week 16)   | Week 28 3 doses (week 0, week 4 and week 16)   |
-|-----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------------------------------|------------------------------------------------|
-|                                   | PBO                                   | 45 mg                                 | 90 mg                                 | 45 mg                                          | 90 mg                                          |
-| Psoriasis Study 1                 |                                       |                                       |                                       |                                                |                                                |
-| Number of patients randomised     | 255                                   | 255                                   | 256                                   | 250                                            | 243                                            |
-| PASI 50 response N (%)            | 26 (10%)                              | 213 (84%) a                           | 220 (86%) a                           | 228 (91%)                                      | 234 (96%)                                      |
-| PASI 75 response N (%)            | 8 (3%)                                | 171 (67%) a                           | 170 (66%) a                           | 178 (71%)                                      | 191 (79%)                                      |
-| PASI 90 response N (%)            | 5 (2%)                                | 106 (42%) a                           | 94 (37%) a                            | 123 (49%)                                      | 135 (56%)                                      |
-| PGA b of cleared or minimal N (%) | 10 (4%)                               | 151 (59%) a                           | 156 (61%) a                           | 146 (58%)                                      | 160 (66%)                                      |
-| Number of patients ≤ 100 kg       | 166                                   | 168                                   | 164                                   | 164                                            | 153                                            |
-| PASI 75 response N (%)            | 6 (4%)                                | 124 (74%)                             | 107 (65%)                             | 130 (79%)                                      | 124 (81%)                                      |
-| Number of patients > 100 kg       | 89                                    | 87                                    | 92                                    | 86                                             | 90                                             |
-| PASI 75 response N (%)            | 2 (2%)                                | 47 (54%)                              | 63 (68%)                              | 48 (56%)                                       | 67 (74%)                                       |
-| Psoriasis Study 2                 |                                       |                                       |                                       |                                                |                                                |
-| Number of patients randomised     | 410                                   | 409                                   | 411                                   | 397                                            | 400                                            |
-| PASI 50 response N (%)            | 41 (10%)                              | 342 (84%) a                           | 367 (89%) a                           | 369 (93%)                                      | 380 (95%)                                      |
-| PASI 75 response N (%)            | 15 (4%)                               | 273 (67%) a                           | 311 (76%) a                           | 276 (70%)                                      | 314 (79%)                                      |
-| PASI 90 response N (%)            | 3 (1%)                                | 173 (42%) a                           | 209 (51%) a                           | 178 (45%)                                      | 217 (54%)                                      |
-| PGA b of cleared or minimal N (%) | 18 (4%)                               | 277 (68%) a                           | 300 (73%) a                           | 241 (61%)                                      | 279 (70%)                                      |
-| Number of patients ≤ 100 kg       | 290                                   | 297                                   | 289                                   | 287                                            | 280                                            |
-| PASI 75 response N (%)            | 12 (4%)                               | 218 (73%)                             | 225 (78%)                             | 217 (76%)                                      | 226 (81%)                                      |
-| Number of patients > 100 kg       | 120                                   | 112                                   | 121                                   | 110                                            | 119                                            |
-| PASI 75 response N (%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                       | 88 (74%)                                       |
+|                                   | Week 12 2 doses (week 0 and week 4) - PBO   | Week 12 2 doses (week 0 and week 4) - 45 mg   | Week 12 2 doses (week 0 and week 4) - 90 mg   | Week 28 3 doses (week 0, week 4 and week 16) - 45 mg   | Week 28 3 doses (week 0, week 4 and week 16) - 90 mg   |
+|-----------------------------------|---------------------------------------------|-----------------------------------------------|-----------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| Psoriasis Study 1                 |                                             |                                               |                                               |                                                        |                                                        |
+| Number of patients randomised     | 255                                         | 255                                           | 256                                           | 250                                                    | 243                                                    |
+| PASI 50 response N (%)            | 26 (10%)                                    | 213 (84%) a                                   | 220 (86%) a                                   | 228 (91%)                                              | 234 (96%)                                              |
+| PASI 75 response N (%)            | 8 (3%)                                      | 171 (67%) a                                   | 170 (66%) a                                   | 178 (71%)                                              | 191 (79%)                                              |
+| PASI 90 response N (%)            | 5 (2%)                                      | 106 (42%) a                                   | 94 (37%) a                                    | 123 (49%)                                              | 135 (56%)                                              |
+| PGA b of cleared or minimal N (%) | 10 (4%)                                     | 151 (59%) a                                   | 156 (61%) a                                   | 146 (58%)                                              | 160 (66%)                                              |
+| Number of patients ≤ 100 kg       | 166                                         | 168                                           | 164                                           | 164                                                    | 153                                                    |
+| PASI 75 response N (%)            | 6 (4%)                                      | 124 (74%)                                     | 107 (65%)                                     | 130 (79%)                                              | 124 (81%)                                              |
+| Number of patients > 100 kg       | 89                                          | 87                                            | 92                                            | 86                                                     | 90                                                     |
+| PASI 75 response N (%)            | 2 (2%)                                      | 47 (54%)                                      | 63 (68%)                                      | 48 (56%)                                               | 67 (74%)                                               |
+| Psoriasis Study 2                 |                                             |                                               |                                               |                                                        |                                                        |
+| Number of patients randomised     | 410                                         | 409                                           | 411                                           | 397                                                    | 400                                                    |
+| PASI 50 response N (%)            | 41 (10%)                                    | 342 (84%) a                                   | 367 (89%) a                                   | 369 (93%)                                              | 380 (95%)                                              |
+| PASI 75 response N (%)            | 15 (4%)                                     | 273 (67%) a                                   | 311 (76%) a                                   | 276 (70%)                                              | 314 (79%)                                              |
+| PASI 90 response N (%)            | 3 (1%)                                      | 173 (42%) a                                   | 209 (51%) a                                   | 178 (45%)                                              | 217 (54%)                                              |
+| PGA b of cleared or minimal N (%) | 18 (4%)                                     | 277 (68%) a                                   | 300 (73%) a                                   | 241 (61%)                                              | 279 (70%)                                              |
+| Number of patients ≤ 100 kg       | 290                                         | 297                                           | 289                                           | 287                                                    | 280                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
+| PASI 75 response N (%)      | 12 (4%)   | 218 (73%)   | 225 (78%)   | 217 (76%)   | 226 (81%)   |
+|-----------------------------|-----------|-------------|-------------|-------------|-------------|
+| Number of patients > 100 kg | 120       | 112         | 121         | 110         | 119         |
+| PASI 75 response N (%)      | 3 (3%)    | 55 (49%)    | 86 (71%)    | 59 (54%)    | 88 (74%)    |
+
 Table 3: Summary of clinical response at week 12 in psoriasis study 3 (ACCEPT)
 
-|                                 | Psoriasis Study 3                      | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|---------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                 | Etanercept 24 doses (50 mg twice week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                                 | a                                      | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised   | 347                                    | 209                                     | 347                                     |
-| PASI 50 response N (%)          | 286 (82%)                              | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response N (%)          | 197 (57%)                              | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N (%)          | 80 (23%)                               | 76 (36%) a                              | 155 (45%) a                             |
-| PGA of cleared or minimal N (%) | 170 (49%)                              | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg     | 251                                    | 151                                     | 244                                     |
-| PASI 75 response N (%)          | 154 (61%)                              | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg     | 96                                     | 58                                      | 103                                     |
-| PASI 75 response N (%)          | 43 (45%)                               | 32 (55%)                                | 67 (65%)                                |
-
-a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
-
-b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
+|                                 | Psoriasis Study 3 - Etanercept 24 doses (50 mg twice a - week)   | Psoriasis Study 3 - Ustekinumab 2 doses (week 0 and week 4) - 45 mg   | Psoriasis Study 3 - Ustekinumab 2 doses (week 0 and week 4) - 90 mg   |
+|---------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Number of patients randomised   | 347                                                              | 209                                                                   | 347                                                                   |
+| PASI 50 response N (%)          | 286 (82%)                                                        | 181 (87%)                                                             | 320 (92%) a                                                           |
+| PASI 75 response N (%)          | 197 (57%)                                                        | 141 (67%) b                                                           | 256 (74%) a                                                           |
+| PASI 90 response N (%)          | 80 (23%)                                                         | 76 (36%) a                                                            | 155 (45%) a                                                           |
+| PGA of cleared or minimal N (%) | 170 (49%)                                                        | 136 (65%) a                                                           | 245 (71%) a                                                           |
+| Number of patients ≤ 100 kg     | 251                                                              | 151                                                                   | 244                                                                   |
+| PASI 75 response N (%)          | 154 (61%)                                                        | 109 (72%)                                                             | 189 (77%)                                                             |
+| Number of patients > 100 kg     | 96                                                               | 58                                                                    | 103                                                                   |
+| PASI 75 response N (%)          | 43 (45%)                                                         | 32 (55%)                                                              | 67 (65%)                                                              |
 
 In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
 
@@ -2423,9 +2397,11 @@ In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements 
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite nonsteroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite nonsteroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy.
 
 <div style=\"page-break-after: always\"></div>
+
+Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
 In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with anti-tumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more anti-TNFα agent(s), of whom over 70% had discontinued their anti-TNFα treatment for lack of efficacy or intolerance at any time.
 
@@ -2435,27 +2411,34 @@ Treatment with ustekinumab resulted in significant improvements in the measures 
 
 Table 4: Number of patients who achieved clinical response in psoriatic arthritis study 1 (PSUMMIT I) and study 2 (PSUMMIT II) at week 24
 
-|                                             | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
-|---------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|                                             | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
-| Number of patients randomised               | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
-| ACR 20 response, N (%)                      | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
-| ACR 50 response, N (%)                      | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
-| ACR 70 response, N (%)                      | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
-| Number of patients with ≥ 3% BSA d          | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
-| PASI 75 response, N (%)                     | 16 (11%)                      | 83 (57%) a                    | 93 (62%) a                    | 4 (5%)                        | 41 (51%) a                    | 45 (56%) a                    |
-| PASI 90 response, N (%)                     | 4 (3%)                        | 60 (41%) a                    | 65 (44%) a                    | 3 (4%)                        | 24 (30%) a                    | 36 (44%) a                    |
-| Combined PASI 75 and ACR 20 response, N (%) | 8 (5%)                        | 40 (28%) a                    | 62 (42%) a                    | 2 (3%)                        | 24 (30%) a                    | 31 (38%) a                    |
-| Number of patients ≤ 100 kg                 | 154                           | 153                           | 154                           | 74                            | 74                            | 73                            |
-| ACR 20 response, N (%)                      | 39 (25%)                      | 67 (44%)                      | 78 (51%)                      | 17 (23%)                      | 32 (43%)                      | 34 (47%)                      |
-| Number of patients with ≥ 3% BSA d          | 105                           | 105                           | 111                           | 54                            | 58                            | 57                            |
-| PASI 75 response, N (%)                     | 14 (13%)                      | 64 (61%)                      | 73 (66%)                      | 4 (7%)                        | 31 (53%)                      | 32 (56%)                      |
-| Number of patients > 100 kg                 | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
-| ACR 20 response, N (%)                      | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
-| Number of patients with ≥ 3% BSA d          | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
-| PASI 75 response, N (%)                     | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
+|                                             | Psoriatic arthritis Study 1 - PBO   | Psoriatic arthritis Study 1 - 45 mg   | Psoriatic arthritis Study 1 - 90 mg   | Psoriatic arthritis Study 2 - PBO   | Psoriatic arthritis Study 2 - 45 mg   | Psoriatic arthritis Study 2 - 90 mg   |
+|---------------------------------------------|-------------------------------------|---------------------------------------|---------------------------------------|-------------------------------------|---------------------------------------|---------------------------------------|
+| Number of patients randomised               | 206                                 | 205                                   | 204                                   | 104                                 | 103                                   | 105                                   |
+| ACR 20 response, N (%)                      | 47 (23%)                            | 87 (42%) a                            | 101 (50%) a                           | 21 (20%)                            | 45 (44%) a                            | 46 (44%) a                            |
+| ACR 50 response, N (%)                      | 18 (9%)                             | 51 (25%) a                            | 57 (28%) a                            | 7 (7%)                              | 18 (17%) b                            | 24 (23%) a                            |
+| ACR 70 response, N (%)                      | 5 (2%)                              | 25 (12%) a                            | 29 (14%) a                            | 3 (3%)                              | 7 (7%) c                              | 9 (9%) c                              |
+| Number of patients with ≥ 3% BSA d          | 146                                 | 145                                   | 149                                   | 80                                  | 80                                    | 81                                    |
+| PASI 75 response, N (%)                     | 16 (11%)                            | 83 (57%) a                            | 93 (62%) a                            | 4 (5%)                              | 41 (51%) a                            | 45 (56%) a                            |
+| PASI 90 response, N (%)                     | 4 (3%)                              | 60 (41%) a                            | 65 (44%) a                            | 3 (4%)                              | 24 (30%) a                            | 36 (44%) a                            |
+| Combined PASI 75 and ACR 20                 | 8 (5%)                              | 40 (28%) a                            | 62 (42%) a                            | 2 (3%)                              | 24 (30%) a                            | 31 (38%) a                            |
+| response, N (%) Number of patients ≤ 100 kg | 154                                 | 153                                   | 154                                   | 74                                  | 74                                    | 73                                    |
+| ACR 20 response, N (%)                      | 39 (25%)                            | 67 (44%)                              | 78 (51%)                              | 17 (23%)                            | 32 (43%)                              | 34 (47%)                              |
+| Number of patients with ≥ 3% BSA d          | 105                                 | 105                                   | 111                                   | 54                                  | 58                                    | 57                                    |
+| PASI 75 response, N (%)                     | 14 (13%)                            | 64 (61%)                              | 73 (66%)                              | 4 (7%)                              | 31 (53%)                              | 32 (56%)                              |
+| Number of patients > 100 kg                 | 52                                  | 52                                    | 50                                    | 30                                  | 29                                    | 31                                    |
+| ACR 20 response, N (%)                      | 8 (15%)                             | 20 (38%)                              | 23 (46%)                              | 4 (13%)                             | 13 (45%)                              | 12 (39%)                              |
+| Number of patients with ≥ 3% BSA d          | 41                                  | 40                                    | 38                                    | 26                                  | 22                                    | 24                                    |
+| PASI 75 response, N (%)                     | 2 (5%)                              | 19 (48%)                              | 20 (53%)                              | 0                                   | 10 (45%)                              | 13 (54%)                              |
 
 <div style=\"page-break-after: always\"></div>
+
+a p &lt; 0.001
+
+b p &lt; 0.05
+
+c p = NS
+
+d Number of patients with ≥ 3% BSA psoriasis skin involvement at baseline
 
 ACR 20, 50 and 70 responses continued to improve or were maintained through week 52 (PsA Study 1 and 2) and week 100 (PsA Study 1). In PsA Study 1, ACR 20 responses at week 100 were achieved by 57% and 64%, for 45 mg and 90 mg, respectively. In PsA Study 2, ACR 20 responses at week 52 were achieved by 47% and 48%, for 45 mg and 90 mg, respectively.
 
@@ -2475,11 +2458,11 @@ Ustekinumab-treated patients showed significant improvement in physical function
 
 There was significant improvement in DLQI scores in the ustekinumab groups as compared with placebo at week 24, which was maintained through weeks 52 and 100. In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24. The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo. Improvements in FACIT scores were maintained through week 52.
 
-## Crohn's disease
+<div style=\"page-break-after: always\"></div>
+
+## Crohn ' s disease
 
 The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development programme consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
-
-<div style=\"page-break-after: always\"></div>
 
 The induction studies included 1,409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
@@ -2491,14 +2474,13 @@ In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were
 
 Table 5: Induction of clinical response and remission in UNITI-1 and UNITI 2
 
-|                                       | UNITI-1 *       | UNITI-1 *                                | UNITI-2 **      | UNITI-2 **                               |
-|---------------------------------------|-----------------|------------------------------------------|-----------------|------------------------------------------|
-|                                       | Placebo N = 247 | Recommende d dose of ustekinumab N = 249 | Placebo N = 209 | Recommende d dose of ustekinumab N = 209 |
-| Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                             | 41 (19.6%)      | 84 (40.2%) a                             |
-| Clinical Response (100 point), week 6 | 53 (21.5%)      | 84 (33.7%) b                             | 60 (28.7%)      | 116 (55.5%) a                            |
-| Clinical Response (100 point), week 8 | 50 (20.2%)      | 94 (37.8%) a                             | 67 (32.1%)      | 121 (57.9%) a                            |
-| 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                            | 66 (31.6%)      | 106 (50.7%) a                            |
-| 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                            | 81 (38.8%)      | 135 (64.6%) a                            |
+|                                       | UNITI-1* - Placebo N = 247   | UNITI-1* - Recommende d dose of ustekinumab N = 249   | UNITI-2** - Placebo N = 209   | UNITI-2** - Recommende d dose of ustekinumab N = 209   |
+|---------------------------------------|------------------------------|-------------------------------------------------------|-------------------------------|--------------------------------------------------------|
+| Clinical Remission, week 8            | 18 (7.3%)                    | 52 (20.9%) a                                          | 41 (19.6%)                    | 84 (40.2%) a                                           |
+| Clinical Response (100 point), week 6 | 53 (21.5%)                   | 84 (33.7%) b                                          | 60 (28.7%)                    | 116 (55.5%) a                                          |
+| Clinical Response (100 point), week 8 | 50 (20.2%)                   | 94 (37.8%) a                                          | 67 (32.1%)                    | 121 (57.9%) a                                          |
+| 70 Point Response, week 3             | 67 (27.1%)                   | 101 (40.6%) b                                         | 66 (31.6%)                    | 106 (50.7%) a                                          |
+| 70 Point Response, week 6             | 75 (30.4%)                   | 109 (43.8%) b                                         | 81 (38.8%)                    | 135 (64.6%) a                                          |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
 
@@ -2513,9 +2495,9 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 
 The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
 
-Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 6).
-
 <div style=\"page-break-after: always\"></div>
+
+Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 6).
 
 Table 6: Maintenance of clinical response and remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
 
@@ -2550,9 +2532,9 @@ Of 131 patients who responded to ustekinumab induction, and were randomised to t
 
 In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
 
-No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's disease.
-
 <div style=\"page-break-after: always\"></div>
+
+No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's disease.
 
 ## Endoscopy
 
@@ -2600,14 +2582,11 @@ Table 7: Summary of key efficacy outcomes in UNIFI-I (week 8)
 | Symptomatic Remission ‡                                         | 23%               | 45% b                                       |
 | Combined Symptomatic Remission and Mucosal Healing ⸸            | 8%                | 21% b                                       |
 
-* Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
-
-§ Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
-
-- ¥ A TNFα antagonist and/or vedolizumab.
 - † Mucosal healing is defined as a Mayo endoscopic subscore of 0 or 1.
 - ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
-- ⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+
+⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+
 - a p &lt; 0.001
 - b Nominally significant (p &lt; 0.001)
 - c Nominally significant (p &lt; 0.05)
@@ -2616,31 +2595,31 @@ UNIFI-M, evaluated 523 patients who achieved clinical response with single IV ad
 
 Significantly greater proportions of patients were in clinical remission in both ustekinumab treated groups compared to the placebo group at week 44 (see Table 8).
 
-Table 8: Summary of key efficacy measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
-
-|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8 Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
-|-----------------------------------------------------------------|--------------------|-------------------------------------------|--------------------------------------------|
-| Clinical Remission**                                            | 24%                | 44% a                                     | 38% b                                      |
-| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                             | 49% (50/102) d                             |
-
 <div style=\"page-break-after: always\"></div>
 
-| In patients who failed biological therapy ¥                     | 17% (15/88)   | 40% (36/91) c   | 23% (16/70) d   |
-|-----------------------------------------------------------------|---------------|-----------------|-----------------|
-| In patients who failed both a TNF and vedolizumab               | 15% (4/27)    | 33% (7/21) e    | 23% (5/22) e    |
-| Maintenance of Clinical Response through week 44 §              | 45%           | 71% a           | 68% a           |
-| In patients who failed conventional therapy, but not a biologic | 51% (44/87)   | 78% (66/85) c   | 77% (78/102) c  |
-| In patients who failed biological therapy ¥                     | 39% (34/88)   | 65% (59/91) c   | 56% (39/70) d   |
-| In patients who failed both a TNF and vedolizumab               | 41% (11/27)   | 67% (14/21) e   | 50% (11/22) e   |
-| Mucosal Healing †                                               | 29%           | 51% a           | 44% b           |
-| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)   | 58% (22/38)     | 65% (26/40) c   |
-| Corticosteroid Free Clinical Remission €                        | 23%           | 42% a           | 38% b           |
-| Durable Remission ǁ                                             | 35%           | 57% c           | 48% d           |
-| Symptomatic Remission ‡                                         | 45%           | 68% c           | 62% d           |
-| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%           | 48% c           | 41% d           |
+Table 8: Summary of key efficacy measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
+
+|                                                                 | Placebo* N = 175   | 90 mg ustekinumab every 8Weeks N = 176   | 90 mg ustekinumab every 12 Weeks N = 172   |
+|-----------------------------------------------------------------|--------------------|------------------------------------------|--------------------------------------------|
+| Clinical Remission**                                            | 24%                | 44% a                                    | 38% b                                      |
+| In patients who failed conventional therapy, but not a biologic | 31% (27/87)        | 48% (41/85) d                            | 49% (50/102) d                             |
+| In patients who failed biological therapy ¥                     | 17% (15/88)        | 40% (36/91) c                            | 23% (16/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 15% (4/27)         | 33% (7/21) e                             | 23% (5/22) e                               |
+| Maintenance of Clinical Response through week 44 §              | 45%                | 71% a                                    | 68% a                                      |
+| In patients who failed conventional therapy, but not a biologic | 51% (44/87)        | 78% (66/85) c                            | 77% (78/102) c                             |
+| In patients who failed biological therapy ¥                     | 39% (34/88)        | 65% (59/91) c                            | 56% (39/70) d                              |
+| In patients who failed both a TNF and vedolizumab               | 41% (11/27)        | 67% (14/21) e                            | 50% (11/22) e                              |
+| Mucosal Healing †                                               | 29%                | 51% a                                    | 44% b                                      |
+| Maintenance of Clinical Remission through week 44 £             | 38% (17/45)        | 58% (22/38)                              | 65% (26/40) c                              |
+| Corticosteroid Free Clinical Remission €                        | 23%                | 42% a                                    | 38% b                                      |
+| Durable Remission ǁ                                             | 35%                | 57% c                                    | 48% d                                      |
+| Symptomatic Remission ‡                                         | 45%                | 68% c                                    | 62% d                                      |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%                | 48% c                                    | 41% d                                      |
 
 * Following response to IV ustekinumab.
-- ** Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
+
+** Clinical remission is defined as Mayo score ≤2 points, with no individual subscore &gt; 1.
+
 - § Clinical response is defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1.
 - ¥ A TNFα antagonist and/or vedolizumab.
 - † Mucosal healing is defined as a Mayo endoscopic sub-score of 0 or 1.
@@ -2657,13 +2636,13 @@ Table 8: Summary of key efficacy measures in UNIFI-M (week 44; 52 weeks from ini
 
 The beneficial effect of ustekinumab on clinical response, mucosal healing and clinical remission was observed in induction and in maintenance both in patients who failed conventional therapy but not a biologic therapy, as well as in those who had failed at least one prior TNFα antagonist therapy including in patients with a primary non-response to TNFα antagonist therapy. A beneficial effect was also observed in induction in patients who failed at least one prior TNFα antagonist therapy and vedolizumab, however the number of patients in this subgroup was too small to draw definitive conclusions about the beneficial effect in this group during maintenance.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Week 16 responders to ustekinumab induction
 
 Ustekinumab treated patients who were not in response at week 8 of UNIFI-I received an administration of 90 mg SC ustekinumab at week 8 (36% of patients). Of those patients, 9% of patients who were initially randomised to the recommended induction dose achieved clinical remission and 58% achieved clinical response at Week 16.
 
 Patients who were not in clinical response to ustekinumab induction at week 8 of the UNFI-I study but were in response at week 16 (157 patients) entered into the non-randomised portion of UNIFI-M and continued to receive maintenance dosing every 8 weeks; among these patients, a majority (62%) maintained response and 30% achieved remission at week 44.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Study extension
 
@@ -2689,13 +2668,13 @@ Health-related quality of life was assessed by Inflammatory Bowel Disease Questi
 
 At week 8 of UNIFI-I, patients receiving ustekinumab showed significantly greater and clinically meaningful improvements on IBDQ total score, EQ-5D and EQ-5D VAS, and SF-36 Mental Component Summary Score and SF-36 Physical Component Summary Score when compared to placebo. These improvements were maintained in ustekinumab-treated patients in UNIFI-M through week 44. Improvement in health-related quality of life as measured by IBDQ and SF-36 was generally maintained during the extension through week 200.
 
+<div style=\"page-break-after: always\"></div>
+
 Patients receiving ustekinumab experienced significantly more improvements in work productivity as assessed by greater reductions in overall work impairment and in activity impairment as assessed by the WPAI-GH questionnaire than patients receiving placebo.
 
 ## Hospitalisations and ulcerative colitis (UC) related surgeries
 
 Through week 8 of UNIFI-I, the proportions of subjects with UC disease related hospitalisations were significantly lower for subjects in the ustekinumab recommended dose group (1.6%, 5/322) compared with subjects in the placebo group (4.4%, 14/319) and no subjects underwent UC disease related surgeries in subjects receiving ustekinumab at the recommended induction dose compared to 0.6% (2/319) subjects in the placebo group.
-
-<div style=\"page-break-after: always\"></div>
 
 Through week 44 of UNIFI-M, a significantly lower number of UC-related hospitalisations was observed in subjects in the combined ustekinumab group (2.0%, 7/348) as compared with subjects in the placebo group (5.7%, 10/175). A numerically lower number of subjects in the ustekinumab group (0.6%, 2/348) underwent UC disease related surgeries compared with subjects in the placebo group (1.7%, 3/175) through week 44.
 
@@ -2725,13 +2704,13 @@ The exact metabolic pathway for ustekinumab is unknown.
 
 ## Elimination
 
-Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2 ) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 l/day and 15.7 l, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
+Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 l/day and 15.7 l, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Dose linearity
 
 The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Single dose versus multiple doses
 
@@ -2749,13 +2728,15 @@ In patients with Crohn's disease and ulcerative colitis, based on observed data 
 
 ## Special populations
 
-No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted in elderly patients.
+No pharmacokinetic data are available in patients with impaired renal or hepatic function.
+
+No specific studies have been conducted in elderly patients.
+
+<div style=\"page-break-after: always\"></div>
 
 The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis and ulcerative colitis.
 
 In patients with Crohn's disease and ulcerative colitis, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ± 20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
-
-<div style=\"page-break-after: always\"></div>
 
 In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
 
@@ -2781,13 +2762,15 @@ Carcinogenicity studies were not performed with ustekinumab due to the lack of a
 
 ## 6.1 List of excipients
 
-L-histidine L-histidine monohydrochloride monohydrate Polysorbate 80 (E433) Sucrose Water for injections
+L-histidine L-histidine monohydrochloride monohydrate Polysorbate 80 (E433)
+
+<div style=\"page-break-after: always\"></div>
+
+Sucrose Water for injections
 
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -2823,15 +2806,19 @@ The pre-filled pen should not be shaken. The solution should be visually inspect
 
 STELARA does not contain preservatives; therefore any unused medicinal product remaining in the pre-filled pen should not be used. STELARA is supplied as a sterile, single-use pre-filled pen. The pre-filled pen must never be re-used. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
 
-<div style=\"page-break-after: always\"></div>
+Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-STELARA 45 mg solution for injection in pre-filled pen EU/1/08/494/006
+STELARA 45 mg solution for injection in pre-filled pen
+
+EU/1/08/494/006
 
 STELARA 90 mg solution for injection in pre-filled pen EU/1/08/494/007
 
@@ -2851,8 +2838,10 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2878,7 +2867,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THEMEDICINAL PRODUCT
 
 ##  Risk management plan (RMP)
 
@@ -2959,11 +2948,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-B-2340 Beerse
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
 
 Belgium
 
@@ -2977,7 +2962,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3001,15 +2986,18 @@ NN
 
 ## VIAL LABEL TEXT (130 mg)
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 STELARA 130 mg concentrate for solution for infusion ustekinumab For IV use after dilution.
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Do not shake.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -3018,7 +3006,8 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 130 mg/26 mL
 
@@ -3085,11 +3074,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30
-
-B-2340 Beerse
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
 
 Belgium
 
@@ -3102,22 +3087,18 @@ EU/1/08/494/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 STELARA 45 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -3153,15 +3134,15 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-PRE-FILLED SYRINGE CARTON TEXT (45 mg)
+## PRE-FILLED SYRINGE CARTON TEXT (45 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-STELARA 45 mg solution for injection in pre-filled syringe
-
-ustekinumab
+STELARA 45 mg solution for injection in pre-filled syringe ustekinumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3197,9 +3178,9 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Discard date, if stored at room temperature:
 
-<div style=\"page-break-after: always\"></div>
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3235,7 +3216,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3247,8 +3228,8 @@ STELARA 45 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3275,17 +3256,18 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 45 mg/0.5 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-PRE-FILLED SYRINGE CARTON TEXT (90 mg)
+## PRE-FILLED SYRINGE CARTON TEXT (90 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3325,9 +3307,9 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Discard date, if stored at room temperature:
 
-<div style=\"page-break-after: always\"></div>
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3363,8 +3345,9 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
 
 STELARA 90 mg
 
@@ -3374,8 +3357,8 @@ STELARA 90 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3387,9 +3370,12 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-STELARA 90 mg injection ustekinumab SC
+STELARA 90 mg injection ustekinumab
 
-## 2. METHOD OF ADMINISTRATION
+SC
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 ## 3. EXPIRY DATE
 
@@ -3400,16 +3386,18 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BYUNIT
 
 90 mg/1 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-PRE-FILLED PEN CARTON TEXT (45 mg)
+## PRE-FILLED PEN CARTON TEXT (45 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3453,9 +3441,9 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Discard date, if stored at room temperature:
 
-<div style=\"page-break-after: always\"></div>
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3471,7 +3459,7 @@ Can be stored at room temperature (up to 30 °C) for a single period up to 30 da
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 11. NAME AND ADDRESS OF THEMARKETING AUTHORISATION HOLDER
 
 Janssen-Cilag International NV
 
@@ -3491,8 +3479,9 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
 
 STELARA 45 mg
 
@@ -3502,8 +3491,8 @@ STELARA 45 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3523,15 +3512,20 @@ Read Instructions for Use in full before use.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-STELARA 45 mg injection ustekinumab SC
+STELARA 45 mg injection ustekinumab
 
-## 2. METHOD OF ADMINISTRATION
+SC
 
-## 3. EXPIRY DATE
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -3542,9 +3536,11 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-PRE-FILLED PEN CARTON TEXT (90 mg)
+## PRE-FILLED PEN CARTON TEXT (90 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3588,9 +3584,9 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard date, if stored at room temperature:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+Discard date, if stored at room temperature:
 
-<div style=\"page-break-after: always\"></div>
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3626,8 +3622,9 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
 
 STELARA 90 mg
 
@@ -3637,8 +3634,8 @@ STELARA 90 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3652,13 +3649,15 @@ Read Instructions for Use in full before use.
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## PRE-FILLED PEN LABEL TEXT (90 mg)
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL TEXT (90 mg)                                  |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-STELARA 90 mg injection ustekinumab SC
+STELARA 90 mg injection ustekinumab
+
+SC
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -3673,7 +3672,8 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 90 mg/1 mL
 
@@ -3690,15 +3690,15 @@ Lot
 
 ## STELARA 130 mg concentrate for solution for infusion
 
-## ustekinumab
+ustekinumab
 
 Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
 ## This leaflet has been written for the person taking the medicine.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3713,9 +3713,9 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 ## What Stelara is
 
-Stelara contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
+Stelara contains the active substance 'ustekinumab' , a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
 
-Stelara belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
+Stelara belongs to a group of medicines called 'immunosuppressants' . These medicines work by weakening part of the immune system.
 
 ## What Stelara is used for
 
@@ -3754,6 +3754,7 @@ Stelara can cause serious side effects, including allergic reactions and infecti
 ## Before you use Stelara tell your doctor:
 
 -  If you ever had an allergic reaction to Stelara. Ask your doctor if you are not sure.
+-  If you have an allergy to alpha-gal or have been diagnosed with alpha-gal syndrome (a type of food allergy to certain meats or meat products).
 -  If you have ever had any type of cancer - this is because immunosuppressants like Stelara weaken part of the immune system. This may increase the risk of cancer.
 -  If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
 -  If you have or have had a recent infection or if you have any abnormal skin openings (fistulae).
@@ -3779,10 +3780,10 @@ Stelara is not recommended for use in children under 2 years of age with Crohn's
 Tell your doctor or pharmacist:
 
 -  If you are taking, have recently taken or might take any other medicines.
--  If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Stelara.
 
 <div style=\"page-break-after: always\"></div>
 
+-  If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Stelara.
 -  If you received Stelara while pregnant, tell your baby's doctor about your Stelara treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
 
 ## Pregnancy and breast-feeding
@@ -3800,7 +3801,7 @@ Stelara has no or negligible influence on the ability to drive and use machines.
 
 ## Stelara contains sodium
 
-Stelara contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'. However, before Stelara is given to you, it is mixed with a solution that contains sodium. Talk to your doctor if you are on a low salt diet.
+Stelara contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free' . However, before Stelara is given to you, it is mixed with a solution that contains sodium. Talk to your doctor if you are on a low salt diet.
 
 ## Stelara contains polysorbate 80
 
@@ -3816,19 +3817,20 @@ Stelara 130 mg concentrate for solution for infusion will be given to you by you
 
 Your doctor will decide how much Stelara you need to receive and for how long.
 
-## Adults aged 18 years or older Crohn's disease and ulcerative colitis
+<div style=\"page-break-after: always\"></div>
+
+## Adults aged 18 years or older
+
+## Crohn's disease and ulcerative colitis
 
 -  The doctor will work out the recommended intravenous infusion dose for you based on your body weight.
-
-<div style=\"page-break-after: always\"></div>
+-  After the starting intravenous dose, you will have the next dose of 90 mg Stelara by an injection under your skin ('subcutaneously') 8 weeks later, and then every 12 weeks thereafter.
 
 | Your body weight   | Dose   |
 |--------------------|--------|
 | ≤ 55 kg            | 260 mg |
 | > 55 kg to ≤ 85 kg | 390 mg |
 | > 85 kg            | 520 mg |
-
--  After the starting intravenous dose, you will have the next dose of 90 mg Stelara by an injection under your skin ('subcutaneously') 8 weeks later, and then every 12 weeks thereafter.
 
 ## Children who weigh less than 40 kg
 
@@ -3872,12 +3874,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Some patients may have serious side effects that may need urgent treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
 
 -  Serious allergic reactions ('anaphylaxis') are rare in people taking Stelara (may affect up to 1 in 1,000 people). Signs include:
-
-<div style=\"page-break-after: always\"></div>
-
 - o difficulty breathing or swallowing
 - o low blood pressure, which can cause dizziness or light-headedness
 - o swelling of the face, lips, mouth or throat.
@@ -3912,17 +3913,16 @@ Tell your doctor straight away if you notice any of these signs of infection. Th
 
 Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other side effects
 
-Common side effects (may affect up to 1 in 10 people):
+## Common side effects (may affect up to 1 in 10 people):
 
 -  Diarrhoea
 -  Nausea
 -  Vomiting
 -  Feeling tired
-
-<div style=\"page-break-after: always\"></div>
-
 -  Feeling dizzy
 -  Headache
 -  Itching ('pruritus')
@@ -3931,7 +3931,7 @@ Common side effects (may affect up to 1 in 10 people):
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-## Uncommon side effects (may affect up to 1 in 100 people) :
+## Uncommon side effects (may affect up to 1 in 100 people):
 
 -  Tooth infections
 -  Vaginal yeast infection
@@ -3964,15 +3964,15 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 -  Keep this medicine out of the sight and reach of children.
 -  Store in a refrigerator (2 °C-8 °C). Do not freeze.
 -  Keep the vial in the outer carton in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
+
 -  Do not shake the vials. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
 
--  After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
+-  After the expiry date which is stated on the label and the carton after 'EXP' . The expiry date refers to the last day of that month.
 -  If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Stelara looks like and contents of the pack').
-
-<div style=\"page-break-after: always\"></div>
-
 -  If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
 -  If the product has been shaken vigorously.
 -  If the seal is broken.
@@ -3992,9 +3992,7 @@ Stelara is a clear, colourless to light yellow concentrate for solution for infu
 
 ## Marketing Authorisation Holder
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
@@ -4004,19 +4002,21 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377
+
+info \\_ belux@its.jnj.com
+
+## България
+
+\"Джонсън &amp; Джонсън България\" ЕООД
+
+Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
 
 ## Lietuva
 
 UAB \"JOHNSON &amp; JOHNSON\"
 
-Tel: +370 5 278 68 88
-
-lt@its.jnj.com
-
-## България
-
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
@@ -4024,13 +4024,69 @@ Janssen-Cilag NV
 
 Tél/Tel: 800 29 504
 
-info\\_belux@its.jnj.com
+info \\_ belux@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
 Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
+
+## Danmark
+
+Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
+
+## Deutschland
+
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955
+
+medinfo-de@its.jnj.com
+
+## Eesti
+
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410
+
+ee@its.jnj.com
+
+## Ελλάδα
+
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
+
+## España
+
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
+
+## France
+
+Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03
+
+medisource@its.jnj.com
+
+## Hrvatska
+
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
+
+## Ireland
+
+Janssen Sciences Ireland UC Tel: 1 800 709 122
+
+medinfo@its.jnj.com
+
+## Ísland
+
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000
+
+janssen@vistor.is
+
+## Italia
+
+Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
 
 ## Magyarország
 
@@ -4040,75 +4096,23 @@ Tel.: +36 1 884 2858
 
 janssenhu@its.jnj.com
 
-## Danmark
-
-Janssen-Cilag A/S
-
-Tlf.: +45 4594 8282
-
-jacdk@its.jnj.com
-
 ## Malta
 
 AM MANGION LTD
 
 Tel: +356 2397 6000
 
-<div style=\"page-break-after: always\"></div>
-
-## Deutschland
-
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
-
-## Eesti
-
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
-
-## Ελλάδα
-
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
-
-## España
-
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
-
-## France
-
-Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
-
-## Hrvatska
-
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
-
-## Ireland
-
-Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
-
-## Ísland
-
-Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
-
-## Italia
-
-Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
-
-## Κύπρος
-
-Βαρνάβας Χατζηπαναγής Λτδ Tηλ: +357 22 207 700
-
-## Latvija
-
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
-
-## This leaflet was last revised in .
-
 ## Nederland
 
-Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info
+
+\\_ nl@its.jnj.com
 
 ## Norge
 
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+Janssen-Cilag AS Tlf: +47 24 12 65 00
+
+jacno@its.jnj.com
 
 ## Österreich
 
@@ -4124,9 +4128,7 @@ Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL
-
-Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
 
 ## Slovenija
 
@@ -4134,17 +4136,33 @@ Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
-Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
 
 ## Suomi/Finland
 
 Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
-## Sverige
+## Κύπρος
 
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+Βαρνάβας Χατζηπαναγής Λτδ
+
+Tηλ: +357 22 207 700
 
 <div style=\"page-break-after: always\"></div>
+
+## Latvija
+
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+
+Tel: +371 678 93561
+
+lv@its.jnj.com
+
+## This leaflet was last revised in.
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -4167,6 +4185,12 @@ STELARA concentrate for solution for infusion must be diluted, prepared and infu
 7. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometre).
 8. Each vial is for single use only and any unused medicinal product should be disposed of in accordance with local requirements.
 
+Sverige Janssen-Cilag AB Tfn: +46 8 626 50 00
+
+jacse@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
+
 ## Storage
 
 If necessary, the diluted infusion solution may be stored at room temperature. The infusion should be completed within 8 hours of the dilution in the infusion bag. Do not freeze.
@@ -4183,10 +4207,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Stelara to a child, please read this information carefully.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4201,9 +4225,9 @@ This leaflet has been written for the person taking the medicine. If you are the
 
 ## What Stelara is
 
-Stelara contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
+Stelara contains the active substance 'ustekinumab' , a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
 
-Stelara belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
+Stelara belongs to a group of medicines called 'immunosuppressants' . These medicines work by weakening part of the immune system.
 
 ## What Stelara is used for
 
@@ -4260,15 +4284,16 @@ Stelara can cause serious side effects, including allergic reactions and infecti
 ## Before you use Stelara tell your doctor:
 
 -  If you ever had an allergic reaction to Stelara. Ask your doctor if you are not sure.
+-  If you have an allergy to alpha-gal or have been diagnosed with alpha-gal syndrome (a type of food allergy to certain meats or meat products).
 -  If you have ever had any type of cancer - this is because immunosuppressants like Stelara weaken part of the immune system. This may increase the risk of cancer.
 -  If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
 -  If you have or have had a recent infection.
 -  If you have any new or changing lesions within psoriasis areas or on normal skin.
 -  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies together with Stelara has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
--  If you are having or have ever had injections to treat allergies - it is not known if Stelara may affect these.
 
 <div style=\"page-break-after: always\"></div>
 
+-  If you are having or have ever had injections to treat allergies - it is not known if Stelara may affect these.
 -  If you are 65 years of age or over - you may be more likely to get infections.
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
@@ -4345,11 +4370,11 @@ Your doctor will decide how much Stelara you need to use and for how long.
 
 ## Children who weigh at least 40 kg Crohn's disease and ulcerative colitis
 
--  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will
+-  During treatment, the first dose of approximately 6 mg/kg Stelara will be given by your doctor
 
 <div style=\"page-break-after: always\"></div>
 
-receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 
 -  In some patients, 90 mg Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
 
@@ -4399,9 +4424,11 @@ If you have a serious allergic reaction, your doctor may decide that you should 
 
 -  Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
 -  Infections of the chest are uncommon (may affect up to 1 in 100 people)
--  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
+-  Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in
 
 <div style=\"page-break-after: always\"></div>
+
+100 people)
 
 -  Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
 
@@ -4423,7 +4450,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 ## Other side effects
 
-Common side effects (may affect up to 1 in 10 people) :
+## Common side effects (may affect up to 1 in 10 people):
 
 -  Diarrhoea
 -  Nausea
@@ -4437,7 +4464,7 @@ Common side effects (may affect up to 1 in 10 people) :
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-Uncommon side effects (may affect up to 1 in 100 people) :
+Uncommon side effects (may affect up to 1 in 100 people):
 
 -  Tooth infections
 -  Vaginal yeast infection
@@ -4448,9 +4475,10 @@ Uncommon side effects (may affect up to 1 in 100 people) :
 -  Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
 -  A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
 -  Peeling of the skin (skin exfoliation)
--  Acne
 
 <div style=\"page-break-after: always\"></div>
+
+##  Acne
 
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
@@ -4475,7 +4503,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 ## Do not use this medicine:
 
--  After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
+-  After the expiry date which is stated on the label and the carton after 'EXP' . The expiry date refers to the last day of that month.
 -  If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Stelara looks like and contents of the pack').
 -  If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
 -  If the product has been shaken vigorously.
@@ -4498,9 +4526,7 @@ Stelara is a clear to slightly opalescent (having a pearl-like shine), colourles
 
 ## Marketing Authorisation Holder
 
-Janssen-Cilag International NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
@@ -4510,21 +4536,21 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info \\_ belux@its.jnj.com
 
 ## България
 
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+\"Джонсън &amp; Джонсън България\" ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
 
 ## Česká republika
 
-Janssen-Cilag s.r.o.
-
-Tel: +420 227 012 227
+Janssen-Cilag s.r.o. Tel: +420 227 012 227
 
 ## Danmark
 
-Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
+Janssen-Cilag A/S Tlf.: +45 4594 8282
+
+jacdk@its.jnj.com
 
 ## Deutschland
 
@@ -4532,7 +4558,11 @@ Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
+
+Tel: +372 617 7410
+
+ee@its.jnj.com
 
 ## Ελλάδα
 
@@ -4548,13 +4578,11 @@ contacto@its.jnj.com
 
 ## Lietuva
 
-UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88
-
-lt@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info \\_ belux@its.jnj.com
 
 ## Magyarország
 
@@ -4568,15 +4596,13 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V.
-
-Tel: 0800 242 42 42
-
-info\\_nl@its.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info \\_ nl@its.jnj.com
 
 ## Norge
 
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+Janssen-Cilag AS Tlf: +47 24 12 65 00
+
+jacno@its.jnj.com
 
 ## Österreich
 
@@ -4602,27 +4628,21 @@ medisource@its.jnj.com
 
 ## Hrvatska
 
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
+Johnson &amp; Johnson S.E. d.o.o.
+
+Tel: +385 1 6610 700
 
 jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
-Janssen Sciences Ireland UC
-
-Tel: 1 800 709 122
+Janssen Sciences Ireland UC Tel: 1 800 709 122
 
 medinfo@its.jnj.com
 
 ## Ísland
 
-Janssen-Cilag AB
-
-c/o Vistor ehf.
-
-Sími: +354 535 7000
-
-janssen@vistor.is
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
@@ -4642,9 +4662,11 @@ Tηλ: +357 22 207 700
 
 UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
 
-Tel: +371 678 93561 lv@its.jnj.com
+Tel: +371 678 93561
 
-## This leaflet was last revised in .
+lv@its.jnj.com
+
+## This leaflet was last revised in.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
@@ -4676,11 +4698,7 @@ Tel: +421 232 408 400
 
 ## Suomi/Finland
 
-Janssen-Cilag Oy
-
-Puh/Tel: +358 207 531 300
-
-jacfi@its.jnj.com
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
 ## Sverige
 
@@ -4699,7 +4717,7 @@ At the start of treatment, your healthcare provider will assist you with your fi
 
 Take the vial(s) out of the refrigerator. Let the vial stand for about half an hour. This will let the liquid come to a comfortable temperature for injection (room temperature).
 
-Check the vial(s) to make sure
+## Check the vial(s) to make sure
 
 -  the number of vials and strength is correct
 - o If your dose is 45 mg or less, you will get one 45 mg vial of Stelara
@@ -4717,8 +4735,6 @@ Get everything together that you need and lay out on a clean surface. This inclu
 
 Figure 1
 
-<!-- image -->
-
 ## 2. Choose and prepare the injection site:
 
 Choose an injection site (see Figure 2)
@@ -4733,8 +4749,6 @@ Choose an injection site (see Figure 2)
 
 *Areas in gray are recommended injection sites.
 
-<!-- image -->
-
 Figure 2
 
 ## Prepare the injection site
@@ -4746,6 +4760,9 @@ Figure 2
 ## 3. Prepare the dose:
 
 -  Take the cap off the top of the vial (see Figure 3)
+
+Figure 3
+
 -  Do not remove the stopper
 -  Clean the stopper with an antiseptic swab
 -  Put the vial on a flat surface.
@@ -4755,10 +4772,6 @@ Figure 2
 -  Turn the vial and the syringe upside down
 -  Pull on the syringe plunger to fill the syringe with the amount of liquid prescribed by your doctor
 -  It is important that the needle is always in the liquid. This stops air bubbles forming in the syringe (see Figure 4)
-
-Figure 3
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4804,10 +4817,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Stelara to a child, please read this information carefully.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4822,9 +4835,9 @@ This leaflet has been written for the person taking the medicine. If you are the
 
 ## What Stelara is
 
-Stelara contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
+Stelara contains the active substance 'ustekinumab' , a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
 
-Stelara belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
+Stelara belongs to a group of medicines called 'immunosuppressants' . These medicines work by weakening part of the immune system.
 
 ## What Stelara is used for
 
@@ -4881,17 +4894,16 @@ Stelara can cause serious side effects, including allergic reactions and infecti
 ## Before you use Stelara tell your doctor:
 
 -  If you ever had an allergic reaction to Stelara. Ask your doctor if you are not sure.
+-  If you have an allergy to alpha-gal or have been diagnosed with alpha-gal syndrome (a type of food allergy to certain meats or meat products).
 -  If you have ever had any type of cancer - this is because immunosuppressants like Stelara weaken part of the immune system. This may increase the risk of cancer.
 -  If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
 -  If you have or have had a recent infection.
 -  If you have any new or changing lesions within psoriasis areas or on normal skin.
 -  If you have ever had an allergic reaction to latex or Stelara injection - the container of this medicinal product contains latex rubber, which may cause severe allergic reactions in people who are sensitive to latex. See 'Look out for serious side effects' in section 4 for the signs of an allergic reaction.
--  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using
 
 <div style=\"page-break-after: always\"></div>
 
-these therapies together with Stelara has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
-
+-  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies together with Stelara has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
 -  If you are having or have ever had injections to treat allergies - it is not known if Stelara may affect these.
 -  If you are 65 years of age or over - you may be more likely to get infections.
 
@@ -4922,9 +4934,10 @@ Tell your doctor or pharmacist:
 -  If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and must use adequate contraception while using Stelara and for at least 15 weeks after the last Stelara treatment.
 -  Stelara can pass across the placenta to the unborn baby. If you received Stelara during your pregnancy, your baby may have a higher risk for getting an infection.
 -  It is important that you tell your baby's doctors and other health care professionals if you received Stelara during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
--  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Stelara - do not do both.
 
 <div style=\"page-break-after: always\"></div>
+
+-  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Stelara - do not do both.
 
 ## Driving and using machines
 
@@ -4944,7 +4957,9 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Stelara you need to use and for how long.
 
-## Adults aged 18 years or older Psoriasis or psoriatic arthritis
+## Adults aged 18 years or older
+
+## Psoriasis or psoriatic arthritis
 
 -  The recommended starting dose is 45 mg Stelara. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
@@ -4965,10 +4980,13 @@ Your doctor will decide how much Stelara you need to use and for how long.
 
 ## Children who weigh less than 40 kg Crohn's disease and ulcerative colitis
 
--  During treatment, your doctor will work out the recommended intravenous infusion dose for you based on your body surface area (BSA). This will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, your doctor will work out the next dose based on your BSA. You will receive this dose of Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
--  In some patients, after the first injection under the skin, Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
+-  During treatment, your doctor will work out the recommended intravenous infusion dose for you based on your body surface area (BSA). This will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, your doctor will work out the next dose based on your BSA. You will receive this dose of Stelara after 8 weeks, then every
 
 <div style=\"page-break-after: always\"></div>
+
+12 weeks thereafter by an injection under the skin ('subcutaneously').
+
+-  In some patients, after the first injection under the skin, Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
 
 ## Children who weigh at least 40 kg Crohn's disease and ulcerative colitis
 
@@ -5015,9 +5033,9 @@ Some patients may have serious side effects that may need urgent treatment.
 
 In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
 
-If you have a serious allergic reaction, your doctor may decide that you should not use Stelara again.
-
 <div style=\"page-break-after: always\"></div>
+
+If you have a serious allergic reaction, your doctor may decide that you should not use Stelara again.
 
 ## Infections - these may need urgent treatment. Tell your doctor straight away if you notice any of the following signs.
 
@@ -5044,7 +5062,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 ## Other side effects
 
-## Common side effects (may affect up to 1 in 10 people) :
+Common side effects (may affect up to 1 in 10 people):
 
 -  Diarrhoea
 -  Nausea
@@ -5058,17 +5076,17 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-Uncommon side effects (may affect up to 1 in 100 people) :
+## Uncommon side effects (may affect up to 1 in 100 people):
 
 -  Tooth infections
 -  Vaginal yeast infection
 -  Depression
 -  Blocked or stuffy nose
--  Bleeding, bruising, hardness, swelling and itching where the injection is given
--  Feeling weak
 
 <div style=\"page-break-after: always\"></div>
 
+-  Bleeding, bruising, hardness, swelling and itching where the injection is given
+-  Feeling weak
 -  Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
 -  A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
 -  Peeling of the skin (skin exfoliation)
@@ -5098,7 +5116,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 ## Do not use this medicine:
 
--  After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
+-  After the expiry date which is stated on the label and the carton after 'EXP' . The expiry date refers to the last day of that month.
 -  If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Stelara looks like and contents of the pack').
 -  If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
 -  If the product has been shaken vigorously.
@@ -5120,7 +5138,9 @@ Stelara is a clear to slightly opalescent (having a pearl-like shine), colourles
 
 ## Marketing Authorisation Holder
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
+
+Belgium
 
 ## Manufacturer
 
@@ -5130,41 +5150,19 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
-
-## Lietuva
-
-UAB \"JOHNSON &amp; JOHNSON\"
-
-Tel: +370 5 278 68 88
-
-lt@its.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info \\_ belux@its.jnj.com
 
 ## България
 
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+\"Джонсън &amp; Джонсън България\" ЕООД
 
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV
-
-Tél/Tel: 800 29 504
-
-info\\_belux@its.jnj.com
+Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
 
 ## Česká republika
 
 Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
-
-## Magyarország
-
-Janssen-Cilag Kft.
-
-Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
 
 ## Danmark
 
@@ -5174,15 +5172,39 @@ Tlf.: +45 4594 8282
 
 jacdk@its.jnj.com
 
+## Deutschland
+
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955
+
+medinfo-de@its.jnj.com
+
+## Lietuva
+
+UAB \"JOHNSON &amp; JOHNSON\"
+
+Tel: +370 5 278 68 88 lt@its.jnj.com
+
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV
+
+Tél/Tel: 800 29 504
+
+info \\_ belux@its.jnj.com
+
+## Magyarország
+
+Janssen-Cilag Kft.
+
+Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
+
 ## Malta
 
 AM MANGION LTD
 
 Tel: +356 2397 6000
-
-## Deutschland
-
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Nederland
 
@@ -5190,7 +5212,7 @@ Janssen-Cilag B.V.
 
 Tel: 0800 242 42 42
 
-info\\_nl@its.jnj.com
+info \\_ nl@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5228,13 +5250,17 @@ medisource@its.jnj.com
 
 ## Hrvatska
 
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
+Johnson &amp; Johnson S.E. d.o.o.
+
+Tel: +385 1 6610 700
 
 jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
-Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
+Janssen Sciences Ireland UC Tel: 1 800 709 122
+
+medinfo@its.jnj.com
 
 ## Ísland
 
@@ -5262,7 +5288,7 @@ Tel: +371 678 93561
 
 lv@its.jnj.com
 
-## This leaflet was last revised in .
+## This leaflet was last revised in.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
@@ -5314,7 +5340,11 @@ Tel: +421 232 408 400
 
 ## Suomi/Finland
 
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+Janssen-Cilag Oy
+
+Puh/Tel: +358 207 531 300
+
+jacfi@its.jnj.com
 
 ## Sverige
 
@@ -5337,8 +5367,6 @@ Figure 1 shows what the pre-filled syringe looks like.
 
 Figure 1
 
-<!-- image -->
-
 ## 1. Check the number of pre-filled syringes and prepare the materials:
 
 Preparing for use of the pre-filled syringe
@@ -5350,7 +5378,7 @@ Preparing for use of the pre-filled syringe
 -  Do not remove the needle cover from the pre-filled syringe until instructed to do so
 -  Do not touch the needle guard activation clips (as indicated by asterisks * in Figure 1) to prevent prematurely covering the needle with the needle guard.
 
-## Check the pre-filled syringe(s) to make sure
+Check the pre-filled syringe(s) to make sure
 
 -  the number of pre-filled syringes and strength is correct
 - o If your dose is 45 mg you will get one 45 mg pre-filled syringe of Stelara
@@ -5375,12 +5403,6 @@ Choose an injection site (see Figure 2)
 -  If possible, do not use areas of skin that show signs of psoriasis
 -  If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site
 
-*Areas in gray are recommended injection sites.
-
-<!-- image -->
-
-Figure 2
-
 ## Prepare the injection site
 
 -  Wash your hands very well with soap and warm water
@@ -5392,14 +5414,17 @@ Figure 2
 -  The needle cover should not be removed until you are ready to inject the dose
 -  Pick up the pre-filled syringe, hold the body of the syringe with one hand
 -  Pull the needle cover straight off and throw it away. Do not touch the plunger while you do this
+
+*Areas in gray are recommended injection sites.
+
+Figure 2
+
+Figure 3
+
 -  You may notice an air bubble in the pre-filled syringe or a drop of liquid at the end of the needle. These are both normal and do not need to be removed
 -  Do not touch the needle or allow it to touch any surface
 -  Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist
 -  Inject the dose promptly after removing the needle cover.
-
-Figure 3
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5408,21 +5433,18 @@ Figure 3
 -  Hold the pre-filled syringe with one hand between the middle and index fingers and place the thumb on top of the plunger head and use the other hand to gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly
 -  Do not pull back on the plunger at any time
 -  In a single and swift motion, insert the needle through the skin as far as it will go (see Figure 4)
--  Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 5)
--  When the plunger is pushed as far as it will go, continue to keep the pressure on the plunger head, take out the needle and let go of the skin (see Figure 6)
--  Slowly take your thumb off the plunger head to allow the empty syringe to move up until the entire needle is covered by the needle guard, as shown by Figure 7:
 
 Figure 4
 
-<!-- image -->
+-  Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 5)
 
 Figure 5
 
-<!-- image -->
+-  When the plunger is pushed as far as it will go, continue to keep the pressure on the plunger head, take out the needle and let go of the skin (see Figure 6)
 
 Figure 6
 
-<!-- image -->
+-  Slowly take your thumb off the plunger head to allow the empty syringe to move up until the entire needle is covered by the needle guard, as shown by Figure 7:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5455,10 +5477,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Stelara to a child, please read this information carefully.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5473,9 +5495,9 @@ This leaflet has been written for the person taking the medicine. If you are the
 
 ## What Stelara is
 
-Stelara contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
+Stelara contains the active substance 'ustekinumab' , a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
 
-Stelara belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
+Stelara belongs to a group of medicines called 'immunosuppressants' . These medicines work by weakening part of the immune system.
 
 ## What Stelara is used for
 
@@ -5532,17 +5554,16 @@ Stelara can cause serious side effects, including allergic reactions and infecti
 ## Before you use Stelara tell your doctor:
 
 -  If you ever had an allergic reaction to Stelara. Ask your doctor if you are not sure.
+-  If you have an allergy to alpha-gal or have been diagnosed with alpha-gal syndrome (a type of food allergy to certain meats or meat products).
 -  If you have ever had any type of cancer - this is because immunosuppressants like Stelara weaken part of the immune system. This may increase the risk of cancer.
 -  If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
 -  If you have or have had a recent infection.
 -  If you have any new or changing lesions within psoriasis areas or on normal skin.
 -  If you have ever had an allergic reaction to latex or Stelara injection - the container of this medicinal product contains latex rubber, which may cause severe allergic reactions in people who are sensitive to latex. See 'Look out for serious side effects' in section 4 for the signs of an allergic reaction.
--  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using
 
 <div style=\"page-break-after: always\"></div>
 
-these therapies together with Stelara has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
-
+-  If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies together with Stelara has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
 -  If you are having or have ever had injections to treat allergies - it is not known if Stelara may affect these.
 -  If you are 65 years of age or over - you may be more likely to get infections.
 
@@ -5573,9 +5594,10 @@ Tell your doctor or pharmacist:
 -  If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and must use adequate contraception while using Stelara and for at least 15 weeks after the last Stelara treatment.
 -  Stelara can pass across the placenta to the unborn baby. If you received Stelara during your pregnancy, your baby may have a higher risk for getting an infection.
 -  It is important that you tell your baby's doctors and other health care professionals if you received Stelara during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
--  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Stelara - do not do both.
 
 <div style=\"page-break-after: always\"></div>
+
+-  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Stelara - do not do both.
 
 ## Driving and using machines
 
@@ -5595,7 +5617,9 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Stelara you need to use and for how long.
 
-## Adults aged 18 years or older Psoriasis or psoriatic arthritis
+## Adults aged 18 years or older
+
+## Psoriasis or psoriatic arthritis
 
 -  The recommended starting dose is 45 mg Stelara. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 -  After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
@@ -5616,10 +5640,13 @@ Your doctor will decide how much Stelara you need to use and for how long.
 
 ## Children who weigh less than 40 kg Crohn's disease and ulcerative colitis
 
--  During treatment, your doctor will work out the recommended intravenous infusion dose for you based on your body surface area (BSA). This will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, your doctor will work out the next dose based on your BSA. You will receive this dose of Stelara after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
--  In some patients, after the first injection under the skin, Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
+-  During treatment, your doctor will work out the recommended intravenous infusion dose for you based on your body surface area (BSA). This will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, your doctor will work out the next dose based on your BSA. You will receive this dose of Stelara after 8 weeks, then every
 
 <div style=\"page-break-after: always\"></div>
+
+12 weeks thereafter by an injection under the skin ('subcutaneously').
+
+-  In some patients, after the first injection under the skin, Stelara may be given every 8 weeks or every 4 weeks. Your doctor will decide when you should receive your next dose.
 
 ## Children who weigh at least 40 kg Crohn's disease and ulcerative colitis
 
@@ -5666,9 +5693,9 @@ Some patients may have serious side effects that may need urgent treatment.
 
 In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
 
-If you have a serious allergic reaction, your doctor may decide that you should not use Stelara again.
-
 <div style=\"page-break-after: always\"></div>
+
+If you have a serious allergic reaction, your doctor may decide that you should not use Stelara again.
 
 ## Infections - these may need urgent treatment. Tell your doctor straight away if you notice any of the following signs.
 
@@ -5695,7 +5722,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 ## Other side effects
 
-## Common side effects (may affect up to 1 in 10 people) :
+Common side effects (may affect up to 1 in 10 people):
 
 -  Diarrhoea
 -  Nausea
@@ -5709,17 +5736,17 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-Uncommon side effects (may affect up to 1 in 100 people) :
+## Uncommon side effects (may affect up to 1 in 100 people):
 
 -  Tooth infections
 -  Vaginal yeast infection
 -  Depression
 -  Blocked or stuffy nose
--  Bleeding, bruising, hardness, swelling and itching where the injection is given
--  Feeling weak
 
 <div style=\"page-break-after: always\"></div>
 
+-  Bleeding, bruising, hardness, swelling and itching where the injection is given
+-  Feeling weak
 -  Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
 -  A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
 -  Peeling of the skin (skin exfoliation)
@@ -5749,7 +5776,7 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 ## Do not use this medicine:
 
--  After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
+-  After the expiry date which is stated on the label and the carton after 'EXP' . The expiry date refers to the last day of that month.
 -  If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Stelara looks like and contents of the pack').
 -  If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
 -  If the product has been shaken vigorously.
@@ -5771,51 +5798,33 @@ Stelara is a clear to slightly opalescent (having a pearl-like shine), colourles
 
 ## Marketing Authorisation Holder
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse
+
+Belgium
 
 ## Manufacturer
 
-Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands
+Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden
+
+The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
-
-## Lietuva
-
-UAB \"JOHNSON &amp; JOHNSON\"
-
-Tel: +370 5 278 68 88
-
-lt@its.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info \\_ belux@its.jnj.com
 
 ## България
 
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+\"Джонсън &amp; Джонсън България\" ЕООД
 
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV
-
-Tél/Tel: 800 29 504
-
-info\\_belux@its.jnj.com
+Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
 
 ## Česká republika
 
 Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
-
-## Magyarország
-
-Janssen-Cilag Kft.
-
-Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
 
 ## Danmark
 
@@ -5825,15 +5834,39 @@ Tlf.: +45 4594 8282
 
 jacdk@its.jnj.com
 
+## Deutschland
+
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955
+
+medinfo-de@its.jnj.com
+
+## Lietuva
+
+UAB \"JOHNSON &amp; JOHNSON\"
+
+Tel: +370 5 278 68 88 lt@its.jnj.com
+
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV
+
+Tél/Tel: 800 29 504
+
+info \\_ belux@its.jnj.com
+
+## Magyarország
+
+Janssen-Cilag Kft.
+
+Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
+
 ## Malta
 
 AM MANGION LTD
 
 Tel: +356 2397 6000
-
-## Deutschland
-
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Nederland
 
@@ -5841,7 +5874,7 @@ Janssen-Cilag B.V.
 
 Tel: 0800 242 42 42
 
-info\\_nl@its.jnj.com
+info \\_ nl@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5879,17 +5912,27 @@ medisource@its.jnj.com
 
 ## Hrvatska
 
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
+Johnson &amp; Johnson S.E. d.o.o.
+
+Tel: +385 1 6610 700
 
 jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
-Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
+Janssen Sciences Ireland UC Tel: 1 800 709 122
+
+medinfo@its.jnj.com
 
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
+Janssen-Cilag AB
+
+c/o Vistor ehf.
+
+Sími: +354 535 7000
+
+janssen@vistor.is
 
 ## Italia
 
@@ -5913,7 +5956,7 @@ Tel: +371 678 93561
 
 lv@its.jnj.com
 
-## This leaflet was last revised in .
+## This leaflet was last revised in.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
@@ -5965,11 +6008,19 @@ Tel: +421 232 408 400
 
 ## Suomi/Finland
 
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+Janssen-Cilag Oy
+
+Puh/Tel: +358 207 531 300
+
+jacfi@its.jnj.com
 
 ## Sverige
 
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
+Janssen-Cilag AB
+
+Tfn: +46 8 626 50 00
+
+jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5984,8 +6035,6 @@ Figure 1 shows what the pre-filled syringe looks like.
 
 Figure 1
 
-<!-- image -->
-
 ## 1. Check the number of pre-filled syringes and prepare the materials:
 
 Preparing for use of the pre-filled syringe
@@ -5997,7 +6046,7 @@ Preparing for use of the pre-filled syringe
 -  Do not remove the needle cover from the pre-filled syringe until instructed to do so
 -  Do not touch the needle guard activation clips (as indicated by asterisks * in Figure 1) to prevent prematurely covering the needle with the needle guard.
 
-## Check the pre-filled syringe(s) to make sure
+Check the pre-filled syringe(s) to make sure
 
 -  the number of pre-filled syringes and strength is correct
 - o If your dose is 90 mg you will get one 90 mg pre-filled syringe of Stelara.
@@ -6021,11 +6070,7 @@ Choose an injection site (see Figure 2)
 -  If possible, do not use areas of skin that show signs of psoriasis
 -  If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site
 
-Figure 2 *Areas in gray are recommended injection sites.
-
-<!-- image -->
-
-## Prepare the injection site
+Prepare the injection site
 
 -  Wash your hands very well with soap and warm water
 -  Wipe the injection site on the skin with an antiseptic wipe
@@ -6036,14 +6081,17 @@ Figure 2 *Areas in gray are recommended injection sites.
 -  The needle cover should not be removed until you are ready to inject the dose
 -  Pick up the pre-filled syringe, hold the body of the syringe with one hand
 -  Pull the needle cover straight off and throw it away. Do not touch the plunger while you do this
+
+*Areas in gray are recommended injection sites.
+
+Figure 2
+
+Figure 3
+
 -  You may notice an air bubble in the pre-filled syringe or a drop of liquid at the end of the needle. These are both normal and do not need to be removed
 -  Do not touch the needle or allow it to touch any surface
 -  Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist
 -  Inject the dose promptly after removing the needle cover.
-
-Figure 3
-
-<!-- image -->
 
 ## 4. Inject the dose:
 
@@ -6051,25 +6099,19 @@ Figure 3
 -  Do not pull back on the plunger at any time
 -  In a single and swift motion, insert the needle through the skin as far as it will go (see Figure 4)
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 4
 
-<!-- image -->
-
 -  Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 5)
--  When the plunger is pushed as far as it will go, continue to keep the pressure on the plunger head, take out the needle and let go of the skin (see Figure 6)
--  Slowly take your thumb off the plunger head to allow the empty syringe to move up until the entire needle is covered by the needle guard, as shown by Figure 7:
 
 Figure 5
 
-<!-- image -->
+-  When the plunger is pushed as far as it will go, continue to keep the pressure on the plunger head, take out the needle and let go of the skin (see Figure 6)
 
 Figure 6
 
-<!-- image -->
+-  Slowly take your thumb off the plunger head to allow the empty syringe to move up until the entire needle is covered by the needle guard, as shown by Figure 7:
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6092,16 +6134,18 @@ Figure 8
 
 <div style=\"page-break-after: always\"></div>
 
-## STELARA 45 mg solution for injection in pre-filled pen ustekinumab
+## STELARA 45 mg solution for injection in pre-filled pen
+
+ustekinumab
 
 Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
 ## This leaflet has been written for the person taking the medicine.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -6116,9 +6160,9 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 ## What Stelara is
 
-Stelara contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
+Stelara contains the active substance 'ustekinumab' , a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
 
-Stelara belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
+Stelara belongs to a group of medicines called 'immunosuppressants' . These medicines work by weakening part of the immune system.
 
 ## What Stelara is used for
 
@@ -6173,6 +6217,7 @@ Stelara can cause serious side effects, including allergic reactions and infecti
 ## Before you use Stelara tell your doctor:
 
 -  If you ever had an allergic reaction to Stelara. Ask your doctor if you are not sure.
+-  If you have an allergy to alpha-gal or have been diagnosed with alpha-gal syndrome (a type of food allergy to certain meats or meat products).
 -  If you have ever had any type of cancer - this is because immunosuppressants like Stelara weaken part of the immune system. This may increase the risk of cancer.
 -  If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
 -  If you have or have had a recent infection.
@@ -6182,9 +6227,9 @@ Stelara can cause serious side effects, including allergic reactions and infecti
 -  If you are having or have ever had injections to treat allergies - it is not known if Stelara may affect these.
 -  If you are 65 years of age or over - you may be more likely to get infections.
 
-If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
-
 <div style=\"page-break-after: always\"></div>
+
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
 
 Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
@@ -6215,11 +6260,11 @@ Tell your doctor or pharmacist:
 -  It is important that you tell your baby's doctors and other health care professionals if you received Stelara during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
 -  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Stelara - do not do both.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Stelara has no or negligible influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Stelara contains polysorbate 80
 
@@ -6310,13 +6355,15 @@ You must look out for signs of infection while you are using Stelara. These incl
 
 Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, or skin infections or shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Stelara until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
 
-Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
+Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin
 
 <div style=\"page-break-after: always\"></div>
 
+## conditions. You should tell your doctor straight away if you notice any of these signs.
+
 ## Other side effects
 
-## Common side effects (may affect up to 1 in 10 people) :
+## Common side effects (may affect up to 1 in 10 people):
 
 -  Diarrhoea
 -  Nausea
@@ -6330,7 +6377,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-## Uncommon side effects (may affect up to 1 in 100 people) :
+## Uncommon side effects (may affect up to 1 in 100 people):
 
 -  Tooth infections
 -  Vaginal yeast infection
@@ -6343,12 +6390,12 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Peeling of the skin (skin exfoliation)
 -  Acne
 
-## Rare side effects (may affect up to 1 in 1,000 people) :
+## Rare side effects (may affect up to 1 in 1,000 people):
 
 -  Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
 -  Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
 
-## Very rare side effects (may affect up to 1 in 10,000 people) :
+## Very rare side effects (may affect up to 1 in 10,000 people):
 
 -  Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
 -  Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
@@ -6362,17 +6409,15 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 -  Keep this medicine out of the sight and reach of children.
 -  Store in a refrigerator (2 °C-8 °C). Do not freeze.
 -  Keep the pre-filled pen in the outer carton in order to protect from light.
--  If needed, individual Stelara pre-filled pens may also be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from
 
 <div style=\"page-break-after: always\"></div>
 
-light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
-
+-  If needed, individual Stelara pre-filled pens may also be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 -  Do not shake the pre-filled pen. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
 
--  After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
+-  After the expiry date which is stated on the label and the carton after 'EXP' . The expiry date refers to the last day of that month.
 -  If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Stelara looks like and contents of the pack').
 -  If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
 -  If the product has been shaken vigorously.
@@ -6396,73 +6441,87 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
-Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
-
-## Lietuva
-
-UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88
-
-lt@its.jnj.com
+Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
+## België/Belgique/Belgien
+
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info \\_ belux@its.jnj.com
+
 ## България
 
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+\"Джонсън &amp; Джонсън България\" ЕООД
+
+Тел.: +359 2 489 94 00
+
+jjsafety@its.jnj.com
 
 ## Česká republika
 
-Janssen-Cilag s.r.o.
-
-Tel: +420 227 012 227
+Janssen-Cilag s.r.o. Tel: +420 227 012 227
 
 ## Danmark
 
-Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
+Janssen-Cilag A/S Tlf.: +45 4594 8282
+
+jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955
+
+medinfo-de@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410
 
-Tel: +372 617 7410 ee@its.jnj.com
+ee@its.jnj.com
 
 ## Ελλάδα
 
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη
+
+Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
 
 ## España
 
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
 
 ## France
 
-Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
+Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03
+
+medisource@its.jnj.com
 
 ## Hrvatska
 
 Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
-## Ireland
+## Lietuva
 
-Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\"
 
-## Ísland
+Tel: +370 5 278 68 88
 
-Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
+lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
+Janssen-Cilag NV
+
+Tél/Tel: 800 29 504
+
+info
+
+\\_
+
+belux@its.jnj.com
 
 ## Magyarország
 
@@ -6478,15 +6537,19 @@ Tel: +356 2397 6000
 
 Janssen-Cilag B.V. Tel: 0800 242 42 42
 
-info\\_nl@its.jnj.com
+info \\_ nl@its.jnj.com
 
 ## Norge
 
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+Janssen-Cilag AS Tlf: +47 24 12 65 00
+
+jacno@its.jnj.com
 
 ## Österreich
 
-Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
+Janssen-Cilag Pharma GmbH
+
+Tel: +43 1 610 300
 
 ## Polska
 
@@ -6494,23 +6557,29 @@ Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
 
 ## Portugal
 
-Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
+Janssen-Cilag Farmacêutica, Lda.
+
+Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL
 
-## Slovenija
-
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
-
-## Slovenská republika
-
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
+Tel: +40 21 207 1800
 
 <div style=\"page-break-after: always\"></div>
+
+## Ireland
+
+Janssen Sciences Ireland UC
+
+Tel: 1 800 709 122
+
+medinfo@its.jnj.com
+
+## Ísland
+
+Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
@@ -6536,21 +6605,41 @@ Tel: +371 678 93561
 
 lv@its.jnj.com
 
-## This leaflet was last revised in .
+## This leaflet was last revised in.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Slovenija
+
+Johnson &amp; Johnson d.o.o.
+
+Tel: +386 1 401 18 00
+
+JNJ-SI-safety@its.jnj.com
+
+## Slovenská republika
+
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
+
 ## Suomi/Finland
 
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300
+
+jacfi@its.jnj.com
 
 ## Sverige
 
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com This 'Instructions for Use' contains information on how to inject Stelara.
+Janssen-Cilag AB
+
+Tfn: +46 8 626 50 00
+
+jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+This \"Instructions for Use\" contains information on how to inject Stelara.
 
 ## Important
 
@@ -6577,11 +6666,13 @@ The needle cover inside the bottom cap of the pre-filled pen contains latex. Do 
 
 Please also read the Package Leaflet carefully before starting your injection and discuss any questions you may have with your doctor or nurse.
 
-## Instructions for use Stelara (ustekinumab) injection, for subcutaneous use Pre-filled pen
+## Instructions for use Stelara (ustekinumab) injection, for subcutaneous use
+
+## Pre-filled pen
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+## Storage information
 
 Store in refrigerator at 2 ° to 8 °C. If needed, store at room temperature up to 30 °C for up to 30 days in the original carton. Do not return to refrigerator once stored at room temperature.
 
@@ -6599,37 +6690,23 @@ Keep the pre-filled pen in the original carton to protect from light and physica
 
 Call your doctor to talk about any questions you may have. For additional assistance or to share your feedback refer to the Package Leaflet for your local representative contact information.
 
+1. Preparing to Inject Stelara
+
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-## 1. Preparing to Inject Stelara
-
-<!-- image -->
 
 ## Gather carton(s)
 
-If refrigerated, remove the pre-filled pen carton(s) from the refrigerator and place on a flat surface.
-
-Leave at room temperature for at least 30 minutes before use.
+If refrigerated, remove the pre-filled pen carton(s) from the refrigerator and place on a flat surface. Leave at room temperature for at least 30 minutes before use.
 
 Do not warm any other way.
 
-If your dose is 45 mg, you will receive one 45 mg pre-filled pen.
+If your dose is 45 mg, you will receive one 45 mg pre-filled pen. If your dose is 90 mg, you will receive one 90 mg or two 45 mg pre-filled pens. If you receive two 45 mg pre-filled pens, follow Steps 1-3 for both injections.
 
-If your dose is 90 mg, you will receive one 90 mg or two 45 mg pre-filled pens. If you receive two 45 mg pre-filled pens, follow Steps 1-3 for both injections.
-
-<div style=\"page-break-after: always\"></div>
-
-## Choose a different injection site for the second injection.
-
-<!-- image -->
+Choose a different injection site for the second injection.
 
 ## Check the expiry date ('EXP') and seals on the carton(s)
 
 Do not use the pre-filled pen if the seals on the carton are broken or if the expiry date has passed. Do not use the pre-filled pen if it has been kept at room temperature for longer than 30 days or if it has been stored above 30 °C. Call your doctor or pharmacist for a new pre-filled pen.
-
-<!-- image -->
 
 ## Choose injection site
 
@@ -6644,9 +6721,9 @@ If someone else is giving you the injection, they may also use:
 
 Do not inject into skin that is tender, bruised, red, or hard.
 
-## Use a different injection site for each injection.
+Use a different injection site for each injection.
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6656,11 +6733,7 @@ Wash your hands well with soap and warm water.
 
 ## Clean injection site
 
-Wipe your chosen injection site with an alcohol swab and allow it to dry.
-
-Do not touch, fan, or blow on the injection site after you have cleaned it.
-
-<!-- image -->
+Wipe your chosen injection site with an alcohol swab and allow it to dry. Do not touch, fan, or blow on the injection site after you have cleaned it.
 
 ## Inspect liquid in window
 
@@ -6668,13 +6741,11 @@ Choose a well-lit, clean, flat work surface.
 
 Take the pre-filled pen out of the carton and check for damage.
 
-Check the liquid in the viewing window. It should be clear to slightly opalescent and colourless to light yellow and may contain tiny white or clear particles and one or more air bubbles . This is normal.
+Check the liquid in the viewing window. It should be clear to slightly opalescent and colourless to light yellow and may contain tiny white or clear particles and one or more air bubbles. This is normal.
 
 Do not inject if the liquid is frozen, cloudy, discoloured, or has large particles. Call your doctor or pharmacist for a new pre-filled pen.
 
 ## 2. Injecting Stelara
-
-<!-- image -->
 
 ## Pull off bottom cap
 
@@ -6686,10 +6757,6 @@ Do not put the cap back on. This could damage the needle.
 
 Do not use a pre-filled pen if it is dropped after removing the cap. Call your doctor or pharmacist for a new pre-filled pen.
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 Place straight on skin. Push handle all the way down until purple body is not visible.
 
 ## DO NOT LIFT PRE-FILLED PEN during injection!
@@ -6698,7 +6765,7 @@ If you do, the needle guard will lock, showing a yellow band, and you will not g
 
 You may hear a click when the injection begins. Keep pushing.
 
-## If you feel resistance, keep pushing. This is normal.
+If you feel resistance, keep pushing. This is normal.
 
 The medication injects as you push. Do this at a speed that is comfortable for you.
 
@@ -6716,13 +6783,11 @@ Your injection is complete when:
 
 ## Lift straight up
 
-The yellow band indicates that the needle guard is locked into place.
-
 <div style=\"page-break-after: always\"></div>
 
-## 3. After your injection
+The yellow band indicates that the needle guard is locked into place.
 
-<!-- image -->
+## 3. After your injection
 
 ## Dispose of the pre-filled pen
 
@@ -6731,10 +6796,6 @@ Put the used pre-filled pen in a sharps disposal container right away after use.
 Do not throw away (dispose of) the pre-filled pens in the household trash.
 
 Do not recycle your used sharps disposal container.
-
-<!-- image -->
-
-S
 
 ## Check injection site
 
@@ -6746,6 +6807,8 @@ If needed, cover the injection site with a bandage.
 
 If you receive two 45 mg pre-filled pens for a 90 mg dose, repeat Steps 1-3 with the second pre-filled pen. Choose a different injection site for the second injection.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Package leaflet: Information for the user
 
 <div style=\"page-break-after: always\"></div>
@@ -6756,10 +6819,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 ## This leaflet has been written for the person taking the medicine.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -6774,9 +6837,9 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 ## What Stelara is
 
-Stelara contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
+Stelara contains the active substance 'ustekinumab' , a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
 
-Stelara belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
+Stelara belongs to a group of medicines called 'immunosuppressants' . These medicines work by weakening part of the immune system.
 
 ## What Stelara is used for
 
@@ -6831,6 +6894,7 @@ Stelara can cause serious side effects, including allergic reactions and infecti
 ## Before you use Stelara tell your doctor:
 
 -  If you ever had an allergic reaction to Stelara. Ask your doctor if you are not sure.
+-  If you have an allergy to alpha-gal or have been diagnosed with alpha-gal syndrome (a type of food allergy to certain meats or meat products).
 -  If you have ever had any type of cancer - this is because immunosuppressants like Stelara weaken part of the immune system. This may increase the risk of cancer.
 -  If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
 -  If you have or have had a recent infection.
@@ -6840,9 +6904,9 @@ Stelara can cause serious side effects, including allergic reactions and infecti
 -  If you are having or have ever had injections to treat allergies - it is not known if Stelara may affect these.
 -  If you are 65 years of age or over - you may be more likely to get infections.
 
-If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
-
 <div style=\"page-break-after: always\"></div>
+
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Stelara.
 
 Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
@@ -6873,11 +6937,11 @@ Tell your doctor or pharmacist:
 -  It is important that you tell your baby's doctors and other health care professionals if you received Stelara during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Stelara during the pregnancy unless your baby's doctor recommends otherwise.
 -  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Stelara - do not do both.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Stelara has no or negligible influence on the ability to drive and use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Stelara contains polysorbate 80
 
@@ -6968,13 +7032,15 @@ You must look out for signs of infection while you are using Stelara. These incl
 
 Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, or skin infections or shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Stelara until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
 
-Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
+Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin
 
 <div style=\"page-break-after: always\"></div>
 
+## conditions. You should tell your doctor straight away if you notice any of these signs.
+
 ## Other side effects
 
-## Common side effects (may affect up to 1 in 10 people) :
+## Common side effects (may affect up to 1 in 10 people):
 
 -  Diarrhoea
 -  Nausea
@@ -6988,7 +7054,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Redness and pain where the injection is given
 -  Sinus infection
 
-## Uncommon side effects (may affect up to 1 in 100 people) :
+## Uncommon side effects (may affect up to 1 in 100 people):
 
 -  Tooth infections
 -  Vaginal yeast infection
@@ -7001,12 +7067,12 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 -  Peeling of the skin (skin exfoliation)
 -  Acne
 
-## Rare side effects (may affect up to 1 in 1,000 people) :
+## Rare side effects (may affect up to 1 in 1,000 people):
 
 -  Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
 -  Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
 
-## Very rare side effects (may affect up to 1 in 10,000 people) :
+## Very rare side effects (may affect up to 1 in 10,000 people):
 
 -  Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
 -  Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
@@ -7020,17 +7086,15 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 -  Keep this medicine out of the sight and reach of children.
 -  Store in a refrigerator (2 °C-8 °C). Do not freeze.
 -  Keep the pre-filled pen in the outer carton in order to protect from light.
--  If needed, individual Stelara pre-filled pens may also be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from
 
 <div style=\"page-break-after: always\"></div>
 
-light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
-
+-  If needed, individual Stelara pre-filled pens may also be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 -  Do not shake the pre-filled pen. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
 
--  After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
+-  After the expiry date which is stated on the label and the carton after 'EXP' . The expiry date refers to the last day of that month.
 -  If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Stelara looks like and contents of the pack').
 -  If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
 -  If the product has been shaken vigorously.
@@ -7060,13 +7124,15 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com Lietuva UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info \\_ belux@its.jnj.com UAB \"JOHNSON &amp; JOHNSON\"
+
+Lietuva Tel: +370 5 278 68 88 lt@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
 ## България
 
-'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
+\"Джонсън &amp; Джонсън България\" ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
 
 ## Česká republika
 
@@ -7080,13 +7146,13 @@ Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955
+
+medinfo-de@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
-
-Tel: +372 617 7410 ee@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
 
 ## Ελλάδα
 
@@ -7094,19 +7160,25 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
 
 ## France
 
-Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
+Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03
 
-## Hrvatska
+medisource@its.jnj.com
+
+Hrvatska
 
 Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
-Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
+Janssen Sciences Ireland UC Tel: 1 800 709 122
+
+medinfo@its.jnj.com
 
 ## Ísland
 
@@ -7114,7 +7186,11 @@ Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
+Janssen-Cilag NV
+
+Tél/Tel: 800 29 504
+
+info \\_ belux@its.jnj.com
 
 ## Magyarország
 
@@ -7130,15 +7206,19 @@ Tel: +356 2397 6000
 
 Janssen-Cilag B.V. Tel: 0800 242 42 42
 
-info\\_nl@its.jnj.com
+info \\_ nl@its.jnj.com
 
 ## Norge
 
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+Janssen-Cilag AS Tlf: +47 24 12 65 00
+
+jacno@its.jnj.com
 
 ## Österreich
 
-Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
+Janssen-Cilag Pharma GmbH
+
+Tel: +43 1 610 300
 
 ## Polska
 
@@ -7146,11 +7226,15 @@ Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
 
 ## Portugal
 
-Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
+Janssen-Cilag Farmacêutica, Lda.
+
+Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
 
 ## Slovenija
 
@@ -7188,21 +7272,27 @@ Tel: +371 678 93561
 
 lv@its.jnj.com
 
-## This leaflet was last revised in .
+## This leaflet was last revised in.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Suomi/Finland
 
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300
+
+jacfi@its.jnj.com
 
 ## Sverige
 
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com This 'Instructions for Use' contains information on how to inject Stelara.
+Janssen-Cilag AB
+
+Tfn: +46 8 626 50 00
+
+jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+This \"Instructions for Use\" contains information on how to inject Stelara.
 
 ## Important
 
@@ -7214,7 +7304,7 @@ If your doctor decides that you or a caregiver may be able to give your injectio
 
 Each pre-filled pen can only be used one time. Throw it away (see Step 3) after use even if there is medicine left in it.
 
-Do not reuse the pre-filled pen.
+## Do not reuse the pre-filled pen.
 
 Read these Instructions for Use before using the Stelara pre-filled pen and each time you get a new pre-filled pen. There may be new information. This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
 
@@ -7229,13 +7319,11 @@ The needle cover inside the bottom cap of the pre-filled pen contains latex. Do 
 
 Please also read the Package Leaflet carefully before starting your injection and discuss any questions you may have with your doctor or nurse.
 
-<!-- image -->
+Storage information
 
 Store in refrigerator at 2° to 8 °C. If needed, store at room temperature up to 30 °C for up to 30 days in
 
-## injection, for subcutaneous use
-
-## Instructions for use Stelara (ustekinumab) Pre-filled pen
+## Instructions for use Stelara (ustekinumab) injection, for subcutaneous use Pre-filled pen
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7243,11 +7331,11 @@ the original carton. Do not return to refrigerator once stored at room temperatu
 
 Do not freeze the pre-filled pen.
 
-Keep the pre-filled pen and all medicines out of reach of children.
+## Keep the pre-filled pen and all medicines out of reach of children.
 
 Do not shake the pre-filled pen. Shaking may damage the Stelara medicine. If the pre-filled pen has been shaken, do not use it. Get a new pre-filled pen.
 
-Keep the pre-filled pen in the original carton to protect from light and physical damage.
+## Keep the pre-filled pen in the original carton to protect from light and physical damage.
 
 <!-- image -->
 
@@ -7255,43 +7343,25 @@ Keep the pre-filled pen in the original carton to protect from light and physica
 
 Call your doctor to talk about any questions you may have. For additional assistance or to share your feedback refer to the Package Leaflet for your local representative contact information.
 
+1. Preparing to Inject Stelara
+
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-## Gather the following supplies. Provided in the carton:
-
-Not provided in the carton:
-
-- Pre-filled pen injector
-- Alcohol swabs
-- Adhesive bandages
-- Cotton balls or gauze pads
-- Sharps container (See Step 3)
-
-## 1. Preparing to Inject Stelara
-
-<!-- image -->
 
 ## Gather carton(s)
 
-If refrigerated, remove the pre-filled pen carton(s) from the refrigerator and place on a flat surface. Leave at room temperature for at least 30 minutes before use. Do not warm any other way.
+If refrigerated, remove the pre-filled pen carton(s) from the refrigerator and place on a flat surface. Leave at room temperature for at least 30 minutes before use.
 
-If your dose is 45 mg, you will receive one 45 mg pre-filled pen. If your dose is 90 mg, you will receive one 90 mg or two 45 mg pre-filled pens. If you receive two
+Do not warm any other way.
 
-45 mg pre-filled pens, follow Steps 1-3 for both injections.
+If your dose is 45 mg, you will receive one 45 mg pre-filled pen.
+
+If your dose is 90 mg, you will receive one 90 mg or two 45 mg pre-filled pens. If you receive two 45 mg pre-filled pens, follow Steps 1-3 for both injections.
 
 Choose a different injection site for the second injection.
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 ## Check the expiry date ('EXP') and seals on the carton(s)
 
 Do not use the pre-filled pen if the seals on the carton are broken or if the expiry date has passed. Do not use the pre-filled pen if it has been kept at room temperature for longer than 30 days or if it has been stored above 30 °C. Call your doctor or pharmacist for a new pre-filled pen.
-
-<!-- image -->
 
 ## Choose injection site
 
@@ -7306,11 +7376,11 @@ If someone else is giving you the injection, they may also use:
 
 Do not inject into skin that is tender, bruised, red, or hard.
 
-## Use a different injection site for each injection.
-
-<!-- image -->
+Use a different injection site for each injection.
 
 ## Wash hands
+
+<div style=\"page-break-after: always\"></div>
 
 Wash your hands well with soap and warm water.
 
@@ -7318,11 +7388,7 @@ Wash your hands well with soap and warm water.
 
 ## Clean injection site
 
-Wipe your chosen injection site with an alcohol swab and allow it to dry.
-
-Do not touch, fan, or blow on the injection site after you have cleaned it.
-
-<!-- image -->
+Wipe your chosen injection site with an alcohol swab and allow it to dry. Do not touch, fan, or blow on the injection site after you have cleaned it.
 
 ## Inspect liquid in window
 
@@ -7330,15 +7396,11 @@ Choose a well-lit, clean, flat work surface.
 
 Take the pre-filled pen out of the carton and check for damage.
 
-Check the liquid in the viewing window. It should be clear to slightly opalescent and colourless to light yellow and may contain tiny white or clear particles and one or more air bubbles . This is normal.
+Check the liquid in the viewing window. It should be clear to slightly opalescent and colourless to light yellow and may contain tiny white or clear particles and one or more air bubbles. This is normal.
 
 Do not inject if the liquid is frozen, cloudy, discoloured, or has large particles. Call your doctor or pharmacist for a new pre-filled pen.
 
 ## 2. Injecting Stelara
-
-<!-- image -->
-
-421
 
 ## Pull off bottom cap
 
@@ -7350,10 +7412,6 @@ Do not put the cap back on. This could damage the needle.
 
 Do not use a pre-filled pen if it is dropped after removing the cap. Call your doctor or pharmacist for a new pre-filled pen.
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 Place straight on skin. Push handle all the way down until purple body is not visible.
 
 ## DO NOT LIFT PRE-FILLED PEN during injection!
@@ -7362,7 +7420,7 @@ If you do, the needle guard will lock, showing a yellow band, and you will not g
 
 You may hear a click when the injection begins. Keep pushing.
 
-## If you feel resistance, keep pushing. This is normal.
+If you feel resistance, keep pushing. This is normal.
 
 The medication injects as you push. Do this at a speed that is comfortable for you.
 
@@ -7376,8 +7434,6 @@ Your injection is complete when:
 -  You cannot press the handle down anymore.
 -  You may hear a click.
 
-<!-- image -->
-
 ## Lift straight up
 
 The yellow band indicates that the needle guard is locked into place.
@@ -7386,8 +7442,6 @@ The yellow band indicates that the needle guard is locked into place.
 
 ## 3. After your injection
 
-<!-- image -->
-
 ## Dispose of the pre-filled pen
 
 Put the used pre-filled pen in a sharps disposal container right away after use.
@@ -7395,10 +7449,6 @@ Put the used pre-filled pen in a sharps disposal container right away after use.
 Do not throw away (dispose of) the pre-filled pens in the household trash.
 
 Do not recycle your used sharps disposal container.
-
-<!-- image -->
-
-S
 
 ## Check injection site
 
@@ -7409,3 +7459,5 @@ Do not rub the injection site.
 If needed, cover the injection site with a bandage.
 
 If you receive two 45 mg pre-filled pens for a 90 mg dose, repeat Steps 1-3 with the second pre-filled pen. Choose a different injection site for the second injection.
+
+<div style=\"page-break-after: always\"></div>

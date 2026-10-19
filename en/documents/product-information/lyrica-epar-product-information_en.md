@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-25 15:47:11
+document_datetime: 2026-10-13 16:44:28
 document_pages: 140
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lyrica-epar-product-information_en.pdf
 document_name: lyrica-epar-product-information_en.pdf
 version: success
-processing_time: 41.0784569
-conversion_datetime: 2026-03-29 12:47:53.162103
+processing_time: 45.4659061
+conversion_datetime: 2026-10-19 22:58:25.096873
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,9 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lyrica 25 mg hard capsules Lyrica 50 mg hard capsules Lyrica 75 mg hard capsules Lyrica 100 mg hard capsules Lyrica 150 mg hard capsules Lyrica 200 mg hard capsules Lyrica 225 mg hard capsules Lyrica 300 mg hard capsules
+Lyrica 25 mg hard capsules Lyrica 50 mg hard capsules Lyrica 75 mg hard capsules Lyrica 100 mg hard capsules Lyrica 150 mg hard capsules Lyrica 200 mg hard capsules Lyrica 225 mg hard capsules
+
+Lyrica 300 mg hard capsules
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -40,19 +42,19 @@ Each hard capsule contains 50 mg of pregabalin.
 
 Each hard capsule contains 75 mg of pregabalin.
 
-## Lyrica 100 mg hard capsules
+Lyrica 100 mg hard capsules
 
 Each hard capsule contains 100 mg of pregabalin.
 
-## Lyrica 150 mg hard capsules
+Lyrica 150 mg hard capsules
 
 Each hard capsule contains 150 mg of pregabalin.
 
-## Lyrica 200 mg hard capsules
+Lyrica 200 mg hard capsules
 
 Each hard capsule contains 200 mg of pregabalin.
 
-## Lyrica 225 mg hard capsules
+Lyrica 225 mg hard capsules
 
 Each hard capsule contains 225 mg of pregabalin.
 
@@ -60,7 +62,7 @@ Each hard capsule contains 225 mg of pregabalin.
 
 Each hard capsule contains 300 mg of pregabalin.
 
-## Excipients with known effect
+Excipients with known effect
 
 ## Lyrica 25 mg hard capsules
 
@@ -100,39 +102,39 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Hard capsules
+## Hard capsules
 
 ## Lyrica 25 mg hard capsules
 
-White marked 'VTRS' on the cap and 'PGN 25' on the body with black ink.
+White marked \"VTRS\" on the cap and \"PGN 25\" on the body with black ink.
 
 ## Lyrica 50 mg hard capsules
 
-White marked 'VTRS' on the cap and 'PGN 50' on the body with black ink. The body is also marked with a black band.
+White marked \"VTRS\" on the cap and \"PGN 50\" on the body with black ink. The body is also marked with a black band.
 
 ## Lyrica 75 mg hard capsules
 
-White and orange, marked 'VTRS' on the cap and 'PGN 75' on the body with black ink.
+White and orange, marked \"VTRS\" on the cap and \"PGN 75\" on the body with black ink.
 
 ## Lyrica 100 mg hard capsules
 
-Orange marked 'VTRS' on the cap and 'PGN 100' on the body with black ink.
+Orange marked \"VTRS\" on the cap and \"PGN 100\" on the body with black ink.
 
 ## Lyrica 150 mg hard capsules
 
-White marked 'VTRS' on the cap and 'PGN 150' on the body with black ink.
+White marked \"VTRS\" on the cap and \"PGN 150\" on the body with black ink.
 
 ## Lyrica 200 mg hard capsules
 
-Light orange, marked 'VTRS' on the cap and 'PGN 200' on the body with black ink.
+Light orange, marked \"VTRS\" on the cap and \"PGN 200\" on the body with black ink.
 
 ## Lyrica 225 mg hard capsules
 
-White and light orange marked 'VTRS' on the cap and 'PGN 225' on the body with black ink.
+White and light orange marked \"VTRS\" on the cap and \"PGN 225\" on the body with black ink.
 
 ## Lyrica 300 mg hard capsules
 
-White and orange, marked 'VTRS' on the cap and 'PGN 300' on the body with black ink.
+White and orange, marked \"VTRS\" on the cap and \"PGN 300\" on the body with black ink.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -188,15 +190,14 @@ Pregabalin is removed effectively from plasma by haemodialysis (50% of drug in 4
 
 Table 1. Pregabalin Dose Adjustment Based on Renal Function
 
-| Creatinine clearance (CL cr ) (mL/min)            | Total pregabalin daily dose*                      | Total pregabalin daily dose*                      | Dose regimen                                      |
-|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-|                                                   | Starting dose (mg/day)                            | Maximum dose (mg/day)                             |                                                   |
-| ≥ 60                                              | 150                                               | 600                                               | BID or TID                                        |
-| ≥ 30 - < 60                                       | 75                                                | 300                                               | BID or TID                                        |
-| ≥ 15 - < 30                                       | 25 - 50                                           | 150                                               | Once Daily or BID                                 |
-| < 15                                              | 25                                                | 75                                                | Once Daily                                        |
-| Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) |
-|                                                   | 25                                                | 100                                               | Single dose +                                     |
+| Creatinine clearance (CLcr) (mL/min)              | Total pregabalin daily dose* - Starting dose (mg/day)   | Total pregabalin daily dose* - Maximum dose (mg/day)   | Dose regimen                                      |
+|---------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------|
+| ≥ 60                                              | 150                                                     | 600                                                    | BID or TID                                        |
+| ≥ 30 - < 60                                       | 75                                                      | 300                                                    | BID or TID                                        |
+| ≥ 15 - < 30                                       | 25 - 50                                                 | 150                                                    | Once Daily or BID                                 |
+| < 15                                              | 25                                                      | 75                                                     | Once Daily                                        |
+| Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg)       | Supplementary dosage following haemodialysis (mg)      | Supplementary dosage following haemodialysis (mg) |
+|                                                   | 25                                                      | 100                                                    | Single dose +                                     |
 
 TID = Three divided doses
 
@@ -204,7 +205,7 @@ BID = Two divided doses
 
 * Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose
 
-+  Supplementary dose is a single additional dose
++ Supplementary dose is a single additional dose
 
 ## Hepatic impairment
 
@@ -276,11 +277,9 @@ There have been reports of severe respiratory depression in relation to pregabal
 
 Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in several indications. A meta-analysis of randomised placebo controlled studies of anti-epileptic drugs has also shown a small increased risk of suicidal ideation and behaviour. The mechanism of this risk is not known. Cases of suicidal ideation and behaviour have been observed in patients treated with pregabalin in the postmarketing experience (see section 4.8). An epidemiological study using a self-controlled study design (comparing treatment periods with non-treatment periods within an individual) showed evidence of an increased risk of new onset of suicidal behaviour and death by suicide in patients treated with pregabalin.
 
-Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge. Patients should be monitored for signs of suicidal ideation and behaviour
+Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge. Patients should be monitored for signs of suicidal ideation and behaviour and appropriate treatment should be considered. Discontinuation of pregabalin treatment should be considered in case of suicidal ideation and behaviour.
 
 <div style=\"page-break-after: always\"></div>
-
-and appropriate treatment should be considered. Discontinuation of pregabalin treatment should be considered in case of suicidal ideation and behaviour.
 
 ## Reduced lower gastrointestinal tract function
 
@@ -324,7 +323,7 @@ Lyrica contains less than 1 mmol sodium (23 mg) per hard capsule. Patients on lo
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (&lt; 2% of a dose recovered in urine as metabolites), does not inhibit drug metabolism in vitro , and is not bound to plasma proteins, it is unlikely to produce, or be subject to, pharmacokinetic interactions.
+Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (&lt; 2% of a dose recovered in urine as metabolites), does not inhibit drug metabolism in vitro, and is not bound to plasma proteins, it is unlikely to produce, or be subject to, pharmacokinetic interactions.
 
 ## In vivo studies and population pharmacokinetic analysis
 
@@ -400,58 +399,60 @@ Additional reactions reported from postmarketing experience are included in ital
 
 Table 2. Pregabalin Adverse Drug Reactions
 
-| System Organ Class                                                            | Adverse drug reactions                                                                                                                                                                                                                                                 |
-|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                                                   | Infections and infestations                                                                                                                                                                                                                                            |
-| Common                                                                        | Nasopharyngitis                                                                                                                                                                                                                                                        |
-| Blood and lymphatic system disorders                                          | Blood and lymphatic system disorders                                                                                                                                                                                                                                   |
-| Uncommon                                                                      | Neutropaenia                                                                                                                                                                                                                                                           |
-| Immune system disorders                                                       | Immune system disorders                                                                                                                                                                                                                                                |
-| Uncommon                                                                      | Hypersensitivity                                                                                                                                                                                                                                                       |
-| Rare Angioedema, allergic reaction Metabolism and nutrition disorders         | Rare Angioedema, allergic reaction Metabolism and nutrition disorders                                                                                                                                                                                                  |
-| Common                                                                        | Appetite increased                                                                                                                                                                                                                                                     |
-| Uncommon                                                                      | Anorexia, hypoglycaemia                                                                                                                                                                                                                                                |
-| Psychiatric disorders                                                         | Psychiatric disorders                                                                                                                                                                                                                                                  |
-| Common                                                                        | Euphoric mood, confusion, irritability, disorientation, insomnia, libido decreased                                                                                                                                                                                     |
-| Uncommon                                                                      | Hallucination, panic attack, restlessness, agitation, depression, depressed mood, elevated mood, aggression , mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy                                           |
-| Rare                                                                          | Disinhibition, suicidal behaviour, suicidal ideation                                                                                                                                                                                                                   |
-| Not known                                                                     | Drug dependence                                                                                                                                                                                                                                                        |
-| Nervous system disorders                                                      | Nervous system disorders                                                                                                                                                                                                                                               |
-| Very Common                                                                   | Dizziness, somnolence, headache                                                                                                                                                                                                                                        |
-| Common                                                                        | Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy                                                                                             |
-| Uncommon                                                                      | Syncope, stupor, myoclonus, loss of consciousness , psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment , speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise |
-| Rare                                                                          | Convulsions , parosmia, hypokinesia, dysgraphia, parkinsonism                                                                                                                                                                                                          |
-| Eye disorders                                                                 | Eye disorders                                                                                                                                                                                                                                                          |
-| Common                                                                        | Vision blurred, diplopia                                                                                                                                                                                                                                               |
-| Uncommon                                                                      | Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation                                                                                  |
-| Rare                                                                          | Vision loss , keratitis , oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness                                                                                                                                                       |
-| Ear and labyrinth disorders                                                   | Ear and labyrinth disorders                                                                                                                                                                                                                                            |
-| Common                                                                        | Vertigo                                                                                                                                                                                                                                                                |
-| Uncommon                                                                      | Hyperacusis                                                                                                                                                                                                                                                            |
-| Cardiac disorders                                                             | Cardiac disorders                                                                                                                                                                                                                                                      |
-| Uncommon                                                                      | Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure                                                                                                                                                                          |
-| Rare QT prolongation , sinus tachycardia, sinus arrhythmia Vascular disorders | Rare QT prolongation , sinus tachycardia, sinus arrhythmia Vascular disorders                                                                                                                                                                                          |
-| Uncommon                                                                      | hypertension, hot flushes, flushing,                                                                                                                                                                                                                                   |
-|                                                                               | Hypotension, peripheral coldness                                                                                                                                                                                                                                       |
-| Respiratory, thoracic and mediastinal disorders                               | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                        |
-| Uncommon Rare                                                                 | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness Pulmonary oedema , throat tightness                                                                                                                                                     |
-| Not known                                                                     | Respiratory depression                                                                                                                                                                                                                                                 |
+| System Organ Class                              | Adverse drug reactions                                                                                                                                                                                                                                               |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     | Infections and infestations                                                                                                                                                                                                                                          |
+| Common                                          | Nasopharyngitis                                                                                                                                                                                                                                                      |
+| Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                                                                                                                                                                                                                 |
+| Uncommon                                        | Neutropaenia                                                                                                                                                                                                                                                         |
+| Immune system disorders                         | Immune system disorders                                                                                                                                                                                                                                              |
+| Uncommon                                        | Hypersensitivity                                                                                                                                                                                                                                                     |
+| Rare                                            | Angioedema, allergic reaction                                                                                                                                                                                                                                        |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                                                                                                                                                                   |
+| Common                                          | Appetite increased                                                                                                                                                                                                                                                   |
+| Uncommon                                        | Anorexia, hypoglycaemia                                                                                                                                                                                                                                              |
+| Psychiatric disorders                           | Psychiatric disorders                                                                                                                                                                                                                                                |
+| Common                                          | Euphoric mood, confusion, irritability, disorientation, insomnia, libido decreased                                                                                                                                                                                   |
+| Uncommon                                        | Hallucination, panic attack, restlessness, agitation, depression, depressed mood, elevated mood, aggression, mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy                                          |
+| Rare                                            | Disinhibition, suicidal behaviour, suicidal ideation                                                                                                                                                                                                                 |
+| Not known                                       | Drug dependence                                                                                                                                                                                                                                                      |
+| Nervous system disorders                        | Nervous system disorders                                                                                                                                                                                                                                             |
+| Very Common                                     | Dizziness, somnolence, headache                                                                                                                                                                                                                                      |
+| Common                                          | Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy                                                                                           |
+| Uncommon                                        | Syncope, stupor, myoclonus, loss of consciousness, psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment, speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise |
+| Rare                                            | Convulsions, parosmia, hypokinesia, dysgraphia, parkinsonism                                                                                                                                                                                                         |
+| Eye disorders                                   | Eye disorders                                                                                                                                                                                                                                                        |
+| Common                                          | Vision blurred, diplopia                                                                                                                                                                                                                                             |
+| Uncommon                                        | Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation                                                                                |
+| Rare                                            | Vision loss, keratitis, oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness                                                                                                                                                       |
+| Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                                                                                                                                                                                                          |
+| Common                                          | Vertigo                                                                                                                                                                                                                                                              |
+| Uncommon                                        | Hyperacusis                                                                                                                                                                                                                                                          |
+| Cardiac disorders                               | Cardiac disorders                                                                                                                                                                                                                                                    |
+| Uncommon                                        | Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure                                                                                                                                                                        |
+| Rare                                            | QT prolongation, sinus tachycardia, sinus arrhythmia                                                                                                                                                                                                                 |
+| Vascular disorders                              | Vascular disorders                                                                                                                                                                                                                                                   |
+| Uncommon                                        | Hypotension, hypertension, hot flushes, flushing, peripheral coldness                                                                                                                                                                                                |
+|                                                 | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness                                                                                                                                                                                       |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                      |
+| Uncommon Rare                                   | Pulmonary oedema, throat tightness                                                                                                                                                                                                                                   |
+| Not known                                       | Respiratory depression                                                                                                                                                                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                                   | Adverse drug reactions                                                                                                                                             |
 |------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                                         |
-| Common                                               | Vomiting, nausea , constipation, diarrhoea , flatulence, abdominal distension, dry mouth                                                                           |
+| Common                                               | Vomiting, nausea, constipation, diarrhoea, flatulence, abdominal distension, dry mouth                                                                             |
 | Uncommon                                             | Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral                                                                                      |
-| Rare                                                 | Ascites, pancreatitis, swollen tongue , dysphagia                                                                                                                  |
+| Rare                                                 | Ascites, pancreatitis, swollen tongue, dysphagia                                                                                                                   |
 | Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                            |
 | Uncommon                                             | Elevated liver enzymes*                                                                                                                                            |
 | Rare                                                 | Jaundice                                                                                                                                                           |
 | Very rare                                            | Hepatic failure, hepatitis                                                                                                                                         |
 | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                             |
 | Uncommon                                             | Rash papular, urticaria, hyperhidrosis, pruritus                                                                                                                   |
-| Rare                                                 | Toxic epidermal necrolysis, Stevens-Johnson syndrome , cold sweat                                                                                                  |
+| Rare                                                 | Toxic epidermal necrolysis, Stevens-Johnson syndrome, cold sweat                                                                                                   |
 | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                    |
 | Common                                               | Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm                                                                                                  |
 | Uncommon                                             | Joint swelling, myalgia, muscle twitching, neck pain, muscle stiffness                                                                                             |
@@ -465,7 +466,7 @@ Table 2. Pregabalin Adverse Drug Reactions
 | Rare                                                 | Amenorrhoea, breast discharge, breast enlargement, gynaecomastia                                                                                                   |
 | General disorders and administration site conditions | General disorders and administration site conditions                                                                                                               |
 | Common                                               | Oedema peripheral, oedema, gait abnormal, fall, feeling drunk, feeling abnormal, fatigue                                                                           |
-| Uncommon                                             | Generalised oedema, face oedema , chest tightness, pain, pyrexia, thirst, chills, asthenia                                                                         |
+| Uncommon                                             | Generalised oedema, face oedema, chest tightness, pain, pyrexia, thirst, chills, asthenia                                                                          |
 | Investigations                                       | Investigations                                                                                                                                                     |
 | Common                                               | Weight increased                                                                                                                                                   |
 | Uncommon                                             | Blood creatine phosphokinase increased, blood glucose increased, platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased |
@@ -473,7 +474,7 @@ Table 2. Pregabalin Adverse Drug Reactions
 
 * Alanine aminotransferase increased (ALT) and aspartate aminotransferase increased (AST).
 
-After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, suicidal ideation, pain , hyperhidrosis and dizziness. These symptoms may indicate drug dependence. The patient should be informed about this at the start of the treatment. Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, suicidal ideation, pain, hyperhidrosis and dizziness. These symptoms may indicate drug dependence. The patient should be informed about this at the start of the treatment. Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
 
 ## Paediatric population
 
@@ -505,7 +506,7 @@ The active substance, pregabalin, is a gamma-aminobutyric acid analogue [(S)-3-(
 
 ## Mechanism of action
 
-Pregabalin binds to an auxiliary subunit (  2 - protein) of voltage-gated calcium channels in the central nervous system.
+Pregabalin binds to an auxiliary subunit (α2-δ protein) of voltage-gated calcium channels in the central nervous system.
 
 ## Clinical efficacy and safety
 
@@ -523,9 +524,7 @@ In the controlled clinical trial in central neuropathic pain 22% of the pregabal
 
 <div style=\"page-break-after: always\"></div>
 
-## Epilepsy
-
-## Adjunctive Treatment
+## Epilepsy Adjunctive Treatment
 
 Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with either BID or TID dosing. Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
 
@@ -563,7 +562,7 @@ Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, pati
 
 ## Absorption
 
-Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be  90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
+Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be ≥ 90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
 
 ## Distribution
 
@@ -589,11 +588,9 @@ Clinical trials indicate that gender does not have a clinically significant infl
 
 ## Renal impairment
 
-Pregabalin clearance is directly proportional to creatinine clearance. In addition, pregabalin is effectively removed from plasma by haemodialysis (following a 4 hour haemodialysis treatment
+Pregabalin clearance is directly proportional to creatinine clearance. In addition, pregabalin is effectively removed from plasma by haemodialysis (following a 4 hour haemodialysis treatment plasma pregabalin concentrations are reduced by approximately 50%). Because renal elimination is the major elimination pathway, dose reduction in patients with renal impairment and dose supplementation following haemodialysis is necessary (see section 4.2 Table 1).
 
 <div style=\"page-break-after: always\"></div>
-
-plasma pregabalin concentrations are reduced by approximately 50%). Because renal elimination is the major elimination pathway, dose reduction in patients with renal impairment and dose supplementation following haemodialysis is necessary (see section 4.2 Table 1).
 
 ## Hepatic impairment
 
@@ -647,17 +644,9 @@ Capsules content: Lactose monohydrate Maize starch Talc
 
 Capsules shell: Gelatin Titanium dioxide (E171) Sodium laurilsulphate Silica, colloidal anhydrous Purified water
 
-Printing ink: Shellac Black iron oxide (E172) Propylene glycol Potassium hydroxide
+Printing ink: Shellac Black iron oxide (E172) Propylene glycol Potassium hydroxide Lyrica 75 mg, 100 mg, 200 mg, 225 mg, 300 mg hard capsules Capsules content: Lactose monohydrate Maize starch Talc Capsules shell: Gelatin Titanium dioxide (E171) Sodium laurilsulphate Silica, colloidal anhydrous Purified water Red iron oxide (E172)
 
 <div style=\"page-break-after: always\"></div>
-
-## Lyrica 75 mg, 100 mg, 200 mg, 225 mg, 300 mg hard capsules
-
-Capsules content: Lactose monohydrate Maize starch
-
-Talc
-
-Capsules shell: Gelatin Titanium dioxide (E171) Sodium laurilsulphate Silica, colloidal anhydrous Purified water Red iron oxide (E172)
 
 Printing ink: Shellac Black iron oxide (E172) Propylene glycol Potassium hydroxide
 
@@ -677,31 +666,29 @@ This medicinal product does not require any special storage conditions.
 
 ## Lyrica 25 mg hard capsules
 
-PVC/Aluminium blisters containing 14, 21, 56, 84, 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
+PVC/Aluminium blisters containing 14, 21, 56, 84, 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules.
+
+Not all pack sizes may be marketed.
 
 ## Lyrica 50 mg hard capsules
 
-PVC/Aluminium blisters containing 14, 21, 56, 84, or 100 hard capsules.
-
-100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
+PVC/Aluminium blisters containing 14, 21, 56, 84, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
 
 ## Lyrica 75 mg hard capsules
 
-PVC/Aluminium blisters containing 14, 56, 70 100, or 112 hard capsules.
-
-100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
+PVC/Aluminium blisters containing 14, 56, 70 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
 
 Lyrica 100 mg hard capsules PVC/Aluminium blisters containing 21, 84, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
 
 <div style=\"page-break-after: always\"></div>
 
-Lyrica 150 mg hard capsules PVC/Aluminium blisters containing 14, 56, 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
+Lyrica 150 mg hard capsules PVC/Aluminium blisters containing 14, 56, 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules.
+
+Not all pack sizes may be marketed.
 
 Lyrica 200 mg hard capsules PVC/Aluminium blisters containing 21, 84, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
 
-## Lyrica 225 mg hard capsules
-
-PVC/Aluminium blisters containing 14, 56, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
+Lyrica 225 mg hard capsules PVC/Aluminium blisters containing 14, 56, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
 
 Lyrica 300 mg hard capsules PVC/Aluminium blisters containing 14, 56, 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
 
@@ -711,39 +698,27 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
-Upjohn EESV Rivium Westlaan 142 Netherlands
+Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 ## Lyrica 25 mg hard capsules
 
-EU/1/04/279/001-005
+EU/1/04/279/001-005 EU/1/04/279/026 EU/1/04/279/036 EU/1/04/279/046
 
-EU/1/04/279/026
+## Lyrica 50 mg hard capsules
 
-EU/1/04/279/036
-
-EU/1/04/279/046
-
-Lyrica 50 mg hard capsules EU/1/04/279/006-010
+EU/1/04/279/006-010
 
 EU/1/04/279/037
 
 ## Lyrica 75 mg hard capsules
 
-EU/1/04/279/011-013
+EU/1/04/279/011-013 EU/1/04/279/027 EU/1/04/279/030 EU/1/04/279/038 EU/1/04/279/045
 
-EU/1/04/279/027
-
-EU/1/04/279/030
-
-EU/1/04/279/038
-
-EU/1/04/279/045
-
-## Lyrica 100 mg hard capsules
+Lyrica 100 mg hard capsules
 
 EU/1/04/279/014-016
 
@@ -753,15 +728,21 @@ EU/1/04/279/39
 
 Lyrica 150 mg hard capsules
 
-EU/1/04/279/017-019 EU/1/04/279/028 EU/1/04/279/031 EU/1/04/279/040
+EU/1/04/279/017-019 EU/1/04/279/028 EU/1/04/279/031
+
+EU/1/04/279/040
 
 Lyrica 200 mg hard capsules
 
-EU/1/04/279/020 - 022 EU/1/04/279/041
+EU/1/04/279/020 - 022
+
+EU/1/04/279/041
 
 Lyrica 225 mg hard capsules
 
-EU/1/04/279/033 - 035 EU/1/04/279/042
+EU/1/04/279/033 - 035
+
+EU/1/04/279/042
 
 ## Lyrica 300 mg hard capsules
 
@@ -847,23 +828,20 @@ Pregabalin is removed effectively from plasma by haemodialysis (50% of drug in 4
 
 Table 1. Pregabalin dose adjustment based on renal function
 
-| Creatinine clearance (CL cr ) (mL/min)          | Total pregabalin daily dose*                    | Total pregabalin daily dose*                    | Dose regimen                                    |
-|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-|                                                 | Starting dose (mg/day)                          | Maximum dose (mg/day)                           |                                                 |
-| ≥ 60                                            | 150 (7.5 mL)                                    | 600 (30 mL)                                     | BID or TID                                      |
-| ≥ 30 - < 60                                     | 75 (3.75 mL)                                    | 300 (15 mL)                                     | BID or TID                                      |
-| ≥ 15 - < 30                                     | 25 - 50 (1.25- 2.5 mL)                          | 150 (7.5 mL)                                    | Once Daily or BID                               |
-| < 15                                            | 25 (1.25 mL)                                    | 75 (3.75 mL)                                    | Once Daily                                      |
-| Supplementary dose following haemodialysis (mg) | Supplementary dose following haemodialysis (mg) | Supplementary dose following haemodialysis (mg) | Supplementary dose following haemodialysis (mg) |
-|                                                 | 25 (1.25 mL)                                    | 100 (5 mL)                                      | Single dose +                                   |
-
-TID = Three divided doses
+| Creatinine clearance (CLcr) (mL/min)            | Total pregabalin daily dose* - Starting dose (mg/day)   | Total pregabalin daily dose* - Maximum dose (mg/day)   | Dose regimen                                    |
+|-------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------|
+| ≥ 60                                            | 150 (7.5 mL)                                            | 600 (30 mL)                                            | BID or TID                                      |
+| ≥ 30 - < 60                                     | 75 (3.75 mL)                                            | 300 (15 mL)                                            | BID or TID                                      |
+| ≥ 15 - < 30                                     | 25 - 50 (1.25- 2.5 mL)                                  | 150 (7.5 mL)                                           | Once Daily or BID                               |
+| < 15                                            | 25 (1.25 mL)                                            | 75 (3.75 mL)                                           | Once Daily                                      |
+| Supplementary dose following haemodialysis (mg) | Supplementary dose following haemodialysis (mg)         | Supplementary dose following haemodialysis (mg)        | Supplementary dose following haemodialysis (mg) |
+|                                                 | 25 (1.25 mL)                                            | 100 (5 mL)                                             | Single dose +                                   |
 
 BID = Two divided doses
 
 * Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose
 
-+  Supplementary dose is a single additional dose
++ Supplementary dose is a single additional dose
 
 ## Hepatic impairment
 
@@ -883,7 +861,7 @@ Elderly patients may require a dose reduction of pregabalin due to a decreased r
 
 Lyrica may be taken with or without food.
 
-Lyrica is for oral use only.
+## Lyrica is for oral use only.
 
 A graduated oral syringe and a Press-In Bottle Adapter (PIBA) are provided with the product. See section 6.6 for information on administration.
 
@@ -983,7 +961,7 @@ Lyrica contains less than 1 mmol sodium (23 mg) per maximum daily dose of 600 mg
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (&lt; 2% of a dose recovered in urine as metabolites), does not inhibit drug metabolism in vitro , and is not bound to plasma proteins, it is unlikely to produce, or be subject to, pharmacokinetic interactions.
+Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (&lt; 2% of a dose recovered in urine as metabolites), does not inhibit drug metabolism in vitro, and is not bound to plasma proteins, it is unlikely to produce, or be subject to, pharmacokinetic interactions.
 
 ## In vivo studies and population pharmacokinetic analysis
 
@@ -1059,66 +1037,66 @@ Additional reactions reported from postmarketing experience are included in ital
 
 Table 2. Pregabalin Adverse Drug Reactions
 
-| System Organ Class                   | Adverse drug reactions                                                                                                                                                                                                       |
-|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations          | Infections and infestations                                                                                                                                                                                                  |
-| Common                               | Nasopharyngitis                                                                                                                                                                                                              |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                                                                                                                                         |
-| Uncommon                             | Neutropaenia                                                                                                                                                                                                                 |
-| Immune system disorders              | Immune system disorders                                                                                                                                                                                                      |
-| Uncommon                             | Hypersensitivity                                                                                                                                                                                                             |
-| Rare                                 | Angioedema , allergic reaction                                                                                                                                                                                               |
-| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                                                                                                                                                           |
-| Common                               | Appetite increased                                                                                                                                                                                                           |
-| Uncommon                             | Anorexia, hypoglycaemia                                                                                                                                                                                                      |
-| Psychiatric disorders                | Psychiatric disorders                                                                                                                                                                                                        |
-| Common                               | Euphoric mood, confusion, irritability, disorientation, insomnia, libido decreased                                                                                                                                           |
-| Uncommon                             | Hallucination, panic attack, restlessness, agitation, depression, depressed mood, elevated mood, aggression , mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy |
-| Rare                                 | Disinhibition, suicidal behaviour, suicidal ideation                                                                                                                                                                         |
-| Not known                            | Drug dependence                                                                                                                                                                                                              |
+| System Organ Class                   | Adverse drug reactions                                                                                                                                                                                                      |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations          | Infections and infestations                                                                                                                                                                                                 |
+| Common                               | Nasopharyngitis                                                                                                                                                                                                             |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                                                                                                                                        |
+| Uncommon                             | Neutropaenia                                                                                                                                                                                                                |
+| Immune system disorders              | Immune system disorders                                                                                                                                                                                                     |
+| Uncommon                             | Hypersensitivity                                                                                                                                                                                                            |
+| Rare                                 | Angioedema, allergic reaction                                                                                                                                                                                               |
+| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                                                                                                                                                          |
+| Common                               | Appetite increased                                                                                                                                                                                                          |
+| Uncommon                             | Anorexia, hypoglycaemia                                                                                                                                                                                                     |
+| Psychiatric disorders                | Psychiatric disorders                                                                                                                                                                                                       |
+| Common                               | Euphoric mood, confusion, irritability, disorientation, insomnia, libido decreased                                                                                                                                          |
+| Uncommon                             | Hallucination, panic attack, restlessness, agitation, depression, depressed mood, elevated mood, aggression, mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy |
+| Rare                                 | Disinhibition, suicidal behaviour, suicidal ideation                                                                                                                                                                        |
+| Not known                            | Drug dependence                                                                                                                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                              | Adverse drug reactions                                                                                                                                                                                                                                                 |
-|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nervous system disorders                        | Nervous system disorders                                                                                                                                                                                                                                               |
-| Very Common                                     | Dizziness, somnolence, headache                                                                                                                                                                                                                                        |
-| Common                                          | Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy                                                                                             |
-| Uncommon                                        | Syncope, stupor, myoclonus, loss of consciousness , psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment , speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise |
-| Rare                                            | Convulsions , parosmia, hypokinesia, dysgraphia, parkinsonism                                                                                                                                                                                                          |
-| Eye disorders                                   | Eye disorders                                                                                                                                                                                                                                                          |
-| Common                                          | Vision blurred, diplopia                                                                                                                                                                                                                                               |
-| Uncommon                                        | Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation                                                                                  |
-| Rare                                            | Vision loss , keratitis , oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness                                                                                                                                                       |
-| Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                                                                                                                                                                                                            |
-| Common                                          | Vertigo                                                                                                                                                                                                                                                                |
-| Uncommon                                        | Hyperacusis                                                                                                                                                                                                                                                            |
-| Cardiac disorders                               | Cardiac disorders                                                                                                                                                                                                                                                      |
-| Uncommon Rare                                   | Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure QT prolongation , sinus tachycardia, sinus arrhythmia                                                                                                                    |
-| Vascular disorders                              | Vascular disorders                                                                                                                                                                                                                                                     |
-| Uncommon                                        | Hypotension, hypertension, hot flushes, flushing, peripheral coldness                                                                                                                                                                                                  |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                        |
-| Uncommon                                        | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness                                                                                                                                                                                         |
-| Rare                                            | Pulmonary oedema , throat tightness Respiratory depression                                                                                                                                                                                                             |
-| Not known                                       |                                                                                                                                                                                                                                                                        |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                                                                                                                                                             |
-| Common                                          | Vomiting, nausea , constipation, diarrhoea , flatulence, abdominal distension, dry mouth                                                                                                                                                                               |
-| Uncommon                                        | Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral                                                                                                                                                                                          |
-| Rare                                            | Ascites, pancreatitis, swollen tongue , dysphagia                                                                                                                                                                                                                      |
-| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                                                                                                                                                                                                |
-| Uncommon                                        | Elevated liver enzymes*                                                                                                                                                                                                                                                |
-| Rare                                            | Jaundice                                                                                                                                                                                                                                                               |
-| Very rare                                       | Hepatic failure, hepatitis                                                                                                                                                                                                                                             |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                 |
-| Uncommon                                        | Rash papular, urticaria, hyperhidrosis, pruritus                                                                                                                                                                                                                       |
-| Rare                                            | Toxic epidermal necrolysis, Stevens-Johnson syndrome , cold sweat                                                                                                                                                                                                      |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                        |
-| Common                                          | Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm                                                                                                                                                                                                      |
-| Uncommon                                        | Joint swelling, myalgia, muscle twitching, neck pain, muscle stiffness                                                                                                                                                                                                 |
-| Rare                                            | Rhabdomyolysis                                                                                                                                                                                                                                                         |
-| Renal and urinary disorders                     | Renal and urinary disorders                                                                                                                                                                                                                                            |
-| Uncommon                                        | Urinary incontinence, dysuria                                                                                                                                                                                                                                          |
-| Rare                                            | Renal failure, oliguria, urinary retention                                                                                                                                                                                                                             |
+| System Organ Class                              | Adverse drug reactions                                                                                                                                                                                                                                               |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                        | Nervous system disorders                                                                                                                                                                                                                                             |
+| Very Common                                     | Dizziness, somnolence, headache                                                                                                                                                                                                                                      |
+| Common                                          | Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy                                                                                           |
+| Uncommon                                        | Syncope, stupor, myoclonus, loss of consciousness, psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment, speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise |
+| Rare                                            | Convulsions, parosmia, hypokinesia, dysgraphia, parkinsonism                                                                                                                                                                                                         |
+| Eye disorders                                   | Eye disorders                                                                                                                                                                                                                                                        |
+| Common                                          | Vision blurred, diplopia                                                                                                                                                                                                                                             |
+| Uncommon                                        | Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation                                                                                |
+| Rare                                            | Vision loss, keratitis, oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness                                                                                                                                                       |
+| Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                                                                                                                                                                                                          |
+| Common                                          | Vertigo                                                                                                                                                                                                                                                              |
+| Uncommon                                        | Hyperacusis                                                                                                                                                                                                                                                          |
+| Cardiac disorders                               | Cardiac disorders                                                                                                                                                                                                                                                    |
+| Uncommon Rare                                   | Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure QT prolongation, sinus tachycardia, sinus arrhythmia                                                                                                                   |
+| Vascular disorders                              | Vascular disorders                                                                                                                                                                                                                                                   |
+| Uncommon                                        | Hypotension, hypertension, hot flushes, flushing, peripheral coldness                                                                                                                                                                                                |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                      |
+| Uncommon                                        | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness                                                                                                                                                                                       |
+| Rare known                                      | Pulmonary oedema, throat tightness Respiratory depression                                                                                                                                                                                                            |
+| Not                                             |                                                                                                                                                                                                                                                                      |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                                                                                                                                                           |
+| Common                                          | Vomiting, nausea, constipation, diarrhoea, flatulence, abdominal distension, dry mouth                                                                                                                                                                               |
+| Uncommon                                        | Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral                                                                                                                                                                                        |
+| Rare                                            | Ascites, pancreatitis, swollen tongue, dysphagia                                                                                                                                                                                                                     |
+| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                                                                                                                                                                                              |
+| Uncommon                                        | Elevated liver enzymes*                                                                                                                                                                                                                                              |
+| Rare                                            | Jaundice                                                                                                                                                                                                                                                             |
+| Very rare                                       | Hepatic failure, hepatitis                                                                                                                                                                                                                                           |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                               |
+| Uncommon                                        | Rash papular, urticaria, hyperhidrosis, pruritus                                                                                                                                                                                                                     |
+| Rare                                            | Toxic epidermal necrolysis, Stevens-Johnson syndrome, cold sweat                                                                                                                                                                                                     |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                      |
+| Common                                          | Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm                                                                                                                                                                                                    |
+| Uncommon                                        | Joint swelling, myalgia, muscle twitching, neck pain, muscle stiffness                                                                                                                                                                                               |
+| Rare                                            | Rhabdomyolysis                                                                                                                                                                                                                                                       |
+| Renal and urinary disorders                     | Renal and urinary disorders                                                                                                                                                                                                                                          |
+| Uncommon                                        | Urinary incontinence, dysuria                                                                                                                                                                                                                                        |
+| Rare                                            | Renal failure, oliguria, urinary retention                                                                                                                                                                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1130,7 +1108,7 @@ Table 2. Pregabalin Adverse Drug Reactions
 | Rare                                                 | Amenorrhoea, breast discharge, breast enlargement, gynaecomastia                                                                                                   |
 | General disorders and administration site conditions | General disorders and administration site conditions                                                                                                               |
 | Common                                               | Oedema peripheral, oedema, gait abnormal, fall, feeling drunk, feeling abnormal, fatigue                                                                           |
-| Uncommon                                             | Generalised oedema, face oedema , chest tightness, pain, pyrexia, thirst, chills, asthenia                                                                         |
+| Uncommon                                             | Generalised oedema, face oedema, chest tightness, pain, pyrexia, thirst, chills, asthenia                                                                          |
 | Investigations                                       | Investigations                                                                                                                                                     |
 | Common                                               | Weight increased                                                                                                                                                   |
 | Uncommon                                             | Blood creatine phosphokinase increased, blood glucose increased, platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased |
@@ -1138,7 +1116,7 @@ Table 2. Pregabalin Adverse Drug Reactions
 
 * Alanine aminotransferase increased (ALT) and aspartate aminotransferase increased (AST).
 
-After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, suidical ideation, pain , hyperhidrosis and dizziness. These symptoms may indicate drug dependence. The patient should be informed about this at the start of the treatment. Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, suidical ideation, pain, hyperhidrosis and dizziness. These symptoms may indicate drug dependence. The patient should be informed about this at the start of the treatment. Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
 
 ## Paediatric population
 
@@ -1168,7 +1146,7 @@ The active substance, pregabalin, is a gamma-aminobutyric acid analogue [(S)-3-(
 
 ## Mechanism of action
 
-Pregabalin binds to an auxiliary subunit (  2 - protein) of voltage-gated calcium channels in the central nervous system.
+Pregabalin binds to an auxiliary subunit (α2-δ protein) of voltage-gated calcium channels in the central nervous system.
 
 ## Clinical efficacy and safety
 
@@ -1226,7 +1204,7 @@ Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, pati
 
 ## Absorption
 
-Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be  90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
+Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be ≥ 90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1266,11 +1244,9 @@ Pregabalin pharmacokinetics were evaluated in paediatric patients with epilepsy 
 
 After oral administration of pregabalin in paediatric patients in the fasted state, in general, time to reach peak plasma concentration was similar across the entire age group and occurred 0.5 hours to 2 hours postdose.
 
-Pregabalin Cmax and AUC parameters increased in a linear manner with increasing dose within each age group. The AUC was lower by 30% in paediatric patients below a weight of 30 kg due to an
+Pregabalin Cmax and AUC parameters increased in a linear manner with increasing dose within each age group. The AUC was lower by 30% in paediatric patients below a weight of 30 kg due to an increased body weight adjusted clearance of 43% for these patients in comparison to patients weighing ≥30 kg.
 
 <div style=\"page-break-after: always\"></div>
-
-increased body weight adjusted clearance of 43% for these patients in comparison to patients weighing ≥30 kg.
 
 Pregabalin terminal half-life averaged about 3 to 4 hours in paediatric patients up to 6 years of age, and 4 to 6 hours in those 7 years of age and older.
 
@@ -1345,41 +1321,31 @@ Table 3. Oral Syringe Withdrawals to Deliver Prescribed Dose of Lyrica
 |   Lyrica Dose (mg) |   Total Solution Volume (mL) |   First Syringe Withdrawal (mL) | Second Syringe Withdrawal (mL)   | Third Syringe Withdrawal (mL)   |
 |--------------------|------------------------------|---------------------------------|----------------------------------|---------------------------------|
 |                 25 |                         1.25 |                            1.25 | Not required                     | Not required                    |
-|                 50 |                         2.5  |                            2.5  | Not required                     | Not required                    |
+|                 50 |                          2.5 |                             2.5 | Not required                     | Not required                    |
 |                 75 |                         3.75 |                            3.75 | Not required                     | Not required                    |
-|                100 |                         5    |                            5    | Not required                     | Not required                    |
-|                150 |                         7.5  |                            5    | 2.5                              | Not required                    |
-|                200 |                        10    |                            5    | 5                                | Not required                    |
-|                225 |                        11.25 |                            5    | 5                                | 1.25                            |
-|                300 |                        15    |                            5    | 5                                | 5                               |
+|                100 |                            5 |                               5 | Not required                     | Not required                    |
+|                150 |                          7.5 |                               5 | 2.5                              | Not required                    |
+|                200 |                           10 |                               5 | 5                                | Not required                    |
+|                225 |                        11.25 |                               5 | 5                                | 1.25                            |
+|                300 |                           15 |                               5 | 5                                | 5                               |
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/04/279/044
 
-9.
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+Date of first authorisation: 06 July 2004 Date of latest renewal: 29 May 2009
 
-Date of first authorisation: 06 July 2004
-
-Date of latest renewal: 29 May 2009
-
-10.
-
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-35
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1399,19 +1365,19 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Orodispersible tablets
+Orodispersible tablets
 
 ## Lyrica 25 mg orodispersible tablets
 
-White plain, round tablet marked with 'VTLY' and '25' (approximately 6.0 mm in diameter and 3.0 mm thick).
+White plain, round tablet marked with \"VTLY\" and \"25\" (approximately 6.0 mm in diameter and 3.0 mm thick).
 
 ## Lyrica 75 mg orodispersible tablets
 
-White plain, round tablet marked with 'VTLY' and '75' (approximately 8.3 mm in diameter and 4.8 mm thick).
+White plain, round tablet marked with \"VTLY\" and \"75\" (approximately 8.3 mm in diameter and 4.8 mm thick).
 
 ## Lyrica 150 mg orodispersible tablets
 
-White plain, round tablet marked with 'VTLY' and '150' (approximately 10.5 mm in diameter and 6.0 mm thick).
+White plain, round tablet marked with \"VTLY\" and \"150\" (approximately 10.5 mm in diameter and 6.0 mm thick).
 
 ## 4. CLINICAL PARTICULARS
 
@@ -1437,11 +1403,9 @@ The dose range is 150 to 600 mg per day given in either two or three divided dos
 
 ## Neuropathic pain
 
-Pregabalin treatment can be started at a dose of 150 mg per day given as two or three divided doses. Based on individual patient response and tolerability, the dose may be increased to 300 mg per day
+Pregabalin treatment can be started at a dose of 150 mg per day given as two or three divided doses. Based on individual patient response and tolerability, the dose may be increased to 300 mg per day after an interval of 3 to 7 days, and if needed, to a maximum dose of 600 mg per day after an additional 7-day interval.
 
 <div style=\"page-break-after: always\"></div>
-
-after an interval of 3 to 7 days, and if needed, to a maximum dose of 600 mg per day after an additional 7-day interval.
 
 ## Epilepsy
 
@@ -1467,15 +1431,14 @@ Pregabalin is removed effectively from plasma by haemodialysis (50% of drug in 4
 
 Table 1. Pregabalin Dose Adjustment Based on Renal Function
 
-| Creatinine clearance (CL cr ) (mL/min)            | Total pregabalin daily dose*                      | Total pregabalin daily dose*                      | Dose regimen                                      |
-|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-|                                                   | Starting dose (mg/day)                            | Maximum dose (mg/day)                             |                                                   |
-| ≥ 60                                              | 150                                               | 600                                               | BID or TID                                        |
-| ≥ 30 - < 60                                       | 75                                                | 300                                               | BID or TID                                        |
-| ≥ 15 - < 30                                       | 25 - 50                                           | 150                                               | Once Daily or BID                                 |
-| < 15                                              | 25                                                | 75                                                | Once Daily                                        |
-| Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) |
-|                                                   | 25                                                | 100                                               | Single dose +                                     |
+| Creatinine clearance (CLcr) (mL/min)              | Total pregabalin daily dose* - Starting dose (mg/day)   | Total pregabalin daily dose* - Maximum dose (mg/day)   | Dose regimen                                      |
+|---------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------|
+| ≥ 60                                              | 150                                                     | 600                                                    | BID or TID                                        |
+| ≥ 30 - < 60                                       | 75                                                      | 300                                                    | BID or TID                                        |
+| ≥ 15 - < 30                                       | 25 - 50                                                 | 150                                                    | Once Daily or BID                                 |
+| < 15                                              | 25                                                      | 75                                                     | Once Daily                                        |
+| Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg)       | Supplementary dosage following haemodialysis (mg)      | Supplementary dosage following haemodialysis (mg) |
+|                                                   | 25                                                      | 100                                                    | Single dose +                                     |
 
 TID = Three divided doses
 
@@ -1483,7 +1446,7 @@ BID = Two divided doses
 
 * Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose
 
-+  Supplementary dose is a single additional dose
++ Supplementary dose is a single additional dose
 
 ## Hepatic impairment
 
@@ -1505,7 +1468,9 @@ Lyrica may be taken with or without food.
 
 Lyrica is for oral use only.
 
-The orodispersible tablet can be disintegrated on the tongue before swallowing. The tablet can be taken with or without water.
+The orodispersible tablet can be disintegrated on the tongue before swallowing.
+
+The tablet can be taken with or without water.
 
 ## 4.3 Contraindications
 
@@ -1601,7 +1566,7 @@ Lyrica contains less than 1 mmol sodium (23 mg) per orodispersible tablet. Patie
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (&lt; 2% of a dose recovered in urine as metabolites), does not inhibit drug metabolism in vitro , and is not bound to plasma proteins, it is unlikely to produce, or be subject to, pharmacokinetic interactions.
+Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (&lt; 2% of a dose recovered in urine as metabolites), does not inhibit drug metabolism in vitro, and is not bound to plasma proteins, it is unlikely to produce, or be subject to, pharmacokinetic interactions.
 
 ## In vivo studies and population pharmacokinetic analysis
 
@@ -1677,68 +1642,68 @@ Additional reactions reported from postmarketing experience are included in ital
 
 Table 2. Pregabalin Adverse Drug Reactions
 
-| System Organ Class                   | Adverse drug reactions                                                                                                                                                                                                       |
-|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations          | Infections and infestations                                                                                                                                                                                                  |
-| Common                               | Nasopharyngitis                                                                                                                                                                                                              |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                                                                                                                                         |
-| Uncommon                             | Neutropaenia                                                                                                                                                                                                                 |
-| Immune system disorders              | Immune system disorders                                                                                                                                                                                                      |
-| Uncommon                             | Hypersensitivity                                                                                                                                                                                                             |
-| Rare                                 | Angioedema, allergic reaction                                                                                                                                                                                                |
-| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                                                                                                                                                           |
-| Common                               | Appetite increased                                                                                                                                                                                                           |
-| Uncommon                             | Anorexia, hypoglycaemia                                                                                                                                                                                                      |
-| Psychiatric disorders                | Psychiatric disorders                                                                                                                                                                                                        |
-| Common                               | Euphoric mood, confusion, irritability, disorientation, insomnia, libido decreased                                                                                                                                           |
-| Uncommon                             | Hallucination, panic attack, restlessness, agitation, depression, depressed mood, elevated mood, aggression , mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy |
-| Rare                                 | Disinhibition, suicidal behaviour, suicidal ideation                                                                                                                                                                         |
-| Not known                            | Drug dependence                                                                                                                                                                                                              |
+| System Organ Class                   | Adverse drug reactions                                                                                                                                                                                                      |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations          | Infections and infestations                                                                                                                                                                                                 |
+| Common                               | Nasopharyngitis                                                                                                                                                                                                             |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                                                                                                                                        |
+| Uncommon                             | Neutropaenia                                                                                                                                                                                                                |
+| Immune system disorders              | Immune system disorders                                                                                                                                                                                                     |
+| Uncommon                             | Hypersensitivity                                                                                                                                                                                                            |
+| Rare                                 | Angioedema, allergic reaction                                                                                                                                                                                               |
+| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                                                                                                                                                          |
+| Common                               | Appetite increased                                                                                                                                                                                                          |
+| Uncommon                             | Anorexia, hypoglycaemia                                                                                                                                                                                                     |
+| Psychiatric disorders                | Psychiatric disorders                                                                                                                                                                                                       |
+| Common                               | Euphoric mood, confusion, irritability, disorientation, insomnia, libido decreased                                                                                                                                          |
+| Uncommon                             | Hallucination, panic attack, restlessness, agitation, depression, depressed mood, elevated mood, aggression, mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy |
+| Rare                                 | Disinhibition, suicidal behaviour, suicidal ideation                                                                                                                                                                        |
+| Not known                            | Drug dependence                                                                                                                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                         | Adverse drug reactions                                                                                                                                                                                                                                                 |
-|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nervous system disorders                                   | Nervous system disorders                                                                                                                                                                                                                                               |
-| Very Common                                                | Dizziness, somnolence, headache                                                                                                                                                                                                                                        |
-| Common                                                     | Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy                                                                                             |
-| Uncommon                                                   | Syncope, stupor, myoclonus, loss of consciousness , psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment , speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise |
-| Rare                                                       | Convulsions , parosmia, hypokinesia, dysgraphia, parkinsonism                                                                                                                                                                                                          |
-| Eye disorders                                              | Eye disorders                                                                                                                                                                                                                                                          |
-| Common                                                     | Vision blurred, diplopia                                                                                                                                                                                                                                               |
-| Uncommon                                                   | Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation                                                                                  |
-| Rare                                                       | Vision loss , keratitis , oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness                                                                                                                                                       |
-| Ear and labyrinth disorders                                | Ear and labyrinth disorders                                                                                                                                                                                                                                            |
-| Common                                                     | Vertigo                                                                                                                                                                                                                                                                |
-| Uncommon                                                   | Hyperacusis                                                                                                                                                                                                                                                            |
-| Cardiac disorders                                          | Cardiac disorders                                                                                                                                                                                                                                                      |
-| Uncommon                                                   | Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure                                                                                                                                                                          |
-| Rare QT prolongation , sinus tachycardia, sinus arrhythmia | Rare QT prolongation , sinus tachycardia, sinus arrhythmia                                                                                                                                                                                                             |
-| Vascular disorders Uncommon                                | Hypotension, hypertension, hot flushes, flushing, peripheral coldness                                                                                                                                                                                                  |
-| Respiratory, thoracic and mediastinal disorders            | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                        |
-| Uncommon                                                   | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness                                                                                                                                                                                         |
-| Rare                                                       | Pulmonary oedema , throat tightness                                                                                                                                                                                                                                    |
-| Not known                                                  | Respiratory depression                                                                                                                                                                                                                                                 |
-| Gastrointestinal disorders                                 | Gastrointestinal disorders                                                                                                                                                                                                                                             |
-| Common                                                     | Vomiting, nausea , constipation, diarrhoea , flatulence, abdominal distension, dry mouth                                                                                                                                                                               |
-| Uncommon                                                   | Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral                                                                                                                                                                                          |
-| Rare                                                       | Ascites, pancreatitis, swollen tongue , dysphagia                                                                                                                                                                                                                      |
-| Hepatobiliary disorders                                    | Hepatobiliary disorders                                                                                                                                                                                                                                                |
-| Uncommon                                                   | Elevated liver enzymes*                                                                                                                                                                                                                                                |
-| Rare                                                       | Jaundice                                                                                                                                                                                                                                                               |
-| Very rare                                                  | Hepatic failure, hepatitis                                                                                                                                                                                                                                             |
-| Skin and subcutaneous tissue disorders                     | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                 |
-| Uncommon                                                   | Rash papular, urticaria, hyperhidrosis, pruritus                                                                                                                                                                                                                       |
-| Rare                                                       | Toxic epidermal necrolysis, Stevens-Johnson syndrome , cold sweat                                                                                                                                                                                                      |
-| Musculoskeletal and connective tissue disorders            | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                        |
-| Common                                                     | Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm                                                                                                                                                                                                      |
-| Uncommon                                                   | Joint swelling, myalgia, muscle twitching, neck pain, muscle stiffness                                                                                                                                                                                                 |
-| Rare Rhabdomyolysis Renal and urinary disorders            | Rare Rhabdomyolysis Renal and urinary disorders                                                                                                                                                                                                                        |
-| Uncommon                                                   | Urinary incontinence, dysuria                                                                                                                                                                                                                                          |
-|                                                            | Renal failure, oliguria, urinary retention                                                                                                                                                                                                                             |
-| Rare                                                       | breast disorders                                                                                                                                                                                                                                                       |
-| Reproductive system                                        | Erectile dysfunction                                                                                                                                                                                                                                                   |
-| Common                                                     |                                                                                                                                                                                                                                                                        |
+| System Organ Class                                        | Adverse drug reactions                                                                                                                                                                                                                                               |
+|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                                  | Nervous system disorders                                                                                                                                                                                                                                             |
+| Very Common                                               | Dizziness, somnolence, headache                                                                                                                                                                                                                                      |
+| Common                                                    | Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy                                                                                           |
+| Uncommon                                                  | Syncope, stupor, myoclonus, loss of consciousness, psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment, speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise |
+| Rare                                                      | Convulsions, parosmia, hypokinesia, dysgraphia, parkinsonism                                                                                                                                                                                                         |
+| Eye disorders                                             | Eye disorders                                                                                                                                                                                                                                                        |
+| Common                                                    | Vision blurred, diplopia                                                                                                                                                                                                                                             |
+| Uncommon                                                  | Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation                                                                                |
+| Rare                                                      | Vision loss, keratitis, oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness                                                                                                                                                       |
+| Ear and labyrinth disorders                               | Ear and labyrinth disorders                                                                                                                                                                                                                                          |
+| Common                                                    | Vertigo                                                                                                                                                                                                                                                              |
+| Uncommon                                                  | Hyperacusis                                                                                                                                                                                                                                                          |
+| Cardiac disorders                                         | Cardiac disorders                                                                                                                                                                                                                                                    |
+| Uncommon                                                  | Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure                                                                                                                                                                        |
+| Rare QT prolongation, sinus tachycardia, sinus arrhythmia | Rare QT prolongation, sinus tachycardia, sinus arrhythmia                                                                                                                                                                                                            |
+| Vascular disorders Uncommon                               | Hypotension, hypertension, hot flushes, flushing, peripheral coldness                                                                                                                                                                                                |
+| Respiratory, thoracic and mediastinal disorders           | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                      |
+| Uncommon                                                  | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness                                                                                                                                                                                       |
+| Rare                                                      | Pulmonary oedema, throat tightness                                                                                                                                                                                                                                   |
+| Not known                                                 | Respiratory depression                                                                                                                                                                                                                                               |
+| Gastrointestinal disorders                                | Gastrointestinal disorders                                                                                                                                                                                                                                           |
+| Common                                                    | Vomiting, nausea, constipation, diarrhoea, flatulence, abdominal distension, dry mouth                                                                                                                                                                               |
+| Uncommon                                                  | Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral                                                                                                                                                                                        |
+| Rare                                                      | Ascites, pancreatitis, swollen tongue, dysphagia                                                                                                                                                                                                                     |
+| Hepatobiliary disorders                                   | Hepatobiliary disorders                                                                                                                                                                                                                                              |
+| Uncommon                                                  | Elevated liver enzymes*                                                                                                                                                                                                                                              |
+| Rare                                                      | Jaundice                                                                                                                                                                                                                                                             |
+| Very rare                                                 | Hepatic failure, hepatitis                                                                                                                                                                                                                                           |
+| Skin and subcutaneous tissue disorders                    | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                               |
+| Uncommon                                                  | Rash papular, urticaria, hyperhidrosis, pruritus                                                                                                                                                                                                                     |
+| Rare                                                      | Toxic epidermal necrolysis, Stevens-Johnson syndrome, cold sweat                                                                                                                                                                                                     |
+| Musculoskeletal and connective tissue disorders           | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                      |
+| Common                                                    | Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm                                                                                                                                                                                                    |
+| Uncommon                                                  | Joint swelling, myalgia, muscle twitching, neck pain, muscle stiffness                                                                                                                                                                                               |
+| Rare                                                      | Rhabdomyolysis                                                                                                                                                                                                                                                       |
+| disorders                                                 | disorders                                                                                                                                                                                                                                                            |
+| Renal and urinary                                         | Urinary incontinence, dysuria                                                                                                                                                                                                                                        |
+| Uncommon Rare                                             | Renal failure, oliguria, urinary retention                                                                                                                                                                                                                           |
+| Reproductive system and breast                            | disorders Erectile dysfunction                                                                                                                                                                                                                                       |
+| Common                                                    |                                                                                                                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1748,13 +1713,13 @@ Table 2. Pregabalin Adverse Drug Reactions
 | Rare                                                 | Amenorrhoea, breast discharge, breast enlargement, gynaecomastia                                                                                                   |
 | General disorders and administration site conditions | General disorders and administration site conditions                                                                                                               |
 | Common                                               | Oedema peripheral, oedema, gait abnormal, fall, feeling drunk, feeling abnormal, fatigue                                                                           |
-| Uncommon                                             | Generalised oedema, face oedema , chest tightness, pain, pyrexia, thirst, chills, asthenia                                                                         |
+| Uncommon                                             | Generalised oedema, face oedema, chest tightness, pain, pyrexia, thirst, chills, asthenia                                                                          |
 | Investigations                                       | Investigations                                                                                                                                                     |
 | Common                                               | Weight increased                                                                                                                                                   |
 | Uncommon                                             | Blood creatine phosphokinase increased, blood glucose increased, platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased |
 | Rare                                                 | White blood cell count decreased                                                                                                                                   |
 
-After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, suicidal ideation, pain , hyperhidrosis and dizziness. These symptoms may indicate drug dependence. The patient should be informed about this at the start of the treatment. Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, suicidal ideation, pain, hyperhidrosis and dizziness. These symptoms may indicate drug dependence. The patient should be informed about this at the start of the treatment. Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
 
 ## Paediatric population
 
@@ -1780,11 +1745,13 @@ Treatment of pregabalin overdose should include general supportive measures and 
 
 Pharmacotherapeutic group: Analgesics, other other analgesics and antipyretics ATC code: N02BF02
 
-The active substance, pregabalin, is a gamma-aminobutyric acid analogue [(S)-3-(aminomethyl)-5-methylhexanoic acid].
+The active substance, pregabalin, is a gamma-aminobutyric acid analogue
+
+[(S)-3-(aminomethyl)-5-methylhexanoic acid].
 
 ## Mechanism of action
 
-Pregabalin binds to an auxiliary subunit (  2 - protein) of voltage-gated calcium channels in the central nervous system.
+Pregabalin binds to an auxiliary subunit (α2-δ protein) of voltage-gated calcium channels in the central nervous system.
 
 ## Clinical efficacy and safety
 
@@ -1842,7 +1809,7 @@ Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, pati
 
 ## Absorption
 
-Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be  90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
+Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be ≥ 90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
 
 ## Distribution
 
@@ -1922,31 +1889,13 @@ clinical signs of hyperactivity and bruxism and some changes in growth (transien
 
 ## 6.1 List of excipients
 
-## Lyrica 25 mg, 75 mg, 150 mg orodispersible tablets
+Lyrica 25 mg, 75 mg, 150 mg orodispersible tablets
 
-Magnesium stearate  (E470b)
-
-Hydrogenated castor oil
-
-Glycerol dibehenate
-
-Talc (E553b)
-
-Microcrystalline cellulose (E460)
-
-D-Mannitol (E421)
-
-Crospovidone (E1202)
-
-Magnesium aluminometa silicate
-
-Saccharin sodium (E954)
-
-Sucralose (E955)
+Magnesium stearate (E470b) Hydrogenated castor oil Glycerol dibehenate Talc (E553b) Microcrystalline cellulose (E460) D-Mannitol (E421) Crospovidone (E1202) Magnesium aluminometa silicate Saccharin sodium (E954)
 
 Citrus flavour (Flavorings, Gum Arabic (E414), DL-alpha-tocopherol (E307), Dextrin (E1400) and Isomaltulose)
 
-Sodium stearyl fumarate (E470a)
+Sucralose (E955) Sodium stearyl fumarate (E470a)
 
 ## 6.2 Incompatibilities
 
@@ -1974,15 +1923,13 @@ Packaged in an Aluminium/Aluminium blister. Each blister contains 10 orodispersi
 
 ## PVC/PVDC/Aluminium blister in aluminium pouch pack sizes:
 
-20 orodispersible tablets packed in 1 aluminium pouch with 2 blisters.
-
-60 orodispersible tablets packed in 1 aluminium pouch with 6 blisters.
-
-200 orodispersible tablets packed in 2 aluminium pouches with 10 blisters in each.
+20 orodispersible tablets packed in 1 aluminium pouch with 2 blisters. 60 orodispersible tablets packed in 1 aluminium pouch with 6 blisters. 200 orodispersible tablets packed in 2 aluminium pouches with 10 blisters in each.
 
 <div style=\"page-break-after: always\"></div>
 
+```
 Aluminium/Aluminium blister pack sizes: 20 orodispersible tablets packed in 2 blisters. 60 orodispersible tablets packed in 6 blisters. 200 orodispersible tablets packed in 20 blisters.
+```
 
 Not all pack sizes may be marketed.
 
@@ -1992,13 +1939,13 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-## Lyrica 25 mg orodispersible tablets
+Lyrica 25 mg orodispersible tablets
 
 ```
 EU/1/04/279/047 EU/1/04/279/048 EU/1/04/279/049 EU/1/04/279/056 EU/1/04/279/057 EU/1/04/279/058
@@ -2036,9 +1983,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -2047,15 +1992,29 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Capsules Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany or
+Capsules Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany
 
-Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary or
+or
 
-MEDIS INTERNATIONAL a.s., výrobní závod Bolatice Průmyslová 961/16 747 23 Bolatice Czech Republic
+Mylan Hungary Kft.
 
-Oral Solution Viatris International Supply Point BV Terhulpsesteenweg 6A 1560 Hoeilaart Belgium or
+Mylan utca 1 Komárom, 2900 Hungary
 
-Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
+or
+
+MEDIS INTERNATIONAL a.s., výrobní závod Bolatice
+
+Průmyslová 961/16 747 23 Bolatice
+
+Czech Republic
+
+Oral Solution Viatris International Supply Point BV Terhulpsesteenweg 6A 1560 Hoeilaart Belgium
+
+or
+
+Mylan Hungary Kft. Mylan utca 1 Komárom, 2900
+
+Hungary
 
 Orodispersible Tablets Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
 
@@ -2102,7 +2061,9 @@ Carton of blister pack (14, 21, 56, 84, 100, and 112) and perforated unit dose b
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lyrica 25 mg hard capsules pregabalin
+Lyrica 25 mg hard capsules
+
+pregabalin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2153,24 +2114,15 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142
-
-2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/04/279/001-005 EU/1/04/279/026
 
@@ -2246,7 +2198,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
@@ -2280,19 +2232,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS                                                             |
+|-----------------------------------------------------------------------------------------------------------------|
+| Blister pack (14, 21, 56, 84, 100, and 112) and perforated unit dose blister pack (100) for 25 mg hard capsules |
 
-Blister pack (14, 21, 56, 84, 100, and 112) and perforated unit dose blister pack (100) for 25 mg hard capsules
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lyrica 25 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2315,7 +2267,9 @@ Carton of blister pack (14, 21, 56, 84 and 100) and perforated unit dose blister
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lyrica 50 mg hard capsules pregabalin
+Lyrica 50 mg hard capsules
+
+pregabalin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2367,7 +2321,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
@@ -2385,7 +2339,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16 . INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Lyrica 50 mg
 
@@ -2405,15 +2359,15 @@ NN
 
 Blister pack (14, 21, 56, 84 and 100) and perforated unit dose blister pack (100) for 50 mg hard capsules
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lyrica 50 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2470,7 +2424,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
@@ -2510,7 +2464,9 @@ Carton of blister pack (14, 56, 70, 100, and 112) and perforated unit dose blist
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lyrica 75 mg hard capsules pregabalin
+Lyrica 75 mg hard capsules
+
+pregabalin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2559,21 +2515,12 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV
-
-Rivium Westlaan 142
-
-2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
@@ -2611,7 +2558,9 @@ Lyrica 75 mg
 | 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
 |---------------------------------------------|
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -2627,13 +2576,15 @@ Lyrica 75 mg hard capsules pregabalin
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn
+Viatris
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -2648,7 +2599,9 @@ Carton of blister pack (21, 84 or 100) and perforated unit dose blister pack (10
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lyrica 100 mg hard capsules pregabalin
+Lyrica 100 mg hard capsules
+
+pregabalin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2693,13 +2646,15 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
+
+Netherlands
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -2732,7 +2687,9 @@ Lyrica 100 mg
 | 18.   | UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
 |-------|-----------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2740,15 +2697,15 @@ PC SN NN
 |---------------------------------------------------------------------------------------------------|
 | Blister pack (21, 84 or 100) and perforated unit dose blister pack (100) for 100 mg hard capsules |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lyrica 100 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2769,9 +2726,7 @@ Bottle immediate packaging for 150 mg hard capsules - pack of 200
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lyrica 150 mg hard capsules
-
-pregabalin
+Lyrica 150 mg hard capsules pregabalin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2787,9 +2742,7 @@ This product contains lactose monohydrate. See the package leaflet for further i
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use.
-
-Read the package leaflet before use.
+Oral use. Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2805,11 +2758,12 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
@@ -2849,7 +2803,9 @@ Carton of blister pack (14, 56, 100, and 112) and perforated unit dose blister p
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lyrica 150 mg hard capsules pregabalin
+Lyrica 150 mg hard capsules
+
+pregabalin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2896,24 +2852,15 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142
-
-2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/04/279/017 - 019 EU/1/04/279/028
 
@@ -2949,19 +2896,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS                                                    |
+|--------------------------------------------------------------------------------------------------------|
+| Blister pack (14, 56, 100 or 112) and perforated unit dose blister pack (100) for 150 mg hard capsules |
 
-Blister pack (14, 56, 100 or 112) and perforated unit dose blister pack (100) for 150 mg hard capsules
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lyrica 150 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3029,20 +2976,18 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen Netherlands
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/04/279/020 - 022
-
-EU/1/04/279/041
+EU/1/04/279/020 - 022 EU/1/04/279/041
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -3076,15 +3021,15 @@ PC SN NN
 |---------------------------------------------------------------------------------------------------|
 | Blister pack (21, 84 or 100) and perforated unit dose blister pack (100) for 200 mg hard capsules |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lyrica 200 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3152,13 +3097,16 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+APPROPRIATE
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
+
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
@@ -3193,7 +3141,9 @@ Lyrica 225 mg
 | 18.   | UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
 |-------|-----------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3201,15 +3151,15 @@ PC SN NN
 |---------------------------------------------------------------------------------------------------|
 | Blister pack (14, 56 or 100) and perforated unit dose blister pack (100) for 225 mg hard capsules |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lyrica 225 mg hard capsules pregabalin
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3246,9 +3196,7 @@ This product contains lactose monohydrate. See the package leaflet for further i
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use.
-
-Read the package leaflet before use.
+Oral use. Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -3268,7 +3216,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
@@ -3355,15 +3303,16 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
 
-Upjohn EESV Rivium Westlaan 142
+APPROPRIATE
 
-2909 LD Capelle aan den IJssel
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
+
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
@@ -3402,29 +3351,33 @@ PC SN
 
 NN
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 Blister pack (14, 56, 100 or 112) and perforated unit dose blister pack (100) for 300 mg hard capsules
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lyrica 300 mg hard capsules pregabalin
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn
+Viatris
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3468,11 +3421,11 @@ EXP
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
+<div style=\"page-break-after: always\"></div>
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142
-
-2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
@@ -3486,9 +3439,11 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Lyrica 20 mg/mL
 
@@ -3500,80 +3455,80 @@ Lyrica 20 mg/mL
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+<div style=\"page-break-after: always\"></div>
 
-BOTTLE LABEL
+| PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING   |
+|----------------------------------------------------|
+| BOTTLE LABEL                                       |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lyrica 20 mg/mL oral solution pregabalin
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each mL contains 20 mg pregabalin.
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 Other ingredients include E216 (propyl parahydroxybenzoate) and E218 (methyl parahydroxybenzoate). See leaflet for further information.
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
 473 mL oral solution
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
-Oral use.
-
-Read the package leaflet before use.
+Oral use. Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+Netherlands
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/04/279/044
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
-
-| 17. UNIQUE IDENTIFIER-2D BARCODE   |
-|------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER-2D BARCODE
 
 | 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
 |---------------------------------------------|
@@ -3586,7 +3541,9 @@ Carton of PVC/PVDC/Aluminium blister pack (20, 60 and 200) for 25 mg orodispersi
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lyrica 25 mg orodispersible tablets pregabalin
+Lyrica 25 mg orodispersible tablets
+
+pregabalin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3636,15 +3593,13 @@ Store in the original packaging in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/04/279/047
-
-EU/1/04/279/048
+EU/1/04/279/047 EU/1/04/279/048
 
 EU/1/04/279/049
 
@@ -3726,9 +3681,7 @@ Store in the original packaging in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142
-
-2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
@@ -3768,19 +3721,24 @@ NN
 
 Aluminium pouch of blister pack (20, 60 and 200) for 25 mg orodispersible tablets
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lyrica 25 mg orodispersible tablets pregabalin
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
-3. EXPIRY DATE
-5. OTHER
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
+
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3796,17 +3754,19 @@ Lyrica 25 mg orodispersible tablets pregabalin
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn
+Viatris
 
 ## 3. EXPIRY DATE
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3816,7 +3776,9 @@ Carton of PVC/PVDC/Aluminium blister pack (20, 60 and 200) for 75 mg orodispersi
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lyrica 75 mg orodispersible tablets pregabalin
+Lyrica 75 mg orodispersible tablets
+
+pregabalin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3866,11 +3828,7 @@ Store in the original packaging in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV
-
-Rivium Westlaan 142
-
-2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
@@ -3886,11 +3844,11 @@ EU/1/04/279/052
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-- 16 . INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Lyrica 75 mg
 
@@ -3956,19 +3914,19 @@ EXP
 
 Store in the original packaging in order to protect from moisture.
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/04/279/059
-
-EU/1/04/279/060
+EU/1/04/279/059 EU/1/04/279/060
 
 EU/1/04/279/061
 
@@ -3980,7 +3938,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16 . INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Lyrica 75 mg
 
@@ -3990,13 +3948,11 @@ Lyrica 75 mg
 
 ## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
 
-PC
-
-SN
-
-<div style=\"page-break-after: always\"></div>
+PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SECONDARY PACKAGING
 
@@ -4008,41 +3964,44 @@ Lyrica 75 mg orodispersible tablets pregabalin
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn
+Viatris
 
 3. EXPIRY DATE
 
-4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS                                |
+|------------------------------------------------------------------------------------|
+| PVC/PVDC/Aluminium blister pack (20, 60 and 200) for 75 mg orodispersible tablets  |
+| Aluminium/Aluminium blister pack (20, 60 and 200) for 75 mg orodispersible tablets |
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-PVC/PVDC/Aluminium blister pack (20, 60 and 200) for 75 mg orodispersible tablets
-
-Aluminium/Aluminium blister pack (20, 60 and 200) for 75 mg orodispersible tablets
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lyrica 75 mg orodispersible tablets pregabalin
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4102,7 +4061,7 @@ Store in the original packaging in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
@@ -4132,9 +4091,7 @@ Lyrica 150 mg
 
 ## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -4160,7 +4117,9 @@ See the package leaflet for further information.
 
 20 orodispersible tablets
 
-60 orodispersible tablets 200 orodispersible tablets
+60 orodispersible tablets
+
+200 orodispersible tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -4192,15 +4151,13 @@ Store in the original packaging in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+Viatris EESV Krijgsman 20 1186 DM, Amstelveen
 
 Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/04/279/062
-
-EU/1/04/279/063
+EU/1/04/279/062 EU/1/04/279/063
 
 EU/1/04/279/064
 
@@ -4222,11 +4179,11 @@ Lyrica 150 mg
 
 ## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SECONDARY PACKAGING
 
@@ -4238,49 +4195,52 @@ Lyrica 150 mg orodispersible tablets pregabalin
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-Upjohn
+Viatris
 
 3. EXPIRY DATE
 
-4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS                                 |
+|-------------------------------------------------------------------------------------|
+| PVC/PVDC/Aluminium blister pack (20, 60 and 200) for 150 mg orodispersible tablets  |
+| Aluminium/Aluminium blister pack (20, 60 and 200) for 150 mg orodispersible tablets |
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-PVC/PVDC/Aluminium blister pack (20, 60 and 200) for 150 mg orodispersible tablets
-
-Aluminium/Aluminium blister pack (20, 60 and 200) for 150 mg orodispersible tablets
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lyrica 150 mg orodispersible tablets pregabalin
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Upjohn
+Viatris
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ```
 Lyrica 25 mg hard capsules, Lyrica 50 mg hard capsules, Lyrica 75 mg hard capsules, Lyrica 100 mg hard capsules, Lyrica 150 mg hard capsules, Lyrica 200 mg hard capsules, Lyrica 225 mg hard capsules, Lyrica 300 mg hard capsules pregabalin
@@ -4288,10 +4248,10 @@ Lyrica 25 mg hard capsules, Lyrica 50 mg hard capsules, Lyrica 75 mg hard capsul
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4330,7 +4290,7 @@ Talk to your doctor or pharmacist before taking Lyrica.
 - Lyrica may cause blurring or loss of vision, or other changes in eyesight, many of which are temporary. You should immediately tell your doctor if you experience any changes in your vision.
 - Some patients with diabetes who gain weight while taking pregabalin may need an alteration in their diabetic medicines.
 - Certain side effects may be more common, such as sleepiness, because patients with spinal cord injury may be taking other medicines to treat, for example, pain or spasticity, that have similar side effects to Pregabalin and the severity of these effects may be increased when taken together.
-- There have been reports of heart failure in some patients when taking Lyrica; these patients were mostly elderly with cardiovascular conditions. Before taking this medicine you should tell your doctor if you have a history of heart disease .
+- There have been reports of heart failure in some patients when taking Lyrica; these patients were mostly elderly with cardiovascular conditions. Before taking this medicine you should tell your doctor if you have a history of heart disease.
 - There have been reports of kidney failure in some patients when taking Lyrica. If while taking Lyrica you notice decreased urination, you should tell your doctor as stopping the medicine may improve this.
 - Some patients being treated with anti-epileptics such as Lyrica have had thoughts of harming or killing themselves or shown suicidal behaviour. If at any time you have these thoughts or shown such behaviour, immediately contact your doctor.
 - When Lyrica is taken with other medicines that may cause constipation (such as some types of pain medicines) it is possible that gastrointestinal problems may occur (e.g. constipation, blocked or paralysed bowel). Tell your doctor if you experience constipation, especially if you are prone to this problem.
@@ -4344,13 +4304,13 @@ Talk to your doctor or pharmacist before taking Lyrica.
 
 ## Dependence
 
-Some people may become dependent on Lyrica (a need to keep taking the medicine). They may have withdrawal effects when they stop using Lyrica (see section 3, 'How to take Lyrica' and 'If you stop taking Lyrica'). If you have concerns that you may become dependent on Lyrica, it is important that you consult your doctor.
+Some people may become dependent on Lyrica (a need to keep taking the medicine). They may have withdrawal effects when they stop using Lyrica (see section 3, \"How to take Lyrica\" and \"If you stop taking Lyrica\"). If you have concerns that you may become dependent on Lyrica, it is important that you consult your doctor.
 
 If you notice any of the following signs whilst taking Lyrica, it could be a sign that you have become dependent:
 
 - You need to take the medicine for longer than advised by your prescriber
-- You are using the medicine for reasons other than prescribed
 - You feel you need to take more than the recommended dose
+- You are using the medicine for reasons other than prescribed
 - You have made repeated, unsuccessful attempts to quit or control the use of the medicine
 - When you stop taking the medicine you feel unwell, and you feel better once taking the medicine again
 
@@ -4378,11 +4338,9 @@ It is advised not to drink alcohol while taking Lyrica.
 
 ## Pregnancy and breast-feeding
 
-Lyrica should not be taken during pregnancy or when breast-feeding, unless you are told otherwise by your doctor. Pregabalin use during the first 3 months of pregnancy may cause birth defects in the unborn child that require medical treatment. In a study reviewing data from women in Nordic countries who took pregabalin in the first 3 months of pregnancy, 6 babies in every 100 had such birth defects. This compares to 4 babies in every 100 born to women not treated with pregabalin in the
+Lyrica should not be taken during pregnancy or when breast-feeding, unless you are told otherwise by your doctor. Pregabalin use during the first 3 months of pregnancy may cause birth defects in the unborn child that require medical treatment. In a study reviewing data from women in Nordic countries who took pregabalin in the first 3 months of pregnancy, 6 babies in every 100 had such birth defects. This compares to 4 babies in every 100 born to women not treated with pregabalin in the study. Abnormalities of the face (orofacial clefts), the eyes, the nervous system (including the brain), kidneys and genitals have been reported.
 
 <div style=\"page-break-after: always\"></div>
-
-study. Abnormalities of the face (orofacial clefts), the eyes, the nervous system (including the brain), kidneys and genitals have been reported.
 
 Effective contraception must be used by women of childbearing potential. If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 
@@ -4449,17 +4407,17 @@ Dizziness, drowsiness, headache.
 ## Common: may affect up to 1 in 10 people
 
 - Increased appetite.
-- Disturbance in attention, clumsiness, memory impairment, loss of memory, tremor, difficulty with speaking, tingling feeling, numbness, sedation, lethargy, insomnia, fatigue, feeling abnormal.
 - Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability.
+- Disturbance in attention, clumsiness, memory impairment, loss of memory, tremor, difficulty with speaking, tingling feeling, numbness, sedation, lethargy, insomnia, fatigue, feeling abnormal.
 - Blurred vision, double vision.
-- Dry mouth, constipation, vomiting, flatulence, diarrhoea, nausea, swollen abdomen.
 - Vertigo, problems with balance, fall.
+- Dry mouth, constipation, vomiting, flatulence, diarrhoea, nausea, swollen abdomen.
 - Difficulties with erection.
-- Feeling drunk, abnormal style of walking.
 - Swelling of the body including extremities.
+- Feeling drunk, abnormal style of walking.
 - Weight gain.
-- Sore throat.
 - Muscle cramp, joint pain, back pain, pain in limb.
+- Sore throat.
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -4472,37 +4430,37 @@ Dizziness, drowsiness, headache.
 
 - Heart rhythm disturbances, increased heart rate, low blood pressure, high blood pressure, changes in heart beat, heart failure.
 - Flushing, hot flushes.
-- Increased saliva production, heartburn, numb around mouth.
 - Difficulty breathing, dry nose, nasal congestion.
+- Increased saliva production, heartburn, numb around mouth.
 - Sweating, rash, chills, fever.
-- Breast pain.
 - Muscle twitching, joint swelling, muscle stiffness, pain including muscle pain, neck pain.
+- Breast pain.
 - Difficulty with or painful urination, incontinence.
-- Changes in blood and liver test results (blood creatinine phosphokinase increased, alanine amino transferase increased, aspartate aminotransferase increased, platelet count decreased, neutropaenia, increase in blood creatinine, decrease in blood potassium).
 - Weakness, thirst, chest tightness.
+- Changes in blood and liver test results (blood creatinine phosphokinase increased, alanine amino transferase increased, aspartate aminotransferase increased, platelet count decreased, neutropaenia, increase in blood creatinine, decrease in blood potassium).
 - Hypersensitivity, swollen face, itchiness, hives, runny nose, nose bleed, cough, snoring.
-- Coldness of hands and feet.
 - Painful menstrual periods.
+- Coldness of hands and feet.
 
 ## Rare: may affect up to 1 in 1,000 people
 
 - Abnormal sense of smell, swinging vision, altered perception of depth, visual brightness, vision loss.
 - Dilated pupils, cross eyes.
-- Inflammation of the pancreas.
 - Cold sweat, tightness of the throat, swollen tongue.
+- Inflammation of the pancreas.
 - Difficulty in swallowing.
-- Difficulty with writing properly.
 - Slow or reduced movement of the body.
+- Difficulty with writing properly.
 - Increased fluid in the abdomen.
-- Convulsions.
 - Fluid in the lungs.
+- Convulsions.
 - Changes in the recording of electrical changes (ECG) in the heart which correspond to heart rhythm disturbances.
 - Muscle damage.
-- Interrupted menstrual periods.
 - Breast discharge, abnormal breast growth, breast growth in males.
+- Interrupted menstrual periods.
 - Kidney failure, reduced urine volume, urinary retention.
-- Inappropriate behaviour, suicidal behaviour, suicidal thoughts.
 - Decrease in white blood cell count.
+- Inappropriate behaviour, suicidal behaviour, suicidal thoughts.
 - Allergic reactions which may include difficulty breathing, inflammation of the eyes (keratitis) and serious skin reactions characterized by reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome, toxic epidermal necrolysis).
 - Jaundice (yellowing of the skin and eyes).
 - Parkinsonism, that is symptoms resembling Parkinson's disease; such as tremor, bradykinesia (decreased ability to move), and rigidity (muscle stiffness).
@@ -4518,7 +4476,7 @@ Dizziness, drowsiness, headache.
 
 <div style=\"page-break-after: always\"></div>
 
-After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects (see 'If you stop taking Lyrica').
+After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects (see \"If you stop taking Lyrica\").
 
 ## If you experience swollen face or tongue or if your skin turns red and starts to blister or peel, you should seek immediate medical advice.
 
@@ -4544,7 +4502,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Lyrica contains
 
-The active substance is pregabalin. Each hard capsule contains either 25 mg , 50 mg, 75 mg, 100 mg, 150 mg, 200 mg, 225 mg or 300 mg pregabalin.
+The active substance is pregabalin. Each hard capsule contains either 25 mg, 50 mg, 75 mg, 100 mg, 150 mg, 200 mg, 225 mg or 300 mg pregabalin.
 
 The other ingredients are: lactose monohydrate, maize starch, talc, gelatine, titanium dioxide (E171), sodium laurilsulphate, anhydrous colloidal silica, black ink, (which contains shellac, black iron oxide (E172), propylene glycol, potassium hydroxide) and water.
 
@@ -4554,18 +4512,18 @@ The 75 mg, 100 mg, 200 mg, 225 mg and 300 mg capsules also contain red iron oxid
 
 | What Lyrica looks like and contents of the pack   | What Lyrica looks like and contents of the pack                                                                           |
 |---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| 25 mg capsules                                    | White hard capsules, with 'VTRS' marked on the cap and 'PGN 25' on the body.                                              |
-| 50 mg capsules                                    | White hard capsules, with 'VTRS' marked on the cap and 'PGN 50'on the body. The capsule body is marked with a black band. |
-| 75 mg capsules                                    | White and orange hard capsules with 'VTRS' marked on the cap and 'PGN 75' on the body.                                    |
-| 100 mg capsules                                   | Orange hard capsules, with 'VTRS' marked on the cap and 'PGN 100' on the body.                                            |
-| 150 mg capsules                                   | White hard capsules, with 'VTRS' marked on the cap and 'PGN 150' on the body.                                             |
-| 200 mg capsules                                   | Light orange hard capsules, with 'VTRS' marked on the cap and 'PGN 200' on the body.                                      |
-| 225 mg capsules                                   | White and light orange hard capsules, with 'VTRS' marked on the cap and 'PGN 225' on the body.                            |
-| 300 mg capsules                                   | White and orange hard capsules, with 'VTRS' marked on the cap and 'PGN 300' on the body.                                  |
+| 25 mg capsules                                    | White hard capsules, with \"VTRS\" marked on the cap and \"PGN 25\" on the body.                                              |
+| 50 mg capsules                                    | White hard capsules, with \"VTRS\" marked on the cap and \"PGN 50\"on the body. The capsule body is marked with a black band. |
+| 75 mg capsules                                    | White and orange hard capsules with \"VTRS\" marked on the cap and \"PGN 75\" on the body.                                    |
+| 100 mg capsules                                   | Orange hard capsules, with \"VTRS\" marked on the cap and \"PGN 100\" on the body.                                            |
+| 150 mg capsules                                   | White hard capsules, with \"VTRS\" marked on the cap and \"PGN 150\" on the body.                                             |
+| 200 mg capsules                                   | Light orange hard capsules, with \"VTRS\" marked on the cap and \"PGN 200\" on the body.                                      |
+| 225 mg capsules                                   | White and light orange hard capsules, with \"VTRS\" marked on the cap and \"PGN 225\" on the body.                            |
+| 300 mg capsules                                   | White and orange hard capsules, with \"VTRS\" marked on the cap and \"PGN 300\" on the body.                                  |
 
 Lyrica is available in eight pack sizes made of PVC with an aluminium foil backing: a 14 capsules pack containing 1 blister strip, a 21 capsules pack containing 1 blister strip, a 56 capsules pack containing 4 blister strips, a 70 capsules pack containing 5 blister strips, a 84 capsules pack containing 4 blister strips, a 100 capsules pack containing 10 blister strips, a 112 capsules pack containing 8 blister strips and 100 x 1 capsules as perforated unit dose blisters.
 
-In addition, Lyrica is available in an HDPE bottle containing 200 capsules for the 25 mg, 75 mg, 150 mg and 300 mg strengths .
+In addition, Lyrica is available in an HDPE bottle containing 200 capsules for the 25 mg, 75 mg, 150 mg and 300 mg strengths.
 
 Not all pack sizes may be marketed.
 
@@ -4573,7 +4531,7 @@ Not all pack sizes may be marketed.
 
 Marketing Authorisation Holder:
 
-Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+Viatris EESV, Krijgsman 20, 1186 DM, Amstelveen, Netherlands.
 
 ## Manufacturer:
 
@@ -4605,9 +4563,7 @@ Tel. +370 52051288
 
 ## България
 
-Майлан ЕООД
-
-Тел.: +359 2 44 55 400
+Виатрис ЕООД Тел.: +359 2 44 55 400
 
 ## Česká republika
 
@@ -4635,7 +4591,9 @@ Viatris Pharmaceuticals, S.L. Tel: +34 900 102 712
 
 ## France
 
-Viatris Santé Tél: +33 (0)4 37 25 75 00
+Viatris Santé
+
+Tél: +33 (0)4 37 25 75 00
 
 ## Hrvatska
 
@@ -4675,7 +4633,7 @@ V.J. Salomone Pharma Limited Tel: (+356) 21 220 174
 
 ## Nederland
 
-Mylan Healthcare BV Tel: +31 (0)20 426 3300
+Viatris Healthcare BV Tel: +31 (0)20 426 3300
 
 ## Norge
 
@@ -4691,11 +4649,15 @@ Viatris Healthcare Sp. z o.o. Tel.: +48 22 546 64 00
 
 ## Portugal
 
-Viatris Healthcare, Lda. Tel: +351 21 412 72 00
+Viatris Healthcare, Lda.
+
+Tel: +351 21 412 72 00
 
 ## România
 
-BGP Products SRL Tel: +40 372 579 000
+BGP Products SRL
+
+Tel: +40 372 579 000
 
 ## Slovenija
 
@@ -4711,7 +4673,9 @@ Viatris Oy Puh./Tel: +358 20 720 9555
 
 ## Sverige
 
-Viatris AB Tel: +46 (0)8 630 19 00
+Viatris AB
+
+Tel: +46 (0)8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4729,10 +4693,10 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4771,7 +4735,7 @@ Talk to your doctor or pharmacist before taking Lyrica.
 - Lyrica may cause blurring or loss of vision, or other changes in eyesight, many of which are temporary. You should immediately tell your doctor if you experience any changes in your vision.
 - Some patients with diabetes who gain weight while taking pregabalin may need an alteration in their diabetic medicines.
 - Certain side effects may be more common, such as sleepiness, because patients with spinal cord injury may be taking other medicines to treat, for example, pain or spasticity, that have similar side effects to pregabalin and the severity of these effects may be increased when taken together.
-- There have been reports of heart failure in some patients when taking Lyrica; these patients were mostly elderly with cardiovascular conditions. Before taking this medicine you should tell your doctor if you have a history of heart disease .
+- There have been reports of heart failure in some patients when taking Lyrica; these patients were mostly elderly with cardiovascular conditions. Before taking this medicine you should tell your doctor if you have a history of heart disease.
 - There have been reports of kidney failure in some patients when taking Lyrica. If while taking Lyrica you notice decreased urination, you should tell your doctor as stopping the medicine may improve this.
 - Some patients being treated with anti-epileptics such as Lyrica have had thoughts of harming or killing themselves or shown suicidal behaviour. If at any time you have these thoughts or show such behaviour, immediately contact your doctor.
 - When Lyrica is taken with other medicines that may cause constipation (such as some types of pain medicines) it is possible that gastrointestinal problems may occur (e.g. constipation, blocked or paralysed bowel). Tell your doctor if you experience constipation, especially if you are prone to this problem.
@@ -4784,13 +4748,13 @@ Talk to your doctor or pharmacist before taking Lyrica.
 
 ## Dependence
 
-Some people may become dependent on Lyrica (a need to keep taking the medicine). They may have withdrawal effects when they stop using Lyrica (see section 3, 'How to take Lyrica' and 'If you stop taking Lyrica'). If you have concerns that you may become dependent on Lyrica, it is important that you consult your doctor.
+Some people may become dependent on Lyrica (a need to keep taking the medicine). They may have withdrawal effects when they stop using Lyrica (see section 3, \"How to take Lyrica\" and \"If you stop taking Lyrica\"). If you have concerns that you may become dependent on Lyrica, it is important that you consult your doctor.
 
 If you notice any of the following signs whilst taking Lyrica, it could be a sign that you have become dependent:
 
 - You need to take the medicine for longer than advised by your prescriber
-- You are using the medicine for reasons other than prescribed
 - You feel you need to take more than the recommended dose
+- You are using the medicine for reasons other than prescribed
 - You have made repeated, unsuccessful attempts to quit or control the use of the medicine
 - When you stop taking the medicine you feel unwell, and you feel better once taking the medicine again
 
@@ -4895,13 +4859,13 @@ Table 1. Oral Syringe Withdrawals to Deliver Prescribed Dose of Lyrica
 |   Lyrica Dose (mg) |   Total Solution Volume (mL) |   First Syringe Withdrawal (mL) | Second Syringe Withdrawal (mL)   | Third Syringe Withdrawal (mL)   |
 |--------------------|------------------------------|---------------------------------|----------------------------------|---------------------------------|
 |                 25 |                         1.25 |                            1.25 | Not required                     | Not required                    |
-|                 50 |                         2.5  |                            2.5  | Not required                     | Not required                    |
+|                 50 |                          2.5 |                             2.5 | Not required                     | Not required                    |
 |                 75 |                         3.75 |                            3.75 | Not required                     | Not required                    |
-|                100 |                         5    |                            5    | Not required                     | Not required                    |
-|                150 |                         7.5  |                            5    | 2.5                              | Not required                    |
-|                200 |                        10    |                            5    | 5                                | Not required                    |
-|                225 |                        11.25 |                            5    | 5                                | 1.25                            |
-|                300 |                        15    |                            5    | 5                                | 5                               |
+|                100 |                            5 |                               5 | Not required                     | Not required                    |
+|                150 |                          7.5 |                               5 | 2.5                              | Not required                    |
+|                200 |                           10 |                               5 | 5                                | Not required                    |
+|                225 |                        11.25 |                               5 | 5                                | 1.25                            |
+|                300 |                           15 |                               5 | 5                                | 5                               |
 
 ## If you take more Lyrica than you should
 
@@ -4930,17 +4894,17 @@ Dizziness, drowsiness, headache.
 ## Common: may affect up to 1 in 10 people
 
 - Increased appetite.
-- Disturbance in attention, clumsiness, memory impairment, loss of memory, tremor, difficulty with speaking, tingling feeling, numbness, sedation, lethargy, insomnia, fatigue, feeling abnormal.
 - Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability.
+- Disturbance in attention, clumsiness, memory impairment, loss of memory, tremor, difficulty with speaking, tingling feeling, numbness, sedation, lethargy, insomnia, fatigue, feeling abnormal.
 - Blurred vision, double vision.
-- Dry mouth, constipation, vomiting, flatulence, diarrhoea, nausea, swollen abdomen.
 - Vertigo, problems with balance, fall.
+- Dry mouth, constipation, vomiting, flatulence, diarrhoea, nausea, swollen abdomen.
 - Difficulties with erection.
-- Feeling drunk, abnormal style of walking.
 - Swelling of the body including extremities.
+- Feeling drunk, abnormal style of walking.
 - Weight gain.
-- Sore throat.
 - Muscle cramp, joint pain, back pain, pain in limb.
+- Sore throat.
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -4950,40 +4914,40 @@ Dizziness, drowsiness, headache.
 - Dry eyes, eye swelling, eye pain, weak eyes, watery eyes, eye irritation.
 - Heart rhythm disturbances, increased heart rate, low blood pressure, high blood pressure, changes in heart beat, heart failure.
 - Flushing, hot flushes.
-- Increased saliva production, heartburn, numb around mouth.
 - Difficulty breathing, dry nose, nasal congestion.
+- Increased saliva production, heartburn, numb around mouth.
 - Sweating, rash, chills, fever.
-- Breast pain.
 - Muscle twitching, joint swelling, muscle stiffness, pain including muscle pain, neck pain.
+- Breast pain.
 - Difficulty with or painful urination, incontinence.
-- Changes in blood and liver test results (blood creatinine phosphokinase increased, alanine amino transferase increased, aspartate aminotransferase increased, platelet count decreased, neutropaenia, increase in blood creatinine, decrease in blood potassium).
 - Weakness, thirst, chest tightness.
+- Changes in blood and liver test results (blood creatinine phosphokinase increased, alanine amino transferase increased, aspartate aminotransferase increased, platelet count decreased, neutropaenia, increase in blood creatinine, decrease in blood potassium).
 - Hypersensitivity, swollen face, itchiness, hives, runny nose, nose bleed, cough, snoring.
-- Coldness of hands and feet.
 - Painful menstrual periods.
+- Coldness of hands and feet.
 
 ## Rare: may affect up to 1 in 1,000 people
 
 - Abnormal sense of smell, swinging vision, altered perception of depth, visual brightness, vision loss.
 - Dilated pupils, cross eyes.
-- Inflammation of the pancreas.
 - Cold sweat, tightness of the throat, swollen tongue.
+- Inflammation of the pancreas.
 - Difficulty in swallowing.
 - Slow or reduced movement of the body.
 
 <div style=\"page-break-after: always\"></div>
 
 - Difficulty with writing properly.
-- Fluid in the lungs.
 - Increased fluid in the abdomen.
+- Fluid in the lungs.
 - Convulsions.
 - Changes in the recording of electrical changes (ECG) in the heart which correspond to heart rhythm disturbances.
 - Muscle damage.
-- Interrupted menstrual periods.
 - Breast discharge, abnormal breast growth, breast growth in males.
+- Interrupted menstrual periods.
 - Kidney failure, reduced urine volume, urinary retention.
-- Inappropriate behaviour, suicidal behaviour, suicidal thoughts.
 - Decrease in white blood cell count.
+- Inappropriate behaviour, suicidal behaviour, suicidal thoughts.
 - Allergic reactions which may include difficulty breathing, inflammation of the eyes (keratitis) and serious skin reactions characterized by reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome, toxic epidermal necrolysis).
 - Jaundice (yellowing of the skin and eyes).
 - Parkinsonism, that is symptoms resembling Parkinson's disease; such as tremor, bradykinesia (decreased ability to move), and rigidity (muscle stiffness).
@@ -4997,7 +4961,7 @@ Dizziness, drowsiness, headache.
 
 - Becoming dependent on Lyrica ('drug dependence').
 
-After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects (see 'If you stop taking Lyrica').
+After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects (see \"If you stop taking Lyrica\").
 
 ## If you experience swollen face or tongue or if your skin turns red and starts to blister or peel, you should seek immediate medical advice.
 
@@ -5037,11 +5001,13 @@ Lyrica 20 mg/mL oral solution is a clear colourless solution in a white bottle c
 
 Marketing Authorisation Holder:
 
-Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+Viatris EESV, Krijgsman 20, 1186 DM, Amstelveen, Netherlands.
 
 ## Manufacturer:
 
-Viatris International Supply Point BV, Terhulpsesteenweg 6A, 1560 Hoeilaart, Belgium or
+Viatris International Supply Point BV, Terhulpsesteenweg 6A, 1560 Hoeilaart, Belgium
+
+or
 
 Mylan Hungary Kft., Mylan utca 1, Komárom 2900, Hungary
 
@@ -5053,17 +5019,29 @@ Viatris
 
 Tél/Tel: +32 (0)2 658 61 00
 
+## България
+
+Виатрис ЕООД
+
+Тел.: +359 2 44 55 400
+
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: +420 222 004 400
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
 ## Lietuva
 
 Viatris UAB
 
 Tel. +370 52051288
-
-## България
-
-Майлан ЕООД
-
-Тел.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -5073,23 +5051,11 @@ Tél/Tel: +32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Česká republika
-
-Viatris CZ s.r.o.
-
-Tel: +420 222 004 400
-
 ## Magyarország
 
 Viatris Healthcare Kft.
 
 Tel. + 36 1 465 2100
-
-## Danmark
-
-Viatris ApS
-
-Tlf: +45 28 11 69 32
 
 ## Malta
 
@@ -5097,17 +5063,13 @@ V.J. Salomone Pharma Limited
 
 Tel: (+356) 21 220 174
 
+<div style=\"page-break-after: always\"></div>
+
 ## Deutschland
 
 Viatris Healthcare GmbH
 
 Tel: +49 (0)800 0700 800
-
-## Nederland
-
-Mylan Healthcare BV
-
-Tel: +31 (0)20 426 3300
 
 ## Eesti
 
@@ -5115,23 +5077,11 @@ Viatris OÜ
 
 Tel: +372 6363 052
 
-## Norge
-
-Viatris AS
-
-Tlf: +47 66 75 33 00
-
 ## Ελλάδα
 
 Viatris Hellas Ltd
 
 Τηλ.: +30 2100 100 002
-
-## Österreich
-
-Viatris Austria GmbH
-
-Tel: +43 1 86390
 
 ## España
 
@@ -5139,23 +5089,11 @@ Viatris Pharmaceuticals, S.L.
 
 Tel: +34 900 102 712
 
-## Polska
-
-Viatris Healthcare Sp. z o.o.
-
-Tel.: +48 22 546 64 00
-
 ## France
 
 Viatris Santé
 
 Tél: +33 (0)4 37 25 75 00
-
-## Portugal
-
-Viatris Healthcare, Lda.
-
-Tel: +351 21 412 72 00
 
 ## Hrvatska
 
@@ -5163,23 +5101,11 @@ Viatris Hrvatska d.o.o.
 
 Tel: + 385 1 23 50 599
 
-## România
-
-BGP Products SRL
-
-Tel: +40 372 579 000
-
 ## Ireland
 
 Viatris Limited
 
 Tel: +353 1 8711600
-
-## Slovenija
-
-Viatris d.o.o.
-
-Tel: +386 1 236 31 80
 
 ## Ísland
 
@@ -5187,23 +5113,11 @@ Icepharma hf.
 
 Sími: +354 540 8000
 
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: +421 2 32 199 100
-
 ## Italia
 
 Viatris Pharma S.r.l.
 
 Tel: +39 02 612 46921
-
-## Suomi/Finland
-
-Viatris Oy
-
-Puh./Tel: +358 20 720 9555
 
 ## Κύπρος
 
@@ -5211,23 +5125,75 @@ CPO Pharmaceuticals Limited
 
 Τηλ: +357 22863100
 
-## Sverige
-
-Viatris AB
-
-Tel: +46 (0)8 630 19 00
-
 ## Latvija
 
 Viatris SIA
 
 Tel: +371 676 055 80
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in:
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Nederland
+
+Viatris Healthcare BV
+
+Tel: +31 (0)20 426 3300
+
+## Norge
+
+Viatris AS
+
+Tlf: +47 66 75 33 00
+
+## Österreich
+
+Viatris Austria GmbH
+
+Tel: +43 1 86390
+
+## Polska
+
+Viatris Healthcare Sp. z o.o.
+
+Tel.: +48 22 546 64 00
+
+## Portugal
+
+Viatris Healthcare, Lda.
+
+Tel: +351 21 412 72 00
+
+## România
+
+BGP Products SRL
+
+Tel: +40 372 579 000
+
+## Slovenija
+
+Viatris d.o.o.
+
+Tel: +386 1 236 31 80
+
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
+
+## Suomi/Finland
+
+Viatris Oy
+
+Puh./Tel: +358 20 720 9555
+
+## Sverige
+
+Viatris AB
+
+Tel: +46 (0)8 630 19 00
 
 ## Package leaflet: Information for the user
 
@@ -5237,10 +5203,10 @@ Lyrica 25 mg orodispersible tablets, Lyrica 75 mg orodispersible tablets, Lyrica
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5279,7 +5245,7 @@ Talk to your doctor or pharmacist before taking Lyrica.
 - Lyrica may cause blurring or loss of vision, or other changes in eyesight, many of which are temporary. You should immediately tell your doctor if you experience any changes in your vision.
 - Some patients with diabetes who gain weight while taking pregabalin may need an alteration in their diabetic medicines.
 - Certain side effects may be more common, such as sleepiness, because patients with spinal cord injury may be taking other medicines to treat, for example, pain or spasticity, that have similar side effects to Pregabalin and the severity of these effects may be increased when taken together.
-- There have been reports of heart failure in some patients when taking Lyrica; these patients were mostly elderly with cardiovascular conditions. Before taking this medicine you should tell your doctor if you have a history of heart disease .
+- There have been reports of heart failure in some patients when taking Lyrica; these patients were mostly elderly with cardiovascular conditions. Before taking this medicine you should tell your doctor if you have a history of heart disease.
 - There have been reports of kidney failure in some patients when taking Lyrica. If while taking Lyrica you notice decreased urination, you should tell your doctor as stopping the medicine may improve this.
 - Some patients being treated with anti-epileptics such as Lyrica have had thoughts of harming or killing themselves or shown suicidal behaviour. If at any time you have these thoughts or shown such behaviour, immediately contact your doctor.
 - When Lyrica is taken with other medicines that may cause constipation (such as some types of pain medicines) it is possible that gastrointestinal problems may occur (e.g. constipation, blocked or paralysed bowel). Tell your doctor if you experience constipation, especially if you are prone to this problem.
@@ -5292,13 +5258,13 @@ Talk to your doctor or pharmacist before taking Lyrica.
 
 ## Dependence
 
-Some people may become dependent on Lyrica (a need to keep taking the medicine). They may have withdrawal effects when they stop using Lyrica (see section 3, 'How to take Lyrica' and 'If you stop taking Lyrica'). If you have concerns that you may become dependent on Lyrica, it is important that you consult your doctor.
+Some people may become dependent on Lyrica (a need to keep taking the medicine). They may have withdrawal effects when they stop using Lyrica (see section 3, \"How to take Lyrica\" and \"If you stop taking Lyrica\"). If you have concerns that you may become dependent on Lyrica, it is important that you consult your doctor.
 
 If you notice any of the following signs whilst taking Lyrica, it could be a sign that you have become dependent:
 
 - You need to take the medicine for longer than advised by your prescriber
-- You are using the medicine for reasons other than prescribed
 - You feel you need to take more than the recommended dose
+- You are using the medicine for reasons other than prescribed
 - You have made repeated, unsuccessful attempts to quit or control the use of the medicine
 - When you stop taking the medicine you feel unwell, and you feel better once taking the medicine again
 
@@ -5352,7 +5318,9 @@ Your doctor will determine what dose is appropriate for you.
 
 Lyrica is for oral use only.
 
-The orodispersible tablet can be disintegrated on the tongue before swallowing. The tablet can be taken with or without water.
+The orodispersible tablet can be disintegrated on the tongue before swallowing.
+
+The tablet can be taken with or without water.
 
 ## Peripheral and central neuropathic pain, epilepsy or Generalised Anxiety Disorder:
 
@@ -5378,11 +5346,9 @@ It is important to take your Lyrica orodispersible tablets regularly at the same
 
 ## If you stop taking Lyrica
 
-Do not suddenly stop taking Lyrica. If you want to stop taking Lyrica, discuss this with your doctor first. They will tell you how to do this. If your treatment is stopped it should be done gradually over a minimum of 1 week. After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects. These effects include, trouble
+Do not suddenly stop taking Lyrica. If you want to stop taking Lyrica, discuss this with your doctor first. They will tell you how to do this. If your treatment is stopped it should be done gradually over a minimum of 1 week. After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects. These effects include, trouble sleeping, headache, nausea, feeling anxious, diarrhoea, flu like symptoms, convulsions, nervousness, depression, thoughts of harming or killing yourself, pain, sweating, and dizziness. These effects may occur more commonly or severely if you have been taking Lyrica for a longer period of time. If you experience withdrawal effects, you should contact your doctor.
 
 <div style=\"page-break-after: always\"></div>
-
-sleeping, headache, nausea, feeling anxious, diarrhoea, flu like symptoms, convulsions, nervousness, depression, thoughts of harming or killing yourself, pain, sweating, and dizziness. These effects may occur more commonly or severely if you have been taking Lyrica for a longer period of time. If you experience withdrawal effects, you should contact your doctor.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -5397,17 +5363,17 @@ Dizziness, drowsiness, headache.
 ## Common: may affect up to 1 in 10 people
 
 - Increased appetite.
-- Disturbance in attention, clumsiness, memory impairment, loss of memory, tremor, difficulty with speaking, tingling feeling, numbness, sedation, lethargy, insomnia, fatigue, feeling abnormal.
 - Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability.
+- Disturbance in attention, clumsiness, memory impairment, loss of memory, tremor, difficulty with speaking, tingling feeling, numbness, sedation, lethargy, insomnia, fatigue, feeling abnormal.
 - Blurred vision, double vision.
-- Dry mouth, constipation, vomiting, flatulence, diarrhoea, nausea, swollen abdomen.
 - Vertigo, problems with balance, fall.
+- Dry mouth, constipation, vomiting, flatulence, diarrhoea, nausea, swollen abdomen.
 - Difficulties with erection.
-- Feeling drunk, abnormal style of walking.
 - Swelling of the body including extremities.
+- Feeling drunk, abnormal style of walking.
 - Weight gain.
-- Sore throat.
 - Muscle cramp, joint pain, back pain, pain in limb.
+- Sore throat.
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -5417,11 +5383,11 @@ Dizziness, drowsiness, headache.
 - Dry eyes, eye swelling, eye pain, weak eyes, watery eyes, eye irritation.
 - Heart rhythm disturbances, increased heart rate, low blood pressure, high blood pressure, changes in heart beat, heart failure.
 - Flushing, hot flushes.
-- Increased saliva production, heartburn, numb around mouth.
 - Difficulty breathing, dry nose, nasal congestion.
+- Increased saliva production, heartburn, numb around mouth.
 - Sweating, rash, chills, fever.
-- Breast pain.
 - Muscle twitching, joint swelling, muscle stiffness, pain including muscle pain, neck pain.
+- Breast pain.
 - Difficulty with or painful urination, incontinence.
 - Weakness, thirst, chest tightness.
 
@@ -5429,28 +5395,28 @@ Dizziness, drowsiness, headache.
 
 - Changes in blood and liver test results (blood creatinine phosphokinase increased, alanine amino transferase increased, aspartate aminotransferase increased, platelet count decreased, neutropaenia, increase in blood creatinine, decrease in blood potassium).
 - Hypersensitivity, swollen face, itchiness, hives, runny nose, nose bleed, cough, snoring.
-- Coldness of hands and feet.
 - Painful menstrual periods.
+- Coldness of hands and feet.
 
 ## Rare: may affect up to 1 in 1,000 people
 
 - Abnormal sense of smell, swinging vision, altered perception of depth, visual brightness, vision loss.
 - Dilated pupils, cross eyes.
-- Inflammation of the pancreas.
 - Cold sweat, tightness of the throat, swollen tongue.
+- Inflammation of the pancreas.
 - Difficulty in swallowing.
-- Difficulty with writing properly.
 - Slow or reduced movement of the body.
+- Difficulty with writing properly.
 - Increased fluid in the abdomen.
-- Convulsions.
 - Fluid in the lungs.
+- Convulsions.
 - Changes in the recording of electrical changes (ECG) in the heart which correspond to heart rhythm disturbances.
 - Muscle damage.
-- Interrupted menstrual periods.
 - Breast discharge, abnormal breast growth, breast growth in males.
+- Interrupted menstrual periods.
 - Kidney failure, reduced urine volume, urinary retention.
-- Inappropriate behaviour, suicidal behaviour, suicidal thoughts.
 - Decrease in white blood cell count.
+- Inappropriate behaviour, suicidal behaviour, suicidal thoughts.
 - Allergic reactions which may include difficulty breathing, inflammation of the eyes (keratitis) and serious skin reactions characterized by reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome, toxic epidermal necrolysis).
 - Jaundice (yellowing of the skin and eyes).
 - Parkinsonism, that is symptoms resembling Parkinson's disease; such as tremor, bradykinesia (decreased ability to move), and rigidity (muscle stiffness).
@@ -5464,7 +5430,7 @@ Dizziness, drowsiness, headache.
 
 - Becoming dependent on Lyrica ('drug dependence').
 
-After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects (see 'If you stop taking Lyrica').
+After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects (see \"If you stop taking Lyrica\").
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5494,15 +5460,15 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Lyrica contains
 
-The active substance is pregabalin. Each orodispersible tablets contains either 25 mg , 75 mg, or 150 mg pregabalin.
+The active substance is pregabalin. Each orodispersible tablets contains either 25 mg, 75 mg, or 150 mg pregabalin.
 
-The other ingredients are: magnesium stearate (E470b), hydrogenated castor oil, glycerol dibehenate, talc (E553b), microcrystalline cellulose (E460), d-mannitol (E421), crospovidone (E1202), magnesium aluminometa silicate, saccharin sodium (E954), sucralose (E955), citrus flavour ( flavorings, gum arabic (E414), dl-alpha-tocopherol (E307), dextrin (E1400) and isomaltulose) and sodium stearyl fumarate (E470a, see section 2 ' Lyrica contains sodium ').
+The other ingredients are: magnesium stearate (E470b), hydrogenated castor oil, glycerol dibehenate, talc (E553b), microcrystalline cellulose (E460), d-mannitol (E421), crospovidone (E1202), magnesium aluminometa silicate, saccharin sodium (E954), sucralose (E955), citrus flavour ( flavorings, gum arabic (E414), dl-alpha-tocopherol (E307), dextrin (E1400) and isomaltulose) and sodium stearyl fumarate (E470a, see section 2 \"Lyrica contains sodium\").
 
-| What Lyrica looks like and contents of the pack   | What Lyrica looks like and contents of the pack                                                            |
-|---------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 25 mg tablets                                     | White plain, round tablet marked with 'VTLY' and '25' (approximately 6.0 mmin diameter and 3.0 mmthick).   |
-| 75 mg tablets                                     | White plain, round tablet marked with 'VTLY' and '75' (approximately 8.3 mmin diameter and 4.8 mmthick).   |
-| 150 mg tablets                                    | White plain, round tablet marked with 'VTLY' and '150' (approximately 10.5 mmin diameter and 6.0 mmthick). |
+| What Lyrica looks like and contents of the pack   | What Lyrica looks like and contents of the pack                                                              |
+|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| 25 mg tablets                                     | White plain, round tablet marked with \"VTLY\" and \"25\" (approximately 6.0 mm in diameter and 3.0 mm thick).   |
+| 75 mg tablets                                     | White plain, round tablet marked with \"VTLY\" and \"75\" (approximately 8.3 mm in diameter and 4.8 mm thick).   |
+| 150 mg tablets                                    | White plain, round tablet marked with \"VTLY\" and \"150\" (approximately 10.5 mm in diameter and 6.0 mm thick). |
 
 Lyrica is available in 3 pack sizes made of PVC/PVDC with an aluminium foil backing and an aluminum pouch wrapping with 20, 60 or 200 orodispersible tablets: the 20 tablet pack contains 2 blisters, the 60 tablet pack contains 6 blisters and the 200 tablet pack contains 2 pouches with
 
@@ -5518,7 +5484,7 @@ Not all pack sizes may be marketed.
 
 Marketing Authorisation Holder:
 
-Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+Viatris EESV, Krijgsman 20, 1186 DM, Amstelveen, Netherlands.
 
 ## Manufacturer:
 
@@ -5532,17 +5498,53 @@ Viatris
 
 Tél/Tel: +32 (0)2 658 61 00
 
+## България
+
+Виатрис ЕООД
+
+Тел.: +359 2 44 55 400
+
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: +420 222 004 400
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
+## Deutschland
+
+Viatris Healthcare GmbH
+
+Tel: +49 (0)800 0700 800
+
+## Eesti
+
+Viatris OÜ
+
+Tel: +372 6363 052
+
+## Ελλάδα
+
+Viatris Hellas Ltd
+
+Τηλ.: +30 2100 100 002
+
+## España
+
+Viatris Pharmaceuticals, S.L.
+
+Tel: +34 900 102 712
+
 ## Lietuva
 
 Viatris UAB
 
 Tel. +370 52051288
-
-## България
-
-Майлан ЕООД
-
-Тел.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -5552,23 +5554,11 @@ Tél/Tel: +32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Česká republika
-
-Viatris CZ s.r.o.
-
-Tel: +420 222 004 400
-
 ## Magyarország
 
 Viatris Healthcare Kft.
 
 Tel. + 36 1 465 2100
-
-## Danmark
-
-Viatris ApS
-
-Tlf: +45 28 11 69 32
 
 ## Malta
 
@@ -5576,23 +5566,11 @@ V.J. Salomone Pharma Limited
 
 Tel: (+356) 21 220 174
 
-## Deutschland
-
-Viatris Healthcare GmbH
-
-Tel: +49 (0)800 0700 800
-
 ## Nederland
 
-Mylan Healthcare BV
+Viatris Healthcare BV
 
 Tel: +31 (0)20 426 3300
-
-## Eesti
-
-Viatris OÜ
-
-Tel: +372 6363 052
 
 ## Norge
 
@@ -5600,23 +5578,11 @@ Viatris AS
 
 Tlf: +47 66 75 33 00
 
-## Ελλάδα
-
-Viatris Hellas Ltd
-
-Τηλ.: +30 2100 100 002
-
 ## Österreich
 
 Viatris Austria GmbH
 
 Tel: +43 1 86390
-
-## España
-
-Viatris Pharmaceuticals, S.L.
-
-Tel: +34 900 102 712
 
 ## Polska
 
@@ -5630,23 +5596,11 @@ Viatris Santé
 
 Tél: +33 (0)4 37 25 75 00
 
-## Portugal
-
-Viatris Healthcare, Lda.
-
-Tel: +351 21 412 72 00
-
 ## Hrvatska
 
 Viatris Hrvatska d.o.o.
 
 Tel: + 385 1 23 50 599
-
-## România
-
-BGP Products SRL
-
-Tel: +40 372 579 000
 
 ## Ireland
 
@@ -5654,23 +5608,11 @@ Viatris Limited
 
 Tel: +353 1 8711600
 
-## Slovenija
-
-Viatris d.o.o.
-
-Tel: +386 1 236 31 80
-
 ## Ísland
 
 Icepharma hf.
 
 Sími: +354 540 8000
-
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: +421 2 32 199 100
 
 ## Italia
 
@@ -5678,17 +5620,47 @@ Viatris Pharma S.r.l.
 
 Tel: +39 02 612 46921
 
-## Suomi/Finland
-
-Viatris Oy
-
-Puh./Tel: +358 20 720 9555
-
 ## Κύπρος
 
 CPO Pharmaceuticals Limited
 
 Τηλ: +357 22863100
+
+## Latvija
+
+Viatris SIA
+
+Tel: +371 676 055 80
+
+## Portugal
+
+Viatris Healthcare, Lda.
+
+Tel: +351 21 412 72 00
+
+## România
+
+BGP Products SRL
+
+Tel: +40 372 579 000
+
+## Slovenija
+
+Viatris d.o.o.
+
+Tel: +386 1 236 31 80
+
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
+
+## Suomi/Finland
+
+Viatris Oy
+
+Puh./Tel: +358 20 720 9555
 
 ## Sverige
 
@@ -5696,15 +5668,7 @@ Viatris AB
 
 Tel: +46 (0)8 630 19 00
 
-## Latvija
-
-Viatris SIA
-
 <div style=\"page-break-after: always\"></div>
-
-Viatris SIA
-
-Tel: +371 676 055 80
 
 ## This leaflet was last revised in:
 

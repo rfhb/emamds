@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-07-02 09:19:00
+document_datetime: 2026-10-15 16:04:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/elaprase.html
 document_name: elaprase.html
 version: success
-processing_time: 0.1384917
-conversion_datetime: 2026-07-04 13:10:03.877495
+processing_time: 0.1986127
+conversion_datetime: 2026-10-19 23:43:33.515009
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Elaprase
 
 [RSS](/en/individual-human-medicine.xml/66140)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -123,7 +123,7 @@ English (EN) (102.2 KB - PDF)
 
 [View](/en/documents/overview/elaprase-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-129)
+[Other languages (22)](#file-language-dropdown-286)
 
 български (BG) (109.85 KB - PDF)
 
@@ -269,167 +269,167 @@ English (EN) (535.52 KB - PDF)
 
 Elaprase : EPAR - Product Information
 
-English (EN) (250.84 KB - PDF)
+English (EN) (245.53 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/en/documents/product-information/elaprase-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-617)
+[Other languages (24)](#file-language-dropdown-877)
 
-български (BG) (323.11 KB - PDF)
+български (BG) (309.17 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/bg/documents/product-information/elaprase-epar-product-information_bg.pdf)
 
-español (ES) (273.97 KB - PDF)
+español (ES) (243.79 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/es/documents/product-information/elaprase-epar-product-information_es.pdf)
 
-čeština (CS) (310.3 KB - PDF)
+čeština (CS) (299.17 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/cs/documents/product-information/elaprase-epar-product-information_cs.pdf)
 
-dansk (DA) (253 KB - PDF)
+dansk (DA) (243.06 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/da/documents/product-information/elaprase-epar-product-information_da.pdf)
 
-Deutsch (DE) (265.16 KB - PDF)
+Deutsch (DE) (253.74 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/de/documents/product-information/elaprase-epar-product-information_de.pdf)
 
-eesti (ET) (265.97 KB - PDF)
+eesti (ET) (254.58 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/et/documents/product-information/elaprase-epar-product-information_et.pdf)
 
-ελληνικά (EL) (348.52 KB - PDF)
+ελληνικά (EL) (336.94 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/el/documents/product-information/elaprase-epar-product-information_el.pdf)
 
-français (FR) (321.84 KB - PDF)
+français (FR) (311.88 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/fr/documents/product-information/elaprase-epar-product-information_fr.pdf)
 
-hrvatski (HR) (310.44 KB - PDF)
+hrvatski (HR) (297.45 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/hr/documents/product-information/elaprase-epar-product-information_hr.pdf)
 
-italiano (IT) (296.34 KB - PDF)
+italiano (IT) (291.65 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/it/documents/product-information/elaprase-epar-product-information_it.pdf)
 
-latviešu (LV) (333.85 KB - PDF)
+latviešu (LV) (319.97 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/lv/documents/product-information/elaprase-epar-product-information_lv.pdf)
 
-lietuvių (LT) (331.65 KB - PDF)
+lietuvių (LT) (319.94 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/lt/documents/product-information/elaprase-epar-product-information_lt.pdf)
 
-magyar (HU) (334.29 KB - PDF)
+magyar (HU) (322.54 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/hu/documents/product-information/elaprase-epar-product-information_hu.pdf)
 
-Malti (MT) (353.08 KB - PDF)
+Malti (MT) (340.04 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/mt/documents/product-information/elaprase-epar-product-information_mt.pdf)
 
-Nederlands (NL) (261.17 KB - PDF)
+Nederlands (NL) (253.7 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/nl/documents/product-information/elaprase-epar-product-information_nl.pdf)
 
-polski (PL) (361.43 KB - PDF)
+polski (PL) (348.69 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/pl/documents/product-information/elaprase-epar-product-information_pl.pdf)
 
-português (PT) (304.18 KB - PDF)
+português (PT) (299.11 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/pt/documents/product-information/elaprase-epar-product-information_pt.pdf)
 
-română (RO) (309.51 KB - PDF)
+română (RO) (298.9 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/ro/documents/product-information/elaprase-epar-product-information_ro.pdf)
 
-slovenčina (SK) (334.9 KB - PDF)
+slovenčina (SK) (305.06 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/sk/documents/product-information/elaprase-epar-product-information_sk.pdf)
 
-slovenščina (SL) (346.19 KB - PDF)
+slovenščina (SL) (332.98 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/sl/documents/product-information/elaprase-epar-product-information_sl.pdf)
 
-suomi (FI) (269.94 KB - PDF)
+suomi (FI) (258.38 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/fi/documents/product-information/elaprase-epar-product-information_fi.pdf)
 
-svenska (SV) (270.09 KB - PDF)
+svenska (SV) (259.87 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/sv/documents/product-information/elaprase-epar-product-information_sv.pdf)
 
-Íslenska (IS) (285.74 KB - PDF)
+Íslenska (IS) (280.87 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/is/documents/product-information/elaprase-epar-product-information_is.pdf)
 
-norsk (NO) (249.9 KB - PDF)
+norsk (NO) (238.6 KB - PDF)
 
-**First published:** 25/03/2009 **Last updated:** 16/04/2025
+**First published:** 25/03/2009 **Last updated:** 15/10/2026
 
 [View](/no/documents/product-information/elaprase-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000279282
+**Latest procedure affecting product information:** VR/0000373474
 
-04/09/2025
+15/10/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -448,7 +448,7 @@ English (EN) (17.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/elaprase-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-604)
+[Other languages (24)](#file-language-dropdown-383)
 
 български (BG) (77.79 KB - PDF)
 
@@ -624,11 +624,16 @@ Elaprase is indicated for the long-term treatment of patients with Hunter syndro
 - **Exceptional circumstances**
     - This medicine was authorised under exceptional circumstances, because the applicant was unable to provide comprehensive data on the efficacy and safety of the medicine under normal conditions of use. This can happen because the condition to be treated is rare or because collection of full information is not possible or is unethical. For more information, see [Pre-authorisation guidance](/node/68554) .
 - **Marketing authorisation holder**
-    - Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza  50-58 Baggot Street Lower  Dublin 2  Co Dublin  D02 HW68  Ireland
+    - Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza  
+50-58 Baggot Street Lower  
+Dublin 2  
+Co Dublin  
+D02 HW68  
+Ireland
 - **Marketing authorisation issued**
     - 08/01/2007
 - **Revision**
-    - 27
+    - 28
 
 ## Assessment history
 
@@ -640,9 +645,9 @@ Collapse section
 
 Elaprase : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (159.52 KB - PDF)
+English (EN) (173.91 KB - PDF)
 
-**First published:** 16/04/2025 **Last updated:** 02/07/2026
+**First published:** 16/04/2025 **Last updated:** 15/10/2026
 
 [View](/en/documents/procedural-steps-after/elaprase-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -686,6 +691,6 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 **This page was last updated on**
 
-02/07/2026
+15/10/2026
 
 ## Share this page

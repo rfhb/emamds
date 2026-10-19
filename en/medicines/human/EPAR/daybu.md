@@ -1,26 +1,26 @@
 ---
-document_datetime: 2026-08-31 12:33:00
+document_datetime: 2026-10-12 12:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/daybu.html
 document_name: daybu.html
 version: success
-processing_time: 0.1389091
-conversion_datetime: 2026-09-02 22:26:46.146971
+processing_time: 0.1566138
+conversion_datetime: 2026-10-19 23:42:32.654014
 docling_version:
-  docling-serve: 1.32.0
-  docling-jobkit: 3.5.0
-  docling: 2.124.0
-  docling-core: 2.93.0
-  docling-ibm-models: 4.0.1
-  docling-parse: 7.16.0
+  docling-serve: 1.37.0
+  docling-jobkit: 3.8.2
+  docling: 2.140.0
+  docling-core: 2.103.0
+  docling-ibm-models: 4.0.3
+  docling-parse: 7.22.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 # Daybu
 
 [RSS](/en/individual-human-medicine.xml/273446)
 
-Authorised
+## Authorised
 
 This medicine is authorised for use in the European Union
 
@@ -119,7 +119,7 @@ English (EN) (133.69 KB - PDF)
 
 [View](/en/documents/overview/daybu-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-335)
+[Other languages (22)](#file-language-dropdown-527)
 
 български (BG) (151.63 KB - PDF)
 
@@ -265,157 +265,161 @@ English (EN) (4.85 MB - PDF)
 
 Daybu : EPAR - Product information
 
-English (EN) (234.03 KB - PDF)
+English (EN) (466.13 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/en/documents/product-information/daybu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-303)
+[Other languages (24)](#file-language-dropdown-91)
 
-български (BG) (345.97 KB - PDF)
+български (BG) (529.78 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/bg/documents/product-information/daybu-epar-product-information_bg.pdf)
 
-español (ES) (249.79 KB - PDF)
+español (ES) (489.43 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/es/documents/product-information/daybu-epar-product-information_es.pdf)
 
-čeština (CS) (317.31 KB - PDF)
+čeština (CS) (497.03 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/cs/documents/product-information/daybu-epar-product-information_cs.pdf)
 
-dansk (DA) (243.81 KB - PDF)
+dansk (DA) (484.52 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/da/documents/product-information/daybu-epar-product-information_da.pdf)
 
-Deutsch (DE) (239.09 KB - PDF)
+Deutsch (DE) (502.35 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/de/documents/product-information/daybu-epar-product-information_de.pdf)
 
-eesti (ET) (222.67 KB - PDF)
+eesti (ET) (458.55 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/et/documents/product-information/daybu-epar-product-information_et.pdf)
 
-ελληνικά (EL) (344.31 KB - PDF)
+ελληνικά (EL) (535.88 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/el/documents/product-information/daybu-epar-product-information_el.pdf)
 
-français (FR) (217.29 KB - PDF)
+français (FR) (447.48 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/fr/documents/product-information/daybu-epar-product-information_fr.pdf)
 
-hrvatski (HR) (291.48 KB - PDF)
+hrvatski (HR) (506.99 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/hr/documents/product-information/daybu-epar-product-information_hr.pdf)
 
-italiano (IT) (219.53 KB - PDF)
+italiano (IT) (442.67 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/it/documents/product-information/daybu-epar-product-information_it.pdf)
 
-latviešu (LV) (301.63 KB - PDF)
+latviešu (LV) (477.46 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/lv/documents/product-information/daybu-epar-product-information_lv.pdf)
 
-lietuvių (LT) (297.78 KB - PDF)
+lietuvių (LT) (499.94 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/lt/documents/product-information/daybu-epar-product-information_lt.pdf)
 
-magyar (HU) (302.43 KB - PDF)
+magyar (HU) (517.3 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/hu/documents/product-information/daybu-epar-product-information_hu.pdf)
 
-Malti (MT) (319.16 KB - PDF)
+Malti (MT) (514.41 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/mt/documents/product-information/daybu-epar-product-information_mt.pdf)
 
-Nederlands (NL) (220.1 KB - PDF)
+Nederlands (NL) (457.59 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/nl/documents/product-information/daybu-epar-product-information_nl.pdf)
 
-polski (PL) (319.51 KB - PDF)
+polski (PL) (517.98 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/pl/documents/product-information/daybu-epar-product-information_pl.pdf)
 
-português (PT) (247.47 KB - PDF)
+português (PT) (487.52 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/pt/documents/product-information/daybu-epar-product-information_pt.pdf)
 
-română (RO) (321.22 KB - PDF)
+română (RO) (520.15 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/ro/documents/product-information/daybu-epar-product-information_ro.pdf)
 
-slovenčina (SK) (317.89 KB - PDF)
+slovenčina (SK) (519.9 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/sk/documents/product-information/daybu-epar-product-information_sk.pdf)
 
-slovenščina (SL) (304.75 KB - PDF)
+slovenščina (SL) (503.88 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/sl/documents/product-information/daybu-epar-product-information_sl.pdf)
 
-suomi (FI) (234.78 KB - PDF)
+suomi (FI) (465.24 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/fi/documents/product-information/daybu-epar-product-information_fi.pdf)
 
-svenska (SV) (249.23 KB - PDF)
+svenska (SV) (508.91 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/sv/documents/product-information/daybu-epar-product-information_sv.pdf)
 
-Íslenska (IS) (215.45 KB - PDF)
+Íslenska (IS) (450.42 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/is/documents/product-information/daybu-epar-product-information_is.pdf)
 
-norsk (NO) (213.37 KB - PDF)
+norsk (NO) (444.42 KB - PDF)
 
-**First published:** 31/08/2026
+**First published:** 31/08/2026 **Last updated:** 12/10/2026
 
 [View](/no/documents/product-information/daybu-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000380571
+
+09/10/2026
 
 icon globe
 
@@ -440,7 +444,7 @@ English (EN) (9.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/daybu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-472)
+[Other languages (24)](#file-language-dropdown-771)
 
 български (BG) (32.82 KB - PDF)
 
@@ -605,7 +609,7 @@ Other nervous system drugs
 
 ### Therapeutic indication
 
-Daybu is indicated for the treatment of Rett syndrome in adults and paediatric patients 2 years of age and older.
+Daybu is indicated for the treatment of neurobehavioural symptoms of Rett syndrome in adults and paediatric patients aged 5 years and older.
 
 ## Authorisation details
 
@@ -616,13 +620,32 @@ Daybu is indicated for the treatment of Rett syndrome in adults and paediatric p
 - **Orphan**
     - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
 - **Marketing authorisation holder**
-    - Acadia Pharmaceuticals B.V. Floor 4th Atrium Building  Strawinskylaan 3051  1077 ZX Amsterdam  The Netherlands
+    - Acadia Pharmaceuticals B.V. Floor 4th Atrium Building  
+Strawinskylaan 3051  
+1077 ZX Amsterdam  
+The Netherlands
 - **Opinion adopted**
     - 25/06/2026
 - **Marketing authorisation issued**
     - 20/08/2026
+- **Revision**
+    - 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Daybu : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (156.06 KB - PDF)
+
+**First published:** 12/10/2026
+
+[View](/en/documents/procedural-steps-after/daybu-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -684,6 +707,6 @@ English (EN) (118.83 KB - PDF)
 
 **This page was last updated on**
 
-31/08/2026
+12/10/2026
 
 ## Share this page

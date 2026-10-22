@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-04 12:15:48
-document_pages: 127
+document_datetime: 2026-10-20 13:14:26
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bimervax-epar-product-information_en.pdf
 document_name: bimervax-epar-product-information_en.pdf
 version: success
-processing_time: 40.6853234
-conversion_datetime: 2026-08-07 14:36:51.41601
+processing_time: 54.4432598
+conversion_datetime: 2026-10-22 22:36:27.510877
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -110,7 +110,7 @@ No further dose of the vaccine should be given to those who have experienced ana
 
 ## Anxiety-related reactions
 
-Anxietyrelated reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions may occur in association with vaccination as a psychogenic response to the needle injection. It is important that precautions are in place to avoid injury from fainting.
+Anxiety-related reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions may occur in association with vaccination as a psychogenic response to the needle injection. It is important that precautions are in place to avoid injury from fainting.
 
 ## Concurrent illness
 
@@ -200,7 +200,7 @@ The safety of an additional booster dose of BIMERVAX as a fourth dose was assess
 
 The safety of a booster dose of BIMERVAX in adolescents aged 12 through 17 years is based on safety data from the phase 3 clinical trial and the ongoing phase 2b clinical trial. A total of 276 participants, with and without medical history of prior SARS-CoV-2 infection, received a booster dose of BIMERVAX at least 3 months after the last dose of the primary series.
 
-Adverse reactions observed during clinical trials are listed below according to the following frequency categories: v ery common (≥ 1/10), c ommon (≥ 1/100 to &lt; 1/10), u ncommon (≥ 1/1000 to &lt; 1/100), r are (≥ 1/10 000 to &lt; 1/1000), v ery rare (&lt; 1/10 000) and not known (cannot be estimated from the available data).
+Adverse reactions observed during clinical trials are listed below according to the following frequency categories: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -262,11 +262,10 @@ Immunogenicity of a booster dose of BIMERVAX was based on an assessment of geome
 
 <div style=\"page-break-after: always\"></div>
 
-Table 2: Post-booster GMT  ratio for BIMERVAX  versus  COVID-19  mRNA  vaccine (tozinameran) with neutralisation titres (PBNA) against SARS-CoV-2 (D614G strain), Beta, Delta and Omicron BA.1 at days 14, 28, 98 and 182 post-booster dose (per protocol population)
+Table 2: Post-booster GMT ratio for BIMERVAX versus COVID-19 mRNA vaccine (tozinameran) with neutralisation titres (PBNA) against SARS-CoV-2 (D614G strain), Beta, Delta and Omicron BA.1 at days 14, 28, 98 and 182 post-booster dose (per protocol population)
 
-|                                                                                  | BIMERVAX N=504                                                                   | BIMERVAX N=504                                                                   | COVID-19 mRNA vaccine (tozinameran) N=247                                        | COVID-19 mRNA vaccine (tozinameran) N=247                                        | COVID-19 mRNA vaccine (tozinameran) / BIMERVAX                                   |
+|                                                                                  | BIMERVAX N=504 - GMT                                                             | BIMERVAX N=504 - 95% CI                                                          | COVID-19 mRNA vaccine (tozinameran) N=247 - GMT                                  | COVID-19 mRNA vaccine (tozinameran) N=247 - 95% CI                               | COVID-19 mRNA vaccine (tozinameran) / BIMERVAX - GMT Ratio; (95% CI)             |
 |----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|                                                                                  | GMT                                                                              | 95% CI                                                                           | GMT                                                                              | 95% CI                                                                           | GMT Ratio; (95% CI)                                                              |
 | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              |
 | D614G strain                                                                     | 1 949.44                                                                         | 1 696.03, 2 240.72                                                               | 3 302.34                                                                         | 2 793.60, 3 903.73                                                               | 1.69 (1.44, 2.00)                                                                |
 | Beta                                                                             | 4 268.18                                                                         | 3 701.04, 4 922.21                                                               | 2 608.59                                                                         | 2 188.98, 3 108.63                                                               | 0.61 (0.51, 0.73)                                                                |
@@ -300,24 +299,23 @@ Immunogenicity of BIMERVAX as an additional booster dose was based on an assessm
 
 Table 3: Neutralising antibody levels (PBNA) and GMT ratio after an additional booster dose with BIMERVAX, administered either after a primary series with mRNA COVID-19 vaccine and a booster dose of BIMERVAX (cohort 1) or after a primary series with mRNA COVID-19 vaccine and a booster dose of mRNA COVID-19 vaccine (cohort 2), against Beta, Delta, Omicron BA.1 and Omicron BA.4/5 at days 14, 98 and 182 post-booster dose (per protocol population)
 
-|                      | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX   |
-|----------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-|                      | Post-dose 3 GMT (95% CI) N=38                        | Post-dose 4 GMT (95% CI) N=80                        | GMT Ratio (95%CI)                                    | Post-dose 3 GMT (95% CI) N=38                       | Post-dose 4 GMT (95% CI) N=110                      | GMT Ratio (95%CI)                                   |
-| Day 14 post-booster  | Day 14 post-booster                                  | Day 14 post-booster                                  | Day 14 post-booster                                  | Day 14 post-booster                                 | Day 14 post-booster                                 | Day 14 post-booster                                 |
-| Beta                 | 2 547.34 (1 741.36, 3 726.35)                        | 5 790.20 (4 371.05, 7 670.09)                        | 0.44 (0.28, 0.68)                                    | 2 783.85 (1 975.09, 3 923.79)                       | 6 383.89 (5 057.19, 8 058.64)                       | 0.44 (0.31, 0.62)                                   |
-| Delta                | 1 565.21 (1 041.33, 2 352.66)                        | 5 199.90 (3 752.82, 7 204.97)                        | 0.30 (0.20, 0.46)                                    | 1 637.19 (1 130.5, 2 370.9)                         | 4 085.85 (3 057.24, 5 460.52)                       | 0.40 (0.28, 0.57)                                   |
-| Omicron BA.1         | 1 528.68 (970.94, 2 406.80)                          | 3 580.61 (2 492.90, 5 142.92)                        | 0.43 (0.27, 0.69)                                    | 1 739.02 (1 121.56, 2 696.41)                       | 4 049.01 (2 795.38, 5 864.84)                       | 0.43 (0.28, 0.65)                                   |
-| Omicron BA.4/5       | 1 094.55 (720.53, 1 662.72)                          | 2 945.40 (2 216.80, 3 913.50)                        | 0.37 (0.22, 0.62)                                    | 1 295.76 (845.10, 1 986.75)                         | 2 506.46 (1 849.64, 3 396.52)                       | 0.52 (0.34, 0.78)                                   |
-| Day 98 post-booster  | Day 98 post-booster                                  | Day 98 post-booster                                  | Day 98 post-booster                                  | Day 98 post-booster                                 | Day 98 post-booster                                 | Day 98 post-booster                                 |
-| Beta                 | 1 544.65 (773.99, 3 082.64)                          | 4 609.95 (3 474.24, 6 116.91)                        | 0.34 (0.16, 0.69)                                    | 1 601.47 (849.42, 3 019.37)                         | 3 743.39 (2 951.87, 4 747.14)                       | 0.43 (0.23, 0.81)                                   |
-| Delta                | 1 330.09 (672.40, 2 631.08)                          | 1 864.55 (1 343.99, 2 586.73)                        | 0.71 (0.36, 1.43)                                    | 1 102.65 (569.19, 2 136.06)                         | 1 746.82 (1 305.89, 2 336.63)                       | 0.63 (0.33, 1.22)                                   |
-| Omicron BA.1         | 461.12 (214.68, 990.45)                              | 2 110.41 (1 467.27, 3 035.45)                        | 0.22 (0.10, 0.48)                                    | 520.63 (242.27, 1 118.79)                           | 1 980.84 (1 371.69, 2 860.50)                       | 0.26 (0.12, 0.56)                                   |
-| Omicron BA.4/5       | ND                                                   | 1 886.95 (1 418.08, 2 510.85)                        | ND                                                   | ND                                                  | 1 574.26 (1 156.85, 2 142.28)                       | ND                                                  |
-| Day 182 post-booster | Day 182 post-booster                                 | Day 182 post-booster                                 | Day 182 post-booster                                 | Day 182 post-booster                                | Day 182 post-booster                                | Day 182 post-booster                                |
-| Beta                 | 809.61 (555.69, 1 179.56)                            | 2 415.77 (1 814.55, 3 216.20)                        | 0.34 (0.22, 0.52)                                    | 890.39 (633.9, 1 250.6)                             | 2 088.80 (1 643.29, 2 655.08)                       | 0.43 (0.30, 0.60)                                   |
-| Delta                | 732.92 (489.25, 1 097.95)                            | 1 309.33 (941.50, 1 820.86)                          | 0.56 (0.37, 0.85)                                    | 771.85 (534.93, 1 113.71)                           | 1 337.38 (999.37, 1 789.72)                         | 0.58 (0.40, 0.83)                                   |
-| Omicron BA.1         | 357.34 (227.83, 560.47)                              | 1 756.94 (1 218.19, 2 533.97)                        | 0.20 (0.13, 0.33)                                    | 404.87 (262.13, 625.33)                             | 1 900.74 (1 315.82, 2 745.67)                       | 0.21 (0.14, 0.32)                                   |
-| Omicron BA.4/5       | ND                                                   | 1 836.26 (1 373.92, 2 454.19)                        | ND                                                   | ND                                                  | 1 604.42 (1 179.06, 2 183.22)                       | ND                                                  |
+|                      | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX - Post-dose 3 GMT (95% CI) N=38   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX - Post-dose 4 GMT (95% CI) N=80   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX - GMT Ratio (95%CI)   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX - Post-dose 3 GMT (95% CI) N=38   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX - Post-dose 4 GMT (95% CI) N=110   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX - GMT Ratio (95%CI)   |
+|----------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Day 14 post-booster  | Day 14 post-booster                                                                  | Day 14 post-booster                                                                  | Day 14 post-booster                                                      | Day 14 post-booster                                                                 | Day 14 post-booster                                                                  | Day 14 post-booster                                                     |
+| Beta                 | 2 547.34 (1 741.36, 3 726.35)                                                        | 5 790.20 (4 371.05, 7 670.09)                                                        | 0.44 (0.28, 0.68)                                                        | 2 783.85 (1 975.09, 3 923.79)                                                       | 6 383.89 (5 057.19, 8 058.64)                                                        | 0.44 (0.31, 0.62)                                                       |
+| Delta                | 1 565.21 (1 041.33, 2 352.66)                                                        | 5 199.90 (3 752.82, 7 204.97)                                                        | 0.30 (0.20, 0.46)                                                        | 1 637.19 (1 130.5, 2 370.9)                                                         | 4 085.85 (3 057.24, 5 460.52)                                                        | 0.40 (0.28, 0.57)                                                       |
+| Omicron BA.1         | 1 528.68 (970.94, 2 406.80)                                                          | 3 580.61 (2 492.90, 5 142.92)                                                        | 0.43 (0.27, 0.69)                                                        | 1 739.02 (1 121.56, 2 696.41)                                                       | 4 049.01 (2 795.38, 5 864.84)                                                        | 0.43 (0.28, 0.65)                                                       |
+| Omicron BA.4/5       | 1 094.55 (720.53, 1 662.72)                                                          | 2 945.40 (2 216.80, 3 913.50)                                                        | 0.37 (0.22, 0.62)                                                        | 1 295.76 (845.10, 1 986.75)                                                         | 2 506.46 (1 849.64, 3 396.52)                                                        | 0.52 (0.34, 0.78)                                                       |
+| Day 98 post-booster  | Day 98 post-booster                                                                  | Day 98 post-booster                                                                  | Day 98 post-booster                                                      | Day 98 post-booster                                                                 | Day 98 post-booster                                                                  | Day 98 post-booster                                                     |
+| Beta                 | 1 544.65 (773.99, 3 082.64)                                                          | 4 609.95 (3 474.24, 6 116.91)                                                        | 0.34 (0.16, 0.69)                                                        | 1 601.47 (849.42, 3 019.37)                                                         | 3 743.39 (2 951.87, 4 747.14)                                                        | 0.43 (0.23, 0.81)                                                       |
+| Delta                | 1 330.09 (672.40, 2 631.08)                                                          | 1 864.55 (1 343.99, 2 586.73)                                                        | 0.71 (0.36, 1.43)                                                        | 1 102.65 (569.19, 2 136.06)                                                         | 1 746.82 (1 305.89, 2 336.63)                                                        | 0.63 (0.33, 1.22)                                                       |
+| Omicron BA.1         | 461.12 (214.68, 990.45)                                                              | 2 110.41 (1 467.27, 3 035.45)                                                        | 0.22 (0.10, 0.48)                                                        | 520.63 (242.27, 1 118.79)                                                           | 1 980.84 (1 371.69, 2 860.50)                                                        | 0.26 (0.12, 0.56)                                                       |
+| Omicron BA.4/5       | ND                                                                                   | 1 886.95 (1 418.08, 2 510.85)                                                        | ND                                                                       | ND                                                                                  | 1 574.26 (1 156.85, 2 142.28)                                                        | ND                                                                      |
+| Day 182 post-booster | Day 182 post-booster                                                                 | Day 182 post-booster                                                                 | Day 182 post-booster                                                     | Day 182 post-booster                                                                | Day 182 post-booster                                                                 | Day 182 post-booster                                                    |
+| Beta                 | 809.61 (555.69, 1 179.56)                                                            | 2 415.77 (1 814.55, 3 216.20)                                                        | 0.34 (0.22, 0.52)                                                        | 890.39 (633.9, 1 250.6)                                                             | 2 088.80 (1 643.29, 2 655.08)                                                        | 0.43 (0.30, 0.60)                                                       |
+| Delta                | 732.92 (489.25, 1 097.95)                                                            | 1 309.33 (941.50, 1 820.86)                                                          | 0.56 (0.37, 0.85)                                                        | 771.85 (534.93, 1 113.71)                                                           | 1 337.38 (999.37, 1 789.72)                                                          | 0.58 (0.40, 0.83)                                                       |
+| Omicron BA.1         | 357.34 (227.83, 560.47)                                                              | 1 756.94 (1 218.19, 2 533.97)                                                        | 0.20 (0.13, 0.33)                                                        | 404.87 (262.13, 625.33)                                                             | 1 900.74 (1 315.82, 2 745.67)                                                        | 0.21 (0.14, 0.32)                                                       |
+| Omicron BA.4/5       | ND                                                                                   | 1 836.26 (1 373.92, 2 454.19)                                                        | ND                                                                       | ND                                                                                  | 1 604.42 (1 179.06, 2 183.22)                                                        | ND                                                                      |
 
 N: Number of participants with available data for the relevant endpoint
 
@@ -337,19 +335,18 @@ Immunogenicity was measured by Pseudovirion-based neutralisation assay (PBNA) ag
 
 Table 4: Neutralising antibody Geometric Mean Titres (GMT) at 14 days post-booster with BIMERVAX in individuals 16 years of age and older-per protocol analysis
 
-|                     | mRNA primed (tozinameran) 16-17 years old N=11   | mRNA primed (tozinameran) 16-17 years old N=11   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40   | mRNA primed (elasomeran) ≥ 18 years old N=171   | mRNA primed (elasomeran) ≥ 18 years old N=171   |
-|---------------------|--------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-|                     | GMT                                              | 95% CI                                           | GMT                                                            | 95% CI                                                         | GMT                                             | 95% CI                                          |
-| Pre-booster         | Pre-booster                                      | Pre-booster                                      | Pre-booster                                                    | Pre-booster                                                    | Pre-booster                                     | Pre-booster                                     |
-| D614G strain        | 720.10                                           | 356.96; 1 452.64                                 | 288.58                                                         | 194.56; 428.02                                                 | 657.49                                          | 499.52; 865.43                                  |
-| Beta                | 471.68                                           | 208.39; 1 067.60                                 | 539.49                                                         | 345.97; 841.26                                                 | 497.77                                          | 376.98; 657.26                                  |
-| Delta               | 803.84                                           | 376.27; 1 717.26                                 | 283.75                                                         | 182.43; 441.35                                                 | 914.68                                          | 657.97; 1 271.55                                |
-| Omicron BA.1        | 257.99                                           | 99.98; 665.71                                    | 159.34                                                         | 94.02; 270.05                                                  | 221.62                                          | 155.51; 315.84                                  |
-| Day 14 post-booster | Day 14 post-booster                              | Day 14 post-booster                              | Day 14 post-booster                                            | Day 14 post-booster                                            | Day 14 post-booster                             | Day 14 post-booster                             |
-| D614G strain        | 4 753.65                                         | 2 356.45; 9 589.48                               | 2 298.81                                                       | 1 549.89; 3 409.63                                             | 4437.27                                         | 3 371.158; 5 840.55                             |
-| Beta                | 8 820.74                                         | 3 897.14; 19 964.72                              | 5 009.47                                                       | 3 212.53; 7 811.54                                             | 6857.95                                         | 5 193.76; 9 055.38                              |
-| Delta               | 7 564.79                                         | 3 541.05; 16 160.76                              | 2 600.31                                                       | 1 671.78; 4 044.56                                             | 5811.47                                         | 4 180.44; 8 078.87                              |
-| Omicron BA.1        | 5 757.43                                         | 2 231.25; 14 856.19                              | 1 847.41                                                       | 1 090.05; 3 131.00                                             | 4379.81                                         | 3 073.24; 6 241.85                              |
+|                     | mRNA primed (tozinameran) 16-17 years old N=11 - GMT   | mRNA primed (tozinameran) 16-17 years old N=11 - 95% CI   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40 - GMT   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40 - 95% CI   | mRNA primed (elasomeran) ≥ 18 years old N=171 - GMT   | mRNA primed (elasomeran) ≥ 18 years old N=171 - 95% CI   |
+|---------------------|--------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|
+| Pre-booster         | Pre-booster                                            | Pre-booster                                               | Pre-booster                                                          | Pre-booster                                                             | Pre-booster                                           | Pre-booster                                              |
+| D614G strain        | 720.10                                                 | 356.96; 1 452.64                                          | 288.58                                                               | 194.56; 428.02                                                          | 657.49                                                | 499.52; 865.43                                           |
+| Beta                | 471.68                                                 | 208.39; 1 067.60                                          | 539.49                                                               | 345.97; 841.26                                                          | 497.77                                                | 376.98; 657.26                                           |
+| Delta               | 803.84                                                 | 376.27; 1 717.26                                          | 283.75                                                               | 182.43; 441.35                                                          | 914.68                                                | 657.97; 1 271.55                                         |
+| Omicron BA.1        | 257.99                                                 | 99.98; 665.71                                             | 159.34                                                               | 94.02; 270.05                                                           | 221.62                                                | 155.51; 315.84                                           |
+| Day 14 post-booster | Day 14 post-booster                                    | Day 14 post-booster                                       | Day 14 post-booster                                                  | Day 14 post-booster                                                     | Day 14 post-booster                                   | Day 14 post-booster                                      |
+| D614G strain        | 4 753.65                                               | 2 356.45; 9 589.48                                        | 2 298.81                                                             | 1 549.89; 3 409.63                                                      | 4437.27                                               | 3 371.158; 5 840.55                                      |
+| Beta                | 8 820.74                                               | 3 897.14; 19 964.72                                       | 5 009.47                                                             | 3 212.53; 7 811.54                                                      | 6857.95                                               | 5 193.76; 9 055.38                                       |
+| Delta               | 7 564.79                                               | 3 541.05; 16 160.76                                       | 2 600.31                                                             | 1 671.78; 4 044.56                                                      | 5811.47                                               | 4 180.44; 8 078.87                                       |
+| Omicron BA.1        | 5 757.43                                               | 2 231.25; 14 856.19                                       | 1 847.41                                                             | 1 090.05; 3 131.00                                                      | 4379.81                                               | 3 073.24; 6 241.85                                       |
 
 Abbreviations: GMT = Geometric Mean Titre; CI: Confidence intervals
 
@@ -369,16 +366,16 @@ Data on neutralising antibody tires against Omicron BA.1 at Baseline (prior to t
 
 Table 5: Neutralising antibody titres against Omicron BA.1 at day 14 post-booster with BIMERVAX in adolescents aged 12 to 17 years (immunogenicity population)
 
-|          | Statistics                             | Adolescents (12-15 years old) N = 61   | Adolescents (16-17 years old) N = 27   | Total (12-17 years old) N= 88   |
-|----------|----------------------------------------|----------------------------------------|----------------------------------------|---------------------------------|
-| Baseline | Geometric mean                         | 1 240.77                               | 1 457.30                               | 1 303.54                        |
-| Baseline | 95 % CI                                | 894.78; 1 720.55                       | 984.9; 2 156.3                         | 1 016.05; 1 672.39              |
-|          | Geometric mean                         | 22 970.81                              | 26 792.00                              | 24 081.34                       |
-|          | 95 % CI                                | 18 033.27; 29 260.25                   | 20 150.31; 35 622.86                   | 19 741.36; 29 375.43            |
-|          | GMFR                                   | 18.51                                  | 18.38                                  | 18.47                           |
-|          | 95 % CI                                | 13.28; 25.81                           | 13.15; 25.71                           | 14.41; 23.69                    |
-|          | ≥ 4 - fold change from baseline, n (%) | 54 (88.5)                              | 27 (100)                               | 81 (92)                         |
-|          | 95 % CI                                | 77.8; 95.3                             | 87.2; 100                              | 84.3; 96.7                      |
+|          | Statistics                            | Adolescents (12-15 years old) N = 61   | Adolescents (16-17 years old) N = 27   | Total (12-17 years old) N= 88   |
+|----------|---------------------------------------|----------------------------------------|----------------------------------------|---------------------------------|
+| Baseline | Geometric mean                        | 1 240.77                               | 1 457.30                               | 1 303.54                        |
+| Baseline | 95 % CI                               | 894.78; 1 720.55                       | 984.9; 2 156.3                         | 1 016.05; 1 672.39              |
+|          | Geometric mean                        | 22 970.81                              | 26 792.00                              | 24 081.34                       |
+|          | 95 % CI                               | 18 033.27; 29 260.25                   | 20 150.31; 35 622.86                   | 19 741.36; 29 375.43            |
+|          | GMFR                                  | 18.51                                  | 18.38                                  | 18.47                           |
+|          | Day 14 95 % CI                        | 13.28; 25.81                           | 13.15; 25.71                           | 14.41; 23.69                    |
+|          | ≥ 4- fold change from baseline, n (%) | 54 (88.5)                              | 27 (100)                               | 81 (92)                         |
+|          | 95 % CI                               | 77.8; 95.3                             | 87.2; 100                              | 84.3; 96.7                      |
 
 N: Number of participants with available data for the relevant endpoint
 
@@ -390,7 +387,7 @@ The immunogenicity of BIMERVAX has been shown in the elderly population (≥ 65 
 
 ## Immunocompromised population
 
-The immunogenicity and safety of a booster dose of BIMERVAX were evaluated in a phase 2b/3, open label, single arm, multi-centre clinical trial (HIPRA-HH-4) in adults with pre-existing immunosuppressive conditions, including people living with human immunodeficiency virus (HIV) infection with persistent CD4 Tcell counts &lt; 400/mm 3 within last 6 months, kidney transplant on maintenance immunosuppressive therapy, haemodialysis/peritoneal dialysis, primary antibody deficiencies on IgG replacement therapy and auto-immune disease on treatment with rituximab/ocrelizumab. The booster dose of BIMERVAX was administered at least 91 days after 3 previous doses of COVID-19 vaccine or after 2 doses plus a documented history of COVID-19. Participants with history of COVID-19 disease were allowed to be included if diagnosed at least 91 days before enrolment.
+The immunogenicity and safety of a booster dose of BIMERVAX were evaluated in a phase 2b/3, open label, single arm, multi-centre clinical trial (HIPRA-HH-4) in adults with pre-existing immunosuppressive conditions, including people living with human immunodeficiency virus (HIV) infection with persistent CD4 T-cell counts &lt; 400/mm 3 within last 6 months, kidney transplant on maintenance immunosuppressive therapy, haemodialysis/peritoneal dialysis, primary antibody deficiencies on IgG replacement therapy and auto-immune disease on treatment with rituximab/ocrelizumab. The booster dose of BIMERVAX was administered at least 91 days after 3 previous doses of COVID-19 vaccine or after 2 doses plus a documented history of COVID-19. Participants with history of COVID-19 disease were allowed to be included if diagnosed at least 91 days before enrolment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -436,7 +433,7 @@ Unopened multidose vial
 
 21 months at 2 ºC - 8 ºC.
 
-## Punctured multidose vial
+Punctured multidose vial
 
 Chemical and physical in-use stability has been demonstrated for 6 hours at 2 ºC - 8 ºC from the time of first needle puncture.
 
@@ -448,7 +445,9 @@ Single dose vial
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C). Do not freeze.
+Store in a refrigerator (2 °C - 8 °C).
+
+Do not freeze.
 
 Keep the vials in the outer carton in order to protect from light.
 
@@ -464,7 +463,7 @@ Each multidose vial contains: 10 doses of 0.5 mL
 
 Pack size: 10 multidose vials.
 
-## Single dose vial
+Single dose vial
 
 0.5 mL of emulsion in a single dose vial (type I glass) closed with a type I elastomeric stopper and an aluminium seal fitted with a plastic flip-off cap.
 
@@ -499,7 +498,7 @@ The vaccine should be handled by a healthcare professional using aseptic techniq
 
 - An overfill is included in each vial to ensure that a maximum of 10 doses (multidose vial) or 1 dose (single dose vial) of 0.5 mL each can be extracted. Discard any remaining vaccine in single dose vial or in the multidose vial after 10 doses have been extracted.
 - Each 0.5 mL dose is withdrawn into a sterile needle and sterile syringe to be administered by intramuscular injection, preferably in the deltoid muscle of the upper arm.
-- Once the vaccine is loaded in the syringe, it is stable up to at least 6 hours either under refrigerated conditions or at room temperature ( &lt; 25 ºC).
+- Once the vaccine is loaded in the syringe, it is stable up to at least 6 hours either under refrigerated conditions or at room temperature (&lt; 25 ºC).
 - Do not mix the vaccine in the same syringe with any other vaccines or medicinal products.
 - Do not pool excess vaccine from multiple vials.
 
@@ -521,7 +520,9 @@ Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona) SPAIN
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1709/001 EU/1/22/1709/002 EU/1/22/1709/003 EU/1/22/1709/004
+EU/1/22/1709/001 EU/1/22/1709/002 EU/1/22/1709/003
+
+EU/1/22/1709/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -619,7 +620,7 @@ No further dose of the vaccine should be given to those who have experienced ana
 
 ## Anxiety-related reactions
 
-Anxietyrelated reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions may occur in association with vaccination as a psychogenic response to the needle injection. It is important that precautions are in place to avoid injury from fainting.
+Anxiety-related reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions may occur in association with vaccination as a psychogenic response to the needle injection. It is important that precautions are in place to avoid injury from fainting.
 
 ## Concurrent illness
 
@@ -691,7 +692,7 @@ BIMERVAX XBB.1.16 has no or negligible influence on the ability to drive and use
 
 ## Summary of the safety profile
 
-## BIMERVAX (original, heterodimer B.1.351 and B.1.1.7 strains )
+## BIMERVAX (original, heterodimer B.1.351 and B.1.1.7 strains)
 
 ## Individuals 18 years of age and older
 
@@ -761,7 +762,7 @@ Pharmacotherapeutic group: Vaccines, Covid-19 vaccines, ATC code: J07BN04
 
 ## Mechanism of action
 
-BIMERVAX is a recombinant protein vaccine whose active substance (antigen) is SARS-CoV-2 virus recombinant spike (S) protein receptor binding domain (RBD) fusion dimer. Following administration, an immune response is generated, both at a humoral and cellular level, against the SARS-CoV-2 RBD antigen. Neutralising antibodies against the RBD domain of SARS-CoV-2 prevent RBD binding to its cellular  target  ACE2,  thus  blocking  membrane  fusion  and  viral  infection.  Moreover,  BIMERVAX induces antigen-specific T-cell immune response, which may contribute to protection to COVID-19.
+BIMERVAX is a recombinant protein vaccine whose active substance (antigen) is SARS-CoV-2 virus recombinant spike (S) protein receptor binding domain (RBD) fusion dimer. Following administration, an immune response is generated, both at a humoral and cellular level, against the SARS-CoV-2 RBD antigen. Neutralising antibodies against the RBD domain of SARS-CoV-2 prevent RBD binding to its cellular target ACE2, thus blocking membrane fusion and viral infection. Moreover, BIMERVAX induces antigen-specific T-cell immune response, which may contribute to protection to COVID-19.
 
 ## Efficacy
 
@@ -781,23 +782,22 @@ At the cut-off date of the Interim Analysis, a total of 800 individuals had been
 
 Immunogenicity of a booster dose of damlecovatein was based on an assessment of geometric mean titres (GMT) of neutralising antibodies, measured by a pseudovirion-based neutralisation assay (PBNA), against SARS-CoV-2 Omicron XBB.1.16 (primary endpoint of efficacy) and Omicron XBB.1.5, and binding antibodies at Baseline and at Day 14. GMT ratio is the result of the GMT values (ID50) of COVID-19 mRNA vaccine (raxtozinameran) / damlecovatein. Non-inferiority of damlecovatein to COVID-19 mRNA vaccine (raxtozinameran) is concluded if the upper limit of the 2sided 95% Confidence Interval of the GMT ratio is &lt; 1.5. Superiority of damlecovatein to COVID-19 mRNA vaccine (raxtozinameran) is concluded if the upper limit of the 2-sided 95% Confidence Interval of the GMT ratio is &lt; 1.0 (see Table 2, GMT ratio column). Superiority of damlecovatein was met for all the variants tested.
 
-Table 2: Post-booster GMT ratio for BIMERVAX XBB.1.16 (damlecovatein) versus COVID-19 mRNA  vaccine  (raxtozinameran)  with  neutralisation  titres  (PBNA)  against  SARS-CoV-2 Omicron XBB.1.16 and XBB.1.5 at Baseline and at Day 14 post-booster dose
+Table 2: Post-booster GMT ratio for BIMERVAX XBB.1.16 (damlecovatein) versus COVID-19 mRNA vaccine (raxtozinameran) with neutralisation titres (PBNA) against SARS-CoV-2 Omicron XBB.1.16 and XBB.1.5 at Baseline and at Day 14 post-booster dose
 
-|                     | BIMERVAX XBB.1.16 (damlecovatein) N=406   | BIMERVAX XBB.1.16 (damlecovatein) N=406   | COVID-19 mRNA vaccine (raxtozinameran) N=193   | COVID-19 mRNA vaccine (raxtozinameran) N=193   | COVID-19 mRNA vaccine (raxtozinameran) / BIMERVAX XBB.1.16   |
-|---------------------|-------------------------------------------|-------------------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------------------------------------|
-|                     | GMT                                       | 95% CI                                    | GMT                                            | 95% CI                                         | GMT Ratio; (95% CI)                                          |
-| Baseline            |                                           |                                           |                                                |                                                |                                                              |
-| Omicron XBB.1.16    | 152.46                                    | 134.72 - 172.54                           | 161.57                                         | 136.40 - 191.37                                | 1.06 (0.87 - 1.29)                                           |
-| Omicron XBB.1.5     | 151.93                                    | 134.89 - 171.13                           | 167.89                                         | 142.04 - 198.44                                | 1.11 (0.90 - 1.35)                                           |
-| Day 14 post-booster |                                           |                                           |                                                |                                                |                                                              |
-| Omicron XBB.1.16    | 1 946.38                                  | 1 708.44 - 2 217.46                       | 1 512.21                                       | 1 261.72 - 1 812.44                            | 0.78 (0.63 - 0.96)                                           |
-| Omicron XBB.1.5     | 1 888.89                                  | 1 676.98 - 2 127.57                       | 1 486.03                                       | 1 257.25 - 1 756.45                            | 0.79 (0.64 - 0.96)                                           |
+|                     | BIMERVAX XBB.1.16 (damlecovatein) N=406 - GMT   | BIMERVAX XBB.1.16 (damlecovatein) N=406 - 95% CI   | COVID-19 mRNA vaccine (raxtozinameran) N=193 - GMT   | COVID-19 mRNA vaccine (raxtozinameran) N=193 - 95% CI   | COVID-19 mRNA vaccine (raxtozinameran) / BIMERVAX XBB.1.16 - GMT Ratio; (95% CI)   |
+|---------------------|-------------------------------------------------|----------------------------------------------------|------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------|
+| Baseline            |                                                 |                                                    |                                                      |                                                         |                                                                                    |
+| Omicron XBB.1.16    | 152.46                                          | 134.72 - 172.54                                    | 161.57                                               | 136.40 - 191.37                                         | 1.06 (0.87 - 1.29)                                                                 |
+| Omicron XBB.1.5     | 151.93                                          | 134.89 - 171.13                                    | 167.89                                               | 142.04 - 198.44                                         | 1.11 (0.90 - 1.35)                                                                 |
+| Day 14 post-booster |                                                 |                                                    |                                                      |                                                         |                                                                                    |
+| Omicron XBB.1.16    | 1 946.38                                        | 1 708.44 - 2 217.46                                | 1 512.21                                             | 1 261.72 - 1 812.44                                     | 0.78 (0.63 - 0.96)                                                                 |
+| Omicron XBB.1.5     | 1 888.89                                        | 1 676.98 - 2 127.57                                | 1 486.03                                             | 1 257.25 - 1 756.45                                     | 0.79 (0.64 - 0.96)                                                                 |
 
 N: number of participants in the mITT population
 
 Abbreviations: GMT = Geometric Mean Titre; CI: Confidence intervals; PBNA = pseudovirion-based neutralisation assay
 
-## BIMERVAX (original,  heterodimer B.1.351 and B.1.1.7 strains)
+## BIMERVAX (original, heterodimer B.1.351 and B.1.1.7 strains)
 
 ## Individuals 16 years of age and older
 
@@ -815,11 +815,10 @@ A total of 765 subjects were vaccinated; 513 subjects received BIMERVAX, and 252
 
 Immunogenicity of a booster dose of BIMERVAX was based on an assessment of geometric mean titres (GMT) of neutralising antibodies, measured by a pseudovirion-based neutralisation assay (PBNA) against SARS-CoV-2 (D614G) strain, Beta, Delta and Omicron BA.1 variants. GMT ratio is the result of the GMT values (ID50) of COVID-19 mRNA vaccine (tozinameran)/BIMERVAX. Noninferiority of BIMERVAX to COVID-19 mRNA vaccine (tozinameran) is concluded if the upper limit of the 2 sided 95% Confidence Interval (CI) of the GMT ratio is &lt; 1.4. Superiority of BIMERVAX to COVID-19 mRNA vaccine (tozinameran) is concluded if the upper limit of the 2-sided 95% Confidence Interval of the GMT ratio is &lt; 1.0 (see Table 3, GMT ratio column).
 
-Table 3: Post-booster GMT  ratio for BIMERVAX  versus  COVID-19  mRNA  vaccine (tozinameran) with neutralisation titres (PBNA) against SARS-CoV-2 (D614G strain), Beta, Delta and Omicron BA.1 at days 14, 28, 98 and 182 post-booster dose (per protocol population)
+Table 3: Post-booster GMT ratio for BIMERVAX versus COVID-19 mRNA vaccine (tozinameran) with neutralisation titres (PBNA) against SARS-CoV-2 (D614G strain), Beta, Delta and Omicron BA.1 at days 14, 28, 98 and 182 post-booster dose (per protocol population)
 
-|                                                                                  | BIMERVAX N=504                                                                   | BIMERVAX N=504                                                                   | COVID-19 mRNA vaccine (tozinameran) N=247                                        | COVID-19 mRNA vaccine (tozinameran) N=247                                        | COVID-19 mRNA vaccine (tozinameran) / BIMERVAX                                   |
+|                                                                                  | BIMERVAX N=504 - GMT                                                             | BIMERVAX N=504 - 95% CI                                                          | COVID-19 mRNA vaccine (tozinameran) N=247 - GMT                                  | COVID-19 mRNA vaccine (tozinameran) N=247 - 95% CI                               | COVID-19 mRNA vaccine (tozinameran) / BIMERVAX - GMT Ratio; (95% CI)             |
 |----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|                                                                                  | GMT                                                                              | 95% CI                                                                           | GMT                                                                              | 95% CI                                                                           | GMT Ratio; (95% CI)                                                              |
 | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              |
 | D614G strain                                                                     | 1 949.44                                                                         | 1 696.03, 2 240.72                                                               | 3 302.34                                                                         | 2 793.60, 3 903.73                                                               | 1.69 (1.44, 2.00)                                                                |
 | Beta                                                                             | 4 268.18                                                                         | 3 701.04, 4 922.21                                                               | 2 608.59                                                                         | 2 188.98, 3 108.63                                                               | 0.61 (0.51, 0.73)                                                                |
@@ -853,21 +852,20 @@ Immunogenicity of BIMERVAX as an additional booster dose was based on an assessm
 
 Table 4: Neutralising antibody levels (PBNA) and GMT ratio after an additional booster dose with BIMERVAX, administered either after a primary series with mRNA COVID-19 vaccine and a booster dose of BIMERVAX (cohort 1) or after a primary series with mRNA COVID-19 vaccine and a booster dose of mRNA COVID-19 vaccine (cohort 2), against Beta, Delta, Omicron BA.1 and Omicron BA.4/5 at days 14, 98 and 182 post-booster dose (per protocol population)
 
-|                      | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX   |
-|----------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-|                      | Post-dose 3 GMT (95% CI) N=38                        | Post-dose 4 GMT (95% CI) N=80                        | GMT Ratio (95%CI)                                    | Post-dose 3 GMT (95% CI) N=38                       | Post-dose 4 GMT (95% CI) N=110                      | GMT Ratio (95%CI)                                   |
-| Day 14 post-booster  | Day 14 post-booster                                  | Day 14 post-booster                                  | Day 14 post-booster                                  | Day 14 post-booster                                 | Day 14 post-booster                                 | Day 14 post-booster                                 |
-| Beta                 | 2 547.34 (1 741.36, 3 726.35)                        | 5 790.20 (4 371.05, 7 670.09)                        | 0.44 (0.28, 0.68)                                    | 2 783.85 (1 975.09, 3 923.79)                       | 6 383.89 (5 057.19, 8 058.64)                       | 0.44 (0.31, 0.62)                                   |
-| Delta                | 1 565.21 (1 041.33, 2 352.66)                        | 5 199.90 (3 752.82, 7 204.97)                        | 0.30 (0.20, 0.46)                                    | 1 637.19 (1 130.5, 2 370.9)                         | 4 085.85 (3 057.24, 5 460.52)                       | 0.40 (0.28, 0.57)                                   |
-| Omicron BA.1         | 1 528.68 (970.94, 2 406.80)                          | 3 580.61 (2 492.90, 5 142.92)                        | 0.43 (0.27, 0.69)                                    | 1 739.02 (1 121.56, 2 696.41)                       | 4 049.01 (2 795.38, 5 864.84)                       | 0.43 (0.28, 0.65)                                   |
-| Omicron BA.4/5       | 1 094.55 (720.53, 1 662.72)                          | 2 945.40 (2 216.80, 3 913.50)                        | 0.37 (0.22, 0.62)                                    | 1 295.76 (845.10, 1 986.75)                         | 2 506.46 (1 849.64, 3 396.52)                       | 0.52 (0.34, 0.78)                                   |
-| Day 98 post-booster  | Day 98 post-booster                                  | Day 98 post-booster                                  | Day 98 post-booster                                  | Day 98 post-booster                                 | Day 98 post-booster                                 | Day 98 post-booster                                 |
-| Beta                 | 1 544.65 (773.99, 3 082.64)                          | 4 609.95 (3 474.24, 6 116.91)                        | 0.34 (0.16, 0.69)                                    | 1 601.47 (849.42, 3 019.37)                         | 3 743.39 (2 951.87, 4 747.14)                       | 0.43 (0.23, 0.81)                                   |
-| Delta                | 1 330.09 (672.40, 2 631.08)                          | 1 864.55 (1 343.99, 2 586.73)                        | 0.71 (0.36, 1.43)                                    | 1 102.65 (569.19, 2 136.06)                         | 1 746.82 (1 305.89, 2 336.63)                       | 0.63 (0.33, 1.22)                                   |
-| Omicron BA.1         | 461.12 (214.68, 990.45)                              | 2 110.41 (1 467.27, 3 035.45)                        | 0.22 (0.10, 0.48)                                    | 520.63 (242.27, 1 118.79)                           | 1 980.84 (1 371.69, 2 860.50)                       | 0.26 (0.12, 0.56)                                   |
-| Omicron BA.4/5       | ND                                                   | 1 886.95 (1 418.08, 2 510.85)                        | ND                                                   | ND                                                  | 1 574.26 (1 156.85, 2 142.28)                       | ND                                                  |
-| Day 182 post-booster | Day 182 post-booster                                 | Day 182 post-booster                                 | Day 182 post-booster                                 | Day 182 post-booster                                | Day 182 post-booster                                | Day 182 post-booster                                |
-| Beta                 | 809.61 (555.69, 1 179.56)                            | 2 415.77 (1 814.55, 3 216.20)                        | 0.34 (0.22, 0.52)                                    | 890.39 (633.9, 1 250.6)                             | 2 088.80 (1 643.29, 2 655.08)                       | 0.43 (0.30, 0.60)                                   |
+|                      | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX - Post-dose 3 GMT (95% CI) N=38   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX - Post-dose 4 GMT (95% CI) N=80   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX - GMT Ratio (95%CI)   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX - Post-dose 3 GMT (95% CI) N=38   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX - Post-dose 4 GMT (95% CI) N=110   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX - GMT Ratio (95%CI)   |
+|----------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Day 14 post-booster  | Day 14 post-booster                                                                  | Day 14 post-booster                                                                  | Day 14 post-booster                                                      | Day 14 post-booster                                                                 | Day 14 post-booster                                                                  | Day 14 post-booster                                                     |
+| Beta                 | 2 547.34 (1 741.36, 3 726.35)                                                        | 5 790.20 (4 371.05, 7 670.09)                                                        | 0.44 (0.28, 0.68)                                                        | 2 783.85 (1 975.09, 3 923.79)                                                       | 6 383.89 (5 057.19, 8 058.64)                                                        | 0.44 (0.31, 0.62)                                                       |
+| Delta                | 1 565.21 (1 041.33, 2 352.66)                                                        | 5 199.90 (3 752.82, 7 204.97)                                                        | 0.30 (0.20, 0.46)                                                        | 1 637.19 (1 130.5, 2 370.9)                                                         | 4 085.85 (3 057.24, 5 460.52)                                                        | 0.40 (0.28, 0.57)                                                       |
+| Omicron BA.1         | 1 528.68 (970.94, 2 406.80)                                                          | 3 580.61 (2 492.90, 5 142.92)                                                        | 0.43 (0.27, 0.69)                                                        | 1 739.02 (1 121.56, 2 696.41)                                                       | 4 049.01 (2 795.38, 5 864.84)                                                        | 0.43 (0.28, 0.65)                                                       |
+| Omicron BA.4/5       | 1 094.55 (720.53, 1 662.72)                                                          | 2 945.40 (2 216.80, 3 913.50)                                                        | 0.37 (0.22, 0.62)                                                        | 1 295.76 (845.10, 1 986.75)                                                         | 2 506.46 (1 849.64, 3 396.52)                                                        | 0.52 (0.34, 0.78)                                                       |
+| Day 98 post-booster  | Day 98 post-booster                                                                  | Day 98 post-booster                                                                  | Day 98 post-booster                                                      | Day 98 post-booster                                                                 | Day 98 post-booster                                                                  | Day 98 post-booster                                                     |
+| Beta                 | 1 544.65 (773.99, 3 082.64)                                                          | 4 609.95 (3 474.24, 6 116.91)                                                        | 0.34 (0.16, 0.69)                                                        | 1 601.47 (849.42, 3 019.37)                                                         | 3 743.39 (2 951.87, 4 747.14)                                                        | 0.43 (0.23, 0.81)                                                       |
+| Delta                | 1 330.09 (672.40, 2 631.08)                                                          | 1 864.55 (1 343.99, 2 586.73)                                                        | 0.71 (0.36, 1.43)                                                        | 1 102.65 (569.19, 2 136.06)                                                         | 1 746.82 (1 305.89, 2 336.63)                                                        | 0.63 (0.33, 1.22)                                                       |
+| Omicron BA.1         | 461.12 (214.68, 990.45)                                                              | 2 110.41 (1 467.27, 3 035.45)                                                        | 0.22 (0.10, 0.48)                                                        | 520.63 (242.27, 1 118.79)                                                           | 1 980.84 (1 371.69, 2 860.50)                                                        | 0.26 (0.12, 0.56)                                                       |
+| Omicron BA.4/5       | ND                                                                                   | 1 886.95 (1 418.08, 2 510.85)                                                        | ND                                                                       | ND                                                                                  | 1 574.26 (1 156.85, 2 142.28)                                                        | ND                                                                      |
+| Day 182 post-booster | Day 182 post-booster                                                                 | Day 182 post-booster                                                                 | Day 182 post-booster                                                     | Day 182 post-booster                                                                | Day 182 post-booster                                                                 | Day 182 post-booster                                                    |
+| Beta                 | 809.61 (555.69, 1 179.56)                                                            | 2 415.77 (1 814.55, 3 216.20)                                                        | 0.34 (0.22, 0.52)                                                        | 890.39 (633.9, 1 250.6)                                                             | 2 088.80 (1 643.29, 2 655.08)                                                        | 0.43 (0.30, 0.60)                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -875,8 +873,6 @@ Table 4: Neutralising antibody levels (PBNA) and GMT ratio after an additional b
 |----------------|-----------------------------|-------------------------------|---------------------|-----------------------------|-------------------------------|---------------------|
 | Omicron BA.1   | 357.34 (227.83, 560.47)     | 1 756.94 (1 218.19, 2 533.97) | 0.20 (0.13, 0.33)   | 404.87 (262.13, 625.33)     | 1 900.74 (1 315.82, 2 745.67) | 0.21 (0.14, 0.32)   |
 | Omicron BA.4/5 | ND                          | 1 836.26 (1 373.92, 2 454.19) | ND                  | ND                          | 1 604.42 (1 179.06, 2 183.22) | ND                  |
-
-N: Number of participants with available data for the relevant endpoint
 
 Abbreviations: GMT = Geometric Mean Titre; CI: Confidence intervals; ND: not determined
 
@@ -892,16 +888,15 @@ Immunogenicity was measured by Pseudovirion-based neutralisation assay (PBNA) ag
 
 Table 5: Neutralising antibody Geometric Mean Titres (GMT) at 14 days post-booster with BIMERVAX in individuals 16 years of age and older-per protocol analysis
 
-|                     | mRNA primed (tozinameran) 16-17 years old N=11   | mRNA primed (tozinameran) 16-17 years old N=11   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40   | mRNA primed (elasomeran) ≥ 18 years old N=171   | mRNA primed (elasomeran) ≥ 18 years old N=171   |
-|---------------------|--------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-|                     | GMT                                              | 95% CI                                           | GMT                                                            | 95% CI                                                         | GMT                                             | 95% CI                                          |
-| Pre-booster         | Pre-booster                                      | Pre-booster                                      | Pre-booster                                                    | Pre-booster                                                    | Pre-booster                                     | Pre-booster                                     |
-| D614G strain        | 720.10                                           | 356.96; 1 452.64                                 | 288.58                                                         | 194.56; 428.02                                                 | 657.49                                          | 499.52; 865.43                                  |
-| Beta                | 471.68                                           | 208.39; 1 067.60                                 | 539.49                                                         | 345.97; 841.26                                                 | 497.77                                          | 376.98; 657.26                                  |
-| Delta               | 803.84                                           | 376.27; 1 717.26                                 | 283.75                                                         | 182.43; 441.35                                                 | 914.68                                          | 657.97; 1 271.55                                |
-| Omicron BA.1        | 257.99                                           | 99.98; 665.71                                    | 159.34                                                         | 94.02; 270.05                                                  | 221.62                                          | 155.51; 315.84                                  |
-| Day 14 post-booster | Day 14 post-booster                              | Day 14 post-booster                              | Day 14 post-booster                                            | Day 14 post-booster                                            | Day 14 post-booster                             | Day 14 post-booster                             |
-| D614G strain        | 4 753.65                                         | 2 356.45; 9 589.48                               | 2 298.81                                                       | 1 549.89; 3 409.63                                             | 4437.27                                         | 3 371.158; 5 840.55                             |
+|                     | mRNA primed (tozinameran) 16-17 years old N=11 - GMT   | mRNA primed (tozinameran) 16-17 years old N=11 - 95% CI   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40 - GMT   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40 - 95% CI   | mRNA primed (elasomeran) ≥ 18 years old N=171 - GMT   | mRNA primed (elasomeran) ≥ 18 years old N=171 - 95% CI   |
+|---------------------|--------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|
+| Pre-booster         | Pre-booster                                            | Pre-booster                                               | Pre-booster                                                          | Pre-booster                                                             | Pre-booster                                           | Pre-booster                                              |
+| D614G strain        | 720.10                                                 | 356.96; 1 452.64                                          | 288.58                                                               | 194.56; 428.02                                                          | 657.49                                                | 499.52; 865.43                                           |
+| Beta                | 471.68                                                 | 208.39; 1 067.60                                          | 539.49                                                               | 345.97; 841.26                                                          | 497.77                                                | 376.98; 657.26                                           |
+| Delta               | 803.84                                                 | 376.27; 1 717.26                                          | 283.75                                                               | 182.43; 441.35                                                          | 914.68                                                | 657.97; 1 271.55                                         |
+| Omicron BA.1        | 257.99                                                 | 99.98; 665.71                                             | 159.34                                                               | 94.02; 270.05                                                           | 221.62                                                | 155.51; 315.84                                           |
+| Day 14 post-booster | Day 14 post-booster                                    | Day 14 post-booster                                       | Day 14 post-booster                                                  | Day 14 post-booster                                                     | Day 14 post-booster                                   | Day 14 post-booster                                      |
+| D614G strain        | 4 753.65                                               | 2 356.45; 9 589.48                                        | 2 298.81                                                             | 1 549.89; 3 409.63                                                      | 4437.27                                               | 3 371.158; 5 840.55                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -928,16 +923,16 @@ Data on neutralising antibody titres against Omicron BA.1 at Baseline (prior to 
 
 Table 6: Neutralising antibody titres against Omicron BA.1 at day 14 post-booster with BIMERVAX in adolescents aged 12 to 17 years (immunogenicity population)
 
-|          | Statistics                             | Adolescents (12-15 years old) N = 61   | Adolescents (16-17 years old) N = 27   | Total (12-17 years old) N= 88   |
-|----------|----------------------------------------|----------------------------------------|----------------------------------------|---------------------------------|
-| Baseline | Geometric mean                         | 1 240.77                               | 1 457.30                               | 1 303.54                        |
-| Baseline | 95 % CI                                | 894.78; 1 720.55                       | 984.9; 2 156.3                         | 1 016.05; 1 672.39              |
-|          | Geometric mean                         | 22 970.81                              | 26 792.00                              | 24 081.34                       |
-|          | 95 % CI                                | 18 033.27; 29 260.25                   | 20 150.31; 35 622.86                   | 19 741.36; 29 375.43            |
-|          | GMFR                                   | 18.51                                  | 18.38                                  | 18.47                           |
-|          | 95 % CI                                | 13.28; 25.81                           | 13.15; 25.71                           | 14.41; 23.69                    |
-|          | ≥ 4 - fold change from baseline, n (%) | 54 (88.5)                              | 27 (100)                               | 81 (92)                         |
-|          | 95 % CI                                | 77.8; 95.3                             | 87.2; 100                              | 84.3; 96.7                      |
+|          | Statistics                            | Adolescents (12-15 years old) N = 61   | Adolescents (16-17 years old) N = 27   | Total (12-17 years old) N= 88   |
+|----------|---------------------------------------|----------------------------------------|----------------------------------------|---------------------------------|
+| Baseline | Geometric mean                        | 1 240.77                               | 1 457.30                               | 1 303.54                        |
+| Baseline | 95 % CI                               | 894.78; 1 720.55                       | 984.9; 2 156.3                         | 1 016.05; 1 672.39              |
+|          | Geometric mean                        | 22 970.81                              | 26 792.00                              | 24 081.34                       |
+|          | 95 % CI                               | 18 033.27; 29 260.25                   | 20 150.31; 35 622.86                   | 19 741.36; 29 375.43            |
+|          | GMFR                                  | 18.51                                  | 18.38                                  | 18.47                           |
+|          | Day 14 95 % CI                        | 13.28; 25.81                           | 13.15; 25.71                           | 14.41; 23.69                    |
+|          | ≥ 4- fold change from baseline, n (%) | 54 (88.5)                              | 27 (100)                               | 81 (92)                         |
+|          | 95 % CI                               | 77.8; 95.3                             | 87.2; 100                              | 84.3; 96.7                      |
 
 N: Number of participants with available data for the relevant endpoint
 
@@ -951,7 +946,7 @@ The immunogenicity of BIMERVAX XBB.1.16 has been shown in the elderly population
 
 ## Immunocompromised population
 
-The immunogenicity and safety of a booster dose of BIMERVAX were evaluated in a phase 2b/3, open label, single arm, multi-centre clinical trial (HIPRA-HH-4) in adults with pre-existing immunosuppressive conditions, including people living with human immunodeficiency virus (HIV) infection with persistent CD4 Tcell counts &lt; 400/mm 3 within last 6 months, kidney transplant on maintenance immunosuppressive therapy, haemodialysis/peritoneal dialysis, primary antibody deficiencies on IgG replacement therapy and auto-immune disease on treatment with rituximab/ocrelizumab. The booster dose of BIMERVAX was administered at least 91 days after 3 previous doses of COVID-19 vaccine or after 2 doses plus a documented history of COVID-19. Participants with history of COVID-19 disease were allowed to be included if diagnosed at least 91 days before enrolment.
+The immunogenicity and safety of a booster dose of BIMERVAX were evaluated in a phase 2b/3, open label, single arm, multi-centre clinical trial (HIPRA-HH-4) in adults with pre-existing immunosuppressive conditions, including people living with human immunodeficiency virus (HIV) infection with persistent CD4 T-cell counts &lt; 400/mm 3 within last 6 months, kidney transplant on maintenance immunosuppressive therapy, haemodialysis/peritoneal dialysis, primary antibody deficiencies on IgG replacement therapy and auto-immune disease on treatment with rituximab/ocrelizumab. The booster dose of BIMERVAX was administered at least 91 days after 3 previous doses of COVID-19 vaccine or after 2 doses plus a documented history of COVID-19. Participants with history of COVID-19 disease were allowed to be included if diagnosed at least 91 days before enrolment.
 
 A total of 238 individuals were vaccinated with a booster dose of BIMERVAX and a total of 228 participants were analysed excluding those who tested positive for COVID-19 within 14 days of the booster. The median age was 56 years old (range: 21 to 90 years of age).
 
@@ -999,7 +994,7 @@ This medicinal product must not be mixed with other medicinal products or dilute
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C). Do not freeze.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
 Keep the vials in the outer carton in order to protect from light.
 
@@ -1068,7 +1063,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-BIMERVAX LP.8.1 emulsion for injection BIMERVAX LP.8.1 emulsion for injection in pre-filled syringe COVID-19 Vaccine (recombinant, adjuvanted)
+BIMERVAX LP.8.1 emulsion for injection BIMERVAX LP.8.1 emulsion for injection in pre-filled syringe
+
+COVID-19 Vaccine (recombinant, adjuvanted)
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -1096,7 +1093,7 @@ The use of this vaccine should be in accordance with official recommendations.
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 Individuals 12 years of age and older
 
@@ -1150,7 +1147,7 @@ No further dose of the vaccine should be given to those who have experienced ana
 
 ## Anxiety-related reactions
 
-Anxietyrelated reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions may occur in association with vaccination as a psychogenic response to the needle injection. It is important that precautions are in place to avoid injury from fainting.
+Anxiety-related reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions may occur in association with vaccination as a psychogenic response to the needle injection. It is important that precautions are in place to avoid injury from fainting.
 
 ## Concurrent illness
 
@@ -1222,7 +1219,7 @@ BIMERVAX LP.8.1 has no or negligible influence on the ability to drive and use m
 
 ## Summary of the safety profile
 
-## BIMERVAX (original, heterodimer B.1.351 and B.1.1.7 strains )
+## BIMERVAX (original, heterodimer B.1.351 and B.1.1.7 strains)
 
 ## Individuals 18 years of age and older
 
@@ -1294,7 +1291,7 @@ Pharmacotherapeutic group: Vaccines, Covid-19 vaccines, ATC code: J07BN04
 
 ## Mechanism of action
 
-BIMERVAX is a recombinant protein vaccine whose active substance (antigen) is SARS-CoV-2 virus recombinant spike (S) protein receptor binding domain (RBD) fusion dimer. Following administration, an immune response is generated, both at a humoral and cellular level, against the SARS-CoV-2 RBD antigen. Neutralising antibodies against the RBD domain of SARS-CoV-2 prevent RBD binding to its cellular  target  ACE2,  thus  blocking  membrane  fusion  and  viral  infection.  Moreover,  BIMERVAX induces antigen-specific T-cell immune response, which may contribute to protection to COVID-19.
+BIMERVAX is a recombinant protein vaccine whose active substance (antigen) is SARS-CoV-2 virus recombinant spike (S) protein receptor binding domain (RBD) fusion dimer. Following administration, an immune response is generated, both at a humoral and cellular level, against the SARS-CoV-2 RBD antigen. Neutralising antibodies against the RBD domain of SARS-CoV-2 prevent RBD binding to its cellular target ACE2, thus blocking membrane fusion and viral infection. Moreover, BIMERVAX induces antigen-specific T-cell immune response, which may contribute to protection to COVID-19.
 
 ## Efficacy
 
@@ -1316,23 +1313,22 @@ Participants were stratified before randomisation by age group and by number of 
 
 Immunogenicity of a booster dose of damlecovatein was based on an assessment of geometric mean titres (GMT) of neutralising antibodies, measured by a pseudovirion-based neutralisation assay (PBNA), against SARS-CoV-2 Omicron XBB.1.16 (primary endpoint of efficacy) and Omicron XBB.1.5, and binding antibodies at Baseline and at Day 14. GMT ratio is the result of the GMT values (ID50) of COVID-19 mRNA vaccine (raxtozinameran) / damlecovatein. Non-inferiority of damlecovatein to COVID-19 mRNA vaccine (raxtozinameran) is concluded if the upper limit of the 2sided 95% Confidence Interval of the GMT ratio is &lt; 1.5. Superiority of damlecovatein to COVID-19 mRNA vaccine (raxtozinameran) is concluded if the upper limit of the 2-sided 95% Confidence Interval of the GMT ratio is &lt; 1.0 (see Table 2, GMT ratio column). Superiority of damlecovatein was met for all the variants tested.
 
-Table 2: Post-booster GMT ratio for BIMERVAX XBB.1.16 (damlecovatein) versus COVID-19 mRNA  vaccine  (raxtozinameran)  with  neutralisation  titres  (PBNA)  against  SARS-CoV-2 Omicron XBB.1.16 and XBB.1.5 at Baseline and at Day 14 post-booster dose
+Table 2: Post-booster GMT ratio for BIMERVAX XBB.1.16 (damlecovatein) versus COVID-19 mRNA vaccine (raxtozinameran) with neutralisation titres (PBNA) against SARS-CoV-2 Omicron XBB.1.16 and XBB.1.5 at Baseline and at Day 14 post-booster dose
 
-|                     | BIMERVAX XBB.1.16 (damlecovatein) N=406   | BIMERVAX XBB.1.16 (damlecovatein) N=406   | COVID-19 mRNA vaccine (raxtozinameran) N=193   | COVID-19 mRNA vaccine (raxtozinameran) N=193   | COVID-19 mRNA vaccine (raxtozinameran) / BIMERVAX XBB.1.16   |
-|---------------------|-------------------------------------------|-------------------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------------------------------------|
-|                     | GMT                                       | 95% CI                                    | GMT                                            | 95% CI                                         | GMT Ratio; (95% CI)                                          |
-| Baseline            |                                           |                                           |                                                |                                                |                                                              |
-| Omicron XBB.1.16    | 152.46                                    | 134.72 - 172.54                           | 161.57                                         | 136.40 - 191.37                                | 1.06 (0.87 - 1.29)                                           |
-| Omicron XBB.1.5     | 151.93                                    | 134.89 - 171.13                           | 167.89                                         | 142.04 - 198.44                                | 1.11 (0.90 - 1.35)                                           |
-| Day 14 post-booster |                                           |                                           |                                                |                                                |                                                              |
-| Omicron XBB.1.16    | 1 946.38                                  | 1 708.44 - 2 217.46                       | 1 512.21                                       | 1 261.72 - 1 812.44                            | 0.78 (0.63 - 0.96)                                           |
-| Omicron XBB.1.5     | 1 888.89                                  | 1 676.98 - 2 127.57                       | 1 486.03                                       | 1 257.25 - 1 756.45                            | 0.79 (0.64 - 0.96)                                           |
+|                     | BIMERVAX XBB.1.16 (damlecovatein) N=406 - GMT   | BIMERVAX XBB.1.16 (damlecovatein) N=406 - 95% CI   | COVID-19 mRNA vaccine (raxtozinameran) N=193 - GMT   | COVID-19 mRNA vaccine (raxtozinameran) N=193 - 95% CI   | COVID-19 mRNA vaccine (raxtozinameran) / BIMERVAX XBB.1.16 - GMT Ratio; (95% CI)   |
+|---------------------|-------------------------------------------------|----------------------------------------------------|------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------|
+| Baseline            |                                                 |                                                    |                                                      |                                                         |                                                                                    |
+| Omicron XBB.1.16    | 152.46                                          | 134.72 - 172.54                                    | 161.57                                               | 136.40 - 191.37                                         | 1.06 (0.87 - 1.29)                                                                 |
+| Omicron XBB.1.5     | 151.93                                          | 134.89 - 171.13                                    | 167.89                                               | 142.04 - 198.44                                         | 1.11 (0.90 - 1.35)                                                                 |
+| Day 14 post-booster |                                                 |                                                    |                                                      |                                                         |                                                                                    |
+| Omicron XBB.1.16    | 1 946.38                                        | 1 708.44 - 2 217.46                                | 1 512.21                                             | 1 261.72 - 1 812.44                                     | 0.78 (0.63 - 0.96)                                                                 |
+| Omicron XBB.1.5     | 1 888.89                                        | 1 676.98 - 2 127.57                                | 1 486.03                                             | 1 257.25 - 1 756.45                                     | 0.79 (0.64 - 0.96)                                                                 |
 
 N: number of participants in the mITT population
 
 Abbreviations: GMT = Geometric Mean Titre; CI: Confidence intervals; PBNA = pseudovirion-based neutralisation assay
 
-## BIMERVAX (original,  heterodimer B.1.351 and B.1.1.7 strains)
+## BIMERVAX (original, heterodimer B.1.351 and B.1.1.7 strains)
 
 ## Individuals 16 years of age and older
 
@@ -1348,11 +1344,10 @@ A total of 765 subjects were vaccinated; 513 subjects received BIMERVAX, and 252
 
 Immunogenicity of a booster dose of BIMERVAX was based on an assessment of geometric mean titres (GMT) of neutralising antibodies, measured by a pseudovirion-based neutralisation assay (PBNA) against SARS-CoV-2 (D614G) strain, Beta, Delta and Omicron BA.1 variants. GMT ratio is the result of the GMT values (ID50) of COVID-19 mRNA vaccine (tozinameran)/BIMERVAX. Noninferiority of BIMERVAX to COVID-19 mRNA vaccine (tozinameran) is concluded if the upper limit of the 2 sided 95% Confidence Interval (CI) of the GMT ratio is &lt; 1.4. Superiority of BIMERVAX to COVID-19 mRNA vaccine (tozinameran) is concluded if the upper limit of the 2-sided 95% Confidence Interval of the GMT ratio is &lt; 1.0 (see Table 3, GMT ratio column).
 
-Table 3: Post-booster GMT  ratio for BIMERVAX  versus  COVID-19  mRNA  vaccine (tozinameran) with neutralisation titres (PBNA) against SARS-CoV-2 (D614G strain), Beta, Delta and Omicron BA.1 at days 14, 28, 98 and 182 post-booster dose (per protocol population)
+Table 3: Post-booster GMT ratio for BIMERVAX versus COVID-19 mRNA vaccine (tozinameran) with neutralisation titres (PBNA) against SARS-CoV-2 (D614G strain), Beta, Delta and Omicron BA.1 at days 14, 28, 98 and 182 post-booster dose (per protocol population)
 
-|                                                                                  | BIMERVAX N=504                                                                   | BIMERVAX N=504                                                                   | COVID-19 mRNA vaccine (tozinameran) N=247                                        | COVID-19 mRNA vaccine (tozinameran) N=247                                        | COVID-19 mRNA vaccine (tozinameran) / BIMERVAX                                   |
+|                                                                                  | BIMERVAX N=504 - GMT                                                             | BIMERVAX N=504 - 95% CI                                                          | COVID-19 mRNA vaccine (tozinameran) N=247 - GMT                                  | COVID-19 mRNA vaccine (tozinameran) N=247 - 95% CI                               | COVID-19 mRNA vaccine (tozinameran) / BIMERVAX - GMT Ratio; (95% CI)             |
 |----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|                                                                                  | GMT                                                                              | 95% CI                                                                           | GMT                                                                              | 95% CI                                                                           | GMT Ratio; (95% CI)                                                              |
 | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              |
 | D614G strain                                                                     | 1 949.44                                                                         | 1 696.03, 2 240.72                                                               | 3 302.34                                                                         | 2 793.60, 3 903.73                                                               | 1.69 (1.44, 2.00)                                                                |
 | Beta                                                                             | 4 268.18                                                                         | 3 701.04, 4 922.21                                                               | 2 608.59                                                                         | 2 188.98, 3 108.63                                                               | 0.61 (0.51, 0.73)                                                                |
@@ -1388,18 +1383,17 @@ Immunogenicity of BIMERVAX as an additional booster dose was based on an assessm
 
 Table 4: Neutralising antibody levels (PBNA) and GMT ratio after an additional booster dose with BIMERVAX, administered either after a primary series with mRNA COVID-19 vaccine and a booster dose of BIMERVAX (cohort 1) or after a primary series with mRNA COVID-19 vaccine and a booster dose of mRNA COVID-19 vaccine (cohort 2), against Beta, Delta, Omicron BA.1 and Omicron BA.4/5 at days 14, 98 and 182 post-booster dose (per protocol population)
 
-|                     | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX   |
-|---------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-|                     | Post-dose 3 GMT (95% CI) N=38                        | Post-dose 4 GMT (95% CI) N=80                        | GMT Ratio (95%CI)                                    | Post-dose 3 GMT (95% CI) N=38                       | Post-dose 4 GMT (95% CI) N=110                      | GMT Ratio (95%CI)                                   |
-| Day 14 post-booster | Day 14 post-booster                                  | Day 14 post-booster                                  | Day 14 post-booster                                  | Day 14 post-booster                                 | Day 14 post-booster                                 | Day 14 post-booster                                 |
-| Beta                | 2 547.34 (1 741.36, 3 726.35)                        | 5 790.20 (4 371.05, 7 670.09)                        | 0.44 (0.28, 0.68)                                    | 2 783.85 (1 975.09, 3 923.79)                       | 6 383.89 (5 057.19, 8 058.64)                       | 0.44 (0.31, 0.62)                                   |
-| Delta               | 1 565.21 (1 041.33, 2 352.66)                        | 5 199.90 (3 752.82, 7 204.97)                        | 0.30 (0.20, 0.46)                                    | 1 637.19 (1 130.5, 2 370.9)                         | 4 085.85 (3 057.24, 5 460.52)                       | 0.40 (0.28, 0.57)                                   |
-| Omicron BA.1        | 1 528.68 (970.94, 2 406.80)                          | 3 580.61 (2 492.90, 5 142.92)                        | 0.43 (0.27, 0.69)                                    | 1 739.02 (1 121.56, 2 696.41)                       | 4 049.01 (2 795.38, 5 864.84)                       | 0.43 (0.28, 0.65)                                   |
-| Omicron BA.4/5      | 1 094.55 (720.53, 1 662.72)                          | 2 945.40 (2 216.80, 3 913.50)                        | 0.37 (0.22, 0.62)                                    | 1 295.76 (845.10, 1 986.75)                         | 2 506.46 (1 849.64, 3 396.52)                       | 0.52 (0.34, 0.78)                                   |
-| Day 98 post-booster | Day 98 post-booster                                  | Day 98 post-booster                                  | Day 98 post-booster                                  | Day 98 post-booster                                 | Day 98 post-booster                                 | Day 98 post-booster                                 |
-| Beta                | 1 544.65 (773.99, 3 082.64)                          | 4 609.95 (3 474.24, 6 116.91)                        | 0.34 (0.16, 0.69)                                    | 1 601.47 (849.42, 3 019.37)                         | 3 743.39 (2 951.87, 4 747.14)                       | 0.43 (0.23, 0.81)                                   |
-| Delta               | 1 330.09 (672.40, 2 631.08)                          | 1 864.55 (1 343.99, 2 586.73)                        | 0.71 (0.36, 1.43)                                    | 1 102.65 (569.19, 2 136.06)                         | 1 746.82 (1 305.89, 2 336.63)                       | 0.63 (0.33, 1.22)                                   |
-| Omicron BA.1        | 461.12 (214.68, 990.45)                              | 2 110.41 (1 467.27, 3 035.45)                        | 0.22 (0.10, 0.48)                                    | 520.63 (242.27, 1 118.79)                           | 1 980.84 (1 371.69, 2 860.50)                       | 0.26 (0.12, 0.56)                                   |
+|                     | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX - Post-dose 3 GMT (95% CI) N=38   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX - Post-dose 4 GMT (95% CI) N=80   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX - GMT Ratio (95%CI)   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX - Post-dose 3 GMT (95% CI) N=38   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX - Post-dose 4 GMT (95% CI) N=110   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX - GMT Ratio (95%CI)   |
+|---------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Day 14 post-booster | Day 14 post-booster                                                                  | Day 14 post-booster                                                                  | Day 14 post-booster                                                      | Day 14 post-booster                                                                 | Day 14 post-booster                                                                  | Day 14 post-booster                                                     |
+| Beta                | 2 547.34 (1 741.36, 3 726.35)                                                        | 5 790.20 (4 371.05, 7 670.09)                                                        | 0.44 (0.28, 0.68)                                                        | 2 783.85 (1 975.09, 3 923.79)                                                       | 6 383.89 (5 057.19, 8 058.64)                                                        | 0.44 (0.31, 0.62)                                                       |
+| Delta               | 1 565.21 (1 041.33, 2 352.66)                                                        | 5 199.90 (3 752.82, 7 204.97)                                                        | 0.30 (0.20, 0.46)                                                        | 1 637.19 (1 130.5, 2 370.9)                                                         | 4 085.85 (3 057.24, 5 460.52)                                                        | 0.40 (0.28, 0.57)                                                       |
+| Omicron BA.1        | 1 528.68 (970.94, 2 406.80)                                                          | 3 580.61 (2 492.90, 5 142.92)                                                        | 0.43 (0.27, 0.69)                                                        | 1 739.02 (1 121.56, 2 696.41)                                                       | 4 049.01 (2 795.38, 5 864.84)                                                        | 0.43 (0.28, 0.65)                                                       |
+| Omicron BA.4/5      | 1 094.55 (720.53, 1 662.72)                                                          | 2 945.40 (2 216.80, 3 913.50)                                                        | 0.37 (0.22, 0.62)                                                        | 1 295.76 (845.10, 1 986.75)                                                         | 2 506.46 (1 849.64, 3 396.52)                                                        | 0.52 (0.34, 0.78)                                                       |
+| Day 98 post-booster | Day 98 post-booster                                                                  | Day 98 post-booster                                                                  | Day 98 post-booster                                                      | Day 98 post-booster                                                                 | Day 98 post-booster                                                                  | Day 98 post-booster                                                     |
+| Beta                | 1 544.65 (773.99, 3 082.64)                                                          | 4 609.95 (3 474.24, 6 116.91)                                                        | 0.34 (0.16, 0.69)                                                        | 1 601.47 (849.42, 3 019.37)                                                         | 3 743.39 (2 951.87, 4 747.14)                                                        | 0.43 (0.23, 0.81)                                                       |
+| Delta               | 1 330.09 (672.40, 2 631.08)                                                          | 1 864.55 (1 343.99, 2 586.73)                                                        | 0.71 (0.36, 1.43)                                                        | 1 102.65 (569.19, 2 136.06)                                                         | 1 746.82 (1 305.89, 2 336.63)                                                        | 0.63 (0.33, 1.22)                                                       |
+| Omicron BA.1        | 461.12 (214.68, 990.45)                                                              | 2 110.41 (1 467.27, 3 035.45)                                                        | 0.22 (0.10, 0.48)                                                        | 520.63 (242.27, 1 118.79)                                                           | 1 980.84 (1 371.69, 2 860.50)                                                        | 0.26 (0.12, 0.56)                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1410,8 +1404,6 @@ Table 4: Neutralising antibody levels (PBNA) and GMT ratio after an additional b
 | Delta                | 732.92 (489.25, 1 097.95) | 1 309.33 (941.50, 1 820.86)     | 0.56 (0.37, 0.85)    | 771.85 (534.93, 1 113.71) | 1 337.38 (999.37, 1 789.72)     | 0.58 (0.40, 0.83)    |
 | Omicron BA.1         | 357.34 (227.83, 560.47)   | 1 756.94 (1 218.19, 2 533.97)   | 0.20 (0.13, 0.33)    | 404.87 (262.13, 625.33)   | 1 900.74 (1 315.82, 2 745.67)   | 0.21 (0.14, 0.32)    |
 | Omicron BA.4/5       | ND                        | 1 836.26 (1 373.92, 2 454.19)   | ND                   | ND                        | 1 604.42 (1 179.06, 2 183.22)   | ND                   |
-
-N: Number of participants with available data for the relevant endpoint
 
 Abbreviations: GMT = Geometric Mean Titre; CI: Confidence intervals; ND: not determined
 
@@ -1427,13 +1419,12 @@ Immunogenicity was measured by Pseudovirion-based neutralisation assay (PBNA) ag
 
 Table 5: Neutralising antibody Geometric Mean Titres (GMT) at 14 days post-booster with BIMERVAX in individuals 16 years of age and older-per protocol analysis
 
-|              | mRNA primed (tozinameran) 16-17 years old N=11   | mRNA primed (tozinameran) 16-17 years old N=11   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40   | mRNA primed (elasomeran) ≥ 18 years old N=171   | mRNA primed (elasomeran) ≥ 18 years old N=171   |
-|--------------|--------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-|              | GMT                                              | 95% CI                                           | GMT                                                            | 95% CI                                                         | GMT                                             | 95% CI                                          |
-| Pre-booster  |                                                  |                                                  |                                                                |                                                                |                                                 |                                                 |
-| D614G strain | 720.10                                           | 356.96; 1 452.64                                 | 288.58                                                         | 194.56; 428.02                                                 | 657.49                                          | 499.52; 865.43                                  |
-| Beta         | 471.68                                           | 208.39; 1 067.60                                 | 539.49                                                         | 345.97; 841.26                                                 | 497.77                                          | 376.98; 657.26                                  |
-| Delta        | 803.84                                           | 376.27; 1 717.26                                 | 283.75                                                         | 182.43; 441.35                                                 | 914.68                                          | 657.97; 1 271.55                                |
+|              |   mRNA primed (tozinameran) 16-17 years old N=11 - GMT | mRNA primed (tozinameran) 16-17 years old N=11 - 95% CI   |   Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40 - GMT | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40 - 95% CI   |   mRNA primed (elasomeran) ≥ 18 years old N=171 - GMT | mRNA primed (elasomeran) ≥ 18 years old N=171 - 95% CI   |
+|--------------|--------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|
+| Pre-booster  |                                                        |                                                           |                                                                      |                                                                         |                                                       |                                                          |
+| D614G strain |                                                 720.10 | 356.96; 1 452.64                                          |                                                               288.58 | 194.56; 428.02                                                          |                                                657.49 | 499.52; 865.43                                           |
+| Beta         |                                                 471.68 | 208.39; 1 067.60                                          |                                                               539.49 | 345.97; 841.26                                                          |                                                497.77 | 376.98; 657.26                                           |
+| Delta        |                                                 803.84 | 376.27; 1 717.26                                          |                                                               283.75 | 182.43; 441.35                                                          |                                                914.68 | 657.97; 1 271.55                                         |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1444,8 +1435,6 @@ Table 5: Neutralising antibody Geometric Mean Titres (GMT) at 14 days post-boost
 | Beta                | 8 820.74            | 3 897.14; 19 964.72 | 5 009.47            | 3 212.53; 7 811.54  | 6857.95             | 5 193.76; 9 055.38  |
 | Delta               | 7 564.79            | 3 541.05; 16 160.76 | 2 600.31            | 1 671.78; 4 044.56  | 5811.47             | 4 180.44; 8 078.87  |
 | Omicron BA.1        | 5 757.43            | 2 231.25; 14 856.19 | 1 847.41            | 1 090.05; 3 131.00  | 4379.81             | 3 073.24; 6 241.85  |
-
-N: Number of participants with available data for the relevant endpoint
 
 Abbreviations: GMT = Geometric Mean Titre; CI: Confidence intervals
 
@@ -1463,20 +1452,22 @@ Data on neutralising antibody titres against Omicron BA.1 at Baseline (prior to 
 
 Table 6: Neutralising antibody titres against Omicron BA.1 at day 14 post-booster with BIMERVAX in adolescents aged 12 to 17 years (immunogenicity population)
 
-|          | Statistics                             | Adolescents (12-15 years old) N = 61   | Adolescents (16-17 years old) N = 27   | Total (12-17 years old) N= 88   |
-|----------|----------------------------------------|----------------------------------------|----------------------------------------|---------------------------------|
-| Baseline | Geometric mean                         | 1 240.77                               | 1 457.30                               | 1 303.54                        |
-| Baseline | 95 % CI                                | 894.78; 1 720.55                       | 984.9; 2 156.3                         | 1 016.05; 1 672.39              |
-|          | Geometric mean                         | 22 970.81                              | 26 792.00                              | 24 081.34                       |
-|          | 95 % CI                                | 18 033.27; 29 260.25                   | 20 150.31; 35 622.86                   | 19 741.36; 29 375.43            |
-|          | GMFR                                   | 18.51                                  | 18.38                                  | 18.47                           |
-|          | 95 % CI                                | 13.28; 25.81                           | 13.15; 25.71                           | 14.41; 23.69                    |
-|          | ≥ 4 - fold change from baseline, n (%) | 54 (88.5)                              | 27 (100)                               | 81 (92)                         |
-|          | 95 % CI                                | 77.8; 95.3                             | 87.2; 100                              | 84.3; 96.7                      |
+|          | Statistics                            | Adolescents (12-15 years old) N = 61   | Adolescents (16-17 years old) N = 27   | Total (12-17 years old) N= 88   |
+|----------|---------------------------------------|----------------------------------------|----------------------------------------|---------------------------------|
+| Baseline | Geometric mean                        | 1 240.77                               | 1 457.30                               | 1 303.54                        |
+| Baseline | 95 % CI                               | 894.78; 1 720.55                       | 984.9; 2 156.3                         | 1 016.05; 1 672.39              |
+|          | Geometric mean                        | 22 970.81                              | 26 792.00                              | 24 081.34                       |
+|          | 95 % CI                               | 18 033.27; 29 260.25                   | 20 150.31; 35 622.86                   | 19 741.36; 29 375.43            |
+|          | GMFR                                  | 18.51                                  | 18.38                                  | 18.47                           |
+|          | Day 14 95 % CI                        | 13.28; 25.81                           | 13.15; 25.71                           | 14.41; 23.69                    |
+|          | ≥ 4- fold change from baseline, n (%) | 54 (88.5)                              | 27 (100)                               | 81 (92)                         |
+|          | 95 % CI                               | 77.8; 95.3                             | 87.2; 100                              | 84.3; 96.7                      |
 
 <div style=\"page-break-after: always\"></div>
 
-N: Number of participants with available data for the relevant endpoint Abbreviations: GMFR= Geometric Mean Fold Rise; CI: Confidence intervals
+N: Number of participants with available data for the relevant endpoint
+
+Abbreviations: GMFR= Geometric Mean Fold Rise; CI: Confidence intervals
 
 ## Elderly population
 
@@ -1484,7 +1475,7 @@ The immunogenicity of BIMERVAX was shown in the elderly population (≥ 65 years
 
 ## Immunocompromised population
 
-The immunogenicity and safety of a booster dose of BIMERVAX were evaluated in a phase 2b/3, open label, single arm, multi-centre clinical trial (HIPRA-HH-4) in adults with pre-existing immunosuppressive conditions, including people living with human immunodeficiency virus (HIV) infection with persistent CD4 Tcell counts &lt; 400 /mm 3  within last 6 months, kidney transplant on maintenance immunosuppressive therapy, haemodialysis/peritoneal dialysis, primary antibody deficiencies on IgG replacement therapy and auto-immune disease on treatment with rituximab/ocrelizumab. The booster dose of BIMERVAX was administered at least 91 days after 3 previous doses of COVID-19 vaccine or after 2 doses plus a documented history of COVID-19. Participants with history of COVID-19 disease were allowed to be included if diagnosed at least 91 days before enrolment.
+The immunogenicity and safety of a booster dose of BIMERVAX were evaluated in a phase 2b/3, open label, single arm, multi-centre clinical trial (HIPRA-HH-4) in adults with pre-existing immunosuppressive conditions, including people living with human immunodeficiency virus (HIV) infection with persistent CD4 T-cell counts &lt; 400/mm 3 within last 6 months, kidney transplant on maintenance immunosuppressive therapy, haemodialysis/peritoneal dialysis, primary antibody deficiencies on IgG replacement therapy and auto-immune disease on treatment with rituximab/ocrelizumab. The booster dose of BIMERVAX was administered at least 91 days after 3 previous doses of COVID-19 vaccine or after 2 doses plus a documented history of COVID-19. Participants with history of COVID-19 disease were allowed to be included if diagnosed at least 91 days before enrolment.
 
 A total of 238 individuals were vaccinated with a booster dose of BIMERVAX and a total of 228 participants were analysed excluding those who tested positive for COVID-19 within 14 days of the booster. The median age was 56 years old (range: 21 to 90 years of age).
 
@@ -1526,19 +1517,19 @@ This medicinal product must not be mixed with other medicinal products or dilute
 
 ## 6.3 Shelf life
 
-1 year at 2 ºC - 8 ºC.
+15 months at 2 ºC - 8 ºC.
 
 Before use, the vaccine may be taken out of the refrigerator once for a maximum period of 24 hours at temperature not above 25ºC.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C). Do not freeze.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
 Keep the product in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
-## Single dose vial
+Single dose vial
 
 0.5 mL of emulsion in a single dose vial (type I glass) closed with a type I elastomeric stopper and an aluminium seal fitted with a plastic flip-off cap.
 
@@ -1548,7 +1539,7 @@ Pack sizes: 1, 10 or 20 single dose vials.
 
 Not all pack sizes may be marketed.
 
-## Pre-filled syringe
+Pre-filled syringe
 
 0.5 mL of emulsion in a pre-filled syringe (type I glass) with a plunger stopper (chlorobutyl rubber) and an integrated tip cap (polyisoprene rubber) without needle.
 
@@ -1558,7 +1549,7 @@ Not all pack sizes may be marketed.
 
 Pack sizes: 1 or 10 pre-filled syringes.
 
-## Not all pack sizes may be marketed.
+Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -1621,13 +1612,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona) SPAIN
+Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona)
+
+SPAIN
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1709/008 EU/1/22/1709/009 EU/1/22/1709/010 EU/1/22/1709/011
-
-EU/1/22/1709/012
+EU/1/22/1709/008 EU/1/22/1709/009 EU/1/22/1709/010 EU/1/22/1709/011 EU/1/22/1709/012
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1643,7 +1634,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-BIMERVAX XFG.1.1 emulsion for injection BIMERVAX XFG.1.1 emulsion for injection in pre-filled syringe COVID-19 Vaccine (recombinant, adjuvanted)
+BIMERVAX XFG.1.1 emulsion for injection BIMERVAX XFG.1.1 emulsion for injection in pre-filled syringe
+
+COVID-19 Vaccine (recombinant, adjuvanted)
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -1671,7 +1664,7 @@ The use of this vaccine should be in accordance with official recommendations.
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 Individuals 12 years of age and older
 
@@ -1725,7 +1718,7 @@ No further dose of the vaccine should be given to those who have experienced ana
 
 ## Anxiety-related reactions
 
-Anxietyrelated reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions may occur in association with vaccination as a psychogenic response to the needle injection. It is important that precautions are in place to avoid injury from fainting.
+Anxiety-related reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions may occur in association with vaccination as a psychogenic response to the needle injection. It is important that precautions are in place to avoid injury from fainting.
 
 ## Concurrent illness
 
@@ -1797,7 +1790,7 @@ BIMERVAX XFG.1.1 has no or negligible influence on the ability to drive and use 
 
 ## Summary of the safety profile
 
-## BIMERVAX (original, heterodimer B.1.351 and B.1.1.7 strains )
+## BIMERVAX (original, heterodimer B.1.351 and B.1.1.7 strains)
 
 ## Individuals 18 years of age and older
 
@@ -1869,7 +1862,7 @@ Pharmacotherapeutic group: Vaccines, Covid-19 vaccines, ATC code: J07BN04
 
 ## Mechanism of action
 
-BIMERVAX is a recombinant protein vaccine whose active substance (antigen) is SARS-CoV-2 virus recombinant spike (S) protein receptor binding domain (RBD) fusion dimer. Following administration, an immune response is generated, both at a humoral and cellular level, against the SARS-CoV-2 RBD antigen. Neutralising antibodies against the RBD domain of SARS-CoV-2 prevent RBD binding to its cellular  target  ACE2,  thus  blocking  membrane  fusion  and  viral  infection.  Moreover,  BIMERVAX induces antigen-specific T-cell immune response, which may contribute to protection to COVID-19.
+BIMERVAX is a recombinant protein vaccine whose active substance (antigen) is SARS-CoV-2 virus recombinant spike (S) protein receptor binding domain (RBD) fusion dimer. Following administration, an immune response is generated, both at a humoral and cellular level, against the SARS-CoV-2 RBD antigen. Neutralising antibodies against the RBD domain of SARS-CoV-2 prevent RBD binding to its cellular target ACE2, thus blocking membrane fusion and viral infection. Moreover, BIMERVAX induces antigen-specific T-cell immune response, which may contribute to protection to COVID-19.
 
 ## Efficacy
 
@@ -1891,23 +1884,20 @@ Participants were stratified before randomisation by age group and by number of 
 
 Immunogenicity of a booster dose of damlecovatein was based on an assessment of geometric mean titres (GMT) of neutralising antibodies, measured by a pseudovirion-based neutralisation assay (PBNA), against SARS-CoV-2 Omicron XBB.1.16 (primary endpoint of efficacy) and Omicron XBB.1.5, and binding antibodies at Baseline and at Day 14. GMT ratio is the result of the GMT values (ID50) of COVID-19 mRNA vaccine (raxtozinameran) / damlecovatein. Non-inferiority of damlecovatein to COVID-19 mRNA vaccine (raxtozinameran) is concluded if the upper limit of the 2sided 95% Confidence Interval of the GMT ratio is &lt; 1.5. Superiority of damlecovatein to COVID-19 mRNA vaccine (raxtozinameran) is concluded if the upper limit of the 2-sided 95% Confidence Interval of the GMT ratio is &lt; 1.0 (see Table 2, GMT ratio column). Superiority of damlecovatein was met for all the variants tested.
 
-Table 2: Post-booster GMT ratio for BIMERVAX XBB.1.16 (damlecovatein) versus COVID-19 mRNA  vaccine  (raxtozinameran)  with  neutralisation  titres  (PBNA)  against  SARS-CoV-2 Omicron XBB.1.16 and XBB.1.5 at Baseline and at Day 14 post-booster dose
+Table 2: Post-booster GMT ratio for BIMERVAX XBB.1.16 (damlecovatein) versus COVID-19 mRNA vaccine (raxtozinameran) with neutralisation titres (PBNA) against SARS-CoV-2 Omicron XBB.1.16 and XBB.1.5 at Baseline and at Day 14 post-booster dose
 
-|                     | BIMERVAX XBB.1.16 (damlecovatein) N=406   | BIMERVAX XBB.1.16 (damlecovatein) N=406   | COVID-19 mRNA vaccine (raxtozinameran) N=193   | COVID-19 mRNA vaccine (raxtozinameran) N=193   | COVID-19 mRNA vaccine (raxtozinameran) / BIMERVAX XBB.1.16   |
-|---------------------|-------------------------------------------|-------------------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------------------------------------|
-|                     | GMT                                       | 95% CI                                    | GMT                                            | 95% CI                                         | GMT Ratio; (95% CI)                                          |
-| Baseline            |                                           |                                           |                                                |                                                |                                                              |
-| Omicron XBB.1.16    | 152.46                                    | 134.72 - 172.54                           | 161.57                                         | 136.40 - 191.37                                | 1.06 (0.87 - 1.29)                                           |
-| Omicron XBB.1.5     | 151.93                                    | 134.89 - 171.13                           | 167.89                                         | 142.04 - 198.44                                | 1.11 (0.90 - 1.35)                                           |
-| Day 14 post-booster |                                           |                                           |                                                |                                                |                                                              |
-| Omicron XBB.1.16    | 1 946.38                                  | 1 708.44 - 2 217.46                       | 1 512.21                                       | 1 261.72 - 1 812.44                            | 0.78 (0.63 - 0.96)                                           |
-| Omicron XBB.1.5     | 1 888.89                                  | 1 676.98 - 2 127.57                       | 1 486.03                                       | 1 257.25 - 1 756.45                            | 0.79 (0.64 - 0.96)                                           |
-
-N: number of participants in the mITT population
+|                     | BIMERVAX XBB.1.16 (damlecovatein) N=406 - GMT   | BIMERVAX XBB.1.16 (damlecovatein) N=406 - 95% CI   | COVID-19 mRNA vaccine (raxtozinameran) N=193 - GMT   | COVID-19 mRNA vaccine (raxtozinameran) N=193 - 95% CI   | COVID-19 mRNA vaccine (raxtozinameran) / BIMERVAX XBB.1.16 - GMT Ratio; (95% CI)   |
+|---------------------|-------------------------------------------------|----------------------------------------------------|------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------|
+| Baseline            |                                                 |                                                    |                                                      |                                                         |                                                                                    |
+| Omicron XBB.1.16    | 152.46                                          | 134.72 - 172.54                                    | 161.57                                               | 136.40 - 191.37                                         | 1.06 (0.87 - 1.29)                                                                 |
+| Omicron XBB.1.5     | 151.93                                          | 134.89 - 171.13                                    | 167.89                                               | 142.04 - 198.44                                         | 1.11 (0.90 - 1.35)                                                                 |
+| Day 14 post-booster |                                                 |                                                    |                                                      |                                                         |                                                                                    |
+| Omicron XBB.1.16    | 1 946.38                                        | 1 708.44 - 2 217.46                                | 1 512.21                                             | 1 261.72 - 1 812.44                                     | 0.78 (0.63 - 0.96)                                                                 |
+| Omicron XBB.1.5     | 1 888.89                                        | 1 676.98 - 2 127.57                                | 1 486.03                                             | 1 257.25 - 1 756.45                                     | 0.79 (0.64 - 0.96)                                                                 |
 
 Abbreviations: GMT = Geometric Mean Titre; CI: Confidence intervals; PBNA = pseudovirion-based neutralisation assay
 
-## BIMERVAX (original,  heterodimer B.1.351 and B.1.1.7 strains)
+## BIMERVAX (original, heterodimer B.1.351 and B.1.1.7 strains)
 
 ## Individuals 16 years of age and older
 
@@ -1923,11 +1913,10 @@ A total of 765 subjects were vaccinated; 513 subjects received BIMERVAX, and 252
 
 Immunogenicity of a booster dose of BIMERVAX was based on an assessment of geometric mean titres (GMT) of neutralising antibodies, measured by a pseudovirion-based neutralisation assay (PBNA) against SARS-CoV-2 (D614G) strain, Beta, Delta and Omicron BA.1 variants. GMT ratio is the result of the GMT values (ID50) of COVID-19 mRNA vaccine (tozinameran)/BIMERVAX. Noninferiority of BIMERVAX to COVID-19 mRNA vaccine (tozinameran) is concluded if the upper limit of the 2 sided 95% Confidence Interval (CI) of the GMT ratio is &lt; 1.4. Superiority of BIMERVAX to COVID-19 mRNA vaccine (tozinameran) is concluded if the upper limit of the 2-sided 95% Confidence Interval of the GMT ratio is &lt; 1.0 (see Table 3, GMT ratio column).
 
-Table 3: Post-booster GMT  ratio for BIMERVAX  versus  COVID-19  mRNA  vaccine (tozinameran) with neutralisation titres (PBNA) against SARS-CoV-2 (D614G strain), Beta, Delta and Omicron BA.1 at days 14, 28, 98 and 182 post-booster dose (per protocol population)
+Table 3: Post-booster GMT ratio for BIMERVAX versus COVID-19 mRNA vaccine (tozinameran) with neutralisation titres (PBNA) against SARS-CoV-2 (D614G strain), Beta, Delta and Omicron BA.1 at days 14, 28, 98 and 182 post-booster dose (per protocol population)
 
-|                                                                                  | BIMERVAX N=504                                                                   | BIMERVAX N=504                                                                   | COVID-19 mRNA vaccine (tozinameran) N=247                                        | COVID-19 mRNA vaccine (tozinameran) N=247                                        | COVID-19 mRNA vaccine (tozinameran) / BIMERVAX                                   |
+|                                                                                  | BIMERVAX N=504 - GMT                                                             | BIMERVAX N=504 - 95% CI                                                          | COVID-19 mRNA vaccine (tozinameran) N=247 - GMT                                  | COVID-19 mRNA vaccine (tozinameran) N=247 - 95% CI                               | COVID-19 mRNA vaccine (tozinameran) / BIMERVAX - GMT Ratio; (95% CI)             |
 |----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|                                                                                  | GMT                                                                              | 95% CI                                                                           | GMT                                                                              | 95% CI                                                                           | GMT Ratio; (95% CI)                                                              |
 | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              | Day 14 post-booster                                                              |
 | D614G strain                                                                     | 1 949.44                                                                         | 1 696.03, 2 240.72                                                               | 3 302.34                                                                         | 2 793.60, 3 903.73                                                               | 1.69 (1.44, 2.00)                                                                |
 | Beta                                                                             | 4 268.18                                                                         | 3 701.04, 4 922.21                                                               | 2 608.59                                                                         | 2 188.98, 3 108.63                                                               | 0.61 (0.51, 0.73)                                                                |
@@ -1963,18 +1952,17 @@ Immunogenicity of BIMERVAX as an additional booster dose was based on an assessm
 
 Table 4: Neutralising antibody levels (PBNA) and GMT ratio after an additional booster dose with BIMERVAX, administered either after a primary series with mRNA COVID-19 vaccine and a booster dose of BIMERVAX (cohort 1) or after a primary series with mRNA COVID-19 vaccine and a booster dose of mRNA COVID-19 vaccine (cohort 2), against Beta, Delta, Omicron BA.1 and Omicron BA.4/5 at days 14, 98 and 182 post-booster dose (per protocol population)
 
-|                     | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX   |
-|---------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-|                     | Post-dose 3 GMT (95% CI) N=38                        | Post-dose 4 GMT (95% CI) N=80                        | GMT Ratio (95%CI)                                    | Post-dose 3 GMT (95% CI) N=38                       | Post-dose 4 GMT (95% CI) N=110                      | GMT Ratio (95%CI)                                   |
-| Day 14 post-booster | Day 14 post-booster                                  | Day 14 post-booster                                  | Day 14 post-booster                                  | Day 14 post-booster                                 | Day 14 post-booster                                 | Day 14 post-booster                                 |
-| Beta                | 2 547.34 (1 741.36, 3 726.35)                        | 5 790.20 (4 371.05, 7 670.09)                        | 0.44 (0.28, 0.68)                                    | 2 783.85 (1 975.09, 3 923.79)                       | 6 383.89 (5 057.19, 8 058.64)                       | 0.44 (0.31, 0.62)                                   |
-| Delta               | 1 565.21 (1 041.33, 2 352.66)                        | 5 199.90 (3 752.82, 7 204.97)                        | 0.30 (0.20, 0.46)                                    | 1 637.19 (1 130.5, 2 370.9)                         | 4 085.85 (3 057.24, 5 460.52)                       | 0.40 (0.28, 0.57)                                   |
-| Omicron BA.1        | 1 528.68 (970.94, 2 406.80)                          | 3 580.61 (2 492.90, 5 142.92)                        | 0.43 (0.27, 0.69)                                    | 1 739.02 (1 121.56, 2 696.41)                       | 4 049.01 (2 795.38, 5 864.84)                       | 0.43 (0.28, 0.65)                                   |
-| Omicron BA.4/5      | 1 094.55 (720.53, 1 662.72)                          | 2 945.40 (2 216.80, 3 913.50)                        | 0.37 (0.22, 0.62)                                    | 1 295.76 (845.10, 1 986.75)                         | 2 506.46 (1 849.64, 3 396.52)                       | 0.52 (0.34, 0.78)                                   |
-| Day 98 post-booster | Day 98 post-booster                                  | Day 98 post-booster                                  | Day 98 post-booster                                  | Day 98 post-booster                                 | Day 98 post-booster                                 | Day 98 post-booster                                 |
-| Beta                | 1 544.65 (773.99, 3 082.64)                          | 4 609.95 (3 474.24, 6 116.91)                        | 0.34 (0.16, 0.69)                                    | 1 601.47 (849.42, 3 019.37)                         | 3 743.39 (2 951.87, 4 747.14)                       | 0.43 (0.23, 0.81)                                   |
-| Delta               | 1 330.09 (672.40, 2 631.08)                          | 1 864.55 (1 343.99, 2 586.73)                        | 0.71 (0.36, 1.43)                                    | 1 102.65 (569.19, 2 136.06)                         | 1 746.82 (1 305.89, 2 336.63)                       | 0.63 (0.33, 1.22)                                   |
-| Omicron BA.1        | 461.12 (214.68, 990.45)                              | 2 110.41 (1 467.27, 3 035.45)                        | 0.22 (0.10, 0.48)                                    | 520.63 (242.27, 1 118.79)                           | 1 980.84 (1 371.69, 2 860.50)                       | 0.26 (0.12, 0.56)                                   |
+|                     | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX - Post-dose 3 GMT (95% CI) N=38   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX - Post-dose 4 GMT (95% CI) N=80   | Cohort 1 2 doses COVID-19 mRNA+2 doses of BIMERVAX - GMT Ratio (95%CI)   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX - Post-dose 3 GMT (95% CI) N=38   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX - Post-dose 4 GMT (95% CI) N=110   | Cohort 2 3 doses COVID-19 mRNA+1 dose of BIMERVAX - GMT Ratio (95%CI)   |
+|---------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Day 14 post-booster | Day 14 post-booster                                                                  | Day 14 post-booster                                                                  | Day 14 post-booster                                                      | Day 14 post-booster                                                                 | Day 14 post-booster                                                                  | Day 14 post-booster                                                     |
+| Beta                | 2 547.34 (1 741.36, 3 726.35)                                                        | 5 790.20 (4 371.05, 7 670.09)                                                        | 0.44 (0.28, 0.68)                                                        | 2 783.85 (1 975.09, 3 923.79)                                                       | 6 383.89 (5 057.19, 8 058.64)                                                        | 0.44 (0.31, 0.62)                                                       |
+| Delta               | 1 565.21 (1 041.33, 2 352.66)                                                        | 5 199.90 (3 752.82, 7 204.97)                                                        | 0.30 (0.20, 0.46)                                                        | 1 637.19 (1 130.5, 2 370.9)                                                         | 4 085.85 (3 057.24, 5 460.52)                                                        | 0.40 (0.28, 0.57)                                                       |
+| Omicron BA.1        | 1 528.68 (970.94, 2 406.80)                                                          | 3 580.61 (2 492.90, 5 142.92)                                                        | 0.43 (0.27, 0.69)                                                        | 1 739.02 (1 121.56, 2 696.41)                                                       | 4 049.01 (2 795.38, 5 864.84)                                                        | 0.43 (0.28, 0.65)                                                       |
+| Omicron BA.4/5      | 1 094.55 (720.53, 1 662.72)                                                          | 2 945.40 (2 216.80, 3 913.50)                                                        | 0.37 (0.22, 0.62)                                                        | 1 295.76 (845.10, 1 986.75)                                                         | 2 506.46 (1 849.64, 3 396.52)                                                        | 0.52 (0.34, 0.78)                                                       |
+| Day 98 post-booster | Day 98 post-booster                                                                  | Day 98 post-booster                                                                  | Day 98 post-booster                                                      | Day 98 post-booster                                                                 | Day 98 post-booster                                                                  | Day 98 post-booster                                                     |
+| Beta                | 1 544.65 (773.99, 3 082.64)                                                          | 4 609.95 (3 474.24, 6 116.91)                                                        | 0.34 (0.16, 0.69)                                                        | 1 601.47 (849.42, 3 019.37)                                                         | 3 743.39 (2 951.87, 4 747.14)                                                        | 0.43 (0.23, 0.81)                                                       |
+| Delta               | 1 330.09 (672.40, 2 631.08)                                                          | 1 864.55 (1 343.99, 2 586.73)                                                        | 0.71 (0.36, 1.43)                                                        | 1 102.65 (569.19, 2 136.06)                                                         | 1 746.82 (1 305.89, 2 336.63)                                                        | 0.63 (0.33, 1.22)                                                       |
+| Omicron BA.1        | 461.12 (214.68, 990.45)                                                              | 2 110.41 (1 467.27, 3 035.45)                                                        | 0.22 (0.10, 0.48)                                                        | 520.63 (242.27, 1 118.79)                                                           | 1 980.84 (1 371.69, 2 860.50)                                                        | 0.26 (0.12, 0.56)                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1985,8 +1973,6 @@ Table 4: Neutralising antibody levels (PBNA) and GMT ratio after an additional b
 | Delta                | 732.92 (489.25, 1 097.95) | 1 309.33 (941.50, 1 820.86)     | 0.56 (0.37, 0.85)    | 771.85 (534.93, 1 113.71) | 1 337.38 (999.37, 1 789.72)     | 0.58 (0.40, 0.83)    |
 | Omicron BA.1         | 357.34 (227.83, 560.47)   | 1 756.94 (1 218.19, 2 533.97)   | 0.20 (0.13, 0.33)    | 404.87 (262.13, 625.33)   | 1 900.74 (1 315.82, 2 745.67)   | 0.21 (0.14, 0.32)    |
 | Omicron BA.4/5       | ND                        | 1 836.26 (1 373.92, 2 454.19)   | ND                   | ND                        | 1 604.42 (1 179.06, 2 183.22)   | ND                   |
-
-N: Number of participants with available data for the relevant endpoint
 
 Abbreviations: GMT = Geometric Mean Titre; CI: Confidence intervals; ND: not determined
 
@@ -2002,13 +1988,12 @@ Immunogenicity was measured by Pseudovirion-based neutralisation assay (PBNA) ag
 
 Table 5: Neutralising antibody Geometric Mean Titres (GMT) at 14 days post-booster with BIMERVAX in individuals 16 years of age and older-per protocol analysis
 
-|              | mRNA primed (tozinameran) 16-17 years old N=11   | mRNA primed (tozinameran) 16-17 years old N=11   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40   | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40   | mRNA primed (elasomeran) ≥ 18 years old N=171   | mRNA primed (elasomeran) ≥ 18 years old N=171   |
-|--------------|--------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-|              | GMT                                              | 95% CI                                           | GMT                                                            | 95% CI                                                         | GMT                                             | 95% CI                                          |
-| Pre-booster  |                                                  |                                                  |                                                                |                                                                |                                                 |                                                 |
-| D614G strain | 720.10                                           | 356.96; 1 452.64                                 | 288.58                                                         | 194.56; 428.02                                                 | 657.49                                          | 499.52; 865.43                                  |
-| Beta         | 471.68                                           | 208.39; 1 067.60                                 | 539.49                                                         | 345.97; 841.26                                                 | 497.77                                          | 376.98; 657.26                                  |
-| Delta        | 803.84                                           | 376.27; 1 717.26                                 | 283.75                                                         | 182.43; 441.35                                                 | 914.68                                          | 657.97; 1 271.55                                |
+|              |   mRNA primed (tozinameran) 16-17 years old N=11 - GMT | mRNA primed (tozinameran) 16-17 years old N=11 - 95% CI   |   Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40 - GMT | Ad-vector primed (ChAdOx1-S recombinant) ≥ 18 years old N=40 - 95% CI   |   mRNA primed (elasomeran) ≥ 18 years old N=171 - GMT | mRNA primed (elasomeran) ≥ 18 years old N=171 - 95% CI   |
+|--------------|--------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|
+| Pre-booster  |                                                        |                                                           |                                                                      |                                                                         |                                                       |                                                          |
+| D614G strain |                                                 720.10 | 356.96; 1 452.64                                          |                                                               288.58 | 194.56; 428.02                                                          |                                                657.49 | 499.52; 865.43                                           |
+| Beta         |                                                 471.68 | 208.39; 1 067.60                                          |                                                               539.49 | 345.97; 841.26                                                          |                                                497.77 | 376.98; 657.26                                           |
+| Delta        |                                                 803.84 | 376.27; 1 717.26                                          |                                                               283.75 | 182.43; 441.35                                                          |                                                914.68 | 657.97; 1 271.55                                         |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2019,8 +2004,6 @@ Table 5: Neutralising antibody Geometric Mean Titres (GMT) at 14 days post-boost
 | Beta                | 8 820.74            | 3 897.14; 19 964.72 | 5 009.47            | 3 212.53; 7 811.54  | 6857.95             | 5 193.76; 9 055.38  |
 | Delta               | 7 564.79            | 3 541.05; 16 160.76 | 2 600.31            | 1 671.78; 4 044.56  | 5811.47             | 4 180.44; 8 078.87  |
 | Omicron BA.1        | 5 757.43            | 2 231.25; 14 856.19 | 1 847.41            | 1 090.05; 3 131.00  | 4379.81             | 3 073.24; 6 241.85  |
-
-N: Number of participants with available data for the relevant endpoint
 
 Abbreviations: GMT = Geometric Mean Titre; CI: Confidence intervals
 
@@ -2038,16 +2021,16 @@ Data on neutralising antibody titres against Omicron BA.1 at Baseline (prior to 
 
 Table 6: Neutralising antibody titres against Omicron BA.1 at day 14 post-booster with BIMERVAX in adolescents aged 12 to 17 years (immunogenicity population)
 
-|          | Statistics                             | Adolescents (12-15 years old) N = 61   | Adolescents (16-17 years old) N = 27   | Total (12-17 years old) N= 88   |
-|----------|----------------------------------------|----------------------------------------|----------------------------------------|---------------------------------|
-| Baseline | Geometric mean                         | 1 240.77                               | 1 457.30                               | 1 303.54                        |
-| Baseline | 95 % CI                                | 894.78; 1 720.55                       | 984.9; 2 156.3                         | 1 016.05; 1 672.39              |
-|          | Geometric mean                         | 22 970.81                              | 26 792.00                              | 24 081.34                       |
-|          | 95 % CI                                | 18 033.27; 29 260.25                   | 20 150.31; 35 622.86                   | 19 741.36; 29 375.43            |
-|          | GMFR                                   | 18.51                                  | 18.38                                  | 18.47                           |
-|          | 95 % CI                                | 13.28; 25.81                           | 13.15; 25.71                           | 14.41; 23.69                    |
-|          | ≥ 4 - fold change from baseline, n (%) | 54 (88.5)                              | 27 (100)                               | 81 (92)                         |
-|          | 95 % CI                                | 77.8; 95.3                             | 87.2; 100                              | 84.3; 96.7                      |
+|          | Statistics                            | Adolescents (12-15 years old) N = 61   | Adolescents (16-17 years old) N = 27   | Total (12-17 years old) N= 88   |
+|----------|---------------------------------------|----------------------------------------|----------------------------------------|---------------------------------|
+| Baseline | Geometric mean                        | 1 240.77                               | 1 457.30                               | 1 303.54                        |
+| Baseline | 95 % CI                               | 894.78; 1 720.55                       | 984.9; 2 156.3                         | 1 016.05; 1 672.39              |
+|          | Geometric mean                        | 22 970.81                              | 26 792.00                              | 24 081.34                       |
+|          | 95 % CI                               | 18 033.27; 29 260.25                   | 20 150.31; 35 622.86                   | 19 741.36; 29 375.43            |
+|          | GMFR                                  | 18.51                                  | 18.38                                  | 18.47                           |
+|          | Day 14 95 % CI                        | 13.28; 25.81                           | 13.15; 25.71                           | 14.41; 23.69                    |
+|          | ≥ 4- fold change from baseline, n (%) | 54 (88.5)                              | 27 (100)                               | 81 (92)                         |
+|          | 95 % CI                               | 77.8; 95.3                             | 87.2; 100                              | 84.3; 96.7                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2059,7 +2042,7 @@ The immunogenicity of BIMERVAX was shown in the elderly population (≥ 65 years
 
 ## Immunocompromised population
 
-The immunogenicity and safety of a booster dose of BIMERVAX were evaluated in a phase 2b/3, open label, single arm, multi-centre clinical trial (HIPRA-HH-4) in adults with pre-existing immunosuppressive conditions, including people living with human immunodeficiency virus (HIV) infection with persistent CD4 Tcell counts &lt; 400 /mm 3  within last 6 months, kidney transplant on maintenance immunosuppressive therapy, haemodialysis/peritoneal dialysis, primary antibody deficiencies on IgG replacement therapy and auto-immune disease on treatment with rituximab/ocrelizumab. The booster dose of BIMERVAX was administered at least 91 days after 3 previous doses of COVID-19 vaccine or after 2 doses plus a documented history of COVID-19. Participants with history of COVID-19 disease were allowed to be included if diagnosed at least 91 days before enrolment.
+The immunogenicity and safety of a booster dose of BIMERVAX were evaluated in a phase 2b/3, open label, single arm, multi-centre clinical trial (HIPRA-HH-4) in adults with pre-existing immunosuppressive conditions, including people living with human immunodeficiency virus (HIV) infection with persistent CD4 T-cell counts &lt; 400/mm 3 within last 6 months, kidney transplant on maintenance immunosuppressive therapy, haemodialysis/peritoneal dialysis, primary antibody deficiencies on IgG replacement therapy and auto-immune disease on treatment with rituximab/ocrelizumab. The booster dose of BIMERVAX was administered at least 91 days after 3 previous doses of COVID-19 vaccine or after 2 doses plus a documented history of COVID-19. Participants with history of COVID-19 disease were allowed to be included if diagnosed at least 91 days before enrolment.
 
 A total of 238 individuals were vaccinated with a booster dose of BIMERVAX and a total of 228 participants were analysed excluding those who tested positive for COVID-19 within 14 days of the booster. The median age was 56 years old (range: 21 to 90 years of age).
 
@@ -2101,19 +2084,19 @@ This medicinal product must not be mixed with other medicinal products or dilute
 
 ## 6.3 Shelf life
 
-1 year at 2 ºC - 8 ºC.
+15 months at 2 ºC - 8 ºC.
 
 Before use, the vaccine may be taken out of the refrigerator once for a maximum period of 24 hours at temperature not above 25ºC.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C). Do not freeze.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
 Keep the product in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
-## Single dose vial
+Single dose vial
 
 0.5 mL of emulsion in a single dose vial (type I glass) closed with a type I elastomeric stopper and an aluminium seal fitted with a plastic flip-off cap.
 
@@ -2123,7 +2106,7 @@ Pack sizes: 1, 10 or 20 single dose vials.
 
 Not all pack sizes may be marketed.
 
-## Pre-filled syringe
+Pre-filled syringe
 
 0.5 mL of emulsion in a pre-filled syringe (type I glass) with a plunger stopper (chlorobutyl rubber) and an integrated tip cap (polyisoprene rubber) without needle.
 
@@ -2133,7 +2116,7 @@ Not all pack sizes may be marketed.
 
 Pack sizes: 1 or 10 pre-filled syringes.
 
-## Not all pack sizes may be marketed.
+Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -2229,7 +2212,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance(s)
 
-Laboratorios Hipra, S.A. Ctra. C-63, Km 48,300. Polígono Industrial El Rieral, 17170 Amer (Girona) Spain
+Laboratorios Hipra, S.A. Ctra. C-63, Km 48,300. Polígono Industrial El Rieral, 17170 Amer (Girona)
+
+Spain
 
 Name and address of the manufacturer(s) responsible for batch release
 
@@ -2294,7 +2279,7 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Emulsion for injection
+Emulsion for injection
 
 10 multidose vials
 
@@ -2316,6 +2301,8 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
@@ -2330,7 +2317,7 @@ Keep the vials in the outer carton in order to protect from light.
 
 After first puncture, store at 2 ºC - 8º C, use within 6 hours.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR  WASTE  MATERIALS  DERIVED  FROM  SUCH  MEDICINAL  PRODUCTS,  IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2351,18 +2338,15 @@ EU/1/22/1709/001
 Batch
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2427,7 +2411,7 @@ selvacovatein
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dose (0.5 mL) contains 40 micrograms of selvacovatein adjuvanted with SQBA.
+Each dose (0.5 mL) contains 40 micrograms of selvacovatein adjuvanted with SQBA.
 
 SQBA adjuvant contains squalene, polysorbate 80, sorbitan trioleate, sodium citrate, citric acid and water for injections.
 
@@ -2481,7 +2465,7 @@ Do not freeze.
 
 Keep the vials in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE  MATERIALS  DERIVED  FROM  SUCH  MEDICINAL  PRODUCTS,  IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2507,7 +2491,7 @@ Batch
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2533,7 +2517,9 @@ PC SN NN
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
 
-BIMERVAX emulsion for injection COVID-19 Vaccine (recombinant, adjuvanted) selvacovatein IM
+BIMERVAX emulsion for injection COVID-19 Vaccine (recombinant, adjuvanted) selvacovatein
+
+IM
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -2553,7 +2539,7 @@ Batch
 | 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
 |------|--------------------------------------------|
 
-1 dose of 0.5 mL
+1 dose of 0.5 mL
 
 | 6.   | OTHER   |
 |------|---------|
@@ -2566,11 +2552,15 @@ OUTER CARTON (5, 10 or 20 SINGLE DOSE VIALS)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-BIMERVAX XBB.1.16 emulsion for injection COVID-19 Vaccine (recombinant, adjuvanted) damlecovatein
+BIMERVAX XBB.1.16 emulsion for injection
+
+COVID-19 Vaccine (recombinant, adjuvanted)
+
+damlecovatein
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dose (0.5 mL) contains 40 micrograms of damlecovatein adjuvanted with SQBA.
+Each dose (0.5 mL) contains 40 micrograms of damlecovatein adjuvanted with SQBA.
 
 SQBA adjuvant contains squalene, polysorbate 80, sorbitan trioleate, sodium citrate, citric acid and water for injections.
 
@@ -2582,7 +2572,7 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Emulsion for injection
+## Emulsion for injection
 
 5 single dose vials
 
@@ -2616,7 +2606,7 @@ Do not freeze.
 
 Keep the vials in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE  MATERIALS  DERIVED  FROM  SUCH  MEDICINAL  PRODUCTS,  IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2661,29 +2651,37 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SINGLE DOSE VIAL LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SINGLE DOSE VIAL LABEL                                             |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 BIMERVAX XBB.1.16 emulsion for injection COVID-19 Vaccine (recombinant, adjuvanted) damlecovatein IM
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Intramuscular use
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
-1 dose of 0.5 mL
+1 dose of 0.5 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2693,11 +2691,15 @@ OUTER CARTON (1, 10 or 20 SINGLE DOSE VIALS)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-BIMERVAX LP.8.1 emulsion for injection COVID-19 Vaccine (recombinant, adjuvanted) meracovatein
+BIMERVAX LP.8.1 emulsion for injection
+
+COVID-19 Vaccine (recombinant, adjuvanted)
+
+meracovatein
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dose (0.5 mL) contains 40 micrograms of meracovatein adjuvanted with SQBA.
+Each dose (0.5 mL) contains 40 micrograms of meracovatein adjuvanted with SQBA.
 
 SQBA adjuvant contains squalene, polysorbate 80, sorbitan trioleate, sodium citrate, citric acid and water for injections.
 
@@ -2745,7 +2747,7 @@ Do not freeze.
 
 Keep the vials in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE  MATERIALS  DERIVED  FROM  SUCH  MEDICINAL  PRODUCTS,  IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2790,31 +2792,37 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-SINGLE DOSE VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SINGLE DOSE VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-BIMERVAX LP.8.1 emulsion for injection COVID-19 Vaccine (recombinant, adjuvanted) meracovatein IM
+BIMERVAX LP.8.1 emulsion for injection
+
+COVID-19 Vaccine (recombinant, adjuvanted) meracovatein
+
+IM
 
 ## 2. METHOD OF ADMINISTRATION
 
 Intramuscular use
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
-1 dose ( 0.5 mL )
+1 dose (0.5 mL)
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2832,7 +2840,7 @@ meracovatein
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dose (0.5 mL) contains 40 micrograms of meracovatein adjuvanted with SQBA.
+Each dose (0.5 mL) contains 40 micrograms of meracovatein adjuvanted with SQBA.
 
 SQBA adjuvant contains squalene, polysorbate 80, sorbitan trioleate, sodium citrate, citric acid and water for injections.
 
@@ -2868,6 +2876,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -2876,25 +2886,29 @@ Do not freeze.
 
 Keep the product in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE  MATERIALS  DERIVED  FROM  SUCH  MEDICINAL  PRODUCTS,  IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona) SPAIN
+Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona)
+
+SPAIN
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1709/011 1 pre-filled syringe EU/1/22/1709/012 10 pre-filled syringes
+EU/1/22/1709/011 1 pre-filled syringe
+
+EU/1/22/1709/012 10 pre-filled syringes
 
 ## 13. BATCH NUMBER
 
 Batch
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -2908,13 +2922,15 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-BIMERVAX LP.8.1 emulsion for injection COVID-19 Vaccine (recombinant, adjuvanted) meracovatein IM
+BIMERVAX LP.8.1 emulsion for injection
+
+COVID-19 Vaccine (recombinant, adjuvanted) meracovatein
+
+IM
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -2930,7 +2946,7 @@ Batch
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-1 dose ( 0.5 mL )
+1 dose (0.5 mL)
 
 ## 6. OTHER
 
@@ -2948,7 +2964,7 @@ COVID-19 Vaccine (recombinant, adjuvanted)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dose (0.5 mL) contains 40 micrograms of SARS-CoV-2 virus recombinant protein RBD fusion homodimer (XFG.1.1 - XFG.1.1) adjuvanted with SQBA.
+Each dose (0.5 mL) contains 40 micrograms of SARS-CoV-2 virus recombinant protein RBD fusion homodimer (XFG.1.1 - XFG.1.1) adjuvanted with SQBA.
 
 SQBA adjuvant contains squalene, polysorbate 80, sorbitan trioleate, sodium citrate, citric acid and water for injections.
 
@@ -2996,7 +3012,7 @@ Do not freeze.
 
 Keep the vials in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE  MATERIALS  DERIVED  FROM  SUCH  MEDICINAL  PRODUCTS,  IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3063,7 +3079,7 @@ Batch
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-1 dose ( 0.5 mL )
+1 dose (0.5 mL)
 
 ## 6. OTHER
 
@@ -3081,7 +3097,7 @@ COVID-19 Vaccine (recombinant, adjuvanted)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each dose (0.5 mL) contains 40 micrograms of SARS-CoV-2 virus recombinant protein RBD fusion homodimer (XFG.1.1 - XFG.1.1) adjuvanted with SQBA.
+Each dose (0.5 mL) contains 40 micrograms of SARS-CoV-2 virus recombinant protein RBD fusion homodimer (XFG.1.1 - XFG.1.1) adjuvanted with SQBA.
 
 SQBA adjuvant contains squalene, polysorbate 80, sorbitan trioleate, sodium citrate, citric acid and water for injections.
 
@@ -3127,21 +3143,21 @@ Do not freeze.
 
 Keep the product in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE  MATERIALS  DERIVED  FROM  SUCH  MEDICINAL  PRODUCTS,  IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Hipra Human Health, S.L.U.
 
-Avda. la Selva, 135
-
-17170 Amer (Girona)
+Avda. la Selva, 135 17170 Amer (Girona)
 
 SPAIN
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1709/016 1 pre-filled syringe EU/1/22/1709/017 10 pre-filled syringes
+EU/1/22/1709/016 1 pre-filled syringe
+
+EU/1/22/1709/017 10 pre-filled syringes
 
 ## 13. BATCH NUMBER
 
@@ -3149,12 +3165,13 @@ Batch
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3167,9 +3184,7 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-PRE-FILLED SYRINGE LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -3191,7 +3206,7 @@ Batch
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-1 dose ( 0.5 mL )
+1 dose (0.5 mL)
 
 ## 6. OTHER
 
@@ -3238,7 +3253,7 @@ The vaccine stimulates the immune system (the body's natural defences) to produc
 
 ## BIMERVAX should not be given
 
-- -if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -3318,7 +3333,7 @@ Get urgent medical attention if you get symptoms of a severe allergic reaction s
 
 The following side effects may occur with BIMERVAX:
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - headache
 - pain where the injection is given
@@ -3334,7 +3349,7 @@ The following side effects may occur with BIMERVAX:
 - enlarged lymph nodes
 - axillary pain
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - chills or feeling feverish
 - dizziness
@@ -3345,7 +3360,7 @@ The following side effects may occur with BIMERVAX:
 - itchy skin
 - generally feeling unwell
 
-## Rare (may affect up to 1 in 1 000 people)
+Rare (may affect up to 1 in 1 000 people)
 
 - cold sweating
 - unusual feeling in the skin, such as tingling or a crawling feeling (paraesthesia)
@@ -3387,10 +3402,10 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## What BIMERVAX contains
 
-- -One dose (0.5 mL) contains 40 micrograms of selvacovatein adjuvanted with SQBA.
-- -Selvacovatein  is  SARS-CoV-2  virus  recombinant  spike  (S)  protein  RBD  fusion heterodimer (B.1.351 and B.1.1.7 strains) produced by recombinant DNA technology.
-- -SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
-- -The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX contains potassium, sodium and polysorbate (see section 2).
+- One dose (0.5 mL) contains 40 micrograms of selvacovatein adjuvanted with SQBA.
+- Selvacovatein is SARS-CoV-2 virus recombinant spike (S) protein RBD fusion heterodimer (B.1.351 and B.1.1.7 strains) produced by recombinant DNA technology.
+- SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
+- The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX contains potassium, sodium and polysorbate (see section 2).
 
 ## What BIMERVAX looks like and contents of the pack
 
@@ -3398,7 +3413,7 @@ The vaccine is a white homogeneous emulsion for injection.
 
 <div style=\"page-break-after: always\"></div>
 
-## Multidose vial
+Multidose vial
 
 5 mL of emulsion is provided in a vial with a rubber stopper and a plastic flip-off top.
 
@@ -3418,7 +3433,9 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona) SPAIN
+Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona)
+
+SPAIN
 
 ## Manufacturer
 
@@ -3523,7 +3540,7 @@ The vaccine stimulates the immune system (the body's natural defences) to produc
 
 ## BIMERVAX XBB.1.16 should not be given
 
-- -if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -3668,10 +3685,10 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## What BIMERVAX XBB.1.16 contains
 
-- -One dose (0.5 mL) contains 40 micrograms of damlecovatein adjuvanted with SQBA.
-- -Damlecovatein  is  SARS-CoV-2  virus  recombinant  spike  (S)  protein  RBD  fusion homodimer (Omicron XBB.1.16 - XBB.1.16 strain) produced by recombinant DNA technology.
-- -SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
-- -The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX XBB.1.16 contains potassium, sodium and polysorbate (see section 2).
+- One dose (0.5 mL) contains 40 micrograms of damlecovatein adjuvanted with SQBA.
+- Damlecovatein is SARS-CoV-2 virus recombinant spike (S) protein RBD fusion homodimer (Omicron XBB.1.16 - XBB.1.16 strain) produced by recombinant DNA technology.
+- SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
+- The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX XBB.1.16 contains potassium, sodium and polysorbate (see section 2).
 
 ## What BIMERVAX XBB.1.16 looks like and contents of the pack
 
@@ -3679,15 +3696,17 @@ The vaccine is a white homogeneous emulsion for injection.
 
 - 0.5 mL of emulsion is provided in a vial with a rubber stopper and a plastic flip-off top.
 
-<div style=\"page-break-after: always\"></div>
-
 Each single dose vial contains 1 dose of 0.5 mL
 
 Pack sizes: 5, 10 or 20 single dose vials.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
-Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona) SPAIN
+Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona)
+
+SPAIN
 
 ## Manufacturer
 
@@ -3785,7 +3804,7 @@ The vaccine stimulates the immune system (the body's natural defences) to produc
 
 ## BIMERVAX LP.8.1 should not be given
 
-- -if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -3932,14 +3951,16 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## What BIMERVAX LP.8.1 contains
 
-- -One dose (0.5 mL) contains 40 micrograms of meracovatein adjuvanted with SQBA.
-- -Meracovatein is SARS-CoV-2 virus recombinant spike (S) protein RBD fusion homodimer (Omicron LP.8.1 - LP.8.1 strain) produced by recombinant DNA technology.
-- -SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
-- -The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX LP.8.1 contains potassium, sodium and polysorbate (see section 2).
+- One dose (0.5 mL) contains 40 micrograms of meracovatein adjuvanted with SQBA.
+- Meracovatein is SARS-CoV-2 virus recombinant spike (S) protein RBD fusion homodimer (Omicron LP.8.1 - LP.8.1 strain) produced by recombinant DNA technology.
+- SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
+- The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX LP.8.1 contains potassium, sodium and polysorbate (see section 2).
 
 ## What BIMERVAX LP.8.1 looks like and contents of the pack
 
 The vaccine is a white homogeneous emulsion for injection.
+
+<div style=\"page-break-after: always\"></div>
 
 0.5 mL of emulsion is provided in a vial with a rubber stopper and a plastic flip-off top.
 
@@ -3947,15 +3968,17 @@ Each single dose vial contains 1 dose of 0.5 mL
 
 Pack sizes: 1, 10 or 20 single dose vials.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Marketing Authorisation Holder
 
-Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona) SPAIN
+Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona)
+
+SPAIN
 
 ## Manufacturer
 
-Laboratorios Hipra, S.A. Avda. la Selva, 135 17170 Amer (Girona) SPAIN
+Laboratorios Hipra, S.A. Avda. la Selva, 135 17170 Amer (Girona)
+
+SPAIN
 
 ## This leaflet was last revised in
 
@@ -4049,7 +4072,7 @@ The vaccine stimulates the immune system (the body's natural defences) to produc
 
 ## BIMERVAX LP.8.1 should not be given
 
-- -if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -4196,10 +4219,10 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## What BIMERVAX LP.8.1 contains
 
-- -One dose (0.5 mL) contains 40 micrograms of meracovatein adjuvanted with SQBA.
-- -Meracovatein is SARS-CoV-2 virus recombinant spike (S) protein RBD fusion homodimer (Omicron LP.8.1 - LP.8.1 strain) produced by recombinant DNA technology.
-- -SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
-- -The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX LP.8.1 contains potassium, sodium and polysorbate (see section 2).
+- One dose (0.5 mL) contains 40 micrograms of meracovatein adjuvanted with SQBA.
+- Meracovatein is SARS-CoV-2 virus recombinant spike (S) protein RBD fusion homodimer (Omicron LP.8.1 - LP.8.1 strain) produced by recombinant DNA technology.
+- SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
+- The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX LP.8.1 contains potassium, sodium and polysorbate (see section 2).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4317,7 +4340,7 @@ The vaccine stimulates the immune system (the body's natural defences) to produc
 
 ## BIMERVAX XFG.1.1 should not be given
 
-- -if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -4464,16 +4487,18 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## What BIMERVAX XFG.1.1 contains
 
-- -One dose (0.5 mL) contains 40 micrograms of SARS-CoV-2 virus recombinant spike (S) protein RBD fusion homodimer* (Omicron XFG.1.1 - XFG.1.1) adjuvanted with SQBA.
+- One dose (0.5 mL) contains 40 micrograms of SARS-CoV-2 virus recombinant spike (S) protein RBD fusion homodimer* (Omicron XFG.1.1 - XFG.1.1) adjuvanted with SQBA.
 
 *Produced by recombinant DNA technology.
 
-- -SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
-- -The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX XFG.1.1 contains potassium, sodium and polysorbate (see section 2).
+- SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
+- The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX XFG.1.1 contains potassium, sodium and polysorbate (see section 2).
 
 ## What BIMERVAX XFG.1.1 looks like and contents of the pack
 
 The vaccine is a white homogeneous emulsion for injection.
+
+<div style=\"page-break-after: always\"></div>
 
 0.5 mL of emulsion is provided in a vial with a rubber stopper and a plastic flip-off top.
 
@@ -4481,17 +4506,19 @@ Each single dose vial contains 1 dose of 0.5 mL
 
 Pack sizes: 1, 10 or 20 single dose vials.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Marketing Authorisation Holder
 
-Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona) SPAIN
+Hipra Human Health, S.L.U. Avda. la Selva, 135 17170 Amer (Girona)
+
+SPAIN
 
 ## Manufacturer
 
-Laboratorios Hipra, S.A. Avda. la Selva, 135 17170 Amer (Girona) SPAIN
+Laboratorios Hipra, S.A. Avda. la Selva, 135 17170 Amer (Girona)
 
-This leaflet was last revised in
+SPAIN
+
+## This leaflet was last revised in
 
 ## Other sources of information
 
@@ -4583,7 +4610,7 @@ The vaccine stimulates the immune system (the body's natural defences) to produc
 
 ## BIMERVAX XFG.1.1 should not be given
 
-- -if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -4730,12 +4757,12 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## What BIMERVAX XFG.1.1 contains
 
-- -One dose (0.5 mL) contains 40 micrograms of SARS-CoV-2 virus recombinant spike (S) protein RBD fusion homodimer* (Omicron XFG.1.1 - XFG.1.1) adjuvanted with SQBA.
+- One dose (0.5 mL) contains 40 micrograms of SARS-CoV-2 virus recombinant spike (S) protein RBD fusion homodimer* (Omicron XFG.1.1 - XFG.1.1) adjuvanted with SQBA.
 
 *Produced by recombinant DNA technology.
 
-- -SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
-- -The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX XFG.1.1 contains potassium, sodium and polysorbate (see section 2).
+- SQBA is included in this vaccine as an adjuvant to accelerate and improve the protective effects of the vaccine. SQBA contains per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
+- The other ingredients (excipients) are: disodium phosphate dodecahydrate, potassium dihydrogen phosphate, sodium chloride, potassium chloride and water for injections. BIMERVAX XFG.1.1 contains potassium, sodium and polysorbate (see section 2).
 
 ## What BIMERVAX XFG.1.1 looks like and contents of the pack
 

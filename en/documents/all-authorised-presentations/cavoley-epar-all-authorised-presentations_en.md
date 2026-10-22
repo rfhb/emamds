@@ -1,0 +1,21 @@
+---
+document_datetime: 2026-10-21 08:59:51
+document_pages: 1
+document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/cavoley-epar-all-authorised-presentations_en.pdf
+document_name: cavoley-epar-all-authorised-presentations_en.pdf
+version: success
+processing_time: 1.7495383
+conversion_datetime: 2026-10-22 22:00:25.506257
+docling_version:
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
+---
+## MA (EU) number (Invented) name Strength Pharmaceutical Form Route of Administration Immediate Packaging Content (concentration) Pack size
+
+EU/1/26/2066/001 Cavoley 6 mg Solution for injection Subcutaneous use pre-filled syringe (glass) 0.6 ml (10 mg/ml) 1 pre-filled syringe

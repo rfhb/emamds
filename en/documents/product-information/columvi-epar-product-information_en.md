@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-24 13:41:00
-document_pages: 57
+document_datetime: 2026-10-20 09:22:52
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/columvi-epar-product-information_en.pdf
 document_name: columvi-epar-product-information_en.pdf
 version: success
-processing_time: 15.7707111
-conversion_datetime: 2025-12-23 05:23:00.637831
+processing_time: 27.7883168
+conversion_datetime: 2026-10-22 22:38:20.160898
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -42,7 +42,7 @@ Each vial of 10 mL of concentrate contains 10 mg of glofitamab at a concentratio
 
 Glofitamab is a humanised anti-CD20/anti-CD3 bispecific monoclonal antibody produced in Chinese hamster ovary (CHO) cells by recombinant DNA technology.
 
-## Excipients with known effects
+Excipients with known effects
 
 Each 2.5 mL vial of Columvi contains 1.25 mg (0.5 mg/mL) of polysorbate 20. Each 10 mL vial of Columvi contains 5 mg (0.5 mg/mL) of polysorbate 20.
 
@@ -72,7 +72,7 @@ At least 1 dose of tocilizumab for use in the event of CRS must be available pri
 
 ## Pre-treatment with obinutuzumab
 
-All patients in study NP30179 and in study GO41944 (STARGLO) received a single 1 000 mg dose of obinutuzumab as pre-treatment on Cycle 1 Day 1 (7 days prior to initiation of Columvi treatment) to lower the circulating and lymphoid B cells (see Table 2, Delayed or Missed Doses , and section 5.1).
+All patients in study NP30179 and in study GO41944 (STARGLO) received a single 1 000 mg dose of obinutuzumab as pre-treatment on Cycle 1 Day 1 (7 days prior to initiation of Columvi treatment) to lower the circulating and lymphoid B cells (see Table 2, Delayed or Missed Doses, and section 5.1).
 
 Obinutuzumab was administered as an intravenous infusion at 50 mg/h. The rate of infusion was escalated in 50 mg/h increments every 30 minutes to a maximum of 400 mg/h.
 
@@ -86,21 +86,13 @@ Columvi should be administered to well-hydrated patients. Recommended premedicat
 
 Table 1. Premedication before Columvi infusion
 
-| Treatment cycle (Day)                                     | Patients requiring premedication                    | Premedication                        | Administration                                      |
-|-----------------------------------------------------------|-----------------------------------------------------|--------------------------------------|-----------------------------------------------------|
-| Cycle 1 (Day 8, Day 15); Cycle 2 (Day 1); Cycle 3 (Day 1) | All patients                                        | 20 mg intravenous dexamethasone 1    | Completed at least 1 hour prior to Columvi infusion |
-| Cycle 1 (Day 8, Day 15); Cycle 2 (Day 1); Cycle 3 (Day 1) | All patients                                        | Anti-histamine 3                     | before Columvi infusion                             |
-| All subsequent infusions                                  | All patients                                        | Oral analgesic / anti-pyretic 2      | At least 30 minutes before Columvi infusion         |
-| All subsequent infusions                                  | All patients                                        | Anti-histamine 3                     | At least 30 minutes before Columvi infusion         |
-| All subsequent infusions                                  | Patients who experienced CRS with the previous dose | 20 mg intravenous dexamethasone 1, 4 | Completed at least 1 hour prior to Columvi infusion |
-
-1  If patient has an intolerance to dexamethasone or dexamethasone is unavailable, administer 100 mg prednisone/prednisolone or 80 mg methylprednisolone.
-
-2  For example, 1 000 mg paracetamol.
-
-3  For example, 50 mg diphenhydramine.
-
-4 To be administered in addition to the premedication required for all patients.
+| Treatment cycle (Day)                                     | Patients requiring premedication                    | Premedication                                      | Administration                                      |
+|-----------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------|-----------------------------------------------------|
+| Cycle 1 (Day 8, Day 15); Cycle 2 (Day 1); Cycle 3 (Day 1) | All patients                                        | 20 mg intravenous dexamethasone 1 Oral analgesic / | Completed at least 1 hour prior to Columvi infusion |
+| Cycle 1 (Day 8, Day 15); Cycle 2 (Day 1); Cycle 3 (Day 1) | All patients                                        | anti-pyretic 2 Anti-histamine 3                    | At least 30 minutes before Columvi infusion         |
+| All subsequent infusions                                  | All patients                                        | Oral analgesic / anti-pyretic 2                    | At least 30 minutes before Columvi infusion         |
+| All subsequent infusions                                  | All patients                                        | Anti-histamine 3                                   | At least 30 minutes before Columvi infusion         |
+| All subsequent infusions                                  | Patients who experienced CRS with the previous dose | 20 mg intravenous dexamethasone 1, 4               | Completed at least 1 hour prior to Columvi infusion |
 
 ## Infection prophylaxis
 
@@ -128,12 +120,6 @@ Table 2. Columvi monotherapy dose step-up schedule for patients with relapsed or
 | Cycle 2                                  | Day 1                  | 30 mg                                     | 4 hours 2                                 |
 | Cycle 3 to 12                            | Day 1                  | 30 mg                                     | 2 hours 3                                 |
 
-1 Refer to ' Pre-treatment with obinutuzumab ' described above.
-
-2 For patients who experience CRS with their previous dose of Columvi, the duration of infusion may be extended up to 8 hours (see section 4.4).
-
-3 At the discretion of the treating physician, if the previous infusion was well tolerated. If the patient experienced CRS with a previous dose, the duration of infusion should be maintained at 4 hours.
-
 ## Columvi dose step-up schedule in combination with gemcitabine and oxaliplatin
 
 Columvi must be administered as an intravenous infusion according to the dose step-up schedule leading to the recommended dose of 30 mg (as shown in Table 3), after completion of pre-treatment with obinutuzumab on Cycle 1 Day 1.
@@ -153,16 +139,6 @@ Table 3. Columvi dose step-up schedule in combination with gemcitabine and oxali
 | Cycle 2                                  | Day 1                  | 30 mg (4 hours) c,d                       | 1000 mg/m 2 b,d                           | 100 mg/m 2 b,d                            |
 | Cycle 3 to 8                             | Day 1                  | 30 mg (2 hours) d,e                       | 1000 mg/m 2 b,d                           | 100 mg/m 2 b,d                            |
 | Cycle 9 to 12                            | Day 1                  | 30 mg (2 hours) e                         | -                                         | -                                         |
-
-a Refer to ' Pre-treatment with obinutuzumab ' described above.
-
-b  Cycles 1-8: Administer gemcitabine before oxaliplatin.
-
-c  For patients who experience CRS with their previous dose of Columvi, the time of infusion may be extended up to 8 hours (see section 4.4).
-
-d  Cycles 2-8: Administer Columvi before gemcitabine and oxaliplatin. Gemcitabine and oxaliplatin may be given on Day 1 or 2.
-
-e Infusion time may be shortened to 2 hours at the discretion of the treating physician, if the previous infusion was well tolerated. If the patient experienced CRS with a previous dose, the duration of infusion should be maintained at 4 hours.
 
 ## Patient monitoring
 
@@ -201,16 +177,16 @@ No dose reductions of Columvi are recommended.
 
 ## Management of cytokine release syndrome
 
-CRS should be identified based on the clinical presentation (see sections 4.4 and 4.8). Patients should be evaluated for other causes of fever, hypoxia, and hypotension, such as infections or sepsis. If CRS is suspected, it should be managed according to the CRS management recommendations based on American Society for Transplantation and Cellular Therapy (ASTCT) consensus grading in Table 4.
+CRS should be identified based on the clinical presentation (see sections 4.4 and 4.8). Patients should be evaluated for other causes of fever, hypoxia, and hypotension, such as infections or sepsis. If CRS is suspected, it should be managed according to the CRS management recommendations based on American Society for Transplantation and Cellular Therapy (ASTCT) consensus grading in Table 4. If CRS is refractory to management, consider other causes including haemophagocytic lymphohistiocytosis (HLH) / Immune Effector Cell Associated HLH-like Syndrome (IEC-HS).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Table 4. ASTCT CRS grading and CRS management guidance
 
-| Grade 1                                                                                                                                   | CRS management                                                                                                                                                                                                                                                                                                                                                                                  | For next scheduled Columvi infusion                                                                                                              |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 1 Fever ≥ 38  C                                                                                                                    | If CRS occurs during infusion:  Interrupt infusion and treat symptoms  Restart infusion at slower rate when symptoms resolve  If symptoms recur, discontinue current infusion If CRS occurs post-infusion:  Treat symptoms If CRS lasts more than 48 h after symptomatic management:  Consider corticosteroids 3  Consider tocilizumab 4 For CRS with concurrent ICANS, refer to Table 5. |  Ensure symptoms are resolved for at least 72 hours prior to next infusion  Consider slower infusion rate 2                                    |
-| Grade 2 Fever ≥ 38  C and/or hypotension not requiring vasopressors and/or hypoxia requiring low-flow oxygen by nasal cannula or blow-by | If CRS occurs during infusion:  Discontinue current infusion and treat symptoms  Administer corticosteroids 3  Consider tocilizumab 4 If CRS occurs post-infusion:  Treat symptoms  Administer corticosteroids 3  Consider tocilizumab 4 For CRS with concurrent ICANS, refer to Table 5.                                                                                                 |  Ensure symptoms are resolved for at least 72 hours prior to next infusion  Consider slower infusion rate 2  Monitor patients post-infusion 5 |
+| Grade 1                                                                                                                                  | CRS management                                                                                                                                                                                                                                                                                                                                                                                  | For next scheduled Columvi infusion                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 1 Fever ≥ 38 C                                                                                                                    | If CRS occurs during infusion:  Interrupt infusion and treat symptoms  Restart infusion at slower rate when symptoms resolve  If symptoms recur, discontinue current infusion If CRS occurs post-infusion:  Treat symptoms If CRS lasts more than 48 h after symptomatic management:  Consider corticosteroids 3  Consider tocilizumab 4 For CRS with concurrent ICANS, refer to Table 5. |  Ensure symptoms are resolved for at least 72 hours prior to next infusion  Consider slower infusion rate 2                                    |
+| Grade 2 Fever ≥ 38 C and/or hypotension not requiring vasopressors and/or hypoxia requiring low-flow oxygen by nasal cannula or blow-by | If CRS occurs during infusion:  Discontinue current infusion and treat symptoms  Administer corticosteroids 3  Consider tocilizumab 4 If CRS occurs post-infusion:  Treat symptoms  Administer corticosteroids 3  Consider tocilizumab 4 For CRS with concurrent ICANS, refer to Table 5.                                                                                                 |  Ensure symptoms are resolved for at least 72 hours prior to next infusion  Consider slower infusion rate 2  Monitor patients post-infusion 5 |
 
 ## For Grade 2: Tocilizumab use
 
@@ -229,10 +205,10 @@ If 2 doses of tocilizumab were used within the last 6 weeks:
 
 <div style=\"page-break-after: always\"></div>
 
-| Grade 1                                                                                                                                                                                                            | CRS management                                                                                                                                                                                                                                                                                      | For next scheduled Columvi infusion                                                                                                                                                                                                                              |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 3 Fever ≥ 38  C and/or hypotension requiring a vasopressor (with or without vasopressin) and/or hypoxia requiring high-flow oxygen by nasal cannula, face mask, non-rebreather mask, or Venturi mask        | If CRS occurs during infusion:  Discontinue current infusion and treat symptoms  Administer corticosteroids 3  Administer tocilizumab 4 If CRS occurs post-infusion:  Treat symptoms  Administer corticosteroids 3  Administer tocilizumab 4 For CRS with concurrent ICANS, refer to Table 5. |  Ensure symptoms are resolved for at least 72 hours prior to next infusion  Consider slower infusion rate 2  Monitor patients post-infusion 5  If Grade ≥ 3 CRS recurs at subsequent infusion, stop infusion immediately and permanently discontinue Columvi |
-| Grade 4 Fever ≥ 38  C and/or hypotension requiring multiple vasopressors (excluding vasopressin) and/or hypoxia requiring oxygen by positive pressure (e.g., CPAP, BiPAP, intubation, and mechanical ventilation) | If CRS occurs during infusion or post-infusion:  Permanently discontinue Columvi and treat symptoms  Administer corticosteroids 3  Administer tocilizumab 4 For CRS with concurrent ICANS, refer to Table 5.                                                                                     | If CRS occurs during infusion or post-infusion:  Permanently discontinue Columvi and treat symptoms  Administer corticosteroids 3  Administer tocilizumab 4 For CRS with concurrent ICANS, refer to Table 5.                                                  |
+| Grade 1                                                                                                                                                                                                           | CRS management                                                                                                                                                                                                                                                                                      | For next scheduled Columvi infusion                                                                                                                                                                                                                              |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 3 Fever ≥ 38 C and/or hypotension requiring a vasopressor (with or without vasopressin) and/or hypoxia requiring high-flow oxygen by nasal cannula, face mask, non-rebreather mask, or Venturi mask        | If CRS occurs during infusion:  Discontinue current infusion and treat symptoms  Administer corticosteroids 3  Administer tocilizumab 4 If CRS occurs post-infusion:  Treat symptoms  Administer corticosteroids 3  Administer tocilizumab 4 For CRS with concurrent ICANS, refer to Table 5. |  Ensure symptoms are resolved for at least 72 hours prior to next infusion  Consider slower infusion rate 2  Monitor patients post-infusion 5  If Grade ≥ 3 CRS recurs at subsequent infusion, stop infusion immediately and permanently discontinue Columvi |
+| Grade 4 Fever ≥ 38 C and/or hypotension requiring multiple vasopressors (excluding vasopressin) and/or hypoxia requiring oxygen by positive pressure (e.g., CPAP, BiPAP, intubation, and mechanical ventilation) | If CRS occurs during infusion or post-infusion:  Permanently discontinue Columvi and treat symptoms  Administer corticosteroids 3  Administer tocilizumab 4 For CRS with concurrent ICANS, refer to Table 5.                                                                                     | If CRS occurs during infusion or post-infusion:  Permanently discontinue Columvi and treat symptoms  Administer corticosteroids 3  Administer tocilizumab 4 For CRS with concurrent ICANS, refer to Table 5.                                                  |
 
 ## For Grade 3 and Grade 4: Tocilizumab use
 
@@ -249,13 +225,13 @@ If 2 doses of tocilizumab were used within the last 6 weeks:
 -  Administer only one dose of tocilizumab 4
 -  If no improvement within 8 hours or rapid progression of CRS, consider alternative anti-cytokine therapy and/or alternative immunosuppressant therapy
 
-1  ASTCT consensus grading criteria (Lee 2019).
+1 ASTCT consensus grading criteria (Lee 2019).
 
 2 Duration of infusion may be extended up to 8 hours, as appropriate for that cycle (see Table 2).
 
-3  Corticosteroids (e.g., 10 mg intravenous dexamethasone, 100 mg intravenous prednisolone, 1-2 mg/kg intravenous methylprednisolone per day, or equivalent).
+3 Corticosteroids (e.g., 10 mg intravenous dexamethasone, 100 mg intravenous prednisolone, 1-2 mg/kg intravenous methylprednisolone per day, or equivalent).
 
-4  Tocilizumab 8 mg/kg intravenously (not to exceed 800 mg), as administered in Study NP30179.
+4 Tocilizumab 8 mg/kg intravenously (not to exceed 800 mg), as administered in Study NP30179.
 
 5 See section 4.8 for frequency and time to onset of Grade ≥ 2 CRS following Columvi 10 mg and 30 mg doses.
 
@@ -267,37 +243,35 @@ At the first sign of ICANS, based on the type and severity, consider supportive 
 
 Table 5. ICANS grading and management guidance
 
-| Grade 1   | Presenting symptoms 2                                                                                                                                                                                                                                                                                                                                  | ICANS management                                                                                                                                                                                                                                                                                                                                                                                                                        | ICANS management                                                                                                                                                                                               |
-|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|           |                                                                                                                                                                                                                                                                                                                                                        | Concurrent CRS                                                                                                                                                                                                                                                                                                                                                                                                                          | No concurrent CRS                                                                                                                                                                                              |
-| Grade 1   | ICE 3 score 7-9 Or depressed level of consciousness 4 : awakens spontaneously                                                                                                                                                                                                                                                                          |  Manage CRS per Table 4.  Monitor neurologic symptoms and consider neurology consultation and evaluation, per physician discretion.                                                                                                                                                                                                                                                                                                   |  Monitor neurologic symptoms and consider neurology consultation and evaluation, per physician discretion.                                                                                                    |
-| Grade 1   | ICE 3 score 7-9 Or depressed level of consciousness 4 : awakens spontaneously                                                                                                                                                                                                                                                                          | Withhold Columvi until ICANS resolves. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis.                                                                                                                                                                                                                                                                                            | Withhold Columvi until ICANS resolves. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis.                                                                   |
-| Grade 2   | ICE 3 score 3-6 Or depressed level of consciousness 4 : awakens to voice                                                                                                                                                                                                                                                                               |  Administer tocilizumab per Table 4 for management of CRS.  If no improvement after starting tocilizumab, administer dexamethasone 5 10 mg intravenously every 6 hours if not already taking other corticosteroids. Continue dexamethasone use until resolution to Grade 1 or less, then taper.                                                                                                                                       |  Administer dexamethasone 5 10 mg intravenously every 6 hours.  Continue dexamethasone use until resolution to Grade 1 or less, then taper.                                                                  |
-| Grade 2   | ICE 3 score 3-6 Or depressed level of consciousness 4 : awakens to voice                                                                                                                                                                                                                                                                               | Withhold Columvi until ICANS resolves. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. Consider neurology consultation and other specialists for further                                                                                                                                                                                                                          | Withhold Columvi until ICANS resolves. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. Consider neurology consultation and other specialists for further |
-| Grade 3   | ICE 3 score 0-2 Or depressed level of consciousness 4 : awakens only to tactile stimulus; Or seizures 4 , either:  any clinical seizure, focal or generalised that resolves rapidly, or  non-convulsive seizures on electroencephalogram (EEG) that resolve with intervention; Or raised intracranial pressure: focal/local oedema on neuroimaging 4 |  Administer tocilizumab per Table 4 for management of CRS.  In addition, administer dexamethasone 5 10 mg intravenously with the first dose of tocilizumab, and repeat dose every 6 hours, if not already taking other corticosteroids. Continue dexamethasone use until resolution to Grade 1 or less, then taper. Withhold Columvi until For Grade 3 ICANS events 7 days, consider Consider non-sedating, (e.g., levetiracetam) for |  Administer dexamethasone 5 10 mg intravenously every 6 hours.  Continue dexamethasone use until resolution to Grade 1 or less, then taper.                                                                  |
-| Grade 3   | ICE 3 score 0-2 Or depressed level of consciousness 4 : awakens only to tactile stimulus; Or seizures 4 , either:  any clinical seizure, focal or generalised that resolves rapidly, or  non-convulsive seizures on electroencephalogram (EEG) that resolve with intervention; Or raised intracranial pressure: focal/local oedema on neuroimaging 4 | ICANS resolves. which do not improve within permanently discontinuing Columvi. anti-seizure medicinal products seizure prophylaxis. Consider neurology consultation and other specialists for further                                                                                                                                                                                                                                   | ICANS resolves. which do not improve within permanently discontinuing Columvi. anti-seizure medicinal products seizure prophylaxis. Consider neurology consultation and other specialists for further          |
+| Grade 1   | Presenting symptoms 2                                                                                                                                                                                                                                                                                                                                  | ICANS management - Concurrent CRS                                                                                                                                                                                                                                                                                                                                                                                                    | ICANS management - No concurrent CRS                                                                                                                                                                                                                   |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 1   | ICE 3 score 7-9 Or depressed level of consciousness 4 : awakens spontaneously                                                                                                                                                                                                                                                                          |  Manage CRS per Table 4.  Monitor neurologic symptoms and consider neurology consultation and evaluation, per physician discretion.                                                                                                                                                                                                                                                                                                |  Monitor neurologic symptoms and consider neurology consultation and evaluation, per physician discretion.                                                                                                                                            |
+| Grade 1   | ICE 3 score 7-9 Or depressed level of consciousness 4 : awakens spontaneously                                                                                                                                                                                                                                                                          | Withhold Columvi until ICANS resolves. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis.                                                                                                                                                                                                                                                                                         | Withhold Columvi until ICANS resolves. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis.                                                                                                           |
+| Grade 2   | ICE 3 score 3-6 Or depressed level of consciousness 4 : awakens to voice                                                                                                                                                                                                                                                                               |  Administer tocilizumab per Table 4 for management of CRS.  If no improvement after starting tocilizumab, administer dexamethasone 5 10 mg intravenously every 6 hours if not already taking other corticosteroids. Continue dexamethasone use until resolution to Grade 1 or less, then taper.                                                                                                                                    |  Administer dexamethasone 5 10 mg intravenously every 6 hours.  Continue dexamethasone use until resolution to Grade 1 or less, then taper.                                                                                                          |
+| Grade 2   | ICE 3 score 3-6 Or depressed level of consciousness 4 : awakens to voice                                                                                                                                                                                                                                                                               | Withhold Columvi until ICANS resolves. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. Consider neurology consultation and other specialists for further                                                                                                                                                                                                                       | Withhold Columvi until ICANS resolves. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. Consider neurology consultation and other specialists for further                                         |
+| Grade 3   | ICE 3 score 0-2 Or depressed level of consciousness 4 : awakens only to tactile stimulus; Or seizures 4 , either:  any clinical seizure, focal or generalised that resolves rapidly, or  non-convulsive seizures on electroencephalogram (EEG) that resolve with intervention; Or raised intracranial pressure: focal/local oedema on neuroimaging 4 | evaluation, as needed.  Administer tocilizumab per Table 4 for management of CRS.  In addition, administer dexamethasone 5 10 mg intravenously with the first dose of tocilizumab, and repeat dose every 6 hours, if not already taking other corticosteroids. Continue dexamethasone use until resolution to Grade 1 or less, then taper. Withhold Columvi until For Grade 3 ICANS events 7 days, consider evaluation, as needed. |  Administer dexamethasone 5 10 mg intravenously every 6 hours.  Continue dexamethasone use until resolution to Grade 1 or less, then taper.                                                                                                          |
+| Grade 3   | ICE 3 score 0-2 Or depressed level of consciousness 4 : awakens only to tactile stimulus; Or seizures 4 , either:  any clinical seizure, focal or generalised that resolves rapidly, or  non-convulsive seizures on electroencephalogram (EEG) that resolve with intervention; Or raised intracranial pressure: focal/local oedema on neuroimaging 4 | ICANS resolves. which do not improve within permanently discontinuing Columvi. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. Consider neurology consultation and other specialists for further                                                                                                                                                                               | ICANS resolves. which do not improve within permanently discontinuing Columvi. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. Consider neurology consultation and other specialists for further |
 
 <div style=\"page-break-after: always\"></div>
 
-| Grade 1   | Presenting symptoms 2                                                                                                                                                                                                                                                                                                                          | ICANS management                                                                                                                                                                                                                                                                                                                           | ICANS management                                                                                                                                                                                                                                                                                                                           |
-|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 1   | Presenting symptoms 2                                                                                                                                                                                                                                                                                                                          | Concurrent CRS                                                                                                                                                                                                                                                                                                                             | No concurrent CRS                                                                                                                                                                                                                                                                                                                          |
-| Grade 4   | ICE 3 score 0 Or depressed level of consciousness 4 , either:  patient is unarousable or requires vigorous or repetitive tactile stimuli to arouse, or  stupor or coma; Or seizures 4 , either:  life-threatening prolonged seizure (> 5 minutes), or  repetitive clinical or electrical seizures without return to baseline in between; 4 |  Administer tocilizumab per Table 4 for management of CRS.  As above, or consider administration of methylprednisolone 1 000 mg per day intravenously with first dose of tocilizumab, and continue methylprednisolone 1 000 mg per day intravenously for 2 or more days.                                                                 |  Administer dexamethasone 5 10 mg intravenously every 6 hours.  Continue dexamethasone use until resolution to Grade 1 or less, then taper.  Alternatively, consider administration of methylprednisolone 1 000 mg per day intravenously for 3 days; if symptoms improve, then manage as above.                                         |
-| Grade 4   | Or motor findings :  deep focal motor weakness such as hemiparesis or paraparesis; Or raised intracranial pressure/cerebral oedema 4 , with signs/symptoms, such as:  diffuse cerebral oedema on neuroimaging, or  decerebrate or decorticate posturing, or  cranial nerve VI palsy, or  papilloedema, or  Cushing's triad               | Permanently discontinue Columvi. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. Consider neurology consultation and other specialists for further evaluation, as needed. In case of raised intracranial pressure/cerebral oedema, refer to institutional guidelines for management. | Permanently discontinue Columvi. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. Consider neurology consultation and other specialists for further evaluation, as needed. In case of raised intracranial pressure/cerebral oedema, refer to institutional guidelines for management. |
+| Grade 1   | Presenting symptoms 2                                                                                                                                                                                                                                                                                                                                              | ICANS management - Concurrent CRS                                                                                                                                                                                                                                                                                                          | ICANS management - No concurrent CRS                                                                                                                                                                                                                                                                                                       |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 4   | ICE 3 score 0 Or depressed level of consciousness 4 , either:  patient is unarousable or requires vigorous or repetitive tactile stimuli to arouse, or  stupor or coma; Or seizures 4 , either:  life-threatening prolonged seizure (> 5 minutes), or  repetitive clinical or electrical seizures without return to baseline in between; Or motor findings 4 : |  Administer tocilizumab per Table 4 for management of CRS.  As above, or consider administration of methylprednisolone 1 000 mg per day intravenously with first dose of tocilizumab, and continue methylprednisolone 1 000 mg per day intravenously for 2 or more days.                                                                 |  Administer dexamethasone 5 10 mg intravenously every 6 hours.  Continue dexamethasone use until resolution to Grade 1 or less, then taper.  Alternatively, consider administration of methylprednisolone 1 000 mg per day intravenously for 3 days; if symptoms improve, then manage as above.                                         |
+| Grade 4   |  deep focal motor weakness such as hemiparesis or paraparesis; Or raised intracranial pressure/cerebral oedema 4 , with signs/symptoms, such as:  diffuse cerebral oedema on neuroimaging, or  decerebrate or decorticate posturing, or  cranial nerve VI palsy, or  papilloedema, or  Cushing's triad                                                       | Permanently discontinue Columvi. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. Consider neurology consultation and other specialists for further evaluation, as needed. In case of raised intracranial pressure/cerebral oedema, refer to institutional guidelines for management. | Permanently discontinue Columvi. Consider non-sedating, anti-seizure medicinal products (e.g., levetiracetam) for seizure prophylaxis. Consider neurology consultation and other specialists for further evaluation, as needed. In case of raised intracranial pressure/cerebral oedema, refer to institutional guidelines for management. |
 
-1  ASTCT consensus grading criteria for ICANS (Lee 2019).
+1 ASTCT consensus grading criteria for ICANS (Lee 2019).
 
 2 Management is determined by the most severe event, not attributable to any other cause.
 
 3 If patient is arousable and able to perform Immune Effector Cell-Associated Encephalopathy
 
-(ICE) Assessment , assess:
+(ICE) Assessment, assess:
 
 Orientation (oriented to year, month, city, hospital = 4 points);
 
 Naming (name 3 objects, e.g., point to clock, pen, button = 3 points);
 
-Following Commands (e.g., 'show me 2 fingers' or 'close your eyes and stick out your tongue' = 1 point);
+Following Commands (e.g., \"show me 2 fingers\" or \"close your eyes and stick out your tongue\" = 1 point);
 
 Writing (ability to write a standard sentence = 1 point);
 
@@ -393,11 +367,9 @@ The prescriber must inform the patient of the risk of CRS and ICANS and the sign
 
 ## Interaction with CYP450 substrates
 
-The initial release of cytokines associated with the start of Columvi treatment could suppress CYP450 enzymes and lead to fluctuations in concentrations of concomitantly administered drugs. On initiation
+The initial release of cytokines associated with the start of Columvi treatment could suppress CYP450 enzymes and lead to fluctuations in concentrations of concomitantly administered drugs. On initiation of Columvi therapy, patients being treated with CYP450 substrates with a narrow therapeutic index should be monitored as fluctuations in the concentration of concomitant drugs may lead to toxicity, loss of effect or adverse events (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-of Columvi therapy, patients being treated with CYP450 substrates with a narrow therapeutic index should be monitored as fluctuations in the concentration of concomitant drugs may lead to toxicity, loss of effect or adverse events (see section 4.5).
 
 ## Serious infections
 
@@ -408,6 +380,14 @@ Columvi must not be administered to patients with an active infection. Caution s
 Columvi should be temporarily withheld in the presence of an active infection until the infection has resolved. Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur.
 
 Febrile neutropenia has been reported during treatment with Columvi. Patients with febrile neutropenia should be evaluated for infection and treated promptly.
+
+## Haemophagocytic lymphohistiocytosis
+
+Haemophagocytic lymphohistiocytosis (HLH) / Immune Effector Cell Associated HLH-like Syndrome (IEC-HS), including fatal cases, has occurred in patients receiving Columvi (see section 4.8).
+
+HLH / IEC-HS is a life-threatening syndrome, characterized by fever, elevated ferritin, hepato- and/or splenomegaly, cytopenias, and hypofibrinogenemia. HLH / IEC-HS should be considered when the presentation of CRS is atypical or prolonged.
+
+Patients should be monitored for clinical signs and symptoms of HLH / IEC-HS. For suspected HLH / IEC-HS, Columvi must be interrupted and treatment for HLH / IEC-HS initiated per current practice guidelines.
 
 ## Tumour flare
 
@@ -421,6 +401,8 @@ Specific risk factors for tumour flare have not been identified, however, there 
 
 Tumour lysis syndrome (TLS) has been reported in patients receiving Columvi (see section 4.8). Patients with high tumour burden, rapidly proliferative tumours, renal dysfunction or dehydration are at greater risk of tumour lysis syndrome.
 
+<div style=\"page-break-after: always\"></div>
+
 Patients at risk should be monitored closely by appropriate laboratory and clinical tests for electrolyte status, hydration and renal function. Appropriate prophylactic measures with anti-hyperuricaemics (e.g., allopurinol or rasburicase) and adequate hydration should be considered prior to obinutuzumab pre-treatment and prior to Columvi infusion.
 
 Management of TLS may include aggressive hydration, correction of electrolyte abnormalities, anti-hyperuricaemic therapy and supportive care.
@@ -428,8 +410,6 @@ Management of TLS may include aggressive hydration, correction of electrolyte ab
 ## Immunisation
 
 The safety of immunisation with live vaccines during or following Columvi therapy has not been studied. Immunisation with live vaccines is not recommended during Columvi therapy.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Polysorbates
 
@@ -461,13 +441,13 @@ Columvi is not recommended during pregnancy and in women of childbearing potenti
 
 ## Breast-feeding
 
+<div style=\"page-break-after: always\"></div>
+
 It is not known whether glofitamab is excreted in human milk. No studies have been conducted to assess the impact of glofitamab on milk production or its presence in breast milk. Human IgG is known to be present in human milk. The potential for absorption of glofitamab and the potential for adverse reactions in the breast-feeding child is unknown. Women should be advised to discontinue breast-feeding during treatment with Columvi and for 2 months after the final dose of Columvi.
 
 ## Fertility
 
 No human data on fertility are available. No fertility assessments in animals have been performed to evaluate the effect of glofitamab on fertility (see section 5.3).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -481,7 +461,7 @@ Due to the potential for ICANS, patients receiving Columvi are at risk of depres
 
 ## Columvi monotherapy
 
-The most common adverse reactions ( ≥ 20%) were cytokine release syndrome, neutropenia, anaemia, thrombocytopenia, and rash.
+The most common adverse reactions (≥ 20%) were cytokine release syndrome, neutropenia, anaemia, thrombocytopenia, and rash.
 
 The most common serious adverse reactions reported in ≥ 2% of patients were cytokine release syndrome (22.1%), sepsis (4.1%), COVID-19 (3.4%), tumour flare (3.4%), COVID-19 pneumonia (2.8%), febrile neutropenia (2.1%), neutropenia (2.1%), and pleural effusion (2.1%).
 
@@ -489,7 +469,7 @@ Permanent discontinuation of Columvi due to an adverse reaction occurred in 5.5%
 
 ## Columvi in combination with gemcitabine and oxaliplatin
 
-The most common adverse reactions ( ≥ 20%) were thrombocytopenia, cytokine release syndrome, neutropenia, anaemia, nausea, peripheral neuropathy, diarrhoea, aspartate aminotransferase increased, alanine aminotransferase increased, rash, lymphopenia, pyrexia, and vomiting.
+The most common adverse reactions (≥ 20%) were thrombocytopenia, cytokine release syndrome, neutropenia, anaemia, nausea, peripheral neuropathy, diarrhoea, aspartate aminotransferase increased, alanine aminotransferase increased, rash, lymphopenia, pyrexia, and vomiting.
 
 The most common serious adverse reactions reported in ≥ 2% of patients were cytokine release syndrome (20.3%), pyrexia (6.4%), pneumonia (5.8%), COVID-19 (5.8%), thrombocytopenia (4.7%), respiratory tract infection (3.5%), sepsis (2.3%), febrile neutropenia (2.3%), and diarrhoea (2.3%).
 
@@ -497,100 +477,71 @@ Permanent discontinuation of Columvi due to an adverse reaction occurred in 20.9
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions occurring in relapsed or refractory DLBCL patients treated with Columvi monotherapy (n=145) in study NP30179 are listed in Table 6. Patients received a median of 5 cycles of Columvi treatment (range: 1 to 13 cycles).
+Adverse reactions occurring in relapsed or refractory DLBCL patients treated with Columvi monotherapy (n=145) in study NP30179 and from post marketing experience are listed in Table 6. Patients received a median of 5 cycles of Columvi treatment (range: 1 to 13 cycles).
+
+<div style=\"page-break-after: always\"></div>
 
 Adverse reactions occurring in relapsed or refractory DLBCL patients treated with Columvi in combination with gemcitabine and oxaliplatin (n=172) in study GO41944 (STARGLO) are listed in Table 7. Patients received a median of 11 cycles of Columvi treatment (range: 1 to 13 cycles).
 
-The adverse reactions are listed by MedDRA system organ class and categories of frequency. The following categories of frequency have been used: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+The adverse reactions are listed by MedDRA system organ class and categories of frequency. The following categories of frequency have been used: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (frequency cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+
+Table 6. Adverse reactions reported in patients with relapsed or refractory DLBCL treated with Columvi monotherapy and from post marketing experience
+
+| System organ class                                                  | Adverse reaction                                                                       | All grades   | Grade 34   |
+|---------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------|-------------|
+| Infections and infestations                                         | Viral infections 1                                                                     | Very common  | Common*     |
+| Infections and infestations                                         | Bacterial infections 2                                                                 | Common       | Common      |
+| Infections and infestations                                         | Upper respiratory tract infections 3                                                   | Common       | Very rare** |
+| Infections and infestations                                         | Sepsis 4                                                                               | Common       | Common*     |
+| Infections and infestations                                         | Lower respiratory tract infections 5                                                   | Common       | Very rare** |
+| Infections and infestations                                         | Pneumonia                                                                              | Common       | Uncommon    |
+| Infections and infestations                                         | Urinary tract infection 6                                                              | Common       | Uncommon    |
+| Infections and infestations                                         | Fungal infections 7                                                                    | Common       | Very rare** |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Tumour flare                                                                           | Very common  | Common      |
+| Blood and lymphatic system disorders                                | Neutropenia                                                                            | Very common  | Very Common |
+| Blood and lymphatic system disorders                                | Anaemia                                                                                | Very common  | Common      |
+| Blood and lymphatic system disorders                                | Thrombocytopenia                                                                       | Very common  | Common      |
+| Blood and lymphatic system disorders                                | Lymphopenia                                                                            | Common       | Common      |
+| Blood and lymphatic system disorders                                | Febrile neutropenia 8                                                                  | Common       | Common      |
+| Immune system disorders                                             | Cytokine release syndrome 9                                                            | Very common  | Common      |
+| Immune system disorders                                             | Haemophagocytic lymphohistiocytosis/ Immune Effector Cell Associated HLH-like Syndrome | Not known    | Not known   |
+| Metabolism and nutrition disorders                                  | Hypophosphataemia                                                                      | Very common  | Common      |
+| Metabolism and nutrition disorders                                  | Hypomagnesaemia                                                                        | Very common  | Very rare** |
+| Metabolism and nutrition disorders                                  | Hypocalcaemia                                                                          | Very common  | Very rare** |
+| Metabolism and nutrition disorders                                  | Hypokalaemia                                                                           | Very common  | Uncommon    |
+| Metabolism and nutrition disorders                                  | Hyponatraemia                                                                          | Common       | Common      |
+| Metabolism and nutrition disorders                                  | Tumour lysis syndrome                                                                  | Common       | Common      |
+| Psychiatric disorders                                               | Confusional state                                                                      | Common       | Very rare** |
+| Nervous system disorders                                            | Headache                                                                               | Very common  | Very rare** |
+|                                                                     | Immune effector cell-associated neurotoxicity syndrome 10                              | Common       | Uncommon*   |
+|                                                                     | Somnolence                                                                             | Common       | Uncommon    |
+|                                                                     | Tremor                                                                                 | Common       | Very rare** |
+|                                                                     | Myelitis 11                                                                            | Uncommon     | Uncommon    |
 
 <div style=\"page-break-after: always\"></div>
 
-Table 6. Adverse reactions reported in patients with relapsed or refractory DLBCL treated with Columvi monotherapy
-
-| System organ class                                                  | Adverse reaction                                          | All grades   | Grade 3  4   |
-|---------------------------------------------------------------------|-----------------------------------------------------------|--------------|---------------|
-| Infections and infestations                                         | Viral infections 1                                        | Very common  | Common*       |
-| Infections and infestations                                         | Bacterial infections 2                                    | Common       | Common        |
-| Infections and infestations                                         | Upper respiratory tract infections 3                      | Common       | Very rare **  |
-| Infections and infestations                                         | Sepsis 4                                                  | Common       | Common*       |
-| Infections and infestations                                         | Lower respiratory tract infections 5                      | Common       | Very rare**   |
-| Infections and infestations                                         | Pneumonia                                                 | Common       | Uncommon      |
-| Infections and infestations                                         | Urinary tract infection 6                                 | Common       | Uncommon      |
-| Infections and infestations                                         | Fungal infections 7                                       | Common       | Very rare**   |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Tumour flare                                              | Very common  | Common        |
-| Blood and lymphatic system disorders                                | Neutropenia                                               | Very common  | Very Common   |
-|                                                                     | Anaemia                                                   | Very common  | Common        |
-|                                                                     | Thrombocytopenia                                          | Very common  | Common        |
-|                                                                     | Lymphopenia                                               | Common       | Common        |
-|                                                                     | Febrile neutropenia 8                                     | Common       | Common        |
-| Immune system disorders                                             | Cytokine release syndrome 9                               | Very common  | Common        |
-| Metabolism and nutrition disorders                                  | Hypophosphataemia                                         | Very common  | Common        |
-| Metabolism and nutrition disorders                                  | Hypomagnesaemia                                           | Very common  | Very rare**   |
-| Metabolism and nutrition disorders                                  | Hypocalcaemia                                             | Very common  | Very rare**   |
-| Metabolism and nutrition disorders                                  | Hypokalaemia                                              | Very common  | Uncommon      |
-| Metabolism and nutrition disorders                                  | Hyponatraemia                                             | Common       | Common        |
-| Metabolism and nutrition disorders                                  | Tumour lysis syndrome                                     | Common       | Common        |
-| Psychiatric disorders                                               | Confusional state                                         | Common       | Very rare**   |
-| Nervous system disorders                                            | Headache                                                  | Very common  | Very rare**   |
-| Nervous system disorders                                            | Immune effector cell-associated neurotoxicity syndrome 10 | Common       | Uncommon*     |
-| Nervous system disorders                                            | Somnolence                                                | Common       | Uncommon      |
-| Nervous system disorders                                            | Tremor                                                    | Common       | Very rare**   |
-| Nervous system disorders                                            | Myelitis 11                                               | Uncommon     | Uncommon      |
-| Gastrointestinal disorders                                          | Constipation                                              | Very common  | Very rare**   |
-| Gastrointestinal disorders                                          | Diarrhoea                                                 | Very common  | Very rare**   |
-| Gastrointestinal disorders                                          | Nausea                                                    | Very common  | Very rare**   |
-| Gastrointestinal disorders                                          | Gastrointestinal haemorrhage 12                           | Common       | Common        |
-| Gastrointestinal disorders                                          | Vomiting                                                  | Common       | Very rare**   |
-| Gastrointestinal disorders                                          | Colitis                                                   | Uncommon     | Uncommon      |
-| Skin and subcutaneous tissue disorders                              | Rash 13                                                   | Very common  | Common        |
-| General disorders and administration site conditions                | Pyrexia                                                   | Very common  | Very rare**   |
-
-<div style=\"page-break-after: always\"></div>
-
-| System organ class   | Adverse reaction                                                                                                   | All grades                         | Grade 3  4                 |
-|----------------------|--------------------------------------------------------------------------------------------------------------------|------------------------------------|-----------------------------|
-| Investigations       | Alanine aminotransferase increased Aspartate aminotransferase Blood alkaline phosphatase Gamma-glutamyltransferase | Common Common Common Common Common | Common Common Common Common |
-| Investigations       | increased                                                                                                          |                                    |                             |
-| Investigations       | increased                                                                                                          |                                    |                             |
-| Investigations       | increased                                                                                                          |                                    |                             |
-| Investigations       | Blood bilirubin increased                                                                                          |                                    | Uncommon                    |
-| Investigations       | Hepatic enzyme increased                                                                                           | Common                             | Common                      |
-
-* Grade 5 reactions reported. See Description of selected adverse reactions.
-
-** No Grade 3-4 events were reported.
-
-1  Includes COVID-19, COVID-19 pneumonia, herpes zoster, influenza, and ophthalmic herpes zoster.
-
-2 Includes vascular device infection, bacterial infection, Campylobacter infection, biliary tract infection bacterial, urinary tract infection bacterial, Clostridium difficile infection, Escherichia infection, and peritonitis.
-
-3 Includes upper respiratory tract infection, sinusitis, nasopharyngitis, chronic sinusitis, and rhinitis.
-
-4 Includes sepsis and septic shock.
-
-5 Includes lower respiratory tract infection and bronchitis.
-
-6 Includes urinary tract infection and Escherichia urinary tract infection.
-
-7 Includes oesophageal candidiasis and oral candidiasis.
-
-8 Includes febrile neutropenia and neutropenic infection.
-
-9  Based on ASTCT consensus grading (Lee 2019).
-
-10  ICANS based on Lee 2019 and includes somnolence, cognitive disorder, confusional state, delirium, and disorientation.
-
-11  Myelitis occurred concurrently with CRS.
-
-12 Includes gastrointestinal haemorrhage, large intestinal haemorrhage, and gastric haemorrhage.
-
-13 Includes rash, rash pruritic, rash maculo-papular, dermatitis, dermatitis acneiform, dermatitis exfoliative, erythema, palmar erythema, pruritis, and rash erythematous.
+| System organ class                                   | Adverse reaction                     | All grades   | Grade 34   |
+|------------------------------------------------------|--------------------------------------|--------------|-------------|
+| Gastrointestinal disorders                           | Constipation                         | Very common  | Very rare** |
+| Gastrointestinal disorders                           | Diarrhoea                            | Very common  | Very rare** |
+| Gastrointestinal disorders                           | Nausea                               | Very common  | Very rare** |
+| Gastrointestinal disorders                           | Gastrointestinal haemorrhage 12      | Common       | Common      |
+| Gastrointestinal disorders                           | Vomiting                             | Common       | Very rare** |
+| Gastrointestinal disorders                           | Colitis                              | Uncommon     | Uncommon    |
+| Skin and subcutaneous tissue disorders               | Rash 13                              | Very common  | Common      |
+| General disorders and administration site conditions | Pyrexia                              | Very common  | Very rare** |
+| Investigations                                       | Alanine aminotransferase increased   | Common       | Common      |
+| Investigations                                       | Aspartate aminotransferase increased | Common       | Common      |
+| Investigations                                       | Blood alkaline phosphatase increased | Common       | Common      |
+| Investigations                                       | Gamma-glutamyltransferase increased  | Common       | Common      |
+| Investigations                                       | Blood bilirubin increased            | Common       | Uncommon    |
+| Investigations                                       | Hepatic enzyme increased             | Common       | Common      |
 
 <div style=\"page-break-after: always\"></div>
 
 Table 7. Adverse reactions reported in patients with relapsed or refractory DLBCL treated with Columvi in combination with gemcitabine and oxaliplatin
 
-| System organ class                                                  | Adverse reaction                                          | All grades   | Grade 3  4     |
+| System organ class                                                  | Adverse reaction                                          | All grades   | Grade 34       |
 |---------------------------------------------------------------------|-----------------------------------------------------------|--------------|-----------------|
 | Infections and infestations                                         | COVID-19 1                                                | Very common  | Common*         |
 | Infections and infestations                                         | Respiratory tract infections 2                            | Very common  | Common*         |
@@ -609,11 +560,11 @@ Table 7. Adverse reactions reported in patients with relapsed or refractory DLBC
 |                                                                     | Febrile neutropenia                                       | Common       | Common          |
 | Immune system disorders                                             | Cytokine release syndrome 10                              | Very common  | Common          |
 | Metabolism and nutrition disorders                                  | Hypokalaemia                                              | Very common  | Common          |
-| Metabolism and nutrition disorders                                  | Hyponatraemia                                             | Very common  | Uncommon        |
-| Metabolism and nutrition disorders                                  | Hypomagnesaemia                                           | Common       | Very rare**     |
-| Metabolism and nutrition disorders                                  | Hypocalcaemia                                             | Common       | Uncommon        |
-| Metabolism and nutrition disorders                                  | Hypophosphataemia                                         | Common       | Common          |
-| Metabolism and nutrition disorders                                  | Tumour lysis syndrome                                     | Common       | Common          |
+|                                                                     | Hyponatraemia                                             | Very common  | Uncommon        |
+|                                                                     | Hypomagnesaemia                                           | Common       | Very rare**     |
+|                                                                     | Hypocalcaemia                                             | Common       | Uncommon        |
+|                                                                     | Hypophosphataemia                                         | Common       | Common          |
+|                                                                     | Tumour lysis syndrome                                     | Common       | Common          |
 | Nervous system disorders                                            | Peripheral neuropathy 11                                  | Very common  | Common          |
 | Nervous system disorders                                            | Immune effector cell-associated neurotoxicity syndrome 12 | Common       | Uncommon        |
 | Nervous system disorders                                            | Headache                                                  | Common       | Very rare**     |
@@ -631,56 +582,16 @@ Table 7. Adverse reactions reported in patients with relapsed or refractory DLBC
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Adverse reaction                      | All grades   | Grade 3  4   |
-|------------------------------------------------------|---------------------------------------|--------------|---------------|
-| General disorders and administration site conditions | Pyrexia                               | Very common  | Uncommon      |
-| Investigations                                       | Aspartate aminotransferase increased  | Very common  | Common        |
-| Investigations                                       | Alanine aminotransferase increased    | Very common  | Common        |
-| Investigations                                       | Blood alkaline phosphatase increased  | Very common  | Uncommon      |
-| Investigations                                       | Gamma-glutamyltransferase increased   | Very common  | Common        |
-| Investigations                                       | Blood lactate dehydrogenase increased | Very common  | Very rare**   |
-| Investigations                                       | Blood bilirubin increased 18          | Common       | Very rare**   |
-| Investigations                                       | Hepatic enzyme increased              | Uncommon     | Very rare**   |
-
-* Grade 5 reactions reported. See Description of selected adverse reactions .
-
-** No Grade 3-4 events were reported.
-
-1  Includes COVID-19, COVID-19 pneumonia, and SARS-CoV-2 test positive.
-
-2 Includes upper respiratory tract infection, lower respiratory tract infection, respiratory tract infection, and respiratory tract infection bacterial.
-
-3  Includes pneumonia, pneumonia bacterial, and pneumonia pneumococcal.
-
-4  New onset or reactivation. Includes cytomegalovirus infection, cytomegalovirus test positive, cytomegalovirus infection reactivation and cytomegalovirus viraemia.
-
-5 New onset or reactivation. Includes herpes zoster and herpes virus infection.
-
-6 Includes urinary tract infection and urosepsis.
-
-7 Includes sepsis, streptococcal sepsis, septic shock, and enterococcal sepsis.
-
-8 Includes oral candidiasis and candida infection.
-
-9  Includes tumour flare and tumour pain.
-
-10  Based on ASTCT consensus grading (Lee 2019).
-
-11 Includes neuropathy peripheral, peripheral sensory neuropathy, dysaesthesia, paraesthesia, hypoaesthesia, peripheral motor neuropathy, and polyneuropathy.
-
-12  Includes confusional state, delirium, and ICANS.
-
-13  Includes abdominal pain, abdominal discomfort, abdominal pain upper, abdominal pain lower, and gastrointestinal pain.
-
-14 Includes colitis, colitis ischaemic, and enterocolitis.
-
-15 Includes pancreatitis and pancreatitis acute.
-
-16 Includes rash, rash pruritic, rash maculo-papular, erythema, pruritus, rash erythematous, urticaria, and erythema multiforme.
-
-17 Includes arthralgia, musculoskeletal pain, back pain, bone pain, myalgia, neck pain, pain in extremity, musculoskeletal chest pain, and non-cardiac chest pain.
-
-18 Includes blood bilirubin increased and hyperbilirubinaemia.
+| System organ class                                   | Adverse reaction                      | All grades   | Grade 34   |
+|------------------------------------------------------|---------------------------------------|--------------|-------------|
+| General disorders and administration site conditions | Pyrexia                               | Very common  | Uncommon    |
+| Investigations                                       | Aspartate aminotransferase increased  | Very common  | Common      |
+| Investigations                                       | Alanine aminotransferase increased    | Very common  | Common      |
+| Investigations                                       | Blood alkaline phosphatase increased  | Very common  | Uncommon    |
+| Investigations                                       | Gamma-glutamyltransferase increased   | Very common  | Common      |
+| Investigations                                       | Blood lactate dehydrogenase increased | Very common  | Very rare** |
+| Investigations                                       | Blood bilirubin increased 18          | Common       | Very rare** |
+| Investigations                                       | Hepatic enzyme increased              | Uncommon     | Very rare** |
 
 ## Description of selected adverse reactions
 
@@ -688,11 +599,9 @@ The descriptions below reflect information for significant adverse reactions for
 
 ## Cytokine release syndrome Columvi monotherapy
 
-Any grade CRS (by ASTCT criteria) occurred in 67.6% of patients who received Columvi monotherapy, with Grade 1 CRS reported in 50.3% of patients, Grade 2 CRS in 13.1% of patients, Grade 3 CRS in 2.8% of patients and Grade 4 CRS in 1.4% of patients. CRS occurred more than once in 32.4% (47/145) of patients; 36/47 patients experienced multiple Grade 1 CRS events only. There
+Any grade CRS (by ASTCT criteria) occurred in 67.6% of patients who received Columvi monotherapy, with Grade 1 CRS reported in 50.3% of patients, Grade 2 CRS in 13.1% of patients, Grade 3 CRS in 2.8% of patients and Grade 4 CRS in 1.4% of patients. CRS occurred more than once in 32.4% (47/145) of patients; 36/47 patients experienced multiple Grade 1 CRS events only. There were no fatal cases of CRS. CRS resolved in all patients except one. One patient discontinued treatment due to CRS.
 
 <div style=\"page-break-after: always\"></div>
-
-were no fatal cases of CRS. CRS resolved in all patients except one. One patient discontinued treatment due to CRS.
 
 In patients with CRS, the most common manifestations of CRS included pyrexia (99.0%), tachycardia (25.5%), hypotension (23.5%), chills (14.3%) and hypoxia (12.2%). Grade 3 or higher events associated with CRS included hypotension (3.1%), hypoxia (3.1%), pyrexia (2.0%) and tachycardia (2.0%).
 
@@ -812,11 +721,9 @@ In study GO41944 (STARGLO), 16/172 patients who were exposed to Columvi experien
 
 ## Columvi monotherapy
 
-An open-label multicentre, multi-cohort trial (NP30179) was conducted to evaluate Columvi in patients with relapsed or refractory B-cell non-Hodgkin's lymphoma. In the single-arm monotherapy DLBCL cohort (n=108), patients with relapsed or refractory DLBCL were required to have received at least two prior lines of systemic therapy, including an anti-CD20 monoclonal antibody and an anthracycline agent. Patients with FL3b and Richter transformation were not eligible. Patients were
+An open-label multicentre, multi-cohort trial (NP30179) was conducted to evaluate Columvi in patients with relapsed or refractory B-cell non-Hodgkin's lymphoma. In the single-arm monotherapy DLBCL cohort (n=108), patients with relapsed or refractory DLBCL were required to have received at least two prior lines of systemic therapy, including an anti-CD20 monoclonal antibody and an anthracycline agent. Patients with FL3b and Richter transformation were not eligible. Patients were expected to present CD20-positive DLBCL, but biomarker eligibility was not a requirement for inclusion (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-expected to present CD20-positive DLBCL, but biomarker eligibility was not a requirement for inclusion (see section 4.4).
 
 The study excluded patients with ECOG performance status ≥ 2, significant cardiovascular disease (such as New York Heart Association Class III or IV cardiac disease, myocardial infarction within the last 6 months, unstable arrhythmias, or unstable angina), significant active pulmonary disease, impaired renal functions (CrCL &lt; 50 mL/min with elevated serum creatinine level), active autoimmune disease requiring immunosuppressive therapy, active infections (i.e., chronic active EBV, acute or chronic hepatitis C, hepatitis B, HIV), progressive multifocal leukoencephalopathy, current or a history of CNS lymphoma or CNS disease, a history of macrophage activation syndrome / hemophagocytic lymphohistiocytosis, prior allogeneic stem cell transplant, prior organ transplantation, or hepatic transaminases ≥ 3 × ULN.
 
@@ -842,11 +749,11 @@ Table 8. Summary of efficacy in patients with relapsed or refractory DLBCL
 | 95% CI                           | [40.22, 59.78]      |
 | Duration of complete response 1  |                     |
 | Median DOCR, months [95% CI]     | NE [18.4, NE]       |
-| Range, months                    | 0 2  20 2          |
-| 12-month DOCR, %[95% CI] 3       | 74.6 [59.19, 89.93] |
+| Range, months                    | 0 220 2            |
+| 12-month DOCR, % [95% CI] 3      | 74.6 [59.19, 89.93] |
 | Duration of response 4           |                     |
 | Median duration, months [95% CI] | 14.4 [8.6, NE]      |
-| Range, months                    | 0 2  20 2          |
+| Range, months                    | 0 220 2            |
 | Time to first complete response  |                     |
 | Median TFCR, days [95% CI]       | 42 [41, 47]         |
 | Range, days                      | 31-308              |
@@ -857,9 +764,9 @@ Hypothesis testing was conducted on the primary endpoint of IRC-assessed CR rate
 
 1 DOCR is defined as the date of first complete response until disease progression or death due to any cause.
 
-2  Censored observations.
+2 Censored observations.
 
-3  Event-free rates based on Kaplan-Meier estimates.
+3 Event-free rates based on Kaplan-Meier estimates.
 
 4 DOR is defined as the date of first response (PR or CR) until disease progression or death due to any cause.
 
@@ -889,23 +796,22 @@ Overall survival, PFS, and CR results from an updated analysis conducted after a
 
 Table 9. Efficacy in patients with relapsed or refractory DLBCL treated with Columvi in combination with gemcitabine and oxaliplatin (ITT)
 
-|                                          | Updated analysis (median observation time=20.7 months)   | Updated analysis (median observation time=20.7 months)   |
-|------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
-| Efficacy endpoints                       | Columvi+GemOx N=183                                      | R-GemOx N=91                                             |
-| Overall survival                         |                                                          |                                                          |
-| Number (%) of deaths                     | 80 (43.7)                                                | 52 (57.1)                                                |
-| Median (95% CI), months                  | 25.5 (18.3, NE)                                          | 12.9 (7.9, 18.5)                                         |
-| HR (95% CI)                              | 0.62 (0.43, 0.88)                                        | 0.62 (0.43, 0.88)                                        |
-| Progression-free survival - IRC-assessed |                                                          |                                                          |
-| Number (%) of patients with events       | 90 (49.2)                                                | 54 (59.3)                                                |
-| Median (95% CI), months                  | 13.8 (8.7, 20.5)                                         | 3.6 (2.5, 7.1)                                           |
-| HR (95% CI)                              | 0.40 (0.28, 0.57)                                        | 0.40 (0.28, 0.57)                                        |
-| Complete response rate - IRC-assessed    |                                                          |                                                          |
-| Responders (%)                           | 107 (58.5)                                               | 23 (25.3)                                                |
-| Difference in response rate (95% CI),%   | 33.2 (20.9, 45.5)                                        | 33.2 (20.9, 45.5)                                        |
-| Objective response rate - IRC-assessed   |                                                          |                                                          |
-| Responders (%) (CR, PR)                  | 125 (68.3)                                               | 37 (40.7)                                                |
-| Difference in response rate (95% CI),%   | 27.7 (14.7, 40.6)                                        | 27.7 (14.7, 40.6)                                        |
+| Efficacy endpoints                       | Updated analysis (median observation time=20.7 months) - Columvi+GemOx N=183   | Updated analysis (median observation time=20.7 months) - R-GemOx N=91   |
+|------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Overall survival                         |                                                                                |                                                                         |
+| Number (%) of deaths                     | 80 (43.7)                                                                      | 52 (57.1)                                                               |
+| Median (95% CI), months                  | 25.5 (18.3, NE)                                                                | 12.9 (7.9, 18.5)                                                        |
+| HR (95% CI)                              | 0.62 (0.43, 0.88)                                                              | 0.62 (0.43, 0.88)                                                       |
+| Progression-free survival - IRC-assessed |                                                                                |                                                                         |
+| Number (%) of patients with events       | 90 (49.2)                                                                      | 54 (59.3)                                                               |
+| Median (95% CI), months                  | 13.8 (8.7, 20.5)                                                               | 3.6 (2.5, 7.1)                                                          |
+| HR (95% CI)                              | 0.40 (0.28, 0.57)                                                              | 0.40 (0.28, 0.57)                                                       |
+| Complete response rate - IRC-assessed    |                                                                                |                                                                         |
+| Responders (%)                           | 107 (58.5)                                                                     | 23 (25.3)                                                               |
+| Difference in response rate (95% CI), %  | 33.2 (20.9, 45.5)                                                              | 33.2 (20.9, 45.5)                                                       |
+| Objective response rate - IRC-assessed   |                                                                                |                                                                         |
+| Responders (%) (CR, PR)                  | 125 (68.3)                                                                     | 37 (40.7)                                                               |
+| Difference in response rate (95% CI), %  | 27.7 (14.7, 40.6)                                                              | 27.7 (14.7, 40.6)                                                       |
 
 CI=confidence interval; HR=hazard ratio; NE=not estimable.
 
@@ -1019,11 +925,7 @@ From a microbiological point of view, the diluted solution should be used immedi
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C).
-
-Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions after dilution of the medicinal product, see section 6.3.
 
@@ -1035,7 +937,7 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 Pack size of 1 vial.
 
-## Columvi 10 mg concentrate for solution for infusion
+Columvi 10 mg concentrate for solution for infusion
 
 10 mL concentrate for solution for infusion in a 15 mL vial (colourless Type I glass) with stopper (butyl rubber).
 
@@ -1092,7 +994,7 @@ Do not administer as an intravenous push or bolus.
 
 Administer as an intravenous infusion through a dedicated infusion line using an intravenous infusion pump or syringe pump, over a maximum of 8 hours.
 
-Once the Columvi infusion bag or syringe is empty, ensure the entire dose of Columvi is administered by clearing the infusion line with an infusion bag or syringe containing sodium chloride 9 mg/mL (0.9%) solution for injection or sodium chloride 4.5 mg/mL (0.45%) solution for injection. Continue the infusion at the same rate according to Table 2.
+Once the Columvi infusion bag or syringe is empty, ensure the entire dose of Columvi is administered by clearing the infusion line with an infusion bag or syringe containing sodium chloride 9 mg/mL (0.9%) solution for injection or sodium chloride 4.5 mg/mL (0.45%) solution for injection. Continue the infusion at the same rate according to Table 2 and Table 3.
 
 ## Incompatibilities
 
@@ -1106,7 +1008,7 @@ When diluted with sodium chloride 9 mg/mL (0.9%) or 4.5 mg/mL (0.45%) solution f
 
 No incompatibilities have been observed with infusion sets with product-contacting surfaces of polyurethane (PUR), PVC, PE, polybutadiene (PBD), polyetherurethane (PEU), polycarbonate (PC), silicone, polytetrafluoroethylene (PTFE) or acrylonitrile butadiene styrene (ABS), and in-line filter membranes composed of polyethersulfone (PES) or polysulfone. The use of in-line filter membranes is optional.
 
-## Disposal
+Disposal
 
 Columvi vial is for single use only.
 
@@ -1280,7 +1182,8 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including braille accepted.
 
@@ -1298,13 +1201,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Columvi 2.5 mg sterile concentrate for solution for infusion glofitamab Intravenous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 IV after dilution
 
@@ -1313,12 +1220,13 @@ IV after dilution
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2.5 mg/2.5 mL
 
@@ -1398,8 +1306,10 @@ EU/1/23/1742/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including braille accepted.
 
@@ -1417,29 +1327,37 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Columvi 10 mg sterile concentrate for solution for infusion glofitamab Intravenous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 IV after dilution
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 10 mg/10 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1447,9 +1365,13 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Package leaflet: Information for the patient
 
-## Columvi 2.5 mg concentrate for solution for infusion Columvi 10 mg concentrate for solution for infusion
+## Columvi 2.5 mg concentrate for solution for infusion
+
+## Columvi 10 mg concentrate for solution for infusion
 
 glofitamab
 
@@ -1458,8 +1380,8 @@ This medicine is subject to additional monitoring. This will allow quick identif
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
 -  Keep this leaflet. You may need to read it again.
-- -Your doctor will give you a Patient Card. Read it carefully and follow the instructions on it. Keep this Patient Card with you at all times.
-- -Always show the Patient Card to the doctor or nurse when you see them or if you go to hospital.
+- Your doctor will give you a Patient Card. Read it carefully and follow the instructions on it. Keep this Patient Card with you at all times.
+- Always show the Patient Card to the doctor or nurse when you see them or if you go to hospital.
 -  If you have any further questions, ask your doctor or nurse.
 -  If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
@@ -1480,7 +1402,7 @@ Columvi is a cancer medicine that contains the active substance glofitamab.
 
 ## What Columvi is used for
 
-Columvi is used to treat adults with a cancer called 'diffuse large B-cell lymphoma' (DLBCL). Columvi can be given alone (monotherapy) or with other medicines called chemotherapy.
+Columvi is used to treat adults with a cancer called \"diffuse large B-cell lymphoma\" (DLBCL). Columvi can be given alone (monotherapy) or with other medicines called chemotherapy.
 
 -  Columvi is given alone when the cancer has come back (relapsed) or did not respond to previous treatments (refractory) and you received two or more prior therapies.
 -  Columvi is given with the medicines gemcitabine and oxaliplatin when the cancer has come back (relapsed) or did not respond to previous treatments (refractory) and when you cannot receive a stem cell transplant.
@@ -1524,12 +1446,13 @@ Tell your doctor straight away if you experience any of the following side effec
 
 -  Cytokine release syndrome: an exaggerated inflammatory condition associated with medicines that stimulate T cells, characterised by fever and impairment to multiple organs in the body. Cytokine release syndrome is more likely to occur during Cycle 1 after Columvi is given (see section 3 'How Columvi is given'). Close monitoring is needed. Before each infusion, you may be given medicines, which help reduce possible side effects of cytokine release syndrome.
 -  Immune effector cell-associated neurotoxicity syndrome: Effects on the nervous system. Symptoms include feeling confused, disoriented, feeling less alert, having seizure or having difficulty writing and/or speaking. Close monitoring is needed.
--  Tumour lysis syndrome: some people may get unusual levels of some salts in the blood (such as potassium and uric acid) - caused by the fast breakdown of cancer cells during treatment. Your doctor or nurse will do blood tests to check for this condition. Before each infusion, you should be well-hydrated and may be given medicines that can help reduce high levels of uric acid. These may help reduce possible side effects of tumour lysis syndrome.
+-  Infections: you may get signs of infection, which can vary depending on where in the body the infection is.
+-  Haemophagocytic lymphohistiocytosis (HLH) / Immune Effector Cell Associated HLHlike Syndrome (IEC-HS): a condition where the immune system makes too many infectionfighting cells called histiocytes and lymphocytes. It can lead to enlarged liver and/or spleen. Symptoms include fever and lymph node enlargement.
 -  Tumour flare: a reaction to certain medicines that act on the immune system which is/appears similar to worsening of the cancer.
 
 <div style=\"page-break-after: always\"></div>
 
--  Infections: you may get signs of infection, which can vary depending on where in the body the infection is.
+-  Tumour lysis syndrome: some people may get unusual levels of some salts in the blood (such as potassium and uric acid) - caused by the fast breakdown of cancer cells during treatment. Your doctor or nurse will do blood tests to check for this condition. Before each infusion, you should be well-hydrated and may be given medicines that can help reduce high levels of uric acid. These may help reduce possible side effects of tumour lysis syndrome.
 
 If you have, or think you may have, any of the above symptoms tell your doctor straight away. Your doctor may:
 
@@ -1568,17 +1491,17 @@ This medicine contains 1.25 mg of polysorbate 20 in each 2.5 mL vial and 5 mg of
 
 ## 3. How Columvi is given
 
-You will be given Columvi under the supervision of a doctor experienced in cancer treatment, in a hospital or clinic.
-
 <div style=\"page-break-after: always\"></div>
+
+You will be given Columvi under the supervision of a doctor experienced in cancer treatment, in a hospital or clinic.
 
 ## Medicines given before Columvi treatment
 
--  Seven days before starting Columvi treatment , you will be given another medicine, obinutuzumab, to reduce the number of B cells in your blood.
--  30 to 60 minutes before you are given Columvi , you may be given other medicines (premedication) to help reduce reactions associated with cytokine release syndrome. These medicines may include:
-- -A corticosteroid such as dexamethasone
-- -A fever-reducing medicine such as paracetamol
-- -An antihistamine such as diphenhydramine
+-  Seven days before starting Columvi treatment, you will be given another medicine, obinutuzumab, to reduce the number of B cells in your blood.
+-  30 to 60 minutes before you are given Columvi, you may be given other medicines (premedication) to help reduce reactions associated with cytokine release syndrome. These medicines may include:
+- A corticosteroid such as dexamethasone
+- A fever-reducing medicine such as paracetamol
+- An antihistamine such as diphenhydramine
 
 ## How much and how often you will receive Columvi
 
@@ -1612,9 +1535,9 @@ If you miss an appointment, make another one straight away. For the treatment to
 
 Speak with your doctor before stopping treatment. This is because stopping treatment may make your condition worse.
 
-If you have any further questions on the use of this medicine, ask your doctor or nurse.
-
 <div style=\"page-break-after: always\"></div>
+
+If you have any further questions on the use of this medicine, ask your doctor or nurse.
 
 ## 4. Possible side effects
 
@@ -1627,6 +1550,7 @@ Tell your doctor straight away if you get any of the serious side effects listed
 -  Cytokine release syndrome (very common): symptoms may include, but are not limited to, fever, fast heartbeat, feeling dizzy or lightheaded, nausea, headache, rash, confusion, chills, shortness of breath
 -  Immune effector cell-associated neurotoxicity syndrome (common): symptoms may include, but are not limited to, confusion, disorientation, feeling less alert, seizures, or having difficulty writing and/or speaking
 -  Infections (very common): symptoms may include, but are not limited to, fever, chills, difficulty breathing, burning pain when passing urine
+-  Haemophagocytic lymphohistiocytosis(HLH) / Immune Effector Cell Associated HLH-like Syndrome (IEC-HS) (unknown frequency): signs and symptoms include fever, enlarged liver and/or spleen, and lymph node enlargement.
 -  Tumour flare (very common): symptoms may include, but are not limited to, tender swollen lymph nodes, chest pain, inability to breathe easily, pain at the site of the tumour
 -  Tumour lysis syndrome (common): symptoms may include, but are not limited to, weakness, shortness of breath, feeling confused, irregular heartbeat, muscle cramps
 
@@ -1639,9 +1563,9 @@ Tell your doctor or nurse straight away if you notice any of the following side 
 ## Very common (may affect more than 1 in 10 people)
 
 -  lowered levels, as measured in blood tests, of:
-- -neutrophils (a type of white blood cell; neutropenia), which may cause fever or any symptoms of an infection
-- -red blood cells (anaemia), which may cause tiredness, feeling unwell and pale skin
-- -platelets (a type of blood cell; thrombocytopenia), which may cause bruising or bleeding
+- neutrophils (a type of white blood cell; neutropenia), which may cause fever or any symptoms of an infection
+- red blood cells (anaemia), which may cause tiredness, feeling unwell and pale skin
+- platelets (a type of blood cell; thrombocytopenia), which may cause bruising or bleeding
 -  fever
 -  low levels, as measured in blood tests, of phosphate, magnesium, calcium or potassium
 -  rash
@@ -1654,11 +1578,11 @@ Tell your doctor or nurse straight away if you notice any of the following side 
 ## Common (may affect up to 1 in 10 people)
 
 -  low sodium levels, as measured in blood tests, which may cause tiredness, muscle twitching or cramps
--  increased levels, as measured in blood tests, of liver enzymes and bilirubin (yellow substance in blood), which may cause yellowing of skin or eyes, and dark urine
--  bacterial infections, such as urinary tract infection, infection in or around the stomach
 
 <div style=\"page-break-after: always\"></div>
 
+-  increased levels, as measured in blood tests, of liver enzymes and bilirubin (yellow substance in blood), which may cause yellowing of skin or eyes, and dark urine
+-  bacterial infections, such as urinary tract infection, infection in or around the stomach
 -  fungal infection
 -  nose and throat infections (upper respiratory tract infections)
 -  infections of the lungs such as bronchitis or pneumonia (lower respiratory tract infections), which may cause fever, cough, and difficulty breathing
@@ -1681,10 +1605,10 @@ Tell your doctor or nurse straight away if you notice any of the following side 
 ## Very common (may affect more than 1 in 10 people)
 
 -  lowered levels, as measured in blood tests, of:
-- -platelets (a type of blood cell; thrombocytopenia), which may cause bruising or bleeding
-- -neutrophils (a type of white blood cell; neutropenia), which may cause fever or any symptoms of an infection
-- -red blood cells (anaemia), which may cause tiredness, feeling unwell and pale skin
-- -lymphocytes (a type of white blood cell; lymphopenia), that may affect the body's ability to fight infection
+- platelets (a type of blood cell; thrombocytopenia), which may cause bruising or bleeding
+- neutrophils (a type of white blood cell; neutropenia), which may cause fever or any symptoms of an infection
+- red blood cells (anaemia), which may cause tiredness, feeling unwell and pale skin
+- lymphocytes (a type of white blood cell; lymphopenia), that may affect the body's ability to fight infection
 -  feeling sick (nausea)
 -  numbness, tingling, a burning sensation, pain, discomfort or weakness and/or difficulty walking (peripheral neuropathy)
 -  diarrhoea
@@ -1705,12 +1629,12 @@ Tell your doctor or nurse straight away if you notice any of the following side 
 -  headache
 -  low levels in blood tests of magnesium, calcium, or phosphate
 -  new or recurring viral infections, such as shingles and cytomegalovirus infection
--  bacterial infections, such as urinary tract infection
--  infection in blood (sepsis), which may cause fever, chills, and confusion
--  fungal infection
 
 <div style=\"page-break-after: always\"></div>
 
+-  bacterial infections, such as urinary tract infection
+-  infection in blood (sepsis), which may cause fever, chills, and confusion
+-  fungal infection
 -  increased level of bilirubin in the blood which may cause yellowing of skin or eyes
 -  fever with low levels of neutrophils (a type of white blood cell)
 -  inflammation of the large bowel (colitis), which may cause abdominal pain, bloody stools and urge to have a bowel movement
@@ -1753,11 +1677,11 @@ Any unused medicine or waste material should be disposed of in accordance with l
 
 ## What Columvi looks like and contents of the pack
 
+<div style=\"page-break-after: always\"></div>
+
 Columvi concentrate for solution for infusion (sterile concentrate) is a colourless, clear solution provided in a glass vial.
 
 Each pack of Columvi contains one vial.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -1771,9 +1695,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien, Luxembourg/Luxemburg
 
-N.V. Roche S.A.
-
-België/Belgique/Belgien
+N.V. Roche S.A. België/Belgique/Belgien
 
 Tél/Tel: +32 (0) 2 525 82 11
 
@@ -1781,11 +1703,9 @@ Tél/Tel: +32 (0) 2 525 82 11
 
 Рош България ЕООД
 
-Тел
+Тел.: +359 2 474 5444
 
-.: +359 2 474 5444
-
-## Č eská republika
+## Česká republika
 
 Roche s. r. o.
 
@@ -1809,43 +1729,23 @@ Roche Eesti OÜ
 
 Tel: +372 - 6 177 380
 
-## Ελλάδα , Κύπρος
+## Ελλάδα, Κύπρος
 
 Roche (Hellas) A.E. Ελλάδα
 
-Τηλ
-
-: +30 210 61 66 100
-
-## España
-
-Roche Farma S.A.
-
-Tel: +34 - 91 324 81 00
-
-## France
-
-Roche
-
-Tél: +33 (0) 1 47 61 40 00
+Τηλ: +30 210 61 66 100
 
 ## Latvija
 
-Roche Latvija SIA
-
-Tel: +371 - 6 7039831
+Roche Latvija SIA Tel: +371 - 6 7039831
 
 ## Lietuva
 
-UAB 'Roche Lietuva'
-
-Tel: +370 5 2546799
+UAB \"Roche Lietuva\" Tel: +370 5 2546799
 
 ## Magyarország
 
-Roche (Magyarország) Kft.
-
-Tel.: +36 - 1 279 4500
+Roche (Magyarország) Kft. Tel.: +36 - 1 279 4500
 
 ## Nederland
 
@@ -1871,6 +1771,50 @@ Roche Polska Sp.z o.o.
 
 Tel.: +48 - 22 345 18 88
 
+<div style=\"page-break-after: always\"></div>
+
+## España
+
+Roche Farma S.A.
+
+Tel: +34 - 91 324 81 00
+
+## France
+
+Roche
+
+Tél: +33 (0) 1 47 61 40 00
+
+## Hrvatska
+
+Roche d.o.o.
+
+Tel: +385 1 4722 333
+
+## Ireland, Malta
+
+Roche Products (Ireland) Ltd.
+
+Ireland/L-Irlanda
+
+Tel: +353 (0) 1 469 0700
+
+## Ísland
+
+Roche Pharmaceuticals A/S c/o Icepharma hf Sími: +354 540 8000
+
+## Italia
+
+Roche S.p.A.
+
+Tel: +39 - 039 2471
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
 ## Portugal
 
 Roche Farmacêutica Química, Lda
@@ -1883,23 +1827,11 @@ Roche România S.R.L.
 
 Tel: +40 21 206 47 01
 
-## Hrvatska
-
-Roche d.o.o.
-
-Tel: +385 1 4722 333
-
 ## Slovenija
 
 Roche farmacevtska družba d.o.o.
 
 Tel: +386 - 1 360 26 00
-
-## Ireland, Malta
-
-Roche Products (Ireland) Ltd. Ireland/L-Irlanda
-
-Tel: +353 (0) 1 469 0700
 
 ## Slovenská republika
 
@@ -1907,37 +1839,17 @@ Roche Slovensko, s.r.o.
 
 Tel: +421 - 2 52638201
 
-## Ísland
-
-Roche Pharmaceuticals A/S c/o Icepharma hf
-
-Sími: +354 540 8000
-
 ## Suomi/Finland
 
 Roche Oy
 
 Puh/Tel: +358 (0) 10 554 500
 
-## Italia
-
-Roche S.p.A.
-
-Tel: +39 - 039 2471
-
 ## Sverige
 
 Roche AB
 
 Tel: +46 (0) 8 726 1200
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 

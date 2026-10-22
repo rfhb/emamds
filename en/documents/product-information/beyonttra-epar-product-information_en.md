@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-05 14:45:10
-document_pages: 26
+document_datetime: 2026-10-20 09:28:33
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/beyonttra-epar-product-information_en.pdf
 document_name: beyonttra-epar-product-information_en.pdf
 version: success
-processing_time: 6.3684762
-conversion_datetime: 2025-12-27 14:50:27.16539
+processing_time: 10.3437528
+conversion_datetime: 2026-10-22 22:35:18.057322
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -38,7 +38,7 @@ For the full list of excipients, see section 6.1.
 
 Film-coated tablet (tablet).
 
-White, oval film-coated tablets, approximately 15 mm × 7.5 mm, printed with 'BEYONTTRA' in black ink on one side.
+White, oval film-coated tablets, approximately 15 mm × 7.5 mm, printed with \"BEYONTTRA\" in black ink on one side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -62,7 +62,7 @@ No double dose should be taken to make up for missed individual doses. Dosing sh
 
 ## Special populations
 
-## Elderly
+Elderly
 
 No dose adjustment is required in elderly patients (≥ 65 years, see section 5.2).
 
@@ -78,7 +78,7 @@ Acoramidis has not been studied in patients with hepatic impairment and therefor
 
 ## Paediatric population
 
-There is no relevant use of acoramidis in the paediatric population for the indication of 'the treatment of wild-type or variant transthyretin amyloidosis with cardiomyopathy'.
+There is no relevant use of acoramidis in the paediatric population for the indication of \"the treatment of wild-type or variant transthyretin amyloidosis with cardiomyopathy\".
 
 ## Method of administration
 
@@ -124,7 +124,7 @@ Based on a clinical study in healthy adult volunteers, inhibition of organic ani
 
 Based on an in vitro study, no drug-drug interaction with co-administered breast cancer resistance protein (BCRP) substrates is anticipated at clinically relevant concentrations.
 
-Based on in vitro studies, acoramidis is unlikely to cause any clinically relevant uridine 5'-diphospho (UDP)-glucuronosyl transferase-dependent or Cytochrome P450-dependent interactions. However, acoramidis was shown to be an inhibitor of CYP2C8 and CYP2C9 in vitro . No in vivo study has been performed. Therefore, concomitant CYP2C8 and CYP2C9 substrates with narrow therapeutic index should be used with caution.
+Based on in vitro studies, acoramidis is unlikely to cause any clinically relevant uridine 5'-diphospho (UDP)-glucuronosyl transferase-dependent or Cytochrome P450-dependent interactions. However, acoramidis was shown to be an inhibitor of CYP2C8 and CYP2C9 in vitro. No in vivo study has been performed. Therefore, concomitant CYP2C8 and CYP2C9 substrates with narrow therapeutic index should be used with caution.
 
 ## Effect of other medicinal products on acoramidis
 
@@ -156,7 +156,7 @@ Studies in animals have shown developmental toxicity at a dose which also caused
 
 ## Breast-feeding
 
-It is unknown whether acoramidis or its metabolites are excreted in human milk. A risk to the newborns/infants cannot be excluded (see section 5.3). Acoramidis should not be used during breastfeeding.
+It is unknown whether acoramidis or its metabolites are excreted in human milk. Available data in animals have shown excretion of acoramidis in milk (for details see section 5.3). A risk to the newborns/infants cannot be excluded. Acoramidis should not be used during breast-feeding.
 
 ## Fertility
 
@@ -178,7 +178,7 @@ The safety data reflect exposure of 421 participants with ATTR-CM to acoramidis 
 
 Adverse reactions are listed below by MedDRA System Organ Class (SOC) and frequency categories using the standard convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), and Uncommon (≥ 1/1 000 to &lt; 1/100). Adverse reactions listed in the table below are from cumulative clinical data in ATTR-CM participants.
 
-## Table 1: List of adverse reactions
+Table 1: List of adverse reactions
 
 | System Organ Class                 | Very common   |
 |------------------------------------|---------------|
@@ -219,7 +219,9 @@ Near-complete transthyretin stabilisation was observed with acoramidis in wild-t
 
 In ATTRibute-CM, the increase in N-terminal prohormone of brain natriuretic peptide (NT-proBNP) at Month 30 favoured acoramidis and was about half the increase seen with placebo. A lower increase in troponin I was also observed with acoramidis versus placebo.
 
-In ATTRibute-CM, the mean serum creatinine (and estimated GFR) at baseline was 110.0 μmol/L (eGFR: 60.9 mL/min/1.73 m 2 ) in the acoramidis group and 109.0 μmol/L (eGFR: 61.0 mL/min/1.73 m 2 ) in the placebo group. At Day 28, there was a change from baseline in the mean serum creatinine (eGFR) that was greater in the acoramidis group (observed values on Day 28 serum creatinine: 129.3 μmol/L, eGFR: 52.4 mL/min/1.73 m 2 ) compared with the placebo group (observed values on Day 28 serum creatinine: 110.6 μmol/L, eGFR: 60.0 mL/min/1.73 m 2 ). After Day 28, serum creatinine (eGFR) remained stable in the acoramidis group for the remainder of the study. There was a progressive rise in serum creatinine, and corresponding progressive decrease in eGFR, in the placebo group from baseline through Month 30. At Month 30, serum creatinine was 123.4 μmol/L (eGFR: 55.1 mL/min/1.73 m 2 ) and 117.2 μmol/L (eGFR: 57.2 mL/min/1.73 m 2 ) for acoramidis and placebo respectively. The observed increase in serum creatinine, and corresponding decrease in eGFR, observed in acoramidis treated patients was reversible in the event of an interruption of therapy.
+In ATTRibute-CM, the mean serum creatinine (and estimated GFR) at baseline was 110.0 μmol/L
+
+(eGFR: 60.9 mL/min/1.73 m 2 ) in the acoramidis group and 109.0 μmol/L (eGFR: 61.0 mL/min/1.73 m 2 ) in the placebo group. At Day 28, there was a change from baseline in the mean serum creatinine (eGFR) that was greater in the acoramidis group (observed values on Day 28 serum creatinine: 129.3 μmol/L, eGFR: 52.4 mL/min/1.73 m 2 ) compared with the placebo group (observed values on Day 28 serum creatinine: 110.6 μmol/L, eGFR: 60.0 mL/min/1.73 m 2 ). After Day 28, serum creatinine (eGFR) remained stable in the acoramidis group for the remainder of the study. There was a progressive rise in serum creatinine, and corresponding progressive decrease in eGFR, in the placebo group from baseline through Month 30. At Month 30, serum creatinine was 123.4 μmol/L (eGFR: 55.1 mL/min/1.73 m 2 ) and 117.2 μmol/L (eGFR: 57.2 mL/min/1.73 m 2 ) for acoramidis and placebo respectively. The observed increase in serum creatinine, and corresponding decrease in eGFR, observed in acoramidis treated patients was reversible in the event of an interruption of therapy.
 
 ## Cardiac electrophysiology
 
@@ -235,38 +237,40 @@ Table 2: Demographics and baseline characteristics (mITT population 1 )
 
 | Characteristic                              | Acoramidis N = 409   | Placebo N = 202   |
 |---------------------------------------------|----------------------|-------------------|
-| Age -years                                  |                      |                   |
+| Age - years                                 |                      |                   |
 | Mean (standard deviation)                   | 77.3 (6.5)           | 77.0 (6.7)        |
-| Sex -number (%)                             |                      |                   |
+| Sex - number (%)                            |                      |                   |
 | Male                                        | 374 (91.4)           | 181 (89.6)        |
 | Female                                      | 35 (8.6)             | 21 (10.4)         |
-| TTR genotype 2 -number (%)                  |                      |                   |
+| TTR genotype 2 - number (%)                 |                      |                   |
 | ATTRv                                       | 39 (9.5)             | 20 (9.9)          |
 | ATTRwt                                      | 370 (90.5)           | 182 (90.1)        |
-| NYHAclass -number (%)                       |                      |                   |
-| NYHAclass I                                 | 51 (12.5)            | 17 (8.4)          |
-| NYHAclass II                                | 288 (70.4)           | 156 (77.2)        |
-| NYHAclass III                               | 70 (17.1)            | 29 (14.4)         |
-| eGFR 2 (mL/min/1.73m 2 ) - number (%)       |                      |                   |
+| NYHA class - number (%)                     |                      |                   |
+| NYHA class I                                | 51 (12.5)            | 17 (8.4)          |
+| NYHA class II                               | 288 (70.4)           | 156 (77.2)        |
+| NYHA class III                              | 70 (17.1)            | 29 (14.4)         |
+| eGFR 2 (mL/min/1.73 m 2 ) - number (%)      |                      |                   |
 | eGFR ≥ 45                                   | 344 (84.1)           | 173 (85.6)        |
 | eGFR < 45                                   | 65 (15.9)            | 29 (14.4)         |
 | NT-proBNP 2 (pg/mL) - number (%)            |                      |                   |
 | ≤ 3 000                                     | 268 (65.5)           | 133 (65.8)        |
 | > 3 000                                     | 141 (34.5)           | 69 (34.2)         |
-| ATTR NAC stage 3 -number (%)                |                      |                   |
+| ATTR NAC stage 3 - number (%)               |                      |                   |
 | I                                           | 241 (58.9)           | 120 (59.4)        |
 | II                                          | 130 (31.8)           | 66 (32.7)         |
 | III                                         | 38 (9.3)             | 16 (7.9)          |
 | History of permanent pacemaker - number (%) | 77 (18.8)            | 38 (18.8)         |
 | History of atrial fibrillation - number (%) | 236 (57.7)           | 117 (57.9)        |
 
-Abbreviations: ATTRv = variant transthyretin amyloid, ATTRwt = wild-type transthyretin amyloid, NAC = National Amyloidosis Centre (London UK), NYHA = New York Heart Association, eGFR = estimated glomerular filtration rate, NT-proBNP = N-terminal prohormone of brain natriuretic peptide, TTR = transthyretin
+Abbreviations: ATTRv = variant transthyretin amyloid, ATTRwt = wild-type transthyretin amyloid,
+
+NAC = National Amyloidosis Centre (London UK), NYHA = New York Heart Association, eGFR = estimated glomerular filtration rate, NT-proBNP = N-terminal prohormone of brain natriuretic peptide, TTR = transthyretin
 
 1 mITT = modified intent to treat (baseline eGFR ≥ 30 mL/min/1.73 m 2 ).
 
 2 Stratification factors.
 
-3 NAC Stage I (NT-proBNP ≤ 3 000 pg/mL and eGFR ≥ 45 mL/min/1.73 m 2 ), Stage II (NT-proBNP ≤ 3 000 pg/mL and eGFR &lt; 45 mL/min/1.73 m 2  or NT-proBNP &gt; 3 000 pg/mL and eGFR
+3 NAC Stage I (NT-proBNP ≤ 3 000 pg/mL and eGFR ≥ 45 mL/min/1.73 m 2 ), Stage II (NT-proBNP ≤ 3 000 pg/mL and eGFR &lt; 45 mL/min/1.73 m 2 or NT-proBNP &gt; 3 000 pg/mL and eGFR
 
 ≥ 45 mL/min/1.73 m 2 ), Stage III (NT-proBNP &gt; 3 000 pg/mL and eGFR &lt; 45 mL/min/1.73 m 2 ).
 
@@ -288,22 +292,19 @@ The efficacy results on ACM and CVH demonstrated in the mITT population were als
 
 Table 3: Efficacy results on Finkelstein-Schoenfeld analysis, all-cause mortality and cardiovascular-related hospitalisation at Month 30 in ATTRibute-CM (mITT population)
 
-| Parameter                                                                          | Acoramidis N = 409   | Placebo N = 202       |
-|------------------------------------------------------------------------------------|----------------------|-----------------------|
-| Combination ofACM and cumulative frequency of CVH Win ratio (95% CI) F-S 1 p-value | 1.464 p              | (1.067, 2.009) 0.0182 |
-| Number (%) of participants alive at Month 30 2                                     | 330 (80.7%)          | 150 (74.3%)           |
-| Number (%) of participants with CVH                                                | 109 (26.7%)          |                       |
-|                                                                                    |                      | 86 (42.6%)            |
-| Number of total CVH events                                                         | 182                  | 170                   |
-| Frequency of CVH per year per participant (mean) 3                                 | 0.29                 | 0.55                  |
-| Relative risk ratio 4                                                              | 0.496                | 0.496                 |
-| p-value                                                                            | p < 0.0001           | p < 0.0001            |
+| Parameter - Combination of ACM and cumulative frequency of CVH Win ratio (95% CI) F-S 1 p-value - Number (%) of participants alive at Month 30 2   | Acoramidis N = 409 - 1.464 (1.067, 2.009) p = 0.0182 - 330 (80.7%)   | Placebo N = 202 - 1.464 (1.067, 2.009) p = 0.0182 - 150 (74.3%)   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------|
+| Number (%) of participants with CVH                                                                                                                | 109 (26.7%)                                                          | 86 (42.6%)                                                        |
+| Number of total CVH events                                                                                                                         | 182                                                                  | 170                                                               |
+| Frequency of CVH per year per participant (mean) 3                                                                                                 | 0.29                                                                 | 0.55                                                              |
+| Relative risk ratio 4                                                                                                                              | 0.496                                                                | 0.496                                                             |
+| p-value                                                                                                                                            | p < 0.0001                                                           | p < 0.0001                                                        |
 
 Abbreviations: F-S = Finkelstein-Schoenfeld; ACM = all-cause mortality; CVH = cardiovascular hospitalisation; mITT = modified intent-to-treat; CI = confidence interval
 
 1 The F-S method compares every participant pair within each stratum in a hierarchical fashion, starting with ACM. If pairs are tied on ACM, they are then assessed on CVH.
 
-2 Heart transplantation and cardiac mechanical assist device implantation are considered indicators of approaching end stage. As such, these events are treated in the analysis as equivalent to death. Therefore, such participants are not included in the count of 'Number of participants alive at Month 30' even if such participants are alive based on 30-month vital status follow-up assessment. Vital status at Month 30 was known for all participants.
+2 Heart transplantation and cardiac mechanical assist device implantation are considered indicators of approaching end stage. As such, these events are treated in the analysis as equivalent to death. Therefore, such participants are not included in the count of \"Number of participants alive at Month 30\" even if such participants are alive based on 30-month vital status follow-up assessment. Vital status at Month 30 was known for all participants.
 
 3 CVH per year for each participant is calculated as (participant's total number of observed CVH) / (duration of follow-up in years) and include events of clinical interest (EOCI). EOCI is defined as medical visits
 
@@ -317,25 +318,18 @@ Figure 1: Time to all-cause mortality or first cardiovascular-related hospitalis
 
 <!-- image -->
 
-BEYONTTRA 409(0) 389 (20)370(39)355(54)337(72)319 (90)308(101） 298(111)284(125) 270(139)0 (147) Placebo 202 (0) 191(11）172(30)159(43）152(50) ）143(59)135 (67)129 (73)121(81)108 (94)0(102)
-
 ## 6-Minute Walk Distance (6MWD) and KCCQ
 
 The treatment effect of acoramidis on functional capacity and health status was assessed by the 6MWD and the KCCQ Overall Summary score (KCCQ-OS); composed of the physical limitation, symptom, social limitation and quality of life domains), respectively (Table 4). A treatment effect favouring acoramidis was first observed for 6MWD and KCCQ-OS at Month 18 and Month 3, respectively, and was sustained through Month 30.
 
 Table 4: 6MWD and KCCQ-OS scores
 
-|               | Baseline Mean (SD)   | Baseline Mean (SD)   | Change from Baseline to Month 30, LS Mean (SE)   | Change from Baseline to Month 30, LS Mean (SE)   | Treatment Difference from Placebo LS   |          |
-|---------------|----------------------|----------------------|--------------------------------------------------|--------------------------------------------------|----------------------------------------|----------|
-| Endpoints*    | Acoramidis N = 409   | Placebo N = 202      | Acoramidis N = 409                               | Placebo N = 202                                  | Mean (96% CI)                          | p-value  |
-| 6MWD (metres) | 362.78 (103.50)      | 351.51 (93.83)       | -64.65 (5.51)                                    | -104.29 (7.77)                                   | 39.64 (20.18, 59.10)                   | < 0.0001 |
-| KCCQ-OS       | 71.73 (19.37)        | 70.48 (20.65)        | -11.48 (1.18)                                    | -21.42 (1.65)                                    | 9.94 (5.79, 14.10)                     | < 0.0001 |
+| Endpoints*    | Baseline Mean (SD) - Acoramidis N = 409   | Baseline Mean (SD) - Placebo N = 202   | Change from Baseline to Month 30, LS Mean (SE) - Acoramidis N = 409   | Change from Baseline to Month 30, LS Mean (SE) - Placebo N = 202   | Treatment Difference from Placebo LS - Mean (96% CI)   | p-value   |
+|---------------|-------------------------------------------|----------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------|-----------|
+| 6MWD (metres) | 362.78 (103.50)                           | 351.51 (93.83)                         | -64.65 (5.51)                                                         | -104.29 (7.77)                                                     | 39.64 (20.18, 59.10)                                   | < 0.0001  |
+| KCCQ-OS       | 71.73 (19.37)                             | 70.48 (20.65)                          | -11.48 (1.18)                                                         | -21.42 (1.65)                                                      | 9.94 (5.79, 14.10)                                     | < 0.0001  |
 
-Abbreviations: 6MWD = 6-minute walk distance; CI = confidence interval; KCCQ-OS = Kansas City Cardiomyopathy Questionnaire Overall Summary score, LS = least squares, SD = standard deviation, SE = standard error
-
-* Higher values indicate better health status.
-
-Subgroup analysis
+## Subgroup analysis
 
 Results from the F-S test applied to ACM and CVH (complemented by the win ratio) consistently favoured acoramidis versus placebo across the stratification parameter (wild type or variant), NYHA class and ATTR National Amyloidosis Centre (NAC) stage subgroups (Figure 2).
 
@@ -345,9 +339,9 @@ Figure 2: Hierarchical combination of all-cause mortality and CV-related hospita
 
 <!-- image -->
 
-Abbreviations: ACM = all-cause mortality; ATTRwt-CM = wild-type ATTR-CM; ATTRv-CM = variant ATTR-CM; CVH = cardiovascular-related hospitalisation; F-S = Finkelstein-Schoenfeld; NAC = National Amyloidosis Centre (London, UK); NYHA = New York Heart Association; NAC Stage I (NT-proBNP ≤ 3 000 pg/mL and eGFR ≥ 45 mL/min/1.73 m 2 ), Stage II (NT-proBNP ≤ 3 000 pg/mL and eGFR &lt; 45 mL/min/1.73 m 2  or NT-proBNP &gt; 3 000 pg/mL and eGFR ≥ 45 mL/min/1.73 m 2 ), Stage III (NT-proBNP &gt; 3 000 pg/mL and eGFR &lt; 45 mL/min/1.73 m 2 )
+Abbreviations: ACM = all-cause mortality; ATTRwt-CM = wild-type ATTR-CM; ATTRv-CM = variant ATTR-CM; CVH = cardiovascular-related hospitalisation; F-S = Finkelstein-Schoenfeld; NAC = National Amyloidosis Centre (London, UK); NYHA = New York Heart Association; NAC Stage I (NT-proBNP ≤ 3 000 pg/mL and eGFR ≥ 45 mL/min/1.73 m 2 ), Stage II (NT-proBNP ≤ 3 000 pg/mL and eGFR &lt; 45 mL/min/1.73 m 2 or NT-proBNP &gt; 3 000 pg/mL and eGFR ≥ 45 mL/min/1.73 m 2 ), Stage III (NT-proBNP &gt; 3 000 pg/mL and eGFR &lt; 45 mL/min/1.73 m 2 )
 
-1 The win ratio is the number of pairs with acoramidis treated-participant 'wins' divided by number of pairs with placebo-treated participant 'wins.'
+1 The win ratio is the number of pairs with acoramidis treated-participant \"wins\" divided by number of pairs with placebo-treated participant \"wins.\"
 
 ## Paediatric population
 
@@ -387,7 +381,7 @@ No clinically significant differences in the pharmacokinetics of acoramidis were
 
 Based on population PK modelling, steady-state acoramidis AUC was 37% higher for healthy subjects than for the patient population. Also, relative to White subjects, steady-state AUC was 23% higher for Black subjects and 38% higher for non-White, non-Black subjects. These effects are within the range of inter-individual variability (CV = 38%). The model also predicted lack of clinically significant differences in the pharmacokinetics of acoramidis due to body weight, within the body weights range of 50.9 to 133 kg.
 
-A dedicated renal-impairment study was not conducted because acoramidis is not substantially eliminated by the renal route. However, despite the main metabolite (acoramidis-AG) having no clinically relevant contribution to pharmacological activity in the studied population, data in patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) are limited and there are no data for patients on dialysis.  Clearance of the acoramidis metabolite acoramidis-AG might be affected by severe renal impairment resulting potentially in higher systemic exposure of acoramidis-AG. While this potential increase in acoramidis-AG exposure is not expected to have a clinically meaningful contribution to pharmacologic activity, acoramidis should be used with caution in patients with severe renal impairment.
+A dedicated renal-impairment study was not conducted because acoramidis is not substantially eliminated by the renal route. However, despite the main metabolite (acoramidis-AG) having no clinically relevant contribution to pharmacological activity in the studied population, data in patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) are limited and there are no data for patients on dialysis. Clearance of the acoramidis metabolite acoramidis-AG might be affected by severe renal impairment resulting potentially in higher systemic exposure of acoramidis-AG. While this potential increase in acoramidis-AG exposure is not expected to have a clinically meaningful contribution to pharmacologic activity, acoramidis should be used with caution in patients with severe renal impairment.
 
 Acoramidis has not been studied in patients with hepatic impairment.
 
@@ -395,13 +389,13 @@ Acoramidis has not been studied in patients with hepatic impairment.
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, developmental and reproductive toxicology (fertility and embryo-foetal development).
 
-In the rat pre- and postnatal development study with acoramidis, decreased pup survival, reduced pup weights, and learning deficits were observed following maternal dose administration during pregnancy
+In the rat pre- and postnatal development study with acoramidis, decreased pup survival, reduced pup weights, and learning deficits were observed following maternal dose administration during pregnancy and lactation with acoramidis at 1 000 mg/kg/day. Severe maternal toxicity including mortalities and weight loss during the period of organogenesis was also observed at this dose. The no-observedadverse-effect-level (NOAEL) in pre- and postnatal development toxicity study in rats were established at the tested dose of 350 mg/kg/day acoramidis, (AUC values were approximatively 21-fold the human exposure at the clinical dose of acoramidis).
 
 <div style=\"page-break-after: always\"></div>
 
-and lactation with acoramidis at 1 000 mg/kg/day. Severe maternal toxicity including mortalities and weight loss during the period of organogenesis was also observed at this dose. The no-observedadverse-effect-level (NOAEL) in pre- and postnatal development toxicity study in rats were established at the tested dose of 350 mg/kg/day acoramidis, (AUC values were approximatively 21-fold the human exposure at the clinical dose of acoramidis).
+In a placental transfer and milk secretion study, pregnant rats were administered a single oral dose of [ 14 C]-acoramidis following multiple oral doses of acoramidis (up to 350 mg/kg/day). Radioactivity was observed in the blood and plasma of foetuses.
 
-Placental transfer and milk excretion studies in animals were not performed.
+Pregnant and lactating female rats were administered repeated daily oral doses of acoramidis (50, 100, and 350 mg/kg/day) followed by a single oral gavage dose of [ 14 C]-acoramidis on Lactation Day 4 or 12. Radioactivity was observed in milk by 1 hour post-dose and decreased up to 24 hours post-dose, indicating acoramidis is transferred to milk after oral administration.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -409,19 +403,15 @@ Placental transfer and milk excretion studies in animals were not performed.
 
 ## Tablet core
 
-Microcrystalline cellulose (E 460)
-
-Croscarmellose sodium (E 468) Colloidal hydrated silica (E 551) Magnesium stearate (E 470b)
+Microcrystalline cellulose (E 460) Croscarmellose sodium (E 468) Colloidal hydrated silica (E 551) Magnesium stearate (E 470b)
 
 ## Film-coat
 
 Macrogol poly(vinyl alcohol) grafted copolymer (E 1209) Talc (E 553b) Titanium dioxide (E 171) Glyceryl monocaprylocaprate Type I (E 471) Poly(vinyl alcohol) (E 1203)
 
-## Printing ink
+Printing ink
 
-Iron oxide black (E 172) Propylene glycol (E 1520)
-
-Hypromellose 2910 (E 464)
+Iron oxide black (E 172) Propylene glycol (E 1520) Hypromellose 2910 (E 464)
 
 ## 6.2 Incompatibilities
 
@@ -441,15 +431,17 @@ Blister packs - Thermoformed dual-cavity blisters of PVC/PCTFE with aluminium fo
 
 Pack sizes: 120 tablets in 6 blister strips, each with 10 cavities (2 tablets per cavity)
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
+7. MARKETING AUTHORISATION HOLDER
 
-## 7. MARKETING AUTHORISATION HOLDER
+Bayer AG 51368 Leverkusen
 
-Bayer AG 51368 Leverkusen Germany
+Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -462,6 +454,8 @@ Date of first authorisation: 10 February 2025
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency: https://www.ema.europa.eu.
+
+13
 
 <div style=\"page-break-after: always\"></div>
 
@@ -511,7 +505,7 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -557,7 +551,10 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -572,9 +569,7 @@ EU/1/24/1906/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 BEYONTTRA 356 mg
@@ -587,37 +582,40 @@ BEYONTTRA 356 mg
 
 PC SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS
+<div style=\"page-break-after: always\"></div>
 
-BLISTER FOIL
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
+|---------------------------------------------|
+| BLISTER FOIL                                |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 BEYONTTRA 356 mg film-coated tablets acoramidis
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Bayer AG (Bayer Logo)
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-## B. PACKAGE LEAFLET
+- B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -625,16 +623,18 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## BEYONTTRA 356 mg film-coated tablets acoramidis
+## BEYONTTRA 356 mg film-coated tablets
+
+acoramidis
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -681,7 +681,7 @@ BEYONTTRA may change your thyroid blood tests, but these changes should not be h
 
 If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine as it is not known if BEYONTTRA may harm the unborn baby.
 
-It is not known whether this medicine passes into breast milk. If you are breast-feeding or plan to breast feed, ask your doctor or pharmacist for advice before taking this medicine. There are no data on the use of BEYONTTRA in pregnant women.
+It is not known whether this medicine passes into human breast milk. If you are breast-feeding or plan to breast feed, ask your doctor or pharmacist for advice before taking this medicine. There are no data on the use of BEYONTTRA in pregnant women.
 
 ## Driving and using machines
 
@@ -723,8 +723,8 @@ The possible side effects are:
 
 Very common (may affect more than 1 in 10 people)
 
-- -diarrhoea
-- -painful inflammation in the joints (gout)
+- diarrhoea
+- painful inflammation in the joints (gout)
 
 ## Reporting of side effects
 
@@ -744,12 +744,14 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What BEYONTTRA contains
 
-- -The active substance is acoramidis (as hydrochloride). Each tablet contains acoramidis hydrochloride equivalent to 356 mg acoramidis.
-- -The other ingredients are: microcrystalline cellulose (E 460), croscarmellose sodium (E 468), colloidal hydrated silica (E 551), magnesium stearate (E 470b), macrogol poly(vinyl alcohol) grafted copolymer (E 1209), talc (E 553b), titanium dioxide (E 171), glyceryl monocaprylocaprate Type I (E 471), poly(vinyl alcohol) (E 1203), iron oxide black (E 172), propylene glycol (E 1520), hypromellose 2910 (E 464). See section 2 for information regarding sodium.
+- The active substance is acoramidis (as hydrochloride). Each tablet contains acoramidis hydrochloride equivalent to 356 mg acoramidis.
+- The other ingredients are: microcrystalline cellulose (E 460), croscarmellose sodium (E 468), colloidal hydrated silica (E 551), magnesium stearate (E 470b), macrogol poly(vinyl alcohol) grafted copolymer (E 1209), talc (E 553b), titanium dioxide (E 171), glyceryl monocaprylocaprate Type I (E 471), poly(vinyl alcohol) (E 1203), iron oxide black (E 172), propylene glycol (E 1520), hypromellose 2910 (E 464).
+
+See section 2 for information regarding sodium.
 
 ## What BEYONTTRA looks like and contents of the pack
 
-BEYONTTRA 356 mg film-coated tablets (tablets) are white and oval, approximately 15 mm long × 7.5 mm wide, printed with 'BEYONTTRA' in black ink on one side.
+BEYONTTRA 356 mg film-coated tablets (tablets) are white and oval, approximately 15 mm long × 7.5 mm wide, printed with \"BEYONTTRA\" in black ink on one side.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -757,11 +759,11 @@ BEYONTTRA is available in dual-cavity blisters of PVC/PCTFE with aluminium foil 
 
 ## Marketing Authorisation Holder
 
-Bayer AG 51368 Leverkusen Germany
-
 ## Manufacturer
 
-Rottendorf Pharma GmbH Ostenfelder Strasse 51-61 Ennigerloh, 59320 Germany
+Bayer AG 51368 Leverkusen
+
+Germany Rottendorf Pharma GmbH Ostenfelder Strasse 51-61 Ennigerloh, 59320 Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -903,23 +905,11 @@ Icepharma hf.
 
 Sími: +354 540 8000
 
-## Slovenská republika
-
-Bayer spol. s r.o.
-
-Tel. +421 2 59 21 31 11
-
 ## Italia
 
 Bayer S.p.A.
 
 Tel: +39 02 397 8 1
-
-## Suomi/Finland
-
-Bayer Oy
-
-Puh/Tel: +358- 20 785 21
 
 ## Κύπρος
 
@@ -927,17 +917,29 @@ NOVAGEM Limited
 
 Tηλ: +357 22 48 38 58
 
-## Sverige
-
-Bayer AB
-
-Tel: +46 (0) 8 580 223 00
-
 ## Latvija
 
 SIA Bayer
 
 Tel: +371 67 84 55 63
+
+## Slovenská republika
+
+Bayer spol. s r.o.
+
+Tel. +421 2 59 21 31 11
+
+## Suomi/Finland
+
+Bayer Oy
+
+Puh/Tel: +358- 20 785 21
+
+## Sverige
+
+Bayer AB
+
+Tel: +46 (0) 8 580 223 00
 
 <div style=\"page-break-after: always\"></div>
 

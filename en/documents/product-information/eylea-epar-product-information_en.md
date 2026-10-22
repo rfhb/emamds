@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-04 16:43:37
-document_pages: 165
+document_datetime: 2026-10-19 12:34:53
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/eylea-epar-product-information_en.pdf
 document_name: eylea-epar-product-information_en.pdf
 version: success
-processing_time: 58.0348331
-conversion_datetime: 2026-03-05 11:37:10.221092
+processing_time: 93.0528666
+conversion_datetime: 2026-10-22 22:48:43.468686
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -239,7 +239,9 @@ The warnings and precautions for adults also apply to preterm infants with ROP. 
 
 ## Populations with limited data
 
-There is only limited experience in the treatment of subjects with DME due to type I diabetes or in diabetic patients with an HbA1c over 12% or with proliferative diabetic retinopathy. Eylea has not been studied in patients with active systemic infections or in patients with concurrent eye conditions such as retinal detachment or macular hole. There is also no experience of treatment with Eylea in diabetic patients with uncontrolled hypertension. This lack of information should be considered by the physician when treating such patients.
+There is only limited experience in the treatment of subjects with DME due to type I diabetes or in diabetic patients with an HbA1c over 12% or with proliferative diabetic retinopathy.
+
+Eylea has not been studied in patients with active systemic infections or in patients with concurrent eye conditions such as retinal detachment or macular hole. There is also no experience of treatment with Eylea in diabetic patients with uncontrolled hypertension. This lack of information should be considered by the physician when treating such patients.
 
 In myopic CNV there is no experience with Eylea in the treatment of non-Asian patients, patients who have previously undergone treatment for myopic CNV, and patients with extrafoveal lesions.
 
@@ -247,8 +249,8 @@ In myopic CNV there is no experience with Eylea in the treatment of non-Asian pa
 
 This medicinal product contains
 
-- -less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'
-- -0.003 mg of polysorbate 20 in each 0.01 ml dose or 0.015 mg of polysorbate 20 in each 0.05 ml dose which is equivalent to 0.3 mg/ml. Polysorbates may cause allergic reactions.
+- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'
+- 0.003 mg of polysorbate 20 in each 0.01 ml dose or 0.015 mg of polysorbate 20 in each 0.05 ml dose which is equivalent to 0.3 mg/ml. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -306,7 +308,7 @@ The adverse reactions are listed by system organ class and frequency using the f
 
 <div style=\"page-break-after: always\"></div>
 
-Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (  1/10,000 to &lt;1/1,000), not known (cannot be estimated from the available data).
+Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (1/10,000 to &lt;1/1,000), not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
 
@@ -318,8 +320,8 @@ Table 1: All treatment-emergent adverse drug reactions reported in patients in p
 | Eye disorders           | Very common | Visual acuity reduced, Retinal haemorrhage, Conjunctival haemorrhage, Eye pain                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Eye disorders           | Common      | Retinal pigment epithelial tear*, Detachment of the retinal pigment epithelium, Retinal degeneration, Vitreous haemorrhage, Cataract, Cataract cortical, Cataract nuclear, Cataract subcapsular, Corneal erosion, Corneal abrasion, Intraocular pressure increased, Vision blurred, Vitreous floaters, Vitreous detachment, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Eyelid oedema, Injection site haemorrhage, Punctate keratitis, Conjunctival hyperaemia, Ocular hyperaemia |
 | Eye disorders           | Uncommon    | Endophthalmitis**, Retinal detachment, Retinal tear, Iritis, Uveitis, Iridocyclitis, Lenticular opacities, Corneal epithelium defect, Injection site irritation, Abnormal sensation in eye, Eyelid irritation, Anterior chamber flare, Corneal oedema                                                                                                                                                                                                                                                             |
-| Eye disorders           | Rare        | Blindness, Cataract traumatic, Vitritis, Hypopyon                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Eye disorders           | Not known   | Scleritis****                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Eye disorders           | Rare        | Blindness, Cataract traumatic, Vitritis, Hypopyon, Retinal vasculitis                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Eye disorders           | Not known   | Scleritis****, Retinal occlusive vasculitis****                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 * Conditions known to be associated with wet AMD. Observed in the wet AMD studies only.
 
@@ -339,11 +341,11 @@ A low incidence rate of arterial thromboembolic events was observed in the Eylea
 
 As with all therapeutic proteins, there is a potential for immunogenicity with Eylea.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 The safety of Eylea for the treatment of ROP was evaluated in a 6-month phase III study, which included 75 preterm infants treated with aflibercept 0.4 mg at baseline. The long-term safety profile in preterm infants has not been established.
-
-<div style=\"page-break-after: always\"></div>
 
 Adverse reactions reported in more than one patient treated with aflibercept 0.4 mg were retinal detachment, retinal haemorrhage, conjunctival haemorrhage, injection site haemorrhage, intraocular pressure increased and eyelid oedema.
 
@@ -387,7 +389,7 @@ In patients treated with Eylea (one injection per month for three consecutive mo
 
 In the VIEW1 study there were mean decreases in CRT on optical coherence tomography (OCT) (-130 and -129 microns at week 52 for the Eylea 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively). Also at the 52 week time point, in the VIEW2 study there were mean decreases in CRT on OCT (-149 and -139 microns for the Eylea 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively). The reduction of CNV size and reduction in CRT were generally maintained in the second year of the studies.
 
-The ALTAIR study was conducted in Japanese patients with treatment naïve wet AMD, showing similar outcomes to the VIEW studies using 3 initial monthly Eylea 2 mg injections, followed by one injection after a further 2 months, and then continued with a treat-and-extend regimen with variable treatment intervals (2- week or 4- week adjustments) up to a maximum 16 week interval according to pre-specified criteria. At week 52, there were mean decreases in central retinal thickness (CRT) on OCT of -134.4 and -126.1 microns for the 2-week adjustment group and the 4-week adjustment group, respectively. The proportion of patients without fluid on OCT at week 52 was 68.3% and 69.1% in the 2- and 4-week adjustment groups, respectively. The reduction in CRT was generally maintained in both treatment arms in the second year of the ALTAIR study .
+The ALTAIR study was conducted in Japanese patients with treatment naïve wet AMD, showing similar outcomes to the VIEW studies using 3 initial monthly Eylea 2 mg injections, followed by one injection after a further 2 months, and then continued with a treat-and-extend regimen with variable treatment intervals (2- week or 4- week adjustments) up to a maximum 16 week interval according to pre-specified criteria. At week 52, there were mean decreases in central retinal thickness (CRT) on OCT of -134.4 and -126.1 microns for the 2-week adjustment group and the 4-week adjustment group, respectively. The proportion of patients without fluid on OCT at week 52 was 68.3% and 69.1% in the 2- and 4-week adjustment groups, respectively. The reduction in CRT was generally maintained in both treatment arms in the second year of the ALTAIR study.
 
 The ARIES study was designed to explore the non-inferiority of an Eylea 2 mg treat-and-extend dosing regimen initiated immediately after administration of 3 initial monthly injections and one additional injection after 2 months vs. a treat-and-extend dosing regimen initiated after one year of treatment. For patients requiring a more frequent than Q8 dosing at least once over the course of the study, CRT remained higher, but the mean decrease in CRT from baseline to week 104 was -160.4 microns, similar to the patients treated at Q8 or less frequent intervals.
 
@@ -395,7 +397,7 @@ The ARIES study was designed to explore the non-inferiority of an Eylea 2 mg tre
 
 In CRVO and BRVO, retinal ischaemia occurs and signals the release of VEGF which in turn destabilises the tight junctions, and promotes endothelial cell proliferation. Up-regulation of VEGF is associated with the breakdown of the blood retina barrier, increased vascular permeability, retinal oedema, and neovascularisation complications.
 
-In patients treated with 6 consecutive monthly injections of Eylea 2 mg, there was a consistent, rapid and robust morphologic response (as measured by improvements in mean CRT) observed. At week 24, the reduction in CRT was statistically superior versus control in all three studies (COPERNICUS in CRVO: -457 vs. -145 microns; GALILEO in CRVO: -449 vs. -169 microns; VIBRANT in BRVO: 280 vs. -128 microns). This decrease from baseline in CRT was maintained to the end of each study, week 100 in COPERNICUS, week 76 in GALILEO, and week 52 in VIBRANT.
+In patients treated with 6 consecutive monthly injections of Eylea 2 mg, there was a consistent, rapid and robust morphologic response (as measured by improvements in mean CRT) observed. At week 24, the reduction in CRT was statistically superior versus control in all three studies (COPERNICUS in CRVO: -457 vs. -145 microns; GALILEO in CRVO: -449 vs. -169 microns; VIBRANT in BRVO: - 280 vs. -128 microns). This decrease from baseline in CRT was maintained to the end of each study, week 100 in COPERNICUS, week 76 in GALILEO, and week 52 in VIBRANT.
 
 ## Diabetic macular oedema
 
@@ -405,9 +407,9 @@ Diabetic macular oedema is a consequence of diabetic retinopathy and is characte
 
 In patients treated with Eylea, the majority of whom were classified as having Type II diabetes, a rapid and robust response in morphology (CRT, DRSS level) was observed.
 
-In the VIVID DME  and the VISTA DME studies, a statistically significant greater mean decrease in CRT from baseline to week 52 was observed in patients treated with Eylea than with the laser control, 192.4 and -183.1 microns for the 2Q8 Eylea groups and -66.2 and -73.3 microns for the control groups, respectively. At week 100 the decrease was maintained with -195.8 and -191.1 microns for the 2Q8 Eylea groups and -85.7 and -83.9 microns for the control groups, in the VIVID DME  and VISTA DME  studies, respectively.
+In the VIVID DME and the VISTA DME studies, a statistically significant greater mean decrease in CRT from baseline to week 52 was observed in patients treated with Eylea than with the laser control, - 192.4 and -183.1 microns for the 2Q8 Eylea groups and -66.2 and -73.3 microns for the control groups, respectively. At week 100 the decrease was maintained with -195.8 and -191.1 microns for the 2Q8 Eylea groups and -85.7 and -83.9 microns for the control groups, in the VIVID DME and VISTA DME studies, respectively.
 
-A ≥2 step improvement in DRSS was assessed in a pre-specified manner in VIVID DME  and VISTA DME . The DRSS score was gradable in 73.7% of the patients in VIVID DME  and 98.3% of the patients in VISTA DME . At week 52, 27.7% and 29.1% of the Eylea 2Q8 groups, and 7.5% and 14.3% of the control groups experienced a ≥2 step improvement in the DRSS. At week 100, the respective percentages were 32.6% and 37.1% of the Eylea 2Q8 groups and 8.2% and 15.6% of the control groups.
+A ≥2 step improvement in DRSS was assessed in a pre-specified manner in VIVID DME and VISTA DME . The DRSS score was gradable in 73.7% of the patients in VIVID DME and 98.3% of the patients in VISTA DME . At week 52, 27.7% and 29.1% of the Eylea 2Q8 groups, and 7.5% and 14.3% of the control groups experienced a ≥2 step improvement in the DRSS. At week 100, the respective percentages were 32.6% and 37.1% of the Eylea 2Q8 groups and 8.2% and 15.6% of the control groups.
 
 The VIOLET study compared three different dosing regimens of Eylea 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses followed by dosing every 2 months. At week 52 and week 100 of the study, i.e. second and third year of treatment, the mean changes in CRT were clinically similar for treat-and-extend (2T&amp;E), pro re nata (2PRN) and 2Q8, respectively, -2.1, 2.2 and -18.8 microns at week 52, and 2.3, -13.9 and -15.5 microns at week 100.
 
@@ -440,21 +442,20 @@ Detailed results from the combined analysis of both studies are shown in Table 2
 
 Table 2: Efficacy outcomes at week 52 (primary analysis) and week 96; combined data from the VIEW1 and VIEW2 studies B)
 
-| Efficacy Outcome                                                       | Eylea 2Q8 E) (Eylea 2 mg every 8 weeks following 3 initial monthly doses) (N = 607)   | Eylea 2Q8 E) (Eylea 2 mg every 8 weeks following 3 initial monthly doses) (N = 607)   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595)   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595)   |
-|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
-|                                                                        | Week 52                                                                               | Week 96                                                                               | Week 52                                                          | Week 96                                                          |
-| Mean number of injections from baseline                                | 7.6                                                                                   | 11.2                                                                                  | 12.3                                                             | 16.5                                                             |
-| Mean number of injections from Week 52 to 96                           |                                                                                       | 4.2                                                                                   |                                                                  | 4.7                                                              |
-| Proportion of patients with < 15 letters loss from baseline ( PPS A) ) | 95.33% B)                                                                             | 92.42%                                                                                | 94.42% B)                                                        | 91.60%                                                           |
-| Difference C) (95% CI) D)                                              | 0.9% (-1.7, 3.5) F)                                                                   | 0.8% (-2.3, 3.8) F)                                                                   |                                                                  |                                                                  |
-| Mean change in BCVA as measured by ETDRS A) letter score from baseline | 8.40                                                                                  | 7.62                                                                                  | 8.74                                                             | 7.89                                                             |
-| Difference in LS A) mean change (ETDRS letters) C) (95% CI) D)         | -0.32 (-1.87, 1.23)                                                                   | -0.25 (-1.98, 1.49)                                                                   |                                                                  |                                                                  |
-| Proportion of patients with ≥ 15 letters gain from baseline            | 30.97%                                                                                | 33.44%                                                                                | 32.44%                                                           | 31.60%                                                           |
-| Difference C) (95% CI) D)                                              | -1.5% (-6.8, 3.8)                                                                     | 1.8% (-3.5, 7.1)                                                                      |                                                                  |                                                                  |
+| Efficacy Outcome                                                       | Eylea 2Q8 E) (Eylea 2 mg every 8 weeks following 3 initial monthly doses) (N = 607) - Week 52   | Eylea 2Q8 E) (Eylea 2 mg every 8 weeks following 3 initial monthly doses) (N = 607) - Week 96   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595) - Week 52   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595) - Week 96   |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Mean number of injections from baseline                                | 7.6                                                                                             | 11.2                                                                                            | 12.3                                                                       | 16.5                                                                       |
+| Mean number of injections from Week 52 to 96                           |                                                                                                 | 4.2                                                                                             |                                                                            | 4.7                                                                        |
+| Proportion of patients with < 15 letters loss from baseline ( PPS A) ) | 95.33% B)                                                                                       | 92.42%                                                                                          | 94.42% B)                                                                  | 91.60%                                                                     |
+| Difference C) (95% CI) D)                                              | 0.9% (-1.7, 3.5) F)                                                                             | 0.8% (-2.3, 3.8) F)                                                                             |                                                                            |                                                                            |
+| Mean change in BCVA as measured by ETDRS A) letter score from baseline | 8.40                                                                                            | 7.62                                                                                            | 8.74                                                                       | 7.89                                                                       |
+| Difference in LS A) mean change (ETDRS letters) C) (95% CI) D)         | -0.32 (-1.87, 1.23)                                                                             | -0.25 (-1.98, 1.49)                                                                             |                                                                            |                                                                            |
+| Proportion of patients with ≥ 15 letters gain from baseline            | 30.97%                                                                                          | 33.44%                                                                                          | 32.44%                                                                     | 31.60%                                                                     |
+| Difference C) (95% CI) D)                                              | -1.5% (-6.8, 3.8)                                                                               | 1.8% (-3.5, 7.1)                                                                                |                                                                            |                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1 . Mean Change in Visual Acuity from Baseline to Week 96 for the Combined Data from the View1 and View2 Studies
+Figure 1. Mean Change in Visual Acuity from Baseline to Week 96 for the Combined Data from the View1 and View2 Studies
 
 <!-- image -->
 
@@ -472,11 +473,9 @@ All patients received monthly doses of Eylea 2 mg for 3 months, followed by one 
 
 The primary efficacy endpoint was mean change in BCVA from baseline to week 52. The secondary efficacy endpoints were the proportion of patients who did not lose ≥15 letters and the proportion of patients who gained at least 15 letters of BCVA from baseline to week 52.
 
-At week 52, patients in the treat-and-extend arm with 2-week adjustments gained a mean of 9.0 letters from baseline as compared to 8.4 letters for those in the 4-week adjustment group [LS mean difference in letters (95% CI): -0.4 (-3.8,3.0), ANCOVA]. The proportion of patients who did not lose ≥15 letters in the two treatment arms was similar (96.7% in the 2-week and 95.9% in the 4-week adjustment groups). The proportion of patients who gained ≥15 letters at week 52 was 32.5% in the 2-week adjustment group and 30.9% in the 4-week adjustment group. The proportion of patients who extended
+At week 52, patients in the treat-and-extend arm with 2-week adjustments gained a mean of 9.0 letters from baseline as compared to 8.4 letters for those in the 4-week adjustment group [LS mean difference in letters (95% CI): -0.4 (-3.8,3.0), ANCOVA]. The proportion of patients who did not lose ≥15 letters in the two treatment arms was similar (96.7% in the 2-week and 95.9% in the 4-week adjustment groups). The proportion of patients who gained ≥15 letters at week 52 was 32.5% in the 2-week adjustment group and 30.9% in the 4-week adjustment group. The proportion of patients who extended their treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6% in the 4-week adjustment group. Furthermore, in the 4-week adjustment group 40.7% of patients were extended to 16 week intervals. At the last visit up to week 52, 56.8% and 57.8% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
 
 <div style=\"page-break-after: always\"></div>
-
-their treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6% in the 4-week adjustment group. Furthermore, in the 4-week adjustment group 40.7% of patients were extended to 16 week intervals. At the last visit up to week 52, 56.8% and 57.8% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
 
 In the second year of the study, efficacy was generally maintained up to and including the last assessment at week 96, with a mean gain from baseline of 7.6 letters for the 2-week adjustment group and 6.1 letters for the 4-week adjustment group. The proportion of patients who extended their treatment interval to 12 weeks or beyond was 56.9% in the 2-week adjustment group and 60.2% in the 4-week adjustment group. At the last visit prior to week 96, 64.9% and 61.2% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond. During the second year of treatment patients in both the 2-week and 4-week adjustment groups received an average of 3.6 and 3.7 injections, respectively. Over the 2 year treatment period patients received an average of 10.4 injections.
 
@@ -504,42 +503,40 @@ Detailed results from the analysis of both studies are shown in Table 3 and Figu
 
 Table 3: Efficacy outcomes at week 24, week 52 and week 76/100 (Full Analysis Set with LOCF C) ) in COPERNICUS and GALILEO studies
 
-| Efficacy Outcomes                                                              | COPERNICUS                    | COPERNICUS      | COPERNICUS                    | COPERNICUS         | COPERNICUS                  | COPERNICUS           | GALILEO                       | GALILEO          | GALILEO                       | GALILEO          | GALILEO                     | GALILEO             |
-|--------------------------------------------------------------------------------|-------------------------------|-----------------|-------------------------------|--------------------|-----------------------------|----------------------|-------------------------------|------------------|-------------------------------|------------------|-----------------------------|---------------------|
-| Efficacy Outcomes                                                              | 24 Weeks                      | 24 Weeks        | 52 Weeks                      | 52 Weeks           | 100 Weeks                   | 100 Weeks            | 24 Weeks                      | 24 Weeks         | 52 Weeks                      | 52 Weeks         | 76 Weeks                    | 76 Weeks            |
-| Efficacy Outcomes                                                              | Eylea 2 mg Q4 (N = 114)       | Control (N= 73) | Eylea 2 mg (N = 114)          | Control E) (N =73) | Eylea F) 2 mg (N= 114)      | Control E,F) ( N=73) | Eylea 2 mg Q4 (N = 103)       | Control (N = 68) | Eylea 2 mg (N = 103)          | Control (N = 68) | Eylea G) 2 mg (N = 103)     | Control G) (N = 68) |
-| Proportion of patients with ≥15 letters gain from baseline                     | 56%                           | 12%             | 55%                           | 30%                | 49.1%                       | 23.3%                | 60%                           | 22%              | 60%                           | 32%              | 57.3%                       | 29.4%               |
-| Weighted difference A,B,E) (95% CI) p-value                                    | 44.8% (33.0, 56.6) p < 0.0001 |                 | 25.9% (11.8, 40.1) p = 0.0006 |                    | 26.7% (13.1, 40.3) p=0.0003 |                      | 38.3% (24.4, 52.1) p < 0.0001 |                  | 27.9% (13.0, 42.7) p = 0.0004 |                  | 28.0% (13.3, 42.6) p=0.0004 |                     |
-| Mean change in BCVA C) as measured by ETDRS C) letter score from baseline (SD) | 17.3 (12.8)                   | -4.0 (18.0)     | 16.2 (17.4)                   | 3.8 (17.1)         | 13.0 (17.7)                 | 1.5 (17.7)           | 18.0 (12.2)                   | 3.3 (14.1)       | 16.9 (14.8)                   | 3.8 (18.1)       | 13.7 (17.8)                 | 6.2 (17.7)          |
-| Difference in LS mean A,C,D,E) (95% CI)                                        | 21.7 (17.4, 26.0)             |                 | 12.7 (7.7, 17.7)              |                    | 11.8 (6.7, 17.0) p < 0.0001 |                      | 14.7 (10.8, 18.7)             |                  | 13.2 (8.2, 18.2)              |                  | 7.6 (2.1, 13.1) p=0.0070    |                     |
-| p-value                                                                        | p < 0.0001                    |                 | p < 0.0001                    |                    |                             |                      | p < 0.0001                    |                  | p < 0.0001                    |                  |                             |                     |
+| Efficacy Outcomes                                                              | COPERNICUS - 24 Weeks - Eylea 2 mg Q4 (N = 114)   | COPERNICUS - 24 Weeks - Control (N= 73)   | COPERNICUS - 52 Weeks - Eylea 2 mg (N = 114)   | COPERNICUS - 52 Weeks - Control E) (N =73)   | COPERNICUS - 100 Weeks - Eylea F) 2 mg (N= 114)   | COPERNICUS - 100 Weeks - Control E,F) (N=73)   | GALILEO - 24 Weeks - Eylea 2 mg Q4 (N = 103)   | GALILEO - 24 Weeks - Control (N = 68)   | GALILEO - 52 Weeks - Eylea 2 mg (N = 103)   | GALILEO - 52 Weeks - Control (N = 68)   | GALILEO - 76 Weeks - Eylea G) 2 mg (N = 103)   |   GALILEO - 76 Weeks - (N | GALILEO - 76 Weeks - Control G) = 68)   |
+|--------------------------------------------------------------------------------|---------------------------------------------------|-------------------------------------------|------------------------------------------------|----------------------------------------------|---------------------------------------------------|------------------------------------------------|------------------------------------------------|-----------------------------------------|---------------------------------------------|-----------------------------------------|------------------------------------------------|---------------------------|-----------------------------------------|
+| Proportion of patients with ≥15 letters gain from baseline                     | 56%                                               | 12%                                       | 55%                                            | 30%                                          | 49.1%                                             | 23.3%                                          | 60%                                            | 22%                                     | 60%                                         | 32%                                     | 57.3%                                          |                           | 29.4%                                   |
+| Weighted difference A,B,E) (95% CI) p-value                                    | 44.8% (33.0, 56.6) p < 0.0001                     |                                           | 25.9% (11.8, 40.1) p = 0.0006                  |                                              | 26.7% (13.1, 40.3) p=0.0003                       |                                                | 38.3% (24.4, 52.1) p < 0.0001                  |                                         | 27.9% (13.0, 42.7) p = 0.0004               |                                         | 28.0% (13.3, 42.6) p=0.0004                    |                           |                                         |
+| Mean change in BCVA C) as measured by ETDRS C) letter score from baseline (SD) | 17.3 (12.8)                                       | -4.0 (18.0)                               | 16.2 (17.4)                                    | 3.8 (17.1)                                   | 13.0 (17.7)                                       | 1.5 (17.7)                                     | 18.0 (12.2)                                    | 3.3 (14.1)                              | 16.9 (14.8)                                 | 3.8 (18.1)                              | 13.7 (17.8)                                    |                       6.2 | (17.7)                                  |
+| Difference in LS mean A,C,D,E) (95% CI)                                        | 21.7 (17.4, 26.0)                                 |                                           | 12.7 (7.7, 17.7)                               |                                              | 11.8 (6.7, 17.0) p < 0.0001                       |                                                | 14.7 (10.8, 18.7)                              |                                         | 13.2 (8.2, 18.2)                            |                                         | 7.6 (2.1, 13.1)                                |                           |                                         |
+| p-value                                                                        | p < 0.0001                                        |                                           | p < 0.0001                                     |                                              |                                                   |                                                | p < 0.0001                                     |                                         | p < 0.0001                                  |                                         | p=0.0070                                       |                           |                                         |
 
-C)   BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study LOCF: Last Observation Carried Forward
+LOCF: Last Observation Carried Forward
 
 <div style=\"page-break-after: always\"></div>
 
 - SD: Standard deviation
 - LS: Least square means derived from ANCOVA
-- D)   LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (&gt; 20/200 and ≤ 20/200)
+- D) LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (&gt; 20/200 and ≤ 20/200)
 - E) In COPERNICUS study, control group patients could receive Eylea on an as-needed basis as frequently as every 4 weeks during week 24 to week 52; patients had visits every 4 weeks.
-- F)    In COPERNICUS study, both control group and Eylea 2 mg patients received Eylea 2 mg on an as-needed basis as frequently as every 4 weeks starting from week 52 to week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
-- G)    In GALILEO study, both control group and Eylea 2 mg patients received Eylea 2 mg on an as-needed basis every 8 weeks starting from week 52 to week 68; patients had mandatory visits every 8 weeks.
+- F) In COPERNICUS study, both control group and Eylea 2 mg patients received Eylea 2 mg on an as-needed basis as frequently as every 4 weeks starting from week 52 to week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
+- G) In GALILEO study, both control group and Eylea 2 mg patients received Eylea 2 mg on an as-needed basis every 8 weeks starting from week 52 to week 68; patients had mandatory visits every 8 weeks.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 2 : Mean Change from Baseline to Week 76/100 in Visual Acuity by Treatment Group for the COPERNICUS and GALILEO Studies (Full Analysis Set)
+Figure 2: Mean Change from Baseline to Week 76/100 in Visual Acuity by Treatment Group for the COPERNICUS and GALILEO Studies (Full Analysis Set)
+
+COPERNICUS
 
 <!-- image -->
 
 <!-- image -->
 
-XIndicates the switch of the control group toPRN treatment with EYLEA 2mg
+XIndicates the switch of the control group to PRN treatment with EYLEA 2mg In COPERNICUS, 67.5% (n = 77) of the Eylea group and 68.5% (n = 50) of the sham group had perfused CRVO at baseline. At week 24, this was 87.4% (n = 90) in the Eylea group and 58.6% (n = 34) in the sham group. These proportions were maintained at week 100 with 76.8% (n = 76) in the Eylea group and 78% (n = 39) in the sham group. Patients in the sham group were eligible to receive Eylea from week 24.
 
 In GALILEO, 86.4% (n=89) of the Eylea group and 79.4% (n=54) of the sham group had perfused CRVO at baseline. At week 24, this was 91.8% (n=89) in the Eylea group and 85.5% (n=47) in the sham group. These proportions were maintained at week 76, with 84.3% (n=75) in the Eylea group and 84.0% (n=42) in the sham group.
 
 <div style=\"page-break-after: always\"></div>
-
-In COPERNICUS, 67.5% (n = 77) of the Eylea group and 68.5% (n = 50) of the sham group had perfused CRVO at baseline. At week 24, this was 87.4% (n = 90) in the Eylea group and 58.6% (n = 34) in the sham group. These proportions were maintained at week 100 with 76.8% (n = 76) in the Eylea group and 78% (n = 39) in the sham group. Patients in the sham group were eligible to receive Eylea from week 24.
 
 The beneficial effect of Eylea treatment on visual function was similar in the baseline subgroups of perfused and non-perfused patients. Treatment effects in other evaluable subgroups (e.g. age, gender, race, baseline visual acuity, CRVO duration) in each study were in general consistent with the results in the overall populations.
 
@@ -547,7 +544,7 @@ In combined data analysis of GALILEO and COPERNICUS, Eylea demonstrated clinical
 
 ## Macular oedema secondary to BRVO
 
-The safety and efficacy of Eylea were assessed in a randomised, multi-centre, double-masked, activecontrolled study in patients with macular oedema secondary to BRVO (VIBRANT) which included Hemi-Retinal Vein Occlusion. A total of 181 patients were treated and evaluable for efficacy (91 with Eylea).   Patient ages ranged from 42 to 94 years with a mean of 65 years. In the BRVO study, approximately 58% (53/91) of the patients randomised to treatment with Eylea were 65 years of age or older, and approximately 23% (21/91) were 75 years of age or older. In the study, patients were randomly assigned in a 1:1 ratio to either 2 mg Eylea administered every 8 weeks following 6 initial monthly injections or laser photocoagulation administered at baseline (laser control group). Patients in the laser control group could receive additional laser photocoagulation (called 'rescue laser treatment') beginning at week 12 with a minimum interval of 12 weeks. Based on pre-specified criteria, patients in the laser group could receive rescue treatment with Eylea 2 mg from week 24, administered every 4 weeks for 3 months followed by every 8 weeks.
+The safety and efficacy of Eylea were assessed in a randomised, multi-centre, double-masked, activecontrolled study in patients with macular oedema secondary to BRVO (VIBRANT) which included Hemi-Retinal Vein Occlusion. A total of 181 patients were treated and evaluable for efficacy (91 with Eylea). Patient ages ranged from 42 to 94 years with a mean of 65 years. In the BRVO study, approximately 58% (53/91) of the patients randomised to treatment with Eylea were 65 years of age or older, and approximately 23% (21/91) were 75 years of age or older. In the study, patients were randomly assigned in a 1:1 ratio to either 2 mg Eylea administered every 8 weeks following 6 initial monthly injections or laser photocoagulation administered at baseline (laser control group). Patients in the laser control group could receive additional laser photocoagulation (called 'rescue laser treatment') beginning at week 12 with a minimum interval of 12 weeks. Based on pre-specified criteria, patients in the laser group could receive rescue treatment with Eylea 2 mg from week 24, administered every 4 weeks for 3 months followed by every 8 weeks.
 
 In the VIBRANT study, the primary efficacy endpoint was the proportion of patients who gained at least 15 letters in BCVA at week 24 compared to baseline and the Eylea group was superior to laser control.
 
@@ -559,26 +556,12 @@ Detailed results from the analysis of the VIBRANT study are shown in Table 4 and
 
 Table 4: Efficacy outcomes at week 24 and week 52 (Full Analysis Set with LOCF) in VIBRANT study
 
-| Efficacy Outcomes                                                        | VIBRANT                     | VIBRANT                         | VIBRANT                    | VIBRANT                                      |
-|--------------------------------------------------------------------------|-----------------------------|---------------------------------|----------------------------|----------------------------------------------|
-|                                                                          | 24 Weeks                    | 24 Weeks                        | 52 Weeks                   | 52 Weeks                                     |
-|                                                                          | Eylea 2mg Q4 (N = 91)       | Active Control (laser) (N = 90) | Eylea 2mg Q8 (N = 91) D)   | Active Control (laser)/Eylea 2mg E) (N = 90) |
-| Proportion of patients with ≥15 letters gain from Baseline (%)           | 52.7%                       | 26.7%                           | 57.1%                      | 41.1%                                        |
-| Weighted Difference A,B) (%) (95% CI) p-value                            | 26.6% (13.0, 40.1) p=0.0003 |                                 | 16.2% (2.0, 30.5) p=0.0296 |                                              |
-| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 (11.9)                 | 6.9 (12.9)                      | 17.1 (13.1)                | 12.2 (11.9)                                  |
-| Difference in LS mean A,C) (95% CI) p-value                              | 10.5 (7.1, 14.0) p<0.0001   |                                 | 5.2 (1.7, 8.7) p=0.0035 F) |                                              |
-
-A) Difference is Eylea 2 mg Q4 weeks minus Laser Control
-
-B) Difference and 95% CI are calculated using Mantel-Haenszel weighting scheme adjusted for region (North America vs. Japan) and baseline BCVA category (&gt; 20/200 and ≤ 20/200)
-
-C) LS mean difference and 95% CI based on an ANCOVA model with treatment group, baseline BCVA category (&gt; 20/200 and ≤ 20/200) and region (North America vs. Japan) as fixed effects, and baseline BCVA as covariate.
-
-D) From week 24 on the treatment interval in the Eylea treatment group was extended for all subjects from 4 weeks to 8 weeks through week 48.
-
-E) Beginning at week 24 subjects in the Laser Group could receive rescue treatment with Eylea, if they met at least one pre-specified eligibility criterion. At total of 67 subjects in this group received Eylea rescue treatment. The fixed regimen for Eylea rescue was three times Eylea 2 mg every 4 weeks followed by injections every 8 weeks.
-
-F) Nominal p-value
+| Efficacy Outcomes                                                        | VIBRANT - 24 Weeks - Eylea 2mg Q4 (N = 91)   | VIBRANT - 24 Weeks - Active Control (laser) (N = 90)   | VIBRANT - 52 Weeks - Eylea 2mg Q8 (N = 91) D)   | VIBRANT - 52 Weeks - Active Control (laser)/Eylea 2mg E) (N = 90)   |
+|--------------------------------------------------------------------------|----------------------------------------------|--------------------------------------------------------|-------------------------------------------------|---------------------------------------------------------------------|
+| Proportion of patients with ≥15 letters gain from Baseline (%)           | 52.7%                                        | 26.7%                                                  | 57.1%                                           | 41.1%                                                               |
+| Weighted Difference A,B) (%) (95% CI) p-value                            | 26.6% (13.0, 40.1) p=0.0003                  |                                                        | 16.2% (2.0, 30.5) p=0.0296                      |                                                                     |
+| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 (11.9)                                  | 6.9 (12.9)                                             | 17.1 (13.1)                                     | 12.2 (11.9)                                                         |
+| Difference in LS mean A,C) (95% CI) p-value                              | 10.5 (7.1, 14.0) p<0.0001                    |                                                        | 5.2 (1.7, 8.7) p=0.0035 F)                      |                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -590,7 +573,7 @@ At baseline, the proportion of perfused patients in the Eylea and laser groups w
 
 ## Diabetic macular oedema
 
-The safety and efficacy of Eylea were assessed in two randomised, multi-centre, double-masked, active-controlled studies in patients with DME (VIVID DME  and VISTA DME ). A total of 862 patients were treated and evaluable for efficacy, 576 with Eylea. Patient ages ranged from 23 to 87 years with a mean of 63 years. In the DME studies, approximately 47% (268/576) of the patients randomised to treatment with Eylea were 65 years of age or older, and approximately 9% (52/576) were 75 years of age or older. The majority of patients in both studies had Type II diabetes.
+The safety and efficacy of Eylea were assessed in two randomised, multi-centre, double-masked, active-controlled studies in patients with DME (VIVID DME and VISTA DME ). A total of 862 patients were treated and evaluable for efficacy, 576 with Eylea. Patient ages ranged from 23 to 87 years with a mean of 63 years. In the DME studies, approximately 47% (268/576) of the patients randomised to treatment with Eylea were 65 years of age or older, and approximately 9% (52/576) were 75 years of age or older. The majority of patients in both studies had Type II diabetes.
 
 In both studies, patients were randomly assigned in a 1:1:1 ratio to 1 of 3 dosing regimens:
 
@@ -602,56 +585,48 @@ Beginning at week 24, patients meeting a pre-specified threshold of vision loss 
 
 In both studies, the primary efficacy endpoint was the mean change from baseline in BCVA at week 52 and both Eylea 2Q8 and Eylea 2Q4 groups demonstrated statistical significance and were superior to the control group. This benefit was maintained through week 100.
 
-Detailed results from the analysis of the VIVID DME  and VISTA DME  studies are shown in Table 5 and Figure 4 below.
+Detailed results from the analysis of the VIVID DME and VISTA DME studies are shown in Table 5 and Figure 4 below.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 5: Efficacy outcomes at week 52 and week 100 (Full Analysis Set with LOCF) in VIVID DME  and VISTA DME  studies
+Table 5: Efficacy outcomes at week 52 and week 100 (Full Analysis Set with LOCF) in VIVID DME and VISTA DME studies
 
-| Efficacy Outcomes                                                     | VIVID DME                 | VIVID DME               | VIVID DME                        | VIVID DME                 | VIVID DME            | VIVID DME                        | VISTA DME                 | VISTA DME               | VISTA DME                        | VISTA DME                 | VISTA DME             | VISTA DME                        |
-|-----------------------------------------------------------------------|---------------------------|-------------------------|----------------------------------|---------------------------|----------------------|----------------------------------|---------------------------|-------------------------|----------------------------------|---------------------------|-----------------------|----------------------------------|
-| Efficacy Outcomes                                                     | 52 Weeks                  | 52 Weeks                | 52 Weeks                         | 100 Weeks                 | 100 Weeks            | 100 Weeks                        | 52 Weeks                  | 52 Weeks                | 52 Weeks                         | 100 Weeks                 | 100 Weeks             | 100 Weeks                        |
-| Efficacy Outcomes                                                     | Eylea 2 mg Q8 A (N = 135) | Eylea 2 mg Q4 (N = 136) | Active Control (laser) (N = 132) | Eylea 2 mg Q8 A (N = 135) | Eylea 2mg Q4 (N=136) | Active Control (laser) (N = 132) | Eylea 2 mg Q8 A (N = 151) | Eylea 2 mg Q4 (N = 154) | Active Control (laser) (N = 154) | Eylea 2 mg Q8 A (N = 151) | Eylea 2 mg Q4 (N=154) | Active Control (laser) (N = 154) |
-| Mean change in BCVA as measured by ETDRS E letter score from Baseline | 10.7                      | 10.5                    | 1.2                              | 9.4                       | 11.4                 | 0.7                              | 10.7                      | 12.5                    | 0.2                              | 11.1                      | 11.5                  | 0.9                              |
-| Difference in LS mean B,C,E (97.5% CI)                                | 9.1 (6.3, 11.8)           | 9.3 (6.5, 12.0)         |                                  | 8.2 (5.2, 11.3)           | 10.7 (7.6, 13.8)     |                                  | 10.45 (7.7, 13.2)         | 12.19 (9.4, 15.0)       |                                  | 10.1 (7.0, 13.3)          | 10.6 (7.1, 14.2)      |                                  |
-| Proportion of patients with ≥ 15 letters gain from Baseline           | 33%                       | 32%                     | 9%                               | 31.1%                     | 38.2%                | 12.1%                            | 31%                       | 42%                     | 8%                               | 33.1%                     | 38.3%                 | 13.0%                            |
-| Adjusted Difference D,C,E (97.5% CI)                                  | 24% (13.5, 34.9)          | 23% (12.6, 33.9)        |                                  | 19.0% (8.0, 29.9)         | 26.1% (14.8, 37.5)   |                                  | 23% (13.5, 33.1)          | 34% (24.1, 44.4)        |                                  | 20.1% (9.6, 30.6)         | 25.8% (15.1, 36.6)    |                                  |
+| Efficacy Outcomes                                                     | VIVID DME - 52 Weeks - Eylea 2 mg Q8 A (N = 135)   | VIVID DME - 52 Weeks - Eylea 2 mg Q4 (N = 136)   | VIVID DME - 52 Weeks - Active Control (laser) (N = 132)   | VIVID DME - 100 Weeks - Eylea 2 mg Q8 A (N = 135)   | VIVID DME - 100 Weeks - Eylea 2mg Q4 (N=136)   | VIVID DME - 100 Weeks - Active Control (laser) (N = 132)   | VISTA DME - 52 Weeks - Eylea 2 mg Q8 A (N = 151)   | VISTA DME - 52 Weeks - Eylea 2 mg Q4 (N = 154)   | VISTA DME - 52 Weeks - Active Control (laser) (N = 154)   | VISTA DME - 100 Weeks - Eylea 2 mg Q8 A (N = 151)   | VISTA DME - 100 Weeks - Eylea 2 mg Q4 (N=154)   | VISTA DME - 100 Weeks - Active Control (laser) (N = 154)   |
+|-----------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------|------------------------------------------------|------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|------------------------------------------------------------|
+| Mean change in BCVA as measured by ETDRS E letter score from Baseline | 10.7                                               | 10.5                                             | 1.2                                                       | 9.4                                                 | 11.4                                           | 0.7                                                        | 10.7                                               | 12.5                                             | 0.2                                                       | 11.1                                                | 11.5                                            | 0.9                                                        |
+| Difference in LS mean B,C,E (97.5% CI)                                | 9.1 (6.3, 11.8)                                    | 9.3 (6.5, 12.0)                                  |                                                           | 8.2 (5.2, 11.3)                                     | 10.7 (7.6, 13.8)                               |                                                            | 10.45 (7.7, 13.2)                                  | 12.19 (9.4, 15.0)                                |                                                           | 10.1 (7.0, 13.3)                                    | 10.6 (7.1, 14.2)                                |                                                            |
+| Proportion of patients with ≥ 15 letters gain from Baseline           | 33%                                                | 32%                                              | 9%                                                        | 31.1%                                               | 38.2%                                          | 12.1%                                                      | 31%                                                | 42%                                              | 8%                                                        | 33.1%                                               | 38.3%                                           | 13.0%                                                      |
+| Adjusted Difference D,C,E (97.5% CI)                                  | 24% (13.5, 34.9)                                   | 23% (12.6, 33.9)                                 |                                                           | 19.0% (8.0, 29.9)                                   | 26.1% (14.8, 37.5)                             |                                                            | 23% (13.5, 33.1)                                   | 34% (24.1, 44.4)                                 |                                                           | 20.1% (9.6, 30.6)                                   | 25.8% (15.1, 36.6)                              |                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-B    LS mean and CI based on an ANCOVA model with baseline BCVA measurement as a covariate and a factor for treatment group. Additionally, region (Europe/Australia vs. Japan) had been included as factor for VIVID DME , and history of MI and/or CVA as a factor for VISTA DME
+- B LS mean and CI based on an ANCOVA model with baseline BCVA measurement as a covariate and a factor for treatment group. Additionally, region (Europe/Australia vs. Japan) had been included as factor for VIVID DME , and history of MI and/or CVA as a factor for VISTA DME
+- C Difference is Eylea group minus active control (laser) group
+- D Difference with confidence interval (CI) and statistical test is calculated using Mantel-Haenszel weighting scheme adjusted by region (Europe/Australia vs. Japan) for VIVID DME and medical history of MI or CVA for VISTA DME
 
-C   Difference is Eylea group minus active control (laser) group
-
-D Difference with confidence interval (CI) and statistical test is calculated using Mantel-Haenszel weighting scheme adjusted by region (Europe/Australia vs. Japan) for VIVID DME  and medical history of MI or CVA for VISTA DME
-
-E   BCVA: Best Corrected Visual Acuity
+E BCVA: Best Corrected Visual Acuity
 
 ETDRS: Early Treatment Diabetic Retinopathy Study
 
 LOCF: Last Observation Carried Forward
 
-LS: Least square means derived from ANCOVA
+- LS: Least square means derived from ANCOVA
 
-CI: Confidence interval
+CI: Confidence interval Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline HbA1c, baseline visual acuity, prior anti-VEGF therapy) in each study and in the combined analysis were generally consistent with the results in the overall populations.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 4: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 100 in VIVID DME  and VISTA DME  Studies
+Figure 4: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 100 in VIVID DME and VISTA DME Studies
 
 <!-- image -->
 
-Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline HbA1c, baseline visual acuity, prior anti-VEGF therapy) in each study and in the combined analysis were generally consistent with the results in the overall populations.
+In the VIVID DME and VISTA DME studies, 36 (9%) and 197 (43%) patients received prior anti-VEGF therapy, respectively, with a 3-month or longer washout period. Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor were similar to those seen in patients who were VEGF inhibitor naïve.
 
-In the VIVID DME  and VISTA DME  studies, 36 (9%) and 197 (43%) patients received prior anti-VEGF therapy, respectively, with a 3-month or longer washout period. Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor were similar to those seen in patients who were VEGF inhibitor naïve.
+Patients with bilateral disease were eligible to receive anti-VEGF treatment in their fellow eye if assessed necessary by the physician. In the VISTA DME study, 217 (70.7%) of Eylea patients received bilateral Eylea injections until week 100; in the VIVID DME study, 97 (35.8%) of Eylea patients received a different anti-VEGF treatment in their fellow eye.
 
-Patients with bilateral disease were eligible to receive anti-VEGF treatment in their fellow eye if assessed necessary by the physician. In the VISTA DME  study, 217 (70.7%) of Eylea patients received bilateral Eylea injections until week 100; in the VIVID DME  study, 97 (35.8%) of Eylea patients received a different anti-VEGF treatment in their fellow eye.
-
-An independent comparative trial (DRCR.net Protocol T) utilised a flexible dosing regimen based on strict OCT and vision re-treatment criteria. In the aflibercept treatment group (n = 224) at week 52, this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the Eylea 2Q8 group in VIVID DME and VISTA DME , while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the Eylea 2Q8 group in VIVID DME  and VISTA DME . A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidence
+An independent comparative trial (DRCR.net Protocol T) utilised a flexible dosing regimen based on strict OCT and vision re-treatment criteria. In the aflibercept treatment group (n = 224) at week 52, this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the Eylea 2Q8 group in VIVID DME and VISTA DME , while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the Eylea 2Q8 group in VIVID DME and VISTA DME . A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidence of ocular and non-ocular adverse events (including ATEs) were comparable across all treatment groups in each of the studies and between the studies.
 
 <div style=\"page-break-after: always\"></div>
-
-of ocular and non-ocular adverse events (including ATEs) were comparable across all treatment groups in each of the studies and between the studies.
 
 VIOLET, a 100-week multicentre, randomised, open-label, active controlled study in patients with DME compared three different dosing regimens of Eylea 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses followed by dosing every 2 months. The study evaluated non-inferiority of Eylea 2 mg dosed according to a treat-and-extend regimen (2T&amp;E where injections intervals were kept at a minimum of 8 weeks and gradually extended based onclinical and anatomical outcomes) and Eylea 2 mg dosed as needed (2PRN where patients were observed every 4 weeks and injected when needed based on clinical and anatomical outcomes), compared to Eylea 2 mg dosed every 8 weeks (2Q8) for the second and third year of treatment.
 
@@ -675,21 +650,14 @@ Detailed results from the analysis of the MYRROR study are shown in Table 6 and 
 
 Table 6: Efficacy outcomes at week 24 (primary analysis) and week 48 in MYRROR study (Full Analysis Set with LOCF A) )
 
-| Efficacy Outcomes                                                              | MYRROR             | MYRROR        | MYRROR             | MYRROR                   |
-|--------------------------------------------------------------------------------|--------------------|---------------|--------------------|--------------------------|
-|                                                                                | 24 Weeks           | 24 Weeks      | 48 Weeks           | 48 Weeks                 |
-|                                                                                | Eylea 2mg (N = 90) | Sham (N = 31) | Eylea 2mg (N = 90) | Sham/ Eylea 2mg (N = 31) |
-| Mean change in BCVA B) as measured by ETDRS letter score from baseline (SD) B) | 12.1 (8.3)         | -2.0 (9.7)    | 13.5 (8.8)         | 3.9 (14.3)               |
-| Difference in LS mean C,D,E) (95% CI)                                          | 14.1 (10.8, 17.4)  |               | 9.5 (5.4, 13.7)    |                          |
-| Proportion of patients with ≥15 letters gain from baseline                     | 38.9%              | 9.7%          | 50.0%              | 29.0%                    |
-| Weighted difference D,F) (95% CI)                                              | 29.2% (14.4, 44.0) |               | 21.0% (1.9, 40.1)  |                          |
+| Efficacy Outcomes                                                              | MYRROR - 24 Weeks - Eylea 2mg (N = 90)   | MYRROR - 24 Weeks - Sham (N = 31)   | MYRROR - 48 Weeks - Eylea 2mg (N = 90)   | MYRROR - 48 Weeks - Sham/ Eylea 2mg (N = 31)   |
+|--------------------------------------------------------------------------------|------------------------------------------|-------------------------------------|------------------------------------------|------------------------------------------------|
+| Mean change in BCVA B) as measured by ETDRS letter score from baseline (SD) B) | 12.1 (8.3)                               | -2.0 (9.7)                          | 13.5 (8.8)                               | 3.9 (14.3)                                     |
+| Difference in LS mean C,D,E) (95% CI)                                          | 14.1 (10.8, 17.4)                        |                                     | 9.5 (5.4, 13.7)                          |                                                |
+| Proportion of patients with ≥15 letters gain from baseline                     | 38.9%                                    | 9.7%                                | 50.0%                                    | 29.0%                                          |
+| Weighted difference D,F) (95% CI)                                              | 29.2% (14.4, 44.0)                       |                                     | 21.0% (1.9, 40.1)                        |                                                |
 
-- A)
-- LOCF: Last Observation Carried Forward
-- B) BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study
-
-SD: Standard Deviation
-
+- A) LOCF: Last Observation Carried Forward B) BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study SD: Standard Deviation
 - C) LS mean: Least square means derived from ANCOVA model
 - D) CI: Confidence Interval
 - E) LS mean difference and 95% CI based on an ANCOVA model with treatment group and country (country designations) as fixed effects, and baseline BCVA as covariant.
@@ -703,11 +671,9 @@ Figure 5: Mean Change from Baseline to Week 48 in Visual Acuity by Treatment Gro
 
 ## Retinopathy of prematurity (ROP)
 
-The efficacy, safety and tolerability of Eylea 0.4 mg for the treatment of ROP in preterm infants were assessed based on the 6-month data from the multicentre, randomised, 2-arm, open-label parallelgroup study FIREFLEYE, which was designed to evaluate Eylea 0.4 mg given as intravitreal injection
+The efficacy, safety and tolerability of Eylea 0.4 mg for the treatment of ROP in preterm infants were assessed based on the 6-month data from the multicentre, randomised, 2-arm, open-label parallelgroup study FIREFLEYE, which was designed to evaluate Eylea 0.4 mg given as intravitreal injection in comparison to laser photocoagulation therapy (laser). Eligible patients had treatment-naïve ROP classified according to the International Classification for Retinopathy of Prematurity in at least one eye with one of the following retinal findings:
 
 <div style=\"page-break-after: always\"></div>
-
-in comparison to laser photocoagulation therapy (laser). Eligible patients had treatment-naïve ROP classified according to the International Classification for Retinopathy of Prematurity in at least one eye with one of the following retinal findings:
 
 - ROP Zone I Stage 1+, 2+, 3 or 3+, or
 - ROP Zone II Stage 2+ or 3+, or
@@ -751,7 +717,7 @@ Eylea is administered directly into the vitreous to exert local effects in the e
 
 ## Absorption / Distribution
 
-Aflibercept is slowly absorbed from the eye into the systemic circulation after intravitreal administration and is predominately observed in the systemic circulation as an inactive, stable complex with VEGF; however only 'free aflibercept' is able to bind endogenous VEGF.
+Aflibercept is slowly absorbed from the eye into the systemic circulation after intravitreal administration and is predominately observed in the systemic circulation as an inactive, stable complex with VEGF; however only \"free aflibercept\" is able to bind endogenous VEGF.
 
 In a pharmacokinetic sub-study in 6 neovascular wet AMD patients with frequent sampling, maximum plasma concentrations of free aflibercept (systemic Cmax) were low, with a mean of approximately 0.02 microgram/mL (range 0 to 0.054) within 1 to 3 days after a 2 mg intravitreal injection, and were undetectable two weeks following dosage in almost all patients. Aflibercept does not accumulate in the plasma when administered intravitreally every 4 weeks.
 
@@ -771,15 +737,13 @@ No special studies in patients with renal impairment have been conducted with Ey
 
 Pharmacokinetic analysis of patients in the VIEW2 study, of which 40% had renal impairment (24% mild, 15% moderate, and 1% severe), revealed no differences with respect to plasma concentrations of active drug after intravitreal administration every 4 or 8 weeks.
 
-Similar results were seen in patients with CRVO in the GALILEO study, in patients with DME in the VIVID DME  study, and in patients with myopic CNV in the MYRROR study.
+Similar results were seen in patients with CRVO in the GALILEO study, in patients with DME in the VIVID DME study, and in patients with myopic CNV in the MYRROR study.
 
 ## Paediatric population
 
-Pharmacokinetic properties of aflibercept were evaluated in preterm infants with ROP at a dose of 0.4 mg aflibercept (per eye). Following intravitreal injection, concentrations of free and bound aflibercept were higher than those observed in wet AMD adult patients receiving 2 mg (in one eye) but lower than after i.v . administration of the maximum tolerated dose of 1 mg/kg in adult patients. Mean concentrations of free aflibercept declined to approximately 0.13 microgram/mL at week 4 after dosing. Plasma concentrations of free aflibercept declined to values below or close to the lower limit
+Pharmacokinetic properties of aflibercept were evaluated in preterm infants with ROP at a dose of 0.4 mg aflibercept (per eye). Following intravitreal injection, concentrations of free and bound aflibercept were higher than those observed in wet AMD adult patients receiving 2 mg (in one eye) but lower than after i.v. administration of the maximum tolerated dose of 1 mg/kg in adult patients. Mean concentrations of free aflibercept declined to approximately 0.13 microgram/mL at week 4 after dosing. Plasma concentrations of free aflibercept declined to values below or close to the lower limit of quantitation within approximately 8 weeks. Mean concentrations of adjusted bound aflibercept increased up to 1.34 microgram/mL at week 4 and declined thereafter.
 
 <div style=\"page-break-after: always\"></div>
-
-of quantitation within approximately 8 weeks. Mean concentrations of adjusted bound aflibercept increased up to 1.34 microgram/mL at week 4 and declined thereafter.
 
 An exploratory PK/PD analysis showed no relationship between systemic aflibercept concentrations and pharmacodynamic effects such as blood pressure changes.
 
@@ -827,11 +791,11 @@ Solution in pre-filled syringe (type I glass) marked with a dosing line, with a 
 
 ## 6.6 Special precautions for disposal and other handling
 
-The pre-filled syringe is for single use in one eye only. Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection .
+The pre-filled syringe is for single use in one eye only. Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection.
 
 Do not open the sterile pre-filled syringe blister outside the clean administration room. Any unused medicinal product or waste material should be disposed of in accordance with local requirements
 
-The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL) for adult patients and 0.4 mg aflibercept (equivalent to 0.01 mL) for preterm infants. See following sections 'Use in the adult population' and 'Use in the paediatric population'.
+The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL) for adult patients and 0.4 mg aflibercept (equivalent to 0.01 mL) for preterm infants. See following sections \"Use in the adult population\" and \"Use in the paediatric population\".
 
 The solution should be inspected visually for any foreign particulate matter and/or discolouration or any variation in physical appearance prior to administration. In the event of either being observed, discard the medicinal product.
 
@@ -871,7 +835,7 @@ Note: This accurate positioning of the plunger is very important, because incorr
 
 <!-- image -->
 
-8. Inject while pressing the plunger carefully and with constant pressure. Do not apply additional pressure once the plunger has reached the bottom of the syringe. Do not administer any residual solution observed in the syringe .
+8. Inject while pressing the plunger carefully and with constant pressure. Do not apply additional pressure once the plunger has reached the bottom of the syringe. Do not administer any residual solution observed in the syringe.
 9. The pre-filled syringe is for single use only. Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
@@ -884,9 +848,7 @@ EU/1/12/797/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 22 November 2012
-
-Date of latest renewal: 13 July 2017
+Date of first authorisation: 22 November 2012 Date of latest renewal: 13 July 2017
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1045,7 +1007,9 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Intravitreal injections, including those with Eylea, have been associated with endophthalmitis, intraocular inflammation, rhegmatogenous retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.8). Proper aseptic injection techniques must always be used when administering Eylea. In addition, patients should be monitored during the week following the injection to permit early treatment if an infection occurs. Patients should be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay.
 
-The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL). The excess volume must be discarded prior to administration (see sections 4.2 and 6.6). Increases in intraocular pressure have been seen within 60 minutes of intravitreal injection, including those with Eylea (see section 4.8). Special precaution is needed in patients with poorly controlled glaucoma (do not inject Eylea while the intraocular pressure is ≥ 30 mmHg). In all cases, both the intraocular pressure and the perfusion of the optic nerve head must therefore be monitored and managed appropriately.
+## The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL). The excess volume must be discarded prior to administration (see sections 4.2 and 6.6).
+
+Increases in intraocular pressure have been seen within 60 minutes of intravitreal injection, including those with Eylea (see section 4.8). Special precaution is needed in patients with poorly controlled glaucoma (do not inject Eylea while the intraocular pressure is ≥ 30 mmHg). In all cases, both the intraocular pressure and the perfusion of the optic nerve head must therefore be monitored and managed appropriately.
 
 ## Immunogenicity
 
@@ -1066,7 +1030,7 @@ As with other intravitreal anti-VEGF treatments for AMD, CRVO, BRVO, DME and myo
 - There is no data available on the concomitant use of Eylea with other anti-VEGF medicinal products (systemic or ocular).
 - Risk factors associated with the development of a retinal pigment epithelial tear after antiVEGF therapy for wet AMD, include a large and/or high pigment epithelial retinal detachment. When initiating Eylea therapy, caution should be used in patients with these risk factors for retinal pigment epithelial tears.
 - Treatment should be withheld in patients with rhegmatogenous retinal detachment or stage 3 or 4 macular holes.
-- In the event of a retinal break the dose should be withheld and treatment should not be resumed until the break is adequately repaired .
+- In the event of a retinal break the dose should be withheld and treatment should not be resumed until the break is adequately repaired.
 - The dose should be withheld and treatment should not be resumed earlier than the next scheduled treatment in the event of:
 - o a decrease in best-corrected visual acuity (BCVA) of ≥30 letters compared with the last assessment of visual acuity;
 - o a subretinal haemorrhage involving the centre of the fovea, or, if the size of the haemorrhage is ≥50%, of the total lesion area.
@@ -1077,7 +1041,9 @@ As with other intravitreal anti-VEGF treatments for AMD, CRVO, BRVO, DME and myo
 
 ## Populations with limited data
 
-There is only limited experience in the treatment of subjects with DME due to type I diabetes or in diabetic patients with an HbA1c over 12% or with proliferative diabetic retinopathy. Eylea has not been studied in patients with active systemic infections or in patients with concurrent eye conditions such as retinal detachment or macular hole. There is also no experience of treatment with Eylea in diabetic patients with uncontrolled hypertension. This lack of information should be considered by the physician when treating such patients.
+There is only limited experience in the treatment of subjects with DME due to type I diabetes or in diabetic patients with an HbA1c over 12% or with proliferative diabetic retinopathy.
+
+Eylea has not been studied in patients with active systemic infections or in patients with concurrent eye conditions such as retinal detachment or macular hole. There is also no experience of treatment with Eylea in diabetic patients with uncontrolled hypertension. This lack of information should be considered by the physician when treating such patients.
 
 In myopic CNV there is no experience with Eylea in the treatment of non-Asian patients, patients who have previously undergone treatment for myopic CNV, and patients with extrafoveal lesions.
 
@@ -1085,8 +1051,8 @@ In myopic CNV there is no experience with Eylea in the treatment of non-Asian pa
 
 This medicinal product contains
 
-- -less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'
-- -0.015 mg of polysorbate 20 in each 0.05 ml dose which is equivalent to 0.3 mg/ml. Polysorbates may cause allergic reactions.
+- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'
+- 0.015 mg of polysorbate 20 in each 0.05 ml dose which is equivalent to 0.3 mg/ml. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -1104,7 +1070,9 @@ Women of childbearing potential have to use effective contraception during treat
 
 ## Pregnancy
 
-There are no data on the use of aflibercept in pregnant women. Studies in animals have shown embryo-foetal toxicity (see section 5.3).
+There are no data on the use of aflibercept in pregnant women.
+
+Studies in animals have shown embryo-foetal toxicity (see section 5.3).
 
 Although the systemic exposure after ocular administration is very low, Eylea should not be used during pregnancy unless the potential benefit outweighs the potential risk to the foetus.
 
@@ -1140,11 +1108,11 @@ The adverse reactions are listed by system organ class and frequency using the f
 
 <div style=\"page-break-after: always\"></div>
 
-Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (  1/10,000 to &lt;1/1,000), not known (cannot be estimated from the available data).
+Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (1/10,000 to &lt;1/1,000), not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
 
-Table 1 : All treatment-emergent adverse drug reactions reported in patients in phase III studies (pooled data of the phase III studies for the indications wet AMD, CRVO, BRVO, DME and myopic CNV) or during post-marketing surveillance
+Table 1: All treatment-emergent adverse drug reactions reported in patients in phase III studies (pooled data of the phase III studies for the indications wet AMD, CRVO, BRVO, DME and myopic CNV) or during post-marketing surveillance
 
 | System Organ Class      | Frequency   | Adverse reaction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1152,8 +1120,8 @@ Table 1 : All treatment-emergent adverse drug reactions reported in patients in 
 | Eye disorders           | Very common | Visual acuity reduced, Retinal haemorrhage, Conjunctival haemorrhage, Eye pain                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Eye disorders           | Common      | Retinal pigment epithelial tear*, Detachment of the retinal pigment epithelium, Retinal degeneration, Vitreous haemorrhage, Cataract, Cataract cortical, Cataract nuclear, Cataract subcapsular, Corneal erosion, Corneal abrasion, Intraocular pressure increased, Vision blurred, Vitreous floaters, Vitreous detachment, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Eyelid oedema, Injection site haemorrhage, Punctate keratitis, Conjunctival hyperaemia, Ocular hyperaemia |
 | Eye disorders           | Uncommon    | Endophthalmitis**, Retinal detachment, Retinal tear, Iritis, Uveitis, Iridocyclitis, Lenticular opacities, Corneal epithelium defect, Injection site irritation, Abnormal sensation in eye, Eyelid irritation, Anterior chamber flare, Corneal oedema                                                                                                                                                                                                                                                             |
-| Eye disorders           | Rare        | Blindness, Cataract traumatic, Vitritis, Hypopyon                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Eye disorders           | Not known   | Scleritis****                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Eye disorders           | Rare        | Blindness, Cataract traumatic, Vitritis, Hypopyon, Retinal vasculitis                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Eye disorders           | Not known   | Scleritis****, Retinal occlusive vasculitis****                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 * Conditions known to be associated with wet AMD. Observed in the wet AMD studies only.
 
@@ -1173,13 +1141,11 @@ A low incidence rate of arterial thromboembolic events was observed in the Eylea
 
 As with all therapeutic proteins, there is a potential for immunogenicity with Eylea.
 
-## Reporting of suspected adverse reactions
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
-
 <div style=\"page-break-after: always\"></div>
 
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -1215,7 +1181,7 @@ In the VIEW1 study there were mean decreases in CRT on optical coherence tomogra
 
 <div style=\"page-break-after: always\"></div>
 
-The ALTAIR study was conducted in Japanese patients with treatment naïve wet AMD, showing similar outcomes to the VIEW studies using 3 initial monthly Eylea 2 mg injections, followed by one injection after a further 2 months, and then continued with a treat-and-extend regimen with variable treatment intervals (2-week or 4-week adjustments) up to a maximum 16 week interval according to pre-specified criteria. At week 52, there were mean decreases in central retinal thickness (CRT) on OCT of -134.4 and -126.1 microns for the 2-week adjustment group and the 4-week adjustment group, respectively. The proportion of patients without fluid on OCT at week 52 was 68.3% and 69.1% in the 2- and 4-week adjustment groups, respectively. The reduction in CRT was generally maintained in both treatment arms in the second year of the ALTAIR study .
+The ALTAIR study was conducted in Japanese patients with treatment naïve wet AMD, showing similar outcomes to the VIEW studies using 3 initial monthly Eylea 2 mg injections, followed by one injection after a further 2 months, and then continued with a treat-and-extend regimen with variable treatment intervals (2-week or 4-week adjustments) up to a maximum 16 week interval according to pre-specified criteria. At week 52, there were mean decreases in central retinal thickness (CRT) on OCT of -134.4 and -126.1 microns for the 2-week adjustment group and the 4-week adjustment group, respectively. The proportion of patients without fluid on OCT at week 52 was 68.3% and 69.1% in the 2- and 4-week adjustment groups, respectively. The reduction in CRT was generally maintained in both treatment arms in the second year of the ALTAIR study.
 
 The ARIES study was designed to explore the non-inferiority of an Eylea 2 mg treat-and-extend dosing regimen initiated immediately after administration of 3 initial monthly injections and one additional injection after 2 months vs. a treat-and-extend dosing regimen initiated after one year of treatment. For patients requiring a more frequent than Q8 dosing at least once over the course of the study, CRT remained higher, but the mean decrease in CRT from baseline to week 104 was -160.4 microns, similar to the patients treated at Q8 or less frequent intervals.
 
@@ -1223,7 +1189,7 @@ The ARIES study was designed to explore the non-inferiority of an Eylea 2 mg tre
 
 In CRVO and BRVO, retinal ischaemia occurs and signals the release of VEGF which in turn destabilises the tight junctions and promotes endothelial cell proliferation. Up-regulation of VEGF is associated with the breakdown of the blood retina barrier, increased vascular permeability, retinal oedema, and neovascularisation complications.
 
-In patients treated with 6 consecutive monthly injections of Eylea 2 mg, there was a consistent, rapid and robust morphologic response (as measured by improvements in mean CRT) observed. At week 24, the reduction in CRT was statistically superior versus control in all three studies (COPERNICUS in CRVO: -457 vs. -145 microns; GALILEO in CRVO: -449 vs. -169 microns; VIBRANT in BRVO: 280 vs. -128 microns). This decrease from baseline in CRT was maintained to the end of each study, week 100 in COPERNICUS, week 76 in GALILEO, and week 52 in VIBRANT.
+In patients treated with 6 consecutive monthly injections of Eylea 2 mg, there was a consistent, rapid and robust morphologic response (as measured by improvements in mean CRT) observed. At week 24, the reduction in CRT was statistically superior versus control in all three studies (COPERNICUS in CRVO: -457 vs. -145 microns; GALILEO in CRVO: -449 vs. -169 microns; VIBRANT in BRVO: - 280 vs. -128 microns). This decrease from baseline in CRT was maintained to the end of each study, week 100 in COPERNICUS, week 76 in GALILEO, and week 52 in VIBRANT.
 
 ## Diabetic macular oedema
 
@@ -1231,15 +1197,13 @@ Diabetic macular oedema is a consequence of diabetic retinopathy and is characte
 
 In patients treated with Eylea, the majority of whom were classified as having Type II diabetes, a rapid and robust response in morphology (CRT, DRSS level) was observed.
 
-In the VIVID DME and the VISTA DME  studies, a statistically significant greater mean decrease in CRT from baseline to week 52 was observed in patients treated with Eylea than with the laser control, 192.4 and -183.1 microns for the 2Q8 Eylea groups and -66.2 and -73.3 microns for the control groups, respectively. At week 100 the decrease was maintained with -195.8 and -191.1 microns for the 2Q8 Eylea groups and -85.7 and -83.9 microns for the control groups, in the VIVID DME  and VISTA DME  studies, respectively.
+In the VIVID DME and the VISTA DME studies, a statistically significant greater mean decrease in CRT from baseline to week 52 was observed in patients treated with Eylea than with the laser control, - 192.4 and -183.1 microns for the 2Q8 Eylea groups and -66.2 and -73.3 microns for the control groups, respectively. At week 100 the decrease was maintained with -195.8 and -191.1 microns for the 2Q8 Eylea groups and -85.7 and -83.9 microns for the control groups, in the VIVID DME and VISTA DME studies, respectively.
 
-A ≥2 step improvement in DRSS was assessed in a pre-specified manner in VIVID DME  and VISTA DME . The DRSS score was gradable in 73.7% of the patients in VIVID DME  and 98.3% of the patients in VISTA DME . At week 52, 27.7% and 29.1% of the Eylea 2Q8 groups, and 7.5% and 14.3% of the control groups experienced a ≥2 step improvement in the DRSS. At week 100, the respective percentages were 32.6% and 37.1% of the Eylea 2Q8 groups and 8.2% and 15.6% of the control groups.
-
-The VIOLET study compared three different dosing regimens of Eylea 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses followed by dosing every 2 months. At week 52 and week 100 of the study, i.e. second
+A ≥2 step improvement in DRSS was assessed in a pre-specified manner in VIVID DME and VISTA DME . The DRSS score was gradable in 73.7% of the patients in VIVID DME and 98.3% of the patients in VISTA DME . At week 52, 27.7% and 29.1% of the Eylea 2Q8 groups, and 7.5% and 14.3% of the control groups experienced a ≥2 step improvement in the DRSS. At week 100, the respective percentages were 32.6% and 37.1% of the Eylea 2Q8 groups and 8.2% and 15.6% of the control groups.
 
 <div style=\"page-break-after: always\"></div>
 
-and third year of treatment, the mean changes in CRT were clinically similar for treat-and-extend (2T&amp;E), pro re nata (2PRN) and 2Q8, respectively, -2.1, 2.2 and -18.8 microns at week 52, and 2.3, -13.9 and -15.5 microns at week 100.
+The VIOLET study compared three different dosing regimens of Eylea 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses followed by dosing every 2 months. At week 52 and week 100 of the study, i.e. second and third year of treatment, the mean changes in CRT were clinically similar for treat-and-extend (2T&amp;E), pro re nata (2PRN) and 2Q8, respectively, -2.1, 2.2 and -18.8 microns at week 52, and 2.3, -13.9 and -15.5 microns at week 100.
 
 ## Myopic choroidal neovascularisation
 
@@ -1268,31 +1232,30 @@ Detailed results from the combined analysis of both studies are shown in Table 2
 
 <div style=\"page-break-after: always\"></div>
 
-Table 2 : Efficacy outcomes at week 52 (primary analysis) and week 96; combined data from the VIEW1 and VIEW2 studies B)
+Table 2: Efficacy outcomes at week 52 (primary analysis) and week 96; combined data from the VIEW1 and VIEW2 studies B)
 
-| Efficacy Outcome                                                       | Eylea 2Q8 E) (Eylea 2 mg every 8 weeks following 3 initial monthly doses) ( N = 607)   | Eylea 2Q8 E) (Eylea 2 mg every 8 weeks following 3 initial monthly doses) ( N = 607)   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) ( N = 595)   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) ( N = 595)   |
-|------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
-|                                                                        | Week 52                                                                                | Week 96                                                                                | Week 52                                                           | Week 96                                                           |
-| Mean number of injections from baseline                                | 7.6                                                                                    | 11.2                                                                                   | 12.3                                                              | 16.5                                                              |
-| Mean number of injections from Week 52 to 96                           |                                                                                        | 4.2                                                                                    |                                                                   | 4.7                                                               |
-| Proportion of patients with < 15 letters loss from baseline (PPS A) )  | 95.33% B)                                                                              | 92.42%                                                                                 | 94.42% B)                                                         | 91.60%                                                            |
-| Difference C) (95% CI) D)                                              | 0.9% (-1.7, 3.5) F)                                                                    | 0.8% (-2.3, 3.8) F)                                                                    |                                                                   |                                                                   |
-| Mean change in BCVA as measured by ETDRS A) letter score from baseline | 8.40                                                                                   | 7.62                                                                                   | 8.74                                                              | 7.89                                                              |
-| Difference in LS A) mean change (ETDRS letters) C) (95% CI) D)         | -0.32 (-1.87, 1.23)                                                                    | -0.25 (-1.98, 1.49)                                                                    |                                                                   |                                                                   |
-| Proportion of patients with ≥ 15 letters gain from baseline            | 30.97%                                                                                 | 33.44%                                                                                 | 32.44%                                                            | 31.60%                                                            |
-| Difference C) (95% CI) D)                                              | -1.5% (-6.8, 3.8)                                                                      | 1.8% (-3.5, 7.1)                                                                       |                                                                   |                                                                   |
+| Efficacy Outcome                                                       | Eylea 2Q8 E) (Eylea 2 mg every 8 weeks following 3 initial monthly doses) (N = 607) - Week 52   | Eylea 2Q8 E) (Eylea 2 mg every 8 weeks following 3 initial monthly doses) (N = 607) - Week 96   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595) - Week 52   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595) - Week 96   |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Mean number of injections from baseline                                | 7.6                                                                                             | 11.2                                                                                            | 12.3                                                                       | 16.5                                                                       |
+| Mean number of injections from Week 52 to 96                           |                                                                                                 | 4.2                                                                                             |                                                                            | 4.7                                                                        |
+| Proportion of patients with < 15 letters loss from baseline (PPS A) )  | 95.33% B)                                                                                       | 92.42%                                                                                          | 94.42% B)                                                                  | 91.60%                                                                     |
+| Difference C) (95% CI) D)                                              | 0.9% (-1.7, 3.5) F)                                                                             | 0.8% (-2.3, 3.8) F)                                                                             |                                                                            |                                                                            |
+| Mean change in BCVA as measured by ETDRS A) letter score from baseline | 8.40                                                                                            | 7.62                                                                                            | 8.74                                                                       | 7.89                                                                       |
+| Difference in LS A) mean change (ETDRS letters) C) (95% CI) D)         | -0.32 (-1.87, 1.23)                                                                             | -0.25 (-1.98, 1.49)                                                                             |                                                                            |                                                                            |
+| Proportion of patients with ≥ 15 letters gain from baseline            | 30.97%                                                                                          | 33.44%                                                                                          | 32.44%                                                                     | 31.60%                                                                     |
+| Difference C) (95% CI) D)                                              | -1.5% (-6.8, 3.8)                                                                               | 1.8% (-3.5, 7.1)                                                                                |                                                                            |                                                                            |
 
 ETDRS: Early Treatment Diabetic Retinopathy Study
 
 LS: Least square means derived from ANCOVA
 
-PPS: Per Protocol Set
+PPS: Per Protocol Set In combined data analysis of VIEW1 and VIEW2 Eylea demonstrated clinically meaningful changes from baseline in pre-specified secondary efficacy endpoint National Eye Institute Visual Function Questionnaire (NEI VFQ-25) without clinically meaningful differences to ranibizumab. The magnitude of these changes was similar to that seen in published studies, which corresponded to a 15-letter gain in Best Corrected Visual Acuity (BCVA).
 
-B)   Full Analysis Set (FAS), Last Observation Carried Forward (LOCF) for all analyses except proportion of patients with maintained visual acuity at week 52 which is PPS
+B) Full Analysis Set (FAS), Last Observation Carried Forward (LOCF) for all analyses except proportion of patients with maintained visual acuity at week 52 which is PPS
 
 C) The difference is the value of the Eylea group minus the value of the ranibizumab group. A positive value favours Eylea.
 
-D)   Confidence interval (CI) calculated by normal approximation
+D) Confidence interval (CI) calculated by normal approximation
 
 E) After treatment initiation with three monthly doses
 
@@ -1300,11 +1263,9 @@ F) A confidence interval lying entirely above -10% indicates a non-inferiority o
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1 . Mean Change in Visual Acuity from Baseline to Week 96 for the Combined Data from the View1 and View2 Studies
+Figure 1. Mean Change in Visual Acuity from Baseline to Week 96 for the Combined Data from the View1 and View2 Studies
 
 <!-- image -->
-
-In combined data analysis of VIEW1 and VIEW2 Eylea demonstrated clinically meaningful changes from baseline in pre-specified secondary efficacy endpoint National Eye Institute Visual Function Questionnaire (NEI VFQ-25) without clinically meaningful differences to ranibizumab. The magnitude of these changes was similar to that seen in published studies, which corresponded to a 15-letter gain in Best Corrected Visual Acuity (BCVA).
 
 In the second year of the studies, efficacy was generally maintained through the last assessment at week 96, and 2-4% of patients required all injections on a monthly basis, and a third of patients required at least one injection with a treatment interval of only one month.
 
@@ -1348,67 +1309,35 @@ Detailed results from the analysis of both studies are shown in Table 3 and Figu
 
 Table 3: Efficacy outcomes at week 24, week 52 and week 76/100 (Full Analysis Set with LOCF C) ) in COPERNICUS and GALILEO studies
 
-| Efficacy Outcomes                                                              | COPERNICUS                    | COPERNICUS      | COPERNICUS                    | COPERNICUS         | COPERNICUS                  | COPERNICUS           | GALILEO                       | GALILEO          | GALILEO                       | GALILEO          | GALILEO                     | GALILEO             |
-|--------------------------------------------------------------------------------|-------------------------------|-----------------|-------------------------------|--------------------|-----------------------------|----------------------|-------------------------------|------------------|-------------------------------|------------------|-----------------------------|---------------------|
-| Efficacy Outcomes                                                              | 24 Weeks                      | 24 Weeks        | 52 Weeks                      | 52 Weeks           | 100 Weeks                   | 100 Weeks            | 24 Weeks                      | 24 Weeks         | 52 Weeks                      | 52 Weeks         | 76 Weeks                    | 76 Weeks            |
-| Efficacy Outcomes                                                              | Eylea 2 mg Q4 (N = 114)       | Control (N= 73) | Eylea 2 mg (N = 114)          | Control E) (N =73) | Eylea F) 2 mg (N= 114)      | Control E,F) ( N=73) | Eylea 2 mg Q4 (N = 103)       | Control (N = 68) | Eylea 2 mg (N = 103)          | Control (N = 68) | Eylea G) 2 mg (N = 103)     | Control G) (N = 68) |
-| Proportion of patients with≥15 letters gain from baseline                      | 56%                           | 12%             | 55%                           | 30%                | 49.1%                       | 23.3%                | 60%                           | 22%              | 60%                           | 32%              | 57.3%                       | 29.4%               |
-| Weighted difference A,B,E) (95% CI) p-value                                    | 44.8% (33.0, 56.6) p < 0.0001 |                 | 25.9% (11.8, 40.1) p = 0.0006 |                    | 26.7% (13.1, 40.3) p=0.0003 |                      | 38.3% (24.4, 52.1) p < 0.0001 |                  | 27.9% (13.0, 42.7) p = 0.0004 |                  | 28.0% (13.3, 42.6) p=0.0004 |                     |
-| Mean change in BCVA C) as measured by ETDRS C) letter score from baseline (SD) | 17.3 (12.8)                   | -4.0 (18.0)     | 16.2 (17.4)                   | 3.8 (17.1)         | 13.0 (17.7)                 | 1.5 (17.7)           | 18.0 (12.2)                   | 3.3 (14.1)       | 16.9 (14.8)                   | 3.8 (18.1)       | 13.7 (17.8)                 | 6.2 (17.7)          |
-| Difference in LS mean A,C,D,E) (95% CI) p-value                                | 21.7 (17.4, 26.0) p < 0.0001  |                 | 12.7 (7.7, 17.7) p < 0.0001   |                    | 11.8 (6.7, 17.0) p < 0.0001 |                      | 14.7 (10.8, 18.7) p < 0.0001  |                  | 13.2 (8.2, 18.2) p < 0.0001   |                  | 7.6 (2.1, 13.1) p=0.0070    |                     |
-
-ETDRS: Early Treatment Diabetic Retinopathy Study
-
-LOCF: Last Observation Carried Forward
+| Efficacy Outcomes                                                              | COPERNICUS - 24 Weeks - Eylea 2 mg Q4 (N = 114)   | COPERNICUS - 24 Weeks - Control (N= 73)   | COPERNICUS - 52 Weeks - Eylea 2 mg (N = 114)   | COPERNICUS - 52 Weeks - Control E) (N =73)   | COPERNICUS - 100 Weeks - Eylea F) 2 mg (N= 114)   | COPERNICUS - 100 Weeks - Control E,F) (N=73)   | GALILEO - 24 Weeks - Eylea 2 mg Q4 (N = 103)   | GALILEO - 24 Weeks - Control (N = 68)   | GALILEO - 52 Weeks - Eylea 2 mg (N = 103)   | GALILEO - 52 Weeks - Control (N = 68)   | GALILEO - 76 Weeks - Eylea G) 2 mg (N = 103)   | GALILEO - 76 Weeks - Control G) (N = 68)   |
+|--------------------------------------------------------------------------------|---------------------------------------------------|-------------------------------------------|------------------------------------------------|----------------------------------------------|---------------------------------------------------|------------------------------------------------|------------------------------------------------|-----------------------------------------|---------------------------------------------|-----------------------------------------|------------------------------------------------|--------------------------------------------|
+| Proportion of patients with≥15 letters gain from baseline                      | 56%                                               | 12%                                       | 55%                                            | 30%                                          | 49.1%                                             | 23.3%                                          | 60%                                            | 22%                                     | 60%                                         | 32%                                     | 57.3%                                          | 29.4%                                      |
+| Weighted difference A,B,E) (95% CI) p-value                                    | 44.8% (33.0, 56.6) p < 0.0001                     |                                           | 25.9% (11.8, 40.1) p = 0.0006                  |                                              | 26.7% (13.1, 40.3) p=0.0003                       |                                                | 38.3% (24.4, 52.1) p < 0.0001                  |                                         | 27.9% (13.0, 42.7) p = 0.0004               |                                         | 28.0% (13.3, 42.6) p=0.0004                    |                                            |
+| Mean change in BCVA C) as measured by ETDRS C) letter score from baseline (SD) | 17.3 (12.8)                                       | -4.0 (18.0)                               | 16.2 (17.4)                                    | 3.8 (17.1)                                   | 13.0 (17.7)                                       | 1.5 (17.7)                                     | 18.0 (12.2)                                    | 3.3 (14.1)                              | 16.9 (14.8)                                 | 3.8 (18.1)                              | 13.7 (17.8)                                    | 6.2 (17.7)                                 |
+| Difference in LS mean A,C,D,E) (95% CI) p-value                                | 21.7 (17.4, 26.0) p < 0.0001                      |                                           | 12.7 (7.7, 17.7) p < 0.0001                    |                                              | 11.8 (6.7, 17.0) p < 0.0001                       |                                                | 14.7 (10.8, 18.7) p < 0.0001                   |                                         | 13.2 (8.2, 18.2) p < 0.0001                 |                                         | 7.6 (2.1, 13.1) p=0.0070                       |                                            |
 
 <div style=\"page-break-after: always\"></div>
 
 - SD: Standard deviation
 - LS: Least square means derived from ANCOVA
-- D)   LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (&gt;20/200 and ≤20/200)
+- D) LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (&gt;20/200 and ≤20/200)
 - E) In COPERNICUS study, control group patients could receive Eylea on an as-needed basis as frequently as every 4 weeks during week 24 to week 52; patients had visits every 4 weeks.
-- F)    In COPERNICUS study, both control group and Eylea 2 mg patients received Eylea 2 mg on an as-needed basis as frequently as every 4 weeks starting from week 52 to week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
-- G)    In GALILEO study, both control group and Eylea 2 mg patients received Eylea 2 mg on an as-needed basis every 8 weeks starting from week 52 to week 68; patients had mandatory visits every 8 weeks.
+- F) In COPERNICUS study, both control group and Eylea 2 mg patients received Eylea 2 mg on an as-needed basis as frequently as every 4 weeks starting from week 52 to week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
+- G) In GALILEO study, both control group and Eylea 2 mg patients received Eylea 2 mg on an as-needed basis every 8 weeks starting from week 52 to week 68; patients had mandatory visits every 8 weeks.
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 2: Mean Change from Baseline to Week 76/100 in Visual Acuity by Treatment Group for the COPERNICUS and GALILEO Studies (Full Analysis Set)
 
-COPERNICUS
-
-PRN with monthly monitoringintervals
-
--4.0
+<!-- image -->
 
 Weeks
-
-GALILEO
 
 <!-- image -->
 
 XIndicates the switch of the control group to PRN treatment with EYLEA 2mg
 
 In GALILEO, 86.4% (n=89) of the Eylea group and 79.4% (n=54) of the sham group had perfused CRVO at baseline. At week 24, this was 91.8% (n=89) in the Eylea group and 85.5% (n=47) in the sham group. These proportions were maintained at week 76, with 84.3% (n=75) in the Eylea group and 84.0% (n=42) in the sham group.
-
-Mean Change in Visual Acuity
-
-(letters)
-
-20
-
-15
-
-10
-
-5
-
-fixed monthly dosing
-
-PRNwithextended monitoringintervals
-
-+13.0
-
-+1.5
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1420,7 +1349,7 @@ In combined data analysis of GALILEO and COPERNICUS, Eylea demonstrated clinical
 
 ## Macular oedema secondary to BRVO
 
-The safety and efficacy of Eylea were assessed in a randomised, multi-centre, double-masked, activecontrolled study in patients with macular oedema secondary to BRVO (VIBRANT) which included Hemi-Retinal Vein Occlusion. A total of 181 patients were treated and evaluable for efficacy (91 with Eylea). Patient ages ranged from 42 to 94 years with a mean of 65 years. In the BRVO study, approximately 58% (53/91) of the patients randomised to treatment with Eylea were 65 years of age or older, and approximately 23% (21/91) were 75 years of age or older.   In the study, patients were randomly assigned in a 1:1 ratio to either 2 mg Eylea administered every 8 weeks following 6 initial monthly injections or laser photocoagulation administered at baseline (laser control group). Patients in the laser control group could receive additional laser photocoagulation (called 'rescue laser treatment') beginning at week 12 with a minimum interval of 12 weeks. Based on pre-specified criteria, patients in the laser group could receive rescue treatment with Eylea 2 mg from week 24, administered every 4 weeks for 3 months followed by every 8 weeks.
+The safety and efficacy of Eylea were assessed in a randomised, multi-centre, double-masked, activecontrolled study in patients with macular oedema secondary to BRVO (VIBRANT) which included Hemi-Retinal Vein Occlusion. A total of 181 patients were treated and evaluable for efficacy (91 with Eylea). Patient ages ranged from 42 to 94 years with a mean of 65 years. In the BRVO study, approximately 58% (53/91) of the patients randomised to treatment with Eylea were 65 years of age or older, and approximately 23% (21/91) were 75 years of age or older. In the study, patients were randomly assigned in a 1:1 ratio to either 2 mg Eylea administered every 8 weeks following 6 initial monthly injections or laser photocoagulation administered at baseline (laser control group). Patients in the laser control group could receive additional laser photocoagulation (called 'rescue laser treatment') beginning at week 12 with a minimum interval of 12 weeks. Based on pre-specified criteria, patients in the laser group could receive rescue treatment with Eylea 2 mg from week 24, administered every 4 weeks for 3 months followed by every 8 weeks.
 
 In the VIBRANT study, the primary efficacy endpoint was the proportion of patients who gained at least 15 letters in BCVA at week 24 compared to baseline and the Eylea group was superior to laser control.
 
@@ -1434,28 +1363,12 @@ Detailed results from the analysis of the VIBRANT study are shown in Table 4 and
 
 Table 4: Efficacy outcomes at week 24 and week 52 (Full Analysis Set with LOCF) in VIBRANT study
 
-| Efficacy Outcomes                                                        | VIBRANT                     | VIBRANT                         | VIBRANT                    | VIBRANT                                      |
-|--------------------------------------------------------------------------|-----------------------------|---------------------------------|----------------------------|----------------------------------------------|
-| Efficacy Outcomes                                                        | 24 Weeks                    | 24 Weeks                        | 52 Weeks                   | 52 Weeks                                     |
-|                                                                          | Eylea 2mg Q4 (N = 91)       | Active Control (laser) (N = 90) | Eylea 2mg Q8 (N = 91) D)   | Active Control (laser)/Eylea 2mg E) (N = 90) |
-| Proportion of patients with ≥15 letters gain from Baseline (%)           | 52.7%                       | 26.7%                           | 57.1%                      | 41.1%                                        |
-| Weighted Difference A,B) (%) (95% CI) p-value                            | 26.6% (13.0, 40.1) p=0.0003 |                                 | 16.2% (2.0, 30.5) p=0.0296 |                                              |
-| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 (11.9)                 | 6.9 (12.9)                      | 17.1 (13.1)                | 12.2 (11.9)                                  |
-| Difference in LS mean A,C) (95% CI) p-value                              | 10.5 (7.1, 14.0) p<0.0001   |                                 | 5.2 (1.7, 8.7) p=0.0035 F) |                                              |
-
-A) Difference is Eylea 2 mg Q4 weeks minus Laser Control
-
-B) Difference and 95% CI are calculated using Mantel-Haenszel weighting scheme adjusted for region (North America vs. Japan) and baseline BCVA category (&gt; 20/200 and ≤ 20/200)
-
-C) LS mean difference and 95% CI based on an ANCOVA model with treatment group, baseline BCVA category (&gt; 20/200 and ≤ 20/200) and region (North America vs. Japan) as fixed effects, and baseline BCVA as covariate.
-
-D) From week 24 on the treatment interval in the Eylea treatment group was extended for all subjects from 4 weeks to 8 weeks through week 48.
-
-E) Beginning at week 24 subjects in the Laser Group could receive rescue treatment with Eylea, if they met at least one pre-specified eligibility criterion. At total of 67 subjects in this group received Eylea rescue treatment. The fixed regimen for Eylea rescue was three times Eylea 2 mg every 4 weeks followed by injections every 8 weeks.
-
-F)
-
-Nominal p-value
+| Efficacy Outcomes                                                        | VIBRANT - 24 Weeks - Eylea 2mg Q4 (N = 91)   | VIBRANT - 24 Weeks - Active Control (laser) (N = 90)   | VIBRANT - 52 Weeks - Eylea 2mg Q8 (N = 91) D)   | VIBRANT - 52 Weeks - Active Control (laser)/Eylea 2mg E) (N = 90)   |
+|--------------------------------------------------------------------------|----------------------------------------------|--------------------------------------------------------|-------------------------------------------------|---------------------------------------------------------------------|
+| Proportion of patients with ≥15 letters gain from Baseline (%)           | 52.7%                                        | 26.7%                                                  | 57.1%                                           | 41.1%                                                               |
+| Weighted Difference A,B) (%) (95% CI) p-value                            | 26.6% (13.0, 40.1) p=0.0003                  |                                                        | 16.2% (2.0, 30.5) p=0.0296                      |                                                                     |
+| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 (11.9)                                  | 6.9 (12.9)                                             | 17.1 (13.1)                                     | 12.2 (11.9)                                                         |
+| Difference in LS mean A,C) (95% CI) p-value                              | 10.5 (7.1, 14.0) p<0.0001                    |                                                        | 5.2 (1.7, 8.7) p=0.0035 F)                      |                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1467,7 +1380,7 @@ At baseline, the proportion of perfused patients in the Eylea and laser groups w
 
 ## Diabetic macular oedema
 
-The safety and efficacy of Eylea were assessed in two randomised, multi-centre, double-masked, active-controlled studies in patients with DME (VIVID DME  and VISTA DME ). A total of 862 patients were treated and evaluable for efficacy, 576 with Eylea. Patient ages ranged from 23 to 87 years with a mean of 63 years. In the DME studies, approximately 47% (268/576) of the patients randomised to treatment with Eylea were 65 years of age or older, and approximately 9% (52/576) were 75 years of age or older. The majority of patients in both studies had Type II diabetes.
+The safety and efficacy of Eylea were assessed in two randomised, multi-centre, double-masked, active-controlled studies in patients with DME (VIVID DME and VISTA DME ). A total of 862 patients were treated and evaluable for efficacy, 576 with Eylea. Patient ages ranged from 23 to 87 years with a mean of 63 years. In the DME studies, approximately 47% (268/576) of the patients randomised to treatment with Eylea were 65 years of age or older, and approximately 9% (52/576) were 75 years of age or older. The majority of patients in both studies had Type II diabetes.
 
 In both studies, patients were randomly assigned in a 1:1:1 ratio to 1 of 3 dosing regimens:
 
@@ -1479,54 +1392,48 @@ Beginning at week 24, patients meeting a pre-specified threshold of vision loss 
 
 In both studies, the primary efficacy endpoint was the mean change from baseline in BCVA at week 52 and both Eylea 2Q8 and Eylea 2Q4 groups demonstrated statistical significance and were superior to the control group. This benefit was maintained through week 100.
 
-Detailed results from the analysis of the VIVID DME  and VISTA DME  studies are shown in Table 5 and Figure 4 below.
+Detailed results from the analysis of the VIVID DME and VISTA DME studies are shown in Table 5 and Figure 4 below.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 5: Efficacy outcomes at week 52 and week 100 (Full Analysis Set with LOCF) in VIVID DME  and VISTA DME  studies
+Table 5: Efficacy outcomes at week 52 and week 100 (Full Analysis Set with LOCF) in VIVID DME and VISTA DME studies
 
-| Efficacy Outcomes                                                     | VIVID DME                 | VIVID DME               | VIVID DME                        | VIVID DME                 | VIVID DME            | VIVID DME                        | VISTA DME                 | VISTA DME               | VISTA DME                        | VISTA DME                 | VISTA DME             | VISTA DME                        |
-|-----------------------------------------------------------------------|---------------------------|-------------------------|----------------------------------|---------------------------|----------------------|----------------------------------|---------------------------|-------------------------|----------------------------------|---------------------------|-----------------------|----------------------------------|
-| Efficacy Outcomes                                                     | 52 Weeks                  | 52 Weeks                | 52 Weeks                         | 100 Weeks                 | 100 Weeks            | 100 Weeks                        | 52 Weeks                  | 52 Weeks                | 52 Weeks                         | 100 Weeks                 | 100 Weeks             | 100 Weeks                        |
-| Efficacy Outcomes                                                     | Eylea 2 mg Q8 A (N = 135) | Eylea 2 mg Q4 (N = 136) | Active Control (laser) (N = 132) | Eylea 2 mg Q8 A (N = 135) | Eylea 2mg Q4 (N=136) | Active Control (laser) (N = 132) | Eylea 2 mg Q8 A (N = 151) | Eylea 2 mg Q4 (N = 154) | Active Control (laser) (N = 154) | Eylea 2 mg Q8 A (N = 151) | Eylea 2 mg Q4 (N=154) | Active Control (laser) (N = 154) |
-| Mean change in BCVA as measured by ETDRS E letter score from Baseline | 10.7                      | 10.5                    | 1.2                              | 9.4                       | 11.4                 | 0.7                              | 10.7                      | 12.5                    | 0.2                              | 11.1                      | 11.5                  | 0.9                              |
-| Difference in LS mean B,C,E (97.5% CI)                                | 9.1 (6.3, 11.8)           | 9.3 (6.5, 12.0)         |                                  | 8.2 (5.2, 11.3)           | 10.7 (7.6, 13.8)     |                                  | 10.45 (7.7, 13.2)         | 12.19 (9.4, 15.0)       |                                  | 10.1 (7.0, 13.3)          | 10.6 (7.1, 14.2)      |                                  |
-| Proportion of patients with ≥ 15 letters gain from Baseline           | 33%                       | 32%                     | 9%                               | 31.1%                     | 38.2%                | 12.1%                            | 31%                       | 42%                     | 8%                               | 33.1%                     | 38.3%                 | 13.0%                            |
-| Adjusted Difference D,C,E (97.5% CI)                                  | 24% (13.5, 34.9)          | 23% (12.6, 33.9)        |                                  | 19.0% (8.0, 29.9)         | 26.1% (14.8, 37.5)   |                                  | 23% (13.5, 33.1)          | 34% (24.1, 44.4)        |                                  | 20.1% (9.6, 30.6)         | 25.8% (15.1, 36.6)    |                                  |
+| Efficacy Outcomes                                                     | VIVID DME - 52 Weeks - Eylea 2 mg Q8 A (N = 135)   | VIVID DME - 52 Weeks - Eylea 2 mg Q4 (N = 136)   | VIVID DME - 52 Weeks - Active Control (laser) (N = 132)   | VIVID DME - 100 Weeks - Eylea 2 mg Q8 A (N = 135)   | VIVID DME - 100 Weeks - Eylea 2mg Q4 (N=136)   | VIVID DME - 100 Weeks - Active Control (laser) (N = 132)   | VISTA DME - 52 Weeks - Eylea 2 mg Q8 A (N = 151)   | VISTA DME - 52 Weeks - Eylea 2 mg Q4 (N = 154)   | VISTA DME - 52 Weeks - Active Control (laser) (N = 154)   | VISTA DME - 100 Weeks - Eylea 2 mg Q8 A (N = 151)   | VISTA DME - 100 Weeks - Eylea 2 mg Q4 (N=154)   | VISTA DME - 100 Weeks - Active Control (laser) (N = 154)   |
+|-----------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------|------------------------------------------------|------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|------------------------------------------------------------|
+| Mean change in BCVA as measured by ETDRS E letter score from Baseline | 10.7                                               | 10.5                                             | 1.2                                                       | 9.4                                                 | 11.4                                           | 0.7                                                        | 10.7                                               | 12.5                                             | 0.2                                                       | 11.1                                                | 11.5                                            | 0.9                                                        |
+| Difference in LS mean B,C,E (97.5% CI)                                | 9.1 (6.3, 11.8)                                    | 9.3 (6.5, 12.0)                                  |                                                           | 8.2 (5.2, 11.3)                                     | 10.7 (7.6, 13.8)                               |                                                            | 10.45 (7.7, 13.2)                                  | 12.19 (9.4, 15.0)                                |                                                           | 10.1 (7.0, 13.3)                                    | 10.6 (7.1, 14.2)                                |                                                            |
+| Proportion of patients with ≥ 15 letters gain from Baseline           | 33%                                                | 32%                                              | 9%                                                        | 31.1%                                               | 38.2%                                          | 12.1%                                                      | 31%                                                | 42%                                              | 8%                                                        | 33.1%                                               | 38.3%                                           | 13.0%                                                      |
+| Adjusted Difference D,C,E (97.5% CI)                                  | 24% (13.5, 34.9)                                   | 23% (12.6, 33.9)                                 |                                                           | 19.0% (8.0, 29.9)                                   | 26.1% (14.8, 37.5)                             |                                                            | 23% (13.5, 33.1)                                   | 34% (24.1, 44.4)                                 |                                                           | 20.1% (9.6, 30.6)                                   | 25.8% (15.1, 36.6)                              |                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
 - A After treatment initiation with 5 monthly injections
-- B    LS mean and CI based on an ANCOVA model with baseline BCVA measurement as a covariate and a factor for treatment group. Additionally, region (Europe/Australia vs. Japan) had been included as factor for VIVID DME , and history of MI and/or CVA as a factor for VISTA DME .
-- C   Difference is Eylea group minus active control (laser) group
-- D Difference with confidence interval (CI) and statistical test is calculated using Mantel-Haenszel weighting scheme adjusted by region (Europe/Australia vs. Japan) for VIVID DME  and medical history of MI or CVA for VISTA DME
-
-E  BCVA: Best Corrected Visual Acuity
+- B LS mean and CI based on an ANCOVA model with baseline BCVA measurement as a covariate and a factor for treatment group. Additionally, region (Europe/Australia vs. Japan) had been included as factor for VIVID DME , and history of MI and/or CVA as a factor for VISTA DME .
+- C Difference is Eylea group minus active control (laser) group
+- D Difference with confidence interval (CI) and statistical test is calculated using Mantel-Haenszel weighting scheme adjusted by region (Europe/Australia vs. Japan) for VIVID DME and medical history of MI or CVA for VISTA DME
+- E BCVA: Best Corrected Visual Acuity
 
 ETDRS: Early Treatment Diabetic Retinopathy Study
 
-LOCF: Last Observation Carried Forward
-
+- LOCF: Last Observation Carried Forward
 - LS: Least square means derived from ANCOVA
 - CI: Confidence interval
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 4: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 100 in VIVID DME  and VISTA DME  Studies
+Figure 4: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 100 in VIVID DME and VISTA DME Studies
 
 <!-- image -->
 
 Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline HbA1c, baseline visual acuity, prior anti-VEGF therapy) in each study and in the combined analysis were generally consistent with the results in the overall populations.
 
-In the VIVID DME  and VISTA DME studies, 36 (9%) and 197 (43%) patients received prior anti-VEGF therapy, respectively, with a 3-month or longer washout period. Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor were similar to those seen in patients who were VEGF inhibitor naïve.
+In the VIVID DME and VISTA DME studies, 36 (9%) and 197 (43%) patients received prior anti-VEGF therapy, respectively, with a 3-month or longer washout period. Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor were similar to those seen in patients who were VEGF inhibitor naïve.
 
-Patients with bilateral disease were eligible to receive anti-VEGF treatment in their fellow eye if assessed necessary by the physician. In the VISTA DME  study, 217 (70.7%) of Eylea patients received bilateral Eylea injections until week100; in the VIVID DME  study, 97 (35.8%) of Eylea patients received a different anti-VEGF treatment in their fellow eye.
+Patients with bilateral disease were eligible to receive anti-VEGF treatment in their fellow eye if assessed necessary by the physician. In the VISTA DME study, 217 (70.7%) of Eylea patients received bilateral Eylea injections until week100; in the VIVID DME study, 97 (35.8%) of Eylea patients received a different anti-VEGF treatment in their fellow eye.
 
-An independent comparative trial (DRCR.net Protocol T) utilised a flexible dosing regimen based on strict OCT and vision re-treatment criteria. In the aflibercept treatment group (n = 224) at week 52, this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the Eylea 2Q8 group in VIVID DME and VISTA DME , while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the Eylea 2Q8 group in VIVID DME  and VISTA DME . A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in
+An independent comparative trial (DRCR.net Protocol T) utilised a flexible dosing regimen based on strict OCT and vision re-treatment criteria. In the aflibercept treatment group (n = 224) at week 52, this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the Eylea 2Q8 group in VIVID DME and VISTA DME , while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the Eylea 2Q8 group in VIVID DME and VISTA DME . A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidences of ocular and non-ocular adverse events (including ATEs) were comparable across all treatment groups in each of the studies and between the studies.
 
 <div style=\"page-break-after: always\"></div>
-
-vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidences of ocular and non-ocular adverse events (including ATEs) were comparable across all treatment groups in each of the studies and between the studies.
 
 VIOLET, a 100-week multicentre, randomised, open-label, active controlled study in patients with DME compared three different dosing regimens of Eylea 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses followed by dosing every 2 months. The study evaluated non-inferiority of Eylea 2 mg dosed according to a treat-and-extend regimen (2T&amp;E where injections intervals were kept at a minimum of 8 weeks and gradually extended based on clinical and anatomical outcomes) and Eylea 2 mg dosed as needed (2PRN where patients were observed every 4 weeks and injected when needed based on clinical and anatomical outcomes), compared to Eylea 2 mg dosed every 8 weeks (2Q8) for the second and third year of treatment.
 
@@ -1550,20 +1457,14 @@ Detailed results from the analysis of the MYRROR study are shown in Table 6 and 
 
 Table 6: Efficacy outcomes at week 24 (primary analysis) and week 48 in MYRROR study (Full Analysis Set with LOCF A) )
 
-| Efficacy Outcomes                                                              | MYRROR             | MYRROR        | MYRROR             | MYRROR                   |
-|--------------------------------------------------------------------------------|--------------------|---------------|--------------------|--------------------------|
-|                                                                                | 24 Weeks           | 24 Weeks      | 48 Weeks           | 48 Weeks                 |
-|                                                                                | Eylea 2mg (N = 90) | Sham (N = 31) | Eylea 2mg (N = 90) | Sham/ Eylea 2mg (N = 31) |
-| Mean change in BCVA B) as measured by ETDRS letter score from baseline (SD) B) | 12.1 (8.3)         | -2.0 (9.7)    | 13.5 (8.8)         | 3.9 (14.3)               |
-| Difference in LS mean C,D,E) (95% CI)                                          | 14.1 (10.8, 17.4)  |               | 9.5 (5.4, 13.7)    |                          |
-| Proportion of patients with ≥15 letters gain from baseline                     | 38.9%              | 9.7%          | 50.0%              | 29.0%                    |
-| Weighted difference D, F) (95% CI)                                             | 29.2% (14.4, 44.0) |               | 21.0% (1.9, 40.1)  |                          |
+| Efficacy Outcomes                                                              | MYRROR - 24 Weeks - Eylea 2mg (N = 90)   | MYRROR - 24 Weeks - Sham (N = 31)   | MYRROR - 48 Weeks - Eylea 2mg (N = 90)   | MYRROR - 48 Weeks - Sham/ Eylea 2mg (N = 31)   |
+|--------------------------------------------------------------------------------|------------------------------------------|-------------------------------------|------------------------------------------|------------------------------------------------|
+| Mean change in BCVA B) as measured by ETDRS letter score from baseline (SD) B) | 12.1 (8.3)                               | -2.0 (9.7)                          | 13.5 (8.8)                               | 3.9 (14.3)                                     |
+| Difference in LS mean C,D,E) (95% CI)                                          | 14.1 (10.8, 17.4)                        |                                     | 9.5 (5.4, 13.7)                          |                                                |
+| Proportion of patients with ≥15 letters gain from baseline                     | 38.9%                                    | 9.7%                                | 50.0%                                    | 29.0%                                          |
+| Weighted difference D, F) (95% CI)                                             | 29.2% (14.4, 44.0)                       |                                     | 21.0% (1.9, 40.1)                        |                                                |
 
-- A) LOCF: Last Observation Carried Forward
-- B) BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study
-
-SD: Standard Deviation
-
+- A) LOCF: Last Observation Carried Forward B) BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study SD: Standard Deviation
 - C) LS mean: Least square means derived from ANCOVA model
 - D) CI: Confidence Interval
 - E) LS mean difference and 95% CI based on an ANCOVA model with treatment group and country (country designations) as fixed effects, and baseline BCVA as covariant.
@@ -1585,7 +1486,7 @@ Eylea is administered directly into the vitreous to exert local effects in the e
 
 ## Absorption / Distribution
 
-Aflibercept is slowly absorbed from the eye into the systemic circulation after intravitreal administration and is predominately observed in the systemic circulation as an inactive, stable complex with VEGF; however only 'free aflibercept' is able to bind endogenous VEGF.
+Aflibercept is slowly absorbed from the eye into the systemic circulation after intravitreal administration and is predominately observed in the systemic circulation as an inactive, stable complex with VEGF; however only \"free aflibercept\" is able to bind endogenous VEGF.
 
 In a pharmacokinetic sub-study in 6 neovascular wet AMD patients with frequent sampling, maximum plasma concentrations of free aflibercept (systemic Cmax) were low, with a mean of approximately 0.02 microgram/mL (range 0 to 0.054) within 1 to 3 days after a 2 mg intravitreal injection, and were undetectable two weeks following dosage in almost all patients. Aflibercept does not accumulate in the plasma when administered intravitreally every 4 weeks.
 
@@ -1605,7 +1506,7 @@ No special studies in patients with renal impairment have been conducted with Ey
 
 Pharmacokinetic analysis of patients in the VIEW2 study, of which 40% had renal impairment (24% mild, 15% moderate, and 1% severe), revealed no differences with respect to plasma concentrations of active drug after intravitreal administration every 4 or 8 weeks.
 
-Similar results were seen in patients with CRVO in the GALILEO study, in patients with DME in the VIVID DME  study, and in patients with myopic CNV in the MYRROR study.
+Similar results were seen in patients with CRVO in the GALILEO study, in patients with DME in the VIVID DME study, and in patients with myopic CNV in the MYRROR study.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1657,7 +1558,15 @@ The solution should be inspected visually for any foreign particulate matter and
 
 ## Filter needle:
 
-Blunt Filter (Fill) Needle, not for skin injection. Do not autoclave the Blunt Filter (Fill) Needle. The filter needle is non-pyrogenic. Do not use it if individual packaging is damaged. Discard the used Blunt Filter (Fill) Needle in approved sharps collector. Caution: Re-use of the filter needle may lead to infection or other illness/injury.
+Blunt Filter (Fill) Needle, not for skin injection.
+
+Do not autoclave the Blunt Filter (Fill) Needle.
+
+The filter needle is non-pyrogenic. Do not use it if individual packaging is damaged.
+
+Discard the used Blunt Filter (Fill) Needle in approved sharps collector.
+
+Caution: Re-use of the filter needle may lead to infection or other illness/injury.
 
 For the intravitreal injection, a 30 G x ½ inch injection needle should be used.
 
@@ -1754,9 +1663,9 @@ Clear to slightly opalescent, colourless to pale yellow, iso-osmotic solution, p
 
 Eylea is indicated in adults for the treatment of
 
-- -neovascular (wet) age-related macular degeneration (nAMD) (see section 5.1)
-- -visual impairment due to diabetic macular oedema (DME) (see section 5.1)
-- -visual impairment due to macular oedema secondary to retinal vein occlusion (branch, central and hemiretinal RVO) (see section 5.1).
+- neovascular (wet) age-related macular degeneration (nAMD) (see section 5.1)
+- visual impairment due to diabetic macular oedema (DME) (see section 5.1)
+- visual impairment due to macular oedema secondary to retinal vein occlusion (branch, central and hemiretinal RVO) (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1774,8 +1683,8 @@ For patients who are initiating treatment, Eylea is administered with 1 injectio
 
 For patients who have previously been treated with Eylea 40 mg/ml or other anti-VEGF medicinal products and are switching to Eylea 114.3 mg/ml, the treatment regimen can differ from that used for treatment-naïve patients. Treatment intervals should be determined based on visual and/or anatomic outcomes (see section 5.1).
 
-- -In patients with stable visual and anatomic outcomes, previous treatment intervals can be maintained or extended after the first injection of Eylea 114.3 mg/ml, such as with a treat-and-extend dosing regimen.
-- -In patients with suboptimal visual and/or anatomic outcomes, treatment with Eylea 114.3 mg/ml may begin with 1 injection per month for up to 3 consecutive doses followed by adjustment of injection intervals, such as with a treat-and-extend dosing regimen.
+- In patients with stable visual and anatomic outcomes, previous treatment intervals can be maintained or extended after the first injection of Eylea 114.3 mg/ml, such as with a treat-and-extend dosing regimen.
+- In patients with suboptimal visual and/or anatomic outcomes, treatment with Eylea 114.3 mg/ml may begin with 1 injection per month for up to 3 consecutive doses followed by adjustment of injection intervals, such as with a treat-and-extend dosing regimen.
 
 If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly based on the physician's discretion. The interval between 2 injections should not be shorter than 1 month.
 
@@ -1791,11 +1700,11 @@ For patients who are initiating treatment, Eylea is administered with 1 injectio
 
 For patients who have previously been treated with Eylea 40 mg/ml or other anti-VEGF medicinal products and are switching to Eylea 114.3 mg/ml, the treatment regimen can differ from that used for treatment-naïve patients. Treatment intervals should be determined based on visual and/or anatomic outcomes (see section 5.1).
 
-- -In patients with stable visual and anatomic outcomes, previous treatment intervals can be maintained or extended after the first injection of Eylea 114.3 mg/ml, such as with a treat-and-extend dosing regimen.
+- In patients with stable visual and anatomic outcomes, previous treatment intervals can be maintained or extended after the first injection of Eylea 114.3 mg/ml, such as with a treat-and-extend dosing regimen.
 
 <div style=\"page-break-after: always\"></div>
 
-- -In patients with suboptimal visual and/or anatomic outcomes, treatment with Eylea 114.3 mg/ml may begin with 1 injection per month for up to 3 consecutive doses followed by adjustment of injection intervals, such as with a treat-and-extend dosing regimen.
+- In patients with suboptimal visual and/or anatomic outcomes, treatment with Eylea 114.3 mg/ml may begin with 1 injection per month for up to 3 consecutive doses followed by adjustment of injection intervals, such as with a treat-and-extend dosing regimen.
 
 If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly based on the physician's discretion (see section 5.1). The interval between 2 injections should not be shorter than1 month.
 
@@ -1837,9 +1746,9 @@ For handling of the medicinal product before administration, see section 6.6.
 
 ## 4.3 Contraindications
 
-- -Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-- -Ocular or periocular infection.
-- -Active severe intraocular inflammation.
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Ocular or periocular infection.
+- Active severe intraocular inflammation.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -1879,11 +1788,11 @@ There are limited data available on the concomitant use of Eylea with other anti
 
 Treatment should be withheld in the event of:
 
-- -a decrease in best corrected visual acuity (BCVA) of ≥ 30 letters compared with the last assessment of visual acuity
-- -a rhegmatogenous retinal detachment or stage 3 or 4 macular holes
-- -a retinal break
-- -a subretinal haemorrhage involving the centre of the fovea, or, if the size of the haemorrhage is ≥ 50 % of the total lesion area
-- -performed or planned intraocular surgery within the previous or next 28 days.
+- a decrease in best corrected visual acuity (BCVA) of ≥ 30 letters compared with the last assessment of visual acuity
+- a rhegmatogenous retinal detachment or stage 3 or 4 macular holes
+- a retinal break
+- a subretinal haemorrhage involving the centre of the fovea, or, if the size of the haemorrhage is ≥ 50 % of the total lesion area
+- performed or planned intraocular surgery within the previous or next 28 days.
 
 ## Retinal pigment epithelial tear
 
@@ -1945,7 +1854,7 @@ The safety profile observed in the 4 clinical studies was similar in patients tr
 
 A total of 1 808 patients treated with Eylea 114.3 mg/ml up to 96 weeks constituted the safety population in 4 clinical phase II/III studies (CANDELA, PULSAR, PHOTON, QUASAR). The safety data described below include all adverse reactions with a reasonable possibility of causality to the injection procedure or medicinal product reported.
 
-The adverse reactions are listed by system organ class and frequency using the following convention: Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The adverse reactions are listed by system organ class and frequency using the following convention: Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), not known (frequency cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1958,8 +1867,8 @@ Table 1: All treatment-emergent adverse reactions reported in patients with nAMD
 | Immune system disorders | Common      | Hypersensitivity*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Eye disorders           | Common      | Cataract, Intraocular pressure increased, Vitreous floaters, Vitreous detachment, Vitreous haemorrhage, Retinal haemorrhage, Visual acuity reduced, Eye pain, Conjunctival haemorrhage, Punctate keratitis, Corneal abrasion                                                                                                                                                                                                                                                                                    |
 | Eye disorders           | Uncommon    | Retinal detachment, Retinal tear, Retinal pigment epithelial tear, Detachment of the retinal pigment epithelium, Uveitis, Iritis, Iridocyclitis, Vitritis, Cataract cortical, Cataract nuclear, Cataract subcapsular, Corneal erosion, Vision blurred, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Injection site haemorrhage, Conjunctival hyperaemia, Lenticular opacities, Eyelid oedema, Ocular hyperaemia, Injection site irritation, Retinal degeneration, Corneal oedema |
-| Eye disorders           | Rare        | Blindness, Endophthalmitis, Eyelid irritation                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Eye disorders           | Not known   | Scleritis**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Eye disorders           | Rare        | Blindness, Endophthalmitis, Eyelid irritation, Retinal vasculitis                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Eye disorders           | Not known   | Scleritis**, Retinal occlusive vasculitis**                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 * Reports of hypersensitivity included rash, pruritus, urticaria.
 
@@ -2009,7 +1918,7 @@ nAMD is characterised by pathological choroidal neovascularisation (CNV). Leakag
 
 The pharmacodynamic effects of aflibercept 114.3 mg/ml administered every 12 (8Q12) and every 16 (8Q16) weeks are described in comparison with aflibercept 40 mg/ml administered every 8 weeks (2Q8) for the nAMD indication. These effects are shown as the change in CNV size from baseline to week 12; change in total lesion area from baseline to weeks 48, 60, and 96; and change from baseline in central retinal thickness (CRT).
 
-In the pooled group of patients treated with 8Q12 or 8Q16, reductions in CNV size (LS mean, based on a mixed model for repeated measurements [MMRM]) at week 12 were -1.63 mm 2  compared to -1.17 mm 2 for patients treated with 2Q8.
+In the pooled group of patients treated with 8Q12 or 8Q16, reductions in CNV size (LS mean, based on a mixed model for repeated measurements [MMRM]) at week 12 were -1.63 mm 2 compared to -1.17 mm 2 for patients treated with 2Q8.
 
 Pharmacodynamic effects were generally maintained through week 156.
 
@@ -2034,6 +1943,7 @@ Table 2: Pharmacodynamic parameter (full analysis set) in the PULSAR study
 A LS mean, CI and p-value based on an MMRM with baseline measurement as covariate, treatment group as factor, visit and stratification variables used for randomisation (geographical region, categorical baseline BCVA) as fixed factors as well as terms for the interaction between baseline measurement and visit and for the interaction between treatment and visit.
 
 - B Absolute difference is Eylea 8Q12- or 8Q16-groups minus 2Q8-groups, respectively.
+
 - CI: Confidence interval
 - LS: Least square
 - SD: Standard deviation
@@ -2082,31 +1992,28 @@ In RVO, retinal ischaemia occurs and signals the release of VEGF which in turn d
 
 Table 4: Pharmacodynamic parameter (full analysis set) in the QUASAR study
 
-| Efficacy outcomes                     | Week   | Eylea 8Q8/3 (N = 293)   | Eylea 2Q4 (N = 301)   |
+| Efficacy outcomes                     |   Week | Eylea 8Q8/3 (N = 293)   | Eylea 2Q4 (N = 301)   |
 |---------------------------------------|--------|-------------------------|-----------------------|
 | Change in CRT from baseline [microns] |        |                         |                       |
-| Arithmetic mean (SD), observed        | 36     | -365.9 (239.9)          | -397.3 (257.7)        |
-| LS mean (SE) A                        | 36     | -370.9 (3.1)            | -370.8 (3.9)          |
-| Difference in LS means (95% CI) A,B   | 36     | -0.1 (-10.0, 9.8)       |                       |
-| Arithmetic mean (SD), observed        | 64     | -355.5 (239.5)          | -373.0 (252.1)        |
-| LS mean (SE) A                        | 64     | -361.1 (4.3)            | -353.7 (5.2)          |
-| Difference in LS means (95% CI) A,B   | 64     | -7.4 (-20.7, 5.9)       |                       |
+| Arithmetic mean (SD), observed        |     36 | -365.9 (239.9)          | -397.3 (257.7)        |
+| LS mean (SE) A                        |     36 | -370.9 (3.1)            | -370.8 (3.9)          |
+| Difference in LS means (95% CI) A,B   |     36 | -0.1 (-10.0, 9.8)       |                       |
+| Arithmetic mean (SD), observed        |     64 | -355.5 (239.5)          | -373.0 (252.1)        |
+| LS mean (SE) A                        |     64 | -361.1 (4.3)            | -353.7 (5.2)          |
+| Difference in LS means (95% CI) A,B   |     64 | -7.4 (-20.7, 5.9)       |                       |
 
 A LS mean, CI and p-value based on an MMRM with baseline CRT measurement as covariate, treatment group as factor, visit and stratification variables used for randomisation (geographical region, categorical baseline BCVA and RVO type) as fixed factors as well as terms for the interaction between baseline CRT and visit and for the interaction between treatment and visit.
 
-<div style=\"page-break-after: always\"></div>
-
 - B Absolute difference is Eylea 8Q8/3-group minus 2Q4-group.
-
 - CI: Confidence interval
 
-CRT:  Central retinal thickness
+CRT: Central retinal thickness
 
 - LS: Least square
-
 - SD: Standard deviation
-
 - SE: Standard error
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 3: LS mean change in central retinal thickness (CRT) from baseline through week 64 (full analysis set) in the QUASAR study
 
@@ -2136,7 +2043,9 @@ In the PULSAR study a total of 1 009 patients were treated. The patients were as
 2. Eylea 114.3 mg/ml administered every 16 weeks (8Q16)
 3. Eylea 40 mg/ml administered every 8 weeks (2Q8)
 
-All patients received 3 initial injections of the assigned dose at 4-week intervals. Per study protocol the interval of the 8Q12- and 8Q16-groups was to be shortened if both of the following criteria were met:
+## All patients received 3 initial injections of the assigned dose at 4-week intervals.
+
+Per study protocol the interval of the 8Q12- and 8Q16-groups was to be shortened if both of the following criteria were met:
 
 1. &gt;5 letters loss in BCVA from week 12, and
 2. &gt;25 microns increase in CRT from week 12 or new foveal haemorrhage or new foveal neovascularisation.
@@ -2182,9 +2091,8 @@ Table 5: Efficacy outcomes from the PULSAR study
 | Change in BCVA from baseline as measured by ETDRS letter score D                                 | Change in BCVA from baseline as measured by ETDRS letter score D                                 | Change in BCVA from baseline as measured by ETDRS letter score D                                 | Change in BCVA from baseline as measured by ETDRS letter score D                                 | Change in BCVA from baseline as measured by ETDRS letter score D                                 |
 | Arithmetic mean (SD), observed                                                                   | 48                                                                                               | 6.7 (12.6)                                                                                       | 6.2 (11.7)                                                                                       | 7.6 (12.2)                                                                                       |
 | LS mean (SE) A                                                                                   | 48                                                                                               | 6.06 (0.77)                                                                                      | 5.89 (0.72)                                                                                      | 7.03 (0.74)                                                                                      |
-| Difference in LS means                                                                           | 48                                                                                               | -0.97                                                                                            | -1.14 0.69)                                                                                      |                                                                                                  |
-| (95% CI) A,B p-value (one-sided non-inferiority                                                  | 48                                                                                               | (-2.87, 0.92)                                                                                    | (-2.97,                                                                                          |                                                                                                  |
-| test at a margin of 4 letters) A,B                                                               | 48                                                                                               | 0.0009                                                                                           | 0.0011                                                                                           |                                                                                                  |
+| Difference in LS means (95% CI) A,B                                                              | 48                                                                                               | -0.97 (-2.87, 0.92)                                                                              | -1.14 (-2.97, 0.69)                                                                              |                                                                                                  |
+| p-value (one-sided non-inferiority test at a margin of 4 letters) A,B                            | 48                                                                                               | 0.0009                                                                                           | 0.0011                                                                                           |                                                                                                  |
 | Arithmetic mean (SD), observed                                                                   | 60                                                                                               | 6.6 (13.6)                                                                                       | 6.6 (11.7)                                                                                       | 7.8 (12.6)                                                                                       |
 | LS mean (SE) A                                                                                   | 60                                                                                               | 6.37 (0.74)                                                                                      | 6.31 (0.66)                                                                                      | 7.23 (0.68)                                                                                      |
 | Difference in LS means (95% CI) A,B                                                              | 60                                                                                               | -0.86 (-2.57, 0.84)                                                                              | -0.92 (-2.51, 0.66)                                                                              |                                                                                                  |
@@ -2196,52 +2104,50 @@ Table 5: Efficacy outcomes from the PULSAR study
 | Proportion (LOCF)                                                                                | 16                                                                                               | 63.3%                                                                                            | 63.3%                                                                                            | 51.6%                                                                                            |
 | Adjusted difference in proportion (95% CI) B,C                                                   | 16                                                                                               | 11.7% (5.3%, 18.2%)                                                                              | 11.7% (5.3%, 18.2%)                                                                              |                                                                                                  |
 | p-value (one-sided superiority test) B, C                                                        | 16                                                                                               | 0.0002                                                                                           |                                                                                                  |                                                                                                  |
-| Proportion (LOCF)                                                                                | 48                                                                                               | 71.1%                                                                                            | 66.8%                                                                                            | 59.4%                                                                                            |
+| Proportion (LOCF)                                                                                | 16                                                                                               | 71.1%                                                                                            | 66.8%                                                                                            | 59.4%                                                                                            |
 | Adjusted difference in proportion (95% CI) B,C                                                   | 48                                                                                               | 11.7% (4.5%, 18.9%)                                                                              | 7.5% (0.1%, 14.8%)                                                                               |                                                                                                  |
-| Proportion (LOCF)                                                                                | 60                                                                                               | 74.6%                                                                                            | 72.2%                                                                                            | 74.6%                                                                                            |
+| Proportion                                                                                       | 48                                                                                               | 74.6%                                                                                            | 72.2%                                                                                            |                                                                                                  |
+| (LOCF)                                                                                           | 60                                                                                               |                                                                                                  |                                                                                                  | 74.6%                                                                                            |
 | Adjusted difference in proportion (95% CI) B,C                                                   | 60                                                                                               | 0.0% (-6.6%, 6.7%)                                                                               | -2.2% (-8.9%, 4.4%)                                                                              |                                                                                                  |
 | Proportion (LOCF)                                                                                |                                                                                                  | 69.6%                                                                                            | 63.6%                                                                                            | 66.5%                                                                                            |
 | Adjusted difference in proportion (95% CI) B,C                                                   | 96                                                                                               | 3.0% (-4.1%, 10.1%)                                                                              | -3.0% (-10.2%, 4.2%)                                                                             |                                                                                                  |
 | Patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) D | Patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) D | Patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) D | Patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) D | Patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) D |
 | Proportion (LOCF)                                                                                | 48                                                                                               | 56.9%                                                                                            | 54.3%                                                                                            | 57.9%                                                                                            |
-| Adjusted difference in proportion                                                                | 48                                                                                               | -0.2%                                                                                            | -2.2%                                                                                            |                                                                                                  |
-| (95% CI) B,C                                                                                     | 48                                                                                               | (-6.6%, 6.2%)                                                                                    | (-8.4%, 4.0%)                                                                                    |                                                                                                  |
+| Adjusted difference in proportion (95% CI) B,C                                                   | 48                                                                                               | -0.2%                                                                                            | -2.2%                                                                                            |                                                                                                  |
+|                                                                                                  | 48                                                                                               | (-6.6%, 6.2%)                                                                                    | (-8.4%, 4.0%)                                                                                    |                                                                                                  |
 | Proportion (LOCF)                                                                                | 60                                                                                               | 56.3%                                                                                            | 54.6%                                                                                            | 58.2%                                                                                            |
-| Adjusted difference in proportion                                                                | 60                                                                                               | -1.1%                                                                                            | -2.3%                                                                                            |                                                                                                  |
+| Adjusted difference in proportion (95% CI) B,C                                                   | 60                                                                                               | -1.1% (-7.5%, 5.3%)                                                                              | -2.3% (-8.7%, 4.1%)                                                                              |                                                                                                  |
 | Proportion (LOCF)                                                                                | 96                                                                                               | 53.3%                                                                                            | 53.1%                                                                                            | 56.7%                                                                                            |
-| Adjusted difference in proportion                                                                | 96                                                                                               | -2.7%                                                                                            | -2.4%                                                                                            |                                                                                                  |
-| (95% CI) B,C                                                                                     | 96                                                                                               | (-9.4%, 4.0%)                                                                                    | (-9.1%, 4.2%)                                                                                    |                                                                                                  |
+| Adjusted difference in proportion (95% CI) B,C                                                   | 96                                                                                               | -2.7% (-9.4%, 4.0%)                                                                              | -2.4% (-9.1%, 4.2%)                                                                              |                                                                                                  |
 | Patients who gained at least 15 letters in BCVA from baseline D                                  | Patients who gained at least 15 letters in BCVA from baseline D                                  | Patients who gained at least 15 letters in BCVA from baseline D                                  | Patients who gained at least 15 letters in BCVA from baseline D                                  | Patients who gained at least 15 letters in BCVA from baseline D                                  |
 | Proportion (LOCF)                                                                                | 48                                                                                               | 20.7%                                                                                            | 21.7%                                                                                            | 22.1%                                                                                            |
 | Adjusted difference in proportion                                                                | 48                                                                                               | -1.7%                                                                                            | -0.9%                                                                                            |                                                                                                  |
 | (95% CI) B,C                                                                                     | 48                                                                                               | (-7.8%, 4.3%)                                                                                    | (-7.0%, 5.1%)                                                                                    |                                                                                                  |
 | Proportion (LOCF)                                                                                | 60                                                                                               | 23.7%                                                                                            | 23.1%                                                                                            | 23.3%                                                                                            |
 | Adjusted difference in proportion (95% CI) B,C                                                   | 60                                                                                               | 0.1% (-6.2%, 6.3%)                                                                               | -0.7% (-6.9%, 5.5%)                                                                              |                                                                                                  |
-| Proportion (LOCF)                                                                                |                                                                                                  | 22.2%                                                                                            | 22.8%                                                                                            | 24.2%                                                                                            |
+| Proportion (LOCF)                                                                                | 96                                                                                               | 22.2%                                                                                            | 22.8%                                                                                            | 24.2%                                                                                            |
 | Adjusted difference in proportion                                                                | 96                                                                                               | -2.4%                                                                                            | -2.0%                                                                                            |                                                                                                  |
 | (95% CI) B,C                                                                                     |                                                                                                  | (-8.4%, 3.6%)                                                                                    | (-8.0%, 4.1%)                                                                                    |                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| Efficacy outcomes                         | Week                                  | Eylea 8Q12 (N = 335)                  | Eylea 8Q16 (N = 338)                  | Eylea 2Q8 (N = 336)                   |
-|-------------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
-| Last intended treatment intervals         | Last intended treatment intervals     | Last intended treatment intervals     | Last intended treatment intervals     | Last intended treatment intervals     |
-| Patients at ≥Q12 treatment interval E     | Patients at ≥Q12 treatment interval E | Patients at ≥Q12 treatment interval E | Patients at ≥Q12 treatment interval E | Patients at ≥Q12 treatment interval E |
-| Proportion (pooled 8Q12- and 8Q16-groups) | 96                                    | 87.8%                                 | 87.8%                                 | n/a                                   |
-| Proportion                                | 96                                    | 86.6%                                 | 89.0%                                 | n/a                                   |
-| Patients at ≥Q16 treatment interval E     | Patients at ≥Q16 treatment interval E | Patients at ≥Q16 treatment interval E | Patients at ≥Q16 treatment interval E | Patients at ≥Q16 treatment interval E |
-| Proportion (pooled 8Q12- and 8Q16-groups) | 96                                    | 71.0%                                 | 71.0%                                 | n/a                                   |
-| Proportion                                | 96                                    | 63.6%                                 | 78.4%                                 | n/a                                   |
-| Patients at ≥Q20 treatment interval E     | Patients at ≥Q20 treatment interval E | Patients at ≥Q20 treatment interval E | Patients at ≥Q20 treatment interval E | Patients at ≥Q20 treatment interval E |
-| Proportion (pooled 8Q12- and 8Q16-groups) | 96                                    | 46.8%                                 | 46.8%                                 | n/a                                   |
-| Proportion                                | 96                                    | 40.5%                                 | 53.1%                                 | n/a                                   |
-| Patients at Q24 treatment interval E      | Patients at Q24 treatment interval E  | Patients at Q24 treatment interval E  | Patients at Q24 treatment interval E  | Patients at Q24 treatment interval E  |
-| Proportion (pooled 8Q12- and 8Q16-groups) | 96                                    | 27.8%                                 | 27.8%                                 | n/a                                   |
-| Proportion                                | 96                                    | 24.7%                                 | 30.8%                                 | n/a                                   |
+| Efficacy outcomes                         |   Week | Eylea 8Q12 (N = 335)   | Eylea 8Q16 (N = 338)   | Eylea 2Q8 (N = 336)   |
+|-------------------------------------------|--------|------------------------|------------------------|-----------------------|
+| Last intended treatment intervals         |        |                        |                        |                       |
+| Patients at ≥Q12 treatment interval E     |        |                        |                        |                       |
+| Proportion (pooled 8Q12- and 8Q16-groups) |     96 | 87.8%                  | 87.8%                  | n/a                   |
+| Proportion                                |     96 | 86.6%                  | 89.0%                  | n/a                   |
+| Patients at ≥Q16 treatment interval E     |        |                        |                        |                       |
+| Proportion (pooled 8Q12- and 8Q16-groups) |     96 | 71.0%                  | 71.0%                  | n/a                   |
+| Proportion                                |     96 | 63.6%                  | 78.4%                  | n/a                   |
+| Patients at ≥Q20 treatment interval E     |        |                        |                        |                       |
+| Proportion (pooled 8Q12- and 8Q16-groups) |     96 | 46.8%                  | 46.8%                  | n/a                   |
+| Proportion                                |     96 | 40.5%                  | 53.1%                  | n/a                   |
+| Patients at Q24 treatment interval E      |        |                        |                        |                       |
+| Proportion (pooled 8Q12- and 8Q16-groups) |     96 | 27.8%                  | 27.8%                  | n/a                   |
+| Proportion                                |     96 | 24.7%                  | 30.8%                  | n/a                   |
 
-A
-
-LS mean, CI and p-value based on an MMRM with baseline best corrected visual acuity (BCVA) measurement as covariate, treatment group as factor, visit and stratification variables used for randomisation (geographical region, categorical baseline BCVA) as fixed factors as well as terms for the interaction between baseline BCVA and visit and for the interaction between treatment and visit.
+A LS mean, CI and p-value based on an MMRM with baseline best corrected visual acuity (BCVA) measurement as covariate, treatment group as factor, visit and stratification variables used for randomisation (geographical region, categorical baseline BCVA) as fixed factors as well as terms for the interaction between baseline BCVA and visit and for the interaction between treatment and visit.
 
 B Absolute difference is Eylea 8Q12- or 8Q16-groups minus 2Q8-groups, respectively.
 
@@ -2315,7 +2221,9 @@ The safety and efficacy of Eylea 114.3 mg/ml were assessed in a randomised, mult
 
 The primary objective was to determine if treatment with Eylea 114.3 mg/ml at intervals of 12 (8Q12) or 16 weeks (8Q16) provides non-inferior BCVA change compared to Eylea 40 mg/ml every 8 weeks. The secondary objectives were to determine the effect of Eylea 114.3 mg/ml versus Eylea 40 mg/ml on anatomic and other visual measures of response, and to evaluate the safety, immunogenicity, and pharmacokinetics of aflibercept.
 
-The primary efficacy endpoint was the change from baseline in BCVA measured by the early treatment diabetic retinopathy study (ETDRS) letter score at week 48. One key secondary endpoint was the change in BCVA from baseline at week 60.
+The primary efficacy endpoint was the change from baseline in BCVA measured by the early treatment diabetic retinopathy study (ETDRS) letter score at week 48.
+
+One key secondary endpoint was the change in BCVA from baseline at week 60.
 
 Further secondary endpoints were the proportion of patients gaining at least 15 letters in BCVA from baseline at week 48, the proportion of patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) at week 48, and the change from baseline in National Eye Institute Visual Functioning Questionnaire-25 (NEI-VFQ-25) total score at week 48, among others.
 
@@ -2325,11 +2233,9 @@ In the PHOTON study a total of 658 patients were treated. The patients were assi
 2. Eylea 114.3 mg/ml administered every 16 weeks (8Q16)
 3. Eylea 40 mg/ml administered every 8 weeks (2Q8)
 
-Patients who were switched from other anti-VEGF medicinal products to Eylea 114.3 mg/ml received the last injection of the previous treatment at least 12  weeks prior to initiating the Eylea 114.3 mg/ml treatment.
+Patients who were switched from other anti-VEGF medicinal products to Eylea 114.3 mg/ml received the last injection of the previous treatment at least 12 weeks prior to initiating the Eylea 114.3 mg/ml treatment.
 
-All patients in the 8Q12- and 8Q16-groups received 3 initial injections and all patients in the
-
-2Q8-group received 5 initial injections at 4-week intervals.
+All patients in the 8Q12- and 8Q16-groups received 3 initial injections and all patients in the 2Q8-group received 5 initial injections at 4-week intervals.
 
 Per study protocol the interval of the 8Q12- and 8Q16-groups was to be shortened if both of the following criteria were met:
 
@@ -2371,51 +2277,50 @@ Treatment with Eylea (both 8Q12- and 8Q16-groups) was shown to be non-inferior a
 
 Table 7: Efficacy outcomes from the PHOTON study
 
-A
+A LS mean, CI and p-value based on an MMRM with baseline best corrected visual acuity (BCVA) measurement as covariate, treatment group as factor, visit and stratification variables used for randomisation (geographical region, categorical baseline BCVA) as fixed factors as well as terms for the interaction between baseline BCVA and visit and for the interaction between treatment and visit.
 
 | Efficacy outcomes                                                                                | Week                                                                                             | Eylea 8Q12 (N = 328)                                                                             | Eylea 8Q16 (N = 163)                                                                             | Eylea 2Q8 (N = 167)                                                                              |
 |--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Change in BCVA from baseline as measured by ETDRS letter score D                                 | Change in BCVA from baseline as measured by ETDRS letter score D                                 | Change in BCVA from baseline as measured by ETDRS letter score D                                 | Change in BCVA from baseline as measured by ETDRS letter score D                                 | Change in BCVA from baseline as measured by ETDRS letter score D                                 |
-| Arithmetic mean (SD), observed                                                                   | 48                                                                                               | 8.77 (8.95)                                                                                      | 7.86 (8.38)                                                                                      | 9.21 (8.99)                                                                                      |
-| LS mean (SE) A                                                                                   | 48                                                                                               | 8.10 (0.61)                                                                                      | 7.23 (0.71)                                                                                      | 8.67 (0.73)                                                                                      |
+| Arithmetic mean (SD), observed                                                                   |                                                                                                  | 8.77 (8.95)                                                                                      | 7.86 (8.38)                                                                                      | 9.21 (8.99)                                                                                      |
+| LS mean (SE) A                                                                                   |                                                                                                  | 8.10 (0.61)                                                                                      | 7.23 (0.71)                                                                                      | 8.67 (0.73)                                                                                      |
 | Difference in LS means (95% CI) A,B                                                              | 48                                                                                               | -0.57 (-2.26, 1.13)                                                                              | -1.44 (-3.27, 0.39)                                                                              |                                                                                                  |
-| p-value (one-sided non-inferiority test at a margin of 4 letters) A,B                            | 48                                                                                               | <0.0001                                                                                          | 0.0031                                                                                           |                                                                                                  |
-| Arithmetic mean (SD), observed                                                                   | 60                                                                                               | 9.05 (9.27)                                                                                      | 7.96 (9.14)                                                                                      | 9.62 (9.58)                                                                                      |
-| LS mean (SE) A                                                                                   | 60                                                                                               | 8.52 (0.63)                                                                                      | 7.64 (0.75)                                                                                      | 9.40 (0.77)                                                                                      |
+| p-value (one-sided non-inferiority test at a margin of 4 letters) A,B                            |                                                                                                  | <0.0001                                                                                          | 0.0031                                                                                           |                                                                                                  |
+| Arithmetic mean (SD), observed                                                                   |                                                                                                  | 9.05 (9.27)                                                                                      | 7.96 (9.14)                                                                                      | 9.62 (9.58)                                                                                      |
+| LS mean (SE) A                                                                                   |                                                                                                  | 8.52 (0.63)                                                                                      | 7.64 (0.75)                                                                                      | 9.40 (0.77)                                                                                      |
 | Difference in LS means (95% CI) A,B                                                              | 60                                                                                               | -0.88 (-2.67, 0.91)                                                                              | -1.76 (-3.71, 0.19)                                                                              |                                                                                                  |
-| p-value (one-sided non-inferiority test at a margin of 4 letters) A,B                            | 60                                                                                               | 0.0003                                                                                           | 0.0122                                                                                           |                                                                                                  |
-| Arithmetic mean (SD), observed                                                                   | 96                                                                                               | 8.82 (9.93)                                                                                      | 7.50 (9.86)                                                                                      | 8.41 (11.10)                                                                                     |
-| LS mean (SE) A                                                                                   | 96                                                                                               | 8.15 (0.63)                                                                                      | 6.59 (0.77)                                                                                      | 7.70 (0.89)                                                                                      |
-| Difference in LS means (95% CI) A,B                                                              | 96                                                                                               | 0.45 (-1.55, 2.45)                                                                               | -1.11 (-3.27, 1.05)                                                                              |                                                                                                  |
+| p-value (one-sided non-inferiority test at a margin of 4 letters) A,B                            |                                                                                                  | 0.0003                                                                                           | 0.0122                                                                                           |                                                                                                  |
+| Arithmetic mean (SD), observed                                                                   |                                                                                                  | 8.82 (9.93)                                                                                      | 7.50 (9.86)                                                                                      | 8.41 (11.10)                                                                                     |
+| LS mean (SE) A                                                                                   |                                                                                                  | 8.15 (0.63)                                                                                      | 6.59 (0.77)                                                                                      | 7.70 (0.89)                                                                                      |
+| Difference in LS                                                                                 | 96                                                                                               | 0.45                                                                                             | -1.11                                                                                            |                                                                                                  |
+| means (95% CI) A,B                                                                               |                                                                                                  | (-1.55, 2.45)                                                                                    | (-3.27, 1.05)                                                                                    |                                                                                                  |
 | Patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) D | Patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) D | Patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) D | Patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) D | Patients achieving an ETDRS letter score of at least 69 (approximate 20/40 Snellen equivalent) D |
-| Proportion (LOCF)                                                                                | 48                                                                                               | 65.3%                                                                                            | 62.6%                                                                                            | 63.0%                                                                                            |
+| Proportion (LOCF)                                                                                |                                                                                                  | 65.3%                                                                                            | 62.6%                                                                                            | 63.0%                                                                                            |
 | Adjusted difference in proportion (95% CI) B,C                                                   | 48                                                                                               | 2.45% (-6.47%, 11.36%)                                                                           | -0.67% (-11.16%, 9.82%)                                                                          |                                                                                                  |
-| Proportion (LOCF)                                                                                | 60                                                                                               | 64.7%                                                                                            | 62.0%                                                                                            | 60.6%                                                                                            |
+| Proportion (LOCF)                                                                                |                                                                                                  | 64.7%                                                                                            | 62.0%                                                                                            | 60.6%                                                                                            |
 | Adjusted difference in proportion (95% CI) B,C                                                   | 60                                                                                               | 4.34% (-4.72%, 13.40%)                                                                           | 1.63% (-8.91%, 12.17%)                                                                           |                                                                                                  |
-| Proportion (LOCF)                                                                                | 96                                                                                               | 66.9%                                                                                            | 61.3%                                                                                            | 63.0%                                                                                            |
+| Proportion (LOCF)                                                                                |                                                                                                  | 66.9%                                                                                            | 61.3%                                                                                            | 63.0%                                                                                            |
 | Adjusted difference in proportion (95% CI) B,C                                                   | 96                                                                                               | 4.01% (-4.99%, 13.01%)                                                                           | -1.51% (-11.91%, 8.89%)                                                                          |                                                                                                  |
 | Patients who gained at least 15 letters in BCVA from baseline D                                  | Patients who gained at least 15 letters in BCVA from baseline D                                  | Patients who gained at least 15 letters in BCVA from baseline D                                  | Patients who gained at least 15 letters in BCVA from baseline D                                  | Patients who gained at least 15 letters in BCVA from baseline D                                  |
-| Proportion (LOCF)                                                                                | 48                                                                                               | 18.7%                                                                                            | 16.6%                                                                                            | 23.0%                                                                                            |
+| Proportion (LOCF)                                                                                |                                                                                                  | 18.7%                                                                                            | 16.6%                                                                                            | 23.0%                                                                                            |
 | Adjusted difference in proportion (95% CI) B,C                                                   | 48                                                                                               | -4.64% (-12.30%, 3.02%)                                                                          | -7.14% (-15.45%, 1.17%)                                                                          |                                                                                                  |
-| Proportion (LOCF)                                                                                | 60                                                                                               | 21.5%                                                                                            | 16.0%                                                                                            | 26.1%                                                                                            |
+| Proportion (LOCF)                                                                                |                                                                                                  | 21.5%                                                                                            | 16.0%                                                                                            | 26.1%                                                                                            |
 | Adjusted difference in proportion (95% CI) B,C                                                   | 60                                                                                               | -5.01% (-13.04%, 3.02%)                                                                          | -10.78% (-19.27%, -2.29%)                                                                        |                                                                                                  |
-| Proportion (LOCF)                                                                                | 96                                                                                               | 24.5%                                                                                            | 19.6%                                                                                            | 26.1%                                                                                            |
+| Proportion (LOCF)                                                                                |                                                                                                  | 24.5%                                                                                            | 19.6%                                                                                            | 26.1%                                                                                            |
 | Adjusted difference in proportion (95% CI) B,C                                                   | 96                                                                                               | -1.88% (-10.03%, 6.28%)                                                                          | -7.07% (-15.94%, 1.80%)                                                                          |                                                                                                  |
 | Last intended treatment intervals                                                                | Last intended treatment intervals                                                                | Last intended treatment intervals                                                                | Last intended treatment intervals                                                                | Last intended treatment intervals                                                                |
 | Patients at ≥Q12 treatment interval E                                                            | Patients at ≥Q12 treatment interval E                                                            | Patients at ≥Q12 treatment interval E                                                            | Patients at ≥Q12 treatment interval E                                                            | Patients at ≥Q12 treatment interval E                                                            |
 | Proportion (pooled 8Q12- and 8Q16-groups)                                                        | 96                                                                                               | 92.9%                                                                                            | 92.9%                                                                                            | n/a                                                                                              |
-| Proportion                                                                                       | 96                                                                                               | 91.8%                                                                                            | 95.0%                                                                                            | n/a                                                                                              |
+| Proportion                                                                                       |                                                                                                  | 91.8%                                                                                            | 95.0%                                                                                            | n/a                                                                                              |
 | Patients at ≥Q16 treatment interval E                                                            | Patients at ≥Q16 treatment interval E                                                            | Patients at ≥Q16 treatment interval E                                                            | Patients at ≥Q16 treatment interval E                                                            | Patients at ≥Q16 treatment interval E                                                            |
-| Proportion (pooled 8Q12- and 8Q16-groups)                                                        | 96                                                                                               | 72.4%                                                                                            | 72.4%                                                                                            | n/a                                                                                              |
-| Proportion                                                                                       | 96                                                                                               | 64.1%                                                                                            | 87.8%                                                                                            | n/a                                                                                              |
+| Proportion (pooled 8Q12- and 8Q16-groups)                                                        | 96                                                                                               | 72.4%                                                                                            |                                                                                                  | n/a                                                                                              |
+| Proportion                                                                                       |                                                                                                  | 64.1%                                                                                            | 87.8%                                                                                            | n/a                                                                                              |
 | Patients at ≥Q20 treatment interval E                                                            | Patients at ≥Q20 treatment interval E                                                            | Patients at ≥Q20 treatment interval E                                                            | Patients at ≥Q20 treatment interval E                                                            | Patients at ≥Q20 treatment interval E                                                            |
 | Proportion (pooled 8Q12- and 8Q16-groups)                                                        | 96                                                                                               |                                                                                                  | 44.3%                                                                                            | n/a                                                                                              |
-| Proportion                                                                                       | 96                                                                                               | 43.0%                                                                                            | 46.8%                                                                                            | n/a                                                                                              |
+| Proportion                                                                                       |                                                                                                  | 43.0%                                                                                            | 46.8%                                                                                            | n/a                                                                                              |
 | Patients at Q24 treatment interval E                                                             | Patients at Q24 treatment interval E                                                             | Patients at Q24 treatment interval E                                                             | Patients at Q24 treatment interval E                                                             | Patients at Q24 treatment interval E                                                             |
 | Proportion (pooled 8Q12- and 8Q16-groups)                                                        | 96                                                                                               |                                                                                                  | 26.8%                                                                                            | n/a                                                                                              |
-| Proportion                                                                                       | 96                                                                                               | 23.8%                                                                                            | 32.4%                                                                                            | n/a                                                                                              |
-
-LS mean, CI and p-value based on an MMRM with baseline best corrected visual acuity (BCVA) measurement as covariate, treatment group as factor, visit and stratification variables used for randomisation (geographical region, categorical baseline BCVA) as fixed factors as well as terms for the interaction between baseline BCVA and visit and for the interaction between treatment and visit.
+| Proportion                                                                                       |                                                                                                  | 23.8%                                                                                            | 32.4%                                                                                            | n/a                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2427,11 +2332,11 @@ LS mean, CI and p-value based on an MMRM with baseline best corrected visual acu
 
 LOCF: Last observation carried forward
 
-LS: Least square
+- LS: Least square
 
 SD: Standard deviation
 
-SE: Standard error
+- SE: Standard error
 
 Treatment intervals were analysed in a pre-specified exploratory manner.
 
@@ -2533,7 +2438,7 @@ Treatment with Eylea 114.3 mg/ml was shown to be non-inferior and clinically equ
 
 Furthermore, treatment with Eylea 114.3 mg/ml was shown to be superior to treatment with 2Q4 in terms of the key secondary efficacy endpoint 'number of active injections from baseline to week 64'. The Eylea 8Q8/3-group required 3.2 fewer injections than the 2Q4-group.
 
-At week 36, 93.9% of patients in the 8Q8/3-group had attained treatment intervals of ≥ 8 weeks, while maintaining visual and anatomic outcomes.
+At week 36, 93.9% of patients in the 8Q8/3-group had attained treatment intervals of ≥8 weeks, while maintaining visual and anatomic outcomes.
 
 At week 64, 56.1% of patients in the 8Q8/3-group had completed treatment intervals of 16 weeks, while maintaining visual and anatomic outcomes.
 
@@ -2624,25 +2529,19 @@ Table 9: Efficacy outcomes from the QUASAR study
 - G p-value based on a multiple imputation procedure applying a non-parametric rank analysis of covariance adjusted for baseline BCVA, baseline CST, and the stratification variables used for randomisation (geographical region, categorical baseline BCVA and RVO type) on each imputed dataset and combination of results using Rubin`s rule.
 - H patients in the 2Q4-treatement group who extended at week 32 and were maintained at ≥Q8 through week 64.
 
-CI: Confidence interval
+## CI: Confidence interval
 
 ETDRS: early treatment diabetic retinopathy study
 
 OC: observed cases, data after the occurrence of an intercurrent event excluded in line with the primary estimand strategy
 
-LS:
-
-Least square
+LS: Least square
 
 MMRM: mixed model for repeated measurements
 
-SD:
+SD: Standard deviation
 
-Standard deviation
-
-SE:
-
-Standard error
+SE: Standard error
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2674,7 +2573,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Absorption / Distribution
 
-Aflibercept is slowly absorbed from the eye into the systemic circulation after intravitreal administration and is predominately observed in the systemic circulation as an inactive, stable complex with VEGF; however only 'free aflibercept' is able to bind endogenous VEGF.
+Aflibercept is slowly absorbed from the eye into the systemic circulation after intravitreal administration and is predominately observed in the systemic circulation as an inactive, stable complex with VEGF; however only \"free aflibercept\" is able to bind endogenous VEGF.
 
 Following unilateral intravitreal administration of 8 mg aflibercept, the mean (SD) Cmax of free aflibercept in plasma was 0.25 (0.21) mg/l, and the median time to maximal concentration in plasma was 1 day, in the nAMD and DME population combined. The accumulation of free aflibercept in plasma following 3 initial monthly doses was minimal. Subsequently, no further accumulation was observed. These data are also supported by population pharmacokinetic analyses.
 
@@ -2722,21 +2621,21 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.4 Special precautions for storage
 
-## Eylea 114.3 mg/ml solution for injection
+Eylea 114.3 mg/ml solution for injection
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light. Prior to usage, the unopened vial may be stored outside the refrigerator below 25 °C for up to 24 hours.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light. Prior to usage, the unopened vial may be stored outside the refrigerator below 25 °C for up to
+
+24 hours.
 
 ## Eylea 114.3 mg/ml solution for injection in pre-filled syringe
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled syringe in its blister and in the outer carton in order to protect from light. Prior to usage, the unopened blister may be stored outside the refrigerator below 25 °C for up to
 
-Do not freeze.
-
-Keep the pre-filled syringe in its blister and in the outer carton in order to protect from light. Prior to usage, the unopened blister may be stored outside the refrigerator below 25 °C for up to 24 hours.
+24 hours.
 
 ## 6.5 Nature and contents of container
 
-## Eylea 114.3 mg/ml solution for injection
+Eylea 114.3 mg/ml solution for injection
 
 Vial (type I glass) with a grey rubber stopper (chlorobutyl) sealed with an aluminium cap with white lid, and a 18 G, 5-micron filter needle.
 
@@ -2758,13 +2657,13 @@ Do not use if the package or its components are expired, damaged, or have been t
 
 <div style=\"page-break-after: always\"></div>
 
-## 18 G, 5-micron filter needle:
+18 G, 5-micron filter needle:
 
-- -blunt filter (fill) needle, not for skin injection.
-- -Do not autoclave blunt filter (fill) needle.
-- -The filter needle is non-pyrogenic. Do not use it if individual packaging is damaged.
-- -Discard the used blunt filter (fill) needle in approved sharps collector.
-- -Caution: Re-use of the filter needle may lead to infection or other illness/injury.
+- blunt filter (fill) needle, not for skin injection.
+- Do not autoclave blunt filter (fill) needle.
+- The filter needle is non-pyrogenic. Do not use it if individual packaging is damaged.
+- Discard the used blunt filter (fill) needle in approved sharps collector.
+- Caution: Re-use of the filter needle may lead to infection or other illness/injury.
 
 The intravitreal injection should be performed with a 30 G × ½ inch injection needle (not included). Use of a smaller size needle (higher gauge) than the recommended 30 G × ½ inch injection needle may result in increased injection forces.
 
@@ -2782,15 +2681,13 @@ The intravitreal injection should be performed with a 30 G × ½ inch injection 
 5. Withdraw all of the Eylea vial content into the syringe, keeping the vial in an upright position, slightly inclined to ease complete withdrawal. To deter the introduction of air, ensure the bevel of the filter needle is submerged into the liquid. Continue to tilt the vial during withdrawal keeping the bevel of the filter needle submerged in the liquid.
 6. Ensure that the plunger rod is drawn sufficiently back when emptying the vial to completely empty the filter needle. After injection any unused product must be discarded.
 7. Remove the filter needle and properly dispose of it.
-
-<!-- image -->
-
-<!-- image -->
-
-Note: The filter needle is not to be used for the intravitreal injection.
-
+4. Note: The filter needle is not to be used for the intravitreal injection.
 8. Firmly twist the 30 G × ½ inch injection needle onto the Luer-lock syringe tip.
 9. Holding the syringe with the needle pointing up, check the syringe for bubbles. If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
@@ -2816,7 +2713,9 @@ The intravitreal injection should be performed with a 30 G × ½ inch injection 
 
 ## 1. Prepare
 
-When ready to administer Eylea 114.3mg/ml, open the carton and remove the sterile blister. Carefully peel open the blister ensuring the sterility of its contents.
+When ready to administer Eylea 114.3mg/ml, open the carton and remove the sterile blister.
+
+Carefully peel open the blister ensuring the sterility of its contents.
 
 Keep the syringe in the sterile tray until you are ready to attach the injection needle.
 
@@ -2830,9 +2729,9 @@ Remove the syringe from the sterilised blister.
 
 Do not use the pre-filled syringe if
 
-- -particulates, cloudiness, or discolouration are visible
-- -any part of the pre-filled syringe with OcuClick dosing system is damaged or loose
-- -the syringe cap is detached from the Luer-lock.
+- particulates, cloudiness, or discolouration are visible
+- any part of the pre-filled syringe with OcuClick dosing system is damaged or loose
+- the syringe cap is detached from the Luer-lock.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2866,6 +2765,8 @@ To eliminate all bubbles and to expel excess medicinal product, slowly depress t
 
 <!-- image -->
 
+<!-- image -->
+
 8. Set the dose
 
 Turn the end of the plunger rod 90 degrees clockwise or counter clockwise until the guide of the plunger rod aligns with the slot. You may hear a 'click'.
@@ -2874,11 +2775,9 @@ Note: Now the device is ready to dose. Do not push the plunger rod before insert
 
 <!-- image -->
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
-## 9. Administer the injection
+9. Administer the injection
 
 Insert the needle into the ocular injection site. Inject the solution by pushing in the plunger rod until it stops, i.e. until the guide is completely within the slot.
 
@@ -2886,9 +2785,7 @@ Do not apply additional pressure once the guide is within the slot. It is normal
 
 <!-- image -->
 
-The pre-filled syringe is for single dose administration and single use only.
-
-10.
+10. The pre-filled syringe is for single dose administration and single use only.
 
 After injection discard the used syringe into a sharps container.
 
@@ -2900,7 +2797,9 @@ Bayer AG 51368 Leverkusen Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/12/797/003 - Eylea 114.3 mg/ml solution for injection EU/1/12/797/004 - Eylea 114.3 mg/ml solution for injection in pre-filled syringe
+EU/1/12/797/003 - Eylea 114.3 mg/ml solution for injection
+
+EU/1/12/797/004 - Eylea 114.3 mg/ml solution for injection in pre-filled syringe
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -2931,7 +2830,9 @@ Regeneron Pharmaceuticals, Inc. 81 Columbia Turnpike Rensselaer, New York 12144 
 
 or
 
-Regeneron Ireland Designated Activity Company Raheen Business Park Ballycummin Limerick Ireland
+Regeneron Ireland Designated Activity Company Raheen Business Park Ballycummin Limerick
+
+Ireland
 
 Name and address of the manufacturer responsible for batch release
 
@@ -2955,7 +2856,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-## An updated RMP should be submitted:
+An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile
@@ -3124,7 +3025,9 @@ Pre-filled syringe
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Eylea 40 mg/mL solution for injection aflibercept
+Eylea 40 mg/mL solution for injection
+
+aflibercept
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -3170,11 +3073,14 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Bayer AG 51368 Leverkusen Germany
 
@@ -3197,6 +3103,8 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS LABEL
 
 Pre-filled syringe
@@ -3209,11 +3117,13 @@ Intravitreal use
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -3221,19 +3131,22 @@ Lot
 
 Extractable volume 0.09 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTON
+CARTON
 
 Vial
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Eylea 40 mg/mL solution for injection in a vial aflibercept
+Eylea 40 mg/mL solution for injection in a vial
+
+aflibercept
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -3359,7 +3272,9 @@ OUTER CARTON - VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Eylea 114.3 mg/ml solution for injection aflibercept
+Eylea 114.3 mg/ml solution for injection
+
+aflibercept
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -3401,21 +3316,19 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bayer AG
-
-51368 Leverkusen
-
-Germany
+Bayer AG 51368 Leverkusen Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -3445,23 +3358,21 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL - VIAL                                                     |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL - VIAL                                                       |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Eylea 114.3 mg/ml injection aflibercept Intravitreal use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3473,8 +3384,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 30.1 mg/0.263 ml
 
@@ -3539,15 +3450,11 @@ Store in a refrigerator. Do not freeze.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bayer AG
-
-51368 Leverkusen
-
-Germany
+Bayer AG 51368 Leverkusen Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -3581,9 +3488,12 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINUMUM PARTICULARS TO APPEAR ON THE OUTER PACKGING PEEL-OFF LABEL AFFIXED TO INNER LID OF CARTON - PRE-FILLED SYRINGE
+| MINUMUM PARTICULARS TO APPEAR ON THE OUTER PACKGING                |
+|--------------------------------------------------------------------|
+| PEEL-OFF LABEL AFFIXED TO INNER LID OF CARTON - PRE-FILLED SYRINGE |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Eylea 114.3 mg/ml
 
@@ -3599,9 +3509,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## BLISTER FOIL - PRE-FILLED SYRINGE
+## PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER FOIL - PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3633,23 +3541,30 @@ Single dose: 8 mg/0.07 ml
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Eylea 114.3 mg/ml injection aflibercept Intravitreal use
+Eylea 114.3 mg/ml injection aflibercept
 
-## 2. METHOD OF ADMINISTRATION
+Intravitreal use
 
-## 3. EXPIRY DATE
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 21 mg/0.184 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3665,9 +3580,9 @@ For information for guardians of babies born prematurely, please see further dow
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3682,10 +3597,10 @@ For information for guardians of babies born prematurely, please see further dow
 
 Eylea is a solution which is injected into the eye to treat eye conditions in adults called
 
-- -neovascular (wet) age-related macular degeneration (wet AMD),
-- -impaired vision due to macular oedema secondary to retinal vein occlusion (branch RVO (BRVO) or central RVO (CRVO)),
-- -impaired vision due to diabetic macular oedema (DME),
-- -impaired vision due to myopic choroidal neovascularisation (myopic CNV).
+- neovascular (wet) age-related macular degeneration (wet AMD),
+- impaired vision due to macular oedema secondary to retinal vein occlusion (branch RVO (BRVO) or central RVO (CRVO)),
+- impaired vision due to diabetic macular oedema (DME),
+- impaired vision due to myopic choroidal neovascularisation (myopic CNV).
 
 Aflibercept, the active substance in Eylea, blocks the activity of a group of factors, known as Vascular Endothelial Growth Factor A (VEGF-A) and Placental Growth Factor (PlGF).
 
@@ -3697,9 +3612,7 @@ In patients with BRVO, one or more branches of the main blood vessel that transp
 
 ## Package Leaflet: Information for the adult patient
 
-## Eylea 40 mg/mL solution for injection in a pre-filled syringe
-
-## aflibercept
+## Eylea 40 mg/mL solution for injection in a pre-filled syringe aflibercept
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3711,46 +3624,46 @@ Eylea has been shown to stop the growth of new abnormal blood vessels in the eye
 
 ## You will not be given Eylea
 
-- -if you are allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6).
-- -if you have an active or suspected infection in or around the eye (ocular or periocular infection).
-- -if you have severe inflammation of the eye (indicated by pain or redness).
+- if you are allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6).
+- if you have an active or suspected infection in or around the eye (ocular or periocular infection).
+- if you have severe inflammation of the eye (indicated by pain or redness).
 
 ## Warnings and precautions
 
 Talk to your doctor before you are given Eylea
 
-- -if you have glaucoma.
-- -if you have a history of seeing flashes of light or floaters and if you have a sudden increase of size and number of floaters.
-- -if surgery was performed or is planned on your eye within the previous or next four weeks.
-- -if you have a severe form of CRVO or BRVO (ischaemic CRVO or BRVO), treatment with Eylea is not recommended.
+- if you have glaucoma.
+- if you have a history of seeing flashes of light or floaters and if you have a sudden increase of size and number of floaters.
+- if surgery was performed or is planned on your eye within the previous or next four weeks.
+- if you have a severe form of CRVO or BRVO (ischaemic CRVO or BRVO), treatment with Eylea is not recommended.
 
-## Furthermore, it is important for you to know that
+Furthermore, it is important for you to know that
 
-- -the safety and efficacy of Eylea when administered to both eyes at the same time has not been studied and if used in this way may lead to an increased risk of experiencing side effects.
-- -injections with Eylea may cause an increase in eye pressure (intraocular pressure) in some patients within 60 minutes of the injection. Your doctor will monitor this after each injection.
-- -if you develop an infection or inflammation inside the eye (endophthalmitis) or other complications, you may have eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, and increased sensitivity to light. It is important to have any symptoms diagnosed and treated as soon as possible.
-- -your doctor will check whether you have other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye (retinal detachment or tear, and retinal pigment epithelial detachment or tear), in which case Eylea must be given with caution.
-- -Eylea should not be used in pregnancy unless the potential benefit outweighs the potential risk to the unborn child.
-- -women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Eylea.
+- the safety and efficacy of Eylea when administered to both eyes at the same time has not been studied and if used in this way may lead to an increased risk of experiencing side effects.
+- injections with Eylea may cause an increase in eye pressure (intraocular pressure) in some patients within 60 minutes of the injection. Your doctor will monitor this after each injection.
+- if you develop an infection or inflammation inside the eye (endophthalmitis) or other complications, you may have eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, and increased sensitivity to light. It is important to have any symptoms diagnosed and treated as soon as possible.
+- your doctor will check whether you have other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye (retinal detachment or tear, and retinal pigment epithelial detachment or tear), in which case Eylea must be given with caution.
+- Eylea should not be used in pregnancy unless the potential benefit outweighs the potential risk to the unborn child.
+- women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Eylea.
 
 The systemic use of VEGF inhibitors, substances similar to those contained in Eylea, is potentially related to the risk of blood clots blocking blood vessels (arterial thromboembolic events) which may lead to heart attack or stroke. There is a theoretical risk of such events following injection of Eylea into the eye. There are limited data on safety in treating patients with CRVO, BRVO, DME and myopic CNV who have had a stroke or a mini-stroke (transient ischaemic attack) or a heart attack within the last 6 months. If any of these apply to you, Eylea will be given with caution.
 
 There is only limited experience in the treatment of
 
-- -patients with DME due to type I diabetes.
-- -diabetics with very high average blood sugar values (HbA1c over 12%).
-- -diabetics with an eye disease caused by diabetes called proliferative diabetic retinopathy.
+- patients with DME due to type I diabetes.
+- diabetics with very high average blood sugar values (HbA1c over 12%).
+- diabetics with an eye disease caused by diabetes called proliferative diabetic retinopathy.
 
 <div style=\"page-break-after: always\"></div>
 
 There is no experience in the treatment of
 
-- -patients with acute infections.
-- -patients with other eye conditions such as a detachment of the retina or a hole in the macula.
-- -diabetics with uncontrolled high blood pressure.
-- -non-Asian patients with myopic CNV.
-- -patients previously treated for myopic CNV.
-- -patients with damage outside the central part of the macula (extrafoveal lesions) for myopic CNV.
+- patients with acute infections.
+- patients with other eye conditions such as a detachment of the retina or a hole in the macula.
+- diabetics with uncontrolled high blood pressure.
+- non-Asian patients with myopic CNV.
+- patients previously treated for myopic CNV.
+- patients with damage outside the central part of the macula (extrafoveal lesions) for myopic CNV.
 
 If any of the above applies to you, your doctor will consider this lack of information when treating you with Eylea.
 
@@ -3766,9 +3679,9 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy and breast-feeding
 
-- -Women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Eylea.
-- -There is no experience of using Eylea in pregnant women. Eylea should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant or planning to become pregnant, discuss this with your doctor before treatment with Eylea.
-- -Small amounts of Eylea may pass into human milk. The effects on breast-fed newborns/infants are unknown. Eylea is not recommended during breast-feeding. If you are a breastfeeding woman, discuss this with your doctor before treatment with Eylea.
+- Women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Eylea.
+- There is no experience of using Eylea in pregnant women. Eylea should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant or planning to become pregnant, discuss this with your doctor before treatment with Eylea.
+- Small amounts of Eylea may pass into human milk. The effects on breast-fed newborns/infants are unknown. Eylea is not recommended during breast-feeding. If you are a breastfeeding woman, discuss this with your doctor before treatment with Eylea.
 
 ## Driving and using machines
 
@@ -3776,8 +3689,8 @@ After your injection with Eylea, you may experience some temporary visual distur
 
 ## Eylea contains
 
-- -less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
-- -0.015 mg of polysorbate 20 in each 0.05 ml dose which is equivalent to 0.3 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
+- 0.015 mg of polysorbate 20 in each 0.05 ml dose which is equivalent to 0.3 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How you will be given Eylea
 
@@ -3813,7 +3726,7 @@ Your doctor will monitor your response to treatment and may continue your treatm
 
 Based on your response to treatment your doctor will decide on the schedule for follow up examinations and treatments.
 
-## Diabetic macular oedema (DME )
+## Diabetic macular oedema (DME)
 
 Patients with DME will be treated with one injection per month for the first five consecutive doses followed by one injection every two months thereafter.
 
@@ -3831,7 +3744,7 @@ If your condition goes away and then comes back, your doctor may re-start the tr
 
 Your doctor will decide on the schedule for follow up examinations.
 
-Detailed instructions for use are given at the end of the leaflet under 'How to prepare and administer Eylea to adults'.
+Detailed instructions for use are given at the end of the leaflet under \"How to prepare and administer Eylea to adults\".
 
 ## If a dose of Eylea is missed
 
@@ -3851,9 +3764,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Allergic reactions (hypersensitivity) could potentially occur. These may be serious and require that you contact your doctor immediately.
 
-With administration of Eylea, there may be some side effects affecting the eyes which are due to the injection procedure. Some of these may be serious and include blindness , a serious infection or inflammation inside the eye (endophthalmitis), detachment , tear or bleeding of the light-sensitive layer at the back of the eye (retinal detachment or tear), clouding of the lens (cataract), bleeding in the eye (vitreous haemorrhage), detachment of the gel-like substance inside the eye from the retina (vitreous detachment) and increase of pressure inside the eye , see section 2. These serious side effects affecting the eyes occurred in less than 1 in 1,900 injections in clinical studies.
+With administration of Eylea, there may be some side effects affecting the eyes which are due to the injection procedure. Some of these may be serious and include blindness, a serious infection or inflammation inside the eye (endophthalmitis), detachment, tear or bleeding of the light-sensitive layer at the back of the eye (retinal detachment or tear), clouding of the lens (cataract), bleeding in the eye (vitreous haemorrhage), detachment of the gel-like substance inside the eye from the retina (vitreous detachment) and increase of pressure inside the eye, see section 2. These serious side effects affecting the eyes occurred in less than 1 in 1,900 injections in clinical studies.
 
-If you experience a sudden decrease in vision, or an increase in pain and redness in your eye after your injection, contact your doctor immediately .
+If you experience a sudden decrease in vision, or an increase in pain and redness in your eye after your injection, contact your doctor immediately.
 
 ## List of side effects reported
 
@@ -3861,50 +3774,52 @@ The following is a list of the side effects reported to be possibly related to t
 
 Very common side effects (may affect more than 1 in 10 people):
 
-- -deterioration of eyesight
-- -bleeding in the back of the eye (retinal haemorrhage)
-- -bloodshot eye caused by bleeding from small blood vessels in the outer layers of the eye
-- -eye pain
+- deterioration of eyesight
+- bleeding in the back of the eye (retinal haemorrhage)
+- bloodshot eye caused by bleeding from small blood vessels in the outer layers of the eye
+- eye pain
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- -detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters sometimes progressing to a loss of vision (retinal pigment epithelial tear*/detachment, retinal detachment/tear)
+- detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters sometimes progressing to a loss of vision (retinal pigment epithelial tear*/detachment, retinal detachment/tear)
 - o *Conditions known to be associated with wet AMD; observed in wet AMD patients only.
-- -degeneration of the retina causing disturbed vision
-- -bleeding in the eye (vitreous haemorrhage)
-- -certain forms of clouding of the lens (cataract)
-- -damage to the front layer of the eyeball (the cornea)
-- -increase in eye pressure
-- -moving spots in vision (floaters)
-- -detachment of the gel-like substance inside the eye from the retina (vitreous detachment, resulting in flashes of light with floaters)
-- -a feeling of having something in the eye
-- -increased tear production
-- -swelling of the eyelid
-- -bleeding at the injection site
-- -redness of the eye
+- degeneration of the retina causing disturbed vision
+- bleeding in the eye (vitreous haemorrhage)
+- certain forms of clouding of the lens (cataract)
+- damage to the front layer of the eyeball (the cornea)
+- increase in eye pressure
+- moving spots in vision (floaters)
+- detachment of the gel-like substance inside the eye from the retina (vitreous detachment, resulting in flashes of light with floaters)
+- a feeling of having something in the eye
+- increased tear production
+- swelling of the eyelid
+- bleeding at the injection site
+- redness of the eye
 
 <div style=\"page-break-after: always\"></div>
 
 Uncommon side effects (may affect up to 1 in 100 people):
 
-- -allergic reactions (hypersensitivity)**
+- allergic reactions (hypersensitivity)**
 - o ** Allergic reactions like rash, itching (pruritus), hives (urticaria), and a few cases of severe allergy (anaphylactic/anaphylactoid) reactions were reported.
-- -serious inflammation or infection inside the eye (endophthalmitis)
-- -inflammation in the iris or other parts of the eye (iritis, uveitis, iridocyclitis, anterior chamber flare)
-- -abnormal sensation in the eye
-- -eyelid irritation
-- -swelling of the front layer of the eyeball (cornea)
+- serious inflammation or infection inside the eye (endophthalmitis)
+- inflammation in the iris or other parts of the eye (iritis, uveitis, iridocyclitis, anterior chamber flare)
+- abnormal sensation in the eye
+- eyelid irritation
+- swelling of the front layer of the eyeball (cornea)
 
 Rare side effects (may affect up to 1 in 1,000 people):
 
-- -blindness
-- -clouding of the lens due to injury (traumatic cataract)
-- -inflammation of the gel-like substance inside the eye
-- -pus in the eye
+- blindness
+- clouding of the lens due to injury (traumatic cataract)
+- inflammation of the gel-like substance inside the eye
+- pus in the eye
+- inflammation of blood vessels in the back of the eye (retinal vasculitis)
 
 Not known (frequency cannot be estimated from the available data):
 
-- -inflammation of the white part of the eye associated with redness and pain (scleritis)
+- inflammation of the white part of the eye associated with redness and pain (scleritis)
+- blockage of blood vessels in the back of the eye, typically in presence of inflammation (retinal occlusive vasculitis)
 
 In the clinical trials, there was an increased incidence of bleeding from small blood vessels in the outer layers of the eye (conjunctival haemorrhage) in patients with wet AMD receiving blood thinners. This increased incidence was comparable between patients treated with ranibizumab and Eylea.
 
@@ -3918,12 +3833,12 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## 5. How to store Eylea
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2 °C to 8 °C). Do not freeze.
-- -The unopened blister may be stored outside the refrigerator below 25 °C for up to 24 hours.
-- -Store in the original package in order to protect from light.
-- -Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2 °C to 8 °C). Do not freeze.
+- The unopened blister may be stored outside the refrigerator below 25 °C for up to 24 hours.
+- Store in the original package in order to protect from light.
+- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3931,8 +3846,8 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## What Eylea contains
 
-- -The active substance is: aflibercept. One pre-filled syringe contains an extractable volume of at least 0.09 mL, equivalent to at least 3.6 mg aflibercept. One pre-filled syringe delivers a dose of 2 mg aflibercept in 0.05 mL.
-- -The other ingredients are: polysorbate 20 (E 432), sodium dihydrogen phosphate monohydrate (for pH adjustment), disodium hydrogen phosphate heptahydrate (for pH adjustment), sodium chloride, sucrose, water for injections.
+- The active substance is: aflibercept. One pre-filled syringe contains an extractable volume of at least 0.09 mL, equivalent to at least 3.6 mg aflibercept. One pre-filled syringe delivers a dose of 2 mg aflibercept in 0.05 mL.
+- The other ingredients are: polysorbate 20 (E 432), sodium dihydrogen phosphate monohydrate (for pH adjustment), disodium hydrogen phosphate heptahydrate (for pH adjustment), sodium chloride, sucrose, water for injections.
 
 See 'Eylea contains' in section 2 for more information.
 
@@ -3944,7 +3859,9 @@ Pack size of 1 pre-filled syringe.
 
 ## Marketing Authorisation Holder
 
-Bayer AG 51368 Leverkusen Germany
+Bayer AG 51368 Leverkusen
+
+Germany
 
 ## Manufacturer
 
@@ -3992,7 +3909,7 @@ Tel: +372-655 85 65
 
 Bayer Ελλάς ΑΒΕΕ
 
-Τηλ:  +30-210-618 75 00
+Τηλ: +30-210-618 75 00
 
 ## España
 
@@ -4002,9 +3919,7 @@ Tel: +34-93-495 65 00
 
 ## Lietuva
 
-UAB Bayer
-
-Tel: +370-5-233 68 68
+UAB Bayer Tel: +370-5-233 68 68
 
 ## Luxembourg / Luxemburg
 
@@ -4054,35 +3969,17 @@ Bayer HealthCare
 
 Tél (N° vert): +33-(0)800 87 54 54
 
-## Portugal
-
-Bayer Portugal, Lda.
-
-Tel: +351-21-416 42 00
-
 ## Hrvatska
 
 Bayer d.o.o.
 
 Tel: + 385-(0)1-6599 900
 
-România
-
-SC Bayer SRL
-
-Tel: +40-(0)21-529 59 00
-
-Ireland
+## Ireland
 
 Bayer Limited
 
 Tel: +353-(0)1-216 3300
-
-Slovenija
-
-Bayer d. o. o.
-
-Tel: +386-(0)1-58 14 400
 
 Ísland
 
@@ -4090,17 +3987,47 @@ Icepharma hf.
 
 Sími: +354-540 80 00
 
-Slovenská republika
-
-Bayer, spol. s r.o.
-
-Tel: +421-(0)2-59 21 31 11
-
 Italia
 
 Bayer S.p.A.
 
 Tel: +39-02-3978 1
+
+## Κύπρος
+
+NOVAGEM Limited
+
+Τηλ: +357-22-48 38 58
+
+Latvija
+
+SIA Bayer
+
+Tel: +371-67 84 55 63
+
+## Portugal
+
+Bayer Portugal, Lda.
+
+Tel: +351-21-416 42 00
+
+## România
+
+SC Bayer SRL
+
+Tel: +40-(0)21-529 59 00
+
+Slovenija
+
+Bayer d. o. o.
+
+Tel: +386-(0)1-58 14 400
+
+Slovenská republika
+
+Bayer, spol. s r.o.
+
+Tel: +421-(0)2-59 21 31 11
 
 ## Suomi/Finland
 
@@ -4108,23 +4035,11 @@ Bayer Oy
 
 Puh/Tel: +358-(0)20-78521
 
-Κύπρος
-
-NOVAGEM Limited
-
-Τηλ: +357-22-48 38 58
-
 Sverige
 
 Bayer AB
 
 Tel: +46-(0)8-580 223 00
-
-Latvija
-
-SIA Bayer
-
-Tel: +371-67 84 55 63
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4179,18 +4094,16 @@ Note: This accurate positioning of the plunger is very important, because incorr
 
 <!-- image -->
 
-8.       Inject while pressing the plunger carefully and with constant pressure. Do not apply additional pressure once the plunger has reached the bottom of the syringe. Do not administer any residual solution observed in the syringe .
-9. The pre-filled syringe is for single use only. Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection. Any unused medicinal product or waste material should be disposed of in accordance with local
+8. Inject while pressing the plunger carefully and with constant pressure. Do not apply additional pressure once the plunger has reached the bottom of the syringe. Do not administer any residual solution observed in the syringe.
+9. The pre-filled syringe is for single use only. Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection.
 
-requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Package Leaflet: Information for guardians of babies born prematurely
 
-## Eylea 40 mg/mL solution for injection in a pre-filled syringe
-
-## aflibercept
+## Eylea 40 mg/mL solution for injection in a pre-filled syringe aflibercept
 
 ## BABIES BORN PREMATURELY
 
@@ -4200,9 +4113,9 @@ For adult information, please see top of the page. [applicable for 2 or more lan
 
 ## Read all of this leaflet carefully before the baby is given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask the baby's doctor.
-- -If you notice any symptoms of side effects, talk to the baby's doctor. This includes any possible symptoms and side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask the baby's doctor.
+- If you notice any symptoms of side effects, talk to the baby's doctor. This includes any possible symptoms and side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4227,33 +4140,33 @@ Eylea has been shown to stop the growth of new abnormal blood vessels in the eye
 
 ## The baby will not be given Eylea if he or she
 
-- -is allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6).
-- -has an active or suspected infection in or around the eye (ocular or periocular infection).
-- -has severe inflammation of the eye (indicated by pain or redness).
+- is allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6).
+- has an active or suspected infection in or around the eye (ocular or periocular infection).
+- has severe inflammation of the eye (indicated by pain or redness).
 
 ## Warnings and precautions
 
 Talk to the baby's doctor before the baby is given Eylea
 
-- -if surgery was performed or is planned on the baby's eye within the previous or next four weeks.
+- if surgery was performed or is planned on the baby's eye within the previous or next four weeks.
 
 <div style=\"page-break-after: always\"></div>
 
 Furthermore, it is important for you to know that
 
-- -injections with Eylea may cause an increase in eye pressure (intraocular pressure) in some patients within 60 minutes of the injection. The baby's doctor will monitor this after each injection.
-- -if the baby develops an infection or inflammation inside the eye (endophthalmitis) or other complications, the baby may have redness/irritation of the eye , ocular discharge , lid swelling and increased sensitivity to light . It is important to have any symptoms diagnosed and treated as soon as possible.
+- injections with Eylea may cause an increase in eye pressure (intraocular pressure) in some patients within 60 minutes of the injection. The baby's doctor will monitor this after each injection.
+- if the baby develops an infection or inflammation inside the eye (endophthalmitis) or other complications, the baby may have redness/irritation of the eye, ocular discharge, lid swelling and increased sensitivity to light. It is important to have any symptoms diagnosed and treated as soon as possible.
 
 ## Please tell the baby's doctor immediately if the baby develops any signs or symptoms outlined.
 
-- -the baby's doctor will check whether the baby has other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye (retinal detachment or tear), in which case Eylea must be given with caution.
+- the baby's doctor will check whether the baby has other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye (retinal detachment or tear), in which case Eylea must be given with caution.
 
 The systemic use of VEGF inhibitors, substances similar to those contained in Eylea, is potentially related to the risk of blood clots blocking blood vessels (arterial thromboembolic events) which may lead to heart attack or stroke. There is a theoretical risk of such events following injection of Eylea into the eye.
 
 There is no experience in the treatment of
 
-- -patients with acute infections
-- -patients with other eye conditions such as a detachment of the retina or a hole in the macula
+- patients with acute infections
+- patients with other eye conditions such as a detachment of the retina or a hole in the macula
 
 If any of the above applies to the baby, the baby's doctor will consider this lack of information when treating the baby with Eylea.
 
@@ -4263,8 +4176,8 @@ Tell the baby's doctor if the baby is receiving, has recently received or might 
 
 ## Eylea contains
 
-- -less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
-- -0.003 mg of polysorbate 20 in each 0.01 ml dose which is equivalent to 0.3 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if your baby has any known allergies.
+- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
+- 0.003 mg of polysorbate 20 in each 0.01 ml dose which is equivalent to 0.3 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if your baby has any known allergies.
 
 ## 3. How the baby will be given Eylea
 
@@ -4276,7 +4189,7 @@ Before the injection the baby's doctor will use a disinfectant eyewash to clean 
 
 The treatment is started with a single injection per eye and may be given into the second eye on the same day. The baby's doctor will monitor the condition of the baby's eye(s). Depending on how the baby responds to the treatment, the baby's doctor will decide if and when further treatment is needed. The treatment interval between the 2 doses injected into the same eye should be at least 4 weeks.
 
-Detailed instructions for use are given at the end of the leaflet under 'How to prepare and administer Eylea to preterm infants'.
+Detailed instructions for use are given at the end of the leaflet under \"How to prepare and administer Eylea to preterm infants\".
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4292,39 +4205,39 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Side effects reported in more than one baby born prematurely were
 
-- -detachment of the layer in the back of the eye (retinal detachment)
-- -bleeding in the back of the eye (retinal haemorrhage)
-- -bloodshot eye caused by bleeding from small blood vessels in the outer layers of the eye (conjunctival haemorrhage)
-- -bleeding at the injection site (injection site haemorrhage)
-- -increase in eye pressure
-- -swelling of the eyelid (eyelid oedema)
+- detachment of the layer in the back of the eye (retinal detachment)
+- bleeding in the back of the eye (retinal haemorrhage)
+- bloodshot eye caused by bleeding from small blood vessels in the outer layers of the eye (conjunctival haemorrhage)
+- bleeding at the injection site (injection site haemorrhage)
+- increase in eye pressure
+- swelling of the eyelid (eyelid oedema)
 
 Additional side effects that have been observed with Eylea in adults are listed below. These side effects may also occur in babies born prematurely
 
-- -allergic reactions (hypersensitivity)
+- allergic reactions (hypersensitivity)
 
 These may be serious and require that you contact the baby's doctor immediately.
 
 Side effects affecting the eyes due to the injection procedure may be serious and include
 
-- -blindness
-- -a serious infection or inflammation inside the eye (endophthalmitis)
-- -detachment, tear or bleeding of the light-sensitive layer at the back of the eye (retinal detachment or tear)
-- -clouding of the lens (cataract)
-- -bleeding in the eye (vitreous haemorrhage)
-- -detachment of the gel-like substance inside the eye from the retina (vitreous detachment)
-- -increase of pressure inside the eye (intraocular pressure increased), see section 2
+- blindness
+- a serious infection or inflammation inside the eye (endophthalmitis)
+- detachment, tear or bleeding of the light-sensitive layer at the back of the eye (retinal detachment or tear)
+- clouding of the lens (cataract)
+- bleeding in the eye (vitreous haemorrhage)
+- detachment of the gel-like substance inside the eye from the retina (vitreous detachment)
+- increase of pressure inside the eye (intraocular pressure increased), see section 2
 
 These serious side effects affecting the eyes occurred in less than 1 in 1,900 injections in clinical studies in adults.
 
 It is important to identify and treat serious side effects such as infection inside the eye or retinal detachment as soon as possible.
 
-Tell the baby's doctor immediately if you notice symptoms in the baby's eye after injection such as
+## Tell the baby's doctor immediately if you notice symptoms in the baby's eye after injection such as
 
-- -redness/irritation
-- -ocular discharge
-- -lid swelling
-- -increased sensitivity to light
+- redness/irritation
+- ocular discharge
+- lid swelling
+- increased sensitivity to light
 
 Other side effects observed in adults are described below.
 
@@ -4336,56 +4249,58 @@ The following is a list of the side effects reported to be possibly related to t
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
-- -deterioration of eyesight
-- -bleeding in the back of the eye (retinal haemorrhage)
-- -bloodshot eye caused by bleeding from small blood vessels in the outer layers of the eye
-- -eye pain
+- deterioration of eyesight
+- bleeding in the back of the eye (retinal haemorrhage)
+- bloodshot eye caused by bleeding from small blood vessels in the outer layers of the eye
+- eye pain
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- -detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters sometimes progressing to a loss of vision (retinal pigment epithelial tear*/detachment, retinal detachment/tear)
+- detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters sometimes progressing to a loss of vision (retinal pigment epithelial tear*/detachment, retinal detachment/tear)
 - o * Conditions known to be associated with wet age-related macular degeneration (AMD); observed in wet AMD patients only.
-- -degeneration of the retina causing disturbed vision
-- -bleeding in the eye (vitreous haemorrhage)
-- -certain forms of clouding of the lens (cataract)
-- -damage to the front layer of the eyeball (the cornea)
-- -increase in eye pressure
-- -moving spots in vision (floaters)
-- -detachment of the gel-like substance inside the eye from the retina (vitreous detachment, resulting in flashes of light with floaters)
-- -a feeling of having something in the eye
-- -increased tear production
-- -swelling of the eyelid
-- -bleeding at the injection site
-- -redness of the eye
+- degeneration of the retina causing disturbed vision
+- bleeding in the eye (vitreous haemorrhage)
+- certain forms of clouding of the lens (cataract)
+- damage to the front layer of the eyeball (the cornea)
+- increase in eye pressure
+- moving spots in vision (floaters)
+- detachment of the gel-like substance inside the eye from the retina (vitreous detachment, resulting in flashes of light with floaters)
+- a feeling of having something in the eye
+- increased tear production
+- swelling of the eyelid
+- bleeding at the injection site
+- redness of the eye
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-- -allergic reactions (hypersensitivity)**
+- allergic reactions (hypersensitivity)**
 - o ** Allergic reactions like rash, itching (pruritus), hives (urticaria), and a few cases of severe allergy (anaphylactic/anaphylactoid) reactions were reported.
-- -serious inflammation or infection inside the eye (endophthalmitis)
-- -inflammation in the iris or other parts of the eye (iritis, uveitis, iridocyclitis, anterior chamber flare)
-- -abnormal sensation in the eye
-- -eyelid irritation
-- -swelling of the front layer of the eyeball (cornea)
+- serious inflammation or infection inside the eye (endophthalmitis)
+- inflammation in the iris or other parts of the eye (iritis, uveitis, iridocyclitis, anterior chamber flare)
+- abnormal sensation in the eye
+- eyelid irritation
+- swelling of the front layer of the eyeball (cornea)
 
 ## Rare side effects (may affect up to 1 in 1,000 people):
 
-- -blindness
-- -clouding of the lens due to injury (traumatic cataract)
-- -inflammation of the gel-like substance inside the eye
-- -pus in the eye
+- blindness
+- clouding of the lens due to injury (traumatic cataract)
+- inflammation of the gel-like substance inside the eye
+- pus in the eye
+- inflammation of blood vessels in the back of the eye (retinal vasculitis)
 
-## Not known (frequency cannot be estimated from the available data):
+Not known (frequency cannot be estimated from the available data):
 
-- -inflammation of the white part of the eye associated with redness and pain (scleritis)
+- inflammation of the white part of the eye associated with redness and pain (scleritis)
+- blockage of blood vessels in the back of the eye, typically in presence of inflammation (retinal occlusive vasculitis)
 
 The systemic use of VEGF inhibitors, substances similar to those contained in Eylea, is potentially related to the risk of blood clots blocking blood vessels (arterial thromboembolic events) which may lead to heart attack or stroke. There is a theoretical risk of such events following injection of Eylea into the eye.
 
 As with all therapeutic proteins, there is a possibility for an immune reaction (formation of antibodies) with Eylea.
 
-If you have any questions about any side effects, ask the baby's doctor.
-
 <div style=\"page-break-after: always\"></div>
+
+If you have any questions about any side effects, ask the baby's doctor.
 
 ## Reporting of side effects
 
@@ -4393,19 +4308,20 @@ If you observe any side effects in the baby, talk to the baby's doctor. This inc
 
 ## 5. How to store Eylea
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2 °C to 8 °C). Do not freeze.
-- -The unopened blister may be stored outside the refrigerator below 25 ºC for up to 24 hours.
-- -Store in the original package in order to protect from light.
-- -Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and label after EXP.
+- The expiry date refers to the last day of that month.
+- Store in a refrigerator (2 °C to 8 °C). Do not freeze.
+- The unopened blister may be stored outside the refrigerator below 25 ºC for up to 24 hours.
+- Store in the original package in order to protect from light.
+- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Eylea contains
 
-- -The active substance is: aflibercept. One pre-filled syringe contains an extractable volume of at least 0.09 mL, equivalent to at least 3.6 mg aflibercept. One pre-filled syringe delivers a single dose of 0.4 mg aflibercept in 0.01 mL.
-- -The other ingredients are: polysorbate 20 (E 432), sodium dihydrogen phosphate monohydrate (for pH adjustment), disodium hydrogen phosphate heptahydrate (for pH adjustment), sodium chloride, sucrose, water for injections.
+- The active substance is: aflibercept. One pre-filled syringe contains an extractable volume of at least 0.09 mL, equivalent to at least 3.6 mg aflibercept. One pre-filled syringe delivers a single dose of 0.4 mg aflibercept in 0.01 mL.
+- The other ingredients are: polysorbate 20 (E 432), sodium dihydrogen phosphate monohydrate (for pH adjustment), disodium hydrogen phosphate heptahydrate (for pH adjustment), sodium chloride, sucrose, water for injections.
 
 See 'Eylea contains' in section 2 for more information.
 
@@ -4467,7 +4383,7 @@ Tel: +372-655 85 65
 
 Bayer Ελλάς ΑΒΕΕ
 
-Τηλ:  +30-210-618 75 00
+Τηλ: +30-210-618 75 00
 
 ## España
 
@@ -4621,11 +4537,13 @@ The pre-filled syringe should only be used for the treatment of a single eye. Ex
 
 Do not open the sterile pre-filled blister outside the clean administration room. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-The pre-filled syringe contains more than the recommended dose of 0.4 mg aflibercept (equivalent to 0.01 mL).  For treatment of preterm infants, the PICLEO paediatric dosing device in combination with the pre-filled syringe must be used for administration of a single dose of 0.4 mg aflibercept (equivalent to 0.01 mL). See following section ' Instructions for use of pre-filled syringe '.
+The pre-filled syringe contains more than the recommended dose of 0.4 mg aflibercept (equivalent to 0.01 mL). For treatment of preterm infants, the PICLEO paediatric dosing device in combination with the pre-filled syringe must be used for administration of a single dose of 0.4 mg aflibercept (equivalent to 0.01 mL). See following section \"Instructions for use of pre-filled syringe\".
 
 The solution should be inspected visually for any foreign particulate matter and/or discolouration or any variation in physical appearance prior to administration. In the event of either being observed, discard the medicinal product.
 
-The unopened blister may be stored outside the refrigerator below 25 ºC for up to 24 hours. After opening the blister, proceed under aseptic conditions. For the intravitreal injection, a 30 G x ½ inch injection needle should be used.
+The unopened blister may be stored outside the refrigerator below 25 ºC for up to 24 hours. After opening the blister, proceed under aseptic conditions.
+
+For the intravitreal injection, a 30 G x ½ inch injection needle should be used.
 
 ## Instructions for use of pre-filled syringe:
 
@@ -4638,15 +4556,13 @@ To prepare the pre-filled syringe for administration to preterm infants, follow 
 
 ## Package Leaflet: Information for the patient
 
-## Eylea 40 mg/mL solution for injection in a vial
-
-## aflibercept
+## Eylea 40 mg/mL solution for injection in a vial aflibercept
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4661,10 +4577,11 @@ To prepare the pre-filled syringe for administration to preterm infants, follow 
 
 Eylea is a solution which is injected into the eye to treat eye conditions in adults called
 
-- -neovascular (wet) age-related macular degeneration (wet AMD),
-- -impaired vision due to macular oedema secondary to retinal vein occlusion (branch RVO (BRVO) or central RVO (CRVO)),
-- -impaired vision due to diabetic macular oedema (DME),
-- -impaired vision due to myopic choroidal neovascularisation (myopic CNV).
+- neovascular (wet) age-related macular degeneration (wet AMD),
+- impaired vision due to macular oedema secondary to retinal vein occlusion (branch RVO
+- (BRVO) or central RVO (CRVO)),
+- impaired vision due to diabetic macular oedema (DME),
+- impaired vision due to myopic choroidal neovascularisation (myopic CNV).
 
 Aflibercept, the active substance in Eylea, blocks the activity of a group of factors, known as Vascular Endothelial Growth Factor A (VEGF-A) and Placental Growth Factor (PlGF).
 
@@ -4684,46 +4601,46 @@ Eylea has been shown to stop the growth of new abnormal blood vessels in the eye
 
 ## You will not be given Eylea
 
-- -if you are allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6).
-- -if you have an active or suspected infection in or around the eye (ocular or periocular infection).
-- -if you have severe inflammation of the eye (indicated by pain or redness).
+- if you are allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6).
+- if you have an active or suspected infection in or around the eye (ocular or periocular infection).
+- if you have severe inflammation of the eye (indicated by pain or redness).
 
 ## Warnings and precautions
 
 Talk to your doctor before you are given Eylea:
 
-- -if you have glaucoma.
-- -if you have a history of seeing flashes of light or floaters and if you have a sudden increase of size and number of floaters.
-- -if surgery was performed or is planned on your eye within the previous or next four weeks.
-- -if you have a severe form of CRVO or BRVO (ischaemic CRVO or BRVO), treatment with Eylea is not recommended.
+- if you have glaucoma.
+- if you have a history of seeing flashes of light or floaters and if you have a sudden increase of size and number of floaters.
+- if surgery was performed or is planned on your eye within the previous or next four weeks.
+- if you have a severe form of CRVO or BRVO (ischaemic CRVO or BRVO), treatment with Eylea is not recommended.
 
 Furthermore, it is important for you to know that:
 
-- -the safety and efficacy of Eylea when administered to both eyes at the same time has not been studied and if used in this way may lead to an increased risk of experiencing side effects.
-- -injections with Eylea may cause an increase in eye pressure (intraocular pressure) in some patients within 60 minutes of the injection. Your doctor will monitor this after each injection.
-- -if you develop an infection or inflammation inside the eye (endophthalmitis) or other complications, you may have eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, and increased sensitivity to light. It is important to have any symptoms diagnosed and treated as soon as possible.
-- -your doctor will check whether you have other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye (retinal detachment or tear, and retinal pigment epithelial detachment or tear), in which case Eylea must be given with caution.
-- -Eylea should not be used in pregnancy unless the potential benefit outweighs the potential risk to the unborn child.
-- -women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Eylea.
+- the safety and efficacy of Eylea when administered to both eyes at the same time has not been studied and if used in this way may lead to an increased risk of experiencing side effects.
+- injections with Eylea may cause an increase in eye pressure (intraocular pressure) in some patients within 60 minutes of the injection. Your doctor will monitor this after each injection.
+- if you develop an infection or inflammation inside the eye (endophthalmitis) or other complications, you may have eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, and increased sensitivity to light. It is important to have any symptoms diagnosed and treated as soon as possible.
+- your doctor will check whether you have other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye (retinal detachment or tear, and retinal pigment epithelial detachment or tear), in which case Eylea must be given with caution.
+- Eylea should not be used in pregnancy unless the potential benefit outweighs the potential risk to the unborn child.
+- women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Eylea.
 
 The systemic use of VEGF inhibitors, substances similar to those contained in Eylea, is potentially related to the risk of blood clots blocking blood vessels (arterial thromboembolic events) which may lead to heart attack or stroke. There is a theoretical risk of such events following injection of Eylea into the eye. There are limited data on safety in treating patients with CRVO, BRVO, DME and myopic CNV who have had a stroke or a mini-stroke (transient ischaemic attack) or a heart attack within the last 6 months. If any of these apply to you, Eylea will be given with caution.
 
 There is only limited experience in the treatment of
 
-- -patients with DME due to type I diabetes.
-- -diabetics with very high average blood sugar values (HbA1c over 12%).
-- -diabetics with an eye disease caused by diabetes called proliferative diabetic retinopathy.
+- patients with DME due to type I diabetes.
+- diabetics with very high average blood sugar values (HbA1c over 12%).
+- diabetics with an eye disease caused by diabetes called proliferative diabetic retinopathy.
 
 <div style=\"page-break-after: always\"></div>
 
 There is no experience in the treatment of
 
-- -patients with acute infections.
-- -patients with other eye conditions such as a detachment of the retina or a hole in the macula.
-- -diabetics with uncontrolled high blood pressure.
-- -non-Asian patients with myopic CNV.
-- -patients previously treated for myopic CNV.
-- -patients with damage outside the central part of the macula (extrafoveal lesions) for myopic CNV.
+- patients with acute infections.
+- patients with other eye conditions such as a detachment of the retina or a hole in the macula.
+- diabetics with uncontrolled high blood pressure.
+- non-Asian patients with myopic CNV.
+- patients previously treated for myopic CNV.
+- patients with damage outside the central part of the macula (extrafoveal lesions) for myopic CNV.
 
 If any of the above applies to you, your doctor will consider this lack of information when treating you with Eylea.
 
@@ -4737,9 +4654,9 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy and breast-feeding
 
-- -Women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Eylea.
-- -There is no experience of using Eylea in pregnant women. Eylea should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant or planning to become pregnant, discuss this with your doctor before treatment with Eylea.
-- -Small amounts of Eylea may pass into human milk. The effects on breast-fed newborns/infants are unknown. Eylea is not recommended during breast-feeding. If you are a breastfeeding woman, discuss this with your doctor before treatment with Eylea.
+- Women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Eylea.
+- There is no experience of using Eylea in pregnant women. Eylea should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant or planning to become pregnant, discuss this with your doctor before treatment with Eylea.
+- Small amounts of Eylea may pass into human milk. The effects on breast-fed newborns/infants are unknown. Eylea is not recommended during breast-feeding. If you are a breastfeeding woman, discuss this with your doctor before treatment with Eylea.
 
 ## Driving and using machines
 
@@ -4747,8 +4664,8 @@ After your injection with Eylea, you may experience some temporary visual distur
 
 ## Eylea contains
 
-- -less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
-- -0.015 mg of polysorbate 20 in each 0.05 ml dose which is equivalent to 0.3 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
+- 0.015 mg of polysorbate 20 in each 0.05 ml dose which is equivalent to 0.3 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How you will be given Eylea
 
@@ -4820,9 +4737,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Allergic reactions (hypersensitivity) could potentially occur. These may be serious and require that you contact your doctor immediately.
 
-With administration of Eylea, there may be some side effects affecting the eyes which are due to the injection procedure. Some of these may be serious and include blindness , a serious infection or inflammation inside the eye (endophthalmitis), detachment, tear or bleeding of the light-sensitive layer at the back of the eye (retinal detachment or tear), clouding of the lens (cataract), bleeding in the eye (vitreous haemorrhage), detachment of the gel-like substance inside the eye from the retina (vitreous detachment) and increase of pressure inside the eye , see section 2. These serious side effects affecting the eyes occurred in less than 1 in 1,900 injections in clinical studies.
+With administration of Eylea, there may be some side effects affecting the eyes which are due to the injection procedure. Some of these may be serious and include blindness, a serious infection or inflammation inside the eye (endophthalmitis), detachment, tear or bleeding of the light-sensitive layer at the back of the eye (retinal detachment or tear), clouding of the lens (cataract), bleeding in the eye (vitreous haemorrhage), detachment of the gel-like substance inside the eye from the retina (vitreous detachment) and increase of pressure inside the eye, see section 2. These serious side effects affecting the eyes occurred in less than 1 in 1,900 injections in clinical studies.
 
-If you experience a sudden decrease in vision, or an increase in pain and redness in your eye after your injection, contact your doctor immediately .
+If you experience a sudden decrease in vision, or an increase in pain and redness in your eye after your injection, contact your doctor immediately.
 
 ## List of side effects reported
 
@@ -4830,50 +4747,52 @@ The following is a list of the side effects reported to be possibly related to t
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
-- -deterioration of eyesight
-- -bleeding in the back of the eye (retinal haemorrhage)
-- -bloodshot eye caused by bleeding from small blood vessels in the outer layers of the eye
-- -eye pain
+- deterioration of eyesight
+- bleeding in the back of the eye (retinal haemorrhage)
+- bloodshot eye caused by bleeding from small blood vessels in the outer layers of the eye
+- eye pain
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- -detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters sometimes progressing to a loss of vision (retinal pigment epithelial tear*/detachment, retinal detachment/tear)
-- -degeneration of the retina (causing disturbed vision)
-- -bleeding in the eye (vitreous haemorrhage)
-- -certain forms of clouding of the lens (cataract)
-- -damage to the front layer of the eyeball (the cornea)
-- -increase in eye pressure
-- -moving spots in vision (floaters)
-- -detachment of the gel-like substance inside the eye from the retina (vitreous detachment, resulting in flashes of light with floaters)
-- -a feeling of having something in the eye
-- -increased tear production
-- -swelling of the eyelid
-- -bleeding at the injection site
-- -redness of the eye
+- detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters sometimes progressing to a loss of vision (retinal pigment epithelial tear*/detachment, retinal detachment/tear)
+- degeneration of the retina (causing disturbed vision)
+- bleeding in the eye (vitreous haemorrhage)
+- certain forms of clouding of the lens (cataract)
+- damage to the front layer of the eyeball (the cornea)
+- increase in eye pressure
+- moving spots in vision (floaters)
+- detachment of the gel-like substance inside the eye from the retina (vitreous detachment, resulting in flashes of light with floaters)
+- a feeling of having something in the eye
+- increased tear production
+- swelling of the eyelid
+- bleeding at the injection site
+- redness of the eye
 * Conditions known to be associated with wet AMD; observed in wet AMD patients only.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-- -allergic reactions (hypersensitivity)**
-- -serious inflammation or infection inside the eye (endophthalmitis)
-- -inflammation in the iris or other parts of the eye (iritis, uveitis, iridocyclitis, anterior chamber flare)
-- -abnormal sensation in the eye
-- -eyelid irritation
-- -swelling of the front layer of the eyeball (cornea)
+- allergic reactions (hypersensitivity)**
+- serious inflammation or infection inside the eye (endophthalmitis)
+- inflammation in the iris or other parts of the eye (iritis, uveitis, iridocyclitis, anterior chamber flare)
+- abnormal sensation in the eye
+- eyelid irritation
+- swelling of the front layer of the eyeball (cornea)
 - ** Allergic reactions like rash, itching (pruritus), hives (urticaria), and a few cases of severe allergy (anaphylactic/anaphylactoid) reactions were reported.
 
 ## Rare side effects (may affect up to 1 in 1,000 people):
 
-- -blindness
-- -clouding of the lens due to injury (traumatic cataract)
-- -inflammation of the gel-like substance inside the eye
-- -pus in the eye
+- blindness
+- clouding of the lens due to injury (traumatic cataract)
+- inflammation of the gel-like substance inside the eye
+- pus in the eye
+- inflammation of blood vessels in the back of the eye (retinal vasculitis)
 
 Not known (frequency cannot be estimated from the available data):
 
-- -inflammation of the white part of the eye associated with redness and pain (scleritis)
+- inflammation of the white part of the eye associated with redness and pain (scleritis)
+- blockage of blood vessels in the back of the eye, typically in presence of inflammation (retinal occlusive vasculitis)
 
 In the clinical trials, there was an increased incidence of bleeding from small blood vessels in the outer layers of the eye (conjunctival haemorrhage) in patients with wet AMD receiving blood thinners. This increased incidence was comparable between patients treated with ranibizumab and Eylea.
 
@@ -4887,12 +4806,12 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## 5. How to store Eylea
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2°C - 8°C). Do not freeze.
-- -The unopened vial may be stored outside the refrigerator below 25°C for up to 24 hours.
-- -Store in the original package in order to protect from light.
-- -Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2°C - 8°C). Do not freeze.
+- The unopened vial may be stored outside the refrigerator below 25°C for up to 24 hours.
+- Store in the original package in order to protect from light.
+- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4900,8 +4819,8 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## What Eylea contains
 
-- -The active substance is: aflibercept. One vial contains an extractable volume of at least 0.1 mL, equivalent to at least 4 mg aflibercept. One vial delivers a dose of 2 mg aflibercept in 0.05 mL.
-- -The other ingredients are: polysorbate 20 (E 432), sodium dihydrogen phosphate monohydrate (for pH adjustment), disodium hydrogen phosphate heptahydrate (for pH adjustment), sodium chloride, sucrose, water for injections.
+- The active substance is: aflibercept. One vial contains an extractable volume of at least 0.1 mL, equivalent to at least 4 mg aflibercept. One vial delivers a dose of 2 mg aflibercept in 0.05 mL.
+- The other ingredients are: polysorbate 20 (E 432), sodium dihydrogen phosphate monohydrate (for pH adjustment), disodium hydrogen phosphate heptahydrate (for pH adjustment), sodium chloride, sucrose, water for injections.
 
 See 'Eylea contains' in section 2 for more information.
 
@@ -4955,7 +4874,9 @@ Tel: +372-655 85 65
 
 ## Ελλάδα
 
-Bayer Ελλάς ΑΒΕΕ Τηλ:  +30-210-618 75 00
+Bayer Ελλάς ΑΒΕΕ
+
+Τηλ: +30-210-618 75 00
 
 ## España
 
@@ -4965,13 +4886,13 @@ Tel: +34-93-495 65 00
 
 ## Lietuva
 
-UAB Bayer Tel: +370-5-233 68 68
+UAB Bayer
+
+Tel: +370-5-233 68 68
 
 ## Luxembourg / Luxemburg
 
-Bayer SA-NV
-
-Tél/Tel: +32-(0)2-535 63 11
+Bayer SA-NV Tél/Tel: +32-(0)2-535 63 11
 
 ## Magyarország
 
@@ -4981,9 +4902,7 @@ Tel: +36-1-487 4100
 
 ## Malta
 
-Alfred Gera and Sons Ltd.
-
-Tel: +356-21 44 62 05
+Alfred Gera and Sons Ltd. Tel: +356-21 44 62 05
 
 ## Nederland
 
@@ -4999,7 +4918,9 @@ Tlf: +47-23 13 05 00
 
 ## Österreich
 
-Bayer Austria Ges. m. b. H. Tel: +43-(0)1-711 460
+Bayer Austria Ges. m. b. H.
+
+Tel: +43-(0)1-711 460
 
 ## Polska
 
@@ -5013,35 +4934,17 @@ Bayer HealthCare
 
 Tél (N° vert): +33-(0)800 87 54 54
 
-## Portugal
-
-Bayer Portugal, Lda.
-
-Tel: +351-21-416 42 00
-
 ## Hrvatska
 
 Bayer d.o.o.
 
 Tel: + 385-(0)1-6599 900
 
-România
-
-SC Bayer SRL
-
-Tel: +40-(0)21-529 59 00
-
-Ireland
+## Ireland
 
 Bayer Limited
 
 Tel: +353-(0)1-216 3300
-
-Slovenija
-
-Bayer d. o. o.
-
-Tel: +386-(0)1-58 14 400
 
 Ísland
 
@@ -5049,23 +4952,11 @@ Icepharma hf.
 
 Sími: +354-540 80 00
 
-Slovenská republika
-
-Bayer, spol. s r.o.
-
-Tel: +421-(0)2-59 21 31 11
-
 Italia
 
 Bayer S.p.A.
 
 Tel: +39-02-3978 1
-
-## Suomi/Finland
-
-Bayer Oy
-
-Puh/Tel: +358-(0)20-78521
 
 Κύπρος
 
@@ -5073,19 +4964,49 @@ NOVAGEM Limited
 
 Τηλ: +357-22-48 38 58
 
+Latvija
+
+SIA Bayer
+
+## Portugal
+
+Bayer Portugal, Lda.
+
+Tel: +351-21-416 42 00
+
+România
+
+SC Bayer SRL
+
+Tel: +40-(0)21-529 59 00
+
+Slovenija
+
+Bayer d. o. o.
+
+Tel: +386-(0)1-58 14 400
+
+Slovenská republika
+
+Bayer, spol. s r.o.
+
+Tel: +421-(0)2-59 21 31 11
+
+## Suomi/Finland
+
+Bayer Oy
+
+Puh/Tel: +358-(0)20-78521
+
 Sverige
 
 Bayer AB
 
 Tel: +46-(0)8-580 223 00
 
-Latvija
-
-SIA Bayer
+<div style=\"page-break-after: always\"></div>
 
 Tel: +371-67 84 55 63
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -5149,13 +5070,15 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## Package leaflet: Information for the patient
 
-## Eylea 114.3 mg/ml solution for injection aflibercept
+## Eylea 114.3 mg/ml solution for injection
+
+## aflibercept
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5174,9 +5097,9 @@ Eylea contains the active substance aflibercept. It belongs to a group of medici
 
 Your doctor will inject Eylea into your eye to treat eye disorders in adults called:
 
-- -wet age-related macular degeneration (wet AMD)
-- -visual impairment due to diabetic macular oedema (DME)
-- -visual impairment due to macular oedema secondary to retinal vein occlusion (branch, central and hemiretinal RVO).
+- wet age-related macular degeneration (wet AMD)
+- visual impairment due to diabetic macular oedema (DME)
+- visual impairment due to macular oedema secondary to retinal vein occlusion (branch, central and hemiretinal RVO).
 
 These disorders affect the macula. The macula is the central part of the light sensitive membrane at the back of the eye. It is responsible for clear vision.
 
@@ -5192,9 +5115,9 @@ Eylea stops growth of new abnormal blood vessels in the eye. Eylea can help to s
 
 ## You will not receive Eylea if you
 
-- -are allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6)
-- -have an infection in or around the eye
-- -have pain or redness in your eye (severe eye inflammation).
+- are allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6)
+- have an infection in or around the eye
+- have pain or redness in your eye (severe eye inflammation).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5202,26 +5125,26 @@ Eylea stops growth of new abnormal blood vessels in the eye. Eylea can help to s
 
 Talk to your doctor before receiving Eylea if you:
 
-- -have glaucoma - an eye condition caused by high pressure in the eye
-- -have a history of seeing flashes of light or dark floating spots and if their size or number suddenly increases
-- -had eye surgery in the last 4 weeks or eye surgery is planned in the next 4 weeks.
+- have glaucoma - an eye condition caused by high pressure in the eye
+- have a history of seeing flashes of light or dark floating spots and if their size or number suddenly increases
+- had eye surgery in the last 4 weeks or eye surgery is planned in the next 4 weeks.
 
-## Tell your doctor immediately if you develop:
+Tell your doctor immediately if you develop:
 
-- -redness of the eye
-- -eye pain
-- -increased discomfort
-- -blurred or decreased vision
-- -increased sensitivity to light
+- redness of the eye
+- eye pain
+- increased discomfort
+- blurred or decreased vision
+- increased sensitivity to light
 
 These may be symptoms of an inflammation or infection and your doctor may stop giving you Eylea.
 
 Furthermore, it is important for you to know that:
 
-- -the safety and efficacy of Eylea when administered to both eyes at the same time have not been studied and such use may increase risk of experiencing side effects.
-- -injections with Eylea may cause an increase in eye pressure in some patients within 60 minutes of the injection. Your doctor will monitor this after each injection.
-- -your doctor will check for other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye. In such cases your doctor will give you Eylea with caution.
-- -women who could become pregnant must use effective birth control during treatment and for at least 4 months after the last injection of Eylea.
+- the safety and efficacy of Eylea when administered to both eyes at the same time have not been studied and such use may increase risk of experiencing side effects.
+- injections with Eylea may cause an increase in eye pressure in some patients within 60 minutes of the injection. Your doctor will monitor this after each injection.
+- your doctor will check for other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye. In such cases your doctor will give you Eylea with caution.
+- women who could become pregnant must use effective birth control during treatment and for at least 4 months after the last injection of Eylea.
 
 The use of substances similar to those contained in Eylea is potentially related to the risk of blood clots blocking blood vessels, which may lead to heart attack or stroke. Theoretically, this could also happen after an injection of Eylea into the eye. If you had a stroke, a mini-stroke or a heart attack within the last 6 months, your doctor will give you Eylea with caution.
 
@@ -5235,9 +5158,9 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy and breast-feeding
 
-- -Women who could become pregnant must use effective birth control during treatment and for at least 4 months after the last injection of Eylea.
-- -There is limited experience on the use of Eylea in pregnant women. Women should not receive Eylea during pregnancy unless the potential benefit to the woman outweighs the potential risk to the unborn child.
-- -Small amounts of Eylea may pass into human milk. The effect on breast-fed newborns/infants are unknown. Eylea is not recommended during breast-feeding.
+- Women who could become pregnant must use effective birth control during treatment and for at least 4 months after the last injection of Eylea.
+- There is limited experience on the use of Eylea in pregnant women. Women should not receive Eylea during pregnancy unless the potential benefit to the woman outweighs the potential risk to the unborn child.
+- Small amounts of Eylea may pass into human milk. The effect on breast-fed newborns/infants are unknown. Eylea is not recommended during breast-feeding.
 
 Therefore, if you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before you receive this medicine.
 
@@ -5257,15 +5180,15 @@ The recommended dose is 8 mg aflibercept per injection.
 
 ## wet AMD and DME
 
-- -You will receive 1 injection every month for the first 3 months.
-- -After that, you may receive injections up to every 6 months. Your doctor will decide on the frequency based on the condition of your eye.
-- -If your doctor changes your treatment to Eylea 114.3 mg/ml, your doctor will decide on the frequency after the first injection.
+- You will receive 1 injection every month for the first 3 months.
+- After that, you may receive injections up to every 6 months. Your doctor will decide on the frequency based on the condition of your eye.
+- If your doctor changes your treatment to Eylea 114.3 mg/ml, your doctor will decide on the frequency after the first injection.
 
 ## macular oedema secondary to RVO
 
-- -You will receive 1 injection every month for the first 3 months.
-- -After that, your doctor will decide on the frequency based on the condition of your eye.
-- -If your doctor changes your treatment to Eylea 114.3 mg/ml, your doctor will decide on the frequency after the first injection.
+- You will receive 1 injection every month for the first 3 months.
+- After that, your doctor will decide on the frequency based on the condition of your eye.
+- If your doctor changes your treatment to Eylea 114.3 mg/ml, your doctor will decide on the frequency after the first injection.
 
 ## Method of administration
 
@@ -5291,96 +5214,99 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Contact your doctor immediately if you have any of the following:
 
-- -common side effect, which may affect up to 1 in 10 people
-- -clouding of the lens (cataract)
-- -increase of pressure inside the eye
-- -bleeding in the back of the eye (retinal haemorrhage)
-- -bleeding inside the eye (vitreous haemorrhage)
+- common side effect, which may affect up to 1 in 10 people
+- clouding of the lens (cataract)
+- increase of pressure inside the eye
+- bleeding in the back of the eye (retinal haemorrhage)
+- bleeding inside the eye (vitreous haemorrhage)
 
 <div style=\"page-break-after: always\"></div>
 
-- -uncommon side effect, which may affect up to 1 in 100 people
-- -certain forms of clouding of the lens (cataract subcapsular/nuclear)
-- -detachment, tear or bleeding of the light-sensitive layer at the back of the eye, resulting in flashes of light with floaters, sometimes progressing to a loss of vision (retinal detachment or tear)
+- uncommon side effect, which may affect up to 1 in 100 people
+- certain forms of clouding of the lens (cataract subcapsular/nuclear)
+- detachment, tear or bleeding of the light-sensitive layer at the back of the eye, resulting in flashes of light with floaters, sometimes progressing to a loss of vision (retinal detachment or tear)
 
 ## Other possible side effects
 
 Common (may affect up to 1 in 10 people):
 
-- -allergic reactions
-- -moving spot in your vision (vitreous floaters)
-- -detachment of the gel-like substance inside the eye (vitreous detachment)
-- -reduced sharpness of vision
-- -eye pain
-- -bleeding inside the eye (conjunctival haemorrhage)
-- -damage to the clear layer of the eyeball in front of the iris (punctate keratitis, corneal abrasion)
+- allergic reactions
+- moving spot in your vision (vitreous floaters)
+- detachment of the gel-like substance inside the eye (vitreous detachment)
+- reduced sharpness of vision
+- eye pain
+- bleeding inside the eye (conjunctival haemorrhage)
+- damage to the clear layer of the eyeball in front of the iris (punctate keratitis, corneal abrasion)
 
 ## Uncommon (may affect up to 1 in 100 people):
 
-- -detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters, sometimes progressing to a loss of vision (retinal pigment epithelial tear/detachment)
-- -inflammation in the iris, of other parts of the eye, or the gel-like substance inside the eye (uveitis, iritis, iridocyclitis, vitritis)
-- -certain forms of clouding of the lens (cataract cortical)
-- -damage to the front layer of the eyeball (corneal erosion)
-- -blurred vision
-- -eye pain at injection site
-- -a feeling of having something in the eye
-- -increased tear production
-- -bleeding at the injection site
-- -redness of the eye
-- -clouding of the lens (lenticular opacities)
-- -swelling of the eyelid
-- -redness of the eye (ocular hyperaemia)
-- -irritation at injection site
-- -degeneration of the light sensitive membrane at the back of the eye (retinal degeneration)
-- -swelling of the front layer of the eyeball (corneal oedema)
+- detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters, sometimes progressing to a loss of vision (retinal pigment epithelial tear/detachment)
+- inflammation in the iris, of other parts of the eye, or the gel-like substance inside the eye (uveitis, iritis, iridocyclitis, vitritis)
+- certain forms of clouding of the lens (cataract cortical)
+- damage to the front layer of the eyeball (corneal erosion)
+- blurred vision
+- eye pain at injection site
+- a feeling of having something in the eye
+- increased tear production
+- bleeding at the injection site
+- redness of the eye
+- clouding of the lens (lenticular opacities)
+- swelling of the eyelid
+- redness of the eye (ocular hyperaemia)
+- irritation at injection site
+- degeneration of the light sensitive membrane at the back of the eye (retinal degeneration)
+- swelling of the front layer of the eyeball (corneal oedema)
 
-## Rare (may affect up to 1 in 1 000 people):
+Rare (may affect up to 1 in 1 000 people):
 
-- -blindness
-- -serious inflammation or infection inside the eye (endophthalmitis)
-- -eyelid irritation
+- blindness
+- serious inflammation or infection inside the eye (endophthalmitis)
+- eyelid irritation
+- inflammation of blood vessels in the back of the eye (retinal vasculitis)
 
-## Not known (frequency cannot be estimated from the available data):
+Not known (frequency cannot be estimated from the available data):
 
-- -inflammation of the white part of the eye associated with redness and pain (scleritis)
+- inflammation of the white part of the eye associated with redness and pain (scleritis)
+- blockage of blood vessels in the back of the eye, typically in presence of inflammation (retinal occlusive vasculitis)
 
 Besides the above the following side effects may occur:
 
-- -abnormal sensation in eye
-- -damage to the surface of the clear front layer of the eye (corneal epithelium defect)
-- -inflammation of other parts of the eye (anterior chamber flare)
-- -clouding of the lens due to injury (traumatic cataract)
-- -pus in the eye (hypopyon)
-- -severe allergic reactions
+- abnormal sensation in eye
+- damage to the surface of the clear front layer of the eye (corneal epithelium defect)
+- inflammation of other parts of the eye (anterior chamber flare)
+- clouding of the lens due to injury (traumatic cataract)
+- pus in the eye (hypopyon)
+- severe allergic reactions
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. How to store Eylea
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2 °C - 8 °C). Do not freeze.
-- -The unopened vial may be stored outside the refrigerator below 25 °C for up to 24 hours.
-- -Keep the vial in the outer carton in order to protect from light.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and label after EXP.
+
+The expiry date refers to the last day of that month.
+
+- Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+- The unopened vial may be stored outside the refrigerator below 25 °C for up to 24 hours.
+- Keep the vial in the outer carton in order to protect from light.
 
 ## 6. Contents of the pack and other information
 
 ## What Eylea contains
 
-- -The active substance is aflibercept. 1 ml solution contains 114.3 mg aflibercept. Each vial contains 0.263 ml. This provides a usable amount to deliver a single dose of 0.07 ml containing 8 mg aflibercept.
-- -The other ingredients are: sucrose, arginine hydrochloride, histidine hydrochloride monohydrate, histidine, polysorbate 20, water for injections.
+- The active substance is aflibercept. 1 ml solution contains 114.3 mg aflibercept. Each vial contains 0.263 ml. This provides a usable amount to deliver a single dose of 0.07 ml containing 8 mg aflibercept.
+- The other ingredients are: sucrose, arginine hydrochloride, histidine hydrochloride monohydrate, histidine, polysorbate 20, water for injections.
 
 See 'Eylea contains polysorbate 20' in section 2 for more information.
 
 ## What Eylea looks like and contents of the pack
 
-Eylea is a solution for injection (injection). The solution is colourless to pale yellow.
-
-Pack size: 1 vial + 1 filter needle.
+Eylea is a solution for injection (injection). The solution is colourless to pale yellow. Pack size: 1 vial + 1 filter needle.
 
 ## Marketing Authorisation Holder
 
@@ -5388,11 +5314,7 @@ Bayer AG 51368 Leverkusen Germany
 
 ## Manufacturer
 
-Bayer AG Müllerstraße 178 13353 Berlin Germany
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Bayer AG Müllerstraße 178 13353 Berlin Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -5483,6 +5405,8 @@ Tηλ: +357 22 48 38 58
 SIA Bayer
 
 Tel: +371 67 84 55 63
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -5602,15 +5526,13 @@ The intravitreal injection should be performed with a 30 G × ½ inch injection 
 5. Withdraw all of the Eylea vial content into the syringe, keeping the vial in an upright position, slightly inclined to ease complete withdrawal. To deter the introduction of air, ensure the bevel of the filter needle is submerged into the liquid. Continue to tilt the vial during withdrawal keeping the bevel of the filter needle submerged in the liquid.
 6. Ensure that the plunger rod is drawn sufficiently back when emptying the vial to completely empty the filter needle. After injection any unused product must be discarded.
 7. Remove the filter needle and properly dispose of it.
-
-<!-- image -->
-
-<!-- image -->
-
-Note: The filter needle is not to be used for the intravitreal injection.
-
+4. Note: The filter needle is not to be used for the intravitreal injection.
 8. Firmly twist the 30 G × ½ inch injection needle onto the Luer-lock syringe tip.
 9. Holding the syringe with the needle pointing up, check the syringe for bubbles. If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 
@@ -5626,15 +5548,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## Package leaflet: Information for the patient
 
-## Eylea 114.3 mg/ml solution for injection in pre-filled syringe
-
-## aflibercept
+## Eylea 114.3 mg/ml solution for injection in pre-filled syringe aflibercept
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5653,9 +5573,9 @@ Eylea contains the active substance aflibercept. It belongs to a group of medici
 
 Your doctor will inject Eylea into your eye to treat eye disorders in adults called:
 
-- -wet age-related macular degeneration (wet AMD)
-- -visual impairment due to diabetic macular oedema (DME)
-- -visual impairment due to macular oedema secondary to retinal vein occlusion (branch, central and hemiretinal RVO).
+- wet age-related macular degeneration (wet AMD)
+- visual impairment due to diabetic macular oedema (DME)
+- visual impairment due to macular oedema secondary to retinal vein occlusion (branch, central and hemiretinal RVO).
 
 These disorders affect the macula. The macula is the central part of the light sensitive membrane at the back of the eye. It is responsible for clear vision.
 
@@ -5671,9 +5591,9 @@ Eylea stops growth of new abnormal blood vessels in the eye. Eylea can help to s
 
 ## You will not receive Eylea if you
 
-- -are allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6)
-- -have an infection in or around the eye
-- -have pain or redness in your eye (severe eye inflammation).
+- are allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6)
+- have an infection in or around the eye
+- have pain or redness in your eye (severe eye inflammation).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5681,26 +5601,26 @@ Eylea stops growth of new abnormal blood vessels in the eye. Eylea can help to s
 
 Talk to your doctor before receiving Eylea if you:
 
-- -have glaucoma - an eye condition caused by high pressure in the eye
-- -have a history of seeing flashes of light or dark floating spots and if their size or number suddenly increases
-- -had eye surgery in the last 4 weeks or eye surgery is planned in the next 4 weeks.
+- have glaucoma - an eye condition caused by high pressure in the eye
+- have a history of seeing flashes of light or dark floating spots and if their size or number suddenly increases
+- had eye surgery in the last 4 weeks or eye surgery is planned in the next 4 weeks.
 
-## Tell your doctor immediately if you develop:
+Tell your doctor immediately if you develop:
 
-- -redness of the eye
-- -eye pain
-- -increased discomfort
-- -blurred or decreased vision
-- -increased sensitivity to light
+- redness of the eye
+- eye pain
+- increased discomfort
+- blurred or decreased vision
+- increased sensitivity to light
 
 These may be symptoms of an inflammation or infection and your doctor may stop giving you Eylea.
 
 Furthermore, it is important for you to know that:
 
-- -the safety and efficacy of Eylea when administered to both eyes at the same time have not been studied and such use may increase risk of experiencing side effects.
-- -injections with Eylea may cause an increase in eye pressure in some patients within 60 minutes of the injection. Your doctor will monitor this after each injection.
-- -your doctor will check for other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye. In such cases your doctor will give you Eylea with caution.
-- -women who could become pregnant must use effective birth control during treatment and for at least 4 months after the last injection of Eylea.
+- the safety and efficacy of Eylea when administered to both eyes at the same time have not been studied and such use may increase risk of experiencing side effects.
+- injections with Eylea may cause an increase in eye pressure in some patients within 60 minutes of the injection. Your doctor will monitor this after each injection.
+- your doctor will check for other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye. In such cases your doctor will give you Eylea with caution.
+- women who could become pregnant must use effective birth control during treatment and for at least 4 months after the last injection of Eylea.
 
 The use of substances similar to those contained in Eylea is potentially related to the risk of blood clots blocking blood vessels, which may lead to heart attack or stroke. Theoretically, this could also happen after an injection of Eylea into the eye. If you had a stroke, a mini-stroke or a heart attack within the last 6 months, your doctor will give you Eylea with caution.
 
@@ -5714,9 +5634,9 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy and breast-feeding
 
-- -Women who could become pregnant must use effective birth control during treatment and for at least 4 months after the last injection of Eylea.
-- -There is limited experience on the use of Eylea in pregnant women. Women should not receive Eylea during pregnancy unless the potential benefit to the woman outweighs the potential risk to the unborn child.
-- -Small amounts of Eylea may pass into human milk. The effect on breast-fed newborns/infants are unknown. Eylea is not recommended during breast-feeding.
+- Women who could become pregnant must use effective birth control during treatment and for at least 4 months after the last injection of Eylea.
+- There is limited experience on the use of Eylea in pregnant women. Women should not receive Eylea during pregnancy unless the potential benefit to the woman outweighs the potential risk to the unborn child.
+- Small amounts of Eylea may pass into human milk. The effect on breast-fed newborns/infants are unknown. Eylea is not recommended during breast-feeding.
 
 Therefore, if you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before you receive this medicine.
 
@@ -5736,15 +5656,15 @@ The recommended dose is 8 mg aflibercept per injection.
 
 ## wet AMD and DME
 
-- -You will receive 1 injection every month for the first 3 months.
-- -After that, you may receive injections up to every 6 months. Your doctor will decide on the frequency based on the condition of your eye.
-- -If your doctor changes your treatment to Eylea 114.3 mg/ml, your doctor will decide on the frequency after the first injection.
+- You will receive 1 injection every month for the first 3 months.
+- After that, you may receive injections up to every 6 months. Your doctor will decide on the frequency based on the condition of your eye.
+- If your doctor changes your treatment to Eylea 114.3 mg/ml, your doctor will decide on the frequency after the first injection.
 
 ## macular oedema secondary to RVO
 
-- -You will receive 1 injection every month for the first 3 months.
-- -After that, your doctor will decide on the frequency based on the condition of your eye.
-- -If your doctor changes your treatment to Eylea 114.3 mg/ml, your doctor will decide on the frequency after the first injection.
+- You will receive 1 injection every month for the first 3 months.
+- After that, your doctor will decide on the frequency based on the condition of your eye.
+- If your doctor changes your treatment to Eylea 114.3 mg/ml, your doctor will decide on the frequency after the first injection.
 
 ## Method of administration
 
@@ -5770,88 +5690,90 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Contact your doctor immediately if you have any of the following:
 
-- -common side effect, which may affect up to 1 in 10 people
-- -clouding of the lens (cataract)
-- -increase of pressure inside the eye
-- -bleeding in the back of the eye (retinal haemorrhage)
-- -bleeding inside the eye (vitreous haemorrhage)
+- common side effect, which may affect up to 1 in 10 people
+- clouding of the lens (cataract)
+- increase of pressure inside the eye
+- bleeding in the back of the eye (retinal haemorrhage)
+- bleeding inside the eye (vitreous haemorrhage)
 
 <div style=\"page-break-after: always\"></div>
 
-- -uncommon side effect, which may affect up to 1 in 100 people
-- -certain forms of clouding of the lens (cataract subcapsular/nuclear)
-- -detachment, tear or bleeding of the light-sensitive layer at the back of the eye, resulting in flashes of light with floaters, sometimes progressing to a loss of vision (retinal detachment or tear)
+- uncommon side effect, which may affect up to 1 in 100 people
+- certain forms of clouding of the lens (cataract subcapsular/nuclear)
+- detachment, tear or bleeding of the light-sensitive layer at the back of the eye, resulting in flashes of light with floaters, sometimes progressing to a loss of vision (retinal detachment or tear)
 
 ## Other possible side effects
 
 Common (may affect up to 1 in 10 people):
 
-- -allergic reactions
-- -moving spot in your vision (vitreous floaters)
-- -detachment of the gel-like substance inside the eye (vitreous detachment)
-- -reduced sharpness of vision
-- -eye pain
-- -bleeding inside the eye (conjunctival haemorrhage)
-- -damage to the clear layer of the eyeball in front of the iris (punctate keratitis, corneal abrasion)
+- allergic reactions
+- moving spot in your vision (vitreous floaters)
+- detachment of the gel-like substance inside the eye (vitreous detachment)
+- reduced sharpness of vision
+- eye pain
+- bleeding inside the eye (conjunctival haemorrhage)
+- damage to the clear layer of the eyeball in front of the iris (punctate keratitis, corneal abrasion)
 
 ## Uncommon (may affect up to 1 in 100 people):
 
-- -detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters, sometimes progressing to a loss of vision (retinal pigment epithelial tear/detachment)
-- -inflammation in the iris, of other parts of the eye, or the gel-like substance inside the eye (uveitis, iritis, iridocyclitis, vitritis)
-- -certain forms of clouding of the lens (cataract cortical)
-- -damage to the front layer of the eyeball (corneal erosion)
-- -blurred vision
-- -eye pain at injection site
-- -a feeling of having something in the eye
-- -increased tear production
-- -bleeding at the injection site
-- -redness of the eye
-- -clouding of the lens (lenticular opacities)
-- -swelling of the eyelid
-- -redness of the eye (ocular hyperaemia)
-- -irritation at injection site
-- -degeneration of the light sensitive membrane at the back of the eye (retinal degeneration)
-- -swelling of the front layer of the eyeball (corneal oedema)
+- detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters, sometimes progressing to a loss of vision (retinal pigment epithelial tear/detachment)
+- inflammation in the iris, of other parts of the eye, or the gel-like substance inside the eye (uveitis, iritis, iridocyclitis, vitritis)
+- certain forms of clouding of the lens (cataract cortical)
+- damage to the front layer of the eyeball (corneal erosion)
+- blurred vision
+- eye pain at injection site
+- a feeling of having something in the eye
+- increased tear production
+- bleeding at the injection site
+- redness of the eye
+- clouding of the lens (lenticular opacities)
+- swelling of the eyelid
+- redness of the eye (ocular hyperaemia)
+- irritation at injection site
+- degeneration of the light sensitive membrane at the back of the eye (retinal degeneration)
+- swelling of the front layer of the eyeball (corneal oedema)
 
-## Rare (may affect up to 1 in 1 000 people):
+Rare (may affect up to 1 in 1 000 people):
 
-- -blindness
-- -serious inflammation or infection inside the eye (endophthalmitis)
-- -eyelid irritation
+- blindness
+- serious inflammation or infection inside the eye (endophthalmitis)
+- eyelid irritation
+- inflammation of blood vessels in the back of the eye (retinal vasculitis)
 
-## Not known (frequency cannot be estimated from the available data):
+Not known (frequency cannot be estimated from the available data):
 
-- -inflammation of the white part of the eye associated with redness and pain (scleritis)
+- inflammation of the white part of the eye associated with redness and pain (scleritis)
+- blockage of blood vessels in the back of the eye, typically in presence of inflammation (retinal occlusive vasculitis)
 
 Besides the above the following side effects may occur:
 
-- -abnormal sensation in eye
-- -damage to the surface of the clear front layer of the eye (corneal epithelium defect)
-- -inflammation of other parts of the eye (anterior chamber flare)
-- -clouding of the lens due to injury (traumatic cataract)
-- -pus in the eye (hypopyon)
-- -severe allergic reactions
+- abnormal sensation in eye
+- damage to the surface of the clear front layer of the eye (corneal epithelium defect)
+- inflammation of other parts of the eye (anterior chamber flare)
+- clouding of the lens due to injury (traumatic cataract)
+- pus in the eye (hypopyon)
+- severe allergic reactions
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. How to store Eylea
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2 °C - 8 °C). Do not freeze.
-- -Keep the pre-filled syringe in its blister and in the outer carton in order to protect from light.
-- -Prior to usage, the unopened blister may be stored outside the refrigerator below 25 °C for up to 24 hours.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+- Keep the pre-filled syringe in its blister and in the outer carton in order to protect from light.
+- Prior to usage, the unopened blister may be stored outside the refrigerator below 25 °C for up to 24 hours.
 
 ## 6. Contents of the pack and other information
 
 ## What Eylea contains
 
-- -The active substance is aflibercept. 1 ml solution contains 114.3 mg aflibercept. Each pre-filled syringe contains 0.184 ml. This provides a usable amount to deliver a single dose of 0.07 ml containing 8 mg aflibercept.
-- -The other ingredients are: sucrose, arginine hydrochloride, histidine hydrochloride monohydrate, histidine, polysorbate 20, water for injections.
+- The active substance is aflibercept. 1 ml solution contains 114.3 mg aflibercept. Each pre-filled syringe contains 0.184 ml. This provides a usable amount to deliver a single dose of 0.07 ml containing 8 mg aflibercept.
+- The other ingredients are: sucrose, arginine hydrochloride, histidine hydrochloride monohydrate, histidine, polysorbate 20, water for injections.
 
 See 'Eylea contains polysorbate 20' in section 2 for more information.
 
@@ -5867,11 +5789,7 @@ Bayer AG 51368 Leverkusen Germany
 
 ## Manufacturer
 
-Bayer AG Müllerstraße 178 13353 Berlin Germany
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Bayer AG Müllerstraße 178 13353 Berlin Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -5962,6 +5880,8 @@ Tηλ: +357 22 48 38 58
 SIA Bayer
 
 Tel: +371 67 84 55 63
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -6069,13 +5989,29 @@ The intravitreal injection should be performed with a 30 G × ½ inch injection 
 
 <!-- image -->
 
+1. Prepare
+
+When ready to administer Eylea 114.3mg/ml, open the carton and remove the sterile blister.
+
+Carefully peel open the blister ensuring the sterility of its contents.
+
+Keep the syringe in the sterile tray until you are ready to attach the injection needle.
+
+Use aseptic technique to carry out steps 2-9.
+
+2. Remove syringe
+
+Remove the syringe from the sterilised blister.
+
+3. Inspect syringe and solution for injection
+
 <div style=\"page-break-after: always\"></div>
 
 Do not use the pre-filled syringe if
 
-- -particulates, cloudiness, or discolouration are visible
-- -any part of the pre-filled syringe with OcuClick dosing system is damaged or loose
-- -the syringe cap is detached from the Luer-lock.
+- particulates, cloudiness, or discolouration are visible
+- any part of the pre-filled syringe with OcuClick dosing system is damaged or loose
+- the syringe cap is detached from the Luer-lock.
 4. Snap off syringe cap
 
 To snap off (do not twist off) the syringe cap, hold the syringe in one hand and the syringe cap with the thumb and forefinger of the other hand. Note: Do not pull back on the plunger rod.
@@ -6092,11 +6028,9 @@ Firmly twist the 30 G × ½ inch injection needle onto the Luer-lock syringe tip
 
 <div style=\"page-break-after: always\"></div>
 
-8.
-
 Holding the syringe with the needle pointing up, check the syringe for bubbles. If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
 
-## 7. Expel air and excess volume to prime
+7. Expel air and excess volume to prime
 
 The syringe does not have a dose line because it is designed to set the dose mechanically as explained in the steps below.
 
@@ -6106,15 +6040,13 @@ To eliminate all bubbles and to expel excess medicinal product, slowly depress t
 
 <!-- image -->
 
-Set the dose
-
 <!-- image -->
+
+8. Set the dose Turn the end of the plunger rod 90 degrees clockwise or counter clockwise until the guide of the plunger rod aligns with the slot. You may hear a 'click'.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-Turn the end of the plunger rod 90 degrees clockwise or counter clockwise until the guide of the plunger rod aligns with the slot. You may hear a 'click'.
 
 Note: Now the device is ready to dose. Do not push the plunger rod before insertion into the eye.
 
@@ -6128,8 +6060,30 @@ Do not apply additional pressure once the guide is within the slot. It is normal
 
 <!-- image -->
 
-10. The pre-filled syringe is for single dose administration and single use only.
-
-After injection discard the used syringe into a sharps container.
+10. The pre-filled syringe is for single dose administration and single use only. After injection discard the used syringe into a sharps container.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for aflibercept (ophthalmological indication(s)), the scientific conclusions of PRAC are as follows:
+
+In view of available data on retinal vasculitis with or without occlusion from clinical trials, the literature, spontaneous reports and in view of a plausible mechanism of action, the PRAC considers a causal relationship between aflibercept and retinal vasculitis with or without occlusion, is at least a reasonable possibility.
+
+The PRAC concluded that the product information of products containing aflibercept (all formulation) should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the Marketing Authorisation(s)
+
+On the basis of the scientific conclusions for aflibercept (ophthalmological indication(s)) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing aflibercept (ophthalmological indication(s)) is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the Marketing Authorisation(s) should be varied.

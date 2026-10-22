@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-04 08:51:06
-document_pages: 98
+document_datetime: 2026-10-19 13:27:34
+document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vgenfli-epar-product-information_en.pdf
 document_name: vgenfli-epar-product-information_en.pdf
 version: success
-processing_time: 29.310199
-conversion_datetime: 2025-12-20 01:53:58.061579
+processing_time: 53.8708561
+conversion_datetime: 2026-10-22 23:05:09.94121
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.38.0
+  docling-jobkit: 3.9.1
+  docling: 2.142.0
+  docling-core: 2.104.0
+  docling-ibm-models: 4.0.4
+  docling-parse: 7.23.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.7.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,7 +22,7 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions .
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -65,7 +65,9 @@ Vgenfli is for intravitreal injection only.
 
 Vgenfli must only be administered by a qualified physician experienced in administering intravitreal injections.
 
-Posology wet AMD
+Posology
+
+wet AMD
 
 The recommended dose for Vgenfli is 2 mg aflibercept, equivalent to 0.05 mL.
 
@@ -95,7 +97,7 @@ Monitoring for disease activity may include clinical examination, functional tes
 
 ## Diabetic macular oedema
 
-## The recommended dose for Vgenfli is 2 mg aflibercept equivalent to 0.05 mL.
+The recommended dose for Vgenfli is 2 mg aflibercept equivalent to 0.05 mL.
 
 Vgenfli treatment is initiated with one injection per month for five consecutive doses, followed by one injection every two months.
 
@@ -149,7 +151,7 @@ Injecting the entire volume of the pre-filled syringe could result in overdose. 
 
 <div style=\"page-break-after: always\"></div>
 
-The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. The injection volume of 0.05  mL is then delivered; a different scleral site should be used for subsequent injections.
+The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. The injection volume of 0.05 mL is then delivered; a different scleral site should be used for subsequent injections.
 
 After injection any unused product must be discarded.
 
@@ -193,10 +195,7 @@ As with other intravitreal anti-VEGF treatments for AMD, CRVO, BRVO, DME and myo
 
 been systematically studied (see section 5.1). If bilateral treatment is performed at the same time this could lead to an increased systemic exposure, which could increase the risk of systemic adverse events.
 
-- Concomitant use of other anti-VEGF (vascular endothelial growth factor)
-
-There is no data available on the concomitant use of aflibercept with other anti-VEGF medicinal products (systemic or ocular).
-
+- Concomitant use of other anti-VEGF (vascular endothelial growth factor) There is no data available on the concomitant use of aflibercept with other anti-VEGF medicinal products (systemic or ocular).
 - Risk factors associated with the development of a retinal pigment epithelial tear after antiVEGF therapy for wet AMD, include a large and/or high pigment epithelial retinal detachment. When initiating aflibercept therapy, caution should be used in patients with these risk factors for retinal pigment epithelial tears.
 - Treatment should be withheld in patients with rhegmatogenous retinal detachment or stage 3 or 4 macular holes.
 - In the event of a retinal break the dose should be withheld and treatment should not be resumed until the break is adequately repaired.
@@ -218,7 +217,7 @@ In myopic CNV there is no experience with aflibercept in the treatment of non-As
 
 This medicine contains:
 
-- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free'.
+- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
 - 0.003 mg of polysorbate 20 in each 0.01 mL dose or 0.015 mg of polysorbate 20 in each 0.05 mL dose which is equivalent to 0.3 mg/mL. Polysorbates may cause allergic reactions. Ask your patient if they have any known allergies.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
@@ -237,7 +236,9 @@ Women of childbearing potential have to use effective contraception during treat
 
 ## Pregnancy
 
-There are no data on the use of aflibercept in pregnant women. Studies in animals have shown embryo-foetal toxicity (see section 5.3).
+There are no data on the use of aflibercept in pregnant women.
+
+Studies in animals have shown embryo-foetal toxicity (see section 5.3).
 
 Although the systemic exposure after ocular administration is very low, aflibercept should not be used during pregnancy unless the potential benefit outweighs the potential risk to the foetus.
 
@@ -253,7 +254,7 @@ Results from animal studies with high systemic exposure indicate that aflibercep
 
 ## 4.7 Effects on ability to drive and use machines
 
-Injection with aflibercept has a minor influence on the ability to drive and use machines due to possible temporary  visual  disturbances  associated  either  with  the  injection  or  the  eye  examination.  Patients should not drive or use machines until their visual function has recovered sufficiently.
+Injection with aflibercept has a minor influence on the ability to drive and use machines due to possible temporary visual disturbances associated either with the injection or the eye examination. Patients should not drive or use machines until their visual function has recovered sufficiently.
 
 ## 4.8 Undesirable effects
 
@@ -269,9 +270,7 @@ The most frequently observed adverse reactions (in at least 5% of patients treat
 
 The safety data described below include all adverse reactions from the eight phase III studies in the indications wet AMD, CRVO, BRVO, DME and myopic CNV with a reasonable possibility of causality to the injection procedure or medicinal product.
 
-The adverse reactions are listed by system organ class and frequency using the following convention:
-
-Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (  1/10 000 to &lt;1/1 000), not known (cannot be estimated from the available data).
+The adverse reactions are listed by system organ class and frequency using the following convention: Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (1/10 000 to &lt;1/1 000), not known (frequency cannot be estimated from the available data).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -287,14 +286,12 @@ Table 1: All treatment-emergent adverse drug reactions reported in patients in p
 | Eye disorders           | Very common | Visual acuity reduced, retinal haemorrhage, conjunctival haemorrhage, eye pain                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Eye disorders           | Common      | Retinal pigment epithelial tear*, detachment of the retinal pigment epithelium, retinal degeneration, vitreous haemorrhage, cataract, cataract cortical, cataract nuclear, cataract subcapsular, corneal erosion, corneal abrasion, intraocular pressure increased, vision blurred, vitreous floaters, vitreous detachment, injection site pain, foreign body sensation in eyes, lacrimation increased, eyelid oedema, injection site haemorrhage, punctate keratitis, conjunctival hyperaemia, ocular hyperaemia |
 | Eye disorders           | Uncommon    | Endophthalmitis**, retinal detachment, retinal tear, iritis, uveitis, iridocyclitis, lenticular opacities, corneal epithelium defect, injection site irritation, abnormal sensation in eye, eyelid irritation, anterior chamber flare, corneal oedema                                                                                                                                                                                                                                                             |
-| Eye disorders           | Rare        | Blindness, cataract traumatic, vitritis, hypopyon                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Eye disorders           | Not known   | Scleritis****                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Eye disorders           | Rare        | Blindness, cataract traumatic, vitritis, hypopyon, retinal vasculitis                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Eye disorders           | Not known   | Scleritis****, retinal occlusive vasculitis****                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
-* Conditions known to be associated with wet AMD. Observed in the wet AMD studies only.
+*** During the post-marketing period, reports of hypersensitivity included rash, pruritus, urticaria, and isolated cases of severe anaphylactic/anaphylactoid reactions.
 
-- ** Culture positive and culture negative endophthalmitis.
-- *** During the post-marketing period, reports of hypersensitivity included rash, pruritus, urticaria, and isolated cases of severe anaphylactic/anaphylactoid reactions.
-- **** From post-marketing reporting.
+**** From post-marketing reporting.
 
 ## Description of selected adverse reactions
 
@@ -302,7 +299,7 @@ In the wet AMD phase III studies, there was an increased incidence of conjunctiv
 
 Arterial thromboembolic events (ATEs) are adverse events potentially related to systemic VEGF inhibition. There is a theoretical risk of arterial thromboembolic events, including stroke and myocardial infarction, following intravitreal use of VEGF inhibitors.
 
-A low incidence rate of arterial thromboembolic events was observed in the aflibercept clinical trials in patients with AMD, DME, RVO and myopic CNV.. Across indications no notable difference between the groups treated with aflibercept and the respective comparator groups were observed.
+A low incidence rate of arterial thromboembolic events was observed in the aflibercept clinical trials in patients with AMD, DME, RVO and myopic CNV. Across indications no notable difference between the groups treated with aflibercept and the respective comparator groups were observed.
 
 As with all therapeutic proteins, there is a potential for immunogenicity with aflibercept.
 
@@ -322,7 +319,7 @@ Overdosing with increased injection volume may increase intraocular pressure. Th
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Ophthalmologicals / Antineovascularisation agents, ATC code: S01LA05
+Pharmacotherapeutic group: Ophthalmologicals / Antineovascularisation agents ATC code: S01LA05
 
 Vgenfli is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -348,7 +345,7 @@ In the VIEW1 study there were mean decreases in CRT on optical coherence tomogra
 
 <div style=\"page-break-after: always\"></div>
 
-The ALTAIR study was conducted in Japanese patients with treatment naïve wet AMD, showing similar outcomes to the VIEW studies using 3 initial monthly aflibercept 2 mg injections, followed by one injection after a further 2 months, and then continued with a treat-and-extend regimen with variable treatment intervals (2- week or 4- week adjustments) up to a maximum 16 week interval according to pre-specified criteria. At week 52, there were mean decreases in central retinal thickness (CRT) on OCT of -134.4 and -126.1 microns for the 2-week adjustment group and the 4-week adjustment group, respectively. The proportion of patients without fluid on OCT at week 52 was 68.3% and 69.1% in the 2- and 4-week adjustment groups, respectively. The reduction in CRT was generally maintained in both treatment arms in the second year of the ALTAIR study .
+The ALTAIR study was conducted in Japanese patients with treatment naïve wet AMD, showing similar outcomes to the VIEW studies using 3 initial monthly aflibercept 2 mg injections, followed by one injection after a further 2 months, and then continued with a treat-and-extend regimen with variable treatment intervals (2- week or 4- week adjustments) up to a maximum 16 week interval according to pre-specified criteria. At week 52, there were mean decreases in central retinal thickness (CRT) on OCT of -134.4 and -126.1 microns for the 2-week adjustment group and the 4-week adjustment group, respectively. The proportion of patients without fluid on OCT at week 52 was 68.3% and 69.1% in the 2- and 4-week adjustment groups, respectively. The reduction in CRT was generally maintained in both treatment arms in the second year of the ALTAIR study.
 
 The ARIES study was designed to explore the non-inferiority of an aflibercept 2 mg treat-and-extend dosing regimen initiated immediately after administration of 3 initial monthly injections and one additional injection after 2 months vs. a treat-and-extend dosing regimen initiated after one year of treatment. For patients requiring a more frequent than Q8 dosing at least once over the course of the study, CRT remained higher, but the mean decrease in CRT from baseline to week 104 was -160.4 microns, similar to the patients treated at Q8 or less frequent intervals.
 
@@ -364,9 +361,9 @@ Diabetic macular oedema is a consequence of diabetic retinopathy and is characte
 
 In patients treated with aflibercept, the majority of whom were classified as having Type II diabetes, a rapid and robust response in morphology (CRT, DRSS level) was observed.
 
-In the VIVID DME  and the VISTA DME  studies, a statistically significant greater mean decrease in CRT from baseline to week 52 was observed in patients treated with aflibercept than with the laser control, -192.4 and -183.1 microns for the 2Q8 aflibercept groups and -66.2 and -73.3 microns for the control groups, respectively. At week 100 the decrease was maintained with -195.8 and -191.1 microns for the 2Q8 aflibercept groups and -85.7 and -83.9 microns for the control groups, in the VIVID DME and  VISTA DME  studies, respectively.
+In the VIVID DME and the VISTA DME studies, a statistically significant greater mean decrease in CRT from baseline to week 52 was observed in patients treated with aflibercept than with the laser control, -192.4 and -183.1 microns for the 2Q8 aflibercept groups and -66.2 and -73.3 microns for the control groups, respectively. At week 100 the decrease was maintained with -195.8 and -191.1 microns for the 2Q8 aflibercept groups and -85.7 and -83.9 microns for the control groups, in the VIVID DME and VISTA DME studies, respectively.
 
-A ≥2 step improvement in DRSS was assessed in a pre-specified manner in VIVID DME and VISTA DME . The DRSS score was gradable in 73.7% of the patients in VIVID DME  and 98.3% of the patients in VISTA DME . At week 52, 27.7% and 29.1% of the aflibercept 2Q8 groups, and 7.5% and 14.3% of the control groups experienced a ≥2 step improvement in the DRSS. At week 100, the respective percentages were 32.6% and 37.1% of the aflibercept 2Q8 groups and 8.2% and 15.6% of the control groups.
+A ≥2 step improvement in DRSS was assessed in a pre-specified manner in VIVID DME and VISTA DME . The DRSS score was gradable in 73.7% of the patients in VIVID DME and 98.3% of the patients in VISTA DME . At week 52, 27.7% and 29.1% of the aflibercept 2Q8 groups, and 7.5% and 14.3% of the control groups experienced a ≥2 step improvement in the DRSS. At week 100, the respective percentages were 32.6% and 37.1% of the aflibercept 2Q8 groups and 8.2% and 15.6% of the control groups.
 
 The VIOLET study compared three different dosing regimens of aflibercept 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with
 
@@ -399,43 +396,42 @@ In the VIEW1 study, at week 52, 95.1% of patients in the aflibercept 2Q8 group m
 
 Detailed results from the combined analysis of both studies are shown in Table 2 and Figure 1 below.
 
-Table 2: Efficacy outcomes at week 52 (primary analysis) and week 96; combined data from the VIEW1 and VIEW2 studies B)
-
 <div style=\"page-break-after: always\"></div>
 
-| Efficacy Outcome                                                       | Aflibercept 2Q8 E) (aflibercept 2 mgevery 8 weeks following 3 initial monthly doses) (N = 607)   | Aflibercept 2Q8 E) (aflibercept 2 mgevery 8 weeks following 3 initial monthly doses) (N = 607)   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mgevery 4 weeks) (N = 595)   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mgevery 4 weeks) (N = 595)   |
-|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
-|                                                                        | Week 52                                                                                          | Week 96                                                                                          | Week 52                                                         | Week 96                                                         |
-| Meannumber of injections from baseline                                 | 7.6                                                                                              | 11.2                                                                                             | 12.3                                                            | 16.5                                                            |
-| Meannumber of injections from Week 52 to 96                            |                                                                                                  | 4.2                                                                                              |                                                                 | 4.7                                                             |
-| Proportion of patients with < 15 letters loss from baseline ( PPS A) ) | 95.33% B)                                                                                        | 92.42%                                                                                           | 94.42% B)                                                       | 91.60%                                                          |
-| Difference C) (95% CI) D)                                              | 0.9% (-1.7, 3.5) F)                                                                              | 0.8% (-2.3, 3.8) F)                                                                              |                                                                 |                                                                 |
-| Mean change in BCVA as measured by ETDRS A) letter score from baseline | 8.40                                                                                             | 7.62                                                                                             | 8.74                                                            | 7.89                                                            |
-| Difference in LS A) mean change (ETDRS letters) C) (95% CI) D)         | -0.32 (-1.87, 1.23)                                                                              | -0.25 (-1.98, 1.49)                                                                              |                                                                 |                                                                 |
-| Proportion of patients with ≥ 15 letters gain from baseline            | 30.97%                                                                                           | 33.44%                                                                                           | 32.44%                                                          | 31.60%                                                          |
-| Difference C) (95% CI) D)                                              | -1.5% (-6.8, 3.8)                                                                                | 1.8% (-3.5, 7.1)                                                                                 |                                                                 |                                                                 |
+Table 2: Efficacy outcomes at week 52 (primary analysis) and week 96; combined data from the VIEW1 and VIEW2 studies B)
 
-A)   BCVA: Best Corrected Visual Acuity
+| Efficacy Outcome                                                       | Aflibercept 2Q8 E) (aflibercept 2 mg every 8 weeks following 3 initial monthly doses) (N = 607) - Week 52   | Aflibercept 2Q8 E) (aflibercept 2 mg every 8 weeks following 3 initial monthly doses) (N = 607) - Week 96   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595) - Week 52   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595) - Week 96   |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Mean number of injections from baseline                                | 7.6                                                                                                         | 11.2                                                                                                        | 12.3                                                                       | 16.5                                                                       |
+| Mean number of injections from Week 52 to 96                           |                                                                                                             | 4.2                                                                                                         |                                                                            | 4.7                                                                        |
+| Proportion of patients with < 15 letters loss from baseline (PPS A) )  | 95.33% B)                                                                                                   | 92.42%                                                                                                      | 94.42% B)                                                                  | 91.60%                                                                     |
+| Difference C) (95% CI) D)                                              | 0.9% (-1.7, 3.5) F)                                                                                         | 0.8% (-2.3, 3.8) F)                                                                                         |                                                                            |                                                                            |
+| Mean change in BCVA as measured by ETDRS A) letter score from baseline | 8.40                                                                                                        | 7.62                                                                                                        | 8.74                                                                       | 7.89                                                                       |
+| Difference in LS A) mean change (ETDRS letters) C) (95% CI) D)         | -0.32 (-1.87, 1.23)                                                                                         | -0.25 (-1.98, 1.49)                                                                                         |                                                                            |                                                                            |
+| Proportion of patients with ≥ 15 letters gain from baseline            | 30.97%                                                                                                      | 33.44%                                                                                                      | 32.44%                                                                     | 31.60%                                                                     |
+| Difference C) (95% CI) D)                                              | -1.5% (-6.8, 3.8)                                                                                           | 1.8% (-3.5, 7.1)                                                                                            |                                                                            |                                                                            |
 
 ETDRS: Early Treatment Diabetic Retinopathy Study
 
 LS: Least square means derived from ANCOVA
 
-PPS: Per Protocol Set
+PPS: Per Protocol Set In combined data analysis of VIEW1 and VIEW2, aflibercept demonstrated clinically meaningful changes from baseline in pre-specified secondary efficacy endpoint National Eye Institute Visual Function Questionnaire (NEI VFQ-25) without clinically meaningful differences to ranibizumab. The magnitude of these changes was similar to that seen in published studies, which corresponded to a 15-letter gain in Best Corrected Visual Acuity (BCVA).
 
-- B) Full Analysis Set (FAS), Last Observation Carried Forward (LOCF) for all analyses except proportion of patients with maintained visual acuity at week 52 which is PPS
-- C) The difference is the value of the aflibercept group minus the value of the ranibizumab group. A positive value favours aflibercept.
-- D) Confidence interval (CI) calculated by normal approximation
-- E) After treatment initiation with three monthly doses
-- F) A confidence interval lying entirely above -10% indicates a non-inferiority of aflibercept to ranibizumab.
+B) Full Analysis Set (FAS), Last Observation Carried Forward (LOCF) for all analyses except proportion of patients with maintained visual acuity at week 52 which is PPS
+
+C) The difference is the value of the aflibercept group minus the value of the ranibizumab group. A positive value favours aflibercept.
+
+D) Confidence interval (CI) calculated by normal approximation
+
+E) After treatment initiation with three monthly doses
+
+F) A confidence interval lying entirely above -10% indicates a non-inferiority of aflibercept to ranibizumab.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1 . Mean Change in Visual Acuity from Baseline to Week 96 for the Combined Data from the View1 and View2 Studies
+Figure 1. Mean Change in Visual Acuity from Baseline to Week 96 for the Combined Data from the View1 and View2 Studies
 
 <!-- image -->
-
-In combined data analysis of VIEW1 and VIEW2, aflibercept demonstrated clinically meaningful changes from baseline in pre-specified secondary efficacy endpoint National Eye Institute Visual Function Questionnaire (NEI VFQ-25) without clinically meaningful differences to ranibizumab. The magnitude of these changes was similar to that seen in published studies, which corresponded to a 15-letter gain in Best Corrected Visual Acuity (BCVA).
 
 In the second year of the studies, efficacy was generally maintained through the last assessment at week 96, and 2-4% of patients required all injections on a monthly basis, and a third of patients required at least one injection with a treatment interval of only one month.
 
@@ -449,11 +445,9 @@ All patients received monthly doses of aflibercept 2 mg for 3 months, followed b
 
 The primary efficacy endpoint was mean change in BCVA from baseline to week 52. The secondary efficacy endpoints were the proportion of patients who did not lose ≥15 letters and the proportion of patients who gained at least 15 letters of BCVA from baseline to week 52.
 
-At week 52, patients in the treat-and-extend arm with 2-week adjustments gained a mean of 9.0 letters from baseline as compared to 8.4 letters for those in the 4-week adjustment group [LS mean difference in letters (95% CI): -0.4 (-3.8,3.0), ANCOVA]. The proportion of patients who did not lose ≥15 letters in the two treatment arms was similar (96.7% in the 2-week and 95.9% in the 4-week adjustment groups). The proportion of patients who gained ≥15 letters at week 52 was 32.5% in the 2 -week
+At week 52, patients in the treat-and-extend arm with 2-week adjustments gained a mean of 9.0 letters from baseline as compared to 8.4 letters for those in the 4-week adjustment group [LS mean difference in letters (95% CI): -0.4 (-3.8,3.0), ANCOVA]. The proportion of patients who did not lose ≥15 letters in the two treatment arms was similar (96.7% in the 2-week and 95.9% in the 4-week adjustment groups). The proportion of patients who gained ≥15 letters at week 52 was 32.5% in the 2-week adjustment group and 30.9% in the 4-week adjustment group. The proportion of patients who extended their treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6% in the 4-week adjustment group. Furthermore, in the 4-week adjustment group 40.7% of patients were extended to 16 week intervals. At the last visit up to week 52, 56.8% and 57.8% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
 
 <div style=\"page-break-after: always\"></div>
-
-adjustment group and 30.9% in the 4-week adjustment group. The proportion of patients who extended their treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6% in the 4-week adjustment group. Furthermore, in the 4-week adjustment group 40.7% of patients were extended to 16 week intervals. At the last visit up to week 52, 56.8% and 57.8% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
 
 In the second year of the study, efficacy was generally maintained up to and including the last assessment at week 96, with a mean gain from baseline of 7.6 letters for the 2-week adjustment group and 6.1 letters for the 4-week adjustment group. The proportion of patients who extended their treatment interval to 12 weeks or beyond was 56.9% in the 2-week adjustment group and 60.2% in the 4-week adjustment group. At the last visit prior to week 96, 64.9% and 61.2% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond. During the second year of treatment patients in both the 2-week and 4-week adjustment groups received an average of 3.6 and 3.7 injections, respectively. Over the 2 year treatment period patients received an average of 10.4 injections.
 
@@ -481,38 +475,32 @@ Detailed results from the analysis of both studies are shown in Table 3 and Figu
 
 Table 3: Efficacy outcomes at week 24, week 52 and week 76/100 (Full Analysis Set with LOCF C) ) in COPERNICUS and GALILEO studies
 
-| Efficacy Outcomes                                                             | COPERNICUS                    | COPERNICUS       | COPERNICUS                    | COPERNICUS          | COPERNICUS                     | COPERNICUS            | GALILEO                       | GALILEO          | GALILEO                       | GALILEO          | GALILEO                        | GALILEO             |
-|-------------------------------------------------------------------------------|-------------------------------|------------------|-------------------------------|---------------------|--------------------------------|-----------------------|-------------------------------|------------------|-------------------------------|------------------|--------------------------------|---------------------|
-| Efficacy Outcomes                                                             | 24 Weeks                      | 24 Weeks         | 52 Weeks                      | 52 Weeks            | 100 Weeks                      | 100 Weeks             | 24 Weeks                      | 24 Weeks         | 52 Weeks                      | 52 Weeks         | 76 Weeks                       | 76 Weeks            |
-| Efficacy Outcomes                                                             | Aflibercep t 2mgQ4 (N= 114)   | Control (N = 73) | Afliberce pt 2 mg (N= 114)    | Control E) (N = 73) | Aflibercep t F) 2 mg (N = 114) | Control E,F) (N = 73) | Afliberce pt 2mgQ4 (N= 103)   | Control (N = 68) | Afliberce pt 2 mg (N= 103)    | Control (N = 68) | Afliber cept G) 2 mg (N = 103) | Control G) (N = 68) |
-| Proportion of patients with ≥15 letters gain from baseline                    | 56%                           | 12%              | 55%                           | 30 %                | 49.1%                          | 23.3 %                | 60%                           | 22%              | 60%                           | 32%              | 57.3%                          | 29.4%               |
-| Weighted difference A,B,E) (95% CI) p-value                                   | 44.8% (33.0, 56.6) p < 0.0001 |                  | 25.9% (11.8, 40.1) p = 0.0006 |                     | 26.7% (13.1, 40.3) p=0.0003    |                       | 38.3% (24.4, 52.1) p < 0.0001 |                  | 27.9% (13.0, 42.7) p = 0.0004 |                  | 28.0% (13.3, 42.6) p=0.0004    |                     |
-| Mean change in BCVA C) as measured byETDRS C) letter score from baseline (SD) | 17.3 (12.8)                   | -4.0 (18.0)      | 16.2 (17.4)                   | 3.8 (17.1)          | 13.0 (17.7)                    | 1.5 (17.7)            | 18.0 (12.2)                   | 3.3 (14.1)       | 16.9 (14.8)                   | 3.8 (18.1)       | 13.7 (17.8)                    | 6.2 (17.7)          |
-| Difference in LS mean A,C,D,E) (95% CI)                                       | 21.7 (17.4, 26.0)             |                  | 12.7 (7.7, 17.7)              |                     | 11.8 (6.7, 17.0)               |                       | 14.7 (10.8, 18.7)             |                  | 13.2 (8.2, 18.2)              |                  | 7.6 (2.1, 13.1)                |                     |
-| p-value                                                                       | p < 0.0001                    |                  | p < 0.0001                    |                     | p < 0.0001                     |                       | p < 0.0001                    |                  | p < 0.0001                    |                  | p=0.0070                       |                     |
+| Efficacy Outcomes                                                              | COPERNICUS - 24 Weeks - Aflibercep t 2 mg Q4 (N = 114)   | COPERNICUS - 24 Weeks - Control (N = 73)   | COPERNICUS - 52 Weeks - Afliberce pt 2 mg (N = 114)   | COPERNICUS - 52 Weeks - Control E) (N = 73)   | COPERNICUS - 100 Weeks - Aflibercep t F) 2 mg (N = 114)   | COPERNICUS - 100 Weeks - Control E,F) (N = 73)   | GALILEO - 24 Weeks - Afliberce pt 2 mg Q4 (N = 103)   | GALILEO - 24 Weeks - Control (N = 68)   | GALILEO - 52 Weeks - Afliberce pt 2 mg (N = 103)   | GALILEO - 52 Weeks - Control (N = 68)   | GALILEO - 76 Weeks - Afliber cept G) 2 mg (N = 103)   | GALILEO - 76 Weeks - Control G) (N = 68)   |
+|--------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------|-------------------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|--------------------------------------------------|-------------------------------------------------------|-----------------------------------------|----------------------------------------------------|-----------------------------------------|-------------------------------------------------------|--------------------------------------------|
+| Proportion of patients with ≥15 letters gain from baseline                     | 56%                                                      | 12%                                        | 55%                                                   | 30 %                                          | 49.1%                                                     | 23.3 %                                           | 60%                                                   | 22%                                     | 60%                                                | 32%                                     | 57.3%                                                 | 29.4%                                      |
+| Weighted difference A,B,E) (95% CI) p-value                                    | 44.8% (33.0, 56.6) p < 0.0001                            |                                            | 25.9% (11.8, 40.1) p = 0.0006                         |                                               | 26.7% (13.1, 40.3) p=0.0003                               |                                                  | 38.3% (24.4, 52.1) p < 0.0001                         |                                         | 27.9% (13.0, 42.7) p = 0.0004                      |                                         | 28.0% (13.3, 42.6) p=0.0004                           |                                            |
+| Mean change in BCVA C) as measured by ETDRS C) letter score from baseline (SD) | 17.3 (12.8)                                              | -4.0 (18.0)                                | 16.2 (17.4)                                           | 3.8 (17.1)                                    | 13.0 (17.7)                                               | 1.5 (17.7)                                       | 18.0 (12.2)                                           | 3.3 (14.1)                              | 16.9 (14.8)                                        | 3.8 (18.1)                              | 13.7 (17.8)                                           | 6.2 (17.7)                                 |
+| Difference in LS mean A,C,D,E) (95% CI)                                        | 21.7 (17.4, 26.0)                                        |                                            | 12.7 (7.7, 17.7)                                      |                                               | 11.8 (6.7, 17.0)                                          |                                                  | 14.7 (10.8, 18.7)                                     |                                         | 13.2 (8.2, 18.2)                                   |                                         | 7.6 (2.1, 13.1)                                       |                                            |
+| p-value                                                                        | p < 0.0001                                               |                                            | p < 0.0001                                            |                                               | p < 0.0001                                                |                                                  | p < 0.0001                                            |                                         | p < 0.0001                                         |                                         | p=0.0070                                              |                                            |
 
-A) Difference is aflibercept 2 mg Q4 weeks minus control
-
-B) Difference and confidence interval (CI) are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (&gt; 20/200 and ≤ 20/200)
-
-C)   BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study LOCF: Last Observation Carried Forward
+LOCF: Last Observation Carried Forward
 
 <div style=\"page-break-after: always\"></div>
 
 - SD: Standard deviation
 - LS: Least square means derived from ANCOVA
-- D)   LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (&gt; 20/200 and ≤ 20/200)
-- E)   In COPERNICUS study, control group patients could receive aflibercept on an as-needed basis as frequently as every 4 weeks during week 24 to week 52; patients had visits every 4 weeks.
-- F)   In COPERNICUS study, both control group and aflibercept 2 mg patients received aflibercept 2 mg on an as-needed basis as frequently as every 4 weeks starting from week 52 to week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
-- G)   In GALILEO study, both control group and aflibercept 2 mg patients received aflibercept 2 mg on an as-needed basis every 8 weeks starting from week 52 to week 68; patients had mandatory visits every 8 weeks.
+- D) LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (&gt; 20/200 and ≤ 20/200)
+- E) In COPERNICUS study, control group patients could receive aflibercept on an as-needed basis as frequently as every 4 weeks during week 24 to week 52; patients had visits every 4 weeks.
+- F) In COPERNICUS study, both control group and aflibercept 2 mg patients received aflibercept 2 mg on an as-needed basis as frequently as every 4 weeks starting from week 52 to week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
+- G) In GALILEO study, both control group and aflibercept 2 mg patients received aflibercept 2 mg on an as-needed basis every 8 weeks starting from week 52 to week 68; patients had mandatory visits every 8 weeks.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 2 : Mean Change from Baseline to Week 76/100 in Visual Acuity by Treatment Group for the COPERNICUS and GALILEO Studies (Full Analysis Set)
+Figure 2: Mean Change from Baseline to Week 76/100 in Visual Acuity by Treatment Group for the COPERNICUS and GALILEO Studies (Full Analysis Set)
 
 <!-- image -->
 
-XIndicatestheswitchofthecontrolgrouptoPRNtreatmentwithAflibercept2mg
+XIndicates the switch of the control group to PRN treatment with Aflibercept 2 mg
 
 <div style=\"page-break-after: always\"></div>
 
@@ -530,7 +518,9 @@ The safety and efficacy of aflibercept were assessed in a randomised, multi-cent
 
 In the VIBRANT study, the primary efficacy endpoint was the proportion of patients who gained at least 15 letters in BCVA at week 24 compared to baseline and the aflibercept group was superior to laser control.
 
-A secondary efficacy endpoint was change in visual acuity at week 24 compared to baseline, which was statistically significant in favour of aflibercept in the VIBRANT study. The course of visual improvement was rapid and peaked at 3 months with maintenance of the effect until month 12. In the laser group 67 patients received rescue treatment with aflibercept beginning at week 24 (Active Control/ aflibercept 2 mg group), which resulted in improvement of visual acuity by about 5 letters from week 24 to 52.
+A secondary efficacy endpoint was change in visual acuity at week 24 compared to baseline, which was statistically significant in favour of aflibercept in the VIBRANT study. The course of visual improvement was rapid and peaked at 3 months with maintenance of the effect until month 12.
+
+In the laser group 67 patients received rescue treatment with aflibercept beginning at week 24 (Active Control/ aflibercept 2 mg group), which resulted in improvement of visual acuity by about 5 letters from week 24 to 52.
 
 Detailed results from the analysis of the VIBRANT study are shown in Table 4 and Figure 3 below.
 
@@ -538,26 +528,12 @@ Detailed results from the analysis of the VIBRANT study are shown in Table 4 and
 
 Table 4: Efficacy outcomes at week 24 and week 52 (Full Analysis Set with LOCF) in VIBRANT study
 
-| Efficacy Outcomes                                                        | VIBRANT                     | VIBRANT                         | VIBRANT                        | VIBRANT                                             |
-|--------------------------------------------------------------------------|-----------------------------|---------------------------------|--------------------------------|-----------------------------------------------------|
-|                                                                          | 24 Weeks                    | 24 Weeks                        | 52 Weeks                       | 52 Weeks                                            |
-|                                                                          | Aflibercept 2mg Q4 (N = 91) | Active Control (laser) (N = 90) | Aflibercept 2mg Q8 (N = 91) D) | Active Control (laser)/ aflibercept 2mg E) (N = 90) |
-| Proportion of patients with ≥15 letters gain from Baseline (%)           | 52.7%                       | 26.7%                           | 57.1%                          | 41.1%                                               |
-| Weighted Difference A,B) (%) (95% CI) p-value                            | 26.6% (13.0, 40.1) p=0.0003 |                                 | 16.2% (2.0, 30.5) p=0.0296     |                                                     |
-| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 (11.9)                 | 6.9 (12.9)                      | 17.1 (13.1)                    | 12.2 (11.9)                                         |
-| Difference in LS mean A,C) (95% CI) p-value                              | 10.5 (7.1, 14.0) p<0.0001   |                                 | 5.2 (1.7, 8.7) p=0.0035 F)     |                                                     |
-
-A)   Difference is aflibercept 2 mg Q4 weeks minus Laser Control
-
-B)   Difference and 95% CI are calculated using Mantel-Haenszel weighting scheme adjusted for region (North America vs. Japan) and baseline BCVA category (&gt; 20/200 and ≤ 20/200)
-
-C)   LS mean difference and 95% CI based on an ANCOVA model with treatment group, baseline BCVA category (&gt;  20/200  and ≤ 20/200)  and  region  (North  America  vs.  Japan)  as  fixed  effects,  and baseline BCVA as covariate.
-
-D) From week 24 on the treatment interval in the aflibercept treatment group was extended for all subjects from 4 weeks to 8 weeks through week 48.
-
-E) Beginning at week 24 subjects in the Laser Group could receive rescue treatment with aflibercept, if they met at least one pre-specified eligibility criterion. At total of 67 subjects in this group received aflibercept rescue treatment. The fixed regimen for aflibercept rescue was three times aflibercept 2 mg every 4 weeks followed by injections every 8 weeks.
-
-F) Nominal p-value
+| Efficacy Outcomes                                                        | VIBRANT - 24 Weeks - Aflibercept 2mg Q4 (N = 91)   | VIBRANT - 24 Weeks - Active Control (laser) (N = 90)   | VIBRANT - 52 Weeks - Aflibercept 2mg Q8 (N = 91) D)   | VIBRANT - 52 Weeks - Active Control (laser)/ aflibercept 2mg E) (N = 90)   |
+|--------------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------|
+| Proportion of patients with ≥15 letters gain from Baseline (%)           | 52.7%                                              | 26.7%                                                  | 57.1%                                                 | 41.1%                                                                      |
+| Weighted Difference A,B) (%) (95% CI) p-value                            | 26.6% (13.0, 40.1) p=0.0003                        |                                                        | 16.2% (2.0, 30.5) p=0.0296                            |                                                                            |
+| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 (11.9)                                        | 6.9 (12.9)                                             | 17.1 (13.1)                                           | 12.2 (11.9)                                                                |
+| Difference in LS mean A,C) (95% CI) p-value                              | 10.5 (7.1, 14.0) p<0.0001                          |                                                        | 5.2 (1.7, 8.7) p=0.0035 F)                            |                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -569,7 +545,7 @@ At baseline, the proportion of perfused patients in the aflibercept and laser gr
 
 ## Diabetic macular oedema
 
-The safety and efficacy of aflibercept were assessed in two randomised, multi-centre, double-masked, active-controlled studies in patients with DME (VIVID DME  and VISTA DME ). A total of 862 patients were treated and evaluable for efficacy, 576 with aflibercept. Patient ages ranged from 23 to 87 years with a mean of 63 years. In the DME studies, approximately 47% (268/576) of the patients randomised to treatment with aflibercept were 65 years of age or older, and approximately 9% (52/576) were 75 years of age or older. The majority of patients in both studies had Type II diabetes.
+The safety and efficacy of aflibercept were assessed in two randomised, multi-centre, double-masked, active-controlled studies in patients with DME (VIVID DME and VISTA DME ). A total of 862 patients were treated and evaluable for efficacy, 576 with aflibercept. Patient ages ranged from 23 to 87 years with a mean of 63 years. In the DME studies, approximately 47% (268/576) of the patients randomised to treatment with aflibercept were 65 years of age or older, and approximately 9% (52/576) were 75 years of age or older. The majority of patients in both studies had Type II diabetes.
 
 In both studies, patients were randomly assigned in a 1:1:1 ratio to 1 of 3 dosing regimens:
 
@@ -581,54 +557,54 @@ Beginning at week 24, patients meeting a pre-specified threshold of vision loss 
 
 In both studies, the primary efficacy endpoint was the mean change from baseline in BCVA at week 52 and both aflibercept 2Q8 and aflibercept 2Q4 groups demonstrated statistical significance and were superior to the control group. This benefit was maintained through week 100.
 
-Detailed results from the analysis of the VIVID DME  and VISTA DME  studies are shown in Table 5 and Figure 4 below.
+Detailed results from the analysis of the VIVID DME and VISTA DME studies are shown in Table 5 and Figure 4 below.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 5: Efficacy outcomes at week 52 and week 100 (Full Analysis Set with LOCF) in VIVID DME  and VISTA DME  studies
+Table 5: Efficacy outcomes at week 52 and week 100 (Full Analysis Set with LOCF) in VIVID DME and VISTA DME studies
 
-| Efficacy Outcoms                                                      | VIVID DME                       | VIVID DME                   | VIVID DME                        | VIVID DME                       | VIVID DME                    | VIVID DME                        | VISTA DME                       | VISTA DME                    | VISTA DME                        | VISTA DME                       | VISTA DME                  | VISTA DME                        |
-|-----------------------------------------------------------------------|---------------------------------|-----------------------------|----------------------------------|---------------------------------|------------------------------|----------------------------------|---------------------------------|------------------------------|----------------------------------|---------------------------------|----------------------------|----------------------------------|
-| Efficacy Outcoms                                                      | 52 Weeks                        | 52 Weeks                    | 52 Weeks                         | 100 Weeks                       | 100 Weeks                    | 100 Weeks                        | 52 Weeks                        | 52 Weeks                     | 52 Weeks                         | 100 Weeks                       | 100 Weeks                  | 100 Weeks                        |
-| Efficacy Outcoms                                                      | Aflibercept 2 mg Q8 A (N = 135) | Aflibercept 2mgQ4 (N = 136) | Active Control (laser) (N = 132) | Aflibercept 2 mg Q8 A (N = 135) | Aflibercept 2 mgQ4 (N = 136) | Active Control (laser) (N = 132) | Aflibercept 2 mg Q8 A (N = 151) | Aflibercept 2 mgQ4 (N = 154) | Active Control (laser) (N = 154) | Aflibercept 2 mg Q8 A (N = 151) | Aflibercept 2mgQ4 (N =154) | Active Control (laser) (N = 154) |
-| Mean change in BCVA as measured by ETDRS E letter score from Baseline | 10.7                            | 10.5                        | 1.2                              | 9.4                             | 11.4                         | 0.7                              | 10.7                            | 12.5                         | 0.2                              | 11.1                            | 11.5                       | 0.9                              |
-| Difference in LS mean B,C,E (97.5% CI)                                | 9.1 (6.3, 11.8)                 | 9.3 (6.5, 12.0)             |                                  | 8.2 (5.2, 11.3)                 | 10.7 (7.6, 13.8)             |                                  | 10.45 (7.7, 13.2)               | 12.19 (9.4, 15.0)            |                                  | 10.1 (7.0, 13.3)                | 10.6 (7.1, 14.2)           |                                  |
-| Proportion of patients with ≥ 15 letters gain from Baseline           | 33%                             | 32%                         | 9%                               | 31.1%                           | 38.2%                        | 12.1%                            | 31%                             | 42%                          | 8%                               | 33.1%                           | 38.3%                      | 13.0%                            |
-| Adjusted Difference D,C,E (97.5% CI)                                  | 24% (13.5, 34.9)                | 23% (12.6, 33.9)            |                                  | 19.0% (8.0, 29.9)               | 26.1% (14.8, 37.5)           |                                  | 23% (13.5, 33.1)                | 34% (24.1, 44.4)             |                                  | 20.1% (9.6, 30.6)               | 25.8% (15.1, 36.6)         |                                  |
-
-A   After treatment initiation with 5 monthly injections
+| Efficacy Outcomes                                                     | VIVID DME - 52 Weeks - Aflibercept 2 mg Q8 A (N = 135)   | VIVID DME - 52 Weeks - Aflibercept 2 mg Q4 (N = 136)   | VIVID DME - 52 Weeks - Active Control (laser) (N = 132)   | VIVID DME - 100 - Aflibercept 2 mg Q8 A (N = 135)   | VIVID DME - 100 - Weeks Aflibercept 2 mg Q4 (N = 136)   | VIVID DME - 100 - Active Control (laser) (N = 132)   | VISTA DME - 52 Weeks - Aflibercept 2 mg Q8 A (N = 151)   | VISTA DME - 52 Weeks - Aflibercept 2 mg Q4 (N = 154)   | VISTA DME - 52 Weeks - Active Control (laser) (N = 154)   | VISTA DME - 100 Weeks - Aflibercept 2 mg Q8 A (N = 151)   | VISTA DME - 100 Weeks - Aflibercept 2 mg Q4 (N =154)   | VISTA DME - 100 Weeks - Active Control (laser) (N = 154)   |
+|-----------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------|---------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------|------------------------------------------------------------|
+| Mean change in BCVA as measured by ETDRS E letter score from Baseline | 10.7                                                     | 10.5                                                   | 1.2                                                       | 9.4                                                 | 11.4                                                    | 0.7                                                  | 10.7                                                     | 12.5                                                   | 0.2                                                       | 11.1                                                      | 11.5                                                   | 0.9                                                        |
+| Difference in LS mean B,C,E (97.5% CI)                                | 9.1 (6.3, 11.8)                                          | 9.3 (6.5, 12.0)                                        |                                                           | 8.2 (5.2, 11.3)                                     | 10.7 (7.6, 13.8)                                        |                                                      | 10.45 (7.7, 13.2)                                        | 12.19 (9.4, 15.0)                                      |                                                           | 10.1 (7.0, 13.3)                                          | 10.6 (7.1, 14.2)                                       |                                                            |
+| Proportion of patients with ≥ 15 letters gain from Baseline           | 33%                                                      | 32%                                                    | 9%                                                        | 31.1%                                               | 38.2%                                                   | 12.1%                                                | 31%                                                      | 42%                                                    | 8%                                                        | 33.1%                                                     | 38.3%                                                  | 13.0%                                                      |
+| Adjusted Difference D,C,E (97.5% CI)                                  | 24% (13.5, 34.9)                                         | 23% (12.6, 33.9)                                       |                                                           | 19.0% (8.0, 29.9)                                   | 26.1% (14.8, 37.5)                                      |                                                      | 23% (13.5, 33.1)                                         | 34% (24.1, 44.4)                                       |                                                           | 20.1% (9.6, 30.6)                                         | 25.8% (15.1, 36.6)                                     |                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-B   LS mean and CI based on an ANCOVA model with baseline BCVA measurement as a covariate and a factor for treatment group. Additionally, region (Europe/Australia vs. Japan) had been included as factor for VIVID DME , and history of MI and/or CVA as a factor for VISTA DME
+- B LS mean and CI based on an ANCOVA model with baseline BCVA measurement as a covariate and a factor for treatment group. Additionally, region (Europe/Australia vs. Japan) had been included as factor for VIVID DME , and history of MI and/or CVA as a factor for VISTA DME
 
-C   Difference is aflibercept group minus active control (laser) group
+C Difference is aflibercept group minus active control (laser) group
 
-D   Difference with confidence interval (CI) and statistical test is calculated using Mantel-Haenszel weighting scheme adjusted by region (Europe/Australia vs. Japan) for VIVID DME  and medical history of MI or CVA for VISTA DME
+- D Difference with confidence interval (CI) and statistical test is calculated using Mantel-Haenszel weighting scheme adjusted by region (Europe/Australia vs. Japan) for VIVID DME and medical history of MI or CVA for VISTA DME
 
-E   BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study LOCF: Last Observation Carried Forward LS: Least square means derived from ANCOVA CI: Confidence interval
+E BCVA: Best Corrected Visual Acuity
+
+ETDRS: Early Treatment Diabetic Retinopathy Study
+
+- LOCF: Last Observation Carried Forward
+- LS: Least square means derived from ANCOVA
+- CI: Confidence interval
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 4: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 100 in VIVID DME  and VISTA DME  Studies
+Figure 4: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 100 in VIVID DME and VISTA DME Studies
 
 <!-- image -->
 
 Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline HbA1c, baseline visual acuity, prior anti-VEGF therapy) in each study and in the combined analysis were generally consistent with the results in the overall populations.
 
-In the VIVID DME  and VISTA DME  studies, 36 (9%) and 197 (43%) patients received prior anti-VEGF therapy, respectively, with a 3-month or longer washout period. Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor were similar to those seen in patients who were VEGF inhibitor naïve.
+In the VIVID DME and VISTA DME studies, 36 (9%) and 197 (43%) patients received prior anti-VEGF therapy, respectively, with a 3-month or longer washout period. Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor were similar to those seen in patients who were VEGF inhibitor naïve.
 
-Patients with bilateral disease were eligible to receive anti-VEGF treatment in their fellow eye if assessed necessary by the physician. In the VISTA DME  study, 217 (70.7%) of aflibercept patients received bilateral aflibercept injections until week 100; in the VIVID DME  study, 97 (35.8%) of aflibercept patients received a different anti-VEGF treatment in their fellow eye.
+Patients with bilateral disease were eligible to receive anti-VEGF treatment in their fellow eye if assessed necessary by the physician. In the VISTA DME study, 217 (70.7%) of aflibercept patients received bilateral aflibercept injections until week 100; in the VIVID DME study, 97 (35.8%) of aflibercept patients received a different anti-VEGF treatment in their fellow eye.
 
-An independent comparative trial (DRCR.net Protocol T) utilised a flexible dosing regimen based on strict OCT and vision re-treatment criteria. In the aflibercept treatment group (n = 224) at week 52, this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the aflibercept 2Q8 group in VIVID DME  and VISTA DME , while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the aflibercept 2Q8 group in VIVID DME  and VISTA DME . A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidence of ocular and non-ocular adverse events (including ATEs) were comparable across all treatment groups in each of the studies and between the studies.
+An independent comparative trial (DRCR.net Protocol T) utilised a flexible dosing regimen based on strict OCT and vision re-treatment criteria. In the aflibercept treatment group (n = 224) at week 52, this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the aflibercept 2Q8 group in VIVID DME and VISTA DME , while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the aflibercept 2Q8 group in VIVID DME and VISTA DME . A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidence of ocular and non-ocular adverse events (including ATEs) were comparable across all treatment groups in each of the studies and between the studies.
 
-VIOLET, a 100-week multicentre, randomised, open-label, active controlled study in patients with
+VIOLET, a 100-week multicentre, randomised, open-label, active controlled study in patients with DME compared three different dosing regimens of aflibercept 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses followed by dosing every 2 months. The study evaluated non-inferiority of aflibercept 2 mg dosed according to a treat-and-extend regimen (2T&amp;E where injections intervals were kept at a minimum of 8 weeks and gradually extended based on clinical and anatomical outcomes) and aflibercept 2 mg dosed as needed (2PRN where patients were observed every 4 weeks and injected when needed based on clinical and anatomical outcomes), compared to aflibercept 2 mg dosed every 8 weeks (2Q8) for the second and third year of treatment.
 
 <div style=\"page-break-after: always\"></div>
 
-DME compared three different dosing regimens of aflibercept 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses followed by dosing every 2 months. The study evaluated non-inferiority of aflibercept 2 mg dosed according to a treat-and-extend regimen (2T&amp;E where injections intervals were kept at a minimum of 8 weeks and gradually extended based onclinical and anatomical outcomes) and aflibercept 2 mg dosed as needed (2PRN where patients were observed every 4 weeks and injected when needed based on clinical and anatomical outcomes), compared to aflibercept 2 mg dosed every 8 weeks (2Q8) for the second and third year of treatment.
-
-The primary efficacy endpoint (change in BCVA from baseline to week 52) was 0.5 ± 6.7 letters in the 2T&amp;E group and 1.7 ± 6.8 letters in the 2PRN group compared to 0.4 ± 6.7 letters in the 2Q8 group, achieving statistical non-inferiority (p&lt;0.0001 for both comparisons; NI margin 4 letters). The changes in BCVA from baseline to week 100 were consistent with the week 52 results: 0.1 ± 9.1 letters in the 2T&amp;E group and 1.8 ± 9.0 letters in the 2PRN group compared to 0.1 ± 7.2 letters in the 2Q8 group. The mean number of injections over 100 weeks were 12.3, 10.0 and 11.5 for 2Q8fix, 2T&amp;E and 2PRN, respectively.
+The primary efficacy endpoint (change in BCVA from baseline to week 52) was 0.5 ± 6.7 letters in the 2T&amp;E group and 1.7 ± 6.8 letters in the 2PRN group compared to 0.4 ± 6.7 letters in the 2Q8 group, achieving statistical non-inferiority (p&lt;0.0001 for both comparisons; NI margin 4 letters). The changes in BCVA from baseline to week 100 were consistent with the week 52 results: -0.1 ± 9.1 letters in the 2T&amp;E group and 1.8 ± 9.0 letters in the 2PRN group compared to 0.1 ± 7.2 letters in the 2Q8 group. The mean number of injections over 100 weeks were 12.3, 10.0 and 11.5 for 2Q8fix, 2T&amp;E and 2PRN, respectively.
 
 Ocular and systemic safety profiles in all 3 treatment groups were similar to those observed in the pivotal studies VIVID and VISTA.
 
@@ -636,7 +612,7 @@ In the 2T&amp;E group, the increments and decrements for the injection intervals
 
 ## Myopic choroidal neovascularisation
 
-The safety and efficacy of aflibercept were assessed in a randomised, multi-centre, double-masked, sham- controlled study in treatmentnaïve, Asian patients with myopic CNV. A total of 121 patients were treated and evaluable for efficacy (90 with aflibercept). Patient ages ranged from 27 to 83 years with a mean of 58 years. In the myopic CNV study, approximately 36% (33/91) of the patients randomised to treatment with aflibercept were 65 years of age or older, and approximately 10% (9/91) were 75 years of age or older.
+The safety and efficacy of aflibercept were assessed in a randomised, multi-centre, double-masked, sham- controlled study in treatment-naïve, Asian patients with myopic CNV. A total of 121 patients were treated and evaluable for efficacy (90 with aflibercept). Patient ages ranged from 27 to 83 years with a mean of 58 years. In the myopic CNV study, approximately 36% (33/91) of the patients randomised to treatment with aflibercept were 65 years of age or older, and approximately 10% (9/91) were 75 years of age or older.
 
 Patients were randomly assigned in a 3:1 ratio to receive either 2 mg aflibercept intravitreally or sham injections administered once at study start with additional injections given monthly in case of disease persistence or recurrence until week 24, when the primary endpoint was assessed. At week 24, patients initially randomised to sham were eligible to receive the first dose of aflibercept. Following this, patients in both groups continued to be eligible for additional injections in case of disease persistence or recurrence.
 
@@ -648,22 +624,23 @@ Detailed results from the analysis of the MYRROR study are shown in Table 6 and 
 
 Table 6: Efficacy outcomes at week 24 (primary analysis) and week 48 in MYRROR study (Full Analysis Set with LOCF A) )
 
-| Efficacy Outcomes                                                              | MYRROR                    | MYRROR        | MYRROR                    | MYRROR                          |
-|--------------------------------------------------------------------------------|---------------------------|---------------|---------------------------|---------------------------------|
-|                                                                                | 24 Weeks                  | 24 Weeks      | 48 Weeks                  | 48 Weeks                        |
-|                                                                                | Aflibercept 2 mg (N = 90) | Sham (N = 31) | Aflibercept 2 mg (N = 90) | Sham/ Aflibercept 2 mg (N = 31) |
-| Mean change in BCVA B) as measured by ETDRS letter score from baseline (SD) B) | 12.1 (8.3)                | -2.0 (9.7)    | 13.5 (8.8)                | 3.9 (14.3)                      |
-| Difference in LS mean C,D,E) (95% CI)                                          | 14.1 (10.8, 17.4)         |               | 9.5 (5.4, 13.7)           |                                 |
-| Proportion of patients with ≥15 letters gain from baseline                     | 38.9%                     | 9.7 %         | 50.0%                     | 29.0%                           |
-| Weighted difference D,F) (95% CI)                                              | 29.2% (14.4, 44.0)        |               | 21.0% (1.9, 40.1)         |                                 |
+| Efficacy Outcomes                                                              | MYRROR - 24 Weeks - Aflibercept 2 mg (N = 90)   | MYRROR - 24 Weeks - Sham (N = 31)   | MYRROR - 48 Weeks - Aflibercept 2 mg (N = 90)   | MYRROR - 48 Weeks - Sham/ Aflibercept 2 mg (N = 31)   |
+|--------------------------------------------------------------------------------|-------------------------------------------------|-------------------------------------|-------------------------------------------------|-------------------------------------------------------|
+| Mean change in BCVA B) as measured by ETDRS letter score from baseline (SD) B) | 12.1 (8.3)                                      | -2.0 (9.7)                          | 13.5 (8.8)                                      | 3.9 (14.3)                                            |
+| Difference in LS mean C,D,E) (95% CI)                                          | 14.1 (10.8, 17.4)                               |                                     | 9.5 (5.4, 13.7)                                 |                                                       |
+| Proportion of patients with ≥15 letters gain from baseline                     | 38.9%                                           | 9.7%                                | 50.0%                                           | 29.0%                                                 |
+| Weighted difference D,F) (95% CI)                                              | 29.2% (14.4, 44.0)                              |                                     | 21.0% (1.9, 40.1)                               |                                                       |
 
-- A) LOCF: Last Observation Carried Forward B) BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study SD: Standard Deviation
+- A) LOCF: Last Observation Carried Forward
+
+B) BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study SD: Standard Deviation
+
 - C) LS mean: Least square means derived from ANCOVA model
 - D) CI: Confidence Interval
 - E) LS mean difference and 95% CI based on an ANCOVA model with treatment group and country (country designations) as fixed effects, and baseline BCVA as covariant.
 - F) Difference and 95% CI are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for country (country designations)
 
-Figure 5 : Mean Change from Baseline to Week 48 in Visual Acuity by Treatment Group for the MYRROR Study (Full Analysis Set, LOCF)
+Figure 5: Mean Change from Baseline to Week 48 in Visual Acuity by Treatment Group for the MYRROR Study (Full Analysis Set, LOCF)
 
 <!-- image -->
 
@@ -671,15 +648,15 @@ Figure 5 : Mean Change from Baseline to Week 48 in Visual Acuity by Treatment Gr
 
 The European Medicines Agency has waived the obligation to submit the results of studies with reference medicinal product containing aflibercept in all subsets of the paediatric population in wet AMD, CRVO, BRVO, DME and myopic CNV populations (see section 4.2 for information on paediatric use).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.2 Pharmacokinetic properties
+
+<div style=\"page-break-after: always\"></div>
 
 Aflibercept is administered directly into the vitreous to exert local effects in the eye.
 
 ## Absorption / Distribution
 
-Aflibercept is slowly absorbed from the eye into the systemic circulation after intravitreal administration and is predominately observed in the systemic circulation as an inactive, stable complex with VEGF; however, only 'free aflibercept ' is able to bind endogenous VEGF.
+Aflibercept is slowly absorbed from the eye into the systemic circulation after intravitreal administration and is predominately observed in the systemic circulation as an inactive, stable complex with VEGF; however, only \"free aflibercept\" is able to bind endogenous VEGF.
 
 In a pharmacokinetic sub-study in 6 neovascular wet AMD patients with frequent sampling, maximum plasma concentrations of free aflibercept (systemic Cmax) were low, with a mean of approximately 0.02 microgram/mL (range 0 to 0.054) within 1 to 3 days after a 2 mg intravitreal injection, and were undetectable two weeks following dosage in almost all patients. Aflibercept does not accumulate in the plasma when administered intravitreally every 4 weeks.
 
@@ -699,23 +676,21 @@ No special studies in patients with renal impairment have been conducted with af
 
 Pharmacokinetic analysis of patients in the VIEW2 study, of which 40% had renal impairment (24% mild, 15% moderate, and 1% severe), revealed no differences with respect to plasma concentrations of active drug after intravitreal administration every 4 or 8 weeks.
 
-Similar results were seen in patients with CRVO in the GALILEO study, in patients with DME in the VIVID DME  study, and in patients with myopic CNV in the MYRROR study.
+Similar results were seen in patients with CRVO in the GALILEO study, in patients with DME in the VIVID DME study, and in patients with myopic CNV in the MYRROR study.
 
 ## 5.3 Preclinical safety data
 
 Effects in non-clinical studies on repeated dose toxicity were observed only at systemic exposures considered substantially in excess of the maximum human exposure after intravitreal administration at the intended clinical dose indicating little relevance to clinical use.
 
-Erosions and ulcerations of the respiratory epithelium in nasal turbinates in monkeys treated with aflibercept intravitreally were observed at systemic exposures in excess of the maximum human exposure. At the No Observed Adverse Effect Level (NOAEL) of 0.5mg/eye in monkeys the systemic
+Erosions and ulcerations of the respiratory epithelium in nasal turbinates in monkeys treated with aflibercept intravitreally were observed at systemic exposures in excess of the maximum human exposure. At the No Observed Adverse Effect Level (NOAEL) of 0.5mg/eye in monkeys the systemic exposure for free aflibercept was 42- and 56-fold higher based on Cmax and AUC when compared to corresponding values observed in patients.
 
 <div style=\"page-break-after: always\"></div>
 
-exposure for free aflibercept was 42- and 56-fold higher based on Cmax and AUC when compared to corresponding values observed in patients.
-
 No studies have been conducted on the mutagenic or carcinogenic potential of aflibercept.
 
-An effect of aflibercept on intrauterine development was shown in embryo-foetal development studies in pregnant rabbits with intravenous (3 to 60 mg/kg) as well as subcutaneous (0.1 to 1 mg/kg) administration. The maternal NOAEL was at the dose of 3 mg/kg or 1 mg/kg, respectively. A developmental NOAEL was not identified. At the 0.1 mg/kg dose, the systemic exposures based on Cmax  and cumulative AUC for free aflibercept were approximately 17- and 10-fold higher, respectively, when compared to corresponding values observed in humans after an intravitreal dose of 2 mg.
+An effect of aflibercept on intrauterine development was shown in embryo-foetal development studies in pregnant rabbits with intravenous (3 to 60 mg/kg) as well as subcutaneous (0.1 to 1 mg/kg) administration. The maternal NOAEL was at the dose of 3 mg/kg or 1 mg/kg, respectively. A developmental NOAEL was not identified. At the 0.1 mg/kg dose, the systemic exposures based on Cmax and cumulative AUC for free aflibercept were approximately 17- and 10-fold higher, respectively, when compared to corresponding values observed in humans after an intravitreal dose of 2 mg.
 
-Effects on male and female fertility were assessed as part of a 6-month study in monkeys with intravenous administration of aflibercept at doses ranging from 3 to 30 mg/kg. Absent or irregular menses associated with alterations in female reproductive hormone levels and changes in sperm morphology and motility were observed at all dose levels. Based on Cmax and AUC for free aflibercept observed at the 3 mg/kg intravenous dose, the systemic exposures were approximately 4 900-fold and 1,500-fold higher, respectively, than the exposure observed in humans after an intravitreal dose of 2 mg. All changes were reversible.
+Effects on male and female fertility were assessed as part of a 6-month study in monkeys with intravenous administration of aflibercept at doses ranging from 3 to 30 mg/kg. Absent or irregular menses associated with alterations in female reproductive hormone levels and changes in sperm morphology and motility were observed at all dose levels. Based on Cmax and AUC for free aflibercept observed at the 3 mg/kg intravenous dose, the systemic exposures were approximately 4,900-fold and 1,500-fold higher, respectively, than the exposure observed in humans after an intravitreal dose of 2 mg. All changes were reversible.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -741,17 +716,15 @@ The unopened blister may be stored outside the refrigerator below 25 °C for up 
 
 Single-dose 1 mL long luer-lock pre-filled syringe (PFS; fill volume: 165 microliters solution) made of cyclo-olefin polymer (COP) resin, with a tip cap made of chlorinated butyl rubber. The syringe is closed with a piston made of chlorinated butyl rubber coated with cross-linked silicone.
 
-Each carton includes one PFS containing a nominal fill volume of 165 microliters solution for
+Each carton includes one PFS containing a nominal fill volume of 165 microliters solution for intravitreal injection.
 
 <div style=\"page-break-after: always\"></div>
-
-intravitreal injection.
 
 Pack size of 1 pre-filled syringe.
 
 ## 6.6 Special precautions for disposal and other handling
 
-The pre-filled syringe is for single use in one eye only. Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection .
+The pre-filled syringe is for single use in one eye only. Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection.
 
 Do not open the sterile pre-filled syringe blister outside the clean administration room. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -769,7 +742,7 @@ To prepare the pre-filled syringe for administration, follow all steps below.
 
 |   1. | When ready to administer Vgenfli, open the carton and remove the sterilised blister. Carefully peel open the blister ensuring the sterility of its contents. Keep the syringe in the sterile tray until you are ready for assembly.   |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    2 | Using aseptic technique, remove the syringe from the sterilised blister.                                                                                                                                                              |
+|   2. | Using aseptic technique, remove the syringe from the sterilised blister.                                                                                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -783,14 +756,14 @@ Note: This accurate positioning of the plunger is very important, because incorr
 
 <!-- image -->
 
-8. Inject while pressing the plunger carefully and with constant pressure. Do not apply additional pressure once the plunger has reached the bottom of the syringe. Do not administer any residual solution observed in the syringe .
+8. Inject while pressing the plunger carefully and with constant pressure. Do not apply additional pressure once the plunger has reached the bottom of the syringe. Do not administer any residual solution observed in the syringe.
 9. The pre-filled syringe is for single use only. Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83 -200 Starogard Gdański Poland
+Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83-200 Starogard Gdański Poland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -798,7 +771,7 @@ EU/1/25/1961/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 14.08.2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -806,7 +779,7 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions .
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -849,7 +822,7 @@ Vgenfli is for intravitreal injection only.
 
 Vgenfli must only be administered by a qualified physician experienced in administering intravitreal injections.
 
-## Posology
+Posology
 
 wet AMD
 
@@ -935,11 +908,9 @@ Following intravitreal injection patients should be instructed to report any sym
 
 Each vial should only be used for the treatment of a single eye. Extraction of multiple doses from a single vial may increase the risk of contamination and subsequent infection.
 
-The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL solution for injection). The extractable volume of the vial is the amount that can be withdrawn from the vial and is not to be used in total. Each Vgenfli vial, contains a volume of 0.278 mL and is not to be used in total. The excess volume must be expelled before injecting the recommended dose (see
+The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL solution for injection). The extractable volume of the vial is the amount that can be withdrawn from the vial and is not to be used in total. Each Vgenfli vial, contains a volume of 0.278 mL and is not to be used in total. The excess volume must be expelled before injecting the recommended dose (see section 6.6).
 
 <div style=\"page-break-after: always\"></div>
-
-section 6.6).
 
 Injecting the entire volume of the vial could result in overdose. To expel the air bubbles along with excess medicinal product, slowly depress the plunger so that the flat plunger edge aligns with the line that marks 0.05 mL on the syringe (equivalent to 0.05 mL i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).
 
@@ -978,10 +949,14 @@ As with other intravitreal anti-VEGF treatments for AMD, CRVO, BRVO, DME and myo
 <div style=\"page-break-after: always\"></div>
 
 - The safety and efficacy of aflibercept therapy administered to both eyes concurrently have not been systematically studied (see section 5.1). If bilateral treatment is performed at the same time this could lead to an increased systemic exposure, which could increase the risk of systemic adverse events.
-- Concomitant use of other anti-VEGF (vascular endothelial growth factor) There is no data available on the concomitant use of aflibercept with other anti-VEGF medicinal products (systemic or ocular).
+
+· Concomitant use of other anti-VEGF (vascular endothelial growth factor)
+
+There is no data available on the concomitant use of aflibercept with other anti-VEGF medicinal products (systemic or ocular).
+
 - Risk factors associated with the development of a retinal pigment epithelial tear after antiVEGF therapy for wet AMD, include a large and/or high pigment epithelial retinal detachment. When initiating aflibercept therapy, caution should be used in patients with these risk factors for retinal pigment epithelial tears.
 - Treatment should be withheld in patients with rhegmatogenous retinal detachment or stage 3 or 4 macular holes.
-- In the event of a retinal break the dose should be withheld and treatment should not be resumed until the break is adequately repaired .
+- In the event of a retinal break the dose should be withheld and treatment should not be resumed until the break is adequately repaired.
 - The dose should be withheld and treatment should not be resumed earlier than the next scheduled treatment in the event of:
 - o a decrease in best-corrected visual acuity (BCVA) of ≥30 letters compared with the last assessment of visual acuity;
 - o a subretinal haemorrhage involving the centre of the fovea, or, if the size of the haemorrhage is ≥50%, of the total lesion area.
@@ -1000,8 +975,8 @@ In myopic CNV there is no experience with aflibercept in the treatment of non-As
 
 This medicine contains:
 
-- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free'.
-- 0.015 mg of polysorbate 20 in each 0.05 ml dose which is equivalent to 0.3 mg/ml. Polysorbates may cause allergic reactions. Ask your patient if they have any known allergies.
+- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
+- 0.015 mg of polysorbate 20 in each 0.05 mL dose which is equivalent to 0.3 mg/mL. Polysorbates may cause allergic reactions. Ask your patient if they have any known allergies.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -1037,7 +1012,7 @@ Results from animal studies with high systemic exposure indicate that aflibercep
 
 ## 4.7 Effects on ability to drive and use machines
 
-Injection with aflibercept has a minor influence on the ability to drive and use machines due to possible temporary  visual  disturbances  associated  either  with  the  injection  or  the  eye  examination.  Patients should not drive or use machines until their visual function has recovered sufficiently.
+Injection with aflibercept has a minor influence on the ability to drive and use machines due to possible temporary visual disturbances associated either with the injection or the eye examination. Patients should not drive or use machines until their visual function has recovered sufficiently.
 
 ## 4.8 Undesirable effects
 
@@ -1057,13 +1032,11 @@ The adverse reactions are listed by system organ class and frequency using the f
 
 <div style=\"page-break-after: always\"></div>
 
-Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (  1/10 000 to &lt;1/1 000), not known (cannot be estimated from the available data).
+Very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (1/10 000 to &lt;1/1 000), not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
 
-<div style=\"page-break-after: always\"></div>
-
-Table 1 : All treatment-emergent adverse drug reactions reported in patients in phase III studies (pooled data of the phase III studies for the indications wet AMD, CRVO, BRVO, DME and myopic CNV) or during post-marketing surveillance
+Table 1: All treatment-emergent adverse drug reactions reported in patients in phase III studies (pooled data of the phase III studies for the indications wet AMD, CRVO, BRVO, DME and myopic CNV) or during post-marketing surveillance
 
 | System Organ Class      | Frequency   | Adverse reaction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1071,8 +1044,8 @@ Table 1 : All treatment-emergent adverse drug reactions reported in patients in 
 | Eye disorders           | Very common | Visual acuity reduced, retinal haemorrhage, conjunctival haemorrhage, eye pain                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Eye disorders           | Common      | Retinal pigment epithelial tear*, detachment of the retinal pigment epithelium, retinal degeneration, vitreous haemorrhage, cataract, cataract cortical, cataract nuclear, cataract subcapsular, corneal erosion, corneal abrasion, intraocular pressure increased, vision blurred, vitreous floaters, vitreous detachment, injection site pain, foreign body sensation in eyes, lacrimation increased, eyelid oedema, injection site haemorrhage, punctate keratitis, conjunctival hyperaemia, ocular hyperaemia |
 | Eye disorders           | Uncommon    | Endophthalmitis**, retinal detachment, retinal tear, iritis, uveitis, iridocyclitis, lenticular opacities, corneal epithelium defect, injection site irritation, abnormal sensation in eye, eyelid irritation, anterior chamber flare, corneal oedema                                                                                                                                                                                                                                                             |
-| Eye disorders           | Rare        | Blindness, cataract traumatic, vitritis, hypopyon                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Eye disorders           | Not known   | Scleritis****                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Eye disorders           | Rare        | Blindness, cataract traumatic, vitritis, hypopyon, retinal vasculitis                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Eye disorders           | Not known   | Scleritis****, retinal occlusive vasculitis****                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 * Conditions known to be associated with wet AMD. Observed in the wet AMD studies only.
 - ** Culture positive and culture negative endophthalmitis.
@@ -1091,11 +1064,11 @@ As with all therapeutic proteins, there is a potential for immunogenicity with a
 
 ## Reporting of suspected adverse reactions
 
+<div style=\"page-break-after: always\"></div>
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
-
-<div style=\"page-break-after: always\"></div>
 
 In clinical trials, doses of up to 4 mg in monthly intervals have been used and isolated cases of overdoses with 8 mg occurred.
 
@@ -1105,7 +1078,7 @@ Overdosing with increased injection volume may increase intraocular pressure. Th
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Ophthalmologicals / Antineovascularisation agents, ATC code: S01LA05
+Pharmacotherapeutic group: Ophthalmologicals / Antineovascularisation agents ATC code: S01LA05
 
 Vgenfli is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -1127,13 +1100,13 @@ Wet AMD is characterised by pathological choroidal neovascularisation (CNV). Lea
 
 In patients treated with aflibercept (one injection per month for three consecutive months, followed by one injection every 2 months), central retinal thickness [CRT] decreased soon after treatment initiation, and the mean CNV lesion size was reduced, consistent with the results seen with ranibizumab 0.5 mg every month.
 
-In the VIEW1 study there were mean decreases in CRT on optical coherence tomography () (-130 and -129 microns at week 52 for the aflibercept 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively). Also at the 52 week time point, in the VIEW2 study there were mean decreases in CRT on OCT (-149 and -139 microns for the aflibercept 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively). The reduction of CNV size and reduction in CRT were generally maintained in the second year of the studies.
-
-The ALTAIR study was conducted in Japanese patients with treatment naïve wet AMD, showing
+In the VIEW1 study there were mean decreases in CRT on optical coherence tomography () (-130 and
 
 <div style=\"page-break-after: always\"></div>
 
-similar outcomes to the VIEW studies using 3 initial monthly aflibercept 2 mg injections, followed by one injection after a further 2 months, and then continued with a treat-and-extend regimen with variable treatment intervals (2-week or 4-week adjustments) up to a maximum 16 week interval according to pre-specified criteria. At week 52, there were mean decreases in central retinal thickness (CRT) on OCT of -134.4 and -126.1 microns for the 2-week adjustment group and the 4-week adjustment group, respectively. The proportion of patients without fluid on OCT at week 52 was 68.3% and 69.1% in the 2- and 4-week adjustment groups, respectively. The reduction in CRT was generally maintained in both treatment arms in the second year of the ALTAIR study .
+-129 microns at week 52 for the aflibercept 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively). Also at the 52 week time point, in the VIEW2 study there were mean decreases in CRT on OCT (-149 and -139 microns for the aflibercept 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively). The reduction of CNV size and reduction in CRT were generally maintained in the second year of the studies.
+
+The ALTAIR study was conducted in Japanese patients with treatment naïve wet AMD, showing similar outcomes to the VIEW studies using 3 initial monthly aflibercept 2 mg injections, followed by one injection after a further 2 months, and then continued with a treat-and-extend regimen with variable treatment intervals (2-week or 4-week adjustments) up to a maximum 16 week interval according to pre-specified criteria. At week 52, there were mean decreases in central retinal thickness (CRT) on OCT of -134.4 and -126.1 microns for the 2-week adjustment group and the 4-week adjustment group, respectively. The proportion of patients without fluid on OCT at week 52 was 68.3% and 69.1% in the 2- and 4-week adjustment groups, respectively. The reduction in CRT was generally maintained in both treatment arms in the second year of the ALTAIR study.
 
 The ARIES study was designed to explore the non-inferiority of an aflibercept 2 mg treat-and-extend dosing regimen initiated immediately after administration of 3 initial monthly injections and one additional injection after 2 months vs. a treat-and-extend dosing regimen initiated after one year of treatment. For patients requiring a more frequent than Q8 dosing at least once over the course of the study, CRT remained higher, but the mean decrease in CRT from baseline to week 104 was -160.4 microns, similar to the patients treated at Q8 or less frequent intervals.
 
@@ -1149,15 +1122,15 @@ Diabetic macular oedema is a consequence of diabetic retinopathy and is characte
 
 In patients treated with aflibercept, the majority of whom were classified as having Type II diabetes, a rapid and robust response in morphology (CRT, DRSS level) was observed.
 
-In the VIVID DME  and the VISTA DME  studies, a statistically significant greater mean decrease in CRT from baseline to week 52 was observed in patients treated with aflibercept than with the laser control, -192.4 and -183.1 microns for the 2Q8 aflibercept groups and -66.2 and -73.3 microns for the control groups, respectively. At week 100 the decrease was maintained with -195.8 and -191.1 microns for the 2Q8 aflibercept groups and -85.7 and -83.9 microns for the control groups, in the VIVID DME and  VISTA DME  studies, respectively.
+In the VIVID DME and the VISTA DME studies, a statistically significant greater mean decrease in CRT from baseline to week 52 was observed in patients treated with aflibercept than with the laser control, -192.4 and -183.1 microns for the 2Q8 aflibercept groups and -66.2 and -73.3 microns for the control groups, respectively. At week 100 the decrease was maintained with -195.8 and -191.1 microns for the 2Q8 aflibercept groups and -85.7 and -83.9 microns for the control groups, in the VIVID DME and VISTA DME studies, respectively.
 
-A ≥2 step improvement in DRSS was assessed in a pre-specified manner in VIVID DME and VISTA DME . The DRSS score was gradable in 73.7% of the patients in VIVID DME  and 98.3% of the patients in VISTA DME . At week 52, 27.7% and 29.1% of the aflibercept 2Q8 groups, and 7.5% and 14.3% of the control groups experienced a ≥2 step improvement in the DRSS. At week 100, the respective percentages were 32.6% and 37.1% of the aflibercept 2Q8 groups and 8.2% and 15.6% of the control groups.
-
-The VIOLET study compared three different dosing regimens of aflibercept 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses followed by dosing every 2 months. At week 52 and week 100 of the study, i.e. second and third year of treatment, the mean changes in CRT were clinically similar for treat-andextend (2T&amp;E), pro re nata (2PRN) and 2Q8, respectively, -2.1, 2.2 and -18.8 microns at week 52,
+A ≥2 step improvement in DRSS was assessed in a pre-specified manner in VIVID DME and VISTA DME . The DRSS score was gradable in 73.7% of the patients in VIVID DME and 98.3% of the patients in VISTA DME . At week 52, 27.7% and 29.1% of the aflibercept 2Q8 groups, and 7.5% and 14.3% of the control groups experienced a ≥2 step improvement in the DRSS. At week 100, the respective percentages were 32.6% and 37.1% of the aflibercept 2Q8 groups and 8.2% and 15.6% of the control
 
 <div style=\"page-break-after: always\"></div>
 
-## and 2.3, -13.9 and -15.5 microns at week 100.
+## groups.
+
+The VIOLET study compared three different dosing regimens of aflibercept 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses followed by dosing every 2 months. At week 52 and week 100 of the study, i.e. second and third year of treatment, the mean changes in CRT were clinically similar for treat-andextend (2T&amp;E), pro re nata (2PRN) and 2Q8, respectively, -2.1, 2.2 and -18.8 microns at week 52, and 2.3, -13.9 and -15.5 microns at week 100.
 
 ## Myopic choroidal neovascularisation
 
@@ -1167,7 +1140,7 @@ In patients treated with aflibercept in the MYRROR study (one injection given at
 
 ## Clinical efficacy and safety
 
-wet AMD
+## wet AMD
 
 The safety and efficacy of aflibercept were assessed in two randomised, multi-centre, double-masked, active-controlled studies in patients with wet AMD (VIEW1 and VIEW2) with a. total of 2,412 patients treated and evaluable for efficacy (1,817 with aflibercept). Patient ages ranged from 49 to 99 years with a mean of 76 years. In these clinical studies, approximately 89% (1,616/1,817) of the patients randomised to treatment with aflibercept were 65 years of age or older, and approximately 63% (1,139/1,817) were 75 years of age or older. In each study, patients were randomly assigned in a 1:1:1:1 ratio to 1 of 4 dosing regimens:
 
@@ -1186,30 +1159,22 @@ Detailed results from the combined analysis of both studies are shown in Table 2
 
 <div style=\"page-break-after: always\"></div>
 
-Table 2 : Efficacy outcomes at week 52 (primary analysis) and week 96; combined data from the VIEW1 and VIEW2 studies B)
+Table 2: Efficacy outcomes at week 52 (primary analysis) and week 96; combined data from the VIEW1 and VIEW2 studies B)
 
-| Efficacy Outcome                                                      | Aflibercept 2Q8 E) (aflibercept 2 mgevery 8 weeks following 3 initial monthly doses) ( N = 607)   | Aflibercept 2Q8 E) (aflibercept 2 mgevery 8 weeks following 3 initial monthly doses) ( N = 607)   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mgevery 4 weeks) ( N = 595)   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mgevery 4 weeks) ( N = 595)   |
-|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
-|                                                                       | Week 52                                                                                           | Week 96                                                                                           | Week 52                                                          | Week 96                                                          |
-| Meannumber of injections from baseline                                | 7.6                                                                                               | 11.2                                                                                              | 12.3                                                             | 16.5                                                             |
-| Mean number of injections from Week 52 to 96                          |                                                                                                   | 4.2                                                                                               |                                                                  | 4.7                                                              |
-| Proportion of patients with < 15 letters loss from baseline (PPS A) ) | 95.33% B)                                                                                         | 92.42%                                                                                            | 94.42% B)                                                        | 91.60%                                                           |
-| Difference C) (95% CI) D)                                             | 0.9% (-1.7, 3.5) F)                                                                               | 0.8% (-2.3, 3.8) F)                                                                               |                                                                  |                                                                  |
-| Mean change inBCVAas measured by ETDRS A) letter score from baseline  | 8.40                                                                                              | 7.62                                                                                              | 8.74                                                             | 7.89                                                             |
-| Difference in LS A) mean change (ETDRS letters) C) (95% CI) D)        | -0.32 (-1.87, 1.23)                                                                               | -0.25 (-1.98, 1.49)                                                                               |                                                                  |                                                                  |
-| Proportion of patients with ≥ 15 letters gain from baseline           | 30.97%                                                                                            | 33.44%                                                                                            | 32.44%                                                           | 31.60%                                                           |
-| Difference C) (95% CI) D)                                             | -1.5% (-6.8, 3.8)                                                                                 | 1.8% (-3.5, 7.1)                                                                                  |                                                                  |                                                                  |
-
-- A)   BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study LS: Least square means derived from ANCOVA PPS: Per Protocol Set
-- B)   Full Analysis Set (FAS), Last Observation Carried Forward (LOCF) for all analyses except proportion of patients with maintained visual acuity at week 52 which is PPS
-- C) The difference is the value of the aflibercept group minus the value of the ranibizumab group. A positive value favours aflibercept.
-- D) Confidence interval (CI) calculated by normal approximation
-- E) After treatment initiation with three monthly doses
-- F) A confidence interval lying entirely above -10% indicates a non-inferiority of aflibercept to ranibizumab
+| Efficacy Outcome                                                       | Aflibercept 2Q8 E) (aflibercept 2 mg every 8 weeks following 3 initial monthly doses) (N = 607) - Week 52   | Aflibercept 2Q8 E) (aflibercept 2 mg every 8 weeks following 3 initial monthly doses) (N = 607) - Week 96   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595) - Week 52   | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595) - Week 96   |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Mean number of injections from baseline                                | 7.6                                                                                                         | 11.2                                                                                                        | 12.3                                                                       | 16.5                                                                       |
+| Mean number of injections from Week 52 to 96                           |                                                                                                             | 4.2                                                                                                         |                                                                            | 4.7                                                                        |
+| Proportion of patients with < 15 letters loss from baseline (PPS A) )  | 95.33% B)                                                                                                   | 92.42%                                                                                                      | 94.42% B)                                                                  | 91.60%                                                                     |
+| Difference C) (95% CI) D)                                              | 0.9% (-1.7, 3.5) F)                                                                                         | 0.8% (-2.3, 3.8) F)                                                                                         |                                                                            |                                                                            |
+| Mean change in BCVA as measured by ETDRS A) letter score from baseline | 8.40                                                                                                        | 7.62                                                                                                        | 8.74                                                                       | 7.89                                                                       |
+| Difference in LS A) mean change (ETDRS letters) C) (95% CI) D)         | -0.32 (-1.87, 1.23)                                                                                         | -0.25 (-1.98, 1.49)                                                                                         |                                                                            |                                                                            |
+| Proportion of patients with ≥ 15 letters gain from baseline            | 30.97%                                                                                                      | 33.44%                                                                                                      | 32.44%                                                                     | 31.60%                                                                     |
+| Difference C) (95% CI) D)                                              | -1.5% (-6.8, 3.8)                                                                                           | 1.8% (-3.5, 7.1)                                                                                            |                                                                            |                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1 . Mean Change in Visual Acuity from Baseline to Week 96 for the Combined Data from the View1 and View2 Studies
+Figure 1. Mean Change in Visual Acuity from Baseline to Week 96 for the Combined Data from the View1 and View2 Studies
 
 <!-- image -->
 
@@ -1229,15 +1194,15 @@ The primary efficacy endpoint was mean change in BCVA from baseline to week 52. 
 
 <div style=\"page-break-after: always\"></div>
 
-At week 52, patients in the treat-and-extend arm with 2-week adjustments gained a mean of 9.0 letters from baseline as compared to 8.4 letters for those in the 4-week adjustment group [LS mean difference in letters (95% CI): -0.4 (-3.8,3.0), ANCOVA]. The proportion of patients who did not lose ≥15 letters in the two treatment arms was similar (96.7% in the 2-week and 95.9% in the 4-week adjustment groups). The proportion of patients who gained ≥15 letters at week 52 was 32.5% in the 2 -week adjustment group and 30.9% in the 4-week adjustment group. The proportion of patients who extended their treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6% in the 4-week adjustment group. Furthermore, in the 4-week adjustment group 40.7% of patients were extended to 16 week intervals. At the last visit up to week 52, 56. 8% and 57.8% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
+At week 52, patients in the treat-and-extend arm with 2-week adjustments gained a mean of 9.0 letters from baseline as compared to 8.4 letters for those in the 4-week adjustment group [LS mean difference in letters (95% CI): -0.4 (-3.8,3.0), ANCOVA]. The proportion of patients who did not lose ≥15 letters in the two treatment arms was similar (96.7% in the 2-week and 95.9% in the 4-week adjustment groups). The proportion of patients who gained ≥15 letters at week 52 was 32.5% in the 2-week adjustment group and 30.9% in the 4-week adjustment group. The proportion of patients who extended their treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6% in the 4-week adjustment group. Furthermore, in the 4-week adjustment group 40.7% of patients were extended to 16 week intervals. At the last visit up to week 52, 56. 8% and 57.8% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
 
 In the second year of the study, efficacy was generally maintained up to and including the last assessment at week 96, with a mean gain from baseline of 7.6 letters for the 2-week adjustment group and 6.1 letters for the 4-week adjustment group. The proportion of patients who extended their treatment interval to 12 weeks or beyond was 56.9% in the 2-week adjustment group and 60.2% in the 4-week adjustment group. At the last visit prior to week 96, 64.9% and 61.2% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond. During the second year of treatment patients in both the 2-week and 4-week adjustment groups received an average of 3.6 and 3.7 injections, respectively. Over the 2 year treatment period patients received an average of 10.4 injections.
 
 Ocular and systemic safety profiles were similar to the safety observed in the pivotal studies VIEW 1 and VIEW 2.
 
-ARIES was a 104-week multicentre, randomised, open-label, active-controlled study in 269 patients with treatment naïve wet AMD, designed to assess the non -inferiority in terms of efficacy as well as the safety of a treat-and-extend dosing regimen initiated after 3 consecutive monthly doses followed by extension to a 2 monthly treatment interval vs. a treat-and-extend dosing regimen initiated after the first year of treatment.
+ARIES was a 104-week multicentre, randomised, open-label, active-controlled study in 269 patients with treatment naïve wet AMD, designed to assess the non-inferiority in terms of efficacy as well as the safety of a treat-and-extend dosing regimen initiated after 3 consecutive monthly doses followed by extension to a 2 monthly treatment interval vs. a treat-and-extend dosing regimen initiated after the first year of treatment.
 
-The ARIES study also explored the percentage of patients that required more frequent treatment than every 8 weeks based on the investigator's decision. Out of the 269 patients 62 patients received more frequent dosing at least once during the course of the study. Such patients remained in the study and received treatment according to the investigator's best clinical judgement but not more frequently than every 4 weeks and their treatment intervals could be extended again afterwards. The average treatment interval after the decision to treat more frequently was 6.1 weeks. Week 104 BCVA was lower in patients requiring more intensive treatment at least once over the course of the study compared with patients who did not and the mean change in BCVA from baseline to end of the study was +2.3 ± 15.6  letters. Among the patients treated more frequently, 85.5% maintained vision, i.e. lost less than 15 letters, and 19.4% gained 15 letters or more. The safety profile of patients treated more frequently than every 8 weeks was comparable to the safety data in VIEW 1 and VIEW 2.
+The ARIES study also explored the percentage of patients that required more frequent treatment than every 8 weeks based on the investigator's decision. Out of the 269 patients 62 patients received more frequent dosing at least once during the course of the study. Such patients remained in the study and received treatment according to the investigator's best clinical judgement but not more frequently than every 4 weeks and their treatment intervals could be extended again afterwards. The average treatment interval after the decision to treat more frequently was 6.1 weeks. Week 104 BCVA was lower in patients requiring more intensive treatment at least once over the course of the study compared with patients who did not and the mean change in BCVA from baseline to end of the study was +2.3 ± 15.6 letters. Among the patients treated more frequently, 85.5% maintained vision, i.e. lost less than 15 letters, and 19.4% gained 15 letters or more. The safety profile of patients treated more frequently than every 8 weeks was comparable to the safety data in VIEW 1 and VIEW 2.
 
 ## Macular oedema secondary to CRVO
 
@@ -1257,33 +1222,21 @@ Detailed results from the analysis of both studies are shown in Table 3 and Figu
 
 Table 3: Efficacy outcomes at week 24, week 52 and week 76/100 (Full Analysis Set with LOCF C) ) in COPERNICUS and GALILEO studies
 
-| Efficacy Outcomes                                                              | COPERNICUS                    | COPERNICUS       | COPERNICUS                    | COPERNICUS          | COPERNICUS                    | COPERNICUS           | GALILEO                       | GALILEO          | GALILEO                       | GALILEO          | GALILEO                        | GALILEO             |
-|--------------------------------------------------------------------------------|-------------------------------|------------------|-------------------------------|---------------------|-------------------------------|----------------------|-------------------------------|------------------|-------------------------------|------------------|--------------------------------|---------------------|
-| Efficacy Outcomes                                                              | 24 Weeks                      | 24 Weeks         | 52 Weeks                      | 52 Weeks            | 100 Weeks                     | 100 Weeks            | 24 Weeks                      | 24 Weeks         | 52 Weeks                      | 52 Weeks         | 76 Weeks                       | 76 Weeks            |
-| Efficacy Outcomes                                                              | Aflibercept 2mg Q4 (N= 114)   | Control (N = 73) | Aflibercept 2 mg (N= 114)     | Control E) (N = 73) | Aflibercept F) 2 mg (N = 114) | Control E,F) ( N=73) | Aflibercept 2mg Q4 (N= 103)   | Control (N = 68) | Aflibercept 2 mg (N= 103)     | Control (N = 68) | Afliberce pt G) 2 mg (N = 103) | Control G) (N = 68) |
-| Proportion of patients with≥15 letters gain from baseline                      | 56%                           | 12%              | 55%                           | 30%                 | 49.1%                         | 23.3%                | 60%                           | 22%              | 60%                           | 32%              | 57.3%                          | 29.4%               |
-| Weighted difference A,B,E) (95% CI) p-value                                    | 44.8% (33.0, 56.6) p < 0.0001 |                  | 25.9% (11.8, 40.1) p = 0.0006 |                     | 26.7% (13.1, 40.3) p = 0.0003 |                      | 38.3% (24.4, 52.1) p < 0.0001 |                  | 27.9% (13.0, 42.7) p = 0.0004 |                  | 28.0% (13.3, 42.6) p = 0.0004  |                     |
-| Mean change in BCVA C) as measured by ETDRS C) letter score from baseline (SD) | 17.3 (12.8)                   | -4.0 (18.0)      | 16.2 (17.4)                   | 3.8 (17.1)          | 13.0 (17.7)                   | 1.5 (17.7)           | 18.0 (12.2)                   | 3.3 (14.1)       | 16.9 (14.8)                   | 3.8 (18.1)       | 13.7 (17.8)                    | 6.2 (17.7)          |
-| Difference in LSmean A,C,D,E) (95% CI) p-value                                 | 21.7 (17.4, 26.0) p < 0.0001  |                  | 12.7 (7.7, 17.7) p < 0.0001   |                     | 11.8 (6.7, 17.0) p < 0.0001   |                      | 14.7 (10.8, 18.7) p < 0.0001  |                  | 13.2 (8.2, 18.2) p < 0.0001   |                  | 7.6 (2.1, 13.1) p = 0.0070     |                     |
-
-A) Difference is aflibercept 2 mg Q4 weeks minus control
-
-B) Difference and confidence interval (CI) are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (&gt;20/200 and ≤20/200)
-
-C)   BCVA: Best Corrected Visual Acuity
-
-ETDRS: Early Treatment Diabetic Retinopathy Study
-
-LOCF: Last Observation Carried Forward
+| Efficacy Outcomes                                                              | COPERNICUS - 24 Weeks - Aflibercept 2 mg Q4 (N = 114)   | COPERNICUS - 24 Weeks - Control (N = 73)   | COPERNICUS - 52 Weeks - Aflibercept 2 mg (N = 114)   | COPERNICUS - 52 Weeks - Control E) (N = 73)   | COPERNICUS - 100 Weeks - Aflibercept F) 2 mg (N = 114)   | COPERNICUS - 100 Weeks - Control E,F) (N=73)   | GALILEO - 24 Weeks - Aflibercept 2 mg Q4 (N = 103)   | GALILEO - 24 Weeks - Control (N = 68)   | GALILEO - 52 Weeks - Aflibercept 2 mg (N = 103)   | GALILEO - 52 Weeks - Control (N = 68)   | GALILEO - 76 Weeks - Afliberce pt G) 2 mg (N = 103)   | GALILEO - 76 Weeks - Control G) (N = 68)   |
+|--------------------------------------------------------------------------------|---------------------------------------------------------|--------------------------------------------|------------------------------------------------------|-----------------------------------------------|----------------------------------------------------------|------------------------------------------------|------------------------------------------------------|-----------------------------------------|---------------------------------------------------|-----------------------------------------|-------------------------------------------------------|--------------------------------------------|
+| Proportion of patients with≥15 letters gain from baseline                      | 56%                                                     | 12%                                        | 55%                                                  | 30%                                           | 49.1%                                                    | 23.3%                                          | 60%                                                  | 22%                                     | 60%                                               | 32%                                     | 57.3%                                                 | 29.4%                                      |
+| Weighted difference A,B,E) (95% CI) p-value                                    | 44.8% (33.0, 56.6) p < 0.0001                           |                                            | 25.9% (11.8, 40.1) p = 0.0006                        |                                               | 26.7% (13.1, 40.3) p = 0.0003                            |                                                | 38.3% (24.4, 52.1) p < 0.0001                        |                                         | 27.9% (13.0, 42.7) p = 0.0004                     |                                         | 28.0% (13.3, 42.6) p = 0.0004                         |                                            |
+| Mean change in BCVA C) as measured by ETDRS C) letter score from baseline (SD) | 17.3 (12.8)                                             | -4.0 (18.0)                                | 16.2 (17.4)                                          | 3.8 (17.1)                                    | 13.0 (17.7)                                              | 1.5 (17.7)                                     | 18.0 (12.2)                                          | 3.3 (14.1)                              | 16.9 (14.8)                                       | 3.8 (18.1)                              | 13.7 (17.8)                                           | 6.2 (17.7)                                 |
+| Difference in LS mean A,C,D,E) (95% CI) p-value                                | 21.7 (17.4, 26.0) p < 0.0001                            |                                            | 12.7 (7.7, 17.7) p < 0.0001                          |                                               | 11.8 (6.7, 17.0) p < 0.0001                              |                                                | 14.7 (10.8, 18.7) p < 0.0001                         |                                         | 13.2 (8.2, 18.2) p < 0.0001                       |                                         | 7.6 (2.1, 13.1) p = 0.0070                            |                                            |
 
 <div style=\"page-break-after: always\"></div>
 
 - SD: Standard deviation
 - LS: Least square means derived from ANCOVA
-- D)   LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (&gt;20/200 and ≤20/200)
-- E)   In COPERNICUS study, control group patients could receive aflibercept on an as-needed basis as frequently as every 4 weeks during week 24 to week 52; patients had visits every 4 weeks.
-- F)   In COPERNICUS study, both control group and aflibercept 2 mg patients received aflibercept 2 mg on an as-needed basis as frequently as every 4 weeks starting from week 52 to week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
-- G)   In GALILEO study, both control group and aflibercept 2 mg patients received aflibercept 2 mg on an as-needed basis every 8 weeks starting from week 52 to week 68; patients had mandatory visits every 8 weeks.
+- D) LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (&gt;20/200 and ≤20/200)
+- E) In COPERNICUS study, control group patients could receive aflibercept on an as-needed basis as frequently as every 4 weeks during week 24 to week 52; patients had visits every 4 weeks.
+- F) In COPERNICUS study, both control group and aflibercept 2 mg patients received aflibercept 2 mg on an as-needed basis as frequently as every 4 weeks starting from week 52 to week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
+- G) In GALILEO study, both control group and aflibercept 2 mg patients received aflibercept 2 mg on an as-needed basis every 8 weeks starting from week 52 to week 68; patients had mandatory visits every 8 weeks.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1303,7 +1256,7 @@ In combined data analysis of GALILEO and COPERNICUS, aflibercept demonstrated cl
 
 ## Macular oedema secondary to BRVO
 
-The safety and efficacy of aflibercept were assessed in a randomised, multi-centre, double-masked, active- controlled study in patients with macular oedema secondary to BRVO (VIBRANT) which included Hemi-Retinal Vein Occlusion. A total of 181 patients were treated and evaluable for efficacy (91 with aflibercept ). Patient ages ranged from 42 to 94 years with a mean of 65 years. In the BRVO study, approximately 58% (53/91) of the patients randomised to treatment with aflibercept were 65 years of age or older, and approximately 23% (21/91) were 75 years of age or older. In the study, patients were randomly assigned in a 1:1 ratio to either 2 mg aflibercept administered every 8 weeks following 6 initial monthly injections or laser photocoagulation administered at baseline (laser control group). Patients in the laser control group could receive additional laser photocoagulation (called 'rescue laser treatment') beginning at week 12 with a minimum interval of 12 weeks. Based on prespecified criteria, patients in the laser group could receive rescue treatment with aflibercept 2 mg from week 24, administered every 4 weeks for 3 months followed by every 8 weeks.
+The safety and efficacy of aflibercept were assessed in a randomised, multi-centre, double-masked, active- controlled study in patients with macular oedema secondary to BRVO (VIBRANT) which included Hemi-Retinal Vein Occlusion. A total of 181 patients were treated and evaluable for efficacy (91 with aflibercept). Patient ages ranged from 42 to 94 years with a mean of 65 years. In the BRVO study, approximately 58% (53/91) of the patients randomised to treatment with aflibercept were 65 years of age or older, and approximately 23% (21/91) were 75 years of age or older. In the study, patients were randomly assigned in a 1:1 ratio to either 2 mg aflibercept administered every 8 weeks following 6 initial monthly injections or laser photocoagulation administered at baseline (laser control group). Patients in the laser control group could receive additional laser photocoagulation (called 'rescue laser treatment') beginning at week 12 with a minimum interval of 12 weeks. Based on prespecified criteria, patients in the laser group could receive rescue treatment with aflibercept 2 mg from week 24, administered every 4 weeks for 3 months followed by every 8 weeks.
 
 In the VIBRANT study, the primary efficacy endpoint was the proportion of patients who gained at least 15 letters in BCVA at week 24 compared to baseline and the aflibercept group was superior to laser control.
 
@@ -1317,19 +1270,15 @@ Detailed results from the analysis of the VIBRANT study are shown in Table 4 and
 
 Table 4: Efficacy outcomes at week 24 and week 52 (Full Analysis Set with LOCF) in VIBRANT study
 
-| Efficacy Outcomes                                                        | VIBRANT                       | VIBRANT                         | VIBRANT                       | VIBRANT                                             |
-|--------------------------------------------------------------------------|-------------------------------|---------------------------------|-------------------------------|-----------------------------------------------------|
-|                                                                          | 24 Weeks                      | 24 Weeks                        | 52 Weeks                      | 52 Weeks                                            |
-|                                                                          | Aflibercept 2 mgQ4 (N = 91)   | Active Control (laser) (N = 90) | Aflibercept 2mgQ8 (N = 91) D) | Active Control (laser)/ Aflibercept 2mg E) (N = 90) |
-| Proportion of patients with ≥15 letters gain from Baseline (%)           | 52.7%                         | 26.7%                           | 57.1%                         | 41.1%                                               |
-| Weighted Difference A,B) (%) (95% CI) p-value                            | 26.6% (13.0, 40.1) p = 0.0003 |                                 | 16.2% (2.0, 30.5) p = 0.0296  |                                                     |
-| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 (11.9)                   | 6.9 (12.9)                      | 17.1 (13.1)                   | 12.2 (11.9)                                         |
-| Difference in LS mean A,C) (95% CI) p-value                              | 10.5 (7.1, 14.0) p<0.0001     |                                 | 5.2 (1.7, 8.7) p = 0.0035 F)  |                                                     |
-
-A) Difference is aflibercept 2 mg Q4 weeks minus Laser Control
+| Efficacy Outcomes                                                        | VIBRANT - 24 Weeks - Aflibercept 2 mg Q4 (N = 91)   | VIBRANT - 24 Weeks - Active Control (laser) (N = 90)   | VIBRANT - 52 Weeks - Aflibercept 2mg Q8 (N = 91) D)   | VIBRANT - 52 Weeks - Active Control (laser)/ Aflibercept 2mg E) (N = 90)   |
+|--------------------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------|
+| Proportion of patients with ≥15 letters gain from Baseline (%)           | 52.7%                                               | 26.7%                                                  | 57.1%                                                 | 41.1%                                                                      |
+| Weighted Difference A,B) (%) (95% CI) p-value                            | 26.6% (13.0, 40.1) p = 0.0003                       |                                                        | 16.2% (2.0, 30.5) p = 0.0296                          |                                                                            |
+| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 (11.9)                                         | 6.9 (12.9)                                             | 17.1 (13.1)                                           | 12.2 (11.9)                                                                |
+| Difference in LS mean A,C) (95% CI) p-value                              | 10.5 (7.1, 14.0) p<0.0001                           |                                                        | 5.2 (1.7, 8.7) p = 0.0035 F)                          |                                                                            |
 
 - B) Difference and 95% CI are calculated using Mantel-Haenszel weighting scheme adjusted for region (North America vs. Japan) and baseline BCVA category (&gt; 20/200 and ≤ 20/200)
-- C) LS mean difference and 95% CI based on an ANCOVA model with treatment group, baseline BCVA category  (&gt; 20/200 and ≤ 20/200) and region (North America vs. Japan) as fixed effects, and baseline BCVA as covariate.
+- C) LS mean difference and 95% CI based on an ANCOVA model with treatment group, baseline BCVA category (&gt; 20/200 and ≤ 20/200) and region (North America vs. Japan) as fixed effects, and baseline BCVA as covariate.
 - D) From week 24 on the treatment interval in the aflibercept treatment group was extended for all subjects from 4 weeks to 8 weeks through week 48.
 - E) Beginning at week 24 subjects in the Laser Group could receive rescue treatment with aflibercept, if they met at least one pre-specified eligibility criterion. At total of 67 subjects in this group received aflibercept rescue treatment. The fixed regimen for aflibercept rescue was three times aflibercept 2 mg every 4 weeks followed by injections every 8 weeks.
 
@@ -1345,7 +1294,7 @@ At baseline, the proportion of perfused patients in the aflibercept and laser gr
 
 ## Diabetic macular oedema
 
-The safety and efficacy of aflibercept were assessed in two randomised, multi-centre, double-masked, active-controlled studies in patients with DME (VIVID DME  and VISTA DME ). A total of 862 patients were treated and evaluable for efficacy, 576 with aflibercept. Patient ages ranged from 23 to 87 years with a mean of 63 years. In the DME studies, approximately 47% (268/576) of the patients randomised to treatment with aflibercept were 65 years of age or older, and approximately 9% (52/576) were 75 years of age or older. The majority of patients in both studies had Type II diabetes.
+The safety and efficacy of aflibercept were assessed in two randomised, multi-centre, double-masked, active-controlled studies in patients with DME (VIVID DME and VISTA DME ). A total of 862 patients were treated and evaluable for efficacy, 576 with aflibercept. Patient ages ranged from 23 to 87 years with a mean of 63 years. In the DME studies, approximately 47% (268/576) of the patients randomised to treatment with aflibercept were 65 years of age or older, and approximately 9% (52/576) were 75 years of age or older. The majority of patients in both studies had Type II diabetes.
 
 In both studies, patients were randomly assigned in a 1:1:1 ratio to 1 of 3 dosing regimens:
 
@@ -1357,31 +1306,27 @@ Beginning at week 24, patients meeting a pre-specified threshold of vision loss 
 
 In both studies, the primary efficacy endpoint was the mean change from baseline in BCVA at week 52 and both aflibercept 2Q8 and aflibercept 2Q4 groups demonstrated statistical significance and were superior to the control group. This benefit was maintained through week 100.
 
-Detailed results from the analysis of the VIVID DME  and VISTA DME  studies are shown in Table 5 and Figure 4 below.
+Detailed results from the analysis of the VIVID DME and VISTA DME studies are shown in Table 5 and Figure 4 below.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 5: Efficacy outcomes at week 52 and week 100 (Full Analysis Set with LOCF) in VIVID DME  and VISTA DME  studies
+Table 5: Efficacy outcomes at week 52 and week 100 (Full Analysis Set with LOCF) in VIVID DME and VISTA DME studies
 
-| Efficacy Outcomes                                                     | VIVID DME                       | VIVID DME                   | VIVID DME                        | VIVID DME                       | VIVID DME                    | VIVID DME                        | VISTA DME                       | VISTA DME                   | VISTA DME                        | VISTA DME                       | VISTA DME                   | VISTA DME                        |
-|-----------------------------------------------------------------------|---------------------------------|-----------------------------|----------------------------------|---------------------------------|------------------------------|----------------------------------|---------------------------------|-----------------------------|----------------------------------|---------------------------------|-----------------------------|----------------------------------|
-| Efficacy Outcomes                                                     | 52 Weeks                        | 52 Weeks                    | 52 Weeks                         | 100 Weeks                       | 100 Weeks                    | 100 Weeks                        | 52 Weeks                        | 52 Weeks                    | 52 Weeks                         | 100 Weeks                       | 100 Weeks                   | 100 Weeks                        |
-| Efficacy Outcomes                                                     | Aflibercept 2 mg Q8 A (N = 135) | Aflibercept 2mgQ4 (N = 136) | Active Control (laser) (N = 132) | Aflibercept 2 mg Q8 A (N = 135) | Aflibercept 2 mgQ4 (N = 136) | Active Control (laser) (N = 132) | Aflibercept 2 mg Q8 A (N = 151) | Aflibercept 2mgQ4 (N = 154) | Active Control (laser) (N = 154) | Aflibercept 2 mg Q8 A (N = 151) | Aflibercept 2mgQ4 (N = 154) | Active Control (laser) (N = 154) |
-| Mean change in BCVA as measured by ETDRS E letter score from Baseline | 10.7                            | 10.5                        | 1.2                              | 9.4                             | 11.4                         | 0.7                              | 10.7                            | 12.5                        | 0.2                              | 11.1                            | 11.5                        | 0.9                              |
-| Difference in LS mean B,C,E (97.5% CI)                                | 9.1 (6.3, 11.8)                 | 9.3 (6.5, 12.0)             |                                  | 8.2 (5.2, 11.3)                 | 10.7 (7.6, 13.8)             |                                  | 10.45 (7.7, 13.2)               | 12.19 (9.4, 15.0)           |                                  | 10.1 (7.0, 13.3)                | 10.6 (7.1, 14.2)            |                                  |
-| Proportion of patients with ≥ 15 letters gain from Baseline           | 33%                             | 32%                         | 9%                               | 31.1%                           | 38.2%                        | 12.1%                            | 31%                             | 42%                         | 8%                               | 33.1%                           | 38.3%                       | 13.0%                            |
-| Adjusted Difference D,C,E (97.5% CI)                                  | 24% (13.5, 34.9)                | 23% (12.6, 33.9)            |                                  | 19.0% (8.0, 29.9)               | 26.1% (14.8, 37.5)           |                                  | 23% (13.5, 33.1)                | 34% (24.1, 44.4)            |                                  | 20.1% (9.6, 30.6)               | 25.8% (15.1, 36.6)          |                                  |
+| Efficacy Outcomes                                                     | VIVID DME - 52 Weeks - Aflibercept 2 mg Q8 A (N = 135)   | VIVID DME - 52 Weeks - Aflibercept 2 mg Q4 (N = 136)   | VIVID DME - 52 Weeks - Active Control (laser) (N = 132)   | VIVID DME - 100 Weeks - Aflibercept 2 mg Q8 A (N = 135)   | VIVID DME - 100 Weeks - Aflibercept 2 mg Q4 (N = 136)   | VIVID DME - 100 Weeks - Active Control (laser) (N = 132)   | VISTA DME - 52 Weeks - Aflibercept 2 mg Q8 A (N = 151)   | VISTA DME - 52 Weeks - Aflibercept 2 mg Q4 (N = 154)   | VISTA DME - 52 Weeks - Active Control (laser) (N = 154)   | VISTA DME - 100 Weeks - Aflibercept 2 mg Q8 A (N = 151)   | VISTA DME - 100 Weeks - Aflibercept 2 mg Q4 (N = 154)   | VISTA DME - 100 Weeks - Active Control (laser) (N = 154)   |
+|-----------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|
+| Mean change in BCVA as measured by ETDRS E letter score from Baseline | 10.7                                                     | 10.5                                                   | 1.2                                                       | 9.4                                                       | 11.4                                                    | 0.7                                                        | 10.7                                                     | 12.5                                                   | 0.2                                                       | 11.1                                                      | 11.5                                                    | 0.9                                                        |
+| Difference in LS mean B,C,E (97.5% CI)                                | 9.1 (6.3, 11.8)                                          | 9.3 (6.5, 12.0)                                        |                                                           | 8.2 (5.2, 11.3)                                           | 10.7 (7.6, 13.8)                                        |                                                            | 10.45 (7.7, 13.2)                                        | 12.19 (9.4, 15.0)                                      |                                                           | 10.1 (7.0, 13.3)                                          | 10.6 (7.1, 14.2)                                        |                                                            |
+| Proportion of patients with ≥ 15 letters gain from Baseline           | 33%                                                      | 32%                                                    | 9%                                                        | 31.1%                                                     | 38.2%                                                   | 12.1%                                                      | 31%                                                      | 42%                                                    | 8%                                                        | 33.1%                                                     | 38.3%                                                   | 13.0%                                                      |
+| Adjusted Difference D,C,E (97.5% CI)                                  | 24% (13.5, 34.9)                                         | 23% (12.6, 33.9)                                       |                                                           | 19.0% (8.0, 29.9)                                         | 26.1% (14.8, 37.5)                                      |                                                            | 23% (13.5, 33.1)                                         | 34% (24.1, 44.4)                                       |                                                           | 20.1% (9.6, 30.6)                                         | 25.8% (15.1, 36.6)                                      |                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-A   After treatment initiation with 5 monthly injections
+- A After treatment initiation with 5 monthly injections
+- B LS mean and CI based on an ANCOVA model with baseline BCVA measurement as a covariate and a factor for treatment group. Additionally, region (Europe/Australia vs. Japan) had been included as factor for VIVID DME , and history of MI and/or CVA as a factor for VISTA DME .
+- C Difference is aflibercept group minus active control (laser) group
+- D Difference with confidence interval (CI) and statistical test is calculated using Mantel-Haenszel weighting scheme adjusted by region (Europe/Australia vs. Japan) for VIVID DME and medical history of MI or CVA for VISTA DME
 
-- B   LS mean and CI based on an ANCOVA model with baseline BCVA measurement as a covariate and a factor for treatment group. Additionally, region (Europe/Australia vs. Japan) had been included as factor for VIVID DME , and history of MI and/or CVA as a factor for VISTA DME .
-- C   Difference is aflibercept group minus active control (laser) group
-
-D   Difference with confidence interval (CI) and statistical test is calculated using Mantel-Haenszel weighting scheme adjusted by region (Europe/Australia vs. Japan) for VIVID DME  and medical history of MI or CVA for VISTA DME
-
-E  BCVA: Best Corrected Visual Acuity
+E BCVA: Best Corrected Visual Acuity
 
 ETDRS: Early Treatment Diabetic Retinopathy Study
 
@@ -1392,25 +1337,23 @@ LOCF: Last Observation Carried Forward
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 4: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 100 in VIVID DME  and VISTA DME  Studies
+Figure 4: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 100 in VIVID DME and VISTA DME Studies
 
 <!-- image -->
 
 Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline HbA1c, baseline visual acuity, prior anti-VEGF therapy) in each study and in the combined analysis were generally consistent with the results in the overall populations.
 
-In the VIVID DME  and VISTA DME  studies, 36 (9%) and 197 (43%) patients received prior anti-VEGF therapy, respectively, with a 3-month or longer washout period. Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor were similar to those seen in patients who were VEGF inhibitor naïve.
+In the VIVID DME and VISTA DME studies, 36 (9%) and 197 (43%) patients received prior anti-VEGF therapy, respectively, with a 3-month or longer washout period. Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor were similar to those seen in patients who were VEGF inhibitor naïve.
 
-Patients with bilateral disease were eligible to receive anti-VEGF treatment in their fellow eye if assessed necessary by the physician. In the VISTA DME  study, 217 (70.7%) of aflibercept patients received bilateral aflibercept injections until week 100; in the VIVID DME  study, 97 (35.8%) of aflibercept patients received a different anti-VEGF treatment in their fellow eye.
+Patients with bilateral disease were eligible to receive anti-VEGF treatment in their fellow eye if assessed necessary by the physician. In the VISTA DME study, 217 (70.7%) of aflibercept patients received bilateral aflibercept injections until week 100; in the VIVID DME study, 97 (35.8%) of aflibercept patients received a different anti-VEGF treatment in their fellow eye.
 
-An independent comparative trial (DRCR.net Protocol T) utilised a flexible dosing regimen based on strict OCT and vision re-treatment criteria. In the aflibercept treatment group (n = 224) at week 52, this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the aflibercept 2Q8 group in VIVID DME  and VISTA DME , while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the aflibercept 2Q8 group in VIVID DME  and VISTA DME . A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidences of ocular and non-ocular adverse events (including ATEs) were comparable across all
+An independent comparative trial (DRCR.net Protocol T) utilised a flexible dosing regimen based on strict OCT and vision re-treatment criteria. In the aflibercept treatment group (n = 224) at week 52, this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the aflibercept 2Q8 group in VIVID DME and VISTA DME , while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the aflibercept 2Q8 group in VIVID DME and VISTA DME . A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidences of ocular and non-ocular adverse events (including ATEs) were comparable across all treatment groups in each of the studies and between the studies.
 
 <div style=\"page-break-after: always\"></div>
 
-treatment groups in each of the studies and between the studies.
-
 VIOLET, a 100-week multicentre, randomised, open-label, active controlled study in patients with DME compared three different dosing regimens of aflibercept 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses followed by dosing every 2 months. The study evaluated non-inferiority of aflibercept 2 mg dosed according to a treat-and-extend regimen (2T&amp;E where injections intervals were kept at a minimum of 8 weeks and gradually extended based on clinical and anatomical outcomes) and aflibercept 2 mg dosed as needed (2PRN where patients were observed every 4 weeks and injected when needed based on clinical and anatomical outcomes), compared to aflibercept 2 mg dosed every 8 weeks (2Q8) for the second and third year of treatment.
 
-The primary efficacy endpoint (change in BCVA from baseline to week 52) was 0.5 ± 6.7 letters in the 2T&amp;E group and 1.7 ± 6.8 letters in the 2PRN group compared to 0.4 ± 6.7 letters in the 2Q8 group, achieving statistical non-inferiority (p&lt;0.0001 for both comparisons; NI margin 4 letters). The changes in BCVA from baseline to week 100 were consistent with the week 52 results: 0.1 ± 9.1 letters in the 2T&amp;E group and 1.8 ± 9.0 letters in the 2PRN group compared to 0.1 ± 7.2 letters in the 2Q8 group. The mean number of injections over 100 weeks were 12.3, 10.0 and 11.5 for 2Q8fix, 2T&amp;E and 2PRN, respectively.
+The primary efficacy endpoint (change in BCVA from baseline to week 52) was 0.5 ± 6.7 letters in the 2T&amp;E group and 1.7 ± 6.8 letters in the 2PRN group compared to 0.4 ± 6.7 letters in the 2Q8 group, achieving statistical non-inferiority (p&lt;0.0001 for both comparisons; NI margin 4 letters). The changes in BCVA from baseline to week 100 were consistent with the week 52 results: -0.1 ± 9.1 letters in the 2T&amp;E group and 1.8 ± 9.0 letters in the 2PRN group compared to 0.1 ± 7.2 letters in the 2Q8 group. The mean number of injections over 100 weeks were 12.3, 10.0 and 11.5 for 2Q8fix, 2T&amp;E and 2PRN, respectively.
 
 Ocular and systemic safety profiles in all 3 treatment groups were similar to those observed in the pivotal studies VIVID and VISTA.
 
@@ -1418,7 +1361,7 @@ In the 2T&amp;E group, the increments and decrements for the injection intervals
 
 ## Myopic choroidal neovascularisation
 
-The safety and efficacy of aflibercept were assessed in a randomised, multi-centre, double-masked, sham- controlled study in treatmentnaïve, Asian patients with myopic CNV. A total of 121 patients were treated and evaluable for efficacy (90 with aflibercept). Patient ages ranged from 27 to 83 years with a mean of 58 years. In the myopic CNV study, approximately 36% (33/91) of the patients randomised to treatment with aflibercept were 65 years of age or older, and approximately 10% (9/91) were 75 years of age or older.
+The safety and efficacy of aflibercept were assessed in a randomised, multi-centre, double-masked, sham- controlled study in treatment-naïve, Asian patients with myopic CNV. A total of 121 patients were treated and evaluable for efficacy (90 with aflibercept). Patient ages ranged from 27 to 83 years with a mean of 58 years. In the myopic CNV study, approximately 36% (33/91) of the patients randomised to treatment with aflibercept were 65 years of age or older, and approximately 10% (9/91) were 75 years of age or older.
 
 Patients were randomly assigned in a 3:1 ratio to receive either 2 mg aflibercept intravitreally or sham injections administered once at study start with additional injections given monthly in case of disease persistence or recurrence until week 24, when the primary endpoint was assessed. At week 24, patients initially randomised to sham were eligible to receive the first dose of aflibercept. Following this, patients in both groups continued to be eligible for additional injections in case of disease persistence or recurrence.
 
@@ -1430,23 +1373,20 @@ Detailed results from the analysis of the MYRROR study are shown in Table 6 and 
 
 Table 6: Efficacy outcomes at week 24 (primary analysis) and week 48 in MYRROR study (Full Analysis Set with LOCF A) )
 
-| Efficacy Outcomes                                                              | MYRROR                    | MYRROR        | MYRROR                    | MYRROR                          |
-|--------------------------------------------------------------------------------|---------------------------|---------------|---------------------------|---------------------------------|
-|                                                                                | 24 Weeks                  | 24 Weeks      | 48 Weeks                  | 48 Weeks                        |
-|                                                                                | Aflibercept 2 mg (N = 90) | Sham (N = 31) | Aflibercept 2 mg (N = 90) | Sham/ Aflibercept 2 mg (N = 31) |
-| Mean change in BCVA B) as measured by ETDRS letter score from baseline (SD) B) | 12.1 (8.3)                | -2.0 (9.7)    | 13.5 (8.8)                | 3.9 (14.3)                      |
-| Difference in LS mean C,D,E) (95% CI)                                          | 14.1 (10.8, 17.4)         |               | 9.5 (5.4, 13.7)           |                                 |
-| Proportion of patients with ≥15 letters gain from baseline                     | 38.9%                     | 9.7 %         | 50.0%                     | 29.0%                           |
-| Weighted difference D, F) (95% CI)                                             | 29.2% (14.4, 44.0)        |               | 21.0% (1.9, 40.1)         |                                 |
+| Efficacy Outcomes                                                              | MYRROR - 24 Weeks - Aflibercept 2 mg (N = 90)   | MYRROR - 24 Weeks - Sham (N = 31)   | MYRROR - 48 Weeks - Aflibercept 2 mg (N = 90)   | MYRROR - 48 Weeks - Sham/ Aflibercept 2 mg (N = 31)   |
+|--------------------------------------------------------------------------------|-------------------------------------------------|-------------------------------------|-------------------------------------------------|-------------------------------------------------------|
+| Mean change in BCVA B) as measured by ETDRS letter score from baseline (SD) B) | 12.1 (8.3)                                      | -2.0 (9.7)                          | 13.5 (8.8)                                      | 3.9 (14.3)                                            |
+| Difference in LS mean C,D,E) (95% CI)                                          | 14.1 (10.8, 17.4)                               |                                     | 9.5 (5.4, 13.7)                                 |                                                       |
+| Proportion of patients with ≥15 letters gain from baseline                     | 38.9%                                           | 9.7 %                               | 50.0%                                           | 29.0%                                                 |
+| Weighted difference D, F) (95% CI)                                             | 29.2% (14.4, 44.0)                              |                                     | 21.0% (1.9, 40.1)                               |                                                       |
 
-- A) LOCF: Last Observation Carried Forward
-- B) BCVA: Best Corrected Visual Acuity ETDRS: Early Treatment Diabetic Retinopathy Study SD: Standard Deviation
+- A) LOCF: Last Observation Carried Forward SD: Standard Deviation
 - C) LS mean: Least square means derived from ANCOVA model
 - D) CI: Confidence Interval
 - E) LS mean difference and 95% CI based on an ANCOVA model with treatment group and country (country designations) as fixed effects, and baseline BCVA as covariant.
 - F) Difference and 95% CI are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for country (country designations)
 
-Figure 5 : Mean Change from Baseline to Week 48 in Visual Acuity by Treatment Group for the MYRROR Study (Full Analysis Set, LOCF)
+Figure 5: Mean Change from Baseline to Week 48 in Visual Acuity by Treatment Group for the MYRROR Study (Full Analysis Set, LOCF)
 
 <!-- image -->
 
@@ -1462,7 +1402,7 @@ Aflibercept is administered directly into the vitreous to exert local effects in
 
 ## Absorption / Distribution
 
-Aflibercept is slowly absorbed from the eye into the systemic circulation after intravitreal administration and is predominately observed in the systemic circulation as an inactive, stable complex with VEGF; however only 'free aflibercept ' is able to bind endogenous VEGF.
+Aflibercept is slowly absorbed from the eye into the systemic circulation after intravitreal administration and is predominately observed in the systemic circulation as an inactive, stable complex with VEGF; however only \"free aflibercept\" is able to bind endogenous VEGF.
 
 In a pharmacokinetic sub-study in 6 neovascular wet AMD patients with frequent sampling, maximum plasma concentrations of free aflibercept (systemic Cmax) were low, with a mean of approximately 0.02 microgram/mL (range 0 to 0.054) within 1 to 3 days after a 2 mg intravitreal injection, and were undetectable two weeks following dosage in almost all patients. Aflibercept does not accumulate in the plasma when administered intravitreally every 4 weeks.
 
@@ -1482,7 +1422,7 @@ No special studies in patients with renal impairment have been conducted with af
 
 Pharmacokinetic analysis of patients in the VIEW2 study, of which 40% had renal impairment (24% mild, 15% moderate, and 1% severe), revealed no differences with respect to plasma concentrations of active drug after intravitreal administration every 4 or 8 weeks.
 
-Similar results were seen in patients with CRVO in the GALILEO study, in patients with DME in the VIVID DME  study, and in patients with myopic CNV in the MYRROR study.
+Similar results were seen in patients with CRVO in the GALILEO study, in patients with DME in the VIVID DME study, and in patients with myopic CNV in the MYRROR study.
 
 ## 5.3 Preclinical safety data
 
@@ -1494,9 +1434,9 @@ Erosions and ulcerations of the respiratory epithelium in nasal turbinates in mo
 
 No studies have been conducted on the mutagenic or carcinogenic potential of aflibercept.
 
-An effect of aflibercept on intrauterine development was shown in embryo-foetal development studies in pregnant rabbits with intravenous (3 to 60 mg/kg) as well as subcutaneous (0.1 to 1 mg/kg) administration. The maternal NOAEL was at the dose of 3 mg/kg or 1 mg/kg, respectively. A developmental NOAEL was not identified. At the 0.1 mg/kg dose, the systemic exposures based on Cmax  and cumulative AUC for free aflibercept were approximately 17- and 10-fold higher, respectively, when compared to corresponding values observed in humans after an intravitreal dose of 2 mg.
+An effect of aflibercept on intrauterine development was shown in embryo-foetal development studies in pregnant rabbits with intravenous (3 to 60 mg/kg) as well as subcutaneous (0.1 to 1 mg/kg) administration. The maternal NOAEL was at the dose of 3 mg/kg or 1 mg/kg, respectively. A developmental NOAEL was not identified. At the 0.1 mg/kg dose, the systemic exposures based on Cmax and cumulative AUC for free aflibercept were approximately 17- and 10-fold higher, respectively, when compared to corresponding values observed in humans after an intravitreal dose of 2 mg.
 
-Effects on male and female fertility were assessed as part of a 6-month study in monkeys with intravenous administration of aflibercept at doses ranging from 3 to 30 mg/kg. Absent or irregular menses associated with alterations in female reproductive hormone levels and changes in sperm morphology and motility were observed at all dose levels. Based on Cmax and AUC for free aflibercept observed at the 3 mg/kg intravenous dose, the systemic exposures were approximately 4 900-fold and 1,500-fold higher, respectively, than the exposure observed in humans after an intravitreal dose of 2 mg. All changes were reversible.
+Effects on male and female fertility were assessed as part of a 6-month study in monkeys with intravenous administration of aflibercept at doses ranging from 3 to 30 mg/kg. Absent or irregular menses associated with alterations in female reproductive hormone levels and changes in sperm morphology and motility were observed at all dose levels. Based on Cmax and AUC for free aflibercept observed at the 3 mg/kg intravenous dose, the systemic exposures were approximately 4,900-fold and 1,500-fold higher, respectively, than the exposure observed in humans after an intravitreal dose of 2 mg. All changes were reversible.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1524,11 +1464,9 @@ The unopened vial may be stored outside the refrigerator below 25 °C for up to 
 
 ## 6.5 Nature and contents of container
 
-Each carton includes a type I glass vial containing a nominal fill volume of 278 microliters solution for
+Each carton includes a type I glass vial containing a nominal fill volume of 278 microliters solution for intravitreal injection with an elastomeric rubber stopper and aluminium cap, and an 18 G filter needle. Each vial provides a usable amount to deliver a single dose of 50 microliters containing 2 mg aflibercept.
 
 <div style=\"page-break-after: always\"></div>
-
-intravitreal injection with an elastomeric rubber stopper and aluminium cap, and an 18 G filter needle. Each vial provides a usable amount to deliver a single dose of 50 microliters containing 2 mg aflibercept.
 
 Pack size of 1 vial + 1 filter needle.
 
@@ -1556,43 +1494,24 @@ For the intravitreal injection, a 30 G x ½ inch injection needle should be used
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
 3. Push the filter needle into the centre of the vial stopper until the needle is completely inserted into the vial and the tip touches the bottom or bottom edge of the vial.
-
 4. Using aseptic technique withdraw all of the Vgenfli vial contents into the syringe, keeping the vial in an upright position, slightly inclined to ease complete withdrawal. To deter the introduction of air, ensure the bevel of the filter needle is submerged into the liquid. Continue to tilt the vial during withdrawal keeping the bevel of the filter needle submerged in the liquid.
 
-5. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
+<!-- image -->
 
+5. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
 6. Remove the filter needle and properly dispose of it.
 
 Note: Filter needle is not to be used for intravitreal injection.
 
 7. Using aseptic technique, firmly twist a 30 G x ½ inch injection needle onto the Luer-lock syringe tip.
-
 8. Holding the syringe with the needle pointing up, check the syringe for bubbles. If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
 
-60
+<!-- image -->
 
-(（（C838383
+<!-- image -->
 
-NeedleBevel
-
-Solution
-
-PointingDown
-
-Injectionneedle
-
-Luer-lock syringe
-
-0.5
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1600,9 +1519,7 @@ Luer-lock syringe
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83 -200 Starogard Gdański
-
-- Poland
+Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83-200 Starogard Gdański Poland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1610,7 +1527,7 @@ EU/1/25/1961/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 14.08.2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1634,7 +1551,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Mycenax Biotech Inc. 1F, No.6, and 1,2,3,5F., No.8, and 2F., No.10. Kedung 3 rd  Road Jhunan Township Miaoli County 35053 Taiwan (R.O.C.)
+Mycenax Biotech Inc. 1F, No.6, and 1,2,3,5F., No.8, and 2F., No.10. Kedung 3 rd Road Jhunan Township Miaoli County 35053 Taiwan (R.O.C.)
 
 Name and address of the manufacturer responsible for batch release
 
@@ -1663,11 +1580,9 @@ An updated RMP should be submitted:
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the
+If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
 <div style=\"page-break-after: always\"></div>
-
-same time.
 
 ## Pharmacovigilance system
 
@@ -1721,7 +1636,9 @@ PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vgenfli 40 mg/mL solution for injection in pre-filled syringe aflibercept
+Vgenfli 40 mg/mL solution for injection in pre-filled syringe
+
+aflibercept
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCES
 
@@ -1767,11 +1684,11 @@ EXP
 
 Store in a refrigerator. Do not freeze. Store in the original package in order to protect from light. The unopened blister may be stored outside the refrigerator below 25°C for up to 24 hours.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-{logo} Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83 -200 Starogard Gdański Poland
+{logo} Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83-200 Starogard Gdański Poland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1783,17 +1700,17 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -1807,7 +1724,9 @@ BLISTER FOR THE PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vgenfli 40 mg/mL solution for injection aflibercept
+Vgenfli 40 mg/mL solution for injection
+
+aflibercept
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1847,61 +1766,60 @@ EXP
 
 Store in a refrigerator. Do not freeze. Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESSOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|-------|---------------------------------------------------|
+| APPROPRIATE   |
+|---------------|
 
-{logo} Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83 -200 Starogard Gdański Poland
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-| 12. MARKETINGAUTHORISATIONNUMBER(S)   |
-|---------------------------------------|
+{logo} Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83-200 Starogard Gdański Poland
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/25/1961/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+| 13. BATCH NUMBER   |
+|--------------------|
 
-Lot
+Lot Vgenfli 40 mg/mL injection aflibercept Intravitreal use EXP
 
-| 14.   | GENERALCLASSIFICATIONFORSUPPLY   |
-|-------|----------------------------------|
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-| 16.   | INFORMATIONINBRAILLE   |
-|-------|------------------------|
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTO APPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|-------------------------------------------------------------|
-| LABEL                                                       |
-| PRE-FILLEDSYRINGE                                           |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL                                                              |
+| PRE-FILLED SYRINGE                                                 |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
-|------|-----------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
-Vgenfli 40 mg/mL injection aflibercept Intravitreal use
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
-
-| 3.   | EXPIRYDATE   |
-|------|--------------|
-
-EXP
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.165 mL
 
@@ -1916,7 +1834,9 @@ VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vgenfli 40 mg/mL solution for injection in a vial aflibercept
+Vgenfli 40 mg/mL solution for injection in a vial
+
+aflibercept
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCES
 
@@ -1960,15 +1880,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze. Store in the original package in order to protect from light.
-
-The unopened vial may be stored outside the refrigerator below 25°C for up to 24 hours.
+Store in a refrigerator. Do not freeze. Store in the original package in order to protect from light. The unopened vial may be stored outside the refrigerator below 25°C for up to 24 hours.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-{logo} Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83 - 200 Starogard Gdański Poland
+{logo} Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83-200 Starogard Gdański Poland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1978,11 +1896,11 @@ EU/1/25/1961/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -1998,21 +1916,21 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTO APPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|-------------------------------------------------------------|
-| LABEL                                                       |
-| VIAL                                                        |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL                                                              |
+| VIAL                                                               |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
-|------|-----------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Vgenfli 40 mg/mL injection aflibercept Intravitreal use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -2021,8 +1939,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 11.12 mg/0.278 mL
 
@@ -2045,8 +1963,8 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
 
 If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
@@ -2063,10 +1981,10 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 Vgenfli is a solution which is injected into the eye to treat eye conditions in adults called
 
-- -neovascular (wet) age-related macular degeneration (wet AMD),
-- -impaired vision due to macular oedema secondary to retinal vein occlusion (branch RVO (BRVO) or central RVO (CRVO)),
-- -impaired vision due to diabetic macular oedema (DME),
-- -impaired vision due to myopic choroidal neovascularisation (myopic CNV).
+- neovascular (wet) age-related macular degeneration (wet AMD),
+- impaired vision due to macular oedema secondary to retinal vein occlusion (branch RVO (BRVO) or central RVO (CRVO)),
+- impaired vision due to diabetic macular oedema (DME),
+- impaired vision due to myopic choroidal neovascularisation (myopic CNV).
 
 Aflibercept, the active substance in Vgenfli, blocks the activity of a group of factors, known as Vascular Endothelial Growth Factor A (VEGF-A) and Placental Growth Factor (PlGF).
 
@@ -2078,54 +1996,52 @@ In patients with BRVO, one or more branches of the main blood vessel that transp
 
 Diabetic macular oedema is a swelling of the retina occurring in patients with diabetes due to leaking of fluid from blood vessels within the macula. The macula is the portion of retina responsible for fine vision. When the macula swells with fluid, central vision becomes blurry.
 
-Vgenfli has been shown to stop the growth of new abnormal blood vessels in the eye which often leak
+Vgenfli has been shown to stop the growth of new abnormal blood vessels in the eye which often leak fluid or bleed. Vgenfli can help to stabilise, and in many cases, improve the vision loss related to wet AMD, CRVO, BRVO, DME and myopic CNV.
 
 <div style=\"page-break-after: always\"></div>
-
-fluid or bleed. Vgenfli can help to stabilise, and in many cases, improve the vision loss related to wet AMD, CRVO, BRVO, DME and myopic CNV.
 
 ## 2. What you need to know before you are given Vgenfli
 
 ## You will not be given Vgenfli
 
-- -if you are allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6).
-- -if you have an active or suspected infection in or around the eye (ocular or periocular infection).
-- -if you have severe inflammation of the eye (indicated by pain or redness).
+- if you are allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6).
+- if you have an active or suspected infection in or around the eye (ocular or periocular infection).
+- if you have severe inflammation of the eye (indicated by pain or redness).
 
 ## Warnings and precautions
 
 Talk to your doctor before you are given Vgenfli:
 
-- -if you have glaucoma.
-- -if you have a history of seeing flashes of light or floaters and if you have a sudden increase of size and number of floaters.
-- -if surgery was performed or is planned on your eye within the previous or next four weeks.
-- -if you have a severe form of CRVO or BRVO (ischaemic CRVO or BRVO), treatment with Vgenfli is not recommended.
+- if you have glaucoma.
+- if you have a history of seeing flashes of light or floaters and if you have a sudden increase of size and number of floaters.
+- if surgery was performed or is planned on your eye within the previous or next four weeks.
+- if you have a severe form of CRVO or BRVO (ischaemic CRVO or BRVO), treatment with Vgenfli is not recommended.
 
 Furthermore, it is important for you to know that:
 
-- -the safety and efficacy of Vgenfli when administered to both eyes at the same time has not been studied and if used in this way may lead to an increased risk of experiencing side effects.
-- -injections with Vgenfli may cause an increase in eye pressure (intraocular pressure) in some patients within 60 minutes of the injection. Your doctor will monitor this after each injection.
-- -if you develop an infection or inflammation inside the eye (endophthalmitis) or other complications, you may have eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, and increased sensitivity to light. It is important to have any symptoms diagnosed and treated as soon as possible.
-- -your doctor will check whether you have other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye (retinal detachment or tear, and retinal pigment epithelial detachment or tear), in which case Vgenfli must be given with caution.
-- -Vgenfli should not be used in pregnancy unless the potential benefit outweighs the potential risk to the unborn child.
-- -women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Vgenfli.
+- the safety and efficacy of Vgenfli when administered to both eyes at the same time has not been studied and if used in this way may lead to an increased risk of experiencing side effects.
+- injections with Vgenfli may cause an increase in eye pressure (intraocular pressure) in some patients within 60 minutes of the injection. Your doctor will monitor this after each injection.
+- if you develop an infection or inflammation inside the eye (endophthalmitis) or other complications, you may have eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, and increased sensitivity to light. It is important to have any symptoms diagnosed and treated as soon as possible.
+- your doctor will check whether you have other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye (retinal detachment or tear, and retinal pigment epithelial detachment or tear), in which case Vgenfli must be given with caution.
+- Vgenfli should not be used in pregnancy unless the potential benefit outweighs the potential risk to the unborn child.
+- women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Vgenfli.
 
 The systemic use of VEGF inhibitors, substances similar to those contained in Vgenfli, is potentially related to the risk of blood clots blocking blood vessels (arterial thromboembolic events) which may lead to heart attack or stroke. There is a theoretical risk of such events following injection of Vgenfli into the eye. There are limited data on safety in treating patients with CRVO, BRVO, DME and myopic CNV who have had a stroke or a mini-stroke (transient ischaemic attack) or a heart attack within the last 6 months. If any of these apply to you, Vgenfli will be given with caution.
 
 There is only limited experience in the treatment of
 
-- -patients with DME due to type I diabetes.
-- -diabetics with very high average blood sugar values (HbA1c over 12%).
-- -diabetics with an eye disease caused by diabetes called proliferative diabetic retinopathy.
+- patients with DME due to type I diabetes.
+- diabetics with very high average blood sugar values (HbA1c over 12%).
+- diabetics with an eye disease caused by diabetes called proliferative diabetic retinopathy.
 
 There is no experience in the treatment of
 
-- -patients with acute infections.
-- -patients with other eye conditions such as a detachment of the retina or a hole in the macula.
-- -diabetics with uncontrolled high blood pressure.
-- -non-Asian patients with myopic CNV.
-- -patients previously treated for myopic CNV.
-- -patients with damage outside the central part of the macula (extrafoveal lesions) for myopic
+- patients with acute infections.
+- patients with other eye conditions such as a detachment of the retina or a hole in the macula.
+- diabetics with uncontrolled high blood pressure.
+- non-Asian patients with myopic CNV.
+- patients previously treated for myopic CNV.
+- patients with damage outside the central part of the macula (extrafoveal lesions) for myopic
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2143,9 +2059,9 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy and breast-feeding
 
-- -Women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Vgenfli.
-- -There is no experience of using Vgenfli in pregnant women. Vgenfli should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant or planning to become pregnant, discuss this with your doctor before treatment with Vgenfli.
-- -Small amounts of Vgenfli may pass into human milk. The effects on breast-fed newborns/infants are unknown. Vgenfli is not recommended during breast-feeding. If you are a breastfeeding woman, discuss this with your doctor before treatment with Vgenfli.
+- Women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Vgenfli.
+- There is no experience of using Vgenfli in pregnant women. Vgenfli should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant or planning to become pregnant, discuss this with your doctor before treatment with Vgenfli.
+- Small amounts of Vgenfli may pass into human milk. The effects on breast-fed newborns/infants are unknown. Vgenfli is not recommended during breast-feeding. If you are a breastfeeding woman, discuss this with your doctor before treatment with Vgenfli.
 
 ## Driving and using machines
 
@@ -2155,14 +2071,16 @@ After your injection with Vgenfli, you may experience some temporary visual dist
 
 This medicine contains:
 
-- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodiumfree'
+- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'
 - 0.015 mg of polysorbate 20 in each 0.05 mL dose which is equivalent to 0.3 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How you will be given Vgenfli
 
 A doctor experienced in giving eye injections will inject Vgenfli into your eye under aseptic (clean and sterile) conditions.
 
-The recommended dose is 2 mg aflibercept (0.05 mL). Vgenfli is given as an injection into your eye (intravitreal injection).
+The recommended dose is 2 mg aflibercept (0.05 mL).
+
+Vgenfli is given as an injection into your eye (intravitreal injection).
 
 Before the injection your doctor will use a disinfectant eyewash to clean your eye carefully to prevent infection. Your doctor will also give you a local anaesthetic to reduce or prevent any pain you might have with the injection.
 
@@ -2192,7 +2110,7 @@ Your doctor will monitor your response to treatment and may continue your treatm
 
 Based on your response to treatment your doctor will decide on the schedule for follow up examinations and treatments.
 
-## Diabetic macular oedema (DME )
+## Diabetic macular oedema (DME)
 
 Patients with DME will be treated with one injection per month for the first five consecutive doses followed by one injection every two months thereafter.
 
@@ -2210,7 +2128,7 @@ If your condition goes away and then comes back, your doctor may re-start the tr
 
 Your doctor will decide on the schedule for follow up examinations.
 
-Detailed instructions for use are given at the end of the leaflet under 'How to prepare and administer Vgenfli '.
+Detailed instructions for use are given at the end of the leaflet under \"How to prepare and administer Vgenfli\".
 
 ## If a dose of Vgenfli is missed
 
@@ -2230,9 +2148,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Allergic reactions (hypersensitivity) could potentially occur. These may be serious and require that you contact your doctor immediately.
 
-With administration of Vgenfli, there may be some side effects affecting the eyes which are due to the injection procedure. Some of these may be serious and include blindness , a serious infection or inflammation inside the eye (endophthalmitis), detachment , tear or bleeding of the light-sensitive layer at the back of the eye (retinal detachment or tear), clouding of the lens (cataract), bleeding in the eye (vitreous haemorrhage), detachment of the gel-like substance inside the eye from the retina (vitreous detachment) and increase of pressure inside the eye , see section 2. These serious side effects affecting the eyes occurred in less than 1 in 1,900 injections in clinical studies.
+With administration of Vgenfli, there may be some side effects affecting the eyes which are due to the injection procedure. Some of these may be serious and include blindness, a serious infection or inflammation inside the eye (endophthalmitis), detachment, tear or bleeding of the light-sensitive layer at the back of the eye (retinal detachment or tear), clouding of the lens (cataract), bleeding in the eye (vitreous haemorrhage), detachment of the gel-like substance inside the eye from the retina (vitreous detachment) and increase of pressure inside the eye, see section 2. These serious side effects affecting the eyes occurred in less than 1 in 1,900 injections in clinical studies.
 
-If you experience a sudden decrease in vision, or an increase in pain and redness in your eye after your injection, contact your doctor immediately .
+If you experience a sudden decrease in vision, or an increase in pain and redness in your eye after your injection, contact your doctor immediately.
 
 ## List of side effects reported
 
@@ -2240,50 +2158,52 @@ The following is a list of the side effects reported to be possibly related to t
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
-- -deterioration of eyesight
-- -bleeding in the back of the eye (retinal haemorrhage)
-- -bloodshot eye caused by bleeding from small blood vessels in the outer layers of the eye
-- -eye pain
+- deterioration of eyesight
+- bleeding in the back of the eye (retinal haemorrhage)
+- bloodshot eye caused by bleeding from small blood vessels in the outer layers of the eye
+- eye pain
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- -detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters sometimes progressing to a loss of vision (retinal pigment epithelial tear*/detachment, retinal detachment/tear)
+- detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters sometimes progressing to a loss of vision (retinal pigment epithelial tear*/detachment, retinal detachment/tear)
 - o *Conditions known to be associated with wet AMD; observed in wet AMD patients only.
-- -degeneration of the retina causing disturbed vision
-- -bleeding in the eye (vitreous haemorrhage)
-- -certain forms of clouding of the lens (cataract)
-- -damage to the front layer of the eyeball (the cornea)
-- -increase in eye pressure
-- -moving spots in vision (floaters)
-- -detachment of the gel-like substance inside the eye from the retina (vitreous detachment, resulting in flashes of light with floaters)
-- -a feeling of having something in the eye
-- -increased tear production
-- -swelling of the eyelid
-- -bleeding at the injection site
-- -redness of the eye
+- degeneration of the retina causing disturbed vision
+- bleeding in the eye (vitreous haemorrhage)
+- certain forms of clouding of the lens (cataract)
+- damage to the front layer of the eyeball (the cornea)
+- increase in eye pressure
+- moving spots in vision (floaters)
+- detachment of the gel-like substance inside the eye from the retina (vitreous detachment, resulting in flashes of light with floaters)
+- a feeling of having something in the eye
+- increased tear production
+- swelling of the eyelid
+- bleeding at the injection site
+- redness of the eye
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-- -allergic reactions (hypersensitivity)**
+- allergic reactions (hypersensitivity)**
 - o ** Allergic reactions like rash, itching (pruritus), hives (urticaria), and a few cases of severe allergy (anaphylactic/anaphylactoid) reactions were reported.
-- -serious inflammation or infection inside the eye (endophthalmitis)
-- -inflammation in the iris or other parts of the eye (iritis, uveitis, iridocyclitis, anterior chamber flare)
-- -abnormal sensation in the eye
-- -eyelid irritation
-- -swelling of the front layer of the eyeball (cornea)
+- serious inflammation or infection inside the eye (endophthalmitis)
+- inflammation in the iris or other parts of the eye (iritis, uveitis, iridocyclitis, anterior chamber flare)
+- abnormal sensation in the eye
+- eyelid irritation
+- swelling of the front layer of the eyeball (cornea)
 
 <div style=\"page-break-after: always\"></div>
 
 Rare side effects (may affect up to 1 in 1,000 people):
 
-- -blindness
-- -clouding of the lens due to injury (traumatic cataract)
-- -inflammation of the gel-like substance inside the eye
-- -pus in the eye
+- blindness
+- clouding of the lens due to injury (traumatic cataract)
+- inflammation of the gel-like substance inside the eye
+- pus in the eye
+- inflammation of blood vessels in the back of the eye (retinal vasculitis)
 
 Not known (frequency cannot be estimated from the available data):
 
-- -inflammation of the white part of the eye associated with redness and pain (scleritis).
+- inflammation of the white part of the eye associated with redness and pain (scleritis)
+- blockage of blood vessels in the back of the eye, typically in presence of inflammation (retinal occlusive vasculitis).
 
 In the clinical trials, there was an increased incidence of bleeding from small blood vessels in the outer layers of the eye (conjunctival haemorrhage) in patients with wet AMD receiving blood thinners. This increased incidence was comparable between patients treated with ranibizumab and aflibercept.
 
@@ -2297,31 +2217,29 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## 5. How to store Vgenfli
 
-- -Keep this medicine out of the sight and reach of children.
-- -Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2 °C to 8 °C). Do not freeze.
-- -The unopened blister may be stored outside the refrigerator below 25 °C for up to 24 hours.
-- -Store in the original package in order to protect from light.
-- -Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2 °C to 8 °C). Do not freeze.
+- The unopened blister may be stored outside the refrigerator below 25 °C for up to 24 hours.
+- Store in the original package in order to protect from light.
+- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Vgenfli contains
 
-- -The active substance is: aflibercept. Each pre-filled syringe contains 6.6 mg aflibercept in 0.165 mL solution. This provides a usable amount to deliver a single dose of 0.05 mL containing 2 mg aflibercept.
-- -The other ingredients are: sodium acetate trihydrate, acetic acid (glacial) 100%, sucrose, sodium chloride, polysorbate 20 (E 432), water for injections.
+- The active substance is: aflibercept. Each pre-filled syringe contains 6.6 mg aflibercept in 0.165 mL solution. This provides a usable amount to deliver a single dose of 0.05 mL containing 2 mg aflibercept.
+- The other ingredients are: sodium acetate trihydrate, acetic acid (glacial) 100%, sucrose, sodium chloride, polysorbate 20 (E 432), water for injections.
 
-See ' Vgenfli contains' in section 2 for more information.
+See 'Important information about some of the ingredients of Vgenfli' in section 2 for more information.
 
 ## What Vgenfli looks like and contents of the pack
 
 Vgenfli is a solution for injection (injection) in a pre-filled syringe. The solution is colourless to pale yellow.
 
-Single-dose 1 mL long luer-lock pre-filled syringe (PFS; fill volume: 165 microliters solution) made of cyclo-olefin polymer (COP) resin, with a tip cap made of chlorinated butyl rubber. The syringe is
-
 <div style=\"page-break-after: always\"></div>
 
-closed with a piston made of chlorinated butyl rubber coated with cross-linked silicone.
+Single-dose 1 mL long luer-lock pre-filled syringe (PFS; fill volume: 165 microliters solution) made of cyclo-olefin polymer (COP) resin, with a tip cap made of chlorinated butyl rubber. The syringe is closed with a piston made of chlorinated butyl rubber coated with cross-linked silicone.
 
 Each carton includes one PFS containing a nominal fill volume of 165 microliters solution for intravitreal injection.
 
@@ -2329,7 +2247,7 @@ Pack size of 1 pre-filled syringe.
 
 ## Marketing Authorisation Holder
 
-Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83 -200 Starogard Gdański Poland
+Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83-200 Starogard Gdański Poland
 
 ## Manufacturer
 
@@ -2339,23 +2257,19 @@ For any information about this medicine, please contact the local representative
 
 ## België / Belgique / Belgien
 
-Mdbiologics LTD Ireland
-
-Tél/Tel: +
-
-44 77 535 797 82
+Mdbiologics LTD Ireland Tél/Tel: +44 77 535 797 82
 
 ## България
 
 Zakłady Farmaceutyczne POLPHARMA S.A.
 
-Te л
-
-.: +48 22 364 61 01
+Teл.: +48 22 364 61 01
 
 ## Česká republika
 
-Zakłady Farmaceutyczne POLPHARMA S.A., organizační složka Tel: +420 272 656 940
+Zakłady Farmaceutyczne POLPHARMA S.A., organizační složka
+
+Tel: +420 272 656 940
 
 ## Danmark
 
@@ -2365,9 +2279,7 @@ Tlf.: +44 77 535 797 82
 
 ## Deutschland
 
-Zakłady Farmaceutyczne POLPHARMA S.A.
-
-Tel: +48 22 364 61 01
+Zakłady Farmaceutyczne POLPHARMA S.A. Tel: +48 22 364 61 01
 
 ## Eesti
 
@@ -2379,31 +2291,19 @@ Tel: +370 37 325131
 
 Mdbiologics LTD Ireland
 
-Τηλ:
-
-+44 77 535 797 82
-
-## España
-
-Zakłady Farmaceutyczne
-
-POLPHARMA S.A.
-
-Tel: +48 22 364 61 01
+Τηλ: +44 77 535 797 82
 
 ## Lietuva
 
-POLPHARMA S.A. atstovybė
+POLPHARMA S.A.
+
+atstovybė
 
 Tel: +370 37 325131
 
 ## Luxembourg / Luxemburg
 
-Zakłady Farmaceutyczne POLPHARMA S.A.
-
-Tél/Tel:
-
-+48 22 364 61 01
+Zakłady Farmaceutyczne POLPHARMA S.A. Tél/Tel: +48 22 364 61 01
 
 ## Magyarország
 
@@ -2419,9 +2319,7 @@ Tel: +48 22 364 61 01
 
 ## Nederland
 
-Mdbiologics LTD Ireland
-
-Tel: +44 77 535 797 82
+Mdbiologics LTD Ireland Tel: +44 77 535 797 82
 
 ## Norge
 
@@ -2429,67 +2327,37 @@ Mdbiologics LTD Ireland Tlf: +44 77 535 797 82
 
 ## Österreich
 
-Zakłady Farmaceutyczne POLPHARMA S.A.
+Zakłady Farmaceutyczne POLPHARMA S.A. Tel: +48 22 364 61 01
 
-Tel: +48 22 364 61 01
+<div style=\"page-break-after: always\"></div>
 
-## Polska
+## España
 
 Zakłady Farmaceutyczne
 
-POLPHARMA S.A.
-
-Tel: +48 22 364 61 01
+POLPHARMA S.A. Tel: +48 22 364 61 01
 
 ## France
 
 Fresenius Kabi France Tel: +33 1 41 14 26 00
 
-## Portugal
-
-Mdbiologics LTD Ireland
-
-Tel: +44 77 535 797 82
-
 ## Hrvatska
-
-Zakłady Farmaceutyczne POLPHARMA S.A.
-
-Tel: +48 22 364 61 01 CHARAKTERYSTYKA PRODUKTU LECZNICZEGO Tel: +48 22 364 61 01
-
-ANEKS I Zakłady Farmaceutyczne
-
-România
-
-POLPHARMA S.A.
-
-<div style=\"page-break-after: always\"></div>
-
-## Ireland
-
-## Slovenija
-
-Mdbiologics LTD Ireland
-
-Tel: +44 77 535 797 82
 
 Zakłady Farmaceutyczne POLPHARMA S.A.
 
 Tel: +48 22 364 61 01
 
+## Ireland
+
+Mdbiologics LTD Ireland
+
+Tel: +44 77 535 797 82
+
 ## Ísland
 
 Zakłady Farmaceutyczne POLPHARMA S.A.
 
-Sími: +
-
-48 22 364 61 01
-
-## Slovenská republika
-
-Zakłady Farmaceutyczne POLPHARMA S.A., organizační složka
-
-Tel: +420 272 656 940
+Sími: +48 22 364 61 01
 
 ## Italia
 
@@ -2497,25 +2365,11 @@ Zakłady Farmaceutyczne POLPHARMA S.A.
 
 Tel.: +48 22 364 61 01
 
-## Suomi/Finland
+## Κύπρος
 
-Mdbiologics LTD Ireland Puh/Tel: +44 77 535 797 82
+Zakłady Farmaceutyczne POLPHARMA S.A. Τηλ: + 48 22 364 61 01
 
-Κύπρος
-
-Zakłady Farmaceutyczne POLPHARMA S.A.
-
-Τηλ:
-
-+ 48 22 364 61 01
-
-## Sverige
-
-Mdbiologics LTD Ireland
-
-Tel: +44 77 535 797 82
-
-Latvija
+## Latvija
 
 POLPHARMA S.A. atstovybė
 
@@ -2529,9 +2383,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## The following information is intended for healthcare professionals only: How to prepare and administer Vgenfli
 
-The pre-filled syringe should only be used for the treatment of a single eye.
-
-Do not open the sterile pre-filled syringe blister outside the clean administration room.
+The pre-filled syringe should only be used for the treatment of a single eye. Do not open the sterile pre-filled syringe blister outside the clean administration room.
 
 The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL). The excess volume must be discarded prior to administration.
 
@@ -2539,27 +2391,58 @@ The solution should be inspected visually for any foreign particulate matter and
 
 The unopened blister may be stored outside the refrigerator below 25 °C for up to 24 hours. After opening the blister, proceed under aseptic conditions. For the intravitreal injection, a 30 G x ½ inch injection needle should be used.
 
+## Polska
+
+Zakłady Farmaceutyczne POLPHARMA S.A. Tel: +48 22 364 61 01
+
+## Portugal
+
+Mdbiologics LTD Ireland
+
+Tel: +44 77 535 797 82
+
+## România
+
+Zakłady Farmaceutyczne POLPHARMA S.A.
+
+Tel: +48 22 364 61 01
+
+## Slovenija
+
+Zakłady Farmaceutyczne POLPHARMA S.A.
+
+Tel: +48 22 364 61 01
+
+## Slovenská republika
+
+Zakłady Farmaceutyczne POLPHARMA S.A., organizační složka Tel: +420 272 656 940
+
+## Suomi/Finland
+
+Mdbiologics LTD Ireland
+
+Puh/Tel: +44 77 535 797 82
+
+## Sverige
+
+Mdbiologics LTD Ireland
+
+Tel: +44 77 535 797 82
+
+<div style=\"page-break-after: always\"></div>
+
 ## Instructions for use of pre-filled syringe:
 
 1. When ready to administer Vgenfli, open the carton and remove the sterilised blister. Carefully peel open the blister ensuring the sterility of its contents. Keep the syringe in the sterile tray until you are ready for assembly.
-
 2. Using aseptic technique, remove the syringe from the sterilised blister.
-
 3. To remove the syringe cap, hold the syringe in one hand while using the other hand to grasp the syringe cap with the thumb and fore finger. Please note: You should pull-off (do not snap off) the syringe cap.
-
 4. To avoid compromising the sterility of the product, do not pull back on the plunger
-
 5. Using aseptic technique, firmly twist the injection needle onto the Luer-lock syringe tip.
-
 6. Holding the syringe with the needle pointing up, check the syringe for bubbles. If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
 
-PULLOFF!
+<!-- image -->
 
-Injectionneedle
-
-Pre-filled syringe
-
-<div style=\"page-break-after: always\"></div>
+<!-- image -->
 
 <!-- image -->
 
@@ -2571,7 +2454,7 @@ Note: This accurate positioning of the plunger is very important, because incorr
 
 <!-- image -->
 
-8. Inject while pressing the plunger carefully and with constant pressure. Do not apply additional pressure once the plunger has reached the bottom of the syringe. Do not administer any residual solution observed in the syringe .
+8. Inject while pressing the plunger carefully and with constant pressure. Do not apply additional pressure once the plunger has reached the bottom of the syringe. Do not administer any residual solution observed in the syringe.
 9. The pre-filled syringe is for single use only. Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -2586,9 +2469,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor.
-- -If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2603,10 +2486,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 Vgenfli is a solution which is injected into the eye to treat eye conditions in adults called
 
-- -neovascular (wet) age-related macular degeneration (wet AMD),
-- -impaired vision due to macular oedema secondary to retinal vein occlusion (branch RVO (BRVO) or central RVO (CRVO)),
-- -impaired vision due to diabetic macular oedema (DME),
-- -impaired vision due to myopic choroidal neovascularisation (myopic CNV).
+- neovascular (wet) age-related macular degeneration (wet AMD),
+- impaired vision due to macular oedema secondary to retinal vein occlusion (branch RVO (BRVO) or central RVO (CRVO)),
+- impaired vision due to diabetic macular oedema (DME),
+- impaired vision due to myopic choroidal neovascularisation (myopic CNV).
 
 Aflibercept, the active substance in Vgenfli, blocks the activity of a group of factors, known as Vascular Endothelial Growth Factor A (VEGF-A) and Placental Growth Factor (PlGF).
 
@@ -2618,56 +2501,54 @@ In patients with BRVO, one or more branches of the main blood vessel that transp
 
 Diabetic macular oedema is a swelling of the retina occurring in patients with diabetes due to leaking of fluid from blood vessels within the macula. The macula is the portion of retina responsible for fine vision. When the macula swells with fluid, central vision becomes blurry.
 
-Vgenfli has been shown to stop the growth of new abnormal blood vessels in the eye which often leak
+Vgenfli has been shown to stop the growth of new abnormal blood vessels in the eye which often leak fluid or bleed. Vgenfli can help to stabilise, and in many cases, improve the vision loss related to wet AMD, CRVO, BRVO, DME and myopic CNV.
 
 <div style=\"page-break-after: always\"></div>
-
-fluid or bleed. Vgenfli can help to stabilise, and in many cases, improve the vision loss related to wet AMD, CRVO, BRVO, DME and myopic CNV.
 
 ## 2. What you need to know before you are given Vgenfli
 
 ## You will not be given Vgenfli
 
-- -if you are allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6).
-- -if you have an active or suspected infection in or around the eye (ocular or periocular infection).
-- -if you have severe inflammation of the eye (indicated by pain or redness).
+- if you are allergic to aflibercept or any of the other ingredients of this medicine (listed in section 6).
+- if you have an active or suspected infection in or around the eye (ocular or periocular infection).
+- if you have severe inflammation of the eye (indicated by pain or redness).
 
 ## Warnings and precautions
 
 Talk to your doctor before you are given Vgenfli:
 
-- -if you have glaucoma.
-- -if you have a history of seeing flashes of light or floaters and if you have a sudden increase of size and number of floaters.
-- -if surgery was performed or is planned on your eye within the previous or next four weeks.
-- -if you have a severe form of CRVO or BRVO (ischaemic CRVO or BRVO), treatment with Vgenfli is not recommended.
+- if you have glaucoma.
+- if you have a history of seeing flashes of light or floaters and if you have a sudden increase of size and number of floaters.
+- if surgery was performed or is planned on your eye within the previous or next four weeks.
+- if you have a severe form of CRVO or BRVO (ischaemic CRVO or BRVO), treatment with Vgenfli is not recommended.
 
 Furthermore, it is important for you to know that:
 
-- -the safety and efficacy of Vgenfli when administered to both eyes at the same time has not been studied and if used in this way may lead to an increased risk of experiencing side effects.
-- -injections with Vgenfli may cause an increase in eye pressure (intraocular pressure) in some patients within 60 minutes of the injection. Your doctor will monitor this after each injection.
-- -if you develop an infection or inflammation inside the eye (endophthalmitis) or other complications, you may have eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, and increased sensitivity to light. It is important to have any symptoms diagnosed and treated as soon as possible.
-- -your doctor will check whether you have other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye (retinal detachment or tear, and retinal pigment epithelial detachment or tear), in which case Vgenfli must be given with caution.
-- -Vgenfli should not be used in pregnancy unless the potential benefit outweighs the potential risk to the unborn child.
-- -women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Vgenfli.
+- the safety and efficacy of Vgenfli when administered to both eyes at the same time has not been studied and if used in this way may lead to an increased risk of experiencing side effects.
+- injections with Vgenfli may cause an increase in eye pressure (intraocular pressure) in some patients within 60 minutes of the injection. Your doctor will monitor this after each injection.
+- if you develop an infection or inflammation inside the eye (endophthalmitis) or other complications, you may have eye pain or increased discomfort, worsening eye redness, blurred or decreased vision, and increased sensitivity to light. It is important to have any symptoms diagnosed and treated as soon as possible.
+- your doctor will check whether you have other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye (retinal detachment or tear, and retinal pigment epithelial detachment or tear), in which case Vgenfli must be given with caution.
+- Vgenfli should not be used in pregnancy unless the potential benefit outweighs the potential risk to the unborn child.
+- women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Vgenfli.
 
 The systemic use of VEGF inhibitors, substances similar to those contained in Vgenfli, is potentially related to the risk of blood clots blocking blood vessels (arterial thromboembolic events) which may lead to heart attack or stroke. There is a theoretical risk of such events following injection of Vgenfli into the eye. There are limited data on safety in treating patients with CRVO, BRVO, DME and myopic CNV who have had a stroke or a mini-stroke (transient ischaemic attack) or a heart attack within the last 6 months. If any of these apply to you, Vgenfli will be given with caution.
 
 There is only limited experience in the treatment of
 
-- -patients with DME due to type I diabetes.
-- -diabetics with very high average blood sugar values (HbA1c over 12%).
-- -diabetics with an eye disease caused by diabetes called proliferative diabetic retinopathy.
+- patients with DME due to type I diabetes.
+- diabetics with very high average blood sugar values (HbA1c over 12%).
+- diabetics with an eye disease caused by diabetes called proliferative diabetic retinopathy.
 
 <div style=\"page-break-after: always\"></div>
 
 There is no experience in the treatment of
 
-- -patients with acute infections.
-- -patients with other eye conditions such as a detachment of the retina or a hole in the macula.
-- -diabetics with uncontrolled high blood pressure.
-- -non-Asian patients with myopic CNV.
-- -patients previously treated for myopic CNV.
-- -patients with damage outside the central part of the macula (extrafoveal lesions) for myopic CNV.
+- patients with acute infections.
+- patients with other eye conditions such as a detachment of the retina or a hole in the macula.
+- diabetics with uncontrolled high blood pressure.
+- non-Asian patients with myopic CNV.
+- patients previously treated for myopic CNV.
+- patients with damage outside the central part of the macula (extrafoveal lesions) for myopic CNV.
 
 If any of the above applies to you, your doctor will consider this lack of information when treating you with Vgenfli.
 
@@ -2681,9 +2562,9 @@ Tell your doctor if you are using, have recently used or might use any other med
 
 ## Pregnancy and breast-feeding
 
-- -Women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Vgenfli.
-- -There is no experience of using Vgenfli in pregnant women. Vgenfli should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant or planning to become pregnant, discuss this with your doctor before treatment with Vgenfli.
-- -Small amounts of Vgenfli may pass into human milk. The effects on breast-fed newborns/infants are unknown. Vgenfli is not recommended during breast-feeding. If you are a breastfeeding woman, discuss this with your doctor before treatment with Vgenfli.
+- Women of childbearing potential have to use effective contraception during treatment and for at least three further months after the last injection of Vgenfli.
+- There is no experience of using Vgenfli in pregnant women. Vgenfli should not be used during pregnancy unless the potential benefit outweighs the potential risk to the unborn child. If you are pregnant or planning to become pregnant, discuss this with your doctor before treatment with Vgenfli.
+- Small amounts of Vgenfli may pass into human milk. The effects on breast-fed newborns/infants are unknown. Vgenfli is not recommended during breast-feeding. If you are a breastfeeding woman, discuss this with your doctor before treatment with Vgenfli.
 
 ## Driving and using machines
 
@@ -2693,18 +2574,20 @@ After your injection with Vgenfli, you may experience some temporary visual dist
 
 This medicine contains:
 
-- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free'
+- less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'
 - 0.015 mg of polysorbate 20 in each 0.05 mL dose which is equivalent to 0.3 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How you will be given Vgenfli
 
 A doctor experienced in giving eye injections will inject Vgenfli into your eye under aseptic (clean and sterile) conditions.
 
-The recommended dose is 2 mg aflibercept (0.05 mL). Vgenfli is given as an injection into your eye (intravitreal injection).
+The recommended dose is 2 mg aflibercept (0.05 mL).
+
+Vgenfli is given as an injection into your eye (intravitreal injection).
 
 Before the injection your doctor will use a disinfectant eyewash to clean your eye carefully to prevent infection. Your doctor will also give you a local anaesthetic to reduce or prevent any pain you might have with the injection.
 
-wet AMD
+## wet AMD
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2766,9 +2649,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Allergic reactions (hypersensitivity) could potentially occur. These may be serious and require that you contact your doctor immediately.
 
-With administration of Vgenfli, there may be some side effects affecting the eyes which are due to the injection procedure. Some of these may be serious and include blindness , a serious infection or inflammation inside the eye (endophthalmitis), detachment, tear or bleeding of the light-sensitive layer at the back of the eye (retinal detachment or tear), clouding of the lens (cataract), bleeding in the eye (vitreous haemorrhage), detachment of the gel-like substance inside the eye from the retina (vitreous detachment) and increase of pressure inside the eye , see section 2. These serious side effects affecting the eyes occurred in less than 1 in 1,900 injections in clinical studies.
+With administration of Vgenfli, there may be some side effects affecting the eyes which are due to the injection procedure. Some of these may be serious and include blindness, a serious infection or inflammation inside the eye (endophthalmitis), detachment, tear or bleeding of the light-sensitive layer at the back of the eye (retinal detachment or tear), clouding of the lens (cataract), bleeding in the eye (vitreous haemorrhage), detachment of the gel-like substance inside the eye from the retina (vitreous detachment) and increase of pressure inside the eye, see section 2. These serious side effects affecting the eyes occurred in less than 1 in 1,900 injections in clinical studies.
 
-If you experience a sudden decrease in vision, or an increase in pain and redness in your eye after your injection, contact your doctor immediately .
+If you experience a sudden decrease in vision, or an increase in pain and redness in your eye after your injection, contact your doctor immediately.
 
 ## List of side effects reported
 
@@ -2776,50 +2659,53 @@ The following is a list of the side effects reported to be possibly related to t
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
-- -deterioration of eyesight
-- -bleeding in the back of the eye (retinal haemorrhage)
-- -bloodshot eye caused by bleeding from small blood vessels in the outer layers of the eye
-- -eye pain
+- deterioration of eyesight
+- bleeding in the back of the eye (retinal haemorrhage)
+- bloodshot eye caused by bleeding from small blood vessels in the outer layers of the eye
+- eye pain
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- -detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters sometimes progressing to a loss of vision (retinal pigment epithelial tear*/detachment, retinal detachment/tear)
-- -degeneration of the retina (causing disturbed vision)
-- -bleeding in the eye (vitreous haemorrhage)
-- -certain forms of clouding of the lens (cataract)
-- -damage to the front layer of the eyeball (the cornea)
-- -increase in eye pressure
-- -moving spots in vision (floaters)
-- -detachment of the gel-like substance inside the eye from the retina (vitreous detachment, resulting in flashes of light with floaters)
-- -a feeling of having something in the eye
-- -increased tear production
-- -swelling of the eyelid
-- -bleeding at the injection site
-- -redness of the eye
+- detachment or tear of one of the layers in the back of the eye, resulting in flashes of light with floaters sometimes progressing to a loss of vision (retinal pigment epithelial tear*/detachment, retinal detachment/tear)
+- degeneration of the retina (causing disturbed vision)
+- bleeding in the eye (vitreous haemorrhage)
+- certain forms of clouding of the lens (cataract)
+- damage to the front layer of the eyeball (the cornea)
+- increase in eye pressure
+- moving spots in vision (floaters)
+- detachment of the gel-like substance inside the eye from the retina (vitreous detachment, resulting in flashes of light with floaters)
+- a feeling of having something in the eye
+- increased tear production
+- swelling of the eyelid
+- bleeding at the injection site
+- redness of the eye
 * Conditions known to be associated with wet AMD; observed in wet AMD patients only.
 
 <div style=\"page-break-after: always\"></div>
 
 Uncommon side effects (may affect up to 1 in 100 people):
 
-- -allergic reactions (hypersensitivity)**
-- -serious inflammation or infection inside the eye (endophthalmitis)
-- -inflammation in the iris or other parts of the eye (iritis, uveitis, iridocyclitis, anterior chamber flare)
-- -abnormal sensation in the eye
-- -eyelid irritation
-- -swelling of the front layer of the eyeball (cornea)
-- ** Allergic reactions like rash, itching (pruritus), hives (urticaria), and a few cases of severe allergy (anaphylactic/anaphylactoid) reactions were reported.
+- allergic reactions (hypersensitivity)**
+- serious inflammation or infection inside the eye (endophthalmitis)
+- inflammation in the iris or other parts of the eye (iritis, uveitis, iridocyclitis, anterior chamber flare)
+- abnormal sensation in the eye
+- eyelid irritation
+- swelling of the front layer of the eyeball (cornea)
 
-## Rare side effects (may affect up to 1 in 1 000 people):
+** Allergic reactions like rash, itching (pruritus), hives (urticaria), and a few cases of severe allergy (anaphylactic/anaphylactoid) reactions were reported.
 
-- -blindness
-- -clouding of the lens due to injury (traumatic cataract)
-- -inflammation of the gel-like substance inside the eye
-- -pus in the eye
+Rare side effects (may affect up to 1 in 1 000 people):
+
+- blindness
+- clouding of the lens due to injury (traumatic cataract)
+- inflammation of the gel-like substance inside the eye
+- pus in the eye
+- inflammation of blood vessels in the back of the eye (retinal vasculitis)
 
 Not known (frequency cannot be estimated from the available data):
 
-- -inflammation of the white part of the eye associated with redness and pain (scleritis).
+- inflammation of the white part of the eye associated with redness and pain (scleritis)
+- blockage of blood vessels in the back of the eye, typically in presence of inflammation (retinal occlusive vasculitis).
 
 In the clinical trials, there was an increased incidence of bleeding from small blood vessels in the outer layers of the eye (conjunctival haemorrhage) in patients with wet AMD receiving blood thinners. This increased incidence was comparable between patients treated with ranibizumab and aflibercept.
 
@@ -2833,25 +2719,25 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 ## 5. How to store Vgenfli
 
-- -Keep this medicine out of the sight and reach of children.
-- -
+- Keep this medicine out of the sight and reach of children.
 - Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2°C -8°C). Do not freeze.
-- -The unopened vial may be stored outside the refrigerator below 25 °C for up to 24 hours.
-- -Store in the original package in order to protect from light.
-- -Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
+- Store in a refrigerator (2°C - 8°C). Do not freeze.
+- The unopened vial may be stored outside the refrigerator below 25 °C for up to 24 hours.
+- Store in the original package in order to protect from light.
+- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away any medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Vgenfli contains
 
-- -The active substance is: aflibercept. Each carton includes a type I glass vial containing a nominal fill volume of 0.278 mL solution for intravitreal injection with an elastomeric rubber stopper and aluminium cap, and an 18 G filter needle. Each vial provides a usable amount to deliver a single dose of 50 microliters containing 2 mg aflibercept.
+- The active substance is: aflibercept. Each carton includes a type I glass vial containing
 
 <div style=\"page-break-after: always\"></div>
 
-- -The other ingredients are: sodium acetate trihydrate, acetic acid (glacial) 100%, sucrose, sodium chloride, polysorbate 20 (E 432), water for injections.
+- a nominal fill volume of 0.278 mL solution for intravitreal injection with an elastomeric rubber stopper and aluminium cap, and an 18 G filter needle. Each vial provides a usable amount to deliver a single dose of 50 microliters containing 2 mg aflibercept.
+- The other ingredients are: sodium acetate trihydrate, acetic acid (glacial) 100%, sucrose, sodium chloride, polysorbate 20 (E 432), water for injections.
 
-See ' Vgenfli contains' in section 2 for more information.
+See 'Important information about some of the ingredients of Vgenfli ' in section 2 for more information.
 
 ## What Vgenfli looks like and contents of the pack
 
@@ -2859,7 +2745,7 @@ Vgenfli is a solution for injection (injection) in a vial. The solution is colou
 
 ## Marketing Authorisation Holder
 
-Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83 -200 Starogard Gdański Poland
+Zakłady Farmaceutyczne POLPHARMA S.A. ul. Pelplińska 19, 83-200 Starogard Gdański Poland
 
 ## Manufacturer
 
@@ -2869,13 +2755,13 @@ For any information about this medicine, please contact the local representative
 
 ## België / Belgique / Belgien
 
-Mdbiologics LTD Ireland
-
-Tél/Tel: +44 77 535 797 82
+Mdbiologics LTD Ireland Tél/Tel: +44 77 535 797 82
 
 ## България
 
-Zakłady Farmaceutyczne POLPHARMA S.A. Te л .: +48 22 364 61 01
+Zakłady Farmaceutyczne
+
+POLPHARMA S.A. Teл.: +48 22 364 61 01
 
 ## Česká republika
 
@@ -2895,29 +2781,17 @@ Tel: +48 22 364 61 01
 
 ## Eesti
 
-POLPHARMA S.A. atstovybė
-
-Tel: +370 37 325131
+POLPHARMA S.A. atstovybė Tel: +370 37 325131
 
 ## Ελλάδα
 
 Mdbiologics LTD Ireland
 
-Τηλ:
-
-+44 77 535 797 82
-
-## España
-
-Zakłady Farmaceutyczne POLPHARMA S.A. Tel: +48 22 364 61 01
+Τηλ: +44 77 535 797 82
 
 ## Lietuva
 
-POLPHARMA S.A.
-
-atstovybė
-
-Tel: +370 37 325131
+POLPHARMA S.A. atstovybė Tel: +370 37 325131
 
 ## Luxembourg / Luxemburg
 
@@ -2925,13 +2799,13 @@ Zakłady Farmaceutyczne POLPHARMA S.A. Tél/Tel: +48 22 364 61 01
 
 ## Magyarország
 
-Zakłady Farmaceutyczne POLPHARMA S.A.
-
-Tel: +48 22 364 61 01
+Zakłady Farmaceutyczne POLPHARMA S.A. Tel: +48 22 364 61 01
 
 ## Malta
 
-Zakłady Farmaceutyczne POLPHARMA S.A. Tel: +48 22 364 61 01
+Zakłady Farmaceutyczne POLPHARMA S.A.
+
+Tel: +48 22 364 61 01
 
 ## Nederland
 
@@ -2941,9 +2815,7 @@ Tel: +44 77 535 797 82
 
 ## Norge
 
-Mdbiologics LTD Ireland
-
-Tlf: +44 77 535 797 82
+Mdbiologics LTD Ireland Tlf: +44 77 535 797 82
 
 ## Österreich
 
@@ -2951,65 +2823,33 @@ Zakłady Farmaceutyczne POLPHARMA S.A.
 
 Tel: +48 22 364 61 01
 
-## Polska
-
-Zakłady Farmaceutyczne POLPHARMA S.A. Tel: +48 22 364 61 01
-
-## France
-
-Fresenius Kabi France Tel: +33 1 41 14 26 00
-
-## Portugal
-
-Mdbiologics LTD Ireland
-
-Tel: +44 77 535 797 82
-
-## Hrvatska
-
-Zakłady Farmaceutyczne
-
-POLPHARMA S.A.
-
-Tel: +48 22 364 61 01 CHARAKTERYSTYKA PRODUKTU LECZNICZEGO Tel: +48 22 364 61 01
-
-ANEKS I Zakłady Farmaceutyczne
-
-România
-
-POLPHARMA S.A.
-
-<div style=\"page-break-after: always\"></div>
-
-## Ireland
-
-## Slovenija
-
-Mdbiologics LTD Ireland
-
-Tel: +44 77 535 797 82
+## España
 
 Zakłady Farmaceutyczne POLPHARMA S.A.
 
 Tel: +48 22 364 61 01
 
+## France
+
+Fresenius Kabi France Tel: +33 1 41 14 26 00
+
+## Hrvatska
+
+Zakłady Farmaceutyczne POLPHARMA S.A.
+
+Tel: +48 22 364 61 01
+
+## Ireland
+
+Mdbiologics LTD Ireland
+
+Tel: +44 77 535 797 82
+
 ## Ísland
 
-Zakłady Farmaceutyczne
+Zakłady Farmaceutyczne POLPHARMA S.A.
 
-POLPHARMA S.A.
-
-Sími: +
-
-48 22 364 61 01
-
-## Slovenská republika
-
-Zakłady Farmaceutyczne POLPHARMA S.A., organizační
-
-složka
-
-Tel: +420 272 656 940
+Sími: +48 22 364 61 01
 
 ## Italia
 
@@ -3017,19 +2857,49 @@ Zakłady Farmaceutyczne POLPHARMA S.A.
 
 Tel.: +48 22 364 61 01
 
+## Κύπρος
+
+Zakłady Farmaceutyczne POLPHARMA S.A. Τηλ: + 48 22 364 61 01
+
+## Latvija
+
+POLPHARMA S.A. atstovybė
+
+Tel: +370 37 325131
+
+## Polska
+
+Zakłady Farmaceutyczne POLPHARMA S.A. Tel: +48 22 364 61 01
+
+## Portugal
+
+Mdbiologics LTD Ireland
+
+Tel: +44 77 535 797 82
+
+## România
+
+Zakłady Farmaceutyczne
+
+POLPHARMA S.A.
+
+Tel: +48 22 364 61 01
+
+## Slovenija
+
+Zakłady Farmaceutyczne POLPHARMA S.A.
+
+Tel: +48 22 364 61 01
+
+## Slovenská republika
+
+Zakłady Farmaceutyczne POLPHARMA S.A., organizační složka Tel: +420 272 656 940
+
 ## Suomi/Finland
 
 Mdbiologics LTD Ireland
 
 Puh/Tel: +44 77 535 797 82
-
-Κύπρος
-
-Zakłady Farmaceutyczne POLPHARMA S.A.
-
-Τηλ:
-
-+ 48 22 364 61 01
 
 ## Sverige
 
@@ -3037,11 +2907,7 @@ Mdbiologics LTD Ireland
 
 Tel: +44 77 535 797 82
 
-Latvija
-
-POLPHARMA S.A. atstovybė
-
-Tel: +370 37 325131
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -3065,8 +2931,59 @@ For the intravitreal injection, a 30 G x ½ inch injection needle should be used
 
 <div style=\"page-break-after: always\"></div>
 
+1. Remove the plastic cap and disinfect the outer part of the rubber stopper of the vial.
+2. Attach the 18 G, 5-micron filter needle supplied in the carton to a 1-mL sterile, Luer-lock syringe.
+3. Push the filter needle into the centre of the vial stopper until the needle is completely inserted into the vial and the tip touches the bottom or bottom edge of the vial.
+4. Using aseptic technique withdraw all of the Vgenfli vial contents into the syringe, keeping the vial in an upright position, slightly inclined to ease complete withdrawal. To deter the introduction of air, ensure the bevel of the filter needle is submerged into the liquid. Continue to tilt the vial during withdrawal keeping the bevel of the filter needle submerged in the liquid.
+5. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
+
 <!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+6. Remove the filter needle and properly dispose of it.
+
+Note: Filter needle is not to be used for intravitreal injection.
+
+7. Using aseptic technique, firmly twist a 30 G x ½ inch injection needle onto the Luer-lock syringe tip.
+8. Holding the syringe with the needle pointing up, check the syringe for bubbles. If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
+
+<!-- image -->
+
+<!-- image -->
+
+9. Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger so that the flat plunger edge aligns with the line that marks 0.05 mL on the syringe.
+
+<!-- image -->
+
+10. The vial is for single use only. Extraction of multiple doses from a single vial may increase the risk of contamination and subsequent infection.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV
+
+Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for aflibercept (ophthalmological indication(s)), the scientific conclusions of PRAC are as follows:
+
+In view of available data on retinal vasculitis with or without occlusion from clinical trials, the literature, spontaneous reports and in view of a plausible mechanism of action, the PRAC Rapporteur considers a causal relationship between aflibercept and retinal vasculitis with or without occlusion, is at least a reasonable possibility.
+
+The PRAC Rapporteur concluded that the product information of products containing aflibercept (all formulation) should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for aflibercept (ophthalmological indication(s)) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing aflibercept (ophthalmological indication(s)) is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.
